@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/bewezen-fluoride-verlaagt-het-menselijk-iq/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/wordt-er-nu-n-supermensenras-geboren/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
