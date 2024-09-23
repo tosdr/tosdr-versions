@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7a896e35842620566176999d665dce25
+3075a561eac6e9e4f41e12c8f0421fa4
 
 [](# "Expand for more options")[](# "Search")
 
@@ -103,13 +103,13 @@ Please enter a search keyword
     * [Metal](https://sojourner.biz/beads/metal.html "Metal")
     * [Bone](https://sojourner.biz/beads/bone.html "Bone")
     * [Large Hole](https://sojourner.biz/beads/large-hole.html "Large Hole")
+    * [Components](https://sojourner.biz/components.html "Components")
     * [Tools](https://sojourner.biz/beads/tools.html "Tools")
 * [Clothing](https://sojourner.biz/clothing.html "Clothing")
 * [Tabletop](https://sojourner.biz/tabletop.html "Tabletop")
 * [Bohemian Chic](https://sojourner.biz/bohemian-chic.html "Bohemian Chic")
 * [Soaps and Scents](https://sojourner.biz/soaps-and-scents.html "Soaps and Scents")
 * [Musical Instruments](https://sojourner.biz/musical-instruments.html "Musical Instruments")
-* [Components](https://sojourner.biz/components.html "Components")
 * [Gift Cards](https://sojourner.biz/gift-certificates.html "Gift Cards")
 
 Back
@@ -142,26 +142,26 @@ Terms and Conditions
 
 ### Featured Product
 
-[![20 mm by 10 mm Czech glass teardrops](https://sojourner.biz/images/cache/glass/GL0308ten.200.jpg)](https://sojourner.biz/beads/glass/20-mm-by-10-mm-czech-glass-teardrops.html "20 mm by 10 mm Czech glass teardrops")
+[![EB09 bead](https://sojourner.biz/images/cache/EB09lbl.200.jpg)](https://sojourner.biz/beads/metal/eb09-bead.html "EB09 bead")
 
-#### [20 mm by 10 mm Czech glass teardrops](https://sojourner.biz/beads/glass/20-mm-by-10-mm-czech-glass-teardrops.html "20 mm by 10 mm Czech glass teardrops")
+#### [EB09 bead](https://sojourner.biz/beads/metal/eb09-bead.html "EB09 bead")
 
-$5.00
+$5.65
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
-    $15.00
-3. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+2. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
     $16.00
+3. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+    $15.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
-    $16.00
-6. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
+6. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+    $16.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
