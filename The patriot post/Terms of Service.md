@@ -191,13 +191,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110440-matthew-19-26-2024-09-22)
+     [](https://patriotpost.us/memes/110441-the-border-2024-09-23)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34249)
+     [](https://patriotpost.us/cartoons/34256)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
