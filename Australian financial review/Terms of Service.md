@@ -291,15 +291,15 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3569%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_800%2C$y_88/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/47e89b53ba91a4fa488a2ef23d191a241171f5a6)](https://www.afr.com/life-and-luxury/fashion-and-style/former-young-rich-lister-s-surprise-return-to-the-business-she-left-behind-20240913-p5kack)
+[![ ](https://static.ffx.io/images/$zoom_0.1536%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_137%2C$y_54/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/885f897e2b3f2f80ed3cb2147a661c155b44faa7)](https://www.afr.com/companies/financial-services/australia-s-most-powerful-deal-makers-in-2024-20240819-p5k3hz)
 
-### [Former Young Rich Lister’s surprise return to the business she left behind](https://www.afr.com/life-and-luxury/fashion-and-style/former-young-rich-lister-s-surprise-return-to-the-business-she-left-behind-20240913-p5kack)
+### [Australia’s most powerful deal makers in 2024](https://www.afr.com/companies/financial-services/australia-s-most-powerful-deal-makers-in-2024-20240819-p5k3hz)
 
-* Lauren Sams
+* Sarah Thompson, Kanika Sood and Emma Rapaport
 
-* ### [Rodd & Gunn’s winning formula: Make him a little younger, still rugged](https://www.afr.com/life-and-luxury/fashion-and-style/rodd-and-gunn-s-winning-formula-make-him-a-little-younger-still-rugged-20240729-p5jxgg)
+* ### [The most powerful people in the consulting sector in 2024](https://www.afr.com/work-and-careers/leaders/the-most-powerful-people-in-the-consulting-sector-in-2024-20240826-p5k5a0)
     
-* ### [Up your negroni game with these essential new vermouths](https://www.afr.com/life-and-luxury/food-and-wine/up-your-negroni-game-with-these-essential-new-vermouths-20240702-p5jqix)
+* ### [Trying to make sense of the US election? Spare a thought for our diplomats](https://www.afr.com/world/north-america/trying-to-make-sense-of-the-us-election-spare-a-thought-for-our-diplomats-20240905-p5k886)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -319,15 +319,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1938%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_334/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e18c7ef757759b09c225cde4885718d54d8111ab)](https://www.afr.com/life-and-luxury/fashion-and-style/this-summer-is-going-to-be-hot-but-in-a-good-way-20240910-p5k9df)
+[![ ](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_21%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3e72f45673a03f88370c4aaa6849711ea5d98c45)](https://www.afr.com/life-and-luxury/health-and-wellness/what-happened-to-squash-this-financial-adviser-says-it-serves-him-well-20240919-p5kbub)
 
-### [This summer is going to be hot, but in a good way](https://www.afr.com/life-and-luxury/fashion-and-style/this-summer-is-going-to-be-hot-but-in-a-good-way-20240910-p5k9df)
+### [What happened to squash? This financial adviser says it serves him well](https://www.afr.com/life-and-luxury/health-and-wellness/what-happened-to-squash-this-financial-adviser-says-it-serves-him-well-20240919-p5kbub)
 
-* Eugenie Kelly
+* Life & Leisure
 
-* ### [The fastest car in the Mercedes-Benz line-up has arrived in Australia](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-fastest-car-in-the-mercedes-benz-line-up-has-arrived-in-australia-20240817-p5k351)
+* ### [Do non-alcoholic beverages really limit your booze intake?](https://www.afr.com/life-and-luxury/health-and-wellness/do-non-alcoholic-beverages-really-limit-your-booze-intake-20240918-p5kbh9)
     
-* ### [Next-gen Chinese winemaker starts exporting to Australia](https://www.afr.com/life-and-luxury/food-and-wine/wine-made-in-china-is-starting-to-get-interesting-20240911-p5k9ud)
+* ### [Kathy Lette on the ‘crime of menopause’, and dealing with enemies](https://www.afr.com/life-and-luxury/travel/kathy-lette-on-the-crime-of-menopause-and-dealing-with-enemies-20240904-p5k7yu)
     
 
 [Rich List](https://www.afr.com/rich-list)
