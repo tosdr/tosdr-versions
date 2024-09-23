@@ -13,7 +13,7 @@ Terms of Use
 * [Home](https://corporate.hubbardradio.com/)
 * Terms of Use
 
-_Update: September 2020_
+_Update: September 2024_
 
 **Any users located within the European Economic Area (“EEA”) are prohibited from using this Site.  For avoidance of doubt, this Site is not intended for users located within the EEA.**
 
@@ -21,7 +21,7 @@ _Update: September 2020_
 
 **No Use by Children.** The Site is not directed to, or intended for use by, children (defined as anyone age twelve or younger). Children should not use the Site or submit any information to Operator.
 
-**Links to Third Party Sites.** The Site will contain links to web sites operated by third parties. Such links do not constitute or imply an endorsement of the linked site. The linked sites may appear to be integrated into the Site, but are not under Operator’s control. Operator is not responsible for the operation or content of any linked site or subsequent links from that site. The policies that govern the use of a linked site will differ from these Terms of Use. You should review the policies of a linked site before making a decision to proceed to use that site. Notwithstanding the foregoing, by using the Site, you further agree to abide by and be bound by the YouTube Terms of Service.
+**Links to Third Party Sites.** The Site will contain links to web sites operated by third parties. Such links do not constitute or imply an endorsement of the linked site. The linked sites may appear to be integrated into the Site, but are not under Operator’s control. Operator is not responsible for the operation or content of any linked site or subsequent links from that site. The policies that govern the use of a linked site will differ from these Terms of Use. You should review the policies of a linked site before making a decision to proceed to use that site. Notwithstanding the foregoing, by using the Site, you further agree to abide by and be bound by the YouTube Terms of Service, available at [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms).
 
 **Intellectual Property.** You acknowledge that all content and materials available at the Site (collectively, the “Content”) are protected by national and international copyrights, trademarks, service marks, patents, patent registration rights, trade secrets, know-how or other proprietary rights and laws and, as between Operator and you, are owned exclusively by Operator. Except where otherwise noted, you may download, print or view individual pages at the Site for private, noncommercial use, provided you do not delete, change or otherwise modify any of the Content, including, but not limited to, any copyright or trademark notices. You may only use the Site and the Content as expressly permitted herein and for no other purpose. Except as authorized by Operator in writing on a case by case basis, you will not sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any of the Content. The systematic retrieval of any of the Content to create or compile, directly or indirectly, a collection, compilation, database or directory without the written permission of Operator is prohibited. Unless otherwise indicated, all logos, names, package designs and marks on the Site are trademarks or service marks and may not be used without permission. Operator’s policy is to terminate the online privileges of individuals who repeatedly violate the copyrights of others.
 
