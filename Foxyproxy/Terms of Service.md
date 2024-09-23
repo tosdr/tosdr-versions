@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm tremendously happy with the UK proxy service and will very likely be a longtime customer. I use the service to catch BBC programs whilst abroad. It's indispensable.
+Your support is super-dooper performance, helpful, friendly, competent. This does not happen to often in daily life.
 
-Jacomo Corbo
+Alex Kniess
