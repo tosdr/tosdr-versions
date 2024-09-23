@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Pediatricians, dental professionals, and other hea ![Pediatricians, dental professionals, and other healthcare providers are legally mandated to report suspected child abuse and neglect, including cases involving oral and dental injuries. This clinical report emphasizes the importance of collaboration among healthcare providers to identify and address the often-overlooked oral manifestations of abuse and neglect in children. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAOUJORtygE/) 
+
 [Patients need clear, definitive, and straightforwa ![Patients need clear, definitive, and straightforward information on the risks and benefits of capturing dental X-rays and why their diagnostic value is so important. Link in bio.⁠
 ⁠
 ⁠
@@ -178,13 +185,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DABVUUnPpVg/) 
-
-[A new report from the Alabama Department of Public ![A new report from the Alabama Department of Public Health highlights alarming disparities in dental care access, especially in rural areas. High rates of tooth decay and a shortage of oral health professionals are leaving residents vulnerable, with children and seniors disproportionately affected. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_-wh15MLtn/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
