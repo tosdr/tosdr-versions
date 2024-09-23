@@ -197,57 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Kobus Venter
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=67316229)  
-AMS Ambu Medical Supplies
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=58703761)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=204626938)  
-Westside Car Audio CC
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=199655527)  
+Multi CNC Solutions CC
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=118634420)  
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=208428589)  
+Three Moons Emporium
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=17056278)  
+Firstweb Hosting & Design
+
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=148419362)  
+Moving Made Easy (PTY) Ltd
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=87283511)  
+Alliance Energy
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=208374796)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=111191662)  
+Imvubu General Trading
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=119342090)  
+Lion Software Develepment
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=140853852)  
+Norton Medical & Consult - Namibia
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=186355584)  
+Itroniq (Pty) Ltd
+
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=169213446)  
 Desygn
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=212581384)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=208078323)  
-Prosper Park
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=192327901)  
-AquariumSmiths
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=41017371)  
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=76715571)  
 Cape Adventure Zone
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=88999870)  
-United Paintball Federation
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=177247843)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=135459666)  
-All Trucking Solutions
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=113434785)  
-WIP Digital Solutions
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=58225306)  
-McKaynine Mobility
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=46470567)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=4449479)  
-Creative Characters
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=17536207)  
-Vplay Letsheng Mall
-
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=2671cb31901b2088d296b3b74d2dd46de04924645452b90894e710e52121394b&c=23549788)  
-Super Sound Man (PTY) Ltd
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=c6d596db107175b4bea6895a07742d213fbc1f6993a722063edacaa32315899e&c=169998714)  
+Immediate Health (pty)ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
