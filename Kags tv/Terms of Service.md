@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KVUE/images/95a7688e-0af7-4fb5-bb31-f2ecfbf77771/20240923T032119/95a7688e-0af7-4fb5-bb31-f2ecfbf77771_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/95a7688e-0af7-4fb5-bb31-f2ecfbf77771/20240923T032119/95a7688e-0af7-4fb5-bb31-f2ecfbf77771_360x203.jpg)](https://www.kagstv.com/article/news/local/remembering-carrascolendas-bilingual-kids-tv-series/269-8e3a4403-2c3a-4c44-bf14-d29a98b6e69d)
+    *  [![](https://media.kagstv.com/assets/KPNX/images/939c5f8d-782d-43f9-84eb-a8b9c1420a33/20240919T002827/939c5f8d-782d-43f9-84eb-a8b9c1420a33_16x9.jpg) ![](https://media.kagstv.com/assets/KPNX/images/939c5f8d-782d-43f9-84eb-a8b9c1420a33/20240919T002827/939c5f8d-782d-43f9-84eb-a8b9c1420a33_360x203.jpg)](https://www.kagstv.com/article/news/local/valley-woman-returns-from-viral-9-month-long-cruise-around-the-world/75-a9a7099a-41c4-42cf-abec-5e843a254a5a)
         
-        #### [Remembering 'Carrascolendas': America's first-ever bilingual kids TV series](https://www.kagstv.com/article/news/local/remembering-carrascolendas-bilingual-kids-tv-series/269-8e3a4403-2c3a-4c44-bf14-d29a98b6e69d)
+        #### ['A life-changing experience', Arizona woman returns from viral 9-month-long cruise around the world](https://www.kagstv.com/article/news/local/valley-woman-returns-from-viral-9-month-long-cruise-around-the-world/75-a9a7099a-41c4-42cf-abec-5e843a254a5a)
         
-    *  [![](https://media.kagstv.com/assets/WFAA/images/e5247f29-5630-4fb0-ab0e-a4c5bc28806d/20240919T223714/e5247f29-5630-4fb0-ab0e-a4c5bc28806d_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/e5247f29-5630-4fb0-ab0e-a4c5bc28806d/20240919T223714/e5247f29-5630-4fb0-ab0e-a4c5bc28806d_360x203.jpg)](https://www.kagstv.com/article/news/local/trinity-bible-church-lead-pastor-removed-following-inappropriate-relationship-with-woman/287-a4350c54-ec7d-4f27-ae81-b7288f840adc)
+    *  [![](https://media.kagstv.com/assets/KHOU/images/c07bab71-23b5-47ea-9e5e-a8c7914317c8/20240923T023435/c07bab71-23b5-47ea-9e5e-a8c7914317c8_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/c07bab71-23b5-47ea-9e5e-a8c7914317c8/20240923T023435/c07bab71-23b5-47ea-9e5e-a8c7914317c8_360x203.jpg)](https://www.kagstv.com/article/news/local/manufactured-home-collapse-brazoria-county/285-5210c365-8aa8-4193-a683-2d6b1bcffd44)
         
-        #### [Trinity Bible Church lead pastor removed following 'inappropriate relationship' with a woman](https://www.kagstv.com/article/news/local/trinity-bible-church-lead-pastor-removed-following-inappropriate-relationship-with-woman/287-a4350c54-ec7d-4f27-ae81-b7288f840adc)
+        #### [BCSO: 2 dead, 5 hospitalized after becoming trapped underneath large mobile home that collapsed](https://www.kagstv.com/article/news/local/manufactured-home-collapse-brazoria-county/285-5210c365-8aa8-4193-a683-2d6b1bcffd44)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
+        
+        #### [Major storm warnings issued for Florida, Southeast US as Hurricane Helene is expected to form](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
+        
     *  [![](https://media.kagstv.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.kagstv.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
         #### [When is the first day of fall?](https://www.kagstv.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e52e645e-0b91-4f26-ba6f-40ba70997361/20240917T114315/e52e645e-0b91-4f26-ba6f-40ba70997361_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
-        
-        #### [What time is Tuesday's partial lunar eclipse?](https://www.kagstv.com/article/news/nation-world/september-2024-full-moon-harvest-moon-partial-eclipse-supermoon-time/507-d36e7dcc-254f-4a7b-852b-640017b8e713)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-80°
+89°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
