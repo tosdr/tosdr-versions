@@ -106,11 +106,11 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [64dd454d025e91c76405cd1d04f51ea8e7a4f6a7](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/64dd454d025e91c76405cd1d04f51ea8e7a4f6a7)
-Author: wheezard <90904039+wheezard@users.noreply.github.com>
-Date:   2024-09-07T05:46:36+04:00
+commit [836cfe8c1a80808532ad26b20065861b53e030f8](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/836cfe8c1a80808532ad26b20065861b53e030f8)
+Author: Drew DeVault <sir@cmpwn.com>
+Date:   2024-09-23T11:13:42+02:00
 
-man: fixed a typo (missing closing parenthesis)
+builds.sr.ht/compat: update Guix maintainer
 
 **Clone this wiki**
 
