@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/09db9866-68c3-433c-80ee-3dd245dc0810/20240918T233731/09db9866-68c3-433c-80ee-3dd245dc0810_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/09db9866-68c3-433c-80ee-3dd245dc0810/20240918T233731/09db9866-68c3-433c-80ee-3dd245dc0810_360x203.jpg)](https://www.wqad.com/article/news/local/usps-truck-building-collision-silvis-illinois/526-111b14ae-76b7-4a03-a1c2-0fd968d7c612)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/de886115-5e65-4479-9edf-337d8ddba8fa/20240923T042329/de886115-5e65-4479-9edf-337d8ddba8fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/de886115-5e65-4479-9edf-337d8ddba8fa/20240923T042329/de886115-5e65-4479-9edf-337d8ddba8fa_360x203.jpg)](https://www.wqad.com/article/news/local/geneseo-34th-annual-maple-leaf-classic/526-d0cccee9-7083-4f30-aed0-50abc50010b2)
         
-        #### [PHOTOS: USPS truck collides with building in Silvis](https://www.wqad.com/article/news/local/usps-truck-building-collision-silvis-illinois/526-111b14ae-76b7-4a03-a1c2-0fd968d7c612)
+        #### [QCA marching bands take to the field at Geneseo's 34th Annual Maple Leaf Classic](https://www.wqad.com/article/news/local/geneseo-34th-annual-maple-leaf-classic/526-d0cccee9-7083-4f30-aed0-50abc50010b2)
         
-    *  [![](https://media.tegna-media.com/assets/WOI/images/e2be2795-52b0-4283-8947-48bdc8c49d25/20240922T024833/e2be2795-52b0-4283-8947-48bdc8c49d25_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/e2be2795-52b0-4283-8947-48bdc8c49d25/20240922T024833/e2be2795-52b0-4283-8947-48bdc8c49d25_360x203.jpg)](https://www.wqad.com/article/news/local/guinness-world-record-breaker-fastest-motorized-wheelbarrow-mitchellville-saylorville-resident-wouned-warrior-project-fundraiser/524-09dd68d2-418a-4875-b3e0-08abf3fefe4d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fa6391ca-1dab-4de1-9841-9200febc0ed8/20240920T231600/fa6391ca-1dab-4de1-9841-9200febc0ed8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fa6391ca-1dab-4de1-9841-9200febc0ed8/20240920T231600/fa6391ca-1dab-4de1-9841-9200febc0ed8_360x203.jpg)](https://www.wqad.com/article/news/local/wyatt-earp-birthplace-airbnb-monmouth-illinois/526-85ed8356-0892-41cf-bdf4-dbd3697cffc7)
         
-        #### [Iowa man beats Guinness World Record for fastest motorized wheelbarrow](https://www.wqad.com/article/news/local/guinness-world-record-breaker-fastest-motorized-wheelbarrow-mitchellville-saylorville-resident-wouned-warrior-project-fundraiser/524-09dd68d2-418a-4875-b3e0-08abf3fefe4d)
+        #### [Wyatt Earp's birthplace in Monmouth is now an Airbnb](https://www.wqad.com/article/news/local/wyatt-earp-birthplace-airbnb-monmouth-illinois/526-85ed8356-0892-41cf-bdf4-dbd3697cffc7)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-57°
+54°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
