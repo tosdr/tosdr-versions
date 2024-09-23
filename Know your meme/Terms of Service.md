@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Marauder Shields](https://knowyourmeme.com/memes/marauder-shields "Marauder Shields") [Cards Against Humanity Suing Elon Musk](https://knowyourmeme.com/memes/events/cards-against-humanity-suing-elon-musk "Cards Against Humanity Suing Elon Musk") [Ironmouse YouTube Channel Shutdown](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown "Ironmouse YouTube Channel Shutdown")
+[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Ironmouse YouTube Channel Shutdown](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown "Ironmouse YouTube Channel Shutdown") [Cigar Cougar / Cursed Panther Smoking](https://knowyourmeme.com/memes/cigar-cougar-cursed-panther-smoking "Cigar Cougar / Cursed Panther Smoking")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
