@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/van-kanker-via-bde-naar-leven/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/de-2-kanten-van-een-munt/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -203,6 +203,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Ron](https://secure.gravatar.com/avatar/1b04eec12e302b86452b78c026422be2?s=50&d=identicon&r=g)
+
+##### **Ron** reacts on:
+
+##### Zijn de 2024-presidentsverkiezigen in de VS al gestolen..?
+
+[In de toekomst zal Amerikaanse politiek ontmaskerd worden al…](https://www.wanttoknow.nl/politiek/verkiezingen/zijn-de-2024-presidentsverkiezigen-in-de-vs-al-gestolen/comment-page-1/#comment-626329)
 
 ![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
 
@@ -451,14 +459,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Onderhoud 1 windmolenpark: 7 miljoen diesel/jaar..!!
 
 [7 miljoen liter diesel, is dat veel? 1 liter diesel = 10 kWh…](https://www.wanttoknow.nl/overige/onderhoud-1-windmolenpark-7-miljoen-diesel-jaar/comment-page-1/#comment-626293)
-
-![marjon205](https://secure.gravatar.com/avatar/e8f3d3885b3f67ec7b3986b9e164aa10?s=50&d=identicon&r=g)
-
-##### **marjon205** reacts on:
-
-##### Israël: de holocaust-bonus raakt op..?
-
-[Ik ben allerlei (predictive programming) berichten tegengeko…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/israel-de-holocaust-bonus-raakt-op/comment-page-1/#comment-626292)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
