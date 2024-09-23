@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Failing to prepare is preparing to fail ”
+“ The nice thing about standards is that you have so many to choose from; furthermore, if you do not like any of them, you can just wait for next year's model”
 
-[Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin)
+[Andrew S. Tanenbaum](http://en.wikipedia.org/wiki/Andrew_Tanenbaum)
 
 [](https://www.adafruit.com/about)
 
