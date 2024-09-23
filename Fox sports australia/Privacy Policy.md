@@ -38,6 +38,16 @@ FOX SCORES
     | NZL | 340 & 211 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240701)
+* [Women's T20I
+    
+    24/9 19:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250103)
 * [One-Day Cup
     
     VIC won by 4 wkts
@@ -126,64 +136,24 @@ FOX SCORES
     
 * [NFL
     
-    Full Time
+    24/9 9:30 AEST
     
     |     |     |
     | --- | --- |
-    | SEA | 24  |
-    | MIA | 3   |
+    | BUF | –   |
+    | JAX | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250308)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250313)
 * [NFL
     
-    Full Time
+    24/9 10:15 AEST
     
     |     |     |
     | --- | --- |
-    | LV  | 22  |
-    | CAR | 36  |
+    | CIN | –   |
+    | WAS | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250307)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ARI | 13  |
-    | DET | 20  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250311)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAR | 27  |
-    | SF  | 24  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250310)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DAL | 25  |
-    | BAL | 28  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250309)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ATL | 17  |
-    | KC  | 22  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250312)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250314)
 * Motorsport
     
 * [Formula 1
@@ -198,14 +168,14 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=592)
 * [MotoGP
     
-    Complete
+    27/9 12:45 AEST
     
     |     |
     | --- |
-    | San Marino GP |
+    | Indonesian GP |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=709)
+    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=719)
 * Rugby
     
 * [Rugby Champs
@@ -218,6 +188,16 @@ FOX SCORES
     | AUS | –   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
+* [Rugby Champs
+    
+    29/9 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | ARG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240602)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -962,7 +942,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
