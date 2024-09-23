@@ -355,7 +355,7 @@ Last Revised 09/15/2020
 
 ![2023-25 Accredited Parking Organization](https://www.spplus.com/wp-content/uploads/2023/08/IPMI_APO-D-Logo_23-25_CMYK-300dpi-1024x503.jpg)
 
-\*\*
+\*
 
 © 2024 [SP Plus Corporation](https://www.spplus.com/) – All Rights Reserved.
 
