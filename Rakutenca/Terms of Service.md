@@ -111,7 +111,7 @@ FR
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)[HP Canada
         
-        10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
+        8% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
         2% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
@@ -251,7 +251,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/clinique)[Origins
         
-        10% Cash Back](https://www.rakuten.ca/origins)[Clearly
+        3% Cash Back](https://www.rakuten.ca/origins)[Clearly
         
         up to 5% Cash Back](https://www.rakuten.ca/clearly)[MAC Cosmetics Canada
         
@@ -311,7 +311,7 @@ FR
         
         up to 4% Cash Back](https://www.rakuten.ca/coach)[Michael Kors
         
-        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        2% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
@@ -371,7 +371,7 @@ FR
         
         5% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
-        15% Cash Back](https://www.rakuten.ca/petsmart)[Rover
+        2% Cash Back](https://www.rakuten.ca/petsmart)[Rover
         
         Up to $15 Cash Back](https://www.rakuten.ca/rover)[Well.ca
         
@@ -477,7 +477,7 @@ FR
         
         Hotels.com
         
-        up to 8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
+        1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -492,7 +492,7 @@ FR
         
         Hotels.com
         
-        up to 8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
+        1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/fall-is-back "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
