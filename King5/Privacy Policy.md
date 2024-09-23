@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-registrarse-para-votar-la-gala-del-centro-de-la-raza-y-festival-de-las-catrinas-seattle/281-c9c744aa-0e3e-423e-9697-918a73328865)
+    *  [![](https://media.king5.com/assets/KING/images/c5236ce4-fa7c-4846-9da8-6bd1f0ceb8db/20240922T234630/c5236ce4-fa7c-4846-9da8-6bd1f0ceb8db_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c5236ce4-fa7c-4846-9da8-6bd1f0ceb8db/20240922T234630/c5236ce4-fa7c-4846-9da8-6bd1f0ceb8db_360x203.jpg)](https://www.king5.com/article/news/local/pursuit-suspect-fatal-shooting-i5-closures-everett/281-cdd3e716-5dbc-4d80-9ed3-7459bcec007c)
         
-        #### [Cinco Cosas: Registrarse para votar, La Gala del Centro de la Raza y Festival de Las Catrinas Seattle](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-registrarse-para-votar-la-gala-del-centro-de-la-raza-y-festival-de-las-catrinas-seattle/281-c9c744aa-0e3e-423e-9697-918a73328865)
+        #### [1 killed in Everett shooting; suspect crashes on I-5, blocking traffic](https://www.king5.com/article/news/local/pursuit-suspect-fatal-shooting-i5-closures-everett/281-cdd3e716-5dbc-4d80-9ed3-7459bcec007c)
         
-    *  [![](https://media.king5.com/assets/KING/images/f35d8280-02d3-48b4-8b1e-72172762aecc/20240922T162652/f35d8280-02d3-48b4-8b1e-72172762aecc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f35d8280-02d3-48b4-8b1e-72172762aecc/20240922T162652/f35d8280-02d3-48b4-8b1e-72172762aecc_360x203.jpg)](https://www.king5.com/article/entertainment/events/el-centro-de-la-raza-gala-to-celebrate-community-raise-funds-for-continued-services/281-20705db3-cef1-43d6-96bf-282b9129f9a4)
+    *  [![](https://media.king5.com/assets/KGW/images/e7959b90-3cfc-47c9-885d-7eea8e3e4fdc/20240921T224911/e7959b90-3cfc-47c9-885d-7eea8e3e4fdc_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/e7959b90-3cfc-47c9-885d-7eea8e3e4fdc/20240921T224911/e7959b90-3cfc-47c9-885d-7eea8e3e4fdc_360x203.jpg)](https://www.king5.com/article/news/local/therapy-dogs-dovelewis-help-victims-multnomah-county-courtroom/283-5abd6d3b-6afc-49c0-a17b-9b5d77497324)
         
-        #### [El Centro de la Raza gala to celebrate community, raise funds for continued services](https://www.king5.com/article/entertainment/events/el-centro-de-la-raza-gala-to-celebrate-community-raise-funds-for-continued-services/281-20705db3-cef1-43d6-96bf-282b9129f9a4)
+        #### ['Testifying in a court room is extremely traumatizing': Mock trial preps volunteer dogs to help victims](https://www.king5.com/article/news/local/therapy-dogs-dovelewis-help-victims-multnomah-county-courtroom/283-5abd6d3b-6afc-49c0-a17b-9b5d77497324)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -97,7 +97,7 @@ Seattle, WA »
 
 66°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
