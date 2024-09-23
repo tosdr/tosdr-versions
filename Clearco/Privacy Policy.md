@@ -90,7 +90,7 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66ed9976998ac172e258474e_set-up-amazon-store.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66ed9976998ac172e258474e_set-up-amazon-store.avif)
 
 ###### How to Set up Your Amazon Store
 
