@@ -109,9 +109,9 @@ Weston, MA 02493
 Primary Sidebar
 ---------------
 
-[![Fastweb's $1,250 Your Future is Now Sweepstakes](https://www.fastweb.com/nfs/fastweb/static/1-250-your-future-is-now-sweepstakes/fastweb-1-250k-yfin-sweeps-600x500.jpg)
+[![Fastweb](https://www.fastweb.com/nfs/fastweb/static/2024/house-ads/300x250-scholarships.jpg)
 
-![Fastweb's $1,250 Your Future is Now Sweepstakes](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/contests/fastweb-1250-your-future-is-now-sweepstakes-summer-2024)
+![Fastweb](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/?utm_source=finaid&Utm_medium=referral&campaign=FWhouse)
 
 ### Helpful Links
 
