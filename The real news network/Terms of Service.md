@@ -108,8 +108,8 @@ Trending Posts
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 
@@ -172,8 +172,8 @@ Trending Posts
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 
@@ -371,8 +371,8 @@ Trending Posts
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 
