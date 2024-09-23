@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,8 +148,8 @@
 
 Сейчас читают
 
-* [Тёплый салат с кальмарами и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=173042)
 * [Булочки с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174336)
+* [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=145266)
 
 |     |
 | --- |
@@ -171,6 +171,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Осеняя кухня на скорую руку. Лучшие рецепты БЫСТРЕЕ! №24-39](https://www.russianfood.com/reading/?post_id=22634) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/672/sm_671436.jpg)](https://www.russianfood.com/reading/?post_id=22634)
+
+Овощное рагу с картофелем и грибами. Свинина с тыквой и солёными огурцами. Ризотто со скумбрией и кальмарами. Овощной салат с авокадо и шпинатом. Пирожные из сгущёнки с кокосовой стружкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22634)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22634#comments) | 23.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Поговорим на вкусном языке. Лучшие САЛАТЫ №24-39](https://www.russianfood.com/reading/?post_id=22633) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/735/sm_734687.jpg)](https://www.russianfood.com/reading/?post_id=22633)
+
+Салат со свёклой, авокадо и грушей. Тёплый салат с кальмарами и солёными огурцами. Слоёный салат с говяжьей печенью. Салат с копчёной красной рыбой и маслинами. Салат с запечённым куриным филе и грушей. Маринованная стручковая фасоль. Салат из квашеной капусты с беконом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22633)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22633#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -352,35 +380,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174365#comments) | 19.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Тыквенные булочки](https://www.russianfood.com/recipes/recipe.php?rid=174371) |     |
-
-[![Фото к рецепту: Тыквенные булочки](//img1.russianfood.com/dycontent/images_upl/740/sm_739881.jpg "Фото к рецепту: Тыквенные булочки")](https://www.russianfood.com/recipes/recipe.php?rid=174371)
-
-Проверенный простой рецепт тыквенных булочек. Румяные, в меру сладкие, пушистые и яркие внутри - такие булочки скрасят даже самый хмурый день.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174371)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174371#comments) | 19.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рис с брокколи и консервированным тунцом](https://www.russianfood.com/recipes/recipe.php?rid=174372) |     |
-
-[![Фото к рецепту: Рис с брокколи и консервированным тунцом](//img1.russianfood.com/dycontent/images_upl/740/sm_739561.jpg "Фото к рецепту: Рис с брокколи и консервированным тунцом")](https://www.russianfood.com/recipes/recipe.php?rid=174372)
-
-Сделаем отварной рис ярким на вкус, дополнив консервированным тунцом и овощами — брокколи, помидорами черри и кукурузой. Все ингредиенты отлично сочетаются и дополняют друг друга. Блюдо получается лёгким, но при этом питательным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174372)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174372#comments) | 19.09.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174365#comments) | 19.09.24 |     |
 
 |     |
 | --- |
@@ -471,4 +471,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(124)
+(133)
