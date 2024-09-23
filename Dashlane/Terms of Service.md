@@ -12,6 +12,7 @@
 * Partners
     
 * [Log in](https://app.dashlane.com/)
+* [Download](https://www.dashlane.com/download)
 
 [Request a demo](https://www.dashlane.com/business-password-manager/request-demo)[Contact Sales](https://www.dashlane.com/business-password-manager/enterprise)
 
