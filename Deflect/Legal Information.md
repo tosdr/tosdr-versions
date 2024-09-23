@@ -33,7 +33,7 @@ Menu
 * [Contact](https://deflect.ca/contact-us/)
 * [Sign up](https://dashboard.deflect.ca/signup)
 * [en](#pll_switcher)
-    * [ru](https://deflect.ca/ru/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0-%d0%ba%d0%be%d0%bd%d1%84%d0%b8%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d0%b8/)
+    * [ru](https://deflect.ca/ru/politika-konfidentsialnosti/)
     * [fr](https://deflect.ca/fr/avis-de-confidentialite/)
     * [es](https://deflect.ca/es/aviso-de-privacidad/)
     * [ua](https://deflect.ca/ua/polityky-konfidentsiinosti/)
@@ -98,7 +98,7 @@ Close Menu
     
 * [en](#pll_switcher)Show sub menu
     
-    * [ru](https://deflect.ca/ru/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0-%d0%ba%d0%be%d0%bd%d1%84%d0%b8%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d0%b8/)
+    * [ru](https://deflect.ca/ru/politika-konfidentsialnosti/)
         
     * [fr](https://deflect.ca/fr/avis-de-confidentialite/)
         
