@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Climate](https://www.sciencenews.org/topic/climate)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
+            ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")September 20, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")2 hours ago
             
-        * [Microbes](https://www.sciencenews.org/topic/microbes)
+        * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
-            ### [Some bacteria in your mouth can divide into as many as 14 cells at once](https://www.sciencenews.org/article/bacteria-unique-mouth-division)
+            ### [This researcher studies how misinformation seeps into science and politics](https://www.sciencenews.org/article/yotam-ophir-media-and-science)
             
-            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")September 20, 2024
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")2 hours ago
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [Vaccines for mpox are finally reaching Africa. But questions about the virus remain](https://www.sciencenews.org/article/mpox-africa-vaccines-outbreak-virus)
+            ### [A cell biologist is investigating the balance of brain flexibility, stability](https://www.sciencenews.org/article/andrea-gomez-brain-flexibility-behavior)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 19, 2024
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Scientists have just turned giant panda skin cells into stem cells](https://www.sciencenews.org/article/giant-panda-skin-cells-turned-stem-cells)
+            ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")September 20, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")2 hours ago
             
-        * [Microbes](https://www.sciencenews.org/topic/microbes)
+        * [Life](https://www.sciencenews.org/topic/life)
             
-            ### [Some bacteria in your mouth can divide into as many as 14 cells at once](https://www.sciencenews.org/article/bacteria-unique-mouth-division)
+            ### [This biophysicist’s work could one day let doctors control immune cells](https://www.sciencenews.org/article/hawa-racine-thiam-cell-biology-physics)
             
-            By [Saugat Bolakhe](https://www.sciencenews.org/author/saugat-bolakhe "Posts by Saugat Bolakhe")September 20, 2024
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")2 hours ago
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [Ants changed the architecture of their nests when exposed to a pathogen](https://www.sciencenews.org/article/ants-change-nest-architecture-pathogen)
+            ### [A cell biologist is investigating the balance of brain flexibility, stability](https://www.sciencenews.org/article/andrea-gomez-brain-flexibility-behavior)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")September 19, 2024
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Climate](https://www.sciencenews.org/topic/climate)
+    * * [Environment](https://www.sciencenews.org/topic/environment)
+            
+            ### [A biogeochemist is tracking the movements of toxic mercury pollution](https://www.sciencenews.org/article/jacqueline-gerson-mercury-movement)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")2 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
             
@@ -150,41 +156,41 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 19, 2024
             
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Can solar farms and crop farms coexist?](https://www.sciencenews.org/article/solar-agriculture-farming-argivoltaic)
-            
-            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 13, 2024
-            
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+    * * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
-            ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
+            ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 20, 2024
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")2 hours ago
             
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+        * [Life](https://www.sciencenews.org/topic/life)
             
-            ### [The Large Hadron Collider exposes quarks’ quantum entanglement](https://www.sciencenews.org/article/quarks-quantum-entanglement)
+            ### [This biophysicist’s work could one day let doctors control immune cells](https://www.sciencenews.org/article/hawa-racine-thiam-cell-biology-physics)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 18, 2024
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")2 hours ago
             
-        * [Physics](https://www.sciencenews.org/topic/physics)
+        * [Materials Science](https://www.sciencenews.org/topic/materials-science)
             
-            ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
+            ### [A materials scientist seeks to extract lithium from untapped sources](https://www.sciencenews.org/article/chong-liu-lithium-ev-batteries)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 17, 2024
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")2 hours ago
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+    * * [Cosmology](https://www.sciencenews.org/topic/cosmology)
+            
+            ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
+            
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")2 hours ago
+            
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Meet Porphyrion, the largest pair of black hole jets ever seen](https://www.sciencenews.org/article/universe-largest-black-hole-jets)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 18, 2024
-            
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [How to spot tiny black holes that might pass through the solar system](https://www.sciencenews.org/article/primordial-black-holes-solar-system) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 17, 2024
             
 
 Privacy Policy
