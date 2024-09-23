@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=200624521)  
-Blue Sky Solar Services
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=182928340)  
+Echo Recording Studio cc
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=112343074)  
-VerdanTech Pty Ltd
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=173836761)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=98510954)  
-Wiselink Broadband Vryheid
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=58691033)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=1368206)  
-Goju-Ryu Pretoria East
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=30326187)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=211807764)  
-Qothiphango Mining
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=139165867)  
+Cape Adventure Zone
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=172145454)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=12071226)  
+Van Der Merwe Olieverspreiders
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=143294931)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=128696631)  
+Peter Salvage Pty Ltd
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=113489187)  
-Printo
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=4582625)  
+Sarabi
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=79389845)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=51451571)  
+Khiya Technology Solutions
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=129623041)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=183082959)  
+Tracknetics
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=98246725)  
-ARCHITEK PTY LTD
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=128680228)  
+SR Travel Services
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=157275042)  
-NGB HOLDINGS PTY LTD
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=161399533)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=113427921)  
-Hydroworld T/A Milliqua
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=27329200)  
+McKaynine Mobility
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=160281713)  
-Fox Alarms & Security
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=186754014)  
+All Trucking Solutions
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=da4d0e7b1a3ea64165354e1dd7c0c922970b1ae0bf88be5b85e54491e41bca6c&c=197217849)  
-Desygn
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=22876885)  
+NWET Pty LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
