@@ -90,71 +90,108 @@ Effective Date: September 19, 2024
 * [Suomi](https://glooko.com/wp-content/uploads/2021/11/Glooko-AB-Privacy-Notice-Finland-2021-Nov-11.pdf)
 * [Svenska](https://glooko.com/wp-content/uploads/2021/06/Glooko-Privacy-Notice-update-FINAL.legalV2-2021-Mar-24_sv_SE.pdf)
 
-1. ****Introduction  
-    ****
+1. **Introduction**
     
-    1. We commit to safeguarding the privacy of our website visitors and users of the Glooko® products and services, including but not limited to the mobile application and web portals (collectively, the “Services”).
-    2. We provide the Services in the United States (through Glooko, Inc.) and in Europe (through Glooko AB), and are collectively referred to as “Glooko”. For data processing for the Glooko services outside of the U.S. and Canada, Glooko AB is the Data Controller.
-    3. In Europe, this notice applies where we are acting as a “Data Controller” with respect to the personal data processed through the use of our Services; in other words, where we determine the purposes and means of the processing of that personal data as part of our offering.
-    4. In this notice, “we”, “us” and “our” refer to Glooko.
-    5. In this notice, “you” and “your” may refer to you as the user of our Services that result in our processing of your personal data.
-    6. See section 24. “Notice to California residents” for protections specific to California residents using Glooko® services.
+    We commit to safeguarding the privacy of our website visitors and users of the Glooko® products and services, including but not limited to the mobile application and web portals (collectively, the “Services”).
     
-    2. **How we use your Personal Data**
+    We provide the Services in the United States (through Glooko, Inc.) and in Europe (through Glooko AB), and are collectively referred to as “Glooko.” For data processing for the Glooko services outside of the U.S. and Canada, Glooko AB is the Data Controller.
     
-    1. In this Section we have included:
+    In Europe, this notice applies where we are acting as a “Data Controller” with respect to the personal data processed through the use of our Services; in other words, where we determine the purposes and means of the processing of that personal data as part of our offering.
     
-    (a) the general categories of personal data that we may process;
+    In this notice, “we,” “us,” and “our” refer to Glooko. In this notice, “you” and “your” may refer to you as the user of our Services that result in our processing of your personal data.
     
-    (b) in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;
+    See section 24, “Notice to California residents,” for protections specific to California residents using Glooko® services.
     
-    (c) the purposes for which we may process personal data; and
+    * * *
     
-    (d) the legal bases of the processing.
+    **How We Use Your Personal Data**
     
-    1. We may process your personal data provided in the course of the use of our Services (“**Service Data**”). The Service Data may include name, email address, gender, date of birth, biometric data and health data and any other submitted or uploaded information. The source of the Service Data is you or your healthcare provider including device, activity, food or health data you share with our Services, such as from blood glucose meters, fitness trackers, or third-party services. The Service Data may be processed for the purposes of providing our Services, analyzing the use of our Services for product development, informing you about product news, informing you about product issues, providing information we believe is of interest to you and communicating with you. If you are a private person signing up directly to our Services, the legal basis is your consent. If you are a data controller representing data subjects, the legal basis for our processing is legitimate interest.
-    2. We may process personally identifiable data about your use of the Services (“**Usage Data**”). The Usage Data may include your IP address, geographical location, browser type and version, device make and model, operating system, referral source, length of visit, page views and navigation paths, as well as information about the timing, frequency and pattern of your service use. Usage Data is captured by our analytics tracking systems, which includes the use of cookies (see https://glooko.com/cookie-policy/). Usage Data may be processed for the purpose of analyzing the use and troubleshooting of the Services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our Services.
-    3. We may process personally identifiable data in our monitoring of network traffic of our Services (“**Traffic Data**”). The Traffic Data may include your IP address, browser type and version, operating system, and referral source. Traffic Data may be processed for the purposes of analyzing the use and troubleshooting of the Services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our Services.
-    4. We may process access information (“**Audit Log Data**”) regarding who has accessed and processed your Service Data and any access or processing you have made to other people’s Service Data. The Audit Log Data may include identification of the data subject, who has accessed the Service Data, when it was accessed, how it was accessed, and changes to Service Data. Audit Log Data may be processed for the purposes of allowing investigations to be performed regarding who has accessed your and other people’s personal data. The legal basis for this processing is legal requirements, which includes but is not limited to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Swedish Patient Data Law (2008:355).
-    5. We may process your business-related account data (“**Business Account Data**”). Business Account Data may include your name, email address and any other submitted information. The source of the Business Account Data is you, your employer or an industry partner of yours. The Business Account Data may be processed for the purposes of providing our Services, ensuring the security of our Services, maintaining back-ups of our databases and communicating with you. For the processing to establish or maintain a business relationship, the legal basis for this processing is legitimate interest.
-    6. We may process information contained in any inquiry you submit to us regarding our goods and/or Services (“**Inquiry Data**”) via our Services. Inquiry Data may be processed for the purposes of offering, marketing and selling relevant goods and/or services to you. The legal basis for this processing is legitimate interest to fulfil your inquiry.
-    7. We may process information relating to transactions, including purchases of goods and Services, that you enter into with us and/or through the Services (“**Transaction Data**”). Transaction Data may include your contact details, your payment details and the transaction details. Transaction Data may be processed for the purpose of supplying the purchased goods and Services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract and legal requirements for proper accounting.
-    8. We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (“**Notification Data**”). Notification Data may be processed for the purpose of sending you the relevant notifications and/or newsletters. The legal basis for this processing is your consent.
-    9. We may process information contained in or relating to any communication that you send to us (“**Correspondence Data**”). Correspondence Data may include the communication content and metadata associated with the communication. Correspondence Data may be processed for the purposes of communicating with you and record-keeping, e.g. for technical support or accounting purposes. Further, when you seek technical support from us, you understand and acknowledge that the individual(s) providing you with support may need to access your Service Data and Usage Data in order to diagnose the problem you are seeking support for; in this case, this information will only be used to help provide you with support. The legal basis for this processing is our legitimate interests, namely the proper administration of our business and communications with users, which we believe will benefit you.
-    10. We may process information about you for keeping records of incidents or complaints (“**Regulatory Data**”). Regulatory Data may be processed for the purposes of establishing internal reports and records that may be made available to authorities upon their request. The legal basis for this processing is legal requirements, specifically the Medical Device Regulation in the EU and the FDA in the United States, as well as similar governing bodies in the other countries Glooko operates in.
-    11. We may process your personal data you provide to us when you submit feedback to Glooko about our services (“**Feedback Data**”). The Feedback Data may include name, age and any information uploaded by you. The source of the Feedback Data is you. Feedback Data may be processed in marketing material and for publishing on our social channels such as Facebook, LinkedIn, Twitter and Instagram. The legal basis for this processing is your consent.
-    12. We may process any of your personal data identified in this notice where necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
-    13. We may process any of your personal data identified in this notice where necessary for the purposes of the protection of yours or others’ personal data. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
-    14. In addition to the specific purposes for which we may process your personal data outlined in this Section 2, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+    In this section, we have included:
     
-    2. **Automated decision-making**
+    (a) The general categories of personal data that we may process;
     
-    1. We or our Services may automate parts of decision-making processes.
-    2. Decision making processes may analyze your personal data to determine whether or not you or your experience in the Services will be subject to, but is not limited to, personalized reports, features, alerts, notifications, and invites to product testing.
-    3. Decision making processes may analyze your personal data to determine whether or not you will be subject to personalized marketing of products, features, events and services that we believe may be of interest to you.
+    (b) In the case of personal data that we did not obtain directly from you, the source and specific categories of that data;
     
-    4. **Providing your personal data to others**
+    (c) The purposes for which we may process personal data; and
     
-    1. Glooko’s policy is to avoid disclosing your personal data to others. We will protect and consider your interests at all times. In some cases, listed below, we may nevertheless disclose your personal data.
-    2. We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this notice.
-    3. We may disclose your Service Data to your healthcare provider when your diabetes devices are synced at your healthcare provider’s office, during your appointments.
-    4. We may disclose your personal data to our suppliers or subcontractors insofar as reasonably necessary in order to provide the Services. However, Service Data enjoys additional restrictions and may not be disclosed to any such third-party suppliers or contractors unless pseudonymized, e.g. encrypted by a security key managed by, and only by, Glooko.
-    5. We may disclose your Inquiry Data to our service providers for the purpose of enabling them to deliver services to us so that we can offer, market and sell you relevant goods and/or services.
-    6. We may disclose your personal data to third parties to which you have chosen, at your sole discretion, to share your personal data. We will not share this data to any third-party applications without your consent. Once your data has been shared at your discretion to a third-party application, we no longer control the use of, access to, or disclosure of that data from that application, so you should understand the terms of use and privacy policies for any third party applications prior to opting in and consenting to share data with them.
-    7. In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+    (d) The legal bases of the processing.
     
-    6. **International transfers of your personal data (United States)**
+    We may process your personal data provided in the course of the use of our Services (“Service Data”). The Service Data may include name, email address, gender, date of birth, biometric data, health data, and any other submitted or uploaded information. The source of the Service Data is you or your healthcare provider, including device, activity, food, or health data you share with our Services, such as from blood glucose meters, fitness trackers, or third-party services. The Service Data may be processed for the purposes of providing our Services, analyzing the use of our Services for product development, informing you about product news, product issues, or providing information we believe is of interest to you. If you are a private person signing up directly to our Services, the legal basis is your consent. If you are a data controller representing data subjects, the legal basis for our processing is legitimate interest.
+    
+    We may process personally identifiable data about your use of the Services (“Usage Data”). The Usage Data may include your IP address, geographical location, browser type and version, device make and model, operating system, referral source, length of visit, page views, and navigation paths, as well as information about the timing, frequency, and pattern of your service use. Usage Data is captured by our analytics tracking systems, which include the use of cookies (see [https://glooko.com/cookie\-policy/](https://glooko.com/cookie-policy/)). Usage Data may be processed for the purpose of analyzing the use and troubleshooting of the Services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our Services.
+    
+    We may process personally identifiable data in our monitoring of network traffic of our Services (“Traffic Data”). The Traffic Data may include your IP address, browser type and version, operating system, and referral source. Traffic Data may be processed for the purposes of analyzing the use and troubleshooting of the Services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our Services.
+    
+    We may process access information (“Audit Log Data”) regarding who has accessed and processed your Service Data and any access or processing you have made to other people’s Service Data. The Audit Log Data may include identification of the data subject, who has accessed the Service Data, when it was accessed, how it was accessed, and changes to Service Data. Audit Log Data may be processed for the purposes of allowing investigations to be performed regarding who has accessed your and other people’s personal data. The legal basis for this processing is legal requirements, which include but are not limited to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Swedish Patient Data Law (2008:355).
+    
+    We may process your business-related account data (“Business Account Data”). Business Account Data may include your name, email address, and any other submitted information. The source of the Business Account Data is you, your employer, or an industry partner of yours. The Business Account Data may be processed for the purposes of providing our Services, ensuring the security of our Services, maintaining backups of our databases, and communicating with you. For the processing to establish or maintain a business relationship, the legal basis for this processing is legitimate interest.
+    
+    We may process information contained in any inquiry you submit to us regarding our goods and/or Services (“Inquiry Data”) via our Services. Inquiry Data may be processed for the purposes of offering, marketing, and selling relevant goods and/or services to you. The legal basis for this processing is legitimate interest to fulfill your inquiry.
+    
+    We may process information relating to transactions, including purchases of goods and Services, that you enter into with us and/or through the Services (“Transaction Data”). Transaction Data may include your contact details, your payment details, and the transaction details. Transaction Data may be processed for the purpose of supplying the purchased goods and Services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract and legal requirements for proper accounting.
+    
+    We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (“Notification Data”). Notification Data may be processed for the purpose of sending you the relevant notifications and/or newsletters. The legal basis for this processing is your consent.
+    
+    We may process information contained in or relating to any communication that you send to us (“Correspondence Data”). Correspondence Data may include the communication content and metadata associated with the communication. Correspondence Data may be processed for the purposes of communicating with you and record-keeping, e.g., for technical support or accounting purposes. Further, when you seek technical support from us, you understand and acknowledge that the individual(s) providing you with support may need to access your Service Data and Usage Data in order to diagnose the problem you are seeking support for; in this case, this information will only be used to help provide you with support. The legal basis for this processing is our legitimate interests, namely the proper administration of our business and communications with users, which we believe will benefit you.
+    
+    We may process information about you for keeping records of incidents or complaints (“Regulatory Data”). Regulatory Data may be processed for the purposes of establishing internal reports and records that may be made available to authorities upon their request. The legal basis for this processing is legal requirements, specifically the Medical Device Regulation in the EU and the FDA in the United States, as well as similar governing bodies in the other countries Glooko operates in.
+    
+    We may process your personal data you provide to us when you submit feedback to Glooko about our services (“Feedback Data”). The Feedback Data may include name, age, and any information uploaded by you. The source of the Feedback Data is you. Feedback Data may be processed in marketing material and for publishing on our social channels such as Facebook, LinkedIn, Twitter, and Instagram. The legal basis for this processing is your consent.
+    
+    We may process any of your personal data identified in this notice where necessary for the establishment, exercise, or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights, and the legal rights of others.
+    
+    We may process any of your personal data identified in this notice where necessary for the purposes of the protection of yours or others’ personal data. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights, and the legal rights of others.
+    
+    In addition to the specific purposes for which we may process your personal data outlined in this Section 2, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject or in order to protect your vital interests or the vital interests of another natural person.
+    
+    * * *
+    
+    **Automated Decision-Making**
+    
+    We or our Services may automate parts of decision-making processes. Decision-making processes may analyze your personal data to determine whether or not you or your experience in the Services will be subject to, but not limited to, personalized reports, features, alerts, notifications, and invites to product testing.
+    
+    Decision-making processes may analyze your personal data to determine whether or not you will be subject to personalized marketing of products, features, events, and services that we believe may be of interest to you.
+    
+    * * *
+    
+    **Providing Your Personal Data to Others**
+    
+    Glooko’s policy is to avoid disclosing your personal data to others. We will protect and consider your interests at all times. In some cases, listed below, we may nevertheless disclose your personal data.
+    
+    We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company, and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this notice.
+    
+    We may disclose your Service Data to your healthcare provider when your diabetes devices are synced at your healthcare provider’s office, during your appointments.
+    
+    We may disclose your personal data to our suppliers or subcontractors insofar as reasonably necessary in order to provide the Services. However, Service Data enjoys additional restrictions and may not be disclosed to any such third-party suppliers or contractors unless pseudonymized, e.g., encrypted by a security key managed by, and only by, Glooko.
+    
+    We may disclose your Inquiry Data to our service providers such as analytics providers or email marketing platforms in order to provide the Services.
+    
+    We may disclose your Transaction Data to payment services providers in order to process your transactions. Glooko may share your personal data with legal authorities and government bodies. This could be to comply with a legal obligation, protect your vital interests or the vital interests of another natural person, or to establish, exercise, or defend legal claims.
+    
+    In some cases, we may be compelled by law to disclose your personal data to a third party, such as government or law enforcement agencies. The legal basis for this processing is compliance with a legal obligation.
+    
+    We may transfer your personal data to a third party as part of a sale of some or all of our business and assets to any third party, or as part of any business restructuring or reorganization, but we will take steps to ensure that your privacy rights continue to be protected, and in any case, the legal basis for such a transfer would be legal obligations.
+    
+    If you request that we share your information with a third party, for example, your healthcare provider, that request will constitute consent and the legal basis for our sharing your personal data.
+    
+    In other cases where we are compelled to disclose your personal data to a third party, such as governmental bodies, we will only do so based on a legal requirement, such as when we receive a subpoena, court order, or similar legal requirement.
+    
+    Where appropriate, we will always seek to anonymize your personal data in advance of disclosure. However, we may disclose your personal data for any of the purposes outlined in this notice to our insurers and professional advisors insofar as reasonably necessary for managing risks, obtaining professional advice, or the establishment, exercise, or defense of legal claims, whether in court proceedings or an administrative or out-of-court procedure.
+    
+    In addition to the specific disclosures of personal data set out in this Section 3, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise, or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+    
+    1. **International transfers of your personal data (United States)**
     
     1. If you are using services provided by Glooko, Inc. and you are located within the United States, your Service Data is stored in United States.
     2. We have offices and facilities in United States, Croatia and Sweden. We may transfer your personal data to any of these countries for the purposes of providing customer and technical support which may include Inquiry Data, Service Data and Correspondence Data, as well as to comply with Regulatory requirements.
     
-    8. **International transfers of your personal data (Europe, the UK and GDPR)**
+    3. **International transfers of your personal data (Europe, the UK and GDPR)**
     
     1. If you are a located outside of the US and Canada, you are using services provided by Glooko AB, your personal data is stored within the EEA and is protected by the General Data Protection Regulation.
     2. We have offices and facilities in the United States, Croatia and Sweden. We may transfer your personal data to any of these countries for the purposes of providing customer and technical support which may include Inquiry Data, Service Data and Correspondence Data, as well as to comply with Regulatory requirements. Any international transfer of personal data between our locations will be protected by appropriate safeguards, including the use of standard contractual clauses adopted or approved by the European Commission and our Data Privacy Framework certification outlined here: [www.glooko.com/DataPrivacyFramework](http://www.glooko.com/DataPrivacyFramework) .
     3. We use service providers in order to deliver different elements of the Services. Some of these service providers are located outside of the EEA. Any international transfers of personal data will be protected by appropriate safeguards, namely the use of standard contractual clauses adopted or approved by the European Commission, an adequacy decision by the European Commission or Binding Corporate Rules, such provider’s Data Privacy Framework certification, or your explicit consent.
     
-    10. **Retaining and deleting personal data**
+    5. **Retaining and deleting personal data**
     
     1. This Section outlines our data retention policies and procedures.
     2. Personal data that we process for any purpose(s) shall not be kept for longer than is necessary for that purpose(s).
