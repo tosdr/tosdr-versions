@@ -2,13 +2,13 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-20% off Bone-in Ribeye [save](https://porterroad.com/products/bone-in-ribeye)
+20% off Sirloin Filet [save](https://porterroad.com/products/sirloin-filet)
 
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-20% off Bone-in Ribeye [save](https://porterroad.com/products/bone-in-ribeye)
+20% off Sirloin Filet [save](https://porterroad.com/products/sirloin-filet)
 
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
@@ -93,7 +93,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Dry Aged
     
-    On Sale for $34 Regular price ~$43~ ~ $27/LB
+    $43 ~ $34/LB
     
     You can prepare this by cooking
     
