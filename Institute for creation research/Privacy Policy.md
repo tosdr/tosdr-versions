@@ -103,29 +103,65 @@ Return to our [subscription form](https://www.icr.org/subscriptions).
 
 More Impact
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_still_say_noVertebrates_1400x1050.jpg)](https://www.icr.org/article/the-fossils-still-say-no-the-origin-of-vertebrates)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/transposable_elements_1400x1050.jpg)](https://www.icr.org/article/transposable-elements-genomic-parasites)
 
-[The Fossils Still Say No: The Origin of Vertebrates](https://www.icr.org/article/the-fossils-still-say-no-the-origin-of-vertebrates/)
+[Transposable Elements: Genomic Parasites or Engineered .,.](https://www.icr.org/article/transposable-elements-genomic-parasites/)
 
-One of the greatest problems for evolutionists is the sudden appearance of complex animal life with no evolutionary precursors, as seen in the Cambrian...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/no_fins_to_feet.jpg)](https://www.icr.org/article/the-fossils-still-say-no-fins-to-feet-transition)
-
-[The Fossils Still Say No: The Fins-to-Feet Transition](https://www.icr.org/article/the-fossils-still-say-no-fins-to-feet-transition/)
-
-One of the alleged greatest transformations in vertebrate evolution is said to be the emergence of creatures that traded fins for feet and transitioned...
+Transposable elements (transposons or TEs) are a specialized group of DNA sequences that can transpose or change positions in the genome. Some scientists...
 
 BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/nuclear_fission_unreliable.jpg)](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_still_say_noCambrian.jpg)](https://www.icr.org/article/the-fossils-still-say-no-the-cambrian-explosion)
 
-[Nuclear Fission Dating Methods Are Unreliable](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable/)
+[The Fossils Still Say No: The Cambrian Explosion](https://www.icr.org/article/the-fossils-still-say-no-the-cambrian-explosion/)
 
-Have you ever pulled apart a large mass of taffy and watched it break into two approximately equal masses? This is an illustration of what happens in...
+The modern theory of evolution has its roots in Charles Darwin’s 1859 book On the Origin of Species, in which he proposed the fundamental conjecture...
 
-BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/The_Final_Word.jpg)](https://www.icr.org/article/the-final-world)
+
+[The Final World: Renovation or New Creation?](https://www.icr.org/article/the-final-world/)
+
+In the beginning about 6,000 years ago, Jesus Christ created the heavens and the earth out of nothing, or ex nihilo, which I discussed in a previous...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32701/file.jpg)
+
+The Ice Age and the Flood](https://store.icr.org/dr-jake-hebert-the-ice-age-and-the-flood.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/37858586/file.jpg)
+
+El Conflicto Del Cambio Climáctico (Spanish)](https://store.icr.org/el-conflicto-del-cambio-climactico-spanish.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
+
+The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373091/file.jpg)
+
+The Ice Age Real and Recent](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
+
+The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
+
+$34.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
