@@ -446,129 +446,121 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
-
-151K](https://rumble.com/v5g0qt0-is-it-going-to-happen-again-ep.-2334-09232024.html "The Dan Bongino Show")
-
 [Bannons War Room
 
-11.3K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+12.4K](https://rumble.com/v5e9khd-live-u.s.-house-of-representatives.html "Bannons War Room")
 
-[Badlands Media
+[Akademiks
 
-6.49K](https://rumble.com/v5fzsx9-badlands-daily-monday-september-23-2024.html "Badlands Media")
-
-[The Rubin Report
-
-5.46K](https://rumble.com/v5g1db9-piers-morgan-visibly-shocked-when-jordan-peterson-said-this-about-trump.html "The Rubin Report")
+3.96K](https://rumble.com/v5g2tb9-yo-gotti-brother-put-a-100k-hit-on-young-dolph.-1-shooter-is-sntiching-on-e.html "Akademiks")
 
 [NEWSMAX
 
-4.61K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+3.88K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+
+[Stephen Gardner
+
+667](https://rumble.com/v5g2wbd-holy-crap-trump-was-telling-the-truth...-abc-moderators-caught-in-big-lie.html "Stephen Gardner")
 
 [The StoneZONE with Roger Stone
 
-762](https://rumble.com/v5fs4kd-stonezone-w-roger-stone-247-live-feed-featuring-jack-posobiec-owen-shroyer-.html "The StoneZONE with Roger Stone")
+613](https://rumble.com/v5fs4kd-stonezone-w-roger-stone-247-live-feed-featuring-jack-posobiec-owen-shroyer-.html "The StoneZONE with Roger Stone")
 
 [Lofi Girl
 
-364](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+321](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Geeks + Gamers
+[Mike Crispi
 
-331](https://rumble.com/v5g1d0l-rey-palpatine-movie-rumored-to-be-canceled-disney-making-big-changes.html "Geeks + Gamers")
-
-[Caleb Hammer
-
-241](https://rumble.com/v5fy7dp-pink-haired-freak-makes-me-lose-my-mind-financial-audit.html "Caleb Hammer")
-
-[barstoolsports
-
-169](https://rumble.com/v5g0w91-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "barstoolsports")
-
-[Mostly Sports With Mark Titus and Brandon Walker
-
-166](https://rumble.com/v5g0w91-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
+41](https://rumble.com/v5g1gg4-did-republicans-just-enable-illegals-to-vote-in-2024.html "Mike Crispi")
 
 [Major League Fishing
 
-15](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
+5](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
 
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
-
-[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
-
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
-
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
-
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
-
-[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
-
-[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
 
 [SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
 
-[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
 
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
 
 [Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
 
-[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
 
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
 
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
 
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
 
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
 
 [Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
 
-[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
+[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
 
-[New York Post](https://rumble.com/c/NYPost "New York Post")
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
 
 [Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
 
 [Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
 
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
 
-[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
 
-[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
 
-[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
 
-[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
 
 [Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
 
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
 
-[Havoc](https://rumble.com/c/Havoc "Havoc")
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
 
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
 
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
 
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
 
 ### Theme
 
