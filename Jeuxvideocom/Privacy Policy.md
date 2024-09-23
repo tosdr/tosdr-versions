@@ -14,6 +14,7 @@ CONNEXION
     * Réalité Virtuelle
     * Rétrogaming
     * Toutes les actus
+* French Days
 * RetourHigh-Tech
     * Actus JVTECH
     * Bons plans
