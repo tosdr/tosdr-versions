@@ -239,7 +239,7 @@ Because connections matter.
 * [Compare](https://www.quadient.com/en/vs/quadient-ap)
 * [Preference Center](https://www.quadient.com/en/preferences)
 * [Customer Success](https://www.quadient.com/en/customer-success)
-* [Terms of Service](https://www.quadient.com/en/terms-service)
+* [Terms of Service](https://www.quadient.com/en/digital-terms)
 
 * Company
 * [About us](https://www.quadient.com/en/about-us)
