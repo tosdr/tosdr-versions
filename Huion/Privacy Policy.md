@@ -262,7 +262,7 @@ Our services are only available for those who are 18 years old or older. If you�
 
 You can log on your user account to visit your account information and revise, restrict and delete your account data.
 
-Moreover, you’re entitled to request for data of your personal information stored with us at any time. You are also entitled to request for correction, update or deletion of your personal information at any time. If you have any such request, you may contact us by emailing privacy@huion.com. If your information is provided by your employer, you should raise the request directly to your employer.
+Moreover, you’re entitled to request for data of your personal information stored with us at any time. You are also entitled to request for correction, update or deletion of your personal information at any time. If you have any such request, you may contact us by emailing service@huion.com. If your information is provided by your employer, you should raise the request directly to your employer.
 
 You’re not required to pay any fee to visit your personal information, but if your request for this is evidently groundless, repetitive or excessive, we may charge you with reasonable fee, or in such case, we may reject such request of yours.
 
