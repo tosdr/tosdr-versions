@@ -28,7 +28,7 @@ Update
 
 Check out
 
-Invest in your long-term performance. 3 FOR 2 on all Supplements.
+3 FOR 2 on all supplements. Invest in your long-term performance.
 
           
 
