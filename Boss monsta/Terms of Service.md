@@ -12,6 +12,7 @@
 * [Stickers](https://bossmonsta.com/collections/stickers)
 * [Prints](https://bossmonsta.com/collections/prints)
 * [Dakimakuras](https://bossmonsta.com/collections/dakimakuras)
+* [Final Sale!](https://bossmonsta.com/collections/final-sale)
 
 [](https://bossmonsta.com/search)
 
