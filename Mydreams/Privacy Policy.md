@@ -28,7 +28,6 @@ Košík je prázdný
     
     * [Webhosting 20GB](https://www.mydreams.cz/cz/webhosting.html)
     * [E-mail hosting](https://www.mydreams.cz/cz/webhosting/e-mail-hosting.html)
-    * [World E-mail hosting](https://www.mydreams.cz/cz/webhosting/world-e-mail-hosting.html)
     * [Multihosting](https://www.mydreams.cz/cz/webhosting/multihosting.html)
     * [Prestashop Hosting](https://www.mydreams.cz/cz/webhosting/prestashop-webhosting.html)
     * [Nette WebHosting 20GB](https://www.mydreams.cz/cz/webhosting/nette-webhosting-20gb.html)
