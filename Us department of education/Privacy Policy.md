@@ -326,6 +326,10 @@ September 20, 2024
 Related Content
 ---------------
 
+### [Secretary’s Cover Letter: A Focus on Improving the FAFSA® Experience](https://www2.ed.gov/laws-and-policy/education-policy/secretarys-cover-letter-focus-improving-fafsa-experience)
+
+From the very beginning, the drive to build a Better FAFSA was about one thing: bringing higher education within reach for more students across our nation.
+
 ### [The EDFacts Initiative](https://www2.ed.gov/data/edfacts-initiative)
 
 EDFacts is a U.S. Department of Education (ED) initiative to collect, analyze, and promote the use of high-quality, pre-kindergarten through grade 12 data.
@@ -334,11 +338,7 @@ EDFacts is a U.S. Department of Education (ED) initiative to collect, analyze, a
 
 The Biden-Harris Administration has made billions of dollars in crucial investments to strengthen education in schools, colleges, and universities across America. 
 
-### [Letter to Chief State School Officers regarding using federal funds to improve student outcomes in the humanities](https://www2.ed.gov/letter-chief-state-school-officers-regarding-using-federal-funds-improve-student-outcomes)
-
-Key Policy Letters Signed by the Education Secretary or Deputy Secretary
-
-July 13, 2016
+September 18, 2024
 
 [Return to top](#)
 
