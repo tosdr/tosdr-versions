@@ -15,9 +15,9 @@ Menu
 
 Please download Firefox ESR (Extended Support Release) to use Firefox.
 
-[Download Firefox ESR 64-bit](https://download.mozilla.org/?product=firefox-esr-latest-ssl&os=win64&lang=en-US)
+[Download Firefox ESR 64-bit](https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win64&lang=en-US)
 
-[Download Firefox ESR 32-bit](https://download.mozilla.org/?product=firefox-esr-latest-ssl&os=win&lang=en-US)
+[Download Firefox ESR 32-bit](https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win&lang=en-US)
 
 [Download a different build](https://www.mozilla.org/en-US/firefox/all/desktop-esr/)
 
@@ -25,7 +25,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
 
 Please download Firefox ESR (Extended Support Release) to use Firefox.
 
-[Download Firefox ESR](https://download.mozilla.org/?product=firefox-esr-latest-ssl&os=osx&lang=en-US)
+[Download Firefox ESR](https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=osx&lang=en-US)
 
 [Firefox Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox/)
 
@@ -363,7 +363,8 @@ Mozilla’s pre-release versions of Firefox (which are distributed through chann
 
 [Mozilla](https://www.mozilla.org/en-US/)
 
-##### Company
+Company
+-------
 
 * [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 * [Press Center](https://blog.mozilla.org/category/mozilla/news/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=company)
@@ -372,18 +373,21 @@ Mozilla’s pre-release versions of Firefox (which are distributed through chann
 * [Contact](https://www.mozilla.org/en-US/contact/)
 * [Donate](https://foundation.mozilla.org/?form=moco-donate-footer)
 
-##### Resources
+Resources
+---------
 
 * [Privacy Hub](https://www.mozilla.org/en-US/privacy/)
 * [Brand Standards](https://mozilla.design/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=resources)
 
-##### Support
+Support
+-------
 
 * [Product Help](https://support.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=support)
 * [File a Bug](https://bugzilla.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=support)
 * [Localize Mozilla](https://pontoon.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=support)
 
-##### Developers
+Developers
+----------
 
 * [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * [Beta](https://www.mozilla.org/en-US/firefox/channel/desktop/#beta)
@@ -393,7 +397,8 @@ Mozilla’s pre-release versions of Firefox (which are distributed through chann
 * [Enterprise](https://www.mozilla.org/en-US/firefox/enterprise/)
 * [Tools](https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers)
 
-##### Follow @Mozilla
+Follow @Mozilla
+---------------
 
 * [X (formerly Twitter) (@mozilla)](https://twitter.com/mozilla)
 * [Mastodon (@mozilla)](https://mozilla.social/@Mozilla)
@@ -402,7 +407,8 @@ Mozilla’s pre-release versions of Firefox (which are distributed through chann
 * [TikTok (@mozilla)](https://www.tiktok.com/@mozilla)
 * [Spotify (@mozilla)](https://open.spotify.com/show/0vT7LJMeVDxyQ2ZamHKu08?si=_uDRD6bRR_6M5YZyISGXgA)
 
-##### Follow @Firefox
+Follow @Firefox
+---------------
 
 * [X (formerly Twitter) (@firefox)](https://twitter.com/firefox)
 * [Instagram (@firefox)](https://www.instagram.com/firefox/)
