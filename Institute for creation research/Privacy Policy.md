@@ -101,31 +101,93 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Impact
+More God's Design Is an Engineering Wonder
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/imposs_of_ev_beginnings_main.jpg)](https://www.icr.org/article/impossibility-lifes-evolutionary-beginnings)
+[![](/i/Main%20Stage%20-%201400x1050/Baby_Brains_Read_1400x1050.jpg)](https://www.icr.org/article/baby-brains-arrive-ready-to-read)
 
-[The Impossibility of Life's Evolutionary Beginnings](https://www.icr.org/article/impossibility-lifes-evolutionary-beginnings/)
+[Babies Are Born Ready to Read](https://www.icr.org/article/baby-brains-arrive-ready-to-read/)
 
-The hypothetical naturalistic origin of life and its most basic biomolecules from non-living matter is called abiogenesis. This paradigm lies at the...
+Dogs don’t read the words on a page. Neither did Coco, the famous gorilla that learned to communicate using simple hand signs. So what affords humans...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/continuing_troubles_bigbang.jpg)](https://www.icr.org/article/continuing-troubles-for-the-big-bang-model)
+[![](/i/Main%20Stage%20-%201400x1050/Platypus_Genome_1400x1050.jpg)](https://www.icr.org/article/does-oddball-platypus-genome-reveal-its-origins)
 
-[Continuing Troubles for the Big Bang Model](https://www.icr.org/article/continuing-troubles-for-the-big-bang-model/)
+[Does Oddball Platypus Genome Reveal Its Origins?](https://www.icr.org/article/does-oddball-platypus-genome-reveal-its-origins/)
 
-Cosmology is the study of the origin and structure of the universe, and the Big Bang is the dominant secular cosmological model. Some Christians say...
+How in the world did a creature as odd as the duck-billed platypus originate? This creature lays eggs like a reptile, has venom like a reptile, spurs like...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/MSH_living_lab_40.jpg)](https://www.icr.org/article/mount-st-helens-living-laboratory-40-years)
+[![](/i/Main%20Stage%20-%201400x1050/Bearded_Vulture_1400x1050.jpg)](https://www.icr.org/article/bearded-vulture-visit-england-oldest-national-park)
 
-[Mount St. Helens, Living Laboratory for 40 Years](https://www.icr.org/article/mount-st-helens-living-laboratory-40-years/)
+[Bearded Vulture Visits England’s Oldest National Park](https://www.icr.org/article/bearded-vulture-visit-england-oldest-national-park/)
 
-Tim Clarey, Ph.D., and Frank Sherwin, M.A. Nothing put a damper on uniformitarianism like the Mount St. Helens eruption on May 18, 1980. That explosion...
+Peak District National Park was established in 1951 as Great Britain’s first national park. Now that upland park is experiencing another historic...
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/seaanemonefossils_1400x1050.jpg)](https://www.icr.org/article/sea-anemone-fossils)
+
+[Sea Anemone Fossils](https://www.icr.org/article/sea-anemone-fossils/)
+
+The strange and beautiful sea anemone is part of God’s incredible undersea fauna. These gelatinous wonders are members of the Cnidaria, which...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/FossilDefies_1400x1050.jpg)](https://www.icr.org/article/fossil-defies-so-called-brain)
+
+[Fossil Defies So-Called Brain Evolution](https://www.icr.org/article/fossil-defies-so-called-brain/)
+
+A recent amazing discovery in China's southern Yunnan province gives significant support to the creation model. Half-inch long invertebrate fossils...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/creationgroans-1400x1050)](https://www.icr.org/article/creation-groans)
+
+[From Suffering to Glory: Romans 8:18-30](https://www.icr.org/article/creation-groans/)
+
+Why is there travail, sorrow, and ultimately death in this life? Why does God allow this to happen to His children? Per Romans 8:20, “for the creation...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+
+Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+
+$4.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
+
+Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
+
+$9.99
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
+
+Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+
+$7.99
+
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
