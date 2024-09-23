@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3075a561eac6e9e4f41e12c8f0421fa4
+aa47715454f9c301ae02ffe4404ca025
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![EB09 bead](https://sojourner.biz/images/cache/EB09lbl.200.jpg)](https://sojourner.biz/beads/metal/eb09-bead.html "EB09 bead")
+[![6 mm purple-gray round pearls](https://sojourner.biz/images/cache/pearls/PE0133.200.jpg)](https://sojourner.biz/beads/pearls/6-mm-purple-gray-round-pearls.html "6 mm purple-gray round pearls")
 
-#### [EB09 bead](https://sojourner.biz/beads/metal/eb09-bead.html "EB09 bead")
+#### [6 mm purple-gray round pearls](https://sojourner.biz/beads/pearls/6-mm-purple-gray-round-pearls.html "6 mm purple-gray round pearls")
 
-$5.65
+$9.00
 
 ### Best Sellers
 
