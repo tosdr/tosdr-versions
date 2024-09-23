@@ -1,5 +1,7 @@
 * [Skip to content](#content-anchor)
 
+Install App
+
 * [Search](https://www.101soundboards.com/search) Find a sound
 * [Funny](https://www.101soundboards.com/?sort=funny#sort_filters) Funny sounds
 * [Topics](#collapseCategoriesSidebar) Topics
@@ -151,7 +153,7 @@ Phrases with extreme inappropriate language, hate speech, self-harm, violence, o
 
 To delete a TTS sound you created, go to [Manage TTS Phrases](https://www.101soundboards.com/tts/me) where you can view the TTS phrases you have created.
 
-Alternatively, if you have found an offensive sound, right click on the sound (press and hold on mobile) and select "Report" from the context menu. We typically investigate reports within a few minutes.
+Alternatively, if you have found an offensive sound, right click on the sound (press and hold on mobile) and select "Report" from the context menu. We typically investigate reports within a few minutes. Alternatively you can use the contact form, and include a link to the sound.
 
 ##### Where can I find more voices and song generators?
 
@@ -203,7 +205,7 @@ To get your free download credits, you need to watch the short advert. Please ju
 
 ##### How can I report a sound?
 
-Right-click (press and hold on mobile) then press Report.
+Right-click (press and hold on mobile) then press Report. Alternatively you can use the contact form, and include a link to the sound.
 
 ##### How can I convert a Flash soundboard to a 101 Soundboard?
 
@@ -444,7 +446,7 @@ By creating an Account on our Service, you agree to subscribe to newsletters, ma
 
 ##### User Content and A.I. Generated Content
 
-You must not use the web site and its features for any type of impersonation, deception, slur, abuse, or mistreatment of any individual or group. Moreover, we do not allow the use of our service in such a way that it violates any law.
+You must not use the web site and its features for any type of impersonation, deception, slur, abuse, or mistreatment of any individual or group. Moreover, we do not allow the use of our service in such a way that it violates any law. **No hate speak**. This site is intended for people to have fun playing sounds.
 
 Do not engage in unlawful activity or attempt to impersonate any person, company, or other entity. All published usages of A.I. generated content must be labelled as a "deep fake".
 
