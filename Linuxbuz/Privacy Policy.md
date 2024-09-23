@@ -21,7 +21,7 @@ Tutorials for Linux
 
 Main Menu
 
-* [HOME](http://linuxbuz.com/)
+* [HOME](https://linuxbuz.com/)
 * [LINUX HOW TO](https://linuxbuz.com/category/linuxhowto)
 * [DEVOPS](https://linuxbuz.com/category/devops)
 * [RESOURCES](https://linuxbuz.com/category/best-resources)
