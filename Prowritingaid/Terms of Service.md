@@ -1,29 +1,32 @@
 [](https://prowritingaid.com/)
 
-* [Features](https://prowritingaid.com/features)
-    
-    [Grammar Checker](https://prowritingaid.com/grammar-checker)[Rephrase](https://prowritingaid.com/rephrase)[Paraphrasing Tool](https://prowritingaid.com/paraphrasing-tool)[Critique Report](https://prowritingaid.com/features/critique-report)[AI Sparks](https://prowritingaid.com/features/AI-Sparks)[Writing Reports](https://prowritingaid.com/features/writing-reports)
-    
-* [Grammar Checker](https://prowritingaid.com/grammar-checker)
-* [Rephrase](https://prowritingaid.com/rephrase)
-* [Paraphrasing Tool](https://prowritingaid.com/paraphrasing-tool)
-* [Critique Report](https://prowritingaid.com/features/critique-report)
-* [AI Sparks](https://prowritingaid.com/features/AI-Sparks)
-* [Writing Reports](https://prowritingaid.com/features/writing-reports)
+[Sign up](https://prowritingaid.com/sign-up)
+
+[](https://prowritingaid.com/)
+
+* Features
+    * [All Features](https://prowritingaid.com/features)
+    * [Grammar Checker](https://prowritingaid.com/grammar-checker)
+    * [Rephrase](https://prowritingaid.com/rephrase)
+    * [Paraphrasing Tool](https://prowritingaid.com/paraphrasing-tool)
+    * [Critique Report](https://prowritingaid.com/features/critique-report)
+    * [AI Sparks](https://prowritingaid.com/features/AI-Sparks)
+    * [Writing Reports](https://prowritingaid.com/features/writing-reports)
 * [Reviews](https://prowritingaid.com/reviews)
 * [Pricing](https://prowritingaid.com/pricing)
 * [Use App](https://prowritingaid.com/en/Analysis/WebEditor/Go?redirectToDocs=true)
-* [Learn](https://prowritingaid.com/blog)
-    
-    [Blog](https://prowritingaid.com/blog)[Grammar Guide](https://prowritingaid.com/en/GrammarGuide)[Community](https://community.prowritingaid.com/home)[Events](https://prowritingaid.com/online-creative-writing-classes)[FAQ](https://help.prowritingaid.com/)
-    
-* [Blog](https://prowritingaid.com/blog)
-* [Grammar Guide](https://prowritingaid.com/en/GrammarGuide)
-* [Community](https://community.prowritingaid.com/home)
-* [Events](https://prowritingaid.com/online-creative-writing-classes)
-* [FAQ](https://help.prowritingaid.com/)
-* [Log in](https://prowritingaid.com/en/Account/Login2)
-* [Sign up](https://prowritingaid.com/sign-up)
+* Learn
+    * [Blog](https://prowritingaid.com/blog)
+    * [Grammar Guide](https://prowritingaid.com/en/GrammarGuide)
+    * [Community](https://community.prowritingaid.com/home)
+    * [Events](https://prowritingaid.com/online-creative-writing-classes)
+    * [FAQ](https://help.prowritingaid.com/)
+
+[Log in](https://prowritingaid.com/en/Account/Login2)[Sign up – it's free](https://prowritingaid.com/sign-up)
+
+[Log in](https://prowritingaid.com/en/Account/Login2)[Sign up – it's free](https://prowritingaid.com/sign-up)
+
+[](https://prowritingaid.com/)
 
 Terms of Service
 ================
