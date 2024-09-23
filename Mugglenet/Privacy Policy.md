@@ -280,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
+Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
 
 ### Potter History
 
-January 18, 2004 – Harry Potter and the Goblet of Fire is predicted to be the most expensive film ever made.
+July 7, 2011 – Harry Potter and the Deathly Hallows – Part 2 premiered in Trafalgar Square in London.
 
 ### Potter Quote
 
-“When we come face-to-face with one down a dark alley, we’re going to be having a look to see if its solid, aren’t we, we’re not going to be asking, ‘Excuse me, are you the imprint of a departed soul?’”
+“Honestly, woman, you call yourself our mother? Can’t you tell I’m George?”
 
 [](#)
 
