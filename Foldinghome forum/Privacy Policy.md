@@ -1,4 +1,4 @@
-[](https://foldingforum.org/index.php?sid=a5493d3f3e3fe66c76a6f22e0185a82d "Board index")
+[](https://foldingforum.org/index.php?sid=ede1f852c5b884030fd65ca00365aecb "Board index")
 
 Folding Forum
 =============
@@ -7,21 +7,21 @@ Community driven support forum for Folding@home
 
 [Skip to content](#start_here)
 
- Search [Advanced search](https://foldingforum.org/search.php?sid=a5493d3f3e3fe66c76a6f22e0185a82d "Advanced search") 
+ Search [Advanced search](https://foldingforum.org/search.php?sid=ede1f852c5b884030fd65ca00365aecb "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://foldingforum.org/search.php?search_id=unanswered&sid=a5493d3f3e3fe66c76a6f22e0185a82d)
-    * [Active topics](https://foldingforum.org/search.php?search_id=active_topics&sid=a5493d3f3e3fe66c76a6f22e0185a82d)
+    * [Unanswered topics](https://foldingforum.org/search.php?search_id=unanswered&sid=ede1f852c5b884030fd65ca00365aecb)
+    * [Active topics](https://foldingforum.org/search.php?search_id=active_topics&sid=ede1f852c5b884030fd65ca00365aecb)
     
-    * [Search](https://foldingforum.org/search.php?sid=a5493d3f3e3fe66c76a6f22e0185a82d)
+    * [Search](https://foldingforum.org/search.php?sid=ede1f852c5b884030fd65ca00365aecb)
     
-* [FAQ](https://foldingforum.org/app.php/help/faq?sid=a5493d3f3e3fe66c76a6f22e0185a82d "Frequently Asked Questions")
-* [Login](https://foldingforum.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=a5493d3f3e3fe66c76a6f22e0185a82d "Login")
-* [Register](https://foldingforum.org/ucp.php?mode=register&sid=a5493d3f3e3fe66c76a6f22e0185a82d)
+* [FAQ](https://foldingforum.org/app.php/help/faq?sid=ede1f852c5b884030fd65ca00365aecb "Frequently Asked Questions")
+* [Login](https://foldingforum.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=ede1f852c5b884030fd65ca00365aecb "Login")
+* [Register](https://foldingforum.org/ucp.php?mode=register&sid=ede1f852c5b884030fd65ca00365aecb)
 
-* [Board index](https://foldingforum.org/index.php?sid=a5493d3f3e3fe66c76a6f22e0185a82d)
-* [Search](https://foldingforum.org/search.php?sid=a5493d3f3e3fe66c76a6f22e0185a82d "View the advanced search options")
+* [Board index](https://foldingforum.org/index.php?sid=ede1f852c5b884030fd65ca00365aecb)
+* [Search](https://foldingforum.org/search.php?sid=ede1f852c5b884030fd65ca00365aecb "View the advanced search options")
 
 Folding Forum - Privacy policy
 ------------------------------
@@ -36,14 +36,14 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “Folding Forum”, so please guard it carefully and under no circumstance will anyone affiliated with “Folding Forum”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [Board index](https://foldingforum.org/index.php?sid=a5493d3f3e3fe66c76a6f22e0185a82d)
+* [Board index](https://foldingforum.org/index.php?sid=ede1f852c5b884030fd65ca00365aecb)
 * All times are UTC
-* [Delete cookies](https://foldingforum.org/ucp.php?mode=delete_cookies&sid=a5493d3f3e3fe66c76a6f22e0185a82d)
-* [Contact us](https://foldingforum.org/memberlist.php?mode=contactadmin&sid=a5493d3f3e3fe66c76a6f22e0185a82d)
+* [Delete cookies](https://foldingforum.org/ucp.php?mode=delete_cookies&sid=ede1f852c5b884030fd65ca00365aecb)
+* [Contact us](https://foldingforum.org/memberlist.php?mode=contactadmin&sid=ede1f852c5b884030fd65ca00365aecb)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://foldingforum.org/ucp.php?mode=privacy&sid=a5493d3f3e3fe66c76a6f22e0185a82d "Privacy") | [Terms](https://foldingforum.org/ucp.php?mode=terms&sid=a5493d3f3e3fe66c76a6f22e0185a82d "Terms")
+[Privacy](https://foldingforum.org/ucp.php?mode=privacy&sid=ede1f852c5b884030fd65ca00365aecb "Privacy") | [Terms](https://foldingforum.org/ucp.php?mode=terms&sid=ede1f852c5b884030fd65ca00365aecb "Terms")
 
 [](#)
 
