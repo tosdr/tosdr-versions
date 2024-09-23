@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Fitch Phoenix: The Corvette-Like, Corvair-Based Porsche 911 Rival That Never Was](https://s1.cdn.autoevolution.com/images/news/fitch-phoenix-the-corvette-like-corvair-based-porsche-911-rival-that-never-was-240204-5.jpg "Fitch Phoenix: The Corvette-Like, Corvair-Based Porsche 911 Rival That Never Was")
+[![This Travel Trailer-Inspired Tiny Home Is Appropriately Equipped for Full-Time Living](https://s1.cdn.autoevolution.com/images/news/this-travel-trailer-inspired-tiny-home-is-appropriately-equipped-for-full-time-living-240226-5.jpg "This Travel Trailer-Inspired Tiny Home Is Appropriately Equipped for Full-Time Living")
 
-Fitch Phoenix: The Corvette-Like, Corvair-Based Porsche 911 Rival That Never Was](https://www.autoevolution.com/news/fitch-phoenix-the-corvette-like-corvair-based-porsche-911-rival-that-never-was-240204.html)
+This Travel Trailer-Inspired Tiny Home Is Appropriately Equipped for Full-Time Living](https://www.autoevolution.com/news/this-travel-trailer-inspired-tiny-home-is-appropriately-equipped-for-full-time-living-240226.html)
 
 how-to \_
 
