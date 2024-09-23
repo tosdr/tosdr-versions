@@ -790,7 +790,7 @@ skip to main content
         [Legion Gaming](https://www.lenovo.com/us/en/legion) [LOQ Gaming](https://www.lenovo.com/us/en/c/lenovo-loq/?visibleDatas=1014%3ADesktops) [ThinkCentre](https://www.lenovo.com/us/en/c/desktops/thinkcentre/) [IdeaCentre](https://www.lenovo.com/us/en/c/desktops/ideacentre) [ThinkStation](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series)
     * Best Selling Desktops
         
-        [ThinkCentre Neo 50s Gen 4 (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50s-gen-4-intel-sff/len102c0031) [ThinkCentre M75q Gen2](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m75q-gen-2/11tc1mtm7g2) [ThinkCentre Neo 50a Gen 5 (24″ Intel) AIO](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/len102c0043) [ThinkCentre M70q Gen 4 Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m70q-gen-4-tiny-(intel)/len102c0034) [IdeaCentre Mini (1L Intel) Desktop](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/len102d0032) [Legion Tower 7i Gaming (Intel)](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-(intel)/len102g0007) [ThinkCentre M80q Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m80q-gen-3-tiny-(intel)/len102c0018)
+        [ThinkCentre Neo 50s Gen 4 (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50s-gen-4-intel-sff/len102c0031) [ThinkCentre M75q Gen2](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m75q-gen-2/11tc1mtm7g2) [ThinkCentre Neo 50a Gen 5 (24″ Intel) AIO](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/len102c0043) [ThinkCentre M70q Gen 4 Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m70q-gen-4-tiny-(intel)/len102c0034) [IdeaCentre Mini (1L Intel) Desktop](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/len102d0032) [Legion Tower 7i Gaming (Intel)](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-(intel)/len102g0007) [ThinkCentre M90q Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/lenovo-thinkcentre-m90q-gen-5-(intel)-tiny-pc/len102c0054)
         
         Quick Links
         
@@ -867,9 +867,7 @@ skip to main content
     
 * [AI](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
     
-    * Explore AI PCs
-        
-        [Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html) [Inclusive AI](https://www.lenovo.com/us/en/solutions/inclusive-ai/)
+    * [Explore AI PCs](https://www.lenovo.com/us/en/ai-pcs/) [Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html) [Inclusive AI](https://www.lenovo.com/us/en/solutions/inclusive-ai/)
     * AI PCs
         
         [Copilot+ PC](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC) [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [AI-Ready Workstations](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Ready%2520Workstations) [View All AI PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
@@ -881,7 +879,7 @@ skip to main content
     
     * PC Deals
         
-        [Laptop Deals](https://www.lenovo.com/us/en/d/deals/laptops/) [ThinkPad Deals](https://www.lenovo.com/us/en/d/deals/thinkpad-laptops/) [Gaming Deals](https://www.lenovo.com/us/en/d/deals/gaming/) [2-in-1 Laptop Deals](https://www.lenovo.com/us/en/d/deals/laptops/?visibleDatas=860%3A2-in-1) [Desktop Deals](https://www.lenovo.com/us/en/d/deals/desktops/) [Workstation Deals](https://www.lenovo.com/us/en/d/deals/workstations/) [Build Your Own PC](https://www.lenovo.com/us/en/d/deals/custom-laptops/)
+        [Laptop Deals](https://www.lenovo.com/us/en/d/deals/laptops/) [ThinkPad Deals](https://www.lenovo.com/us/en/d/deals/thinkpad-laptops/) [Gaming Deals](https://www.lenovo.com/us/en/d/deals/gaming/) [2-in-1 Laptop Deals](https://www.lenovo.com/us/en/d/convertible-2-in-1-laptops/) [Desktop Deals](https://www.lenovo.com/us/en/d/deals/desktops/) [Workstation Deals](https://www.lenovo.com/us/en/d/deals/workstations/) [Build Your Own PC](https://www.lenovo.com/us/en/d/deals/custom-laptops/)
     * Other Deals
         
         [Clearance](https://www.lenovo.com/us/en/d/deals/clearance-sale/) [Outlet](https://www.lenovo.com/us/outletus/en/) [Accessories & Electronics](https://www.lenovo.com/us/en/d/deals/accessories/?tabkey=Electronic%20Deals) [Monitor Deals](https://www.lenovo.com/us/en/d/deals/computer-monitors/) [Tablets & Phones Deals](https://www.lenovo.com/us/en/d/deals/phones-and-tablets/) [Server & Storage Deals](https://www.lenovo.com/us/en/d/deals/servers/)
@@ -894,7 +892,7 @@ skip to main content
     
     * AI
         
-        [Smarter AI For All](https://www.lenovo.com/us/en/solutions/ai/) [AI-Powered Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace) [AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Hybrid AI](https://www.lenovo.com/us/en/servers-storage/solutions/ai/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [AI Services](https://www.lenovo.com/us/en/services/ai-services/) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/) [Smarter AI Success Stories](https://www.lenovo.com/us/en/case-studies-customer-success-stories/ai-success-story/)
+        [Smarter AI For All](https://www.lenovo.com/us/en/solutions/ai/) [AI-Powered Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace) [AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Hybrid AI](https://www.lenovo.com/us/en/servers-storage/solutions/ai/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [AI Services](https://www.lenovo.com/us/en/services/ai-services/) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/) [Smarter AI Success Stories](https://www.lenovo.com/us/en/case-studies-customer-success-stories/ai-success-story/) [Inclusive AI](https://www.lenovo.com/us/en/solutions/inclusive-ai/)
     
 * [Digital Workplace](https://www.lenovo.com/us/en/solutions/digital-workplace/)
     
@@ -1179,6 +1177,6 @@ Please select a Country / Region
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
