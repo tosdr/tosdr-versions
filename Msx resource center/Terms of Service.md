@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [csMSX - MSX/2 Emulator & C# Source Code](https://www.msx.org/downloads/csmsx-vbnet-msx-msx2-emulator-source-code "csMSX - MSX/2 Emulator & C# Source Code")
@@ -149,23 +150,22 @@ Latest reactions
 * [Markus Vordermeier aka Hamlet passed away](https://www.msx.org/news/msx-related/en/markus-vordermeier-aka-hamlet-passed-away "Markus Vordermeier aka Hamlet passed away")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
-* [MSX Logo policy updated](https://www.msx.org/news/msx-revival/en/msx-logo-policy-updated "MSX Logo policy updated")
 
 Latest forum posts
 
+* [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
 * [Franky SSMS.COM patches: Where are they ?](https://www.msx.org/forum/msx-talk/general-discussion/franky-ssmscom-patches-where-are-they?page=3 "Franky SSMS.COM patches: Where are they ?")
-* [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
-* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
-* [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=117 "Please help testing upcoming openMSX release!")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=53 "WonderTANG! Who wants to juice up your MSX?")
+* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
+* [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
+* [Gotek floppy display for Philis NMS8245 MSX2](https://www.msx.org/forum/msx-talk/hardware/gotek-floppy-display-for-philis-nms8245-msx2 "Gotek floppy display for Philis NMS8245 MSX2")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
+* [MSX disk directly to MegaFlashrom folder](https://www.msx.org/forum/msx-talk/development/msx-disk-directly-to-megaflashrom-folder "MSX disk directly to MegaFlashrom folder")
+* [Debug your MSX with VSCode](https://www.msx.org/forum/msx-talk/development/debug-your-msx-with-vscode?page=7 "Debug your MSX with VSCode")
+* [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
+* [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
 * [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=17 "VATT - VRAM Access Timing Tester")
 * [Tecnobytes Slot Expander II + Carnivore2 HELP!!!!](https://www.msx.org/forum/msx-talk/hardware/tecnobytes-slot-expander-ii-carnivore2-help "Tecnobytes Slot Expander II + Carnivore2 HELP!!!!")
-* [Vertilyzer - the set of adapters for computers with front or side slots](https://www.msx.org/forum/msx-talk/hardware/vertilyzer-the-set-of-adapters-for-computers-with-front-or-side-slots "Vertilyzer - the set of adapters for computers with front or side slots")
-* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958 "Tracing the V9958")
-* [9990 Copy speed](https://www.msx.org/forum/msx-talk/development/9990-copy-speed "9990 Copy speed")
-* [MSXBAS2ROM and BASIC variables spacings](https://www.msx.org/forum/msx-talk/general-discussion/msxbas2rom-and-basic-variables-spacings "MSXBAS2ROM and BASIC variables spacings")
-* [SymbOS C Compiler (v1.0 released)](https://www.msx.org/forum/msx-talk/development/symbos-c-compiler-v10-released "SymbOS C Compiler (v1.0 released)")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
@@ -176,7 +176,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
