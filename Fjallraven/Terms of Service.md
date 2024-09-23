@@ -122,10 +122,6 @@ Asia
         * [Care Products](https://www.fjallraven.com/us/en-us/men/accessories/care-products/)
         * [Other Accessories](https://www.fjallraven.com/us/en-us/men/accessories/other-accessories/)
         
-    * Featured Collections
-        
-        * [Heritage Classics](https://www.fjallraven.com/us/en-us/heritage-classics/?Gender=Men%e2%80%99s "Heritage Classics")
-        
     
     ![](/4a4c46/globalassets/fjallraven/us/homepage/2024/september-24/extra/m_nav-test.png)
     
@@ -197,10 +193,6 @@ Asia
         * [Care Products](https://www.fjallraven.com/us/en-us/women/accessories/care-products/)
         * [Other Accessories](https://www.fjallraven.com/us/en-us/women/accessories/other-accessories/)
         
-    * Featured Collections
-        
-        * [Heritage Classics](https://www.fjallraven.com/us/en-us/heritage-classics/?Gender=Women%e2%80%99s "Heritage Classics")
-        
     
     ![](/4a4c46/globalassets/fjallraven/us/homepage/2024/september-24/extra/w_nav-test.png)
     
@@ -259,10 +251,6 @@ Asia
         * [Tent Accessories](https://www.fjallraven.com/us/en-us/bags-gear/tents-sleeping-bags/tent-accessories/)
         * [Sleeping Bags](https://www.fjallraven.com/us/en-us/bags-gear/tents-sleeping-bags/sleeping-bags/)
         
-    * Featured Collections
-        
-        * [Heritage Classics](https://www.fjallraven.com/us/en-us/heritage-classics/?Gender=Unisex "Heritage Classics")
-        
     
     ![](/4a4a68/globalassets/fjallraven/us/homepage/2024/september-24/fjr465-009_fjallraven_packs_ecomm_828x870_allsizes-mobile_all-vignette_v1.0_mj_img-only.jpg)
     
@@ -280,7 +268,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=d38cd5d6-3ee9-414d-9ac6-4877b1180247)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=2322dd97-eb7a-4f9b-bead-e762699f8f8d)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar)
@@ -438,7 +426,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=d38cd5d6-3ee9-414d-9ac6-4877b1180247)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=2322dd97-eb7a-4f9b-bead-e762699f8f8d)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar)
@@ -695,7 +683,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=d38cd5d6-3ee9-414d-9ac6-4877b1180247)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=2322dd97-eb7a-4f9b-bead-e762699f8f8d)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
