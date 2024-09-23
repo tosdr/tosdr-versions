@@ -3031,6 +3031,7 @@
         * [ ]  [Security Threat Management](https://handbook.gitlab.com/handbook/security/threat-management/)
             * [ ]  [Identity Engineering Team](https://handbook.gitlab.com/handbook/security/threat-management/identity/)
         * [ ]  [Software Development Lifecycle Policy](https://handbook.gitlab.com/handbook/security/security-and-technology-policies/software-development-lifecycle-policy/)
+        * [ ]  [Software Development Lifecycle Standard](https://handbook.gitlab.com/handbook/security/software-development-lifecycle-standard/)
         * [ ]  [Transparency by Default](https://handbook.gitlab.com/handbook/security/transparency-by-default/)
         * [ ]  [Women in Security](https://handbook.gitlab.com/handbook/security/women-in-security/)
         * [ ]  [Working in Security](https://handbook.gitlab.com/handbook/security/working-in-security/)
