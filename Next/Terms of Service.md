@@ -1,6 +1,6 @@
 5.38.13
 
-1727081261205
+1727102980286
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727080867255
+1727102196528
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727079983625
+1727102005508
 
 You need to enable JavaScript to run this app.
 
@@ -44,15 +44,13 @@ Search product or brand
 
 [![Sign in to view account details](/static-content/icons/header/next/v2/vision/next_my-account_desktop.svg)](https://www.next.co.uk/secure/accounts/transfer)
 
-[![Favourites icon](/static-content/icons/header/next/v2/vision/favourites-inactive-large.svg)](https://www.next.co.uk/favourites "Favourites")
-
 [![Shopping bag icon](/static-content/icons/header/next/v2/vision/shopping-bag-small.svg)](https://www.next.co.uk/shoppingbag "Shopping bag")
 
 [![Shopping bag icon](/static-content/icons/header/next/v2/vision/shopping-bag-large.svg)](https://www.next.co.uk/shoppingbag "Shopping bag")
 
 [Checkout](https://www.next.co.uk/secure/checkout/transfer/checkoutcta)
 
-* [sale](https://www.next.co.uk/sale "SALE")
+* [for you](https://www.next.co.uk/# "For You")
 * [women](https://www.next.co.uk/women "WOMEN")
 * [men](https://www.next.co.uk/men "MEN")
 * [boys](https://www.next.co.uk/boys "BOYS")
@@ -66,7 +64,7 @@ Search product or brand
 * [gifts & flowers](https://www.next.co.uk/gift-ideas "GIFTS & FLOWERS")
 * [beauty](https://www.next.co.uk/beauty "BEAUTY")
 * [sports](https://www.next.co.uk/sports "SPORTS")
-* [for you](https://www.next.co.uk/# "For You")
+* [sale](https://www.next.co.uk/sale "SALE")
 
 next
 
@@ -544,6 +542,13 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### 3 wick candles for £20 Selected Bath and Body Works Promotion
+
+* Selected Bath and Body Works 3 wick candles for £20
+* Discounted price visible on product listing page and product already includes saving
+* Item will be added to basket at discounted price
+* Offer available while stocks last
 
 ### Free Delivery Promotional Offer
 
@@ -1361,21 +1366,6 @@ Details of the competition winner will be available for 14 days after the compet
 5. The £5 reward applied to your account will only be valid for use until 20/12/23 after which it will be removed from your account.
 6. The £5 reward, once added to your account, will be automatically applied on your next purchase. This offer is a personalised promotion unique to customers who have met the criteria defined by Next.
 7. To be eligible for this promotional offer, you must have placed an order on the Next app by 11:59 28/11/2023.
-
-### Philip Kingsley Gift Promotion
-
-The Philip Kingsley Gift will be automatically added to bag when you buy two selected Philip Kingsley products. Philip Kingsley Gift contains: Elasticizer 40ml, Flaky Itchy Shampoo 20ml, Flaky Itchy Conditioner 20ml, Bond Builder Lipid Shield 3ml.  
-  
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
-  
-The Philip Kingsley Gift will be automatically added once 2 qualifying Philip Kingsley products have been added to the bag on either the Product or Shopping Bag Pages.  
-  
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
-  
-This offer is not available to staff.  
-  
-Offer applies while stocks last  
-  
 
 ### Next Android App Competition
 
@@ -2454,7 +2444,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727080243395
+1727102115636
 
 ### Our Social Networks
 
