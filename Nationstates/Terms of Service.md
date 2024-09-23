@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [we need aid (27)](https://forum.nationstates.net/viewtopic.php?t=555677&f=4&view=unread#unread ""we need aid" (27 posts)")
-* [Which irl nation is more similar to t… (110)](https://forum.nationstates.net/viewtopic.php?t=554965&f=25&view=unread#unread ""Which irl nation is more similar to the AN?" (110 posts)")
-* [Awesome/Funny NS Quotes (Not Your Own… (3,462)](https://forum.nationstates.net/viewtopic.php?t=358533&f=20&view=unread#unread ""Awesome/Funny NS Quotes (Not Your Own Quotes, Please!)" (3,462 posts)")
-* [\[LAST CALL\] On Embassy Collection (65)](https://forum.nationstates.net/viewtopic.php?t=555038&f=24&view=unread#unread ""[LAST CALL] On Embassy Collection" (65 posts)")
-* [What religion does AU follow? (OOC) (859)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (859 posts)")
+* [For the Religious: Do you have a favo… (11)](https://forum.nationstates.net/viewtopic.php?t=555610&f=20&view=unread#unread ""For the Religious: Do you have a favorite liturgical tune?" (11 posts)")
+* [Create a Military Strategy Against AN (25)](https://forum.nationstates.net/viewtopic.php?t=555130&f=25&view=unread#unread ""Create a Military Strategy Against AN" (25 posts)")
+* [Your nation's punishment for the abov… (2,714)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (2,714 posts)")
+* [What triggers you about the AN? (7,998)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (7,998 posts)")
+* [UK Politics Thread: Conservative Lead… (11,130)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,130 posts)")
 
 Advertisement
 
