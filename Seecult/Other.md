@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/crtez.jpg?itok=nPyRME2u)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/aavk-g-200/grede-002.jpg?itok=wzSqt1qC)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/aavk-g-200)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/stjepan-mimica/gal-ulus.jpg?itok=5KnEKiR9)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/stjepan-mimica)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/marky-ramone/marky-ramone-001.jpg?itok=xx8Ju2cf)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/marky-ramone)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
