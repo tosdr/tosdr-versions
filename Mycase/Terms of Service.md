@@ -847,7 +847,7 @@ Let’s revolutionize
 the way you work
 --------------------------------------
 
-Join lawyers from over 15,000 firms who trust MyCase to grow their firm while managing their caseload.
+Join lawyers from over 18,000+ firms who trust MyCase to grow their firm while managing their caseload.
 
 no credit card required
 
