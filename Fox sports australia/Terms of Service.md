@@ -30,40 +30,22 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4
+    SRI won by 63 runs
     
     |     |     |
     | --- | --- |
     | SRI | 305 & 309 |
-    | NZL | 340 & 8 /207 |
+    | NZL | 340 & 211 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240701)
-* [Men's ODI
-    
-    RSA won by 7 wkts
-    
-    |     |     |
-    | --- | --- |
-    | AFG | 169 |
-    | RSA | 3 /170 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240603)
-* [Women's T20I
-    
-    AUS won by 29 runs
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 142 |
-    | NZL | 7 /113 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250102)
 * [One-Day Cup
     
+    VIC won by 4 wkts
+    
     |     |     |
     | --- | --- |
-    | VIC |     |
-    | TAS | 9 /107 |
+    | VIC | 6 /128 |
+    | TAS | 126 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250102)
 * AFL
@@ -244,12 +226,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250309)
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ATL | 14  |
-    | KC  | 13  |
+    | ATL | 17  |
+    | KC  | 22  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250312)
 * Motorsport
@@ -274,18 +256,20 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=709)
-* Football
+* Rugby
     
-* [Premier League
+* [Rugby Champs
     
-    Full Time
+    28/9 17:05 AEST
     
     |     |     |
     | --- | --- |
-    | BHA | 2   |
-    | NOT | 2   |
+    | NZL | –   |
+    | AUS | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250509)
+    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
+* Football
+    
 * [Premier League
     
     Full Time
@@ -1040,22 +1024,21 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
 * [AFL](https://www.foxsports.com.au/afl)
-* [Paralympics 2024](https://www.foxsports.com.au/olympics)
+* [Cricket](https://www.foxsports.com.au/cricket)
 * [Motorsport](https://www.foxsports.com.au/motorsport)
 * [NBA](https://www.foxsports.com.au/basketball/nba)
 * [Boxing](https://www.foxsports.com.au/boxing)
 * [Netball](https://www.foxsports.com.au/netball)
-* [Cricket](https://www.foxsports.com.au/cricket)
 * [Basketball](https://www.foxsports.com.au/basketball)
 * [NFL](https://www.foxsports.com.au/nfl)
+* [Golf](https://www.foxsports.com.au/golf)
 * More...
 
-* [Golf](https://www.foxsports.com.au/golf)
 * [UFC](https://www.foxsports.com.au/ufc)
 * [Football](https://www.foxsports.com.au/football)
 * [Tennis](https://www.foxsports.com.au/tennis)
