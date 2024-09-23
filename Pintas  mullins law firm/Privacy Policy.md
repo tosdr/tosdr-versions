@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Why is talc bad for skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-why-is-talc-bad-for-skin-scaled.jpg "Why Is Talc Bad for Skin?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin "Why Is Talc Bad for Skin?")
+[![Can lung cancer be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-lung-cancer-be-caused-by-asbestos.jpg "Can Lung Cancer Be Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/ "Can Lung Cancer Be Caused by Asbestos?")
 
-[#### Why Is Talc Bad for Skin?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin)
+[#### Can Lung Cancer Be Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/)
 
-[![How do you know if lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-do-you-know-if-lung-cancer-is-caused-by-asbestos.jpg "How Do You Know If Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/ "How Do You Know If Lung Cancer Is Caused By Asbestos?")
+[![What is a natural alternative to roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-a-natural-alternative-to-roundup.jpg "What Is a Natural Alternative to Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/ "What Is a Natural Alternative to Roundup?")
 
-[#### How Do You Know If Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/)
+[#### What Is a Natural Alternative to Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/)
 
-[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
+[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
 
-[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
+[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
