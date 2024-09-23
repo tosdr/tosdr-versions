@@ -1,30 +1,32 @@
 [Skip to main content](#main-content)
 
-Fall Sale: BOGO Free! DETAILS
+Clearance Sale: Save up to 75% DETAILS
 
-FALL FOR PAIN RELIEF
+Save up to $75 on Infrared Therapy DETAILS
 
-Close the Modal
-
-#### BUY 1 GET 1 FREE
-
-[SHOP NOW](https://www.tommiecopper.com/special/fall-for-pain-relief)
-
-Offer valid 9/20/2024 8AM ET - 9/23/2024 6AM ET.
-
-To receive Buy 1 Get 1 Free discount, must add two (2) eligible full-price products to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-FREE GIFT WITH PURCHASE
+FALL CLEARANCE SALE
 
 Close the Modal
 
-#### Free Pain Relief Liquid Roller on Orders $100+
+#### SAVE UP TO 75%
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP MEN](https://www.tommiecopper.com/men/featured/mens-markdowns/)    [SHOP WOMEN](https://www.tommiecopper.com/women/featured/womens-markdowns/)
 
-Offer valid 8/1/2023 8AM EST - 8/5/2023 6AM EST.
+Offer valid 9/23/2024 8AM ET - 9/25/2024 6AM ET.
 
-Free Pain Relief Liquid Roller - Cucumber & Peppermint automatically applied on orders $100+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Fall Clearance Sale discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+INFRARED & RED LIGHT THERAPY
+
+Close the Modal
+
+#### Save Up To $75 on Infrared & Red Light Therapy Devices
+
+[SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
+
+Offer valid 9/23/2024 8AM ET - 9/25/2024 6AM ET.
+
+Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
