@@ -350,15 +350,15 @@ Our latest blog posts
 
 [View all](https://www.rangextd.com/blogs/news) 
 
-* ### September 22 2024, by Author Article title
+* ### September 23 2024, by Author Article title
     
     Read more 
     
-* ### September 22 2024, by Author Article title
+* ### September 23 2024, by Author Article title
     
     Read more 
     
-* ### September 22 2024, by Author Article title
+* ### September 23 2024, by Author Article title
     
     Read more 
     
