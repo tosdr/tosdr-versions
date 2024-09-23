@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Mens­truations-Slips im Test: Jeder zweite mit kritischen Stoffen](https://www.test.de/Menstruations-Slips-im-Test-Jeder-zweite-mit-kritischen-Stoffen-6017282-0/ "Menstruations-Slips im Test - Jeder zweite mit kritischen Stoffen")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Mens­truations-Slips im Test: Jeder zweite mit kritischen Stoffen](https://www.test.de/Menstruations-Slips-im-Test-Jeder-zweite-mit-kritischen-Stoffen-6017282-0/ "Menstruations-Slips im Test - Jeder zweite mit kritischen Stoffen")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Mens­truations-Slips im Test: Jeder zweite mit kritischen Stoffen](https://www.test.de/Menstruations-Slips-im-Test-Jeder-zweite-mit-kritischen-Stoffen-6017282-0/ "Menstruations-Slips im Test - Jeder zweite mit kritischen Stoffen")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Mens­truations-Slips im Test: Jeder zweite mit kritischen Stoffen](https://www.test.de/Menstruations-Slips-im-Test-Jeder-zweite-mit-kritischen-Stoffen-6017282-0/ "Menstruations-Slips im Test - Jeder zweite mit kritischen Stoffen")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
 
 Service Stiftung Warentest
 
