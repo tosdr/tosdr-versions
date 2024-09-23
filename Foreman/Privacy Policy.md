@@ -104,7 +104,7 @@ We also use the bug tracker data to provide aggregated statistics such as number
 Communication
 -------------
 
-The Foreman project maintains two public IRC channels on [libera.chat](https://libera.chat/), refer to [libera.chat’s privacy policy](https://libera.chat/privacy) for details on how they handle your data.
+The Foreman project maintains two public Matrix rooms on [matrix.org](https://matrix.org/), refer to [Matrix.org’s privacy policy](https://matrix.org/_matrix/consent) for details on how they handle your data.
 
 The Foreman community uses a self-hosted forum using the [Discourse](https://discourse.org/) software. When signing up for a Discourse account, you provide a name and email address - and in addition we store the IP address of your most recent connection. The email address is only used to send you updates to your forum topics, personal messages from other users, and digest summaries. You have full control over the emails sent from your Discourse account preferences. The forum also uses cookies to store your session.
 
@@ -153,7 +153,7 @@ Where the EU General Data Protection Regulation 2016/679 (“GDPR”) applies to
 * The right to receive your personal data in a usable electronic format and transmit it to a third party (also known as the right of data portability)
 * The right to lodge a complaint with your local data protection authority
 
-If you would like to exercise any of these rights, you may do so by contacting the Foreman Project at [contact us](mailto:privacy@community.theforeman.org) or on [IRC](https://theforeman.org/support.html#IRClivechat). Please understand, however, the rights enumerated above are not absolute in all cases, especially in regards to the right to erase your data:
+If you would like to exercise any of these rights, you may do so by contacting the Foreman Project at [contact us](mailto:privacy@community.theforeman.org) or on [Matrix](https://theforeman.org/support.html#Matrix.orglivechat). Please understand, however, the rights enumerated above are not absolute in all cases, especially in regards to the right to erase your data:
 
 * Git commits will not be rewritten
     * contributing to the codebase is opt-in,
@@ -166,7 +166,7 @@ If you would like to exercise any of these rights, you may do so by contacting t
 Contacting us
 =============
 
-If you have any questions about this policy or our use of your data, please feel free to [contact us](mailto:privacy@community.theforeman.org) or on [IRC](https://theforeman.org/support.html#IRClivechat).
+If you have any questions about this policy or our use of your data, please feel free to [contact us](mailto:privacy@community.theforeman.org) or on [Matrix](https://theforeman.org/support.html#Matrix.orglivechat).
 
 Changes to this Privacy Statement
 =================================
