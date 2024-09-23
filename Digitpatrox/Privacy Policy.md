@@ -20,16 +20,16 @@ Monday, September 23 2024
 
 Latest
 
-* [What’s this new mystery Nintendo device?](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
-* [Waiting for Apple Intelligence in iOS 18? Here’s the Timeline for Upcoming AI Features](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
-* [Oracle wants to power a new gigawatt data center with three small nuclear reactors – and it’s not the only big hyperscaler eyeing nuclear to meet surging AI energy demands](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
-* [Enterprise file sync and sharing services – Computerworld](https://digitpatrox.com/enterprise-file-sync-and-sharing-services-computerworld/)
-* [How to Customize iOS 18’s Revamped Photos App](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
-* [8 Best Gas Ranges of 2024, Tested by Our Experts](https://digitpatrox.com/8-best-gas-ranges-of-2024-tested-by-our-experts/)
-* [The First Windows-Android Hybrid Laptop](https://digitpatrox.com/the-first-windows-android-hybrid-laptop/)
-* [LinkedIn backtracks on controversial AI training rules after user backlash](https://digitpatrox.com/linkedin-backtracks-on-controversial-ai-training-rules-after-user-backlash/)
-* [Shark Cordless PowerDetect Clean & Empty Vacuum System review](https://digitpatrox.com/shark-cordless-powerdetect-clean-empty-vacuum-system-review/)
-* [Meta has a major opportunity to win the AI hardware race](https://digitpatrox.com/meta-has-a-major-opportunity-to-win-the-ai-hardware-race/)
+* [Could ‘fair source’ software be the key to solving open source licensing disputes?](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
+* [Get Seven Iconic MS Office Programs For Just $25](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
+* [Forget Prime Day — 5 great deals you can get right now in Woot’s October PC sale](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
+* [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://digitpatrox.com/the-black-apple-watch-ultra-2-is-already-50-off-in-select-sizes/)
+* [MCU Thunderbolts: Sentry Powers and Abilities](https://digitpatrox.com/mcu-thunderbolts-sentry-powers-and-abilities/)
+* [AI and cybersecurity: friends or foes?](https://digitpatrox.com/ai-and-cybersecurity-friends-or-foes/)
+* [Google US antitrust trials: A timeline – Computerworld](https://digitpatrox.com/google-us-antitrust-trials-a-timeline-computerworld/)
+* [These Are the Best Breads for French Toast](https://digitpatrox.com/these-are-the-best-breads-for-french-toast/)
+* [Franklin County, KS notifies 30K people of data breach that compromised SSNS, financial and medical info](https://digitpatrox.com/franklin-county-ks-notifies-30k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
+* [How to add folders shortcuts on Start menu next to the Power button on Windows 11, 10](https://digitpatrox.com/how-to-add-folders-shortcuts-on-start-menu-next-to-the-power-button-on-windows-11-10/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/8JWRw_HOuKfVhERv2SqVFVojZjE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25590106/STK054_NINTENDO_D.jpg)](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
+* [![](https://cdn.mos.cms.futurecdn.net/m8LD3ENwxn3C9qP6jjPzb3-1200-80.jpg)](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
     
-    [What’s this new mystery Nintendo device?](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
+    [Could ‘fair source’ software be the key to solving open source licensing disputes?](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
     
-    17 mins ago
+    26 seconds ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Apple-Intelligence-release-Date.jpg)](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
+* [![](https://assets.techrepublic.com/uploads/2023/11/tr_20231121-microsoft-office-professional-plus-2019-for-windows.jpg)](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
     
-    [Waiting for Apple Intelligence in iOS 18? Here’s the Timeline for Upcoming AI Features](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
+    [Get Seven Iconic MS Office Programs For Just $25](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
+    
+    1 min ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/vjt8i5xdiX5hLJiRRZPSD-1200-80.jpg)](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
+    
+    [Forget Prime Day — 5 great deals you can get right now in Woot’s October PC sale](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
     
     19 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/dM6faDaZzWS5LfnjPma8h8-1200-80.jpg)](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
+* [![](https://cdn.vox-cdn.com/thumbor/c-nnFc8cWl4QaHZQg-L0tNeKTTE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25622607/247272_Apple_Watch_Ultra_2_Black_AKrales_0240.jpg)](https://digitpatrox.com/the-black-apple-watch-ultra-2-is-already-50-off-in-select-sizes/)
     
-    [Oracle wants to power a new gigawatt data center with three small nuclear reactors – and it’s not the only big hyperscaler eyeing nuclear to meet surging AI energy demands](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
+    [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://digitpatrox.com/the-black-apple-watch-ultra-2-is-already-50-off-in-select-sizes/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3520801-0-48435300-1727085764-file-sync-sharing-by-tsingha25-via-shutterstock.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/enterprise-file-sync-and-sharing-services-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/MCU-Thunderbolts-Sentry-Powers-and-Abilities.jpg)](https://digitpatrox.com/mcu-thunderbolts-sentry-powers-and-abilities/)
     
-    [Enterprise file sync and sharing services – Computerworld](https://digitpatrox.com/enterprise-file-sync-and-sharing-services-computerworld/)
+    [MCU Thunderbolts: Sentry Powers and Abilities](https://digitpatrox.com/mcu-thunderbolts-sentry-powers-and-abilities/)
     
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J87G3C7EWCMZ6753W6ZD3M3Q/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
-    
-    [How to Customize iOS 18’s Revamped Photos App](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
-    
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [17 mins ago
+* [26 seconds ago
     
-    ### What’s this new mystery Nintendo device?](https://digitpatrox.com/whats-this-new-mystery-nintendo-device/)
+    ### Could ‘fair source’ software be the key to solving open source licensing disputes?](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
+* [1 min ago
+    
+    ### Get Seven Iconic MS Office Programs For Just $25](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
 * [19 mins ago
     
-    ### Waiting for Apple Intelligence in iOS 18? Here’s the Timeline for Upcoming AI Features](https://digitpatrox.com/waiting-for-apple-intelligence-in-ios-18-heres-the-timeline-for-upcoming-ai-features/)
-* [2 hours ago
-    
-    ### Oracle wants to power a new gigawatt data center with three small nuclear reactors – and it’s not the only big hyperscaler eyeing nuclear to meet surging AI energy demands](https://digitpatrox.com/oracle-wants-to-power-a-new-gigawatt-data-center-with-three-small-nuclear-reactors-and-its-not-the-only-big-hyperscaler-eyeing-nuclear-to-meet-surging-ai-energy-demands/)
+    ### Forget Prime Day — 5 great deals you can get right now in Woot’s October PC sale](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
 
 Most Popular Topics
 
-* [August 19, 2024
+* [August 16, 2024
     
-    ### It’s Time to Order Compost and Mulch](https://digitpatrox.com/its-time-to-order-compost-and-mulch/)
-* [3 weeks ago
+    ### Popular Midsized SUVs to Avoid and What to Buy](https://digitpatrox.com/popular-midsized-suvs-to-avoid-and-what-to-buy/)
+* [5 days ago
     
-    ### Researchers find SQL injection to bypass airport TSA security checks](https://digitpatrox.com/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/)
-* [3 weeks ago
+    ### Windmill AC 3.0 review: A smart air conditioner that’s attractive, quiet and powerful](https://digitpatrox.com/windmill-ac-3-0-review-a-smart-air-conditioner-thats-attractive-quiet-and-powerful/)
+* [August 12, 2024
     
-    ### Admins of MFA bypass service plead guilty to fraud](https://digitpatrox.com/admins-of-mfa-bypass-service-plead-guilty-to-fraud/)
+    ### Starfield: Burden Of Proof \[Quest Walkthrough\]](https://digitpatrox.com/starfield-burden-of-proof-quest-walkthrough/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### The First Windows-Android Hybrid Laptop](https://digitpatrox.com/the-first-windows-android-hybrid-laptop/)
+    ### Google US antitrust trials: A timeline – Computerworld](https://digitpatrox.com/google-us-antitrust-trials-a-timeline-computerworld/)
+* [3 hours ago
+    
+    ### These Are the Best Breads for French Toast](https://digitpatrox.com/these-are-the-best-breads-for-french-toast/)
 * [4 hours ago
     
-    ### LinkedIn backtracks on controversial AI training rules after user backlash](https://digitpatrox.com/linkedin-backtracks-on-controversial-ai-training-rules-after-user-backlash/)
-* [4 hours ago
-    
-    ### Shark Cordless PowerDetect Clean & Empty Vacuum System review](https://digitpatrox.com/shark-cordless-powerdetect-clean-empty-vacuum-system-review/)
+    ### Franklin County, KS notifies 30K people of data breach that compromised SSNS, financial and medical info](https://digitpatrox.com/franklin-county-ks-notifies-30k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
 
 Most Viewed Topics
 
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [4 weeks ago
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [4 weeks ago
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
