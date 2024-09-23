@@ -79,11 +79,11 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
         
     * Team
         
-        * [Sales](https://www.pandadoc.com/pandadoc-for-sales/)
-        * [HR](https://www.pandadoc.com/pandadoc-for-hr/)
-        * [Marketing](https://www.pandadoc.com/pandadoc-for-marketers/)
-        * [Customer success](https://www.pandadoc.com/pandadoc-for-customer-success/)
-        * [Legal](https://www.pandadoc.com/pandadoc-for-legal/)
+        * [Sales](https://www.pandadoc.com/teams/sales/)
+        * [HR](https://www.pandadoc.com/teams/hr/)
+        * [Marketing](https://www.pandadoc.com/teams/marketers/)
+        * [Customer success](https://www.pandadoc.com/teams/customer-success/)
+        * [Legal](https://www.pandadoc.com/teams/legal/)
         * [All teams](https://www.pandadoc.com/teams/)
         
     
@@ -157,7 +157,7 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
         
         * [API](https://www.pandadoc.com/api/)
         * [Document embedding](https://www.pandadoc.com/api/embedded-editing/)
-        * [Documentation](https://developers.pandadoc.com/docs/getting-started/)
+        * [Documentation](https://developers.pandadoc.com/docs/getting-started)
         
     
     * [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_master-services-agreement_top-menu)
