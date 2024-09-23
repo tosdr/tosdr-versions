@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/wordt-er-nu-n-supermensenras-geboren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/het-wordt-tijd-dat-zorgprofessionals-alternatieve-geneeswijzen-serieus-nemen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
