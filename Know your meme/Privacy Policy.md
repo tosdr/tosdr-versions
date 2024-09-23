@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Marauder Shields](https://knowyourmeme.com/memes/marauder-shields "Marauder Shields") [Cards Against Humanity Suing Elon Musk](https://knowyourmeme.com/memes/events/cards-against-humanity-suing-elon-musk "Cards Against Humanity Suing Elon Musk") [Ironmouse YouTube Channel Shutdown](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown "Ironmouse YouTube Channel Shutdown")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
