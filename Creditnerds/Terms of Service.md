@@ -287,6 +287,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses, inspecting an oversized insurance document labeled 'Insurance Fraud' with a magnifying glass. The background includes subtle symbols of fraud, such as dollar signs, a broken car, and a fake house claim, creating a slightly darker, investigative atmosphere.](https://creditnerds.com/wp-content/uploads/2024/09/What-is-Insurance-Fraud-30x30.webp)](https://creditnerds.com/what-is-insurance-fraud/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 23, 2024
+
+#### [What Is Insurance Fraud?](https://creditnerds.com/what-is-insurance-fraud/)
+
+Insurance fraud occurs when individuals or businesses manipulate or falsify information to obtain financial gain from insurance companies. The FBI estimates that insurance fraud (excluding health insurance) costs around $40 billion annually. As a result, the average U.S. family ends up paying between $400 and $700 more each year in premiums. What Is Insurance Fraud? …
+
+[Read More](https://creditnerds.com/what-is-insurance-fraud/)
+
 [![Cartoon-style image of a person wearing glasses, holding business documents labeled 'Business Credit.' The character stands confidently next to a large credit card, with a tall building and financial icons like graphs and coins in the background, symbolizing the process of building business credit.](https://creditnerds.com/wp-content/uploads/2024/09/business-credit-30x30.webp)](https://creditnerds.com/how-do-i-build-business-credit/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -382,18 +394,6 @@ September 6, 2024
 Credit card fraud is one of the most prevalent types of financial fraud today. According to the Federal Trade Commission (FTC), there were over 214,000 reports of credit card fraud in the first half of 2024 alone. While many credit cards offer zero liability protection, meaning you won’t be held responsible for unauthorized transactions, dealing …
 
 [Read More](https://creditnerds.com/how-common-is-credit-card-fraud/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a laptop showing an annuity purchase page. The person appears focused and thoughtful, holding a pen while reviewing financial documents and charts. The desk also has a coffee cup and a calculator. The background includes a bookshelf with financial books and a plant, creating a professional yet inviting atmosphere.](https://creditnerds.com/wp-content/uploads/2024/09/Annuity-30x30.webp)](https://creditnerds.com/how-to-buy-an-annuity/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-September 3, 2024
-
-#### [How to Buy an Annuity](https://creditnerds.com/how-to-buy-an-annuity/)
-
-An annuity can be a valuable retirement planning tool, offering guaranteed income when you're no longer working. Some annuities even allow your premiums to grow tax-deferred. Understanding how to buy an annuity can help you make the most of this financial product. Here’s a closer look at what annuities are, how they work, and what …
-
-[Read More](https://creditnerds.com/how-to-buy-an-annuity/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
