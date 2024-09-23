@@ -54,17 +54,17 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
     
-* *  [![](https://www.women.com/img/gallery/the-pros-and-cons-to-soft-swinging-because-its-on-everyones-lips/intro-1726848271.jpg)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+* *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
         
-        ### [The Pros And Cons To 'Soft Swinging' (Because It's On Everyone's Lips)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+        ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
-        "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
+        Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
+        By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
     *  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
         
@@ -82,6 +82,18 @@
 More Stories
 ------------
 
+*  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    
+    ### [Shallowing May Be The Perfect Sex Act For Maximum Pleasure](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+    
+    If you're looking to try something sexual you haven't done before or you're just not too keen on penetration, then shallowing might be for you.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+    
 *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/sabrina-carpenter-outfits-that-prove-why-shes-the-new-it-girl/intro-1726692701.jpg)](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -93,6 +105,18 @@ More Stories
     There's no nonsense when it comes to Sabrina Carpenter's fashion sense. Here are the best looks that prove the singer is a Taste-maker when it comes to trends.
     
     By Emily Hutchinson [Read More](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
+    
+*  [![Two women embracing](https://www.women.com/img/gallery/the-pros-and-cons-to-soft-swinging-because-its-on-everyones-lips/intro-1726848271.jpg)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    
+    ### [The Pros And Cons To 'Soft Swinging' (Because It's On Everyone's Lips)](https://www.women.com/1669700/pros-cons-soft-swinging/)
+    
+    "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
     
 *  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
@@ -381,30 +405,6 @@ More Stories
     Taylor Swift has rocked some stunning looks on the red carpet, but not all her outfits have been on-point. These award show styles missed the mark.
     
     By Emily Hutchinson [Read More](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
-    
-*  [![Blake Lively and Ryan Reynolds on the red carpet](https://www.women.com/img/gallery/the-red-flags-in-blake-lively-ryan-reynolds-relationship-we-just-cant-ignore/intro-1725638968.jpg)](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-    
-    ### [The Red Flags In Blake Lively And Ryan Reynolds' Relationship We Just Can't Ignore](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
-    
-    Blake Lively and Ryan Reynolds are the Hollywood it couple, but their relationship may not be as perfect it seems. We can't ignore these red flags.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
-    
-*  [![four moms standing](https://www.women.com/img/gallery/momcozy-brings-comfort-and-community-to-new-mothers/intro-1725665058.jpg)](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Savanna Swain-Wilson
-    
-    ### [Momcozy Is Bringing You The Ultimate Motherhood Community](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
-    
-    Whether you're a first time mom or on baby number three, motherhood comes with challenges. Thankfully, MomCozy is here to help every step of the way.
-    
-    By Savanna Swain-Wilson [Read More](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
     
 
 Back
