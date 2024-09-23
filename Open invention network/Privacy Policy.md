@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> For more than 160 years, Heidelberg has been a leading provider of a spectrum of printing technologies used by the most respected print shops in the industry. We recognize the value of open source innovation in our firmware and increasingly sophisticated document management systems. By joining OIN, we are demonstrating our continued commitment to innovation and supporting it with patent non-aggression in Linux and adjacent technologies.  
+> More than 70% of D-Link’s networking and communication solutions have implemented open source software since the beginning phase of research and development. We have and will continue to advocate for OSS and patent non-aggression, and we look forward to making our contributions to the OIN community to encourage innovation.  
 
-Christof HaustHeidelberger Drucksmachinen, AG
+Mark ChenPresidentD-Link
 
-> _Having OpenStack in the core of our product, FishOS,_  _we highly appreciate the value and importance of shared knowledge, experience, and technology of open source communities. Joining OIN emphasizes our commitment to developing and distributing open source technology. Thanks to expertise, software companies can mitigate the global patent risk to open source software like FishOS for all the market players – developers, vendors, customers, and end-users._
+> As a leader in the development of intelligent automobiles, Daimler is committed to offering the highest-quality products across our portfolio. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
 
-Kenneth TanCEO, Sardina Systems
+Ralf LambertiDirector Intellectual Property - Trends & InnovationDaimler
 
-> Linux is an integral part of the advanced system-on-chip (SoC) development process and is used as the development platform, as well as a target operating system for many systems that our customers design. Preserving the openness of Linux is critical to the continued advancement of next-generation SoCs in both embedded applications and consumer devices.  
+> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
 
-Jim ReadyChief Technology Advisor Software & Embedded SystemsCadence Design Systems
+Mick LimDirector, Foxconn IP Affairs Division
 
-> We strive to be the top short video social platform and community for all users to record and share their lives. Linux and open source are critical elements in technologies we develop and integrate into our platform. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
+> For us, joining OIN is a statement. Linux has given MTU added value that can’t be expressed in euros. We have powerful software available for designing, configuring, and producing engines and for fleet management. One especially valuable aspect is the freedom to continuously further develop and refine perfectly tailored tools and methods to design and configure our high-tech products ourselves.  
 
-Hongyi JiaGeneral CounselKuaishou Group
+Nadia ZerelliHead of Engineering Systems, MTU Aero Engines
 
-> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
+> Since WSO2 was founded, we have been committed to delivering a completely open source platform that takes advantage of the Linux ecosystem. As an OIN member, we look forward not only to taking advantage of the cross-licensing opportunities, but also working with OIN to expand the scope of technologies in the patent pool.  
 
-Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
+Jonathan MarshVP, StrategyWSO2
 
-> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
+> NewLink has been committed to the deep integration of digitalization and the energy industry, and continues to explore the best technologies to improve energy utilization in order to better serve partners across the industry chain. Linux systems and open source technologies provide support for digitalization, and we appreciate OIN’s contribution to reducing the risk of open source software patents around the world.  We value the protection of intellectual property rights and also respect the in… [Read more](https://openinventionnetwork.com/testimonial/naas-technology-newlink/ "Complete testimonial by Mingyi Jin")
 
-Jens WiegandCTO / EVP Software & ElectronicsKontron
+Mingyi JinVP & General Legal Counsel at NewLink
 
-> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
+> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
 
-Yandex
+Josh DeathIP & Patentable Innovations LeadTD Bank
 
-> Consistent with OIN’s mission to provide freedom of action in Linux, we believe it is important to reinforce the principle that Intellectual Property (IP) enforcement should be conducted in a manner that is rational and in consonance with the collaborative process that occurs in Open Source Software (OSS). We encourage all of our members to provide their unequivocal support for the GPL Cooperation Commitment.  
+> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
 
-Keith BergeltCEOOpen Invention Network
+Heather MeekerPartnerO'Melveny & Myers
 
-> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
+> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
 
-Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
+Groupe Renault
 
-> _We remain focused on integrating the best technologies in our payment networks, which help to deliver services that our banks’ customers value and trust. We enable all financial institutions to offer safer, faster, and smarter digital transaction services and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting open source software._
+> Bilibili is a diverse, open, and innovative cultural platform. All the time, we are committed to opening and sharing technologies and providing positive motivation in the innovation field of playback transmission, interactive entertainment, and cloud-native ecology through open source projects. Linux System software and open source technologies are important software infrastructures that promote business developments. Our participation in the OIN community demonstrates our consistent and ongoin… [Read more](https://openinventionnetwork.com/testimonial/bilibili/ "Complete testimonial by Wang Hao")
 
-Sean ReillySVP & Associate General Counsel, The Clearing House
+Wang HaoVice President, Bilibili
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
