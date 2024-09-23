@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/09db9866-68c3-433c-80ee-3dd245dc0810/20240918T233731/09db9866-68c3-433c-80ee-3dd245dc0810_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/09db9866-68c3-433c-80ee-3dd245dc0810/20240918T233731/09db9866-68c3-433c-80ee-3dd245dc0810_360x203.jpg)](https://www.wqad.com/article/news/local/usps-truck-building-collision-silvis-illinois/526-111b14ae-76b7-4a03-a1c2-0fd968d7c612)
+        
+        #### [PHOTOS: USPS truck collides with building in Silvis](https://www.wqad.com/article/news/local/usps-truck-building-collision-silvis-illinois/526-111b14ae-76b7-4a03-a1c2-0fd968d7c612)
+        
     *  [![](https://media.tegna-media.com/assets/WOI/images/e2be2795-52b0-4283-8947-48bdc8c49d25/20240922T024833/e2be2795-52b0-4283-8947-48bdc8c49d25_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/e2be2795-52b0-4283-8947-48bdc8c49d25/20240922T024833/e2be2795-52b0-4283-8947-48bdc8c49d25_360x203.jpg)](https://www.wqad.com/article/news/local/guinness-world-record-breaker-fastest-motorized-wheelbarrow-mitchellville-saylorville-resident-wouned-warrior-project-fundraiser/524-09dd68d2-418a-4875-b3e0-08abf3fefe4d)
         
         #### [Iowa man beats Guinness World Record for fastest motorized wheelbarrow](https://www.wqad.com/article/news/local/guinness-world-record-breaker-fastest-motorized-wheelbarrow-mitchellville-saylorville-resident-wouned-warrior-project-fundraiser/524-09dd68d2-418a-4875-b3e0-08abf3fefe4d)
-        
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/1-dead-in-rock-island-county-crash/526-448f1cb7-0533-42cf-aaf8-958d1207cce8)
-        
-        #### [Victim identified in fatal rural Rock Island County crash](https://www.wqad.com/article/news/local/1-dead-in-rock-island-county-crash/526-448f1cb7-0533-42cf-aaf8-958d1207cce8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8/20240922T120739/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8/20240922T120739/3f943a72-dcf6-4ef1-ae5c-db508ce7bdf8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0c0f6497-80f0-4552-829c-15bf339e0548/20240922T231104/0c0f6497-80f0-4552-829c-15bf339e0548_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0c0f6497-80f0-4552-829c-15bf339e0548/20240922T231104/0c0f6497-80f0-4552-829c-15bf339e0548_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Rainy start to fall](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Fall weather has arrived](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.wqad.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-67°
+57°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
