@@ -32,11 +32,11 @@ AI](https://namegenerator.com/business/brand)[God Names
 
 AI](https://namegenerator.com/fiction/god)[Clan Names
 
-AI](https://namegenerator.com/people/clan)[Generative Names](https://namegenerator.com/people/generative)[Demon Names
+AI](https://namegenerator.com/people/clan)[Demon Names
 
-AI](https://namegenerator.com/fiction/demon)[Company Names
+AI](https://namegenerator.com/fiction/demon)[Generative Names](https://namegenerator.com/people/generative)[YouTube Channel Names
 
-AI](https://namegenerator.com/business/company)
+AI](https://namegenerator.com/media/youtube-channel)
 
 Terms and Privacy Policy
 ========================
