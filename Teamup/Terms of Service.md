@@ -46,6 +46,7 @@
     * [EXPLORE](#)
         * [Embedded calendars](https://www.teamup.com/embedded-calendars-live/)
         * [Case studies](https://blog.teamup.com/category/user-stories/)
+        * [How Teamup is different](https://www.teamup.com/how-different/)
     * [LEARN](#)
         * [Help center](https://www.teamup.com/help/)
         * [Video tutorials](https://www.youtube.com/watch?v=G1hLOICZeqY&list=PLN0VBjZI8KhgOHmwPiYXuulLHBf0lBw_I&index=1)
