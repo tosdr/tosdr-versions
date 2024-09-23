@@ -268,12 +268,14 @@ Derry City fans at the Brandywell. Pics by nwpresspics
 [IN PICTURES: Derry City fans enjoy night of late drama at the Brandywell](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic by Ramsey Cardy/ Sportsfile
 
-[Derry Death Notices - Sunday, 22nd September 2024](https://www.derrynow.com/news/deaths/1610381/derry-death-notices-sunday-22nd-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins - 'Patrick McEleney is the most honest professional I've ever worked with'](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Banagher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Banagher")](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
 
@@ -284,15 +286,6 @@ Banagher picked up a late victory over Drumsurn. Pic by Sideline Photography
 [Late Ciaran Lynch goal gives Banagher the win over Drumsurn](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
-
-Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
 
 Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
@@ -302,14 +295,12 @@ Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
 [Steelstown hopes ended by defeat at Lavey](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
 
-Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic by Ramsey Cardy/ Sportsfile
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins - 'Patrick McEleney is the most honest professional I've ever worked with'](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [!['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Connecting Communities – Linking BT47' project in Derry celebrates financial boost")](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
 
@@ -317,6 +308,15 @@ Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic 
 
 ['Connecting Communities – Linking BT47' project in Derry celebrates financial boost](https://www.derrynow.com/news/local-news/1610262/connecting-communities-linking-bt47-project-in-derry-celebrates-financial-boost.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
+
+Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Maynooth Community Church is officially opened](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Maynooth Community Church is officially opened")](https://www.derrynow.com/news/local-news/1611213/historic-day-as-maynooth-community-church-is-officially-opened.html)
 
@@ -523,6 +523,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
 
 Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
@@ -532,7 +539,7 @@ Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
 [Steelstown hopes ended by defeat at Lavey](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_22/2944147-1727018094764.jpg--.jpg?1727018096138 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
 
 Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic by Ramsey Cardy/ Sportsfile
 
@@ -565,15 +572,6 @@ Banagher picked up a late victory over Drumsurn. Pic by Sideline Photography
 
 [Late Ciaran Lynch goal gives Banagher the win over Drumsurn](https://www.derrynow.com/news/derry-sport/1611171/late-ciaran-lynch-goal-gives-banagher-the-win-over-drumsurn.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Institute](https://www.derrynow.com/resizer/165/93/true/2024_09_22/Institute_v_Newington_8-1726993618441.jpg--.jpg?1726993618910 "Institute")](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
-
-Padraig Lynch and Michael Harris were both on the score sheet for Institute Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Biggest win in a year! Institute hammer Newington at the Brandywell](https://www.derrynow.com/news/derry-sport/1611150/biggest-win-in-a-year-institute-hammer-newington-at-the-brandywell.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
