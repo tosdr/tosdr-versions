@@ -5468,6 +5468,8 @@ I/We hereby give voluntarily at my/our own discretion my/our Aadhaar number as i
 
 Death of account holder: In the event of the death of depositor, premature liquidation of term deposit will be allowed. Such premature liquidation will not attract any penal charge. In the event of death of one of the joint account holders, the right to deposit proceeds does not automatically devolve on the serving joint deposit account holder, unless there is a survivorship clause. I/ We agree that in case of joint fixed deposit with survivor clause, the Bank shall be discharge by paying the fixed deposit proceeds prematurely to survivor/s, on request, in the event of the death of one or more joint depositor/s. In case of premature withdrawal of NRE deposit due to death of depositor, interest (if any) may be paid as per HDFC Bank’s Approved Policy. Credits to NRO Accounts: I/We hereby declare that only legitimate dues in India which would include but not limited to rent, dividend, pension, interest, sale proceeds of assets including immovable property acquired out of rupee/foreign currency funds or by way of legacy/inheritance will be deposited in my/our NRO Account. [Click Here](https://ind01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hdfcbank.com%2Fnri-banking&data=05%7C01%7CEuroMoney%40hdfcbank.com%7Ce843f20548244305541d08db8cf04b4e%7C827fd02205a64e57be9ccc069b6ae62d%7C0%7C0%7C638258735905049862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2BmoQUGYsCmXERs5t5vhUStNjvtUTfuVC47p7PNTpUk0%3D&reserved=0 "Original URL: https://www.hdfcbank.com/nri-banking. Click or tap if you trust this link.") to know more details on NRI Accounts
 
+  
+
 false
 
 false
