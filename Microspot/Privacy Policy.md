@@ -64,7 +64,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/1777.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/6143.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -74,9 +74,17 @@ Visitez l'une de nos quelques environ
 
 [Filiales](https://www.microspot.ch/fr/storefinder)
 
+[![Notebook](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2FKachel-860x484-Intel-FR.png%3Fcontext%3DbWFzdGVyfGNtc3wxMDg4Njh8aW1hZ2UvcG5nfGFEUXhMMmd3TVM5TFlXTm9aV3hmT0RZd2VEUTRORjlKYm5SbGJGOUdVbDlXTWpNekxuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOUxZV05vWld4Zk9EWXdlRFE0TkY5SmJuUmxiRjlHVWw5V01qTXpMbkJ1WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxkOGJhNjFmYjUwNTdjZGNiYTdjMDZkOTQ4ZDhkZjNkOGUzNmViMDAyNzhmMTkyMzk2ZDAwM2Q0OGE1MDc1NDBl&w=2360&q=75)
+
+20%de rabais sur les produits ACER](https://www.microspot.ch/fr/brand/acer)
+
 [![SAMSUNG Actions](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0618-CM1-div-promos.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDQxMHxpbWFnZS9qcGVnfGFEUmlMMmhpTlM4NE5qQjRORGcwWDBreU5GOHdOakU0WDBOTk1WOWthWFpmY0hKdmJXOXpMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMGt5TkY4d05qRTRYME5OTVY5a2FYWmZjSEp2Ylc5ekxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGU0NjM4ZGE5ZDcwYTU1N2M5NDQ0MmI2MzViMDM4ZjM5NGI3ZDgzZTIxN2VmZWE1NTYxNDc2NjJiZGFmZTU5MTU&w=2360&q=75)
 
 ACTIONBest of SAMSUNG](https://www.microspot.ch/fr/cms/samsung-promotion)
+
+[![Rasoir pour homme et brosse à dents](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0645-CM3-Beauty-Promo-KW39.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzODA1N3xpbWFnZS9qcGVnfGFEVTBMMmd5T1M4NE5qQjRORGcwWDBreU5GOHdOalExWDBOTk0xOUNaV0YxZEhsZlVISnZiVzlmUzFjek9TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmTURZME5WOURUVE5mUW1WaGRYUjVYMUJ5YjIxdlgwdFhNemt1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfDA1NTRkZjg2OTkwOWZlM2FhZWVkZGQxMzg5M2MyNzFjODA2ZmY1NDRmYWI0MzMxMTBhMzBkNTFmMmEyMTU3NGM&w=2360&q=75)
+
+20%de rabais sur une sélection de produits des beauté](https://www.microspot.ch/fr/cms/actions-beauty)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0636-CM1-Promos-KW39-402.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzOTg3OHxpbWFnZS9qcGVnfGFEUmhMMmcxTnk4NE5qQjRORGcwWDBreU5GOHdOak0yWDBOTk1WOVFjbTl0YjNOZlMxY3pPUzAwTURKV01pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmTURZek5sOURUVEZmVUhKdmJXOXpYMHRYTXprdE5EQXlWakl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGIxZWE0YjkzNWQ3OWYyYjU1YmZkZjY2NjI2ZjE1ZjQ0OTg4OTUwNDE0M2Y0NDVmYWJhOTVhNTBiMmViNWYyMzU&w=2360&q=75)
 
@@ -88,11 +96,38 @@ ACTIONGaming Special](https://www.microspot.ch/fr/cms/actions-jeux)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0679-CM2-Promos-KW393.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NDcxNHxpbWFnZS9qcGVnfGFESTFMMmczWWk4NE5qQjRORGcwWDBreU5GOHdOamM1WDBOTk1sOVFjbTl0YjNOZlMxY3pPVE11YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJOemxmUTAweVgxQnliMjF2YzE5TFZ6TTVNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZjVjYmMxNjhkODg2MDg2YzFjZTg3YzVkM2MzZmVmOGI0ZTEzZTExYjI5OTZhNDkwZjRkYzkxMjczYTYzZjgyNA&w=2360&q=75)
 
-399.95au lieu de 449.95SONY PlayStation 5 Refurbished 825 GB](https://www.microspot.ch/fr/cms/entreprise/fr/cms/sony-playstation)
+399.95au lieu de 449.95SONY PlayStation 5 Refurbished 825 GB](https://www.microspot.ch/fr/cms/sony-playstation)
 
 Autres actions ici
 
 [Profiter](https://www.microspot.ch/fr/promotions)
+
+Nos univers thématiques
+-----------------------
+
+[![80x80_Icon_AI-chip.png](/medias/80x80-Icon-AI-chip.png?context=bWFzdGVyfGNtc3w2NTZ8aW1hZ2UvcG5nfGFHTTJMMmd5T1M4NE1IZzRNRjlKWTI5dVgwRkpMV05vYVhBdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZRVWt0WTJocGNDNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXxhOTQwNjVjY2VmNWFjMDkwYzFhM2MyODc3MDEzMjM2NTYxYzQ0ZTZjZDgxMDA4MzMzZjMyNWY3ZDZkYzViMzQ0)
+
+NPU explique : Le moteur de l'IA](https://www.microspot.ch/fr/cms/npu-explique)
+
+[![80x80_Icon_Gaming.png](/medias/80x80-Icon-Gaming.png?context=bWFzdGVyfGNtc3w0OTB8aW1hZ2UvcG5nfGFEbGpMMmhtTWk4NE1IZzRNRjlKWTI5dVgwZGhiV2x1Wnk1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EQjRPREJmU1dOdmJsOUhZVzFwYm1jdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3w4M2UyNjM4ZjE5NjgzYjI2MDA0MTJhY2NhNDRkN2YwNWQ2YjM0M2Q3MTYwYzVkNzU2NzhjNWRhNjE2Y2YzYjMz)
+
+Gaming](https://www.microspot.ch/fr/cms/gaming)
+
+[![80x80_Icon_Grill.png](/medias/80x80-Icon-Grill.png?context=bWFzdGVyfGNtc3w1NTR8aW1hZ2UvcG5nfGFEbGxMMmhrT0M4NE1IZzRNRjlKWTI5dVgwZHlhV3hzTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKWTI5dVgwZHlhV3hzTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YjgzNGVjMzgxNDI5ZWUzYWQyNWUxMjRiNjEwM2IzOTRmNGZhOTNjYTNhMTg5M2U2ODQzMjYwZmVkNDkxNTBmOA)
+
+Le temps du barbecue](https://www.microspot.ch/fr/cms/grill-time)
+
+[![80x80_Icon_Raumklima.png](/medias/80x80-Icon-Raumklima.png?context=bWFzdGVyfGNtc3w2OTR8aW1hZ2UvcG5nfGFHRXhMMmd6TWk4NE1IZzRNRjlKWTI5dVgxSmhkVzFyYkdsdFlTNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNXTnZibDlTWVhWdGEyeHBiV0V1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfDE5NGZhNjJjN2FjNDkyNzc5MzhmYzQ0NzMwM2EyY2Q3MGE5M2I2MmQ1YTViYzI0MzMzOWI4ZjJjNzcxZTM2YmE)
+
+Climat intérieur](https://www.microspot.ch/fr/cms/air-ambiant)
+
+[![80x80_Icon_Gadgets.png](/medias/80x80-Icon-Gadgets.png?context=bWFzdGVyfGNtc3w0Mjd8aW1hZ2UvcG5nfGFEZGxMMmhoWWk4NE1IZzRNRjlKWTI5dVgwZGhaR2RsZEhNdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZSMkZrWjJWMGN5NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXw5ZGY3Y2EyNmFkOTZhZDdiODJjYzc5NzVjOGJkNTY5ZjMwOTdkNWIwNWM1MjEyMWE5NzE1YjI4ZWRiZTJlNGI1)
+
+Gadgets](https://www.microspot.ch/fr/cms/gadget)
+
+[![80x80_I24_Icons_016_Baby.png](/medias/80x80-I24-Icons-016-Baby.png?context=bWFzdGVyfGNtc3wxMTYyfGltYWdlL3BuZ3xhRGN4TDJnMFlpODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERTJYMEpoWW5rdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOUpZMjl1YzE4d01UWmZRbUZpZVM1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRkY2YxMjIzZDE2ZmQ0OWI2ZDA5Zjk1YzIyNjU2ODAwNTkwMjUxYTAzM2M4Njk4ZWExYzkwMGNlMWMzMDA3ZTY)
+
+Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0644-CM3-Supercash-P102.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzI1Nzh8aW1hZ2UvanBlZ3xhR1UzTDJobVlpOHhNVGd3ZURNMU1GOUpNalJmTURZME5GOURUVE5mVTNWd1pYSmpZWE5vWDFBeE1ESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4d05qUTBYME5OTTE5VGRYQmxjbU5oYzJoZlVERXdNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZmM5ODU2OGI5MTYyZjZlZjdkOThiMGE1YTgyZGY4NzMxZjMwZGQ4MWE3ZWQxM2NkZjQ0M2VlNWM5NWY3MDY1Mw&w=2360&q=75)](https://www.microspot.ch/fr/cms/supercard)
 
@@ -123,14 +158,14 @@ GARMIN
 
 Edge 540](https://www.microspot.ch/fr/cms/blog/conseils/garmin-edge-540)
 
-![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-JBL.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMTU0OTJ8aW1hZ2UvanBlZ3xhRGsxTDJnM1lTODVNVFY0TlRFMVgwa3lORjlUYjAxbFgwSnNiMmRmU2tKTUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODVNVFY0TlRFMVgwa3lORjlUYjAxbFgwSnNiMmRmU2tKTUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGZkMDIxMGM0MmE1YWU0ZDU4OGI2ZTFmMjE1N2JjMDRmYjUwMWU4ODI1MWViOWY4MDBkNjYwMDM0NmJmMDZlNTk&w=2360&q=75)
+![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Samsung-Watch-Ultra.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NDcyNnxpbWFnZS9qcGVnfGFHUXhMMmhqT0M4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVMkZ0YzNWdVoxOVhZWFJqYUY5VmJIUnlZUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgxTmhiWE4xYm1kZlYyRjBZMmhmVld4MGNtRXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YWMzMjEwZDhhNzM4NDJlN2IzYWRhNGQ0NmY0N2UyNzE1NjgzMmQxNjVjM2EzODEyN2E1YjJkODQ4ZDI5ZmE2OQ&w=2360&q=75)
 
-[Test: JBL PartyBox 320](https://www.microspot.ch/fr/cms/blog/conseils/jbl-by-harman-partybox-stage-320)
---------------------------------------------------------------------------------------------------------
+[Test: Samsung Galaxy Watch Ultra](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-watch-ultra)
+------------------------------------------------------------------------------------------------------------
 
-En tant que mélomane et quelqu'un qui a récemment commencé à mixer dans des soirées, j'étais très impatient lorsque la sortie de la JBL PartyBox 320 a été annoncée. Son prédécesseur, la PartyBox 310, m'avait déjà impressionné par sa qualité sonore. Je suis donc très heureux de partager mes premières impressions et expériences avec vous.
+La nouvelle Samsung Galaxy Watch Ultra est arrivée et se distingue de la gamme actuelle des smartwatches Samsung par son design résolument sportif. J'ai examiné la montre minutieusement pour toi.
 
-[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/jbl-by-harman-partybox-stage-320)
+[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-watch-ultra)
 
 Nos opérateurs
 --------------
@@ -174,17 +209,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
+[Frais de port gratuits pour livraison
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
