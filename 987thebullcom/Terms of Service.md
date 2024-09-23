@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Dirt Road AnthemJason Aldean<br><br>4:58am |
-| Going, Going, GoneLuke Combs<br><br>4:55am |
-| ParkTyler Hubbard<br><br>4:52am |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>4:49am |
-| Good On YouPriscilla Block<br><br>4:46am |
+| Truck BedHardy<br><br>11:38am |
+| Holy SmokesBailey Zimmerman<br><br>11:34am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:31am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:28am |
+| Free And EasyDierks Bentley<br><br>11:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
