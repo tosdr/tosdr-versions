@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f090513d-499e-4fb4-a538-0073fb5005c7/20240923T054412/f090513d-499e-4fb4-a538-0073fb5005c7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f090513d-499e-4fb4-a538-0073fb5005c7/20240923T054412/f090513d-499e-4fb4-a538-0073fb5005c7_360x203.jpg)](https://www.king5.com/article/news/local/community-rallies-around-local-business-impacted-by-devastating-fire-graham/281-85ee5603-b8a1-4286-9247-d01c93ba011a)
+    *  [![](https://media.king5.com/assets/KING/images/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0/20240923T131740/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0/20240923T131740/bdacc9c0-d119-429d-b4ce-15ed9e7b8cb0_360x203.jpg)](https://www.king5.com/article/news/crime/deadly-shooting-graham/281-e7f23e0c-483f-4835-8036-9b0c26ff4fcd)
         
-        #### [Graham community rallies around local business impacted by devastating fire](https://www.king5.com/article/news/local/community-rallies-around-local-business-impacted-by-devastating-fire-graham/281-85ee5603-b8a1-4286-9247-d01c93ba011a)
+        #### [Man killed, another injured after shooting stemming from motorcycle dispute in Graham](https://www.king5.com/article/news/crime/deadly-shooting-graham/281-e7f23e0c-483f-4835-8036-9b0c26ff4fcd)
         
-    *  [![](https://media.king5.com/assets/KING/images/b551c5ce-5bb0-4484-8c00-9b9d616530f6/20240923T052629/b551c5ce-5bb0-4484-8c00-9b9d616530f6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b551c5ce-5bb0-4484-8c00-9b9d616530f6/20240923T052629/b551c5ce-5bb0-4484-8c00-9b9d616530f6_360x203.jpg)](https://www.king5.com/article/news/local/pursuit-suspect-fatal-shooting-i5-closures-everett/281-cdd3e716-5dbc-4d80-9ed3-7459bcec007c)
+    *  [![](https://media.king5.com/assets/KING/images/e1b3ea88-ed41-4d91-af28-3840664a263a/20240923T125939/e1b3ea88-ed41-4d91-af28-3840664a263a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1b3ea88-ed41-4d91-af28-3840664a263a/20240923T125939/e1b3ea88-ed41-4d91-af28-3840664a263a_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-attorney-powerlifting-competition/281-d037a799-582a-40ef-95e1-4f71919ea976)
         
-        #### [1 killed in Everett shooting; suspect crashes on I-5, blocking traffic](https://www.king5.com/article/news/local/pursuit-suspect-fatal-shooting-i5-closures-everett/281-cdd3e716-5dbc-4d80-9ed3-7459bcec007c)
+        #### [At almost 70, this Seattle attorney is competing at an international powerlifting competition](https://www.king5.com/article/news/local/seattle/seattle-attorney-powerlifting-competition/281-d037a799-582a-40ef-95e1-4f71919ea976)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5e1b4a63-9788-4677-a323-526e0388a13d/20240923T053502/5e1b4a63-9788-4677-a323-526e0388a13d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5e1b4a63-9788-4677-a323-526e0388a13d/20240923T053502/5e1b4a63-9788-4677-a323-526e0388a13d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/24b4175e-2627-4ead-a13b-1f33ee9a34cd/20240923T120419/24b4175e-2627-4ead-a13b-1f33ee9a34cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/24b4175e-2627-4ead-a13b-1f33ee9a34cd/20240923T120419/24b4175e-2627-4ead-a13b-1f33ee9a34cd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-63°
+62°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
