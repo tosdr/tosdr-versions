@@ -305,7 +305,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#молодаясемья](https://er.ru/activity/news?tags%5B0%5D=109127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116)
 
-Сегодня 16:48
+23.09.24
 
 [![Правительство поддержало законопроект «Единой России» о поддержке студенческих семей](https://cdn.er.ru/media/news/September2024/MEWnSOq6dDGt15kKMCxU-small.jpg)](https://er.ru/activity/news/pravitelstvo-podderzhalo-zakonoproekt-edinoj-rossii-o-podderzhke-studencheskih-semej)
 
@@ -313,7 +313,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186)
 
-Сегодня 15:15
+23.09.24
 
 [![Под наставничеством Владимира Якушева завершает первый этап стажировки участник программы «Время героев» Александр Загайнов](https://cdn.er.ru/media/news/September2024/JSTegz1QuIVXd4zktzB3-small.jpg)](https://er.ru/activity/news/pod-nastavnichestvom-vladimira-yakusheva-zavershaet-pervyj-etap-stazhirovki-uchastnik-programmy-vremya-geroev-aleksandr-zagajnov)
 
@@ -321,7 +321,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#времягероев](https://er.ru/activity/news?tags%5B0%5D=1094006) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#стажировка](https://er.ru/activity/news?tags%5B0%5D=15023) [#Свердловская область](https://er.ru/activity/news?tags%5B0%5D=240)
 
-Сегодня 14:20
+23.09.24
 
 [![В регистр доноров костного мозга вступили ещё 100 активистов «Молодой Гвардии Единой России»](https://cdn.er.ru/media/news/September2024/R82400pS10Foja917Suc-small.jpg)](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshyo-100-aktivistov-molodoj-gvardii-edinoj-rossii)
 
