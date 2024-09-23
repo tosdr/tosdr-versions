@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Cooperation
+[Community
 
-### Pro athletes as star exemplars](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0920/Pro-athletes-as-star-exemplars "Pro athletes as star exemplars")
+### Senseless deaths mount in Congo. Dignified mourning helps salve the pain.](https://www.csmonitor.com/World/Africa/2024/0923/congo-deaths-lives-meaning "Senseless deaths mount in Congo. Dignified mourning helps salve the pain.")
 
-[Prosperity
+[Balance
 
-### What a Tunisian exodus says about the future of global migration](https://www.csmonitor.com/World/Middle-East/2024/0920/climate-migration-inequality-Tunisia "What a Tunisian exodus says about the future of global migration")
+### ‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.](https://www.csmonitor.com/USA/Society/2024/0923/Dumbphones-a-smart-move-Some-young-people-seeking-free-time-and-friends-say-yes "‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.")
 
-[Safety
+[Justice
 
-### Smartphones at school: Inside a not-so-simple debate](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2432 "Smartphones at school: Inside a not-so-simple debate")
+### They paid their debts to society. Nebraska still might not let them vote.](https://www.csmonitor.com/USA/Justice/2024/0923/nebraska-state-voting-rights-felons-election "They paid their debts to society. Nebraska still might not let them vote.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Sri Lanka elects Marxist lawmaker as president after years of economic turmoil](https://www.csmonitor.com/World/Asia-South-Central/2024/0922/Sri-Lanka-elects-Marxist-lawmaker-as-president-after-years-of-economic-turmoil "Sri Lanka elects Marxist lawmaker as president after years of economic turmoil")
+[### Senseless deaths mount in Congo. Dignified mourning helps salve the pain.](https://www.csmonitor.com/World/Africa/2024/0923/congo-deaths-lives-meaning "Senseless deaths mount in Congo. Dignified mourning helps salve the pain.")
 
-[### Israeli strike on Beirut apartment kills a Hezbollah leader wanted by the US](https://www.csmonitor.com/World/Middle-East/2024/0921/Israeli-strike-on-Beirut-apartment-kills-a-Hezbollah-leader-wanted-by-the-US "Israeli strike on Beirut apartment kills a Hezbollah leader wanted by the US")
+[### ‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.](https://www.csmonitor.com/USA/Society/2024/0923/Dumbphones-a-smart-move-Some-young-people-seeking-free-time-and-friends-say-yes "‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.")
 
-[### Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war](https://www.csmonitor.com/World/Middle-East/2024/0920/Israel-Beirut-Hezbollah-strikes-explosions "Hezbollah and Israel exchange hundreds of missiles in worst conflict since 2006 war")
+[### They paid their debts to society. Nebraska still might not let them vote.](https://www.csmonitor.com/USA/Justice/2024/0923/nebraska-state-voting-rights-felons-election "They paid their debts to society. Nebraska still might not let them vote.")
 
 * * *
 
