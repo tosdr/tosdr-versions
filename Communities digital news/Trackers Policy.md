@@ -66,17 +66,17 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Malicious actor Liz Cheney says new ‘conservative’ party may be in the offing](https://americanwirenews.com/malicious-actor-liz-cheney-says-new-conservative-party-may-be-in-the-offing/)
-
-### [Russia’s population crisis so dire, people are encouraged to get frisky at work](https://americanwirenews.com/russias-population-crisis-so-dire-people-are-encouraged-to-get-frisky-at-work/)
-
-### [Recent study finds mass deportations would actually help US deficit](https://americanwirenews.com/recent-study-finds-mass-deportations-would-actually-help-us-deficit/)
-
-### [Tucker asks J.D. Vance if a Trump victory would be accepted: ‘That’s what worries me’](https://americanwirenews.com/tucker-asks-j-d-vance-if-a-trump-victory-would-be-accepted-thats-what-worries-me/)
-
-### [Attack on Michigan teen investigated as hate crime after suspects allegedly asked if he was Jewish](https://americanwirenews.com/attack-on-michigan-teen-investigated-as-hate-crime-after-suspects-allegedly-asked-if-he-was-jewish/)
-
 ### [‘Pillowcase rapist’ who admitted to over 100 assaults set to be released in blue state](https://americanwirenews.com/pillowcase-rapist-who-admitted-to-over-100-assaults-set-to-be-released-in-blue-state/)
+
+### [Harris adviser reveals the reason VP hasn’t been sitting for more interviews: ‘Always ready with excuses’](https://americanwirenews.com/harris-adviser-reveals-the-reason-vp-hasnt-been-sitting-for-more-interviews-always-ready-with-excuses/)
+
+### [CNN panel goes off the rails when Jennings points out Dems are top source of anti-Semitism](https://americanwirenews.com/cnn-panel-goes-off-the-rails-when-jennings-points-out-dems-are-top-source-of-anti-semitism/)
+
+### [Mace exposes professors’ flirtatious messages following heated CNN panel, gets accused of ‘white women’s tears’](https://americanwirenews.com/mace-exposes-professors-flirtatious-messages-following-heated-cnn-panel-gets-accused-of-white-womens-tears/)
+
+### [Nuzzi’s ex-fiancé will no longer cover RFK Jr. for politico over ‘personal relationship’ rumors](https://americanwirenews.com/nuzzis-ex-fiance-will-no-longer-cover-rfk-jr-for-politico-over-personal-relationship-rumors/)
+
+### [Jill Biden to host White House bash for 25th anniversary of ‘The West Wing’](https://americanwirenews.com/jill-biden-to-host-white-house-bash-for-25th-anniversary-of-the-west-wing/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -95,6 +95,28 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nsilver-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
 
 [Dem polling guru advises folks to make ‘contingency plans’ for Trump’s return](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-lizideasfest-1200-x-628-220x180.jpg)](https://americanwirenews.com/malicious-actor-liz-cheney-says-new-conservative-party-may-be-in-the-offing/)
+
+[Malicious actor Liz Cheney says new ‘conservative’ party may be in the offing](https://americanwirenews.com/malicious-actor-liz-cheney-says-new-conservative-party-may-be-in-the-offing/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/RF-Getty-baby-220x180.jpg)](https://americanwirenews.com/russias-population-crisis-so-dire-people-are-encouraged-to-get-frisky-at-work/)
+
+[Russia’s population crisis so dire, people are encouraged to get frisky at work](https://americanwirenews.com/russias-population-crisis-so-dire-people-are-encouraged-to-get-frisky-at-work/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gw-criminal-alien-being-removed-220x180.jpg)](https://americanwirenews.com/recent-study-finds-mass-deportations-would-actually-help-us-deficit/)
+
+[Recent study finds mass deportations would actually help US deficit](https://americanwirenews.com/recent-study-finds-mass-deportations-would-actually-help-us-deficit/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-vance-carlson-220x180.jpg)](https://americanwirenews.com/tucker-asks-j-d-vance-if-a-trump-victory-would-be-accepted-thats-what-worries-me/)
+
+[Tucker asks J.D. Vance if a Trump victory would be accepted: ‘That’s what worries me’](https://americanwirenews.com/tucker-asks-j-d-vance-if-a-trump-victory-would-be-accepted-thats-what-worries-me/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-star-of-david-220x180.jpg)](https://americanwirenews.com/attack-on-michigan-teen-investigated-as-hate-crime-after-suspects-allegedly-asked-if-he-was-jewish/)
+
+[Attack on Michigan teen investigated as hate crime after suspects allegedly asked if he was Jewish](https://americanwirenews.com/attack-on-michigan-teen-investigated-as-hate-crime-after-suspects-allegedly-asked-if-he-was-jewish/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-view-220x180.jpg)](https://americanwirenews.com/ladies-of-the-view-clash-over-melania-trumps-nude-photos-republicans-do-it-plenty-right/)
 
@@ -157,26 +179,6 @@ Search for:
 [‘How many other states need to do this?’ Oklahoma purges ineligible names from voter rolls… and, WOW](https://americanwirenews.com/how-many-other-states-need-to-do-this-oklahoma-purges-ineligible-names-from-voter-rolls-and-wow/)
 
 Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-faulkner-220x180.jpg)](https://americanwirenews.com/faulkner-crushes-dems-inflation-claim-i-dont-want-you-to-get-confused-with-his-false-talking-points/)
-
-[Faulkner CRUSHES Dem’s inflation claim: ‘I don’t want you to get confused with his false talking points’](https://americanwirenews.com/faulkner-crushes-dems-inflation-claim-i-dont-want-you-to-get-confused-with-his-false-talking-points/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kirk-220x180.png)](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
-
-[Young lefty is NO MATCH for Charlie Kirk and Vivek Ramaswamy](https://americanwirenews.com/young-lefty-is-no-match-for-charlie-kirk-and-vivek-ramaswamy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-uniondale-story-220x180.jpg)](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
-
-[Emotional New Yorker shares ‘amazing’ personal story of Trump family generosity](https://americanwirenews.com/emotional-new-yorker-shares-amazing-personal-story-of-trump-family-generosity/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tucker-220x180.png)](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
-
-[Tucker goes deep on Trump golf course gunman and his DC connections](https://americanwirenews.com/tucker-goes-deep-on-trump-golf-course-gunman-and-his-dc-connections/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jay-varma-220x180.jpg)](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
-
-[Undercover: NYC Covid czar admits he had to ‘be sneaky’ about ‘deviant’ stuff he did while rest of city was locked down](https://americanwirenews.com/nyc-covid-enforcer-admits-he-held-secret-drug-filled-sex-parties-while-city-rubes-were-locked-down-undercover-vid-shows/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
