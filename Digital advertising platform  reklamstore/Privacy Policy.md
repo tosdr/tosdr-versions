@@ -50,19 +50,19 @@
         
         [**Quick Ad Center**
         
-        Ad Reselling Platform](https://www.reklamstore.com/quick-ad-center)
+        Ad Reselling Platform](https://www.reklamstore.com/quick-ad-center)</div
         
         [**Advermind - CAPI**
         
-        Easy Tracking Setup With Conversion Api](https://www.reklamstore.com/advermind-capi)
+        Easy Tracking Setup With Conversion Api](https://www.reklamstore.com/advermind-capi)</div
         
         [**Referrer.club**
         
-        Setup Share & Earn Platform For Your Brand](https://www.reklamstore.com/referrerclub)
+        Setup Share & Earn Platform For Your Brand](https://www.reklamstore.com/referrerclub)</div
         
         [**Studio RS**
         
-        Tailor Made Creative Projects](https://www.reklamstore.com/studio-rs)
+        Tailor Made Creative Projects](https://www.reklamstore.com/studio-rs)</div
         
 * [Company](#)
     * [Company Profile](https://www.reklamstore.com/about-us)
@@ -121,19 +121,19 @@
         
         [**Quick Ad Center**
         
-        Ad Reselling Platform](https://www.reklamstore.com/quick-ad-center)
+        Ad Reselling Platform](https://www.reklamstore.com/quick-ad-center)</div
         
         [**Advermind - CAPI**
         
-        Easy Tracking Setup With Conversion Api](https://www.reklamstore.com/advermind-capi)
+        Easy Tracking Setup With Conversion Api](https://www.reklamstore.com/advermind-capi)</div
         
         [**Referrer.club**
         
-        Setup Share & Earn Platform For Your Brand](https://www.reklamstore.com/referrerclub)
+        Setup Share & Earn Platform For Your Brand](https://www.reklamstore.com/referrerclub)</div
         
         [**Studio RS**
         
-        Tailor Made Creative Projects](https://www.reklamstore.com/studio-rs)
+        Tailor Made Creative Projects](https://www.reklamstore.com/studio-rs)</div
         
 * [Company](#)
     * [Company Profile](https://www.reklamstore.com/about-us)
@@ -192,19 +192,19 @@
         
         [**Quick Ad Center**
         
-        Ad Reselling Platform](https://www.reklamstore.com/quick-ad-center)
+        Ad Reselling Platform](https://www.reklamstore.com/quick-ad-center)</div
         
         [**Advermind - CAPI**
         
-        Easy Tracking Setup With Conversion Api](https://www.reklamstore.com/advermind-capi)
+        Easy Tracking Setup With Conversion Api](https://www.reklamstore.com/advermind-capi)</div
         
         [**Referrer.club**
         
-        Setup Share & Earn Platform For Your Brand](https://www.reklamstore.com/referrerclub)
+        Setup Share & Earn Platform For Your Brand](https://www.reklamstore.com/referrerclub)</div
         
         [**Studio RS**
         
-        Tailor Made Creative Projects](https://www.reklamstore.com/studio-rs)
+        Tailor Made Creative Projects](https://www.reklamstore.com/studio-rs)</div
         
 * [Company](#)
     * [Company Profile](https://www.reklamstore.com/about-us)
@@ -444,4 +444,4 @@ Subscribe to our event
 
 Subscribe
 
-©️ ReklamStore
+©️ ReklamStore// Sayfa yüklendiğinde bu fonksiyon çalışacak window.onload = function() { // Geçerli yılı al var currentYear = new Date().getFullYear(); // Yıl bilgisini ilgili elemente yerleştir document.getElementById('current-year').textContent = currentYear; };
