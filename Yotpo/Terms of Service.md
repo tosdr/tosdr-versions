@@ -358,15 +358,6 @@ Your information will be treated in accordance with our [Privacy Policy](https:/
 
 [](https://www.yotpo.com/)
 
-Let's get personal
-
-More info will help us customize your demo.  
-Which products are you interested in?
-
-Your information will be treated in accordance with our [Privacy Policy](https://www.yotpo.com/privacy-policy)
-
-[](https://www.yotpo.com/)
-
 This will take just a moment…  
   
 We're finding the right person on our team to help your brand!
