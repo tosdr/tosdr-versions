@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://www.theepochtimes.com/us/california-should-reconsider-plan-to-release-billions-of-gallons-of-water-into-the-ocean-expert-5727741)
+    
+    1hr By [Sophie Li](https://www.theepochtimes.com/author/sophie-li)
+    
+    [![California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727748-GettyImages-1232098462-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-should-reconsider-plan-to-release-billions-of-gallons-of-water-into-the-ocean-expert-5727741)
+* [Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://www.theepochtimes.com/china/lufthansa-considers-canceling-frankfurt-beijing-route-due-to-unequal-competition-5728213)
+    
+    1hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
+    
+    [![Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://img.theepochtimes.com/assets/uploads/2020/03/02/CHINA-HEALTH-AIRLINES-205x123.jpg.webp)](https://www.theepochtimes.com/china/lufthansa-considers-canceling-frankfurt-beijing-route-due-to-unequal-competition-5728213)
 * [Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://www.theepochtimes.com/world/biden-tells-quad-leaders-at-summit-china-is-testing-us-5728170)
     
-    5hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    11hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728349-GettyImages-2172751088KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-tells-quad-leaders-at-summit-china-is-testing-us-5728170)
 * [Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://www.theepochtimes.com/article/day-in-photos-israel-hezbollah-conflict-german-elections-hunting-season-5728234)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728258-GettyImages-2172867778-sb-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-israel-hezbollah-conflict-german-elections-hunting-season-5728234)
 * [House GOP Leaders Unveil Measure to Fund Government Beyond Election Into December](https://www.theepochtimes.com/us/house-gop-leaders-unveil-measure-to-fund-government-beyond-election-into-december-5728158)
     
-    5hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    11hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
     [![House GOP Leaders Unveil Measure to Fund Government Beyond Election Into December](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![House GOP Leaders Unveil Measure to Fund Government Beyond Election Into December](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728348-09162024-DSC00724-US-CapitolKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-gop-leaders-unveil-measure-to-fund-government-beyond-election-into-december-5728158)
 * [Trump Says He Won’t Run Again If He Loses in 2024](https://www.theepochtimes.com/us/trump-says-he-wont-run-again-in-2028-if-hes-not-successful-in-2024-post-5728225)
     
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Says He Won’t Run Again If He Loses in 2024](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Says He Won’t Run Again If He Loses in 2024](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727396-GettyImages-2173243357-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-wont-run-again-in-2028-if-hes-not-successful-in-2024-post-5728225)
 * [Previewing First Round of 2024 WNBA Playoffs](https://www.theepochtimes.com/sports/previewing-first-round-of-2024-wnba-playoffs-5727967)
     
-    7hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
+    13hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
     
     [![Previewing First Round of 2024 WNBA Playoffs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Previewing First Round of 2024 WNBA Playoffs](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728355-Aja-Wilson-GettyImages-2172966515KO-205x123.jpg.webp)](https://www.theepochtimes.com/sports/previewing-first-round-of-2024-wnba-playoffs-5727967)
 * [How a President Can Use Regulatory Levers to Slow Fracking](https://www.theepochtimes.com/us/how-a-president-can-use-regulatory-levers-to-slow-fracking-5726606)
     
-    8hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    14hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
     [![How a President Can Use Regulatory Levers to Slow Fracking](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![How a President Can Use Regulatory Levers to Slow Fracking](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728321-GettyImages-143087510-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-a-president-can-use-regulatory-levers-to-slow-fracking-5726606)
 * [Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://www.theepochtimes.com/world/israel-has-no-connection-to-mass-pager-attack-in-lebanon-president-says-5728219)
     
-    10hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    16hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726468-GettyImages-2171996113-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-has-no-connection-to-mass-pager-attack-in-lebanon-president-says-5728219)
 * [Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://www.theepochtimes.com/us/interim-nypd-commissioner-confirms-federal-agents-searched-his-homes-5728211)
     
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    17hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://img.theepochtimes.com/assets/uploads/2024/09/id5728203-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/interim-nypd-commissioner-confirms-federal-agents-searched-his-homes-5728211)
-* [Hezbollah, Israel Exchange Fire as Concerns Grow Over Widening Conflict](https://www.theepochtimes.com/world/hezbollah-israel-exchange-fire-as-concerns-grow-over-widening-conflict-5728144)
-    
-    16hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
-    
-    [![Hezbollah, Israel Exchange Fire as Concerns Grow Over Widening Conflict](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hezbollah, Israel Exchange Fire as Concerns Grow Over Widening Conflict](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728155-ISRAEL-PALESTINIANS-LEBANON.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-israel-exchange-fire-as-concerns-grow-over-widening-conflict-5728144)
-* [Your Guide to Voting in the 2024 Election](https://www.theepochtimes.com/us/your-guide-to-voting-in-the-2024-election-5725815)
-    
-    17hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Your Guide to Voting in the 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Your Guide to Voting in the 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728069-Voting-guide-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/your-guide-to-voting-in-the-2024-election-5725815)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
