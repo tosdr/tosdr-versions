@@ -121,7 +121,7 @@ All Journals Acoustics Acta Microbiologica Hellenica (AMH) Actuators Administrat
 
 Article Type
 
-All Article Types Article Review Communication Editorial Abstract Book Review Brief Communication Brief Report Case Report Clinicopathological Challenge Comment Commentary Concept Paper Conference Report Correction Creative Data Descriptor Discussion Entry Essay Expression of Concern Extended Abstract Guidelines Hypothesis Interesting Images Letter New Book Received Obituary Opinion Perspective Proceeding Paper Project Report Protocol Registered Report Reply Retraction Short Note Study Protocol Systematic Review Technical Note Tutorial Viewpoint
+All Article Types Article Review Communication Editorial Abstract Book Review Brief Communication Brief Report Case Report Clinicopathological Challenge Comment Commentary Concept Paper Conference Report Correction Creative Data Descriptor Discussion Entry Essay Expression of Concern Extended Abstract Field Guide Guidelines Hypothesis Interesting Images Letter New Book Received Obituary Opinion Perspective Proceeding Paper Project Report Protocol Registered Report Reply Retraction Short Note Study Protocol Systematic Review Technical Note Tutorial Viewpoint
 
 [Advanced Search](#)
 
