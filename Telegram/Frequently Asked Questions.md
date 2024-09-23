@@ -281,7 +281,7 @@ If you see a bot, channel, sticker set, or other content that is a part of Teleg
 
 Our mission is to provide a secure means of communication that works everywhere on the planet. To do this in the places where it is most needed (and to continue distributing Telegram through the App Store and Google Play), we have to process legitimate requests to take down illegal **public** content (e.g., sticker sets, bots, groups and channels) within the app. For example, we can take down sticker sets that violate intellectual property rights or porn bots.
 
-Public content on Telegram, such as user-uploaded stickers sets, channels, and bots by third-party developers are not part of the core Telegram UI. Whenever we receive a report regarding potentially illegal public content, we perform the necessary legal checks and take it down when deemed appropriate.
+Public content on Telegram, such as user-uploaded stickers sets, channels, and bots by third-party developers, is not part of the core Telegram UI. Whenever we receive a report regarding potentially illegal public content, we perform the necessary legal checks and take it down when deemed appropriate.
 
 Please note that this does **not** apply to local restrictions on freedom of speech. For example, if criticizing the government is illegal in some country, Telegram won't be a part of such politically motivated censorship. This goes against our founders' [principles](https://mashable.com/2015/05/18/russias-mark-zuckerberg-pavel-durov/). While we do block terrorist (e.g. ISIS-related) bots and channels, we will not block anybody who peacefully expresses alternative opinions.
 
