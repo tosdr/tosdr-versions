@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KVUE/images/95a7688e-0af7-4fb5-bb31-f2ecfbf77771/20240923T032119/95a7688e-0af7-4fb5-bb31-f2ecfbf77771_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/95a7688e-0af7-4fb5-bb31-f2ecfbf77771/20240923T032119/95a7688e-0af7-4fb5-bb31-f2ecfbf77771_360x203.jpg)](https://www.kagstv.com/article/news/local/remembering-carrascolendas-bilingual-kids-tv-series/269-8e3a4403-2c3a-4c44-bf14-d29a98b6e69d)
+        
+        #### [Remembering 'Carrascolendas': America's first-ever bilingual kids TV series](https://www.kagstv.com/article/news/local/remembering-carrascolendas-bilingual-kids-tv-series/269-8e3a4403-2c3a-4c44-bf14-d29a98b6e69d)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/e5247f29-5630-4fb0-ab0e-a4c5bc28806d/20240919T223714/e5247f29-5630-4fb0-ab0e-a4c5bc28806d_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/e5247f29-5630-4fb0-ab0e-a4c5bc28806d/20240919T223714/e5247f29-5630-4fb0-ab0e-a4c5bc28806d_360x203.jpg)](https://www.kagstv.com/article/news/local/trinity-bible-church-lead-pastor-removed-following-inappropriate-relationship-with-woman/287-a4350c54-ec7d-4f27-ae81-b7288f840adc)
         
         #### [Trinity Bible Church lead pastor removed following 'inappropriate relationship' with a woman](https://www.kagstv.com/article/news/local/trinity-bible-church-lead-pastor-removed-following-inappropriate-relationship-with-woman/287-a4350c54-ec7d-4f27-ae81-b7288f840adc)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/feab45c8-c38a-443a-ac8e-a872d48b03af/20240612T221303/feab45c8-c38a-443a-ac8e-a872d48b03af_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/feab45c8-c38a-443a-ac8e-a872d48b03af/20240612T221303/feab45c8-c38a-443a-ac8e-a872d48b03af_360x203.jpg)](https://www.kagstv.com/article/news/local/x-moves-headquarters-to-bastrop-texas-elon-musk-san-francisco-country/269-c20500ed-4d70-48cd-8051-0831f5323ab5)
-        
-        #### [X plans to move headquarters to Bastrop](https://www.kagstv.com/article/news/local/x-moves-headquarters-to-bastrop-texas-elon-musk-san-francisco-country/269-c20500ed-4d70-48cd-8051-0831f5323ab5)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-85°
+77°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
