@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_060297b5c6.jpeg)
-
-em inhapi
-
-em inhapi
-
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares
-
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_806b7b44c6.png)
+[![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_806b7b44c6.png)
 
 Inhapi
 
@@ -214,15 +206,7 @@ Inhapi
 
 Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas
 
-Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")[![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_77da53e569.jpeg)
-
-geneticamente modificada
-
-geneticamente modificada
-
-Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima
-
-Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
+Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
 
 Foi denunciada
 
@@ -230,7 +214,23 @@ Foi denunciada
 
 Cervejaria é interditada por irregularidades após operação policial no Feitosa
 
-Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")
+Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
+
+A tiros
+
+A tiros
+
+Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará
+
+Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/f/csm_paquitas_reproducao_instagram_e0b90e8601.jpg)
+
+Polêmicas
+
+Polêmicas
+
+Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas
+
+Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas](https://www.tnh1.com.br/noticia/nid/gravidez-romances-e-traicao-o-que-ficou-de-fora-do-doc-das-paquitas/ "Gravidez, romances e 'traição': o que ficou de fora do doc das Paquitas")
 
 [![Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/e/csm_Carteira_Trabalho_678afd39ea.jpg)
 
