@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/aavk-g-200/grede-002.jpg?itok=wzSqt1qC)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/aavk-g-200)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/syncronisation/syncronisation-03.jpg?itok=Q4Y0HebU)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/syncronisation)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/marky-ramone/marky-ramone-001.jpg?itok=xx8Ju2cf)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/marky-ramone)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mandic.jpg?itok=uAwbqmtI)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Verujte u nas](http://seecult.org/vest/verujte-u-nas)
+* [Megdan u bioskopima](http://seecult.org/vest/megdan-u-bioskopima)
 * [Sofija](http://seecult.org/vest/sofija)
 * [Nagrada Milan Mladenović bendu Nemeček](http://seecult.org/vest/nagrada-milan-mladenovic-bendu-nemecek)
 * [Otvoren 32. Memorijal Nadežde Petrović - Memorijal Sonja S, dodeljene nagrade](http://seecult.org/vest/otvoren-32-memorijal-nadezde-petrovic-memorijal-sonja-s-dodeljene-nagrade)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [60\. Oktobarski salon – Šta ostaje?](http://seecult.org/vest/60-oktobarski-salon-sta-ostaje)
 * [Preminula Radmila Živković](http://seecult.org/vest/preminula-radmila-zivkovic)
 * [Serđo i Pjetro Kastelito gosti Italijansko-srpskog festivala](http://seecult.org/vest/serdo-i-pjetro-kastelito-gosti-italijansko-srpskog-festivala)
-* [Ekološki aktivizam za kraj 7 veličanstvenih](http://seecult.org/vest/ekoloski-aktivizam-za-kraj-7-velicanstvenih)
-* [Berlinsko izdanje Import/Export - Tanja Ostojić, Ivana Ranisavljević...](http://seecult.org/vest/berlinsko-izdanje-importexport-tanja-ostojic-ivana-ranisavljevic)
 
 * [Konkursi](#tab1_1)
 
