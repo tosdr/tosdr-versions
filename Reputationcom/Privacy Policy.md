@@ -1,10 +1,12 @@
 ✕
 
-[The 2024 Healthcare Rankings Report is Now Available.
+[![National Leave a Review Day icon](https://reputation.com/wp-content/uploads/2024/09/nlard-star-whitebox.svg)
 
-Learn More](https://reputation.com/solutions/healthcare/resources)
+National Leave a Review Day, Oct 22
 
-![](https://reputation.com/wp-content/uploads/2024/04/leaderboard-bg-teal-gradient-scaled.jpg)
+Start the Celebration](https://reputation.com/national-leave-a-review-day/)
+
+![](https://reputation.com/wp-content/uploads/2024/09/leaderboard-teal-wave-bg.png)
 
 * [LOGIN](https://app.reputation.com/auth)
 * [CONTACT](https://reputation.com/contact/)
@@ -343,7 +345,9 @@ CAYA Postbox 799114
 * [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_x_icon.svg)](https://twitter.com/Reputation_Com)
 * [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_facebook_icon.svg)](https://www.facebook.com/profile.php?id=100064396375731)
 * [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_instagram_icon.svg)](https://www.instagram.com/reputation_com/)
-* [![](https://reputation.com/wp-content/uploads/2022/10/youtube.svg)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
+* [![](https://reputation.com/wp-content/uploads/2022/10/youtube.svg)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2016%2016%22%3E%3C/svg%3E)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
 * [![](https://reputation.com/wp-content/uploads/2021/01/linkedin.svg)
     
     ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2016%2016%22%3E%3C/svg%3E)](https://www.linkedin.com/company/reputation-com/)
