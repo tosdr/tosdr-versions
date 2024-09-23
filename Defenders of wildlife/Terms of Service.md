@@ -206,8 +206,6 @@ Thank you!
 
 [Take Action](https://defenders.org/action)[](#)
 
-[Add Your Voice](https://defenders.org/action)
-
 [Attend an Event](https://defenders.org/take-action/events)
 
 [Check Out the Activist Toolkit](https://defenders.org/activist)
