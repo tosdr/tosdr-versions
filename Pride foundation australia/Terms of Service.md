@@ -22,6 +22,8 @@
     
     [Our Philanthropy Model](https://pridefoundation.org.au/how-we-work/)
     
+    [Publications](https://pridefoundation.org.au/publications/)
+    
     [Latest PFA News](https://pridefoundation.org.au/news/)
     
     [![](https://pridefoundation.org.au/wp-content/uploads/2023/09/megamenu-latestnews.jpg)](https://pridefoundation.org.au/news/)
@@ -87,6 +89,8 @@
     [Fundraising Support Hub](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
     
     [LGBTQIA+ Refugee Community Sponsorship](https://pridefoundation.org.au/lgbtqia-refugee-community-sponsorship-in-australia/)
+    
+    [Leave a Gift in your Will](http://www.gatheredhere.com.au/c/pride-foundation-australia)
     
 
 ### [MENU](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIzNTUxIiwidG9nZ2xlIjpmYWxzZX0%3D)
