@@ -1,6 +1,6 @@
-[Savefrom.net](https://en1.savefrom.net/3xZ/download-from-tiktok)
+[Savefrom.net](https://en1.savefrom.net/4pP/download-from-tiktok)
 
-[TikTok](https://en1.savefrom.net/3xZ/download-from-tiktok)
+[TikTok](https://en1.savefrom.net/4pP/download-from-tiktok)
 
 SaveFrom.net uses Javascript to display some content. Please enable Javascript in your browser and reload this page.
 
@@ -201,7 +201,7 @@ SaveFrom does not bear any responsibility nor assumes any risks if by any reason
 
 © 2008-2024
 
-* [TikTok](https://en1.savefrom.net/3xZ/download-from-tiktok)
+* [TikTok](https://en1.savefrom.net/4pP/download-from-tiktok)
 * [TikTok mp4](https://en1.savefrom.net/28-tiktok-mp4-1ui.html)
 * [TikTok mp3](https://en1.savefrom.net/27-tiktok-mp3.html)
 
