@@ -380,7 +380,7 @@ Company
 * [Schedule a Meeting (US Sales)](https://sphero.com/pages/meet-the-team)
 * [Press](https://sphero.com/pages/press-awards)
 * [Partnerships](https://sphero.com/pages/stem-partnerships)
-* [Ambassador Programs](https://sphero.com/pages/ambassador-program)
+* [Educator Programs](https://sphero.com/pages/ambassador-program)
 * [Careers](https://sphero.com/pages/careers-page)
 * [Patents](https://sphero.com/pages/sphero-patent-page)
 
