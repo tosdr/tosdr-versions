@@ -68,7 +68,7 @@ Subject \*
 
 Your Message \*
 
-Comment
+Name
 
 SEND MESSAGE
 
