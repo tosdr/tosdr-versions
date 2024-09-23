@@ -1787,6 +1787,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Entry-Level Supply Chain Manager](https://cvcompiler.com/entry-level-supply-chain-manager-resume-examples)
 
+[Junior DevOps Engineer](https://cvcompiler.com/junior-devops-engineer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
