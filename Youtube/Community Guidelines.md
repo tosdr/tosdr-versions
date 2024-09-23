@@ -70,10 +70,6 @@ Next
 * [YouTube policies](https://support.google.com/youtube/topic/2803176?hl=en&ref_topic=6151248)
 * [Hate speech policy](https://support.google.com/youtube/answer/2801939)
 
-Notification
-
-Our teams are currently experiencing high support volumes. Please expect longer than usual wait times for responses to questions from email, chat, and @TeamYouTube on Twitter
-
 Hate speech policy
 ==================
 
@@ -259,7 +255,7 @@ Google apps
 
 Main menu
 
-11043606820774595922
+5249361203565346982
 
 true
 
