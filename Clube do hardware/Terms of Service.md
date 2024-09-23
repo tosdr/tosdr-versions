@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_2067207865_menu)
+ [Compartilhar](#elShareItem_2093995753_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -147,8 +147,8 @@ Posts recomendados
     
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
-* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.956 posts")
-* 12.924
+* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.960 posts")
+* 12.928
 * 16/01/2002
 *  Offline
 
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1665956721_menu)
+ [Compartilhar](#elShareItem_1114014446_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Vinícius.a23](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253499.thumb.jpeg.60be38a6cc3f299e8ad11cf92f83468b.jpeg)](https://www.clubedohardware.com.br/profile/1253499-vin%C3%ADciusa23/ "Ir ao perfil de Vinícius.a23")
+    * [![Ileusis LUNA ARAUJO E SILV](https://www.clubedohardware.com.br/uploads/members/monthly_2017_01/13568815_10208739081648743_6544660884182922536_o.thumb.jpg.85ec286c77263af2a13a55da6ca08d8c.jpg)](https://www.clubedohardware.com.br/profile/864460-ileusis-luna-araujo-e-silv/ "Ir ao perfil de Ileusis LUNA ARAUJO E SILV")
         
         0
         
-        [Imagens feias e pixeladas, nunca vi algo assim](https://www.clubedohardware.com.br/forums/topic/1698055-imagens-feias-e-pixeladas-nunca-vi-algo-assim/?do=getNewComment "Imagens feias e pixeladas, nunca vi algo assim")
+        Excel [Excel - Indice + corresp ou procv + proch](https://www.clubedohardware.com.br/forums/topic/1698071-excel-indice-corresp-ou-procv-proch/?do=getNewComment "Excel - Indice + corresp ou procv + proch")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Vinícius.a23](https://www.clubedohardware.com.br/profile/1253499-vin%C3%ADciusa23/ "Ir ao perfil de Vinícius.a23")  
-        1 hora atrás
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Ileusis LUNA ARAUJO E SILV](https://www.clubedohardware.com.br/profile/864460-ileusis-luna-araujo-e-silv/ "Ir ao perfil de Ileusis LUNA ARAUJO E SILV")  
+        2 minutos atrás
         
-    * [![ruandiablo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/459469809_122185322354195866_1773797562102864435_n.thumb.jpg.6d9050fc931978004a08e1daef546ea3.jpg)](https://www.clubedohardware.com.br/profile/887100-ruandiablo/ "Ir ao perfil de ruandiablo")
-        
-        0
-        
-        [PC dando TELA AZUL BSOD CRITICAL PROCESS DIED - O que devo substituir?](https://www.clubedohardware.com.br/forums/topic/1698054-pc-dando-tela-azul-bsod-critical-process-died-o-que-devo-substituir/?do=getNewComment "PC dando TELA AZUL BSOD CRITICAL PROCESS DIED - O que devo substituir?")
-        
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [ruandiablo](https://www.clubedohardware.com.br/profile/887100-ruandiablo/ "Ir ao perfil de ruandiablo")  
-        1 hora atrás
-        
-    * [![Gustavo lo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46298%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1241736-gustavo-lo/ "Ir ao perfil de Gustavo lo")
+    * [![Flávio Dreyer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c49d%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFD%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1152783-fl%C3%A1vio-dreyer/ "Ir ao perfil de Flávio Dreyer")
         
         1
         
-        [GPU e CPU á 80 90 100%](https://www.clubedohardware.com.br/forums/topic/1698053-gpu-e-cpu-%C3%A1-80-90-100/?do=getNewComment "GPU e CPU á 80 90 100%")
+        [Dual Channel ou 4 pentes memória RAM na B450M Steel Legend](https://www.clubedohardware.com.br/forums/topic/1698070-dual-channel-ou-4-pentes-mem%C3%B3ria-ram-na-b450m-steel-legend/?do=getNewComment "Dual Channel ou 4 pentes memória RAM na B450M Steel Legend")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Gustavo lo](https://www.clubedohardware.com.br/profile/1241736-gustavo-lo/ "Ir ao perfil de Gustavo lo")  
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Flávio Dreyer](https://www.clubedohardware.com.br/profile/1152783-fl%C3%A1vio-dreyer/ "Ir ao perfil de Flávio Dreyer")  
+        12 minutos atrás
+        
+    * [![Gabriel U](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/Perfil.thumb.jpg.993bd3e064a08deadceb0ce9d80fee0d.jpg)](https://www.clubedohardware.com.br/profile/1248187-gabriel-u/ "Ir ao perfil de Gabriel U")
+        
+        0
+        
+        [Por que o CHKDSK não é executado?](https://www.clubedohardware.com.br/forums/topic/1698069-por-que-o-chkdsk-n%C3%A3o-%C3%A9-executado/?do=getNewComment "Por que o CHKDSK não é executado?")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Gabriel U](https://www.clubedohardware.com.br/profile/1248187-gabriel-u/ "Ir ao perfil de Gabriel U")  
+        54 minutos atrás
+        
+    * [![Paulo Agostinho](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4ac62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EPA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1038213-paulo-agostinho/ "Ir ao perfil de Paulo Agostinho")
+        
+        0
+        
+        Outro [Alternar saida entre nivel "0" e nível "1" com o mesmo botão](https://www.clubedohardware.com.br/forums/topic/1698067-alternar-saida-entre-nivel-0-e-n%C3%ADvel-1-com-o-mesmo-bot%C3%A3o/?do=getNewComment "Alternar saida entre nivel "0" e nível "1" com o mesmo botão")
+        
+        [Programação - iniciantes](https://www.clubedohardware.com.br/forums/forum/181-programa%C3%A7%C3%A3o-iniciantes/ "Programação - iniciantes")  
+        Por [Paulo Agostinho](https://www.clubedohardware.com.br/profile/1038213-paulo-agostinho/ "Ir ao perfil de Paulo Agostinho")  
         1 hora atrás
         
-    * [![Kauan12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248924.thumb.jpeg.e3da0cbe8de656206783932aa820391f.jpeg)](https://www.clubedohardware.com.br/profile/1248924-kauan12/ "Ir ao perfil de Kauan12")
-        
-        0
-        
-        [Celular dando tela preta quando boto na capinha ou quando é pressionado por algo](https://www.clubedohardware.com.br/forums/topic/1698052-celular-dando-tela-preta-quando-boto-na-capinha-ou-quando-%C3%A9-pressionado-por-algo/?do=getNewComment "Celular dando tela preta quando boto na capinha ou quando é pressionado por algo")
-        
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [Kauan12](https://www.clubedohardware.com.br/profile/1248924-kauan12/ "Ir ao perfil de Kauan12")  
-        3 horas atrás
-        
-    * [![Pask1](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238e62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/635877-pask1/ "Ir ao perfil de Pask1")
-        
-        0
-        
-        [TV CCE 24" Led mod. LW2401 - som baixinho](https://www.clubedohardware.com.br/forums/topic/1698051-tv-cce-24-led-mod-lw2401-som-baixinho/?do=getNewComment "TV CCE 24" Led mod. LW2401 - som baixinho")
-        
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [Pask1](https://www.clubedohardware.com.br/profile/635877-pask1/ "Ir ao perfil de Pask1")  
-        4 horas atrás
-        
-    * [![sejumilde](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250065.thumb.jpeg.5a27b495b5a04e0478d9c8936be676e1.jpeg)](https://www.clubedohardware.com.br/profile/1250065-sejumilde/ "Ir ao perfil de sejumilde")
+    * [![RTRibas](https://www.clubedohardware.com.br/uploads/members/profile/photo-341120.gif)](https://www.clubedohardware.com.br/profile/341120-rtribas/ "Ir ao perfil de RTRibas")
         
         2
         
-        [Salvar imagens e vídeos com frequência esvazia rapidamente o TBW do SSD?](https://www.clubedohardware.com.br/forums/topic/1698050-salvar-imagens-e-v%C3%ADdeos-com-frequ%C3%AAncia-esvazia-rapidamente-o-tbw-do-ssd/?do=getNewComment "Salvar imagens e vídeos com frequência esvazia rapidamente o TBW do SSD?")
+        [Recomendação de configuração para substituir peças - até R$ 1500,00](https://www.clubedohardware.com.br/forums/topic/1698066-recomenda%C3%A7%C3%A3o-de-configura%C3%A7%C3%A3o-para-substituir-pe%C3%A7as-at%C3%A9-r-150000/?do=getNewComment "Recomendação de configuração para substituir peças - até R$ 1500,00")
         
-        [Gravação e edição de imagens, áudio e vídeo](https://www.clubedohardware.com.br/forums/forum/54-grava%C3%A7%C3%A3o-e-edi%C3%A7%C3%A3o-de-imagens-%C3%A1udio-e-v%C3%ADdeo/ "Gravação e edição de imagens, áudio e vídeo")  
-        Por [sejumilde](https://www.clubedohardware.com.br/profile/1250065-sejumilde/ "Ir ao perfil de sejumilde")  
-        4 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [RTRibas](https://www.clubedohardware.com.br/profile/341120-rtribas/ "Ir ao perfil de RTRibas")  
+        1 hora atrás
         
-    * [![satellitezinho](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-974165.thumb.jpeg.fdcdd2b66eda37b5c2cc5b68a7744d25.jpeg)](https://www.clubedohardware.com.br/profile/974165-satellitezinho/ "Ir ao perfil de satellitezinho")
-        
-        0
-        
-        [RB750 Gr3, não dá boot após a atualização, não aparece no netinstall](https://www.clubedohardware.com.br/forums/topic/1698049-rb750-gr3-n%C3%A3o-d%C3%A1-boot-ap%C3%B3s-a-atualiza%C3%A7%C3%A3o-n%C3%A3o-aparece-no-netinstall/?do=getNewComment "RB750 Gr3,  não dá boot após a atualização, não aparece no netinstall")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [satellitezinho](https://www.clubedohardware.com.br/profile/974165-satellitezinho/ "Ir ao perfil de satellitezinho")  
-        4 horas atrás
-        
-    * [![Chefeapache01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253496.thumb.png.0d8a0a529a83ffd64b545bd4da448283.png)](https://www.clubedohardware.com.br/profile/1253496-chefeapache01/ "Ir ao perfil de Chefeapache01")
-        
-        0
-        
-        [Gigabyte b450m ds3h. Tela preta depois de desativar csm e ativar secure boot.](https://www.clubedohardware.com.br/forums/topic/1698048-gigabyte-b450m-ds3h-tela-preta-depois-de-desativar-csm-e-ativar-secure-boot/?do=getNewComment "Gigabyte b450m ds3h. Tela preta depois de desativar csm e ativar secure boot.")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Chefeapache01](https://www.clubedohardware.com.br/profile/1253496-chefeapache01/ "Ir ao perfil de Chefeapache01")  
-        4 horas atrás
-        
-    * [![CDaniell](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248509.thumb.jpeg.362903e0e573e85ae89d911721eb7499.jpeg)](https://www.clubedohardware.com.br/profile/1248509-cdaniell/ "Ir ao perfil de CDaniell")
-        
-        4
-        
-        [God Of War Ragnarok bugando com DLSS 3.0](https://www.clubedohardware.com.br/forums/topic/1698047-god-of-war-ragnarok-bugando-com-dlss-30/?do=getNewComment "God Of  War Ragnarok bugando com DLSS 3.0")
-        
-        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
-        Por [CDaniell](https://www.clubedohardware.com.br/profile/1248509-cdaniell/ "Ir ao perfil de CDaniell")  
-        4 horas atrás
-        
-    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
+    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
         
         1
         
-        [Peerless assassino 120 mini](https://www.clubedohardware.com.br/forums/topic/1698046-peerless-assassino-120-mini/?do=getNewComment "Peerless assassino 120 mini")
+        [Dispositivo USB 2.0 em porta USB 3.0 causa algum problema?](https://www.clubedohardware.com.br/forums/topic/1698062-dispositivo-usb-20-em-porta-usb-30-causa-algum-problema/?do=getNewComment "Dispositivo USB 2.0 em porta USB 3.0 causa algum problema?")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
-        5 horas atrás
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        1 hora atrás
+        
+    * [![JuniorGonçalves10](https://www.clubedohardware.com.br/uploads/members/monthly_2023_06/f1c90901d645b7d1b74c7d43b3dbd66e.thumb.jpg.bb725dcf056431a09ef671a52780c8ac.jpg)](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")
+        
+        1
+        
+        [Existe algum modelo de memória RAM DDR4 que chega mais facilmente nos 4.000 MHz?](https://www.clubedohardware.com.br/forums/topic/1698059-existe-algum-modelo-de-mem%C3%B3ria-ram-ddr4-que-chega-mais-facilmente-nos-4000-mhz/?do=getNewComment "Existe algum modelo de memória RAM DDR4 que chega mais facilmente nos 4.000 MHz?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [JuniorGonçalves10](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")  
+        2 horas atrás
+        
+    * [![Kinghappy972](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1221262.thumb.png.3a9c326fa315ae1c0b6f7984095cc3fa.png)](https://www.clubedohardware.com.br/profile/1221262-kinghappy972/ "Ir ao perfil de Kinghappy972")
+        
+        1
+        
+        [Placa de Vídeo para o Ryzen 5 4600g](https://www.clubedohardware.com.br/forums/topic/1698058-placa-de-v%C3%ADdeo-para-o-ryzen-5-4600g/?do=getNewComment "Placa de Vídeo para o Ryzen 5 4600g")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Kinghappy972](https://www.clubedohardware.com.br/profile/1221262-kinghappy972/ "Ir ao perfil de Kinghappy972")  
+        3 horas atrás
+        
+    * [![Amanda05](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253501.thumb.png.4f0efc80bf793497fb991faac4f7a8f9.png)](https://www.clubedohardware.com.br/profile/1253501-amanda05/ "Ir ao perfil de Amanda05")
+        
+        10
+        
+        [Monitor reiniciando em jogos](https://www.clubedohardware.com.br/forums/topic/1698057-monitor-reiniciando-em-jogos/?do=getNewComment "Monitor reiniciando em jogos")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Amanda05](https://www.clubedohardware.com.br/profile/1253501-amanda05/ "Ir ao perfil de Amanda05")  
+        3 horas atrás
+        
+    * [![Alan99aguilarr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1135142.thumb.jpeg.36784628c418febd7b2d10913908f142.jpeg)](https://www.clubedohardware.com.br/profile/1135142-alan99aguilarr/ "Ir ao perfil de Alan99aguilarr")
+        
+        2
+        
+        [Pc reiniciando sem parar apos atualizar BIOS da placa-mãe Gigabyte H610M H](https://www.clubedohardware.com.br/forums/topic/1698056-pc-reiniciando-sem-parar-apos-atualizar-bios-da-placa-m%C3%A3e-gigabyte-h610m-h/?do=getNewComment "Pc reiniciando sem parar apos atualizar BIOS da placa-mãe Gigabyte H610M H")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Alan99aguilarr](https://www.clubedohardware.com.br/profile/1135142-alan99aguilarr/ "Ir ao perfil de Alan99aguilarr")  
+        3 horas atrás
         
     
 
