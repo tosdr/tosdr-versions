@@ -10,7 +10,8 @@
     * [Dedicated Servers](https://servers.guru/anonymous-dedicated-servers/)
 * [Features](https://servers.guru/control-panel)
     * [Control panel](https://servers.guru/control-panel/)
-* [FAQ](https://servers.guru/faq/)
+* [Partners](#)
+    * [Affiliates](https://servers.guru/affiliates-program/)
 * [Cart](https://servers.guru/cart/)
 * [Dashboard](https://my.servers.guru/)
 * [Help](https://support.servers.guru/)
@@ -23,10 +24,9 @@ X
 Terms & Conditions
 ==================
 
-**Date Modified: 11****th** **April 2024.**
+**Date Modified: 23th** **September 2024.**
 
 1. **ACCEPTANCE OF TERMS**
-    
     1. By accessing or using the Site or any services provided by Moula World LLC (“we,” “us,” or “our”), including but not limited to browsing the Site, i.e. Servers.guru, downloading materials, or using any of our services, all the users and customers (“customer”, “you”, “your”) agree to be bound by these Terms of Service (“ToS”, “Terms”), concerning your access to and use of the Servers.guru website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto.
         
     2. We specialize in offering server solutions, with our services extending across North America and Europe. These Terms constitute a legally binding agreement between you and us. By accessing or using the Site or our services, you represent and warrant that you have the legal authority to enter into these Terms and to be bound by all of its provisions. If you are accessing or using the Site or our services on behalf of an entity, you represent and warrant that you have the authority to bind such entity to these Terms. If you do not agree to these Terms, you must refrain from accessing or using the Site or any services provided by us.
@@ -43,7 +43,6 @@ Terms & Conditions
         
 
 2. **SCOPE OF APPLICATION**
-    
     1. These Terms apply to all Servers.guru customers: Servers.guru Services. Servers.guru services include, but are not limited to:
         
         1. Any act of preparing, setting up, connecting, maintaining, terminating, or reconnecting your accounts (including all billing data and the space on the particular web server that Servers.guru provides to customers);
@@ -64,7 +63,6 @@ Terms & Conditions
             
 
 3. **OWNERSHIP**
-    
     1. The legal ownership of your websites and accounts managed through the Servers.guru platform, operated by us, shall be vested in the individual or organization whose email is listed in the Servers.guru database as the owner. We retain operational control and oversight of the Servers.guru platform, including but not limited to the management of servers, infrastructure, and technical support services provided therein. We shall exercise its control and oversight responsibilities in accordance with the terms of service agreed upon with you and applicable laws and regulations governing the operation of online platforms. Ownership rights of your websites and accounts are subject to the terms and conditions set forth in the agreement between you and us.
         
 
@@ -119,9 +117,9 @@ Terms & Conditions
             
     3. **Other prohibited activities:**
         
-        1. The operation of applications for mining crypto-currencies is prohibited in the following datacenters: Nuremberg – Germany, Falkenstein – Germany, Helsinki – Finland, Ashburn, VA – USA, Hillsboro, OR – USA, as well as on all our webhosting offers.  
-              
-            These prohibited activities include, but are not limited to, mining, farming, plotting in particular, but also the operation of nodes, storage of blockchain data and trading in cryptocurrency.  
+        1. The operation of applications for mining crypto-currencies is prohibited in the following datacenters: Nuremberg – Germany, Falkenstein – Germany, Helsinki – Finland, Ashburn, VA – USA, Hillsboro, OR – USA, as well as on all our webhosting offers.
+            
+            These prohibited activities include, but are not limited to, mining, farming, plotting in particular, but also the operation of nodes, storage of blockchain data and trading in cryptocurrency.
             
 
 5. **SERVERS.GURU’S BILLING POLICY**
@@ -165,15 +163,104 @@ Terms & Conditions
             
     8. **Affiliate Program**
         
-        1. Servers.guru does not yet offer an affiliate program.
+        1. Purpose of the Program
             
+            The purpose of the Servers.Guru Affiliate Program is to incentivize Affiliates to promote our services and increase brand recognition through authorized channels. Any misuse of the Program that detracts from this objective or damages the reputation of Servers.Guru or its Affiliates shall be deemed a violation of these Terms.
+            
+        2. Responsibilities of Affiliates
+            
+            As a participant in the Servers.Guru Affiliate Program, you agree to the following obligations:
+            
+            * Maintain a single affiliate account unless otherwise authorized by management.
+            * Assume full responsibility for the management and content of your website.
+            * Ensure that all content on your website is lawful, non-defamatory, and adheres to the additional stipulations set forth in these Terms.
+            * Acknowledge that Servers.Guru is not liable for the content of your website, including any promotional materials related to our services.
+            * Accurately represent Servers.Guru’s offerings, avoiding any misleading or generic statements.
+            * Provide detailed information regarding all channels utilized to promote Servers.Guru upon request.
+            * Abstain from using affiliate materials in unsolicited communications or through illegal channels.
+            * Refrain from engaging in, or deriving profit from, any fraudulent traffic activities.
+            * Refrain from using your own affiliate link to process your own orders.  
+                  
+                
+        3. Definition of a Valid Customer  
+            
+            A “Valid Customer” is defined as:
+            
+            * An individual who has successfully completed the sign-up process.
+            * A customer who is not flagged for fraud or considered to be at high risk of fraud.
+            * An individual who has independently chosen to utilize the services of Servers.Guru.
+            * A customer who has employed a legitimate payment method for their account.
+            * An individual who has accepted all Terms of Service without breaching our policies.
+            * A customer whose service has remained active beyond the initial 30-day maturation period.
+            * A customer who meets any additional criteria specified within these Terms.  
+                  
+                
+        4. Advertising Standards
+            
+            Affiliates are required to comply with the following advertising standards:
+            
+            * Do not utilize Servers.Guru’s intellectual property without explicit prior permission.
+            * Promotional materials referencing Servers.Guru must not imply or promote vouchers, coupons, cash-back offers, discount codes, or any similar financial incentives within their metadata, title, or URL. Terms such as “discount,” “coupon,” “offer,” “promo,” and similar expressions may be subject to rejection at our discretion. Pages primarily aimed at exploiting such financial terms for traffic rather than providing genuine value will not be accepted.
+            * The use of automatic activation mechanisms on coupon sites, where a ‘Show Code’ prompt triggers the affiliate link, is strictly prohibited. Affiliates must ensure that activations are a result of deliberate user actions.
+            * Generating sales through deceptive practices, including but not limited to masking, cookie stuffing, cloaking, or the use of iframes to bypass genuine affiliate link interactions, is expressly forbidden.  
+                  
+                
+        5. Tracking and Commissions
+            
+            Servers.Guru employs cookies for affiliate tracking via our order processing system located at servers.guru. Cookies are initiated when a visitor clicks on an affiliate link, leading them to the designated page through our affiliate program URL. In the event of technical difficulties or disruptions, we do not assume liability for any losses that may occur due to cookies not being set properly. Claims regarding commissions will be evaluated on an individual basis.  
+            The standard lifespan for these cookies is a minimum of 365 days, subject to change without prior notice. Servers.Guru is not responsible for lost commissions due to cookies being deleted by users or if users register through a different browser, computer, or in incognito mode.
+            
+            If a valid affiliate cookie is present, any subsequent cookies from clicks will supersede the previous ones, attributing sales to the most recently clicked link or banner.
+            
+        6. Commission Structure
+            * Servers.Guru offers a 10% recurring commission on all products sold through the affiliate program.
+            * Commissions will also be earned on service renewals as part of our recurring program structure.
+            * Payouts will be processed via PayPal or as account credit within Servers.Guru.
+            * Servers.Guru retains the right to withhold or deny commissions that do not adhere to these Terms.  
+                  
+                
+        7. Legal Responsibilities and Ownership
+            * Servers.Guru asserts ownership of the customer relationship from the initial point of contact.
+            * Affiliates must respect the intellectual property rights of Servers.Guru and comply with all relevant legal obligations.
+            * Affiliates are solely responsible for the content and legal compliance of their respective websites.
+            * This Agreement does not establish a joint venture, agency, franchise, sales representative, or employment relationship between the parties. Affiliates are not authorized to make offers or representations on behalf of Servers.Guru and must refrain from making statements that contradict these Terms.  
+                  
+                
+        8. Duration and Termination of Agreement
+            * This Agreement may be terminated by either party upon providing written notice via email to \[email protected\].
+            * Upon termination, Affiliates must promptly remove all materials related to Servers.Guru.
+            * Servers.Guru reserves the right to modify these Terms at its discretion, with any changes taking effect upon posting.  
+                  
+                
+        9. Paid Search Policy
+            
+            Servers.Guru permits the use of paid advertising (excluding branded terms) to generate traffic to pages containing Servers.Guru affiliate links. Affiliates must adhere to the following guidelines when engaging in paid search campaigns on platforms such as Google, Bing, DuckDuckGo, Twitter/X, Facebook, Instagram, etc.
+            
+        10. Non-Competition with Search Results:
+            
+            Affiliates are prohibited from competing with or disrupting Servers.Guru’s direct advertising efforts. Engaging in Pay-per-Click, Pay-per-Impression, pop-ups, traffic exchanges, or similar methods utilizing our name or any variations of our trademarks is strictly forbidden.
+            
+        11. Restrictions on Use of Marks:
+            
+            The use of Servers.Guru’s trademarks or service marks, including variations, in pay-for-placement search engines and paid advertisements is not permitted.
+            
+        12. Bidding on Trademarks:
+            
+            Bidding on keywords or phrases that include Servers.Guru’s trademarks or any variations is strictly forbidden without prior written consent. This includes terms such as “Servers.Guru,” “servers.guru,” “Moula World,” etc.
+            
+        13. Direct Linking Restrictions:
+            
+            Direct linking to servers.guru or any of its subdomains from paid advertisements is prohibited. Additionally, using our domain or variations as display URLs in paid ads is not allowed.
+            
+        
+        Compliance with these guidelines is crucial for participation in the Servers.Guru Affiliate Program. Violations may result in the forfeiture of commissions and potential removal from the program. By participating in the Program, you acknowledge and accept these Terms, understanding they may be amended at any time without notice. For any inquiries regarding the affiliate program, please contact \[email protected\] via email.
+        
     9. **Wallet and credit system**
         
         1. Credits deposited into a customer’s wallet are exclusively designated for the renewal of open invoices issued by Servers.guru or for the procurement of new services from Servers.Guru. It is not possible to convert these credits back into cryptocurrencies or any other form of currency.
             
 
 6. **INTELLECTUAL PROPERTY**
-    
     1. You acknowledge and agree to comply with all terms and conditions of the specific license agreement for any product or service obtained through the Site. This includes, but is not limited to, adherence to all confidentiality obligations and restrictions on resale, use, reverse engineering, copying, making, modifying, improving, sublicensing, and transfer of the licensed products and services.
         
     2. You further agree not to cause, induce, or permit others’ noncompliance with the terms and conditions of any product and service license agreements obtained through the Site.
@@ -192,14 +279,12 @@ Terms & Conditions
         
 
 7. **PRIVACY AND DATA PROTECTION**
-    
     1. **Privacy Policy:** Your privacy is important to us. Please refer to our Privacy Policy for information on how we collect, use, disclose, and protect your personal data. Our Privacy Policy outlines our practices regarding the collection, storage, processing, and sharing of personal information. By using our services, you acknowledge that you have read and agree to the terms of our Privacy Policy.
         
     2. **Contact Us:** If you have any questions or concerns about our privacy practices or our Privacy Policy, please contact us at [\[email protected\]](https://servers.guru/cdn-cgi/l/email-protection).
         
 
 8. **NO THIRD-PARTY BENEFICIARIES**
-    
     1. These Terms are intended for the sole benefit of the parties hereto and their respective successors and permitted assigns and shall not confer any rights or remedies upon any person or entity other than the parties hereto and their respective successors and permitted assigns.
         
     2. No third party shall have any rights under these Terms, whether pursuant to the Contracts (Rights of Third Parties) Act or otherwise, except as expressly provided herein.
@@ -212,7 +297,6 @@ Terms & Conditions
         
 
 9. **LINKS TO THIRD-PARTY WEBSITES**
-    
     1. **Third-Party Websites:** The services provided on our platform may contain links to websites operated by third parties (“Third-Party Websites”) that are not owned or controlled by us.
         
     2. **No Responsibility:** We assume no responsibility for the content, terms and conditions, privacy policies, or practices of any Third-Party Websites. Additionally, we do not censor or edit the content of any Third-Party Websites.
@@ -225,7 +309,6 @@ Terms & Conditions
         
 
 10. **DISCLAIMER OF REPRESENTATIONS AND WARRANTIES**
-    
     1. **Use at Own Risk:** You specifically acknowledge and agree that your use of our platform and services shall be at your own risk.
         
     2. **Non-Servers.guru Product Disclaimer:** Any mention of non-Servers.guru products by Servers.guru, its employees, or any third-party entity related to Servers.guru, whether expressed or implied, is solely for informational purposes. Such mention shall not be construed as an endorsement or recommendation by Servers.guru of the products or services provided by third-party vendors. Servers.guru explicitly disclaims any and all liabilities arising from or related to any representation or warranty made by the vendors of such non-Servers.guru products or services. Users are advised to exercise due diligence and discretion when considering the purchase or use of non-Servers.guru products or services.
@@ -250,7 +333,6 @@ Terms & Conditions
         
 
 11. **LIMITATION OF LIABILITY**
-    
     1. **Scope of Limitation:** In no event shall we, our officers, directors, employees, agents, and all third-party service providers be liable to you or any other person or entity for any direct, indirect, incidental, special, punitive, or consequential damages whatsoever, including any that may result from:
         
         1. The accuracy, completeness, or content of the platform;
@@ -283,7 +365,6 @@ Terms & Conditions
         
 
 12. **INDEMNIFICATION**
-    
     1. **Indemnification Obligations:** You agree to protect, defend, indemnify, and hold harmless us and our officers, directors, employees, agents, and third-party service providers from and against any and all claims, demands, costs, expenses, losses, liabilities, and damages of every kind and nature (including, without limitation, reasonable attorneys’ fees) imposed upon or incurred by us directly or indirectly arising from:
         
         1. Your use of and access to the platform or our services;
@@ -296,7 +377,6 @@ Terms & Conditions
         
 
 13. **CUSTOMER RESPONSIBILITY**
-    
     1. Customers are required to use the Servers.guru network responsibly. This includes respecting the other customers of Servers.guru. Servers.guru reserves the right to suspend and/or cancel service with any customer who uses the Servers.guru network in such a way that adversely affects other Servers.guru customers.
         
     2. While Servers.guru may monitor its service electronically to determine that its facilities are operating satisfactorily, as a general practice, Servers.guru does not monitor its customers’ communications or activities to determine whether they are in compliance with the TOS. However, when Servers.guru becomes aware of any violation of the TOS or other user agreements, Servers.guru may take any action to stop or correct such violation, including, but not limited to, denying access to Servers.guru’s services and equipment or to the Internet. Servers.guru anticipates that customers who offer Internet services will cooperate with Servers.guru in any corrective or preventive action that Servers.guru deems necessary.
@@ -323,7 +403,6 @@ Terms & Conditions
 **MISCELLANEOUS**
 
 16. **ASSIGNMENT**
-    
     1. You shall not assign, transfer, or delegate any of your rights, interests, or obligations under these Terms, in whole or in part, without our prior express written consent. Any purported assignment, transfer, or delegation in violation of this provision shall be null and void.
         
     2. We may freely assign, transfer, or delegate any of our rights, interests, or obligations under these Terms without your consent. This includes, but is not limited to, assigning these Terms to any affiliate, successor entity, or third party in connection with a merger, acquisition, restructuring, or sale of assets.
@@ -336,7 +415,6 @@ Terms & Conditions
         
 
 17. **NO WAIVERS**
-    
     1. Any failure or delay by either party to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. No waiver by either party of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition.
         
     2. Any waiver of any provision of these Terms must be in writing and signed by the waiving party. A waiver of any term or condition of these Terms shall only be effective for the specific instance and purpose for which it was given and shall not be construed as a waiver of any subsequent breach or default.
@@ -346,28 +424,17 @@ Terms & Conditions
     4. No course of dealing between the parties or course of performance under these Terms shall be deemed to modify, amend, or waive any provision of these Terms.
         
 18. **NOTICES**
-    
     1. **To You:** We may provide any notice to you under these Terms by:
-        
         1. Sending a written communication to the email address you provided during registration, or any updated email address you subsequently provide, and such notice shall be deemed effective upon transmission;
-            
         2. Posting notices on the website or platform through which our services are accessed by you, and such notice shall be deemed effective immediately upon posting.
-            
     2. **To Us:** To give us notice under these Terms, you must contact us by:
-        
         1. Facsimile transmission to the number specified in our contact information, or any updated facsimile number provided by us, and such notice shall be deemed effective one business day after transmission;
-            
         2. Personal delivery, overnight courier, or registered or certified mail to the physical address specified in our contact information, and such notice shall be deemed effective immediately upon receipt by us.
-            
     3. **Method Updates:** We reserve the right to update our contact information, including the email address and facsimile number for notices, by posting a notice on the website or platform through which our services are accessed by you.
-        
     4. **Receipt Responsibility:** It is your responsibility to ensure that your contact information, including email address and facsimile number, is accurate and up to date. We assume no liability or responsibility for your failure to receive a notice if such failure results from inaccurate contact information provided by you.
-        
     5. **Notice Effectiveness:** Notices provided in accordance with this clause shall be deemed to have been given and received as specified herein, notwithstanding any failure or delay in actual receipt.
-        
 
 19. **GOVERNING LAW AND JURISDICTION**
-    
     1. **Applicable Law:** All matters arising out of or relating to these Terms and the contractual relationship are governed by and construed in accordance with the laws of New Mexico, United States of America, without giving effect to any choice or conflict of law provision or rule that would cause the application of the law of any jurisdiction other than New Mexico, United States of America.
         
     2. **Jurisdiction and Venue:** Place of jurisdiction for all disputes arising from the contractual relationship is the exclusive jurisdiction of the courts of New Mexico, United States of America. However, we reserve the right to initiate legal proceedings at your place of business.
@@ -376,7 +443,6 @@ Terms & Conditions
         
 
 20. **DISPUTE RESOLUTION AND BINDING ARBITRATION**
-    
     1. **Waiver of Litigation Rights:** You and we hereby waive any rights to litigate claims in a court or before a jury, or to participate in a class action or representative action with respect to a claim. Other rights that would be available if litigation were pursued, including participation in a class action, may also be unavailable or limited in arbitration.
         
     2. **Mandatory Arbitration:** Any claim, dispute, or controversy arising from or relating in any way to your purchase of products or services via the Site shall be resolved exclusively and conclusively by binding arbitration.
@@ -389,7 +455,6 @@ Terms & Conditions
         
 
 21. **SEVERABILITY:** If any provision of these Terms is invalid, illegal, void or unenforceable, then that provision will be deemed severed from these Terms and will not affect the validity or enforceability of the remaining provisions of these Terms.
-    
 
 22. **THIRD-PARTY LICENSES:** Servers.guru makes a reasonable effort to provide customers with technologies, developments, and innovations (collectively “Technologies”), part of which may be licensed, or co-branded, from or by, third-party entities. However, Servers.guru makes NO warranty of any kind, either express or implied, regarding the quality, accuracy, reliability, validity, or continued existence of any or all aspects of such Technologies. Moreover, Servers.guru specifically disclaims all warranties of merchantability and fitness for a particular purpose for such Technologies. Furthermore, no customer will hold Servers.guru liable in any way for the revocation of any license, which has been licensed to Servers.guru. The use of the Technologies obtained from or through Servers.guru, or any other referred third party, whether directly or indirectly, is at the sole risk of customers.
     
@@ -412,7 +477,7 @@ Terms & Conditions
 
 [![servers.guru, anonymous VPS](https://servers.guru/wp-content/uploads/2020/07/logo.png)](https://servers.guru/)
 
-Copyright 2024 Moula World LLC  
+Copyright © 2021-2024 Moula World LLC  
 All Rights Reserved.
 
 [![Customers' reviews on Hostings.info](https://hostings.info/informers/cache/2301-6-blue.png "Customers' reviews - will open in a new tab")](https://hostings.info/servers-guru.html)
@@ -433,6 +498,7 @@ About Us
 * [About](https://servers.guru/about/)
 * [FAQ](https://servers.guru/faq/)
 * [Looking Glass](https://servers.guru/looking-glass/)
+* [Affiliate Program](https://servers.guru/affiliates-program/)
 
 Contact Us
 ----------
