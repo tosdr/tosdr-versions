@@ -28,7 +28,9 @@ triangle borderless
     
     New Arrivals arrow bottom
     
-    [![](//www.lorex.com/cdn/shop/collections/N910-4KDW-L1_80x.png?v=1708619171)
+    [![](//www.lorex.com/cdn/shop/files/f9fb943cda9f8d544d6e7f9fb31459fe230f4528c6f4b898b2defa4298d2fe9b_80x.png?v=1727105755)
+    
+    4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)[![](//www.lorex.com/cdn/shop/collections/N910-4KDW-L1_80x.png?v=1708619171)
     
     Fusion Wireless](https://www.lorex.com/collections/fusion-wireless)[![](//www.lorex.com/cdn/shop/collections/3dc7c95f1b3e55784f5c4855f640bf5d42a1c401d7f879413f94489c6e904001_c1951ec2-5a07-43d4-92c6-49a2d8e9d5ea_80x.webp?v=1706737773)
     
@@ -173,6 +175,7 @@ Follow Us
 arrow left Back
 
 * [New Arrivals](https://www.lorex.com/pages/new-arrivals)
+* [4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
 * [Fusion Wireless](https://www.lorex.com/collections/fusion-wireless)
 * [Dual Lens Security Cameras](https://www.lorex.com/collections/dual-lens-security-cameras)
 * [4K+ 12MP Ultra HD Resolution Cameras and Systems](https://www.lorex.com/collections/4k-plus-12mp)
@@ -328,6 +331,10 @@ Your cart is empty
     * [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
     * [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
     * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
+    
+    [![](//www.lorex.com/cdn/shop/files/f9fb943cda9f8d544d6e7f9fb31459fe230f4528c6f4b898b2defa4298d2fe9b_x150.png?v=1727105755)
+    
+    4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
     
     [![](//www.lorex.com/cdn/shop/collections/N910-4KDW-L1_x150.png?v=1708619171)
     
