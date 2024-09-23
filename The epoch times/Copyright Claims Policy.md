@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [French Lawyer Says Telegram CEO Durov Could Wait 10 Years for Trial](https://www.theepochtimes.com/world/french-lawyer-says-telegram-ceo-durov-could-wait-10-years-for-trial-5726762)
+    
+    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![French Lawyer Says Telegram CEO Durov Could Wait 10 Years for Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![French Lawyer Says Telegram CEO Durov Could Wait 10 Years for Trial](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719608-Pavel-Durov-AP24241517286465.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/french-lawyer-says-telegram-ceo-durov-could-wait-10-years-for-trial-5726762)
+* [France Forms Center-Right Government as Macron Blocks Left-Wing Leadership](https://www.theepochtimes.com/world/france-forms-center-right-government-as-macron-blocks-left-wing-leadership-5728370)
+    
+    1hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![France Forms Center-Right Government as Macron Blocks Left-Wing Leadership](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![France Forms Center-Right Government as Macron Blocks Left-Wing Leadership](https://img.theepochtimes.com/assets/uploads/2024/08/26/id5713224-Macron-GettyImages-2159723350-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/france-forms-center-right-government-as-macron-blocks-left-wing-leadership-5728370)
+* [In North Carolina, Trump Vows to Push Congress to Ban Sanctuary Cities](https://www.theepochtimes.com/us/in-north-carolina-trump-vows-to-push-congress-to-ban-sanctuary-cities-5728014)
+    
+    1hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![In North Carolina, Trump Vows to Push Congress to Ban Sanctuary Cities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In North Carolina, Trump Vows to Push Congress to Ban Sanctuary Cities](https://img.theepochtimes.com/assets/uploads/2024/09/21/id5728065-09212024-DSC00200-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-north-carolina-trump-vows-to-push-congress-to-ban-sanctuary-cities-5728014)
+* [Trump Suspect Ryan Routh Left Note: ‘This Was an Assassination Attempt’](https://www.theepochtimes.com/us/trump-suspect-ryan-routh-allegedly-left-note-this-was-an-assassination-attempt-5728525)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Trump Suspect Ryan Routh Left Note: ‘This Was an Assassination Attempt’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Suspect Ryan Routh Left Note: ‘This Was an Assassination Attempt’](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725255-Ryan-Wesley-Routh-in-Ukraine-2022KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-suspect-ryan-routh-allegedly-left-note-this-was-an-assassination-attempt-5728525)
+* [Lebanon Says Almost 200 Dead as Israel Strikes Hundreds of Hezbollah Targets](https://www.theepochtimes.com/world/israel-tells-lebenese-citizens-to-flee-homes-used-to-store-hezbollah-weapons-5728452)
+    
+    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Lebanon Says Almost 200 Dead as Israel Strikes Hundreds of Hezbollah Targets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Lebanon Says Almost 200 Dead as Israel Strikes Hundreds of Hezbollah Targets](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728502-GettyImages-2172592335-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-tells-lebenese-citizens-to-flee-homes-used-to-store-hezbollah-weapons-5728452)
+* [Marxist Dissayanake Sworn in as Sri Lankan President After Election Victory](https://www.theepochtimes.com/world/marxist-dissayanake-sworn-in-as-sri-lankan-president-after-election-victory-5728454)
+    
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Marxist Dissayanake Sworn in as Sri Lankan President After Election Victory](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Marxist Dissayanake Sworn in as Sri Lankan President After Election Victory](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728523-APTOPIX_Sri_Lanka_Election_24266635748587-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/marxist-dissayanake-sworn-in-as-sri-lankan-president-after-election-victory-5728454)
 * [California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://www.theepochtimes.com/us/california-should-reconsider-plan-to-release-billions-of-gallons-of-water-into-the-ocean-expert-5727741)
     
-    1hr By [Sophie Li](https://www.theepochtimes.com/author/sophie-li)
+    7hr By [Sophie Li](https://www.theepochtimes.com/author/sophie-li)
     
     [![California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727748-GettyImages-1232098462-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-should-reconsider-plan-to-release-billions-of-gallons-of-water-into-the-ocean-expert-5727741)
+    ![California Should Reconsider Plan to Release Billions of Gallons of Water Into the Ocean: Expert](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728524-GettyImages-1232098462-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-should-reconsider-plan-to-release-billions-of-gallons-of-water-into-the-ocean-expert-5727741)
 * [Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://www.theepochtimes.com/china/lufthansa-considers-canceling-frankfurt-beijing-route-due-to-unequal-competition-5728213)
     
-    1hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
+    7hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
     
     [![Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Lufthansa Considers Canceling Frankfurt-Beijing Route Due to Unequal Competition](https://img.theepochtimes.com/assets/uploads/2020/03/02/CHINA-HEALTH-AIRLINES-205x123.jpg.webp)](https://www.theepochtimes.com/china/lufthansa-considers-canceling-frankfurt-beijing-route-due-to-unequal-competition-5728213)
 * [Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://www.theepochtimes.com/world/biden-tells-quad-leaders-at-summit-china-is-testing-us-5728170)
     
-    11hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    17hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Tells Quad Leaders at Summit China Is ‘Testing Us’](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728349-GettyImages-2172751088KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-tells-quad-leaders-at-summit-china-is-testing-us-5728170)
 * [Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://www.theepochtimes.com/article/day-in-photos-israel-hezbollah-conflict-german-elections-hunting-season-5728234)
     
-    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    17hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Israel-Hezbollah Conflict, German Elections, Hunting Season](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728258-GettyImages-2172867778-sb-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-israel-hezbollah-conflict-german-elections-hunting-season-5728234)
-* [House GOP Leaders Unveil Measure to Fund Government Beyond Election Into December](https://www.theepochtimes.com/us/house-gop-leaders-unveil-measure-to-fund-government-beyond-election-into-december-5728158)
-    
-    11hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![House GOP Leaders Unveil Measure to Fund Government Beyond Election Into December](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House GOP Leaders Unveil Measure to Fund Government Beyond Election Into December](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728348-09162024-DSC00724-US-CapitolKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-gop-leaders-unveil-measure-to-fund-government-beyond-election-into-december-5728158)
-* [Trump Says He Won’t Run Again If He Loses in 2024](https://www.theepochtimes.com/us/trump-says-he-wont-run-again-in-2028-if-hes-not-successful-in-2024-post-5728225)
-    
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Says He Won’t Run Again If He Loses in 2024](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Says He Won’t Run Again If He Loses in 2024](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727396-GettyImages-2173243357-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-wont-run-again-in-2028-if-hes-not-successful-in-2024-post-5728225)
-* [Previewing First Round of 2024 WNBA Playoffs](https://www.theepochtimes.com/sports/previewing-first-round-of-2024-wnba-playoffs-5727967)
-    
-    13hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
-    
-    [![Previewing First Round of 2024 WNBA Playoffs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Previewing First Round of 2024 WNBA Playoffs](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728355-Aja-Wilson-GettyImages-2172966515KO-205x123.jpg.webp)](https://www.theepochtimes.com/sports/previewing-first-round-of-2024-wnba-playoffs-5727967)
-* [How a President Can Use Regulatory Levers to Slow Fracking](https://www.theepochtimes.com/us/how-a-president-can-use-regulatory-levers-to-slow-fracking-5726606)
-    
-    14hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![How a President Can Use Regulatory Levers to Slow Fracking](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How a President Can Use Regulatory Levers to Slow Fracking](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728321-GettyImages-143087510-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-a-president-can-use-regulatory-levers-to-slow-fracking-5726606)
-* [Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://www.theepochtimes.com/world/israel-has-no-connection-to-mass-pager-attack-in-lebanon-president-says-5728219)
-    
-    16hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Israel Has No Connection to Mass Pager Attack in Lebanon, President Says](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726468-GettyImages-2171996113-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-has-no-connection-to-mass-pager-attack-in-lebanon-president-says-5728219)
-* [Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://www.theepochtimes.com/us/interim-nypd-commissioner-confirms-federal-agents-searched-his-homes-5728211)
-    
-    17hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Interim NYPD Commissioner Confirms Federal Agents Searched His Homes](https://img.theepochtimes.com/assets/uploads/2024/09/id5728203-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/interim-nypd-commissioner-confirms-federal-agents-searched-his-homes-5728211)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
