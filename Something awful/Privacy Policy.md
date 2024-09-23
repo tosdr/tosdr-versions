@@ -205,26 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Awful Propaganda Part 1](https://www.somethingawful.com/photoshop-phriday/awful-propaganda-1/)
-* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
-* [What's up with Peyton Manning's Forehead?](https://www.somethingawful.com/photoshop-phriday/peyton-manning-forehead/1/)
-* [Herein Lies the Promise of J. F. Swanton](https://www.somethingawful.com/news/fur-trapper-promise/)
-* [It is I Who Planted, Within the Mind of Elon Musk, the Imbecilic Idea to Shoot a Car Into Space pt.3](https://www.somethingawful.com/news/sorry-for-musk3/)
+* [Bad Dragon](https://www.somethingawful.com/weekend-web/bad-dragon/1/)
+* [The Eye of Sauron!](https://www.somethingawful.com/photoshop-phriday/eye-sauron-lotr/1/)
+* [The Great Bird Gambit!](https://www.somethingawful.com/comedy-goldmine/birds-conning-rubes/1/)
+* [STOCK PHOTO LIFESTYLE TALES #4](https://www.somethingawful.com/news/stock-photo-lifestyle4/1/)
+* [1992 Graphics for Everything!](https://www.somethingawful.com/comedy-goldmine/videogame-graphics-1992/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Are there people hiding in your house? Phrogging Megathread](http://forums.somethingawful.com/showthread.php?threadid=4070984 "Are there people hiding in your house? Phrogging Megathread")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [idiotic stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4070934 "idiotic stuff we did as kids")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sex.png) [I'm watching the movie Quest For Fire](http://forums.somethingawful.com/showthread.php?threadid=4070926 "I'm watching the movie Quest For Fire")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Clout chaser totals car, cuts off ankle monitor, is currently on the lam](http://forums.somethingawful.com/showthread.php?threadid=4070949 "Clout chaser totals car, cuts off ankle monitor, is currently on the lam")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [the kingdom of stuffed animals](http://forums.somethingawful.com/showthread.php?threadid=4070964 "the kingdom of stuffed animals")
 
 ### Random Articles
 
-* [Helen's Tips of the Week!](https://www.somethingawful.com/helen-gunther/helens-tips-week/)
-* [Rise of the Female Submariner](https://www.somethingawful.com/news/first-female-submarine/)
-* [Female Slaves' Revenge](https://www.somethingawful.com/movie-reviews/female-slaves-revenge/1/)
-* [State Og Update: 03.01.03](https://www.somethingawful.com/state-og/state-og-update-13/)
-* [October 22, 2013](https://www.somethingawful.com/twitter-tuesday/tt10-22-13/)
+* [November 24, 2009](https://www.somethingawful.com/forum-fridays/ff11-24-09/)
+* [TruthMedia Review: Reanimation by Lincoln Park](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-reanimation/)
+* [GirlPits (NWS!) (Thanks, Astrofig!)](https://www.somethingawful.com/awful-links/girlpits-forum/)
+* [Existential Animal Funnies](https://www.somethingawful.com/news/existential-animal-funnies/1/)
+* [The Mechanic; The Rite](https://www.somethingawful.com/current-movie-reviews/mechanic-rite/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
