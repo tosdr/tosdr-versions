@@ -230,12 +230,13 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +336,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Interesting headline, CNN, but the point it's really making is that taking foreign languages in high school is pretty much worthless](https://www.fark.com/goto/13402292) ( [cnn.com](https://www.fark.com/goto/13402292) ) » [(51 comments)](https://www.fark.com/comments/13402292/Interesting-headline-CNN-but-point-its-really-making-is-that-taking-foreign-languages-in-high-school-is-pretty-much-worthless) |
-| [Discussion](https://www.fark.com/discussion/) | [Today's jazz journey mixes vintage & modern with masters, jazz/funk fusion, and a set featuring the Hammond B3. Artists include Takuya Kuroda, Charlie Christian, Barbara Dennerlein, Oscar Peterson, Olivia Chindamo & more. Fuse 'n Flow, 1:00PM ET](https://www.fark.com/goto/13402454) ( [bigeradio.com](https://www.fark.com/goto/13402454) ) » [(17 comments)](https://www.fark.com/comments/13402454/Todays-jazz-journey-mixes-vintage-modern-with-masters-jazzfunk-fusion-a-set-featuring-Hammond-B3-Artists-include-Takuya-Kuroda-Charlie-Christian-Barbara-Dennerlein-Oscar-Peterson-Olivia-Chindamo-more-Fuse-n-Flow-100PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [The Twins and Red Sox starts things off with a doubleheader at 12:35 PM ET and Sunday baseball ends with the Phillies and Mets at 7:00 PM on ESPN. Who will provide us with the big moments?](https://www.fark.com/goto/13402088) ( [espn.com](https://www.fark.com/goto/13402088) ) » [(7 comments)](https://www.fark.com/comments/13402088/The-Twins-Red-Sox-starts-things-off-with-a-doubleheader-at-1235-PM-ET-Sunday-baseball-ends-with-Phillies-Mets-at-700-PM-on-ESPN-Who-will-provide-us-with-big-moments) |
-| [Business](https://www.fark.com/business/) | [Want to trade your cubicle for a soundproof office with a window? Okay, you can have that - but yes, there are a couple catches](https://www.fark.com/goto/13402080) ( [grandforksherald.com](https://www.fark.com/goto/13402080) ) » [(36 comments)](https://www.fark.com/comments/13402080/Want-to-trade-your-cubicle-for-a-soundproof-office-with-a-window-Okay-you-can-have-that-but-yes-there-are-a-couple-catches) |
-| [STEM](https://www.fark.com/stem/) | [Introducing the special guests at Lexington, Kentucky on October 12](https://www.fark.com/goto/13402338) ( [youtube.com](https://www.fark.com/goto/13402338) ) » [(3 comments)](https://www.fark.com/comments/13402338/Introducing-special-guests-at-Lexington-Kentucky-on-October-12) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Transformers: One rolls out at #1 with $26 million. Beetlejuice, Beetlejuice slips to #2 with $25 million, Speak No Evil silent at #3 with $5.8 million. Never Let Go is let go at #4 with $4 million, The Substance an insubstantial debut at #6](https://www.fark.com/goto/13402286) ( [deadline.com](https://www.fark.com/goto/13402286) ) » [(20 comments)](https://www.fark.com/comments/13402286/Transformers-One-rolls-out-at-1-with-$26-million-Beetlejuice-Beetlejuice-slips-to-2-with-$25-million-Speak-No-Evil-silent-at-3-with-$58-million-Never-Let-Go-is-let-go-at-4-with-$4-million-The-Substance-an-insubstantial-debut-at-6) |
-| [Fandom](https://www.fark.com/fandom/) | [The best Disney heroine isn't even a princess](https://www.fark.com/goto/13402332) ( [cbr.com](https://www.fark.com/goto/13402332) ) » [(11 comments)](https://www.fark.com/comments/13402332/The-best-Disney-heroine-isnt-even-a-princess) |
+| [Main](https://www.fark.com/) | [So, how many houses have \*you\* bought since the Fed cut interest rates?](https://www.fark.com/goto/13402610) ( [wtop.com](https://www.fark.com/goto/13402610) ) » [(30 comments)](https://www.fark.com/comments/13402610/So-how-many-houses-have-you-bought-since-Fed-cut-interest-rates) |
+| [Discussion](https://www.fark.com/discussion/) | [Patrick Mahomes and the Chiefs take on Kirk Cousins and the Falcons in Atlanta. Will Kansas City be 3-0 after this game? Or will Atlanta stop them in their tracks? Sunday Night Football is at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13401938) ( [espn.com](https://www.fark.com/goto/13401938) ) » [(250 comments)](https://www.fark.com/comments/13401938/Patrick-Mahomes-the-Chiefs-take-on-Kirk-Cousins-the-Falcons-in-Atlanta-Will-Kansas-City-be-3-0-after-this-game-Or-will-Atlanta-stop-them-in-their-tracks-Sunday-Night-Football-is-at-820-PM-ET-on-NBCPeacock) |
+| [Sports](https://www.fark.com/sports/) | [The man that created free agency in MLB gets drafted by the Angels](https://www.fark.com/goto/13402660) ( [espn.com](https://www.fark.com/goto/13402660) ) » [(2 comments)](https://www.fark.com/comments/13402660/The-man-that-created-free-agency-in-MLB-gets-drafted-by-Angels) |
+| [Business](https://www.fark.com/business/) | [Want to trade your cubicle for a soundproof office with a window? Okay, you can have that - but yes, there are a couple catches](https://www.fark.com/goto/13402080) ( [grandforksherald.com](https://www.fark.com/goto/13402080) ) » [(50 comments)](https://www.fark.com/comments/13402080/Want-to-trade-your-cubicle-for-a-soundproof-office-with-a-window-Okay-you-can-have-that-but-yes-there-are-a-couple-catches) |
+| [STEM](https://www.fark.com/stem/) | [Roll over, BMI: 'Body Roundness Index' is here to find out how spherical you are](https://www.fark.com/goto/13402552) ( [abcnews.go.com](https://www.fark.com/goto/13402552) ) » [(79 comments)](https://www.fark.com/comments/13402552/Roll-over-BMI-Body-Roundness-Index-is-here-to-find-out-how-spherical-you-are) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Today's jazz journey mixes vintage & modern with masters, jazz/funk fusion, and a set featuring the Hammond B3. Artists include Takuya Kuroda, Charlie Christian, Barbara Dennerlein, Oscar Peterson, Olivia Chindamo & more. Fuse 'n Flow, 1:00PM ET](https://www.fark.com/goto/13402454) ( [bigeradio.com](https://www.fark.com/goto/13402454) ) » [(17 comments)](https://www.fark.com/comments/13402454/Todays-jazz-journey-mixes-vintage-modern-with-masters-jazzfunk-fusion-a-set-featuring-Hammond-B3-Artists-include-Takuya-Kuroda-Charlie-Christian-Barbara-Dennerlein-Oscar-Peterson-Olivia-Chindamo-more-Fuse-n-Flow-100PM-ET) |
+| [Fandom](https://www.fark.com/fandom/) | [Like many a Farker, Dungeons & Dragons is entering its fifties this year](https://www.fark.com/goto/13402592) ( [npr.org](https://www.fark.com/goto/13402592) ) » [(19 comments)](https://www.fark.com/comments/13402592/Like-many-a-Farker-Dungeons-Dragons-is-entering-its-fifties-this-year) |
 | [D'awww](https://www.fark.com/dawww/) | [I don't mind most marine mammals](https://www.fark.com/goto/13401900) ( [bc.ctvnews.ca](https://www.fark.com/goto/13401900) ) » [(4 comments)](https://www.fark.com/comments/13401900/I-dont-mind-most-marine-mammals) |
-| [Food](https://www.fark.com/food/) | [Domino's launches two new mac & cheese dishes, for people who are too lazy and/or stupid to open a box and boil a pot of water](https://www.fark.com/goto/13402180) ( [brandeating.com](https://www.fark.com/goto/13402180) ) » [(21 comments)](https://www.fark.com/comments/13402180/Dominos-launches-two-new-mac-cheese-dishes-for-people-who-are-too-lazy-andor-stupid-to-open-a-box-boil-a-pot-of-water) |
-| [Politics](https://www.fark.com/politics/) | [Team Harris lays out its Mark Robinson strategy in North Carolina. Brilliant](https://www.fark.com/goto/13402362) ( [politico.com](https://www.fark.com/goto/13402362) ) » [(11 comments)](https://www.fark.com/comments/13402362/Team-Harris-lays-out-its-Mark-Robinson-strategy-in-North-Carolina-Brilliant) |
+| [Food](https://www.fark.com/food/) | [You're recipe-ing wrong](https://www.fark.com/goto/13402516) ( [slate.com](https://www.fark.com/goto/13402516) ) » [(26 comments)](https://www.fark.com/comments/13402516/Youre-recipe-ing-wrong) |
+| [Politics](https://www.fark.com/politics/) | [Johnson goes limp](https://www.fark.com/goto/13402674) ( [cnbc.com](https://www.fark.com/goto/13402674) ) » [(19 comments)](https://www.fark.com/comments/13402674/Johnson-goes-limp) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +355,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 22 2024 15:43:14  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 22 2024 21:43:51  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
