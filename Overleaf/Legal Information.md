@@ -24,7 +24,7 @@ Privacy and Terms
 Overleaf Privacy & Terms Overview
 ---------------------------------
 
-Last Modified: 12th July 2024
+Last Modified: 23rd September 2024
 
 Thank you for using Overleaf!
 
@@ -216,7 +216,7 @@ Digital Science UK Limited was formerly known as Writelatex Limited.
 Overleaf Privacy Notice
 -----------------------
 
-Last Modified: 29th August 2023
+Last Modified: 23rd September 2024
 
 This Notice applies to the websites at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
@@ -300,7 +300,7 @@ To the extent there is any conflict between the EU-U.S. Data Privacy Framework P
 
 ##### Commitment to the EU-US Data Privacy Framework Principles
 
-Digital Science US participates in the EU-US Data Privacy Framework and the UK Extension to the EU-US Data Privacy Framework and has certified to the U.S. Department of Commerce its compliance with the DPF Principles regarding the processing of EU Personal Data. Digital Science US is responsible for the processing of EU Personal Data, and remains liable for its onward transfer to third parties acting as agents on our behalf, in accordance with the DPF Principles.
+Digital Science US participates in the EU-US Data Privacy Framework and the UK Extension to the EU-US Data Privacy Framework and has certified to the U.S. Department of Commerce its compliance with the DPF Principles regarding the processing of EU Personal Data. Digital Science US is responsible for the processing of EU and UK Personal Data, and remains liable for its onward transfer to third parties acting as agents on our behalf, in accordance with the DPF Principles.
 
 For purposes of enforcing compliance with the EU-US Data Privacy Framework and the UK Extension to the EU-US Data Privacy Framework, Digital Science US is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
@@ -348,7 +348,7 @@ If any part of Overleaf is made available on or through third party websites or 
 
 If you would like any further information, or have any questions or concerns, regarding your personal data, as a first step, please email us at [privacy@overleaf.com](mailto:privacy@overleaf.com) or write to us at _Digital Science UK Limited, 4 Crinan Street, London, United Kingdom, N1 9XW, United Kingdom_.
 
-If you are located within the EEA, you may also contact our EU representative: _DS Digital Science GmbH, Lochnerstraße 17, Köln, 50674, Germany_ (marked “FAO Overleaf GDPR Representative”).
+If you are located within the EEA, you may also contact our EU representative: _DS Digital Science GmbH, Gänsheidestraße 26, 70184 Stuttgart, Germany_ (marked “FAO Overleaf GDPR Representative”).
 
 You have the right to make a complaint at any time to your local supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns in the first instance.
 
