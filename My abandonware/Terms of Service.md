@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Gauntlet II](https://www.myabandonware.com/game/gauntlet-ii-no)
-* [Goal! Goal! Goal!](https://www.myabandonware.com/game/goal-goal-goal-jy3)
-* [Gaplus](https://www.myabandonware.com/game/gaplus-62w)
-* [Funky Fish](https://www.myabandonware.com/game/funky-fish-hak)
-* [Ghouls 'N Ghosts](https://www.myabandonware.com/game/ghouls-n-ghosts-64h)
+* [Killer Comet](https://www.myabandonware.com/game/killer-comet-sgn)
+* [Long Beach](https://www.myabandonware.com/game/long-beach-sgm)
+* [Logic Pro Adventure](https://www.myabandonware.com/game/logic-pro-adventure-sgl)
+* [LiberoGrande](https://www.myabandonware.com/game/liberogrande-sgk)
+* [Liberator](https://www.myabandonware.com/game/liberator-sgj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Madeline: Classroom Companion - 1st & 2nd Grade Reading](https://www.myabandonware.com/game/madeline-classroom-companion-1st-2nd-grade-reading-ksu)
-* [Disney's The Emperor's New Groove: Groove Center](https://www.myabandonware.com/game/disney-s-the-emperor-s-new-groove-groove-center-3j2)
-* [A Stellar Trek](https://www.myabandonware.com/game/a-stellar-trek-nxa)
+* [PokéROM: Togepi](https://www.myabandonware.com/game/pokerom-togepi-fu3)
+* [Hit Pack #1](https://www.myabandonware.com/game/hit-pack-1-klh)
+* [Katerpillar Attack](https://www.myabandonware.com/game/katerpillar-attack-ono)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
