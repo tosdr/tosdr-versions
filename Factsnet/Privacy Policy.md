@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![38 Facts About The Middle Ages ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2292%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/38-facts-about-the-middle-ages/)
+[![50 Facts About Nichrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-nichrome/)
 
-History
+Chemistry
 
-22 Sep 2024
+23 Sep 2024
 
-[38 Facts About The Middle Ages](https://facts.net/history/38-facts-about-the-middle-ages/)
+[50 Facts About Nichrome](https://facts.net/science/chemistry/50-facts-about-nichrome/)
 
-[![30 Facts About Zanazziite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-zanazziite/)
+[![33 Facts About Rapid Expansion ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/33-facts-about-rapid-expansion/)
 
-Earth Sciences
+General
 
-22 Sep 2024
+23 Sep 2024
 
-[30 Facts About Zanazziite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-zanazziite/)
+[33 Facts About Rapid Expansion](https://facts.net/general/33-facts-about-rapid-expansion/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
