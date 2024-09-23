@@ -13,7 +13,7 @@ If this is not what you’re looking for,
 
 : :
 
-Renew and get **50% off\***
+Renew and get **50% off**
 
 : :
 
@@ -160,7 +160,7 @@ Protection
 
 [Cybersecurity solutions for Windows](https://www.pandasecurity.com/en/platforms/windows/) [Cybersecurity solutions for Android](https://www.pandasecurity.com/en/platforms/android/) [Cybersecurity solutions for Mac](https://www.pandasecurity.com/en/platforms/mac/) [Cybersecurity solutions for iOS](https://www.pandasecurity.com/en/platforms/ios/)
 
-Special offer: Renew and get 50% off\*
+Special offer: Renew and get 50% off
 
 ![image](/rfilescms/Teaser/RET/pandasecurity-girl-modal-desktop.webp)
 
@@ -176,11 +176,11 @@ Customer ID
 
 Renew at a discount
 
-Renew and get 50% off\*
+Renew and get 50% off
 
 ![image](/rfilescms/Teaser/RET/pandasecurity-generic-modal-desktop.webp)
 
-Only available for 72 hours!
+Only available for 48 hours!
 
 : :
 
@@ -192,7 +192,7 @@ Customer ID
 
 Renew at a discount
 
-Special offer: Renew and get 50% off\*
+Special offer: Renew and get 50% off
 
 ![image]( /rfilescms/Teaser/RET/ojos.gif)
 
@@ -206,7 +206,7 @@ Customer ID
 
 Renew at a discount
 
-Special offer: Renew and get 50% off\*
+Special offer: Renew and get 50% off
 
 ![image](/rfilescms/Teaser/RET/teaser_rnw_misterysale.png)
 
@@ -220,7 +220,7 @@ Customer ID
 
 Renew at a discount
 
-Special offer: Renew and get 60% off\*
+Special offer: Renew and get 60% off
 
 ![image](/rfilescms/Teaser/RET/pandasecurity_teaser_modal_back_to_security_desktop.webp)
 
@@ -230,15 +230,13 @@ Only available for 48 hours!
 
 : :
 
-\*For home users only
-
 Email 
 
 Customer ID 
 
 Renew at a discount
 
-Special offer: Renew and get 50% off\*
+Special offer: Renew and get 50% off
 
 ![image](/rfilescms/Teaser/RET/pandasecurity_paid_sales_teaser_b.webp)
 
@@ -247,8 +245,6 @@ Only available for 48 hours!
 : :
 
 : :
-
-\*For home users only
 
 Email 
 
