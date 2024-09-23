@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to mandic](https://www.backup4all.com/how-to-backup-your-data-to-mandic-kb.html)  
+* [What is block level backup](https://www.backup4all.com/what-is-block-level-backup-kb.html)  
     
-* [How to backup your data to HubiC](https://www.backup4all.com/how-to-backup-your-data-to-hubic-kb.html)  
+* [How to backup your data to Wasabi](https://www.backup4all.com/how-to-backup-your-data-to-wasabi-kb.html)  
     
-* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
+* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
     
-* [How to activate Backup4all Monitor](https://www.backup4all.com/how-to-activate-backup4all-monitor-kb.html)  
+* [How to schedule a backup job in the New Backu ...](https://www.backup4all.com/how-to-schedule-a-backup-job-in-the-new-backup-wizard-kb.html)  
     
-* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
+* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
     
 
 Choose language:
