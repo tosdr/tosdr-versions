@@ -501,6 +501,10 @@ Revised June 1, 2022
 
   [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
+[How China’s dominance of solar and batteries is impacting Japan’s energy transition](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
+
+  [![Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421263.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.")](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
+
 Podcast
 -------
 
@@ -520,9 +524,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,23 +568,17 @@ Latest News
 
 [Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
-4 hours ago
+10 hours ago
 
 [Kibbutz visit stirs grim memories of Israeli family slain on Oct. 7](https://www.japantimes.co.jp/news/2024/09/23/world/kibbutz-visit-israeli-family-oct-7/ "Kibbutz visit stirs grim memories of Israeli family slain on Oct. 7")
 
-5 hours ago
+11 hours ago
 
 [Top Japanese and Chinese officials hold talks in wake of deadly stabbing](https://www.japantimes.co.jp/news/2024/09/23/japan/crime-legal/vice-foreign-minister-china-stabbing/ "Top Japanese and Chinese officials hold talks in wake of deadly stabbing")
 
-6 hours ago
-
 [Former PM Yoshihiko Noda elected new leader of main opposition CDP](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
 
-7 hours ago
-
 [Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
