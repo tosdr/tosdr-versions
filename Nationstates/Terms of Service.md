@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [For the Religious: Do you have a favo… (11)](https://forum.nationstates.net/viewtopic.php?t=555610&f=20&view=unread#unread ""For the Religious: Do you have a favorite liturgical tune?" (11 posts)")
-* [Create a Military Strategy Against AN (25)](https://forum.nationstates.net/viewtopic.php?t=555130&f=25&view=unread#unread ""Create a Military Strategy Against AN" (25 posts)")
-* [Your nation's punishment for the abov… (2,714)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (2,714 posts)")
-* [What triggers you about the AN? (7,998)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (7,998 posts)")
-* [UK Politics Thread: Conservative Lead… (11,130)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,130 posts)")
+* [Transformers: Electric Trepidation (8,090)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (8,090 posts)")
+* [Summarise AN's flag in one word (1,308)](https://forum.nationstates.net/viewtopic.php?t=548700&f=25&view=unread#unread ""Summarise AN's flag in one word" (1,308 posts)")
+* [Based on the flag, what language(s) d… (11,474)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,474 posts)")
+* [Guess AU's favorite irl country (320)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (320 posts)")
+* [How dangerous is AN’s national animal¿ (361)](https://forum.nationstates.net/viewtopic.php?t=551880&f=25&view=unread#unread ""How dangerous is AN’s national animal¿" (361 posts)")
 
 Advertisement
 
