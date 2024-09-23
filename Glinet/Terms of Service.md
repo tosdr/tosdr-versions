@@ -42,7 +42,7 @@
     
 * [Business](https://www.gl-inet.com/business/)
     
-    [eSIM Solution](https://www.gl-inet.com/solutions/esim/) [Tailored Network Solutions for SMBs](https://www.gl-inet.com/solutions/smb/) [RV Connectivity Solution](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network Solution](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [4G LTE Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud IoT Device Management System](https://www.gl-inet.com/solutions/goodcloud/) [Site-to-Site for Work & Business](https://www.gl-inet.com/solutions/site-to-site/) [White Label and Customization Service](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Routers](https://www.gl-inet.com/solutions/vpn/) [Use Cases](https://www.gl-inet.com/usecases/)
+    [eSIM Solution](https://www.gl-inet.com/solutions/esim/) [Tailored Network Solutions for SMBs](https://www.gl-inet.com/solutions/smb/) [Thread Border Router](https://www.gl-inet.com/solutions/thread-border-router/) [RV Connectivity Solution](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network Solution](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [4G LTE Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud IoT Device Management System](https://www.gl-inet.com/solutions/goodcloud/) [Site-to-Site for Work & Business](https://www.gl-inet.com/solutions/site-to-site/) [White Label and Customization Service](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Routers](https://www.gl-inet.com/solutions/vpn/) [Use Cases](https://www.gl-inet.com/usecases/)
     
 * [Community](https://www.gl-inet.com/community/)
     
