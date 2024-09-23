@@ -251,7 +251,7 @@ Je découvre](https://www.ornikar.com/financer-permis-cpf)
 
 [**_Voir les versions précédentes_**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#versions-precedentes)
 
-**Dernière mise à jour le 2 septembre 2024**
+**Dernière mise à jour le 23 septembre 2024**
 
 Les présentes conditions générales de vente ont pour objet de définir les modalités et conditions applicables à la vente en ligne des biens et services proposés sur le site internet [**www.ornikar.com**](https://www.ornikar.com/) édité par la société MARIANNE FORMATION, société par actions simplifiée au capital de 25.936,35 euros, dont le siège social se situe au 170 Boulevard de la Villette Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, disposant d’un établissement sis 12 rue Charles Brunellière à Nantes (44100) immatriculé au RCS de Nantes sous le numéro 799 351 887 00036, exerçant sous l’enseigne ORNIKAR, inscrite en tant qu’organisme de formation sous le numéro de déclaration d’activité 11 75 60689 75 et autorisée à exploiter, sous le numéro E16 044 0009 0, un établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière selon arrêté délivré le 31 mars 2016 et renouvelé le 2 février 2021. MARIANNE FORMATION est légalement représentée par Monsieur Benjamin Gaignault, son Président.
 
@@ -338,7 +338,7 @@ Les différentes versions des CGV sont mises à disposition sur notre Site à l�
 **ARTICLE 4.     Produits et Services proposés**
 ------------------------------------------------
 
-Conformément aux articles L. 111-1 et L. 111-2 du Code de la consommation, notre Société présente sur le Site un descriptif détaillé de ses Produits et Services et des prix correspondants permettant au Client, avant la prise de Commande définitive, de connaître leurs caractéristiques essentielles. Le Client déclare en avoir pris connaissance préalablement à sa Commande.
+Conformément aux articles L. 111-1 et L. 111-2 du Code de la consommation, notre Société présente sur le Site un descriptif détaillé de ses Produits et Services et des prix correspondants permettant au Client, avant la prise de Commande définitive, de connaître leurs caractéristiques essentielles. Le Client déclare en avoir pris connaissance préalablement à sa Commande. Notre Société se réserve le droit de proposer au Client certains Produits et Services (_accessibles depuis ou en dehors du Site_) en fonction du degré de complétion de sa formation.
 
 De plus, par les présentes, Nous informons le Client, au titre de l’article L. 111-1 du Code de la consommation que nos Produits et Services disposent des fonctionnalités nécessaires eu égard à leurs finalités ; de la capacité de fonctionner normalement avec du matériel et logiciel informatique usuel. L’intégralité de nos Produits et Services fonctionnent sans restriction d’installation de logiciel.
 
@@ -659,6 +659,42 @@ Après l’obtention du Code de la route, la formation en conduite accompagnée 
 Le prix de la formule « Pack conduite accompagnée Boîte Automatique » se trouve en Annexe 1.
 
 Cette formule est valable pour une durée de vingt-quatre (24) mois à compter de la Commande.
+
+‍
+
+#### 4.2.3.8 Formule « Pack Permis 30h Boît Manuelle : 30 heures de conduite + Elearn (sans Code de la Route) » : 
+
+Ce pack comprend : 
+
+* trente (30) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section ;
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.2.3.9 Formule « Pack Permis 20h Boîte Automatique : 20 heures de conduite + Elearn (sans Code de la Route) » : 
+
+Ce pack comprend : 
+
+* vingt (20) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section ;
+
+Le prix de cette formule se trouve en Annexe 1.
 
 ‍
 
@@ -992,21 +1028,17 @@ En cas d'échec, et après accord entre les parties sur vos besoins, Notre Soci�
 **ARTICLE 5.     Commande de Produits et Services sur le Site**
 ---------------------------------------------------------------
 
-### **5.1.        Création d’un compte**
+### **5.1.        Création et utilisation d’un compte**
 
 La passation d’une Commande sur notre Site nécessite que Vous créiez un Compte. Les modalités de création sont détaillées dans les Conditions générales d’utilisation (CGU) : [**https://www.ornikar.com/a-propos/conditions-generales-d-utilisation**](https://www.ornikar.com/a-propos/conditions-generales-d-utilisation)
 
-‍
-
 Lors de la création de votre Compte, nous Vous demandons d'enregistrer les éléments suivants : nom, prénom, date de naissance, nom de votre représentant légal si vous êtes mineur, adresse postale et numéro de téléphone. 
-
-‍
 
 Le traitement et l'utilisation de ces éléments est décrit dans la Politique  de Confidentialité ([**https://www.ornikar.com/a-propos/charte-de-confidentialite**](https://www.ornikar.com/a-propos/charte-de-confidentialite)). 
 
-‍
+Si Vous le souhaitez, Vous pouvez vous inscrire sur la liste d'opposition au démarchage téléphonique proposée par Bloctel [**sur leur site**](https://conso.bloctel.fr/). Conformément à l’article L. 223-1 du Code de la consommation, l'inscription à ce service est gratuite pour les consommateurs.
 
-Si Vous le souhaitez, Vous pouvez vous inscrire sur la liste d'opposition au démarchage téléphonique proposée par Bloctel [**sur leur site**](https://conso.bloctel.fr/). Conformément à l’article L. 223-1 du Code de la consommation, l'inscription à ce service est gratuite pour les consommateurs.  
+Le Compte constitue un espace personnel strictement réservé à l’usage exclusif du Client. Toute cession, transfert ou utilisation du Compte par un tiers est strictement interdite et pourra entraîner l’application de sanctions par la Société.  
   
 
 ### **5.2.        Passation de Commande**
@@ -1149,8 +1181,7 @@ Pour les achats réalisés via le CPF vous êtes soumis à leurs conditions de r
 **ARTICLE 6.     Conditions financières**
 -----------------------------------------
 
-**6.1.        Prix**
---------------------
+### **6.1.  Prix**
 
 Les prix affichés sur notre Site sont indiqués en euros, toutes taxes comprises. Ces tarifs tiennent compte de la TVA applicable au jour de la Commande. Le montant total dû est indiqué sur la page de confirmation de votre Commande. Le prix des Produits et des Services est celui en vigueur au jour de la Commande. Notre Société se réserve le droit de modifier ses prix à tout moment, tout en Vous garantissant l’application du prix du Produit et/ou du Service en vigueur au jour de la Commande.
 
@@ -1169,28 +1200,23 @@ Pour les achats non financés par le CPF si Vous avez acheté vos leçons de con
 * **Mise à niveau « à la hausse »** : Vous souhaitez conduire dans une zone géographique « plus chère » avec une leçon de conduite achetée dans une zone « moins chère ». Dans ce cas, si Vous réservez un créneau dans une zone « plus chère », Vous devrez accepter le paiement d’une majoration correspondant à la différence entre la valeur de vos heures de conduite et le prix (a minima) d’une heure de conduite sur la nouvelle zone, tel que définit en Annexe 1. Cette majoration pourra prendre la forme : soit d’un paiement de votre part de la différence tarifaire de ces heures de conduite, soit d’un nouvel achat d’heure(s) de conduite sur la nouvelle zone, suivi d’un remboursement du même nombre d’heure(s) sur l’ancienne zone, à condition que vous en ayez fait la demande expresse auprès de notre service client.
 * **Mise à niveau « à la baisse »** : Vous souhaitez conduire dans une zone géographique « moins chère » avec une leçon de conduite achetée dans une zone « plus chère », dans ce cas votre leçon est utilisable et Vous ne pourrez être remboursé de la différence.
 
-### **  
-6.2. Offres Promotionnelles en dehors des offres CPF**
-
-Notre Société se réserve la possibilité de proposer ponctuellement des offres promotionnelles sur ses Produits et/ou Services à l’égard de ses Clients.
-
-Toute offre promotionnelle sera soumise aux présentes CGV qui prévaudront en cas de désaccord ou d’incohérence entre les termes de l’offre promotionnelle et ceux des CGV.
-
-Les conditions et informations relatives à ces offres promotionnelles sont disponibles sur le Site. Notre Société se réserve le droit de modifier à tout moment les termes des offres promotionnelles, proposer d’autres offres promotionnelles ponctuelles, ou de retirer ces dernières.
+### **6.2. Offres Promotionnelles et opérations de parrainage (_exclues des offres CPF_)**
 
 ‍
 
-Les offres promotionnelles ne sont pas cumulables entre elles, ne peuvent pas être échangées contre leur valeur monétaire ou être remboursées en partie ou dans leur totalité.
+Notre Société se réserve la possibilité de proposer ponctuellement des offres promotionnelles et des opérations de parrainage (_ci-après définies les “Offres” ou l’“Offre”_) sur ses Produits et/ou Services à l’égard de ses Clients.
 
-‍
+Toute Offre  sera soumise aux présentes CGV qui prévaudront en cas de désaccord ou d’incohérence entre les termes de l’offre promotionnelle et ceux des CGV.
 
-Le prix applicable à une Commande est celui en vigueur au jour de l’achat. La parution d’offres promotionnelles postérieurement à cette date ne peut en aucun cas donner lieu à réclamation par les Clients ou annulation de leur Commande. 
+Les conditions et informations relatives à ces Offres sont disponibles sur le Site. 
 
-‍
+Notre Société se réserve le droit de modifier à tout moment les termes des Offres, proposer d’autres offres ponctuelles, ou de retirer ces dernières.
 
-Certaines offres promotionnelles peuvent être conditionnées par la saisie d’un code qui devra être saisi par les Clients lors de la passation de leur Commande. Ces codes ne peuvent être utilisés qu’une seule fois par le Client pendant leur durée de validité.
+Les Offres ne sont pas cumulables entre elles , ne peuvent pas être échangées contre leur valeur monétaire ou être remboursées en partie ou dans leur totalité.
 
-‍
+Le prix applicable à une Commande est celui en vigueur au jour de l’achat. La parution d’Offres postérieurement à cette date ne peut en aucun cas donner lieu à réclamation par les Clients ou annulation de leur Commande. 
+
+Certaines Offres peuvent être conditionnées par la saisie d’un code qui devra être saisi par les Clients lors de la passation de leur Commande. Ces codes ne peuvent être utilisés qu’une seule fois par le Client pendant leur durée de validité.
 
 ###   
 **6.3.        Modalités de paiement en dehors des achats CPF**
@@ -1411,9 +1437,9 @@ De plus, notre Société et les Enseignants sont des parties indépendantes.
   
 Les Enseignants sont des professionnels indépendants, agissant en leur nom et pour leur propre compte. Les Enseignants choisissent librement les modalités pratiques et organisationnelles selon lesquelles ils réalisent les leçons de conduite, sous réserve de les exécuter conformément aux règles de l’art et à la réglementation. Notre Société ne saurait donc être considérée comme employeur d’un Enseignant.
 
-‍
-
 En outre, conformément à l’article 1218 du Code civil, la responsabilité de notre Société ne saurait être engagée, d’une façon générale, dans tous les cas où l'inexécution ou la mauvaise exécution de ses prestations et/ou obligations résulterait d'un cas de force majeure ou cas fortuit indépendant de sa volonté.
+
+En outre, le Client s'engage à se conformer à l'ensemble des lois et réglementations en vigueur qui lui sont applicables. En cas de manquement à cette obligation, la Société se réserve le droit de procéder à la fermeture du Compte du Client, sans que celui-ci ne puisse prétendre à un quelconque remboursement ou indemnité.
 
 Enfin, les Parties ne pourront être tenues responsables d’éventuels préjudices indirects, c’est-à-dire ceux qui ne résultent pas directement et exclusivement de leur fait (à titre d’exemple, sans que cette liste ne soit exhaustive : la perte de chance, le manque à gagner, etc.).
 
@@ -1468,7 +1494,7 @@ Annexe 1 – Grille tarifaire
 
 ### Achats hors CPF
 
-Une tarification différente peut vous être appliquée en fonction de la zone géographique (1 à 24) dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit : [**télécharger la grille tarifaire avec les différentes zones**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66d56800191137864f162a8e_CGV%20Ornikar%20-%20Annexe%201%20-%20Grille%20tarifaire%20-%20Hors%20CPF%20(1).pdf).
+Une tarification différente peut vous être appliquée en fonction de la zone géographique (1 à 24) dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit : [**télécharger la grille tarifaire avec les différentes zones**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f1301b916e112a60798365_CGV%20Ornikar%20-%20Annexe%201%20-%20Grille%20tarifaire%20-%20Hors%20CPF%20-%2023.09.2024.pdf).
 
 ‍
 
@@ -1506,6 +1532,7 @@ _(\*) Rayez si mention inutile._
 Versions précédentes
 --------------------
 
+* [**Version applicable du 2 septembre 2024 au 22 septembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f131c92f26f5317dfcd356_CGV%20Ornikar%2002%3A09%3A2024.pdf)
 * [**Version applicable du 1er aout 2024 au 1er septembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66ab855b8c4f060acdbe28c6_CGV%201er%20aou%CC%82t%202024.pdf)
 * [**Version applicable du 17 juin 2024 au 31 juillet 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66ab855b8c4f060acdbe28c6_CGV%201er%20aou%CC%82t%202024.pdf)
 * [**Version applicable du 28 mai 2024 au 16 juin 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a85b5f02034320e24b_CGV_2024_05_28.pdf)
