@@ -130,6 +130,7 @@ Full Menu Menu
         * [Alternative and Nontraditional Schools](https://www.fcps.edu/academics/alternative-and-nontraditional-schools)
         * [Adult and Community Education (ACE)](https://www.fcps.edu/academics/adult-and-community-education-ace-overview)
         * [Multi-tiered Systems of Support/Responsive Instruction](https://www.fcps.edu/academics/multi-tiered-systems-supportresponsive-instruction)
+        * [Special Education](https://www.fcps.edu/special-education-instruction)
     
 * Get Involved
     
