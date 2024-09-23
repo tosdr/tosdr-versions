@@ -67,6 +67,8 @@
     
 * [Calendar](https://mydramalist.com/episode-calendar)
 
+We are performing scheduled database maintenance, which may cause temporary downtime. We appreciate your patience and apologize for any inconvenience.
+
 Terms of Use
 ============
 
