@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [Tackling your key challenges from the ICO Data Protection Practitioner's Conference](https://www.onetrust.com/resources/tackling-your-key-challenges-from-the-ico-data-protection-practitioners-conference-webinar/)
-* [APAC - Third-party risk management and due diligence: What’s the difference and why does it matter?​](https://www.onetrust.com/resources/apac-third-party-risk-management-and-due-diligence-whats-the-difference-and-why-does-it-matter-webinar/)
-* [Navigating the intersection: Third-party risk management in South Africa's evolving data landscape](https://www.onetrust.com/resources/navigating-third-party-risk-management-in-south-africa-webinar/)
+* [Proven ROI with OneTrust](https://www.onetrust.com/resources/proven-roi-with-onetrust/)
+* [Discover the economic benefits of OneTrust](https://www.onetrust.com/resources/discover-the-economic-benefits-of-onetrust-report/)
+* [The complete guide to third-party management](https://www.onetrust.com/resources/the-complete-guide-to-third-party-management-ebook/)
 
 ### Platform
 
