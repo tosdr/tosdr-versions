@@ -14,8 +14,7 @@
         
     * Desktop Apps
         
-        * [How Does It Work](https://www.overwolf.com/creators/build-an-app/)
-        * [Getting started](https://dev.overwolf.com/ow-native/getting-started/overview/)
+        * [App Creators](https://www.overwolf.com/creators/build-an-app/)
         * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
         * [Supported games](https://www.overwolf.com/supported-games/)
         * [Dev Discord](https://discord.gg/overwolf-developers)
@@ -182,7 +181,7 @@ Overwolf, Ltd.
 
 * ##### Creators
     
-    * [Build an app](https://www.overwolf.com/creators/build-an-app/)
+    * [App Creators](https://www.overwolf.com/creators/build-an-app/)
     * [Publish a mod](https://authors.curseforge.com/welcome/)
     * [Monetize game server](https://www.tebex.io/)
     * [Monetize your website](https://nitropay.com/)
