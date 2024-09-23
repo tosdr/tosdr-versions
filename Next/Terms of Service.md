@@ -1,6 +1,6 @@
 5.38.13
 
-1727102980286
+1727124821245
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727102196528
+1727124201965
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727102005508
+1727123494376
 
 You need to enable JavaScript to run this app.
 
@@ -542,6 +542,24 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### 15% off Homeware terms
+
+1. Offer available to selected customers, criteria predefined by Next Retail Limited.
+2. Your offer will be communicated to you and automatically added to your account at our discretion.
+3. Offer valid across all Homeware items.
+4. This offer will be available between 00:01 on 24/09/2024 until 23:59 on 31/10/2024.
+5. You must be logged into your customer account. The offer can only be used by the account holder. .
+6. Where there are multiple offers available on items ordered, the offer with the biggest cash saving will be applied.
+7. Promotion discount applied will be apportioned across all qualifying items (identified above).
+8. The offer can only be used once per customer.
+9. The offer is for online purchases only.
+10. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+11. The discount cannot be exchanged for cash and no refund or change will be given..
+12. Usual delivery times, methods and charges and returns policy apply.
+13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+14. The promoter is Next Retail Limited , Desford Road, Enderby, Leicester, LE19 4AT.
+15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### 3 wick candles for £20 Selected Bath and Body Works Promotion
 
@@ -2444,7 +2462,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727102115636
+1727123620332
 
 ### Our Social Networks
 
