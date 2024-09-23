@@ -113,11 +113,6 @@ Advertisement
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
     
     WWII From Space
@@ -128,6 +123,11 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
     The War On Drugs: The Prison Industrial Complex
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Crime Inc: Hallucinogens](/wp-content/thumbnails/6507-100x70.png?x53432)
+* [![Man on Mars: Mission to the Red Planet](/wp-content/thumbnails/8610-100x70.jpg?x53432)
     
-    Crime Inc: Hallucinogens
+    Man on Mars: Mission to the Red Planet
     
-    Deep in the Amazon, Rob a former Wall Street broker turned healer has created a free clinic of sorts, administering the highly potent narcotic ayahuasca to trauma patients.](https://documentaryheaven.com/crime-inc-hallucinogens/ "Crime Inc: Hallucinogens")
-* [![The Panama Deception](/wp-content/thumbnails/2125-100x70.jpg?x53432)
+    Mars, the red planet, we have long wondered if it has ever sustained life. Some have dreamt of walking on its surface but more than four decades after they landed on the Moon, NASA are imagining a two](https://documentaryheaven.com/man-on-mars-mission-to-red-planet/ "Man on Mars: Mission to the Red Planet")
+* [![Barrack Obama Biography](/wp-content/thumbnails/202-100x70.png?x53432)
     
-    The Panama Deception
+    Barrack Obama Biography
     
-    Years before the US went after Saddam Hussein, the White House had Manuel Noriega, another former ally, in its sights. In their Oscar-winning documentary, director Barbara Trent and writer/editor Davi](https://documentaryheaven.com/the-panama-deception/ "The Panama Deception")
-* [![Behind The Big News: Propaganda and the CFR](/wp-content/thumbnails/2197-100x70.jpg?x53432)
+    When he called himself "a skinny kid with a funny name" at the 2004 Democratic National Convention, his political star was already on the rise. By the time he decimated the competition in 2004 race fo](https://documentaryheaven.com/barrack-obama-biography/ "Barrack Obama Biography")
+* [![50 Cent: Who Dares Wins](/wp-content/thumbnails/6656-100x70.jpg?x53432)
     
-    Behind The Big News: Propaganda and the CFR
+    50 Cent: Who Dares Wins
     
-    The executives, the editors in print media, the senior producers, executive producers in the visual media – these are the people who have the ideological bias and what’s probably almost as important –](https://documentaryheaven.com/behind-the-big-news-propaganda-and-the-cfr/ "Behind The Big News: Propaganda and the CFR")
-* [![The Fantastic Mr. Feynman](/wp-content/thumbnails/12016-100x70.jpg?x53432)
+    After years of struggle, false starts, and a debut album that never came out following an attempt on his life, 50 Cent became the biggest new star in hip-hop in 2003 with the release of his album, whi](https://documentaryheaven.com/50-cent-who-dares-wins/ "50 Cent: Who Dares Wins")
+* [![Secrets of the Tang Treasure Ship](/wp-content/thumbnails/4977-100x70.jpg?x53432)
     
-    The Fantastic Mr. Feynman
+    Secrets of the Tang Treasure Ship
     
-    Richard Feynman born May 11, 1918 was an American theoretical physicist, best known for his work in the he is considered one of the most iconic, influential and inspiring scientists of the 20th c](https://documentaryheaven.com/fantastic-mr-feynman/ "The Fantastic Mr. Feynman")
-* [![Usain Bolt: The Fastest Man Alive](/wp-content/thumbnails/8751-100x70.jpg?x53432)
+    Historians have long speculated that thousands of wooden ships plied a Maritime Silk Route from the Middle East to China, braving long distances on white-capped seas, but time and the deep ocean have](https://documentaryheaven.com/secrets-of-the-tang-treasure-ship/ "Secrets of the Tang Treasure Ship")
+* [![Skrillex: Let’s Make a Spaceship](/wp-content/thumbnails/9254-100x70.png?x53432)
     
-    Usain Bolt: The Fastest Man Alive
+    Skrillex: Let’s Make a Spaceship
     
-    This BBC Three documentary is an personal portrait of Usain Bolt, a professional sprinter who is currently classed as the fastest man in the world because of his performance in the 2009 which saw him](https://documentaryheaven.com/usain-bolt-fastest-man-alive/ "Usain Bolt: The Fastest Man Alive")
+    This film from RedBull Music is a glimpse into the world of Skrillex, giving us a behind the scenes look at how the Dubstep artist designed and developed his latest live show and set that he debuted a](https://documentaryheaven.com/skrillex-lets-make-spaceship/ "Skrillex: Let’s Make a Spaceship")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
