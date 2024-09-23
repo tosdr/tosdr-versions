@@ -85,7 +85,7 @@ Web Services
 
 * E   [digital@gov.je](mailto:digital@gov.je)
 
-Modernisation and Digital  
+Digital Services  
 Jubilee Wharf  
 24 The Esplanade  
 St Helier  
