@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/elma-drayer-dom-blondje-en-complotdenker/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/een-volk-van-verraders-incl-zuckerberg/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
