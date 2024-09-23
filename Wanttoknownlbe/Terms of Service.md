@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-weerstand-tegen-de-cbdc-wordt-zichtbaar/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/van-kanker-via-bde-naar-leven/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
