@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great support as usual. You guys are doing a first class job.
+Thanks so much for your brilliantly quick and efficient response!
 
-Frederic Delaroche
+Jaci Stephen
