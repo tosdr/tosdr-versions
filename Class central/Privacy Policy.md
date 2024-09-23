@@ -413,11 +413,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. psychology
+1. English
     
-2. javascript
+2. psychology
     
-3. finance
+3. project management
     
 
 Popular subjects
