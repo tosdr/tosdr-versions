@@ -140,6 +140,24 @@ Menu
         * [Go to Shop Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef)
         
     
+* [Shop Whole Cuts](https://mls.om/pages/whole-cut)
+    
+    * Back
+        
+    * [Shop Whole Cuts](https://mls.om/pages/whole-cut)
+    * [Shop Whole Cuts](https://mls.om/pages/whole-cut)
+        
+        * [Shop All Whole Cuts](https://mls.om/collections/whole-cuts)
+        * [Shop Boneless Beef Whole Cuts](https://mls.om/collections/boneless-beef-whole-cuts)
+        * [Shop Bone-In Beef Whole Cuts](https://mls.om/collections/bone-in-beef-whole-cuts)
+        * [Shop Beef Brisket Whole Cuts](https://mls.om/collections/beef-brisket-whole-cuts)
+        * [Shop Lamb Rack](https://mls.om/collections/lamb-rack)
+        * [Shop Lamb Boneless](https://mls.om/collections/lamb-boneless)
+        * [Shop Lamb Shoulder](https://mls.om/collections/lamb-shoulder)
+        * [Shop Lamb Leg](https://mls.om/collections/lamb-leg)
+        * [Go to Shop Whole Cuts](https://mls.om/pages/whole-cut)
+        
+    
 * [Shop Poultry & Camel](https://mls.om/pages/fresh-poultry)
     
     * Back
