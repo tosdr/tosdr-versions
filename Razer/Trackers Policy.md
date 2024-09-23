@@ -115,7 +115,7 @@ Switch to
             -------
             
             * [Razer USB-C Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-c-dock)
-            * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma/)
+            * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma)
             * [Razer Laptop Stand Chroma (USB-A Hub)](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma)
             * [Razer Laptop Stand Chroma V2 (USB-C Hub)](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma-v2)
             
@@ -555,11 +555,11 @@ Switch to
         Product Line
         ------------
         
-        * [Razer Aether Monitor Light Bar](https://www.razer.com/gamer-room-lights/razer-aether-monitor-light-bar/)
-        * [Razer Aether Lamp Pro](https://www.razer.com/gamer-room-lights/razer-aether-lamp-pro/)
-        * [Razer Aether Lamp](https://www.razer.com/gamer-room-lights/razer-aether-lamp/)
+        * [Razer Aether Monitor Light Bar](https://www.razer.com/gamer-room-lights/razer-aether-monitor-light-bar)
+        * [Razer Aether Lamp Pro](https://www.razer.com/gamer-room-lights/razer-aether-lamp-pro)
+        * [Razer Aether Lamp](https://www.razer.com/gamer-room-lights/razer-aether-lamp)
         * [Razer Aether Light Strip](https://www.razer.com/gamer-room-lights/razer-aether-light-strip)
-        * [Razer Aether Light Bulb](https://www.razer.com/gamer-room-lights/razer-aether-light-bulb/)
+        * [Razer Aether Light Bulb](https://www.razer.com/gamer-room-lights/razer-aether-light-bulb)
         
     * Content Creation
         
@@ -818,11 +818,10 @@ Switch to
         -------
         
         * [All Software](https://www.razer.com/pc/software)
-        * [Razer Synapse 3](https://www.razer.com/synapse-3)
-        * [The New Razer Synapse](https://www.razer.com/synapse-new)
+        * [Razer Synapse](https://www.razer.com/synapse-4)
         * [Razer Chroma RGB](https://www.razer.com/chroma)
         * [Razer Cortex Game Launcher](https://www.razer.com/cortex)
-        * [Razer Axon](https://www.razer.com/software/axon)
+        * [Razer Axon Wallpaper Creator](https://www.razer.com/software/axon)
         * More Software
             
             Product Line
@@ -958,7 +957,7 @@ Switch to
         -------
         
         * [All Controllers](https://www.razer.com/mobile/controllers)
-        * [Razer Kishi Ultra](https://www.razer.com/mobile-controllers/razer-kishi-ultra/)
+        * [Razer Kishi Ultra](https://www.razer.com/mobile-controllers/razer-kishi-ultra)
         * [Razer Kishi V2 Pro](https://www.razer.com/mobile-controllers/razer-kishi-v2-pro)
         * [Razer Kishi V2 USB C](https://www.razer.com/mobile-controllers/razer-kishi-v2)
         * [Razer Kishi V2 for iPhone (Lightning)](https://www.razer.com/mobile-controllers/razer-kishi-v2)
