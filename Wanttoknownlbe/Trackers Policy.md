@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/mega-corona-flater-hugo-de-jonge-hcq-werkt-wel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/de-aarde-is-plat-en-wij-zien-ze-vliegen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
