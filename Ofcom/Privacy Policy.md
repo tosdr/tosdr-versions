@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![bbc ceefax web1](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ceefax-web1.jpg?width=1920&height=1085&quality=80)
+
+### Marking 50 years since Ceefax - the ‘horse-drawn internet’ - was launched
+
+23 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/marking-50-years-since-ceefax-the-horse-drawn-internet-was-launched/)
+
 [![Spectrum Paris 2024](/siteassets/resources/images/-news-centre/body-images/2024/ofcom-sets-gold-medal-standard-at-paris-games/spectrum-paris-2024-thumbnail-1336--560px.jpg?width=1920&height=1085&quality=80)
 
 ### Ofcom sets gold medal standard at Paris Games
@@ -150,12 +156,6 @@
 ### New ten-year public service broadcast licences for Channel 3 and Channel 5
 
 12 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-psb-licences-for-c3-and-c5/)
-
-[![A Wi-Fi router on a desk](/siteassets/resources/images/-news-centre/thumbnail-images/broadband/broadband-check-social.png?width=1920&height=1085&quality=80)
-
-### Simpler broadband switching is here
-
-12 September 2024](https://www.ofcom.org.uk/phones-and-broadband/switching-provider/simpler-broadband-switching-is-here/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
