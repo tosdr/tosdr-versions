@@ -30,15 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240923T161715/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240923T161715/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_360x203.jpg)](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a)
         
-        #### [Davenport health center to expand mental health and substance abuse services with federal support](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
+        #### [Illinois DOT hiring seasonal snow removal help](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a) [![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a)
         
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb)
+        #### [Looking for work? Illinois DOT hiring seasonal snow removal help](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a)
+    *  [![](https://media.tegna-media.com/assets/WZZM/images/bb2afbd9-68ae-4a38-9811-40363c7c8c53/20240521T152015/bb2afbd9-68ae-4a38-9811-40363c7c8c53_16x9.jpg) ![](https://media.tegna-media.com/assets/WZZM/images/bb2afbd9-68ae-4a38-9811-40363c7c8c53/20240521T152015/bb2afbd9-68ae-4a38-9811-40363c7c8c53_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/calamus-wheatland-elementary-student-injured-in-accident-at-bus-stop-district-says/526-8c39a641-25b9-4be4-bb55-8fbcc41cf6f0)
         
-        #### [Inmate dies at Scott County Jail, sheriff says](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb) [![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb)
+        #### [Elementary student airlifted after being hit by car at Clinton County school bus stop](https://www.wqad.com/article/news/local/public-safety/calamus-wheatland-elementary-student-injured-in-accident-at-bus-stop-district-says/526-8c39a641-25b9-4be4-bb55-8fbcc41cf6f0)
         
-        #### [Scott County Jail inmate dies from medical condition, sheriff says](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -57,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d85b4c34-7291-4e39-872c-41c456c1b639/20240923T121421/d85b4c34-7291-4e39-872c-41c456c1b639_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d85b4c34-7291-4e39-872c-41c456c1b639/20240923T121421/d85b4c34-7291-4e39-872c-41c456c1b639_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/47dbc25b-3169-4d8e-a698-346e947f2e54/20240923T220453/47dbc25b-3169-4d8e-a698-346e947f2e54_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/47dbc25b-3169-4d8e-a698-346e947f2e54/20240923T220453/47dbc25b-3169-4d8e-a698-346e947f2e54_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Stray shower or two likely through Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A few showers for parts of the area overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.wqad.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
         
-        #### [When is the first day of fall?](https://www.wqad.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
+        #### [Major storm warnings issued for Florida, Southeast US as Hurricane Helene is expected to form](https://www.wqad.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-66°
+67°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
