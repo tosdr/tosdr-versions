@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your customer service has always been so good!
+I love your service and have helped numerous friends get set up with you.
 
-Mark Evans
+Sarah Hoffman
