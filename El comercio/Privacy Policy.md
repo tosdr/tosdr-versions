@@ -31,6 +31,563 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro
+=============================================================================
+
+Emelec derrotó con buen fútbol a Técnico Universitario y, de a poco, mejora su imagen y desempeño en la segunda etapa de Liga Pro.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Tommy Chamba celebra su gol con Emelec en el triunfo ante Técnico Universitario.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240922128654-fbl-ligapro-emelec-tecnico-1-scaled.jpg)
+
+**Emelec** se impuso por un marcador de 3-1 ante **Técnico Universitario** después de su última derrota frente a Independiente del Valle. El equipo eléctrico consiguió la victoria como local y escala en la tabla en medio de una temporada irregular.
+
+La llegada de **Leonel Álvarez** empieza a dar efecto en el ‘Bombillo’ y su juego empieza a mostrarse consolidado después de siete fechas. Pese a la derrota previa, el conjunto del entrenador colombiano ya había ganado los dos cotejos que la antecedieron.
+
+### Más noticias:
+
+* [Aucas rompió una extraordinaria racha en Liga Pro](https://www.elcomercio.com/deportes/aucas-cumbaya-racha-victoria-liga-pro.html "Aucas rompió una extraordinaria racha en Liga Pro")
+* [Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto](https://www.elcomercio.com/deportes/deportivo-cuenca-barcelona-liga-pro-gol-minuto.html "Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto")
+* [Liga de Quito igualó con El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/deportes/partido-en-vivo-liga-quito-nacional-liga-pro.html "Liga de Quito igualó con El Nacional en un clásico de la Liga Pro")
+
+El triunfo de los **guayaquileños** frente al ‘Rodillo Rojo’ constituyó el tercero dentro de la segunda etapa, pues los otros cuatro choques terminaron en derrota. Tal victoria puso a la escuadra millonaria en la **decimotercera posición** de la vigente ronda, pues antes le fueron descontados tres puntos debido a deudas incumplidas.
+
+En el caso de Técnico Universitario, este se mantiene por encima de **Emelec** a pesar de su derrota. El equipo ambateño ocupa la novena posición con **10 unidades**. Los dos elencos pelean por meterse en un torneo internacional en 2025.
+
+Los jóvenes de Emelec pusieron el triunfo en la Liga Pro
+--------------------------------------------------------
+
+Dos jugadores que emergen fueron los encargados de poner a ganar a Emelec en el compromiso y de forma tempranera. **Diogo Bagüí**, canterano del equipo, y **Tommy Chamba** fueron los encargados de poner los primeros tantos.
+
+**Bagüí**, de 19 años, apareció a los cuatro minutos e inauguró el marcador. El defensor sacó un derechazo desde fuera del área y puso el gol inicial.
+
+En la misma etapa inicial, **Tommy Chamba**, de la misma edad de Bagüí, fue quien puso la segunda anotación en el marcador. El volante recibió un centro desde la banda derecha y remató de zurda tras parar el balón. Emelec se fue al descanso con **2-0.**
+
+Técnico Universitario descontó y Emelec remató
+----------------------------------------------
+
+En la segunda mitad del compromiso, el **Técnico Universitario** mostró su ímpetu para intentar rematar el partido, pero al mínimo intento, este fue neutralizado por los duelos de casa. El ‘Rodillo’ consiguió descontar, mas instantáneamente cayó otro tanto de **Emelec**.
+
+Tras una contra a los 55′, **Elvis Patta** consiguió adentrarse en el área y sacar un derechazo que puso el 2-1. 10 minutos después, **Juan Pablo Rúiz Gómez** puso el 3-1 con el que selló el triunfo.
+
+Netanyahu eleva el tono contra Hizbulá tras golpear ciudades de Israel
+======================================================================
+
+El primer ministro israelí, Benjamín Netanyahu, advirtió a Hizbulá que entenderá las consecuencias tras una escalada de ataques entre ambas partes.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los combatientes de Hezbollah llevan el ataúd del comandante de Hizbulá, Ibrahim Akil, que murió en un ataque israelí el 20 de septiembre. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/libano.jpg)
+
+El primer ministro israelí, **Benjamín Netanyahu**, elevó su tono este domingo 22 de septiembre de 2024 contra el grupo **chií libanés Hizbulá**. Les advirtió que si aún no “ha entendido el mensaje” tras la escalada de ataques de los últimos días, pronto “lo entenderá”.
+
+### Más noticias
+
+* [Nueve fallecidos y 59 heridos por el ataque israelí a las afueras de Beirut](https://www.elcomercio.com/actualidad/mundo/nueve-fallecidos-59-heridos-ataque-israeli-afueras-beirut.html "Nueve fallecidos y 59 heridos por el ataque israelí a las afueras de Beirut")
+* [Benjamín Netanyahu se pronuncia tras explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/netanyahu-se-pronuncia-explosiones-libano.html "Benjamín Netanyahu se pronuncia tras explosiones en Líbano")
+* [Al menos nueve fallecidos y 300 heridos por las nuevas explosiones en el Líbano](https://www.elcomercio.com/actualidad/menos-nueve-fallecidos-300-heridos-nuevas-explosiones-libano.html "Al menos nueve fallecidos y 300 heridos por las nuevas explosiones en el Líbano")
+
+“En los últimos días, hemos infligido a **Hizbulá** una secuencia de golpes que no se imaginaba”, dijo Netanyahu en hebreo en un breve mensaje en vídeo. “Si Hizbulá no ha entendido el mensaje, os prometo que lo entenderá”, añadió.
+
+Las palabras del jefe de gobierno israelí llegaron horas después de que el grupo libanés disparara unos **150 proyectiles** contra territorio israelí. Los mismos que en su mayoría fueron interceptados, pero algunos de ellos lograron impactar en el distrito de **Haifa** por primera vez en meses, a 60 kilómetros de la frontera. El hecho dejó heridos y daños, según informó el Ejército.
+
+El **grupo libanés**, aliado de **Irán**, reivindicó estos ataques como parte de su “**respuesta inicial**” a las explosiones de miles de dispositivos de comunicación entre las filas de Hizbulá hace días, atribuidas a Israel. Estos dejaron más de **30 combatientes muertos**.
+
+La formación libanesa insiste en que sus ataques iban dirigidos contra una **fábrica de armamento israelí** y una base militar.
+
+Algunas viviendas de otros puntos del norte del país también fueron dañadas con la caída de algún proyectil y de restos de intercepciones.
+
+Durante la noche del sábado 21 de septiembre de 2024, Israel también **lanzó intensos bombardeos** contra varias aldeas del sur del Líbano. Al menos, tres personas murieron.
+
+Colegios del norte cerrados en Israel
+-------------------------------------
+
+El **Ministerio de Educación** ordenó la suspensión de la jornada escolar de este domingo en los centros educativos del norte. La suspensión se mantendrá también para este lunes ante la posibilidad de que se produzcan nuevos ataques por parte de **Hizbulá**.
+
+Se espera que el Ministerio de Educación examine este lunes 23 de septiembre por la tarde la actual situación junto con el Comando del Frente Interior del Ejército.
+
+Euforia por los golpes contra Hizbulá
+-------------------------------------
+
+“La semana pasada fue la más difícil en la historia de Hizbulá”, señaló este domingo el ministro de Defensa de Israel, **Yoav Gallant.** Estas declaraciones las hizo durante su evaluación de la situación en el norte junto al Comando Norte del Ejército y junto al mayor general, **Ori Gordin**.
+
+El titular de Defensa no mencionó las explosiones de los miles de dispositivos de comunicación en manos de miembros de Hizbulá. Pero sí saco pechó del bombardeo israelí del pasado viernes 20 de septiembre contra un edificio residencial en un suburbio de Beirut que dejó al menos **45 personas muertas**.
+
+“La acción adoptada por el Ejército en **Dahye** (nombre del suburbio) es significativa, importante y poderosa”, dijo, en referencia a las muertes del comandante **Ibrahim Aqil** y de **Ahmed Wahbi**, dirigente del cuerpo de élite las **Fuerzas Radwan**. Esto confirmó la formación libanesa en este ataque israelí.
+
+En este sentido, **Sarit Zehavi**, exteniente coronel y directora del Instituto Alma, explicó que acabar con altos cargos de la formación libanesa es la única manera “de frenar a una organización terrorista que tiene más experiencia que **Hamás**“.
+
+“Si queremos que haya un ‘día de después’ en esta zona, tenemos que asegurarnos que solo haya un Estado de Líbano”, reiteró Zehavi.
+
+El vicesecretario general de Hizbulá, **Naim Qassem**, por su parte, también advirtió que el movimiento libanés ha entrado en “**una nueva fase de ajuste de cuentas**” con Israel. Además, dijo que el grupo se ha hecho “más fuerte”, pese al bombardeo israelí que el viernes mató a más de una docena de **altos cargos** de la formación en **Beirut**.
+
+La situación en la **frontera entre Israel y Líbano** vive su momento más crítico desde el estallido de la guerra en Gaza, cuando comenzó el intercambio de fuego cruzado entre ambas partes. Y la comunidad internacional teme una guerra regional en vista de que cada vez hay menos espacio para la vía diplomática.
+
+En Galápagos se descubre una especie al borde de la extinción
+=============================================================
+
+En Galápagos se descubrió una nueva especie que está en extinción. El hallazgo se hizo en la isla Isabela.
+----------------------------------------------------------------------------------------------------------
+
+![La Dirección del Parque Nacional Galápagos descubrió una especie en extinción en el sur de la isla Isabela.](https://www.elcomercio.com/wp-content/uploads/2024/09/galapagos.jpg)
+
+La **Dirección del Parque Nacional Galápagos** hizo un descubrimiento crucial para la biodiversidad del archipiélago. Se trata de una especie que está al borde de la extinción.
+
+### Más noticias
+
+* [Ecuador es un pequeño refugio de los delfines de la Amazonía](https://www.elcomercio.com/actualidad/ecuador/ecuador-pequeno-refugio-delfines-amazonicos-rosados-grises-amazonia.html "Ecuador es un pequeño refugio de los delfines de la Amazonía")
+* [Leopardo considerado extinto hace 50 años fue avistado en Turquía](https://www.elcomercio.com/tendencias/ambiente/leopardo-extinto-turquia-anatolia.html "Leopardo considerado extinto hace 50 años fue avistado en Turquía")
+* [Delfines de la Amazonía de Ecuador están en la lista roja](https://www.elcomercio.com/actualidad/ecuador/delfines-amazonicos-ecuador-peligro-critico-extincion-amazonia-lista-roja.html "Delfines de la Amazonía de Ecuador están en la lista roja")
+
+Este hallazgo se hizo con la colaboración de organizaciones ambientales, informó el **Ministerio del Ambiente, Agua y Transición Ecológica (Maate).**
+
+Los investigadores descubrieron un nuevo **bosque de _Scalesia cordata_ en el volcán Sierra Negra**, en el **sur de la isla Isabela.**
+
+Esta planta endémica **está en peligro de extinción**, por lo que este descubrimiento renueva las esperanzas de conservación. Su ecosistema disminuyó drásticamente.
+
+> Scalesia es un género de plantas exclusivas de las islas Galápagos. Son 15 especies cuyas hojas tienen diferente forma dependiendo de la isla y la zona climática en la que habitan.
+
+De ellas, 12 son arbustos y 3 son árboles. Se las puede considerar como el correspondiente vegetal de los pinzones y las tortugas gigantes, cuyos picos y caparazones se adaptaron al medio.
+
+El bosque, bautizado como Carpuela, cubre dos hectáreas y alberga una población de 43 árboles adultos, 102 juveniles y 17 plántulas. Todos están en excelente estado de salud.
+
+Estos árboles se suman a un pequeño remanente encontrado en otra área, que cuenta con cuatro adultos distribuidos en 40 metros cuadrados.
+
+El descubrimiento de Carpuela ocurrió durante una jornada de recolección de semillas, con el objetivo de reproducir varias especies en un vivero forestal.
+
+Esta iniciativa busca restaurar los ecosistemas históricos de la _Scalesia cordata_ y otras plantas nativas que han visto su población reducida.
+
+Un hallazgo esperanzador para conservar plantas en extinción
+------------------------------------------------------------
+
+**La _Scalesia cordata_**, conocida por la forma de corazón de sus hojas, e**stá restringida a los volcanes Cerro Azul y Sierra Negra en Isabela.**
+
+Un monitoreo realizado en 2002 estimaba una población de **1 075 árboles, pero en 2019 s**e registró una alarmante disminución a menos del 3% de su población original.
+
+Esto, sumado a la falta de individuos jóvenes, generó gran preocupación entre los conservacionistas.
+
+El trabajo entre **Dirección del Parque Nacional Galápagos, la Fundación Charles Darwin, Galapagos Conservancy y Fundación IO** permite ejecutar proyectos para recuperar esta especie.
+
+Actualmente, se estima una población de **3 000 ejemplares**, distribuidos en 637 hectáreas, tanto dentro como fuera del área protegida.
+
+El descubrimiento de este nuevo bosque marca un hito en la lucha por salvar a la **_Scalesia cordata_.**
+
+Un espectáculo deportivo, familiar y solidario se vivió en la Bimbo Global Race
+===============================================================================
+
+La segunda edición de la Global Bimbo Race en Ecuador se realizó con éxito y una gran donación al Banco de Alimentos.
+---------------------------------------------------------------------------------------------------------------------
+
+![Fernando Moreno (centro), ganador de los 10 km, en la Global Bimbo Race de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000129349.jpg)
+
+La **Bimbo Global Race** se llevó a cabo en Quito, Ecuador y más de 34 países la acogieron durante este domingo 22 de septiembre. El evento, destinado a concentrar a la familia, fomentar la actividad física y contribuir a la alimentación de sectores vulnerables fue un éxito.
+
+El evento contó con más de 2 000 inscritos en el país y a nivel mundial congregó a más de 150 mil corredores. En virtud de la cantidad de participantes, el Grupo Bimbo -organizador de la competencia-había planificado donar **20 rebanadas de pan por cada atleta** al Banco de Alimentos, de forma que se realizará la entrega de más **36 000** de estas.
+
+### Más noticias:
+
+* [La Bimbo Global Race llega a Quito con un fin benéfico y alimentario](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-quito.html "La Bimbo Global Race llega a Quito con un fin benéfico y alimentario")
+* [Glenda Morejón y su reencuentro con Ecuador tras la medalla olímpica](https://www.elcomercio.com/deportes/glenda-morejon-ecuador-medalla-reencuetro-juegos-olimpicos.html "Glenda Morejón y su reencuentro con Ecuador tras la medalla olímpica")
+* [Jessica Palacios Dajomes, bronce en el Mundial Juvenil de Levantamiento de Pesas](https://www.elcomercio.com/deportes/jessica-palabos-bronce-mundial-juvenil-levantamiento-pesas.html "Jessica Palacios Dajomes, bronce en el Mundial Juvenil de Levantamiento de Pesas")
+
+Desde las 07:00, el **Parque Bicentenario** de la capital arrancó con el recibimiento de los deportistas. Hubo quienes debutaron en la competencia, mientras que otros acudieron de forma consecutiva dado que fue la segunda vez que se organizó la **Bimbo Global Race** en Ecuador; antes, el mismo reducto había acogido la carrera en el 2023.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/1000129347-1024x682.jpg)
+
+Entre los primeros actos se llevó a cabo la inauguración del certamen y Esteban de los Ríos, gerente de marketing de Bimbo, recalcó el fin principal de la convocatoria. “**Queremos compartir lo bueno y combatir un problema mundial como es el hambre**“, manifestó tras explicar cómo se procedería en torno a las donaciones.
+
+Una vez que se dio inicio al acto, los presentes también pudieron beneficiarse de una etapa previa de **calentamiento**. Con una especialista que guiaba los movimientos, estos pudieron quedar en óptimas condiciones y pasaron a ubicarse en la línea de salida[.](https://es.wikipedia.org/wiki/Grupo_Bimbo)
+
+La carrera Bimbo Global Race, con participantes motivados y comprometidos
+-------------------------------------------------------------------------
+
+La **Bimbo Global Race** contó con una categoría masculina y femenina y tres modalidades: tres, cinco y 10 kilómetros (km). A su vez, también hubo subcategorías en función de la edad de los participantes, estas conformaron la juvenil, máster, máster 2 (masculino) y senior.
+
+Los arranques dentro de las modalidades entre tres y 10 km se realizaron de forma **escalonada** para que no existan inconvenientes. El disparo de largada y el humo de color azul dieron inicio a la prueba de mayor distancia y a estas les sucedieron las dos restantes de **mayor a menor**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/1000129343-1024x682.jpg)
+
+Entre los participantes se podía presenciar a público de todas las edades. Familias enteras, padres y madres que acudían con sus **hijos, niños, jóvenes y parejas** conformaban un surtido grupo en las diferentes carreras.
+
+La motivación por saber que se apoyaba a una causa solidaria y alimentaria era un patrón recurrente, además de la carrera en sí o las razones deportivas. “**Si tienes una motivación extra de que hay una buena causa detrás de lo que haces y es una excusa para unirte con todos, hay un valor agregado**. Es una excelente oportunidad para que hagas ejercicio, estés en familia, corras con los chiquitos y, más allá de eso, beneficias a una comunidad más grande”, mencionó Juan Sandoval, quien acudió con su esposa y tres de sus hijos.
+
+Carla Espinoza, otra de las participantes, también hizo hincapié en la función de la competencia en torno a lo social. “**Me inscribí porque me gusta el deporte y me gusta ayudar. Es una obra muy linda. El deporte es salud y por qué no ayudar con la inscripción**“, sostuvo.
+
+Ganadores, atletas mundialistas y un medallista olímpico en la carrera Bimbo Global Race
+----------------------------------------------------------------------------------------
+
+El primer participante que cruzó la meta en la Bimbo Global Race fue **Francisco Gaona**, el ganador de la modalidad de los cinco km. En el caso de la de 10 km, prueba reina dentro del evento, el primero fue **Fernando Moreno**.
+
+Después de su triunfo, Gaona conversó con EL COMERCIO y manifestó que participó por segunda ocasión en la **Global Bimbo Race**. En 2023, el atleta había terminado en el podio y en esta oportunidad pudo ganar.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/1000129340-1024x682.jpg)
+
+“**Como atleta, siempre te motiva este tipo de eventos para ve si hemos mejora o no y, por supuesto, para ayudar a las demás personas.** Mis expectativas eran hacer lo mejor y tratar de ganar. Se pudo controlar la carrera de principio a fin”, manifestó.
+
+**Moreno** también brindó su reacción en torno a la carrera. Este hizo énfasis en la logística de esta y la correcta organización con respecto a los corredores.
+
+“**La carrera fue muy planta, no hubo viento y permitió correr muy rápido. Fue bastante puntual, la señalización resultó clara (…) el clima nos acompañó.** Todo resultó chévere desde el día de ayer con la entrega de kits.
+
+La competencia también congregó a **Marcela Peñafiel**, promesa del ciclismo ecuatoriano que estará en el **Mundial** de tal disciplina. Horas antes de su vuelo hacia Suiza, donde representará al país, esta hizo de la Bimbo Global Race un escalón en su preparación para el certamen. Es la primera vez que estoy, me motivó mucho el premio del viaje y competir en 2025 en la Ciudad de México.
+
+**Jefferson Pérez**, exmarchista y doble medallista olímpico también se dio cita en el evento. La leyenda del deporte ecuatoriano, sin embargo, estuvo desde la parte del staff.
+
+Especial premiación y un acto benéfico para la alimentación
+-----------------------------------------------------------
+
+Una vez que todos los participantes cruzaron la meta, un show musical se instaló y cautivó al público. A ello le siguió una sesión de **bailoterapia**, la cual mantuvo en expectativa a los presentes hasta el momento de la premiación.
+
+Los principales homenajeados fueron **Fernando Moreno y María Pastuña**. Ambos resultaron ganadores en la modalidad de 10 kilómetros y se hicieron acreedores a un boleto hacia la próxima Global Bimbo Race en su sede principal con todo incluido.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/1000129341-1024x682.jpg)
+
+Una vez que se brindó el reconocimiento a los dos corredores, quienes se distinguieron en las demás submodalidades y en los cinco y tres kilómetros también tuvieron un galardón. Asimismo, un viaje a **Galápagos** y **10 bicicletas** fueron sorteadas entre todos los inscritos.
+
+El acto de cierre fue la entrega de parte de las más de **36 mil rebanadas** de pan de **Bimbo**, representado por Esteban de los Ríos, al **Banco de Alimentos**. Con ello, la aspiración de aumentar el número de atletas, la acogida y perfeccionar todo lo que sea posible para el 2025 quedó asentada, así como la satisfacción del éxito en la segunda edición.
+
+Cortes de luz sin cronograma definido para este 23 de septiembre de 2024
+========================================================================
+
+El Gobierno de Daniel Noboa reanudó los cortes de luz programados por la baja generación en centrales hidroeléctricas.
+----------------------------------------------------------------------------------------------------------------------
+
+![Este 22 de septiembre de 2024, las autoridades realizaron una inspección técnica en el embalse de Mazar. Foto: Secretaría de Riesgos](https://www.elcomercio.com/wp-content/uploads/2024/09/mazar-nota.jpg)
+
+El **Gobierno de Daniel Noboa** retomó lo**s cortes de luz programados** este domingo 22 de septiembre de 2024. La medida responde a la escasa generación en las principales **centrales hidroeléctricas** afectadas por la **sequía**. Se prevé que la suspensión del **servicio eléctrico** continúe este lunes 23 de septiembre.
+
+### Más noticias
+
+* [Cortes de luz en 12 provincias en Ecuador, este es el cronograma](https://www.elcomercio.com/actualidad/negocios/12-provincias-tendran-cortes-de-luz-domingo-22-de-septiembre-del-2024.html "Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma")
+* [Cortes de luz son en franjas horarias](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-domingo-sectorizado-franjas.html "Cortes de luz de este domingo son sectorizados y en franjas horarias")
+* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
+
+Sin embargo, hasta las 18:30 de este 22 de septiembre de 2024, las autoridades no han informado sobre el **cronograma y los sectores** que serán afectados por los **cortes de luz**, durante la última semana de septiembre.
+
+La **Secretaría de Comunicación** señaló la noche del sábado 21 de septiembre que el **Comité de Operaciones de Emergencia** (COE) Nacional evaluará la situación este domingo al mediodía. Y anunciará “las mediadas complementarias que sean necesarias”.
+
+De hecho, varias autoridades visitaron la mañana de este domingo el **embalse de Mazar**, una de las presas de agua más grande del país. Este reservorio alimenta el complejo hidroeléctrico del río Paute, que genera más del 30% de la electricidad del Ecuador y está afectado por la sequía.
+
+> En línea con las acciones estratégicas del COE Nacional, acompañamos a la presidenta del COE en un recorrido por la represa Mazar.  
+>   
+> ➡️Esta inspección técnica nos permitió obtener datos esenciales sobre el estado del embalse,+ [pic.twitter.com/5WpbuEKlVJ](https://t.co/5WpbuEKlVJ)
+> 
+> — Riesgos Ecuador (@Riesgos\_Ec) [September 22, 2024](https://twitter.com/Riesgos_Ec/status/1837917389939225056?ref_src=twsrc%5Etfw)
+
+Las decisiones sobre los cortes de luz
+--------------------------------------
+
+Inicialmente, se informó que desde el lunes 23 hasta el jueves 26 de septiembre de 2024 se realizarían **cortes de luz** durante las noches. Entre las 22:00 y las 06:00 de la mañana siguiente. Los apagones serían de entre 2 y 6 horas por **sector y el cronograma** debía ser socializado por las **empresas eléctricas** distribuidoras de cada ciudad. Sin embargo, esto podría cambiar.
+
+La ciudadanía espera información oficial, ya que el sábado 21 de septiembre de 2024, el COE Nacional, tras una reunión de emergencia en **Cuenca**, decidió a última hora realizar **cortes de luz** en 12 de las 24 provincias del país. La falta de planificación impidió que las familias y empresas tomar precauciones ante los apagones.
+
+Además, el Gobierno señaló que está tomando decisiones para afrontar la crisis. Entre ellas, el “bombardeo de nubes” para provocar lluvias y la contratación de barcazas de generación eléctrica. Asimismo, pidió a la ciudadanía confiar en que estas medidas darán buenos resultados y mitigarán el problema energético.
+
+Horror en Durán, se hizo justicia por mano propia
+=================================================
+
+Los habitantes de Durán hicieron justicia por mano propia este domingo 22 de septiembre de 2024. La Policía investiga el hecho, informó.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![La Policía investiga qué ocurrió con un hecho de justicia por mano propia en Durán.](https://www.elcomercio.com/wp-content/uploads/2024/09/duran.jpg)
+
+Los ciudadanos de d**os sectores del cantón Durán** participaron en un horrible hecho de justicia por mano propio este domingo 22 de septiembre de 2024.
+
+### Más noticias
+
+* [Gritos tras disparos en un centro comercial de Quito](https://www.elcomercio.com/actualidad/seguridad/gritos-disparos-centro-comercial-quito-robo-dinero.html "Gritos tras disparos en un centro comercial de Quito")
+* [Lo que se sabe del hombre colgado en el parque de Cayambe](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-hombre-colgado-parque-cayambe.html "Lo que se sabe del hombre colgado en el parque de Cayambe")
+* [Un hombre fue linchado y colgado en el parque central de Cayambe](https://www.elcomercio.com/actualidad/un-hombre-fue-linchado-y-colgado-en-el-parque-central-de-cayambe.html "Un hombre fue linchado y colgado en el parque central de Cayambe")
+
+La **Policía Nacional** informó que **“ante los hechos violentos suscitados en diferentes lugares de #Durán, #Guayas, unidades investigativas fueron desplegadas inmediatamente”.**
+
+No existe más información detallada. Solo se conoce que los **peritos de Criminalística** acudieron a d**os barrios de Durán** para hacer las investigaciones sobre la situación de inseguridad en la zona.
+
+Según informaciones preliminares, los ciudadanos de los **sectores Oramas González y Los Helechos** tomaron una decisión sobre tres personas. Se presume que eran delincuentes.
+
+No se conocen las causas para el linchamiento de estas personas no identificadas.
+
+Esto se sabe del linchamiento en Durán
+--------------------------------------
+
+Solo se conoce que los habitantes de los **dos sectores populares de Durán** cometieron un **ajusticiamiento por mano propia.**
+
+Se desconoce qué ciudadanos participaron en el linchamiento de las tres personas.
+
+En dos escenarios distintos, **tres personas recibieron varios disparos**. Luego, quemaron los cuerpos. No hay información oficial sobre si se incineraron a las tres personas o solo son dos.
+
+En las imágenes de las redes sociales se observa que los peritos de Criminalística hacen el levantamiento de dos cadáveres. La Policía localizó un cadáver **en la cooperativa Oramas González y los otros dos, en Los Helechos.**
+
+A través de redes sociales se difunden videos de este hecho. Los habitantes de uno de los barrios lanzan agua para apagar el fuego en el que ardía uno de los cadáveres. No hay más detalles sobre cómo la gente de Durán hizo justicia por mano propia[.](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador")
+
+> INFORMAMOS ||  
+>   
+> Ante los hechos violentos suscitados en diferentes lugares de [#Durán](https://twitter.com/hashtag/Dur%C3%A1n?src=hash&ref_src=twsrc%5Etfw),[#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw), unidades investigativas fueron desplegadas inmediatamente.  
+>   
+> Noticia en desarrollo… [pic.twitter.com/etNgAA9noE](https://t.co/etNgAA9noE)
+> 
+> — @PolicíaDMGZona8 (@PoliciaDMGZona8) [September 22, 2024](https://twitter.com/PoliciaDMGZona8/status/1837977823970984310?ref_src=twsrc%5Etfw)
+
+Otro hecho de justicia por mano propia
+--------------------------------------
+
+El **sábado 14 de septiembre, un hombre fue colgado** y expuesto desde uno de los edificios del parque central de **Cayambe, Pichincha.**
+
+Según información de la **Policía Nacional**, en Cayambe, los moradores de una comunidad retuvieron a dos ciudadanos presuntamente implicados en la desaparición y asesinato de un transportista.
+
+El **transportista, de 45 años, era Patricio Iguango** y desapareció desde el 12 de septiembre. El hombre realizaba fletes con su camioneta en Cayambe.
+
+Uno de los retenidos habría proporcionado información del lugar donde habrían abandonado el cuerpo del transportista. La comunidad lo trasladó a **Oyacoto** para verificar su versión y, efectivamente, hallaron el cuerpo.
+
+La comunidad reaccionó ante la muerte de un transportista
+---------------------------------------------------------
+
+Por eso, atraparon, lincharon y colgaron. De esta manera, e**l pueblo de Cayambe hizo justicia** en contra de un supuesto delincuente. Lo acusan de ser el responsable del asesinato del transportista, que desapareció y luego lo encontraron muerto en **Oyacoto.**
+
+Tras el linchamiento, el hombre fue colgado con sogas en el parque central de Cayambe, delante de un **mural del expresidente Eloy Alfaro.**
+
+La Policía Nacional informó que otro hombre- también linchado- está en una casa de salud, luego de que la comunidad hiciera justicia por mano propia.
+
+Republicanos proponen extender el presupuesto para evitar un cierre de Gobierno en EE.UU.
+=========================================================================================
+
+Mike Johnson presentó un proyecto para extender el presupuesto federal y evitar el cierre del Gobierno el 1 de octubre de 2024. La votación está prevista para este miércoles.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Mike Johnson, presidente de la Cámara de Representantes de los Estados Unidos. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Mike-Johnson.jpg)
+
+El presidente de la Cámara de Representantes de los Estados Unidos (EE.UU.), el republicano **Mike Johnson**, presentó un proyecto de ley para extender el presupuesto de las agencias federales por tres meses, este domingo 22 de septiembre de 2024. Esto con el objetivo de evitar un cierre parcial de la Administración el 1 de octubre, fecha en la que se agotarían los fondos actuales.
+
+### Más noticias
+
+* [Estados Unidos se pronunció sobre una posible presencia militar en Ecuador](https://www.elcomercio.com/actualidad/politica/estados-unidos-pronuncio-posible-presencia-militar-ecuador.html "Estados Unidos se pronunció sobre una posible presencia militar en Ecuador")
+* [Estados Unidos se acerca a las elecciones en medio de intentos de asesinatos y hackeos](https://www.elcomercio.com/actualidad/mundo/estados-unidos-se-acerca-a-las-elecciones-en-medio-de-intentos-de-asesinatos-y-hackeos.html "Estados Unidos se acerca a las elecciones en medio de intentos de asesinatos y hackeos")
+* [Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado](https://www.elcomercio.com/actualidad/mundo/gobierno-venezuela-rechaza-respaldo-estados-unidos-gonzalez-urrutia-machado.html "Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado")
+
+La iniciativa excluye una cláusula que el expresidente **Donald Trump** (2017-2021). El ahora candidato republicano había solicitado incluir nuevos requisitos para los votantes. En la solicitud se pedía que los ciudadanos demuestren su **nacionalidad al registrarse para votar**. Una medida a la que los **demócratas** ya habían expresado su oposición.
+
+Johnson anunció la propuesta en una carta dirigida a sus correligionarios republicanos. Esta se publicó este domingo, apenas ocho días antes de que se agote la **actual financiación discrecional del Gobierno**, cifrada en 1 200 millones de dólares, lo cual ocurriría en la medianoche del 30 de septiembre al 1 de octubre, inicio del próximo año fiscal.
+
+Según un asesor republicano en la **Cámara Baja**, se prevé que **la votación del proyecto de ley** tenga lugar el miércoles 25 de septiembre.
+
+Elecciones presidenciales de Estados Unidos
+-------------------------------------------
+
+Ambas formaciones políticas en el Congreso están interesadas en evitar un cierre administrativo debido a la proximidad de las elecciones del 5 de noviembre. En estos comicios se enfrentarán por la **Casa Blanca Trump** y la **vicepresidenta** y aspirante demócrata **Kamala Harri**s. Además, se elegirán a todos los miembros de la Cámara Baja y a un tercio de los senadores.
+
+“Como la historia ha enseñado y las encuestas actuales confirman, cerrar el Gobierno a menos de 40 días de unas elecciones cruciales sería un acto de **negligencia política**“, afirmó Johnson en su carta.
+
+De aprobarse, el proyecto permitirá que la **Administración se financie hasta el 20 de diciembre**, aplazando cualquier batalla partidista hasta después de las elecciones del 5 de noviembre.
+
+Si los dos partidos no logran aprobar una prórroga presupuestaria, esto conllevaría el **cierre de la mayoría de las agencias gubernamentales**, museos y parques nacionales, mientras que cientos de miles de **funcionarios** se quedarían temporalmente **sin trabajo y sueldo**.
+
+El último cierre de este tipo ocurrió durante la presidencia de Trump y fue, con 35 días (del 22 de diciembre de 2018 al 29 de enero de 2019), el más prolongado de la historia. 
+
+Willian Pacho tuvo su primer tropezón con el PSG
+================================================
+
+Willian Pacho fue titular y jugó los 90 minutos con el PSG, pero no pudo ganar y tuvo su primer tropezón en la liga francesa.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Willian Pacho, jugador ecuatoriano del PSG, en la Ligue One.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-35-1.jpg)
+
+Con muchas rotaciones, embotellado por el orden del rival y en un partido gris, el **PSG** no pasó del empate en su visita al Reims (1-1), y gracias a una aparición fugaz en la segunda parte de **Ousmané Dembélé**, que saltó al terreno de juego desde el banquillo para marcar un tanto que evitó la primera derrota del curso para el actual campeón.
+
+El pleno de victorias en todas las competiciones, la última en la **Liga de Campeones** frente al Girona (1-0), no aseguró el éxito a los hombres de **Luis Enrique**, que se presentaron en el Stade Auguste-Delaune con la seguridad de pelear con garantías por su quinta victoria en la Ligue 1[.](https://es.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club)
+
+### Más noticias:
+
+* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
+* [Willian Pacho debutó en la Champions League con el PSG](https://www.elcomercio.com/deportes/futbol/willian-pacho-debut-champions-league.html "Willian Pacho debutó en la Champions League con el PSG")
+* [Willian Pacho, al equipo del mes en Francia y listo con la Tri](https://www.elcomercio.com/deportes/willian-pacho-once-ideal-francia-ecuador.html "Willian Pacho, al equipo del mes en Francia y listo con la Tri")
+
+El recorrido solvente del PSG en el inicio del curso permitió al técnico del conjunto parisino prescindir de varias piezas importantes en su esquema y que participaron en la derrota del Girona (1-0). A**chraf, Nuno Mendes, Fabián Ruiz y Dembélé**, iniciaron el choque desde el banquillo. Asensio, por lesión, también se quedó fuera. En el once se presentaron Beraldo, Joao Neves, Kang-in Lee, Doué y Kolo Muani como novedades.
+
+En la grada, contemplando las rotaciones de su entrenador, aparecieron lo también lesionados **Donnarumma, Lucas Hernández, Kimpembe y Gonçalo Ramos**. Y, sin toda esa ristra de jugadores importantes, el PSG saltó al terreno de juego con una buena parte de su alineación en la que aparecían algunos nombres de poco relumbrón.
+
+El PSG y Willian Pacho se llevaron una sorpresa desde el inicio
+---------------------------------------------------------------
+
+El **Reims**, un rival incómodo e inmerso en la pelea por dar un salto de calidad para abandonar la zona tranquila de la tabla, llegó a la cita en plena ebullición, con dos victorias consecutivas en el bolsillo (ante Rennes y Nantes) y con ganas de dar la sorpresa ante su afición.
+
+Muy ordenados atrás y con Ito al frente de las operaciones a la hora de contragolpear, el Reims sorprendió al **PSG** en la primera parte. Dejó pocos huecos, apenas cedió dos ocasiones a su rival y marcó en la única de la que dispuso para marcharse al descanso por delante del marcador.
+
+Consiguió su gol gracias a la conexión japonesa **Ito-Nakamoura**, en la que un centro desde la banda derecha del primero sirvió al segundo para revolverse ante la pasividad de **Marquinhos** y fusilar a **Safonov**.
+
+Apenas habían pasado diez minutos desde el inicio del choque y el Reims ya mandaba en el choque. La respuesta del **PSG** fue pobre y con pocos argumentos. Embarrado en la falta de verticalidad, apenas pudo empatar con un zurdazo desde el punto de penalti de **Kang-in Lee** y con un disparo de Doué. En ambos casos, respondió **Diouf** con dos buenas intervenciones.
+
+Dembelé logró salvar el empate con el cuadro francés
+----------------------------------------------------
+
+**Luis Enrique** no agitó el banquillo hasta el minuto 65, cuando Dembélé saltó al terreno de juego para ocupar el hueco de **Doué**. Hasta entonces, la tónica del choque fue la misma: atasco del PSG y aguante del Reims, que acariciaba un premio muy goloso, el de propiciar al conjunto parisino su primera derrota del curso.
+
+Entonces, la salida de **Dembélé** fue decisiva cuando a falta de veinte minutos para el final el ex jugador del **FC Barcelona** remató casi sin ángulo un centro envenenado de Joao Neves con el que consiguió superar a Diouf. A la tercera fue la vencida. El portero del Reims, ya no pudo salvar a su equipo y el PSG respiró tranquilo aunque no satisfecho.
+
+La aparición de **Dembélé** permitió a su equipo sumar un punto. El **PSG** no perdió, pero tampoco convenció. No hizo más hasta el final. Ni siquiera murió en la orilla de la victoria porque el Reims no se lo permitió. Ahora, la ausencia de los tres puntos permitirá al **Marsella** gozar de una oportunidad de oro para igualar al equipo de **Luis Enrique** en la cabeza de la tabla: si gana al Lyon este domingo, ambos equipos compartirán liderato en Francia.
+
+Alineaciones del PSG y el Reims
+-------------------------------
+
+**Reims**: Diouf; Buta; Kipre; Agbadou, Akieme; Munetsi, Atangana Edoa (Teuma, min. 77), Fofana (Sangui, min. 67); Ito, Diakité (Khadra, min. 79) (De Smet, min. 88) y Nakamura (Salama, min. 78).
+
+**PSG**: Safonov; Zaire-Emery, Marquinhos, Pacho, Beraldo (Mendes, min. 83); Kang-in Lee (Mayulu, min. 83), Vitinha (Fabián Ruiz, min. 70), Joao Neves; Doué (Dembélé, min. 65), Kolo Muani y Barcola.
+
+Jessica Palacios Dajomes, bronce en el Mundial Juvenil de Levantamiento de Pesas
+================================================================================
+
+Jessica Palacios, hermana de Neisi Dajomes y Angie Palacios, se hizo con una nueva medalla en el Mundial Juvenil de Levantamiento de pesas.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Jessica Palacios Dajomes con la medalla de bronce en el Mundial Juvenil de Pesas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-34-1.jpg)
+
+**Jessica Palacios Dajomes**, hermana de Neisi Dajomes y Angie Palacios, empieza a destacar en la esfera internacional en representación de ecuador. La pesista consiguió la medalla de bronce en el Mundial Juvenil de Levantamiento de Pesas.
+
+Con **Dajomes y Palacios** ya consolidadas y con el título de medallistas olímpicas, Palacios Dajomes busca seguir sus pasos. Este domingo 22 de septiembre de 2024, la joven tricolor consiguió la distinción en León, España.
+
+### Más noticias:
+
+* [Neisi Dajomes y Angie Palacios recibieron sus viviendas en Quito](https://www.elcomercio.com/deportes/juegos-olimpicos/neisi-dajomes-angie-palacios-casa.html "Neisi Dajomes y Angie Palacios recibieron sus viviendas en Quito")
+* [Neisi Dajomes pide mayor apoyo al deporte nacional tras Juegos Olímpicos](https://www.elcomercio.com/deportes/neisi-dajomes-apoyo-juegos-olimpicos.html "Neisi Dajomes pide mayor apoyo al deporte nacional tras Juegos Olímpicos")
+* [Angie Palacios, medallista olímpica, debuta en la música](https://www.elcomercio.com/tendencias/entretenimiento/angie-palacios-medallista-olimpica-debut-musical.html "Angie Palacios, medallista olímpica, debuta en la música")
+
+La ecuatoriana quedó en el tercer puesto por detrás de la colombiana **Ingrid Segura** y la estadounidense **Katherin Step**. Ella levantó 98 kilogramos (kg) en la modalidad de arranque y 120 en la de envión, por lo que consiguió 218 puntos; sus rivales cosecharon 222 y 231 unidades.
+
+Palacios Dajomes participó en la categoría de 64 kg dentro del certamen que la ubicó en el podio. Dentro del Mundial también estuvo presente la tricolor **Brithany Moncayo**, quien quedó sexta en la categoría de 59 kg[.](https://es.wikipedia.org/wiki/Campeonato_Mundial_de_Halterofilia)
+
+Un éxito más para Jessica Palacios Dajomes
+------------------------------------------
+
+A sus 18 años, el bronce conseguido en la cita mundialista se suma a otra serie de resultados positivos para la hermana de Neisi y Angie. **Palacios Dájomes** también cuenta con tres medallas de plata en el **Campeonato Panamericano Juvenil Sub 20** de su disciplina.
+
+Sus mayores distinciones, sin embargo, van más allá y, a su vez, posee preseas doradas y marcas regionales dentro de su carrera. En el **Sudamericano de Levantamiento de Pesas de 2023**, donde participó en la serie sub-17, se hizo con el oro e impuso récords sudamericanos y panamericanos.
+
+Dentro del **Mundial Juvenil de 2023**, Palacios ocupó un podio, pues consiguió una tripleta de medallas de plata en dicho evento. De igual forma, en el **Mundial Prejuvenil** del mencionado año se hizo con el mismo galardón en tres ocasiones.
+
+El máximo certamen de halterofilia internacional también la vio en **2022**. Allí esta consiguió su primer bronce a nivel global y, en la modalidad de arranque, fue la mejor.
+
+Una dinastía de pesistas y medallistas para Ecuador
+---------------------------------------------------
+
+**Jessica Palacios** **Dajomes** es la menor con respecto a sus hermanas **Neisi Dajomes y Angie Palacios**. La mayor y más laureada es Dajomes, quien también es doble medallista olímpica.
+
+Neisi Dajomes hizo historia en los **Juegos Olímpicos de Tokio 2020+1** cuando ganó el oro y se convirtió en la primera ecuatoriana en lograr tal distinción. En **París 2024**, la atleta volvió y consiguió una medalla de bronce.
+
+**Angie Palacios** también estuvo en las dos citas olímpicas. En la primera consiguió un diploma y en la segunda también se hizo con el bronce.
+
+Los romances no tan conocidos del elenco de ‘Friends’
+=====================================================
+
+Feliz cumpleaños, 'Friends', Recordamos sus 30 años con un repaso por los romances del elenco.
+----------------------------------------------------------------------------------------------
+
+![Elenco de 'Friends'. Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-14.jpg)
+
+El 22 de septiembre de 2024 marca un hito especial: **el 30.º aniversario de ‘Friends**‘. Esta icónica serie ha dejado una huella imborrable en la cultura pop.
+
+Desde su estreno en 1994, capturaron los corazones de millones. Los personajes, como **Ross, Rachel, Monica, Chandler, Joey y Phoebe**, siguen siendo queridos por nuevas generaciones.
+
+### Más noticias
+
+* **[‘Shogun’ ¿Es tan buena como dicen?](https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html "https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html")**
+* **[Netflix lanza el tráiler de ‘El Juego del Calamar 2’ con la fecha de estreno](https://www.elcomercio.com/afull/netflix-el-juego-del-calamar-segunda-temporada-trailer-estreno-fecha.html "https://www.elcomercio.com/afull/netflix-el-juego-del-calamar-segunda-temporada-trailer-estreno-fecha.html")**
+
+Las risas y las lecciones sobre la amistad perduran, así como la curiosidad sobre sus vidas personales. Celebremos juntos las tres décadas de la sitcom con un repaso a los romances del elenco de ‘Friends’.
+
+Jennifer Aniston
+----------------
+
+Jennifer Aniston ha tenido romances de alto perfil a lo largo de su carrera. En los años 90, salió con el actor Tate Donovan durante tres años.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-3-1024x683.jpg)
+
+Con el actor Tate Donovan. Foto: Pinterest
+
+Sin embargo, su relación más mediática fue con **[Brad Pitt](https://www.elcomercio.com/afull/angelina-jolie-brad-pitt-festival-venecia.html "https://www.elcomercio.com/afull/angelina-jolie-brad-pitt-festival-venecia.html")**, con quien se casó en el 2000 y se divorció en el 2005, tras intensos rumores de infidelidad con **[Angelina Jolie](https://www.elcomercio.com/afull/venas-angelina-jolie.html "https://www.elcomercio.com/afull/venas-angelina-jolie.html")**.
+
+![Con Brad Pitt. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-1024x683.jpg)
+
+Con Brad Pitt. Foto: Pinterest
+
+Tras la ruptura, Aniston encontró consuelo en Vince Vaughn, pero su romance terminó en diciembre de 2006.
+
+![Con Vince Vaughn](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-1-1024x683.jpg)
+
+Con Vince Vaughn
+
+Más tarde, comenzó una relación con Justin Theroux en 2011, con quien se casó en 2015. La pareja se divorció amistosamente en 2018, manteniendo una relación cordial.
+
+![Con Justin Theroux.](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-2-1024x683.jpg)
+
+Con Justin Theroux.
+
+Courtney Cox
+------------
+
+Courteney Cox tuvo una relación de seis años con **[Michael Keaton](https://www.elcomercio.com/afull/batman-beetlejuice-michael-keaton-cumpleanos-septiembre.html "https://www.elcomercio.com/afull/batman-beetlejuice-michael-keaton-cumpleanos-septiembre.html")** antes de casarse con David Arquette en 1999, a quien conoció durante el rodaje de _Scream_.
+
+![Con Michael Keaton.](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-4-1024x683.jpg)
+
+Con Michael Keaton.
+
+En 2004, la pareja tuvo a su hija Coco Arquette, cuya madrina es Jennifer Aniston.
+
+![Con David Arquette](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-6-1024x683.jpg)
+
+Con David Arquette
+
+Cox y Arquette también fundaron la productora Coquette, pero anunciaron su separación en 2010, tras 11 años de matrimonio, luego de que Arquette admitiera una infidelidad. En 2012, la pareja se divorció oficialmente, y poco después Cox comenzó a salir con el músico Johnny McDaid.
+
+![Con Johnny McDaid.](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-5-1024x683.jpg)
+
+Con Johnny McDaid.
+
+Lisa Kudrow
+-----------
+
+A finales de los años ochenta, Lisa Kudrow tuvo una breve relación con el presentador Conan O’Brien. Desde 1995, está casada con Michel Stern, a quien conoció en el set de _Friends_, y con quien tiene un hijo, Julian Murray, nacido en 1998.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-7-1024x683.jpg)
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-8-1024x683.jpg)
+
+David Schwimmer
+---------------
+
+David Schwimmer mantuvo relaciones con la cantante australiana [Natalie Imbruglia](https://youtu.be/PyKpNBAv1Bw?si=pizlZCRVGb9egBWv "https://youtu.be/PyKpNBAv1Bw?si=pizlZCRVGb9egBWv") y la actriz francesa Emmanuelle Perret, antes de comenzar a salir con la fotógrafa británica Zoe Buckman en 2007.
+
+![Natalie Imbruglia](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-10-1024x683.jpg)
+
+Natalie Imbruglia
+
+En marzo de 2010, anunció su compromiso con Buckman y se casaron en una íntima ceremonia en junio de ese mismo año. La pareja tuvo una hija, Cleo Schwimmer, en mayo de 2011. Tras casi siete años juntos, Schwimmer y Buckman se separaron en 2017.
+
+![Con Emmanuelle Perret](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-9-1024x683.jpg)
+
+Con Emmanuelle Perret
+
+Matt Le Blanc
+-------------
+
+En mayo de 2003, Matt LeBlanc se casó con la exmodelo **[Melissa McKnight](https://www.imdb.com/name/nm1699473/mediaviewer/rm1339464448/?ref_=nm_mi_0_4 "https://www.imdb.com/name/nm1699473/mediaviewer/rm1339464448/?ref_=nm_mi_0_4")**, con quien tuvo una hija, Marina, en 2004. Sin embargo, en 2005, LeBlanc admitió haber tenido un comportamiento “descuidado e irresponsable” con una estríper durante un viaje, lo que afectó su matrimonio.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-11-1024x683.jpg)
+
+Con **[Andrea Anders](https://www.imdb.com/name/nm1627969/?ref_=fn_al_nm_1)**.
+
+La pareja se separó en enero de 2006, y en ese momento LeBlanc ya estaba involucrado con la actriz **[Andrea Anders](https://www.imdb.com/name/nm1627969/?ref_=fn_al_nm_1)**, su compañera en la serie ‘Joey’, pero terminaron en octubre de 2006.
+
+Matthew Perry
+-------------
+
+Matthew Perry salió con la actriz **[Julia Roberts](https://www.elcomercio.com/tendencias/entretenimiento/juliaroberts-sueldo-hollywood-actriz-eeuu.html "https://www.elcomercio.com/tendencias/entretenimiento/juliaroberts-sueldo-hollywood-actriz-eeuu.html")** y con la estrella de ‘**[Baywatch](https://www.imdb.com/title/tt0096542/ "https://www.imdb.com/title/tt0096542/")**‘, [**Yasmine Bleeth**](https://www.imdb.com/name/nm0000109/ "https://www.imdb.com/name/nm0000109/"). También mantuvo una relación con **[Lauren Graham](https://www.instagram.com/laurengraham/ "https://www.instagram.com/laurengraham/")**, protagonista de **[Gilmore Girls](https://www.imdb.com/title/tt0238784/ "https://www.imdb.com/title/tt0238784/")**, aunque ninguna de estas relaciones perduró.
+
+![Con Julia Roberts](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-13-1-1024x683.jpg)
+
+Con Julia Roberts
+
+![Con Julia Roberts](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-12-1024x683.jpg)
+
+Con Lizzy Caplan
+
+Perry siempre buscó relaciones a largo plazo, pero según él, nunca entendió por qué no las encontró. Entre 2006 y 2012, mantuvo una relación con la actriz Lizzy Caplan, siendo esta una de sus relaciones más duraderas. A pesar de sus intentos, la estabilidad en el amor fue esquiva para Perry.
+
 Represa Mazar cambia de estado con las primeras lluvias en el Austro
 ====================================================================
 
@@ -113,7 +670,7 @@ El Gobierno solicitó al sector privado activar sus generadores eléctricos prop
 
 ![Militares realizan controles en las calles de Quito tras el inicio de apagones por crisis energética este miércoles 18 de septiembre de 2024, en Quito. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz.jpg)
 
-El Gobierno de **Daniel Noboa** anunció una serie de **cortes de luz** programados del lunes 23 hasta el jueves 26 de septiembre de 2024. La medida busca a hacer frente a la **crisis energética** que atraviesa el **Ecuador** y que impiden atender la **demanda de energía interna**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+El Comité de Operaciones de Emergencia nacional (COE) anunció **cortes de luz** para 12 provincias desde este domingo 22 de septiembre de 2024. La medida busca a hacer frente a la **crisis energética** que atraviesa el **Ecuador** y que impiden atender la **demanda de energía interna**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
@@ -124,9 +681,13 @@ El Gobierno de **Daniel Noboa** anunció una serie de **cortes de luz** programa
 Días y horas de los cortes de luz
 ---------------------------------
 
-* **Los cortes de luz serán durante las noches**. A diferencia de racionamientos de electricidad en meses pasados, la suspensión del servicio eléctrico se realizará durante las noches, entre las 22:00 hasta las 06:00 del día siguiente. Según el Gobierno, esto supone una menor afectación económica.
-* **Periodo de 2 y 4 horas de suspensión**. Los cortes de luz serán en períodos de 2 a 4 horas por sectores, durante la franja del horario de suspensión nocturna.
-* **El horario de los cortes.** El cronograma de los apagones será publicado por cada una de las empresas eléctricas distribuidoras a través de sus páginas web y redes sociales. Hay nueve empresas que distribuyen electricidad en el Ecuador. Hasta las 18:00 de este viernes 20 de septiembre de 2024, aún no han sido publicados los horarios de los cortes de energía.
+* **Los cortes de luz serán durante el día**. A diferencia de racionamientos de electricidad en meses pasados, la suspensión del servicio eléctrico se realizará entre las 08:00 y las 17:00.
+* **Periodo de suspensión**. Los cortes de luz serán en períodos de tres horas por sectores, durante la franja del horario de suspensión.
+* **El horario de los cortes.** El cronograma de los apagones será publicado por cada una de las empresas eléctricas distribuidoras a través de sus páginas web y redes sociales. Hay nueve empresas que distribuyen electricidad en el Ecuador. Hasta las 14:00 de este domingo 22 de septiembre de 2024, aún no han sido publicados los horarios de los cortes de energía.
+
+> 📌[#SNGRInforma](https://twitter.com/hashtag/SNGRInforma?src=hash&ref_src=twsrc%5Etfw) [https://t.co/6qSD2QgR63](https://t.co/6qSD2QgR63)
+> 
+> — Riesgos Ecuador (@Riesgos\_Ec) [September 22, 2024](https://twitter.com/Riesgos_Ec/status/1837691461229273511?ref_src=twsrc%5Etfw)
 
 Gobierno pide a empresas privadas prender sus generadores
 ---------------------------------------------------------
@@ -558,515 +1119,3 @@ Para el caso **ecuatoriano**, adicionalmente a las **acciones** mencionadas por 
 En realidad, el tema de fondo del **déficit eléctrico** es **estructural** y por ende sería de mediano y/o  largo plazo su solución, problema que se originaría  en el **monopolio** estatal en la **generación**, **transmisión** y distribución de **energía eléctrica**, cuando esto debería ser delegado, por lo menos parcialmente, al **sector privado**, o si no, ¿preguntémonos por qué sí funcionan las **telecomunicaciones** en el país? La respuesta es clara, porque las mismas, en parte, están en manos del **sector privado**. Adicionalmente, no sería menos cierto que, el **sistema** como tal también presenta un serio **problema económico**, ya que, según entendidos, el valor del **kilovatio** hora se lo entregaría subsidiado, es decir, el valor de **generación** y/o compra por parte del **Estado** sería  mayor al precio de venta al **consumidor**, consecuentemente cortar inteligentemente y de manera focalizada ese desfase, mediante el sinceramiento de los **precios** tendría mucho sentido, a efectos de utilizar dichos **recursos** para reparar y/o ampliar los **sistemas** de **generación**, **transmisión** y **distribución**, sin perjuicio del desarrollo de  otras modalidades.
 
 En buena hora, al momento de terminar de escribir esta columna, estaría lloviendo en el sur del país, esperemos suba la cota de **Mazar** que estaría casi al límite en 2.120 msnv; sin embargo, suponer y depender de la divinidad para que no haya **oscuridad** es una barbaridad que raya en la irresponsabilidad, un grave error; y, en ese orden de **ideas**, y aunque sea también un error enfocarse en los culpables y no en las soluciones, está claro en realidad que, la culpa no es de **San Pedro** – con todo respeto – señor **ministro** de **Gobierno**.
-
-Cartas a Quito / 22 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este domingo 22 de septiembre de 2024
----------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Entre el deporte y la política
-------------------------------
-
-Si bien es cierto, los ecuatorianos somos muy noveleros,  los triunfos obtenidos tanto en el futbol como en las otras disciplinas deportivas, al tiempo que nos llenan de orgullo, nos distraen, aletargan y obnubilan al punto que pasamos por alto todos los entuertos de nuestra abominable política que, desde luego, son muy bien aprovechados por sus mágicos y honrados  protagonistas de  “manos limpias” y “corazones ardientes”.
-
-Los miles y millones de dólares desaparecen como por encanto y sus millonarios  propietarios, día a día, se suman a la lista de  víctimas y “perseguidos políticos” y, en algunos casos,  buscan asilo  donde se convierten en protegidos por gente que comulga con sus ideas y pertenece a  sus mismos bandos políticos. Otros se pavonean orondos y descomplicados por el Ecuador y el mundo;  los jueces, por diversas razones,  se ven imposibilitados de hacer justicia y la esperanza de recuperar nuestros dineros se convierten en una verdadera utopía;  mientras los ecuatorianos, tranquilos y distraídos, disfrutamos de los placeres que nos proporciona el fútbol, gritando y aplaudiendo eufóricos los goles de nuestros equipos, en vez de gritar a mansalva y a una sola voz:  ¡DEVUELVAN LO ROBADO!
-
-Bien reza el slogan: Para el pueblo pan y circo y así los mantendremos contentos y distraídos.
-
-¡Increíble!…  ¿Verdad?
-
-Fabiola Carrera A.
-
-Educación socioemocional
-------------------------
-
-La educación no solo se trata de aprender números o historia; también implica conocerse a uno mismo y entender nuestras emociones. En Ecuador, la Educación Socioemocional está tomando protagonismo, buscando formar estudiantes que puedan gestionar sus emociones y relacionarse mejor con los demás.
-
-Incorporar este enfoque en el currículo permite que los estudiantes desarrollen habilidades esenciales como la empatía, la comunicación asertiva y la resiliencia. No basta con ser buenos en matemáticas o lengua y literatura, también es crucial saber cómo enfrentar los desafíos emocionales de la vida diaria.
-
-El Ministerio de Educación de Ecuador ha reconocido la importancia de este tipo de educación, integrándola en las escuelas para formar individuos más equilibrados y con una mayor capacidad de adaptación. Aprender a controlar las emociones no solo beneficia a los estudiantes, sino también a la convivencia escolar.
-
-Por ejemplo, enseñar a un estudiante a reconocer su enojo o tristeza y gestionarlo de manera saludable reduce el acoso escolar y promueve un ambiente de respeto y colaboración. Es un paso clave para crear una sociedad más justa y solidaria.
-
-Además, la Educación Socioemocional ayuda a prevenir problemas como el estrés o la ansiedad, que afectan el bienestar de los estudiantes. Al desarrollar la autoconciencia, los jóvenes pueden enfrentar los retos con más seguridad y serenidad. Como docentes, nuestra labor es acompañar a los estudiantes en este proceso de crecimiento emocional. Debemos enseñarles no solo conocimientos académicos, sino también cómo ser mejores personas. El impacto de esta enseñanza perdurará mucho más allá de las aulas.
-
-La inserción curricular de la Educación Socioemocional es, sin duda, un gran avance en Ecuador. Con ella, estamos sembrando las bases de una generación más empática, resiliente y preparada para enfrentar los desafíos del futuro.
-
-Roberto Camana-Fiallos
-
-Turismo heroico
-===============
-
-Los seguidores de estos líderes, tanto en la ficción como en la realidad, justifican sus errores, incluso cuando afectan gravemente al país, como en la guerra interna que atraviesa Ecuador.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-El camino del **héroe** es un concepto que funciona muy bien en **películas** donde el protagonista es un don nadie que, empujado por los **hechos**, en su mayoría violentos, va asumiendo su rol protagónico y se convierte en un héroe, normalmente respaldado por **profecías sagradas** que indican, cuáles serán las señales que harán saber a la oprimida **población**, quién y cómo es el elegido.
-
-En la última versión de “**Dune**” la **atracción** de la **historia** están en que el supuesto **héroe**, se niega a asumir ese rol y acusa a la **secta religiosa** de su madre, el haber diseminado con siglos de anticipación, la **leyenda** del supuesto elegido, entre el populacho pobre e ignorante. Esa **escena** me recuerda cuando hace décadas en mi **universidad,** contaban **gestas gloriosas** del socialismo en **China** y en Cuba y de lo maravilloso que será en **Ecuador**, cuando está **mágica ideología** que elimina las desigualdades y privilegios, llegué a gobernar el Ecuador, como en efecto pasó y ahora estamos en una **guerra interna**.
-
-En la **película,** finalmente el protagonista asume su liderazgo, pero a diferencia de otras historias donde el **héroe** lucha por la paz y la convivencia, este convoca a una **guerra santa** y manda a asesinar a todos quienes no están de acuerdo con su **mandato** sin importarle que se destruyan **civilizaciones** enteras. Lo que también me recuerda a los miles de personas que fueron perseguidas por la santa inquisición del **socialismo** del siglo XXI y las **semillas de guerra** que esparcieron en todo el **territorio**.
-
-En la **película**, obviamente sus seguidores toman a bien todos los despropósitos del **héroe** y no aceptan nada de quienes duden de su **profética personalidad**. Muy parecido a los **revolucionarios** que no admiten que su mesiánico **líder**, haya cometido error alguno y toleran **mensajes públicos** de barcos de guerra bloqueando el **Golfo** de **Guayaquil** o de bombas e **incendios** en edificios y hoteles, sin importar que eso signifique una **demolición** del **turismo** de Ecuador que motivó a emitir comunicados sobre la supuesta “seguridad” de nuestra planta hotelera.
-
-La siguiente parte de “**Dune**” está en **filmación** y como es de prever, la **violencia** viene a gran escala y el héroe se convertirá en un **personaje** más oscuro y sin **remordimientos**. Algún parecido con algún **político** exiliado, es mera coincidencia. Claro que, de volver su secta al poder, las **consecuencia**s para el Ecuador serán **catastróficas** y el único lenguaje que prevalecerá será el de las armas, que ya hay demasiadas en manos de **criminales** que han encontrado los **mecanismos** para filtrarse en el **sector público** a través del financiamiento de los **partidos** y **movimientos políticos**; o coimando a **funcionarios** que pagan por los puestos donde circulan **contratos**, se evaden **fiscalizaciones** o los contralores desvanecen glosas por miles de millones.
-
-Netflix tiene un destello en su catálogo: ‘Rebel Ridge’
-=======================================================
-
-'Rebel Ridge' explora la lucha del individuo contra el sistema, con un guion técnico y un enfoque en la corrupción y el racismo en la policía.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![La película 'Rebel Ridge' es protagonizada por Aaron Pierre.](https://www.elcomercio.com/wp-content/uploads/2024/09/Rebel-Ridge-pelicula-Netflix.jpg)
-
-‘**Rebel Ridge’** es otro destello de esperanza en el [catálogo de **Netflix**](https://www.netflix.com/us-es/title/81157729). La película es dirigida por **Jeremy Saulnier**, quien en 2015 empezó a ganar atención con ‘[Green Room](https://www.imdb.com/title/tt4062536/)‘.
-
-‘**Rebel Ridge’ y ‘Cómplices del engaño’** se presentan como la alternativa, frente a la nueva tendencia del gigante del _streaming_, que sigue optando por películas con presupuestos gigantescos que parecen más comerciales para la marca de la celebridad del momento.
-
-La historia de ‘Rebel Ridge’
-----------------------------
-
-**‘Rebel Ridge’** cuenta la historia de un antiguo marine, a quien injustamente le quitan una bolsa con dinero que planeaba usar para pagar la fianza de su primo. Esto lo lleva a enfrentarse con la corrupción de un pueblo pequeño, específicamente con las autoridades policiales.
-
-Saulnier toma inspiración en [‘**Rambo: Primera Sangre’**](https://es.wikipedia.org/wiki/First_Blood)**.** Aaron Pierre es Terry Richmond, protagonista y héroe de acción que, a diferencia de **Rambo**, elige no liquidar a sus adversarios. Precisamente, debido a dicha postura, Saulnier puede elevar la tensión durante las escenas de acción.
-
-Aaron Pierre es el dueño de la mirada más profunda de este año. El actor inglés aprovecha al máximo el material, su presencia es imponente y va acompañada de un carisma que le permite brillar en momentos cómicos.
-
-Un filme que prioriza el diálogo
---------------------------------
-
-Durante el primer acto de la película, Pierre se muestra estoico y distante. El actor evoca a aquellos protagonistas de wésterns que llegan a un pueblo y lo salvan, inclusive cuando no quieren verse involucrados. Según progresa la historia, Pierre revela más a su personaje y exuda un carácter imponente con una postura calculadora.
-
-Ahora, **‘Rebel Ridge’** tiene sus problemas. Los más obvios son un resultado de las tendencias del cine digital, como la falta de luz en las escenas más oscuras, en ocasiones, al dejar el fotograma completamente oscuro.
-
-Su problema más evidente es, curiosamente, también su mayor fortaleza. Su guion prioriza un diálogo técnico que constantemente menciona **aspectos legales**, a veces de manera minuciosa. Por un lado, esto ayuda a la metanarrativa y al mensaje final del filme; por el otro, en ocasiones, el diálogo es tan técnico que sus personajes dejan de sentirse como personas reales.
-
-Saulnier, sin embargo, consigue hacer un comentario sobre el **abuso de poder**. En particular, pone en pantalla muchos de los aspectos que evidencian el problema sistemático del racismo en la policía.
-
-Sus villanos no son caricaturas, son agentes del orden que explotan las fallas del sistema por beneficio personal. Disfrazan sus acciones con pequeños aportes a la misma comunidad a la que están oprimiendo.
-
-Acertadamente, Saulnier evita el típico final del cine de acción. Después de todo, **‘Rebel Ridge’** no es una fantasía de poder en la que el héroe mata a los malos y triunfa; sino que nos presenta una reflexión sobre la lucha del individuo contra el sistema y lo interminable de esta.
-
-### Más noticias:
-
-* [‘La Sustancia’ y el retorno del horror corporal](https://www.elcomercio.com/tendencias/cine/la-sustancia-y-el-retorno-del-horror-corporal.html)
-* [‘Tipos de gentileza’ tiene tres historias distintas y un mismo elenco](https://www.elcomercio.com/afull/cine-y-series/tipos-gentileza-cines-critica.html)
-* [Seis películas con sorprendentes finales abiertos y su análisis](https://www.elcomercio.com/tendencias/cine/peliculas-cine-analisis-final-abierto.html)
-
-‘Rebel Ridge’
--------------
-
-**Director:** [Jeremy Saulnier](https://en.wikipedia.org/wiki/Coralie_Fargeat)
-
-**Reparto:** [Aaron Pierre](https://es.wikipedia.org/wiki/Aaron_Pierre), [Don Johnson](https://es.wikipedia.org/wiki/Don_Johnson), [AnnaSophia Robb](https://es.wikipedia.org/wiki/AnnaSophia_Robb)…
-
-**Año:** 2024
-
-**Plataforma:** Netflix
-
-**Calificación:** Muy buena
-
-Ecuador debe elegir parlamentarios andinos, ¿cuál es su rol y sus trabas?
-=========================================================================
-
-Los candidatos a parlamentarios andinos estarán en las papeletas para las elecciones 2025.
-------------------------------------------------------------------------------------------
-
-![En febrero de 2025, los ecuatorianos volverán a las urnas.](https://www.elcomercio.com/wp-content/uploads/2024/09/parlamentarios.jpg)
-
-Ecuador camina a las **elecciones 2025**. A la definición de los titulares del Ejecutivo y el Legislativo, se suma la de **parlamentarios andinos**[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Al igual que las autoridades del país, los cinco representantes en el **Parlamento Andino** tienen funciones definidas. La inscripción de los candidatos empezó el 13 de septiembre y se extenderá hasta las 18:00 del miércoles 2 de octubre de 2024.
-
-### Más noticias
-
-* [Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?](https://www.elcomercio.com/actualidad/politica/inscripcion-candidatos-elecciones-2025-en-linea-cne.html)
-* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html "La inscripción para elecciones 2025 empieza con incumplimientos")
-* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
-* [¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?](https://www.elcomercio.com/actualidad/politica/cuando-estaran-en-firme-las-candidaturas-para-elecciones-2025.html "¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?")
-
-> [#MesDeLaDemocracia](https://twitter.com/hashtag/MesDeLaDemocracia?src=hash&ref_src=twsrc%5Etfw) 🗳️  
->   
-> En el marco de la conmemoración del [#DíaInternacionalDeLaDemocracia](https://twitter.com/hashtag/D%C3%ADaInternacionalDeLaDemocracia?src=hash&ref_src=twsrc%5Etfw), destacamos los esfuerzos de la Función Electoral por garantizar el derecho de participación de las personas con discapacidad y adultos mayores, a través de mecanismos de acceso al voto.⤵️ [pic.twitter.com/jsDIKHdT52](https://t.co/jsDIKHdT52)
-> 
-> — cnegobec (@cnegobec) [September 20, 2024](https://twitter.com/cnegobec/status/1837234142578115070?ref_src=twsrc%5Etfw)
-
-Parlamentarios andinos y las elecciones 2025
---------------------------------------------
-
-El proceso de inscripciones avanza de forma lenta. Hasta el cierre de este reportaje, el **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** indicó que solo se inscribieron dos listas.
-
-Esas fueron los postulantes para asambleístas provinciales de Orellana, de la **Alianza de la Renovación** (listas 6-4-16) y de Sucumbíos por el **Movimiento Pueblo, Igualdad y Democracia** (PID).
-
-Es decir, aún no se registraron binomios presidenciales, aspirantes asambleístas nacionales ni **parlamentarios andinos**.
-
-Las inscripciones se realizan de forma virtual, a través de a través del sistema informático del **CNE**, cuyo acceso es exclusivo para las organizaciones políticas habilitadas para las **elecciones 2025**.
-
-> ATENCIÓN 🔴  
->   
-> La [#InscripcíónCandidaturasEc](https://twitter.com/hashtag/Inscripc%C3%AD%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) es un proceso que las organizaciones políticas deben cumplir únicamente en línea 💻 a través del sistema habilitado por el [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw).  
->   
-> ➡️ Consulta la normativa y cronograma de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🗳️ ingresando a: [https://t.co/7jydYZoM65](https://t.co/7jydYZoM65) [pic.twitter.com/bOQU1zElUq](https://t.co/bOQU1zElUq)
-> 
-> — cnegobec (@cnegobec) [September 19, 2024](https://twitter.com/cnegobec/status/1836779645334659452?ref_src=twsrc%5Etfw)
-
-Detalles sobre la postulación para el Parlamento Andino
--------------------------------------------------------
-
-En el caso de los parlamentarios andinos, las candidaturas son pluripersonales y se presentarán en listas completas; por cada candidato principal se registrarán dos suplentes. Así se define en la convocatoria a elecciones 2025, lanzada por el **CNE**.
-
-Las personas ganadoras ejercerán el cargo desde el **19 de mayo de 2025** hasta el 18 de mayo de 2029.
-
-Los representantes de Ecuador posesionados para el período 2021-2025 fueron **Verónica Arias Fernández, Cristina Reyes Hidalgo, Mirian Cisneros, Paúl Desamblac Cañadas y Virgilio Hernández Enríquez**.
-
-En el caso del gasto electoral, el monto establecido es la cantidad que resulte de multiplicar 0,10 centavos por el número de electores a escala nacional, que corresponde a 13 736 314; es decir, **137 363,14 dólares**.
-
-Condiciones para las candidaturas
----------------------------------
-
-Los aspirantes a **parlamentarios andinos** deben tener una edad mínima de **18 años**, al igual que para asambleístas.
-
-Para la **Presidencia y la Vicepresidencia**, en cambio, deben haber cumplido 35 años. Todos los aspirantes deben estar en goce de los derechos políticos.
-
-Impedimentos para las postulaciones
------------------------------------
-
-Quienes corran por el **Parlamento Andino**, como representantes de Ecuador, deben cumplir con requisitos para inscribir las candidaturas, además de la edad.
-
-No obstante, también deben tomar en cuenta las prohibiciones, como no tener contratos con el **Estado**, como personas naturales o como representantes o apoderados de personas jurídicas.
-
-Eso siempre que el proceso se haya celebrado para la ejecución de obra pública, prestación de servicio o explotación de **recursos naturales**.
-
-Delitos en la mira
-------------------
-
-Estarán fuera las personas que han recibido **sentencia condenatoria ejecutoriada** por delitos de peculado, enriquecimiento ilícito, concusión, cohecho, tráfico de influencias, oferta de realizar tráfico de influencias y testaferrismo.
-
-Se incluyen el **lavado de activos**, asociación ilícita y delincuencia organizada relacionados con actos de corrupción… Tampoco los deudores de pensiones alimenticias.
-
-A su vez, no podrán inscribirse jueces de la función judicial, del Tribunal Contencioso Electoral y los miembros de la Corte Constitucional y del **CNE**.
-
-Eso a menos que hayan renunciado a sus funciones seis meses antes de la fecha señalada para la **elección**.
-
-Están fuera, además, quienes sean **servidores públicos** de libre nombramiento y remoción, así como de período fijo. Esto, salvo que hayan desistido del puesto hasta un día antes a la fecha de inscripción.
-
-El Parlamento Andino y sus ejes
--------------------------------
-
-El 25 de octubre de 1979, se suscribió el **Tratado Constitutivo del Parlamento Andino**. Este se instituyó como el órgano deliberante y representante de los pueblos andinos.
-
-La agrupación es el único órgano de la integración que deviene del **voto popular**. Los representantes se definen en cada país.
-
-La principal función de los integrantes es armonizar las leyes de la región, así como garantizar la participación ciudadana y fortalecer la integración andina y **latinoamericana**.
-
-El Parlamento Andino está integrado por los representantes de **Bolivia, Chile, Colombia, Ecuador y Perú.**
-
-* **Promocionar** las relaciones para la integración de la subregión.
-* **Promover** la cooperación entre países andinos.
-* **Proponer** proyectos y normas de interés común en la Comunidad Andina.
-
-Organización de la delegación
------------------------------
-
-El organismo, como ocurre en la Asamblea, cuenta con comisiones permanentes y especiales. En el primer grupo, por ejemplo, está la delegación de **Política Exterior, Relaciones Internacionales y Diplomacia Parlamentaria**.
-
-Se suma la Comisión de Educación, Cultura, Ciencia, Tecnologías de la Información y la Comunicación, así como Desarrollo Sustentable y Sostenible. **Mujer y género** es otra de las agrupaciones.
-
-¿El rol se cumple?
-------------------
-
-**Pablo Játiva**, catedrático de Derecho, resalta que los parlamentarios andinos tienen la responsabilidad de generar resoluciones y recomendaciones para los países integrantes de la **Comunidad Andina**.
-
-La mayor traba que tiene el **organismo** es que sus decisiones no son vinculantes y, por ende, no son de cumplimiento obligatorio. Esto le quita peso político. “Los parlamentarios andinos vienen a tener un rol de representación simbólica de los estados”.
-
-Játiva apunta que los desacuerdos y la **integración fallida**, así como la salida de Venezuela, no han permitido que se concreten los objetivos.
-
-Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma
-=====================================================================
-
-Ecuador enfrenta la peor sequía en seis décadas. El Gobierno decidió los cortes de luz y la activación de planes para generar lluvias.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Gobierno anuncia apagones para afrontar crisis energética en el Ecuador. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/3f19f67fd568713092b946494cec1845144cb394.jpg)
-
-El Gobierno de **Daniel Noboa** informó los horarios de los **cortes de luz** para este domingo 22 de septiembre del 2024.
-
-La suspensión del servicio eléctrico es parte de las estrategias para afrontar las **crisis energética** que vive el país a causa de la peor **sequía** de las seis últimas décadas y un déficit de 1 080 MW, que tiene el Ecuador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ciudades-ecuador-celec-falla-humana.html "Ciudades de Ecuador tuvieron cortes de luz el 20 de septiembre")
-* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
-* [Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca](https://www.elcomercio.com/actualidad/negocios/sequia-convoca-emergencia-autoridades-de-ecuador-coe-cuenca.html "Sequía convoca de emergencia a las autoridades de Ecuador en Cuenca")
-
-Cortes de luz en Ecuador
-------------------------
-
-Tras una sesión del **Comité de Operaciones de Emergencia (COE) Nacional**, las autoridades informaron que el domingo 22 de septiembre habrá cortes de luz en Ecuador. El horario es de 08:00 a 17:00 en 12 provincias.
-
-Estas son las provincias en las que se darán los cortes de luz: Azuay, Bolívar, Cañar, Carchi, Cotopaxi, Imbabura, Morona Santiago, Napo, Orellana, Pastaza, Sucumbíos y Zamora Chinchipe. Así lo informó la Presidencia de la República, en un comunicado.
-
-Además, agregó que, el Ecuador enfrenta una crisis sin precedentes debido a la sequía más grave registrada en los últimos 61 años. Y que acumula 71 días consecutivos sin **precipitaciones significativas**. La situación ha desencadenado más de 1 330 incendios forestales en el último mes.
-
-> A la ciudadanía: [pic.twitter.com/AF70C5mUfo](https://t.co/AF70C5mUfo)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [September 22, 2024](https://twitter.com/Presidencia_Ec/status/1837686926083555591?ref_src=twsrc%5Etfw)
-
-Medidas
--------
-
-Según el Gobierno, el COE Nacional implementó estas medidas inmediatas para **salvaguardar los limitados recursos hídricos**. Una de las principales acciones incluye la suspensión programada del servicio eléctrico en 12 provincias este domingo, 22 de septiembre.
-
-El Gobierno Nacional también puso en marcha soluciones adicionales como el **bombardeo de nubes** para **provocar lluvias** y la **instalación de barcazas** de generación eléctrica flotante. Estas acciones, según las autoridades, generarán resultados inmediatos y mitigarían los efectos de esta crisis.
-
-Este domingo 22 de septiembre, al mediodía, después de evaluar la **situación hídrica de la región,** el país y cada provincia, se anunciarán las medidas complementarias que sean necesarias, agregó la Presidencia de la República.
-
-Gritos tras disparos en un centro comercial de Quito
-====================================================
-
-La Policía investiga el suceso, que ocurrió la noche de este sábado 21 de septiembre en el norte de Quito.
-----------------------------------------------------------------------------------------------------------
-
-![Una ambulancia atendió a una persona, que resultó herida con un disparo.](https://www.elcomercio.com/wp-content/uploads/2024/09/quincentro.jpg)
-
-La zona de un c**entro comercial del norte de Quito** estuvo convulsionada la noche de este **sábado 21 de septiembre de 2024.**
-
-### Más noticias
-
-* [Una masacre se registró en una peluquería de Quito](https://www.elcomercio.com/actualidad/seguridad/masacre-peluqueria-quito-inseguridad-policia-nacional.html "Una masacre se registró en una peluquería de Quito")
-* [Conductor fue víctima de una nueva modalidad de robo en Quito](https://www.elcomercio.com/actualidad/conductor-victima-robo-modalidad-quito.html "Conductor fue víctima de una nueva modalidad de robo en Quito")
-* [Banda dedicada al robo de casas fue desarticulada en Quito](https://www.elcomercio.com/actualidad/seguridad/banda-robo-casas-quito-policia.html "Banda dedicada al robo de casas fue desarticulada en Quito")
-
-A través de las redes sociales se conoció que una **persona fue atacada por los delincuentes** un poco más de las 19:00 de este sábado.
-
-Los hombres no identificados dispararon contra un ciudadano, quien presuntamente había sacado **dinero del cajero automático de un banco.**
-
-Se presume que el **cajero automático** está dentro del centro comercial.
-
-> si, el saco dinero, no se si lograron robarle porque él tenía bien abrazada su maleta
-> 
-> — paz (@pazgarzonnn) [September 22, 2024](https://twitter.com/pazgarzonnn/status/1837665961391825167?ref_src=twsrc%5Etfw)
-
-“**La gente salía despavorida del lugar. Gritaba, no sabía qué hacer**“, se lee en algunas cuentas de las redes sociales.
-
-En una de esas cuentas se escribió que fueron **“minutos de terror. La gente corría, se escucharon disparos. Nadie entendía bien qué pasaba”.**
-
-La Policía Nacional aún investiga qué pasó en el centro comercial
------------------------------------------------------------------
-
-Comunicación de la Policía Nacional informó que se solicitó información a las unidades operativas e investigativas.
-
-Mientras que el Cuerpo de Bomberos detalló que se recibió una alerta de emergencia por código plata de persona herida por arma de fuego. En los alrededores del centro comercial se escucharon las sirenas de los Bomberos de Quito.
-
-> No se exactamente estaba en el tercer piso y solo nos dijeron que se cerraba el centro comercial cuando salimos vimos a las ambulancias por el español
-> 
-> — Belen (@Ma\_Belen\_12) [September 22, 2024](https://twitter.com/Ma_Belen_12/status/1837666997208826349?ref_src=twsrc%5Etfw)
-
-En una de las cuentas de redes sociales se indica que la “**persona sacó el dinero, pero se desconoce si lograron robarle, porque el ciudadano tenía bien abrazada su maleta”.**
-
-A su vez, en otra cuenta de la red social X se indica que la **“persona, un joven, se lo veía estable hasta cuando lo subieron a la ambulancia”**. Según esa información, le **dieron un disparo**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-El relato sobre este hecho solo se sabe de lo que se escribe en las redes sociales. Una tuitera comenta que quisieron meterlo a un carro y supone que había más personas dentro del auto.
-
-> …minutos de terror en el quicentro. La gente corría, se escucharon disparos. Nadie entendía bien qué pasaba. Sábado de noche en uio. 🥺
-> 
-> — María José Calderón (@mariajosec) [September 22, 2024](https://twitter.com/mariajosec/status/1837645558053269823?ref_src=twsrc%5Etfw)
-
-Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto
-=========================================================================
-
-Barcelona SC cayó ante el Deportivo Cuenca tras recibir un gol a menos de un minuto de que se iniciase el partido.
-------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Cuenca celebran su triunfo ante Barcelona SC en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240921128423-fbl-ligapro-d-cuenca-barcelona-scaled.jpg)
-
-**Deportivo Cuenca** urgía un triunfo para alejarse de la zona de descenso, pero al frente tenía **Barcelona SC**, que persigue la segunda etapa y el llegar al partido que defina el título. A la final, la balanza se inclinó hacia las aspiraciones del cuadro morlaco que dio la sorpresa.
-
-A tan solo dos puntos de la penúltima casilla de la tabla acumulada, el equipo del austro recibió a los toreros como locales en el **Estadio Alejandro Serrano Aguilar**. Los guayaquileños, a su vez, sabían que **Liga de Quito**, líder del campeonato, empató con El Nacional y sumó 17 puntos en la segunda etapa, por lo que un triunfo los pondría al acecho con 15 unidades.
-
-### Más noticias:
-
-* [Liga de Quito igualó con El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/deportes/partido-en-vivo-liga-quito-nacional-liga-pro.html "Liga de Quito igualó con El Nacional en un clásico de la Liga Pro")
-* [Aucas rompió una extraordinaria racha en Liga Pro](https://www.elcomercio.com/deportes/aucas-cumbaya-racha-victoria-liga-pro.html "Aucas rompió una extraordinaria racha en Liga Pro")
-* [Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord](https://www.elcomercio.com/deportes/gol-leonardo-campana-inter-miami-new-york.html "Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord")
-
-Para el choque, el ‘Ídolo’ y su **DT Ariel Holan** arribaron con una victoria en su último cotejo en casa ante Macará por 2-1. El Cuenca del DT Norberto Araujo contaba con un empate previo ante el Delfín, sin embargo, no ganaba en casa hace casi cuatro meses, desde mayo del 2024.
-
-El **‘Expreso Austral’** saltó a la cancha con intenciones ofensivas e hizo un partido redondo de principio a fin. Se puso en una pronta ventaja y, aunque no volvió a anotar, estuvo más cerca de aumentar su marcador que de **sufrir el empate** de los toreros.
-
-Deportivo Cuenca agarró desprevenido a Barcelona SC
----------------------------------------------------
-
-El gol que marcó la diferencia entre **Deportivo Cuenca y Barcelona SC** llegó de manera fugaz. Ni siquiera se cumplió un minuto de que se inicie el partido para que el conjunto morlaco encuentre el triunfo frente a los de Holan.
-
-Los toreros sacaron del medio, pero los locales recuperaron el balón. Lucas Mancinelli avanzó por la banda derecha y jugó con **Danny Luna**. Luna se asoció con Morocho, este devolvió la pelota de taco y el primero mandó la pelota al fondo de la red.
-
-El ‘Ídolo’ no consiguió reaccionar y el Cuenca se le vino encima. **Vilington Branda y Pablo Magnin** estuvieron a punto de encontrar el 2-0, pero el VAR anuló sus dos anotaciones debido a posiciones adelantadas.
-
-Hamilton Piedra aguantó en el Cuenca
-------------------------------------
-
-Uno de los valores altos de **Deportivo Cuenca** fue el arquero Hamilton Piedra. Aunque Barcelona no se recuperó ni pudo dominar, sí fabricó acciones excepcionales que fueron contenidas por el golero de los morlacos.
-
-**Octavio Rivero y Janner Corozo** llegaron, pero no pudieron vulnerar el arco. Ni siquiera el ingreso de Allen Obando representó una mayor modificación en la situación.
-
-A raíz de su derrota, en la segunda etapa, **Barcelona SC** se ubica en la cuarta posición con 12 unidades, sin embargo, aquello puede variar en función de otros resultados. El Cuenca encontró su primera victoria en la vigente ronda y está en la decimotercera casilla de ella.
-
-Venezuela será ‘gran foco de atención’ en la Asamblea de la ONU, según Machado
-==============================================================================
-
-La opositora, María Corina Machado, afirmó que la crisis poselectoral de Venezuela será un tema de debate en la Asamblea de la ONU.
------------------------------------------------------------------------------------------------------------------------------------
-
-![María Corina Machado en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/maria-corina-machado-fiscalia-efe-1.jpg)
-
-La líder opositora de Venezuela, **María Corina Machado**, aseguró este sábado 21 de septiembre de 2024 que la crisis poselectoral de su país será un “gran foco” de atención en el marco de la Asamblea General de la Organización de Naciones Unidas (ONU). La cita se celebrará la próxima semana en Nueva York.
-
-### Más noticias
-
-* [Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html "Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei")
-* [Daniel Noboa se reunirá con Javier Milei en Nueva York](https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-reunira-con-javier-milei-en-nueva-york.html "Daniel Noboa se reunirá con Javier Milei en Nueva York")
-* [Benjamín Netanyahu se pronuncia tras explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/netanyahu-se-pronuncia-explosiones-libano.html "Benjamín Netanyahu se pronuncia tras explosiones en Líbano")
-
-“Todos los líderes del mundo se reunirán allí. Y **Venezuela** será el gran foco de atracción, de atención y de apoyo” en la ONU, dijo la exdiputada, que lidera la denuncia de **fraude en las elecciones del 28 de julio**. En las mismas, **Nicolás Maduro** fue proclamado presidente reelecto, lo que ha sido cuestionado dentro y fuera del país.
-
-La líder antichavista adelantó que “todos los días” de la última semana de septiembre de 2024 habrá actividades relacionadas con el reclamo de la principal coalición opositora.
-
-Esta se denomina Plataforma Unitaria Democrática (PUD). Machado asegura que su abanderado, **Edmundo González Urrutia,** ganó las presidenciales. “Esto lo vamos a lograr, esto es hasta el final”, insistió.
-
-Países reconocen como presidente de Venezuela a González
---------------------------------------------------------
-
-María Corina Machado consideró que los apoyos expresados en la última semana hacia Venezuela y González Urrutia son muy importantes, sobre todo en la ONU. Ya que, el **Parlamento Europeo y por las Cámaras de varios países** **latinoamericanos** lo reconocieron como presidente electo a González Urrutia[.](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas")
-
-Asimismo, recordó que en los últimos días sostuvo “conversaciones muy relevantes y reuniones muy productivas”. Todas fueron de forma virtual y se realizaron con líderes de la región y con el secretario de Estado de los Estados Unidos, **Antony Blinken**.
-
-“Todos alineados, todos dispuestos a acompañarnos hasta lograr hacer valer la soberanía popular (…), la próxima será una semana importantísima”, resaltó.
-
-Hasta ahora, Washington organiza el único evento sobre **Venezuela** de nivel ministerial, a propósito de la reunión de la ONU.
-
-Este se celebrará el próximo jueves 26 de septiembre, encabezado por Blinken, según confirmaron a EFE fuentes diplomáticas estadounidenses. Esto después de que fracasara otro evento que tenía previsto organizar **Chile**.
-
-La semana de **Alto Nivel de la ONU** es la gran cita de la diplomacia mundial. Y es una ocasión única para tratar los conflictos más candentes del mundo.
-
-Por lo que se espera en Nueva York a los dirigentes de **Israel**, **Palestina, Líbano, Irán**, así como al presidente de **Ucrania o al de Sudán**, entre los 133 líderes que asistirán. 
-
-Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord
-=========================================================================
-
-Leonardo Campana volvió a marcar con el Inter de Miami ante el New York City y aumenta sus números de goleador histórico.
--------------------------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana celebra su último gol con el Inter de Miami en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/09/Snapinsta.app_460941054_549858667704411_3547945898546360193_n_1080-1.jpg)
-
-El Inter Miami de **Lionel Messi y Leonardo Campana** empató este sábado por 1-1 ante el New York City FC tras encajar un gol en el minuto 95 de James Sands cuando ya acariciaba el triunfo.
-
-Un cabezazo tras un córner en el último suspiro le dio el empate al N**ew York City** después que el ecuatoriano Leonardo Campana hubiera adelantado en el 75 al Inter Miami.
-
-### Mas noticias:
-
-* [Leonardo Campana fue convocado a la Billboard Latin Music Week](https://www.elcomercio.com/deportes/futbol/leonardo-campana-fue-convocado-a-la-billboard-latin-music-week.html "Leonardo Campana fue convocado a la Billboard Latin Music Week")
-* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
-* [Leonardo Campana y sus 30 goles con el Inter Miami](https://www.elcomercio.com/deportes/leonardo-campana-y-sus-goles-con-el-inter-miami.html "Leonardo Campana y sus 30 goles con el Inter Miami")
-
-Con muchísimos seguidores de Messi y un gran ambiente en las gradas del Yankee Stadium, el equipo que dirige **Gerardo Martino** firmó un flojo y discreto partido pero se mantiene líder del Este con 64 puntos y como favorito destacado para conquistar el **MLS Supporters’ Shield** (el título para el mejor equipo de la MLS en la temporada regular).
-
-El equipo de Florida aterrizó en la Gran Manzana con todas sus estrellas salvo **Sergio Busquets y Diego Gómez**. Junto a Messi fueron también titulares Luis Suárez y Jordi Alba.
-
-Con tres derrotas y cinco empates en sus anteriores ocho partidos en la MLS, incluyendo un doloroso 1-5 frente al **Philadelphia Union** el pasado miércoles, el **New York City** arrancó con ganas de enderezar el rumbo.
-
-El Inter de Miami de Leonardo Campana tuvo dificultades para meterse en el partido
-----------------------------------------------------------------------------------
-
-El uruguayo **Santi Rodríguez** se mostró muy picante desde el inicio, primero con un tiro cruzado y después con una peligrosa falta directa que acabó estrellándose en el palo.
-
-Al **Inter Miami** le costó entrar en el partido. Quitando una falta de Messi que acarició la escuadra, el conjunto de rosa tardó en asentarse en el verde y echó en falta a Busquets en la sala de máquinas.
-
-No obstante, hacia el ecuador de la primera parte empezaron a aparecer las estrellas: Messi buscó y casi encontró un gol olímpico y Suárez no estrenó el marcador porque su tiro, que se iba a la red, fue interceptado sin querer por su compañero **Robert Taylor**.
-
-Pero en general los dos equipos se mostraron seguros y concentrados en defensa -sobre todo el New York City con ayudas constantes para anular a **Messi**– y el encuentro se fue al descanso sin tantos.
-
-Leonardo **Campana golpea, Sands responde**
--------------------------------------------
-
-> Messi –> Alba –> Campana[@InterMiamiCF](https://twitter.com/InterMiamiCF?ref_src=twsrc%5Etfw) take the lead with 15 minutes remaining. [pic.twitter.com/1icY7I3bIh](https://t.co/1icY7I3bIh)
-> 
-> — Major League Soccer (@MLS) [September 21, 2024](https://twitter.com/MLS/status/1837579453746016722?ref_src=twsrc%5Etfw)
-
-**Keaton Parks**, uno de los más destacados del New York City en la primera mitad, tuvo una ocasión de oro en la reanudación tras un grave error de Ian Fray pero el corpulento centrocampista no estuvo habilidoso de cara a la portería.
-
-También lo intentó el costarricense **Alonso Martínez** desde fuera del área y el combinado local replicó en la segunda parte el mismo inicio intenso de la primera.
-
-En cambio, el Inter Miami salió dormido, sin electricidad en ataque –**Messi y Suárez** continuaban poco precisos- y con cada vez más huecos atrás.
-
-Parecía el momento del **New York City**, pero seguía con el punto de mira desviado y Hannes Wolf desaprovechó otra ocasión en el minuto 61.
-
-Al otro lado, el **Inter Miami** empezó a desquiciarse. Cuatro amarillas en cinco minutos sacó a los visitantes el árbitro, que, sin problema para desenfundar las tarjetas, además de amonestar a Suárez y Alba expulsó también a un asistente de Martino por protestar.
-
-El partido parecía destinado a acabar en tablas pero una conexión aislada y perfecta entre Messi y Jordi Alba en la banda izquierda dejó en bandeja el gol a **Leonardo Campana** en el 75.
-
-Un empate de último minuto para el New York City
-------------------------------------------------
-
-El New York City acusó el golpe y siguió errando oportunidad tras oportunidad como una muy clara de **Rodríguez** en el 87.
-
-Pero cuando el **Inter Miami** ya parecía tener los tres puntos en el bolsillo, Sands se elevó con un fantástico testarazo para rescatar un empate a última hora para el New York City.
-
-Alineaciones de Inter de Miami y New York City
-----------------------------------------------
-
-**New York City**: Matt Freese; Tayvon Gray (Mitja Ilenic, m. 81); Thiago Martins, Strahinja Tanasijevic, Kevin O’Toole (Christian McFarlane, m.88); James Sands, Keaton Parks (Andrés Perea, m.81); Hannes Wolf (Julián Fernández, m. 88), Maxi Moralez, Santi Rodríguez; Alonso Martínez (Monsef Makrar, m.81).
-
-**Entrenador**: Nick Cushing
-
-**Inter Miami**: Drake Callender; Ian Fray, Tomás Avilés, Noah Allen (Sergii Kryvstov, m.94), Jordi Alba; Julian Gressel (Benjamin Cremaschi, m. 81), Federico Redondo, Yannick Bright, Robert Taylor (Leonardo Campana, m. 72); Luis Suárez y Lionel Messi.
-
-**Entrenador**: Gerardo Martino.
-
-Daniel Noboa se reunirá con Javier Milei en Nueva York
-======================================================
-
-El presidente de Ecuador, Daniel Noboa, se reunirá con su homólogo argentino, Javier Milei, durante la 79° Asamblea General de la ONU en Nueva York, como parte de su decimocuarto viaje oficial.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa y Javier Milei conversarán en Nueva York. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/06/daniel-noboa-milei.png)
-
-El presidente del Ecuador, **Daniel Noboa**, se reunirá con su par argentino, **Javier Milei,** en Nueva York, durante la 79° Asamblea General de las Naciones Unidas (ONU).
-
-### Más noticias
-
-* [Daniel Noboa hizo una propuesta sobre el financiamiento a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-propuesta-financiamiento-organizaciones-politicas.html "Daniel Noboa hizo una propuesta sobre el financiamiento a organizaciones políticas")
-* [El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad](https://www.elcomercio.com/actualidad/ecuador/gobierno-invito-sector-privado-prender-generadores-electricidad.html "El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad")
-* [Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU](https://www.elcomercio.com/actualidad/politica/daniel-noboa-viaje-asamblea-onu.html "Daniel Noboa confirmó su asistencia a la Asamblea General de la ONU")
-
-El presidente ecuatoriano inició su decimocuarto viaje oficial como jefe de Estado de Ecuador, el 20 de septiembre de 2024. Su gira por Estados Unidos culminará el 27 de septiembre, e incluye la visita a Nueva York, a Boston y New Haven.
-
-Agenda de Javier Milei
-----------------------
-
-Por su parte, Milei viajó este sábado 21 de septiembre de 2024 a Nueva York. Transcendió que el mandatario argentino mantendrá una serie de reuniones. Estas incluyen una con el empresario **Elon Musk,** otra con **Daniel Noboa** y con la presidenta de la Comisión Europea, Ursula von der Leyen.
-
-Milei llega Nueva York este sábado por la noche. Su primera actividad será una reunión con periodistas del **New York Times** el domingo, según informó en conferencia de prensa el portavoz presidencial, **Manuel Adorni**.
-
-El lunes, el mandatario argentino abrirá su agenda con una disertación ante inversores en la **Bolsa de Valores de Nueva York**. Allí también participará en la ceremonia del **toque de campana** que indica el inicio de la jornada bursátil.
-
-Ese mismo día, el libertario se reunirá con el empresario **Elon Musk**, director ejecutivo de Tesla y dueño de la red social X, con quien tiene una buena relación y ya se ha reunido en dos oportunidades.
-
-Milei cerrará la jornada del lunes con un encuentro con representantes del Consejo de Relaciones Exteriores de Estados Unidos, en un evento donde también ofrecerá una disertación breve.
-
-Según informaron medios locales, el mandatario viajará acompañado por el ministro de Economía, **Luis Caputo**; la ministra de Seguridad, **Patricia Bullrich**; la secretaria General de la Presidencia, **Karina Milei;** y la canciller, **Diana Mondino**.
-
-Discurso de Milei en la ONU
----------------------------
-
-La presentación del político argentino ante la 79° Asamblea General de Naciones Unidas está prevista para el martes a las 15:30 hora de Nueva York.
-
-Por el momento, su oficina no ha brindado información sobre el discurso del mandatario ultraliberal. Pero la prensa local ha anticipado que se espera una presentación similar a la que dio en enero en el Foro de Davos, en la que impulsó su agenda libertaria y alertó sobre los “peligros” que acechan al mundo occidental.
-
-Además, se espera que reitere su defensa a Israel y sus críticas a China y a lo que suele describir como “socialismo empobrecedor”.
-
-El presidente emprenderá su regreso el martes por la noche, y su llegada a **Argentina** está prevista para el miércoles 25 de septiembre a las 07:00 hora local.
