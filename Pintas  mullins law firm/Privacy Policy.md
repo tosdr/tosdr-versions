@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is asbestosis disease?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-asbestosis-disease-scaled.jpg "What Is Asbestosis Disease?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis "What Is Asbestosis Disease?")
+[![What are the rights of assisted living residents?](https://www.pintas.com/wp-content/uploads/2021/03/happy-elderly-patient-sitting-with-happy-nurse-300x200.jpg "What are the Rights of Assisted Living Residents?")](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/ "What are the Rights of Assisted Living Residents?")
 
-[#### What Is Asbestosis Disease?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis)
+[#### What are the Rights of Assisted Living Residents?](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/)
 
-[![Mormon sexual abuse: why are some in the church protecting sex abuse offenders?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/ "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")
+[![What are the signs of elder abuse in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/01/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-the-signs-of-elder-abuse-in-seniors-with-dementia.jpg "What Are the Signs of Elder Abuse in Seniors with Dementia?")](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/ "What Are the Signs of Elder Abuse in Seniors with Dementia?")
 
-[#### Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/)
+[#### What Are the Signs of Elder Abuse in Seniors with Dementia?](https://www.pintas.com/faq/what-are-the-signs-of-elder-abuse-in-seniors-with-dementia/)
 
-[![How many people die from lung cancer every year?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-many-people-die-from-lung-cancer-every-year.jpg "How Many People Die From Lung Cancer Every Year?")](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year "How Many People Die From Lung Cancer Every Year?")
+[![What is the treatment for bedsores?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-the-treatment-for-bedsores-scaled.jpg "What Is the Treatment for Bedsores?")](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/ "What Is the Treatment for Bedsores?")
 
-[#### How Many People Die From Lung Cancer Every Year?](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year)
+[#### What Is the Treatment for Bedsores?](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/)
 
 ### Injured?  
 Tell Us What Happened.
