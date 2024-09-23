@@ -33,7 +33,7 @@ Buy Me a Coffee also collects potentially personally-identifying information lik
 Payments
 --------
 
-To make a payment to a creator on Buy Me a Coffee, you have to provide our payment processor (Stripe) with your payment information. They provide us with a token that represents your account, your card’s expiration date, card type and the last four digits of your credit card. If you provide them with a name and email address then they also provide us with that information.
+To make a payment to a creator on Buy Me a Coffee, you have to provide our payment processor (Stripe) with your payment information. They provide us with a token that represents your account, your card’s expiration date, card type and the last four digits of your credit card. If you provide them with a name and email address, then they also provide us with that information.
 
 We collect and process information about the creators you support, the level at which you support them, what rewards you receive and how often you support them.
 
