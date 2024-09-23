@@ -31,6 +31,55 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Así funciona el Pico y placa en Quito este lunes 23 de septiembre
+=================================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-Quito-2.jpg)
+
+El **Pico y placa** continúa vigente en **Quito para autos y motos**; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que durante los **feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
+* [¿Por qué es importante sumarse al Día Mundial sin Auto?](https://www.elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html "¿Por qué es importante sumarse al Día Mundial sin Auto? ")
+* [Estos parques de Quito están en mantenimiento](https://www.elcomercio.com/actualidad/quito/parques-quito-intervenidos-trabajos-epmmop.html "Estos parques de Quito están en mantenimiento")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza**
+
 Crisis energética: dos problemas a solucionar en Ecuador
 ========================================================
 
@@ -953,120 +1002,3 @@ Una dinastía de pesistas y medallistas para Ecuador
 Neisi Dajomes hizo historia en los **Juegos Olímpicos de Tokio 2020+1** cuando ganó el oro y se convirtió en la primera ecuatoriana en lograr tal distinción. En **París 2024**, la atleta volvió y consiguió una medalla de bronce.
 
 **Angie Palacios** también estuvo en las dos citas olímpicas. En la primera consiguió un diploma y en la segunda también se hizo con el bronce.
-
-Los romances no tan conocidos del elenco de ‘Friends’
-=====================================================
-
-Feliz cumpleaños, 'Friends', Recordamos sus 30 años con un repaso por los romances del elenco.
-----------------------------------------------------------------------------------------------
-
-![Elenco de 'Friends'. Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-14.jpg)
-
-El 22 de septiembre de 2024 marca un hito especial: **el 30.º aniversario de ‘Friends**‘. Esta icónica serie ha dejado una huella imborrable en la cultura pop.
-
-Desde su estreno en 1994, capturaron los corazones de millones. Los personajes, como **Ross, Rachel, Monica, Chandler, Joey y Phoebe**, siguen siendo queridos por nuevas generaciones.
-
-### Más noticias
-
-* **[‘Shogun’ ¿Es tan buena como dicen?](https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html "https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html")**
-* **[Netflix lanza el tráiler de ‘El Juego del Calamar 2’ con la fecha de estreno](https://www.elcomercio.com/afull/netflix-el-juego-del-calamar-segunda-temporada-trailer-estreno-fecha.html "https://www.elcomercio.com/afull/netflix-el-juego-del-calamar-segunda-temporada-trailer-estreno-fecha.html")**
-
-Las risas y las lecciones sobre la amistad perduran, así como la curiosidad sobre sus vidas personales. Celebremos juntos las tres décadas de la sitcom con un repaso a los romances del elenco de ‘Friends’.
-
-Jennifer Aniston
-----------------
-
-Jennifer Aniston ha tenido romances de alto perfil a lo largo de su carrera. En los años 90, salió con el actor Tate Donovan durante tres años.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-3-1024x683.jpg)
-
-Con el actor Tate Donovan. Foto: Pinterest
-
-Sin embargo, su relación más mediática fue con **[Brad Pitt](https://www.elcomercio.com/afull/angelina-jolie-brad-pitt-festival-venecia.html "https://www.elcomercio.com/afull/angelina-jolie-brad-pitt-festival-venecia.html")**, con quien se casó en el 2000 y se divorció en el 2005, tras intensos rumores de infidelidad con **[Angelina Jolie](https://www.elcomercio.com/afull/venas-angelina-jolie.html "https://www.elcomercio.com/afull/venas-angelina-jolie.html")**.
-
-![Con Brad Pitt. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-1024x683.jpg)
-
-Con Brad Pitt. Foto: Pinterest
-
-Tras la ruptura, Aniston encontró consuelo en Vince Vaughn, pero su romance terminó en diciembre de 2006.
-
-![Con Vince Vaughn](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-1-1024x683.jpg)
-
-Con Vince Vaughn
-
-Más tarde, comenzó una relación con Justin Theroux en 2011, con quien se casó en 2015. La pareja se divorció amistosamente en 2018, manteniendo una relación cordial.
-
-![Con Justin Theroux.](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-2-1024x683.jpg)
-
-Con Justin Theroux.
-
-Courtney Cox
-------------
-
-Courteney Cox tuvo una relación de seis años con **[Michael Keaton](https://www.elcomercio.com/afull/batman-beetlejuice-michael-keaton-cumpleanos-septiembre.html "https://www.elcomercio.com/afull/batman-beetlejuice-michael-keaton-cumpleanos-septiembre.html")** antes de casarse con David Arquette en 1999, a quien conoció durante el rodaje de _Scream_.
-
-![Con Michael Keaton.](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-4-1024x683.jpg)
-
-Con Michael Keaton.
-
-En 2004, la pareja tuvo a su hija Coco Arquette, cuya madrina es Jennifer Aniston.
-
-![Con David Arquette](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-6-1024x683.jpg)
-
-Con David Arquette
-
-Cox y Arquette también fundaron la productora Coquette, pero anunciaron su separación en 2010, tras 11 años de matrimonio, luego de que Arquette admitiera una infidelidad. En 2012, la pareja se divorció oficialmente, y poco después Cox comenzó a salir con el músico Johnny McDaid.
-
-![Con Johnny McDaid.](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-5-1024x683.jpg)
-
-Con Johnny McDaid.
-
-Lisa Kudrow
------------
-
-A finales de los años ochenta, Lisa Kudrow tuvo una breve relación con el presentador Conan O’Brien. Desde 1995, está casada con Michel Stern, a quien conoció en el set de _Friends_, y con quien tiene un hijo, Julian Murray, nacido en 1998.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-7-1024x683.jpg)
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-8-1024x683.jpg)
-
-David Schwimmer
----------------
-
-David Schwimmer mantuvo relaciones con la cantante australiana [Natalie Imbruglia](https://youtu.be/PyKpNBAv1Bw?si=pizlZCRVGb9egBWv "https://youtu.be/PyKpNBAv1Bw?si=pizlZCRVGb9egBWv") y la actriz francesa Emmanuelle Perret, antes de comenzar a salir con la fotógrafa británica Zoe Buckman en 2007.
-
-![Natalie Imbruglia](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-10-1024x683.jpg)
-
-Natalie Imbruglia
-
-En marzo de 2010, anunció su compromiso con Buckman y se casaron en una íntima ceremonia en junio de ese mismo año. La pareja tuvo una hija, Cleo Schwimmer, en mayo de 2011. Tras casi siete años juntos, Schwimmer y Buckman se separaron en 2017.
-
-![Con Emmanuelle Perret](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-9-1024x683.jpg)
-
-Con Emmanuelle Perret
-
-Matt Le Blanc
--------------
-
-En mayo de 2003, Matt LeBlanc se casó con la exmodelo **[Melissa McKnight](https://www.imdb.com/name/nm1699473/mediaviewer/rm1339464448/?ref_=nm_mi_0_4 "https://www.imdb.com/name/nm1699473/mediaviewer/rm1339464448/?ref_=nm_mi_0_4")**, con quien tuvo una hija, Marina, en 2004. Sin embargo, en 2005, LeBlanc admitió haber tenido un comportamiento “descuidado e irresponsable” con una estríper durante un viaje, lo que afectó su matrimonio.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-11-1024x683.jpg)
-
-Con **[Andrea Anders](https://www.imdb.com/name/nm1627969/?ref_=fn_al_nm_1)**.
-
-La pareja se separó en enero de 2006, y en ese momento LeBlanc ya estaba involucrado con la actriz **[Andrea Anders](https://www.imdb.com/name/nm1627969/?ref_=fn_al_nm_1)**, su compañera en la serie ‘Joey’, pero terminaron en octubre de 2006.
-
-Matthew Perry
--------------
-
-Matthew Perry salió con la actriz **[Julia Roberts](https://www.elcomercio.com/tendencias/entretenimiento/juliaroberts-sueldo-hollywood-actriz-eeuu.html "https://www.elcomercio.com/tendencias/entretenimiento/juliaroberts-sueldo-hollywood-actriz-eeuu.html")** y con la estrella de ‘**[Baywatch](https://www.imdb.com/title/tt0096542/ "https://www.imdb.com/title/tt0096542/")**‘, [**Yasmine Bleeth**](https://www.imdb.com/name/nm0000109/ "https://www.imdb.com/name/nm0000109/"). También mantuvo una relación con **[Lauren Graham](https://www.instagram.com/laurengraham/ "https://www.instagram.com/laurengraham/")**, protagonista de **[Gilmore Girls](https://www.imdb.com/title/tt0238784/ "https://www.imdb.com/title/tt0238784/")**, aunque ninguna de estas relaciones perduró.
-
-![Con Julia Roberts](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-13-1-1024x683.jpg)
-
-Con Julia Roberts
-
-![Con Julia Roberts](https://www.elcomercio.com/wp-content/uploads/2024/09/friends-romances-El-comercio-12-1024x683.jpg)
-
-Con Lizzy Caplan
-
-Perry siempre buscó relaciones a largo plazo, pero según él, nunca entendió por qué no las encontró. Entre 2006 y 2012, mantuvo una relación con la actriz Lizzy Caplan, siendo esta una de sus relaciones más duraderas. A pesar de sus intentos, la estabilidad en el amor fue esquiva para Perry.
