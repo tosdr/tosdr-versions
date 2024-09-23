@@ -471,6 +471,10 @@ Revised June 1, 2022
 
   [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
 
+[Biden administration to prepare ban on Chinese car software](https://www.japantimes.co.jp/business/2024/09/22/us-china-car-software/ "Biden administration to prepare ban on Chinese car software")
+
+  [![Many of today’s cars — both gas and electric — are equipped with devices connecting them to the internet or cloud services, making them potential targets for hacking.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423076.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Many of today’s cars — both gas and electric — are equipped with devices connecting them to the internet or cloud services, making them potential targets for hacking.")](https://www.japantimes.co.jp/business/2024/09/22/us-china-car-software/ "Biden administration to prepare ban on Chinese car software")
+
 [Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
 
   [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
@@ -478,10 +482,6 @@ Revised June 1, 2022
 ['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
 
   [![A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423095.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
-
-[Argentina stuns South Africa in 29-28 win to keep title hopes alive](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
-
-  [![Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423093.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Argentina's Joel Sclavi (left), Ignacio Calles (center) and Thomas Gallo celebrate after Los Pumas defeated the Springboks on Saturday. ")](https://www.japantimes.co.jp/sports/2024/09/22/more-sports/argentina-stuns-south-africa/ "Argentina stuns South Africa in 29-28 win to keep title hopes alive")
 
 [Jimgu: A farm-driven restaurant of outstanding local variety](https://www.japantimes.co.jp/life/2024/09/22/food-drink/jimgu-enowa-farm-yufuin-oita/ "Jimgu: A farm-driven restaurant of outstanding local variety")
 
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[A Mercedes-Benz fire could cloud South Korea’s EV shift, or give it a boost](https://www.japantimes.co.jp/business/2024/09/23/companies/mercedes-benz-fire-korea-ev/ "A Mercedes-Benz fire could cloud South Korea’s EV shift, or give it a boost")
+[Top Japanese and Chinese officials hold talks in wake of deadly stabbing](https://www.japantimes.co.jp/news/2024/09/23/japan/crime-legal/vice-foreign-minister-china-stabbing/ "Top Japanese and Chinese officials hold talks in wake of deadly stabbing")
 
-21 mins ago
+57 mins ago
 
-[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+[Former PM Yoshihiko Noda elected new leader of main opposition CDP](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
 
-25 mins ago
+1 hours ago
 
-[Big three money managers cut support for climate proposals](https://www.japantimes.co.jp/business/2024/09/23/markets/money-managers-climate-proposals/ "Big three money managers cut support for climate proposals")
+[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
 
-48 mins ago
+2 hours ago
 
-[Sri Lanka leftist wins election after vowing to rejig IMF deal](https://www.japantimes.co.jp/news/2024/09/23/asia-pacific/politics/sri-lanka-leftist-imf/ "Sri Lanka leftist wins election after vowing to rejig IMF deal")
+[Death toll in Ishikawa rains hits seven as search for missing continues](https://www.japantimes.co.jp/news/2024/09/23/japan/heavy-rain-noto-peninsula/ "Death toll in Ishikawa rains hits seven as search for missing continues")
 
-50 mins ago
+2 hours ago
 
-[Apollo to offer multibillion-dollar investment in Intel](https://www.japantimes.co.jp/business/2024/09/23/tech/apollo-multibillion-investment-intel/ "Apollo to offer multibillion-dollar investment in Intel")
+[Red Bull's Max Verstappen says 'silly' swearing penalty could hasten F1 exit](https://www.japantimes.co.jp/sports/2024/09/23/verstappen-swearing-formula-one/ "Red Bull's Max Verstappen says 'silly' swearing penalty could hasten F1 exit")
 
-52 mins ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
