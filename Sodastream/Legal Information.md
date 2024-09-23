@@ -1,6 +1,6 @@
 [](https://sodastream.com/)
 
-[](https://sodastream.com/account?view=orders)[0](https://sodastream.com/cart)
+[](https://sodastream.com/account)[0](https://sodastream.com/cart)
 
 [](https://sodastream.com/)
 
@@ -28,7 +28,7 @@ Quick Links
 
 [Store locator](https://sodastream.com/pages/store-locator) [Support](https://support-us.sodastream.com/hc/en-us) [Track order](https://sodastream.com/tools/track-your-order) [Register your machine](https://sodastream.com/pages/register-your-product)
 
-[](https://sodastream.com/account?view=orders)[0](https://sodastream.com/cart)
+[](https://sodastream.com/account)[0](https://sodastream.com/cart)
 
 Back
 
