@@ -56,6 +56,22 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/63dec030-77a0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-applepay-week12-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
+    
+    ### APPLE PAY WEDNESDAY
+    
+    Get $5 off ticket orders made on Wednesday, 9/25 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
+    
+    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
+    
+* [Save 50% off on Terrifier 2 image link ![Save 50% off on Terrifier 2](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b90e0070-77a0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-terrifier3-292x118.png)](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer) 
+    
+    ### Save 50% off on Terrifier 2
+    
+    Buy a Ticket, Save 50% off on Terrifier 2 to watch at home.
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer)
+    
 * [SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE image link ![SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef8909b0-619d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-transformersonegwp-292x118.png)](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_Footer) 
     
     ### SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE
@@ -71,22 +87,6 @@ Offers
     Buy a ticket for yourself and everyone else you want to share The Forge with through The Kingdom Builders Gifted Ticket Program.
     
     [LEARN MORE](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_footer)
-    
-* [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
-    
-    ### GET DEADPOOL'S PREMIUM PACKAGE
-    
-    Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
-    
-    [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
-    
-* [ROTTEN TOMATOES HONORS AUDIENCE FAVORITES image link ![ROTTEN TOMATOES HONORS AUDIENCE FAVORITES](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/606114c0-5e7e-11ef-a07e-5b03d6159fe4--rt-vh-globalofferunit-292x118-v1.png)](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_Footer) 
-    
-    ### ROTTEN TOMATOES HONORS AUDIENCE FAVORITES
-    
-    The new Verified Hot designation showcases films that achieve a high Verified Audience Score. Check out the first fan-favorite movies to get this designation!
-    
-    [LEARN MORE](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_Footer)
     
 
 New & Coming soon
