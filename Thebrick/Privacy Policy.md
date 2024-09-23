@@ -4,7 +4,7 @@
 
 [![THE BRICK](//www.thebrick.com/cdn/shop/t/810/assets/lazyPixel.png?v=40482922527014850811726685067)](https://www.thebrick.com/)
 
-[Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture)
+[Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture)
 
 [My Account](#) [Save](https://www.thebrick.com/pages/deals) [Inspiration](#) [Services](#)
 
@@ -59,7 +59,7 @@ Get Directions
 
 [Back to Furniture](#)
 
-[Outdoor and Patio](https://www.thebrick.com/pages/seasonal-outdoor-furniture) [Outdoor Furniture](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-furniture) [Outdoor Dining](https://www.thebrick.com/collections/furniture-outdoor-and-patio-dining) [Outdoor Entertaining](https://www.thebrick.com/collections/outdoor-entertaining) [Outdoor Accessories](https://www.thebrick.com/collections/seasonal-outdoor-accessories) [Online Exclusives](https://www.thebrick.com/collections/online-only-seasonal)
+[Outdoor and Patio](https://www.thebrick.com/pages/seasonal-outdoor-furniture) [Outdoor Furniture](https://www.thebrick.com/collections/furniture-outdoor-and-patio) [Outdoor Dining](https://www.thebrick.com/collections/furniture-outdoor-and-patio-dining) [Outdoor Entertaining](https://www.thebrick.com/collections/outdoor-entertaining) [Outdoor Accessories](https://www.thebrick.com/collections/seasonal-outdoor-accessories) [Online Exclusives](https://www.thebrick.com/collections/online-only-seasonal)
 
 [Back to Furniture](#)
 
@@ -165,37 +165,12 @@ Get Directions
 
 [Back to Menu](#)
 
-[Outdoor](https://www.thebrick.com/collections/outdoor-living) [Outdoor and Patio](https://www.thebrick.com/pages/seasonal-outdoor-furniture) [Outdoor Furniture](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-furniture) [Outdoor Dining](https://www.thebrick.com/collections/furniture-outdoor-and-patio-dining) [Outdoor Entertaining](https://www.thebrick.com/collections/outdoor-entertaining) [Outdoor Accessories](https://www.thebrick.com/collections/seasonal-outdoor-accessories) [Ways to Shop](#) [Online Exclusives](https://www.thebrick.com/collections/online-only-seasonal)
-
-[Back to Outdoor](#)
-
-[Outdoor Furniture](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-furniture) [Patio Sectionals](https://www.thebrick.com/collections/furniture-outdoor-and-patio-sectionals) [Patio Chairs](https://www.thebrick.com/collections/furniture-outdoor-and-patio-chairs) [Patio Ottomans](https://www.thebrick.com/collections/furniture-outdoor-and-patio-ottomans) [Patio Chaise Loungers](https://www.thebrick.com/collections/furniture-outdoor-and-patio-chaise-loungers) [Patio Conversation Sets](https://www.thebrick.com/collections/furniture-outdoor-and-patio-conversation-sets)
-
-[Back to Outdoor](#)
-
-[Outdoor Dining](https://www.thebrick.com/collections/furniture-outdoor-and-patio-dining) [Patio Dining Sets](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-dining) [Patio Dining Table and Chairs](https://www.thebrick.com/collections/furniture-outdoor-and-patio-dining-table-and-chairs)
-
-[Back to Outdoor](#)
-
-[Outdoor Entertaining](https://www.thebrick.com/collections/outdoor-entertaining) [Outdoor Grills and Barbecues](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-grills-and-barbecues) [Outdoor Electronics](https://www.thebrick.com/collections/seasonal-outdoor-electronics) [Outdoor Speakers](https://www.thebrick.com/collections/seasonal-outdoor-and-patio-outdoor-speakers) [Outdoor Televisions](https://www.thebrick.com/collections/electronics-televisions-outdoor-televisions) [Outdoor Electronic Accessories](https://www.thebrick.com/collections/outdoor-electronic-accessories)
-
-[Back to Outdoor](#)
-
-[Outdoor Accessories](https://www.thebrick.com/collections/seasonal-outdoor-accessories) [Outdoor Pillows](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-pillows) [Umbrellas and Covers](https://www.thebrick.com/collections/furniture-outdoor-and-patio-umbrellas-and-gazebos) [Outdoor Recreation](https://www.thebrick.com/collections/furniture-outdoor-and-patio-outdoor-recreation)
-
-[Back to Outdoor](#)
-
-* Ways to Shop
-[Buyer's Best](https://www.thebrick.com/collections/seasonal-buyers-best) [New Arrivals](https://www.thebrick.com/collections/seasonal-new) [On Sale](https://www.thebrick.com/collections/seasonal-on-sale)
-
-[Back to Menu](#)
-
 [Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](#) [Small Space Dining Furniture](#) [Small Space Bedroom Furniture](#) [Small Space Office Furniture](#)
 
 [Back to Small Spaces](#)
 
 * Small Space Living Room Furniture
-[Sofas](https://www.thebrick.com/collections/small-space-sofas) [Loveseats](https://www.thebrick.com/collections/small-space-loveseats) [Sectionals](https://www.thebrick.com/collections/small-space-sectionals) [Sleeper Sectionals](https://www.thebrick.com/collections/small-space-sleeper-sectionals) [Accent Chairs](https://www.thebrick.com/collections/small-space-accent-chairs) [Living Room Chairs](https://www.thebrick.com/collections/small-space-living-room-chairs) [Sofa Beds and Futons](https://www.thebrick.com/collections/small-space-sofa-beds-and-futons) [Occasional Tables](https://www.thebrick.com/collections/small-space-occasional-tables) [TV Stands](https://www.thebrick.com/collections/small-space-tv-stands) [Ottomans](https://www.thebrick.com/collections/small-space-ottomans) [Chests](https://www.thebrick.com/collections/small-space-trunks-and-benches) [Electric Fireplaces](https://www.thebrick.com/collections/small-space-electric-fireplaces)
+[Sofas](https://www.thebrick.com/collections/small-space-sofas) [Loveseats](https://www.thebrick.com/collections/small-space-loveseats) [Sectionals](https://www.thebrick.com/collections/small-space-sectionals) [Sleeper Sectionals](https://www.thebrick.com/collections/small-space-sleeper-sectionals) [Accent Chairs](https://www.thebrick.com/collections/small-space-accent-chairs) [Living Room Chairs](https://www.thebrick.com/collections/small-space-living-room-chairs) [Sofa Beds and Futons](https://www.thebrick.com/collections/small-space-sofa-beds-and-futons) [Occasional Tables](https://www.thebrick.com/collections/small-space-occasional-tables) [TV Stands](https://www.thebrick.com/collections/small-space-tv-stands) [Ottomans](https://www.thebrick.com/collections/small-space-ottomans) [Electric Fireplaces](https://www.thebrick.com/collections/small-space-electric-fireplaces)
 
 [Back to Small Spaces](#)
 
@@ -205,7 +180,7 @@ Get Directions
 [Back to Small Spaces](#)
 
 * Small Space Bedroom Furniture
-[Bedroom Packages](https://www.thebrick.com/collections/small-space-bedroom-packages) [Beds](https://www.thebrick.com/collections/small-space-beds) [Bunk Beds](https://www.thebrick.com/collections/small-space-bunk-beds) [Dressers, Chests & Mirrors](https://www.thebrick.com/collections/small-space-dressers-chests-mirrors) [Nightstands](https://www.thebrick.com/collections/small-space-nightstands) [Headboards](https://www.thebrick.com/collections/small-space-headboards)
+[Bedroom Packages](https://www.thebrick.com/collections/small-space-bedroom-packages) [Beds](https://www.thebrick.com/collections/small-space-beds) [Bunk Beds](https://www.thebrick.com/collections/small-space-bunk-beds) [Dressers, Chests & Mirrors](https://www.thebrick.com/collections/small-space-dressers-chests-mirrors) [Nightstands](https://www.thebrick.com/collections/small-space-nightstands)
 
 [Back to Small Spaces](#)
 
@@ -268,7 +243,7 @@ Seller Name
 
 [Electronics](#)
 
-[Outdoor](#)
+[Small Spaces](#)
 
 [Inspiration](#)
 
