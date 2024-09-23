@@ -1,6 +1,6 @@
 5.38.13
 
-1727059185186
+1727081261205
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727059010528
+1727080867255
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727058897621
+1727079983625
 
 You need to enable JavaScript to run this app.
 
@@ -43,6 +43,8 @@ Search product or brand
 [![Sign in to view account details](/static-content/icons/header/next/v2/vision/next_my-account.svg)](https://www.next.co.uk/secure/accounts/transfer)
 
 [![Sign in to view account details](/static-content/icons/header/next/v2/vision/next_my-account_desktop.svg)](https://www.next.co.uk/secure/accounts/transfer)
+
+[![Favourites icon](/static-content/icons/header/next/v2/vision/favourites-inactive-large.svg)](https://www.next.co.uk/favourites "Favourites")
 
 [![Shopping bag icon](/static-content/icons/header/next/v2/vision/shopping-bag-small.svg)](https://www.next.co.uk/shoppingbag "Shopping bag")
 
@@ -2452,7 +2454,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727058792070
+1727080243395
 
 ### Our Social Networks
 
