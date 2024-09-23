@@ -1,7 +1,3 @@
-     SafeWise Privacy Policy                                 
-
-   
-
 [skip to main content](#main-content)
 
 We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy through our links.
