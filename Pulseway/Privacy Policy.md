@@ -14,7 +14,7 @@
     * [Dutch](https://www.pulseway.com/nl)
     * [Portuguese](https://www.pulseway.com/pt)
 
-[](https://www.pulseway.com/)
+[![RMM Software](https://pulseway.s3.amazonaws.com/website/images/main/pulseway-white-logo.png "RMM Software")](https://www.pulseway.com/)
 
 * [Solutions](#)
     * [PRODUCTS](#)
@@ -283,7 +283,7 @@ If you have questions or concerns, you should first contact the Pulseway Privacy
 
  [![Google Play](https://pulseway.s3.amazonaws.com/website/images/home/menu/google_play_en.svg)](https://play.google.com/store/apps/details?id=com.mobilepcmonitor "Download Pulseway Mobile Application")[![AppStore](https://pulseway.s3.amazonaws.com/website/images/home/menu/apple_en.svg)](https://itunes.apple.com/app/id405566169?mt=8 "Download Pulseway Mobile Application")
 
-[](https://www.facebook.com/pulseway)[](https://twitter.com/pulsewayapp)[](https://www.linkedin.com/company/mmsoft-design-ltd-)[](https://www.youtube.com/user/pulsewayapp)[](https://www.reddit.com/r/Pulseway/)[![](https://pulseway.s3.amazonaws.com/website/images/social-icons/Spiceworks_32px_white.svg "Follow us on Spiceworks")](https://community.spiceworks.com/pages/pulseway)[](https://discord.com/channels/851751725512916992/851751725512916995)
+[](https://www.facebook.com/pulseway)[](https://twitter.com/pulsewayapp)[](https://www.linkedin.com/company/mmsoft-design-ltd-)[](https://www.youtube.com/user/pulsewayapp)[](https://www.reddit.com/r/Pulseway/)[![](https://pulseway.s3.amazonaws.com/website/images/social-icons/Spiceworks_32px_white.svg "Follow us on Spiceworks")](https://community.spiceworks.com/pages/pulseway)[](https://discord.gg/5jRxxWGBFy)
 
 * © 2024 Pulseway All Rights Reserved
 
