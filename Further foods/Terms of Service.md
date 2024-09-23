@@ -196,6 +196,17 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727098662)
+
+![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727098662)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
+
+[Pumpkin Spice Latte](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
+------------------------------------------------------------------------------------
+
+[![Hazelnut Collagen jar plus ice cubes](//www.furtherfood.com/cdn/shop/articles/20240923133000-img_0492_1200x900.jpg?v=1727098208)
+
+![Hazelnut Collagen jar plus ice cubes](//www.furtherfood.com/cdn/shop/articles/20240923133000-img_0492_1200x900.jpg?v=1727098208)](https://www.furtherfood.com/blogs/recipes/hazelnut-cold-brew-ice-cubes)
+
 [Hazelnut Cold Brew Ice Cubes](https://www.furtherfood.com/blogs/recipes/hazelnut-cold-brew-ice-cubes)
 ------------------------------------------------------------------------------------------------------
 
@@ -236,15 +247,6 @@ These Chocolate Hazelnut Pancakes are made with Further Food's Hazelnut Collagen
 --------------------------------------------------------------------------------------
 
 Looking for a healthy yet indulgent treat that feels like dessert but is packed with n...
-
-[![Pumpkin Spice cookie dough bites](//www.furtherfood.com/cdn/shop/articles/20240903175720-img_8302-20-1_1200x2134.jpg?v=1725392211)
-
-![Pumpkin Spice cookie dough bites](//www.furtherfood.com/cdn/shop/articles/20240903175720-img_8302-20-1_1200x2134.jpg?v=1725392211)](https://www.furtherfood.com/blogs/recipes/pumpkin-pie-spice-cookie-dough-bark)
-
-[Pumpkin Pie Spice Cookie Dough Bark](https://www.furtherfood.com/blogs/recipes/pumpkin-pie-spice-cookie-dough-bark)
---------------------------------------------------------------------------------------------------------------------
-
-Indulge in the flavors of fall with our Pumpkin Pie Spice Cookie Dough Bark, a decadent...
 
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
