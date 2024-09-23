@@ -131,6 +131,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [The Secrets to Bruce Lee’s Legendary Physical Training](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
+
+[Skill of the Week: Treat Someone for Shock](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
 
 [Podcast #1,024: The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
@@ -142,10 +146,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Blurry image of a fast food restaurant counter with illuminated menu boards offering meals less than 600 calories and high in protein, and a person using a phone in the foreground.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/fast-food-high-protein/)
 
 [5 Fast-Food Meals That Are High in Protein and Less Than 600 Calories](https://www.artofmanliness.com/health-fitness/health/fast-food-high-protein/)
-
-[![Image with the text ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1011-lose-weight-and-keep-it-off-with-flexible-dieting/)
-
-[Podcast #1,011: Lose Weight and Keep It Off With Flexible Dieting](https://www.artofmanliness.com/health-fitness/health/podcast-1011-lose-weight-and-keep-it-off-with-flexible-dieting/)
 
 [![A group of men in swim trunks standing in a line participate in History's Hardest P.E. Program.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/program-review/the-insanely-difficult-standards-of-historys-hardest-p-e-program/)
 
