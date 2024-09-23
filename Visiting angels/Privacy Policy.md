@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Isolation and Depression in the Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/isolation-and-depression-in-the-elderly/1)
+[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
 
-[How a Home Care Agency Can Help Prevent Falls](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-home-care-agency-can-help-prevent-falls/483)
+[The Best Senior Care: Treat Them with Respect](https://www.visitingangels.com/knowledge-center/why-in-home-care/the-best-senior-care-treat-them-with-respect/476)
 
-[How to Plan for End of Life Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/how-to-plan-for-end-of-life-care/470)
+[How the Best Providers of Elder Care Services Define "Care"](https://www.visitingangels.com/knowledge-center/care-options/how-the-best-providers-of-elder-care-services-define-care/423)
 
-[Things Change: What to Do When Your Senior Loved One Stops Doing Things They Love](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/things-change-what-to-do-when-your-senior-loved-one-stops-doing-things-they-love/371)
+[A Generation in Denial: A Call for Faster Action](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/a-generation-in-denial-a-call-for-faster-action/356)
 
-[Don't Ignore These 5 Signs Your Elderly Loved One Needs Help Immediately](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/dont-ignore-these-5-signs-your-elderly-loved-one-needs-help-immediately/309)
+[What to Know About Switching Professional Caregivers](https://www.visitingangels.com/knowledge-center/selecting-care/what-to-know-about-switching-professional-caregivers/328)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
