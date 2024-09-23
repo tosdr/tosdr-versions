@@ -91,19 +91,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")2 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")8 hours ago
             
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [This researcher studies how misinformation seeps into science and politics](https://www.sciencenews.org/article/yotam-ophir-media-and-science)
+            ### [By studying the eyes, a researcher explores how the brain sorts information](https://www.sciencenews.org/article/freek-van-ede-brain-attention-eye-sort)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")2 hours ago
+            By [Bethany Brookshire](https://www.sciencenews.org/author/bethany-brookshire "Posts by Bethany Brookshire")8 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [A cell biologist is investigating the balance of brain flexibility, stability](https://www.sciencenews.org/article/andrea-gomez-brain-flexibility-behavior)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")8 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")2 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")8 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [This biophysicist’s work could one day let doctors control immune cells](https://www.sciencenews.org/article/hawa-racine-thiam-cell-biology-physics)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")2 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")8 hours ago
             
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+        * [Environment](https://www.sciencenews.org/topic/environment)
             
-            ### [A cell biologist is investigating the balance of brain flexibility, stability](https://www.sciencenews.org/article/andrea-gomez-brain-flexibility-behavior)
+            ### [A biogeochemist is tracking the movements of toxic mercury pollution](https://www.sciencenews.org/article/jacqueline-gerson-mercury-movement)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")8 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A biogeochemist is tracking the movements of toxic mercury pollution](https://www.sciencenews.org/article/jacqueline-gerson-mercury-movement)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")2 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")8 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -161,46 +161,46 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Cosmology](https://www.sciencenews.org/topic/cosmology)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")6 hours ago
+            
+        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")2 hours ago
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")8 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [This biophysicist’s work could one day let doctors control immune cells](https://www.sciencenews.org/article/hawa-racine-thiam-cell-biology-physics)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")2 hours ago
-            
-        * [Materials Science](https://www.sciencenews.org/topic/materials-science)
-            
-            ### [A materials scientist seeks to extract lithium from untapped sources](https://www.sciencenews.org/article/chong-liu-lithium-ev-batteries)
-            
-            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")2 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")8 hours ago
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Cosmology](https://www.sciencenews.org/topic/cosmology)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")6 hours ago
+            
+        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")2 hours ago
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")8 hours ago
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [A neutrino mass mismatch could shake cosmology’s foundations](https://www.sciencenews.org/article/neutrino-mass-phenomenon-cosmology)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 20, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [Meet Porphyrion, the largest pair of black hole jets ever seen](https://www.sciencenews.org/article/universe-largest-black-hole-jets)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 18, 2024
             
 
 Privacy Policy
