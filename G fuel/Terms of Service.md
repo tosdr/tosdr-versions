@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                  
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                            
 
 [Skip to content](#MainContent)  
 
@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/570/assets/fearfest-search-icon-black.png?v=70690630930442313831726779216)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/571/assets/fearfest-search-icon-black.png?v=70690630930442313831727106692)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/570/assets/fearfest-account-icon.png?v=50085873134992036791726779216) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/570/assets/fearfest-search-icon-black.png?v=70690630930442313831726779216) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/570/assets/bloody-hamburger-menu.png?v=86003260733675859121726779216) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/570/assets/fearfest-cart-icon.png?v=54831520779337061261726779216) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/571/assets/fearfest-account-icon.png?v=50085873134992036791727106692) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/571/assets/fearfest-search-icon-black.png?v=70690630930442313831727106692) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/571/assets/bloody-hamburger-menu.png?v=86003260733675859121727106692) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/571/assets/fearfest-cart-icon.png?v=54831520779337061261727106692) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -372,7 +372,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/570/assets/app-store-badge.svg?v=123926581890561309811726779216)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/570/assets/google-play-badge.png?v=132395384020293405351726779216)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/571/assets/app-store-badge.svg?v=123926581890561309811727106692)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/571/assets/google-play-badge.png?v=132395384020293405351727106692)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -392,7 +392,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.7 out of 5 stars
 
-2,876 Reviews
+2,877 Reviews
 
 4.4
 
@@ -404,7 +404,7 @@ Rated 4.4 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-111 Reviews
+112 Reviews
 
 4.5
 
@@ -417,6 +417,12 @@ Rated 4.5 out of 5 stars
 Rated 4.7 out of 5 stars
 
 1,900 Reviews
+
+4.5
+
+Rated 4.5 out of 5 stars
+
+271 Reviews
 
 4.7
 
@@ -434,16 +440,10 @@ Rated 4.5 out of 5 stars
 
 Rated 4.4 out of 5 stars
 
-1,767 Reviews
+1,768 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
 311 Reviews
-
-4.8
-
-Rated 4.8 out of 5 stars
-
-1,875 Reviews
