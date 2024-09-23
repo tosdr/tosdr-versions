@@ -215,7 +215,7 @@ Main Content
 
 **United Way of Greater Milwaukee & Waukesha County PRIVACY STATEMENT**
 
-**Last reviewed/updated:** May 1, 2024  
+**Last reviewed/updated:** September 23, 2024
 
 **Purpose of this Privacy Statement** 
 
@@ -271,6 +271,12 @@ UWGMWC uses appropriate and reasonable organizational, electronic, procedural, p
 **Retention Period** 
 
 We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.   
+
+**VoterVoice App**
+
+VoterVoice is a platform used by United Way for web visitors to optionally provide contact information for the purpose of participating in education and advocacy campaigns. Information collected on the Voter Voice platform will be shared with United Way of Greater Milwaukee & Waukesha County and its affiliates (as applicable) for the purposes of facilitating and coordinating the campaign and for engaging with the respective local United Way.
+
+The VoterVoice Privacy Statement is available [here.](https://fiscalnote.com/privacy?_gl=1*1k2n9x4*_gcl_au*MTQ4NDI1NDQ3NS4xNzI2MTkwNTU2&_ga=2.266754766.1592889488.1726190556-1086451754.1726190556)
 
 **Third Party Content and Links** 
 
