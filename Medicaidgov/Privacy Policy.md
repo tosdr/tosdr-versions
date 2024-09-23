@@ -343,7 +343,6 @@ MainMenu
         
         * [Waiting Periods](https://www.medicaid.gov/chip/eligibility-standards/waiting-periods-chip/index.html)
         * [Continuous Eligibility (CE)](https://www.medicaid.gov/chip/eligibility/continuous-eligibility/index.html)
-        * [Enrollment Strategies](https://www.medicaid.gov/node/0a22c7e1-b915-4202-9dd3-fc7b7a95dd83)
     * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
 * [Basic Health Program](https://www.medicaid.gov/basic-health-program/index.html)
 * State Overviews
@@ -692,7 +691,6 @@ MainMenu Desktop
         
         * [Waiting Periods](https://www.medicaid.gov/chip/eligibility-standards/waiting-periods-chip/index.html)
         * [Continuous Eligibility (CE)](https://www.medicaid.gov/chip/eligibility/continuous-eligibility/index.html)
-        * [Enrollment Strategies](https://www.medicaid.gov/node/0a22c7e1-b915-4202-9dd3-fc7b7a95dd83)
     * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
 * [Basic Health Program](https://www.medicaid.gov/basic-health-program/index.html)
 * State Overviews
