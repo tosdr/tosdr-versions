@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -30,7 +30,7 @@
     
     [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)
     
-    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
+    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
     
 
 [![](/images/common/bottom_logo3_1_cr.gif)](https://www.russianfood.com/)
@@ -50,7 +50,7 @@
 
 [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)  
 
-[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
+[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
 
 ![](/images/loading_16_green2.gif)
 
@@ -148,7 +148,6 @@
 
 Сейчас читают
 
-* [Винегрет с грушей и квашеной капустой](https://www.russianfood.com/recipes/recipe.php?rid=169011)
 * [Булочки с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174336)
 
 |     |
@@ -174,213 +173,213 @@
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Яблочный пирог со сметанным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174234) |     |
+| Рецепты<br><br>[Салат со свёклой, грушей, брынзой, черемшой и орехами](https://www.russianfood.com/recipes/recipe.php?rid=173322) |     |
 
-[![Фото к рецепту: Яблочный пирог со сметанным кремом](//img1.russianfood.com/dycontent/images_upl/739/sm_738977.jpg "Фото к рецепту: Яблочный пирог со сметанным кремом")](https://www.russianfood.com/recipes/recipe.php?rid=174234)
+[![Фото к рецепту: Салат со свёклой, грушей, брынзой, черемшой и орехами](//img1.russianfood.com/dycontent/images_upl/736/sm_735276.jpg "Фото к рецепту: Салат со свёклой, грушей, брынзой, черемшой и орехами")](https://www.russianfood.com/recipes/recipe.php?rid=173322)
 
-Этот пирог готовится из мягкого бездрожжевого теста на сливочном масле и яйцах с яблочной прослойкой. Верх пирога украшен простейшим сметанным кремом, который добавляет нежности и вкуса. Отличная выпечка для уютного домашнего чаепития.
+Салат со свёклой, грушей, брынзой, черемшой и орехами понравится любителям оригинальных вкусов. Благодаря свёкле салат получается питательным и ярким, черемша придаёт немного пикантности, а груша - приятные фруктовые нотки. Подчеркивает вкус продуктов заправка из оливкового масла, соевого соуса, лимонного сока и горчицы в зернах.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174234)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173322)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174234#comments) | 23.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173322#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281) |     |
+| Рецепты<br><br>[Салат с копченой курицей, фасолью, морковью и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=173330) |     |
 
-[![Фото к рецепту: Томатная самса с фаршем и овощами (в духовке)](//img1.russianfood.com/dycontent/images_upl/739/sm_738921.jpg "Фото к рецепту: Томатная самса с фаршем и овощами (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=174281)
+[![Фото к рецепту: Салат с копченой курицей, фасолью, морковью и сухариками](//img1.russianfood.com/dycontent/images_upl/736/sm_735214.jpg "Фото к рецепту: Салат с копченой курицей, фасолью, морковью и сухариками")](https://www.russianfood.com/recipes/recipe.php?rid=173330)
 
-Такая яркая-жаркая по вкусу и цвету самса обязана своей необычностью тому, что дрожжевое тесто для неё замешивается на томатном соке. Мясная начинка дополняется овощами и ароматной зеленью, что делает самсу ещё сочнее и ароматнее.
+Насыщенный салат с курицей, фасолью, морковью и сухариками. Питательная копчёная курица и консервированная фасоль обеспечивают сытность салата, а самостоятельно приготовленные сухарики придают приятный хруст. Салат заправляется майонезом.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174281)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173330)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174281#comments) | 23.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173330#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Насыпной пирог с творогом и сливами](https://www.russianfood.com/recipes/recipe.php?rid=174109) |     |
+| Рецепты<br><br>[Салат с помидорами, авокадо, нутом и фасолью](https://www.russianfood.com/recipes/recipe.php?rid=173378) |     |
 
-[![Фото к рецепту: Насыпной пирог с творогом и сливами](//img1.russianfood.com/dycontent/images_upl/739/sm_738325.jpg "Фото к рецепту: Насыпной пирог с творогом и сливами")](https://www.russianfood.com/recipes/recipe.php?rid=174109)
+[![Фото к рецепту: Салат с помидорами, авокадо, нутом и фасолью](//img1.russianfood.com/dycontent/images_upl/736/sm_735674.jpg "Фото к рецепту: Салат с помидорами, авокадо, нутом и фасолью")](https://www.russianfood.com/recipes/recipe.php?rid=173378)
 
-Быстрый и несложный в приготовлении насыпной пирог с творогом и сливами. Прекрасная домашняя выпечка без замешивания и раскатывания теста, его роль выполняет песочная крошка. Половинки слив во время выпекания размягчаются и придают сочность.
+Салат с помидорами, авокадо, нутом и фасолью полезный, яркий и вкусный. Основу салата составляет вареный нут, благодаря которому салат получается питательным, помидоры придают сочность, а авокадо превращает салат в максимально полезное блюдо. Если вы придерживаетесь правильного питания, такой салат наверняка вам понравится.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174109)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173378)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174109#comments) | 23.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173378#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Лимонные кексы с кабачками и глазурью](https://www.russianfood.com/recipes/recipe.php?rid=174286) |     |
+| Рецепты<br><br>[Салат с курицей, кабачками и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173756) |     |
 
-[![Фото к рецепту: Лимонные кексы с кабачками и глазурью](//img1.russianfood.com/dycontent/images_upl/740/sm_739147.jpg "Фото к рецепту: Лимонные кексы с кабачками и глазурью")](https://www.russianfood.com/recipes/recipe.php?rid=174286)
+[![Фото к рецепту: Салат с курицей, кабачками и помидорами](//img1.russianfood.com/dycontent/images_upl/737/sm_736746.jpg "Фото к рецепту: Салат с курицей, кабачками и помидорами")](https://www.russianfood.com/recipes/recipe.php?rid=173756)
 
-Стоит раз попробовать эти влажные кексы, и вы будете печь их всякий раз, как вам будет попадаться на глаза кабачок и лимон. Вкус кабачка в выпечке смогут уловить только истинные гурманы. После выпечки кексы поливаются лимонной глазурью, что делает их ещё вкуснее.
+Салат с курицей, кабачками и помидорами - простое и вкусное блюдо, подходящее как для повседневного стола, так и для праздников. Кабачки обжариваются с добавлением имбиря, благодаря чему блюдо приобретает аппетитный аромат.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174286)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173756)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174286#comments) | 23.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173756#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Осеняя кухня на скорую руку. Лучшие рецепты БЫСТРЕЕ! №24-39](https://www.russianfood.com/reading/?post_id=22634) |     |
+| Рецепты<br><br>[Салат с кальмарами, помидорами и горошком](https://www.russianfood.com/recipes/recipe.php?rid=173961) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/672/sm_671436.jpg)](https://www.russianfood.com/reading/?post_id=22634)
+[![Фото к рецепту: Салат с кальмарами, помидорами и горошком](//img1.russianfood.com/dycontent/images_upl/737/sm_736974.jpg "Фото к рецепту: Салат с кальмарами, помидорами и горошком")](https://www.russianfood.com/recipes/recipe.php?rid=173961)
 
-Овощное рагу с картофелем и грибами. Свинина с тыквой и солёными огурцами. Ризотто со скумбрией и кальмарами. Овощной салат с авокадо и шпинатом. Пирожные из сгущёнки с кокосовой стружкой.
+Салат с кальмарами, помидорами и горошком - изысканное блюдо, которое понравится любителям морепродуктов. Кальмары варятся очень быстро, а все остальные ингредиенты не требуют термической обработки. Заправляется салат майонезом.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22634)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173961)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22634#comments) | 23.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173961#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Поговорим на вкусном языке. Лучшие САЛАТЫ №24-39](https://www.russianfood.com/reading/?post_id=22633) |     |
+| Рецепты<br><br>[Салат со свёклой, апельсином, сыром и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174000) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/735/sm_734687.jpg)](https://www.russianfood.com/reading/?post_id=22633)
+[![Фото к рецепту: Салат со свёклой, апельсином, сыром и сельдереем](//img1.russianfood.com/dycontent/images_upl/735/sm_734209.jpg "Фото к рецепту: Салат со свёклой, апельсином, сыром и сельдереем")](https://www.russianfood.com/recipes/recipe.php?rid=174000)
 
-Салат со свёклой, авокадо и грушей. Тёплый салат с кальмарами и солёными огурцами. Слоёный салат с говяжьей печенью. Салат с копчёной красной рыбой и маслинами. Салат с запечённым куриным филе и грушей. Маринованная стручковая фасоль. Салат из квашеной капусты с беконом.
+Салат со свёклой, апельсином и сыром благодаря ярким цветам и необычному сочетанию ингредиентов станет настоящим украшением вашего стола. Салат посыпается твёрдым сыром, что придаёт вкусу интересные нотки.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22633)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174000)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22633#comments) | 23.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174000#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Открываем вкусные секреты. Лучшие рецепты из КУРИЦЫ (21)](https://www.russianfood.com/reading/?post_id=22632) |     |
+| Рецепты<br><br>[Салат с говядиной, сыром и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174009) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/730/sm_729098.jpg)](https://www.russianfood.com/reading/?post_id=22632)
+[![Фото к рецепту: Салат с говядиной, сыром и кукурузой](//img1.russianfood.com/dycontent/images_upl/734/sm_733607.jpg "Фото к рецепту: Салат с говядиной, сыром и кукурузой")](https://www.russianfood.com/recipes/recipe.php?rid=174009)
 
-Курица с булгуром и овощами. Курица с картошкой, тыквой и яблоком. Пирожки с курицей. Кускус с сердечками и овощами. Салат с филе, помидорами и грибами.
+Салат с говядиной, сыром и кукурузой - блюдо хоть и готовится из небольшого количества продуктов, но получается весьма сытным. Отварная говядина и яйца отлично сочетаются с твёрдым сыром, маринованным луком и сладковатой консервированной кукурузой.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22632)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174009)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22632#comments) | 23.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174009#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Ароматный паштет и блюда посытнее. ФАСОЛЬ по-необычному (18)](https://www.russianfood.com/reading/?post_id=22629) |     |
+| Рецепты<br><br>[Салат с запечённой курицей, баклажанами, кабачками и перцем](https://www.russianfood.com/recipes/recipe.php?rid=174074) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/480/sm_479015.jpg)](https://www.russianfood.com/reading/?post_id=22629)
+[![Фото к рецепту: Салат с запечённой курицей, баклажанами, кабачками и перцем](//img1.russianfood.com/dycontent/images_upl/739/sm_738203.jpg "Фото к рецепту: Салат с запечённой курицей, баклажанами, кабачками и перцем")](https://www.russianfood.com/recipes/recipe.php?rid=174074)
 
-Паштет из фасоли с орехами и гранатовым соком. Запеканка с фаршем и стручковой фасолью. Фасоль с ветчиной в томатном соусе. Стручковая фасоль, тушенная с помидорами.
+Салат с запечённой курицей, баклажанами и кабачками может стать центральным блюдом закусочного стола. Филе для салата сперва маринуется в смеси горчицы и соевого соуса, а затем запекается в духовке. Овощи также запекаются в духовке.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22629)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174074)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22629#comments) | 22.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174074#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Калейдоскоп осенних вкусов. Время САЛАТОВ (143)](https://www.russianfood.com/reading/?post_id=22628) |     |
+| Рецепты<br><br>[Салат с чечевицей, помидорами и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174076) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/710/sm_709704.jpg)](https://www.russianfood.com/reading/?post_id=22628)
+[![Фото к рецепту: Салат с чечевицей, помидорами и фетой](//img1.russianfood.com/dycontent/images_upl/739/sm_738224.jpg "Фото к рецепту: Салат с чечевицей, помидорами и фетой")](https://www.russianfood.com/recipes/recipe.php?rid=174076)
 
-Салат "Чафан" с курицей. Салат с креветками, грибами и фетой. Салат с фасолью, овощами и сухариками. Винегрет с чечевицей и горошком. Салат с морской капустой и овощами.
+Салат с чечевицей, помидорами и фетой - блюдо повышенной питательности и неимоверной сочности. Благодаря зелёной чечевице такой сытный салат можно подать даже в качестве гарнира, а базилик и обжаренный лук придают необыкновенный аромат.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22628)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174076)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22628#comments) | 22.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174076#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Время наслаждаться. Лучшие СЛАДОСТИ №24-38](https://www.russianfood.com/reading/?post_id=22627) |     |
+| Рецепты<br><br>[Салат с кальмарами, яблоком и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174105) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/738/sm_737170.jpg)](https://www.russianfood.com/reading/?post_id=22627)
+[![Фото к рецепту: Салат с кальмарами, яблоком и овощами](//img1.russianfood.com/dycontent/images_upl/734/sm_733236.jpg "Фото к рецепту: Салат с кальмарами, яблоком и овощами")](https://www.russianfood.com/recipes/recipe.php?rid=174105)
 
-Песочное печенье "Косички". Лимонный кекс с глазурью. Тыквенно-банановое печенье "Детское". Суфле из тыквы. Шоколадно-тыквенное суфле с пряностями и ганашем. Яблоки, запечённые с черносливом и имбирём. Джем из слив на зиму.
+Салат с кальмарами, яблоком и овощами хоть и готовится из небольшого количества ингредиентов, но получается насыщенным и сытным. Вареные кальмары, свежий огурец, морковь и заправка из бальзамического уксуса, сока лайма, оливкового масла и горчицы в зёрнах - сочетание, гарантирующее отличный вкус.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22627)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174105)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22627#comments) | 22.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174105#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Выпекаем с отличием. Лучшая ВЫПЕЧКА №24-38](https://www.russianfood.com/reading/?post_id=22624) |     |
+| Рецепты<br><br>[Салат с крабовыми палочками, помидорами, сельдереем и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174123) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/729/sm_728451.jpg)](https://www.russianfood.com/reading/?post_id=22624)
+[![Фото к рецепту: Салат с крабовыми палочками, помидорами, сельдереем и фетой](//img1.russianfood.com/dycontent/images_upl/741/sm_740179.jpg "Фото к рецепту: Салат с крабовыми палочками, помидорами, сельдереем и фетой")](https://www.russianfood.com/recipes/recipe.php?rid=174123)
 
-Сдобный пирог с конфитюром. Творожный кекс с какао. Яблочная шарлотка с калиной. Слоёный киш со шпинатно-яичной начинкой. Пирожки с капустой в молоке. Булочки с творогом и сгущёнкой. Пряное творожное печенье.
+Если хочется поесть быстро, вкусно и сытно, салат с крабовыми палочками, овощами, фетой и яйцами идеально подойдёт для этого случая. Пока варятся яйца, можно подготовить остальные продукты: нарезать овощи, крабовые палочки и фету. Заправляется салат сметаной и горчицей.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22624)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174123)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22624#comments) | 21.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174123#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Прежняя форма, новый вкус. КОТЛЕТЫ по-необычному (18)](https://www.russianfood.com/reading/?post_id=22623) |     |
+| Рецепты<br><br>[Салат с говядиной, овощами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174132) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/697/sm_696356.jpg)](https://www.russianfood.com/reading/?post_id=22623)
+[![Фото к рецепту: Салат с говядиной, овощами и оливками](//img1.russianfood.com/dycontent/images_upl/741/sm_740176.jpg "Фото к рецепту: Салат с говядиной, овощами и оливками")](https://www.russianfood.com/recipes/recipe.php?rid=174132)
 
-Котлеты из риса с тыквой. Котлеты из гречки и фасоли. Куриные котлеты с морковью и зеленью. Постные котлеты из цветной капусты с зеленью.
+Салат с говядиной, овощами и оливками - гораздо больше, чем закуска. Он может заменить полноценный приём пищи. Отварная говядина и свежие овощи дополняют друга друга, а подчёркивает вкус продуктов заправка с добавлением лимонного сока, соевого соуса и горчицы.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22623)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174132)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22623#comments) | 21.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174132#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Супчиков осенних яркий хит-парад. Время СУПОВ (61)](https://www.russianfood.com/reading/?post_id=22622) |     |
+| Рецепты<br><br>[Салат с ветчиной, огурцами, горошком и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174133) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/537/sm_536821.jpg)](https://www.russianfood.com/reading/?post_id=22622)
+[![Фото к рецепту: Салат с ветчиной, огурцами, горошком и сыром](//img1.russianfood.com/dycontent/images_upl/739/sm_738836.jpg "Фото к рецепту: Салат с ветчиной, огурцами, горошком и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174133)
 
-Греческий суп с чечевицей. Суп с капустой и сыром. Куриный суп с рисом и кукурузой. Тыквенный суп с тушёнкой и фасолью. Овощной суп с индейкой, перловкой и шпинатом.
+Салат с ветчиной, огурцами, горошком и сыром - прекрасное блюдо, которое подойдёт как для быстрого перекуса, так и для визита гостей. Питательность варёных яиц и ветчины, свежесть огурцов и зелени, а также приятная сливочность сыра соединяются воедино, образуя великолепный вкусовой ансамбль.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22622)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174133)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22622#comments) | 21.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174133#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Тыква, запечённая с картошкой, перцем и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174367) |     |
+| Рецепты<br><br>[Салат с крабовыми палочками, помидорами и яичными блинчиками](https://www.russianfood.com/recipes/recipe.php?rid=174163) |     |
 
-[![Фото к рецепту: Тыква, запечённая с картошкой, перцем и грибами](//img1.russianfood.com/dycontent/images_upl/740/sm_739860.jpg "Фото к рецепту: Тыква, запечённая с картошкой, перцем и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174367)
+[![Фото к рецепту: Салат с крабовыми палочками, помидорами и яичными блинчиками](//img1.russianfood.com/dycontent/images_upl/738/sm_737919.jpg "Фото к рецепту: Салат с крабовыми палочками, помидорами и яичными блинчиками")](https://www.russianfood.com/recipes/recipe.php?rid=174163)
 
-Тыква, запечённая с картошкой, сладким перцем и грибами, — это аппетитное и яркое блюдо, которое идеально подойдёт для обеда или ужина. В процессе запекания овощи и грибы пропитываются пряностями, что придаёт им насыщенный вкус и делает их особенно ароматными.
+Яркий и аппетитный салат с крабовыми палочками, помидорами и фетой прост в приготовлении и точно будет пользоваться популярностью в повседневном и праздничном меню. Благодаря яичным блинчикам салат получается особенно сытным.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174367)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174163)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Sve4kaSV](https://www.russianfood.com/blogs/?id=217903) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174367#comments) | 20.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174163#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Просто диво – и легко, и красиво! Лучшие рецепты ПИРОГОВ (64)](https://www.russianfood.com/reading/?post_id=22620) |     |
+| Рецепты<br><br>[Салат с грушами, фетой и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174175) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/693/sm_692213.jpg)](https://www.russianfood.com/reading/?post_id=22620)
+[![Фото к рецепту: Салат с грушами, фетой и орехами](//img1.russianfood.com/dycontent/images_upl/738/sm_737961.jpg "Фото к рецепту: Салат с грушами, фетой и орехами")](https://www.russianfood.com/recipes/recipe.php?rid=174175)
 
-Пирог с яблоками, сливами и безе. Тыквенно-банановый кекс с орехами и карамельной глазурью. Манник с грушами и орехами. Творожный киш с кабачками и беконом. Пирог с вареньем.
+Салат с грушами, фетой и орехами готовится несложно, а его вкус вполне позволяет назвать это блюдо праздничным. Груши в процессе карамелизации становятся мягкими и сладкими, они идеально сочетаются с солоноватой фетой и хрустящими грецкими орехами.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22620)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174175)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22620#comments) | 20.09.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174175#comments) | 23.09.24 |     |
 
 |     |
 | --- |
@@ -451,10 +450,12 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738977.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174234) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739147.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174286) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738921.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174281) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738325.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174109) |
-| [Яблочный пирог со сметанным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174234) | [Лимонные кексы с кабачками и глазурью](https://www.russianfood.com/recipes/recipe.php?rid=174286) | [Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [Насыпной пирог с творогом и сливами](https://www.russianfood.com/recipes/recipe.php?rid=174109) |
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735064.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173270) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734209.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174000) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735214.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173330) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736974.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173961) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735276.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173322) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738977.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174234) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737919.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174163) |
+| [Булгур с куриными желудками и бататом](https://www.russianfood.com/recipes/recipe.php?rid=173270) | [Салат со свёклой, апельсином, сыром и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174000) | [Салат с копченой курицей, фасолью, морковью и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=173330) | [Салат с кальмарами, помидорами и горошком](https://www.russianfood.com/recipes/recipe.php?rid=173961) | [Салат со свёклой, грушей, брынзой, черемшой и орехами](https://www.russianfood.com/recipes/recipe.php?rid=173322) | [Яблочный пирог со сметанным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174234) | [Салат с крабовыми палочками, помидорами и яичными блинчиками](https://www.russianfood.com/recipes/recipe.php?rid=174163) |
+| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740179.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737961.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174175) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738002.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174208) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739306.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174130) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735674.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173378) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738948.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737801.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174078) |
+| [Салат с крабовыми палочками, помидорами, сельдереем и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [Салат с грушами, фетой и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174175) | [Салат с креветками, помидорами, моцареллой и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174208) | [Чизкейк с голубикой, из рубленого теста](https://www.russianfood.com/recipes/recipe.php?rid=174130) | [Салат с помидорами, авокадо, нутом и фасолью](https://www.russianfood.com/recipes/recipe.php?rid=173378) | [Пицца из сырного теста, с колбасой, маринованными огурцами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [Макароны с курицей, грибами и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174078) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,3 +471,5 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
+
+(94)
