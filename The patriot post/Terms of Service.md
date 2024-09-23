@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110428-mid-day-digest-2024-09-20?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110477-mid-day-digest-2024-09-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,32 +185,32 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110428-mid-day-digest-2024-09-20?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110477-mid-day-digest-2024-09-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110441-the-border-2024-09-23)
+     [](https://patriotpost.us/memes/110451-dodging-venn-2024-09-23)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34256)
+     [](https://patriotpost.us/cartoons/34260)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Gary Bauer Springfield Speaks](https://patriotpost.us/opinion/110442-springfield-speaks-2024-09-23)
+*      [Rich Lowry Thank You, Caitlin Clark](https://patriotpost.us/opinion/110444-thank-you-caitlin-clark-2024-09-23)
+*      [The Babylon Bee 15 Seconds Into Kamala Harris Interview, Oprah Decides to Endorse Trump](https://patriotpost.us/opinion/110443-15-seconds-into-kamala-harris-interview-oprah-decides-to-endorse-trump-2024-09-23)
 *      [The Washington Stand The Democrats’ IVF Misinformation Campaign](https://patriotpost.us/opinion/110431-the-democrats-ivf-misinformation-campaign-2024-09-23)
 *      [Guest Commentary Thou Shalt Not Covet](https://patriotpost.us/opinion/110281-thou-shalt-not-covet-2024-09-23)
 *      [Matthew Continetti Biden’s Long Shadow](https://patriotpost.us/opinion/110429-bidens-long-shadow-2024-09-21)
 *      [Allen West The Delusional and Dangerous Hypocrisy](https://patriotpost.us/opinion/110358-the-delusional-and-dangerous-hypocrisy-2024-09-21)
 *      [The Washington Stand Fact-Checking PolitiFact, the Media, and Democrats on Born-Alive Infants](https://patriotpost.us/opinion/110430-fact-checking-politifact-the-media-and-democrats-on-born-alive-infants-2024-09-21)
-*      [Hans von Spakovsky Did Elite Colleges Lie to the Supreme Court or Are They Breaking the Law Today?](https://patriotpost.us/opinion/110418-did-elite-colleges-lie-to-the-supreme-court-or-are-they-breaking-the-law-today-2024-09-20)
-*      [David Harsanyi On Abortion, Kamala Harris Is the Extremist](https://patriotpost.us/opinion/110416-on-abortion-kamala-harris-is-the-extremist-2024-09-20)
-*      [Josh Hammer Why Are the Nutjobs Trying to Kill Political Opponents All Left-Wingers?](https://patriotpost.us/opinion/110414-why-are-the-nutjobs-trying-to-kill-political-opponents-all-left-wingers-2024-09-20)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### The Foundation
 
-“The same prudence which in private life would forbid our paying our own money for unexplained projects, forbids it in the dispensation of the public moneys.” —Thomas Jefferson (1808)
+“The great object of my fear is the federal judiciary. That body, like gravity, ever acting, with noiseless foot, and unalarming advance, gaining ground step by step, and holding what it gains, is ingulfing insidiously the special governments into the jaws of that which feeds them.” —Thomas Jefferson (1821)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
