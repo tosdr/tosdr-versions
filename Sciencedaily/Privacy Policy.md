@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 22, 2024**
+**September 23, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
+[Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
 
-[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+[Cosmetic Surgery](https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
-
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
-
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
-
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
+
+[Trees](https://www.sciencedaily.com/news/plants_animals/trees/)
 
   
 
