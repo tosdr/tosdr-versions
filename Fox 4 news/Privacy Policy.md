@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Sanders connects with Wester on Hail Mary in regulation, Colorado beats Baylor 38-31 in overtime](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173619945.jpg?ve=1&tl=1)
+ [![Fort Worth church reopens doors 4 months after devastating fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092224-AB-YUMA-ST-CHURCH-FIRE-REUNION-PKG-JB_KDFW2_00.00.03.30.jpg?ve=1&tl=1)
 
- ![Sanders connects with Wester on Hail Mary in regulation, Colorado beats Baylor 38-31 in overtime](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173619945.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/sanders-connects-wester-hail-mary-regulation-colorado-beats-baylor-38-31-overtime)
+ ![Fort Worth church reopens doors 4 months after devastating fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092224-AB-YUMA-ST-CHURCH-FIRE-REUNION-PKG-JB_KDFW2_00.00.03.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-church-reopens-true-love-sanctuary)
 
-### [Sanders connects with Wester on Hail Mary in regulation, Colorado beats Baylor 38-31 in overtime](https://www.fox4news.com/sports/sanders-connects-wester-hail-mary-regulation-colorado-beats-baylor-38-31-overtime)
+### [Fort Worth church reopens doors 4 months after devastating fire](https://www.fox4news.com/news/fort-worth-church-reopens-true-love-sanctuary)
 
- [![Josh Heupel wins in return to Oklahoma as No. 6 Tennessee tops the Sooners 25-15](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172820040.jpg?ve=1&tl=1)
+ [![Secret Service uniformed officer accidentally shoots himself while on duty](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-144079176-scaled.jpg?ve=1&tl=1)
 
- ![Josh Heupel wins in return to Oklahoma as No. 6 Tennessee tops the Sooners 25-15](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172820040.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/josh-heupel-wins-return-oklahoma-no-6-tennessee-tops-sooners-25-15)
+ ![Secret Service uniformed officer accidentally shoots himself while on duty](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-144079176-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/secret-service-uniformed-officer-accidentally-shoots-himself-while-duty)
 
-### [Josh Heupel wins in return to Oklahoma as No. 6 Tennessee tops the Sooners 25-15](https://www.fox4news.com/sports/josh-heupel-wins-return-oklahoma-no-6-tennessee-tops-sooners-25-15)
+### [Secret Service uniformed officer accidentally shoots himself while on duty](https://www.fox4news.com/news/secret-service-uniformed-officer-accidentally-shoots-himself-while-duty)
 
- [![McGill, Morris lead North Texas to 44-17 trouncing over Wyoming](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172831113.jpg?ve=1&tl=1)
+ [![18-year-old charged with intoxication manslaughter after deadly Mesquite crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/jose-rodriguez-intox-manslaughter.jpg?ve=1&tl=1)
 
- ![McGill, Morris lead North Texas to 44-17 trouncing over Wyoming](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172831113.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mcgill-morris-lead-north-texas-44-17-trouncing-over-wyoming)
+ ![18-year-old charged with intoxication manslaughter after deadly Mesquite crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/jose-rodriguez-intox-manslaughter.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jose-martinez-town-east-boulevard-motley-drive-mesquite)
 
-### [McGill, Morris lead North Texas to 44-17 trouncing over Wyoming](https://www.fox4news.com/sports/mcgill-morris-lead-north-texas-44-17-trouncing-over-wyoming)
+### [18-year-old charged with intoxication manslaughter after deadly Mesquite crash](https://www.fox4news.com/news/jose-martinez-town-east-boulevard-motley-drive-mesquite)
 
- [![Reed throws two TD passes to help No. 25 Texas A&M outlast Bowling Green 26-20](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173636174.jpg?ve=1&tl=1)
+ [![Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173801426.jpg?ve=1&tl=1)
 
- ![Reed throws two TD passes to help No. 25 Texas A&M outlast Bowling Green 26-20](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173636174.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/reed-throws-two-td-passes-help-no-25-texas-am-outlast-bowling-green-26-20)
+ ![Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173801426.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-week-3)
 
-### [Reed throws two TD passes to help No. 25 Texas A&M outlast Bowling Green 26-20](https://www.fox4news.com/sports/reed-throws-two-td-passes-help-no-25-texas-am-outlast-bowling-green-26-20)
+### [Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://www.fox4news.com/sports/dallas-cowboys-baltimore-ravens-week-3)
 
- [![No. 1 Texas keeps rolling behind Manning and Blue and routs ULM 51-3 in last game before SEC play](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173638642.jpg?ve=1&tl=1)
+ [![Olivia Munn praises 'real-life angel' surrogate who carried newborn daughter: 'Dreams come true'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2158393471-scaled.jpg?ve=1&tl=1)
 
- ![No. 1 Texas keeps rolling behind Manning and Blue and routs ULM 51-3 in last game before SEC play](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173638642.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-1-texas-keeps-rolling-behind-manning-blue-routs-ulm-51-3-last-game-before-sec-play)
+ ![Olivia Munn praises 'real-life angel' surrogate who carried newborn daughter: 'Dreams come true'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2158393471-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/olivia-munn-john-mulaney-baby-surrogate)
 
-### [No. 1 Texas keeps rolling behind Manning and Blue and routs ULM 51-3 in last game before SEC play](https://www.fox4news.com/sports/no-1-texas-keeps-rolling-behind-manning-blue-routs-ulm-51-3-last-game-before-sec-play)
+### [Olivia Munn praises 'real-life angel' surrogate who carried newborn daughter: 'Dreams come true'](https://www.fox4news.com/news/olivia-munn-john-mulaney-baby-surrogate)
 
 ###### [News](https://www.fox4news.com/news)
 
