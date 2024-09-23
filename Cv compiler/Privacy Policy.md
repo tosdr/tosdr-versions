@@ -1791,6 +1791,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [GCP Data Engineer](https://cvcompiler.com/gcp-data-engineer-resume-examples)
 
+[Media Producer](https://cvcompiler.com/media-producer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
