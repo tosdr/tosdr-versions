@@ -197,57 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Anri van der Linde
+Kobus Venter
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=131153625)  
-Frequency Fanatics (Pty) Ltd
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=208220758)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=209321750)  
-Alliance Energy
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=9828621)  
+Wiselink Broadband Pty Ltd
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=3422794)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=98147820)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=141808645)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=48359391)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=210938091)  
-Kara Medical (Pty) Ltd
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=149390586)  
+OptaServ
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=49477314)  
-Chiron Medical Solutions
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=53857707)  
+Tagline Brands
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=135757444)  
-NEW BEGINNINGS DESIGNS
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=18465416)  
+Blue Sky Solar Services
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=184412133)  
-Cape Adventure Zone
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=22875657)  
+Tracknetics
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=149349174)  
-Dombieterfontein (PTY) LTD
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=108366417)  
+Gemini-IT Group
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=187623747)  
-Lizzy Pop PTY(Ltd)
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=118397745)  
+Mtunzini Group
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=213912485)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=50716798)  
+Kaylas Creations
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=195261818)  
-MSPCloud (Pty) Ltd
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=197672896)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=153499732)  
-Well Hung Art
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=61365818)  
+Quad Biking Cape Town
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=210615872)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=205609125)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=108584164)  
-Sonic Electrical Services PTY Ltd
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=54a014fb3b3f2098dd64a0b07b5d7ee78c03837baf415a111ebf2247ab81588c&c=6726106)  
+AquariumSmiths
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
