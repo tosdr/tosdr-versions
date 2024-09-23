@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
+    
+    ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
+    
+    [![The storage unit was housing pedicabs for repair and storage, London Fire Brigade said. Image- LFB](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-storage-unit-was-housing-pedicabs-for-repair-and-storage-London-Fire-Brigade-said.-Image-LFB-360x180.jpg)](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
+    
+    ### [Pedicab storage unit catches fire in Borough](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
+    
+    [![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
+    
+    ### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
+    
     [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
     
     ### [‘Our government will end bidding war for private renters’ writes MP Helen Hayes](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
@@ -42,19 +54,6 @@
     [![She was forced to sleep under this urine-smelling stairwell. Credit: Isabel Ramirez](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-2-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
     
     ### [Comment: Disabled tenant sleeping under filthy stairwell fails human decency](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
-    
-    [![South London artist, Cee, by her mural in Elephant and Castle 
-    -Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
-    
-    ### [Elephant & Castle’s new mural with rich Latin American influence](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
-    
-    [![Monica Walker Old Operating Theatre](https://southwarknews.co.uk/wp-content/uploads/2024/09/Monica-Walker-Old-Operating-Theatre-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
-    
-    ### [What’s on in SE1 and SE16 this autumn?](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/Helen-Hayes-e1588768248748-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
-    
-    ### [Helen Hayes MP elected chair of Commons education committee](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
+    
+    ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
+    
+    [![The storage unit was housing pedicabs for repair and storage, London Fire Brigade said. Image- LFB](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-storage-unit-was-housing-pedicabs-for-repair-and-storage-London-Fire-Brigade-said.-Image-LFB-360x180.jpg)](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
+    
+    ### [Pedicab storage unit catches fire in Borough](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
+    
+    [![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
+    
+    ### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
+    
     [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
     
     ### [‘Our government will end bidding war for private renters’ writes MP Helen Hayes](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
@@ -123,19 +134,6 @@ View All Result
     [![She was forced to sleep under this urine-smelling stairwell. Credit: Isabel Ramirez](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-2-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
     
     ### [Comment: Disabled tenant sleeping under filthy stairwell fails human decency](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
-    
-    [![South London artist, Cee, by her mural in Elephant and Castle 
-    -Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
-    
-    ### [Elephant & Castle’s new mural with rich Latin American influence](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
-    
-    [![Monica Walker Old Operating Theatre](https://southwarknews.co.uk/wp-content/uploads/2024/09/Monica-Walker-Old-Operating-Theatre-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
-    
-    ### [What’s on in SE1 and SE16 this autumn?](https://southwarknews.co.uk/area/camberwell/whats-on-in-se1-and-se16-this-autumn/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/Helen-Hayes-e1588768248748-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
-    
-    ### [Helen Hayes MP elected chair of Commons education committee](https://southwarknews.co.uk/area/dulwich/helen-hayes-mp-elected-chair-of-commons-education-committee/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -355,17 +353,17 @@ Website
 
 [17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
-
-### [Millwall manager discusses call-back option for on-loan striker](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
-
-[18th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
-
 [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 [19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
+
+### [Millwall manager discusses call-back option for on-loan striker](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
+
+[18th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
 [![Max Templer outside a building on the North Peckham estate, South London in July 2024. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_9851-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
@@ -374,6 +372,18 @@ Website
 [21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
 ### Featured Articles
+
+[![The storage unit was housing pedicabs for repair and storage, London Fire Brigade said. Image- LFB](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-storage-unit-was-housing-pedicabs-for-repair-and-storage-London-Fire-Brigade-said.-Image-LFB-120x86.jpg)](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
+
+### [Pedicab storage unit catches fire in Borough](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
+
+[23rd September 2024](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
+
+[![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
+
+### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
+
+[23rd September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
 
 [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-120x86.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
 
@@ -398,19 +408,6 @@ Website
 ### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
 
 [22nd September 2024](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
-
-[![Jackie Power](https://southwarknews.co.uk/wp-content/uploads/2022/01/MG_4571-copy-e1606322639364.jpg)](https://southwarknews.co.uk/area/london/everything-in-the-garden-is-coming-slowly-to-a-halt-as-the-light-levels-dwindle/)
-
-### [Everything in the garden is coming slowly to a halt as the light levels dwindle](https://southwarknews.co.uk/area/london/everything-in-the-garden-is-coming-slowly-to-a-halt-as-the-light-levels-dwindle/)
-
-[22nd September 2024](https://southwarknews.co.uk/area/london/everything-in-the-garden-is-coming-slowly-to-a-halt-as-the-light-levels-dwindle/)
-
-[![South London artist, Cee, by her mural in Elephant and Castle 
--Photos supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/Elepant-mural5-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
-
-### [Elephant & Castle’s new mural with rich Latin American influence](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
-
-[21st September 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-castles-new-mural-with-rich-latin-american-influence/)
 
 ### USEFUL PAGES
 
