@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -30,7 +30,7 @@
     
     [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)
     
-    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
+    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
     
 
 [![](/images/common/bottom_logo3_1_cr.gif)](https://www.russianfood.com/)
@@ -50,7 +50,7 @@
 
 [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)  
 
-[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
+[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
 
 ![](/images/loading_16_green2.gif)
 
@@ -148,8 +148,8 @@
 
 Сейчас читают
 
+* [Винегрет с грушей и квашеной капустой](https://www.russianfood.com/recipes/recipe.php?rid=169011)
 * [Булочки с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174336)
-* [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=145266)
 
 |     |
 | --- |
@@ -171,6 +171,62 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Яблочный пирог со сметанным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174234) |     |
+
+[![Фото к рецепту: Яблочный пирог со сметанным кремом](//img1.russianfood.com/dycontent/images_upl/739/sm_738977.jpg "Фото к рецепту: Яблочный пирог со сметанным кремом")](https://www.russianfood.com/recipes/recipe.php?rid=174234)
+
+Этот пирог готовится из мягкого бездрожжевого теста на сливочном масле и яйцах с яблочной прослойкой. Верх пирога украшен простейшим сметанным кремом, который добавляет нежности и вкуса. Отличная выпечка для уютного домашнего чаепития.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174234)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174234#comments) | 23.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281) |     |
+
+[![Фото к рецепту: Томатная самса с фаршем и овощами (в духовке)](//img1.russianfood.com/dycontent/images_upl/739/sm_738921.jpg "Фото к рецепту: Томатная самса с фаршем и овощами (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=174281)
+
+Такая яркая-жаркая по вкусу и цвету самса обязана своей необычностью тому, что дрожжевое тесто для неё замешивается на томатном соке. Мясная начинка дополняется овощами и ароматной зеленью, что делает самсу ещё сочнее и ароматнее.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174281)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174281#comments) | 23.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Насыпной пирог с творогом и сливами](https://www.russianfood.com/recipes/recipe.php?rid=174109) |     |
+
+[![Фото к рецепту: Насыпной пирог с творогом и сливами](//img1.russianfood.com/dycontent/images_upl/739/sm_738325.jpg "Фото к рецепту: Насыпной пирог с творогом и сливами")](https://www.russianfood.com/recipes/recipe.php?rid=174109)
+
+Быстрый и несложный в приготовлении насыпной пирог с творогом и сливами. Прекрасная домашняя выпечка без замешивания и раскатывания теста, его роль выполняет песочная крошка. Половинки слив во время выпекания размягчаются и придают сочность.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174109)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174109#comments) | 23.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Лимонные кексы с кабачками и глазурью](https://www.russianfood.com/recipes/recipe.php?rid=174286) |     |
+
+[![Фото к рецепту: Лимонные кексы с кабачками и глазурью](//img1.russianfood.com/dycontent/images_upl/740/sm_739147.jpg "Фото к рецепту: Лимонные кексы с кабачками и глазурью")](https://www.russianfood.com/recipes/recipe.php?rid=174286)
+
+Стоит раз попробовать эти влажные кексы, и вы будете печь их всякий раз, как вам будет попадаться на глаза кабачок и лимон. Вкус кабачка в выпечке смогут уловить только истинные гурманы. После выпечки кексы поливаются лимонной глазурью, что делает их ещё вкуснее.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174286)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174286#comments) | 23.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -254,7 +310,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22627#comments) | 22.09.24 |     |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22627#comments) | 22.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -326,62 +382,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22620#comments) | 20.09.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Аппетитные ароматы палитрой богаты. Лучшие рецепты НА ВЫХОДНЫЕ №24-38](https://www.russianfood.com/reading/?post_id=22618) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/670/sm_669205.jpg)](https://www.russianfood.com/reading/?post_id=22618)
-
-Паприкаш из курицы с грибами. Тефтели с яблоком и сыром. Куриные шарики с сыром. Булгур с фаршем, свёклой. Филе индейки с брокколи, цветной капустой. Курица в пряном молоке. Рыбный рулет с гречкой и грибами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22618)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22618#comments) | 20.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Яркая свекольная палитра. Время СВЁКЛЫ (22)](https://www.russianfood.com/reading/?post_id=22617) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/682/sm_681495.jpg)](https://www.russianfood.com/reading/?post_id=22617)
-
-Салат из свёклы с перцем и луком. Краснокочанная капуста со свёклой и яблоками. Свекольник на йогурте. Свиные котлеты со свёклой, в томате. Свекольный хлеб с кунжутной корочкой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22617)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22617#comments) | 20.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Готовим легко и вкусно. Лучшие рецепты для начинающих №24-38](https://www.russianfood.com/reading/?post_id=22616) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/740/sm_739714.jpg)](https://www.russianfood.com/reading/?post_id=22616)
-
-Котлеты с помидорами и сыром в духовке. Маринованная закуска из баклажанов. Тушеная капуста с грибами. Котлеты со свёклой и жареным луком. Жареные куриные крылышки в соево-томатном соусе.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22616)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22616#comments) | 19.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Куриная печень, тушенная с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174365) |     |
-
-[![Фото к рецепту: Куриная печень, тушенная с баклажанами в сметане](//img1.russianfood.com/dycontent/images_upl/740/sm_739463.jpg "Фото к рецепту: Куриная печень, тушенная с баклажанами в сметане")](https://www.russianfood.com/recipes/recipe.php?rid=174365)
-
-Куриная печень сперва обжаривается с луком и баклажанами, а затем тушится в сметане, с добавлением базилика. Сметана делает вкус блюда более мягким и завершенным, а базилик придаёт яркий аромат.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174365)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174365#comments) | 19.09.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -451,10 +451,10 @@
 
 Новые рецепты:
 
-|     |
-| --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
-| [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738977.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174234) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739147.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174286) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738921.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174281) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739378.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738325.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174109) |
+| [Яблочный пирог со сметанным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174234) | [Лимонные кексы с кабачками и глазурью](https://www.russianfood.com/recipes/recipe.php?rid=174286) | [Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281) | [Суп со стручковой фасолью, сельдереем и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174200) | [Насыпной пирог с творогом и сливами](https://www.russianfood.com/recipes/recipe.php?rid=174109) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,5 +470,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(133)
