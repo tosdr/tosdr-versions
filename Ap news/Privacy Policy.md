@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel-Hamas war latest: Israel's air force launches dozens of airstrikes on southern Lebanon](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-f98720a8ba13ea1239c0b8a24522aeb5)
-    * [Hezbollah hits back with rockets as it declares an 'open-ended battle' with Israel](https://apnews.com/article/israel-lebanon-hezbollah-news-09-22-2024-fb1aa8ae061885ba86855f7fe9ec5be7)
+    * [Lebanon sees deadliest day in nearly a year of fighting as officials say Israeli strikes kill 100](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
     * [Lebanese doctor races to save the eyes of those hurt by exploding tech devices](https://apnews.com/article/elias-jaradeh-eye-injuries-lebanon-exploding-devices-1ef861481aa43c86bfede3781734a85a)
+    * [A Soyuz capsule with 2 Russians and 1 American from the International Space Station returns to Earth](https://apnews.com/article/soyuz-capsule-international-space-station-a069a2a905122d03bd653d8157e05f5b)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Missouri Supreme Court to consider death row case a day before scheduled execution](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
+    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
     * [Search underway for suspects in Alabama mass shooting that killed 4 and injured 17](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
-    * [Mass shooting kills 4 and wounds 17 in nightlife district in Birmingham, Alabama](https://apnews.com/article/birmingham-alabama-fatal-shooting-5293c5068e6fec5779d19dd100fc37f5)
-    * [Ukraine's Zelenskyy visits Pennsylvania ammunition plant to thank workers and ask for more](https://apnews.com/article/zelenskyy-ukraine-pennsylvania-ammunition-plant-c0e1fe5ebfa11ecfe92e842860e6440c)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
     * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
     * [Spending deal averts a possible federal shutdown and funds the government into December](https://apnews.com/article/congress-government-shutdown-trump-johnson-budget-deal-d51de0cd895db687a6f5b35fc0dab13e)
-    * [As fast as it comes down, graffiti returns to DC streets. Not all of it unwelcome](https://apnews.com/article/graffiti-washington-vandalism-urban-art-form-9840433200b70b447225a03e12165271)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
+    * [Banned Books Week starts with mixed messages as reports show challenges both up and down](https://apnews.com/article/banned-books-library-association-pen-america-d13a4232d193d0376df93392d7e42924)
     * [John Mulaney and Olivia Munn have a second child, a daughter named Méi](https://apnews.com/article/john-mulaney-olivia-munn-baby-daughter-mei-da8e6572395303bf5bfafc82fe474c20)
-    * [‘Beetlejuice Beetlejuice’ scares off 'Transformers' for third week as box office No. 1](https://apnews.com/article/box-office-ticket-sales-beetlejuice-transformers-3e37eade24454b1e02d9b8901cae8246)
-    * [What to Stream: Clooney & Pitt, Will & Harper, a Legend of Zelda game and two Ryan Murphy TV series](https://apnews.com/article/streaming-tv-music-movies-september-2024-pitt-ceab3796ab88b231f4995da12c1f4075)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [The Fed sees its inflation fight as a success. Will the public eventually agree?](https://apnews.com/article/inflation-prices-federal-reserve-economy-election-rates-6975bffaa4cb818f4cf0fe05f218dd5c)
     * [For home shoppers, the Fed’s big rate cut is likely just a small step towards affording a home](https://apnews.com/article/mortgage-rates-home-sales-refinancing-federal-reserve-1b25840c7e6e0c11188038028dc4fb23)
-    * [Co-founder of Titan to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
-    * [Homeless encampments have largely vanished from San Francisco. Is the city at a turning point?](https://apnews.com/article/san-francisco-homeless-encampments-c5dad968b8fafaab83b51433a204c9ea)
+    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
     
 * [Science](https://apnews.com/science)
     
@@ -257,7 +257,7 @@ Menu
     
     TOP STORIES
     
-    * [Co-founder of Titan to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
+    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
     * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
     * [Google begins its defense in antitrust case alleging monopoly over advertising technology](https://apnews.com/article/google-antitrust-case-advertising-technology-64dc88ff8ede9db77f80b243ba3605a3)
     
@@ -277,9 +277,9 @@ Menu
     
     TOP STORIES
     
-    * [Premier says Albania will grant sovereignty to Bektashi Muslims in Tirana, similar to the Vatican](https://apnews.com/article/albania-bektashi-muslim-sufi-sovereignty-c2caccfb22d9c09a3af70e55a9b6bba8)
-    * [An estimated 180,000 motorcyclists have their helmets blessed at a Portuguese shrine](https://apnews.com/article/portugal-our-lady-of-fatima-motorcyclists-d49a07a39c60030dfe5241f1097e4614)
-    * [Are Trump and Harris particularly Christian? That's not what most Americans would say: AP-NORC poll](https://apnews.com/article/election-2024-poll-harris-trump-christian-badf15a55529afe5b7dd4a5bbdd2722e)
+    * [Most Hispanic Americans — whether Catholic or Protestant —support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
+    * [Malaysian police rescue 187 more children as sex abuse probe of Islamic group deepens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-f881f8fe7bba6afe17b20c7b5524e7f0)
+    * [The family of a doctor accused of blasphemy in Pakistan says police killed him in a fake encounter](https://apnews.com/article/pakistan-blasphemy-suspect-killed-police-260b6cc77437d64d4093bd4aea37c649)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [Líbano reporta 100 muertos en bombardeos israelíes. Eso supondría su día más letal desde octubre](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
     * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
-    * [Hezbollah contraataca con más de 100 cohetes sobre una zona más amplia de Israel](https://apnews.com/world-news/general-news-a622e065ce6bb0bb049cf77ca05dc3fd)
+    * [Marcha de Evo Morales se dirige a La Paz y presiona al presidente Luis Arce](https://apnews.com/world-news/general-news-fc0e280a870d19eb59cae9d89cb6022f)
     * [Meta de Trump de deportaciones masivas quedó corta. Pero tiene nuevos planes para un segundo mandato](https://apnews.com/us-news/general-news-a678add3a9cab73a56d4d65c1f1588a7)
-    * [EEUU no es responsable de aumento de la violencia en Sinaloa, dice embajador estadounidense a México](https://apnews.com/world-news/general-news-8eade86fe64d1624dc605dfff7b19734)
-    * [Haitianos no creen que ONU logre una solución internacional a crisis de pandillas](https://apnews.com/world-news/general-news-2c8fb6a0a3e3590b42227b3a2f1c41b9)
-    * [Junta electoral en Ohio cambia seguridad por publicaciones de jefe policial sobre carteles de Harris](https://apnews.com/us-news/general-news-03435f690f698897fab2df54a444105e)
+    * [Partido de Scholz desestima cuestionamientos sobre su candidatura](https://apnews.com/world-news/general-news-5ce2f0d94f1c2a8684202bc4f9f59aba)
+    * [El Talibán de Pakistán niega haber atacado un convoy diplomático](https://apnews.com/world-news/general-news-0b81e990b559f0fb244e9904b24c7b89)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel-Hamas war latest: Israel's air force launches dozens of airstrikes on southern Lebanon](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-f98720a8ba13ea1239c0b8a24522aeb5)
-    * [Hezbollah hits back with rockets as it declares an 'open-ended battle' with Israel](https://apnews.com/article/israel-lebanon-hezbollah-news-09-22-2024-fb1aa8ae061885ba86855f7fe9ec5be7)
+    * [Lebanon sees deadliest day in nearly a year of fighting as officials say Israeli strikes kill 100](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
     * [Lebanese doctor races to save the eyes of those hurt by exploding tech devices](https://apnews.com/article/elias-jaradeh-eye-injuries-lebanon-exploding-devices-1ef861481aa43c86bfede3781734a85a)
+    * [A Soyuz capsule with 2 Russians and 1 American from the International Space Station returns to Earth](https://apnews.com/article/soyuz-capsule-international-space-station-a069a2a905122d03bd653d8157e05f5b)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Missouri Supreme Court to consider death row case a day before scheduled execution](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
+    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
     * [Search underway for suspects in Alabama mass shooting that killed 4 and injured 17](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
-    * [Mass shooting kills 4 and wounds 17 in nightlife district in Birmingham, Alabama](https://apnews.com/article/birmingham-alabama-fatal-shooting-5293c5068e6fec5779d19dd100fc37f5)
-    * [Ukraine's Zelenskyy visits Pennsylvania ammunition plant to thank workers and ask for more](https://apnews.com/article/zelenskyy-ukraine-pennsylvania-ammunition-plant-c0e1fe5ebfa11ecfe92e842860e6440c)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
     * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
     * [Spending deal averts a possible federal shutdown and funds the government into December](https://apnews.com/article/congress-government-shutdown-trump-johnson-budget-deal-d51de0cd895db687a6f5b35fc0dab13e)
-    * [As fast as it comes down, graffiti returns to DC streets. Not all of it unwelcome](https://apnews.com/article/graffiti-washington-vandalism-urban-art-form-9840433200b70b447225a03e12165271)
     
     Newsletters
     
@@ -582,9 +582,9 @@ Submit Search
     
     TOP STORIES
     
+    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
+    * [Banned Books Week starts with mixed messages as reports show challenges both up and down](https://apnews.com/article/banned-books-library-association-pen-america-d13a4232d193d0376df93392d7e42924)
     * [John Mulaney and Olivia Munn have a second child, a daughter named Méi](https://apnews.com/article/john-mulaney-olivia-munn-baby-daughter-mei-da8e6572395303bf5bfafc82fe474c20)
-    * [‘Beetlejuice Beetlejuice’ scares off 'Transformers' for third week as box office No. 1](https://apnews.com/article/box-office-ticket-sales-beetlejuice-transformers-3e37eade24454b1e02d9b8901cae8246)
-    * [What to Stream: Clooney & Pitt, Will & Harper, a Legend of Zelda game and two Ryan Murphy TV series](https://apnews.com/article/streaming-tv-music-movies-september-2024-pitt-ceab3796ab88b231f4995da12c1f4075)
     
 * [Business](https://apnews.com/business)
     
@@ -598,9 +598,9 @@ Submit Search
     
     TOP STORIES
     
+    * [The Fed sees its inflation fight as a success. Will the public eventually agree?](https://apnews.com/article/inflation-prices-federal-reserve-economy-election-rates-6975bffaa4cb818f4cf0fe05f218dd5c)
     * [For home shoppers, the Fed’s big rate cut is likely just a small step towards affording a home](https://apnews.com/article/mortgage-rates-home-sales-refinancing-federal-reserve-1b25840c7e6e0c11188038028dc4fb23)
-    * [Co-founder of Titan to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
-    * [Homeless encampments have largely vanished from San Francisco. Is the city at a turning point?](https://apnews.com/article/san-francisco-homeless-encampments-c5dad968b8fafaab83b51433a204c9ea)
+    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
     
 * [Science](https://apnews.com/science)
     
@@ -745,7 +745,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Co-founder of Titan to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
+    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
     * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
     * [Google begins its defense in antitrust case alleging monopoly over advertising technology](https://apnews.com/article/google-antitrust-case-advertising-technology-64dc88ff8ede9db77f80b243ba3605a3)
     
@@ -773,9 +773,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Premier says Albania will grant sovereignty to Bektashi Muslims in Tirana, similar to the Vatican](https://apnews.com/article/albania-bektashi-muslim-sufi-sovereignty-c2caccfb22d9c09a3af70e55a9b6bba8)
-    * [An estimated 180,000 motorcyclists have their helmets blessed at a Portuguese shrine](https://apnews.com/article/portugal-our-lady-of-fatima-motorcyclists-d49a07a39c60030dfe5241f1097e4614)
-    * [Are Trump and Harris particularly Christian? That's not what most Americans would say: AP-NORC poll](https://apnews.com/article/election-2024-poll-harris-trump-christian-badf15a55529afe5b7dd4a5bbdd2722e)
+    * [Most Hispanic Americans — whether Catholic or Protestant —support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
+    * [Malaysian police rescue 187 more children as sex abuse probe of Islamic group deepens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-f881f8fe7bba6afe17b20c7b5524e7f0)
+    * [The family of a doctor accused of blasphemy in Pakistan says police killed him in a fake encounter](https://apnews.com/article/pakistan-blasphemy-suspect-killed-police-260b6cc77437d64d4093bd4aea37c649)
     
     Newsletters
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Líbano reporta 100 muertos en bombardeos israelíes. Eso supondría su día más letal desde octubre](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
     * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
-    * [Hezbollah contraataca con más de 100 cohetes sobre una zona más amplia de Israel](https://apnews.com/world-news/general-news-a622e065ce6bb0bb049cf77ca05dc3fd)
+    * [Marcha de Evo Morales se dirige a La Paz y presiona al presidente Luis Arce](https://apnews.com/world-news/general-news-fc0e280a870d19eb59cae9d89cb6022f)
     * [Meta de Trump de deportaciones masivas quedó corta. Pero tiene nuevos planes para un segundo mandato](https://apnews.com/us-news/general-news-a678add3a9cab73a56d4d65c1f1588a7)
-    * [EEUU no es responsable de aumento de la violencia en Sinaloa, dice embajador estadounidense a México](https://apnews.com/world-news/general-news-8eade86fe64d1624dc605dfff7b19734)
-    * [Haitianos no creen que ONU logre una solución internacional a crisis de pandillas](https://apnews.com/world-news/general-news-2c8fb6a0a3e3590b42227b3a2f1c41b9)
-    * [Junta electoral en Ohio cambia seguridad por publicaciones de jefe policial sobre carteles de Harris](https://apnews.com/us-news/general-news-03435f690f698897fab2df54a444105e)
+    * [Partido de Scholz desestima cuestionamientos sobre su candidatura](https://apnews.com/world-news/general-news-5ce2f0d94f1c2a8684202bc4f9f59aba)
+    * [El Talibán de Pakistán niega haber atacado un convoy diplomático](https://apnews.com/world-news/general-news-0b81e990b559f0fb244e9904b24c7b89)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
