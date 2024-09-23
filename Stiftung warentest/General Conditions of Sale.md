@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Reisepass für Kinder: „Für Auslands­reisen brauchen auch Babys einen Reisepass“](https://www.test.de/Reisepass-fuer-Kinder-Fuer-Auslandsreisen-brauchen-auch-Babys-einen-Reisepass-6123546-0/ "Reisepass für Kinder - „Für Auslandsreisen brauchen auch Babys einen Reisepass“")
 
 Service Stiftung Warentest
 
