@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e25aa224aa5b3a08a0599c78840d08ed
+4a15143c8a3231a42e524480e81fb127
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Black with blue shadows rectangular oval beads](https://www.sojourner.biz/images/cache/glass/GL0120.200.jpg)](https://www.sojourner.biz/beads/glass/black-with-blue-shadows-rectangular-oval-beads.html "Black with blue shadows rectangular oval beads")
+[![Vintage German snail shell beads](https://www.sojourner.biz/images/cache/glass/GL0226strand.200.jpg)](https://www.sojourner.biz/beads/glass/vintage-german-snail-shell-beads.html "Vintage German snail shell beads")
 
-#### [Black with blue shadows rectangular oval beads](https://www.sojourner.biz/beads/glass/black-with-blue-shadows-rectangular-oval-beads.html "Black with blue shadows rectangular oval beads")
+#### [Vintage German snail shell beads](https://www.sojourner.biz/beads/glass/vintage-german-snail-shell-beads.html "Vintage German snail shell beads")
 
-$15.00
+$10.00
 
 ### Best Sellers
 
