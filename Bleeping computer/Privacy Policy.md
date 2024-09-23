@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Clever 'GitHub Scanner' campaign abusing repos to push malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft ends development of Windows Server Update Services (WSUS)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Clever 'GitHub Scanner' campaign abusing repos to push malware](https://www.bleepingcomputer.com/news/security/clever-github-scanner-campaign-abusing-repos-to-push-malware/)
-    * [![Police dismantles phone unlocking ring linked to 483,000 victims](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
+    * [![Android malware 'Necro' infects 11 million devices via Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Police dismantles phone unlocking ring linked to 483,000 victims](https://www.bleepingcomputer.com/news/security/police-dismantles-iserver-phone-unlocking-network-linked-to-483-000-victims/)
-    * [![Unexplained ‘Noise Storms’ flood the Internet, puzzle experts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
+    * [![Ukraine bans Telegram on military, govt devices over security risks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Unexplained ‘Noise Storms’ flood the Internet, puzzle experts](https://www.bleepingcomputer.com/news/security/unexplained-noise-storms-flood-the-internet-puzzle-experts/)
-    * [![Tor says it’s ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Tor says it’s "still safe" amid reports of police deanonymizing users](https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/)
-    
-    * [![New Google Chrome feature will translate complex pages in real time](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
-    * [![Get started in ethical hacking with this $45 online course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get started in ethical hacking with this $45 online course bundle](https://www.bleepingcomputer.com/offer/deals/get-started-in-ethical-hacking-with-this-45-online-course-bundle/)
+        Ukraine bans Telegram on military, govt devices over security risks](https://www.bleepingcomputer.com/news/security/ukraine-bans-telegram-on-military-govt-devices-over-security-risks/)
     * [![Global infostealer malware operation targets crypto users, gamers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
-    * [![This cybersecurity study bundle blends theory with hands-on training](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    * [![New Mallox ransomware Linux variant based on leaked Kryptina code](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This cybersecurity study bundle blends theory with hands-on training](https://www.bleepingcomputer.com/offer/deals/this-cybersecurity-study-bundle-blends-theory-with-hands-on-training/)
+        New Mallox ransomware Linux variant based on leaked Kryptina code](https://www.bleepingcomputer.com/news/security/new-mallox-ransomware-linux-variant-based-on-leaked-kryptina-code/)
+    * [![Kaspersky deletes itself, installs UltraAV antivirus without warning](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Kaspersky deletes itself, installs UltraAV antivirus without warning](https://www.bleepingcomputer.com/news/security/kaspersky-deletes-itself-installs-ultraav-antivirus-without-warning/)
+    * [![Android malware 'Necro' infects 11 million devices via Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
+    * [![How to manage shadow IT and reduce your attack surface](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        How to manage shadow IT and reduce your attack surface](https://www.bleepingcomputer.com/news/security/how-to-manage-shadow-it-and-reduce-your-attack-surface/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,12 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Hacker VR Spyware Surveillance](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Kaspersky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
+    Kaspersky deletes itself, installs UltraAV antivirus without warning](https://www.bleepingcomputer.com/news/security/kaspersky-deletes-itself-installs-ultraav-antivirus-without-warning/)
 * [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
+* [![Popular article](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    How to manage shadow IT and reduce your attack surface](https://www.bleepingcomputer.com/news/security/how-to-manage-shadow-it-and-reduce-your-attack-surface/)
 
 ##### Follow us:
 
