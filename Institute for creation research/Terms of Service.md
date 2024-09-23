@@ -171,6 +171,32 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_still_say_noVertebrates_1400x1050.jpg)](https://www.icr.org/article/the-fossils-still-say-no-the-origin-of-vertebrates)
+
+[The Fossils Still Say No: The Origin of Vertebrates](https://www.icr.org/article/the-fossils-still-say-no-the-origin-of-vertebrates/)
+
+One of the greatest problems for evolutionists is the sudden appearance of complex animal life with no evolutionary precursors, as seen in the Cambrian...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/no_fins_to_feet.jpg)](https://www.icr.org/article/the-fossils-still-say-no-fins-to-feet-transition)
+
+[The Fossils Still Say No: The Fins-to-Feet Transition](https://www.icr.org/article/the-fossils-still-say-no-fins-to-feet-transition/)
+
+One of the alleged greatest transformations in vertebrate evolution is said to be the emergence of creatures that traded fins for feet and transitioned...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/nuclear_fission_unreliable.jpg)](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable)
+
+[Nuclear Fission Dating Methods Are Unreliable](https://www.icr.org/article/nuclear-fission-dating-methods-are-unreliable/)
+
+Have you ever pulled apart a large mass of taffy and watched it break into two approximately equal masses? This is an illustration of what happens in...
+
+BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
