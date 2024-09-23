@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Bad Dragon](https://www.somethingawful.com/weekend-web/bad-dragon/1/)
-* [The Eye of Sauron!](https://www.somethingawful.com/photoshop-phriday/eye-sauron-lotr/1/)
-* [The Great Bird Gambit!](https://www.somethingawful.com/comedy-goldmine/birds-conning-rubes/1/)
-* [STOCK PHOTO LIFESTYLE TALES #4](https://www.somethingawful.com/news/stock-photo-lifestyle4/1/)
-* [1992 Graphics for Everything!](https://www.somethingawful.com/comedy-goldmine/videogame-graphics-1992/1/)
+* [Make Video Game Characters Real! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/real-video-games2/1/)
+* [Paul Luftenegger (Thanks, karl fungus!)](https://www.somethingawful.com/awful-links/paul-luftenegger-music/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [Detroit's 17th Precinct (Thanks, CroatianAlzheimers!)](https://www.somethingawful.com/awful-links/detroit-17th-precinct/)
+* [A Taste of Patriarchy (Thanks, dire!)](https://www.somethingawful.com/awful-links/taste-patriarchy-blog/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Are there people hiding in your house? Phrogging Megathread](http://forums.somethingawful.com/showthread.php?threadid=4070984 "Are there people hiding in your house? Phrogging Megathread")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [idiotic stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4070934 "idiotic stuff we did as kids")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Are there people hiding in your house? Phrogging Megathread](http://forums.somethingawful.com/showthread.php?threadid=4070984 "Are there people hiding in your house? Phrogging Megathread")
 
 ### Random Articles
 
-* [November 24, 2009](https://www.somethingawful.com/forum-fridays/ff11-24-09/)
-* [TruthMedia Review: Reanimation by Lincoln Park](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-reanimation/)
-* [GirlPits (NWS!) (Thanks, Astrofig!)](https://www.somethingawful.com/awful-links/girlpits-forum/)
-* [Existential Animal Funnies](https://www.somethingawful.com/news/existential-animal-funnies/1/)
-* [The Mechanic; The Rite](https://www.somethingawful.com/current-movie-reviews/mechanic-rite/1/)
+* [CyberFrontiers](https://www.somethingawful.com/news/cyberfrontiers-virtual-reality/)
+* [Our Site Will Be Pivoting to the Strange Object](https://www.somethingawful.com/news/strange-object-pivot/)
+* [Hatfields and McCoys](https://www.somethingawful.com/game-reviews/hatfields-and-mccoys/1/)
+* [Insane Diet Fads](https://www.somethingawful.com/photoshop-phriday/insane-diet-fads/1/)
+* [E.T. 28 Years Later](https://www.somethingawful.com/news/homeless-et/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
