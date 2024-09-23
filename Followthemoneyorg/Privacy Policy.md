@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![DualAdvantage](/assets/logos/DuelAdvantage.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2007-2008-state-elections)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
 
-Check out the power of a dual advantage.
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
