@@ -20,16 +20,16 @@ Monday, September 23 2024
 
 Latest
 
+* [Wordle Answer for Today, September 23, 2024](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
+* [Best Built-In Refrigerators of 2024](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
+* [Passkeys on Android Make Your Life Easier—Here’s How to Use Them](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
+* [NYT Strands today — hints, spangram and answers for game #204 (Monday, September 23 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-204-monday-september-23-2024/)
+* [Steven Johnson on Google, NotebookLM, and AI research](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
+* [NYT Strands Today: Hints, Answers & Spangram for September 23](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-23/)
+* [UK firms are dangerously overconfident about paying ransoms to cyber criminals](https://digitpatrox.com/uk-firms-are-dangerously-overconfident-about-paying-ransoms-to-cyber-criminals/)
 * [This Is How I Juice a Lemon Without a Fancy Juicer](https://digitpatrox.com/this-is-how-i-juice-a-lemon-without-a-fancy-juicer/)
 * [Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
 * [3 Reasons I’m Waiting for the Galaxy S25 Ultra](https://digitpatrox.com/3-reasons-im-waiting-for-the-galaxy-s25-ultra/)
-* [NYT Connections today hints and answers — Monday, September 23 (#470)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-september-23-470/)
-* [iPhone 16 teardown shows off a new way to attach a phone battery](https://digitpatrox.com/iphone-16-teardown-shows-off-a-new-way-to-attach-a-phone-battery/)
-* [NYT Connections Today: Hints and Answers for September 23, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-23-2024/)
-* [11 ‘Problematic’ Family Movies Still Worth Watching (and Discussing) With Your Kids](https://digitpatrox.com/11-problematic-family-movies-still-worth-watching-and-discussing-with-your-kids/)
-* [Set WiFi to Automatically Shut Off With Parental Controls](https://digitpatrox.com/set-wifi-to-automatically-shut-off-with-parental-controls/)
-* [Manage Your Outlook Attachments Like a Pro with These 8 Tips](https://digitpatrox.com/manage-your-outlook-attachments-like-a-pro-with-these-8-tips/)
-* [Samsung Galaxy S25 Ultra leaks just tipped biggest design changes](https://digitpatrox.com/samsung-galaxy-s25-ultra-leaks-just-tipped-biggest-design-changes/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J88090NM9E8CEPBAHAC38ETF/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-is-how-i-juice-a-lemon-without-a-fancy-juicer/)
+* [![](https://lifehacker.com/imagery/articles/01J7V8YVBGVDF5ZK32SB5Y813S/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
     
-    [This Is How I Juice a Lemon Without a Fancy Juicer](https://digitpatrox.com/this-is-how-i-juice-a-lemon-without-a-fancy-juicer/)
+    [Wordle Answer for Today, September 23, 2024](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
     
-    3 mins ago
+    34 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726082672/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Genesis-Electrified-GV70-crash-9-24)](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1675976127/prod/content/dam/CRO-Images-2023/02February/Appliances/CR-Appliances-InlineHero-Best-Built-In-Refrigerators-0223)](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
     
-    [Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
+    [Best Built-In Refrigerators of 2024](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
     
-    36 mins ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-conceptual-image-of-the-galaxy-s25-ultra.jpg)](https://digitpatrox.com/3-reasons-im-waiting-for-the-galaxy-s25-ultra/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/illustration-of-a-phone-with-the-android-mascot-surrounded-by-some-passkey-related-icons.jpg)](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
     
-    [3 Reasons I’m Waiting for the Galaxy S25 Ultra](https://digitpatrox.com/3-reasons-im-waiting-for-the-galaxy-s25-ultra/)
+    [Passkeys on Android Make Your Life Easier—Here’s How to Use Them](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
     
-    37 mins ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/wNvLvjTssKAz44xARheeHW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-september-23-470/)
+* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-204-monday-september-23-2024/)
     
-    [NYT Connections today hints and answers — Monday, September 23 (#470)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-september-23-470/)
+    [NYT Strands today — hints, spangram and answers for game #204 (Monday, September 23 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-204-monday-september-23-2024/)
     
     2 hours ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/6aYG05jeAnPeyc8WBQ2jK9VQHIg=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25634419/iPhone_16_TD_24_1.jpg)](https://digitpatrox.com/iphone-16-teardown-shows-off-a-new-way-to-attach-a-phone-battery/)
+* [![](https://cdn.vox-cdn.com/thumbor/eSCO-AaLea5ygQqlkK427ZfsFvA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25631812/The_Vergecast_chatbot_Site__1_.jpg)](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
     
-    [iPhone 16 teardown shows off a new way to attach a phone battery](https://digitpatrox.com/iphone-16-teardown-shows-off-a-new-way-to-attach-a-phone-battery/)
+    [Steven Johnson on Google, NotebookLM, and AI research](https://digitpatrox.com/steven-johnson-on-google-notebooklm-and-ai-research/)
     
     3 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [34 mins ago
     
-    ### This Is How I Juice a Lemon Without a Fancy Juicer](https://digitpatrox.com/this-is-how-i-juice-a-lemon-without-a-fancy-juicer/)
-* [36 mins ago
+    ### Wordle Answer for Today, September 23, 2024](https://digitpatrox.com/wordle-answer-for-today-september-23-2024/)
+* [1 hour ago
     
-    ### Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
-* [37 mins ago
+    ### Best Built-In Refrigerators of 2024](https://digitpatrox.com/best-built-in-refrigerators-of-2024/)
+* [1 hour ago
     
-    ### 3 Reasons I’m Waiting for the Galaxy S25 Ultra](https://digitpatrox.com/3-reasons-im-waiting-for-the-galaxy-s25-ultra/)
+    ### Passkeys on Android Make Your Life Easier—Here’s How to Use Them](https://digitpatrox.com/passkeys-on-android-make-your-life-easier-heres-how-to-use-them/)
 
 Most Popular Topics
 
 * [3 weeks ago
     
-    ### Apple MDM vendor Mosyle gets into asset management – Computerworld](https://digitpatrox.com/apple-mdm-vendor-mosyle-gets-into-asset-management-computerworld/)
-* [August 23, 2024
+    ### Get comfy while you work — Amazon Labor Day sale offers big discounts on our favorite office chairs](https://digitpatrox.com/get-comfy-while-you-work-amazon-labor-day-sale-offers-big-discounts-on-our-favorite-office-chairs/)
+* [August 14, 2024
     
-    ### Xreal Beam Pro review | Tom’s Guide](https://digitpatrox.com/xreal-beam-pro-review-toms-guide/)
-* [2 days ago
+    ### Convenience has a cost, privacy has iPhone – Computerworld](https://digitpatrox.com/convenience-has-a-cost-privacy-has-iphone-computerworld/)
+* [6 days ago
     
-    ### Citrix introduces macOS access to any platform – Computerworld](https://digitpatrox.com/citrix-introduces-macos-access-to-any-platform-computerworld/)
+    ### Amazon CEO wants workers back in the office five days a week – Computerworld](https://digitpatrox.com/amazon-ceo-wants-workers-back-in-the-office-five-days-a-week-computerworld/)
 
 Last Modified Topics
 
 * [5 hours ago
     
-    ### 11 ‘Problematic’ Family Movies Still Worth Watching (and Discussing) With Your Kids](https://digitpatrox.com/11-problematic-family-movies-still-worth-watching-and-discussing-with-your-kids/)
+    ### UK firms are dangerously overconfident about paying ransoms to cyber criminals](https://digitpatrox.com/uk-firms-are-dangerously-overconfident-about-paying-ransoms-to-cyber-criminals/)
 * [6 hours ago
     
-    ### Set WiFi to Automatically Shut Off With Parental Controls](https://digitpatrox.com/set-wifi-to-automatically-shut-off-with-parental-controls/)
+    ### This Is How I Juice a Lemon Without a Fancy Juicer](https://digitpatrox.com/this-is-how-i-juice-a-lemon-without-a-fancy-juicer/)
 * [6 hours ago
     
-    ### Manage Your Outlook Attachments Like a Pro with These 8 Tips](https://digitpatrox.com/manage-your-outlook-attachments-like-a-pro-with-these-8-tips/)
+    ### Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
 
 Most Viewed Topics
 
-* [4 weeks ago
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [4 weeks ago
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
