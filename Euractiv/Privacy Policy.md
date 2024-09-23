@@ -424,9 +424,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [EU bodies join forces at InnoTrans 2024](https://www.euractiv.com/section/transport/opinion/eu-bodies-join-forces-at-innotrans-2024/)
     * [Future-proofing the EU’s road transport sector: A roadmap for policymaker action](https://www.euractiv.com/section/transport/opinion/future-proofing-the-eus-road-transport-sector-a-roadmap-for-policymaker-action/)
     * [Paving the Way: Fostering Affordable, Sustainable, and Safe Mobility for All](https://www.euractiv.com/section/transport/opinion/paving-the-way-fostering-affordable-sustainable-and-safe-mobility-for-all/)
-    * [New multimodal infrastructure in CEE region to help EU meet its transport goals](https://www.euractiv.com/section/transport/opinion/new-multimodal-infrastructure-in-cee-region-to-help-eu-meet-its-transport-goals/)
     
 
 1. [Home](https://www.euractiv.com/)
@@ -819,12 +819,12 @@ If you have any questions about this Privacy Policy, please contact us:
 * 2[Leading Russian lawmaker threatens to nuke Strasbourg after European Parliament vote](http://en.euractiv.eu/section/defence-and-security/news/leading-russian-lawmaker-threatens-to-nuke-strasbourg-after-european-parliament-vote/?utm_source=website&utm_campaign=popular)
 * 3[Gazprom-friendly Hungary blames EU for failing to end Russian gas dependence](http://en.euractiv.eu/section/energy/news/gazprom-friendly-hungary-blames-eu-for-failing-to-end-russian-gas-dependence/?utm_source=website&utm_campaign=popular)
 * 4[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
-* 5[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
-* 6[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
+* 5[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
+* 6[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
 * 7[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
 * 8[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
-* 9[Europe’s electrifiers say their time has come](http://en.euractiv.eu/section/energy-environment/news/europes-electrifiers-say-their-time-has-come/?utm_source=website&utm_campaign=popular)
-* 10[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 9[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 10[Europe’s electrifiers say their time has come](http://en.euractiv.eu/section/energy-environment/news/europes-electrifiers-say-their-time-has-come/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
