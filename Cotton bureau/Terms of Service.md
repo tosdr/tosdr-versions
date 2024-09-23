@@ -7,7 +7,7 @@
 * [Shop](https://cottonbureau.com/shop)
     * [All Products](https://cottonbureau.com/shop)
     * [Our Favorites](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Our%20Favorites)
-    * [Featured Partners](https://cottonbureau.com/how-it-works)
+    * [Featured Partners](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Featured%20Partners)
     * [FAQ](https://support.cottonbureau.com/category/88-orders-payments-shipping)
     * [Search](https://cottonbureau.com/search?query=pizza)
 * * * *
