@@ -5,7 +5,7 @@
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
 
-We Offer [Month Start Sale](https://mls.om/collections/month-start-offers "Month Start Offers") , [Incredible Deals](https://mls.om/collections/incredible-deals "INCREDIBLE DEALS") & [Lamb Fire Sale](https://mls.om/collections/lamb-fire-sale "Lamb Fire Sale")
+Shop OFFERS and SAVE BIG [Month End Sale](https://mls.om/collections/month-end-offers "Month End Offers") , [Incredible Deals](https://mls.om/collections/incredible-deals "INCREDIBLE DEALS") and [Lamb Fire Sale](https://mls.om/collections/lamb-fire-sale "Lamb Fire Sale")
 
 Use code **SEP10** to get 10% off until 31/08
 
