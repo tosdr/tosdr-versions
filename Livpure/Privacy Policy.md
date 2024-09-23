@@ -36,6 +36,7 @@ Snapmint | 0% EMI | available above ₹2999
 * [Experience Center](https://www.livpure.com/pages/experience-centers)
 * [Bulk Order](https://www.livpure.com/pages/bulk-lead)
 * [Investors](https://www.livpure.com/pages/investors)
+* [Careers](https://livpurerecruit-careers.peoplestrong.com/home)
 * Customer Support
     
     * [For Service : 080648-99399](tel:18004199399)
@@ -169,7 +170,7 @@ Snapmint | 0% EMI | available above ₹2999
     
 * [RO Service 1800 419 9399](tel:18004199399)
 
-![get-offer](https://cdn.shopify.com/s/files/1/0414/1357/4809/files/icons8-discount_1.gif)Get Deals ![get-offer](https://cdn.shopify.com/s/files/1/0414/1357/4809/files/icons8-discount_1.gif)
+![get-offer](https://cdn.shopify.com/s/files/1/0414/1357/4809/files/icons8-discount_1.gif)Deals ![get-offer](https://cdn.shopify.com/s/files/1/0414/1357/4809/files/icons8-discount_1.gif)
 
  Search [Log in](https://www.livpure.com/account/login) [Cart](https://www.livpure.com/cart)
 
@@ -348,6 +349,7 @@ Save & Continue
 * [Investors](https://www.livpure.com/pages/investors)
 * [Refer & Earn](https://www.livpure.com/pages/referrals)
 * [Blogs](https://livpure.com/blogs/article)
+* [Careers](https://livpurerecruit-careers.peoplestrong.com/home)
 
 #### Water Purifier in Your City
 
@@ -491,16 +493,6 @@ Plot No 39, Sector 4, IMT Manesar, Gurgaon, Haryana, 122050, India
 * Paytm
 * RuPay
 
-New to Livpure ?
-
-Create an account with us to view your order status online. Your details can also be saved for faster checkout.
-
-[SIGN UP TODAY](javascript:void(0))
-
-[ALREADY REGISTERED? SIGN IN](javascript:void(0))
-
-[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
-
 ★ Judge.me Reviews
 
 ### Let customers speak for us
@@ -588,6 +580,16 @@ Overall recommended product.
 Thank you for your valuable review. We are glad that you are loving our products. We would love to serve you again!
 
 123
+
+New to Livpure ?
+
+Create an account with us to view your order status online. Your details can also be saved for faster checkout.
+
+[SIGN UP TODAY](javascript:void(0))
+
+[ALREADY REGISTERED? SIGN IN](javascript:void(0))
+
+[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
 
 * Choosing a selection results in a full page refresh.
 * Opens in a new window.
