@@ -83,7 +83,7 @@ Menu [Contact](https://www.cardshack.co.uk/s/contact) Account [Basket \- £0.00 
     
     [Money Wallets](https://www.cardshack.co.uk/c/seasonal/christmas/money-wallets) [Secret Santa Gifts](https://www.cardshack.co.uk/c/seasonal/christmas/secret-santa-gifts)
     
-    [Easter Cards](https://www.cardshack.co.uk/c/seasonal/easter-cards) [EID](https://www.cardshack.co.uk/c/seasonal/eid)
+    [Diwali](https://www.cardshack.co.uk/c/seasonal/diwali) [Easter Cards](https://www.cardshack.co.uk/c/seasonal/easter-cards) [EID](https://www.cardshack.co.uk/c/seasonal/eid)
     
     [Fathers Day](https://www.cardshack.co.uk/c/seasonal/fathers-day)
     
