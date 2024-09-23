@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/get-involved/features/watching-select-committees-in-2024/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/research-papers/document/00PLLawRP07041/new-zealand-sovereignty-1857-1907-1947-or-1987/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/get-involved/features/watching-select-committees-in-2024/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/research-papers/document/00PLLawRP07041/new-zealand-sovereignty-1857-1907-1947-or-1987/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
