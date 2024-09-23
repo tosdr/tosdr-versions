@@ -143,8 +143,6 @@
 
 * [DE](https://easy-feedback.de/privacy/datenschutzerklaerung/)
 
-easyfeedback will be at the Zukunft Personal Europe trade fair in Cologne from 10.09. – 12.09.2024. During the trade exhibition, we can only offer you limited support by e-mail. From 13.09.2024 our support will be available for you again as usual.
-
 Secure German data protection
 -----------------------------
 
