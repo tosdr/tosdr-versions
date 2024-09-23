@@ -259,6 +259,15 @@ Advertise with Us
 
 Most Popular
 
+[![Lidl issue sad statement as customer dies while shopping in Irish store](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Lidl issue sad statement as customer dies while shopping in Irish store")](https://www.derrynow.com/news/national-news/1611985/lidl-issue-sad-statement-as-customer-dies-while-shopping-in-irish-store.html)
+
+Lidl issue sad statement as customer dies while shopping in Irish store
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Lidl issue sad statement as customer dies while shopping in Irish store](https://www.derrynow.com/news/national-news/1611985/lidl-issue-sad-statement-as-customer-dies-while-shopping-in-irish-store.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -266,13 +275,34 @@ Most Popular
 [Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
 
-Patrick McEleney celebrates Derry City's equaliser against Shamrock Rovers. Pic by Ramsey Cardy/ Sportsfile
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Ruaidhri Higgins - 'Patrick McEleney is the most honest professional I've ever worked with'](https://www.derrynow.com/news/derry-sport/1611339/ruaidhri-higgins-patrick-mceleney-is-the-most-honest-professional-i-ve-ever-worked-with.html)
+[![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
+
+Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry man set to star in The Voice](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
+------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court")](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction")](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![14-year-old youth appears at Derry Magistrates Court following breach of bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "14-year-old youth appears at Derry Magistrates Court following breach of bail")](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
@@ -284,28 +314,19 @@ Derry Magistrate's Court
 [14-year-old youth appears at Derry Magistrates Court following breach of bail](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court")](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
+[![PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz")](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
 
-[Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
+[![PICTURES: St Cecilia's College Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Cecilia's College Formal")](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
 
-Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Steelstown hopes ended by defeat at Lavey](https://www.derrynow.com/news/derry-sport/1611388/steelstown-hopes-ended-by-defeat-at-lavey.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: St Cecilia's College Formal](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
+------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...")](https://www.derrynow.com/news/arts---entertainment/1611661/your-child-could-be-on-the-late-late-toy-show-as-rte-looking-for-applicants-for-a-new-twist.html)
 
@@ -314,38 +335,22 @@ Gerard Walsh breaks away from Dual player Fintan Bradley. Pic by Colm Heron.
 [Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...](https://www.derrynow.com/news/arts---entertainment/1611661/your-child-could-be-on-the-late-late-toy-show-as-rte-looking-for-applicants-for-a-new-twist.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’")](https://www.derrynow.com/news/northern-ireland/1611495/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](https://www.derrynow.com/news/northern-ireland/1611495/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Senior Football Championship: Quarterfinal opponents confirmed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Senior Football Championship: Quarterfinal opponents confirmed")](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
-
-(Pic: Mary K Burke)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry Senior Football Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Junior Football Championship: Semi final spots secured](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Junior Football Championship: Semi final spots secured")](https://www.derrynow.com/news/derry-sport/1611739/derry-junior-football-championship-semi-final-spots-secured.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry Junior Football Championship: Semi final spots secured](https://www.derrynow.com/news/derry-sport/1611739/derry-junior-football-championship-semi-final-spots-secured.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
 
+[![PICTURES: St Cecilia's College Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Cecilia's College Formal")](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: St Cecilia's College Formal](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
+------------------------------------------------------------------------------------------------------------------------------------------
+
 [![PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE")](https://www.derrynow.com/news/home/1603092/pictures-one-stop-dementia-shop-at-foyleside.html)
 
-[Home](https://www.derrynow.com/)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE](https://www.derrynow.com/news/home/1603092/pictures-one-stop-dementia-shop-at-foyleside.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -408,13 +413,6 @@ Comedian Babatunde Aléshé finds out more about the journey from grain to glass
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success")](https://www.derrynow.com/story-telling/pictures---videos/1606243/in-pictures-annual-roaring-meg-custom-bike-show-a-huge-success.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success](https://www.derrynow.com/story-telling/pictures---videos/1606243/in-pictures-annual-roaring-meg-custom-bike-show-a-huge-success.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -517,51 +515,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Ministers and MLAs urge restoration of funding for city and growth deals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ministers and MLAs urge restoration of funding for city and growth deals")](https://www.derrynow.com/news/local-news/1612010/ministers-and-mlas-urge-restoration-of-funding-for-city-and-growth-deals.html)
+[![Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum")](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
+
+SDLP MLA Mark H Durkan raised a point of order following comments from Michelle O’Neill (Liam McBurney/PA)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
+
+Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry man set to star in The Voice](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
+------------------------------------------------------------------------------------------------------------------------------
+
+[![Phyliss Kealey, daughter of Sean Dalton, pictured outside the Royal Courts of Justice in Belfast on Friday](https://www.derrynow.com/resizer/165/93/true/2024_09_23/IMG-20240920-WA0015-1727097774091.jpg--.jpg?1727097774775 "Phyliss Kealey, daughter of Sean Dalton, pictured outside the Royal Courts of Justice in Belfast on Friday")](https://www.derrynow.com/news/derry-news/1612021/derry-families-welcome-court-of-appeal-s-decision-on-legacy-body.html)
+
+Phyliss Kealey, daughter of Sean Dalton, pictured outside the Royal Courts of Justice in Belfast on Friday
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry Families Welcome Court of Appeal's decision on legacy body](https://www.derrynow.com/news/derry-news/1612021/derry-families-welcome-court-of-appeal-s-decision-on-legacy-body.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![NI Food To Go Association Roadshow to showcase growth opportunities to Derry businesses](https://www.derrynow.com/resizer/165/93/true/2024_09_23/NI_Food_to_Go_Association_NW_roadshow-1727098928632.jpg--.jpg?1727098929099 "NI Food To Go Association Roadshow to showcase growth opportunities to Derry businesses")](https://www.derrynow.com/news/what-s-on/1612074/ni-food-to-go-association-roadshowto-showcase-growth-opportunities-to-derry-businesses.html)
+
+Natalie McCloskey, Derry Chamber; Lilian Seenoi-Barr, Mayor of Derry and Strabane District Council; Michael Henderson, NI Food to Go Association and Stella Graham, Foodovation. (Photo: Tom Heaney)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[NI Food To Go Association Roadshow to showcase growth opportunities to Derry businesses](https://www.derrynow.com/news/what-s-on/1612074/ni-food-to-go-association-roadshowto-showcase-growth-opportunities-to-derry-businesses.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![DEEDS ‘One Stop Shop for Dementia Information Day’ held at Foyleside Shopping Centre](https://www.derrynow.com/resizer/165/93/true/2024_09_23/20-09-24_Deeds_One_Stop_05-1727096096026.jpg--.jpg?1727096097040 "DEEDS ‘One Stop Shop for Dementia Information Day’ held at Foyleside Shopping Centre")](https://www.derrynow.com/news/local-news/1611999/deeds-one-stop-shop-for-dementia-information-day-held-at-foyleside-shopping-centre.html)
+
+DEEDS representative Eilish Brown chatting with Sandra and David McNaught during Friday's One Stop Shop event at Foyleside, Derry.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[DEEDS ‘One Stop Shop for Dementia Information Day’ held at Foyleside Shopping Centre](https://www.derrynow.com/news/local-news/1611999/deeds-one-stop-shop-for-dementia-information-day-held-at-foyleside-shopping-centre.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ministers and MLAs urge restoration of funding for city and growth deals](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_23/1727096710382_0.jpg--.jpg?1727096710645 "Ministers and MLAs urge restoration of funding for city and growth deals")](https://www.derrynow.com/news/local-news/1612010/ministers-and-mlas-urge-restoration-of-funding-for-city-and-growth-deals.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Ministers and MLAs urge restoration of funding for city and growth deals](https://www.derrynow.com/news/local-news/1612010/ministers-and-mlas-urge-restoration-of-funding-for-city-and-growth-deals.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Senior Football Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/resizer/165/93/true/1623027682902.JPG--.JPG?1623027682000 "Derry Senior Football Championship: Quarterfinal opponents confirmed")](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
-
-(Pic: Mary K Burke)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry Senior Football Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/news/gaa/1611865/derry-senior-football-championship-quarterfinal-opponents-confirmed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_22/1727037303169_0.jpg--.jpg?1727037303276 "Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’")](https://www.derrynow.com/news/local-news/1611788/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sinn Fein chief McDonald urges Starmer to ‘walk final length of Irish journey’](https://www.derrynow.com/news/local-news/1611788/sinn-fein-chief-mcdonald-urges-starmer-to-walk-final-length-of-irish-journey.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Intermediate Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/resizer/165/93/true/1623836695208.jpg--.jpg?1623836695000 "Derry Intermediate Championship: Quarterfinal opponents confirmed")](https://www.derrynow.com/news/gaa/1611805/derry-intermediate-championship-quarterfinal-opponents-confirmed.html)
-
-Paddy O'Kane (Pic: Tom Heaney/NW Press Pics)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry Intermediate Championship: Quarterfinal opponents confirmed](https://www.derrynow.com/news/gaa/1611805/derry-intermediate-championship-quarterfinal-opponents-confirmed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2023_08_04/Michael_McMonagle-1691147368533.jpg--.jpg?1691147368558 "Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court")](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
