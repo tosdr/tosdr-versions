@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Анна Кузнецова: Закрепление понятия «студенческая семья» станет основой для развития и расширения мер поддержки этой категории](https://cdn.er.ru/media/news/September2024/EM4tl0p8RbJMMC0exYBR-small.jpg)](https://er.ru/activity/news/anna-kuznecova-zakreplenie-ponyatiya-studencheskaya-semya-stanet-osnovoj-dlya-razvitiya-i-rasshireniya-mer-podderzhki-etoj-kategorii)
+
+[Анна Кузнецова: Закрепление понятия «студенческая семья» станет основой для развития и расширения мер поддержки этой категории](https://er.ru/activity/news/anna-kuznecova-zakreplenie-ponyatiya-studencheskaya-semya-stanet-osnovoj-dlya-razvitiya-i-rasshireniya-mer-podderzhki-etoj-kategorii)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#молодаясемья](https://er.ru/activity/news?tags%5B0%5D=109127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116)
+
+Сегодня 16:48
+
+[![Правительство поддержало законопроект «Единой России» о поддержке студенческих семей](https://cdn.er.ru/media/news/September2024/MEWnSOq6dDGt15kKMCxU-small.jpg)](https://er.ru/activity/news/pravitelstvo-podderzhalo-zakonoproekt-edinoj-rossii-o-podderzhke-studencheskih-semej)
+
+[Правительство поддержало законопроект «Единой России» о поддержке студенческих семей](https://er.ru/activity/news/pravitelstvo-podderzhalo-zakonoproekt-edinoj-rossii-o-podderzhke-studencheskih-semej)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186)
+
+Сегодня 15:15
+
+[![Под наставничеством Владимира Якушева завершает первый этап стажировки участник программы «Время героев» Александр Загайнов](https://cdn.er.ru/media/news/September2024/JSTegz1QuIVXd4zktzB3-small.jpg)](https://er.ru/activity/news/pod-nastavnichestvom-vladimira-yakusheva-zavershaet-pervyj-etap-stazhirovki-uchastnik-programmy-vremya-geroev-aleksandr-zagajnov)
+
+[Под наставничеством Владимира Якушева завершает первый этап стажировки участник программы «Время героев» Александр Загайнов](https://er.ru/activity/news/pod-nastavnichestvom-vladimira-yakusheva-zavershaet-pervyj-etap-stazhirovki-uchastnik-programmy-vremya-geroev-aleksandr-zagajnov)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#времягероев](https://er.ru/activity/news?tags%5B0%5D=1094006) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#стажировка](https://er.ru/activity/news?tags%5B0%5D=15023) [#Свердловская область](https://er.ru/activity/news?tags%5B0%5D=240)
+
+Сегодня 14:20
+
 [![В регистр доноров костного мозга вступили ещё 100 активистов «Молодой Гвардии Единой России»](https://cdn.er.ru/media/news/September2024/R82400pS10Foja917Suc-small.jpg)](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshyo-100-aktivistov-molodoj-gvardii-edinoj-rossii)
 
 [В регистр доноров костного мозга вступили ещё 100 активистов «Молодой Гвардии Единой России»](https://er.ru/activity/news/v-registr-donorov-kostnogo-mozga-vstupili-eshyo-100-aktivistov-molodoj-gvardii-edinoj-rossii)
@@ -320,30 +344,6 @@
 [«Единая Россия» доставила почти 1,5 тысячи тонн гуманитарной помощи в Курскую область](https://er.ru/activity/news/edinaya-rossiya-dostavila-pochti-1-5-tysyachi-tonn-gumanitarnoj-pomoshi-v-kurskuyu-oblast)
 
 [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
-
-20.09.24
-
-[![«Единая Россия» назвала победителей VI Всероссийского фестиваля детского футбола 6х6](https://cdn.er.ru/media/news/September2024/ueMxsN0xHi6fW8QiFuyR-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-nazvala-pobeditelej-vi-vserossijskogo-festivalya-detskogo-futbola-6h6)
-
-[«Единая Россия» назвала победителей VI Всероссийского фестиваля детского футбола 6х6](https://er.ru/activity/news/edinaya-rossiya-nazvala-pobeditelej-vi-vserossijskogo-festivalya-detskogo-futbola-6h6)
-
-[#Ленинградская область](https://er.ru/activity/news?tags%5B0%5D=1669) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Дрозденко](https://er.ru/activity/news?tags%5B0%5D=19558) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#дворовойфутбол](https://er.ru/activity/news?tags%5B0%5D=131214) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787)
-
-20.09.24
-
-[![«Единая Россия» провела лекции по финансовой грамотности для жителей в новых регионах](https://cdn.er.ru/media/news/September2024/yQXicR95wAou0c6AsQA5-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-provela-lekcii-po-finansovoj-gramotnosti-dlya-zhitelej-v-novyh-regionah)
-
-[«Единая Россия» провела лекции по финансовой грамотности для жителей в новых регионах](https://er.ru/activity/news/edinaya-rossiya-provela-lekcii-po-finansovoj-gramotnosti-dlya-zhitelej-v-novyh-regionah)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064) [#консультации](https://er.ru/activity/news?tags%5B0%5D=135175) [#финансы](https://er.ru/activity/news?tags%5B0%5D=1748)
-
-20.09.24
-
-[![Владимир Якушев: В основе поддержки Алексея Текслера на выборах лежат позитивные изменения в Челябинской области](https://cdn.er.ru/media/news/September2024/QN8GuMClbTuN1pKB5ocO-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-osnove-podderzhki-alekseya-tekslera-na-vyborah-lezhat-pozitivnye-izmeneniya-v-chelyabinskoj-oblasti)
-
-[Владимир Якушев: В основе поддержки Алексея Текслера на выборах лежат позитивные изменения в Челябинской области](https://er.ru/activity/news/vladimir-yakushev-v-osnove-podderzhki-alekseya-tekslera-na-vyborah-lezhat-pozitivnye-izmeneniya-v-chelyabinskoj-oblasti)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
 
 20.09.24
 
