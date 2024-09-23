@@ -141,6 +141,11 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+9/23/2024 11:46 AM EST
+
+HuntAndJump now has an official Discord server! We are soft-launching our new discord chat. Registrations are welcome as we sort everything out.  
+[JOIN OUR SERVER](https://discord.gg/qjyheUzkcx)
+
 9/15/2024 9:30 AM EST
 
 [SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
@@ -201,22 +206,6 @@ Big Ol' Rainbow Sale
 --------------------
 
 All Axiom and Rainbow Riot 1 & 2 genes are on sale through the end of the month. You can pick them up now at 25% discount.
-
-9/1/2024 9:30 AM EST
-
-[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**Pearl**  
-![](https://www.huntandjump.com/images/grsExamples/pearl.png)  
-**Splash M**  
-![](https://www.huntandjump.com/images/grsExamples/mac.png)  
-**Non-Dun 1**  
-![](https://www.huntandjump.com/images/grsExamples/nd1.png)  
-**Tiger Eye 2**  
-![](https://www.huntandjump.com/images/grsExamples/te2.png)  
-**Phantom Apple Picking**  
-![](https://www.huntandjump.com/images/grsExamples/apple.png)  
-**Snowdrop**  
-![](https://www.huntandjump.com/images/grsExamples/sno.png)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
