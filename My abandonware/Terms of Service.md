@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Gauntlet II](https://www.myabandonware.com/game/gauntlet-ii-no)
+* [Goal! Goal! Goal!](https://www.myabandonware.com/game/goal-goal-goal-jy3)
+* [Gaplus](https://www.myabandonware.com/game/gaplus-62w)
 * [Funky Fish](https://www.myabandonware.com/game/funky-fish-hak)
 * [Ghouls 'N Ghosts](https://www.myabandonware.com/game/ghouls-n-ghosts-64h)
-* [West Somerset Railway](https://www.myabandonware.com/game/west-somerset-railway-s02)
-* [Hyper Bishi Bashi Champ](https://www.myabandonware.com/game/hyper-bishi-bashi-champ-sgd)
-* [Indian Battle](https://www.myabandonware.com/game/indian-battle-sgc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
