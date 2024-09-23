@@ -45,7 +45,7 @@ account
 
 close
 
-[Send yourself back to school! Study the Bible with access to 50+ premium resources in BibleGateway+ with over $3,100 in valuable resources!](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudy_schoolvalue3100)
+[For as low as $3.54/mo, access $3,100 worth of PREMIUM resources & enhance your UNDERSTANDING of Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&promo=study15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_fy25_backtobiblestudy_aslowas)
 
 close
 
