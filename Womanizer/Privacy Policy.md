@@ -64,10 +64,10 @@ The store will not work correctly in the case when cookies are disabled.
     * [InsideOut](https://www.womanizer.com/eu/insideout)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
     * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
     * [Kinky Couple Collection](https://www.womanizer.com/eu/kinky-couple-collection)
-    * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
