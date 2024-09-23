@@ -10,7 +10,8 @@
     * [Dedicated Servers](https://servers.guru/anonymous-dedicated-servers/)
 * [Features](https://servers.guru/control-panel)
     * [Control panel](https://servers.guru/control-panel/)
-* [FAQ](https://servers.guru/faq/)
+* [Partners](#)
+    * [Affiliates](https://servers.guru/affiliates-program/)
 * [Cart](https://servers.guru/cart/)
 * [Dashboard](https://my.servers.guru/)
 * [Help](https://support.servers.guru/)
@@ -65,7 +66,7 @@ We do not send or sell your data anywhere or to anyone.
 
 [![servers.guru, anonymous VPS](https://servers.guru/wp-content/uploads/2020/07/logo.png)](https://servers.guru/)
 
-Copyright 2024 Moula World LLC  
+Copyright © 2021-2024 Moula World LLC  
 All Rights Reserved.
 
 [![Customers' reviews on Hostings.info](https://hostings.info/informers/cache/2301-6-blue.png "Customers' reviews - will open in a new tab")](https://hostings.info/servers-guru.html)
@@ -86,6 +87,7 @@ About Us
 * [About](https://servers.guru/about/)
 * [FAQ](https://servers.guru/faq/)
 * [Looking Glass](https://servers.guru/looking-glass/)
+* [Affiliate Program](https://servers.guru/affiliates-program/)
 
 Contact Us
 ----------
