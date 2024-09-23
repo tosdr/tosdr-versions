@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Walther Releases Six Handguns At TEQ Fest](https://www.thegunpage.com/walther-releases-six-handguns-at-teq-fest/10610756)
+* [Court Document Reveals Would-Be Assassin’s Extensive Plan To Kill Trump](https://www.thegunpage.com/court-document-reveals-would-be-assassins-extensive-plan-to-kill-trump/10610754)
+* [Savage Arms Announces The AC350 AccuCan Suppressor for 350 Legend](https://www.thegunpage.com/savage-arms-announces-the-ac350-accucan-suppressor-for-350-legend/10610757)
+* [Detroit Lions Tailgate Shooting Ruled Self-Defense](https://www.thegunpage.com/detroit-lions-tailgate-shooting-ruled-self-defense/10610752)
+* [Colorado Teen Shot In The Face By Town Council Member While Scouting Photoshoot Location](https://www.thegunpage.com/colorado-teen-shot-in-the-face-by-town-council-member-while-scouting-photoshoot-location/10610750)
+* [The Trace Uses Trump Assassination Attempt To Attack Bruen Decision](https://www.thegunpage.com/the-trace-uses-trump-assassination-attempt-to-attack-bruen-decision/10610746)
+* [TFB Weekly Web Deals 107: Deals for September 23rd, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-107-deals-for-september-23rd-2024/10610744)
+* [Why Revolvers Still Matter In Competitive Shooting](https://www.thegunpage.com/why-revolvers-still-matter-in-competitive-shooting/10610745)
 * [VIDEO: What Are Your’s and Your Children’s Rights Should Their Schools Ask About Guns](https://www.thegunpage.com/video-what-are-yours-and-your-childrens-rights-should-their-schools-ask-about-guns/10610736)
 * [Bad Science, Faulty Studies Continue Attacks on Hunting, Lead Ammo](https://www.thegunpage.com/bad-science-faulty-studies-continue-attacks-on-hunting-lead-ammo/10610732)
-* [Silencer Saturday #347: The Silencer Central Banish 46-V2](https://www.thegunpage.com/silencer-saturday-347-the-silencer-central-banish-46-v2/10610730)
-* [Paris Olympics: U.S. Skeet Triumph](https://www.thegunpage.com/paris-olympics-u-s-skeet-triumph/10610729)
-* [Stoeger Presents “The Opener” a New Short Film on One Duck Hunting Tradition](https://www.thegunpage.com/stoeger-presents-the-opener-a-new-short-film-on-one-duck-hunting-tradition/10610725)
-* [Authorities Seize Over 350 Websites Importing Switches And Suppressors From China](https://www.thegunpage.com/authorities-seize-over-350-websites-importing-switches-and-suppressors-from-china/10610720)
-* [Classic SSUSA: Turnbull Manufacturing Restores An Old War Horse](https://www.thegunpage.com/classic-ssusa-turnbull-manufacturing-restores-an-old-war-horse/10610719)
-* [Serbian AKs, Part 6: Morana, an Ambitious AK Upgrade Program](https://www.thegunpage.com/serbian-aks-part-6-morana-an-ambitious-ak-upgrade-program/10610717)
-* [POTD: Joe Easter – Running & Gunning A KelTec RDB](https://www.thegunpage.com/potd-joe-easter-running-gunning-a-keltec-rdb/10610714)
-* [TFB Podcast Roundup 147: The September 20th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-147-the-september-20th-roundup/10610715)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/#comment-782273)
 * charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
 * Dr. Ramon Argila deTorres y Sandoval on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782260)
 * Adonis on [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/#comment-782256)
@@ -236,7 +237,6 @@ Recent Comments
 * AlwaysVictoria on [Teamsters Don’t Support Trump, But Teamsters Do](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/#comment-782210)
 * Spit-N-Seeds on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782201)
 * Jim on [Caption This…](https://www.conservativedailynews.com/2024/09/caption-this/#comment-782189)
-* charles wilkins on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/09/dangerous-rhetoric/#comment-782180)
 
 [Close](#)
 
