@@ -4,6 +4,8 @@ Previous
 
 [Get a free bestsellers set on $85+ ($55 value). Use code: bests at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
+[Enjoy 20% off products when you purchase 2 or more items from our Essentials Edit. Shop now.](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
+
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
 Enjoy Free Standard Shipping on any $65+ order.
@@ -30,9 +32,15 @@ NEW
 
 [Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection") Shop Limited-Edition Kerri Rosenthal Collection
 
-   [![](/media/export/cms/Homepage/Kerri Rosenthal Collection/FY24_KerriRosenthal_Digital_GNAV_Collection_03-1.jpg)](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
+  ![](/media/export/cms/Homepage/Kerri Rosenthal Collection/FY24_KerriRosenthal_Digital_GNAV_Collection_03-1.jpg)
 
 [Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection")
+
+[Shop Limited-Edition Polished Grunge Collection](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop Limited-Edition Polished Grunge Collection	") Shop Limited-Edition Polished Grunge Collection
+
+  [![](/media/export/cms/Homepage/94 Hannah/FY25_HannahMurray_Digital_GNAV_SLICE.jpg)](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
+
+[Shop Limited-Edition Polished Grunge Collection](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop Limited-Edition Polished Grunge Collection	")
 
  [BESTSELLERS](https://www.bobbibrowncosmetics.com/products/14358/best-sellers) BESTSELLERS 
 
@@ -230,6 +238,8 @@ Trending
 
  [NEW WEIGHTLESS FOUNDATION](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all)
 
+ [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
+
  [Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
 
  [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
@@ -251,8 +261,6 @@ Special offers
  [CHAT WITH A MAKEUP ARTIST](https://www.bobbibrowncosmetics.com/beauty-chat)
 
  [VITAMIN ENRICHED COLLECTION](https://www.bobbibrowncosmetics.com/vitamin-enriched-collection)
-
- [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
 
  [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
 
