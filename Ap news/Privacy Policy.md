@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Lebanon sees deadliest day in nearly a year of fighting as officials say Israeli strikes kill 100](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
-    * [Lebanese doctor races to save the eyes of those hurt by exploding tech devices](https://apnews.com/article/elias-jaradeh-eye-injuries-lebanon-exploding-devices-1ef861481aa43c86bfede3781734a85a)
-    * [A Soyuz capsule with 2 Russians and 1 American from the International Space Station returns to Earth](https://apnews.com/article/soyuz-capsule-international-space-station-a069a2a905122d03bd653d8157e05f5b)
+    * [Lebanon sees deadliest day of conflict since 2006 as Israeli strikes kill more than 270](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
+    * [Is this war? The Israeli-Hezbollah conflict is hard to define — or predict](https://apnews.com/article/israel-lebanon-hezbollah-conflict-war-57eb5ef4a77f3bcc0d2b920bc4536706)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Missouri Supreme Court to consider death row case a day before scheduled execution](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
-    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
-    * [Search underway for suspects in Alabama mass shooting that killed 4 and injured 17](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
+    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
+    * [Birmingham, Alabama, officials plead for information on mass shooting and offer reward money](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
     * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
-    * [Spending deal averts a possible federal shutdown and funds the government into December](https://apnews.com/article/congress-government-shutdown-trump-johnson-budget-deal-d51de0cd895db687a6f5b35fc0dab13e)
+    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
+    * [Election 2024 Latest: Trump and Harris work to expand their coalitions in final weeks of election](https://apnews.com/article/trump-harris-pennsylvania-campaigns-election-china-99af5a930a206b62f88cc62b38970047)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [The Rams rally from a double-digit deficit to stun the 49ers 27-24 on a late field goal](https://apnews.com/article/rams-49ers-score-46e18cf02ab0972ee0d674bf89488d99)
-    * [Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://apnews.com/article/cowboys-ravens-score-35032b8e7a791258a5ccd679d03688ea)
-    * [Ohtani, Betts go back-to-back in ninth as Dodgers rally past Rockies 6-5](https://apnews.com/article/dodgers-rockies-score-ohtani-d3de4308b324c9f764754daad9d64df7)
+    * [Analysis: 6 teams saved their season by avoiding an 0-3 start](https://apnews.com/article/jackson-henry-harbaugh-stafford-williams-dalton-nabers-jones-taylor-nix-3dff6378a602fbf946e03b04a3eae9e4)
+    * [Michigan State football player Armorion Smith heads household with 5 siblings after mother's death](https://apnews.com/article/michigan-state-armorion-smith-314abf9fc878fb2177afa4bf733fd6bf)
+    * [Christine Bumstead once took Panthers coach Paul Maurice hunting. And her coaching career took off](https://apnews.com/article/panthers-christine-bumstead-female-coach-305139aa7743a63dbbc20481846680a3)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
+    * [Diddy’s music streams jump after after arrest and indictment](https://apnews.com/article/sean-combs-diddy-streaming-numbers-67e23aa94bc2456aecea6bd972f503dd)
     * [Banned Books Week starts with mixed messages as reports show challenges both up and down](https://apnews.com/article/banned-books-library-association-pen-america-d13a4232d193d0376df93392d7e42924)
-    * [John Mulaney and Olivia Munn have a second child, a daughter named Méi](https://apnews.com/article/john-mulaney-olivia-munn-baby-daughter-mei-da8e6572395303bf5bfafc82fe474c20)
+    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
     
 * [Business](https://apnews.com/business)
     
@@ -127,8 +127,8 @@ Menu
     TOP STORIES
     
     * [The Fed sees its inflation fight as a success. Will the public eventually agree?](https://apnews.com/article/inflation-prices-federal-reserve-economy-election-rates-6975bffaa4cb818f4cf0fe05f218dd5c)
-    * [For home shoppers, the Fed’s big rate cut is likely just a small step towards affording a home](https://apnews.com/article/mortgage-rates-home-sales-refinancing-federal-reserve-1b25840c7e6e0c11188038028dc4fb23)
-    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
+    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
     
 * [Science](https://apnews.com/science)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     * [Profiles in clean energy: Dad concerned about climate change shifts company away from oil and gas](https://apnews.com/article/clean-energy-plug-power-hydrogen-oil-gas-climate-change-5a353d6dd6557e7752003ffe0907ad77)
-    * [For a week, New York will be center of money-focused fight to slow climate change](https://apnews.com/article/climate-money-finance-united-nations-new-york-153f7a93e70d5aa23c77f18b128f8205)
-    * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
     
 * [Health](https://apnews.com/health)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
+    * [Ban sought for Chinese, Russian software and hardware used in autonomous vehicles on US roads](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
-    * [Google begins its defense in antitrust case alleging monopoly over advertising technology](https://apnews.com/article/google-antitrust-case-advertising-technology-64dc88ff8ede9db77f80b243ba3605a3)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,15 +269,15 @@ Menu
     
     TOP STORIES
     
-    * [Alcohol-free beer is gaining popularity, even at Oktoberfest](https://apnews.com/article/oktoberfest-alcoholfree-beer-munich-e1279f6e24f406fa04ead4b09f4bbcbe)
-    * [What to Stream: Clooney & Pitt, Will & Harper, a Legend of Zelda game and two Ryan Murphy TV series](https://apnews.com/article/streaming-tv-music-movies-september-2024-pitt-ceab3796ab88b231f4995da12c1f4075)
-    * [Milan Fashion Week closes with a gala promoting sustainability](https://apnews.com/article/milan-fashion-week-ferrari-d3875281d840cdd5931a610d58c28f58)
+    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
+    * [Michigan State football player Armorion Smith heads household with 5 siblings after mother's death](https://apnews.com/article/michigan-state-armorion-smith-314abf9fc878fb2177afa4bf733fd6bf)
+    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Most Hispanic Americans — whether Catholic or Protestant —support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
+    * [Most Hispanic Americans support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
     * [Malaysian police rescue 187 more children as sex abuse probe of Islamic group deepens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-f881f8fe7bba6afe17b20c7b5524e7f0)
     * [The family of a doctor accused of blasphemy in Pakistan says police killed him in a fake encounter](https://apnews.com/article/pakistan-blasphemy-suspect-killed-police-260b6cc77437d64d4093bd4aea37c649)
     
@@ -298,7 +298,7 @@ Menu
     * [Marcha de Evo Morales se dirige a La Paz y presiona al presidente Luis Arce](https://apnews.com/world-news/general-news-fc0e280a870d19eb59cae9d89cb6022f)
     * [Meta de Trump de deportaciones masivas quedó corta. Pero tiene nuevos planes para un segundo mandato](https://apnews.com/us-news/general-news-a678add3a9cab73a56d4d65c1f1588a7)
     * [Partido de Scholz desestima cuestionamientos sobre su candidatura](https://apnews.com/world-news/general-news-5ce2f0d94f1c2a8684202bc4f9f59aba)
-    * [El Talibán de Pakistán niega haber atacado un convoy diplomático](https://apnews.com/world-news/general-news-0b81e990b559f0fb244e9904b24c7b89)
+    * [Acusado de presunto atentado contra Trump expresó en una nota su intención de matar al expresidente](https://apnews.com/us-news/general-news-2c559e692c7051c3f83d2caaae00c2b6)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Lebanon sees deadliest day in nearly a year of fighting as officials say Israeli strikes kill 100](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
-    * [Lebanese doctor races to save the eyes of those hurt by exploding tech devices](https://apnews.com/article/elias-jaradeh-eye-injuries-lebanon-exploding-devices-1ef861481aa43c86bfede3781734a85a)
-    * [A Soyuz capsule with 2 Russians and 1 American from the International Space Station returns to Earth](https://apnews.com/article/soyuz-capsule-international-space-station-a069a2a905122d03bd653d8157e05f5b)
+    * [Lebanon sees deadliest day of conflict since 2006 as Israeli strikes kill more than 270](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
+    * [Is this war? The Israeli-Hezbollah conflict is hard to define — or predict](https://apnews.com/article/israel-lebanon-hezbollah-conflict-war-57eb5ef4a77f3bcc0d2b920bc4536706)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     
     Newsletters
     
@@ -472,8 +472,8 @@ Submit Search
     TOP STORIES
     
     * [Missouri Supreme Court to consider death row case a day before scheduled execution](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
-    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
-    * [Search underway for suspects in Alabama mass shooting that killed 4 and injured 17](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
+    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
+    * [Birmingham, Alabama, officials plead for information on mass shooting and offer reward money](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Feds: Man accused in apparent assassination attempt wrote note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
     * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
-    * [Spending deal averts a possible federal shutdown and funds the government into December](https://apnews.com/article/congress-government-shutdown-trump-johnson-budget-deal-d51de0cd895db687a6f5b35fc0dab13e)
+    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
+    * [Election 2024 Latest: Trump and Harris work to expand their coalitions in final weeks of election](https://apnews.com/article/trump-harris-pennsylvania-campaigns-election-china-99af5a930a206b62f88cc62b38970047)
     
     Newsletters
     
@@ -553,9 +553,9 @@ Submit Search
     
     TOP STORIES
     
-    * [The Rams rally from a double-digit deficit to stun the 49ers 27-24 on a late field goal](https://apnews.com/article/rams-49ers-score-46e18cf02ab0972ee0d674bf89488d99)
-    * [Henry rushes for 151 yards, 2 TDs as Ravens hang on to beat Cowboys 28-25](https://apnews.com/article/cowboys-ravens-score-35032b8e7a791258a5ccd679d03688ea)
-    * [Ohtani, Betts go back-to-back in ninth as Dodgers rally past Rockies 6-5](https://apnews.com/article/dodgers-rockies-score-ohtani-d3de4308b324c9f764754daad9d64df7)
+    * [Analysis: 6 teams saved their season by avoiding an 0-3 start](https://apnews.com/article/jackson-henry-harbaugh-stafford-williams-dalton-nabers-jones-taylor-nix-3dff6378a602fbf946e03b04a3eae9e4)
+    * [Michigan State football player Armorion Smith heads household with 5 siblings after mother's death](https://apnews.com/article/michigan-state-armorion-smith-314abf9fc878fb2177afa4bf733fd6bf)
+    * [Christine Bumstead once took Panthers coach Paul Maurice hunting. And her coaching career took off](https://apnews.com/article/panthers-christine-bumstead-female-coach-305139aa7743a63dbbc20481846680a3)
     
     Newsletters
     
@@ -582,9 +582,9 @@ Submit Search
     
     TOP STORIES
     
-    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
+    * [Diddy’s music streams jump after after arrest and indictment](https://apnews.com/article/sean-combs-diddy-streaming-numbers-67e23aa94bc2456aecea6bd972f503dd)
     * [Banned Books Week starts with mixed messages as reports show challenges both up and down](https://apnews.com/article/banned-books-library-association-pen-america-d13a4232d193d0376df93392d7e42924)
-    * [John Mulaney and Olivia Munn have a second child, a daughter named Méi](https://apnews.com/article/john-mulaney-olivia-munn-baby-daughter-mei-da8e6572395303bf5bfafc82fe474c20)
+    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
     
 * [Business](https://apnews.com/business)
     
@@ -599,8 +599,8 @@ Submit Search
     TOP STORIES
     
     * [The Fed sees its inflation fight as a success. Will the public eventually agree?](https://apnews.com/article/inflation-prices-federal-reserve-economy-election-rates-6975bffaa4cb818f4cf0fe05f218dd5c)
-    * [For home shoppers, the Fed’s big rate cut is likely just a small step towards affording a home](https://apnews.com/article/mortgage-rates-home-sales-refinancing-federal-reserve-1b25840c7e6e0c11188038028dc4fb23)
-    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
+    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
     
 * [Science](https://apnews.com/science)
     
@@ -719,9 +719,9 @@ Submit Search
     
     TOP STORIES
     
+    * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     * [Profiles in clean energy: Dad concerned about climate change shifts company away from oil and gas](https://apnews.com/article/clean-energy-plug-power-hydrogen-oil-gas-climate-change-5a353d6dd6557e7752003ffe0907ad77)
-    * [For a week, New York will be center of money-focused fight to slow climate change](https://apnews.com/article/climate-money-finance-united-nations-new-york-153f7a93e70d5aa23c77f18b128f8205)
-    * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
     
 * [Health](https://apnews.com/health)
     
@@ -745,9 +745,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Co-founder of Titan expected to testify before Coast Guard about submersible that imploded](https://apnews.com/article/titan-submersible-implosion-hearing-e8b5ef4b797b86b43e8b65e721216b26)
+    * [Ban sought for Chinese, Russian software and hardware used in autonomous vehicles on US roads](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
+    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
-    * [Google begins its defense in antitrust case alleging monopoly over advertising technology](https://apnews.com/article/google-antitrust-case-advertising-technology-64dc88ff8ede9db77f80b243ba3605a3)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,15 +765,15 @@ Submit Search
     
     TOP STORIES
     
-    * [Alcohol-free beer is gaining popularity, even at Oktoberfest](https://apnews.com/article/oktoberfest-alcoholfree-beer-munich-e1279f6e24f406fa04ead4b09f4bbcbe)
-    * [What to Stream: Clooney & Pitt, Will & Harper, a Legend of Zelda game and two Ryan Murphy TV series](https://apnews.com/article/streaming-tv-music-movies-september-2024-pitt-ceab3796ab88b231f4995da12c1f4075)
-    * [Milan Fashion Week closes with a gala promoting sustainability](https://apnews.com/article/milan-fashion-week-ferrari-d3875281d840cdd5931a610d58c28f58)
+    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
+    * [Michigan State football player Armorion Smith heads household with 5 siblings after mother's death](https://apnews.com/article/michigan-state-armorion-smith-314abf9fc878fb2177afa4bf733fd6bf)
+    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Most Hispanic Americans — whether Catholic or Protestant —support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
+    * [Most Hispanic Americans support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
     * [Malaysian police rescue 187 more children as sex abuse probe of Islamic group deepens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-f881f8fe7bba6afe17b20c7b5524e7f0)
     * [The family of a doctor accused of blasphemy in Pakistan says police killed him in a fake encounter](https://apnews.com/article/pakistan-blasphemy-suspect-killed-police-260b6cc77437d64d4093bd4aea37c649)
     
@@ -794,7 +794,7 @@ Submit Search
     * [Marcha de Evo Morales se dirige a La Paz y presiona al presidente Luis Arce](https://apnews.com/world-news/general-news-fc0e280a870d19eb59cae9d89cb6022f)
     * [Meta de Trump de deportaciones masivas quedó corta. Pero tiene nuevos planes para un segundo mandato](https://apnews.com/us-news/general-news-a678add3a9cab73a56d4d65c1f1588a7)
     * [Partido de Scholz desestima cuestionamientos sobre su candidatura](https://apnews.com/world-news/general-news-5ce2f0d94f1c2a8684202bc4f9f59aba)
-    * [El Talibán de Pakistán niega haber atacado un convoy diplomático](https://apnews.com/world-news/general-news-0b81e990b559f0fb244e9904b24c7b89)
+    * [Acusado de presunto atentado contra Trump expresó en una nota su intención de matar al expresidente](https://apnews.com/us-news/general-news-2c559e692c7051c3f83d2caaae00c2b6)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
