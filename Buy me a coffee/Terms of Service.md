@@ -19,7 +19,7 @@ Start my page
 Terms of use
 ============
 
-Welcome to Buy Me a Coffee, this page explains our terms of use. When you use Buy Me a Coffee, you’re agreeing to all the rules on this page. Some of them need to be expressed in legal language, but we’ve done our best to offer you clear and simple explanations of what everything means.
+Welcome to Buy Me a Coffee. This page explains our terms of use. When you use Buy Me a Coffee, you’re agreeing to all the rules on this page. Some of them need to be expressed in legal language, but we’ve done our best to offer you clear and simple explanations of what everything means.
 
 About Creating an Account
 -------------------------
@@ -33,7 +33,7 @@ To sign up for an account, you need to be at least 18 years old, or old enough t
 Things that are big no-no’s
 ---------------------------
 
-Thousands of people use Buy Me a Coffee. We expect all of you to behave responsibly and help keep this a nice place. If you want be a part of this don’t do any of these things on our site:
+Thousands of people use Buy Me a Coffee. We expect all of you to behave responsibly and help keep this a nice place. If you want to be a part of this, don’t do any of these things on our site:
 
 **\- Don’t break the law.** Don’t take any action that infringes or violates other people’s rights, violates the law, or breaches any contract or legal duty you have toward anyone.
 
@@ -52,7 +52,7 @@ Thousands of people use Buy Me a Coffee. We expect all of you to behave responsi
 Things we don’t do and are not responsible for
 ----------------------------------------------
 
-Buy Me a Coffee is not and should not be held liable for any damages or losses related to your use of the Services. We don’t become involved in disputes between users, or between users and any third party relating to the use of the Services. We don’t oversee the performance or punctuality of pages and contents, and we don’t endorse any content users submit to the Site. When you use the Services, you release Buy Me a Coffee from claims, damages, and demands of every kind — known or unknown, suspected or unsuspected, disclosed or undisclosed — arising out of or in any way related to such disputes and the Services. All content you access through the Services is at your own risk. You’re solely responsible for any resulting damage or loss to any party.
+Buy Me a Coffee is not, and should not be, held liable for any damages or losses related to your use of the Services. We don’t become involved in disputes between users, or between users and any third party relating to the use of the Services. We don’t oversee the performance or punctuality of pages and contents, and we don’t endorse any content users submit to the Site. When you use the Services, you release Buy Me a Coffee from claims, damages, and demands of every kind — known or unknown, suspected or unsuspected, disclosed or undisclosed — arising out of or in any way related to such disputes and the Services. All content you access through the Services is at your own risk. You’re solely responsible for any resulting damage or loss to any party.
 
 About our fees
 --------------
