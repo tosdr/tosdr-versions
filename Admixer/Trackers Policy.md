@@ -28,8 +28,6 @@
 * [My account](https://portal.admixer.net/Account/LogOn?lng=eng)
 * 
 
- [![DMEXCO 2024](https://admixer.com/wp-content/uploads/desktop.png) ![DMEXCO 2024](https://admixer.com/wp-content/uploads/mobile.png)](https://docs.google.com/forms/d/1Al0dvzRpFuc2dzk_DMUg1GRyLH130ph-ryy7EJzxLIk/)
-
 audienceTargeting blacklist geoTargeting platformTargeting timeTargeting urlTargeting Internal\_\_\_Blog retargetingGroups Internal\_\_\_Trgeting Internal\_\_\_Report Internal\_\_\_MultiFOrmats Internal\_\_\_LaunchMulti Internal\_\_\_BlackList Internal\_\_SSP Internal\_\_NewDeal default banner mobile teaser video facebook globe user arrowRight allformats audience betterSources campaigns clock crm customCreatives eventTrackers frequency impressions internalSources inventory linkedIn more network pdf platform priority report rich send sitePreview sites slideshare urls viewSettings wallet weStars Clients
 
 Users Choices
