@@ -304,7 +304,7 @@ Get **free SEO tips** straight to your inbox!
 
 Email  
 
-Subscribe for free SEO tips » [Privacy policy](https://yoast.com/privacy-policy/)
+Subscribe for free SEO tips » [Privacy notice](https://yoast.com/privacy-notice/)
 
 * * *
 
