@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1374c57f557e8e47cef001df5413db42
+c66c57f34b0b51db53807d63d0c5748f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Coral floral ring](https://www.sojourner.biz/images/cache/jewelry/R0004.200.jpg)](https://www.sojourner.biz/jewelry/rings/coral-floral-ring.html "Coral floral ring")
+[![Emerald glass clasp](https://www.sojourner.biz/images/cache/SKU0108front.200.jpg)](https://www.sojourner.biz/clasps/faux-stone/emerald-glass-clasp.html "Emerald glass clasp")
 
-#### [Coral floral ring](https://www.sojourner.biz/jewelry/rings/coral-floral-ring.html "Coral floral ring")
+#### [Emerald glass clasp](https://www.sojourner.biz/clasps/faux-stone/emerald-glass-clasp.html "Emerald glass clasp")
 
-$59.00
+$17.50
 
 ### Best Sellers
 
