@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Introducing LevelBlue’s 24/7 Managed Threat Detection and Response Service for Government  
+            ##### Quantum Computing and Cybersecurity - Preparing for a New Age of Threats
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/introducing-levelblues-24-7-managed-threat-detection-and-response-service-for-government)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/quantum-computing-and-cybersecurity-preparing-for-a-new-age-of-threats)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -401,13 +401,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Michael Vaughn](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theodoros Karasavvas](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Michael Vaughn
+#### Theodoros Karasavvas
 
-Sep 18, 2024
+Sep 23, 2024
 
-### [Introducing LevelBlue’s 24/7 Managed Threat Detection and Response Service for Government](https://cybersecurity.att.com/blogs/security-essentials/introducing-levelblues-24-7-managed-threat-detection-and-response-service-for-government)  
+### [Quantum Computing and Cybersecurity - Preparing for a New Age of Threats](https://cybersecurity.att.com/blogs/security-essentials/quantum-computing-and-cybersecurity-preparing-for-a-new-age-of-threats)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
