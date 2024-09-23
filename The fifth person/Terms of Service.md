@@ -171,19 +171,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
-    
-    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
-    
-    September 13, 2022
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
     
     1 week ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    
+    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    
+    September 13, 2022
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -210,9 +210,15 @@ Quick Guides
     February 3, 2023
     
 
-* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Photo of Steve Davies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![Photo of Steve Davies](https://secure.gravatar.com/avatar/2cbca18b674875151f00104abd0f7f75?s=70&d=mm&r=g)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-676295)
+    
+    [Steve Davies](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-676295)
+    
+    I'm glad to hear you enjoyed our article and hope it provide...
+    
+* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -246,8 +252,6 @@ Quick Guides
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675804)
     
     [Adam Wong](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675804)
@@ -263,8 +267,6 @@ Quick Guides
     another alternative. Local stock brokers like IFast, Phillip...
     
 * [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -299,20 +301,6 @@ Quick Guides
     [Mei Li](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675685)
     
     Hi Adam, Rusmin and Victor Victor mentioned in the last Alph...
-    
-* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/#comment-675100)
-    
-    [Adam Wong](https://fifthperson.com/how-to-buy-us-shares-in-singapore/#comment-675100)
-    
-    Hi NN, this should explain things: https://www.reddit.com/r/...
     
 
 Advertisement
