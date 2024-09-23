@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Orbea's Diem Lineup Is Here To Herald a New Age for Cycling, but Are They the First?](https://s1.cdn.autoevolution.com/images/news/orbea-s-diem-lineup-is-here-to-herald-a-new-age-for-cycling-but-are-they-the-first-240150-5.jpg "Orbea's Diem Lineup Is Here To Herald a New Age for Cycling, but Are They the First?")
+[![Deluxe, All-Inclusive Box Truck Camper Features a Dark, Norwegian Church-Inspired Design](https://s1.cdn.autoevolution.com/images/news/deluxe-all-inclusive-box-truck-camper-features-a-dark-norwegian-church-inspired-design-240124-5.jpg "Deluxe, All-Inclusive Box Truck Camper Features a Dark, Norwegian Church-Inspired Design")
 
-Orbea's Diem Lineup Is Here To Herald a New Age for Cycling, but Are They the First?](https://www.autoevolution.com/news/orbea-s-diem-lineup-is-here-to-herald-a-new-age-for-cycling-but-are-they-the-first-240150.html)
+Deluxe, All-Inclusive Box Truck Camper Features a Dark, Norwegian Church-Inspired Design](https://www.autoevolution.com/news/deluxe-all-inclusive-box-truck-camper-features-a-dark-norwegian-church-inspired-design-240124.html)
 
 how-to \_
 
