@@ -453,7 +453,7 @@ Support
 * [Getting Started](https://www.juniper.net/documentation/dayoneplus/us/en/day-one-plus)
 * [Juniper Support Portal](https://supportportal.juniper.net/)
 * [Product License Keys](https://license.juniper.net/licensemanage/)
-* [Product Entitlement Search](https://entitlementsearch.juniper.net/entitlementsearch/)
+* [Serial Number Entitlement Search](https://supportportal.juniper.net/s/serial-number-entitlement)
 * [Update Install Base](https://supportportal.juniper.net/)
 * [Contact Support](https://support.juniper.net/support/requesting-support/)
 
