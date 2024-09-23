@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
+    
+    ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
+    
+    [![Art Academy's new campus](https://southwarknews.co.uk/wp-content/uploads/2024/09/Art-Academy-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
+    
+    ### [New art school opens in Bankside](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
+    
+    [![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-360x180.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
+    
+    ### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
+    
     [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
     
     ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
@@ -42,18 +54,6 @@
     [![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
     
     ### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
-    
-    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
-    
-    ### [Exclusive: Next to zero chance phone snatchers will be jailed, shocking analysis shows](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
-    
-    [![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
-    
-    ### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
-    
-    [![She was forced to sleep under this urine-smelling stairwell. Credit: Isabel Ramirez](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-2-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
-    
-    ### [Comment: Disabled tenant sleeping under filthy stairwell fails human decency](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
+    
+    ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
+    
+    [![Art Academy's new campus](https://southwarknews.co.uk/wp-content/uploads/2024/09/Art-Academy-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
+    
+    ### [New art school opens in Bankside](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
+    
+    [![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-360x180.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
+    
+    ### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
+    
     [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
     
     ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
@@ -122,18 +134,6 @@ View All Result
     [![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
     
     ### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
-    
-    [![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
-    
-    ### [Exclusive: Next to zero chance phone snatchers will be jailed, shocking analysis shows](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
-    
-    [![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
-    
-    ### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
-    
-    [![She was forced to sleep under this urine-smelling stairwell. Credit: Isabel Ramirez](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-2-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
-    
-    ### [Comment: Disabled tenant sleeping under filthy stairwell fails human decency](https://southwarknews.co.uk/area/rotherhithe/comment-disabled-tenant-sleeping-under-filthy-stairwell-fails-human-decency/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -347,17 +347,17 @@ Website
 
 [21st September 2024](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
-[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
 [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 ### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 [19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
+
+[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
@@ -372,6 +372,18 @@ Website
 [21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
 ### Featured Articles
+
+[![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-120x86.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
+
+### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
+
+[23rd September 2024](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
+
+[![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-120x86.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
+
+### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
+
+[23rd September 2024](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
 
 [![The storage unit was housing pedicabs for repair and storage, London Fire Brigade said. Image- LFB](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-storage-unit-was-housing-pedicabs-for-repair-and-storage-London-Fire-Brigade-said.-Image-LFB-120x86.jpg)](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
 
@@ -396,18 +408,6 @@ Website
 ### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
 
 [22nd September 2024](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
-
-[![A young person riding a bike wearing black clothing and a bandana](https://southwarknews.co.uk/wp-content/uploads/2024/09/A-young-person-riding-a-bike-wearing-black-clothing-and-a-bandana-120x86.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
-
-### [Exclusive: Next to zero chance phone snatchers will be jailed, shocking analysis shows](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
-
-[22nd September 2024](https://southwarknews.co.uk/area/southwark/exclusive-next-to-zero-chance-phone-snatchers-will-be-jailed-shocking-analysis-shows/)
-
-[![Joe Aspinall aged 85](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC_0616-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
-
-### [The record-breaking 85-year-old Bermondsey runner](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
-
-[22nd September 2024](https://southwarknews.co.uk/area/bermondsey/the-record-breaking-85-year-old-bermondsey-runner/)
 
 ### USEFUL PAGES
 
