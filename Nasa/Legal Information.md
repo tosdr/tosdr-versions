@@ -335,7 +335,7 @@ article 1 week ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
 
 ### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
 
 1 min read
 
@@ -363,7 +363,7 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
 
 1 min read
 
@@ -391,7 +391,7 @@ article 5 days ago](https://www.nasa.gov/history/65-years-ago-first-powered-flig
 
 ### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 
-article 5 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
+article 6 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
 
 ### Highlights
 
@@ -407,7 +407,7 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Reinventing the Clock: NASA’s New Tech for Space Timekeeping
 
-article 4 days ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+article 5 days ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)[![An Apollo astronaut preparing to climb the ladder into the lunar module's ascent stage, his spacesuit is covered in lunar dust.](https://images-assets.nasa.gov/image/as17-134-20481/as17-134-20481~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
