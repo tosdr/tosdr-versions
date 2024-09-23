@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Current Processing Time: Up to 5 Business Days + Time in Transit. Free shipping on most orders over $99!Click For Shipping Details](https://northwoodcandlesupply.com/pages/about-us)
+[Current Processing Time: 3-5 Business Days + Time in Transit. Free shipping on most orders over $99!Click For Shipping Details](https://northwoodcandlesupply.com/pages/about-us)
 
       
 
@@ -114,7 +114,7 @@
 * [TikTok](https://www.tiktok.com/@northwooddistributing)
 * [pinterest.com/northwoodcandle](https://www.pinterest.com/northwoodcandle/)
 
-[![NorthWood Distributing](//northwoodcandlesupply.com/cdn/shop/files/logo_for_site_header.png?v=1713628323&width=600)](https://northwoodcandlesupply.com/)
+[![NorthWood Distributing - Professional Quality Candle & Crafting Supplies](//northwoodcandlesupply.com/cdn/shop/files/NorthWood_ed46b8bd-4c80-4eb1-b22b-f4772dc6413d.png?v=1727086151&width=600)](https://northwoodcandlesupply.com/)
 
 * [Home](https://northwoodcandlesupply.com/)
 * Fragrance Oils
