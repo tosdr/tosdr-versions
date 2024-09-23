@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/de886115-5e65-4479-9edf-337d8ddba8fa/20240923T042329/de886115-5e65-4479-9edf-337d8ddba8fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/de886115-5e65-4479-9edf-337d8ddba8fa/20240923T042329/de886115-5e65-4479-9edf-337d8ddba8fa_360x203.jpg)](https://www.wqad.com/article/news/local/geneseo-34th-annual-maple-leaf-classic/526-d0cccee9-7083-4f30-aed0-50abc50010b2)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240923T161715/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d9e1febb-a562-4815-bbbd-a0ae64cfafb6/20240923T161715/d9e1febb-a562-4815-bbbd-a0ae64cfafb6_360x203.jpg)](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
         
-        #### [QCA marching bands take to the field at Geneseo's 34th Annual Maple Leaf Classic](https://www.wqad.com/article/news/local/geneseo-34th-annual-maple-leaf-classic/526-d0cccee9-7083-4f30-aed0-50abc50010b2)
+        #### [Davenport health center to expand mental health and substance abuse services with federal support](https://www.wqad.com/article/money/davenport-health-center-expand-mental-health-substance-abuse-services-federal-funding/526-1e124b3a-8abe-4b07-bf8a-52fdb7901bfc)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fa6391ca-1dab-4de1-9841-9200febc0ed8/20240920T231600/fa6391ca-1dab-4de1-9841-9200febc0ed8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fa6391ca-1dab-4de1-9841-9200febc0ed8/20240920T231600/fa6391ca-1dab-4de1-9841-9200febc0ed8_360x203.jpg)](https://www.wqad.com/article/news/local/wyatt-earp-birthplace-airbnb-monmouth-illinois/526-85ed8356-0892-41cf-bdf4-dbd3697cffc7)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb)
         
-        #### [Wyatt Earp's birthplace in Monmouth is now an Airbnb](https://www.wqad.com/article/news/local/wyatt-earp-birthplace-airbnb-monmouth-illinois/526-85ed8356-0892-41cf-bdf4-dbd3697cffc7)
+        #### [Inmate dies at Scott County Jail, sheriff says](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb) [![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05/20240424T195923/d6d64709-668a-4d43-9b4a-a6f6a5ba7f05_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb)
         
+        #### [Scott County Jail inmate dies from medical condition, sheriff says](https://www.wqad.com/article/news/local/scott-county-jail-inmate-dies-sheriffs-office/526-8bdde197-d354-47ab-b6af-eab1f1424aeb)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0c0f6497-80f0-4552-829c-15bf339e0548/20240922T231104/0c0f6497-80f0-4552-829c-15bf339e0548_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0c0f6497-80f0-4552-829c-15bf339e0548/20240922T231104/0c0f6497-80f0-4552-829c-15bf339e0548_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d85b4c34-7291-4e39-872c-41c456c1b639/20240923T121421/d85b4c34-7291-4e39-872c-41c456c1b639_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d85b4c34-7291-4e39-872c-41c456c1b639/20240923T121421/d85b4c34-7291-4e39-872c-41c456c1b639_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Fall weather has arrived](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Stray shower or two likely through Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.tegna-media.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.wqad.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-54°
+66°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
