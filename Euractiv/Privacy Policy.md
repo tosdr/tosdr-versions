@@ -155,9 +155,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Transition may exacerbate regional disparities in Hungary](https://www.euractiv.com/section/economy-jobs/news/transition-may-exacerbate-regional-disparities-in-hungary/)
     * [EU may suspend more funds for Hungary, government makes adjustments](https://www.euractiv.com/section/economy-jobs/news/eu-may-suspend-more-funds-for-hungary-government-makes-adjustments/)
     * [Industry´s vision for a competitive Europe](https://www.euractiv.com/section/economy-jobs/opinion/industrys-vision-for-a-competitive-europe/)
-    * [Why financial literacy must be built into the EU’s policy agenda](https://www.euractiv.com/section/economy-jobs/opinion/why-financial-literacy-must-be-built-into-the-eus-policy-agenda/)
     
 * [Energy & Environment](https://www.euractiv.com/sections/energy-environment/)
     
