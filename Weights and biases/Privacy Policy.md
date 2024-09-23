@@ -104,13 +104,13 @@
     * [Case Studies](https://wandb.ai/site/customers/)
     * [Whitepapers](https://wandb.ai/site/resources/whitepapers/)
     * [Articles](https://wandb.ai/site/articles/)
-    * [Partners](https://wandb.ai/site/resources/partners/)
+    * [Partners](https://wandb.ai/site/partners/)
     
     * [Resource Library](https://wandb.ai/site/solutions/resources/)
     * [Case Studies](https://wandb.ai/site/customers/)
     * [Whitepapers](https://wandb.ai/site/resources/whitepapers/)
     * [Articles](https://wandb.ai/site/articles/)
-    * [Partners](https://wandb.ai/site/resources/partners/)
+    * [Partners](https://wandb.ai/site/partners/)
     
     * [Blog & Tutorials](https://wandb.ai/fully-connected)
     * [Events](https://wandb.ai/fully-connected/events)
