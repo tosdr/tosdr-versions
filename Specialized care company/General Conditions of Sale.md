@@ -27,7 +27,6 @@ Welcome! Please sign in to see codes and pricing appropriate for your account ty
 * [Homecare](https://specializedcare.com/collections/homecare-products)
     * [Surround® Toothbrushes](https://specializedcare.com/collections/surround-toothbrushes)
     * [Mouth Supports](https://specializedcare.com/products/mouth-rests)
-* [Gift Card](https://specializedcare.com/products/specialized-care-co-gift-card)
 * [Catalog PDF](https://specializedcare.com/pages/catalog)
 * [Contact](https://specializedcare.com/pages/contact-us)
 * [My Account](https://specializedcare.com/account)
