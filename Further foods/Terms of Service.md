@@ -196,9 +196,9 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
-[![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727098662)
+[![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727105651)
 
-![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727098662)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
+![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727105651)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
 
 [Pumpkin Spice Latte](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
 ------------------------------------------------------------------------------------
