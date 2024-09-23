@@ -253,8 +253,6 @@ find us on:
 
 v2.08 – © Nerdist All Rights Reserved
 
-        
-
 [](https://nerdist.com/ "Link to Home")
 
 Close menu
