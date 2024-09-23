@@ -34,8 +34,12 @@ Please, verify your email.
 * [Favorites](https://www.pornpics.com/favorites/)
 * Pics
     
-    * [Popular](https://www.pornpics.com/popular/)
-    * [Recent](https://www.pornpics.com/recent/)
+    * [Most Popular](https://www.pornpics.com/popular/)
+    * [Most Recent](https://www.pornpics.com/recent/)
+    * [Top Rated](https://www.pornpics.com/rating/)
+    * [Most Liked](https://www.pornpics.com/likes/)
+    * [Most Viewed](https://www.pornpics.com/views/)
+    * [Most Commented](https://www.pornpics.com/comments/)
     
 * Categories
     
