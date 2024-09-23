@@ -118,60 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks Adriaan...
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Johan Botha - Brand Xplosion
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=50112403)  
-Xpress Designs
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=47036827)  
+Waterfinatics Swim School
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=207668055)  
-Tracknetics
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=73416075)  
+NEW BEGINNINGS DESIGNS
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=30922538)  
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=8332741)  
+kidoscabbie
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=213354983)  
-Leef in Afrikaans
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=114721602)  
+Immediate Health (pty)ltd
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=54066364)  
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=65811968)  
+NILBET (PTY) LTD - Once Off's
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=81674393)  
+Gemini-IT Group
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=179788783)  
+Van Der Merwe Olieverspreiders
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=54077340)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=101356334)  
+Tagline Brands
+
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=77085988)  
 Lindani Protection Services & Projects
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=128886970)  
-Cape Adventure Zone
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=75904417)  
+Leef in Afrikaans
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=206219470)  
-All Trucking Solutions
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=154709730)  
+Enhle Oarabile Kea
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=24336953)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=101832460)  
+OXYAIDER (PTY) LTD
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=127082118)  
-ELLIE'S CLEANING CHICKS
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=31614489)  
+NIMAWELL
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=171940389)  
-Itroniq (Pty) Ltd
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=28391246)  
-Mountain Lion Properties
-
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=87560285)  
-Wiselink Broadband Vryheid
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=37718637)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=171886611)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=38743704)  
-Glass and Allied Industries
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=b114b71d7d952d19c7497c2b045839ef322f00eb226cba9ebd50fe1c11901bd4&c=7289372)  
+Roamfree Boerdery (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
