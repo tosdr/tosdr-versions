@@ -1007,11 +1007,7 @@ Switch to
         Explore
         -------
         
-        * [All Cases](https://www.razer.com/mobile/cases)
-        * [Razer Arctech](https://www.razer.com/mobile-cases/razer-arctech)
-        * [Razer Arctech Pro](https://www.razer.com/mobile-cases/razer-arctech-pro)
-        * [Razer Arctech Pro Range](https://www.razer.com/mobile-cases/razer-arctech-pro-2020)
-        * [Razer Custom](https://www.razer.com/customs/browse/razer/all/phone-cases/iphone-14~lite-case)
+        * [Razer Customs](https://www.razer.com/customs/browse/razer/all/phone-cases/iphone-14~lite-case)
         
     * Accessories
         
