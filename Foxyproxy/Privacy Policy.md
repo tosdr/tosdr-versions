@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks so much for your brilliantly quick and efficient response!
+Your customer service has always been so good!
 
-Jaci Stephen
+Mark Evans
