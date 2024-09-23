@@ -10,6 +10,7 @@
     * [Ad Templates](https://bannernow.com/html5-gif-mp4-ads-templates)
     * [Plugins](https://bannernow.com/plugins)
 * [Examples](https://bannernow.com/html5-banner-examples)
+* [Pricing](https://bannernow.com/pricing)
 * [Enterprise](https://bannernow.com/request-demo)
 
 [![Bannernow](https://storage.bannernow.com/static/bn-landings/assets/img/logo.svg)](https://bannernow.com/)
