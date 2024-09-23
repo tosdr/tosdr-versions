@@ -115,7 +115,7 @@ Legal documents may be served on Shoppers Drug Mart Inc. at the following addres
 
 Need help?
 
-[FAQs](https://loblaw.force.com/shoppersdrugmart/s/?language=en_US)
+[FAQ](https://loblaw.force.com/shoppersdrugmart/s/?language=en_US)
 
 [Find a local store](https://stores.shoppersdrugmart.ca/en/)
 
