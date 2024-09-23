@@ -222,6 +222,48 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 23, 2024
+
+> Sara
+
+> I recently had the pleasure of working with Sara Van Coillie to secure top-notch accommodation in Windhoek, and I cannot speak highly enough of her exceptional service. From the very beginning, Sara demonstrated an unwavering commitment to ensuring that every detail was perfect.
+
+Christina Hutchinson
+
+,
+
+GB
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 23, 2024
+
+> Quick response and good follow-up.
+
+> Quick response and good follow-up.
+
+Dieter
+
+,
+
+BE
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 23, 2024
+
+> Sara was incredibly efficient and easy…
+
+> Sara was incredibly efficient and easy to communicate with.
+
+Lia R
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 20, 2024
 
 > Sabi Sands Game Reserve reservations made easy
@@ -303,48 +345,6 @@ Michael J Russ
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 16, 2024
-
-> First time to Cape Town
-
-> We are a group of ten friends traveling together to Cape Town for the first time. Safari.com was our top choice for travel agents. Leché and Tracy were incredibly helpful and prompt with our questions and bookings. The trip to Sanbona Wildlife Reserve was fantastic, and everything went off without a hitch. We highly recommend Safari.com for your safari plans!
-
-Joleen
-
-,
-
-ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 15, 2024
-
-> Very responsive
-
-> Very responsive, I sent an email and got a response almost immediately (I checked it’s like 11pm their time…on a Sunday)
-
-customer
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 15, 2024
-
-> Shann was amazingly helpful
-
-> Shann was amazingly helpful! After spending several days online on our own trying to find good accommodation or even available rooms and lodges, we reached out to safari and to shann, who set us up in record time with a beautiful destination, flights and transfers. I absolutely recommend this dite and the incredible service
-
-Anna
-
-,
-
-DE
 
 VIP service
 
