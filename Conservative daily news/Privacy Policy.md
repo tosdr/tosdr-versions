@@ -1,7 +1,8 @@
-Sunday, September 22 2024
+Monday, September 23 2024
 
 Breaking News
 
+* [ABC Political Director Warns ‘Kamala Harris Has Issues’ With Hispanic Voters](https://www.conservativedailynews.com/2024/09/abc-political-director-warns-kamala-harris-has-issues-with-hispanic-voters/)
 * [Democrats Want ‘Climate Literacy’ In Schools As Actual Literacy Slips](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
 * [Does Anybody Want To Win This Thing?](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
 * [Steve Kornacki Describes Massive ‘Gender Gap’ Between Trump, Harris In New Poll](https://www.conservativedailynews.com/2024/09/steve-kornacki-describes-massive-gender-gap-between-trump-harris-in-new-poll/)
@@ -9,7 +10,6 @@ Breaking News
 * [We Are Being “Punked” By Kamala And Crew](https://www.conservativedailynews.com/2024/09/we-are-being-punked-by-kamala-and-crew/)
 * [John Fetterman Admits Trump Has ‘Special’ Bond With Key Swing-State Voters](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
 * [Gender Ideology Is The New ‘Parental Alienation’](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
-* [Defense Secretary’s Last-Minute Decision To Toss 9/11 Plea Deal Likely To Be Rejected By Judge](https://www.conservativedailynews.com/2024/09/defense-secretarys-last-minute-decision-to-toss-9-11-plea-deal-likely-to-be-rejected-by-judge/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/abc-political-director-warns-kamala-harris-has-issues-with-hispanic-voters/)
+    
+    [ABC Political Director Warns ‘Kamala Harris Has Issues’ With Hispanic Voters](https://www.conservativedailynews.com/2024/09/abc-political-director-warns-kamala-harris-has-issues-with-hispanic-voters/)
+    
+    September 22, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Classroom.jpg)](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
     
     [Democrats Want ‘Climate Literacy’ In Schools As Actual Literacy Slips](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
@@ -165,12 +171,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/John-Fetterman-on-Trump-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
     
     [John Fetterman Admits Trump Has ‘Special’ Bond With Key Swing-State Voters](https://www.conservativedailynews.com/2024/09/john-fetterman-admits-trump-has-special-bond-with-key-swing-state-voters/)
-    
-    September 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/02-kidsgender-an-1080.jpg)](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
-    
-    [Gender Ideology Is The New ‘Parental Alienation’](https://www.conservativedailynews.com/2024/09/gender-ideology-is-the-new-parental-alienation/)
     
     September 22, 2024
     
