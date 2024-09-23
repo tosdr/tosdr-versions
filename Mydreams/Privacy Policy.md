@@ -31,6 +31,7 @@ Košík je prázdný
     * [World E-mail hosting](https://www.mydreams.cz/cz/webhosting/world-e-mail-hosting.html)
     * [Multihosting](https://www.mydreams.cz/cz/webhosting/multihosting.html)
     * [Prestashop Hosting](https://www.mydreams.cz/cz/webhosting/prestashop-webhosting.html)
+    * [Nette WebHosting 20GB](https://www.mydreams.cz/cz/webhosting/nette-webhosting-20gb.html)
     * [Reseller hosting](https://www.mydreams.cz/cz/vps-servery/vps-server-full-sprava.html)
     * [Registrace domén](https://mydomain.cz/)
     * [Wordpress WebHosting + Varnish Cache](https://www.mydreams.cz/cz/webhosting/wordpress-wp-webhosting-varnish-cache.html)
