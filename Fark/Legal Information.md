@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [230 years after his death, Mozart to release new music](https://www.fark.com/goto/13403192) ( [theguardian.com](https://www.fark.com/goto/13403192) ) » [(9 comments)](https://www.fark.com/comments/13403192/-230-years-after-his-death-Mozart-to-release-new-music) |
-| [Discussion](https://www.fark.com/discussion/) | [Dear Deidre, I told my boyfriend my fantasy is to see him have sex with another woman - he's now giving me the quizzical dog look](https://www.fark.com/goto/13403014) ( [thesun.ie](https://www.fark.com/goto/13403014) ) » [(8 comments)](https://www.fark.com/comments/13403014/Dear-Deidre-I-told-my-boyfriend-my-fantasy-is-to-see-him-have-sex-with-another-woman-hes-now-giving-me-quizzical-dog-look) |
-| [Sports](https://www.fark.com/sports/) | ["The Detroit Tigers officially control their own playoff destiny"](https://www.fark.com/goto/13402830) ( [freep.com](https://www.fark.com/goto/13402830) ) » [(5 comments)](https://www.fark.com/comments/13402830/The-Detroit-Tigers-officially-control-their-own-playoff-destiny) |
-| [Business](https://www.fark.com/business/) | [Millennials in tech used to be with 'it', but then they changed what 'it' was. Now what they're with isn't 'it' anymore and what's 'it' seems weird and scary. It'll happen to everyone](https://www.fark.com/goto/13403030) ( [aol.com](https://www.fark.com/goto/13403030) ) » [(2 comments)](https://www.fark.com/comments/13403030/Millennials-in-tech-used-to-be-with-it-but-then-they-changed-what-it-was-Now-what-theyre-with-isnt-it-anymore-whats-it-seems-weird-scary-Itll-happen-to-everyone) |
-| [STEM](https://www.fark.com/stem/) | [Don't you hate it when AI resurrects your father?](https://www.fark.com/goto/13403010) ( [slate.com](https://www.fark.com/goto/13403010) ) » [(1 comment)](https://www.fark.com/comments/13403010/Dont-you-hate-it-when-AI-resurrects-your-father) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Captain Jack Harkness is not as tough as he looks](https://www.fark.com/goto/13402972) ( [dailymail.co.uk](https://www.fark.com/goto/13402972) ) » [(8 comments)](https://www.fark.com/comments/13402972/Captain-Jack-Harkness-is-not-as-tough-as-he-looks) |
-| [Fandom](https://www.fark.com/fandom/) | [Plot lines considered for the 5th season of Blackadder that never happened were as cunning as a fox who's just been appointed Professor of Cunning at Oxford University (possible nsfw content on page)](https://www.fark.com/goto/13402946) ( [express.co.uk](https://www.fark.com/goto/13402946) ) » [(2 comments)](https://www.fark.com/comments/13402946/Plot-lines-considered-for-5th-season-of-Blackadder-that-never-happened-were-as-cunning-as-a-fox-whos-just-been-appointed-Professor-of-Cunning-at-Oxford-University-possible-nsfw-content-on-page) |
-| [D'awww](https://www.fark.com/dawww/) | [A boy who was kidnapped in 1951, was found, alive, in 2024](https://www.fark.com/goto/13402766) ( [sfgate.com](https://www.fark.com/goto/13402766) ) » [(3 comments)](https://www.fark.com/comments/13402766/A-boy-who-was-kidnapped-in-1951-was-found-alive-in-2024) |
-| [Food](https://www.fark.com/food/) | [Couple finding tiny 10mm egg inside a full-sized chook egg has Subby scratching his head as to which came first 'the egg or the egg'](https://www.fark.com/goto/13403028) ( [9news.com.au](https://www.fark.com/goto/13403028) ) » [(3 comments)](https://www.fark.com/comments/13403028/Couple-finding-tiny-10mm-egg-inside-a-full-sized-chook-egg-has-Subby-scratching-his-head-as-to-which-came-first-egg-the-egg) |
-| [Politics](https://www.fark.com/politics/) | [Former Trump officials are trying to whitewash Stinky's foreign policy record. Well, orangewash](https://www.fark.com/goto/13403000) ( [politico.com](https://www.fark.com/goto/13403000) ) » [(6 comments)](https://www.fark.com/comments/13403000/Former-Trump-officials-are-trying-to-whitewash-Stinkys-foreign-policy-record-Well-orangewash) |
+| [Main](https://www.fark.com/) | [Need an excuse to buy a flamethrower? Burning raccoon latrines is a good one](https://www.fark.com/goto/13403440) ( [arstechnica.com](https://www.fark.com/goto/13403440) ) » [(11 comments)](https://www.fark.com/comments/13403440/Need-an-excuse-to-buy-a-flamethrower-Burning-raccoon-latrines-is-a-good-one) |
+| [Discussion](https://www.fark.com/discussion/) | ["My ex is totes jelly about my younger, hotter girlfriend and she wants to break us up because she can't handle me doing so good. How do I thwart her?" (possible nsfw content on page)](https://www.fark.com/goto/13403722) ( [thesun.co.uk](https://www.fark.com/goto/13403722) ) » [(6 comments)](https://www.fark.com/comments/13403722/My-ex-is-totes-jelly-about-my-younger-hotter-girlfriend-she-wants-to-break-us-up-because-she-cant-handle-me-doing-so-good-How-do-I-thwart-her-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [Utah Diamondbacks?](https://www.fark.com/goto/13403728) ( [deseret.com](https://www.fark.com/goto/13403728) ) » [(2 comments)](https://www.fark.com/comments/13403728/Utah-Diamondbacks) |
+| [Business](https://www.fark.com/business/) | [Ozempic and Wegovy sales results are weakening the case for needing high drug prices to offset R&D expenses](https://www.fark.com/goto/13403572) ( [msn.com](https://www.fark.com/goto/13403572) ) » [(2 comments)](https://www.fark.com/comments/13403572/Ozempic-Wegovy-sales-results-are-weakening-case-for-needing-high-drug-prices-to-offset-RD-expenses) |
+| [STEM](https://www.fark.com/stem/) | [Missed it by that much](https://www.fark.com/goto/13403706) ( [gizmodo.com](https://www.fark.com/goto/13403706) ) » [(5 comments)](https://www.fark.com/comments/13403706/Missed-it-by-that-much) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Old and Busted: East Coast vs. West Coast rap beefs. New Hotness: Megadeath vs....Peter Frampton?](https://www.fark.com/goto/13403692) ( [loudwire.com](https://www.fark.com/goto/13403692) ) » [(7 comments)](https://www.fark.com/comments/13403692/Old-Busted-East-Coast-vs-West-Coast-rap-beefs-New-Hotness-Megadeath-vsPeter-Frampton) |
+| [Fandom](https://www.fark.com/fandom/) | [The original "real" Lara Croft actress Rhona Mitra discusses what it's like having a perfect face, how she can make grown men freeze with a sideways glance. Just kidding, she talks about her latest movie and acting process, but subby can dream](https://www.fark.com/goto/13403332) ( [youtube.com](https://www.fark.com/goto/13403332) ) » [(6 comments)](https://www.fark.com/comments/13403332/The-original-real-Lara-Croft-actress-Rhona-Mitra-discusses-what-its-like-having-a-perfect-face-how-she-can-make-grown-men-freeze-with-a-sideways-glance-Just-kidding-she-talks-about-her-latest-movie-acting-process-but-subby-can-dream) |
+| [D'awww](https://www.fark.com/dawww/) | [A boy who was kidnapped in 1951, was found, alive, in 2024](https://www.fark.com/goto/13402766) ( [sfgate.com](https://www.fark.com/goto/13402766) ) » [(8 comments)](https://www.fark.com/comments/13402766/A-boy-who-was-kidnapped-in-1951-was-found-alive-in-2024) |
+| [Food](https://www.fark.com/food/) | [Today is National Baker Day, so let's all loaf off and get crusty](https://www.fark.com/goto/13403580) ( [nationaltoday.com](https://www.fark.com/goto/13403580) ) » [(7 comments)](https://www.fark.com/comments/13403580/Today-is-National-Baker-Day-so-lets-all-loaf-off-get-crusty) |
+| [Politics](https://www.fark.com/politics/) | [Sean Hannity's girlfriend wonders why President Biden is napping in the Residence during Cabinet meetings, as Fox News shows Biden not napping at a Cabinet meeting](https://www.fark.com/goto/13403374) ( [mediaite.com](https://www.fark.com/goto/13403374) ) » [(7 comments)](https://www.fark.com/comments/13403374/Sean-Hannitys-girlfriend-wonders-why-President-Biden-is-napping-in-Residence-during-Cabinet-meetings-as-Fox-News-shows-Biden-not-napping-at-a-Cabinet-meeting) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 23 2024 09:43:46  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 23 2024 15:42:17  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
