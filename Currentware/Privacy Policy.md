@@ -1,4 +1,4 @@
-[![](data:image/gif;nitro-empty-id=MTk1OjE0Mw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.currentware.com/)
+[![](https://currentware.com/wp-content/uploads/2022/05/currentware-webconsole-logo-white-bg.svg#34740)](https://www.currentware.com/)
 
 * Products
     
@@ -348,7 +348,7 @@ Canada
 
 We have procedures in place to receive and respond to complaints or inquiries about our handling of personal information, our compliance with this policy, and with applicable privacy laws. To discuss our compliance with this policy please contact us using the contact information listed above.
 
-![](data:image/gif;nitro-empty-id=NjQ1OjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![](/wp-content/uploads/2021/12/currentware-webconsole-logo-noBG-light.svg)
 
 CurrentWare's data loss prevention, productivity, and security software gives you advanced control and visibility over technology use in your organization
 
@@ -419,9 +419,9 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
 
 [Terms of Service](https://www.currentware.com/terms-of-service/)
 
- [![](data:image/gif;nitro-empty-id=NzM1OjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=NzM2OjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=NzM3OjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=NzM4OjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
+ [![](/wp-content/uploads/2024/04/iconmonstr-facebook-3.svg)](https://www.facebook.com/CurrentWareInc/)[![](/wp-content/uploads/2024/04/iconmonstr-linkedin-3.svg)](https://www.linkedin.com/company/currentware)[![](/wp-content/uploads/2024/04/iconmonstr-youtube-8.svg)](https://www.youtube.com/user/Currentware)[![](/wp-content/uploads/2024/04/iconmonstr-twitter-3.svg)](https://twitter.com/CurrentWare)
 
-![CurrentWare Privacy Policy](data:image/svg+xml;nitro-empty-id=NzU1OjIzNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![CurrentWare Privacy Policy](https://www.currentware.com/wp-content/themes/betheme/images/cookies.png)
 
 This website uses cookies to improve your user experience. By using our website, you consent to all cookies in accordance with our [Privacy Policy](https://www.currentware.com/privacy-policy/)
 
