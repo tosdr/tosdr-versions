@@ -48,6 +48,26 @@ FOX SCORES
     | TAS | 126 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250102)
+* [One-Day Cup
+    
+    24/9 9:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WA  | –   |
+    | SA  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250103)
+* [WNCL
+    
+    24/9 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WA  | –   |
+    | TAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250101)
 * AFL
     
 * [AFL
@@ -104,76 +124,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241002)
 * NFL
     
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PIT | 20  |
-    | LAC | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250305)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TB  | 7   |
-    | DEN | 26  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250306)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TEN | 14  |
-    | GB  | 30  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250301)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NO  | 12  |
-    | PHI | 15  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250304)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 34  |
-    | HOU | 7   |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250303)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CLE | 15  |
-    | NYG | 21  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250318)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | IND | 21  |
-    | CHI | 16  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250302)
 * [NFL
     
     Full Time
@@ -268,18 +218,6 @@ FOX SCORES
     | AUS | –   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
-* Football
-    
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MCI | 2   |
-    | ARS | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250504)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
