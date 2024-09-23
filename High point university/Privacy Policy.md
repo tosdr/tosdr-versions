@@ -1,6 +1,6 @@
 [Skip to Main Content](#main-content)
 
-[](#)[![high point university mobile high point nc](https://www.highpoint.edu/media/home/high-point-university-mobile-high-point-nc.png)](https://www.highpoint.edu/)
+[](#)[![high point university north carolina united states hpu masthead](https://www.highpoint.edu/wp-content/themes/hpuassets/frontend/images/logos/high-point-university-mobile-high-point-nc.png)](https://www.highpoint.edu/)
 
 Search
 
@@ -22,7 +22,7 @@ Info for:
 
 Search
 
-  [![high point university header high point nc](https://www.highpoint.edu/media/home/high-point-university-header-high-point-nc.png)  ![high point university dynamic high point nc](https://www.highpoint.edu/media/home/high-point-university-dynamic-high-point-nc.png)](https://www.highpoint.edu/)
+  [![high point university north carolina united states hpu masthead](https://www.highpoint.edu/wp-content/themes/hpu/assets/frontend/images/logos/high-point-university-header-high-point-nc.png)  ![high point university north carolina united states hpu masthead](https://www.highpoint.edu/wp-content/themes/hpu/assets/frontend/images/logos/high-point-university-dynamic-high-point-nc.png)](https://www.highpoint.edu/)
 
 * [Office of the President](http://www.highpoint.edu/president)
 * [News & Media](http://www.highpoint.edu/newsandmedia)
