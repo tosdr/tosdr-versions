@@ -479,7 +479,7 @@ Purchase Type
 Language
 
  All Languages (19,238)  
- Your Languages (13,304) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ Your Languages (13,303) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
