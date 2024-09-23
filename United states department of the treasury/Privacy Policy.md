@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    September 23, 2024
+    
+    [U.S. Department of the Treasury Awards Over $9 Million to Michigan to Help Small Auto Manufacturers and Suppliers Grow and Hire](https://home.treasury.gov/news/press-releases/jy2600)
+    
     September 20, 2024
     
     [Inter-Agency Working Group Releases New Report on Treasury Market Resilience Efforts](https://home.treasury.gov/news/press-releases/jy2593)
@@ -562,10 +566,6 @@ MENU MENU
     September 19, 2024
     
     [Treasury Targets Key Actors in Sanctions Evasion Scheme to Support Russia and North Korea](https://home.treasury.gov/news/press-releases/jy2590)
-    
-    September 18, 2024
-    
-    [Treasury International Capital Data for July](https://home.treasury.gov/news/press-releases/jy2588)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
