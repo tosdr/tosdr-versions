@@ -1069,6 +1069,7 @@
         Rapporti Annuali
         
         * [Esplora Rapporti Annuali](https://www.inps.it/it/it/dati-e-bilanci/rapporti-annuali.html)
+        * [XXIII Rapporto annuale](https://www.inps.it/it/it/dati-e-bilanci/rapporti-annuali/xxiii-rapporto-annuale.html)
         * [XXII Rapporto annuale](https://www.inps.it/it/it/dati-e-bilanci/rapporti-annuali/xxii-rapporto-annuale.html)
         * [XXI Rapporto annuale](https://www.inps.it/it/it/dati-e-bilanci/rapporti-annuali/xxi-rapporto-annuale.html)
         * [XX Rapporto annuale](https://www.inps.it/it/it/dati-e-bilanci/rapporti-annuali/xx-rapporto-annuale.html)
