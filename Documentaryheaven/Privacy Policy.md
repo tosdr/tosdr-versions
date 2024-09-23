@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    National Security Alert
+    The War On Drugs: The Prison Industrial Complex
     
-    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![JFK: The Lost Bullet](/wp-content/thumbnails/7019-100x70.jpg?x53432)
+* [![Crime Inc: Hallucinogens](/wp-content/thumbnails/6507-100x70.png?x53432)
     
-    JFK: The Lost Bullet
+    Crime Inc: Hallucinogens
     
-    It’s been called the most important pieces of film evidence of all time. Locked away in the vaults of the National Archives, the original Zapruder film that captured the vital 11 seconds of President](https://documentaryheaven.com/jfk-the-lost-bullet/ "JFK: The Lost Bullet")
-* [![Out of Shadows](/wp-content/thumbnails/16083-100x70.jpg?x53432)
+    Deep in the Amazon, Rob a former Wall Street broker turned healer has created a free clinic of sorts, administering the highly potent narcotic ayahuasca to trauma patients.](https://documentaryheaven.com/crime-inc-hallucinogens/ "Crime Inc: Hallucinogens")
+* [![The Panama Deception](/wp-content/thumbnails/2125-100x70.jpg?x53432)
     
-    Out of Shadows
+    The Panama Deception
     
-    Out of Shadows is a film that attempts to lift the mask on how the mainstream media and Hollywood try to manipulate and control the masses by spreading propaganda via their platform. Released on YouT](https://documentaryheaven.com/out-of-shadows/ "Out of Shadows")
-* [![Murder in the Amazon](/wp-content/thumbnails/6616-100x70.jpg?x53432)
+    Years before the US went after Saddam Hussein, the White House had Manuel Noriega, another former ally, in its sights. In their Oscar-winning documentary, director Barbara Trent and writer/editor Davi](https://documentaryheaven.com/the-panama-deception/ "The Panama Deception")
+* [![Behind The Big News: Propaganda and the CFR](/wp-content/thumbnails/2197-100x70.jpg?x53432)
     
-    Murder in the Amazon
+    Behind The Big News: Propaganda and the CFR
     
-    In May 2011, married environmental activists Zé Cláudio Ribeiro and Maria do Espirito Santo were shot to death outside their house in the Amazonian state of Para.A month later VICE traveled to Zé](https://documentaryheaven.com/murder-in-the-amazon/ "Murder in the Amazon")
-* [![Culture in Decline: Economics 101](/wp-content/thumbnails/6754-100x70.jpg?x53432)
+    The executives, the editors in print media, the senior producers, executive producers in the visual media – these are the people who have the ideological bias and what’s probably almost as important –](https://documentaryheaven.com/behind-the-big-news-propaganda-and-the-cfr/ "Behind The Big News: Propaganda and the CFR")
+* [![The Fantastic Mr. Feynman](/wp-content/thumbnails/12016-100x70.jpg?x53432)
     
-    Culture in Decline: Economics 101
+    The Fantastic Mr. Feynman
     
-    The topic of this show entitled Economics 101 deals with the subject of Economic Calculation, Market Rationale and its effects, along with considerations of the Scientific Principles of Sustainability](https://documentaryheaven.com/culture-in-decline-economics-101/ "Culture in Decline: Economics 101")
-* [![That Doesn’t Look Like Me](/wp-content/thumbnails/5135-100x70.jpg?x53432)
+    Richard Feynman born May 11, 1918 was an American theoretical physicist, best known for his work in the he is considered one of the most iconic, influential and inspiring scientists of the 20th c](https://documentaryheaven.com/fantastic-mr-feynman/ "The Fantastic Mr. Feynman")
+* [![Usain Bolt: The Fastest Man Alive](/wp-content/thumbnails/8751-100x70.jpg?x53432)
     
-    That Doesn’t Look Like Me
+    Usain Bolt: The Fastest Man Alive
     
-    A short documentary written and directed by Jeffrey Vincent Parise. One December afternoon a group of artists walk into a local nursing home and paint portraits it's residents. During which the film](https://documentaryheaven.com/that-doesnt-look-like-me/ "That Doesn’t Look Like Me")
+    This BBC Three documentary is an personal portrait of Usain Bolt, a professional sprinter who is currently classed as the fastest man in the world because of his performance in the 2009 which saw him](https://documentaryheaven.com/usain-bolt-fastest-man-alive/ "Usain Bolt: The Fastest Man Alive")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
