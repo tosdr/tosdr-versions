@@ -213,11 +213,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, September 22, 2024**
+**Monday, September 23, 2024**
 
-**Happy First Day of Astronomical Fall!**
-
-**...High Pressure To Bring Mostly Sunny and Dry Conditions Across North Florida...Shower and Thunderstorm Activity to Be Concentrated Along Sea Breeze This Afternoon and Evening; Drier Conditions to Create More Isolated Activity...Locally Strong to Severe Thunderstorms Cannot Be Ruled Out Along Sea Breeze; Frequent Lightning, Gusty Winds, and Heavy Downpours...Heat Index Values In Middle to Upper 90s and Low 100s Statewide; Heat Advisories Not Anticipated...Calm and Clear Conditions to Allow for Patchy to Locally Dense Fog Overnight and Early Monday Morning Across Big Bend, Suwannee Valley and Northeast Florida...Moderate Risk for Rip Currents for Numerous Panhandle and East Coast Beaches...Minor Coastal Flooding Near and During Times of High Tide Along St. Johns River, East Coast, South Florida and Keys; Coastal Flood Advisories and Coastal Flood Statements Remain in Effect...Invest 96L Over Central Subtropical Atlantic Has Not Become Better Organized (20%); Broad Area of Low Pressure Over Western Caribbean Sea Producing Disorganized Showers and Thunderstroms (70%); Tropcial Wave Moving Westward Over Eastern and Central Tropical Atlantic During Next Several Days (40%)...**
+**...High Pressure To Bring Mostly Sunny and Dry Conditions Across North Florida...Shower and Thunderstorm Activity to Be Concentrated Along Sea Breeze This Afternoon and Evening; Drier Conditions to Create More Isolated Activity...Isolated Strong Thunderstorm or Two Cannot Be Ruled Out Along Sea Breeze...Heat Index Values In Middle to Upper 90s and Low 100s Statewide; Heat Advisories Not Anticipated...Calm and Clear Conditions to Allow for Patchy to Locally Dense Fog Overnight and Early Tuesday Morning Across Big Bend, Suwannee Valley and Northeast Florida...Moderate Risk for Rip Currents for Numerous Panhandle and East Coast Beaches...Minor Coastal Flooding Near and During Times of High Tide Along St. Johns River, South Florida and Keys; Coastal Flood Advisories and Coastal Flood Statements Remain in Effect...Shower and Thunderstorm Activity Associated With Invest 97L Gradually Becoming Better Organized; High Chance for Development Through Next 48 and 7 Days; Continues to Be Closely Monitored...Tropcial Wave Over Eastern Tropical Atlantic Waters Producing Disorganized Shower and Thunderstorm Activity...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
