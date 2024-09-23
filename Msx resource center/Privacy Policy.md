@@ -150,7 +150,11 @@ Latest reactions
 
 Latest forum posts
 
-* [Franky SSMS.COM patches: Where are they ?](https://www.msx.org/forum/msx-talk/general-discussion/franky-ssmscom-patches-where-are-they?page=2 "Franky SSMS.COM patches: Where are they ?")
+* [Franky SSMS.COM patches: Where are they ?](https://www.msx.org/forum/msx-talk/general-discussion/franky-ssmscom-patches-where-are-they?page=3 "Franky SSMS.COM patches: Where are they ?")
+* [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
+* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
+* [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=117 "Please help testing upcoming openMSX release!")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=53 "WonderTANG! Who wants to juice up your MSX?")
 * [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=17 "VATT - VRAM Access Timing Tester")
 * [Tecnobytes Slot Expander II + Carnivore2 HELP!!!!](https://www.msx.org/forum/msx-talk/hardware/tecnobytes-slot-expander-ii-carnivore2-help "Tecnobytes Slot Expander II + Carnivore2 HELP!!!!")
@@ -159,10 +163,6 @@ Latest forum posts
 * [9990 Copy speed](https://www.msx.org/forum/msx-talk/development/9990-copy-speed "9990 Copy speed")
 * [MSXBAS2ROM and BASIC variables spacings](https://www.msx.org/forum/msx-talk/general-discussion/msxbas2rom-and-basic-variables-spacings "MSXBAS2ROM and BASIC variables spacings")
 * [SymbOS C Compiler (v1.0 released)](https://www.msx.org/forum/msx-talk/development/symbos-c-compiler-v10-released "SymbOS C Compiler (v1.0 released)")
-* [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
-* [ArcadeR Joystick and MSX](https://www.msx.org/forum/msx-talk/hardware/arcader-joystick-and-msx "ArcadeR Joystick and MSX")
-* [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
