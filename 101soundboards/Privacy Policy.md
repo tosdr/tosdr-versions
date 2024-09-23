@@ -27,7 +27,7 @@
 * [Apps](https://www.101soundboards.com/pages/app) Mobile Apps
 * [Song Makers](https://www.101soundboards.com/tts#song_generators) Song Makers
 * [AI Terminal](https://www.101soundboards.com/terminal) AI Sound Generator
-* [TikTok Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) The Famous TikTok Voice
+* [TikTok Voice](https://www.101soundboards.com/tts/72272-tiktok-tts-official-tiktok-lady-computer-voice) The Famous TikTok Voice
 * [Help](https://www.101soundboards.com/pages/about) Help
 * [Donate](https://www.101soundboards.com/pages/support) Support the site
 * [Discord Bot](https://www.101soundboards.com/pages/discordbot) Audio bot for Discord
@@ -39,7 +39,7 @@
 
 [* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/featured/funny#sort_filters)[* Hot](https://www.101soundboards.com/featured/hot#sort_filters)[* Popular](https://www.101soundboards.com/featured/popular#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* AI Voices](https://www.101soundboards.com/tts)[* New](https://www.101soundboards.com/featured/created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
-    [Text-to-Speech AI Voices](https://www.101soundboards.com/tts) [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/tts#song_generators) [AI Sound FX Generator](https://www.101soundboards.com/terminal) [My TTS Phrases](https://www.101soundboards.com/tts/me)
+    [Text-to-Speech AI Voices](https://www.101soundboards.com/tts) [TikTok TTS Voice](https://www.101soundboards.com/tts/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/tts/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/tts#song_generators) [AI Sound FX Generator](https://www.101soundboards.com/terminal) [My TTS Phrases](https://www.101soundboards.com/tts/me)
     
     [iOS and Android Apps](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
     
