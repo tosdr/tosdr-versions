@@ -189,6 +189,14 @@ Press Releases
 
 [See all press releases](https://www.unitedwayri.org/about-us/newsroom/)
 
+23 Sep
+
+#### [Paola Fernandez Appointed Chair of United Way of RI Board of Directors](https://www.unitedwayri.org/press-release/paola-fernandez-appointed-chair-of-united-way-of-ri-board-of-directors/ "Paola Fernandez Appointed Chair of United Way of RI Board of Directors")
+
+United Way of Rhode Island has named a new chair of its Board of Directors, appointing Paola Fernandez to the volunteer leadership position. Fernandez is SVP, Community Development Officer for Centreville Bank and succeeds Dolph Johnson, retired EVP and Chief Human Resources Officer of Hasbro, Inc., who recently completed his three-year term as chair. Read \[…\]
+
+[Read more](https://www.unitedwayri.org/press-release/paola-fernandez-appointed-chair-of-united-way-of-ri-board-of-directors/ "Paola Fernandez Appointed Chair of United Way of RI Board of Directors")
+
 22 May
 
 #### [United Way Hosting Equity Challenge](https://www.unitedwayri.org/press-release/united-way-hosting-equity-challenge/ "United Way Hosting Equity Challenge")
@@ -204,14 +212,6 @@ As part of United Way of Rhode Island’s ongoing commitment to and demonstratio
 In collaboration with the City of Providence and aligned with its mission to build racial equity and opportunities for all Rhode Islanders, United Way has issued a request for proposal (RFP) for the Providence Equity Fund grant program. Available funding is to support strategies that promote racial and social equity, economic mobility, and educational opportunities for underserved populations in Providence.
 
 [Read more](https://www.unitedwayri.org/press-release/united-way-accepting-applications-for-providence-equity-fund-grant-program/ "United Way Accepting Applications for Providence Equity Fund")
-
-01 Mar
-
-#### [United Way Hosts 12th Children’s Book Drive](https://www.unitedwayri.org/press-release/childrens-book-drive-2024-copy/ "United Way Hosts 12th Children’s Book Drive")
-
-United Way of Rhode Island’s Children’s Book Drive is back! In April and May, we’re teaming up with Books Are Wings to help Rhode Island children build their own libraries at home. Join us by buying and shipping books, dropping off books at one of our collection sites, or hosting a drive.
-
-[Read more](https://www.unitedwayri.org/press-release/childrens-book-drive-2024-copy/ "United Way Hosts 12th Children’s Book Drive")
 
 UPCOMING EVENTS
 ---------------
