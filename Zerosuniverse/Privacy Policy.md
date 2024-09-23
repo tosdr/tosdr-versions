@@ -159,9 +159,9 @@ If We change or update this Privacy Policy, We will post changes and updates on 
 
 * [About](https://www.zerosuniverse.com/about-us/)
 * [Contact](https://www.zerosuniverse.com/contact-us/)
-* [Guest Post](https://www.zerosuniverse.com/guest-post/)
 * [Disclaimer](https://www.zerosuniverse.com/disclaimer/)
 * [Privacy](https://www.zerosuniverse.com/privacy-policy/)
+* [Guest Post](https://www.zerosuniverse.com/guest-post/)
 
 © 2022 [Zerosuniverse.com](https://www.zerosuniverse.com/) | All Rights Reserved.
 
