@@ -126,17 +126,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Business Continuity
+[Events
 
-Why You Can’t Afford To Put Off Your Salesforce Continuity Plan Any Longer](https://www.ownbackup.com/blog/why-you-cant-afford-to-put-off-your-salesforce-continuity-plan-any-longer)
+Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/blog/dreamforce-2024-transforming-insights-into-action)
 
-[Backup and Recovery
+[ServiceNow
 
-From Sidelines to Lifelines: The Power of Backups in Football and SaaS](https://www.ownbackup.com/blog/from-sidelines-to-lifelines-the-power-of-backups-in-football-and-saas)
+How to Make ServiceNow Data More Resilient and Compliant](https://www.ownbackup.com/blog/how-to-make-servicenow-data-more-resilient-and-compliant)
 
-[Government
+[Own Accelerate
 
-How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
+Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
 
 Company
 
@@ -348,17 +348,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Business Continuity
+[Events
 
-Why You Can’t Afford To Put Off Your Salesforce Continuity Plan Any Longer](https://www.ownbackup.com/blog/why-you-cant-afford-to-put-off-your-salesforce-continuity-plan-any-longer)
+Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/blog/dreamforce-2024-transforming-insights-into-action)
 
-[Backup and Recovery
+[ServiceNow
 
-From Sidelines to Lifelines: The Power of Backups in Football and SaaS](https://www.ownbackup.com/blog/from-sidelines-to-lifelines-the-power-of-backups-in-football-and-saas)
+How to Make ServiceNow Data More Resilient and Compliant](https://www.ownbackup.com/blog/how-to-make-servicenow-data-more-resilient-and-compliant)
 
-[Government
+[Own Accelerate
 
-How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
+Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
 
 Company
 
