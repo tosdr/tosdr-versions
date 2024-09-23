@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/nesa-paripovic-foto-zoran-popovic-2012_0.jpg?itok=-O4T9mhT)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/crtez.jpg?itok=nPyRME2u)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/roling-stons-usce-14707/mapa-usca.jpg?itok=QdySajtU)](http://seecult.org/galerija/foto-galerija/foto-arhiva/roling-stons-usce-14707)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/stjepan-mimica/gal-ulus.jpg?itok=5KnEKiR9)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/stjepan-mimica)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
