@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Everything works beautifully. In fact it had worked perfectly for so long that I had completely forgotten how to set up a VPN.
+I have been using FoxyProxy for a number of years and have always found it to be perfect for my needs during the winter months when I live in Florida. I have friends who question why I don't use one of the many free proxy services available on line, as they do. The simple answer is that, without exception, they all have problems with them. Foxy proxy is reasonably priced, efficient and well supported and is a service I will continue to use in the future.
 
-Tim Coutts
+Mike Dally
