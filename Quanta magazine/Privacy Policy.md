@@ -285,17 +285,11 @@ Past Week
 
 ### Most Read Articles
 
-[![Scientists looking at globe of interconnected lights](https://www.quantamagazine.org/wp-content/uploads/2024/09/YesWeKans-crNicoRoper-Thumbnail.webp)](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/ExcellentPacking-crChristopherWebbYoung-Thumbnail.webp)](https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/)
 
-[#### Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
+[#### Mathematicians Discover New Shapes to Solve Decades-Old Geometry Problem](https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/)
 
-_By_ [Steve Nadis](https://www.quantamagazine.org/authors/nadis_steven)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/PlanetWideResonance-crTomm-Parker-Thumbnail.webp)](https://www.quantamagazine.org/how-did-a-landslide-shake-the-earth-for-nine-days-20240912/)
-
-[#### The Search for What Shook the Earth for Nine Days Straight](https://www.quantamagazine.org/how-did-a-landslide-shake-the-earth-for-nine-days-20240912/)
-
-_By_ [Robin George Andrews](https://www.quantamagazine.org/authors/andrews_robin)
+_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
 
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/09/RNATextMessages-crNashWeerasekera-Thumbnail.webp)](https://www.quantamagazine.org/cells-across-the-tree-of-life-exchange-text-messages-using-rna-20240916/)
 
@@ -303,11 +297,17 @@ _By_ [Robin George Andrews](https://www.quantamagazine.org/authors/andrews_robin
 
 _By_ [Annie Melchor](https://www.quantamagazine.org/authors/amelchorsimonsfoundation-org)
 
-[![Shapes forming an atom](https://www.quantamagazine.org/wp-content/uploads/2024/09/JoW-E17-Quantum-Thermodynamics-Peter-Greenwood-Thumbnail.jpg)](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
+[![Scientists looking at globe of interconnected lights](https://www.quantamagazine.org/wp-content/uploads/2024/09/YesWeKans-crNicoRoper-Thumbnail.webp)](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 
-[#### Can Thermodynamics Go Quantum?](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
+[#### Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 
-_By_ [Steven Strogatz](https://www.quantamagazine.org/authors/stevenstrogatz)
+_By_ [Steve Nadis](https://www.quantamagazine.org/authors/nadis_steven)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/EmbeddingsExplainer-crSamuelVelasco_KristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/how-embeddings-encode-what-words-mean-sort-of-20240918/)
+
+[#### How ‘Embeddings’ Encode What Words Mean — Sort Of](https://www.quantamagazine.org/how-embeddings-encode-what-words-mean-sort-of-20240918/)
+
+_By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
 
 The Quanta Newsletter
 
