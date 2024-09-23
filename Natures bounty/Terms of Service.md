@@ -461,47 +461,37 @@ We offer trusted products, backed by science and made with great ingredients.
 
 Follow @NaturesBounty on social for new product releases, healthy tips, and more.
 
-[![](//naturesbounty.com/cdn/shop/files/MicrosoftTeams-image_83_6299b961-db60-4ebb-8371-a2907a3347df.jpg?v=1691447945&width=350)
+[![](//naturesbounty.com/cdn/shop/files/457376249_514285461180711_4515085279674158121_n.jpg?v=1727109962&width=350)
 
-Advanced Hair, Skin & Nails Gummies
+Magnesium
 
-80 Gummies
+Support healthy bones and muscles with Nature’s Bounty® Magnesium supplements.\*
 
-Strawberry Flavored
-
-View Product](https://www.naturesbounty.com/products/advanced-hair-skin-and-nails)[![](//naturesbounty.com/cdn/shop/files/Pro10_Website_Social_Banner.png?v=1704733568&width=350)
-
-Probiotic 10
-
-20 Billion Live Probiotic Cultures, 30 Capsules
-
-Contributes to Digestive, Immune and Upper Respiratory Health\*
-
-View Product](https://www.naturesbounty.com/products/probiotic-10-30-capsules)[![Woman, Nature's Bounty® partner, holds Hair, Skin, & Nails Gummy](//naturesbounty.com/cdn/shop/files/Social-Native-187314-20230104-1x1ad_fd559647-9160-4037-b9ca-732be598ee06.jpg?v=1725394792&width=350)
-
-Biotin
-
-80 gummies, 6,000mcg of Biotin per serving
-
-Advanced Hair Skin & Nails Gummies with 2X Biotin^
-
-View Product](https://www.naturesbounty.com/products/advanced-hair-skin-and-nails)[![](//naturesbounty.com/cdn/shop/files/Sleep3_Gummies_Website_Social_Banner.png?v=1704733742&width=350)
-
-Sleep3 Gummies
-
-10 mg Melatonin, 60 Gummies
-
-100% drug-free support for occasional sleeplessness to help you relax and unwind; fall asleep faster and stay asleep longer.\*
-
-View Product](https://www.naturesbounty.com/products/sleep3-gummies)[![Woman, Nature's Bounty partner, holds Hair Skin & Nails Gummy](//naturesbounty.com/cdn/shop/files/Social-Native-193154-20230105-1x1ad_3082ff20-b9f5-425c-843d-0af99ced8351.jpg?v=1725394722&width=350)
+View Magnesium Products](https://www.naturesbounty.com/collections/magnesium)[![](//naturesbounty.com/cdn/shop/files/HSN.png?v=1727110382&width=350)
 
 Hair, Skin & Nails
 
-2,500 mcg of Biotin, 80 Gummies
+Skin & Hair Nutrients\* with Antioxidants Vitamin C & E
 
-Delicious strawberry flavored gummy
+View Gummies](https://www.naturesbounty.com/products/hair-skin-and-nails-80-strawberry-flavored-gummies)[![](//naturesbounty.com/cdn/shop/files/Screenshot_2024-09-23_at_1.04.09_PM.png?v=1727111489&width=350)
 
-View Product](https://www.naturesbounty.com/products/hair-skin-and-nails-80-strawberry-flavored-gummies)
+Berberine
+
+Supports cardiovascular health\*
+
+View Product](https://www.naturesbounty.com/products/berberine-1000mg)[![](//naturesbounty.com/cdn/shop/files/Screenshot_2024-09-23_at_1.04.57_PM_4610ef2f-8310-4bde-84f3-519966c92f66.png?v=1727111891&width=350)
+
+Probiotic 10
+
+Support for Digestive Balance & Healthy Immune Function\*
+
+View Product](https://www.naturesbounty.com/products/probiotic-10-30-capsules)[![](//naturesbounty.com/cdn/shop/files/Screenshot_2024-09-23_at_1.08.44_PM_0da55296-1f79-4d42-9c92-593a8a304676.png?v=1727111890&width=350)
+
+Hair Growth
+
+Clinically shown to help grow thicker, fuller hair in three months.\*
+
+View Product](https://www.naturesbounty.com/products/hair-growth)
 
  
 
