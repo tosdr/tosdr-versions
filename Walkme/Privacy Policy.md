@@ -1,6 +1,6 @@
 **WALKME PRIVACY POLICY**
 
-Effective Date: October 20, 2021
+Effective Date: September 26, 2023
 
 WalkMe and its affiliates,  (“**WalkMe**“, “**we**” or “**us**“) are committed to protecting the privacy of the users of its website at [www.WalkMe.com](https://www.walkme.com/) or any other website owned and/or operated by WalkMe (collectively, the “**Site**“) and its online products, including our web-based digital adoption platform (the “**WalkMe System™**) and the mobile version of our system (the “**WalkMe Mobile™**“) (WalkMe System™ and WalkMe Mobile™ each a “**Service**” and collectively the “**Services**“) provided to our enterprise customers (“**Customers**”).
 
