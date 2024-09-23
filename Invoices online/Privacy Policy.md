@@ -118,57 +118,60 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Hugo van Sittert
+Johan Botha - Brand Xplosion
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=182928340)  
-Echo Recording Studio cc
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=50112403)  
+Xpress Designs
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=173836761)  
-INVOICES/JOBCARDS ONLINE
-
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=58691033)  
-TRACKFORCE (Pty) Ltd
-
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=30326187)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=139165867)  
-Cape Adventure Zone
-
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=12071226)  
-Van Der Merwe Olieverspreiders
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=128696631)  
-Peter Salvage Pty Ltd
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=4582625)  
-Sarabi
-
-![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=51451571)  
-Khiya Technology Solutions
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=183082959)  
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=207668055)  
 Tracknetics
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=128680228)  
-SR Travel Services
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=30922538)  
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=161399533)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=213354983)  
+Leef in Afrikaans
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=27329200)  
-McKaynine Mobility
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=54066364)  
+Lindani Protection Services & Projects
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=186754014)  
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=128886970)  
+Cape Adventure Zone
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=206219470)  
 All Trucking Solutions
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=ca0aed0d6e06b12f093663488e1af6e9af676a61d73c1714aed10e2d9fa87015&c=22876885)  
-NWET Pty LTD
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=24336953)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=127082118)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=171940389)  
+Itroniq (Pty) Ltd
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=28391246)  
+Mountain Lion Properties
+
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=87560285)  
+Wiselink Broadband Vryheid
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=37718637)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=171886611)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=d35baaf4b6359aa7b14d64e78b59474d65f5517cef5606bb92038db24f4e05ab&c=38743704)  
+Glass and Allied Industries
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
