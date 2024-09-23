@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=75420155)  
-Electro-Heat
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=193559531)  
-Kaylas Creations
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=107187284)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=10444999)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=66853287)  
-Sportspro Management (Pty) Ltd
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=137830812)  
-Know Informatics
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=123642710)  
-Kainos (Pty) Ltd
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=15158071)  
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=131153625)  
 Frequency Fanatics (Pty) Ltd
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=11986191)  
-Konsortium Operations (PTY) LTD
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=209321750)  
+Alliance Energy
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=178059241)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=3422794)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=110463779)  
-TurboFibre
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=141808645)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=89363044)  
-Prosper Park
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=210938091)  
+Kara Medical (Pty) Ltd
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=85121333)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=49477314)  
+Chiron Medical Solutions
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=47969270)  
-Camp 4 Africa (Pty) Ltd
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=135757444)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c8419a09b62f00f9881df59d0749272ea62ea75fa4373cb8e67eed0cc1b87101&c=174788508)  
-Goju-Ryu Pretoria East
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=184412133)  
+Cape Adventure Zone
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=149349174)  
+Dombieterfontein (PTY) LTD
+
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=187623747)  
+Lizzy Pop PTY(Ltd)
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=213912485)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=195261818)  
+MSPCloud (Pty) Ltd
+
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=153499732)  
+Well Hung Art
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=210615872)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=b675fe9a0c023860dac062be183413236511d0d06681e6553953baf6c2a95ad3&c=108584164)  
+Sonic Electrical Services PTY Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
