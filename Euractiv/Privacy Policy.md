@@ -824,7 +824,7 @@ If you have any questions about this Privacy Policy, please contact us:
 * 7[Fake Kamala hit-and-run story is the work of Russian propaganda group, Microsoft says](http://en.euractiv.eu/section/global-europe/news/fake-kamala-hit-and-run-story-is-the-work-of-russian-propaganda-group-microsoft-says/?utm_source=website&utm_campaign=popular)
 * 8[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
 * 9[US says Blinken briefed on Ukraine plan to push Russia end the war](http://en.euractiv.eu/section/europe-s-east/news/us-says-blinken-briefed-on-ukraine-plan-to-push-russia-end-the-war/?utm_source=website&utm_campaign=popular)
-* 10[Europe’s electrifiers say their time has come](http://en.euractiv.eu/section/energy-environment/news/europes-electrifiers-say-their-time-has-come/?utm_source=website&utm_campaign=popular)
+* 10[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
