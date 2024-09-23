@@ -456,6 +456,6 @@ Your Privacy Choices
 
 * [Shipping Options](https://enfamil.com/terms-of-sale/#shipping)
 
-* [Return Policy](https://enfamil.com/terms-of-sale/#returns)
+* [Return Policy](https://www.enfamil.com/terms-of-sale/#returns)
 
 Do Not Sell or Share My Personal Information / Opt-Out of Targeted Ad
