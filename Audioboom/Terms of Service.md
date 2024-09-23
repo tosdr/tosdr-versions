@@ -29,7 +29,7 @@ Search podcasts
 
 [Sign in](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
 
-Terms & Conditions
+Terms & conditions
 ==================
 
 Posted: 2017-08-30
