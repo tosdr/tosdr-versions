@@ -54,6 +54,7 @@ Connexion
 *  [![Rentrée Top Chrono !](https://assets.afcdn.com/recipe/20240826/153610_origin.png) Rentrée Top Chrono !](https://www.marmiton.org/cuisine-rapide/rapide-tp123527.html)
 *  [![Petit-déj gourmand](https://assets.afcdn.com/recipe/20240826/153611_origin.png) Petit-déj gourmand](https://www.marmiton.org/dossier-petit-dejeuner-et-brunch)
 * [Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
+* [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / Conditions générales d'utilisation
 
