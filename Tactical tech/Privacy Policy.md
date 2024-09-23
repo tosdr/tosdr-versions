@@ -149,6 +149,16 @@ Shifting the conversation around the impacts of digital technologies
 
 [See our latest news](https://tacticaltech.org/news/latest/)
 
+* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-september.jpg)
+    
+    * In-The-Loop newsletters
+    
+    [### In The Loop September 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-september-2024/)
+    
+    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
+    
+    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-september-2024/)
+    
 * ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
     
     * Open calls
@@ -178,16 +188,6 @@ Shifting the conversation around the impacts of digital technologies
     We are looking to partner with formal or non-formal youth-focused organisations and institutions based in Berlin, especially those working with young people (ages 13-18 years old) from traditionally marginalized identities or backgrounds, on a digital literacy project called What the Future Wants (WTFW) - Comes to Berlin, co-funded by Deutsche Postcode Lotterie.
     
     [Read more →](https://tacticaltech.org/news/open-calls/open-call-OWY-berlin-wtfw-2024/)
-    
-* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/WTFW_2022_01_screen.jpg)
-    
-    * Open calls
-    
-    [### \[Open Call\] German-speaking Workshop Facilitators in Berlin](https://tacticaltech.org/news/open-calls/open-call-facilitator-berlin-wtfw-2024/)
-    
-    The What the Future Wants project is looking for facilitators of a training-of-trainers (ToT) for youth workers and educators which will be delivered in-person in Berlin, in the German language.
-    
-    [Read more →](https://tacticaltech.org/news/open-calls/open-call-facilitator-berlin-wtfw-2024/)
     
 
 Impact stories
