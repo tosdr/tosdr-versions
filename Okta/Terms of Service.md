@@ -4,15 +4,15 @@ Looks like you have Javascript turned off! Please enable it to improve your brow
 
 [Skip to main content](#main-content)
 
-Join us for the Identity event of the year, Oct 15-17
+Can’t make it to Vegas for Oktane? Join us online Oct 16!
 
-Join us for the Identity event of the year, Oct 15-17
+Can’t make it to Vegas for Oktane? Join us online Oct 16!
 
-[Register for Oktane](https://www.oktane.com/)
+[Register now](https://www.oktane.com/)
 
-[Register for Oktane](https://www.oktane.com/)
+[Register now](https://www.oktane.com/)
 
-[Join us for the Identity event of the year, Oct 15-17](https://www.oktane.com/)
+[Can’t make it to Vegas for Oktane? Join us online Oct 16!](https://www.oktane.com/)
 
 [+1 (800) 425-1267](tel:+1-800-425-1267)
 
