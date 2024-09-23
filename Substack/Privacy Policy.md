@@ -357,7 +357,7 @@ Substack has prepared additional disclosures and notices consistent with the Cal
 
 [Resource center](https://substack.com/resources?utm_source=substack&utm_medium=web&utm_content=footer)[Guide to going paid](https://substack.com/going-paid-guide?utm_source=substack&utm_medium=web&utm_content=footer)[Help center](https://support.substack.com/hc/en-us?s=support%40substack.com)[Community and programs](https://substack.com/community-and-programs?utm_source=substack&utm_medium=web&utm_content=footer)[Brand assets](https://substack.com/brand?utm_source=substack&utm_medium=web&utm_content=footer)
 
-Substack is the home for great writing
+Substack is the home for great culture
 
 [![](https://substackcdn.com/image/fetch/w_238,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fapp_page%2Fapp-store-white.png%3Fv%3D1)](https://substack.com/app/get-ios?utm_campaign=app-marketing&utm_content=www-footer)[![](https://substackcdn.com/image/fetch/w_238,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fapp_page%2Fgoogle-play-white.png)](https://substack.com/app/get-android?utm_campaign=app-marketing&utm_content=www-footer)
 
