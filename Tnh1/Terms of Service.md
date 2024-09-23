@@ -82,31 +82,31 @@ Estudos e soluções: reunião no MPF discute prevenção de enchentes, inundaç
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
+   [![PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-em-uma-semana-em-alagoas_672b746056.jpeg)
+
+Balanço
+
+PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-na-ultima-semana-em-alagoas/ "PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas")   [![Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
 
 Três em fazenda
 
-Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://www.tnh1.com.br/noticia/nid/quatro-corpos-sao-encontrados-no-intervalo-de-uma-hora-e-meia-em-rio-largo/ "Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo")   [![Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_apreensao_maragogi_-_foto_cortesia_c8ca9ee969.jpeg)
+Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo](https://www.tnh1.com.br/noticia/nid/quatro-corpos-sao-encontrados-no-intervalo-de-uma-hora-e-meia-em-rio-largo/ "Quatro corpos são encontrados no intervalo de uma hora e meia, em Rio Largo")   [![Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/9/csm_apreensao_maragogi_-_foto_cortesia_c8ca9ee969.jpeg)
 
 Apreensão de drogas
 
-Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://www.tnh1.com.br/noticia/nid/homem-denunciado-por-agredir-mulher-e-preso-com-quase-150-pacotes-de-cocaina-em-maragogi/ "Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi")   [![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_5e82bc93d9.jpg)
+Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi](https://www.tnh1.com.br/noticia/nid/homem-denunciado-por-agredir-mulher-e-preso-com-quase-150-pacotes-de-cocaina-em-maragogi/ "Homem denunciado por agredir mulher é preso com quase 150 pacotes de cocaína, em Maragogi")   [![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_5e82bc93d9.jpg)
 
 Foi denunciada
 
-Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")   [![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_4547273e35.png)
+Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")   [![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_4547273e35.png)
 
 Inhapi
 
-Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")   [![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_0f1a805140.jpeg)
+Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")   [![Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_mulher_canapi_0f1a805140.jpeg)
 
 em inhapi
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")   [![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_185f504b04.jpeg)
-
-geneticamente modificada
-
-Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,23 +206,15 @@ em inhapi
 
 Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares
 
-Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_CRB_x_Ponte_Preta_foto_Francisco_Cedrim_a951fa8363.jpg)
+Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares](https://www.tnh1.com.br/noticia/nid/mulher-assassinada-e-queimada-e-tem-corpo-encontrado-ainda-em-chamas-por-familiares/ "Mulher assassinada é queimada e tem corpo encontrado ainda em chamas por familiares ")[![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_806b7b44c6.png)
 
-CALCULADORA NA MÃO
+Inhapi
 
-CALCULADORA NA MÃO
+Inhapi
 
-Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento
+Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas
 
-Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento](https://www.tnh1.com.br/noticia/nid/veja-pontuacao-necessaria-para-crb-atingir-numero-ideal-e-tentar-fugir-do-rebaixamento/ "Veja pontuação necessária para CRB atingir 'número ideal' e tentar fugir do rebaixamento")[![Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_Acidente_carreta_e29220f661.jpg)
-
-Interior
-
-Interior
-
-Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia
-
-Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/colisao-entre-carro-e-carreta-deixa-quatro-mortos-e-tres-feridos-na-br-312-em-delmiro-gouveia/ "Colisão entre carro e carreta deixa quatro mortos e três feridos na BR-312, em Delmiro Gouveia")[![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_77da53e569.jpeg)
+Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")[![Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/c/csm_maconha_canapi_77da53e569.jpeg)
 
 geneticamente modificada
 
@@ -230,41 +222,49 @@ geneticamente modificada
 
 Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima
 
-Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")
+Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima](https://www.tnh1.com.br/noticia/nid/mais-de-25-mil-pes-de-maconha-sao-apreendidos-no-interior-de-alagoas-apos-denuncia-anonima/ "Mais de 25 mil pés de maconha são apreendidos no interior de Alagoas após denúncia anônima")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
 
-[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
+Foi denunciada
 
-A tiros
+Foi denunciada
 
-A tiros
+Cervejaria é interditada por irregularidades após operação policial no Feitosa
 
-Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará
+Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")
 
-Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_mickey_reproducao_a2b9b91492.jpg)
+[![Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/e/csm_Carteira_Trabalho_678afd39ea.jpg)
 
-Você conhecia?
+Confira quais
 
-Você conhecia?
+Confira quais
 
-Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional
+Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)
 
-Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional](https://www.tnh1.com.br/noticia/nid/como-mickey-paraguaio-venceu-a-disney-na-justica-e-se-tornou-um-sucesso-nacional/ "Como “Mickey paraguaio” venceu a Disney na justiça e se tornou um sucesso nacional")[![CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_helio_dos_anjos_-_foto_reproducao_video_crb_0150164de0.png)
+Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)](https://www.tnh1.com.br/noticia/nid/mais-de-1-mil-vagas-de-emprego-sao-ofertadas-em-cinco-municipios-de-al-a-partir-desta-segunda-23/ "Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)")[![PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-em-uma-semana-em-alagoas_9a3ab2deb2.jpeg)
 
-Jogo decisivo
+Balanço
 
-Jogo decisivo
+Balanço
 
-CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP
+PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas
 
-CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP](https://www.tnh1.com.br/noticia/nid/crb-veja-como-foi-a-entrevista-de-helio-dos-anjos-antes-do-embarque-da-equipe-para-sp/ "CRB: veja como foi a entrevista de Hélio dos Anjos antes do embarque da equipe para SP")[![Explosão em mina de carvão no Irã mata mais de 30 pessoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/0/csm_explosao_ira_-_foto_reproducao_b671a0c27b.png)
+PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-apreende-22-armas-de-fogo-e-34-quilos-de-drogas-na-ultima-semana-em-alagoas/ "PM apreende 22 armas de fogo e 3,4 quilos de drogas na última semana em Alagoas")[![Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/3/csm_sesau-promove-acao-educativa-sobre-doacao-de-orgaos-e-cuidados-com-o-coracao_dd1e2fb291.jpeg)
 
-16 feridos
+Na orla de Maceió
 
-16 feridos
+Na orla de Maceió
 
-Explosão em mina de carvão no Irã mata mais de 30 pessoas
+Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração
 
-Explosão em mina de carvão no Irã mata mais de 30 pessoas](https://www.tnh1.com.br/noticia/nid/explosao-em-mina-de-carvao-no-ira-mata-mais-de-30-pessoas/ "Explosão em mina de carvão no Irã mata mais de 30 pessoas")
+Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração](https://www.tnh1.com.br/noticia/nid/sesau-promove-acao-educativa-sobre-doacao-de-orgaos-e-cuidados-com-o-coracao/ "Sesau promove ação educativa sobre doação de órgãos e cuidados com o coração")[![Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_rebeca_campea_Alexandre_Loureiro-COB_8e14fcea6a.jpg)
+
+Campeã brasileira
+
+Campeã brasileira
+
+Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris
+
+Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris](https://www.tnh1.com.br/noticia/nid/apos-novo-ouro-rebeca-andrade-revela-que-pensou-em-encerrar-a-carreira-apos-paris/ "Após novo ouro, Rebeca Andrade revela que pensou em encerrar a carreira após Paris")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
