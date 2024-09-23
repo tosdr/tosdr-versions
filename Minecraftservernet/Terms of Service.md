@@ -29,17 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1727035879.png.pagespeed.ic.L5Ygs_RV_u.jpg)
+[CrazyLive](https://minecraft-server.net/details/CrazyLive/ "CrazyLive")[![hcraid](plugins/MineCraft/icons/25x25xhcraid_1727004607.png.pagespeed.ic.D7i0NAUJb4.png)
 
-Termina - Towny Wartime! \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Wartime! [Crossplay]")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
+HcRaid⚔️Network](https://minecraft-server.net/details/hcraid/ "HcRaid⚔️Network")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![TitanicFreak](plugins/MineCraft/icons/25x25xTitanicFreak_1663439477.png.pagespeed.ic.VViV2H8Fkw.jpg)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
+MineSuperior - 1.21](https://minecraft-server.net/details/TitanicFreak/ "MineSuperior - 1.21")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
 
-gongs hut (1.21) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "gongs hut (1.21) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")[![TitanicFreak](plugins/MineCraft/icons/25x25xTitanicFreak_1663439477.png.pagespeed.ic.VViV2H8Fkw.jpg)
-
-MineSuperior - 1.21](https://minecraft-server.net/details/TitanicFreak/ "MineSuperior - 1.21")
+gongs hut (1.21) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "gongs hut (1.21) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06368 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06805 - Created by [Debaucus](https://debauc.us/)
