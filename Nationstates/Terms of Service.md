@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What would the AN get if trading card… (94)](https://forum.nationstates.net/viewtopic.php?t=555137&f=25&view=unread#unread ""What would the AN get if trading cards came now?" (94 posts)")
-* [Volksversammlung - Republik de Deutsc… (1)](https://forum.nationstates.net/viewtopic.php?t=555659&f=4&view=unread#unread ""Volksversammlung - Republik de Deutschland Regional Thread" (1 post)")
-* [Pointless War Anyone? (4)](https://forum.nationstates.net/viewtopic.php?t=555657&f=5&view=unread#unread ""Pointless War Anyone?" (4 posts)")
-* [Europeian Embassy - This Newsletter N… (1,683)](https://forum.nationstates.net/viewtopic.php?t=400660&f=12&view=unread#unread ""Europeian Embassy - This Newsletter Never Ju-Lies" (1,683 posts)")
-* [American Politics: (Pumpkin)Spicy Sal… (7,713)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: (Pumpkin)Spicy Salaciousness in NC" (7,713 posts)")
+* [we need aid (27)](https://forum.nationstates.net/viewtopic.php?t=555677&f=4&view=unread#unread ""we need aid" (27 posts)")
+* [Which irl nation is more similar to t… (110)](https://forum.nationstates.net/viewtopic.php?t=554965&f=25&view=unread#unread ""Which irl nation is more similar to the AN?" (110 posts)")
+* [Awesome/Funny NS Quotes (Not Your Own… (3,462)](https://forum.nationstates.net/viewtopic.php?t=358533&f=20&view=unread#unread ""Awesome/Funny NS Quotes (Not Your Own Quotes, Please!)" (3,462 posts)")
+* [\[LAST CALL\] On Embassy Collection (65)](https://forum.nationstates.net/viewtopic.php?t=555038&f=24&view=unread#unread ""[LAST CALL] On Embassy Collection" (65 posts)")
+* [What religion does AU follow? (OOC) (859)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (859 posts)")
 
 Advertisement
 
