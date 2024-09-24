@@ -40,7 +40,7 @@ What career development services do you provide and to whom?\*
 
 What can we help you with today?\*
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -76,8 +76,7 @@ This field is for validation purposes and should be left unchanged.
     
 * [About Us](#)
     
-    * [History](https://www.cascaid.co.uk/about-us/#history)
-    * [Team](https://cascaid.co.uk/about-us/team/)
+    * [History & People](https://www.cascaid.co.uk/about-us/#history)
     * [Partners](https://xello.world/en-gb/partners/)
     * [Events](https://xello.world/en-gb/conferences-events/)
     * [Careers](https://cascaid.co.uk/about-us/careers/)
@@ -375,8 +374,7 @@ If you have any questions regarding this Privacy Policy, please email us at [pri
     * [On-Demand Training](https://help.xello.world/en-gb/Content/Training/UK/Training.htm)
     * [Contact Us](https://xello.world/en-gb/contact/)
 * [About Us](#)
-    * [History](https://www.cascaid.co.uk/about-us/#history)
-    * [Team](https://cascaid.co.uk/about-us/team/)
+    * [History & People](https://www.cascaid.co.uk/about-us/#history)
     * [Partners](https://xello.world/en-gb/partners/)
     * [Events](https://xello.world/en-gb/conferences-events/)
     * [Careers](https://cascaid.co.uk/about-us/careers/)
