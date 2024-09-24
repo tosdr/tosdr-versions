@@ -29,7 +29,7 @@ Skip to Navigation Skip to Navigation Skip to Search Skip to Search [Skip to Mai
         
         *  [![Jann's Steps](/img/nav-cta-about-janns.png) UCLA Ranked No. 1 Public University](https://www.ucla.edu/about/rankings)
             
-            UCLA tops all public universities in the 2021 _U.S. News & World Report_ rankings.
+            UCLA tops all public universities in the 2025 _U.S. News & World Report_ rankings.
             
         
 * [Admission](https://www.ucla.edu/admission)
