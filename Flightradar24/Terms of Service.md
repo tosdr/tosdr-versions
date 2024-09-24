@@ -1,6 +1,6 @@
 ![](https://www.flightradar24.com/static/images/svg/ccpa-cta-icon.svg)
 
-1. [Flight Tracker Map](https://www.flightradar24.com/)
+1. [Flight tracker map](https://www.flightradar24.com/)
 \>3. [About](https://www.flightradar24.com/about)
 \>5. terms and conditions
     
