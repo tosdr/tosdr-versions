@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Souplesse](/storage/highlights/61227/highlight.webp?v=331841)
+[![image Souplesse](/storage/highlights/61227/highlight.webp?v=540108)
 
 ##### Souplesse
 
@@ -94,7 +94,7 @@ La souplesse permet de rendre un geste plus esthétique, d’améliorer la coord
 
 **c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/61227)[](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=333218)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=541782)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
