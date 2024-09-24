@@ -208,9 +208,8 @@ this hour
 
 * * *
 
-* [Powerful Effect of Repetition On Beliefs](https://www.sciencedaily.com/releases/2024/09/240923184943.htm)
+* [Uniquely Inflated and Asymmetric Exoplanet](https://www.sciencedaily.com/releases/2024/09/240924123003.htm)
 * [Rapid Loss of Antarctic Ice After 2100 Likely](https://www.sciencedaily.com/releases/2024/09/240912142344.htm)
-* [New Rules? Redefining 'Sustainable Fishing'](https://www.sciencedaily.com/releases/2024/09/240923110742.htm)
 * [Origins of Horseback Riding](https://www.sciencedaily.com/releases/2024/09/240920165153.htm)
 * [Food Fussiness Is a Largely Genetic Trait](https://www.sciencedaily.com/releases/2024/09/240919193539.htm)
 * [Complex Dance of Our Beliefs](https://www.sciencedaily.com/releases/2024/09/240919174839.htm)
@@ -218,6 +217,7 @@ this hour
 * [Lake Ice Quality Degrading as Planet Warms](https://www.sciencedaily.com/releases/2024/09/240919115157.htm)
 * [Lava from Hotspots from Worldwide Reservoir](https://www.sciencedaily.com/releases/2024/09/240919115023.htm)
 * [Slap Fighting: Risk to Neurological Health](https://www.sciencedaily.com/releases/2024/09/240918125032.htm)
+* [Palaeolithic Cyprus: Dwarf Hippos and Elephants](https://www.sciencedaily.com/releases/2024/09/240917195402.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+[Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
+
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
-
-[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
+[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
 
   
 
