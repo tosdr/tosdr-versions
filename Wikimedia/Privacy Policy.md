@@ -18,7 +18,6 @@ About Wikimedia
 
 Support Wikimedia
 
-* [Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_foundation.wikimedia.org?uselang=en "Support us")
 * [Volunteering](https://wikimediafoundation.org/participate/)
 * [Wikimedia Endowment](https://wikimediaendowment.org/)
 * [Wikimedia Enterprise](https://enterprise.wikimedia.com/)
@@ -59,6 +58,8 @@ Wiki
 Search
 
 * [English](#)
+
+* [Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=Policy:Privacy_policy&utm_medium=pagelink&utm_campaign=C13_foundation.wikimedia.org?uselang=en "Support us")
 
  Appearance
 
