@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-23 Sept 2024
+24 Sept 2024
 
 * [Home
     
@@ -268,20 +268,6 @@ Lidl issue sad statement as customer dies while shopping in Irish store
 [Lidl issue sad statement as customer dies while shopping in Irish store](https://www.derrynow.com/news/national-news/1611985/lidl-issue-sad-statement-as-customer-dies-while-shopping-in-irish-store.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
 
 Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
@@ -291,6 +277,34 @@ Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
 [Derry man set to star in The Voice](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
 ------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction")](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, 23rd September 2024](https://www.derrynow.com/news/deaths/1610382/derry-death-notices-monday-23rd-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry appear to have identified their replacement for Mickey Harte](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry appear to have identified their replacement for Mickey Harte")](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry appear to have identified their replacement for Mickey Harte](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court")](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -298,12 +312,12 @@ Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
 [Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction")](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
+[![PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz")](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
 
-[PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![14-year-old youth appears at Derry Magistrates Court following breach of bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "14-year-old youth appears at Derry Magistrates Court following breach of bail")](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
 
@@ -313,20 +327,6 @@ Derry Magistrate's Court
 
 [14-year-old youth appears at Derry Magistrates Court following breach of bail](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz")](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: St Cecilia's College Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Cecilia's College Formal")](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: St Cecilia's College Formal](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
-------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Your child could be on The Late Late Toy Show as RTÉ looking for applicants for a new twist...")](https://www.derrynow.com/news/arts---entertainment/1611661/your-child-could-be-on-the-late-late-toy-show-as-rte-looking-for-applicants-for-a-new-twist.html)
 
@@ -515,6 +515,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised")](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
+
+A dugout was set on fire at Páirc na nÓg this evening. Photo: St Canice's GAC
+
+[Home](https://www.derrynow.com/)
+
+[County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum")](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
 
 SDLP MLA Mark H Durkan raised a point of order following comments from Michelle O’Neill (Liam McBurney/PA)
@@ -524,7 +533,7 @@ SDLP MLA Mark H Durkan raised a point of order following comments from Michelle 
 [Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
+[![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](https://www.derrynow.com/resizer/165/93/true/2024_09_23/The_Voice-1727100395488.PNG--.PNG?1727100395555 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
 
 Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
 
@@ -559,13 +568,6 @@ DEEDS representative Eilish Brown chatting with Sandra and David McNaught during
 
 [DEEDS ‘One Stop Shop for Dementia Information Day’ held at Foyleside Shopping Centre](https://www.derrynow.com/news/local-news/1611999/deeds-one-stop-shop-for-dementia-information-day-held-at-foyleside-shopping-centre.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ministers and MLAs urge restoration of funding for city and growth deals](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_23/1727096710382_0.jpg--.jpg?1727096710645 "Ministers and MLAs urge restoration of funding for city and growth deals")](https://www.derrynow.com/news/local-news/1612010/ministers-and-mlas-urge-restoration-of-funding-for-city-and-growth-deals.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Ministers and MLAs urge restoration of funding for city and growth deals](https://www.derrynow.com/news/local-news/1612010/ministers-and-mlas-urge-restoration-of-funding-for-city-and-growth-deals.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
