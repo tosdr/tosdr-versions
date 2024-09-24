@@ -59,11 +59,11 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/ondemand-solutions)
             
-            * [Alternative Business Models](https://www.bakerhughes.com/ods/alternative-business-models)
+            * [Alternative Business Models](https://www.bakerhughes.com/ondemand-solutions/alternative-business-models)
                 
-            * [Channel Partners](https://www.bakerhughes.com/ods/channel-partners)
+            * [Channel Partners](https://www.bakerhughes.com/ondemand-solutions/channel-partners)
                 
-            * [Direct Sales](https://www.bakerhughes.com/ods/direct-sales)
+            * [Direct Sales](https://www.bakerhughes.com/ondemand-solutions/direct-sales)
                 
             
         * [Onshore Composite Pipe](https://www.bakerhughes.com/onshore-composite-pipe)
@@ -92,7 +92,7 @@ Select your language English日本語
                 
             * [Wireline Mechanical Services](https://www.bakerhughes.com/evaluation/wireline-mechanical-services)
                 
-            * [Perforating](https://www.bakerhughes.com/completions/perforating)
+            * [Perforating](https://www.bakerhughes.com/evaluation/perforating)
                 
             * [Wireline Well Integrity Evaluation](https://www.bakerhughes.com/evaluation/wireline-well-integrity-evaluation)
                 
@@ -125,7 +125,7 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/drilling)
             
-            * [Casing & Lining Drilling Services](https://www.bakerhughes.com/drilling/casing-and-liner-drilling-services)
+            * [Casing & Lining Drilling Services](https://www.bakerhughes.com/drilling/casing-liner-drilling-services)
                 
             * [Cementing](https://www.bakerhughes.com/drilling/cementing)
                 
@@ -139,13 +139,13 @@ Select your language English日本語
                 
             * [Drilling Fluids](https://www.bakerhughes.com/drilling/drilling-fluids)
                 
-            * [Drilling Optimization Services](https://www.bakerhughes.com/drilling/drill-bits/drilling-optimization-services)
+            * [Drilling Optimization Services](https://www.bakerhughes.com/drilling/drilling-optimization-services)
                 
             * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
                 
             * [Measurement-While-Drilling Services](https://www.bakerhughes.com/drilling/measurementwhiledrilling-services)
                 
-            * [Wellheads & Connectors](https://www.bakerhughes.com/subsea/wellheads-connectors)
+            * [Wellheads & Connectors](https://www.bakerhughes.com/drilling/wellheads-connectors)
                 
             
         * [Completions](https://www.bakerhughes.com/)
@@ -160,17 +160,17 @@ Select your language English日本語
                 
             * [Completion Fluids](https://www.bakerhughes.com/completions/completion-fluids "Improve completion efficiency and increase production")
                 
-            * [Intelligent Completion Systems & Flow Assurance](https://www.bakerhughes.com/completions/intelligent-completion-systems-and-flow-assurance "Leverage downhole insights to make swift, confident production decisions.")
+            * [Intelligent Completion Systems & Flow Assurance](https://www.bakerhughes.com/completions/intelligent-completions "Leverage downhole insights to make swift, confident production decisions.")
                 
             * [Gas Lift Systems](https://www.bakerhughes.com/completions/gas-lift-systems "Enhance recovery with reliable, economical solutions")
                 
-            * [Isolation Valves](https://www.bakerhughes.com/completions/sand-control/isolation-valves "Prevent formation damage and minimize workover costs")
+            * [Isolation Valves](https://www.bakerhughes.com/completions/isolation-valves "Prevent formation damage and minimize workover costs")
                 
             * [Liner Hanger Systems](https://www.bakerhughes.com/completions/liner-hanger-systems "Secure a solid bottom for extreme downhole conditions")
                 
             * [Multilateral Systems](https://www.bakerhughes.com/completions/multilateral-systems "Minimize environmental footprint while maximizing reservoir contract")
                 
-            * [Multistage Completions](https://www.bakerhughes.com/completions/multistage-completion-solutions "Improve efficiency and maximize reservoir contact with custom solutions")
+            * [Multistage Completions](https://www.bakerhughes.com/completions/multistage-completions "Improve efficiency and maximize reservoir contact with custom solutions")
                 
             * [Packers](https://www.bakerhughes.com/completions/packers "Reduce risk and minimize life-of-well costs with dependable sealing")
                 
@@ -178,13 +178,13 @@ Select your language English日本語
                 
             * [Sand Control](https://www.bakerhughes.com/completions/sand-control "Maximize pay zone recovery using integrated sand control solutions")
                 
-            * [Stimulation & Fracturing](https://www.bakerhughes.com/completions/stimulation-and-fracturing "Take control of your production with best-in-class stimulation systems")
+            * [Stimulation & Fracturing](https://www.bakerhughes.com/completions/stimulation-fracturing "Take control of your production with best-in-class stimulation systems")
                 
             * [Subsurface Flow Control](https://www.bakerhughes.com/completions/subsurface-flow-control "Optimize subsurface production and minimize your downhole downtime.")
                 
             * [Subsurface Safety Systems](https://www.bakerhughes.com/completions/subsurface-safety-systems "Ensure reliable well control to protect against HSE impacts")
                 
-            * [Tubular Services](https://www.bakerhughes.com/well-intervention/plug-and-abandonment-services/pa-barrier-installation/well-cementing/tubular-services "Save time and money using specialized tubular technology")
+            * [Tubular Services](https://www.bakerhughes.com/completions/tubular-services "Save time and money using specialized tubular technology")
                 
             * [Well Monitoring and Analytics](https://www.bakerhughes.com/completions/well-monitoring-and-analytics "Optimize your well production with rugged, reliable, and proven monitoring and analytics solutions. ")
                 
@@ -204,11 +204,11 @@ Select your language English日本語
                 
             * [Flow Assurance](https://www.bakerhughes.com/production/flow-assurance)
                 
-            * [Intelligent Chemistry](https://www.bakerhughes.com/processing-services/intelligent-chemistry)
+            * [Intelligent Chemistry](https://www.bakerhughes.com/production/intelligent-chemistry)
                 
             * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
                 
-            * [Production Optimization](https://www.bakerhughes.com/production/production-optimization)
+            * [Production Optimization](https://www.bakerhughes.com/production-optimization/production-optimization)
                 
             * [Production Solutions](https://www.bakerhughes.com/production-solutions)
                 
@@ -268,6 +268,8 @@ Select your language English日本語
             * [Wellheads & Connectors](https://www.bakerhughes.com/subsea/wellheads-connectors)
                 
             
+        * [Pipeline Inspection](https://www.bakerhughes.com/pipeline-inspection)
+            
         * [Well Intervention](https://www.bakerhughes.com/)
             
             Intervention
@@ -276,11 +278,11 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/well-intervention)
             
-            * [Coiled Tubing Systems & Services](https://www.bakerhughes.com/integrated-well-services/integrated-well-abandonment/completion-removal-and-well-preparation/coiled-tubing-systems-and-services)
+            * [Coiled Tubing Systems & Services](https://www.bakerhughes.com/well-intervention/coiled-tubing-systems-services)
                 
             * [Fishing Services](https://www.bakerhughes.com/well-intervention/fishing-services)
                 
-            * [Plug & Abandonment Services](https://www.bakerhughes.com/well-intervention/plug-and-abandonment-services)
+            * [Plug & Abandonment Services](https://www.bakerhughes.com/well-intervention/plug-abandonment-services)
                 
             * [Remedial Completions](https://www.bakerhughes.com/well-intervention/remedial-completions)
                 
@@ -288,7 +290,7 @@ Select your language English日本語
                 
             * [Thru-tubing Intervention](https://www.bakerhughes.com/well-intervention/thrutubing-intervention "Choose a thru-tubing intervention service provider with a proven track record ")
                 
-            * [Tubular Services](https://www.bakerhughes.com/well-intervention/plug-and-abandonment-services/pa-barrier-installation/well-cementing/tubular-services)
+            * [Tubular Services](https://www.bakerhughes.com/well-intervention/tubular-services)
                 
             * [Workover Systems](https://www.bakerhughes.com/well-intervention/workover-systems)
                 
@@ -320,7 +322,7 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/decommissioning)
             
-            * [Pipeline Maintenance Services & Decommissioning](https://www.bakerhughes.com/process-pipeline-services/precommissioning-maintenance/pipeline-precommissioning-and-maintenance/pipeline-maintenance-services-and-decommissioning)
+            * [Pipeline Maintenance Services & Decommissioning](https://www.bakerhughes.com/decommissioning/pipeline-maintenance-services-and-decommissioning)
                 
             
         * [Digital](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
@@ -393,9 +395,9 @@ Select your language English日本語
             
             * [Axial Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/axial-compressors)
                 
-            * [BCL Vertically Split Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/bcl-vertically-split-compressors)
+            * [BCL Vertically Split Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/bcl)
                 
-            * [Blue-C Compressor](https://www.bakerhughes.com/centrifugal-axial-compressors/bluec-subsea-compressor)
+            * [Blue-C Compressor](https://www.bakerhughes.com/centrifugal-axial-compressors/blue-c)
                 
             * [High Pressure Ratio Compressor](https://www.bakerhughes.com/centrifugal-axial-compressors/high-pressure-ratio-compressor-hprc)
                 
@@ -456,19 +458,19 @@ Select your language English日本語
             
             [EXPLORE](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings)
             
-            * [Gear Couplings](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-gear-couplings)
+            * [Gear Couplings](https://www.bakerhughes.com/gearboxes-gear-couplings/gear-couplings)
                 
             * [Gears Services](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-gears-services)
                 
-            * [High-Speed Epicyclic Gearboxes](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-highspeed-epicyclic-gearboxes)
+            * [High-Speed Epicyclic Gearboxes](https://www.bakerhughes.com/gearboxes-gear-couplings/highspeed-epicyclic-gearboxes)
                 
-            * [High-Speed Parallel Shaft Gearboxes](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-highspeed-parallelshaft-gearboxes)
+            * [High-Speed Parallel Shaft Gearboxes](https://www.bakerhughes.com/gearboxes-gear-couplings/highspeed-parallelshaft-gearboxes)
                 
-            * [Integrally Geared Solutions](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-integrally-geared-solutions)
+            * [Integrally Geared Solutions](https://www.bakerhughes.com/gearboxes-gear-couplings/integrally-geared-solutions)
                 
-            * [Low-Speed Gearboxes](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-lowspeed-gearboxes)
+            * [Low-Speed Gearboxes](https://www.bakerhughes.com/gearboxes-gear-couplings/lowspeed-gearboxes)
                 
-            * [Marine Gears](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-marine-gears)
+            * [Marine Gears](https://www.bakerhughes.com/gearboxes-gear-couplings/marine-gears)
                 
             
         * [Expanders & Air Cooled Heat Exchangers](https://www.bakerhughes.com/expanders)
@@ -525,7 +527,7 @@ Select your language English日本語
                 
             * [Maintenance Services](https://www.bakerhughes.com/turbomachinery-services/maintenance-services)
                 
-            * [Total Lifecycle Services](https://www.bakerhughes.com/ts/total-lifecycle-services)
+            * [Total Lifecycle Services](https://www.bakerhughes.com/turbomachinery-services/total-lifecycle-services)
                 
             
         * [Centrifugal Pumps](https://www.bakerhughes.com/)
@@ -536,11 +538,11 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/centrifugal-pumps)
             
-            * [BB1 DVS/DVE/BFD Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb1-dvsdvebfd-pumps-one-and-two-stages-between-bearings)
+            * [BB1 DVS/DVE/BFD Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb1)
                 
-            * [BB2 DVSHF/THF/DS-THF Radially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb2-dvshfthfdsthf-radially-split-centrifugal-pumps)
+            * [BB2 DVSHF/THF/DS-THF Radially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb2)
                 
-            * [BB3 MSN/MSND Multistage Axially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb3-msnmsnd-multistage-axially-split-centrifugal-pumps)
+            * [BB3 MSN/MSND Multistage Axially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb3)
                 
             * [BB5 DDHF Multi-Stage Centrifugal Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb5-ddhf)
                 
@@ -626,7 +628,7 @@ Select your language English日本語
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -641,9 +643,9 @@ Select your language English日本語
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flow-meters)
             
-            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flow-meters)
+            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-allocation-leak-detection)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
                 
             * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
                 
@@ -651,6 +653,8 @@ Select your language English日本語
                 
             
         * [Industrial Asset Inspection](https://www.bakerhughes.com/industrial-asset-inspection)
+            
+        * [Industrial Controls and Cybersecurity](https://www.bakerhughes.com/industrial-controls-cybersecurity)
             
         * [Industrial Radiography and CT](https://www.bakerhughes.com/waygate-technologies/industrial-radiography-and-ct)
             
@@ -668,6 +672,8 @@ Select your language English日本語
             
             * [Distributed Vibration Monitoring & Machine Protection](https://www.bakerhughes.com/bently-nevada/monitoring-systems/distributed-protection-systems)
                 
+            * [Machinery Protection](https://www.bakerhughes.com/bently-nevada/monitoring-systems/machinery-protection-systems)
+                
             * [Online Condition Monitoring](https://www.bakerhughes.com/bently-nevada/monitoring-systems/online-condition-monitoring)
                 
             * [Portables & Diagnostic](https://www.bakerhughes.com/bently-nevada/monitoring-systems/portable-vibration-testers-diagnostic-systems)
@@ -675,7 +681,7 @@ Select your language English日本語
             
         * [Non-Destructive Testing](https://www.bakerhughes.com/waygate-technologies/non-destructive-testing)
             
-        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
             
         * [Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors)
             
@@ -687,11 +693,11 @@ Select your language English日本語
             
             * [Configurable Pressure Sensing Solutions](https://www.bakerhughes.com/druck/industrial-pressure-sensors/configurable-modular-pressure-sensors)
                 
-            * [Digital Communication Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors/digital-communication-pressure-sensors)
+            * [Digital Communication Pressure Sensors](https://www.bakerhughes.com/druck/pressure-sensors/digital-communication-pressure-sensors)
                 
-            * [Flight Qualified Aerospace Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors/aerospace-pressure-sensors)
+            * [Flight Qualified Aerospace Pressure Sensors](https://www.bakerhughes.com/druck/pressure-sensors/flight-qualified-aerospace-pressure-sensors)
                 
-            * [OEM Custom Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors/oem-custom-pressure-sensors)
+            * [OEM Custom Pressure Sensors](https://www.bakerhughes.com/druck/pressure-sensors/oem-custom-pressure-sensors)
                 
             
         * [Process Analyzers](https://www.bakerhughes.com/panametrics/process-analyzers)
@@ -752,6 +758,8 @@ Select your language English日本語
             
             [EXPLORE](https://www.bakerhughes.com/bently-nevada/system-1-condition-monitoring-software)
             
+            * [BN System 1 Decision Support](https://www.bakerhughes.com/bently-nevada/system-1-condition-monitoring-software/decision-support)
+                
             * [System 1's Performance and Predictive Emissions Monitoring System (PEMS)](https://www.bakerhughes.com/bently-nevada/system-1-software/system-1s-performance-monitoring-software)
                 
             
@@ -765,7 +773,7 @@ Select your language English日本語
             
             [EXPLORE](https://www.bakerhughes.com/druck/test-and-calibration-instrumentation)
             
-            * [Air Data Test Sets](https://www.bakerhughes.com/druck/test-and-calibration-instrumentation/air-data-test-sets-adts-pitot-static-testers)
+            * [Air Data Test Sets](https://www.bakerhughes.com/druck/test-and-calibration-instruments/air-data-test-sets-adts-pitot-static-testers)
                 
             * [Calibration Software](https://www.bakerhughes.com/druck/test-and-calibration-instrumentation/calibration-management-software-4sight2)
                 
@@ -785,6 +793,8 @@ Select your language English日本語
             
             [EXPLORE](https://www.bakerhughes.com/bently-nevada)
             
+            * [Bently HOST](https://www.bakerhughes.com/bently-nevada/support-services/bently-host)
+                
             * [Bently Training](https://www.bakerhughes.com/bently-nevada/support-services/bently-nevada-training-0)
                 
             * [Cyber Security Services](https://www.bakerhughes.com/bently-nevada/support-services/cyber-security-services)
@@ -848,7 +858,7 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/reuter-stokes)
             
-            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
                 
             * [Downhole Sensors](https://www.bakerhughes.com/reuterstokes/industry/downhole-sensors-tools-and-technology)
                 
@@ -863,6 +873,8 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/waygate-technologies)
             
+            * [Eddy Current Inspection](https://www.bakerhughes.com/waygate-technologies/eddy-current-inspection)
+                
             * [Industrial Radiography and CT](https://www.bakerhughes.com/waygate-technologies/industrial-radiography-and-ct)
                 
             * [NDT Software](https://www.bakerhughes.com/waygate-technologies/ndt-software)
@@ -902,7 +914,7 @@ Select your language English日本語
         
     * Sustainability
         
-        * [Sustainability at Baker Hughes](https://www.bakerhughes.com/company/sustainability)
+        * [Sustainability at Baker Hughes](https://www.bakerhughes.com/company/sustainability/)
             
         * [People](https://www.bakerhughes.com/company/sustainability/people)
             
@@ -933,7 +945,7 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/company/corporate-responsibility/principles)
             
-        * [Reports & Policies](https://www.bakerhughes.com/company/corporate-responsibility/download-center)
+        * [Reports & Policies](https://www.bakerhughes.com/download-center)
             
         * [Sustainability Strategy](https://www.bakerhughes.com/company/sustainability/sustainability-strategy)
             
@@ -973,7 +985,7 @@ Select your language English日本語
                 
             * [Baker Hughes Italia](https://www.bakerhughes.com/baker-hughes-italia)
                 
-            * [Florence Learning Center](https://www.bakerhughes.com/learning-centers/florence-learning-center)
+            * [Florence Learning Center](https://www.bakerhughes.com/florence-learning-center)
                 
             
         
@@ -1022,11 +1034,11 @@ Search
             
             [Explore](https://www.bakerhughes.com/ondemand-solutions)
             
-            * [Alternative Business Models](https://www.bakerhughes.com/ods/alternative-business-models)
+            * [Alternative Business Models](https://www.bakerhughes.com/ondemand-solutions/alternative-business-models)
                 
-            * [Channel Partners](https://www.bakerhughes.com/ods/channel-partners)
+            * [Channel Partners](https://www.bakerhughes.com/ondemand-solutions/channel-partners)
                 
-            * [Direct Sales](https://www.bakerhughes.com/ods/direct-sales)
+            * [Direct Sales](https://www.bakerhughes.com/ondemand-solutions/direct-sales)
                 
             
         * [Onshore Composite Pipe](https://www.bakerhughes.com/onshore-composite-pipe)
@@ -1055,7 +1067,7 @@ Search
                 
             * [Wireline Mechanical Services](https://www.bakerhughes.com/evaluation/wireline-mechanical-services)
                 
-            * [Perforating](https://www.bakerhughes.com/completions/perforating)
+            * [Perforating](https://www.bakerhughes.com/evaluation/perforating)
                 
             * [Wireline Well Integrity Evaluation](https://www.bakerhughes.com/evaluation/wireline-well-integrity-evaluation)
                 
@@ -1088,7 +1100,7 @@ Search
             
             [Explore](https://www.bakerhughes.com/drilling)
             
-            * [Casing & Lining Drilling Services](https://www.bakerhughes.com/drilling/casing-and-liner-drilling-services)
+            * [Casing & Lining Drilling Services](https://www.bakerhughes.com/drilling/casing-liner-drilling-services)
                 
             * [Cementing](https://www.bakerhughes.com/drilling/cementing)
                 
@@ -1102,13 +1114,13 @@ Search
                 
             * [Drilling Fluids](https://www.bakerhughes.com/drilling/drilling-fluids)
                 
-            * [Drilling Optimization Services](https://www.bakerhughes.com/drilling/drill-bits/drilling-optimization-services)
+            * [Drilling Optimization Services](https://www.bakerhughes.com/drilling/drilling-optimization-services)
                 
             * [GaffneyCline Energy Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory)
                 
             * [Measurement-While-Drilling Services](https://www.bakerhughes.com/drilling/measurementwhiledrilling-services)
                 
-            * [Wellheads & Connectors](https://www.bakerhughes.com/subsea/wellheads-connectors)
+            * [Wellheads & Connectors](https://www.bakerhughes.com/drilling/wellheads-connectors)
                 
             
         * [Completions](https://www.bakerhughes.com/)
@@ -1123,17 +1135,17 @@ Search
                 
             * [Completion Fluids](https://www.bakerhughes.com/completions/completion-fluids "Improve completion efficiency and increase production")
                 
-            * [Intelligent Completion Systems & Flow Assurance](https://www.bakerhughes.com/completions/intelligent-completion-systems-and-flow-assurance "Leverage downhole insights to make swift, confident production decisions.")
+            * [Intelligent Completion Systems & Flow Assurance](https://www.bakerhughes.com/completions/intelligent-completions "Leverage downhole insights to make swift, confident production decisions.")
                 
             * [Gas Lift Systems](https://www.bakerhughes.com/completions/gas-lift-systems "Enhance recovery with reliable, economical solutions")
                 
-            * [Isolation Valves](https://www.bakerhughes.com/completions/sand-control/isolation-valves "Prevent formation damage and minimize workover costs")
+            * [Isolation Valves](https://www.bakerhughes.com/completions/isolation-valves "Prevent formation damage and minimize workover costs")
                 
             * [Liner Hanger Systems](https://www.bakerhughes.com/completions/liner-hanger-systems "Secure a solid bottom for extreme downhole conditions")
                 
             * [Multilateral Systems](https://www.bakerhughes.com/completions/multilateral-systems "Minimize environmental footprint while maximizing reservoir contract")
                 
-            * [Multistage Completions](https://www.bakerhughes.com/completions/multistage-completion-solutions "Improve efficiency and maximize reservoir contact with custom solutions")
+            * [Multistage Completions](https://www.bakerhughes.com/completions/multistage-completions "Improve efficiency and maximize reservoir contact with custom solutions")
                 
             * [Packers](https://www.bakerhughes.com/completions/packers "Reduce risk and minimize life-of-well costs with dependable sealing")
                 
@@ -1141,13 +1153,13 @@ Search
                 
             * [Sand Control](https://www.bakerhughes.com/completions/sand-control "Maximize pay zone recovery using integrated sand control solutions")
                 
-            * [Stimulation & Fracturing](https://www.bakerhughes.com/completions/stimulation-and-fracturing "Take control of your production with best-in-class stimulation systems")
+            * [Stimulation & Fracturing](https://www.bakerhughes.com/completions/stimulation-fracturing "Take control of your production with best-in-class stimulation systems")
                 
             * [Subsurface Flow Control](https://www.bakerhughes.com/completions/subsurface-flow-control "Optimize subsurface production and minimize your downhole downtime.")
                 
             * [Subsurface Safety Systems](https://www.bakerhughes.com/completions/subsurface-safety-systems "Ensure reliable well control to protect against HSE impacts")
                 
-            * [Tubular Services](https://www.bakerhughes.com/well-intervention/plug-and-abandonment-services/pa-barrier-installation/well-cementing/tubular-services "Save time and money using specialized tubular technology")
+            * [Tubular Services](https://www.bakerhughes.com/completions/tubular-services "Save time and money using specialized tubular technology")
                 
             * [Well Monitoring and Analytics](https://www.bakerhughes.com/completions/well-monitoring-and-analytics "Optimize your well production with rugged, reliable, and proven monitoring and analytics solutions. ")
                 
@@ -1167,11 +1179,11 @@ Search
                 
             * [Flow Assurance](https://www.bakerhughes.com/production/flow-assurance)
                 
-            * [Intelligent Chemistry](https://www.bakerhughes.com/processing-services/intelligent-chemistry)
+            * [Intelligent Chemistry](https://www.bakerhughes.com/production/intelligent-chemistry)
                 
             * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
                 
-            * [Production Optimization](https://www.bakerhughes.com/production/production-optimization)
+            * [Production Optimization](https://www.bakerhughes.com/production-optimization/production-optimization)
                 
             * [Production Solutions](https://www.bakerhughes.com/production-solutions)
                 
@@ -1231,6 +1243,8 @@ Search
             * [Wellheads & Connectors](https://www.bakerhughes.com/subsea/wellheads-connectors)
                 
             
+        * [Pipeline Inspection](https://www.bakerhughes.com/pipeline-inspection)
+            
         * [Well Intervention](https://www.bakerhughes.com/)
             
             Intervention
@@ -1239,11 +1253,11 @@ Search
             
             [Explore](https://www.bakerhughes.com/well-intervention)
             
-            * [Coiled Tubing Systems & Services](https://www.bakerhughes.com/integrated-well-services/integrated-well-abandonment/completion-removal-and-well-preparation/coiled-tubing-systems-and-services)
+            * [Coiled Tubing Systems & Services](https://www.bakerhughes.com/well-intervention/coiled-tubing-systems-services)
                 
             * [Fishing Services](https://www.bakerhughes.com/well-intervention/fishing-services)
                 
-            * [Plug & Abandonment Services](https://www.bakerhughes.com/well-intervention/plug-and-abandonment-services)
+            * [Plug & Abandonment Services](https://www.bakerhughes.com/well-intervention/plug-abandonment-services)
                 
             * [Remedial Completions](https://www.bakerhughes.com/well-intervention/remedial-completions)
                 
@@ -1251,7 +1265,7 @@ Search
                 
             * [Thru-tubing Intervention](https://www.bakerhughes.com/well-intervention/thrutubing-intervention "Choose a thru-tubing intervention service provider with a proven track record ")
                 
-            * [Tubular Services](https://www.bakerhughes.com/well-intervention/plug-and-abandonment-services/pa-barrier-installation/well-cementing/tubular-services)
+            * [Tubular Services](https://www.bakerhughes.com/well-intervention/tubular-services)
                 
             * [Workover Systems](https://www.bakerhughes.com/well-intervention/workover-systems)
                 
@@ -1283,7 +1297,7 @@ Search
             
             [Explore](https://www.bakerhughes.com/decommissioning)
             
-            * [Pipeline Maintenance Services & Decommissioning](https://www.bakerhughes.com/process-pipeline-services/precommissioning-maintenance/pipeline-precommissioning-and-maintenance/pipeline-maintenance-services-and-decommissioning)
+            * [Pipeline Maintenance Services & Decommissioning](https://www.bakerhughes.com/decommissioning/pipeline-maintenance-services-and-decommissioning)
                 
             
         * [Digital](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
@@ -1356,9 +1370,9 @@ Search
             
             * [Axial Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/axial-compressors)
                 
-            * [BCL Vertically Split Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/bcl-vertically-split-compressors)
+            * [BCL Vertically Split Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/bcl)
                 
-            * [Blue-C Compressor](https://www.bakerhughes.com/centrifugal-axial-compressors/bluec-subsea-compressor)
+            * [Blue-C Compressor](https://www.bakerhughes.com/centrifugal-axial-compressors/blue-c)
                 
             * [High Pressure Ratio Compressor](https://www.bakerhughes.com/centrifugal-axial-compressors/high-pressure-ratio-compressor-hprc)
                 
@@ -1419,19 +1433,19 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings)
             
-            * [Gear Couplings](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-gear-couplings)
+            * [Gear Couplings](https://www.bakerhughes.com/gearboxes-gear-couplings/gear-couplings)
                 
             * [Gears Services](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-gears-services)
                 
-            * [High-Speed Epicyclic Gearboxes](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-highspeed-epicyclic-gearboxes)
+            * [High-Speed Epicyclic Gearboxes](https://www.bakerhughes.com/gearboxes-gear-couplings/highspeed-epicyclic-gearboxes)
                 
-            * [High-Speed Parallel Shaft Gearboxes](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-highspeed-parallelshaft-gearboxes)
+            * [High-Speed Parallel Shaft Gearboxes](https://www.bakerhughes.com/gearboxes-gear-couplings/highspeed-parallelshaft-gearboxes)
                 
-            * [Integrally Geared Solutions](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-integrally-geared-solutions)
+            * [Integrally Geared Solutions](https://www.bakerhughes.com/gearboxes-gear-couplings/integrally-geared-solutions)
                 
-            * [Low-Speed Gearboxes](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-lowspeed-gearboxes)
+            * [Low-Speed Gearboxes](https://www.bakerhughes.com/gearboxes-gear-couplings/lowspeed-gearboxes)
                 
-            * [Marine Gears](https://www.bakerhughes.com/lufkin-gears-allen-gears-gearboxes-gear-couplings/lufkin-gears-allen-gears-marine-gears)
+            * [Marine Gears](https://www.bakerhughes.com/gearboxes-gear-couplings/marine-gears)
                 
             
         * [Expanders & Air Cooled Heat Exchangers](https://www.bakerhughes.com/expanders)
@@ -1488,7 +1502,7 @@ Search
                 
             * [Maintenance Services](https://www.bakerhughes.com/turbomachinery-services/maintenance-services)
                 
-            * [Total Lifecycle Services](https://www.bakerhughes.com/ts/total-lifecycle-services)
+            * [Total Lifecycle Services](https://www.bakerhughes.com/turbomachinery-services/total-lifecycle-services)
                 
             
         * [Centrifugal Pumps](https://www.bakerhughes.com/)
@@ -1499,11 +1513,11 @@ Search
             
             [Explore](https://www.bakerhughes.com/centrifugal-pumps)
             
-            * [BB1 DVS/DVE/BFD Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb1-dvsdvebfd-pumps-one-and-two-stages-between-bearings)
+            * [BB1 DVS/DVE/BFD Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb1)
                 
-            * [BB2 DVSHF/THF/DS-THF Radially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb2-dvshfthfdsthf-radially-split-centrifugal-pumps)
+            * [BB2 DVSHF/THF/DS-THF Radially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb2)
                 
-            * [BB3 MSN/MSND Multistage Axially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb3-msnmsnd-multistage-axially-split-centrifugal-pumps)
+            * [BB3 MSN/MSND Multistage Axially Split Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb3)
                 
             * [BB5 DDHF Multi-Stage Centrifugal Pumps](https://www.bakerhughes.com/centrifugal-pumps/bb5-ddhf)
                 
@@ -1589,7 +1603,7 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -1604,9 +1618,9 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flow-meters)
             
-            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flow-meters)
+            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-allocation-leak-detection)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
                 
             * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
                 
@@ -1614,6 +1628,8 @@ Search
                 
             
         * [Industrial Asset Inspection](https://www.bakerhughes.com/industrial-asset-inspection)
+            
+        * [Industrial Controls and Cybersecurity](https://www.bakerhughes.com/industrial-controls-cybersecurity)
             
         * [Industrial Radiography and CT](https://www.bakerhughes.com/waygate-technologies/industrial-radiography-and-ct)
             
@@ -1631,6 +1647,8 @@ Search
             
             * [Distributed Vibration Monitoring & Machine Protection](https://www.bakerhughes.com/bently-nevada/monitoring-systems/distributed-protection-systems)
                 
+            * [Machinery Protection](https://www.bakerhughes.com/bently-nevada/monitoring-systems/machinery-protection-systems)
+                
             * [Online Condition Monitoring](https://www.bakerhughes.com/bently-nevada/monitoring-systems/online-condition-monitoring)
                 
             * [Portables & Diagnostic](https://www.bakerhughes.com/bently-nevada/monitoring-systems/portable-vibration-testers-diagnostic-systems)
@@ -1638,7 +1656,7 @@ Search
             
         * [Non-Destructive Testing](https://www.bakerhughes.com/waygate-technologies/non-destructive-testing)
             
-        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+        * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
             
         * [Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors)
             
@@ -1650,11 +1668,11 @@ Search
             
             * [Configurable Pressure Sensing Solutions](https://www.bakerhughes.com/druck/industrial-pressure-sensors/configurable-modular-pressure-sensors)
                 
-            * [Digital Communication Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors/digital-communication-pressure-sensors)
+            * [Digital Communication Pressure Sensors](https://www.bakerhughes.com/druck/pressure-sensors/digital-communication-pressure-sensors)
                 
-            * [Flight Qualified Aerospace Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors/aerospace-pressure-sensors)
+            * [Flight Qualified Aerospace Pressure Sensors](https://www.bakerhughes.com/druck/pressure-sensors/flight-qualified-aerospace-pressure-sensors)
                 
-            * [OEM Custom Pressure Sensors](https://www.bakerhughes.com/druck/industrial-pressure-sensors/oem-custom-pressure-sensors)
+            * [OEM Custom Pressure Sensors](https://www.bakerhughes.com/druck/pressure-sensors/oem-custom-pressure-sensors)
                 
             
         * [Process Analyzers](https://www.bakerhughes.com/panametrics/process-analyzers)
@@ -1715,6 +1733,8 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/bently-nevada/system-1-condition-monitoring-software)
             
+            * [BN System 1 Decision Support](https://www.bakerhughes.com/bently-nevada/system-1-condition-monitoring-software/decision-support)
+                
             * [System 1's Performance and Predictive Emissions Monitoring System (PEMS)](https://www.bakerhughes.com/bently-nevada/system-1-software/system-1s-performance-monitoring-software)
                 
             
@@ -1728,7 +1748,7 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/druck/test-and-calibration-instrumentation)
             
-            * [Air Data Test Sets](https://www.bakerhughes.com/druck/test-and-calibration-instrumentation/air-data-test-sets-adts-pitot-static-testers)
+            * [Air Data Test Sets](https://www.bakerhughes.com/druck/test-and-calibration-instruments/air-data-test-sets-adts-pitot-static-testers)
                 
             * [Calibration Software](https://www.bakerhughes.com/druck/test-and-calibration-instrumentation/calibration-management-software-4sight2)
                 
@@ -1748,6 +1768,8 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/bently-nevada)
             
+            * [Bently HOST](https://www.bakerhughes.com/bently-nevada/support-services/bently-host)
+                
             * [Bently Training](https://www.bakerhughes.com/bently-nevada/support-services/bently-nevada-training-0)
                 
             * [Cyber Security Services](https://www.bakerhughes.com/bently-nevada/support-services/cyber-security-services)
@@ -1811,7 +1833,7 @@ Search
             
             [Explore](https://www.bakerhughes.com/reuter-stokes)
             
-            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes-old/nuclear-instrumentation)
+            * [Nuclear Measurement Solutions](https://www.bakerhughes.com/reuter-stokes/nuclear-measurement-solutions)
                 
             * [Downhole Sensors](https://www.bakerhughes.com/reuterstokes/industry/downhole-sensors-tools-and-technology)
                 
@@ -1826,6 +1848,8 @@ Search
             
             [Explore](https://www.bakerhughes.com/waygate-technologies)
             
+            * [Eddy Current Inspection](https://www.bakerhughes.com/waygate-technologies/eddy-current-inspection)
+                
             * [Industrial Radiography and CT](https://www.bakerhughes.com/waygate-technologies/industrial-radiography-and-ct)
                 
             * [NDT Software](https://www.bakerhughes.com/waygate-technologies/ndt-software)
@@ -1865,7 +1889,7 @@ Search
         
     * Sustainability
         
-        * [Sustainability at Baker Hughes](https://www.bakerhughes.com/company/sustainability)
+        * [Sustainability at Baker Hughes](https://www.bakerhughes.com/company/sustainability/)
             
         * [People](https://www.bakerhughes.com/company/sustainability/people)
             
@@ -1896,7 +1920,7 @@ Search
             
             [Explore](https://www.bakerhughes.com/company/corporate-responsibility/principles)
             
-        * [Reports & Policies](https://www.bakerhughes.com/company/corporate-responsibility/download-center)
+        * [Reports & Policies](https://www.bakerhughes.com/download-center)
             
         * [Sustainability Strategy](https://www.bakerhughes.com/company/sustainability/sustainability-strategy)
             
@@ -1936,7 +1960,7 @@ Search
                 
             * [Baker Hughes Italia](https://www.bakerhughes.com/baker-hughes-italia)
                 
-            * [Florence Learning Center](https://www.bakerhughes.com/learning-centers/florence-learning-center)
+            * [Florence Learning Center](https://www.bakerhughes.com/florence-learning-center)
                 
             
         
