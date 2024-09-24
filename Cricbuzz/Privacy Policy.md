@@ -72,6 +72,10 @@ AllLive NowToday
     
     1st Test
     
+* [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-nz-tour-of-sl "Sri Lanka v New Zealand, 2nd Test - Upcoming")
+    
+    2nd Test
+    
 * Afghanistan vs South Africa, 2024
     
     [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103861/afg-vs-rsa-3rd-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 3rd ODI - RSA Won")
@@ -88,7 +92,7 @@ AllLive NowToday
     
     32nd Match
     
-* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106988/uae-vs-usa-33rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 33rd Match - Preview")
+* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106988/uae-vs-usa-33rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 33rd Match - Toss")
     
     33rd Match
     
@@ -134,15 +138,19 @@ AllLive NowToday
     
     11th Match
     
+* [Cameroon vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106251/cam-vs-lso-14th-match-icc-mens-ar-t20wcqa "Cameroon v Lesotho, 14th Match - Upcoming")
+    
+    14th Match
+    
+* [Mali vs Ghana](https://www.cricbuzz.com/live-cricket-scores/106243/mali-vs-gh-13th-match-icc-mens-ar-t20wcqa "Mali v Ghana, 13th Match - Upcoming")
+    
+    13th Match
+    
 * T20 LEAGUE
     
     CPL 2024
     
-    [Guyana Amazon Warriors vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92892/gaw-vs-abf-23rd-match-cpl-2024 "Guyana Amazon Warriors v Antigua and Barbuda Falcons, 23rd Match - GAW Won")
-    
-    23rd Match
-    
-* [Saint Lucia Kings vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92901/slk-vs-br-24th-match-cpl-2024 "Saint Lucia Kings v Barbados Royals, 24th Match - SLK Won")
+    [Saint Lucia Kings vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92901/slk-vs-br-24th-match-cpl-2024 "Saint Lucia Kings v Barbados Royals, 24th Match - SLK Won")
     
     24th Match
     
@@ -210,17 +218,17 @@ AllLive NowToday
     
 * CSA T20 Knock Out Competition
     
-    [Mpumalanga Rhinos vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105172/mpr-vs-ncape-6th-match-csa-t20-knock-out-competition "Mpumalanga Rhinos v Northern Cape, 6th Match - Upcoming")
-    
-    6th Match
-    
-* [Eastern Storm vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105164/estorm-vs-swd-5th-match-csa-t20-knock-out-competition "Eastern Storm v South Western Districts, 5th Match - Upcoming")
+    [Eastern Storm vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105164/estorm-vs-swd-5th-match-csa-t20-knock-out-competition "Eastern Storm v South Western Districts, 5th Match - Upcoming")
     
     5th Match
     
 * [Eastern Cape vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/105162/ecape-vs-limpo-4th-match-csa-t20-knock-out-competition "Eastern Cape v Limpopo, 4th Match - Upcoming")
     
     4th Match
+    
+* [Mpumalanga Rhinos vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105172/mpr-vs-ncape-6th-match-csa-t20-knock-out-competition "Mpumalanga Rhinos v Northern Cape, 6th Match - Upcoming")
+    
+    6th Match
     
 * LLC 2024
     
@@ -248,11 +256,11 @@ AllLive NowToday
     
     2nd Match
     
-* [South Australia vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/103123/saus-vs-wa-3rd-match-australia-domestic-one-day-cup-2024-25 "South Australia v Western Australia, 3rd Match - Live")
+* [South Australia vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103123/saus-vs-wa-3rd-match-australia-domestic-one-day-cup-2024-25 "South Australia v Western Australia, 3rd Match - SAUS Won")
     
     3rd Match
     
-* [Tasmania vs Queensland](https://www.cricbuzz.com/live-cricket-scores/103132/tas-vs-ql-4th-match-australia-domestic-one-day-cup-2024-25 "Tasmania v Queensland, 4th Match - Upcoming")
+* [Tasmania vs Queensland](https://www.cricbuzz.com/live-cricket-scores/103132/tas-vs-ql-4th-match-australia-domestic-one-day-cup-2024-25 "Tasmania v Queensland, 4th Match - Preview")
     
     4th Match
     
@@ -265,6 +273,10 @@ AllLive NowToday
     [Australia U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/106436/ausu19-vs-indu19-2nd-youth-odi-australia-under-19-tour-of-india "Australia U19 v India U19, 2nd Youth ODI - INDU19 Won")
     
     2nd Youth ODI
+    
+* [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106444/indu19-vs-ausu19-3rd-youth-odi-australia-under-19-tour-of-india "India U19 v Australia U19, 3rd Youth ODI - Upcoming")
+    
+    3rd Youth ODI
     
 * Duleep Trophy
     
@@ -619,37 +631,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Ace Afghans deserved series success against South Africa](https://www.cricbuzz.com/cricket-news/131730/ace-afghans-deserved-series-success-against-south-africa "Ace Afghans deserved series success against South Africa")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/131729/csa-delegation-satisfied-with-security-arrangements-for-test-series-says-bcb "CSA delegation 'satisfied' with security arrangements for Test series, says BCB")
 
 [CSA delegation 'satisfied' with security arrangements for Test series, says BCB](https://www.cricbuzz.com/cricket-news/131729/csa-delegation-satisfied-with-security-arrangements-for-test-series-says-bcb "CSA delegation 'satisfied' with security arrangements for Test series, says BCB")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/131728/southee-finds-positives-in-ravindra-orourke-despite-galle-defeat "Southee finds positives in Ravindra, O'Rourke despite Galle defeat")
 
 [Southee finds positives in Ravindra, O'Rourke despite Galle defeat](https://www.cricbuzz.com/cricket-news/131728/southee-finds-positives-in-ravindra-orourke-despite-galle-defeat "Southee finds positives in Ravindra, O'Rourke despite Galle defeat")
 
-11h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/131727/shakib-al-hasan-under-oberservation-to-decide-kanpur-test-availability "Shakib Al Hasan under observation to decide Kanpur Test availability")
 
 [Shakib Al Hasan under observation to decide Kanpur Test availability](https://www.cricbuzz.com/cricket-news/131727/shakib-al-hasan-under-oberservation-to-decide-kanpur-test-availability "Shakib Al Hasan under observation to decide Kanpur Test availability")
 
-14h ago
+20h ago
 
   [](https://www.cricbuzz.com/cricket-news/131726/shreyas-shardul-to-play-for-mumbai-in-irani-cup-ajinkya-rahane-to-lead "Shreyas, Shardul to play for Mumbai in Irani Cup; Rahane to lead")
 
 [Shreyas, Shardul to play for Mumbai in Irani Cup; Rahane to lead](https://www.cricbuzz.com/cricket-news/131726/shreyas-shardul-to-play-for-mumbai-in-irani-cup-ajinkya-rahane-to-lead "Shreyas, Shardul to play for Mumbai in Irani Cup; Rahane to lead")
 
-15h ago
+21h ago
 
   [](https://www.cricbuzz.com/cricket-news/131725/prabath-jayasuriya-spins-sri-lanka-to-1-0-lead "Prabath Jayasuriya spins Sri Lanka to 1-0 lead")
 
 [Prabath Jayasuriya spins Sri Lanka to 1-0 lead](https://www.cricbuzz.com/cricket-news/131725/prabath-jayasuriya-spins-sri-lanka-to-1-0-lead "Prabath Jayasuriya spins Sri Lanka to 1-0 lead")
 
-19h ago
+1d ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
