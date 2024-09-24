@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nenad-bracic/soklfix.jpg?itok=XATfz-2B)](http://seecult.org/galerija/galerija-umetnika/nenad-bracic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo/zec-msuv-12.jpg?itok=4jY1ioNQ)](http://seecult.org/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kaligula1.jpg?itok=RdHicsyb)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/milosevicu.jpg?itok=Th0Xk2vw)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Otvaranje nove sezone BGF posvećeno Tasovcu](http://seecult.org/vest/otvaranje-nove-sezone-bgf-posveceno-tasovcu)
 * [Početak 17. LIFFE u znaku Paskaljevića](http://seecult.org/vest/pocetak-17-liffe-u-znaku-paskaljevica)
 * [Nevidljive katastrofe](http://seecult.org/vest/nevidljive-katastrofe)
 * [Trio Klavis otvara 11. Belgrade SAXperience](http://seecult.org/vest/trio-klavis-otvara-11-belgrade-saxperience)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Megdan u bioskopima](http://seecult.org/vest/megdan-u-bioskopima)
 * [Sofija](http://seecult.org/vest/sofija)
 * [Nagrada Milan Mladenović bendu Nemeček](http://seecult.org/vest/nagrada-milan-mladenovic-bendu-nemecek)
-* [Otvoren 32. Memorijal Nadežde Petrović - Memorijal Sonja S, dodeljene nagrade](http://seecult.org/vest/otvoren-32-memorijal-nadezde-petrovic-memorijal-sonja-s-dodeljene-nagrade)
 
 * [Konkursi](#tab1_1)
 
@@ -411,7 +411,7 @@ Video
 
 Luka Marjanović: Nevolje u raju, Galerija Doma omladine Beograda, 11-23. jun 2024.
 
-[![](http://seecult.org/sites/default/files/baner_desno/seecult-vodjenje.jpg)](https://www.youtube.com/playlist?list=PL27ADA311E59A5ADE) [![](http://seecult.org/sites/default/files/baner_desno/bitef-2024.jpg)](https://festival.bitef.rs/rs?lang_type=lat) [![](http://seecult.org/sites/default/files/baner_desno/bgsax2024.png)](https://www.saxperience.rs/page.php?cID=98&lng=srb) [![](http://seecult.org/sites/default/files/baner_desno/rex-konkurs.gif)](https://rex.fondb92.org/sr/-kako-nastaviti-bez-sebe--eid-2434.1.212.html) [![](http://seecult.org/sites/default/files/baner_desno/kritika-na-delu_2019.png)](https://www.youtube.com/playlist?list=PLTjmwEw66acXw-tYvmNUOKLRjRt1_fC8U) [![](http://seecult.org/sites/default/files/baner_desno/ulus-iaa.gif)](https://ulus.rs/iaa-ulus-identifikaciona-kartica-za-profesionalne-umetnike/) [![](http://seecult.org/sites/default/files/baner_desno/sok-zadruga-exartklinika.jpg)](https://sokzadruga.com/) [![](http://seecult.org/sites/default/files/baner_desno/ju-kinoteka.gif)](http://www.kinoteka.org.rs/) [![](http://seecult.org/sites/default/files/baner_desno/abc.gif)](https://www.youtube.com/playlist?list=PLTjmwEw66acXe4xC_9CIfXym9G9M_PvhY) [![](http://seecult.org/sites/default/files/baner_desno/e-vodic-digitalizacija-kulture.jpg)](http://www.seecult.org/vodic-kroz-digitalizaciju) [![](http://seecult.org/sites/default/files/baner_desno/muzej-korupcije.gif)](http://www.seecult.org/tag/muzej-korupcije) [![](http://seecult.org/sites/default/files/baner_desno/criticize_this.jpg)](http://www.criticizethis.org/) [![](http://seecult.org/sites/default/files/baner_desno/zastodaneueu.jpg)](http://www.seecult.org/tag/zasto-da-ne-u-eu) [![](http://seecult.org/sites/default/files/baner_desno/seecult-wsa2013.jpg)](https://www.worldsummitawards.org/winner/culture-portal-seecult-org/) [![](http://seecult.org/sites/default/files/baner_desno/irf.png)](https://www.goethe.de/en/uun/auf/hlf.html)
+[![](http://seecult.org/sites/default/files/baner_desno/seecult-vodjenje.jpg)](https://www.youtube.com/playlist?list=PL27ADA311E59A5ADE) [![](http://seecult.org/sites/default/files/baner_desno/bitef-2024.jpg)](https://festival.bitef.rs/rs?lang_type=lat) [![](http://seecult.org/sites/default/files/baner_desno/bgsax2024.png)](https://www.saxperience.rs/page.php?cID=98&lng=srb) [![](http://seecult.org/sites/default/files/baner_desno/videomedeja-2024.gif)](https://videomedeja.org/) [![](http://seecult.org/sites/default/files/baner_desno/rex-konkurs.gif)](https://rex.fondb92.org/sr/-kako-nastaviti-bez-sebe--eid-2434.1.212.html) [![](http://seecult.org/sites/default/files/baner_desno/kritika-na-delu_2019.png)](https://www.youtube.com/playlist?list=PLTjmwEw66acXw-tYvmNUOKLRjRt1_fC8U) [![](http://seecult.org/sites/default/files/baner_desno/ulus-iaa.gif)](https://ulus.rs/iaa-ulus-identifikaciona-kartica-za-profesionalne-umetnike/) [![](http://seecult.org/sites/default/files/baner_desno/sok-zadruga-exartklinika.jpg)](https://sokzadruga.com/) [![](http://seecult.org/sites/default/files/baner_desno/ju-kinoteka.gif)](http://www.kinoteka.org.rs/) [![](http://seecult.org/sites/default/files/baner_desno/abc.gif)](https://www.youtube.com/playlist?list=PLTjmwEw66acXe4xC_9CIfXym9G9M_PvhY) [![](http://seecult.org/sites/default/files/baner_desno/e-vodic-digitalizacija-kulture.jpg)](http://www.seecult.org/vodic-kroz-digitalizaciju) [![](http://seecult.org/sites/default/files/baner_desno/muzej-korupcije.gif)](http://www.seecult.org/tag/muzej-korupcije) [![](http://seecult.org/sites/default/files/baner_desno/criticize_this.jpg)](http://www.criticizethis.org/) [![](http://seecult.org/sites/default/files/baner_desno/zastodaneueu.jpg)](http://www.seecult.org/tag/zasto-da-ne-u-eu) [![](http://seecult.org/sites/default/files/baner_desno/seecult-wsa2013.jpg)](https://www.worldsummitawards.org/winner/culture-portal-seecult-org/) [![](http://seecult.org/sites/default/files/baner_desno/irf.png)](https://www.goethe.de/en/uun/auf/hlf.html)
 
 * [Impresum](http://seecult.org/impresum)
 * [O nama](http://seecult.org/o-udruzenju-gradana-seecultorg)
