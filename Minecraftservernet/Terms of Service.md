@@ -4,7 +4,7 @@ Accept Cookies and Terms
 
 [Leave Site](https://google.com/)
 
-[![Minecraft Servers](pagespeed_static/1.JiBnMqyl6S.gif)](https://minecraft-server.net/)
+[![Minecraft Servers](minecraft-servers.png.pagespeed.ce.7HRxM5qnQd.png)](https://minecraft-server.net/)
 
 * [Home](https://minecraft-server.net/)
 * [Server Login](https://minecraft-server.net/user_cpl/)
@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
+[![OblivionPrison](plugins/MineCraft/icons/25x25xOblivionPrison_1716869247.png.pagespeed.ic.FbvFd6IVCa.jpg)
 
-VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![MoonMC](plugins/MineCraft/icons/25x25xMoonMC_1727137890.png.pagespeed.ic.a-3nDpIqhF.jpg)
+Oblivion Prison](https://minecraft-server.net/details/OblivionPrison/ "Oblivion Prison")[![IllusiveMC](plugins/MineCraft/icons/IllusiveMC_1681214308.png)
 
-Moon MC Season 2](https://minecraft-server.net/details/MoonMC/ "Moon MC Season 2")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1726916983.png.pagespeed.ce.4K26pX4nDP.png)
+IllusiveMC Survival](https://minecraft-server.net/details/IllusiveMC/ "IllusiveMC Survival")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
 
-STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames]")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06217 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05797 - Created by [Debaucus](https://debauc.us/)
