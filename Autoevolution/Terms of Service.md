@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![The Best EVs Europeans Can Buy Today Come From the US and South Korea](https://s1.cdn.autoevolution.com/images/news/the-best-evs-europeans-can-buy-today-come-from-the-us-and-south-korea-240136-5.jpg "The Best EVs Europeans Can Buy Today Come From the US and South Korea")
+[![I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement](https://s1.cdn.autoevolution.com/images/news/i-drove-this-bmw-4-series-gran-coupe-in-milan-during-fashion-week-to-make-a-chic-statement-240280-5.jpeg "I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement")
 
-#### The Best EVs Europeans Can Buy Today Come From the US and South Korea](https://www.autoevolution.com/news/the-best-evs-europeans-can-buy-today-come-from-the-us-and-south-korea-240136.html "The Best EVs Europeans Can Buy Today Come From the US and South Korea")
+#### I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement](https://www.autoevolution.com/news/i-drove-this-bmw-4-series-gran-coupe-in-milan-during-fashion-week-to-make-a-chic-statement-240280.html "I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement")
 
 coverstory \_
 
-[![Uncrewed Military Vehicle Gets Autonomous Brain That Was Bred as a Texas Trucker](https://s1.cdn.autoevolution.com/images/news/uncrewed-military-vehicle-gets-autonomous-brain-that-was-bred-as-a-texas-trucker-240261-5.jpg "Uncrewed Military Vehicle Gets Autonomous Brain That Was Bred as a Texas Trucker")
+[![The C8 Corvette ZR1's LT7: A Closer Look at Chevy's Most Insane Production V8](https://s1.cdn.autoevolution.com/images/news/the-c8-corvette-zr1-s-lt7-a-closer-look-at-chevy-s-most-insane-production-v8-240284-5.jpg "The C8 Corvette ZR1's LT7: A Closer Look at Chevy's Most Insane Production V8")
 
-Uncrewed Military Vehicle Gets Autonomous Brain That Was Bred as a Texas Trucker](https://www.autoevolution.com/news/uncrewed-military-vehicle-gets-autonomous-brain-that-was-bred-as-a-texas-trucker-240261.html)
+The C8 Corvette ZR1's LT7: A Closer Look at Chevy's Most Insane Production V8](https://www.autoevolution.com/news/the-c8-corvette-zr1-s-lt7-a-closer-look-at-chevy-s-most-insane-production-v8-240284.html)
 
 how-to \_
 
