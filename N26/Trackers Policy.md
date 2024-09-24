@@ -2,7 +2,7 @@ N26 Cookie Policy
 
 
 
-(Version 3.9 – 03 September 2024)
+(Version 4.0 – 24 September 2024)
 
 
 
@@ -4556,6 +4556,830 @@ Union
 
 
 
+Liveperson
+
+LPVID
+
+N26 Bank AG,
+
+Voltairestr. 8,
+
+10179 Berlin
+
+
+
+We use Liveperson and
+
+process the data collected
+
+for the purpose of providing
+
+our customer chat service in
+
+our web-app. The customer
+
+
+
+User's browsing
+
+behavior on the
+
+website, pages
+
+visited, the
+
+duration of the
+
+
+
+Sec. 25 (2) no. 2 of the
+
+German Act on Data
+
+Protection and Privacy in
+
+Telecommunications and
+
+Digital Services (TDDDG)
+
+
+
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+
+
+15
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after 1
+
+year.
+
+
+
+LPSID-SiteID
+
+
+
+Session
+
+Cookie
+
+
+
+LPSessionID
+
+
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after 1
+
+year.
+
+
+
+LPVisitorID
+
+
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after 1
+
+year.
+
+
+
+IPLastVisit
+
+
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after
+
+13 months.
+
+
+
+IPTapId
+
+
+
+Session
+
+Cookie
+
+
+
+IpPmCalleeDf
+
+s
+
+
+
+chat is the main contact
+
+option for our customers.
+
+Without this technology we
+
+could not provide our
+
+customers with the
+
+possibility of contacting us
+
+via chat in the web-app.
+
+
+
+We use LPVID to ensure that
+
+users can browse the
+
+website while interacting
+
+with the chat. We want to
+
+ensure that users can
+
+re-open a session with our
+
+customer chat when a
+
+browser refresh becomes
+
+necessary.
+
+
+
+We use LPSID-SiteID to
+
+ensure a continuous
+
+conversation with the
+
+customer while they are
+
+navigating to different web
+
+pages of the web app.
+
+
+
+We use LPSessionID to
+
+ensure a continuous
+
+conversation with the
+
+customer continuity while
+
+they are navigating web
+
+pages of the website.
+
+
+
+We use LPVisitorID to
+
+ensure a continuous
+
+conversation with the
+
+customer continuity while
+
+they are navigating web
+
+pages of the website and a
+
+history of conversational
+
+sessions.
+
+
+
+IPLast Visit allows us to
+
+identify new and returning
+
+visitors to the website and
+
+to enable a seamless and
+
+personalised chat
+
+experience.
+
+
+
+IPTapId ensures that chat
+
+sessions are maintained
+
+even if the customer
+
+navigates away from the
+
+website or opens a new
+
+browser tab or window.
+
+
+
+IpPmCalleeDfs allows us to
+
+maintain the chat session
+
+
+
+visit, any actions
+
+taken on the site,
+
+IP address,
+
+browser type,
+
+operating system,
+
+pages visited,
+
+visitor ID.
+
+
+
+IP address,
+
+browser type,
+
+operating system,
+
+ID of current or
+
+last monitored
+
+session, session
+
+ID.
+
+Session ID.
+
+
+
+Visitor ID, IP
+
+address, browser
+
+type, and
+
+operating system.
+
+
+
+Time stamp of the
+
+last visit of the
+
+website.
+
+
+
+Visitor ID, page
+
+URL, visitor’s
+
+browser type.
+
+
+
+Visitor’s device
+
+and browser with
+
+
+
+together with Art. 5 (3)
+
+directive on privacy and
+
+electronic communications
+
+together with the national act
+
+of implementation - As this is
+
+a strictly necessary Cookie,
+
+your consent to our usage of
+
+the Cookie is not required.
+
+
+
+Art. 6 (1) b) GDPR - processing
+
+of personal data is necessary
+
+for the performance of the
+
+contract with you.
+
+
+
+Art. 46 (2) c) GDPR - we are
+
+only transferring personal
+
+data on the basis of standard
+
+data protection clauses
+
+adopted by the Commission
+
+in accordance with the
+
+examination procedure
+
+referred to in Article 93(2)
+
+GDPR in addition to
+
+safeguards in accordance with
+
+the respective international
+
+data transfer impact
+
+assessment on the respective
+
+data transfer. You can obtain
+
+a detailed copy of the transfer
+
+tool and more information in
+
+this regard by sending a
+
+request to N26 to the
+
+addresses indicated above or
+
+to datenschutz@n26.com.
+
+
+
+to the United
+
+Kingdom
+
+(based on an
+
+Adequacy
+
+Decision),
+
+Ukraine,
+
+Canada
+
+(based on an
+
+Adequacy
+
+Decision) and
+
+Israel (based
+
+on an
+
+Adequacy
+
+Decision).
+
+
+
+16
+
+Session
+
+Cookie
+
+
+
+lpTestCookie{
+
+timestamp}
+
+
+
+Session
+
+Cookie
+
+
+
+Storage_expir
+
+ation-SiteId
+
+
+
+Indefinite
+
+Cookie
+
+
+
+lpStrMap-AD
+
+D
+
+
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after 1
+
+day.
+
+
+
+UIConf
+
+
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after 1
+
+day.
+
+
+
+{account
+
+ID}lpMessagi
+
+ng-{account
+
+ID}
+
+
+
+Session
+
+Cookie
+
+
+
+{account
+
+ID}-lpuw-aut
+
+hMessaging
+
+
+
+Session
+
+Cookie
+
+
+
+{account
+
+ID}-lpuw-una
+
+uthMessagin
+
+g
+
+
+
+Session
+
+Cookie
+
+
+
+and provide personalised
+
+chat support.
+
+
+
+IpPmCalleeDfslpTestCookie{
+
+timestamp} verifies
+
+successful communication
+
+by checking if the browser
+
+supports cookies when the
+
+customer lands on the
+
+website.
+
+
+
+Storage_expiration-SiteId
+
+allows the website to know
+
+when the browser storage
+
+will expire and to select a
+
+browser storage method.
+
+
+
+lpStrMap-ADD allows us to
+
+manage conversation
+
+related settings such as UI
+
+state and configuration.
+
+
+
+UIConf allows us to store the
+
+user’s conversation settings
+
+such as language and
+
+theme.
+
+
+
+{account
+
+ID}lpMessaging-{account ID}
+
+enables messaging window
+
+continuity on navigation
+
+across browser tabs.
+
+
+
+{account
+
+ID}-lpuw-authMessaging
+
+enables authenticated
+
+messaging window
+
+continuity on navigation
+
+across browser tabs.
+
+
+
+{account
+
+ID}-lpuw-unauthMessaging
+
+enables unauthenticated
+
+messaging window
+
+continuity on navigation
+
+across browser tabs.
+
+
+
+the conversation,
+
+unique identifier,
+
+configuration
+
+data.
+
+
+
+Test value, time
+
+stamp.
+
+
+
+Expiration date of
+
+the visitor's
+
+browser storage.
+
+
+
+Visitor ID, the ID
+
+of the agent who
+
+is handling the
+
+session,
+
+information about
+
+the visitor's
+
+interactions with
+
+the website, such
+
+as visited pages
+
+and sent
+
+messages.
+
+
+
+User ID, account
+
+ID,messaging
+
+domain, user's
+
+preferences, such
+
+as language and
+
+theme.
+
+
+
+User ID, account
+
+ID,messaging
+
+domain.
+
+
+
+String
+
+representing the
+
+authenticated
+
+conversation
+
+session state.
+
+
+
+String
+
+representing the
+
+authenticated
+
+conversation
+
+session state.
+
+
+
+17
+
+s.browser
+
+
+
+Session
+
+Cookie
+
+
+
+{account
+
+ID}-unAuthJW
+
+T
+
+
+
+Persistent
+
+Cookie
+
+
+
+Cookies is
+
+deleted after
+
+1 day.
+
+
+
+s.browser ensures video \&
+
+voice capability when
+
+interacting with the chat.
+
+
+
+{account ID}-unAuthJWT
+
+enables unauthenticated
+
+messaging window
+
+continuity on navigation
+
+across browser tabs.
+
+
+
+Browser type,
+
+operating system,
+
+screen resolution.
+
+
+
+String containing
+
+unauthenticated
+
+conversation
+
+token to verify the
+
+user permissions
+
+when interacting
+
+with the
+
+messaging
+
+service.
+
+
+
 Functional Cookies
 
 
@@ -4563,10 +5387,6 @@ Functional Cookies
 Functional Cookies enable us to provide enhanced functionality and personalisation, to prevent bugs, conduct
 
 A/B tests and test new functionalities, when you are using our website, in particular our online banking services.
-
-
-
-15
 
 If you do not consent to our placing of these Cookies and the associated data processing then some or all of
 
@@ -4718,6 +5538,10 @@ marketing campaigns are. Analytics Cookies allow us to count visits and traffic 
 
 improve the performance of our site. They help us to know which pages are the most and least popular and see
 
+
+
+18
+
 how visitors move around the site, in order to determine if we need to improve our websites for better user
 
 experience. If you do not consent to our placing of these Cookies and the associated data processing we will not
@@ -4779,80 +5603,6 @@ Persistent
 Cookie
 
 
-
-Google Ireland
-
-Limited, Google
-
-Building Gordon
-
-House, 4 Barrow
-
-St, Dublin, D04
-
-E5W5, Ireland
-
-
-
-We use Google Analytics to
-
-measure audiences (e.g. to
-
-determine ad ROI) and
-
-improve our websites and
-
-its services that we offer to
-
-our users. Measuring what
-
-features of our websites our
-
-
-
-Date and time of
-
-visit; Page
-
-Information (e.g.
-
-Country, Page
-
-Type, Referrer
-
-URL); Browser
-
-
-
-Sec. 25 (1) of the German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-(TDDDG) together with Art. 5
-
-(3) directive on privacy and
-
-electronic communications
-
-
-
-European
-
-Union
-
-
-
-Data is
-
-transferred
-
-to the USA,
-
-
-
-16
 
 Cookie is
 
@@ -4926,35 +5676,33 @@ time period of
 
 
 
-\___dc_gtm_UA
+Google Ireland
 
--xxxxxxxx
+Limited, Google
 
-Session
+Building Gordon
 
-Cookie
+House, 4 Barrow
 
+St, Dublin, D04
 
-
-\_gali
-
-Persistent
-
-Cookie
+E5W5, Ireland
 
 
 
-Cookie is
+We use Google Analytics to
 
-deleted after a
+measure audiences (e.g. to
 
-maximum
+determine ad ROI) and
 
-time period of
+improve our websites and
 
-30 days.
+its services that we offer to
 
+our users. Measuring what
 
+features of our websites our
 
 users use or are interested
 
@@ -5034,27 +5782,19 @@ identify unique sessions,
 
 throttle the request rate,
 
-and to store information
-
-about users' sessions and
-
-campaigns. The
-
-\___dc_gtm_UA-xxxxxxxx
-
-cookie is set to identify the
-
-associated Google Analytics
-
-account of the tool owner.
-
-The \_gali cookie is set to
-
-identify which links on a
-
-page are clicked.
 
 
+Date and time of
+
+visit; Page
+
+Information (e.g.
+
+Country, Page
+
+Type, Referrer
+
+URL); Browser
 
 Information (e.g.
 
@@ -5096,6 +5836,18 @@ City)
 
 
 
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
+
+(3) directive on privacy and
+
+electronic communications
+
 together with the national act
 
 of implementation - as this is
@@ -5128,11 +5880,77 @@ prior explicit consent.
 
 
 
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+to the USA,
+
 Singapore,
 
 Chile and
 
 Taiwan
+
+
+
+19
+
+\___dc_gtm_UA
+
+-xxxxxxxx
+
+Session
+
+Cookie
+
+
+
+\_gali
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+30 days.
+
+
+
+and to store information
+
+about users' sessions and
+
+campaigns. The
+
+\___dc_gtm_UA-xxxxxxxx
+
+cookie is set to identify the
+
+associated Google Analytics
+
+account of the tool owner.
+
+The \_gali cookie is set to
+
+identify which links on a
+
+page are clicked.
 
 
 
@@ -5149,6 +5967,16 @@ Cookie
 
 
 dd_site_test_\*
+
+Session
+
+Cookie
+
+
+
+dd_cookie_te
+
+st_\*
 
 Session
 
@@ -5189,74 +6017,6 @@ users use or are interested
 in and how they use our
 
 websites helps us to
-
-
-
-Event data (event
-
-type, datadog
-
-application,
-
-service), view
-
-attributes
-
-(Randomly
-
-generated ID for
-
-each page view,
-
-type of page load,
-
-
-
-Sec. 25 (1) of the German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-(TDDDG) together with Art. 5
-
-(3) directive on privacy and
-
-electronic communications
-
-together with the national act
-
-of implementation - as this is
-
-an analytics Cookie, we only
-
-
-
-European
-
-Union
-
-
-
-Data is
-
-transferred
-
-to the USA
-
-
-
-17
-
-dd_cookie_te
-
-st_\*
-
-Session
-
-Cookie
-
-
 
 improve our websites and
 
@@ -5327,6 +6087,24 @@ functionalities can be used
 in a reliable way.
 
 
+
+Event data (event
+
+type, datadog
+
+application,
+
+service), view
+
+attributes
+
+(Randomly
+
+generated ID for
+
+each page view,
+
+type of page load,
 
 view URL, hashed
 
@@ -5400,33 +6178,25 @@ path), action
 
 timing metrics
 
-(loading time),
-
-action attributes
-
-(action ID, action
-
-name), frustration
-
-signals fields
-
-(count of dead
-
-clicks), UTM
-
-attributes (traffic
-
-source),
-
-Information
-
-whether placing
-
-of the cookie was
-
-successful
 
 
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
+
+(3) directive on privacy and
+
+electronic communications
+
+together with the national act
+
+of implementation - as this is
+
+an analytics Cookie, we only
 
 place the Cookie upon your
 
@@ -5458,6 +6228,50 @@ consent.
 
 
 
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+to the USA
+
+
+
+20
+
+(loading time),
+
+action attributes
+
+(action ID, action
+
+name), frustration
+
+signals fields
+
+(count of dead
+
+clicks), UTM
+
+attributes (traffic
+
+source),
+
+Information
+
+whether placing
+
+of the cookie was
+
+successful
+
+
+
 4.3. Personalisation/targeting Cookies
 
 
@@ -5473,10 +6287,6 @@ detect whether you as a user are browsing our websites or social media channels 
 N26 ad. To make our advertising more relevant for you, our partners may use personalisation/targeting Cookies
 
 to build a profile of your interests, based on your usage behaviour and your interaction with N26 ads and
-
-
-
-18
 
 match them by showing you personalised N26 ads across the internet. Such Cookies also perform functions like
 
@@ -5594,16 +6404,6 @@ future ads, and remarket to
 
 users who have already
 
-taken some kind of action
-
-on our website. This is
-
-necessary to ensure that the
-
-content of our ads is
-
-tailored to you.
-
 
 
 Device
@@ -5631,24 +6431,6 @@ information (e.g.
 Ad Click ID,
 
 success of
-
-marketing
-
-campaigns);
-
-Referrer URL;
-
-Facebook Cookie
-
-information (e.g.
-
-Pixel ID, Facebook
-
-user ID); Browser
-
-information (e.g.
-
-Browser version)
 
 
 
@@ -5678,6 +6460,54 @@ explicit consent.
 
 
 
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+to the USA
+
+
+
+21
+
+taken some kind of action
+
+on our website. This is
+
+necessary to ensure that the
+
+content of our ads is
+
+tailored to you.
+
+
+
+marketing
+
+campaigns);
+
+Referrer URL;
+
+Facebook Cookie
+
+information (e.g.
+
+Pixel ID, Facebook
+
+user ID); Browser
+
+information (e.g.
+
+Browser version)
+
+
+
 Art. 6 (1) a) GDPR - we are
 
 collecting and processing the
@@ -5697,20 +6527,6 @@ data to Meta Platforms, Inc.
 upon your prior explicit
 
 consent.
-
-
-
-European
-
-Union
-
-
-
-Data is
-
-transferred
-
-to the USA
 
 
 
@@ -5747,6 +6563,16 @@ time period of
 Persistent
 
 Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum of
+
+90 days.
 
 
 
@@ -5795,108 +6621,6 @@ our displaying of N26 ads to
 other users across the
 
 internet.
-
-
-
-Date and time of
-
-visit; Page
-
-information (e.g.
-
-Referrer URL);
-
-Browser
-
-Information (e.g.
-
-browser type,
-
-browser
-
-language);
-
-Marketing
-
-Information (e.g.
-
-Ad Click ID,
-
-clicked ads); IP
-
-address; Cookie
-
-Data (e.g. Cookie
-
-ID); Behavioural
-
-
-
-Sec. 25 (1) of the German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-(TDDDG) together with Art. 5
-
-(3) directive on privacy and
-
-electronic communications
-
-together with the national act
-
-of implementation - as this is
-
-a personalisation/targeting
-
-Cookie, we only place the
-
-Cookie upon your prior
-
-explicit consent.
-
-
-
-Art. 6 (1) a) GDPR - we are
-
-collecting and processing the
-
-data only based on your prior
-
-consent.
-
-
-
-European
-
-Union
-
-
-
-Data is
-
-transferred
-
-to the USA,
-
-Singapore,
-
-Chile and
-
-Taiwan
-
-
-
-19
-
-Cookie is
-
-deleted after a
-
-maximum of
-
-90 days.
 
 
 
@@ -5970,19 +6694,81 @@ to track which keywords,
 
 ads, ad groups or campaigns
 
-lead to the desired
-
-interaction of users, and to
-
-attribute certain actions of
-
-the user to a specific ad.
 
 
+Date and time of
+
+visit; Page
+
+information (e.g.
+
+Referrer URL);
+
+Browser
+
+Information (e.g.
+
+browser type,
+
+browser
+
+language);
+
+Marketing
+
+Information (e.g.
+
+Ad Click ID,
+
+clicked ads); IP
+
+address; Cookie
+
+Data (e.g. Cookie
+
+ID); Behavioural
 
 Data (e.g. Usage
 
 behaviour)
+
+
+
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
+
+(3) directive on privacy and
+
+electronic communications
+
+together with the national act
+
+of implementation - as this is
+
+a personalisation/targeting
+
+Cookie, we only place the
+
+Cookie upon your prior
+
+explicit consent.
+
+
+
+Art. 6 (1) a) GDPR - we are
+
+collecting and processing the
+
+data only based on your prior
+
+consent.
+
+
 
 Art. 49 (1) a) GDPR - we are
 
@@ -5991,6 +6777,38 @@ only transferring personal
 data to Google LLC upon your
 
 prior explicit consent.
+
+
+
+European
+
+Union
+
+
+
+Data is
+
+transferred
+
+to the USA,
+
+Singapore,
+
+Chile and
+
+Taiwan
+
+
+
+22
+
+lead to the desired
+
+interaction of users, and to
+
+attribute certain actions of
+
+the user to a specific ad.
 
 
 
@@ -6033,6 +6851,28 @@ maximum
 period of 90
 
 days.
+
+
+
+Doubleclick
+
+test_cookie
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+15 minutes
 
 
 
@@ -6093,6 +6933,76 @@ after determining where to
 show our ads and to whom.
 
 Google Ads is also used for
+
+campaign optimization
+
+purposes. When a customer
+
+clicks on an ad from Google
+
+Search (paid search) or
+
+selected Google Display
+
+Network sites (display), or
+
+when they view a video a
+
+temporary Cookie is placed
+
+on their computer or mobile
+
+device. When they complete
+
+the action we have defined,
+
+the Google system
+
+recognises the Cookie and a
+
+conversion is being
+
+recorded. If users do not
+
+convert, we can use the data
+
+collected to retarget users
+
+with N26 ads
+
+
+
+We use the Google Ads
+
+technology to acquire
+
+customers by displaying ads
+
+and to track the conversion
+
+of users once they have
+
+clicked on a N26 ad on the
+
+internet, and are directed to
+
+N26 websites. Should a user
+
+sign up to a N26 bank
+
+account or undertake any
+
+action defined by us, the
+
+Cookie fires and records this
+
+event. This helps us
+
+understand how effective
+
+our ads are and to optimise
+
+our displaying of N26 ads to
 
 
 
@@ -6206,99 +7116,7 @@ Taiwan
 
 
 
-20
-
-Doubleclick
-
-test_cookie
-
-Persistent
-
-Cookie
-
-
-
-Cookie is
-
-deleted after a
-
-maximum
-
-time period of
-
-15 minutes
-
-
-
-campaign optimization
-
-purposes. When a customer
-
-clicks on an ad from Google
-
-Search (paid search) or
-
-selected Google Display
-
-Network sites (display), or
-
-when they view a video a
-
-temporary Cookie is placed
-
-on their computer or mobile
-
-device. When they complete
-
-the action we have defined,
-
-the Google system
-
-recognises the Cookie and a
-
-conversion is being
-
-recorded. If users do not
-
-convert, we can use the data
-
-collected to retarget users
-
-with N26 ads
-
-
-
-We use the Google Ads
-
-technology to acquire
-
-customers by displaying ads
-
-and to track the conversion
-
-of users once they have
-
-clicked on a N26 ad on the
-
-internet, and are directed to
-
-N26 websites. Should a user
-
-sign up to a N26 bank
-
-account or undertake any
-
-action defined by us, the
-
-Cookie fires and records this
-
-event. This helps us
-
-understand how effective
-
-our ads are and to optimise
-
-our displaying of N26 ads to
+23
 
 other users across the
 
@@ -6386,6 +7204,30 @@ retargeting service. It is used
 
 by N26 to show ads to you.
 
+We want to make sure that
+
+our ads are as relevant to
+
+you as possible, by tailoring
+
+their content.
+
+
+
+The LinkedIn Insight Tag is
+
+used to track conversions,
+
+retarget website visitors,
+
+and unlock additional
+
+insights about LinkedIn
+
+members interacting with
+
+our ads.
+
 
 
 Device
@@ -6444,6 +7286,12 @@ Art. 49 (1) a) GDPR - we are
 
 only transferring personal
 
+data to LinkedIn Corporation
+
+upon your prior explicit
+
+consent.
+
 
 
 European
@@ -6461,42 +7309,6 @@ to the USA
 and
 
 Singapore
-
-
-
-21
-
-We want to make sure that
-
-our ads are as relevant to
-
-you as possible, by tailoring
-
-their content.
-
-
-
-The LinkedIn Insight Tag is
-
-used to track conversions,
-
-retarget website visitors,
-
-and unlock additional
-
-insights about LinkedIn
-
-members interacting with
-
-our ads.
-
-
-
-data to LinkedIn Corporation
-
-upon your prior explicit
-
-consent.
 
 
 
@@ -6543,58 +7355,6 @@ Cookie
 Cookie is
 
 deleted after a
-
-maximum
-
-time period of
-
-2 years
-
-
-
-lidc
-
-Persistent
-
-Cookie
-
-
-
-Cookie is
-
-deleted after a
-
-maximum
-
-time period of
-
-24 hours
-
-
-
-UserMatchHi
-
-story
-
-Persistent
-
-Cookie
-
-
-
-Cookie is
-
-deleted after a
-
-maximum
-
-time period of
-
-30 days
-
-
-
-lang
 
 
 
@@ -6654,60 +7414,6 @@ Cookie and the \_bscookie
 
 are used by LinkedIn to
 
-securely offer the relevant
-
-services. The \_lidc Cookie
-
-facilitates the data centre
-
-selection. The
-
-\_UserMatchHistory Cookie is
-
-used for the unique
-
-anonymous advertising id
-
-sync process. It stores the
-
-last sync time to avoid
-
-repeating the syncing
-
-process in a frequent
-
-manner. The_lang Cookie is
-
-used to store a user's
-
-language setting to ensure
-
-LinkedIn.com displays in the
-
-language selected by the
-
-user in their settings. The
-
-\_AnalyticsSyncHistory
-
-Cookie is used to store
-
-information about the time
-
-a sync with the lms_analytics
-
-Cookie took place for users
-
-in the designated countries.
-
-The _li_sugr Cookie is used
-
-to make a probabilistic
-
-match of a user's identity
-
-outside the designated
-
 
 
 Date and time of
@@ -6754,12 +7460,6 @@ provided on
 
 profile, User
 
-agent data,
-
-Videos viewed); IP
-
-address
-
 
 
 Sec. 25 (1) of the German
@@ -6804,10 +7504,6 @@ only transferring personal
 
 data to LinkedIn Corporation
 
-upon your prior explicit
-
-consent.
-
 
 
 European
@@ -6828,7 +7524,59 @@ Singapore
 
 
 
-22
+24
+
+maximum
+
+time period of
+
+2 years
+
+
+
+lidc
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+24 hours
+
+
+
+UserMatchHi
+
+story
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+30 days
+
+
+
+lang
 
 Session
 
@@ -6900,23 +7648,61 @@ time period of
 
 bcookie
 
-Persistent
-
-Cookie
 
 
+securely offer the relevant
 
-Cookie is
+services. The \_lidc Cookie
 
-deleted after a
+facilitates the data centre
 
-maximum
+selection. The
 
-time period of
+\_UserMatchHistory Cookie is
 
-2 years
+used for the unique
 
+anonymous advertising id
 
+sync process. It stores the
+
+last sync time to avoid
+
+repeating the syncing
+
+process in a frequent
+
+manner. The_lang Cookie is
+
+used to store a user's
+
+language setting to ensure
+
+LinkedIn.com displays in the
+
+language selected by the
+
+user in their settings. The
+
+\_AnalyticsSyncHistory
+
+Cookie is used to store
+
+information about the time
+
+a sync with the lms_analytics
+
+Cookie took place for users
+
+in the designated countries.
+
+The _li_sugr Cookie is used
+
+to make a probabilistic
+
+match of a user's identity
+
+outside the designated
 
 countries. The _li_gc Cookie
 
@@ -6933,6 +7719,40 @@ browser Identifier Cookie to
 uniquely identify devices
 
 accessing LinkedIn.
+
+
+
+agent data,
+
+Videos viewed); IP
+
+address
+
+
+
+upon your prior explicit
+
+consent.
+
+
+
+25
+
+Persistent
+
+Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+2 years
 
 
 
@@ -7052,14 +7872,6 @@ Art. 6 (1) a) GDPR - we are
 
 collecting and processing the
 
-
-
-USA
-
-
-
-23
-
 data only based on your prior
 
 consent.
@@ -7073,6 +7885,10 @@ only transferring personal
 data to Outbrain, Inc. upon
 
 your prior explicit consent.
+
+
+
+USA
 
 
 
@@ -7173,48 +7989,6 @@ users with N26 ads.
 We use the Bing Ads
 
 technology to acquire
-
-customers by displaying ads
-
-and to track the conversion
-
-of users once they have
-
-clicked on a N26 ad on the
-
-internet, and are directed to
-
-N26 websites. Should a user
-
-sign up to a N26 bank
-
-account or undertake any
-
-action defined by us, the
-
-Cookie fires and records this
-
-event. This helps us
-
-understand how effective
-
-our ads are and to optimise
-
-our displaying of N26 ads to
-
-other users across the
-
-internet on the Bing Ads
-
-platform. Finally, we can
-
-retarget users by displaying
-
-N26 ads, should a user not
-
-convert after initially clicking
-
-on a N26 ad.
 
 
 
@@ -7330,55 +8104,57 @@ to the USA
 
 
 
+26
+
+customers by displaying ads
+
+and to track the conversion
+
+of users once they have
+
+clicked on a N26 ad on the
+
+internet, and are directed to
+
+N26 websites. Should a user
+
+sign up to a N26 bank
+
+account or undertake any
+
+action defined by us, the
+
+Cookie fires and records this
+
+event. This helps us
+
+understand how effective
+
+our ads are and to optimise
+
+our displaying of N26 ads to
+
+other users across the
+
+internet on the Bing Ads
+
+platform. Finally, we can
+
+retarget users by displaying
+
+N26 ads, should a user not
+
+convert after initially clicking
+
+on a N26 ad.
+
+
+
 YouTube
 
 Video
 
-Google Ireland
 
-Limited, Google
-
-Building Gordon
-
-House, 4 Barrow
-
-
-
-YouTube is a Google owned
-
-platform for hosting and
-
-sharing videos. YouTube
-
-collects user data through
-
-
-
-Device
-
-information; IP
-
-address; Referrer
-
-
-
-Sec. 25 (1) of the German
-
-Telecommunications-Telemed
-
-ia Data Protection Act
-
-(TDDDG) together with Art. 5
-
-
-
-European
-
-Union
-
-
-
-24
 
 \_visitor_info1
 
@@ -7438,9 +8214,27 @@ Cookie
 
 
 
+Google Ireland
+
+Limited, Google
+
+Building Gordon
+
+House, 4 Barrow
+
 St, Dublin, D04
 
 E5W5, Ireland
+
+
+
+YouTube is a Google owned
+
+platform for hosting and
+
+sharing videos. YouTube
+
+collects user data through
 
 videos embedded in
 
@@ -7514,25 +8308,27 @@ determine whether users
 
 see the new player interface
 
-or the old. The YSC is a
-
-security Cookie ensuring
-
-that requests within a
-
-browsing session are made
-
-by the user. The _gps Cookie
-
-is used to store location
-
-data.
 
 
+Device
+
+information; IP
+
+address; Referrer
 
 URL; Videos
 
 viewed
+
+
+
+Sec. 25 (1) of the German
+
+Telecommunications-Telemed
+
+ia Data Protection Act
+
+(TDDDG) together with Art. 5
 
 (3) directive on privacy and
 
@@ -7572,6 +8368,12 @@ prior explicit consent.
 
 
 
+European
+
+Union
+
+
+
 Data is
 
 transferred
@@ -7583,6 +8385,24 @@ Singapore,
 Chile and
 
 Taiwan
+
+
+
+27
+
+or the old. The YSC is a
+
+security Cookie ensuring
+
+that requests within a
+
+browsing session are made
+
+by the user. The _gps Cookie
+
+is used to store location
+
+data.
 
 
 
@@ -7617,6 +8437,18 @@ DSID
 Persistent
 
 Cookie
+
+
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+2 Weeks.
 
 
 
@@ -7702,6 +8534,10 @@ completed,
 
 Location, Time,
 
+Time of
+
+conversion.
+
 
 
 Sec. 25 (1) of the German
@@ -7742,6 +8578,22 @@ consent.
 
 
 
+Art. 49 (1) (a) GDPR - Consent -
+
+We are only transferring
+
+personal data to third
+
+countries that do not provide
+
+an adequate level of data
+
+protection upon your prior
+
+explicit consent.
+
+
+
 European
 
 Union
@@ -7759,38 +8611,6 @@ Singapore,
 Chile and
 
 Taiwan.
-
-
-
-25
-
-Cookie is
-
-deleted after a
-
-maximum
-
-time period of
-
-2 Weeks.
-
-
-
-Time of
-
-conversion. Art. 49 (1) (a) GDPR - Consent -
-
-We are only transferring
-
-personal data to third
-
-countries that do not provide
-
-an adequate level of data
-
-protection upon your prior
-
-explicit consent.
 
 
 
@@ -7839,10 +8659,6 @@ Cookie is
 deleted after a
 
 maximum
-
-time period of
-
-13 months.
 
 
 
@@ -7992,6 +8808,14 @@ Singapore.
 
 
 
+28
+
+time period of
+
+13 months.
+
+
+
 III. Retention of data
 
 
@@ -8026,23 +8850,25 @@ n26.timezone_identifier; n26.reverification_seen;
 
 n26.ask_not_to_track; n26.select_previous_device;
 
-
-
-Session Cookies, associated data processed by N26 is
-
-deleted once the session Cookies expire.
-
-
-
-26
-
 Num26ReducedMotion; num26Discretion; num26DarkMode;
 
 n26.alert_duration; num26SpaceTransaction;
 
 num26IsFirstSharedSpaceTransfer; n26.free_trial_opt_in_seen,
 
-Google Tag Manager
+Google Tag Manager; LPSID-SiteID; IPTabld; lpPmCalleeDfs;
+
+lpTestCookie{timestamp}; {account ID}lpMessaging-{account
+
+ID}; account ID}-lpuw-authMessaging; s.browser; {account
+
+ID}-lpuw-unauthMessaging
+
+
+
+Session Cookies, associated data processed by N26 is
+
+deleted once the session Cookies expire.
 
 
 
@@ -8054,13 +8880,25 @@ numb26chatToken; num26DeviceToken; num26Notifications;
 
 num26NotificationSounds; num26ABCMS, OptanonConsent;
 
-OptanonAlertBoxClosed, _sp_id.xxxx, _sp_ses.xxxx, sp
+OptanonAlertBoxClosed, \_sp_id.xxxx, \_sp_ses.xxxx, sp;
+
+Storage_expiration-SiteId
 
 
 
 Persistent Cookies, associated data processed by N26
 
 is deleted once the persistent Cookies expire.
+
+
+
+pStrMap-ADD; UIConf; {account ID}-unAuthJWT
+
+Persistent Cookie, personal data collected is deleted
+
+once the Cookie expires, here after the Cookie
+
+duration of 1 day.
 
 
 
@@ -8073,6 +8911,28 @@ once the Cookie expires, here after the Cookie
 duration of 30 days.
 
 
+
+LPVID; LPVisitorID; LPSessionID
+
+Persistent Cookie, personal data collected is deleted
+
+once the Cookie expires, here after the Cookie
+
+duration of 1 year.
+
+
+
+IPLastVisit
+
+Persistent Cookie, personal data collected is deleted
+
+once the Cookie expires, here after the Cookie
+
+duration of 13 months.
+
+
+
+29
 
 2. Functional Cookies
 
@@ -8132,8 +8992,6 @@ will be deleted after a time span of 24 months.
 
 
 
-27
-
 LinkedIn Insight Tag
 
 Data collected by the Linkedin Insight Tag and
@@ -8165,6 +9023,8 @@ Google Ads Data collected by Google Ads and processed by N26
 will be deleted after a time span of 24 months.
 
 
+
+30
 
 Bing Ads
 
@@ -8236,4 +9096,4 @@ Firefox, Microsoft Internet Explorer and Google Chrome.
 
 
 
-28
+31
