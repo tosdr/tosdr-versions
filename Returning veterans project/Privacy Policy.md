@@ -41,6 +41,7 @@ Search Search Search
     * [Contact](https://returningveterans.org/about/contact)
     * [Tribute to Our Founder](https://returningveterans.org/about/tribute-to-our-founder)
     * [Impact Report](https://returningveterans.org/about/impact-report)
+    * [Wall of Honor New](https://returningveterans.org/about/wall-of-honor-new)
     * [Wall of Honor](https://returningveterans.org/wall-of-honor/)
 * [Get Services](https://returningveterans.org/get-services)
     
@@ -103,6 +104,7 @@ Search Search Search
     * [Events](https://returningveterans.org/events)
     * [Continuing Education Trainings](https://returningveterans.org/events/continuing-education-training)
     * [Archive](https://returningveterans.org/events/archive)
+    * [Calendar New](https://returningveterans.org/events/calendar-new)
 * [Calendar](https://returningveterans.org/events/calendar)
 
 Privacy Statement
@@ -177,6 +179,7 @@ Thank you to [NetRaising](https://netraising.com/) for the original draft langua
 * [Contact](https://returningveterans.org/about/contact/)
 * [Tribute to Our Founder](https://returningveterans.org/about/tribute-to-our-founder/)
 * [Impact Report](https://returningveterans.org/about/impact-report/)
+* [Wall of Honor New](https://returningveterans.org/about/wall-of-honor-new/)
 * [Wall of Honor](https://returningveterans.org/wall-of-honor/)
 
 Newsletter Signup
@@ -187,10 +190,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Clark Spurrier](https://cdn.returningveterans.org/images/honor/Clark_Spurrier_Beast_Squad_1980.jpg)  
+![BG Gilbert Kirby](https://cdn.returningveterans.org/images/honor/BG_Kirby.jpg)  
 
-**In Honor of Clark Spurrier**  
+**In Honor of BG Gilbert Kirby**  
 United States Army  
+United States Marine Corps  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -236,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/24/24 - 8:26:53  
+Printed 9/24/24 - 2:23:56  
 © 2024 Returning Veterans Project
