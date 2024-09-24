@@ -337,7 +337,6 @@ Advertise
 
 ### [Rich Lister’s Mexican chain locks in 400th location](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
 
-* 58 mins ago
 * Yolanda Redrup
 
 * ### [Online casino mogul gets into lotteries as profits surge](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
