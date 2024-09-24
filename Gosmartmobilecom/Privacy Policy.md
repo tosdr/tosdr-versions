@@ -1,19 +1,13 @@
-TracFone Wireless, Inc. Privacy Policy
-======================================
+Privacy Policy
+==============
 
-Effective Date: July 2024
-
-Recent Changes: We review and update our Privacy Policy to reflect the changes that come with the development of new products, services, technologies and uses of information. In addition, we occasionally make organizational, stylistic and grammatical changes to make our policy easier to read. Below you’ll find an overview of the changes that have been made recently.
-
-* July 2024: We made changes to clarify and provide more detail about the information we may collect through your interactions with us. We also made changes to better explain how we leverage cookies, pixels, web beacons, tags, scripts and other website technology, and how system apps on certain devices operate. Finally, we consolidated descriptions of similar state laws to make the state law section easier to navigate and use, and we added information about new privacy laws in Oregon and Texas.
-* January 2024: We updated two links for Safelink customers.
-* December 2023: We made changes to the state privacy law section of our privacy policy to clarify and provide additional details about our collection, use and sharing practices and to add information about the Utah privacy law. We also updated the policy to provide additional detail about the cookies, pixels, tags, and other technologies that are on our websites and apps, about the collection of pictures in certain locations to prevent fraud, and about the collection of location information for network management purposes. We also added information about our use of automation and the collection of information from third parties.
+Effective Date: September, 2024
 
 ### **Introduction**
 
-Our Privacy Policy describes the information that we collect, how it’s used, shared, and retained, your choices about how it’s used and shared, and your rights under certain privacy laws. This policy applies to all TracFone brands including Total by Verizon, Straight Talk Wireless, Tracfone, Simple Mobile, SafeLink Wireless, Walmart Family Mobile, Net10 Wireless, Page Plus, GoSmart Mobile, and Clearway Wireless for Business. TracFone is a Verizon company.
+This Privacy Policy applies to all TracFone brands including Total Wireless, Straight Talk Wireless, Tracfone, Simple Mobile, SafeLink Wireless, Walmart Family Mobile, Net10 Wireless, Page Plus, GoSmart Mobile, and Clearway Wireless for Business. TracFone is a Verizon company.
 
-When you use our websites and services you are subject to this Policy and the terms and conditions of the service associated with your brand. We do not require you to provide personal information to us to enjoy some of our services. However, if you do not provide certain personal information, you may not be able to use or access portions of our websites, such as the account features or account information.
+Our Privacy Policy describes the information that we collect, how it’s used, shared, and retained, your choices about how it’s used and shared, and your rights under certain privacy laws.When you use our websites and services you are subject to this Policy and the terms and conditions of the service associated with your brand. We do not require you to provide personal information to us to enjoy some of our services. However, if you do not provide certain personal information, you may not be able to use or access portions of our websites, such as the account features or account information.
 
 ### **Categories and Types of Personal Information We Collect**
 
@@ -44,7 +38,7 @@ Some devices may have pre-installed applications that are used by us and our par
 
 Some apps installed or updated on your device in this way do not appear as icons on your device screen because of their limited utility. For example, they might facilitate the download of apps you select for your device, update apps you already have on your device, or report to an app owner that an app has been opened on the device. You can see and also delete or disable apps installed on your device, whether or not they have visible icons, using your device’s Application Manager under Settings. Apps on your device are governed by their own terms and privacy policies.
 
-We, our vendors, and third party companies, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content and analytics. We and these vendors and third-party companies may use [cookies, pixels, web beacons, tags, scripts or similar technologies](javascript:void(0))\[1\] on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems.
+We, our vendors, and third party companies, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content and analytics. We and these vendors and third-party companies may use [cookies, pixels, web beacons, tags, scripts or similar technologies](javascript:void(0)) \[1\] on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems.
 
 We also collect information from third parties. This includes demographic and interest data as well as device type, carrier, city and state information from third party data providers; information from social media platforms when you interact with us via social media or use your social media login to interact with TracFone sites or offers; contact, marketing lead, and other information we purchase or receive; and fraud information.
 
@@ -91,7 +85,7 @@ We share information with service providers. We use service providers to perform
 
 We share information that identifies you with a partner who verifies your identity to facilitate your interactions with third parties, such as banks. Our partner also uses the information we share to assist third parties with decisions about credit applications that you submitted to a bank or other third party. Information about how to opt out of the disclosure of information for this purpose is in the “Your Choices About How Information is Used” section.
 
-We may share with or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](javascript:void(0))\[2\] on our pages and the browsers you use. These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, and other purposes as described in the “How we collect personal information” section.
+We may share with or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as cookies, pixels, web beacons, tags, scripts or similar technologies on our pages and the browsers you use. These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, and other purposes as described in the “How we collect personal information” section.
 
 _Walmart Family Mobile Customers_. If you are a Walmart Family Mobile customer, we work with Walmart Stores, Inc. ("Walmart") to offer the Walmart Family Mobile service. Any information you provide directly to Walmart will be subject to Walmart's Privacy Policy, not this one. This includes information you provide to Walmart in connection with your device purchase, upgrade, return, or replacement, whether in its stores, by phone or online, including but not limited to, if you purchase a Family Mobile device or obtain technical support for the device at or from Walmart or its agents. In addition, if you activate Walmart Family Mobile communications services at a Walmart store, Walmart may request personal information from you that is passed to TracFone as part of the activation process, but which may also be retained by Walmart. You can learn more by [visiting Walmart's Privacy Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy).
 
@@ -103,11 +97,11 @@ We also share de-identified information with companies to assist with the delive
 
 **We share information with advertising companies.**
 
-We may share, or allow certain third-party advertising companies to collect information about your activity on our sites and in our apps, including advertising identifiers from your mobile device operating system. They can use that information to help us provide more relevant TracFone advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including TracFone, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](javascript:void(0))\[3\] on our pages and the browsers you use, or we may share information using application program interfaces (APIs).
+We may share, or allow certain third-party advertising companies to collect information about your activity on our sites and in our apps, including advertising identifiers from your mobile device operating system. They can use that information to help us provide more relevant TracFone advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including TracFone, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use technologies, such as cookies, pixels, web beacons, tags, scripts or similar technologies on our pages and the browsers you use, or we may share information using application program interfaces (APIs).
 
 TracFone sites and services may also include social networks or other third-party plug-ins and widgets that may provide information to their associated social networks or third parties even if you do not click on or otherwise interact with the plug-ins and widgets
 
-Our customers and website visitors can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. Certain states give consumers who reside in those states the right to make these opt out choices. Please visit the “Your choices about how information is used\[4\]” section of this policy to learn how to opt out.
+Our customers and website visitors can limit the sale and sharing of personal information as well as the use of this information for certain types of targeted advertising. Certain states give consumers who reside in those states the right to make these opt out choices. Please visit the “Your choices about how information is used” section of this policy to learn how to opt out.
 
 We also share de-identified information with companies to assist with the delivery of advertising campaigns or aggregate reports.
 
@@ -135,7 +129,7 @@ You can limit the sharing of CPNI and credit information within TracFone and wit
 
 * StraightTalk Customers: [https://www.straighttalk.com/cpni-amr](https://www.straighttalk.com/cpni-amr)
 * Tracfone Customers: [https://www.tracfone.com/cpni-amr](https://www.tracfone.com/cpni-amr)
-* Total by Verizon Customers: [https://www.totalbyverizon.com/cpni-amr](https://www.totalbyverizon.com/cpni-amr)
+* Total Wireless Customers: [https://www.totalwireless.com/cpni-amr](https://www.totalwireless.com/cpni-amr)
 * Net10 Customers: [https://www.net10wireless.com/cpni-amr](https://www.net10wireless.com/cpni-amr)
 * Other Customers: We will not share CPNI or credit information within Verizon for them to market services that are different from the ones you have without giving you an opportunity to opt out.
 
@@ -196,12 +190,13 @@ If you are unable to log into your account, please contact a customer care agent
 
 In certain circumstances we may be required by law to retain personal information, or may need to retain personal information in order to continue providing a service.
 
+### **U.S. State Privacy Laws**
+
 ### **California**
 
 The California Consumer Privacy Act, or CCPA, gives you specific rights as a California resident. The law provides you with the right to know what information we collect about you and how we use it; to access, delete, and correct that information within certain limitations; to tell us not to sell or share personal information about you; to limit the use of certain sensitive personal information; and to not be discriminated against for invoking these rights.
 
 **Your Right to Know**
-----------------------
 
 We describe the personal information we collect and how we use it in this Privacy Policy. As detailed above in “How We Collect Personal Information,” we collect information from you when you interact with us and use our products and services.
 
@@ -246,17 +241,14 @@ Some of the information that we collect is Sensitive Personal Information under 
 We do not use, sell, share, or disclose sensitive personal information for any purpose other than to provide the goods or services requested by you, with your consent, or for other purposes expressly authorized by California law, such as to detect security incidents.
 
 **Your Right to Access and Correct Information**
-------------------------------------------------
 
 You have the right to request access to specific pieces and categories of personal information we collect about you. You may submit these requests as described below under “How to Submit Your Privacy Rights Request.” We will honor at least two access rights requests every twelve months as required by California law. To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You also can request that we correct inaccurate personal information we have about you.
 
 **Your Right to Delete**
-------------------------
 
 You have the right to request that we delete personal information we have about you. We are unable to delete information that is necessary to provide you ongoing service, for security purposes, that we are contractually obligated to retain, or that is necessary to comply with legal obligations. You or your authorized agent may submit a request to delete. Instructions on how to submit this request can be found below under “How to Submit Your CCPA Request.”
 
 **Your Right to Opt Out of the Sale and Sharing of Personal Information**
--------------------------------------------------------------------------
 
 California consumers have the right to opt out of the sale or sharing of personal information. The term “sale or sharing” is broadly defined to include sharing personal information for monetary or other valuable consideration and the sharing of personal information for cross contextual advertising purposes, but does not cover all sharing of personal information. We do not knowingly include the personal information of consumers under 16 years of age in this selling or sharing.
 
@@ -274,7 +266,7 @@ To opt out of the selling and sharing of personal information, including for ide
 * Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
 * Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
 * Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-* Total by Verizon: [https://www.totalbyverizon.com/ccpa/home?reqType=dns](https://www.totalbyverizon.com/ccpa/home?reqType=dns)
+* Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
 * Safelink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
 * Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
 
@@ -293,7 +285,6 @@ You have the right to ask us to limit the use and disclosure of sensitive person
 We do not discriminate against you if you exercise any rights described in this section. We will not deny goods or services, charge different prices or rates for goods or services, or provide you a different level or quality of goods and services. You also have the right to receive information about the financial incentives that we offer to you.
 
 **How to Submit Your CCPA Request**
------------------------------------
 
 If you wish to exercise your right to access, delete, or correct personal information, you or your authorized agent can make a request through your existing online account. If you do not have an existing account, you can submit a request by calling 1-877-799-1999 or submitting a request online at:
 
@@ -302,7 +293,7 @@ If you wish to exercise your right to access, delete, or correct personal inform
 * [https://www.simplemobile.com/ccpa/home](https://www.simplemobile.com/ccpa/home)
 * [https://www.net10wireless.com/ccpa/home](https://www.net10wireless.com/ccpa/home)
 * [https://www.myfamilymobile.com/ccpa/home](https://www.myfamilymobile.com/ccpa/home)
-* [https://www.totalbyverizon.com/ccpa/home](https://www.totalbyverizon.com/ccpa/home)
+* [https://www.totalwireless.com/ccpa/home](https://www.totalwireless.com/ccpa/home)
 * [Safelink:](https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/myAccount/privacy) [https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
 * [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
 * [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
@@ -314,10 +305,8 @@ We may require you to verify your identity before we fulfill your request. For e
 You can learn how to exercise your right to opt out of the sale and sharing of personal information above under “Your Right to Opt Out of the Sale and Sharing of Personal Information.”
 
 We will endeavor to respond to your requests within 45 days, but it may take up to 90 days. If we need more than 45 days, we will contact you to let you know that we need additional time.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Reporting**
--------------
 
 California law requires businesses to report annually on the number of privacy requests they receive each year. TracFone received the following requests from consumers in 2023. Employee and contractor requests are included in [Verizon’s numbers](https://privacy.verizon.com/about/privacy/ccpa-reporting).
 
@@ -330,7 +319,6 @@ California law requires businesses to report annually on the number of privacy r
 | **Average Response Time (Days)** | 17  | 19  | <1  | <2  |
 
 **Other California Privacy Rights**
------------------------------------
 
 California Civil Code Section 1798.83 entitles California consumers to request, once per year, that we disclose the identity of any third parties to whom we have shared personal information for the third parties’ direct marketing purposes. If you wish to submit a request, you may write to us at privacy@tracfone.com or call us at 1-877-799-1999.
 
@@ -338,11 +326,11 @@ California Civil Code Section 1798.83 entitles California consumers to request, 
 
 If you have questions about your rights under California law or about our privacy policies and practices, email us at [privacy@tracfone.com](mailto:privacy@tracfone.com).
 
-**Colorado, Connecticut, Oregon, Texas, Utah and Virginia**
+**Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia**
 
-Colorado, Connecticut, Oregon, Texas, Utah and Virginia have comprehensive privacy laws that provide residents with additional specific rights.
+Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia have comprehensive privacy laws that may provide residents with additional specific rights.
 
-**Your right to know what personal information we collect, how we use and share it, and how long we keep it.** This privacy policy provides details about our collection and use practices. The state laws generally require that we provide you information about the categories of personal information we collect and the purposes for which we collect each category. This includes:
+**What personal information we collect, how we use and share it, and how long we keep it.** This privacy policy provides details about our collection and use practices. The state laws generally require that we provide you information about the categories of personal information we collect and the purposes for which we collect each category. This includes:
 
 * Contact and device information (including name, physical and email address, mobile device identifiers, IP address, account credentials, other similar identifiers); commercial information such as products and services you purchase or consider and financial information; internet or electronic network activity (including browsing history, search history on our site, information regarding our interactions with our websites, applications and advertisements, and your rewards program activity); contact, marketing lead, and other information we purchase or receive; fraud information; information from social media platforms when you interact with us via social media or use your social media login to interact with TracFone sites or offers; and demographic and interest data as well as device type, carrier, city and state information from third party data providers. We use this information to provide our products and services, operate our businesses, communicate with you and provide customer service; personalize your experiences; improve our services; provide marketing and advertising; create business insights; debug problems, audit our processes and services; short-term transient uses; research; and security, fraud, and legal compliance.
 * Geolocation data, including precise geolocation data from our apps when you permit it. We use this information for purposes including business operations; security and fraud protection and prevention; to personalize your experiences and our marketing; and for the specific purposes we describe to you when you opt in to the collection of precise geolocation data from our apps.
@@ -360,17 +348,17 @@ We retain information only as long as reasonably necessary for business, account
 
 Third parties we use to do work on our behalf may use information for the same purposes. We share information with service providers (also known as processors) as necessary for them to perform work for us. They are required to protect the information they receive from us or collect on our behalf and use it only for the specific purposes that we allow. We may also share information with others with your consent and as further described in other sections of this policy.
 
-We also may share information that identifies you with a partner who uses it to assist in your interactions with third parties. First, we may share personal information collected about you to confirm your identity when you are transacting with or signing into a third party service, such as your bank. Second, we may share personal information collected about you with third parties you are attempting to do business with to help make a credit decision on an application for service that you have submitted to a third party. This activity may be a sale of personal information under the state laws. We also allow select third parties to directly collect information about your activity on our websites and in our apps using cookies, mobile ad identifiers, pixels, web beacons, social network plugins and similar technologies to inform our and others’ cross contextual advertising. This activity may be considered targeted advertising under the state laws. For information about how to opt out of these activities, and to learn more about TracFone’s selling and targeted advertising activities, please visit our “Your Privacy Choices” pages links in the “Your Right to Opt Out of Selling Personal Information and Targeted Advertising” section below. We do not knowingly sell or share personal information related to children under 16 years of age.
+We also may share information that identifies you with a partner who uses it to assist in your interactions with third parties. First, we may share personal information collected about you to confirm your identity when you are transacting with or signing into a third party service, such as your bank. Second, we may share personal information collected about you with third parties you are attempting to do business with to help make a credit decision on an application for service that you have submitted to a third party. This activity may be a sale of personal information under the state laws. We also allow select third parties to directly collect information about your activity on our websites and in our apps using cookies, mobile ad identifiers, pixels, web beacons, social network plugins and similar technologies to inform our and others’ cross contextual advertising. This activity may be considered targeted advertising under the state laws. For information about how to opt out of these activities, and to learn more about TracFone’s selling and targeted advertising activities, please visit our “Your Privacy Choices” pages links in the “Your Ability to Opt Out of Selling Personal Information and Targeted Advertising” section below. We do not knowingly sell or share personal information related to children under 16 years of age.
 
-**Your rights to access and correct information.** You can access specific pieces and categories of personal information we collect as described below under “How to Submit Your Privacy Rights Request.” To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You also can request that we correct inaccurate personal information we have about you.
+**Your ability to access and correct information.** You can access specific pieces and categories of personal information we collect as described below under “How to Submit Your Privacy Request.” To the extent technically feasible, we will provide this information to you in a portable and readily usable format. You also can request that we correct inaccurate personal information we have about you.
 
-**Your right to delete information.** You can request that we delete personal information we have unless we need it for reasons specified in the privacy laws. Privacy laws describe these reasons slightly differently, but generally, they include: needing the information to provide the services you use and the internal operations needed to maintain an ongoing business relationship or perform a contract with you, maintaining information security, preventing fraud, and exercising our legal rights including defending against legal claims, complying with laws and cooperating with law enforcement in good faith. If you would like us to delete, you or your authorized agent may submit a request to delete. Instructions on how to submit this request can be found below under “How to Submit Your Privacy Rights Request.
+**Your ability to delete information.** You can request that we delete personal information we have unless we need it for reasons specified in the privacy laws. Privacy laws describe these reasons slightly differently, but generally, they include: needing the information to provide the services you use and the internal operations needed to maintain an ongoing business relationship or perform a contract with you, maintaining information security, preventing fraud, and exercising our legal rights including defending against legal claims, complying with laws and cooperating with law enforcement in good faith. If you would like us to delete, you or your authorized agent may submit a request to delete. Instructions on how to submit this request can be found below under “How to Submit Your Privacy Request.
 
-**Use of sensitive personal information.**These state laws prohibit us from using sensitive personal information without your consent, except as specified in the law. The reasons vary slightly within different Privacy laws, but generally include: complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction. We only use sensitive personal information as authorized by the law or after we obtain your express consent.
+**Use of sensitive personal information.** These state laws prohibit us from using sensitive personal information without your consent, except as specified in the law. The reasons vary slightly within different Privacy laws, but generally include: complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction. We only use sensitive personal information as authorized by the law or after we obtain your express consent.
 
-**Your right to tell us not to use personal information to create profiles about you that we use to inform decisions that have legal or similarly significant effects.** We do not use personal information to profile you to further decisions that have legal or similar significant effects.
+**Your ability to tell us not to use personal information to create profiles about you that we use to inform decisions that have legal or similarly significant effects.** We do not use personal information to profile you to further decisions that have legal or similar significant effects.
 
-**Your right to tell us not to sell personal information or process it for certain targeted advertising purposes.** The laws vary in the way they define sale and certain targeted advertising, but generally, they require that we provide you with the ability to limit activities that involve sharing personal information for monetary or other valuable consideration and using personal information about you from your activity across other websites or apps to target ads to you. The definitions do not cover all sharing of personal information. We do not knowingly sell personal information related to children under 16 years of age.
+**Your ability to tell us not to sell personal information or process it for certain targeted advertising purposes.** The laws vary in the way they define sale and certain targeted advertising, but generally, they require that we provide you with the ability to limit activities that involve sharing personal information for monetary or other valuable consideration and using personal information about you from your activity across other websites or apps to target ads to you. The definitions do not cover all sharing of personal information. We do not knowingly sell personal information related to children under 16 years of age.
 
 Our activity that falls under the definition of “sale” or “targeted advertising” under these state laws is:
 
@@ -386,7 +374,7 @@ To opt out of the sale of personal information, including for identity verificat
 * [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
 * [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
 * [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
-* [https://www.totalbyverizon.com/ccpa/home?reqType=dns](https://www.totalbyverizon.com/ccpa/home?reqType=dns)
+* [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
 * [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
 * [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
 
@@ -394,32 +382,31 @@ We also recognize that you are exercising your choice to opt out if you engage a
 
 If you are a member who is logged in to your account when using the GPC signal to opt out, we will apply your choice to block third-party ad technology, and we will also opt you out of any selling and sharing of personal information associated with your account.
 
-**Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state law. If you are a resident of Colorado, Connecticut, Oregon, Texas, or Virginia and we deny your request, we will notify you and you may submit an appeal using a link we provide. You also may submit an appeal of a decision we have made regarding your privacy rights by emailing us at privacy@tracfone.com. When submitting your appeal through email, use the word "APPEAL" in your subject line and provide your name, contact information including phone number, a description of the decision you are appealing, and the reason for your appeal.
+**Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state law. If you are a resident of Colorado, Connecticut, Montana, Oregon, Texas, or Virginia and we deny your request, we will notify you and you may submit an appeal using a link we provide. You also may submit an appeal of a decision we have made regarding your privacy rights by emailing us at privacy@tracfone.com. When submitting your appeal through email, use the word "APPEAL" in your subject line and provide your name, contact information including phone number, a description of the decision you are appealing, and the reason for your appeal.
 
-**You have the right to not be discriminated against.** We do not discriminate against you if you exercise any rights provided to you by state law. We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also have the right to receive information about any financial incentives we offer to you.
+**You will not be discriminated against.** We do not discriminate against you if you exercise any rights provided to you by state law. We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also may have the right to receive information about any financial incentives we offer to you.
 
-**How to Submit Your Privacy Rights Request**
----------------------------------------------
+**How to Submit Your Privacy Request**
 
-If you wish to exercise your right to access, delete, or correct personal information, you can make a request through your existing online account. You, if you do not have an existing account, or your authorized agent can submit a request by calling 1-877-799-1999 or submitting a request online at:
+If you wish to access, delete, or correct personal information, you can make a request through your existing online account. You, if you do not have an existing account, or your authorized agent can submit a request by calling 1-877-799-1999 or submitting a request online at:
 
 * [https://www.tracfone.com/ccpa/home](https://www.tracfone.com/ccpa/home)
 * [https://www.straighttalk.com/ccpa/home](https://www.straighttalk.com/ccpa/home)
 * [https://www.simplemobile.com/ccpa/home](https://www.simplemobile.com/ccpa/home)
 * [https://www.net10.com/ccpa/home](https://www.net10.com/ccpa/home)
 * [https://www.myfamilymobile.com/ccpa/home](https://www.myfamilymobile.com/ccpa/home)
-* [https://www.totalbyverizon.com/ccpa/home](https://www.totalbyverizon.com/ccpa/home)
+* [https://www.totalwireless.com/ccpa/home](https://www.totalwireless.com/ccpa/home)
 * [Safelink:](https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/myAccount/privacy) [https://www.privacy.tracfone.com/privacyhome?lang=en](https://www.privacy.tracfone.com/privacyhome?lang=en)
 * [https://www.gosmartmobile.com/ccpa/home](https://www.gosmartmobile.com/ccpa/home)
 * [https://www.pagepluscellular.com/privacy-rights/](https://www.pagepluscellular.com/privacy-rights/)
 
 We may require you to verify your identity before we fulfill your request. For example, you may have to prove access to your mobile phone or to an email address you provided to us.
 
-You can learn how to exercise your right to opt out of the sale of personal information or use of it for targeted advertising above under “Your Right to Opt Out of the Sale of Personal Information and Targeted Advertising.”
+You can learn how to exercise your ability to opt out of the sale of personal information or use of it for targeted advertising above under “Your Ability to Opt Out of the Sale of Personal Information and Targeted Advertising.”
 
 We will endeavor to respond to your requests within 45 days, but it may take up to 90 days. If we need more than 45 days, we will contact you to let you know that we need additional time.
 
-**Questions.** If you have questions about your rights under the Colorado, Connecticut, Oregon, Texas, Utah or Virginia state privacy laws or about our privacy policies and practices, email us at [privacy@tracfone.com](mailto:privacy@tracfone.com).
+**Questions.** If you have questions about your rights under the Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia state privacy laws or about our privacy policies and practices, email us at [privacy@tracfone.com](mailto:privacy@tracfone.com).
 
 **Nevada Privacy Rights**
 
@@ -429,14 +416,14 @@ TracFone may disclose information that identifies you with a partner who facilit
 
 To opt out please visit our Your Privacy Choices pages, available at:
 
-* https://www.tracfone.com/ccpa/home?reqType=dns
-* https://www.straighttalk.com/ccpa/home?reqType=dns
-* https://www.simplemobile.com/ccpa/home?reqType=dns
-* https://www.net10wireless.com/ccpa/home?reqType=dns
-* https://www.myfamilymobile.com/ccpa/home?reqType=dns
-* https://www.totalbyverizon.com/ccpa/home?reqType=dns
-* https://www.safelinkwireless.com/en/#!/ypc
-* https://www.gosmartmobile.com/ccpa/home?reqType=dns
+* [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
+* [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+* [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
+* [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
+* [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
+* [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
+* [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+* [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
 
 **Additional Information for Oregon Residents**
 
@@ -446,7 +433,12 @@ TracFone Wireless, Inc. is registered as active with the Oregon Secretary of Sta
 
 We may make changes to this Policy, so please check back periodically. When we do, we will revise the effective date above. If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our Privacy Policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt out.
 
-### **How to Contact Us**
+**Recent Changes:** We review and update our Privacy Policy to reflect the changes that come with the development of new products, services, technologies and uses of information. In addition, we occasionally make organizational, stylistic and grammatical changes to make our policy easier to read. Below you’ll find an overview of the changes that have been made recently.
+
+* September 2024: We made changes to the state privacy law section of our privacy policy including to add information about a new privacy law in Montana. We also updated branding and links that consumers can use to submit privacy requests.
+* June 2024: We made changes to clarify and provide more details about the information we may collect through your interactions with us. We also made changes to better explain how we leverage cookies, pixels, web beacons, tags, scripts and other website technology, and how system apps on certain devices operate. Finally, we consolidated descriptions of similar state laws to make the state law section easier to navigate and use, and we added information about new privacy laws in Oregon and Texas.
+
+**How to Contact Us**
 
 Please direct any questions or comments regarding this Privacy Policy to:
 
@@ -460,10 +452,7 @@ Washington, DC 20005
 
 ×
 
-**Cookies, Pixels, Web Beacons, Tags, Scripts and Similar Technologies**
-========================================================================
-
-Cookies, pixels, web beacons, tags, scripts and similar technologies are tools that websites can use for a variety of purposes. Examples of the ways we use these tools include improving website and app security, authenticating you, detecting and deterring fraud, improving site performance, improving site navigation and fixing bugs, recognizing you as a registered user and remembering your settings and preferences, site analytics and providing more personalized content. Third parties that we allow to operate on our site use the data they collect for the same purposes or may use the information to help determine what parts of our sites or emails are more interesting to you to better provide our advertising on other sites and apps. These providers may also combine information they obtain from our site with information they collect from other sites to better target our brand and other advertisements to you.
+Cookies, pixels, web beacons, tags, scripts and similar technologies are tools that websites can use for a variety of purposes. Examples of the ways we use these tools include improving website and app security, authenticating you, detecting and deterring fraud, improving site performance, improving site navigation and fixing bugs, recognizing you as a registered user and remembering your settings and preferences, site analytics and providing more personalized content. Third parties that we allow to operate on our site use the data they collect for the same purposes or may use the information to help determine what parts of our sites or emails are more interesting to you to better provide Verizon advertising on other sites and apps. These providers may also combine information they obtain from our site with information they collect from other sites to better target Verizon and other advertisements to you.
 
 **Cookies.** A cookie consists of data that is written on your computer browser when you visit a website. A cookie’s value usually includes a unique user identifier which enables websites and third parties whose code is present on the website to recognize your browser and maintain information about your visit to the site. This enables us to customize your experience and reach you with relevant advertising on other sites, apps and devices. “Cookies” include various types of data stored in the browser such as HTTP cookies and HTML Web Storage
 
@@ -471,28 +460,27 @@ Cookies, pixels, web beacons, tags, scripts and similar technologies are tools t
 
 **Website data scripts and tags.** We may embed website scripts or tags (small snippets of code) to record and send data about how users experience our website. Website scripts and tags may be used to optimize and measure marketing campaigns and segment user profiles and for troubleshooting. For example, session replay technology may be used to help us better understand how our users interact with our site (including mouse movements, and clicks, and scroll depth). When we use session replay service providers, they are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
 
-**Social networks and other third-party plug-ins and widgets.** Our sites also include social network or other third-party plug-ins and widgets that may provide information back to their associated social networks or third-parties about the pages you visit, even if you do not click on or otherwise interact with the plug-in or widget and regardless of whether you have an account or other relationship with these social networks and third-parties. If you use social network tools or visit social networking sites, you should read their privacy disclosures and learn about your choices.
+**Social networks and other third-party plug-ins and widgets.** Verizon sites also include social network or other third-party plug-ins and widgets that may provide information back to their associated social networks or third-parties about the Verizon page you visit, even if you do not click on or otherwise interact with the plug-in or widget and regardless of whether you have an account or other relationship with these social networks and third-parties. If you use social network tools or visit social networking sites, you should read their privacy disclosures and learn about your choices.
 
 **Your Choices**
 
-You can limit the sharing of website information when the use is for certain types of targeted advertising. Visit the Your Privacy Choices page at the bottom of your brand’s website to learn about how you can opt out. This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals.
+You can limit the sharing of website information when the use is for certain types of targeted advertising. Visit Your Privacy Choices ![](/content/dam/straighttalk/icons/footer-icons/privacyoptions.png) at the bottom of your brand’s website to learn about how you can opt out. This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals.
 
 The Digital Advertising Alliance provides you the ability to prevent the use of third party cookies or advertising identifiers to provide interest-based advertising to you across the sites, apps and devices you use. You can opt out of this type of interest-based advertising at the [DAA opt out page](http://optout.aboutads.info/). You can opt out for mobile apps on your mobile device. Apple devices allow apps to include interest-based advertising only if you opt in using the app’s pop-up notice. You can change your choice using Apple device settings. On Android devices, you can opt out using your device setting to “Opt out of Ads Personalization”.
 
 You can also manage cookies using features and functions available on most Internet browsers that allow you to delete or disable cookies and even choose what types of cookies may be placed on your device. More information about cookie controls for specific browsers can be found here:
 
+You can also use your mobile device settings to manage whether your device advertising identifier is available to apps or third parties. More information about using these settings can be found here:
+
 * [Microsoft Edge browsers](http://support.microsoft.com/kb/278835)
 * [Chrome browsers](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop)
 * [Apple Safari browsers](http://www.apple.com/safari/features.html#security)
 * [Mozilla Firefox browsers](http://kb.mozillazine.org/Cookies)
-
-You can also use your mobile device settings to manage whether your device advertising identifier is available to apps or third parties. More information about using these settings can be found here:
-
-* [Android](https://support.google.com/android/answer/12461628?hl=en) (on some phones these options will be under “Google” in settings)
-* [iOS](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
+    * [Android](https://support.google.com/android/answer/12461628?hl=en) (on some phones these options will be under “Google” in
+    * [iOS](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
 
 Please be aware that disabling cookies may prevent you from using specific features on our sites and other sites, such as ordering products or services and maintaining an online account.
 
 Please note that some of the controls described above are device or browser-based. You will need to record your choices on each device or browser where you want them to be in place. In addition, your opt-outs may be stored via cookies. If you clear your cookies, please check to make sure your opt-outs are in place.
 
-Updated: July, 2024
+Updated: September, 2024
