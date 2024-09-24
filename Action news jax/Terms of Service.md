@@ -4,7 +4,7 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[73°
+[88°
 
 ![Fair](/pf/resources/images/weather/status-icons/34.png?d=859)](https://www.actionnewsjax.com/weather/)
 
@@ -337,11 +337,7 @@ You agree to indemnify and hold us and our Affiliates, Service Providers and our
 
 This Agreement has been made in and shall be construed in accordance with the laws of the State of Georgia, without regard to its conflicts of laws rules, except to the extent governed by federal law.
 
-[](https://www.actionnewsjax.com/station/contest-watch-action-news-jax-weeknights-6-pm-win-500-gate-gas-card/NQROJPQHSNCJHKB6UKWMTHWPDA/)
-
 [](https://www.actionnewsjax.com/mobile-apps/)
-
-[](https://www.actionnewsjax.com/sports/nascar/contest-enter-win-tickets-coke-zero-sugar-400/LQWQ5PWNZVFB5LQB2XT64DANEM/)
 
 [](https://www.actionnewsjax.com/getapet/)
 
