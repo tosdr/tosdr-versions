@@ -64,12 +64,11 @@ Legislation & Compliance 
 
 ### [Terms of Use (Personal) ->](https://wire.com/en/terms-of-use-personal)
 
-### [Terms of Use (Business) ->](https://wire.com/en/terms-of-use-personal-0)
+### [Terms of Use (Business) ->](https://wire.com/en/terms-of-use-business)
 
 ### [Data Processing Addendum ->](https://wire.com/en/data-processing-addendum)
 
-### [License  
-Information ->](https://wire.com/en/license-information)
+### [License Information ->](https://wire.com/en/license-information)
 
 [![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
 
