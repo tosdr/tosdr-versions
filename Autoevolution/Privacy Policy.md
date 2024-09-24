@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![F1: Why Verstappen's Silent Protest Was the Perfect Response to a Weak FIA President](https://s1.cdn.autoevolution.com/images/news/formula-1why-verstappen-s-silent-protest-was-the-perfect-response-to-a-weak-fia-president-240223-5.jpg "F1: Why Verstappen's Silent Protest Was the Perfect Response to a Weak FIA President")
+[![Uncrewed Military Vehicle Gets Autonomous Brain That Was Bred as a Texas Trucker](https://s1.cdn.autoevolution.com/images/news/uncrewed-military-vehicle-gets-autonomous-brain-that-was-bred-as-a-texas-trucker-240261-5.jpg "Uncrewed Military Vehicle Gets Autonomous Brain That Was Bred as a Texas Trucker")
 
-F1: Why Verstappen's Silent Protest Was the Perfect Response to a Weak FIA President](https://www.autoevolution.com/news/formula-1why-verstappen-s-silent-protest-was-the-perfect-response-to-a-weak-fia-president-240223.html)
+Uncrewed Military Vehicle Gets Autonomous Brain That Was Bred as a Texas Trucker](https://www.autoevolution.com/news/uncrewed-military-vehicle-gets-autonomous-brain-that-was-bred-as-a-texas-trucker-240261.html)
 
 how-to \_
 
