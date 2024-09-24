@@ -31,6 +31,109 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Qué día se celebra Halloween? 
+===============================
+
+Halloween es una de las festividades más populares del mundo. ¿Cuándo se celebra y por qué se eligió esa fecha?
+---------------------------------------------------------------------------------------------------------------
+
+![Halloween tiene sus raíces en la cultura celta y en la festividad de Samaín. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/halloween-fecha.jpg)
+
+**Halloween** tiene sus raíces en la **cultura celta** y en la **‘Víspera del Día de Todos los Santos’**. La festividad, en sus comienzos, significó un momento clave para **honrar a los difuntos**, creencia heredada de los **gaélicos**.
+
+### Más noticias
+
+* [¿Qué es la lengua de señas y en qué consiste su efeméride?](https://www.elcomercio.com/tendencias/salud/dia-internacional-lenguas-senas-efemeride.html "https://www.elcomercio.com/tendencias/salud/dia-internacional-lenguas-senas-efemeride.html")
+* [¿Por qué es importante sumarse al Día Mundial sin Auto?](https://www.elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html "https://www.elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html") 
+
+Con el tiempo, Halloween **combinó tradiciones celtas con elementos cristianos**, y su popularidad creció en Estados Unidos gracias a la **inmigración irlandesa**. En el siglo XX, el cine y la televisión impulsaron su internacionalización, convirtiéndola en **una de las celebraciones más difundidas del mundo**. 
+
+**En esta fecha se celebra Halloween** 
+---------------------------------------
+
+Este 2024, Halloween se celebrará el jueves 31 de octubre. La festividad tiene sus raíces en la **‘Víspera del Día de Todos los Santos’** y comparte similitudes con el **‘Día de los Muertos’**. Según [National Geographic](https://www.nationalgeographic.es/ciencia/halloween-disfraces-historia-mitos-y-mucho-mas "https://www.nationalgeographic.es/ciencia/halloween-disfraces-historia-mitos-y-mucho-mas"), **las culturas gaélicas** creían que las almas de los muertos caminaban entre las cosechas antes de partir al más allá, por lo que **esta fecha se convirtió en un momento clave para honrar a los fallecidos**. 
+
+La festividad, según algunos historiadores, reemplazó al **Día de los Santos Mártires**, impuesto por la **Iglesia Católica en Europa**. Las personas se disfrazaban de muertos para **rendir homenaje a los mártires cristianos**, quienes fueron perseguidos por su fe en la época romana. Estas tradiciones, como el uso de calabazas y el **‘dulce o truco’**, se popularizaron en **Estados Unidos en el siglo XIX gracias a la migración irlandesa**. 
+
+A lo largo del tiempo, Halloween ha sido objeto de rumores que la vinculan con prácticas paganas o brujería, aunque no existen pruebas que lo confirmen. **La celebración, en realidad, es una mezcla de leyendas y costumbres** que perduran como parte de la cultura popular en muchos países. 
+
+**Origen de Halloween** 
+------------------------
+
+El **origen de Halloween** está profundamente arraigado en la **cultura celta**. Según [Voz de América](https://www.vozdeamerica.com/a/por-que-halloween-celebra-31-octubre/7334223.html "https://www.vozdeamerica.com/a/por-que-halloween-celebra-31-octubre/7334223.html"), la festividad conocida como **Samaín**, que significa “fin del verano”, marcaba el **fin de la temporada cálida y la llegada del invierno**. Durante este periodo, las noches comenzaban a alargarse y la oscuridad simbolizaba el dominio sobre la luz. 
+
+Samaín, **celebrado a finales de octubre**, representaba la transición de las estaciones. La caída de las hojas de los árboles era vista como un **símbolo de muerte**, pero también de renacimiento.  
+
+**Los celtas** creían que el 31 de octubre los difuntos regresaban al mundo de los vivos, un aspecto que más tarde influiría en la **festividad de Todos los Santos**, celebrada el 1 de noviembre. Este vínculo entre ambas fechas es lo que dio origen al término **“Halloween”**, una contracción de la expresión inglesa “All Hallows Eve”, que significa “víspera de Todos los Santos”. 
+
+En el siglo VIII, el **Papa Gregorio III** trasladó la festividad de **Todos los Santos** al 1 de noviembre. Antes de este cambio, **se conmemoraba en mayo**. Así, Halloween se estableció como una festividad anterior a esta fecha, y se combinaron **tradiciones celtas con influencias cristianas**. 
+
+**¿Desde cuándo se celebra Halloween?** 
+----------------------------------------
+
+**Estados Unidos** ha sido clave en la popularización de **Halloween** a nivel mundial, principalmente a través de su cine y televisión. De acuerdo con la revista [AS](https://as.com/tikitakas/2019/10/31/portada/1572508661_816556.html "https://as.com/tikitakas/2019/10/31/portada/1572508661_816556.html"), **la festividad llegó a Norteamérica en 1840 gracias a los inmigrantes irlandeses**, pero no fue hasta 1921 cuando se celebró el primer **desfile de Halloween en Minnesota**, lo que marcó el inicio de su expansión masiva en el país. 
+
+Durante las décadas posteriores, **la celebración ganó cada vez más popularidad.** En los años 70, Halloween se consolidó internacionalmente gracias a la influencia de las series de televisión y el cine.  
+
+La internalización de Halloween como una celebración global ha sido impulsada por la **exportación de la cultura estadounidense**, que sigue siendo la principal referencia de esta fiesta en todo el mundo. 
+
+Así funciona el Pico y placa en Quito este martes 24 de septiembre
+==================================================================
+
+La AMT es la entidad encargada de controlar la medida del Pico y placa en Quito.
+--------------------------------------------------------------------------------
+
+![La medida del Pico y placa rige dentro de Quito en horas clave.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-Quito-martes.jpg)
+
+La medida del **Pico** y **placa** sigue vigente en **Quito** para restringir la **movilidad** de ciertos vehículos un día de la semana, según el último dígito del registro metálico.
+
+Más noticias
+------------
+
+* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
+* [¿Por qué es importante sumarse al Día Mundial sin Auto?](https://www.elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html "¿Por qué es importante sumarse al Día Mundial sin Auto? ")
+* [Municipio de Quito lanza un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/visualizador-siniestros-transito-municipio-quito.html "Municipio de Quito lanza un visualizador de siniestros de tránsito")
+
+El personal de la Agencia Metropolitana de Tránsito (**AMT**) es responsable de supervisar el cumplimiento de la medida de **Pico** y **Placa** en **Quito**, regulando la circulación vehicular según las restricciones establecidas para mejorar el **tráfico** en la ciudad.
+
+El esquema de aplicación del Pico y placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un horario de 06:00 a 09:30 y en la tarde, de 16:00 a 20:00.
+
+Según el último dígito de la placa, el cronograma es el siguiente:
+
+* Lunes: placas terminadas en 1 y 2.
+* Martes: placas terminadas en 3 y 4.
+* Miércoles: placas terminadas en 5 y 6.
+* Jueves: placas terminadas en 7 y 8.
+* Viernes: placas terminadas en 9 y 0.
+
+Este **martes**, los vehículos con placas terminadas en **3 y 4** no podrán circular dentro de **Quito**.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es esencial tener la **licencia** y la **matrícula vigentes**.
+
+Si tu **licencia** está **caducada**, debes seguir estos pasos para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está próxima a **caducarse** y tu turno es aún lejano, puedes mostrar impreso el **turno** cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio** de Quito insta a los conductores a cumplir con las restricciones del **Pico** y **placa** para mejorar el **flujo vehicular** en las **horas pico**.
+
+Planificar los recorridos y verificar que todos los documentos estén en regla es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
 La sequía no se superará con lluvias esporádicas
 ================================================
 
@@ -41,9 +144,7 @@ El aporte ciudadano es muy importante para minimizar los efectos de este severo 
 
 Las **lluvias** que cayeron la madrugada del domingo 22 de septiembre en **Cuenca** generaron entusiasmo en **Ecuador**.
 
-Pero la sequía que atraviesa el **Austro** no se resuelve con precipitaciones esporádicas.
-
-Esas lluvias no representaron un mayor aporte ante la magnitud del estiaje.
+Pero la sequía que atraviesa el **Austro** no se resuelve con precipitaciones esporádicas. Esas lluvias no representaron un mayor aporte ante la magnitud del estiaje.
 
 Para ilustrar se puede hacer la siguiente analogía. Sería como tener una deuda de 10 000 dólares y recibir un ingreso de 100 dólares. Contribuyen, pero alcanza para salir del problema.
 
@@ -55,43 +156,11 @@ Los caudales de los ríos están disminuyendo y ubicándose en los niveles regis
 
 Ante ese escenario, no solo debemos esperar que los otros den una solución. Como **ciudadanos** tenemos que actuar desde nuestro espacio con ahorro de los recursos.
 
-En Cuenca, que registra su tercer período de sequía en los últimos 12 meses, aún se observan personas lavando sus automotores. El Alcalde cuencano pidió hace casi un mes, que la ciudadanía ahorre agua. Al inicio se logró un 10%.
+En Cuenca, que registra su tercer período de sequía en los últimos 12 meses, aún se observan personas lavando sus automotores. El Alcalde cuencano pidió, hace casi un mes, que la ciudadanía ahorre agua. Al inicio se logró un 10%.
 
 Esta **crisis hídrica** es un llamado a la acción. Es imperativo implementar estrategias efectivas para la gestión del agua y fomentar una cultura de conservación.
 
 La situación actual no solo refleja un **problema ambiental inmediato**, sino también un desafío a largo plazo que requiere colaboración y compromiso colectivo para asegurar un futuro sostenible.
-
-Herrera Ordóñez y su credo del “eterno retorno”
-===============================================
-
-La creación visual de Pedro sigue los cánones surrealistas, enriquecidos por el digitalismo.
---------------------------------------------------------------------------------------------
-
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
-
-“Tengo algo que decir me digo/ Y me hincho de pájaros por fuera/ Labios que caen como espejos. Aquí./ Allá dentro las distancias se reúnen./ Este norte o este sur son un ojo./ Vivo alrededor de mí mismo”, García Lorca.
-
-El **tiempo** ha corrido en el taller de **Pedro Herrera Ordóñez** (Carchi, 1956). No están más su trípode, **cámaras**, luces y más **utensilios fotográficos**; ahora usa para su arte una computadora y un iPhone con el cual ha empezado a cautivar **paisajes**.
-
-Lo conocí finalizando los setenta del siglo que dejamos. La cabeza y la barba negras, alborotadas, los ojos vivaces del **cazador** que escudriña oscuridades, dedicado a la **fotografía** y al arte plástico. Utilizando las cámaras como su principal instrumento, imprimía sus **fotografías** con “modelos” en lienzo y después las intervenía con **fotomontajes**, _collages_ fotográficos, **ejercicios texturales**, pigmentos, con una cosmovisión surrealista que lo indujo a dedicar su **primera exposición** individual a **André Breton**, patriarca del surrealismo.
-
-**Estampas** oníricas de sus primeros pasos, desbordantes de **símbolos**, con ese **atributo** insólito del inconsciente que brota en aire de sueño y poesía: _Ninfa delirante de los_ _sueños No 1_: una mujer desnuda yace sobre las **inmemoriales** piedras de un **pasillo** conventual, sus brazos abiertos y sus piernas cruzadas como crucificada. Detrás, una **bóveda** que se pierde en un **corredor** inacabable. **Soledades**, ausencias, voces, ecos rondan por esa mujer jesucristina.
-
-**Universo** onírico el suyo, un **elemento** sugiere el otro con el cual aparencialmente no guarda ninguna relación, idéntico a lo que ocurre en el inescrutable cosmos de los **sueños**. Otras piezas singulares de su primer período: un frasco enconchado donde navegaban peces, junto a un reloj **naufragante** que daba las 12 de un tiempo congelado, mientras la noche se refundía entre el agua y el silencio. Alusiones sibilinas de un camino (el del ser humano), **abrumado** por el tiempo, su **inapelable** y corrosiva presencia.
-
-La creación visual de Pedro sigue los **cánones** **surrealistas**, enriquecidos por el **digitalismo**. El **comportamiento** surrealista es intemporal. Breton lo dijo: “Heráclito es **surrealista** en la dialéctica… Baudelaire en la **moral**… Rimbaud en la **práctica** de **vida**, y en otras cosas”. Pedro abre las puertas de los sueños para llegar, junto a su obra, al **automatismo** y para ver, desde él, tal cual es el mundo, bajo la proclama de sentirnos liberados. Esta es su **propuesta cardinal**.
-
-En otra de sus series, Pedro abordó la **clonación**. Una mujer despojada de su **linaje** de hacedora de **vida** es un ente acaso inútil que deambula sin **rumbo**. Está sola y su **vientre** vacío.
-
-Entre sus **ciclos** se consagraron _La **geometría** sagrada_ y su _Eterno retorno_. **Metáfora** del ordenamiento del **universo**, la primera. Aproximación a ese **alfabeto enigmático** que es el prontuario de sistemas, **códigos** y símbolos que subyacen como eviterna fuente de vida de la **materia** y del espíritu. Intento vigoroso de acceder a la _cosmodernidad_. **Ciencia** y **religión** amalgamadas. David Christian, en 2012, patentó el término _cosmodernidad_, con base a la teorización de Fred Spier. La **complejidad** ontológica, a medida que avanzan **ciencia** y **tecnología** a ritmo de vértigo, se acrecienta hasta lo ilímite.
-
-Pedro abreva en libros e **investigaciones** suficientes conocimientos para levantar su **registro visual** de esta corriente. **Energía** que se siente pero no se razona. Fractalidad: sistema de **decodificación** de las **disímiles** formas que se reproducen a **escalas** **progresivas**. Rastreo de lo sagrado, no como propio de lo religioso, sino del ser humano.
-
- _Eterno retorno_. Caminamos cíclicamente y en espiral ascendente hacia aquello que nombramos destino. A lomo del **viento** vamos dejando huellas de nuestros latidos y sueños, plenitudes y vacíos. Luces obnubilantes y **sombras**. Génesis de todas las formas. **Zonas mistéricas** de la mente que se abren a manotazos a la sobrevida o, si se quiere, a la **inmortalidad** que aún nadie nos ha probado que existe, salvo la fe.
-
-Pedro es un terco **rastreador** de la verdad de su **arte** y de la **vida**. Pocos llevan ese signo. Por eso, a pulso de su **oficio** creador, ha logrado un sitio en nuestras **artes visuales** y su obra sigue exponiéndose en **museos** y **galerías** de nuestra América, Estados Unidos y Europa.
-
-“Lo que la mano ha tomado ni siquiera/ se digna tomar la forma de la mano,/ lo que ha sido comprendido ya no existe,/ el pájaro se ha confundido con el viento,/ el cielo con su verdad,/ el hombre con su realidad”, Paul Éluard.
 
 Cartas a Quito / 24 de septiembre de 2024
 =========================================
@@ -139,6 +208,38 @@ Por otro lado, la **revolución** del trabajo autónomo también abre la puerta 
 La **revolución** del **trabajo autónomo** impulsada por la IA no es algo que sucederá en un **futuro** lejano; ya está aquí y está transformando nuestra **sociedad**. Como **innovadores**, **emprendedores** y líderes, tenemos la responsabilidad de guiar este cambio, no solo para maximizar los **beneficios tecnológicos**, sino para asegurar que esta **revolución** genere una sociedad más justa y **equitativa**. La **inteligencia artificial** puede ser el mayor aliado del ser humano, siempre y cuando sea utilizada con **visión**, **ética** y un sentido claro de propósito.
 
 Este es el momento de **actuar**. El **futuro** del trabajo no está escrito, es nuestra **oportunidad**, como **país** y como **sociedad**, de liderar la próxima gran transformación global… ojalá entendamos eso en **Ecuador**.
+
+Herrera Ordóñez y su credo del “eterno retorno”
+===============================================
+
+La creación visual de Pedro sigue los cánones surrealistas, enriquecidos por el digitalismo.
+--------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+“Tengo algo que decir me digo/ Y me hincho de pájaros por fuera/ Labios que caen como espejos. Aquí./ Allá dentro las distancias se reúnen./ Este norte o este sur son un ojo./ Vivo alrededor de mí mismo”, García Lorca.
+
+El **tiempo** ha corrido en el taller de **Pedro Herrera Ordóñez** (Carchi, 1956). No están más su trípode, **cámaras**, luces y más **utensilios fotográficos**; ahora usa para su arte una computadora y un iPhone con el cual ha empezado a cautivar **paisajes**.
+
+Lo conocí finalizando los setenta del siglo que dejamos. La cabeza y la barba negras, alborotadas, los ojos vivaces del **cazador** que escudriña oscuridades, dedicado a la **fotografía** y al arte plástico. Utilizando las cámaras como su principal instrumento, imprimía sus **fotografías** con “modelos” en lienzo y después las intervenía con **fotomontajes**, _collages_ fotográficos, **ejercicios texturales**, pigmentos, con una cosmovisión surrealista que lo indujo a dedicar su **primera exposición** individual a **André Breton**, patriarca del surrealismo.
+
+**Estampas** oníricas de sus primeros pasos, desbordantes de **símbolos**, con ese **atributo** insólito del inconsciente que brota en aire de sueño y poesía: _Ninfa delirante de los_ _sueños No 1_: una mujer desnuda yace sobre las **inmemoriales** piedras de un **pasillo** conventual, sus brazos abiertos y sus piernas cruzadas como crucificada. Detrás, una **bóveda** que se pierde en un **corredor** inacabable. **Soledades**, ausencias, voces, ecos rondan por esa mujer jesucristina.
+
+**Universo** onírico el suyo, un **elemento** sugiere el otro con el cual aparencialmente no guarda ninguna relación, idéntico a lo que ocurre en el inescrutable cosmos de los **sueños**. Otras piezas singulares de su primer período: un frasco enconchado donde navegaban peces, junto a un reloj **naufragante** que daba las 12 de un tiempo congelado, mientras la noche se refundía entre el agua y el silencio. Alusiones sibilinas de un camino (el del ser humano), **abrumado** por el tiempo, su **inapelable** y corrosiva presencia.
+
+La creación visual de Pedro sigue los **cánones** **surrealistas**, enriquecidos por el **digitalismo**. El **comportamiento** surrealista es intemporal. Breton lo dijo: “Heráclito es **surrealista** en la dialéctica… Baudelaire en la **moral**… Rimbaud en la **práctica** de **vida**, y en otras cosas”. Pedro abre las puertas de los sueños para llegar, junto a su obra, al **automatismo** y para ver, desde él, tal cual es el mundo, bajo la proclama de sentirnos liberados. Esta es su **propuesta cardinal**.
+
+En otra de sus series, Pedro abordó la **clonación**. Una mujer despojada de su **linaje** de hacedora de **vida** es un ente acaso inútil que deambula sin **rumbo**. Está sola y su **vientre** vacío.
+
+Entre sus **ciclos** se consagraron _La **geometría** sagrada_ y su _Eterno retorno_. **Metáfora** del ordenamiento del **universo**, la primera. Aproximación a ese **alfabeto enigmático** que es el prontuario de sistemas, **códigos** y símbolos que subyacen como eviterna fuente de vida de la **materia** y del espíritu. Intento vigoroso de acceder a la _cosmodernidad_. **Ciencia** y **religión** amalgamadas. David Christian, en 2012, patentó el término _cosmodernidad_, con base a la teorización de Fred Spier. La **complejidad** ontológica, a medida que avanzan **ciencia** y **tecnología** a ritmo de vértigo, se acrecienta hasta lo ilímite.
+
+Pedro abreva en libros e **investigaciones** suficientes conocimientos para levantar su **registro visual** de esta corriente. **Energía** que se siente pero no se razona. Fractalidad: sistema de **decodificación** de las **disímiles** formas que se reproducen a **escalas** **progresivas**. Rastreo de lo sagrado, no como propio de lo religioso, sino del ser humano.
+
+ _Eterno retorno_. Caminamos cíclicamente y en espiral ascendente hacia aquello que nombramos destino. A lomo del **viento** vamos dejando huellas de nuestros latidos y sueños, plenitudes y vacíos. Luces obnubilantes y **sombras**. Génesis de todas las formas. **Zonas mistéricas** de la mente que se abren a manotazos a la sobrevida o, si se quiere, a la **inmortalidad** que aún nadie nos ha probado que existe, salvo la fe.
+
+Pedro es un terco **rastreador** de la verdad de su **arte** y de la **vida**. Pocos llevan ese signo. Por eso, a pulso de su **oficio** creador, ha logrado un sitio en nuestras **artes visuales** y su obra sigue exponiéndose en **museos** y **galerías** de nuestra América, Estados Unidos y Europa.
+
+“Lo que la mano ha tomado ni siquiera/ se digna tomar la forma de la mano,/ lo que ha sido comprendido ya no existe,/ el pájaro se ha confundido con el viento,/ el cielo con su verdad,/ el hombre con su realidad”, Paul Éluard.
 
 Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas
 ===========================================================================
@@ -865,121 +966,3 @@ El domingo 29, desde las 15:00, **Delfín será local en el Jocay para recibir a
 
 No te pierdas – El Confesionario
 --------------------------------
-
-Horarios de cortes de luz en Quito, este martes 24 de septiembre
-================================================================
-
-Los cortes de luz en Quito tendrán las mismas franjas horarias desde el martes hasta el viernes.
-------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en esta ciudad son establecidos por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/05/cortes-luz-mayo-ecuador.jpg)
-
-Los **cortes de luz** para **Quito** y el resto del país se mantendrán este **martes 24 de septiembre de 2024**.
-
-Entre el martes 24 y el viernes 27 de septiembre, las franjas horarias de los cortes de luz en Quito **no variarán** por sector.
-
-### Más noticias:
-
-* [Cortes de luz dependen de las lluvias, según el Ministro de Energía](https://www.elcomercio.com/actualidad/negocios/ministro-gobierno-cortes-luz-ecuador-lluvia.html "Cortes de luz dependen de las lluvias, según el Ministro de Energía")
-* [Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre](https://www.elcomercio.com/actualidad/ecuador/guayaquil-cortes-de-luz-martes-24-septiembre.html "Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre")
-
-La Empresa Eléctrica Quito (EEQ) fijó cortes de luz de 02:00 a 04:00, 08:00 a 13:00 y de 17:00 a 20:00 para nueve sectores.
-
-Aquí están: Luluncoto, Chilibulo, Miraflores, La Floresta, Río Coca, Cristianía, Epiclachima, Conocoto, Tumbaco.
-
-Los cortes de luz de 04:00 a 09:00, de 17:00 a 20:00 y de 22:00 a 00:00 van para seis sectores.
-
-La Carolina, Nueva Cumbayá, Mirador Alto, Los Bancos, Pérez Guerrero y El Obraje (Machachi).
-
-De 05:00 a 10:00, de 14:00 a 19:00 y de 22:00 a 00:00 no tendrán luz siete sectores.
-
-Estos son: Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao, Inga Bajo.
-
-13 sectores no tendrán luz de 00:00 a 05:00, 09:00 a 14:00 y 18:00 a 20:00.
-
-Aquí están: Olímpico, Barrio Nuevo, San Roque, El Bosque, San Antonio, Alangasí, San Rafael, Iñaquito, Santa Rosa, Sangolquí, Pomásqui, El Quinche y Eugenio Espejo.
-
-Finalmente, de 00:00 a 05:00 y de 15:00 a 20:00, los cortes de luz se aplicarán en 14 sectores.
-
-Corresponden a estos horarios: Olímpico, Luluncoto, Chilibulo, Escuela Sucre, San Roque, Granda Centeno, Río Coca.
-
-Además, Andalucía, Cotocollao, Conocoto, Alangasí, Iñaquito, Santa Rosa e Inga Bajo.
-
-El detalle de cada sector y sus subdivisiones los puede revisar en el siguiente gráfico:
-
-La **EEQ** aclara que, los horarios de la suspensión del servicio eléctrico están sujetos a la variabilidad o mejora de la situación.
-
-Por esta razón, el **lapso de tiempo de los cortes energéticos** podría disminuir.
-
-11 claves para comprender el escándalo de P. Diddy
-==================================================
-
-Te resumimos el caso del famoso rapero arrestado el lunes 16 de septiembre.
----------------------------------------------------------------------------
-
-![P. Diddy fue arrestado el 16 de septiembre de 2024. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/09/p.diddy-El-comercio.jpg)
-
-El famoso **rapero y productor Sean Combs**, **Puff Daddy o P. Diddy**, fue detenido en un hotel de Manhattan.
-
-Ha sido acusado de delitos relacionados con el tráfico sexual y otras actividades delictivas, lo que ha desatado una tormenta mediática en torno a su persona y su imperio. Te contamos todo a continuación.
-
-1\. Acusaciones graves
-----------------------
-
-Las acusaciones se extienden a lo largo de más de una década. Se le acusa de **tráfico sexual, abuso, coacción y conspiración** para cometer extorsión.
-
-Según los documentos judiciales, habría utilizado su posición de poder para controlar y abusar de múltiples mujeres. Los fiscales han descrito su conducta como un patrón sistemático de abuso prolongado.
-
-2\. Un imperio empresarial bajo sospecha
-----------------------------------------
-
-P. Diddy, conocido por su imperio en la música y la moda, es acusado de utilizar sus empresas y empleados para facilitar los crímenes. Las pruebas incluyen testimonios de víctimas que detallan cómo el violador las sometía a su control, bajo amenazas y promesas de oportunidades profesionales.
-
-3\. Drogas, armas y aceite de bebé
-----------------------------------
-
-Entre las pruebas incautadas en los registros de las propiedades de Combs en Miami y Los Ángeles, destacan más de **mil botellas de aceite de bebé**. Además, se encontraron drogas y armas.
-
-4\. Las escandalosas “Freak Off Parties”
-----------------------------------------
-
-Uno de los elementos más perturbadores del caso son las “**Freak Off Parties**” que P. Diddy organizó desde 2009. Estos eventos, según varias fuentes, eran fiestas lujosas en las que las drogas y la coacción sexuales eran moneda corriente. Famosos y celebridades habrían asistido.
-
-5\. El príncipe Harry en el radar
----------------------------------
-
-En un giro inesperado, los documentos judiciales mencionan al **príncipe Harry** en relación con las actividades de Combs. Aunque no se le acusa de ningún delito, se sugiere que su presencia en algunos de los eventos del rapero contribuyó a atraer a otros participantes de alto perfil.
-
-6\. Cassie, el detonante del escándalo
---------------------------------------
-
-El caso de Diddy comenzó a ganar fuerza tras un acuerdo con su exnovia Cassie, quien lo acusó de abusos sexuales. Aunque el acuerdo llegó antes de un juicio, parece haber servido como catalizador para que otras víctimas salieran a la luz.
-
-7\. Un juicio mediático en ciernes
-----------------------------------
-
-Aunque aún no hay fecha confirmada, los expertos anticipan que, debido a la gravedad del caso, podría celebrarse a principios de 2025. De ser hallado culpable, las penas para Combs podrían oscilar entre 15 años de prisión y cadena perpetua.
-
-8\. Los cargos que enfrenta
----------------------------
-
-Entre los delitos de los que se le acusa, destacan secuestro, tráfico sexual, extorsión, obstrucción a la justicia y fraude. Los fiscales han reunido un caso sólido con testimonios de más de 50 personas, entre víctimas y testigos.
-
-9\. Su relación con Penélope Cruz
----------------------------------
-
-El rapero y Penélope Cruz participaron juntos en el año 2000 en una campaña de moda de la marca de Combs. Cruz también asistió a una de sus fiestas en Saint Tropez. Su química alimentó el rumor de un romance, aunque ninguno lo confirmó nunca.
-
-10\. ¿Abusó de Justin Bieber?
------------------------------
-
-Recientes teorías en redes sociales han vinculado a Diddy con el **cantante Justin Bieber** y sugieren que el rapero podría haber abusado de él en su adolescencia. Este tema ha explotado en plataformas como TikTok y X (antes Twitter), donde fans de Bieber han desempolvado vídeos antiguos que muestran al joven cantante en distintos momentos con Diddy.
-
-Los fans señalan la relación del rapero con otras estrellas jóvenes, como **Usher**, quien también vivió momentos controvertidos bajo la tutela de Diddy. Este nuevo frente añade aún más tensión al complejo caso del rapero.
-
-11\. Jennifer Lopez y su relación con Diddy
--------------------------------------------
-
-Entre 1999 y 2001, Diddy mantuvo una **relación con Jennifer Lopez**. Este romance terminó tras rumores de infidelidad por parte de Diddy, lo que provocó una crisis emocional en JLo, declaró en 2003.
-
-Ambos también estuvieron involucrados en un tiroteo en Nueva York, donde tres personas resultaron heridas. Aunque López fue liberada sin cargos, Diddy se enfrentó a un juicio por porte de armas, pero fue declarado inocente. Su compañero, el rapero Shyne, no tuvo la misma suerte y fue condenado a 10 años de prisión.
