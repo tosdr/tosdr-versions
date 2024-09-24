@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![This Travel Trailer-Inspired Tiny Home Is Appropriately Equipped for Full-Time Living](https://s1.cdn.autoevolution.com/images/news/this-travel-trailer-inspired-tiny-home-is-appropriately-equipped-for-full-time-living-240226-5.jpg "This Travel Trailer-Inspired Tiny Home Is Appropriately Equipped for Full-Time Living")
+[![MLB Speedway Classic: A Major League Baseball Game in the Infield of a Historic Racetrack](https://s1.cdn.autoevolution.com/images/news/mlb-speedway-classic-a-major-league-baseball-game-in-the-infield-of-a-historic-racetrack-240231-5.jpg "MLB Speedway Classic: A Major League Baseball Game in the Infield of a Historic Racetrack")
 
-This Travel Trailer-Inspired Tiny Home Is Appropriately Equipped for Full-Time Living](https://www.autoevolution.com/news/this-travel-trailer-inspired-tiny-home-is-appropriately-equipped-for-full-time-living-240226.html)
+MLB Speedway Classic: A Major League Baseball Game in the Infield of a Historic Racetrack](https://www.autoevolution.com/news/mlb-speedway-classic-a-major-league-baseball-game-in-the-infield-of-a-historic-racetrack-240231.html)
 
 how-to \_
 
