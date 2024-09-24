@@ -21,7 +21,7 @@
     * [POPIA (South Africa)](https://cookie-script.com/legal-information/south-africa-s-protection-of-personal-information-act "POPIA (South Africa)")
     
     * The basics
-    * [34 languages](https://cookie-script.com/documentation/cookie-consent-on-multilingual-website "34 languages")
+    * [42 languages](https://cookie-script.com/documentation/cookie-consent-on-multilingual-website "42 languages")
     * [User consents recording](https://cookie-script.com/record-visitor-consents.html "User consents recording")
     * [Third-party cookie blocking](https://cookie-script.com/all-you-need-to-know-about-third-party-cookies.html "Third-party cookie blocking")
     * [Geo targeting](https://cookie-script.com/geo-targeting "Geo targeting")
