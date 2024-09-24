@@ -1,4 +1,4 @@
-This is the Trace Id: 5573aa74dbf880eadf56e56228a4251b
+This is the Trace Id: 47ba7b0af899ba1fa62cead61e382eda
 
    
 
@@ -79,6 +79,7 @@ Privacy
         * [Microsoft Rewards](https://www.microsoft.com/rewards)
         * [Free downloads & security](https://www.microsoft.com/en-us/download)
         * [Education](https://www.microsoft.com/en-us/education)
+        * [Gift cards](https://www.microsoft.com/en-us/store/b/gift-cards)
         * [Licensing](https://www.microsoft.com/licensing/)
         * [Unlocked stories](https://unlocked.microsoft.com/)
     * [View Sitemap](https://www.microsoft.com/en-us/sitemap.aspx)
