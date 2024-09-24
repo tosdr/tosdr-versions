@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do nursing homes deal with understaffing?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-how-do-nursing-homes-deal-with-understaffing-300x200-1.jpg "How Do Nursing Homes Deal With Understaffing?")](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/ "How Do Nursing Homes Deal With Understaffing?")
+[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
 
-[#### How Do Nursing Homes Deal With Understaffing?](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/)
+[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
 
-[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
+[![Do you always lose weight with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-do-you-always-lose-weight-with-lung-cancer.jpg "Do You Always Lose Weight with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/ "Do You Always Lose Weight with Lung Cancer?")
 
-[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
+[#### Do You Always Lose Weight with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/)
 
-[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
+[![Can mesothelioma spread to other organs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-can-mesothelioma-spread-to-other-organs.jpg "Can Mesothelioma Spread to Other Organs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/ "Can Mesothelioma Spread to Other Organs?")
 
-[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
+[#### Can Mesothelioma Spread to Other Organs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/)
 
 ### Injured?  
 Tell Us What Happened.
