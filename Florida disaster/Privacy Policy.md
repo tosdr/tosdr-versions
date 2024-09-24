@@ -152,6 +152,7 @@ Search
     * [Make a Pet Plan](https://www.floridadisaster.org/planprepare/pets/)
     * [Make an Evacuation Plan](https://www.floridadisaster.org/planprepare/make-an-evacuation-plan/)
     * [Know Your Zone, Know Your Home](https://www.floridadisaster.org/planprepare/know-your-zone-know-your-home/)
+    * [University Preparedness](https://www.floridadisaster.org/planprepare/University/)
     * [Planning for Your Home](https://www.floridadisaster.org/planprepare/home/)
         * [Make a Plan for Manufactured Homes](https://www.floridadisaster.org/planprepare/home/manufacturedhomes/)
         * [Gas Utilities](https://www.floridadisaster.org/planprepare/home/gas-utilities/)
