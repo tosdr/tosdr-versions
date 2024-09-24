@@ -101,7 +101,7 @@
     * [Cruelty-Free Database](https://crueltyfree.peta.org/?en_txn7=Navigation::Shop-Subnav "Cruelty-Free Database")
     * [Literature](https://www.petaliterature.com/?en_txn7=Navigation::Shop-Subnav "Literature")
     * [PETA Shopping Guide](https://www.petashoppingguide.com/?en_txn7=Navigation::Shop-Subnav "PETA Shopping Guide")
-    * [PETA Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
+    * [PETA-Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
     * [PETA Presents](https://presents.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA Presents")
     
 * [About](https://www.peta.org/about-peta/ "About")
@@ -188,7 +188,7 @@
     * [Cruelty-Free Database](https://crueltyfree.peta.org/?en_txn7=Navigation::Shop-Subnav "Cruelty-Free Database")
     * [Literature](https://www.petaliterature.com/?en_txn7=Navigation::Shop-Subnav "Literature")
     * [PETA Shopping Guide](https://www.petashoppingguide.com/?en_txn7=Navigation::Shop-Subnav "PETA Shopping Guide")
-    * [PETA Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
+    * [PETA-Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
     * [PETA Presents](https://presents.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA Presents")
     
 * [About](https://www.peta.org/about-peta/ "About")
@@ -511,7 +511,7 @@ International Sites
 
 Share Post [Donate](https://headlines.peta.org/donate/ "Donate")
 
-[Text CRAZY to 73822 to take action for chimpanzees suffering in human homes & roadside zoos! Then watch Chimp Crazy, HBO’s new docuseries to learn more.](sms:73822?&body=CRAZY)
+**Text [EGYPT to 73822](sms:73822?&body=EGYPT) to urge Egyptian officials to stop using horses & camels at the pyramids. They are routinely beaten & denied sufficient food!**
 
 Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
