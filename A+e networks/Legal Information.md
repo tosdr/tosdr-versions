@@ -70,7 +70,7 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
-    [![Hearst Networks UK GPTW Badges](/s3/files/styles/card_tablet/public/2024-09/GPTW%20Logos%20jpg.jpg?itok=h5Ihxga2)
+    [![Hearst Networks UK GPTW ](/s3/files/styles/card_tablet/public/2024-09/September%20-%20GPTW%20EMEA%20PR_2.jpg?itok=SaLx8iBj)
 
 24 September 2024
 
