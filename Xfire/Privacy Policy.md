@@ -49,7 +49,7 @@ About Xfire
 
  Search
 
-Straight-shooting video game news & reviews
+Reviews: [PS5](https://www.xfire.com/game-platform/playstation5/) | [PC](https://www.xfire.com/game-platform/pc/) | [Xbox](https://www.xfire.com/game-platform/xbox-series-x/) | [Switch](https://www.xfire.com/game-platform/nintendo-switch/)
 
 Privacy Policy
 ==============
