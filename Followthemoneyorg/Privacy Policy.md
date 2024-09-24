@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Gun-Control Groups Loaded in Washington State](/assets/Images/teasers/full/WA-Gun-Control-Measures-2014.png)](http://www.followthemoney.org/research/blog/gun-control-groups-loaded-in-washington-state/)
+[![disclosure map](/assets/logos/isrequirementsmap.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
+
+How does your state stack up for essential disclosure requirements?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
