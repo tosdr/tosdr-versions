@@ -153,6 +153,38 @@ Switch to
             * [Razer Thunderbolt Cables](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-cables)
             
         
+    * Desktops & Components
+        
+        Explore
+        -------
+        
+        * [All Desktop & Components](https://www.razer.com/pc/gaming-desktops-and-components)
+        * [Case Fans](https://www.razer.com/gaming-pc-accessories/razer-kunai-chroma)
+        * [Fan & RGB Controller](https://www.razer.com/gaming-pc-accessories/razer-pwm-pc-fan-controller)
+        * [Gaming Cases](https://www.razer.com/pc/gaming-desktops-and-components/cases)
+        * [Liquid Cooling](https://www.razer.com/gaming-pc-accessories/razer-hanbo-chroma)
+        * [Power Supplies](https://www.razer.com/gaming-pc-accessories/razer-katana-chroma)
+        * [Core X eGPU](https://www.razer.com/gaming-egpus/razer-core-x)
+        * [Cables](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-cables)
+        * [Compare](https://www.razer.com/shop/pc/gaming-desktops-and-cases)
+        * [Accessories](https://www.razer.com/pc/gaming-pc-accessories)
+        
+    * Gamer Room
+        
+        Explore
+        -------
+        
+        * [All Gamer Room](https://www.razer.com/pc/gamer-room)
+        
+        Product Line
+        ------------
+        
+        * [Razer Aether Monitor Light Bar](https://www.razer.com/gamer-room-lights/razer-aether-monitor-light-bar)
+        * [Razer Aether Lamp Pro](https://www.razer.com/gamer-room-lights/razer-aether-lamp-pro)
+        * [Razer Aether Lamp](https://www.razer.com/gamer-room-lights/razer-aether-lamp)
+        * [Razer Aether Light Strip](https://www.razer.com/gamer-room-lights/razer-aether-light-strip)
+        * [Razer Aether Light Bulb](https://www.razer.com/gamer-room-lights/razer-aether-light-bulb)
+        
     * Mice
         
         Explore
@@ -528,38 +560,6 @@ Switch to
             * [Razer Nommo V2 X](https://www.razer.com/gaming-speakers/razer-nommo-v2-x)
             
         * [Compare](https://www.razer.com/shop/audio/gaming-speakers)
-        
-    * Desktop & Components
-        
-        Explore
-        -------
-        
-        * [All Desktop & Components](https://www.razer.com/pc/gaming-desktops-and-components)
-        * [Case Fans](https://www.razer.com/gaming-pc-accessories/razer-kunai-chroma)
-        * [Fan & RGB Controller](https://www.razer.com/gaming-pc-accessories/razer-pwm-pc-fan-controller)
-        * [Gaming Cases](https://www.razer.com/pc/gaming-desktops-and-components/cases)
-        * [Liquid Cooling](https://www.razer.com/gaming-pc-accessories/razer-hanbo-chroma)
-        * [Power Supplies](https://www.razer.com/gaming-pc-accessories/razer-katana-chroma)
-        * [Core X eGPU](https://www.razer.com/gaming-egpus/razer-core-x)
-        * [Cables](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-cables)
-        * [Compare](https://www.razer.com/shop/pc/gaming-desktops-and-cases)
-        * [Accessories](https://www.razer.com/pc/gaming-pc-accessories)
-        
-    * Gamer Room
-        
-        Explore
-        -------
-        
-        * [All Gamer Room](https://www.razer.com/pc/gamer-room)
-        
-        Product Line
-        ------------
-        
-        * [Razer Aether Monitor Light Bar](https://www.razer.com/gamer-room-lights/razer-aether-monitor-light-bar)
-        * [Razer Aether Lamp Pro](https://www.razer.com/gamer-room-lights/razer-aether-lamp-pro)
-        * [Razer Aether Lamp](https://www.razer.com/gamer-room-lights/razer-aether-lamp)
-        * [Razer Aether Light Strip](https://www.razer.com/gamer-room-lights/razer-aether-light-strip)
-        * [Razer Aether Light Bulb](https://www.razer.com/gamer-room-lights/razer-aether-light-bulb)
         
     * Content Creation
         
