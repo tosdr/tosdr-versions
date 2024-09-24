@@ -28,22 +28,22 @@ Topics
 * [Reddit User Agreement if you live in the United States or outside the EEA, United Kingdom, and Switzerland](#text-content1)
 * [Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland](#text-content2)
 
-Revisions Sep 16, 2024 Feb 15, 2024 Sep 25, 2023 Jun 19, 2023 Sep 12, 2021 Oct 15, 2020
+Revisions Sep 24, 2024 Sep 16, 2024 Feb 15, 2024 Sep 25, 2023 Jun 19, 2023 Sep 12, 2021 Oct 15, 2020
 
-All User Agreement Privacy Policy Content Policy Moderator Code of Conduct Cookie Notice Premium and Virtual Goods Agreement Previews Terms of Use Creator Terms Developer Terms Data API Terms Embeds Terms of Use Trademark Use Policy Transparency Guidelines for Law Enforcement Reddit's Anti-Slavery and Human Trafficking Statement Contributor Monetization Policy Contributor Terms Developer Data Protection Addendum Machine Readable Files Swedish (SE) English (US) Deutsch (DE) Français (FR) Español (MX) Español (ES) Português (BR) Português (PT) Italiano Dutch (NL)
+All User Agreement Privacy Policy Content Policy Moderator Code of Conduct Cookie Notice Econ Terms Previews Terms of Use Creator Terms Developer Terms Data API Terms Embeds Terms of Use Trademark Use Policy Transparency Guidelines for Law Enforcement Reddit's Anti-Slavery and Human Trafficking Statement Earn Policy Earn Terms Developer Data Protection Addendum Machine Readable Files English (US) Deutsch (DE) Français (FR) Español (MX) Español (ES) Português (BR) Português (PT) Italiano Dutch (NL) Swedish (SE)
 
 Reddit User Agreement
 =====================
 
-Effective September 16, 2024. Last Revised August 16, 2024
+Effective September 24, 2024. Last Revised September 24, 2024
 
   
 
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
-* If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#hello-redditors-and-people-of-the-internet-this).
+* If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#non-eea).
     
-* If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#us-hello-redditors-and-people-of-the-internet-this).
+* If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#EEA).
     
 
 * * *
@@ -183,7 +183,7 @@ If we remove Your Content in response to a copyright or trademark notice, we wil
 
 ### 10\. Paid Services
 
-There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms, the [Reddit Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) also applies to Paid Services. By purchasing or using Paid Services, you further agree to the [Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) and, if applicable, the [Previews Terms of Use](https://www.redditinc.com/policies/previews-terms).  
+There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms, the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) also apply to Paid Services. By purchasing or using Paid Services, you further agree to the [Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) and, if applicable, the [Previews Terms](https://www.redditinc.com/policies/previews-terms).  
 
 ### 11\. Intellectual Property
 
@@ -217,15 +217,15 @@ We may make changes to these Terms from time to time. If we make changes, we wil
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
-* If you use any Paid Services, you must also agree to the [Reddit Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
+* If you use any Paid Services, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
     
-* If you use any preview features, you must also agree to the [Reddit Previews Terms of Use](https://www.redditinc.com/policies/previews-terms).
+* If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms).
     
-* If you use the self-service platform for advertising, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+* If you advertise on the Services, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
     
 * If you use any of our Developer Services (including our APIs), you must also agree to the [Reddit Developer Terms](https://www.redditinc.com/policies/developer-terms).
     
-* If you participate in any Reddit program that is subject to Additional Terms (e.g., [Contributor Terms](https://www.redditinc.com/policies/contributor-terms) for our Contributor Program), you must also agree to those Additional Terms.
+* If you participate in any Reddit program that is subject to Additional Terms (e.g., [Earn Terms](https://www.redditinc.com/policies/contributor-terms) for any Earnings Program), you must also agree to those Additional Terms.
     
 
 ### 17\. Termination
@@ -387,7 +387,7 @@ If we remove Your Content in response to a copyright or trademark notice, we wil
 
 ### 10\. Paid Services
 
-There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms the [Reddit Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) also applies to Paid Services. By purchasing or using Paid Services, you further agree to the [Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) and, if applicable, the [Previews Terms of Use](https://www.redditinc.com/policies/previews-terms).  
+There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) also apply to Paid Services. By purchasing or using Paid Services, you further agree to the [Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement) and, if applicable, the [Previews Terms](https://www.redditinc.com/policies/previews-terms).  
 
 ### 11\. Intellectual Property
 
@@ -409,15 +409,15 @@ We may make changes to these Terms from time to time. If we make changes, we wil
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
-* If you use any Paid Services, you must also agree to the [Reddit Premium and Virtual Goods Agreement](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
+* If you use any Paid Services, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
     
-* If you use any preview features, you must also agree to the [Reddit Previews Terms of Use](https://www.redditinc.com/policies/previews-terms).
+* If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms).
     
-* If you use the self-service platform for advertising, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+* If you advertise on the Services, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
     
 * If you use any of our Developer Services (including our APIs), you must also agree to the [Reddit Developer Terms](https://www.redditinc.com/policies/developer-terms).
     
-* If you participate in any Reddit program that is subject to Additional Terms (e.g., [Contributor Terms](https://www.redditinc.com/policies/contributor-terms) for our Contributor Program), you must also agree to those Additional Terms.
+* If you participate in any Reddit program that is subject to Additional Terms (e.g., [Earn Terms](https://www.redditinc.com/policies/contributor-terms) for any Earnings Program), you must also agree to those Additional Terms.
     
 
 ### 16\. Termination
