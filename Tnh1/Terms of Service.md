@@ -214,23 +214,23 @@ Educação
 
 Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef
 
-Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-divulga-passo-a-passo-do-pagamento-dos-precatorios-do-fundef/ "Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef")[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
+Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-divulga-passo-a-passo-do-pagamento-dos-precatorios-do-fundef/ "Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef")[![Tiros durante comício deixam um morto e dois feridos no interior de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_Roiberto_comicio_f4fc606981.png)
 
-A tiros
+Joaquim Gomes
 
-A tiros
+Joaquim Gomes
 
-Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará
+Tiros durante comício deixam um morto e dois feridos no interior de Alagoas
 
-Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
+Tiros durante comício deixam um morto e dois feridos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tiros-durante-comicio-deixam-um-morto-e-dois-feridos-no-interior-de-alagoas/ "Tiros durante comício deixam um morto e dois feridos no interior de Alagoas ")[![Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_Carteira_Trabalho_678afd39ea.jpg)
 
-Foi denunciada
+Confira quais
 
-Foi denunciada
+Confira quais
 
-Cervejaria é interditada por irregularidades após operação policial no Feitosa
+Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)
 
-Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")
+Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)](https://www.tnh1.com.br/noticia/nid/mais-de-1-mil-vagas-de-emprego-sao-ofertadas-em-cinco-municipios-de-al-a-partir-desta-segunda-23/ "Mais de 1 mil vagas de emprego são ofertadas em cinco municípios de AL a partir desta segunda (23)")
 
 [![Casal de idosos tem reencontro emocionante após internação na UTI por 2 semanas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_casal-idosos-se-reencontra-reproducao-instagram_522a458897.jpg)
 
