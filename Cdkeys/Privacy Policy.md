@@ -560,7 +560,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Ready or Not PC](https://www.cdkeys.com/pc/ready-or-not-pc-steam "Ready or Not PC")**
     
-    Special Price $28.59 RRP $59.79
+    Special Price $28.69 RRP $60.09
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -570,7 +570,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[FINAL FANTASY XVI COMPLETE EDITION PC](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam "FINAL FANTASY XVI COMPLETE EDITION PC")**
     
-    Special Price $61.79 RRP $86.39
+    Special Price $62.09 RRP $86.79
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -580,7 +580,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
-    Special Price $9.99 RRP $33.19
+    Special Price $9.99 RRP $33.39
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -590,7 +590,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Frostpunk 2 PC](https://www.cdkeys.com/pc/frostpunk-2-pc-steam "Frostpunk 2 PC")**
     
-    Special Price $31.59 RRP $50.49
+    Special Price $31.79 RRP $50.69
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -600,7 +600,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[God of War Ragnarök Deluxe Edition PC](https://www.cdkeys.com/pc/god-of-war-ragnarok-deluxe-edition-pc-steam "God of War Ragnarök Deluxe Edition PC")**
     
-    Special Price $59.79 RRP $79.79
+    Special Price $60.09 RRP $80.09
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -610,7 +610,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Squad PC](https://www.cdkeys.com/pc/squad-pc-steam "Squad PC ")**
     
-    Special Price $24.59 RRP $53.19
+    Special Price $24.69 RRP $53.39
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -620,7 +620,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Test Drive Unlimited Solar Crown - Gold Edition PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-gold-edition-pc-steam "Test Drive Unlimited Solar Crown - Gold Edition PC")**
     
-    Special Price $49.19 RRP $93.09
+    Special Price $49.39 RRP $93.39
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -630,7 +630,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[EA Sports FC 25 - 12000 FC Points Xbox (WW)](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-12000-fc-points-xbox-ww "EA Sports FC 25 - 12000 FC Points Xbox (WW)")**
     
-    Special Price $82.99 RRP $116.99
+    Special Price $82.99 RRP $117.49
     
     [Add to Wish List](# "Add to Wish List")
     
