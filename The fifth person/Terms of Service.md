@@ -1,4 +1,4 @@
-Tuesday, September 24 2024
+Wednesday, September 25 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -179,6 +179,14 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/us-dollar-220x150.jpg)](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
+    
+    [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
+    
+    2 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
     
     [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
@@ -192,14 +200,6 @@ Quick Guides
     [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
     3 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/09/us-dollar-220x150.jpg)](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
-    
-    [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
-    
-    1 day ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
