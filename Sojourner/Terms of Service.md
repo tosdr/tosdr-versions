@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e475be710014fe699decd01f59d68192
+d76681e5b7051d0efa10c92204ff6631
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![16 mm to 18 mm peachy irregular pearls](https://sojourner.biz/images/cache/pearls/PE0052.200.jpg)](https://sojourner.biz/beads/pearls/16-mm-to-18-mm-peachy-irregular-pearls.html "16 mm to 18 mm peachy irregular pearls")
+[![Simple pearl earrings](https://sojourner.biz/images/cache/E0029.200.jpg)](https://sojourner.biz/jewelry/earrings/simple-pearl-earrings.html "Simple pearl earrings")
 
-#### [16 mm to 18 mm peachy irregular pearls](https://sojourner.biz/beads/pearls/16-mm-to-18-mm-peachy-irregular-pearls.html "16 mm to 18 mm peachy irregular pearls")
+#### [Simple pearl earrings](https://sojourner.biz/jewelry/earrings/simple-pearl-earrings.html "Simple pearl earrings")
 
-$15.00
+$30.00
 
 ### Best Sellers
 
