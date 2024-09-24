@@ -47,8 +47,8 @@
     
     * [Español – Comience](https://www.spl.org/using-the-library/get-started/get-started-in-spanish "Español – Comience")
     * [简体中文 -入门介绍](https://www.spl.org/using-the-library/get-started/get-started-in-chinese "简体中文 -入门介绍")
+    * [繁體中文 - 入門介紹](https://www.spl.org/using-the-library/get-started/get-started-in-chinese-trad "繁體中文 - 入門介紹")
     * [Tiếng Việt – Hãy bắt đầu](https://www.spl.org/using-the-library/get-started/get-started-in-vietnamese "Tiếng Việt – Hãy bắt đầu")
-    * [af Soomaali – Halkan ka bilow](https://www.spl.org/using-the-library/get-started/get-started-in-somali "af Soomaali – Halkan ka bilow")
     
     * * *
     
@@ -136,7 +136,7 @@
     * [About Us](https://www.spl.org/about-us)
     * [Ask Us](https://www.spl.org/using-the-library/ask-us "Ask Us")
     * [Accessibility](https://www.spl.org/using-the-library/accessibility "Accessibility Information")
-    * [Get Started](https://www.spl.org/using-the-library/get-started-x10116 "Get Started")
+    * [Get Started](https://www.spl.org/using-the-library/get-started "Get Started")
     * [Manage Your Account](https://www.spl.org/using-the-library/manage-your-account "Manage Your Account")
     * [Plan a Visit](https://www.spl.org/using-the-library/plan-a-visit "Plan a Visit")
     * [Using this Website](https://www.spl.org/using-the-library/using-this-website "Using this Website")
