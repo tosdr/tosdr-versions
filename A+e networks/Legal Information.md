@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
+    [![Hearst Networks UK GPTW Badges](/s3/files/styles/card_tablet/public/2024-09/GPTW%20Logos%20jpg.jpg?itok=h5Ihxga2)
+
+24 September 2024
+
+### HEARST NETWORKS UK EARNS GREAT PLACE TO WORK CERTIFICATION™ FOR 3rd YEAR IN A ROW](https://www.aenetworks.tv/news/uk/hearst-networks-uk-earns-great-place-work-certificationtm-3rd-year-row)
+
     [![evision x Hearst Networks](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/Hearst%20Networks%20x%20evision%20Release%20Image%20jpg.jpg?VersionId=Mtoz2g1VJs6YYa_ltCb7MxO8ToDZ2iHS&itok=WzUXiTWz)
 
 17 September 2024
@@ -87,12 +93,6 @@ Latest news
 11 September 2024
 
 ### AWARD WINNING LIGHTBOX PRODUCING A NEW HISTORICAL DRAMA SERIES FOR SKY HISTORY](https://www.aenetworks.tv/news/uk/award-winning-lightbox-producing-new-historical-drama-series-sky-history)
-
-    [![Crime + Investigation Channel Refresh](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/Crime%20%2B%20Investigtion%20Refresh.jpg?VersionId=Sd5jsW14CPXYQWOKl2pLQsbdiRz7DtSv&itok=ADZL-wXo)
-
-10 September 2024
-
-### A+E NETWORKS EMEA ANNOUNCES BRAND REFRESH FOR CRIME+INVESTIGATION® CHANNEL ACROSS EMEA](https://www.aenetworks.tv/news/ae-networks-emea-announces-brand-refresh-crimeinvestigationr-channel-across-emea)
 
 Corporate
 ---------
