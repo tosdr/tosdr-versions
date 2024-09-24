@@ -68,6 +68,8 @@ Alludo processes Personal Data when you install and register one of our Products
 * your preferred language
 * for CorelDRAW subscriptions only, profile ID
 * for cloud service products: Azure AD user information, including User Principal Name and Group IDs, Azure profile information, and name/title of your connecting environment.
+* for Parallels Desktop Business and Enterprise Edition to aid administrators in license management: computer name, user name, and activation date.
+* for Parallels Desktop Enterprise Edition for virtual machine management: virtual machine names, virtual machine operating system, and last use date.
 
 We request certain "**Product Registration Data**" during registration of our Products, including (items in bold are mandatory):
 
@@ -341,6 +343,8 @@ The use of information received from Google APIs adheres to the [Chrome Web Stor
 
 Information for WinZip and MindManager users connecting to their Google drive via an API: all operations that are performed between the user’s computer and the Google cloud use the HTTPS protocol and security procedures are in place to protect the confidentiality of the users\` data.
 
+Google Workspace APIs are not used to develop, improve, or train generalized AI and/or machine learning models.
+
 ### 12\. YouTube Uploads
 
 Certain video editing Products offer users the ability to upload user videos onto YouTube. To facilitate this, Alludo utilizes YouTube API Services. Use of this feature by users is subject to the YouTube [Terms of Service](https://www.youtube.com/t/terms) and the [Google Privacy Policy](https://policies.google.com/privacy).
@@ -361,7 +365,7 @@ To exercise your rights regarding Personal Data (as described above in this Priv
 
 We strongly encourage you to use the form at the link, to ensure the most efficient handling of your submission. Please do not use this form to report technical problems or to raise other issues that are not directly related to data privacy or this Privacy Statement.
 
-Last Updated: July 2024
+Last Updated: September 2024
 
 * [](https://twitter.com/helloalludo "Alludo Twitter")
 * [Facebook](http://www.facebook.com/helloalludo "Alludo Facebook")
