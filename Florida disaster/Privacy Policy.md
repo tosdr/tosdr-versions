@@ -165,7 +165,7 @@ Search
 * [News & Media](https://www.floridadisaster.org/news-media/)
     * [News Archive](https://www.floridadisaster.org/news-media/news/)
 * [Disaster Updates](https://www.floridadisaster.org/disaster-updates/)
-    * [Potential Tropical Cyclone Nine](https://www.floridadisaster.org/disaster-updates/storm-updates/)
+    * [Tropical Storm Helene](https://www.floridadisaster.org/disaster-updates/storm-updates/)
     * [Hurricane Debby Updates](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
     * [June South Florida Flash Flooding Updates](https://www.floridadisaster.org/disaster-updates/june-south-florida-flash-flooding/)
     * [May North Florida Severe Weather Updates](https://www.floridadisaster.org/disaster-updates/may-north-florida-severe-weather/)
@@ -187,7 +187,7 @@ Search
 
  ![](/Content/images/icon-menu.png) MENU
 
-Potential Tropical Cyclone Nine [Updates](https://www.floridadisaster.org/disaster-updates/storm-updates/)
+Tropical Storm Helene [Updates](https://www.floridadisaster.org/disaster-updates/storm-updates/)
 
 Hurricane Debby [For Recovery Information](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
 
