@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Elevate your data strategy: From cookies to universal consent & preferences](https://www.onetrust.com/resources/elevate-your-data-strategy-from-cookies-to-universal-consent-preferences-webinar/)
 * [Proven ROI with OneTrust](https://www.onetrust.com/resources/proven-roi-with-onetrust/)
 * [Discover the economic benefits of OneTrust](https://www.onetrust.com/resources/discover-the-economic-benefits-of-onetrust-report/)
-* [The complete guide to third-party management](https://www.onetrust.com/resources/the-complete-guide-to-third-party-management-ebook/)
 
 ### Platform
 
