@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Florida storm live updates: Watches expand as Potential Tropical Cyclone Nine expected to strengthen](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/PTC9.png?ve=1&tl=1)
+ [![Swarm of bees in North Richland Hills sends man, woman to hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/Bees.jpg?ve=1&tl=1)
 
- ![Florida storm live updates: Watches expand as Potential Tropical Cyclone Nine expected to strengthen](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/PTC9.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
+ ![Swarm of bees in North Richland Hills sends man, woman to hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/Bees.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
 
-### [Florida storm live updates: Watches expand as Potential Tropical Cyclone Nine expected to strengthen](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
+### [Swarm of bees in North Richland Hills sends man, woman to hospital](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
 
- [![Fort Worth ISD superintendent’s contract under review](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1)
+ [![Trump assassination attempt suspect's son charged with possessing child sexual abuse images, FBI says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Ryan-Routh.jpg?ve=1&tl=1)
 
- ![Fort Worth ISD superintendent’s contract under review](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-isd-superintendent-contract-review)
+ ![Trump assassination attempt suspect's son charged with possessing child sexual abuse images, FBI says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Ryan-Routh.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/son-trump-assassination-attempt-suspect-charged)
 
-### [Fort Worth ISD superintendent’s contract under review](https://www.fox4news.com/news/fort-worth-isd-superintendent-contract-review)
+### [Trump assassination attempt suspect's son charged with possessing child sexual abuse images, FBI says](https://www.fox4news.com/news/son-trump-assassination-attempt-suspect-charged)
 
- [![Last full-size Kmart in US to close](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/04620D707E9349DF99D623092287D0D5.jpg?ve=1&tl=1)
+ [![Live updates: Tropical Storm Helene forms, expected to hit Florida as major hurricane](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/PTC9.png?ve=1&tl=1)
 
- ![Last full-size Kmart in US to close](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/04620D707E9349DF99D623092287D0D5.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/last-full-size-kmart-us-close)
+ ![Live updates: Tropical Storm Helene forms, expected to hit Florida as major hurricane](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/PTC9.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
 
-### [Last full-size Kmart in US to close](https://www.fox4news.com/news/last-full-size-kmart-us-close)
+### [Live updates: Tropical Storm Helene forms, expected to hit Florida as major hurricane](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
 
- [![Most Hispanic Americans support abortion access, AP-NORC poll finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-538614862.jpg?ve=1&tl=1)
+ [![Watch: Coldplay frontman sings new song in disguise at Vegas bar](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Chris-Martin-Coldplay.jpg?ve=1&tl=1)
 
- ![Most Hispanic Americans support abortion access, AP-NORC poll finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-538614862.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hispanic-americans-abortion-access-ap-norc-poll-2024)
+ ![Watch: Coldplay frontman sings new song in disguise at Vegas bar](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Chris-Martin-Coldplay.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-coldplay-frontman-sings-new-song-disguise)
 
-### [Most Hispanic Americans support abortion access, AP-NORC poll finds](https://www.fox4news.com/news/hispanic-americans-abortion-access-ap-norc-poll-2024)
+### [Watch: Coldplay frontman sings new song in disguise at Vegas bar](https://www.fox4news.com/news/watch-coldplay-frontman-sings-new-song-disguise)
 
- [![SMU student allegedly assaulted in dorm room, suspects wanted](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/smu-assault-suspects.jpg?ve=1&tl=1)
+ [![University Park, Southlake among US cities with the highest-earning middle class](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V_FIRST-WX-_-UNIVERSITY-PARK-6P_KDFW32e7_711_mxf_00.00.18.20.jpg?ve=1&tl=1)
 
- ![SMU student allegedly assaulted in dorm room, suspects wanted](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/smu-assault-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/smu-dorm-room-assault)
+ ![University Park, Southlake among US cities with the highest-earning middle class](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V_FIRST-WX-_-UNIVERSITY-PARK-6P_KDFW32e7_711_mxf_00.00.18.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/university-park-southlake-highest-earning-middle-class)
 
-### [SMU student allegedly assaulted in dorm room, suspects wanted](https://www.fox4news.com/news/smu-dorm-room-assault)
+### [Here's how much you have to make to be considered middle class in University Park](https://www.fox4news.com/news/university-park-southlake-highest-earning-middle-class)
 
 ###### [News](https://www.fox4news.com/news)
 
