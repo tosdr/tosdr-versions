@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
-    
-    The Most Exciting Picture Books Coming Fall 2024
-    
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
-
-* * *
-
 * [![Books To Read if You Love <i>Gilmore Girls</i>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/22142347/PRH_Site_1200x628_Gilmore.jpg)
     
     Books To Read if You Love _Gilmore Girls_
@@ -35,6 +27,14 @@ Audio
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
+
+* * *
+
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+    
+    Audiobooks for Kids
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * <
     
