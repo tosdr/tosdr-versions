@@ -402,7 +402,7 @@ Highly-rated, full-featured mobile app for all users
 
 ¹Credit lines and the advertised range are not guaranteed and will be determined upon application approval.  
   
-²BILL Divvy Corporate Card is issued by Cross River Bank, member FDIC.
+²BILL Divvy Corporate Card is issued by Cross River Bank, member FDIC. This is not a deposit product.
 
 Product
 
