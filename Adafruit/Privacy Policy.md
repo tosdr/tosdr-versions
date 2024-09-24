@@ -87,9 +87,9 @@ Search
     
     $8.95](https://www.adafruit.com/product/5983)
     
-    ![Video of glowing star-shaped LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5982-00.jpg)[Adafruit NeoPixel LED Star Shape Pixel Strand - 20 LEDs
+    ![Angled shot of blue micro servo installed in a vertical plastic mount with LEGO bricks.](https://cdn-shop.adafruit.com/230x173/6044-03.jpg)[Vertical Micro Servo Mount for LEGO-Compatible Brick Systems
     
-    $8.95](https://www.adafruit.com/product/5982)
+    $1.95](https://www.adafruit.com/product/6044)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A hacker to me is someone creative who does wonderful things”
+“ Perfect is the enemy of good”
 
-[Tim Berners-Lee](https://twitter.com/wef/statuses/294738623641812992)
+[Voltaire](http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 
 [](https://www.adafruit.com/about)
 
