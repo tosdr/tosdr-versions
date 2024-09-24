@@ -108,8 +108,8 @@ Trending Posts
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
-* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
+* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 
@@ -172,8 +172,8 @@ Trending Posts
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
-* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
+* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 
@@ -371,8 +371,8 @@ Trending Posts
 * [Into the maelstrom: Can French democracy survive its political crisis?](https://therealnews.com/into-the-maelstrom-can-french-democracy-survive-its-political-crisis)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
-* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
+* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 
