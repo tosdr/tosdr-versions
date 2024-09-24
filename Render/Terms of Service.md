@@ -51,12 +51,12 @@ Runtimes
 
 [Get Started](https://dashboard.render.com/register)
 
-[Shared Responsibility Model](https://render.com/shared-responsibility-model)[Privacy Policy](https://render.com/privacy)[Terms of Service](https://render.com/terms)[Acceptable Use Policy](https://render.com/acceptable-use)[Accessibility](https://render.com/accessibility)
+[Terms of Service](https://render.com/terms)[Shared Responsibility Model](https://render.com/shared-responsibility-model)[Privacy Policy](https://render.com/privacy)[Acceptable Use Policy](https://render.com/acceptable-use)[Accessibility](https://render.com/accessibility)
 
 Render Terms Of Service
 =======================
 
-Last Modified: January 10, 2024
+Last Modified: September 23, 2024
 
 Welcome to Render, the website and online service of Render Services, Inc. (“Render,” “we,” or “us”). This page explains the terms by which you may use our online services, web site, software, cloud computing platform, APIs, and all other services under Render’s control, provided on or in connection with the service (collectively, the “Service”). By accessing or using the Service, or by clicking a button or checking a box marked “I Agree” (or something similar), you signify that you have read, understood, and agree to be bound by these Terms of Service (this “Agreement”), our Acceptable Use Policy, and to the collection and use of your information as set forth in our Privacy Policy, whether or not you are a registered user of our Service. Render reserves the right to modify these terms and will provide notice of these changes as described below. This Agreement applies to all visitors, users, and others who access the Service (“Users”).
 
@@ -75,7 +75,7 @@ Please read this Agreement carefully to ensure that you understand each provisio
 4. **Accepted Use** [Render’s Acceptable Use Policy](https://render.com/acceptable-use) is hereby incorporated by reference.
 5. **Changes to the Service** We may, without prior notice, change the Service; stop providing the Service or features of the Service, to you or to Users generally; or create usage limits for the Service. We may permanently or temporarily terminate or suspend your access to the Service without notice and liability for any reason, including if in our sole determination you violate any provision of this Agreement, or for no reason. Upon termination for any reason or no reason, you continue to be bound by this Agreement.
 6. **Disputes with Other Users** You are solely responsible for your interactions with other Users. We reserve the right, but have no obligation, to monitor disputes between you and other Users. Render shall have no liability for your interactions with other Users, or for any User’s action or inaction.
-7. **Export Control** You shall comply with the U.S. Foreign Corrupt Practices Act and all applicable export laws, restrictions and regulations of the U.S. Department of Commerce, and any other applicable U.S. and foreign agency or authority. You represent and warrant that you are not (and are not part of or a citizen or resident of or located in) (i) a person or entity or group or region that is the target of sanctions administered by U.S. Department of the Treasury’s Office of Foreign Assets Control (“OFAC”), or other relevant sanctions authority or (ii) Crimea, Donetsk, or Luhansk Regions of Ukraine, Cuba, Iran, North Korea or Syria or any other embargoed region. Violation of this Section 1.7 will result in immediate termination of this Agreement.
+7. **Export Control** You shall comply with the U.S. Foreign Corrupt Practices Act and all applicable export laws, restrictions and regulations of the U.S. Department of Commerce, and any other applicable U.S. and foreign agency or authority. You represent and warrant that by using the Service, you are authorized to receive the Service, and you are not (and are not part of or a citizen or resident of or located in) (i) a person or entity or group or region that is the target of sanctions administered by U.S. Department of the Treasury’s Office of Foreign Assets Control (“OFAC”), or other relevant sanctions authority, or owned fifty percent or more in the aggregate by such sanctioned parties, or (ii) Crimea, Donetsk, or Luhansk Regions of Ukraine, Cuba, Iran, North Korea or Syria or any other embargoed region. If you access or use the Service outside the United States, you are responsible for compliance with any applicable local law including, without limitation, import and export control laws. Violation of this Section 1.7 will result in immediate termination of this Agreement.
 
 2\. User Content
 ----------------
