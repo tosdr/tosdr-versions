@@ -1,3 +1,5 @@
+[Jump to Main Content](#mainContent)
+
 [![](/ms/media/favicons/CB-2022-Ribbon_RGB.svg)](https://www.commerzbank.de/start/ "Commerzbank Logo Desktop")
 
 [Suche](https://service.commerzbank.de/search/?utm_source=portalsuche)
@@ -656,12 +658,12 @@ Die Bank an Ihrer Seite
 * [Konzern](https://www.commerzbank.de/konzern/)
 * [Karriere](https://www.commerzbank.de/konzern/karriere/)
 
-* [](https://www.facebook.com/commerzbank/)
+* [Zur Commerzbank Facebook Seite](https://www.facebook.com/commerzbank/)
     
-* [](https://www.instagram.com/commerzbank/)
+* [Zur Commerzbank Instagram Seite](https://www.instagram.com/commerzbank/)
     
-* [](https://www.youtube.com/c/CommerzbankAG/)
+* [Zum Commerzbank Youtube Kanal](https://www.youtube.com/c/CommerzbankAG/)
     
-* [](https://www.linkedin.com/company/commerzbank-ag/)
+* [Zum Commerzbank LinkedIn Kanal](https://www.linkedin.com/company/commerzbank-ag/)
     
-* [](https://www.xing.com/pages/commerzbank)
+* [Zum Commerzbank Xing Kanal](https://www.xing.com/pages/commerzbank)
