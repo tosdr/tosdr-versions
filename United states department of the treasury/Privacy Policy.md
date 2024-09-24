@@ -555,17 +555,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    September 23, 2024
+    September 24, 2024
     
-    [U.S. Department of the Treasury Awards Over $9 Million to Michigan to Help Small Auto Manufacturers and Suppliers Grow and Hire](https://home.treasury.gov/news/press-releases/jy2600)
+    [U.S. Department of the Treasury, IRS, and Department of Energy Announce Next Steps for 2024 Program Year of Inflation Reduction Act Program for Solar and Wind Energy in Low-Income Communities](https://home.treasury.gov/news/press-releases/jy2606)
     
-    September 20, 2024
+    September 24, 2024
     
-    [Inter-Agency Working Group Releases New Report on Treasury Market Resilience Efforts](https://home.treasury.gov/news/press-releases/jy2593)
+    [In Dual Actions, Treasury Sanctions Clan Del Golfo Leadership in Colombia and Businesses Owned by Sinaloa Cartel Fentanyl Traffickers in Mexico](https://home.treasury.gov/news/press-releases/jy2605)
     
-    September 19, 2024
+    September 24, 2024
     
-    [Treasury Targets Key Actors in Sanctions Evasion Scheme to Support Russia and North Korea](https://home.treasury.gov/news/press-releases/jy2590)
+    [Media Advisory: Acting Director for the Office of Foreign Assets Control Lisa Palluconi to Travel to Colombia and Mexico](https://home.treasury.gov/news/press-releases/jy2604)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
