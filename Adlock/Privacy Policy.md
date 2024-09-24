@@ -289,6 +289,10 @@ Definitions and legal references
 Latest news
 -----------
 
+[![How To Block Temu Ads: A Step-by-Step Guide](/wp-content/uploads/2024/09/Temu-ads.png)
+
+### How To Block Temu Ads: A Step-by-Step Guide](https://adlock.com/blog/How-To-Block-Temu-Ads-A-Step-by-Step-Guide/)
+
 [![How To Watch YouTube Without Ads on Android](/wp-content/uploads/2019/04/YouTubeNew.png)
 
 ### How To Watch YouTube Without Ads on Android](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)
@@ -308,10 +312,6 @@ Latest news
 [![How to Play Homescapes and Gardenscapes Without Ads](/wp-content/uploads/2024/08/Gardenscapes.png)
 
 ### How to Play Homescapes and Gardenscapes Without Ads](https://adlock.com/blog/remove-homescapes-and-gardenscapes-ads/)
-
-[![How to Block Ads in Block Blast Once And For All](/wp-content/uploads/2024/07/Block-Blast.png)
-
-### How to Block Ads in Block Blast Once And For All](https://adlock.com/blog/remove-block-blast-ads/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adlock-for-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
