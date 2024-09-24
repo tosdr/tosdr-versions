@@ -398,11 +398,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [8 Best Adobe Illustrator Courses for Beginners for 2024](https://www.classcentral.com/report/best-adobe-illustrator-beginner-courses/)
-2. [7 Best Adobe Animate Courses for 2024: Master 2D Animation](https://www.classcentral.com/report/best-adobe-animate-courses/)
-3. [7 Best Adobe Photoshop Courses for Beginners for 2024](https://www.classcentral.com/report/best-adobe-photoshop-beginner-courses/)
-4. [10 Best Free Artificial Intelligence Courses for 2024](https://www.classcentral.com/report/best-ai-courses/)
-5. [\[2024\] 250 Top Domestika Courses of All Time](https://www.classcentral.com/report/domestika-top-courses/)
+1. [12 Best Microsoft Excel Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-excel-courses/)
+2. [8000+ OpenCourseWare Courses from Top Institutions](https://www.classcentral.com/report/ocw-courses/)
+3. [Udemy Faces Instructor Backlash Over Widespread Course Rating Glitch](https://www.classcentral.com/report/udemy-course-ratings-glitch/)
+4. [8 Best Adobe Illustrator Courses for Beginners for 2024](https://www.classcentral.com/report/best-adobe-illustrator-beginner-courses/)
+5. [7 Best Adobe Animate Courses for 2024: Master 2D Animation](https://www.classcentral.com/report/best-adobe-animate-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -413,38 +413,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. English
+1. python
     
-2. java
+2. digital marketing
     
-3. French
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Information Technology
     
-    31,681 courses](https://www.classcentral.com/subject/cs)
-2. [Communication Skills
+    4,238 courses](https://www.classcentral.com/subject/information-technology)
+2. [Digital Marketing
     
-    3,891 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Software Development
+    5,788 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Artificial Intelligence
     
-    7,961 courses](https://www.classcentral.com/subject/software-development)
+    9,301 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+1. [Lean Production
     
-    Stanford University](https://www.classcentral.com/course/algorithms-divide-conquer-374)
-2. [Inglés básico: conversacional y networking
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/manufacturing-technische-universitat-munchen-lean-8447)
+2. [Spatial Data Science: The New Frontier in Analytics
     
-    Universidad Anáhuac](https://www.classcentral.com/course/english-universidades-anahuac-ingles-basico-conve-19170)
-3. [Nutrition, Exercise and Sports
+    Esri](https://www.classcentral.com/course/independent-spatial-data-science-the-new-frontier-in-analytics-17227)
+3. [Medical Parasitology | 医学寄生虫学
     
-    Wageningen University](https://www.classcentral.com/course/nutrition-wageningen-university-research-nutritio-14381)
+    Tsinghua University](https://www.classcentral.com/course/medicine-tsinghua-university-medical-parasitology-19192)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
