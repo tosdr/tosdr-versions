@@ -741,11 +741,11 @@ Privacy Policy
 Splunk Privacy Statement ("Privacy Policy")
 -------------------------------------------
 
-Updated: March 2024
+Updated: September 2024
 
-[Download PDF](https://www.splunk.com/content/dam/splunk2/en_us/pdfs/legal/privacy-policy/final-splunk-privacy-policy-23.pdf)
+[Download PDF](https://www.splunk.com/content/dam/splunk2/en_us/pdfs/legal/privacy-policy/splunk-privacy-policy-sept-2024.pdf)
 
-This Privacy Policy explains how Splunk Inc. and its subsidiaries ("Splunk") collect, use, and disclose information you provide to us or which we otherwise collect (“Information”), including “Personal Data” by which we mean Information about an identified or reasonably identifiable individual.
+This Privacy Policy explains how Splunk LLC and its subsidiaries ("Splunk") collect, use, and disclose information you provide to us or which we otherwise collect (“Information”), including “Personal Data” by which we mean Information about an identified or reasonably identifiable individual.
 
 This Privacy Policy applies to Offerings (as defined in the Splunk General Terms), splunk.com and to other websites Splunk operates that link to this Privacy Policy. This Privacy Policy does not apply to Personal Data processed by Splunk as a processor or to Splunk as an employer.
 
@@ -918,7 +918,7 @@ How Splunk Shares Your Information
 
 Splunk may disclose your Information to others in the following ways:
 
-Subsidiaries. We may disclose Information to our [subsidiaries](https://www.splunk.com/en_us/legal/subsidiaries.html) subject to this Privacy Policy so that they can help market, sell, and service our Offerings. Splunk is the party responsible for the management of jointly used Personal Data. Splunk maintains intragroup agreements covering the use of Personal Data within the Splunk family of companies.
+Subsidiaries. We may disclose Information to our subsidiaries subject to this Privacy Policy so that they can help market, sell, and service our Offerings. Splunk is the party responsible for the management of jointly used Personal Data. Splunk maintains intragroup agreements covering the use of Personal Data within the Splunk family of companies.
 
   
 
@@ -966,7 +966,7 @@ Minors
 
 Your Rights
 
-In certain locations, you may have rights under data protection law, such as to request access to or correction, deletion, or transfer of your Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868), and we will respond as soon as reasonably practicable consistent with applicable law. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
+In certain locations, you may have rights under data protection law, such as to request access to or correction, deletion, or transfer of your Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868ef06-4677-abe2-76e21885543c/af4fad38-c747-473d-ae29-6cb68b0e960c), and we will respond as soon as reasonably practicable consistent with applicable law. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
 
 European Economic Area, the UK, and Switzerland
 
@@ -992,7 +992,7 @@ Individuals located in the UK or European Economic Area are granted certain righ
 * Object to our processing of data about you, including in relation to processing your Personal Data for marketing purposes; and
 * Withdraw consent if processing of your Personal Data is based on consent.
 
-If you or a designated third-party agent would like to exercise these rights, please submit the request through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868), and we will respond in accordance with our legal obligations. We will verify your identity, and the identity of any third-party agent acting on your behalf, before we comply with the request and ask for your cooperation with our identity verification process.  
+If you or a designated third-party agent would like to exercise these rights, please submit the request through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868ef06-4677-abe2-76e21885543c/af4fad38-c747-473d-ae29-6cb68b0e960c), and we will respond in accordance with our legal obligations. We will verify your identity, and the identity of any third-party agent acting on your behalf, before we comply with the request and ask for your cooperation with our identity verification process.  
   
 
 **Lawful Basis for Transferring Your Data: Cross-border Transfers**  
@@ -1079,7 +1079,7 @@ Our Offerings may contain links to, or facilitate access to, other websites or o
 * For App Developers listed on [Splunkbase](https://splunkbase.splunk.com/)
 * For other marketplaces where Splunk Apps may be found
 * For [industry content providers](https://www.splunk.com/en_us/resources.html) (such as providers of research, white papers, etc.)
-* For [industry award providers](https://www.splunk.com/en_us/about-us/awards.html) (such as those listed on Splunk.com)
+* For [industry award providers](https://www.splunk.com/en_us/about-us/awards.htmlrds) (such as those listed on Splunk.com)
 * For other resources (such as source code repositories, sample data sources, customers, etc.) mentioned in [blogs and press releases](https://www.splunk.com/en_us/newsroom.html)
 * For other providers, sponsors, or speakers at [events](https://www.splunk.com/en_us/about-us/events.html) in which Splunk is involved
 * For social media platform providers (such as [Twitter](https://twitter.com/en/privacy), [GitHub](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement/), [Twitch](https://www.twitch.tv/p/legal/privacy-notice/), [LinkedIn](https://www.linkedin.com/legal/privacy-policy), [YouTube](https://policies.google.com/privacy?hl=en), or [Facebook](https://www.facebook.com/about/privacy))
@@ -1090,27 +1090,33 @@ We may change this Privacy Policy from time to time and will post our updates [h
 
 Contact Splunk
 
-If you have any questions or comments about this Privacy Policy or Splunk’s privacy practices, you can contact us at any time at [dpo@splunk.com](mailto:dpo@splunk.com) or by mail as provided below:  
+If you have any questions or comments about this Privacy Policy, you can contact us at any time at [dpo@splunk.com](mailto:dpo@splunk.com) or by mail as provided below:  
   
 
-**Splunk Inc.  
-**Office of the Data Protection Officer  
-250 Brannan Street  
-San Francisco, CA 94107  
+**Chief Privacy Officer  
+**Cisco Systems, Inc.  
+170 West Tasman Dr.  
+San Jose, CA 95134 USA  
   
 
-**Splunk Services UK Limited  
-**Office of the Data Protection Officer  
-Brunel Building 1 & 2 Canalside Walk  
-London W2 1DG  
-England  
   
 
-**Splunk Services Germany GmbH  
-**Office of the Data Protection Officer  
-Mies-van-der-Rohe-Straße 6  
-80335 München  
-Germany
+**Americas Privacy Officer  
+**Cisco Systems, Inc.  
+170 West Tasman Dr.  
+San Jose, CA 95134 USA  
+  
+
+  
+
+**Europe, Middle East, and Africa (EMEA) Privacy Officer  
+**Cisco Systems International BV  
+1101 CH Amsterdam-Zuidoost, Netherlands  
+
+**Asia Pacific, Japan, and China (APJC) Privacy Officer  
+**Cisco Systems (USA) Pte Ltd  
+80 Pasir Panjang Road  
+Level 25, Maple Tree Business City 2, Singapore 117372  
 
 Open All Close All
 
@@ -1222,7 +1228,7 @@ SPLUNK MOBILE
 
 [Website Terms of Use](https://www.splunk.com/en_us/legal/terms/terms-of-use.html)
 
-© 2005 - 2024 Splunk Inc. All rights reserved.
+© 2005 - 2024 Splunk LLC All rights reserved.
 
  
 
