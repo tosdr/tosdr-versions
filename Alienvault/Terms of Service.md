@@ -1,4 +1,4 @@
-be\_ixf;ym\_202409 d\_23; ct\_50
+be\_ixf;ym\_202409 d\_24; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -171,9 +171,9 @@ be\_ixf;ym\_202409 d\_23; ct\_50
             
             Blog: Security Essentials
             
-            ##### Quantum Computing and Cybersecurity - Preparing for a New Age of Threats
+            ##### Cybersecurity Threats: Top Risks Facing Your Startup
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/quantum-computing-and-cybersecurity-preparing-for-a-new-age-of-threats)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-threats-top-risks-facing-your-startup)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Theodoros Karasavvas](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theodoros Karasavvas
+#### David Balaban
 
-Sep 23, 2024
+Sep 24, 2024
 
-### [Quantum Computing and Cybersecurity - Preparing for a New Age of Threats](https://cybersecurity.att.com/blogs/security-essentials/quantum-computing-and-cybersecurity-preparing-for-a-new-age-of-threats)
+### [Cybersecurity Threats: Top Risks Facing Your Startup](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-threats-top-risks-facing-your-startup)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
