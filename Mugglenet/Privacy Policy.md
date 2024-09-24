@@ -280,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall had been briefly engaged to a Muggle at the age of 18 but broke off the engagement when she realized it would mean having to sacrifice her other ambitions.
+The Welsh translation of “Gryffindor” is “Llereurol,” and the Hindi translation is “Garuddwaar.”
 
 ### Potter History
 
-May 14-16, 2010 – StarKid performs A Very Potter Sequel at the University of Michigan.
+June 28, 2004 – The title of the sixth book, Harry Potter and the Half-Blood Prince, was revealed.
 
 ### Potter Quote
 
-“I can’t tell if you’re making a joke or if you’re just…French.”
+“Potter, I will assist you to become an Auror if it is the last thing I do! If I have to coach you nightly I will make sure you achieve the required results!”
 
 [](#)
 
