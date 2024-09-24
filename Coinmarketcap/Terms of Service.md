@@ -56,25 +56,25 @@ Learn
 
 Cryptos: [2.4M+](https://coinmarketcap.com/)
 
-Exchanges: [796](https://coinmarketcap.com/rankings/exchanges/)
+Exchanges: [795](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.21T](https://coinmarketcap.com/charts/#market-cap)
+[$2.22T](https://coinmarketcap.com/charts/#market-cap)
 
-0.27%
+0.47%
 
 24h Vol: 
 
-[$77.27B](https://coinmarketcap.com/charts/#volume-24h)
+[$69.3B](https://coinmarketcap.com/charts/#volume-24h)
 
-37.67%
+2.95%
 
-Dominance: [BTC: 56.2% ETH: 14.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 56.3% ETH: 14.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-20.09 Gwei
+14.11 Gwei
 
  Fear & Greed: 
 
