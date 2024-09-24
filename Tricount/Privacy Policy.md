@@ -31,15 +31,9 @@ August 2024
 
 [1\. About this Policy](https://www.tricount.com/en/privacy#chapter-1)
 
-[1\. About this Policy](https://www.tricount.com/en/privacy#chapter-1)
-
 [2\. What Personal Data is collected and why?](https://www.tricount.com/en/privacy#chapter-2)
 
 [2\. What Personal Data is collected and why?](https://www.tricount.com/en/privacy#chapter-2)
-
-[2\. What Personal Data is collected and why?](https://www.tricount.com/en/privacy#chapter-2)
-
-[3\. Who do we share your Personal Data with?](https://www.tricount.com/en/privacy#chapter-3)
 
 [3\. Who do we share your Personal Data with?](https://www.tricount.com/en/privacy#chapter-3)
 
@@ -49,15 +43,9 @@ August 2024
 
 [4\. How we protect your privacy](https://www.tricount.com/en/privacy#chapter-4)
 
-[4\. How we protect your privacy](https://www.tricount.com/en/privacy#chapter-4)
-
 [5\. Your data protection rights](https://www.tricount.com/en/privacy#chapter-5)
 
 [5\. Your data protection rights](https://www.tricount.com/en/privacy#chapter-5)
-
-[5\. Your data protection rights](https://www.tricount.com/en/privacy#chapter-5)
-
-[6\. Updating this Policy](https://www.tricount.com/en/privacy#chapter-5)
 
 [6\. Updating this Policy](https://www.tricount.com/en/privacy#chapter-5)
 
@@ -65,8 +53,6 @@ August 2024
 
 1\. About this Policy
 ---------------------
-
-**About this Policy**
 
 1.1 This Privacy Policy (the "**Policy**") describes how we (as defined below) collect, share and use any information that, used alone or in combination with other information, relates to you ("**Personal Data**") when you ("**you**" and "**your**") use the [Tricount](https://www.tricount.com/en/privacy-policy) website ("**Website**") or Tricount applications ("**Application/Applications**").
 
@@ -100,9 +86,11 @@ August 2024
 | Sending emails promoting Tricount and bunq services and offers | Identification data | Legitimate interest of the controller or a third party |
 | Statistical analysis of use, growth, etc. | Electronic identification data, location data, tracking and use data of the Internet connection | Legitimate interest of the data controller, or consent of the data subject when these analyses are based on the placement of analytical Cookies. |
 | Add card payments (and other payments) from bunq as expenses in a tricount | Financial characteristics, identification data, electronic identification data | Consent of the data subject |
+| Add cards from your bunq app to perform payments within Tricount | Card holder's name, Card number (encrypted with phone face ID scan), expiration date and CVC number | Consent of the data subject |
 | Recording of actions carried out by users in order to understand the use of the application and to solve any problems. | Electronic identification data, location data, tracking and use data of the Internet connection | Legitimate interest of the data controller or a third party |
 | Collection of consent for the display of personalized advertising (including retention of documentation relating to this consent) | Identification data, electronic identification data | Legal obligation |
 | Identify users and the services they have subscribed to in order to identify sales and marketing opportunities | Identification data, electronic identification data | Legitimate interest of the controller or a third party |
+| Pictures uploaded by users to their Tricounts by user’s initiative | (Potentially) pictures containing the user’s appearance | Legitimate Interest |
 
 | Why do we collect it? | Type of Personal Data | Legal basis |
 | --- | --- | --- |
@@ -118,9 +106,11 @@ August 2024
 | Sending emails promoting Tricount and bunq services and offers | Identification data | Legitimate interest of the controller or a third party |
 | Statistical analysis of use, growth, etc. | Electronic identification data, location data, tracking and use data of the Internet connection | Legitimate interest of the data controller, or consent of the data subject when these analyses are based on the placement of analytical Cookies. |
 | Add card payments (and other payments) from bunq as expenses in a tricount | Financial characteristics, identification data, electronic identification data | Consent of the data subject |
+| Add cards from your bunq app to perform payments within Tricount | Card holder's name, Card number (encrypted with phone face ID scan), expiration date and CVC number | Consent of the data subject |
 | Recording of actions carried out by users in order to understand the use of the application and to solve any problems. | Electronic identification data, location data, tracking and use data of the Internet connection | Legitimate interest of the data controller or a third party |
 | Collection of consent for the display of personalized advertising (including retention of documentation relating to this consent) | Identification data, electronic identification data | Legal obligation |
 | Identify users and the services they have subscribed to in order to identify sales and marketing opportunities | Identification data, electronic identification data | Legitimate interest of the controller or a third party |
+| Pictures uploaded by users to their Tricounts by user’s initiative | (Potentially) pictures containing the user’s appearance | Legitimate Interest |
 
 2.2 We may also automatically collect certain information from your device. More specifically, the information we automatically collect may include information concerning your IP address, device type, unique identification numbers, browser type, broad geographic location (for example, country-wide or city-wide), advertising identifier and other technical information. We may also collect information about how your device interacted with our Application (screens displayed or clicks on the Application or on the website). The collection of this information makes it possible to track how the Application is used and to identify/correct any bugs. When cross-referenced with other sources, this collection also allows us to understand who its users are (where they are, their age, gender, language, etc.) and thus determine how to develop the Application and advertising content that may be of interest to them.
 
@@ -198,9 +188,8 @@ The type of Personal Data we collect from third parties include confirmations of
 
 5.2 We respond to all requests we receive from data subjects wishing to exercise their rights relating to the protection of their personal data in accordance with the applicable data protection law.
 
-**Links to other websites**
-
-The Website and the Applications may contain hyperlinks or buttons redirecting to Websites and/or applications owned and operated by third parties. These Websites/Applications have their own privacy policies and we encourage you to review them. They will govern the use of the Personal Data you submit by visiting these Websites.  
+**Links to other Websites  
+**The Website and the Applications may contain hyperlinks or buttons redirecting to Websites and/or applications owned and operated by third parties. These Websites/Applications have their own privacy policies and we encourage you to review them. They will govern the use of the Personal Data you submit by visiting these Websites.  
 We are not responsible for the privacy practices of these third party Websites and your use of such websites is at your own risk.
 
 6\. Updating this Policy
@@ -239,25 +228,25 @@ Experience the easiest way to track group expenses, 100% free!
 
 [Get started](https://www.tricount.com/en/discover)
 
-![](https://framerusercontent.com/images/vuyWvLFVCF8uru7S5MpFiNXcYo.png)
+![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
 Download Tricount now
 ---------------------
 
 Experience the easiest way to track group expenses, 100% free!
 
-Get started
+[Get started](https://www.tricount.com/en/discover)
 
-![](https://framerusercontent.com/images/vuyWvLFVCF8uru7S5MpFiNXcYo.png)
+![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
 Download Tricount now
 ---------------------
 
 Experience the easiest way to track group expenses, 100% free!
 
-Get started
+[Get started](https://www.tricount.com/en/discover)
 
-![](https://framerusercontent.com/images/vuyWvLFVCF8uru7S5MpFiNXcYo.png)
+![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
 ![](https://framerusercontent.com/images/pWN3YdYWMkLpNYY0OkHbNh5vTI.svg)
 
