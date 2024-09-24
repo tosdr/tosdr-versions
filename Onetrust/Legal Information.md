@@ -190,9 +190,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
+* [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.onetrust.com/news/onetrust-automates-dora-ict-risk-management-and-compliance/)
+* [OneTrust Customers Saw 227% ROI, New Study Reveals](https://www.onetrust.com/news/independent-study-shows-companies-using-onetrust-increased-revenue-and-decreased-costs/)
 * [The Future of Compliance: OneTrust Introduces Compliance Automation on the OneTrust Platform](https://www.onetrust.com/news/onetrust-introduces-compliance-automation-on-the-onetrust-platform/)
-* [24i Deploys OneTrust to Tailor Consumer Consent that Balances Personalized Ads and Privacy](https://www.onetrust.com/news/24i-deploys-onetrust-to-tailor-consumer-consent-that-balances-personalized-ads-and-viewer-privacy/)
-* [OneTrust on Track to Surpass $500M in ARR as Demand for Responsible Data and AI Solutions Skyrockets](https://www.onetrust.com/news/onetrust-trustweek-2024-momentum/)
 
 ### Contact Us
 
