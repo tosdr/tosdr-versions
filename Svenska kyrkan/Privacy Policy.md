@@ -1,21 +1,12 @@
-[Till innehållet](#maincontent)
+Till innehållet Till undermeny
 
-Meny
+[Svenska kyrkan
+==============
 
-[Svenska kyrkan](https://www.svenskakyrkan.se/)
+Svenska kyrkan Svenska kyrkan](https://www.svenskakyrkan.se/)
 
-Vad söker du? 
+Sök Meny
 
-[Kalender](https://www.svenskakyrkan.se/kalender?webId=1374643) [Kyrkor](https://www.svenskakyrkan.se/platser) [Lyssna Lyssna med webReader](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=maincontent&url=https%3a%2f%2fwww.svenskakyrkan.se%2fdefault.aspx%3fid%3d1761650)
-
-[Svenska kyrkan](https://www.svenskakyrkan.se/)
-
-* [Svenska kyrkan](https://www.svenskakyrkan.se/default.aspx?id=1374643)
-* [Om oss](https://www.svenskakyrkan.se/om-oss)
-* Personuppgifter (GDPR)
-
-* [Svenska kyrkan](https://www.svenskakyrkan.se/)
-    
 * [Dop](https://www.svenskakyrkan.se/dop)
     
     * [Barndop](https://www.svenskakyrkan.se/dop/barndop)
@@ -1343,13 +1334,21 @@ Vad söker du?
         * [Sveerjen gærhkoen internasjonaale barkoe](https://www.svenskakyrkan.se/sveerjen-grhkoen-internasjonaale-barkoe)
             
 
-* [Till startsidan för svenskakyrkan.se](https://www.svenskakyrkan.se/)
+[Tillbaka till startsidan](https://www.svenskakyrkan.se/) [Svenska kyrkans startsida](https://www.svenskakyrkan.se/)
+
+1. [Svenska kyrkan](https://www.svenskakyrkan.se/default.aspx?id=1374643)
+2. [Om oss](https://www.svenskakyrkan.se/om-oss)
+3. Personuppgifter (GDPR)
+
+[Kalender](https://www.svenskakyrkan.se/kalender?webId=1374643) [Kyrkor](https://www.svenskakyrkan.se/platser)
 
 * [Medlemmar i Svenska kyrkan](https://www.svenskakyrkan.se/personuppgifter-for-medlemmar-i-svenska-kyrkan)
 * [Personer som inte är medlemmar](https://www.svenskakyrkan.se/personuppgifter-for-personer-som-inte-ar-medlemmar)
 * [När anmälan om inträde eller utträde skickats fel](https://www.svenskakyrkan.se/personuppgifter-naranmalan-om-intradeeller-uttradeskickats-fel)
 * [Sociala medier](https://www.svenskakyrkan.se/personuppgifter-i-sociala-medier)
 * [Svenska kyrkan i utlandet](https://www.svenskakyrkan.se/om-oss/svenska-kyrkan-i-utlandet-personuppgifter)
+
+[Lyssna](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=innehall&url=)
 
 Personuppgifter (GDPR)
 ======================
@@ -1502,9 +1501,7 @@ Enligt dataskyddsförordningen är direktmarknadsföring ett sådant berättigat
 ### Samtycke
 
 Samtycke innebär att en person går med på att personuppgifter behandlas för ett visst ändamål. Ett giltigt samtycke ska vara ett frivilligt, specifikt, informerat och otvetydigt medgivande från den registrerade om att den godkänner behandlingen av personuppgifterna. Den registrerade har alltid rätt att dra tillbaka sitt samtycke.  
-För behandling av känsliga personuppgifter krävs att något av villkoren i artikel 9 är uppfyllt. 
-
-### Tredje land
+För behandling av känsliga personuppgifter krävs att något av villkoren i artikel 9 är uppfyllt. ### Tredje land
 
 En överföring till tredje land är när personuppgifter som behandlas i ett EU- eller EES-land görs tillgängliga i ett land utanför EU/EES-området. Ett tillgängliggörande skulle exempelvis kunna ske genom att information innehållande personuppgifter överförs via e-post, eller att personuppgifter lagras i en molntjänst vars servrar finns utanför EU/EES.
 
@@ -1523,31 +1520,23 @@ Om du har frågor eller klagomål som gäller hur din eller någon annan försam
 
 Om du inte skulle vara nöjd med hur vi hanterat din begäran har du alltid rätt framföra klagomål till [Integritetsskyddsmyndigheten.](https://www.imy.se/)
 
-Uppdaterad: 28 juni 2023
-
-Dela
-
-Facebook Twitter LinkedIn E-post
+Tillbaka till toppen Tillbaka till innehållet
 
 Synpunkter eller frågor på sidans innehåll?
 -------------------------------------------
 
 [info@svenskakyrkan.se](mailto:info@svenskakyrkan.se?subject=&subject=Synpunkt%20p%C3%A5%20%22Personuppgifter%20%28GDPR%29%22%20(ID%201761650))
 
-Tillbaka till toppen Tillbaka till innehållet
-
-Kontakt
--------
+Kontakt Kontakt
+---------------
 
 Svenska kyrkan [Hitta din församling](https://www.svenskakyrkan.se/sok-forsamling) [Kontaktuppgifter till Svenska kyrkan](https://www.svenskakyrkan.se/kontaktasvenskakyrkan)
 
-Kalender
---------
+Kalender Kalender
+-----------------
 
-[Se fler kommande händelser](https://www.svenskakyrkan.se/kalender?type=owner&id=2147483126&locationName=Kyrkokansliet+Svenska+kyrkan&webId=1374643)
-
-Hitta snabbt
-------------
+Hitta snabbt Hitta snabbt
+-------------------------
 
 * [Få hjälp och stöd](https://www.svenskakyrkan.se/fa-hjalp)
 * [Anledningar att vara medlem](https://www.svenskakyrkan.se/medlem/anledningar)
@@ -1556,11 +1545,11 @@ Hitta snabbt
 * [Kristen tro](https://www.svenskakyrkan.se/om-kristen-tro)
 * [Kyrkoårets bibeltexter](https://www.svenskakyrkan.se/kyrkoaret/bibeltexter)
 
-Sociala kanaler
----------------
+Sociala kanaler Sociala kanaler
+-------------------------------
 
 * [Facebook](https://www.facebook.com/svenskakyrkan)
-* [Twitter](https://twitter.com/svenskakyrkan)
+* [X](https://twitter.com/svenskakyrkan)
 * [Instagram](https://www.instagram.com/svenskakyrkan)
 * [Vimeo](https://vimeo.com/user14652877)
 * [Bloggportalen](https://blogg.svenskakyrkan.se/)
@@ -1592,5 +1581,3 @@ Om webbplatsen
 * [Kakor](https://www.svenskakyrkan.se/om-oss/kakor)
 * [Lyssna](https://www.svenskakyrkan.se/lyssna)
 * [Tillgänglighetsredogörelse](https://www.svenskakyrkan.se/tillganglighet-pa-svenskakyrkanse)
-
-[Om kakor](https://www.svenskakyrkan.se/om-oss/kakor) [Om lyssnafunktionen](https://www.svenskakyrkan.se/lyssna)
