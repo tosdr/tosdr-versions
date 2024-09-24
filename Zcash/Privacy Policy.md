@@ -344,7 +344,7 @@ for a new era.
 
 [Privacy Policy](https://z.cash/privacy-policy/)
 
-[Manage Cookies](javascript:;)
+[Manage Cookies](https://z.cash/privacy-policy/;)
 
 [Sitemap](https://z.cash/sitemap/)
 
