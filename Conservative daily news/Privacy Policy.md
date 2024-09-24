@@ -1,15 +1,15 @@
-Monday, September 23 2024
+Tuesday, September 24 2024
 
 Breaking News
 
+* [Jack Smith Should Not Be Allowed To File 180 Page ‘Hit Piece’ While Trump Remains Under Gag Order, Attorneys Say](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
+* [Whatever: Elite University Says Race ‘Neutral’ Policies ‘Constitutes Discrimination’](https://www.conservativedailynews.com/2024/09/whatever-elite-university-says-race-neutral-policies-constitutes-discrimination/)
+* [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
+* [The Push To Stuff Americans Into Electric Vehicles Is Facing Its Latest Stop Sign: Theft](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
+* [Republican Lawmakers Frustrated With Mike Johnson’s New Funding Bill](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
+* [50 Point Gift From The Fed Or Waving The Red Flag](https://www.conservativedailynews.com/2024/09/50-point-gift-from-the-fed-or-waving-the-red-flag/)
 * [Medal of Honor Monday: Navy Chief Petty Officer Fred McGuire](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
 * [Here’s How A Venezuelan Gang Was Able To Infiltrate The US And Wreak Havoc In Major Cities](https://www.conservativedailynews.com/2024/09/heres-how-a-venezuelan-gang-was-able-to-infiltrate-the-us-and-wreak-havoc-in-major-cities/)
-* [Mike Johnson Unveils New Spending Bill With Bolstered Secret Service Funding](https://www.conservativedailynews.com/2024/09/mike-johnson-unveils-new-spending-bill-with-bolstered-secret-service-funding/)
-* [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
-* [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/)
-* [ABC Political Director Warns ‘Kamala Harris Has Issues’ With Hispanic Voters](https://www.conservativedailynews.com/2024/09/abc-political-director-warns-kamala-harris-has-issues-with-hispanic-voters/)
-* [Democrats Want ‘Climate Literacy’ In Schools As Actual Literacy Slips](https://www.conservativedailynews.com/2024/09/democrats-want-climate-literacy-in-schools-as-actual-literacy-slips/)
-* [Does Anybody Want To Win This Thing?](https://www.conservativedailynews.com/2024/09/does-anybody-want-to-win-this-thing/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,42 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg080423dAPR.jpg)](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
+    
+    [Jack Smith Should Not Be Allowed To File 180 Page ‘Hit Piece’ While Trump Remains Under Gag Order, Attorneys Say](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
+    
+    September 24, 2024
+    
+* [![affirmative action DEI CRT](https://www.conservativedailynews.com/wp-content/uploads/2023/07/image-2-220x150.png)](https://www.conservativedailynews.com/2024/09/whatever-elite-university-says-race-neutral-policies-constitutes-discrimination/)
+    
+    [Whatever: Elite University Says Race ‘Neutral’ Policies ‘Constitutes Discrimination’](https://www.conservativedailynews.com/2024/09/whatever-elite-university-says-race-neutral-policies-constitutes-discrimination/)
+    
+    September 24, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
+    
+    [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
+    
+    September 23, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/POlice-tape-220x150.jfif)](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
+    
+    [The Push To Stuff Americans Into Electric Vehicles Is Facing Its Latest Stop Sign: Theft](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
+    
+    September 23, 2024
+    
+* [![Federal spending national debt](https://www.conservativedailynews.com/wp-content/uploads/2023/06/gv060923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
+    
+    [Republican Lawmakers Frustrated With Mike Johnson’s New Funding Bill](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
+    
+    September 23, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/092324-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/50-point-gift-from-the-fed-or-waving-the-red-flag/)
+    
+    [50 Point Gift From The Fed Or Waving The Red Flag](https://www.conservativedailynews.com/2024/09/50-point-gift-from-the-fed-or-waving-the-red-flag/)
+    
+    September 23, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/240910-O-D0439-083Z-220x150.jpg)](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
     
     [Medal of Honor Monday: Navy Chief Petty Officer Fred McGuire](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
@@ -135,42 +171,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/05-out-houses-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/full-house-2/)
     
     [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Illegal-immigrants-rushing-the-border-1-220x150.png)](https://www.conservativedailynews.com/2024/09/heres-how-a-venezuelan-gang-was-able-to-infiltrate-the-us-and-wreak-havoc-in-major-cities/)
-    
-    [Here’s How A Venezuelan Gang Was Able To Infiltrate The US And Wreak Havoc In Major Cities](https://www.conservativedailynews.com/2024/09/heres-how-a-venezuelan-gang-was-able-to-infiltrate-the-us-and-wreak-havoc-in-major-cities/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/09/mike-johnson-unveils-new-spending-bill-with-bolstered-secret-service-funding/)
-    
-    [Mike Johnson Unveils New Spending Bill With Bolstered Secret Service Funding](https://www.conservativedailynews.com/2024/09/mike-johnson-unveils-new-spending-bill-with-bolstered-secret-service-funding/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
-    
-    [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
-    
-    September 23, 2024
-    
-* [![Secret Service Feckless](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/feckless/)
-    
-    [Feckless](https://www.conservativedailynews.com/2024/09/feckless/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/)
-    
-    [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/groceries-220x150.png)](https://www.conservativedailynews.com/2024/09/how-to-build-a-reasonable-grocery-stockpile-without-losing-your-mind/)
-    
-    [How to Build a Reasonable Grocery Stockpile Without Losing Your Mind](https://www.conservativedailynews.com/2024/09/how-to-build-a-reasonable-grocery-stockpile-without-losing-your-mind/)
     
     September 23, 2024
     
