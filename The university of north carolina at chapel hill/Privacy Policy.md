@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/Pirate-Hero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/CandicePowellQA-250x141.jpg)
     
-    Pirates help students prepare for emergencies](https://www.unc.edu/posts/2024/09/20/pirates-help-students-prepare-for-emergencies/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/ProjectUpliftHERO-250x141.jpg)
+    Candice Powell sees Covenant’s power to maximize students’ potential](https://www.unc.edu/posts/2024/09/23/candice-powell-sees-covenants-power-to-maximize-students-potential/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/CarolinaThriftHero-250x141.jpg)
     
-    Project Uplift’s legacy spans generations](https://www.unc.edu/posts/2024/09/19/project-uplifts-legacy-spans-generations/)
+    Carolina Thrift gives clothes new life](https://www.unc.edu/posts/2024/09/23/carolina-thrift-gives-clothes-new-life/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=1908f489f5&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=4a6d50407c&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
