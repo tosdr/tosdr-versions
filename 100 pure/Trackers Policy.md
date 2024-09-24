@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5748 reviews (5749)
+5748 reviews (5750)
 
 $16.00 $29.00
 
@@ -124,7 +124,7 @@ CHOOSE Size
 
 ### [Collagen Boost Sheet Mask](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
-37 reviews (37)
+38 reviews (38)
 
 $7.00 $28.00
 
@@ -300,7 +300,7 @@ ADD TO TOTE
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-872 reviews (872)
+872 reviews (873)
 
 $38.00
 
@@ -332,7 +332,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1562 reviews (1562)
+1563 reviews (1563)
 
 $30.00 $30.00
 
