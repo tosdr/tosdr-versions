@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Gallop Racer](https://www.myabandonware.com/game/gallop-racer-sh6)
-* [Fire One!](https://www.myabandonware.com/game/fire-one-sh5)
-* [Final Lap R](https://www.myabandonware.com/game/final-lap-r-sh4)
-* [Galaxy Game](https://www.myabandonware.com/game/galaxy-game-sh3)
-* [Final Fight Revenge](https://www.myabandonware.com/game/final-fight-revenge-nbi)
+* [Frogger](https://www.myabandonware.com/game/frogger-7)
+* [Goalie Ghost](https://www.myabandonware.com/game/goalie-ghost-shg)
+* [Frogs](https://www.myabandonware.com/game/frogs-shf)
+* [Football Power](https://www.myabandonware.com/game/football-power-she)
+* [Flyball](https://www.myabandonware.com/game/flyball-shd)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
