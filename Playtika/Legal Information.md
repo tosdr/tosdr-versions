@@ -348,7 +348,7 @@ Depending upon the applicable law where you live, you may have the right to make
 
 You may also have the right object to certain processing, including to opt out of targeted advertising. 
 
-Playtika allows all players to submit requests via the [Playtika Privacy Portal](https://playtikaprod.service-now.com/privacy_security.do) or through the Support page accessible from within the game.
+Playtika allows all players to submit requests via the [Playtika Privacy Portal](https://playtika.service-now.com/privacy_security.do) or through the Support page accessible from within the game.
 
 A.     Manage Information We Get from Platforms
 
@@ -667,7 +667,7 @@ Dependiendo de la legislación aplicable en su lugar de residencia, puede tener 
 
 También tiene el derecho de objetar a cierta tramitación, incluso para optar por la exclusión de la publicidad dirigida.   
 
-Playtika permite a todos los jugadores enviar solicitudes a través de la   [Portal de Privacidad de Playtika](https://playtikaprod.service-now.com/privacy_security.do)  o a través del Soporte accesible desde el juego al que juega.
+Playtika permite a todos los jugadores enviar solicitudes a través de la   [Portal de Privacidad de Playtika](https://playtika.service-now.com/privacy_security.do)  o a través del Soporte accesible desde el juego al que juega.
 
 **A.     Gestionar la información que recibimos de plataformas**
 
@@ -985,7 +985,7 @@ Je nach geltendem Recht an Ihrem Wohnort haben Sie eventuell das Recht, Anfragen
 
 Sie haben möglicherweise auch das Recht, einen Einspruch gegen bestimmte Verarbeitungen einzulegen, einschließlich der Möglichkeit, gezielte Werbung abzulehnen.
 
-Playtika gestattet es Spielern, Anfragen über   [Playtika-Datenschutzportal](https://playtikaprod.service-now.com/privacy_security.do)  oder über die von innerhalb des Spiels zugängliche Support-Seite einzureichen.
+Playtika gestattet es Spielern, Anfragen über   [Playtika-Datenschutzportal](https://playtika.service-now.com/privacy_security.do)  oder über die von innerhalb des Spiels zugängliche Support-Seite einzureichen.
 
 **A.     Verwaltung von Informationen, die wir von Plattformen erhalten**
 
@@ -1294,7 +1294,7 @@ D. 売却または合併
 
 また、お客様はターゲティング広告のオプトアウトを含む一定の処理に異議を唱える権利を有する場合があります。
 
-Playtikaはすべてのプレイヤーに対して を介して、 [Playtikaのプライバシーポータル](https://playtikaprod.service-now.com/privacy_security.do) またはゲーム内からアクセスできるサポートページを介して要求を提出できるようにしています。
+Playtikaはすべてのプレイヤーに対して を介して、 [Playtikaのプライバシーポータル](https://playtika.service-now.com/privacy_security.do) またはゲーム内からアクセスできるサポートページを介して要求を提出できるようにしています。
 
 A. プラットフォームから当社が入手する情報の管理
 
@@ -1610,7 +1610,7 @@ Playtika использует свои дочерние компании и др
 * для создания электронной копии (или переносимости персональных данных);
 * вы также можете иметь право возражения против обработки персональных данных в определенных случаях, включая отказ от адресной рекламы.  
 
-Playtika дает возможность всем игрокам отправлять запросы через  [Портал конфиденциальности Playtika](https://playtikaprod.service-now.com/privacy_security.do) или через страницу Поддержки, доступную в игре.
+Playtika дает возможность всем игрокам отправлять запросы через  [Портал конфиденциальности Playtika](https://playtika.service-now.com/privacy_security.do) или через страницу Поддержки, доступную в игре.
 
 **A****.**     **Управление информацией, которую мы получаем от с площадок**
 
@@ -1922,7 +1922,7 @@ Selon la loi en vigueur là où vous résiderez, vous pouvez avoir le droit d'ef
 * une copie électronique (portabilité) ;
 * Vous pourriez également avoir le droit de  vous opposer à un certain traitement, y compris de refuser une publicité ciblée.  
 
-Playtika donne la possibilité à tous ses joueurs d'envoyer des demande via [Portail Confidentialité Playtika](https://playtikaprod.service-now.com/privacy_security.do) ou par la page d'assistance accessible depuis votre jeu.
+Playtika donne la possibilité à tous ses joueurs d'envoyer des demande via [Portail Confidentialité Playtika](https://playtika.service-now.com/privacy_security.do) ou par la page d'assistance accessible depuis votre jeu.
 
 **A.     Gérer les informations que nous recevons de plateformes**
 
@@ -2241,7 +2241,7 @@ Dependendo da lei aplicável no local em que você mora, você poderá ter o dir
 * uma cópia eletrônica (ou portabilidade);
 * Poderá ter o direito de opor-se a determinado processamento, incluindo optar por não receber publicidade direcionada.   
 
-A Playtika permite que todos os jogadores enviem solicitações através de [Portal de Privacidade da Playtika](https://playtikaprod.service-now.com/privacy_security.do)  ou através da página de suporte acessível de dentro do jogo.
+A Playtika permite que todos os jogadores enviem solicitações através de [Portal de Privacidade da Playtika](https://playtika.service-now.com/privacy_security.do)  ou através da página de suporte acessível de dentro do jogo.
 
 **A.     Gerenciar informações que obtemos de Plataformas**
 
@@ -2563,7 +2563,7 @@ A seconda della legge applicabile in cui vivi, potresti avere il diritto di effe
 
 Hai anche il diritto di opporti a determinati trattamenti, inclusa la rinuncia alla pubblicità mirata.
 
-Playtika consente a tutti i suoi giocatori di inoltrare richieste dal [Portale sulla privacy di Playtika](https://playtikaprod.service-now.com/privacy_security.do) o dalla pagina di supporto a cui puoi accedere dal gioco.
+Playtika consente a tutti i suoi giocatori di inoltrare richieste dal [Portale sulla privacy di Playtika](https://playtika.service-now.com/privacy_security.do) o dalla pagina di supporto a cui puoi accedere dal gioco.
 
 **A.     Gestione dei dati ottenuti da piattaforme**
 
@@ -2877,7 +2877,7 @@ W zależności od prawa obowiązującego w miejscu Twojego zamieszkania, możesz
 * przeniesienia danych lub przekazania ich kopii w formie elektronicznej;
 * możesz również mieć prawo do sprzeciwienia się przetwarzaniu określonych danych, m.in. rezygnacji z reklam ukierunkowanych.   
 
-Playtika pozwalawszystkim graczom na przesyłanie wniosków za pośrednictwem [Portalu ochrony prywatności Playtika](https://playtikaprod.service-now.com/privacy_security.do)  lub poprzez zakładkę wsparcia, dostępną w grze .
+Playtika pozwalawszystkim graczom na przesyłanie wniosków za pośrednictwem [Portalu ochrony prywatności Playtika](https://playtika.service-now.com/privacy_security.do)  lub poprzez zakładkę wsparcia, dostępną w grze .
 
 A.     Zarządzanie danymi, które otrzymujemy od platform
 
@@ -3189,7 +3189,7 @@ E.     法律遵循
 
 您還可以反對某些處理，包括選擇退出有針對性的廣告。 
 
-Playtika 允許所有玩家透過[Playtika 隱私入口網站](https://playtikaprod.service-now.com/privacy_security.do) 或遊戲可存取的帮助頁面中提出請求。
+Playtika 允許所有玩家透過[Playtika 隱私入口網站](https://playtika.service-now.com/privacy_security.do) 或遊戲可存取的帮助頁面中提出請求。
 
 A.     管理我們從平台取得的資訊
 
@@ -3512,7 +3512,7 @@ Yaşadığınız yerdeki geçerli yasaya bağlı olarak Playtika'nın hakkınız
 * elektronik bir kopya (veya taşınabilirlik) ;
 * hedefli reklamcılığın devre dışı bırakılması dahil olmak üzere belirli işlemlere itiraz etmek hakkınız da olabilir.
 
-Playtika, tüm oyuncularının taleplerini [Playtika Privacy Portal](https://playtikaprod.service-now.com/privacy_security.do) veya oyun içinde erişilebilir olan Destek sayfası aracılığıyla göndermelerine müsaade eder.
+Playtika, tüm oyuncularının taleplerini [Playtika Privacy Portal](https://playtika.service-now.com/privacy_security.do) veya oyun içinde erişilebilir olan Destek sayfası aracılığıyla göndermelerine müsaade eder.
 
 **A. Platformlardan Aldığımız Bilgileri Yönetme**
 
@@ -3690,7 +3690,7 @@ In each of the following instances, which we occasionally offer on some, but not
 | Join our Facebook bot | Identifiers, Internet or other electronic network activity information | Connect with us through our Facebook bot |
 | Mailing list | Identifiers | Subscribe to our mailing list when promoted | 
 
-You have a right to withdraw from the service difference at any time. To do so, please submit a request through the [Playtika Privacy Portal](https://playtikaprod.service-now.com/privacy_security.do)  [](#_msocom_19)or via the Privacy option available in the Support section in the game settings.
+You have a right to withdraw from the service difference at any time. To do so, please submit a request through the [Playtika Privacy Portal](https://playtika.service-now.com/privacy_security.do)  [](#_msocom_19)or via the Privacy option available in the Support section in the game settings.
 
 #### Company
 
@@ -3713,9 +3713,9 @@ You have a right to withdraw from the service difference at any time. To do so, 
 * [Promotion Official Rules](https://www.playtika.com/promotion-official-rules/)
 * [Legal](https://www.playtika.com/legal/)
 * [Marketing Agreement](https://www.playtika.com/marketing-agreement/)
-* [Your Privacy Rights](https://playtikaprod.service-now.com/privacy_security.do)
+* [Your Privacy Rights](https://playtika.service-now.com/privacy_security.do)
 * [Candidate Privacy Notice](https://www.playtika.com/candidate-privacy-notice/)
-* [Responsible Gaming](https://playtikaprod.service-now.com/responsible_gaming_start.do)
+* [Responsible Gaming](https://playtika.service-now.com/responsible_gaming_start.do)
 
 #### Careers
 
@@ -3794,9 +3794,9 @@ Terms and Policies
 * [Promotion Official Rules](https://www.playtika.com/promotion-official-rules/)
 * [Legal](https://www.playtika.com/legal/)
 * [Marketing Agreement](https://www.playtika.com/marketing-agreement/)
-* [Your Privacy Rights](https://playtikaprod.service-now.com/privacy_security.do)
+* [Your Privacy Rights](https://playtika.service-now.com/privacy_security.do)
 * [Candidate Privacy Notice](https://www.playtika.com/candidate-privacy-notice/)
-* [Responsible Gaming](https://playtikaprod.service-now.com/responsible_gaming_start.do)
+* [Responsible Gaming](https://playtika.service-now.com/responsible_gaming_start.do)
 
 Careers
 -------
