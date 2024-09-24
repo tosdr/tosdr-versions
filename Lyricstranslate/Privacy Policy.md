@@ -107,67 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
+[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
+
+New translation
+
+[Lamp - ムード・ロマンティカNo2 (Mood Romantica No2)](https://lyricstranslate.com/en/lamp-mood-romantica-no2-transliteration)
+
+Japanese → Transliteration
+
+[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
+
+New collection
+
+[🇰🇷 Frozen I & II (2013 & 2019) | Korean Soundrack List ~ 한글](https://lyricstranslate.com/en/collection/frozen-i-ii-2013-2019-korean-soundrack)
+
+[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
+
+New translation
+
+[Lamp - マーガレット (Marguerites)](https://lyricstranslate.com/en/lamp-marguerites-transliteration)
+
+Japanese → Transliteration
+
+[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
+
+New song
+
+[Johnny Hallyday - Les Chevaliers du Ciel](https://lyricstranslate.com/en/johnny-hallyday-les-chevaliers-du-ciel-lyrics)
+
+French
+
+[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
+
+New translation
+
+[Cesare Cremonini - Ora che non ho più te](https://lyricstranslate.com/en/cesare-cremonini-ora-che-non-ho-piu-te-english)
+
+Italian → English
+
+[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
+
+New translation
+
+[Lamp - ソーダ水の想い出 (Sodasui no omoide)](https://lyricstranslate.com/en/lamp-sodasui-no-omoide-transliteration)
+
+Japanese → Transliteration
+
 [![M Naomi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1287215-1667435387.jpg)](https://lyricstranslate.com/en/translator/m-naomi "M Naomi")
 
 New translation
 
-[Alain Delon - Comme au cinéma](https://lyricstranslate.com/en/alain-delon-comme-au-cinema-japanese)
+[Renzo Rubino - Custodire](https://lyricstranslate.com/en/renzo-rubino-custodire-japanese)
 
-French → Japanese
+Italian → Japanese
 
-[![SLOR](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1456124-1713023678.jpg)](https://lyricstranslate.com/en/translator/slor "SLOR")
-
-New song
-
-[Karry Wang - Champion My Way](https://lyricstranslate.com/en/karry-wang-champion-my-way-lyrics)
-
-Chinese
-
-[![SiHo_92](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1367737-1664576535.jpg)](https://lyricstranslate.com/en/translator/siho92 "SiHo_92")
-
-New comment
-
-Link: https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1166473#comment-1166473)
-
-[![jadethirwallstan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1562426-1723830877.jpg)](https://lyricstranslate.com/en/translator/jadethirwallstan "jadethirwallstan")
+[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
 
 New translation
 
-[Lady Gaga - Venus](https://lyricstranslate.com/en/lady-gaga-venus-romanian)
+[Yūko Andō - summer](https://lyricstranslate.com/en/yuko-ando-summer-transliteration)
 
-English → Romanian
-
-[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
-
-New request
-
-[Shlomit Aharon - תגיד לי](https://lyricstranslate.com/en/request/%D7%AA%D7%92%D7%99%D7%93-%D7%9C%D7%99)
-
-Hebrew → English
-
-[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
-
-New request
-
-[Nechama Hendel - שלושה בנים (Shlosha Banim)](https://lyricstranslate.com/en/request/%D7%A9%D7%9C%D7%95%D7%A9%D7%94-%D7%91%D7%A0%D7%99%D7%9D)
-
-Hebrew → English
-
-[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
-
-New request
-
-[Nechama Hendel - שושנה (Shoshana)](https://lyricstranslate.com/en/request/%D7%A9%D7%95%D7%A9%D7%A0%D7%94)
-
-Hebrew → English
-
-[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
-
-New request
-
-[Nechama Hendel - הנך יפה (Hinach Yaffa)](https://lyricstranslate.com/en/request/%D7%94%D7%A0%D7%9A-%D7%99%D7%A4%D7%94)
-
-Hebrew → English
+Japanese → Transliteration
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
