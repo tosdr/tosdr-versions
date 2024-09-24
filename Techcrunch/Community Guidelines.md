@@ -97,13 +97,13 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [Apple Intelligence](https://techcrunch.com/2024/09/19/apple-intelligence-is-now-live-in-public-beta-heres-what-it-offers-and-how-to-enable-it/)
-* [Cruise Robotaxis](https://techcrunch.com/2024/09/19/cruise-avs-return-to-bay-area-year-after-pedestrian-crash/)
-* [Amazo Video Generator](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/)
+* [Meta Connect](https://techcrunch.com/2024/09/23/meta-connect-2024-how-to-watch-the-metaverse-and-generative-ai-event/)
+* [CloudKitchens Lawsuit](https://techcrunch.com/2024/09/24/travis-kalanick-cloudkitchens-lawsuit-wrongful-termination-pregnant/)
+* [ChatGPT Advanced Voice Mode](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
+* [TikTok Music](https://techcrunch.com/2024/09/24/bytedance-is-shutting-down-tiktok-music-globally/)
 * [iOS 18](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
-* [Snap Spectacles](https://techcrunch.com/2024/09/17/snaps-extremely-large-spectacles-bring-impressive-ar-to-developers-at-99-a-month/)
 * [Tech Layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
 * [X](https://twitter.com/techcrunch)
