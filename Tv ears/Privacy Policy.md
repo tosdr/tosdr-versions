@@ -117,7 +117,7 @@ For the purposes of this Privacy Policy:
 
 **Account** means a unique account created for You to access our Service or parts of our Service.
 
-**Website** refers to TV EARS, accessible from tvears.com
+**Website** refers to TV EARS, accessible from www.tvears.com
 
 **Service** refers to the Website.
 
@@ -464,7 +464,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-By visiting this page on our website: tvears.com
+By visiting this page on our website: www.tvears.com
 
 By phone number: 1-888-883-3277
 
