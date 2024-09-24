@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 161 utilisateurs actifs
+##### 673 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows : comment savoir si vous avez une édition Famille ou Professionnel ?](https://lecrabeinfo.net/windows-comment-savoir-si-vous-avez-une-edition-famille-ou-professionnel.html)
 * [Google enterre le Chromecast : découvrez son remplaçant, le Google TV Streamer](https://lecrabeinfo.net/google-enterre-le-chromecast-decouvrez-son-remplacant-le-google-tv-streamer.html)
 * [Windows 11 : afficher la clé de sécurité Wifi de n’importe quel réseau](https://lecrabeinfo.net/windows-11-afficher-la-cle-de-securite-wifi-de-nimporte-quel-reseau.html)
-* [Arrivée officielle du noyau Linux 6.10 : que contient-il ?](https://lecrabeinfo.net/arrivee-officielle-du-noyau-linux-6-10-que-contient-il.html)
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 68 526 membres
-* 900 articles
+* 901 articles
 * 26 583 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
