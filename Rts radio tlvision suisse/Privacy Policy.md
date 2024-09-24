@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
+* [Proche-Orient](https://www.rts.ch/info/dossiers/2023/guerre-entre-israel-et-le-hamas/)
 
 #### S'informer
 
