@@ -30,8 +30,8 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Shohei Ohtani](https://www.japantimes.co.jp/tag/shohei-ohtani/ "Shohei Ohtani")
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
+* [NOTO PENINSULA FLOODING](https://www.japantimes.co.jp/tag/noto-peninsula/ "NOTO PENINSULA FLOODING")
 * [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/about-us/privacy/podcast/deep-dive/ "Deep Dive")
@@ -467,6 +467,10 @@ Revised June 1, 2022
 
   [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
 
+[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+
+  [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+
 [What does America stand for? The world no longer knows.](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
 
   [![U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422890.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ")](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
@@ -479,11 +483,13 @@ Revised June 1, 2022
 
   [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
 
-[Kim Jong Un offers tepid praise to China as he cozies up to Russia](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
+[Saying good riddance to what bugs me about a Japanese summer](https://www.japantimes.co.jp/community/2024/09/23/voices/allen-community-summer-insects-fall-annoying/ "Saying good riddance to what bugs me about a Japanese summer")
 
-  [![North Korean leader Kim Jong Un, meets with Sergei Shoigu, Secretary of the Security Council of Russia, earlier this month. 
-](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "North Korean leader Kim Jong Un, meets with Sergei Shoigu, Secretary of the Security Council of Russia, earlier this month. 
-")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
+  [![Time is nearly up for the hordes of insects that are thriving more than ever in Japan's increasingly boiling summer.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/421989.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Time is nearly up for the hordes of insects that are thriving more than ever in Japan's increasingly boiling summer.")](https://www.japantimes.co.jp/community/2024/09/23/voices/allen-community-summer-insects-fall-annoying/ "Saying good riddance to what bugs me about a Japanese summer")
+
+[Does Shinjiro Koizumi have what it takes to lead Japan?](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/koizumi-buzz/ "Does Shinjiro Koizumi have what it takes to lead Japan?")
+
+  [![Former environment minister Shinjiro Koizumi, a candidate for ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/422978.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former environment minister Shinjiro Koizumi, a candidate for ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/koizumi-buzz/ "Does Shinjiro Koizumi have what it takes to lead Japan?")
 
 [Jimgu: A farm-driven restaurant of outstanding local variety](https://www.japantimes.co.jp/life/2024/09/22/food-drink/jimgu-enowa-farm-yufuin-oita/ "Jimgu: A farm-driven restaurant of outstanding local variety")
 
@@ -496,14 +502,6 @@ Revised June 1, 2022
 [Marina Tsukada lets local lives shape her work](https://www.japantimes.co.jp/culture/2024/09/20/film/marina-tsukada-nagano-prefecture/ "Marina Tsukada lets local lives shape her work")
 
   [![Marina Tsukada got the idea for her anthology “Mitsuki, Sekai” from her acquaintance with the two young lead actors, whom she first met at a video workshop she conducted in Nagano Prefecture. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422676.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Marina Tsukada got the idea for her anthology “Mitsuki, Sekai” from her acquaintance with the two young lead actors, whom she first met at a video workshop she conducted in Nagano Prefecture. ")](https://www.japantimes.co.jp/culture/2024/09/20/film/marina-tsukada-nagano-prefecture/ "Marina Tsukada lets local lives shape her work")
-
-[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
-
-  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
-
-[How China’s dominance of solar and batteries is impacting Japan’s energy transition](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
-
-  [![Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421263.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Solar panels and wind turbines at a power plant in Hami in China's Xinjiang region. The U.S. and other countries have described China’s actions against Uyghurs in the Xinjiang region, a key cog in the cleantech supply chain, as a genocidal campaign aimed at erasing an entire culture.")](https://www.japantimes.co.jp/environment/2024/09/16/energy/china-supply-chain-energy-transition/ "How China’s dominance of solar and batteries is impacting Japan’s energy transition")
 
 Podcast
 -------
@@ -566,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+[Rice inflation to persist despite harvest, as prices rise over 20% on year](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-rice-inflation/ "Rice inflation to persist despite harvest, as prices rise over 20% on year")
 
-10 hours ago
+28 mins ago
 
-[Kibbutz visit stirs grim memories of Israeli family slain on Oct. 7](https://www.japantimes.co.jp/news/2024/09/23/world/kibbutz-visit-israeli-family-oct-7/ "Kibbutz visit stirs grim memories of Israeli family slain on Oct. 7")
+[Tsunami advisory lifted after 50 cm wave reaches Hachijojima](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Tsunami advisory lifted after 50 cm wave reaches Hachijojima")
 
-11 hours ago
+55 mins ago
 
-[Top Japanese and Chinese officials hold talks in wake of deadly stabbing](https://www.japantimes.co.jp/news/2024/09/23/japan/crime-legal/vice-foreign-minister-china-stabbing/ "Top Japanese and Chinese officials hold talks in wake of deadly stabbing")
+[India extends unprecedented invite to Myanmar's anti-junta forces, sources say](https://www.japantimes.co.jp/news/2024/09/24/asia-pacific/india-myanmar-anti-junta-forces/ "India extends unprecedented invite to Myanmar's anti-junta forces, sources say")
 
-[Former PM Yoshihiko Noda elected new leader of main opposition CDP](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
+59 mins ago
 
-[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+[Israeli economy struggles under weight of Gaza war](https://www.japantimes.co.jp/news/2024/09/24/world/israeli-economy-gaza-war/ "Israeli economy struggles under weight of Gaza war")
+
+1 hours ago
+
+[China unleashes stimulus blitz in push to hit annual growth goal](https://www.japantimes.co.jp/business/2024/09/24/economy/china-stimulus-annual-growth-goal/ "China unleashes stimulus blitz in push to hit annual growth goal")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
