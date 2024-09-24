@@ -4,16 +4,16 @@
     
     Shop
     
-    * [Create your own starter kit](https://www.philips-hue.com/en-us/products/promotions/create-your-own-starter-kit)
+    * [Halloween sale](https://www.philips-hue.com/en-us/products/promotions/halloween)
     * [New](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
     * [Top sellers](https://www.philips-hue.com/en-us/products/all-products?page=1&sort=most-sold)
     * [Bundles](https://www.philips-hue.com/en-us/products/smart-light-bundles)
     * [Shop all](https://www.philips-hue.com/en-us/products/all-products)
     
-    [![Create your own starter kit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
+    [![Halloween sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
-    Create your own starter kit](https://www.philips-hue.com/en-us/products/promotions/create-your-own-starter-kit)
+    Halloween sale](https://www.philips-hue.com/en-us/products/promotions/halloween)
     
     [![Only available at philips-hue.com](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
