@@ -333,15 +333,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Laurence Escalante built Virtual Gaming Worlds into a multibillion-dollar business. But competition and regulatory pressures are mounting.](https://static.ffx.io/images/$zoom_0.2888%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_204/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1991178d80a757a1cc5836acaf37a7a27662aef9)](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
+[![Sam Prince started the fast-growing Mexican restaurant chain Zambrero after finishing medical school.](https://static.ffx.io/images/$zoom_0.4981%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_691%2C$y_201/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/38dce7fb0324c78527110c4887044fb476bdc98a)](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
 
-### [Online casino mogul gets into lotteries as profits surge](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
+### [Rich Lister’s Mexican chain locks in 400th location](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
 
-* Primrose Riordan
+* 58 mins ago
+* Yolanda Redrup
 
-* ### [Andrew Hagger and Guy Debelle in new advisory firm for the ultra rich](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
+* ### [Online casino mogul gets into lotteries as profits surge](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
     
-* ### [The sad and lonely lives of the world’s richest kids](https://www.afr.com/wealth/personal-finance/the-sad-and-lonely-lives-of-the-world-s-richest-kids-20240912-p5ka2i)
+* ### [Andrew Hagger and Guy Debelle in new advisory firm for the ultra rich](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
     
 
 [The Australian Financial Review](https://www.afr.com/)
