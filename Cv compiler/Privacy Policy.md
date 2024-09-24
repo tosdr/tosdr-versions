@@ -1797,6 +1797,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Medical Social Worker](https://cvcompiler.com/medical-social-worker-resume-examples)
 
+[Healthcare Operations Manager](https://cvcompiler.com/healthcare-operations-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
