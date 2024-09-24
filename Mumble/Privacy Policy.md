@@ -24,15 +24,6 @@ As the website itself has no form of user input, we do not handle any user and p
 
 Contributors to the website source code (content and technical) contributors will committed to the source code history in the form the contributor submits. be shown as such under the names they identify themselves as and contribute as. Contributors may be shown on individual webpages for attribution.
 
-The Documentation Wiki at `wiki.mumble.info`
---------------------------------------------
-
-The Mumble documentation wiki makes use of Google Analytics for website usage statistics. A cookie with name `_ga` specific to our domain is used for tracking. Please refer to [this Google page for more information](https://support.google.com/analytics/answer/6004245).
-
-The webserver may log non-person specific information.
-
-Users registering and account and making changes to the wiki content will do so under the specified name, account and license. They will be listed in a pages history as a contributor along with their contribution.
-
 Mumble Client
 -------------
 
@@ -67,7 +58,7 @@ The user can prevent sending OS information to servers they connect to in the Se
 Mumble Server (previously called “Murmur”)
 ------------------------------------------
 
-When the server is configured to register with our public server list ([`register*` settings](https://wiki.mumble.info/wiki/Murmur.ini#Server_Registration)) the configured or automatically determined information (as described in the configuration documentation) is sent to us and consequently being listed publicly on our public server list.
+When the server is configured to register with our public server list ([`register*` settings](https://www.mumble.info/documentation/administration/config-file/)) the configured or automatically determined information (as described in the configuration documentation) is sent to us and consequently being listed publicly on our public server list.
 
 * [Contact](https://www.mumble.info/contact/)
 * [Security](https://www.mumble.info/security/)
