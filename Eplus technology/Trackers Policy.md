@@ -22,7 +22,7 @@ Search
         * [AI Journey Support](https://eplus.com/solutions/ai/ai-journey-support)
         * [Workshops and Assessments](https://eplus.com/solutions/ai/ai-workshops-assessments)
         * [AI Advanced Services](https://eplus.com/solutions/ai/ai-advanced-services)
-        * [AI Innovation Lab](https://eplus.com/solutions/ai/AI-Innovation-Lab)
+        * [AI Experience Center](https://eplus.com/solutions/ai/AI-Experience-Center)
         * [AI-Optimized Infrastructure](https://eplus.com/solutions/ai/ai-optimized-infrastructure)
     * [Cloud](https://eplus.com/solutions/cloud) [Cloud](https://eplus.com/solutions/cloud)
         * [Public Cloud](https://eplus.com/solutions/cloud/public-cloud)
