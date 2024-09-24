@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/reading/podcast-1025-the-life-and-legacy-of-louis-lamour/)
+
+[Podcast #1,025
+
+###### The Life and Legacy of Louis L’Amour](https://www.artofmanliness.com/living/reading/podcast-1025-the-life-and-legacy-of-louis-lamour/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
 
 [Podcast #1,024
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,021
 
 ###### You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
-
-[Podcast #1,020
-
-###### Becoming a Tech Intentional Family](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
