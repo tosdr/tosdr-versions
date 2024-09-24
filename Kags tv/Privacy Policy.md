@@ -29,9 +29,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/f2904c57-58d1-49b3-b2fc-955ffcb4b26c/20240923T205614/f2904c57-58d1-49b3-b2fc-955ffcb4b26c_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f2904c57-58d1-49b3-b2fc-955ffcb4b26c/20240923T205614/f2904c57-58d1-49b3-b2fc-955ffcb4b26c_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-man-last-seen-in-iola-grimes-county-early-in-the-morning-on-sept-23-2024/500-f03825fc-3599-47a3-828c-eab0ce0f19a3)
+    *  [![](https://media.kagstv.com/assets/KENS/images/862f7be9-e895-4de8-a3ae-af7584df5e6f/862f7be9-e895-4de8-a3ae-af7584df5e6f_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/862f7be9-e895-4de8-a3ae-af7584df5e6f/862f7be9-e895-4de8-a3ae-af7584df5e6f_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-man-last-seen-in-iola-grimes-county-early-in-the-morning-on-sept-23-2024/500-f03825fc-3599-47a3-828c-eab0ce0f19a3)
         
-        #### [Have you seen this person? Grimes County authorities looking to find missing man](https://www.kagstv.com/article/news/local/missing-man-last-seen-in-iola-grimes-county-early-in-the-morning-on-sept-23-2024/500-f03825fc-3599-47a3-828c-eab0ce0f19a3)
+        #### [Missing man last seen in Grimes County safely located](https://www.kagstv.com/article/news/local/missing-man-last-seen-in-iola-grimes-county-early-in-the-morning-on-sept-23-2024/500-f03825fc-3599-47a3-828c-eab0ce0f19a3)
         
     *  [![](https://media.kagstv.com/assets/WWL/images/bc8482d6-2fb5-44cd-948f-a33edc50d1a6/bc8482d6-2fb5-44cd-948f-a33edc50d1a6_16x9.jpg) ![](https://media.kagstv.com/assets/WWL/images/bc8482d6-2fb5-44cd-948f-a33edc50d1a6/bc8482d6-2fb5-44cd-948f-a33edc50d1a6_360x203.jpg)](https://www.kagstv.com/article/news/local/burn-ban-in-burleson-county-sept-23-2024/500-7535b360-b6e8-4ac8-8a4f-7041e845da16)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-77°
+81°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
