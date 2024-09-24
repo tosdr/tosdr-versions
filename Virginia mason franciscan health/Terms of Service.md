@@ -79,6 +79,7 @@ Issue identified with inaccurate appointment reminder letters being sent. [Learn
     Centers of care
     ---------------
     
+    * [Center for Cancer Care](https://www.vmfh.org/content/vmfhorg/en/our-services/cancer-care)
     * [Center for Cardiovascular Health](https://www.vmfh.org/content/vmfhorg/en/our-services/center-for-cardiovascular-health)
     * [Center for Digestive Health](https://www.vmfh.org/content/vmfhorg/en/our-services/digestive-health)
     * [Center for Neurosciences & Spine](https://www.vmfh.org/content/vmfhorg/en/our-services/center-for-neurosciences-spine)
@@ -89,9 +90,9 @@ Issue identified with inaccurate appointment reminder letters being sent. [Learn
     Clinical services
     -----------------
     
-    * [Cancer care](https://www.vmfh.org/content/vmfhorg/en/our-services/cancer-care)
     * [Gynecology](https://www.vmfh.org/content/vmfhorg/en/our-services/gynecology)
     * [Obstetrics](https://www.vmfh.org/content/vmfhorg/en/our-services/pregnancy-childbirth)
+    * [Orthopedics](https://www.vmfh.org/content/vmfhorg/en/our-services/orthopedics-and-sports-medicine)
     * [Primary care](https://www.vmfh.org/content/vmfhorg/en/our-services/primary-care-in-person-and-virtual-care)
     * [Urgent care](https://www.vmfh.org/content/vmfhorg/en/our-services/urgent-walk-in-care)
     
