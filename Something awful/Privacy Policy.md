@@ -205,22 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [WWF Buys WCW!](https://www.somethingawful.com/news/wwf-buys-wcw/)
-* [Dogs is good people.](https://www.somethingawful.com/mooflogs/dogs-good-people/)
-* [Video Games According to Grandma](https://www.somethingawful.com/photoshop-phriday/video-games-according/1/)
-* [Gone Girl; Annabelle; Left Behind; The Song; The Good Lie](https://www.somethingawful.com/current-movie-reviews/gone-girl-annabelle/1/)
+* [Animal Human Hybrids](https://www.somethingawful.com/comedy-goldmine/animal-human-hybrids/1/)
+* [Jump the Shark, Owl Fantasy and Warrior Matrix](https://www.somethingawful.com/weekend-web/jumptheshark-owls-orgonite/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [Advanced Dungeons & Dragons: 1st Edition Fiend Folio (part 2)](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-2/1/)
+* [When Bad Tattoos Become Real!](https://www.somethingawful.com/photoshop-phriday/bad-tattoos-real/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [Have any goons ever been on a cruise?](http://forums.somethingawful.com/showthread.php?threadid=4071003 "Have any goons ever been on a cruise?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Stuff that gets an overly bad rap but really isnt that terrible](http://forums.somethingawful.com/showthread.php?threadid=4071105 "Stuff that gets an overly bad rap but really isnt that terrible")
 
 ### Random Articles
 
-* [Paintings of Light II](https://www.somethingawful.com/photoshop-phriday/paintings-light-ii/1/)
-* [We're Not Afraid](https://www.somethingawful.com/awful-links/awful-link-3041/)
-* [The Last Words of Presidents](https://www.somethingawful.com/news/last-words-presidents/)
-* [Gaming Guyz 15: The Top Games of 2010](https://www.somethingawful.com/flash-tub/gaming-guyz-15/)
-* [Much Ado About Yams](https://www.somethingawful.com/flash-tub/much-ado-about/)
+* [Planet Church (Thanks, Shed!)](https://www.somethingawful.com/awful-links/planet-church-666/)
+* [The Basement Dance Studio (Thanks, theguyincorner!)](https://www.somethingawful.com/awful-links/basement-dance-studio/)
+* [Hating Anime Haters](https://www.somethingawful.com/webcam-ward/animerant/)
+* [The Perilous Perils of Climate Calamity](https://www.somethingawful.com/news/perilous-perils-climate/)
+* [A Solemn Moment of Silence for Those Who Have Fallen](https://www.somethingawful.com/news/solemn-moment-silence/)
 
 [Random!](https://www.somethingawful.com/random/)
 
