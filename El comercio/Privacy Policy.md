@@ -31,1049 +31,1052 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Leones, Vargas Torres y Chacaritas se aferran a la Serie B
-==========================================================
+El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro
+===========================================================
 
-El Reglamento de la Liga Pro Serie B establece que dos equipos descenderán a la Segunda Categoría al final del año.
--------------------------------------------------------------------------------------------------------------------
+Ever Hugo Almeida y el Mushuc Runa vuelan alto en la segunda etapa de la Liga Pro y sorprenden al fútbol ecuatoriano.
+---------------------------------------------------------------------------------------------------------------------
 
-![Jugador de Chacaritas en un partido de la Liga Pro Serie B 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/serie_b_leones_3.jpg)
+![Ever Hugo Almeida, DT de Mushuc Runa, durante uno de sus entrenamientos en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-23T193609.444.jpg)
 
-**Leones (Imbabura), Vargas Torres (Esmeraldas) y Chacaritas (Tungurahua)** son los tres equipos que están comprometidos con la parte baja de la tabla de posiciones de la Liga Pro Serie B 2024.
+Las historias de **Mushuc Runa y Ever Hugo Almeida** se unieron a mediados del primer semestre del 2024 en la Liga Pro. A partir de la llegada del entrenador, el ‘Ponchito’ ha mejorado en cuanto a resultados y desempeño y sorprende en el fútbol ecuatoriano.
 
-Al final de la temporada **dos equipos son los que descenderán a la Segunda Categoría** de sus respectivas provincias, por lo que las seis fechas restantes de la Serie B se proyectan como las más intensas de la temporada.
+Con siete jornadas de la **segunda etapa** del torneo nacional transcurrida, la zona alta de la tabla se mantiene apretada y los líderes no se distancian. En la zona alta de esta, un nombre que no ha sido habitual resalta y es el de **Mushuc Runa**.
 
 ### Más noticias:
 
-* [Jessica Palacios, bronce en el Mundial Juvenil de Levantamiento de Pesas](https://www.elcomercio.com/deportes/jessica-palabos-bronce-mundial-juvenil-levantamiento-pesas.html "Jessica Palacios Dajomes, bronce en el Mundial Juvenil de Levantamiento de Pesas")
-* [Willian Pacho tuvo su primer tropezón con el PSG](https://www.elcomercio.com/deportes/willian-pacho-psg-reims-partido-francia.html "Willian Pacho tuvo su primer tropezón con el PSG")
-* [Un espectáculo deportivo, familiar y solidario se vivió en la Bimbo Global Race](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-ecuador.html "Un espectáculo deportivo, familiar y solidario se vivió en la Bimbo Global Race")
+* [La Liga Pro modifica horarios por cortes de luz en Ecuador](https://www.elcomercio.com/deportes/futbol/liga-pro-horarios-fecha8-etapa.html "La Liga Pro modifica horarios por cortes de luz en Ecuador")
+* [Universidad Católica ganó y sacudió la tabla de posiciones](https://www.elcomercio.com/deportes/futbol/universidad-catolica-tabla-posiciones-ligapro.html "Universidad Católica ganó y sacudió la tabla de posiciones")
+* [Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro](https://www.elcomercio.com/deportes/emelec-partido-tecnico-universitario-liga-pro.html "Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro")
 
-En un principio no estaban contemplados los descensos, pero el 13 de septiembre **se dio marcha atrás a esta decisión aprobada en febrero** y se incluyeron los dos descensos con lo que el presente de Leones, Vargas Torres y Chacaritas tuvo un cambio radical.
+El equipo de Tungurahua llega a la mitad de la vigente ronda en el segundo puesto de esta. En su último compromiso, el conjunto de **Ever Hugo Almeida** goleó por 3-0 a Orense y sumó 14 puntos, lo cual lo dejó a tan solo dos de **Liga de Quito**, puntero del campeonato.
 
-Leones FC cree en el milagro
-----------------------------
+En buen momento y en tal posición, el plantel del interior se ubica por encima de otros grandes del país y candidatos a ganar la etapa. La escuadra ha conseguido ponerse por encima de equipos como **Barcelona, Emelec, El Nacional o Independiente del Valle.**
 
-Con Esteban Paz, exdirigente de Liga de Quito, a la **cabeza del proyecto desde el segundo semestre de este año**, Leones FC se aferran a sus opciones de mantenerse en la Serie B y dan pasos en firme para lograrlo.
+Un rendimiento excepcional para Mushuc Runa y Ever Hugo Almeida
+---------------------------------------------------------------
 
-Leones FC respiró con **alivio al ganarle 0-1 a San Antonio en la fecha 29** y alejarse de la zona del descenso en la tabla de posiciones. 
+En los siete partidos que ha disputado en la segunda etapa, **Ever Hugo Almeida** ha triunfado en cuatro y empatado en dos. La única derrota que sufrió se llevó a cabo frente a **Universidad Católica**, contra quien sufrió una goleada de 4-1.
 
-En la jornada 29, ‘visitaron’ a San Antonio en el estadio Olímpico de Ibarra y **le ganaron gracias a un gol de Tomás Ibarra**, delantero argentino de 21 años que llegó como refuerzo para el segundo semestre del 2024. 
+Pese a aquel tropezón ante los camarattas, los números del ‘Ponchito’ avalan su posición, pues ha vencido a **Emelec, Imbabura, Aucas y Orense**. Aunque la escuadra lucía favorita ante **Cumbayá y Libertad**, contra tales clubes se llevó un empate.
 
-El encuentro entre los conjuntos de **Imbabura se jugó la noche del martes 17 de septiembre**, con lo que la fecha 29 de la Serie B empezó con equipos que pelean para ascender y otros para no perder la categoría.
+Con el momento de **Mushuc Runa**, Almeida también revalida sus capacidades y lo que realizó con El Nacional. En la escuadra de los ‘puros criollos’, este consiguió ascender desde la Serie B y llevarlo en dos oportunidades a la Copa Libertadores, a pesar de contar con plantillas limitadas entre 2022 y mediados de 2024.
 
-Con este resultado escalaron a la octava posición con 28 puntos y un gol diferencia negativo de -10 y, momentáneamente, le escaparon al fantasma del descenso.
+El entrenador uruguayo nacionalizado paraguayo, y multicampeón de América como futbolista, ya cuenta con éxitos previos el balompié ecuatoriano. Este fue campeón en 2005 y 2006 con **El Nacional**.
 
-En la jornada 31, **Leones FC serán locales del Manta en el Olímpico de Ibarra** el jueves 26 de septiembre, desde las 19:00. 
+¿Cuál es el calendario de Mushuc Runa?
+--------------------------------------
 
-Los manabitas (47) pelean palmo a palmo con Guayaquil City (45) por el segundo cupo para el ascenso.
+En sus próximos cotejos en la Liga Pro, **Mushuc Runa** tendrá posibilidades y enfrentará retos para mantener su posición, aspirar a subir o entrar a un torneo internacional. En su siguiente choque, la escuadra se medirá a **Técnico Universitario**, como visitante, sin embargo, también le restan rivales directos.
 
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/09/serie_b_leones_1-1024x683.jpg)
+Tras el ‘Rodillo Rojo’, los rivales serán Deportivo Cuenca, Liga de Quito, Macará, Mushuc Runa, El Nacional y Barcelona.
 
-Foto: Facebook del club.
+Estos son los países con mejor calidad de vida
+==============================================
 
-Vargas Torres también se encomienda al milagro
-----------------------------------------------
+Suiza lidera esta lista debido a su sistema de bienestar social, su economía estable y su entorno natural impresionante.
+------------------------------------------------------------------------------------------------------------------------
 
-**Vargas Torres también tiene 28 puntos** y un gol diferencia negativo de -10, un panorama parecido al de Leones FC.
+![Vista de la fachada del Banco Nacional Suizo, en Berna, Suiza.](https://www.elcomercio.com/wp-content/uploads/2024/09/Suiza-banco-efe.jpg)
 
-En la última jornada empataron en el **Folke Anderson de Esmeraldas 1-1 con Guayaquil City**, dejando escapar dos puntos que en la sumatoria final les pueden pesar para permanecer en la Serie B.
+La **calidad de vida** es un indicador fundamental para medir el **bienestar general** de una población. La [Organización de las Naciones Unidas](https://www.elcomercio.com/actualidad/politica/ecuador-pedido-onu-sobre-venezuela.html "https://www.elcomercio.com/actualidad/politica/ecuador-pedido-onu-sobre-venezuela.html") (ONU) evalúa esta calidad a través de **diversos factores**, como la **salud**, la **educación**, el **nivel de ingresos** y el **entorno general** en este 2024.
 
-El calendario de los **esmeraldeños contempla visitar a 9 de Octubre en Guayaquil**, Independiente Juniors en Chillo-Jijón y Manta en la ciudad homónima.
+### Más noticias
 
-De local recibirán al Cuniburo, el **líder del torneo y principal candidato para ascender**; Chacaritas, rival directo para el descenso; y San Antonio, que poco a poco se aleja de esta incómoda situación.
+* [Las cinco ciudades con la mejor vida nocturna](https://www.elcomercio.com/actualidad/mundo/10-ciudades-mejor-vida-nocturna.html "https://www.elcomercio.com/actualidad/mundo/10-ciudades-mejor-vida-nocturna.html")
+* [Los 10 países más seguros para viajar en este 2024](https://www.elcomercio.com/actualidad/mundo/10-ciudades-mejor-vida-nocturna.html "https://www.elcomercio.com/actualidad/mundo/10-ciudades-mejor-vida-nocturna.html")
+* [Los países más contaminados del mundo](https://www.elcomercio.com/actualidad/mundo/paises-contaminados-mundo.html "https://www.elcomercio.com/actualidad/mundo/paises-contaminados-mundo.html")
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/09/serie_b_leones_2-1024x683.jpg)
+En este contexto, estos son los cinco países con la mejor calidad de vida.
 
-Foto: API.
+5\. Australia
+-------------
 
-Chacaritas es el más comprometido
----------------------------------
+Australia ocupa el quinto lugar en esta lista de los países con mejor calidad de vida. Cuenta con un sistema de salud universal. Se basa en el programa **Medicare**, que cubre la mayoría de los servicios médicos.
 
-De los tres equipos, **Chacaritas es el más comprometido con 25 puntos** y un escalofriante gol diferencia negativo de -27.
+Las ciudades australianas, como Melbourne y Sydney, proporcionan una **excelente infraestructura** y acceso a una **amplia gama de servicios**. La seguridad, la calidad del aire y el **equilibrio entre el trabajo** y la **vida personal** son elementos clave que permiten a sus residentes disfrutar de una vida activa y satisfactoria.
 
-En esta jornada cayeron ante **Manta por 2-1, con lo que confirmaron que en las 30 fechas** disputadas son el equipo más débil y hacen ‘méritos’ para perder la categoría.
+4\. Canadá
+----------
 
-El calendario los pondrá frente a Gualaceo (local), **San Antonio (visitante), Guayaquil City (local)**, Vargas Torres (visitante), Cuniburo (local) y Leones FC (visitante), en lo que puede ser uno de los juegos decisivos para definir su futuro.
+Canadá es conocida por su **diversidad cultural** y su **estabilidad social.** La atención médica y los altos estándares educativos aseguran que sus ciudadanos disfruten de una **vida saludable**.
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/09/serie_b_leones_4-1024x683.jpg)
+En cuanto a la educación, los docentes están bien capacitados y certificados. Las **clases suelen ser pequeñas**, lo que permite atención personalizada. Los estudiantes pueden asistir a universidades y colegios de alta calidad.
 
-Foto: API.
+Las ciudades canadienses, como **Vancouver** y **Toronto**, ofrecen un entorno seguro y oportunidades para una vida activa. El acceso a espacios naturales y la alta calidad del aire contribuyen a una vida plena y equilibrada.
+
+3\. Noruega
+-----------
+
+Este país se distingue por su **capacidad para gestionar** eficazmente sus recursos naturales, lo que respalda una **economía sólida** que combina recursos naturales con tecnología avanzada.
+
+El país es **rico en petróleo y gas**, compuestos que impulsan su economía. Noruega también invierte en energías renovables y tecnología. El sistema económico se caracteriza por un alto nivel de estabilidad.
+
+La atención médica y la educación de alta calidad son accesibles para todos los ciudadanos. Además, el país ofrece un entorno natural impresionante, con **amplias oportunidade**s para disfrutar de **actividades al aire libr**e, fortaleciendo la salud y el **bienestar general.**
+
+2\. Dinamarca
+-------------
+
+En segundo lugar está Dinamarca destaca por su enfoque integral hacia el **bienestar.** La **educación** y la **atención médica** gratuitas son pilares fundamentales que garantizan una alta calidad de vida.
+
+El concepto danés de ‘hygge’, que promueve la comodidad y el disfrute de las hechos simples, refleja la felicidad de sus ciudadanos. La baja **criminalidad y las políticas** que favorecen el equilibrio entre el trabajo y la vida personal son factores clave en su alta posición.
+
+1\. Suiza
+---------
+
+Suiza es reconocida por su alta calidad de vida y ocupa el primer lugar. En este 2024 sigue liderando los rankings debido a su robusto sistema de **bienestar social, su economía estable** y su **entorno natural impresionante**.
+
+El país ofrece una atención médica de primer nivel. Se enfoca en la **prevención y el tratamiento** eficaz de enfermedades. Además, los hospitales suizos cumplen con altos estándares de calidad y seguridad.
+
+Suiza además cuenta con un **sistema educativo equitativo**. Las **escuelas públicas son gratuitas**. Además, la educación técnica y profesional es altamente valorada.
+
+Respecto a la economía Suiza es un centro de comercio internacional. La política fiscal es favorable para los negocios.
+
+Justicia de Argentina ordena la captura internacional de Nicolás Maduro
+=======================================================================
+
+Tres jueces de una Sala de la Cámara Federal de Buenos Aires acusaron al presidente de Venezuela por crímenes de lesa humanidad.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![La demanda acusa a Nicolás Maduro y otros 30 funcionarios del Gobierno de Venezuela](https://www.elcomercio.com/wp-content/uploads/2024/09/maduro-detencion.jpg)
+
+La **Justicia de Argentina** ordenó la captura internacional de **Nicolás Maduro** y otros funcionarios del Gobierno de Venezuela, este lunes 23 de septiembre de 2024.
+
+En un fallo calificado como “histórico” por parte del país sudamericano, tres jueces de la Sala I de la Cámara Federal de **Buenos Aires** determinaron la medida.
+
+### Más noticias
+
+* [Venezuela será ‘gran foco de atención’ en la Asamblea de la ONU, según Machado](https://www.elcomercio.com/actualidad/mundo/venezuela-foco-atencion-asamblea-general-onu-segun-machado.html "Venezuela será ‘gran foco de atención’ en la Asamblea de la ONU, según Machado")
+* [Daniel Noboa se reunirá con Javier Milei en Nueva York](https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-reunira-con-javier-milei-en-nueva-york.html "Daniel Noboa se reunirá con Javier Milei en Nueva York")
+* [Javier Milei protagoniza toque de campana en Wall Street y las acciones argentinas brillan](https://www.elcomercio.com/actualidad/mundo/javier-milei-protagoniza-toque-campana-wall-street-acciones-argentinas-brillan.html "Javier Milei protagoniza toque de campana en Wall Street y las acciones argentinas brillan ")
+
+Según detalla el documento, el pedido de “**detención inmediata**” se dio bajo el criterio de “justicia universal” por presuntos crímenes de **lesa humanidad**.
+
+La denuncia asegura que Maduro y otros funcionarios realizaron un “**plan sistemático** de represión, desaparición forzada de personas, tortura, homicidios y persecución contra una porción de la población civil, desarrollado”, desde 2014.
+
+La orden de captura apunta también a **Diosdado Cabello**, ministro de Relaciones Interiores y otros 30 militares de las Fuerzas Armadas, Guardia Nacional Bolivariana y la Agencia de Inteligencia de Venezuela.
+
+El Gobierno argentino informó que trasladará la decisión a la Policía Internacional (**Interpol**) para que se califique con alerta roja a los funcionarios, incluido Nicolás Maduro.
+
+Esto con el objetivo de que sea detenido cuando viaje a cualquier país del mundo en el que no esté políticamente protegido.
+
+“Las órdenes de captura, con fines de extradición, servirán para que todas aquellas naciones que por motivos ideológicos o económicos aún mantienen posiciones ambivalentes sobre lo que pasa en Venezuela, **ya no puedan desentenderse de los graves crímenes de lesa humanidad** perpetrados de manera sistemática”, explicó el abogado Tomás Farini Duggan, y uno de los principales impulsores de la demanda, a diario Clarín.
+
+Orden de detención preventiva contra Javier Milei
+-------------------------------------------------
+
+La decisión de la Justicia de Argentina llega tras la emisión de una orden de detención preventiva que hizo un tribunal de **Venezuela** contra el presidente **Javier Milei**.
+
+La solicitud hecha por Ministerio Público (Fiscalía) de Venezuela demanda un presunto “**robo agravado**” y otros seis delitos relacionados por el caso del **avión venezolano-iraní** que estuvo retenido en Buenos Aires y fue enviado a Estados Unidos en febrero de 2024.
+
+A través de un comunicado, la Sala de Casación Penal del Tribunal Supremo de Justicia (TSJ) explicó que, tras la solicitud del MP, se acordó la orden de detención contra Milei, así como contra la secretaria general de Argentina, **Karina Milei**, y la ministra de Seguridad, **Patricia Bullrich**.
+
+Los otros delitos son: legitimación de capitales, simulación de hechos punibles, privación ilegítima de libertad, interferencia ilícita en la seguridad operacional de la aviación civil e inutilización de aeronaves y asociación para delinquir”. _**Con información de EFE**_.
+
+¿Cuánto ganan los y las futbolistas mejor pagados del mundo?
+============================================================
+
+Cristiano Ronaldo, el futbolista mejor pagado del mundo, supera a Aitana Bonmatí, la mejor pagada, con una amplia diferencia.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Cristiano Ronaldo (izq.) y Aitana Bonmatí, los jugadores mejor pagados del mundo en la rama masculina y femenina.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000130046-scaled.jpg)
+
+La futbolista **Alisha Lehmann** volvió a poner en la palestra el debate en torno a la diferencia salarial entre la rama masculina y femenina dentro del balompié. En del deporte rey, inclusive las mujeres mejor pagadas reciben una cifra **desproporcionadamente inferio**r con relación a los jugadores que más lo hacen.
+
+Lehamn sacó el tema después de que en recientes declaraciones se refiriese al sueldo que percibe su pareja **Douglas Luiz**. El jugador brasilero, al igual que ella, se desempeña en la Juventus; ambos arribaron juntos a mediados de 2024.
+
+### Más noticias:
+
+* [Marc Ter Stegen sufre escalofriante lesión y un histórico se ofrece como reemplazo](https://www.elcomercio.com/deportes/marc-andre-ter-stegen-lesion-barcelona-claudio-bravo.html "Marc Ter Stegen sufre escalofriante lesión y un histórico se ofrece como reemplazo")
+* [¿Cuándo volverá Richard Carapaz a las competencias?](https://www.elcomercio.com/deportes/cuando-volvera-richard-carapaz-a-las-competencias.html "¿Cuándo volverá Richard Carapaz a las competencias?")
+* [Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo](https://www.elcomercio.com/deportes/willian-pacho-piero-hincapie-mejores-mundo.html "Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo")
+
+La futbolista sueca sostuvo que había conversado con el carioca con respeto a su situación en el equipo italiano. Allí, ella señaló el haberle mencionado que realizan la misma actividad, sin embargo, él gana **“100” veces** más que ella[.](https://en.wikipedia.org/wiki/Alisha_Lehmann "https://en.wikipedia.org/wiki/Alisha_Lehmann")
+
+Con relación a los futbolistas mejor pagados, quien mayores ingresos recibe, solamente con su salario, es **Cristiano Ronaldo**; en el lado femenino es **Aitana Bonmatí**. Entre el astro portugués y la española existe un margen de alrededor de 199 millones de dólares.
+
+¿Cuánto ganan los futbolistas mejor pagados?
+--------------------------------------------
+
+Los tres mejores pagados dentro del ámbito masculino del fútbol son **Cristiano Ronaldo, Karim Benzema y Kylian Mbappé**, de los cuales los dos primeros militan en el balompié de Arabia Saudita. Sus salarios varían entre los 200 millones de dólares y los 90 millones de dólares, de acuerdo a Forbes.
+
+**Cristiano Ronaldo**, el futbolista con mayor cantidad de goles en partidos oficiales en la historia, se marchó a inicios del 2023 del Manchester United para unirse al Al Nassr. Con el club saudí, ‘CR7’ acordó cobrar 200 millones de dólares anuales por su fútbol.
+
+El caso de Benzema es similar al de la estrella de Portugal, este dejó el Real Madrid para sumarse al Al-Ittihad. Con el cuadro aurinegro, el delantero francés aceptó percibir **100 millones de dólares** por temporada.
+
+**Kylian Mbappé** se marchó al Real Madrid a mediados de este 2024 tras dejar el PSG. Aunque su salario con el conjunto merengue no ha sido revelado, con los franceses recibía **90 millones de dólares** en cada campaña.
+
+Una amplia diferencia con los salarios de las futbolistas
+---------------------------------------------------------
+
+En el caso del fútbol femenino, este vio el arribo de una jugadora como la mejor pagada durante septiembre de 2024. De acuerdo al Diario AS de España, **Aitana Bonmatí** se convirtió en la que mejor sueldo recibe después de renovar con el **FC Barcelona.**
+
+Bonmatí recibió un alza salarial y pasó a ganar alrededor de un millón de dólares por temporada. Tal acuerdo entre la española y el cuadro azul y grana será hasta el 2028. Según Forbes, antes de tal suceso, las mejores pagadas eran **Lindsey Horan y Alexia Putellas** junto a un grupo con montos de similar rango.
+
+Con la renovación de **Bommatí, Alexia Putellas** -también del Barça- pasó a ser la segunda en el escalafón de ingresos salariales. Esta tiene un contrato que le brinda alrededor de 800 mil dólares por temporada. Pese a ello, a la par se ubican **Álex Morgan, Trinnty Rodman, Sofía Smith, Rose Lavelle y Sofía Huerta**.
+
+  
+
+Universidad Católica ganó y sacudió la tabla de posiciones
+==========================================================
+
+Universidad Católica le ganó a Delfín en el cierre de la séptima fecha de la segunda etapa de la Liga Pro.
+----------------------------------------------------------------------------------------------------------
+
+![Jugadores de Universidad Católica en el Olímpico Atahualpa en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/catolica_tabla_1.jpg)
+
+**Universidad Católica** le ganó 2-1 a Delfín en el cierre de la séptima fecha de la segunda etapa de la Liga Pro Serie A de Ecuador, con lo que se acomodó en la tabla de posiciones y volvió a meterse por ganarla.
+
+El encuentro entre Universidad Católica y Delfín se jugó desde las 17:00 de este lunes 23 de septiembre de 2024 en el estadio Olímpico Atahualpa, **un horario poco habitual que se reajustó** por los cortes de luz que afectan al país.
+
+### Más noticias:
+
+* [La Liga Pro modifica horarios por cortes de luz en Ecuador](https://www.elcomercio.com/deportes/futbol/liga-pro-horarios-fecha8-etapa.html "La Liga Pro modifica horarios por cortes de luz en Ecuador")
+* [El artillero de Liga de Quito, Alex Arce, no encuentra el gol](https://www.elcomercio.com/deportes/futbol/alex-arce-liga-quito-no-encuentra-gol.html "El artillero de Liga de Quito, Alex Arce, no encuentra el gol")
+* [Ariel Holan tiene un rendimiento del 55% en Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/ariel-honal-barcelona-numeros-rendimiento.html "Ariel Holan tiene un rendimiento del 55% en Barcelona Sporting Club")
+
+Como anécdota quedará en la historia de este encuentro que **por unos minutos se detuvo el porqué el suministro de energía** se cortó en una de las luminarias del Atahualpa, pero no tardó en recuperarse y las acciones continuaron con normalidad.
+
+Los goles de la Católica los anotaron los argentinos **Luciano Nieto (3′) con un golazo desde fuera del área** que dejó sin reacción a Brian Heras, el buen portero ecuatoriano que por más que se estiró no logró bloquear el disparo.
+
+La alegría de la Católica duró poco y a los 6 minutos llegó el 1-1 para Delfín con la firma de **Jostin Almán, capitán y referente** del plantel manabita.
+
+**Fausto Grillo colocó el 2-1 en el marcador a los 30 minutos**. El centro fue de Layan Loor desde la zona derecha de la cancha. Tras un rebote en horizontal el balón le quedó al argentino que la mandó al fondo del arco con golpe de cabeza.
+
+Católica reclama protagonismo en la tabla
+-----------------------------------------
+
+Con este resultado, Católica escaló al **tercer puesto en la tabla de posiciones con 13 puntos** y un gol diferencia positivo de +6. Su campaña se resume en cuatro victorias, un empate y dos derrotas.
+
+Delfín se **quedó en la décima posición con 8 puntos**. Ganó dos partidos, empató dos y perdió tres. Su gol diferencia negativo es de -2.
+
+En la acumulada la **‘Chatoleí’ se mantiene en el cuarto puesto con 38 puntos** y es uno de los firmes candidatos para ganar uno de los cupos para lograr un cupo a la Copa Sudamericana de 2025; mientras que el ‘Cetáceo’ está en la casilla 14 con 17 unidades y mira muy de cerca la zona de descenso.
+
+El **Cumbayá con 15 puntos y Libertad con 12**, son los otros dos equipos que están en la pelea por no descender.
+
+En la octava fecha la **Universidad Católica tiene que ir hasta Chillo-Jijón** para enfrentarse contra Independiente del Valle, desde las 14:30, del sábado 28 de septiembre.
+
+El domingo 29, desde las 15:00, **Delfín será local en el Jocay para recibir a Liga de Quito**, el líder en la tabla de posiciones de la segunda etapa y el principal candidato para ganarla y disputarle el título en diciembre a IDV.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-1-819x1024.jpg)
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Seguidores de Evo Morales entran a La Paz y exigen su habilitación como candidato
-=================================================================================
+Horarios de cortes de luz en Quito, este martes 24 de septiembre
+================================================================
 
-Seguidores de Morales sostienen que es una marcha para "salvar a la patria" ante problemas como la escasez de dólares y combustible.
-------------------------------------------------------------------------------------------------------------------------------------
+Los cortes de luz en Quito tendrán las mismas franjas horarias desde el martes hasta el viernes.
+------------------------------------------------------------------------------------------------
 
-![El expresidente de Bolivia Evo Morales, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/evo-morales-efe-ok.webp)
+![Los cortes de luz en esta ciudad son establecidos por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/05/cortes-luz-mayo-ecuador.jpg)
 
-La **marcha encabezada** por el expresidente de [Bolivia](https://www.elcomercio.com/actualidad/mundo/mercado-brujas-recibe-miles-de-visitantes-en-agosto.html "https://www.elcomercio.com/actualidad/mundo/mercado-brujas-recibe-miles-de-visitantes-en-agosto.html"), **Evo Morales**, llegó este lunes 23 de septiembre de 2024, a La Paz. Esto después de que **miles de sus seguidores** se unieran a él en la ciudad de El Alto. Exigen que sea habilitado como candidato para las **elecciones de 2025,** a pesar de tener una **prohibición constitucional.**
+Los **cortes de luz** para **Quito** y el resto del país se mantendrán este **martes 24 de septiembre de 2024**.
 
-### Más noticias
-
-* [Selección de Ecuador jugará contra Bolivia en Guayaquil](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-jugara-contra-bolivia-en-guayaquil.html "Selección de Ecuador jugará contra Bolivia en Guayaquil")
-* [El Mercado de las Brujas recibe a miles de visitantes en agosto](https://www.elcomercio.com/actualidad/mundo/mercado-brujas-recibe-miles-de-visitantes-en-agosto.html "https://www.elcomercio.com/actualidad/mundo/mercado-brujas-recibe-miles-de-visitantes-en-agosto.html")
-* [Colombia se une a Bolivia para desclasificar la hoja de coca](https://www.elcomercio.com/actualidad/mundo/colombia-se-une-a-bolivia-para-desclasificar-la-hoja-de-coca.html "https://www.elcomercio.com/actualidad/mundo/colombia-se-une-a-bolivia-para-desclasificar-la-hoja-de-coca.html")
-
-El exmandatario, seguido por mineros y sectores indígenas en primera fila, ingresó a la ciudad sede de Gobierno por la **autopista principal que une ambas urbes en su séptimo día de una caminata** que comenzó el 17 de septiembre desde la **localidad de Caracollo**, en la región andina de Oruro, y que fue calificada por el presidente Luis Arce como un “golpe de Estado” en su contra.
-
-En la víspera se registraron algunos **enfrentamientos en El Alto,** entre los seguidores de Morales y sectores que defienden a Arce, que dejaron al menos una **decena de heridos**, según el reporte del Ministerio de Salud.
-
-Freddy Mamani, diputado oficialista afín a Morales, informó que los **manifestantes liderados** por el expresidente se concentrarán en el **ingreso de La Paz**, cerca de la autopista, donde leerán varias peticiones que tienen para el Gobierno de Arce.
-
-“No vamos a amenazar a nadie, no vamos a entrar a la plaza Murillo, nos vamos a concentrar aquí donde será una **fiesta para defender a Bolivia**“, afirmó en una declaración en la Radio Kawsachun Coca, medio afín a Morales.
-
-El presidente Arce envió varias **invitaciones públicas a Morales** para realizar un diálogo, sin embargo el exmandatario dijo que no recibió ninguna invitación.
-
-Los seguidores de Morales sostienen que es una marcha **para “salvar a la patria” a**nte problemas como la escasez de dólares y combustible y el encarecimiento de algunos productos básicos, y también exigen que se respeten las **resoluciones de un congreso del Movimiento al Socialismo** (MAS) realizado el año pasado -no reconocido por el Tribunal Electoral- en el que definieron la candidatura de Morales.
-
-El Gobierno de Arce considera que la **marcha promovida por Morales es un “golpe de Estado”** que tiene la intención de apartarlo del poder para que asuma la Presidencia del país el titular del Senado, Andrónico Rodríguez, que es afín al exgobernante.
-
-Morales y Arce están distanciados desde finales de 2021 por diferencias en la Administración del Estado que se profundizaron ante la necesidad de **renovar la dirección nacional del MAS**, aún en manos del expresidente, algo en lo que las facciones leales a ambos no han podido ponerse de acuerdo.
-
-Cortes de luz dependen de las lluvias, según el Ministro de Energía
-===================================================================
-
-El ministro de Energía, Antonio Goncalves, actualizó la situación energética del país, este lunes 23 de septiembre de 2024.
----------------------------------------------------------------------------------------------------------------------------
-
-![El Ministro de Energía convocó a una rueda de prensa para hablar sobre los cortes de luz en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Ministro-energia-cortes-de-luz.jpg)
-
-El ministro de Energía, **Antonio Goncalves**, actualizó la situación energética del país, este lunes 23 de septiembre de 2024. En rueda de prensa señaló que los cortes de luz continuarán en todo el país.
-
-### Más noticias
-
-* [Cortes de luz en Quito caotizan el tránsito por semáforos apagados](https://www.elcomercio.com/actualidad/quito/cortes-luz-semaforos-quito-apagados.html "Cortes de luz en Quito caotizan el tránsito por semáforos apagados")
-* [Cortes de luz provocan nuevos horarios de clases](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-provocan-nuevos-horarios-clases.html "Cortes de luz provocan nuevos horarios de clases")
-* [¿Por qué cambiaron los horarios de los cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-mazar-ministerio-energia.html "¿Por qué cambiaron los horarios de los cortes de luz en Ecuador?")
-
-El titular de **Energía** señaló que los viernes de cada semana se informará sobre el **cronograma** de los cortes de energía, para que la ciudadanía pueda planificar. Pero no dio una fecha aproximada hasta cuándo continuarán los apagones. “Solo Dios sabe”, dijo.
-
-La época más fuerte del estiaje en el **Ecuador** es de octubre a marzo de cada año. Así que se espera que los cortes sigan por varios meses, mientras no llueva.
-
-El Ministro también indicó que los cortes de luz serán a escala nacional a partir de esta semana y no solo en las 12 provincias que el domingo 22 de septiembre tuvieron apagones.
-
-Asimismo se conoció este lunes que el **complejo hidroeléctrico de la cuenca del río Paute** está fuera de operación, debido al bajo nivel de agua en el **embalse de Mazar,** que es uno de los más importantes de Ecuador.
-
-Este complejo hidroeléctrico comprende las centrales de Mazar, Paute- Molino y Sopladora, que juntas tienen una capacidad de **1 700 megavatios** de potencia. Estas tres centrales son las más afectadas por la sequía que afronta el país.
-
-El Funcionario, por otro lado, ofreció disculpas por no haber anunciado los cortes de luz de esta última semana de septiembre de 2024, con mayor anticipación. Así que ahora “no se le mentirá al país. Vamos a dar la cara y afrontar con honestidad y transparencia” y los racionamientos se informarán con tiempo.
-
-Manchester City pierde a Rodri por toda la temporada
-====================================================
-
-El Manchester City no contará con uno de los mejores jugadores de su equipo y del mundo por el resto de la temporada.
----------------------------------------------------------------------------------------------------------------------
-
-![Rodri sufrió una lesión del ligamento cruzado anterior y se pierde toda la temporada con el Manchester City.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-23T124519.298.jpg)
-
-Malas noticias para el **Manchester City** tras confirmarse la gravedad de la lesión de su mediocampista estrella y capitán de la Selección de España, **Rodri Hernández**. El español se lesionó en el último partido contra el Arsenal por la Premier League.
-
-Aunque Rodri se someterá a más pruebas para determinar con precisión la gravedad de la lesión, los ‘Ciudadanos’ **temen que el jugador se pierda toda la temporada**, luego de sufrir una rotura del ligamento cruzado anterior.
+Entre el martes 24 y el viernes 27 de septiembre, las franjas horarias de los cortes de luz en Quito **no variarán** por sector.
 
 ### Más noticias:
 
-* [¿Manchester City, en riesgo de quedar fuera de todos los torneos?](https://www.elcomercio.com/deportes/manchester-city-expulsion-torneos-premier-champions.html "¿Manchester City, en riesgo de quedar fuera de todos los torneos?")
-* [Moisés Caicedo integra el equipo de la semana de la Premier League](https://www.elcomercio.com/deportes/futbol/moises-caicedo-integra-equipo-de-la-semana-premier-league.html "Moisés Caicedo integra el equipo de la semana de la Premier League")
-* [Oasis celebra con el Manchester City el aniversario de ‘Definitely Maybe’](https://www.elcomercio.com/afull/oasis-manchester-city-linea-de-ropa-definitely-maybe.html "Oasis celebra con el Manchester City el aniversario de ‘Definitely Maybe’")
+* [Cortes de luz dependen de las lluvias, según el Ministro de Energía](https://www.elcomercio.com/actualidad/negocios/ministro-gobierno-cortes-luz-ecuador-lluvia.html "Cortes de luz dependen de las lluvias, según el Ministro de Energía")
+* [Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre](https://www.elcomercio.com/actualidad/ecuador/guayaquil-cortes-de-luz-martes-24-septiembre.html "Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre")
 
-¿Qué le pasó a Rodri?
----------------------
+La Empresa Eléctrica Quito (EEQ) fijó cortes de luz de 02:00 a 04:00, 08:00 a 13:00 y de 17:00 a 20:00 para nueve sectores.
 
-A los 3 segundos del partido entre el **Manchester City y el Arsenal,** Rodri recibió un golpe de Kai Havertz en la clavícula, y a los 16 minutos se dañó la rodilla derecha cuando acudió a rematar un saque de esquina al primer palo.
+Aquí están: Luluncoto, Chilibulo, Miraflores, La Floresta, Río Coca, Cristianía, Epiclachima, Conocoto, Tumbaco.
 
-En un choque con el centrocampista del Arsenal, Thomas Partey, l**a rodilla derecha de Rodri falló,** provocando su caída al césped con claros gestos de dolor.
+Los cortes de luz de 04:00 a 09:00, de 17:00 a 20:00 y de 22:00 a 00:00 van para seis sectores.
 
-El partido se detuvo mientras los médicos lo atendían durante tres minutos. Con una expresión de preocupación, Rodri finalmente pidió el cambio.
+La Carolina, Nueva Cumbayá, Mirador Alto, Los Bancos, Pérez Guerrero y El Obraje (Machachi).
 
-El mediocampista **abandonó el campo por su propio pie**, aunque visiblemente afectado, y fue reemplazado por Mateo Kovacic.
+De 05:00 a 10:00, de 14:00 a 19:00 y de 22:00 a 00:00 no tendrán luz siete sectores.
 
-Según los primeros reportes de ESPN, Rodri **sufrió una rotura del ligamento cruzado anterior** de la rodilla derecha.
+Estos son: Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao, Inga Bajo.
 
-Debido a esta lesión, el español estará fuera de los terrenos de juego **por al menos seis meses**, aunque el proceso de recuperación podría extenderse hasta nueve meses para que esté en condiciones óptimas.
+13 sectores no tendrán luz de 00:00 a 05:00, 09:00 a 14:00 y 18:00 a 20:00.
 
-> Thomas Partey you will never be forgotten for that Rodri ACL!!! [pic.twitter.com/ia3PangLAh](https://t.co/ia3PangLAh)
-> 
-> — Darian (@tweetsbydarian) [September 23, 2024](https://twitter.com/tweetsbydarian/status/1838276873220166055?ref_src=twsrc%5Etfw)
+Aquí están: Olímpico, Barrio Nuevo, San Roque, El Bosque, San Antonio, Alangasí, San Rafael, Iñaquito, Santa Rosa, Sangolquí, Pomásqui, El Quinche y Eugenio Espejo.
 
-Una baja sensible
------------------
+Finalmente, de 00:00 a 05:00 y de 15:00 a 20:00, los cortes de luz se aplicarán en 14 sectores.
 
-Rodri es uno de los mejores jugadores de las últimas temporadas del **Manchester City**. A pesar de que su posición no siempre brilla, se ha consolidado como el mejor mediocampista del mundo, tanto en su club como en la Selección de España.
+Corresponden a estos horarios: Olímpico, Luluncoto, Chilibulo, Escuela Sucre, San Roque, Granda Centeno, Río Coca.
 
-Su lesión representa un golpe duro para **Pep** **Guardiola**, quien deberá ingeniárselas para cubrir su ausencia en una temporada cargada de partidos.
+Además, Andalucía, Cotocollao, Conocoto, Alangasí, Iñaquito, Santa Rosa e Inga Bajo.
 
-La falta de Rodri se sentirá especialmente en la **Champions** **League**, donde el nuevo formato exige un mayor esfuerzo en cada encuentro.
+El detalle de cada sector y sus subdivisiones los puede revisar en el siguiente gráfico:
 
-Antes de la lesión, **Rodri** era uno de los principales candidatos a **ganar el Balón de Oro**, gracias a su destacada temporada con el Manchester City y con España, con la que conquistó la Eurocopa. Seguramente estará entre los tres finalistas junto a **Vinícius** **Júnior** y Jude Bellingham.
+La **EEQ** aclara que, los horarios de la suspensión del servicio eléctrico están sujetos a la variabilidad o mejora de la situación.
 
-Cortes de luz en Quito empeoran el tránsito por semáforos apagados
-==================================================================
+Por esta razón, el **lapso de tiempo de los cortes energéticos** podría disminuir.
 
-Los cortes de luz en Quito provocan que varios semáforos de Quito se apaguen por varias horas.
-----------------------------------------------------------------------------------------------
+11 claves para comprender el escándalo de P. Diddy
+==================================================
 
-![Agentes de la AMT gestionan el tránsito de Quito por semáforos apagados durante los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cortes-de-luz-semaforos.jpg)
-
-Varios semáforos de Quito se apagaron por los cortes de luz anunciados por el Gobierno de Daniel Noboa para este lunes 23 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")
-
-Más noticias
-------------
-
-* [¿Por qué cambiaron los horarios de los cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-mazar-ministerio-energia.html "¿Por qué cambiaron los horarios de los cortes de luz en Ecuador?")
-* [Este es el cronograma de cortes de luz en Quito para el lunes 23 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cronograma-cortes-luz-para-lunes-23-de-septiembre-del-2024.html "Este es el cronograma de cortes de luz en Quito para el lunes 23 de septiembre de 2024")
-* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
-
-Esto provocó que en varios sectores de Quito, como en la avenida República de El Salvador, se generara una gran carga vehicular a tempranas horas de la mañana.
-
-Gestión del tráfico en Quito por parte de las autoridades
----------------------------------------------------------
-
-La Agencia Metropolitana de Tránsito (AMT) de Quito informó a **EL COMERCIO** que 1 240 agentes gestionan el flujo vehicular en tres turnos en distintos puntos de la ciudad.
-
-Hasta las 10:00, un total de 272 **intersecciones** estaba **afectado** por la falta de **coordinación semafórica**.
-
-Al respecto, la Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**), encargada de los **semáforos** en **Quito**, señaló que, en colaboración con la **AMT**, coordinan el tráfico en las zonas afectadas por los cortes de luz.
-
-Sectores de Quito con semáforos apagados
-----------------------------------------
-
-Hasta las 12:50, los semáforos apagados se encontraban en los siguientes puntos:
-
-* Av. 10 de Agosto y Río de Janeiro
-* Av. 10 de Agosto y Colón
-* Rodrigo de Chávez y Francisco Gómez
-* Av. Interoceánica y salida a Miravalle
-* Av. Mariscal Sucre y Av. De la Prensa
-* Machala y Fernández Salvador, entre otros.
-
-Funcionamiento de los semáforos en Quito
-----------------------------------------
-
-El Centro de Gestión de Movilidad (CGM) administra 1,034 intersecciones semaforizadas en la ciudad. De estas, 717 están conectadas al sistema adaptativo centralizado, mientras que las 317 restantes operan con una programación local.
-
-¿Cómo funcionan los servicios en línea de la AMT durante los cortes de luz?
+Te resumimos el caso del famoso rapero arrestado el lunes 16 de septiembre.
 ---------------------------------------------------------------------------
 
-El Municipio de Quito dijo que, debido a la interconectividad, los servicios en línea que se ofrecen a través de la página web de la AMT podrían presentar intermitencias.
+![P. Diddy fue arrestado el 16 de septiembre de 2024. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/09/p.diddy-El-comercio.jpg)
 
-Por este motivo, en ciertos momentos, se imposibilitará la consulta de valores, lo que impediría liberar automotores de los Centros de Retención Vehicular.
+El famoso **rapero y productor Sean Combs**, **Puff Daddy o P. Diddy**, fue detenido en un hotel de Manhattan.
 
-Ecuador se quedó con tres ciclistas para el Mundial de Zúrich
-=============================================================
+Ha sido acusado de delitos relacionados con el tráfico sexual y otras actividades delictivas, lo que ha desatado una tormenta mediática en torno a su persona y su imperio. Te contamos todo a continuación.
 
-La Selección de Ecuador de Ciclismo competirá en el Mundial en Zúrich del 22 al 29 de septiembre de 2024.
----------------------------------------------------------------------------------------------------------
+1\. Acusaciones graves
+----------------------
 
-![Alexander Cepeda con el EF Education-EasyPost en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ecuador_zurich_1.jpg)
+Las acusaciones se extienden a lo largo de más de una década. Se le acusa de **tráfico sexual, abuso, coacción y conspiración** para cometer extorsión.
 
-Ecuador está expectante de lo que pueda suceder en el **Campeonato Mundial de Ciclismo** que se desarrolla en Zúrich, Suiza, del 22 al 29 de septiembre de 2024, en el que intervienen los más destacados representantes de este deporte.
+Según los documentos judiciales, habría utilizado su posición de poder para controlar y abusar de múltiples mujeres. Los fiscales han descrito su conducta como un patrón sistemático de abuso prolongado.
 
-Ecuador contará con **representación en la rama femenina, masculina y juvenil**, con equipos conformados por ciclistas que son parte del circuito de la Unión Ciclista Internacional (UCI) y otros que lo hacen en nuestro continente y a escala local.
+2\. Un imperio empresarial bajo sospecha
+----------------------------------------
+
+P. Diddy, conocido por su imperio en la música y la moda, es acusado de utilizar sus empresas y empleados para facilitar los crímenes. Las pruebas incluyen testimonios de víctimas que detallan cómo el violador las sometía a su control, bajo amenazas y promesas de oportunidades profesionales.
+
+3\. Drogas, armas y aceite de bebé
+----------------------------------
+
+Entre las pruebas incautadas en los registros de las propiedades de Combs en Miami y Los Ángeles, destacan más de **mil botellas de aceite de bebé**. Además, se encontraron drogas y armas.
+
+4\. Las escandalosas “Freak Off Parties”
+----------------------------------------
+
+Uno de los elementos más perturbadores del caso son las “**Freak Off Parties**” que P. Diddy organizó desde 2009. Estos eventos, según varias fuentes, eran fiestas lujosas en las que las drogas y la coacción sexuales eran moneda corriente. Famosos y celebridades habrían asistido.
+
+5\. El príncipe Harry en el radar
+---------------------------------
+
+En un giro inesperado, los documentos judiciales mencionan al **príncipe Harry** en relación con las actividades de Combs. Aunque no se le acusa de ningún delito, se sugiere que su presencia en algunos de los eventos del rapero contribuyó a atraer a otros participantes de alto perfil.
+
+6\. Cassie, el detonante del escándalo
+--------------------------------------
+
+El caso de Diddy comenzó a ganar fuerza tras un acuerdo con su exnovia Cassie, quien lo acusó de abusos sexuales. Aunque el acuerdo llegó antes de un juicio, parece haber servido como catalizador para que otras víctimas salieran a la luz.
+
+7\. Un juicio mediático en ciernes
+----------------------------------
+
+Aunque aún no hay fecha confirmada, los expertos anticipan que, debido a la gravedad del caso, podría celebrarse a principios de 2025. De ser hallado culpable, las penas para Combs podrían oscilar entre 15 años de prisión y cadena perpetua.
+
+8\. Los cargos que enfrenta
+---------------------------
+
+Entre los delitos de los que se le acusa, destacan secuestro, tráfico sexual, extorsión, obstrucción a la justicia y fraude. Los fiscales han reunido un caso sólido con testimonios de más de 50 personas, entre víctimas y testigos.
+
+9\. Su relación con Penélope Cruz
+---------------------------------
+
+El rapero y Penélope Cruz participaron juntos en el año 2000 en una campaña de moda de la marca de Combs. Cruz también asistió a una de sus fiestas en Saint Tropez. Su química alimentó el rumor de un romance, aunque ninguno lo confirmó nunca.
+
+10\. ¿Abusó de Justin Bieber?
+-----------------------------
+
+Recientes teorías en redes sociales han vinculado a Diddy con el **cantante Justin Bieber** y sugieren que el rapero podría haber abusado de él en su adolescencia. Este tema ha explotado en plataformas como TikTok y X (antes Twitter), donde fans de Bieber han desempolvado vídeos antiguos que muestran al joven cantante en distintos momentos con Diddy.
+
+Los fans señalan la relación del rapero con otras estrellas jóvenes, como **Usher**, quien también vivió momentos controvertidos bajo la tutela de Diddy. Este nuevo frente añade aún más tensión al complejo caso del rapero.
+
+11\. Jennifer Lopez y su relación con Diddy
+-------------------------------------------
+
+Entre 1999 y 2001, Diddy mantuvo una **relación con Jennifer Lopez**. Este romance terminó tras rumores de infidelidad por parte de Diddy, lo que provocó una crisis emocional en JLo, declaró en 2003.
+
+Ambos también estuvieron involucrados en un tiroteo en Nueva York, donde tres personas resultaron heridas. Aunque López fue liberada sin cargos, Diddy se enfrentó a un juicio por porte de armas, pero fue declarado inocente. Su compañero, el rapero Shyne, no tuvo la misma suerte y fue condenado a 10 años de prisión.
+
+Jorge Guzmán, el equipo familiar que domina la Liga Básquet Pro
+===============================================================
+
+Jorge Guzmán se apresta a jugar su segunda final en la Liga Básquet Pro de Ecuador en sus tres años de creación.
+----------------------------------------------------------------------------------------------------------------
+
+![Christian Alaekwe es uno de los refuerzos extranjeros de Jorge Guzmán de Loja.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_1.jpg)
+
+**Jorge Guzmán** es el favorito para coronarse como campeón de la Liga Básquet Pro 2024 de Ecuador, luego de firmar una campaña en la que siempre estuvo en los puestos de punta en la tabla de posiciones.
+
+En el 2024 tendrá que enfrentarse en las finales a Zamora Jaguars, la revelación de la Liga Básquet Pro en su primer año en el torneo, en la que se definirá al nuevo monarca al mejor de siete juegos.
+
+### Más noticias:
+
+* [Un espectáculo deportivo, familiar y solidario se vivió en la Bimbo Global Race](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-ecuador.html "Un espectáculo deportivo, familiar y solidario se vivió en la Bimbo Global Race")
+* [Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro](https://www.elcomercio.com/deportes/emelec-partido-tecnico-universitario-liga-pro.html "Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro")
+* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
+
+Los dos primeros juegos serán en el Coliseo Ciudad de Loja, el tercero y cuarto en el Coliseo Mayor de Deportes de Zamora, **el quinto y séptimo en Loja y el sexto en Zamora**. Estos tres últimos se llevarán a cabo siempre y cuando la serie lo amerite.
+
+La creación de Jorge Guzmán empezó a tomar fuerza en plena pandemia del covid-19 en 2020 y **en noviembre de 2021**, unos meses antes de la primera edición de la Liga Básquet Pro en 2022, se hizo realidad como un homenaje.
+
+Jorge Guzmán, fallecido hace siete años, fue deportista y dirigente con gran trayectoria en esta provincia del sur del país. Con esa base su familia, con Diego, uno de sus hijos a la cabeza y presidente del club**, se encargaron de darle vida al equipo que participa con gran suceso** en el torneo nacional.
+
+“Mi padre fue un entusiasta en el proceso para mejorar el básquet en Loja y consiguió títulos locales y nacionales”, le cuenta Diego a EL COMERCIO en una entrevista telefónica, en donde detalló como se maneja esta exitosa institución.
+
+Para que el equipo principal destaque en la Liga Básquet Pro, **existe una infraestructura institucional manejada** como una empresa en donde cada uno de los colaboradores tiene un puesto y una función que cumplir, con el apoyo de unas 21 marcas de distinta índole.
+
+También hay espacio para las categorías juveniles que miran como una opción cierta llegar en algún momento a jugar en el equipo principal.
+
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_2-1024x683.jpg)
+
+Foto: Cortesía/Jimmy Calva.
+
+Jorge Guzmán no se siente favorito
+----------------------------------
+
+En el 2022 los lojanos fueron los primeros campeones del torneo. En las finales le ganaron a **Barcelona Sporting Club para firmar un marcador final de 4-2**.
+
+En el 2023 avanzaron hasta los cuartos de final y **fueron eliminados por Leones de Riobamba**, los futuros campeones, que en el 2024 quedaron eliminados por Zamora Jaguars, sus rivales en las finales.
+
+En este año quedaron segundos en la temporada regular, en los cuartos de final **derrotaron a Spartans de Quito 3-0**, y en las semifinales dejaron en el camino a Barcelona SC por 3-1.
+
+Pese a estos antecedentes, Diego Guzmán **considera que no parten como “favoritos”** y más bien menciona que los resultados responden a una visión “ganadora” con un objetivo claro desde el primer día que es el de quedar campeones.
+
+“No hemos ganado nada. **Ahora somos vicecampeones**. No nos sentimos y no nos creemos favoritos. Queremos estar unidos y humildes, esa es la premisa que tenemos en este momento”, agregó Guzmán.
+
+Sobre la final histórica que jugarán contra sus vecinos de Zamora, destacó el apoyo de “su gente” que se volcó por completo para apoyar en su paso por la Liga Básquet Pro.
+
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_3-1024x683.jpg)
+
+Foto: Cortesía/Jimmy Calva.
+
+Los fanáticos, el patrimonio de Jorge Guzmán
+--------------------------------------------
+
+Los fanáticos lojanos son el sexto jugador con el que **Jorge Guzmán cuenta en sus partidos de local** en el Coliseo Ciudad de Loja, escenario con capacidad para 3 000 aficionados.
+
+“Nuestro activo fijo más importante es la **identidad que hemos generado con nuestra gente**, año a año crece y hay gente en otros puntos del país y en el extranjero que visten la indumentaria del club”, agregó Guzmán.
+
+Respecto al uniforme de color blanco y azul, **explica que intentan dar un “mensaje de paz”** sin dejar de lado los colores de las selecciones de Loja que han representado a la ciudad y provincia a lo largo de los años.
+
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_4-1024x683.jpg)
+
+Foto: Cortesía/Jimmy Calva.
+
+Cronograma de las finales
+-------------------------
+
+### Juego 1: Sábado 28/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 2: Lunes 30/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 3: Jueves 3/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 4: Sábado 5/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 5: Lunes 7/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 6: Jueves 10/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 7: Sábado 12/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Florida declara en emergencia a 41 condados ante la amenaza de un posible huracán
+=================================================================================
+
+El Centro Nacional de Huracanes (NHC, en inglés) de EE.UU. vaticina que el sistema se convierta en huracán este miércoles.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Imagen satelital del huracán Ian al tocar tierra en el estado de Florida (EE.UU.).](https://www.elcomercio.com/wp-content/uploads/2024/09/huracan-florida-efe.jpg)
+
+El gobernador de Florida (EE.UU.), Ron DeSantis, declaró este lunes 23 de septiembre de 2024, en emergencia **a 41 de los 67 condados** que tiene el estado ante el avance por el **Golfo de México** del potencial ciclón tropical nueve, que podría convertirse en huracán el próximo miércoles.
+
+### Más noticias
+
+* [Huracán Beryl llegará a Jamaica con fuerza en su trayectoria 2024](https://www.elcomercio.com/actualidad/mundo/huracan-beryl-jamaica-fuerza-trayectoria-2024.html "https://www.elcomercio.com/actualidad/mundo/huracan-beryl-jamaica-fuerza-trayectoria-2024.html")
+* [Huracán Beryl se debilita a categoría 2 en camino a México en su trayectoria 2024](https://www.elcomercio.com/actualidad/mundo/huracan-beryl-categoria-2-camino-mexico-trayectoria-2024.html "https://www.elcomercio.com/actualidad/mundo/huracan-beryl-categoria-2-camino-mexico-trayectoria-2024.html")
+
+“Existe una amenaza significativa de marejadas ciclónicas, inundaciones y erosión costeras, fuertes lluvias e inundaciones repentinas y vientos dañinos en la costa del Golfo de Florida”, dice la orden emitida por DeSantis.
+
+Precisa la orden que, debido al pasado huracán Debby, “**los niveles freáticos** y de los ríos en el norte y centro-oeste de Florida permanecen por encima de lo normal”, por lo que las fuertes lluvias que se avecinan “probablemente causarán inundaciones significativas”.
+
+Se han emitido alertas de tormenta tropical para Tulum (México) y provincias de Cuba, cuando el “potencial ciclón tropical nueve” se desplaza a 45 kilómetros por hora y se encuentra a 175 kilómetros al sur-suroeste de Gran Caimán y a 545 kilómetros al sureste de la punta de Cuba.
+
+El Centro Nacional de Huracanes (NHC, en inglés) de EE.UU. vaticina que el sistema se convierta en huracán este miércoles y continúe fortaleciéndose mientras se mueve por el este del Golfo de México.
+
+Según un probable patrón de trayectoria, **el centro del fenómeno meteorológico** “se moverá a través del noroeste del Caribe hacia el sureste del **Golfo de México en las próximas 48 horas**“, señaló el NHC en su boletín más reciente.
+
+Se prevé que esta temporada de huracanes en el Atlántico sea una de las más activas e intensas en décadas, con la formación de hasta 25 tormentas y 13 huracanes, siete de estos de categoría mayor.
+
+Hasta el momento se han formado siete tormentas tropicales, de las cuales cuatro llegaron a la categoría de huracán. 
+
+Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre
+====================================================================
+
+Los cortes de luz en Guayaquil son definidos por CNEL.
+------------------------------------------------------
+
+![Imagen referencial de los cortes de luz en Guayaquil para este martes 24 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/04/Pagina-web-cortes-de-luz.jpg)
+
+Los cortes de luz continúan en Guayaquil y el resto del país para este martes 24 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Guayaquil)
+
+La situación energética e hídrica del país aún es crítica, según las últimas declaraciones de las autoridades nacionales.
+
+### Más noticias:
+
+* [Cortes de luz dependen de las lluvias, según el Ministro de Energía](https://www.elcomercio.com/actualidad/negocios/ministro-gobierno-cortes-luz-ecuador-lluvia.html "Cortes de luz dependen de las lluvias, según el Ministro de Energía")
+* [Cortes de luz en Quito empeoran el tránsito por semáforos apagados](https://www.elcomercio.com/actualidad/quito/cortes-luz-semaforos-quito-apagados.html "Cortes de luz en Quito empeoran el tránsito por semáforos apagados")
+
+La urbe porteña enfrentará hasta 11 horas de cortes de luz programados, en diferentes horarios, por cada sector.
+
+Los cortes van de 01:00 a 03:00, 06:00 a 09:00 y de 13:00 a 19:00, para sectores como la ciudadela Ceibos Norte.
+
+Para otros como la ciudadela Guayacanes, va de 00:00 a 05:00 y de 15:00 a 20:00.
+
+Otros, como la av. Francisco de Orellana, de 02:00 a 07:00 y de 15:00 a 20:00
+
+Y, otros, como la Alborada 3, de 00:00 a 03:00, de 09:00 a 15:00 y de 22:00 a 00:00.
+
+Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre
+--------------------------------------------------------------------
+
+El ministro de Energía, Antonio Goncalves, manifestó que las autoridades se reunirán cada jueves para evaluar la situación hídrica y energética del país.
+
+Así, cada viernes, se dará a conocer los nuevos horarios semanales de cortes de luz.
+
+En el caso de Guayaquil, los cortes son diferenciados para cada día de esta semana.
+
+A continuación, puede revisar el detalle de los cortes por cada horario y sector.
+
+Docente abusaba a un estudiante con discapacidad, en Quito
+==========================================================
+
+Fiscalía presentó testimonios y pruebas contra docente que abusó a estudiante con discapacidad.
+-----------------------------------------------------------------------------------------------
+
+![Imagen referencial de un docente frente a un pizarrón.](https://www.elcomercio.com/wp-content/uploads/2024/09/docente.png)
+
+Un **docente fue sentenciado a 29** **años y cuatro meses** de privación de libertad por el delito de violación. La Fiscalía presentó pruebas en la **audiencia de juzgamiento** que demostraron la culpabilidad del profesor.
+
+### Más noticias
+
+* [Fiscalía exhumó 75 cadáveres en cementerio de Ambato](https://www.elcomercio.com/actualidad/ecuador/fiscalia-exhumacion-cadaveres-cementerio-ambato.html "Fiscalía exhumó 75 cadáveres en cementerio de Ambato")
+* [Un video permitió arrestar a joven que mató a su madre, en Quito](https://www.elcomercio.com/actualidad/seguridad/video-permitio-arrestar-joven-que-mato-a-su-madre-en-quito.html "Un video permitió arrestar a joven que mató a su madre, en Quito")
+* [Fiscalía reveló nueva información del joven que mató a su madre, en Quito](https://www.elcomercio.com/actualidad/quito/fiscalia-revelo-nueva-informacion-joven-mato-madre-quito.html "Fiscalía reveló nueva información del joven que mató a su madre, en Quito")
+
+Los hechos ocurrieron de manera sistemática en el **ámbito educativo**, afectando a un **alumno con discapacidad auditiva**. La condena incluye una **reparación económica de 5 000 dólares para la víctima**.
+
+El docente, identificado como **Carlos Armando M. F.,** cometió el delito durante tres años, desde 2018. Aprovechó la **vulnerabilidad de su alumno**, quien tenía 12 años al inicio de los abusos. El estudiante estaba cursando el séptimo año de educación básica cuando comenzaron los hechos.
+
+El docente utilizó un **lugar dentro del colegio** para los primeros abusos y luego **trasladaba a la víctima a su domicilio cercano**.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) obtiene pena máxima agravada para el profesor Carlos Armando M. F., como autor del delito de [#Violación](https://twitter.com/hashtag/Violaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw), cometido en el ámbito educativo.  
+>   
+> Más información ⬇️[https://t.co/1cKF0N0hFu](https://t.co/1cKF0N0hFu) [pic.twitter.com/Ovm1015lWk](https://t.co/Ovm1015lWk)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 23, 2024](https://twitter.com/FiscaliaEcuador/status/1838334970039013383?ref_src=twsrc%5Etfw)
+
+Testimonios y pruebas en la audiencia contra docente que abusaba a estudiante
+-----------------------------------------------------------------------------
+
+En la audiencia, la Fiscal presentó el **testimonio de la madre del adolescente**, quien relató cómo su hijo reveló los abusos en **lenguaje de señas** durante un campamento escolar. La profesora que interpretó la denuncia del menor corroboró el relato y **notificó al DECE**, que informó a las autoridades competentes.
+
+La **médica legista expuso las evidencias físicas** encontradas en el cuerpo del adolescente, mientras que la psicóloga explicó los efectos emocionales y de conducta resultantes del delito.
+
+En el testimonio anticipado, el adolescente relató en lenguaje de señas los detalles de lo que el docente le obligó a hacer. La Fiscalía enfatizó que **Carlos Armando M. F.** abusó de su posición de autoridad y de la relación de poder que tenía sobre su alumno. El Tribunal consideró las **pruebas concluyentes** y dictó sentencia condenatoria, además de imponer la reparación económica.
+
+Base legal y agravantes
+-----------------------
+
+La sentencia se fundamentó en el artículo **171 del Código Orgánico Integral Penal (COIP)**, que establece de veintidós a 26 años de **cárcel por violación a menores de 14 años**. En este caso, el Tribunal aumentó la pena en un tercio, aplicando las agravantes contempladas en el **artículo 48 del COIP**.
+
+Las circunstancias que **incrementaron la condena** incluyen el hecho de que el delito fue cometido por un docente en una institución educativa.
+
+Ataque armado en Guayaquil deja dos personas asesinadas
+=======================================================
+
+El violento hecho se registró en el parqueadero de un centro comercial, en el norte de la ciudad.
+-------------------------------------------------------------------------------------------------
+
+![Dos personas fueron asesinadas y otra resultó herida, tras el violento hecho](https://www.elcomercio.com/wp-content/uploads/2024/09/ataque-armado-guayaquil.jpg)
+
+Un **ataque armado** se registró en la vía a Daule, en el **norte de Guayaquil**, la tarde de este lunes 23 de septiembre de 2024.
+
+El violento hecho tuvo lugar en los exteriores de un centro comercial ubicado en el sector de **Mapasingue**, pasadas las **15:00**.
+
+### Más noticias
+
+* [Cuatro funcionarios de cárceles asesinados en menos de 15 días](https://www.elcomercio.com/actualidad/seguridad/cuatro-funcionarios-de-carceles-asesinados-en-menos-de-15-dias.html "Cuatro funcionarios de cárceles asesinados en menos de 15 días")
+* [Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presunto-implicado-en-asesinato-de-directora-de-la-penitenciaria.html "Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría")
+* [Ecuador tiene déficit de policías por número de habitantes](https://www.elcomercio.com/actualidad/seguridad/ecuador-deficit-policias-numero-habitantes.html "Ecuador tiene déficit de policías por número de habitantes")
+
+La Policía Nacional confirmó que el ataque dejó **dos personas asesinadas** y otra herida.
+
+En videos difundidos en redes sociales se observa como al menos **tres desconocidos** abordaron un vehículo gris de alta gama y descargaron una **ráfaga de disparos** contra los ocupantes.
+
+Mientras el asalto ocurría, transeúntes y conductores del lugar buscaron refugio en inmuebles y detrás de vehículos.
+
+Los cuerpos de las víctimas quedaron en el **interior** del automotor, mientras que el tercer afectado fue trasladado hacia una casa de salud cercana.
+
+Un grupo de **Criminalística** acudió a la escena del crimen para recoger los indicios.
+
+Los vidrios del lado derecho del vehículo fueron destrozados y las vainas percutidas quedaron **esparcidas** por el parqueadero.
+
+La Policía aseguró que tras recibir la alerta, “inmediatamente se realizó un despliegue **operativo** para localizar a los implicados y establecer motivaciones”.
+
+Hasta el cierre de esta nota se desconoce las razones del ataque armado.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-16.png)
+
+Policía liberó a un ciudadano secuestrado
+-----------------------------------------
+
+La Policía realizó un operativo de rescate en el sector de la **Isla Trinitaria**, en el sur de Guayaquil, este lunes 23 de septiembre.
+
+La intervención permitió que un **ciudadano** que estaba secuestrado sea liberado y entregado a sus familiares a salvo.
+
+Los secuestrados exigían **700 000 dólares** para no asesinarlo.
+
+Nueve sospechosos fueron detenidos, cinco con antecedentes por múltiples delitos.
+
+Los uniformados recuperaron como pruebas un **vehículo** negro y ocho celulares.
+
+Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados
+=========================================================================
+
+En el caso Metástasis, la CNJ suspendió la audiencia preparatoria de juicio, con la solicitud de exclusión de la prueba de la FGE.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![El juez de la CNJ, Manuel Cabrera, escuchó a la fiscal general, Diana Salazar, este lunes.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-29-1.jpg)
+
+En el caso Metástasis, la Corte Nacional de Justicia (CNJ) resolverá si llama o no a juicio a los 37 procesados por el delito de delincuencia organizada.
+
+Este lunes 23 de septiembre de 2024, el juez Manuel Cabrera suspendió la audiencia preparatoria de juicio que tomó 13 días.
+
+### Más noticias:
+
+* [Caso Metástasis, acusaciones y defensas chocan en audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-acusaciones-defensas-chocan-audiencias.html "Caso Metástasis, acusaciones y defensas chocan en audiencias")
+* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
+* [Caso Metástasis, defensa de acusados señala vacíos en la investigación](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-acusados-senalan-vacios-investigacion.html "Caso Metástasis, defensa de acusados señala vacíos en la investigación")
+
+La suspensión se dio luego de que la fiscal general del Estado, Diana Salazar expuso la solicitud de exclusión de las pruebas presentadas por las defensas de los procesados.
+
+La audiencia preparatoria de juicio empezó con las solicitudes de nulidad de los procesados.
+
+El juez dio un receso para analizar estas nulidades y, luego de unos días, resolvió declarar la validez procesal.
+
+Entonces, la Fiscalía General del Estado presentó su dictamen acusatorio y las defensas de cada uno de los 37 procesados presentó sus alegatos y pruebas.
+
+Este lunes, la fiscal general Diana Salazar solicitó la exclusión de algunas pruebas presentadas por las defensas de los acusados en estos días.
+
+Salazar pidió que no sean admitidas algunas versiones de personas que no han comparecido al proceso.
+
+Además, peritajes que no forman parte del expediente, documentos que no han sido legalmente ingresados y otros.
+
+Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados
+-------------------------------------------------------------------------
+
+En el caso Metástasis, Fiscalía investiga una red de corrupción descubierta a partir de los chats de Leandro Norero (+).
+
+Los chats corresponden a los meses que Norero y sus familiares permanecían en la cárcel de Cotopaxi, hasta que fue asesinado.
+
+Esta red involucra al exjuez nacional Wilman Terán, al exasambleísta correísta, Ronny Aleaga, jueces y otros funcionarios judiciales y penitenciarios y abogados en libre ejercicio.
+
+El objetivo de quienes operaban esta red era favorecer judicial y penitenciariamente a Norero y sus familiares a cambio de dinero.
+
+Fiscalía y Policía recluyeron a Norero y varios de sus familiares en la cárcel de Cotopaxi por lavado de activos.
+
+Una vez escuchadas las partes procesales, Fiscalía y los 37 procesados, el juez Manuel Cabrera, resolverá si los llama o no a juicio.
+
+El juez fijará fecha y hora para dar a conocer su resolución final, en los próximos días.
+
+Marc Ter Stegen sufre escalofriante lesión y un histórico se ofrece como reemplazo
+==================================================================================
+
+Marc-André Ter Stegen sufrió una lesión que lo dejará fuera de las canchas hasta la próxima temporada y un exjugador lo busca reemplazar.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Marc André Ter Stegen, arquero del FC Barcelona, antes de sufrir su lesión.](https://www.elcomercio.com/wp-content/uploads/2024/09/0f6c89bd5322c513763b75808c95bf3e21bd5a58-1.jpg)
+
+El traumatólogo del Instituto Cugat Roberto Seijas aseguró que el guardameta del Barcelona **Marc-André Ter Stegen** estará entre ocho meses y un año de baja tras sufrir una rotura completa del tendón rotuliano de la rodilla derecha, una dolencia que calificó de “**muy grave**“.
+
+“**Es una lesión muy grave, que necesita tiempo de recuperación de la cirugía y de la cicatrización del tendón, y después un proceso de rehabilitación muy largo para mover nuevamente la rodilla**, coger fuerza muscular y recuperar el equilibrio sobre la rodilla lesionada”, explicó el especialista.
+
+### Más noticias:
+
+* [Manchester City pierde a Rodri por toda la temporada](https://www.elcomercio.com/deportes/futbol/manchester-city-pierde-a-rodri-por-toda-la-temporada.html "Manchester City pierde a Rodri por toda la temporada")
+* [Willian Pacho tuvo su primer tropezón con el PSG](https://www.elcomercio.com/deportes/willian-pacho-psg-reims-partido-francia.html "Willian Pacho tuvo su primer tropezón con el PSG")
+* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
+
+**Ter Stegen** se lastimó la rodilla derecha -la misma de la que ya fue operado en mayo de 2021- en una mala caída durante el partido del domingo contra el **Villarreal** en La Cerámica y abandonó el terreno de juego en camilla.
+
+Seijas expuso que el tiempo total de recuperación para este tipo de lesiones suele rondar los ocho meses, aunque alertó de que en el caso de los deportistas profesionales “**incluso pueden llegar al año (de ausencia) hasta volver a jugar en nivel de competición**“.
+
+Una lesión inédita para Marc-André ter Stegen en el FC Barcelona
+----------------------------------------------------------------
+
+Sin embargo, el doctor destacó que esta lesión no tiene “nada que ver” con las anteriores que el guardameta del **FC Barcelona**, de 32 años, ha sufrido en la rodilla derecha, puesto que se trata de “lesiones independientes”[.](https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen")
+
+En cambio, admitió que “la edad influye siempre” en el proceso de rehabilitación, puesto que “los pacientes jóvenes tienen una capacidad de recuperación mucho más rápida”. “**Se recuperará seguramente igual, pero los ritmos de recuperación pueden ser un poco más lentos.** Rondará entre los ocho meses y el año”, subrayó.
+
+El doctor aseguró que las lesiones del **tendón rotuliano** son “menos frecuentes” en los futbolistas que las de los ligamentos cruzados, pero destacó que “**la gravedad es similar**“, y también aclaró que el proceso de recuperación en estos casos es “el mismo” sin importar que el afectado sea portero o jugador de campo.
+
+Finalmente, Seijas reivindicó que hay más lesiones graves de rodilla porque hay “una correlación directa entre el número de horas que entrenan y compiten los futbolistas, y la cantidad de lesiones”. “**Esto tiene que ver con la carta de partidos y el nivel de exigencia sobre los jugadores. Hay que buscar un equilibrio**“, añadió. 
+
+Claudio Bravo se ofrece como reemplazo de Ter Stegen
+----------------------------------------------------
+
+Ante la lesión de **Marc André Ter-Stegen**, el ya retirado arquero chileno Claudio Bravo se ofreció como reemplazo. El araucano señaló que está dispuesto a volver a ponerse los guantes en caso de que el FC Barcelona lo requiera.
+
+**“Si el Barcelona me quiere, estaré preparado para salir del retiro**“, mencionó en declaraciones al medio Win Win All Sports de Arabia Saudita. El arquero ya militó en el FC Barcelona y llegó a ser una de las figuras, su retiro se dio tras disputar con el Real Betis la campaña 2023-2024.
+
+Henry Kronfle renunciará a la Presidencia de la Asamblea, ¿quién lo reemplazará?
+================================================================================
+
+Henry Kronfle anunció la fecha para renunciar a su cargo en la Asamblea Nacional y poder postularse a las elecciones de 2025.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![El Partido Social Cristiano presentó su binomio de candidatos a la presidencia y vicepresidencia de los próximos comicios, Henry Kronfle y Dallyana Passailaigue.](https://www.elcomercio.com/wp-content/uploads/2024/09/henry-kronfle-2.png)
+
+**Henry Kronfle**, presidente de la Asamblea Nacional, tiene diez días para renunciar como asambleísta y poder inscribirse como candidato presidencial del **Partido Social Cristiano (PSC)** para los comicios de **febrero de 2025**.
+
+### Más noticias
+
+* [Daniel Noboa reaccionó a ‘apagón’ en la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html "Daniel Noboa reaccionó a ‘apagón’ en la Asamblea")
+* [‘Apagón’ en la Asamblea provocó dura reacción de Esteban Torres](https://www.elcomercio.com/actualidad/politica/esteban-torres-apagon-asamblea-pitos-simios.html "‘Apagón’ en la Asamblea provocó dura reacción de Esteban Torres")
+* [Asamblea rechazó la sentencia que le obliga a retomar juicios políticos](https://www.elcomercio.com/actualidad/politica/asamblea-retomo-funciones-juicios-politicos-nuevas-autoridades.html "Asamblea rechazó la sentencia que le obliga a retomar juicios políticos")
+
+La decisión de **oficializar a Kronfle** fue tomada durante una **convención nacional del PSC** celebrada el sábado 8 de junio, a las 11:00, en el **Centro de Convenciones de Guayaqu**il. Al formalizar su candidatura, Kronfle deberá acatar el artículo **96.6 del Código de la Democracia**, que exige su renuncia al cargo actual en la Asamblea.
+
+> ¡Vamos [#Juntos](https://twitter.com/hashtag/Juntos?src=hash&ref_src=twsrc%5Etfw)! 💪  
+>   
+> Henry Kronfle y Dallyana Passailaigue inician el camino para alcanzar el Ecuador que tu familia merece. Un país que piense en todos y no solo en unos pocos privilegiados. Basta de olvidar las necesidades de los ecuatorianos, es hora de trabajar [#ParaLaGente](https://twitter.com/hashtag/ParaLaGente?src=hash&ref_src=twsrc%5Etfw).… [pic.twitter.com/fFP9SqLMEN](https://t.co/fFP9SqLMEN)
+> 
+> — La6 – Partido Social Cristiano (@La6Ecuador) [August 15, 2024](https://twitter.com/La6Ecuador/status/1824132879573569763?ref_src=twsrc%5Etfw)
+
+Según el calendario electoral del CNE, este trámite se realizará entre el **13 de septiembre y el 2 de octubre de 2024**.
+
+Henry Kronfle deberá renunciar a su cargo
+-----------------------------------------
+
+El **artículo 93 del Código de la Democracia** obliga a las autoridades de elección popular a renunciar antes de postularse a un **cargo distinto**. Kronfle afirma que, durante su gestión, la **Asamblea Nacional** pasó de un **2,4 % de aceptación al 40 %**, tras haber aprobado **28 proyectos de ley** relacionados con áreas críticas como la economía, seguridad y salud.
+
+Kronfle destacó que su administración dio **gobernabilidad al gobierno de Daniel Noboa**, con quien trabajó en coordinación para aprobar varios **proyectos urgentes**. Además, se procesaron once solicitudes de juicio político, de las cuales seis avanzaron a la etapa de censura.
+
+> Hoy empiezo este camino con la bendición de Dios y de mi madre, y el apoyo de mi partido [#La6](https://twitter.com/hashtag/La6?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Gracias Ecuador 🇪🇨 por permitirme servirte en estos años desde la Asamblea Nacional, ahora con decisión, compromiso y corazón lo haremos desde la Presidencia de la Répública.… [pic.twitter.com/0FOvxexK47](https://t.co/0FOvxexK47)
+> 
+> — Henry Kronfle K. (@HenryKronfle) [August 15, 2024](https://twitter.com/HenryKronfle/status/1824153334720164231?ref_src=twsrc%5Etfw)
+
+Ahora, Kronfle se prepara para competir por la presidencia en las elecciones de 2025, enfrentando a Noboa, con quien antes compartía una agenda común en la Asamblea.
+
+¿Quién asumirá el cargo de presidente de la Asamblea Nacional para suplir a Henry Kronfle?
+------------------------------------------------------------------------------------------
+
+Una vez que Kronfle presente su renuncia para oficializar su candidatura, se producirán varios cambios en la **Asamblea Nacional**. En primer lugar, su curul será ocupada por su alterna, **María de Lourdes Alarcón**, aunque ella no tomará su lugar en el **Consejo de Administración Legislativa (CAL**). La presidencia de la Asamblea recaerá en Viviana Veloz, actual primera vicepresidenta, quien también asumirá el liderazgo del CAL.
+
+Después de que el vicepresidente asuma el **puesto de presidente**, se convoca una **sesión del Pleno** para elegir un **nuevo primer vicepresidente**, lo cual requiere el respaldo de al menos **70 votos de los asambleístas​**.
+
+> .[@HenryKronfle](https://twitter.com/HenryKronfle?ref_src=twsrc%5Etfw) dialogó con medios de comunicación de Azuay donde destacó la aprobación de 28 leyes en su administración como presidente de [#LaNuevaAsamblea](https://twitter.com/hashtag/LaNuevaAsamblea?src=hash&ref_src=twsrc%5Etfw)  
+> Boletín ➡️[https://t.co/2Qs52hmx6T](https://t.co/2Qs52hmx6T) [pic.twitter.com/3HFSiTbay9](https://t.co/3HFSiTbay9)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [September 21, 2024](https://twitter.com/AsambleaEcuador/status/1837568617778479342?ref_src=twsrc%5Etfw)
+
+Así, Viviana Veloz encabezará la Asamblea Nacional desde octubre de 2024 hasta el 12 de mayo de 2025, fecha en la que **culminaría su mandato provisional** al frente de la **Asamblea y el CAL**. Sin embargo, Veloz buscará la reelección para las elecciones de 2025, por lo que no podría estar hasta culminar su periodo.
+
+Los legisladores que **aspiran a la reelección** no están obligados a renunciar **antes de que se califiquen sus candidaturas**. En su lugar, deben **solicitar una licencia al iniciar la campaña electoral en enero**. De este modo, el Pleno podrá cubrir temporalmente cualquier vacante.
+
+Henry Kronfle anunció cuándo renunciará al cargo
+------------------------------------------------
+
+**Henry Kronfle** confirmó que presentará su renuncia a la presidencia de la Asamblea el próximo 2 de octubre, con el fin de inscribir su candidatura. La inscripción de candidaturas, que se inició el pasado **13 de septiembre**, culminará el mismo día en que Kronfle tiene previsto formalizar su postulación.
+
+En sus declaraciones, Kronfle fue enfático en señalar que dejará su cargo el 2 de octubre. Mencionó que no busca permanecer como **presidente de la Asamblea y candidato a la vez**. Al hacer esta afirmación, hizo alusión a Daniel Noboa, quien también se encuentra en la contienda electoral para las elecciones presidenciales de 2025.
+
+Kronfle reiteró que es un paso necesario para **asegurar que no haya conflicto de intereses en su candidatura**.
+
+¿Cuándo volverá Richard Carapaz a las competencias?
+===================================================
+
+Richard Carapaz aún no ha terminado su temporada ciclística con el EF Education-EasyPost.
+-----------------------------------------------------------------------------------------
+
+![Richard Carapaz no participará en el Mundial de Ciclismo.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-23T164336.867.jpg)
+
+**Richard** **Carapaz** no formará parte del Campeonato Mundial de Ciclismo que se realizará en Zúrich, Suiza. El ecuatoriano anunció su ausencia a través de sus redes sociales debido a un motivo de fuerza mayor.
+
+A pesar de su ausencia en esta gran competencia, su calendario aún no ha terminado, ya que quedan varias carreras en las que su equipo, **EF Education-EasyPost,** participará.
 
 ### Más noticias:
 
 * [Falleció Kevin Pozo, ciclista ecuatoriano atropellado](https://www.elcomercio.com/deportes/ciclismo/fallecio-kevin-pozo-ciclista-ecuatoriano-atropellado.html "Falleció Kevin Pozo, ciclista ecuatoriano atropellado")
-* [Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-gol-piero-hincapie.html "Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó")
-* [Brighton, con Pervis Estupiñán de titular, no pudo con el Nottingham Forest](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-nottingham-forest.html "Brighton, con Pervis Estupiñán de titular, no pudo con el Nottingham Forest")
+* [Richard Carapaz lamenta fallecimiento de ciclista ecuatoriano](https://www.elcomercio.com/deportes/richard-carapaz-kevin-pozo-fallecimiento.html "Richard Carapaz lamenta fallecimiento de ciclista ecuatoriano")
+* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
 
-La primera en competir fue **Miryam Núñez en la contrarreloj femenina y terminó en el puesto 55**. Las ganadoras fueron Grace Brown (Australia), Demi Vollering (Países Bajos) y Chloe Dygert (Estados Unidos).
-
-Luego saltaron a la pista Mateo Ramírez y Haidar Zúñiga en la contrarreloj individual juvenil.
-
-**El primer terminó en el puesto 49 y el segundo 63**, por detrás de Paúl Seixas (Francia), Jasper Schoofs (Bélgica) y Matisse Van Kerckhove (Bélgica), los dueños del podio.
-
-Las opciones de una gran performance están centradas en la prueba en ruta masculina que está programada para el domingo 29, **en un circuito de 273,9 kilómetros** que terminará en Zúrich.
-
-Por **distintas circunstancias el equipo de seis ciclistas** que en un principio fue convocado por la Federación Ecuatoriana de Ciclismo (FEC), se fue desintegrando y quedaron tres.
-
-Los tres ciclistas de Ecuador para el Mundial
----------------------------------------------
-
-Alexander Cepeda (EF Education-EasyPost), **Jefferson Cepeda (Caja Rural-Seguros RGA)** y Jonathan Caicedo (Petrolike) son los tres representantes de Ecuador para la prueba final del Mundial en Zúrich.
-
-La alineación inicial hacía presagiar que la Selección nacional iba como una de las que pelearía por los primeros puestos, pero a menos de siete días esas opciones se han mermado, aunque no del todo.
-
-El primero en bajarse de la convocatoria fue **Harold Martín López (Astana Qazaqstan Team)** por tener con anterioridad otros compromisos adquiridos.
-
-El miércoles 18 de septiembre la FEC dio a conoce que **Jhonatan Narváez (INEOS Grenadiers)** “no podrá participar en el Campeonato Mundial de Ciclismo (…) debido a que no recibió el permiso médico par parte de su equipo” se dijo en el comunicado oficial como la causa principal.
-
-El permiso le fue negado porque Narváez “no se encuentra en óptimas **condiciones físicas debido a las secuelas el covid-19** (…) y por una molestia en el hombro, consecuencia de una caída en las primeras etapas de la Vuelta a España”, se agregaba.
-
-Finalmente, el domingo 22, **Richard Carapaz anunció que tampoco representará al país**, debido a un inconveniente de salud “de su hija mayor”.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Javier Milei protagoniza toque de campana en Wall Street y las acciones argentinas brillan 
-===========================================================================================
-
-La mayoría de las acciones de empresas argentinas que cotizan en la Bolsa de Nueva York acumulan fuertes alzas.
----------------------------------------------------------------------------------------------------------------
-
-![El presidente argentino Javier Milei posa para una fotografía durante su visita a la Bolsa de Nueva York (NYSE) para tocar la campana de apertura en Nueva York, Nueva York, EE.UU., este lunes, 23 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/javier-milei-argentina-wall-street.jpg)
-
-El presidente de Argentina, [Javier Mile](https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-reunira-con-javier-milei-en-nueva-york.html "https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-reunira-con-javier-milei-en-nueva-york.html")i, protagonizó este lunes 23 de septiembre de 2024, el **toque de campana** en la Bolsa de Nueva York junto a **diversos miembros** de su equipo de Gobierno.
-
-Más noticias
-------------
-
-* [Daniel Noboa se reunirá con Javier Milei en Nueva York](https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-reunira-con-javier-milei-en-nueva-york.html "Daniel Noboa se reunirá con Javier Milei en Nueva York")
-* [Javier Milei: ‘Probablemente me den el Nobel de Economía’](https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html "https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html")
-* [Fiscalía de Venezuela tramita solicitud de una orden de captura contra Javier Milei](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html "https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-tramita-solicitud-orden-captura-contra-javier-milei.html")
-
-Puño en alto y al grito de **“Vamos, Argentina”** mientras recibía los aplausos de un grupo de seguidores e inversores de Wall Street, Milei realizó la icónica apertura de la Bolsa de Nueva York que se produce de lunes a viernes a las 9:30.
-
-Milei estuvo acompañado por la **ministra de Relaciones Exteriores de Argentina, Diana Mondino**; la **secretaria general de Presidencia** y **hermana del presidente, Karina Milei;** la ministra de Seguridad, Patricia Bullrich; y el ministro de Economía, Luis Caputo, entre otros.
-
-Junto a ellos estaba Stacey Cunningham, presidenta de la Bolsa de Nueva York. “Vamos, vamos, vamos” animó el presidente a los presentes durante el aproximadamente minuto y medio desde el que se subió con su equipo al balcón para el toque de campana y hasta que éste fue efectivo.
-
-Acciones argentinas brillan
----------------------------
-
-La mayoría de las acciones de **empresas argentinas** que cotizan en la Bolsa de Nueva York acumulan fuertes **alzas desde la puesta en marcha** de las políticas ultraliberales y pro mercado del presidente argentino, Javier Milei, quien este lunes tocó la campana en la apertura de Wall Street.
-
-Quince de la veintena de acciones de compañías argentinas que pueden **comprar y vender inversores** internacionales en la plaza neoyorquina acumulan en lo que va del año altos rendimientos, destacándose los papeles del **sector bancario y financiero.**
-
-Wall Street reaccionó con euforia al **triunfo de Milei,** un economista que se define como ‘anarcocapitalista’, en la segunda **vuelta electoral de noviembre de 2023**, que lo habilitó para tomar las riendas de la maltrecha economía argentina a partir del 10 de diciembre pasado.
-
-Aunque en estos nueve meses los **activos argentinos sufrieron altibajos**, el tono dominante fue claramente positivo y en el **último mes se vio un reimpulso**, de la mano de recomendaciones de grandes bancos de inversión internacionales para incorporar bonos y acciones argentinas en carteras de inversión.
-
-Hace un mes, JP Morgan apuntó que, una vez que el **Gobierno levante los controles cambiarios**, una posible reclasificación de Argentina para volver a ser categorizado como mercado emergente en su índice MSCI podría suponer un flujo de **1 000 millones de dólares** hacia acciones argentinas.
-
-De concretarse ese cambio de clasificación, el índice MSCI Argentina Standard estaría compuesto por acciones de las energéticas YPF y Pampa Energía y las entidades financieras Banco Macro y Grupo Financiero Galicia. Esto mientras que el Small Cap Index (índice de empresas de menor capitalización) tendría once papeles más de compañías argentinas.
-
-El índice S&P Merval, de las acciones líderes de la Bolsa de Buenos Aires, cerró el viernes pasado en su máximo nivel desde 2018 y con un rendimiento del 106 % acumulado desde el triunfo electoral de Milei.
-
-“La tendencia alcista del S&P Merval es innegable, **sustentada en tres factores**. Dos factores locales: la ejecución del plan económico implementado por el Gobierno y el **buen comportamiento de la deuda** soberana argentina; y un factor externo: el **buen contexto para la renta variable global**“, sostuvo el pasado viernes la firma de inversión IEB.
-
-Comienza juicio a cuñado del expresidente Guillermo Lasso, en el caso Encuentro
-===============================================================================
-
-Fiscalía presenta pruebas para vincular a una posible red de corrupción al cuñado del expresidente Guillermo Lasso en el caso Encuentro.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Encuentro en el Complejo Judicial Norte.](https://www.elcomercio.com/wp-content/uploads/2024/09/fiscalia.png)
-
-Este lunes 23 de septiembre de 2024 inició el **juicio contra la presunta trama de corrupción** liderada por el cuñado del expresidente **Guillermo Lasso (2021-2023)** en el caso Encuentro[.](https://es.wikipedia.org/wiki/Guillermo_Lasso "https://es.wikipedia.org/wiki/Guillermo_Lasso") Este caso impulsó la salida anticipada de Lasso del poder, al motivar un **juicio político** de censura en su contra en la **Asamblea Nacional**, de mayoría opositora.
-
-### Más noticias
-
-* [Diana Salazar estuvo presente en la audiencia del caso Purga](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-en-audiencia-caso-purga.html "Diana Salazar estuvo presente en la audiencia del caso Purga")
-* [Rafael Correa y Viviana Veloz aparecen en testimonio anticipado del caso Plaga](https://www.elcomercio.com/actualidad/seguridad/viviana-veloz-rafael-correa-aparecen-testimonio-caso-plaga.html "Rafael Correa y Viviana Veloz aparecen en testimonio anticipado del caso Plaga")
-* [Guillermo Lasso es mencionado en testimonio anticipado del caso Plaga](https://www.elcomercio.com/actualidad/seguridad/caso-plaga-recibio-quinta-audiencia-testimonio-anticipado.html "Guillermo Lasso es mencionado en testimonio anticipado del caso Plaga")
-
-La **Fiscalía presentó su alegato de apertura** en contra del empresario Danilo Carrera, cuñado de Lasso, y Antonio Icaza. Sin embargo, el proceso judicial contra los otros cuatro acusados se suspendió debido a que están prófugos de la justicia ecuatoriana.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw): se instala la audiencia de juicio por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) inicia su alegato de apertura contra Danilo C. y Antonio I. La etapa de juzgamiento se encuentra suspendida para los demás procesados, ya que se encuentran prófugos. [pic.twitter.com/rt8lKKag66](https://t.co/rt8lKKag66)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 23, 2024](https://twitter.com/FiscaliaEcuador/status/1838236622883557502?ref_src=twsrc%5Etfw)
-
-Evidencias presentadas por la Fiscalía contra el cuñado de Guillermo Lasso, Danilo Carrera en el caso Encuentro
----------------------------------------------------------------------------------------------------------------
-
-Según e**l Ministerio Público**, entre 2021 y 2023, Carrera y su amigo **Rubén Chérres** encabezaron una presunta red de corrupción. Aunque el proceso penal contra **Chérres** se extinguió tras su asesinato en marzo de 2023, la Fiscalía aseguró que Chérres estaba vinculado al líder de la **mafia albanesa en Ecuador**, **Dritan Gjika**.
-
-La Fiscalía señaló que Carrera, con la ayuda de **Hernán Luque**, designó a Antonio I. como general de la **Corporación Nacional de Electricidad (CNEL)** para direccionar contratos en el sector eléctrico. Actualmente, Luque se encuentra detenido en Argentina, pendiente de extradición.
-
-Reacciones y contexto político
-------------------------------
-
-Carrera, que también fue directivo de un banco y presidente del **Comité Olímpico Ecuatoriano (COE)**, niega los cargos, alegando que la **Fiscalía no tiene pruebas concretas**. Debido a su edad, más de 65 años, Carrera cumple arresto domiciliario en lugar de prisión preventiva.
-
-El caso, inicialmente llamado **‘Gran Padrino’** por el medio La Posta, fue rebautizado por la Fiscalía como ‘Encuentro’, coincidiendo con el lema de la administración de Lasso. Este caso fue uno de los factores que impulsaron el juicio político contra Lasso, aunque la Corte Constitucional dejó fuera esta acusación.
-
-Antes de que se celebrara la votación final del juicio político, Lasso recurrió a la “muerte cruzada”. Posterior a esto se disolvió la Asamblea y convocaron a elecciones extraordinarias, donde Daniel Noboa resultó electo presidente.
-
-Cortes de luz provocan nuevos horarios de clases
-================================================
-
-Horarios de clases por los cortes de luz contemplan a las tres jornadas.
-------------------------------------------------------------------------
-
-![Horarios de clases se modifican por los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/09/Clases-desercion-escolar-1.jpg)
-
-Los **cortes de luz** en Ecuador derivaron en una nueva modificación en los horarios de clases en los planteles educativos a escala nacional.
-
-El **Ministerio de Educación** informó sobre los cambios, este lunes, 23 de septiembre de 2024. Hay algunas consideraciones.
-
-### Más noticias
-
-* [Este es el cronograma de cortes de luz en Quito para el lunes 23 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cronograma-cortes-luz-para-lunes-23-de-septiembre-del-2024.html)
-* [Cortes de luz de hasta seis horas se programan en Durán y Samborondón](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-hasta-seis-horas-programados-duran-samborondon.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
-* [Represa Mazar cambia de estado con las primeras lluvias en el Austro](https://www.elcomercio.com/actualidad/ecuador/represa-mazar-estado-primeras-lluvias-sequia-austro-electricidad-cortes-luz.html)
-
-> \[COMUNICADO\] Debido a las nuevas medidas implementadas por el Gobierno Nacional para el manejo responsable del sistema eléctrico, se establecen las siguientes disposiciones del lunes 23 al viernes 27 de septiembre, con el fin de garantizar la continuidad escolar, la seguridad y… [pic.twitter.com/wFtKZxMiA5](https://t.co/wFtKZxMiA5)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 23, 2024](https://twitter.com/Educacion_Ec/status/1838272095287230561?ref_src=twsrc%5Etfw)
-
-Clases y horarios por cortes de luz
+Richard Carapaz se baja del Mundial
 -----------------------------------
 
-Las nuevas disposiciones definidas por la **Cartera de Educación** estarán vigentes, en principio, del lunes 23 al viernes 27 de septiembre.
+La **Federación Ecuatoriana de Ciclismo** (FEC) y **Richard** **Carapaz** confirmaron que no participará en el Campeonato Mundial de Ciclismo.
 
-La premisa, según indicó el **Ministerio de Educación**, es garantizar la continuidad del proyecto educativo, así como la seguridad.
+A través de una llamada telefónica, el ciclista comunicó a la **FEC** su decisión, que fue comprendida y apoyada por la entidad. Las circunstancias también lo obligaron a suspender sus entrenamientos.
 
-Entre las disposiciones se contemplan los programas por el **juramento a la Bandera**, previstos para esta semana.
+El motivo de su retiro de la competición, donde sería el principal representante de Ecuador en la prueba de ruta, se debe a que **la hija de la ‘Locomotora’ se sometió a una intervención quirúrgica de emergencia**.
 
-> \[COMUNICADO\] Debido a las nuevas medidas implementadas por el Gobierno Nacional para el manejo responsable del sistema eléctrico, se establecen las siguientes disposiciones del lunes 23 al viernes 27 de septiembre, con el fin de garantizar la continuidad escolar, la seguridad y… [pic.twitter.com/wFtKZxMiA5](https://t.co/wFtKZxMiA5)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 23, 2024](https://twitter.com/Educacion_Ec/status/1838272095287230561?ref_src=twsrc%5Etfw)
+Por tal razón, el carchense tuvo que regresar a **Ecuador** para estar junto a su familia, lo que lo llevó a pausar sus entrenamientos y su participación en diversas competencias.
 
-Los cambios en las jornadas
----------------------------
+“No he podido entrenar durante varios días y mi condición no está a la altura de lo que **Ecuador** merece, ni física ni mentalmente. Por este motivo, he tomado la decisión de no participar en el Mundial”, explicó Carapaz.
 
-En la **jornada matutina**, las clases comenzarán en el horario habitual desde el martes 24 de septiembre, según el horario de ingreso establecido por cada institución. Del mismo modo, la salida se mantiene sin cambios.
+El ciclista reafirmó su compromiso con el país, pero destacó que la situación familiar trasciende el deporte, dejando claro que su familia es su prioridad.
 
-Para quienes estudian en las **tardes**, la hora de entrada no tiene variaciones. No obstante, la **salida será a las 17:00**.
-
-En el caso de la **jornada nocturna**, el Ministerio de Educación definió la modalidad no presencial y se activan recursos académicos y guías pedagógicas que deberán ser utilizados por los docentes y estudiantes.
-
-El juramento a la Bandera
--------------------------
-
-Con los cortes de luz también hay modificaciones en los programas del **juramento a la Bandera**. Con estos horarios.
-
-* **Jornada matutina**: 10:30
-* **Jornada vespertina**: 15:00
-* **Jornada nocturna**: se posterga la realización de este evento hasta que las condiciones lo permitan.
-
-En lo que se refiere a las instituciones **particulares, fiscomisionales y municipales** tienen la opción de adoptar estas medidas o definir sus propias disposiciones.
-
-Moisés Caicedo integra el equipo de la semana de la Premier League
-==================================================================
-
-Moisés Caicedo tuvo un partido magistral con el Chelsea en la victoria contra el West Ham United.
--------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo fue una de las figuras del Chelsea en la victoria contra el West Ham United por la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-23T124931.447.jpg)
-
-Las buenas actuaciones de **Moisés Caicedo con el Chelsea** han sido una constante desde el tramo final de la pasada campaña y al inicio de la nueva temporada de la Premier League. El ecuatoriano se ha consolidado como uno de los mejores mediocampistas de Inglaterra.
-
-Partido a partido, el ‘Niño Moi’ demuestra que la cifra exorbitante que pagaron por él ha resultado ser una inversión justificada, especialmente después de cada actuación excepcional, como la última **victoria de los ‘Blues’ ante el West Ham United.**
-
-### Más noticias:
-
-* [Asistencia de lujo de Moisés Caicedo y victoria del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-asistencia-chelsea-west-ham.html "Asistencia de lujo de Moisés Caicedo y victoria del Chelsea")
-* [(Video) Jhonny Quiñónez llora en Argentina al ser sustituido](https://www.elcomercio.com/deportes/futbol/jhonny-quinonez-llora-en-argentina-al-ser-sustituido.html "(Video) Jhonny Quiñónez llora en Argentina al ser sustituido")
-* [Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-gol-piero-hincapie.html "Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó")
-
-Moisés Caicedo en el equipo de la semana
-----------------------------------------
-
-El ecuatoriano dominó el mediocampo en la goleada de su equipo por 0-3 ante los ‘Hammers’. **Caicedo** **ofreció una clase magistral** de cómo ser un mediocampista total, firmando su mejor partido de la temporada.
-
-Tanto fue su dominio que Alan Shearer, leyenda del fútbol inglés, lo i**ncluyó en el equipo oficial de la semana de la Premier League.**
-
-“Ahora está encontrando su mejor forma, **dirigiendo el mediocampo brillantemente** y mostrando una gran visión en su asistencia a Jackson”, mencionó Shearer sobre el ecuatoriano.
-
-> Presenting Alan Shearer's Premier League Team of the Week ✨  
+> Comunicado oficial: Zúrich 2024 🌈  
 >   
-> Do you see your favourite player? [pic.twitter.com/UMEQjts9sR](https://t.co/UMEQjts9sR)
+> 📝 [https://t.co/wq4DiVI9ak](https://t.co/wq4DiVI9ak) [pic.twitter.com/5X2Az5jt9T](https://t.co/5X2Az5jt9T)
 > 
-> — Premier League (@premierleague) [September 23, 2024](https://twitter.com/premierleague/status/1838214985966592323?ref_src=twsrc%5Etfw)
+> — Richard Carapaz M (@RichardCarapazM) [September 23, 2024](https://twitter.com/RichardCarapazM/status/1838022676826235112?ref_src=twsrc%5Etfw)
 
-El partidazo de Moisés Caicedo
-------------------------------
+¿Qué competencias se le vienen al ecuatoriano?
+----------------------------------------------
 
-Como ya es costumbre en el Chelsea, **Moisés Caiced**o arrancó de titular. En los primeros 20 minutos, mostró su solidez en los duelos defensivos y ayudó a que su equipo ampliara la ventaja.
+A pesar de las circunstancias, hay varias competencias en octubre que están en el calendario de Richard Carapaz, según la página especializada en ciclismo _ProCyclingStats_.
 
-A los 17 minutos, Caicedo aprovechó una oportunidad para ir al ataque y generar una chance clara. Confiando en su habilidad, su maniobra terminó en gol, tras asistir a Jackson.
+De acuerdo con esta fuente, el ecuatoriano **tiene previsto participar en el Giro de Emilia**, que se celebrará el 5 de octubre en Italia.
 
-El ecuatoriano recibió el balón, levantó la cabeza y vio a su compañero correr al espacio, superando a los defensores rivales. **Caicedo filtró un pase entre líneas** que dejó solo a Jackson, quien definió con precisión. Apenas cuatro minutos después, llegó el tanto de los ‘Blues’.
+Esta carrera consta de **200 kilómetros**, con salida en la ciudad de Carpi y meta en el Santuario de Nuestra Señora de San Luca. Se trata de una competición de un solo día.
 
-> ¡PASE DE MOI, GOL DE NICO!  
-> Paciencia y toque de Chelsea, que la armó bien en el mediocampo. 🇪🇨 Moisés Caicedo asistió a Nico Jackson, que definió para el 2-0 ante West Ham.  
->   
-> ▶️ Más 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [#PremierLeague](https://twitter.com/hashtag/PremierLeague?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/5FyKm2jAgO](https://t.co/5FyKm2jAgO)
-> 
-> — ESPN Ecuador (@ESPNEcuador) [September 21, 2024](https://twitter.com/ESPNEcuador/status/1837460512197497139?ref_src=twsrc%5Etfw)
+Fiscalía exhumó 75 cadáveres en cementerio de Ambato
+====================================================
 
-En cuanto a estadísticas, el tercer capitán del Chelsea **terminó el partido con una asistencia**, un pase clave, una ocasión clara creada y un 87 % de acierto en sus pases.
+La diligencia es parte de la búsqueda de Giovanna Pérez, desaparecida hace 14 años.
+-----------------------------------------------------------------------------------
 
-Sin embargo, su mejor faceta fue en defensa, **donde ganó 13 de 16 duelos**, una auténtica barbaridad.
+![Las osamentas exhumadas serán sometidas a pruebas técnicas de identificación](https://www.elcomercio.com/wp-content/uploads/2024/09/exhumacion-ambato.jpg)
 
-Además, registró dos despejes, dos tiros bloqueados, una intercepción y ocho entradas, sumando un total de **10 quites efectivos**.
+La Fiscalía General del Estado realizó la **exhumación** de **75 cadáveres** no identificados (**NN**), los cuales fueron sepultados en el cementerio municipal **San Vicente de Picalhua**, en la ciudad de Ambato, provincia de Tungurahua.
 
-Ariel Holan tiene un rendimiento del 55% en Barcelona Sporting Club
-===================================================================
-
-Ariel Holan no convence a los hinchas de Barcelona Sporting Club con sus planteamientos y resultados.
------------------------------------------------------------------------------------------------------
-
-![Ariel Holan en el estadio Monumental en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/holan_numeros_1.jpg)
-
-**Ariel Holan**, entrenador de Barcelona Sporting Club, viene forjando una relación de amor-odio con los exigentes hinchas de su equipo que no ven con buenos ojos los resultados en los torneos locales e internacionales bajo su cargo.
-
-El último revés de Ariel Holan y su **Barcelona SC se registró en la séptima fecha de la segunda etapa** de la Liga Pro, al caer por 1-0 ante Deportivo Cuenca en el estadio Alejandro Serrano Aguilar.
-
-### Más noticias:
-
-* [Aucas rompió una extraordinaria racha en Liga Pro](https://www.elcomercio.com/deportes/aucas-cumbaya-racha-victoria-liga-pro.html "Aucas rompió una extraordinaria racha en Liga Pro")
-* [Leonardo Campana vuelve a anotar con Inter de Miami](https://www.elcomercio.com/deportes/gol-leonardo-campana-inter-miami-new-york.html "Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord")
-* [Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto](https://www.elcomercio.com/deportes/deportivo-cuenca-barcelona-liga-pro-gol-minuto.html "Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto")
-
-El Cuenca en las seis fechas anteriores solo le había ganado a Emelec en el George Capwell en la primera fecha.
-
-Después **cayó ante Orense (1-2), Universidad Católica (1-2)**, Macará (2-1), El Nacional (1-2) y empató con Delfín en Manta (0-0).
-
-A esta fila de malos resultados se suma que en los octavos de final de la Copa Ecuador fue **goleado por 3-0 por Liga de Quito** en el estadio Rodrigo Paz Delgado, lo que marcó su eliminación del torneo.
-
-“Este es un baño de realidad (…) Hay que trabajar y entrenar mucho y ver hasta donde podemos llegar. **No podemos tapar el sol con las manos** (…) Nosotros no veníamos haciendo los partidos que esperábamos”, declaró Holan consumada la derrota con los cuencanos.
-
-Pese a tener la posesión del balón en un 62%, **BSC ante el Cuenca mostró un juego carente de ideas** en la mitad de la cancha e inquietó poco al arco defendido por Hamilton Piedra, que supo responder con solvencia cuando fue requerido.
-
-Dos remates de Eduard Bello desviados, **un golpe de cabeza de Janner Corozo** y otro de Nicolás Ramírez fueron las únicas jugadas de peligro con las que contó el ‘Ídolo del Ecuador’ en los 90 minutos.
-
-Octavio Rivero, su goleador con seis tantos, no tuvo opciones de gol y solo estuvo involucrado en una jugada de un penal inexistente que el juez central no sancionó.
-
-Holan y su **Barcelona SC marchan en la sexta posición con 12 puntos**, cuatro menos que Liga de Quito, que con 16 sigue como líder y con la primera opción de ganar la etapa y disputarle el título a Independiente del Valle.
-
-Ariel Holan y sus números en Barcelona SC
------------------------------------------
-
-El rendimiento de Ariel Holan en **Barcelona Sporting Club es del 55%**, sumando los partidos de Copa Libertadores, Sudamericana, Copa Ecuador y Liga Pro.
-
-En esos cuatro torneos son 20 los encuentros dirigidos con un saldo de **10 victorias, tres empates y siete derrotas**. Marcó 28 goles y recibió 24 para un gol diferencia positivo de +4.
-
-Sus derrotas han sido en momentos claves de la temporada: 3-1 ante Talleres en la Libertadores; 1-0 ante Mushuc Runa en el cierre de la primera etapa de la Liga Pro; 3-2 con Bragantino en la Sudamericana; **2-0 con Independiente Juniors en la Copa Ecuador**; y 3-0 y 1-0 con LDU y Deportivo Cuenca, mermándole opciones en la Liga Pro.
-
-En su estadística personal se cuenta la eliminación de la Copa Libertadores; **eliminación de los play-off de octavos de final de la Copa Sudamericana**; y eliminación en los dieciseisavos de final de la Copa Ecuador.
-
-En la primera etapa de la **Liga Pro terminó en el segundo lugar con 31 puntos** y no le alcanzó para clasificarse a las finales de diciembre.
-
-En la segunda etapa todo apunta que seguirá el mismo camino y cerrará un año sin títulos, justo en la previa que el club cumpla 100 años de fundación.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Efectos de la crisis climática en América Latina
-================================================
-
-Sequías prolongadas, lluvias más intensas e incendios son algunos de los efectos de la crisis climática en la región.
----------------------------------------------------------------------------------------------------------------------
-
-![Fotografía aérea que muestra la afectación por incendios de una zona del Parque Estatal Guajará Mirim, en Nova Mamoré (Brasil).](https://www.elcomercio.com/wp-content/uploads/2024/09/incendios-brasil-efe-septiembre.jpg)
-
-**Sequías prolongadas**, **lluvias más intensas** e **incendios** son algunos de los efectos de la crisis climática en la región. América Latina y Centroamérica que necesitan “urgentemente” **soluciones para frenar este fenómeno** que avanza cada vez con mayor rapidez e intensidad, dijo Alejandro Hernández, investigador y director de Biotecnología de CropLife Latin America en Costa Rica.
+La diligencia realizada la mañana de este lunes 23 de septiembre de 2024 se ejecutó para localizar a personas registradas como desaparecidas, en el marco de la investigación de **Giovanna Pérez Constante**.
 
 ### Más noticias
 
-* [Impacto de los incendios en países de América Latina](https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html "Impacto de los incendios en países de América Latina")
-* [Perú despliega militares y aeronaves para combatir incendios forestales](https://www.elcomercio.com/actualidad/mundo/peru-despliega-militares-aeronaves-combatir-numerosos-incendios-forestales.html "Perú despliega militares y aeronaves para combatir incendios forestales")
-* [COE declara alerta roja en 15 provincias por emergencia hídrica](https://www.elcomercio.com/actualidad/ecuador/coe-declara-alerta-roja-sequia.html "COE declara alerta roja en 15 provincias por emergencia hídrica")
+* [Conmemoremos el Día Internacional de las Víctimas de Desapariciones Forzadas](https://www.elcomercio.com/sociedad/dia-internacional-victimas-desapariciones-forzadas-efemeride.html "Conmemoremos el Día Internacional de las Víctimas de Desapariciones Forzadas ")
+* [Fiscalía reveló nueva información del joven que mató a su madre, en Quito](https://www.elcomercio.com/actualidad/quito/fiscalia-revelo-nueva-informacion-joven-mato-madre-quito.html "Fiscalía reveló nueva información del joven que mató a su madre, en Quito")
+* [Autor de atroz femicidio fue sentenciado en Ambato](https://www.elcomercio.com/actualidad/seguridad/femicida-ambato-crimen-pareja-fiscalia.html "Autor de atroz femicidio fue sentenciado en Ambato")
 
-Hernández indicó que si los países logran **“mejorar el ecosistema agrícola”,** podrán conseguir cultivos “más resilientes, es decir, que toleran mejor la sequía o las inundaciones”.
+Técnicos del Servicio Nacional de Medicina Legal y Ciencias Forenses trabajaron en la **búsqueda** de los cuerpos.
 
-Incendios forestales en Brasil
-------------------------------
+Los cadáveres NN fueron etiquetados con una numeración específica que se colocó también en los féretros, lo cual facilitó el trabajo.
 
-Los devastadores incendios forestales de las regiones del Pantanal y la Amazonia en Brasil, provocaron un total acumulado de **emisiones de carbono más alto** de los 22 años que abarca el conjunto de datos de emisiones de incendios de el Servicio de Vigilancia Atmosférica de Copernicus (CAMS) que ha seguido de cerca las emisiones de los incendios en Sudamérica durante los últimos meses.
+Según detalló Fiscalía, “se aplicaron estrictos estándares en materia de **Derechos Humanos**“.
 
-Los quemas forestales de la región amazónica, y en particular de los estados de **Amazonas y Mato Grosso** do Sul (donde se encuentra la mayor parte de los humedales del Pantanal) provocan niveles de emisiones de carbono que superna constantemente la media (e incluso han batido récords nacionales y regionales), lo que afecta gravemente la **calidad del aire en toda la región**, según datos del CAMS.
+Luego de la recolección de osamentas se practicarán **pruebas técnicas** de identificación a los cuerpos.
 
-En Brasil, las emisiones totales acumuladas de carbono estimadas en lo que va de 2024 “han sido superiores a la media, de en torno a 183 megatoneladas de carbono hasta el 19 de septiembre, y siguen una trayectoria similar a la del año 2007, cuando marcaron un récord”, indicó la institución en un comunicado.
-
-Incendios forestales continúan en Argentina
--------------------------------------------
-
-Varios focos de **incendios forestales** permanecen activos en las provincias de **Córdoba y San Luis**, en el centro de Argentina, donde el **fuego arrasó miles de hectáreas**, según informaron fuentes oficiales.
-
-Desde las primeras horas de este domingo los bomberos **combaten tres focos en la provincia de Córdoba,** donde los incendios se suceden desde hace varias semanas.
-
-Actualmente los focos activos están en las localidades de **Villa Berna y Salsacate,** este último en un sector de difícil acceso, “pero el frente registra **menor actividad** gracias al combate que permitió ganarle al fuego y reducir su magnitud”, según informó el Gobierno de Córdoba.
-
-También se mantiene en esa provincia un foco en la localidad de Capilla del Monte.
-
-“El operativo cuenta con un gran **despliegue de bomberos voluntarios de diferentes regionales** de la provincia. Además de efectivos del Equipo Técnico de Acción ante Catástrofes, Policía, Defensa Civil y el Plan Provincial de Manejo del Fuego. Los aviones hidrantes ya están operando para reforzar los trabajos por tierra con aplicaciones aéreas”, informó el Ejecutivo provincial.
-
-Según informaron medios locales, en Córdoba el fuego ya ha consumido cerca de 40.000 hectáreas en lo que va del año.
-
-Colombia combate 31 incendios 
-------------------------------
-
-Los **incendios forestales** que se registraron en los últimos **14 días en Colombia** consumieron 10 945 hectáreas de bosques en siete de lo**s 32 departamentos del país**, según informó este domingo la estatal Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd).
-
-De acuerdo con las cifras de la Unidad, con corte a este domingo, hay 31 incendios activos en el país, llamas que se originan principalmente por las altas temperaturas y la falta de lluvias.
-
-Las llamas afectaron principalmente a los **departamentos del Tolima (centro)**, en el que hay trece, mientras que en el Cauca (suroeste), se contabilizan nueve.
-
-En Nariño (sur) hay tres; en Huila (sur) y Valle del Cauca (suroeste), dos; y en Cundinamarca (centro), del que Bogotá es su capital, uno, lo mismo que en Amazonas (sur).
-
-Igualmente, la Ungrd informó que **cinco incendios, tres en Tolima y dos en Cundinamarca**, fueron controlados.
-
-El Gobierno tiene en operación ocho aeronaves que combaten el fuego que consume no solo vegetación, sino que también **mata animales y afecta siembras.**
-
-Bomberos españoles en Bolivia
------------------------------
-
- Un equipo de **41 bomberos forestales y ocho especialistas españoles** llegaron el sábado 23 de septiembre de 2024, a Bolivia para ayudar en el combate contra los incendios forestales que ya devoraron casi 4 millones de hectáreas en varias regiones del país andino.
-
-El viceministro de **Defensa Civil de Bolivia, Juan Carlos Calvimontes, y delegados de la Unión Europea** recibieron al contingente en el Aeropuerto Internacional de Viru Viru, en Santa Cruz, la región más poblada y más golpeada por el fuego desde junio.
-
-El equipo español está conformado por personal del módulo GFFF-BRIF (Brigadas de Refuerzo de Incendios Forestales) y del equipo FAST, integrado por expertos en análisis de incendios y gestión de emergencias.
-
-“Se coordinó el **despliegue hacia las zonas más afectadas de la Chiquitanía**, donde los especialistas comenzarán sus labores para reforzar los esfuerzos locales en el combate y control de los incendios”, dice un comunicado oficial.
-
-Sequías en Ecuador
-------------------
-
- El **Comité de Operaciones de Emergencia (COE) de Ecuador** convocó el fin de semana a una reunión urgente de su pleno para evaluar el **impacto de la sequía que afecta a varias provincias del país,** informó la Secretaría General de Comunicación de la Presidencia.
-
-La sesión del COE, integrado por altas autoridades del Estado y de las instituciones de respuesta ante emergencias, se celebró en Cuenca con el objetivo de “**tomar decisiones inmediatas para salvagurdar** (proteger) los recursos hídricos” del país, añadió la fuente.
-
-La Secretaría de Comunicación aseguró que el país afronta actualmente la más grande sequía desde hace 61 años, que ya son “71 días de sequía hidrológica” y que en el último mes se registraron más de 1 330 incendios forestales en todo el país.
-
-Ante la “compleja situación hídrica”, de manera preliminar la Secretaría de Comunicación de la Presidencia afirmó que las provincias que pudieran tener una mayor **afectación por el fenómeno climático** son las andinas de Azuay, Cañar y Cotopaxi; así como las amazónicas de Zamora Chinchipe y Morona Santiago.
-
-Brasilia sufre a causa de las sequías
--------------------------------------
-
-Brasilia, la capital brasileña construida desde la primera piedra e inaugurada en 1960, completó el martes, 17 de septiembre de 2024, **147 días sin lluvias**, cercada de incendios forestales que mantienen a la ciudad bajo una fuerte humareda.
-
-Se trata de la **sequía más prolongada desde 1963,** que marcó un récord de 163 días sin siquiera una llovizna, y de acuerdo a las proyecciones del servicio meteorológico este año puede ser igual o peor, pues hasta ahora no se prevén precipitaciones para las próximas dos semanas.
-
-Esa **falta de lluvias se combina con temperaturas que han llegado a 33 grados centígrados** en los últimos días, junto con una humedad del aire que ha caído hasta el 7 %.
-
-En el entorno de la capital, desde el pasado domingo los bomberos combaten al menos cuatro frentes de incendios desatados en el Parque Nacional de Brasilia, una **reserva forestal de unas 9 500 hectáreas,** de las que cerca de un 30 % han sido afectadas por las llamas.
-
-Los incendios estaban el martes 17 de septiembre de 2024 ,parcialmente controlados, pero persistían diversos focos que aún emitían un denso humo que cubría parte de la zona norte de la ciudad y llegaba a la Explanada de los Ministerios, el **corazón del poder nacional** y donde se asientan todos los edificios del Gobierno, el Parlamento y la Corte Suprema.
-
-La sequía es habitual en esta época del año en la región central de Brasil, pero en este 2024 es una de las más extremas y afecta a **más de la mitad del territorio del país,** con especial incidencia en los biomas de la Amazonía, la sabana del Cerrado y el Pantanal.
-
-Lluvias torrenciales en el sur de México
-----------------------------------------
-
-La recién formada tormenta tropical John dejará este lunes, 23 de septiembre de 2024, lluvias **“torrenciales” en el sur de México**, donde tocaría tierra entre el **martes y miércoles** en el estado de Oaxaca, informó el Servicio Meteorológico Nacional (SMN).
-
-El centro del ciclón, el segundo de la temporada del Pacífico que pasaría sobre territorio mexicano, estaba en el último reporte a 200 kilómetros al sur de Punta Maldonado, estado de Guerrero, y a 250 kilómetros al oeste-suroeste de Puerto Ángel, Oaxaca.
-
-El fenómeno presenta vientos sostenidos de 100 kilómetros por hora y rachas de 120 kilómetros por hora, con un desplazamiento hacia el nor-noreste a 6 kilómetros por hora.
-
-La tormenta **provocará lluvias “extraordinarias”, mayores a 250 milímetros en Oaxaca,** y “torrenciales”, de 150 a 250 milímetros en Chiapas y Guerrero.
-
-También **habrá precipitaciones “intensas”** en Veracruz, así como “muy fuertes” en Morelos y Puebla, y “fuertes” en el Estado de México.
-
-Bogotá endurece el racionamiento de agua
-----------------------------------------
-
-La Alcaldía de Bogotá anunció el viernes, 20 de septiembre de 2024, un endurecimiento del **racionamiento de agua en la capital colombiana,** vigente desde abril pasado, debido a que las lluvias y la reducción del consumo han estado por debajo de lo esperado.
-
-“Las lluvias que estaban previstas para Bogotá no llegaron. Los meses de julio, agosto y septiembre, que son de lluvias en Bogotá, fueron atípicamente secos este año”, manifestó el alcalde de la ciudad, Carlos Fernando Galán, en una rueda de prensa.
-
-Por eso, “la decisión que hemos tomado es volver al esquema de racionamiento todos los días”, dijo el alcalde al señalar que los cortes de agua de 24 horas en cada una de las nueve zonas en que fue dividida la ciudad se harán cada diez días y no cada 18, como hasta hora.
-
-Racionamiento de agua diario
-----------------------------
-
-“A partir del 29 de septiembre la ciudad vuelve a tener un racionamiento diario (…) cada diez días se repetirá un ciclo”, agregó el alcalde sobre el inicio de la nueva fase de medidas restrictivas.
-
-Galán agregó que otra medida adoptada es la definición de un “día cero para Bogotá” si el nivel de la red de embalses que abastecen de agua a esta ciudad de más de ocho millones de habitantes no mejora en las próximas semanas, lo que llevará a endurecer aún más el racionamiento.
-
-“El día **cero se va alcanzar cuando el sistema de Chingaza llegue al 36 % (de su capacidad)** que está actualmente en el 45,4 %. Si el nivel de Chingaza llega a ese punto tendremos que tomar medidas más restrictivas que las que estamos tomando hoy”, manifestó el funcionario.
-
-La meta de la Alcaldía de Bogotá era llegar a octubre con los embalses del sistema Chingaza en el 70 % de su capacidad, pero a la fecha está 24,6 puntos por debajo.  
-  
-
-En suspenso concurso para designar al nuevo Fiscal General
-==========================================================
-
-Juez suspende concurso para Fiscal General por medida cautelar; Cpccs rechaza la decisión y busca revocatoria en Montecristi.
------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/pleno-cpccs.png)
-
-El **Juzgado de Montecristi** ordenó la **suspensión temporal** del concurso para seleccionar al próximo Fiscal General del Estado.
-
-Esta medida cautelar fue emitida el **11 de septiembre de 2024** y afecta directamente al proceso liderado por el **Consejo de Participación Ciudadana y Control Social (CPCCS), encargado de la designación**.
-
-### Más noticias
-
-* [TCE da paso a recurso presentado por consejeros de la ‘Liga Azul’ del Cpccs](https://www.elcomercio.com/actualidad/politica/tce-dio-paso-recurso-consejeros-liga-azul-cpccs.html "TCE da paso a recurso presentado por consejeros de la ‘Liga Azul’ del Cpccs")
-* [Cpccs aprobó reglamento del concurso para Fiscal General del Estado](https://www.elcomercio.com/actualidad/politica/cpccs-aprobo-reglamento-concurso-fiscal-general-estado.html "Cpccs aprobó reglamento del concurso para Fiscal General del Estado")
-* [Cpccs tomó nueva resolución para el concurso de Fiscal General](https://www.elcomercio.com/actualidad/politica/cpccs-tomo-nueva-resolucion-concurso-fiscal-general.html "Cpccs tomó nueva resolución para el concurso de Fiscal General")
-
-El magistrado Vicente Pico, responsable de la decisión, dispuso que la suspensión se mantenga hasta que el reglamento del concurso sea reformado por el CPCCS.
-
-La resolución judicial establece que el Consejo debe modificar el reglamento para garantizar el derecho de participación de los accionantes. Esta suspensión tiene como objetivo proteger los derechos constitucionales de las personas involucradas en el proceso.
-
-La decisión fue comunicada oficialmente el **viernes 20 de septiembre de 2024** y hecha pública el 22 de septiembre, a través de una publicación en redes sociales por e**l consejero del Cpccs, Augusto Verduga**.
-
-> El juez constitucional Vicente Pico ha concedido una medida cautelar que ordena la suspensión del concurso para el Fiscal General, hasta que se reforme el reglamento emitido por el Pleno del CPCCS. Esta decisión constituye una clara intromisión en las competencias de este cuerpo… [pic.twitter.com/OMEA4hjMbm](https://t.co/OMEA4hjMbm)
+> [#DesaparecidosEcuador](https://twitter.com/hashtag/DesaparecidosEcuador?src=hash&ref_src=twsrc%5Etfw) | Con el fin de seguir con el procedimiento de búsqueda y localización de personas desaparecidas, [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) –en coordinación con el [@gadambato](https://twitter.com/gadambato?ref_src=twsrc%5Etfw)– procede a exhumar 75 cadáveres que fueron sepultados como NN en el cementerio municipal de [#Picaihua](https://twitter.com/hashtag/Picaihua?src=hash&ref_src=twsrc%5Etfw) ([#Ambato](https://twitter.com/hashtag/Ambato?src=hash&ref_src=twsrc%5Etfw)). [pic.twitter.com/6rNviNc3ST](https://t.co/6rNviNc3ST)
 > 
-> — Augusto Verduga Sánchez 🐝 (@VerdugaAugusto) [September 22, 2024](https://twitter.com/VerdugaAugusto/status/1837949641024786760?ref_src=twsrc%5Etfw)
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 23, 2024](https://twitter.com/FiscaliaEcuador/status/1838252593136472396?ref_src=twsrc%5Etfw)
 
-Controversia y reacción del Cpccs
----------------------------------
+Caso Giovanna Pérez
+-------------------
 
-Tras conocerse la resolución, el consejero **Augusto Verduga** expresó su desacuerdo en su cuenta de la plataforma X, calificando la medida como una **“intromisión” en las competencias del Cpccs**. Verduga también afirmó que la decisión **judicial afecta el avance del concurso**. Asimismo, criticó al juez por, según su opinión, actuar en contradicción con sentencias previas de la Corte Constitucional.
+La desaparición de Giovanna Pérez Constante ocurrió el 4 de diciembre de **2010**.
 
-El Cpccs emitió un comunicado oficial, en el cual **rechazan la decisión judicial**. En el documento, la institución acusa a**l fallo de permitir la postulación de candidatos** que defendieron causas relacionadas con el crimen organizado, lo que, según el Cpccs, pone en riesgo la **legitimidad del proceso**.
+Desde ese día, sus padres, familiares y amigos han luchado por esclarecer lo sucedido con la estudiante de **Administración de Empresas**.
 
-En respuesta, la entidad anunció que solicitará a la **Unidad Judicial Multicompetente de Montecristi** la revocatoria de la **medida cautelar**.
+Giovanna tenía **19 años** cuando desapareció en Ambato. Lo último que supieron de ella es que fue invitada por un amigo al **cine** y nunca más volvió.
 
-### Próximos pasos en el proceso
+Ese diciembre de 2010 el ambiente festivo se percibía en la ciudad. Giovanna no salía de casa constantemente, contó Yanera, su madre, a **EL COMERCIO**, en una entrevista pasada, pero el viernes 3 de diciembre le pidió permiso para ir a una reunión de cumpleaños.
 
-La audiencia para tratar el fondo del caso está programada para e**l 29 de octubre de 2024, a las 09:00**. En dicha audiencia, se revisarán los **argumentos de las partes**. También se determinará si la suspensión del concurso se mantiene o si el proceso de designación del nuevo **Fiscal General del Estado** puede continuar.
+“Fue con su prima y su mejor amiga. Ahí fue que conoció por primera vez a **Andrés L.**, el principal sospechoso de la desaparición de mi hija”, afirma.
 
-Historia y evolución de Nintendo en sus 135 años de historia 
-=============================================================
+La tarde de aquel viernes, Andrés L. intercambió su número con Giovanna durante la reunión y volvió a contactarla al **día siguiente**.
 
-Nintendo, desde sus inicios con las cartas Hanafuda, ha revolucionado la industria de los videojuegos.
-------------------------------------------------------------------------------------------------------
+Ese día, Giovanna salió de casa en la mañana hacia la unidad educativa Rodríguez Albornoz, donde estudiaba su hermana Denisse.
 
-![Nintendo, fundada en 1889 por Fusajiro Yamauchi, comenzó con la fabricación de cartas. Foto: Nintendohana.](https://www.elcomercio.com/wp-content/uploads/2024/09/aniversario-nintendo.jpg)
+A las 16:30 de ese sábado, la joven llamó a su madre. “Giovannita me dijo que un chico, Andrés L., a quien había conocido el día anterior, **la invitó al cine**. Ella me preguntó si podía ir y le dije que bueno. Esa fue la última vez que hablé con mi hija, **desde ahí no sé en dónde está o qué le hicieron**”, reclama.
 
-Hoy, **Nintendo está de aniversario**, ya que celebra **135 años de innovación** y entretenimiento. Fundada el **23 de septiembre de 1889** en Japón por **Fusajiro Yamauchi**, la compañía inició como un **negocio de cartas**, las cuales se volvieron rápidamente populares en Japón, a decir de [Nintenderos](https://www.nintenderos.com/2024/09/nintendo-cumple-135-anos/ "https://www.nintenderos.com/2024/09/nintendo-cumple-135-anos/"). 
+14 años de búsqueda
+-------------------
 
-### Más noticias
+Durante cerca de **14 años**, sus cercanos han pedido al Estado que se haga justicia. Sus padres **Mauro Pérez y Yanera Constante**, han denunciado varias veces la “indolencia” de las autoridades para avanzar con las investigaciones.
 
-* [Encuentran nuevo virus que puede afectar a los Smart TV](https://www.elcomercio.com/tecnologia/smarttv-android-tv-box-malware.html "https://www.elcomercio.com/tecnologia/smarttv-android-tv-box-malware.html") 
-* [Instagram lanza cuenta para adolescentes](https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html "https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html") 
+Ellos han buscado a su hija en varias ciudades del país sin resultados, incluso viajaron a **Colombia y Perú** para encontrar alguna pista de la desaparición.
 
-Nintendo, reconocida actualmente por consolas emblemáticas como la **NES**, **SNES**, **N64**, **GameCube**, **Wii**, **Wii U**, **3DS** y la exitosa **Switch**, no siempre estuvo en el mundo de los videojuegos. Su evolución ha marcado generaciones enteras. 
+En septiembre de 2022, la denuncia contra el Estado fue admitido por la Comisión Interamericana de Derechos Humanos (**CIDH**).
 
-Con este **135 aniversario**, la empresa sigue como un **referente global de la cultura del entretenimiento**, con una visión innovadora, se ha mantenido relevante por más de un siglo. 
+Según el abogado de la familia, la exhumación que se realizó este lunes en el cementerio de Picalhua respondió a una solicitud que se hizo hace más de **10 años**.
 
-**Así nació Nintendo**  
-------------------------
+En los exteriores del cementerio, como ha sido costumbre desde que desapareció Giovanna, sus familiares reclamaron justicia con **pancartas** y consignas.
 
-Según su [página oficial](https://www.nintendo.com/es-es/Hardware/La-historia-de-Nintendo/La-historia-de-Nintendo-625945.html?srsltid=AfmBOoqM0G_TJJlljypwJCCF3UdDcHlr-QPif9ZLXsgxQVItXQD04i_G "https://www.nintendo.com/es-es/Hardware/La-historia-de-Nintendo/La-historia-de-Nintendo-625945.html?srsltid=AfmBOoqM0G_TJJlljypwJCCF3UdDcHlr-QPif9ZLXsgxQVItXQD04i_G"), **la historia de Nintendo comenzó en 1889** cuando **Fusajiro Yamauchi** fundó la empresa en Kyoto, Japón, y **fabricó las primeras cartas japonesas ‘Hanafuda’**. Estas barajas fueron un éxito, y sentaron las bases de lo que hoy es uno de los gigantes del entretenimiento mundial. 
+Sus conocidos esperan que las pruebas técnicas identifiquen a la mujer que hoy tendría **33 años**.
 
-En 1902, **la compañía innovó al producir cartas de estilo occidental** para Japón, lo que le hizo ganar popularidad tanto a nivel local como internacional.  
+“Solo el día en que pueda ver a mi hija **podré morir en paz**“, dijo conmovida su madre Yanera.  
 
-Para 1933, se consolidó como **Yamauchi Nintendo Co. Ltd.**, y en 1947, la distribuidora Marufuku Co. Ltd. comenzó a expandir su alcance. 
-
-Llegado 1950, **Hiroshi Yamauchi** tomó el control de la compañía, que **pasó a llamarse Nintendo Playing Card Co. Ltd**. Para 1959, **Nintendo logró un acuerdo clave con Walt Disney para imprimir personajes en sus barajas**, lo que atrajo al mercado infantil. 
-
-**En 1963, el nombre cambió a Nintendo Co., Ltd.**, lo que marcó su entrada al desarrollo de juegos además de cartas.  
-
-Durante las décadas siguientes, **Nintendo innovó en el ámbito de los videojuegos**, como con la serie Beam Gun de 1970, y fue **pionera en introducir tecnología de disparo láser en 1973**.  
-
-Su **expansión global** incluyó la creación de **Nintendo of America en 1979**, lo que consolidó su presencia en la industria de los videojuegos. 
-
-**El éxito que redefinió la industria de los videojuegos** 
------------------------------------------------------------
-
-Tras el auge de la empresa **Atari** en los años 70 y 80, **Nintendo** tomó una decisión crucial que cambiaría su historia.  
-
-Según [El Imparcial](https://www.elimparcial.com/tecnologia/2024/09/23/nintendo-cumple-135-anos-cual-es-la-clave-de-su-rotundo-exito/ "https://www.elimparcial.com/tecnologia/2024/09/23/nintendo-cumple-135-anos-cual-es-la-clave-de-su-rotundo-exito/"), la compañía **abandonó los juegos infantiles tradicionales y se aventuró en la industria de los videojuegos**, que en ese momento estaba en crisis.  
-
-Entre **1983 y 1985**, Nintendo lanzó su primera consola, la **Nintendo Entertainment System (NES)**. Para enfrentar la recesión, **promovieron la NES no solo como una consola de videojuegos, sino como un sistema de entretenimiento** más versátil. 
-
-El éxito de la **NES** fue impulsado por títulos icónicos como **Super Mario Bros**, **The Legend of Zelda**, **Metroid**, y **Kirby**. Estas franquicias no solo se convirtieron en referentes de la marca, sino que se han mantenido en el tiempo.  
-
-Con el lanzamiento de la **Wii** en **2006**, Nintendo decidió no competir directamente con **Xbox** y **PlayStation**, enfocándose en la **jugabilidad en lugar de la potencia gráfica**. Este movimiento audaz atrajo tanto a jugadores fanáticos como casuales. 
-
-Nintendo ha logrado consolidarse como un símbolo de calidad y diversión. Ha innovado en la experiencia de juego no solo con sus títulos, sino también con su hardware, al incorporar tecnologías como **controles por movimiento**, **pantallas táctiles**, **efecto 3D** y, sobre todo, **portabilidad**. 
-
-El hombre sobre capó de un vehículo en Guayaquil fue localizado
-===============================================================
-
-El video donde se ve cómo un hombre es arrastrado sobre el capó de un vehículo en Guayaquil se hizo viral en las redes sociales.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial. El hombre fue arrastrado en la vía Perimetral, en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/09/Hombre-arrastrado-Guayaquil.jpg)
-
-En redes sociales se viralizó un video que muestra cómo un hombre es **arrastrado** sobre el capó de un **vehículo** por las calles de **Guayaquil**. A la supuesta víctima se la **localizó** siete días después[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F")
-
-Más noticias
-------------
-
-* [Siniestro de tránsito en Carcelén, norte de Quito, deja 10 personas afectadas](https://www.elcomercio.com/actualidad/siniestro-de-transito-en-carcelen-norte-de-quito-deja-10-personas-afectadas.html "Siniestro de tránsito en Carcelén, norte de Quito, deja 10 personas afectadas")
-* [Fatal siniestro de tránsito dejó un fallecido, en Solanda](https://www.elcomercio.com/actualidad/quito/choque-quito-fallecido-solanda.html "Fatal siniestro de tránsito dejó un fallecido, en Solanda")
-* [Siniestro de tránsito en Guayllabamba dejó cinco heridos](https://www.elcomercio.com/actualidad/quito/siniestro-transito-guayllabamba-trailer-quito.html "Siniestro de tránsito en Guayllabamba dejó cinco heridos")
-
-En el video se observa un carro rojo que lleva a un hombre sobre el capó, mientras circula por la vía **Perimetral**.
-
-Localizan al hombre que fue arrastrado sobre el capó
-----------------------------------------------------
-
-A través de las redes sociales de **Segura** **EP**, se informó que se coordinó la **atención médica** y se trasladó a un hospital al ciudadano agredido, días antes, por un conductor en la **Perimetral**, tras un **siniestro** de **tránsito**.
-
-Este mensaje lo replicó el alcalde de Guayaquil, **Aquiles Álvarez**, quien confirmó que localizaron a la víctima. “**Finalmente,** dimos con el afectado tras la brutal agresión en la **Perimetral** sobre un vehículo”, declaró el Alcalde.
-
-**Álvarez** también enfatizó: “No descansaremos hasta dar con el **responsable** y que responda ante la ley. Aquí no se toleran abusos ni atropellos”.
-
-> Finalmente dimos con el afectado tras la brutal agresión en la Perimetral sobre un vehículo. Gracias al trabajo de Segura EP, aseguramos su atención médica y lo estamos asistiendo para que proceda a hacer la denuncia ante la fiscalía de manera correcta.  
->   
-> No descansaremos hasta… [https://t.co/B9YHmbsp3M](https://t.co/B9YHmbsp3M)
-> 
-> — Aquiles Alvarez Henriques (@aquilesalvarez) [September 22, 2024](https://twitter.com/aquilesalvarez/status/1837875901788312061?ref_src=twsrc%5Etfw)
-
-Video del hombre sobre el capó de un vehículo en Guayaquil
-----------------------------------------------------------
-
-La temeraria acción del **conductor imprudente** quedó en un video ciudadano.
-
-Las imágenes en las **redes sociales** muestran a un hombre que se aferraba al capó de un vehículo, mientras este iba a gran velocidad por la **vía Perimetral**, en **Guayaquil**.
-
-Según información extraoficial, minutos antes del incidente, el **hombre** y el **conductor** **chocaron**, presuntamente. El afectado se bajó de su vehículo para reclamar los gastos del siniestro, pero el conductor ignoró sus pedidos e **intentó huir**.
-
-Para impedir que escapara, el hombre se colocó frente al carro rojo. Sin embargo, el conductor aceleró sin tener en cuenta la **vida** del **ciudadano**.
-
-Testigos relataron que, tras arrastrarlo varios metros, el conductor frenó bruscamente para provocar su caída. El hombre quedó herido a un costado de la vía y necesitó **asistencia médica**.
-
-La alerta se reportó al ECU 911 el lunes 16 de septiembre de 2024. En el video también se aprecia que el lado frontal izquierdo del vehículo presentaba daños visibles, posiblemente relacionados con el golpe previo.
-
-> Terrible!!!  
-> En un accidente de tránsito, el conductor del vehículo chocado se bajó a reclamar por los daños, el otro no quizo reconocer y el afectado se puso de frente al carro para que no se de a la fuga, pero al otro no le importó y se fue llevándoselo encima del Capot a lo… [pic.twitter.com/Ozh44LXNW1](https://t.co/Ozh44LXNW1)
-> 
-> — Emergencias Ec (@EmergenciasEc) [September 17, 2024](https://twitter.com/EmergenciasEc/status/1835842589309767847?ref_src=twsrc%5Etfw)
-
-El artillero de Liga de Quito, Alex Arce, no encuentra el gol
-=============================================================
-
-El paraguayo Alex Arce, jugador de Liga de Quito, fue el mejor fichaje de la temporada en el fútbol ecuatoriano.
-----------------------------------------------------------------------------------------------------------------
-
-![Alex Arce en el partido entre Liga de Quito y El Nacional por la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-23T122100.180.jpg)
-
-**Alex** **Arce** atraviesa una breve s**equía goleadora en Liga de Quito**, la más prolongada desde su llegada al club universitario a inicios de año. Sin embargo, su rendimiento no ha disminuido, ya que sigue siendo uno de los jugadores más destacados del equipo.
-
-Aunque tuvo algunas oportunidades, Arce no logró marcar en el amargo empate 1-1 contra El Nacional en el Estadio Rodrigo Paz Delgado, un resultado que comprometió el liderato de los albos en la segunda etapa de la **Liga Pro**.
-
-### Más noticias:
-
-* [Liga de Quito pone en riesgo sus opciones de ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-de-quito-pone-en-riesgo-sus-opciones-de-ganar-la-etapa.html "Liga de Quito pone en riesgo sus opciones de ganar la etapa")
-* [La Liga Pro modifica horarios por cortes de luz en Ecuador](https://www.elcomercio.com/deportes/futbol/liga-pro-horarios-fecha8-etapa.html "La Liga Pro modifica horarios por cortes de luz en Ecuador")
-* [Liga de Quito igualó con El Nacional en un clásico de la Liga Pro](https://www.elcomercio.com/deportes/partido-en-vivo-liga-quito-nacional-liga-pro.html "Liga de Quito igualó con El Nacional en un clásico de la Liga Pro")
-
-Alex Arce, peleado con el gol
------------------------------
-
-Después de ocho meses espectaculares, **Alex Arce ha experimentado su primer bajón** en cuanto a goles se refiere.
-
-A pesar de la falta de anotaciones, el paraguayo **sigue siendo una pieza clave del equipo**, gracias a su capacidad para generar espacios y facilitar que sus compañeros reciban con menos presión y puedan anotar.
-
-Hasta hace unos meses, **su peor racha fue de tres partidos** sin marcar (dos por la Libertadores y uno por la Liga Pro).
-
-Con el reciente empate ante El Nacional, Arce igualó esa racha, **acumulando tres partidos** consecutivos sin marcar en la Liga Pro. Además, en los últimos cuatro partidos de Liga, solo ha conseguido un gol, que fue en Copa Ecuador.
-
-Su **último gol en el campeonato ecuatoriano** fue en la tercera fecha, cuando anotó el tanto de la victoria en la visita a Sociedad Deportiva Aucas (0-1).
-
-Los números de Alex Arce
-------------------------
-
-La primera temporada de **Alex Arce en Liga de Quito** ha sido espectacular, debido a su espectacular cuota goleadora que lo posiciona como uno de los mejores delanteros del club en los últimos años.
-
-En 35 partidos, disputados en cinco competencias, el ‘Toro’ ha **anotado 25 goles** y dado cuatro asistencias.
-
-Además, se convirtió en el primer jugador en la historia de Liga de Quito en marcar en cinco competiciones distintas en una misma temporada: Liga Pro, Copa Sudamericana, Copa Libertadores, Copa Ecuador y Recopa Sudamericana.
-
-También es el **máximo goleador de la Liga Pro**, con 18 goles en 20 partidos.
-
-Cortes de luz de hasta seis horas se programan en Durán y Samborondón
-=====================================================================
-
-Los cortes de luz en Durán y Samborondón son en dos franjas horarias.
----------------------------------------------------------------------
-
-![Imagen referencial de cortes de luz y uso de velas.](https://www.elcomercio.com/wp-content/uploads/2024/09/luz-duran.jpg)
-
-Los **cortes de luz** programados para este lunes, 23 de septiembre de 2024, se realizan en dos franjas horarias. Este es el caso de los cantones de **Durán y Samborondón**[.](https://es.wikipedia.org/wiki/Dur%C3%A1n_(Ecuador))
-
-Los horarios están establecidos en la página web de la [Agencia de Regulación de Electricidad](https://www.recursosyenergia.gob.ec/unidades-de-negocio-cnel-ep/). En esta se detalla los horarios de cada empresa distribuidora.
-
-### Más noticias
-
-* [Este es el cronograma de cortes de luz en Quito para el lunes 23 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cronograma-cortes-luz-para-lunes-23-de-septiembre-del-2024.html)
-* [Cortes de luz sin cronograma definido para este 23 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cortes-luz-cronograma-incertidumbre-sequia-ecuador-emergencia.html "Cortes de luz sin cronograma definido para este 23 de septiembre de 2024")
-* [Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma](http://Cortes de luz en 12 provincias en Ecuador, hoy; este es el cronograma)
-* [¿Cuándo serán los próximos cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/negocios/cuando-seran-los-proximos-cortes-de-luz-en-ecuador.html "¿Cuándo serán los próximos cortes de luz en Ecuador?")
-
-Cortes de luz en Durán y Samborondón
-------------------------------------
-
-Los **cortes de luz** están previstos durante la mañana y las noches. Los racionamientos se efectuarán entre las 12:00 y 15:00 y entre las 18:00 y 21:00.
-
-Entre los sectores que constan en el **cronograma de suspensión** del servicio de energía eléctrica están Urbanización La Delfina, La Estela, Buijo Histórico, Plaza Vizcaya, Buijo Center, El Cortijo, Unidad  
-Educativa Soler, Colegio Menor Samborondón y Urbanización La Coralia.
-
-Se suman **La Serena, La Marina, Unidad Educativa Alemán Humboldt**, Isla Celeste etapas Estribor y Babor, Supermaxi de Ciudad Celeste, Piazza Ciudad Celeste urbanización La Ría, entre otros.
-
-El cronograma de apagones en Durán
-----------------------------------
-
-En el caso de **Durán**, entre los sectores que constan en el cronograma de cortes de luz están Recreo Viejo, vía hacia Taura, sector de la vía a Tanasa y Ciudadela Panorama (todas sus etapas).
-
-Parque Industrial, Totalseafood, Swissgas, Produmar, Limbomar, Pronaca, Expalsa, Primarisco son lugares donde también habrá **suspensión**.
-
-Suspensión de energía por la sequía
------------------------------------
-
-El **Instituto Nacional de Meteorología e Hidrología (Inamhi)** reportó que, en la Costa, las precipitaciones han estado entre un 20% y hasta un 80% por debajo de lo normal y en la Sierra, el déficit ha variado entre un 30% y hasta un 90%. En la Amazonía, los valores han oscilado entre un 20% y un 60%.
-
-El **Inventario Histórico Nacional de Desastres** da cuenta de unos 101 eventos de sequía entre 1970 y 2007. Estos fueron de la mano con cambios en la estructura demográfica y, claro, en las condiciones socioeconómicas.
-
-Sin servicio eléctrico en otros puntos de la Costa
---------------------------------------------------
-
-En el cronograma de cortes establecidos, hay cantones donde se suspenderá la energía eléctrica en su totalidad. Este es el caso de **Buena Fe, Valencia, Quevedo y El Empalme**.
-
-En esos sitios de Ecuador, el horario definido para los cortes de luz de este lunes, 23 de septiembre de 2024, es de **12:00 a 15:00 y de 18:00 a 21:00**.
-
-Luis Chonillo, alcalde de Durán, retoma sus funciones tras vacaciones
-=====================================================================
-
-El alcalde de Durán, Luis Chonillo, retoma sus labores y destaca avances en la gestión financiera y proyectos municipales en curso.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Luis Chonillo en trabajos de las vías de Durán el pasado 22 de junio de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/08/luis-chonillo.jpg)
-
-El alcalde de Durán, **Luis Chonillo**, anunció su reincorporación a sus labores luego de un periodo de vacaciones por **motivos de seguridad personal**.
-
-En un comunicado emitido el 23 de septiembre de 2024, el alcalde destacó el **trabajo de la vicealcaldesa**, los ediles y el personal del **Gobierno Municipal** durante su ausencia.
-
-### Más noticias
-
-* [Horror en Durán, se hizo justicia por mano propia](https://www.elcomercio.com/actualidad/seguridad/horror-duran-justicia-mano-propia.html "Horror en Durán, se hizo justicia por mano propia")
-* [Supermercado sufrió un atentado en Durán](https://www.elcomercio.com/actualidad/seguridad/supermercado-atentado-duran-explosivo.html "Supermercado sufrió un atentado en Durán")
-* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
-
-**Reafirmó su compromiso con la ciudad**. Chonillo subrayó que, a pesar de las dificultades, Durán sigue avanzando.
-
-El comunicado señala que la administración municipal ha mantenido una **gestión eficiente durante los últimos 16 meses**. Entre los mayores desafíos mencionados se encuentra el déficit **financiero heredado**, que ha sido una prioridad para la administración.
-
-Según el alcalde, ya se ha logrado la **recuperación institucional** y se están saldando las deudas pendientes. Esta recuperación permite planificar el futuro y seguir con los **proyectos en marcha**.
-
-Medidas de seguridad y teletrabajo
-----------------------------------
-
-A raíz de los recientes hechos violentos en Durán, el alcalde decidió **retomar sus funciones** bajo una modalidad de teletrabajo. Esta decisión tiene como objetivo **proteger tanto su vida como la de los funcionarios del municipio**. Enfatizó que esta medida **no afectará la gestión municipal** ni el despacho de los trámites solicitados por los ciudadanos. El trabajo se mantendrá bajo el marco legal vigente en el sector público.
-
-> A través de un comunicado el alcalde Luis Chonillo, anuncia que desde hoy retoma funciones en [#Durán](https://twitter.com/hashtag/Dur%C3%A1n?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/gIaGmVnLN0](https://t.co/gIaGmVnLN0)
-> 
-> — Durán Televisión (@Durantvec) [September 23, 2024](https://twitter.com/Durantvec/status/1838199154029273243?ref_src=twsrc%5Etfw)
-
-El alcalde también mencionó que se impulsarán reuniones con **diversas carteras del Estado**. El objetivo es articular esfuerzo **con instituciones públicas y privadas**. La prioridad será avanzar en los proyectos de desarrollo de la ciudad. Además, destacó que la transparencia y el manejo adecuado de los recursos públicos seguirán siendo **pilares de su administración**.
-
-Luis Chonillo habló sobre los medios de comunicación
-----------------------------------------------------
-
-Chonillo resaltó la importancia de mantener una comunicación clara y oportuna sobre los avances de la **administración municipal**.
-
-Reiteró el compromiso del equipo de comunicación para facilitar las herramientas necesarias en el cumplimiento de esta tarea.
-
-La Liga Pro modifica horarios por cortes de luz en Ecuador
-==========================================================
-
-La Liga Pro cambiará los horarios de sus ocho partidos en la octava fecha. Los cortes de luz son la causa.
-----------------------------------------------------------------------------------------------------------
-
-![Jugador de Emelec en un partido de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/horarios_1.jpg)
-
-La **Liga Pro** modificará sus horarios de programación de los partidos de la octava jornada como una medida por la ‘crisis energética’ que afronta el país por la ausencia de lluvias de más de 60 días que ha desembocado en cortes de luz programados a escala nacional.
-
-En un comunicado oficial colgado en sus redes sociales, la Liga Pro detalló que los juegos **no empezarán más allá de las 17:30**, aspecto que fue comunicado a los clubes y que fue consensuado con la empresa dueña de los derechos de televisión.
-
-Más noticias:
--------------
-
-* [Asistencia de lujo de Moisés Caicedo y victoria del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-asistencia-chelsea-west-ham.html "Asistencia de lujo de Moisés Caicedo y victoria del Chelsea")
-* [John Yeboah asiste y el Venezia obtiene su primer triunfo](https://www.elcomercio.com/deportes/john-yeboah-asistencia-venezia-genoa.html "John Yeboah asiste y el Venezia obtiene su primer triunfo")
-* [Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina](https://www.elcomercio.com/deportes/final-dragonas-barcelona-superliga-campeonas.html "Dragonas IDV golea a Barcelona y es campeón de la Superliga Femenina")
-
-La programación nocturna de la **Liga Pro contempla que los viernes**, sábado lunes el partido estelar de la parrilla arranque a las 19:00; mientras que los domingos se baja una hora y empieza desde las 18:00.
-
-Hay que apuntar que **desde las sexta fecha de la segunda etapa**, se dio a conocer que los partidos de Barcelona Sporting Club en el estadio Monumental, iban a comenzar a las 17:30.
-
-En la octava jornada, Barcelona iba a recibir a Libertad de Loja desde las 18:00, pero ahora ese horario se redujo y será a las 17:30, dando mayor facilidad a los hinchas al momento de abandonar este escenario.
-
-“Esperamos que las **cosas se resuelvan lo más pronto posible** para retomar los horarios habituales que nos ayudan a crecer como industria”, sostuvo la Liga Pro en la parte final de su comunicado.
-
-El Clásico del Astillero está **pactado para el domingo 20 de octubre, desde las 18:00**. En un principio era a las 19:00, pero con esta nueva media habrá que esperar la decisión final sobre la hora de inicio de uno de los partidos más esperados del año.
-
-Segunda etapa – fecha 8
------------------------
-
-### Viernes 27/09
-
-17:00 Orense vs. Macará  
-Estadio: 9 de Mayo
-
-### Sábado 28/09
-
-12:00 Imbabura vs. El Nacional  
-Estadio: Olímpico de Ibarra
-
-14:30 Independiente del Valle vs. Universidad Católica  
-Estadio: Complejo IDV
-
-17:00 Cumbayá vs. Emelec  
-Estadio: Olímpico Atahualpa
-
-### Domingo 29/09
-
-12:30 Aucas vs. Deportivo Cuenca  
-Estadio: Gonzalo Pozo Ripalda
-
-15:00 Delfín vs. Liga de Quito  
-Estadio: Jocay
-
-17:30 Barcelona SC vs. Libertad  
-Estadio: Monumental
-
-### Lunes 30/09
-
-17:00 Técnico Universitario vs. Mushuc Runa  
-Estadio: Bellavista
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/09/horarios_2-1024x683.jpg)
-
-Foto: API.
-
-No te pierdas – El Confesionario
---------------------------------
-
-(Video) Jhonny Quiñónez llora en Argentina al ser sustituido
+¿Quiénes deben renunciar para inscribirse a elecciones 2025?
 ============================================================
 
-Jhonny Quiñónez no está atravesando su mejor momento en el fútbol de Argentina.
--------------------------------------------------------------------------------
+Elecciones 2025 contemplan pasos para autoridades en funciones.
+---------------------------------------------------------------
 
-![Jhonny Quiñónez en un partido con Independiente de Avellaneda.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-23T113430.479.jpg)
+![Las inscripciones de las candidaturas empezaron el 13 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/elecciones-2025-renuncias.jpg)
 
-Un hecho triste ocurrió en el último encuentro de Independiente de Avellaneda, en el que estuvo involucrado el mediocampista ecuatoriano **Jhonny Quiñónez**.
+El plazo de **inscripción** de las candidaturas para las **elecciones 2025** está en curso. Este culminará el 2 de octubre de 2024.
 
-El ecuatoriano **no vive un gran presente en el ‘Rojo’**, donde apenas ha sumado pocos minutos en los últimos meses. Justamente, en el último partido, volvió a las canchas, pero salió entre lágrimas al ser sustituido.
+En el último corte del **Consejo Nacional Electoral (CNE)**, hasta las 18:00, de este 22 de septiembre, cuatro partidos y movimientos políticos inscribieron listas para asambleístas provinciales. Todavía ningún binomio presidencial.
+
+### Más noticias
+
+* [Ecuador debe elegir parlamentarios andinos, ¿cuál es su rol y sus trabas?](https://www.elcomercio.com/actualidad/politica/ecuador-parlamentarios-andinos-cual-es-su-rol.html)
+* [Daniel Noboa debe cumplir con un paso crucial para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-licencia-campana-elecciones-2025.html)
+* [Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?](https://www.elcomercio.com/actualidad/politica/inscripcion-candidatos-elecciones-2025-en-linea-cne.html "Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?")
+
+> [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🗳️🇪🇨  
+>   
+> ¿Conoces cuál es el procedimiento que deben cumplir las organizaciones políticas para inscribir sus candidaturas? 🤔  
+>   
+> 🎬 Aquí te lo contamos. ⤵️  
+>   
+> 🚨 El sistema estará habilitado hasta las 18h00 del miércoles, 2️⃣ de octubre. [pic.twitter.com/1pZTTSewE1](https://t.co/1pZTTSewE1)
+> 
+> — cnegobec (@cnegobec) [September 22, 2024](https://twitter.com/cnegobec/status/1837977072142373059?ref_src=twsrc%5Etfw)
+
+Elecciones 2025 e inscripciones
+-------------------------------
+
+**Unidad Popular**, Movimiento Sur Unido Regional, Movimiento Pueblo, Igualdad y Democracia y Alianza de la Renovación son las organizaciones que ya inscribieron listas de **asambleístas provinciales**.
+
+Las candidaturas para **Presidenta** o Presidente de la República y sus respectivos **binomios** se consideran unipersonales. 
+
+Las **candidaturas** para asambleístas nacionales, provinciales y de las circunscripciones especiales del exterior son pluripersonales y se presentarán en listas completas con **candidatos principales** y sus respectivos suplentes.
+
+En el caso de los parlamentarios andinos, las **candidaturas** son pluripersonales y se presentarán en listas completas, por cada candidato principal se presentarán dos alternos. 
+
+Las inscripciones son en línea, a través del sistema del **CNE**. Los postulantes pueden acudir al organismo, pero, únicamente, es un acto **simbólico**.
+
+Las renuncias para las elecciones 2025
+--------------------------------------
+
+El **Código de la Democracia** define que los candidatos que están en funciones públicas deben seguir ciertos pasos para postularse a las **elecciones 2025**.
+
+Los dignatarios de **elección popular** podrán reelegirse por una sola vez, consecutiva o no, para el mismo cargo.
+
+Las autoridades que llegan por **votación popular** que se postulen para un cargo diferente deberán renunciar al que desempeñan antes de presentar la solicitud de inscripción de su **candidatura**.
+
+Los dignatarios que opten por la reelección inmediata al mismo puesto deberán hacer uso de licencia sin remuneración desde el inicio de la **campaña electoral**.
+
+La disposición no rige para las **autoridades** de elección popular que ostenten la calidad de suplentes que, en el momento de la inscripción, no estén en el ejercicio de las funciones de principales.
+
+Sin embargo, si aspiran a un espacio diferente de la de suplencia, no podrán ir como **principales** durante el proceso.
+
+Daniel Noboa y la renuncia para postularse
+------------------------------------------
+
+El presidente **Daniel Noboa** correrá por la reelección en la Presidencia de Ecuador junto a María José Pinto. Ambos irán por el **Movimiento Acción Democrática Nacional (ADN)**.
+
+Como Noboa todavía está en funciones, el **Código de la Democracia** establece que deberá pedir licencia para las **elecciones 2025**. Es decir, la vicepresidenta Verónica Abad deberá asumir el cargo.
+
+No obstante, desde el Gobierno ya se han abierto frentes para intentar destituir a Abad. Estos incluyen sumarios administrativos y una denuncia en el **Tribunal Contencioso Electoral (TCE)**.
+
+El actual titular de la Asamblea, **Henry Kronfle**, también deberá renunciar al cargo antes de postularse para la Presidencia por el **Partido Social Cristiano** (PSC).
+
+¿Cuántos días debe llover en Cuenca para superar la sequía?
+===========================================================
+
+La Red Hidrometereológica de Etapa analiza las condiciones que se requieren para superar este período de severo estiaje.
+------------------------------------------------------------------------------------------------------------------------
+
+![Los caudales de los ríos Tomebamba (foto), Yanuncay, Manchángara y Tarqui están bajos por el estiaje de hace 73 días. Foto API.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca.jpg)
+
+La **sequía** que se registra en **Cuenca** es extrema. Y lo es porque las condiciones ocurridas en los últimos 12 meses.
+
+A **finales del 2023** se contabilizaron **118 días sin precipitacione**s importantes en la región. Además, en **marzo y abril de 2024** llovió menos del 50% del promedio histórico de esta época lluviosa en Cuenca.
+
+En la actualidad, **son 73 días sin precipitaciones importantes**. Eso ha provocado que el suelo esté bastante seco, dijo el coordinador de la **Red Hidrometereológica de Etapa, Rigoberto Guerrero.**
+
+Según **Guerrero**, se requiere que, al menos, llueva durante 10 ó 15 días para que el suelo pueda mojarse, saturarse y producir escorrentía. Es decir, que el agua llegue a los cauces de los ríos.
+
+“Si la lluvia o llovizna ocurre como el pasado fin de semana en **Cuenca**, no generará un gran aporte. Desde entonces no ha llovido y este lunes hay alta radiación que evaporó esa humedad”, dijo Guerrero.
+
+Ese comportamiento ocasiona que el aumento del caudal de los ríos será momentáneo y se registrará un descenso rápido. Eso ocurrió con el río **Tomebamba**, que subió su caudal de 0,80 metros cúbicos por segundo a 1,7 metros, el domingo 22 de septiembre. “Ahora ha bajado otra vez porque dejó de llover”.
+
+### Más noticias
+
+* [Cortes de luz dependen de las lluvias, según el Ministro de Energía](https://www.elcomercio.com/actualidad/negocios/ministro-gobierno-cortes-luz-ecuador-lluvia.html "Cortes de luz dependen de las lluvias, según el Ministro de Energía")
+* [Cortes de luz en Quito empeoran el tránsito por semáforos apagados](https://www.elcomercio.com/actualidad/quito/cortes-luz-semaforos-quito-apagados.html "Cortes de luz en Quito empeoran el tránsito por semáforos apagados")
+
+¿Cuánto y dónde debe llover en Cuenca?
+--------------------------------------
+
+Otra variable que se requiere es que llueva más de cinco milímetros por evento, dijo **Guerrero**. Esas condiciones permitirán que los caudales suban de manera significativa y sostenida hasta llegar a los niveles promedio.
+
+Según Guerrero hay **otras dos condiciones**. La primera es que llueva durante, por lo menos, una hora. “Si hay son lluvias intensas que duran 30 minutos, el líquido no se almacenará en el suelo”.
+
+La otra variable es que llueva en las zonas de recarga hídrica. Eso significa que en los **páramos y humedales con cobertura vegetal** para que se almacene.
+
+“No sirve mucho que existan precipitaciones en la ciudad porque ya está impermeabilizada. El agua cae sobre el asfalto y no se puede almacenar”, dice Guerrero.
+
+Los pronósticos de las lluvias en el Austro
+-------------------------------------------
+
+Guerrero señaló que no se esperan **precipitaciones** importantes para lo que resta de **septiembr**e y la **primera quincena de octubre**. “Posteriormente, se tienen escenarios más alentadores, pero hay incertidumbre por el cambio climático”.
+
+En el caso de que no existan lluvias importantes en **octubre y noviembre**, la actual sequía se conectará con la que se registrará en **diciembre y enero**, que son meses con menos lluvias en la región. 
+
+Exárbitro colombiano revela presiones que recibió del narcotráfico
+==================================================================
+
+Fernando Paneso fue árbitro entre 1991 y 2007 y reveló en un libro como el narcotráfico se infiltró en el fútbol colombiano.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial de una cartulina roja de un árbitro de fútbol.](https://www.elcomercio.com/wp-content/uploads/2024/09/narcotrafico_1.jpg)
+
+**Fernando Paneso** conoció las luces y las sombras del fútbol colombiano por lo que ahora habla sin tapujos de la influencia del narcotráfico y las presiones extradeportivas en los partidos que dirigió, en un libro escrito a cuatro manos con el periodista Felipe Valderrama.
+
+“Creo que es importante que se conozca su historia por varias cosas. **La primera es la relación del narcotráfico con el fútbol colombiano**, que eso no es algo nuevo, pero de pronto no sabíamos esos detalles de cómo abordaban a los árbitros”, expresa Valderrama en una entrevista con la Agencia EFE.
 
 ### Más noticias:
 
-* [Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-gol-piero-hincapie.html "Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó")
-* [Asistencia de lujo de Moisés Caicedo y victoria del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-asistencia-chelsea-west-ham.html "Asistencia de lujo de Moisés Caicedo y victoria del Chelsea")
-* [Willian Pacho tuvo su primer tropezón con el PSG](https://www.elcomercio.com/deportes/willian-pacho-psg-reims-partido-francia.html "Willian Pacho tuvo su primer tropezón con el PSG")
+* [Corea del Norte ganó su tercer Mundial Sub-20 Femenino](https://www.elcomercio.com/deportes/corea-norte-campeon-mundial-sub-20-femenino-japon.html "Corea del Norte ganó su tercer Mundial Sub-20 Femenino")
+* [Liga de Quito pone en riesgo sus opciones de ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-de-quito-pone-en-riesgo-sus-opciones-de-ganar-la-etapa.html "Liga de Quito pone en riesgo sus opciones de ganar la etapa")
+* [(Video) Jhonny Quiñónez llora en Argentina al ser sustituido](https://www.elcomercio.com/deportes/futbol/jhonny-quinonez-llora-en-argentina-al-ser-sustituido.html "(Video) Jhonny Quiñónez llora en Argentina al ser sustituido")
 
-**Quiñónez jugó algunos minutos** contra Argentinos Juniors, en un partido correspondiente a la Liga Profesional Argentina, que se disputó el domingo 22 de septiembre, en el Estadio Diego Armando Maradona.
+El juez, con Valderrama como lazarillo, cuenta en el libro ‘Paneso, la historia de un árbitro en medio de las mafias’, editado por Planeta, **historias rocambolescas que van desde propuestas de recibir un sueldo mensual** para favorecer a un equipo o como cuando un equipo se dejó cuatro goles en cinco minutos para que su rival clasificara a la final del torneo de Segunda División.
 
-¿Por qué lloró Jhonny Quiñónez?
--------------------------------
+“Son muchas cosas que se cuentan en el libro sobre esa intimidad del árbitro, con detalles que son muy reveladores (…) **todo lo que él tiene que vivir, toda esa presión que tiene** y más allá que hayan pasado tantos años y en su momento diera mucho miedo denunciar, había muchas amenazas y para él contarlo en ese momento era difícil, pero se decidió”, expresa Valderrama, cofundador del portal ElCincoCero.com.
 
-El volante **ingresó al minuto 11** del compromiso tras una lesión de su compañero Federico Vera. Eran los primeros minutos de **Quiñónez** en seis partidos, ya que había estado en la banca de suplentes.
+Un árbitro que se paró en la línea
+----------------------------------
 
-A los 59 minutos del segundo tiempo, y apenas un minuto después de haber recibido una tarjeta amarilla, el DT de Independiente, **Julio Vaccari, decidió sustituirlo**.
+Fernando Paneso dirigió en el **fútbol profesional colombiano entre 1991 y 2007** y fue juez FIFA entre 1994 y 2005, tiempo en el que impartió justicia en partidos de la Copa Libertadores, las Eliminatorias Suramericanas y otros torneos organizados por la Conmebol.
 
-La transmisión del partido **mostró a Quiñónez entre lágrimas** mientras regresaba al banco de suplentes, visiblemente afectado por la frustración de no poder jugar más tiempo y por el cambio inesperado.
+En su carrera, el árbitro también tuvo que disfrazarse de policía para salir de un estadio e incluso relata cómo narcotraficantes lo querían asesinar por no favorecer a un equipo.
 
-Tras el partido, **Julio Vaccari** se refirió al episodio y se disculpó por la decisión que provocó el llanto del ecuatoriano.
+En ese tipo de historias, **Valderrama se ocupó con rigurosidad científica de corroborar** todos los datos aportados por su interlocutor, que cuenta que nunca sucumbió a sobornos y se paró en la línea, a pesar de los peligros que eso trajo a su vida.
 
-“Yo también me hubiera ido muy enojado con el entrenador que me saca, es así. **Le pedí disculpas a él** delante del grupo y lo vuelvo a hacer aquí. Lo que hice fue algo mío”, explicó el estratega.
+“Fernando puede recordar un partido, pero no sabe si fue en el 92 o 93, y me da detalles. **Yo soy el que encuentro el partido exactamente para no irnos a descachar** (equivocar)”, expresa el periodista, quien agrega que también hay nombres e historias que no se pudieron contar con muchos más detalles por “un tema jurídico complicado”.
 
-> DURÍSIMA IMAGEN EN AVELLANEDA: Jhonny Quiñónez llorando tras salir en el ST. ¿El detalle? El ecuatoriano había ingresado… ¡a los 11 PT!  
->   
-> 📺 ESPN Premium | Suscribite al Pack Fútbol en [https://t.co/7jYILYACXi](https://t.co/7jYILYACXi) [pic.twitter.com/JcxqONRXvk](https://t.co/JcxqONRXvk)
-> 
-> — SportsCenter (@SC\_ESPN) [September 22, 2024](https://twitter.com/SC_ESPN/status/1837928677050339532?ref_src=twsrc%5Etfw)
+En el texto, **Paneso también cuenta otros detalles sobre su vida**, especialmente los relacionados con cómo sus asuntos personales y familiares se vieron afectados por su trabajo, que era de alto peligro en esa época.
 
-Sus números en Independiente
+Un adelantado para su tiempo
 ----------------------------
 
-**Jhonny Quiñónez** llegó a principios de 2024 a Independiente de Avellaneda por pedido de **Carlos** **Tévez**, quien era el DT del ‘Rojo’ en ese momento. Sin embargo, el ‘Apache’ no duró mucho tiempo en el cargo.
+Valderrama también valora haber podido contar la historia de Paneso, un árbitro diferente a los de esa época porque él era académicamente más preparado que sus colegas que apenas eran bachilleres.
 
-En sus primeros partidos, el ecuatoriano fue titular por la Copa de la Liga, pero perdió su lugar con el pasar del tiempo, hasta el punto de casi no sumar minutos.
+“Fernando Paneso es docente, **trabaja en una universidad, es trabajador en el sector público** de (la ciudad de) Armenia. Era alguien de ese perfil que era perfecto para escribir el libro”, añade el autor.
 
-Desde su llegada al club argentino, Quiñónez **ha disputado 11 partidos** en tres torneos diferentes, y ha anotado 2 goles. Ha estado en cancha un total de 476 minutos.
+El proyecto arrancó durante el confinamiento por la pandemia de covid-19, **época en la que se empezaron a reunir por videollamada** y plantearon el proyecto, el sueño de contar de primera mano todo lo que vive un árbitro y que Paneso le permitió cumplir. 
+
+No te pierdas – El Confesionario
+--------------------------------
