@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 5 China](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-China-400x240.jpg)
+        
+        Huawei launches Watch GT 5 series in China with TruSense system](https://www.huaweicentral.com/huawei-launches-watch-gt-5-series-in-china-with-trusense-system/)
     * [![Huawei Malaysia Watch September 26](https://www.huaweicentral.com/wp-content/uploads/2024/09/Malaysia-event-400x240.jpg)
         
         Huawei to launch Watch GT 5, Watch D2, and more in Malaysia on September 26](https://www.huaweicentral.com/huawei-to-launch-watch-gt-5-watch-d2-and-more-in-malaysia-on-september-26/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch Ultimate Green Edition](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Ultimate-Green-400x240.jpg)
         
         Huawei unveils Watch Ultimate Green Edition with Pro-level sports features](https://www.huaweicentral.com/huawei-unveils-watch-ultimate-green-edition-with-pro-level-sports-features/)
-    * [![Huawei launches Watch D2](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-D2-1-400x240.jpg)
-        
-        Huawei launches Watch D2 featuring new design and 1.82-inch huge display](https://www.huaweicentral.com/huawei-launches-watch-d2-featuring-new-design-and-1-82-inch-huge-display/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
