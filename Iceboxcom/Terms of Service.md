@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=196064485683782&ev=PageView&noscript=1)    
+![](https://www.facebook.com/tr?id=196064485683782&ev=PageView&noscript=1)   
 
 ![pay later with Klarna](/themes/default/frontend/oct-2023/assets/pay-klarna.svg) ![pay later with Affirm](/themes/default/frontend/oct-2023/assets/pay-affirm.svg) ![pay later with Afterpay](/themes/default/frontend/oct-2023/assets/pay-afterpay.svg)
 
