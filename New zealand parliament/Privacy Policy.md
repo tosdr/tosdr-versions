@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/tuiono-teanau/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/tuiono-teanau/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -97,13 +97,17 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
     For more information about tours and visiting Parliament, click here.](https://www.parliament.nz/en/visit-and-learn/visit/)
     
 
- [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
+[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Wednesday, 25 September 2024](https://videos.parliament.nz/)
+The House is meeting today under urgency](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](http://www.radionz.co.nz/audio/live/parliament)
+* [Listen](#audio-notlive-popup)
+
+### Listen
+
+There is no current live audio feed.
 
 * [About Us](https://www.parliament.nz/en/footer/about-us/)
 * [Glossary](https://www.parliament.nz/en/visit-and-learn/how-parliament-works/glossary/)
@@ -116,13 +120,17 @@ The House next meets on Wednesday, 25 September 2024](https://videos.parliament.
 * [Website Help](https://www.parliament.nz/en/footer/website-help/)
 * [Sitemap](https://www.parliament.nz/en/sitemap/)
 
- [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
+[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Wednesday, 25 September 2024](https://videos.parliament.nz/)
+The House is meeting today under urgency](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](http://www.radionz.co.nz/audio/live/parliament)
+* [Listen](#audio-notlive-popup)
+
+### Listen
+
+There is no current live audio feed.
 
 Privacy
 =======
