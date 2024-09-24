@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![scorecard2013](/assets/logos/bestpracticescorecardmap2012.png)](http://www.followthemoney.org/research/institute-research/scorecard-essential-disclosure-requirements-for-independent-spending-2013)
-
-2013: Who got an F on essential disclosure requirements?
+[![Gun-Control Groups Loaded in Washington State](/assets/Images/teasers/full/WA-Gun-Control-Measures-2014.png)](http://www.followthemoney.org/research/blog/gun-control-groups-loaded-in-washington-state/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
