@@ -18,15 +18,95 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
+   [![Vigilância apreende 250 kg de alimentos fora da validade no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/3/csm_Vigilancia_apreende_250_kg_de_alimentos_fora_da_validade_no_Benedito_Bentes_-_foto_Divulgacao_VISA_92f197d53a.jpeg)
+
+fiscalização
+
+Vigilância apreende 250 kg de alimentos fora da validade no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/vigilancia-apreende-250-kg-de-alimentos-fora-da-validade-no-benedito-bentes/ "Vigilância apreende 250 kg de alimentos fora da validade no Benedito Bentes")   [![Vídeo mostra van parcialmente submersa após cair de ponte em Riacho Doce](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_Acidente_AL_101_Norte_-_foto_Reproducao_2_19ae625f55.jpg)
+
+al-101 norte
+
+Vídeo mostra van parcialmente submersa após cair de ponte em Riacho Doce](https://www.tnh1.com.br/noticia/nid/video-mostra-van-parcialmente-submersa-apos-cair-de-ponte-em-riacho-doce/ "Vídeo mostra van parcialmente submersa após cair de ponte em Riacho Doce")   [![Polícia investiga homem suspeito de matar cão a pauladas em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_6oDP_f2b0635ec5.png)
+
+Polícia
+
+Polícia investiga homem suspeito de matar cão a pauladas em Maceió](https://www.tnh1.com.br/noticia/nid/policia-investiga-homem-suspeito-de-matar-cao-a-pauladas-em-maceio/ "Polícia investiga homem suspeito de matar cão a pauladas em Maceió ")   [![Homem é preso suspeito de espancar a mãe idosa, no Jardim Petrópolis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/f/csm_central-de-flagrantes-foto-pc_e5fbf5d58e.jpeg)
+
+73 anos
+
+Homem é preso suspeito de espancar a mãe idosa, no Jardim Petrópolis](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-espancar-a-mae-idosa-no-jardim-petropolis/ "Homem é preso suspeito de espancar a mãe idosa, no Jardim Petrópolis")   [![Vídeo: homem tenta arrombar trailer e é preso por tentativa de furto, na Jatiúca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_suspeito-arrombar-trailer-jatiuca-2_64a9157e93.jpg)
+
+Assista
+
+Vídeo: homem tenta arrombar trailer e é preso por tentativa de furto, na Jatiúca](https://www.tnh1.com.br/noticia/nid/video-homem-tenta-arrombar-trailer-e-e-preso-por-tentativa-de-furto-na-jatiuca/ "Vídeo: homem tenta arrombar trailer e é preso por tentativa de furto, na Jatiúca")   [![Conferência discute criação de política de proteção à comunidade LGBTQIA+](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_conferencia_lgbt_4b91baddf2.jpeg)
 
 Maceió
 
-Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
+Conferência discute criação de política de proteção à comunidade LGBTQIA+](https://www.tnh1.com.br/noticia/nid/conferencia-discute-criacao-de-politica-de-protecao-a-comunidade-lgbtqia/ "Conferência discute criação de política de proteção à comunidade LGBTQIA+")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/3/csm_previsao-tempo-alagoas-semarh_74d01374da.png)
+
+Meteorologia
+
+Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-24/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)")   [![Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/1/csm_Dinheiro_-_Foto_Jose_Cruz_-_Agencia_Brasil_5_1bb835872c.jpg)
+
+Educação
+
+Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-divulga-passo-a-passo-do-pagamento-dos-precatorios-do-fundef/ "Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef")   [![Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_sesau-segue-monitorando-casos-de-febre-do-oropouche-em-alagoas_6b2907aac8.jpg)
+
+sob suspeita
+
+Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://www.tnh1.com.br/noticia/nid/sesau-investiga-morte-possivelmente-causada-pela-febre-oropouche-em-alagoas/ "Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas")   [![Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_real_moeda_dinheiro_Agencia_Brasil_df556bc249.jpg)
+
+Neste mês
+
+Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-anuncia-datas-para-pagamento-do-fundef/ "Governador Paulo Dantas anuncia datas para pagamento do Fundef")   [![Chuva inesperada: como fica a previsão do tempo para Alagoas nesta segunda-feira?](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/a/csm_previsao_tempo_caio_tnh1_5fc32a5487.jpeg)
+
+confira
+
+Chuva inesperada: como fica a previsão do tempo para Alagoas nesta segunda-feira?](https://www.tnh1.com.br/noticia/nid/chuva-inesperada-como-fica-a-previsao-do-tempo-para-alagoas-nesta-segunda-feira/ "Chuva inesperada: como fica a previsão do tempo para Alagoas nesta segunda-feira?")   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+
+Sortudos!
+
+Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-22-de-setembro/ "Confira os ganhadores do Alagoas dá Sorte deste domingo, 22 de setembro")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![Polícia Civil inicia investigação de triplo homicídio de adolescentes em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_Triplo_homicidio_Rio_Largo_-_foto_Reproducao_d0a56ab22c.jpg)
+
+mortos a tiros
+
+Polícia Civil inicia investigação de triplo homicídio de adolescentes em Rio Largo](https://www.tnh1.com.br/noticia/nid/policia-civil-inicia-investigacao-de-triplo-homicidio-de-adolescentes-em-rio-largo/ "Polícia Civil inicia investigação de triplo homicídio de adolescentes em Rio Largo")   [![Polícia investiga homem suspeito de matar cão a pauladas em Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_6oDP_f2b0635ec5.png)
+
+Polícia
+
+Polícia investiga homem suspeito de matar cão a pauladas em Maceió](https://www.tnh1.com.br/noticia/nid/policia-investiga-homem-suspeito-de-matar-cao-a-pauladas-em-maceio/ "Polícia investiga homem suspeito de matar cão a pauladas em Maceió ")   [![Mais de 15 kg de drogas e espingarda são apreendidos em mata no município de Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_apreensao_drogas_rio_largo_ascom_pm_8b47a9ef1d.jpg)
+
+Ninguém foi preso
+
+Mais de 15 kg de drogas e espingarda são apreendidos em mata no município de Rio Largo](https://www.tnh1.com.br/noticia/nid/mais-de-15-kg-de-drogas-e-espingarda-sao-apreendidos-em-mata-no-municipio-de-rio-largo/ "Mais de 15 kg de drogas e espingarda são apreendidos em mata no município de Rio Largo")   [![Tiros durante comício deixam um morto e dois feridos no interior de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_Roiberto_comicio_ecff4e3f3d.png)
+
+Joaquim Gomes
+
+Tiros durante comício deixam um morto e dois feridos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tiros-durante-comicio-deixam-um-morto-e-dois-feridos-no-interior-de-alagoas/ "Tiros durante comício deixam um morto e dois feridos no interior de Alagoas ")   [![Vídeo: falso cliente entra em açaiteria, se serve e anuncia roubo na hora de pagar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/4/csm_roubo_acaiteria_-_foto_reproducao_video_f329335b8f.jpg)
+
+em arapiraca
+
+Vídeo: falso cliente entra em açaiteria, se serve e anuncia roubo na hora de pagar](https://www.tnh1.com.br/noticia/nid/video-falso-cliente-entra-em-acaiteria-se-serve-e-anuncia-roubo-na-hora-de-pagar/ "Vídeo: falso cliente entra em açaiteria, se serve e anuncia roubo na hora de pagar")   [![Jovem é estuprada três vezes após aceitar carona, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/d/csm_estupro_freepik_3188e0883e.png)
+
+Em Craíbas
+
+Jovem é estuprada três vezes após aceitar carona, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/jovem-e-estuprada-tres-vezes-apos-aceitar-carona-no-interior-de-alagoas/ "Jovem é estuprada três vezes após aceitar carona, no interior de Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -35,6 +115,16 @@ Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
+
+Pessoas & Negócios
+
+Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -116,7 +206,15 @@ Neste mês
 
 Governador Paulo Dantas anuncia datas para pagamento do Fundef
 
-Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-anuncia-datas-para-pagamento-do-fundef/ "Governador Paulo Dantas anuncia datas para pagamento do Fundef")[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
+Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-anuncia-datas-para-pagamento-do-fundef/ "Governador Paulo Dantas anuncia datas para pagamento do Fundef")[![Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/1/csm_Dinheiro_-_Foto_Jose_Cruz_-_Agencia_Brasil_5_f265affb41.jpg)
+
+Educação
+
+Educação
+
+Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef
+
+Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-divulga-passo-a-passo-do-pagamento-dos-precatorios-do-fundef/ "Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef")[![Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_giselle_cantora_morta_ceara_-_foto_reproducao_d3f811b03f.jpg)
 
 A tiros
 
@@ -124,7 +222,7 @@ A tiros
 
 Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará
 
-Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
+Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará](https://www.tnh1.com.br/noticia/nid/giselle-bernardo-o-que-se-sabe-sobre-o-assassinato-da-cantora-no-ceara/ "Giselle Bernardo: o que se sabe sobre o assassinato da cantora no Ceará")[![Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_operacao_feitosa_-_foto_reproducao_44eb02d688.jpg)
 
 Foi denunciada
 
@@ -132,49 +230,41 @@ Foi denunciada
 
 Cervejaria é interditada por irregularidades após operação policial no Feitosa
 
-Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")[![Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/4/csm_prisao_feminicida_inhapi_-_foto_reproducao_video_806b7b44c6.png)
+Cervejaria é interditada por irregularidades após operação policial no Feitosa](https://www.tnh1.com.br/noticia/nid/cervejaria-e-interditada-por-irregularidades-apos-operacao-policial-no-feitosa/ "Cervejaria é interditada por irregularidades após operação policial no Feitosa")
 
-Inhapi
+[![Casal de idosos tem reencontro emocionante após internação na UTI por 2 semanas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_casal-idosos-se-reencontra-reproducao-instagram_522a458897.jpg)
 
-Inhapi
+registro emocionante
 
-Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas
+registro emocionante
 
-Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/marido-de-mulher-que-teve-o-corpo-encontrado-em-chamas-e-preso-e-confessa-crime-no-sertao-de-alagoas/ "Marido de mulher que teve o corpo encontrado em chamas é preso e confessa crime no Sertão de Alagoas")
+Casal de idosos tem reencontro emocionante após internação na UTI por 2 semanas
 
-[![Família descobre câmera no teto do banheiro após quatro anos vivendo no imóvel](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/6/csm_Camera_Casa_Praia_Grande_7b6abdbfc6.jpg)
+Casal de idosos tem reencontro emocionante após internação na UTI por 2 semanas](https://www.tnh1.com.br/noticia/nid/casal-de-idosos-tem-reencontro-emocionante-apos-internacao-na-uti-por-2-semanas/ "Casal de idosos tem reencontro emocionante após internação na UTI por 2 semanas")[![Subespécie de bactéria da boca pode estar associada ao câncer colorretal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_bacteria-boca-reproducao-freepik_3b52435e44.png)
 
-Brasil
+Saúde
 
-Brasil
+Saúde
 
-Família descobre câmera no teto do banheiro após quatro anos vivendo no imóvel
+Subespécie de bactéria da boca pode estar associada ao câncer colorretal
 
-Família descobre câmera no teto do banheiro após quatro anos vivendo no imóvel](https://www.tnh1.com.br/noticia/nid/familia-descobre-camera-no-teto-do-banheiro-apos-quatro-anos-vivendo-no-imovel/ "Família descobre câmera no teto do banheiro após quatro anos vivendo no imóvel")[![Zambelli deve prestar depoimento ao STF na próxima quinta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/0/csm_Carla_Zambelli_AB_30eb31ce45.jpg)
+Subespécie de bactéria da boca pode estar associada ao câncer colorretal](https://www.tnh1.com.br/noticia/nid/subespecie-de-bacteria-da-boca-pode-estar-associada-ao-cancer-colorretal/ "Subespécie de bactéria da boca pode estar associada ao câncer colorretal")[![Zoológico pinta cachorros para parecerem ursos panda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/b/csm_1_zoologico-china-reproducao-redes-sociais_08f671eeba.jpg)
 
-Brasil
+Na China
 
-Brasil
+Na China
 
-Zambelli deve prestar depoimento ao STF na próxima quinta-feira
+Zoológico pinta cachorros para parecerem ursos panda
 
-Zambelli deve prestar depoimento ao STF na próxima quinta-feira](https://www.tnh1.com.br/noticia/nid/zambelli-deve-prestar-depoimento-ao-stf-na-proxima-quinta-feira/ "Zambelli deve prestar depoimento ao STF na próxima quinta-feira")[![Gusttavo Lima é suspeito de usar avião para ajudar foragidos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_Dono_e_co-ceo_da_VaideBet__Andre_e_Aislla_Rocha__ao_lado_do_casal_Gusttavo_Lima_e_Andressa_Suite_em_festa_na_Grecia_-_Foto_Reproducao_Redes_Sociais_bf91c551a9.jpg)
+Zoológico pinta cachorros para parecerem ursos panda](https://www.tnh1.com.br/noticia/nid/zoologico-pinta-cachorros-para-parecerem-ursos-panda/ "Zoológico pinta cachorros para parecerem ursos panda")[![Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_mundo-bab--filmada-por-camera-escondida-1727115662_6d24033a97.jpg)
 
-Operação Integration
+Nos EUA
 
-Operação Integration
+Nos EUA
 
-Gusttavo Lima é suspeito de usar avião para ajudar foragidos
+Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida
 
-Gusttavo Lima é suspeito de usar avião para ajudar foragidos](https://www.tnh1.com.br/noticia/nid/gusttavo-lima-e-suspeito-de-usar-aviao-para-ajudar-foragidos/ "Gusttavo Lima é suspeito de usar avião para ajudar foragidos")[![Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/3/csm_previsao-tempo-alagoas-semarh_34cb1d6787.png)
-
-Meteorologia
-
-Meteorologia
-
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)
-
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-24/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)")
+Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://www.tnh1.com.br/noticia/nid/baba-e-indenizada-em-r15-milhoes-por-ser-filmada-nua-por-camera-escondida/ "Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
