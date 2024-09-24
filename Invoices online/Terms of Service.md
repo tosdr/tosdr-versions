@@ -197,61 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Johan Botha - Brand Xplosion
+Anri van der Linde
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=170096437)  
-SMART GUY PCS (PTY) LTD
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=208253168)  
+Bchange Online CC
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=10482475)  
-Mountain Lion Properties
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=82707289)  
+SLOANE STAR MEAT MARKET
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=7122869)  
-Iurus Inc
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=142260931)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=94040648)  
-Norton Medical & Consult - Namibia
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=99956524)  
+Kaylas Creations
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=209190833)  
-OXYAIDER (PTY) LTD
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=208371248)  
+Dr V Naik Consult
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=139423481)  
-IEMS (PTY) ltd
+![valued client Lincosa](https://www.invoicesonline.co.za/scripts/image.php?bid=8659&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=143426413)  
+Lincosa
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=203399848)  
-Tagline Brands
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=57386193)  
+Brilliant Roof Products
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=132765993)  
-Moving Made Easy (PTY) Ltd
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=85395646)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=12670323)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=35437274)  
+Goju Ryu Karate Centre
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=176853969)  
-Depot Diesel (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=182536731)  
+Nilbet T/A Waterman
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=62397599)  
-KTEN PARTS
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=42280907)  
+CLEVER STUDENTS
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=140988282)  
-Lindani Protection Services & Projects
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=166487546)  
+Wiselink Broadband Pty Ltd
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=135275529)  
-All Trucking Solutions
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=138247935)  
+African Roots
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=69555244)  
-PROGRAPHIX PTY LTD
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=36742574)  
+LEO DEVELOPMENT GROUP
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=21c1598e3691a256268e381f8d6e19909f6ed54c53cfdd1c12924023343663ed&c=89250056)  
-Blue Bulls Rugby Coaches Association
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=229f8242c2869ac439bdf4453f5193b9ba8f36337daf0c73bd4d6bd7553d77d3&c=87522876)  
+Well Hung Art
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
