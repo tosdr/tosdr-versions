@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5746 reviews (5747)
+5748 reviews (5749)
 
 $16.00 $29.00
 
@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2386 reviews (2386)
+2388 reviews (2388)
 
 $28.00 $28.00
 
@@ -300,7 +300,7 @@ ADD TO TOTE
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-871 reviews (871)
+872 reviews (872)
 
 $38.00
 
