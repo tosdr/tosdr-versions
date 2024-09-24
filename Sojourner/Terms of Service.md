@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-09c339004ccccab42e6521e98ec20317
+a2abf07bfe29913de2d587c59b90f3f8
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Czech lampwork clasp](https://sojourner.biz/images/cache/SKU0504front.200.jpg)](https://sojourner.biz/clasps/glass/czech-lampwork-clasp.html "Czech lampwork clasp")
+[![6 mm blue striped heart beads](https://sojourner.biz/images/cache/glass/HRT012.200.jpg)](https://sojourner.biz/beads/glass/6-mm-blue-striped-heart-beads.html "6 mm blue striped heart beads")
 
-#### [Czech lampwork clasp](https://sojourner.biz/clasps/glass/czech-lampwork-clasp.html "Czech lampwork clasp")
+#### [6 mm blue striped heart beads](https://sojourner.biz/beads/glass/6-mm-blue-striped-heart-beads.html "6 mm blue striped heart beads")
 
-$26.50
+$2.00
 
 ### Best Sellers
 
