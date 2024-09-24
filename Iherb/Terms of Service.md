@@ -1241,11 +1241,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf Anti-Aging & Longevity
+[\-28% auf Mineralstoffe 
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/anti-aging-longevity?pcode=28ANTI)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/minerals?pcode=28MINERALS)
 
       
 
