@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
 
 4 min read
 
-### NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training
+### Arctic Sea Ice Near Historic Low; Antarctic Ice Continues Decline
 
-article2 weeks ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![NASA’s Webb Peers into the Extreme Outer Galaxy](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j5nskg3dw0f4pp1dvzw20rf2-4k.png)
+article2 hours ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
 
-5 min read
+2 min read
 
-### NASA’s Webb Peers into the Extreme Outer Galaxy
+### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article2 weeks ago](https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+article4 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
 
 6 min read
 
@@ -241,29 +241,35 @@ Back
 
 ### Featured
 
-[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
 
 4 min read
 
-### NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training
+### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 
-article 2 weeks ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
+article 21 hours ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
 
-2 min read
+6 min read
 
-### Hubble Examines a Spiral Star Factory
+### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 
-article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)[![: NICER’s X-ray concentrators are dark circles in eight staggered rows covering this image. Each one is divided into six segments, like a sliced pie, by its sunshade. The concentrators rest in a white frame of the telescope.](https://www.nasa.gov/wp-content/uploads/2024/08/crew-9-nicer-iss069e051526.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![SpaceX Crew-9 members (from left) Mission Specialist Aleksandr Gorbunov from Roscosmos and Commander Nick Hague from NASA pose for an official crew portrait at NASA's Johnson Space Center in Houston, Texas. Credit: NASA/Josh Valcarel](https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e061425.jpg?w=1024)
 
-4 min read
+5 min read
 
-### NASA’s SpaceX Crew-9 to Conduct Space Station Research
+### What You Need to Know about NASA’s SpaceX Crew-9 Mission
 
-article 2 weeks ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
+article 5 days ago](https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/)
 
 ### Highlights
 
-[![NASA Data Helps Protect US Embassy Staff from Polluted Air](https://science.nasa.gov/wp-content/uploads/2024/09/atmosphere-geo5-2018235-eq.jpg)
+[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
+
+4 min read
+
+### Educational Activities in Space
+
+article 2 hours ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)[![NASA Data Helps Protect US Embassy Staff from Polluted Air](https://science.nasa.gov/wp-content/uploads/2024/09/atmosphere-geo5-2018235-eq.jpg)
 
 4 min read
 
@@ -275,35 +281,29 @@ article 4 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-em
 
 ### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 
-article 6 days ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
-
-3 min read
-
-### Station Science Top News: September 13, 2024
-
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)
+article 6 days ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)
 
 ### Highlights
 
-[![NASA Data Helps Protect US Embassy Staff from Polluted Air](https://science.nasa.gov/wp-content/uploads/2024/09/atmosphere-geo5-2018235-eq.jpg)
+[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
+
+4 min read
+
+### Arctic Sea Ice Near Historic Low; Antarctic Ice Continues Decline
+
+article 2 hours ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)[![Hampton Roads flooding in Virginia](https://www.nasa.gov/wp-content/uploads/2024/09/hampton-roads-flooding-va-sea-grant.jpg?w=1024)
+
+4 min read
+
+### NASA Helps Build New Federal Sea Level Rise Website
+
+article 2 hours ago](https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/)[![NASA Data Helps Protect US Embassy Staff from Polluted Air](https://science.nasa.gov/wp-content/uploads/2024/09/atmosphere-geo5-2018235-eq.jpg)
 
 4 min read
 
 ### NASA Data Helps Protect US Embassy Staff from Polluted Air
 
-article 4 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
-
-4 min read
-
-### Going Back-to-School with NASA Data
-
-article 1 week ago](https://www.nasa.gov/earth/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
-
-2 min read
-
-### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
-
-article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)
+article 4 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)
 
 ### Highlights
 
@@ -313,19 +313,19 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 
-article 16 hours ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
+article 21 hours ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
 
 6 min read
 
 ### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 
-article 20 hours ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
+article 1 day ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
 
 2 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
 
-article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)
 
 ### Featured
 
@@ -357,23 +357,29 @@ article 6 days ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-a
 
 ### GeneLab Chats with Fiona Samson on Her Latest Publication
 
-article 2 hours ago](https://www.nasa.gov/osdr-latest-news-genelab-chats-genelab-chats-with-fiona-samson-on-her-latest-publication/)[![Image of white man, Forrest Melton, adjusting a scientific instrument](https://www.nasa.gov/wp-content/uploads/2023/03/nasa_melton_openet_instrument.png?w=1024)
+article 7 hours ago](https://www.nasa.gov/osdr-latest-news-genelab-chats-genelab-chats-with-fiona-samson-on-her-latest-publication/)[![Image of white man, Forrest Melton, adjusting a scientific instrument](https://www.nasa.gov/wp-content/uploads/2023/03/nasa_melton_openet_instrument.png?w=1024)
 
 1 min read
 
-### Water Resources
+### Water Resources at Ames
 
-article 14 hours ago](https://www.nasa.gov/water-resources-at-ames/)[![photo of orange lava flowing over the ground from Kilauea vent in the distance](https://www.nasa.gov/wp-content/uploads/2020/04/volcano2.jpg?w=768)
+article 19 hours ago](https://www.nasa.gov/water-resources-at-ames/)[![photo of orange lava flowing over the ground from Kilauea vent in the distance](https://www.nasa.gov/wp-content/uploads/2020/04/volcano2.jpg?w=768)
 
 1 min read
 
-### Earth Surface and Interior
+### Earth Surface and Interior at Ames
 
-article 14 hours ago](https://www.nasa.gov/earth-surface-and-interior-at-ames/)
+article 19 hours ago](https://www.nasa.gov/earth-surface-and-interior-at-ames/)
 
 ### Highlights
 
-[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/09/ksc-20240920-ph-kls01-0114.jpg?w=1024)
+
+4 min read
+
+### Girls in STEM Inspired to Fly High at NASA Kennedy
+
+article 3 hours ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
 
 7 min read
 
@@ -385,13 +391,7 @@ article 4 days ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![Pilo
 
 ### 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane 
 
-article 1 week ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
-
-3 min read
-
-### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
-
-article 1 week ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
+article 1 week ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-res
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
 
-article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
 
 1 min read
 
@@ -439,25 +439,25 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### Featured
 
-[![A 3D printer at RPM Innovations’ facility additively manufactures a funnel-shaped aerospike rocket engine nozzle](https://www.nasa.gov/wp-content/uploads/2024/09/printing-chamber.jpg?w=1024)
+[![Hampton Roads flooding in Virginia](https://www.nasa.gov/wp-content/uploads/2024/09/hampton-roads-flooding-va-sea-grant.jpg?w=1024)
 
-2 min read
+4 min read
 
-### Printed Engines Propel the Next Industrial Revolution
+### NASA Helps Build New Federal Sea Level Rise Website
 
-article 2 weeks ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
+article 2 hours ago](https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/)[![The Pride Progress Flag is seen waving in the wind following a flag raising ceremony in recognition and celebration of LGBTQI+ Pride Month at the Mary W. Jackson NASA Headquarters building in Washington on June 1, 2023.](https://www.nasa.gov/wp-content/uploads/2024/09/hq-flags.jpg?w=1024)
 
-1 min read
+4 min read
 
-### NASA Moon to Mars Architecture Art Challenge
+### NASA Expands Small Business, Industry Engagement Resources
 
-article 2 weeks ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/)[![Workers truck the HTV-1 to Vehicle Assembly Building (VAB)](https://www.nasa.gov/wp-content/uploads/2024/09/htv-1-5-rollover-to-vab.jpg?w=286)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-expands-small-business-industry-engagement-resources/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
 
-7 min read
+6 min read
 
-### 15 Years Ago: Japan launches HTV-1, its First Resupply Mission to the Space Station
+### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 
-article 2 weeks ago](https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/)
+article 1 day ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)
 
 ### Highlights
 
