@@ -12,9 +12,6 @@
 
 [Create Account](#)[Login](#)
 
-Cookie Policy
--------------
-
 **Cookie Policy**
 
 **Effective Date:** January 1, 2020
