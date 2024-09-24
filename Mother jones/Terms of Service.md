@@ -8,10 +8,10 @@
 
 *  
     
-* [Project 2025](https://www.motherjones.com/politics/2024/09/project-2025-federal-subsidies-carbon-removal-direct-air-capture/)
-* [The Uncommitted Movement](https://www.motherjones.com/politics/2024/09/uncommitted-endorsement-kamala-harris-2024-donald-trump-gaza-israel-protest/)
-* [2024 Election](https://www.motherjones.com/politics/2024/09/how-republicans-could-block-a-democratic-victory-in-georgia-stacey-abrams/)
-* [Republicans](https://www.motherjones.com/politics/2024/09/young-guns-republicans-2024/)
+* [Nick Fuentes](https://www.motherjones.com/politics/2024/09/nick-fuentes-groyper-war-truth-social-twitter-x/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/09/trump-election-loss-running-again-interview/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-polling-favorability-nbc-campaign-fundraising/)
+* [Mark Robinson](https://www.motherjones.com/politics/2024/09/donald-trumps-headed-to-north-carolina-mark-robinson-wont-be-campaigning-with-him/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Project 2025](https://www.motherjones.com/politics/2024/09/project-2025-federal-subsidies-carbon-removal-direct-air-capture/)
-* [The Uncommitted Movement](https://www.motherjones.com/politics/2024/09/uncommitted-endorsement-kamala-harris-2024-donald-trump-gaza-israel-protest/)
-* [2024 Election](https://www.motherjones.com/politics/2024/09/how-republicans-could-block-a-democratic-victory-in-georgia-stacey-abrams/)
-* [Republicans](https://www.motherjones.com/politics/2024/09/young-guns-republicans-2024/)
+* [Nick Fuentes](https://www.motherjones.com/politics/2024/09/nick-fuentes-groyper-war-truth-social-twitter-x/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/09/trump-election-loss-running-again-interview/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-polling-favorability-nbc-campaign-fundraising/)
+* [Mark Robinson](https://www.motherjones.com/politics/2024/09/donald-trumps-headed-to-north-carolina-mark-robinson-wont-be-campaigning-with-him/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
