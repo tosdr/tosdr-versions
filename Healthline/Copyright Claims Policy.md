@@ -7,14 +7,13 @@
 
 Subscribe
 
-[#### Sexual Health](https://www.healthline.com/sexual-health)
+[#### Digestive Health](https://www.healthline.com/digestive-health)
 
-* [Birth control](https://www.healthline.com/sexual-health/birth-control)
-* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
-* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
-* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
-* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
-* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
+* [The Basics](https://www.healthline.com/digestive-health/basics)
+* [Crohn’s Treatment](https://www.healthline.com/digestive-health/crohns-treatment)
+* [UC Treatment](https://www.healthline.com/digestive-health/ulcerative-colitis-treatment)
+* [What to Eat](https://www.healthline.com/digestive-health/diet)
+* [Prevention and Lifestyle](https://www.healthline.com/digestive-health/prevention)
 
 Ad & Sponsorship Policy
 =======================
