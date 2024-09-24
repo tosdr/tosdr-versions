@@ -876,7 +876,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-4 Alerts
+5 Alerts
 
 Back
 
@@ -896,6 +896,9 @@ All
 * [Pressing Pause on a Play Ransomware Attack with Managed Detection and Response](https://www.trendmicro.com/en_us/research/24/h/pressing-pause-on-play-ransomware.html)close
     
     [Read more >](https://www.trendmicro.com/en_us/research/24/h/pressing-pause-on-play-ransomware.html)
+* [Shaping the Future of Attack Surface Management](https://www.trendmicro.com/explore/forrester-wave-asm)close
+    
+    [See how >](https://www.trendmicro.com/explore/forrester-wave-asm)
 
 Support
 
