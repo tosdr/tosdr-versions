@@ -141,6 +141,6 @@ EnglishDeutsch
 * [Publisher Directory](https://issuu.com/publishers)
 * [Redeem Code](https://issuu.com/store/code)
 
-[Terms](https://issuu.com/legal/terms)[Privacy](https://issuu.com/legal/privacy)[DMCA](https://issuu.com/legal/dmca)[Accessibility](https://issuu.com/legal/accessibility)
+[Terms](https://issuu.com/legal/terms)[Privacy](https://issuu.com/legal/privacy)[DMCA](https://issuu.com/legal/dmca)[Accessibility](https://issuu.com/legal/accessibility)Cookie Settings
 
 [](https://www.facebook.com/issuu)[](https://www.linkedin.com/company/issuu)[](https://twitter.com/issuu)[![](https://static.issuu.com/fe/silkscreen/0.0.2541/icons/gradient/icon-instagram-gradient.svg)](https://instagram.com/issuu)[](https://www.youtube.com/@issuu)
