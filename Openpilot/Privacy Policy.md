@@ -4,6 +4,10 @@
 
 Latest from the blog:
 
+[RL for car controls](https://blog.comma.ai/rlcontrols/)
+
+September 12, 2024 - 5 minute read
+
 [Autonomy](https://blog.comma.ai/autonomy/)
 
 July 23, 2024 - 6 minute read
@@ -11,10 +15,6 @@ July 23, 2024 - 6 minute read
 [Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
 
 July 22, 2024 - 3 minute read
-
-[openpilot 0.9.7](https://blog.comma.ai/097release/)
-
-June 13, 2024 - 5 minute read
 
 Social
 
