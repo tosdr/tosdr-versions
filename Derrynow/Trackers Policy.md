@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Lidl issue sad statement as customer dies while shopping in Irish store](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Lidl issue sad statement as customer dies while shopping in Irish store")](https://www.derrynow.com/news/national-news/1611985/lidl-issue-sad-statement-as-customer-dies-while-shopping-in-irish-store.html)
-
-Lidl issue sad statement as customer dies while shopping in Irish store
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Lidl issue sad statement as customer dies while shopping in Irish store](https://www.derrynow.com/news/national-news/1611985/lidl-issue-sad-statement-as-customer-dies-while-shopping-in-irish-store.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
 
 Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
@@ -284,6 +275,13 @@ Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
 [Derry appear to have identified their replacement for Mickey Harte](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction")](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -291,19 +289,21 @@ Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
 [PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman (39) became aggressive and assaulted two nurses and a consultant at Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1611820/woman-39-became-aggressive-and-assaulted-two-nurses-and-a-consultant-at-altnagelvin-hospital.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz")](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
 
 [GAA](https://www.derrynow.com/section/997/cookie-policy)
 
 [PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding")](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
+
+Photo: Manolo Franco/Pixabay
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised")](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
 
@@ -314,22 +314,6 @@ A dugout was set on fire at Páirc na nÓg this evening. Photo: St Canice's GAC
 [County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court")](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Former Sinn Fein press officer pleas guilty to 14 sex offences at Derry Crown Court](https://www.derrynow.com/news/local-news/1611776/former-sinn-fein-press-officer-pleas-guilty-to-14-sex-offences-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![14-year-old youth appears at Derry Magistrates Court following breach of bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "14-year-old youth appears at Derry Magistrates Court following breach of bail")](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[14-year-old youth appears at Derry Magistrates Court following breach of bail](https://www.derrynow.com/news/local-news/1611732/14-year-old-youth-appears-at-derry-magistrates-court-following-breach-of-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: St Cecilia's College Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Cecilia's College Formal")](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -337,11 +321,69 @@ Derry Magistrate's Court
 [PICTURES: St Cecilia's College Formal](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum")](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
+
+SDLP MLA Mark H Durkan raised a point of order following comments from Michelle O’Neill (Liam McBurney/PA)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, 24th September 2024](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar")](https://www.derrynow.com/story-telling/pictures---videos/1612806/in-pictures-sarah-duffy-s-18th-birthday-celebrations-in-derry-s-collon-bar.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar](https://www.derrynow.com/story-telling/pictures---videos/1612806/in-pictures-sarah-duffy-s-18th-birthday-celebrations-in-derry-s-collon-bar.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Official opening of the Peacemakers Museum in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official opening of the Peacemakers Museum in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Official opening of the Peacemakers Museum in Derry](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Family Fun Day at the Village Community Hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Family Fun Day at the Village Community Hub")](https://www.derrynow.com/news/pictures---videos/1612072/pictures-family-fun-day-at-the-village-community-hub.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Family Fun Day at the Village Community Hub](https://www.derrynow.com/news/pictures---videos/1612072/pictures-family-fun-day-at-the-village-community-hub.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Prizegiving at St Patrick's College, Maghera](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Prizegiving at St Patrick's College, Maghera")](https://www.derrynow.com/story-telling/pictures---videos/1612630/in-pictures-prizegiving-at-st-patrick-s-college-maghera.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Prizegiving at St Patrick's College, Maghera](https://www.derrynow.com/story-telling/pictures---videos/1612630/in-pictures-prizegiving-at-st-patrick-s-college-maghera.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt")](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: St Cecilia's College Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Cecilia's College Formal")](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
 
@@ -372,50 +414,6 @@ Derry City fans at the Brandywell. Pics by nwpresspics
 
 [PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Comedian Babatunde Aléshé explores Derry in new Channel 4 mini-series](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Comedian Babatunde Aléshé explores Derry in new Channel 4 mini-series")](https://www.derrynow.com/video/pictures---videos/1610353/watch-comedian-babatunde-aleshe-explores-derry-in-new-channel-4-mini-series.html)
-
-Comedian Babatunde Aléshé finds out more about the journey from grain to glass, during filming for a new Channel 4 mini-series called Where to Next?, at the Walled City Brewery.
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[WATCH: Comedian Babatunde Aléshé explores Derry and the Walled City Brewery](https://www.derrynow.com/video/pictures---videos/1610353/watch-comedian-babatunde-aleshe-explores-derry-in-new-channel-4-mini-series.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Stunning detached Derry property ticks every box](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Stunning detached Derry property ticks every box")](https://www.derrynow.com/news/property/1607118/pictures-stunning-detached-derry-property-ticks-every-box.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Stunning detached Derry property ticks every box](https://www.derrynow.com/news/property/1607118/pictures-stunning-detached-derry-property-ticks-every-box.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: All smiles as the school year begins at St Brigid's Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as the school year begins at St Brigid's Primary School")](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: All smiles as the school year begins at St Brigid's Primary School](https://www.derrynow.com/news/pictures---videos/1609000/pictures-all-smiles-as-the-school-year-begins-at-st-brigid-s-primary-school.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Cornshell Community Garden in Derry officially reopens](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cornshell Community Garden in Derry officially reopens")](https://www.derrynow.com/story-telling/pictures---videos/1608998/in-pictures-cornshell-community-garden-in-derry-officially-reopens.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Cornshell Community Garden in Derry officially reopens](https://www.derrynow.com/story-telling/pictures---videos/1608998/in-pictures-cornshell-community-garden-in-derry-officially-reopens.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about around Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about around Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about around Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1608382/throwback-thursday-partytime-out-and-about-around-derry-2009.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)")](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,57 +515,49 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, 24th September 2024](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised")](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
-
-A dugout was set on fire at Páirc na nÓg this evening. Photo: St Canice's GAC
-
-[Home](https://www.derrynow.com/)
-
-[County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_23/1727110516491_0.jpg--.jpg?1727110516842 "Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum")](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
-
-SDLP MLA Mark H Durkan raised a point of order following comments from Michelle O’Neill (Liam McBurney/PA)
+[![Katie Simpson inquest gets underway with Preliminary hearing in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Katie Simpson inquest gets underway with Preliminary hearing in Derry")](https://www.derrynow.com/news/local-news/1612982/katie-simpson-inquest-gets-underway-with-preliminary-hearing-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Katie Simpson inquest gets underway with Preliminary hearing in Derry](https://www.derrynow.com/news/local-news/1612982/katie-simpson-inquest-gets-underway-with-preliminary-hearing-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](https://www.derrynow.com/resizer/165/93/true/2024_09_23/The_Voice-1727100395488.PNG--.PNG?1727100395555 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
+[![United Against Racism Derry to receive special recognition for combatting racism](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "United Against Racism Derry to receive special recognition for combatting racism")](https://www.derrynow.com/news/local-news/1612954/united-against-racism-derry-to-receive-special-recognition-for-combatting-racism.html)
 
-Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[United Against Racism Derry to receive special recognition for combatting racism](https://www.derrynow.com/news/local-news/1612954/united-against-racism-derry-to-receive-special-recognition-for-combatting-racism.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry man set to star in The Voice](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
-------------------------------------------------------------------------------------------------------------------------------
+[![Work commences on £800,000 announced Coleraine ring road](https://www.derrynow.com/resizer/165/93/true/2024_09_24/TempTrafficSignals-1024x683-1727173068594.png--.png?1727173068738 "Work commences on £800,000 announced Coleraine ring road")](https://www.derrynow.com/news/local-news/1612725/work-commences-on-800-000-announced-coleraine-ring-road.html)
 
-[![Phyliss Kealey, daughter of Sean Dalton, pictured outside the Royal Courts of Justice in Belfast on Friday](https://www.derrynow.com/resizer/165/93/true/2024_09_23/IMG-20240920-WA0015-1727097774091.jpg--.jpg?1727097774775 "Phyliss Kealey, daughter of Sean Dalton, pictured outside the Royal Courts of Justice in Belfast on Friday")](https://www.derrynow.com/news/derry-news/1612021/derry-families-welcome-court-of-appeal-s-decision-on-legacy-body.html)
+[Local News](https://www.derrynow.com/section/975/news)
 
-Phyliss Kealey, daughter of Sean Dalton, pictured outside the Royal Courts of Justice in Belfast on Friday
+[Work commences on £800,000 announced Coleraine ring road](https://www.derrynow.com/news/local-news/1612725/work-commences-on-800-000-announced-coleraine-ring-road.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[![Hilary Benn ‘does not understand the point’ of abolishing NI legacy body](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_23/1727120116613_0.jpg--.jpg?1727120116709 "Hilary Benn ‘does not understand the point’ of abolishing NI legacy body")](https://www.derrynow.com/news/local-news/1612809/hilary-benn-does-not-understand-the-point-of-abolishing-ni-legacy-body.html)
 
-[Derry Families Welcome Court of Appeal's decision on legacy body](https://www.derrynow.com/news/derry-news/1612021/derry-families-welcome-court-of-appeal-s-decision-on-legacy-body.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![NI Food To Go Association Roadshow to showcase growth opportunities to Derry businesses](https://www.derrynow.com/resizer/165/93/true/2024_09_23/NI_Food_to_Go_Association_NW_roadshow-1727098928632.jpg--.jpg?1727098929099 "NI Food To Go Association Roadshow to showcase growth opportunities to Derry businesses")](https://www.derrynow.com/news/what-s-on/1612074/ni-food-to-go-association-roadshowto-showcase-growth-opportunities-to-derry-businesses.html)
+[Hilary Benn ‘does not understand the point’ of abolishing NI legacy body](https://www.derrynow.com/news/local-news/1612809/hilary-benn-does-not-understand-the-point-of-abolishing-ni-legacy-body.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Natalie McCloskey, Derry Chamber; Lilian Seenoi-Barr, Mayor of Derry and Strabane District Council; Michael Henderson, NI Food to Go Association and Stella Graham, Foodovation. (Photo: Tom Heaney)
+[![Foyle Port celebrates milestone 170th year with successful 2024 cruise season](https://www.derrynow.com/resizer/165/93/true/2024_09_24/2._Azamara_Onward_in_Lisahally_on_9th_July_2024-1727170004211.jpg--.jpg?1727170004723 "Foyle Port celebrates milestone 170th year with successful 2024 cruise season")](https://www.derrynow.com/news/local-news/1612647/foyle-port-celebrates-milestone-170th-year-with-successful-2024-cruise-season.html)
 
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
+Azamara Onward in Lisahally
 
-[NI Food To Go Association Roadshow to showcase growth opportunities to Derry businesses](https://www.derrynow.com/news/what-s-on/1612074/ni-food-to-go-association-roadshowto-showcase-growth-opportunities-to-derry-businesses.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Foyle Port celebrates milestone 170th year with successful 2024 cruise season](https://www.derrynow.com/news/local-news/1612647/foyle-port-celebrates-milestone-170th-year-with-successful-2024-cruise-season.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Blind and partially sighted supporters to avail of new commentary service at Brandywell games](https://www.derrynow.com/resizer/165/93/true/2024_09_24/XJLH5720-1727168931581.JPG--.JPG?1727168931634 "Blind and partially sighted supporters to avail of new commentary service at Brandywell games")](https://www.derrynow.com/news/local-news/1612622/blind-and-partially-sighted-supporters-to-avail-of-new-commentary-service-at-brandywell-games.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Blind and partially sighted supporters to avail of new commentary service at Brandywell games](https://www.derrynow.com/news/local-news/1612622/blind-and-partially-sighted-supporters-to-avail-of-new-commentary-service-at-brandywell-games.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
