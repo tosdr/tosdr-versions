@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Jack McGee on the Voice (credit: jack_mcgeee - Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack McGee on the Voice (credit: jack_mcgeee - Instagram)")](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
-
-Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry man set to star in The Voice](https://www.derrynow.com/news/derry-news/1612104/derry-man-set-to-star-in-the-voice.html)
-------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry appear to have identified their replacement for Mickey Harte](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry appear to have identified their replacement for Mickey Harte")](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry appear to have identified their replacement for Mickey Harte](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -282,19 +266,12 @@ Jack McGee on the Voice (credit: jack\_mcgeee - Instagram)
 [Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction")](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
+[![Derry appear to have identified their replacement for Mickey Harte](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry appear to have identified their replacement for Mickey Harte")](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[GAA](https://www.derrynow.com/section/1060/gaa)
 
-[PICTURES: Rolls Royce, Gucci and Cartier bargains to be had in huge Irish antique auction](https://www.derrynow.com/news/national-news/1612107/pictures-rolls-royce-gucci-and-cartier-bargains-to-be-had-in-huge-irish-antique-auction.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz")](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: GAA Dads & Lads of all shapes and ages puck it all on the line at national blitz](https://www.derrynow.com/news/gaa/1611817/pictures-gaa-dads-lads-of-all-shapes-and-ages-puck-it-all-on-the-line-at-national-blitz.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry appear to have identified their replacement for Mickey Harte](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding")](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
 
@@ -305,6 +282,15 @@ Photo: Manolo Franco/Pixabay
 [Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![County Derry McDonald's restaurant ranked third best in the UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry McDonald's restaurant ranked third best in the UK")](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
+
+McDonald's
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry McDonald's restaurant ranked third best in the UK](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised")](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
 
 A dugout was set on fire at Páirc na nÓg this evening. Photo: St Canice's GAC
@@ -314,22 +300,6 @@ A dugout was set on fire at Páirc na nÓg this evening. Photo: St Canice's GAC
 [County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: St Cecilia's College Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Cecilia's College Formal")](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: St Cecilia's College Formal](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum")](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
-
-SDLP MLA Mark H Durkan raised a point of order following comments from Michelle O’Neill (Liam McBurney/PA)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Durkan accuses O’Neill of ‘rewriting history’ over Derry Peacemakers Museum](https://www.derrynow.com/news/local-news/1612318/durkan-accuses-oneill-of-rewriting-history-over-derry-peacemakers-museum.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -337,11 +307,57 @@ SDLP MLA Mark H Durkan raised a point of order following comments from Michelle 
 [Derry Death Notices - Tuesday, 24th September 2024](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man jailed for exposing himself to two nurses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for exposing himself to two nurses")](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Official opening of the Peacemakers Museum in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official opening of the Peacemakers Museum in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Official opening of the Peacemakers Museum in Derry](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt")](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with number of driving-related offences to appear before Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with number of driving-related offences to appear before Derry court")](https://www.derrynow.com/news/local-news/1612618/man-charged-with-number-of-driving-related-offences-to-appear-before-derry-court.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with number of driving-related offences to appear before Derry court](https://www.derrynow.com/news/local-news/1612618/man-charged-with-number-of-driving-related-offences-to-appear-before-derry-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Elodie Bateson from Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Elodie Bateson from Limavady")](https://www.derrynow.com/video/pictures---videos/1611934/watch-inspirational-county-derry-girl-heading-for-grand-pianist-competition-final.html)
+
+Elodie Bateson from Limavady
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[WATCH: Inspirational County Derry girl heading for Grand Pianist competition final](https://www.derrynow.com/video/pictures---videos/1611934/watch-inspirational-county-derry-girl-heading-for-grand-pianist-competition-final.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Reception for Derry Peace and Conflict International Conference](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Reception for Derry Peace and Conflict International Conference")](https://www.derrynow.com/story-telling/pictures---videos/1613162/in-pictures-reception-for-derry-peace-and-conflict-international-conference.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Reception for Derry Peace and Conflict International Conference](https://www.derrynow.com/story-telling/pictures---videos/1613162/in-pictures-reception-for-derry-peace-and-conflict-international-conference.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar")](https://www.derrynow.com/story-telling/pictures---videos/1612806/in-pictures-sarah-duffy-s-18th-birthday-celebrations-in-derry-s-collon-bar.html)
 
@@ -398,22 +414,6 @@ Multimedia
 
 [PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE](https://www.derrynow.com/news/home/1603092/pictures-one-stop-dementia-shop-at-foyleside.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
-
-Derry City fans at the Brandywell. Pics by nwpresspics
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry City fans enjoy night of late drama at the Brandywell](https://www.derrynow.com/news/pictures---videos/1611174/in-pictures-derry-city-fans-enjoy-night-of-late-drama-at-the-brandywell.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: See inside this superb Derry property for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: See inside this superb Derry property for sale")](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: See inside this superb Derry property for sale](https://www.derrynow.com/news/property/1609882/pictures-see-inside-this-superb-derry-property-for-sale.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,49 +515,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Katie Simpson inquest gets underway with Preliminary hearing in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Katie Simpson inquest gets underway with Preliminary hearing in Derry")](https://www.derrynow.com/news/local-news/1612982/katie-simpson-inquest-gets-underway-with-preliminary-hearing-in-derry.html)
+[![Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime")](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Orlaith Quinn, Council’s PCSP Officer, pictured alongside members of the PSNI Neighbourhood Policing Team, at a recent training workshop aimed at tackling rural crime. Photo: CCG Council
 
-[Katie Simpson inquest gets underway with Preliminary hearing in Derry](https://www.derrynow.com/news/local-news/1612982/katie-simpson-inquest-gets-underway-with-preliminary-hearing-in-derry.html)
+[Home](https://www.derrynow.com/)
+
+[Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['We knew what we had to do' - Bellaghy captain Karl McCallion](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'We knew what we had to do' - Bellaghy captain Karl McCallion")](https://www.derrynow.com/news/derry-sport/1612900/we-knew-what-we-had-to-do-bellaghy-captain-karl-mccallion.html)
+
+Bellaghy's Kealan Friel celebrating his goal against Swatragh at Davitt Park. (Photo: Mark Doherty)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+['We knew what we had to do' - Bellaghy captain Karl McCallion](https://www.derrynow.com/news/derry-sport/1612900/we-knew-what-we-had-to-do-bellaghy-captain-karl-mccallion.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Zanshin NI Karate club bring home eight medals from GB Championships!](https://www.derrynow.com/resizer/165/93/true/2024_09_24/CDP_24-9-24_Karate-1727178772705.jpg--.jpg?1727178772784 "Zanshin NI Karate club bring home eight medals from GB Championships!")](https://www.derrynow.com/news/derry-sport/1612898/zanshin-ni-karate-club-bring-home-eight-medals-from-gb-championships.html)
+
+The successful members of Zanshin Shotokan NI Karate Club who won medals at the GB Championships.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Zanshin NI Karate club bring home eight medals from GB Championships!](https://www.derrynow.com/news/derry-sport/1612898/zanshin-ni-karate-club-bring-home-eight-medals-from-gb-championships.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![United Against Racism Derry to receive special recognition for combatting racism](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "United Against Racism Derry to receive special recognition for combatting racism")](https://www.derrynow.com/news/local-news/1612954/united-against-racism-derry-to-receive-special-recognition-for-combatting-racism.html)
+[![Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry man jailed for exposing himself to two nurses")](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[United Against Racism Derry to receive special recognition for combatting racism](https://www.derrynow.com/news/local-news/1612954/united-against-racism-derry-to-receive-special-recognition-for-combatting-racism.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Work commences on £800,000 announced Coleraine ring road](https://www.derrynow.com/resizer/165/93/true/2024_09_24/TempTrafficSignals-1024x683-1727173068594.png--.png?1727173068738 "Work commences on £800,000 announced Coleraine ring road")](https://www.derrynow.com/news/local-news/1612725/work-commences-on-800-000-announced-coleraine-ring-road.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Work commences on £800,000 announced Coleraine ring road](https://www.derrynow.com/news/local-news/1612725/work-commences-on-800-000-announced-coleraine-ring-road.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Hilary Benn ‘does not understand the point’ of abolishing NI legacy body](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_23/1727120116613_0.jpg--.jpg?1727120116709 "Hilary Benn ‘does not understand the point’ of abolishing NI legacy body")](https://www.derrynow.com/news/local-news/1612809/hilary-benn-does-not-understand-the-point-of-abolishing-ni-legacy-body.html)
+[![Troubles commission chief urges end to ‘unwarranted attacks’ on its independence](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_24/1727175305169_0.jpg--.jpg?1727175305300 "Troubles commission chief urges end to ‘unwarranted attacks’ on its independence")](https://www.derrynow.com/news/local-news/1612831/troubles-commission-chief-urges-end-to-unwarranted-attacks-on-its-independence.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Hilary Benn ‘does not understand the point’ of abolishing NI legacy body](https://www.derrynow.com/news/local-news/1612809/hilary-benn-does-not-understand-the-point-of-abolishing-ni-legacy-body.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Troubles commission chief urges end to ‘unwarranted attacks’ on its independence](https://www.derrynow.com/news/local-news/1612831/troubles-commission-chief-urges-end-to-unwarranted-attacks-on-its-independence.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Foyle Port celebrates milestone 170th year with successful 2024 cruise season](https://www.derrynow.com/resizer/165/93/true/2024_09_24/2._Azamara_Onward_in_Lisahally_on_9th_July_2024-1727170004211.jpg--.jpg?1727170004723 "Foyle Port celebrates milestone 170th year with successful 2024 cruise season")](https://www.derrynow.com/news/local-news/1612647/foyle-port-celebrates-milestone-170th-year-with-successful-2024-cruise-season.html)
+[![New contractors appointed for Portstewart Family Practice](https://www.derrynow.com/resizer/165/93/true/2024_09_24/GP_sign_GettyImages-MikeKemp-2019091212514012-1727180786817.jpg--.jpg?1727180786867 "New contractors appointed for Portstewart Family Practice")](https://www.derrynow.com/news/home/1612922/new-contractors-appointed-for-portstewart-family-practice.html)
 
-Azamara Onward in Lisahally
+Portstewart Family Practice has been taken over by new contractors.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[Foyle Port celebrates milestone 170th year with successful 2024 cruise season](https://www.derrynow.com/news/local-news/1612647/foyle-port-celebrates-milestone-170th-year-with-successful-2024-cruise-season.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Blind and partially sighted supporters to avail of new commentary service at Brandywell games](https://www.derrynow.com/resizer/165/93/true/2024_09_24/XJLH5720-1727168931581.JPG--.JPG?1727168931634 "Blind and partially sighted supporters to avail of new commentary service at Brandywell games")](https://www.derrynow.com/news/local-news/1612622/blind-and-partially-sighted-supporters-to-avail-of-new-commentary-service-at-brandywell-games.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Blind and partially sighted supporters to avail of new commentary service at Brandywell games](https://www.derrynow.com/news/local-news/1612622/blind-and-partially-sighted-supporters-to-avail-of-new-commentary-service-at-brandywell-games.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[New contractors appointed for Portstewart Family Practice](https://www.derrynow.com/news/home/1612922/new-contractors-appointed-for-portstewart-family-practice.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
