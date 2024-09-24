@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KPNX/images/939c5f8d-782d-43f9-84eb-a8b9c1420a33/20240919T002827/939c5f8d-782d-43f9-84eb-a8b9c1420a33_16x9.jpg) ![](https://media.kagstv.com/assets/KPNX/images/939c5f8d-782d-43f9-84eb-a8b9c1420a33/20240919T002827/939c5f8d-782d-43f9-84eb-a8b9c1420a33_360x203.jpg)](https://www.kagstv.com/article/news/local/valley-woman-returns-from-viral-9-month-long-cruise-around-the-world/75-a9a7099a-41c4-42cf-abec-5e843a254a5a)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/f2904c57-58d1-49b3-b2fc-955ffcb4b26c/20240923T205614/f2904c57-58d1-49b3-b2fc-955ffcb4b26c_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f2904c57-58d1-49b3-b2fc-955ffcb4b26c/20240923T205614/f2904c57-58d1-49b3-b2fc-955ffcb4b26c_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-man-last-seen-in-iola-grimes-county-early-in-the-morning-on-sept-23-2024/500-f03825fc-3599-47a3-828c-eab0ce0f19a3)
         
-        #### ['A life-changing experience', Arizona woman returns from viral 9-month-long cruise around the world](https://www.kagstv.com/article/news/local/valley-woman-returns-from-viral-9-month-long-cruise-around-the-world/75-a9a7099a-41c4-42cf-abec-5e843a254a5a)
+        #### [Have you seen this person? Grimes County authorities looking to find missing man](https://www.kagstv.com/article/news/local/missing-man-last-seen-in-iola-grimes-county-early-in-the-morning-on-sept-23-2024/500-f03825fc-3599-47a3-828c-eab0ce0f19a3)
         
-    *  [![](https://media.kagstv.com/assets/KHOU/images/c07bab71-23b5-47ea-9e5e-a8c7914317c8/20240923T023435/c07bab71-23b5-47ea-9e5e-a8c7914317c8_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/c07bab71-23b5-47ea-9e5e-a8c7914317c8/20240923T023435/c07bab71-23b5-47ea-9e5e-a8c7914317c8_360x203.jpg)](https://www.kagstv.com/article/news/local/manufactured-home-collapse-brazoria-county/285-5210c365-8aa8-4193-a683-2d6b1bcffd44)
+    *  [![](https://media.kagstv.com/assets/WWL/images/bc8482d6-2fb5-44cd-948f-a33edc50d1a6/bc8482d6-2fb5-44cd-948f-a33edc50d1a6_16x9.jpg) ![](https://media.kagstv.com/assets/WWL/images/bc8482d6-2fb5-44cd-948f-a33edc50d1a6/bc8482d6-2fb5-44cd-948f-a33edc50d1a6_360x203.jpg)](https://www.kagstv.com/article/news/local/burn-ban-in-burleson-county-sept-23-2024/500-7535b360-b6e8-4ac8-8a4f-7041e845da16)
         
-        #### [BCSO: 2 dead, 5 hospitalized after becoming trapped underneath large mobile home that collapsed](https://www.kagstv.com/article/news/local/manufactured-home-collapse-brazoria-county/285-5210c365-8aa8-4193-a683-2d6b1bcffd44)
+        #### [Burn ban issued for Burleson County](https://www.kagstv.com/article/news/local/burn-ban-in-burleson-county-sept-23-2024/500-7535b360-b6e8-4ac8-8a4f-7041e845da16)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-89°
+82°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
