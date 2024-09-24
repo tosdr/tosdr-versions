@@ -343,7 +343,7 @@ Join us online
     
 * [](https://www.instagram.com/recordedfuture/)
     
-* [](https://www.recordedfuture.com/sitemap.xml)
+* [](https://www.recordedfuture.com/feed/research)
     
 
 Want to learn more?
