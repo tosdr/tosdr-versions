@@ -115,7 +115,7 @@ Privacy Policy
 
 To execute the primary functions and provide the services intended, FreeDownloadManager.ORG, needs to collect some personal information about its clients. You may, however, rest assured that FreeDownloadManager.ORG respects your privacy and grants confidentiality for your personal data collected while working with your profiles.
 
-FreeDownloadManager.ORG collects and stores only the data explicitly provided by the users while making use of the Services, i.e. personal data specified in the user profile, network settings, cookies. If you use any of our client-applications or other applications developed by FreeDownloadManager.ORG or its subsidiaries and agents, the following information may also be collected: information about your operating system, the list of applications installed on it together with their version numbers, developers' names and app icons.
+FreeDownloadManager.ORG collects and stores only the data explicitly provided by the users while making use of the Services, i.e. personal data specified in the user profile, network settings, cookies.
 
 Free Download Manager.ORG respect the privacy concerns of our users and offers an opportunity to inspect the information that is collected and stored by our Service. The users' profiles include tools and options for hiding information visible on their profiles.
 
