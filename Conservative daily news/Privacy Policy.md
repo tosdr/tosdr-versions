@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Florida Deputy Kills His Girlfriend While Cleaning Guns](https://www.thegunpage.com/florida-deputy-kills-his-girlfriend-while-cleaning-guns/10610780)
+* [WY: Support Arming School Staff in Converse County](https://www.thegunpage.com/wy-support-arming-school-staff-in-converse-county/10610779)
+* [New Angstadt Arms Vanquish 22 Zero Baffle Integral 10/22 Barrel](https://www.thegunpage.com/new-angstadt-arms-vanquish-22-zero-baffle-integral-10-22-barrel/10610778)
+* [Harris Can’t Have It Both Ways On Guns & Home Intruders](https://www.thegunpage.com/harris-cant-have-it-both-ways-on-guns-home-intruders/10610777)
+* [Cabot Announces and Sells Out – The Voltage](https://www.thegunpage.com/cabot-announces-and-sells-out-the-voltage/10610773)
+* [A Crazy Man and His Crazy Gun: Would-Be Trump Assassin’s Rifle Details Revealed](https://www.thegunpage.com/a-crazy-man-and-his-crazy-gun-would-be-trump-assassins-rifle-details-revealed/10610771)
+* [U.S. Secret Service Officer Accidentally Shot Himself](https://www.thegunpage.com/u-s-secret-service-officer-accidentally-shot-himself/10610774)
 * [2024 America Match: U.S. Tops England By Two Points](https://www.thegunpage.com/2024-america-match-u-s-tops-england-by-two-points/10610767)
 * [TFB Review: EAA Girsan MC14BDA .380](https://www.thegunpage.com/tfb-review-eaa-girsan-mc14bda-380/10610763)
 * [POTD: Nighthawk Custom TRS Comp](https://www.thegunpage.com/potd-nighthawk-custom-trs-comp/10610764)
-* [The Rimfire Report: 21 SHARP Ammunition and Rifles Now Available](https://www.thegunpage.com/the-rimfire-report-21-sharp-ammunition-and-rifles-now-available/10610765)
-* [Minnesota Update: Eighth Circuit Court Strikes Down Minnesota’s Firearm Carry Age Restrictions](https://www.thegunpage.com/minnesota-update-eighth-circuit-court-strikes-down-minnesotas-firearm-carry-age-restrictions/10610761)
-* [GOA Files Amicus Brief in Challenge to Maryland AWB @ SCOTUS](https://www.thegunpage.com/goa-files-amicus-brief-in-challenge-to-maryland-awb-scotus/10610760)
-* [NH Republican Gubernatorial Candidate Discusses New Gun Law She Would Sign](https://www.thegunpage.com/nh-republican-gubernatorial-candidate-discusses-new-gun-law-she-would-sign/10610758)
-* [Walther Releases Six Handguns At TEQ Fest](https://www.thegunpage.com/walther-releases-six-handguns-at-teq-fest/10610756)
-* [Court Document Reveals Would-Be Assassin’s Extensive Plan To Kill Trump](https://www.thegunpage.com/court-document-reveals-would-be-assassins-extensive-plan-to-kill-trump/10610754)
-* [Savage Arms Announces The AC350 AccuCan Suppressor for 350 Legend](https://www.thegunpage.com/savage-arms-announces-the-ac350-accucan-suppressor-for-350-legend/10610757)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
 * TMann on [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/#comment-782277)
 * charles wilkins on [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/#comment-782273)
 * charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
@@ -236,7 +237,6 @@ Recent Comments
 * charles wilkins on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782254)
 * charles wilkins on [Priorities](https://www.conservativedailynews.com/2024/09/priorities-5/#comment-782234)
 * AlwaysVictoria on [Teamsters Don’t Support Trump, But Teamsters Do](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/#comment-782210)
-* Spit-N-Seeds on [The Reasons Young Women Embrace the Left Do Not Reflect Well on Those Women](https://www.conservativedailynews.com/2024/09/the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-those-women/#comment-782201)
 
 [Close](#)
 
