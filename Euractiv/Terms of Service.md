@@ -389,9 +389,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Draghi Report: A wake-up call for the EU electronics manufacturing industry](https://www.euractiv.com/section/digital/opinion/draghi-report-a-wake-up-call-for-the-eu-electronics-manufacturing-industry/)
     * [Coordinated Action to unlock GovTech Potential: Connecting Startups and Public Authorities for Enhanced Public Services](https://www.euractiv.com/section/digital/opinion/coordinated-action-to-unlock-govtech-potential-connecting-startups-and-public-authorities-for-enhanced-public-services/)
     * [Navigating Compliance: How innovation can thrive under the AI Act](https://www.euractiv.com/section/digital/opinion/navigating-compliance-how-innovation-can-thrive-under-the-ai-act/)
-    * [Local Digital Twins: Tackling urban digitalisation gaps in Europe](https://www.euractiv.com/section/digital/opinion/local-digital-twins-tackling-urban-digitalisation-gaps-in-europe/)
     
 * [Transport](https://www.euractiv.com/sections/transport/)
     
@@ -987,14 +987,14 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 
 * 1[Leading Russian lawmaker threatens to nuke Strasbourg after European Parliament vote](http://en.euractiv.eu/section/defence-and-security/news/leading-russian-lawmaker-threatens-to-nuke-strasbourg-after-european-parliament-vote/?utm_source=website&utm_campaign=popular)
 * 2[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
-* 3[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
-* 4[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
-* 5[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
-* 6[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
-* 7[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
-* 8[Council working document show member states not on board with Letta, Draghi reports](http://en.euractiv.eu/section/digital/news/council-working-document-show-member-states-not-on-board-with-letta-draghi-reports/?utm_source=website&utm_campaign=popular)
-* 9[Centre-right and socialists clash over EU deforestation law enforcement](http://en.euractiv.eu/section/agriculture-food/news/centre-right-and-socialists-clash-over-eu-deforestation-law-enforcement/?utm_source=website&utm_campaign=popular)
-* 10[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
+* 3[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
+* 4[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 5[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
+* 6[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 7[Council working document show member states not on board with Letta, Draghi reports](http://en.euractiv.eu/section/digital/news/council-working-document-show-member-states-not-on-board-with-letta-draghi-reports/?utm_source=website&utm_campaign=popular)
+* 8[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
+* 9[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
+* 10[French government revealed: More of the same, with hard-right turn on immigration in the works](http://en.euractiv.eu/section/politics/news/french-government-revealed-more-of-the-same-with-hard-right-turn-on-immigration-in-the-works/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
