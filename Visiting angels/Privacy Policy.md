@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
+[How Home Care Changes Between Alzheimer’s and Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-home-care-changes-between-alzheimers-and-dementia/292)
 
-[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
+[Live-in or 24-Hour Care Allowing Elderly Adults to “Age in Place” in Their Homes](https://www.visitingangels.com/knowledge-center/care-options/live-in-or-24-hour-care-allowing-elderly-adults-to-age-in-place-in-their-homes/432)
 
-[Things Change: What to Do When Your Senior Loved One Stops Doing Things They Love](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/things-change-what-to-do-when-your-senior-loved-one-stops-doing-things-they-love/371)
+[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
 
-[Part 1: Expert Advice When Caring for a Loved One with Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-1-expert-advice-when-caring-for-a-loved-one-with-dementia/367)
+[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
 
-[Does Your Loved One Need Elder Care Services?](https://www.visitingangels.com/knowledge-center/care-options/does-your-loved-one-need-elder-care-services/53)
+[How Non-Medical End of Life Care Can Help Seniors & Families](https://www.visitingangels.com/knowledge-center/care-options/how-non-medical-end-of-life-care-can-help-seniors-families/360)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
