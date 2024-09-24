@@ -205,24 +205,22 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [More Reviews from the Wasteland Chronicle](https://www.somethingawful.com/current-movie-reviews/no-strings-attached/1/)
-* [Movie Posters](https://www.somethingawful.com/photoshop-phriday/movie-posters-2/1/)
-* [Moon Farm Family: In Harm's Way](https://www.somethingawful.com/feature-articles/moon-farm-family/)
-* [Recalled Foods II](https://www.somethingawful.com/photoshop-phriday/recalled-foods-ii/1/)
-* [7 Essential Games Nintendo Forgot To Put On The SNES Classic](https://www.somethingawful.com/news/snes-classic-games/)
+* [WWF Buys WCW!](https://www.somethingawful.com/news/wwf-buys-wcw/)
+* [Dogs is good people.](https://www.somethingawful.com/mooflogs/dogs-good-people/)
+* [Video Games According to Grandma](https://www.somethingawful.com/photoshop-phriday/video-games-according/1/)
+* [Gone Girl; Annabelle; Left Behind; The Song; The Good Lie](https://www.somethingawful.com/current-movie-reviews/gone-girl-annabelle/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [Have any goons ever been on a cruise?](http://forums.somethingawful.com/showthread.php?threadid=4071003 "Have any goons ever been on a cruise?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sex.png) [What is wrong with me?](http://forums.somethingawful.com/showthread.php?threadid=4071061 "What is wrong with me?")
 
 ### Random Articles
 
-* [The Fate Of Nick](https://www.somethingawful.com/flash-tub/fate-nick/)
-* [The Beard That Should Not Be](https://www.somethingawful.com/news/beard-that-should/)
-* [What's Currently Working In Halo: The Master Chief Collection](https://www.somethingawful.com/video-game-article/halo-chief-collection/)
-* [The History of Neon Purple](https://www.somethingawful.com/news/neon-purple-origins/)
-* [Four Days in Winter - The Last Day](https://www.somethingawful.com/feature-articles/days-winter-last/1/)
+* [Paintings of Light II](https://www.somethingawful.com/photoshop-phriday/paintings-light-ii/1/)
+* [We're Not Afraid](https://www.somethingawful.com/awful-links/awful-link-3041/)
+* [The Last Words of Presidents](https://www.somethingawful.com/news/last-words-presidents/)
+* [Gaming Guyz 15: The Top Games of 2010](https://www.somethingawful.com/flash-tub/gaming-guyz-15/)
+* [Much Ado About Yams](https://www.somethingawful.com/flash-tub/much-ado-about/)
 
 [Random!](https://www.somethingawful.com/random/)
 
