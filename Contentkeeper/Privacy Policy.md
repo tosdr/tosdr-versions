@@ -409,7 +409,7 @@ Number of devices
 
 Message
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
