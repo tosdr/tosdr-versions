@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Biden to Defend His Foreign Policy in Final UN Address](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
+* [Senator Warns of Looming Port Strike That Threatens to Cripple US Supply Chain](https://www.theepochtimes.com/us/senator-warns-of-looming-port-strike-that-threatens-to-cripple-us-supply-chain-5729134)
     
-    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Biden to Defend His Foreign Policy in Final UN Address](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Senator Warns of Looming Port Strike That Threatens to Cripple US Supply Chain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden to Defend His Foreign Policy in Final UN Address](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5728951-Biden_White-House_Sept24-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
+    ![Senator Warns of Looming Port Strike That Threatens to Cripple US Supply Chain](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668147-baltimore-bridge-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/senator-warns-of-looming-port-strike-that-threatens-to-cripple-us-supply-chain-5729134)
+* [Striking Union Rejects Boeing’s ‘Best And Final’ Offer of 30 Percent Wage Hike](https://www.theepochtimes.com/business/striking-union-rejects-boeings-best-and-final-offer-of-30-percent-wage-hike-5728975)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Striking Union Rejects Boeing’s ‘Best And Final’ Offer of 30 Percent Wage Hike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Striking Union Rejects Boeing’s ‘Best And Final’ Offer of 30 Percent Wage Hike](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724004-GettyImages-2170940748-205x123.jpg.webp)](https://www.theepochtimes.com/business/striking-union-rejects-boeings-best-and-final-offer-of-30-percent-wage-hike-5728975)
+* [Former AG Bill Barr Says DOJ Shouldn’t Have Released Letter of Trump Assassination Attempt Suspect](https://www.theepochtimes.com/us/former-ag-bill-barr-says-doj-shouldnt-have-released-letter-of-trump-assassination-attempt-suspect-5729080)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Former AG Bill Barr Says DOJ Shouldn’t Have Released Letter of Trump Assassination Attempt Suspect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Former AG Bill Barr Says DOJ Shouldn’t Have Released Letter of Trump Assassination Attempt Suspect](https://img.theepochtimes.com/assets/uploads/2024/04/17/id5631658-GettyImages-1229087712-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-ag-bill-barr-says-doj-shouldnt-have-released-letter-of-trump-assassination-attempt-suspect-5729080)
+* [X Complies With Brazilian Court Demand That Led to Shutdown](https://www.theepochtimes.com/world/x-complies-with-brazilian-court-demand-that-led-to-shutdown-5728994)
+    
+    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![X Complies With Brazilian Court Demand That Led to Shutdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![X Complies With Brazilian Court Demand That Led to Shutdown](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729138-GettyImages-2170018727KO-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/x-complies-with-brazilian-court-demand-that-led-to-shutdown-5728994)
+* [Telegram Agrees to Give Phone Numbers and IP Addresses to Authorities](https://www.theepochtimes.com/tech/telegram-agrees-to-give-phone-numbers-and-ip-addresses-to-authorities-5728980)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Telegram Agrees to Give Phone Numbers and IP Addresses to Authorities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Telegram Agrees to Give Phone Numbers and IP Addresses to Authorities](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729012-GettyImages-2168604017-205x123.jpg.webp)](https://www.theepochtimes.com/tech/telegram-agrees-to-give-phone-numbers-and-ip-addresses-to-authorities-5728980)
+* [Israel Strikes ‘Dozens’ More Hezbollah Targets Overnight](https://www.theepochtimes.com/world/israel-strikes-dozens-more-hezbollah-targets-overnight-5728981)
+    
+    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Israel Strikes ‘Dozens’ More Hezbollah Targets Overnight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Strikes ‘Dozens’ More Hezbollah Targets Overnight](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729072-Lebanon-strikes.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-strikes-dozens-more-hezbollah-targets-overnight-5728981)
+* [Biden Advocates for Stronger UN Amid Ongoing Wars in Israel, Ukraine](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
+    
+    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden Advocates for Stronger UN Amid Ongoing Wars in Israel, Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Advocates for Stronger UN Amid Ongoing Wars in Israel, Ukraine](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729211-Biden-last-UN-speech-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
 * [China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://www.theepochtimes.com/us/china-iran-russia-using-ai-to-influence-us-elections-intelligence-community-warns-5728862)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711644-GettyImages-2081068958-205x123.jpg.webp)](https://www.theepochtimes.com/us/china-iran-russia-using-ai-to-influence-us-elections-intelligence-community-warns-5728862)
 * [High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://www.theepochtimes.com/us/falling-response-rates-may-affect-quality-data-collection-in-monthly-jobs-report-5728586)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://img.theepochtimes.com/assets/uploads/2024/09/id5726803-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/falling-response-rates-may-affect-quality-data-collection-in-monthly-jobs-report-5728586)
 * [Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://www.theepochtimes.com/business/manufacturing-slumps-to-15-month-low-as-inflation-reaccelerates-5728744)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722409-GettyImages-1151712640-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/manufacturing-slumps-to-15-month-low-as-inflation-reaccelerates-5728744)
-* [Hochul Activates NY State Response After Person Dies of Eastern Equine Encephalitis](https://www.theepochtimes.com/us/hochul-activates-ny-state-action-after-person-dies-of-eastern-equine-encephalitis-5728875)
-    
-    NEW By [Mary Lou Lang](https://www.theepochtimes.com/author/mary-lou-lang)
-    
-    [![Hochul Activates NY State Response After Person Dies of Eastern Equine Encephalitis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hochul Activates NY State Response After Person Dies of Eastern Equine Encephalitis](https://img.theepochtimes.com/assets/uploads/2020/07/20/Virus-Outbreak-Insect-Illnesses-4-205x123.jpg.webp)](https://www.theepochtimes.com/us/hochul-activates-ny-state-action-after-person-dies-of-eastern-equine-encephalitis-5728875)
-* [RFK Jr. Asks Supreme Court to Restore His Name on New York Ballot](https://www.theepochtimes.com/us/rfk-jr-asks-supreme-court-to-restore-his-name-on-new-york-ballot-5728727)
-    
-    8hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![RFK Jr. Asks Supreme Court to Restore His Name on New York Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![RFK Jr. Asks Supreme Court to Restore His Name on New York Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723187-09102024-DSC08870-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/rfk-jr-asks-supreme-court-to-restore-his-name-on-new-york-ballot-5728727)
-* [Supreme Court Lets Anti-Doping Horse Racing Law Remain in Effect](https://www.theepochtimes.com/us/supreme-court-lets-anti-doping-horse-racing-law-remain-in-effect-5728739)
-    
-    11hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Supreme Court Lets Anti-Doping Horse Racing Law Remain in Effect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Lets Anti-Doping Horse Racing Law Remain in Effect](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676339-GettyImages-1431397924-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-lets-anti-doping-horse-racing-law-remain-in-effect-5728739)
-* [US Forecasters Warn of Potential Hurricane Likely to Rapidly Intensify](https://www.theepochtimes.com/us/us-forecasters-warn-of-potential-hurricane-likely-to-form-and-rapidly-intensify-5728660)
-    
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![US Forecasters Warn of Potential Hurricane Likely to Rapidly Intensify](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Forecasters Warn of Potential Hurricane Likely to Rapidly Intensify](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728663-hu119192312399-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-forecasters-warn-of-potential-hurricane-likely-to-form-and-rapidly-intensify-5728660)
-* [Day in Photos: Deadly Strikes, Return From Space, and an International Meeting](https://www.theepochtimes.com/article/day-in-photos-deadly-strikes-return-from-space-and-an-international-meeting-5728554)
-    
-    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Deadly Strikes, Return From Space, and an International Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Deadly Strikes, Return From Space, and an International Meeting](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728809-GettyImages-2173180496-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-deadly-strikes-return-from-space-and-an-international-meeting-5728554)
-* [First Influenza Nasal Spray Approved for Self-Administration—Experts Weigh In](https://www.theepochtimes.com/health/first-influenza-nasal-spray-approved-for-self-administration-experts-weigh-in-5728821)
-    
-    11hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
-    
-    [![First Influenza Nasal Spray Approved for Self-Administration—Experts Weigh In](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![First Influenza Nasal Spray Approved for Self-Administration—Experts Weigh In](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5722903-fda-eet-10.13-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/first-influenza-nasal-spray-approved-for-self-administration-experts-weigh-in-5728821)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
