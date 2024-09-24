@@ -35,7 +35,7 @@ Where to Buy
 
 [Search](https://www.tp-link.com/us/search/)
 
-* Home
+* Networking
     
     * [WiFi 7](https://www.tp-link.com/us/wifi7/)
     
@@ -296,7 +296,7 @@ Where to Buy
 
   Submit
 
-* Home
+* Networking
     
     Back
     
