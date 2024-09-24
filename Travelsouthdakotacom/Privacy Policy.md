@@ -55,7 +55,7 @@
         Mount Rushmore](https://www.travelsouthdakota.com/explore-with-us/great-8/mount-rushmore)
     * [![](/sites/default/files/styles/mega_menu_great_8/public/header-uploads/badlands-iconv2.jpg?itok=FwOC2FG9)
         
-        Badlands](https://www.travelsouthdakota.com/explore-with-us/great-8/badlands-1)
+        Badlands](https://www.travelsouthdakota.com/explore-with-us/great-8/badlands)
     * [![](/sites/default/files/styles/mega_menu_great_8/public/header-uploads/crazy_horse-iconv2.jpg?itok=pBos0SAs)
         
         Crazy Horse](https://www.travelsouthdakota.com/explore-with-us/great-8/crazy-horse)
