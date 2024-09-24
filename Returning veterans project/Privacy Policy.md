@@ -187,9 +187,9 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Ted Cimral](https://cdn.returningveterans.org/images/honor/cogbill_001.jpg)  
+![Clark Spurrier](https://cdn.returningveterans.org/images/honor/Clark_Spurrier_Beast_Squad_1980.jpg)  
 
-**In Honor of Ted Cimral**  
+**In Honor of Clark Spurrier**  
 United States Army  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
@@ -236,5 +236,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/24/24 - 2:12:11  
+Printed 9/24/24 - 8:26:53  
 © 2024 Returning Veterans Project
