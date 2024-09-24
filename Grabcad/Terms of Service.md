@@ -255,7 +255,7 @@ Print
 
 [SAF Technology](https://grabcad.com/print/saf)
 
-[Origin One](https://grabcad.com/print/p3)
+[Origin](https://grabcad.com/print/p3)
 
 Shop
 
