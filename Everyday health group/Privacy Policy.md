@@ -44,7 +44,7 @@ Explore wellness and self-care topics for your physical and mental well-being.
 
 [Acupuncture](https://www.everydayhealth.com/acupuncture/)[Bug Bites](https://www.everydayhealth.com/bug-bites/)[Dehydration](https://www.everydayhealth.com/dehydration/)[Fitness and Exercise](https://www.everydayhealth.com/fitness-exercise/)[Food & Diet](https://www.everydayhealth.com/lifestyle/food/)[Healthy Recipes](https://www.everydayhealth.com/healthy-recipes/)[Ketogenic Diet](https://www.everydayhealth.com/ketogenic-diet/)
 
-[Meditation](https://www.everydayhealth.com/meditation/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Self-Care](https://www.everydayhealth.com/self-care/)[Stress](https://www.everydayhealth.com/stress/)[Skin Care](https://www.everydayhealth.com/skin-care-hub/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/)
+[Meditation](https://www.everydayhealth.com/meditation/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Self-Care](https://www.everydayhealth.com/self-care/)[Skin Care](https://www.everydayhealth.com/skin-care-hub/)[Stress](https://www.everydayhealth.com/stress/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/)
 
 News
 
@@ -58,7 +58,7 @@ Featured stories
 
 ![ ](https://images.everydayhealth.com/images/news/new-covid-variant-xec-arrives-1440x810.jpg)
 
-XEC Is the New COVID Variant](https://www.everydayhealth.com/infectious-diseases/xec-is-the-new-covid-variant/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+XEC Is the New COVID Variant to Watch](https://www.everydayhealth.com/infectious-diseases/xec-is-the-new-covid-variant/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/black-women-more-likely-to-die-of-breast-cancer-1440x810.jpg)
 
