@@ -77,31 +77,31 @@ Latest commented posts
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 318 1
+0 332 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/professor-oak-pokemon-go-and-etc-created-by-dysart/)
+[](https://yiff-party.com/yiff/smile-dog-creepypasta-created-by-amon-sydonai/)
 
-[professor oak (pokemon go and etc) created by dysart](https://yiff-party.com/yiff/professor-oak-pokemon-go-and-etc-created-by-dysart/)
+[smile.dog (creepypasta) created by amon-sydonai](https://yiff-party.com/yiff/smile-dog-creepypasta-created-by-amon-sydonai/)
 
 0 2 0
 
 September 24, 2024
 
-[](https://yiff-party.com/yiff/toriel-undertale-series-and-etc-created-by-prophetpack/)
+[](https://yiff-party.com/yiff/oscar-and-polar-patroller-epic-games-and-etc-created-by-tritscrits/)
 
-[toriel (undertale (series) and etc) created by prophetpack](https://yiff-party.com/yiff/toriel-undertale-series-and-etc-created-by-prophetpack/)
+[oscar and polar patroller (epic games and etc) created by tritscrits](https://yiff-party.com/yiff/oscar-and-polar-patroller-epic-games-and-etc-created-by-tritscrits/)
 
-0 126 0
+0 146 0
 
 August 25, 2024
 
-[](https://yiff-party.com/yiff/mythology-created-by-cowardly-werewolf/)
+[](https://yiff-party.com/yiff/spyro-european-mythology-and-etc-created-by-zyria/)
 
-[mythology created by cowardly werewolf](https://yiff-party.com/yiff/mythology-created-by-cowardly-werewolf/)
+[spyro (european mythology and etc) created by zyria](https://yiff-party.com/yiff/spyro-european-mythology-and-etc-created-by-zyria/)
 
-0 297 0
+0 70 0
 
 August 25, 2024
 
