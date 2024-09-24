@@ -261,13 +261,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![23 People Share What Happened After Someone Won the Lottery](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/) [23 People Share The 'Aftermath' Of Someone They Knew Winning the Lottery](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/)
+    [![arnold schwarzenegger sitting down and standing up before getting drop kicked](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/) [Remember When that Douchebag Drop Kicked Arnold Schwarzenegger At Event in South Africa](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/)
     
-    [![22 Fails and Facepalms From the Past Few Weeks](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/) [22 Fails, Flounders, and Facepalms That Cracked Us Up](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/)
+    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
     
-    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
+    [![people get called out - you can only choose one, which door do you choose - time travel so i can go back to when i didn't follow this shitty account - im unvaccinated my super powers  include spreading a disease i dont have - do they make these in adult s](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/) [25 Foolish People Being Savagely Called Out Online](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/) [‘You Got Lamb Chops, You Got Steak!’ Guy Refuses to Split $4,600 Bill Just Because It’s Somebody's Birthday](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/)
+    [![a tiny camera in a bluetooth headset](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/) [24 People Who Found Hidden Cameras in Normal Items](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/)
     
 
 * Advertisement
