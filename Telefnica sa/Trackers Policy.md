@@ -309,9 +309,9 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 [Subir](#page)
 
 * © Telefónica S.A.
-* Configurar Cookies
-* 
-* 
+* [Configurar Cookies](#)
+* [Política de cookies](https://www.telefonica.com/es/cookies/)
+* [Aviso legal](https://www.telefonica.com/es/aviso-legal/)
 * [Accesibilidad](https://www.telefonica.com/es/telefonica-accesible/)
 * [Política de privacidad](https://www.telefonica.com/es/politica-de-privacidad/)
 
