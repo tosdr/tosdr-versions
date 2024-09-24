@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/P24-4-031-chicago-construction-rob-pattern-b-326x245.jpg)](https://cwbchicago.com/2024/09/armed-robbery-team-is-targeting-construction-crews-police-warn.html "Armed robbery team is targeting construction crews, police warn")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ishmael-Williams-and-Tamika-Smith-326x245.jpg)](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
 
-Citywide
+Washington Heights
 
-### [Armed robbery team is targeting construction crews, police warn](https://cwbchicago.com/2024/09/armed-robbery-team-is-targeting-construction-crews-police-warn.html "Armed robbery team is targeting construction crews, police warn")
+### [Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
 
-[September 21, 2024 3:41 AM](https://cwbchicago.com/2024/09)
+[September 21, 2024 6:47 PM](https://cwbchicago.com/2024/09)
 
-Chicago police are warning construction crews about an armed robbery team that is targeting workers on job sites in Lawndale.[](https://cwbchicago.com/2024/09/armed-robbery-team-is-targeting-construction-crews-police-warn.html "Armed robbery team is targeting construction crews, police warn")
+Officials say a South Side man murdered his girlfriend and then called 911, claiming the bullet that killed her had come through his home window—a story that fell apart when Chicago cops found a shell casing, a spent bullet, and a live bullet lying next to the woman’s body inside his house.[](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/180-n-michigan-bank-robber-FBI-326x245.jpg)](https://cwbchicago.com/2024/09/oops-he-did-it-again-fbi-says-robber-held-up-downtown-bank-twice-in-3-days.html "Oops! He did it again. FBI says robber held up downtown bank twice in 3 days")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Rakim-Kendall-326x245.jpg)](https://cwbchicago.com/2024/09/man-aimed-gun-at-cops-prompting-them-to-shoot-at-him-6-days-after-getting-probation-in-another-gun-case-prosecutors.html "Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors")
 
-Citywide
+South Shore
 
-### [Oops! He did it again. FBI says robber held up downtown bank twice in 3 days](https://cwbchicago.com/2024/09/oops-he-did-it-again-fbi-says-robber-held-up-downtown-bank-twice-in-3-days.html "Oops! He did it again. FBI says robber held up downtown bank twice in 3 days")
+### [Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors](https://cwbchicago.com/2024/09/man-aimed-gun-at-cops-prompting-them-to-shoot-at-him-6-days-after-getting-probation-in-another-gun-case-prosecutors.html "Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors")
 
-[September 21, 2024 2:37 AM](https://cwbchicago.com/2024/09)
+[September 21, 2024 7:17 AM](https://cwbchicago.com/2024/09)
 
-The FBI says the man who robbed a bank near Millennium Park on Monday returned and robbed the same bank again on Thursday, just hours after the agency published a $1,000 reward for his arrest.[](https://cwbchicago.com/2024/09/oops-he-did-it-again-fbi-says-robber-held-up-downtown-bank-twice-in-3-days.html "Oops! He did it again. FBI says robber held up downtown bank twice in 3 days")
+Prosecutors say a man repeatedly pointed a gun at Chicago police officers while trying to run away from the cops—just six days after being given “first-time weapon offense probation” in another gun case.[](https://cwbchicago.com/2024/09/man-aimed-gun-at-cops-prompting-them-to-shoot-at-him-6-days-after-getting-probation-in-another-gun-case-prosecutors.html "Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Jose-Rios-326x245.jpg)](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Chain-bukhariancommunity-326x245.jpg)](https://cwbchicago.com/2024/09/again-2-more-women-targeted-by-jewelry-snatching-thieves-in-the-loop-west-town-as-crime-pattern-grows.html "Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows")
 
-Chicago Lawn
+Lincoln Park
 
-### [Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
+### [Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows](https://cwbchicago.com/2024/09/again-2-more-women-targeted-by-jewelry-snatching-thieves-in-the-loop-west-town-as-crime-pattern-grows.html "Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows")
 
-[September 20, 2024 7:06 PM](https://cwbchicago.com/2024/09)
+[September 21, 2024 7:15 AM](https://cwbchicago.com/2024/09)
 
-Officials say a Bolingbrook man and an unknown accomplice followed and carjacked a random driver in Chicago Lawn earlier this year.[](https://cwbchicago.com/2024/09/suburban-man-picked-random-driver-to-carjack-under-a-chicago-police-surveillance-camera-officials-say.html "Suburban man picked random driver to carjack under a Chicago police surveillance camera, officials say")
+Jewelry-snatching thieves targeted two more women on Friday, one in the Loop and the other just across the river in the Fulton River District. Chicago police have not yet issued a community alert about the growing crime pattern or announced any arrests.[](https://cwbchicago.com/2024/09/again-2-more-women-targeted-by-jewelry-snatching-thieves-in-the-loop-west-town-as-crime-pattern-grows.html "Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows")
 
 Search
 
