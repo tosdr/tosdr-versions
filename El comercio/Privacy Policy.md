@@ -31,6 +31,609 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La sequía no se superará con lluvias esporádicas
+================================================
+
+El aporte ciudadano es muy importante para minimizar los efectos de este severo estiaje. El uso consciente de los recursos es una tarea pendiente.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Vista del río Tomebamba, que atraviesa el centro de Cuenca. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/09/editorial-1.jpg)
+
+Las **lluvias** que cayeron la madrugada del domingo 22 de septiembre en **Cuenca** generaron entusiasmo en **Ecuador**.
+
+Pero la sequía que atraviesa el **Austro** no se resuelve con precipitaciones esporádicas.
+
+Esas lluvias no representaron un mayor aporte ante la magnitud del estiaje.
+
+Para ilustrar se puede hacer la siguiente analogía. Sería como tener una deuda de 10 000 dólares y recibir un ingreso de 100 dólares. Contribuyen, pero alcanza para salir del problema.
+
+> Los técnicos de la Red Hidrometereológica de Cuenca fueron claros sobre los parámetros que se requieren para salir de la sequía. Se necesitan de 10 a 15 días de lluvias y que cada una dure una hora, por lo menos. Además, que caigan en los páramos y humedales.
+
+Los **suelos están extremadamente secos**. Si hay lluvias esporádicas seguidas de días con alta radiación, la humedad se evapora. Eso ocurrió entre el domingo 22 y lunes 23 de septiembre de 2024, en Cuenca.
+
+Los caudales de los ríos están disminuyendo y ubicándose en los niveles registrados la mañana del sábado 21. Es decir, antes de las recientes precipitaciones.
+
+Ante ese escenario, no solo debemos esperar que los otros den una solución. Como **ciudadanos** tenemos que actuar desde nuestro espacio con ahorro de los recursos.
+
+En Cuenca, que registra su tercer período de sequía en los últimos 12 meses, aún se observan personas lavando sus automotores. El Alcalde cuencano pidió hace casi un mes, que la ciudadanía ahorre agua. Al inicio se logró un 10%.
+
+Esta **crisis hídrica** es un llamado a la acción. Es imperativo implementar estrategias efectivas para la gestión del agua y fomentar una cultura de conservación.
+
+La situación actual no solo refleja un **problema ambiental inmediato**, sino también un desafío a largo plazo que requiere colaboración y compromiso colectivo para asegurar un futuro sostenible.
+
+Herrera Ordóñez y su credo del “eterno retorno”
+===============================================
+
+La creación visual de Pedro sigue los cánones surrealistas, enriquecidos por el digitalismo.
+--------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+“Tengo algo que decir me digo/ Y me hincho de pájaros por fuera/ Labios que caen como espejos. Aquí./ Allá dentro las distancias se reúnen./ Este norte o este sur son un ojo./ Vivo alrededor de mí mismo”, García Lorca.
+
+El **tiempo** ha corrido en el taller de **Pedro Herrera Ordóñez** (Carchi, 1956). No están más su trípode, **cámaras**, luces y más **utensilios fotográficos**; ahora usa para su arte una computadora y un iPhone con el cual ha empezado a cautivar **paisajes**.
+
+Lo conocí finalizando los setenta del siglo que dejamos. La cabeza y la barba negras, alborotadas, los ojos vivaces del **cazador** que escudriña oscuridades, dedicado a la **fotografía** y al arte plástico. Utilizando las cámaras como su principal instrumento, imprimía sus **fotografías** con “modelos” en lienzo y después las intervenía con **fotomontajes**, _collages_ fotográficos, **ejercicios texturales**, pigmentos, con una cosmovisión surrealista que lo indujo a dedicar su **primera exposición** individual a **André Breton**, patriarca del surrealismo.
+
+**Estampas** oníricas de sus primeros pasos, desbordantes de **símbolos**, con ese **atributo** insólito del inconsciente que brota en aire de sueño y poesía: _Ninfa delirante de los_ _sueños No 1_: una mujer desnuda yace sobre las **inmemoriales** piedras de un **pasillo** conventual, sus brazos abiertos y sus piernas cruzadas como crucificada. Detrás, una **bóveda** que se pierde en un **corredor** inacabable. **Soledades**, ausencias, voces, ecos rondan por esa mujer jesucristina.
+
+**Universo** onírico el suyo, un **elemento** sugiere el otro con el cual aparencialmente no guarda ninguna relación, idéntico a lo que ocurre en el inescrutable cosmos de los **sueños**. Otras piezas singulares de su primer período: un frasco enconchado donde navegaban peces, junto a un reloj **naufragante** que daba las 12 de un tiempo congelado, mientras la noche se refundía entre el agua y el silencio. Alusiones sibilinas de un camino (el del ser humano), **abrumado** por el tiempo, su **inapelable** y corrosiva presencia.
+
+La creación visual de Pedro sigue los **cánones** **surrealistas**, enriquecidos por el **digitalismo**. El **comportamiento** surrealista es intemporal. Breton lo dijo: “Heráclito es **surrealista** en la dialéctica… Baudelaire en la **moral**… Rimbaud en la **práctica** de **vida**, y en otras cosas”. Pedro abre las puertas de los sueños para llegar, junto a su obra, al **automatismo** y para ver, desde él, tal cual es el mundo, bajo la proclama de sentirnos liberados. Esta es su **propuesta cardinal**.
+
+En otra de sus series, Pedro abordó la **clonación**. Una mujer despojada de su **linaje** de hacedora de **vida** es un ente acaso inútil que deambula sin **rumbo**. Está sola y su **vientre** vacío.
+
+Entre sus **ciclos** se consagraron _La **geometría** sagrada_ y su _Eterno retorno_. **Metáfora** del ordenamiento del **universo**, la primera. Aproximación a ese **alfabeto enigmático** que es el prontuario de sistemas, **códigos** y símbolos que subyacen como eviterna fuente de vida de la **materia** y del espíritu. Intento vigoroso de acceder a la _cosmodernidad_. **Ciencia** y **religión** amalgamadas. David Christian, en 2012, patentó el término _cosmodernidad_, con base a la teorización de Fred Spier. La **complejidad** ontológica, a medida que avanzan **ciencia** y **tecnología** a ritmo de vértigo, se acrecienta hasta lo ilímite.
+
+Pedro abreva en libros e **investigaciones** suficientes conocimientos para levantar su **registro visual** de esta corriente. **Energía** que se siente pero no se razona. Fractalidad: sistema de **decodificación** de las **disímiles** formas que se reproducen a **escalas** **progresivas**. Rastreo de lo sagrado, no como propio de lo religioso, sino del ser humano.
+
+ _Eterno retorno_. Caminamos cíclicamente y en espiral ascendente hacia aquello que nombramos destino. A lomo del **viento** vamos dejando huellas de nuestros latidos y sueños, plenitudes y vacíos. Luces obnubilantes y **sombras**. Génesis de todas las formas. **Zonas mistéricas** de la mente que se abren a manotazos a la sobrevida o, si se quiere, a la **inmortalidad** que aún nadie nos ha probado que existe, salvo la fe.
+
+Pedro es un terco **rastreador** de la verdad de su **arte** y de la **vida**. Pocos llevan ese signo. Por eso, a pulso de su **oficio** creador, ha logrado un sitio en nuestras **artes visuales** y su obra sigue exponiéndose en **museos** y **galerías** de nuestra América, Estados Unidos y Europa.
+
+“Lo que la mano ha tomado ni siquiera/ se digna tomar la forma de la mano,/ lo que ha sido comprendido ya no existe,/ el pájaro se ha confundido con el viento,/ el cielo con su verdad,/ el hombre con su realidad”, Paul Éluard.
+
+Cartas a Quito / 24 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este martes 24 de septiembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Hacia una convivencia de progreso
+---------------------------------
+
+La gravísima situación surgida entre el presidente y la vicepresidente del país, abrió una brecha que a medida que pasa el tiempo se agranda, sin visos de solución; de la cual se están aprovechando los enemigos del Gobierno, que también lo son del país, puesto que el normal desgaste de la imagen presidencial estaría ofreciendo pretextos a los de las “manos limpias” para pretender adueñarse del poder, en una clara amenaza al futuro del Ecuador.
+
+Por los hechos que son de conocimiento público, se puede colegir que el binomio que fue escogido por el entonces candidato Noboa para las elecciones presidenciales pasadas, no contaba con las elementales características a la dignidad que aspiraba, ni el deseo de regirse a la condición de subordinada a la presidencia. De manera reiterada, sus acciones rayan en la manida “conspiración a sueldo”. Como resultado, la comunidad ecuatoriana vive la incertidumbre de no saber cuál será el colofón de la situación mencionada y las consecuencias adversas para el país, que de ella se deriven.
+
+Cabe ensayar la posibilidad de que la vicepresidente, ante la delicada y apremiante situación que atraviesa el país (narco delincuencia organizada y sus operadores políticos que, desde la Asamblea, quieren tomarse el poder), en lugar de alinearse con quienes llevaron al país a esta situación, debería ubicarse en el lado correcto, para lo que aún está a tiempo. La ciudadanía se lo reconocería y la beneficiaría con mejores perspectivas para su futuro político.
+
+El tiempo corre y también las expectativas del ciudadano común que desea enfocarse en horizontes de paz y trabajo, que le hagan posible al Ecuador beneficiarse de la transferencia tecnológica y ser parte de acuerdos comerciales internacionales.
+
+Leonardo Cueva Piedra
+
+Inteligencia artificial, una revolución que redefine el futuro del empleo
+=========================================================================
+
+El futuro del trabajo no está escrito, es nuestra oportunidad, como país y como sociedad, de liderar la próxima gran transformación global.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ernesto Kruger, columnista de EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/Ernesto-Kruger.jpg)
+
+Vivimos en una era de **transformación** sin precedentes, y la **tecnología** está en el centro de este cambio. Entre las **innovaciones** más disruptivas, la **inteligencia artificial** (IA) se destaca como el motor que impulsa una nueva **revolución**: la del trabajo autónomo. Desde hace años, el sueño de la **automatización** completa ha capturado nuestra **imaginación**, pero ahora se está materializando a un ritmo acelerado. La IA no solo está optimizando tareas, sino que está modificando radicalmente la **estructura** misma del trabajo.
+
+Pero ¿Qué es el **trabajo autónomo**? Pues  no es una simple extensión del **trabajo remoto** o freelance, es una categoría completamente nueva. Este concepto se refiere a empleos o **actividades económicas** en las que la **intervención humana** se minimiza o se reemplaza por **sistemas inteligentes**. Piense en vehículos autónomos que transportan **mercancías** sin necesidad de un **conductor**, o en **software** de IA que gestiona, ejecuta y optimiza **proyectos** complejos sin que un **ser humano** lo supervise directamente. En muchos sectores, esta realidad ya está aquí o estará en pocos meses impactando en **industrias** tradicionales.
+
+Uno de los ejemplos más impactantes es la **industria** del **transporte**. Hace menos de una década, imaginar un camión completamente autónomo era **ciencia ficción**; hoy es una realidad en varios países, reduciendo no solo los costos de operación, sino también los **riesgos** asociados al **error humano**. Empresas como Tesla, aurora, crisis (GM) zoox (Amazon), Waymo entre otras, lideran esta transición, pero es solo el comienzo.
+
+En otros **sectores**, la IA está comenzando a cambiar las **reglas** del juego. La **medicina** está experimentando **avances** en **diagnósticos automatizados**, donde **algoritmos** de **aprendizaje** profundo detectan enfermedades con mayor precisión y rapidez que los **médicos** humanos. La **agricultura**, a su vez, ha sido transformada por **drones** y **robots** autónomos que supervisan y mantienen grandes campos con una eficiencia jamás vista.
+
+Y surge con la gran cuestión inevitable ¿Qué pasa con los empleos?
+
+Si bien es cierto que algunos **trabajos** serán eliminados por la IA, otros muchos surgirán. El cambio no es tanto una **eliminación**, sino una **transición** hacia nuevas formas de trabajo. Los **profesionales** del **futuro** deberán centrarse en **habilidades creativas**, **estratégicas** y emocionales que la IA no puede replicar. Además, la IA creará nuevos **empleos** en sectores que hoy ni siquiera imaginamos.
+
+Por otro lado, la **revolución** del trabajo autónomo también abre la puerta a un debate profundo sobre la **ética** **laboral**. ¿Hasta qué punto deberíamos depender de las máquinas? ¿Qué **roles** deben seguir siendo exclusivamente humanos? Estos **dilemas** no son menores y necesitarán de una **discusión** colectiva para definir los límites y las **regulaciones** que guíen esta **transición** o que pongan límites, como ya advierten grandes actores como Elon Musk
+
+La **revolución** del **trabajo autónomo** impulsada por la IA no es algo que sucederá en un **futuro** lejano; ya está aquí y está transformando nuestra **sociedad**. Como **innovadores**, **emprendedores** y líderes, tenemos la responsabilidad de guiar este cambio, no solo para maximizar los **beneficios tecnológicos**, sino para asegurar que esta **revolución** genere una sociedad más justa y **equitativa**. La **inteligencia artificial** puede ser el mayor aliado del ser humano, siempre y cuando sea utilizada con **visión**, **ética** y un sentido claro de propósito.
+
+Este es el momento de **actuar**. El **futuro** del trabajo no está escrito, es nuestra **oportunidad**, como **país** y como **sociedad**, de liderar la próxima gran transformación global… ojalá entendamos eso en **Ecuador**.
+
+Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas
+===========================================================================
+
+El embalse de Mazar registró un leve incremento en su nivel, pero sigue siendo insuficiente para que las hidroeléctricas operen con normalidad.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![El embalse de Mazar está en su nivel crítico, este lunes 23 de septiembre llegó a 2 117 metros sobre el nivel del mar. Foto: Ministerio del Ambiente](https://www.elcomercio.com/wp-content/uploads/2024/09/mazar-23-de-sep.jpg)
+
+El embalse de **Maza**r, ubicado entre **Azuay y Cañar**, registró un leve incremento en su cota este 23 de septiembre de 2024, tras **ligeras lluvias** en la zona. Pero, la cantidad de agua no es suficiente para que **tres centrales hidroeléctricas** operen con normalidad y obliga a programar **cortes de luz** en todo el **Ecuador**.
+
+### Más noticias
+
+* [Represa Mazar cambia de estado con las primeras lluvias en el Austro](https://www.elcomercio.com/actualidad/ecuador/represa-mazar-estado-primeras-lluvias-sequia-austro-electricidad-cortes-luz.html "Represa Mazar cambia de estado con las primeras lluvias en el Austro")
+* [¿Por qué cambiaron los horarios de los cortes de luz en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-mazar-ministerio-energia.html "¿Por qué cambiaron los horarios de los cortes de luz en Ecuador?")
+* [Este es el cronograma de cortes de luz en Quito para el lunes 23 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cronograma-cortes-luz-para-lunes-23-de-septiembre-del-2024.html "Este es el cronograma de cortes de luz en Quito para el lunes 23 de septiembre de 2024")
+
+Según el reporte de la Celec Sur, la **cota de Mazar** se ubicó a 2 117, 11 metros sobre el nivel del mar, este lunes. En las últimas 24 horas, la presa de agua recuperó solo 65 centímetros. Sin embargo, está a 35,89 metros de su nivel máximo.
+
+Asimismo, el caudal de la **cuenca del río Paute** se ubicó este lunes en 51 metros cúbicos por segundo, cuando lo recomendable es que supere los 191 metros cúbicos por segundo.
+
+Según el ministro de Energía, **Antonio Goncalves**, esta presa de agua está en un nivel crítico. El **embalse de Mazar** es uno de los más importantes de Ecuador, ya que este reservorio alimenta el complejo hidroeléctrico de la cuenca del río Paute. La presa de **Mazar** puede almacenar 410 millones de metros cúbicos de agua.
+
+El embalse de Mazar alimenta el complejo hidroeléctrico Paute
+-------------------------------------------------------------
+
+Este complejo hidroeléctrico comprende las centrales de **Mazar, Paute- Molino y Sopladora**, juntas tienen una capacidad de **1 700 megavatios** de potencia. Estas tres hidroeléctricas no generaron ni un solo megavatio (MW) este lunes 23 de septiembre, debido a su bajo nivel de agua.
+
+La razón principal es la falta lluvias a causas de la sequía, que afecta desde hace más de dos meses al Ecuador. Esto obligó a las autoridades a programar **cortes de luz** de hasta 12 horas diarias, en todo el país. [El cronograma de los racionamientos eléctricos van desde este lunes hasta el domingo 29 de septiembre de 2024](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/").
+
+Goncalves explicó que la estrategia es tratar de mantener el nivel del embalse de Mazar para que no llegue a 2 110 metros sobre el **nivel del mar**, que sería una situación mucho más grave. Para hacerlo, solo existen dos formas: que llueva muy fuerte en la zona o bajar el nivel de consumo con los racionamientos eléctricos.
+
+“Cada semana vamos a revisar la **data hidrológica** y la data de los sistemas que está adquiriendo el Ministerio y van entrando a producción en la matriz… Cada semana vamos a rehacer el cronograma de cortes de luz”, señaló Goncalves.
+
+Los horarios de los **cortes de luz semanales** se informará los días viernes y estará publicado en las páginas web de las empresas eléctricas distribuidoras. El objetivo es que la población tome las debidas precauciones.
+
+¿Hasta qué mes habrá cortes de luz?
+-----------------------------------
+
+El ministro **Antonio Goncalves** señaló que no puede adelantar una fecha de cuándo terminarán los cortes de luz, ya que generar lluvias no está en sus manos. Lo único que sí es cierto es que la **sequía** se adelantó este año en **Ecuador** dos meses, dijo. Por lo general va de octubre a marzo, pero este 2024 empezó en julio.
+
+Para **José Alvear Campodónico**, analista del sector eléctrico, los cortes de luz podrían llegar hasta marzo de 2025, y que en noviembre la situación hidráulica podría ser mucho más grave.
+
+“Los **cortes de luz**, lamentablemente, no hay nada ni nadie que los pueda evitar. Van a llegar hasta el final del estiaje, que supuestamente se acaba en el mes de marzo. No es cuestión de que llueva en Quito, debe llover en la zona austral del país, donde está Mazar y todas las hidroeléctricas más importantes”, dijo.
+
+Además, agregó que “hay que decirle la verdad al país, hay que decirle que esto no se va a subsanar. No hay que venir a mentirle al país. Los apagones están quebrando la economía del país, no solo a nivel micro, sino a nivel macro”.
+
+Asimismo, señaló que, en este momento, la solución más rápida es continuar comprando energía, como barcazas y generación en tierra, y que venga lo antes posible porque no hay nada que hacer a corto plazo.
+
+Tramo de la av. Mariscal Sucre será intervenido por más de 30 días
+==================================================================
+
+La Epmmop detalló los horarios de trabajo y las rutas alternas ante los cierres viales programados.
+---------------------------------------------------------------------------------------------------
+
+![Los trabajos sobre la av. Mariscal Sucre tendrán horarios extendidos](https://www.elcomercio.com/wp-content/uploads/2024/09/av-sucre.jpg)
+
+La Empresa Metropolitana de Movilidad y Obras Públicas de Quito (**Epmmop**) inició la rehabilitación de la **av. Mariscal Sucre** en el sector de los **Dos Puentes**, en el centro de la ciudad, este lunes 23 de septiembre de 2024.
+
+Por los trabajos en este tramo se realizarán **cierres viales** desde la calle **Cayetano Cestaris** hasta la calle **Francisco Barba**.
+
+### Más noticias
+
+* [Horarios de los cortes de agua en Quito este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-martes-24-septiembre-horarios.html "Horarios de los cortes de agua en Quito este martes 24 de septiembre")
+* [Horarios de cortes de luz en Quito, este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/horarios-cortes-luz-quito-martes-24-septiembre.html "Horarios de cortes de luz en Quito, este martes 24 de septiembre")
+* [Cortes de luz en Quito empeoran el tránsito por semáforos apagados](https://www.elcomercio.com/actualidad/quito/cortes-luz-semaforos-quito-apagados.html "Cortes de luz en Quito empeoran el tránsito por semáforos apagados")
+
+En el lugar se remplazarán secciones de **hormigón** en mal estado.
+
+Los horarios de trabajo en sentido norte-sur serán en la mañana y en la noche. En la primera franja horaria las obras se ejecutarán de **07:00 a 15:30**; mientras que más tarde serán de **22:00** a **04:00**.
+
+En el horario de la mañana, la vía estará habilitada en un solo carril con preferencia al transporte público. Para la noche, **ambos carriles** se cerrarán.
+
+El mantenimiento tiene un tiempo estimado de **35 días** y una inversión que supera los **106 000 dólares**.
+
+Se recomienda a los conductores que se movilicen por el lugar toma como **rutas alternas** las calles Cayetano Cestaris, 5 de Junio o la av. Jaime del Castillo.
+
+La entidad informó que en las jornadas nocturnas, mientras duren los apagones, se utilizarán **generadores** de energía eléctrica.
+
+> 🔻[#MantenimientoVial](https://twitter.com/hashtag/MantenimientoVial?src=hash&ref_src=twsrc%5Etfw) | Desde hoy cierres viales en la [#AvMariscalSucre](https://twitter.com/hashtag/AvMariscalSucre?src=hash&ref_src=twsrc%5Etfw)🔻  
+> Intervención desde Cestaris hasta Francisco Barba:  
+>   
+> ✅ De 22h00 a 04h00-cierre ambos carriles  
+> ✅ De 07h00 a 15h30-un carril habilitado  
+>   
+> Más cierres 👉[https://t.co/4l4Tpl5xqh](https://t.co/4l4Tpl5xqh)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/uO6bxAIPNt](https://t.co/uO6bxAIPNt)
+> 
+> — Obras Quito (@ObrasQuito) [September 24, 2024](https://twitter.com/ObrasQuito/status/1838379492693123147?ref_src=twsrc%5Etfw)
+
+Cierre vial en Cumbayá
+----------------------
+
+En Cumbayá también se realizará un cierre vial por **mantenimientos**.
+
+En este sector, la **calle Valdivia** recibirá una rehabilitación completa.
+
+Los trabajos se harán desde la calle Huancavilca hasta Los Tilos, cubriendo **639 metros**.
+
+La rehabilitación vial beneficiará a los vecinos de la Primavera II, Lumbisí y Pinsha.
+
+Al tratarse de una intervención integral, se necesitarán **60 días** para concluir la obra en su totalidad, señaló la Epmmop.
+
+Durante este tiempo, se recomienda usar la **av. Alfonso Lamiña** como ruta alterna.
+
+Los trabajos se realizarán en jornadas extendidas, de 07h00 a 18h00, incluidos fines de semana y feriados.
+
+Dos nuevas paradas de la Ecovía cerrarán por 30 días
+====================================================
+
+Las paradas del servicio de transporte Ecovía y su carril exclusivo son intervenidas por el Municipio de Quito.
+---------------------------------------------------------------------------------------------------------------
+
+![Los trabajos en las estaciones de la Ecovía incluyen la remodelación completa de las infraestructuras](https://www.elcomercio.com/wp-content/uploads/2024/09/parada-ecovia.jpg)
+
+La **Empresa de Pasajeros Quito** informó que dos nuevas paradas del servicio Ecovía se cerrarán por **30 días**, a partir de este miércoles 25 de septiembre de 2024.
+
+En las estaciones se realizarán trabajos de **adecuación y mantenimiento**, como parte del proyecto de readecuación integral que realiza el Municipio.
+
+### Más noticias
+
+* [Horarios de los cortes de agua en Quito este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-martes-24-septiembre-horarios.html "Horarios de los cortes de agua en Quito este martes 24 de septiembre")
+* [Horarios de cortes de luz en Quito, este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/horarios-cortes-luz-quito-martes-24-septiembre.html "Horarios de cortes de luz en Quito, este martes 24 de septiembre")
+* [Cortes de luz en Quito empeoran el tránsito por semáforos apagados](https://www.elcomercio.com/actualidad/quito/cortes-luz-semaforos-quito-apagados.html "Cortes de luz en Quito empeoran el tránsito por semáforos apagados")
+
+Paradas intervenidas
+--------------------
+
+Las paradas intervenidas son **Pacarillacta y Ayapamba**, ambas ubicadas en el sur de Quito.
+
+Los ciudadanos pueden utilizar, mientras se realizan los trabajos, las paradas cercanas a estas estaciones.
+
+En el caso de Pacarillacta se encuentran habilitadas **El Capulí** y **Puente de Guajaló**.
+
+Mientras que para la parada Ayapamba, los puntos más cercanos son las paradas **San Cristóbal** y **El Comercio**.
+
+En las próximas semanas el cronograma de trabajos comprende la intervención de las estaciones: San Cristóbal, Quillallacta, Pujilí y Estadio de Chimbacalle.
+
+Los mantenimientos incluyen: **cambio de cubiertas**, reposición de vidrios, pavimentos nuevos, accesibilidad, piso podo táctil, mobiliario urbano, instalaciones eléctricas y electrónicas, señalética, entre otras obras.
+
+> 🚎[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | Dos paradas de la [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) se cierran desde el 25 de septiembre, por trabajos de repotenciación.  
+>   
+> Más información aquí 👉[https://t.co/7bGF8nXjlB](https://t.co/7bGF8nXjlB)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/MSP4UauJJJ](https://t.co/MSP4UauJJJ)
+> 
+> — Empresa de Pasajeros Quito (@TransporteQuito) [September 24, 2024](https://twitter.com/TransporteQuito/status/1838407199434944632?ref_src=twsrc%5Etfw)
+
+Rehabilitación del carril exclusivo de la Ecovía
+------------------------------------------------
+
+El Municipio de Quito trabaja en la rehabilitación de **9 km del carril** **exclusivo** de la Ecovía.
+
+El tramo que intervenido comprende entre desde la estación **Río Coca** hasta el **playón de La Marín**.
+
+Esta obra tiene un monto total de inversión que supera los cuatro millones de dólares y beneficiará a **179 000 usuarios** que diariamente utilizan el transporte municipal.
+
+Los trabajos incluyen fresado, rotura de pavimento, excavación, construcción de sumideros, relleno de superficie, bordillos de hormigón, geomalla estructural, pavimento rígido de hormigón y señalización horizontal.
+
+Desde el miércoles 11 de septiembre, los trabajos se realizan la Av. Naciones Unidas hasta la calle Ignacio Bossano (parada Bellavista). Por ello se mantiene cerrada la parada Benalcázar.
+
+La obra en este tramo durará 25 días; mientras las paradas **Eloy Alfaro y Bellavista** se mantendrán abiertas.
+
+  
+
+  
+
+Horarios de cortes de luz en Cuenca, este martes 24 de septiembre
+=================================================================
+
+La mayoría de cortes de luz en Cuenca duran cinco horas, para este martes 24 de septiembre de 2024.
+---------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca los establece la empresa Centro Sur.](https://www.elcomercio.com/wp-content/uploads/2024/06/Gobierno-anuncia-cortes-de-luz.jpg)
+
+Los **cortes de luz** en **Cuenca** y el resto del país seguirán este **martes 24 de septiembre de 2024**.
+
+Empresa Eléctrica Regional Centro Sur estableció la programación de cortes del servicio de energía eléctrica para la capital de Azuay.
+
+### Más noticias:
+
+* [Horarios de cortes de luz en Quito, este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/horarios-cortes-luz-quito-martes-24-septiembre.html "Horarios de cortes de luz en Quito, este martes 24 de septiembre")
+* [Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre](https://www.elcomercio.com/actualidad/ecuador/guayaquil-cortes-de-luz-martes-24-septiembre.html "Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre")
+
+Los cortes de luz programados son una medida tomada por el Gobierno de Daniel Noboa frente a los más de 70 días de estiaje.
+
+La falta de lluvias es una de las causas de la actual crisis energética que atraviesa el país.
+
+Las autoridades gubernamentales señalaron que se reunirán cada jueves para evaluar la situación hidroeléctrica.
+
+Esto servirá para que, el viernes de cada semana, se conozca los horarios de la suspensión del servicio de energía eléctrica en todo el país.
+
+Horarios de cortes de luz en Cuenca, este martes 24 de septiembre
+-----------------------------------------------------------------
+
+La mayoría de cortes de luz en Cuenca serán de cinco horas.
+
+Los horarios son: de 00:00 a 05:00, de 05:00 a 10:00, de 10:00 a 15:00, de 15:00 a 20:00 y de 20:00 a 00:00.
+
+Trece zonas de Cuenca tendrán el corte de luz de 00:00 a 05:00, entre estas están el Parque Industrial y Quinta Chica.
+
+Un total de 18 zonas no tendrán servicio de energía eléctrica de 05:00 a 10:00, entre esta están la Universidad de Cuenca y Cebollar.
+
+De 10:00 a 15:00, 19 zonas no contarán con el servicio, entre las que están la Quebrada de Turi, Bellavista y el Parque Calderón.
+
+De 15:00 a 20:00, 18 zonas tendrán el corte de luz, entre estas están Molleturo y Remigio Crespo.
+
+Finalmente, de 20:00 a 00:00, 15 zonas de cuenta no tendrán luz eléctrica, Cuatro Esquinas y Unidad Nacional son dos de estas.
+
+Los horarios de la suspensión del servicio eléctrico están sujetos a variabilidad o mejora de la situación en tiempo real.
+
+Por esta razón, el lapso de tiempo de los cortes energéticos podría disminuir, aclara en su cronograma Centro Sur.
+
+(Video) Damián ‘Kitu’ Díaz sufrió una dura lesión y abandonó la cancha con Banfield
+===================================================================================
+
+Una terrible lesión aquejó a Damián Díaz en el partido entre Banfield y Central Córdoba por la Superliga Argentina.
+-------------------------------------------------------------------------------------------------------------------
+
+![Damián 'Kitu' Díaz en el partido de Banfield ante Central Córdoba.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-23T215035.713.jpg)
+
+Con las manos en el rostro y asistido por el carro deportivo para traslado de jugadores, **Damián ‘Kitu’ Díaz** abandonó el gramado del estadio Florencio Sola. El jugador sufrió una drástica lesión en el partido entre **Banfield**, su equipo, y **Central Córdoba** en la Superliga Argentina.
+
+A partir de su llegada al ‘Taladro’ tras abandonar **Barcelona SC**, el ‘Kitu’ no había decepcionado. En sus tres compromisos previos, el argentino nacionalizado ecuatoriano fue una de las figuras del equipo y había marcado un golazo de tiro libre en la fecha pasada ante **Barracas Central.**
+
+### Más noticias:
+
+* [Damian ‘Kitu’ Díaz encontró nuevo equipo tras Barcelona SC](https://www.elcomercio.com/deportes/damian-kitu-diaz-nuevo-equipo-barcelona-banfield.html "Damian ‘Kitu’ Díaz encontró nuevo equipo tras Barcelona SC")
+* [Damián Díaz marcó un golazo de tiro libre con Banfield](https://www.elcomercio.com/deportes/futbol/damian-diaz-gol-banfield-argentina.html "Damián Díaz marcó un golazo de tiro libre con Banfield")
+* [Damián Díaz felicitó y agradeció a la hinchada de Barcelona SC](https://www.elcomercio.com/deportes/futbol/damian-diaz-felicito-y-agradecio-a-la-hinchada-de-barcelona-sc.html "Damián Díaz felicitó y agradeció a la hinchada de Barcelona SC")
+
+Para el choque de **Banfield** ante el **Central Córdoba**, el volante formó parte de la alineación titular. Estaba por acabar el primer tiempo cuando ocurrió el desafortunado incidente que lo obligó a salir del compromiso[.](https://es.wikipedia.org/wiki/Dami%C3%A1n_D%C3%ADaz "https://es.wikipedia.org/wiki/Dami%C3%A1n_D%C3%ADaz")
+
+Ya corrían los descuentos de la primera mitad y Díaz se lanzó a presionar a sus rivales. Al momento en que uno de estos rechazó un balón y el ‘**Kitu**‘ intentó bloquearlo, su lesión se produjo sin interferencia del rival.
+
+¿Cómo fue la lesión de Damián ‘Kitu’ Díaz?
+------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DASIEV2P_oa/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DASIEV2P_oa/?utm_source=ig_embed&utm_campaign=loading)
+
+Al momento en el cual realizó la acción para bloquear la salida de su rival, el **botín de su pie izquierdo** se clavó en la cancha. Cuando cayó y tuvo su envión hacia adelante debido al acto, su tobillo se dobló hacia un costado tras el impulso de su pierna.
+
+Una vez que ocurrió la acción, **Damián Díaz** ya no pudo incorporarse. Este permaneció en el césped del Florencio Sola mientras se tomaba la extremidad y sus compañeros lo acompañaba. El cuerpo médico actuó inmediatamente e ingresó para atender al ‘Kitu’.
+
+Después de revisar al futbolista, este abandonó la cancha. **Mathiás González** fue el encargado de reemplazarlo. El estado del exjugador de Barcelona SC aún no se ha confirmado.
+
+¿Cómo quedó Banfield sin el ‘Kitu’?
+-----------------------------------
+
+Para el momento en el cual se produjo la lesión de **Damián Díaz**, Banfield ya contaba con un resultado parcial de 1-0 sobre sus rivales. **Ezequiel Cañet**e había puesto el primer tanto el marcador a los 41 minutos.
+
+En el segundo tiempo, el marcador favorable al ‘Taladro’ se aumentó. A los 60′, **Mathías de Ritis** apareció para poner el gol definitivo de la escuadra de Lanús.
+
+La segunda victoria al hilo de **Banfield** lo catapulta hacia el puesto 22 de 28 de la Superliga Argentina. En la siguiente fecha, San Lorenzo de Almagro recibirá su visita en el Nuevo Gasómetro.
+
+Primer día de juicio contra Danilo Carrera incluyó nueve testimonios
+====================================================================
+
+Fiscalía presentó pruebas que vincularían al cuñado del expresidente Guillermo Lasso a una posible red de corrupción.
+---------------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Encuentro en el Complejo Judicial Norte.](https://www.elcomercio.com/wp-content/uploads/2024/09/fiscalia.png)
+
+El juicio por la presunta trama de corrupción que habría liderado **Danilo Carrera**, cuñado del expresidente **Guillermo Lasso**, se inició este lunes 23 de septiembre de 2024.
+
+En el primer día, **Fiscalía presentó su alegato** a través de nueve testimonios y los informes presentados por dos peritos.
+
+### Más noticias
+
+* [Diana Salazar estuvo presente en la audiencia del caso Purga](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-en-audiencia-caso-purga.html "Diana Salazar estuvo presente en la audiencia del caso Purga")
+* [Rafael Correa y Viviana Veloz aparecen en testimonio anticipado del caso Plaga](https://www.elcomercio.com/actualidad/seguridad/viviana-veloz-rafael-correa-aparecen-testimonio-caso-plaga.html "Rafael Correa y Viviana Veloz aparecen en testimonio anticipado del caso Plaga")
+* [Guillermo Lasso es mencionado en testimonio anticipado del caso Plaga](https://www.elcomercio.com/actualidad/seguridad/caso-plaga-recibio-quinta-audiencia-testimonio-anticipado.html "Guillermo Lasso es mencionado en testimonio anticipado del caso Plaga")
+
+El denominado caso Encuentro también investiga a **Antonio I.** por su presunta participación.
+
+> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) presentó su alegato de apertura contra los procesados por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/ARsntXEwwy](https://t.co/ARsntXEwwy)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 23, 2024](https://twitter.com/FiscaliaEcuador/status/1838248828933198033?ref_src=twsrc%5Etfw)
+
+Esta investigación impulsó la salida anticipada de Lasso del poder, al motivar un **juicio político** de censura en su contra en la **Asamblea Nacional**, de mayoría opositora.
+
+Así funcionaba la presunta red de corrupción
+--------------------------------------------
+
+Según Fiscalía, entre 2021 y 2023, Carrera y su amigo **Rubén Chérres** encabezaron una presunta red de corrupción.
+
+La entidad sostiene que Chérres estaba vinculado al líder de la **mafia albanesa en Ecuador**, **Dritan Gjika**.
+
+El proceso penal en su contra se extinguió tras su asesinato en marzo de 2023.
+
+Según lo presentado por Fiscalía, Carrera, con la ayuda de **Hernán L.**, habría designado a Antonio Icaza como gerente de la **Corporación Nacional de Electricidad (CNEL)** para direccionar contratos en el sector eléctrico.
+
+Actualmente, Luque se encuentra detenido en Argentina; su extradición está pendiente.
+
+Los presuntos líderes de la organización habrían operado en otras empresas públicas, como **BanEcuador** y el **Servicio Nacional de Aduanas**, colocando personas cercanas en puestos directivos para conseguir contratos, afirmó Fiscalía.
+
+Testigos del caso
+-----------------
+
+Entre los testigos estuvieron el policía **Alexander S.**. El oficial fue quien presentó el informe que contenía los audios de las conversaciones entre Danilo Carrera y los demás procesados.
+
+También habló **Fernando B.**, uniformado que realizó las pericias a los teléfonos de los involucrados; y **Víctor A.**, un oficial que habría tenido un ascenso irregular. Este último servidor afirmó que se reunió dos veces con Carrera y Cherres.
+
+Además, se entregaron reportes de **Verenice C.**, funcionaria de un banco que informó sobre los movimientos de Carrera y del Servicio de Rentas Internas (SRI), que entregó los movimientos tributarios.
+
+No se conectaron a la reunión telemática los testigos **Ricardo Vanegas y Andersson Boscán**.
+
+La audiencia concluyó pasadas las **19:00** de este lunes y se retomará a las 09:30 de este martes 24 de septiembre.
+
+> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw): Tribunal suspende la audiencia de juicio. En este primer día, [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) convocó a 9 testigos y 2 peritos. La diligencia se reinstalará mañana a las 09:30. [pic.twitter.com/zkkB1CqTaR](https://t.co/zkkB1CqTaR)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 24, 2024](https://twitter.com/FiscaliaEcuador/status/1838369234298040572?ref_src=twsrc%5Etfw)
+
+Carrera niega los cargos en su contra
+-------------------------------------
+
+Carrera, que también fue directivo de un banco y presidente del **Comité Olímpico Ecuatoriano (COE)**, niega los cargos, alegando que la **Fiscalía no tiene pruebas concretas**. Debido a su edad, más de 65 años, Carrera cumple arresto domiciliario en lugar de prisión preventiva.
+
+El caso, inicialmente llamado **‘Gran Padrino’** por el medio La Posta, fue rebautizado por la Fiscalía como ‘Encuentro’, coincidiendo con el lema de la administración de Lasso.
+
+Antes de que se celebrara la votación final del juicio político, Lasso recurrió a la **muerte cruzada**. Posterior a esto se disolvió la Asamblea y convocaron a elecciones extraordinarias, donde Daniel Noboa resultó electo presidente.
+
+CNE aplaza tratamiento de proceso de revocatoria de Pabel Muñoz
+===============================================================
+
+El CNE se reunió este lunes 23 de septiembre para tratar el tema de la revocatoria del mandato del alcalde de Quito, Pabel Muñoz.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![El alcalde de Quito, Pabel Muñoz, enfrenta una revocatoria de mandato.](https://www.elcomercio.com/wp-content/uploads/2024/09/revocatoria-mandato-pabel-munoz-alcalde-de-Quito.jpg)
+
+El Consejo Nacional Electoral del Ecuador (CNE) aplazó el tratamiento del proceso de revocatoria del alcalde de Quito, **Pabel** **Muñoz**, este lunes 23 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Pabel_Mu%C3%B1oz "https://es.wikipedia.org/wiki/Pabel_Mu%C3%B1oz")
+
+Más noticias
+------------
+
+* [Pabel Muñoz enfrenta una revocatoria, ¿qué escenarios tiene?](https://www.elcomercio.com/actualidad/quito/pabel-munoz-enfrenta-revocatoria-escenarios.html "Pabel Muñoz enfrenta una revocatoria, ¿qué escenarios tiene?")
+* [Pabel Muñoz con pedido de revocatoria del mandato en curso](https://www.elcomercio.com/actualidad/quito/pabel-munoz-pedido-revocatoria-mandato-curso.html "Pabel Muñoz con pedido de revocatoria del mandato en curso")
+* [Pabel Muñoz: ‘los vehículos no se compraron a los concejales sino al Municipio’](https://www.elcomercio.com/actualidad/quito/pabel-munoz-compra-vehiculos-municipio.html "Pabel Muñoz: ‘los vehículos no se compraron a los concejales sino al Municipio’")
+
+Néstor Marroquín es quien impulsa la revocatoria de mandato del alcalde de Quito, Pabel Muñoz.
+
+¿Por qué se suspendió la entrega de formularios para revocar a Pabel Muñoz?
+---------------------------------------------------------------------------
+
+Durante una reunión telemática, **Diana** **Atamaint**, presidenta del CNE, y los consejeros Esthela Acero y José Cabrera votaron a favor de aplazar el tratamiento del proceso de revocatoria de Muñoz. Solo Elena Nájera se abstuvo de la votación.
+
+La decisión se basó en una recomendación del área jurídica del **CNE**, que sugirió aplazar el análisis para entregar de los documentos debido a un recurso pendiente en el Tribunal Contencioso Electoral (**TCE**), el cual aún no ha sido resuelto.
+
+¿Qué dijo Néstor Marroquín, proponente de la revocatoria de Pabel Muñoz?
+------------------------------------------------------------------------
+
+**Néstor** **Marroquín**, quien impulsó el proceso de revocatoria del mandato de **Pabel** **Muñoz**, reconoció que existe un recurso pendiente que él mismo interpuso cuando la **Delegación** **Electoral** de **Pichincha** negó el inicio del proceso contra el alcalde.
+
+Sin embargo, **Marroquín** expresó que el **CNE** no debía suspender los plazos para la entrega de los formularios, ya que la misma delegación revisó la decisión y notificó a **Pabel** **Muñoz** sobre el inicio del trámite.
+
+Finalmente, comentó que si ese es “el problema y el argumento para dar largas”, desistirá del recurso presentado ante el TCE el 24 de septiembre.
+
+Los escenarios de Pabel Muñoz ante pedido de revocatoria
+--------------------------------------------------------
+
+El alcalde de Quito, **Pabel Muñoz**, enfrenta un posible proceso de **revocatoria de su mandato**. La situación se ha agravado desde que Muñoz fue notificado sobre la solicitud presentada por **Néstor Marroquín**.
+
+Marroquín alega que [Pabel Muñoz](https://es.wikipedia.org/wiki/Pabel_Mu%C3%B1oz "https://es.wikipedia.org/wiki/Pabel_Mu%C3%B1oz") violó la Ley Electoral al involucrarse en la campaña presidencial de Luisa González mientras ocupaba el cargo de alcalde. Además, Marroquín alega falta de obras y capacidad administrativa, lo que justifica su pedido de revocatoria.
+
+La **Delegación del Consejo Nacional Electoral (CNE) de Pichincha** confirmó el pasado 26 de agosto que la solicitud fue aceptada a trámite. Muñoz tenía un plazo de **siete días para responder**. Luego de esto, el CNE tendrá un término de siete días para **admitir o negar la solicitud de revocatoria** presentada.
+
+Este organismo decidirá si da paso o no al **proceso de revocatoria**, un escenario que podría llevar a Quito a un cambio en su **administración municipal**.
+
+Productores advierten posible incremento de precios por escasez de maíz
+=======================================================================
+
+Representantes del sector avícola y ganadero alertaron un posible aumento en el precio de los huevos y carne de pollo y cerdo.
+------------------------------------------------------------------------------------------------------------------------------
+
+![El Gobierno analizará la importación de 300 000 toneladas de maíz en octubre](https://www.elcomercio.com/wp-content/uploads/2024/09/aves-precios.jpg)
+
+Representantes del **sector avícola y ganadero** reiteraron su preocupación por la **crisis del maíz** que enfrenta Ecuador.
+
+Durante una rueda de prensa realizada este lunes 23 de septiembre de 2024, los productores de pollo, huevos y cerdos alertaron de las consecuencias que se tendría si no se **importa** con urgencia maíz duro.
+
+### Más noticias
+
+* [La crisis del maíz impacta en la producción de huevos, pollo y cerdos en Ecuador](https://www.elcomercio.com/actualidad/negocios/la-crisis-del-maiz-impacta-en-la-produccion-de-huevos-pollo-y-cerdos-en-ecuador.html "La crisis del maíz impacta en la producción de huevos, pollo y cerdos en Ecuador")
+* [Economía ecuatoriana no solo depende de capitales externos](https://www.elcomercio.com/opinion/editorial/economia-ecuatoriana-solo-depende-capitales-externos.html "Economía ecuatoriana no solo depende de capitales externos")
+* [Los créditos de consumo siguen al alza en Ecuador; ¿benefician a la economía?](https://www.elcomercio.com/actualidad/negocios/los-creditos-de-consumo-siguen-al-alza-en-un-entorno-economico-mas-desafiante-en-ecuador.html "Los créditos de consumo siguen al alza en Ecuador; ¿benefician a la economía?")
+
+**Jorge Josse**, director ejecutivo de la Asociación de Balanceadores (**Aprobal**) explicó el déficit que tiene el sector.
+
+Por año, el país cubre una demanda superior a los **1,5 millones de toneladas** de maíz, sin embargo, para este 2024, las previsiones apuntan que las cosechas cubrirán solo un **millón**.
+
+De estas **560 000 toneladas restantes**, 250 000 toneladas lograrán ser cubiertas con otras medidas, por lo que Ecuador deberá importar al menos **300 000 toneladas** hasta abril de 2025.
+
+Esta problemática es general, no obstante, cuatro provincias se han visto más afectadas: Manabí, Los Ríos, Guayas y Loja.
+
+Importación de maíz es urgente
+------------------------------
+
+**Josse** afirmó que la importación del grano es urgente debido a los dos meses y medio que demora en llegar.
+
+De no hacerlo a tiempo, la cosecha nacional disponible no cubrirá las necesidades del país.
+
+La problemática es importante, puesto que el 60 % del maíz se destina a la **producción avícola**, representando alrededor 936 000 toneladas anuales.
+
+“Los productores de huevos están vendiendo sus gallinas para carne, ya que no consiguen maíz para alimentarlas”, explicó Jorge Josse.
+
+Las reservas alcanzarían hasta **diciembre** de este año.
+
+La deficiencia del grano también afecta a los productores de pollos y cerdos, quienes han decidido dejar de invertir en **nuevos lotes de engorde**, afectando la producción futura.
+
+Las fábricas de alimentos balanceados también redujeron su producción por la crisis en la que está el maíz.
+
+Productos aumentarían su precio
+-------------------------------
+
+De forma directa, la falta de abastecimiento de maíz traería graves problemas en la crianza de las más de 15 millones de gallinas ponedoras que hay en el país. Estas ponen unos **14 millones de huevos diarios**.
+
+Si no se logra alimentarlas, la producción de huevos bajaría considerablemente, lo que elevaría los precios de la cubeta.
+
+**Marisol Molina**, representante de la Unión de Productores de Huevos (Uniproh), organización que cubre el 85 % de la demanda local, advirtió que el abastecimiento podría verse reducido en un mes.
+
+La productora manifestó que de continuar la problemática, la cubeta podría alcanzar los **5 dólares**; el valor actual en el mercado es de **3,20 dólares**.
+
+Incluso, sugirió que los precios podrían llegar a ser “exorbitantes”, de hasta 10 dólares por cubeta.
+
+Otros cárnicos como **pollos y cerdos** también tendrían un **incremento** en el precio de venta de sus productos.
+
+Uno de los detonantes es el elevado precio del **quintal** del maíz. Según los avicultores, están pagando hasta **22 dólares** por el grano, cuando el precio de sustentación por quintal de maíz amarillo duro es de **16,50 dólares**.
+
+Para controlar la situación, el Ministerio dice que realizan operativos para evitar la **especulación** y se mantienen conversaciones con productores para asegurar precios justos.
+
+Sequía afectó la escasez de maíz
+--------------------------------
+
+Según informaron los productores avícolas y ganadores, la crisis del maíz tiene **varias causas**; entre ellas: la reducción de áreas de siembra, la **sequía** y los cortes de luz.
+
+Las estadísticas reflejan que en el país los suelos de maíz se redujeron en un **23 %**; principalmente porque se los ha destinado a la **siembra de cacao**.
+
+Los **73 días** sin lluvias considerables también afectó la producción adecuada del grano.
+
+El Ministro de Agricultura informó que se han perdido **7 700 hectáreas** por las condiciones climáticas adversas.
+
+Evaluación de importación se realizará en Octubre
+-------------------------------------------------
+
+Al pedido de la Aprobal se sumaron otras organizaciones de productores como la Uniproh, la de avicultores (**Conave**), de productores pecuarios (**Fedavie**), de porcicultores (**ASPE**) y de alimentos balanceados (**Afaba**).
+
+El Ministerio de Agricultura y Ganadería (**MAG**) respondió que se evaluará la posibilidad de importar el maíz duro amarillo en octubre.
+
+Esta decisión se basará en un análisis del balance entre **oferta y demanda**, que considera los rendimientos de la cosecha.
+
+Si se determina un déficit de producción local, se podrá autorizar la importación, aunque se priorizará el consumo del **maíz nacional**, dijo la cartera de Estado.
+
+En diciembre del 2023 se autorizó la importación de **91 566 toneladas**.
+
+  
+
+Horarios de los cortes de agua en Quito este martes 24 de septiembre
+====================================================================
+
+Cerca de 60 barrios de Quito tendrán cortes de agua este martes, en dos horarios de 12 horas cada uno.
+------------------------------------------------------------------------------------------------------
+
+![Los cortes de agua en Quito son de 12 horas para los barrios afectados.](https://www.elcomercio.com/wp-content/uploads/2023/01/agua-2.jpg)
+
+Los **cortes de agua** en **Quito** continúan este **martes 24 de septiembre de 2024**[.](https://es.wikipedia.org/wiki/Quito)
+
+El cronograma de la **Empresa Municipal de Agua Potable de Quito (Epmaps)** contempla racionamientos del líquido vital hasta el lunes 30 de septiembre.
+
+### Más noticias:
+
+* [Horarios de cortes de luz en Quito, este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/horarios-cortes-luz-quito-martes-24-septiembre.html "Horarios de cortes de luz en Quito, este martes 24 de septiembre")
+* [Cortes de luz dependen de las lluvias, según el Ministro de Energía](https://www.elcomercio.com/actualidad/negocios/ministro-gobierno-cortes-luz-ecuador-lluvia.html "Cortes de luz dependen de las lluvias, según el Ministro de Energía")
+
+La Epmaps justificó los cortes de agua por los más de 40 días consecutivo de ausencia de lluvias y las altas temperaturas.
+
+Las zonas afectadas son las del centro y sur de la ciudad, abastecidas por la **Planta de Tratamiento de Agua Potable de Puengasí.**
+
+Horarios de los cortes de agua en Quito este martes 24 de septiembre
+--------------------------------------------------------------------
+
+La Empresa señaló que esta es una decisión técnica que permite distribuir el agua disponible de forma equitativa hacia los sectores afectados por el clima.
+
+Cerca de 60 barrios de Quito no tendrán agua potable este martes 24 de septiembre, en dos horarios, de 12 horas cada uno.
+
+El primer horario va de 07:00 a 19:00 y el segundo horario va desde las 19:00 hasta las 07:00 del siguiente día.
+
+**Los barrios que no tendrán agua de 07:00 a 19:00 son:**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-18.png)
+
+**Los barrios que no tendrán agua de 19:00 a 07:00 del siguiente día son:**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-19.png)
+
+La Empresa llama a la ciudadanía al uso responsable de este recurso.
+
 El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro
 ===========================================================
 
@@ -56,7 +659,7 @@ En buen momento y en tal posición, el plantel del interior se ubica por encima 
 Un rendimiento excepcional para Mushuc Runa y Ever Hugo Almeida
 ---------------------------------------------------------------
 
-En los siete partidos que ha disputado en la segunda etapa, **Ever Hugo Almeida** ha triunfado en cuatro y empatado en dos. La única derrota que sufrió se llevó a cabo frente a **Universidad Católica**, contra quien sufrió una goleada de 4-1.
+En los siete partidos que ha disputado en la segunda etapa, **Ever Hugo Almeida** ha triunfado en cuatro y empatado en dos. La única derrota que sufrió se llevó a cabo frente a **Universidad Católica**, contra quien sufrió una goleada de 5-1.
 
 Pese a aquel tropezón ante los camarattas, los números del ‘Ponchito’ avalan su posición, pues ha vencido a **Emelec, Imbabura, Aucas y Orense**. Aunque la escuadra lucía favorita ante **Cumbayá y Libertad**, contra tales clubes se llevó un empate.
 
@@ -69,7 +672,7 @@ El entrenador uruguayo nacionalizado paraguayo, y multicampeón de América como
 
 En sus próximos cotejos en la Liga Pro, **Mushuc Runa** tendrá posibilidades y enfrentará retos para mantener su posición, aspirar a subir o entrar a un torneo internacional. En su siguiente choque, la escuadra se medirá a **Técnico Universitario**, como visitante, sin embargo, también le restan rivales directos.
 
-Tras el ‘Rodillo Rojo’, los rivales serán Deportivo Cuenca, Liga de Quito, Macará, Mushuc Runa, El Nacional y Barcelona.
+Tras el ‘Rodillo Rojo’, los rivales serán Deportivo Cuenca, Liga de Quito, Macará, Delfín, El Nacional y Barcelona.
 
 Estos son los países con mejor calidad de vida
 ==============================================
@@ -380,703 +983,3 @@ Los fans señalan la relación del rapero con otras estrellas jóvenes, como **U
 Entre 1999 y 2001, Diddy mantuvo una **relación con Jennifer Lopez**. Este romance terminó tras rumores de infidelidad por parte de Diddy, lo que provocó una crisis emocional en JLo, declaró en 2003.
 
 Ambos también estuvieron involucrados en un tiroteo en Nueva York, donde tres personas resultaron heridas. Aunque López fue liberada sin cargos, Diddy se enfrentó a un juicio por porte de armas, pero fue declarado inocente. Su compañero, el rapero Shyne, no tuvo la misma suerte y fue condenado a 10 años de prisión.
-
-Jorge Guzmán, el equipo familiar que domina la Liga Básquet Pro
-===============================================================
-
-Jorge Guzmán se apresta a jugar su segunda final en la Liga Básquet Pro de Ecuador en sus tres años de creación.
-----------------------------------------------------------------------------------------------------------------
-
-![Christian Alaekwe es uno de los refuerzos extranjeros de Jorge Guzmán de Loja.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_1.jpg)
-
-**Jorge Guzmán** es el favorito para coronarse como campeón de la Liga Básquet Pro 2024 de Ecuador, luego de firmar una campaña en la que siempre estuvo en los puestos de punta en la tabla de posiciones.
-
-En el 2024 tendrá que enfrentarse en las finales a Zamora Jaguars, la revelación de la Liga Básquet Pro en su primer año en el torneo, en la que se definirá al nuevo monarca al mejor de siete juegos.
-
-### Más noticias:
-
-* [Un espectáculo deportivo, familiar y solidario se vivió en la Bimbo Global Race](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-ecuador.html "Un espectáculo deportivo, familiar y solidario se vivió en la Bimbo Global Race")
-* [Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro](https://www.elcomercio.com/deportes/emelec-partido-tecnico-universitario-liga-pro.html "Emelec gana a Técnico Universitario y se recupera progresivamente en Liga Pro")
-* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
-
-Los dos primeros juegos serán en el Coliseo Ciudad de Loja, el tercero y cuarto en el Coliseo Mayor de Deportes de Zamora, **el quinto y séptimo en Loja y el sexto en Zamora**. Estos tres últimos se llevarán a cabo siempre y cuando la serie lo amerite.
-
-La creación de Jorge Guzmán empezó a tomar fuerza en plena pandemia del covid-19 en 2020 y **en noviembre de 2021**, unos meses antes de la primera edición de la Liga Básquet Pro en 2022, se hizo realidad como un homenaje.
-
-Jorge Guzmán, fallecido hace siete años, fue deportista y dirigente con gran trayectoria en esta provincia del sur del país. Con esa base su familia, con Diego, uno de sus hijos a la cabeza y presidente del club**, se encargaron de darle vida al equipo que participa con gran suceso** en el torneo nacional.
-
-“Mi padre fue un entusiasta en el proceso para mejorar el básquet en Loja y consiguió títulos locales y nacionales”, le cuenta Diego a EL COMERCIO en una entrevista telefónica, en donde detalló como se maneja esta exitosa institución.
-
-Para que el equipo principal destaque en la Liga Básquet Pro, **existe una infraestructura institucional manejada** como una empresa en donde cada uno de los colaboradores tiene un puesto y una función que cumplir, con el apoyo de unas 21 marcas de distinta índole.
-
-También hay espacio para las categorías juveniles que miran como una opción cierta llegar en algún momento a jugar en el equipo principal.
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_2-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-Jorge Guzmán no se siente favorito
-----------------------------------
-
-En el 2022 los lojanos fueron los primeros campeones del torneo. En las finales le ganaron a **Barcelona Sporting Club para firmar un marcador final de 4-2**.
-
-En el 2023 avanzaron hasta los cuartos de final y **fueron eliminados por Leones de Riobamba**, los futuros campeones, que en el 2024 quedaron eliminados por Zamora Jaguars, sus rivales en las finales.
-
-En este año quedaron segundos en la temporada regular, en los cuartos de final **derrotaron a Spartans de Quito 3-0**, y en las semifinales dejaron en el camino a Barcelona SC por 3-1.
-
-Pese a estos antecedentes, Diego Guzmán **considera que no parten como “favoritos”** y más bien menciona que los resultados responden a una visión “ganadora” con un objetivo claro desde el primer día que es el de quedar campeones.
-
-“No hemos ganado nada. **Ahora somos vicecampeones**. No nos sentimos y no nos creemos favoritos. Queremos estar unidos y humildes, esa es la premisa que tenemos en este momento”, agregó Guzmán.
-
-Sobre la final histórica que jugarán contra sus vecinos de Zamora, destacó el apoyo de “su gente” que se volcó por completo para apoyar en su paso por la Liga Básquet Pro.
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_3-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-Los fanáticos, el patrimonio de Jorge Guzmán
---------------------------------------------
-
-Los fanáticos lojanos son el sexto jugador con el que **Jorge Guzmán cuenta en sus partidos de local** en el Coliseo Ciudad de Loja, escenario con capacidad para 3 000 aficionados.
-
-“Nuestro activo fijo más importante es la **identidad que hemos generado con nuestra gente**, año a año crece y hay gente en otros puntos del país y en el extranjero que visten la indumentaria del club”, agregó Guzmán.
-
-Respecto al uniforme de color blanco y azul, **explica que intentan dar un “mensaje de paz”** sin dejar de lado los colores de las selecciones de Loja que han representado a la ciudad y provincia a lo largo de los años.
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/jorge_guzman_4-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-Cronograma de las finales
--------------------------
-
-### Juego 1: Sábado 28/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 2: Lunes 30/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 3: Jueves 3/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 4: Sábado 5/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 5: Lunes 7/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 6: Jueves 10/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 7: Sábado 12/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-No te pierdas – El Confesionario
---------------------------------
-
-Florida declara en emergencia a 41 condados ante la amenaza de un posible huracán
-=================================================================================
-
-El Centro Nacional de Huracanes (NHC, en inglés) de EE.UU. vaticina que el sistema se convierta en huracán este miércoles.
---------------------------------------------------------------------------------------------------------------------------
-
-![Imagen satelital del huracán Ian al tocar tierra en el estado de Florida (EE.UU.).](https://www.elcomercio.com/wp-content/uploads/2024/09/huracan-florida-efe.jpg)
-
-El gobernador de Florida (EE.UU.), Ron DeSantis, declaró este lunes 23 de septiembre de 2024, en emergencia **a 41 de los 67 condados** que tiene el estado ante el avance por el **Golfo de México** del potencial ciclón tropical nueve, que podría convertirse en huracán el próximo miércoles.
-
-### Más noticias
-
-* [Huracán Beryl llegará a Jamaica con fuerza en su trayectoria 2024](https://www.elcomercio.com/actualidad/mundo/huracan-beryl-jamaica-fuerza-trayectoria-2024.html "https://www.elcomercio.com/actualidad/mundo/huracan-beryl-jamaica-fuerza-trayectoria-2024.html")
-* [Huracán Beryl se debilita a categoría 2 en camino a México en su trayectoria 2024](https://www.elcomercio.com/actualidad/mundo/huracan-beryl-categoria-2-camino-mexico-trayectoria-2024.html "https://www.elcomercio.com/actualidad/mundo/huracan-beryl-categoria-2-camino-mexico-trayectoria-2024.html")
-
-“Existe una amenaza significativa de marejadas ciclónicas, inundaciones y erosión costeras, fuertes lluvias e inundaciones repentinas y vientos dañinos en la costa del Golfo de Florida”, dice la orden emitida por DeSantis.
-
-Precisa la orden que, debido al pasado huracán Debby, “**los niveles freáticos** y de los ríos en el norte y centro-oeste de Florida permanecen por encima de lo normal”, por lo que las fuertes lluvias que se avecinan “probablemente causarán inundaciones significativas”.
-
-Se han emitido alertas de tormenta tropical para Tulum (México) y provincias de Cuba, cuando el “potencial ciclón tropical nueve” se desplaza a 45 kilómetros por hora y se encuentra a 175 kilómetros al sur-suroeste de Gran Caimán y a 545 kilómetros al sureste de la punta de Cuba.
-
-El Centro Nacional de Huracanes (NHC, en inglés) de EE.UU. vaticina que el sistema se convierta en huracán este miércoles y continúe fortaleciéndose mientras se mueve por el este del Golfo de México.
-
-Según un probable patrón de trayectoria, **el centro del fenómeno meteorológico** “se moverá a través del noroeste del Caribe hacia el sureste del **Golfo de México en las próximas 48 horas**“, señaló el NHC en su boletín más reciente.
-
-Se prevé que esta temporada de huracanes en el Atlántico sea una de las más activas e intensas en décadas, con la formación de hasta 25 tormentas y 13 huracanes, siete de estos de categoría mayor.
-
-Hasta el momento se han formado siete tormentas tropicales, de las cuales cuatro llegaron a la categoría de huracán. 
-
-Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre
-====================================================================
-
-Los cortes de luz en Guayaquil son definidos por CNEL.
-------------------------------------------------------
-
-![Imagen referencial de los cortes de luz en Guayaquil para este martes 24 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/04/Pagina-web-cortes-de-luz.jpg)
-
-Los cortes de luz continúan en Guayaquil y el resto del país para este martes 24 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Guayaquil)
-
-La situación energética e hídrica del país aún es crítica, según las últimas declaraciones de las autoridades nacionales.
-
-### Más noticias:
-
-* [Cortes de luz dependen de las lluvias, según el Ministro de Energía](https://www.elcomercio.com/actualidad/negocios/ministro-gobierno-cortes-luz-ecuador-lluvia.html "Cortes de luz dependen de las lluvias, según el Ministro de Energía")
-* [Cortes de luz en Quito empeoran el tránsito por semáforos apagados](https://www.elcomercio.com/actualidad/quito/cortes-luz-semaforos-quito-apagados.html "Cortes de luz en Quito empeoran el tránsito por semáforos apagados")
-
-La urbe porteña enfrentará hasta 11 horas de cortes de luz programados, en diferentes horarios, por cada sector.
-
-Los cortes van de 01:00 a 03:00, 06:00 a 09:00 y de 13:00 a 19:00, para sectores como la ciudadela Ceibos Norte.
-
-Para otros como la ciudadela Guayacanes, va de 00:00 a 05:00 y de 15:00 a 20:00.
-
-Otros, como la av. Francisco de Orellana, de 02:00 a 07:00 y de 15:00 a 20:00
-
-Y, otros, como la Alborada 3, de 00:00 a 03:00, de 09:00 a 15:00 y de 22:00 a 00:00.
-
-Horarios de cortes de luz en Guayaquil, este martes 24 de septiembre
---------------------------------------------------------------------
-
-El ministro de Energía, Antonio Goncalves, manifestó que las autoridades se reunirán cada jueves para evaluar la situación hídrica y energética del país.
-
-Así, cada viernes, se dará a conocer los nuevos horarios semanales de cortes de luz.
-
-En el caso de Guayaquil, los cortes son diferenciados para cada día de esta semana.
-
-A continuación, puede revisar el detalle de los cortes por cada horario y sector.
-
-Docente abusaba a un estudiante con discapacidad, en Quito
-==========================================================
-
-Fiscalía presentó testimonios y pruebas contra docente que abusó a estudiante con discapacidad.
------------------------------------------------------------------------------------------------
-
-![Imagen referencial de un docente frente a un pizarrón.](https://www.elcomercio.com/wp-content/uploads/2024/09/docente.png)
-
-Un **docente fue sentenciado a 29** **años y cuatro meses** de privación de libertad por el delito de violación. La Fiscalía presentó pruebas en la **audiencia de juzgamiento** que demostraron la culpabilidad del profesor.
-
-### Más noticias
-
-* [Fiscalía exhumó 75 cadáveres en cementerio de Ambato](https://www.elcomercio.com/actualidad/ecuador/fiscalia-exhumacion-cadaveres-cementerio-ambato.html "Fiscalía exhumó 75 cadáveres en cementerio de Ambato")
-* [Un video permitió arrestar a joven que mató a su madre, en Quito](https://www.elcomercio.com/actualidad/seguridad/video-permitio-arrestar-joven-que-mato-a-su-madre-en-quito.html "Un video permitió arrestar a joven que mató a su madre, en Quito")
-* [Fiscalía reveló nueva información del joven que mató a su madre, en Quito](https://www.elcomercio.com/actualidad/quito/fiscalia-revelo-nueva-informacion-joven-mato-madre-quito.html "Fiscalía reveló nueva información del joven que mató a su madre, en Quito")
-
-Los hechos ocurrieron de manera sistemática en el **ámbito educativo**, afectando a un **alumno con discapacidad auditiva**. La condena incluye una **reparación económica de 5 000 dólares para la víctima**.
-
-El docente, identificado como **Carlos Armando M. F.,** cometió el delito durante tres años, desde 2018. Aprovechó la **vulnerabilidad de su alumno**, quien tenía 12 años al inicio de los abusos. El estudiante estaba cursando el séptimo año de educación básica cuando comenzaron los hechos.
-
-El docente utilizó un **lugar dentro del colegio** para los primeros abusos y luego **trasladaba a la víctima a su domicilio cercano**.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) obtiene pena máxima agravada para el profesor Carlos Armando M. F., como autor del delito de [#Violación](https://twitter.com/hashtag/Violaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw), cometido en el ámbito educativo.  
->   
-> Más información ⬇️[https://t.co/1cKF0N0hFu](https://t.co/1cKF0N0hFu) [pic.twitter.com/Ovm1015lWk](https://t.co/Ovm1015lWk)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 23, 2024](https://twitter.com/FiscaliaEcuador/status/1838334970039013383?ref_src=twsrc%5Etfw)
-
-Testimonios y pruebas en la audiencia contra docente que abusaba a estudiante
------------------------------------------------------------------------------
-
-En la audiencia, la Fiscal presentó el **testimonio de la madre del adolescente**, quien relató cómo su hijo reveló los abusos en **lenguaje de señas** durante un campamento escolar. La profesora que interpretó la denuncia del menor corroboró el relato y **notificó al DECE**, que informó a las autoridades competentes.
-
-La **médica legista expuso las evidencias físicas** encontradas en el cuerpo del adolescente, mientras que la psicóloga explicó los efectos emocionales y de conducta resultantes del delito.
-
-En el testimonio anticipado, el adolescente relató en lenguaje de señas los detalles de lo que el docente le obligó a hacer. La Fiscalía enfatizó que **Carlos Armando M. F.** abusó de su posición de autoridad y de la relación de poder que tenía sobre su alumno. El Tribunal consideró las **pruebas concluyentes** y dictó sentencia condenatoria, además de imponer la reparación económica.
-
-Base legal y agravantes
------------------------
-
-La sentencia se fundamentó en el artículo **171 del Código Orgánico Integral Penal (COIP)**, que establece de veintidós a 26 años de **cárcel por violación a menores de 14 años**. En este caso, el Tribunal aumentó la pena en un tercio, aplicando las agravantes contempladas en el **artículo 48 del COIP**.
-
-Las circunstancias que **incrementaron la condena** incluyen el hecho de que el delito fue cometido por un docente en una institución educativa.
-
-Ataque armado en Guayaquil deja dos personas asesinadas
-=======================================================
-
-El violento hecho se registró en el parqueadero de un centro comercial, en el norte de la ciudad.
--------------------------------------------------------------------------------------------------
-
-![Dos personas fueron asesinadas y otra resultó herida, tras el violento hecho](https://www.elcomercio.com/wp-content/uploads/2024/09/ataque-armado-guayaquil.jpg)
-
-Un **ataque armado** se registró en la vía a Daule, en el **norte de Guayaquil**, la tarde de este lunes 23 de septiembre de 2024.
-
-El violento hecho tuvo lugar en los exteriores de un centro comercial ubicado en el sector de **Mapasingue**, pasadas las **15:00**.
-
-### Más noticias
-
-* [Cuatro funcionarios de cárceles asesinados en menos de 15 días](https://www.elcomercio.com/actualidad/seguridad/cuatro-funcionarios-de-carceles-asesinados-en-menos-de-15-dias.html "Cuatro funcionarios de cárceles asesinados en menos de 15 días")
-* [Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presunto-implicado-en-asesinato-de-directora-de-la-penitenciaria.html "Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría")
-* [Ecuador tiene déficit de policías por número de habitantes](https://www.elcomercio.com/actualidad/seguridad/ecuador-deficit-policias-numero-habitantes.html "Ecuador tiene déficit de policías por número de habitantes")
-
-La Policía Nacional confirmó que el ataque dejó **dos personas asesinadas** y otra herida.
-
-En videos difundidos en redes sociales se observa como al menos **tres desconocidos** abordaron un vehículo gris de alta gama y descargaron una **ráfaga de disparos** contra los ocupantes.
-
-Mientras el asalto ocurría, transeúntes y conductores del lugar buscaron refugio en inmuebles y detrás de vehículos.
-
-Los cuerpos de las víctimas quedaron en el **interior** del automotor, mientras que el tercer afectado fue trasladado hacia una casa de salud cercana.
-
-Un grupo de **Criminalística** acudió a la escena del crimen para recoger los indicios.
-
-Los vidrios del lado derecho del vehículo fueron destrozados y las vainas percutidas quedaron **esparcidas** por el parqueadero.
-
-La Policía aseguró que tras recibir la alerta, “inmediatamente se realizó un despliegue **operativo** para localizar a los implicados y establecer motivaciones”.
-
-Hasta el cierre de esta nota se desconoce las razones del ataque armado.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-16.png)
-
-Policía liberó a un ciudadano secuestrado
------------------------------------------
-
-La Policía realizó un operativo de rescate en el sector de la **Isla Trinitaria**, en el sur de Guayaquil, este lunes 23 de septiembre.
-
-La intervención permitió que un **ciudadano** que estaba secuestrado sea liberado y entregado a sus familiares a salvo.
-
-Los secuestrados exigían **700 000 dólares** para no asesinarlo.
-
-Nueve sospechosos fueron detenidos, cinco con antecedentes por múltiples delitos.
-
-Los uniformados recuperaron como pruebas un **vehículo** negro y ocho celulares.
-
-Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados
-=========================================================================
-
-En el caso Metástasis, la CNJ suspendió la audiencia preparatoria de juicio, con la solicitud de exclusión de la prueba de la FGE.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![El juez de la CNJ, Manuel Cabrera, escuchó a la fiscal general, Diana Salazar, este lunes.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-29-1.jpg)
-
-En el caso Metástasis, la Corte Nacional de Justicia (CNJ) resolverá si llama o no a juicio a los 37 procesados por el delito de delincuencia organizada.
-
-Este lunes 23 de septiembre de 2024, el juez Manuel Cabrera suspendió la audiencia preparatoria de juicio que tomó 13 días.
-
-### Más noticias:
-
-* [Caso Metástasis, acusaciones y defensas chocan en audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-acusaciones-defensas-chocan-audiencias.html "Caso Metástasis, acusaciones y defensas chocan en audiencias")
-* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
-* [Caso Metástasis, defensa de acusados señala vacíos en la investigación](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-acusados-senalan-vacios-investigacion.html "Caso Metástasis, defensa de acusados señala vacíos en la investigación")
-
-La suspensión se dio luego de que la fiscal general del Estado, Diana Salazar expuso la solicitud de exclusión de las pruebas presentadas por las defensas de los procesados.
-
-La audiencia preparatoria de juicio empezó con las solicitudes de nulidad de los procesados.
-
-El juez dio un receso para analizar estas nulidades y, luego de unos días, resolvió declarar la validez procesal.
-
-Entonces, la Fiscalía General del Estado presentó su dictamen acusatorio y las defensas de cada uno de los 37 procesados presentó sus alegatos y pruebas.
-
-Este lunes, la fiscal general Diana Salazar solicitó la exclusión de algunas pruebas presentadas por las defensas de los acusados en estos días.
-
-Salazar pidió que no sean admitidas algunas versiones de personas que no han comparecido al proceso.
-
-Además, peritajes que no forman parte del expediente, documentos que no han sido legalmente ingresados y otros.
-
-Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados
--------------------------------------------------------------------------
-
-En el caso Metástasis, Fiscalía investiga una red de corrupción descubierta a partir de los chats de Leandro Norero (+).
-
-Los chats corresponden a los meses que Norero y sus familiares permanecían en la cárcel de Cotopaxi, hasta que fue asesinado.
-
-Esta red involucra al exjuez nacional Wilman Terán, al exasambleísta correísta, Ronny Aleaga, jueces y otros funcionarios judiciales y penitenciarios y abogados en libre ejercicio.
-
-El objetivo de quienes operaban esta red era favorecer judicial y penitenciariamente a Norero y sus familiares a cambio de dinero.
-
-Fiscalía y Policía recluyeron a Norero y varios de sus familiares en la cárcel de Cotopaxi por lavado de activos.
-
-Una vez escuchadas las partes procesales, Fiscalía y los 37 procesados, el juez Manuel Cabrera, resolverá si los llama o no a juicio.
-
-El juez fijará fecha y hora para dar a conocer su resolución final, en los próximos días.
-
-Marc Ter Stegen sufre escalofriante lesión y un histórico se ofrece como reemplazo
-==================================================================================
-
-Marc-André Ter Stegen sufrió una lesión que lo dejará fuera de las canchas hasta la próxima temporada y un exjugador lo busca reemplazar.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Marc André Ter Stegen, arquero del FC Barcelona, antes de sufrir su lesión.](https://www.elcomercio.com/wp-content/uploads/2024/09/0f6c89bd5322c513763b75808c95bf3e21bd5a58-1.jpg)
-
-El traumatólogo del Instituto Cugat Roberto Seijas aseguró que el guardameta del Barcelona **Marc-André Ter Stegen** estará entre ocho meses y un año de baja tras sufrir una rotura completa del tendón rotuliano de la rodilla derecha, una dolencia que calificó de “**muy grave**“.
-
-“**Es una lesión muy grave, que necesita tiempo de recuperación de la cirugía y de la cicatrización del tendón, y después un proceso de rehabilitación muy largo para mover nuevamente la rodilla**, coger fuerza muscular y recuperar el equilibrio sobre la rodilla lesionada”, explicó el especialista.
-
-### Más noticias:
-
-* [Manchester City pierde a Rodri por toda la temporada](https://www.elcomercio.com/deportes/futbol/manchester-city-pierde-a-rodri-por-toda-la-temporada.html "Manchester City pierde a Rodri por toda la temporada")
-* [Willian Pacho tuvo su primer tropezón con el PSG](https://www.elcomercio.com/deportes/willian-pacho-psg-reims-partido-francia.html "Willian Pacho tuvo su primer tropezón con el PSG")
-* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
-
-**Ter Stegen** se lastimó la rodilla derecha -la misma de la que ya fue operado en mayo de 2021- en una mala caída durante el partido del domingo contra el **Villarreal** en La Cerámica y abandonó el terreno de juego en camilla.
-
-Seijas expuso que el tiempo total de recuperación para este tipo de lesiones suele rondar los ocho meses, aunque alertó de que en el caso de los deportistas profesionales “**incluso pueden llegar al año (de ausencia) hasta volver a jugar en nivel de competición**“.
-
-Una lesión inédita para Marc-André ter Stegen en el FC Barcelona
-----------------------------------------------------------------
-
-Sin embargo, el doctor destacó que esta lesión no tiene “nada que ver” con las anteriores que el guardameta del **FC Barcelona**, de 32 años, ha sufrido en la rodilla derecha, puesto que se trata de “lesiones independientes”[.](https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen")
-
-En cambio, admitió que “la edad influye siempre” en el proceso de rehabilitación, puesto que “los pacientes jóvenes tienen una capacidad de recuperación mucho más rápida”. “**Se recuperará seguramente igual, pero los ritmos de recuperación pueden ser un poco más lentos.** Rondará entre los ocho meses y el año”, subrayó.
-
-El doctor aseguró que las lesiones del **tendón rotuliano** son “menos frecuentes” en los futbolistas que las de los ligamentos cruzados, pero destacó que “**la gravedad es similar**“, y también aclaró que el proceso de recuperación en estos casos es “el mismo” sin importar que el afectado sea portero o jugador de campo.
-
-Finalmente, Seijas reivindicó que hay más lesiones graves de rodilla porque hay “una correlación directa entre el número de horas que entrenan y compiten los futbolistas, y la cantidad de lesiones”. “**Esto tiene que ver con la carta de partidos y el nivel de exigencia sobre los jugadores. Hay que buscar un equilibrio**“, añadió. 
-
-Claudio Bravo se ofrece como reemplazo de Ter Stegen
-----------------------------------------------------
-
-Ante la lesión de **Marc André Ter-Stegen**, el ya retirado arquero chileno Claudio Bravo se ofreció como reemplazo. El araucano señaló que está dispuesto a volver a ponerse los guantes en caso de que el FC Barcelona lo requiera.
-
-**“Si el Barcelona me quiere, estaré preparado para salir del retiro**“, mencionó en declaraciones al medio Win Win All Sports de Arabia Saudita. El arquero ya militó en el FC Barcelona y llegó a ser una de las figuras, su retiro se dio tras disputar con el Real Betis la campaña 2023-2024.
-
-Henry Kronfle renunciará a la Presidencia de la Asamblea, ¿quién lo reemplazará?
-================================================================================
-
-Henry Kronfle anunció la fecha para renunciar a su cargo en la Asamblea Nacional y poder postularse a las elecciones de 2025.
------------------------------------------------------------------------------------------------------------------------------
-
-![El Partido Social Cristiano presentó su binomio de candidatos a la presidencia y vicepresidencia de los próximos comicios, Henry Kronfle y Dallyana Passailaigue.](https://www.elcomercio.com/wp-content/uploads/2024/09/henry-kronfle-2.png)
-
-**Henry Kronfle**, presidente de la Asamblea Nacional, tiene diez días para renunciar como asambleísta y poder inscribirse como candidato presidencial del **Partido Social Cristiano (PSC)** para los comicios de **febrero de 2025**.
-
-### Más noticias
-
-* [Daniel Noboa reaccionó a ‘apagón’ en la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reacciono-contra-legisladores-apagon-asamblea.html "Daniel Noboa reaccionó a ‘apagón’ en la Asamblea")
-* [‘Apagón’ en la Asamblea provocó dura reacción de Esteban Torres](https://www.elcomercio.com/actualidad/politica/esteban-torres-apagon-asamblea-pitos-simios.html "‘Apagón’ en la Asamblea provocó dura reacción de Esteban Torres")
-* [Asamblea rechazó la sentencia que le obliga a retomar juicios políticos](https://www.elcomercio.com/actualidad/politica/asamblea-retomo-funciones-juicios-politicos-nuevas-autoridades.html "Asamblea rechazó la sentencia que le obliga a retomar juicios políticos")
-
-La decisión de **oficializar a Kronfle** fue tomada durante una **convención nacional del PSC** celebrada el sábado 8 de junio, a las 11:00, en el **Centro de Convenciones de Guayaqu**il. Al formalizar su candidatura, Kronfle deberá acatar el artículo **96.6 del Código de la Democracia**, que exige su renuncia al cargo actual en la Asamblea.
-
-> ¡Vamos [#Juntos](https://twitter.com/hashtag/Juntos?src=hash&ref_src=twsrc%5Etfw)! 💪  
->   
-> Henry Kronfle y Dallyana Passailaigue inician el camino para alcanzar el Ecuador que tu familia merece. Un país que piense en todos y no solo en unos pocos privilegiados. Basta de olvidar las necesidades de los ecuatorianos, es hora de trabajar [#ParaLaGente](https://twitter.com/hashtag/ParaLaGente?src=hash&ref_src=twsrc%5Etfw).… [pic.twitter.com/fFP9SqLMEN](https://t.co/fFP9SqLMEN)
-> 
-> — La6 – Partido Social Cristiano (@La6Ecuador) [August 15, 2024](https://twitter.com/La6Ecuador/status/1824132879573569763?ref_src=twsrc%5Etfw)
-
-Según el calendario electoral del CNE, este trámite se realizará entre el **13 de septiembre y el 2 de octubre de 2024**.
-
-Henry Kronfle deberá renunciar a su cargo
------------------------------------------
-
-El **artículo 93 del Código de la Democracia** obliga a las autoridades de elección popular a renunciar antes de postularse a un **cargo distinto**. Kronfle afirma que, durante su gestión, la **Asamblea Nacional** pasó de un **2,4 % de aceptación al 40 %**, tras haber aprobado **28 proyectos de ley** relacionados con áreas críticas como la economía, seguridad y salud.
-
-Kronfle destacó que su administración dio **gobernabilidad al gobierno de Daniel Noboa**, con quien trabajó en coordinación para aprobar varios **proyectos urgentes**. Además, se procesaron once solicitudes de juicio político, de las cuales seis avanzaron a la etapa de censura.
-
-> Hoy empiezo este camino con la bendición de Dios y de mi madre, y el apoyo de mi partido [#La6](https://twitter.com/hashtag/La6?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Gracias Ecuador 🇪🇨 por permitirme servirte en estos años desde la Asamblea Nacional, ahora con decisión, compromiso y corazón lo haremos desde la Presidencia de la Répública.… [pic.twitter.com/0FOvxexK47](https://t.co/0FOvxexK47)
-> 
-> — Henry Kronfle K. (@HenryKronfle) [August 15, 2024](https://twitter.com/HenryKronfle/status/1824153334720164231?ref_src=twsrc%5Etfw)
-
-Ahora, Kronfle se prepara para competir por la presidencia en las elecciones de 2025, enfrentando a Noboa, con quien antes compartía una agenda común en la Asamblea.
-
-¿Quién asumirá el cargo de presidente de la Asamblea Nacional para suplir a Henry Kronfle?
-------------------------------------------------------------------------------------------
-
-Una vez que Kronfle presente su renuncia para oficializar su candidatura, se producirán varios cambios en la **Asamblea Nacional**. En primer lugar, su curul será ocupada por su alterna, **María de Lourdes Alarcón**, aunque ella no tomará su lugar en el **Consejo de Administración Legislativa (CAL**). La presidencia de la Asamblea recaerá en Viviana Veloz, actual primera vicepresidenta, quien también asumirá el liderazgo del CAL.
-
-Después de que el vicepresidente asuma el **puesto de presidente**, se convoca una **sesión del Pleno** para elegir un **nuevo primer vicepresidente**, lo cual requiere el respaldo de al menos **70 votos de los asambleístas​**.
-
-> .[@HenryKronfle](https://twitter.com/HenryKronfle?ref_src=twsrc%5Etfw) dialogó con medios de comunicación de Azuay donde destacó la aprobación de 28 leyes en su administración como presidente de [#LaNuevaAsamblea](https://twitter.com/hashtag/LaNuevaAsamblea?src=hash&ref_src=twsrc%5Etfw)  
-> Boletín ➡️[https://t.co/2Qs52hmx6T](https://t.co/2Qs52hmx6T) [pic.twitter.com/3HFSiTbay9](https://t.co/3HFSiTbay9)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [September 21, 2024](https://twitter.com/AsambleaEcuador/status/1837568617778479342?ref_src=twsrc%5Etfw)
-
-Así, Viviana Veloz encabezará la Asamblea Nacional desde octubre de 2024 hasta el 12 de mayo de 2025, fecha en la que **culminaría su mandato provisional** al frente de la **Asamblea y el CAL**. Sin embargo, Veloz buscará la reelección para las elecciones de 2025, por lo que no podría estar hasta culminar su periodo.
-
-Los legisladores que **aspiran a la reelección** no están obligados a renunciar **antes de que se califiquen sus candidaturas**. En su lugar, deben **solicitar una licencia al iniciar la campaña electoral en enero**. De este modo, el Pleno podrá cubrir temporalmente cualquier vacante.
-
-Henry Kronfle anunció cuándo renunciará al cargo
-------------------------------------------------
-
-**Henry Kronfle** confirmó que presentará su renuncia a la presidencia de la Asamblea el próximo 2 de octubre, con el fin de inscribir su candidatura. La inscripción de candidaturas, que se inició el pasado **13 de septiembre**, culminará el mismo día en que Kronfle tiene previsto formalizar su postulación.
-
-En sus declaraciones, Kronfle fue enfático en señalar que dejará su cargo el 2 de octubre. Mencionó que no busca permanecer como **presidente de la Asamblea y candidato a la vez**. Al hacer esta afirmación, hizo alusión a Daniel Noboa, quien también se encuentra en la contienda electoral para las elecciones presidenciales de 2025.
-
-Kronfle reiteró que es un paso necesario para **asegurar que no haya conflicto de intereses en su candidatura**.
-
-¿Cuándo volverá Richard Carapaz a las competencias?
-===================================================
-
-Richard Carapaz aún no ha terminado su temporada ciclística con el EF Education-EasyPost.
------------------------------------------------------------------------------------------
-
-![Richard Carapaz no participará en el Mundial de Ciclismo.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-23T164336.867.jpg)
-
-**Richard** **Carapaz** no formará parte del Campeonato Mundial de Ciclismo que se realizará en Zúrich, Suiza. El ecuatoriano anunció su ausencia a través de sus redes sociales debido a un motivo de fuerza mayor.
-
-A pesar de su ausencia en esta gran competencia, su calendario aún no ha terminado, ya que quedan varias carreras en las que su equipo, **EF Education-EasyPost,** participará.
-
-### Más noticias:
-
-* [Falleció Kevin Pozo, ciclista ecuatoriano atropellado](https://www.elcomercio.com/deportes/ciclismo/fallecio-kevin-pozo-ciclista-ecuatoriano-atropellado.html "Falleció Kevin Pozo, ciclista ecuatoriano atropellado")
-* [Richard Carapaz lamenta fallecimiento de ciclista ecuatoriano](https://www.elcomercio.com/deportes/richard-carapaz-kevin-pozo-fallecimiento.html "Richard Carapaz lamenta fallecimiento de ciclista ecuatoriano")
-* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
-
-Richard Carapaz se baja del Mundial
------------------------------------
-
-La **Federación Ecuatoriana de Ciclismo** (FEC) y **Richard** **Carapaz** confirmaron que no participará en el Campeonato Mundial de Ciclismo.
-
-A través de una llamada telefónica, el ciclista comunicó a la **FEC** su decisión, que fue comprendida y apoyada por la entidad. Las circunstancias también lo obligaron a suspender sus entrenamientos.
-
-El motivo de su retiro de la competición, donde sería el principal representante de Ecuador en la prueba de ruta, se debe a que **la hija de la ‘Locomotora’ se sometió a una intervención quirúrgica de emergencia**.
-
-Por tal razón, el carchense tuvo que regresar a **Ecuador** para estar junto a su familia, lo que lo llevó a pausar sus entrenamientos y su participación en diversas competencias.
-
-“No he podido entrenar durante varios días y mi condición no está a la altura de lo que **Ecuador** merece, ni física ni mentalmente. Por este motivo, he tomado la decisión de no participar en el Mundial”, explicó Carapaz.
-
-El ciclista reafirmó su compromiso con el país, pero destacó que la situación familiar trasciende el deporte, dejando claro que su familia es su prioridad.
-
-> Comunicado oficial: Zúrich 2024 🌈  
->   
-> 📝 [https://t.co/wq4DiVI9ak](https://t.co/wq4DiVI9ak) [pic.twitter.com/5X2Az5jt9T](https://t.co/5X2Az5jt9T)
-> 
-> — Richard Carapaz M (@RichardCarapazM) [September 23, 2024](https://twitter.com/RichardCarapazM/status/1838022676826235112?ref_src=twsrc%5Etfw)
-
-¿Qué competencias se le vienen al ecuatoriano?
-----------------------------------------------
-
-A pesar de las circunstancias, hay varias competencias en octubre que están en el calendario de Richard Carapaz, según la página especializada en ciclismo _ProCyclingStats_.
-
-De acuerdo con esta fuente, el ecuatoriano **tiene previsto participar en el Giro de Emilia**, que se celebrará el 5 de octubre en Italia.
-
-Esta carrera consta de **200 kilómetros**, con salida en la ciudad de Carpi y meta en el Santuario de Nuestra Señora de San Luca. Se trata de una competición de un solo día.
-
-Fiscalía exhumó 75 cadáveres en cementerio de Ambato
-====================================================
-
-La diligencia es parte de la búsqueda de Giovanna Pérez, desaparecida hace 14 años.
------------------------------------------------------------------------------------
-
-![Las osamentas exhumadas serán sometidas a pruebas técnicas de identificación](https://www.elcomercio.com/wp-content/uploads/2024/09/exhumacion-ambato.jpg)
-
-La Fiscalía General del Estado realizó la **exhumación** de **75 cadáveres** no identificados (**NN**), los cuales fueron sepultados en el cementerio municipal **San Vicente de Picalhua**, en la ciudad de Ambato, provincia de Tungurahua.
-
-La diligencia realizada la mañana de este lunes 23 de septiembre de 2024 se ejecutó para localizar a personas registradas como desaparecidas, en el marco de la investigación de **Giovanna Pérez Constante**.
-
-### Más noticias
-
-* [Conmemoremos el Día Internacional de las Víctimas de Desapariciones Forzadas](https://www.elcomercio.com/sociedad/dia-internacional-victimas-desapariciones-forzadas-efemeride.html "Conmemoremos el Día Internacional de las Víctimas de Desapariciones Forzadas ")
-* [Fiscalía reveló nueva información del joven que mató a su madre, en Quito](https://www.elcomercio.com/actualidad/quito/fiscalia-revelo-nueva-informacion-joven-mato-madre-quito.html "Fiscalía reveló nueva información del joven que mató a su madre, en Quito")
-* [Autor de atroz femicidio fue sentenciado en Ambato](https://www.elcomercio.com/actualidad/seguridad/femicida-ambato-crimen-pareja-fiscalia.html "Autor de atroz femicidio fue sentenciado en Ambato")
-
-Técnicos del Servicio Nacional de Medicina Legal y Ciencias Forenses trabajaron en la **búsqueda** de los cuerpos.
-
-Los cadáveres NN fueron etiquetados con una numeración específica que se colocó también en los féretros, lo cual facilitó el trabajo.
-
-Según detalló Fiscalía, “se aplicaron estrictos estándares en materia de **Derechos Humanos**“.
-
-Luego de la recolección de osamentas se practicarán **pruebas técnicas** de identificación a los cuerpos.
-
-> [#DesaparecidosEcuador](https://twitter.com/hashtag/DesaparecidosEcuador?src=hash&ref_src=twsrc%5Etfw) | Con el fin de seguir con el procedimiento de búsqueda y localización de personas desaparecidas, [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) –en coordinación con el [@gadambato](https://twitter.com/gadambato?ref_src=twsrc%5Etfw)– procede a exhumar 75 cadáveres que fueron sepultados como NN en el cementerio municipal de [#Picaihua](https://twitter.com/hashtag/Picaihua?src=hash&ref_src=twsrc%5Etfw) ([#Ambato](https://twitter.com/hashtag/Ambato?src=hash&ref_src=twsrc%5Etfw)). [pic.twitter.com/6rNviNc3ST](https://t.co/6rNviNc3ST)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 23, 2024](https://twitter.com/FiscaliaEcuador/status/1838252593136472396?ref_src=twsrc%5Etfw)
-
-Caso Giovanna Pérez
--------------------
-
-La desaparición de Giovanna Pérez Constante ocurrió el 4 de diciembre de **2010**.
-
-Desde ese día, sus padres, familiares y amigos han luchado por esclarecer lo sucedido con la estudiante de **Administración de Empresas**.
-
-Giovanna tenía **19 años** cuando desapareció en Ambato. Lo último que supieron de ella es que fue invitada por un amigo al **cine** y nunca más volvió.
-
-Ese diciembre de 2010 el ambiente festivo se percibía en la ciudad. Giovanna no salía de casa constantemente, contó Yanera, su madre, a **EL COMERCIO**, en una entrevista pasada, pero el viernes 3 de diciembre le pidió permiso para ir a una reunión de cumpleaños.
-
-“Fue con su prima y su mejor amiga. Ahí fue que conoció por primera vez a **Andrés L.**, el principal sospechoso de la desaparición de mi hija”, afirma.
-
-La tarde de aquel viernes, Andrés L. intercambió su número con Giovanna durante la reunión y volvió a contactarla al **día siguiente**.
-
-Ese día, Giovanna salió de casa en la mañana hacia la unidad educativa Rodríguez Albornoz, donde estudiaba su hermana Denisse.
-
-A las 16:30 de ese sábado, la joven llamó a su madre. “Giovannita me dijo que un chico, Andrés L., a quien había conocido el día anterior, **la invitó al cine**. Ella me preguntó si podía ir y le dije que bueno. Esa fue la última vez que hablé con mi hija, **desde ahí no sé en dónde está o qué le hicieron**”, reclama.
-
-14 años de búsqueda
--------------------
-
-Durante cerca de **14 años**, sus cercanos han pedido al Estado que se haga justicia. Sus padres **Mauro Pérez y Yanera Constante**, han denunciado varias veces la “indolencia” de las autoridades para avanzar con las investigaciones.
-
-Ellos han buscado a su hija en varias ciudades del país sin resultados, incluso viajaron a **Colombia y Perú** para encontrar alguna pista de la desaparición.
-
-En septiembre de 2022, la denuncia contra el Estado fue admitido por la Comisión Interamericana de Derechos Humanos (**CIDH**).
-
-Según el abogado de la familia, la exhumación que se realizó este lunes en el cementerio de Picalhua respondió a una solicitud que se hizo hace más de **10 años**.
-
-En los exteriores del cementerio, como ha sido costumbre desde que desapareció Giovanna, sus familiares reclamaron justicia con **pancartas** y consignas.
-
-Sus conocidos esperan que las pruebas técnicas identifiquen a la mujer que hoy tendría **33 años**.
-
-“Solo el día en que pueda ver a mi hija **podré morir en paz**“, dijo conmovida su madre Yanera.  
-
-¿Quiénes deben renunciar para inscribirse a elecciones 2025?
-============================================================
-
-Elecciones 2025 contemplan pasos para autoridades en funciones.
----------------------------------------------------------------
-
-![Las inscripciones de las candidaturas empezaron el 13 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/elecciones-2025-renuncias.jpg)
-
-El plazo de **inscripción** de las candidaturas para las **elecciones 2025** está en curso. Este culminará el 2 de octubre de 2024.
-
-En el último corte del **Consejo Nacional Electoral (CNE)**, hasta las 18:00, de este 22 de septiembre, cuatro partidos y movimientos políticos inscribieron listas para asambleístas provinciales. Todavía ningún binomio presidencial.
-
-### Más noticias
-
-* [Ecuador debe elegir parlamentarios andinos, ¿cuál es su rol y sus trabas?](https://www.elcomercio.com/actualidad/politica/ecuador-parlamentarios-andinos-cual-es-su-rol.html)
-* [Daniel Noboa debe cumplir con un paso crucial para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-licencia-campana-elecciones-2025.html)
-* [Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?](https://www.elcomercio.com/actualidad/politica/inscripcion-candidatos-elecciones-2025-en-linea-cne.html "Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?")
-
-> [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🗳️🇪🇨  
->   
-> ¿Conoces cuál es el procedimiento que deben cumplir las organizaciones políticas para inscribir sus candidaturas? 🤔  
->   
-> 🎬 Aquí te lo contamos. ⤵️  
->   
-> 🚨 El sistema estará habilitado hasta las 18h00 del miércoles, 2️⃣ de octubre. [pic.twitter.com/1pZTTSewE1](https://t.co/1pZTTSewE1)
-> 
-> — cnegobec (@cnegobec) [September 22, 2024](https://twitter.com/cnegobec/status/1837977072142373059?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 e inscripciones
--------------------------------
-
-**Unidad Popular**, Movimiento Sur Unido Regional, Movimiento Pueblo, Igualdad y Democracia y Alianza de la Renovación son las organizaciones que ya inscribieron listas de **asambleístas provinciales**.
-
-Las candidaturas para **Presidenta** o Presidente de la República y sus respectivos **binomios** se consideran unipersonales. 
-
-Las **candidaturas** para asambleístas nacionales, provinciales y de las circunscripciones especiales del exterior son pluripersonales y se presentarán en listas completas con **candidatos principales** y sus respectivos suplentes.
-
-En el caso de los parlamentarios andinos, las **candidaturas** son pluripersonales y se presentarán en listas completas, por cada candidato principal se presentarán dos alternos. 
-
-Las inscripciones son en línea, a través del sistema del **CNE**. Los postulantes pueden acudir al organismo, pero, únicamente, es un acto **simbólico**.
-
-Las renuncias para las elecciones 2025
---------------------------------------
-
-El **Código de la Democracia** define que los candidatos que están en funciones públicas deben seguir ciertos pasos para postularse a las **elecciones 2025**.
-
-Los dignatarios de **elección popular** podrán reelegirse por una sola vez, consecutiva o no, para el mismo cargo.
-
-Las autoridades que llegan por **votación popular** que se postulen para un cargo diferente deberán renunciar al que desempeñan antes de presentar la solicitud de inscripción de su **candidatura**.
-
-Los dignatarios que opten por la reelección inmediata al mismo puesto deberán hacer uso de licencia sin remuneración desde el inicio de la **campaña electoral**.
-
-La disposición no rige para las **autoridades** de elección popular que ostenten la calidad de suplentes que, en el momento de la inscripción, no estén en el ejercicio de las funciones de principales.
-
-Sin embargo, si aspiran a un espacio diferente de la de suplencia, no podrán ir como **principales** durante el proceso.
-
-Daniel Noboa y la renuncia para postularse
-------------------------------------------
-
-El presidente **Daniel Noboa** correrá por la reelección en la Presidencia de Ecuador junto a María José Pinto. Ambos irán por el **Movimiento Acción Democrática Nacional (ADN)**.
-
-Como Noboa todavía está en funciones, el **Código de la Democracia** establece que deberá pedir licencia para las **elecciones 2025**. Es decir, la vicepresidenta Verónica Abad deberá asumir el cargo.
-
-No obstante, desde el Gobierno ya se han abierto frentes para intentar destituir a Abad. Estos incluyen sumarios administrativos y una denuncia en el **Tribunal Contencioso Electoral (TCE)**.
-
-El actual titular de la Asamblea, **Henry Kronfle**, también deberá renunciar al cargo antes de postularse para la Presidencia por el **Partido Social Cristiano** (PSC).
-
-¿Cuántos días debe llover en Cuenca para superar la sequía?
-===========================================================
-
-La Red Hidrometereológica de Etapa analiza las condiciones que se requieren para superar este período de severo estiaje.
-------------------------------------------------------------------------------------------------------------------------
-
-![Los caudales de los ríos Tomebamba (foto), Yanuncay, Manchángara y Tarqui están bajos por el estiaje de hace 73 días. Foto API.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca.jpg)
-
-La **sequía** que se registra en **Cuenca** es extrema. Y lo es porque las condiciones ocurridas en los últimos 12 meses.
-
-A **finales del 2023** se contabilizaron **118 días sin precipitacione**s importantes en la región. Además, en **marzo y abril de 2024** llovió menos del 50% del promedio histórico de esta época lluviosa en Cuenca.
-
-En la actualidad, **son 73 días sin precipitaciones importantes**. Eso ha provocado que el suelo esté bastante seco, dijo el coordinador de la **Red Hidrometereológica de Etapa, Rigoberto Guerrero.**
-
-Según **Guerrero**, se requiere que, al menos, llueva durante 10 ó 15 días para que el suelo pueda mojarse, saturarse y producir escorrentía. Es decir, que el agua llegue a los cauces de los ríos.
-
-“Si la lluvia o llovizna ocurre como el pasado fin de semana en **Cuenca**, no generará un gran aporte. Desde entonces no ha llovido y este lunes hay alta radiación que evaporó esa humedad”, dijo Guerrero.
-
-Ese comportamiento ocasiona que el aumento del caudal de los ríos será momentáneo y se registrará un descenso rápido. Eso ocurrió con el río **Tomebamba**, que subió su caudal de 0,80 metros cúbicos por segundo a 1,7 metros, el domingo 22 de septiembre. “Ahora ha bajado otra vez porque dejó de llover”.
-
-### Más noticias
-
-* [Cortes de luz dependen de las lluvias, según el Ministro de Energía](https://www.elcomercio.com/actualidad/negocios/ministro-gobierno-cortes-luz-ecuador-lluvia.html "Cortes de luz dependen de las lluvias, según el Ministro de Energía")
-* [Cortes de luz en Quito empeoran el tránsito por semáforos apagados](https://www.elcomercio.com/actualidad/quito/cortes-luz-semaforos-quito-apagados.html "Cortes de luz en Quito empeoran el tránsito por semáforos apagados")
-
-¿Cuánto y dónde debe llover en Cuenca?
---------------------------------------
-
-Otra variable que se requiere es que llueva más de cinco milímetros por evento, dijo **Guerrero**. Esas condiciones permitirán que los caudales suban de manera significativa y sostenida hasta llegar a los niveles promedio.
-
-Según Guerrero hay **otras dos condiciones**. La primera es que llueva durante, por lo menos, una hora. “Si hay son lluvias intensas que duran 30 minutos, el líquido no se almacenará en el suelo”.
-
-La otra variable es que llueva en las zonas de recarga hídrica. Eso significa que en los **páramos y humedales con cobertura vegetal** para que se almacene.
-
-“No sirve mucho que existan precipitaciones en la ciudad porque ya está impermeabilizada. El agua cae sobre el asfalto y no se puede almacenar”, dice Guerrero.
-
-Los pronósticos de las lluvias en el Austro
--------------------------------------------
-
-Guerrero señaló que no se esperan **precipitaciones** importantes para lo que resta de **septiembr**e y la **primera quincena de octubre**. “Posteriormente, se tienen escenarios más alentadores, pero hay incertidumbre por el cambio climático”.
-
-En el caso de que no existan lluvias importantes en **octubre y noviembre**, la actual sequía se conectará con la que se registrará en **diciembre y enero**, que son meses con menos lluvias en la región. 
-
-Exárbitro colombiano revela presiones que recibió del narcotráfico
-==================================================================
-
-Fernando Paneso fue árbitro entre 1991 y 2007 y reveló en un libro como el narcotráfico se infiltró en el fútbol colombiano.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial de una cartulina roja de un árbitro de fútbol.](https://www.elcomercio.com/wp-content/uploads/2024/09/narcotrafico_1.jpg)
-
-**Fernando Paneso** conoció las luces y las sombras del fútbol colombiano por lo que ahora habla sin tapujos de la influencia del narcotráfico y las presiones extradeportivas en los partidos que dirigió, en un libro escrito a cuatro manos con el periodista Felipe Valderrama.
-
-“Creo que es importante que se conozca su historia por varias cosas. **La primera es la relación del narcotráfico con el fútbol colombiano**, que eso no es algo nuevo, pero de pronto no sabíamos esos detalles de cómo abordaban a los árbitros”, expresa Valderrama en una entrevista con la Agencia EFE.
-
-### Más noticias:
-
-* [Corea del Norte ganó su tercer Mundial Sub-20 Femenino](https://www.elcomercio.com/deportes/corea-norte-campeon-mundial-sub-20-femenino-japon.html "Corea del Norte ganó su tercer Mundial Sub-20 Femenino")
-* [Liga de Quito pone en riesgo sus opciones de ganar la etapa](https://www.elcomercio.com/deportes/futbol/liga-de-quito-pone-en-riesgo-sus-opciones-de-ganar-la-etapa.html "Liga de Quito pone en riesgo sus opciones de ganar la etapa")
-* [(Video) Jhonny Quiñónez llora en Argentina al ser sustituido](https://www.elcomercio.com/deportes/futbol/jhonny-quinonez-llora-en-argentina-al-ser-sustituido.html "(Video) Jhonny Quiñónez llora en Argentina al ser sustituido")
-
-El juez, con Valderrama como lazarillo, cuenta en el libro ‘Paneso, la historia de un árbitro en medio de las mafias’, editado por Planeta, **historias rocambolescas que van desde propuestas de recibir un sueldo mensual** para favorecer a un equipo o como cuando un equipo se dejó cuatro goles en cinco minutos para que su rival clasificara a la final del torneo de Segunda División.
-
-“Son muchas cosas que se cuentan en el libro sobre esa intimidad del árbitro, con detalles que son muy reveladores (…) **todo lo que él tiene que vivir, toda esa presión que tiene** y más allá que hayan pasado tantos años y en su momento diera mucho miedo denunciar, había muchas amenazas y para él contarlo en ese momento era difícil, pero se decidió”, expresa Valderrama, cofundador del portal ElCincoCero.com.
-
-Un árbitro que se paró en la línea
-----------------------------------
-
-Fernando Paneso dirigió en el **fútbol profesional colombiano entre 1991 y 2007** y fue juez FIFA entre 1994 y 2005, tiempo en el que impartió justicia en partidos de la Copa Libertadores, las Eliminatorias Suramericanas y otros torneos organizados por la Conmebol.
-
-En su carrera, el árbitro también tuvo que disfrazarse de policía para salir de un estadio e incluso relata cómo narcotraficantes lo querían asesinar por no favorecer a un equipo.
-
-En ese tipo de historias, **Valderrama se ocupó con rigurosidad científica de corroborar** todos los datos aportados por su interlocutor, que cuenta que nunca sucumbió a sobornos y se paró en la línea, a pesar de los peligros que eso trajo a su vida.
-
-“Fernando puede recordar un partido, pero no sabe si fue en el 92 o 93, y me da detalles. **Yo soy el que encuentro el partido exactamente para no irnos a descachar** (equivocar)”, expresa el periodista, quien agrega que también hay nombres e historias que no se pudieron contar con muchos más detalles por “un tema jurídico complicado”.
-
-En el texto, **Paneso también cuenta otros detalles sobre su vida**, especialmente los relacionados con cómo sus asuntos personales y familiares se vieron afectados por su trabajo, que era de alto peligro en esa época.
-
-Un adelantado para su tiempo
-----------------------------
-
-Valderrama también valora haber podido contar la historia de Paneso, un árbitro diferente a los de esa época porque él era académicamente más preparado que sus colegas que apenas eran bachilleres.
-
-“Fernando Paneso es docente, **trabaja en una universidad, es trabajador en el sector público** de (la ciudad de) Armenia. Era alguien de ese perfil que era perfecto para escribir el libro”, añade el autor.
-
-El proyecto arrancó durante el confinamiento por la pandemia de covid-19, **época en la que se empezaron a reunir por videollamada** y plantearon el proyecto, el sueño de contar de primera mano todo lo que vive un árbitro y que Paneso le permitió cumplir. 
-
-No te pierdas – El Confesionario
---------------------------------
