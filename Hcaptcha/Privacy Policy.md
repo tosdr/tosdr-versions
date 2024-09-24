@@ -8,13 +8,15 @@
 
 From the blog:
 
-[How Well Do AI Text Detectors Work? →](https://www.hcaptcha.com/post/ai-text-detectors-fail-to-spot-llm-output)
+[Our Position on AI Regulation →](https://www.hcaptcha.com/post/our-position-on-ai-regulation)
 
 [Switch to English](#)[Accessibility](https://www.hcaptcha.com/accessibility)
 
 [](https://www.hcaptcha.com/)
 
 [Plans](https://www.hcaptcha.com/plans)[Pro](https://www.hcaptcha.com/pro)[Enterprise](https://www.hcaptcha.com/#enterprise-features)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog)
+
+[Contact Sales](https://www.hcaptcha.com/start-a-pilot)
 
 [Sign Up](https://www.hcaptcha.com/pricing)[Log In](https://dashboard.hcaptcha.com/login)
 
