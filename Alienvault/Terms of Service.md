@@ -191,9 +191,9 @@ be\_ixf;ym\_202409 d\_24; ct\_50
             
             webcast
             
-            ##### Evolve Your Endpoint Security Strategy to Stay in Step with New Regulations
+            ##### Fortifying Your Inbox: Advanced Email Security with Check Point and LevelBlue
             
-            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/evolve-your-endpoint-security-strategy)
+            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/fortifying-email-security-with-check-point)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
