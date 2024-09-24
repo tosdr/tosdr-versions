@@ -1,10 +1,10 @@
-* ![](/fragments/header/modern/static/media/oliveLeaf.04f8ece17a002b2ec0ff50e391ba1f1a.svg)Der Marktführer mit über 1 Millionen Kunden
+* ![](/fragments/header/modern/static/media/ballon.e2422297891c29c54dcbfe87d1d8d2fb.svg)Beste Auswahl an einzigartigen Erlebnissen
+* ![](/fragments/header/modern/static/media/oliveLeaf.04f8ece17a002b2ec0ff50e391ba1f1a.svg)Der Marktführer mit über 1 Million Kunden
 * ![](/fragments/header/modern/static/media/halfClock.766f57b0ff3e281d22c742945ddd1efc.svg)Flexible Gutscheine für Zeit, Ort und Erlebnis
-* ![](/fragments/header/modern/static/media/headset.d61fa7c5969ec34f5d5274be46f5d45f.svg)Ausgezeichneter Kundenservice
 
 [![](/fragments/header/modern/static/media/paybackBadge.e5d024eee720ca33ed10b18850822fa5.svg)PAYBACK](https://www.jochen-schweizer.de/infoseite/payback/l/ueyrz)[FAQ](https://kundenservice.jochen-schweizer.de/)
 
-[Jobs](https://career.jsmd-group.com/)[Erlebnispartner werden](https://partner.jsmd-group.com/)
+[Jobs](https://career.jsmd-group.com/)[Magazin](https://magazin.jochen-schweizer.de/)[Erlebnispartner werden](https://partner.jsmd-group.com/)
 
 [Kontakt](https://www.jochen-schweizer.de/ContactForm/JS_KONTAKT/l/sx94k)089 / 70 80 90 90
 
