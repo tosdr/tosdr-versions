@@ -34,9 +34,9 @@ Navigation
         
         #### [Machinists union refuses to vote on Boeing's 'best and final' contract offer](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
         
-    *  [![](https://media.king5.com/assets/KING/images/d5b2235b-581e-42b9-8b64-28f108942839/20240920T173417/d5b2235b-581e-42b9-8b64-28f108942839_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5b2235b-581e-42b9-8b64-28f108942839/20240920T173417/d5b2235b-581e-42b9-8b64-28f108942839_360x203.jpg)](https://www.king5.com/article/sports/wnba-playoffs-seattle-storm-schedule-how-to-watch/281-a182664a-2f90-42a1-be9a-fb7cb9d43bdb)
+    *  [![](https://media.king5.com/assets/KREM/images/fa6de127-99e9-4b05-b47d-388ba999b5e3/20240924T175123/fa6de127-99e9-4b05-b47d-388ba999b5e3_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/fa6de127-99e9-4b05-b47d-388ba999b5e3/20240924T175123/fa6de127-99e9-4b05-b47d-388ba999b5e3_360x203.jpg)](https://www.king5.com/article/news/local/idaho-man-awaits-trial-charges-threatened-kill-former-president-trump/293-a5fc4fba-cfb3-43c6-a398-2c3acd5799e6)
         
-        #### [WNBA Playoffs: Seattle Storm schedule, opponent, bracket, how to watch](https://www.king5.com/article/sports/wnba-playoffs-seattle-storm-schedule-how-to-watch/281-a182664a-2f90-42a1-be9a-fb7cb9d43bdb)
+        #### [Idaho man awaits trial on charges he threatened to kill former President Trump](https://www.king5.com/article/news/local/idaho-man-awaits-trial-charges-threatened-kill-former-president-trump/293-a5fc4fba-cfb3-43c6-a398-2c3acd5799e6)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86/20240924T120141/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86/20240924T120141/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/5414cca1-88b1-41d4-acb8-600f08239a6b/20240924T192524/5414cca1-88b1-41d4-acb8-600f08239a6b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5414cca1-88b1-41d4-acb8-600f08239a6b/20240924T192524/5414cca1-88b1-41d4-acb8-600f08239a6b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+70°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
