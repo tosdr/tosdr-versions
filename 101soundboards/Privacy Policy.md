@@ -468,6 +468,10 @@ BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE
 
 We may update our Policy from time to time. You are advised to review this Policy periodically for any changes. Changes to this Policy are effective when they are posted on this page.
 
+#### Responsible AI:
+
+Our site requires responsible use of AI TTS to ensure a positive and ethical user experience. By using AI TTS in a way that is respectful, inclusive, and avoids harmful stereotypes, we can contribute to a more welcoming and inclusive society.
+
 #### Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
