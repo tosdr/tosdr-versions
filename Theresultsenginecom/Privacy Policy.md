@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/theresultsengine.com.svg)](https://www.theresultsengine.com/?ueid=D77DB60F-6473-4DCF-92ED-F77EFCD2C2E3&ad=dirN "What's your question?")
+[![What's your question?](/static/logos/theresultsengine.com.svg)](https://www.theresultsengine.com/?ueid=DE1226F7-52F7-4A86-B147-EAC859478C12&ad=dirN "What's your question?")
 
 Ask Media Group Privacy Policy
 
@@ -302,7 +302,7 @@ Data Protection Officer
 1955 Broadway, Suite 350  
 Oakland, CA 94612
 
-* [Privacy Policy](https://www.theresultsengine.com/privacy?ueid=D77DB60F-6473-4DCF-92ED-F77EFCD2C2E3&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.theresultsengine.com/terms?ueid=D77DB60F-6473-4DCF-92ED-F77EFCD2C2E3&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.theresultsengine.com/privacy?ueid=DE1226F7-52F7-4A86-B147-EAC859478C12&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.theresultsengine.com/terms?ueid=DE1226F7-52F7-4A86-B147-EAC859478C12&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * © 2024 Ask Media Group, LLC
