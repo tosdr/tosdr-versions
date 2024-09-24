@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
 
+[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+
+  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+
+[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+
+  [![Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423171.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.")](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+
+[Death toll in Ishikawa rains hits seven as search for missing continues](https://www.japantimes.co.jp/news/2024/09/23/japan/heavy-rain-noto-peninsula/ "Death toll in Ishikawa rains hits seven as search for missing continues")
+
+  [![Rescue personnel search for missing people in debris washed away from flooding along the Tsukada River following heavy rain in Wajima, Ishikawa Prefecture, on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Rescue personnel search for missing people in debris washed away from flooding along the Tsukada River following heavy rain in Wajima, Ishikawa Prefecture, on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/heavy-rain-noto-peninsula/ "Death toll in Ishikawa rains hits seven as search for missing continues")
+
 [Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
   [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
-
-[What does America stand for? The world no longer knows.](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
-
-  [![U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422890.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ")](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
-
-['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
-
-  [![A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423095.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
-
-[Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
-
-  [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
 
 Editors' Picks
 --------------
@@ -163,35 +163,31 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+
+  [![Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423171.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.")](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Death toll in Ishikawa rains hits seven as search for missing continues](https://www.japantimes.co.jp/news/2024/09/23/japan/heavy-rain-noto-peninsula/ "Death toll in Ishikawa rains hits seven as search for missing continues")
+
+  [![Rescue personnel search for missing people in debris washed away from flooding along the Tsukada River following heavy rain in Wajima, Ishikawa Prefecture, on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Rescue personnel search for missing people in debris washed away from flooding along the Tsukada River following heavy rain in Wajima, Ishikawa Prefecture, on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/heavy-rain-noto-peninsula/ "Death toll in Ishikawa rains hits seven as search for missing continues")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
   [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[What does America stand for? The world no longer knows.](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
-
-By [Marc Champion](https://www.japantimes.co.jp/author/867/marc-champion/ "Marc Champion")  
-
-  [![U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422890.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ")](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423095.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
 
 Podcast
 -------
@@ -212,9 +208,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,23 +250,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Rice inflation to persist despite harvest, as prices rise over 20% on year](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-rice-inflation/ "Rice inflation to persist despite harvest, as prices rise over 20% on year")
+[Pioneering foreign female attorney stresses pragmatism within Japan Inc.](https://www.japantimes.co.jp/business/2024/09/24/companies/catherine-oconnell-profile/ "Pioneering foreign female attorney stresses pragmatism within Japan Inc.")
 
 28 mins ago
 
-[Tsunami advisory lifted after 50 cm wave reaches Hachijojima](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Tsunami advisory lifted after 50 cm wave reaches Hachijojima")
+[Number of specified skilled visa holders in Japan surpasses 250,000](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-foreign-worker-figures/ "Number of specified skilled visa holders in Japan surpasses 250,000")
 
-55 mins ago
+33 mins ago
 
-[India extends unprecedented invite to Myanmar's anti-junta forces, sources say](https://www.japantimes.co.jp/news/2024/09/24/asia-pacific/india-myanmar-anti-junta-forces/ "India extends unprecedented invite to Myanmar's anti-junta forces, sources say")
-
-59 mins ago
-
-[Israeli economy struggles under weight of Gaza war](https://www.japantimes.co.jp/news/2024/09/24/world/israeli-economy-gaza-war/ "Israeli economy struggles under weight of Gaza war")
+[Bain-backed chipmaker Kioxia scraps October IPO plan, sources say](https://www.japantimes.co.jp/business/2024/09/24/companies/kioxia-scraps-ipo/ "Bain-backed chipmaker Kioxia scraps October IPO plan, sources say")
 
 1 hours ago
 
-[China unleashes stimulus blitz in push to hit annual growth goal](https://www.japantimes.co.jp/business/2024/09/24/economy/china-stimulus-annual-growth-goal/ "China unleashes stimulus blitz in push to hit annual growth goal")
+[Moscow and Beijing unlikely to stop testing Tokyo's limits](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
+
+1 hours ago
+
+[BOJ chief signals no rush in raising rates further](https://www.japantimes.co.jp/business/2024/09/24/economy/boj-ueda-speech-no-rate-hike/ "BOJ chief signals no rush in raising rates further")
 
 1 hours ago
 
