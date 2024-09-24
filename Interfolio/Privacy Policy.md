@@ -2,7 +2,7 @@
 
 Unfortunately we don't fully support your browser. If you have the option to, please upgrade to a newer version or use [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Google Chrome](https://www.google.co.uk/chrome), or Safari 14 or newer. If you are unable to, and need support, please [send us your feedback](https://www.elsevier.com/support).
 
-We'd appreciate your feedback.[Tell us what you think! opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc)
+We'd appreciate your feedback.[Tell us what you think! opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/privacy-policy)
 
 [![Elsevier](/images/elsevier-logo.svg)](https://www.interfolio.com/)
 
@@ -27,8 +27,10 @@ Location Selector
 
 Show Menu
 
-[Privacy policy](https://www.interfolio.com/legal/privacy-policy)
------------------------------------------------------------------
+Privacy policy
+
+
+------------------
 
 Show Menu
 
@@ -81,7 +83,7 @@ Slide
 
 |     |     |
 | --- | --- |
-| [About our privacy policy](https://www.elsevier.com/legal/privacy-policy#0-about-our-privacy-policy) [Information we collect](https://www.elsevier.com/legal/privacy-policy#1-information-we-collect) [How we use your information](https://www.elsevier.com/legal/privacy-policy#2-how-we-use-your-information) [Sharing of your information](https://www.elsevier.com/legal/privacy-policy#3-sharing-of-your-information) [Your personal account](https://www.elsevier.com/legal/privacy-policy#4-your-personal-account) [Administrator data](https://www.elsevier.com/legal/privacy-policy#5-administrator-data) [Preferences](https://www.elsevier.com/legal/privacy-policy#6-preferences) [Accessing and updating](https://www.elsevier.com/legal/privacy-policy#7-accessing-and-updating) | [Data retention](https://www.interfolio.com/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc#8-data-retention) [Data security](https://www.interfolio.com/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc#9-data-security) [Locations of processing](https://www.interfolio.com/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc#10-locations-of-processing) [Grounds for processing](https://www.interfolio.com/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc#11-grounds-for-processing) [Changes](https://www.interfolio.com/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc#12-changes) [Contact](https://www.interfolio.com/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc#13-contact) [Service-specific details](https://www.interfolio.com/legal/privacy-policy?BID=1894331728&amp;SIS_ID=&amp;utm_campaign=HS_1929GB240014_email_CE_PCBR_WPSD-WEEK-3&amp;utm_campaignPK=366035389&amp;utm_medium=email%C0%A7%C0%A2%252527%252522%5C%27%5C%22&aamp;utm_sourc#14-service-specific-details) |
+| [About our privacy policy](https://www.elsevier.com/legal/privacy-policy#0-about-our-privacy-policy) [Information we collect](https://www.elsevier.com/legal/privacy-policy#1-information-we-collect) [How we use your information](https://www.elsevier.com/legal/privacy-policy#2-how-we-use-your-information) [Sharing of your information](https://www.elsevier.com/legal/privacy-policy#3-sharing-of-your-information) [Your personal account](https://www.elsevier.com/legal/privacy-policy#4-your-personal-account) [Administrator data](https://www.elsevier.com/legal/privacy-policy#5-administrator-data) [Preferences](https://www.elsevier.com/legal/privacy-policy#6-preferences) [Accessing and updating](https://www.elsevier.com/legal/privacy-policy#7-accessing-and-updating) | [Data retention](https://www.interfolio.com/legal/privacy-policy#8-data-retention) [Data security](https://www.interfolio.com/legal/privacy-policy#9-data-security) [Locations of processing](https://www.interfolio.com/legal/privacy-policy#10-locations-of-processing) [Grounds for processing](https://www.interfolio.com/legal/privacy-policy#11-grounds-for-processing) [Changes](https://www.interfolio.com/legal/privacy-policy#12-changes) [Contact](https://www.interfolio.com/legal/privacy-policy#13-contact) [Service-specific details](https://www.interfolio.com/legal/privacy-policy#14-service-specific-details) |
 
 Last updated: 22 May 2024
 
