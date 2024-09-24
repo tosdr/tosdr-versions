@@ -1,22 +1,12 @@
-[Till innehållet](#maincontent)
+Till innehållet Till undermeny
 
-Meny
+[Svenska kyrkan
+==============
 
-[Svenska kyrkan](https://www.svenskakyrkan.se/)
+Svenska kyrkan Svenska kyrkan](https://www.svenskakyrkan.se/)
 
-Vad söker du? 
+Sök Meny
 
-[Kalender](https://www.svenskakyrkan.se/kalender?webId=1374643) [Kyrkor](https://www.svenskakyrkan.se/platser) [Lyssna Lyssna med webReader](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=maincontent&url=https%3a%2f%2fwww.svenskakyrkan.se%2fdefault.aspx%3fid%3d1363923)
-
-[Svenska kyrkan](https://www.svenskakyrkan.se/)
-
-* [Svenska kyrkan](https://www.svenskakyrkan.se/default.aspx?id=1374643)
-* [Om oss](https://www.svenskakyrkan.se/om-oss)
-* [Om webbplatsen](https://www.svenskakyrkan.se/valkommen-till-svenskakyrkanse)
-* Kakor
-
-* [Svenska kyrkan](https://www.svenskakyrkan.se/)
-    
 * [Dop](https://www.svenskakyrkan.se/dop)
     
     * [Barndop](https://www.svenskakyrkan.se/dop/barndop)
@@ -1344,13 +1334,22 @@ Vad söker du?
         * [Sveerjen gærhkoen internasjonaale barkoe](https://www.svenskakyrkan.se/sveerjen-grhkoen-internasjonaale-barkoe)
             
 
-* [Till startsidan för svenskakyrkan.se](https://www.svenskakyrkan.se/)
+[Tillbaka till startsidan](https://www.svenskakyrkan.se/) [Svenska kyrkans startsida](https://www.svenskakyrkan.se/)
+
+1. [Svenska kyrkan](https://www.svenskakyrkan.se/default.aspx?id=1374643)
+2. [Om oss](https://www.svenskakyrkan.se/om-oss)
+3. [Om webbplatsen](https://www.svenskakyrkan.se/valkommen-till-svenskakyrkanse)
+4. Kakor
+
+[Kalender](https://www.svenskakyrkan.se/kalender?webId=1374643) [Kyrkor](https://www.svenskakyrkan.se/platser)
 
 * [Kakor](https://www.svenskakyrkan.se/om-oss/kakor)
 * [Lyssna på svenskakyrkan.se](https://www.svenskakyrkan.se/lyssna)
 * [Material på webbplatsen](https://www.svenskakyrkan.se/om-oss/material-pa-webbplatsen)
 * [Tillgänglighet](https://www.svenskakyrkan.se/tillganglighet-pa-svenskakyrkanse)
 * [Appar](https://www.svenskakyrkan.se/om-oss/appar)
+
+[Lyssna](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=4936&lang=sv_se&readid=innehall&url=)
 
 Kakor
 =====
@@ -1430,33 +1429,25 @@ Post- och telestyrelsen har tagit fram information om reglerna för både webbpl
 
 [Information om kakor för dig som använder internet (pts.se)](https://www.pts.se/sv/bransch/internet/integritet/information-om-kakor/#anvandare)
 
-[Vägledning om kakor för webbplatsinnehavare (webbriktlinjer.se)](https://webbriktlinjer.se/lagkrav/kaklagen-i-praktiken/)
+[Vägledning om kakor för webbplatsinnehavare (webbriktlinjer.se)](https://webbriktlinjer.se/lagkrav/kaklagen-i-praktiken/)  
 
-Uppdaterad: 28 juni 2023
-
-Dela
-
-Facebook Twitter LinkedIn E-post
+Tillbaka till toppen Tillbaka till innehållet
 
 Synpunkter eller frågor på sidans innehåll?
 -------------------------------------------
 
 [redaktionen@svenskakyrkan.se](mailto:redaktionen@svenskakyrkan.se?subject=&subject=Synpunkt%20p%C3%A5%20%22Kakor%22%20(ID%201363923))
 
-Tillbaka till toppen Tillbaka till innehållet
-
-Kontakt
--------
+Kontakt Kontakt
+---------------
 
 Svenska kyrkan [Hitta din församling](https://www.svenskakyrkan.se/sok-forsamling) [Kontaktuppgifter till Svenska kyrkan](https://www.svenskakyrkan.se/kontaktasvenskakyrkan)
 
-Kalender
---------
+Kalender Kalender
+-----------------
 
-[Se fler kommande händelser](https://www.svenskakyrkan.se/kalender?type=owner&id=2147483126&locationName=Kyrkokansliet+Svenska+kyrkan&webId=1374643)
-
-Hitta snabbt
-------------
+Hitta snabbt Hitta snabbt
+-------------------------
 
 * [Få hjälp och stöd](https://www.svenskakyrkan.se/fa-hjalp)
 * [Anledningar att vara medlem](https://www.svenskakyrkan.se/medlem/anledningar)
@@ -1465,11 +1456,11 @@ Hitta snabbt
 * [Kristen tro](https://www.svenskakyrkan.se/om-kristen-tro)
 * [Kyrkoårets bibeltexter](https://www.svenskakyrkan.se/kyrkoaret/bibeltexter)
 
-Sociala kanaler
----------------
+Sociala kanaler Sociala kanaler
+-------------------------------
 
 * [Facebook](https://www.facebook.com/svenskakyrkan)
-* [Twitter](https://twitter.com/svenskakyrkan)
+* [X](https://twitter.com/svenskakyrkan)
 * [Instagram](https://www.instagram.com/svenskakyrkan)
 * [Vimeo](https://vimeo.com/user14652877)
 * [Bloggportalen](https://blogg.svenskakyrkan.se/)
@@ -1501,5 +1492,3 @@ Om webbplatsen
 * [Kakor](https://www.svenskakyrkan.se/om-oss/kakor)
 * [Lyssna](https://www.svenskakyrkan.se/lyssna)
 * [Tillgänglighetsredogörelse](https://www.svenskakyrkan.se/tillganglighet-pa-svenskakyrkanse)
-
-[Om kakor](https://www.svenskakyrkan.se/om-oss/kakor) [Om lyssnafunktionen](https://www.svenskakyrkan.se/lyssna)
