@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/ingo-swann/%e2%80%98penetration%e2%80%99-hoofdstuk-3-%e2%80%93-4/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/ook-last-van-cognitieve-dissonantie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
