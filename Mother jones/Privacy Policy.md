@@ -8,10 +8,10 @@
 
 *  
     
-* [Nick Fuentes](https://www.motherjones.com/politics/2024/09/nick-fuentes-groyper-war-truth-social-twitter-x/)
-* [Donald Trump](https://www.motherjones.com/politics/2024/09/trump-election-loss-running-again-interview/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-polling-favorability-nbc-campaign-fundraising/)
-* [Mark Robinson](https://www.motherjones.com/politics/2024/09/donald-trumps-headed-to-north-carolina-mark-robinson-wont-be-campaigning-with-him/)
+* [Florida Maternity Homes](https://www.motherjones.com/politics/2024/09/floridas-dehumanizing-maternity-homes-made-single-mothers-feel-like-criminals/)
+* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-trump-haitian-immigrants-springfield-ohio-unhumans/)
+* [Electoral College](https://www.motherjones.com/politics/2024/09/nebraska-gop-state-senator-mike-mcdonnell-rejects-trump-push-to-rig-electoral-college/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-abortion-truth-social-whitmer-roe-harris/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Nick Fuentes](https://www.motherjones.com/politics/2024/09/nick-fuentes-groyper-war-truth-social-twitter-x/)
-* [Donald Trump](https://www.motherjones.com/politics/2024/09/trump-election-loss-running-again-interview/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-polling-favorability-nbc-campaign-fundraising/)
-* [Mark Robinson](https://www.motherjones.com/politics/2024/09/donald-trumps-headed-to-north-carolina-mark-robinson-wont-be-campaigning-with-him/)
+* [Florida Maternity Homes](https://www.motherjones.com/politics/2024/09/floridas-dehumanizing-maternity-homes-made-single-mothers-feel-like-criminals/)
+* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-trump-haitian-immigrants-springfield-ohio-unhumans/)
+* [Electoral College](https://www.motherjones.com/politics/2024/09/nebraska-gop-state-senator-mike-mcdonnell-rejects-trump-push-to-rig-electoral-college/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-abortion-truth-social-whitmer-roe-harris/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
