@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c66c57f34b0b51db53807d63d0c5748f
+cf50a4f3af4fa0714e84f5eedc6877f2
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Emerald glass clasp](https://www.sojourner.biz/images/cache/SKU0108front.200.jpg)](https://www.sojourner.biz/clasps/faux-stone/emerald-glass-clasp.html "Emerald glass clasp")
+[![Fancy jasper round beads](https://www.sojourner.biz/images/cache/stone/STN025.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-round-beads.html "Fancy jasper round beads")
 
-#### [Emerald glass clasp](https://www.sojourner.biz/clasps/faux-stone/emerald-glass-clasp.html "Emerald glass clasp")
+#### [Fancy jasper round beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-round-beads.html "Fancy jasper round beads")
 
-$17.50
+$18.00
 
 ### Best Sellers
 
