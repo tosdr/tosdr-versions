@@ -28,34 +28,24 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240103)
 * Cricket
     
-* [Women's T20I
-    
-    24/9 19:10 AEST
-    
-    |     |     |
-    | --- | --- |
-    | AUS | –   |
-    | NZL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250103)
 * [Men's ODI
     
-    24/9 21:30 AEST
-    
     |     |     |
     | --- | --- |
-    | ENG | –   |
-    | AUS | –   |
+    | ENG |     |
+    | AUS | 4 /163 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
-* [WNCL
+* [Women's T20I
+    
+    AUS won by 5 wkts
     
     |     |     |
     | --- | --- |
-    | WA  | 4 /79 |
-    | TAS | 219 |
+    | AUS | 5 /148 |
+    | NZL | 6 /146 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250101)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250103)
 * [One-Day Cup
     
     SA won by 2 runs
@@ -66,6 +56,26 @@ FOX SCORES
     | SA  | 166 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250103)
+* [One-Day Cup
+    
+    25/9 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | TAS | –   |
+    | QLD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250104)
+* [WNCL
+    
+    TAS won by 52 runs
+    
+    |     |     |
+    | --- | --- |
+    | WA  | 167 |
+    | TAS | 219 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250101)
 * AFL
     
 * [AFL
@@ -80,12 +90,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * [AFL Women's
     
-    24/9 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | RIC | –   |
-    | POR | –   |
+    | RIC | 6.12.48 |
+    | POR | 3.9.27 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240501)
 * NRL
@@ -930,7 +940,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
