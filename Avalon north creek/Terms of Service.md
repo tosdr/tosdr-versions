@@ -12,9 +12,6 @@
 
 [Create Account](#)[Login](#)
 
-Terms of Use
-------------
-
 **Updated Terms of Use**
 
 _Updated effective December 27, 2022_
