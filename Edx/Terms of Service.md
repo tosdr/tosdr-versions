@@ -634,6 +634,7 @@ Please note that we review and may make changes to this Honor Code from time to 
 edX
 ---
 
+* [Partner With Us](https://business.edx.org/partner)
 * [Boot Camps](https://www.edx.org/boot-camps)
 * [About](https://www.edx.org/about-us)
 * [edX For Business](https://business.edx.org/)
