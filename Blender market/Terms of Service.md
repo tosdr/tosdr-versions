@@ -225,13 +225,13 @@ Geneva, IL 60134
 
   
 
-![](https://d1231c29xbpffx.cloudfront.net/site_assets/images/transparent_bee.png)
+![](https://assets.superhivemarket.com/site_assets/images/transparent_bee.png)
 
 ##### Built by Blenderheads, for the Blender Community
 
 Blender Market's goal is to give our community a trusted platform for earning a living with software that we all love, Blender.
 
-Made with love from the humans behind [![](https://d1231c29xbpffx.cloudfront.net/site_assets/cgc_logo.png) CG Cookie](https://cgcookie.com/)
+Made with love from the humans behind [![](https://assets.superhivemarket.com/site_assets/images/cgc_logo.png) CG Cookie](https://cgcookie.com/)
 
 Follow us: [Twitter](https://twitter.com/blendermarket), [Facebook](https://www.facebook.com/cgcookieblendermarket/), and [Instagram](https://www.instagram.com/blendermarket3d/)
 
@@ -252,4 +252,4 @@ Follow us: [Twitter](https://twitter.com/blendermarket), [Facebook](https://www.
 * [Privacy Policy](https://blendermarket.com/policies/privacy-policy)
 * [\[email protected\]](https://blendermarket.com/cdn-cgi/l/email-protection)
 
-© 2024 Blender Market, LLC. All rights reserved. v**2.8.14.1**
+© 2024 Blender Market, LLC. All rights reserved. v**2.9.0**
