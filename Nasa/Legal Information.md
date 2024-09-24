@@ -253,7 +253,7 @@ article 1 week ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### Hubble Examines a Spiral Star Factory
 
-article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)[![: NICER’s X-ray concentrators are dark circles in eight staggered rows covering this image. Each one is divided into six segments, like a sliced pie, by its sunshade. The concentrators rest in a white frame of the telescope.](https://www.nasa.gov/wp-content/uploads/2024/08/crew-9-nicer-iss069e051526.jpg?w=1024)
+article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/)[![: NICER’s X-ray concentrators are dark circles in eight staggered rows covering this image. Each one is divided into six segments, like a sliced pie, by its sunshade. The concentrators rest in a white frame of the telescope.](https://www.nasa.gov/wp-content/uploads/2024/08/crew-9-nicer-iss069e051526.jpg?w=1024)
 
 4 min read
 
@@ -307,25 +307,25 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Highlights
 
-[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
+[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
+
+4 min read
+
+### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
+
+article 2 hours ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
 
 6 min read
 
 ### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 
-article 2 hours ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
+article 6 hours ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
 
 2 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![NASA Develops Process to Create Very Accurate Eclipse Maps](https://science.nasa.gov/wp-content/uploads/2024/08/pinhole-0885.jpg)
-
-3 min read
-
-### NASA Develops Process to Create Very Accurate Eclipse Maps
-
-article 4 days ago](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 4 days ago](https://science.nasa.gov/solar-system/skywatching/eclipses/s
 
 ### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
 
 1 min read
 
@@ -351,25 +351,25 @@ article 5 days ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-a
 
 ### Highlights
 
-[![Women in Astronomy Citizen Science Webinar This Thursday](https://science.nasa.gov/wp-content/uploads/2024/09/women-in-astronomy.png)
-
-1 min read
-
-### Women in Astronomy Citizen Science Webinar This Thursday
-
-article 2 hours ago](https://science.nasa.gov/get-involved/citizen-science/women-in-astronomy-citizen-science-webinar-this-thursday/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
+[![Meet the Authors series flyer](https://www.nasa.gov/wp-content/uploads/2024/09/meet-the-authors-title-slide-2024oct03.jpg?w=1024)
 
 2 min read
 
-### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
+### Meet the Authors – October 2024
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![Find Exoasteroids and Peek into the Future](https://science.nasa.gov/wp-content/uploads/2024/09/citizen-science-exoasteroids.jpg)
+article 2 hours ago](https://www.nasa.gov/meet-the-authors-october-2024/)[![Celebrating 30 years of space biology data](https://www.nasa.gov/wp-content/uploads/2024/09/30-years-of-space-bio-data-1.png?w=876)
+
+2 min read
+
+### Celebrating 30 Years of Space Biology Data!
+
+article 2 hours ago](https://www.nasa.gov/celebrating-30-years-of-space-biology-data/)[![](https://images-assets.nasa.gov/image/EC76-5145/EC76-5145~large.jpg?w=1920&h=1536&fit=clip&crop=faces%2Cfocalpoint)
 
 1 min read
 
-### Find Exoasteroids and Peek into the Future
+### Airborne Science
 
-article 6 hours ago](https://science.nasa.gov/get-involved/citizen-science/find-exoasteroids-and-peek-into-the-future/)
+article 3 hours ago](https://www.nasa.gov/airborne-science-at-ames/)
 
 ### Highlights
 
@@ -391,7 +391,7 @@ article 6 days ago](https://www.nasa.gov/history/65-years-ago-first-powered-flig
 
 ### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 
-article 6 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
+article 7 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 6 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-res
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
 
 1 min read
 
@@ -413,7 +413,7 @@ article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Reinventing the Clock: NASA’s New Tech for Space Timekeeping
 
-article 5 days ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)
+article 6 days ago](https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/)
 
 ### Featured
 
