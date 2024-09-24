@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
+    
+    ### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
+    
     [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
     
     ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
@@ -50,10 +54,6 @@
     [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
     
     ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
-    
-    [![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
-    
-    ### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
+    
+    ### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
+    
     [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
     
     ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
@@ -130,10 +134,6 @@ View All Result
     [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
     
     ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
-    
-    [![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
-    
-    ### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -233,6 +233,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
+
+### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
+
+[24th September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
+
 [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-120x86.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
 
 ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
@@ -262,12 +268,6 @@ Terms of Use
 ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
 
 [22nd September 2024](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
-
-[![Trademark version](https://southwarknews.co.uk/wp-content/uploads/2024/09/trademark-version-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
-
-### [Bermondsey’s long-forgotten ginger beer](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
-
-[22nd September 2024](https://southwarknews.co.uk/area/bermondsey/bermondseys-long-forgotten-ginger-beer/)
 
 ### USEFUL PAGES
 
