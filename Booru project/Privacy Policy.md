@@ -10,11 +10,11 @@ where the imageboards live
 * [![](images/menu_top_boorus.png)Top Boorus](https://booru.org/top "List of most popular boorus")
 * [![](images/menu_faq.png)FAQ](https://booru.org/faq)
 
-  ![101dalmatians](https://101dalmatians.booru.org/favicon.ico)  Booru of the day: |**[101dalmatians](https://101dalmatians.booru.org/)**|
+  ![animalcrossingfeet](http://animalcrossingfeet.booru.org/favicon.ico)  Booru of the day: |**[animalcrossingfeet](http://animalcrossingfeet.booru.org/)**|
 
 * NSFW
-* 728 ![images](images/booru_totalimages.gif)
-* 5 ![members](images/booru_totalusers.gif)
+* 153 ![images](images/booru_totalimages.gif)
+* 2 ![members](images/booru_totalusers.gif)
 
 * [![](images/menu_login.gif)Log into your Booru](https://booru.org/login)
 
