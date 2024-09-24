@@ -505,7 +505,7 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.16.7. For the avoidance of doubt, Sections 4, 5.1.7, 5.1.11 and 5.3 (“_Pertinent Sections_”) shall be applicable to Your Content and your use of the MTIP (including uploading, publishing, displaying, distributing or making Your Content available on the MTIP). This Section 13.16 and the Pertinent Sections, to the greatest extent practicable, will be construed to be consistent with each other, but in the event of a conflict they will govern in the following order of precedence: (i) this Section 13.16; and (ii) the Pertinent Sections.
 
-* [About Piriform](https://www.ccleaner.com/about)
+* About Piriform
 * [Press Releases](https://newsroom.gendigital.com/ccleaner)
 * Offices
 * [Partner Program](https://www.ccleaner.com/partners)
