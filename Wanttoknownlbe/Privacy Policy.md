@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/revolutionair-het-volkstribunaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/angst-wat-is-dat-hoe-bevrijd-je-je-daarvan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
