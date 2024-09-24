@@ -147,7 +147,7 @@ Switch to
             -------
             
             * [Razer USB-C Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-c-dock)
-            * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma/)
+            * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma)
             * [Razer Laptop Stand](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma-v2)
             * [Razer 130W USB-C GaN charger](https://www.razer.com/gaming/pc/accessories/razer-usb-c-gan-charger)
             * [Razer Thunderbolt Cables](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-cables)
@@ -884,8 +884,6 @@ Switch to
             * [Razer Kaira Pro for Xbox - Halo Infinite](https://www.razer.com/console-headsets/razer-kaira-pro-halo-infinite-edition)
             * [Razer Kaira Pro for Xbox](https://www.razer.com/console-headsets/razer-kaira-x-for-xbox)
             * [Razer Kaira for Xbox](https://www.razer.com/console-headsets/razer-kaira-for-xbox)
-            * [Razer Kraken X for Xbox](https://www.razer.com/console-headsets/razer-kraken-x-for-xbox)
-            * [Razer Kraken X for Xbox (2021)](https://www.razer.com/console-headsets/razer-kraken-x-for-xbox)
             * [Razer Kraken for Console](https://www.razer.com/console-headsets/razer-kraken-for-console)
             * [Razer Kraken X for Console](https://www.razer.com/console-headsets/razer-kraken-x-for-console)
             
