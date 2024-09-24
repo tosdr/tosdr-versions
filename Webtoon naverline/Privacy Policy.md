@@ -40,7 +40,7 @@ If you are accessing from France (Français), Indonesia (Indonesia), Taiwan (中
 
 ### WEBTOON™ PRIVACY POLICY HIGHLIGHTS
 
-Last Updated: March 26, 2024
+Last Updated: September 24, 2024
 
 NAVER WEBTOON Ltd. (including its affiliates, hereinafter together referred to as **“we”**, **“our”** or **"us"**) respect your concerns about privacy. This Privacy Policy applies to the personal information we collect through WEBTOON application and/or website, WEBTOON TRANSLATE and CANVAS (collectively **“Services”**).
 
@@ -71,8 +71,8 @@ NAVER WEBTOON Ltd. and WEBTOON Entertainment Inc. share joint controllership for
 In any event, you can contact us in writing at the following addresses:  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republic of Korea.  
 or  
@@ -240,8 +240,8 @@ The Services are designed for a general audience. If the consent of the parent (
 \- In any event, you can contact us in writing at the following addresses.  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republic of Korea.  
   
@@ -385,7 +385,7 @@ We will store the collected data even thereafter, until the expiration of any le
 
 ### WEBTOON™ – PRINCIPAUX ÉLÉMENTS DE LA POLITIQUE DE PROTECTION DES DONNÉES POUR LA FRANCE
 
-Mise à jour le 26 Mars 2024.
+Mise à jour le 24 septembre 2024.
 
 NAVER WEBTOON Ltd. (y compris ses filiales, ci-après dénommées ensemble « nous » ou « notre ») attache de l’importance à la protection de votre vie privée. La présente Politique de protection des données s’applique aux données à caractère personnel collectées via l’application et/ou le site web WEBTOON TRANSLATE et CANVAS (désignés ensemble comme les « **Services** »).
 
@@ -416,8 +416,8 @@ NAVER WEBTOON Ltd. et WEBTOON Entertainment Inc. sont responsables conjointement
 Pour toute demande, vous pouvez nous contacter par écrit aux coordonnées suivantes :  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 République de Corée  
 ou  
@@ -586,8 +586,8 @@ Les Services sont conçus pour un public général. Si le consentement d’un pa
 \- Dans tous les cas, vous pouvez nous contacter par écrit aux coordonnées suivantes.  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 République de Corée  
   
@@ -642,7 +642,7 @@ Vous pouvez nous contacter en envoyant un email à notre délégué européen à
 
 ### POKOK-POKOK KEBIJAKAN PRIVASI WEBTOON™ INDONESIA
 
-Terakhir Diperbarui: 26 Maret 2024.
+Terakhir Diperbarui: 24 September 2024.
 
 NAVER WEBTOON Ltd. (termasuk afiliasinya, selanjutnya bersama-sama disebut sebagai "**kami**", "**milik kami**", atau "**kita**") menghormati kekhawatiran Anda tentang privasi. Kebijakan Privasi ini berlaku untuk informasi pribadi yang kami kumpulkan melalui aplikasi WEBTOON dan/atau situs web dan KANVAS (secara kolektif disebut "**Layanan**").
 
@@ -672,8 +672,8 @@ NAVER WEBTOON Ltd. dan WEBTOON Entertainment Inc. berbagi kendali bersama untuk 
 Dalam hal apapun, Anda dapat menghubungi kami secara tertulis di alamat berikut:  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republik Korea.  
 atau  
@@ -842,8 +842,8 @@ Layanan dirancang untuk masyarakat umum. Jika persetujuan orang tua (atau wali y
 \- Dalam hal apapun, Anda dapat menghubungi kami secara tertulis di alamat berikut.  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republik Korea.  
   
@@ -864,7 +864,7 @@ Kebijakan Privasi ini dapat diperbarui untuk mencerminkan perubahan dalam prakti
 
 ### นโยบายความเป็นส่วนตัวของ WEBTOON สำหรับประเทศไทย
 
-อัปเดตล่าสุด: 26 มีนาคม 2024
+อัปเดตล่าสุด: 24 กันยายน 2567
 
 NAVER WEBTOON Ltd. (รวมถึงบริษัทในเครือของบริษัทดังกล่าว ซึ่งต่อไปในข้อกำหนดการใช้งานฉบับนี้จะเรียกรวมกันว่า "เรา" หรือ "ของเรา") เคารพความเป็นส่วนตัวของท่าน นโยบายความเป็นส่วนตัวนี้ใช้บังคับกับข้อมูลส่วนบุคคลที่เราเก็บรวบรวมผ่านทางแอปพลิเคชันและ/หรือเว็บไซต์ของ WEBTOON WEBTOON TRANSLATE และ แคนวาส (CANVAS) (ต่อไปนี้จะเรียกรวมกันว่า "**บริการ**")
 
@@ -894,8 +894,8 @@ NAVER WEBTOON Ltd. และWEBTOON Entertainment Inc. มีอำนาจค�
 ในกรณีใด ๆ ก็ตาม ท่านสามารถติดต่อเราเป็นลายลักษณ์อักษรได้ตามที่อยู่ด้านล่างนี้  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republic of Korea  
 หรือ  
@@ -1062,8 +1062,8 @@ NAVER WEBTOON Ltd. และ WEBTOON Entertainment Inc. ในฐานะที
 \- ในกรณีใด ๆ ก็ตาม ท่านสามารถติดต่อเราเป็นลายลักษณ์อักษรได้ตามที่อยู่ด้านล่างนี้  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republic of Korea  
   
@@ -1083,7 +1083,7 @@ United States
 
 ### 台灣 WEBTOON™ 隱私權政策要點
 
-最後更新：2024年3月26日
+最後更新：2024年9月24日
 
 NAVER WEBTOON Ltd.（包括其子公司，以下合稱「**我們**」或「**我們的**」）尊重您對個人隱私權的保障，凡是我們透過WEBTOON應用程式和/或網站、投稿新星專區 （合稱「**本服務**」）所蒐集的個人資料，均有本隱私權政策的適用。
 
@@ -1113,8 +1113,8 @@ NAVER WEBTOON Ltd.及WEBTOON Entertainment Inc.共享處理個人資料的控制
 在任何時刻，您可透過以下地址以書面聯繫我們：  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republic of Korea.  
 或  
@@ -1281,8 +1281,8 @@ NAVER WEBTOON Ltd.及WEBTOON Entertainment Inc.於必要時將作為您個人資
 在任何時刻，您可透過以下地址以書面聯繫我們。  
   
 NAVER WEBTOON Ltd.  
-TechONE Tower1 11-12F,  
-131, Bundangnaegok-ro, Bundang-gu,  
+NAVER Green Factory 6-10F,  
+6, Buljeong-ro, Bundang-gu,  
 Seongnam-si, Gyeonggi-do,  
 Republic of Korea.  
   
