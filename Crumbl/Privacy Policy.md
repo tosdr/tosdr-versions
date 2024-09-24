@@ -1,6 +1,6 @@
 Sign in
 
-[Home](https://crumblcookies.com/)[Order](https://crumblcookies.com/order)[Locations](https://crumblcookies.com/stores)[Catering](https://crumblcookies.com/catering)[Gift Cards](https://crumblcookies.com/login?next=%2Fgifting%2Fgiftcards)
+[Home](https://crumblcookies.com/)[Order](https://crumblcookies.com/order)[Locations](https://crumblcookies.com/stores)[Catering](https://crumblcookies.com/catering)[Gift Cards](https://crumblcookies.com/login?next=%2Fgifting%2Fgiftcards)[Merch](https://merch.crumbl.com/)
 
 My Bag
 
