@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
 * [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
 * [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
 * [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
 * [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Service Stiftung Warentest
 
