@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strikes kill 492 in Lebanon's deadliest day of conflict since 2006](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
+    * [Israel and Hezbollah renew fire after the deadliest day in Lebanon since 2006](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
     * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
-    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
+    * [World leaders meet under shadow of global divisions, 3 wars and possible Mideast conflict](https://apnews.com/article/un-world-leaders-gaza-ukraine-sudan-e9b8bd0ee132f6a7f56555975f67b0de)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Gunman who killed 10 at a Colorado supermarket is sentenced to life in prison](https://apnews.com/article/colorado-supermarket-shooting-ahmad-alissa-71d0750ba3b096dcbe51b390eee5d7db)
-    * [Texas jury clears most 'Trump Train’ drivers in civil trial over 2020 Biden-Harris bus encounter](https://apnews.com/article/trump-train-biden-texas-2020-election-trials-018e1c725e17ab0593835468db202666)
-    * [Missouri Supreme Court and governor refuse to halt the execution of man convicted of 1998 killing](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
+    * [There are 5 executions set over a week's span in the US. That's the most in decades](https://apnews.com/article/executions-oklahoma-alabama-missouri-texas-south-carolina-d77a31bea7a4839424afc8889c7d8755)
+    * [Southeast US under major storm warning as hurricane watch issued for parts of Cuba and Mexico](https://apnews.com/article/caribbean-us-tropical-storm-hurricane-helene-a1582935d0b9002bc8993b483c203206)
     
     Newsletters
     
@@ -74,7 +74,7 @@ Menu
     
     * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
     * [Alsobrooks presses the case for national abortion rights in critical Maryland Senate race](https://apnews.com/article/senate-maryland-angela-alsobrooks-larry-hogan-9237eeff099768e04888bb53fb98baeb)
-    * [Hello, I'm Johnny Cash's statue: A monument to the singer is unveiled at the US Capitol](https://apnews.com/article/capitol-arkansas-johnny-cash-statue-a7c35ff2a0f76cf536534972a38bca89)
+    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
     
     Newsletters
     
@@ -162,7 +162,7 @@ Menu
     * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
     * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
     * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
-    * [Round 'em up: Eight bulls escape a Massachusetts rodeo and charge through a mall parking lot](https://apnews.com/article/rodeo-bulls-escape-massachusetts-talker-d6f74e0b3ed0dac1f7ccd15e7c1af065)
+    * [The last of 8 escaped bulls from a Massachusetts rodeo is caught on highway](https://apnews.com/article/rodeo-bulls-escape-massachusetts-6336274f334389cae8b1bd1873f50bf2)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -258,8 +258,8 @@ Menu
     TOP STORIES
     
     * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
+    * [Iran was behind thousands of text messages calling for revenge over Quran burnings, Sweden says](https://apnews.com/article/sweden-iran-quran-burnings-revolutionary-guard-309f5f12aac2fc4e9a064bb0ffd313ee)
     * [Biden administration seeks to ban Chinese, Russian tech in US autonomous vehicles](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [China says it will investigate fashion firm PVH for suspected boycott of Xinjiang products](https://apnews.com/article/pvh-hilfiger-china-xinjiang-trade-2f0f414f0fcc3fd432bc9229856ec21c)
     * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
     * [Stephen & Evie Colbert's red rice recipe, a dish both jammy and tangy](https://apnews.com/article/stephen-evie-colbert-red-rice-cookbook-recipe-4b565e4277054fa476dad661bbc8c9b1)
-    * [Stephen & Evie Colbert offer a cookbook that's also a window on their lives](https://apnews.com/article/stephen-evie-colbert-cookbook-taste-funny-7c49d256488240d8ee0f4874940e6ee5)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Two tales from one city show the challenges Pope Francis faces to retain his flock in Europe](https://apnews.com/article/belgium-pope-bf42fb22867649ce7b14a06311656f41)
+    * [Morocco rebuilds a 12th-century mosque destroyed by 2023 earthquake](https://apnews.com/article/morocco-earthquake-destruction-mosque-islam-56a224ce9a7a49c8c45fa9037a99bcf9)
     * [Most Hispanic Americans support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
-    * [Malaysian police rescue 187 more children as sex abuse probe of Islamic group deepens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-f881f8fe7bba6afe17b20c7b5524e7f0)
-    * [The family of a doctor accused of blasphemy in Pakistan says police killed him in a fake encounter](https://apnews.com/article/pakistan-blasphemy-suspect-killed-police-260b6cc77437d64d4093bd4aea37c649)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Bombardeos de Israel contra Líbano matan a por lo menos 492 personas](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
-    * [John toca tierra en el sur de México como huracán de categoría 3](https://apnews.com/world-news/general-news-71b0f213df5f6f33ea036b52b80307ba)
+    * [Israel y Hezbollah retoman las hostilidades tras la jornada más letal en Líbano desde 2006](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
+    * [Tormenta tropical John azota sur del Pacífico mexicano con inundaciones "potencialmente letales"](https://apnews.com/climate-and-environment/general-news-e79c82c35e1ec2a0399bde0b3fde371c)
     * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
     * [¿Es una guerra? El conflicto entre Israel y Hezbollah es difícil de definir, y de predecir](https://apnews.com/world-news/general-news-118daeff9e6a8467a42e5894942f25e6)
-    * [Emiten avisos preventivos para EEUU, Cuba y México por posibilidad de tormenta en el Golfo de México](https://apnews.com/world-news/general-news-1f795c2bc548388736bdcd758636eac8)
-    * [Grupo de combate al lavado de dinero suspende a Colombia después de que Petro reveló informe](https://apnews.com/world-news/general-news-54d27992fefcf77e89e72d767a8ed366)
+    * [Lula hablará de clima ante la ONU, pero los incendios en Amazonía socavan su mensaje](https://apnews.com/world-news/general-news-07296b33b08634832443e0df04fb7312)
+    * [La policía alemana aumentará las escoltas para políticos destacados](https://apnews.com/world-news/general-news-ee5d25f8690bc1d97bd7857c43176f29)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strikes kill 492 in Lebanon's deadliest day of conflict since 2006](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
+    * [Israel and Hezbollah renew fire after the deadliest day in Lebanon since 2006](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
     * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
-    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
+    * [World leaders meet under shadow of global divisions, 3 wars and possible Mideast conflict](https://apnews.com/article/un-world-leaders-gaza-ukraine-sudan-e9b8bd0ee132f6a7f56555975f67b0de)
     
     Newsletters
     
@@ -472,8 +472,8 @@ Submit Search
     TOP STORIES
     
     * [Gunman who killed 10 at a Colorado supermarket is sentenced to life in prison](https://apnews.com/article/colorado-supermarket-shooting-ahmad-alissa-71d0750ba3b096dcbe51b390eee5d7db)
-    * [Texas jury clears most 'Trump Train’ drivers in civil trial over 2020 Biden-Harris bus encounter](https://apnews.com/article/trump-train-biden-texas-2020-election-trials-018e1c725e17ab0593835468db202666)
-    * [Missouri Supreme Court and governor refuse to halt the execution of man convicted of 1998 killing](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
+    * [There are 5 executions set over a week's span in the US. That's the most in decades](https://apnews.com/article/executions-oklahoma-alabama-missouri-texas-south-carolina-d77a31bea7a4839424afc8889c7d8755)
+    * [Southeast US under major storm warning as hurricane watch issued for parts of Cuba and Mexico](https://apnews.com/article/caribbean-us-tropical-storm-hurricane-helene-a1582935d0b9002bc8993b483c203206)
     
     Newsletters
     
@@ -525,7 +525,7 @@ Submit Search
     
     * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
     * [Alsobrooks presses the case for national abortion rights in critical Maryland Senate race](https://apnews.com/article/senate-maryland-angela-alsobrooks-larry-hogan-9237eeff099768e04888bb53fb98baeb)
-    * [Hello, I'm Johnny Cash's statue: A monument to the singer is unveiled at the US Capitol](https://apnews.com/article/capitol-arkansas-johnny-cash-statue-a7c35ff2a0f76cf536534972a38bca89)
+    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
     
     Newsletters
     
@@ -640,7 +640,7 @@ Submit Search
     * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
     * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
     * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
-    * [Round 'em up: Eight bulls escape a Massachusetts rodeo and charge through a mall parking lot](https://apnews.com/article/rodeo-bulls-escape-massachusetts-talker-d6f74e0b3ed0dac1f7ccd15e7c1af065)
+    * [The last of 8 escaped bulls from a Massachusetts rodeo is caught on highway](https://apnews.com/article/rodeo-bulls-escape-massachusetts-6336274f334389cae8b1bd1873f50bf2)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -746,8 +746,8 @@ Submit Search
     TOP STORIES
     
     * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
+    * [Iran was behind thousands of text messages calling for revenge over Quran burnings, Sweden says](https://apnews.com/article/sweden-iran-quran-burnings-revolutionary-guard-309f5f12aac2fc4e9a064bb0ffd313ee)
     * [Biden administration seeks to ban Chinese, Russian tech in US autonomous vehicles](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,17 +765,17 @@ Submit Search
     
     TOP STORIES
     
+    * [China says it will investigate fashion firm PVH for suspected boycott of Xinjiang products](https://apnews.com/article/pvh-hilfiger-china-xinjiang-trade-2f0f414f0fcc3fd432bc9229856ec21c)
     * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
     * [Stephen & Evie Colbert's red rice recipe, a dish both jammy and tangy](https://apnews.com/article/stephen-evie-colbert-red-rice-cookbook-recipe-4b565e4277054fa476dad661bbc8c9b1)
-    * [Stephen & Evie Colbert offer a cookbook that's also a window on their lives](https://apnews.com/article/stephen-evie-colbert-cookbook-taste-funny-7c49d256488240d8ee0f4874940e6ee5)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Two tales from one city show the challenges Pope Francis faces to retain his flock in Europe](https://apnews.com/article/belgium-pope-bf42fb22867649ce7b14a06311656f41)
+    * [Morocco rebuilds a 12th-century mosque destroyed by 2023 earthquake](https://apnews.com/article/morocco-earthquake-destruction-mosque-islam-56a224ce9a7a49c8c45fa9037a99bcf9)
     * [Most Hispanic Americans support abortion access: AP-NORC poll](https://apnews.com/article/hispanic-americans-election-2024-abortion-trump-harris-3fcad2d82d2e1a1d7e0e415720337124)
-    * [Malaysian police rescue 187 more children as sex abuse probe of Islamic group deepens](https://apnews.com/article/malaysia-islam-child-sexual-abuse-f881f8fe7bba6afe17b20c7b5524e7f0)
-    * [The family of a doctor accused of blasphemy in Pakistan says police killed him in a fake encounter](https://apnews.com/article/pakistan-blasphemy-suspect-killed-police-260b6cc77437d64d4093bd4aea37c649)
     
     Newsletters
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Bombardeos de Israel contra Líbano matan a por lo menos 492 personas](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
-    * [John toca tierra en el sur de México como huracán de categoría 3](https://apnews.com/world-news/general-news-71b0f213df5f6f33ea036b52b80307ba)
+    * [Israel y Hezbollah retoman las hostilidades tras la jornada más letal en Líbano desde 2006](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
+    * [Tormenta tropical John azota sur del Pacífico mexicano con inundaciones "potencialmente letales"](https://apnews.com/climate-and-environment/general-news-e79c82c35e1ec2a0399bde0b3fde371c)
     * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
     * [¿Es una guerra? El conflicto entre Israel y Hezbollah es difícil de definir, y de predecir](https://apnews.com/world-news/general-news-118daeff9e6a8467a42e5894942f25e6)
-    * [Emiten avisos preventivos para EEUU, Cuba y México por posibilidad de tormenta en el Golfo de México](https://apnews.com/world-news/general-news-1f795c2bc548388736bdcd758636eac8)
-    * [Grupo de combate al lavado de dinero suspende a Colombia después de que Petro reveló informe](https://apnews.com/world-news/general-news-54d27992fefcf77e89e72d767a8ed366)
+    * [Lula hablará de clima ante la ONU, pero los incendios en Amazonía socavan su mensaje](https://apnews.com/world-news/general-news-07296b33b08634832443e0df04fb7312)
+    * [La policía alemana aumentará las escoltas para políticos destacados](https://apnews.com/world-news/general-news-ee5d25f8690bc1d97bd7857c43176f29)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
