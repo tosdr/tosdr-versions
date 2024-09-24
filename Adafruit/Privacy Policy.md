@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It is not enough to have a good mind; the main thing is to use it well”
+“ A hacker to me is someone creative who does wonderful things”
 
-[Rene Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+[Tim Berners-Lee](https://twitter.com/wef/statuses/294738623641812992)
 
 [](https://www.adafruit.com/about)
 
