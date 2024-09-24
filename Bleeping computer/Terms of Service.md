@@ -36,18 +36,18 @@
         
         Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
     
+    * [![MoneyGram confirms a cyberattack is behind dayslong outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        MoneyGram confirms a cyberattack is behind dayslong outage](https://www.bleepingcomputer.com/news/security/moneygram-confirms-a-cyberattack-is-behind-dayslong-outage/)
+    * [![Keep your batteries full with this 7-port GaN Charging Station deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Keep your batteries full with this 7-port GaN Charging Station deal](https://www.bleepingcomputer.com/offer/deals/keep-your-batteries-full-with-this-7-port-gan-charging-station-deal/)
+    * [![New Octo Android malware version impersonates NordVPN, Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Octo Android malware version impersonates NordVPN, Google Chrome](https://www.bleepingcomputer.com/news/security/new-octo-android-malware-version-impersonates-nordvpn-google-chrome/)
     * [![US proposes ban on connected vehicle tech from China, Russia](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         US proposes ban on connected vehicle tech from China, Russia](https://www.bleepingcomputer.com/news/security/us-proposes-ban-on-connected-vehicle-tech-from-china-russia/)
-    * [![Telegram now shares users’ IP and phone number on legal requests](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
-    * [![New Mallox ransomware Linux variant based on leaked Kryptina code](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Mallox ransomware Linux variant based on leaked Kryptina code](https://www.bleepingcomputer.com/news/security/new-mallox-ransomware-linux-variant-based-on-leaked-kryptina-code/)
-    * [![Kaspersky deletes itself, installs UltraAV antivirus without warning](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Kaspersky deletes itself, installs UltraAV antivirus without warning](https://www.bleepingcomputer.com/news/security/kaspersky-deletes-itself-installs-ultraav-antivirus-without-warning/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
