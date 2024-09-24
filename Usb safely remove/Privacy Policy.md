@@ -8,28 +8,28 @@
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://safelyremove.com/forum/search.php?search_id=unanswered&sid=b2ba014411850d36d5770364cefa9d53)
-    * [Active topics](https://safelyremove.com/forum/search.php?search_id=active_topics&sid=b2ba014411850d36d5770364cefa9d53)
+    * [Unanswered topics](https://safelyremove.com/forum/search.php?search_id=unanswered&sid=f9ef951595da13b9b58f3a10ebba442e)
+    * [Active topics](https://safelyremove.com/forum/search.php?search_id=active_topics&sid=f9ef951595da13b9b58f3a10ebba442e)
     
-    * [Search](https://safelyremove.com/forum/search.php?sid=b2ba014411850d36d5770364cefa9d53)
+    * [Search](https://safelyremove.com/forum/search.php?sid=f9ef951595da13b9b58f3a10ebba442e)
     
-* [Forums](https://safelyremove.com/forum/index.php?sid=b2ba014411850d36d5770364cefa9d53)
+* [Forums](https://safelyremove.com/forum/index.php?sid=f9ef951595da13b9b58f3a10ebba442e)
 
-* [FAQ](https://safelyremove.com/forum/app.php/help/faq?sid=b2ba014411850d36d5770364cefa9d53 "Frequently Asked Questions")
-* [Login](https://safelyremove.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=b2ba014411850d36d5770364cefa9d53 "Login")
-* [Register](https://safelyremove.com/forum/ucp.php?mode=register&sid=b2ba014411850d36d5770364cefa9d53)
+* [FAQ](https://safelyremove.com/forum/app.php/help/faq?sid=f9ef951595da13b9b58f3a10ebba442e "Frequently Asked Questions")
+* [Login](https://safelyremove.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=f9ef951595da13b9b58f3a10ebba442e "Login")
+* [Register](https://safelyremove.com/forum/ucp.php?mode=register&sid=f9ef951595da13b9b58f3a10ebba442e)
 
-* [Search](https://safelyremove.com/forum/search.php?sid=b2ba014411850d36d5770364cefa9d53)
-* [Login](https://safelyremove.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=b2ba014411850d36d5770364cefa9d53 "Login")
-* [Register](https://safelyremove.com/forum/ucp.php?mode=register&sid=b2ba014411850d36d5770364cefa9d53)
-*  Search [Advanced search](https://safelyremove.com/forum/search.php?sid=b2ba014411850d36d5770364cefa9d53 "Advanced search") 
+* [Search](https://safelyremove.com/forum/search.php?sid=f9ef951595da13b9b58f3a10ebba442e)
+* [Login](https://safelyremove.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=f9ef951595da13b9b58f3a10ebba442e "Login")
+* [Register](https://safelyremove.com/forum/ucp.php?mode=register&sid=f9ef951595da13b9b58f3a10ebba442e)
+*  Search [Advanced search](https://safelyremove.com/forum/search.php?sid=f9ef951595da13b9b58f3a10ebba442e "Advanced search") 
     
 
-* [Board index](https://safelyremove.com/forum/index.php?sid=b2ba014411850d36d5770364cefa9d53)
-* [Search](https://safelyremove.com/forum/search.php?sid=b2ba014411850d36d5770364cefa9d53 "View the advanced search options")
-* [](# "It is currently Sep 23rd, 2024, 10:16 pm")
+* [Board index](https://safelyremove.com/forum/index.php?sid=f9ef951595da13b9b58f3a10ebba442e)
+* [Search](https://safelyremove.com/forum/search.php?sid=f9ef951595da13b9b58f3a10ebba442e "View the advanced search options")
+* [](# "It is currently Sep 24th, 2024, 3:55 am")
     
-    * It is currently Sep 23rd, 2024, 10:16 pm
+    * It is currently Sep 24th, 2024, 3:55 am
     * All times are UTC
     
 
@@ -49,6 +49,8 @@ Your password is ciphered (a one-way hash) so that it is secure. However, it is 
 [](#)
 
 [](#)
+
+![cron](/forum/app.php/cron/cron.task.core.tidy_search?sid=f9ef951595da13b9b58f3a10ebba442e)
 
 * [Home](https://safelyremove.com/)
 * [FAQ](https://safelyremove.com/faq.htm)
