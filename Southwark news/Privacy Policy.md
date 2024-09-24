@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
+    
+    ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
+    
+    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+    
+    ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+    
     [![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
     
     ### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
@@ -46,14 +54,6 @@
     [![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
     
     ### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
-    
-    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
-    
-    ### [‘Our government will end bidding war for private renters’ writes MP Helen Hayes](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
-    
-    [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
-    
-    ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
+    
+    ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
+    
+    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+    
+    ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+    
     [![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
     
     ### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
@@ -126,14 +134,6 @@ View All Result
     [![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
     
     ### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
-    
-    [![Helen Hayes, Labour MP for Dulwich and West Norwood](https://southwarknews.co.uk/wp-content/uploads/2024/06/Helen-Hayes-for-web-360x180.jpeg)](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
-    
-    ### [‘Our government will end bidding war for private renters’ writes MP Helen Hayes](https://southwarknews.co.uk/news/politics/our-government-will-end-bidding-war-for-private-renters-writes-mp-helen-hayes/)
-    
-    [![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
-    
-    ### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -365,13 +365,31 @@ Website
 
 [21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
-[![Mihailo Ivanovic celebrates a goal for Vojvodina. Photo: Vojvodina FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Ivanovic-Vosa--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/the-inside-story-of-mihailo-ivanovic-to-millwall-surprise-at-lions-interest-after-talks-with-european-clubs-his-italy-adventure-top-running-stats-and-why-the-fans-will-love-him/)
+[![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
 
-### [The inside story of Mihailo Ivanovic to Millwall: Surprise at Lions interest after talks with European clubs; his Italy adventure; top running stats – and why the fans will love him](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/the-inside-story-of-mihailo-ivanovic-to-millwall-surprise-at-lions-interest-after-talks-with-european-clubs-his-italy-adventure-top-running-stats-and-why-the-fans-will-love-him/)
+### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
 
-[19th September 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/the-inside-story-of-mihailo-ivanovic-to-millwall-surprise-at-lions-interest-after-talks-with-european-clubs-his-italy-adventure-top-running-stats-and-why-the-fans-will-love-him/)
+[21st September 2024](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
 
 ### Featured Articles
+
+[![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
+
+### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
+
+[24th September 2024](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
+
+[![(c) Ted Stampfer Collection](https://southwarknews.co.uk/wp-content/uploads/2024/09/Marilyn-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
+
+### [Unprecedented glimpse into the private world of Marilyn Monroe is coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
+
+[24th September 2024](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
+
+[![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-120x86.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+
+### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+
+[24th September 2024](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 [![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
 
@@ -390,24 +408,6 @@ Website
 ### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
 
 [23rd September 2024](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
-
-[![The storage unit was housing pedicabs for repair and storage, London Fire Brigade said. Image- LFB](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-storage-unit-was-housing-pedicabs-for-repair-and-storage-London-Fire-Brigade-said.-Image-LFB-120x86.jpg)](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
-
-### [Pedicab storage unit catches fire in Borough](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
-
-[23rd September 2024](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
-
-[![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
-
-### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
-
-[23rd September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
-
-[![An example of the pod-style bedrooms CoDE Hostels equips its venues with. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-example-of-the-pod-style-bedrooms-CoDE-Hostels-equips-its-venues-with.-Image-Southwark-Planning-Documents-120x86.jpg)](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
-
-### [New Walworth hotel could house 570 ‘Asian style’ pod bedrooms](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
-
-[22nd September 2024](https://southwarknews.co.uk/area/walworth/new-walworth-hotel-could-house-570-asian-style-pod-bedrooms/)
 
 ### USEFUL PAGES
 
