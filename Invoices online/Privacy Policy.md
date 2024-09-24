@@ -118,59 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Shaun Gartshore
+Hugo van Sittert
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=18758064)  
-LEO DEVELOPMENT GROUP
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=187978949)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=160151392)  
-CBR Verwe/Paints
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=125166999)  
+Konsortium Operations (PTY) LTD
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=200235172)  
-Cape Adventure Zone
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=160516028)  
+FX ACCOUNTING
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=200524085)  
-Westside Car Audio CC
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=76109599)  
+Wiselink Broadband Vryheid
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=75063223)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=181698894)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=11099097)  
-Lemba Truck Stop
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=24899232)  
+MOSELA GROUP Pty(ltd)
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=148614041)  
-ARCHITEK PTY LTD
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=168888835)  
+KTEN PARTS
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=14667722)  
-Norton Medical & Consult - Namibia
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=63456274)  
-Depot Diesel (Pty) Ltd
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=166574146)  
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=176655156)  
 Immediate Health (pty)ltd
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=93120446)  
-Desygn
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=179244126)  
+Meyer Towing & Recovery
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=119931652)  
-UMVIKELI PRIVATE SECURITY
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=33526697)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=55348307)  
-Super Sound Man (PTY) Ltd
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=201114229)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=67933874)  
-TIGERDSL
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=126813614)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=21588559)  
-NJR ICT Services (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=80851936)  
+Lion Software Develepment
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=17082987)  
+NWET Pty LTD
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=d74854ba5a4a5fee6ddd8e91e969f6c15b0d9daa78e8306556fa08223611402e&c=18321974)  
+J.M. HUMAN RESOURCES
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
