@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Lebanon sees deadliest day of conflict since 2006 as officials say Israeli strikes more than 270](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
-    * [Is this war? The Israeli-Hezbollah conflict is hard to define — or predict](https://apnews.com/article/israel-lebanon-hezbollah-conflict-war-57eb5ef4a77f3bcc0d2b920bc4536706)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
+    * [Israeli strikes kill 492 in Lebanon's deadliest day of conflict since 2006](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
+    * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
+    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Missouri Supreme Court to consider death row case a day before scheduled execution](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
-    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
-    * [Birmingham, Alabama, officials plead for information on mass shooting and offer reward money](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
+    * [Gunman who killed 10 at a Colorado supermarket is sentenced to life in prison](https://apnews.com/article/colorado-supermarket-shooting-ahmad-alissa-71d0750ba3b096dcbe51b390eee5d7db)
+    * [Texas jury clears most 'Trump Train’ drivers in civil trial over 2020 Biden-Harris bus encounter](https://apnews.com/article/trump-train-biden-texas-2020-election-trials-018e1c725e17ab0593835468db202666)
+    * [Missouri Supreme Court and governor refuse to halt the execution of man convicted of 1998 killing](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
-    * [Trump says, if he loses, 2024 run will be his last](https://apnews.com/article/trump-election-2028-da72e8e1b412e85c012343fa70db4640)
-    * [Harris raises $27 million in New York fundraiser, promises economic speech this week](https://apnews.com/article/kamala-harris-new-york-fundraiser-debate-economy-0855bdd8e7c8716cc7052799c72f0830)
+    * [Mark Robinson vows to rebuild his staff for North Carolina governor](https://apnews.com/article/mark-robinson-north-carolina-governor-election-631e4b5565717ea012c1e9233495198c)
+    * [US-China research has given Beijing's military technology a boost, House GOP says](https://apnews.com/article/china-higher-education-research-tech-republicans-f6c00d6ccac7ebef5c9eadabf499b06b)
+    * [Jill Biden and Al Sharpton pay tribute to civil rights activist Sybil Morial](https://apnews.com/article/sybil-morial-new-orleans-funeral-119ca6ad5f328efaa6a0fd8db5abc887)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
-    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
-    * [Trump is set to travel to Pennsylvania stops focused on countering China](https://apnews.com/article/election-2024-trump-harris-china-dc1e402d7d829acc904a4326370ac04a)
+    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
+    * [Alsobrooks presses the case for national abortion rights in critical Maryland Senate race](https://apnews.com/article/senate-maryland-angela-alsobrooks-larry-hogan-9237eeff099768e04888bb53fb98baeb)
+    * [Hello, I'm Johnny Cash's statue: A monument to the singer is unveiled at the US Capitol](https://apnews.com/article/capitol-arkansas-johnny-cash-statue-a7c35ff2a0f76cf536534972a38bca89)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [The Rams rally from a double-digit deficit to stun the 49ers 27-24 on a late field goal](https://apnews.com/article/rams-49ers-score-46e18cf02ab0972ee0d674bf89488d99)
-    * [Ohtani, Betts go back-to-back in ninth as Dodgers rally past Rockies 6-5](https://apnews.com/article/dodgers-rockies-score-ohtani-d3de4308b324c9f764754daad9d64df7)
-    * [White Sox left to ponder the magnitude of their record-tying 120 losses](https://apnews.com/article/white-sox-120-losses-14584496f029638202edb66c2bcb59d7)
+    * [Rookie Jayden Daniels nearly flawless for Commanders in 38-33 win over Bengals](https://apnews.com/article/commanders-bengals-score-5245c702b37940be22f3e64f28fe8131)
+    * [Josh Allen throws 4 TD passes and the Bills roll to a 47-10 win over the unraveling Jaguars](https://apnews.com/article/jaguars-bills-score-b75b1f05fa82413ecdeaf7bd5aa0aa81)
+    * [Philadelphia Phillies clinch 1st NL East title since 2011](https://apnews.com/article/philadelphia-phillies-clinch-nl-east-mlb-playoffs-2024-497fb971dc81235bbe4071fba53a75f6)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Banned Books Week starts with mixed messages as reports show challenges both up and down](https://apnews.com/article/banned-books-library-association-pen-america-d13a4232d193d0376df93392d7e42924)
-    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
-    * [Book Review: Wright Thompson exposes deep racist roots of the Mississippi Delta in ‘The Barn’](https://apnews.com/article/barn-delta-wright-thompson-book-review-c4ff47fc109b1ad581de612e762c0492)
+    * [Meghann Fahy and Eve Hewson's 'overnight success' is more than a decade in the making](https://apnews.com/article/perfect-couple-meghann-fahy-eve-hewson-b3a71a6c8dba64a2bf57d1dafa63ced1)
+    * [Diddy’s music streams jump after arrest and indictment](https://apnews.com/article/sean-combs-diddy-streaming-numbers-67e23aa94bc2456aecea6bd972f503dd)
+    * [Man convicted of sending his son to rob and kill rapper PnB Rock gets 31 years to life](https://apnews.com/article/pnb-rock-killing-sentence-8418a7179a6b852ed7ecd8f0926e71f1)
     
 * [Business](https://apnews.com/business)
     
@@ -168,12 +168,12 @@ Menu
     
     TOP STORIES
     
+    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
+    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
+    * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
+    * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
     * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [Take the lead in making leash time with your dog safer](https://apnews.com/article/dog-walking-injuries-health-leashes-316c71a8dff0ea553af8d3f6a170616d)
-    * [Young girls are using anti-aging products they see on social media. The harm is more than skin deep](https://apnews.com/article/influenced-skincare-routine-mental-health-f59bb09114ab93323e3a47197a1ad914)
-    * [Ultraprocessed foods are everywhere. How bad are they?](https://apnews.com/article/ultraprocessed-foods-healthy-diet-0501eb985016149541e6cc727e55dfea)
-    * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -242,12 +242,12 @@ Menu
     
     TOP STORIES
     
+    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
     * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
-    * [Lebanese doctor races to save the eyes of those hurt by exploding tech devices](https://apnews.com/article/elias-jaradeh-eye-injuries-lebanon-exploding-devices-1ef861481aa43c86bfede3781734a85a)
+    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * [Ban sought for Chinese, Russian software and hardware used in autonomous vehicles on US roads](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
+    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
+    * [Biden administration seeks to ban Chinese, Russian tech in US autonomous vehicles](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
     * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
-    * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
-    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
-    * [Michigan State football player Armorion Smith heads household with 5 siblings after mother's death](https://apnews.com/article/michigan-state-armorion-smith-314abf9fc878fb2177afa4bf733fd6bf)
-    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
+    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
+    * [Stephen & Evie Colbert's red rice recipe, a dish both jammy and tangy](https://apnews.com/article/stephen-evie-colbert-red-rice-cookbook-recipe-4b565e4277054fa476dad661bbc8c9b1)
+    * [Stephen & Evie Colbert offer a cookbook that's also a window on their lives](https://apnews.com/article/stephen-evie-colbert-cookbook-taste-funny-7c49d256488240d8ee0f4874940e6ee5)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Líbano reporta 100 muertos en bombardeos israelíes. Eso supondría su día más letal desde octubre](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
+    * [Bombardeos de Israel contra Líbano matan a por lo menos 492 personas](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
+    * [John toca tierra en el sur de México como huracán de categoría 3](https://apnews.com/world-news/general-news-71b0f213df5f6f33ea036b52b80307ba)
     * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
-    * [Marcha de Evo Morales se dirige a La Paz y presiona al presidente Luis Arce](https://apnews.com/world-news/general-news-fc0e280a870d19eb59cae9d89cb6022f)
-    * [Meta de Trump de deportaciones masivas quedó corta. Pero tiene nuevos planes para un segundo mandato](https://apnews.com/us-news/general-news-a678add3a9cab73a56d4d65c1f1588a7)
-    * [Partido de Scholz desestima cuestionamientos sobre su candidatura](https://apnews.com/world-news/general-news-5ce2f0d94f1c2a8684202bc4f9f59aba)
-    * [El Talibán de Pakistán niega haber atacado un convoy diplomático](https://apnews.com/world-news/general-news-0b81e990b559f0fb244e9904b24c7b89)
+    * [¿Es una guerra? El conflicto entre Israel y Hezbollah es difícil de definir, y de predecir](https://apnews.com/world-news/general-news-118daeff9e6a8467a42e5894942f25e6)
+    * [Emiten avisos preventivos para EEUU, Cuba y México por posibilidad de tormenta en el Golfo de México](https://apnews.com/world-news/general-news-1f795c2bc548388736bdcd758636eac8)
+    * [Grupo de combate al lavado de dinero suspende a Colombia después de que Petro reveló informe](https://apnews.com/world-news/general-news-54d27992fefcf77e89e72d767a8ed366)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Lebanon sees deadliest day of conflict since 2006 as officials say Israeli strikes more than 270](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
-    * [Is this war? The Israeli-Hezbollah conflict is hard to define — or predict](https://apnews.com/article/israel-lebanon-hezbollah-conflict-war-57eb5ef4a77f3bcc0d2b920bc4536706)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
+    * [Israeli strikes kill 492 in Lebanon's deadliest day of conflict since 2006](https://apnews.com/article/israel-palestinians-hamas-war-news-lebanon-hezbollah-e3ca9c83642056f962fdf76319e3b8de)
+    * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
+    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Missouri Supreme Court to consider death row case a day before scheduled execution](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
-    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
-    * [Birmingham, Alabama, officials plead for information on mass shooting and offer reward money](https://apnews.com/article/mass-shooting-birmingham-alabama-ca21a844e8363ddc8b38c89964194953)
+    * [Gunman who killed 10 at a Colorado supermarket is sentenced to life in prison](https://apnews.com/article/colorado-supermarket-shooting-ahmad-alissa-71d0750ba3b096dcbe51b390eee5d7db)
+    * [Texas jury clears most 'Trump Train’ drivers in civil trial over 2020 Biden-Harris bus encounter](https://apnews.com/article/trump-train-biden-texas-2020-election-trials-018e1c725e17ab0593835468db202666)
+    * [Missouri Supreme Court and governor refuse to halt the execution of man convicted of 1998 killing](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8)
     
     Newsletters
     
@@ -498,9 +498,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
-    * [Trump says, if he loses, 2024 run will be his last](https://apnews.com/article/trump-election-2028-da72e8e1b412e85c012343fa70db4640)
-    * [Harris raises $27 million in New York fundraiser, promises economic speech this week](https://apnews.com/article/kamala-harris-new-york-fundraiser-debate-economy-0855bdd8e7c8716cc7052799c72f0830)
+    * [Mark Robinson vows to rebuild his staff for North Carolina governor](https://apnews.com/article/mark-robinson-north-carolina-governor-election-631e4b5565717ea012c1e9233495198c)
+    * [US-China research has given Beijing's military technology a boost, House GOP says](https://apnews.com/article/china-higher-education-research-tech-republicans-f6c00d6ccac7ebef5c9eadabf499b06b)
+    * [Jill Biden and Al Sharpton pay tribute to civil rights activist Sybil Morial](https://apnews.com/article/sybil-morial-new-orleans-funeral-119ca6ad5f328efaa6a0fd8db5abc887)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris owns a gun? Trump wants to cap credit card rates? Party lines blur in campaign's last stretch](https://apnews.com/article/harris-trump-policy-border-guns-credit-card-ivf-democrat-republican-87cd75cfa0d82b0e2b026c69278ff912)
-    * [Feds: Man accused in apparent assassination attempt left note indicating he intended to kill Trump](https://apnews.com/article/trump-assassination-attempt-florida-fbi-justice-department-1295144a65f46059ce39b4ccd7288fbc)
-    * [Trump is set to travel to Pennsylvania stops focused on countering China](https://apnews.com/article/election-2024-trump-harris-china-dc1e402d7d829acc904a4326370ac04a)
+    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
+    * [Alsobrooks presses the case for national abortion rights in critical Maryland Senate race](https://apnews.com/article/senate-maryland-angela-alsobrooks-larry-hogan-9237eeff099768e04888bb53fb98baeb)
+    * [Hello, I'm Johnny Cash's statue: A monument to the singer is unveiled at the US Capitol](https://apnews.com/article/capitol-arkansas-johnny-cash-statue-a7c35ff2a0f76cf536534972a38bca89)
     
     Newsletters
     
@@ -553,9 +553,9 @@ Submit Search
     
     TOP STORIES
     
-    * [The Rams rally from a double-digit deficit to stun the 49ers 27-24 on a late field goal](https://apnews.com/article/rams-49ers-score-46e18cf02ab0972ee0d674bf89488d99)
-    * [Ohtani, Betts go back-to-back in ninth as Dodgers rally past Rockies 6-5](https://apnews.com/article/dodgers-rockies-score-ohtani-d3de4308b324c9f764754daad9d64df7)
-    * [White Sox left to ponder the magnitude of their record-tying 120 losses](https://apnews.com/article/white-sox-120-losses-14584496f029638202edb66c2bcb59d7)
+    * [Rookie Jayden Daniels nearly flawless for Commanders in 38-33 win over Bengals](https://apnews.com/article/commanders-bengals-score-5245c702b37940be22f3e64f28fe8131)
+    * [Josh Allen throws 4 TD passes and the Bills roll to a 47-10 win over the unraveling Jaguars](https://apnews.com/article/jaguars-bills-score-b75b1f05fa82413ecdeaf7bd5aa0aa81)
+    * [Philadelphia Phillies clinch 1st NL East title since 2011](https://apnews.com/article/philadelphia-phillies-clinch-nl-east-mlb-playoffs-2024-497fb971dc81235bbe4071fba53a75f6)
     
     Newsletters
     
@@ -582,9 +582,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Banned Books Week starts with mixed messages as reports show challenges both up and down](https://apnews.com/article/banned-books-library-association-pen-america-d13a4232d193d0376df93392d7e42924)
-    * [In Iran, the old-time US radio detective 'Johnny Dollar' returns to the airwaves](https://apnews.com/article/iran-johnny-dollar-us-detective-radio-show-b17b5b1b01fb34874fbbe0f0417f5b46)
-    * [Book Review: Wright Thompson exposes deep racist roots of the Mississippi Delta in ‘The Barn’](https://apnews.com/article/barn-delta-wright-thompson-book-review-c4ff47fc109b1ad581de612e762c0492)
+    * [Meghann Fahy and Eve Hewson's 'overnight success' is more than a decade in the making](https://apnews.com/article/perfect-couple-meghann-fahy-eve-hewson-b3a71a6c8dba64a2bf57d1dafa63ced1)
+    * [Diddy’s music streams jump after arrest and indictment](https://apnews.com/article/sean-combs-diddy-streaming-numbers-67e23aa94bc2456aecea6bd972f503dd)
+    * [Man convicted of sending his son to rob and kill rapper PnB Rock gets 31 years to life](https://apnews.com/article/pnb-rock-killing-sentence-8418a7179a6b852ed7ecd8f0926e71f1)
     
 * [Business](https://apnews.com/business)
     
@@ -646,12 +646,12 @@ Submit Search
     
     TOP STORIES
     
+    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
+    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
+    * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
+    * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
     * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    * [Take the lead in making leash time with your dog safer](https://apnews.com/article/dog-walking-injuries-health-leashes-316c71a8dff0ea553af8d3f6a170616d)
-    * [Young girls are using anti-aging products they see on social media. The harm is more than skin deep](https://apnews.com/article/influenced-skincare-routine-mental-health-f59bb09114ab93323e3a47197a1ad914)
-    * [Ultraprocessed foods are everywhere. How bad are they?](https://apnews.com/article/ultraprocessed-foods-healthy-diet-0501eb985016149541e6cc727e55dfea)
-    * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -727,12 +727,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
     * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [Scientists show how pregnancy changes the brain in innumerable ways](https://apnews.com/article/pregnancy-brain-changes-mri-164b505abd05d3e5c9d93c0ef2953a80)
-    * [Lebanese doctor races to save the eyes of those hurt by exploding tech devices](https://apnews.com/article/elias-jaradeh-eye-injuries-lebanon-exploding-devices-1ef861481aa43c86bfede3781734a85a)
+    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
     
 * [Tech](https://apnews.com/technology)
     
@@ -745,9 +745,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Ban sought for Chinese, Russian software and hardware used in autonomous vehicles on US roads](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
+    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
+    * [Biden administration seeks to ban Chinese, Russian tech in US autonomous vehicles](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
     * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
-    * [AI is helping shape the 2024 presidential race. But not in the way experts feared](https://apnews.com/article/artificial-intellgence-memes-trump-harris-deepfakes-256282c31fa9316c4059f09036c70fa9)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
-    * [Michigan State football player Armorion Smith heads household with 5 siblings after mother's death](https://apnews.com/article/michigan-state-armorion-smith-314abf9fc878fb2177afa4bf733fd6bf)
-    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
+    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
+    * [Stephen & Evie Colbert's red rice recipe, a dish both jammy and tangy](https://apnews.com/article/stephen-evie-colbert-red-rice-cookbook-recipe-4b565e4277054fa476dad661bbc8c9b1)
+    * [Stephen & Evie Colbert offer a cookbook that's also a window on their lives](https://apnews.com/article/stephen-evie-colbert-cookbook-taste-funny-7c49d256488240d8ee0f4874940e6ee5)
     
 * [Religion](https://apnews.com/religion)
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Líbano reporta 100 muertos en bombardeos israelíes. Eso supondría su día más letal desde octubre](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
+    * [Bombardeos de Israel contra Líbano matan a por lo menos 492 personas](https://apnews.com/world-news/general-news-9decff58b91ad378026855026cff22e8)
+    * [John toca tierra en el sur de México como huracán de categoría 3](https://apnews.com/world-news/general-news-71b0f213df5f6f33ea036b52b80307ba)
     * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
-    * [Marcha de Evo Morales se dirige a La Paz y presiona al presidente Luis Arce](https://apnews.com/world-news/general-news-fc0e280a870d19eb59cae9d89cb6022f)
-    * [Meta de Trump de deportaciones masivas quedó corta. Pero tiene nuevos planes para un segundo mandato](https://apnews.com/us-news/general-news-a678add3a9cab73a56d4d65c1f1588a7)
-    * [Partido de Scholz desestima cuestionamientos sobre su candidatura](https://apnews.com/world-news/general-news-5ce2f0d94f1c2a8684202bc4f9f59aba)
-    * [El Talibán de Pakistán niega haber atacado un convoy diplomático](https://apnews.com/world-news/general-news-0b81e990b559f0fb244e9904b24c7b89)
+    * [¿Es una guerra? El conflicto entre Israel y Hezbollah es difícil de definir, y de predecir](https://apnews.com/world-news/general-news-118daeff9e6a8467a42e5894942f25e6)
+    * [Emiten avisos preventivos para EEUU, Cuba y México por posibilidad de tormenta en el Golfo de México](https://apnews.com/world-news/general-news-1f795c2bc548388736bdcd758636eac8)
+    * [Grupo de combate al lavado de dinero suspende a Colombia después de que Petro reveló informe](https://apnews.com/world-news/general-news-54d27992fefcf77e89e72d767a8ed366)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
