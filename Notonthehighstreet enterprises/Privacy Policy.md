@@ -383,6 +383,7 @@ Follow us for epic gifts and inspo
 * [Gift cards](https://www.notonthehighstreet.com/gift-cards)
 * [Corporate gifts](https://www.notonthehighstreet.com/pages/corporate-gifts)
 * [Discount and promo codes](https://www.notonthehighstreet.com/about/discounts-promo-codes)
+* [NOTHS Partnerships](https://www.notonthehighstreet.com/about/noths-partnerships)
 * [Customer reviews](https://www.notonthehighstreet.com/reviews)
 
 * [Frequently asked questions](https://info.notonthehighstreet.com/hc/en-us)
@@ -409,6 +410,7 @@ Follow us for epic gifts and inspo
     * [Gift cards](https://www.notonthehighstreet.com/gift-cards)
     * [Corporate gifts](https://www.notonthehighstreet.com/pages/corporate-gifts)
     * [Discount and promo codes](https://www.notonthehighstreet.com/about/discounts-promo-codes)
+    * [NOTHS Partnerships](https://www.notonthehighstreet.com/about/noths-partnerships)
     * [Customer reviews](https://www.notonthehighstreet.com/reviews)
 * Help
     * [Frequently asked questions](https://info.notonthehighstreet.com/hc/en-us)
