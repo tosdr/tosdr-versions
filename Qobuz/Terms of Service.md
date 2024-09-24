@@ -301,7 +301,11 @@ XANDRIE SA reserves the right to make any modification or improvement to its ser
 
 Similarly, XANDRIE reserves the right to definitively interrupt a service or all the services offered on the site, without notice or compensation in the event of fraudulent or abusive behaviour by the client constituting a clear violation of the GTCs and subject to a notice period of eight (8) days in other cases, and cannot be held responsible for any damage, of any nature whatsoever, that may result from this, with the exception of deliveries of defective files. 
 
-**4\. Conditions of use for QOBUZ subscription offers**  
+Upon the right holders’ specific request, certain musical recordings may be withdrawn from the Service without prior notice. In this case, the musical recordings shall become completely unavailable for Download and Streaming on the Service. From the withdrawal date, the musical recordings already acquired by the Customer shall no longer be available for downloading onto their Listening Devices.
+
+  
+
+**4. Conditions of use for QOBUZ subscription offers**  
 
 The QOBUZ Streaming Service will be accessible by the Customer on his/her personal computer (PC or Mac) via the Site, the QOBUZ Player, or the QOBUZ Desktop application. 
 
