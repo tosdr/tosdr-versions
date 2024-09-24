@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
+* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
     
-* [How to use the Getting started window](https://www.backup4all.com/how-to-use-the-getting-started-window-kb.html)  
+* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
     
-* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
+* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
     
-* [How to activate Backup4all Monitor](https://www.backup4all.com/how-to-activate-backup4all-monitor-kb.html)  
+* [How to install Backup4all in a different star ...](https://www.backup4all.com/how-to-install-backup4all-in-a-different-start-menu-folder-kb.html)  
     
-* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
+* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
     
 
 Choose language:
