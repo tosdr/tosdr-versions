@@ -30,14 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfed8b4e-d27e-49c5-84d7-e080ee238c02/20240924T031457/cfed8b4e-d27e-49c5-84d7-e080ee238c02_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfed8b4e-d27e-49c5-84d7-e080ee238c02/20240924T031457/cfed8b4e-d27e-49c5-84d7-e080ee238c02_360x203.jpg)](https://www.wqad.com/article/news/local/downtown-rock-island-could-be-getting-a-new-tif-district/526-9800ad15-209c-4ae7-99ea-a29050d7534f)
         
-        #### [Illinois DOT hiring seasonal snow removal help](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a) [![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc6dc3ae-fd55-4801-a796-742f97a3c7f9/dc6dc3ae-fd55-4801-a796-742f97a3c7f9_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a)
+        #### [Downtown Rock Island could be getting a new TIF district](https://www.wqad.com/article/news/local/downtown-rock-island-could-be-getting-a-new-tif-district/526-9800ad15-209c-4ae7-99ea-a29050d7534f) [![](https://media.tegna-media.com/assets/WQAD/images/cfed8b4e-d27e-49c5-84d7-e080ee238c02/20240924T031457/cfed8b4e-d27e-49c5-84d7-e080ee238c02_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfed8b4e-d27e-49c5-84d7-e080ee238c02/20240924T031457/cfed8b4e-d27e-49c5-84d7-e080ee238c02_360x203.jpg)](https://www.wqad.com/article/news/local/downtown-rock-island-could-be-getting-a-new-tif-district/526-9800ad15-209c-4ae7-99ea-a29050d7534f)
         
-        #### [Looking for work? Illinois DOT hiring seasonal snow removal help](https://www.wqad.com/article/news/local/illinois-dot-hiring-seasonal-snow-removal-workers/526-687c2d05-af8b-4f74-98aa-bbaa88cecd8a)
-    *  [![](https://media.tegna-media.com/assets/WZZM/images/bb2afbd9-68ae-4a38-9811-40363c7c8c53/20240521T152015/bb2afbd9-68ae-4a38-9811-40363c7c8c53_16x9.jpg) ![](https://media.tegna-media.com/assets/WZZM/images/bb2afbd9-68ae-4a38-9811-40363c7c8c53/20240521T152015/bb2afbd9-68ae-4a38-9811-40363c7c8c53_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/calamus-wheatland-elementary-student-injured-in-accident-at-bus-stop-district-says/526-8c39a641-25b9-4be4-bb55-8fbcc41cf6f0)
+        #### [New TIF district could be coming to downtown Rock Island](https://www.wqad.com/article/news/local/downtown-rock-island-could-be-getting-a-new-tif-district/526-9800ad15-209c-4ae7-99ea-a29050d7534f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-        #### [Elementary student airlifted after being hit by car at Clinton County school bus stop](https://www.wqad.com/article/news/local/public-safety/calamus-wheatland-elementary-student-injured-in-accident-at-bus-stop-district-says/526-8c39a641-25b9-4be4-bb55-8fbcc41cf6f0)
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/47dbc25b-3169-4d8e-a698-346e947f2e54/20240923T220453/47dbc25b-3169-4d8e-a698-346e947f2e54_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/47dbc25b-3169-4d8e-a698-346e947f2e54/20240923T220453/47dbc25b-3169-4d8e-a698-346e947f2e54_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c5189699-b323-44ff-8ecf-db05bff8ca61/20240924T034000/c5189699-b323-44ff-8ecf-db05bff8ca61_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c5189699-b323-44ff-8ecf-db05bff8ca61/20240924T034000/c5189699-b323-44ff-8ecf-db05bff8ca61_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [A few showers for parts of the area overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -87,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-67°
+60°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
