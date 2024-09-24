@@ -19,8 +19,9 @@
             
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
-        * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Connecticut](https://www.verizonmedia.com/us/en/yahoo/privacy/states/connecticut/ctdpa/index.html)
         * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Montana](https://www.verizonmedia.com/us/en/yahoo/privacy/states/montana/cdpa/index.html)
         * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
         * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
@@ -31,8 +32,9 @@
         
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
-        * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Connecticut](https://www.verizonmedia.com/us/en/yahoo/privacy/states/connecticut/ctdpa/index.html)
         * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Montana](https://www.verizonmedia.com/us/en/yahoo/privacy/states/montana/cdpa/index.html)
         * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
         * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
@@ -74,8 +76,9 @@
             
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
-        * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Connecticut](https://www.verizonmedia.com/us/en/yahoo/privacy/states/connecticut/ctdpa/index.html)
         * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Montana](https://www.verizonmedia.com/us/en/yahoo/privacy/states/montana/cdpa/index.html)
         * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
         * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
@@ -86,8 +89,9 @@
         
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
-        * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Connecticut](https://www.verizonmedia.com/us/en/yahoo/privacy/states/connecticut/ctdpa/index.html)
         * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Montana](https://www.verizonmedia.com/us/en/yahoo/privacy/states/montana/cdpa/index.html)
         * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
         * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
