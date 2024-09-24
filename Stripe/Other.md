@@ -73,22 +73,21 @@
 Stripe Sub-Processors and Service Providers List
 ================================================
 
-### Last updated: July 21, 2023
+### Last updated: September 13, 2024
 
 To support Stripe in delivering its Services, Stripe engages service providers, Sub-Processors and affiliates to assist Stripe with its data processing activities on behalf of Stripe Business Users as defined in our Stripe Services Agreement.
 
 **Summary of Changes**
 ----------------------
 
-We’ve updated this page because we strive to be clear about our use of Personal Data and the third party service providers we engage. The below outlines a few highlights of the changes we made, so please review this page carefully. If you have questions or queries, please [contact us](https://stripe.com/legal/privacy-center#contact-us).
+We’ve updated this page because we strive to be clear about our use of Personal Data and the third party service providers we engage. The below outlines a few highlights of the changes we made, so please review this page carefully. If you have questions or queries, please [contact us](https://stripe.com/au/legal/privacy-center#contact-us).
 
 You will see that we have:
 
-* added new sub-processors (WNS Global Services (UK) International Limited, Microsoft Corporation, LexisNexis Risk Solutions FL Inc., Shufti Pro Limited, Data Zoo Pty Limited, Ekata, Inc. and Lob.com, Inc.);
-* added new Stripe Affiliates to reflect our product and global expansion (i.e., Stripe Brokering, Inc., Stripe Payments Company, Stripe Servicing, Inc., and Stripe Switzerland GmbH);
-* updated the processing activities of some of our entities (i.e., Stripe Capital Europe, Limited and Stripe Payments Mexico S. de R.L. de C.V.);
-* removed a Stripe Affiliate (i.e., Stripe Payments HK Limited and a Sub-Processor (Computer Services, Inc.);
-* made some minor non-material textual changes.
+* added new Sub-Processors (Intuition Machines, Inc., Verifi, Inc., Cognizant Worldwide Limited, FrontApp, Inc., Adish Co., Ltd.) and Sub-Processing locations (India for WNS Global Services (UK) International Limited);
+* updated the processing activities of Twilio, Inc. to clarify we are also using Twilio for user support;
+* removed Sub-Processors (Teleperformance España S.A.U.) and Sub-Processing locations (the Philippines for TDCX (MY) SDN. BHD.);
+* updated the name Global Data Consortium, Inc. to London Stock Exchange Group plc since the latter has acquired the former
 
 **What is a Sub-processor?**
 ----------------------------
@@ -111,25 +110,29 @@ Before engaging any service provider (including Sub-processors), we perform due 
 | [Amazon Web Services, Inc.](https://aws.amazon.com/privacy/) | Business User data and End Customer data | Cloud service provider | United States |
 | [Khoros, LLC](https://khoros.com/privacy) | Information included in the query as provided by the requester | Tool to help manage incoming queries via social media | United States |
 | [Salesforce](https://www.salesforce.com/company/privacy/) | The information included by the individual reaching out to Stripe, such as name, email address, phone number, and other information that may be included based on the nature of the communication | Customer service platform that supports customer interactions e.g. email | United States |
-| [Twilio, Inc](https://www.twilio.com/legal/privacy) | Business User data & End Customer data | Cloud communications platform as a service including two factor authentication | United States |
-| **User Support** |     |     |     |
+| [Twilio, Inc](https://www.twilio.com/legal/privacy). | Business User data & End Customer data | Cloud communications platform as a service including two factor authentication and user support | United States |
+| [Intuition Machines, Inc.](https://www.imachines.com/privacy) | Business User data & End Customer data | Tool that provides hCaptcha for fraud prevention | United States |
+| [Verifi, Inc.](https://usa.visa.com/legal/global-privacy-notice.html) | Business User data & End Customer data | Tool that helps resolve and reduce transaction disputes | United States |
+| **User Support** |
 | [TELUS International (Cda)](https://www.telusinternational.com/privacypolicy/) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | Ireland |
 | [AML Rightsource](https://www.amlrightsource.com/privacy-policy) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | United States |
 | [Teleperformance Colombia S.A.S.](https://www.teleperformance.com/media/4017496/data-privacy-policy_public-version_eng.pdf) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | Colombia |
-| [Teleperformance España S.A.U.](https://www.teleperformance.com/en-us/data-privacy-information-and-inquires/) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | Spain |
-| [TDCX (MY) SDN. BHD.](https://www.tdcx.com/policies/privacy) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | Malaysia, Philippines |
-| [WNS Global Services (UK) International Limited](https://www.wns.com/privacy-policy) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | United Kingdom |
+| [TDCX (MY) SDN. BHD.](https://www.tdcx.com/policies/privacy) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | Malaysia |
+| [Cognizant Worldwide Limited](https://www.cognizant.com/us/en/privacy-notice) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | Philippines, Romania |
+| [WNS Global Services (UK) International Limited](https://www.wns.com/privacy-policy) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in several languages and timezones | United Kingdom, India |
 | [Microsoft Corporation](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy) | Information included in the queries raised by the individuals contacting Stripe support | Provide AI technology to improve the quality of user support operations | United States |
-| **Stripe Identity** |     |     |     |
+| [FrontApp, Inc.](https://front.com/legal/privacy-notice) | Information included in the queries raised by the individuals contacting Stripe support | Customer service tool that supports customer interactions e.g. email | United States |
+| [Adish Co., Ltd.](https://adish.biz/gdprpolicy/) | Information included in the queries raised by the individuals contacting Stripe support | Provide Business User support in Japanese | Japan |
+| **Stripe Identity** |
 | [Trulioo Information Services Inc.](https://www.trulioo.com/privacy) | End Customer data | Identity verification for End Customers of Business Users | Canada |
-| [Global Data Consortium, Inc.](https://www.globaldataconsortium.com/privacy-policy/) | End Customer data | Identity verification for End Customers of Business Users | United States |
+| [London Stock Exchange Group plc](https://www.lseg.com/) | End Customer data | Identity verification for End Customers of Business Users | United States |
 | [InscribeAI, Inc.](https://www.inscribe.ai/privacy) | End Customer data | Identity verification for End Customers of Business Users | United States |
 | [Data Zoo Pty Limited](https://www.datazoo.com/policy/privacy-policy#:~:text=We%20will%20only%20ever%20use,relevant%20and%20applicable%20Privacy%20Laws.) | End Customer data | Identity verification for End Customers of Business Users | Australia |
 | [Shufti Pro Limited](https://shuftipro.com/privacy-policy/) | End Customer data | Identity verification for End Customers of Business Users | United Kingdom |
 | [LexisNexis Risk Solutions FL Inc.](https://www.lexisnexis.com/en-us/terms/privacy-policy.page) | End Customer data | Identity verification for End Customers of Business Users | United States |
 | [Ekata, Inc.](https://ekata.com/privacy-policy/#:~:text=We%20obtain%20Personal%20Information%20from,us%20to%20provide%20our%20Services) | End Customer data | Identity verification for End Customers of Business Users | United States |
 | [Lob.com, Inc.](https://www.lob.com/privacy) | End Customer data | Identity verification for End Customers of Business Users | United States |
-| **Stripe Atlas** |     |     |     |
+| **Stripe Atlas** |
 | [LegalInc.com, Inc.](https://legalinc.com/privacy-policy/) | Stripe Atlas Representatives’ personal information as required for incorporation in the State of Delaware | File incorporation documents in the State of Delaware | United States |
 
 **List of Service Providers**
@@ -149,9 +152,9 @@ The below list of service providers are some key third parties Stripe works with
 | [LegitScript, LLC](https://www.legitscript.com/privacy-policy/) | Business User data | Provide merchant monitoring services | United States |
 | User and Sales support service providers | Information included in the queries raised by the individuals contacting Stripe support | Provide user and sales support in several languages and timezones | Various |
 | Verification service providers | Business User data and End Customer data | Help verify the identity of Stripe Business Users and End Customers, and mitigate fraud | Various |
-| **Stripe Issuing** |     |     |     |
+| Stripe Issuing |     |     |     |
 | [Idemia America Corp.](https://www.idemia.com/legal-notes-privacy-policy) | Cardholder name, PAN, CVV, expiration date, shipping address | Printing the cards for Stripe Issuing | United States |
-| **Stripe Terminal** |     |     |     |
+| Stripe Terminal |     |     |     |
 | The Phoenix Group | Business User name and address for shipping purposes | To enable hardware ordered from Stripe to be shipped to Business Users in the US and CA | United States |
 | [Lantec (UK) Ltd](https://www.lantec.eu.com/privacy-and-cookies/) | Business User name and address for shipping purposes | To enable hardware ordered from Stripe to be shipped to Business Users in Europe | United Kingdom |
 
