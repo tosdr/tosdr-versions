@@ -171,67 +171,65 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Only God Could Have Made Cells
+More Zoology
 
-[![](/i/Main%20Stage%20-%201400x1050/phosphateproblem-1400x1050-MainPage.jpg)](https://www.icr.org/article/solving-first-life-phosphate-problem)
+[![](/i/Main%20Stage%20-%201400x1050/Seals_Help_Swedes_1400x1050.jpg)](https://www.icr.org/article/seals-help-swedes-chart-paths-of-the-seas)
 
-[Solving the First-Life Phosphate Problem](https://www.icr.org/article/solving-first-life-phosphate-problem/)
+[Seals Help Swedes to Chart ’Paths of the Seas’](https://www.icr.org/article/seals-help-swedes-chart-paths-of-the-seas/)
 
-Research associated with the Simos Foundation’s Collaboration of the Origins of Life offers a new answer to an old problem for getting a soup...
+Swedish researchers have recently reported some newly documented “paths of the seas”1,2 thanks to some helpful (and high-tech) Weddell...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+[![](/i/Main%20Stage%20-%201400x1050/Jungle_Crickets_1400x1050.jpg)](https://www.icr.org/article/jungle-crickets-sophisticated-design-avoid-bats)
+
+[Jungle Crickets Use Sophisticated Design to Avoid Bats](https://www.icr.org/article/jungle-crickets-sophisticated-design-avoid-bats/)
+
+One hundred percent effective. How often does that happen, especially in the dog-eat-dog world of biology? Researchers from the University of Bristol in...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/Main%20Stage%20-%201400x1050/Carbon_First_Cell_1400x1050.jpg)](https://www.icr.org/article/getting-carbon-into-the-first-cell)
+[![](/i/Main%20Stage%20-%201400x1050/Really_Have_Jaguar_1400x1050.jpg)](https://www.icr.org/article/do-you-really-have-a-jaguar)
 
-[Getting Carbon into the First Cell](https://www.icr.org/article/getting-carbon-into-the-first-cell/)
+[Do You Really Have a Jaguar?](https://www.icr.org/article/do-you-really-have-a-jaguar/)
 
-Today’s secular mindset replaces “In the beginning God…” with “In the beginning, hydrogen….” The extreme specificity...
+It’s not right to bluff about something you don’t have.1 Yet some government bureaucrats tried to gain control of over 100,000 acres...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/Main%20Stage%20-%201400x1050/algaeevolution-1400x1050-MainPage.jpg)](https://www.icr.org/article/algae-multicellular-evolution-study-debunked)
-
-[Algae Multicellular Evolution Study Debunked](https://www.icr.org/article/algae-multicellular-evolution-study-debunked/)
-
-Recent headlines claim, “Scientists Have Witnessed a Single-Celled Algae Evolve Into a Multicellular Organism.”1 In reality,...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
 More Creation Science Update
 
-[![](/i/Main%20Stage%20-%201400x1050/seascorpion_1400x1050.jpg)](https://www.icr.org/article/sea-scorpion)
+[![](/i/Main%20Stage%20-%201400x1050/StarNosed_1400x1050.jpg)](https://www.icr.org/article/star-nosed-mole)
 
-[Another Sea Scorpion](https://www.icr.org/article/sea-scorpion/)
+[The Star-Nosed Mole](https://www.icr.org/article/star-nosed-mole/)
 
-There are few animals more nightmarish than an 8-foot sea scorpion. Although, they were not true scorpions, their fossils display a menacing and formidable...
+The star-nosed mole (Condylura cristata) is a fascinating semi-aquatic mammal found in eastern Canada and the United States. Moles (placental mammals)...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/saturns_rings_1400x1050.jpg)](https://www.icr.org/article/reminder-saturns-rings)
+[![](/i/Main%20Stage%20-%201400x1050/NeanderTar_1400x1050.jpg)](https://www.icr.org/article/Neanderthals-Possibly-Used-Pre-Flood-Methods)
 
-[Reminder: Saturn’s Rings Are Ephemeral and Young](https://www.icr.org/article/reminder-saturns-rings/)
+[Neanderthals Possibly Used Pre-Flood Methods to Make Tar](https://www.icr.org/article/Neanderthals-Possibly-Used-Pre-Flood-Methods/)
 
-Scientists recently demonstrated that infalling particles from Saturn’s rings are the most likely source of a previously unaccounted-for excess...
+A new discovery by a group of German and French scientists has found that Neanderthals were much more sophisticated than previously thought.1...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
 
-[![](/i/Main%20Stage%20-%201400x1050/HexagonIndic_1400x1050.jpg)](https://www.icr.org/article/hexagon-indication)
+[![](/i/Main%20Stage%20-%201400x1050/woolymammoth_1400x1050.jpg)](https://www.icr.org/article/worlds-oldest-antibody)
 
-[The Hexagon: An Indication of Order and Design in Nature](https://www.icr.org/article/hexagon-indication/)
+[World’s Oldest Antibody or Really Wrong Age?](https://www.icr.org/article/worlds-oldest-antibody/)
 
-In nature, noncoincidental patterns and geometry exist everywhere. But the number six appears to overshadow nature’s mathematical landscape. Whether...
+A new technical report focusing on antibodies from Medieval human teeth also reported the discovery of antibodies from inside a wooly mammoth bone.1...
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
 
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
 
-$2.99
-
-$7.99
+$15.99
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
 
@@ -241,18 +239,6 @@ $4.99
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
-
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
-
-$7.99
-
 [![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
 
 Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
@@ -260,6 +246,18 @@ Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosau
 $7.99
 
 $9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+
+$7.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
