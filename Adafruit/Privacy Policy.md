@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of black, rectangular temperature and humidity sensor breakout.](https://cdn-shop.adafruit.com/230x173/5989-07.jpg)[Adafruit HDC3022 Precision Temperature & Humidity Sensor
+    
+    $8.95](https://www.adafruit.com/product/5989)
+    
     ![Angled shot of floppy hard drive.](https://cdn-shop.adafruit.com/230x173/6037-00.jpg)[Upcycled 3.5" Floppy Drive - Sony MPF-920 or Compatible
     
     $19.95](https://www.adafruit.com/product/6037)
@@ -86,10 +90,6 @@ Search
     ![Video of LED strand with 20 heart-shaped LEDs glowing rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5983-00.jpg)[Adafruit NeoPixel LED Heart Shape Pixel Strand - 20 LEDs
     
     $8.95](https://www.adafruit.com/product/5983)
-    
-    ![Video of glowing star-shaped LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5982-00.jpg)[Adafruit NeoPixel LED Star Shape Pixel Strand - 20 LEDs
-    
-    $8.95](https://www.adafruit.com/product/5982)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Simplicity is the ultimate sophistication”
+“ If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut”
 
-[Leonardo da Vinci](http://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+[Albert Einstein](http://en.wikipedia.org/wiki/Albert_Einstein)
 
 [](https://www.adafruit.com/about)
 
