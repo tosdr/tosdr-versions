@@ -216,9 +216,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [How are beverage cartons recycled?](https://www.euractiv.com/section/energy-environment/video/how-are-beverage-cartons-recycled/)
     * [EU Vision Paper – our industry priorities for the EU term 2024-2029](https://www.euractiv.com/section/circular-materials/opinion/eu-vision-paper-our-industry-priorities-for-the-eu-term-2024-2029/)
     * [Nature-based Solutions benefit people and planet, so why are they missing from EU policies?](https://www.euractiv.com/section/energy-environment/opinion/nature-based-solutions-benefit-people-and-planet-so-why-are-they-missing-from-eu-policies/)
-    * [The new EU political cycle must renew the momentum for CCU techs](https://www.euractiv.com/section/energy-environment/opinion/the-new-eu-political-cycle-must-renew-the-momentum-for-ccu-techs/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -485,14 +485,14 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 
 * 1[Leading Russian lawmaker threatens to nuke Strasbourg after European Parliament vote](http://en.euractiv.eu/section/defence-and-security/news/leading-russian-lawmaker-threatens-to-nuke-strasbourg-after-european-parliament-vote/?utm_source=website&utm_campaign=popular)
 * 2[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
-* 3[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
-* 4[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
-* 5[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
-* 6[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 3[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 4[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
+* 5[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 6[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
 * 7[Council working document show member states not on board with Letta, Draghi reports](http://en.euractiv.eu/section/digital/news/council-working-document-show-member-states-not-on-board-with-letta-draghi-reports/?utm_source=website&utm_campaign=popular)
-* 8[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
-* 9[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
-* 10[French government revealed: More of the same, with hard-right turn on immigration in the works](http://en.euractiv.eu/section/politics/news/french-government-revealed-more-of-the-same-with-hard-right-turn-on-immigration-in-the-works/?utm_source=website&utm_campaign=popular)
+* 8[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
+* 9[French government revealed: More of the same, with hard-right turn on immigration in the works](http://en.euractiv.eu/section/politics/news/french-government-revealed-more-of-the-same-with-hard-right-turn-on-immigration-in-the-works/?utm_source=website&utm_campaign=popular)
+* 10[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
