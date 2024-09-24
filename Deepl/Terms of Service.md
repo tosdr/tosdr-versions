@@ -40,6 +40,7 @@ LanguageEnglish
 * [Terms & Conditions](https://www.deepl.com/en/pro-license)
 
 * Product
+* [**NEW:** Arabic translator](https://www.deepl.com/en/translator/l/en/ar)
 * [Free translator](https://www.deepl.com/en/translator)
 * [Features](https://www.deepl.com/en/features)
 * [DeepL Pro](https://www.deepl.com/en/pro?cta=footer-pro)
