@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    National Security Alert
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
 
 ###### Throwback Documentaries
 
-* [![Man on Mars: Mission to the Red Planet](/wp-content/thumbnails/8610-100x70.jpg?x53432)
+* [![The Bully Project](/wp-content/thumbnails/7371-100x70.jpeg?x53432)
     
-    Man on Mars: Mission to the Red Planet
+    The Bully Project
     
-    Mars, the red planet, we have long wondered if it has ever sustained life. Some have dreamt of walking on its surface but more than four decades after they landed on the Moon, NASA are imagining a two](https://documentaryheaven.com/man-on-mars-mission-to-red-planet/ "Man on Mars: Mission to the Red Planet")
-* [![Barrack Obama Biography](/wp-content/thumbnails/202-100x70.png?x53432)
+    The Bully Project is a documentary film that covers events during the 2009–2010 school year and follows students and their families from Texas, Mississippi, Georgia, Iowa and Oklahoma.The film al](https://documentaryheaven.com/the-bully-project/ "The Bully Project")
+* [![Can You Hack It? – Hackers Wanted](/wp-content/thumbnails/5087-100x70.jpg?x53432)
     
-    Barrack Obama Biography
+    Can You Hack It? – Hackers Wanted
     
-    When he called himself "a skinny kid with a funny name" at the 2004 Democratic National Convention, his political star was already on the rise. By the time he decimated the competition in 2004 race fo](https://documentaryheaven.com/barrack-obama-biography/ "Barrack Obama Biography")
-* [![50 Cent: Who Dares Wins](/wp-content/thumbnails/6656-100x70.jpg?x53432)
+    Hackers Wanted is an unreleased American documentary film. Directed and written by Sam Bozzo, the film explores the origins and nature of hackers and hacking by following the adventures of Adrian Lamo](https://documentaryheaven.com/can-you-hack-it-hackers-wanted/ "Can You Hack It? – Hackers Wanted")
+* [![The Nine Months That Made You](/wp-content/thumbnails/6030-100x70.jpg?x53432)
     
-    50 Cent: Who Dares Wins
+    The Nine Months That Made You
     
-    After years of struggle, false starts, and a debut album that never came out following an attempt on his life, 50 Cent became the biggest new star in hip-hop in 2003 with the release of his album, whi](https://documentaryheaven.com/50-cent-who-dares-wins/ "50 Cent: Who Dares Wins")
-* [![Secrets of the Tang Treasure Ship](/wp-content/thumbnails/4977-100x70.jpg?x53432)
+    Horizon explores the secrets of what makes a long, healthy and happy life. It turns out that a time you can’t remember – the nine months you spend in the womb – could have more lasting effects on you](https://documentaryheaven.com/the-nine-months-that-made-you/ "The Nine Months That Made You")
+* [![Is Amanda Knox Guilty?](/wp-content/thumbnails/8537-100x70.jpg?x53432)
     
-    Secrets of the Tang Treasure Ship
+    Is Amanda Knox Guilty?
     
-    Historians have long speculated that thousands of wooden ships plied a Maritime Silk Route from the Middle East to China, braving long distances on white-capped seas, but time and the deep ocean have](https://documentaryheaven.com/secrets-of-the-tang-treasure-ship/ "Secrets of the Tang Treasure Ship")
-* [![Skrillex: Let’s Make a Spaceship](/wp-content/thumbnails/9254-100x70.png?x53432)
+    On November the 2nd 2007 police in Perusia  receive a phone call, there's been a break in, police arrive they discover a young women has been stabbed to death, she is Meredith Kercher. A british](https://documentaryheaven.com/is-amanda-knox-guilty/ "Is Amanda Knox Guilty?")
+* [![The Bank of Tax Cheats](/wp-content/thumbnails/10053-100x70.jpg?x53432)
     
-    Skrillex: Let’s Make a Spaceship
+    The Bank of Tax Cheats
     
-    This film from RedBull Music is a glimpse into the world of Skrillex, giving us a behind the scenes look at how the Dubstep artist designed and developed his latest live show and set that he debuted a](https://documentaryheaven.com/skrillex-lets-make-spaceship/ "Skrillex: Let’s Make a Spaceship")
+    In this episode of BBC's Panorama, serious questions are raised for the British government and the city of London, all in regards to an apparent effort by the biggest bank to help some of their bigges](https://documentaryheaven.com/bank-of-tax-cheats/ "The Bank of Tax Cheats")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
