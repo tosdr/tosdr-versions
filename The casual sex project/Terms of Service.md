@@ -104,45 +104,45 @@ Sep 19 2024
 
 By **[Daniel Di Martino](https://admin.mi52siterestore.com/person/daniel-di-martino/)** Read time **82 mins** [Read More](https://admin.mi52siterestore.com/article/the-lifetime-fiscal-impact-of-immigrants/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/fed-reserve.jpg)[](https://admin.mi52siterestore.com/article/comments-on-the-federal-reserves-interest-rate-decision/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/should_medicaid_expansion_cost_more_than_employer-sponsored_insurance.jpg)[](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/ "Read More")
 
-Commentary Economics Finance
+Commentary Health, Economics Healthcare
 
-Sep 18 2024
+Sep 23 2024
 
-[Comments on the Federal Reserve's Interest Rate Decision](https://admin.mi52siterestore.com/article/comments-on-the-federal-reserves-interest-rate-decision/)
+[Should Medicaid Expansion Cost More than Employer-Sponsored Insurance?](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/)
 
-By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-federal-reserves-interest-rate-decision/)
+By **[Theo Merkel](https://admin.mi52siterestore.com/person/theo-merkel/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/income-inequality-isn-t-the-problem-uneven-growth-is.jpg)[](https://admin.mi52siterestore.com/article/inequality-isnt-the-problem-uneven-growth-is/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/legal-sports-gambling-was-mistake.jpg)[](https://admin.mi52siterestore.com/article/legalizing-sports-gambling-was-a-huge-mistake/ "Read More")
 
-Commentary Economics Finance, Tax & Budget
+Commentary Culture, Economics Culture & Society, Debt
 
-Sep 17 2024
+Sep 23 2024
 
-[Inequality Isn’t the Problem. Uneven Growth Is.](https://admin.mi52siterestore.com/article/inequality-isnt-the-problem-uneven-growth-is/)
+[Legalizing Sports Gambling Was a Huge Mistake](https://admin.mi52siterestore.com/article/legalizing-sports-gambling-was-a-huge-mistake/)
 
-By **[Allison Schrager](https://admin.mi52siterestore.com/person/allison-schrager/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/inequality-isnt-the-problem-uneven-growth-is/)
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/legalizing-sports-gambling-was-a-huge-mistake/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/scandal-incompetence-puts-adams-at-risk-of-irrelevance.jpg)[](https://admin.mi52siterestore.com/article/scandal-leaves-eric-adams-at-risk-of-irrelevance-as-nycs-quality-of-life-declines/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/mtas-68-4b-capital-plan-pure-fiction-and-a-cry-for-help.jpg)[](https://admin.mi52siterestore.com/article/mtas-68-4b-capital-program-is-pure-fiction-unless-hochul-steps-up/ "Read More")
 
-Commentary Cities, Governance New York, New York City
+Commentary Economics, Governance, Cities New York, New York City
 
-Sep 15 2024
+Sep 22 2024
 
-[Scandal Leaves Eric Adams at Risk of Irrelevance as NYC’s Quality of Life Declines](https://admin.mi52siterestore.com/article/scandal-leaves-eric-adams-at-risk-of-irrelevance-as-nycs-quality-of-life-declines/)
+[MTA’s $68.4B Capital Program Is Pure Fiction —Unless Hochul Steps Up](https://admin.mi52siterestore.com/article/mtas-68-4b-capital-program-is-pure-fiction-unless-hochul-steps-up/)
 
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/scandal-leaves-eric-adams-at-risk-of-irrelevance-as-nycs-quality-of-life-declines/)
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/mtas-68-4b-capital-program-is-pure-fiction-unless-hochul-steps-up/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado.jpg)[](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/american-covenant-constitution.jpg)[](https://admin.mi52siterestore.com/article/we-are-the-reformers-weve-been-waiting-for/ "Read More")
 
-Commentary Governance, Public Safety Immigration, Crime Control
+Commentary Culture Culture & Society
 
-Sep 12 2024
+Sep 20 2024
 
-[Blame the Biden Admin for Venezuelan Gangs, Migrants Taking Over Aurora, Colorado](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/)
+[We Are the Reformers We’ve Been Waiting For](https://admin.mi52siterestore.com/article/we-are-the-reformers-weve-been-waiting-for/)
 
-By **[Christopher F. Rufo](https://admin.mi52siterestore.com/person/christopher-f-rufo/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/)
+By **[Tal Fortgang](https://admin.mi52siterestore.com/person/tal-fortgang/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/we-are-the-reformers-weve-been-waiting-for/)
 
 Our Policy Areas
 ----------------
