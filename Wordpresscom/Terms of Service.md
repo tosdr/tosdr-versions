@@ -468,53 +468,74 @@ Automattic may assign its rights under the Agreement without condition. You may 
 
 [](https://wordpress.com/tos-change-log)**[](https://wordpress.com/tos-change-log)**
 
-#### Get Started
+WordPress.com
+-------------
 
-[Create your own website](https://wordpress.com/start/?ref=websitebluefooter)
+Products
 
-#### Products
+* [WordPress Hosting](https://wordpress.com/hosting/)
+* [WordPress for Agencies](https://wordpress.com/for-agencies/)
+* [Domain Names](https://wordpress.com/domains/)
+* [Website Builder](https://wordpress.com/website-builder/)
+* [Create a Blog](https://wordpress.com/create-blog/)
+* [Professional Email](https://wordpress.com/professional-email/)
+* [P2: WordPress for Teams](https://wordpress.com/p2/)
+* [Website Design Services](https://wordpress.com/website-design-service/)
+* [Enterprise WordPress](https://wpvip.com/wordpress-vip-agile-content-platform?utm_source=WordPresscom&utm_medium=automattic_referral&utm_campaign=footer)
 
-* [WordPress Hosting](https://wordpress.com/hosting/)
-* [WordPress for Agencies](https://wordpress.com/for-agencies/)
-* [Domain Names](https://wordpress.com/domains/)
-* [Website Builder](https://wordpress.com/website-builder/)
-* [Create a Blog](https://wordpress.com/create-blog/)
-* [Professional Email](https://wordpress.com/professional-email/)
-* [P2: WordPress for Teams](https://wordpress.com/p2/?ref=wpcom-product-menu)
-* [Enterprise Solutions](https://wpvip.com/wordpress-vip-agile-content-platform?utm_source=WordPresscom&utm_medium=automattic_referral&utm_campaign=footer)
-* [Website Design Services](https://wordpress.com/website-design-service/?ref=footer-link)
-
-#### Features
+Features
 
 * [Overview](https://wordpress.com/features/)
-* [WordPress Themes](https://wordpress.com/themes)
-* [WordPress Plugins](https://wordpress.com/plugins)
-* [WordPress Patterns](https://wordpress.com/patterns)
-* [Google Apps](https://wordpress.com/google/)
+* [WordPress Themes](https://wordpress.com/themes)
+* [WordPress Plugins](https://wordpress.com/plugins)
+* [WordPress Patterns](https://wordpress.com/patterns)
+* [Google Apps](https://wordpress.com/google/)
 
-#### Resources
+Resources
 
-* [WordPress.com Support](https://wordpress.com/support/)
-* [WordPress Forums](https://wordpress.com/forums/)
-* [WordPress News](https://wordpress.com/blog/)
-* [Website Building Tips](https://wordpress.com/go/)
-* [Business Name Generator](https://wordpress.com/business-name-generator/)
-* [Logo Maker](https://wordpress.com/logo-maker/)
-* [Popular Topics](https://wordpress.com/tags/)
-* [Daily Webinars](https://wordpress.com/webinars/)
-* [Learn WordPress](https://wordpress.com/learn/)
+* [WordPress.com Support](https://wordpress.com/support/)
+* [WordPress Forums](https://wordpress.com/forums/)
+* [WordPress News](https://wordpress.com/blog/)
+* [Website Building Tips](https://wordpress.com/go/)
+* [Business Name Generator](https://wordpress.com/business-name-generator/)
+* [Logo Maker](https://wordpress.com/logo-maker/)
+* [Discover New Posts](https://wordpress.com/discover)
+* [Popular Tags](https://wordpress.com/tags)
+* [Blog Search](https://wordpress.com/read/search)
+* [Daily Webinars](https://wordpress.com/webinars/)
+* [Learn WordPress](https://wordpress.com/learn/)
 * [Developer Resources](https://developer.wordpress.com/)
+* [Remove Subscriptions](https://wordpress.com/me/purchases)
 
-#### Company
+Company
 
 * [About](https://wordpress.com/about/)
 * [Partners](https://wordpress.com/partners/)
 * [Press](https://automattic.com/press/)
-* [Terms of Service](https://wordpress.com/tos/)
+* [Terms of Service](https://wordpress.com/tos/)
 * [Privacy Policy](https://automattic.com/privacy/)
-* [Do Not Sell or Share My Personal Information](#)
-* [Privacy Notice for California Users](https://automattic.com/privacy/#california-consumer-privacy-act-ccpa)
+* [Do Not Sell or Share My Personal Information](#)
+* [Privacy Notice for California Users](https://automattic.com/privacy/#california-consumer-privacy-act-ccpa)
 
-An [Automattic](https://automattic.com/) Brainchild
+### Mobile Apps
+
+* [Download on the App Store](https://apps.apple.com/app/apple-store/id1565481562?ct=wp.com--footer&mt=8&pt=299112)
+    
+* [Get it on Google Play](https://play.google.com/store/apps/details?id=com.jetpack.android&referrer=utm_source%3Dwordpress.com%26utm_campaign%3Dfooter%26utm_medium%3Dwebsite)
+    
+
+### Social Media
+
+* [WordPress.com on Facebook](https://www.facebook.com/WordPresscom/ "WordPress.com on Facebook")
+* [WordPress.com on X (Twitter)](https://twitter.com/wordpressdotcom "WordPress.com on X (Twitter)")
+* [WordPress.com on Instagram](https://www.instagram.com/wordpressdotcom/ "WordPress.com on Instagram")
+* [WordPress.com on YouTube](https://www.youtube.com/WordPressdotcom "WordPress.com on YouTube")
+
+Automattic
+----------
+
+[Automattic](https://automattic.com/)
+
+[Work With Us](https://automattic.com/work-with-us/ "Remote Jobs")
 
 ![](https://pixel.wp.com/b.gif?v=noscript)
