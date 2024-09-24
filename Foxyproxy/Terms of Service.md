@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-YOU are brilliant.
+Works really well, love it.
 
-Wolfgang Kannenberg
+Adrian Simmons
