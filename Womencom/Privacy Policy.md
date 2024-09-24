@@ -41,58 +41,58 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+*  [![](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-is-teaching-us-how-to-spot-friendship-red-flags/l-intro-1727127920.jpg)](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
     
-    [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
-    ==============================================================================================================================================================================
+    [The Secret Lives Of Mormon Wives Is Teaching Us How To Spot Friendship Red Flags](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
+    ==================================================================================================================================================================================
     
-    Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
+    The Hulu reality series has reminded us all that no friendship is perfect, but if you're not careful about setting boundaries, things can border on toxic.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
-* *  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+* *  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
         
-        [Sex](https://www.women.com/category/sex-life/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Shallowing May Be The Perfect Sex Act For Maximum Pleasure](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+        ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
         
-        If you're looking to try something sexual you haven't done before or you're just not too keen on penetration, then shallowing might be for you.
+        Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
         
-        By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
+        By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
         
-    *  [![The Secret Lives of Mormon wives cast](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-is-teaching-us-how-to-spot-friendship-red-flags/intro-1727127920.jpg)](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
+    *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
-        [Relationships](https://www.women.com/category/relationships/)
+        [Exclusives](https://www.women.com/category/exclusives/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
         
-        ### [The Secret Lives Of Mormon Wives Is Teaching Us How To Spot Friendship Red Flags](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
+        ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
-        The Hulu reality series has reminded us all that no friendship is perfect, but if you're not careful about setting boundaries, things can border on toxic.
+        Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
+        By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
         
 
 More Stories
 ------------
 
-*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+*  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Sex](https://www.women.com/category/sex-life/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
     
-    ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    ### [Shallowing May Be The Perfect Sex Act For Maximum Pleasure](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
     
-    Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
+    If you're looking to try something sexual you haven't done before or you're just not too keen on penetration, then shallowing might be for you.
     
-    By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
     
 *  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
     
