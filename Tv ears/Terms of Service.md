@@ -123,7 +123,7 @@ For the purposes of these Terms of Service:
 
 **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
-**Website** refers to TV EARS, accessible from tvears.com
+**Website** refers to TV EARS, accessible from www.tvears.com
 
 **You** and **Your** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
@@ -268,7 +268,7 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms of Service, You can contact us:
 
-By visiting this page on our website: tvears.com
+By visiting this page on our website: www.tvears.com
 
 By phone number: 1-888-883-3277
 
@@ -331,7 +331,7 @@ Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
 © 2024 TV Ears, Inc. All rights reserved
 
-0
+1
 
 Our Products
 ------------
@@ -381,12 +381,16 @@ My cart
 
 Close cart
 
-Your cart is empty.
+[![](https://www.tvears.com/wp-content/uploads/2019/02/11621-HeadsetOnly-B00IVC5XRY_FrontView-247x247.jpg)](https://www.tvears.com/product/headset/)
 
-Looks like you haven't made a choice yet.
+[TV Ears Original/Digital - Headset Only](https://www.tvears.com/product/headset/)
+
+−  +
+
+ ~**MSRP:**$89.95~ COUPON: _$80.96_
 
 Got a discount code?
 
  Apply
 
-Your cart is empty. Shop now
+[Checkout now](https://www.tvears.com/checkout/)
