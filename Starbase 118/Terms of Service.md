@@ -354,6 +354,18 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
+
+### [Ship Closeup – USS Ronin](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
+
+docaharford September 24, 2024
+
+“When you go home, tell them of us and say: For your tomorrow, we gave our today.” -John Maxwell Edmonds; Epitaph, World War II Allied War
+
+[Read More »](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
+
 ### [Frontier Day Aftermath: Assimilated Grapple with Recovery Amid Rebuilding Efforts](https://www.starbase118.net/2024/frontier-day-aftermath-assimilated-grapple-with-recovery-amid-rebuilding-efforts/)
 
 Federation News Service September 23, 2024
@@ -373,18 +385,6 @@ Federation News Service September 21, 2024
 SOL SYSTEM – The USS Artemis-A (NCC-81287) remains on station near Earth as it undergoes extensive repairs in the wake of the Frontier Day disaster.
 
 [Read More »](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/07/Sovereign_Asteroid_Field-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
-
-### [USS Gorkon outsmarts second Borg cube with help from unexpected allies](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
-
-Federation News Service September 19, 2024
-
-BETA-15187 Dust Cloud — Trapped in a radically altered timeline where the Borg reign supreme and Starfleet has been erased from existence, the crew of
-
-[Read More »](https://www.starbase118.net/2024/uss-gorkon-outsmarts-second-borg-cube-with-help-from-unexpected-allies/)
 
 Ready to get started?
 ---------------------
