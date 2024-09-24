@@ -130,68 +130,66 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Former PM Yoshihiko Noda elected new leader of main opposition CDP](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Former Prime Minister Yoshihiko Noda attends a news conference after being elected as the new leader of the Constitutional Democratic Party of Japan on Monday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Prime Minister Yoshihiko Noda attends a news conference after being elected as the new leader of the Constitutional Democratic Party of Japan on Monday in Tokyo.")](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Advisory lifted after 50 cm tsunami reaches Hachijojima](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Advisory lifted after 50 cm tsunami reaches Hachijojima")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![The Meteorological Agency's Shigeki Aoki speaks a news conference on Tuesday morning about the tsunami advisory. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423490.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Meteorological Agency's Shigeki Aoki speaks a news conference on Tuesday morning about the tsunami advisory. ")](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Advisory lifted after 50 cm tsunami reaches Hachijojima")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423171.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.")](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
-
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
 
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Former PM Yoshihiko Noda elected new leader of main opposition CDP](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![Former Prime Minister Yoshihiko Noda attends a news conference after being elected as the new leader of the Constitutional Democratic Party of Japan on Monday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Prime Minister Yoshihiko Noda attends a news conference after being elected as the new leader of the Constitutional Democratic Party of Japan on Monday in Tokyo.")](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Advisory lifted after 50 cm tsunami reaches Hachijojima](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Advisory lifted after 50 cm tsunami reaches Hachijojima")
+
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+
+  [![The Meteorological Agency's Shigeki Aoki speaks a news conference on Tuesday morning about the tsunami advisory. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423490.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Meteorological Agency's Shigeki Aoki speaks a news conference on Tuesday morning about the tsunami advisory. ")](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Advisory lifted after 50 cm tsunami reaches Hachijojima")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+
+  [![Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423171.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.")](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
 
 Podcast
 -------
@@ -256,23 +254,21 @@ Latest News
 
 [West Africa becomes global terrorism hotspot as Western forces leave](https://www.japantimes.co.jp/news/2024/09/24/world/politics/west-africa-terrorism-hotspot/ "West Africa becomes global terrorism hotspot as Western forces leave")
 
-3 hours ago
+9 hours ago
 
 [Is all-out war inevitable? The view from Israel and Lebanon](https://www.japantimes.co.jp/news/2024/09/24/world/politics/israel-lebanon-all-out-war-views/ "Is all-out war inevitable? The view from Israel and Lebanon")
 
-3 hours ago
+9 hours ago
 
 [Toyota raises buyback to ¥1.2 trillion, citing share levels](https://www.japantimes.co.jp/business/2024/09/24/companies/toyota-buyback-shares/ "Toyota raises buyback to ¥1.2 trillion, citing share levels")
 
-3 hours ago
+9 hours ago
 
 [Japan approves sale of new ALS drug, raising hopes among patients](https://www.japantimes.co.jp/news/2024/09/24/japan/science-health/japan-new-als-drug-approve/ "Japan approves sale of new ALS drug, raising hopes among patients")
 
-4 hours ago
+10 hours ago
 
 [Chipmaker Kioxia scraps IPO planned for October after market sell-off](https://www.japantimes.co.jp/business/2024/09/24/companies/kioxia-scraps-ipo/ "Chipmaker Kioxia scraps IPO planned for October after market sell-off")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
