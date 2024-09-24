@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
+    *  [![](https://media.king5.com/assets/KING/images/99100975-e610-4c98-941c-c8ad2f9524da/20240924T013319/99100975-e610-4c98-941c-c8ad2f9524da_16x9.jpg) ![](https://media.king5.com/assets/KING/images/99100975-e610-4c98-941c-c8ad2f9524da/20240924T013319/99100975-e610-4c98-941c-c8ad2f9524da_360x203.jpg)](https://www.king5.com/article/news/local/homeless/bellingham-takes-property-owner-court-over-homeless-camp/281-94d09915-5ea7-47a1-9afb-02033257efed)
         
-        #### [Boeing presents its 'best and final offer' in attempt to end machinists strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
+        #### [Bellingham takes property owner to court over homeless camp](https://www.king5.com/article/news/local/homeless/bellingham-takes-property-owner-court-over-homeless-camp/281-94d09915-5ea7-47a1-9afb-02033257efed)
         
-    *  [![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_360x203.jpg)](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
+    *  [![](https://media.king5.com/assets/KING/images/ee159ae1-2e99-406d-a90a-cace8d39daff/20240924T013013/ee159ae1-2e99-406d-a90a-cace8d39daff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ee159ae1-2e99-406d-a90a-cace8d39daff/20240924T013013/ee159ae1-2e99-406d-a90a-cace8d39daff_360x203.jpg)](https://www.king5.com/article/news/education/state-superintendent-ambitous-funding-proposal-require-new-tax-funding/281-4263c508-29ea-473d-ae65-b98ff147ddc6)
         
-        #### [Summer weather in western Washington winds down this week](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
+        #### [State superintendent: ‘Ambitious’ funding proposal would require new tax funding](https://www.king5.com/article/news/education/state-superintendent-ambitous-funding-proposal-require-new-tax-funding/281-4263c508-29ea-473d-ae65-b98ff147ddc6)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c/20240923T182257/a5b84aaf-5baa-45ac-938d-48b9eafe4c6c_360x203.jpg)](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
-        
-        #### [Summer weather in western Washington winds down this week](https://www.king5.com/article/weather/summer-weather-western-washington-70-degrees/281-ef128b9f-f4f8-4c2c-84ac-0b219e6dae76)
-        
-    *  [![](https://media.king5.com/assets/KING/images/24b4175e-2627-4ead-a13b-1f33ee9a34cd/20240923T120419/24b4175e-2627-4ead-a13b-1f33ee9a34cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/24b4175e-2627-4ead-a13b-1f33ee9a34cd/20240923T120419/24b4175e-2627-4ead-a13b-1f33ee9a34cd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/fc6f9089-0d95-46be-86ff-e5ac7a0d704e/20240924T011030/fc6f9089-0d95-46be-86ff-e5ac7a0d704e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fc6f9089-0d95-46be-86ff-e5ac7a0d704e/20240924T011030/fc6f9089-0d95-46be-86ff-e5ac7a0d704e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/ca9a4163-1c2e-4ef6-bd48-8b98943778c0/20240705T124540/ca9a4163-1c2e-4ef6-bd48-8b98943778c0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ca9a4163-1c2e-4ef6-bd48-8b98943778c0/20240705T124540/ca9a4163-1c2e-4ef6-bd48-8b98943778c0_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/7-pm-sunsets-end-this-week-western-washington-seattle/281-75156daf-461b-4e01-ba28-1e4aad7a2834)
+        
+        #### [7 p.m. sunsets come to an end in western Washington this week. Here's when they'll come back](https://www.king5.com/article/weather/weather-blog/7-pm-sunsets-end-this-week-western-washington-seattle/281-75156daf-461b-4e01-ba28-1e4aad7a2834)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-71°
+70°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
