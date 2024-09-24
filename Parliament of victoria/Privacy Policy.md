@@ -1,10 +1,14 @@
 [Skip to Content](#mainContent)
 
-Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
+Main menu
 
-* Parliamentary activity Chevron-down
+[Parliament of Victoria](https://parliament.vic.gov.au/)
+
+* [Parliamentary activity](https://parliament.vic.gov.au/parliamentary-activity/)Expand Parliamentary activity
     
-    #### [Parliamentary activity](https://parliament.vic.gov.au/parliamentary-activity/) Chevron-right
+    Previous Back
+    
+    #### [Parliamentary activity](https://parliament.vic.gov.au/parliamentary-activity/)
     
     * [Legislative Council](https://parliament.vic.gov.au/council)
     * [Legislative Assembly](https://parliament.vic.gov.au/assembly)
@@ -13,7 +17,12 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Sitting calendar](https://parliament.vic.gov.au/sittingcalendar)
     * [Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     
-    #### [Resources](https://parliament.vic.gov.au/link/4e38f172ae854e1fe76eee60cfb9f2ee.aspx#resources) Chevron-right
+    #### [Hansard](https://parliament.vic.gov.au/hansard)
+    
+    * [Search Hansard](https://hansard.parliament.vic.gov.au/isysadvsearch.html)
+    * [Browse Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
+    
+    #### [Resources](https://parliament.vic.gov.au/link/4e38f172ae854e1fe76eee60cfb9f2ee.aspx#resources)
     
     * [Notice papers](https://parliament.vic.gov.au/notice-papers)
     * [Minutes of the Houses](https://parliament.vic.gov.au/parliamentary-activity/minutes-and-votes/)
@@ -24,9 +33,11 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Statistics](https://parliament.vic.gov.au/parliamentary-activity/statistics/)
     * [How sitting days work](https://parliament.vic.gov.au/about/how-parliament-works/how-sitting-days-work/)
     
-* Get involved Chevron-down
+* [Get involved](https://parliament.vic.gov.au/get-involved/)Expand Get involved
     
-    #### [Parliamentary inquiries](https://parliament.vic.gov.au/inquiries) Chevron-right
+    Previous Back
+    
+    #### [](https://parliament.vic.gov.au/inquiries)
     
     * [Inquiries](https://parliament.vic.gov.au/inquiries)
     * [The inquiry process](https://parliament.vic.gov.au/get-involved/inquiry-process/)
@@ -34,7 +45,7 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Attend a public hearing](https://parliament.vic.gov.au/get-involved/public-hearings/)
     * [Committee & Inquiry Search](https://parliament.vic.gov.au/get-involved/committeeinquirysearch/)
     
-    #### [Petitions](https://parliament.vic.gov.au/petitions) Chevron-right
+    #### [](https://parliament.vic.gov.au/petitions)
     
     * [Sign a petition](https://parliament.vic.gov.au/get-involved/petitions/sign/)
     * [Start a petition](https://parliament.vic.gov.au/get-involved/petitions/start/)
@@ -43,20 +54,14 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     #### Our community
     
-    * [Next
-        
-        Community connections
-        
-        Next](https://parliament.vic.gov.au/get-involved/community-connections/)
-    * [Next
-        
-        Teach and learn
-        
-        Next](https://parliament.vic.gov.au/teach-and-learn/)
+    * [Community connections](https://parliament.vic.gov.au/link/e4c996e771f24e95ac7f9e5e295ab4b3.aspx)
+    * [Teach and learn](https://parliament.vic.gov.au/link/1558f66d07154cd8818f399500143f89.aspx)
     
-* Members of Parliament Chevron-down
+* [Members of Parliament](https://parliament.vic.gov.au/members/member-search/)Expand Members of Parliament
     
-    #### [Members](https://parliament.vic.gov.au/members/) Chevron-right
+    Previous Back
+    
+    #### [Members](https://parliament.vic.gov.au/members/)
     
     * [Find a member](https://parliament.vic.gov.au/members/member-search/?member-status=current&page=1&pageSize=10&sortType=2)
     * [All Legislative Assembly members](https://parliament.vic.gov.au/members/member-search/?member-house=10&member-status=current&page=1&pageSize=10&sortType=2)
@@ -66,20 +71,14 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Find your electorate](https://findelectorate.parliament.vic.gov.au/?internal=1)
     * [Former members](https://parliament.vic.gov.au/about/history-and-heritage/people-who-shaped-parliament/former-members/)
     
-    * [Next
-        
-        A guide to member roles and terms
-        
-        Next](https://parliament.vic.gov.au/about/how-parliament-works/people-in-parliament/member-roles)
-    * [Next
-        
-        The two houses
-        
-        Next](https://parliament.vic.gov.au/about/how-parliament-works/two-houses)
+    * [A guide to member roles and terms](https://parliament.vic.gov.au/link/ba738f4ccfa841d0905b75762ef9e7f3.aspx)
+    * [The two houses](https://parliament.vic.gov.au/link/a0c5bdeb4baa4ce18e9da52b0b2ef60f.aspx)
     
-* News Chevron-down
+* [News](https://parliament.vic.gov.au/news/)Expand News
     
-    #### [News](https://parliament.vic.gov.au/news/) Chevron-right
+    Previous Back
+    
+    #### [News](https://parliament.vic.gov.au/news/)
     
     * [Economy](https://parliament.vic.gov.au/news/economy/)
     * [Health and welfare](https://parliament.vic.gov.au/news/health/)
@@ -89,25 +88,26 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Justice](https://parliament.vic.gov.au/news/justice/)
     * [General news](https://parliament.vic.gov.au/news/general-news/)
     
-    #### [Latest Chevron-right](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
+    #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
-    * [Next
+    * [Committee finds FOI laws need an overhaul](https://parliament.vic.gov.au/link/eabbb6db64f641679d6cc6bfd47587fc.aspx)
         
-        Committee finds FOI laws need an overhaul
+        24 September 2024
         
-        Next](https://parliament.vic.gov.au/news/society/foi-report)[Next
+    * [Short stay accommodation to be taxed and regulated](https://parliament.vic.gov.au/link/d119aa7e467546a7b3a0b70ac9363c3a.aspx)
         
-        Short stay accommodation to be taxed and regulated
+        19 September 2024
         
-        Next](https://parliament.vic.gov.au/news/economy/short-stay-levy)[Next
+    * [Creativity for a healthy future](https://parliament.vic.gov.au/link/1e70e18578014beeafd1caac28b4c660.aspx)
         
-        Creativity for a healthy future
+        13 September 2024
         
-        Next](https://parliament.vic.gov.au/news/health/healthy-future)
     
-* Visit Chevron-down
+* [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
     
-    #### [Visit Parliament House](https://parliament.vic.gov.au/visit/) Chevron-right
+    Previous Back
+    
+    #### [Visit Parliament House](https://parliament.vic.gov.au/visit/)
     
     * [For schools](https://parliament.vic.gov.au/visit/schools/)
     * [Public tour](https://parliament.vic.gov.au/visit/public-tour/)
@@ -116,20 +116,22 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Garden tour](https://parliament.vic.gov.au/visit/garden-tour/)
     * [Architecture tour](https://parliament.vic.gov.au/visit/architecture-tour/)
     
-    #### [Food and drink](https://parliament.vic.gov.au/visit/) Chevron-right
+    #### [Food and drink](https://parliament.vic.gov.au/visit/)
     
     * [High tea](https://parliament.vic.gov.au/visit/high-tea/)
     * [Strangers Corridor restaurant](https://parliament.vic.gov.au/visit/restaurant/)
     
-    #### [Host a function](https://parliament.vic.gov.au/visit/functions/) Chevron-right
+    #### [Host a function](https://parliament.vic.gov.au/visit/functions/)
     
     * [Queen's Hall](https://parliament.vic.gov.au/visit/functions/queens-hall/)
     * [Rooftop Garden](https://parliament.vic.gov.au/visit/functions/rooftop-garden/)
     * [Side Dining Room](https://parliament.vic.gov.au/visit/functions/side-dining-room/)
     
-* About Chevron-down
+* [About](https://parliament.vic.gov.au/about/)Expand About
     
-    #### [How Parliament works](https://parliament.vic.gov.au/about/how-parliament-works/) Chevron-right
+    Previous Back
+    
+    #### [How Parliament works](https://parliament.vic.gov.au/about/how-parliament-works/)
     
     * [What is Parliament](https://parliament.vic.gov.au/about/how-parliament-works/what-is-parliament/)
     * [The two houses of Parliament](https://parliament.vic.gov.au/about/how-parliament-works/two-houses/)
@@ -138,14 +140,14 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [How a sitting day works](https://parliament.vic.gov.au/about/how-parliament-works/how-sitting-days-work/)
     * [How a law is made](https://parliament.vic.gov.au/about/how-parliament-works/how-a-law-is-made/)
     
-    #### [History and heritage](https://parliament.vic.gov.au/about/history-and-heritage/) Chevron-right
+    #### [History and heritage](https://parliament.vic.gov.au/about/history-and-heritage/)
     
     * [Parliament House](https://parliament.vic.gov.au/about/history-and-heritage/building/)
     * [People who shaped Parliament](https://parliament.vic.gov.au/about/history-and-heritage/people-who-shaped-parliament/)
     * [Our collection and artworks](https://parliament.vic.gov.au/about/history-and-heritage/our-collection-and-artworks/)
     * [Our living heritage](https://parliament.vic.gov.au/about/history-and-heritage/our-living-heritage/)
     
-    #### [Departments](https://parliament.vic.gov.au/about/departments/) Chevron-right
+    #### [](https://parliament.vic.gov.au/about/departments/)
     
     * [Legislative Council](https://parliament.vic.gov.au/about/departments/legislative-council/)
     * [Legislative Assembly](https://parliament.vic.gov.au/about/departments/legislative-assembly/)
@@ -155,28 +157,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Contact](https://parliament.vic.gov.au/contact/)
     
 
-Search Search
+[Home - Parliament of Victoria crest](https://parliament.vic.gov.au/)
 
-Close Menu Close
+* [Twitter](https://twitter.com/vicparliament "Visit on Twitter")
+* [Linkedin](https://au.linkedin.com/company/parliament-of-vic "Visit on LinkedIn")
+* [Instagram](https://www.instagram.com/victorianparliament/ "Visit on Instagram")
+* [Facebook](https://www.facebook.com/VicParliament "Visit on Facebook")
+* [Youtube](https://www.youtube.com/user/parliamentofvictoria "Visit on YouTube")
 
-* [Parliamentary activity Next](https://parliament.vic.gov.au/parliamentary-activity/)
-* [Get involved Next](https://parliament.vic.gov.au/get-involved/)
-* [Members of Parliament Next](https://parliament.vic.gov.au/members/member-search/)
-* [News Next](https://parliament.vic.gov.au/news/)
-* [Visit Next](https://parliament.vic.gov.au/visit/)
-* [About Next](https://parliament.vic.gov.au/about/)
-* [Watch Next](https://parliament.vic.gov.au/watch)
-* [Teach and learn Next](https://parliament.vic.gov.au/teach-and-learn/)
-* [Events calendar Next](https://parliament.vic.gov.au/events/event-search/)
-* [Contact us Next](https://parliament.vic.gov.au/contact/)
+* * *
 
-[Parliament of Victoria crest](https://parliament.vic.gov.au/)
-
-* [Twitter Twitter](https://twitter.com/vicparliament)
-* [LinkedIn Linkedin](https://au.linkedin.com/company/parliament-of-vic)
-* [Instagram Instagram](https://www.instagram.com/victorianparliament/)
-* [Facebook Facebook](https://www.facebook.com/VicParliament)
-* [YouTube Youtube](https://www.youtube.com/user/parliamentofvictoria)
+[Calendar Event calendar](https://parliament.vic.gov.au/events/) [Watch Watch](https://parliament.vic.gov.au/watch/) Search Search
 
 Privacy collection notice - website
 ===================================
