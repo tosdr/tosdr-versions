@@ -82,9 +82,9 @@ Management](https://later.com/)
     * [Help CenterSearch & find answers (opens a new tab)](https://help.later.com/)
     * [CommunityConnect, learn, & engage (opens a new tab)](https://community.later.com/)
     
-    Later Digital Events
+    New Plan Picker
     
-    * [Later Presents: Social Media & Mental HealthCreate consistent content while prioritizing your mental health](https://later.com/resources/webinar/social-media-mental-health/)
+    * [Find Your Later Social PlanTake the guesswork out with our 1-minute quiz](https://later.com/resources/tool/later-social-plan-picker/)
         
     
 * [Blog](https://later.com/blog/)
