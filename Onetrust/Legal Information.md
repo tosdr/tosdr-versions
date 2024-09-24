@@ -169,9 +169,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [Elevate your data strategy: From cookies to universal consent & preferences](https://www.onetrust.com/resources/elevate-your-data-strategy-from-cookies-to-universal-consent-preferences-webinar/)
-* [Proven ROI with OneTrust](https://www.onetrust.com/resources/proven-roi-with-onetrust/)
-* [Discover the economic benefits of OneTrust](https://www.onetrust.com/resources/discover-the-economic-benefits-of-onetrust-report/)
+* [Enhancing Data Governance: OneTrust and Snowflake strategies for data-driven businesses](https://www.onetrust.com/resources/enhancing-data-governance-onetrust-and-snowflake-strategies-for-data-driven-businesses-webinar/)
+* [OneTrust & Adobe: The power of permission-based personalization](https://www.onetrust.com/resources/onetrust-and-adobe-the-power-of-permission-based-personalization-webinar/)
+* [Permission-based personalization: The power of OneTrust and Adobe](https://www.onetrust.com/resources/permission-based-personalization-the-power-of-onetrust-and-adobe-webinar/)
 
 ### Platform
 
