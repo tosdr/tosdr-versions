@@ -24,6 +24,8 @@ General
 
 Terms of Use
 
+Service Levels
+
 Developer Tools
 
 Software license agreements
@@ -85,6 +87,12 @@ Terms of Use
 [Terms of Membership in the Yandex Maps API Loyalty Program for startups](https://yandex.com/legal/maps_api_startup_program/index.html)
 
 [Yandex Maps API Service Agreement](https://yandex.com/legal/maps_api_service_agreement/index.html)
+
+[Terms of Use of Yandex Cloud Postbox](https://yandex.com/legal/cloud_terms_postbox/index.html)
+
+Service Levels
+
+[Service Level for Postbox](https://yandex.com/legal/cloud_sla_postbox/index.html)
 
 Developer Tools
 
@@ -176,15 +184,15 @@ Yandex Terms of Service
 
 English
 
-English
-
 Eesti keel
+
+Polski
 
 Lietuvių
 
 Latviešu valoda
 
-Polski
+English
 
 Yandex Terms of Service
 =======================
@@ -321,15 +329,15 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-English
-
 Eesti keel
+
+Polski
 
 Lietuvių
 
 Latviešu valoda
 
-Polski
+English
 
 [Next
 
@@ -337,15 +345,15 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-English
-
 Eesti keel
+
+Polski
 
 Lietuvių
 
 Latviešu valoda
 
-Polski
+English
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
