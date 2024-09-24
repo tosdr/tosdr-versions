@@ -16,11 +16,10 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [76k+ Downloads](https://foresight.is/users/)
-* [Updates 2](#)
+* [Updates 1](#)
     
     * [Changelog](https://foresight.is/changelog/)
-    * [New website features](https://foresight.is/changelog/#2024-09-09-filters)
-    * [Donations update](https://foresight.is/changelog/#2024-09-09-donations)
+    * [New live preview option](https://foresight.is/changelog/#2024-09-24-preview)
     
 * [Docs](https://foresight.is/docs/)
 
@@ -42,7 +41,7 @@ Login to [Gumroad](https://app.gumroad.com/login) to access course content and l
 
 [See Courses](https://foresight.is/courses/)
 
-[![Foresight](/assets/favicons/apple-touch-icon.png)](https://foresight.is/)[Foresight](https://foresight.is/)
+[Foresight](https://foresight.is/)
 
 Menu
 
@@ -50,7 +49,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [76k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [76k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 1](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
