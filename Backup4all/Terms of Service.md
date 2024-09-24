@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
-    
-* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
-    
-* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
-    
 * [How to install Backup4all in a different star ...](https://www.backup4all.com/how-to-install-backup4all-in-a-different-start-menu-folder-kb.html)  
     
-* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
+* [How to backup your data to Numergy](https://www.backup4all.com/how-to-backup-your-data-to-numergy-kb.html)  
+    
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
+    
+* [How to backup your data to GreenQloud](https://www.backup4all.com/how-to-backup-your-data-to-greenqloud-kb.html)  
+    
+* [FTP backup using passive mode](https://www.backup4all.com/ftp-backup-using-passive-mode-kb.html)  
     
 
 Choose language:
