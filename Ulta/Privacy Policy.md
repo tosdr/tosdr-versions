@@ -154,13 +154,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/featured/nyx_face_glue_launch)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/multi-stick-pimprod2047199?sku=2629164)
         
-        NYX Professional Makeup
+        ILIA
         
-        New & exclusive! The Face Glue Setting Spray & The Face Glue Gripping Primer
+        New! Multi-Stick
         
-        [Shop now](https://www.ulta.com/featured/nyx_face_glue_launch)
+        [Shop now](https://www.ulta.com/p/multi-stick-pimprod2047199?sku=2629164)
         
     * Skin Care
         
@@ -270,16 +270,16 @@ Free standard shipping on any $35 purchase
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=skin-care)
             
-        * [Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
+        * [Skinfatuation](https://www.ulta.com/discover/skin-care-trends)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/blurring-moisturizing-filter-primer-pimprod2024916?sku=2580280)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/strivectin?sort=new_arrivals)
         
-        TULA
+        StriVectin
         
-        Exclusive! Blurring & Moisturizing Filter Primer
+        New! Super-C Night Vitamin C Cream & Super-C Eye Vitamin C Cream
         
-        [Shop now](https://www.ulta.com/p/blurring-moisturizing-filter-primer-pimprod2024916?sku=2580280)
+        [Shop now](https://www.ulta.com/brand/strivectin?sort=new_arrivals)
         
     * Hair Care
         
@@ -394,13 +394,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/bond-shaper-curl-defining-gel-pimprod2047423?sku=2629122)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/best-hair-care-styling-products)
         
-        OLAPLEX
+        Hair Goals | Revive your hair
         
-        New & exclusive! No.10 Bond Shaper Curl Defining Gel
+        Restorative hair care for a healthy, age-defying look.
         
-        [Shop now](https://www.ulta.com/p/bond-shaper-curl-defining-gel-pimprod2047423?sku=2629122)
+        [Shop now](https://www.ulta.com/discover/best-hair-care-styling-products)
         
     * Fragrance
         
@@ -454,13 +454,13 @@ Free standard shipping on any $35 purchase
         * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/nightcap-parfum-pimprod2045006?sku=2618385)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/fragrance-perfume-crush)
         
-        Orebella
+        Fragrance Crush | Burberry
         
-        New & exclusive! NIGHTCAP Parfum
+        Burberry Goddess & Hero
         
-        [Shop now](https://www.ulta.com/p/nightcap-parfum-pimprod2045006?sku=2618385)
+        [Shop now](https://www.ulta.com/discover/fragrance-perfume-crush)
         
     * Body Care
         
@@ -561,13 +561,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/undaria-algae-body-wash-pimprod2046057?sku=2626617)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/lush)
         
-        OSEA
+        LUSH
         
-        New! Undaria Algae Body Wash
+        Exclusive & online only! Feeling Sleepy Bodycare Discovery Kit & Best Of Bath Bombs Bath Bomb Duo
         
-        [Shop now](https://www.ulta.com/p/undaria-algae-body-wash-pimprod2046057?sku=2626617)
+        [Shop now](https://www.ulta.com/brand/lush)
         
     * Tools & Brushes
         
@@ -646,13 +646,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/infinitipro-digitalaire-20-pimprod2047671?sku=2629961)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/dyson?sort=new_arrivals)
         
-        Conair
+        Dyson
         
-        New! InfinitiPRO DigitalAIRE 2.0
+        New & exclusive! Dyson and Ulta Exclusive Airwrap multi-styler in Onyx Black and Gold
         
-        [Shop now](https://www.ulta.com/p/infinitipro-digitalaire-20-pimprod2047671?sku=2629961)
+        [Shop now](https://www.ulta.com/brand/dyson?sort=new_arrivals)
         
     
     Browse By
@@ -1029,7 +1029,7 @@ Free standard shipping on any $35 purchase
             
         * [### Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
             
-        * [### Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
+        * [### Skinfatuation](https://www.ulta.com/discover/skin/dermatologist-recommended-skin-care-products)
             
         * [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
@@ -1118,8 +1118,6 @@ Free standard shipping on any $35 purchase
         
     * [Ear Piercing](https://www.ulta.com/beautyservices/ear-piercing)
         
-    
-* [Fall Haul Sale](https://www.ulta.com/promotion/fall-haul)
     
 
 * [](https://www.ulta.com/bag)
