@@ -213,12 +213,6 @@ Terms of Use
 
 [19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
-[![JD Wetherspoon has applied for a license at 50 Tooley Street. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/09/JD-Wetherspoon-has-applied-for-a-license-at-50-Tooley-Street.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-### [Wetherspoons to open pub in former London Dungeon](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
-[17th September 2024](https://southwarknews.co.uk/area/borough/wetherspoons-to-open-pub-in-former-london-dungeon/)
-
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leahy-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
 
 ### [Millwall manager discusses call-back option for on-loan striker](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-discusses-call-back-option-for-on-loan-striker/)
@@ -230,6 +224,12 @@ Terms of Use
 ### [Southwark Council denies mishandling complaints from leaseholders lumped with £2,500 heating bills](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
 [21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
+
+[![Mihailo Ivanovic celebrates a goal for Vojvodina. Photo: Vojvodina FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Ivanovic-Vosa--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/the-inside-story-of-mihailo-ivanovic-to-millwall-surprise-at-lions-interest-after-talks-with-european-clubs-his-italy-adventure-top-running-stats-and-why-the-fans-will-love-him/)
+
+### [The inside story of Mihailo Ivanovic to Millwall: Surprise at Lions interest after talks with European clubs; his Italy adventure; top running stats – and why the fans will love him](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/the-inside-story-of-mihailo-ivanovic-to-millwall-surprise-at-lions-interest-after-talks-with-european-clubs-his-italy-adventure-top-running-stats-and-why-the-fans-will-love-him/)
+
+[19th September 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/the-inside-story-of-mihailo-ivanovic-to-millwall-surprise-at-lions-interest-after-talks-with-european-clubs-his-italy-adventure-top-running-stats-and-why-the-fans-will-love-him/)
 
 ### Featured Articles
 
