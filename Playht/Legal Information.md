@@ -372,6 +372,7 @@ Based on the applicable laws of your country, you may have the right to request 
 * [Privacy Policy](https://play.ht/privacy/)
 * [Terms & Conditions](https://play.ht/terms/)
 * [GDPR](https://play.ht/gdpr/)
+* [Ethical AI](https://play.ht/ethical-ai/)
 * [Affiliates](https://play.ht/affiliates/)
 * [Pricing](https://play.ht/pricing/)
 * [Help Guides](https://help.play.ht/)
