@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Nichrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-nichrome/)
+[![37 Facts About Literary Works ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/37-facts-about-literary-works/)
 
-Chemistry
+Culture & The Arts
 
-23 Sep 2024
+24 Sep 2024
 
-[50 Facts About Nichrome](https://facts.net/science/chemistry/50-facts-about-nichrome/)
+[37 Facts About Literary Works](https://facts.net/culture-and-the-arts/37-facts-about-literary-works/)
 
-[![33 Facts About Rapid Expansion ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/33-facts-about-rapid-expansion/)
+[![50 Facts About Red Ear Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/50-facts-about-red-ear-syndrome/)
 
-General
+Health
 
-23 Sep 2024
+24 Sep 2024
 
-[33 Facts About Rapid Expansion](https://facts.net/general/33-facts-about-rapid-expansion/)
+[50 Facts About Red Ear Syndrome](https://facts.net/lifestyle/health/50-facts-about-red-ear-syndrome/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
