@@ -1,6 +1,6 @@
-[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/apps/)
+[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/)
 
-[Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Spaces](https://webcatalog.io/en/spaces/)[Download](https://webcatalog.io/en/desktop/)[Pricing](https://webcatalog.io/en/pricing/)[Help](https://webcatalog.io/en/help/)
+[Download](https://webcatalog.io/en/)[Spaces](https://webcatalog.io/en/spaces/)[Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Pricing](https://webcatalog.io/en/pricing/)[Help](https://webcatalog.io/en/help/)
 
 Sign inAppearance
 
@@ -189,19 +189,9 @@ If you have any questions feel free to [contact us](https://webcatalog.io/help/)
 Suite 10869  
 San Francisco, CA 94114, USA
 
-Explore
-
-[Apps](https://webcatalog.io/en/apps/)
-
-[Games](https://webcatalog.io/en/games/)
-
-[Categories](https://webcatalog.io/en/categories/)
-
-[Submit New App](https://webcatalog.io/en/apps/submit/)
-
 Products
 
-[Desktop](https://webcatalog.io/en/desktop/)
+[Desktop](https://webcatalog.io/en/)
 
 [Spaces](https://webcatalog.io/en/spaces/)
 
@@ -216,6 +206,16 @@ Download
 [Windows](https://webcatalog.io/en/desktop/windows/)
 
 [Linux](https://webcatalog.io/en/desktop/linux/)
+
+Explore
+
+[Apps](https://webcatalog.io/en/apps/)
+
+[Games](https://webcatalog.io/en/games/)
+
+[Categories](https://webcatalog.io/en/categories/)
+
+[Submit New App](https://webcatalog.io/en/apps/submit/)
 
 Support
 
