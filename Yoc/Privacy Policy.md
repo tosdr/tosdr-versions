@@ -272,7 +272,7 @@ and printed out.
 * [Research Studies](https://yoc.com/resources)
 * [Whitepaper](https://yoc.com/resources)
 * [Case Studies](https://yoc.com/resources)
-* [YOC Showroom](https://showroom-staging.yoc.com/website/dZ6U-Ol8B-aUMH)
+* [YOC Showroom](https://showroom.yoc.com/website/dZ6U-Ol8B-aUMH)
 
 [Company](https://yoc.com/unternehmen)
 
