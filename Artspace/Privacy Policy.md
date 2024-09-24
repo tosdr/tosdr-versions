@@ -297,7 +297,7 @@ Address 2 (optional)
 
 \*State / Province 
 
-\*Province
+Province
 
 \*Phone Number
 
