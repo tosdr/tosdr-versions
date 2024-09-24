@@ -28,14 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240103)
 * Cricket
     
-* [Men's ODI
-    
-    |     |     |
-    | --- | --- |
-    | ENG |     |
-    | AUS | 4 /163 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
 * [Women's T20I
     
     AUS won by 5 wkts
@@ -46,6 +38,16 @@ FOX SCORES
     | NZL | 6 /146 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250103)
+* [Men's ODI
+    
+    ENG won by 46 runs (DLS)
+    
+    |     |     |
+    | --- | --- |
+    | ENG | 4 /254 |
+    | AUS | 7 /304 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
 * [One-Day Cup
     
     SA won by 2 runs
@@ -140,28 +142,6 @@ FOX SCORES
     | NEW | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241002)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BUF | 47  |
-    | JAX | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250313)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CIN | 33  |
-    | WAS | 38  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250314)
 * Motorsport
     
 * [MotoGP
