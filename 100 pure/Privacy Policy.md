@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5748 reviews (5749)
+5748 reviews (5750)
 
 $16.00 $29.00
 
@@ -300,7 +300,7 @@ ADD TO TOTE
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-872 reviews (872)
+872 reviews (873)
 
 $38.00
 
