@@ -280,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
+So many fans visit King’s Cross Station to take pictures of Platforms 9 and 10 that the station management erected a sign that says “Platform 9 3/4,” which, in the Harry Potter books, is invisible to Muggles but acts as a gateway for witches and wizards.
 
 ### Potter History
 
-May 29, 2010 – MuggleNet 2.0 launches.
+July 25, 2006 – The paperback edition of Harry Potter and the Half-Blood Prince is released in the United States.
 
 ### Potter Quote
 
-“Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.”
+“Shall we die just a little?”
 
 [](#)
 
