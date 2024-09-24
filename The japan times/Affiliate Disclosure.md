@@ -30,8 +30,8 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Shohei Ohtani](https://www.japantimes.co.jp/tag/shohei-ohtani/ "Shohei Ohtani")
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
+* [NOTO PENINSULA FLOODING](https://www.japantimes.co.jp/tag/noto-peninsula/ "NOTO PENINSULA FLOODING")
 * [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/about-us/link-policy/podcast/deep-dive/ "Deep Dive")
@@ -134,6 +134,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
 
+[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+
+  [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+
 [What does America stand for? The world no longer knows.](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
 
   [![U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422890.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ")](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
@@ -146,12 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
 
-[Kim Jong Un offers tepid praise to China as he cozies up to Russia](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
-
-  [![North Korean leader Kim Jong Un, meets with Sergei Shoigu, Secretary of the Security Council of Russia, earlier this month. 
-](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "North Korean leader Kim Jong Un, meets with Sergei Shoigu, Secretary of the Security Council of Russia, earlier this month. 
-")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
-
 Editors' Picks
 --------------
 
@@ -162,6 +160,14 @@ Editors' Picks
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
   [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
 [COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
@@ -187,14 +193,6 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[Kim Jong Un offers tepid praise to China as he cozies up to Russia](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
-
-  [![North Korean leader Kim Jong Un, meets with Sergei Shoigu, Secretary of the Security Council of Russia, earlier this month. 
-](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "North Korean leader Kim Jong Un, meets with Sergei Shoigu, Secretary of the Security Council of Russia, earlier this month. 
-")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/kim-jong-un-china-praise/ "Kim Jong Un offers tepid praise to China as he cozies up to Russia")
-
 Podcast
 -------
 
@@ -214,9 +212,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -256,19 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+[Rice inflation to persist despite harvest, as prices rise over 20% on year](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-rice-inflation/ "Rice inflation to persist despite harvest, as prices rise over 20% on year")
 
-10 hours ago
+28 mins ago
 
-[Kibbutz visit stirs grim memories of Israeli family slain on Oct. 7](https://www.japantimes.co.jp/news/2024/09/23/world/kibbutz-visit-israeli-family-oct-7/ "Kibbutz visit stirs grim memories of Israeli family slain on Oct. 7")
+[Tsunami advisory lifted after 50 cm wave reaches Hachijojima](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Tsunami advisory lifted after 50 cm wave reaches Hachijojima")
 
-11 hours ago
+55 mins ago
 
-[Top Japanese and Chinese officials hold talks in wake of deadly stabbing](https://www.japantimes.co.jp/news/2024/09/23/japan/crime-legal/vice-foreign-minister-china-stabbing/ "Top Japanese and Chinese officials hold talks in wake of deadly stabbing")
+[India extends unprecedented invite to Myanmar's anti-junta forces, sources say](https://www.japantimes.co.jp/news/2024/09/24/asia-pacific/india-myanmar-anti-junta-forces/ "India extends unprecedented invite to Myanmar's anti-junta forces, sources say")
 
-[Former PM Yoshihiko Noda elected new leader of main opposition CDP](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
+59 mins ago
 
-[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+[Israeli economy struggles under weight of Gaza war](https://www.japantimes.co.jp/news/2024/09/24/world/israeli-economy-gaza-war/ "Israeli economy struggles under weight of Gaza war")
+
+1 hours ago
+
+[China unleashes stimulus blitz in push to hit annual growth goal](https://www.japantimes.co.jp/business/2024/09/24/economy/china-stimulus-annual-growth-goal/ "China unleashes stimulus blitz in push to hit annual growth goal")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
