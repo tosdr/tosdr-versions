@@ -15,66 +15,59 @@
 
 * * *
 
-* [Prepaid](https://www.congstar.de/prepaid/)
+* [Angebote](https://www.congstar.de/handytarife/angebote/)
     
-    [Übersicht](https://www.congstar.de/prepaid/)
+    [Übersicht](https://www.congstar.de/handytarife/angebote/)
     
-    * [Prepaid Tarife](#)
-        * [Prepaid Tarife im Vergleich](https://www.congstar.de/prepaid/)
-        * [Prepaid Jahrespaket (120 GB/Jahr)](https://www.congstar.de/prepaid/tarife/prepaid-jahrespaket/)
+    * [Für Neukund\*innen](#)
+        * [Tarif-Angebote](https://www.congstar.de/handytarife/angebote/)
+        * [Handy-Angebote](https://www.congstar.de/handys/handy-angebote/)
+    
+    * [Für Bestandskund\*innen](#)
+        * [Zweit- und Partnerkarte](https://www.congstar.de/partnerkarte/)
+        * [Prepaid-Angebote](https://www.congstar.de/prepaid/treueangebot/)
+        * [Freund\*innen werben und sparen](https://www.congstar.de/freundeskreis/)
+    
+* [Mobilfunk](https://www.congstar.de/handytarife/)
+    
+    [Übersicht](https://www.congstar.de/handytarife/)
+    
+    * [Tarife mit Vertrag](#)
+        * [Tarife im Vergleich](https://www.congstar.de/handytarife/smartphone-tarife-im-vergleich/)
+        * [congstar X (200 GB)](https://www.congstar.de/congstar-x/)
+        * [Allnet Flat L (50 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-l/)
+        * [Allnet Flat M (30 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m/)
+        * [Allnet Flat S Extra (10 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s-extra/)
+        * [Allnet Flat S (5 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s/)
+        * [Zweit- und Partnerkarte mit Kund\*innenrabatt](https://www.congstar.de/partnerkarte/)
+    
+    * [Prepaid](#)
+        * [Prepaid-Tarife im Vergleich](https://www.congstar.de/prepaid/)
+        * [Prepaid Jahrespaket (100 GB/Jahr)](https://www.congstar.de/prepaid/tarife/prepaid-jahrespaket/)
         * [Prepaid Allnet XL (20 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xl/)
         * [Prepaid Allnet L (15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-l/)
         * [Prepaid Allnet M (9 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-m/)
         * [Prepaid Allnet S (3 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-s/)
         * [Prepaid Allnet XS (1 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xs/)
         * [Prepaid wie ich will (1 bis 15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-wie-ich-will/)
+        * [Prepaid-Angebote für Bestandskund\*innen](https://www.congstar.de/prepaid/treueangebot/)
     
     * [Optionen](#)
-        * [Zubuchbare Optionen](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/prepaid/)
-        * [Datenvolumen zubuchen](https://www.congstar.de/hilfe-service/mein-vertrag/datenvolumen-zubuchen/)
-    
-    * [Tipps & Service](#)
-        * [Rufnummernmitnahme](https://www.congstar.de/hilfe-service/auftrag-lieferung/rufnummernmitnahme/)
-        * [Karte aktivieren](https://www.congstar.de/prepaid/karte-aktivieren/)
-        * [Prepaid-Karte aufladen](https://www.congstar.de/prepaid/services/karte-aufladen/)
-        * [Prepaid-Karte mit Kundenrabatt](https://www.congstar.de/prepaid/treueangebot/)
-    
-    * [Aktionen](#)
-        * [Prepaid Treueangebot - 50 % auf Starterpaket für Kund\*innen](https://www.congstar.de/prepaid/treueangebot/)
-    
-* [Tarife](https://www.congstar.de/handytarife/)
-    
-    [Übersicht](https://www.congstar.de/handytarife/)
-    
-    * [Smartphone Tarife](#)
-        * [Smartphone Tarife im Vergleich](https://www.congstar.de/handytarife/smartphone-tarife-im-vergleich/)
-        * [congstar X (200 GB)](https://www.congstar.de/congstar-x/)
-        * [Allnet Flat L mit GB+ (50 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-l/)
-        * [Allnet Flat M mit GB+ (30 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m/)
-        * [Allnet Flat S Extra mit GB+ (10 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s-extra/)
-        * [Allnet Flat S mit GB+ (5 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s/)
-    
-    * [Optionen](#)
+        * [5G Option](https://www.congstar.de/handytarife/5g/)
         * [Zubuchbare Optionen](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/tarife/)
         * [Datenvolumen zubuchen](https://www.congstar.de/hilfe-service/mein-vertrag/datenvolumen-zubuchen/)
-        * [Musik Option – TIDAL](https://www.congstar.de/handytarife/musik-option-tidal-hifi/)
-        * [share Tut Gutes Option](https://www.congstar.de/handytarife/share-tut-gutes-option/)
-        * [5G Option](https://www.congstar.de/handytarife/5g/)
     
-    * [Tarifvorteile bei congstar](#)
-        * [Angebote und Aktionen](https://www.congstar.de/handytarife/angebote/)
-        * [Zweit- und Partnerkarte mit Kundenrabatt](https://www.congstar.de/partnerkarte/)
+    * [Service](#)
         * [Rufnummernmitnahme](https://www.congstar.de/hilfe-service/auftrag-lieferung/rufnummernmitnahme/)
-        * [eSIM - Tarif mit eSIM bestellen](https://www.congstar.de/esim/)
+        * [Prepaid-Karte aktivieren](https://www.congstar.de/prepaid/karte-aktivieren/)
+        * [Prepaid-Karte aufladen](https://www.congstar.de/prepaid/services/karte-aufladen/)
+        * [Tarife mit eSIM](https://www.congstar.de/esim/)
         * [MultiSIM](https://www.congstar.de/multisim/)
+        * [Weitere Services](https://www.congstar.de/hilfe-service/)
     
-* [Handys & Tablets](https://www.congstar.de/geraete/)
+* [Geräte](https://www.congstar.de/geraete/)
     
     [Übersicht](https://www.congstar.de/geraete/)
-    
-    * [% Angebote %](#)
-        * [Alle Angebote im Überblick](https://www.congstar.de/handys/handy-angebote/)
-        * [Smartphone mit Vertrag - lohnt sich das?](https://www.congstar.de/handys/smartphone-mit-vertrag-lohnt-sich-das/)
     
     * [Hersteller](#)
         * [Alle Hersteller](https://www.congstar.de/geraete/)
@@ -96,9 +89,9 @@
         * [Handyankauf](https://www.congstar.de/handys/handyankauf/)
         * [Nachhaltige Smartphones](https://www.congstar.de/handys/nachhaltige-smartphones/)
     
-* [Internet für Zuhause](https://www.congstar.de/festnetz-internet/)
+* [Internet](https://www.congstar.de/internet/)
     
-    [Übersicht](https://www.congstar.de/festnetz-internet/)
+    [Übersicht](https://www.congstar.de/internet/)
     
     * [Internet über DSL](#)
         * [DSL Tarife im Vergleich](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
@@ -107,8 +100,7 @@
         * [Jetzt gewinnen: Internet inkl. Wohnungsmiete](https://www.congstar.de/zuhause/)
     
     * [Internet über LTE](#)
-        * [Homespot Tarife im Vergleich](https://www.congstar.de/festnetz-internet/congstar-homespot-im-vergleich/)
-        * [congstar X (200 GB)](https://www.congstar.de/congstar-x/)
+        * [Homespot Tarife im Vergleich](https://www.congstar.de/internet/congstar-homespot-im-vergleich/)
         * [Homespot 200](https://www.congstar.de/internet/homespot/homespot-200/)
         * [Homespot 100](https://www.congstar.de/internet/homespot/homespot-100/)
         * [Homespot 30](https://www.congstar.de/internet/homespot/homespot-30/)
@@ -121,7 +113,7 @@
         * [Rufnummernmitnahme](https://www.congstar.de/hilfe-service/auftrag-lieferung/rufnummernmitnahme/)
         * [Bestellstatus, Lieferung & Retoure](https://www.congstar.de/hilfe-service/auftrag-lieferung/)
         * [Prepaid-Karte aktivieren](https://www.congstar.de/prepaid/karte-aktivieren/)
-        * [Homespot einrichten](https://www.congstar.de/festnetz-internet/homespot-einrichten/)
+        * [Homespot einrichten](https://www.congstar.de/internet/homespot-einrichten/)
         * [DSL & Festnetz einrichten](https://www.congstar.de/hilfe-service/anleitungen/anleitungen-dsl-router-und-festnetz/)
     
     * [Deine Daten](#)
@@ -243,7 +235,7 @@ Rückgabe
 * [Tarife mit Vertrag](https://www.congstar.de/handytarife/)
 * [Prepaid](https://www.congstar.de/prepaid/)
 * [Handys & Smartphones](https://www.congstar.de/geraete/)
-* [Festnetz & Internet](https://www.congstar.de/festnetz-internet/)
+* [Festnetz & Internet](https://www.congstar.de/internet/)
 * [Produktinformationsblätter](https://www.congstar.de/produktinformationsblaetter/)
 * [Garantiebedingungen](https://www.congstar.de/garantiebedingungen/)
 * [Hinweise zu Batterien und Altgeräten](https://www.congstar.de/hinweise-zu-batterien-und-altgeraeten/)
