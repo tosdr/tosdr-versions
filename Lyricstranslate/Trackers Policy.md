@@ -137,65 +137,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Mohammad Reza Asadi Roshan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1497475-1622088383.jpg)](https://lyricstranslate.com/en/translator/mohammad-reza-asadi-roshan "Mohammad Reza Asadi Roshan")
+[![uji na](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496118-1655268553.jpg)](https://lyricstranslate.com/en/translator/uji-na "uji na")
 
 New song
 
-[Simge - Sevda Koydum Adını (Bir Gece Masalı)](https://lyricstranslate.com/en/simge-sevda-koydum-adini-bir-g-lyrics)
+[Minuano - 流星綺譚](https://lyricstranslate.com/en/minuano-tale-falling-star-lyrics)
 
-Turkish
+Japanese
 
-[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
-
-New translation
-
-[Altan (Ireland) - Beidh Aonach Amárach](https://lyricstranslate.com/en/altan-ireland-beidh-aonach-amarach-english)
-
-Gaelic (Irish Gaelic) → English
-
-[![quarup](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1509758-1628678098.jpg)](https://lyricstranslate.com/en/translator/quarup "quarup")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New comment
 
-Sei semplicemente strabiliante…  [more](https://lyricstranslate.com/en/comment/1166815#comment-1166815)
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1166912#comment-1166912)
 
-[![ivycone](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1487108-1724499410.jpg)](https://lyricstranslate.com/en/translator/ivycone "ivycone")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+Really!? Thank you so much for proofreading them 🤧  [more](https://lyricstranslate.com/en/comment/1166911#comment-1166911)
+
+[![FJW136](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/fjw136 "FJW136")
 
 New song
 
-[Murat Dalkılıç - Yalancısın](https://lyricstranslate.com/en/murat-dalkilic-yalancisin-lyrics)
+[Mauvais Œil - Toi et moi](https://lyricstranslate.com/en/mauvais-oeil-toi-et-moi-lyrics)
 
-Turkish
+Arabic
 
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[John + Jane Q. Public - Watermelon](https://lyricstranslate.com/en/john-jane-q-public-watermelon-lyrics)
+
+English
+
+[![Emil Jørgensen](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1504444-1623936890.jpg)](https://lyricstranslate.com/en/translator/emil-j%C3%B8rgensen "Emil Jørgensen")
+
+New request
+
+[Dasha (USA) - Austin](https://lyricstranslate.com/en/request/austin-1)
+
+English → Danish
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New comment
 
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1166813#comment-1166813)
+Was the very last word cut off in your lyrics? Is ...  [more](https://lyricstranslate.com/en/comment/1166910#comment-1166910)
 
-[![Mira1199](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1361009-1637679537.jpg)](https://lyricstranslate.com/en/translator/mira1199 "Mira1199")
-
-New translation
-
-[Love Next Door (OST) - 나의 밤 (Leave it all behind) (naui bam)](https://lyricstranslate.com/en/love-next-door-ost-naui-bam-russian)
-
-English → Russian
-
-[![Voldimeris](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1243895-1697899330.jpg)](https://lyricstranslate.com/en/translator/voldimeris "Voldimeris")
+[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
 
 New translation
 
-[Feli (Romania) - Bună De Iubit](https://lyricstranslate.com/en/feli-romania-buna-de-iubit-russian)
+[Anne Mattila - Vain sinä ja minä](https://lyricstranslate.com/en/anne-mattila-vain-sina-ja-mina-french)
 
-Romanian → Russian
-
-[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
-
-New translation
-
-[Albert Fry - Ceol an Phíobaire](https://lyricstranslate.com/en/albert-fry-ceol-phiobaire-english)
-
-Gaelic (Irish Gaelic) → English
+Finnish → French
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
