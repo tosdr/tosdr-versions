@@ -1,5 +1,7 @@
 [Skip to content](#mainContentBlock)
 
+[📣 Upcoming webinar! How fashion brand Marimekko fosters authenticity while scaling global e-commerce](https://www.sanity.io/events/marimekko-webinar?ref=banner)
+
 [Sanity](https://www.sanity.io/)
 
 * * Product
