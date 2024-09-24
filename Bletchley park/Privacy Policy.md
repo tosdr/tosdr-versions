@@ -20,6 +20,11 @@ GPNQHZ987
 
 Type above to decrypt our story...
 
+Online Booking
+--------------
+
+**Online booking for visits to Bletchley Park, or any of our events, will not be available between 18.30 and 21.30 on Tuesday 24 September.** This is due to an update of our booking portal. Please try again later. Tickets are also available at Admissions when you arrive. **Thank you for your patience.**
+
 Back
 
 * [Tickets](https://bletchleypark.org.uk/book-now/)
