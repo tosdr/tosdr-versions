@@ -37,7 +37,7 @@
         
         [Go to Support](https://www.equifax.com/business/support/)
         
-        [Submit a Service Request](https://www.equifax.com/business/support/)
+        [Submit a Service Request](https://www.equifax.com/business/support/customer-care/)
         
         ##### Not a Business Customer Yet?
         
