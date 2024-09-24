@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/all/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/50HansS_20140521_00001205/jones-shane-valedictory-statements/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/all/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/50HansS_20140521_00001205/jones-shane-valedictory-statements/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -97,17 +97,13 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-an
     For more information about tours and visiting Parliament, click here.](https://www.parliament.nz/en/visit-and-learn/visit/)
     
 
-[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
+ [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Live
 
-The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://videos.parliament.nz/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](#audio-notlive-popup)
-
-### Listen
-
-There is no current live audio feed.
+* [Listen](http://www.radionz.co.nz/audio/live/parliament)
 
 * [About Us](https://www.parliament.nz/en/footer/about-us/)
 * [Glossary](https://www.parliament.nz/en/visit-and-learn/how-parliament-works/glossary/)
@@ -120,17 +116,13 @@ There is no current live audio feed.
 * [Website Help](https://www.parliament.nz/en/footer/website-help/)
 * [Sitemap](https://www.parliament.nz/en/sitemap/)
 
-[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
+ [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Live
 
-The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://videos.parliament.nz/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](#audio-notlive-popup)
-
-### Listen
-
-There is no current live audio feed.
+* [Listen](http://www.radionz.co.nz/audio/live/parliament)
 
 Privacy
 =======
@@ -143,17 +135,33 @@ Privacy
 
 **Last updated:** 22 May 2019
 
-### **Privacy Statement**
+**Organisation Privacy Statement**
+----------------------------------
+
+New Zealand Parliament may collect personal data from you when you engage with us via telephone, fax, written letter, or digital channels such as email or website forms. Details on the collection and use of your personal data via digital channels are explained in the Website Privacy Statement on this page. 
+
+### Personal information collected by telephone
+
+We record inbound calls made to our Parliament main line numbers, 0800 7273 6282 and 04 817 9999.
+
+For calls to these numbers, recording starts once your call is answered by a Customer Service Representative. Any wait time prior to your call being answered is not recorded. The phone number you have called from is also stored so we can retrieve the call recording in the future. We do not use your phone number for any other purpose.
+
+Recording automatically stops when you are transferred to anyone outside our Customer Service Team, or when the call is terminated.
+
+Call recordings are stored securely for up to 30 days, after which they are automatically deleted.
+
+**Website Privacy Statement**
+-----------------------------
 
 This privacy statement applies to your personal information collected on the New Zealand Parliament website [www.parliament.nz](http://www.parliament.nz/)
 
-The information in this statement does not apply to any personal information collected by external websites the Parliament website redirects users to, including the Careers website (careers.parliament.govt.nz). For privacy information on an external website please refer to their privacy policy.
+The information in this statement does not apply to any personal information collected by external websites the Parliament website redirects users to, including the external Careers website (careers.parliament.govt.nz). For privacy information on an external website please refer to their privacy policy.
 
-##### **Information on this site**
+### Information on this site
 
 The Parliament website provides information for the benefit of the public. The Office of the Clerk of the House of Representatives and the Parliamentary Service monitor the quality of the information available and update the information regularly.
 
-##### **Maintenance of this site**
+### Maintenance of this site
 
 The Parliamentary Service maintains and supports the infrastructure required to operate the website. Both the Office of the Clerk of the House of Representatives and the Parliamentary Service share the website for public communication purposes, therefore both agencies collect and hold any personal information received.
 
@@ -163,21 +171,21 @@ Parliament Buildings
 Molesworth Street  
 Wellington
 
-##### **Security of information**
+### Security of information
 
 Both our organisations take information security seriously. Our systems, including the information you provide us by email, through our website and by other methods, are monitored for security purposes so your communications may be seen by third parties as part of that cyber security monitoring.  This monitoring increases the likelihood that your information and parliamentary information systems are kept safe.
 
-##### **Collection of personal information**
+### Collection of personal information
 
 You may browse and access information contained within our website without providing personal information.
 
-There are some places on the website where you can choose to give your personal information to the Office of the Clerk and the Parliamentary Service (“us”, “we”), such as using the online form for select committee submissions, contacting us by email, and subscribing to Alerts, Rich Site Summary (RSS) feeds or online newsletter subscriptions. In these cases we collect the following personal information from you:
+There are some places on the website where you can choose to give your personal information to the Office of the Clerk and the Parliamentary Service (“us”, “we”), such as using the online form for select committee submissions, contacting us by email, Rich Site Summary (RSS) feeds or online newsletter subscriptions. In these cases we collect the following personal information from you:
 
 * Your name, your contact details and text or documents submitted when you make an online submission to a select committee. We collect contact information so that we can communicate with you about the submission process. (Refer additional information on making a submission below).
 * Email addresses and email content collected when you send an email directly from the Parliament website contact links.
-* Email addresses through subscribing to alerts, RSS feeds and subscription newsletters. 
+* Email addresses through subscribing to RSS feeds and subscription newsletters. 
 
-##### **Use and disclosure of personal information**
+### Use and disclosure of personal information
 
 We manage or use the above information in the following ways:
 
@@ -185,9 +193,9 @@ We manage or use the above information in the following ways:
 
 **Email addresses and email content** is collected when you send an email to an @parliament.govt.nz email address from the parliament website.  Email addresses and email content will be used for the purpose for which they were provided and will not be disclosed to any other parties, except where authorised by law.  Emails are archived and retained in accordance with the Public Records Act 2005. 
 
-**Alerts, RSS feeds and subscription newsletters** require us to collect your email address and/or your IP address so that we can provide the service you have requested through the parliament website.  RSS feeds and alerts tell you what’s new on the parliament website, alerts sends updates directly to your email address, whereas RSS feeds provide summary information for a particular web page directly to your browser’s toolbar.  The subscription newsletter(s) will be emailed directly to your email address.  You can unsubscribe from Alerts, RSS feeds and newsletter subscriptions at any time.
+**RSS feeds and subscription newsletters** require us to collect your email address and/or your IP address so that we can provide the service you have requested through the parliament website.  RSS feeds tell you what’s new on the parliament website and RSS feeds provide summary information for a particular web page directly to your browser’s toolbar.  The subscription newsletter(s) will be emailed directly to your email address.  You can unsubscribe from RSS feeds and newsletter subscriptions at any time.
 
-##### **Statistical information and cookies**
+### Statistical information and cookies
 
 Some information is automatically retrieved about your visit to our site, however no effort is made to identify individual users. The information that may be retrieved includes:
 
@@ -204,7 +212,7 @@ The statistical information referred to above will be viewable by certain Parlia
 
 Cookies are collected so that we may provide you with a better web service. They are only used to produce website statistics, personal information is not presented in any statistics produced. You can disable them or clear them out of your web browser without affecting your ability to use the site.
 
-##### **Access to and correction of personal information**
+### Access to and correction of personal information
 
 You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or have it corrected, please contact us in writing at:
 
@@ -216,11 +224,11 @@ Wellington 6160
 
 Email: [parliament.website@parliament.govt.nz](mailto:parliament.website@parliament.govt.nz)
 
-##### **Application of the Privacy Act 2020**
+### Application of the Privacy Act 2020
 
 Personal information held by the Office of the Clerk is subject to the requirements of the Privacy Act 2020. The Parliamentary Service is only subject to the Privacy Act 2020 in relation to personal information that it holds about its employees and former employees. However, the Parliamentary Service has developed specific policies to address the release of information. Under these policies data collected will not be disclosed to a third party, unless such disclosure is authorised by law.
 
-##### **Additional information on making a submission to a select committee**
+### Additional information on making a submission to a select committee
 
 All submissions received by select committees either electronically, through postal services or any other channel will be published to the Parliament website.
 
