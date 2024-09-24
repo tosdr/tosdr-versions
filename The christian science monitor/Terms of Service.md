@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Dignity
+
+### Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home](https://www.csmonitor.com/World/Americas/2024/0924/sinixt-confederacy-canada-indigenous-people-cross-border-sovereignty "Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home")
+
+[Honesty
+
+### Signs of a ‘South Asian Spring’](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0924/Signs-of-a-South-Asian-Spring "Signs of a ‘South Asian Spring’")
+
 [Community
 
-### Senseless deaths mount in Congo. Dignified mourning helps salve the pain.](https://www.csmonitor.com/World/Africa/2024/0923/congo-deaths-lives-meaning "Senseless deaths mount in Congo. Dignified mourning helps salve the pain.")
-
-[Balance
-
-### ‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.](https://www.csmonitor.com/USA/Society/2024/0923/Dumbphones-a-smart-move-Some-young-people-seeking-free-time-and-friends-say-yes "‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.")
-
-[Justice
-
-### They paid their debts to society. Nebraska still might not let them vote.](https://www.csmonitor.com/USA/Justice/2024/0923/nebraska-state-voting-rights-felons-election "They paid their debts to society. Nebraska still might not let them vote.")
+### ‘Bring back the fireflies’: In metro Manila, a cycling brigade aims to cut pollution](https://www.csmonitor.com/World/Making-a-difference/2024/0924/metro-manila-cycling-firefly-brigade "‘Bring back the fireflies’: In metro Manila, a cycling brigade aims to cut pollution")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Senseless deaths mount in Congo. Dignified mourning helps salve the pain.](https://www.csmonitor.com/World/Africa/2024/0923/congo-deaths-lives-meaning "Senseless deaths mount in Congo. Dignified mourning helps salve the pain.")
+[### Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home](https://www.csmonitor.com/World/Americas/2024/0924/sinixt-confederacy-canada-indigenous-people-cross-border-sovereignty "Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home")
 
-[### ‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.](https://www.csmonitor.com/USA/Society/2024/0923/Dumbphones-a-smart-move-Some-young-people-seeking-free-time-and-friends-say-yes "‘Dumbphones’ a smart move? Some young people seeking free time and friends say yes.")
+[### Israel takes its conflict with Hezbollah to the brink of war](https://www.csmonitor.com/World/Middle-East/2024/0924/Israel-takes-its-conflict-with-Hezbollah-to-the-brink-of-war "Israel takes its conflict with Hezbollah to the brink of war")
 
-[### They paid their debts to society. Nebraska still might not let them vote.](https://www.csmonitor.com/USA/Justice/2024/0923/nebraska-state-voting-rights-felons-election "They paid their debts to society. Nebraska still might not let them vote.")
+[### Police don’t always need to use force. New guidelines lay out a different approach.](https://www.csmonitor.com/USA/2024/0924/police-brutality-deadly-force-george-floyd "Police don’t always need to use force. New guidelines lay out a different approach.")
 
 * * *
 
