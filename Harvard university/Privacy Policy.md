@@ -211,9 +211,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Harvard releases race data for Class of 2028** Cohort is first to be impacted by Supreme Court’s admissions ruling](https://news.harvard.edu/gazette/story/2024/09/harvard-releases-race-data-for-class-of-2028/)
-        2. [**High doses of Adderall may increase psychosis risk** Among those who take prescription amphetamines, 81% of cases of psychosis or mania could have been eliminated if they were not on the high dose, findings suggest](https://news.harvard.edu/gazette/story/2024/09/high-doses-of-adderall-may-increase-psychosis-risk/)
-        3. [**For this ring, I thee sue**  Unhappy suitor wants $70,000 engagement gift back. Now court must decide whether 1950s legal standard has outlived relevance.](https://news.harvard.edu/gazette/story/2024/09/for-this-ring-i-thee-sue/)
+        1. [**Good genes are nice, but joy is better** Harvard study, almost 80 years old, has proved that embracing community helps us live longer, and be happier](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
+        2. [**Eat this. Take that. Get skinny. Trust us.** Popularity of newest diet drugs fuel ‘dumpster fire’ of risky knock-offs, questionable supplements, food products, experts warn](https://news.harvard.edu/gazette/story/2024/09/eat-this-take-that-get-skinny-trust-us/)
+        3. [**Do phones belong in schools?** Banning cellphones may help protect classroom focus, but school districts need to stay mindful of students’ sense of connection, experts say.](https://news.harvard.edu/gazette/story/2023/03/experts-see-pros-and-cons-to-allowing-cellphones-in-class/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
