@@ -109,9 +109,9 @@ Playtika Group
 * [Promotion Official Rules](https://www.playtika.com/promotion-official-rules/)
 * [Legal](https://www.playtika.com/legal/)
 * [Marketing Agreement](https://www.playtika.com/marketing-agreement/)
-* [Your Privacy Rights](https://playtikaprod.service-now.com/privacy_security.do)
+* [Your Privacy Rights](https://playtika.service-now.com/privacy_security.do)
 * [Candidate Privacy Notice](https://www.playtika.com/candidate-privacy-notice/)
-* [Responsible Gaming](https://playtikaprod.service-now.com/responsible_gaming_start.do)
+* [Responsible Gaming](https://playtika.service-now.com/responsible_gaming_start.do)
 
 #### Careers
 
@@ -190,9 +190,9 @@ Terms and Policies
 * [Promotion Official Rules](https://www.playtika.com/promotion-official-rules/)
 * [Legal](https://www.playtika.com/legal/)
 * [Marketing Agreement](https://www.playtika.com/marketing-agreement/)
-* [Your Privacy Rights](https://playtikaprod.service-now.com/privacy_security.do)
+* [Your Privacy Rights](https://playtika.service-now.com/privacy_security.do)
 * [Candidate Privacy Notice](https://www.playtika.com/candidate-privacy-notice/)
-* [Responsible Gaming](https://playtikaprod.service-now.com/responsible_gaming_start.do)
+* [Responsible Gaming](https://playtika.service-now.com/responsible_gaming_start.do)
 
 Careers
 -------
