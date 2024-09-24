@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![TEA commissioner calls for phones to be banned from Texas classrooms](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/01/32/18/GettyImages-1354022389.jpg?ve=1&tl=1)
+ [![Fort Worth police investigating deadly officer-involved shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/download-40.png?ve=1&tl=1)
 
- ![TEA commissioner calls for phones to be banned from Texas classrooms](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/01/32/18/592/333/GettyImages-1354022389.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-cell-phone-ban-classroom-mike-morath)
+ ![Fort Worth police investigating deadly officer-involved shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/download-40.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-shooting-selkirk-drive)
 
-### [TEA commissioner calls for phones to be banned from Texas classrooms](https://www.fox4news.com/news/texas-cell-phone-ban-classroom-mike-morath)
+### [Fort Worth police investigating deadly officer-involved shooting](https://www.fox4news.com/news/fort-worth-police-shooting-selkirk-drive)
 
- [![Police chase comes to an end in Mansfield; suspect fired shots at police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-2024-09-23T131502.033.jpg?ve=1&tl=1)
+ [![Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin-today.jpg?ve=1&tl=1)
 
- ![Police chase comes to an end in Mansfield; suspect fired shots at police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-2024-09-23T131502.033.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-chase-mansfield-end)
+ ![Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin-today.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officer-william-martin-affidavit-shooting)
 
-### [Police chase comes to an end in Mansfield; suspect fired shots at police](https://www.fox4news.com/news/police-chase-mansfield-end)
+### [Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://www.fox4news.com/news/fort-worth-police-officer-william-martin-affidavit-shooting)
 
- [![Suspect in apparent Trump assassination attempt allegedly wrote note of plans, feds say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/routh-note.jpg?ve=1&tl=1)
+ [![DOJ seeks attempted assassination charge against suspect accused of staking out Trump at golf course](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/routh-note.jpg?ve=1&tl=1)
 
- ![Suspect in apparent Trump assassination attempt allegedly wrote note of plans, feds say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/routh-note.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-ryan-routh-note-feds)
+ ![DOJ seeks attempted assassination charge against suspect accused of staking out Trump at golf course](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/routh-note.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-ryan-routh-note-feds)
 
-### [Suspect in apparent Trump assassination attempt allegedly wrote note of plans, feds say](https://www.fox4news.com/news/trump-assassination-attempt-ryan-routh-note-feds)
+### [DOJ seeks attempted assassination charge against suspect accused of staking out Trump at golf course](https://www.fox4news.com/news/trump-assassination-attempt-ryan-routh-note-feds)
 
- [![3 arrested after Dallas carjacking and chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/carjacking-suspects.jpg?ve=1&tl=1)
+ [![Florida storm live updates: Tropical Storm Watch for Florida as Potential Tropical Cyclone Nine inches closer](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/PTC9.png?ve=1&tl=1)
 
- ![3 arrested after Dallas carjacking and chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/carjacking-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3-arrested-dallas-carjacking)
+ ![Florida storm live updates: Tropical Storm Watch for Florida as Potential Tropical Cyclone Nine inches closer](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/PTC9.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
 
-### [3 arrested after Dallas carjacking and chase](https://www.fox4news.com/news/3-arrested-dallas-carjacking)
+### [Florida storm live updates: Tropical Storm Watch for Florida as Potential Tropical Cyclone Nine inches closer](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
 
- [![Florida in path of expected Hurricane Helene: Live updates, timeline, county-by-county impacts](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/d24acf45-slot1-3.jpg?ve=1&tl=1)
+ [![Cruz race now a 'tossup' should be warning for Texas GOP, says expert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2166461119.jpg?ve=1&tl=1)
 
- ![Florida in path of expected Hurricane Helene: Live updates, timeline, county-by-county impacts](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/d24acf45-slot1-3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
+ ![Cruz race now a 'tossup' should be warning for Texas GOP, says expert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2166461119.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cruz-race-now-tossup-should-be-warning-texas-gop-says-expert)
 
-### [Florida in path of expected Hurricane Helene: Live updates, timeline, county-by-county impacts](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
+### [Cruz race now a 'tossup' should be warning for Texas GOP, says expert](https://www.fox4news.com/news/cruz-race-now-tossup-should-be-warning-texas-gop-says-expert)
 
 ###### [News](https://www.fox4news.com/news)
 
