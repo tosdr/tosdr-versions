@@ -137,8 +137,8 @@ MSX Music player
 
 Latest reactions
 
-* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
+* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [MSX Overclocking - Disconnect WAIT pin](https://www.msx.org/news/hardware/en/msx-overclocking-disconnect-wait-pin "MSX Overclocking - Disconnect WAIT pin")
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=56 "WonderTANG! Who wants to juice up your MSX?")
-* [MSX & AI](https://www.msx.org/forum/msx-talk/development/msx-ai?page=4 "MSX & AI")
 * [Weak SCC sounds on Playsoniq](https://www.msx.org/forum/msx-talk/hardware/weak-scc-sounds-on-playsoniq "Weak SCC sounds on Playsoniq")
 * [Help using 720 KB 2DD 3.5" disks in modern computers](https://www.msx.org/forum/msx-talk/hardware/help-using-720-kb-2dd-35-disks-in-modern-computers "Help using 720 KB 2DD 3.5" disks in modern computers")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=56 "WonderTANG! Who wants to juice up your MSX?")
+* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958 "Tracing the V9958")
+* [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
+* [Strange issue with National DP-950 VHD Player](https://www.msx.org/forum/msx-talk/hardware/strange-issue-with-national-dp-950-vhd-player "Strange issue with National DP-950 VHD Player ")
+* [MSX & AI](https://www.msx.org/forum/msx-talk/development/msx-ai?page=4 "MSX & AI")
 * [Gradius / Nemesis with SCC and smoothscroll without arcade graphics?](https://www.msx.org/forum/msx-talk/software/gradius-nemesis-with-scc-and-smoothscroll-without-arcade-graphics?page=2 "Gradius / Nemesis with SCC and smoothscroll without arcade graphics?")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
 * [Laserdisc Pioneer CLD-7 question](https://www.msx.org/forum/msx-talk/general-discussion/laserdisc-pioneer-cld-7-question "Laserdisc Pioneer CLD-7 question")
-* [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
 * [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
-* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958 "Tracing the V9958")
-* [9990 Copy speed](https://www.msx.org/forum/msx-talk/development/9990-copy-speed "9990 Copy speed")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
