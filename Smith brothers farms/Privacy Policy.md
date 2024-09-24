@@ -254,14 +254,14 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (80)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (79)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
         * [Fruit (19)](https://www.smithbrothersfarms.com/fruit)
             
-        * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
+        * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
         * [Salad Kits (24)](https://www.smithbrothersfarms.com/salads)
             
@@ -284,14 +284,14 @@ Hi
         * [Treats (4)](https://www.smithbrothersfarms.com/desserts)
             
         
-    * [Meat (48)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (47)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
             
         * [Bacon & Breakfast Meat (13)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
-        * [Sausage, Dogs & Brats (5)](https://www.smithbrothersfarms.com/bacon-and-sausage)
+        * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
         * [Deli & Charcuterie (15)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
