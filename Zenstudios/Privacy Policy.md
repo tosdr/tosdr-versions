@@ -19,7 +19,7 @@
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-[![Goat Simulator Pinball](https://zensite.wpenginepowered.com/wp-content/uploads/2024/07/Goat_Simulator_keyart_4K_16_9_mod-scaled.jpg)](https://zenstudios.com/games/goat-simulator-pinball/)
+[![Camp Bloodbrook - Pinball M](https://zensite.wpenginepowered.com/wp-content/uploads/2024/09/Pinball_FX_Camp_bloodbrook_thumbnail.jpg)](https://zenstudios.com/games/camp-bloodbrook-pinball-m/)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
 * [Instagram](http://instagram.com/zen_studios)
