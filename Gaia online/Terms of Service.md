@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d74337231fb5.png)](https://www.gaiaonline.com/forum/t.114256836/ "Estival Encore") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-4a558717289f3685642b01d7cad0557bd26f752d1581bcb123d880bb1c2d3a7c
+815166ded24c2954079e419f5eac52d0832e08736eb0e1c556bb0cde19d73688832e08736eb0e1c556bb0cde19d73688
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -535,4 +535,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727142367)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727164140)
