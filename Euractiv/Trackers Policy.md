@@ -315,9 +315,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Tackling gaps in psoriasis care: An imperative for the EU](https://www.euractiv.com/section/health-consumers/opinion/tackling-gaps-in-psoriasis-care-an-imperative-for-the-eu/)
     * [Embracing a pro-innovation approach can help close the EU health gap](https://www.euractiv.com/section/health-consumers/opinion/embracing-a-pro-innovation-approach-can-help-close-the-eu-health-gap/)
     * [Type 1 Diabetes can be fast, but we can be faster! A call to boost early detection](https://www.euractiv.com/section/health-consumers/opinion/type-1-diabetes-can-be-fast-but-we-can-be-faster-a-call-to-boost-early-detection/)
-    * [A Roadmap to Resilience: Building a Healthier Europe Through Investment in Mental Health](https://www.euractiv.com/section/health-consumers/opinion/a-roadmap-to-resilience-building-a-healthier-europe-through-investment-in-mental-health/)
     
 * [Politics](https://www.euractiv.com/sections/politics/)
     
@@ -483,16 +483,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 
 ### Most read articles
 
-* 1[Ammunition from India enters Ukraine, raising Russian ire](http://en.euractiv.eu/section/defence-and-security/news/ammunition-from-india-enters-ukraine-raising-russian-ire/?utm_source=website&utm_campaign=popular)
-* 2[Leading Russian lawmaker threatens to nuke Strasbourg after European Parliament vote](http://en.euractiv.eu/section/defence-and-security/news/leading-russian-lawmaker-threatens-to-nuke-strasbourg-after-european-parliament-vote/?utm_source=website&utm_campaign=popular)
-* 3[Gazprom-friendly Hungary blames EU for failing to end Russian gas dependence](http://en.euractiv.eu/section/energy/news/gazprom-friendly-hungary-blames-eu-for-failing-to-end-russian-gas-dependence/?utm_source=website&utm_campaign=popular)
-* 4[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
-* 5[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
-* 6[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
-* 7[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
-* 8[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
-* 9[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
-* 10[Europe’s electrifiers say their time has come](http://en.euractiv.eu/section/energy-environment/news/europes-electrifiers-say-their-time-has-come/?utm_source=website&utm_campaign=popular)
+* 1[Leading Russian lawmaker threatens to nuke Strasbourg after European Parliament vote](http://en.euractiv.eu/section/defence-and-security/news/leading-russian-lawmaker-threatens-to-nuke-strasbourg-after-european-parliament-vote/?utm_source=website&utm_campaign=popular)
+* 2[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
+* 3[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
+* 4[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
+* 5[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 6[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
+* 7[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 8[Council working document show member states not on board with Letta, Draghi reports](http://en.euractiv.eu/section/digital/news/council-working-document-show-member-states-not-on-board-with-letta-draghi-reports/?utm_source=website&utm_campaign=popular)
+* 9[Centre-right and socialists clash over EU deforestation law enforcement](http://en.euractiv.eu/section/agriculture-food/news/centre-right-and-socialists-clash-over-eu-deforestation-law-enforcement/?utm_source=website&utm_campaign=popular)
+* 10[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
