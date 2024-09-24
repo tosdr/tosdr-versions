@@ -10,40 +10,40 @@ Categories
 
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/e-commerce.svg)
     
-    E-Commerce](https://coinsbee.com/en/shop/gift-cards/e-commerce)
+    E-Commerce](https://coinsbee.com/en/shop/gift-cards/e-commerce/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/games.svg)
     
-    Games](https://coinsbee.com/en/shop/gift-cards/games)
+    Games](https://coinsbee.com/en/shop/gift-cards/games/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/payment-cards.svg)
     
-    Payment cards](https://coinsbee.com/en/shop/gift-cards/payment-cards)
+    Payment cards](https://coinsbee.com/en/shop/gift-cards/payment-cards/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/mobile-recharge.svg)
     
-    Mobile phone credit](https://coinsbee.com/en/shop/mobile-top-ups)
+    Mobile phone credit](https://coinsbee.com/en/shop/mobile-top-ups/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/travel.svg)
     
-    Travel & Experiences](https://coinsbee.com/en/shop/gift-cards/travel)
+    Travel & Experiences](https://coinsbee.com/en/shop/gift-cards/travel/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/entertainment.svg)
     
-    Entertainment](https://coinsbee.com/en/shop/gift-cards/entertainment)
+    Entertainment](https://coinsbee.com/en/shop/gift-cards/entertainment/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/clothing.svg)
     
-    Fashion & Lifestyle](https://coinsbee.com/en/shop/gift-cards/clothing)
+    Fashion & Lifestyle](https://coinsbee.com/en/shop/gift-cards/clothing/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/foods-and-restaurants.svg)
     
-    Foods & Restaurants](https://coinsbee.com/en/shop/gift-cards/foods-and-restaurants)
+    Foods & Restaurants](https://coinsbee.com/en/shop/gift-cards/foods-and-restaurants/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/electronics.svg)
     
-    Electronics](https://coinsbee.com/en/shop/gift-cards/electronics)
+    Electronics](https://coinsbee.com/en/shop/gift-cards/electronics/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/home-and-garden.svg)
     
-    Home & Garden](https://coinsbee.com/en/shop/gift-cards/home-and-garden)
+    Home & Garden](https://coinsbee.com/en/shop/gift-cards/home-and-garden/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/crypto.svg)
     
-    Crypto](https://coinsbee.com/en/shop/gift-cards/crypto)
+    Crypto](https://coinsbee.com/en/shop/gift-cards/crypto/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/charity.svg)
     
-    Charity](https://coinsbee.com/en/shop/gift-cards/charity)
+    Charity](https://coinsbee.com/en/shop/gift-cards/charity/)
 
 EN
 
@@ -56,7 +56,7 @@ EN
 
 0
 
-[](https://coinsbee.com/en/shop)
+[](https://coinsbee.com/en/shop/)
 
 [![coinsbeelogo](https://cdn.coinsbee.com/dist/assets/img/coinsbeelogo.svg)](https://coinsbee.com/en/)
 
@@ -69,7 +69,7 @@ EN
 
 0
 
-[](https://coinsbee.com/en/shop)
+[](https://coinsbee.com/en/shop/)
 
 Recent Searches
 
@@ -79,46 +79,46 @@ Categories
 
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/e-commerce.svg)
     
-    E-Commerce](https://coinsbee.com/en/shop/gift-cards/e-commerce)
+    E-Commerce](https://coinsbee.com/en/shop/gift-cards/e-commerce/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/games.svg)
     
-    Games](https://coinsbee.com/en/shop/gift-cards/games)
+    Games](https://coinsbee.com/en/shop/gift-cards/games/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/payment-cards.svg)
     
-    Payment cards](https://coinsbee.com/en/shop/gift-cards/payment-cards)
+    Payment cards](https://coinsbee.com/en/shop/gift-cards/payment-cards/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/mobile-recharge.svg)
     
-    Mobile phone credit](https://coinsbee.com/en/shop/mobile-top-ups)
+    Mobile phone credit](https://coinsbee.com/en/shop/mobile-top-ups/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/travel.svg)
     
-    Travel & Experiences](https://coinsbee.com/en/shop/gift-cards/travel)
+    Travel & Experiences](https://coinsbee.com/en/shop/gift-cards/travel/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/entertainment.svg)
     
-    Entertainment](https://coinsbee.com/en/shop/gift-cards/entertainment)
+    Entertainment](https://coinsbee.com/en/shop/gift-cards/entertainment/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/clothing.svg)
     
-    Fashion & Lifestyle](https://coinsbee.com/en/shop/gift-cards/clothing)
+    Fashion & Lifestyle](https://coinsbee.com/en/shop/gift-cards/clothing/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/foods-and-restaurants.svg)
     
-    Foods & Restaurants](https://coinsbee.com/en/shop/gift-cards/foods-and-restaurants)
+    Foods & Restaurants](https://coinsbee.com/en/shop/gift-cards/foods-and-restaurants/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/electronics.svg)
     
-    Electronics](https://coinsbee.com/en/shop/gift-cards/electronics)
+    Electronics](https://coinsbee.com/en/shop/gift-cards/electronics/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/home-and-garden.svg)
     
-    Home & Garden](https://coinsbee.com/en/shop/gift-cards/home-and-garden)
+    Home & Garden](https://coinsbee.com/en/shop/gift-cards/home-and-garden/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/crypto.svg)
     
-    Crypto](https://coinsbee.com/en/shop/gift-cards/crypto)
+    Crypto](https://coinsbee.com/en/shop/gift-cards/crypto/)
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/charity.svg)
     
-    Charity](https://coinsbee.com/en/shop/gift-cards/charity)
+    Charity](https://coinsbee.com/en/shop/gift-cards/charity/)
 
 Categories
 
 Loading...
 
-* [All products](https://coinsbee.com/en/shop)
+* [All products](https://coinsbee.com/en/shop/)
 
 Page not found
 ==============
@@ -132,24 +132,24 @@ Categories
 Help
 
 * [Support](https://help.coinsbee.com/en/support/home)
-* [Supported Crypto](https://coinsbee.com/en/cryptocurrencies)
-* [How it Works](https://coinsbee.com/en/howitworks)
-* [Newsletter](https://coinsbee.com/en/newsletter)
+* [Supported Crypto](https://coinsbee.com/en/cryptocurrencies/)
+* [How it Works](https://coinsbee.com/en/howitworks/)
+* [Newsletter](https://coinsbee.com/en/newsletter/)
 
 About Us
 
-* [Our history](https://coinsbee.com/en/about-us)
-* [Known from](https://coinsbee.com/en/knowfromarticles)
-* [Press Resources](https://coinsbee.com/en/press-information)
+* [Our history](https://coinsbee.com/en/about-us/)
+* [Known from](https://coinsbee.com/en/knowfromarticles/)
+* [Press Resources](https://coinsbee.com/en/press-information/)
 * [Trustpilot Reviews](https://www.trustpilot.com/review/coinsbee.com)
 * [Blog](https://blog.coinsbee.com/)
 
 Legal
 
-* [Terms and Conditions](https://coinsbee.com/en/terms-and-privacy)
-* [Privacy Policy](https://coinsbee.com/en/terms-and-privacy#privacy-policy)
-* [Imprint](https://coinsbee.com/en/imprint)
-* [KYC & AML](https://coinsbee.com/en/kyc-aml)
+* [Terms and Conditions](https://coinsbee.com/en/terms-and-privacy/)
+* [Privacy Policy](https://coinsbee.com/en/terms-and-privacy#privacy-policy/)
+* [Imprint](https://coinsbee.com/en/imprint/)
+* [KYC & AML](https://coinsbee.com/en/kyc-aml/)
 
 ![coinsbee logo](https://cdn.coinsbee.com/dist/assets/img/coinsbeelogo.svg) Honey for your crypto money
 
@@ -181,6 +181,6 @@ Country
 
 Language
 
-EnglishFrançaisDeutschEspanolРусский中文ItalianoNederlandsPolskiPortuguês日本語한국어TürkçeSvenskaУкраїнськаBahasa IndonesiaTiếng ViệtTagalogČeštinaRomânăMagyarDanskNorskעברית
+EnglishFrançaisDeutschEspanolРусский中文ItalianoNederlandsPolskiPortuguês日本語한국어TürkçeSvenskaУкраїнськаBahasa IndonesiaTiếng ViệtTagalogČeštinaRomânăMagyarDanskNorskעבריתاردوفارسی
 
 Save
