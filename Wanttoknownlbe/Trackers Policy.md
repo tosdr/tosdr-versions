@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/ufo/ufo-sightings-top-20-van-2012/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/israelische-president-israel-is-een-zieke-maatschappij/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
