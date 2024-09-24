@@ -28,16 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240103)
 * Cricket
     
-* [Men's Test
-    
-    SRI won by 63 runs
-    
-    |     |     |
-    | --- | --- |
-    | SRI | 305 & 309 |
-    | NZL | 340 & 211 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240701)
 * [Women's T20I
     
     24/9 19:10 AEST
@@ -48,24 +38,22 @@ FOX SCORES
     | NZL | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250103)
-* [One-Day Cup
+* [Men's ODI
     
-    VIC won by 4 wkts
-    
-    |     |     |
-    | --- | --- |
-    | VIC | 6 /128 |
-    | TAS | 126 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250102)
-* [One-Day Cup
-    
-    24/9 9:30 AEST
+    24/9 21:30 AEST
     
     |     |     |
     | --- | --- |
-    | WA  | –   |
-    | SA  | –   |
+    | ENG | –   |
+    | AUS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
+* [One-Day Cup
+    
+    |     |     |
+    | --- | --- |
+    | WA  |     |
+    | SA  | 5 /135 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250103)
 * [WNCL
@@ -90,6 +78,16 @@ FOX SCORES
     | BRI | –   |
     
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
+* [AFL Women's
+    
+    24/9 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RIC | –   |
+    | POR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240501)
 * NRL
     
 * [NRL
@@ -136,36 +134,26 @@ FOX SCORES
     
 * [NFL
     
-    24/9 9:30 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | BUF | –   |
-    | JAX | –   |
+    | BUF | 37  |
+    | JAX | 10  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250313)
 * [NFL
     
-    24/9 10:15 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | CIN | –   |
-    | WAS | –   |
+    | CIN | 13  |
+    | WAS | 21  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250314)
 * Motorsport
     
-* [Formula 1
-    
-    Complete
-    
-    |     |
-    | --- |
-    | Singapore Grand Prix |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=592)
 * [MotoGP
     
     27/9 12:45 AEST
