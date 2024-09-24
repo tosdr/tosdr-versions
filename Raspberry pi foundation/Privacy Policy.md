@@ -12,7 +12,6 @@
     
     * [Learn to code online](https://codeclubworld.org/)
     * [Learn at a Code Club](https://codeclub.org/)
-    * [Learn at a CoderDojo](https://coderdojo.com/)
     * [Explore our projects](https://projects.raspberrypi.org/)
     
 * [Teach](https://www.raspberrypi.org/teach/)
@@ -347,7 +346,6 @@ Policy updated: September 2024
 * [Research](https://www.raspberrypi.org/research)
 
 * [For learners](https://www.raspberrypi.org/learn)
-* [CoderDojo](https://coderdojo.com/)
 * [Code Club](https://codeclub.org/)
 * [Code Club World](https://codeclubworld.org/)
 * [Explore our projects](https://projects.raspberrypi.org/)
