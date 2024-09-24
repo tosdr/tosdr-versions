@@ -533,8 +533,6 @@ Request a demo so you can see what’s possible for your organization.
 
 [×](#)
 
-                              
-
 Close GDPR Cookie Settings
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2048'%3E%3C/svg%3E)
