@@ -393,7 +393,7 @@ Featured travel offers
     
     Turkey | 3 nights | Book with easyJet holidays
     
-    From £191pp
+    From £190pp
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
@@ -552,6 +552,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![7 dreamy cruise destinations for 2025](https://media.restless.co.uk/uploads/2024/09/dreamy-cruise-destinations-for-2025-768x513.jpg)](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
+
+### [7 dreamy cruise destinations for 2025](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
+
+[Read More »](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
+
 [![10 enriching UK breaks](https://media.restless.co.uk/uploads/2024/09/enriching-uk-breaks-e1726831157473-768x384.jpg)](https://restless.co.uk/travel/enriching-uk-breaks/)
 
 ### [10 enriching UK breaks](https://restless.co.uk/travel/enriching-uk-breaks/)
@@ -581,12 +587,6 @@ New in travel
 ### [8 unbelievable places to visit in South America](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
 
 [Read More »](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
-
-[![6 luxury cruises across the world's continents](https://media.restless.co.uk/uploads/2024/07/luxury-cruises-across-the-worlds-continents-768x267.jpg)](https://restless.co.uk/travel/luxury-cruises-across-the-worlds-continents/)
-
-### [6 luxury cruises across the world’s continents](https://restless.co.uk/travel/luxury-cruises-across-the-worlds-continents/)
-
-[Read More »](https://restless.co.uk/travel/luxury-cruises-across-the-worlds-continents/)
 
 Popular travel guides
 ---------------------
