@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How do browsers handle revoked SSL/TLS certif ...](https://www.backup4all.com/how-do-browsers-handle-revoked-ssl-tls-certificates-kb.html)  
+* [How to restore a backup to Dropbox](https://www.backup4all.com/how-to-restore-a-backup-to-dropbox-kb.html)  
     
-* [How to create a backup plugin](https://www.backup4all.com/how-to-create-a-backup-plugin-kb.html)  
+* [Restore data after a hard drive crash](https://www.backup4all.com/restore-data-after-a-hard-drive-crash-kb.html)  
     
-* [How to backup your data with SwiftStack](https://www.backup4all.com/how-to-backup-your-data-with-swiftstack-kb.html)  
+* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
     
-* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
+* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
     
-* [Backup strategy: run a full backup locally an ...](https://www.backup4all.com/backup-strategy-make-a-full-backup-locally-and-subsequent-incremental-backups-to-ftp-kb.html)  
+* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
     
 
 Choose language:
