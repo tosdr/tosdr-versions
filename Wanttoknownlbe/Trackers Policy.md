@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/ufo/nazis-en-ufos-gingen-prima-samen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/opnieuw-ernstige-twijfels-over-bmr-prik/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
