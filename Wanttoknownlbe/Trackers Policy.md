@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/israelische-president-israel-is-een-zieke-maatschappij/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinatie-industrie-gevrijwaard-van-schadeclaims/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
