@@ -30,7 +30,7 @@ Where to Buy
 
 [Search](https://www.kasasmart.com/us/search/)
 
-* Home
+* Networking
     
     * [WiFi 7](https://www.kasasmart.com/us/wifi7/)
     
@@ -291,7 +291,7 @@ Where to Buy
 
   Submit
 
-* Home
+* Networking
     
     Back
     
