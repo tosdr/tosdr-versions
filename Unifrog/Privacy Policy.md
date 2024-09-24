@@ -429,7 +429,7 @@ We will keep your information for the following periods, unless we tell you othe
       
     If the Service terms terminates, we may delete some or all of your information from the Unifrog Platform. We will tell your School before we do so, so that you can download your information if you wish;
 
-* if you are a **Parent**, we will delete your information on any “dummy” account you create on the Unifrog Platform for as long as you continue to use the Unifrog Platform. If you do not use the Unifrog Platform for 4 years then we will delete your information.  
+* if you are a **Parent**, we will keep your information on any “dummy” account you create on the Unifrog Platform for as long as you continue to use the Unifrog Platform. If you do not use the Unifrog Platform for 4 years then we will delete your information.  
     We will delete any information you provide in relation to a proposed work placement for your child when we delete your child’s Unifrog account;
 
 * if you are a **Visitor** and you do not access the Unifrog Website for one year, then we will delete your information.
