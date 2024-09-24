@@ -280,7 +280,7 @@ Join us online
     
 * [](https://www.instagram.com/recordedfuture/)
     
-* [](https://www.recordedfuture.com/feed/)
+* [](https://www.recordedfuture.com/sitemap.xml)
     
 
 Want to learn more?
