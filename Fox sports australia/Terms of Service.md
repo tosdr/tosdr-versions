@@ -48,24 +48,24 @@ FOX SCORES
     | AUS | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
-* [One-Day Cup
-    
-    |     |     |
-    | --- | --- |
-    | WA  |     |
-    | SA  | 5 /135 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250103)
 * [WNCL
     
-    24/9 12:00 AEST
+    |     |     |
+    | --- | --- |
+    | WA  | 4 /79 |
+    | TAS | 219 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250101)
+* [One-Day Cup
+    
+    SA won by 2 runs
     
     |     |     |
     | --- | --- |
-    | WA  | –   |
-    | TAS | –   |
+    | WA  | 164 |
+    | SA  | 166 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250101)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250103)
 * AFL
     
 * [AFL
@@ -134,22 +134,22 @@ FOX SCORES
     
 * [NFL
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BUF | 37  |
+    | BUF | 47  |
     | JAX | 10  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250313)
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CIN | 13  |
-    | WAS | 21  |
+    | CIN | 33  |
+    | WAS | 38  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250314)
 * Motorsport
@@ -930,7 +930,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
