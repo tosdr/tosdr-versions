@@ -186,6 +186,7 @@
         * [Do not sell](https://www.urban-vpn.com/about-us/do-not-sell/)
 * [Glossary](https://www.urban-vpn.com/glossary/)
 * [Blog](https://www.urban-vpn.com/blog/)
+* [Sign in](https://premium.urban-vpn.com/)
 
 [![](https://assets.urban-vpn.com/wp-content/uploads/2023/02/03121456/logo.svg)](https://www.urban-vpn.com/)
 
@@ -386,6 +387,7 @@
         * [Do not sell](https://www.urban-vpn.com/about-us/do-not-sell/)
 * [Glossary](https://www.urban-vpn.com/glossary/)
 * [Blog](https://www.urban-vpn.com/blog/)
+* [Sign in](https://premium.urban-vpn.com/)
 * [![English](https://www.urban-vpn.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)](javascript:;)
     * [![Türkçe](https://www.urban-vpn.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/tr.png)](https://www.urban-vpn.com/tr/about-us/terms-of-service/)
     * [![Swedish se](https://www.urban-vpn.com/wp-content/uploads/flags/sv.png)](https://www.urban-vpn.com/se/about-us/terms-of-service/)
