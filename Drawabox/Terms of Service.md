@@ -20,27 +20,17 @@
 
 [Check Out NMA](https://drawabox.com/nma)    [About our Partnership](https://drawabox.com/announcement/NMA)    [Collapse this Ad](javascript:CloseAnnouncement('NMA'))
 
-The Autumn Promptathon is Coming
-
-2024 • 09 • 24  -  2024 • 09 • 30
-
-The Autumn Promptathon is Coming
-
-2024 • 09 • 24  -  2024 • 09 • 30
-
-[Click here for more info](https://drawabox.com/announcement/FALL2024)
-
 [](javascript:ShowNextAnnouncement(false,'previous'))[](javascript:CloseAnnouncement())[](javascript:ShowNextAnnouncement(false,'next'))
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2SjhDei)
+[](https://amzn.to/3KZMtFM)
 
-[](https://amzn.to/3KUTasJ)
+[](https://drawabox.com/rec/bucci/digitalpainting)
 
 [](https://amzn.to/4cdoFKu)
 
-[](https://amzn.to/45JqVq9)
+[](https://amzn.to/4bl6tx5)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
