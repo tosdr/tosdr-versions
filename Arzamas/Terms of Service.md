@@ -687,7 +687,7 @@ Web-сайт, расположенный в сети Интернет по а�
 
 [](https://arzamas.academy/)
 
-[О проекте](https://arzamas.academy/about)[Лицензия](https://arzamas.academy/license)[Политика конфиденциальности](https://arzamas.academy/privacy)[Обратная связь](https://arzamas.academy/about/contact)
+[О проекте](https://arzamas.academy/about)[Лицензия](https://arzamas.academy/license)[Политика конфиденциальности](https://arzamas.academy/privacy)[Правила](https://arzamas.academy/rules)[Обратная связь](https://arzamas.academy/about/contact)
 
 [![Radio](https://cdn-s-assets.arzamas.academy/assets/footer/radio-a6815ca7f5da23fdb196c993dae491f981b617461b1f8dca55742ae86a21e9f4.png)Радио Arzamas](https://arzamas.academy/radio)[![Goose](https://cdn-s-assets.arzamas.academy/assets/footer/goose-57ac85c29296815c0dacf1da048b171faa77c83fed1213f77b241fc6cbd303e8.svg)Гусьгусь](https://arzamas.academy/goosegoose)[![Stickers](https://cdn-s-assets.arzamas.academy/assets/footer/stickers-adc3b76cda0e4493bd33fd8f647e9f55e741f4704834420f36fd1ebbe3a01ac2.png)Стикеры Arzamas](https://arzamas.academy/stickers)
 
