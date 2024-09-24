@@ -87,7 +87,7 @@ Menu
     * [APPLE](https://www.cdkeys.com/top-up-cards/apple)
     * [FACEBOOK](https://www.cdkeys.com/top-up-cards/facebook)
     * [Google Play](https://www.cdkeys.com/top-up-cards/google-play)
-    * [Origin](https://www.cdkeys.com/top-up-cards/origin)
+    * [Origin](https://www.cdkeys.com/ea-origin-gift-cards)
     * [Steam](https://www.cdkeys.com/top-up-cards/steam)
     * [Battlenet](https://www.cdkeys.com/top-up-cards/battlenet)
     * [Netflix](https://www.cdkeys.com/top-up-cards/netflix)
@@ -458,11 +458,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 2. \-28%](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam)
+2.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 2. \-29%](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam)
     
     **[FINAL FANTASY XVI COMPLETE EDITION PC](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam "FINAL FANTASY XVI COMPLETE EDITION PC")**
     
-    Special Price $62.09 RRP $86.79
+    Special Price $61.79 RRP $86.79
     
     [Add to Wish List](# "Add to Wish List")
     
