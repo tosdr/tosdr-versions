@@ -16,7 +16,7 @@ State / Province\*
 
 Please selectAlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingAlbertaBritish ColumbiaManitobaNew BrunswickNewfoundland and LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon
 
-Your school, district, or organization\*
+Your school district or organization\*
 
 Which best describes your role?\*
 
@@ -40,7 +40,7 @@ What career development services do you provide and to whom?\*
 
 What can we help you with today?\*
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
