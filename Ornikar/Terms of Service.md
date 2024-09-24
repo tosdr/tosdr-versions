@@ -12,7 +12,7 @@ Jours
 
 Heures
 
-Votre permis dès 559,99€ seulement, en 3x sans frais ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Nouveau : votre permis en 4x sans frais et dès 559,99€ seulement ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -1790,7 +1790,7 @@ Envie d'en savoir plus
 
 Aide & Contact
 
-[Acheter par téléphone](https://app.ornikar.com/contacter-un-conseiller?origin=footer_lien)[Nous contacter](https://www.ornikar.com/a-propos/contact)[FAQ auto-école](https://aide.ornikar.com/hc/fr)[FAQ assurance](https://help.ornikar.com/s/)[Avis](https://fr.trustpilot.com/review/ornikar.com)[Dispositif Jeux Olympiques](https://aide.ornikar.com/hc/fr/articles/27336345177364-Conduire-pendant-les-Jeux-Olympiques-et-Paralympiques)
+[Acheter par téléphone](https://app.ornikar.com/contacter-un-conseiller?origin=footer_lien)[Nous contacter](https://www.ornikar.com/a-propos/contact)[FAQ auto-école](https://aide.ornikar.com/hc/fr)[FAQ assurance](https://help.ornikar.com/s/)[Avis](https://fr.trustpilot.com/review/ornikar.com)
 
 À propos
 
