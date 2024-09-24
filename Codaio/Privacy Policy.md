@@ -275,9 +275,9 @@ Additional Limits on Use of Your Google Information
 
 Our Service uses certain Google services, such as the Google Workspace APIs. You may connect your Google account using OAuth authentication, a secure mechanism to give Coda access to your Google account data without letting it know your password. Notwithstanding anything else in this Privacy Statement to the contrary, if you provide Coda access to your Google account data, Coda’s use of that data will be subject to the following additional restrictions:
 
-The Services will only use Google Gmail API to access to read, write, modify, or control email messages, metadata, headers, and settings to provide a web email client that allows users to compose, send, read, and process emails.
+The Services will only use Google Workspace APIs to provide you with the services you request, such as creating workflows, automations, or other productivity enhancements with your Google Workspace content.
 
-The Services will not transfer this data to others unless doing so is necessary (i) to provide and improve the features of the Services we provide to you, (ii) to comply with applicable law, or (iii) as part of a merger, acquisition, or sale of assets.
+The Services will not transfer, sell, or disclose this data to others unless doing so is necessary (i) to provide and improve the features of the Services we provide to you, (ii) to comply with applicable law, or (iii) as part of a merger, acquisition, or sale of assets; provided, that we have contained your consent.
 
 We will not use or share this data for serving advertising, including retargeting, personalized, or interest-based advertising.
 
@@ -295,11 +295,11 @@ The Services will not use this data to develop, improve or train generalized AI 
 
 Our Service's use of information received, and the Service's transfer of information to any other app, from Google Workspace APIs will adhere to
 
-[Google's Limited Use Requirements](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes)
+[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy)
 
 ⁠
 
-.
+, including the Limited Use Requirements contained therein.
 
 Legal Basis for Processing your Personal information (for European Residents Only)
 
@@ -467,7 +467,7 @@ or 888 Villa Street, Floor 4, Mountain View, CA 94041. If you are located in the
 
 Last Updated Date
 
-This Privacy Statement was last updated on January 1, 2023.
+This Privacy Statement was last updated on September 20, 2024.
 
   
 
@@ -642,7 +642,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/4eec58812ced/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/ae3e867b4f6b/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
