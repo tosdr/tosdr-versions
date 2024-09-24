@@ -12,9 +12,6 @@
 
 [Create Account](#)[Login](#)
 
-U.S. State Privacy Notice
--------------------------
-
 **U.S. State Privacy Notice**
 
 **Effective Date:** January 30, 2023
