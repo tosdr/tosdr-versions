@@ -50,7 +50,8 @@ powered by Stable Diffusion AI
 [Terms](https://dezgo.com/terms) - [Privacy](https://dezgo.com/privacy) - [Open RAIL-M License](https://dezgo.com/license)  
 Privacy Manager
 
-Last week to **Win up to $100 in Dezgo credits** by sharing your best images generated with the brand new Flux model in our Discord contest here: [Join Now](https://discord.gg/RQrGpUhPhx)
+**Vote for the best Flux-generated images** in our contest! 20 lucky voters will be chosen at random to receive free Power Mode credits (worth 344 fast Flux images)  
+[Vote here](https://dezgo.com/contest/flux)
 
 ### Privacy Policy
 
