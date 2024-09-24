@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Inset: Robert Brians. Background: Brians' car after he intentionally drove it off of a cliff with his twin daughters inside (KSDN).](https://am22.mediaite.com/lc/cnt/uploads/2024/08/aldsifj-432x243.jpg)](https://lawandcrime.com/crime/the-girls-are-going-to-heaven-and-im-going-to-hell-to-wait-for-you-dad-learns-fate-for-kidnapping-twins-intentionally-driving-pickup-off-cliff-into-ocean/)
+1. [![Laura Elizabeth Southworth (West Virginia Division of Corrections and Rehabilitation).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Laura-Elizabeth-Southworth-via-West-Virginia-Division-Correction-and-Rehabilitation-1-432x243.jpg)](https://lawandcrime.com/crime/mother-who-was-arrested-after-handcuffed-daughter-escaped-to-neighbors-home-for-help-claimed-child-was-stealing-food-police/)
     
-    ### ['The girls are going to Heaven and I'm going to Hell to wait for you': Dad learns fate for kidnapping twins, intentionally driving pickup off cliff into ocean](https://lawandcrime.com/crime/the-girls-are-going-to-heaven-and-im-going-to-hell-to-wait-for-you-dad-learns-fate-for-kidnapping-twins-intentionally-driving-pickup-off-cliff-into-ocean/)
+    ### [Mother who was arrested after handcuffed daughter escaped to neighbor's home for help claimed child was 'stealing' food: Police](https://lawandcrime.com/crime/mother-who-was-arrested-after-handcuffed-daughter-escaped-to-neighbors-home-for-help-claimed-child-was-stealing-food-police/)
     
-2. [![Donald Trump, on the left; Tankya Chutkan, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/08/Trump-Chutkan-432x243.jpg)](https://lawandcrime.com/high-profile/trump-demands-jan-6-judge-promptly-throw-out-jack-smiths-revised-indictment-for-stubborn-reliance-on-mike-pence-seeks-discovery-on-government-operatives/)
+2. [![R-L: Casey White, Vicky White (Law&Crime Productions).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Casey-White-Vicky-White-Netflix-432x243.jpg)](https://lawandcrime.com/high-profile/steamy-jailhouse-calls-reveal-details-of-heart-pounding-prison-break-in-lawcrimes-jailbreak-love-on-the-run/)
     
-    ### [Trump demands Jan. 6 judge 'promptly' throw out Jack Smith's revised indictment for 'stubborn reliance' on Mike Pence, seeks discovery on government 'operatives'](https://lawandcrime.com/high-profile/trump-demands-jan-6-judge-promptly-throw-out-jack-smiths-revised-indictment-for-stubborn-reliance-on-mike-pence-seeks-discovery-on-government-operatives/)
+    ### [Steamy jailhouse calls reveal details of heart-pounding prison break in Law&Crime’s 'Jailbreak: Love on the Run'](https://lawandcrime.com/high-profile/steamy-jailhouse-calls-reveal-details-of-heart-pounding-prison-break-in-lawcrimes-jailbreak-love-on-the-run/)
     
-3. [![Fani Willis, on the left; Judge Rachel Krause, in the center, Ashleigh Merchant, on the right.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Willis-Krause-Merchant-432x243.jpg)](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
+3. [![Marcelino Olguin](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Marcelino-Olguin-432x243.jpg)](https://lawandcrime.com/crime/foster-dad-who-forced-kissed-young-survivors-of-birth-parents-house-of-horrors-abuse-pleads-guilty/)
     
-    ### ['I'm tired of listening': Hearing related to Trump RICO case goes off the rails as judge says 'I can read' and upbraids both witness and attorney](https://lawandcrime.com/high-profile/im-tired-of-listening-hearing-related-to-trump-rico-case-goes-off-the-rails-as-judge-says-i-can-read-and-upbraids-both-witness-and-attorney/)
+    ### [Foster dad who 'forced kissed' young survivors of birth parents' 'House of Horrors' abuse pleads guilty](https://lawandcrime.com/crime/foster-dad-who-forced-kissed-young-survivors-of-birth-parents-house-of-horrors-abuse-pleads-guilty/)
     
-4. [![Inset: Todd A. Morgan (Heritage Life Story Funeral Homes). Background: Terreionna Paschal in court (WKYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/ohiomurder-1-432x243.jpg)](https://lawandcrime.com/crime/died-for-nothing-woman-learns-fate-after-admitting-to-killing-professor-and-father-of-2-she-met-on-app/)
+4. [![Left inset: Woman identified as Sarah Badshaw. Right inset: Badshaw. Background: Suspect running over an SUV owner. (Peel Regional Police.)](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Women-identified-as-Sarah-Badshaw-432x243.png)](https://lawandcrime.com/crime/hello-im-here-for-the-porsche-thief-stole-suv-ran-over-owner-after-pretending-to-be-prospective-buyer-cops-say/)
     
-    ### ['Died for nothing': Woman learns fate after admitting to killing professor and father of 2 she met on app](https://lawandcrime.com/crime/died-for-nothing-woman-learns-fate-after-admitting-to-killing-professor-and-father-of-2-she-met-on-app/)
+    ### ['Hello, I'm here for the Porsche': Thief stole SUV, ran over owner after pretending to be prospective buyer, cops say](https://lawandcrime.com/crime/hello-im-here-for-the-porsche-thief-stole-suv-ran-over-owner-after-pretending-to-be-prospective-buyer-cops-say/)
     
-5. [![Background: In this image taken from video released by the National Transportation and Safety Board, the cargo ship Dali is stuck under part of the structure of the Francis Scott Key Bridge after the ship hit the bridge, Tuesday, March 26, 2024, in Baltimore (NTSB via AP). Inset top: Cargo chain turnbuckle, welded to angle iron, and wedged between the number 1 step-down transformer and steel beam (DOJ court filing). Inset bottom: Cracked steel bracked with weld repair at the number 1 step-down transformer (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Dali-Francis-Scott-Key-bridge-432x243.jpg)](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
+5. [![Left inset: Brian Crossman Jr. (Warren County Jail in New York). Right inset: Erica Crossman and Brian Crossman Sr. (Facebook). Background: The Crossman family home in Pawlet, Vermont (WRGB).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Brian-Crossman-Jr.-Erica-Crossman-and-Brian-Crossman-Sr-432x243.png)](https://lawandcrime.com/crime/murderer-covered-in-blood-led-cops-to-scene-after-claiming-he-simply-discovered-bodies-when-returning-from-walk-police/)
     
-    ### [Cargo ship that knocked down Francis Scott Key Bridge was ‘jury-rigged’ with ‘makeshift’ attempts to cover dangerous conditions: Lawsuit](https://lawandcrime.com/lawsuit/cargo-ship-that-knocked-down-francis-scott-key-bridge-was-jury-rigged-with-makeshift-attempts-to-cover-dangerous-conditions-lawsuit/)
+    ### [Murderer, covered in blood, led cops to scene after claiming he simply discovered bodies when returning from walk: Police](https://lawandcrime.com/crime/murderer-covered-in-blood-led-cops-to-scene-after-claiming-he-simply-discovered-bodies-when-returning-from-walk-police/)
     
 
 [](http://eepurl.com/c89Jdb)
