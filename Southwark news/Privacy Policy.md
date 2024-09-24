@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-360x180.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
+    
+    ### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
+    
+    [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-360x180.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
+    
+    ### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
+    
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
     
     ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
@@ -46,14 +54,6 @@
     [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
     
     ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
-    
-    [![The storage unit was housing pedicabs for repair and storage, London Fire Brigade said. Image- LFB](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-storage-unit-was-housing-pedicabs-for-repair-and-storage-London-Fire-Brigade-said.-Image-LFB-360x180.jpg)](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
-    
-    ### [Pedicab storage unit catches fire in Borough](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
-    
-    [![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
-    
-    ### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-360x180.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
+    
+    ### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
+    
+    [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-360x180.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
+    
+    ### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
+    
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
     
     ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
@@ -126,14 +134,6 @@ View All Result
     [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
     
     ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
-    
-    [![The storage unit was housing pedicabs for repair and storage, London Fire Brigade said. Image- LFB](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-storage-unit-was-housing-pedicabs-for-repair-and-storage-London-Fire-Brigade-said.-Image-LFB-360x180.jpg)](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
-    
-    ### [Pedicab storage unit catches fire in Borough](https://southwarknews.co.uk/area/borough/pedicab-storage-unit-catches-fire-in-borough/)
-    
-    [![Southwark Council representatives in Tooley Street. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Council-representatives-in-Tooley-Street.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
-    
-    ### [Southwark Council gets national recognition for welcoming asylum seekers](https://southwarknews.co.uk/area/southwark/southwark-council-gets-national-recognition-for-welcoming-asylum-seekers/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -373,6 +373,12 @@ Website
 
 ### Featured Articles
 
+[![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-120x86.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
+
+### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
+
+[24th September 2024](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
+
 [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
 
 ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
@@ -402,12 +408,6 @@ Website
 ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
 
 [23rd September 2024](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
-
-[![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-120x86.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
-
-### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
-
-[23rd September 2024](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
 
 ### USEFUL PAGES
 
