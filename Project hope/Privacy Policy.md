@@ -1,5 +1,11 @@
 [Skip to main content](#maincontent)
 
+URGENT ALERT
+
+Health and Humanitarian Crisis in Lebanon
+
+[DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_09_Lebanon_Crisis_Web_LO_12218 "DONATE") Close
+
 [Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
 
 [![Project Hope Logo](/wp-content/themes/projecthope/assets/images/logo.svg)](https://www.projecthope.org/)
