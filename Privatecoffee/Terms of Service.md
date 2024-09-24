@@ -88,4 +88,4 @@ Private.coffee is a privacy-focused non-profit association, dedicated to support
 
 Made with ❤️ and ☕ by Private.coffee
 
-[![](https://shields.private.coffee/gitea/last-commit/privatecoffee/privatecoffee-website?gitea_url=https://git.private.coffee&logo=forgejo)](https://git.private.coffee/privatecoffee/privatecoffee-website) [LGBTIQ+ LGBTIQ+](https://pride.coffee/)
+ [![](https://shields.private.coffee/gitea/last-commit/privatecoffee/privatecoffee-website?gitea_url=https://git.private.coffee&logo=forgejo)](https://git.private.coffee/privatecoffee/privatecoffee-website)[LGBTIQ+ LGBTIQ+](https://pride.coffee/)
