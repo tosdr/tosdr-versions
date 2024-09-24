@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [JUJUTSU KAISEN CURSED CLASH - Patch Notes Ver. 1.3.0](https://en.bandainamcoent.eu/jujutsu-kaisen/news/jujutsu-kaisen-cursed-clash-patch-notes-ver-130)
 * [What’s New in Tales of Graces f Remastered?](https://en.bandainamcoent.eu/tales-of/news/whats-new-tales-of-graces-f-remastered)
-* [SWORD ART ONLINE Fractured Daydream show more gameplay in its system trailer](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-show-more-gameplay-its-system-trailer)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
