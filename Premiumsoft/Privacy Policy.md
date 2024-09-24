@@ -162,8 +162,8 @@ We use cookies to ensure its efficient functioning. Read about how we use cookie
 
 Accept
 
-![](/images/promotion/20240912/PromotionBanner_20240916_CN.png) ![](/images/Btn_close.svg)
+![](/images/promotion/20240924/Website_Banner_20240916.png) ![](/images/Btn_close.svg)
 
 [Upgrade Now!](https://customer.navicat.com/)
 
-\*Promotion ends on 26 Sep, 2024 (23:59 ET).
+\* Promotion ends on 26 Sep, 2024 (23:59 ET).
