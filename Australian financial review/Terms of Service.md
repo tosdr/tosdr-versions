@@ -291,15 +291,15 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1536%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_137%2C$y_54/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/885f897e2b3f2f80ed3cb2147a661c155b44faa7)](https://www.afr.com/companies/financial-services/australia-s-most-powerful-deal-makers-in-2024-20240819-p5k3hz)
+[![ ](https://static.ffx.io/images/$zoom_0.5129%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1326bd373068c51e4eb0e32f0ae9abb9d68cda14)](https://www.afr.com/technology/the-five-most-powerful-australian-tech-leaders-in-2024-20240902-p5k7ag)
 
-### [Australia’s most powerful deal makers in 2024](https://www.afr.com/companies/financial-services/australia-s-most-powerful-deal-makers-in-2024-20240819-p5k3hz)
+### [The five most powerful Australian tech leaders in 2024](https://www.afr.com/technology/the-five-most-powerful-australian-tech-leaders-in-2024-20240902-p5k7ag)
 
-* Sarah Thompson, Kanika Sood and Emma Rapaport
+* Paul Smith
 
-* ### [The most powerful people in the consulting sector in 2024](https://www.afr.com/work-and-careers/leaders/the-most-powerful-people-in-the-consulting-sector-in-2024-20240826-p5k5a0)
+* ### [The 10 most culturally powerful people in Australia in 2024](https://www.afr.com/life-and-luxury/arts-and-culture/the-10-most-culturally-powerful-people-in-australia-in-2024-20240828-p5k625)
     
-* ### [Trying to make sense of the US election? Spare a thought for our diplomats](https://www.afr.com/world/north-america/trying-to-make-sense-of-the-us-election-spare-a-thought-for-our-diplomats-20240905-p5k886)
+* ### [Australia’s most powerful people in property for 2024](https://www.afr.com/property/commercial/australia-s-most-powerful-people-in-property-for-2024-20240823-p5k4td)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -319,15 +319,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_21%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3e72f45673a03f88370c4aaa6849711ea5d98c45)](https://www.afr.com/life-and-luxury/health-and-wellness/what-happened-to-squash-this-financial-adviser-says-it-serves-him-well-20240919-p5kbub)
+[![ ](https://static.ffx.io/images/$zoom_0.3263%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_137%2C$y_501/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/63fbf8d79fab44309192d66fe4c1e29e91112cc3)](https://www.afr.com/technology/can-a-robot-be-too-human-this-one-can-20240918-p5kbm5)
 
-### [What happened to squash? This financial adviser says it serves him well](https://www.afr.com/life-and-luxury/health-and-wellness/what-happened-to-squash-this-financial-adviser-says-it-serves-him-well-20240919-p5kbub)
+### [Can a robot be too human? This one can](https://www.afr.com/technology/can-a-robot-be-too-human-this-one-can-20240918-p5kbm5)
 
-* Life & Leisure
+* John Davidson
 
-* ### [Do non-alcoholic beverages really limit your booze intake?](https://www.afr.com/life-and-luxury/health-and-wellness/do-non-alcoholic-beverages-really-limit-your-booze-intake-20240918-p5kbh9)
+* ### [If you don’t know about fiano yet, it won’t be long](https://www.afr.com/life-and-luxury/food-and-wine/if-you-don-t-know-about-fiano-yet-it-won-t-be-long-20240918-p5kblq)
     
-* ### [Kathy Lette on the ‘crime of menopause’, and dealing with enemies](https://www.afr.com/life-and-luxury/travel/kathy-lette-on-the-crime-of-menopause-and-dealing-with-enemies-20240904-p5k7yu)
+* ### [Our fashion editor’s guide to shopping in New York City](https://www.afr.com/life-and-luxury/fashion-and-style/our-fashion-editor-s-guide-to-shopping-in-new-york-city-20240916-p5kavh)
     
 
 [Rich List](https://www.afr.com/rich-list)
