@@ -36,18 +36,18 @@
         
         Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
     
-    * [![MoneyGram confirms a cyberattack is behind dayslong outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![This Microsoft Project deal helps if your work projects are piling up](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        MoneyGram confirms a cyberattack is behind dayslong outage](https://www.bleepingcomputer.com/news/security/moneygram-confirms-a-cyberattack-is-behind-dayslong-outage/)
-    * [![Keep your batteries full with this 7-port GaN Charging Station deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        This Microsoft Project deal helps if your work projects are piling up](https://www.bleepingcomputer.com/offer/deals/this-microsoft-project-deal-helps-if-your-work-projects-are-piling-up/)
+    * [![U.S. govt agency CMS says data breach impacted 3.1 million people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Keep your batteries full with this 7-port GaN Charging Station deal](https://www.bleepingcomputer.com/offer/deals/keep-your-batteries-full-with-this-7-port-gan-charging-station-deal/)
-    * [![New Octo Android malware version impersonates NordVPN, Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        U.S. govt agency CMS says data breach impacted 3.1 million people](https://www.bleepingcomputer.com/news/healthcare/us-govt-agency-cms-says-data-breach-impacted-31-million-people/)
+    * [![Infostealer malware bypasses Chrome’s new cookie-theft defenses](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Octo Android malware version impersonates NordVPN, Google Chrome](https://www.bleepingcomputer.com/news/security/new-octo-android-malware-version-impersonates-nordvpn-google-chrome/)
-    * [![US proposes ban on connected vehicle tech from China, Russia](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Infostealer malware bypasses Chrome’s new cookie-theft defenses](https://www.bleepingcomputer.com/news/security/infostealer-malware-bypasses-chromes-new-cookie-theft-defenses/)
+    * [![Critical Ivanti vTM auth bypass bug now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        US proposes ban on connected vehicle tech from China, Russia](https://www.bleepingcomputer.com/news/security/us-proposes-ban-on-connected-vehicle-tech-from-china-russia/)
+        Critical Ivanti vTM auth bypass bug now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-ivanti-vtm-auth-bypass-bug-now-exploited-in-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -355,12 +355,12 @@ Popular Stories
 * [![Hacker VR Spyware Surveillance](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
-* [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Mallox ransomware Linux variant based on leaked Kryptina code](https://www.bleepingcomputer.com/news/security/new-mallox-ransomware-linux-variant-based-on-leaked-kryptina-code/)
+* [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
 
 ##### Follow us:
 
