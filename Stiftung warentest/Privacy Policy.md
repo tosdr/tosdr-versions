@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Lang­zeit­analyse der Fünf-Punkte-Strategie: Europafonds besser als die Benchmark](https://www.test.de/Langzeitanalyse-der-Fuenf-Punkte-Strategie-Europafonds-besser-als-die-Benchmark-6004243-0/ "Langzeitanalyse der Fünf-Punkte-Strategie - Europafonds besser als die Benchmark")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
 
 Service Stiftung Warentest
 
