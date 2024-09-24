@@ -259,9 +259,9 @@ this week
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
-
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -269,7 +269,7 @@ this week
 
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Trees](https://www.sciencedaily.com/news/plants_animals/trees/)
+[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
 
   
 
