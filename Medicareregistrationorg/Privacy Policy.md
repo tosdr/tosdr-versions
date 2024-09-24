@@ -6,12 +6,14 @@ Speak with a Licensed Insurance Agent: [1 (844) 938-0228 TTY users 711](tel:(844
 
 **Hours:** 8am - 8pm, 7 days a week
 
-Find the right Medicare coverage for you!
-=========================================
+You May Be Eligible for Low or $0 Premium Medicare Advantage Plans
+==================================================================
 
 Enter Your ZIP Code
 
  Start Now
+
+WE REPRESENT: MA, MAPD and PDP Plans for \[Humana, UnitedHealthcare®, Aetna, Cigna Healthcare, Wellcare, Anthem and Elevance Health\]. Not all plans offer all of these benefits. Benefits may vary by carrier and location. Limitations and exclusions may apply.
 
 Still looking for rates? Medicare-Registration.org, a licensed health insurance broker, can help you get a competitive quote.
 
@@ -43,7 +45,11 @@ Los Angeles, CA 90017
 
 **Important Information:** **Disclaimer:**
 
-Medicare-Registration.org is operated by Quotelab, LLC, which is an independent broker and is not a federal or state Marketplace website. This website is owned and operated by QuoteLab, LLC, a licensed insurance agency, NPN #19911386. Invitations for application for health insurance on QuoteLab, LLC, only where licensed and appointed. License numbers are available upon request and are provided where required by law. QuoteLab's license information can be found at [https://www.quotelab.com/licenses.html](https://www.quotelab.com/licenses.html).
+Medicare-Registration.org is operated by QuoteLab, LLC, which is an independent broker and is not a federal or state Marketplace website. This website is owned and operated by QuoteLab, LLC, a licensed insurance agency, NPN #19911386. Invitations for application for health insurance on QuoteLab, LLC, only where licensed and appointed. License numbers are available upon request and are provided where required by law. QuoteLab's license information can be found at [https://www.quotelab.com/licenses.html](https://www.quotelab.com/licenses.html).
+
+This website does not provide information about specific Medicare plans, or enable visitors to obtain quotes, on this website. However, if you provide your information and consent, we will transfer your information to Medicare Advantage organizations and/or their third party marketing organizations (TPMOs) that may contact you to offer Medicare Advantage and/or Part D plans, and we will receive compensation for such transfer. The advertisements appearing on this website are placed by clients from which QuoteLab, LLC receives compensation, and such compensation may impact whether such advertisements appear on this website and the order in which they appear.
+
+This site uses cookies and tech to collect data needed for our services to work including to process your requests, personalize your experience, and measure the effectiveness of content we show you, among other business purposes ([Learn More](https://insurance.mediaalpha.com/content/privacy-policy.html?;nsjx6OwFE9kLYCICAfIxazvwEED8Rvpv85aUBQa9O5oz6gHSlmt_VM62Ndx_Jv1uNTpx7a-9ZuLzlX1DKLpc8zIRfjNrHA#information-we-collect-automatically)). We share this data with the business partners we connect you with, who may combine it with data you provide to them or they collect from you ([Learn More](https://insurance.mediaalpha.com/content/privacy-policy.html?;nsjx6OwFE9kLYCICAfIxazvwEED8Rvpv85aUBQa9O5oz6gHSlmt_VM62Ndx_Jv1uNTpx7a-9ZuLzlX1DKLpc8zIRfjNrHA#how-we-use-your-information)). To learn more about cookies and how to disable them, read our [Privacy Policy](https://insurance.mediaalpha.com/content/privacy-policy.html?;nsjx6OwFE9kLYCICAfIxazvwEED8Rvpv85aUBQa9O5oz6gHSlmt_VM62Ndx_Jv1uNTpx7a-9ZuLzlX1DKLpc8zIRfjNrHA#cookies-and-technologies).
 
 Federal Contracting Statement: The Medicare plans represented are PDP, HMO, D-SNP, PPO or PFFS plans with a Medicare contract. Enrollment in plans depends on contract renewal. No Obligation to enroll.
 
@@ -88,7 +94,7 @@ Allowance Disclaimer: Allowance amounts cannot be combined with other benefit al
 
 \*\* Members may receive a monthly or quarterly allowance in the form of a benefits prepaid card to pay for a wide range of approved groceries and utilities. Unused amounts will expire at the end of the month or quarter.
 
-\* The benefits mentioned are Special Supplemental Benefits for the Chronically Ill (SSBCI). You may qualify for SSBCI if you have a high risk for hospitalization and require intensive care coordination to manage chronic conditions such as Chronic Kidney Diseases, Chronic Lung Disorders, Cardiovascular Disorders, Chronic Heart Failure, or Diabetes. For a full list of chronic conditions or to learn more about other eligibility requirements needed to qualify for SSBCI benefits, please refer to Chapter 4 in the plan’s Evidence of Coverage.
+\*The benefits mentioned are Special Supplemental Benefits for the Chronically Ill (SSBCI). You may qualify for SSBCI if you have a high risk for hospitalization and require intensive care coordination to manage chronic conditions such as Chronic Kidney Diseases, Chronic Lung Disorders, Cardiovascular Disorders, Chronic Heart Failure, or Diabetes. For a full list of chronic conditions or to learn more about other eligibility requirements needed to qualify for SSBCI benefits, please refer to Chapter 4 in the plan’s Evidence of Coverage.
 
 Benefit(s) mentioned may be part of a special supplemental program for chronically ill members with one of the following conditions: Diabetes mellitus, Cardiovascular disorders, Chronic and disabling mental health conditions, Chronic lung disorders, Chronic heart failure. This is not a complete list of qualifying conditions. Having a qualifying condition alone does not mean you will receive the benefit(s). Other requirements may apply.
 
@@ -98,7 +104,7 @@ Benefit(s) mentioned may be part of a special supplemental program for chronical
 
 † To request plan information without providing Date of Birth, Gender, and Tobacco use, please call the phone number above. This information is optional and not needed for Medicare Advantage and Part D plans.
 
-MULTIPLAN\_MAOO-MR-Website-2023\_C  
+MULTIPLAN\_MAOO-MR-Website-2025\_M  
 MMR-949-2023
 
 Copyright ©2024 Quotelab, LLC  
