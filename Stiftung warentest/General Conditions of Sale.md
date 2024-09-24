@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v117358386.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v117707043.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [E-Growing: Hanf-Anbieter Plåntz auf der Warn­liste](https://www.test.de/E-Growing-Hanf-Anbieter-Plntz-auf-der-Warnliste-5926561-0/ "E-Growing - Hanf-Anbieter Plåntz auf der Warnliste")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
 
 Service Stiftung Warentest
 
