@@ -300,6 +300,7 @@ Stay up to date with news and tips from our marketing experts.
 * [Terms](https://liftoff.io/terms-of-service/)
 * [Opt-Out](https://liftoff.io/opt-out/)
 * [Digital Services Act](https://docs.google.com/forms/d/e/1FAIpQLSdusbMe0bApP3ixfD5ZUbr3k8pVA70RpKhidx5Jk1JBwKnuRQ/viewform)
+* [Modern Slavery Statement](https://liftoff.io/wp-content/uploads/2024/09/Modern-Slavery-Statement.pdf)
 
 [](https://www.linkedin.com/company/liftoffmobile/ "LinkedIn")[](https://x.com/liftoffmobile "X/Twitter")[](https://www.facebook.com/liftoff.io/ "Facebook")[](https://www.youtube.com/channel/UC1FKIraohbFSDlOnSHpVRzg "YouTube")
 
@@ -386,6 +387,8 @@ Company
 [Opt-Out](https://liftoff.io/opt-out/)
 
 [Digital Services Act](https://docs.google.com/forms/d/e/1FAIpQLSdusbMe0bApP3ixfD5ZUbr3k8pVA70RpKhidx5Jk1JBwKnuRQ/viewform)
+
+[Modern Slavery Statement](https://liftoff.io/wp-content/uploads/2024/09/Modern-Slavery-Statement.pdf)
 
 ###### © 2024 Liftoff, Inc.
 
