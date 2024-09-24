@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training
 
-article1 week ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![NASA’s Webb Peers into the Extreme Outer Galaxy](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j5nskg3dw0f4pp1dvzw20rf2-4k.png)
+article2 weeks ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![NASA’s Webb Peers into the Extreme Outer Galaxy](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j5nskg3dw0f4pp1dvzw20rf2-4k.png)
 
 5 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training
 
-article 1 week ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
+article 2 weeks ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-crew-uses-iceland-terrain-for-lunar-training/)[![Hubble Examines a Spiral Star Factory](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc5668-potw2437a.jpg)
 
 2 min read
 
@@ -269,7 +269,7 @@ article 2 weeks ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-t
 
 ### NASA Data Helps Protect US Embassy Staff from Polluted Air
 
-article 3 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
+article 4 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
 
 4 min read
 
@@ -291,7 +291,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### NASA Data Helps Protect US Embassy Staff from Polluted Air
 
-article 3 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
+article 4 days ago](https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/)[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
 
 4 min read
 
@@ -313,19 +313,19 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 
-article 4 hours ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
+article 16 hours ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
 
 6 min read
 
 ### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 
-article 8 hours ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
+article 20 hours ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
 
 2 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
 
-article 10 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)
+article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)
 
 ### Featured
 
@@ -341,7 +341,7 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-w
 
 ### Burst Chaser
 
-article 4 days ago](https://science.nasa.gov/citizen-science/burst-chaser/)[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
+article 5 days ago](https://science.nasa.gov/citizen-science/burst-chaser/)[![NASA’s Webb Provides Another Look Into Galactic Collisions](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j7493cj4zg05r3txkm6be0s6-2k.png)
 
 4 min read
 
@@ -351,25 +351,25 @@ article 6 days ago](https://science.nasa.gov/missions/webb/nasas-webb-provides-a
 
 ### Highlights
 
-[![Image of white man, Forrest Melton, adjusting a scientific instrument](https://www.nasa.gov/wp-content/uploads/2023/03/nasa_melton_openet_instrument.png?w=1024)
+[![Fiona Sampson GeneLab chats image of interview.](https://www.nasa.gov/wp-content/uploads/2024/08/fiona-sampson-gl-chats-image.png?w=1003)
+
+2 min read
+
+### GeneLab Chats with Fiona Samson on Her Latest Publication
+
+article 2 hours ago](https://www.nasa.gov/osdr-latest-news-genelab-chats-genelab-chats-with-fiona-samson-on-her-latest-publication/)[![Image of white man, Forrest Melton, adjusting a scientific instrument](https://www.nasa.gov/wp-content/uploads/2023/03/nasa_melton_openet_instrument.png?w=1024)
 
 1 min read
 
 ### Water Resources
 
-article 2 hours ago](https://www.nasa.gov/water-resources-at-ames/)[![photo of orange lava flowing over the ground from Kilauea vent in the distance](https://www.nasa.gov/wp-content/uploads/2020/04/volcano2.jpg?w=768)
+article 14 hours ago](https://www.nasa.gov/water-resources-at-ames/)[![photo of orange lava flowing over the ground from Kilauea vent in the distance](https://www.nasa.gov/wp-content/uploads/2020/04/volcano2.jpg?w=768)
 
 1 min read
 
 ### Earth Surface and Interior
 
-article 2 hours ago](https://www.nasa.gov/earth-surface-and-interior-at-ames/)[![Meet the Authors series flyer](https://www.nasa.gov/wp-content/uploads/2024/09/meet-the-authors-title-slide-2024oct03.jpg?w=1024)
-
-2 min read
-
-### Meet the Authors – October 2024
-
-article 4 hours ago](https://www.nasa.gov/meet-the-authors-october-2024/)
+article 14 hours ago](https://www.nasa.gov/earth-surface-and-interior-at-ames/)
 
 ### Highlights
 
@@ -379,19 +379,19 @@ article 4 hours ago](https://www.nasa.gov/meet-the-authors-october-2024/)
 
 ### ARMD Solicitations
 
-article 3 days ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![Pilot A. Scott Crossfield has ignited all eight of the X-15’s engines to begin the powered flight.](https://www.nasa.gov/wp-content/uploads/2024/09/x-15-first-powered-flight-14-under-power-naa.jpeg?w=541)
+article 4 days ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![Pilot A. Scott Crossfield has ignited all eight of the X-15’s engines to begin the powered flight.](https://www.nasa.gov/wp-content/uploads/2024/09/x-15-first-powered-flight-14-under-power-naa.jpeg?w=541)
 
 8 min read
 
 ### 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane 
 
-article 7 days ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
+article 1 week ago](https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/)[![Graphic shows a possible future General Electric jet engine with exposed fan blades in front of a cut-away-interior view of its core mechanisms -- all part of NASA's HyTEC research project.](https://www.nasa.gov/wp-content/uploads/2024/05/hytec-illustration.png?w=1024)
 
 3 min read
 
 ### NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 
-article 7 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
+article 1 week ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 7 days ago](https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-res
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
 
-article 10 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
+article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)[![A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon](https://science.nasa.gov/wp-content/uploads/2023/12/Humboldt_Glacier_draped_over_topographic_data.jpeg)
 
 1 min read
 
 ### A.55 Decadal Survey Incubation Program: Science and Technology Date Change for Preproposal Telecon
 
-article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-819d21.jpeg?w=1024)
+article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/a-55-decadal-survey-incubation-program-science-and-technology-date-change-for-preproposal-telecon/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-819d21.jpeg?w=1024)
 
 5 min read
 
