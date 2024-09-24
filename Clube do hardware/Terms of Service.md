@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_365288309_menu)
+ [Compartilhar](#elShareItem_1198846673_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_599122206_menu)
+ [Compartilhar](#elShareItem_548558400_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -363,107 +363,128 @@ Mais opções...
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
+* ### Popular agora
+    
+    * [![Nilton Cézar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1148866.thumb.jpeg.8bed227f874b4729af3cf5321fbc3a4a.jpeg)](https://www.clubedohardware.com.br/profile/1148866-nilton-c%C3%A9zar/ "Ir ao perfil de Nilton Cézar")
+        
+        10
+        
+        [Controlar o acesso à internet para limitar o tempo de uso do aparelho celular](https://www.clubedohardware.com.br/forums/topic/1698149-controlar-o-acesso-%C3%A0-internet-para-limitar-o-tempo-de-uso-do-aparelho-celular/ "Visualizar tópico")
+        
+        Por [Nilton Cézar](https://www.clubedohardware.com.br/profile/1148866-nilton-c%C3%A9zar/ "Ir ao perfil de Nilton Cézar")  
+        58 minutos atrás
+        
+    * [![alcamarano](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/A-Camarano.thumb.jpg.5f4ea21165bbb7a87e3cb76be62ba4e0.jpg)](https://www.clubedohardware.com.br/profile/1229002-alcamarano/ "Ir ao perfil de alcamarano")
+        
+        13
+        
+        [Meu PC está perdendo desempenho nos jogos](https://www.clubedohardware.com.br/forums/topic/1698148-meu-pc-est%C3%A1-perdendo-desempenho-nos-jogos/ "Visualizar tópico")
+        
+        Por [alcamarano](https://www.clubedohardware.com.br/profile/1229002-alcamarano/ "Ir ao perfil de alcamarano")  
+        1 hora atrás
+        
+    
 * ### Últimos tópicos
     
-    * [![droid662](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1237774.thumb.jpeg.30347532d16a0cfabefcd44172c8ce29.jpeg)](https://www.clubedohardware.com.br/profile/1237774-droid662/ "Ir ao perfil de droid662")
+    * [![Diego Schwartz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253549.thumb.jpeg.b3fe8504d895bb70d274209ddfb15e68.jpeg)](https://www.clubedohardware.com.br/profile/1253549-diego-schwartz/ "Ir ao perfil de Diego Schwartz")
+        
+        0
+        
+        [É possível remover a opção "Alterar uma senha" do Ctrl+Alt+Del ?](https://www.clubedohardware.com.br/forums/topic/1698151-%C3%A9-poss%C3%ADvel-remover-a-op%C3%A7%C3%A3o-alterar-uma-senha-do-ctrlaltdel/?do=getNewComment "É possível remover a opção "Alterar uma senha" do Ctrl+Alt+Del ?")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Diego Schwartz](https://www.clubedohardware.com.br/profile/1253549-diego-schwartz/ "Ir ao perfil de Diego Schwartz")  
+        22 minutos atrás
+        
+    * [![sadd_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1244495.thumb.jpeg.6bc607a3b1dfcd2dbadd20532eab5582.jpeg)](https://www.clubedohardware.com.br/profile/1244495-sadd_/ "Ir ao perfil de sadd_")
+        
+        1
+        
+        [2 Monitores no vídeo integrado faz perder desempenho?](https://www.clubedohardware.com.br/forums/topic/1698150-2-monitores-no-v%C3%ADdeo-integrado-faz-perder-desempenho/?do=getNewComment "2 Monitores no vídeo integrado faz perder desempenho?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [sadd\_](https://www.clubedohardware.com.br/profile/1244495-sadd_/ "Ir ao perfil de sadd_")  
+        46 minutos atrás
+        
+    * [![Nilton Cézar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1148866.thumb.jpeg.8bed227f874b4729af3cf5321fbc3a4a.jpeg)](https://www.clubedohardware.com.br/profile/1148866-nilton-c%C3%A9zar/ "Ir ao perfil de Nilton Cézar")
+        
+        10
+        
+        [Controlar o acesso à internet para limitar o tempo de uso do aparelho celular](https://www.clubedohardware.com.br/forums/topic/1698149-controlar-o-acesso-%C3%A0-internet-para-limitar-o-tempo-de-uso-do-aparelho-celular/?do=getNewComment "Controlar o acesso à internet para limitar o tempo de uso do aparelho celular")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Nilton Cézar](https://www.clubedohardware.com.br/profile/1148866-nilton-c%C3%A9zar/ "Ir ao perfil de Nilton Cézar")  
+        58 minutos atrás
+        
+    * [![alcamarano](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/A-Camarano.thumb.jpg.5f4ea21165bbb7a87e3cb76be62ba4e0.jpg)](https://www.clubedohardware.com.br/profile/1229002-alcamarano/ "Ir ao perfil de alcamarano")
+        
+        13
+        
+        [Meu PC está perdendo desempenho nos jogos](https://www.clubedohardware.com.br/forums/topic/1698148-meu-pc-est%C3%A1-perdendo-desempenho-nos-jogos/?do=getNewComment "Meu PC está perdendo desempenho nos jogos")
+        
+        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
+        Por [alcamarano](https://www.clubedohardware.com.br/profile/1229002-alcamarano/ "Ir ao perfil de alcamarano")  
+        1 hora atrás
+        
+    * [![PlatonicSkeptic](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238662c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/736697-platonicskeptic/ "Ir ao perfil de PlatonicSkeptic")
         
         4
         
-        [Conectar Fans da GPU na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1698136-conectar-fans-da-gpu-na-placa-m%C3%A3e/?do=getNewComment "Conectar Fans da GPU na placa-mãe")
+        [Diferenças acerca das fontes Cooler Master da Pichau](https://www.clubedohardware.com.br/forums/topic/1698147-diferen%C3%A7as-acerca-das-fontes-cooler-master-da-pichau/?do=getNewComment "Diferenças acerca das fontes Cooler Master da Pichau")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [PlatonicSkeptic](https://www.clubedohardware.com.br/profile/736697-platonicskeptic/ "Ir ao perfil de PlatonicSkeptic")  
+        1 hora atrás
+        
+    * [![Adelmir Junior](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252475.thumb.jpeg.513c313634a14dbfa35eac4dc70390a9.jpeg)](https://www.clubedohardware.com.br/profile/1252475-adelmir-junior/ "Ir ao perfil de Adelmir Junior")
+        
+        3
+        
+        [Gota de suor na placa-mãe pode causar algum dano?](https://www.clubedohardware.com.br/forums/topic/1698146-gota-de-suor-na-placa-m%C3%A3e-pode-causar-algum-dano/?do=getNewComment "Gota de suor na placa-mãe pode causar algum dano?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [droid662](https://www.clubedohardware.com.br/profile/1237774-droid662/ "Ir ao perfil de droid662")  
-        4 horas atrás
+        Por [Adelmir Junior](https://www.clubedohardware.com.br/profile/1252475-adelmir-junior/ "Ir ao perfil de Adelmir Junior")  
+        1 hora atrás
         
-    * [![LuisGust4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253487.thumb.jpeg.3ade7de6602fe25782c3d7694b190892.jpeg)](https://www.clubedohardware.com.br/profile/1253487-luisgust4/ "Ir ao perfil de LuisGust4")
+    * [![kleber_07](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4628c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK0%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/399864-kleber_07/ "Ir ao perfil de kleber_07")
         
-        0
+        6
         
-        [GTX 1650 ou GTX 1660 super da Aliexpress( Veineda)?](https://www.clubedohardware.com.br/forums/topic/1698135-gtx-1650-ou-gtx-1660-super-da-aliexpress-veineda/?do=getNewComment "GTX 1650 ou GTX 1660 super da Aliexpress( Veineda)?")
+        [H610M-E D4 Prime velocidade dos NVMe x4 e x2](https://www.clubedohardware.com.br/forums/topic/1698145-h610m-e-d4-prime-velocidade-dos-nvme-x4-e-x2/?do=getNewComment "H610M-E D4 Prime velocidade dos NVMe x4 e x2")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [LuisGust4](https://www.clubedohardware.com.br/profile/1253487-luisgust4/ "Ir ao perfil de LuisGust4")  
-        4 horas atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [kleber\_07](https://www.clubedohardware.com.br/profile/399864-kleber_07/ "Ir ao perfil de kleber_07")  
+        1 hora atrás
         
-    * [![Dogetheshibe](https://www.clubedohardware.com.br/uploads/members/monthly_2018_11/imported-photo-1016672.thumb.jpeg.cc3a56cdc1830cd2952dcb30d8a989b7.jpeg)](https://www.clubedohardware.com.br/profile/1016672-dogetheshibe/ "Ir ao perfil de Dogetheshibe")
-        
-        0
-        
-        [Placa de vídeo fica travando e reiniciando o pc após atualização de hardware](https://www.clubedohardware.com.br/forums/topic/1698134-placa-de-v%C3%ADdeo-fica-travando-e-reiniciando-o-pc-ap%C3%B3s-atualiza%C3%A7%C3%A3o-de-hardware/?do=getNewComment "Placa de vídeo fica travando e reiniciando o pc após atualização de hardware")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Dogetheshibe](https://www.clubedohardware.com.br/profile/1016672-dogetheshibe/ "Ir ao perfil de Dogetheshibe")  
-        4 horas atrás
-        
-    * [![Arthurbp19](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1122838.thumb.jpeg.4a6f3d99ce96de0a666dfdb51d0a4154.jpeg)](https://www.clubedohardware.com.br/profile/1122838-arthurbp19/ "Ir ao perfil de Arthurbp19")
-        
-        0
-        
-        [Valor para um ideapad 330](https://www.clubedohardware.com.br/forums/topic/1698133-valor-para-um-ideapad-330/?do=getNewComment "Valor para um ideapad 330")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Arthurbp19](https://www.clubedohardware.com.br/profile/1122838-arthurbp19/ "Ir ao perfil de Arthurbp19")  
-        5 horas atrás
-        
-    * [![Rafael Rumpel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253537.thumb.jpeg.1c808b15ea6d51578d8837ad24ce807c.jpeg)](https://www.clubedohardware.com.br/profile/1253537-rafael-rumpel/ "Ir ao perfil de Rafael Rumpel")
-        
-        0
-        
-        [Firmware/Drivers errados no site da Red Dragon](https://www.clubedohardware.com.br/forums/topic/1698132-firmwaredrivers-errados-no-site-da-red-dragon/?do=getNewComment "Firmware/Drivers errados no site da Red Dragon")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Rafael Rumpel](https://www.clubedohardware.com.br/profile/1253537-rafael-rumpel/ "Ir ao perfil de Rafael Rumpel")  
-        5 horas atrás
-        
-    * [![ManoBrown442](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1057797.thumb.jpeg.f2c4b46dd4511d66fd18097bdbcef0f5.jpeg)](https://www.clubedohardware.com.br/profile/1057797-manobrown442/ "Ir ao perfil de ManoBrown442")
+    * [![Erick.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253545.thumb.png.1fb1c1865de7e918d86e3207920fe73a.png)](https://www.clubedohardware.com.br/profile/1253545-erick/ "Ir ao perfil de Erick.")
         
         2
         
-        [tmpin0 com temperatura alta? normal ou não](https://www.clubedohardware.com.br/forums/topic/1698131-tmpin0-com-temperatura-alta-normal-ou-n%C3%A3o/?do=getNewComment "tmpin0 com temperatura alta? normal ou não")
+        [Placa de Vídeo não chega nem perto de usar 100%](https://www.clubedohardware.com.br/forums/topic/1698144-placa-de-v%C3%ADdeo-n%C3%A3o-chega-nem-perto-de-usar-100/?do=getNewComment "Placa de Vídeo não chega nem perto de usar 100%")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [ManoBrown442](https://www.clubedohardware.com.br/profile/1057797-manobrown442/ "Ir ao perfil de ManoBrown442")  
-        5 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Erick.](https://www.clubedohardware.com.br/profile/1253545-erick/ "Ir ao perfil de Erick.")  
+        1 hora atrás
         
-    * [![Estevão Nascimento](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243329.thumb.jpeg.7a4ae4d00b57680e06940d1c93613cd4.jpeg)](https://www.clubedohardware.com.br/profile/1243329-estev%C3%A3o-nascimento/ "Ir ao perfil de Estevão Nascimento")
-        
-        0
-        
-        [Mancha Preta no Monitor (E crescendo)](https://www.clubedohardware.com.br/forums/topic/1698130-mancha-preta-no-monitor-e-crescendo/?do=getNewComment "Mancha Preta no Monitor (E crescendo)")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Estevão Nascimento](https://www.clubedohardware.com.br/profile/1243329-estev%C3%A3o-nascimento/ "Ir ao perfil de Estevão Nascimento")  
-        5 horas atrás
-        
-    * [![cyberbot231](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1081146.thumb.jpeg.1572e30fe487cc9c4edfb5c004d92338.jpeg)](https://www.clubedohardware.com.br/profile/1081146-cyberbot231/ "Ir ao perfil de cyberbot231")
+    * [![Joaoblack007](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253546.thumb.jpeg.19631c9c240555b74a82e01dfc7cf2c9.jpeg)](https://www.clubedohardware.com.br/profile/1253546-joaoblack007/ "Ir ao perfil de Joaoblack007")
         
         0
         
-        [Ryzen 5 7600x/7600 + RX 7700 XT, Qual PLACA-MÃE comprar?](https://www.clubedohardware.com.br/forums/topic/1698129-ryzen-5-7600x7600-rx-7700-xt-qual-placa-m%C3%A3e-comprar/?do=getNewComment "Ryzen 5 7600x/7600 + RX 7700 XT, Qual PLACA-MÃE comprar?")
+        [Upgrade de pc gamer](https://www.clubedohardware.com.br/forums/topic/1698143-upgrade-de-pc-gamer/?do=getNewComment "Upgrade de pc gamer")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [cyberbot231](https://www.clubedohardware.com.br/profile/1081146-cyberbot231/ "Ir ao perfil de cyberbot231")  
-        5 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Joaoblack007](https://www.clubedohardware.com.br/profile/1253546-joaoblack007/ "Ir ao perfil de Joaoblack007")  
+        1 hora atrás
         
-    * [![EvilTwizzy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/51de07fc1d5b26425a2a11bbd266efed.thumb.jpg.c383cf203cf995069b0b4ffe43afa0a6.jpg)](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")
+    * [![diasclaudemir](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c49d%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/655356-diasclaudemir/ "Ir ao perfil de diasclaudemir")
         
-        2
+        4
         
-        [WiFi muda muito da internet cabeada?](https://www.clubedohardware.com.br/forums/topic/1698128-wifi-muda-muito-da-internet-cabeada/?do=getNewComment "WiFi muda muito da internet cabeada?")
+        [Controladora de Vídeo X Placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1698142-controladora-de-v%C3%ADdeo-x-placa-de-v%C3%ADdeo/?do=getNewComment "Controladora de Vídeo X Placa de Vídeo")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [EvilTwizzy](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")  
-        5 horas atrás
-        
-    * [![Lucas_Salvador](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253533.thumb.png.49eff15425f2d6a7c6605b8d14df90a4.png)](https://www.clubedohardware.com.br/profile/1253533-lucas_salvador/ "Ir ao perfil de Lucas_Salvador")
-        
-        0
-        
-        [Processador i5 13400F em 100 graus no Warzone 3](https://www.clubedohardware.com.br/forums/topic/1698127-processador-i5-13400f-em-100-graus-no-warzone-3/?do=getNewComment "Processador i5 13400F em 100 graus no Warzone 3")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Lucas\_Salvador](https://www.clubedohardware.com.br/profile/1253533-lucas_salvador/ "Ir ao perfil de Lucas_Salvador")  
-        5 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [diasclaudemir](https://www.clubedohardware.com.br/profile/655356-diasclaudemir/ "Ir ao perfil de diasclaudemir")  
+        2 horas atrás
         
     
 
