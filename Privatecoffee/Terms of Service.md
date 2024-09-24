@@ -1,4 +1,4 @@
-[![](assets/img/logo-inv_grad.svg)](https://private.coffee/)
+[](https://private.coffee/)
 
 [Private.coffee  
 Empowering Privacy with Open Source](https://private.coffee/)
