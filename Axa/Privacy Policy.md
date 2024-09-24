@@ -1,11 +1,11 @@
-[Skip to main content](#content)[Skip to footer](#footer)
+[Skip to main content](https://www.axa.com/page/privacy-policy#content)[Skip to footer](https://www.axa.com/page/privacy-policy#footer)
 
 [AXA
 ---
 
-36.140
+36.190
 
-( \-0.30%)](https://www.axa.com/en/investor/axa-share-performances#anchor=market-data&tab=share-performance)
+( +0.14%)](https://www.axa.com/en/investor/axa-share-performances#anchor=market-data&tab=share-performance)
 
 [Axa worldwide](https://www.axa.com/en/about-us/axa-worldwide)
 
@@ -42,7 +42,7 @@ However, you are informed that GIE AXA, an Economic Interest Grouping, organized
 
 In some cases, GIE AXA and AXA SA (excluding these subsidiaries) a Société Anonyme, organized under French laws, having its registered office at 25 Avenue Matignon, 75008 Paris, registered with the Registry of Commerce and Companies of Paris under number 572 093 920, act as joint data controllers in the context of the processing of your personal data (i.e., they jointly determine the purposes and means of the processing of your information).
 
-As a reminder, and as indicated in the Privacy Policies available above, in accordance with the French "Informatique et Libertés" law n° 78-17 of 6 January 1978 and the GDPR, you have the right to:
+As a reminder, and as indicated in the Privacy Policies available above, in accordance with the French Informatique et Libertés law n° 78-17 of 6 January 1978 and the GDPR, you have the right to:
 
 * Access to your personal data, you have the right to request access to the personal data we process about you, and to obtain a copy of that data
 * Rectify your personal data, you have the right to ask AXA to rectify or complete the personal data that we process about you that are inaccurate, incomplete, or not up to date
@@ -66,7 +66,7 @@ The data controllers may ask you for additional information to confirm your iden
 
 You are informed of your right to raise concerns about how your personal data is being processed with a competent supervisory authority, in particular in the Member State of your habitual residence, place of work or place where you think an alleged infringement to your rights occurred.
 
-In France, the data protection authority is the Commission Nationale de l'Informatique et des Libertés, or “CNIL” whose postal address is 3 place de Fontenoy - TSA 80715 – 75334 Paris CEDEX 07. Its website is accessible here: [https://www.cnil.fr/](https://www.cnil.fr/).
+In France, the data protection authority is the Commission Nationale de l'Informatique et des Libertés, or CNIL whose postal address is 3 place de Fontenoy - TSA 80715 – 75334 Paris CEDEX 07. Its website is accessible here: [https://www.cnil.fr/](https://www.cnil.fr/).
 
 Date of last update: January 24, 2024
 
