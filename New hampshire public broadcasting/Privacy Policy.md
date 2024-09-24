@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Preview** | Lucy Worsley's Holmes vs. Doyle](https://video.nhpbs.org/video/preview-20kdja?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 3 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-3-preview-kxta3k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 3 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-3-preview-vdscpu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview Mambo Legends: The Music Never Ends** | VOCES](https://video.nhpbs.org/video/preview-l0h2jd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**10-year-old wildlife photographer wins international acclaim** | PBS News Hour](https://video.nhpbs.org/video/capturing-nature-1727035580?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 23, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-23-2024-pbs-news-hour-full-episode-1727064001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Julia Alvarez: A Life Reimagined (ASL)** | American Masters](https://video.nhpbs.org/video/julia-alvarez-a-life-reimagined-asl-f0a3ha?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Why Republicans are still facing a candidate quality problem** | Washington Week with The Atlantic](https://video.nhpbs.org/video/why-republicans-are-still-facing-a-candidate-quality-problem-dknciz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 BMW 530i & 2024 Porsche 718 Cayman GT4 RS Manthey** | MotorWeek](https://video.nhpbs.org/video/2024-bmw-530i-2024-porsche-718-cayman-gt4-rs-manthey-3vgrhy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Carmelo Anthony Receives the 2024 Sports Award** | Hispanic Heritage Awards](https://video.nhpbs.org/video/carmelo-anthony-receives-the-2024-sports-award-1eqwqg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview** | Citizen Nation](https://video.nhpbs.org/video/preview-tqazry?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview of Silverback** | Nature](https://video.nhpbs.org/video/silverback-about?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
