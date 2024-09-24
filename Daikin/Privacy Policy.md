@@ -26,7 +26,6 @@ GLOBAL
     Through Perfecting the Air, Daikin strives to make the world’s spaces happier and more comfortable.
     
 
-* [DAIKIN STRATEGY FOR PERFECTING THE AIR](https://www.daikin.com/air/strategy)
 * [100 YEARS OF PERFECTING THE AIR](https://www.daikin.com/air/future)
 * [The POWER TO CREATE THE AIR OF THE FUTURE](https://www.daikin.com/air/elements)
 * [THE IDEAL AIR BY DAIKIN](https://www.daikin.com/air/ideal_air)
@@ -36,7 +35,6 @@ GLOBAL
     * [Daikin at a Glance](https://www.daikin.com/air/daikin_brand/glance)
     * [Japan Brand, Daikin](https://www.daikin.com/air/daikin_brand/japanbrand)
     * [Daikin for All Your Needs](https://www.daikin.com/air/daikin_brand/all_your_needs)
-    * [Daikin Discovery Hall](https://www.daikin.com/air/daikin_brand/carbon_neutrality)
     * [Carbon Neutrality with Air Conditioners](https://www.daikin.com/air/daikin_brand/carbon_neutrality)
 * [DAIKIN TECH-KNOWLEDGE](https://www.daikin.com/air/daikin_techknowledge)
     * [Benefits of Daikin Technology](https://www.daikin.com/air/daikin_techknowledge/benefits)
@@ -460,7 +458,6 @@ Find out more in your region.
 
 [PERFECTING THE AIR](https://www.daikin.com/air)
 
-* [Daikin Strategy for Perfecting the Air](https://www.daikin.com/air/strategy)
 * [The Ideal Air by Daikin](https://www.daikin.com/air/ideal_air)
 * [Perfecting the Air Stories](https://www.daikin.com/air/stories)
 
@@ -468,7 +465,6 @@ Find out more in your region.
 * [Daikin at a Glance](https://www.daikin.com/air/daikin_brand/glance)
 * [Japan Brand, Daikin](https://www.daikin.com/air/daikin_brand/japanbrand)
 * [Daikin for All Your Needs](https://www.daikin.com/air/daikin_brand/all_your_needs)
-* [Daikin Discovery Hall](https://vr360.heartcore.co.jp/A5K9521ZaZV/top.html)
 * [Carbon Neutrality with Air Conditioners](https://www.daikin.com/air/daikin_brand/carbon_neutrality)
 
 * [Daikin Tech-Knowledge](https://www.daikin.com/air/daikin_techknowledge)
