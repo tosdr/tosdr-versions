@@ -24,15 +24,11 @@
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
 
-[](https://community.klaviyo.com/show-tell-27/community-bfcm-challenge-2024-enter-to-win-150-gift-card-14659)
+[](https://community.klaviyo.com/events/klaviyo-connect-bfcm-chicago-239)
 
-Community BFCM Challenge 2024: Enter to win $150 gift card!
+Klaviyo Connect: BFCM (Chicago)
 
-[![stephen.trumble](https://uploads-us-west-2.insided.com/klaviyo-en/icon/200x200/85b26450-bf2c-4208-b777-c42777d38fb9.png)
-
-![Community Manager](https://uploads-us-west-2.insided.com/klaviyo-en/attachment/9f033269-0104-436f-83e0-ae33d1594720_thumb.png "Community Manager")](https://community.klaviyo.com/members/stephen-trumble-4206)
-
-24 days ago
+(Tue, 1 Oct, 6:00 pm)
 
 * [Home](https://community.klaviyo.com/)
 * Terms
