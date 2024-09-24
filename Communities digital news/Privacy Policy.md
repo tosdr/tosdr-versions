@@ -32,7 +32,7 @@ Search for:
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-janet-jackson-1200x630.jpg)](https://americanwirenews.com/janet-jackson-allegedly-fires-rep-who-apologized-on-her-behalf-for-kamala-comments-claims-he-doesnt-deserve-it/)
 
-[Janet Jackson allegedly FIRES rep who apologized on his befor Kamala comments, claims he doesn’t ‘deserve’ it](https://americanwirenews.com/janet-jackson-allegedly-fires-rep-who-apologized-on-her-behalf-for-kamala-comments-claims-he-doesnt-deserve-it/)
+[Janet Jackson allegedly FIRES rep who apologized on his before Kamala comments, claims he doesn’t ‘deserve’ it](https://americanwirenews.com/janet-jackson-allegedly-fires-rep-who-apologized-on-her-behalf-for-kamala-comments-claims-he-doesnt-deserve-it/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gunasekara-1200x630.jpg)](https://americanwirenews.com/fmr-epa-chief-confronts-raskin-to-his-face-minutes-after-he-lies-about-trump-and-project-2025/)
 
