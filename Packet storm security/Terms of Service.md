@@ -53,21 +53,37 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 228 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 168 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 267 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 178 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 69 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 74 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
 * [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
 * [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
 * [H D Moore](https://packetstormsecurity.com/files/authors/219) 31 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 24 files
 * [Karn Ganeshen](https://packetstormsecurity.com/files/authors/7832) 23 files
-* [Pedro Ribeiro](https://packetstormsecurity.com/files/authors/9996) 22 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Telegram Will Now Hand Over IP Addresses, Phone Numbers Of Suspects To Cops](https://packetstormsecurity.com/news/view/36386/Telegram-Will-Now-Hand-Over-IP-Addresses-Phone-Numbers-Of-Suspects-To-Cops.html)
+
+Posted [Sep 24, 2024](https://packetstormsecurity.com/news/date/2024-09-24/ "13:30:51 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [russia](https://packetstormsecurity.com/news/tags/russia), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [france](https://packetstormsecurity.com/news/tags/france), [social](https://packetstormsecurity.com/news/tags/social)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36386/) | [View](https://www.theregister.com/2024/09/23/telegram_tcs_suspect_info/)
+
+[Critical Vulnerabilities In Microchip ASF, MediaTek Expose RCE Risks](https://packetstormsecurity.com/news/view/36381/Critical-Vulnerabilities-In-Microchip-ASF-MediaTek-Expose-RCE-Risks.html)
+
+Posted [Sep 24, 2024](https://packetstormsecurity.com/news/date/2024-09-24/ "13:30:27 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36381/) | [View](https://www.scworld.com/news/critical-vulnerabilities-in-microchip-asf-mediatek-expose-rce-risks)
 
 [Move Over, Cobalt Strike. Splinter's The New Post Exploit Menace In Town](https://packetstormsecurity.com/news/view/36380/Move-Over-Cobalt-Strike.-Splinters-The-New-Post-Exploit-Menace-In-Town.html)
 
@@ -85,6 +101,38 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial o
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36379/) | [View](https://www.theregister.com/2024/09/23/security_in_brief/)
 
+[US Indicts Two Over Socially Engineered $230M+ Crypto Heist](https://packetstormsecurity.com/news/view/36378/US-Indicts-Two-Over-Socially-Engineered-230M-Crypto-Heist.html)
+
+Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:20 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36378/) | [View](https://www.theregister.com/2024/09/20/us_indicts_two_over_socially/)
+
+[Will The US Presidential Election Define The Future Of Crypto?](https://packetstormsecurity.com/news/view/36377/Will-The-US-Presidential-Election-Define-The-Future-Of-Crypto.html)
+
+Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:16 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36377/) | [View](https://www.bbc.com/news/articles/c0lwgn9p8z4o)
+
+[China Urges Vigilance Against Taiwanese Cyberattacks](https://packetstormsecurity.com/news/view/36376/China-Urges-Vigilance-Against-Taiwanese-Cyberattacks.html)
+
+Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:07 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [taiwan](https://packetstormsecurity.com/news/tags/taiwan), [military](https://packetstormsecurity.com/news/tags/military)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36376/) | [View](https://www.reuters.com/technology/cybersecurity/china-urges-netizens-be-vigilant-against-taiwanese-cyberattacks-2024-09-23/)
+
+[Secret Calculator Hack Brings ChatGPT To The TI-84, Enabling Easy Cheating](https://packetstormsecurity.com/news/view/36375/Secret-Calculator-Hack-Brings-ChatGPT-To-The-TI-84-Enabling-Easy-Cheating.html)
+
+Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:01 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36375/) | [View](https://arstechnica.com/information-technology/2024/09/secret-calculator-hack-brings-chatgpt-to-the-ti-84-enabling-easy-cheating/)
+
 [Exploiting Exploiting Exchange PowerShell After ProxyNotShell: Part 3 – DLL Loading Chain for RCE](https://packetstormsecurity.com/news/view/36374/Exploiting-Exploiting-Exchange-PowerShell-After-ProxyNotShell-Part-3-DLL-Loading-Chain-for-RCE.html)
 
 Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "16:18:51 UTC")
@@ -100,54 +148,6 @@ Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "16:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [google](https://packetstormsecurity.com/news/tags/google)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36373/) | [View](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
-
-[Life Imitates xkcd Comic As Florida Gang Beats Crypto Password From Retiree](https://packetstormsecurity.com/news/view/36372/Life-Imitates-xkcd-Comic-As-Florida-Gang-Beats-Crypto-Password-From-Retiree.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:23 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36372/) | [View](https://arstechnica.com/security/2024/09/forget-hacking-this-gang-just-beat-people-to-steal-their-crypto/)
-
-[1 In 10 Orgs Dumping Their Security Vendors After CrowdStrike Outage](https://packetstormsecurity.com/news/view/36371/1-In-10-Orgs-Dumping-Their-Security-Vendors-After-CrowdStrike-Outage.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:22 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36371/) | [View](https://www.theregister.com/2024/09/19/german_crowdstrike_reaction/)
-
-[Cyber Crooks Strut Away With Haute Couture Harvey Nichols Data](https://packetstormsecurity.com/news/view/36370/Cyber-Crooks-Strut-Away-With-Haute-Couture-Harvey-Nichols-Data.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:19 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [britain](https://packetstormsecurity.com/news/tags/britain), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36370/) | [View](https://www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/)
-
-[Noise Storms: Massive Amounts Of Spoofed Web Traffic Linked To China](https://packetstormsecurity.com/news/view/36369/Noise-Storms-Massive-Amounts-Of-Spoofed-Web-Traffic-Linked-To-China.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:17 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [china](https://packetstormsecurity.com/news/tags/china)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36369/) | [View](https://www.securityweek.com/noise-storms-massive-amounts-of-spoofed-web-traffic-linked-to-china/)
-
-[Tor Network Denies Report That Anonymity Is Completely Canceled](https://packetstormsecurity.com/news/view/36368/Tor-Network-Denies-Report-That-Anonymity-Is-Completely-Canceled.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:15 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36368/) | [View](https://gizmodo.com/tor-network-denies-report-that-anonymity-is-completely-canceled-2000501042)
-
-[Marko Polo Hackers Found To Be Running Dozens Of Scams](https://packetstormsecurity.com/news/view/36367/Marko-Polo-Hackers-Found-To-Be-Running-Dozens-Of-Scams.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "15:20:12 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [phish](https://packetstormsecurity.com/news/tags/phish), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36367/) | [View](https://www.scmagazine.com/news/marko-polo-hackers-found-to-be-running-dozens-of-scams)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2044364931&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2044364931.1727168063.1727168063.1727168063.1%3B%2B__utmz%3D32867617.1727168063.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1269112542&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1269112542.1727190489.1727190489.1727190489.1%3B%2B__utmz%3D32867617.1727190489.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
