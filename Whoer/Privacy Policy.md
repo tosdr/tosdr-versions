@@ -6,7 +6,6 @@
 * [Antidetect Browser](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * Services
-    * [Anonymity](https://whoer.net/best-anonymity-tools?category=all)
     * [Proxy](https://proxyempire.io/?ref=whoer)
     * [Virtual cards](https://e.pn/?ref=uLpxUESL)
     * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_services)
@@ -15,6 +14,7 @@
     * [Whois](https://whoer.net/checkwhois)
     * [DNS leak test](https://whoer.net/dns-leak-test)
     * [Port scanner](https://whoer.net/port-scanner-online)
+* [Anonymity](https://whoer.net/best-anonymity-tools?category=all)
 * Help
 
 [Buy VPN now](https://whoer.net/vpn/buy)
