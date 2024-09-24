@@ -23,18 +23,18 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Microsoft ends development of Windows Server Update Services (WSUS)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
     * [![Android malware 'Necro' infects 11 million devices via Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
-    * [![Ukraine bans Telegram on military, govt devices over security risks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft ends development of Windows Server Update Services (WSUS)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ukraine bans Telegram on military, govt devices over security risks](https://www.bleepingcomputer.com/news/security/ukraine-bans-telegram-on-military-govt-devices-over-security-risks/)
-    * [![Global infostealer malware operation targets crypto users, gamers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
+    * [![Kaspersky deletes itself, installs UltraAV antivirus without warning](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
+        Kaspersky deletes itself, installs UltraAV antivirus without warning](https://www.bleepingcomputer.com/news/security/kaspersky-deletes-itself-installs-ultraav-antivirus-without-warning/)
+    * [![Telegram now shares users’ IP and phone number on legal requests](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
     
     * [![US proposes ban on connected vehicle tech from China, Russia](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Kaspersky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Hacker VR Spyware Surveillance](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Kaspersky deletes itself, installs UltraAV antivirus without warning](https://www.bleepingcomputer.com/news/security/kaspersky-deletes-itself-installs-ultraav-antivirus-without-warning/)
-* [![Disney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
+* [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Disney ditching Slack after massive July data breach](https://www.bleepingcomputer.com/news/security/disney-ditching-slack-after-massive-july-data-breach/)
-* [![Apple Finder Mac macOS](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
+* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    macOS Sequoia change breaks networking for VPN, antivirus software](https://www.bleepingcomputer.com/news/apple/macos-sequoia-change-breaks-networking-for-vpn-antivirus-software/)
+    New Mallox ransomware Linux variant based on leaked Kryptina code](https://www.bleepingcomputer.com/news/security/new-mallox-ransomware-linux-variant-based-on-leaked-kryptina-code/)
 
 ##### Follow us:
 
