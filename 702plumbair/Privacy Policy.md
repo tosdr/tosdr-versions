@@ -46,6 +46,9 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     
     * [Henderson](https://www.702plumbair.com/henderson/)
     * [Las Vegas](#)
+    * [North Las Vegas](https://www.702plumbair.com/north-las-vegas/)
+    * [Paradise](https://www.702plumbair.com/paradise/)
+    * [Whitney](https://www.702plumbair.com/whitney/)
     
 
 * _Close_
@@ -96,6 +99,9 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * Main Menu
     * [Henderson](https://www.702plumbair.com/henderson/)
     * [Las Vegas](#)
+    * [North Las Vegas](https://www.702plumbair.com/north-las-vegas/)
+    * [Paradise](https://www.702plumbair.com/paradise/)
+    * [Whitney](https://www.702plumbair.com/whitney/)
     
 * [Blog](https://www.702plumbair.com/blog/)
     
