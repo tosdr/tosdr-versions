@@ -29,7 +29,7 @@ Privacy Notice
 
 SHUTTERFLY ONLINE PRIVACY AND SECURITY
 
-Last Modified: September 18, 2024
+Last Modified: September 24, 2024
 ---------------------------------
 
 At Shutterfly, our purpose is to help our customers capture, preserve, and share life’s important moments through professional and personal photography, and personalized products. We are equally committed to respecting your privacy.
@@ -65,11 +65,11 @@ The following chart describes what categories of personal information we may col
 
 In addition to any personal information, from time to time we may collect additional information about you through your interactions with us or in other circumstances.
 
-Social Media
+**Social Media**
 
 If you log into your account with us through a social media site, we will also have access to certain information from that site, such as your name, account information and profile photo, in accordance with the site’s account verification procedures. If you subsequently want to unlink your social media account, please contact customer service or use available tools on the site.
 
-If you interact with content on our social media profiles (for example, if you “like” or share a post from Facebook, Twitter, or Instagram accounts), those social media sites may share information about you with us, including your public profile, e-mail address and friend list. If you choose to “like” or share content, information about you may be publicly displayed on the social network, depending on your privacy settings. If you post information on a social media or another third-party service that references us or our products and services (e.g., via a Twitter hashtag), we may publish your post on our social media accounts or websites. For more information about the privacy practices of any social media sites that you may use to log in to your account or to interact with our brands, you should review the privacy notice of that social media site and check your privacy settings through that site.
+If you interact with content on our social media profiles (for example, if you “like” or share a post from Facebook, Twitter, or Instagram accounts), those social media sites may share information about you with us, including your public profile, e-mail address and friend list. If you choose to “like” or share content, information about you may be publicly displayed on the social network, depending on your privacy settings. If you post information on a social media or another third-party service that references us or our products and services (e.g., via a Twitter hashtag), we may publish your post on our social media accounts or websites. For more information about the privacy practices of any social media sites that you may use to log in to your account or to interact with us, you should review the privacy notice of that social media site and check your privacy settings through that site.
 
 Information You Provide About Others
 
@@ -81,7 +81,7 @@ When you upload your photos to our platforms or give us permission to access the
 
 Cookies
 
-We and our service providers collect information about how you use our services – for example what web or mobile pages you have viewed – to administer our services, analyze trends, generate analytics, provide a better user experience, improve our products and services, detect and prevent fraud or security incidents and gather broad demographic information for aggregate use. Our Sites and App and emails use pixel tags, web beacons, and similar tracking technologies (collectively referred to as “Cookies”) that are created when you use our online services and are stored on your computer or mobile device.
+We and our service providers collect information about how you use our services – for example what web or mobile pages you have viewed – to administer our services, analyze trends, generate analytics, provide a better user experience, improve our products and services, detect and prevent fraud or security incidents and gather broad demographic information for aggregate use. Our Sites, App and emails use pixel tags, web beacons, and similar tracking technologies (collectively referred to as “Cookies”) that are created when you use our online services and are stored on your computer or mobile device.
 
 Cookies help us offer convenient features like storing the contents of your shopping cart until you are ready to check out, remembering your login and account settings, recognizing your browser when you visit, customizing your current and future visits, and providing you with information about products that interest you. Cookies help us personalize your experience and save time during checkout. We also use the information we collect to compile statistics about our visitors and their use of our site to monitor site traffic, develop marketing programs, and improve our website design and content.
 
@@ -123,14 +123,14 @@ Shutterfly is part of the [Shutterfly family of companies and brands](https://s
 
 We may be required to share your personal information in other, limited circumstances. For example, we may be required to share certain information to respond to a subpoena or similar judicial process, to comply with state, federal or local laws, to protect the security or integrity of our databases or website, to take precautions against liability, in the event of a corporate reorganization or, to the extent required by law, to provide information to law enforcement agencies. If necessary, we may also share information with law enforcement without a subpoena or similar judicial process if doing so may help protect the personal safety of a customer, a photo subject, or members of the public. We reserve the right to report to the appropriate law enforcement or government agencies any information that we believe may be evidence of criminal activity or violation of any applicable law.
 
-Additionally, your information may be transferred to another organization if, for example, we negotiate for or transfer the ownership or operation of the Sites and Apps because we have merged with or have been acquired by another organization, or if we liquidate our assets, if there is a change in ownership control, or a financing transaction. In those cases, the new company’s use of your information will still be subject to this Notice and the privacy preferences you have expressed to us.
+Additionally, your information may be transferred to another organization if, for example, we negotiate for or transfer the ownership or operation of the Sites and Apps because we have merged with or have been acquired by another organization, if we liquidate our assets, if there is a change in ownership control, or a financing transaction. In those cases, the new company’s use of your information will still be subject to this Notice and the privacy preferences you have expressed to us.
 
 Does our website collect information from children?
 
 
 -------------------------------------------------------
 
-Our Sites and Apps are intended for use by general audiences and are not targeted directly at children under 16. We will not knowingly collect personally identifiable information from children. If we become aware that a child under the age of 18 has provided personal information through our websites or apps, we will remove their personally identifiable information from our files. If a parent or guardian becomes aware that their child has provided such information through our websites or apps, the parent or guardian should contact us in writing at privacy[privacy@shutterfly.com](mailto:privacy@shutterfly.com) so that we may respond appropriately.
+Our Sites and Apps are intended for use by general audiences and are not targeted directly at children under 18. We will not knowingly collect personally identifiable information from children. If we become aware that a child under the age of 18 has provided personal information through our websites or apps, we will remove their personally identifiable information from our files. If a parent or guardian becomes aware that their child has provided such information through our websites or apps, the parent or guardian should contact us in writing at [privacy@shutterfly.com](mailto:privacy@shutterfly.com) so that we may respond appropriately.
 
 What options do you have to limit our collection and use of your personal information?
 
@@ -176,6 +176,34 @@ How can you contact us with questions about your privacy or this Notice?
 
 For further information regarding this website privacy statement or related Shutterfly policies and procedures, please contact: [privacy@shutterfly.com](mailto:privacy@shutterfly.com).
 
+Your Photos
+
+
+---------------
+
+At Shutterfly, Pictures are the Big Picture.
+
+**Shutterfly**
+
+The photos and other content that you upload to your account (“Your Content”) may include personal information about you or others, and this section of our Privacy Center addresses frequently asked questions about Your Content.
+
+**Do you share the photos that I upload to Shutterfly?**
+
+At Shutterfly, we value the trust you place in us when you store Your Content on our platform, and we can assure you that we treat Your Content as private information that belongs to you.  We share your photos only in the following circumstances:
+
+* **_If you ask us to._** Enabling you to share your photos electronically is one of the key benefits we offer at Shutterfly. You are able to send an email invitation to your selected recipients, and then allow them to view, save, or purchase products from your pictures. This email invitation contains a link created specifically for your pictures.
+* **_Order fulfillment and providing our services._** In order to provide our service, the Shutterfly employees and agents who work to fulfill your order and service your account may see your Content in the course of performing their jobs.  Similarly, if you order a product that includes Your Content, we may share Your Content with service providers who help us fulfill your order. These parties are only allowed to use your photos to perform services for Shutterfly, though – they can’t use them for any other purpose.
+
+**Does Shutterfly use my photos in advertisements?**
+
+No, Shutterfly does not use your photos in our advertisements. Photos you upload to Shutterfly may be incorporated into product recommendations that appear on your Shutterfly homepage or in communications we send to you, but these photos aren’t used in public advertising, and only you will receive customized product recommendations made using your photos. You may opt out of receiving such communications from us and change your contact preferences within your account at any time.
+
+**Does Shutterfly collect information from my photos and projects? If so, how do you use it?** 
+
+* **_What we collect._** When you upload your photos to our platform or give us permission to access the photos stored on your device, your photo content may also include related image information such as the time, place and general location your photo was taken, and similar “metadata” captured by your image capture device. If you wish to restrict the capture of image metadata in your individual photos, please adjust the settings on your image capture device.
+* **_How we use it_**_._ We may analyze your photo content and metadata to help you tag and organize your photos to create products, to make personalized product suggestions and recommendations to you (such as showing you how your pictures may look in a collage or other Shutterfly product), and to send you reminders and suggestions based on the information you include in your projects, such as birthdays and anniversaries.
+* _**How long does Shutterfly keep my photos? What are my options?**_ If you have a Shutterfly account, you control how long it remains active. Shutterfly will retain your photos for as long as you maintain Active Participation with us. See [Shutterfly’s Unlimited Storage for Active Customers](https://support.shutterfly.com/s/article/my-photos-storage-terms-conditions) for more details. You also have the ability to download and/or delete some or all of the photos in your account at any time. If you delete Shutterfly photos from your account, they will be removed from your Shutterfly app and web interface, and we will permanently delete them from our system in the regular course of business.
+
 Supplemental Notice to Residents of CA, CO, CT, MT, OR, TX, UT or VA
 
 
@@ -217,82 +245,6 @@ Nevada law gives Nevada consumers the right to request that a company not sell t
 **Supplemental Notice to Visitors from outside of the United States**
 
 Our Sites and Apps are hosted in the United States. By using our Sites and Apps, you acknowledge and consent that your information may be transferred to, stored or processed in the United States in accordance with this Privacy Notice and applicable United States laws. Please be aware that U.S. privacy laws, including the rights of authorities to access your personal information, may differ from those that apply in the country in which you reside.
-
-Your Photos
-
-
----------------
-
-At Shutterfly and Lifetouch, Pictures are the Big Picture.
-
-**Shutterfly**
-
-The photos and other content that you upload to your account (“Your Content”) may include personal information about you or others, and this section of our Privacy Center addresses frequently asked questions about Your Content.
-
-**Do you share the photos that I upload to Shutterfly?**
-
-At Shutterfly, we value the trust you place in us when you store Your Content on our platform, and we can assure you that we treat Your Content as private information that belongs to you.  We share your photos only in the following circumstances:
-
-* **_If you ask us to._** Enabling you to share your photos electronically is one of the key benefits we offer at Shutterfly. You are able to send an email invitation to your selected recipients, and then allow them to view, save, or purchase products from your pictures. This email invitation contains a link created specifically for your pictures.
-* **_Order fulfillment and providing our services._** In order to provide our service, the Shutterfly employees and agents who work to fulfill your order and service your account may see your Content in the course of performing their jobs.  Similarly, if you order a product that includes Your Content, we may share Your Content with service providers who help us fulfill your order. These parties are only allowed to use your photos to perform services for Shutterfly, though – they can’t use them for any other purpose.
-
-**Does Shutterfly use my photos in advertisements?**
-
-No, Shutterfly does not use your photos in our advertisements. Photos you upload to Shutterfly may be incorporated into product recommendations that appear on your Shutterfly homepage or in communications we send to you, but these photos aren’t used in public advertising, and only you will receive customized product recommendations made using your photos. You may opt out of receiving such communications from us and change your contact preferences within your account at any time.
-
-**Does Shutterfly collect information from my photos and projects? If so, how do you use it?** 
-
-* **_What we collect._** When you upload your photos to our platform or give us permission to access the photos stored on your device, your photo content may also include related image information such as the time, place and general location your photo was taken, and similar “metadata” captured by your image capture device. If you wish to restrict the capture of image metadata in your individual photos, please adjust the settings on your image capture device.
-* **_How we use it_**_._ We may analyze your photo content and metadata to help you tag and organize your photos to create products, to make personalized product suggestions and recommendations to you (such as showing you how your pictures may look in a collage or other Shutterfly product), and to send you reminders and suggestions based on the information you include in your projects, such as birthdays and anniversaries.
-
-**How long does Shutterfly keep my photos? What are my options?**
-
-If you have a Shutterfly account, you control how long it remains active. Shutterfly will retain your photos for as long as you maintain Active Participation with us.  See Shutterfly’s [Unlimited Storage for Active Customers](https://support.shutterfly.com/s/article/my-photos-storage-terms-conditions) for more details. You also have the ability to download and/or delete some or all of the photos in your account at any time. If you delete Shutterfly photos from your account, they will be removed from your Shutterfly app and web interface immediately, and we will permanently delete them from our system in the regular course of business.
-
-For PreK-12 Educators and Parents
-
-
--------------------------------------
-
-Since 1936, Lifetouch has been a trusted provider of school services, providing photography services to schools and families across the United States and Canada.  Lifetouch photographs children by agreement with the schools we work with.  We offer time-honored Picture Day products to the families of children we photograph while fulfilling a necessary role at no charge to the school.
-
-In preparation for Picture Day, Lifetouch requires certain basic information from your child’s school record, such as name, grade and homeroom teacher name.  Below are a number of Frequently Asked Questions (“FAQs”) regarding the basic information that Lifetouch needs in order to provide its photography services.  These FAQs are intended to provide answers to questions that you may have about Lifetouch’s use of such information and to demonstrate Lifetouch’s commitment to your child’s privacy and security.
-
-**_What student personal data does Lifetouch receive from schools?_** 
-
-The information we need for Picture Day depends upon the specific services and deliverables Lifetouch is providing your school. We limit the information we collect to only that which is necessary for Picture Day and related authorized school purposes.  We collect the basic information in advance of Picture Day to match names to the pictures we take and for efficient distribution within the school.  We may receive your email or mailing address in order to deliver Picture Day-related communications on behalf of the school.  In such cases, we do not retain or use your contact information for any other purpose unless you opt in to receive updates and promotional offers from us.
-
-In addition, the information may be incorporated into other items that we are providing to your school.  For example, if Lifetouch is producing student ID cards, we need the student ID number to do the job. Our yearbook image product includes images of students sorted by name, grade and other classifying data per your school’s requirements.  Schools ultimately decide how much, or how little, information is used in producing School Service Items.   Lifetouch never has access to sensitive information, such as grades or attendance data, from your child’s record.
-
-**_How does Lifetouch use the information it receives from schools?_**
-
-As part of our agreement with your child’s school, Lifetouch provides various services that support the school’s administrative needs, which may include student ID cards for lunch, library and transportation purposes and digital images for the school to use for student recognition, awards, teacher tools, yearbooks, memory books and class composites.  These services are provided throughout the school year.  Lifetouch uses the basic information that it collects solely as necessary to produce such items for the school, to deliver Picture Day-related notices on behalf of your school, and to provide you opportunities to purchase your child’s school pictures.
-
-**\*\*Lifetouch does not sell, trade or share student data collected from your child’s school with third parties for their marketing purposes, nor do we use such data in ways that are unrelated to the purposes authorized by the school. Lifetouch will never sell student photos or yearbooks to a third party for resale.\*\***
-
-Lifetouch retains the basic information it collects from schools only as necessary and permissible to promote the sale of school pictures to parents, to retrieve the images to supply picture orders and to support the school for an approved administrative purpose.  Once such data is no longer needed for such purposes, it is securely destroyed.  While retained, it remains under Lifetouch’s control and treated as confidential information.
-
-**_What are my options as a parent?_**
-
-In its role as official school photographer, Lifetouch photographs all students who appear at the camera on Picture Day, and we rely on your child’s school or district to obtain any parental consents necessary for us to do the work they engaged us for.  Our photographers reasonably presume that they are permitted to photograph each individual who appears at the camera for that purpose.  If you are a parent who does not want your child to participate in your school’s Picture Day, you must pre-arrange with the school not to have your child photographed.
-
-Lifetouch acknowledges its obligations as a service provider to your school for student and staff photography pursuant to the federal Family Educational Rights and Privacy Act (“FERPA”).  Your school retains the authority to control Lifetouch’s use of the information it provides to Lifetouch and to require its return or destruction at any time.   We will honor a parent’s image deletion request, subject to verification and authorization of the school when deletion would impact our ability to deliver an item or service requested by the school.
-
-If you choose to purchase your child’s school photos from Lifetouch, the personal information you provide to us will be treated as customer information and used as described in our [Privacy Notice](https://lifetouch.com/privacy/).  Unless purchased by a parent (or by someone with whom the parent has shared the photo), however, we retain school photos only as long as necessary to satisfy our obligations to the schools we serve.
-
-**_Note to Schools and Parents about Lifetouch Pre K-12 Applications_**
-
-Some Lifetouch-provided websites, applications and online services are designed for the use and benefit of the schools and school districts for administrative and educational purposes and used by or at the direction of teachers or other school or district employees (each a “Lifetouch K-12 Application”). Lifetouch Pre K-12 Applications include the Lifetouch Portal™ for school administrators and our Lifetouch Yearbooks applications and online tools.
-
-With respect to Lifetouch Pre K-12 Applications, Lifetouch will:
-
-* not collect or use student personal data beyond what is needed for authorized school purposes;
-* not sell or rent student personal data;
-* not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students;
-* not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age;
-* require that our vendors with whom student personal data is shared to deliver the school service, if any, are obligated to implement these same commitments for student personal data.
-
-If you are an authorized user of a Lifetouch Pre K-12 Application, please refer to the Terms of Service linked to from that service or contact us through your Lifetouch school account representative for further information. A school, through its authorized representative, may elect to allow students to contribute to the school yearbook using a Lifetouch Yearbooks application. In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA, 15 U.S.C. § 6501 et seq.), we will never knowingly solicit, nor will we accept, personally identifiable information from users known to be under thirteen (13) years of age without the consent of their educational institution or the child’s parent or guardian.
 
 * [Contact Us](https://shutterflyinc.com/contact/)
 * [Terms of Use](https://shutterflyinc.com/terms-of-use/)
