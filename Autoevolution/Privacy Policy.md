@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![MLB Speedway Classic: A Major League Baseball Game in the Infield of a Historic Racetrack](https://s1.cdn.autoevolution.com/images/news/mlb-speedway-classic-a-major-league-baseball-game-in-the-infield-of-a-historic-racetrack-240231-5.jpg "MLB Speedway Classic: A Major League Baseball Game in the Infield of a Historic Racetrack")
+[![F1: Why Verstappen's Silent Protest Was the Perfect Response to a Weak FIA President](https://s1.cdn.autoevolution.com/images/news/formula-1why-verstappen-s-silent-protest-was-the-perfect-response-to-a-weak-fia-president-240223-5.jpg "F1: Why Verstappen's Silent Protest Was the Perfect Response to a Weak FIA President")
 
-MLB Speedway Classic: A Major League Baseball Game in the Infield of a Historic Racetrack](https://www.autoevolution.com/news/mlb-speedway-classic-a-major-league-baseball-game-in-the-infield-of-a-historic-racetrack-240231.html)
+F1: Why Verstappen's Silent Protest Was the Perfect Response to a Weak FIA President](https://www.autoevolution.com/news/formula-1why-verstappen-s-silent-protest-was-the-perfect-response-to-a-weak-fia-president-240223.html)
 
 how-to \_
 
