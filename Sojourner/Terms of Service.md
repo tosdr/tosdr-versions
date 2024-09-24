@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-82a2e41dbd7253eb8b287157cca67838
+e475be710014fe699decd01f59d68192
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Simple White Pearls necklace](https://sojourner.biz/images/cache/jewelry/N0100.200.jpg)](https://sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
+[![16 mm to 18 mm peachy irregular pearls](https://sojourner.biz/images/cache/pearls/PE0052.200.jpg)](https://sojourner.biz/beads/pearls/16-mm-to-18-mm-peachy-irregular-pearls.html "16 mm to 18 mm peachy irregular pearls")
 
-#### [Simple White Pearls necklace](https://sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
+#### [16 mm to 18 mm peachy irregular pearls](https://sojourner.biz/beads/pearls/16-mm-to-18-mm-peachy-irregular-pearls.html "16 mm to 18 mm peachy irregular pearls")
 
-$135.00
+$15.00
 
 ### Best Sellers
 
