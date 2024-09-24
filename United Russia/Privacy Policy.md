@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Юлия Дрожжина: Правовые нормы, инициированные «Единой Россией», дадут подросткам новые возможности для самореализации](https://cdn.er.ru/media/news/September2024/I6IVaMD3Lvz3N2aOof8q-small.jpg)](https://er.ru/activity/news/yuliya-drozhzhina-pravovye-normy-iniciirovannye-edinoj-rossiej-dadut-podrostkam-novye-vozmozhnosti-dlya-samorealizacii)
+
+[Юлия Дрожжина: Правовые нормы, инициированные «Единой Россией», дадут подросткам новые возможности для самореализации](https://er.ru/activity/news/yuliya-drozhzhina-pravovye-normy-iniciirovannye-edinoj-rossiej-dadut-podrostkam-novye-vozmozhnosti-dlya-samorealizacii)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116)
+
+Сегодня 16:30
+
+[![Госдума приняла в первом чтении законопроект «Единой России» о запрете членства иноагентов в Общественной палате](https://cdn.er.ru/media/news/September2024/twIk7k2fqSVq9teXMzEq-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-chlenstva-inoagentov-v-obshestvennoj-palate)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о запрете членства иноагентов в Общественной палате](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-chlenstva-inoagentov-v-obshestvennoj-palate)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Общественнаяпалата](https://er.ru/activity/news?tags%5B0%5D=106303) [#иноагенты](https://er.ru/activity/news?tags%5B0%5D=113026)
+
+Сегодня 16:20
+
+[![Госдума приняла в первом чтении законопроект «Единой России» о праве несовершеннолетних работать в студотрядах в выходные дни и период каникул](https://cdn.er.ru/media/news/September2024/1908X0Gpr84xmABaId57-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-nesovershennoletnih-rabotat-v-studotryadah-v-vyhodnye-dni-i-period-kanikul)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о праве несовершеннолетних работать в студотрядах в выходные дни и период каникул](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-nesovershennoletnih-rabotat-v-studotryadah-v-vyhodnye-dni-i-period-kanikul)
+
+[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#студотряд](https://er.ru/activity/news?tags%5B0%5D=23087) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#подростки](https://er.ru/activity/news?tags%5B0%5D=2937) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642)
+
+Сегодня 16:00
+
+[![Законопроект «Единой России» о бесплатном проезде военных автомобилей по платным дорогам единогласно принят в первом чтении](https://cdn.er.ru/media/news/September2024/6jMhKnxh4rcCe3PbO0tR-small.jfif)](https://er.ru/activity/news/zakonoproekt-edinoj-rossi-o-besplatnom-proezde-voennyh-avtomobilej-po-platnym-dorogam-edinoglasno-prinyat-v-pervom-chtenii)
+
+[Законопроект «Единой России» о бесплатном проезде военных автомобилей по платным дорогам единогласно принят в первом чтении](https://er.ru/activity/news/zakonoproekt-edinoj-rossi-o-besplatnom-proezde-voennyh-avtomobilej-po-platnym-dorogam-edinoglasno-prinyat-v-pervom-chtenii)
+
+[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#платныедороги](https://er.ru/activity/news?tags%5B0%5D=1093244) [#бесплатныйпроезд](https://er.ru/activity/news?tags%5B0%5D=118050)
+
+Сегодня 14:10
+
+[![Владимир Якушев: Регионы УрФО стали одной мощной командой](https://cdn.er.ru/media/news/September2024/ToiSIhxMWXxfRC3rDerC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-regiony-urfo-stali-odnoj-moshnoj-komandoj)
+
+[Владимир Якушев: Регионы УрФО стали одной мощной командой](https://er.ru/activity/news/vladimir-yakushev-regiony-urfo-stali-odnoj-moshnoj-komandoj)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#УрФО](https://er.ru/activity/news?tags%5B0%5D=794) [#полпред президента в УрФО](https://er.ru/activity/news?tags%5B0%5D=20739) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 13:51
+
 [![«Единая Россия» обеспечит развитие высокоскоростных железнодорожных магистралей в стране](https://cdn.er.ru/media/news/September2024/Au7RfzBAlqIOHxeWVE3e-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-razvitie-vysokoskorostnyh-zheleznodorozhnyh-magistralej-v-strane)
 
 [«Единая Россия» обеспечит развитие высокоскоростных железнодорожных магистралей в стране](https://er.ru/activity/news/edinaya-rossiya-obespechit-razvitie-vysokoskorostnyh-zheleznodorozhnyh-magistralej-v-strane)
@@ -306,46 +346,6 @@
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Гарин](https://er.ru/activity/news?tags%5B0%5D=43751) [#высокоскоростные железные дороги](https://er.ru/activity/news?tags%5B0%5D=41418) [#магистрали](https://er.ru/activity/news?tags%5B0%5D=17408) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#транспортная инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1542)
 
 Сегодня 12:07
-
-[![«Единая Россия» обеспечит право на бесплатный проезд по платным дорогам для военных автомобилей](https://cdn.er.ru/media/news/September2024/HQpOSQpFkKz4JD6OzHYD-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-pravo-na-besplatnyj-proezd-po-platnym-dorogam-dlya-voennyh-avtomobilej)
-
-[«Единая Россия» обеспечит право на бесплатный проезд по платным дорогам для военных автомобилей](https://er.ru/activity/news/edinaya-rossiya-obespechit-pravo-na-besplatnyj-proezd-po-platnym-dorogam-dlya-voennyh-avtomobilej)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#бесплатныйпроезд](https://er.ru/activity/news?tags%5B0%5D=118050) [#платныедороги](https://er.ru/activity/news?tags%5B0%5D=1093244) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-Сегодня 11:36
-
-[![Андрей Исаев: «Единая Россия» внесёт в Госдуму законопроект о регулировании трудовых отношений работников с частными агентствами занятности](https://cdn.er.ru/media/news/September2024/Ke69fqdFFz6SZS3iwDzJ-small.jpg)](https://er.ru/activity/news/andrej-isaev-edinaya-rossiya-vnesyot-v-gosdumu-zakonoproekt-o-regulirovanii-trudovyh-otnoshenij-rabotnikov-s-chastnymi-agentstvami-zanyatnosti)
-
-[Андрей Исаев: «Единая Россия» внесёт в Госдуму законопроект о регулировании трудовых отношений работников с частными агентствами занятности](https://er.ru/activity/news/andrej-isaev-edinaya-rossiya-vnesyot-v-gosdumu-zakonoproekt-o-regulirovanii-trudovyh-otnoshenij-rabotnikov-s-chastnymi-agentstvami-zanyatnosti)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#трудовыеотношения](https://er.ru/activity/news?tags%5B0%5D=111649) [#МРОТ](https://er.ru/activity/news?tags%5B0%5D=4973) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#трудовойкодекс](https://er.ru/activity/news?tags%5B0%5D=1091513)
-
-Сегодня 11:22
-
-[![При поддержке «Единой России» на железнодорожном вокзале Хабаровска открылась зона отдыха для маломобильных граждан](https://cdn.er.ru/media/news/September2024/EAUJiOvzyyzhCAhjcVKx-small.png)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-na-zheleznodorozhnom-vokzale-habarovska-otkrylas-zona-otdyha-dlya-malomobilnyh-grazhdan)
-
-[При поддержке «Единой России» на железнодорожном вокзале Хабаровска открылась зона отдыха для маломобильных граждан](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-na-zheleznodorozhnom-vokzale-habarovska-otkrylas-zona-otdyha-dlya-malomobilnyh-grazhdan)
-
-[#Коломийцев](https://er.ru/activity/news?tags%5B0%5D=139453) [#Хабаровский край](https://er.ru/activity/news?tags%5B0%5D=1090149) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028) [#мобильность](https://er.ru/activity/news?tags%5B0%5D=12348) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#единаястранадоступнаясреда](https://er.ru/activity/news?tags%5B0%5D=110786) [#железнодорожныйтранспорт](https://er.ru/activity/news?tags%5B0%5D=136354)
-
-Сегодня 10:40
-
-[![Виктор Пинский: Законодательный акт «О приграничном сотрудничестве в Союзном государстве» будет способствовать реальной интеграции Беларуси и России](https://cdn.er.ru/media/news/September2024/gYWlQFgEJ46FDhWtuxsC-small.jfif)](https://er.ru/activity/news/viktor-pinskij-zakonodatelnyj-akt-o-prigranichnom-sotrudnichestve-v-soyuznom-gosudarstve-budet-sposobstvovat-realnoj-integracii-belarusi-i-rossii)
-
-[Виктор Пинский: Законодательный акт «О приграничном сотрудничестве в Союзном государстве» будет способствовать реальной интеграции Беларуси и России](https://er.ru/activity/news/viktor-pinskij-zakonodatelnyj-akt-o-prigranichnom-sotrudnichestve-v-soyuznom-gosudarstve-budet-sposobstvovat-realnoj-integracii-belarusi-i-rossii)
-
-[#Пинский](https://er.ru/activity/news?tags%5B0%5D=8359) [#законодательный акт](https://er.ru/activity/news?tags%5B0%5D=81980) [#проект](https://er.ru/activity/news?tags%5B0%5D=369) [#приграничное сотрудничество](https://er.ru/activity/news?tags%5B0%5D=14420) [#Союзное государство](https://er.ru/activity/news?tags%5B0%5D=2524)
-
-23.09.24
-
-[![Анна Кузнецова: Закрепление понятия «студенческая семья» станет основой для развития и расширения мер поддержки этой категории](https://cdn.er.ru/media/news/September2024/EM4tl0p8RbJMMC0exYBR-small.jpg)](https://er.ru/activity/news/anna-kuznecova-zakreplenie-ponyatiya-studencheskaya-semya-stanet-osnovoj-dlya-razvitiya-i-rasshireniya-mer-podderzhki-etoj-kategorii)
-
-[Анна Кузнецова: Закрепление понятия «студенческая семья» станет основой для развития и расширения мер поддержки этой категории](https://er.ru/activity/news/anna-kuznecova-zakreplenie-ponyatiya-studencheskaya-semya-stanet-osnovoj-dlya-razvitiya-i-rasshireniya-mer-podderzhki-etoj-kategorii)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#молодаясемья](https://er.ru/activity/news?tags%5B0%5D=109127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116)
-
-23.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
