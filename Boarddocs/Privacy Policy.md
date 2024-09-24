@@ -40,7 +40,7 @@ _expand\_more_
 
 More
 
-[Diligent Elevate_open\_in\_new_
+[Modern Governance 100_open\_in\_new_](https://boarddocs.com/modern-governance-100)[Diligent Elevate_open\_in\_new_
 
 (formerly Modern Governance Summit)](https://boarddocs.com/elevate)[Diligent Institute_open\_in\_new_](https://www.diligentinstitute.com/)
 
