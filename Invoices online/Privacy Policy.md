@@ -127,50 +127,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Shaun Gartshore
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=123535764)  
-Three Moons Emporium
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=18758064)  
+LEO DEVELOPMENT GROUP
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=205650211)  
-VerdanTech Pty Ltd
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=160151392)  
+CBR Verwe/Paints
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=135859420)  
-Imhoff Equestrian Centre
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=200235172)  
+Cape Adventure Zone
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=206123746)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=200524085)  
+Westside Car Audio CC
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=93605501)  
-Konsortium Operations (PTY) LTD
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=75063223)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=113101242)  
-AFS Electrical
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=11099097)  
+Lemba Truck Stop
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=132782942)  
-Goju-Ryu Pretoria East
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=148614041)  
+ARCHITEK PTY LTD
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=14825565)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=14667722)  
+Norton Medical & Consult - Namibia
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=26645148)  
-African Roots
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=63456274)  
+Depot Diesel (Pty) Ltd
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=154414008)  
-M's Frozen Delights
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=166574146)  
+Immediate Health (pty)ltd
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=152705028)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=93120446)  
+Desygn
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=188875710)  
-Vplay Letsheng Mall
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=119931652)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=5355618)  
-Sarabi
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=55348307)  
+Super Sound Man (PTY) Ltd
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=178090116)  
-Van Der Merwe Olieverspreiders
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=67933874)  
+TIGERDSL
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=bf56e22b1e4f8cadf6beffbe9024d5a34427f2ecac6cb623faf69985df6b0ac4&c=193618837)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=462562230cfc9db5ced25c23dd689f904ff25081cfe98be152a2481d46a0572f&c=21588559)  
+NJR ICT Services (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
