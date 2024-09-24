@@ -197,13 +197,17 @@ All clients of CreditNerds.com must read and understand the following statements
 
 **OUR PRICING**
 
-Our core services of Credit Repair are charged on a “Per Deletion / Repair” basis at $25 per successful deletion of repair.
+Our core services of Credit Repair are charged on a “Per Deletion / Repair” basis at $25 ($20 for couples) per successful deletion of repair.
 
 Our “Premium” mailing service is charged at $47 per round and is in exchange for printing, stuffing, and mailing the disputes. This service is for convenience and is 100% optional. The Premium Plan does not improve the liklihood of increased credit score or additional removals in any way. 
 
-All clients may CHOOSE to purchase an OPTIONAL credit audit for $97.
+**Automatic Payment Program**
 
-This fee will be charged only after the audit has been completed and delivered to the client via the online client portal.
+if a customer receives an invoice that is more that $100 ($150 for couples), they can choose to pay in full for a 20% discount OR they will be auto-enrolled into a zero interest payment plan of $100 per month ($150 for couples). The customer can choose at any time to pay off the balance of any invoice with the 20% discount. 
+
+**Cancellation Fee**
+
+All clients will be required upon cancelling to allow CreditNerds to complete a final review of the file. This will be done using the monitoring account provided to us by the client. Client will be charged for all deletions/repairs obtained during their time with us. If client does **NOT** allow CreditNerds to complete a final fail review, we will assess a $100 Cancellation fee ($150 for Couples) and charge that amount to the card on file. This fee is refundable by allowing CreditNerds to perform a final file review.
 
 * * *
 
