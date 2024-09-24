@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
+[![What are the symptoms of stage 1 ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-are-the-symptoms-of-stage-1-ovarian-cancer-scaled.jpg "What Are the Symptoms of Stage 1 Ovarian Cancer?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/ "What Are the Symptoms of Stage 1 Ovarian Cancer?")
 
-[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
+[#### What Are the Symptoms of Stage 1 Ovarian Cancer?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/)
 
-[![Do you always lose weight with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-do-you-always-lose-weight-with-lung-cancer.jpg "Do You Always Lose Weight with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/ "Do You Always Lose Weight with Lung Cancer?")
+[![Are falls a sign of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-300x200.jpg "Are Falls a Sign of Assisted Living Neglect?")](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/ "Are Falls a Sign of Assisted Living Neglect?")
 
-[#### Do You Always Lose Weight with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/)
+[#### Are Falls a Sign of Assisted Living Neglect?](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/)
 
-[![Can mesothelioma spread to other organs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-can-mesothelioma-spread-to-other-organs.jpg "Can Mesothelioma Spread to Other Organs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/ "Can Mesothelioma Spread to Other Organs?")
+[![What are the effects of elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-effects-of-elder-abuse-scaled.jpg "What Are the Effects of Elder Abuse?")](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/ "What Are the Effects of Elder Abuse?")
 
-[#### Can Mesothelioma Spread to Other Organs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/)
+[#### What Are the Effects of Elder Abuse?](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
