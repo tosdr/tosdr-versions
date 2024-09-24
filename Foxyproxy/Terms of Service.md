@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I renewed both my annual subscriptions and set them up with autorenewal.
+Thank you very much, very helpful :)
 
-Richard Atwater
+Natalie Vanns
