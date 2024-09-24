@@ -1,5 +1,7 @@
 top of page
 
+[Become a Member](https://www.togetherforchoice.org/ga-membership)
+
 [![Together-for-Choice_logo.png](https://static.wixstatic.com/media/941966_0a155bac8c7e47dbb897ec71987c2c3c~mv2.png/v1/crop/x_57,y_0,w_1543,h_800/fill/w_182,h_91,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Together-for-Choice_logo.png)](https://www.togetherforchoice.org/)
 
 * [About Us](https://www.togetherforchoice.org/aboutus)
@@ -11,12 +13,11 @@ top of page
     * [Submit a Listing](https://www.togetherforchoice.org/submit-a-listing)
     * [Thriving Communities](https://www.togetherforchoice.org/thriving-communities)
 * [Webinars & Blog](https://www.togetherforchoice.org/webinarsandblog)
+* [2025 Conference](https://www.togetherforchoice.org/savethedate2025conference)
 * More...
     
 
 Use tab to navigate through the menu items.
-
-[Become a Member](https://www.togetherforchoice.org/ga-membership)
 
 [Donate](https://together-for-choice.snwbll.com/donate-now)
 
