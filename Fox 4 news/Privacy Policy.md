@@ -400,6 +400,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Florida storm live updates: Watches expand as Potential Tropical Cyclone Nine expected to strengthen](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/PTC9.png?ve=1&tl=1)
+
+ ![Florida storm live updates: Watches expand as Potential Tropical Cyclone Nine expected to strengthen](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/PTC9.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
+
+### [Florida storm live updates: Watches expand as Potential Tropical Cyclone Nine expected to strengthen](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
+
+ [![SMU student allegedly assaulted in dorm room, suspects wanted](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/smu-assault-suspects.jpg?ve=1&tl=1)
+
+ ![SMU student allegedly assaulted in dorm room, suspects wanted](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/smu-assault-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/smu-dorm-room-assault)
+
+### [SMU student allegedly assaulted in dorm room, suspects wanted](https://www.fox4news.com/news/smu-dorm-room-assault)
+
+ [![Mesquite man killed while walking to grocery store remembered as loving family man](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/mesquite.jpg?ve=1&tl=1)
+
+ ![Mesquite man killed while walking to grocery store remembered as loving family man](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/mesquite.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-alan-belcher-motley-drive)
+
+### [Mesquite man killed while walking to grocery store remembered as loving family man](https://www.fox4news.com/news/mesquite-alan-belcher-motley-drive)
+
  [![Fort Worth police investigating deadly officer-involved shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/download-40.png?ve=1&tl=1)
 
  ![Fort Worth police investigating deadly officer-involved shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/download-40.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-shooting-selkirk-drive)
@@ -411,24 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin-today.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officer-william-martin-affidavit-shooting)
 
 ### [Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://www.fox4news.com/news/fort-worth-police-officer-william-martin-affidavit-shooting)
-
- [![DOJ seeks attempted assassination charge against suspect accused of staking out Trump at golf course](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/routh-note.jpg?ve=1&tl=1)
-
- ![DOJ seeks attempted assassination charge against suspect accused of staking out Trump at golf course](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/routh-note.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-ryan-routh-note-feds)
-
-### [DOJ seeks attempted assassination charge against suspect accused of staking out Trump at golf course](https://www.fox4news.com/news/trump-assassination-attempt-ryan-routh-note-feds)
-
- [![Florida storm live updates: Tropical Storm Watch for Florida as Potential Tropical Cyclone Nine inches closer](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/PTC9.png?ve=1&tl=1)
-
- ![Florida storm live updates: Tropical Storm Watch for Florida as Potential Tropical Cyclone Nine inches closer](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/PTC9.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
-
-### [Florida storm live updates: Tropical Storm Watch for Florida as Potential Tropical Cyclone Nine inches closer](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
-
- [![Cruz race now a 'tossup' should be warning for Texas GOP, says expert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2166461119.jpg?ve=1&tl=1)
-
- ![Cruz race now a 'tossup' should be warning for Texas GOP, says expert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2166461119.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cruz-race-now-tossup-should-be-warning-texas-gop-says-expert)
-
-### [Cruz race now a 'tossup' should be warning for Texas GOP, says expert](https://www.fox4news.com/news/cruz-race-now-tossup-should-be-warning-texas-gop-says-expert)
 
 ###### [News](https://www.fox4news.com/news)
 
