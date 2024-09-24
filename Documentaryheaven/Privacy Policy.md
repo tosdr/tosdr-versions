@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
+* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
     
-    National Security Alert
+    EP 4/6 The Private Life of Plants
     
-    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
+    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation ...](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
 
 ###### Throwback Documentaries
 
-* [![The Bully Project](/wp-content/thumbnails/7371-100x70.jpeg?x53432)
+* [![Dark Future of the Sun](/wp-content/thumbnails/5844-100x70.jpg?x53432)
     
-    The Bully Project
+    Dark Future of the Sun
     
-    The Bully Project is a documentary film that covers events during the 2009–2010 school year and follows students and their families from Texas, Mississippi, Georgia, Iowa and Oklahoma.The film al](https://documentaryheaven.com/the-bully-project/ "The Bully Project")
-* [![Can You Hack It? – Hackers Wanted](/wp-content/thumbnails/5087-100x70.jpg?x53432)
+    Our Sun has served Earth well for almost five billion years. It has bathed us with heat and energy and sustained life on our planet. But like people, our home star is mortal.In five billion years, i](https://documentaryheaven.com/dark-future-of-the-sun/ "Dark Future of the Sun")
+* [![Before Music Dies](/wp-content/thumbnails/2544-100x70.jpg?x53432)
     
-    Can You Hack It? – Hackers Wanted
+    Before Music Dies
     
-    Hackers Wanted is an unreleased American documentary film. Directed and written by Sam Bozzo, the film explores the origins and nature of hackers and hacking by following the adventures of Adrian Lamo](https://documentaryheaven.com/can-you-hack-it-hackers-wanted/ "Can You Hack It? – Hackers Wanted")
-* [![The Nine Months That Made You](/wp-content/thumbnails/6030-100x70.jpg?x53432)
+    Narrated by Academy Award® Winner Forest Whitaker, BEFORE THE MUSIC DIES is an unsettling and inspiring look at today’s popular music industry featuring interviews and performances by Erykah Badu, Eri](https://documentaryheaven.com/before-music-dies/ "Before Music Dies")
+* [![Holding the Sun](/wp-content/thumbnails/8337-100x70.jpg?x53432)
     
-    The Nine Months That Made You
+    Holding the Sun
     
-    Horizon explores the secrets of what makes a long, healthy and happy life. It turns out that a time you can’t remember – the nine months you spend in the womb – could have more lasting effects on you](https://documentaryheaven.com/the-nine-months-that-made-you/ "The Nine Months That Made You")
-* [![Is Amanda Knox Guilty?](/wp-content/thumbnails/8537-100x70.jpg?x53432)
+    In Holding the Sun we get to look into a Canadian family’s struggle to save their son from schizophrenia and cope with the consequences of the condition. The Millar family was torn apart when on May 3](https://documentaryheaven.com/holding-sun/ "Holding the Sun")
+* [![Questioning Darwin](/wp-content/thumbnails/9960-100x70.jpg?x53432)
     
-    Is Amanda Knox Guilty?
+    Questioning Darwin
     
-    On November the 2nd 2007 police in Perusia  receive a phone call, there's been a break in, police arrive they discover a young women has been stabbed to death, she is Meredith Kercher. A british](https://documentaryheaven.com/is-amanda-knox-guilty/ "Is Amanda Knox Guilty?")
-* [![The Bank of Tax Cheats](/wp-content/thumbnails/10053-100x70.jpg?x53432)
+    For those Christians who believe their Bible is the word of God, the literal truth, one man is held up as the antichrist, he is Charles Darwin, their reasoning?, for leading millions of Christians ast](https://documentaryheaven.com/questioning-darwin/ "Questioning Darwin")
+* [![British Neo Nazis](/wp-content/thumbnails/8164-100x70.jpg?x53432)
     
-    The Bank of Tax Cheats
+    British Neo Nazis
     
-    In this episode of BBC's Panorama, serious questions are raised for the British government and the city of London, all in regards to an apparent effort by the biggest bank to help some of their bigges](https://documentaryheaven.com/bank-of-tax-cheats/ "The Bank of Tax Cheats")
+    100% White is a powerful portrait of men trapped on the margins of society. Leo Regan's subjects, Colin, Neil and Nick, may have left their neo-Nazi gang behind, but shedding their own fear, hatred an](https://documentaryheaven.com/british-neo-nazis/ "British Neo Nazis")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
