@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Senator Warns of Looming Port Strike That Threatens to Cripple US Supply Chain](https://www.theepochtimes.com/us/senator-warns-of-looming-port-strike-that-threatens-to-cripple-us-supply-chain-5729134)
+* [Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://www.theepochtimes.com/us/caroline-ellison-sentenced-to-2-years-in-prison-for-role-in-ftx-fraud-scandal-5729462)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek) and [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![Senator Warns of Looming Port Strike That Threatens to Cripple US Supply Chain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Senator Warns of Looming Port Strike That Threatens to Cripple US Supply Chain](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668147-baltimore-bridge-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/senator-warns-of-looming-port-strike-that-threatens-to-cripple-us-supply-chain-5729134)
-* [Striking Union Rejects Boeing’s ‘Best And Final’ Offer of 30 Percent Wage Hike](https://www.theepochtimes.com/business/striking-union-rejects-boeings-best-and-final-offer-of-30-percent-wage-hike-5728975)
+    ![Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://img.theepochtimes.com/assets/uploads/2024/09/id5729002-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/caroline-ellison-sentenced-to-2-years-in-prison-for-role-in-ftx-fraud-scandal-5729462)
+* [What Is Eco-Anxiety and Why Is It on the Rise?](https://www.theepochtimes.com/article/what-is-eco-anxiety-and-why-is-it-on-the-rise-5726037)
     
-    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    NEW By [Katie Spence](https://www.theepochtimes.com/author/katie-spence)
     
-    [![Striking Union Rejects Boeing’s ‘Best And Final’ Offer of 30 Percent Wage Hike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What Is Eco-Anxiety and Why Is It on the Rise?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Striking Union Rejects Boeing’s ‘Best And Final’ Offer of 30 Percent Wage Hike](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724004-GettyImages-2170940748-205x123.jpg.webp)](https://www.theepochtimes.com/business/striking-union-rejects-boeings-best-and-final-offer-of-30-percent-wage-hike-5728975)
-* [Former AG Bill Barr Says DOJ Shouldn’t Have Released Letter of Trump Assassination Attempt Suspect](https://www.theepochtimes.com/us/former-ag-bill-barr-says-doj-shouldnt-have-released-letter-of-trump-assassination-attempt-suspect-5729080)
+    ![What Is Eco-Anxiety and Why Is It on the Rise?](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729384-Eco-Anxiety-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-is-eco-anxiety-and-why-is-it-on-the-rise-5726037)
+* [Pennsylvania County Must Update Voters on Mail-In Ballot Status: Court](https://www.theepochtimes.com/us/pennsylvania-county-must-update-voters-on-mail-in-ballot-status-court-5729369)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Former AG Bill Barr Says DOJ Shouldn’t Have Released Letter of Trump Assassination Attempt Suspect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pennsylvania County Must Update Voters on Mail-In Ballot Status: Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Former AG Bill Barr Says DOJ Shouldn’t Have Released Letter of Trump Assassination Attempt Suspect](https://img.theepochtimes.com/assets/uploads/2024/04/17/id5631658-GettyImages-1229087712-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-ag-bill-barr-says-doj-shouldnt-have-released-letter-of-trump-assassination-attempt-suspect-5729080)
-* [X Complies With Brazilian Court Demand That Led to Shutdown](https://www.theepochtimes.com/world/x-complies-with-brazilian-court-demand-that-led-to-shutdown-5728994)
+    ![Pennsylvania County Must Update Voters on Mail-In Ballot Status: Court](https://img.theepochtimes.com/assets/uploads/2022/06/12/ballot-GettyImages-1241059044-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-county-must-update-voters-on-mail-in-ballot-status-court-5729369)
+* [Nebraska Governor Ends Push for Winner-Take-All Electoral Vote System, Won’t Call Special Session](https://www.theepochtimes.com/us/nebraska-governor-ends-push-for-winner-take-all-electoral-vote-system-wont-call-special-session-5729332)
     
-    4hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![X Complies With Brazilian Court Demand That Led to Shutdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Nebraska Governor Ends Push for Winner-Take-All Electoral Vote System, Won’t Call Special Session](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![X Complies With Brazilian Court Demand That Led to Shutdown](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729138-GettyImages-2170018727KO-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/x-complies-with-brazilian-court-demand-that-led-to-shutdown-5728994)
-* [Telegram Agrees to Give Phone Numbers and IP Addresses to Authorities](https://www.theepochtimes.com/tech/telegram-agrees-to-give-phone-numbers-and-ip-addresses-to-authorities-5728980)
+    ![Nebraska Governor Ends Push for Winner-Take-All Electoral Vote System, Won’t Call Special Session](https://img.theepochtimes.com/assets/uploads/2023/08/01/id5437858-Nebraska-Governor-Jim-Pillen-205x123.jpg.webp)](https://www.theepochtimes.com/us/nebraska-governor-ends-push-for-winner-take-all-electoral-vote-system-wont-call-special-session-5729332)
+* [House GOP Will Move to Hold Blinken in Contempt of Congress](https://www.theepochtimes.com/us/house-gop-will-move-to-hold-blinken-in-contempt-of-congress-5729207)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
-    [![Telegram Agrees to Give Phone Numbers and IP Addresses to Authorities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House GOP Will Move to Hold Blinken in Contempt of Congress](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Telegram Agrees to Give Phone Numbers and IP Addresses to Authorities](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729012-GettyImages-2168604017-205x123.jpg.webp)](https://www.theepochtimes.com/tech/telegram-agrees-to-give-phone-numbers-and-ip-addresses-to-authorities-5728980)
-* [Israel Strikes ‘Dozens’ More Hezbollah Targets Overnight](https://www.theepochtimes.com/world/israel-strikes-dozens-more-hezbollah-targets-overnight-5728981)
+    ![House GOP Will Move to Hold Blinken in Contempt of Congress](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729505-GettyImages-2173268290-Antony-Blinken.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-gop-will-move-to-hold-blinken-in-contempt-of-congress-5729207)
+* [Jack Smith Readies ‘Oversized’ Filing in Trump Election Case](https://www.theepochtimes.com/us/jack-smith-readies-oversized-filing-in-trump-election-case-5729351)
     
-    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Israel Strikes ‘Dozens’ More Hezbollah Targets Overnight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Jack Smith Readies ‘Oversized’ Filing in Trump Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Strikes ‘Dozens’ More Hezbollah Targets Overnight](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729072-Lebanon-strikes.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-strikes-dozens-more-hezbollah-targets-overnight-5728981)
-* [Biden Advocates for Stronger UN Amid Ongoing Wars in Israel, Ukraine](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
+    ![Jack Smith Readies ‘Oversized’ Filing in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717134-Jack-Smith-Donald-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/jack-smith-readies-oversized-filing-in-trump-election-case-5729351)
+* [China Exploits US-Funded Research to Boost Military, Report Says](https://www.theepochtimes.com/china/china-exploits-us-funded-research-to-boost-military-report-says-5729215)
     
-    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Biden Advocates for Stronger UN Amid Ongoing Wars in Israel, Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![China Exploits US-Funded Research to Boost Military, Report Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Advocates for Stronger UN Amid Ongoing Wars in Israel, Ukraine](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729211-Biden-last-UN-speech-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
-* [China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://www.theepochtimes.com/us/china-iran-russia-using-ai-to-influence-us-elections-intelligence-community-warns-5728862)
+    ![China Exploits US-Funded Research to Boost Military, Report Says](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729504-GettyImages-1257653132-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-exploits-us-funded-research-to-boost-military-report-says-5729215)
+* [DOJ Sues Visa Over Alleged Illegal Monopoly on Debit Transactions](https://www.theepochtimes.com/business/doj-sues-visa-over-alleged-illegal-monopoly-on-debit-transactions-5729382)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DOJ Sues Visa Over Alleged Illegal Monopoly on Debit Transactions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711644-GettyImages-2081068958-205x123.jpg.webp)](https://www.theepochtimes.com/us/china-iran-russia-using-ai-to-influence-us-elections-intelligence-community-warns-5728862)
-* [High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://www.theepochtimes.com/us/falling-response-rates-may-affect-quality-data-collection-in-monthly-jobs-report-5728586)
+    ![DOJ Sues Visa Over Alleged Illegal Monopoly on Debit Transactions](https://img.theepochtimes.com/assets/uploads/2024/06/25/id5675284-Visa-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/doj-sues-visa-over-alleged-illegal-monopoly-on-debit-transactions-5729382)
+* [Brett Favre Announces Parkinson’s Diagnosis](https://www.theepochtimes.com/sports/brett-favre-announces-parkinsons-diagnosis-5729239)
     
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Brett Favre Announces Parkinson’s Diagnosis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://img.theepochtimes.com/assets/uploads/2024/09/id5726803-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/falling-response-rates-may-affect-quality-data-collection-in-monthly-jobs-report-5728586)
-* [Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://www.theepochtimes.com/business/manufacturing-slumps-to-15-month-low-as-inflation-reaccelerates-5728744)
+    ![Brett Favre Announces Parkinson’s Diagnosis](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729263-Favre_Parkinson_s_24268581553948-205x123.jpg.webp)](https://www.theepochtimes.com/sports/brett-favre-announces-parkinsons-diagnosis-5729239)
+* [China Unveils Sweeping Stimulus Plan Amid Faltering Economy](https://www.theepochtimes.com/china/china-unveils-sweeping-stimulus-plan-amid-faltering-economy-5729149)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![China Unveils Sweeping Stimulus Plan Amid Faltering Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722409-GettyImages-1151712640-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/manufacturing-slumps-to-15-month-low-as-inflation-reaccelerates-5728744)
+    ![China Unveils Sweeping Stimulus Plan Amid Faltering Economy](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5706888-GettyImages-1252078065-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-unveils-sweeping-stimulus-plan-amid-faltering-economy-5729149)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
