@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[4 Benefits of Aging in Place](https://www.visitingangels.com/knowledge-center/care-options/4-benefits-of-aging-in-place/348)
+[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
 
-[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
+[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
 
-[3 Reasons Why Elderly Socialization is Critical](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/3-reasons-why-elderly-socialization-is-critical/3)
+[Things Change: What to Do When Your Senior Loved One Stops Doing Things They Love](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/things-change-what-to-do-when-your-senior-loved-one-stops-doing-things-they-love/371)
 
-[The Importance of Choice in Elder Care Services](https://www.visitingangels.com/knowledge-center/selecting-care/the-importance-of-choice-in-elder-care-services/383)
+[Part 1: Expert Advice When Caring for a Loved One with Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-1-expert-advice-when-caring-for-a-loved-one-with-dementia/367)
 
-[Memory Care Study Links Colorful Vegetables to Healthier Minds](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/memory-care-study-links-colorful-vegetables-to-healthier-minds/114)
+[Does Your Loved One Need Elder Care Services?](https://www.visitingangels.com/knowledge-center/care-options/does-your-loved-one-need-elder-care-services/53)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
