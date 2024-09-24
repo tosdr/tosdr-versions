@@ -57,8 +57,8 @@
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
 * [‘Fighter’](https://www.breitbart.com/tag/fighter/)
 * [2nd Attempt](https://www.breitbart.com/tag/ryan-wesley-routh/)
-* [Taylor Swift](https://www.breitbart.com/tag/taylor-swift/)
 * [Springfield, OH](https://www.breitbart.com/tag/springfield/)
+* [Diddy](https://www.breitbart.com/tag/diddy/)
 * [Google Ad Trial](https://www.breitbart.com/tag/google/)
 
 Breitbart Privacy Policy
