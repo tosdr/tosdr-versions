@@ -670,7 +670,7 @@ EU GDPR Representative: Moloco Germany GmbH, with registered address Am Zirkus 2
 Privacy Policy | Brand Safety Policy  |  Advertising Policy
 
 © 2024 Moloco, Inc. All Rights Reserved  
-[Privacy Policy](https://www.molocoads.com/privacy-policy) | [Brand Safety Policy](https://www.molocoads.com/brand-safety-policy) | [Advertising Policy](https://www.molocoads.com/advertising-policy) | [Terms of Use](https://www.molocoads.com/terms-of-use) | [Your Privacy Choices](#)
+[Privacy Policy](https://www.molocoads.com/privacy-policy) | [Brand Safety Policy](https://www.molocoads.com/brand-safety-policy) | [Advertising Policy](https://www.molocoads.com/advertising-policy) | [Terms of Use](https://www.molocoads.com/terms-of-use) | [Security](https://www.molocoads.com/security) | [Your Privacy Choices](#)
 
 [![Facebook logo
 ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544d08be7180b8d187a5070_facebook-icon.webp)](https://www.facebook.com/MolocoGlobal)[![Twitter logo
