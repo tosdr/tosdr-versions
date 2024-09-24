@@ -331,6 +331,7 @@ Zavřít menu
     * [Odpovědnost](https://o-seznam.cz/odpovednost/)
     * [Kontakty](https://o-seznam.cz/kontakty/)
     * [Právní informace](https://o-seznam.cz/pravni-informace/)
+    * [Zpracování osobních údajů](https://o-seznam.cz/pravni-informace/ochrana-udaju/souhlas/)
     * [Ochrana osobních údajů](https://o-seznam.cz/pravni-informace/ochrana-udaju/)
 
 [![Seznam.cz](https://o-seznam.cz/pravni-informace/wp-content/themes/seznam/assets/images/logo.svg)](https://o.seznam.cz/)
