@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-cf50a4f3af4fa0714e84f5eedc6877f2
+bbe4eb787d9dedf53f928371a3951ebe
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Fancy jasper round beads](https://www.sojourner.biz/images/cache/stone/STN025.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-round-beads.html "Fancy jasper round beads")
+[![Square Swarovski crystal clasp](https://www.sojourner.biz/images/cache/SKU0097.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-#### [Fancy jasper round beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-round-beads.html "Fancy jasper round beads")
+#### [Square Swarovski crystal clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-$18.00
+$49.00
 
 ### Best Sellers
 
