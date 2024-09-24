@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/john-kennedy-liet-ons-order-11110-na-wauw/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/who-hield-ivermectine-met-opzet-tegen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
