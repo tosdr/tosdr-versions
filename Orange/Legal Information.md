@@ -6,7 +6,7 @@
 * [Orange Business](https://www.orange-business.com/en "Orange Business")
 * [Orange Jobs](https://orange.jobs/site/en-home/ "Orange Jobs")
 
-[![Home](/themes/theme_boosted/Master_Logo_RGB.png)](https://www.orange.com/ "Logo")
+ [![Home](/themes/theme_boosted/Master_Logo_RGB.png) ![Home](/themes/theme_boosted/Small_Logo_RGB.png)](https://www.orange.com/ "Logo")
 
 * Algolia Search bar
 * [fr](https://www.orange.com/fr/notice-sur-la-protection-des-donnees-personnelles)
@@ -125,7 +125,7 @@
 
 Search 
 
-                    ![mention légales](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0  "%3E%3C/svg%3E)
+          ![mention légales](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300"%3E%3C/svg%3E)
 
 1. [](https://www.orange.com/en)
 2. Privacy Notice: protecting your personal data
@@ -135,11 +135,11 @@ Privacy Notice: protecting your personal data
 
 [webreader](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=5725&&lang=en&&voice=claire22k&&readid=rs-content&&url=https%3A%2F%2Fwww.orange.com%2Fen%2Fprivacy-notice-protecting-your-personal-data "Ecoutez le texte avec ReadSpeaker webReader")
 
-[](#collapseShare)
+[Share](#collapseShare)
 
 * [Facebook](http://www.facebook.com/share.php?u=https://oran.ge/3vlFj4H&title=Privacy%20Notice:%20protecting%20your%20personal%20data)
 * [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://oran.ge/3vlFj4H&title=Privacy%20Notice:%20protecting%20your%20personal%20data&source=https://oran.ge/3vlFj4H)
-* [twitter](https://twitter.com/intent/tweet?url=https://oran.ge/3vlFj4H&text=Privacy%20Notice:%20protecting%20your%20personal%20data)
+* [X](https://x.com/intent/tweet?url=https://oran.ge/3vlFj4H&text=Privacy%20Notice:%20protecting%20your%20personal%20data)
 * [Mail](mailto:?subject=Privacy%20Notice%3A%20protecting%20your%20personal%20data&body=Check%20out%20this%20site%20https://www.orange.com/en/privacy-notice-protecting-your-personal-data)
 
 If you want to interact with Orange via [www.orange.com](https://www.orange.com/en), the app [Orange News](https://www.orange.com/en/newsroom/news/2021/orange-news-news-about-group-and-digital-tech-your-pocket) and other corporate sites, personal data will be collected about you in order to process your request and/or send you the desired information. This process is based on your consent. The processing of your data will serve to respond to your requests.   
