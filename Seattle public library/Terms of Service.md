@@ -136,7 +136,7 @@
     * [About Us](https://www.spl.org/about-us)
     * [Ask Us](https://www.spl.org/using-the-library/ask-us "Ask Us")
     * [Accessibility](https://www.spl.org/using-the-library/accessibility "Accessibility Information")
-    * [Get Started](https://www.spl.org/using-the-library/get-started "Get Started")
+    * [Get Started](https://www.spl.org/using-the-library/get-started-x10116 "Get Started")
     * [Manage Your Account](https://www.spl.org/using-the-library/manage-your-account "Manage Your Account")
     * [Plan a Visit](https://www.spl.org/using-the-library/plan-a-visit "Plan a Visit")
     * [Using this Website](https://www.spl.org/using-the-library/using-this-website "Using this Website")
