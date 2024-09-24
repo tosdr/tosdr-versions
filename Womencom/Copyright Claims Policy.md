@@ -41,18 +41,18 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Gwen Stefani on stage](https://www.women.com/img/gallery/the-libra-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1726692736.jpg)](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
     
-    [Living](https://www.women.com/category/living/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
     
-    [The Libra Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
-    =============================================================================================================================================
+    [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    ===================================================================================================================================================================
     
-    There are a handful of celebrities who show us what it means to be a Libra, perfectly embodying this diplomatic, romantic, and idealistic zodiac sign.
+    Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
     
 * *  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
         
@@ -66,34 +66,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
         
-    *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    *  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
         
-        [Exclusives](https://www.women.com/category/exclusives/)
+        [Living](https://www.women.com/category/living/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        [Living](https://www.women.com/category/living/) By Amanda Chatel
         
-        ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+        ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
         
-        Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
+        The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
         
-        By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+        By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
         
 
 More Stories
 ------------
 
-*  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-    
-    The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-    
 *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/sabrina-carpenter-outfits-that-prove-why-shes-the-new-it-girl/intro-1726692701.jpg)](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -117,6 +105,18 @@ More Stories
     "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
     
     By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
+    
+*  [![Gwen Stefani on stage](https://www.women.com/img/gallery/the-libra-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1726692736.jpg)](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [The Libra Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
+    
+    There are a handful of celebrities who show us what it means to be a Libra, perfectly embodying this diplomatic, romantic, and idealistic zodiac sign.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
     
 *  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
