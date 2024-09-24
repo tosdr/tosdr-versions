@@ -8,6 +8,8 @@ Shop a
 
 Room Solutions a
 
+Resources a
+
 [Join a Live Demo](https://owllabs.com/live-demo)
 
 [Nest Login](https://nest.owllabs.com/)
@@ -141,6 +143,35 @@ up to 18 participants](https://owllabs.com/room-solutions-large)
 #### U Shape
 
 up to 18 participants](https://owllabs.com/room-solutions-u-shaped)
+
+![Nav | SOHW | SOHW Call Out](//images.ctfassets.net/hc4og0i2padt/75BJjjsyEDo2JerPusE88d/19b01cf030800c03a710b94e675a8dee/Website-Promo-Image_1080x1080_US_2x.jpg?w=3840&fm=webp 3840w)
+
+* Data Study
+
+#### State of Hybrid Work 2024
+
+The way we work is forever changed. In Owl Labs’ 8th Annual State of Hybrid Work report, we'll uncover the latest trends and topics when it comes to hybrid, remote, and in-office work.
+
+[View Study](https://owllabs.com/state-of-hybrid-work/2024)
+
+![Nav | Blog | MO4+ Call Out](//images.ctfassets.net/hc4og0i2padt/6ruIE9YJHmm6TAF9mnmITK/b18ef81c589ff75cb5f02aeddb1013da/Social-Paid_Facebook-Instagram-LinkedIn-Twitter_Square-1_1_1080x1080-1-MO4_.jpg?w=3840&fm=webp 3840w)
+
+* Meetings
+* Owl Labs
+
+#### Meet the Meeting Owl 4+
+
+Hybrid meetings have now become the norm, and the hybrid technology that makes collaboration engaging and productive has become vital for any business. That’s why, we’re excited to introduce the Meeting Owl 4+.
+
+[Read Article](https://resources.owllabs.com/blog/-meet-meeting-owl-4-plus)
+
+![Home | Features | Manage Fleet](//images.ctfassets.net/hc4og0i2padt/MZ7GTCJi43t3xBwweXbYS/124845425d2459e63b0fef4619bc853d/manage_fleet_setup.png?w=3840&fm=webp 3840w)
+
+#### Meeting Owl App
+
+Control your Meeting Owls from the Meeting Owl app, available for mobile, tablet, and desktop. Register your devices, access new features, and customize your Meeting Owl settings so every meeting is productive and collaborative.
+
+[Download App](https://resources.owllabs.com/app-download)
 
 ![PDP | MOP | Technology | Make yourself heard](//images.ctfassets.net/hc4og0i2padt/4viT8Da9J7F6DBDmlOFey7/600dc4f56450d257afd3e6b79b3dd2f3/tech_heard.jpg?w=3840&fm=webp 3840w)
 
