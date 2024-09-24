@@ -240,16 +240,25 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
+### DNSSEC
 
   
+
+#### Our redundant DNS solution is fully supported with DNSSEC
+
   
 
-### Free for Open Source Projects
-
-We love open source projects. Contact us with details of your project.  
   
-[Contact Us](https://www.dynu.com/Support/ContactUs)
+
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
+  
+
+  
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
+
+  
 
 ### News
 
