@@ -386,3 +386,4 @@ Footer
 
 * [Gdpr](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/european-general-data-protection-regulation-gdpr)
 * Cookie consent management
+* [Digital accessibility](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion/accessibility-statement)
