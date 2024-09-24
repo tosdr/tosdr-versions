@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![EP 4/6 The Private Life of Plants](/wp-content/thumbnails/2493-100x70.jpg?x53432)
+* [![The Guantanamo Guidebook](/wp-content/thumbnails/4319-100x70.jpg?x53432)
     
-    EP 4/6 The Private Life of Plants
+    The Guantanamo Guidebook
     
-    Broadcast 26 January 1995, this episode examines how plants either share environments harmoniously or compete for dominance within them. Attenborough highlights the 1987 hurricane and the devastation ...](https://documentaryheaven.com/the-private-life-of-plants-4/ "EP 4/6 The Private Life of Plants")
+    British Channel 4 engaged the Team Delta Cadre to recreate the Guantanamo Bay interrogation experience.At the production company’s request, along with Team Delta’s normal approach to interrogation...](https://documentaryheaven.com/the-guantanamo-guidebook/ "The Guantanamo Guidebook")
 
 ###### Throwback Documentaries
 
-* [![Dark Future of the Sun](/wp-content/thumbnails/5844-100x70.jpg?x53432)
+* [![Hitler’s Children: War](/wp-content/thumbnails/2843-100x70.jpg?x53432)
     
-    Dark Future of the Sun
+    Hitler’s Children: War
     
-    Our Sun has served Earth well for almost five billion years. It has bathed us with heat and energy and sustained life on our planet. But like people, our home star is mortal.In five billion years, i](https://documentaryheaven.com/dark-future-of-the-sun/ "Dark Future of the Sun")
-* [![Before Music Dies](/wp-content/thumbnails/2544-100x70.jpg?x53432)
+    Never has a generation been so completely taken over by a totalitarian state as was the case in Hitler’s Third Reich: at the age of 10 children joined the “Jungvolk” movement, at 14 they joined the Hi](https://documentaryheaven.com/hitlers-children-war/ "Hitler’s Children: War")
+* [![Back of the Busk](/wp-content/thumbnails/7405-100x70.jpg?x53432)
     
-    Before Music Dies
+    Back of the Busk
     
-    Narrated by Academy Award® Winner Forest Whitaker, BEFORE THE MUSIC DIES is an unsettling and inspiring look at today’s popular music industry featuring interviews and performances by Erykah Badu, Eri](https://documentaryheaven.com/before-music-dies/ "Before Music Dies")
-* [![Holding the Sun](/wp-content/thumbnails/8337-100x70.jpg?x53432)
+    An online mini-series about street/subway performers who busk in New York City.New York City is one of the few metropolis' in the world that supports buskers and is known as a "Busker Haven" when](https://documentaryheaven.com/back-of-the-busk/ "Back of the Busk")
+* [![What Ever Happened to Hip Hop?](/wp-content/thumbnails/7004-100x70.jpg?x53432)
     
-    Holding the Sun
+    What Ever Happened to Hip Hop?
     
-    In Holding the Sun we get to look into a Canadian family’s struggle to save their son from schizophrenia and cope with the consequences of the condition. The Millar family was torn apart when on May 3](https://documentaryheaven.com/holding-sun/ "Holding the Sun")
-* [![Questioning Darwin](/wp-content/thumbnails/9960-100x70.jpg?x53432)
+    It began with the beat of the drum. With the beat, came a voice for those without one. From this voice, came a movement. Overcoming the odds, the originators of hip hop took their music from block par](https://documentaryheaven.com/what-ever-happened-to-hip-hop/ "What Ever Happened to Hip Hop?")
+* [![Dirty Gold War](/wp-content/thumbnails/13486-100x70.jpg?x53432)
     
-    Questioning Darwin
+    Dirty Gold War
     
-    For those Christians who believe their Bible is the word of God, the literal truth, one man is held up as the antichrist, he is Charles Darwin, their reasoning?, for leading millions of Christians ast](https://documentaryheaven.com/questioning-darwin/ "Questioning Darwin")
-* [![British Neo Nazis](/wp-content/thumbnails/8164-100x70.jpg?x53432)
+    Dirty Gold War is a tale about the truths which lie behind the thriving industry of gold. On one side of it you have the end product which is associated with love, celebration and displays of wea](https://documentaryheaven.com/dirty-gold-war/ "Dirty Gold War")
+* [![A River of Waste: The Hazardous Truth About Factory Farms](/wp-content/thumbnails/7227-100x70.jpg?x53432)
     
-    British Neo Nazis
+    A River of Waste: The Hazardous Truth About Factory Farms
     
-    100% White is a powerful portrait of men trapped on the margins of society. Leo Regan's subjects, Colin, Neil and Nick, may have left their neo-Nazi gang behind, but shedding their own fear, hatred an](https://documentaryheaven.com/british-neo-nazis/ "British Neo Nazis")
+    A heart-stopping new documentary, A RIVER OF WASTE exposes a huge health and environmental scandal in our modern industrial system of meat and poultry production. Some scientists have gone so far as t](https://documentaryheaven.com/river-of-waste-hazardous-truth-about-factory-farms/ "A River of Waste: The Hazardous Truth About Factory Farms")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
