@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5de45952339e46cd04476facc63118b1
+589b040906055b21393a28d7b847710b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm vintage Czech flower beads](https://www.sojourner.biz/images/cache/glass/GL0060.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-vintage-czech-flower-beads.html "10 mm vintage Czech flower beads")
+[![9 mm small blue triangle beads](https://www.sojourner.biz/images/cache/glass/GL0311ten.200.jpg)](https://www.sojourner.biz/beads/glass/9-mm-small-blue-triangle-beads.html "9 mm small blue triangle beads")
 
-#### [10 mm vintage Czech flower beads](https://www.sojourner.biz/beads/glass/10-mm-vintage-czech-flower-beads.html "10 mm vintage Czech flower beads")
+#### [9 mm small blue triangle beads](https://www.sojourner.biz/beads/glass/9-mm-small-blue-triangle-beads.html "9 mm small blue triangle beads")
 
-$6.00
+$3.00
 
 ### Best Sellers
 
