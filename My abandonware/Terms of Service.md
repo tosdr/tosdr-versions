@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Food Fight](https://www.myabandonware.com/game/food-fight-adl)
-* [G-Loc: Air Battle](https://www.myabandonware.com/game/g-loc-air-battle-6it)
-* [Flashpoint](https://www.myabandonware.com/game/flashpoint-aph)
-* [Gemini Wing](https://www.myabandonware.com/game/gemini-wing-639)
-* [Galivan](https://www.myabandonware.com/game/galivan-61v)
+* [Gallop Racer](https://www.myabandonware.com/game/gallop-racer-sh6)
+* [Fire One!](https://www.myabandonware.com/game/fire-one-sh5)
+* [Final Lap R](https://www.myabandonware.com/game/final-lap-r-sh4)
+* [Galaxy Game](https://www.myabandonware.com/game/galaxy-game-sh3)
+* [Final Fight Revenge](https://www.myabandonware.com/game/final-fight-revenge-nbi)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [PokéROM: Togepi](https://www.myabandonware.com/game/pokerom-togepi-fu3)
-* [Hit Pack #1](https://www.myabandonware.com/game/hit-pack-1-klh)
-* [Katerpillar Attack](https://www.myabandonware.com/game/katerpillar-attack-ono)
+* [Jonah: A VeggieTales Game](https://www.myabandonware.com/game/jonah-a-veggietales-game-m96)
+* [VeggieTales Dance Dance Dance!](https://www.myabandonware.com/game/veggietales-dance-dance-dance-m9b)
+* [Kick Off 2: Giants of Europe](https://www.myabandonware.com/game/kick-off-2-giants-of-europe-7co)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
