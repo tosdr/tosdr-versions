@@ -1,6 +1,4 @@
-[Breaking: 1 dead, 1 injured in shootout inside SW Atlanta grocery store](https://www.ajc.com/news/crime/1-dead-another-injured-in-shooting-at-sw-atlanta-grocery-store/6CWDUUIIHNDQDI4A6PSXJOD4YY/)
-
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1692)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1692)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1694)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1694)](https://www.ajc.com/)
 
 Log In
 
@@ -23,7 +21,7 @@ Log In
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 * [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1692)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1694)
 
 * Quick Links
     
@@ -147,7 +145,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1692)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1694)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
