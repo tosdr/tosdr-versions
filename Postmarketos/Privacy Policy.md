@@ -11,7 +11,7 @@ If this policy changes, the changes will be published here.
 
 [Contribute](https://wiki.postmarketos.org/wiki/Contributing)
 
-[Back to Top](#^)[Feed](https://postmarketos.org/blog/feed.atom)[Privacy Policy](https://postmarketos.org/privacy-policy)[Code of Conduct](https://postmarketos.org/coc)
+[Feed](https://postmarketos.org/blog/feed.atom)[Privacy Policy](https://postmarketos.org/privacy-policy)[Code of Conduct](https://postmarketos.org/coc)
 
 © 2024 postmarketOS.org contributors  
 design by [Dika Setya](https://gitlab.com/dikasetyaprayogi), [Markus Göllnitz](https://bewares.it/) and [Oliver Smith](https://postmarketos.org/core-contributors/#oliver-smith-ollieparanoid)
