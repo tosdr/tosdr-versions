@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=54 "WonderTANG! Who wants to juice up your MSX?")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
+* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
+* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958 "Tracing the V9958")
 * [Weak SCC sounds on Playsoniq](https://www.msx.org/forum/msx-talk/hardware/weak-scc-sounds-on-playsoniq "Weak SCC sounds on Playsoniq")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=54 "WonderTANG! Who wants to juice up your MSX?")
 * [Gradius / Nemesis with SCC and smoothscroll without arcade graphics?](https://www.msx.org/forum/msx-talk/software/gradius-nemesis-with-scc-and-smoothscroll-without-arcade-graphics?page=1 "Gradius / Nemesis with SCC and smoothscroll without arcade graphics?")
 * [9990 Copy speed](https://www.msx.org/forum/msx-talk/development/9990-copy-speed "9990 Copy speed")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
 * [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
 * [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0?page=2 "Carnivore2+ announcements")
 * [Franky SSMS.COM patches: Where are they ?](https://www.msx.org/forum/msx-talk/general-discussion/franky-ssmscom-patches-where-are-they?page=3 "Franky SSMS.COM patches: Where are they ?")
 * [Performance Profiler - A first attempt](https://www.msx.org/forum/msx-talk/openmsx/performance-profiler-first-attempt?page=10 "Performance Profiler - A first attempt")
-* [Gotek floppy display for Philis NMS8245 MSX2](https://www.msx.org/forum/msx-talk/hardware/gotek-floppy-display-for-philis-nms8245-msx2 "Gotek floppy display for Philis NMS8245 MSX2")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
-* [MSX disk directly to MegaFlashrom folder](https://www.msx.org/forum/msx-talk/development/msx-disk-directly-to-megaflashrom-folder "MSX disk directly to MegaFlashrom folder")
-* [Debug your MSX with VSCode](https://www.msx.org/forum/msx-talk/development/debug-your-msx-with-vscode?page=7 "Debug your MSX with VSCode")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
@@ -173,7 +173,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
