@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Powerful Effect of Repetition On Beliefs](https://www.sciencedaily.com/releases/2024/09/240923184943.htm)
 * [Rapid Loss of Antarctic Ice After 2100 Likely](https://www.sciencedaily.com/releases/2024/09/240912142344.htm)
 * [New Rules? Redefining 'Sustainable Fishing'](https://www.sciencedaily.com/releases/2024/09/240923110742.htm)
 * [Origins of Horseback Riding](https://www.sciencedaily.com/releases/2024/09/240920165153.htm)
@@ -217,7 +218,6 @@ this hour
 * [Lake Ice Quality Degrading as Planet Warms](https://www.sciencedaily.com/releases/2024/09/240919115157.htm)
 * [Lava from Hotspots from Worldwide Reservoir](https://www.sciencedaily.com/releases/2024/09/240919115023.htm)
 * [Slap Fighting: Risk to Neurological Health](https://www.sciencedaily.com/releases/2024/09/240918125032.htm)
-* [Palaeolithic Cyprus: Dwarf Hippos and Elephants](https://www.sciencedaily.com/releases/2024/09/240917195402.htm)
 
 Trending Topics
 ---------------
@@ -244,11 +244,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
-
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+
+[Trees](https://www.sciencedaily.com/news/plants_animals/trees/)
 
   
 
