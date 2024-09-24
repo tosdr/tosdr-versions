@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel and Hezbollah renew fire after the deadliest day in Lebanon since 2006](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
+    * [Israeli military says it killed a top commander with Hezbollah's missile and rocket unit](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
     * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
-    * [World leaders meet under shadow of global divisions, 3 wars and possible Mideast conflict](https://apnews.com/article/un-world-leaders-gaza-ukraine-sudan-e9b8bd0ee132f6a7f56555975f67b0de)
+    * [US Navy replenishment ship operating in Mideast was damaged in an incident, officials say](https://apnews.com/article/us-navy-big-horn-mideast-israel-hamas-war-2e03c24dece6807bac359bf86c5a81dd)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Gunman who killed 10 at a Colorado supermarket is sentenced to life in prison](https://apnews.com/article/colorado-supermarket-shooting-ahmad-alissa-71d0750ba3b096dcbe51b390eee5d7db)
-    * [There are 5 executions set over a week's span in the US. That's the most in decades](https://apnews.com/article/executions-oklahoma-alabama-missouri-texas-south-carolina-d77a31bea7a4839424afc8889c7d8755)
-    * [Southeast US under major storm warning as hurricane watch issued for parts of Cuba and Mexico](https://apnews.com/article/caribbean-us-tropical-storm-hurricane-helene-a1582935d0b9002bc8993b483c203206)
+    * [Tropical Storm Helene forms in Caribbean. It's expected to become a hurricane and move toward US](https://apnews.com/article/tropical-weather-hurricane-caribbean-c7b70ac631e5fc5df86900b6ee141fb5)
+    * [Weeks after a school shooting, students return for classes at Apalachee High School](https://apnews.com/article/apalachee-school-shooting-georgia-classes-students-bf05029b20cf85430ab974dddf583c18)
+    * [Tyreek Hill's traffic stop can be a reminder of drivers' constitutional rights](https://apnews.com/article/tyreek-hill-constitutional-rights-traffic-stop-6dd2ad077cecd176bea840ba77012d6a)
     
     Newsletters
     
@@ -53,8 +53,8 @@ Menu
     TOP STORIES
     
     * [Mark Robinson vows to rebuild his staff for North Carolina governor](https://apnews.com/article/mark-robinson-north-carolina-governor-election-631e4b5565717ea012c1e9233495198c)
-    * [US-China research has given Beijing's military technology a boost, House GOP says](https://apnews.com/article/china-higher-education-research-tech-republicans-f6c00d6ccac7ebef5c9eadabf499b06b)
-    * [Jill Biden and Al Sharpton pay tribute to civil rights activist Sybil Morial](https://apnews.com/article/sybil-morial-new-orleans-funeral-119ca6ad5f328efaa6a0fd8db5abc887)
+    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
+    * [Harris reaches agreement on transition planning with Biden administration, no word on Trump yet](https://apnews.com/article/harris-transition-trump-gsa-biden-ecd9976d84aafc56c6c587e277102a0d)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
-    * [Alsobrooks presses the case for national abortion rights in critical Maryland Senate race](https://apnews.com/article/senate-maryland-angela-alsobrooks-larry-hogan-9237eeff099768e04888bb53fb98baeb)
-    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
+    * [Biden in farewell U.N. address says peace still possible in conflicts in Mideast and Ukraine](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
+    * [Trump wants to lure foreign companies by offering them access to federal land](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
+    * [FBI: Son of suspect in Trump assassination attempt arrested on child sexual abuse images charges](https://apnews.com/article/trump-assassination-attempt-son-child-sexual-abuse-material-b4d59cdc786211b94ad6e795f714d1e7)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Rookie Jayden Daniels nearly flawless for Commanders in 38-33 win over Bengals](https://apnews.com/article/commanders-bengals-score-5245c702b37940be22f3e64f28fe8131)
-    * [Josh Allen throws 4 TD passes and the Bills roll to a 47-10 win over the unraveling Jaguars](https://apnews.com/article/jaguars-bills-score-b75b1f05fa82413ecdeaf7bd5aa0aa81)
-    * [Philadelphia Phillies clinch 1st NL East title since 2011](https://apnews.com/article/philadelphia-phillies-clinch-nl-east-mlb-playoffs-2024-497fb971dc81235bbe4071fba53a75f6)
+    * [Retired NFL quarterback Brett Favre says he has Parkinson's disease](https://apnews.com/article/brett-favre-parkinsons-congress-mississippi-welfare-fraud-4d1635ac54ee5ab156fd2825fcd29430)
+    * [Mets and Braves set for showdown in Atlanta with playoff dreams at stake in rivalry's next chapter](https://apnews.com/article/mets-braves-series-wild-card-9bfbcc57954d361652c0f4dc1490f319)
+    * [49ers star RB Christian McCaffrey heads to Germany to see a specialist for his Achilles injury](https://apnews.com/article/49ers-christian-mccaffrey-injury-germany-0748e24ff4d02e3c13ccd21ff84be83f)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Meghann Fahy and Eve Hewson's 'overnight success' is more than a decade in the making](https://apnews.com/article/perfect-couple-meghann-fahy-eve-hewson-b3a71a6c8dba64a2bf57d1dafa63ced1)
-    * [Diddy’s music streams jump after arrest and indictment](https://apnews.com/article/sean-combs-diddy-streaming-numbers-67e23aa94bc2456aecea6bd972f503dd)
-    * [Man convicted of sending his son to rob and kill rapper PnB Rock gets 31 years to life](https://apnews.com/article/pnb-rock-killing-sentence-8418a7179a6b852ed7ecd8f0926e71f1)
+    * [Francis Ford Coppola's 'Megalopolis' is one from the heart](https://apnews.com/article/megalopolis-francis-ford-coppola-interview-5bc787e614b956a4bb9c566b09000165)
+    * [John Leguizamo reaches back in time to reclaim Latin American history for a PBS documentary series](https://apnews.com/article/john-leguizamo-pbs-voces-american-historia-7a066a41cf0bb4d2a18c2801cd78a0d8)
+    * [Marley Brothers upholds father's legacy with first tour in 2 decades](https://apnews.com/article/marley-brothers-tour-2024-interview-660acfcf2dea1d16a6dc7c0a26e0f185)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [The Fed sees its inflation fight as a success. Will the public eventually agree?](https://apnews.com/article/inflation-prices-federal-reserve-economy-election-rates-6975bffaa4cb818f4cf0fe05f218dd5c)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
-    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
+    * [Trump wants to lure foreign companies by offering them access to federal land](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
+    * [American consumers are feeling less confident as concerns about jobs take center stage](https://apnews.com/article/consumer-confidence-conference-board-economy-inflation-ee1a0d4f1a8e55d6fb08fbb4e5d854c3)
+    * [Almost all small businesses are using a software tool that is enabled by AI](https://apnews.com/article/small-business-artificial-intelligence-productivity-f6fa7b2a1ce0a9f2e5b8b48670b3098a)
     
 * [Science](https://apnews.com/science)
     
@@ -138,8 +138,8 @@ Menu
     
     TOP STORIES
     
-    * [Stonehenge's 'altar stone' originally came from Scotland and not Wales, new research shows](https://apnews.com/article/stonehenge-scotland-altar-stone-7f0896476ac8e2b955224377ff9f661e)
-    * [NASA telescope spots a super Jupiter that takes more than a century to go around its star](https://apnews.com/article/super-jupiter-nasa-webb-space-telescope-010a1f304adb196270f79f0e3c7cb592)
+    * [NASA spacecraft to study Jupiter moon's underground ocean cleared for October launch](https://apnews.com/article/jupiter-europa-clipper-nasa-d5b5a724b1802c601400e6d38fef06dd)
+    * [Tech billionaire pulls off first private spacewalk high above Earth](https://apnews.com/article/spacex-spacewalk-private-polaris-dawn-87d4c78853f0249baf29631bedfac749)
     * [A cave on the moon is confirmed, and scientists suspect hundreds more like it could house future explorers](https://apnews.com/article/moon-caves-nasa-astronauts-2dc57751f41a6e24f377c2259e8668ba)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [In the gateway to the Arctic, fat, ice and polar bears are crucial. All three are in trouble.](https://apnews.com/article/polar-bear-arctic-climate-change-whale-fat-938de0e1662eed4d01a747708b82e539)
     * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
     * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
-    * [Profiles in clean energy: Dad concerned about climate change shifts company away from oil and gas](https://apnews.com/article/clean-energy-plug-power-hydrogen-oil-gas-climate-change-5a353d6dd6557e7752003ffe0907ad77)
     
 * [Health](https://apnews.com/health)
     
@@ -247,7 +247,7 @@ Menu
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
+    * [More women are charged with pregnancy-related crimes since Roe's end, study finds](https://apnews.com/article/pregnancy-crime-charges-dobbs-roe-a2aec34ac68ef582351d671a744a6ed9)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
-    * [Iran was behind thousands of text messages calling for revenge over Quran burnings, Sweden says](https://apnews.com/article/sweden-iran-quran-burnings-revolutionary-guard-309f5f12aac2fc4e9a064bb0ffd313ee)
-    * [Biden administration seeks to ban Chinese, Russian tech in US autonomous vehicles](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
+    * [TikTok removes Russian state media accounts for 'covert influence operations' ahead of US election](https://apnews.com/article/tiktok-russia-media-election-interference-abd51ba03af439cf272888556f424d38)
+    * [Almost all small businesses are using a software tool that is enabled by AI](https://apnews.com/article/small-business-artificial-intelligence-productivity-f6fa7b2a1ce0a9f2e5b8b48670b3098a)
+    * [Former FTX executive Caroline Ellison faces sentencing](https://apnews.com/article/caroline-ellison-ftx-sentencing-18ebfcdee1af8527511e30c9b45de045)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
-    * [China says it will investigate fashion firm PVH for suspected boycott of Xinjiang products](https://apnews.com/article/pvh-hilfiger-china-xinjiang-trade-2f0f414f0fcc3fd432bc9229856ec21c)
-    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
-    * [Stephen & Evie Colbert's red rice recipe, a dish both jammy and tangy](https://apnews.com/article/stephen-evie-colbert-red-rice-cookbook-recipe-4b565e4277054fa476dad661bbc8c9b1)
+    * [Prince Harry says harms of social media have created an 'epidemic' for today's youth](https://apnews.com/article/prince-harry-clinton-global-initiative-archewell-foundation-cd5ab9d7b12dbbca8c3ab3be860cbf28)
+    * [Democrats are becoming a force in traditionally conservative The Villages](https://apnews.com/article/energized-democrats-conservative-villages-harris-emhoff-320a1cff9d66d806c41bc3dee9210975)
+    * [Italian designer Alberta Ferretti resigns as creative director of the brand she founded 43 years ago](https://apnews.com/article/alberta-ferretti-resignation-aeffe-fashion-brand-milan-a7058c8f008170bf46106c7af67606a2)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel y Hezbollah retoman las hostilidades tras la jornada más letal en Líbano desde 2006](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
-    * [Tormenta tropical John azota sur del Pacífico mexicano con inundaciones "potencialmente letales"](https://apnews.com/climate-and-environment/general-news-e79c82c35e1ec2a0399bde0b3fde371c)
-    * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
-    * [¿Es una guerra? El conflicto entre Israel y Hezbollah es difícil de definir, y de predecir](https://apnews.com/world-news/general-news-118daeff9e6a8467a42e5894942f25e6)
-    * [Lula hablará de clima ante la ONU, pero los incendios en Amazonía socavan su mensaje](https://apnews.com/world-news/general-news-07296b33b08634832443e0df04fb7312)
-    * [La policía alemana aumentará las escoltas para políticos destacados](https://apnews.com/world-news/general-news-ee5d25f8690bc1d97bd7857c43176f29)
+    * [Israel dice que mató al comandante de la unidad de cohetes y misiles de Hezbollah](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
+    * [Secretario general de la ONU dice que la actual situación mundial es “insostenible”](https://apnews.com/world-news/general-news-9f98fb18737c1d8996d6d5c36ae07c64)
+    * [Biden dice ante la ONU que la paz aún es posible en Oriente Medio y Ucrania](https://apnews.com/world-news/general-news-4fef660055743978d8324fcb0f465416)
+    * [Ucrania dice que sus soldados recapturaron un bastión ruso tras combates cuerpo a cuerpo](https://apnews.com/world-news/general-news-b646a1ae9c41d18e52c4517e2b2ff104)
+    * [Dos muertos en la costa del Pacífico sur mexicano por el azote del huracán John antes de degradarse](https://apnews.com/climate-and-environment/general-news-e79c82c35e1ec2a0399bde0b3fde371c)
+    * [Hijo de sospechoso en atentado contra Trump es acusado de tener imágenes de abuso sexual infantil](https://apnews.com/us-news/general-news-a4b388a6e6a07bbb272734711afd6c2f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel and Hezbollah renew fire after the deadliest day in Lebanon since 2006](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
+    * [Israeli military says it killed a top commander with Hezbollah's missile and rocket unit](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
     * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
-    * [World leaders meet under shadow of global divisions, 3 wars and possible Mideast conflict](https://apnews.com/article/un-world-leaders-gaza-ukraine-sudan-e9b8bd0ee132f6a7f56555975f67b0de)
+    * [US Navy replenishment ship operating in Mideast was damaged in an incident, officials say](https://apnews.com/article/us-navy-big-horn-mideast-israel-hamas-war-2e03c24dece6807bac359bf86c5a81dd)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Gunman who killed 10 at a Colorado supermarket is sentenced to life in prison](https://apnews.com/article/colorado-supermarket-shooting-ahmad-alissa-71d0750ba3b096dcbe51b390eee5d7db)
-    * [There are 5 executions set over a week's span in the US. That's the most in decades](https://apnews.com/article/executions-oklahoma-alabama-missouri-texas-south-carolina-d77a31bea7a4839424afc8889c7d8755)
-    * [Southeast US under major storm warning as hurricane watch issued for parts of Cuba and Mexico](https://apnews.com/article/caribbean-us-tropical-storm-hurricane-helene-a1582935d0b9002bc8993b483c203206)
+    * [Tropical Storm Helene forms in Caribbean. It's expected to become a hurricane and move toward US](https://apnews.com/article/tropical-weather-hurricane-caribbean-c7b70ac631e5fc5df86900b6ee141fb5)
+    * [Weeks after a school shooting, students return for classes at Apalachee High School](https://apnews.com/article/apalachee-school-shooting-georgia-classes-students-bf05029b20cf85430ab974dddf583c18)
+    * [Tyreek Hill's traffic stop can be a reminder of drivers' constitutional rights](https://apnews.com/article/tyreek-hill-constitutional-rights-traffic-stop-6dd2ad077cecd176bea840ba77012d6a)
     
     Newsletters
     
@@ -499,8 +499,8 @@ Submit Search
     TOP STORIES
     
     * [Mark Robinson vows to rebuild his staff for North Carolina governor](https://apnews.com/article/mark-robinson-north-carolina-governor-election-631e4b5565717ea012c1e9233495198c)
-    * [US-China research has given Beijing's military technology a boost, House GOP says](https://apnews.com/article/china-higher-education-research-tech-republicans-f6c00d6ccac7ebef5c9eadabf499b06b)
-    * [Jill Biden and Al Sharpton pay tribute to civil rights activist Sybil Morial](https://apnews.com/article/sybil-morial-new-orleans-funeral-119ca6ad5f328efaa6a0fd8db5abc887)
+    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
+    * [Harris reaches agreement on transition planning with Biden administration, no word on Trump yet](https://apnews.com/article/harris-transition-trump-gsa-biden-ecd9976d84aafc56c6c587e277102a0d)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Conflicts in the Mideast and Ukraine will loom over Biden's farewell address at the United Nations](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
-    * [Alsobrooks presses the case for national abortion rights in critical Maryland Senate race](https://apnews.com/article/senate-maryland-angela-alsobrooks-larry-hogan-9237eeff099768e04888bb53fb98baeb)
-    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
+    * [Biden in farewell U.N. address says peace still possible in conflicts in Mideast and Ukraine](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
+    * [Trump wants to lure foreign companies by offering them access to federal land](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
+    * [FBI: Son of suspect in Trump assassination attempt arrested on child sexual abuse images charges](https://apnews.com/article/trump-assassination-attempt-son-child-sexual-abuse-material-b4d59cdc786211b94ad6e795f714d1e7)
     
     Newsletters
     
@@ -553,9 +553,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Rookie Jayden Daniels nearly flawless for Commanders in 38-33 win over Bengals](https://apnews.com/article/commanders-bengals-score-5245c702b37940be22f3e64f28fe8131)
-    * [Josh Allen throws 4 TD passes and the Bills roll to a 47-10 win over the unraveling Jaguars](https://apnews.com/article/jaguars-bills-score-b75b1f05fa82413ecdeaf7bd5aa0aa81)
-    * [Philadelphia Phillies clinch 1st NL East title since 2011](https://apnews.com/article/philadelphia-phillies-clinch-nl-east-mlb-playoffs-2024-497fb971dc81235bbe4071fba53a75f6)
+    * [Retired NFL quarterback Brett Favre says he has Parkinson's disease](https://apnews.com/article/brett-favre-parkinsons-congress-mississippi-welfare-fraud-4d1635ac54ee5ab156fd2825fcd29430)
+    * [Mets and Braves set for showdown in Atlanta with playoff dreams at stake in rivalry's next chapter](https://apnews.com/article/mets-braves-series-wild-card-9bfbcc57954d361652c0f4dc1490f319)
+    * [49ers star RB Christian McCaffrey heads to Germany to see a specialist for his Achilles injury](https://apnews.com/article/49ers-christian-mccaffrey-injury-germany-0748e24ff4d02e3c13ccd21ff84be83f)
     
     Newsletters
     
@@ -582,9 +582,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Meghann Fahy and Eve Hewson's 'overnight success' is more than a decade in the making](https://apnews.com/article/perfect-couple-meghann-fahy-eve-hewson-b3a71a6c8dba64a2bf57d1dafa63ced1)
-    * [Diddy’s music streams jump after arrest and indictment](https://apnews.com/article/sean-combs-diddy-streaming-numbers-67e23aa94bc2456aecea6bd972f503dd)
-    * [Man convicted of sending his son to rob and kill rapper PnB Rock gets 31 years to life](https://apnews.com/article/pnb-rock-killing-sentence-8418a7179a6b852ed7ecd8f0926e71f1)
+    * [Francis Ford Coppola's 'Megalopolis' is one from the heart](https://apnews.com/article/megalopolis-francis-ford-coppola-interview-5bc787e614b956a4bb9c566b09000165)
+    * [John Leguizamo reaches back in time to reclaim Latin American history for a PBS documentary series](https://apnews.com/article/john-leguizamo-pbs-voces-american-historia-7a066a41cf0bb4d2a18c2801cd78a0d8)
+    * [Marley Brothers upholds father's legacy with first tour in 2 decades](https://apnews.com/article/marley-brothers-tour-2024-interview-660acfcf2dea1d16a6dc7c0a26e0f185)
     
 * [Business](https://apnews.com/business)
     
@@ -598,9 +598,9 @@ Submit Search
     
     TOP STORIES
     
-    * [The Fed sees its inflation fight as a success. Will the public eventually agree?](https://apnews.com/article/inflation-prices-federal-reserve-economy-election-rates-6975bffaa4cb818f4cf0fe05f218dd5c)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
-    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
+    * [Trump wants to lure foreign companies by offering them access to federal land](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
+    * [American consumers are feeling less confident as concerns about jobs take center stage](https://apnews.com/article/consumer-confidence-conference-board-economy-inflation-ee1a0d4f1a8e55d6fb08fbb4e5d854c3)
+    * [Almost all small businesses are using a software tool that is enabled by AI](https://apnews.com/article/small-business-artificial-intelligence-productivity-f6fa7b2a1ce0a9f2e5b8b48670b3098a)
     
 * [Science](https://apnews.com/science)
     
@@ -616,8 +616,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Stonehenge's 'altar stone' originally came from Scotland and not Wales, new research shows](https://apnews.com/article/stonehenge-scotland-altar-stone-7f0896476ac8e2b955224377ff9f661e)
-    * [NASA telescope spots a super Jupiter that takes more than a century to go around its star](https://apnews.com/article/super-jupiter-nasa-webb-space-telescope-010a1f304adb196270f79f0e3c7cb592)
+    * [NASA spacecraft to study Jupiter moon's underground ocean cleared for October launch](https://apnews.com/article/jupiter-europa-clipper-nasa-d5b5a724b1802c601400e6d38fef06dd)
+    * [Tech billionaire pulls off first private spacewalk high above Earth](https://apnews.com/article/spacex-spacewalk-private-polaris-dawn-87d4c78853f0249baf29631bedfac749)
     * [A cave on the moon is confirmed, and scientists suspect hundreds more like it could house future explorers](https://apnews.com/article/moon-caves-nasa-astronauts-2dc57751f41a6e24f377c2259e8668ba)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
@@ -719,9 +719,9 @@ Submit Search
     
     TOP STORIES
     
+    * [In the gateway to the Arctic, fat, ice and polar bears are crucial. All three are in trouble.](https://apnews.com/article/polar-bear-arctic-climate-change-whale-fat-938de0e1662eed4d01a747708b82e539)
     * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
     * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
-    * [Profiles in clean energy: Dad concerned about climate change shifts company away from oil and gas](https://apnews.com/article/clean-energy-plug-power-hydrogen-oil-gas-climate-change-5a353d6dd6557e7752003ffe0907ad77)
     
 * [Health](https://apnews.com/health)
     
@@ -732,7 +732,7 @@ Submit Search
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
+    * [More women are charged with pregnancy-related crimes since Roe's end, study finds](https://apnews.com/article/pregnancy-crime-charges-dobbs-roe-a2aec34ac68ef582351d671a744a6ed9)
     
 * [Tech](https://apnews.com/technology)
     
@@ -745,9 +745,9 @@ Submit Search
     
     TOP STORIES
     
-    * [California becomes latest state to restrict student smartphone use at school](https://apnews.com/article/california-newsom-student-cellphone-ban-schools-a8b624f0a9fce4eab4e927a985285871)
-    * [Iran was behind thousands of text messages calling for revenge over Quran burnings, Sweden says](https://apnews.com/article/sweden-iran-quran-burnings-revolutionary-guard-309f5f12aac2fc4e9a064bb0ffd313ee)
-    * [Biden administration seeks to ban Chinese, Russian tech in US autonomous vehicles](https://apnews.com/article/commerce-autonomous-vehicles-national-security-china-russia-a895bbbbe59ae915aad2f0980b7acf08)
+    * [TikTok removes Russian state media accounts for 'covert influence operations' ahead of US election](https://apnews.com/article/tiktok-russia-media-election-interference-abd51ba03af439cf272888556f424d38)
+    * [Almost all small businesses are using a software tool that is enabled by AI](https://apnews.com/article/small-business-artificial-intelligence-productivity-f6fa7b2a1ce0a9f2e5b8b48670b3098a)
+    * [Former FTX executive Caroline Ellison faces sentencing](https://apnews.com/article/caroline-ellison-ftx-sentencing-18ebfcdee1af8527511e30c9b45de045)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
-    * [China says it will investigate fashion firm PVH for suspected boycott of Xinjiang products](https://apnews.com/article/pvh-hilfiger-china-xinjiang-trade-2f0f414f0fcc3fd432bc9229856ec21c)
-    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
-    * [Stephen & Evie Colbert's red rice recipe, a dish both jammy and tangy](https://apnews.com/article/stephen-evie-colbert-red-rice-cookbook-recipe-4b565e4277054fa476dad661bbc8c9b1)
+    * [Prince Harry says harms of social media have created an 'epidemic' for today's youth](https://apnews.com/article/prince-harry-clinton-global-initiative-archewell-foundation-cd5ab9d7b12dbbca8c3ab3be860cbf28)
+    * [Democrats are becoming a force in traditionally conservative The Villages](https://apnews.com/article/energized-democrats-conservative-villages-harris-emhoff-320a1cff9d66d806c41bc3dee9210975)
+    * [Italian designer Alberta Ferretti resigns as creative director of the brand she founded 43 years ago](https://apnews.com/article/alberta-ferretti-resignation-aeffe-fashion-brand-milan-a7058c8f008170bf46106c7af67606a2)
     
 * [Religion](https://apnews.com/religion)
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel y Hezbollah retoman las hostilidades tras la jornada más letal en Líbano desde 2006](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
-    * [Tormenta tropical John azota sur del Pacífico mexicano con inundaciones "potencialmente letales"](https://apnews.com/climate-and-environment/general-news-e79c82c35e1ec2a0399bde0b3fde371c)
-    * [AP Explica: qué se sabe y qué no de la desaparición de los 43 estudiantes de Ayotzinapa en México](https://apnews.com/world-news/general-news-42a9949a8a1122f896af808d42aebe76)
-    * [¿Es una guerra? El conflicto entre Israel y Hezbollah es difícil de definir, y de predecir](https://apnews.com/world-news/general-news-118daeff9e6a8467a42e5894942f25e6)
-    * [Lula hablará de clima ante la ONU, pero los incendios en Amazonía socavan su mensaje](https://apnews.com/world-news/general-news-07296b33b08634832443e0df04fb7312)
-    * [La policía alemana aumentará las escoltas para políticos destacados](https://apnews.com/world-news/general-news-ee5d25f8690bc1d97bd7857c43176f29)
+    * [Israel dice que mató al comandante de la unidad de cohetes y misiles de Hezbollah](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
+    * [Secretario general de la ONU dice que la actual situación mundial es “insostenible”](https://apnews.com/world-news/general-news-9f98fb18737c1d8996d6d5c36ae07c64)
+    * [Biden dice ante la ONU que la paz aún es posible en Oriente Medio y Ucrania](https://apnews.com/world-news/general-news-4fef660055743978d8324fcb0f465416)
+    * [Ucrania dice que sus soldados recapturaron un bastión ruso tras combates cuerpo a cuerpo](https://apnews.com/world-news/general-news-b646a1ae9c41d18e52c4517e2b2ff104)
+    * [Dos muertos en la costa del Pacífico sur mexicano por el azote del huracán John antes de degradarse](https://apnews.com/climate-and-environment/general-news-e79c82c35e1ec2a0399bde0b3fde371c)
+    * [Hijo de sospechoso en atentado contra Trump es acusado de tener imágenes de abuso sexual infantil](https://apnews.com/us-news/general-news-a4b388a6e6a07bbb272734711afd6c2f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
