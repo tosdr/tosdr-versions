@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![The Guantanamo Guidebook](/wp-content/thumbnails/4319-100x70.jpg?x53432)
+* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
     
-    The Guantanamo Guidebook
+    Trial of Henry Kissinger
     
-    British Channel 4 engaged the Team Delta Cadre to recreate the Guantanamo Bay interrogation experience.At the production company’s request, along with Team Delta’s normal approach to interrogation...](https://documentaryheaven.com/the-guantanamo-guidebook/ "The Guantanamo Guidebook")
+    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac...](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
 
 ###### Throwback Documentaries
 
-* [![Hitler’s Children: War](/wp-content/thumbnails/2843-100x70.jpg?x53432)
+* [![Hunt For The Unabomber](/wp-content/thumbnails/13935-100x70.png?x53432)
     
-    Hitler’s Children: War
+    Hunt For The Unabomber
     
-    Never has a generation been so completely taken over by a totalitarian state as was the case in Hitler’s Third Reich: at the age of 10 children joined the “Jungvolk” movement, at 14 they joined the Hi](https://documentaryheaven.com/hitlers-children-war/ "Hitler’s Children: War")
-* [![Back of the Busk](/wp-content/thumbnails/7405-100x70.jpg?x53432)
+    Inside a primitive cabin located in Lincoln, Montana, one man declared war on the world, provoking the greatest manhunt in the history of the United States. From 1978 to 1996 he created explosive devi](https://documentaryheaven.com/hunt-for-unabomber/ "Hunt For The Unabomber")
+* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
     
-    Back of the Busk
+    David Attenborough’s Madagascar
     
-    An online mini-series about street/subway performers who busk in New York City.New York City is one of the few metropolis' in the world that supports buskers and is known as a "Busker Haven" when](https://documentaryheaven.com/back-of-the-busk/ "Back of the Busk")
-* [![What Ever Happened to Hip Hop?](/wp-content/thumbnails/7004-100x70.jpg?x53432)
+    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
+* [![The Doctor, the Depleted Uranium, and the Dying Children](/wp-content/thumbnails/2642-100x70.jpg?x53432)
     
-    What Ever Happened to Hip Hop?
+    The Doctor, the Depleted Uranium, and the Dying Children
     
-    It began with the beat of the drum. With the beat, came a voice for those without one. From this voice, came a movement. Overcoming the odds, the originators of hip hop took their music from block par](https://documentaryheaven.com/what-ever-happened-to-hip-hop/ "What Ever Happened to Hip Hop?")
-* [![Dirty Gold War](/wp-content/thumbnails/13486-100x70.jpg?x53432)
+    An award winning documentary film produced for German television by Freider Wagner and Valentin Thurn. The film exposes the use and impact of radioactive weapons during the current war against Iraq.](https://documentaryheaven.com/the-doctor-the-depleted-uranium-and-the-dying-children/ "The Doctor, the Depleted Uranium, and the Dying Children")
+* [![Supernatural Science: Previous Lives](/wp-content/thumbnails/1308-100x70.jpg?x53432)
     
-    Dirty Gold War
+    Supernatural Science: Previous Lives
     
-    Dirty Gold War is a tale about the truths which lie behind the thriving industry of gold. On one side of it you have the end product which is associated with love, celebration and displays of wea](https://documentaryheaven.com/dirty-gold-war/ "Dirty Gold War")
-* [![A River of Waste: The Hazardous Truth About Factory Farms](/wp-content/thumbnails/7227-100x70.jpg?x53432)
+    Millions believe in reincarnation. Is there proof that is really happens? Do people pass through many lifetimes and can they bring back memories from having lived before? Therapies now encouraging peo](https://documentaryheaven.com/supernatural-science-previous-lives/ "Supernatural Science: Previous Lives")
+* [![Football Fight Club](/wp-content/thumbnails/9162-100x70.jpg?x53432)
     
-    A River of Waste: The Hazardous Truth About Factory Farms
+    Football Fight Club
     
-    A heart-stopping new documentary, A RIVER OF WASTE exposes a huge health and environmental scandal in our modern industrial system of meat and poultry production. Some scientists have gone so far as t](https://documentaryheaven.com/river-of-waste-hazardous-truth-about-factory-farms/ "A River of Waste: The Hazardous Truth About Factory Farms")
+    This film sets about documenting a new generation of football hooliganism after been granted exclusive access to follow three of Britain's football firms during the 2013 - 2014 season. This is the fir](https://documentaryheaven.com/football-fight-club/ "Football Fight Club")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
