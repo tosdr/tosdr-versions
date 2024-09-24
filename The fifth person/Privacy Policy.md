@@ -194,19 +194,11 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    August 19, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
     [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
-    7 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -215,6 +207,14 @@ Quick Guides
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
     
     2 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
+    
+    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
+    
+    August 19, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -234,19 +234,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/us-dollar-220x150.jpg)](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
+    
+    [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
+    
+    1 day ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/microsoft-corp-220x150.jpg)](https://fifthperson.com/microsoft-q4-2024-earnings/)
     
     [Microsoft Q4 2024 earnings fuelled by AI and cloud growth](https://fifthperson.com/microsoft-q4-2024-earnings/)
     
     4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/09/us-dollar-220x150.jpg)](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
-    
-    [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
-    
-    19 hours ago
     
 
 * [![Photo of Steve Davies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
