@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, September 23 2024
+Tuesday, September 24 2024
 
 Latest
 
-* [Could ‘fair source’ software be the key to solving open source licensing disputes?](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
-* [Get Seven Iconic MS Office Programs For Just $25](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
-* [Forget Prime Day — 5 great deals you can get right now in Woot’s October PC sale](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
-* [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://digitpatrox.com/the-black-apple-watch-ultra-2-is-already-50-off-in-select-sizes/)
-* [MCU Thunderbolts: Sentry Powers and Abilities](https://digitpatrox.com/mcu-thunderbolts-sentry-powers-and-abilities/)
-* [AI and cybersecurity: friends or foes?](https://digitpatrox.com/ai-and-cybersecurity-friends-or-foes/)
-* [Google US antitrust trials: A timeline – Computerworld](https://digitpatrox.com/google-us-antitrust-trials-a-timeline-computerworld/)
-* [These Are the Best Breads for French Toast](https://digitpatrox.com/these-are-the-best-breads-for-french-toast/)
-* [Franklin County, KS notifies 30K people of data breach that compromised SSNS, financial and medical info](https://digitpatrox.com/franklin-county-ks-notifies-30k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
-* [How to add folders shortcuts on Start menu next to the Power button on Windows 11, 10](https://digitpatrox.com/how-to-add-folders-shortcuts-on-start-menu-next-to-the-power-button-on-windows-11-10/)
+* [UK, US, and Canadian defense agencies team up to drive cybersecurity research](https://digitpatrox.com/uk-us-and-canadian-defense-agencies-team-up-to-drive-cybersecurity-research/)
+* [Set Up Call Blocking on Any Phone in 6 Steps or Less](https://digitpatrox.com/set-up-call-blocking-on-any-phone-in-6-steps-or-less/)
+* [NYT Connections today hints and answers — Tuesday, September 24 (#471)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-september-24-471/)
+* [Amazon October Prime Day: how to find the best deals](https://digitpatrox.com/amazon-october-prime-day-how-to-find-the-best-deals/)
+* [Today’s Wordle Answer and Hints (September 24, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-24-2024/)
+* [All the news and announcements as they happen](https://digitpatrox.com/all-the-news-and-announcements-as-they-happen/)
+* [Qualcomm apparently wants to get its hands on Intel – Computerworld](https://digitpatrox.com/qualcomm-apparently-wants-to-get-its-hands-on-intel-computerworld/)
+* [My Favorite Laundry Hacks | Lifehacker](https://digitpatrox.com/my-favorite-laundry-hacks-lifehacker/)
+* [Best Refrigerator Temperature to Keep Food Fresh](https://digitpatrox.com/best-refrigerator-temperature-to-keep-food-fresh/)
+* [Don’t Buy a Print Server, Build One on Linux Instead. Here’s How](https://digitpatrox.com/dont-buy-a-print-server-build-one-on-linux-instead-heres-how/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/m8LD3ENwxn3C9qP6jjPzb3-1200-80.jpg)](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
+* [![](https://cdn.mos.cms.futurecdn.net/NjqpjHX9vysKy5YkxmVEvV-1200-80.jpg)](https://digitpatrox.com/uk-us-and-canadian-defense-agencies-team-up-to-drive-cybersecurity-research/)
     
-    [Could ‘fair source’ software be the key to solving open source licensing disputes?](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
+    [UK, US, and Canadian defense agencies team up to drive cybersecurity research](https://digitpatrox.com/uk-us-and-canadian-defense-agencies-team-up-to-drive-cybersecurity-research/)
     
-    26 seconds ago
+    12 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2023/11/tr_20231121-microsoft-office-professional-plus-2019-for-windows.jpg)](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
+* [![](https://assets.techrepublic.com/uploads/2024/08/apple-iphone-16-sep-24.jpg)](https://digitpatrox.com/set-up-call-blocking-on-any-phone-in-6-steps-or-less/)
     
-    [Get Seven Iconic MS Office Programs For Just $25](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
+    [Set Up Call Blocking on Any Phone in 6 Steps or Less](https://digitpatrox.com/set-up-call-blocking-on-any-phone-in-6-steps-or-less/)
     
-    1 min ago
+    13 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/vjt8i5xdiX5hLJiRRZPSD-1200-80.jpg)](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
+* [![](https://cdn.mos.cms.futurecdn.net/cF6f5PcRoahYxLFA4Pi6TW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-september-24-471/)
     
-    [Forget Prime Day — 5 great deals you can get right now in Woot’s October PC sale](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
+    [NYT Connections today hints and answers — Tuesday, September 24 (#471)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-september-24-471/)
     
-    19 mins ago
+    31 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/c-nnFc8cWl4QaHZQg-L0tNeKTTE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25622607/247272_Apple_Watch_Ultra_2_Black_AKrales_0240.jpg)](https://digitpatrox.com/the-black-apple-watch-ultra-2-is-already-50-off-in-select-sizes/)
+* [![](https://cdn.vox-cdn.com/thumbor/hMQaBVrkXN3nNchoVv9AWIl-kcA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24773260/236713_Prime_Day_HHerrera_005.jpeg)](https://digitpatrox.com/amazon-october-prime-day-how-to-find-the-best-deals/)
     
-    [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://digitpatrox.com/the-black-apple-watch-ultra-2-is-already-50-off-in-select-sizes/)
-    
-    1 hour ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/09/MCU-Thunderbolts-Sentry-Powers-and-Abilities.jpg)](https://digitpatrox.com/mcu-thunderbolts-sentry-powers-and-abilities/)
-    
-    [MCU Thunderbolts: Sentry Powers and Abilities](https://digitpatrox.com/mcu-thunderbolts-sentry-powers-and-abilities/)
+    [Amazon October Prime Day: how to find the best deals](https://digitpatrox.com/amazon-october-prime-day-how-to-find-the-best-deals/)
     
     1 hour ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-24-2024/)
+    
+    [Today’s Wordle Answer and Hints (September 24, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-24-2024/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [26 seconds ago
+* [12 mins ago
     
-    ### Could ‘fair source’ software be the key to solving open source licensing disputes?](https://digitpatrox.com/could-fair-source-software-be-the-key-to-solving-open-source-licensing-disputes/)
-* [1 min ago
+    ### UK, US, and Canadian defense agencies team up to drive cybersecurity research](https://digitpatrox.com/uk-us-and-canadian-defense-agencies-team-up-to-drive-cybersecurity-research/)
+* [13 mins ago
     
-    ### Get Seven Iconic MS Office Programs For Just $25](https://digitpatrox.com/get-seven-iconic-ms-office-programs-for-just-25/)
-* [19 mins ago
+    ### Set Up Call Blocking on Any Phone in 6 Steps or Less](https://digitpatrox.com/set-up-call-blocking-on-any-phone-in-6-steps-or-less/)
+* [31 mins ago
     
-    ### Forget Prime Day — 5 great deals you can get right now in Woot’s October PC sale](https://digitpatrox.com/forget-prime-day-5-great-deals-you-can-get-right-now-in-woots-october-pc-sale/)
+    ### NYT Connections today hints and answers — Tuesday, September 24 (#471)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-september-24-471/)
 
 Most Popular Topics
 
 * [August 16, 2024
     
-    ### Popular Midsized SUVs to Avoid and What to Buy](https://digitpatrox.com/popular-midsized-suvs-to-avoid-and-what-to-buy/)
-* [5 days ago
+    ### Baby Loungers Sold by Amazon and Walmart Linked to Infant Deaths](https://digitpatrox.com/baby-loungers-sold-by-amazon-and-walmart-linked-to-infant-deaths/)
+* [August 16, 2024
     
-    ### Windmill AC 3.0 review: A smart air conditioner that’s attractive, quiet and powerful](https://digitpatrox.com/windmill-ac-3-0-review-a-smart-air-conditioner-thats-attractive-quiet-and-powerful/)
-* [August 12, 2024
+    ### You only need a kettlebell and this 30-minute workout to build full-body muscle and boost your metabolism](https://digitpatrox.com/you-only-need-a-kettlebell-and-this-30-minute-workout-to-build-full-body-muscle-and-boost-your-metabolism/)
+* [August 23, 2024
     
-    ### Starfield: Burden Of Proof \[Quest Walkthrough\]](https://digitpatrox.com/starfield-burden-of-proof-quest-walkthrough/)
+    ### Eric Schmidt’s car crash Stanford interview showed big tech’s true colors on remote work](https://digitpatrox.com/eric-schmidts-car-crash-stanford-interview-showed-big-techs-true-colors-on-remote-work/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Google US antitrust trials: A timeline – Computerworld](https://digitpatrox.com/google-us-antitrust-trials-a-timeline-computerworld/)
-* [3 hours ago
-    
-    ### These Are the Best Breads for French Toast](https://digitpatrox.com/these-are-the-best-breads-for-french-toast/)
+    ### Qualcomm apparently wants to get its hands on Intel – Computerworld](https://digitpatrox.com/qualcomm-apparently-wants-to-get-its-hands-on-intel-computerworld/)
 * [4 hours ago
     
-    ### Franklin County, KS notifies 30K people of data breach that compromised SSNS, financial and medical info](https://digitpatrox.com/franklin-county-ks-notifies-30k-people-of-data-breach-that-compromised-ssns-financial-and-medical-info/)
+    ### My Favorite Laundry Hacks | Lifehacker](https://digitpatrox.com/my-favorite-laundry-hacks-lifehacker/)
+* [4 hours ago
+    
+    ### Best Refrigerator Temperature to Keep Food Fresh](https://digitpatrox.com/best-refrigerator-temperature-to-keep-food-fresh/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [4 weeks ago
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
