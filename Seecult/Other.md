@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/leconte-m-lartigue/zivotinje/animals/cow1.jpg?itok=fb9WtnME)](http://seecult.org/galerija/galerija-umetnika/leconte-m-lartigue/zivotinjeanimals)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nenad-bracic/soklfix.jpg?itok=XATfz-2B)](http://seecult.org/galerija/galerija-umetnika/nenad-bracic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/underworld/img-0941.jpg?itok=HLCnrstf)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/underworld)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kaligula1.jpg?itok=RdHicsyb)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
