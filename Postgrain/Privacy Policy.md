@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Melhores livros para social media - a imagem que ilustra o tema tem o fundo amarelo e no meio dois livros. O que aparece em destaque é o livro do Austin Kleon e o título dele é "Show Your Work".](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Melhores-livros-para-social-media-Quais-sao-os-3-principais-580x290.jpg)](https://postgrain.com/?post_type=post&p=12578)
+[![Leads na Consultoria Gratuita - Uma sala de reunião com 3 pessoas debatendo e, de fundo, tem um quadro com dados e gráficos.](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Consultoria-gratuita-Como-encontrar-os-melhores-leads-580x290.jpg)](https://postgrain.com/?post_type=post&p=12584)
 
-[Melhores livros para social media: Conheça os 3 principais para ler agora!](https://postgrain.com/?post_type=post&p=12578)
+[Leads na Consultoria Gratuita: Como encontrá-los? \[3 formas práticas\]](https://postgrain.com/?post_type=post&p=12584)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12578)
+[Leia mais](https://postgrain.com/?post_type=post&p=12584)
 
 Ilustração de um dos personagens do Postgrain
 
