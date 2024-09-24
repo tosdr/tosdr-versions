@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110477-mid-day-digest-2024-09-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110514-mid-day-digest-2024-09-24?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,32 +185,35 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110477-mid-day-digest-2024-09-23?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110514-mid-day-digest-2024-09-24?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110451-dodging-venn-2024-09-23)
+     [](https://patriotpost.us/memes/110478-dunno-2024-09-24)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34260)
+     [](https://patriotpost.us/cartoons/34268)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Gary Bauer Springfield Speaks](https://patriotpost.us/opinion/110442-springfield-speaks-2024-09-23)
-*      [Rich Lowry Thank You, Caitlin Clark](https://patriotpost.us/opinion/110444-thank-you-caitlin-clark-2024-09-23)
-*      [The Babylon Bee 15 Seconds Into Kamala Harris Interview, Oprah Decides to Endorse Trump](https://patriotpost.us/opinion/110443-15-seconds-into-kamala-harris-interview-oprah-decides-to-endorse-trump-2024-09-23)
-*      [The Washington Stand The Democrats’ IVF Misinformation Campaign](https://patriotpost.us/opinion/110431-the-democrats-ivf-misinformation-campaign-2024-09-23)
-*      [Guest Commentary Thou Shalt Not Covet](https://patriotpost.us/opinion/110281-thou-shalt-not-covet-2024-09-23)
-*      [Matthew Continetti Biden’s Long Shadow](https://patriotpost.us/opinion/110429-bidens-long-shadow-2024-09-21)
-*      [Allen West The Delusional and Dangerous Hypocrisy](https://patriotpost.us/opinion/110358-the-delusional-and-dangerous-hypocrisy-2024-09-21)
-*      [The Washington Stand Fact-Checking PolitiFact, the Media, and Democrats on Born-Alive Infants](https://patriotpost.us/opinion/110430-fact-checking-politifact-the-media-and-democrats-on-born-alive-infants-2024-09-21)
+*      [Mark Alexander The Left’s Latest ‘Gun Violence’ Cover-Up](https://patriotpost.us/alexander/110457-the-lefts-latest-gun-violence-cover-up-2024-09-24)
+*      [Christine Flowers After Would-Be Assassin Was Arrested, Pundits Said All the Right Things… At First](https://patriotpost.us/opinion/110498-after-would-be-assassin-was-arrested-pundits-said-all-the-right-things-dot-dot-dot-at-first-2024-09-24)
+*      [Salena Zito New Poll Shows Voters Moving Right on Tax Cuts](https://patriotpost.us/opinion/110497-new-poll-shows-voters-moving-right-on-tax-cuts-2024-09-24)
+*      [Daniel McCarthy Trump’s Would-Be Assassin’s Explanation](https://patriotpost.us/opinion/110495-trumps-would-be-assassins-explanation-2024-09-24)
+*      [Stephen Moore Is Washington Distorting the Numbers?](https://patriotpost.us/opinion/110494-is-washington-distorting-the-numbers-2024-09-24)
+*      [Victor Joecks The War on Free Speech Is Here](https://patriotpost.us/opinion/110492-the-war-on-free-speech-is-here-2024-09-24)
+*      [Cal Thomas Kamala Harris Owes Us Some Answers](https://patriotpost.us/opinion/110491-kamala-harris-owes-us-some-answers-2024-09-24)
+*      [Gary Bauer A Written Confession](https://patriotpost.us/opinion/110490-a-written-confession-2024-09-24)
+*      [Dennis Prager Israel Derangement Syndrome](https://patriotpost.us/opinion/110496-israel-derangement-syndrome-2024-09-24)
+*      [The Washington Stand Tony Dungy Calls Out Harris](https://patriotpost.us/opinion/110487-tony-dungy-calls-out-harris-2024-09-24)
+*      [The Babylon Bee Here Are the Remaining 10 Celebrities Who Haven’t Endorsed Kamala Harris](https://patriotpost.us/opinion/110486-here-are-the-remaining-10-celebrities-who-havent-endorsed-kamala-harris-2024-09-24)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,15 +227,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
-“The great object of my fear is the federal judiciary. That body, like gravity, ever acting, with noiseless foot, and unalarming advance, gaining ground step by step, and holding what it gains, is ingulfing insidiously the special governments into the jaws of that which feeds them.” —Thomas Jefferson (1821)
+“The diversity in the faculties of men from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests. The protection of these faculties is the first object of government.” —James Madison (1787)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
