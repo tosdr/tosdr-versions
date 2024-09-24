@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [What is block level backup](https://www.backup4all.com/what-is-block-level-backup-kb.html)  
+* [How to back up file names with other characte ...](https://www.backup4all.com/how-to-back-up-file-names-with-other-characters-than-english-kb.html)  
     
-* [How to backup your data to Wasabi](https://www.backup4all.com/how-to-backup-your-data-to-wasabi-kb.html)  
+* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
     
-* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
+* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
     
-* [How to schedule a backup job in the New Backu ...](https://www.backup4all.com/how-to-schedule-a-backup-job-in-the-new-backup-wizard-kb.html)  
+* [How to clean a backup](https://www.backup4all.com/how-to-clean-a-backup-kb.html)  
     
-* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
+* [How to create an exact copy of the source dri ...](https://www.backup4all.com/how-to-create-an-exact-copy-of-the-source-drive-on-another-driv-kb.html)  
     
 
 Choose language:
