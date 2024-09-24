@@ -10,7 +10,7 @@ Quick Links
 
 [Email warm up](https://www.mailreach.co/email-warmup)[Email spam test](https://www.mailreach.co/email-spam-test)[Competitors Overview](https://www.mailreach.co/mailreach-vs-other-solutions)[Best Mailwarm alternative](https://www.mailreach.co/mailwarm-alternative)
 
-[Email spam checker tool](https://www.mailreach.co/email-spam-checker-tool)[Email spam test API](https://www.mailreach.co/email-spam-test-api)[Email warm up API](https://www.mailreach.co/email-warmup-api)[SPF checker](https://www.mailreach.co/spf-checker)[DKIM checker](https://www.mailreach.co/dkim-checker)[Reviews](https://www.mailreach.co/mailreach-reviews)
+[Email spam checker tool](https://www.mailreach.co/email-spam-checker-tool)[Email spam test API](https://www.mailreach.co/email-spam-test-api)[Email warm up API](https://www.mailreach.co/email-warmup-api)[SPF checker](https://www.mailreach.co/spf-checker)[DKIM checker](https://www.mailreach.co/dkim-checker)[Reviews](https://www.mailreach.co/mailreach-reviews)[IP Warmup Service](https://www.mailreach.co/ip-warm-up-service)[Check email spamscore](https://www.mailreach.co/check-email-spam-score-with-our-spam-score-checker)
 
 Great Resources
 
