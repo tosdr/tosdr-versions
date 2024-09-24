@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the speedy response!
+I'd be lost without your service :)
 
-Tuck-Weng
+Jayne Mountford
