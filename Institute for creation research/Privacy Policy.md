@@ -101,67 +101,95 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Impact
+More Only God Could Have Made Cells
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/transposable_elements_1400x1050.jpg)](https://www.icr.org/article/transposable-elements-genomic-parasites)
+[![](/i/Main%20Stage%20-%201400x1050/phosphateproblem-1400x1050-MainPage.jpg)](https://www.icr.org/article/solving-first-life-phosphate-problem)
 
-[Transposable Elements: Genomic Parasites or Engineered .,.](https://www.icr.org/article/transposable-elements-genomic-parasites/)
+[Solving the First-Life Phosphate Problem](https://www.icr.org/article/solving-first-life-phosphate-problem/)
 
-Transposable elements (transposons or TEs) are a specialized group of DNA sequences that can transpose or change positions in the genome. Some scientists...
+Research associated with the Simos Foundation’s Collaboration of the Origins of Life offers a new answer to an old problem for getting a soup...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/Carbon_First_Cell_1400x1050.jpg)](https://www.icr.org/article/getting-carbon-into-the-first-cell)
+
+[Getting Carbon into the First Cell](https://www.icr.org/article/getting-carbon-into-the-first-cell/)
+
+Today’s secular mindset replaces “In the beginning God…” with “In the beginning, hydrogen….” The extreme specificity...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/algaeevolution-1400x1050-MainPage.jpg)](https://www.icr.org/article/algae-multicellular-evolution-study-debunked)
+
+[Algae Multicellular Evolution Study Debunked](https://www.icr.org/article/algae-multicellular-evolution-study-debunked/)
+
+Recent headlines claim, “Scientists Have Witnessed a Single-Celled Algae Evolve Into a Multicellular Organism.”1 In reality,...
 
 BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_still_say_noCambrian.jpg)](https://www.icr.org/article/the-fossils-still-say-no-the-cambrian-explosion)
+More Creation Science Update
 
-[The Fossils Still Say No: The Cambrian Explosion](https://www.icr.org/article/the-fossils-still-say-no-the-cambrian-explosion/)
+[![](/i/Main%20Stage%20-%201400x1050/seascorpion_1400x1050.jpg)](https://www.icr.org/article/sea-scorpion)
 
-The modern theory of evolution has its roots in Charles Darwin’s 1859 book On the Origin of Species, in which he proposed the fundamental conjecture...
+[Another Sea Scorpion](https://www.icr.org/article/sea-scorpion/)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+There are few animals more nightmarish than an 8-foot sea scorpion. Although, they were not true scorpions, their fossils display a menacing and formidable...
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/The_Final_Word.jpg)](https://www.icr.org/article/the-final-world)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[The Final World: Renovation or New Creation?](https://www.icr.org/article/the-final-world/)
+[![](/i/Main%20Stage%20-%201400x1050/saturns_rings_1400x1050.jpg)](https://www.icr.org/article/reminder-saturns-rings)
 
-In the beginning about 6,000 years ago, Jesus Christ created the heavens and the earth out of nothing, or ex nihilo, which I discussed in a previous...
+[Reminder: Saturn’s Rings Are Ephemeral and Young](https://www.icr.org/article/reminder-saturns-rings/)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+Scientists recently demonstrated that infalling particles from Saturn’s rings are the most likely source of a previously unaccounted-for excess...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/HexagonIndic_1400x1050.jpg)](https://www.icr.org/article/hexagon-indication)
+
+[The Hexagon: An Indication of Order and Design in Nature](https://www.icr.org/article/hexagon-indication/)
+
+In nature, noncoincidental patterns and geometry exist everywhere. But the number six appears to overshadow nature’s mathematical landscape. Whether...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32701/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
-The Ice Age and the Flood](https://store.icr.org/dr-jake-hebert-the-ice-age-and-the-flood.html)
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
 
 $2.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/37858586/file.jpg)
-
-El Conflicto Del Cambio Climáctico (Spanish)](https://store.icr.org/el-conflicto-del-cambio-climactico-spanish.html)
-
 $7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
 
-The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
 
 $4.99
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373091/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
 
-The Ice Age Real and Recent](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent.html)
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
+
+Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
 
 $7.99
 
 $9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
-
-The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
-
-$34.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
