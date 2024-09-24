@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Shouldve Been A CowboyToby Keith<br><br>4:59am |
-| Country Girl (Shake It For Me)Luke Bryan<br><br>4:55am |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:52am |
-| AustinDasha<br><br>4:49am |
-| Gonna Love YouParmalee<br><br>4:46am |
+| The Kind Of Love We MakeLuke Combs<br><br>11:38am |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:34am |
+| Our SongTaylor Swift<br><br>11:31am |
+| Try That In A Small TownJason Aldean<br><br>11:28am |
+| I Am Not OkayJelly Roll<br><br>11:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
+Top 40 • Pacific NW
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Top 40 • Pacific NW
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
