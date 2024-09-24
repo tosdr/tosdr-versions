@@ -21,7 +21,6 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ryan's World the Movie: Hero Bundle** Get two tickets, a mystery toy, and more!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rediscover the magic of Hogwarts!** Get tickets at a theater near you](https://www.fandango.com/movie-news/return-to-the-magic-of-hogwarts-in-theaters-755159?cmp=TARS~FANDANGO~Back_To_Hogwarts_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $5 off Transformers One on Fandango!
 
@@ -92,30 +91,30 @@ Offers
 New & Coming soon
 -----------------
 
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235359/WRB_Tree1Sheet6_RGB_1.jpg)
+    
+    The Wild Robot (2024)](https://www.fandango.com/the-wild-robot-2024-235359/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234515/BTLBTL_VERT_MAIN_2764x4096_DOM_REV.jpg)
     
     Beetlejuice Beetlejuice (2024)](https://www.fandango.com/beetlejuice-beetlejuice-2024-234515/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/230936/FND_poster_JokerFolieADeux-Presale.jpg)
+    
+    Joker: Folie à Deux (2024)](https://www.fandango.com/joker-folie-a-deux-2024-230936/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234524/TF1_DOM_Online_Payoff_1-Sheet_05_FIN5_1.jpg)
     
     Transformers One (2024)](https://www.fandango.com/transformers-one-2024-234524/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234516/DeapoolAndWolverine_2024.jpg)
     
     Deadpool & Wolverine (2024)](https://www.fandango.com/deadpool-and-wolverine-2024-234516/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237450/JUNG-KOOK_ONE-SHEET-ARTWORK-ENGLISH.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235827/SNE_Tsr1Sheet5_Comp93_RGB_2.jpg)
     
-    JUNG KOOK: I AM STILL (2024)](https://www.fandango.com/jung-kook-i-am-still-2024-237450/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235040/BlinkTwice_Poster_Press_2765x4096.jpg)
+    Speak No Evil (2024)](https://www.fandango.com/speak-no-evil-2024-235827/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237333/FND_poster_MyHeroAcademiaYoureNext-Presale.jpg)
     
-    Blink Twice (2024)](https://www.fandango.com/blink-twice-2024-235040/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236076/IEWU_Digi_1080x1920_01.jpg)
+    My Hero Academia: You're Next (2024)](https://www.fandango.com/my-hero-academia-youre-next-2024-237333/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237168/FND_poster_Terrifier3-Presale.jpg)
     
-    It Ends With Us (2024)](https://www.fandango.com/it-ends-with-us-2024-236076/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236610/AFRD_OnLine_1400x2100_GM_01.jpg)
-    
-    AfrAId (2024)](https://www.fandango.com/afraid-2024-236610/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234532/ALIEN_ROM_1SHT_DIGITAL_sRGB_Facehugger_V10.jpg)
-    
-    Alien: Romulus (2024)](https://www.fandango.com/alien-romulus-2024-234532/movie-overview)
+    Terrifier 3 (2024)](https://www.fandango.com/terrifier-3-2024-237168/movie-overview)
 
 ### Experience + Explore
 
@@ -225,16 +224,6 @@ Close
 #### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
 
 Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
-
-### Special Offer
-
-Close
-
-![Ryan's World the Movie: Hero Bundle](https://images.fandango.com/cms/assets/bb2ecd30-4ab4-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-ryansworld-343x362.jpg)
-
-#### Get two tickets to see Ryan's World The Movie: Titan Universe Adventure, a mystery toy, and more!
-
-Ryan's World the Movie: Hero Bundle and movie tickets are non-refundable and non-exchangeable. Limited time offer. While supplies last. Must be 18 or older to purchase. See Offer Terms for full details. [Buy Now](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_promomodule)
 
 ### Rediscover the magic of Hogwarts!
 
