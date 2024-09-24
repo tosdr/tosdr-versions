@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Biden to Defend His Foreign Policy in Final UN Address](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
+    
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden to Defend His Foreign Policy in Final UN Address](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden to Defend His Foreign Policy in Final UN Address](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5728951-Biden_White-House_Sept24-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-defend-his-foreign-policy-in-final-un-address-5728946)
+* [China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://www.theepochtimes.com/us/china-iran-russia-using-ai-to-influence-us-elections-intelligence-community-warns-5728862)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![China, Iran, Russia Using AI to Influence US Elections, Intelligence Community Warns](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5711644-GettyImages-2081068958-205x123.jpg.webp)](https://www.theepochtimes.com/us/china-iran-russia-using-ai-to-influence-us-elections-intelligence-community-warns-5728862)
+* [High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://www.theepochtimes.com/us/falling-response-rates-may-affect-quality-data-collection-in-monthly-jobs-report-5728586)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![High Survey Nonresponse Rates May Affect Monthly Jobs Report](https://img.theepochtimes.com/assets/uploads/2024/09/id5726803-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/falling-response-rates-may-affect-quality-data-collection-in-monthly-jobs-report-5728586)
+* [Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://www.theepochtimes.com/business/manufacturing-slumps-to-15-month-low-as-inflation-reaccelerates-5728744)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Manufacturing Slumps to 15-Month Low as Inflation Reaccelerates](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722409-GettyImages-1151712640-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/manufacturing-slumps-to-15-month-low-as-inflation-reaccelerates-5728744)
+* [Hochul Activates NY State Response After Person Dies of Eastern Equine Encephalitis](https://www.theepochtimes.com/us/hochul-activates-ny-state-action-after-person-dies-of-eastern-equine-encephalitis-5728875)
+    
+    NEW By [Mary Lou Lang](https://www.theepochtimes.com/author/mary-lou-lang)
+    
+    [![Hochul Activates NY State Response After Person Dies of Eastern Equine Encephalitis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hochul Activates NY State Response After Person Dies of Eastern Equine Encephalitis](https://img.theepochtimes.com/assets/uploads/2020/07/20/Virus-Outbreak-Insect-Illnesses-4-205x123.jpg.webp)](https://www.theepochtimes.com/us/hochul-activates-ny-state-action-after-person-dies-of-eastern-equine-encephalitis-5728875)
+* [RFK Jr. Asks Supreme Court to Restore His Name on New York Ballot](https://www.theepochtimes.com/us/rfk-jr-asks-supreme-court-to-restore-his-name-on-new-york-ballot-5728727)
+    
+    8hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![RFK Jr. Asks Supreme Court to Restore His Name on New York Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![RFK Jr. Asks Supreme Court to Restore His Name on New York Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723187-09102024-DSC08870-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/rfk-jr-asks-supreme-court-to-restore-his-name-on-new-york-ballot-5728727)
 * [Supreme Court Lets Anti-Doping Horse Racing Law Remain in Effect](https://www.theepochtimes.com/us/supreme-court-lets-anti-doping-horse-racing-law-remain-in-effect-5728739)
     
-    5hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    11hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Supreme Court Lets Anti-Doping Horse Racing Law Remain in Effect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Supreme Court Lets Anti-Doping Horse Racing Law Remain in Effect](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676339-GettyImages-1431397924-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-lets-anti-doping-horse-racing-law-remain-in-effect-5728739)
 * [US Forecasters Warn of Potential Hurricane Likely to Rapidly Intensify](https://www.theepochtimes.com/us/us-forecasters-warn-of-potential-hurricane-likely-to-form-and-rapidly-intensify-5728660)
     
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![US Forecasters Warn of Potential Hurricane Likely to Rapidly Intensify](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Forecasters Warn of Potential Hurricane Likely to Rapidly Intensify](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728663-hu119192312399-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-forecasters-warn-of-potential-hurricane-likely-to-form-and-rapidly-intensify-5728660)
 * [Day in Photos: Deadly Strikes, Return From Space, and an International Meeting](https://www.theepochtimes.com/article/day-in-photos-deadly-strikes-return-from-space-and-an-international-meeting-5728554)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Deadly Strikes, Return From Space, and an International Meeting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Deadly Strikes, Return From Space, and an International Meeting](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728809-GettyImages-2173180496-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-deadly-strikes-return-from-space-and-an-international-meeting-5728554)
 * [First Influenza Nasal Spray Approved for Self-Administration—Experts Weigh In](https://www.theepochtimes.com/health/first-influenza-nasal-spray-approved-for-self-administration-experts-weigh-in-5728821)
     
-    5hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    11hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
     [![First Influenza Nasal Spray Approved for Self-Administration—Experts Weigh In](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![First Influenza Nasal Spray Approved for Self-Administration—Experts Weigh In](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5722903-fda-eet-10.13-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/first-influenza-nasal-spray-approved-for-self-administration-experts-weigh-in-5728821)
-* [Congressional Watchdog Calls for Urgent FAA Reforms to Modernize Air Traffic Control Systems](https://www.theepochtimes.com/us/congressional-watchdog-calls-for-urgent-faa-reforms-to-modernize-air-traffic-control-systems-5728515)
-    
-    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Congressional Watchdog Calls for Urgent FAA Reforms to Modernize Air Traffic Control Systems](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Congressional Watchdog Calls for Urgent FAA Reforms to Modernize Air Traffic Control Systems](https://img.theepochtimes.com/assets/uploads/2021/09/21/AP21264689964746-205x123.jpg.webp)](https://www.theepochtimes.com/us/congressional-watchdog-calls-for-urgent-faa-reforms-to-modernize-air-traffic-control-systems-5728515)
-* [Nebraska Unlikely to Go Winner-Take-All as Key Republican Favors Status Quo](https://www.theepochtimes.com/us/nebraska-unlikely-to-go-winner-take-all-as-key-republican-favors-status-quo-5728696)
-    
-    6hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Nebraska Unlikely to Go Winner-Take-All as Key Republican Favors Status Quo](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Nebraska Unlikely to Go Winner-Take-All as Key Republican Favors Status Quo](https://img.theepochtimes.com/assets/uploads/2022/05/11/Neb-primary-vote-ballots-1200x800-205x123.jpg.webp)](https://www.theepochtimes.com/us/nebraska-unlikely-to-go-winner-take-all-as-key-republican-favors-status-quo-5728696)
-* [Europe’s Leading Battery Producer Cuts 20 Percent of Staff Amid Sluggish EV Demand](https://www.theepochtimes.com/world/europes-leading-battery-producer-cuts-20-percent-of-staff-amid-sluggish-ev-demand-5728641)
-    
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Europe’s Leading Battery Producer Cuts 20 Percent of Staff Amid Sluggish EV Demand](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Europe’s Leading Battery Producer Cuts 20 Percent of Staff Amid Sluggish EV Demand](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728805-GettyImages-2105321682-LS-205x123.webp)](https://www.theepochtimes.com/world/europes-leading-battery-producer-cuts-20-percent-of-staff-amid-sluggish-ev-demand-5728641)
-* [EU Takes China to WTO Over ‘Questionable’ Dairy Probe](https://www.theepochtimes.com/china/eu-takes-china-to-wto-over-questionable-dairy-probe-5728658)
-    
-    8hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
-    
-    [![EU Takes China to WTO Over ‘Questionable’ Dairy Probe](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![EU Takes China to WTO Over ‘Questionable’ Dairy Probe](https://img.theepochtimes.com/assets/uploads/2019/01/20/GettyImages-world-trade-organization-wto-945115862-205x123.jpg.webp)](https://www.theepochtimes.com/china/eu-takes-china-to-wto-over-questionable-dairy-probe-5728658)
-* [US Sending More Troops to Middle East as Tensions Rise](https://www.theepochtimes.com/world/us-sending-more-troops-to-middle-east-as-tensions-rise-5728012)
-    
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![US Sending More Troops to Middle East as Tensions Rise](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Sending More Troops to Middle East as Tensions Rise](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728808-Maj-SB-copy-2-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-sending-more-troops-to-middle-east-as-tensions-rise-5728012)
-* [US Plans to Bring Attempted Assassination Charge Against Ryan Routh](https://www.theepochtimes.com/us/federal-judge-orders-trump-assassination-suspect-ryan-routh-held-without-bail-5728665)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips) and [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![US Plans to Bring Attempted Assassination Charge Against Ryan Routh](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Plans to Bring Attempted Assassination Charge Against Ryan Routh](https://img.theepochtimes.com/assets/uploads/2024/09/23/id5728819-GettyImages-ryan-routh-courthouse-2173241349-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-orders-trump-assassination-suspect-ryan-routh-held-without-bail-5728665)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
