@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Why Socialists are getting more liberal? (42)](https://forum.nationstates.net/viewtopic.php?t=555723&f=20&view=unread#unread ""Why Socialists are getting more liberal?" (42 posts)")
-* [Out of the 2 AN’s: Which one has the… (2,696)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (2,696 posts)")
-* [American Politics: (Pumpkin)Spicy Sal… (8,232)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: (Pumpkin)Spicy Salaciousness in NC" (8,232 posts)")
-* [Create an Alternate Timeline (Revived… (329)](https://forum.nationstates.net/viewtopic.php?t=554588&f=25&view=unread#unread ""Create an Alternate Timeline (Revived v.3)" (329 posts)")
-* [Geography Game II (10,199)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,199 posts)")
+* [The Western Isles News (8,352)](https://forum.nationstates.net/viewtopic.php?t=337003&f=4&view=unread#unread ""The Western Isles News" (8,352 posts)")
+* [Did God order the Crusades? (274)](https://forum.nationstates.net/viewtopic.php?t=555680&f=20&view=unread#unread ""Did God order the Crusades?" (274 posts)")
+* [Is Wikipedia still a credible source? (108)](https://forum.nationstates.net/viewtopic.php?t=555478&f=20&view=unread#unread ""Is Wikipedia still a credible source?" (108 posts)")
+* [The Mutual Cooperation Pact (IC Assem… (5)](https://forum.nationstates.net/viewtopic.php?t=555739&f=5&view=unread#unread ""The Mutual Cooperation Pact (IC Assembly)" (5 posts)")
+* [The Collective Security League Assemb… (19)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (19 posts)")
 
 Advertisement
 
