@@ -455,6 +455,21 @@ This Agreement may be executed in two or more counterparts, each of which will b
   
  
 
+Current Mortgage Rates by Loan Type
+-----------------------------------
+
+* [10-year fixed-rate mortgage rates](https://www.freerateupdate.com/mortgage-rates/10-year-fixed-rate)
+* [15-year fixed-rate mortgage rates](https://www.freerateupdate.com/mortgage-rates/15-year-fixed-rate)
+* [20-year fixed-rate mortgage rates](https://www.freerateupdate.com/mortgage-rates/20-year-fixed-rate)
+* [30-year fixed-rate mortgage rates](https://www.freerateupdate.com/mortgage-rates/30-year-fixed-rate)
+* [30-year fixed-rate FHA mortgage rates](https://www.freerateupdate.com/mortgage-rates/30-year-fixed-rate-fha)
+* [30-year fixed-rate jumbo mortgage rates](https://www.freerateupdate.com/mortgage-rates/30-year-fixed-rate-jumbo)
+* [30-year fixed-rate VA mortgage rates](https://www.freerateupdate.com/mortgage-rates/30-year-fixed-rate-va)
+* [3-year adjustable-rate mortgage rates](https://www.freerateupdate.com/mortgage-rates/3-1-arm)
+* [5-year adjustable-rate mortgage rates](https://www.freerateupdate.com/mortgage-rates/5-1-arm)
+* [7-year adjustable-rate mortgage rates](https://www.freerateupdate.com/mortgage-rates/7-1-arm)
+* [HELOC mortgage rates](https://www.freerateupdate.com/mortgages/heloc)
+
 Current Mortgage Rates by State
 -------------------------------
 
