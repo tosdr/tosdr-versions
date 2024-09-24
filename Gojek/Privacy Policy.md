@@ -486,7 +486,6 @@ Browse Topics
 
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek PLUS](https://www.gojek.com/en-id/terms-and-condition/gojekplus)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek Transjakarta](https://www.gojek.com/en-id/terms-and-condition/gojek-transjakarta)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoPay](https://www.gojek.com/en-id/terms-and-condition/gopay)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoPayLater](https://www.gojek.com/en-id/terms-and-condition/gopaylater)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoTagihan](https://www.gojek.com/en-id/terms-and-condition/gotagihan)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoFood](https://www.gojek.com/en-id/terms-and-condition/gofood)
@@ -499,6 +498,7 @@ Browse Topics
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoCar](https://www.gojek.com/en-id/terms-and-condition/gocar)
 * [![logo](https://lelogama.go-jek.com/service_icon/bluebird_favicon_color.svg)GoBluebird](https://www.gojek.com/en-id/terms-and-condition/gobluebird)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek](https://www.gojek.com/en-id/terms-and-condition/gojek)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoPay](https://www.gojek.com/en-id/terms-and-condition/gopay)
 
 ![logo-white](https://lelogama.go-jek.com/prime/upload/gojek-horizontal-logo-white.svg)
 
