@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         Privacy Policy – Omax Health - Omax Health               
 
-Privacy Policy – Omax Health - Omax Health                                 
+    
+
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +305,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3388 reviews](https://omaxhealth.com/pages/reviews)
+[3389 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3069)
+(3070)
 
 5%
 
@@ -327,7 +329,17 @@ Go to product page
 
 (53)
 
-2186
+2187
+
+N
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Nury R.
+
+**The best**
+
+This is my second purchase my son-in-law and I both use it and swear by this I even use it on my next when I have headaches and my temples
 
 C
 
@@ -349,15 +361,5 @@ Marsha B.
 **Best ever roll on!**
 
 This is the best pain reliever I have ever used!!!!!
-
-A
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Annette R.
-
-**Good stuff!**
-
-Helps the aches & pains like nothing else!
 
 Load More
