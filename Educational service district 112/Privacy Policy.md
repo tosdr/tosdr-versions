@@ -102,6 +102,7 @@ Search for:
             * [School Nurse Corps Program](https://www.esd112.org/special-services/nursecorps/)
     * [Early Care & Education](https://www.esd112.org/ece/)
         * Preschool & Child Care
+            * [Advocacy in Early Care and Education](https://www.esd112.org/ece/child-care-advocacy/)
             * [Child Care (Birth to Five Years and School Age)](https://www.esd112.org/ece/child-care/)
             * [Child Care Aware of Washington](https://www.esd112.org/ece/child-care-aware/)
             * [CTE Job Shadowing Program](https://www.esd112.org/ece/cte-job-shadowing/)
