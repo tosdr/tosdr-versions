@@ -91,19 +91,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")20 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")September 23, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [By studying the eyes, a researcher explores how the brain sorts information](https://www.sciencenews.org/article/freek-van-ede-brain-attention-eye-sort)
             
-            By [Bethany Brookshire](https://www.sciencenews.org/author/bethany-brookshire "Posts by Bethany Brookshire")20 hours ago
+            By [Bethany Brookshire](https://www.sciencenews.org/author/bethany-brookshire "Posts by Bethany Brookshire")September 23, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [A cell biologist is investigating the balance of brain flexibility, stability](https://www.sciencenews.org/article/andrea-gomez-brain-flexibility-behavior)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")20 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 23, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")20 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")September 23, 2024
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [This biophysicist’s work could one day let doctors control immune cells](https://www.sciencenews.org/article/hawa-racine-thiam-cell-biology-physics)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")20 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")September 23, 2024
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
             ### [A biogeochemist is tracking the movements of toxic mercury pollution](https://www.sciencenews.org/article/jacqueline-gerson-mercury-movement)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")20 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,46 +138,46 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Environment](https://www.sciencenews.org/topic/environment)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [A vital ocean current is stable, for now](https://www.sciencenews.org/article/vital-ocean-florida-current-stable)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")2 hours ago
+            
+        * [Agriculture](https://www.sciencenews.org/topic/agriculture)
+            
+            ### [‘Smart lighting’ might make vertical farming more affordable](https://www.sciencenews.org/article/smart-lighting-vertical-farming)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")6 hours ago
+            
+        * [Environment](https://www.sciencenews.org/topic/environment)
             
             ### [A biogeochemist is tracking the movements of toxic mercury pollution](https://www.sciencenews.org/article/jacqueline-gerson-mercury-movement)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")20 hours ago
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Climate change could double U.S. temperature-linked deaths by mid-century](https://www.sciencenews.org/article/climate-change-double-temperature-death)
-            
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")September 20, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Earth’s ancient ‘greenhouse’ conditions were hotter than thought](https://www.sciencenews.org/article/earth-greenhouse-temperature-timeline)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 19, 2024
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
+            ### [Physicists just discovered the rarest particle decay ever](https://www.sciencenews.org/article/rarest-particle-decay-kaons)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")5 hours ago
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")18 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")24 hours ago
             
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")20 hours ago
-            
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [This biophysicist’s work could one day let doctors control immune cells](https://www.sciencenews.org/article/hawa-racine-thiam-cell-biology-physics)
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")20 hours ago
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")September 23, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
@@ -188,13 +188,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")18 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")24 hours ago
             
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [How did dark matter shape the universe? This physicist has ideas](https://www.sciencenews.org/article/tracy-slatyer-dark-matter-universe)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")20 hours ago
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")September 23, 2024
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
