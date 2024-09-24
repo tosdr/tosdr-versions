@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[NYC Schools Chancellor to resign in latest Adams admin turmoil: report](https://nypost.com/2024/09/24/us-news/nyc-schools-chancellor-david-banks-to-resign-in-latest-adams-admin-turmoil-report/)
+
 Terms Of Use
 ============
 
