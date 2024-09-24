@@ -24,8 +24,6 @@ MORE CAMERAS![insta360](https://res.insta360.com/static/59106ba9718b21a48e5ccbf8
 
 [Insta360 X4](https://www.insta360.com/product/insta360-x4)[Insta360 X3](https://www.insta360.com/product/insta360-x3)[Insta360 ONE RS 1-Inch 360 Edition](https://www.insta360.com/product/insta360-oners/1inch-360)[Insta360 ONE RS](https://www.insta360.com/product/insta360-oners)[Insta360 X2](https://www.insta360.com/product/insta360-onex2)[Insta360 Sphere](https://www.insta360.com/product/insta360-sphere/)[Insta360 ONE R](https://www.insta360.com/product/insta360-oner_twin-edition)[Insta360 ONE X](https://www.insta360.com/product/insta360-onex)[Insta360 EVO](https://www.insta360.com/product/insta360-evo)
 
-[Accessories](https://store.insta360.com/accessory?i_source=website&i_medium=consumer_accessory&i_campaign=accessory)
-
 Wide-Angle Cameras
 
 [Insta360 GO 3S Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
@@ -36,7 +34,11 @@ Handheld Gimbals
 
 Webcams
 
-[Insta360 Link](https://www.insta360.com/product/insta360-link)
+[Insta360 Link 2 Insta360 Link 2C](https://www.insta360.com/product/insta360-link2)[Insta360 Link](https://www.insta360.com/product/insta360-link)
+
+Accessories
+
+[Accessories](https://store.insta360.com/accessory?i_source=website&i_medium=consumer_accessory&i_campaign=accessory)
 
 Comparison
 
@@ -70,15 +72,7 @@ Support
 
 Shop by Interest
 
-[![insta360](https://res.insta360.com/static/d93d04cba1e57b20a6eb77bcadccb2c2/Motorcycle.jpg)
-
-Motorcycle](https://store.insta360.com/motorcycling?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/d8016480b0cd3a9b2b5507c1b5be05cf/WaterSports.jpg)
-
-Water Sports](https://store.insta360.com/water-sports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/9af1a60fefc6558c1fdce30406fe9767/Biking.jpg)
-
-Biking](https://store.insta360.com/biking?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/3b367cfe96c778b09dbd26d0167b10f9/WinterSports.jpg)
-
-Winter Sports](https://store.insta360.com/wintersports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)
+[Motorcycle](https://store.insta360.com/motorcycling?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[Water Sports](https://store.insta360.com/water-sports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[Biking](https://store.insta360.com/biking?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[Winter Sports](https://store.insta360.com/wintersports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)
 
 ![insta360](https://static.insta360.com/assets/storage/20200415/5dcca8dd62b5ac5d7b910ba9ec84e860/en_us_2x.png)
 
@@ -419,7 +413,7 @@ No
 * [Insta360 ONE RS](https://www.insta360.com/product/insta360-oners)
 * [Insta360 ONE RS 1-Inch 360](https://www.insta360.com/product/insta360-oners/1inch-360)
 * [Insta360 Flow Pro & Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
-* [Insta360 Link](https://www.insta360.com/product/insta360-link)
+* [Insta360 Link 2 & Insta360 Link 2C](https://www.insta360.com/product/insta360-link2)
 
 ### Support
 
