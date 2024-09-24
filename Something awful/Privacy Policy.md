@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Advanced Dungeons & Dragons: Monster Manual II (part 1)](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-modron/1/)
+* [Advanced Dungeons & Dragons: 1st Edition Fiend Folio (part 2)](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-2/1/)
 * [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Something Awesome's 10 Hottest Celebrity Racks](https://www.somethingawful.com/feature-articles/stupid-sexy-list/1/)
-* [Phake Games 4](https://www.somethingawful.com/photoshop-phriday/phake-games-4/1/)
-* [Two weeks with a Canker Sore: A Journal](https://www.somethingawful.com/news/canker-sore/1/)
-* [Why Didn't You Invest in Eastern Poland?](https://www.somethingawful.com/photoshop-phriday/invest-eastern-poland/1/)
+* [The Terrible Truth About Dolphins](https://www.somethingawful.com/awful-movie-database/terrible-truth-about/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [Have any goons ever been on a cruise?](http://forums.somethingawful.com/showthread.php?threadid=4071003 "Have any goons ever been on a cruise?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Are there people hiding in your house? Phrogging Megathread](http://forums.somethingawful.com/showthread.php?threadid=4070984 "Are there people hiding in your house? Phrogging Megathread")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [Have any goons ever been on a cruise?](http://forums.somethingawful.com/showthread.php?threadid=4071003 "Have any goons ever been on a cruise?")
 
 ### Random Articles
 
-* [The Call of Contestlhu: Hard Ticket to Baghdad](https://www.somethingawful.com/dungeons-and-dragons/hard-ticket-cthulhu/)
-* [Charlie Bucket and the Chocolate Factory](https://www.somethingawful.com/news/charlie-bucket-chocolate/)
-* [Staff Picks: The Best Gaming Laptops](https://www.somethingawful.com/video-game-article/gaming-laptop-picks/)
-* [The Site of the Mighty SUNGOD](https://www.somethingawful.com/awful-links/awful-link-857/)
-* [Marylen's Costumes](https://www.somethingawful.com/awful-links/awful-link-1786/)
+* [Jenny Smedley](https://www.somethingawful.com/awful-links/awful-link-2247/)
+* [Jeff Boss For President! (Thanks, TB-303 Player and Satellite High!)](https://www.somethingawful.com/awful-links/jeff-boss-president/)
+* [Birdman Bryant: The World's Most Controversial Author](https://www.somethingawful.com/awful-links/birdman-libertarian-racist/)
+* [Only Anal Bleaching (Thanks, Neon Poppet!)](https://www.somethingawful.com/awful-links/only-anal-bleaching/)
+* [Smoke and Balloons (Thanks, Sean!) (NWS!)](https://www.somethingawful.com/awful-links/smoke-balloons-fetish/)
 
 [Random!](https://www.somethingawful.com/random/)
 
