@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1922843361_menu)
+ [Compartilhar](#elShareItem_365288309_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1986828283_menu)
+ [Compartilhar](#elShareItem_599122206_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![S3DEX](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253434-s3dex/ "Ir ao perfil de S3DEX")
+    * [![droid662](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1237774.thumb.jpeg.30347532d16a0cfabefcd44172c8ce29.jpeg)](https://www.clubedohardware.com.br/profile/1237774-droid662/ "Ir ao perfil de droid662")
         
-        2
+        4
         
-        [Qual é a melhor escolha? GeForce RTX 3050 ou Radeon RX 6500 XT 8gb](https://www.clubedohardware.com.br/forums/topic/1698126-qual-%C3%A9-a-melhor-escolha-geforce-rtx-3050-ou-radeon-rx-6500-xt-8gb/?do=getNewComment "Qual é a melhor escolha? GeForce RTX 3050 ou Radeon RX 6500 XT 8gb")
+        [Conectar Fans da GPU na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1698136-conectar-fans-da-gpu-na-placa-m%C3%A3e/?do=getNewComment "Conectar Fans da GPU na placa-mãe")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [S3DEX](https://www.clubedohardware.com.br/profile/1253434-s3dex/ "Ir ao perfil de S3DEX")  
-        15 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [droid662](https://www.clubedohardware.com.br/profile/1237774-droid662/ "Ir ao perfil de droid662")  
+        4 horas atrás
         
-    * [![HenriqueV5](https://www.clubedohardware.com.br/uploads/members/monthly_2023_02/avatar-min.thumb.png.57f90b1c8d5eb8bdebace28f9464ae39.png)](https://www.clubedohardware.com.br/profile/1212542-henriquev5/ "Ir ao perfil de HenriqueV5")
+    * [![LuisGust4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253487.thumb.jpeg.3ade7de6602fe25782c3d7694b190892.jpeg)](https://www.clubedohardware.com.br/profile/1253487-luisgust4/ "Ir ao perfil de LuisGust4")
         
         0
         
-        [Monitor LCD com tela manchada, tem conserto ou é lixo?](https://www.clubedohardware.com.br/forums/topic/1698125-monitor-lcd-com-tela-manchada-tem-conserto-ou-%C3%A9-lixo/?do=getNewComment "Monitor LCD com tela manchada, tem conserto ou é lixo?")
+        [GTX 1650 ou GTX 1660 super da Aliexpress( Veineda)?](https://www.clubedohardware.com.br/forums/topic/1698135-gtx-1650-ou-gtx-1660-super-da-aliexpress-veineda/?do=getNewComment "GTX 1650 ou GTX 1660 super da Aliexpress( Veineda)?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [LuisGust4](https://www.clubedohardware.com.br/profile/1253487-luisgust4/ "Ir ao perfil de LuisGust4")  
+        4 horas atrás
+        
+    * [![Dogetheshibe](https://www.clubedohardware.com.br/uploads/members/monthly_2018_11/imported-photo-1016672.thumb.jpeg.cc3a56cdc1830cd2952dcb30d8a989b7.jpeg)](https://www.clubedohardware.com.br/profile/1016672-dogetheshibe/ "Ir ao perfil de Dogetheshibe")
+        
+        0
+        
+        [Placa de vídeo fica travando e reiniciando o pc após atualização de hardware](https://www.clubedohardware.com.br/forums/topic/1698134-placa-de-v%C3%ADdeo-fica-travando-e-reiniciando-o-pc-ap%C3%B3s-atualiza%C3%A7%C3%A3o-de-hardware/?do=getNewComment "Placa de vídeo fica travando e reiniciando o pc após atualização de hardware")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Dogetheshibe](https://www.clubedohardware.com.br/profile/1016672-dogetheshibe/ "Ir ao perfil de Dogetheshibe")  
+        4 horas atrás
+        
+    * [![Arthurbp19](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1122838.thumb.jpeg.4a6f3d99ce96de0a666dfdb51d0a4154.jpeg)](https://www.clubedohardware.com.br/profile/1122838-arthurbp19/ "Ir ao perfil de Arthurbp19")
+        
+        0
+        
+        [Valor para um ideapad 330](https://www.clubedohardware.com.br/forums/topic/1698133-valor-para-um-ideapad-330/?do=getNewComment "Valor para um ideapad 330")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Arthurbp19](https://www.clubedohardware.com.br/profile/1122838-arthurbp19/ "Ir ao perfil de Arthurbp19")  
+        5 horas atrás
+        
+    * [![Rafael Rumpel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253537.thumb.jpeg.1c808b15ea6d51578d8837ad24ce807c.jpeg)](https://www.clubedohardware.com.br/profile/1253537-rafael-rumpel/ "Ir ao perfil de Rafael Rumpel")
+        
+        0
+        
+        [Firmware/Drivers errados no site da Red Dragon](https://www.clubedohardware.com.br/forums/topic/1698132-firmwaredrivers-errados-no-site-da-red-dragon/?do=getNewComment "Firmware/Drivers errados no site da Red Dragon")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Rafael Rumpel](https://www.clubedohardware.com.br/profile/1253537-rafael-rumpel/ "Ir ao perfil de Rafael Rumpel")  
+        5 horas atrás
+        
+    * [![ManoBrown442](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1057797.thumb.jpeg.f2c4b46dd4511d66fd18097bdbcef0f5.jpeg)](https://www.clubedohardware.com.br/profile/1057797-manobrown442/ "Ir ao perfil de ManoBrown442")
+        
+        2
+        
+        [tmpin0 com temperatura alta? normal ou não](https://www.clubedohardware.com.br/forums/topic/1698131-tmpin0-com-temperatura-alta-normal-ou-n%C3%A3o/?do=getNewComment "tmpin0 com temperatura alta? normal ou não")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [ManoBrown442](https://www.clubedohardware.com.br/profile/1057797-manobrown442/ "Ir ao perfil de ManoBrown442")  
+        5 horas atrás
+        
+    * [![Estevão Nascimento](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243329.thumb.jpeg.7a4ae4d00b57680e06940d1c93613cd4.jpeg)](https://www.clubedohardware.com.br/profile/1243329-estev%C3%A3o-nascimento/ "Ir ao perfil de Estevão Nascimento")
+        
+        0
+        
+        [Mancha Preta no Monitor (E crescendo)](https://www.clubedohardware.com.br/forums/topic/1698130-mancha-preta-no-monitor-e-crescendo/?do=getNewComment "Mancha Preta no Monitor (E crescendo)")
         
         [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [HenriqueV5](https://www.clubedohardware.com.br/profile/1212542-henriquev5/ "Ir ao perfil de HenriqueV5")  
-        26 minutos atrás
+        Por [Estevão Nascimento](https://www.clubedohardware.com.br/profile/1243329-estev%C3%A3o-nascimento/ "Ir ao perfil de Estevão Nascimento")  
+        5 horas atrás
         
-    * [![Gustavo_berg](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253435.thumb.png.5a7ba690f0590e68dcc4de3501ed913c.png)](https://www.clubedohardware.com.br/profile/1253435-gustavo_berg/ "Ir ao perfil de Gustavo_berg")
+    * [![cyberbot231](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1081146.thumb.jpeg.1572e30fe487cc9c4edfb5c004d92338.jpeg)](https://www.clubedohardware.com.br/profile/1081146-cyberbot231/ "Ir ao perfil de cyberbot231")
         
-        1
+        0
         
-        [ASRock Radeon RX 6600 vale a pena por R$ 1398,99?](https://www.clubedohardware.com.br/forums/topic/1698124-asrock-radeon-rx-6600-vale-a-pena-por-r-139899/?do=getNewComment "ASRock Radeon RX 6600 vale a pena por R$ 1398,99?")
+        [Ryzen 5 7600x/7600 + RX 7700 XT, Qual PLACA-MÃE comprar?](https://www.clubedohardware.com.br/forums/topic/1698129-ryzen-5-7600x7600-rx-7700-xt-qual-placa-m%C3%A3e-comprar/?do=getNewComment "Ryzen 5 7600x/7600 + RX 7700 XT, Qual PLACA-MÃE comprar?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Gustavo\_berg](https://www.clubedohardware.com.br/profile/1253435-gustavo_berg/ "Ir ao perfil de Gustavo_berg")  
-        54 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [cyberbot231](https://www.clubedohardware.com.br/profile/1081146-cyberbot231/ "Ir ao perfil de cyberbot231")  
+        5 horas atrás
         
-    * [![felipeK/](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/obito2.thumb.webp.cfc19f554cca8bd76f92768ceefe88af.webp)](https://www.clubedohardware.com.br/profile/1100500-felipek/ "Ir ao perfil de felipeK/")
-        
-        1
-        
-        [Windows não inicia após troca de placa-mãe+CPU](https://www.clubedohardware.com.br/forums/topic/1698117-windows-n%C3%A3o-inicia-ap%C3%B3s-troca-de-placa-m%C3%A3ecpu/?do=getNewComment "Windows não inicia após troca de placa-mãe+CPU")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [felipeK/](https://www.clubedohardware.com.br/profile/1100500-felipek/ "Ir ao perfil de felipeK/")  
-        1 hora atrás
-        
-    * [![Wellingtonkpa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253529.thumb.jpeg.27f325316d340c140ff567131073bb14.jpeg)](https://www.clubedohardware.com.br/profile/1253529-wellingtonkpa/ "Ir ao perfil de Wellingtonkpa")
-        
-        1
-        
-        [Rede Wifi caindo em jogos online - Wifi AX210 5GHz](https://www.clubedohardware.com.br/forums/topic/1698116-rede-wifi-caindo-em-jogos-online-wifi-ax210-5ghz/?do=getNewComment "Rede Wifi caindo em jogos online - Wifi AX210 5GHz")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Wellingtonkpa](https://www.clubedohardware.com.br/profile/1253529-wellingtonkpa/ "Ir ao perfil de Wellingtonkpa")  
-        1 hora atrás
-        
-    * [![Daniel Agostini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245253.thumb.jpeg.13caa956ce46eb1d6a91ba318b93e9be.jpeg)](https://www.clubedohardware.com.br/profile/1245253-daniel-agostini/ "Ir ao perfil de Daniel Agostini")
+    * [![EvilTwizzy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/51de07fc1d5b26425a2a11bbd266efed.thumb.jpg.c383cf203cf995069b0b4ffe43afa0a6.jpg)](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")
         
         2
         
-        [indicação de placa de vídeo para Core i5 10400 e 16GB](https://www.clubedohardware.com.br/forums/topic/1698112-indica%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-core-i5-10400-e-16gb/?do=getNewComment "indicação de placa de vídeo para Core i5 10400 e 16GB")
+        [WiFi muda muito da internet cabeada?](https://www.clubedohardware.com.br/forums/topic/1698128-wifi-muda-muito-da-internet-cabeada/?do=getNewComment "WiFi muda muito da internet cabeada?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Daniel Agostini](https://www.clubedohardware.com.br/profile/1245253-daniel-agostini/ "Ir ao perfil de Daniel Agostini")  
-        1 hora atrás
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [EvilTwizzy](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")  
+        5 horas atrás
         
-    * [![VictorCzz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627d%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253528-victorczz/ "Ir ao perfil de VictorCzz")
-        
-        0
-        
-        [Controladora Lian Li na placa-mãe Aorus B550m](https://www.clubedohardware.com.br/forums/topic/1698111-controladora-lian-li-na-placa-m%C3%A3e-aorus-b550m/?do=getNewComment "Controladora Lian Li na placa-mãe Aorus B550m")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [VictorCzz](https://www.clubedohardware.com.br/profile/1253528-victorczz/ "Ir ao perfil de VictorCzz")  
-        1 hora atrás
-        
-    * [![fael.xxz_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253527.thumb.jpeg.afe857b95ab884bbcad446958e78d614.jpeg)](https://www.clubedohardware.com.br/profile/1253527-faelxxz_/ "Ir ao perfil de fael.xxz_")
-        
-        1
-        
-        [Quero Saber se as temperaturas estão ok](https://www.clubedohardware.com.br/forums/topic/1698110-quero-saber-se-as-temperaturas-est%C3%A3o-ok/?do=getNewComment "Quero Saber se as temperaturas estão ok")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [fael.xxz\_](https://www.clubedohardware.com.br/profile/1253527-faelxxz_/ "Ir ao perfil de fael.xxz_")  
-        1 hora atrás
-        
-    * [![GilbertoM12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1217563.thumb.png.6cb3627604375d3552d2bf0d8815fa34.png)](https://www.clubedohardware.com.br/profile/1217563-gilbertom12/ "Ir ao perfil de GilbertoM12")
-        
-        1
-        
-        [Recomendaçao para pasta termica](https://www.clubedohardware.com.br/forums/topic/1698109-recomenda%C3%A7ao-para-pasta-termica/?do=getNewComment "Recomendaçao para pasta termica")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [GilbertoM12](https://www.clubedohardware.com.br/profile/1217563-gilbertom12/ "Ir ao perfil de GilbertoM12")  
-        2 horas atrás
-        
-    * [![pedropaes1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252450.thumb.png.d184f91aea55e54f46ce61c280cb8181.png)](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")
+    * [![Lucas_Salvador](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253533.thumb.png.49eff15425f2d6a7c6605b8d14df90a4.png)](https://www.clubedohardware.com.br/profile/1253533-lucas_salvador/ "Ir ao perfil de Lucas_Salvador")
         
         0
         
-        [Indicação de placa de Vídeo para Core i5 12400f e B660m](https://www.clubedohardware.com.br/forums/topic/1698108-indica%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-core-i5-12400f-e-b660m/?do=getNewComment "Indicação de placa de Vídeo para Core i5 12400f e B660m")
+        [Processador i5 13400F em 100 graus no Warzone 3](https://www.clubedohardware.com.br/forums/topic/1698127-processador-i5-13400f-em-100-graus-no-warzone-3/?do=getNewComment "Processador i5 13400F em 100 graus no Warzone 3")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [pedropaes1](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")  
-        2 horas atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Lucas\_Salvador](https://www.clubedohardware.com.br/profile/1253533-lucas_salvador/ "Ir ao perfil de Lucas_Salvador")  
+        5 horas atrás
         
     
 
