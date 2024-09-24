@@ -1,4 +1,6 @@
-![](https://www.facebook.com/tr?id=2848108315341553&ev=PageView&noscript=1)       [Skip to content](#content)
+![](https://www.facebook.com/tr?id=2848108315341553&ev=PageView&noscript=1)          
+
+[Skip to content](#content)
 
 * [Call Wheaton: (630) 469-7696](tel:(630)%20469-7696)
 * [722 S President St, Wheaton, IL 60189](https://maps.app.goo.gl/dB6VQY5fMnNbfLu38)
@@ -13,7 +15,7 @@
 
 [Patient Portal](https://dpdsmiles.curveconnex.com/login/?path=%2Fportal%2F)
 
-[![](https://www.dpdsmiles.com/wp-content/uploads/2024/08/IMG_20240821_124347-1024x1024.jpg)](https://www.dpdsmiles.com/)
+[![DPD Smiles Logo](https://www.dpdsmiles.com/wp-content/uploads/2024/08/IMG_20240821_124347-1024x1024.jpg)](https://www.dpdsmiles.com/)
 
 * [Home](https://www.dpdsmiles.com/)
 * [About Us](https://www.dpdsmiles.com/about-us/)
@@ -31,6 +33,7 @@
     * [Invisalign](https://www.dpdsmiles.com/invisalign/)
     * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
     * [Pediatric Dentistry](https://www.dpdsmiles.com/pediatric-dentistry/)
+    * [Wisdom Teeth Removal](https://www.dpdsmiles.com/wisdom-teeth-removal/)
     * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
     * [Special Needs Dentistry](https://www.dpdsmiles.com/special-needs-dentistry/)
 * [St. Charles](https://www.dpdsmiles.com/st-charles/)
@@ -86,6 +89,7 @@ Menu
     * [Invisalign](https://www.dpdsmiles.com/invisalign/)
     * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
     * [Pediatric Dentistry](https://www.dpdsmiles.com/pediatric-dentistry/)
+    * [Wisdom Teeth Removal](https://www.dpdsmiles.com/wisdom-teeth-removal/)
     * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
     * [Special Needs Dentistry](https://www.dpdsmiles.com/special-needs-dentistry/)
 * [St. Charles](https://www.dpdsmiles.com/st-charles/)
@@ -181,7 +185,7 @@ General Terms and Conditions applicable to Use of a Website.
 
 [Contact Us!](https://www.dpdsmiles.com/contact-us/)
 
-[![](https://www.dpdsmiles.com/wp-content/uploads/2024/08/IMG_20240821_124347.jpg)](https://www.dpdsmiles.com/)
+[![DPD Smiles Logo](https://www.dpdsmiles.com/wp-content/uploads/2024/08/IMG_20240821_124347.jpg)](https://www.dpdsmiles.com/)
 
 * DPD Smiles is a pediatric, orthodontic and oral surgery dental office committed to creating and nurturing long lasting relationships.
 
