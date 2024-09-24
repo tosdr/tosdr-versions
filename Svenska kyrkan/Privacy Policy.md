@@ -7,6 +7,8 @@ Svenska kyrkan Svenska kyrkan](https://www.svenskakyrkan.se/)
 
 Sök Meny
 
+[Kalender](https://www.svenskakyrkan.se/kalender?webId=1374643) [Kyrkor](https://www.svenskakyrkan.se/platser)
+
 * [Dop](https://www.svenskakyrkan.se/dop)
     
     * [Barndop](https://www.svenskakyrkan.se/dop/barndop)
@@ -525,7 +527,7 @@ Sök Meny
                 
             * [Ärkebiskopen](https://www.svenskakyrkan.se/arkebiskopen)
                 
-                * [Kontakt – ärkebiskopens stab](https://www.svenskakyrkan.se/arkebiskopen/stab)
+                * [Kontakt – ärkebiskopens stab](https://www.svenskakyrkan.se/arkebiskopen/arkebiskop-antje/stab)
                     
                 * [Ärkebiskop Martin Modéus](https://www.svenskakyrkan.se/arkebiskopen/arkebiskop-martin)
                     
