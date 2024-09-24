@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1510755245_menu)
+ [Compartilhar](#elShareItem_1922843361_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -147,8 +147,8 @@ Posts recomendados
     
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
-* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.960 posts")
-* 12.929
+* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.961 posts")
+* 12.931
 * 16/01/2002
 *  Offline
 
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1527122490_menu)
+ [Compartilhar](#elShareItem_1986828283_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -363,119 +363,107 @@ Mais opções...
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
-* ### Popular agora
-    
-    * [![JRicardo1995](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/Dino.thumb.png.74ec7c61e6d01067921fca462cb20775.png)](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")
-        
-        11
-        
-        [Dicas para fazer meu PC rodar RDR2 e GOW Ragnarok a Full HD Ultra 60fps](https://www.clubedohardware.com.br/forums/topic/1698092-dicas-para-fazer-meu-pc-rodar-rdr2-e-gow-ragnarok-a-full-hd-ultra-60fps/ "Visualizar tópico")
-        
-        Por [JRicardo1995](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")  
-        1 hora atrás
-        
-    
 * ### Últimos tópicos
     
-    * [![José S.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249244.thumb.jpeg.22bebe01ffb9c25b5adec651ac3b9afb.jpeg)](https://www.clubedohardware.com.br/profile/1249244-jos%C3%A9-s/ "Ir ao perfil de José S.")
+    * [![S3DEX](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253434-s3dex/ "Ir ao perfil de S3DEX")
         
-        3
+        2
         
-        [Gabinete ao lado do monitor pode atrapalhar refrigeração?](https://www.clubedohardware.com.br/forums/topic/1698093-gabinete-ao-lado-do-monitor-pode-atrapalhar-refrigera%C3%A7%C3%A3o/?do=getNewComment "Gabinete ao lado do monitor pode atrapalhar refrigeração?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [José S.](https://www.clubedohardware.com.br/profile/1249244-jos%C3%A9-s/ "Ir ao perfil de José S.")  
-        48 minutos atrás
-        
-    * [![JRicardo1995](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/Dino.thumb.png.74ec7c61e6d01067921fca462cb20775.png)](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")
-        
-        10
-        
-        [Dicas para fazer meu PC rodar RDR2 e GOW Ragnarok a Full HD Ultra 60fps](https://www.clubedohardware.com.br/forums/topic/1698092-dicas-para-fazer-meu-pc-rodar-rdr2-e-gow-ragnarok-a-full-hd-ultra-60fps/?do=getNewComment "Dicas para fazer meu PC rodar RDR2 e GOW Ragnarok a Full HD Ultra 60fps")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [JRicardo1995](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")  
-        1 hora atrás
-        
-    * [![Magnalium](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253299.thumb.png.75154555bf501885d2fdde7699e18b7c.png)](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")
-        
-        3
-        
-        [Como ver o tempo de uso de uma placa de vídeo ?](https://www.clubedohardware.com.br/forums/topic/1698091-como-ver-o-tempo-de-uso-de-uma-placa-de-v%C3%ADdeo/?do=getNewComment "Como ver o tempo de uso de uma placa de vídeo ?")
+        [Qual é a melhor escolha? GeForce RTX 3050 ou Radeon RX 6500 XT 8gb](https://www.clubedohardware.com.br/forums/topic/1698126-qual-%C3%A9-a-melhor-escolha-geforce-rtx-3050-ou-radeon-rx-6500-xt-8gb/?do=getNewComment "Qual é a melhor escolha? GeForce RTX 3050 ou Radeon RX 6500 XT 8gb")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Magnalium](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")  
-        1 hora atrás
+        Por [S3DEX](https://www.clubedohardware.com.br/profile/1253434-s3dex/ "Ir ao perfil de S3DEX")  
+        15 minutos atrás
         
-    * [![SickAndTired](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1189696.thumb.png.7727378c92f4d5f72f58a12a4d487b35.png)](https://www.clubedohardware.com.br/profile/1189696-sickandtired/ "Ir ao perfil de SickAndTired")
+    * [![HenriqueV5](https://www.clubedohardware.com.br/uploads/members/monthly_2023_02/avatar-min.thumb.png.57f90b1c8d5eb8bdebace28f9464ae39.png)](https://www.clubedohardware.com.br/profile/1212542-henriquev5/ "Ir ao perfil de HenriqueV5")
         
-        3
+        0
         
-        [Dois monitores, apenas um reinicia sozinho](https://www.clubedohardware.com.br/forums/topic/1698089-dois-monitores-apenas-um-reinicia-sozinho/?do=getNewComment "Dois monitores, apenas um reinicia sozinho")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [SickAndTired](https://www.clubedohardware.com.br/profile/1189696-sickandtired/ "Ir ao perfil de SickAndTired")  
-        1 hora atrás
-        
-    * [![Lucas0120](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1089298-lucas0120/ "Ir ao perfil de Lucas0120")
-        
-        3
-        
-        [Teclado Machenike K500-B61 ou KBM! GAMING TG600?](https://www.clubedohardware.com.br/forums/topic/1698088-teclado-machenike-k500-b61-ou-kbm-gaming-tg600/?do=getNewComment "Teclado Machenike K500-B61 ou KBM! GAMING TG600?")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Lucas0120](https://www.clubedohardware.com.br/profile/1089298-lucas0120/ "Ir ao perfil de Lucas0120")  
-        2 horas atrás
-        
-    * [![Calebe A Melo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253096.thumb.png.979a3027b03df364fd4a2d114823b4c8.png)](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")
-        
-        3
-        
-        [Monitores custo-benefício até R$ 1.000,00](https://www.clubedohardware.com.br/forums/topic/1698087-monitores-custo-benef%C3%ADcio-at%C3%A9-r-100000/?do=getNewComment "Monitores custo-benefício até R$ 1.000,00")
+        [Monitor LCD com tela manchada, tem conserto ou é lixo?](https://www.clubedohardware.com.br/forums/topic/1698125-monitor-lcd-com-tela-manchada-tem-conserto-ou-%C3%A9-lixo/?do=getNewComment "Monitor LCD com tela manchada, tem conserto ou é lixo?")
         
         [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Calebe A Melo](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")  
-        2 horas atrás
+        Por [HenriqueV5](https://www.clubedohardware.com.br/profile/1212542-henriquev5/ "Ir ao perfil de HenriqueV5")  
+        26 minutos atrás
         
-    * [![GabrielleC](https://www.clubedohardware.com.br/uploads/members/monthly_2020_12/34199868_607531202943895_3878025477360713728_n.thumb.jpg.ff7092bf169db46cbbf3b22d981166a1.jpg)](https://www.clubedohardware.com.br/profile/788432-gabriellec/ "Ir ao perfil de GabrielleC")
-        
-        3
-        
-        [Upgrade de Ryzen 3 2200G p/ Ryzen 5 8500G + peças remanescentes p/ novo PC basic](https://www.clubedohardware.com.br/forums/topic/1698086-upgrade-de-ryzen-3-2200g-p-ryzen-5-8500g-pe%C3%A7as-remanescentes-p-novo-pc-basic/?do=getNewComment "Upgrade de Ryzen 3 2200G p/ Ryzen 5 8500G + peças remanescentes p/ novo PC basic")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [GabrielleC](https://www.clubedohardware.com.br/profile/788432-gabriellec/ "Ir ao perfil de GabrielleC")  
-        2 horas atrás
-        
-    * [![M0E](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/75a7801776d1e4d548f1bd5a46654eee.thumb.webp.c898f5cfca511b37b4ec889fcba6a8ec.webp)](https://www.clubedohardware.com.br/profile/1253512-m0e/ "Ir ao perfil de M0E")
-        
-        12
-        
-        [Fonte que suporte o Ryzen 5 3600 e Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1698085-fonte-que-suporte-o-ryzen-5-3600-e-radeon-rx-6600/?do=getNewComment "Fonte que suporte o Ryzen 5 3600 e Radeon RX 6600")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [M0E](https://www.clubedohardware.com.br/profile/1253512-m0e/ "Ir ao perfil de M0E")  
-        2 horas atrás
-        
-    * [![Wesley2314](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1138888-wesley2314/ "Ir ao perfil de Wesley2314")
-        
-        3
-        
-        [Tampa do slot PCI tampando placa de vídeo](https://www.clubedohardware.com.br/forums/topic/1698084-tampa-do-slot-pci-tampando-placa-de-v%C3%ADdeo/?do=getNewComment "Tampa do slot PCI tampando placa de vídeo")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Wesley2314](https://www.clubedohardware.com.br/profile/1138888-wesley2314/ "Ir ao perfil de Wesley2314")  
-        2 horas atrás
-        
-    * [![LightsDark](https://www.clubedohardware.com.br/uploads/members/monthly_2019_04/4.thumb.jpg.cc84d88fcf2bb043ccda779d24a8557a.jpg)](https://www.clubedohardware.com.br/profile/1038029-lightsdark/ "Ir ao perfil de LightsDark")
+    * [![Gustavo_berg](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253435.thumb.png.5a7ba690f0590e68dcc4de3501ed913c.png)](https://www.clubedohardware.com.br/profile/1253435-gustavo_berg/ "Ir ao perfil de Gustavo_berg")
         
         1
         
-        [Qual processador usar junto com a RX 570 4GB?](https://www.clubedohardware.com.br/forums/topic/1698083-qual-processador-usar-junto-com-a-rx-570-4gb/?do=getNewComment "Qual processador usar junto com a RX 570 4GB?")
+        [ASRock Radeon RX 6600 vale a pena por R$ 1398,99?](https://www.clubedohardware.com.br/forums/topic/1698124-asrock-radeon-rx-6600-vale-a-pena-por-r-139899/?do=getNewComment "ASRock Radeon RX 6600 vale a pena por R$ 1398,99?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [LightsDark](https://www.clubedohardware.com.br/profile/1038029-lightsdark/ "Ir ao perfil de LightsDark")  
-        3 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Gustavo\_berg](https://www.clubedohardware.com.br/profile/1253435-gustavo_berg/ "Ir ao perfil de Gustavo_berg")  
+        54 minutos atrás
+        
+    * [![felipeK/](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/obito2.thumb.webp.cfc19f554cca8bd76f92768ceefe88af.webp)](https://www.clubedohardware.com.br/profile/1100500-felipek/ "Ir ao perfil de felipeK/")
+        
+        1
+        
+        [Windows não inicia após troca de placa-mãe+CPU](https://www.clubedohardware.com.br/forums/topic/1698117-windows-n%C3%A3o-inicia-ap%C3%B3s-troca-de-placa-m%C3%A3ecpu/?do=getNewComment "Windows não inicia após troca de placa-mãe+CPU")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [felipeK/](https://www.clubedohardware.com.br/profile/1100500-felipek/ "Ir ao perfil de felipeK/")  
+        1 hora atrás
+        
+    * [![Wellingtonkpa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253529.thumb.jpeg.27f325316d340c140ff567131073bb14.jpeg)](https://www.clubedohardware.com.br/profile/1253529-wellingtonkpa/ "Ir ao perfil de Wellingtonkpa")
+        
+        1
+        
+        [Rede Wifi caindo em jogos online - Wifi AX210 5GHz](https://www.clubedohardware.com.br/forums/topic/1698116-rede-wifi-caindo-em-jogos-online-wifi-ax210-5ghz/?do=getNewComment "Rede Wifi caindo em jogos online - Wifi AX210 5GHz")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Wellingtonkpa](https://www.clubedohardware.com.br/profile/1253529-wellingtonkpa/ "Ir ao perfil de Wellingtonkpa")  
+        1 hora atrás
+        
+    * [![Daniel Agostini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245253.thumb.jpeg.13caa956ce46eb1d6a91ba318b93e9be.jpeg)](https://www.clubedohardware.com.br/profile/1245253-daniel-agostini/ "Ir ao perfil de Daniel Agostini")
+        
+        2
+        
+        [indicação de placa de vídeo para Core i5 10400 e 16GB](https://www.clubedohardware.com.br/forums/topic/1698112-indica%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-core-i5-10400-e-16gb/?do=getNewComment "indicação de placa de vídeo para Core i5 10400 e 16GB")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Daniel Agostini](https://www.clubedohardware.com.br/profile/1245253-daniel-agostini/ "Ir ao perfil de Daniel Agostini")  
+        1 hora atrás
+        
+    * [![VictorCzz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627d%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253528-victorczz/ "Ir ao perfil de VictorCzz")
+        
+        0
+        
+        [Controladora Lian Li na placa-mãe Aorus B550m](https://www.clubedohardware.com.br/forums/topic/1698111-controladora-lian-li-na-placa-m%C3%A3e-aorus-b550m/?do=getNewComment "Controladora Lian Li na placa-mãe Aorus B550m")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [VictorCzz](https://www.clubedohardware.com.br/profile/1253528-victorczz/ "Ir ao perfil de VictorCzz")  
+        1 hora atrás
+        
+    * [![fael.xxz_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253527.thumb.jpeg.afe857b95ab884bbcad446958e78d614.jpeg)](https://www.clubedohardware.com.br/profile/1253527-faelxxz_/ "Ir ao perfil de fael.xxz_")
+        
+        1
+        
+        [Quero Saber se as temperaturas estão ok](https://www.clubedohardware.com.br/forums/topic/1698110-quero-saber-se-as-temperaturas-est%C3%A3o-ok/?do=getNewComment "Quero Saber se as temperaturas estão ok")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [fael.xxz\_](https://www.clubedohardware.com.br/profile/1253527-faelxxz_/ "Ir ao perfil de fael.xxz_")  
+        1 hora atrás
+        
+    * [![GilbertoM12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1217563.thumb.png.6cb3627604375d3552d2bf0d8815fa34.png)](https://www.clubedohardware.com.br/profile/1217563-gilbertom12/ "Ir ao perfil de GilbertoM12")
+        
+        1
+        
+        [Recomendaçao para pasta termica](https://www.clubedohardware.com.br/forums/topic/1698109-recomenda%C3%A7ao-para-pasta-termica/?do=getNewComment "Recomendaçao para pasta termica")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [GilbertoM12](https://www.clubedohardware.com.br/profile/1217563-gilbertom12/ "Ir ao perfil de GilbertoM12")  
+        2 horas atrás
+        
+    * [![pedropaes1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252450.thumb.png.d184f91aea55e54f46ce61c280cb8181.png)](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")
+        
+        0
+        
+        [Indicação de placa de Vídeo para Core i5 12400f e B660m](https://www.clubedohardware.com.br/forums/topic/1698108-indica%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-core-i5-12400f-e-b660m/?do=getNewComment "Indicação de placa de Vídeo para Core i5 12400f e B660m")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [pedropaes1](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")  
+        2 horas atrás
         
     
 
