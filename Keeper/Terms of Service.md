@@ -77,7 +77,6 @@
 * Partners
     
     * [Partners Portal](https://partners.keeper.io/)
-    * [Register a Deal](https://www.keepersecurity.com/deal-registration.html)
     * [Become a Reseller](https://www.keepersecurity.com/partner-program.html)
     * [Find a Reseller](https://www.keepersecurity.com/our-partners.html?s=channelPartners)
     * [Keeper for MSPs](https://www.keepersecurity.com/business-partner.html?p=MSP%20Program&program=MSP%20Program)
@@ -98,14 +97,20 @@
         * [Reddit](https://www.reddit.com/r/KeeperSecurity/)
         * [Twitter](https://twitter.com/keepersecurity)
     
-* [Get a Quote](https://www.keepersecurity.com/request-quote.html) Try It Free [Try It Free](https://www.keepersecurity.com/start-business-trial.html) [Try It Free](https://www.keepersecurity.com/get-keeper.html) [View Careers](https://apply.workable.com/keepersecurity/)
+* [Get a Quote](https://www.keepersecurity.com/request-quote.html)
+    
+    Try It Free
+    
+    [View Careers](https://apply.workable.com/keepersecurity/)
 * Login
     
     * [Web Vault](https://www.keepersecurity.com/vault)
     * [Admin Console](https://www.keepersecurity.com/console)
     
 
-* [Get a Quote](https://www.keepersecurity.com/request-quote.html) Try It Free [Try It Free](https://www.keepersecurity.com/start-business-trial.html) [Try It Free](https://www.keepersecurity.com/get-keeper.html) [View Careers](https://apply.workable.com/keepersecurity/)
+* [Get a Quote](https://www.keepersecurity.com/request-quote.html)
+    
+    [View Careers](https://apply.workable.com/keepersecurity/)
 * Login
     
     * [Web Vault](https://www.keepersecurity.com/vault)
@@ -1109,6 +1114,7 @@ Resources
 * [Passkeys Directory](https://www.keepersecurity.com/passkeys-directory/ "Passkeys Directory")
 * [Blog](https://www.keepersecurity.com/blog/ "Blog")
 * [Sitemap](https://www.keepersecurity.com/sitemap/ "Sitemap")
+* [Keeper Webinars](https://www.keepersecurity.com/webinars.html "Keeper Webinars")
 
 Partners
 
@@ -1204,41 +1210,7 @@ Chat with Support
 
 You must accept cookies to use Live Chat.
 
-_![close](/assets/icons/x.svg "close")_
-
-[#### Business and Enterprise
-
-Protect your company from cybercriminals.
-
-Start Free Trial](https://www.keepersecurity.com/start-business-trial.html)[#### Public Sector and FedRAMP
-
-Protect your agency and educational institution from cybercriminals.
-
-Contact Sales](https://www.keepersecurity.com/contact.html?t=b&r=sales&poi=Public_Sector)[#### MSPs
-
-Protect your MSP organization, your end customers and add new revenue streams.
-
-Start Free Trial](https://www.keepersecurity.com/start-msp-trial.html)[#### Personal and Family
-
-Protect yourself and your family from cybercriminals.
-
-Get Protected](https://www.keepersecurity.com/get-keeper.html)
-
-_![close](/assets/icons/x.svg "close")_
-
-[#### Personal and Family
-
-Protect yourself and your family from cybercriminals.
-
-Start Free Trial](https://www.keepersecurity.com/get-keeper.html)[#### Business and Enterprise
-
-Protect your company from cybercriminals.
-
-Start Free Trial](https://www.keepersecurity.com/start-business-trial.html)
-
 English (US) Call Us
-
-Try It Free
 
  [![Download on the App Store](/assets/images/pages/download/en_US/apple-appstore-badge.svg)](https://itunes.apple.com/us/app/keeper-password-manager-digital/id287170072?mt=8)[![Get it on Google Play](/assets/images/pages/download/en_US/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper)
 
@@ -1296,7 +1268,6 @@ Try It Free
         * [MSP Admin Guide](https://docs.keeper.io/enterprise-guide/keeper-msp)
 * Partners
     * [Partners Portal](https://partners.keeper.io/)
-    * [Register a Deal](https://www.keepersecurity.com/deal-registration.html)
     * [Become a Reseller](https://www.keepersecurity.com/partner-program.html)
     * [Find a Reseller](https://www.keepersecurity.com/our-partners.html?s=channelPartners)
     * [Keeper for MSPs](https://www.keepersecurity.com/business-partner.html?p=MSP%20Program&program=MSP%20Program)
