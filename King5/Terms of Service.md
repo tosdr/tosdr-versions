@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/99100975-e610-4c98-941c-c8ad2f9524da/20240924T013319/99100975-e610-4c98-941c-c8ad2f9524da_16x9.jpg) ![](https://media.king5.com/assets/KING/images/99100975-e610-4c98-941c-c8ad2f9524da/20240924T013319/99100975-e610-4c98-941c-c8ad2f9524da_360x203.jpg)](https://www.king5.com/article/news/local/homeless/bellingham-takes-property-owner-court-over-homeless-camp/281-94d09915-5ea7-47a1-9afb-02033257efed)
+    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
         
-        #### [Bellingham takes property owner to court over homeless camp](https://www.king5.com/article/news/local/homeless/bellingham-takes-property-owner-court-over-homeless-camp/281-94d09915-5ea7-47a1-9afb-02033257efed)
+        #### [Boeing presents its 'best and final offer' in attempt to end machinists strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
         
-    *  [![](https://media.king5.com/assets/KING/images/ee159ae1-2e99-406d-a90a-cace8d39daff/20240924T013013/ee159ae1-2e99-406d-a90a-cace8d39daff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ee159ae1-2e99-406d-a90a-cace8d39daff/20240924T013013/ee159ae1-2e99-406d-a90a-cace8d39daff_360x203.jpg)](https://www.king5.com/article/news/education/state-superintendent-ambitous-funding-proposal-require-new-tax-funding/281-4263c508-29ea-473d-ae65-b98ff147ddc6)
+    *  [![](https://media.king5.com/assets/KING/images/73998a34-c867-4842-a8f3-e6d30d394b8c/20240924T052950/73998a34-c867-4842-a8f3-e6d30d394b8c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73998a34-c867-4842-a8f3-e6d30d394b8c/20240924T052950/73998a34-c867-4842-a8f3-e6d30d394b8c_360x203.jpg)](https://www.king5.com/article/news/politics/elections/west-pierce-fire-and-rescue-proposing-fire-benefit-charge-november-ballot/281-829d9f51-0f66-4a23-898b-a6d822aba2d4)
         
-        #### [State superintendent: ‘Ambitious’ funding proposal would require new tax funding](https://www.king5.com/article/news/education/state-superintendent-ambitous-funding-proposal-require-new-tax-funding/281-4263c508-29ea-473d-ae65-b98ff147ddc6)
+        #### [West Pierce Fire and Rescue is proposing a fire benefit charge on November Ballot](https://www.king5.com/article/news/politics/elections/west-pierce-fire-and-rescue-proposing-fire-benefit-charge-november-ballot/281-829d9f51-0f66-4a23-898b-a6d822aba2d4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-70°
+62°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
