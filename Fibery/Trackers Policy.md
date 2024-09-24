@@ -8,7 +8,7 @@ Solutions
 
 [Software developmentRun sprints the way you like it, develop a helpful wiki, and figure out allocations.](https://fibery.io/software-development)
 
-[Startup solutionInvent, build, and grow your startup without jumping around SaaS tools you barely use.](https://fibery.io/startups)
+[StartupInvent, build, and grow your startup without jumping around SaaS tools you barely use.](https://fibery.io/startups)
 
 Platform
 
@@ -46,7 +46,7 @@ Solutions
 
 [Software development](https://fibery.io/software-development "Software development")
 
-[Startup solution](https://fibery.io/startups "Startup solution")
+[Startup](https://fibery.io/startups "Startup")
 
 Platform
 
@@ -265,7 +265,7 @@ Solutions
 
 [Software development](https://fibery.io/software-development "Software development")
 
-[Startup solution](https://fibery.io/startups "Startup solution")
+[Startup](https://fibery.io/startups "Startup")
 
 Platform
 
