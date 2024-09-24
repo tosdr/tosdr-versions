@@ -2,14 +2,14 @@ Tuesday, September 24 2024
 
 Breaking News
 
+* [Zelenskyy Flown Into Key Swing State At Taxpayer Expense After Attacking Trump, Vance](https://www.conservativedailynews.com/2024/09/zelenskyy-flown-into-key-swing-state-at-taxpayer-expense-after-attacking-trump-vance/)
+* [President Joe Biden’s Schedule for Tuesday, September 24, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-24-2024/)
 * [Jack Smith Should Not Be Allowed To File 180 Page ‘Hit Piece’ While Trump Remains Under Gag Order, Attorneys Say](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
 * [Whatever: Elite University Says Race ‘Neutral’ Policies ‘Constitutes Discrimination’](https://www.conservativedailynews.com/2024/09/whatever-elite-university-says-race-neutral-policies-constitutes-discrimination/)
 * [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
 * [The Push To Stuff Americans Into Electric Vehicles Is Facing Its Latest Stop Sign: Theft](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
 * [Republican Lawmakers Frustrated With Mike Johnson’s New Funding Bill](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
 * [50 Point Gift From The Fed Or Waving The Red Flag](https://www.conservativedailynews.com/2024/09/50-point-gift-from-the-fed-or-waving-the-red-flag/)
-* [Medal of Honor Monday: Navy Chief Petty Officer Fred McGuire](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
-* [Here’s How A Venezuelan Gang Was Able To Infiltrate The US And Wreak Havoc In Major Cities](https://www.conservativedailynews.com/2024/09/heres-how-a-venezuelan-gang-was-able-to-infiltrate-the-us-and-wreak-havoc-in-major-cities/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,58 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/)
+    
+    [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/)
+    
+    September 24, 2024
+    
+* [![Zelensky Ukraine](https://www.conservativedailynews.com/wp-content/uploads/2023/03/stg030223dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/zelenskyy-flown-into-key-swing-state-at-taxpayer-expense-after-attacking-trump-vance/)
+    
+    [Zelenskyy Flown Into Key Swing State At Taxpayer Expense After Attacking Trump, Vance](https://www.conservativedailynews.com/2024/09/zelenskyy-flown-into-key-swing-state-at-taxpayer-expense-after-attacking-trump-vance/)
+    
+    September 24, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/Joe-Biden-united-nations-speech-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-24-2024/)
+    
+    [President Joe Biden’s Schedule for Tuesday, September 24, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-24-2024/)
+    
+    September 24, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/fb-trump-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/fighting-tyranny/)
+    
+    [Fighting Tyranny](https://www.conservativedailynews.com/2024/09/fighting-tyranny/)
+    
+    September 24, 2024
+    
+* [![Recession soft landing Bidenomics federal reserve](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/soft-landing/)
+    
+    [Soft Landing…](https://www.conservativedailynews.com/2024/09/soft-landing/)
+    
+    September 24, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/09/israel-derangement-syndrome/)
+    
+    [Israel Derangement Syndrome](https://www.conservativedailynews.com/2024/09/israel-derangement-syndrome/)
+    
+    September 24, 2024
+    
+* [![phone scammer](https://www.conservativedailynews.com/wp-content/uploads/2017/11/phone-scammer.jpg)](https://www.conservativedailynews.com/2024/09/the-dos-and-donts-of-campaign-contributions/)
+    
+    [The Dos and Don’ts of Campaign Contributions](https://www.conservativedailynews.com/2024/09/the-dos-and-donts-of-campaign-contributions/)
+    
+    September 24, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg080423dAPR.jpg)](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
     
     [Jack Smith Should Not Be Allowed To File 180 Page ‘Hit Piece’ While Trump Remains Under Gag Order, Attorneys Say](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
     
     September 24, 2024
     
-* [![affirmative action DEI CRT](https://www.conservativedailynews.com/wp-content/uploads/2023/07/image-2-220x150.png)](https://www.conservativedailynews.com/2024/09/whatever-elite-university-says-race-neutral-policies-constitutes-discrimination/)
-    
-    [Whatever: Elite University Says Race ‘Neutral’ Policies ‘Constitutes Discrimination’](https://www.conservativedailynews.com/2024/09/whatever-elite-university-says-race-neutral-policies-constitutes-discrimination/)
-    
-    September 24, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
-    
-    [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/POlice-tape-220x150.jfif)](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
-    
-    [The Push To Stuff Americans Into Electric Vehicles Is Facing Its Latest Stop Sign: Theft](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
-    
-    September 23, 2024
-    
-* [![Federal spending national debt](https://www.conservativedailynews.com/wp-content/uploads/2023/06/gv060923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
-    
-    [Republican Lawmakers Frustrated With Mike Johnson’s New Funding Bill](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/092324-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/50-point-gift-from-the-fed-or-waving-the-red-flag/)
-    
-    [50 Point Gift From The Fed Or Waving The Red Flag](https://www.conservativedailynews.com/2024/09/50-point-gift-from-the-fed-or-waving-the-red-flag/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/240910-O-D0439-083Z-220x150.jpg)](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
-    
-    [Medal of Honor Monday: Navy Chief Petty Officer Fred McGuire](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-chief-petty-officer-fred-mcguire/)
-    
-    September 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/05-out-houses-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/full-house-2/)
-    
-    [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/)
-    
-    September 23, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [2024 America Match: U.S. Tops England By Two Points](https://www.thegunpage.com/2024-america-match-u-s-tops-england-by-two-points/10610767)
 * [TFB Review: EAA Girsan MC14BDA .380](https://www.thegunpage.com/tfb-review-eaa-girsan-mc14bda-380/10610763)
 * [POTD: Nighthawk Custom TRS Comp](https://www.thegunpage.com/potd-nighthawk-custom-trs-comp/10610764)
 * [The Rimfire Report: 21 SHARP Ammunition and Rifles Now Available](https://www.thegunpage.com/the-rimfire-report-21-sharp-ammunition-and-rifles-now-available/10610765)
@@ -186,7 +187,6 @@ Recent Posts
 * [Walther Releases Six Handguns At TEQ Fest](https://www.thegunpage.com/walther-releases-six-handguns-at-teq-fest/10610756)
 * [Court Document Reveals Would-Be Assassin’s Extensive Plan To Kill Trump](https://www.thegunpage.com/court-document-reveals-would-be-assassins-extensive-plan-to-kill-trump/10610754)
 * [Savage Arms Announces The AC350 AccuCan Suppressor for 350 Legend](https://www.thegunpage.com/savage-arms-announces-the-ac350-accucan-suppressor-for-350-legend/10610757)
-* [Detroit Lions Tailgate Shooting Ruled Self-Defense](https://www.thegunpage.com/detroit-lions-tailgate-shooting-ruled-self-defense/10610752)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
