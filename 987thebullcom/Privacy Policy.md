@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| LosersPost Malone Ft Jelly Roll<br><br>5:39pm |
-| Happy AnywhereBlake Shelton Ft Gwen Stefani<br><br>5:36pm |
-| Tucson Too LateJordan Davis<br><br>5:33pm |
-| The Kind Of Love We MakeLuke Combs<br><br>5:23pm |
-| Long Hot SummerKeith Urban<br><br>5:20pm |
+| Friends Like ThatJohn Morgan Ft Jason Aldean<br><br>11:39pm |
+| White HorseChris Stapleton<br><br>11:35pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:31pm |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>11:28pm |
+| When It Rains It PoursLuke Combs<br><br>11:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,6 +499,10 @@ Featured Brands
 
 Country • Western
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
@@ -506,10 +510,6 @@ Country • Western
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
