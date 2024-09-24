@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Laura Elizabeth Southworth (West Virginia Division of Corrections and Rehabilitation).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Laura-Elizabeth-Southworth-via-West-Virginia-Division-Correction-and-Rehabilitation-1-432x243.jpg)](https://lawandcrime.com/crime/mother-who-was-arrested-after-handcuffed-daughter-escaped-to-neighbors-home-for-help-claimed-child-was-stealing-food-police/)
+1. [![Tricia Cavanaugh appears inset against an image of the house where her daughter died.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Tricia-Cavanaugh-432x243.jpg)](https://lawandcrime.com/crime/not-so-sure-about-that-judge-chides-self-described-super-mom-who-repeatedly-ignored-advice-about-co-sleeping-with-infants-and-eventually-caused-her-baby-girls-death/)
     
-    ### [Mother who was arrested after handcuffed daughter escaped to neighbor's home for help claimed child was 'stealing' food: Police](https://lawandcrime.com/crime/mother-who-was-arrested-after-handcuffed-daughter-escaped-to-neighbors-home-for-help-claimed-child-was-stealing-food-police/)
+    ### ['Not so sure about that': Judge chides self-described 'super mom' who repeatedly ignored advice about co-sleeping with infants and eventually caused her baby girl's death](https://lawandcrime.com/crime/not-so-sure-about-that-judge-chides-self-described-super-mom-who-repeatedly-ignored-advice-about-co-sleeping-with-infants-and-eventually-caused-her-baby-girls-death/)
     
-2. [![R-L: Casey White, Vicky White (Law&Crime Productions).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Casey-White-Vicky-White-Netflix-432x243.jpg)](https://lawandcrime.com/high-profile/steamy-jailhouse-calls-reveal-details-of-heart-pounding-prison-break-in-lawcrimes-jailbreak-love-on-the-run/)
+2. [![Eliazar Cisneros](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Biden-bus-432x243.jpg)](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
     
-    ### [Steamy jailhouse calls reveal details of heart-pounding prison break in Law&Crime’s 'Jailbreak: Love on the Run'](https://lawandcrime.com/high-profile/steamy-jailhouse-calls-reveal-details-of-heart-pounding-prison-break-in-lawcrimes-jailbreak-love-on-the-run/)
+    ### ['Trump Train' driver who hit into Biden-Harris campaign volunteer behind bus in 2020 and said 'I kind of saved Texas' found liable in KKK Act lawsuit](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
     
-3. [![Marcelino Olguin](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Marcelino-Olguin-432x243.jpg)](https://lawandcrime.com/crime/foster-dad-who-forced-kissed-young-survivors-of-birth-parents-house-of-horrors-abuse-pleads-guilty/)
+3. [![Deandre Wilkins](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Deandre-Wilkins-432x243.jpg)](https://lawandcrime.com/crime/i-told-you-i-was-going-to-get-you-man-stabs-ex-girlfriend-pregnant-with-his-child-10-times-in-3rd-assault-in-3-months/)
     
-    ### [Foster dad who 'forced kissed' young survivors of birth parents' 'House of Horrors' abuse pleads guilty](https://lawandcrime.com/crime/foster-dad-who-forced-kissed-young-survivors-of-birth-parents-house-of-horrors-abuse-pleads-guilty/)
+    ### ['I told you I was going to get you:' Man stabs ex-girlfriend pregnant with his child 10 times in 3rd assault in 3 months](https://lawandcrime.com/crime/i-told-you-i-was-going-to-get-you-man-stabs-ex-girlfriend-pregnant-with-his-child-10-times-in-3rd-assault-in-3-months/)
     
-4. [![Left inset: Woman identified as Sarah Badshaw. Right inset: Badshaw. Background: Suspect running over an SUV owner. (Peel Regional Police.)](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Women-identified-as-Sarah-Badshaw-432x243.png)](https://lawandcrime.com/crime/hello-im-here-for-the-porsche-thief-stole-suv-ran-over-owner-after-pretending-to-be-prospective-buyer-cops-say/)
+4. [![Donald Trump, JD Vance](https://am21.mediaite.com/lc/cnt/uploads/2024/09/AP24234763183231-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-files-criminal-affidavit-demanding-arrests-of-trump-and-jd-vance-for-making-false-alarms-with-harmful-lies-about-immigrants-eating-the-cats/)
     
-    ### ['Hello, I'm here for the Porsche': Thief stole SUV, ran over owner after pretending to be prospective buyer, cops say](https://lawandcrime.com/crime/hello-im-here-for-the-porsche-thief-stole-suv-ran-over-owner-after-pretending-to-be-prospective-buyer-cops-say/)
+    ### [Haitian group files criminal affidavit demanding arrests of Trump and JD Vance for 'making false alarms' with 'harmful lies' about immigrants 'eating the cats'](https://lawandcrime.com/high-profile/haitian-group-files-criminal-affidavit-demanding-arrests-of-trump-and-jd-vance-for-making-false-alarms-with-harmful-lies-about-immigrants-eating-the-cats/)
     
-5. [![Left inset: Brian Crossman Jr. (Warren County Jail in New York). Right inset: Erica Crossman and Brian Crossman Sr. (Facebook). Background: The Crossman family home in Pawlet, Vermont (WRGB).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Brian-Crossman-Jr.-Erica-Crossman-and-Brian-Crossman-Sr-432x243.png)](https://lawandcrime.com/crime/murderer-covered-in-blood-led-cops-to-scene-after-claiming-he-simply-discovered-bodies-when-returning-from-walk-police/)
+5. [![Background: Justin Avery is allegedly seen crawling past an officer at the Maricopa County Sheriff's Office Intake Transfer and Release Facility (Maricopa County Sheriff's Office/KNXV/YouTube). Inset: Justin Avery (Maricopa County Sheriff's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Justin-Avery-Maricopa-County-Sheriffs-Office-432x243.jpg)](https://lawandcrime.com/crime/the-first-of-its-kind-man-in-custody-for-assault-crawled-like-a-spider-past-officers-to-rape-woman-in-jail-intake-area-sheriff-says/)
     
-    ### [Murderer, covered in blood, led cops to scene after claiming he simply discovered bodies when returning from walk: Police](https://lawandcrime.com/crime/murderer-covered-in-blood-led-cops-to-scene-after-claiming-he-simply-discovered-bodies-when-returning-from-walk-police/)
+    ### ['The first of its kind': Man in custody for assault crawled like a 'spider' past officers to 'rape' woman in jail intake area, sheriff says](https://lawandcrime.com/crime/the-first-of-its-kind-man-in-custody-for-assault-crawled-like-a-spider-past-officers-to-rape-woman-in-jail-intake-area-sheriff-says/)
     
 
 [](http://eepurl.com/c89Jdb)
