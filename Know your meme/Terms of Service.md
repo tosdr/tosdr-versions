@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Nickelback's "Photograph" Parodies Rise Again](https://i.kym-cdn.com/featured_items/icons/wide/000/025/997/oGiqX.jpg "19 Years Ago, Nickelback Made Us Look At Their Photograph For The First Time")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/002/yap_dollar.jpg "Who Is 'Yap Dollar?' The Talking Five Dollar Bill Who Says 'Xiaohongshu' In Chinese Explained")
     
-    19 Years Ago, Nickelback Made Us Look At Their Photograph For The First Time](https://knowyourmeme.com/memes/nickelbacks-photograph)
+    Who Is 'Yap Dollar?' The Talking Five Dollar Bill Who Says 'Xiaohongshu' In Chinese Explained](https://knowyourmeme.com/editorials/guides/who-is-yap-dollar-the-talking-five-dollar-bill-who-says-xiaohongshu-in-chinese-explained)
     
-* [![Inspirational Footballer's Speech Leads to Long-running Reaction Image](https://i.kym-cdn.com/featured_items/icons/wide/000/025/996/t3qkhrohrh321.jpg "One Decade Ago, The Classic 'They Had Us In the First Half' Interview Was Uploaded To YouTube")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/001/cnksz6cqgiz81.jpg "Gen Alpha Discord User Fears WinRAR Because Of Sonic.exe, Millennials And Gen Z Twitter Users Feel Closer To Death")
     
-    One Decade Ago, The Classic 'They Had Us In the First Half' Interview Was Uploaded To YouTube](https://knowyourmeme.com/memes/they-had-us-in-the-first-half)
+    Gen Alpha Discord User Fears WinRAR Because Of Sonic.exe, Millennials And Gen Z Twitter Users Feel Closer To Death](https://knowyourmeme.com/news/gen-alpha-discord-user-fears-winrar-because-of-sonicexe-millennials-and-gen-z-twitter-users-feel-closer-to-death)
     
-* [![Deez Nuts](https://i.kym-cdn.com/featured_items/icons/wide/000/025/995/Deez_Nuts_Meme_banner.jpg "Happy Anniversary To Deez Nuts")
+* [![There's Been Some Seething Over Both Inclusion And Lack Of Customization Options In The New 'Dragon Age' Game](https://i.kym-cdn.com/featured_items/icons/wide/000/026/000/cover6.jpg "There's Been Some Seething Over Both Inclusion And Lack Of Customization Options In The New 'Dragon Age' Game")
     
-    Happy Anniversary To Deez Nuts](https://knowyourmeme.com/memes/deez-nuts)
+    There's Been Some Seething Over Both Inclusion And Lack Of Customization Options In The New 'Dragon Age' Game](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy)
     
-* [!['Professional Racist' Vs. 'Graphic Designer' Edits Become Video Meme On TikTok And YouTube](https://i.kym-cdn.com/featured_items/icons/wide/000/025/994/professional_racist.jpg "'Professional Racist' Vs. 'Graphic Designer' Edits Become Video Meme On TikTok And YouTube")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/999/esnupi.jpg "Who Is 'Esnupi'? The Spanish Meme About Snoopy From 'Peanuts' Explained")
     
-    'Professional Racist' Vs. 'Graphic Designer' Edits Become Video Meme On TikTok And YouTube](https://knowyourmeme.com/memes/professional-racist-vs-graphic-designer)
+    Who Is 'Esnupi'? The Spanish Meme About Snoopy From 'Peanuts' Explained](https://knowyourmeme.com/editorials/guides/who-is-esnupi-the-spanish-meme-about-snoopy-from-peanuts-explained)
     
-* [!['DJ Peaches': AI Image Of Princess Peach Playing In A Zombie Techno Rave Becomes Viral Meme On Instagram and Twitter](https://i.kym-cdn.com/featured_items/icons/wide/000/025/993/DJ_PEACHES_cover.jpg "'DJ Peaches': AI Image Of Princess Peach Playing In A Zombie Techno Rave Becomes Viral Meme On Instagram and Twitter")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/998/deep_fried_memes_banner.jpg "What Is A 'Deep Fried Meme'? The Common Visual Style Of Modern Memes Explained")
     
-    'DJ Peaches': AI Image Of Princess Peach Playing In A Zombie Techno Rave Becomes Viral Meme On Instagram and Twitter](https://knowyourmeme.com/memes/dj-peaches-princess-peach-techno-rave)
+    What Is A 'Deep Fried Meme'? The Common Visual Style Of Modern Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-a-deep-fried-meme-the-common-visual-style-of-modern-memes-explained)
     
 
 ##### Also Trending:
 
-[DA: Veilguard Customization Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy "DA: Veilguard Customization Controversy")
+[DA: Veilguard Customization Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy "DA: Veilguard Customization Controversy") [DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [X-Chan "Efficiency" Comic](https://knowyourmeme.com/memes/elon-musk-and-x-chan-efficiency-comic-by-sks-cartoon "X-Chan "Efficiency" Comic") [Second Life](https://knowyourmeme.com/memes/subcultures/second-life "Second Life") [Ora Ora Get Pregnant](https://knowyourmeme.com/memes/ora-ora-get-pregnant "Ora Ora Get Pregnant") [Tomodachi Life](https://knowyourmeme.com/memes/subcultures/tomodachi-life "Tomodachi Life") [Death Note](https://knowyourmeme.com/memes/subcultures/death-note "Death Note") [Twomad's Death](https://knowyourmeme.com/memes/events/twomads-death "Twomad's Death") [Death Grips](https://knowyourmeme.com/memes/people/death-grips "Death Grips") [Jonathan Kennedy's 'Infected' Art](https://knowyourmeme.com/memes/jonathan-kennedys-infected-art "Jonathan Kennedy's 'Infected' Art") [Woke Teen vs. 20 Trump Supporters](https://knowyourmeme.com/memes/woke-teen-vs-20-trump-supporters-jubilee-video "Woke Teen vs. 20 Trump Supporters") [Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Cards Against Humanity Suing Elon Musk](https://knowyourmeme.com/memes/events/cards-against-humanity-suing-elon-musk "Cards Against Humanity Suing Elon Musk")
 
 Terms of Service and Use
 ========================
