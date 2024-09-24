@@ -16,9 +16,9 @@
 
 [**Automated scheduling**
 
-Human-centered AI publishing automation.](https://www.socialnewsdesk.com/ai-powered-automated-social-publishing/)[**Publishing calendar**
+Automate your publishing with human-centered AI.](https://www.socialnewsdesk.com/ai-powered-automated-social-publishing/)[**Publishing calendar**
 
-Tools that keep everyone on the same page.](https://www.socialnewsdesk.com/scheduling-tools-social-media-scheduling-for-teams/)[**Consolidated reporting**
+Keep everyone on the same page with helpful tools.](https://www.socialnewsdesk.com/scheduling-tools-social-media-scheduling-for-teams/)[**Consolidated reporting**
 
 Turn data into insights to help you continuously improve.](https://www.socialnewsdesk.com/social-media-reports/)[**Listen and engage**
 
@@ -46,7 +46,7 @@ Reach, retain and engage with students, faculty and donors.](https://www.socialn
 
 Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[**Public Safety**
 
-Mission critical social media management software to rely on.](https://www.socialnewsdesk.com/public-safety/)[**Healthcare**
+Rely on mission critical social media tools to keep the community safe.](https://www.socialnewsdesk.com/public-safety/)[**Healthcare**
 
 Transform patient engagement and education through social media.](https://www.socialnewsdesk.com/healthcare/)
 
@@ -62,7 +62,7 @@ Our social media management software is the professional communicator’s choice
 
 Master social media management with free downloadable resources.](https://www.socialnewsdesk.com/snd-downloadable-resource-library)[Webinars & Events
 
-Educational videos and tutorials from experts in social media mastery.](https://www.socialnewsdesk.com/snd-webinars-events)[Blog
+View educational tutorials from experts in social media.](https://www.socialnewsdesk.com/snd-webinars-events)[Blog
 
 Stay updated with the latest industry trends and insights.](https://www.socialnewsdesk.com/resources/)[About us
 
@@ -113,14 +113,16 @@ Some of our features use YouTube API Services. If you use these services you are
 
 * [Blog](https://www.socialnewsdesk.com/resources/)
 * [About Us](https://www.socialnewsdesk.com/about-us/)
-* [Careers](https://www.socialnewsdesk.com/careers/)
 * [Contact Us](https://www.socialnewsdesk.com/contact/)
+* [Webinars & Tutorials](https://www.socialnewsdesk.com/snd-webinars-events/)
+* [Social Media Ebooks and Templates](https://www.socialnewsdesk.com/snd-downloadable-resource-library/)
 * [Download the Civic-Minded Content EBook](https://www.socialnewsdesk.com/download-the-civic-minded-content-ebook/)
 
 * [Blog](https://www.socialnewsdesk.com/resources/)
 * [About Us](https://www.socialnewsdesk.com/about-us/)
-* [Careers](https://www.socialnewsdesk.com/careers/)
 * [Contact Us](https://www.socialnewsdesk.com/contact/)
+* [Webinars & Tutorials](https://www.socialnewsdesk.com/snd-webinars-events/)
+* [Social Media Ebooks and Templates](https://www.socialnewsdesk.com/snd-downloadable-resource-library/)
 * [Download the Civic-Minded Content EBook](https://www.socialnewsdesk.com/download-the-civic-minded-content-ebook/)
 
 ### Features
