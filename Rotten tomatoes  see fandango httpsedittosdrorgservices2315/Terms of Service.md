@@ -17,7 +17,7 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save over 50% on Transformers Double Feature!** When you buy a ticket to Transformers One
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
@@ -71,13 +71,13 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer)
     
-* [SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE image link ![SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef8909b0-619d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-transformersonegwp-292x118.png)](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_Footer) 
+* [ROTTEN TOMATOES HONORS AUDIENCE FAVORITES image link ![ROTTEN TOMATOES HONORS AUDIENCE FAVORITES](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/606114c0-5e7e-11ef-a07e-5b03d6159fe4--rt-vh-globalofferunit-292x118-v1.png)](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_Footer) 
     
-    ### SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE
+    ### ROTTEN TOMATOES HONORS AUDIENCE FAVORITES
     
-    Buy a Ticket, Save over 50% off on Transformers double feature to watch at home.
+    The new Verified Hot designation showcases films that achieve a high Verified Audience Score. Check out the first fan-favorite movies to get this designation!
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_Footer)
+    [LEARN MORE](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_Footer)
     
 * [GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE image link ![GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e954b030-4b90-11ef-8321-2b978811c524--fan-globalofferunit-homepage-forge-292x118.png)](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_footer) 
     
@@ -189,11 +189,11 @@ New & Coming soon
 
 Close
 
-![Save over 50% on Transformers Double Feature!](https://images.fandango.com/cms/assets/71542f70-61a7-11ef-8321-2b978811c524--fan-globalnavbar-transformersonegwp-343x362.jpg)
+![Save 50% off on Terrifier 2!](https://images.fandango.com/cms/assets/930d6910-77aa-11ef-8321-2b978811c524--fan-globalnavbar-terrifier3-343x362.jpg)
 
-#### Buy a Ticket, Save over 50% off on Transformers double feature to watch at home.
+#### Buy a Ticket, Save 50% off on Terrifier 2 to watch at home.
 
-\*Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Transformers One’ between 9:00am PT on 8/27/24 and 11:59pm PT on 9/23/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for over 50% off the purchase (and not the rental) of Transformers: Rise of the Beasts + Bumblebee: 2-Movie Collection (Bundle) in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 9/27/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_promomodule)
+Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Terrifier 3’ between 9:00am PT on 9/23/24 and 11:59pm PT on 10/25/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for 50% off the purchase (and not the rental) of Terrifier 2 in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 10/30/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_promomodule)
 
 ### Fandango offer: Gift, Give or Receive a ticket to The Forge
 
