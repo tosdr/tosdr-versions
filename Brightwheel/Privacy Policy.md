@@ -8,6 +8,7 @@
 
 * [Solutions](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare management solutions are built to save you and your staff time.")
     * [Preschools & Child Care](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare software enables you to simplify your billing, increase enrollment, and build deeper connections with families and staff.")
+    * [Government & Network Partners](https://mybrightwheel.com/government-and-network-partners/)
     * [Parents](https://mybrightwheel.com/solutions/parents/ "Brightwheel's childcare app help families stay connected with their childcare program.")
     * [Billing & Payments](https://mybrightwheel.com/features/billing/ "The integrated billing tools simplify childcare payments and help providers get paid faster")
     * [Experience Curriculum](https://mybrightwheel.com/experience-curriculum/ "A complete, easy-to-implement curriculum system with digital lessons in brightwheel")
@@ -28,6 +29,7 @@
 
 * [Solutions](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare management solutions are built to save you and your staff time.")
     * [Preschools & Child Care](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare software enables you to simplify your billing, increase enrollment, and build deeper connections with families and staff.")
+    * [Government & Network Partners](https://mybrightwheel.com/government-and-network-partners/)
     * [Parents](https://mybrightwheel.com/solutions/parents/ "Brightwheel's childcare app help families stay connected with their childcare program.")
     * [Billing & Payments](https://mybrightwheel.com/features/billing/ "The integrated billing tools simplify childcare payments and help providers get paid faster")
     * [Experience Curriculum](https://mybrightwheel.com/experience-curriculum/ "A complete, easy-to-implement curriculum system with digital lessons in brightwheel")
@@ -224,6 +226,7 @@ If you have any questions or concerns regarding our privacy practices, or to exe
 
 * [Our Solutions](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare management solutions are built to save you and your staff time.")
     * [Preschools & Child Care](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare software enables you to simplify your billing, increase enrollment, and build deeper connections with families and staff.")
+    * [Government & Network Partners](https://mybrightwheel.com/government-and-network-partners/)
     * [Parents](https://mybrightwheel.com/solutions/parents/ "Brightwheel's childcare app help families stay connected with their childcare program.")
     * [COVID-19 Solutions](https://mybrightwheel.com/covid-19-readiness/)
     * [Nannies/Caregivers](https://mybrightwheel.com/solutions/family/)
@@ -257,9 +260,6 @@ If you have any questions or concerns regarding our privacy practices, or to exe
     * [Terms of Service](https://mybrightwheel.com/terms/)
     * [Privacy Policy](https://mybrightwheel.com/privacy/)
 * [Get a demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
-    
-    Contact Sales: [(855) 758-6642](tel:+18557586642)
-    
 
 [![Shark Tank logo that is hyperlinked to YouTube video where brightwheel pitched to the sharks.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20210%2055'%3E%3C/svg%3E)
 
