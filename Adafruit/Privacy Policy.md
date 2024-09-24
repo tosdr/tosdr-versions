@@ -83,13 +83,13 @@ Search
     
     $19.95](https://www.adafruit.com/product/6037)
     
-    ![Video of ball LED strand lighting up rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5984-00.jpg)[Adafruit NeoPixel LED Ball Shape Pixel Strand - 20 LEDs
-    
-    $8.95](https://www.adafruit.com/product/5984)
-    
     ![Video of LED strand with 20 heart-shaped LEDs glowing rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5983-00.jpg)[Adafruit NeoPixel LED Heart Shape Pixel Strand - 20 LEDs
     
     $8.95](https://www.adafruit.com/product/5983)
+    
+    ![Video of glowing star-shaped LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5982-00.jpg)[Adafruit NeoPixel LED Star Shape Pixel Strand - 20 LEDs
+    
+    $8.95](https://www.adafruit.com/product/5982)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut”
+“ It is not enough to have a good mind; the main thing is to use it well”
 
-[Albert Einstein](http://en.wikipedia.org/wiki/Albert_Einstein)
+[Rene Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 
 [](https://www.adafruit.com/about)
 
