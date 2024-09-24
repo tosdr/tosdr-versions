@@ -138,6 +138,17 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Approximately 39 million Americans suffer from obs ![Approximately 39 million Americans suffer from obstructive sleep apnea. It’s a relatively common condition that can impact many areas of overall health — including oral health.⁠
+⁠
+In this episode of The Art of Dental Finance and Management, host Art Wiederman is joined by Dr. Dar Radfar for a conversation about the convergence of sleep science and dentistry. Dr. Radfar explains how practices and patients alike can benefit when sleep wellness is incorporated into dentists’ services. He also offers actionable advice for implementing sleep apnea treatment in your dental practice.⁠
+⁠
+Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAQyFrWNcnB/) 
+
 [Pediatricians, dental professionals, and other hea ![Pediatricians, dental professionals, and other healthcare providers are legally mandated to report suspected child abuse and neglect, including cases involving oral and dental injuries. This clinical report emphasizes the importance of collaboration among healthcare providers to identify and address the often-overlooked oral manifestations of abuse and neglect in children. Link in bio.⁠
 ⁠
 ⁠
@@ -172,19 +183,6 @@ Provider ID# 317924
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAEA_IrtRui/) 
-
-[Earn 2 CEUs with The Impact of Dental Probe Wear o ![Earn 2 CEUs with The Impact of Dental Probe Wear on Implant Health⁠
-⁠
-Exploring how colored plastic probe markings may degrade and affect peri-implant tissues during routine dental assessments.⁠
-⁠
-By Sei J. Kim, DMD, MS, Chandur Wadhwani, BDS, MSD, Jack Ferracane, PhD, Richard O'Brien, BSEE and James A. Katancik, DDS, PhD⁠
-⁠
-Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DABVUUnPpVg/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
