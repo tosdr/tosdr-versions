@@ -961,7 +961,7 @@ SPLUNK MOBILE
 
 [Website Terms of Use](https://www.splunk.com/en_us/legal/terms/terms-of-use.html)
 
-© 2005 - 2024 Splunk Inc. All rights reserved.
+© 2005 - 2024 Splunk LLC All rights reserved.
 
  
 
