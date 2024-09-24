@@ -424,6 +424,12 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
+Address:  Paruyr Sevak Str. 11/1, Qanaqer Zeytun , Yerevan, Armenia, 0014
+
+Registration Number:  264.110.853440 / 2015-04-13
+
+Tax ID:  00142164
+
 By email:  [support@renderforest.com](mailto:support@renderforest.com)
 
 By visiting the following page on our website:  [https://www.renderforest.com/contact-us](https://www.renderforest.com/contact-us)
