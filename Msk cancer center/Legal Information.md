@@ -292,6 +292,8 @@
         * [中文](https://www.mskcc.org/hk/experience/become-patient/international-patients)
         
 
+* [Prediction Tools](https://www.mskcc.org/nomograms)
+
 Legal Disclaimer
 ================
 
