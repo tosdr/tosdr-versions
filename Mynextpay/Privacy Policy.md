@@ -80,8 +80,6 @@ If you have any questions, concerns, or requests related to your privacy or this
 
 Support: info@mynextpay.ca
 
-![Mynextpay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo_mynextpays")
-
 ![Mynextpay](https://mynextpay.ca/wp-content/uploads/2024/08/logo_mynextpays-3.png "logo_mynextpays")
 
 With over 12 years of experience, Mynextpay, provides quick financial solutions to its Canadian clients. Our quick cash loan program is quick and convenient. Even if your previous credit history is not perfect, My Next Pay strives to provide every customer with a short term cash loan that is suitable for your budget.
