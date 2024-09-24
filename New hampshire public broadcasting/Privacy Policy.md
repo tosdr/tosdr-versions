@@ -184,11 +184,11 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Crossroads: A conversation with America - A PBS News Special** | PBS News Hour](https://video.nhpbs.org/video/crossroads-a-conversation-with-america-a-pbs-news-special-wz7vgn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Lucy Worsley's Holmes vs. Doyle](https://video.nhpbs.org/video/preview-20kdja?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 3 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-3-preview-kxta3k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 3 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-3-preview-vdscpu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview Mambo Legends: The Music Never Ends** | VOCES](https://video.nhpbs.org/video/preview-l0h2jd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 23, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-23-2024-pbs-news-hour-full-episode-1727064001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Julia Alvarez: A Life Reimagined (ASL)** | American Masters](https://video.nhpbs.org/video/julia-alvarez-a-life-reimagined-asl-f0a3ha?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Why Republicans are still facing a candidate quality problem** | Washington Week with The Atlantic](https://video.nhpbs.org/video/why-republicans-are-still-facing-a-candidate-quality-problem-dknciz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 BMW 530i & 2024 Porsche 718 Cayman GT4 RS Manthey** | MotorWeek](https://video.nhpbs.org/video/2024-bmw-530i-2024-porsche-718-cayman-gt4-rs-manthey-3vgrhy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
