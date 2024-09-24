@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[US sending more troops to Middle East as latest Israel-Hezbollah fighting sparks fear of all-out war](https://nypost.com/2024/09/23/world-news/us-warns-american-to-flee-lebanon-as-biden-admin-sends-more-troops-to-middle-east-amid-risk-of-all-out-war/)
-
 Terms Of Use
 ============
 
