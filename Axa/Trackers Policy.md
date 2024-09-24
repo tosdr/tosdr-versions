@@ -1,11 +1,11 @@
-[Skip to main content](#content)[Skip to footer](#footer)
+[Skip to main content](https://www.axa.com/page/cookie-policy#content)[Skip to footer](https://www.axa.com/page/cookie-policy#footer)
 
 [AXA
 ---
 
-36.140
+36.190
 
-( \-0.30%)](https://www.axa.com/en/investor/axa-share-performances#anchor=market-data&tab=share-performance)
+( +0.14%)](https://www.axa.com/en/investor/axa-share-performances#anchor=market-data&tab=share-performance)
 
 [Axa worldwide](https://www.axa.com/en/about-us/axa-worldwide)
 
