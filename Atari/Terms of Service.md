@@ -2,80 +2,12 @@
 
      
 
-* Shop
-    
-    Shop
-    
-    * Hardware
-        
-        * [Atari 7800+](https://www.atari.com/collections/7800)
-        * [Atari 2600+](https://www.atari.com/collections/atari-2600-plus)
-        * [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
-        * [Atari VCS](https://www.atari.com/pages/atari-vcs)
-        * [Shop All Hardware](https://www.atari.com/collections/hardware)
-        
-    * Gear
-        
-        * [Apparel & Accessories](https://www.atari.com/collections/apparel-accessories)
-        * [Arcade Machines](https://www.atari.com/collections/arcade-machines)
-        * [Collectibles](https://www.atari.com/collections/collectibles)
-        * [Game Cartridges](https://www.atari.com/collections/physical-cartridges)
-        * [Puzzles](https://www.atari.com/collections/blue-kazoo-puzzles)
-        * [Speakerhats](https://www.atari.com/collections/speakerhats)
-        * [Shop All Gear](https://www.atari.com/collections/gear)
-        
-    * Collections
-        
-        * [Spring & Summer Apparel](https://www.atari.com/collections/s-s-2024-collection)
-        * [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
-        * [Pong Collection](https://www.atari.com/collections/pong-collection)
-        * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
-        * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
-        * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
-        * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
-        * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
-        * [RCT 25th Anniversary](https://www.atari.com/collections/rollercoaster-tycoon)
-        
-    
-* Games
-    
-    Games
-    
-    * Games
-        
-        * [PC & Console](https://www.atari.com/collections/games)
-        * [Game Cartridges](https://www.atari.com/collections/physical-cartridges)
-        
-    * Featured Series
-        
-        * [Atari XP](https://www.atari.com/collections/atari-xp)
-        * [Atari Recharged](https://www.atari.com/collections/games-recharged)
-        * [Atari Classics](https://www.atari.com/collections/games-atari-classics)
-        * [Atari 50th Anniversary Celebration](https://www.atari.com/products/atari-50th-the-anniversary-celebration)
-        * [Enter the Yar-niverse](https://www.atari.com/pages/yars-rising-enter-the-yar-niverse)
-        * [RollerCoaster Tycoon](https://www.atari.com/pages/rollercoaster-tycoon)
-        
-    * Games Content
-        
-        * [MobyGames](https://www.mobygames.com/)
-        * [Games Blog](https://www.atari.com/blogs/atari)
-        
-    
-* [Club](https://www.atari.club/)
-* About
-    
-    About
-    
-    * Company
-        
-        * [About Atari](https://www.atari.com/pages/about)
-        * [Newsroom](https://www.atari.com/blogs/newsroom)
-        * [Careers](https://www.atari.com/pages/careers)
-        * [Atari X](https://www.atari.com/pages/atari-x)
-        
-    
+* [Hardware](https://www.atari.com/collections/hardware)
+* [Games](https://www.atari.com/collections/games)
+* [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
+* [New](https://www.atari.com/collections)
 
-[Sign in](https://atari.com/customer_identity/redirect?locale=en&country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
+[Log in](https://atari.com/customer_identity/redirect?locale=en) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
 * [Twitter](https://www.twitter.com/atari)
 * [Facebook](https://www.facebook.com/atari)
@@ -84,229 +16,20 @@
 
 [](https://www.atari.com/)
 
-* [Shop](https://www.atari.com/collections/shop)
-    
-    * ###### Hardware
-        
-        * [Atari 7800+](https://www.atari.com/collections/7800)
-        * [Atari 2600+](https://www.atari.com/collections/atari-2600-plus)
-        * [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
-        * [Atari VCS](https://www.atari.com/pages/atari-vcs)
-        * [Shop All Hardware](https://www.atari.com/collections/hardware)
-    * ###### Gear
-        
-        * [Apparel & Accessories](https://www.atari.com/collections/apparel-accessories)
-        * [Arcade Machines](https://www.atari.com/collections/arcade-machines)
-        * [Collectibles](https://www.atari.com/collections/collectibles)
-        * [Game Cartridges](https://www.atari.com/collections/physical-cartridges)
-        * [Puzzles](https://www.atari.com/collections/blue-kazoo-puzzles)
-        * [Speakerhats](https://www.atari.com/collections/speakerhats)
-        * [Shop All Gear](https://www.atari.com/collections/gear)
-    * ###### Collections
-        
-        * [Spring & Summer Apparel](https://www.atari.com/collections/s-s-2024-collection)
-        * [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
-        * [Pong Collection](https://www.atari.com/collections/pong-collection)
-        * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
-        * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
-        * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
-        * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
-        * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
-        * [RCT 25th Anniversary](https://www.atari.com/collections/rollercoaster-tycoon)
-    
-    [![](files/atari-50th-t-shirt-1080x1080-02.jpg)
-    
-    Atari 50th Anniversary](https://www.atari.com/collections/atari-50th-anniversary)
-    
-    ![](files/hardware.jpg)
-    
-    Shop All Hardware
-    
-    ![](files/VCS.jpg)
-    
-    Atari VCS
-    
-    ![](files/centipede-xp-cart-1920x1080.webp)
-    
-    Atari XP
-    
-    ![](files/speakerhats-2.jpg)
-    
-    Speakerhats
-    
-    ![](files/Screen_Shot_2022-01-29_at_9.53.36_PM.png)
-    
-    Apparel & Accessories
-    
-    ![](files/lego-atari-2600-1658242978364.jpg)
-    
-    Shop All Gear
-    
-    ![](files/1350px_1080px_Key_Art_Social.png)
-    
-    Atari x Misfit by JK5
-    
-    ![](files/artovision-1920x1080-2-small.jpg)
-    
-    Atari x Artovision
-    
-    ![](files/retroarcade-1920x1080.webp)
-    
-    Atari x Retro Arcade
-    
-    ![](files/retroarcade-1920x1080.webp)
-    
-    Collectibles
-    
-    ![](files/MissleCommand-FieldTestVer-Beauty-mobile.webp)
-    
-    Atari x New Wave Toys
-    
-    ![](files/P3_Slice_copy.jpg)
-    
-    Atari x Arcade1Up
-    
-    ![](files/P3_Slice_copy.jpg)
-    
-    Arcade Machines
-    
-    ![](files/Hero_header_V2.jpg)
-    
-    Atari 2600+
-    
-    ![](files/Rectangle_1293.jpg)
-    
-    Atari Pong Collection
-    
-    ![](files/Nav_Images.001.jpg)
-    
-    Cartridges
-    
-    ![](files/Nav_Images.002.jpg)
-    
-    Atari x Members Only
-    
-    ![](files/Group_567_copy_dc6f197b-1b75-4d63-857b-71495b62a055.jpg)
-    
-    Atari x Blue Kazoo
-    
-    ![](files/rct-background-desktop.webp)
-    
-    RCT 25th Anniversary Collection
-    
-    ![](files/Group_567_copy_b667a6b0-0c65-4b19-b3e0-1fa3845754ab.jpg)
-    
-    Puzzles
-    
-    ![](files/atarixp-outlaw-product-details.webp)
-    
-    Game Cartridges
-    
-    ![](files/Media_dc32c9b6-27bf-4d1a-b40b-e1b619d441ca.jpg)
-    
-    Atari x My Arcade
-    
-    ![](files/Cariuma_Nav_Image.001.jpg)
-    
-    Atari x Cariuma
-    
-    ![](files/mini-joystick-games_2_f14f3af7-7045-4bbb-bcf8-8bddd244f4cb.jpg)
-    
-    Atari 400 Mini
-    
-    ![](files/MobyNavImage.001.jpg)
-    
-    Atari x MobyGames
-    
-    ![](files/Hero_Slider_copy_2.jpg)
-    
-    Atari S/S 2024 Collection
-    
-    ![](files/13.jpg)
-    
-    RCT x errornogo
-    
+* [Hardware](https://www.atari.com/collections/hardware)
 * [Games](https://www.atari.com/collections/games)
-    
-    * ###### Games
-        
-        * [PC & Console](https://www.atari.com/collections/games)
-        * [Game Cartridges](https://www.atari.com/collections/physical-cartridges)
-    * ###### Featured Series
-        
-        * [Atari XP](https://www.atari.com/collections/atari-xp)
-        * [Atari Recharged](https://www.atari.com/collections/games-recharged)
-        * [Atari Classics](https://www.atari.com/collections/games-atari-classics)
-        * [Atari 50th Anniversary Celebration](https://www.atari.com/products/atari-50th-the-anniversary-celebration)
-        * [Enter the Yar-niverse](https://www.atari.com/pages/yars-rising-enter-the-yar-niverse)
-        * [RollerCoaster Tycoon](https://www.atari.com/pages/rollercoaster-tycoon)
-    * ###### Games Content
-        
-        * [MobyGames](https://www.mobygames.com/)
-        * [Games Blog](https://www.atari.com/blogs/atari)
-    
-    [![](files/rct-deluxe-_0003_01.jpg)
-    
-    Rollercoaster Tycoon](https://www.atari.com/collections/games)
-    
-    ![](files/yarsrevenge-xp-cart-1920x1080.webp)
-    
-    Atari XP
-    
-    ![](files/centipede-recharged.gif)
-    
-    Atari Recharged
-    
-    ![](files/Centipede_Atari_2600_gif_03.gif)
-    
-    Atari Classics
-    
-    ![](files/image_122.png)
-    
-    Atari 50th Anniversary Celebration
-    
-    ![](files/yars_revenge_atari_2600_gif_01.gif)
-    
-    Browse All Games
-    
-    ![](files/mobygames.jpg)
-    
-    Mobygames
-    
-    ![](files/carts-flight.gif)
-    
-    Games Blog
-    
-    ![](files/Nav_Images.001.jpg)
-    
-    Physical Cartridges
-    
-    ![](files/Atari-Recharged---Gravitar-keyart-B-wallpaper.jpg)
-    
-    PC & Console
-    
-    ![](files/Group_619_93939d01-922e-49a0-8449-b78cfd29e464.jpg)
-    
-    Enter the Yar-niverse
-    
-* [Club](https://www.atari.club/)
-* [About](https://www.atari.com/pages/about)
-    
-    * ###### Company
-        
-        * [About Atari](https://www.atari.com/pages/about)
-        * [Newsroom](https://www.atari.com/blogs/newsroom)
-        * [Careers](https://www.atari.com/pages/careers)
-        * [Atari X](https://www.atari.com/pages/atari-x)
-    
-    ![](files/Art_of_Atari_Page_033_Image_0001_823f6542-c42a-42c2-841b-46c639a926fe.webp)
-    
-    Since 1972
-    
+* [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
+* [New](https://www.atari.com/collections)
 
- [Log in](https://atari.com/customer_identity/redirect?locale=en&country=US)
+Search [Log in](https://atari.com/customer_identity/redirect?locale=en)
 
-Bag (0) Cart 0 items
+Bag
+
+0
+
+Bag 0
+
+Cart 0 items
 
 [Bag (0) Cart 0 items](https://www.atari.com/cart)
 
@@ -318,6 +41,316 @@ Item added to your cart
 Checkout
 
 Continue shopping
+
+Hardware
+
+#### Featured
+
+* [Atari 2600+](https://www.atari.com/collections/atari-2600-plus)
+    
+    [Atari 7800+](https://www.atari.com/collections/7800)
+    
+    [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
+    
+    [Atari VCS](https://www.atari.com/collections/atari-vcs)
+
+[View all Hardware](https://www.atari.com/collections/hardware)
+
+#### Hardware
+
+* [Atari Consoles](https://www.atari.com/collections/atari-consoles)
+    
+    [Arcade Machines](https://www.atari.com/collections/arcade-machines)
+    
+    [Handhelds](https://www.atari.com/collections/handhelds)
+    
+    [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
+    
+    [Speakerhats](https://www.atari.com/collections/speakerhats)
+
+#### COLLECTIONS
+
+* [Atari+ Platform](https://www.atari.com/collections/atari-platform)
+    
+    [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+    
+    [MyArcade](https://www.atari.com/collections/myarcade)
+    
+    [Retro Arcade](https://atari.com/collections/reproduction-pcbs)
+    
+    [Super Pocket](https://atari.com/products/super-pocket-atari-edition)
+
+[![](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
+
+Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)[![](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+
+Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
+
+Hardware
+
+Menu
+
+Featured
+
+* [Atari 2600+](https://www.atari.com/collections/atari-2600-plus)
+    
+    [Atari 7800+](https://www.atari.com/collections/7800)
+    
+    [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
+    
+    [Atari VCS](https://www.atari.com/collections/atari-vcs)
+
+[View all Hardware](https://www.atari.com/collections/hardware)
+
+Hardware
+
+* [Atari Consoles](https://www.atari.com/collections/atari-consoles)
+    
+    [Arcade Machines](https://www.atari.com/collections/arcade-machines)
+    
+    [Handhelds](https://www.atari.com/collections/handhelds)
+    
+    [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
+    
+    [Speakerhats](https://www.atari.com/collections/speakerhats)
+
+COLLECTIONS
+
+* [Atari+ Platform](https://www.atari.com/collections/atari-platform)
+    
+    [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+    
+    [MyArcade](https://www.atari.com/collections/myarcade)
+    
+    [Retro Arcade](https://atari.com/collections/reproduction-pcbs)
+    
+    [Super Pocket](https://atari.com/products/super-pocket-atari-edition)
+
+[![](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
+
+Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)
+
+[![](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+
+Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
+
+\*\*New!\*\*/collections/7800;\*\*New!\*\*/collections/atari-platform
+
+Games
+
+#### Featured
+
+* [Atari XP](https://www.atari.com/collections/atari-xp)
+    
+    [Atari Recharged](https://www.atari.com/collections/games-recharged)
+    
+    [Atari Classics](https://www.atari.com/collections/games-atari-classics)
+    
+    [Yars Rising](https://atari.com/products/yars-rising)
+    
+    [50th Anniversary](https://atari.com/products/atari-50th-the-anniversary-celebration)
+    
+    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
+
+[View all Games](https://www.atari.com/collections/games)
+
+#### Games
+
+* [PC & Console](https://atari.com/collections/games)
+    
+    [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
+
+#### BRANDS
+
+* [AtariAge](https://atariage.com/)
+    
+    [Digital Eclipse](https://www.digitaleclipse.com/)
+    
+    [Intellivision](https://atari.com/pages/intellivision)
+    
+    [Infogrames](https://atari.com/pages/infogrames)
+    
+    [MobyGames](https://www.mobygames.com/)
+    
+    [Nightdive](https://www.nightdivestudios.com/)
+
+[Shop Merchandise](https://atari.com/collections/atari-brands-collection)
+
+[![](files/Fatal_Run_3840px_2160px_Background.jpg)
+
+Fatal Run 2089 - Coming Soon](https://www.atari.com/products/fatal-run-2089)[![](files/yars-ps-featured-rivercity_1.jpg)
+
+Yars Rising - Available Now](https://www.atari.com/products/yars-rising)
+
+Games
+
+Menu
+
+Featured
+
+* [Atari XP](https://www.atari.com/collections/atari-xp)
+    
+    [Atari Recharged](https://www.atari.com/collections/games-recharged)
+    
+    [Atari Classics](https://www.atari.com/collections/games-atari-classics)
+    
+    [Yars Rising](https://atari.com/products/yars-rising)
+    
+    [50th Anniversary](https://atari.com/products/atari-50th-the-anniversary-celebration)
+    
+    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
+
+[View all Games](https://www.atari.com/collections/games)
+
+Games
+
+* [PC & Console](https://atari.com/collections/games)
+    
+    [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
+
+BRANDS
+
+* [AtariAge](https://atariage.com/)
+    
+    [Digital Eclipse](https://www.digitaleclipse.com/)
+    
+    [Intellivision](https://atari.com/pages/intellivision)
+    
+    [Infogrames](https://atari.com/pages/infogrames)
+    
+    [MobyGames](https://www.mobygames.com/)
+    
+    [Nightdive](https://www.nightdivestudios.com/)
+
+[Shop Merchandise](https://atari.com/collections/atari-brands-collection)
+
+[![](files/Fatal_Run_3840px_2160px_Background.jpg)
+
+Fatal Run 2089 - Coming Soon](https://www.atari.com/products/fatal-run-2089)
+
+[![](files/yars-ps-featured-rivercity_1.jpg)
+
+Yars Rising - Available Now](https://www.atari.com/products/yars-rising)
+
+Apparel & Collectibles
+
+#### APPAREL
+
+* [T-Shirts](https://atari.com/collections/atari-tshirts)
+    
+    [Headwear](https://www.atari.com/collections/headwear)
+
+[Shop Apparel](https://www.atari.com/collections/apparel-accessories)
+
+#### ACCESSORIES
+
+* [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
+    
+    [Bags](https://www.atari.com/collections/bags)
+    
+    [Home Goods](https://www.atari.com/collections/home-goods)
+    
+    [Lifestyle](https://www.atari.com/collections/lifestyle)
+
+[Shop Accessories](https://www.atari.com/collections/apparel-accessories)
+
+#### COLLECTIONS
+
+* [Atari Club](https://www.atari.com/collections/atari-club)
+    
+    [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
+    
+    [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
+    
+    [PONG](https://www.atari.com/collections/pong-collection)
+    
+    [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
+
+[![](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
+
+Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)[![](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
+
+Shop All Tees](https://www.atari.com/collections/atari-tshirts)
+
+Apparel & Collectibles
+
+Menu
+
+APPAREL
+
+* [T-Shirts](https://atari.com/collections/atari-tshirts)
+    
+    [Headwear](https://www.atari.com/collections/headwear)
+
+[Shop Apparel](https://www.atari.com/collections/apparel-accessories)
+
+ACCESSORIES
+
+* [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
+    
+    [Bags](https://www.atari.com/collections/bags)
+    
+    [Home Goods](https://www.atari.com/collections/home-goods)
+    
+    [Lifestyle](https://www.atari.com/collections/lifestyle)
+
+[Shop Accessories](https://www.atari.com/collections/apparel-accessories)
+
+COLLECTIONS
+
+* [Atari Club](https://www.atari.com/collections/atari-club)
+    
+    [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
+    
+    [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
+    
+    [PONG](https://www.atari.com/collections/pong-collection)
+    
+    [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
+
+[![](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
+
+Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)
+
+[![](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
+
+Shop All Tees](https://www.atari.com/collections/atari-tshirts)
+
+\*\*New!\*\*/collections/summer-camp-2024
+
+New
+
+###### New Arrivals
+
+[![](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+
+Atari 7800+](https://www.atari.com/collections/7800)
+
+[![](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
+
+Happy Birthday, Lynx!](https://www.atari.com/collections/consoles)
+
+[![](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
+
+RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
+
+New
+
+Menu
+
+###### New Arrivals
+
+![](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+
+Atari 7800+
+
+![](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
+
+Happy Birthday, Lynx!
+
+![](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
+
+RCT x errornogo
 
 * [About Atari](https://www.atari.com/pages/about)
 * [Customer Support](http://support.atari.com/)
