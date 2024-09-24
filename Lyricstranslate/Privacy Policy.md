@@ -107,67 +107,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
-
-New translation
-
-[Lamp - ムード・ロマンティカNo2 (Mood Romantica No2)](https://lyricstranslate.com/en/lamp-mood-romantica-no2-transliteration)
-
-Japanese → Transliteration
-
-[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
-
-New collection
-
-[🇰🇷 Frozen I & II (2013 & 2019) | Korean Soundrack List ~ 한글](https://lyricstranslate.com/en/collection/frozen-i-ii-2013-2019-korean-soundrack)
-
-[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
-
-New translation
-
-[Lamp - マーガレット (Marguerites)](https://lyricstranslate.com/en/lamp-marguerites-transliteration)
-
-Japanese → Transliteration
-
-[![David Ephraim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557768-1726838583.jpg)](https://lyricstranslate.com/en/translator/david-ephraim "David Ephraim")
+[![uji na](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496118-1655268553.jpg)](https://lyricstranslate.com/en/translator/uji-na "uji na")
 
 New song
 
-[Johnny Hallyday - Les Chevaliers du Ciel](https://lyricstranslate.com/en/johnny-hallyday-les-chevaliers-du-ciel-lyrics)
+[Minuano - 流星綺譚](https://lyricstranslate.com/en/minuano-tale-falling-star-lyrics)
 
-French
+Japanese
 
-[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1166912#comment-1166912)
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+Really!? Thank you so much for proofreading them 🤧  [more](https://lyricstranslate.com/en/comment/1166911#comment-1166911)
+
+[![FJW136](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/fjw136 "FJW136")
+
+New song
+
+[Mauvais Œil - Toi et moi](https://lyricstranslate.com/en/mauvais-oeil-toi-et-moi-lyrics)
+
+Arabic
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[John + Jane Q. Public - Watermelon](https://lyricstranslate.com/en/john-jane-q-public-watermelon-lyrics)
+
+English
+
+[![Emil Jørgensen](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1504444-1623936890.jpg)](https://lyricstranslate.com/en/translator/emil-j%C3%B8rgensen "Emil Jørgensen")
+
+New request
+
+[Dasha (USA) - Austin](https://lyricstranslate.com/en/request/austin-1)
+
+English → Danish
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+Was the very last word cut off in your lyrics? Is ...  [more](https://lyricstranslate.com/en/comment/1166910#comment-1166910)
+
+[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
 
 New translation
 
-[Cesare Cremonini - Ora che non ho più te](https://lyricstranslate.com/en/cesare-cremonini-ora-che-non-ho-piu-te-english)
+[Anne Mattila - Vain sinä ja minä](https://lyricstranslate.com/en/anne-mattila-vain-sina-ja-mina-french)
 
-Italian → English
-
-[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
-
-New translation
-
-[Lamp - ソーダ水の想い出 (Sodasui no omoide)](https://lyricstranslate.com/en/lamp-sodasui-no-omoide-transliteration)
-
-Japanese → Transliteration
-
-[![M Naomi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1287215-1667435387.jpg)](https://lyricstranslate.com/en/translator/m-naomi "M Naomi")
-
-New translation
-
-[Renzo Rubino - Custodire](https://lyricstranslate.com/en/renzo-rubino-custodire-japanese)
-
-Italian → Japanese
-
-[![jin.nn48](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616808-1727049531.jpg)](https://lyricstranslate.com/en/translator/jinnn48 "jin.nn48")
-
-New translation
-
-[Yūko Andō - summer](https://lyricstranslate.com/en/yuko-ando-summer-transliteration)
-
-Japanese → Transliteration
+Finnish → French
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
