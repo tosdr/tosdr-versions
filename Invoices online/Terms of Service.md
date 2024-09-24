@@ -197,57 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Anri van der Linde
+Terri Winfield
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=195812549)  
-TechnoDezi PTY(LTD)
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=130591667)  
+Calonet
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=2803659)  
-TurboFibre
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=151620966)  
+Import Maaw
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=137960565)  
-National Elite Security Services (PTY) LTD
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=188914023)  
+Multi CNC Solutions CC
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=22679656)  
-Electro-Heat
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=180413073)  
-VerdanTech Pty Ltd
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=109495453)  
-Sportspro Management (Pty) Ltd
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=162879155)  
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=84411823)  
 Norton Medical & Consult - Namibia
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=79152430)  
-Dombieterfontein (PTY) LTD
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=150240468)  
+Electro-Heat
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=213115193)  
-FX ACCOUNTING
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=65636384)  
+Moving Made Easy (PTY) Ltd
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=181957330)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=104084803)  
+Iurus Inc
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=177369695)  
-Lion Software Develepment
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=167949170)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=8267116)  
-Nilbet T/A Waterman
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=81865366)  
+Itroniq (Pty) Ltd
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=92735594)  
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=38717727)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=156230552)  
 Stories (Pty) Ltd t/a Storietyd
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=191309754)  
-Peter Salvage Pty Ltd
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=196054536)  
+LEO DEVELOPMENT GROUP
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=41e52054d7a5ac273fe504700661052ef3c49bf25327e908cef66ffe8bee2d94&c=122518654)  
-Import Maaw
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=24800125)  
+All Trucking Solutions
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=150839341)  
+Abandoned Vehicle and Truck Solutions
+
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=35828913)  
+Durbanville Classifieds (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
