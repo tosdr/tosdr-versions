@@ -261,18 +261,39 @@ Asia
     
     ### SHOP NOW
     
-* Sustainability
+* Who We Are
     
-    * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
-    * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
+    * About Us
+        
+        * [Show all](https://www.fjallraven.com/us/en-us/about/)
+        * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+        * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
+        * [Arctic Fox Initiative](https://www.fjallraven.com/us/en-us/about/the-arctic-fox-initiative/)
+        
+    * Sustainability
+        
+        * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
+        * [Our Materials](https://www.fjallraven.com/uk/en-us/about/our-materials/)
+        * [Sustainable Design](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-design/)
+        * [Sustainable Production](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-production/)
+        
+    * Experiences
+        
+        * [Show all](https://experience.fjallraven.com/us/en-us)
+        * [Foxtrail](https://experience.fjallraven.com/articles)
+        * [Classic](https://experience.fjallraven.com/classic)
+        * [Polar](https://experience.fjallraven.com/polar/2023)
+        * [Nature Is Waiting](https://www.fjallraven.com/uk/en-us/nature-is-waiting/)
+        
     
-* EXPERIENCES
+    ![](/4a76c5/globalassets/fjallraven/us/homepage/2024/new-mobile-heroshdw-1.png)
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=5f671dfe-b689-41b7-be1e-f29a4d68f4f3)
-    * [Foxtrail](https://foxtrail.fjallraven.com/)
-    * [Classic](https://classic.fjallraven.com/)
-    * [Polar](https://experience.fjallraven.com/polar)
-    * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
+    [](https://www.fjallraven.com/us/en-us/about/sustainability/)
+    
+    SUSTAINABILITY
+    --------------
+    
+    ### LEARN MORE
     
 
 * * Men
@@ -419,18 +440,30 @@ Asia
             * [Sleeping Bags](https://www.fjallraven.com/us/en-us/bags-gear/tents-sleeping-bags/sleeping-bags/)
             
         
-    * Sustainability
+    * Who We Are
         
-        * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
-        * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
-        
-    * EXPERIENCES
-        
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=5f671dfe-b689-41b7-be1e-f29a4d68f4f3)
-        * [Foxtrail](https://foxtrail.fjallraven.com/)
-        * [Classic](https://classic.fjallraven.com/)
-        * [Polar](https://experience.fjallraven.com/polar)
-        * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
+        * About Us
+            
+            * [Show all About Us](https://www.fjallraven.com/us/en-us/about/)
+            * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+            * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
+            * [Arctic Fox Initiative](https://www.fjallraven.com/us/en-us/about/the-arctic-fox-initiative/)
+            
+        * Sustainability
+            
+            * [Show all Sustainability](https://www.fjallraven.com/us/en-us/about/sustainability/)
+            * [Our Materials](https://www.fjallraven.com/uk/en-us/about/our-materials/)
+            * [Sustainable Design](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-design/)
+            * [Sustainable Production](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-production/)
+            
+        * Experiences
+            
+            * [Show all Experiences](https://experience.fjallraven.com/us/en-us)
+            * [Foxtrail](https://experience.fjallraven.com/articles)
+            * [Classic](https://experience.fjallraven.com/classic)
+            * [Polar](https://experience.fjallraven.com/polar/2023)
+            * [Nature Is Waiting](https://www.fjallraven.com/uk/en-us/nature-is-waiting/)
+            
         
 * * Customer Service
         
@@ -478,6 +511,7 @@ Asia
         * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
         * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
         
+    * Who We Are
 * * Change Region **English** / **United States** (USD $)
         
          
@@ -533,6 +567,8 @@ Main Content Starts Here
 * [Accessibility Statement](https://www.fjallraven.com/us/en-us/legal/accessibility-statement/)
 * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
 * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
+
+ Who We Are
 
 FJÄLLRÄVEN RETAIL USA
 
@@ -794,7 +830,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=5f671dfe-b689-41b7-be1e-f29a4d68f4f3)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=a629a39c-0963-46d4-bbbf-5f2e568c929d)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
