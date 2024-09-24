@@ -821,8 +821,8 @@ If you have any questions about this Privacy Policy, please contact us:
 * 4[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
 * 5[Groundhog day for carmakers, but complaining has become absurd](http://en.euractiv.eu/section/electric-cars/opinion/groundhog-day-for-carmakers-but-complaining-has-become-absurd/?utm_source=website&utm_campaign=popular)
 * 6[EU, China trade chiefs agree to look at 'price undertakings' in key EV tariff saga twist](http://en.euractiv.eu/section/economy-jobs/news/eu-china-trade-chiefs-agree-to-look-at-price-undertakings-in-key-ev-tariff-saga-twist/?utm_source=website&utm_campaign=popular)
-* 7[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
-* 8[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 7[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 8[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
 * 9[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
 * 10[Europe’s electrifiers say their time has come](http://en.euractiv.eu/section/energy-environment/news/europes-electrifiers-say-their-time-has-come/?utm_source=website&utm_campaign=popular)
 
