@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 23, 2024**
+**September 24, 2024**
 
 * * *
 
@@ -228,25 +228,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
-
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
-
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
 [Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
 
