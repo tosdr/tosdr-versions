@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        23 September 2024
+        24 September 2024
         
-        Eviden develops cloud-based cellar management solution for Selartag® to enable data efficiencies in wine inventory
-        ------------------------------------------------------------------------------------------------------------------
+        RATP chooses Eviden’s embedded TETRA radio services solutions to equip its metro trains and tramways
+        ----------------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
