@@ -198,6 +198,8 @@ The parties have expressly requested and required that these General Terms and C
 
 [Corporate](https://bostonpizza.com/en/corporate.html)
 
+[ESG Strategy](https://bostonpizza.com/en/environmental-social-governance.html)
+
 [BP Foundation](https://bostonpizza.com/en/bp-foundation.html)
 
 [BP Income Fund](https://www.bpincomefund.com/home/default.aspx)
