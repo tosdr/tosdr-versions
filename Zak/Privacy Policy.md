@@ -12,7 +12,7 @@ Free Returns up to 30 Days Contiguous U.S.
 
 [Kids](https://www.zak.com/collections/kids)
 
-[Back to School](https://www.zak.com/collections/kids-back-to-school-water-bottles) [Drinkware](https://www.zak.com/collections/kids-drinkware) [Dinnerware](https://www.zak.com/collections/kids-dinnerware) [For Age 3-6](https://www.zak.com/collections/for-kids-age-3-6) [For Age 7-12](https://www.zak.com/collections/for-kids-age-7-12) [Bluey](https://www.zak.com/collections/bluey) [Super Mario Bros.](https://www.zak.com/collections/the-super-mario-bros) [Disney](https://www.zak.com/collections/disney) [Marvel](https://www.zak.com/collections/marvel) [PAW Patrol](https://www.zak.com/collections/paw-patrol) [All Characters](https://www.zak.com/collections/all-characters)
+[Drinkware](https://www.zak.com/collections/kids-drinkware) [Dinnerware](https://www.zak.com/collections/kids-dinnerware) [For Age 3-6](https://www.zak.com/collections/for-kids-age-3-6) [For Age 7-12](https://www.zak.com/collections/for-kids-age-7-12) [Bluey](https://www.zak.com/collections/bluey) [Disney](https://www.zak.com/collections/disney) [Minecraft](https://www.zak.com/collections/minecraft) [Marvel](https://www.zak.com/collections/marvel) [PAW Patrol](https://www.zak.com/collections/paw-patrol) [Super Mario Bros.](https://www.zak.com/collections/the-super-mario-bros) [All Characters](https://www.zak.com/collections/all-characters)
 
 [](https://www.zak.com/collections/beacon-covered-spout-bottles)
 
@@ -78,8 +78,6 @@ Kids Expand menu
 
 Hide menu [Kids](https://www.zak.com/collections/kids)
 
-[Back to School](https://www.zak.com/collections/kids-back-to-school-water-bottles)
-
 [Drinkware](https://www.zak.com/collections/kids-drinkware)
 
 [Dinnerware](https://www.zak.com/collections/kids-dinnerware)
@@ -90,13 +88,15 @@ Hide menu [Kids](https://www.zak.com/collections/kids)
 
 [Bluey](https://www.zak.com/collections/bluey)
 
-[Super Mario Bros.](https://www.zak.com/collections/the-super-mario-bros)
-
 [Disney](https://www.zak.com/collections/disney)
+
+[Minecraft](https://www.zak.com/collections/minecraft)
 
 [Marvel](https://www.zak.com/collections/marvel)
 
 [PAW Patrol](https://www.zak.com/collections/paw-patrol)
+
+[Super Mario Bros.](https://www.zak.com/collections/the-super-mario-bros)
 
 [All Characters](https://www.zak.com/collections/all-characters)
 
