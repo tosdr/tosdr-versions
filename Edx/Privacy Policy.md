@@ -397,6 +397,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 edX
 ---
 
+* [Partner With Us](https://business.edx.org/partner)
 * [Boot Camps](https://www.edx.org/boot-camps)
 * [About](https://www.edx.org/about-us)
 * [edX For Business](https://business.edx.org/)
