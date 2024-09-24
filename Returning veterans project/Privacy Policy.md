@@ -187,13 +187,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![CPT Kermit N. Lisle, Jr](https://cdn.returningveterans.org/images/honor/lyle_2.jpg)  
+![Ted Cimral](https://cdn.returningveterans.org/images/honor/cogbill_001.jpg)  
 
-**In Memory of CPT Kermit N. Lisle, Jr**  
+**In Honor of Ted Cimral**  
 United States Army  
-United States Navy  
-United States Reserves  
-Submitted by Kelly & Brandon Faunce and Family](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -238,5 +236,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/23/24 - 8:09:04  
+Printed 9/24/24 - 2:12:11  
 © 2024 Returning Veterans Project
