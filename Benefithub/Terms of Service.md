@@ -28,8 +28,8 @@
     * [Merchant Partner](https://www.benefithub.com/partner-with-benefithub/merchant-partner)
     * [Memberships, Associations & Loyalty Groups](https://www.benefithub.com/partner-with-benefithub/membership-organization)
 * [Contact Us](https://www.benefithub.com/contact-us) [ ] 
-    * [FAQ](https://benefithubsupporthelp.zendesk.com/hc/en-us/categories/360000805234-User-FAQ-s-ENGLISH-)
-    * [Customer Help Center Centre](https://benefithubsupporthelp.zendesk.com/hc/en-us)
+    * [FAQ](https://www.benefithub.com/en/support)
+    * [Customer Help Center Centre](https://www.benefithub.com/en/support/did-not-find-an-answer)
 * [Blog](https://www.benefithub.com/blog)
 
 * [Global](https://www.benefithub.com/global-presence) [ ] 
