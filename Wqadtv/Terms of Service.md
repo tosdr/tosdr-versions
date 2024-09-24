@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b)
         
-        #### [QC football teams using drones to up their game](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b) [![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b)
-        
-        #### [Football teams in the Quad Cities getting help from drones](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b) [![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b)
-        
-        #### [How drones are helping football teams at Quad Cities schools](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfed8b4e-d27e-49c5-84d7-e080ee238c02/20240924T031457/cfed8b4e-d27e-49c5-84d7-e080ee238c02_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfed8b4e-d27e-49c5-84d7-e080ee238c02/20240924T031457/cfed8b4e-d27e-49c5-84d7-e080ee238c02_360x203.jpg)](https://www.wqad.com/article/news/local/downtown-rock-island-could-be-getting-a-new-tif-district/526-9800ad15-209c-4ae7-99ea-a29050d7534f)
-        
-        #### [New TIF district could be coming to downtown Rock Island](https://www.wqad.com/article/news/local/downtown-rock-island-could-be-getting-a-new-tif-district/526-9800ad15-209c-4ae7-99ea-a29050d7534f)
+        #### [QC football teams using drones to up their game](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4737f4af-739a-4efb-8e09-aa5bece6ceef/20240924T121849/4737f4af-739a-4efb-8e09-aa5bece6ceef_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4737f4af-739a-4efb-8e09-aa5bece6ceef/20240924T121849/4737f4af-739a-4efb-8e09-aa5bece6ceef_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [A very pleasant September day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/c372560b-602d-4161-abca-e8ffe13c0e68/20240924T033439/c372560b-602d-4161-abca-e8ffe13c0e68_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c372560b-602d-4161-abca-e8ffe13c0e68/20240924T033439/c372560b-602d-4161-abca-e8ffe13c0e68_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-john-mexico/507-50e7bce0-7dca-4160-a4d3-fbb478b66cde)
         
-        #### [John strikes southern Mexico's Pacific coast as a Category 3 hurricane](https://www.wqad.com/article/weather/hurricane/hurricane-john-mexico/507-50e7bce0-7dca-4160-a4d3-fbb478b66cde)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c5189699-b323-44ff-8ecf-db05bff8ca61/20240924T034000/c5189699-b323-44ff-8ecf-db05bff8ca61_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c5189699-b323-44ff-8ecf-db05bff8ca61/20240924T034000/c5189699-b323-44ff-8ecf-db05bff8ca61_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [A few showers for parts of the area overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [2 people are dead after John hits Mexico’s Pacific coast as a major hurricane](https://www.wqad.com/article/weather/hurricane/hurricane-john-mexico/507-50e7bce0-7dca-4160-a4d3-fbb478b66cde)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -89,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-58°
+66°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
