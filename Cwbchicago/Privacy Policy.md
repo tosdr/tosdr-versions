@@ -242,6 +242,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ronald-Wembley-326x245.jpg)](https://cwbchicago.com/2024/09/zip-tied-woman-threw-herself-out-of-moving-car-to-escape-from-armed-carjackers-including-a-convicted-murderer-prosecutors.html "Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors")
+
+Brighton Park
+
+### [Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors](https://cwbchicago.com/2024/09/zip-tied-woman-threw-herself-out-of-moving-car-to-escape-from-armed-carjackers-including-a-convicted-murderer-prosecutors.html "Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors")
+
+[September 21, 2024 7:37 PM](https://cwbchicago.com/2024/09)
+
+A convicted murderer is now accused of zip-tying, kidnapping, and carjacking a couple at gunpoint in Brighton Park last month. The female victim escaped by throwing herself out of the carjacked car while it was in motion.[](https://cwbchicago.com/2024/09/zip-tied-woman-threw-herself-out-of-moving-car-to-escape-from-armed-carjackers-including-a-convicted-murderer-prosecutors.html "Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Red-Line-North-Side-Suspects-Septemer-2024-326x245.jpg)](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-red-line-robbery-spree.html "Cops hunt 3 suspects in Red Line robbery spree")
+
+CTA
+
+### [Cops hunt 3 suspects in Red Line robbery spree](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-red-line-robbery-spree.html "Cops hunt 3 suspects in Red Line robbery spree")
+
+[September 21, 2024 7:16 PM](https://cwbchicago.com/2024/09)
+
+Mass Transit detectives have released surveillance images of three people wanted for committing a robbery spree on the Red Line late Tuesday night. CWBChicago first reported on the crimes Wednesday afternoon.[](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-red-line-robbery-spree.html "Cops hunt 3 suspects in Red Line robbery spree")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Ishmael-Williams-and-Tamika-Smith-326x245.jpg)](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
 
 Washington Heights
@@ -251,26 +271,6 @@ Washington Heights
 [September 21, 2024 6:47 PM](https://cwbchicago.com/2024/09)
 
 Officials say a South Side man murdered his girlfriend and then called 911, claiming the bullet that killed her had come through his home window—a story that fell apart when Chicago cops found a shell casing, a spent bullet, and a live bullet lying next to the woman’s body inside his house.[](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Rakim-Kendall-326x245.jpg)](https://cwbchicago.com/2024/09/man-aimed-gun-at-cops-prompting-them-to-shoot-at-him-6-days-after-getting-probation-in-another-gun-case-prosecutors.html "Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors")
-
-South Shore
-
-### [Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors](https://cwbchicago.com/2024/09/man-aimed-gun-at-cops-prompting-them-to-shoot-at-him-6-days-after-getting-probation-in-another-gun-case-prosecutors.html "Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors")
-
-[September 21, 2024 7:17 AM](https://cwbchicago.com/2024/09)
-
-Prosecutors say a man repeatedly pointed a gun at Chicago police officers while trying to run away from the cops—just six days after being given “first-time weapon offense probation” in another gun case.[](https://cwbchicago.com/2024/09/man-aimed-gun-at-cops-prompting-them-to-shoot-at-him-6-days-after-getting-probation-in-another-gun-case-prosecutors.html "Man aimed gun at cops, prompting them to shoot at him, 6 days after getting probation in another gun case: prosecutors")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Chain-bukhariancommunity-326x245.jpg)](https://cwbchicago.com/2024/09/again-2-more-women-targeted-by-jewelry-snatching-thieves-in-the-loop-west-town-as-crime-pattern-grows.html "Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows")
-
-Lincoln Park
-
-### [Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows](https://cwbchicago.com/2024/09/again-2-more-women-targeted-by-jewelry-snatching-thieves-in-the-loop-west-town-as-crime-pattern-grows.html "Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows")
-
-[September 21, 2024 7:15 AM](https://cwbchicago.com/2024/09)
-
-Jewelry-snatching thieves targeted two more women on Friday, one in the Loop and the other just across the river in the Fulton River District. Chicago police have not yet issued a community alert about the growing crime pattern or announced any arrests.[](https://cwbchicago.com/2024/09/again-2-more-women-targeted-by-jewelry-snatching-thieves-in-the-loop-west-town-as-crime-pattern-grows.html "Again! 2 more women targeted by jewelry-snatching thieves in the Loop, West Town as crime pattern grows")
 
 Search
 
@@ -330,6 +330,7 @@ Thank you.
 * [Gage Park](https://cwbchicago.com/category/gage-park)
 * [Garfield Ridge](https://cwbchicago.com/category/garfield-ridge)
 * [Gold Coast](https://cwbchicago.com/category/near-north/gold-coast)
+* [Goose Island](https://cwbchicago.com/category/goose-island)
 * [Greater Grand Crossing](https://cwbchicago.com/category/greater-grand-crossing)
 * [Hermosa](https://cwbchicago.com/category/hermosa)
 * [Humboldt Park](https://cwbchicago.com/category/humboldt-park)
