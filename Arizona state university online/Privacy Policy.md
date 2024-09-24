@@ -236,6 +236,6 @@ Select Section
 
 [Maps and Locations](https://www.asu.edu/about/locations-maps) [Jobs](https://www.asu.edu/asujobs) [Directory](https://isearch.asu.edu/) [Contact ASU](https://www.asu.edu/about/contact) [My ASU](https://my.asu.edu/)
 
-[![Repeatedly ranked #1 in innovation (ASU ahead of MIT and Stanford), sustainability (ASU ahead of Stanford and UC Berkeley), and global impact (ASU ahead of MIT and Penn State)](/modules/webspark/asu_footer/img/230918-ASU-2024-Repeatedly-rankednumber-one-global-footer-863x188.png)](https://www.asu.edu/rankings)
+[![Repeatedly ranked #1 on 20+ lists in the last 3 years](/modules/webspark/asu_footer/img/240917_ASU_Rankings_GOLD.png)](https://www.asu.edu/rankings)
 
 [Copyright and Trademark](https://www.asu.edu/about/copyright-trademark) [Accessibility](https://www.asu.edu/accessibility/) [Privacy](https://www.asu.edu/about/privacy) [Terms of Use](https://www.asu.edu/about/terms-of-use) [Emergency](https://www.asu.edu/emergency/)
