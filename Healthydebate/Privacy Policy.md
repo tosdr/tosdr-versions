@@ -18,7 +18,7 @@ Most popular today
 * [Vaccines](https://healthydebate.ca/topic/vaccines/) (133)
 * [Opioids](https://healthydebate.ca/topic/opioids/) (46)
 * [Cancer](https://healthydebate.ca/topic/cancer/) (145)
-* [Addiction](https://healthydebate.ca/topic/addiction/) (159)
+* [Addiction](https://healthydebate.ca/topic/addiction/) (160)
 * [Racism](https://healthydebate.ca/topic/racism/) (37)
 * [Alcohol](https://healthydebate.ca/topic/alcohol/) (23)
 * [Infectious Disease](https://healthydebate.ca/topic/infectious-disease/) (656)
