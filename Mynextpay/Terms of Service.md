@@ -3,7 +3,7 @@
 * [Blog](https://mynextpay.ca/blog/)
 * [Français](https://mynextpay.ca/fr)
 
-[![Mynextpay](https://mynextpay.ca/wp-content/uploads/2024/08/logo_mynextpays-3.png)](https://mynextpay.ca/)
+[![Mynextpay](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTAiIGhlaWdodD0iOTQiIHZpZXdCb3g9IjAgMCAzNTAgOTQiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://mynextpay.ca/)
 
 * [Credit Know-how](#)
     * [Payday Loans](https://mynextpay.ca/payday-loans/)
@@ -46,7 +46,7 @@ Documentation – You agree that electronic mail, electronic forms, records, pho
 
 Electronic Signature/Verbal Consent – By agreeing to this application, you understand and agree to all terms and conditions of this Agreement and by submitting the online application by Internet or by phone, you are applying for a micro loan and certify that information provided by you is true and correct under penalty of perjury. You agree that upon submission of your electronic signature or verbal consent by phone, you are not presently involved in, or contemplating bankruptcy now or in the future. You authorize us to verify the information in this application and hereby give the Mynextpay, consent to obtain information on you from a consumer reporting agency or other various means available. You understand that Mynextpay, reserves the right to decline an applicant at any time, with cause determined by judgment of risk, upon completion of due diligence of applicant. In order to process this application, you understand verification of the information you have provided is necessary, including, but not limited to, employment and bank account verification. You accept personal responsibility for safeguarding any PIN or CUSTOMER NUMBER that might be assigned to you.
 
-![Mynextpay](https://mynextpay.ca/wp-content/uploads/2024/08/logo_mynextpays-3.png "logo_mynextpays")
+![Mynextpay](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNTAiIGhlaWdodD0iOTQiIHZpZXdCb3g9IjAgMCAzNTAgOTQiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+ "logo_mynextpays")
 
 With over 12 years of experience, Mynextpay, provides quick financial solutions to its Canadian clients. Our quick cash loan program is quick and convenient. Even if your previous credit history is not perfect, My Next Pay strives to provide every customer with a short term cash loan that is suitable for your budget.
 
