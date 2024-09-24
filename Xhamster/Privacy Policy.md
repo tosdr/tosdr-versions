@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22h%22%2C%22v%22%3A6%7D%2C%228006%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66f29122438429.32146575611&xhSessionToken=8e1023c11dd810669603f4e6f94f4b05815b3a6c&xhSessionStartedAt=1727172898)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22g%22%2C%22v%22%3A6%7D%2C%228006%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66f2ea734791a5.230604893e4&xhSessionToken=a08e0b03a6a6c0636d7f6e88d3460dc8d30d60c5&xhSessionStartedAt=1727195763)
 
 [Categories](https://xhamster.com/categories)
 
@@ -52,9 +52,9 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=oktoberfest2024&utm_medium=desktop-headline)
+[](https://flirtify.com/?utm_source=xhamster-headline)
 
-[🎉 OKTOBERFEST AT FAPHOUSE! 🎉 Limited-Time Flash Sale!](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=oktoberfest2024&utm_medium=desktop-headline) [Claim Your 50% OFF Now!](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=oktoberfest2024&utm_medium=desktop-headline)
+[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette](https://flirtify.com/?utm_source=xhamster-headline) [JOIN FOR FREE](https://flirtify.com/?utm_source=xhamster-headline)
 
 Privacy Policy
 ==============
