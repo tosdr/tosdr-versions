@@ -321,29 +321,26 @@ MainMenu
     
     [View all in CHIP](https://www.medicaid.gov/chip/index.html)
     
-    * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
+    * [CHIP State Program Information](https://www.medicaid.gov/chip/state-program-information/index.html)
+    * [CHIP State Plan Amendments](https://www.medicaid.gov/chip/state-program-information/chip-spa/index.html)
     * [Benefits](https://www.medicaid.gov/chip/benefits/index.html)
-    * [Financing](https://www.medicaid.gov/chip/financing/index.html)
+    * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
+    * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
     * CHIPRA
         
         [View all in CHIPRA](https://www.medicaid.gov/chip/chipra/index.html)
         
         * [CHIPRA Awards & Performance Bonus](https://www.medicaid.gov/chip/chipra/chipra-awards-performance-bonus/index.html)
-    * CHIP State Program Information
-        
-        [View all in CHIP State Program Information](https://www.medicaid.gov/chip/state-program-information/index.html)
-        
-        * [CHIP State Plan Amendments](https://www.medicaid.gov/chip/state-program-information/chip-spa/index.html)
-    * [Reports & Evaluations](https://www.medicaid.gov/chip/reports-evaluations/index.html)
-    * [CHIP Managed Care](https://www.medicaid.gov/chip/chip-managed-care/index.html)
-    * [CHIP Quality & Performance](https://www.medicaid.gov/chip/chip-quality-performance/index.html)
     * Eligibility Standards
         
         [View all in Eligibility Standards](https://www.medicaid.gov/chip/eligibility/index.html)
         
         * [Waiting Periods](https://www.medicaid.gov/chip/eligibility-standards/waiting-periods-chip/index.html)
         * [Continuous Eligibility (CE)](https://www.medicaid.gov/chip/eligibility/continuous-eligibility/index.html)
-    * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
+    * [Financing](https://www.medicaid.gov/chip/financing/index.html)
+    * [CHIP Managed Care](https://www.medicaid.gov/chip/chip-managed-care/index.html)
+    * [CHIP Quality & Performance](https://www.medicaid.gov/chip/chip-quality-performance/index.html)
+    * [Reports & Evaluations](https://www.medicaid.gov/chip/reports-evaluations/index.html)
 * [Basic Health Program](https://www.medicaid.gov/basic-health-program/index.html)
 * State Overviews
     
@@ -669,29 +666,26 @@ MainMenu Desktop
     
     [View all in CHIP](https://www.medicaid.gov/chip/index.html)
     
-    * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
+    * [CHIP State Program Information](https://www.medicaid.gov/chip/state-program-information/index.html)
+    * [CHIP State Plan Amendments](https://www.medicaid.gov/chip/state-program-information/chip-spa/index.html)
     * [Benefits](https://www.medicaid.gov/chip/benefits/index.html)
-    * [Financing](https://www.medicaid.gov/chip/financing/index.html)
+    * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
+    * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
     * CHIPRA
         
         [View all in CHIPRA](https://www.medicaid.gov/chip/chipra/index.html)
         
         * [CHIPRA Awards & Performance Bonus](https://www.medicaid.gov/chip/chipra/chipra-awards-performance-bonus/index.html)
-    * CHIP State Program Information
-        
-        [View all in CHIP State Program Information](https://www.medicaid.gov/chip/state-program-information/index.html)
-        
-        * [CHIP State Plan Amendments](https://www.medicaid.gov/chip/state-program-information/chip-spa/index.html)
-    * [Reports & Evaluations](https://www.medicaid.gov/chip/reports-evaluations/index.html)
-    * [CHIP Managed Care](https://www.medicaid.gov/chip/chip-managed-care/index.html)
-    * [CHIP Quality & Performance](https://www.medicaid.gov/chip/chip-quality-performance/index.html)
     * Eligibility Standards
         
         [View all in Eligibility Standards](https://www.medicaid.gov/chip/eligibility/index.html)
         
         * [Waiting Periods](https://www.medicaid.gov/chip/eligibility-standards/waiting-periods-chip/index.html)
         * [Continuous Eligibility (CE)](https://www.medicaid.gov/chip/eligibility/continuous-eligibility/index.html)
-    * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
+    * [Financing](https://www.medicaid.gov/chip/financing/index.html)
+    * [CHIP Managed Care](https://www.medicaid.gov/chip/chip-managed-care/index.html)
+    * [CHIP Quality & Performance](https://www.medicaid.gov/chip/chip-quality-performance/index.html)
+    * [Reports & Evaluations](https://www.medicaid.gov/chip/reports-evaluations/index.html)
 * [Basic Health Program](https://www.medicaid.gov/basic-health-program/index.html)
 * State Overviews
     
