@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [681 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [686 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -138,7 +138,49 @@ Customer Testimonials
 
 out of 5 based on
 
-[681 reviews](https://www.trustpilot.com/review/www.safari.com)
+[686 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 24, 2024
+
+> I spent hours trying to book my own…
+
+> I spent hours trying to book my own reservation online, but Dolan came to the rescue and made the entire process seamless! His expertise and professionalism were a game-changer, and everything was booked without a hitch. As someone who considers themselves a seasoned traveler, Dolan's knowledge and service exceeded my expectations, showing me there’s always more to learn. Thank you so much for your outstanding customer service—it truly made a difference!
+
+FE
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 24, 2024
+
+> Shann was incredibly polite
+
+> Shann was incredibly polite, easy to talk to
+
+Tlotlang Moletsang
+
+,
+
+ZA
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 23, 2024
+
+> Highly Recommend - Thank you Nicole!
+
+> I recently booked a safari in South Africa through Safari.com, and I couldn't be more pleased with the experience. Nicole, who assisted me throughout the process, was an absolute delight to work with. She was not only extremely responsive but also highly professional and friendly, which made the entire booking experience smooth and stress-free. Thank you Nicole!
+
+Kimberley
+
+,
+
+AU
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -223,48 +265,6 @@ Daleen Rae
 ,
 
 ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 19, 2024
-
-> Candis Cloete was extremely helpful and…
-
-> Candis Cloete was extremely helpful and efficient. She made me feel confident in making my booking. She was always prompt in her replies
-
-Carol
-
-,
-
-GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 17, 2024
-
-> Thanks to Keith!
-
-> Keith was prompt, thorough and efficient. He was available as and when needed, answering all the questions I had, and guiding us along the way.
-
-Anuscka Du Plessis Ellis
-
-,
-
-ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 17, 2024
-
-> This Travel Firm is Ready for You!
-
-> We have completed the preliminary reservations with this amazing travel firm. Thank God they exist! We would never have been able to figure out how to put the pieces of our trip to AFRICA together without them. They are patient, caring, detailed, and responsive to communications…something you expect, but do not always receive when service is involved. Connect with them via email if you are even thinking about going to Africa. Cheers!
-
-Michael J Russ
-
-,
-
-US
 
 VIP service
 
