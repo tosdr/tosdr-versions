@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jussie-smollett-kamala-harris-1200x630.jpg)](https://americanwirenews.com/down-with-deportations-kamala-joins-leftist-protest-chants-with-disgraced-actor-in-re-emerged-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/kamalacolbertsg-1200-x-628-1200x630.jpg)](https://americanwirenews.com/team-harris-declines-to-answer-if-shell-honor-pledge-of-citizenship-for-dreamers/)
 
-[‘Down with deportations!’ Kamala joins leftist protest, chants with disgraced actor in re-emerged video](https://americanwirenews.com/down-with-deportations-kamala-joins-leftist-protest-chants-with-disgraced-actor-in-re-emerged-video/)
+[Team Harris declines to answer if she’ll honor pledge of citizenship for ‘Dreamers’](https://americanwirenews.com/team-harris-declines-to-answer-if-shell-honor-pledge-of-citizenship-for-dreamers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-janet-jackson-1200x630.jpg)](https://americanwirenews.com/janet-jackson-allegedly-fires-rep-who-apologized-on-her-behalf-for-kamala-comments-claims-he-doesnt-deserve-it/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-grocery-store-1200x630.png)](https://americanwirenews.com/trump-helps-out-mom-of-three-at-pa-grocery-store/)
 
-[Janet Jackson allegedly FIRES rep who apologized on his before Kamala comments, claims he doesn’t ‘deserve’ it](https://americanwirenews.com/janet-jackson-allegedly-fires-rep-who-apologized-on-her-behalf-for-kamala-comments-claims-he-doesnt-deserve-it/)
+[Trump helps out mom of three at PA grocery store](https://americanwirenews.com/trump-helps-out-mom-of-three-at-pa-grocery-store/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gunasekara-1200x630.jpg)](https://americanwirenews.com/fmr-epa-chief-confronts-raskin-to-his-face-minutes-after-he-lies-about-trump-and-project-2025/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gw-ryan-wesley-routh-gw-letter-1200x630.jpg)](https://americanwirenews.com/former-ag-bill-barr-slams-doj-for-releasing-trump-assassins-bounty-letter/)
 
-[Fmr. EPA chief confronts Raskin to his face minutes after he lies about Trump and Project 2025](https://americanwirenews.com/fmr-epa-chief-confronts-raskin-to-his-face-minutes-after-he-lies-about-trump-and-project-2025/)
+[Former AG Bill Barr slams DOJ for releasing Trump assassin’s bounty letter](https://americanwirenews.com/former-ag-bill-barr-slams-doj-for-releasing-trump-assassins-bounty-letter/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-maher-1200x630.jpg)](https://americanwirenews.com/bill-maher-unleashes-on-kamala-harris-for-spineless-israel-stance-just-shut-up/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nuzzi-olbermann-1200x630.jpg)](https://americanwirenews.com/nuzzi-has-the-hots-for-older-men-once-dated-left-wing-loon-keith-olbermann/)
 
-[Bill Maher unleashes on Kamala Harris for spineless Israel stance: ‘Just shut up’](https://americanwirenews.com/bill-maher-unleashes-on-kamala-harris-for-spineless-israel-stance-just-shut-up/)
+[Nuzzi has the hots for older men, once dated left-wing loon Keith Olbermann](https://americanwirenews.com/nuzzi-has-the-hots-for-older-men-once-dated-left-wing-loon-keith-olbermann/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-1200x630.jpg)](https://americanwirenews.com/top-journos-become-impatient-with-artless-dodger-kamala-harris-she-owes-us-these-answers/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nebraska-state-sen.-mike-mcdonnell-1200x630.jpg)](https://americanwirenews.com/gop-state-senator-opposes-electoral-college-change-that-may-have-helped-trump-win-re-election/)
 
-[Top journos become impatient with ‘artless dodger’ Kamala Harris: ‘She owes us these answers’](https://americanwirenews.com/top-journos-become-impatient-with-artless-dodger-kamala-harris-she-owes-us-these-answers/)
+[GOP state senator opposes Electoral College change that may have helped Trump win re-election](https://americanwirenews.com/gop-state-senator-opposes-electoral-college-change-that-may-have-helped-trump-win-re-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg_pamela_carter_lynda_carter-1200x630.jpg)](https://americanwirenews.com/wonder-woman-lynda-carter-publicly-endorses-democrat-opponents-of-her-own-republican-sister/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Kennedy-Jr-1200x630.jpg)](https://americanwirenews.com/rfk-jr-calls-on-scotus-to-put-him-back-on-blue-state-ballot/)
 
-[‘Wonder Woman’ Lynda Carter publicly snubs Republican sister with Democrat endorsements](https://americanwirenews.com/wonder-woman-lynda-carter-publicly-endorses-democrat-opponents-of-her-own-republican-sister/)
+[RFK Jr. calls on SCOTUS to put him back on blue state ballot](https://americanwirenews.com/rfk-jr-calls-on-scotus-to-put-him-back-on-blue-state-ballot/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kennedy-nuzzi-1200x630.jpg)](https://americanwirenews.com/rumored-rfk-jr-affair-with-obsessed-reporter-heats-up-with-salacious-allegations-it-was-a-little-scary/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-geordi-1200x630.png)](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
 
-[Rumored RFK Jr affair with ‘obsessed’ reporter heats up with salacious allegations: ‘It was a little scary’](https://americanwirenews.com/rumored-rfk-jr-affair-with-obsessed-reporter-heats-up-with-salacious-allegations-it-was-a-little-scary/)
+[Elon Musk’s innovative brilliance leads to new device that enables the blind to see](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-1200x630.jpg)](https://americanwirenews.com/nfls-nonpartisan-get-out-the-vote-effort-leans-heavily-to-the-blue-team/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-philly-chaos-1200x630.jpg)](https://americanwirenews.com/philly-weekend-filled-with-mobs-violence-and-chaos-pretty-sure-i-saw-this-scene-in-the-joker/)
 
-Getty Images
+[Philly weekend filled with mobs, violence and chaos: ‘Pretty sure I saw this scene in The Joker’](https://americanwirenews.com/philly-weekend-filled-with-mobs-violence-and-chaos-pretty-sure-i-saw-this-scene-in-the-joker/)
 
-[NFL’s ‘nonpartisan’ get-out-the-vote effort leans HEAVILY to the blue team](https://americanwirenews.com/nfls-nonpartisan-get-out-the-vote-effort-leans-heavily-to-the-blue-team/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rashida-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-martin-county-sheriffs-office-donald-trump-ryan-wesley-routh-split-1200x630.jpg)
-
-### Chilling letter from Trump assassination suspect released to public. Why?](https://americanwirenews.com/chilling-letter-from-trump-assassination-suspect-released-to-public-why/)
+### Rashida Tlaib demands U.S. cut off weapons to ‘genocidal’ Israel amid rising tensions](https://americanwirenews.com/rashida-tlaib-demands-u-s-cut-off-weapons-to-genocidal-israel-amid-rising-tensions/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,30 @@ Getty Images
 ### [Recent study finds mass deportations would actually help US deficit](https://americanwirenews.com/recent-study-finds-mass-deportations-would-actually-help-us-deficit/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-ero-boston-220x180.jpg)](https://americanwirenews.com/migrant-crime-crisis-infiltrates-ritzy-playgrounds-of-rich-and-famous/)
+
+[Migrant crime crisis infiltrates ritzy playgrounds of rich and famous](https://americanwirenews.com/migrant-crime-crisis-infiltrates-ritzy-playgrounds-of-rich-and-famous/)
+
+Images via ICE-ERO Boston
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-whoopi-goldberg-2-220x180.jpg)](https://americanwirenews.com/whoopi-defends-janet-jackson-in-kamala-harris-not-black-pr-debacle/)
+
+[Whoopi defends Janet Jackson in Kamala Harris ‘not Black’ PR debacle](https://americanwirenews.com/whoopi-defends-janet-jackson-in-kamala-harris-not-black-pr-debacle/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-richardson-sg-branchville-220x180.jpg)](https://americanwirenews.com/prison-must-provide-sex-change-surgery-for-convicted-baby-killer-judge-rules/)
+
+[Prison must provide sex change surgery for convicted baby killer, judge rules](https://americanwirenews.com/prison-must-provide-sex-change-surgery-for-convicted-baby-killer-judge-rules/)
+
+Image via Indiana Department of Corrections
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-coffeejoint-1200-x-628-220x180.jpg)](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
+
+[Pro-cop coffee shop owner awarded $4 million in free speech lawsuit against university](https://americanwirenews.com/pro-cop-coffee-shop-owner-awarded-4-million-in-free-speech-lawsuit-against-university/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-donald-trump-5-220x180.jpg)](https://americanwirenews.com/trump-blasts-feds-for-mishandling-and-downplaying-assassination-attempt/)
+
+[Trump blasts feds for ’mishandling and downplaying’ assassination attempt](https://americanwirenews.com/trump-blasts-feds-for-mishandling-and-downplaying-assassination-attempt/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-ravelo-220x180.jpg)](https://americanwirenews.com/high-profile-new-yorker-ditches-dem-party-for-trump-and-leftist-reaction-says-everything/)
 
@@ -155,26 +177,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jackson-harris-220x180.jpg)](https://americanwirenews.com/shes-not-black-janet-jackson-sends-left-into-frenzy-after-questioning-kamalas-race/)
 
 [‘She’s not black’: Janet Jackson sends left into frenzy after questioning Kamala’s race](https://americanwirenews.com/shes-not-black-janet-jackson-sends-left-into-frenzy-after-questioning-kamalas-race/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-walzfourmore-1200-x-628-220x180.jpg)](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
-
-[Tim Walz accidentally serves up new Trump ad on silver platter](https://americanwirenews.com/tim-walz-accidentally-serves-up-new-trump-ad-on-silver-platter/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-220x180.jpg)](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
-
-[‘Who’s next!?’ Biden gets confused, barks at his staff during presser with group of world leaders](https://americanwirenews.com/whos-next-biden-gets-confused-barks-at-his-staff-during-presser-with-group-of-world-leaders/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nsilver-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
-
-[Dem polling guru advises folks to make ‘contingency plans’ for Trump’s return](https://americanwirenews.com/dem-polling-guru-advises-folks-to-make-contingency-plans-for-trumps-return/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-macklemore-220x180.png)](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
-
-[‘So many Americans hate America’: Concertgoers in Seattle roar when rapper says, ‘F\*ck America!’](https://americanwirenews.com/so-many-americans-hate-america-concertgoers-in-seattle-roar-when-rapper-says-fck-america/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-carlson-ritchie-220x180.jpg)](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
-
-[Kid Rock gives Tucker a hilarious behind the scenes account of Trump’s ‘down-to-earth’ character](https://americanwirenews.com/kid-rock-gives-tucker-a-hilarious-behind-the-scenes-account-of-trumps-down-to-earth-character/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
