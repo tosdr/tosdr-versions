@@ -335,4 +335,4 @@ Zavřít menu
 
 [![Seznam.cz](https://o-seznam.cz/pravni-informace/wp-content/themes/seznam/assets/images/logo.svg)](https://o.seznam.cz/)
 
-Copyright © 1996–2024 Seznam.cz, a.s. [Nastavení personalizace](#)
+Copyright © 1996–2024 Seznam.cz, a.s.  [Nastavení personalizace](#)  [Odvolat souhlas](https://h.seznam.cz/html/odvolat-souhlas.html)
