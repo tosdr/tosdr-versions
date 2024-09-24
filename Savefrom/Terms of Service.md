@@ -185,7 +185,7 @@ SaveFrom does not bear any responsibility nor assumes any risks if by any reason
 * [‪Français](https://fr.savefrom.net/348/)
 * [हिन्दी‎](https://hi.savefrom.net/207/)
 * [Bahasa Indonesia‬](https://id.savefrom.net/247/)
-* [‪Italiano‬](https://it3.savefrom.net/)
+* [‪Italiano‬](https://it3.savefrom.net/1Kq/)
 * [日本語](https://ja.savefrom.net/189/)
 * [한국어](https://ko.savefrom.net/222/)
 * [Polski‎](https://pl.savefrom.net/173/)
