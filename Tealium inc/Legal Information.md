@@ -100,7 +100,7 @@ Press Release
 Privacy Notice
 ==============
 
-**EFFECTIVE OCTOBER 1, 2023**
+**EFFECTIVE September 1, 2024**
 
 **Privacy Policy (Notice)**
 ---------------------------
