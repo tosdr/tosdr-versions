@@ -11,11 +11,7 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [Committees](https://parliament.vic.gov.au/committees)
     * [Bills and legislation](https://parliament.vic.gov.au/parliamentary-activity/bills-and-legislation/)
     * [Sitting calendar](https://parliament.vic.gov.au/sittingcalendar)
-    
-    #### [Hansard](https://parliament.vic.gov.au/hansard) Chevron-right
-    
-    * [Search Hansard](https://hansard.parliament.vic.gov.au/isysadvsearch.html)
-    * [Browse Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
+    * [Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     
     #### [Resources](https://parliament.vic.gov.au/link/4e38f172ae854e1fe76eee60cfb9f2ee.aspx#resources) Chevron-right
     
@@ -36,6 +32,7 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     * [The inquiry process](https://parliament.vic.gov.au/get-involved/inquiry-process/)
     * [Make a submission](https://parliament.vic.gov.au/get-involved/submissions/)
     * [Attend a public hearing](https://parliament.vic.gov.au/get-involved/public-hearings/)
+    * [Committee & Inquiry Search](https://parliament.vic.gov.au/get-involved/committeeinquirysearch/)
     
     #### [Petitions](https://parliament.vic.gov.au/petitions) Chevron-right
     
@@ -96,17 +93,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
+        Committee finds FOI laws need an overhaul
+        
+        Next](https://parliament.vic.gov.au/news/society/foi-report)[Next
+        
         Short stay accommodation to be taxed and regulated
         
         Next](https://parliament.vic.gov.au/news/economy/short-stay-levy)[Next
         
         Creativity for a healthy future
         
-        Next](https://parliament.vic.gov.au/news/health/healthy-future)[Next
-        
-        Rate cap a big concern for councils
-        
-        Next](https://parliament.vic.gov.au/news/economy/traralgonlceic)
+        Next](https://parliament.vic.gov.au/news/health/healthy-future)
     
 * Visit Chevron-down
     
