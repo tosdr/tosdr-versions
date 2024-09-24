@@ -53,7 +53,7 @@
         * * [![COntact](/wp-content/uploads/2024/09/contact-icon.svg)Contact](https://truyo.com/contact/)
                 
 
-[Lets Connect](https://truyo.com/contact/)
+[Let's Connect](https://truyo.com/contact/)
 
 Privacy Policy
 ==============
