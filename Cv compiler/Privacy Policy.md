@@ -1795,6 +1795,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Entry-Level System Administrator](https://cvcompiler.com/entry-level-system-administrator-resume-examples)
 
+[Medical Social Worker](https://cvcompiler.com/medical-social-worker-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
