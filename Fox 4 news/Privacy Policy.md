@@ -406,29 +406,29 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Florida storm live updates: Watches expand as Potential Tropical Cyclone Nine expected to strengthen](https://www.fox4news.com/news/invest-97l-tropical-depression-storm-likely-form-week-system-tracks-gulf-mexico)
 
+ [![Fort Worth ISD superintendent’s contract under review](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1)
+
+ ![Fort Worth ISD superintendent’s contract under review](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/7395TZ-FWISD-SUPERINTENDENT-MEETING_00.00.01.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-isd-superintendent-contract-review)
+
+### [Fort Worth ISD superintendent’s contract under review](https://www.fox4news.com/news/fort-worth-isd-superintendent-contract-review)
+
+ [![Last full-size Kmart in US to close](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/04620D707E9349DF99D623092287D0D5.jpg?ve=1&tl=1)
+
+ ![Last full-size Kmart in US to close](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/04620D707E9349DF99D623092287D0D5.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/last-full-size-kmart-us-close)
+
+### [Last full-size Kmart in US to close](https://www.fox4news.com/news/last-full-size-kmart-us-close)
+
+ [![Most Hispanic Americans support abortion access, AP-NORC poll finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-538614862.jpg?ve=1&tl=1)
+
+ ![Most Hispanic Americans support abortion access, AP-NORC poll finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-538614862.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hispanic-americans-abortion-access-ap-norc-poll-2024)
+
+### [Most Hispanic Americans support abortion access, AP-NORC poll finds](https://www.fox4news.com/news/hispanic-americans-abortion-access-ap-norc-poll-2024)
+
  [![SMU student allegedly assaulted in dorm room, suspects wanted](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/smu-assault-suspects.jpg?ve=1&tl=1)
 
  ![SMU student allegedly assaulted in dorm room, suspects wanted](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/smu-assault-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/smu-dorm-room-assault)
 
 ### [SMU student allegedly assaulted in dorm room, suspects wanted](https://www.fox4news.com/news/smu-dorm-room-assault)
-
- [![Mesquite man killed while walking to grocery store remembered as loving family man](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/mesquite.jpg?ve=1&tl=1)
-
- ![Mesquite man killed while walking to grocery store remembered as loving family man](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/mesquite.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-alan-belcher-motley-drive)
-
-### [Mesquite man killed while walking to grocery store remembered as loving family man](https://www.fox4news.com/news/mesquite-alan-belcher-motley-drive)
-
- [![Fort Worth police investigating deadly officer-involved shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/download-40.png?ve=1&tl=1)
-
- ![Fort Worth police investigating deadly officer-involved shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/download-40.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-shooting-selkirk-drive)
-
-### [Fort Worth police investigating deadly officer-involved shooting](https://www.fox4news.com/news/fort-worth-police-shooting-selkirk-drive)
-
- [![Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/william-martin-today.jpg?ve=1&tl=1)
-
- ![Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/william-martin-today.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officer-william-martin-affidavit-shooting)
-
-### [Fort Worth police officer William Martin, affidavit give different descriptions of off-duty shooting](https://www.fox4news.com/news/fort-worth-police-officer-william-martin-affidavit-shooting)
 
 ###### [News](https://www.fox4news.com/news)
 
