@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/gmo-op-de-helling-in-europa/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/kalfjes-doen-niet-aan-zelf-suggestie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
