@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/syncronisation/syncronisation-03.jpg?itok=Q4Y0HebU)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/syncronisation)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/mrd-bajic/texts-001.jpg?itok=2zESp5Ab)](http://seecult.org/galerija/galerija-umetnika/mrdan-bajic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mandic.jpg?itok=uAwbqmtI)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/poslednja-pobuna/mkm-pank-canejpg.?itok=sSqimCCD)](http://seecult.org/galerija/foto-galerija/foto-arhiva/poslednja-pobuna)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,16 +342,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Početak 17. LIFFE u znaku Paskaljevića](http://seecult.org/vest/pocetak-17-liffe-u-znaku-paskaljevica)
+* [Nevidljive katastrofe](http://seecult.org/vest/nevidljive-katastrofe)
+* [Trio Klavis otvara 11. Belgrade SAXperience](http://seecult.org/vest/trio-klavis-otvara-11-belgrade-saxperience)
+* [Nova predstava Hartefakta na festivalima u regionu](http://seecult.org/vest/nova-predstava-hartefakta-na-festivalima-u-regionu)
+* [Jedinstveni Iljovski u Čolakoviću](http://seecult.org/vest/jedinstveni-iljovski-u-colakovicu)
 * [Verujte u nas](http://seecult.org/vest/verujte-u-nas)
 * [Megdan u bioskopima](http://seecult.org/vest/megdan-u-bioskopima)
 * [Sofija](http://seecult.org/vest/sofija)
 * [Nagrada Milan Mladenović bendu Nemeček](http://seecult.org/vest/nagrada-milan-mladenovic-bendu-nemecek)
 * [Otvoren 32. Memorijal Nadežde Petrović - Memorijal Sonja S, dodeljene nagrade](http://seecult.org/vest/otvoren-32-memorijal-nadezde-petrovic-memorijal-sonja-s-dodeljene-nagrade)
-* [Digitalizovano Krunisanje kralja Petra I](http://seecult.org/vest/digitalizovano-krunisanje-kralja-petra-i)
-* [Retrospektiva povodom veka od rođenja Picelja](http://seecult.org/vest/retrospektiva-povodom-veka-od-rodenja-picelja)
-* [60\. Oktobarski salon – Šta ostaje?](http://seecult.org/vest/60-oktobarski-salon-sta-ostaje)
-* [Preminula Radmila Živković](http://seecult.org/vest/preminula-radmila-zivkovic)
-* [Serđo i Pjetro Kastelito gosti Italijansko-srpskog festivala](http://seecult.org/vest/serdo-i-pjetro-kastelito-gosti-italijansko-srpskog-festivala)
 
 * [Konkursi](#tab1_1)
 
