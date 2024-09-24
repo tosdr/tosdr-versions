@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)             
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)           
 
              
 
@@ -66,7 +66,7 @@
     * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
-[Log in](https://shopify.com/63037538544/account?locale=en&country=IN)
+[Log in](https://shopify.com/63037538544/account?locale=en)
 
 [![Aadvik foods logo](//aadvikfoods.com/cdn/shop/files/aadvik_foods_logo_120x.jpg?v=1645597893)](https://aadvikfoods.com/)
 ==========================================================================================================================
@@ -117,7 +117,7 @@
     * [Corporate Gifting](https://aadvikfoods.com/pages/gifting)
     
 
- Search [Log in](https://shopify.com/63037538544/account?locale=en&country=IN) [Cart](https://aadvikfoods.com/cart)
+ Search [Log in](https://shopify.com/63037538544/account?locale=en) [Cart](https://aadvikfoods.com/cart)
 
 Item added to your cart
 -----------------------
