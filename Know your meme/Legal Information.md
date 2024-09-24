@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/002/yap_dollar.jpg "Who Is 'Yap Dollar?' The Talking Five Dollar Bill Who Says 'Xiaohongshu' In Chinese Explained")
+* [![Cursed Image Of A Cougar Smoking Has Been A Viral Reaction Meme On Reddit And X Since Early 2023](https://i.kym-cdn.com/featured_items/icons/wide/000/026/009/Cursed_cougar_smoking_cover.jpg "Cursed Image Of A Cougar Smoking Has Been A Viral Reaction Meme On Reddit And X Since Early 2023")
     
-    Who Is 'Yap Dollar?' The Talking Five Dollar Bill Who Says 'Xiaohongshu' In Chinese Explained](https://knowyourmeme.com/editorials/guides/who-is-yap-dollar-the-talking-five-dollar-bill-who-says-xiaohongshu-in-chinese-explained)
+    Cursed Image Of A Cougar Smoking Has Been A Viral Reaction Meme On Reddit And X Since Early 2023](https://knowyourmeme.com/memes/cigar-cougar-cursed-panther-smoking)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/001/cnksz6cqgiz81.jpg "Gen Alpha Discord User Fears WinRAR Because Of Sonic.exe, Millennials And Gen Z Twitter Users Feel Closer To Death")
+* [![Ironmouse YouTube Channel Shutdown Becomes Viral Topic On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/008/ironmouse_youtube_shutdown_cover.jpg "Ironmouse YouTube Channel Shutdown Becomes Viral Topic On Social Media")
     
-    Gen Alpha Discord User Fears WinRAR Because Of Sonic.exe, Millennials And Gen Z Twitter Users Feel Closer To Death](https://knowyourmeme.com/news/gen-alpha-discord-user-fears-winrar-because-of-sonicexe-millennials-and-gen-z-twitter-users-feel-closer-to-death)
+    Ironmouse YouTube Channel Shutdown Becomes Viral Topic On Social Media](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown)
     
-* [![There's Been Some Seething Over Both Inclusion And Lack Of Customization Options In The New 'Dragon Age' Game](https://i.kym-cdn.com/featured_items/icons/wide/000/026/000/cover6.jpg "There's Been Some Seething Over Both Inclusion And Lack Of Customization Options In The New 'Dragon Age' Game")
+* [![Russian Actress Lera Abova Is Being Attacked Online After Being Cast As 'Nico Robin' For The Second Season Of Netflix's One Piece Live Action Series](https://i.kym-cdn.com/featured_items/icons/wide/000/026/007/Nico_Robin_controversy_cover.jpg "Russian Actress Lera Abova Is Being Attacked Online After Being Cast As 'Nico Robin' For The Second Season Of Netflix's One Piece Live Action Series")
     
-    There's Been Some Seething Over Both Inclusion And Lack Of Customization Options In The New 'Dragon Age' Game](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy)
+    Russian Actress Lera Abova Is Being Attacked Online After Being Cast As 'Nico Robin' For The Second Season Of Netflix's One Piece Live Action Series](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/999/esnupi.jpg "Who Is 'Esnupi'? The Spanish Meme About Snoopy From 'Peanuts' Explained")
+* [![Oh Shit, I Got a Fortune Cookie! ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/006/i_got_a_fortune_cookie.jpg "Fortune Cookie Skit Amasses Rotoscoped Versions On TikTok, Showing Characters Who'd Eat The Whole Thing Too")
     
-    Who Is 'Esnupi'? The Spanish Meme About Snoopy From 'Peanuts' Explained](https://knowyourmeme.com/editorials/guides/who-is-esnupi-the-spanish-meme-about-snoopy-from-peanuts-explained)
+    Fortune Cookie Skit Amasses Rotoscoped Versions On TikTok, Showing Characters Who'd Eat The Whole Thing Too](https://knowyourmeme.com/memes/oh-shit-i-got-a-fortune-cookie)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/998/deep_fried_memes_banner.jpg "What Is A 'Deep Fried Meme'? The Common Visual Style Of Modern Memes Explained")
+* [![The Spanish Inquisition](https://i.kym-cdn.com/featured_items/icons/wide/000/026/005/DFHg6ZsVoAAo7Av.jpg "On This Day Monty Python's Popular 'Nobody Expects The Spanish Inquisition' Scene Aired On TV")
     
-    What Is A 'Deep Fried Meme'? The Common Visual Style Of Modern Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-a-deep-fried-meme-the-common-visual-style-of-modern-memes-explained)
+    On This Day Monty Python's Popular 'Nobody Expects The Spanish Inquisition' Scene Aired On TV](https://knowyourmeme.com/memes/nobody-expects-the-spanish-inquisition)
     
 
 ##### Also Trending:
 
-[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [DA: Veilguard Customization Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy "DA: Veilguard Customization Controversy") [X-Chan "Efficiency" Comic](https://knowyourmeme.com/memes/elon-musk-and-x-chan-efficiency-comic-by-sks-cartoon "X-Chan "Efficiency" Comic")
+[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [DA: Veilguard Customization Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy "DA: Veilguard Customization Controversy") [Lovely Lady RPG](https://knowyourmeme.com/memes/subcultures/lovely-lady-rpg "Lovely Lady RPG") [X-Chan "Efficiency" Comic](https://knowyourmeme.com/memes/elon-musk-and-x-chan-efficiency-comic-by-sks-cartoon "X-Chan "Efficiency" Comic") [Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Cards Against Humanity Suing Elon Musk](https://knowyourmeme.com/memes/events/cards-against-humanity-suing-elon-musk "Cards Against Humanity Suing Elon Musk") [Poor Bastard Exploded](https://knowyourmeme.com/memes/poor-bastard-exploded "Poor Bastard Exploded") [Ironmouse YouTube Channel Shutdown](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown "Ironmouse YouTube Channel Shutdown")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### 'lo! You must login or signup first!
+### Greetings! You must login or signup first!
 
 |     |     |
 | --- | --- |
