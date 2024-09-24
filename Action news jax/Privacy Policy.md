@@ -4,7 +4,7 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[73°
+[88°
 
 ![Fair](/pf/resources/images/weather/status-icons/34.png?d=859)](https://www.actionnewsjax.com/weather/)
 
@@ -421,11 +421,7 @@ We may share personal information about you that we collect or receive with the 
     
     If you have any questions or comments about this Privacy Statement, or if you would like us to exercise your privacy rights, update information we have about you or your preferences, please contact us by email at [privacy@cmg.com](mailto:privacy@cmg.com).
 
-[](https://www.actionnewsjax.com/station/contest-watch-action-news-jax-weeknights-6-pm-win-500-gate-gas-card/NQROJPQHSNCJHKB6UKWMTHWPDA/)
-
 [](https://www.actionnewsjax.com/mobile-apps/)
-
-[](https://www.actionnewsjax.com/sports/nascar/contest-enter-win-tickets-coke-zero-sugar-400/LQWQ5PWNZVFB5LQB2XT64DANEM/)
 
 [](https://www.actionnewsjax.com/getapet/)
 
