@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
+    *  [![](https://media.king5.com/assets/KING/images/221a7383-14e0-4776-b9fe-bd8ce1a1405f/20240924T062159/221a7383-14e0-4776-b9fe-bd8ce1a1405f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/221a7383-14e0-4776-b9fe-bd8ce1a1405f/20240924T062159/221a7383-14e0-4776-b9fe-bd8ce1a1405f_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
         
-        #### [Boeing presents its 'best and final offer' in attempt to end machinists strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
+        #### [Machinists union refuses to vote on Boeing's 'best and final' contract offer](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
         
-    *  [![](https://media.king5.com/assets/KING/images/73998a34-c867-4842-a8f3-e6d30d394b8c/20240924T052950/73998a34-c867-4842-a8f3-e6d30d394b8c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73998a34-c867-4842-a8f3-e6d30d394b8c/20240924T052950/73998a34-c867-4842-a8f3-e6d30d394b8c_360x203.jpg)](https://www.king5.com/article/news/politics/elections/west-pierce-fire-and-rescue-proposing-fire-benefit-charge-november-ballot/281-829d9f51-0f66-4a23-898b-a6d822aba2d4)
+    *  [![](https://media.king5.com/assets/KING/images/d5b2235b-581e-42b9-8b64-28f108942839/20240920T173417/d5b2235b-581e-42b9-8b64-28f108942839_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5b2235b-581e-42b9-8b64-28f108942839/20240920T173417/d5b2235b-581e-42b9-8b64-28f108942839_360x203.jpg)](https://www.king5.com/article/sports/wnba-playoffs-seattle-storm-schedule-how-to-watch/281-a182664a-2f90-42a1-be9a-fb7cb9d43bdb)
         
-        #### [West Pierce Fire and Rescue is proposing a fire benefit charge on November Ballot](https://www.king5.com/article/news/politics/elections/west-pierce-fire-and-rescue-proposing-fire-benefit-charge-november-ballot/281-829d9f51-0f66-4a23-898b-a6d822aba2d4)
+        #### [WNBA Playoffs: Seattle Storm schedule, opponent, bracket, how to watch](https://www.king5.com/article/sports/wnba-playoffs-seattle-storm-schedule-how-to-watch/281-a182664a-2f90-42a1-be9a-fb7cb9d43bdb)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fc6f9089-0d95-46be-86ff-e5ac7a0d704e/20240924T011030/fc6f9089-0d95-46be-86ff-e5ac7a0d704e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fc6f9089-0d95-46be-86ff-e5ac7a0d704e/20240924T011030/fc6f9089-0d95-46be-86ff-e5ac7a0d704e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86/20240924T120141/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86/20240924T120141/9a6ad13c-ab1e-4d0c-b38b-8e29aa112c86_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-62°
+60°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
