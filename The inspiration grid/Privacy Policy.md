@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/illustration-andrius-banelis-feature.jpg)
+
+[](https://theinspirationgrid.com/clever-editorial-illustrations-by-andrius-banelis/)
+
+### Clever Editorial Illustrations by Andrius Banelis
+
+![](https://inspgr.id/app/uploads/2024/09/photography-aleksei-boiko-24-feature.jpg)
+
+[](https://theinspirationgrid.com/the-art-of-growing-food-photos-by-aleksei-boiko/)
+
+### The Art of Growing Food: Photos by Aleksei Boiko
+
 ![](https://inspgr.id/app/uploads/2024/09/art-alejandro-monge-feature.jpg)
 
 [](https://theinspirationgrid.com/incredible-sculptural-portraits-by-alejandro-monge/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/the-angle-a-multi-artist-visual-collaboration/)
 
 ### The Angle: A Multi-Artist Visual Collaboration
-
-![](https://inspgr.id/app/uploads/2024/09/architecture-caymus-suisun-feature.jpg)
-
-[](https://theinspirationgrid.com/caymus-suisun-winery-by-bohlin-cywinski-jackson/)
-
-### Caymus-Suisun Winery by Bohlin Cywinski Jackson
-
-![](https://inspgr.id/app/uploads/2024/09/illustration-birgit-palma-feature.jpg)
-
-[](https://theinspirationgrid.com/editorial-illustrations-by-birgit-palma-daniel-triendl/)
-
-### Editorial Illustrations by Birgit Palma & Daniel Triendl
 
 Awesome products for creatives
 ------------------------------
