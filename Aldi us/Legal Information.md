@@ -943,7 +943,6 @@ About Us
 
 * [About ALDI](https://www.aldi.us/about-us/about-aldi/ "From our exclusive brands to our weekly rotating selection of ALDI Finds to our great savings, discover all the reasons why customers love shopping at ALDI. ")
 * [California Transparency in Supply Chains Act](https://corporate.aldi.us/corporate-sustainability/supply-chain/california-transparency-in-supply-chains-act/)
-* [Grand Openings](https://stores.aldi.us/grand-openings)
 * [Email Sign Up](https://www.aldi.us/about-us/email-sign-up/ "Get the latest offers and exclusive news from ALDI by subscribing to our email newsletter. Sign up for our newsletter and start saving today!")
 * [CA Product Disclosure](https://corporate.aldi.us/corporate-sustainability/supply-chain/product-disclosures/ca-product-disclosure/)
 
