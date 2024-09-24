@@ -715,4 +715,4 @@ Generali
 
 [Contatti](https://www.neodatagroup.com/contattaci)[FAQs](https://www.neodatagroup.com/faq)[Blog](https://blog.blendee.com/)[Condizioni Generali di Servizio](https://cdn.blendee.com/blendee/IT-Blendee-Condizioni-Generali-di-Servizio.pdf)[Cookie Policy](https://cdn.blendee.com/blendee/IT-Blendee-Cookies-Policy.pdf)[Privacy Policy](https://cdn.blendee.com/blendee/IT-Blendee-Privacy-Policy.pdf)[Service Privacy & Cookie Policy](https://www.neodatagroup.com/services-privacy-policy)
 
-©  anno Blendee S.r.l. | P.iva 06016140870 | Capitale Sociale 13.720,00 € i.v. | Blendee: Marketing Operating System
+. Blendee S.r.l. | P.iva 06016140870 | Capitale Sociale 13.720,00 € i.v. | Blendee: Marketing Operating System
