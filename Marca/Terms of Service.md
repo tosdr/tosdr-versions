@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvHSqQoAAvUAAABhjEQ)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvIj2AoAAvYAAABgauM)
 
 * Es noticia:
 * [Betis - Mallorca](https://www.marca.com/futbol/laliga-ea-sports/betis-mallorca/2024/09/23/01_0101_20240923_185_181-directo.html)
