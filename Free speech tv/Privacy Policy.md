@@ -325,16 +325,10 @@ This Privacy Policy is effective as of March 1, 2024.
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20173%20173'%3E%3C/svg%3E)
-
-![](https://freespeech.org/wp-content/uploads/2023/06/Untitled-design-e1726875899236-150x150.png)](https://freespeech.org/store/?utm_source=popup.tote)
-
-**Claim Your Free Tote  
-And Help Amplify Independent Coverage of the 2024 Election  
-[Donate Now!](https://freespeech.org/store/?utm_source=popup.tote)**
+**Did you miss New Member Monday yesterday? Don’t worry! This monthly match isn’t going anywhere…yet. [Find out what it’s all about.](https://freespeech.org/donate-all/?utm_source=popup)****[](https://freespeech.org/store/?utm_source=popup.tote)**
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20532%2080'%3E%3C/svg%3E)
 
-![](https://freespeech.org/wp-content/uploads/2023/06/With-FSTV-5-1024x154.jpg)](https://freespeech.org/store/?utm_source=popup.tote)
+![](https://freespeech.org/wp-content/uploads/2023/06/With-FSTV-5-1024x154.jpg)](https://freespeech.org/donate-all/?utm_source=popup)
 
 ×
