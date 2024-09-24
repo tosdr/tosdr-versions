@@ -1,4 +1,4 @@
-[![](data:image/svg+xml;nitro-empty-id=MTQ2MToxNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjk3IDExMSIgd2lkdGg9IjI5NyIgaGVpZ2h0PSIxMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.autoaccidentteam.com/)
+[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
 
 [877-508-8778](tel:877-508-8778)
 
@@ -28,6 +28,7 @@ Search
     * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
     * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
+    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
     * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
     * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
@@ -54,6 +55,7 @@ Search
     * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
     * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
+    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
     * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
     * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
@@ -230,7 +232,7 @@ Unit #2001
 Brewster, NY 10509  
 [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
 
-[![](data:image/svg+xml;nitro-empty-id=MTkzMjoxNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjk3IDExMSIgd2lkdGg9IjI5NyIgaGVpZ2h0PSIxMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.autoaccidentteam.com/)
+[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
 
 * [888.303.2581](tel:888.303.2581)
 * [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
@@ -245,6 +247,7 @@ Copyright © 2024 Auto Accident Team | All rights reserved.
 * [Terms of Use](https://www.autoaccidentteam.com/terms-of-use/)
 * [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
 * [Attorneys Near You](https://local.autoaccidentteam.com/)
+* [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
 
 * [Sponsors](https://www.autoaccidentteam.com/sponsors/)
 * [Privacy Policy](https://www.autoaccidentteam.com/privacy-policy/)
@@ -252,6 +255,7 @@ Copyright © 2024 Auto Accident Team | All rights reserved.
 * [Terms of Use](https://www.autoaccidentteam.com/terms-of-use/)
 * [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
 * [Attorneys Near You](https://local.autoaccidentteam.com/)
+* [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
 
 Auto Accident Team is not a law firm nor a lawyer referral service, and it is not providing legal advice. We are a free service that compiles information for individuals seeking legal relief for auto accidents. Auto Accident Team does not endorse or recommend the law firms that participate in our network.
 
@@ -259,7 +263,7 @@ Advertising paid for by participating attorneys in a joint advertising program, 
 
 [FILE Your Claim TOday](https://autoaccidentteam.com/contact/)
 
-[![](data:image/svg+xml;nitro-empty-id=MjA0MToxNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjk3IDExMSIgd2lkdGg9IjI5NyIgaGVpZ2h0PSIxMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.autoaccidentteam.com/)
+[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
 
 * [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
     * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
@@ -283,6 +287,7 @@ Advertising paid for by participating attorneys in a joint advertising program, 
     * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
     * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
+    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
     * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
     * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
@@ -309,6 +314,7 @@ Advertising paid for by participating attorneys in a joint advertising program, 
     * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
     * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
+    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
     * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
     * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
