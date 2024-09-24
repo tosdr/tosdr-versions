@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Ian Haworth Kamala Harris Has the Secret Service. We Don’t.](https://patriotpost.us/opinion/110516-kamala-harris-has-the-secret-service-we-dont-2024-09-24)
 *      [Mark Alexander The Left’s Latest ‘Gun Violence’ Cover-Up](https://patriotpost.us/alexander/110457-the-lefts-latest-gun-violence-cover-up-2024-09-24)
 *      [Christine Flowers After Would-Be Assassin Was Arrested, Pundits Said All the Right Things… At First](https://patriotpost.us/opinion/110498-after-would-be-assassin-was-arrested-pundits-said-all-the-right-things-dot-dot-dot-at-first-2024-09-24)
 *      [Salena Zito New Poll Shows Voters Moving Right on Tax Cuts](https://patriotpost.us/opinion/110497-new-poll-shows-voters-moving-right-on-tax-cuts-2024-09-24)
@@ -227,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
