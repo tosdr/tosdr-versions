@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your support is super-dooper performance, helpful, friendly, competent. This does not happen to often in daily life.
+YOU are brilliant.
 
-Alex Kniess
+Wolfgang Kannenberg
