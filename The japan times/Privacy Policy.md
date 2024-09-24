@@ -467,25 +467,29 @@ Revised June 1, 2022
 
   [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
 
+[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+
+  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+
+[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+
+  [![Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423171.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.")](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+
+[Death toll in Ishikawa rains hits seven as search for missing continues](https://www.japantimes.co.jp/news/2024/09/23/japan/heavy-rain-noto-peninsula/ "Death toll in Ishikawa rains hits seven as search for missing continues")
+
+  [![Rescue personnel search for missing people in debris washed away from flooding along the Tsukada River following heavy rain in Wajima, Ishikawa Prefecture, on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Rescue personnel search for missing people in debris washed away from flooding along the Tsukada River following heavy rain in Wajima, Ishikawa Prefecture, on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/heavy-rain-noto-peninsula/ "Death toll in Ishikawa rains hits seven as search for missing continues")
+
 [Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
   [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
-[What does America stand for? The world no longer knows.](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
+[People of all ages and sizes scale new heights amid climbing boom in Japan](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
 
-  [![U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422890.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.S. Ambassador to Hungary David Pressman attends the annual Pride march in Budapest on June 22. ")](https://www.japantimes.co.jp/commentary/2024/09/20/bbg-what-does-america-stand-for/ "What does America stand for? The world no longer knows.")
+  [![A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423455.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.")](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
 
-['Quad' cements ties with coast guard patrols amid China concerns](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
+[Shanshan study spotlights science linking warming to extreme weather](https://www.japantimes.co.jp/environment/2024/09/23/climate-change/climate-change-weather-attribution/ "Shanshan study spotlights science linking warming to extreme weather")
 
-  [![A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423095.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A China Coast Guard ship (left) collides with the Philippine Coast Guard ship BRP Teresa Magbanua near the Sabina Shoal, in disputed waters of the South China Sea, on Aug. 31.  ")](https://www.japantimes.co.jp/news/2024/09/22/asia-pacific/politics/quad-summit-biden-kishida-china/ "'Quad' cements ties with coast guard patrols amid China concerns")
-
-[Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
-
-  [![A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/423154.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A stranded car is seen on a mud-covered road following heavy rain in the city of Wajima, Ishikawa Prefecture, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/22/japan/ishikawa-rain-second-day/ "Six dead and six more missing after 'unprecedented' rains in quake-hit Ishikawa")
-
-[Saying good riddance to what bugs me about a Japanese summer](https://www.japantimes.co.jp/community/2024/09/23/voices/allen-community-summer-insects-fall-annoying/ "Saying good riddance to what bugs me about a Japanese summer")
-
-  [![Time is nearly up for the hordes of insects that are thriving more than ever in Japan's increasingly boiling summer.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/421989.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Time is nearly up for the hordes of insects that are thriving more than ever in Japan's increasingly boiling summer.")](https://www.japantimes.co.jp/community/2024/09/23/voices/allen-community-summer-insects-fall-annoying/ "Saying good riddance to what bugs me about a Japanese summer")
+  [![A person rides a scooter underneath a fallen pole following Typhoon Shanshan in Miyazaki on Aug. 29 in this screengrab taken from a social media video.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/422753.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A person rides a scooter underneath a fallen pole following Typhoon Shanshan in Miyazaki on Aug. 29 in this screengrab taken from a social media video.")](https://www.japantimes.co.jp/environment/2024/09/23/climate-change/climate-change-weather-attribution/ "Shanshan study spotlights science linking warming to extreme weather")
 
 [Does Shinjiro Koizumi have what it takes to lead Japan?](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/koizumi-buzz/ "Does Shinjiro Koizumi have what it takes to lead Japan?")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [For Toyota and its rivals, WEC becomes important arena amid major industry shift](https://www.japantimes.co.jp/sports/2024/09/20/more-sports/world-endurance-racing-momentum/ "For Toyota and its rivals, WEC becomes important arena amid major industry shift")
 
   [![Toyota Gazoo Racing fans cheer on the team at the start of the 6 Hours of Fuji race on Sunday at Fuji Speedway in Oyama, Shizuoka Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422901.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Gazoo Racing fans cheer on the team at the start of the 6 Hours of Fuji race on Sunday at Fuji Speedway in Oyama, Shizuoka Prefecture.")](https://www.japantimes.co.jp/sports/2024/09/20/more-sports/world-endurance-racing-momentum/ "For Toyota and its rivals, WEC becomes important arena amid major industry shift")
-
-[Marina Tsukada lets local lives shape her work](https://www.japantimes.co.jp/culture/2024/09/20/film/marina-tsukada-nagano-prefecture/ "Marina Tsukada lets local lives shape her work")
-
-  [![Marina Tsukada got the idea for her anthology “Mitsuki, Sekai” from her acquaintance with the two young lead actors, whom she first met at a video workshop she conducted in Nagano Prefecture. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422676.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Marina Tsukada got the idea for her anthology “Mitsuki, Sekai” from her acquaintance with the two young lead actors, whom she first met at a video workshop she conducted in Nagano Prefecture. ")](https://www.japantimes.co.jp/culture/2024/09/20/film/marina-tsukada-nagano-prefecture/ "Marina Tsukada lets local lives shape her work")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,23 +564,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Rice inflation to persist despite harvest, as prices rise over 20% on year](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-rice-inflation/ "Rice inflation to persist despite harvest, as prices rise over 20% on year")
+[Pioneering foreign female attorney stresses pragmatism within Japan Inc.](https://www.japantimes.co.jp/business/2024/09/24/companies/catherine-oconnell-profile/ "Pioneering foreign female attorney stresses pragmatism within Japan Inc.")
 
 28 mins ago
 
-[Tsunami advisory lifted after 50 cm wave reaches Hachijojima](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Tsunami advisory lifted after 50 cm wave reaches Hachijojima")
+[Number of specified skilled visa holders in Japan surpasses 250,000](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-foreign-worker-figures/ "Number of specified skilled visa holders in Japan surpasses 250,000")
 
-55 mins ago
+33 mins ago
 
-[India extends unprecedented invite to Myanmar's anti-junta forces, sources say](https://www.japantimes.co.jp/news/2024/09/24/asia-pacific/india-myanmar-anti-junta-forces/ "India extends unprecedented invite to Myanmar's anti-junta forces, sources say")
-
-59 mins ago
-
-[Israeli economy struggles under weight of Gaza war](https://www.japantimes.co.jp/news/2024/09/24/world/israeli-economy-gaza-war/ "Israeli economy struggles under weight of Gaza war")
+[Bain-backed chipmaker Kioxia scraps October IPO plan, sources say](https://www.japantimes.co.jp/business/2024/09/24/companies/kioxia-scraps-ipo/ "Bain-backed chipmaker Kioxia scraps October IPO plan, sources say")
 
 1 hours ago
 
-[China unleashes stimulus blitz in push to hit annual growth goal](https://www.japantimes.co.jp/business/2024/09/24/economy/china-stimulus-annual-growth-goal/ "China unleashes stimulus blitz in push to hit annual growth goal")
+[Moscow and Beijing unlikely to stop testing Tokyo's limits](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
+
+1 hours ago
+
+[BOJ chief signals no rush in raising rates further](https://www.japantimes.co.jp/business/2024/09/24/economy/boj-ueda-speech-no-rate-hike/ "BOJ chief signals no rush in raising rates further")
 
 1 hours ago
 
