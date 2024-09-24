@@ -13,14 +13,6 @@ Get started
 
 Get started
 
-#### Table of contents
-
-1\. Introduction
-
-1\. Introduction
-
-1\. Introduction
-
 1\. Introduction
 ----------------
 
@@ -345,25 +337,25 @@ Experience the easiest way to track group expenses, 100% free!
 
 [Get started](https://www.tricount.com/discover)
 
-![](https://framerusercontent.com/images/vuyWvLFVCF8uru7S5MpFiNXcYo.png)
+![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
 Download Tricount now
 ---------------------
 
 Experience the easiest way to track group expenses, 100% free!
 
-Get started
+[Get started](https://www.tricount.com/discover)
 
-![](https://framerusercontent.com/images/vuyWvLFVCF8uru7S5MpFiNXcYo.png)
+![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
 Download Tricount now
 ---------------------
 
 Experience the easiest way to track group expenses, 100% free!
 
-Get started
+[Get started](https://www.tricount.com/discover)
 
-![](https://framerusercontent.com/images/vuyWvLFVCF8uru7S5MpFiNXcYo.png)
+![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
 [![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/)
 
