@@ -18,95 +18,15 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_Jogo_Natal_Solidario_58fb55e788.jpg)
+   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
 
-Alagoas
+Maceió
 
-PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar](https://www.tnh1.com.br/noticia/nid/pscom-lanca-15a-edicao-do-natal-solidario-com-jogo-beneficente-entre-famosos-veja-como-participar/ "PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ")   [![Vídeo: homem invade estabelecimento comercial e furta televisão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_furto-televisao-estabelecimento-farol_5576e6d72c.jpg)
-
-No Farol
-
-Vídeo: homem invade estabelecimento comercial e furta televisão](https://www.tnh1.com.br/noticia/nid/video-homem-invade-estabelecimento-comercial-e-furta-televisao/ "Vídeo: homem invade estabelecimento comercial e furta televisão")   [![Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_furto-motocicleta-jardim-royal_74f84c2cda.jpg)
-
-Dono estava na casa
-
-Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/video-homem-furta-moto-que-estava-parada-na-frente-de-residencia-no-cidade-universitaria/ "Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária")   [![Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/f/csm_central-de-flagrantes-foto-pc_e5fbf5d58e.jpeg)
-
-Na Garça Torta
-
-Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM](https://www.tnh1.com.br/noticia/nid/irmaos-sao-presos-por-roubo-de-celulares-apos-nao-saberem-dizer-as-senhas-em-abordagem-da-pm/ "Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM")   [![Vigilância apreende 250 kg de alimentos fora da validade no Benedito Bentes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/3/csm_Vigilancia_apreende_250_kg_de_alimentos_fora_da_validade_no_Benedito_Bentes_-_foto_Divulgacao_VISA_92f197d53a.jpeg)
-
-fiscalização
-
-Vigilância apreende 250 kg de alimentos fora da validade no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/vigilancia-apreende-250-kg-de-alimentos-fora-da-validade-no-benedito-bentes/ "Vigilância apreende 250 kg de alimentos fora da validade no Benedito Bentes")   [![Vídeo mostra van parcialmente submersa após cair de ponte em Riacho Doce](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/5/csm_Acidente_AL_101_Norte_-_foto_Reproducao_2_19ae625f55.jpg)
-
-al-101 norte
-
-Vídeo mostra van parcialmente submersa após cair de ponte em Riacho Doce](https://www.tnh1.com.br/noticia/nid/video-mostra-van-parcialmente-submersa-apos-cair-de-ponte-em-riacho-doce/ "Vídeo mostra van parcialmente submersa após cair de ponte em Riacho Doce")
+Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Paulo Dantas recebe homenagem do setor leiteiro alagoano](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/8/csm_paulo-dantas-recebe-homenagem-do-setor-leiteiro-alagoano_6b8f9841db.jpg)
-
-Alagoas
-
-Paulo Dantas recebe homenagem do setor leiteiro alagoano](https://www.tnh1.com.br/noticia/nid/paulo-dantas-recebe-homenagem-do-setor-leiteiro-alagoano/ "Paulo Dantas recebe homenagem do setor leiteiro alagoano")   [![PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/0/csm_Jogo_Natal_Solidario_58fb55e788.jpg)
-
-Alagoas
-
-PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar](https://www.tnh1.com.br/noticia/nid/pscom-lanca-15a-edicao-do-natal-solidario-com-jogo-beneficente-entre-famosos-veja-como-participar/ "PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ")   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/3/csm_previsao-tempo-alagoas-semarh_74d01374da.png)
-
-Meteorologia
-
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-24/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (24)")   [![Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/1/csm_Dinheiro_-_Foto_Jose_Cruz_-_Agencia_Brasil_5_1bb835872c.jpg)
-
-Educação
-
-Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-divulga-passo-a-passo-do-pagamento-dos-precatorios-do-fundef/ "Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef")   [![Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_sesau-segue-monitorando-casos-de-febre-do-oropouche-em-alagoas_6b2907aac8.jpg)
-
-sob suspeita
-
-Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas](https://www.tnh1.com.br/noticia/nid/sesau-investiga-morte-possivelmente-causada-pela-febre-oropouche-em-alagoas/ "Sesau investiga morte possivelmente causada pela febre oropouche, em Alagoas")   [![Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_real_moeda_dinheiro_Agencia_Brasil_df556bc249.jpg)
-
-Neste mês
-
-Governador Paulo Dantas anuncia datas para pagamento do Fundef](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-anuncia-datas-para-pagamento-do-fundef/ "Governador Paulo Dantas anuncia datas para pagamento do Fundef")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Sequestro e assassinato de amigos em Rio Largo podem ter sido provocados por concorrência no tráfico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/b/csm_corpos_rio_largo_-_foto_reproducao_20d2fe7d81.jpg)
-
-Relação com drogas
-
-Sequestro e assassinato de amigos em Rio Largo podem ter sido provocados por concorrência no tráfico](https://www.tnh1.com.br/noticia/nid/sequestro-e-assassinato-de-amigos-em-rio-largo-podem-ter-sido-provocados-por-concorrencia-no-trafico/ "Sequestro e assassinato de amigos em Rio Largo podem ter sido provocados por concorrência no tráfico")   [![Vídeo: homem invade estabelecimento comercial e furta televisão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_furto-televisao-estabelecimento-farol_5576e6d72c.jpg)
-
-No Farol
-
-Vídeo: homem invade estabelecimento comercial e furta televisão](https://www.tnh1.com.br/noticia/nid/video-homem-invade-estabelecimento-comercial-e-furta-televisao/ "Vídeo: homem invade estabelecimento comercial e furta televisão")   [![Câmera flagra furto em farmácia de manipulação no Sertão de AL; dois são presos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/9/csm_furto_farmacia_santana_do_ipanema_-_foto_reproducao_105a9905d9.png)
-
-Assista
-
-Câmera flagra furto em farmácia de manipulação no Sertão de AL; dois são presos](https://www.tnh1.com.br/noticia/nid/camera-flagra-furto-em-farmacia-de-manipulacao-no-sertao-de-al-dois-sao-presos/ "Câmera flagra furto em farmácia de manipulação no Sertão de AL; dois são presos")   [![Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_furto-motocicleta-jardim-royal_74f84c2cda.jpg)
-
-Dono estava na casa
-
-Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/video-homem-furta-moto-que-estava-parada-na-frente-de-residencia-no-cidade-universitaria/ "Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária")   [![Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_central-de-flagrantes-foto-pc_e5fbf5d58e.jpeg)
-
-Na Garça Torta
-
-Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM](https://www.tnh1.com.br/noticia/nid/irmaos-sao-presos-por-roubo-de-celulares-apos-nao-saberem-dizer-as-senhas-em-abordagem-da-pm/ "Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM")   [![Suspeito de sequestrar e matar duas pessoas em Rio Largo é preso após denúncia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
-
-Estava em carro
-
-Suspeito de sequestrar e matar duas pessoas em Rio Largo é preso após denúncia](https://www.tnh1.com.br/noticia/nid/suspeito-de-sequestrar-e-matar-duas-pessoas-em-rio-largo-e-preso-apos-denuncia/ "Suspeito de sequestrar e matar duas pessoas em Rio Largo é preso após denúncia")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +35,6 @@ Suspeito de sequestrar e matar duas pessoas em Rio Largo é preso após denúnci
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
-
-Pessoas & Negócios
-
-Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -232,39 +142,39 @@ Tiros durante comício deixam um morto e dois feridos no interior de Alagoas
 
 Tiros durante comício deixam um morto e dois feridos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tiros-durante-comicio-deixam-um-morto-e-dois-feridos-no-interior-de-alagoas/ "Tiros durante comício deixam um morto e dois feridos no interior de Alagoas ")
 
-[![Deolane Bezerra é solta pela segunda vez, após 20 dias presa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/9/csm_deolane_solta_de_novo_8f0d74ff79.jpg)
+[![Golpistas se passam por Brad Pitt e dão golpe de R$ 2 milhões em mulheres](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_brad-pitt-reproducao-redes-sociais_30b52265f0.jpg)
 
-operação integration
+laço sentimental
 
-operação integration
+laço sentimental
 
-Deolane Bezerra é solta pela segunda vez, após 20 dias presa
+Golpistas se passam por Brad Pitt e dão golpe de R$ 2 milhões em mulheres
 
-Deolane Bezerra é solta pela segunda vez, após 20 dias presa](https://www.tnh1.com.br/noticia/nid/deolane-bezerra-e-solta-pela-segunda-vez-apos-20-dias-presa/ "Deolane Bezerra é solta pela segunda vez, após 20 dias presa")[![Paulo Dantas recebe homenagem do setor leiteiro alagoano](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/8/csm_paulo-dantas-recebe-homenagem-do-setor-leiteiro-alagoano_189214e3d2.jpg)
+Golpistas se passam por Brad Pitt e dão golpe de R$ 2 milhões em mulheres](https://www.tnh1.com.br/noticia/nid/golpistas-se-passam-por-brad-pitt-e-dao-golpe-de-r-2-milhoes-em-mulheres/ "Golpistas se passam por Brad Pitt e dão golpe de R$ 2 milhões em mulheres")[![Motorista fica gravemente ferido em acidente na BR-101, em Porto Real do Colégio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/5/csm_Motorista_fica_gravemente_ferido_em_acidente_na_BR-101__em_Porto_Real_do_Colegio_-_foto_Divulgacao_PRF_202ac0dbc5.jpeg)
 
-Alagoas
+Interior
 
-Alagoas
+Interior
 
-Paulo Dantas recebe homenagem do setor leiteiro alagoano
+Motorista fica gravemente ferido em acidente na BR-101, em Porto Real do Colégio
 
-Paulo Dantas recebe homenagem do setor leiteiro alagoano](https://www.tnh1.com.br/noticia/nid/paulo-dantas-recebe-homenagem-do-setor-leiteiro-alagoano/ "Paulo Dantas recebe homenagem do setor leiteiro alagoano")[![Gusttavo Lima recebeu mais de R$ 28 milhões de empresas investigadas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/0/csm_gusttavo_lima_aviao_reproducao_instagram_33da8da5a7.jpg)
+Motorista fica gravemente ferido em acidente na BR-101, em Porto Real do Colégio](https://www.tnh1.com.br/noticia/nid/motorista-fica-gravemente-ferido-em-acidente-na-br-101-em-porto-real-do-colegio/ "Motorista fica gravemente ferido em acidente na BR-101, em Porto Real do Colégio")[![Dois homens são assassinados a tiros dentro de estabelecimento no Village Campestre](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/3/csm_Duplo_homicidio_Cidade_Universitaria_-_foto_Reproducao_fa54e8935c.jpeg)
 
-Prisão decretada
+Polícia
 
-Prisão decretada
+Polícia
 
-Gusttavo Lima recebeu mais de R$ 28 milhões de empresas investigadas
+Dois homens são assassinados a tiros dentro de estabelecimento no Village Campestre
 
-Gusttavo Lima recebeu mais de R$ 28 milhões de empresas investigadas](https://www.tnh1.com.br/noticia/nid/gusttavo-lima-recebeu-mais-de-r-28-milhoes-de-empresas-investigadas/ "Gusttavo Lima recebeu mais de R$ 28 milhões de empresas investigadas")[![Kate Winslet revela segredo em cena da porta com DiCaprio em 'Titanic'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/1/csm_kate-winslet-revela-cenas-com-dicaprio-em-titanic-que-foram-um-pesadelo-panorama_Paramount_Pictures-Divulgacao_eff661b854.jpg)
+Dois homens são assassinados a tiros dentro de estabelecimento no Village Campestre](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-assassinados-a-tiros-dentro-de-estabelecimento-no-village-campestre/ "Dois homens são assassinados a tiros dentro de estabelecimento no Village Campestre")[![Transferência para bets subiu mais de 200% e piorou inadimplência da baixa renda, diz BC](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/8/csm_bet-apostas-reproducao-agencia-brasil_7719f82b2d.jpg)
 
-cabia ou não?
+banco central
 
-cabia ou não?
+banco central
 
-Kate Winslet revela segredo em cena da porta com DiCaprio em 'Titanic'
+Transferência para bets subiu mais de 200% e piorou inadimplência da baixa renda, diz BC
 
-Kate Winslet revela segredo em cena da porta com DiCaprio em 'Titanic'](https://www.tnh1.com.br/noticia/nid/kate-winslet-revela-segredo-em-cena-da-porta-com-dicaprio-em-titanic/ "Kate Winslet revela segredo em cena da porta com DiCaprio em 'Titanic'")
+Transferência para bets subiu mais de 200% e piorou inadimplência da baixa renda, diz BC](https://www.tnh1.com.br/noticia/nid/transferencia-para-bets-subiu-mais-de-200-e-piorou-inadimplencia-da-baixa-renda-diz-bc/ "Transferência para bets subiu mais de 200% e piorou inadimplência da baixa renda, diz BC")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
