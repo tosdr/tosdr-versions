@@ -1,73 +1,88 @@
-                
+[Skip to content](#MainContent)
 
-[![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_1000x1000.png?v=1630032270)
+  
 
-![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
+   
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
-* [Exclusives](#)
+* Exclusives
     
-    See more "Close Cart"
+    Exclusives
     
     * [Shop All Exclusives](https://fanjoy.co/collections/shop-all-exclusives)
     * [Take Care of Yourself Collection](https://fanjoy.co/collections/take-care-of-yourself)
-* [Shop By](#)
     
-    See more "Close Cart"
+* Shop By
+    
+    Shop By
     
     * [Best Sellers](https://fanjoy.co/collections/weekly-bestsellers)
     * [Mystery Items](https://fanjoy.co/collections/mystery-items)
-    * [Under $10](https://fanjoy.co/collections/under-10)
     * [Hoodies](https://fanjoy.co/collections/hoodies)
     * [Sweatpants](https://fanjoy.co/collections/sweatpants)
     * [Shirts](https://fanjoy.co/collections/shirts)
     * [Hats & Beanies](https://fanjoy.co/collections/hats-beanies)
     * [Phone Cases](https://fanjoy.co/collections/phone-cases)
     * [Accessories](https://fanjoy.co/collections/accessories)
+    
 * [Create Your Own](https://fanjoy.co/pages/partner)
 
-Account
+[Log in](https://fanjoy.co/customer_identity/redirect?locale=en)
 
-* [Log in](https://fanjoy.co/customer_identity/redirect?locale=en&country=US)
-* [Create account](https://shopify.com/7141079/account?locale=en)
+Country/region
+--------------
 
-[![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_1000x1000.png?v=1630032270)
+United States | USD $
 
-![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
+* [Canada CAD $](#)
+* [United Kingdom GBP £](#)
+* [United States USD $](#)
+
+* [X (Twitter)](https://x.com/FanjoyCo)
+* [Instagram](https://www.instagram.com/fanjoy/)
+* [TikTok](https://www.tiktok.com/@fanjoy)
+* [YouTube](https://www.youtube.co/)
+
+[![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_cb9c8b72-d6ec-438b-8261-2e648605ced8.png?v=1701886274&width=600)](https://fanjoy.co/)
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
-* [Exclusives](#)
+* Exclusives
+    
     * [Shop All Exclusives](https://fanjoy.co/collections/shop-all-exclusives)
     * [Take Care of Yourself Collection](https://fanjoy.co/collections/take-care-of-yourself)
-* [Shop By](#)
+    
+* Shop By
+    
     * [Best Sellers](https://fanjoy.co/collections/weekly-bestsellers)
     * [Mystery Items](https://fanjoy.co/collections/mystery-items)
-    * [Under $10](https://fanjoy.co/collections/under-10)
     * [Hoodies](https://fanjoy.co/collections/hoodies)
     * [Sweatpants](https://fanjoy.co/collections/sweatpants)
     * [Shirts](https://fanjoy.co/collections/shirts)
     * [Hats & Beanies](https://fanjoy.co/collections/hats-beanies)
     * [Phone Cases](https://fanjoy.co/collections/phone-cases)
     * [Accessories](https://fanjoy.co/collections/accessories)
+    
 * [Create Your Own](https://fanjoy.co/pages/partner)
 
-Search
+Country/region
+--------------
 
-* [](https://fanjoy.co/customer_identity/redirect?locale=en&country=US "Log in")
-* [0](https://fanjoy.co/cart)
+United States | USD $
 
-Menu
+* [Canada CAD $](#)
+* [United Kingdom GBP £](#)
+* [United States USD $](#)
 
-[![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_1000x1000.png?v=1630032270)
+ Search [Log in](https://fanjoy.co/customer_identity/redirect?locale=en) [Cart](https://fanjoy.co/cart)
 
-![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
+Item added to your cart
+-----------------------
 
-* [](https://fanjoy.co/customer_identity/redirect?locale=en&country=US "Log in")
-[0 Cart](https://fanjoy.co/cart)
+[View cart](https://fanjoy.co/cart)
 
-Search
+Check out
 
-[Home](https://fanjoy.co/ "Back to the frontpage") › Privacy
+Continue shopping
 
 Privacy
 =======
@@ -183,48 +198,48 @@ Los Angeles, CA 90066
 
 We  may  update this  Privacy Policy  from  time  to  time.  If  we  make  any changes,  we  will  notify  you  by revising the "Last Updated" date at the top of this Privacy Policy. If we make any revisions that materially change  the  ways  in  which  we  use  or  share  the  information  previously  collected  from  you  through  the Service,  we  will  give  you  the  opportunity  to  consent  to  such  changes  before  applying  them  to  that information.
 
-### Get On The List
+    
 
-Sign up for exclusive promos and updates on the latest drops!
+Subscribe to our emails
+-----------------------
 
- 
+ Email
 
- 
+* [Instagram](https://www.instagram.com/fanjoy/)
+* [YouTube](https://www.youtube.co/)
+* [TikTok](https://www.tiktok.com/@fanjoy)
+* [X (Twitter)](https://x.com/FanjoyCo)
 
-Shop By
+Country/region
+--------------
 
-Help
+United States | USD $
 
-* [FAQ](https://fanjoy.co/pages/faq)
-* [Help Center](https://fanjoy.zendesk.com/)
-* [Track](#status-orders)
-* [About](https://fanjoy.co/pages/about)
-* [Terms](https://fanjoy.co/pages/terms)
-* [Privacy Policy](https://fanjoy.co/pages/privacy)
-* [Return Policy](https://fanjoy.zendesk.com/hc/en-us/sections/115001098426-Returns-and-Cancellations-)
-* [Partner](https://fanjoy.co/pages/partner)
-* [iPhone App](https://itunes.apple.com/us/app/fanjoy/id1358494744?mt=8)
-* [Android App](https://play.google.com/store/apps/details?id=co.tapcart.app.id_YOYhGYhpvw&hl=en_US&gl=US)
-* [Reviews](https://fanjoy.co/pages/reviews)
-* [Accessibility](https://fanjoy.co/pages/accessibility)
+* [Canada CAD $](#)
+* [United Kingdom GBP £](#)
+* [United States USD $](#)
 
-Connect With Us
+Payment methods
 
-* [](https://twitter.com/FanjoyCo)
-* [](https://instagram.com/fanjoy)
-* [](https://www.youtube.com/channel/UCK4v2ejeJomBH6yVKLYMZXQ)
-* [](https://www.tiktok.com/@fanjoy?lang=en)
+* Amazon
+* American Express
+* Diners Club
+* Discover
+* Meta Pay
+* Google Pay
+* Mastercard
+* PayPal
+* Shop Pay
+* Venmo
+* Visa
 
-Contact
+© 2024, [Fanjoy](https://fanjoy.co/) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-Please email hello@fanjoy.co with any questions and we'll always be happy to help.
+* [Refund policy](https://fanjoy.co/policies/refund-policy)
+* [Privacy policy](https://fanjoy.co/policies/privacy-policy)
+* [Terms of service](https://fanjoy.co/policies/terms-of-service)
+* [Shipping policy](https://fanjoy.co/policies/shipping-policy)
+* [Contact information](https://fanjoy.co/policies/contact-information)
 
-Currency
---------
-
-CAD $ GBP £ USD $
-
-Amazon American Express Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
-
-* [© 2024, Fanjoy](https://fanjoy.co/)
-* [](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+* Choosing a selection results in a full page refresh.
+* Opens in a new window.
