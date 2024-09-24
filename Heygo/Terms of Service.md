@@ -387,7 +387,7 @@ Menu
 Featured travel offers
 ----------------------
 
-*  [](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
+*  [![Turkey Holidays](https://travelmedia.restless.co.uk/traveldeals/images/easyjet-holidays/531091d3-87dd-4ca9-91b6-d92dc4eb652e/5567ddf4-e780-4804-a0d6-a85cce8750e9-600x200.jpg)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
     ### [Turkey Holidays\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
@@ -397,7 +397,7 @@ Featured travel offers
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
-*  [](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
+*  [![Ancient Ruins, Paros & Santorini](https://travelmedia.restless.co.uk/traveldeals/images/exoticca/4913e8b6-cdaf-480f-9652-3267022330d4/f731c610-37dc-4a25-9c43-6db135df85c3-600x200.jpg)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
     ### [Ancient Ruins, Paros & Santorini\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
@@ -552,6 +552,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![the most colourful travel destinations in the world](https://media.restless.co.uk/uploads/2023/06/the-most-colourful-travel-destinations-in-the-world-768x519.jpeg)](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
+
+### [11 of the most colourful travel destinations in the world](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
+
+[Read More »](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
+
 [![7 dreamy cruise destinations for 2025](https://media.restless.co.uk/uploads/2024/09/dreamy-cruise-destinations-for-2025-768x513.jpg)](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
 
 ### [7 dreamy cruise destinations for 2025](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
@@ -581,12 +587,6 @@ New in travel
 ### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 [Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-[![8 unbelievable places to visit in South America](https://media.restless.co.uk/uploads/2023/06/unbelievable-places-to-visit-in-south-america-768x495.jpg)](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
-
-### [8 unbelievable places to visit in South America](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
-
-[Read More »](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
 
 Popular travel guides
 ---------------------
