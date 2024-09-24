@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/who-hield-ivermectine-met-opzet-tegen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/revolutionair-het-volkstribunaal/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -217,6 +217,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Rechtszaak tegen Rutte blokkeert NAVO-job..!!!
+
+[Het probleem met sommige "hoog geplaatsten" (waaronder Rutte…](https://www.wanttoknow.nl/nieuws/rechtszaak-tegen-rutte-blokkeert-navo-job/comment-page-1/#comment-626330)
 
 ![Ron](https://secure.gravatar.com/avatar/1b04eec12e302b86452b78c026422be2?s=50&d=identicon&r=g)
 
@@ -465,14 +473,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Onderhoud 1 windmolenpark: 7 miljoen diesel/jaar..!!
 
 [Tja Peter, dit zijn van die gekke rekensommetjes. 'Verspilde…](https://www.wanttoknow.nl/overige/onderhoud-1-windmolenpark-7-miljoen-diesel-jaar/comment-page-1/#comment-626295)
-
-![peterV](https://secure.gravatar.com/avatar/809283c2bb03dc6375dc6c003d7c3bdf?s=50&d=identicon&r=g)
-
-##### **peterV** reacts on:
-
-##### Onderhoud 1 windmolenpark: 7 miljoen diesel/jaar..!!
-
-[7 miljoen liter diesel, is dat veel? 1 liter diesel = 10 kWh…](https://www.wanttoknow.nl/overige/onderhoud-1-windmolenpark-7-miljoen-diesel-jaar/comment-page-1/#comment-626293)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
