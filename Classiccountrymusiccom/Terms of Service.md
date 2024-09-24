@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [OU Honors Toby Keith With Epic...](https://classiccountrymusic.com/ou-honors-toby-keith-with-epic-drone-show-during-first-sec-football-game/)
 * [Andy Griffith Stars In Brad Paisley’s...](https://classiccountrymusic.com/andy-griffith-stars-in-brad-paisleys-waitin-on-a-woman-music-video/)
 * [Hall of Fame Songwriter Billy Edd...](https://classiccountrymusic.com/hall-of-fame-songwriter-billy-edd-wheeler-dies-at-91/)
-* [Dolly Parton Defends The CMA After...](https://classiccountrymusic.com/dolly-parton-defends-the-cma-against-alleged-beyonce-snub/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
