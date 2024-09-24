@@ -313,8 +313,8 @@ Company agrees to indemnify, defend and hold harmless StackAdapt and its Represe
 5. any claim that Company’s Ads violate applicable laws or regulations; or
 6. any violation of the rights of another person or entity, including without limitation, any intellectual property rights.
 
-9\. Limitations on Liability
-----------------------------
+10\. Limitations on Liability
+-----------------------------
 
 In no event will StackAdapt, its affiliates or their respective agents be liable to the other for any lost profits or any special, incidental, consequential, exemplary, punitive or other indirect damages of any nature, for any reason, whether based on breach of contract, tort (including negligence), or otherwise and whether or not either has been advised of the possibility of such damages. Notwithstanding any other provisions of the Agreement, in no event will StackAdapt’s aggregate liability to Company and any third-party in connection with the Agreement or Company’s access to and use of the Platform exceed the total amount paid by Company to StackAdapt in the six month period preceding the claim or action.
 
