@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/)
+    [](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
     
-    ![Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Throne and Liberty Global Release Date, Story and Everything We Know So Far](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/)
+    [](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
     
-    ![Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Throne and Liberty Global Release Date, Story and Everything We Know So Far](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/wp-content/uploads/2024/09/Throne-and-Liberty-Global-Release-Date-Story-and-Everything-We-Know-So-Far.png)
+
+[Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 24, 2024/
+
+Throne and Liberty is an upcoming fantasy MMORPG (massively multiplayer online role-playing game) from renowned developer NCSoft, best known for…
+
+[Read More](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
+
+![Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/wp-content/uploads/2024/09/Fields-of-Mistria-Legendary-Fish-Guide.png)
+
+[Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/fields-of-mistria-legendary-fish-guide/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+September 24, 2024/
+
+Fishing in Fields of Mistria offers a relaxing way to spend time while working towards completing your Fish Wing collection…
+
+[Read More](https://player.me/fields-of-mistria-legendary-fish-guide/)
+
 ![Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](https://player.me/wp-content/uploads/2024/09/Tales-of-the-Shire-Release-Date-Set-For-March-25-2025-After-Minor-Delay.png)
 
 [Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/)
@@ -218,32 +244,6 @@ September 19, 2024/
 At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new updates aimed at empowering creators and…
 
 [Read More](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
-
-![Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/wp-content/uploads/2024/09/Project-T-the-Dead-by-Daylight-Spin-Off-Has-Been-Cancelled-Following-Negative-Player-Feedback.png)
-
-[Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 18, 2024/
-
-In a surprising announcement, Behaviour Interactive has revealed the cancellation of Project T, an upcoming third-person cooperative shooter set in…
-
-[Read More](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
-
-![EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/wp-content/uploads/2024/09/EAs-Skate-4-Set-to-Release-Early-Access-in-2025.png)
-
-[EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
-
-
---------------------------------------------------------------------------------------------------------------------------
-
-September 18, 2024/
-
-EA’s long-awaited Skate sequel, officially titled “skate.” (yes, lowercase with a period), more commonly known as Skate 4, is set…
-
-[Read More](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/wp-content/uploads/2024/09/Throne-and-Liberty-Global-Release-Date-Story-and-Everything-We-Know-So-Far.png)
+
+[Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 24, 2024/
+
+Throne and Liberty is an upcoming fantasy MMORPG (massively multiplayer online role-playing game) from renowned developer NCSoft, best known for…
+
+[Read More](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
+
+![Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/wp-content/uploads/2024/09/Fields-of-Mistria-Legendary-Fish-Guide.png)
+
+[Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/fields-of-mistria-legendary-fish-guide/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+September 24, 2024/
+
+Fishing in Fields of Mistria offers a relaxing way to spend time while working towards completing your Fish Wing collection…
+
+[Read More](https://player.me/fields-of-mistria-legendary-fish-guide/)
+
 ![Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](https://player.me/wp-content/uploads/2024/09/Tales-of-the-Shire-Release-Date-Set-For-March-25-2025-After-Minor-Delay.png)
 
 [Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/)
@@ -379,32 +405,6 @@ September 18, 2024/
 EA’s long-awaited Skate sequel, officially titled “skate.” (yes, lowercase with a period), more commonly known as Skate 4, is set…
 
 [Read More](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
-
-![Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](https://player.me/wp-content/uploads/2024/09/Dragon-Ball-Sparking-Zero-Confirms-15-New-Characters-from-GT-Ahead-of-its-October-11-Release-Date.png)
-
-[Dragon Ball Sparking Zero Confirms 15 New Characters from GT Ahead of its October 11 Release Date](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 13, 2024/
-
-As the release date for Dragon Ball Sparking Zero approaches on October 11, Bandai Namco and Spike Chunsoft have delighted…
-
-[Read More](https://player.me/dragon-ball-sparking-zero-confirms-characters-from-gt/)
-
-![Flappy Bird, The 2014 Sensation, Is Returning to Browser in October and Phones in 2025](https://player.me/wp-content/uploads/2024/09/Flappy-Bird-The-2014-Sensation-Is-Returning-to-Browser-in-October-and-Phones-in-2025.png)
-
-[Flappy Bird, The 2014 Sensation, Is Returning to Browser in October and Phones in 2025](https://player.me/flappy-bird-returns-to-browser-and-phones/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 13, 2024/
-
-It has been ten years since Flappy Bird was abruptly pulled from mobile stores, leaving millions of fans bewildered and…
-
-[Read More](https://player.me/flappy-bird-returns-to-browser-and-phones/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques
 
 player.me
 
+[](https://player.me/throne-and-liberty-release-date-and-everything-we-know/ "Throne and Liberty Global Release Date, Story and Everything We Know So Far")
+
+[Throne and Liberty Global Release Date, Story and Everything We Know So Far](https://player.me/throne-and-liberty-release-date-and-everything-we-know/)
+
+September 24, 2024
+
+[](https://player.me/fields-of-mistria-legendary-fish-guide/ "Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish")
+
+[Fields of Mistria Legendary Fish Guide: How and Where to Catch the 4 Rare Fish](https://player.me/fields-of-mistria-legendary-fish-guide/)
+
+September 24, 2024
+
 [](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/ "Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay")
 
 [Tales of the Shire Release Date Set For March 25, 2025 After Minor Delay](https://player.me/tales-of-the-shire-release-date-set-for-march-25-2025/)
@@ -853,22 +865,10 @@ September 19, 2024
 
 September 19, 2024
 
-[](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/ "Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback")
-
-[Project T, the Dead by Daylight Spin-Off, Has Been Cancelled Following Negative Player Feedback](https://player.me/dead-by-daylight-spin-off-project-t-has-been-cancelled/)
-
-September 18, 2024
-
-[](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/ "EA’s Skate 4 Set to Release Early Access in 2025")
-
-[EA’s Skate 4 Set to Release Early Access in 2025](https://player.me/eas-skate-4-set-to-release-early-access-in-2025/)
-
-September 18, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 567,313 times, 8 visit(s) today
+Visited 567,358 times, 53 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
