@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 20, 2024
+September 23, 2024
 
-Who is responsible for climate change?
+A foundation amid loss and displacement
 
-What stands out to me about today’s story by Taylor Luck and Erika Page is how effectively they explore the matter of responsibility in climate change. They avoid the scolding tone or simplistic blame game that so often tempts the media. But their story raises hard questions. In Tunisia, families desperate to stay in the rural communities they love are no longer able to eke out a living from the parched dirt.Who is responsible for fixing that? Climate change is a new kind of challenge, because the responsibility is collective and the solution is collective. There is no lack of ways forward. But they all begin with a more honest sense of responsibility, both as individuals and in a way that transcends borders.
+The widening conflict in the Middle East and the war in Ukraine continue to hold the world’s attention. But numerous other conflicts garner far less attention as they grind on around the globe – testing the sense of those caught up in them that their lives, in fact, matter.Today, we visit with residents of a camp in the Democratic Republic of Congo whose lives have been utterly upended by dehumanizing conflict. Yet they hold to dignity, very intentionally asserting even in mourning that each life in their community holds value and has meaning.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
