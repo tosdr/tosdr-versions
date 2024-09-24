@@ -1,5 +1,3 @@
-Earn 20% commission for every subscription taken with your affiliate link [Register](https://yiff-party.com/yiff-party-affiliation/)
-
 [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
@@ -77,33 +75,33 @@ Latest commented posts
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 344 1
+0 353 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/loona-directed-by-knuthulhu/)
+[](https://yiff-party.com/yiff/judy-hopps-and-nick-wilde-zootopia-and-etc-created-by-sethpup/)
 
-[loona directed by knuthulhu](https://yiff-party.com/yiff-ai-premium/loona-directed-by-knuthulhu/)
+[judy hopps and nick wilde (zootopia and etc) created by sethpup](https://yiff-party.com/yiff/judy-hopps-and-nick-wilde-zootopia-and-etc-created-by-sethpup/)
 
 0 2 0
 
-September 24, 2024
+September 25, 2024
 
-[](https://yiff-party.com/yiff/ace-the-bat-hound-krypto-and-krypto-the-superdog-directed-by-contextualcritters/)
+[](https://yiff-party.com/yiff/alice-created-by-cyberkaps/)
 
-[ace the bat-hound, krypto, and krypto the superdog directed by contextualcritters](https://yiff-party.com/yiff/ace-the-bat-hound-krypto-and-krypto-the-superdog-directed-by-contextualcritters/)
+[alice created by cyberkaps](https://yiff-party.com/yiff/alice-created-by-cyberkaps/)
 
-0 233 0
+0 129 0
 
-August 25, 2024
+August 26, 2024
 
-[](https://yiff-party.com/yiff/mythology-created-by-oxfort2199/)
+[](https://yiff-party.com/yiff/k9fritz-created-by-kiliankuro/)
 
-[mythology created by oxfort2199](https://yiff-party.com/yiff/mythology-created-by-oxfort2199/)
+[k9fritz created by kiliankuro](https://yiff-party.com/yiff/k9fritz-created-by-kiliankuro/)
 
-0 73 0
+0 70 0
 
-August 25, 2024
+August 26, 2024
 
 [Hub](https://yiff-hub.com/) / [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
