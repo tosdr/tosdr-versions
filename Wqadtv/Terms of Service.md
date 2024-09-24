@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [A Michigan program is shown to reduce postpartum depression. Researchers want to bring it to everyone.](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9) [![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8224bd53-017e-4365-ac84-101f807b4a09/20240923T233103/8224bd53-017e-4365-ac84-101f807b4a09_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b)
+        #### ['Reduce suffering and increase joy' | Researchers in Michigan are looking to expand program that reduces, prevents postpartum depression](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c0a2813c-8888-41c8-9db3-660ca81a0f22/c0a2813c-8888-41c8-9db3-660ca81a0f22_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0a2813c-8888-41c8-9db3-660ca81a0f22/c0a2813c-8888-41c8-9db3-660ca81a0f22_360x203.jpg)](https://www.wqad.com/article/news/local/two-iowa-state-penitentiary-officers-injured-assault/526-9707039e-6406-44b7-a4c3-ff2866a514c4)
         
-        #### [QC football teams using drones to up their game](https://www.wqad.com/article/sports/local-sports/qc-football-teams-using-drones/526-b8c8b607-d969-4c67-a429-4775d8d1855b)
+        #### [2 Iowa State Penitentiary officers injured during assault, prison union claims](https://www.wqad.com/article/news/local/two-iowa-state-penitentiary-officers-injured-assault/526-9707039e-6406-44b7-a4c3-ff2866a514c4)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4737f4af-739a-4efb-8e09-aa5bece6ceef/20240924T121849/4737f4af-739a-4efb-8e09-aa5bece6ceef_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4737f4af-739a-4efb-8e09-aa5bece6ceef/20240924T121849/4737f4af-739a-4efb-8e09-aa5bece6ceef_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/76b0b121-6448-4712-88b5-86a25ea47102/20240924T220246/76b0b121-6448-4712-88b5-86a25ea47102_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/76b0b121-6448-4712-88b5-86a25ea47102/20240924T220246/76b0b121-6448-4712-88b5-86a25ea47102_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A very pleasant September day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Bright skies and warmer temperatures starting Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/c372560b-602d-4161-abca-e8ffe13c0e68/20240924T033439/c372560b-602d-4161-abca-e8ffe13c0e68_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c372560b-602d-4161-abca-e8ffe13c0e68/20240924T033439/c372560b-602d-4161-abca-e8ffe13c0e68_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-john-mexico/507-50e7bce0-7dca-4160-a4d3-fbb478b66cde)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b8cc6914-f8db-4538-87bf-533ee213b7d3/20240924T170634/b8cc6914-f8db-4538-87bf-533ee213b7d3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b8cc6914-f8db-4538-87bf-533ee213b7d3/20240924T170634/b8cc6914-f8db-4538-87bf-533ee213b7d3_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
         
-        #### [2 people are dead after John hits Mexico’s Pacific coast as a major hurricane](https://www.wqad.com/article/weather/hurricane/hurricane-john-mexico/507-50e7bce0-7dca-4160-a4d3-fbb478b66cde)
+        #### [Hurricane Watch: Helene's potential historic path tracking towards the Midwest](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-66°
+73°
 
 ![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
