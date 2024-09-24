@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How Home Care Changes Between Alzheimer’s and Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-home-care-changes-between-alzheimers-and-dementia/292)
+[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
 
-[Live-in or 24-Hour Care Allowing Elderly Adults to “Age in Place” in Their Homes](https://www.visitingangels.com/knowledge-center/care-options/live-in-or-24-hour-care-allowing-elderly-adults-to-age-in-place-in-their-homes/432)
+[Understanding Palliative In-Home Care](https://www.visitingangels.com/knowledge-center/care-options/understanding-palliative-in-home-care/107)
 
 [Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
 
-[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
+[How Palliative Care is Different Than Hospice](https://www.visitingangels.com/knowledge-center/care-options/how-palliative-care-is-different-than-hospice/301)
 
-[How Non-Medical End of Life Care Can Help Seniors & Families](https://www.visitingangels.com/knowledge-center/care-options/how-non-medical-end-of-life-care-can-help-seniors-families/360)
+[When to Adjust Your Loved One’s Home Care Services](https://www.visitingangels.com/knowledge-center/care-options/when-to-adjust-your-loved-ones-home-care-services/108)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
