@@ -2,6 +2,10 @@ Hot skills summer is back. Get **$/£/€1,500 off a short course.**
 
 [Cash in](https://generalassemb.ly/blog/hot-skills-summer-your-skills-on-fire-with-the-seasons-hottest-discounts/)
 
+Don't miss our Skill Seeker Series from Sept 30 - Oct 30.
+
+[View the Schedule](https://explore.generalassemb.ly/skillseeker)
+
 [Students](https://generalassemb.ly/)
 
 [Employers](https://generalassemb.ly/employers)
