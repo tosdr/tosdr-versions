@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can lung cancer be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-lung-cancer-be-caused-by-asbestos.jpg "Can Lung Cancer Be Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/ "Can Lung Cancer Be Caused by Asbestos?")
+[![How do nursing homes deal with understaffing?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-how-do-nursing-homes-deal-with-understaffing-300x200-1.jpg "How Do Nursing Homes Deal With Understaffing?")](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/ "How Do Nursing Homes Deal With Understaffing?")
 
-[#### Can Lung Cancer Be Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/)
+[#### How Do Nursing Homes Deal With Understaffing?](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/)
 
-[![What is a natural alternative to roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-a-natural-alternative-to-roundup.jpg "What Is a Natural Alternative to Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/ "What Is a Natural Alternative to Roundup?")
+[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
 
-[#### What Is a Natural Alternative to Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/)
+[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
 
-[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
+[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
 
-[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
+[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
