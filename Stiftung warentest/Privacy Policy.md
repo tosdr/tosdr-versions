@@ -809,21 +809,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
-* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 
 test.de entdecken
 
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
-* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Schad­stoffe in Luft­ballons: Vorsicht beim Aufblasen](https://www.test.de/Krebserregende-Stoffe-in-Luftballons-Vorsicht-beim-Aufblasen-5930948-0/ "Schadstoffe in Luftballons - Vorsicht beim Aufblasen")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Fußbereich
 
@@ -3854,59 +3854,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
-* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 
 test.de entdecken
 
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
-* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Schad­stoffe in Luft­ballons: Vorsicht beim Aufblasen](https://www.test.de/Krebserregende-Stoffe-in-Luftballons-Vorsicht-beim-Aufblasen-5930948-0/ "Schadstoffe in Luftballons - Vorsicht beim Aufblasen")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
-* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 
 test.de entdecken
 
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
-* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Schad­stoffe in Luft­ballons: Vorsicht beim Aufblasen](https://www.test.de/Krebserregende-Stoffe-in-Luftballons-Vorsicht-beim-Aufblasen-5930948-0/ "Schadstoffe in Luftballons - Vorsicht beim Aufblasen")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Neueste Tests
 
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
-* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 
 test.de entdecken
 
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
-* [Geld­anlage: Block­heiz­kraft­werke: Heiße Luft und hohes Risiko](https://www.test.de/Geldanlage-Blockheizkraftwerke-Heisse-Luft-und-hohes-Risiko-6009939-0/ "Geldanlage - Blockheizkraftwerke: Heiße Luft und hohes Risiko")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Tulpen­zwiebeln im Test: Diese gefüllten Tulpen blühen besonders schön](https://www.test.de/Test-Tulpenzwiebeln-Gefuellte-Tulpen-fuer-den-Garten-5928717-0/ "Tulpenzwiebeln im Test - Diese gefüllten Tulpen blühen besonders schön")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Schad­stoffe in Luft­ballons: Vorsicht beim Aufblasen](https://www.test.de/Krebserregende-Stoffe-in-Luftballons-Vorsicht-beim-Aufblasen-5930948-0/ "Schadstoffe in Luftballons - Vorsicht beim Aufblasen")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Service Stiftung Warentest
 
