@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/het-wordt-tijd-dat-zorgprofessionals-alternatieve-geneeswijzen-serieus-nemen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/john-kennedy-liet-ons-order-11110-na-wauw/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
