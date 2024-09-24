@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the symptoms of stage 1 ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-are-the-symptoms-of-stage-1-ovarian-cancer-scaled.jpg "What Are the Symptoms of Stage 1 Ovarian Cancer?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/ "What Are the Symptoms of Stage 1 Ovarian Cancer?")
+[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
 
-[#### What Are the Symptoms of Stage 1 Ovarian Cancer?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/symptoms-of-stage-1-ovarian-cancer/)
+[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
 
-[![Are falls a sign of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-300x200.jpg "Are Falls a Sign of Assisted Living Neglect?")](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/ "Are Falls a Sign of Assisted Living Neglect?")
+[![What are the warning signs of elder abuse and neglect?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-warning-signs-of-elder-abuse-and-neglect-scaled.jpg "What Are the Warning Signs of Elder Abuse and Neglect?")](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/ "What Are the Warning Signs of Elder Abuse and Neglect?")
 
-[#### Are Falls a Sign of Assisted Living Neglect?](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/)
+[#### What Are the Warning Signs of Elder Abuse and Neglect?](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/)
 
-[![What are the effects of elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-effects-of-elder-abuse-scaled.jpg "What Are the Effects of Elder Abuse?")](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/ "What Are the Effects of Elder Abuse?")
+[![When should i contact a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomawhen-should-i-contact-a-mesothelioma-lawyer-scaled.jpg "When Should I Contact a Mesothelioma Lawyer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/ "When Should I Contact a Mesothelioma Lawyer?")
 
-[#### What Are the Effects of Elder Abuse?](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/)
+[#### When Should I Contact a Mesothelioma Lawyer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
