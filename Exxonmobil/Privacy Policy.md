@@ -36,7 +36,7 @@
     
     * * [News releases](http://corporate.exxonmobil.com/news/news-releases)
         * [Viewpoints](http://corporate.exxonmobil.com/news/viewpoints)
-        * [Subscribe](http://corporate.exxonmobil.com/news/subscribe)
+        * [Subscription center](http://corporate.exxonmobil.com/news/subscribe)
     
 * [Investors](https://investor.exxonmobil.com/)
     
