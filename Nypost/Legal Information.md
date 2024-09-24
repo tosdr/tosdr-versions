@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[House Rules Committee nixes vote on short-term spending bill after GOP opposition](https://nypost.com/2024/09/24/us-news/house-rules-committee-nixes-vote-on-short-term-spending-bill/)
-
 Privacy Notice Highlights
 =========================
 
