@@ -82,6 +82,7 @@ Search for anything
 * [Resources](https://www.thecdi.net/resources)
     * [CPD Resource Library](https://www.thecdi.net/resources/cpd-resource-library)
     * [CDI Framework](https://www.thecdi.net/resources/cdi-framework)
+    * [Technical Education Resource Hub](https://www.thecdi.net/resources/technical-education-resource-hub)
     * [Public webinar recordings](https://www.thecdi.net/resources/public-webinar-recordings)
     * [Quality Management](https://www.thecdi.net/resources/quality-management)
     * [Career Assured](https://www.thecdi.net/resources/career-assured)
