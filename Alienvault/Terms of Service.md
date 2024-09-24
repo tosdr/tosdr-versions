@@ -1,7 +1,7 @@
 be\_ixf;ym\_202409 d\_23; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=ES%202024-09-23%20MTDR%20for%20Government%20Press%20Release%20-%20SB-MTDR-for-Gov&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=c66ab7b52cfc4cadb581c455da4e0f9c&elqaid=1974&elqat=1&elqCampaignId=1801&elqak=8AF572A59A8B20F00E6E7C316C7B923A70EDDCE92E13B66DC9AB550C292D7AD3CB31
+* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=ES+2024-09-23+MTDR+for+Government+Press+Release+-+SB-MTDR-for-Gov&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=1861d0b0aaa3494593af2769ef7e9c3f&elqaid=1974&elqat=1&elqCampaignId=1801&elqak=8AF572A59A8B20F00E6E7C316C7B923A70ED86F864EC7C0F6CD2D476F43601A91E70
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
