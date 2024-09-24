@@ -220,7 +220,7 @@ Language English Spanish
 
 [![](https://b81444a26fd00027925d-endpoint.azureedge.net/wp-content/uploads/2021/01/Facebook.png)](https://www.facebook.com/BibleStudyFellowship/)   [![](https://b81444a26fd00027925d-endpoint.azureedge.net/wp-content/uploads/2021/01/Instagram.png)](https://www.instagram.com/wearebsf/)   [![](https://b81444a26fd00027925d-endpoint.azureedge.net/wp-content/uploads/2021/01/YouTube.png)](https://www.youtube.com/wearebsf/)
 
-© 2021 Bible Study Fellowship
+© 2024 Bible Study Fellowship
 
 [Privacy Policy](https://www.bsfinternational.org/privacy-policy) | [Terms of Use](https://www.bsfinternational.org/terms-of-use)
 
