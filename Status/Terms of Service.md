@@ -58,7 +58,7 @@ SNT
 
 Download for macOS[Download for Windows](https://status.im/api/download/windows)[Download for Linux](https://status.im/api/download/linux)Download for mobile
 
-![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_3840,q_auto/Non%20Beta%20Release/Illustrations/Hero_Non_Beta_Release)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_3840,q_auto/Non%20Beta%20Release/Illustrations/Hero_Non_Beta_Release)
+![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Non%20Beta%20Release/Illustrations/hero-1)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Non%20Beta%20Release/Illustrations/hero-2)
 
 [New
 
@@ -191,7 +191,7 @@ Imagine a community group chat platform designed to work with crypto from the gr
 
 ![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_256,q_auto/Non%20Beta%20Release/Scribbles%20and%20Notes/Communities_04)![Mobile app screen showing a Status Community with a read only token gated channel](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_750,q_auto/Non%20Beta%20Release/Screens/Communities/Communities_02)
 
-![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1920,q_auto/Non%20Beta%20Release/Screens/Features/Notifications)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_3840,q_auto/Textures/screen-texture)
+![Mobile app screenshot showing the notification centre feature in the Status app](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1920,q_auto/Non%20Beta%20Release/Screens/Features/Notifications)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_3840,q_auto/Textures/screen-texture)
 
 ![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_96,q_auto/Non%20Beta%20Release/Icons/07)
 
@@ -207,7 +207,7 @@ Track your notifications
 
 Stay in control with a global notification centre that lets you see at a glance everything that’s happening in your Web3 journey.
 
-![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1920,q_auto/Non%20Beta%20Release/Screens/Features/Notifications)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_3840,q_auto/Textures/screen-texture)
+![Mobile app screenshot showing the notification centre feature in the Status app](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1920,q_auto/Non%20Beta%20Release/Screens/Features/Notifications)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_3840,q_auto/Textures/screen-texture)
 
 Make it your own
 
