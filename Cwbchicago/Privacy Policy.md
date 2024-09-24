@@ -1,5 +1,6 @@
 [![CWB Chicago](https://cwbchicago.com/wp-content/uploads/2024/09/cropped-header-2024-copy-scaled-1.jpg)](https://cwbchicago.com/)
 
+* [Brandon’s Bodies](https://cwbchicago.com/brandons-bodies)
 * [Contact Us/About Us](https://cwbchicago.com/contact-us)
 * [Courtroom Transparency Fund](https://cwbchicago.com/courtroom-transparency-fund)
 * [Members Only Section](https://cwbchicago.com/members-only-features)
@@ -242,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ronald-Wembley-326x245.jpg)](https://cwbchicago.com/2024/09/zip-tied-woman-threw-herself-out-of-moving-car-to-escape-from-armed-carjackers-including-a-convicted-murderer-prosecutors.html "Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Arrested-chain-bukhariancommunity-326x245.jpg)](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
 
-Brighton Park
+Lincoln Park
 
-### [Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors](https://cwbchicago.com/2024/09/zip-tied-woman-threw-herself-out-of-moving-car-to-escape-from-armed-carjackers-including-a-convicted-murderer-prosecutors.html "Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors")
+### [Sweet! Suspect in custody after another woman has her necklace snatched on the North Side](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
 
-[September 21, 2024 7:37 PM](https://cwbchicago.com/2024/09)
+[September 22, 2024 7:00 AM](https://cwbchicago.com/2024/09)
 
-A convicted murderer is now accused of zip-tying, kidnapping, and carjacking a couple at gunpoint in Brighton Park last month. The female victim escaped by throwing herself out of the carjacked car while it was in motion.[](https://cwbchicago.com/2024/09/zip-tied-woman-threw-herself-out-of-moving-car-to-escape-from-armed-carjackers-including-a-convicted-murderer-prosecutors.html "Zip-tied woman threw herself out of moving car to escape from armed carjackers, including a convicted murderer: prosecutors")
+There’s some good news and some bad news to share about the week-long robbery spree in which victims have had necklaces snatched from their necks, mainly in the Loop and along the lakefront.[](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Red-Line-North-Side-Suspects-Septemer-2024-326x245.jpg)](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-red-line-robbery-spree.html "Cops hunt 3 suspects in Red Line robbery spree")
+[![](https://cwbchicago.com/wp-content/uploads/2024/06/Brandon-Johnson-ShotSpotter-326x245.jpg)](https://cwbchicago.com/2024/09/on-its-last-saturday-night-in-chicago-shotspotter-pinpointed-a-mass-shooting-location-and-helped-cops-catch-a-suspect-in-a-second-shooting.html "On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting")
 
-CTA
+Back of the Yards
 
-### [Cops hunt 3 suspects in Red Line robbery spree](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-red-line-robbery-spree.html "Cops hunt 3 suspects in Red Line robbery spree")
+### [On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting](https://cwbchicago.com/2024/09/on-its-last-saturday-night-in-chicago-shotspotter-pinpointed-a-mass-shooting-location-and-helped-cops-catch-a-suspect-in-a-second-shooting.html "On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting")
 
-[September 21, 2024 7:16 PM](https://cwbchicago.com/2024/09)
+[September 22, 2024 6:22 AM](https://cwbchicago.com/2024/09)
 
-Mass Transit detectives have released surveillance images of three people wanted for committing a robbery spree on the Red Line late Tuesday night. CWBChicago first reported on the crimes Wednesday afternoon.[](https://cwbchicago.com/2024/09/cops-hunt-3-suspects-in-red-line-robbery-spree.html "Cops hunt 3 suspects in Red Line robbery spree")
+ShotSpotter gunfire detectors earned their keep on Saturday night, pinpointing the location of a mass shooting in Little Village before any 911 calls were received and sending cops to a second “shots fired” incident that ended with a suspect in custody.[](https://cwbchicago.com/2024/09/on-its-last-saturday-night-in-chicago-shotspotter-pinpointed-a-mass-shooting-location-and-helped-cops-catch-a-suspect-in-a-second-shooting.html "On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ishmael-Williams-and-Tamika-Smith-326x245.jpg)](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Tatanisha-Jackson-326x245.jpg)](https://cwbchicago.com/2024/09/17-year-old-murdered-his-mother-while-on-house-arrest-for-pending-juvenile-case-officials-say.html "17-year-old murdered his mother while on house arrest for pending juvenile case, officials say")
 
-Washington Heights
+South Shore
 
-### [Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
+### [17-year-old murdered his mother while on house arrest for pending juvenile case, officials say](https://cwbchicago.com/2024/09/17-year-old-murdered-his-mother-while-on-house-arrest-for-pending-juvenile-case-officials-say.html "17-year-old murdered his mother while on house arrest for pending juvenile case, officials say")
 
-[September 21, 2024 6:47 PM](https://cwbchicago.com/2024/09)
+[September 22, 2024 5:14 AM](https://cwbchicago.com/2024/09)
 
-Officials say a South Side man murdered his girlfriend and then called 911, claiming the bullet that killed her had come through his home window—a story that fell apart when Chicago cops found a shell casing, a spent bullet, and a live bullet lying next to the woman’s body inside his house.[](https://cwbchicago.com/2024/09/man-claimed-bullet-flew-into-his-home-killing-his-girlfriend-so-why-was-the-bullet-and-cartridge-casing-lying-next-to-her.html "Man claimed bullet flew into his home, killing his girlfriend. So why was the bullet and cartridge casing lying next to her?")
+Prosecutors on Saturday accused a 17-year-old boy of murdering his mother in front of other family members while on house arrest for a pending juvenile case.[](https://cwbchicago.com/2024/09/17-year-old-murdered-his-mother-while-on-house-arrest-for-pending-juvenile-case-officials-say.html "17-year-old murdered his mother while on house arrest for pending juvenile case, officials say")
 
 Search
 
