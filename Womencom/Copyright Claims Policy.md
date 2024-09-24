@@ -41,18 +41,18 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+*  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
-    ===================================================================================================================================================================
+    [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    ==============================================================================================================================================================================
     
-    Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
+    Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
     
-    By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
     
 * *  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
         
@@ -66,22 +66,46 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
         
-    *  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+    *  [![The Secret Lives of Mormon wives cast](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-is-teaching-us-how-to-spot-friendship-red-flags/intro-1727127920.jpg)](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
         
-        [Living](https://www.women.com/category/living/)
+        [Relationships](https://www.women.com/category/relationships/)
         
-        [Living](https://www.women.com/category/living/) By Amanda Chatel
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
         
-        ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+        ### [The Secret Lives Of Mormon Wives Is Teaching Us How To Spot Friendship Red Flags](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
         
-        The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
+        The Hulu reality series has reminded us all that no friendship is perfect, but if you're not careful about setting boundaries, things can border on toxic.
         
-        By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+        By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
         
 
 More Stories
 ------------
 
+*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    
+    Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    
+*  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+    
+    The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
+    
 *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/sabrina-carpenter-outfits-that-prove-why-shes-the-new-it-girl/intro-1726692701.jpg)](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     Our girl Zendaya can pull out all the stops when it comes to getting glam, but she can also rock a no makeup look like nobody else.
     
     By Bernadette Roe [Read More](https://www.women.com/1660205/zendaya-makeup-free-stunning/)
-    
-*  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeneys-style-transformation-over-the-years/intro-1725561569.jpg)](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Sydney Sweeney's Style Transformation Over The Years](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
-    
-    "Euphoria" star Sydney Sweeney first appeared on the red carpet at age 13 in a cutesy LBD, but she's stepped up her fashion game since becoming an A-list star.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
-    
-*  [![Taylor Swift looking shocked](https://www.women.com/img/gallery/5-taylor-swift-award-show-outfits-that-totally-missed-the-mark/intro-1725634973.jpg)](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Taylor Swift Award Show Outfits That Totally Missed The Mark](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
-    
-    Taylor Swift has rocked some stunning looks on the red carpet, but not all her outfits have been on-point. These award show styles missed the mark.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
     
 
 Back
