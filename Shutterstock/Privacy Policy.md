@@ -8,13 +8,9 @@
 
 [AI generator](https://www.shutterstock.com/ai-image-generator)
 
-* * *
-
 [Enterprise](https://www.shutterstock.com/business)
 
 [0 Credits Available](https://www.shutterstock.com/pricing)
-
-* * *
 
 [Pricing](https://www.shutterstock.com/pricing)
 
