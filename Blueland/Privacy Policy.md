@@ -25,8 +25,9 @@
 [Blueland](https://www.blueland.com/)
 
 * [Mission](https://www.blueland.com/our-mission)
-* [Account](https://shop.blueland.com/account)
+* [About Us](https://www.blueland.com/about-us)
 
+* [](https://shop.blueland.com/account)
 * 0
     
 
@@ -50,6 +51,7 @@ Toggle navigation menu
 
 * [How It Works](https://www.blueland.com/how-it-works)
 * [Our Mission](https://www.blueland.com/our-mission)
+* [About Us](https://www.blueland.com/about-us)
 * [FAQ](https://help.blueland.com/en-US)
 
 Secondary navigation menu
@@ -397,7 +399,6 @@ By signing up, you consent to our [Privacy Policy](https://www.blueland.com/priv
 * ### Shop
     
     * [All](https://www.blueland.com/collections/all)
-    * [Subscribe & Save](https://www.blueland.com/get-subscription)
     * [Starter Kits](https://www.blueland.com/collections/starter-kits)
     * [Refills](https://www.blueland.com/collections/refills)
     * [Bestsellers](https://www.blueland.com/collections/bestsellers)
@@ -431,7 +432,6 @@ By signing up, you consent to our [Privacy Policy](https://www.blueland.com/priv
 Shop
 
 * [All](https://www.blueland.com/collections/all)
-* [Subscribe & Save](https://www.blueland.com/get-subscription)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
 * [Bestsellers](https://www.blueland.com/collections/bestsellers)
