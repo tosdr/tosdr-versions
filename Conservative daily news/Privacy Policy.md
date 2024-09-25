@@ -1,5 +1,16 @@
 Wednesday, September 25 2024
 
+Breaking News
+
+* [Federal Jury Clears Most ‘Trump Train’ Drivers In 2020 Voter Intimidation Case](https://www.conservativedailynews.com/2024/09/federal-jury-clears-most-trump-train-drivers-in-2020-voter-intimidation-case/)
+* [Harris, Trump Agree To Hold Separate Town Halls On Univision](https://www.conservativedailynews.com/2024/09/harris-trump-agree-to-hold-separate-town-halls-on-univision/)
+* [Middle East Chaos Is All On Biden/Harris](https://www.conservativedailynews.com/2024/09/middle-east-chaos-is-all-on-biden-harris/)
+* [America In The Age Of Stupidity: The Best Way To Stop Illegal Immigration](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-the-best-way-to-stop-illegal-immigration/)
+* [GOP Lawmakers Move To Hold Blinken In Contempt After He Skips Afghanistan Withdrawal Hearing](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
+* [CNN Host Says Her Network’s Poll Has ‘Some Alarming Numbers’ For Harris](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
+* [Facebook’s Election Year Censorship of Conservatives Again](https://www.conservativedailynews.com/2024/09/facebooks-election-year-censorship-of-conservatives-again/)
+* [President Joe Biden’s Schedule for Wednesday, September 25, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-25-2024/)
+
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
 * [Sign In](#)
@@ -100,21 +111,57 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/)
+    
+    [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/)
+    
+    September 25, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
     
     [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
     
     September 23, 2024
     
-* [![Elon Musk](https://www.conservativedailynews.com/wp-content/uploads/2022/01/1280px-Elon_Musk_at_a_Press_Conference-220x150.jpg)](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
-    
-    [Elon Musk Makes His Largest Known Political Donation Ever To Boost House Republicans](https://www.conservativedailynews.com/2024/09/elon-musk-makes-his-largest-known-political-donation-ever-to-boost-house-republicans/)
-    
-    September 21, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/09/federal-jury-clears-most-trump-train-drivers-in-2020-voter-intimidation-case/)
+    
+    [Federal Jury Clears Most ‘Trump Train’ Drivers In 2020 Voter Intimidation Case](https://www.conservativedailynews.com/2024/09/federal-jury-clears-most-trump-train-drivers-in-2020-voter-intimidation-case/)
+    
+    September 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-trump-agree-to-hold-separate-town-halls-on-univision/)
+    
+    [Harris, Trump Agree To Hold Separate Town Halls On Univision](https://www.conservativedailynews.com/2024/09/harris-trump-agree-to-hold-separate-town-halls-on-univision/)
+    
+    September 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5615-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/middle-east-chaos-is-all-on-biden-harris/)
+    
+    [Middle East Chaos Is All On Biden/Harris](https://www.conservativedailynews.com/2024/09/middle-east-chaos-is-all-on-biden-harris/)
+    
+    September 25, 2024
+    
+* [![Kamala Harris hiding basement](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-bk-basment-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cellar-dwellers/)
+    
+    [Cellar Dwellers](https://www.conservativedailynews.com/2024/09/cellar-dwellers/)
+    
+    September 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Illegal-220x150.png)](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-the-best-way-to-stop-illegal-immigration/)
+    
+    [America In The Age Of Stupidity: The Best Way To Stop Illegal Immigration](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-the-best-way-to-stop-illegal-immigration/)
+    
+    September 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/09/doj-files-suit-against-visa-alleges-debit-card-market-monopoly/)
+    
+    [DOJ Files Suit Against Visa, Alleges Debit Card Market Monopoly](https://www.conservativedailynews.com/2024/09/doj-files-suit-against-visa-alleges-debit-card-market-monopoly/)
+    
+    September 25, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2018/12/U.S.-Capitol-flag-at-half-mast.png)](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
     
     [GOP Lawmakers Move To Hold Blinken In Contempt After He Skips Afghanistan Withdrawal Hearing](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
@@ -127,55 +174,19 @@ Recent Posts
     
     September 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/facebook-censorship-600-x-337.jpg)](https://www.conservativedailynews.com/2024/09/facebooks-election-year-censorship-of-conservatives-again/)
-    
-    [Facebook’s Election Year Censorship of Conservatives Again](https://www.conservativedailynews.com/2024/09/facebooks-election-year-censorship-of-conservatives-again/)
-    
-    September 25, 2024
-    
-* [![DOJ Trump pager](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/with-friends-like-these-4/)
-    
-    [With Friends Like These…](https://www.conservativedailynews.com/2024/09/with-friends-like-these-4/)
-    
-    September 25, 2024
-    
-* [![Iran Hezbollah Israel pager](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/get-the-message/)
-    
-    [Get the Message](https://www.conservativedailynews.com/2024/09/get-the-message/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/05/Crazy-Joe-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-25-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, September 25, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-25-2024/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/0824-220x150.jpg)](https://www.conservativedailynews.com/2024/09/can-we-have-an-honest-conversation-about-kamala-harris/)
-    
-    [Can We Have An Honest Conversation About Kamala Harris](https://www.conservativedailynews.com/2024/09/can-we-have-an-honest-conversation-about-kamala-harris/)
-    
-    September 25, 2024
-    
-* [![Russia Putin loves Kamala Harris 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/putins-choice-2/)
-    
-    [Putin’s Choice](https://www.conservativedailynews.com/2024/09/putins-choice-2/)
-    
-    September 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Maryland’s Red Flag Law Challenged in State Supreme Court](https://www.thegunpage.com/marylands-red-flag-law-challenged-in-state-supreme-court/10610807)
+* [Comps are All the Rage! NEW Springfield Armory Echelon Comp 4.5F 9mm](https://www.thegunpage.com/comps-are-all-the-rage-new-springfield-armory-echelon-comp-4-5f-9mm/10610805)
+* [Bait and Switch: Biden Admin Goes After the Wrong People for Deadly Violence in City Streets](https://www.thegunpage.com/bait-and-switch-biden-admin-goes-after-the-wrong-people-for-deadly-violence-in-city-streets/10610802)
+* [GOA & Partner Organizations to Host Active Shooter Response Training in Texas](https://www.thegunpage.com/goa-partner-organizations-to-host-active-shooter-response-training-in-texas/10610801)
+* [Nocpix – A New Brand In Thermal Imaging](https://www.thegunpage.com/nocpix-a-new-brand-in-thermal-imaging/10610806)
+* [Battle For The Future Of The NRA](https://www.thegunpage.com/battle-for-the-future-of-the-nra/10610797)
+* [Savage Revel: A Return To Lever-Actions With New Rimfire Rifle](https://www.thegunpage.com/savage-revel-a-return-to-lever-actions-with-new-rimfire-rifle/10610796)
+* [Committee Passes Resolution To Overturn ATF’s “Engaged In The Business” Rule](https://www.thegunpage.com/committee-passes-resolution-to-overturn-atfs-engaged-in-the-business-rule/10610794)
+* [USA Clay Target League Participation Rises 7 Percent For Fall Season](https://www.thegunpage.com/usa-clay-target-league-participation-rises-7-percent-for-fall-season/10610800)
 * [Biden’s unwillingness to combat gang violence is a deadly disgrace](https://www.thegunpage.com/bidens-unwillingness-to-combat-gang-violence-is-a-deadly-disgrace/10610792)
-* [Review: TriStar Arms Cypher SP](https://www.thegunpage.com/review-tristar-arms-cypher-sp/10610791)
-* [TFB Interview: Raine Peltokoski – World Champion Senior – IPSC](https://www.thegunpage.com/tfb-interview-raine-peltokoski-world-champion-senior-ipsc/10610788)
-* [POTD: Langdon Tactical Limited Edition LTT 92 Elite](https://www.thegunpage.com/potd-langdon-tactical-limited-edition-ltt-92-elite/10610789)
-* [HOT GAT or FUDD CRAP? Day of the Dead or Better Off Unsaid?](https://www.thegunpage.com/hot-gat-or-fudd-crap-day-of-the-dead-or-better-off-unsaid/10610790)
-* [Still Time to Register for the 39th Annual Gun Rights Policy Conference in San Diego](https://www.thegunpage.com/still-time-to-register-for-the-39th-annual-gun-rights-policy-conference-in-san-diego/10610785)
-* [Birmingham Mayor’s Blame Misses the Target Following Mass Shooting](https://www.thegunpage.com/birmingham-mayors-blame-misses-the-target-following-mass-shooting/10610782)
-* [Florida Deputy Kills His Girlfriend While Cleaning Guns](https://www.thegunpage.com/florida-deputy-kills-his-girlfriend-while-cleaning-guns/10610780)
-* [WY: Support Arming School Staff in Converse County](https://www.thegunpage.com/wy-support-arming-school-staff-in-converse-county/10610779)
-* [Canada's Gun Grab Price Tag Continues To Grow](https://www.thegunpage.com/canadas-gun-grab-price-tag-continues-to-grow/10610781)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -214,6 +225,18 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
+
+Recent Comments
+
+* Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
+* KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
+* KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
+* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
+* charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
+* TMann on [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/#comment-782277)
+* charles wilkins on [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/#comment-782273)
+* charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
+* Dr. Ramon Argila deTorres y Sandoval on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782260)
 
 [Close](#)
 
