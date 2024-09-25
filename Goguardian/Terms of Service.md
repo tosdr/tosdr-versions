@@ -30,7 +30,7 @@ Success Stories
 
 Resources
 
-[GoGuardian Blog](https://www.goguardian.com/blog)[Help Center](https://help.goguardian.com/hc/en-us)[Video Training](https://www.goguardian.com/training)[Status Page](https://status.goguardian.com/)[Training & Webinars](https://www.goguardian.com/training-and-webinars)[Federal Funding Resources](#)[Distance Learning Resources](#)[Self Harm & Suicide Prevention](https://www.goguardian.com/suicide-self-harm-resources)[Efficacy](https://www.goguardian.com/efficacy)[Glossary of Technical Terms](https://www.goguardian.com/glossary)
+[GoGuardian Blog](https://www.goguardian.com/blog)[Help Center](https://help.goguardian.com/hc/en-us)[Video Training](https://www.goguardian.com/training)[Status Page](https://status.goguardian.com/)[Training & Webinars](https://www.goguardian.com/training-and-webinars)[Channel Program](https://www.goguardian.com/channel-program)[Self Harm & Suicide Prevention](https://www.goguardian.com/suicide-self-harm-resources)[Efficacy](https://www.goguardian.com/efficacy)[Glossary of Technical Terms](https://www.goguardian.com/glossary)
 
 Company
 
