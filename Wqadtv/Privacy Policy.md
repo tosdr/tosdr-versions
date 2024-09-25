@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef0e2eda-b498-4f0d-92b6-bb28f677c132/20240823T154104/ef0e2eda-b498-4f0d-92b6-bb28f677c132_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef0e2eda-b498-4f0d-92b6-bb28f677c132/20240823T154104/ef0e2eda-b498-4f0d-92b6-bb28f677c132_360x203.jpg)](https://www.wqad.com/article/news/local/contests/grant-a-wish-2024-2025/526-8d114238-68f1-4000-8482-e6f85d0a37be)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c730fd4d-62b5-43d6-b805-55b98cac568e/20240512T031020/c730fd4d-62b5-43d6-b805-55b98cac568e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c730fd4d-62b5-43d6-b805-55b98cac568e/20240512T031020/c730fd4d-62b5-43d6-b805-55b98cac568e_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-island-police-department-defense-skillbridge-military-members-veterans/526-da10119f-403c-41d6-9229-1e2438c50e7a)
         
-        #### [Grant A Wish 2024 - 2025](https://www.wqad.com/article/news/local/contests/grant-a-wish-2024-2025/526-8d114238-68f1-4000-8482-e6f85d0a37be)
+        #### [Rock Island Police partnering with Department of Defense's SkillBridge program](https://www.wqad.com/article/news/local/public-safety/rock-island-police-department-defense-skillbridge-military-members-veterans/526-da10119f-403c-41d6-9229-1e2438c50e7a)
         
-    *  [![](https://media.tegna-media.com/assets/WOI/images/a9bc23d0-2edd-4766-b06d-1907a747942d/20240924T205902/a9bc23d0-2edd-4766-b06d-1907a747942d_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/a9bc23d0-2edd-4766-b06d-1907a747942d/20240924T205902/a9bc23d0-2edd-4766-b06d-1907a747942d_360x203.jpg)](https://www.wqad.com/article/news/local/how-police-determine-whether-school-threats-are-credible/524-804de1f9-2708-43b4-abea-57a458c9542b)
+    *  [![](https://media.tegna-media.com/assets/WLTX/images/574133725/574133725_16x9.jpg) ![](https://media.tegna-media.com/assets/WLTX/images/574133725/574133725_360x203.jpg)](https://www.wqad.com/article/news/local/person-fatally-struck-train-lee-county-illinois/526-b48f3dab-7d8e-4331-ae34-bbac02b5c29c)
         
-        #### [How do police determine whether school threats are credible?](https://www.wqad.com/article/news/local/how-police-determine-whether-school-threats-are-credible/524-804de1f9-2708-43b4-abea-57a458c9542b)
+        #### [Person fatally struck by train in Lee County, Illinois](https://www.wqad.com/article/news/local/person-fatally-struck-train-lee-county-illinois/526-b48f3dab-7d8e-4331-ae34-bbac02b5c29c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fe6e4242-4290-4658-a52a-b8ede20a0fe9/20240925T220735/fe6e4242-4290-4658-a52a-b8ede20a0fe9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fe6e4242-4290-4658-a52a-b8ede20a0fe9/20240925T220735/fe6e4242-4290-4658-a52a-b8ede20a0fe9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Mild temperatures extends through the upcoming weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
         
         #### [Hurricane Helene is official, the potential historic path to the Midwest](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4/20240925T121215/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4/20240925T121215/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [More sunshine and warmer temperatures Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-73°
+75°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
