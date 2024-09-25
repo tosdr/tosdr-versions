@@ -36,18 +36,18 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
-    * [![Use this DeskSense AI assistant for more than ChatGPT in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![This $50 bundle helps you prepare for your CompTIA exams on a budget](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Use this DeskSense AI assistant for more than ChatGPT in this deal](https://www.bleepingcomputer.com/offer/deals/use-this-desksense-ai-assistant-for-more-than-chatgpt-in-this-deal/)
-    * [![Windows 10 KB5043131 update released with 9 changes and fixes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        This $50 bundle helps you prepare for your CompTIA exams on a budget](https://www.bleepingcomputer.com/offer/deals/this-50-bundle-helps-you-prepare-for-your-comptia-exams-on-a-budget/)
+    * [![Google sees 68% drop in Android memory safety flaws over 5 years](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 10 KB5043131 update released with 9 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043131-update-released-with-9-changes-and-fixes/)
-    * [![AutoCanada says ransomware attack ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Google sees 68% drop in Android memory safety flaws over 5 years](https://www.bleepingcomputer.com/news/security/google-sees-68-percent-drop-in-android-memory-safety-flaws-over-5-years/)
+    * [![CISA: Hackers target industrial systems using “unsophisticated methods”](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        AutoCanada says ransomware attack "may" impact employee data](https://www.bleepingcomputer.com/news/security/autocanada-says-ransomware-attack-may-impact-employee-data/)
-    * [![Kansas water plant cyberattack forces switch to manual operations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        CISA: Hackers target industrial systems using “unsophisticated methods”](https://www.bleepingcomputer.com/news/security/cisa-hackers-target-industrial-systems-using-unsophisticated-methods/)
+    * [![Winamp releases source code, asks for help modernizing the player](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Kansas water plant cyberattack forces switch to manual operations](https://www.bleepingcomputer.com/news/security/kansas-water-plant-cyberattack-forces-switch-to-manual-operations/)
+        Winamp releases source code, asks for help modernizing the player](https://www.bleepingcomputer.com/news/software/winamp-releases-source-code-asks-for-help-modernizing-the-player/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -307,12 +307,12 @@ Popular Stories
 * [![Telegram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Windows 10 KB5043131 update released with 9 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043131-update-released-with-9-changes-and-fixes/)
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Mallox ransomware Linux variant based on leaked Kryptina code](https://www.bleepingcomputer.com/news/security/new-mallox-ransomware-linux-variant-based-on-leaked-kryptina-code/)
-* [![Octopus](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    New Octo Android malware version impersonates NordVPN, Google Chrome](https://www.bleepingcomputer.com/news/security/new-octo-android-malware-version-impersonates-nordvpn-google-chrome/)
 
 ##### Follow us:
 
