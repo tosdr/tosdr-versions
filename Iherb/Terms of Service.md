@@ -1720,7 +1720,7 @@ Ihre E-Mail-Adresse wird verwendet, um Ihnen Gesundheits-Newsletter und E-Mails 
 
 * MOBILE APPS
 
-![QR-Code-App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode.png)
+![QR-Code-App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode_9_24_24.png)
 
 [![iHerb App on Google Play Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/google-play-badge.jpg)](https://play.google.com/store/apps/details?id=com.iherb)
 
@@ -1748,7 +1748,7 @@ Diese Website ist durch reCAPTCHA geschützt und es gelten die [Datenschutzricht
 
 * MOBILE APPS
 
-![QR-Code-App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode.png)
+![QR-Code-App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode_9_24_24.png)
 
 [![iHerb App on Google Play Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/google-play-badge.jpg)](https://play.google.com/store/apps/details?id=com.iherb)
 
