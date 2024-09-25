@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 25, 2024](https://www.japantimes.co.jp/archive/2024/09/25/ "archive page")
+[September 26, 2024](https://www.japantimes.co.jp/archive/2024/09/26/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,25 +463,33 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Japan fighters fire flares after Russian military plane enters airspace](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
+[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
 
-  [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
-
-[Moscow and Beijing unlikely to stop testing Tokyo's limits](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
-
-  [![A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.")](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
+  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
 
 [China urges Japan to deal with stabbing 'calmly' as details of motive elude](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
 
   [![Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423527.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
 
+[Moscow and Beijing unlikely to stop testing Tokyo's limits](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
+
+  [![A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.")](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
+
 [Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
 
   [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
 
-[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
+
+[A first look inside the new Nintendo Museum](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
+
+  [![The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423852.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.")](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
+
+[People of all ages and sizes scale new heights amid climbing boom in Japan](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
+
+  [![A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423455.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.")](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
 
 [Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
 
@@ -494,14 +502,6 @@ Revised June 1, 2022
 [Shanshan study spotlights science linking warming to extreme weather](https://www.japantimes.co.jp/environment/2024/09/23/climate-change/climate-change-weather-attribution/ "Shanshan study spotlights science linking warming to extreme weather")
 
   [![A person rides a scooter underneath a fallen pole following Typhoon Shanshan in Miyazaki on Aug. 29 in this screengrab taken from a social media video.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/422753.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A person rides a scooter underneath a fallen pole following Typhoon Shanshan in Miyazaki on Aug. 29 in this screengrab taken from a social media video.")](https://www.japantimes.co.jp/environment/2024/09/23/climate-change/climate-change-weather-attribution/ "Shanshan study spotlights science linking warming to extreme weather")
-
-[Does Shinjiro Koizumi have what it takes to lead Japan?](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/koizumi-buzz/ "Does Shinjiro Koizumi have what it takes to lead Japan?")
-
-  [![Former environment minister Shinjiro Koizumi, a candidate for ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/422978.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former environment minister Shinjiro Koizumi, a candidate for ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/koizumi-buzz/ "Does Shinjiro Koizumi have what it takes to lead Japan?")
-
-[Jimgu: A farm-driven restaurant of outstanding local variety](https://www.japantimes.co.jp/life/2024/09/22/food-drink/jimgu-enowa-farm-yufuin-oita/ "Jimgu: A farm-driven restaurant of outstanding local variety")
-
-  [![Through trial and error, Tashi Gyamtso and his team meticulously selected a variety of herbs and vegetables best suited to Yufuin’s unique altitude, climate and soil conditions — and which now form the backbone of Jimgu's menu.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/421530.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Through trial and error, Tashi Gyamtso and his team meticulously selected a variety of herbs and vegetables best suited to Yufuin’s unique altitude, climate and soil conditions — and which now form the backbone of Jimgu's menu.")](https://www.japantimes.co.jp/life/2024/09/22/food-drink/jimgu-enowa-farm-yufuin-oita/ "Jimgu: A farm-driven restaurant of outstanding local variety")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Why is Taro Kono so unpopular now?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "Why is Taro Kono so unpopular now?")
+
+6 hours ago
+
 [12 referred to prosecutors over alleged horse abuse during Shinto ritual](https://www.japantimes.co.jp/news/2024/09/25/japan/crime-legal/mie-horse-ritual-case-sent-to-prosecutors/ "12 referred to prosecutors over alleged horse abuse during Shinto ritual")
 
-1 hours ago
+7 hours ago
 
 [Expat safety seen as a must for Japanese firms to keep doing business in China](https://www.japantimes.co.jp/news/2024/09/25/japan/crime-legal/china-japanese-businesses/ "Expat safety seen as a must for Japanese firms to keep doing business in China")
 
-1 hours ago
+7 hours ago
 
 [Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
-1 hours ago
+7 hours ago
 
 [Death toll on Noto Peninsula rises to 9 after heavy rain and flooding](https://www.japantimes.co.jp/news/2024/09/25/japan/heavy-rain-noto-peninsula/ "Death toll on Noto Peninsula rises to 9 after heavy rain and flooding")
 
-1 hours ago
-
-[Kioxia reportedly pulls IPO as AI winter looms](https://www.japantimes.co.jp/business/2024/09/25/companies/kioxia-ipo-cancel/ "Kioxia reportedly pulls IPO as AI winter looms")
-
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
