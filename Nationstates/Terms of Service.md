@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [\[QUERY\] Permanent Record Check. (4)](https://forum.nationstates.net/viewtopic.php?t=555765&f=16&view=unread#unread ""[QUERY] Permanent Record Check." (4 posts)")
-* [Does Your Nation Support? (7,977)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (7,977 posts)")
-* [AN Out of Context III (2,711)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (2,711 posts)")
-* [Spell the AN's name wrong. (12,024)](https://forum.nationstates.net/viewtopic.php?t=473890&f=25&view=unread#unread ""Spell the AN's name wrong." (12,024 posts)")
-* [What is your relationship with AU? II (1,753)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (1,753 posts)")
+* [\[REPORT\] Routine action requests (Mov… (8,944)](https://forum.nationstates.net/viewtopic.php?t=473656&f=16&view=unread#unread ""[REPORT] Routine action requests (Moves, Adbots, Spam, etc)" (8,944 posts)")
+* [\[AT VOTE\] Repeal: Condemn the Black H… (173)](https://forum.nationstates.net/viewtopic.php?t=555742&f=24&view=unread#unread ""[AT VOTE] Repeal: Condemn the Black Hawks (#52)" (173 posts)")
+* [Merge the 2 AN's Lore! (5)](https://forum.nationstates.net/viewtopic.php?t=555794&f=25&view=unread#unread ""Merge the 2 AN's Lore!" (5 posts)")
+* [Temu coupon code $100 off \[acq943609\]… (1)](https://forum.nationstates.net/viewtopic.php?t=555796&f=23&view=unread#unread ""Temu coupon code $100 off [acq943609] off new users" (1 post)")
 
 Advertisement
 
