@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [ZooTube365](https://www.somethingawful.com/weekend-web/zootube365/1/)
-* [Sci-Fi vs. Sci-Fi](https://www.somethingawful.com/photoshop-phriday/scifi-vs-scifi/1/)
-* [Yoshi Art and Jeffrey's Love Quest](https://www.somethingawful.com/weekend-web/yoshi-art-jeffreys/1/)
-* [Yahoo Answers Part II](https://www.somethingawful.com/weekend-web/yahoo-answers-part2/1/)
-* [Metal Hell](https://www.somethingawful.com/garbage-day/metal-hell-arsis/1/)
+* [Horrible Tales From A Chinese Restaurant](https://www.somethingawful.com/comedy-goldmine/horrible-tales-from/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Anagrammed Video Games 2 (Part Two)](https://www.somethingawful.com/photoshop-phriday/video-game-anagrams2/1/)
+* [Postcards From the Edge](https://www.somethingawful.com/photoshop-phriday/postcards-from-edge/1/)
+* [Fast Food Reviews](https://www.somethingawful.com/weekend-web/fast-food-reviews/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Stuff that gets an overly bad rap but really isnt that terrible](http://forums.somethingawful.com/showthread.php?threadid=4071105 "Stuff that gets an overly bad rap but really isnt that terrible")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Police Chase!](http://forums.somethingawful.com/showthread.php?threadid=4071138 "Police Chase!")
 
 ### Random Articles
 
-* [What Your Flannel Says About You](https://www.somethingawful.com/news/flannel-fashion-choices/)
-* [Board Games 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/board-games-part/1/)
-* [Devil's Manor: The Hottest Babe in Town](https://www.somethingawful.com/news/devils-manor-2/)
-* [Stephen King's The Vessel](https://www.somethingawful.com/awful-movie-database/magical-retard-child/)
-* [Ask Jeff K. Shut up, shut up, SHUT UP!!!](https://www.somethingawful.com/feature-articles/ask-jeff-shut/1/)
+* [Ron Paulitics](https://www.somethingawful.com/great-goon-database/great-goon-politics/1/)
+* [Baseball Cards](https://www.somethingawful.com/news/baseball-cards/)
+* [CONEX Convict Connections: "Unearthly Delights"](https://www.somethingawful.com/news/conex-unearthly-delights/1/)
+* [Monsters on Holiday!](https://www.somethingawful.com/photoshop-phriday/monsters-villains-vacation/1/)
+* [The Klurfs - Love](https://www.somethingawful.com/flash-tub/klurfs-love-cartoon/)
 
 [Random!](https://www.somethingawful.com/random/)
 
