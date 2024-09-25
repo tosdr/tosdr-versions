@@ -18,15 +18,13 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 100-day risk-free trial and US-based customer support!
 
-[Fall colors are fading!Fall colors are fading!Fall colors are fading! **Sale ends in 2d : 19h : 30m**](https://www.listenlively.com/product)
+[Fall colors are fading!Fall colors are fading!Fall colors are fading! **Sale ends in 2d : 13h : 20m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -222,6 +220,21 @@ Next
 * Advanced acoustics
 
 [Shop now](https://www.listenlively.com/product/enhanceselect500)
+
+Get personalized care with our Premium Package
+----------------------------------------------
+
+### Programmed for you
+
+Hearing aids custom-programmed to your unique hearing needs based on your online test results or audiogram.
+
+### Care from your couch
+
+Video chat with a licensed hearing specialist about your hearing and hearing aids, as often as needed.
+
+### Adjustments made by experts
+
+If you're having an issue, our Audiology Team will tweak your hearing aids via the app, from anywhere.
 
 The reviews are in
 ------------------
