@@ -121,7 +121,7 @@ See plan benefits, coverage areas, get a quote and more.
 ### Our Plans
 
 * [Medicaid Managed Care](https://www.fideliscare.org/Shop-For-A-Plan/Our-Plans/Medicaid-Managed-Care)
-* [Essential Plan](https://www.fideliscare.org/Shop-For-A-Plan/Our-Plans/Essential-Plan)
+* [New York Essential Plan](https://www.fideliscare.org/Shop-For-A-Plan/Our-Plans/New-York-Essential-Plan)
 * [Child Health Plus](https://www.fideliscare.org/Shop-For-A-Plan/Our-Plans/Child-Health-Plus)
 * [Qualified Health Plans](https://www.fideliscare.org/Shop-For-A-Plan/Our-Plans/Ambetter-Qualified-Health-Plans)
 * [HealthierLife (HARP)](https://www.fideliscare.org/Shop-For-A-Plan/Our-Plans/Healthier-Life)
