@@ -1,6 +1,6 @@
 [Zum Inhalt wechseln](#content)
 
-[![](https://i0.wp.com/unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png?fit=400%2C118&ssl=1)](https://unternehmen.geizhals.at/)
+[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png)](https://unternehmen.geizhals.at/)
 
 * [Über Geizhals](https://unternehmen.geizhals.at/)
 * [Das Team](https://unternehmen.geizhals.at/das-team/)
@@ -547,13 +547,13 @@ The controller shall communicate any rectification or erasure of personal data o
 
 We reserve the right to amend the Privacy Policy and Conditions of Use at any time, if the technical conditions or the legal requirements change.
 
-[![](https://i0.wp.com/unternehmen.geizhals.at/wp-content/uploads/2020/07/apple-appstore-badge.png?fit=300%2C116&ssl=1)](https://apps.apple.com/at/app/geizhals-preisvergleich/id440214693)
+[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/apple-appstore-badge-300x116.png)](https://apps.apple.com/at/app/geizhals-preisvergleich/id440214693)
 
-[![](https://i0.wp.com/unternehmen.geizhals.at/wp-content/uploads/2020/07/google-play-badge.png?fit=300%2C116&ssl=1)](https://play.google.com/store/apps/details?id=at.geizhals.pv)
+[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/google-play-badge-300x116.png)](https://play.google.com/store/apps/details?id=at.geizhals.pv)
 
-[![](https://i0.wp.com/unternehmen.geizhals.at/wp-content/uploads/2020/07/Badge-Black-e1610035708666.png?fit=300%2C90&ssl=1)](https://appgallery.huawei.com/#/app/C101191757)
+[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/Badge-Black-300x90.png)](https://appgallery.huawei.com/#/app/C101191757)
 
-[![](https://i0.wp.com/unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png?fit=400%2C118&ssl=1)](https://unternehmen.geizhals.at/)
+[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png)](https://unternehmen.geizhals.at/)
 
 Geizhals ist ein unabhängiges Preis- und Produktvergleichs-Portal, das mittels detaillierter Filter und vielfältiger Features eine optimale Hilfestellung bei der Kaufentscheidung bietet.
 
