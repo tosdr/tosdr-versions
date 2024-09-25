@@ -70,8 +70,6 @@ When visitors leave comments on the site we collect the data shown in the commen
 * [](https://www.facebook.com/BeWhaleWise/ "Facebook")
 * [](https://twitter.com/thewhalemuseum/ "Twitter")
 
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
-
-\[contact-form-7 404 "Not Found"\]
+**Error:** Contact form not found.
 
 ×
