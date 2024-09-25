@@ -176,7 +176,7 @@ RESPONSIBILITIES OF CUSTOMER
 
 ### Use of the Services
 
-Customer, including its Authorized Users, must at all times comply with the Contract and the [Acceptable Use Policy](https://www.synthesia.io/legal/acceptable-use-policy). As further described in our [Help Center](https://help.synthesia.io/en/articles/6341934-guide-to-content-moderation) and the below section titled “Further Artificial Intelligence Assurances,” we may review conduct for compliance purposes and in order to uphold our AI Principles, including to maintain our AI Safeguards. Customer, and not Synthesia, is responsible for ensuring that (a) its use of the Services, including its use, processing and generation of any content therewith, is in compliance with applicable law, and (b) all Authorized Users are over the applicable statutory legal age.
+Customer, including its Authorized Users, must at all times comply with the Contract and the [Acceptable Use Policy](https://www.synthesia.io/legal/acceptable-use-policy). As further described in our [Help Center](https://help.synthesia.io/en/articles/6341934-guide-to-content-moderation) and the below section titled “Further Artificial Intelligence Assurances,” we may review conduct for compliance purposes and in order to uphold our AI Principles. Customer, and not Synthesia, is responsible for ensuring that (a) its use of the Services, including its use, processing and generation of any content therewith, is in compliance with applicable law, and (b) all Authorized Users are over the applicable statutory legal age.
 
 ### Responsibilities To, and For, Authorized Users 
 
@@ -226,7 +226,7 @@ We will comply with those laws applicable to our provisioning of the Services to
 
 ### Further Artificial Intelligence Assurances 
 
-We will in good faith and all material regards, implement into our practices, and design into our products, the ‘Consent, Control and Collaboration’ principles described in our [Help Center](https://www.synthesia.io/ethics), as updated from time-to-time (the “**AI Principles**”). These AI Principles will include policies and practices designed to protect the trust, safety and integrity of the Services (“**AI Safeguards**”). Further, in accordance with the below section titled “Our Indemnification of Customer,” we will defend and indemnify Customer for any Claims Against Customer that constitute third party copyright infringement claims arising from our creation or development of any artificial intelligence components of the Services. This indemnification obligation is referred to herein as our “**AI Copyright Pledge**”.
+We will in good faith and all material regards, implement into our practices, and design into our products, the principles described in our [AI Governance Practices page](http://www.synthesia.io/legal/ai-governance-practices), as updated from time-to-time (our “**AI Principles**”). Further, in accordance with the below section titled “Our Indemnification of Customer,” we will defend and indemnify Customer for any Claims Against Customer that constitute third party copyright infringement claims arising from our creation or development of any artificial intelligence components of the Services. This indemnification obligation is referred to herein as our “**AI Copyright Pledge**”.
 
 HIGHLIGHTED VIDEO
 
@@ -241,7 +241,7 @@ OWNERSHIP AND PROPRIETARY RIGHTS
 
 ### What’s Yours is Yours…
 
-As between us on the one hand, and Customer and its Authorized Users on the other, Customer will own all Customer Data, but excluding the components of the Services and Synthesia Content. Subject to the terms and conditions of the Contract, Customer (for itself and all of its Users) grants us and the Synthesia Extended Family a worldwide, non-exclusive, limited term license to access, use, process, copy, distribute, perform, export and display Customer Data, Custom Avatars and any Non-Synthesia Products created or deployed by or for Customer, only as reasonably necessary (a) to provide, maintain and improve the Services, including the AI Safeguards; (b) to prevent or address service, security, support or technical issues; (c) as required by law, to prevent fraud, or as permitted by the [Data Request Policy](https://www.synthesia.io/legal/data-request-policy); and (d) as expressly permitted in writing by Customer.
+As between us on the one hand, and Customer and its Authorized Users on the other, Customer will own all Customer Data, but excluding the components of the Services and Synthesia Content. Subject to the terms and conditions of the Contract, Customer (for itself and all of its Users) grants us and the Synthesia Extended Family a worldwide, non-exclusive, limited term license to access, use, process, copy, distribute, perform, export and display Customer Data, Custom Avatars and any Non-Synthesia Products created or deployed by or for Customer, only as reasonably necessary (a) to provide, maintain and improve the Services; (b) to prevent or address service, security, support or technical issues; (c) as required by law, to prevent fraud, or as permitted by the [Data Request Policy](https://www.synthesia.io/legal/data-request-policy); and (d) as expressly permitted in writing by Customer.
 
 ### And What’s Ours is Ours
 
