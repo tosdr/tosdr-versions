@@ -291,15 +291,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5129%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1326bd373068c51e4eb0e32f0ae9abb9d68cda14)](https://www.afr.com/technology/the-five-most-powerful-australian-tech-leaders-in-2024-20240902-p5k7ag)
+[![Mark Delaney, Debby Blakey, Matt Comyn.
+](https://static.ffx.io/images/$zoom_0.6775%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_11%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/17c1e39bb406ef270e387877cfc6e169f21a7783)](https://www.afr.com/companies/financial-services/power-list-reveals-diminished-influence-of-australia-s-corporate-sector-20240905-p5k87y)
 
-### [The five most powerful Australian tech leaders in 2024](https://www.afr.com/technology/the-five-most-powerful-australian-tech-leaders-in-2024-20240902-p5k7ag)
+### [Power list reveals diminished influence of Australia’s corporate sector](https://www.afr.com/companies/financial-services/power-list-reveals-diminished-influence-of-australia-s-corporate-sector-20240905-p5k87y)
 
-* Paul Smith
+* James Thomson
 
-* ### [The 10 most culturally powerful people in Australia in 2024](https://www.afr.com/life-and-luxury/arts-and-culture/the-10-most-culturally-powerful-people-in-australia-in-2024-20240828-p5k625)
+* ### [Australia’s 10 most powerful business leaders in 2024](https://www.afr.com/policy/economy/australia-s-10-most-powerful-business-leaders-in-2024-20240902-p5k744)
     
-* ### [Australia’s most powerful people in property for 2024](https://www.afr.com/property/commercial/australia-s-most-powerful-people-in-property-for-2024-20240823-p5k4td)
+* ### [Australia’s top five powerbrokers in the law for 2024](https://www.afr.com/companies/professional-services/australia-s-top-five-powerbrokers-in-the-law-for-2024-20240823-p5k4og)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -319,15 +320,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3263%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_137%2C$y_501/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/63fbf8d79fab44309192d66fe4c1e29e91112cc3)](https://www.afr.com/technology/can-a-robot-be-too-human-this-one-can-20240918-p5kbm5)
+[![ ](https://static.ffx.io/images/$zoom_0.5413%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_383/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/35263ea407f864e7f9d0c4aae47bbab81ff81bce)](https://www.afr.com/life-and-luxury/fashion-and-style/everyday-objects-that-will-give-you-and-your-home-a-lift-20240918-p5kbhu)
 
-### [Can a robot be too human? This one can](https://www.afr.com/technology/can-a-robot-be-too-human-this-one-can-20240918-p5kbm5)
+### [Everyday objects that will give you and your home a lift](https://www.afr.com/life-and-luxury/fashion-and-style/everyday-objects-that-will-give-you-and-your-home-a-lift-20240918-p5kbhu)
 
-* John Davidson
+* Eugenie Kelly
 
-* ### [If you don’t know about fiano yet, it won’t be long](https://www.afr.com/life-and-luxury/food-and-wine/if-you-don-t-know-about-fiano-yet-it-won-t-be-long-20240918-p5kblq)
+* ### [Dolce&Gabbana CEO in Australia to party and sell the dream](https://www.afr.com/life-and-luxury/fashion-and-style/dolce-and-gabbana-ceo-in-australia-to-party-and-sell-the-dream-20240918-p5kbh6)
     
-* ### [Our fashion editor’s guide to shopping in New York City](https://www.afr.com/life-and-luxury/fashion-and-style/our-fashion-editor-s-guide-to-shopping-in-new-york-city-20240916-p5kavh)
+* ### [This is one of the quietest cars we’ve ever driven](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-is-one-of-the-quietest-cars-we-ve-ever-driven-20240905-p5k80h)
     
 
 [Rich List](https://www.afr.com/rich-list)
