@@ -58,13 +58,13 @@ Company
 
 From our blog
 
+[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66f40d53b4e0f5a4581f0e54_serasa-drives-119-more-events-with-app-retargeting.png)
+
+Serasa drives 119% more events with App Retargeting](https://jampp.com/blog/serasa-drives-119-more-events-with-app-retargeting)
+
 [![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66a267fd48b621dbbfe43e10_jampp-joins-adjusts-growth-lab-in-buenos-aires.png)
 
 Jampp joins Adjust’s Growth Lab in Buenos Aires](https://jampp.com/blog/jampp-joins-adjusts-growth-lab-in-buenos-aires)
-
-[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66846241c83ce5e180c3b71c_5-best-practices-for-a-successful-user-acquisition-strategy.png)
-
-5 best practices for a successful User Acquisition strategy](https://jampp.com/blog/5-best-practices-for-a-successful-user-acquisition-strategy)
 
 [ Login](https://auth.jampp.com/login?redirect=https%3A%2F%2Fdashboard.jampp.com%2F)[Contact Sales](https://jampp.com/contact)
 
