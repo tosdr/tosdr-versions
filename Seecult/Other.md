@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit/otvaranje-16.jpg?itok=jC_oosQ7)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike/paintings/afrika.jpg?itok=EjxmpWJ9)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bryan-ferry/feri1a.jpg?itok=cqv3Z9QM)](http://seecult.org/galerija/foto-galerija/foto-arhiva/bryan-ferry)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/perspektivni4.jpg?itok=rWtyfsPX)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
