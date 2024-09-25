@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/02/starbase12-768x540.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
+
+### [Ops crew faces Starfleet flagship in epic showdown](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
+
+Federation News Service September 25, 2024
+
+SECTOR 001 – The crew of StarBase 118 Ops played a critical role in stopping the assimilated Enterprise-F as it attempted to destroy Spacedock and
+
+[Read More »](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
 
 ### [Ship Closeup – USS Ronin](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
@@ -373,18 +385,6 @@ Federation News Service September 23, 2024
 ALPHA QUADRANT – Although the Borg-Changeling plot has been decisively thwarted, those formerly assimilated struggle to recover as they work to rebuild Sol Station and
 
 [Read More »](https://www.starbase118.net/2024/frontier-day-aftermath-assimilated-grapple-with-recovery-amid-rebuilding-efforts/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
-
-### [The Nightmare Has Ended: USS Artemis Undergoes Extensive Repairs After Harrowing Frontier Day Debacle](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
-
-Federation News Service September 21, 2024
-
-SOL SYSTEM – The USS Artemis-A (NCC-81287) remains on station near Earth as it undergoes extensive repairs in the wake of the Frontier Day disaster.
-
-[Read More »](https://www.starbase118.net/2024/the-nightmare-has-ended-uss-artemis-undergoes-extensive-repairs-after-harrowing-frontier-day-debacle/)
 
 Ready to get started?
 ---------------------
