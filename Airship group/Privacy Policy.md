@@ -1,39 +1,61 @@
  [![Airship](https://www.airship.com/wp-content/uploads/2024/07/Airship-logo-navigation.png) ![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
 
-* Product
+* Platform
     
     [Get Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
     
-    Product
+    Customer Experience Platform
     
-    * [Cross-Channel Orchestration](https://www.airship.com/product/cross-channel-orchestration/)
+    * [Orchestrate Customer Journeys](https://www.airship.com/product/cross-channel-orchestration/)
         
-        Create and manage customer journeys across all channels, from one place
+        Create and manage customer journeys across all channels and experiences from one place
         
-    * [Personalization](https://www.airship.com/product/personalization)
+        [Journeys](https://www.airship.com/product/cross-channel-orchestration/journeys/)
         
-        Tailor experiences for every audience segment including audiences of one, all in real-time
+        [Channel Coordination](https://www.airship.com/platform/app-experience-platform/unified-channel-coordination/)
         
-    * [Experimentation](https://www.airship.com/product/experimentation)
+        [Audience Segmentation](https://www.airship.com/platform/app-experience-platform/segmentation/)
         
-        Test and optimize the performance of every audience segment, journey, feature, experience and message
+    * [Fine-Tune with Experimentation](https://www.airship.com/product/experimentation/)
+        
+        Test and optimize the performance of every segment, journey, feature, experience and message
+        
+        [Holdout Experiments](https://www.airship.com/product/experimentation/holdout-experiments/)
+        
+        [A/B Testing](https://www.airship.com/product/experimentation/ab-testing/)
+        
+        [Feature Flags](https://www.airship.com/product/experimentation/feature-flags/)
+        
+    * [Enrich Customer Data](https://www.airship.com/product/data-enrichment-and-collection/)
+        
+        Capture, sync and augment customer data to create relevant customer experiences
+        
+        [RTDS](https://www.airship.com/platform/app-experience-platform/real-time-data-streaming/)
+        
+        [Integrations](https://www.airship.com/solutions/partners/)
+        
+        [Performance Analytics](https://www.airship.com/product/ai-and-analytics/performance-analytics/)
         
     * [AI & Analytics](https://www.airship.com/product/ai-and-analytics/)
         
-        Analyze user-level data and optimize engagement with Generative and Predictive AI
+        Drive more engagement with Airship's Generative and Predictive AI
+        
+        [Journeys AI](https://airship.com/product/journeys-ai/)
+        
+        [Generative & Predictive AI](https://www.airship.com/platform/app-experience-platform/predictive-ai/)
         
     
-    * [App Store Optimization (ASO)](https://www.airship.com/product/app-store-optimization/)
+    * [Build No-Code Experiences](https://www.airship.com/product/App-Experience-Editor/)
         
-        Increase visibility and conversion rates in the app stores
+        Create native customer experiences once and deploy to the app, web and everywhere in between - No developers required
         
-    * [No-Code Experience Editor](https://www.airship.com/platform/app-experience-platform/App-Experience-Editor/)
+    * [Hyper-Personalize Experiences](https://www.airship.com/product/personalization/)
         
-        Create native customer experiences once, publish everywhere — no developer support required
+        Tailor experiences for every audience segment, including audiences of one, all in real time
         
-    * [Data Collection & Enrichment](https://www.airship.com/product/data-enrichment-and-collection/)
+    * [Boost Customer Acquisition](https://www.airship.com/product/app-store-optimization/)
         
-        Capture and seamlessly stream real-time data in and out of Airship.
+        Optimize app store listings to increase visibility and downloads
         
     
     Channels
@@ -46,17 +68,14 @@
         
     * [Email](https://www.airship.com/product/channels/email)
         
-    * [Web Notifications](https://www.airship.com/product/channels/web-notifications/)
+    * [Web
+        
+        NEW](https://www.airship.com/web-experiences/)
         
     * [Mobile Wallet](https://www.airship.com/product/channels/mobile-wallet/)
         
     
-    ![](https://www.airship.com/wp-content/uploads/2024/06/Airship-Spring-Launch-Webinar-Feature-Navigation-Image-2.png)
-    
-    * [3 Ways Marketers Can Gain More Ease, Freedom and Control.](https://www.airship.com/events/3-ways-marketers-can-gain-more-ease-freedom-and-control/)
-        
-        Watch our webinar and learn how to use these exciting new feature enhancements.
-        
+    [![](https://www.airship.com/wp-content/uploads/2024/09/Airship-Fall-Launch-LinkedI-Live-Navigation-Banner.png)](https://www.linkedin.com/events/7244404083065786369/about/)
     
 * Solutions
     
