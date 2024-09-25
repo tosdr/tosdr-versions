@@ -310,7 +310,7 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 
 Bear in mind that all of the examples you see on this website are just that — examples. Really, they're just here to show you how our platform works. So, don't take them as advice, instruction, or guidance. The examples presented on this website, are only to be regarded as a technical demonstration when used with the trading system. Accordingly, these examples should not be in any way construed as recommending any type of trading strategy and they do not constitute any form of advice as the advisability of investing by the use of any trading strategy. Any Investor who uses the trading strategy must build a trading strategy on the basis of independent testing and according to his / her specific requirements and needs.
 
-[Get The App](http://onelink.to/xsssba)
+[Get Started](https://capitalise.ai/getstarted/)
 
 This website uses cookies to ensure you get the best experience on our website.
 -------------------------------------------------------------------------------
