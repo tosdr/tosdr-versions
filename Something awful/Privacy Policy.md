@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Animal Human Hybrids](https://www.somethingawful.com/comedy-goldmine/animal-human-hybrids/1/)
-* [Jump the Shark, Owl Fantasy and Warrior Matrix](https://www.somethingawful.com/weekend-web/jumptheshark-owls-orgonite/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Advanced Dungeons & Dragons: 1st Edition Fiend Folio (part 2)](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-2/1/)
-* [When Bad Tattoos Become Real!](https://www.somethingawful.com/photoshop-phriday/bad-tattoos-real/)
+* [ZooTube365](https://www.somethingawful.com/weekend-web/zootube365/1/)
+* [Sci-Fi vs. Sci-Fi](https://www.somethingawful.com/photoshop-phriday/scifi-vs-scifi/1/)
+* [Yoshi Art and Jeffrey's Love Quest](https://www.somethingawful.com/weekend-web/yoshi-art-jeffreys/1/)
+* [Yahoo Answers Part II](https://www.somethingawful.com/weekend-web/yahoo-answers-part2/1/)
+* [Metal Hell](https://www.somethingawful.com/garbage-day/metal-hell-arsis/1/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Planet Church (Thanks, Shed!)](https://www.somethingawful.com/awful-links/planet-church-666/)
-* [The Basement Dance Studio (Thanks, theguyincorner!)](https://www.somethingawful.com/awful-links/basement-dance-studio/)
-* [Hating Anime Haters](https://www.somethingawful.com/webcam-ward/animerant/)
-* [The Perilous Perils of Climate Calamity](https://www.somethingawful.com/news/perilous-perils-climate/)
-* [A Solemn Moment of Silence for Those Who Have Fallen](https://www.somethingawful.com/news/solemn-moment-silence/)
+* [What Your Flannel Says About You](https://www.somethingawful.com/news/flannel-fashion-choices/)
+* [Board Games 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/board-games-part/1/)
+* [Devil's Manor: The Hottest Babe in Town](https://www.somethingawful.com/news/devils-manor-2/)
+* [Stephen King's The Vessel](https://www.somethingawful.com/awful-movie-database/magical-retard-child/)
+* [Ask Jeff K. Shut up, shut up, SHUT UP!!!](https://www.somethingawful.com/feature-articles/ask-jeff-shut/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
