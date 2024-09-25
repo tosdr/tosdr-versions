@@ -25,7 +25,7 @@ Select a School
 * [Bastian Elementary School](https://www.houstonisd.org/Domain/12257)
 * [Baylor College of Medicine Academy at James D Ryan MS](https://www.houstonisd.org/Domain/7994)
 * [Baylor College of Medicine Biotech Academy at Rusk](https://www.houstonisd.org/Domain/649)
-* [Bell Elementary](https://www.houstonisd.org/Domain/630)
+* [Kate Bell Elementary](https://www.houstonisd.org/Domain/630)
 * [Bellaire High School](https://www.houstonisd.org/Domain/23415)
 * [Bellfort Early Childhood Center](https://www.houstonisd.org/Domain/13023)
 * [Benavidez Elementary](https://www.houstonisd.org/Domain/15)
