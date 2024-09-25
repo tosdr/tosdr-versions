@@ -12,6 +12,7 @@
     * [FAQ for companies](https://lemon.io/support-help-faq/)
     * [Case studies](https://lemon.io/case-studies/)
     * [Testimonials](https://www.trustpilot.com/review/lemon.io)
+    * [How we vet developers](https://lemon.io/our-vetting-process)
 * [Services](#)
     * [Hire by role](#)
         * [Hire Full-stack developers](https://lemon.io/hire/full-stack-developers/)
