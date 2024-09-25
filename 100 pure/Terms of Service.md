@@ -68,7 +68,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-94 reviews (94)
+95 reviews (95)
 
 $72.00
 
@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2388 reviews (2388)
+2389 reviews (2389)
 
 $28.00 $28.00
 
@@ -180,7 +180,7 @@ CHOOSE Color
 
 ### [Watermelon Cucumber Water Locking Mist](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
-42 reviews (42)
+43 reviews (43)
 
 $25.00
 
@@ -194,7 +194,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-364 reviews (365)
+366 reviews (366)
 
 $7.00 $32.00
 
