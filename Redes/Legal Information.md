@@ -106,15 +106,15 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros d
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
-![Smart City Expo World Congress 2024](/sites/redes/files/styles/ratio_1_1/public/media/images/SC_NOTIWEB.png?h=b878dce1&itok=jWdH64nl)   
+![](/sites/redes/files/styles/ratio_1_1/public/media/images/visita%20almendralejo%20iria%204.jpg?h=0803a682&itok=FyiBiEOD)   
 
 Noticia
 
-Internacionalización
+Emprendimiento
 
-Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
+Red.es inaugura IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo
 
-[Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
+[Red.es inaugura IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: Red.es inaugura IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo")
 
 Noticia
 
@@ -126,11 +126,11 @@ Desafía Nórdicos lanza su segunda edición para potenciar el talento de las st
 
 Noticia
 
-Infraestructuras de Telecomunicaciones
+Internacionalización
 
-Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos
+Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
 
-[Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos](http://red.es/es/actualidad/noticias/redes-bono-de-conectividad-pymes-y-autonomos "Ir al contenido de: Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos")
+[Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
