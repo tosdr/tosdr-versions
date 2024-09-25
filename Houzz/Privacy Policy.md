@@ -481,7 +481,21 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Trending in Kitchen & Tabletop](https://www.houzz.com/shop-houzz/kitchen)
 * [View All Kitchen & Tabletop](https://www.houzz.com/products/kitchen-and-dining)
 
-* [Home Bar](https://www.houzz.com/products/home-bar-products)
+* Shop by Style
+* [Modern Products](https://www.houzz.com/products/modern)
+* [Contemporary Products](https://www.houzz.com/products/contemporary)
+* [Farmhouse Products](https://www.houzz.com/products/farmhouse)
+* [Mid-Century Modern Products](https://www.houzz.com/products/mid-century-modern)
+* [Coastal Products](https://www.houzz.com/products/coastal)
+
+* Furniture by Style
+* [Modern Furniture](https://www.houzz.com/products/modern/furniture)
+* [Contemporary Furniture](https://www.houzz.com/products/contemporary/furniture)
+* [Farmhouse Furniture](https://www.houzz.com/products/farmhouse/furniture)
+* [Mid-Century Modern Furniture](https://www.houzz.com/products/mid-century-modern/furniture)
+* [Coastal Furniture](https://www.houzz.com/products/coastal/furniture)
+
+* [Home Bar](https://www.houzz.com/products/kitchen-and-dining-furniture)
 
 * [Storage & Organization](https://www.houzz.com/products/storage-and-organization)
 
@@ -561,7 +575,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28781313/pic/houzz_logo.svg?v=28781313)
+![Houzz Logo Print](//www.houzz.com/res/28786866/pic/houzz_logo.svg?v=28786866)
 
 **PRIVACY POLICY**
 ==================
