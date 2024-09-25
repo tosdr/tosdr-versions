@@ -1,6 +1,6 @@
 * **New Fall Hours Begin on Sept. 25**
     
-    We will transition to our fall hours schedule beginning Wednesday, Sept. 25. For more information and complete fall hours schedules, visit [www.spl.org/FallHours](https://www.spl.org/FallHours). 
+    We will transition to the fall hours schedule beginning Wednesday, Sept. 25. For more information and complete fall hours schedules, visit [www.spl.org/FallHours](https://www.spl.org/FallHours). 
 
 [Skip to Main Content](https://www.spl.org/about-us/policies/confidentiality-of-patron-information#main-content)
 
