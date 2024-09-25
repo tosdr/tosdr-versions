@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![МГЕР и Компартия Китая договорились о расширении сотрудничества в области молодёжной политики](https://cdn.er.ru/media/news/September2024/QCMLIYNv9CzWykS0N0Ty-small.jpg)](https://er.ru/activity/news/mger-i-kompartiya-kitaya-dogovorilis-o-rasshirenii-sotrudnichestva-v-oblasti-molodyozhnoj-politiki)
+[![Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
 
-[МГЕР и Компартия Китая договорились о расширении сотрудничества в области молодёжной политики](https://er.ru/activity/news/mger-i-kompartiya-kitaya-dogovorilis-o-rasshirenii-sotrudnichestva-v-oblasti-molodyozhnoj-politiki)
+[Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
 
-24.09.24
+Сегодня 12:51
 
-[![Юлия Дрожжина: Правовые нормы, инициированные «Единой Россией», дадут подросткам новые возможности для самореализации](https://cdn.er.ru/media/news/September2024/I6IVaMD3Lvz3N2aOof8q-small.jpg)](https://er.ru/activity/news/yuliya-drozhzhina-pravovye-normy-iniciirovannye-edinoj-rossiej-dadut-podrostkam-novye-vozmozhnosti-dlya-samorealizacii)
+[![Ирина Яровая: Законопроекты «Единой России» системно направлены на реализацию обозначенной Президентом стратегии по защите семьи](https://cdn.er.ru/media/news/September2024/LijuVd6xvuIjwji620Y1-small.jpg)](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-edinoj-rossii-sistemno-napravleny-na-realizaciyu-oboznachennoj-prezidentom-strategii-po-zashite-semi)
 
-[Юлия Дрожжина: Правовые нормы, инициированные «Единой Россией», дадут подросткам новые возможности для самореализации](https://er.ru/activity/news/yuliya-drozhzhina-pravovye-normy-iniciirovannye-edinoj-rossiej-dadut-podrostkam-novye-vozmozhnosti-dlya-samorealizacii)
+[Ирина Яровая: Законопроекты «Единой России» системно направлены на реализацию обозначенной Президентом стратегии по защите семьи](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-edinoj-rossii-sistemno-napravleny-na-realizaciyu-oboznachennoj-prezidentom-strategii-po-zashite-semi)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#сменапола](https://er.ru/activity/news?tags%5B0%5D=1094236) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
-24.09.24
+Сегодня 11:20
 
-[![Госдума приняла в первом чтении законопроект «Единой России» о запрете членства иноагентов в Общественной палате](https://cdn.er.ru/media/news/September2024/twIk7k2fqSVq9teXMzEq-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-chlenstva-inoagentov-v-obshestvennoj-palate)
+[![Александр Мажуга: По инициативе «Единой России» в системе высшего, общего и среднего профессионального образования создадут федеральные учебно-методические объединения](https://cdn.er.ru/media/news/September2024/BeOTcHgWIpS4R6JC6Gda-small.jpg)](https://er.ru/activity/news/aleksandr-mazhuga-po-iniciative-edinoj-rossii-v-sisteme-vysshego-obshego-i-srednego-professionalnogo-obrazovaniya-sozdadut-federalnye-uchebno-metodicheskie-obedineniya)
 
-[Госдума приняла в первом чтении законопроект «Единой России» о запрете членства иноагентов в Общественной палате](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-chlenstva-inoagentov-v-obshestvennoj-palate)
+[Александр Мажуга: По инициативе «Единой России» в системе высшего, общего и среднего профессионального образования создадут федеральные учебно-методические объединения](https://er.ru/activity/news/aleksandr-mazhuga-po-iniciative-edinoj-rossii-v-sisteme-vysshego-obshego-i-srednego-professionalnogo-obrazovaniya-sozdadut-federalnye-uchebno-metodicheskie-obedineniya)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Общественнаяпалата](https://er.ru/activity/news?tags%5B0%5D=106303) [#иноагенты](https://er.ru/activity/news?tags%5B0%5D=113026)
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФГОС](https://er.ru/activity/news?tags%5B0%5D=48505) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#специалисты](https://er.ru/activity/news?tags%5B0%5D=1722)
 
-24.09.24
+Сегодня 11:15
 
-[![Госдума приняла в первом чтении законопроект «Единой России» о праве несовершеннолетних работать в студотрядах в выходные дни и период каникул](https://cdn.er.ru/media/news/September2024/1908X0Gpr84xmABaId57-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-nesovershennoletnih-rabotat-v-studotryadah-v-vyhodnye-dni-i-period-kanikul)
+[![Врио секретаря Генсовета «Единой России» Владимир Якушев избран первым вице-спикером Совета Федерации](https://cdn.er.ru/media/news/September2024/VtDdNgMhXyyqAcKzhCzE-small.JPG)](https://er.ru/activity/news/vrio-sekretarya-gensoveta-edinoj-rossii-vladimir-yakushev-izbran-pervym-vice-spikerom-soveta-federacii)
 
-[Госдума приняла в первом чтении законопроект «Единой России» о праве несовершеннолетних работать в студотрядах в выходные дни и период каникул](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-nesovershennoletnih-rabotat-v-studotryadah-v-vyhodnye-dni-i-period-kanikul)
+[Врио секретаря Генсовета «Единой России» Владимир Якушев избран первым вице-спикером Совета Федерации](https://er.ru/activity/news/vrio-sekretarya-gensoveta-edinoj-rossii-vladimir-yakushev-izbran-pervym-vice-spikerom-soveta-federacii)
 
-[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#студотряд](https://er.ru/activity/news?tags%5B0%5D=23087) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#подростки](https://er.ru/activity/news?tags%5B0%5D=2937) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642)
+[#Матвиенко](https://er.ru/activity/news?tags%5B0%5D=132) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=135932) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416)
 
-24.09.24
+Сегодня 10:25
 
-[![Законопроект «Единой России» о бесплатном проезде военных автомобилей по платным дорогам единогласно принят в первом чтении](https://cdn.er.ru/media/news/September2024/6jMhKnxh4rcCe3PbO0tR-small.jfif)](https://er.ru/activity/news/zakonoproekt-edinoj-rossi-o-besplatnom-proezde-voennyh-avtomobilej-po-platnym-dorogam-edinoglasno-prinyat-v-pervom-chtenii)
+[![Анна Кузнецова: «Единая Россия» приступает к формированию пакета мер поддержки студенческих семей](https://cdn.er.ru/media/news/September2024/oX4LsxkLA0G98AEh6o7j-small.jpg)](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-pristupaet-k-formirovaniyu-paketa-mer-podderzhki-studencheskih-semej)
 
-[Законопроект «Единой России» о бесплатном проезде военных автомобилей по платным дорогам единогласно принят в первом чтении](https://er.ru/activity/news/zakonoproekt-edinoj-rossi-o-besplatnom-proezde-voennyh-avtomobilej-po-platnym-dorogam-edinoglasno-prinyat-v-pervom-chtenii)
+[Анна Кузнецова: «Единая Россия» приступает к формированию пакета мер поддержки студенческих семей](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-pristupaet-k-formirovaniyu-paketa-mer-podderzhki-studencheskih-semej)
 
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#платныедороги](https://er.ru/activity/news?tags%5B0%5D=1093244) [#бесплатныйпроезд](https://er.ru/activity/news?tags%5B0%5D=118050)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#семьи](https://er.ru/activity/news?tags%5B0%5D=2029) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-24.09.24
+Сегодня 09:30
 
-[![Владимир Якушев: Регионы УрФО стали одной мощной командой](https://cdn.er.ru/media/news/September2024/ToiSIhxMWXxfRC3rDerC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-regiony-urfo-stali-odnoj-moshnoj-komandoj)
+[![О новых форматах работы Госдумы. Статья Андрея Исаева](https://cdn.er.ru/media/news/September2024/ZVXHMAuZTc1qYLdZ2Np0-small.jpg)](https://er.ru/activity/news/o-novyh-formatah-raboty-gosdumy-statya-andreya-isaeva)
 
-[Владимир Якушев: Регионы УрФО стали одной мощной командой](https://er.ru/activity/news/vladimir-yakushev-regiony-urfo-stali-odnoj-moshnoj-komandoj)
+[О новых форматах работы Госдумы. Статья Андрея Исаева](https://er.ru/activity/news/o-novyh-formatah-raboty-gosdumy-statya-andreya-isaeva)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#УрФО](https://er.ru/activity/news?tags%5B0%5D=794) [#полпред президента в УрФО](https://er.ru/activity/news?tags%5B0%5D=20739) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
 
-24.09.24
+Сегодня 09:00
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
