@@ -308,15 +308,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Harry Potter and the Chamber of Secrets” was once called “Harry Potter and the Half-Blood Prince”.
+Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
 
 ### Potter History
 
-June 3, 2005 – Two copies of Harry Potter and the Half-Blood Prince are stolen but quickly recovered.
+May 29, 2007 – Warner Bros. announces that Harry Potter and the Order of the Phoenix will be released two days earlier (July 11) than originally scheduled.
 
 ### Potter Quote
 
-“Do you know why I admire you, Newt? More, perhaps, than any man I know? You don’t seek power or popularity. You simply ask, is the thing right in itself? If it is, then I must do it, no matter the cost.”
+“Just because it’s taken you three years to notice, Ron, doesn’t mean no one else has spotted I’m a girl!”
 
 [](#)
 
