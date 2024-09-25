@@ -1,5 +1,9 @@
 [Skip to main content](#main-content)
 
+New Relic Now Dream of innovating more? Start living the dream in October.
+
+[RSVP Now](https://newrelic.com/event/new-relic-now)
+
 [](https://newrelic.com/ "New Relic Logo")
 
 Search toggle Main navigation menu, 6 items
@@ -105,11 +109,11 @@ Submit
     * [Prometheus Monitoring](https://newrelic.com/solutions/prometheus-monitoring)
     * [SAP Monitoring](https://newrelic.com/solutions/sap)
     
-    [![web value calculator icon](/sites/default/files/2024-07/web-value-calculator-icon.svg)
+    [![nr now white](/sites/default/files/2024-09/LOGO-white.svg)
     
-    What’s observability worth to you?
+    New Relic Now
     
-    Measure the value of improved uptime, operations, and innovation.](https://newrelic.com/platform/value-calculator)
+    Meet Intelligent Observability. Say goodbye to digital interruptions.](https://newrelic.com/event/new-relic-now)
     
     [![Kubernetes icon](/sites/default/files/2024-04/kubernates.svg)
     
@@ -189,11 +193,11 @@ Submit
     
     [View All Integrations View All Integrations](https://newrelic.com/instant-observability)
     
-    [![Kubernetes icon](/sites/default/files/2024-04/kubernates.svg)
+    [![New Relic Now SVG](/sites/default/files/2024-09/LOGO-white_0.svg)
     
-    Faster Releases
+    New Relic Now
     
-    Learn how New Relic cut release times by 99% using GitHub workflows for enhanced efficiency and security.](https://newrelic.com/blog/how-to-relic/increase-release-velocity-with-github-workflows)
+    Get your ticket to beating IT tickets. RSVP to see Intelligent Observability.](https://newrelic.com/event/new-relic-now)
     
     [![Security icon](/sites/default/files/2024-04/security.svg)
     
@@ -250,11 +254,11 @@ Submit
     
     Download your copy of the Gartner®️ Magic Quadrant™️ for Observability Platforms.](https://newrelic.com/resources/gartner-magic-quadrant-observability)
     
-    [![APM logo](/sites/default/files/2024-04/1-APM.svg)
+    [![New Relic Now SVG](/sites/default/files/2024-09/LOGO-white_0.svg)
     
-    Boost Observability
+    New Relic Now
     
-    Discover how to enhance digital service performance and drive value through effective observability practices.](https://newrelic.com/blog/best-practices/maximizing-the-value-of-observability)
+    Be there when AI meets observability. RSVP.](https://newrelic.com/blog/best-practices/maximizing-the-value-of-observability)
     
     [![Infrastructure](/sites/default/files/2024-04/2-infrastructure.svg)
     
