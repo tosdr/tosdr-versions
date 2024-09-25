@@ -245,7 +245,7 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
-* [National Disability Employment Awareness Month](https://washingtonautismalliance.org/national-national-disability-employment-awareness-monthnational/ "National Disability Employment Awareness Month")
+* [National Disability Employment Awareness Month](https://washingtonautismalliance.org/national-disability-employment-awareness-month/ "National Disability Employment Awareness Month")
 * [Public School Daily Recess For Mental And Physical Health](https://washingtonautismalliance.org/public-school-daily-recess-for-mental-and-physical-health/ "Public School Daily Recess For Mental And Physical Health")
 * [Autism CARES Act of 2024: A Step Forward for Profound Autism Recognition](https://washingtonautismalliance.org/autism-cares-act-of-2024-a-step-forward-for-profound-autism-recognition/ "Autism CARES Act of 2024: A Step Forward for Profound Autism Recognition")
 
