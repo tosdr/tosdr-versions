@@ -54,34 +54,58 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
-* *  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+* *  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+        ### [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
-        Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
+        When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+        By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
-    *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    *  [![Amal Clooney](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/intro-1727189393.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
         
-        [Exclusives](https://www.women.com/category/exclusives/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+        ### [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
         
-        Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
+        Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
         
-        By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+        By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
         
 
 More Stories
 ------------
 
+*  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    
+    Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    
+*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    
+    Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
+    
 *  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
     
     [Sex](https://www.women.com/category/sex-life/)
@@ -381,30 +405,6 @@ More Stories
     As dating app fatigue has begun to skyrocket and men continue to disappoint, some women are turning to a new mindset: boy sobriety.
     
     By Amanda Chatel [Read More](https://www.women.com/1660708/boy-sober-explained-try-trend/)
-    
-*  [![Taylor Swift with Travis Kelce](https://www.women.com/img/gallery/taylor-swifts-style-transformation-since-she-began-dating-travis-kelce/intro-1725988785.jpg)](https://www.women.com/1661410/taylor-swift-style-transformation-since-dating-travis-kelce/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Taylor Swift's Style Transformation Since She Began Dating Travis Kelce](https://www.women.com/1661410/taylor-swift-style-transformation-since-dating-travis-kelce/)
-    
-    Taylor Swift's style has undergone significant shifts since she started dating Kansas City Chiefs player Travis Kelce, with more sporty and sophisticated looks.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1661410/taylor-swift-style-transformation-since-dating-travis-kelce/)
-    
-*  [![Zendaya at an event](https://www.women.com/img/gallery/5-times-zendaya-went-makeup-free-and-looked-absolutely-stunning/intro-1725896054.jpg)](https://www.women.com/1660205/zendaya-makeup-free-stunning/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [5 Times Zendaya Went Makeup Free And Looked Absolutely Stunning](https://www.women.com/1660205/zendaya-makeup-free-stunning/)
-    
-    Our girl Zendaya can pull out all the stops when it comes to getting glam, but she can also rock a no makeup look like nobody else.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1660205/zendaya-makeup-free-stunning/)
     
 
 Back
