@@ -118,56 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=52545441)  
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=22635659)  
+Oukraal Merino's
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=211098516)  
+OrgChart Hosting Pty Ltd
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=28352016)  
+Nogana Events and Decor
+
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=88807967)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=203275212)  
+ARCHITEK PTY LTD
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=61572538)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=198462081)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=82260762)  
 Vplay Grafix
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=143059300)  
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=95124197)  
+High Point Marketing CC t/a Leads For Africa
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=19496693)  
 Druce Digital
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=185916746)  
-kidoscabbie
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=84904628)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=83737126)  
-Kaylas Creations
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=63771651)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=20479285)  
-Hydroworld T/A Milliqua
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=163215057)  
+Tiny Cuddles Photography
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=126873206)  
-One2b
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=81614762)  
+Skinz Printing & Branding
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=208595519)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=113040341)  
-Myfinance-Online
-
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=43982909)  
-Safe Train Mokgethwa (PTY) Ltd
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=26973247)  
-Desygn
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=36599580)  
-Firstweb Hosting & Design
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=212075874)  
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=61349392)  
-Sonic Electrical Services PTY Ltd
-
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=129490512)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=ae9f6fb6a51d2b532287aa59b0e88526f5a627cbce582649eed86ac30292d238&c=51404027)  
-Tracknetics
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=2b2d94519eb81fcd675d8f6afa15c663fdddd115bdda1c876dc437ecd4eb352e&c=208930139)  
+#DiGi3 Marketing & Design
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
