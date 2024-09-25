@@ -220,6 +220,7 @@ Overview of the cookies and web storage objects used by DeepL:
 | Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns in Microsoft services, e.g. Bing search. | TechnologyTracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerMicrosoft Ireland Operations Ltd. |
 | Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns in Meta services. | TechnologyServer-to-server tracking | ExpiryOngoing (until consent is revoked) | OwnerMeta Platforms, Inc. |
 | Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns in Naver services, e.g. Naver search. | TechnologyConversion Tracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerNaver Corp. |
+| Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns using Mediaocean services. | TechnologyContainer Tag | Expiry Ongoing (until consent is revoked) | OwnerMediaocean |
 
 10\. Speech-to-text function for web
 ------------------------------------
