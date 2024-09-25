@@ -31,6 +31,7 @@ How It Works![](/images/icons/caret-down.svg)
 
 * [Autonomous Marketing Platform](https://www.wunderkind.co/platform/)
 * [Studio](https://www.wunderkind.co/platform/studio/)
+* [Identity](https://www.wunderkind.co/platform/identity/)
 
 Industry![](/images/icons/caret-down.svg)
 
