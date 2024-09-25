@@ -14,7 +14,7 @@ Menu
     
     * [Israel has landed heavy blows on Hezbollah. The victory it seeks could prove elusive](https://apnews.com/article/israel-lebanon-hezbollah-conflict-military-strategy-cce53839bbcf0a9a36af45ed2fa7dbb4)
     * [Netanyahu will address the UN as Israel, bogged down by one war, barrels toward another](https://apnews.com/article/netanyahu-speech-gaza-hezbollah-un-e761de05e4c4a7f54bfd27e8795bceb7)
-    * [Hezbollah fires a missile at Tel Aviv in deepest strike yet after Israeli bombardment of Lebanon](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
+    * [Hezbollah fires missile at Tel Aviv as Israel activates reserve troops in response to rising tension](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Tropical Storm Helene strengthens as hurricane warnings cover parts of Florida and Mexico](https://apnews.com/article/tropical-storm-helene-john-florida-mexico-a953d0a51d219226f7d76178af2d3f4b)
-    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
-    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
+    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
+    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Congress moving swiftly to fund government and avert shutdown before heading home to campaign](https://apnews.com/article/congress-spending-bill-speaker-johnson-shutdown-7917f589502c40d4815f1b9583d3fa23)
     * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
     * [Trump tells women he 'will be your protector' as GOP struggles with outreach to female voters](https://apnews.com/article/trump-women-protector-abortion-election-697ce355f7386bfd192b99bb00322705)
-    * [Jimmy Carter as a power-playing loner from the farm to the White House and on the global stage](https://apnews.com/article/jimmy-carter-outsider-legacy-birthday-100-d686b420122566f0ce741646165e0b66)
     
     Newsletters
     
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
-    * [Francis Ford Coppola's 'Megalopolis' is one from the heart](https://apnews.com/article/megalopolis-francis-ford-coppola-interview-5bc787e614b956a4bb9c566b09000165)
-    * [Woman alleges Sean 'Diddy' Combs raped her on video in latest lawsuit](https://apnews.com/article/sean-combs-diddy-lawsuit-1e2b124ba85ebf1b4f1e93c8692aab4b)
+    * [Rapper Fatman Scoop died of heart disease, medical examiner says](https://apnews.com/article/fatman-scoop-dead-heart-disease-d2df783c70779d9dcb9555440ba56fdd)
+    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Stock market today: Wall Street hovers quietly around record highs before the bell Wednesday](https://apnews.com/article/stock-markets-rates-china-commodities-65e246f0fa3ca132d7f63da4257ed590)
     * [Strike by more than 1,000 Samsung workers enters a third week in India](https://apnews.com/article/samung-strike-india-a61306e6c8d8a37713daa0345077e8f8)
     * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
-    * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
     
 * [Science](https://apnews.com/science)
     
@@ -168,11 +168,11 @@ Menu
     
     TOP STORIES
     
+    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
     * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
     * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
     * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
     * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
-    * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     
 * [Newsletters](https://apnews.com/newsletters)
@@ -203,7 +203,7 @@ Menu
     
     TOP STORIES
     
-    * [See Oktoberfest's best photos as thousands of beer lovers descend on Munich](https://apnews.com/article/oktoberfest-germany-beer-festival-91704214a7d0bf8fc5daaf82dc5e4ce1)
+    * [As Thailand approves same-sex marriage, a couple celebrates feeling freed](https://apnews.com/article/thailand-same-sex-marriage-photos-9bff4384db685c69593369dc304f3dca)
     * [Shohei Ohtani's historic first season with the Dodgers](https://apnews.com/article/shohei-ohtani-b4c8e6ecb4052884e9ed9966ed199e04)
     * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
     
@@ -242,12 +242,12 @@ Menu
     
     TOP STORIES
     
+    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
     * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
     * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
-    * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [Sepsis and malnutrition stalk the new mothers and babies of South Darfur](https://apnews.com/article/sudan-war-malnutrition-maternal-deaths-darfur-ed8235d3b11a4a6ea2fcf27b7013d20c)
+    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Edmunds Compares: 2024 Honda Prologue versus 2024 Toyota bZ4X Electric SUVs](https://apnews.com/article/honda-prologue-toyota-bz4x-electric-suv-e04b1d816e353e25d54a197fe0672012)
     * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
     * [As an era ends, the city that was home to the Oakland A's comes to grips with their departure](https://apnews.com/article/oakland-athletics-baseball-final-season-9c3667e53de52b28209a9bed640f2196)
-    * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
     
 * [Religion](https://apnews.com/religion)
     
@@ -297,7 +297,7 @@ Menu
     * [Tormenta tropical Helene gana fuerza y activa avisos por huracán en partes de Florida y México](https://apnews.com/climate-and-environment/general-news-6ef5440e3452dc18c7ce0678c8ebadc2)
     * [Fallos de Servicio Secreto antes del tiroteo en un mitin de Trump fueron "evitables", según pesquisa](https://apnews.com/us-news/general-news-0062d60726e9110e83ef54445c71dd95)
     * [La pandilla del Tren de Aragua comenzó en prisiones de Venezuela; ahora hay temor en EEUU](https://apnews.com/world-news/general-news-9205dc4262c36908837165392aa98bfd)
-    * [Reforma de la Guardia Nacional de México, en la recta final para su aprobación en el Senado](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
+    * [Congreso mexicano aprueba pase de Guardia Nacional al control del ejército que impulsó López Obrador](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
     * [Trasladan a expresidente sudanés encarcelado, Omar al-Bashir, a un hospital en el norte del país](https://apnews.com/world-news/general-news-international-news-b2c466b3d9c9e71b71047e432d26f588)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
@@ -455,7 +455,7 @@ Submit Search
     
     * [Israel has landed heavy blows on Hezbollah. The victory it seeks could prove elusive](https://apnews.com/article/israel-lebanon-hezbollah-conflict-military-strategy-cce53839bbcf0a9a36af45ed2fa7dbb4)
     * [Netanyahu will address the UN as Israel, bogged down by one war, barrels toward another](https://apnews.com/article/netanyahu-speech-gaza-hezbollah-un-e761de05e4c4a7f54bfd27e8795bceb7)
-    * [Hezbollah fires a missile at Tel Aviv in deepest strike yet after Israeli bombardment of Lebanon](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
+    * [Hezbollah fires missile at Tel Aviv as Israel activates reserve troops in response to rising tension](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
     
     Newsletters
     
@@ -472,8 +472,8 @@ Submit Search
     TOP STORIES
     
     * [Tropical Storm Helene strengthens as hurricane warnings cover parts of Florida and Mexico](https://apnews.com/article/tropical-storm-helene-john-florida-mexico-a953d0a51d219226f7d76178af2d3f4b)
-    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
-    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
+    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
+    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Congress moving swiftly to fund government and avert shutdown before heading home to campaign](https://apnews.com/article/congress-spending-bill-speaker-johnson-shutdown-7917f589502c40d4815f1b9583d3fa23)
     * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
     * [Trump tells women he 'will be your protector' as GOP struggles with outreach to female voters](https://apnews.com/article/trump-women-protector-abortion-election-697ce355f7386bfd192b99bb00322705)
-    * [Jimmy Carter as a power-playing loner from the farm to the White House and on the global stage](https://apnews.com/article/jimmy-carter-outsider-legacy-birthday-100-d686b420122566f0ce741646165e0b66)
     
     Newsletters
     
@@ -583,8 +583,8 @@ Submit Search
     TOP STORIES
     
     * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
-    * [Francis Ford Coppola's 'Megalopolis' is one from the heart](https://apnews.com/article/megalopolis-francis-ford-coppola-interview-5bc787e614b956a4bb9c566b09000165)
-    * [Woman alleges Sean 'Diddy' Combs raped her on video in latest lawsuit](https://apnews.com/article/sean-combs-diddy-lawsuit-1e2b124ba85ebf1b4f1e93c8692aab4b)
+    * [Rapper Fatman Scoop died of heart disease, medical examiner says](https://apnews.com/article/fatman-scoop-dead-heart-disease-d2df783c70779d9dcb9555440ba56fdd)
+    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
     
 * [Business](https://apnews.com/business)
     
@@ -598,9 +598,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Stock market today: Wall Street hovers quietly around record highs before the bell Wednesday](https://apnews.com/article/stock-markets-rates-china-commodities-65e246f0fa3ca132d7f63da4257ed590)
     * [Strike by more than 1,000 Samsung workers enters a third week in India](https://apnews.com/article/samung-strike-india-a61306e6c8d8a37713daa0345077e8f8)
     * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
-    * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
     
 * [Science](https://apnews.com/science)
     
@@ -646,11 +646,11 @@ Submit Search
     
     TOP STORIES
     
+    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
     * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
     * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
     * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
     * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
-    * [Doing lunges while brushing your teeth, and other ways to stack healthy habits](https://apnews.com/article/wellness-fitness-habit-stacking-piggybacking-5c82051c4981a409f44ad3d443c5fb61)
     * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
     
 * [Newsletters](https://apnews.com/newsletters)
@@ -684,7 +684,7 @@ Submit Search
     
     TOP STORIES
     
-    * [See Oktoberfest's best photos as thousands of beer lovers descend on Munich](https://apnews.com/article/oktoberfest-germany-beer-festival-91704214a7d0bf8fc5daaf82dc5e4ce1)
+    * [As Thailand approves same-sex marriage, a couple celebrates feeling freed](https://apnews.com/article/thailand-same-sex-marriage-photos-9bff4384db685c69593369dc304f3dca)
     * [Shohei Ohtani's historic first season with the Dodgers](https://apnews.com/article/shohei-ohtani-b4c8e6ecb4052884e9ed9966ed199e04)
     * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
     
@@ -727,12 +727,12 @@ Submit Search
     
     TOP STORIES
     
+    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
     * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
     * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
-    * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [Sepsis and malnutrition stalk the new mothers and babies of South Darfur](https://apnews.com/article/sudan-war-malnutrition-maternal-deaths-darfur-ed8235d3b11a4a6ea2fcf27b7013d20c)
+    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -765,9 +765,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Edmunds Compares: 2024 Honda Prologue versus 2024 Toyota bZ4X Electric SUVs](https://apnews.com/article/honda-prologue-toyota-bz4x-electric-suv-e04b1d816e353e25d54a197fe0672012)
     * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
     * [As an era ends, the city that was home to the Oakland A's comes to grips with their departure](https://apnews.com/article/oakland-athletics-baseball-final-season-9c3667e53de52b28209a9bed640f2196)
-    * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
     
 * [Religion](https://apnews.com/religion)
     
@@ -793,7 +793,7 @@ Submit Search
     * [Tormenta tropical Helene gana fuerza y activa avisos por huracán en partes de Florida y México](https://apnews.com/climate-and-environment/general-news-6ef5440e3452dc18c7ce0678c8ebadc2)
     * [Fallos de Servicio Secreto antes del tiroteo en un mitin de Trump fueron "evitables", según pesquisa](https://apnews.com/us-news/general-news-0062d60726e9110e83ef54445c71dd95)
     * [La pandilla del Tren de Aragua comenzó en prisiones de Venezuela; ahora hay temor en EEUU](https://apnews.com/world-news/general-news-9205dc4262c36908837165392aa98bfd)
-    * [Reforma de la Guardia Nacional de México, en la recta final para su aprobación en el Senado](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
+    * [Congreso mexicano aprueba pase de Guardia Nacional al control del ejército que impulsó López Obrador](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
     * [Trasladan a expresidente sudanés encarcelado, Omar al-Bashir, a un hospital en el norte del país](https://apnews.com/world-news/general-news-international-news-b2c466b3d9c9e71b71047e432d26f588)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
