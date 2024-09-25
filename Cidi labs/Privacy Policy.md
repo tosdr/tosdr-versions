@@ -128,8 +128,6 @@ Cidi Labs welcomes your comments regarding this Privacy Policy. If you have any 
 
 #### CIDI LABS NEWSLETTER
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20352%20450'%3E%3C/svg%3E)
-
 ![](https://cidilabs.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-1.06.14-PM.png)
 
 Name
@@ -139,6 +137,6 @@ Name
 
 Description
 
-                                              
+                                           
 
 ![](https://px.ads.linkedin.com/collect/?pid=6049940&fmt=gif)
