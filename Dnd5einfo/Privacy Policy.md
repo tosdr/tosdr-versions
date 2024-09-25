@@ -231,7 +231,7 @@
 
 Search for:  
 
-[![DriveThruRPG](https://dnd5e.info/wp-content/uploads/2019/10/DTRPG-ZombieSale-Banner.jpg)](https://www.drivethrurpg.com/?filters=240_0_0_0_0&affiliate_id=32567)
+[![DriveThruRPG](https://dnd5e.info/wp-content/uploads/2019/10/DTRPG-PlatinumBan.jpg)](https://www.drivethrurpg.com/metal.php?affiliate_id=32567)
 
 [![DnD5e](https://dnd5e.info/wp-content/uploads/2019/06/DnD5e-Banner.jpg)](https://dnd5e.info/)
 
