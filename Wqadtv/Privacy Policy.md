@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_360x203.jpg)](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef0e2eda-b498-4f0d-92b6-bb28f677c132/20240823T154104/ef0e2eda-b498-4f0d-92b6-bb28f677c132_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef0e2eda-b498-4f0d-92b6-bb28f677c132/20240823T154104/ef0e2eda-b498-4f0d-92b6-bb28f677c132_360x203.jpg)](https://www.wqad.com/article/news/local/contests/grant-a-wish-2024-2025/526-8d114238-68f1-4000-8482-e6f85d0a37be)
         
-        #### [Kewanee is getting two new police officers thanks to a DOJ grant](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
+        #### [Grant A Wish 2024 - 2025](https://www.wqad.com/article/news/local/contests/grant-a-wish-2024-2025/526-8d114238-68f1-4000-8482-e6f85d0a37be)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b8e15c73-6d70-4370-8a60-0625e4621b3b/20240808T211555/b8e15c73-6d70-4370-8a60-0625e4621b3b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b8e15c73-6d70-4370-8a60-0625e4621b3b/20240808T211555/b8e15c73-6d70-4370-8a60-0625e4621b3b_360x203.jpg)](https://www.wqad.com/article/news/local/courtney-lindsey-rock-island-paris-olympics/526-f47fb66e-564e-4e76-a745-4a8d0e1eb428)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/a9bc23d0-2edd-4766-b06d-1907a747942d/20240924T205902/a9bc23d0-2edd-4766-b06d-1907a747942d_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/a9bc23d0-2edd-4766-b06d-1907a747942d/20240924T205902/a9bc23d0-2edd-4766-b06d-1907a747942d_360x203.jpg)](https://www.wqad.com/article/news/local/how-police-determine-whether-school-threats-are-credible/524-804de1f9-2708-43b4-abea-57a458c9542b)
         
-        #### [City of Rock Island proclaims Sept. 24, 2024 as 'Courtney Lindsey Day'](https://www.wqad.com/article/news/local/courtney-lindsey-rock-island-paris-olympics/526-f47fb66e-564e-4e76-a745-4a8d0e1eb428)
+        #### [How do police determine whether school threats are credible?](https://www.wqad.com/article/news/local/how-police-determine-whether-school-threats-are-credible/524-804de1f9-2708-43b4-abea-57a458c9542b)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ba58426d-745e-4a0a-b623-6a1b78987e66/20240925T033340/ba58426d-745e-4a0a-b623-6a1b78987e66_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba58426d-745e-4a0a-b623-6a1b78987e66/20240925T033340/ba58426d-745e-4a0a-b623-6a1b78987e66_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
         
-        #### [Bright skies and warmer temperatures starting Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Hurricane Helene is official, the potential historic path to the Midwest](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b8cc6914-f8db-4538-87bf-533ee213b7d3/20240924T170634/b8cc6914-f8db-4538-87bf-533ee213b7d3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b8cc6914-f8db-4538-87bf-533ee213b7d3/20240924T170634/b8cc6914-f8db-4538-87bf-533ee213b7d3_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4/20240925T121215/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4/20240925T121215/6ad38856-4ed1-40a4-bbb5-d99f7fe774a4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Hurricane Watch: Helene's potential historic path tracking towards the Midwest](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
+        #### [More sunshine and warmer temperatures Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-52°
+73°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
