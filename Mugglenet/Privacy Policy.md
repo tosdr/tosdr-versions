@@ -308,15 +308,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
+October 31, 1991, is not only the day that Harry, Ron, and Hermione defeated the troll in the girl’s bathroom but is also the 10-year anniversary of the death of Harry’s parents.
 
 ### Potter History
 
-May 29, 2007 – Warner Bros. announces that Harry Potter and the Order of the Phoenix will be released two days earlier (July 11) than originally scheduled.
+December 21, 2004 – Just hours after the first preorders were taken, “Harry Potter and the Half-Blood Prince” is already topping the charts.
 
 ### Potter Quote
 
-“Just because it’s taken you three years to notice, Ron, doesn’t mean no one else has spotted I’m a girl!”
+“Magic blooms only in rare souls. You came today because of a craving and a knowledge that the old ways serve us no longer.”
 
 [](#)
 
