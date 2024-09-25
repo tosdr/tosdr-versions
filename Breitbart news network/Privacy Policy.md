@@ -24,7 +24,7 @@
 
 [](https://store.breitbart.com/)[](https://www.breitbart.com/newsletters/)
 
-[BREITBART](https://www.breitbart.com/) [Enable Accessibility](#)
+[BREITBART](https://www.breitbart.com/)[](# "Enable Accessibility")
 
 * [Politics](https://www.breitbart.com/politics/)
 * [Entertainment](https://www.breitbart.com/entertainment/)
