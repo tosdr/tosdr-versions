@@ -30,14 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_360x203.jpg)](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
         
-        #### [A Michigan program is shown to reduce postpartum depression. Researchers want to bring it to everyone.](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9) [![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e/20240924T213218/c8a7b8e9-8dc6-4d18-a178-6aecf752e94e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9)
+        #### [Kewanee to get two new police officers through community policing grant](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12) [![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_360x203.jpg)](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
         
-        #### ['Reduce suffering and increase joy' | Researchers in Michigan are looking to expand program that reduces, prevents postpartum depression](https://www.wqad.com/article/news/local/the-current/postpartum-depression-prevent-reduce-study-michigan-researchers/526-e27c8d06-b332-4a60-8e40-f8f8c63eefa9)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c0a2813c-8888-41c8-9db3-660ca81a0f22/c0a2813c-8888-41c8-9db3-660ca81a0f22_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0a2813c-8888-41c8-9db3-660ca81a0f22/c0a2813c-8888-41c8-9db3-660ca81a0f22_360x203.jpg)](https://www.wqad.com/article/news/local/two-iowa-state-penitentiary-officers-injured-assault/526-9707039e-6406-44b7-a4c3-ff2866a514c4)
+        #### [Kewanee is getting two new police officers thanks to a DOJ grant](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b8e15c73-6d70-4370-8a60-0625e4621b3b/20240808T211555/b8e15c73-6d70-4370-8a60-0625e4621b3b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b8e15c73-6d70-4370-8a60-0625e4621b3b/20240808T211555/b8e15c73-6d70-4370-8a60-0625e4621b3b_360x203.jpg)](https://www.wqad.com/article/news/local/courtney-lindsey-rock-island-paris-olympics/526-f47fb66e-564e-4e76-a745-4a8d0e1eb428)
         
-        #### [2 Iowa State Penitentiary officers injured during assault, prison union claims](https://www.wqad.com/article/news/local/two-iowa-state-penitentiary-officers-injured-assault/526-9707039e-6406-44b7-a4c3-ff2866a514c4)
+        #### [City of Rock Island proclaims Sept. 24, 2024 as 'Courtney Lindsey Day'](https://www.wqad.com/article/news/local/courtney-lindsey-rock-island-paris-olympics/526-f47fb66e-564e-4e76-a745-4a8d0e1eb428)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/76b0b121-6448-4712-88b5-86a25ea47102/20240924T220246/76b0b121-6448-4712-88b5-86a25ea47102_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/76b0b121-6448-4712-88b5-86a25ea47102/20240924T220246/76b0b121-6448-4712-88b5-86a25ea47102_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ba58426d-745e-4a0a-b623-6a1b78987e66/20240925T033340/ba58426d-745e-4a0a-b623-6a1b78987e66_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba58426d-745e-4a0a-b623-6a1b78987e66/20240925T033340/ba58426d-745e-4a0a-b623-6a1b78987e66_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Bright skies and warmer temperatures starting Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -87,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-73°
+59°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
