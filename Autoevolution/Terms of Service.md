@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![The Kleox Shelter Is a Teardrop Trailer That Offers Minimal Features on Purpose](https://s1.cdn.autoevolution.com/images/news/the-kleox-shelter-is-a-teardrop-trailer-that-offers-minimal-features-on-purpose-240342-5.jpg "The Kleox Shelter Is a Teardrop Trailer That Offers Minimal Features on Purpose")
+[![7,000 HP: Jay Leno Rides a Big Boy, the Biggest Steam Locomotive in the World](https://s1.cdn.autoevolution.com/images/news/7000-hp-jay-leno-rides-a-big-boy-the-biggest-steam-locomotive-in-the-world-240354-5.jpg "7,000 HP: Jay Leno Rides a Big Boy, the Biggest Steam Locomotive in the World")
 
-The Kleox Shelter Is a Teardrop Trailer That Offers Minimal Features on Purpose](https://www.autoevolution.com/news/the-kleox-shelter-is-a-teardrop-trailer-that-offers-minimal-features-on-purpose-240342.html)
+7,000 HP: Jay Leno Rides a Big Boy, the Biggest Steam Locomotive in the World](https://www.autoevolution.com/news/7000-hp-jay-leno-rides-a-big-boy-the-biggest-steam-locomotive-in-the-world-240354.html)
 
 how-to \_
 
