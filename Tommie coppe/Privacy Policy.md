@@ -1,32 +1,32 @@
 [Skip to main content](#main-content)
 
-Clearance Sale: Save up to 75% DETAILS
+BOGO Free Sitewide! DETAILS
 
-Save up to $75 on Infrared Therapy DETAILS
-
-FALL CLEARANCE SALE
+BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### SAVE UP TO 75%
+#### Sitewide Savings: Mix & Match or Double Up!
 
-[SHOP MEN](https://www.tommiecopper.com/men/featured/mens-markdowns/)    [SHOP WOMEN](https://www.tommiecopper.com/women/featured/womens-markdowns/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 9/23/2024 8AM ET - 9/25/2024 6AM ET.
+Offer valid 9/25/2024 8AM ET - 9/26/2024 6AM ET.
 
-Fall Clearance Sale discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Exclusions apply.\* Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
-INFRARED & RED LIGHT THERAPY
+\***Excludes:** Shoulder Support Shirts, Shoulder Support Bra, Infrared & Red Light Therapy | All-Purpose, All Compression Gloves, Compression Knee Sleeve, Performance Compression Elbow Sleeve.
+
+FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Save Up To $75 on Infrared & Red Light Therapy Devices
+#### Free Baseball Hat on Orders $200+
 
-[SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 9/23/2024 8AM ET - 9/25/2024 6AM ET.
+Offer valid 6/20/2024 8AM ET - 6/21/2024 6AM ET.
 
-Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Baseball Hat automatically applied on orders $200+. Order subtotal must reach $200 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
