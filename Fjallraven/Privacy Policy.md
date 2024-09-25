@@ -215,6 +215,7 @@ Asia
 * Bags & Gear
     
     * [Show all](https://www.fjallraven.com/us/en-us/bags-gear/)
+    * [New Arrivals](https://www.fjallraven.com/us/en-us/bags-gear/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/bags-gear/best-sellers/)
     * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/bags-gear/fjallraven-specialized/)
     * Kånken
@@ -273,9 +274,10 @@ Asia
     * Sustainability
         
         * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
-        * [Our Materials](https://www.fjallraven.com/uk/en-us/about/our-materials/)
-        * [Sustainable Design](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-design/)
-        * [Sustainable Production](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-production/)
+        * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
+        * [Sustainable Design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
+        * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
+        * [Care & Repair](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
         
     * Experiences
         
@@ -403,6 +405,7 @@ Asia
     * Bags & Gear
         
         * [Show all](https://www.fjallraven.com/us/en-us/bags-gear/)
+        * [New Arrivals](https://www.fjallraven.com/us/en-us/bags-gear/new-arrivals/)
         * [Best Sellers](https://www.fjallraven.com/us/en-us/bags-gear/best-sellers/)
         * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/bags-gear/fjallraven-specialized/)
         * Kånken
@@ -452,9 +455,10 @@ Asia
         * Sustainability
             
             * [Show all Sustainability](https://www.fjallraven.com/us/en-us/about/sustainability/)
-            * [Our Materials](https://www.fjallraven.com/uk/en-us/about/our-materials/)
-            * [Sustainable Design](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-design/)
-            * [Sustainable Production](https://www.fjallraven.com/uk/en-us/about/sustainability/sustainable-production/)
+            * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
+            * [Sustainable Design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
+            * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
+            * [Care & Repair](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
             
         * Experiences
             
@@ -830,7 +834,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=a629a39c-0963-46d4-bbbf-5f2e568c929d)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=81186e59-1320-4a96-b5f1-fc3e8b590eb9)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
