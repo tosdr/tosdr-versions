@@ -24,7 +24,9 @@ DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
 
 [![Regarder BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")
+Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")[![Regarder BFM2](/assets/v6/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg)
+
+Regarder BFM2](https://www.bfmtv.com/en-direct/bfm2/ "Regarder BFM2")
 
 ![Écouter BFM Radio](/assets/v6/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
@@ -423,6 +425,7 @@ applications mobiles
 
 bfmtv
 
+* [BFM2](https://www.bfmtv.com/en-direct/bfm2/ "BFM2")
 * [Nos dossiers](https://www.bfmtv.com/dossiers/ "Nos dossiers")
 * [Événements](https://www.bfmtv.com/evenements/ "Événements")
 * [Partenaires](https://www.bfmtv.com/evenements/partenariats/ "Partenaires")
