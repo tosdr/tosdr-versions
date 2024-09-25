@@ -273,7 +273,6 @@
     * [Belgium](https://www.sans.org/be_en/)
     * [Brazil](https://www.sans.org/br_pt/)
     * [France](https://www.sans.org/fr_fr/)
-    * [India](https://www.sans.org/in_en/)
     * [Japan](https://www.sans.org/jp_ja/)
     * [Middle East & Africa](https://www.sans.org/mlp/middle-east-turkey-africa/)
     * [Netherlands](https://www.sans.org/nl_en)
