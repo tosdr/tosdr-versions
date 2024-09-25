@@ -19,6 +19,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
+    
+    ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
+    
+    [![An after shot of the clean-up, which shows the mural restored to its former glory. Credit: RBKC.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Banksy-mural-360x180.jpg)](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
+    
+    ### [London council cleans up Banksy animal artwork after it was vandalised](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
+    
+    [![Residents stood beside one of the new communal food waste bins. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/15256_525_GraingePhotography-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
+    
+    ### [Southwark Council gambling that one in four will recycle food waste or risk not ‘breaking even’ on borough-wide scheme](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
+    
+    [![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
+    
+    ### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
+    
+    [![A police are on Tower Bridge Road following Wednesday's incident. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/blurred-2-360x180.jpeg)](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
+    
+    ### [Woman hospitalised as Tower Bridge collision causes massive traffic jams](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
+    
     [![It's a one-off event on Thursday 3 October](https://southwarknews.co.uk/wp-content/uploads/2024/09/image001-360x180.png)](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
     
     ### [Alzheimer’s exhibition to pop up on the South Bank](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
@@ -34,26 +54,6 @@
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
     
     ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-    
-    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-    
-    ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-    
-    [![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
-    
-    ### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
-    
-    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
-    
-    ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
-    
-    [![Art Academy's new campus](https://southwarknews.co.uk/wp-content/uploads/2024/09/Art-Academy-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
-    
-    ### [New art school opens in Bankside](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
-    
-    [![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-360x180.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
-    
-    ### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
+    
+    ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
+    
+    [![An after shot of the clean-up, which shows the mural restored to its former glory. Credit: RBKC.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Banksy-mural-360x180.jpg)](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
+    
+    ### [London council cleans up Banksy animal artwork after it was vandalised](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
+    
+    [![Residents stood beside one of the new communal food waste bins. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/15256_525_GraingePhotography-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
+    
+    ### [Southwark Council gambling that one in four will recycle food waste or risk not ‘breaking even’ on borough-wide scheme](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
+    
+    [![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
+    
+    ### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
+    
+    [![A police are on Tower Bridge Road following Wednesday's incident. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/blurred-2-360x180.jpeg)](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
+    
+    ### [Woman hospitalised as Tower Bridge collision causes massive traffic jams](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
+    
     [![It's a one-off event on Thursday 3 October](https://southwarknews.co.uk/wp-content/uploads/2024/09/image001-360x180.png)](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
     
     ### [Alzheimer’s exhibition to pop up on the South Bank](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
@@ -114,26 +134,6 @@ View All Result
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
     
     ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-    
-    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-    
-    ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-    
-    [![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
-    
-    ### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
-    
-    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
-    
-    ### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
-    
-    [![Art Academy's new campus](https://southwarknews.co.uk/wp-content/uploads/2024/09/Art-Academy-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
-    
-    ### [New art school opens in Bankside](https://southwarknews.co.uk/area/south-bank/new-art-school-opens-in-bankside/)
-    
-    [![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-360x180.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
-    
-    ### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -229,6 +229,18 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
+
+### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
+
+[25th September 2024](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
+
+[![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
+
+### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
+
+[25th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
+
 [![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-120x86.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
 
 ### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
@@ -252,18 +264,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 [24th September 2024](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-
-[![Stock image of a person wrapped in a blanket. Image- Pickpik (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Stock-image-of-a-person-wrapped-in-a-blanket.-Image-Pickpik-Creative-Commons-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
-
-### [Southwark Council refuses to commit to replacing lost winter fuel payments for pensioners](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
-
-[24th September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-refuses-to-commit-to-replacing-lost-winter-fuel-payments-for-pensioners/)
-
-[![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-120x86.jpeg)](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
-
-### [Laundrette fire damages six-storey building in Waterloo](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
-
-[23rd September 2024](https://southwarknews.co.uk/area/waterloo/laundrette-fire-damages-six-storey-building-in-waterloo/)
 
 ### USEFUL PAGES
 
