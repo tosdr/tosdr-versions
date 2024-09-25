@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Coalition Contributions](/assets/logos/Coalition-contributions.png)](https://www.followthemoney.org/research/institute-research/industries-storm-states-over-climate-change)
+[![reynolds 2011-12](/assets/logos/ReynoldsAmericanByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
 
-Who weighs in on climate change debates?
+Look at this tobacco giant’s giving.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
