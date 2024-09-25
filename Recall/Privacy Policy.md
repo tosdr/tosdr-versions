@@ -90,6 +90,6 @@ Feedback
 
 External Links
 
-[![Discord Logo](/svgs/discord.svg)](https://discord.gg/KDgvbcNpt9)[![Linkedin Logo](/svgs/linkedin.svg)](https://www.linkedin.com/company/getrecall-ai/)[![Twitter Logo](/svgs/twitter.svg)](https://twitter.com/getRecallAI)
+[![Discord Logo](/svgs/discord.svg)](https://discord.gg/KDgvbcNpt9)[![Linkedin Logo](/svgs/linkedin.svg)](https://www.linkedin.com/company/getrecall-ai/)[![Twitter Logo](/svgs/twitter.svg)](https://twitter.com/getRecallAI)[![Youtube Logo](/svgs/youtube.svg)](https://www.youtube.com/@getrecall-ai)
 
 [![Recall - Product Hunt reviews](/svgs/product-hunt-reviews.svg)](https://www.producthunt.com/products/recall-6/reviews?utm_source=badge-product_rating&utm_medium=badge&utm_souce=badge-recall-6)
