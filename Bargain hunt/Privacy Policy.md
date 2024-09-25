@@ -3,7 +3,6 @@
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
 * [Store Locator](https://www.bargainhunt.com/store-locator)
 * [Grand Openings](https://www.bargainhunt.com/grand-openings)
-* [Store of the Future](https://www.bargainhunt.com/stores-of-the-future)
 * [The Crazy Clover Club](https://www.bargainhunt.com/crazy-clover-club)
 
 Menu
@@ -11,7 +10,6 @@ Menu
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
 * [Store Locator](https://www.bargainhunt.com/store-locator)
 * [Grand Openings](https://www.bargainhunt.com/grand-openings)
-* [Store of the Future](https://www.bargainhunt.com/stores-of-the-future)
 * [The Crazy Clover Club](https://www.bargainhunt.com/crazy-clover-club)
 
 Privacy Policy
