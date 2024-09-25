@@ -976,9 +976,9 @@ QUICK BUY! Get 15% off on medicines\*
     * [Solgar](https://www.1mg.com/categories/featured/solgar-2375)
     * [Nordic naturals](https://www.1mg.com/categories/featured/nordic-naturals-2376)
     * [Hair & Skin Supplements](https://www.1mg.com/categories/fitness-supplements/hair-skin-supplements-2123)
-    * [Specialty Supplements](https://www.1mg.com/categories/fitness-supplements/vitamins-minerals/specialty-supplements-164)
-    * [Antioxidants](https://www.1mg.com/categories/fitness-supplements/specialty-supplements/antioxidants-691)
-    * [Glucosamine](https://www.1mg.com/categories/fitness-supplements/vitamins-minerals/specialty-supplements/glucosamine-689)
+    * [Specialty Supplements](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements-164)
+    * [Antioxidants](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements/antioxidants-691)
+    * [Glucosamine](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements/glucosamine-689)
     * [Vitamin K](https://www.1mg.com/categories/fitness-supplements/vitamin-k-444)
     * [Gummies Vitamins](https://www.1mg.com/categories/fitness-supplements/gummies-vitamins-989)
     
