@@ -75,13 +75,13 @@ Trending Posts
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
+* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 * [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
-* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
-* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
+* [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
 
 Close
 
@@ -139,13 +139,13 @@ Trending Posts
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
+* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 * [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
-* [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * ['An act of terror': Israel behind pager explosions that killed 11, wounded thousands](https://therealnews.com/an-act-of-terror-israel-behind-pager-explosions-that-killed-11-wounded-thousands)
-* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
+* [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
 
 [Skip to content](#main)
 
