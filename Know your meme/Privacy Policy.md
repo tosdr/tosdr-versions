@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin")
+[Half-Life](https://knowyourmeme.com/memes/subcultures/half-life "Half-Life") [Death of Kim Jong-Il](https://knowyourmeme.com/memes/events/death-of-kim-jong-il "Death of Kim Jong-Il") [Second Life](https://knowyourmeme.com/memes/subcultures/second-life "Second Life") [Steve Jobs' Death](https://knowyourmeme.com/memes/events/steve-jobs-death "Steve Jobs' Death") [Osama Bin Laden's Death](https://knowyourmeme.com/memes/events/osama-bin-ladens-death "Osama Bin Laden's Death") [Thug Life](https://knowyourmeme.com/memes/thug-life "Thug Life") [Tomodachi Life](https://knowyourmeme.com/memes/subcultures/tomodachi-life "Tomodachi Life") [Queen Elizabeth II's Death](https://knowyourmeme.com/memes/events/queen-elizabeth-iis-death "Queen Elizabeth II's Death")
 
 Privacy Policy
 ==============
