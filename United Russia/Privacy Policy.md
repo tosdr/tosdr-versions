@@ -305,7 +305,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Гутенев](https://er.ru/activity/news?tags%5B0%5D=1092616) [#промышленность](https://er.ru/activity/news?tags%5B0%5D=1335) [#экспорт](https://er.ru/activity/news?tags%5B0%5D=1408) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
 
-Сегодня 16:36
+25.09.24
 
 [![Максим Топилин: «Единая Россия» укрепляет внешнеэкономические связи с дружественными странами для достижения поставленных Президентом национальных целей развития](https://cdn.er.ru/media/news/September2024/bIQitDcDp2INQDlrWqsl-small.jpg)](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-ukreplyaet-vneshneekonomicheskie-svyazi-s-druzhestvennymi-stranami-dlya-dostizheniya-postavlennyh-prezidentom-nacionalnyh-celej-razvitiya)
 
@@ -313,7 +313,7 @@
 
 [#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госсовет](https://er.ru/activity/news?tags%5B0%5D=3625) [#экономика](https://er.ru/activity/news?tags%5B0%5D=116231) [#национальныецели](https://er.ru/activity/news?tags%5B0%5D=125834) [#ОЭЗ](https://er.ru/activity/news?tags%5B0%5D=3717) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#экспорт](https://er.ru/activity/news?tags%5B0%5D=1408)
 
-Сегодня 16:10
+25.09.24
 
 [![В Госдуму внесен законопроект о запрете пропаганды чайлдфри](https://cdn.er.ru/media/news/September2024/GQhyPhvh8dZQYe9F7g60-small.jpg)](https://er.ru/activity/news/v-gosdumu-vnesen-zakonoproekt-o-zaprete-propagandy-chajldfri)
 
@@ -321,7 +321,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Аиткулова](https://er.ru/activity/news?tags%5B0%5D=49842) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171)
 
-Сегодня 15:55
+25.09.24
 
 [![«Единая Россия» обяжет УК отчитываться перед собственниками жилья](https://cdn.er.ru/media/news/September2024/dH5sXAYWH6AAXT9QYRbx-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-obyazhet-uk-otchityvatsya-pered-sobstvennikami-zhilya)
 
@@ -329,7 +329,7 @@
 
 [#Разворотнева](https://er.ru/activity/news?tags%5B0%5D=11486) [#Качкаев](https://er.ru/activity/news?tags%5B0%5D=20587) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#УК](https://er.ru/activity/news?tags%5B0%5D=5380) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#отчетность](https://er.ru/activity/news?tags%5B0%5D=3743) [#ТСЖ](https://er.ru/activity/news?tags%5B0%5D=766)
 
-Сегодня 14:20
+25.09.24
 
 [![Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://cdn.er.ru/media/news/September2024/pcvz2jvZOoMt86BPNWIr-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
 
@@ -337,7 +337,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
 
-Сегодня 12:51
+25.09.24
 
 [![Ирина Яровая: Законопроекты «Единой России» системно направлены на реализацию обозначенной Президентом стратегии по защите семьи](https://cdn.er.ru/media/news/September2024/LijuVd6xvuIjwji620Y1-small.jpg)](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-edinoj-rossii-sistemno-napravleny-na-realizaciyu-oboznachennoj-prezidentom-strategii-po-zashite-semi)
 
@@ -345,7 +345,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#сменапола](https://er.ru/activity/news?tags%5B0%5D=1094236) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
-Сегодня 11:20
+25.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
