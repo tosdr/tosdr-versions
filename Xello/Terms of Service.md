@@ -20,7 +20,7 @@ Your school district or organization\*
 
 Which best describes your role?\*
 
-Please selectK-12 District LeaderK-12 School LeaderK-12 CounselingK-12 CTECareer or Library ServicesHigher EducationTeacherStudentParent / FamilyOther
+Please selectK-12 District LeaderK-12 School LeaderK-12 CounselingK-12 CTEK-12 Careers AdvisorCareer or Library ServicesHigher EducationTeacherStudentParent / FamilyOther
 
 What is the nature of your organization?\*
 
@@ -37,6 +37,20 @@ Please selectInterested in buyingTechnical Support
 Your organization's website\*
 
 What career development services do you provide and to whom?\*
+
+As a student you may be looking for information about accessing and using the program. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information from your district.  
+  
+If you have specific question, fill in the comments box and our support team will be in touch.
+
+As a teacher you maybe looking for information about accessing and using the program. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information from your district.  
+  
+If you are interested in bringing Xello to your school district, please connect with a Counselor or Career Advisor so that we can set up a demo for your whole team.  
+  
+If you have specific questions, fill in the comments box and our support team will be in touch.
+
+As a parent or family member you may be looking for information about accessing and using your family account. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information from your district. More details on our family program can be found [here](https://help.xello.world/en-us/Content/Get-Started/Xello-Families/GS_Families.htm?Highlight=parent%20portal).  
+  
+If you have specific question, fill in the comments box and our support team will be in touch.
 
 What can we help you with today?\*
 
