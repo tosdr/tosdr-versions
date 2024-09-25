@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![George Vigil appears in a booking photo](https://am22.mediaite.com/lc/cnt/uploads/2024/09/George-Vigil-432x243.jpg)](https://lawandcrime.com/crime/wanted-to-make-a-sandwich-and-asked-where-the-hot-sauce-was-argument-over-condiment-bottle-kept-in-bedroom-leaves-one-man-dead-another-charged-with-murder/)
+1. [![Left inset: Monique Baugh (Estes Funeral Chapel). Right inset: Elsa E. Segura (Hennepin County Sheriff's Office). Background: The location where Baugh was lured to her death (KMSP).](https://lawandcrime.com/wp-content/uploads/2024/09/minnmurder-1-432x243.jpg)](https://lawandcrime.com/crime/not-acceptable-family-of-real-estate-agent-and-mom-of-2-lured-to-her-death-says-woman-who-pleaded-guilty-figured-out-how-to-get-shorter-time/)
     
-    ### ['Wanted to make a sandwich and asked where the hot sauce was': Argument over condiment bottle kept in bedroom leaves one man dead and another charged with murder](https://lawandcrime.com/crime/wanted-to-make-a-sandwich-and-asked-where-the-hot-sauce-was-argument-over-condiment-bottle-kept-in-bedroom-leaves-one-man-dead-another-charged-with-murder/)
+    ### ['Not acceptable': Family of real estate agent and mom of 2 lured to her death says woman who pleaded guilty 'figured out how to get shorter time'](https://lawandcrime.com/crime/not-acceptable-family-of-real-estate-agent-and-mom-of-2-lured-to-her-death-says-woman-who-pleaded-guilty-figured-out-how-to-get-shorter-time/)
     
-2. [![Stewart Rosenwasser](https://am23.mediaite.com/lc/cnt/uploads/2024/09/rosenwasser-432x243.jpg)](https://lawandcrime.com/high-profile/ex-judge-investigated-for-taking-bribes-to-prosecute-a-mans-sister-and-nephew-stunningly-dies-by-own-hand-just-before-fbi-can-arrest-him-for-several-crimes/)
+2. [![Crystal Rasch missing](https://lawandcrime.com/wp-content/uploads/2024/07/Crystal-Rasch-missing-432x243.jpg)](https://lawandcrime.com/crime/can-police-get-a-search-warrant-on-a-sunday-husband-charged-with-murder-after-missing-estranged-wifes-tooth-found-in-burn-pit-near-his-home-cops-say/)
     
-    ### [Ex-judge investigated for taking bribes to prosecute a man's sister and nephew stunningly dies by own hand just before FBI can arrest him for several crimes](https://lawandcrime.com/high-profile/ex-judge-investigated-for-taking-bribes-to-prosecute-a-mans-sister-and-nephew-stunningly-dies-by-own-hand-just-before-fbi-can-arrest-him-for-several-crimes/)
+    ### ['Can police get a search warrant on a Sunday': Husband charged with murder after missing estranged wife's tooth found in burn pit near his home, cops say](https://lawandcrime.com/crime/can-police-get-a-search-warrant-on-a-sunday-husband-charged-with-murder-after-missing-estranged-wifes-tooth-found-in-burn-pit-near-his-home-cops-say/)
     
-3. [![Top inset: Rakim Hasheem Allen (Owen Sweeney/Invision/AP, File). Bottom inset: Freddie Lee Trone (Los Angeles Police Department). Background: The restaurant where Allen was shot and killed. (KTLA)](https://am21.mediaite.com/lc/cnt/uploads/2024/09/lamurder-1-432x243.jpg)](https://lawandcrime.com/crime/i-just-cant-comprehend-it-father-who-ordered-teen-son-to-shoot-rapper-pnb-rock-for-his-jewelry-at-los-angeles-restaurant-in-front-of-his-4-year-old-daughter-learns-fate/)
+3. [![Background: Orange County Superior Court Judge Jeffrey Malcolm Ferguson in court. Inset: Sheryl Ferguson (KTTV).](https://lawandcrime.com/wp-content/uploads/2024/09/lcmurder-432x243.jpg)](https://lawandcrime.com/crime/judge-who-allegedly-lost-it-and-reeked-of-booze-after-shooting-wife-thrown-back-in-jail-after-ankle-monitor-raises-red-flag/)
     
-    ### ['I just can't comprehend it': Father who ordered teen son to shoot rapper 'PnB Rock' for his jewelry at Los Angeles restaurant in front of his 4-year-old daughter learns fate](https://lawandcrime.com/crime/i-just-cant-comprehend-it-father-who-ordered-teen-son-to-shoot-rapper-pnb-rock-for-his-jewelry-at-los-angeles-restaurant-in-front-of-his-4-year-old-daughter-learns-fate/)
+    ### [Judge who allegedly 'lost it' and reeked of booze after shooting wife thrown back in jail after ankle monitor raises red flag](https://lawandcrime.com/crime/judge-who-allegedly-lost-it-and-reeked-of-booze-after-shooting-wife-thrown-back-in-jail-after-ankle-monitor-raises-red-flag/)
     
-4. [![Tricia Cavanaugh appears inset against an image of the house where her daughter died.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Tricia-Cavanaugh-432x243.jpg)](https://lawandcrime.com/crime/not-so-sure-about-that-judge-chides-self-described-super-mom-who-repeatedly-ignored-advice-about-co-sleeping-with-infants-and-eventually-caused-her-baby-girls-death/)
+4. [![John Raymond](https://lawandcrime.com/wp-content/uploads/2024/09/John-Raymond-432x243.jpg)](https://lawandcrime.com/crime/duty-to-counsel-not-suffocate-former-survivor-contestant-and-pastor-who-covered-4-year-olds-face-until-he-went-limp-blames-cancel-culture/)
     
-    ### ['Not so sure about that': Judge chides self-described 'super mom' who repeatedly ignored advice about co-sleeping with infants and eventually caused her baby girl's death](https://lawandcrime.com/crime/not-so-sure-about-that-judge-chides-self-described-super-mom-who-repeatedly-ignored-advice-about-co-sleeping-with-infants-and-eventually-caused-her-baby-girls-death/)
+    ### ['Duty to counsel, not suffocate': Former 'Survivor' contestant and pastor who covered 4-year-old's face until he went 'limp' blames 'cancel culture'](https://lawandcrime.com/crime/duty-to-counsel-not-suffocate-former-survivor-contestant-and-pastor-who-covered-4-year-olds-face-until-he-went-limp-blames-cancel-culture/)
     
-5. [![Eliazar Cisneros](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Biden-bus-432x243.jpg)](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
+5. [![Ryan Routh, Aileen Cannon, Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/09/Routh-432x243.jpg)](https://lawandcrime.com/high-profile/judge-who-tossed-out-mar-a-lago-case-just-got-a-major-new-assignment-as-trump-assassination-attempt-suspect-with-over-a-hundred-arrests-is-kept-behind-bars/)
     
-    ### ['Trump Train' driver who hit into Biden-Harris campaign volunteer behind bus in 2020 and said 'I kind of saved Texas' found liable in KKK Act lawsuit](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
+    ### [Judge who tossed out Mar-a-Lago case just got a major new assignment as Trump assassination attempt suspect with 'over a hundred arrests' is kept behind bars](https://lawandcrime.com/high-profile/judge-who-tossed-out-mar-a-lago-case-just-got-a-major-new-assignment-as-trump-assassination-attempt-suspect-with-over-a-hundred-arrests-is-kept-behind-bars/)
     
 
 [](http://eepurl.com/c89Jdb)
