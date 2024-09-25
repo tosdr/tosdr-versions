@@ -416,3 +416,7 @@ Looking for something specific?
 -------------------------------
 
  _Search_
+
+![loading](https://factsmgt.com/wp-content/plugins/geotargetingwp/addons/geo-redirects/public/img/loading.svg)
+
+Please wait while you are redirected to the right page...
