@@ -122,14 +122,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Ben Shapiro The Greatest Scandal in Modern American History That No One Cares About](https://patriotpost.us/opinion/110515-the-greatest-scandal-in-modern-american-history-that-no-one-cares-about-2024-09-25)
+*      [Guest Commentary Free Speech Under Fire](https://patriotpost.us/opinion/110517-free-speech-under-fire-2024-09-25)
 *      [Ian Haworth Kamala Harris Has the Secret Service. We Don’t.](https://patriotpost.us/opinion/110516-kamala-harris-has-the-secret-service-we-dont-2024-09-24)
 *      [Mark Alexander The Left’s Latest ‘Gun Violence’ Cover-Up](https://patriotpost.us/alexander/110457-the-lefts-latest-gun-violence-cover-up-2024-09-24)
 *      [Christine Flowers After Would-Be Assassin Was Arrested, Pundits Said All the Right Things… At First](https://patriotpost.us/opinion/110498-after-would-be-assassin-was-arrested-pundits-said-all-the-right-things-dot-dot-dot-at-first-2024-09-24)
 *      [Salena Zito New Poll Shows Voters Moving Right on Tax Cuts](https://patriotpost.us/opinion/110497-new-poll-shows-voters-moving-right-on-tax-cuts-2024-09-24)
 *      [Daniel McCarthy Trump’s Would-Be Assassin’s Explanation](https://patriotpost.us/opinion/110495-trumps-would-be-assassins-explanation-2024-09-24)
 *      [Stephen Moore Is Washington Distorting the Numbers?](https://patriotpost.us/opinion/110494-is-washington-distorting-the-numbers-2024-09-24)
-*      [Victor Joecks The War on Free Speech Is Here](https://patriotpost.us/opinion/110492-the-war-on-free-speech-is-here-2024-09-24)
-*      [Cal Thomas Kamala Harris Owes Us Some Answers](https://patriotpost.us/opinion/110491-kamala-harris-owes-us-some-answers-2024-09-24)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,7 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
