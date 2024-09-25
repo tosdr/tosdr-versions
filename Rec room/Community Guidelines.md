@@ -1,3 +1,5 @@
+[Switch Pre-Reg](https://rec.net/switch)
+
 [Play on PC](https://rec.net/download)
 
 [Directory](https://recroom.com/directory)
@@ -14,6 +16,8 @@
 
 [![Rec Room](//images.squarespace-cdn.com/content/v1/582e7271bebafbd72792bd97/bf633a24-58e0-4702-bff9-47df51fc2d7e/1000_square_stacked.png?format=1500w)](https://recroom.com/)
 ===============================================================================================================================================================================
+
+[Switch Pre-Reg](https://rec.net/switch)
 
 [Play on PC](https://rec.net/download)
 
