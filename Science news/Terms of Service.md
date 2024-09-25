@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [Semaglutide may reduce opioid overdoses, a new study suggests](https://www.sciencenews.org/article/semaglutide-ozempic-opioid-overdose) 
+            
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")14 mins ago
+            
+        * [Psychology](https://www.sciencenews.org/topic/psychology)
+            
+            ### [A brain network linked to attention is larger in people with depression](https://www.sciencenews.org/article/brain-network-larger-depression)
+            
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")2 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
             By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")September 23, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [By studying the eyes, a researcher explores how the brain sorts information](https://www.sciencenews.org/article/freek-van-ede-brain-attention-eye-sort)
-            
-            By [Bethany Brookshire](https://www.sciencenews.org/author/bethany-brookshire "Posts by Bethany Brookshire")September 23, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [A cell biologist is investigating the balance of brain flexibility, stability](https://www.sciencenews.org/article/andrea-gomez-brain-flexibility-behavior)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 23, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Microbes](https://www.sciencenews.org/topic/microbes)
+    * * [Psychology](https://www.sciencenews.org/topic/psychology)
+            
+            ### [A brain network linked to attention is larger in people with depression](https://www.sciencenews.org/article/brain-network-larger-depression)
+            
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")2 hours ago
+            
+        * [Microbes](https://www.sciencenews.org/topic/microbes)
             
             ### [This amoeba eats prey like owls do](https://www.sciencenews.org/article/amoeba-eats-removes-shell)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")18 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")September 24, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
             
             By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")September 23, 2024
-            
-        * [Environment](https://www.sciencenews.org/topic/environment)
-            
-            ### [A biogeochemist is tracking the movements of toxic mercury pollution](https://www.sciencenews.org/article/jacqueline-gerson-mercury-movement)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A vital ocean current is stable, for now](https://www.sciencenews.org/article/vital-ocean-florida-current-stable)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")20 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 24, 2024
             
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
             
             ### [‘Smart lighting’ might make vertical farming more affordable](https://www.sciencenews.org/article/smart-lighting-vertical-farming)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")24 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")September 24, 2024
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Physicists just discovered the rarest particle decay ever](https://www.sciencenews.org/article/rarest-particle-decay-kaons)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 24, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
