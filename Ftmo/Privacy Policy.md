@@ -448,7 +448,7 @@ Purkynova 2121/3, 110 00, Prague
 Czech Republic
 
 * [\[email protected\]](https://ftmo.com/cdn-cgi/l/email-protection)
-* [+44 20 3322 2983](tel:+44 20 3322 2983)
+* [+420 910 920 310](tel:+420 910 920 310)
 * [WhatsApp](https://api.whatsapp.com/send?phone=442033222983)
 
 ### Company
