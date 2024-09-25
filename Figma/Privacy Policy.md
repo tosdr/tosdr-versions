@@ -739,7 +739,7 @@ Resources
 * [Support](https://help.figma.com/hc/en-us)
 * [Status](https://status.figma.com/)
 * [Legal and privacy](https://www.figma.com/legal/)
-* [Modern slavery statement](https://static.figma.com/uploads/160c9cb21d6020c9eacaff67ac1450eb05d48c3b)
+* [Modern slavery statement](https://static.figma.com/uploads/1b6f8f613c2cc1e77fe543424bbc631298504d35)
 * [Climate disclosure statement](https://static.figma.com/uploads/d2a204b5cc4d64ff539fcd445d0ddedab7dc00f6)
 
 Compare
@@ -758,6 +758,6 @@ Company
 * [Customers](https://www.figma.com/customers/)
 * [Careers](https://www.figma.com/careers/)
 
-EnglishDeutschEspañol (España)Español (Latinoamérica)FrançaisPortuguês (Brasil)日本語한국어
+English
 
 English
