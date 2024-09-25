@@ -107,7 +107,7 @@ FR
         
         [Lenovo Canada
         
-        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
+        10% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)[HP Canada
         
@@ -329,7 +329,7 @@ FR
         
         Michael Kors
         
-        6% Cash Back](https://www.rakuten.ca/ticket/campaign/17CategoryFeaturedStores/store/michael-kors?sourceName=nav-menu)
+        4% Cash Back](https://www.rakuten.ca/ticket/campaign/17CategoryFeaturedStores/store/michael-kors?sourceName=nav-menu)
         
     * [Make Your Move](https://www.rakuten.ca/stores/make-your-move "Make Your Move Promo Codes and Coupons")
         
