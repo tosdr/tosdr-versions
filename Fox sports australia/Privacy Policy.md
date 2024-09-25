@@ -18,26 +18,16 @@ FOX SCORES
     
 * [Women's Tests
     
-    25/9 19:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | ENG | –   |
+    | AUS | 69  |
+    | ENG | 56  |
     
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240103)
 * Cricket
     
-* [Men's ODI
-    
-    ENG won by 46 runs (DLS)
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 4 /254 |
-    | AUS | 7 /304 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
 * [One-Day Cup
     
     No Result
@@ -48,6 +38,26 @@ FOX SCORES
     | QLD | 5 /128 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250104)
+* [One-Day Cup
+    
+    26/9 9:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NSW | –   |
+    | SA  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250105)
+* [WNCL
+    
+    26/9 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WA  | –   |
+    | TAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250102)
 * AFL
     
 * [AFL
@@ -62,12 +72,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * [AFL Women's
     
-    25/9 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | CAR | –   |
-    | NM  | –   |
+    | CAR | 1.4.10 |
+    | NM  | 12.7.79 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240502)
 * NRL
