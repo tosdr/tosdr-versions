@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[⚡️Flash Sale⚡️ Register a short and memorable .CO domain for only $2.99 until 9/29/2024 23:59 UTC!](https://www.dynadot.com/domain/co?utm_source=Promobar&utm_campaign=CO%20Promobar%20Sept%202024&utm_medium=co%20flash&drefid=4600) [Transfer your .COM domains for $10.50 with coupon code: FALL1050 until 9/30/24 23:59 UTC!](https://www.dynadot.com/domain/transfer?utm_source=Promobar&utm_campaign=COM%20Transfer%20Promobar%20Sept%202024&utm_medium=com%20transfer&drefid=4601)
+[Transfer your .COM domains for $10.50 with coupon code: FALL1050 until 9/30/24 23:59 UTC!](https://www.dynadot.com/domain/transfer?utm_source=Promobar&utm_campaign=COM%20Transfer%20Promobar%20Sept%202024&utm_medium=com%20transfer&drefid=4601)[⚡️Flash Sale⚡️ Register a short and memorable .CO domain for only $2.99 until 9/29/2024 23:59 UTC!](https://www.dynadot.com/domain/co?utm_source=Promobar&utm_campaign=CO%20Promobar%20Sept%202024&utm_medium=co%20flash&drefid=4600)
 
 [](https://www.dynadot.com/)
 
