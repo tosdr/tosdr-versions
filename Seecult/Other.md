@@ -223,6 +223,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -234,16 +244,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo/zec-msuv-12.jpg?itok=4jY1ioNQ)](http://seecult.org/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa/scena1-desni-prizor.jpg?itok=ihuMTq7b)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/milosevicu.jpg?itok=Th0Xk2vw)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/cvor.jpg?itok=c1kTNMAj)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Vladimir R. Petković: Utemeljitelj struke i nauke](http://seecult.org/vest/vladimir-r-petkovic-utemeljitelj-struke-i-nauke)
+* [Jesenja izložba - 5+: Preko granica izvanrednosti](http://seecult.org/vest/jesenja-izlozba-5-preko-granica-izvanrednosti)
 * [Otvaranje nove sezone BGF posvećeno Tasovcu](http://seecult.org/vest/otvaranje-nove-sezone-bgf-posveceno-tasovcu)
 * [Početak 17. LIFFE u znaku Paskaljevića](http://seecult.org/vest/pocetak-17-liffe-u-znaku-paskaljevica)
 * [Nevidljive katastrofe](http://seecult.org/vest/nevidljive-katastrofe)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Jedinstveni Iljovski u Čolakoviću](http://seecult.org/vest/jedinstveni-iljovski-u-colakovicu)
 * [Verujte u nas](http://seecult.org/vest/verujte-u-nas)
 * [Megdan u bioskopima](http://seecult.org/vest/megdan-u-bioskopima)
-* [Sofija](http://seecult.org/vest/sofija)
-* [Nagrada Milan Mladenović bendu Nemeček](http://seecult.org/vest/nagrada-milan-mladenovic-bendu-nemecek)
 
 * [Konkursi](#tab1_1)
 
