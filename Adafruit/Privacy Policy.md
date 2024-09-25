@@ -75,21 +75,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Video of double-sided LED strip with rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5985-00.jpg)[Adafruit Double-Sided Emitter NeoPixel LED Strip - 120 LEDs/m
+    
+    $29.50](https://www.adafruit.com/product/5985)
+    
+    ![Angled shot of white, square-shaped dev board.](https://cdn-shop.adafruit.com/230x173/6042-00.jpg)[LANA TNY - CH32V203 mini microcontroller board by PHVX BV
+    
+    $6.50](https://www.adafruit.com/product/6042)
+    
+    ![Angled shot of black, rectangle-shaped microphone breakout board.](https://cdn-shop.adafruit.com/230x173/6049-00.jpg)[Adafruit I2S MEMS Microphone Breakout - ICS-43434
+    
+    $4.95](https://www.adafruit.com/product/6049)
+    
     ![Angled shot of black, rectangular temperature and humidity sensor breakout.](https://cdn-shop.adafruit.com/230x173/5989-07.jpg)[Adafruit HDC3022 Precision Temperature & Humidity Sensor
     
     $8.95](https://www.adafruit.com/product/5989)
-    
-    ![Angled shot of floppy hard drive.](https://cdn-shop.adafruit.com/230x173/6037-00.jpg)[Upcycled 3.5" Floppy Drive - Sony MPF-920 or Compatible
-    
-    $19.95](https://www.adafruit.com/product/6037)
-    
-    ![Video of LED strand with 20 heart-shaped LEDs glowing rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5983-00.jpg)[Adafruit NeoPixel LED Heart Shape Pixel Strand - 20 LEDs
-    
-    $8.95](https://www.adafruit.com/product/5983)
-    
-    ![Angled shot of blue micro servo installed in a vertical plastic mount with LEGO bricks.](https://cdn-shop.adafruit.com/230x173/6044-03.jpg)[Vertical Micro Servo Mount for LEGO-Compatible Brick Systems
-    
-    $1.95](https://www.adafruit.com/product/6044)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ When you destroy art, you make it stronger”
+“ That brain of mine is something more than merely mortal; as time will show”
 
-[Jens Galschiot](https://en.wikipedia.org/wiki/Jens_Galschi%C3%B8t)
+[Ada Lovelace](https://www.newscientist.com/article/mg21628860-300-ada-lovelace-my-brain-is-more-than-merely-mortal/)
 
 [](https://www.adafruit.com/about)
 
