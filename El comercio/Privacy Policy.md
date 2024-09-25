@@ -31,6 +31,161 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El embalse de la hidroeléctrica Mazar subió un metro
+====================================================
+
+Cuenca cumplió 75 días de sequía hidrológica. No se tienen previstas lluvias para este miércoles 25 de septiembre.
+------------------------------------------------------------------------------------------------------------------
+
+![La central hidroeléctrica Mazar está ubicada en los límites de Azuay y Cañar. Tiene dos turbinas. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/09/Mazar.jpg)
+
+Las centrales hidroeléctricas **Mazar, Paute y Sopladora** funcionan por horas en función de la demanda de energía que requiere **Ecuador**. Su aporte se redujo debido a los cortes de luz.
+
+El **Operador Nacional de Electricidad (Cenace)** programó que las tres generadoras aporten con solo el 10% de la producción hidroeléctrica para este miércoles 25 de septiembre de 2024.
+
+En condiciones normales oscilan entre el 30% y 40%. **Coca Codo Sinclair** generará el 40%.
+
+Hasta las 08:00 de este miércoles, se prendieron tres turbinas de **Paute** durante dos horas. Apenas generaron 214 megavatios/hora.
+
+**Sopladora** aportó con 123 megavatios/hora y las turbinas de **Mazar** no se han prendido desde las 18:00 del martes 24 de septiembre.
+
+### Más noticias
+
+* [Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas](https://www.elcomercio.com/actualidad/negocios/nivel-de-agua-del-embalse-de-mazar-afecta-operacion-de-tres-hidroelectricas.html "Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas")
+* [El ahorro es crucial en la crisis por los cortes de luz](https://www.elcomercio.com/opinion/editorial/ahorro-energia-crucial-crisis-cortes-luz-ecuador.html "El ahorro es crucial en la crisis por los cortes de luz")
+* [Quito no tendrá cortes de luz por emergencia de incendios forestales](https://www.elcomercio.com/actualidad/quito/quito-no-tendra-cortes-de-luz-por-emergencia-de-incendios-forestales.html "Quito no tendrá cortes de luz por emergencia de incendios forestales")
+
+Los caudales en Mazar
+---------------------
+
+La cota de la **presa de Mazar** ha subido un metro desde el inicio de los cortes de luz en **Ecuador**. Ahora, se ubica en los 2 117,6 metros sobre el nivel del mar. El domingo 22 estuvo en los 2 116,46.
+
+Ese crecimiento se debe a que no se usan las reservas para la **generación eléctrica**. Los caudales siguen bajos debido a la falta de lluvias en las zonas de recarga hídrica de la cuenca del río **Paute**.
+
+El caudal promedio de este miércoles 25 es de 22,91 metros cúbicos por segundo.
+
+La cota de **Mazar** se ubica a 35 metros del máximo y a siete metros del nivel que se perdería el control, según las autoridades eléctricas. El nivel mínimo es de 2 098 metros.
+
+Las condiciones en la central Paute
+-----------------------------------
+
+El embalse de la **central hidroeléctrica Paute,** que es la segunda más grande de **Ecuador**, tiene capacidad para almacenar 110 millones de metros cúbicos.
+
+Su cota está en los 1 984 metros sobre el nivel del mar. Es decir, a siete del máximo y a nueve del mínimo. Este embalse se alimenta con el agua que ingresa desde **Mazar**.
+
+La sequía en Cuenca
+-------------------
+
+Según la **Red Hidrometereológica** de la empresa Etapa de **Cuenca**, los caudales de los ríos **Tomebamba, Yanuncay y Machángara** están en niveles considerados como bajos. El **Tarqui** se ubica en condiciones de estiaje.
+
+La situación no ha variado y no se tienen previstas precipitaciones para este miércoles 24 de septiembre en la región. La **sequía hidrológica** en **Cuenca** cumplió 75 días.
+
+Cierres viales en Quito por incendio forestal en Guápulo
+========================================================
+
+El Cuerpo de Bomberos Quito informó que el incendio forestal de Guápulo fue provocado.
+--------------------------------------------------------------------------------------
+
+![El incendio forestal de Guápulo llegó hasta las zonas pobladas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cierres-viales-incendio-forestal-de-Guapulo.jpg)
+
+El martes 24 de septiembre de 2024, un incendio forestal en Guápulo, en el centro-norte de Quito, provocó el cierre del túnel **Guayasamín** y la avenida **Simón** **Bolívar**.
+
+Más noticias
+------------
+
+* [Incendio forestal en Guápulo continúa activo; en un día lleno de emergencias](https://www.elcomercio.com/actualidad/quito/incendio-forestal-de-guapulo-continua-activo-en-un-dia-lleno-de-emergencias.html "Incendio forestal en Guápulo continúa activo; en un día lleno de emergencias")
+* [Militares se movilizan para combatir el incendio forestal en Guápulo](https://www.elcomercio.com/actualidad/quito/militares-movilizan-combatir-incendio-guapulo.html "Militares se movilizan para combatir el incendio forestal en Guápulo")
+* [Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito](https://www.elcomercio.com/actualidad/nuevo-incendio-forestal-en-el-sector-la-toglla-en-el-cerro-ilalo-de-quito.html "Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito")
+
+La mañana del miércoles 25 de septiembre, la Agencia Metropolitana de Tránsito informó sobre varios cierres viales en Quito. A continuación, se detallan las vías afectadas:
+
+Vías cerradas en Quito debido al incendio en Guápulo
+----------------------------------------------------
+
+* Av. Coruña y González Suárez.
+* Coruña y Barreto.
+* González Suárez y Bosmediano.
+* Diego de Almagro e Interoceánica.
+* Av. 6 de Diciembre e Interoceánica.
+* Av. Simón Bolívar e Interoceánica.
+* Conquistadores, desde la Simón Bolívar hasta la Ninagualpa.
+* Parque Navarro, av. Conquistadores y Alfonso Perrier.
+* Rafael León y Caminos de Orellana.
+* Túnel Guayasamín.
+
+El **Pico** y **placa** de este 25 de septiembre se mantiene activo. Los vehículos cuyas placas terminan en 5 y 6 tienen **restricción vehicular**.
+
+Situación del incendio en Guápulo la mañana del 25 de septiembre
+----------------------------------------------------------------
+
+ El **Cuerpo** de **Bomberos** de **Quito** informó a las 06:56 que trabajaron durante toda la noche y madrugada en los focos activos del incendio, que se extendió hacia el parque Metropolitano y el cerro Auqui.
+
+Desde las 06:00, desplegaron drones para identificar los puntos calientes y utilizaron un helicóptero para combatir el fuego.
+
+**Apoyo de bomberos de otras ciudades:** Bomberos de Santo Domingo, Riobamba, Lago Agrio y Pedro Vicente Maldonado se unieron a las labores de combate, junto con personal del Ministerio del Ambiente y Fonag.
+
+Consejos para cuidar la salud durante los incendios forestales en Quito
+-----------------------------------------------------------------------
+
+La neumóloga, **Carina** **Coronel**, aconseja sellar con trapos húmedos todos los espacios de los domicilios por dónde pueda ingresar la ceniza. En estos casos también se colocan cintas adhesivas.
+
+Tratar de mantener las **puertas** y las **ventanas** **cerradas** para evitar el contacto con las partículas de ceniza. En lo posible recomienda evitar salir al aire libre.
+
+Esta recomendación va dirigida, principalmente, a niños menores de cinco años, personas de la tercera edad, con enfermedades respiratorias o **condiciones** **médicas** **vulnerables**.
+
+**Rasa** **Zalakeviciute**, ingeniera ambiental e investigadora de la UDLA, agrega el uso de purificador de aire, en caso de tenerlo para reducir las partículas en el ambiente. Esta recomendación resulta útil por la irritación en las **vías** **respiratorias**, tos y dolor de la garganta que se siente, añade.
+
+Es mejor **restringir** la **actividad** **física** afuera porque cuando se hace ejercicios se respira e inhala más y hay que evitar problemas de salud.
+
+Así funciona el Pico y placa en Quito este miércoles 25 de septiembre
+=====================================================================
+
+El control del Pico y placa está a cargo de la AMT.
+---------------------------------------------------
+
+![El Pico y placa sí rige en Quito este 25 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-placa-Quito.jpg)
+
+El **Municipio** de **Quito** implementó la medida de **Pico** y **placa** en **la capital** para controlar el flujo vehicular dentro de la ciudad.
+
+Más noticias
+------------
+
+* [Concejo de Quito debate las sanciones por Pico y placa](https://www.elcomercio.com/actualidad/quito/sanciones-pico-placa-concejo-metropolitano-municipio-quito.html)
+* [Controles de exceso de velocidad se harán con este cronograma](https://www.elcomercio.com/actualidad/quito/controles-de-exceso-de-velocidad-cronograma.html)
+* [Pico y placa sí aplicará este miércoles 25 de septiembre](https://www.elcomercio.com/actualidad/quito/pico-y-placa-si-aplicara-este-miercoles-25-de-septiembre.html "Pico y placa sí aplicará este miércoles 25 de septiembre")
+
+La medida del Pico y placa incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La restricción vehicular Pico y placa en Quito se aplica cinco días a la semana, de lunes a viernes, de 06:00 a 09:30 y de 16:00 a 20:00.
+
+Este miércoles, no pueden circular los autos con placas terminadas en dígitos 5 y 6.
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional al **Pico** y **placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (**AMT**) también aplica **contraflujos** en **Quito**, estos son:
+
+–**Avenida Mariscal Sucre**: desde el cementerio de **San Diego** hasta la avenida Universitaria.
+
+**Mañana**: 06:30 a 07:00 y de 07:30 a 08:00
+
+**Tarde**: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista** **General Rumiñahui**: desde la av. **Pichincha**, en El **Trébol**, hasta el sector de **Cuscungo**, en la autopista.
+
+**Mañana**: 06:30 a 07:30 y de 08:00 a 08:30
+
+**Tarde**: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida **Napo** hasta la av. **Velasco Ibarra** (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+**Mañana**: 06:00 a 08:30
+
+**Tarde**: 17:00 a 19:00
+
 El ahorro es crucial en la crisis por los cortes de luz
 =======================================================
 
@@ -92,22 +247,6 @@ Hagamos votos porque las cosas mejoren, qué pasen estos momentos de pesadumbre 
 
 Hernán Patricio Orcés Salvador
 
-¿Rusificar Ucrania?
-===================
-
-La invasión rusa y su guerra en Ucrania ha violado todos los tratados y en particular el de Ginebra.
-----------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Admito ante ustedes que ha sido raro dudar el título a un **artículo** que escribo. En este caso he titubeado. Luego de visitar varios días **Ucrania** y conocer de cerca la **cruel** y **demencial invasión** producida desde el jueves 24 de febrero 2022; esta ha durado hasta hoy, 943 días; cerca de 3 años. Se trata del mayor **ataque bélico** que conoce **Europa** después de la **Segunda Guerra Mundial**. Un aparatoso y aciago operativo militar de largo alcance, un convoy de 56 kilómetros de **tanques blindados**, que ha incluido hasta **armas químicas** prohibidas. Kremlin denominó la **invasión** con la ironía de «Operación militar especial». Querían en cuatro días destruir **Ucrania**, la toma de Kiev y la destitución del presidente Volodímir Zelenski.
-
-¿El sueño de Putin es imperial? ¿La **nostalgia** por la desaparición de la URSS? ¿El haber perdido el control de quince naciones, entre ellas Ucrania, Polonia, Estonia, Letonia, Lituania? ¿El complejo de la «Madre Rusia» que castiga a quienes considera todavía sus pequeños? ¿El **discurso** de «único pueblo», que coloca a **Ucrania** como un pedazo de Rusia y sin identidad?  No olvidemos que la **Unión Soviética** asfixió manifestaciones de **libertad** invadiendo Polonia (1939), Hungría (1954), Checoslovaquia (1968). Luego vendrá Chechenia, Crimea.
-
-**Rusia** y su aparatoso **sistema propagandístico** venden la idea de ser todopoderosa e **imperial**; y países como **Ucrania** no tienen **historia** ni identidad.  Hermano menor a quien puede regañar, castigar, silenciar y hasta desaparecer. Pero los **hechos históricos** dicen lo contrario. Son **historias**, culturas, **costumbres**, lenguajes e **identidades** diferentes. Más son los aspectos que la diferencia de aquellos comunes. Pero Rusia tiene el sueño de **nación** única e imperial. Arrastra todavía algunas huellas del zarismo. En el siglo nueve el centro del **poder** es Kiev y Rus está sometida a la **autoridad** de los duques de Kiev. Hay ducados en lituana. El gran Estado cosaco. **Rusia** ignora aspectos esenciales de la **historia**.
-
-La **invasión rusa** y su **guerra** en **Ucrania** ha violado todos los tratados y en particular el de **Ginebra**. Han matado sin crueldad a **jóvenes** y adultos civiles. Han **masacrado**, violado a mujeres y niños, a estos últimos, los han atado y enterrado vivos. Bajo el subterfugio que «si crecen nos odiarán y se vengarán». He escuchado **testimonios** y visto algo parecido al **holocausto**.  Pero a pesar de la **omnipotencia** e impiedad de Putin, este ha sido humillado. Una parte del **himno** de **Ucrania** dice mucho de su **resistencia** y **dignidad**: «_daremos nuestra alma y nuestro cuerpo por nuestra libertad»._
-
 Bases y partidos
 ================
 
@@ -125,6 +264,22 @@ De manera que eliminar la **prohibición constitucional** de bases militares es 
 Sobre el **financiamiento estatal** de los **partidos políticos**, el Ecuador no puede seguir jugando el triste papel de alcahuete. 280 partidos o **movimientos** son una memez. Todos deberán reinscribirse en el CNE actualizando su ideario, **plan** de **gobierno** y nómina de afiliados. Se eliminarán los **alcahuetes** adherentes. Y el **Consejo Electoral**, ya es hora de que ejerza un **control** estricto de la **identidad** de los **afiliados** (sin **nóminas** compradas o alquiladas) y del financiamiento que reciban de los **sectores privados**. Habrá confirmación del **donante** y su **identidad**, prohibición para algunos **sujetos**, como **compañías extranjeras** y quienes contraten con el **Estado**, así como límite máximo de cada aporte.
 
 Basta de que los intereses de las **mafias** y **politicastros** de alquiler estén por encima de los **derechos** de los **ciudadanos**.
+
+¿Rusificar Ucrania?
+===================
+
+La invasión rusa y su guerra en Ucrania ha violado todos los tratados y en particular el de Ginebra.
+----------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Admito ante ustedes que ha sido raro dudar el título a un **artículo** que escribo. En este caso he titubeado. Luego de visitar varios días **Ucrania** y conocer de cerca la **cruel** y **demencial invasión** producida desde el jueves 24 de febrero 2022; esta ha durado hasta hoy, 943 días; cerca de 3 años. Se trata del mayor **ataque bélico** que conoce **Europa** después de la **Segunda Guerra Mundial**. Un aparatoso y aciago operativo militar de largo alcance, un convoy de 56 kilómetros de **tanques blindados**, que ha incluido hasta **armas químicas** prohibidas. Kremlin denominó la **invasión** con la ironía de «Operación militar especial». Querían en cuatro días destruir **Ucrania**, la toma de Kiev y la destitución del presidente Volodímir Zelenski.
+
+¿El sueño de Putin es imperial? ¿La **nostalgia** por la desaparición de la URSS? ¿El haber perdido el control de quince naciones, entre ellas Ucrania, Polonia, Estonia, Letonia, Lituania? ¿El complejo de la «Madre Rusia» que castiga a quienes considera todavía sus pequeños? ¿El **discurso** de «único pueblo», que coloca a **Ucrania** como un pedazo de Rusia y sin identidad?  No olvidemos que la **Unión Soviética** asfixió manifestaciones de **libertad** invadiendo Polonia (1939), Hungría (1954), Checoslovaquia (1968). Luego vendrá Chechenia, Crimea.
+
+**Rusia** y su aparatoso **sistema propagandístico** venden la idea de ser todopoderosa e **imperial**; y países como **Ucrania** no tienen **historia** ni identidad.  Hermano menor a quien puede regañar, castigar, silenciar y hasta desaparecer. Pero los **hechos históricos** dicen lo contrario. Son **historias**, culturas, **costumbres**, lenguajes e **identidades** diferentes. Más son los aspectos que la diferencia de aquellos comunes. Pero Rusia tiene el sueño de **nación** única e imperial. Arrastra todavía algunas huellas del zarismo. En el siglo nueve el centro del **poder** es Kiev y Rus está sometida a la **autoridad** de los duques de Kiev. Hay ducados en lituana. El gran Estado cosaco. **Rusia** ignora aspectos esenciales de la **historia**.
+
+La **invasión rusa** y su **guerra** en **Ucrania** ha violado todos los tratados y en particular el de **Ginebra**. Han matado sin crueldad a **jóvenes** y adultos civiles. Han **masacrado**, violado a mujeres y niños, a estos últimos, los han atado y enterrado vivos. Bajo el subterfugio que «si crecen nos odiarán y se vengarán». He escuchado **testimonios** y visto algo parecido al **holocausto**.  Pero a pesar de la **omnipotencia** e impiedad de Putin, este ha sido humillado. Una parte del **himno** de **Ucrania** dice mucho de su **resistencia** y **dignidad**: «_daremos nuestra alma y nuestro cuerpo por nuestra libertad»._
 
 Pico y placa sí aplicará este miércoles 25 de septiembre
 ========================================================
@@ -841,169 +996,3 @@ Los organismos correspondientes evacuaron la Fundación Casa del Hombre, que con
 Los caballos de un centro de equinoterapia que funciona en el sector, también.
 
 Por la calidad del aire, el alcalde Pabel Muñoz pidió la suspensión de la jornada laboral para este miércoles 25 de septiembre.
-
-Kocky y Jaggy también juegan las finales de la Liga Básquet Pro
-===============================================================
-
-Kocky y Jaggy son las dos mascotas que serán parte de las finales de la Liga Básquet Pro de Ecuador en el 2024.
----------------------------------------------------------------------------------------------------------------
-
-![Kocky (i) y Jaggy en la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/mascotas_basquet_1.jpg)
-
-**Kocky y Jaggy** son las mascotas de Jorge Guzmán de Loja y Zamora Jaguars, respectivamente, y también son parte del show que se pondrán en escena en las finales de la Liga Básquet Pro de Ecuador 2024.
-
-El entretenimiento en el **Coliseo Ciudad de Loja y en el Coliseo Mayor de Deportes** de Zamora está garantizado con la la presencia de Kocky y Jaggy, las mascotas finalistas que estarán animando a sus equipos para que alcancen el título de campeón.
-
-### Más noticias:
-
-* [Cortes de luz no afectarán el partido de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/cortes-de-luz-no-afectaran-partido-seleccion-de-ecuador.html "Cortes de luz no afectarán el partido de la Selección de Ecuador")
-* [La Serie B tiene seis fechas para definir a sus dos descendidos](https://www.elcomercio.com/deportes/futbol/serieb-calendario-descenso-segunda-categori.html "La Serie B tiene seis fechas para definir a sus dos descendidos")
-* [Ministerio del Deporte registró el Directorio del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/directorio-del-deportivo-quito-registrado-ministerio-deporte.html "Ministerio del Deporte registró el Directorio del Deportivo Quito")
-
-El campeón de la **Liga Básquet Pro se definirá al mejor de siete partidos**. Los dos primeros serán en Loja el sábado 28 y lunes 30 de septiembre; el tercero y cuarto el jueves 3 y sábado 5 de octubre en Zamora; el quinto el lunes 7 y el séptimo el sábado 12 en Loja; y el sexto el jueves 10 en Zamora.
-
-Cabe recalcar que los tres últimos encuentros se llevarán a cabo siempre y cuando la serie lo requiera.
-
-Kocky ofrece un show completo
------------------------------
-
-Kocky es parte de la Liga Básquet Pro desde 2022, año de su creación, fundación y puesta en marcha del torneo que actualmente tiene 12 participantes.
-
-Su **nombre es en honor a Jorge Guzmán**, exdeportista y dirigente lojano en cuya memoria se bautizó al equipo y así era conocido por su círculo cercano.
-
-Kocky es un puma y como fan de Jorge Guzmán tiene la libertad de **moverse por la cancha y estar cerca de los jugadores**, y de subir a las distintas localidades del Coliseo Ciudad de Loja para animar al equipo junto a los fanáticos locales.
-
-Pero Kocky tiene una característica que lo diferencia del resto de las mascotas, puesto que hace **acrobacias, malabares, telas aéreas, ingresa a la cancha en monociclo**, baila y anima.
-
-Así lo detalla Gabriel Flores en conversación con EL COMERCIO, el **encargado de darle vida a esta multifacética mascota** que prepara un show especial para las finales y también tiene pensado viajar a Zamora para alentar a los campeones de 2022 desde las gradas.
-
-Su dupla en el show es Gigio, **un animador encargado de interpretar lo que Kocky** no puede comunicar con palabras y se encarga de acercarlo más a sus fanáticos, en especial a los niños, que son los que más se divierten y se emocionan con su presencia.
-
-Sobre su camiseta lleva el número 23 en honor a Michael Jordan, ganador de seis anillos de la NBA.
-
-Flores nació en Guayaquil hace 37 años y llegó a Loja en 2011 con el Circo Social. Es licenciado en arte y docente de la carrera de circo, magia y clown en una universidad local.
-
-Desde 2016 con su propia empresa hace distintas **activaciones de marca en eventos, pero también talleres con orientación socio-educativa** y otros dedicados a empresas para fortalecer el trabajo en equipo.
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/mascotas_basquet_2-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-Jaggy y un debut glorioso a escala nacional
--------------------------------------------
-
-Jaggy es la mascota de Zamora Jaguars, el **equipo revelación de la Liga Básquet Pro 2024**, que llegó a la final al vencer a Liga de Quito por un marcador de 3-1.
-
-Para elegir el nombre se realizó un concurso en redes sociales en la que los **propios fanáticos dentro y fuera del país se encargaron de** ‘bautizarlo’.
-
-Jaggy es un joven de 23 años, mide 1.80 cm, su posición en la cancha es la de base, tal como Franco Borsellino, jugador argentino con una larga trayectoria en equipos de su país, en Ecuador y que brilla con los amazónicos.
-
-**Sobre su camiseta lleva el 8, en honor a Kobe Bryant**, ganador de cinco anillos de la NBA, que utilizó este número en gran parte de su carrera, como detalló Jorge Erazo, presidente de Zamora Jaguars en contacto telefónico con EL COMERCIO.
-
-Jaggy es ágil, fuerte y con habilidades para la gimnasia que también emplea un monopatín eléctrico para realizar sus presentaciones.
-
-Darío Sarango, reconocido gimnasta zamorano, **es el encargado de darle vida a Jaggy**, que ya prepara su show con el que deleitará a los asistentes al Coliseo Mayor de Zamora en las finales contra Jorge Guzmán.
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/mascotas_basquet_3-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Independiente del Valle se mete a semifinales en Copa Ecuador
-=============================================================
-
-Independiente del Valle sufrió ante el Guayaquil City en la Copa Ecuador pero pasó ante semifinales contra Universidad Católica.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Kenny Arroyo (segundo abajo de izquierda a derecha) celebra su gol con Independiente del Valle en la Copa Ecuador ante Guayaquil City.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000130815.jpg)
-
-**Independiente del Valle** se impuso por un marcador de 1-2 ante el Guayaquil City en la Copa Ecuador y obtuvo su boleto hacia las semifinales del certamen. El conjunto rayado tuvo inconvenientes como visitante, pero consiguió hacerse con la victoria.
-
-El **conjunto guayaquileño** llegaba como el más débil y era el único representante de la Serie B que se mantenía con vida en la competencia. Antes, la escuadra dirigida por **Pool Gavilánez** había superado a Delfín y Cumbayá, de la Serie A, y al Naranja Mekánica.
-
-### Más noticias:
-
-* [Liga de Quito vs. El Nacional, un duelo de campeones de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/liga-quito-el-nacional-copa-ecuador.html "Liga de Quito vs. El Nacional, un duelo de campeones de la Copa Ecuador")
-* [Guayaquil City vs. Independiente del Valle por Copa Ecuador, ¿a qué hora juegan?](https://www.elcomercio.com/deportes/futbol/guayaquil-city-independiente-copa-ecuador.html "Guayaquil City vs. Independiente del Valle por Copa Ecuador, ¿a qué hora juegan?")
-* [Universidad Católica es el primer semifinalista de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/universidad-catolica-copa-ecuador-semifinales.html "Universidad Católica es el primer semifinalista de la Copa Ecuador")
-
-Los rayados, que pusieron un equipo alterno, tuvieron un partido menos en su trajín, pues arrancaron desde los dieciseisavos de final, pues están en la máxima categoría. En los choques previos dejaron atrás a **Olmedo** de la Segunda Categoría y **Cuniburo** de la Serie B.
-
-Para el choque, el plantel de Sangolquí también llegó como el vigente campeón del torneo. En su última edición en 2022, la escuadra que en ese entonces dirigía **Martín Anselmi** se hizo con el trofeo al vencer en la final a 9 de Octubre.
-
-Los goles de Guayaquil City fueron anulados e IDV ganó
-------------------------------------------------------
-
-En un inicio, **Guayaquil City** fue el primero en ponerse en ventaja en el marcador, sin embargo, lo hizo de forma indebida y su gol fue anulado. **Édinson Mero** anotó para el cuadro local, pero su tanto no fue válido debido a un fuera de juego.
-
-A los 55′, Independiente del Valle abrió la cuenta gracias a un gol de **Kenny Arroyo**. El City volvió a anotar, pero una vez más, su gol no estuvo dentro de lo que contempla el reglamento. **Junior Sornoza** cerró el triunfo para los rayados.
-
-A pesar de ello, el cuadro costeño no dejó de luchar y consiguió un **gol legítimo** en los tiempos de descuento. **Édison Mero** puso el tanto de los ‘ciudadanos’ en los tiempos de descuento gracias a un penal.
-
-¿Contra quién jugará las semifinales Independiente del Valle?
--------------------------------------------------------------
-
-Tras su paso a la final, **Independiente del Valle** se encontrará con Universidad Católica en la penúltima llave del torneo. Los camarattas alcanzaron la mencionada fase tras derrotar a **Técnico Universitario** en el Olímpico Atahualpa.
-
-En la otra llave aún restan por resolverse dos partidos de los cuartos de final. Los cotejos son entre **El Nacional y Liga de Quito y Mushuc Runa y Libertad.**
-
-Incendios en Quito obligan a tomar medidas sobre las clases
-===========================================================
-
-Por los incendios forestales se anunciaron cambios en las clases para el próximo miércoles.
--------------------------------------------------------------------------------------------
-
-![Incendios en Quito generan cambios en planteles educativos.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-clases.jpg)
-
-Por los **incendios forestales** registrados en **Quito**, la tarde de este martes, 24 de septiembre de 2024, se anunciaron cambios en las clases para el próximo miércoles.
-
-El Cabildo hizo un primer anuncio sobre los planteles municipales. Luego, el **Ministerio de Educación** emitió las disposiciones para la totalidad de los planteles.
-
-### Más noticias
-
-* [Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/voraz-incendio-forestal-guapulo-cierre-vias.html "Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre")
-* [Militares se movilizan para combatir el incendio forestal en Guápulo](https://www.elcomercio.com/actualidad/quito/militares-movilizan-combatir-incendio-guapulo.html "Militares se movilizan para combatir el incendio forestal en Guápulo")
-
-Incendio y las clases en Quito
-------------------------------
-
-El incendio de mayores proporciones se registró en **Guápulo** y se extendió hasta el parque Metropolitano. Este hecho obligó a cerrar el tránsito en la **av. Simón Bolívar y el túnel Guayasamín**.
-
-La Secretaría de Educación, Recreación y Deporte del Municipio informó que, debido a la emergencia que atraviesa la ciudad y la mala calidad del aire, las **20 unidades educativas municipales** pasarán a la modalidad no presencial, este miércoles, 25 de septiembre de 2024.
-
-Lo propio se determinó para los 14 centros municipales de educación inicial.
-
-Desde el Ministerio de Educación
---------------------------------
-
-El Ministerio de Educación dispuso la modalidad **no presencial** en todas las instituciones educativas en el **Distrito Metropolitano de Quito**.
-
-Al igual que en el primer anuncio, la disposición rige para este miércoles, 25 de septiembre, debido a la emergencia por incendios forestales y las **malas condiciones del aire**.
-
-La institución aclaró que las clases no presenciales no implican, exclusivamente, **actividades virtuales**. Pueden ser jornadas guiadas para los estudiantes, como fichas pedagógicas, proyectos que deben desarrollar de forma autónoma, entre otros.
-
-> \[COMUNICADO\] Ministerio de Educación dispone la modalidad no presencial en todas las instituciones educativas del Distrito Metropolitano de Quito, el miércoles 25 de septiembre, debido a la emergencia por los incendios forestales y la mala calidad del aire.  
->   
-> Se pide a la… [pic.twitter.com/kReL7mtM6v](https://t.co/kReL7mtM6v)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 25, 2024](https://twitter.com/Educacion_Ec/status/1838737030722805833?ref_src=twsrc%5Etfw)
-
-Las acciones para mitigar las llamas
-------------------------------------
-
-El **Cuerpo de Bomberos de Quito** informó que trabaja con un contingente de más de 460 efectivos y 130 vehículos.
-
-El personal está distribuido en distintos sectores: sur, valles y el centro norte del **Distrito Metropolitano**.
-
-Como parte de las acciones, se instaló el **puesto de mando unificado** para la coordinación de la respuesta frente a las llamas que consumen distintos puntos.
-
-Condiciones ambientales
------------------------
-
-La Secretaría de Ambiente informó que la calidad del aire se encuentra comprometida debido a los incendios y afecta principalmente al **hipercentro** y norte de Quito.
-
-Según la entidad, se espera que los vientos continúen desplazando el **humo y los contaminantes** hacia otras áreas urbanas, intensificando las condiciones desfavorables del ambiente.
-
-Entre las recomendaciones están: evitar las actividades al aire libre, mantener puertas y ventanas cerradas. Además, las personas sensibles y **enfermos crónicos** deben utilizar mascarilla al salir a espacios abiertos.
