@@ -2,9 +2,14 @@
 
 [Facebook](https://www.facebook.com/nationalccdp) [Instagram](https://www.instagram.com/nccdp_iccdp/) [Twitter](https://twitter.com/nccdp) [Linkedin](https://www.linkedin.com/company/national-council-of-certified-dementia-practitioners/) [Youtube](https://www.youtube.com/@NCCDPLTAD)
 
-[Contact Us](https://www.nccdp.org/contact-us/)
-
-[Member/Instructor Login](https://portal.nccdp.org/login)
+* Login
+    
+    Close Login Open Login
+    
+    [Certifications Login for Members/Instructors](https://portal.nccdp.org/login)
+    
+    [CEU Series Login for Online Learning](https://www.nccdp.org/my-account/)
+    
 
 [![nccdp logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%2061'%3E%3C/svg%3E)
 
@@ -64,7 +69,7 @@
     
 * [Seminars](https://www.nccdp.org/seminars/)
     
-    ADDC Seminar Classes Webinars
+    ADDC Seminar Classes Staff Training
     
     [![ADDC Header Image - NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     
@@ -98,6 +103,42 @@
     
     [Learn More](https://www.nccdp.org/seminars/#seminar-caddct)
     
+    [![Staff Certificate for CADDCT-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Staff Certificate for CADDCT-min](https://www.nccdp.org/wp-content/uploads/2023/10/Staff-Certificate-for-CADDCT-min-150x150.png)](https://www.nccdp.org/continuing-education/staff-training/distributed-training/)
+    
+    ### [**Distributed Training**](https://www.nccdp.org/continuing-education/staff-training/distributed-training/)
+    
+    [Learn More](https://www.nccdp.org/continuing-education/staff-training/distributed-training/)
+    
+    [![Private Seminars-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Private Seminars-min](https://www.nccdp.org/wp-content/uploads/2023/10/Private-Seminars-min-150x150.png)](https://www.nccdp.org/continuing-education/staff-training/private-seminars/)
+    
+    ### [**Private Seminars**](https://www.nccdp.org/continuing-education/staff-training/private-seminars/)
+    
+    [Learn More](https://www.nccdp.org/continuing-education/staff-training/private-seminars/)
+    
+* [Continuing Education](https://www.nccdp.org/continuing-education/)
+    
+    Online Learning Live Webinars CE Info
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![](https://www.nccdp.org/wp-content/uploads/2024/08/ANCC-Badge-min-150x150.png)](https://www.nccdp.org/continuing-education/staff-training/distributed-training/)
+    
+    ### Online Courses & CEUs
+    
+    NCCDP in Partnership with AlzBetter
+    
+    [Learn More](https://www.nccdp.org/online-courses-and-ceus/)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20495%20124'%3E%3C/svg%3E)
+    
+    ![](https://www.nccdp.org/wp-content/uploads/2024/08/Alzbetter-Logo-min.png)
+    
+    #### ANCC Accredited & Nationally Accepted
+    
     [![Webiners Header Image 1 - NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     
     ![Webiners Header Image 1 - NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Webiners-Header-Image-1-NCCDP-min-150x150.jpg)](https://www.nccdp.org/seminars/#webinars)
@@ -106,43 +147,7 @@
     
     [Learn More](https://www.nccdp.org/seminars/#webinars)
     
-* [Services](https://www.nccdp.org/services/)
-    
-    Staff Training Continuing EDU Become a Partner
-    
-    [![Staff Certificate for CADDCT-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    
-    ![Staff Certificate for CADDCT-min](https://www.nccdp.org/wp-content/uploads/2023/10/Staff-Certificate-for-CADDCT-min-150x150.png)](https://www.nccdp.org/services/staff-training/distributed-training/)
-    
-    ### [**Distributed Training**](https://www.nccdp.org/services/staff-training/distributed-training/)
-    
-    [Learn More](https://www.nccdp.org/services/staff-training/distributed-training/)
-    
-    [![Private Seminars-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    
-    ![Private Seminars-min](https://www.nccdp.org/wp-content/uploads/2023/10/Private-Seminars-min-150x150.png)](https://www.nccdp.org/services/staff-training/private-seminars/)
-    
-    ### [**Private Seminars**](https://www.nccdp.org/services/staff-training/private-seminars/)
-    
-    [Learn More](https://www.nccdp.org/services/staff-training/private-seminars/)
-    
-    [NCCDP Online Learning Powered by NetCE](https://www.nccdp.org/services/continuing-education/netce/)[Info on Continuing Education](https://www.nccdp.org/services/continuing-education/)[Body of Knowledge](https://www.nccdp.org/services/continuing-education/body-of-knowledge/)
-    
-    [![Corporate Partner NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    
-    ![Corporate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Corporate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
-    
-    ### [**Corporate Partner**](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
-    
-    [Learn More](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
-    
-    [![Associate Partner NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    
-    ![Associate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Associate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
-    
-    ### [**Association Partner**](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
-    
-    [Learn More](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
+    [Info on Continuing Education](https://www.nccdp.org/continuing-education/continuing-education/netce/)[Body of Knowledge](https://www.nccdp.org/continuing-education/continuing-education/netce/)
     
 * [About Us](https://www.nccdp.org/about-us/)
     
@@ -207,7 +212,7 @@
     
 * [Resources](https://www.nccdp.org/resources/)
     
-    Marketplace Member Resources FAQ's
+    Marketplace Member Resources FAQ's Become a Partner
     
     [![Dementia Store](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202160%202160'%3E%3C/svg%3E)
     
@@ -258,6 +263,22 @@
     [* Renewal FAQs](https://www.nccdp.org/resources/frequently-asked-questions/#RenewalFAQs)[* Seminar FAQs](https://www.nccdp.org/resources/frequently-asked-questions/#SeminarFAQs)
     
     [* CADDCT FAQs](https://www.nccdp.org/resources/frequently-asked-questions/#CADDCTFAQs)[* Misc. Information](https://www.nccdp.org/resources/frequently-asked-questions/#misc)
+    
+    [![Corporate Partner NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Corporate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Corporate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
+    
+    ### [**Corporate Partner**](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
+    
+    [Learn More](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
+    
+    [![Associate Partner NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Associate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Associate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
+    
+    ### [**Association Partner**](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
+    
+    [Learn More](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
     
 
 [Explore Certifications](https://www.nccdp.org/certifications/)
@@ -322,7 +343,7 @@ One Main Street, Suite 6 Sparta, NJ 07871
 
 * [Certifications](https://www.nccdp.org/certifications/)
 * [Seminars](https://www.nccdp.org/seminars/)
-* [Services](https://www.nccdp.org/services/)
+* [Services](https://www.nccdp.org/continuing-education/)
 * [About Us](https://www.nccdp.org/about-us/)
 * [Resources](https://www.nccdp.org/resources/)
 * [Contact Us](https://www.nccdp.org/contact-us/)
@@ -366,14 +387,14 @@ National Council of Certified Dementia Practitioners
     * [Corporate Seminars](https://www.nccdp.org/seminars/#seminar-corporate)
     * [Approved Trainer Seminars](https://www.nccdp.org/seminars/#seminar-caddct)
     * [Webinars](https://www.nccdp.org/seminars/#webinars)
-* [Services](https://www.nccdp.org/services/)
-    * [Staff Training](https://www.nccdp.org/services/staff-training/)
-        * [Distributed Training](https://www.nccdp.org/services/staff-training/distributed-training/)
-        * [Private Seminars](https://www.nccdp.org/services/staff-training/private-seminars/)
-    * [Continuing Education](https://www.nccdp.org/services/continuing-education/)
-        * [NetCE](https://www.nccdp.org/services/continuing-education/netce/)
-        * [Info on Continuing Education](https://www.nccdp.org/services/continuing-education/information-on-ceus/)
-        * [Body of Knowledge](https://www.nccdp.org/services/continuing-education/body-of-knowledge/)
+* [Services](https://www.nccdp.org/continuing-education/)
+    * [Staff Training](https://www.nccdp.org/continuing-education/staff-training/)
+        * [Distributed Training](https://www.nccdp.org/continuing-education/staff-training/distributed-training/)
+        * [Private Seminars](https://www.nccdp.org/continuing-education/staff-training/private-seminars/)
+    * [Continuing Education](https://www.nccdp.org/continuing-education/continuing-education/)
+        * [NetCE](https://www.nccdp.org/continuing-education/continuing-education/netce/)
+        * [Info on Continuing Education](https://www.nccdp.org/continuing-education/continuing-education/information-on-ceus/)
+        * [Body of Knowledge](https://www.nccdp.org/continuing-education/continuing-education/body-of-knowledge/)
     * [Become a Partner](https://www.nccdp.org/become-a-partner/)
         * [Become a Corporate Partner](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
         * [Become an Association Partner](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
