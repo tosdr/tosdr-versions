@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[INDCAP vs SNSS - Toss](https://www.cricbuzz.com/live-cricket-scores/107084/indcap-vs-snss-5th-match-legends-league-cricket-2024 "India Capitals v Southern Super Stars, 5th Match - Toss")[HB vs NYSL - Live](https://www.cricbuzz.com/live-cricket-scores/106796/hb-vs-nysl-13th-match-zim-afro-t10-2024 "Harare Bolts v Nys Lagos, 13th Match - Live")[AUS vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/76563/aus-vs-eng-3rd-odi-australia-tour-of-england-2024 "Australia v England, 3rd ODI - ENG Won")[GAW vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92914/gaw-vs-br-27th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Barbados Royals, 27th Match - Preview")[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd Test - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92914/gaw-vs-br-27th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Barbados Royals, 27th Match - Preview")[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd Test - Preview")[INDCAP vs SNSS - SNSS Won](https://www.cricbuzz.com/live-cricket-scores/107084/indcap-vs-snss-5th-match-legends-league-cricket-2024 "India Capitals v Southern Super Stars, 5th Match - SNSS Won")[CTSA vs DW - CTSA Won](https://www.cricbuzz.com/live-cricket-scores/106804/ctsa-vs-dw-14th-match-zim-afro-t10-2024 "Cape Town Samp Army v Durban Wolves, 14th Match - CTSA Won")[BLBJ vs JBT - Complete](https://www.cricbuzz.com/live-cricket-scores/106812/blbj-vs-jbt-15th-match-zim-afro-t10-2024 "Bulawayo Brave Jaguars v Joburg Bangla Tigers, 15th Match - Complete")
 
 AllLive NowToday
 
@@ -76,6 +76,12 @@ AllLive NowToday
     
     2nd Test
     
+* South Africa vs Ireland, 2024
+    
+    [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93641/ire-vs-rsa-1st-t20i-south-africa-vs-ireland-2024 "Ireland v South Africa, 1st T20I - Upcoming")
+    
+    1st T20I
+    
 * T20I Tri-Series in South Korea
     
     [Japan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/107771/jpn-vs-idn-1st-match-t20i-tri-series-in-south-korea "Japan v Indonesia, 1st Match - JPN Won")
@@ -96,7 +102,11 @@ AllLive NowToday
     
     34th Match
     
-* [Canada vs Oman](https://www.cricbuzz.com/live-cricket-scores/107009/can-vs-oman-36th-match-icc-cwc-league-two-2023-27 "Canada v Oman, 36th Match - Upcoming")
+* [Namibia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/107004/nam-vs-uae-35th-match-icc-cwc-league-two-2023-27 "Namibia v United Arab Emirates, 35th Match - Preview")
+    
+    35th Match
+    
+* [Canada vs Oman](https://www.cricbuzz.com/live-cricket-scores/107009/can-vs-oman-36th-match-icc-cwc-league-two-2023-27 "Canada v Oman, 36th Match - Preview")
     
     36th Match
     
@@ -118,23 +128,23 @@ AllLive NowToday
     
     10th Match
     
-* [Mali vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106235/mali-vs-lso-11th-match-icc-mens-ar-t20wcqa "Mali v Lesotho, 11th Match - Preview")
-    
-    11th Match
-    
-* [Malawi vs Cameroon](https://www.cricbuzz.com/live-cricket-scores/106241/mwi-vs-cam-12th-match-icc-mens-ar-t20wcqa "Malawi v Cameroon, 12th Match - Preview")
+* [Cameroon vs Malawi](https://www.cricbuzz.com/live-cricket-scores/106241/cam-vs-mwi-12th-match-icc-mens-ar-t20wcqa "Cameroon v Malawi, 12th Match - MWI Won")
     
     12th Match
     
-* [Cameroon vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106251/cam-vs-lso-14th-match-icc-mens-ar-t20wcqa "Cameroon v Lesotho, 14th Match - Upcoming")
+* [Lesotho vs Mali](https://www.cricbuzz.com/live-cricket-scores/106235/lso-vs-mali-11th-match-icc-mens-ar-t20wcqa "Lesotho v Mali, 11th Match - LSO Won")
+    
+    11th Match
+    
+* [Cameroon vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106251/cam-vs-lso-14th-match-icc-mens-ar-t20wcqa "Cameroon v Lesotho, 14th Match - Preview")
     
     14th Match
     
-* [Mali vs Ghana](https://www.cricbuzz.com/live-cricket-scores/106243/mali-vs-gh-13th-match-icc-mens-ar-t20wcqa "Mali v Ghana, 13th Match - Upcoming")
+* [Mali vs Ghana](https://www.cricbuzz.com/live-cricket-scores/106243/mali-vs-gh-13th-match-icc-mens-ar-t20wcqa "Mali v Ghana, 13th Match - Preview")
     
     13th Match
     
-* [Tanzania vs Malawi](https://www.cricbuzz.com/live-cricket-scores/106259/tan-vs-mwi-15th-match-icc-mens-ar-t20wcqa "Tanzania v Malawi, 15th Match - Upcoming")
+* [Tanzania vs Malawi](https://www.cricbuzz.com/live-cricket-scores/106259/tan-vs-mwi-15th-match-icc-mens-ar-t20wcqa "Tanzania v Malawi, 15th Match - Preview")
     
     15th Match
     
@@ -152,15 +162,7 @@ AllLive NowToday
     
 * Zim Afro T10 2024
     
-    [Joburg Bangla Tigers vs Harare Bolts](https://www.cricbuzz.com/live-cricket-scores/106761/jbt-vs-hb-7th-match-zim-afro-t10-2024 "Joburg Bangla Tigers v Harare Bolts, 7th Match - HB Won")
-    
-    7th Match
-    
-* [Durban Wolves vs Bulawayo Brave Jaguars](https://www.cricbuzz.com/live-cricket-scores/106769/dw-vs-blbj-8th-match-zim-afro-t10-2024 "Durban Wolves v Bulawayo Brave Jaguars, 8th Match - BLBJ Won")
-    
-    8th Match
-    
-* [Cape Town Samp Army vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106772/ctsa-vs-nysl-9th-match-zim-afro-t10-2024 "Cape Town Samp Army v Nys Lagos, 9th Match - CTSA Won")
+    [Cape Town Samp Army vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106772/ctsa-vs-nysl-9th-match-zim-afro-t10-2024 "Cape Town Samp Army v Nys Lagos, 9th Match - CTSA Won")
     
     9th Match
     
@@ -176,27 +178,27 @@ AllLive NowToday
     
     12th Match
     
-* [Harare Bolts vs Nys Lagos  LIVE](https://www.cricbuzz.com/live-cricket-scores/106796/hb-vs-nysl-13th-match-zim-afro-t10-2024 "Harare Bolts v Nys Lagos, 13th Match - Live")
+* [Harare Bolts vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106796/hb-vs-nysl-13th-match-zim-afro-t10-2024 "Harare Bolts v Nys Lagos, 13th Match - HB Won")
     
     13th Match
     
-* [Durban Wolves vs Cape Town Samp Army](https://www.cricbuzz.com/live-cricket-scores/106804/dw-vs-ctsa-14th-match-zim-afro-t10-2024 "Durban Wolves v Cape Town Samp Army, 14th Match - Preview")
+* [Cape Town Samp Army vs Durban Wolves](https://www.cricbuzz.com/live-cricket-scores/106804/ctsa-vs-dw-14th-match-zim-afro-t10-2024 "Cape Town Samp Army v Durban Wolves, 14th Match - CTSA Won")
     
     14th Match
     
-* [Joburg Bangla Tigers vs Bulawayo Brave Jaguars](https://www.cricbuzz.com/live-cricket-scores/106812/jbt-vs-blbj-15th-match-zim-afro-t10-2024 "Joburg Bangla Tigers v Bulawayo Brave Jaguars, 15th Match - Preview")
+* [Bulawayo Brave Jaguars vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106812/blbj-vs-jbt-15th-match-zim-afro-t10-2024 "Bulawayo Brave Jaguars v Joburg Bangla Tigers, 15th Match - Complete")
     
     15th Match
     
-* [Durban Wolves vs Harare Bolts](https://www.cricbuzz.com/live-cricket-scores/106817/dw-vs-hb-16th-match-zim-afro-t10-2024 "Durban Wolves v Harare Bolts, 16th Match - Upcoming")
+* [Durban Wolves vs Harare Bolts](https://www.cricbuzz.com/live-cricket-scores/106817/dw-vs-hb-16th-match-zim-afro-t10-2024 "Durban Wolves v Harare Bolts, 16th Match - Preview")
     
     16th Match
     
-* [Joburg Bangla Tigers vs Bulawayo Brave Jaguars](https://www.cricbuzz.com/live-cricket-scores/106825/jbt-vs-blbj-17th-match-zim-afro-t10-2024 "Joburg Bangla Tigers v Bulawayo Brave Jaguars, 17th Match - Upcoming")
+* [Joburg Bangla Tigers vs Bulawayo Brave Jaguars](https://www.cricbuzz.com/live-cricket-scores/106825/jbt-vs-blbj-17th-match-zim-afro-t10-2024 "Joburg Bangla Tigers v Bulawayo Brave Jaguars, 17th Match - Preview")
     
     17th Match
     
-* [Cape Town Samp Army vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106833/ctsa-vs-nysl-18th-match-zim-afro-t10-2024 "Cape Town Samp Army v Nys Lagos, 18th Match - Upcoming")
+* [Cape Town Samp Army vs Nys Lagos](https://www.cricbuzz.com/live-cricket-scores/106833/ctsa-vs-nysl-18th-match-zim-afro-t10-2024 "Cape Town Samp Army v Nys Lagos, 18th Match - Preview")
     
     18th Match
     
@@ -204,9 +206,27 @@ AllLive NowToday
     
     19th Match
     
+* [Nys Lagos vs Durban Wolves](https://www.cricbuzz.com/live-cricket-scores/106844/nysl-vs-dw-20th-match-zim-afro-t10-2024 "Nys Lagos v Durban Wolves, 20th Match - Upcoming")
+    
+    20th Match
+    
+* [Harare Bolts vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106849/hb-vs-jbt-21st-match-zim-afro-t10-2024 "Harare Bolts v Joburg Bangla Tigers, 21st Match - Upcoming")
+    
+    21st Match
+    
+* CSA T20 Challenge
+    
+    [Lions vs Titans](https://www.cricbuzz.com/live-cricket-scores/103384/lions-vs-tit-1st-match-csa-t20-challenge "Lions v Titans, 1st Match - Upcoming")
+    
+    1st Match
+    
 * CSA T20 Knock Out Competition
     
-    [Northern Cape vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105172/ncape-vs-mpr-6th-match-csa-t20-knock-out-competition "Northern Cape v Mpumalanga Rhinos, 6th Match - NCAPE Won")
+    [Limpopo vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105162/limpo-vs-ecape-4th-match-csa-t20-knock-out-competition "Limpopo v Eastern Cape, 4th Match - LIMPO Won")
+    
+    4th Match
+    
+* [Northern Cape vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105172/ncape-vs-mpr-6th-match-csa-t20-knock-out-competition "Northern Cape v Mpumalanga Rhinos, 6th Match - NCAPE Won")
     
     6th Match
     
@@ -214,47 +234,43 @@ AllLive NowToday
     
     5th Match
     
-* [Limpopo vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105162/limpo-vs-ecape-4th-match-csa-t20-knock-out-competition "Limpopo v Eastern Cape, 4th Match - LIMPO Won")
-    
-    4th Match
-    
 * LLC 2024
     
-    [Southern Super Stars vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107081/snss-vs-gugs-4th-match-llc-2024 "Southern Super Stars v Gujarat Greats, 4th Match - SNSS Won")
-    
-    4th Match
-    
-* [India Capitals vs Southern Super Stars](https://www.cricbuzz.com/live-cricket-scores/107084/indcap-vs-snss-5th-match-llc-2024 "India Capitals v Southern Super Stars, 5th Match - Toss")
+    [India Capitals vs Southern Super Stars](https://www.cricbuzz.com/live-cricket-scores/107084/indcap-vs-snss-5th-match-llc-2024 "India Capitals v Southern Super Stars, 5th Match - SNSS Won")
     
     5th Match
     
-* [Southern Super Stars vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107089/snss-vs-gugs-6th-match-llc-2024 "Southern Super Stars v Gujarat Greats, 6th Match - Upcoming")
+* [Southern Super Stars vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107089/snss-vs-gugs-6th-match-llc-2024 "Southern Super Stars v Gujarat Greats, 6th Match - Preview")
     
     6th Match
+    
+* [Konark Suryas Odisha vs Manipal Tigers](https://www.cricbuzz.com/live-cricket-scores/107092/knso-vs-mt-7th-match-llc-2024 "Konark Suryas Odisha v Manipal Tigers, 7th Match - Upcoming")
+    
+    7th Match
     
 * DOMESTIC
     
     County Division 1
     
-    [Worcestershire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84537/worcs-vs-lancs-70th-match-county-division-1 "Worcestershire v Lancashire, 70th Match - Upcoming")
-    
-    70th Match
-    
-* [Somerset vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84530/som-vs-ham-69th-match-county-division-1 "Somerset v Hampshire, 69th Match - Upcoming")
+    [Somerset vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84530/som-vs-ham-69th-match-county-division-1 "Somerset v Hampshire, 69th Match - Preview")
     
     69th Match
     
-* [Nottinghamshire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84527/notts-vs-warks-68th-match-county-division-1 "Nottinghamshire v Warwickshire, 68th Match - Upcoming")
+* [Nottinghamshire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84527/notts-vs-warks-68th-match-county-division-1 "Nottinghamshire v Warwickshire, 68th Match - Preview")
     
     68th Match
     
-* [Essex vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84520/ess-vs-sur-67th-match-county-division-1 "Essex v Surrey, 67th Match - Upcoming")
+* [Essex vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84520/ess-vs-sur-67th-match-county-division-1 "Essex v Surrey, 67th Match - Preview")
     
     67th Match
     
-* [Durham vs Kent](https://www.cricbuzz.com/live-cricket-scores/84513/dur-vs-kent-66th-match-county-division-1 "Durham v Kent, 66th Match - Upcoming")
+* [Durham vs Kent](https://www.cricbuzz.com/live-cricket-scores/84513/dur-vs-kent-66th-match-county-division-1 "Durham v Kent, 66th Match - Preview")
     
     66th Match
+    
+* [Worcestershire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84537/worcs-vs-lancs-70th-match-county-division-1 "Worcestershire v Lancashire, 70th Match - Preview")
+    
+    70th Match
     
 * Australia Domestic One-Day Cup 2024-25
     
@@ -276,33 +292,27 @@ AllLive NowToday
     
 * Australia Under 19 tour of India
     
-    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106444/indu19-vs-ausu19-3rd-youth-odi-australia-under-19-tour-of-india "India U19 v Australia U19, 3rd Youth ODI - Upcoming")
+    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106444/indu19-vs-ausu19-3rd-youth-odi-australia-under-19-tour-of-india "India U19 v Australia U19, 3rd Youth ODI - Preview")
     
     3rd Youth ODI
     
 * County Division 2
     
-    [Sussex vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85552/sus-vs-mdx-55th-match-county-division-2 "Sussex v Middlesex, 55th Match - Upcoming")
-    
-    55th Match
-    
-* [Leicestershire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85549/leic-vs-derby-54th-match-county-division-2 "Leicestershire v Derbyshire, 54th Match - Upcoming")
-    
-    54th Match
-    
-* [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85542/glam-vs-gloucs-53rd-match-county-division-2 "Glamorgan v Gloucestershire, 53rd Match - Upcoming")
-    
-    53rd Match
-    
-* [Yorkshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85556/yorks-vs-nhnts-56th-match-county-division-2 "Yorkshire v Northamptonshire, 56th Match - Upcoming")
+    [Yorkshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85556/yorks-vs-nhnts-56th-match-county-division-2 "Yorkshire v Northamptonshire, 56th Match - Preview")
     
     56th Match
     
-* ENG Domestic One-Day Cup
+* [Sussex vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85552/sus-vs-mdx-55th-match-county-division-2 "Sussex v Middlesex, 55th Match - Preview")
     
-    [Glamorgan vs Somerset](https://www.cricbuzz.com/live-cricket-scores/107571/glam-vs-som-final-reserve-day-eng-domestic-one-day-cup "Glamorgan v Somerset, Final (Reserve day) - GLAM Won")
+    55th Match
     
-    Final (Reserve day)
+* [Leicestershire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85549/leic-vs-derby-54th-match-county-division-2 "Leicestershire v Derbyshire, 54th Match - Preview")
+    
+    54th Match
+    
+* [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85542/glam-vs-gloucs-53rd-match-county-division-2 "Glamorgan v Gloucestershire, 53rd Match - Preview")
+    
+    53rd Match
     
 * WOMEN
     
@@ -319,6 +329,10 @@ AllLive NowToday
 * [Cayman Islanda Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/107795/cayw-vs-mexw-3rd-match-south-american-womens-championships "Cayman Islanda Women v Mexico Women, 3rd Match - Upcoming")
     
     3rd Match
+    
+* [Brazil Women vs Argentina Women](https://www.cricbuzz.com/live-cricket-scores/107803/braw-vs-argw-4th-match-south-american-womens-championships "Brazil Women v Argentina Women, 4th Match - Upcoming")
+    
+    4th Match
     
 * Australia Women v New Zealand Women
     
@@ -637,37 +651,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Shakib is eligible for selection: Hathurusingha](https://www.cricbuzz.com/cricket-news/131741/shakib-is-eligible-for-selection-hathurusingha "Shakib is eligible for selection: Hathurusingha")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131740/resurgent-sri-lanka-aim-to-continue-red-ball-momentum "Resurgent Sri Lanka aim to continue red-ball momentum")
 
 [Resurgent Sri Lanka aim to continue red-ball momentum](https://www.cricbuzz.com/cricket-news/131740/resurgent-sri-lanka-aim-to-continue-red-ball-momentum "Resurgent Sri Lanka aim to continue red-ball momentum")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/131739/samson-over-kishan-likely-for-bangladesh-t20is "Samson over Kishan likely for Bangladesh T20Is")
 
 [Samson over Kishan likely for Bangladesh T20Is](https://www.cricbuzz.com/cricket-news/131739/samson-over-kishan-likely-for-bangladesh-t20is "Samson over Kishan likely for Bangladesh T20Is")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/131738/underdog-bhui-eyes-bigger-honours-after-domestic-accomplishments "Underdog Bhui eyes bigger honours after domestic accomplishments")
 
 [Underdog Bhui eyes bigger honours after domestic accomplishments](https://www.cricbuzz.com/cricket-news/131738/underdog-bhui-eyes-bigger-honours-after-domestic-accomplishments "Underdog Bhui eyes bigger honours after domestic accomplishments")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131737/harry-brook-slams-maiden-odi-ton-to-keep-series-alive "Harry Brook slams maiden ODI ton to keep series alive")
 
 [Harry Brook slams maiden ODI ton to keep series alive](https://www.cricbuzz.com/cricket-news/131737/harry-brook-slams-maiden-odi-ton-to-keep-series-alive "Harry Brook slams maiden ODI ton to keep series alive")
 
-17h ago
+23h ago
 
   [](https://www.cricbuzz.com/cricket-news/131736/charles-blitzkrieg-helps-saint-lucia-kings-solidify-top-spot "Charles blitzkrieg helps Saint Lucia Kings solidify top spot")
 
 [Charles blitzkrieg helps Saint Lucia Kings solidify top spot](https://www.cricbuzz.com/cricket-news/131736/charles-blitzkrieg-helps-saint-lucia-kings-solidify-top-spot "Charles blitzkrieg helps Saint Lucia Kings solidify top spot")
 
-18h ago
+1d ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
