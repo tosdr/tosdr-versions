@@ -7,14 +7,13 @@
 
 Subscribe
 
-[#### Fitness](https://www.healthline.com/fitness)
+[#### Digestive Health](https://www.healthline.com/digestive-health)
 
-* [Exercise](https://www.healthline.com/fitness/exercise)
-* [Cardio](https://www.healthline.com/fitness/cardio)
-* [Products](https://www.healthline.com/fitness/products)
-* [Strength Training](https://www.healthline.com/fitness/strength-training)
-* [Yoga](https://www.healthline.com/fitness/yoga)
-* [Holistic Fitness](https://www.healthline.com/fitness/holistic-fitness)
+* [The Basics](https://www.healthline.com/digestive-health/basics)
+* [Crohn’s Treatment](https://www.healthline.com/digestive-health/crohns-treatment)
+* [UC Treatment](https://www.healthline.com/digestive-health/ulcerative-colitis-treatment)
+* [What to Eat](https://www.healthline.com/digestive-health/diet)
+* [Prevention and Lifestyle](https://www.healthline.com/digestive-health/prevention)
 
 Terms of Use
 ============
