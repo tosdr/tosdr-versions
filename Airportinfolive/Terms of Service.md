@@ -1,7 +1,7 @@
 [](https://airportinfo.live/)
 
 Uhrzeit:  
-Tue 09/24/2024
+Wed 09/25/2024
 
   ![](/images/search.svg)
 
