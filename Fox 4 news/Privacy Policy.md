@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Swarm of bees in North Richland Hills sends man, woman to hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/Bees.jpg?ve=1&tl=1)
+ [![Bee attack leaves North Richland Hills elderly man in ICU](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-INTRO-NRH-COUPLE-ATTACKED-BY-BEES-9P_00.00.35.18.jpg?ve=1&tl=1)
 
- ![Swarm of bees in North Richland Hills sends man, woman to hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/Bees.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
+ ![Bee attack leaves North Richland Hills elderly man in ICU](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-INTRO-NRH-COUPLE-ATTACKED-BY-BEES-9P_00.00.35.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
 
-### [Swarm of bees in North Richland Hills sends man, woman to hospital](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
+### [Bee attack leaves North Richland Hills elderly man in ICU](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
 
- [![Trump assassination attempt suspect's son charged with possessing child sexual abuse images, FBI says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Ryan-Routh.jpg?ve=1&tl=1)
+ [![Live updates: Tropical Storm Helene strengthening, forecast to strike Florida as major hurricane](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/a92635d4-slot2-20.jpg?ve=1&tl=1)
 
- ![Trump assassination attempt suspect's son charged with possessing child sexual abuse images, FBI says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Ryan-Routh.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/son-trump-assassination-attempt-suspect-charged)
+ ![Live updates: Tropical Storm Helene strengthening, forecast to strike Florida as major hurricane](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/a92635d4-slot2-20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
 
-### [Trump assassination attempt suspect's son charged with possessing child sexual abuse images, FBI says](https://www.fox4news.com/news/son-trump-assassination-attempt-suspect-charged)
+### [Live updates: Tropical Storm Helene strengthening, forecast to strike Florida as major hurricane](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
 
- [![Live updates: Tropical Storm Helene forms, expected to hit Florida as major hurricane](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/PTC9.png?ve=1&tl=1)
+ [![Ryan Wesley Routh charged with assassination attempt of Trump](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2171706530-A.jpg?ve=1&tl=1)
 
- ![Live updates: Tropical Storm Helene forms, expected to hit Florida as major hurricane](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/PTC9.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
+ ![Ryan Wesley Routh charged with assassination attempt of Trump](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171706530-A.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ryan-wesley-routh-charged-assassination-attempt-trump)
 
-### [Live updates: Tropical Storm Helene forms, expected to hit Florida as major hurricane](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
+### [Ryan Wesley Routh charged with assassination attempt of Trump](https://www.fox4news.com/news/ryan-wesley-routh-charged-assassination-attempt-trump)
 
- [![Watch: Coldplay frontman sings new song in disguise at Vegas bar](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Chris-Martin-Coldplay.jpg?ve=1&tl=1)
+ [![2 SMU students surrender to police after dorm room assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/smu-assault-suspects.jpg?ve=1&tl=1)
 
- ![Watch: Coldplay frontman sings new song in disguise at Vegas bar](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Chris-Martin-Coldplay.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-coldplay-frontman-sings-new-song-disguise)
+ ![2 SMU students surrender to police after dorm room assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/smu-assault-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/smu-dorm-room-attack-arrests)
 
-### [Watch: Coldplay frontman sings new song in disguise at Vegas bar](https://www.fox4news.com/news/watch-coldplay-frontman-sings-new-song-disguise)
+### [2 SMU students surrender to police after dorm room assault](https://www.fox4news.com/news/smu-dorm-room-attack-arrests)
 
- [![University Park, Southlake among US cities with the highest-earning middle class](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V_FIRST-WX-_-UNIVERSITY-PARK-6P_KDFW32e7_711_mxf_00.00.18.20.jpg?ve=1&tl=1)
+ [![Jerry Jones on fans blaming him for Cowboys' struggles: 'That's very fair'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2171744492.jpg?ve=1&tl=1)
 
- ![University Park, Southlake among US cities with the highest-earning middle class](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V_FIRST-WX-_-UNIVERSITY-PARK-6P_KDFW32e7_711_mxf_00.00.18.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/university-park-southlake-highest-earning-middle-class)
+ ![Jerry Jones on fans blaming him for Cowboys' struggles: 'That's very fair'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171744492.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-cowboys-blame)
 
-### [Here's how much you have to make to be considered middle class in University Park](https://www.fox4news.com/news/university-park-southlake-highest-earning-middle-class)
+### [Jerry Jones on fans blaming him for Cowboys' struggles: 'That's very fair'](https://www.fox4news.com/sports/jerry-jones-cowboys-blame)
 
 ###### [News](https://www.fox4news.com/news)
 
