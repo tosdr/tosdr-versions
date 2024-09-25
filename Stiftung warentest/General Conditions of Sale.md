@@ -588,21 +588,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
 Fußbereich
 
@@ -2728,21 +2728,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2786,39 +2786,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
 Neueste Tests
 
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Nach­haltige Fonds und ETF: Warum wir grüne Fonds jetzt strenger testen](https://www.test.de/nachhaltige-fonds-etf-test-4741500-0/ "Nachhaltige Fonds und ETF - Warum wir grüne Fonds jetzt strenger testen")
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Drucker im Test: Die Unterschiede bei den Druck­kosten sind enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Unterschiede bei den Druckkosten sind enorm")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
 Service Stiftung Warentest
 
