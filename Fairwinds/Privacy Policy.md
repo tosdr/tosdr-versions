@@ -39,7 +39,7 @@ _FAIRWINDS_ Credit Union and its affiliates are committed to making available f
 
 SVG Wave
 
-![Checklist 3D illustration.](/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fdmzde5ytz0gs%2F2NdVV6Hzm11BTnWQbDQUB3%2Ff1a36b10d5049f1630f5a93c3890a6d4%2F3DIcon_Checklist.png%3Fq%3D90%26w%3D1024&w=3840&q=75)
+![Checklist 3D illustration.](https://images.ctfassets.net/dmzde5ytz0gs/2NdVV6Hzm11BTnWQbDQUB3/f1a36b10d5049f1630f5a93c3890a6d4/3DIcon_Checklist.png?q=90&w=1024)
 
 ### Your Personal Information
 
