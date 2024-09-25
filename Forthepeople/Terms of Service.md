@@ -306,6 +306,7 @@
     * [View All](https://www.forthepeople.com/practice-areas/)
 * [Attorneys](https://www.forthepeople.com/attorneys/)
 * About
+    * [The Case Process](https://www.forthepeople.com/blog/the-case-process/)
     * [Who We Are](https://www.forthepeople.com/who-we-are/)
     * [In the Community](https://www.forthepeople.com/in-the-community/)
     * [Testimonials](https://www.forthepeople.com/testimonials/)
