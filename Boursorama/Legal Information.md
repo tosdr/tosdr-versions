@@ -4,7 +4,7 @@
 
 [![Boursomarkets](/bundles/boursoramaui/images/bourse/boursomarkets_white.svg)
 
-Plus de 40 000 produits accessibles à 0€ de frais de courtage
+Plus de 40 000 produits accessibles à 0€ de frais de courtagePlus de 40000 produits accessibles à 0€ de frais de courtage
 
 Découvrir Boursomarkets](https://www.boursorama.com/bourse/boursomarkets/ "Accéder à Boursomarkets")
 
