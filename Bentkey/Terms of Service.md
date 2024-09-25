@@ -1,4 +1,16 @@
-* [![Bentkey](/development/avatar/logo-final.png)](https://www.bentkey.com/)
+* ![Bentkey Logo](/development/avatar/logo-final.png)
+    
+
+**14-Day Free Trial:** Use code UNLOCK at checkout to start streaming today!
+
+[Sign up](https://www.bentkey.com/create-account)[Sign up for 14-Day Free Trial](https://www.bentkey.com/create-account)
+
+Use code **UNLOCK** at checkout
+
+Log In![Signed out avatar](/development/avatar/logged-out-avatar.png) ![Signed in avatar](/development/avatar/logged-in-avatar.png) 
+
+* ![Bentkey](/development/avatar/logo-final.png)
+    
 
 Log In![Signed out avatar](/development/avatar/logged-out-avatar.png) ![Signed in avatar](/development/avatar/logged-in-avatar.png) 
 
@@ -27,4 +39,4 @@ Bentkey Logo Bentkey Logo.
 
 © 2024 Bentkey Adventures LLC. All Rights Reserved.
 
-CookieSettings
+Do Not Sell or Share My Personal Information
