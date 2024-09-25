@@ -48,7 +48,7 @@ Search
 
 [Marketing ToolsNEW](https://www.namecheap.com/apps/)
 
-[Business FormationFREE](https://www.namecheap.com/apps/business-formation/)
+[How to Get StartedNEW](https://www.namecheap.com/build-and-grow-hub/)[Business FormationFREE](https://www.namecheap.com/apps/business-formation/)
 
 [Growth ToolsNEWAI](https://www.namecheap.com/relate/)
 
@@ -64,7 +64,7 @@ Search
 
 [Help Center](https://www.namecheap.com/help-center/)
 
-[Knowledgebase](https://www.namecheap.com/support/knowledgebase/)[Fix Hacked WebsiteSOS](https://www.namecheap.com/security/fix-hacked-website/)[Guru Guides](https://www.namecheap.com/guru-guides/)[Blog](https://www.namecheap.com/blog/)[How-To Videos](https://www.namecheap.com/support/knowledgebase/category/2253/howto-videos/)[Status Updates](https://www.namecheap.com/status-updates/)
+[Knowledgebase](https://www.namecheap.com/support/knowledgebase/)[Fix Hacked WebsiteSOS](https://www.namecheap.com/security/fix-hacked-website/)[Guru Guides](https://www.namecheap.com/guru-guides/)[Blog](https://www.namecheap.com/blog/)[Build and Grow HubNEW](https://www.namecheap.com/build-and-grow-hub/)[How-To Videos](https://www.namecheap.com/support/knowledgebase/category/2253/howto-videos/)[Status Updates](https://www.namecheap.com/status-updates/)
 
 Account
 
@@ -235,6 +235,7 @@ Join
 **[Marketing Tools](https://www.namecheap.com/apps/)**
 
 * [Marketplace](https://www.namecheap.com/apps/)
+* [How to Get StartedNEW](https://www.namecheap.com/build-and-grow-hub/)
 * [Business FormationFREE](https://www.namecheap.com/apps/business-formation/)
 * [Relate](https://www.namecheap.com/relate/)
 * [RelateSocialAI](https://www.namecheap.com/relate/social/)
