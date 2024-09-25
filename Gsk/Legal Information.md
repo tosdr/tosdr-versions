@@ -162,7 +162,7 @@ Location
 * [Healthcare professionals Healthcare professionals](https://gskpro.com/ "Opens in a new window")
 * [Contact us Contact us](https://us.gsk.com/en-us/contact-us/)
 
-1. [Home](https://us.gsk.com/) 
+1. [Home](https://us.gsk.com/en-us/) 
 2. Legal notices 
 
 Legal notices
