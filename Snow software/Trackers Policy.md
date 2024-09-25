@@ -51,6 +51,7 @@ Main navigation
             * [ITAM](https://www.flexera.com/products/flexera-one/it-asset-management)
             * [SaaS Management](https://www.flexera.com/products/flexera-one/saas-management)
             * [FinOps](https://www.flexera.com/products/flexera-one/finops)
+            * [Technology Intelligence Platform](https://www.flexera.com/products/flexera-one/technology-intelligence-platform)
     * Column 2
         * [Snow Atlas](https://www.flexera.com/products/snow-atlas)
             * [Snow Spend Optimizer](https://www.flexera.com/products/snow-atlas/snow-spend-optimizer)
@@ -533,6 +534,16 @@ Industry Report
 ### Flexera: A leader in cloud cost management and optimization
 
 Who are the top cloud cost management and optimization providers? Download The 2024 Forrester Wave™. You’ll find that Flexera has come out a leader and has been recognized for integrated FinOps and ITAM.](https://info.flexera.com/CM-REPORT-Forrester-Wave-Cloud-Cost-Management-Optimization)
+
+[#### 
+
+Virtual Event
+
+### Flex your visibility into strategy: Harness the power of hybrid ITAM and FinOps
+
+#### Oct 22
+
+Get an insider look at how Flexera’s powerful new Technology Intelligence Platform is reshaping the game with unmatched visibility and strategic insights. Don't miss the chance to discover the tools that can future-proof your IT strategy.](https://info.flexera.com/ITV-EVENT-Harness-Power-of-Hybrid-ITAM-FinOps)
 
 [#### 
 
