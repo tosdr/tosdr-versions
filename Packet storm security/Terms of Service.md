@@ -53,21 +53,45 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 267 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 178 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 275 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 177 files
 * [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 74 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 77 files
 * [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
 * [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
 * [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
 * [H D Moore](https://packetstormsecurity.com/files/authors/219) 31 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 24 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 25 files
 * [Karn Ganeshen](https://packetstormsecurity.com/files/authors/7832) 23 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Deloitte Says No Threat To Sensitive Data After Hacker Claims Breach](https://packetstormsecurity.com/news/view/36393/Deloitte-Says-No-Threat-To-Sensitive-Data-After-Hacker-Claims-Breach.html)
+
+Posted [Sep 25, 2024](https://packetstormsecurity.com/news/date/2024-09-25/ "18:30:30 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36393/) | [View](https://www.securityweek.com/deloitte-says-no-threat-to-sensitive-data-after-hacker-claims-server-breach/)
+
+[CrowdStrike Changes Software Update System After Widespread Outage](https://packetstormsecurity.com/news/view/36392/CrowdStrike-Changes-Software-Update-System-After-Widespread-Outage.html)
+
+Posted [Sep 25, 2024](https://packetstormsecurity.com/news/date/2024-09-25/ "18:30:28 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36392/) | [View](https://www.scworld.com/news/crowdstrike-changes-software-update-system-after-widespread-outage)
+
+[Ivanti Warns Of Second CSA Vuln Exploited In Attacks](https://packetstormsecurity.com/news/view/36388/Ivanti-Warns-Of-Second-CSA-Vuln-Exploited-In-Attacks.html)
+
+Posted [Sep 25, 2024](https://packetstormsecurity.com/news/date/2024-09-25/ "18:30:00 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36388/) | [View](https://www.securityweek.com/ivanti-warns-of-second-csa-vulnerability-exploited-in-attacks/)
 
 [Telegram Will Now Hand Over IP Addresses, Phone Numbers Of Suspects To Cops](https://packetstormsecurity.com/news/view/36386/Telegram-Will-Now-Hand-Over-IP-Addresses-Phone-Numbers-Of-Suspects-To-Cops.html)
 
@@ -76,6 +100,38 @@ Posted [Sep 24, 2024](https://packetstormsecurity.com/news/date/2024-09-24/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [russia](https://packetstormsecurity.com/news/tags/russia), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [france](https://packetstormsecurity.com/news/tags/france), [social](https://packetstormsecurity.com/news/tags/social)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36386/) | [View](https://www.theregister.com/2024/09/23/telegram_tcs_suspect_info/)
+
+[Israel's Pager Attacks and Supply Chain Vulnerabilities](https://packetstormsecurity.com/news/view/36385/Israels-Pager-Attacks-and-Supply-Chain-Vulnerabilities.html)
+
+Posted [Sep 24, 2024](https://packetstormsecurity.com/news/date/2024-09-24/ "13:30:48 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [military](https://packetstormsecurity.com/news/tags/military)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36385/) | [View](https://www.schneier.com/blog/archives/2024/09/israels-pager-attacks.html)
+
+[Cyberattack Causes MoneyGram Service Outage](https://packetstormsecurity.com/news/view/36384/Cyberattack-Causes-MoneyGram-Service-Outage.html)
+
+Posted [Sep 24, 2024](https://packetstormsecurity.com/news/date/2024-09-24/ "13:30:45 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [bank](https://packetstormsecurity.com/news/tags/bank), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36384/) | [View](https://www.securityweek.com/cyberattack-causes-moneygram-service-outage/)
+
+[US Disrupts Raptor Train Botnet Of Chinese APT Flax Typhoon](https://packetstormsecurity.com/news/view/36383/US-Disrupts-Raptor-Train-Botnet-Of-Chinese-APT-Flax-Typhoon.html)
+
+Posted [Sep 24, 2024](https://packetstormsecurity.com/news/date/2024-09-24/ "13:30:40 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [botnet](https://packetstormsecurity.com/news/tags/botnet), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36383/) | [View](https://www.securityweek.com/us-disrupts-raptor-train-botnet-of-chinese-apt-flax-typhoon/)
+
+[11 Million Devices Infected With Botnet Malware Hosted In Google Play](https://packetstormsecurity.com/news/view/36382/11-Million-Devices-Infected-With-Botnet-Malware-Hosted-In-Google-Play.html)
+
+Posted [Sep 24, 2024](https://packetstormsecurity.com/news/date/2024-09-24/ "13:30:32 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [phone](https://packetstormsecurity.com/news/tags/phone), [botnet](https://packetstormsecurity.com/news/tags/botnet), [google](https://packetstormsecurity.com/news/tags/google)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36382/) | [View](https://arstechnica.com/security/2024/09/11-million-devices-infected-with-botnet-malware-hosted-in-google-play/)
 
 [Critical Vulnerabilities In Microchip ASF, MediaTek Expose RCE Risks](https://packetstormsecurity.com/news/view/36381/Critical-Vulnerabilities-In-Microchip-ASF-MediaTek-Expose-RCE-Risks.html)
 
@@ -92,62 +148,6 @@ Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36380/) | [View](https://www.theregister.com/2024/09/23/splinter_red_team_tool/)
-
-[Apple's Latest macOS Release Is Breaking Security Software, Network Connections](https://packetstormsecurity.com/news/view/36379/Apples-Latest-macOS-Release-Is-Breaking-Security-Software-Network-Connections.html)
-
-Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:22 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [flaw](https://packetstormsecurity.com/news/tags/flaw), [apple](https://packetstormsecurity.com/news/tags/apple)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36379/) | [View](https://www.theregister.com/2024/09/23/security_in_brief/)
-
-[US Indicts Two Over Socially Engineered $230M+ Crypto Heist](https://packetstormsecurity.com/news/view/36378/US-Indicts-Two-Over-Socially-Engineered-230M-Crypto-Heist.html)
-
-Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:20 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36378/) | [View](https://www.theregister.com/2024/09/20/us_indicts_two_over_socially/)
-
-[Will The US Presidential Election Define The Future Of Crypto?](https://packetstormsecurity.com/news/view/36377/Will-The-US-Presidential-Election-Define-The-Future-Of-Crypto.html)
-
-Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:16 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36377/) | [View](https://www.bbc.com/news/articles/c0lwgn9p8z4o)
-
-[China Urges Vigilance Against Taiwanese Cyberattacks](https://packetstormsecurity.com/news/view/36376/China-Urges-Vigilance-Against-Taiwanese-Cyberattacks.html)
-
-Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:07 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [taiwan](https://packetstormsecurity.com/news/tags/taiwan), [military](https://packetstormsecurity.com/news/tags/military)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36376/) | [View](https://www.reuters.com/technology/cybersecurity/china-urges-netizens-be-vigilant-against-taiwanese-cyberattacks-2024-09-23/)
-
-[Secret Calculator Hack Brings ChatGPT To The TI-84, Enabling Easy Cheating](https://packetstormsecurity.com/news/view/36375/Secret-Calculator-Hack-Brings-ChatGPT-To-The-TI-84-Enabling-Easy-Cheating.html)
-
-Posted [Sep 23, 2024](https://packetstormsecurity.com/news/date/2024-09-23/ "14:15:01 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36375/) | [View](https://arstechnica.com/information-technology/2024/09/secret-calculator-hack-brings-chatgpt-to-the-ti-84-enabling-easy-cheating/)
-
-[Exploiting Exploiting Exchange PowerShell After ProxyNotShell: Part 3 – DLL Loading Chain for RCE](https://packetstormsecurity.com/news/view/36374/Exploiting-Exploiting-Exchange-PowerShell-After-ProxyNotShell-Part-3-DLL-Loading-Chain-for-RCE.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "16:18:51 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36374/) | [View](https://www.zerodayinitiative.com/blog/2024/9/18/exploiting-exchange-powershell-after-proxynotshell-part-3-dll-loading-chain-for-rce)
-
-[Using YouTube To Steal Your Files](https://packetstormsecurity.com/news/view/36373/Using-YouTube-To-Steal-Your-Files.html)
-
-Posted [Sep 20, 2024](https://packetstormsecurity.com/news/date/2024-09-20/ "16:16:37 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [google](https://packetstormsecurity.com/news/tags/google)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36373/) | [View](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1989679196&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1989679196.1727254583.1727254583.1727254583.1%3B%2B__utmz%3D32867617.1727254583.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1266906605&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1266906605.1727298505.1727298505.1727298505.1%3B%2B__utmz%3D32867617.1727298505.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
