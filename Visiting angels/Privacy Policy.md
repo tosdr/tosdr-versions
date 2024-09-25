@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
+[How the Best Providers of Elder Care Services Define "Care"](https://www.visitingangels.com/knowledge-center/care-options/how-the-best-providers-of-elder-care-services-define-care/423)
 
-[When the Elderly Need Help, Who is Their "Natural Caregiver?”](https://www.visitingangels.com/knowledge-center/care-options/when-the-elderly-need-help-who-is-their-natural-caregiver/406)
+[Part 2: Expert Advice When Caring for a Loved One with Alzheimer’s](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-2-expert-advice-when-caring-for-a-loved-one-with-alzheimers/368)
 
-[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
+[Paranoia in the Elderly: Will it Warrant Additional Care?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/paranoia-in-the-elderly-will-it-warrant-additional-care/370)
 
-[Finding the Brighter Side of Elderly Care](https://www.visitingangels.com/knowledge-center/why-in-home-care/finding-the-brighter-side-of-elderly-care/472)
+[Setting Your New Caregiver Up for Success](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/setting-your-new-caregiver-up-for-success/352)
 
-[What Skills Matter Most for Personal Care?](https://www.visitingangels.com/knowledge-center/care-options/what-skills-matter-most-for-personal-care/467)
+[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
