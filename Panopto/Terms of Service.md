@@ -211,7 +211,3 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
-
-[![](https://www.panopto.com/wp-content/uploads/2024/09/1200x628_popup-ai-powered-video-1-1.png)](https://www.panopto.com/resource/2024-video-training-trends-for-a-smarter-workforce/?utm_source=homepage&utm_medium=pop_up&utm_campaign=2024_video_training_trends&utm_id=1165)
-
-X
