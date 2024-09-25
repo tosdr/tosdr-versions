@@ -169,9 +169,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [California's approach to AI: Unpacking new legislation](https://www.onetrust.com/resources/californias-approach-to-ai-unpacking-new-legislation-webinar/)
 * [Elevate your data strategy: From cookies to universal consent & preferences](https://www.onetrust.com/resources/elevate-your-data-strategy-from-cookies-to-universal-consent-preferences-webinar/)
 * [Enhancing Data Governance: OneTrust and Snowflake strategies for data-driven businesses](https://www.onetrust.com/resources/enhancing-data-governance-onetrust-and-snowflake-strategies-for-data-driven-businesses-webinar/)
-* [OneTrust & Adobe: The power of permission-based personalization](https://www.onetrust.com/resources/onetrust-and-adobe-the-power-of-permission-based-personalization-webinar/)
 
 ### Platform
 
