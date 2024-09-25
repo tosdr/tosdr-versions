@@ -118,61 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Wish I started ages ago!
 > ------------------------
 > 
-> Thanks Adriaan...
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> You guys even work on Sundays?
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
 > 
-> I’m impressed!!
+> I just wish I started using Invoices Online ages ago.
 
-Johan Botha - Brand Xplosion
+Terri Winfield
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=113819983)  
-Forgotten Goods (Pty) Ltd
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=89962321)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=192014296)  
-Druce Digital
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=150295872)  
+FJW Security Cc
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=188850502)  
-Meyer Towing & Recovery
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=108729577)  
-Xpress Designs
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=143199861)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=43474362)  
-webb it services
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=43475816)  
-TIGERDSL
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=68834652)  
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=102262416)  
 TurboFibre
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=14315660)  
-Qothiphango Mining
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=53031182)  
+AMS Ambu Medical Supplies
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=148997105)  
-Cpower Projects t/a Pro Pure Water
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=153724580)  
+Moremi Kitchens Rustenburg
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=128024047)  
-Wiselink Broadband Dundee
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=54600492)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=78002051)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=154289047)  
+Sportspro Management (Pty) Ltd
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=61364917)  
-Network Grey (Pty) Ltd
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=112067678)  
+Dr V Naik Consult
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=42857349)  
-West Coast Horse Trails
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=102711931)  
+AFS Electrical
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=10365e1c546d7f70bd67a5eae6436af49b3a6d672a4a4b3b16d9dd0475dc0a61&c=62718991)  
-Imhoff Equestrian Centre
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=31223795)  
+MONSTER SECURITY GUARDING
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=202320692)  
+Adele Jordaan T/A Joyful Noise Music Room
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=148767533)  
+Alliance Energy
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=100955085)  
+TIGERDSL
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=100513601)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=a056e630964a3735ed4a197aca11bd8805cb8ad0537be687862ef12a8cc373ea&c=187323306)  
+NIMAWELL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
