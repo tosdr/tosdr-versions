@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
-* [Help using 720 KB 2DD 3.5" disks in modern computers](https://www.msx.org/forum/msx-talk/hardware/help-using-720-kb-2dd-35-disks-in-modern-computers "Help using 720 KB 2DD 3.5" disks in modern computers")
-* [Weak SCC sounds on Playsoniq](https://www.msx.org/forum/msx-talk/hardware/weak-scc-sounds-on-playsoniq "Weak SCC sounds on Playsoniq")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=56 "WonderTANG! Who wants to juice up your MSX?")
-* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958 "Tracing the V9958")
+* [Pisa Devcon 2024 Italy](https://www.msx.org/forum/msx-talk/general-discussion/pisa-devcon-2024-italy?page=1 "Pisa Devcon 2024 Italy")
 * [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=57 "WonderTANG! Who wants to juice up your MSX?")
+* [Saving in Vampire Killer](https://www.msx.org/forum/msx-talk/general-discussion/saving-in-vampire-killer "Saving in Vampire Killer")
+* [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic "HB-F1XD reboots/freezes in basic")
+* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958?page=1 "Tracing the V9958")
+* [Musical influences in MSX games topic](https://www.msx.org/forum/msx-talk/general-discussion/musical-influences-msx-games-topic?page=11 "Musical influences in MSX games topic")
+* [Help using 720 KB 2DD 3.5" disks in modern computers](https://www.msx.org/forum/msx-talk/hardware/help-using-720-kb-2dd-35-disks-in-modern-computers "Help using 720 KB 2DD 3.5" disks in modern computers")
+* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
+* [Weak SCC sounds on Playsoniq](https://www.msx.org/forum/msx-talk/hardware/weak-scc-sounds-on-playsoniq "Weak SCC sounds on Playsoniq")
 * [Strange issue with National DP-950 VHD Player](https://www.msx.org/forum/msx-talk/hardware/strange-issue-with-national-dp-950-vhd-player "Strange issue with National DP-950 VHD Player ")
 * [MSX & AI](https://www.msx.org/forum/msx-talk/development/msx-ai?page=4 "MSX & AI")
 * [Gradius / Nemesis with SCC and smoothscroll without arcade graphics?](https://www.msx.org/forum/msx-talk/software/gradius-nemesis-with-scc-and-smoothscroll-without-arcade-graphics?page=2 "Gradius / Nemesis with SCC and smoothscroll without arcade graphics?")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
-* [Laserdisc Pioneer CLD-7 question](https://www.msx.org/forum/msx-talk/general-discussion/laserdisc-pioneer-cld-7-question "Laserdisc Pioneer CLD-7 question")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
