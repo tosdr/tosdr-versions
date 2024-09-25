@@ -5,9 +5,10 @@
 Getting started
 
 * [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html)
-* [Getting started with Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
-* [Getting started with MkDocs](https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html)
-* [Importing your documentation](https://docs.readthedocs.io/en/stable/intro/import-guide.html)
+* [Supported tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
+* [Material for MkDocs](https://docs.readthedocs.io/en/stable/intro/mkdocs.html)
+* [Sphinx](https://docs.readthedocs.io/en/stable/intro/sphinx.html)
+* [Adding a documentation project](https://docs.readthedocs.io/en/stable/intro/add-project.html)
 * [Example projects](https://docs.readthedocs.io/en/stable/examples.html)
 
 Project setup and configuration
@@ -129,7 +130,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Read the Docs Terms of Service
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/2f48c81e9ce162bbd34229e897db84044b00fe31/docs/user/terms-of-service.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/f8cbc1310524a91230d80bb4956e3b164911dd3b/docs/user/terms-of-service.rst)
 
 * * *
 
@@ -584,6 +585,6 @@ Questions about the Terms of Service? [Get in touch](mailto:support%40readthedoc
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `2f48c81e`.
+© Copyright Read the Docs, Inc & contributors. Revision `f8cbc131`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
