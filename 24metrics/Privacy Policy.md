@@ -1,6 +1,4 @@
-[![24metrics Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%2058'%3E%3C/svg%3E)
-
-![24metrics Logo](https://www.24metrics.com/wp-content/uploads/2018/12/metrics-logo@2x.png)](https://www.24metrics.com/)
+[![24metrics Logo](https://www.24metrics.com/wp-content/uploads/2018/12/metrics-logo@2x.png)](https://www.24metrics.com/)
 
 * Solutions
     * [Click Screening](https://www.24metrics.com/adsecurity/)
@@ -99,3 +97,5 @@ Copyrights® 24metrics. All Rights Reserved.
 * [Contact](https://www.24metrics.com/contact/)
 * [Help](https://www.24metrics.com/)
 * [Service Operational Status](https://status.24metrics.com/)
+
+Please note that we use cookies to ensure that we give you the best experience on our website.[Ok](#)[Privacy policy](https://www.24metrics.com/privacy-policy/)
