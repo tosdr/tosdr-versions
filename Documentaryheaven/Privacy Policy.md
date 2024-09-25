@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
+* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
     
-    Trial of Henry Kissinger
+    National Security Alert
     
-    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac...](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
+    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
 
 ###### Throwback Documentaries
 
-* [![Hunt For The Unabomber](/wp-content/thumbnails/13935-100x70.png?x53432)
+* [![Shoah](/wp-content/thumbnails/5558-100x70.jpg?x53432)
     
-    Hunt For The Unabomber
+    Shoah
     
-    Inside a primitive cabin located in Lincoln, Montana, one man declared war on the world, provoking the greatest manhunt in the history of the United States. From 1978 to 1996 he created explosive devi](https://documentaryheaven.com/hunt-for-unabomber/ "Hunt For The Unabomber")
-* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
+    Claude Lanzmann directed this 9 and a half hour documentary about the Holocaust without using a single frame of archive footage.He interviews survivors, witnesses, and ex-Nazis (whom he had to film](https://documentaryheaven.com/shoah/ "Shoah")
+* [![Nuclear Fruit: How the Cold War Shaped Video Games](/wp-content/thumbnails/10184-100x70.png?x53432)
     
-    David Attenborough’s Madagascar
+    Nuclear Fruit: How the Cold War Shaped Video Games
     
-    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
-* [![The Doctor, the Depleted Uranium, and the Dying Children](/wp-content/thumbnails/2642-100x70.jpg?x53432)
+    They say knowledge is power and this is seldom more true than in war. Knowing your enemies plans whilst denying them the same privilege is to stack the odds in your favour. As military cryptography ad](https://documentaryheaven.com/nuclear-fruit/ "Nuclear Fruit: How the Cold War Shaped Video Games")
+* [![Bastards of the Party](/wp-content/thumbnails/220-100x70.png?x53432)
     
-    The Doctor, the Depleted Uranium, and the Dying Children
+    Bastards of the Party
     
-    An award winning documentary film produced for German television by Freider Wagner and Valentin Thurn. The film exposes the use and impact of radioactive weapons during the current war against Iraq.](https://documentaryheaven.com/the-doctor-the-depleted-uranium-and-the-dying-children/ "The Doctor, the Depleted Uranium, and the Dying Children")
-* [![Supernatural Science: Previous Lives](/wp-content/thumbnails/1308-100x70.jpg?x53432)
+    Raised in the Athens Park neighborhood of Los Angeles, Cle "Bone" Sloan was four years old when his father died, and 12 when he became a member of the Bloods. Now an inactive member of the notorious g](https://documentaryheaven.com/bastards-of-the-party/ "Bastards of the Party")
+* [![Every F*cking Day of My Life](/wp-content/thumbnails/4621-100x70.jpg?x53432)
     
-    Supernatural Science: Previous Lives
+    Every F\*cking Day of My Life
     
-    Millions believe in reincarnation. Is there proof that is really happens? Do people pass through many lifetimes and can they bring back memories from having lived before? Therapies now encouraging peo](https://documentaryheaven.com/supernatural-science-previous-lives/ "Supernatural Science: Previous Lives")
-* [![Football Fight Club](/wp-content/thumbnails/9162-100x70.jpg?x53432)
+    Married at 16 years – with 18 years of violence following – left Wendy terrified. She summoned the courage to deal with her husband the only way she knew possible. Originally as One Minute to Nine, th](https://documentaryheaven.com/every-fcking-day-of-my-life/ "Every F*cking Day of My Life")
+* [![Homeopathy: The Test](/wp-content/thumbnails/574-100x70.png?x53432)
     
-    Football Fight Club
+    Homeopathy: The Test
     
-    This film sets about documenting a new generation of football hooliganism after been granted exclusive access to follow three of Britain's football firms during the 2013 - 2014 season. This is the fir](https://documentaryheaven.com/football-fight-club/ "Football Fight Club")
+    Homeopathy was pioneered over 200 years ago. Practitioners and patients are convinced it has the power to heal. Today, some of the most famous and influential people in the world, including pop stars,](https://documentaryheaven.com/homeopathy-the-test/ "Homeopathy: The Test")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
