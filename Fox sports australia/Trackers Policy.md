@@ -50,34 +50,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
 * [One-Day Cup
     
-    SA won by 2 runs
-    
     |     |     |
     | --- | --- |
-    | WA  | 164 |
-    | SA  | 166 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250103)
-* [One-Day Cup
-    
-    25/9 10:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | TAS | –   |
-    | QLD | –   |
+    | TAS |     |
+    | QLD |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250104)
-* [WNCL
-    
-    TAS won by 52 runs
-    
-    |     |     |
-    | --- | --- |
-    | WA  | 167 |
-    | TAS | 219 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250101)
 * AFL
     
 * [AFL
@@ -92,14 +70,14 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * [AFL Women's
     
-    Complete
+    25/9 19:15 AEST
     
     |     |     |
     | --- | --- |
-    | RIC | 6.12.48 |
-    | POR | 3.9.27 |
+    | CAR | –   |
+    | NM  | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240501)
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240502)
 * NRL
     
 * [NRL
