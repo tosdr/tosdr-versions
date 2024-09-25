@@ -387,17 +387,17 @@ Menu
 Featured travel offers
 ----------------------
 
-*  [![Turkey Holidays](https://travelmedia.restless.co.uk/traveldeals/images/easyjet-holidays/531091d3-87dd-4ca9-91b6-d92dc4eb652e/5567ddf4-e780-4804-a0d6-a85cce8750e9-600x200.jpg)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
+*   [![Turkey Holidays](https://travelmedia.restless.co.uk/traveldeals/images/easyjet-holidays/531091d3-87dd-4ca9-91b6-d92dc4eb652e/5567ddf4-e780-4804-a0d6-a85cce8750e9-1080x608.webp)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
     ### [Turkey Holidays\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
     Turkey | 3 nights | Book with easyJet holidays
     
-    From £190pp
+    From £207pp
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
-*  [![Ancient Ruins, Paros & Santorini](https://travelmedia.restless.co.uk/traveldeals/images/exoticca/4913e8b6-cdaf-480f-9652-3267022330d4/f731c610-37dc-4a25-9c43-6db135df85c3-600x200.jpg)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
+*   [![Ancient Ruins, Paros & Santorini](https://travelmedia.restless.co.uk/traveldeals/images/exoticca/4913e8b6-cdaf-480f-9652-3267022330d4/f731c610-37dc-4a25-9c43-6db135df85c3-1080x608.webp)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
     ### [Ancient Ruins, Paros & Santorini\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
@@ -552,6 +552,18 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![Looking for a European escape? Here are 10 holiday properties in beautiful locations](https://media.restless.co.uk/uploads/2024/09/looking-for-a-european-escape-here-are-10-holiday-properties-in-beautiful-locations-768x289.jpg)](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
+
+### [Looking for a European escape? Here are 10 holiday properties in beautiful locations](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
+
+[Read More »](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
+
+[![7 gorgeous Indian Ocean holiday destinations](https://media.restless.co.uk/uploads/2023/07/gorgeous-indian-ocean-holiday-destinations-768x498.jpg)](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
+
+### [7 gorgeous Indian Ocean holiday destinations](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
+
+[Read More »](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
+
 [![the most colourful travel destinations in the world](https://media.restless.co.uk/uploads/2023/06/the-most-colourful-travel-destinations-in-the-world-768x519.jpeg)](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
 
 ### [11 of the most colourful travel destinations in the world](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
@@ -575,18 +587,6 @@ New in travel
 ### [Journey to the extraordinary – 10 tours that defy imagination](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
 
 [Read More »](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
-
-[![14 spectacular countries to add to your travel wish list](https://media.restless.co.uk/uploads/2022/12/spectacular-countries-to-add-to-your-travel-wish-list-768x511.jpg)](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
-
-### [14 spectacular countries to add to your travel wish list](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
-
-[Read More »](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
-
-[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 Popular travel guides
 ---------------------
