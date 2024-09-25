@@ -113,7 +113,7 @@ FR
         
         8% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
-        2% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
+        up to 3% Cash Back](https://www.rakuten.ca/samsung.com)[Dell Technologies
         
         up to 5% Cash Back](https://www.rakuten.ca/dell-consumer)
         
@@ -281,7 +281,7 @@ FR
         
         4% Cash Back](https://www.rakuten.ca/canadian-tire)[Simba Sleep Canada
         
-        3% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
+        12% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
         
         2% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
         
@@ -347,7 +347,7 @@ FR
         
         Up to $50 Cash Back](https://www.rakuten.ca/reliance-home-comfort)[Simba Sleep Canada
         
-        3% Cash Back](https://www.rakuten.ca/simba-sleep-canada)
+        12% Cash Back](https://www.rakuten.ca/simba-sleep-canada)
         
         Featured Shops & Deals
         
@@ -624,11 +624,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn Up to 5% Cash Back from Rakuten.ca with Dell Technologies Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/298276/en-stickyfooter-1170x60_dell.png "Dell Technologies Coupons, Promo Codes")
+[![Earn 10% Cash Back from Rakuten.ca with Lenovo Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/298278/en-stickyfooter-1170x60_lenovo.png "Lenovo Canada Coupons, Promo Codes")
 
-up to 5% Cash Back
+was 3%, now
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dell-consumer?sourceName=stickyfooter1)
+10% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/lenovo-canada?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
