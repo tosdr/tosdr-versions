@@ -8,7 +8,7 @@
     * [5-a-day Primary](https://corbettmaths.com/5-a-day/primary/)
     * [5-a-day Further Maths](https://corbettmaths.com/5-a-day/further-maths/)
 * [More](https://corbettmaths.com/more/)
-    * [Further Maths](https://corbettmaths.com/more/further-maths/)
+    * [Further Maths](https://corbettmaths.com/further-maths/)
     * [GCSE Revision](https://corbettmaths.com/2023/08/01/gcse-revision/)
 * [Revision Cards](https://corbettmaths.com/revision-cards/)
 * [Books](https://corbettmaths.com/books/)
