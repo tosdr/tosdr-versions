@@ -3,10 +3,10 @@
 * [Meet the team](https://www.edukey.co.uk/team/)
 * [Our Story](https://www.edukey.co.uk/our-story/)
 * [Products](https://www.edukey.co.uk/#our_products)
-    * [Class Charts](https://www.tes.com/for-schools/class-charts)
+    * [Class Charts](https://www.tes.com/en-gb/for-schools/class-charts)
     * [Provision Map](https://www.tes.com/en-gb/for-schools/provision-map)
-    * [Literacy Assessment](https://www.tes.com/for-schools/literacy-assessment)
-    * [Tes MyConcern](https://www.tes.com/campaign/myconcern)
+    * [Literacy Assessment](https://www.tes.com/en-gb/for-schools/literacy-assessment)
+    * [Tes MyConcern](https://www.tes.com/en-gb/for-schools/myconcern)
 * [Blog](https://www.edukey.co.uk/blog/)
 
 Select Page
