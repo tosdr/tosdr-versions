@@ -113,11 +113,11 @@ Ready to **see Panopto in action?**
 
 We believe in the power of learning, and we built an intelligent platform to help enterprise organizations improve the way they train, teach, and share knowledge.
 
-![](https://www.panopto.com/wp-content/uploads/2024/07/Performer-2.png)
+![](https://www.panopto.com/wp-content/uploads/2024/09/medal.png)
 
-![](https://www.panopto.com/wp-content/uploads/2024/07/Adoption-2.png)
+![](https://www.panopto.com/wp-content/uploads/2024/09/medal-2.png)
 
-![](https://www.panopto.com/wp-content/uploads/2024/07/Support-2.png)
+![](https://www.panopto.com/wp-content/uploads/2024/09/medal-1.png)
 
 * Platform
     * [Create Content](https://www.panopto.com/features/create-content/)
@@ -126,6 +126,7 @@ We believe in the power of learning, and we built an intelligent platform to hel
     * [Industries](https://www.panopto.com/industries/)
     * [Integrations](https://www.panopto.com/features/integrations/)
     * [Switch Programs](https://www.panopto.com/switch/)
+    * [Enterprise Video Platform](https://www.panopto.com/features/enterprise-video-platform/)
 
 * Company
     * [Our Leadership](https://www.panopto.com/company/leadership/)
