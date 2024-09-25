@@ -18,15 +18,95 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
+   [![Especialista em obras de restauro ministra palestra gratuita em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/7/csm_Jorge_Tinoco_1_80198d1112.jpeg)
 
 Maceió
 
-Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
+Especialista em obras de restauro ministra palestra gratuita em Maceió](https://www.tnh1.com.br/noticia/nid/especialista-em-obras-de-restauro-ministra-palestra-gratuita-em-maceio/ "Especialista em obras de restauro ministra palestra gratuita em Maceió")   [![Homem sofre queda em escada rolante e é socorrido em shopping de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/d/csm_escada_rolante_-_foto_freepik_c940a22a82.jpg)
+
+Ficou ferido
+
+Homem sofre queda em escada rolante e é socorrido em shopping de Maceió](https://www.tnh1.com.br/noticia/nid/homem-sofre-queda-em-escada-rolante-e-e-socorrido-em-shopping-de-maceio/ "Homem sofre queda em escada rolante e é socorrido em shopping de Maceió")   [![Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_agressoes-aluno-colegio-reproducao-reproducao-cortesia_d6640d1d63.jpeg)
+
+No Farol
+
+Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió](https://www.tnh1.com.br/noticia/nid/video-aluno-e-espancado-por-colega-na-frente-de-dezenas-de-estudantes-em-maceio/ "Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió")   [![Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/b/csm_lixeira_vandalismo_maceio_0075ebc289.jpg)
+
+prejuízo
+
+Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió](https://www.tnh1.com.br/noticia/nid/mais-de-20-lixeiras-foram-alvo-de-vandalismo-nos-ultimos-15-dias-em-maceio/ "Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió")   [![PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/0/csm_Jogo_Natal_Solidario_58fb55e788.jpg)
+
+Alagoas
+
+PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar](https://www.tnh1.com.br/noticia/nid/pscom-lanca-15a-edicao-do-natal-solidario-com-jogo-beneficente-entre-famosos-veja-como-participar/ "PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ")   [![Vídeo: homem invade estabelecimento comercial e furta televisão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/2/csm_furto-televisao-estabelecimento-farol_5576e6d72c.jpg)
+
+No Farol
+
+Vídeo: homem invade estabelecimento comercial e furta televisão](https://www.tnh1.com.br/noticia/nid/video-homem-invade-estabelecimento-comercial-e-furta-televisao/ "Vídeo: homem invade estabelecimento comercial e furta televisão")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_estudo_propolis_6bdf005724.jpeg)
+
+em Alagoas
+
+Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis](https://www.tnh1.com.br/noticia/nid/pesquisadores-da-ufal-e-unipropolis-se-unem-para-aprofundar-estudos-sobre-propolis/ "Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis")   [![Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/5/csm_operacao-lei-seca-realiza-mais-de-mil-abordagens-durante-semana-nacional-de-transito_95132abdef.jpg)
+
+Em Alagoas
+
+Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito](https://www.tnh1.com.br/noticia/nid/operacao-lei-seca-realiza-mais-de-mil-abordagens-durante-semana-nacional-de-transito/ "Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito")   [![Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/4/csm_governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos-do-rateio-do-fundef_-_foto__Valdir_RochaAscom_Seduc_38deba1287.jpg)
+
+Alagoas
+
+Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://www.tnh1.com.br/noticia/nid/rateio-do-fundef-governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos/ "Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos")   [![Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/b/csm_tubarao-lixa_em_maragogi_74d3129c80.jpg)
+
+ENTENDA
+
+Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/tubarao-docil-pescadores-avistam-animal-na-parte-rasa-de-praia-de-maragogi-veja-video/ "Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo")   [![Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
+
+meteorologia
+
+Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet](https://www.tnh1.com.br/noticia/nid/quatro-cidades-de-alagoas-tem-alerta-de-baixa-umidade-disparado-pelo-inmet/ "Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet")   [![Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_Captura_de_tela_2024-09-24_130408_87e8036800.png)
+
+Economia
+
+Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira](https://www.tnh1.com.br/noticia/nid/procon-alagoas-divulga-pesquisa-de-precos-para-o-dia-das-criancas-confira-1/ "Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira ")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/7/csm_delegacia_geral_pc_c793a0342a.jpeg)
+
+CASO KLEBER MALAQUIAS
+
+Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://www.tnh1.com.br/noticia/nid/delegado-preso-pela-pf-e-afastado-das-funcoes-na-policia-civil-de-alagoas/ "Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas")   [![Ações da PM terminam com apreensões de arma de fogo, droga e veículo roubado em 3 cidades](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/4/csm_Apreensao_PM_-_foto_4_bpm_54e9d64d04.jpg)
+
+Maceió e interior
+
+Ações da PM terminam com apreensões de arma de fogo, droga e veículo roubado em 3 cidades](https://www.tnh1.com.br/noticia/nid/acoes-da-pm-terminam-com-apreensoes-de-arma-de-fogo-droga-e-veiculo-roubado-em-3-cidades/ "Ações da PM terminam com apreensões de arma de fogo, droga e veículo roubado em 3 cidades")   [![Investigado na Operação Terabyte é preso por estupro de duas crianças, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/b/csm_pc_operacao_terabyte_-_ascom_bc9b993ad8.jpeg)
+
+Capturado
+
+Investigado na Operação Terabyte é preso por estupro de duas crianças, em Maceió](https://www.tnh1.com.br/noticia/nid/investigado-na-operacao-terabyte-e-preso-por-estupro-de-duas-criancas-em-maceio/ "Investigado na Operação Terabyte é preso por estupro de duas crianças, em Maceió")   [![Jovem é preso suspeito de apologia ao nazismo e de obrigar meninas a introduzirem facas na genitália](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_suspeito-nazismo-arapiraca_19b40fc342.jpg)
+
+Em Arapiraca
+
+Jovem é preso suspeito de apologia ao nazismo e de obrigar meninas a introduzirem facas na genitália](https://www.tnh1.com.br/noticia/nid/jovem-e-preso-suspeito-de-apologia-ao-nazismo-e-de-obrigar-meninas-a-introduzirem-facas-na-genitalia/ "Jovem é preso suspeito de apologia ao nazismo e de obrigar meninas a introduzirem facas na genitália")   [![Quase 15 acusados de crimes no Sertão de Alagoas são capturados; veja vídeos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/d/csm_prisoes_delmiro_gouveia_divulgacao_pc-al_806fcdfeae.jpeg)
+
+14 mandados
+
+Quase 15 acusados de crimes no Sertão de Alagoas são capturados; veja vídeos](https://www.tnh1.com.br/noticia/nid/quase-15-acusados-de-crimes-no-sertao-de-alagoas-sao-capturados-veja-videos/ "Quase 15 acusados de crimes no Sertão de Alagoas são capturados; veja vídeos ")   [![Homem é preso e confessa ter matado funcionário de escola em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_paulo_ricardo_-_arapiraca_-_arquivo_pessoal_ecd404e7c4_9ab70dff79.jpg)
+
+caso Paulo Ricardo
+
+Homem é preso e confessa ter matado funcionário de escola em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-e-confessa-ter-matado-funcionario-de-escola-em-alagoas/ "Homem é preso e confessa ter matado funcionário de escola em Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -35,6 +115,20 @@ Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
+
+Pessoas & Negócios
+
+Reitor do Cesmac recebe título de Doutor Honoris Causa](https://www.tnh1.com.br/noticia/nid/reitor-do-cesmac-recebe-titulo-de-doutor-honoris-causa/ "Reitor do Cesmac recebe título de Doutor Honoris Causa")   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
+
+Pessoas & Negócios
+
+Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -108,7 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/8/csm_ator-carl-weathers-reproducao-redes-sociais_926d00a3c7.jpg)
+[![Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/8/csm_ator-carl-weathers-reproducao-redes-sociais_926d00a3c7.jpg)
 
 fundo bancário
 
@@ -116,15 +210,7 @@ fundo bancário
 
 Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'
 
-Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'](https://www.tnh1.com.br/noticia/nid/filhos-descobrem-heranca-milionaria-7-meses-apos-morte-de-carl-weathers-o-apollo-de-rocky/ "Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'")[![Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_mundo-bab--filmada-por-camera-escondida-1727115662_6d24033a97.jpg)
-
-Nos EUA
-
-Nos EUA
-
-Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida
-
-Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://www.tnh1.com.br/noticia/nid/baba-e-indenizada-em-r15-milhoes-por-ser-filmada-nua-por-camera-escondida/ "Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida")[![Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/4/csm_governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos-do-rateio-do-fundef_-_foto__Valdir_RochaAscom_Seduc_aa9760f44a.jpg)
+Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'](https://www.tnh1.com.br/noticia/nid/filhos-descobrem-heranca-milionaria-7-meses-apos-morte-de-carl-weathers-o-apollo-de-rocky/ "Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'")[![Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/4/csm_governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos-do-rateio-do-fundef_-_foto__Valdir_RochaAscom_Seduc_aa9760f44a.jpg)
 
 Alagoas
 
@@ -132,41 +218,7 @@ Alagoas
 
 Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos
 
-Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://www.tnh1.com.br/noticia/nid/rateio-do-fundef-governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos/ "Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos")[![Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/b/csm_tubarao-lixa_em_maragogi_81ab069b00.jpg)
-
-ENTENDA
-
-ENTENDA
-
-Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo
-
-Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/tubarao-docil-pescadores-avistam-animal-na-parte-rasa-de-praia-de-maragogi-veja-video/ "Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo")
-
-[![Amiga e sócia de Gusttavo Lima quebra silêncio sobre acusação: 'Erro de interpretação'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/4/csm_amiga-gusttavo-lima-reproducao_9b8b409c43.jpg)
-
-Fez postagem
-
-Fez postagem
-
-Amiga e sócia de Gusttavo Lima quebra silêncio sobre acusação: 'Erro de interpretação'
-
-Amiga e sócia de Gusttavo Lima quebra silêncio sobre acusação: 'Erro de interpretação'](https://www.tnh1.com.br/noticia/nid/amiga-e-socia-de-gusttavo-lima-quebra-silencio-sobre-acusacao-erro-de-interpretacao/ "Amiga e sócia de Gusttavo Lima quebra silêncio sobre acusação: 'Erro de interpretação'")[![São Paulo tem o dia mais quente do ano nesta terça-feira (24)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_Sao_Paulo_calor_temperatura_-_foto_Ato_PressFolhapress_77fde14343.jpeg)
-
-Medições do Inmet
-
-Medições do Inmet
-
-São Paulo tem o dia mais quente do ano nesta terça-feira (24)
-
-São Paulo tem o dia mais quente do ano nesta terça-feira (24)](https://www.tnh1.com.br/noticia/nid/sao-paulo-tem-o-dia-mais-quente-do-ano-nesta-terca-feira-24/ "São Paulo tem o dia mais quente do ano nesta terça-feira (24)")[![Karoline Lima chora ao relatar pressão estética: "Tomei Ozempic"](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_karolina-lima-ozempic-reproducao-redes-sociais_7207297fc6.png)
-
-Fez revelações
-
-Fez revelações
-
-Karoline Lima chora ao relatar pressão estética: "Tomei Ozempic"
-
-Karoline Lima chora ao relatar pressão estética: "Tomei Ozempic"](https://www.tnh1.com.br/noticia/nid/karoline-lima-chora-ao-relatar-pressao-estetica-tomei-ozempic/ "Karoline Lima chora ao relatar pressão estética: "Tomei Ozempic"")[![Quase 200 substâncias ligadas a câncer são achadas em materiais de contato com alimentos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_substancias-alimentos-cancer-reproducao-freepik_02e529b02e.jpg)
+Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://www.tnh1.com.br/noticia/nid/rateio-do-fundef-governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos/ "Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos")[![Quase 200 substâncias ligadas a câncer são achadas em materiais de contato com alimentos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_substancias-alimentos-cancer-reproducao-freepik_02e529b02e.jpg)
 
 produtos químicos
 
@@ -174,7 +226,49 @@ produtos químicos
 
 Quase 200 substâncias ligadas a câncer são achadas em materiais de contato com alimentos
 
-Quase 200 substâncias ligadas a câncer são achadas em materiais de contato com alimentos](https://www.tnh1.com.br/noticia/nid/quase-200-substancias-ligadas-a-cancer-sao-achadas-em-materiais-de-contato-com-alimentos/ "Quase 200 substâncias ligadas a câncer são achadas em materiais de contato com alimentos")
+Quase 200 substâncias ligadas a câncer são achadas em materiais de contato com alimentos](https://www.tnh1.com.br/noticia/nid/quase-200-substancias-ligadas-a-cancer-sao-achadas-em-materiais-de-contato-com-alimentos/ "Quase 200 substâncias ligadas a câncer são achadas em materiais de contato com alimentos")[![Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/d/csm_mortadela_tvtem_e7d7c79e3e.png)
+
+grave intoxicação
+
+grave intoxicação
+
+Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela
+
+Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela](https://www.tnh1.com.br/noticia/nid/bahia-registra-mortes-suspeitas-de-botulismo-doenca-e-associada-ao-consumo-de-mortadela/ "Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela")
+
+[![Médico é preso após atropelar mulher e não prestar socorro; vítima morreu](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/5/csm_carro_acidente_medico_vitima_reproducao_policia_civil_e_redes_sociais_79f2e4a57b.jpg)
+
+no rs
+
+no rs
+
+Médico é preso após atropelar mulher e não prestar socorro; vítima morreu
+
+Médico é preso após atropelar mulher e não prestar socorro; vítima morreu](https://www.tnh1.com.br/noticia/nid/medico-e-preso-apos-atropelar-mulher-e-nao-prestar-socorro-vitima-morreu/ "Médico é preso após atropelar mulher e não prestar socorro; vítima morreu")[![Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/7/csm_delegacia_geral_pc_08a63f7319.jpeg)
+
+CASO KLEBER MALAQUIAS
+
+CASO KLEBER MALAQUIAS
+
+Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas
+
+Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://www.tnh1.com.br/noticia/nid/delegado-preso-pela-pf-e-afastado-das-funcoes-na-policia-civil-de-alagoas/ "Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas")[![Especialista em obras de restauro ministra palestra gratuita em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_Jorge_Tinoco_1_c45c26675f.jpeg)
+
+Maceió
+
+Maceió
+
+Especialista em obras de restauro ministra palestra gratuita em Maceió
+
+Especialista em obras de restauro ministra palestra gratuita em Maceió](https://www.tnh1.com.br/noticia/nid/especialista-em-obras-de-restauro-ministra-palestra-gratuita-em-maceio/ "Especialista em obras de restauro ministra palestra gratuita em Maceió")[![Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_felipe-melo_lucas_mercon-FFC_13039c9f84.jpg)
+
+no rj
+
+no rj
+
+Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente
+
+Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente](https://www.tnh1.com.br/noticia/nid/felipe-melo-do-fluminense-e-investigado-sob-suspeita-de-constranger-adolescente/ "Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
