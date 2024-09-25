@@ -557,15 +557,15 @@ MENU MENU
     
     September 25, 2024
     
-    [G7 Cyber Expert Group Recommends Action to Combat Financial Sector Risks from Quantum Computing](https://home.treasury.gov/news/press-releases/jy2609)
+    [Treasury Sanctions Networks Enabling Illicit Trade that Benefits IRGC-QF and Hizballah](https://home.treasury.gov/news/press-releases/jy2613)
     
     September 25, 2024
     
-    [U.S. Department of the Treasury Releases New Data Showing 3.3 Million Small Business Owners and Self-Employed Workers Covered by Affordable Care Act Marketplaces in 2022](https://home.treasury.gov/news/press-releases/jy2608)
+    [Treasury Sanctions Former Haitian Politician and Gang Leader for Their Connections to Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2612)
     
-    September 24, 2024
+    September 25, 2024
     
-    [U.S. Department of the Treasury, IRS, and Department of Energy Announce Next Steps for 2024 Program Year of Inflation Reduction Act Program for Solar and Wind Energy in Low-Income Communities](https://home.treasury.gov/news/press-releases/jy2606)
+    [G7 Cyber Expert Group Recommends Action to Combat Financial Sector Risks from Quantum Computing](https://home.treasury.gov/news/press-releases/jy2609)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
@@ -574,15 +574,15 @@ MENU MENU
     
     September 25, 2024
     
+    [Remarks by Under Secretary for Domestic Finance Nellie Liang on Voluntary Carbon Market Integrity](https://home.treasury.gov/news/press-releases/jy2614)
+    
+    September 25, 2024
+    
     [Remarks by Deputy Secretary of the Treasury Wally Adeyemo on Voluntary Carbon Markets](https://home.treasury.gov/news/press-releases/jy2611)
     
     September 25, 2024
     
     [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at the 2024 Partnership for Global Infrastructure and Investment Investor Forum](https://home.treasury.gov/news/press-releases/jy2610)
-    
-    September 23, 2024
-    
-    [Statement by Secretary of the Treasury Janet L. Yellen on 30th Anniversary of Community Development Financial Institution Fund](https://home.treasury.gov/news/press-releases/jy2599)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
