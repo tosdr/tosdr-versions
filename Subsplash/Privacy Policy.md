@@ -13,6 +13,10 @@ Oops! Something went wrong while submitting the form.
 
 By providing your contact information you agree to receive communications from Subsplash including but not limited to emails, phone calls, and text messages. Message and data rates may apply. Message frequency varies. Opt out available. You can learn more about how we handle your personal data and your rights by reviewing our [privacy policy.](https://www.subsplash.com/legal/privacy)
 
+[Join our conversation with Carey Nieuwhof on Oct 9 | Register now!
+
+Register now!](https://equip.subsplash.com/how-thriving-churches-deepen-engagement?utm_campaign=&utm_source=_website_&utm_medium=banner)
+
 [![Subsplash Logo](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/64d1546f0b2e6541c7beed66_Subsplash_Logo_Black%201.svg)](https://www.subsplash.com/)
 
 * [PRICING](https://www.subsplash.com/pricing)
