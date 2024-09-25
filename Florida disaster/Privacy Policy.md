@@ -134,6 +134,7 @@ Search
 * [Plan & Prepare](https://www.floridadisaster.org/planprepare/)
     * [Florida Hurricane Guide](https://www.floridadisaster.org/planprepare/florida-hurricane-guide/)
     * [Preparing for the Hurricane Season](https://www.floridadisaster.org/planprepare/preparing-for-hurricane-season/)
+    * [County Emergency Management](https://www.floridadisaster.org/planprepare/counties/)
     * [Disaster Supply Kit Checklist](https://www.floridadisaster.org/planprepare/hurricane-supply-checklist/)
     * [Disaster Preparedness Maps](https://www.floridadisaster.org/planprepare/disaster-preparedness-maps/)
     * [Access and Functional Needs Planning](https://www.floridadisaster.org/planprepare/disability/)
@@ -153,6 +154,7 @@ Search
     * [Make an Evacuation Plan](https://www.floridadisaster.org/planprepare/make-an-evacuation-plan/)
     * [Know Your Zone, Know Your Home](https://www.floridadisaster.org/planprepare/know-your-zone-know-your-home/)
     * [University Preparedness](https://www.floridadisaster.org/planprepare/University/)
+    * [Generator Safety](https://www.floridadisaster.org/planprepare/generator-safety/)
     * [Planning for Your Home](https://www.floridadisaster.org/planprepare/home/)
         * [Make a Plan for Manufactured Homes](https://www.floridadisaster.org/planprepare/home/manufacturedhomes/)
         * [Gas Utilities](https://www.floridadisaster.org/planprepare/home/gas-utilities/)
@@ -218,11 +220,11 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, September 24, 2024**
+**Wednesday, September 25, 2024**
 
-_**Potential Tropical Cyclone Nine (0925 EDT): Located Over the Northwestern Caribbean Sea and Forecast to Continue Moving Northwestward Today and Tonight...Faster Forward Motion Toward North-Northeast on Wednesday and Thursday...Center Forceast to Move Across Northwest Caribbean Sea through Tonight, Then Over Eastern Gulf of Mexico Wednesday and Thursday...Strengthening is Expected; System to Become a Hurricane on Wednesday...Storm Surge Watches Along Entire Big Bend and West Coast...Tropical Storm Watches For Far East Panhandle, Interior Central Florida and Southwest Florida; Hurricane Watch Along BIg Bend, Nature Coast and Coastal West-Central Florida...**_
+_**Tropical Storm Helene (0925 EDT): Located About 120 Miles Southwest of Western Tip of Cuba & Moving Northwest at 9 MPH; Maximum Sustained Winds near 65 MPH...General Motion to Continue Through This Morning Followed By Northward Motion Later Today and Continuing Through Friday...Center of Helene to Pass Near Northeastern Yucatan Peninsula This Morning, Across Eastern Gulf of Mexico Later Today and Thursday, Reach Big Bend Coast Late Thursday...Strengthening is Forecast, and Helene Exepcted to Become a Hurricane...Forcast to Rapidly Strengthen Over Eastern Gulf of Mexico and Become a Major Hurricane Thursday...Hurricane Warnings Across Florida Big Bend and Eastern Suwannee Valley and Nature Coast; Hurricane Watches for Portions of Nature Coast and Coastal West-Central Florida...Tropical Storm Warnings Across Far Eastern Panhandle, Northeast Florida & Peninsula...**_
 
-**...High Pressure to Gradually Move Westward Away from Southeast U.S....Mostly Dry Conditions Continue Across North Florida and Towards I-4 Corridor; Possible Shower or Two Along Panhandle Coast...Onshore Winds and Sea Breeze to Create Isolated to Widely Scattered Showers and Embedded Thunderstorms South of I-4 Corridor; Greatest Chance Along South Florida & Keys...Heat Index Values In Middle to Upper 90s and Low 100s Statewide...Increasing Showers and Thunderstorms Late this Evening and Overnight As Tropical Moisture Increases...Moderate to High Risk for Rip Currents Along East Coast and Several Panhandle...Increasing Surf and Hazardous Conditions Along Numerous Beaches...Coastal Flood Advisories Continue Along St. Johns Basin; Coastal Flood Warning for Keys Ahead of Major Flooding Wednesday Evening...Potential Tropical Cyclone Nine Remains Disorganized But Forecast to Become a Hurricane on Wednesday (Near 100% Chance for Development)...Tropical Wave Near Cabo Verde Islands Has High Chance for Development Over Eastern and Central Tropical Atlantic; No Direct Threat to Florida At this Time...**
+**...Tropical Moisture Already Pushing Northward Into Southern Gulf of Mexico and Southern Peninsula...Outer Rainbands from Helene To Move Across Peninsula and Keys Later Today and Tonight, Then Eventually Into Coastal Big Bend...Isolated Tropical Tornadoes Possible Within Outer Bands of Helene Through Thursday Morning; Isolated Damaging Wind Gusts Possible...Increasing Rain Chances from South to North Later Today and Tonight...Maringal Risk for Flash Flooding Statewide; Slight Risk Along Apalachicola and Coastal West-Central Florida...Flood Watch Nearly Statewide...Frontal Boundary to Approach Western Panhandle, Bringing Additional Showers and Thunderstorms...Coastal Flood Warning Along Florida Keys Due to Potential Major Coastal Flooding; Coastal Flood Advisories Continue Along St. Johns River...High Risk for Life-Threatening Rip Currents Statewide...Life-Threat Beach and Boating Conditions Along Gulf Coast and Storm Surge...** 
 
 [More Details](https://www.floridadisaster.org/weather/)
 
