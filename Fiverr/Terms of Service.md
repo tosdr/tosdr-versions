@@ -518,6 +518,13 @@
     * [Financial Reporting](https://www.fiverr.com/categories/finance/accounting-services/financial-reporting-services?source=category_tree)
     * [Bookkeeping](https://www.fiverr.com/categories/finance/accounting-services/bookkeeping?source=category_tree)
     * [Payroll Management](https://www.fiverr.com/categories/finance/accounting-services/payroll-management?source=category_tree)
+    * [Find a Financial Expert](https://www.fiverr.com/cp/finance-vertical-expansion)
+    
+    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
+    * [Due Diligence](https://www.fiverr.com/categories/finance/corporate-finance/due-diligence?source=category_tree)
+    * [Valuation](https://www.fiverr.com/categories/finance/corporate-finance/valuation?source=category_tree)
+    * [Mergers & Acquisitions Advisory](https://www.fiverr.com/categories/finance/corporate-finance/mergers-and-acquisitions?source=category_tree)
+    * [Corporate Finance Strategy](https://www.fiverr.com/categories/finance/corporate-finance/corporate-finance-strategy?source=category_tree)
     
     * [Tax Consulting](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
     * [Tax Returns](https://www.fiverr.com/categories/finance/tax-consulting/tax-returns?source=category_tree)
@@ -525,12 +532,6 @@
     * [Tax Planning](https://www.fiverr.com/categories/finance/tax-consulting/tax-planning?source=category_tree)
     * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
     * [Tax Exemptions](https://www.fiverr.com/categories/finance/tax-consulting/tax-exemptions?source=category_tree)
-    
-    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
-    * [Due Diligence](https://www.fiverr.com/categories/finance/corporate-finance/due-diligence?source=category_tree)
-    * [Valuation](https://www.fiverr.com/categories/finance/corporate-finance/valuation?source=category_tree)
-    * [Mergers & Acquisitions Advisory](https://www.fiverr.com/categories/finance/corporate-finance/mergers-and-acquisitions?source=category_tree)
-    * [Corporate Finance Strategy](https://www.fiverr.com/categories/finance/corporate-finance/corporate-finance-strategy?source=category_tree)
     
     * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
     * [Budgeting and Forecasting](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
@@ -567,8 +568,10 @@
     
     * AI Artists
         
+    * [AI Avatar Designnew](https://www.fiverr.com/categories/graphics-design/ai-avatar-design?source=category_tree)
+    * [ComfyUI Workflow Creation](https://www.fiverr.com/categories/graphics-design/ai-art-prompt/comfyui-workflow?source=category_tree)
+    * [AI Image Editingnew](https://www.fiverr.com/categories/graphics-design/ai-image-editing?source=category_tree)
     * [Midjourney Artists](https://www.fiverr.com/categories/graphics-design/buy/ai-art-prompt/midjourney?source=category_tree&ref=ai_engine%3Amidjourney)
-    * [DALL-E Artists](https://www.fiverr.com/categories/graphics-design/buy/ai-art-prompt/dall-e?source=category_tree&ref=ai_engine%3Adall_e)
     * [Stable Diffusion Artists](https://www.fiverr.com/categories/graphics-design/buy/ai-art-prompt/stable-diffusion?source=category_tree&ref=ai_engine%3Astable_diffusion)
     * [All AI Art Services](https://www.fiverr.com/categories/graphics-design/ai-art-prompt?source=category_tree)
     
@@ -578,11 +581,11 @@
     * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
     * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
     
-    * AI Video
+    * AI Videonew
         
     * [AI Music Videos](https://www.fiverr.com/categories/video-animation/buy/music-videos/ai-generated?source=category_tree&ref=video_type%3Aai_generated)
     * [AI Video Art](https://www.fiverr.com/categories/video-animation/video-art/ai-video-art?source=category_tree)
-    * [AI Spokespersons Videos](https://www.fiverr.com/categories/video-animation/buy/buy-spokesperson-video/ai-avatar?source=category_tree&ref=presentor%3Aai_avatar)
+    * [AI Video Avatars](https://www.fiverr.com/categories/video-animation/virtual-streaming-avatars/ai-avatars?source=category_tree)
     
     * AI Audio
         
@@ -1195,6 +1198,13 @@ Browse categories
     * [Financial Reporting](https://www.fiverr.com/categories/finance/accounting-services/financial-reporting-services?source=category_tree)
     * [Bookkeeping](https://www.fiverr.com/categories/finance/accounting-services/bookkeeping?source=category_tree)
     * [Payroll Management](https://www.fiverr.com/categories/finance/accounting-services/payroll-management?source=category_tree)
+    * [Find a Financial Expert](https://www.fiverr.com/cp/finance-vertical-expansion)
+    
+    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
+    * [Due Diligence](https://www.fiverr.com/categories/finance/corporate-finance/due-diligence?source=category_tree)
+    * [Valuation](https://www.fiverr.com/categories/finance/corporate-finance/valuation?source=category_tree)
+    * [Mergers & Acquisitions Advisory](https://www.fiverr.com/categories/finance/corporate-finance/mergers-and-acquisitions?source=category_tree)
+    * [Corporate Finance Strategy](https://www.fiverr.com/categories/finance/corporate-finance/corporate-finance-strategy?source=category_tree)
     
     * [Tax Consulting](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
     * [Tax Returns](https://www.fiverr.com/categories/finance/tax-consulting/tax-returns?source=category_tree)
@@ -1202,12 +1212,6 @@ Browse categories
     * [Tax Planning](https://www.fiverr.com/categories/finance/tax-consulting/tax-planning?source=category_tree)
     * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
     * [Tax Exemptions](https://www.fiverr.com/categories/finance/tax-consulting/tax-exemptions?source=category_tree)
-    
-    * [Corporate Finance](https://www.fiverr.com/categories/finance/corporate-finance?source=category_tree)
-    * [Due Diligence](https://www.fiverr.com/categories/finance/corporate-finance/due-diligence?source=category_tree)
-    * [Valuation](https://www.fiverr.com/categories/finance/corporate-finance/valuation?source=category_tree)
-    * [Mergers & Acquisitions Advisory](https://www.fiverr.com/categories/finance/corporate-finance/mergers-and-acquisitions?source=category_tree)
-    * [Corporate Finance Strategy](https://www.fiverr.com/categories/finance/corporate-finance/corporate-finance-strategy?source=category_tree)
     
     * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
     * [Budgeting and Forecasting](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
@@ -1243,8 +1247,10 @@ Browse categories
     * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
     
     * AI Artists
+    * [AI Avatar DesignNew](https://www.fiverr.com/categories/graphics-design/ai-avatar-design?source=category_tree)
+    * [ComfyUI Workflow Creation](https://www.fiverr.com/categories/graphics-design/ai-art-prompt/comfyui-workflow?source=category_tree)
+    * [AI Image EditingNew](https://www.fiverr.com/categories/graphics-design/ai-image-editing?source=category_tree)
     * [Midjourney Artists](https://www.fiverr.com/categories/graphics-design/buy/ai-art-prompt/midjourney?source=category_tree&ref=ai_engine%3Amidjourney)
-    * [DALL-E Artists](https://www.fiverr.com/categories/graphics-design/buy/ai-art-prompt/dall-e?source=category_tree&ref=ai_engine%3Adall_e)
     * [Stable Diffusion Artists](https://www.fiverr.com/categories/graphics-design/buy/ai-art-prompt/stable-diffusion?source=category_tree&ref=ai_engine%3Astable_diffusion)
     * [All AI Art Services](https://www.fiverr.com/categories/graphics-design/ai-art-prompt?source=category_tree)
     
@@ -1256,7 +1262,7 @@ Browse categories
     * AI Video
     * [AI Music Videos](https://www.fiverr.com/categories/video-animation/buy/music-videos/ai-generated?source=category_tree&ref=video_type%3Aai_generated)
     * [AI Video Art](https://www.fiverr.com/categories/video-animation/video-art/ai-video-art?source=category_tree)
-    * [AI Spokespersons Videos](https://www.fiverr.com/categories/video-animation/buy/buy-spokesperson-video/ai-avatar?source=category_tree&ref=presentor%3Aai_avatar)
+    * [AI Video Avatars](https://www.fiverr.com/categories/video-animation/virtual-streaming-avatars/ai-avatars?source=category_tree)
     
     * AI Audio
     * [Voice Synthesis & AI](https://www.fiverr.com/categories/music-audio/voice-synthesis-ai?source=category_tree)
