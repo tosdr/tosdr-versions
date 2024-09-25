@@ -268,14 +268,14 @@ Hi
         * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (62)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (61)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (23)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (3)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
-        * [Bagels (11)](https://www.smithbrothersfarms.com/bagels)
+        * [Bagels (10)](https://www.smithbrothersfarms.com/bagels)
             
         * [Breakfast Treats (16)](https://www.smithbrothersfarms.com/breakfast-treats)
             
@@ -324,10 +324,10 @@ Hi
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
         
-    * [Snacks (36)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (35)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
-        * [Salsa, Dips & Hummus (15)](https://www.smithbrothersfarms.com/salsa)
+        * [Salsa, Dips & Hummus (14)](https://www.smithbrothersfarms.com/salsa)
             
         * [Chips, Crackers & Nuts (21)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
