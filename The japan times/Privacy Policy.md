@@ -566,23 +566,13 @@ Latest News
 
 [Why is Taro Kono so unpopular now?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "Why is Taro Kono so unpopular now?")
 
-6 hours ago
-
 [12 referred to prosecutors over alleged horse abuse during Shinto ritual](https://www.japantimes.co.jp/news/2024/09/25/japan/crime-legal/mie-horse-ritual-case-sent-to-prosecutors/ "12 referred to prosecutors over alleged horse abuse during Shinto ritual")
-
-7 hours ago
 
 [Expat safety seen as a must for Japanese firms to keep doing business in China](https://www.japantimes.co.jp/news/2024/09/25/japan/crime-legal/china-japanese-businesses/ "Expat safety seen as a must for Japanese firms to keep doing business in China")
 
-7 hours ago
-
 [Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
-7 hours ago
-
 [Death toll on Noto Peninsula rises to 9 after heavy rain and flooding](https://www.japantimes.co.jp/news/2024/09/25/japan/heavy-rain-noto-peninsula/ "Death toll on Noto Peninsula rises to 9 after heavy rain and flooding")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
