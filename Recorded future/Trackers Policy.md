@@ -111,7 +111,7 @@ Join us online
     
 * [](https://www.instagram.com/recordedfuture/)
     
-* [](https://www.recordedfuture.com/feed/research)
+* [](https://www.recordedfuture.com/feed)
     
 
 Want to learn more?
