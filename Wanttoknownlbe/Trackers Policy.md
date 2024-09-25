@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/januari-11-goldman-sachs-koopt-aandelen-fb/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/mrna-nobelprijs-minachting-slachtoffers/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
