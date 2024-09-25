@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-589b040906055b21393a28d7b847710b
+0f5c88a2e3d1e718ed640ee50911a8f9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![9 mm small blue triangle beads](https://www.sojourner.biz/images/cache/glass/GL0311ten.200.jpg)](https://www.sojourner.biz/beads/glass/9-mm-small-blue-triangle-beads.html "9 mm small blue triangle beads")
+[![8 mm red peek-a-boo beads](https://www.sojourner.biz/images/cache/glass/GL0150.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-red-peek-a-boo-beads.html "8 mm red peek-a-boo beads")
 
-#### [9 mm small blue triangle beads](https://www.sojourner.biz/beads/glass/9-mm-small-blue-triangle-beads.html "9 mm small blue triangle beads")
+#### [8 mm red peek-a-boo beads](https://www.sojourner.biz/beads/glass/8-mm-red-peek-a-boo-beads.html "8 mm red peek-a-boo beads")
 
-$3.00
+$12.00
 
 ### Best Sellers
 
