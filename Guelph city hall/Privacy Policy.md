@@ -253,15 +253,16 @@ Guelph, Ontario N1H 3A1
 519-822-1260 extension 2605  
 [\[email protected\]](https://guelph.ca/cdn-cgi/l/email-protection)
 
-* [Access to information](https://guelph.ca/city-hall/access-to-information/)
-    * [Access to information process](https://guelph.ca/city-hall/access-to-information/access-to-information-process/)
-    * [Access to Information requests](https://guelph.ca/city-hall/access-to-information/access-to-information-requests/)
-    * [Canada’s anti-spam legislation](https://guelph.ca/city-hall/access-to-information/canadas-anti-spam-legislation/)
-    * [Driven By Data](https://guelph.ca/city-hall/access-to-information/driven-by-data/)
-    * [Personal Health Information Protection Act](https://guelph.ca/city-hall/access-to-information/personal-health-information-protection-act/)
-    * [Privacy complaints](https://guelph.ca/city-hall/access-to-information/privacy-complaints/)
-    * [Privacy and notices of collection](https://guelph.ca/city-hall/access-to-information/privacy-notices-collection/)
-    * [Website Privacy Policy](https://guelph.ca/city-hall/access-to-information/privacy-policy/)
+[Access to information](https://guelph.ca/city-hall/access-to-information/)
+
+* [Access to Information requests](https://guelph.ca/city-hall/access-to-information/access-to-information-requests/)
+* [Access to information process](https://guelph.ca/city-hall/access-to-information/access-to-information-process/)
+* [Canada’s anti-spam legislation](https://guelph.ca/city-hall/access-to-information/canadas-anti-spam-legislation/)
+* [Driven By Data](https://guelph.ca/city-hall/access-to-information/driven-by-data/)
+* [Guelph Wellington Paramedic Service Personal Health Information Protection Act](https://guelph.ca/city-hall/access-to-information/personal-health-information-protection-act/)
+* [Privacy and notices of collection](https://guelph.ca/city-hall/access-to-information/privacy-notices-collection/)
+* [Privacy complaints](https://guelph.ca/city-hall/access-to-information/privacy-complaints/)
+* [Website privacy policy](https://guelph.ca/city-hall/access-to-information/privacy-policy/)
 
 Back to top
 
