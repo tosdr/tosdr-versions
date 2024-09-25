@@ -155,9 +155,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Fuelling Europe’s future: How venture capital drives innovation and growth](https://www.euractiv.com/section/economy-jobs/opinion/fuelling-europes-future-how-venture-capital-drives-innovation-and-growth/)
     * [Transition may exacerbate regional disparities in Hungary](https://www.euractiv.com/section/economy-jobs/news/transition-may-exacerbate-regional-disparities-in-hungary/)
     * [EU may suspend more funds for Hungary, government makes adjustments](https://www.euractiv.com/section/economy-jobs/news/eu-may-suspend-more-funds-for-hungary-government-makes-adjustments/)
-    * [Industry´s vision for a competitive Europe](https://www.euractiv.com/section/economy-jobs/opinion/industrys-vision-for-a-competitive-europe/)
     
 * [Energy & Environment](https://www.euractiv.com/sections/energy-environment/)
     
@@ -490,9 +490,9 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 * 5[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
 * 6[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
 * 7[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
-* 8[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
-* 9[Incoming environment commissioner likely to face tough MEP questions on chemical rules revision](http://en.euractiv.eu/section/energy-environment/news/incoming-environment-commissioner-likely-to-face-tough-mep-questions-on-chemical-rules-revision/?utm_source=website&utm_campaign=popular)
-* 10[French government revealed: More of the same, with hard-right turn on immigration in the works](http://en.euractiv.eu/section/politics/news/french-government-revealed-more-of-the-same-with-hard-right-turn-on-immigration-in-the-works/?utm_source=website&utm_campaign=popular)
+* 8[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
+* 9[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
+* 10[Incoming environment commissioner likely to face tough MEP questions on chemical rules revision](http://en.euractiv.eu/section/energy-environment/news/incoming-environment-commissioner-likely-to-face-tough-mep-questions-on-chemical-rules-revision/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
