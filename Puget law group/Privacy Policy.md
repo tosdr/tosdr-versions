@@ -54,6 +54,7 @@ Call For a Free Consultation **•** Available 24/7 [253-627-4696](tel:+12536274
     * [Bellevue](https://www.pugetlawgroup.com/bellevue-wa/criminal-defense-lawyer/)
     * [Kirkland](https://www.pugetlawgroup.com/kirkland-wa/criminal-defense-lawyer/)
     * [Redmond](https://www.pugetlawgroup.com/redmond-wa/criminal-defense-lawyer/)
+    * [Seattle](https://www.pugetlawgroup.com/)
     * [Kent](https://www.pugetlawgroup.com/kent-wa/criminal-defense-lawyer/)
     * [Olympia](https://www.pugetlawgroup.com/olympia-wa/criminal-defense-lawyer/)
     * [Tacoma](https://www.pugetlawgroup.com/tacoma-wa/criminal-defense-lawyer/)
@@ -165,7 +166,7 @@ Whatever your situation – DUI, Criminal Charge, or Personal Injury – PLG is 
     
     By checking this box I agree to receive communication from Puget Law Group and agree to our [Privacy Policy](https://www.pugetlawgroup.com/privacy-policy/) and [Terms of Use](https://www.pugetlawgroup.com/terms-of-use/).
     
-* Name
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
