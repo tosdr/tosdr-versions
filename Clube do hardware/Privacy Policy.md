@@ -134,126 +134,117 @@ Política de privacidade
 
 * ### Popular agora
     
-    * [![yNorox](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253601.thumb.jpeg.058d969de88a7a9e05b38a7de088621a.jpeg)](https://www.clubedohardware.com.br/profile/1253601-ynorox/ "Ir ao perfil de yNorox")
+    * [![Matheuspc1995](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23ac62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1061329-matheuspc1995/ "Ir ao perfil de Matheuspc1995")
         
-        13
+        17
         
-        [Vale a pena dar update no meu pc?](https://www.clubedohardware.com.br/forums/topic/1698228-vale-a-pena-dar-update-no-meu-pc/ "Visualizar tópico")
+        [O DELL EPSA é 100% confiável? Notebook travando](https://www.clubedohardware.com.br/forums/topic/1698248-o-dell-epsa-%C3%A9-100-confi%C3%A1vel-notebook-travando/ "Visualizar tópico")
         
-        Por [yNorox](https://www.clubedohardware.com.br/profile/1253601-ynorox/ "Ir ao perfil de yNorox")  
-        5 horas atrás
-        
-    * [![pedropaes1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252450.thumb.png.d184f91aea55e54f46ce61c280cb8181.png)](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")
-        
-        29
-        
-        [Radeon RX 6650XT da XFX ou Radeon RX 7600 da ASRock?](https://www.clubedohardware.com.br/forums/topic/1698180-radeon-rx-6650xt-da-xfx-ou-radeon-rx-7600-da-asrock/ "Visualizar tópico")
-        
-        Por [pedropaes1](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")  
-        17 horas atrás
+        Por [Matheuspc1995](https://www.clubedohardware.com.br/profile/1061329-matheuspc1995/ "Ir ao perfil de Matheuspc1995")  
+        2 horas atrás
         
     
 * ### Últimos tópicos
     
-    * [![LucasG97](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/imported-photo-1209276.thumb.webp.29bf11b0d0c20f0140e6659680681d5f.webp)](https://www.clubedohardware.com.br/profile/955517-lucasg97/ "Ir ao perfil de LucasG97")
-        
-        3
-        
-        [Recomendação de notebook até R$ 4.000 para setor de TI](https://www.clubedohardware.com.br/forums/topic/1698233-recomenda%C3%A7%C3%A3o-de-notebook-at%C3%A9-r-4000-para-setor-de-ti/?do=getNewComment "Recomendação de notebook até R$ 4.000 para setor de TI")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [LucasG97](https://www.clubedohardware.com.br/profile/955517-lucasg97/ "Ir ao perfil de LucasG97")  
-        1 hora atrás
-        
-    * [![Ian Florencio](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239dc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EIF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253605-ian-florencio/ "Ir ao perfil de Ian Florencio")
-        
-        0
-        
-        [Configuração de Energia - Placa-mãe Revenger h61/k](https://www.clubedohardware.com.br/forums/topic/1698232-configura%C3%A7%C3%A3o-de-energia-placa-m%C3%A3e-revenger-h61k/?do=getNewComment "Configuração de Energia - Placa-mãe Revenger h61/k")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Ian Florencio](https://www.clubedohardware.com.br/profile/1253605-ian-florencio/ "Ir ao perfil de Ian Florencio")  
-        1 hora atrás
-        
-    * [![Eros Eloi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251762.thumb.png.f30e74147762d4335436cfa4df204d83.png)](https://www.clubedohardware.com.br/profile/1251762-eros-eloi/ "Ir ao perfil de Eros Eloi")
-        
-        0
-        
-        [fifine h6 com interferencia / chiado](https://www.clubedohardware.com.br/forums/topic/1698231-fifine-h6-com-interferencia-chiado/?do=getNewComment "fifine h6 com interferencia / chiado")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Eros Eloi](https://www.clubedohardware.com.br/profile/1251762-eros-eloi/ "Ir ao perfil de Eros Eloi")  
-        1 hora atrás
-        
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![morfeumecatronica](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253632.thumb.png.0515019eb704eabfc857961e68e3981d.png)](https://www.clubedohardware.com.br/profile/1253632-morfeumecatronica/ "Ir ao perfil de morfeumecatronica")
         
         1
         
-        [HDs e corrupção de dados como acontece](https://www.clubedohardware.com.br/forums/topic/1698230-hds-e-corrup%C3%A7%C3%A3o-de-dados-como-acontece/?do=getNewComment "HDs e corrupção de dados como acontece")
+        [controle de potência com triac](https://www.clubedohardware.com.br/forums/topic/1698261-controle-de-pot%C3%AAncia-com-triac/?do=getNewComment "controle de potência com triac")
         
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
-        3 horas atrás
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [morfeumecatronica](https://www.clubedohardware.com.br/profile/1253632-morfeumecatronica/ "Ir ao perfil de morfeumecatronica")  
+        8 minutos atrás
         
-    * [![Jonathan Hoffet Lima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253602.thumb.png.2d01dca5dad468a4b6df3581207b42fb.png)](https://www.clubedohardware.com.br/profile/1253602-jonathan-hoffet-lima/ "Ir ao perfil de Jonathan Hoffet Lima")
+    * [![Hugo Assis](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/Semttulo.thumb.png.2c7e4d1be941b09a5e619b37e126ab62.png)](https://www.clubedohardware.com.br/profile/1251239-hugo-assis/ "Ir ao perfil de Hugo Assis")
         
-        4
+        2
         
-        [PC com Core I5 3470 e Radeon RX 580 reiniciando em jogos mais pesados](https://www.clubedohardware.com.br/forums/topic/1698229-pc-com-core-i5-3470-e-radeon-rx-580-reiniciando-em-jogos-mais-pesados/?do=getNewComment "PC com Core I5 3470 e Radeon RX 580 reiniciando em jogos mais pesados")
-        
-        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
-        Por [Jonathan Hoffet Lima](https://www.clubedohardware.com.br/profile/1253602-jonathan-hoffet-lima/ "Ir ao perfil de Jonathan Hoffet Lima")  
-        5 horas atrás
-        
-    * [![yNorox](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253601.thumb.jpeg.058d969de88a7a9e05b38a7de088621a.jpeg)](https://www.clubedohardware.com.br/profile/1253601-ynorox/ "Ir ao perfil de yNorox")
-        
-        13
-        
-        [Vale a pena dar update no meu pc?](https://www.clubedohardware.com.br/forums/topic/1698228-vale-a-pena-dar-update-no-meu-pc/?do=getNewComment "Vale a pena dar update no meu pc?")
+        [Recomendação de placa de vídeo até R$ 1.000](https://www.clubedohardware.com.br/forums/topic/1698260-recomenda%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-at%C3%A9-r-1000/?do=getNewComment "Recomendação de placa de vídeo até R$ 1.000")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [yNorox](https://www.clubedohardware.com.br/profile/1253601-ynorox/ "Ir ao perfil de yNorox")  
-        5 horas atrás
+        Por [Hugo Assis](https://www.clubedohardware.com.br/profile/1251239-hugo-assis/ "Ir ao perfil de Hugo Assis")  
+        12 minutos atrás
         
-    * [![ABassut](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4ae%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253600-abassut/ "Ir ao perfil de ABassut")
+    * [![Sazaki7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253633.thumb.png.1bb1ea75ec72afdb5fa9d844b9682ec8.png)](https://www.clubedohardware.com.br/profile/1253633-sazaki7/ "Ir ao perfil de Sazaki7")
+        
+        2
+        
+        [Minha fonte está desligando o pc](https://www.clubedohardware.com.br/forums/topic/1698259-minha-fonte-est%C3%A1-desligando-o-pc/?do=getNewComment "Minha fonte está desligando o pc")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Sazaki7](https://www.clubedohardware.com.br/profile/1253633-sazaki7/ "Ir ao perfil de Sazaki7")  
+        20 minutos atrás
+        
+    * [![Kreppjf](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253630.thumb.png.96c2220cee2a6abc20264776f3349581.png)](https://www.clubedohardware.com.br/profile/1253630-kreppjf/ "Ir ao perfil de Kreppjf")
         
         1
         
-        [Placa-Mãe GA-A320M-S2H - Desabilitei chipset Integrated Graphics e não funciona](https://www.clubedohardware.com.br/forums/topic/1698227-placa-m%C3%A3e-ga-a320m-s2h-desabilitei-chipset-integrated-graphics-e-n%C3%A3o-funciona/?do=getNewComment "Placa-Mãe GA-A320M-S2H - Desabilitei chipset Integrated Graphics e não funciona")
+        [Não consigo instalar air cooler na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1698258-n%C3%A3o-consigo-instalar-air-cooler-na-placa-m%C3%A3e/?do=getNewComment "Não consigo instalar air cooler na placa-mãe")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [ABassut](https://www.clubedohardware.com.br/profile/1253600-abassut/ "Ir ao perfil de ABassut")  
-        6 horas atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Kreppjf](https://www.clubedohardware.com.br/profile/1253630-kreppjf/ "Ir ao perfil de Kreppjf")  
+        22 minutos atrás
         
-    * [![expedito12389](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253599.thumb.jpeg.028a32add9e4282215f8dd0e38ba4f93.jpeg)](https://www.clubedohardware.com.br/profile/1253599-expedito12389/ "Ir ao perfil de expedito12389")
-        
-        0
-        
-        [como eu faço root no t2040?](https://www.clubedohardware.com.br/forums/topic/1698226-como-eu-fa%C3%A7o-root-no-t2040/?do=getNewComment "como eu faço root no t2040?")
-        
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [expedito12389](https://www.clubedohardware.com.br/profile/1253599-expedito12389/ "Ir ao perfil de expedito12389")  
-        6 horas atrás
-        
-    * [![Celidah](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253598.thumb.png.dd97768b249a769559f525a53191b026.png)](https://www.clubedohardware.com.br/profile/1253598-celidah/ "Ir ao perfil de Celidah")
+    * [![yJpbrr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/images(2)(18).thumb.jpeg.07124b4b6655ce105844b9e834d330f8.jpeg)](https://www.clubedohardware.com.br/profile/1209004-yjpbrr/ "Ir ao perfil de yJpbrr")
         
         3
         
-        [Quanto vale meu desktop?](https://www.clubedohardware.com.br/forums/topic/1698225-quanto-vale-meu-desktop/?do=getNewComment "Quanto vale meu desktop?")
+        [Essa RX 580 (16G) vale a pena?](https://www.clubedohardware.com.br/forums/topic/1698257-essa-rx-580-16g-vale-a-pena/?do=getNewComment "Essa RX 580 (16G) vale a pena?")
         
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Celidah](https://www.clubedohardware.com.br/profile/1253598-celidah/ "Ir ao perfil de Celidah")  
-        7 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [yJpbrr](https://www.clubedohardware.com.br/profile/1209004-yjpbrr/ "Ir ao perfil de yJpbrr")  
+        25 minutos atrás
+        
+    * [![JRicardo1995](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/Dino.thumb.png.74ec7c61e6d01067921fca462cb20775.png)](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")
+        
+        1
+        
+        [Melhores periféricos sem fio para jogos de campanha.](https://www.clubedohardware.com.br/forums/topic/1698256-melhores-perif%C3%A9ricos-sem-fio-para-jogos-de-campanha/?do=getNewComment "Melhores periféricos sem fio para jogos de campanha.")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [JRicardo1995](https://www.clubedohardware.com.br/profile/1108806-jricardo1995/ "Ir ao perfil de JRicardo1995")  
+        26 minutos atrás
+        
+    * [![n4rfy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253629.thumb.png.40ad625687b1edadb5a2a00afb9ed742.png)](https://www.clubedohardware.com.br/profile/1253629-n4rfy/ "Ir ao perfil de n4rfy")
+        
+        1
+        
+        [Monitor novo não dá sinal, comprado na Pichau](https://www.clubedohardware.com.br/forums/topic/1698255-monitor-novo-n%C3%A3o-d%C3%A1-sinal-comprado-na-pichau/?do=getNewComment "Monitor novo não dá sinal, comprado na Pichau")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [n4rfy](https://www.clubedohardware.com.br/profile/1253629-n4rfy/ "Ir ao perfil de n4rfy")  
+        1 hora atrás
+        
+    * [![ptrneckel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253626.thumb.png.3a93528d27d7521a2c209f9d5d2725c2.png)](https://www.clubedohardware.com.br/profile/1253626-ptrneckel/ "Ir ao perfil de ptrneckel")
+        
+        1
+        
+        [troquei minha placa-mãe e não reconhece mais o monitor](https://www.clubedohardware.com.br/forums/topic/1698254-troquei-minha-placa-m%C3%A3e-e-n%C3%A3o-reconhece-mais-o-monitor/?do=getNewComment "troquei minha placa-mãe  e não reconhece mais o monitor")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [ptrneckel](https://www.clubedohardware.com.br/profile/1253626-ptrneckel/ "Ir ao perfil de ptrneckel")  
+        1 hora atrás
         
     * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.jpeg.94b81ca2e29b6e7d44bc94a549a71cd4.jpeg)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
         
         1
         
-        [Quais fontes boas para uma GeForce RTX 4060 TI com preços razoáveis?](https://www.clubedohardware.com.br/forums/topic/1698224-quais-fontes-boas-para-uma-geforce-rtx-4060-ti-com-pre%C3%A7os-razo%C3%A1veis/?do=getNewComment "Quais fontes boas para uma GeForce RTX 4060 TI com preços razoáveis?")
+        [Preciso de recomendações de monitores com preços razoáveis](https://www.clubedohardware.com.br/forums/topic/1698253-preciso-de-recomenda%C3%A7%C3%B5es-de-monitores-com-pre%C3%A7os-razo%C3%A1veis/?do=getNewComment "Preciso de recomendações de monitores com preços razoáveis")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
         Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
-        7 horas atrás
+        1 hora atrás
+        
+    * [![Rodrigo Heringer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253625.thumb.jpeg.5451d220f6f85df7e701ccf71ed34d9f.jpeg)](https://www.clubedohardware.com.br/profile/1253625-rodrigo-heringer/ "Ir ao perfil de Rodrigo Heringer")
+        
+        1
+        
+        [Parte do LED do monitor AOC apagou. Tem como substituir?](https://www.clubedohardware.com.br/forums/topic/1698252-parte-do-led-do-monitor-aoc-apagou-tem-como-substituir/?do=getNewComment "Parte do LED do monitor AOC apagou. Tem como substituir?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Rodrigo Heringer](https://www.clubedohardware.com.br/profile/1253625-rodrigo-heringer/ "Ir ao perfil de Rodrigo Heringer")  
+        1 hora atrás
         
     
 
