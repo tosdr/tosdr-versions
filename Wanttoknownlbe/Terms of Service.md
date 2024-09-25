@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-ontmaskering-van-het-valse-corona-verhaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/jubileumdag-nvkp-het-bezoeken-waard/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
