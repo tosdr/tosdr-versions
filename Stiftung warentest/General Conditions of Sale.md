@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Service Stiftung Warentest
 
