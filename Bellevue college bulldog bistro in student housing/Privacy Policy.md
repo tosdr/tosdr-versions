@@ -418,11 +418,19 @@ Select language English
 * [Terms of service](https://www.bcfse.com/terms)
 * Cookie Policy Changes
 
+Contact us
+
+3000 Landerholm Cir SE - H103, Bellevue, WA 98007, United States
+
+[+1 425-564-1703](tel:+1 425 564 1703)
+
+Links
+
 [Menu](https://www.bcfse.com/menu)
 
 [Order ahead](https://www.bcfse.com/order-ahead)
 
-[Contact](https://www.bcfse.com/contact)
+[Contact us](https://www.bcfse.com/contact)
 
 See MENU & Order
 
