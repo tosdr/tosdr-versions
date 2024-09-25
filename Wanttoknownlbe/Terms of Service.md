@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kalfjes-doen-niet-aan-zelf-suggestie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-ontmaskering-van-het-valse-corona-verhaal/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
