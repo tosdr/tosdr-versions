@@ -148,7 +148,7 @@
 
 Сейчас читают
 
-* [Томатный суп с брокколи и овощами](https://www.russianfood.com/recipes/recipe.php?rid=173945)
+* [Салат с кальмарами, помидорами и горошком](https://www.russianfood.com/recipes/recipe.php?rid=173961)
 * [Свекольник на йогурте](https://www.russianfood.com/recipes/recipe.php?rid=173751)
 * [Сливовая гранита](https://www.russianfood.com/recipes/recipe.php?rid=174191)
 
@@ -172,6 +172,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Неожиданные включения и проверенные сочетания. Лучшие УЖИНЫ №24-39](https://www.russianfood.com/reading/?post_id=22642) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/739/sm_738787.jpg)](https://www.russianfood.com/reading/?post_id=22642)
+
+Курица с баклажанами в сметане. Лодочки из картофеля с сыром. Макароны с курицей и баклажанами. Тефтели из индейки с кабачками. Булгур с бататом. Рыба, запечённая с кабачками. Тушёная капуста с курицей и фасолью.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22642)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22642#comments) | 25.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -221,7 +235,7 @@
 
 [![Фото к рецепту: Десерт из яблок с печеньем и джемом](//img1.russianfood.com/dycontent/images_upl/736/sm_735448.jpg "Фото к рецепту: Десерт из яблок с печеньем и джемом")](https://www.russianfood.com/recipes/recipe.php?rid=173312)
 
-Десерт из яблок с крошкой печенья и джемом запоминается интересным вкусом и радует простотой приготовления. Яблоки тушатся до мягкости с добавлением корицы, благодаря чему десерт приобретает нежный вкус и потрясающий аромат. Джем можно взять послаже или более кислый, тем самым регулируя вкус десерта.
+Десерт из яблок с крошкой печенья и джемом запоминается интересным вкусом и радует простотой приготовления. Яблоки тушатся до мягкости с добавлением корицы, благодаря чему десерт приобретает нежный вкус и потрясающий аромат. Джем можно взять сладкий или более кислый, тем самым регулируя вкус десерта.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173312)  
 
@@ -235,7 +249,7 @@
 
 [![Фото к рецепту: Пирог с начинкой из мака, изюма и орехов](//img1.russianfood.com/dycontent/images_upl/736/sm_735794.jpg "Фото к рецепту: Пирог с начинкой из мака, изюма и орехов")](https://www.russianfood.com/recipes/recipe.php?rid=173365)
 
-Пирог с начинкой из мака, изюма и орехов обладает насыщенным вкусом. Тонкое тесто и большое количество ароматной начинкой - идеальное сочетание!
+Этот пирог с начинкой из мака, изюма и орехов обладает насыщенным вкусом. Тонкое песочное тесто и большое количество ароматной начинки создают идеальный баланс. Прекрасный выбор для ценителей домашней выпечки.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173365)  
 
@@ -249,7 +263,7 @@
 
 [![Фото к рецепту: Клафути с голубикой](//img1.russianfood.com/dycontent/images_upl/735/sm_734428.jpg "Фото к рецепту: Клафути с голубикой")](https://www.russianfood.com/recipes/recipe.php?rid=173901)
 
-Клафути - популярный французский десерт, который готовится из жидкого теста, похожего на блинное, и различных добавок, например, ягод. В данном случае клафути готовится с голубикой. Такой десерт можно подавать как в тёплом, так и в холодном виде.
+Клафути - популярный французский десерт, который готовится из жидкого теста, похожего на блинное, с ягодами или фруктами. В данном случае клафути готовится с голубикой. Такой десерт можно подавать как в тёплом, так и в холодном виде.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173901)  
 
@@ -263,7 +277,7 @@
 
 [![Фото к рецепту: Гранита из дыни, персиков и банана](//img1.russianfood.com/dycontent/images_upl/739/sm_738314.jpg "Фото к рецепту: Гранита из дыни, персиков и банана")](https://www.russianfood.com/recipes/recipe.php?rid=174070)
 
-Гранита из дыни, персиков и банана - освежающее лакомство, которое станет достойным конкурентом магазинному мороженому. Такой десерт из колотого фруктового льда и сахарного сиропа станет одним любимых летних лакомств.
+Гранита из дыни, персиков и банана - освежающее лакомство, которое станет достойным конкурентом магазинному мороженому. Такой десерт из колотого фруктового льда и сахарного сиропа - отличное решение для жарких дней.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174070)  
 
@@ -277,7 +291,7 @@
 
 [![Фото к рецепту: Маффины со сливами и маком](//img1.russianfood.com/dycontent/images_upl/740/sm_739256.jpg "Фото к рецепту: Маффины со сливами и маком")](https://www.russianfood.com/recipes/recipe.php?rid=174118)
 
-Маффины - домашняя выпечка, разнообразить которую можно с помощью различных добавок. В данном случае это сливы и мак. Тесто замешивается быстро и просто, так что к выпечке можно приступать незамедлительно.
+Маффины - домашняя выпечка, разнообразить которую можно с помощью различных добавок. В данном рецепте используются сливы и мак. Получается вкусно, ароматно и интересно.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174118)  
 
@@ -291,7 +305,7 @@
 
 [![Фото к рецепту: Слоёные палочки с пряностями](//img1.russianfood.com/dycontent/images_upl/739/sm_738508.jpg "Фото к рецепту: Слоёные палочки с пряностями")](https://www.russianfood.com/recipes/recipe.php?rid=174219)
 
-Слоёные палочки с пряностями готовятся так просто, что справится даже ребёнок. Готовое слоёное тесто и смесь пряностей идеально дополняют друг друга. 10-15 минут в духовке - и можно подавать к чаепитию!
+Слоёные палочки с пряностями готовятся так просто, что справится даже ребёнок. Тесто используется магазинное. Остаётся нарезать его полосками, смазать яйцом, обсыпать смесью сахара и пряностей, закрутить в спиральки и отправить в духовку.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174219)  
 
@@ -369,20 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173180#comments) | 24.09.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рисовые котлеты с креветками](https://www.russianfood.com/recipes/recipe.php?rid=173225) |     |
-
-[![Фото к рецепту: Рисовые котлеты с креветками](//img1.russianfood.com/dycontent/images_upl/735/sm_734593.jpg "Фото к рецепту: Рисовые котлеты с креветками")](https://www.russianfood.com/recipes/recipe.php?rid=173225)
-
-Рисовые котлеты с креветками отлично могут разнообразить домашнее меню. К отваренному рису добавляем обжаренные креветки, зелень и пряности, а затем котлетки из полученного фарша жарим на сковороде до аппетитной золотистости. Вкусно!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173225)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173225#comments) | 24.09.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -454,10 +454,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734572.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173229) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734209.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174000) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735864.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173939) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733607.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174009) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736814.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173488) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733554.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174033) |
-| [Песочный тарт со сливами в сметанной заливке](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [Омлет с креветками, перцем и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=173229) | [Салат со свёклой, апельсином, сыром и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174000) | [Закрытый песочный пирог с ягодной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173939) | [Салат с говядиной, сыром и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174009) | [Маффины на йогурте, с ягодами и штрейзелем](https://www.russianfood.com/recipes/recipe.php?rid=173488) | [Кабачковая «пицца» с ветчиной и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174033) |
-| [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738224.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740179.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [![](//img1.russianfood.com/dycontent/images_upl/731/alt1_730656.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173972) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738536.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174232) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739147.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174286) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734428.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173901) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738314.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174070) |
-| [Салат с чечевицей, помидорами и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [Салат с крабовыми палочками, помидорами, сельдереем и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [Шоколадно-кофейное безе с фундуком](https://www.russianfood.com/recipes/recipe.php?rid=173972) | [Десерт с печеньем, джемом и сливочно-сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174232) | [Лимонные кексы с кабачками и глазурью](https://www.russianfood.com/recipes/recipe.php?rid=174286) | [Клафути с голубикой](https://www.russianfood.com/recipes/recipe.php?rid=173901) | [Гранита из дыни, персиков и банана](https://www.russianfood.com/recipes/recipe.php?rid=174070) |
+| [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735864.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173939) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738508.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174219) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735276.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173322) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738325.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174109) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740179.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735448.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173312) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736814.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173488) |
+| [Закрытый песочный пирог с ягодной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173939) | [Слоёные палочки с пряностями](https://www.russianfood.com/recipes/recipe.php?rid=174219) | [Салат со свёклой, грушей, брынзой, черемшой и орехами](https://www.russianfood.com/recipes/recipe.php?rid=173322) | [Насыпной пирог с творогом и сливами](https://www.russianfood.com/recipes/recipe.php?rid=174109) | [Салат с крабовыми палочками, помидорами, сельдереем и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [Десерт из яблок с печеньем и джемом](https://www.russianfood.com/recipes/recipe.php?rid=173312) | [Маффины на йогурте, с ягодами и штрейзелем](https://www.russianfood.com/recipes/recipe.php?rid=173488) |
+| [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738203.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174074) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734824.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173188) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738224.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735794.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173365) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738948.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733554.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174033) | [![](//img1.russianfood.com/dycontent/images_upl/733/alt1_732803.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173166) |
+| [Салат с запечённой курицей, баклажанами, кабачками и перцем](https://www.russianfood.com/recipes/recipe.php?rid=174074) | [Киш из рубленого теста, с курицей, шпинатом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173188) | [Салат с чечевицей, помидорами и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [Пирог с начинкой из мака, изюма и орехов](https://www.russianfood.com/recipes/recipe.php?rid=173365) | [Пицца из сырного теста, с колбасой, маринованными огурцами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [Кабачковая «пицца» с ветчиной и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174033) | [Кекс «Ириска» с глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173166) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +474,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(112)
+(178)
