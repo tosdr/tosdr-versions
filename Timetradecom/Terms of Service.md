@@ -123,7 +123,6 @@ Resources
 
 * [Resources Library](https://engageware.com/resources/)
 * [Blog](https://engageware.com/blog/)
-* [Success Stories](https://engageware.com/success-stories/)
 * [Engage Trends Report](https://info.engageware.com/engage-2024/outlook-customer-engagement-banking?utm_source=footer)
 
 Company
