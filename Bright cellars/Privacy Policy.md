@@ -1,5 +1,3 @@
-[NEW MEMBERS: GET YOUR FIRST 6 BOTTLES FOR $55 ($150+ VALUE)](https://www.brightcellars.com/pages/wine-quiz)
-
 [Text](https://www.brightcellars.com/)
 
 [0
