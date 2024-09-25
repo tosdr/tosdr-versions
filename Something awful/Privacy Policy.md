@@ -205,24 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Horrible Tales From A Chinese Restaurant](https://www.somethingawful.com/comedy-goldmine/horrible-tales-from/1/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Anagrammed Video Games 2 (Part Two)](https://www.somethingawful.com/photoshop-phriday/video-game-anagrams2/1/)
-* [Postcards From the Edge](https://www.somethingawful.com/photoshop-phriday/postcards-from-edge/1/)
-* [Fast Food Reviews](https://www.somethingawful.com/weekend-web/fast-food-reviews/)
+* [Blue Stripe 40,000 Interview Special](https://www.somethingawful.com/news/warhammer-chaos-birdhouse/1/)
+* [Rifts Worldbook 20: Canada (1999)](https://www.somethingawful.com/dungeons-and-dragons/rifts-canada-siembieda/1/)
+* [Kurt Vonnegut Writes Descriptions for Sears Products](https://www.somethingawful.com/news/vonnegut-sears-random/1/)
+* [Furrs for Christ, Multiplicity, and Bigfoot Forums](https://www.somethingawful.com/weekend-web/furs-bigfoot-multiplicity/1/)
+* [Worst Goon Gifts \[Receiving\]: (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/worst-goon-gifts/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Stuff that gets an overly bad rap but really isnt that terrible](http://forums.somethingawful.com/showthread.php?threadid=4071105 "Stuff that gets an overly bad rap but really isnt that terrible")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Police Chase!](http://forums.somethingawful.com/showthread.php?threadid=4071138 "Police Chase!")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Willy Wonka II: The Wonkening](http://forums.somethingawful.com/showthread.php?threadid=4071155 "Willy Wonka II: The Wonkening")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [What would you do if a nuclear war was starting?](http://forums.somethingawful.com/showthread.php?threadid=4071151 "What would you do if a nuclear war was starting?")
 
 ### Random Articles
 
-* [Ron Paulitics](https://www.somethingawful.com/great-goon-database/great-goon-politics/1/)
-* [Baseball Cards](https://www.somethingawful.com/news/baseball-cards/)
-* [CONEX Convict Connections: "Unearthly Delights"](https://www.somethingawful.com/news/conex-unearthly-delights/1/)
-* [Monsters on Holiday!](https://www.somethingawful.com/photoshop-phriday/monsters-villains-vacation/1/)
-* [The Klurfs - Love](https://www.somethingawful.com/flash-tub/klurfs-love-cartoon/)
+* [Misunderstood Computer Terms](https://www.somethingawful.com/comedy-goldmine/misunderstood-computer-terms/1/)
+* [Thomas Hood's Cool Hom](https://www.somethingawful.com/awful-links/awful-link-651/)
+* [N Sync with JC and the guys Fan fiction](https://www.somethingawful.com/awful-links/awful-link-798/)
+* [I Can Only Enjoy Video Games With Featureless Blocks as Protagonists](https://www.somethingawful.com/news/triangles-in-gaming/)
+* [Cutbacks](https://www.somethingawful.com/news/cutbacks-office/)
 
 [Random!](https://www.somethingawful.com/random/)
 
