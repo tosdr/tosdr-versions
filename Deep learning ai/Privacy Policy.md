@@ -1,4 +1,4 @@
-🌟 It's live on Coursera! Enroll in the [Data Engineering Professional Certificate](https://bit.ly/3Xv80vO) now
+✨ Now on Coursera! Enroll in [Generative AI for Software Development](https://bit.ly/4gqWjyZ)
 
 [](https://www.deeplearning.ai/)
 
