@@ -467,6 +467,10 @@ Revised June 1, 2022
 
   [![A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423443.png?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Russian IL-38 patrol aircraft is seen in this image taken by the Air Self-Defense Force on Monday.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-russia-military-aircraft-incursion/ "Japan fighters fire flares after Russian military plane enters airspace")
 
+[China urges Japan to deal with stabbing 'calmly' as details of motive elude](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
+
+  [![Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423527.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
+
 [Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
 
   [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
@@ -475,13 +479,9 @@ Revised June 1, 2022
 
   [![Former Prime Minister Yoshihiko Noda attends a news conference after being elected as the new leader of the Constitutional Democratic Party of Japan on Monday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423435.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Prime Minister Yoshihiko Noda attends a news conference after being elected as the new leader of the Constitutional Democratic Party of Japan on Monday in Tokyo.")](https://www.japantimes.co.jp/news/2024/09/23/japan/politics/cdp-new-leader/ "Former PM Yoshihiko Noda elected new leader of main opposition CDP")
 
-[Advisory lifted after 50 cm tsunami reaches Hachijojima](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Advisory lifted after 50 cm tsunami reaches Hachijojima")
+[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
-  [![The Meteorological Agency's Shigeki Aoki speaks a news conference on Tuesday morning about the tsunami advisory. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423490.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Meteorological Agency's Shigeki Aoki speaks a news conference on Tuesday morning about the tsunami advisory. ")](https://www.japantimes.co.jp/news/2024/09/24/japan/tsunami-advisory-ogasawara-izu/ "Advisory lifted after 50 cm tsunami reaches Hachijojima")
-
-[Four Japanese banks participate in digital currency project](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
-
-  [![Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423171.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Four Japanese private-sector banks including MUFG Bank will participate in an international demonstration test for cross-border payments using digital currencies led by the Bank for International Settlements.")](https://www.japantimes.co.jp/business/2024/09/23/japanese-banks-digital-currency-project/ "Four Japanese banks participate in digital currency project")
+  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
 
 [People of all ages and sizes scale new heights amid climbing boom in Japan](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
 
@@ -564,23 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[West Africa becomes global terrorism hotspot as Western forces leave](https://www.japantimes.co.jp/news/2024/09/24/world/politics/west-africa-terrorism-hotspot/ "West Africa becomes global terrorism hotspot as Western forces leave")
+[In Japan, the road to exoneration takes decades](https://www.japantimes.co.jp/news/2024/09/25/japan/crime-legal/japan-retrial-system-interview/ "In Japan, the road to exoneration takes decades")
 
-9 hours ago
+29 mins ago
 
-[Is all-out war inevitable? The view from Israel and Lebanon](https://www.japantimes.co.jp/news/2024/09/24/world/politics/israel-lebanon-all-out-war-views/ "Is all-out war inevitable? The view from Israel and Lebanon")
+[Brazil and Spain struggle to shake criticism as Maduro enablers](https://www.japantimes.co.jp/news/2024/09/25/world/politics/brazil-spain-criticism-maduro/ "Brazil and Spain struggle to shake criticism as Maduro enablers")
 
-9 hours ago
+29 mins ago
 
-[Toyota raises buyback to ¥1.2 trillion, citing share levels](https://www.japantimes.co.jp/business/2024/09/24/companies/toyota-buyback-shares/ "Toyota raises buyback to ¥1.2 trillion, citing share levels")
+[Chinese military launches long-range missile into Pacific Ocean](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "Chinese military launches long-range missile into Pacific Ocean")
 
-9 hours ago
+1 hours ago
 
-[Japan approves sale of new ALS drug, raising hopes among patients](https://www.japantimes.co.jp/news/2024/09/24/japan/science-health/japan-new-als-drug-approve/ "Japan approves sale of new ALS drug, raising hopes among patients")
+[Russia takes aim at those without children — while sending young men to war](https://www.japantimes.co.jp/news/2024/09/25/world/society/russia-ban-childless-propaganda/ "Russia takes aim at those without children — while sending young men to war")
 
-10 hours ago
+1 hours ago
 
-[Chipmaker Kioxia scraps IPO planned for October after market sell-off](https://www.japantimes.co.jp/business/2024/09/24/companies/kioxia-scraps-ipo/ "Chipmaker Kioxia scraps IPO planned for October after market sell-off")
+[Singapore commissions new submarines as Asia's undersea rivalry grows](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/singapore-submarines-asia-rivalry/ "Singapore commissions new submarines as Asia's undersea rivalry grows")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
