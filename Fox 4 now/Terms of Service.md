@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[Tropical Storm Warnings now in effect for ALL of SWFL](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
+[JUST IN: Helene now a hurricane near Cancun, Mexico](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
 
 Terms of Use
 ============
