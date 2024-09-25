@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Johnny Cash’s Family Reacts As Statue...](https://classiccountrymusic.com/johnny-cashs-family-reacts-as-statue-in-his-honor-is-unveiled-at-u-s-capitol/)
 * [OU Honors Toby Keith With Epic...](https://classiccountrymusic.com/ou-honors-toby-keith-with-epic-drone-show-during-first-sec-football-game/)
 * [Andy Griffith Stars In Brad Paisley’s...](https://classiccountrymusic.com/andy-griffith-stars-in-brad-paisleys-waitin-on-a-woman-music-video/)
-* [Hall of Fame Songwriter Billy Edd...](https://classiccountrymusic.com/hall-of-fame-songwriter-billy-edd-wheeler-dies-at-91/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
