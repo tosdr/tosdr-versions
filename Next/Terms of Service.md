@@ -1,6 +1,6 @@
 5.38.13
 
-1727253521419
+1727275458163
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727252349414
+1727275459225
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727252387844
+1727275255997
 
 You need to enable JavaScript to run this app.
 
@@ -544,6 +544,13 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### 15% off on Selected The Inkey List Promotion
+
+* Up to 15% off on selected The Inkey List products.
+* Discounted price visible on product listing page and product already includes saving
+* Item will be added to basket at discounted price
+* Offer available while stocks last
 
 ### 15% off Homeware terms
 
@@ -2490,7 +2497,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727253588421
+1727275484746
 
 ### Our Social Networks
 
