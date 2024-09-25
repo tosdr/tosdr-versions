@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    Join Our Authors for Upcoming Events
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/08/19184809/PRH_Site_1200x628_SEPT2024.jpg)
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
-    New Releases
+    Audiobooks for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * * *
 
@@ -167,7 +167,7 @@ Audio
     
     [Recommendations\>](https://www.penguinrandomhouse.com/content-archive/)
 * [Book Lists](https://www.penguinrandomhouse.com/the-read-down/)
-* [Books To Read if You Love Challengers](https://www.penguinrandomhouse.com/the-read-down/books-like-challengers/)
+* [Books To Read if You Love "Beetlejuice"](https://www.penguinrandomhouse.com/the-read-down/books-like-beetlejuice/)
 * [Western Romance Novels](https://www.penguinrandomhouse.com/the-read-down/western-romance-novels-and-historical-fiction/)
 * [Insightful Therapy Books To Read This Year](https://www.penguinrandomhouse.com/the-read-down/therapy-books/)
 * [Historical Fiction With Female Protagonists](https://www.penguinrandomhouse.com/the-read-down/historical-fiction-featuring-strong-female-protagonists/)
@@ -326,7 +326,7 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * * *
 
-[Books To Read if You Love Challengers](https://www.penguinrandomhouse.com/the-read-down/books-like-challengers/)[Western Romance Novels](https://www.penguinrandomhouse.com/the-read-down/western-romance-novels-and-historical-fiction/)[Insightful Therapy Books To Read This Year](https://www.penguinrandomhouse.com/the-read-down/therapy-books/)[Historical Fiction With Female Protagonists](https://www.penguinrandomhouse.com/the-read-down/historical-fiction-featuring-strong-female-protagonists/)[Best Thrillers of All Time](https://www.penguinrandomhouse.com/the-read-down/best-thrillers-of-all-time/)[Manga and Graphic Novels](https://www.penguinrandomhouse.com/the-read-down/manga-graphic-novels/)
+[Books To Read if You Love "Beetlejuice"](https://www.penguinrandomhouse.com/the-read-down/books-like-beetlejuice/)[Western Romance Novels](https://www.penguinrandomhouse.com/the-read-down/western-romance-novels-and-historical-fiction/)[Insightful Therapy Books To Read This Year](https://www.penguinrandomhouse.com/the-read-down/therapy-books/)[Historical Fiction With Female Protagonists](https://www.penguinrandomhouse.com/the-read-down/historical-fiction-featuring-strong-female-protagonists/)[Best Thrillers of All Time](https://www.penguinrandomhouse.com/the-read-down/best-thrillers-of-all-time/)[Manga and Graphic Novels](https://www.penguinrandomhouse.com/the-read-down/manga-graphic-novels/)
 
 [Articles](https://www.penguinrandomhouse.com/articles/)
 
@@ -338,9 +338,9 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
-[Books To Read if You Love _Gilmore Girls_
+[A Guide to Truman Capote Books
 
-Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
+Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
 
 [Audio](https://www.penguinrandomhouse.com/books/audiobooks/)
 
