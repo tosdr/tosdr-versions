@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/mrna-nobelprijs-minachting-slachtoffers/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/inspiratie-om-een-nieuwe-wereld-te-co-creeren/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
