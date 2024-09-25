@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Exploring the Tunnels of Teotihuacán** | VOCES American Historia: The Untold History of Latinos](https://video.nhpbs.org/video/exploring-the-tunnels-of-teotihuacan-h0pkuz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**How the Himalayas Changed the World** | Eons](https://video.nhpbs.org/video/how-the-himalayas-changed-the-world-upqcjy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Émigré: A Musical Drama with the NY Phil Preview** | Great Performances](https://video.nhpbs.org/video/emigre-a-musical-drama-with-the-ny-phil-preview-m1umzl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Sharon Malone and other experts define menopause and its symptoms** | The M Factor: Shredding the Silence on Menopause](https://video.nhpbs.org/video/sharon-malone-and-other-experts-define-menopause-and-its-symptoms-oydzri?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Extended Trailer** | VOCES: Latino Vote 2024](https://video.nhpbs.org/video/extended-trailer-4ff3i0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Potato** | Pan Pals](https://video.nhpbs.org/video/potato-pfrg2z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Crossroads: A conversation with America - A PBS News Special** | PBS News Hour](https://video.nhpbs.org/video/crossroads-a-conversation-with-america-a-pbs-news-special-wz7vgn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Mary Trump:"Cruelty Was a Currency" in Trump Family** | Amanpour and Company](https://video.nhpbs.org/video/trump-family-revelations-cruelty-was-currency-says-mary-trump-xcfcqs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"The Choice 2024: Harris vs. Trump" - Extended Trailer** | FRONTLINE](https://video.nhpbs.org/video/the-choice-2024-harris-vs-trump-extended-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Solar System: Strange Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-strange-worlds-preview-xnstz2?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview** | Lucy Worsley's Holmes vs. Doyle](https://video.nhpbs.org/video/preview-20kdja?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 3 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-3-preview-kxta3k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 3 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-3-preview-vdscpu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
