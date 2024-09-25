@@ -45,8 +45,6 @@
             
             [Register](https://event.on24.com/wcc/r/4685247/BB41F462319172BB493C4FCDA1AC26EE/5666134 "Register")
             
-            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
-            
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/09/MENU-WB-2024-10-Student-Success-Webinar-Series-2.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
@@ -121,8 +119,6 @@
     * * ### Watermark Student Success Webinar Series
             
             [Register](https://event.on24.com/wcc/r/4685247/BB41F462319172BB493C4FCDA1AC26EE/5666134 "Register")
-            
-            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
             
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/09/MENU-WB-2024-10-Student-Success-Webinar-Series-2.png)
             
