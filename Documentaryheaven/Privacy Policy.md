@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    Trial of Henry Kissinger
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac...](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
 
 ###### Throwback Documentaries
 
-* [![The Lost Book of Nostradamus](/wp-content/thumbnails/927-100x70.jpg?x53432)
+* [![Can We Make a Star on Earth?](/wp-content/thumbnails/286-100x70.png?x53432)
     
-    The Lost Book of Nostradamus
+    Can We Make a Star on Earth?
     
-    Could it be that Nostradamus, the “go to” prophet of all time, is reaching forward into the 21st century to give us a last warning? Is it already too late? In 1994, Italian journalist Enza Massa was a](https://documentaryheaven.com/the-lost-book-of-nostradamus/ "The Lost Book of Nostradamus")
-* [![The Pharmacratic Inquisition](/wp-content/thumbnails/2273-100x70.jpg?x53432)
+    Professor Brian Cox takes a global journey in search of the energy source of the future. Called nuclear fusion, it is the process that fuels the sun and every other star in the universe. Yet despite o](https://documentaryheaven.com/can-we-make-a-star-on-earth/ "Can We Make a Star on Earth?")
+* [![JFK: The Lost Bullet](/wp-content/thumbnails/7019-100x70.jpg?x53432)
     
-    The Pharmacratic Inquisition
+    JFK: The Lost Bullet
     
-    Thousands of years ago, in the pre monarchic era, sacred plants and other entheogenic substances where politically correct and highly respected for their ability to bring forth the divine, Yahweh, God](https://documentaryheaven.com/the-pharmacratic-inquisition/ "The Pharmacratic Inquisition")
-* [![A Life in Japan](/wp-content/thumbnails/6571-100x70.jpg?x53432)
+    It’s been called the most important pieces of film evidence of all time. Locked away in the vaults of the National Archives, the original Zapruder film that captured the vital 11 seconds of President](https://documentaryheaven.com/jfk-the-lost-bullet/ "JFK: The Lost Bullet")
+* [![Why Poverty?](/wp-content/thumbnails/6971-100x70.jpg?x53432)
     
-    A Life in Japan
+    Why Poverty?
     
-    Japan through foreign eyes. Interviews with nineteen foreign residents in Japan. Personal experiences and opinions, both the good and the bad stuff.](https://documentaryheaven.com/a-life-in-japan/ "A Life in Japan")
-* [![Monsters We Met](/wp-content/thumbnails/1618-100x70.jpg?x53432)
+    From the Authors: Why Poverty? uses film to get people talking about poverty.We commissioned eight documentaries from award-winning film makers and 30 shorts from new and emerging talents. The fil](https://documentaryheaven.com/why-poverty/ "Why Poverty?")
+* [![Who Will Save the Euro?](/wp-content/thumbnails/6074-100x70.jpg?x53432)
     
-    Monsters We Met
+    Who Will Save the Euro?
     
-    When our early ancestors entered new lands they encountered a variety of strange new creatures, monsters that no longer exist. What were they like and where are they now? What are the real answers to](https://documentaryheaven.com/monsters-we-met/ "Monsters We Met")
-* [![The Quickening](/wp-content/thumbnails/6408-100x70.jpg?x53432)
+    It is not just the banks that are in danger of going under. It is entire economies. They are the ones in need of emergency cash to stay afloat. For some time we have been saying that Europe's financia](https://documentaryheaven.com/who-will-save-the-euro/ "Who Will Save the Euro?")
+* [![The Core](/wp-content/thumbnails/6143-100x70.jpg?x53432)
     
-    The Quickening
+    The Core
     
-    All around the planet hundreds of millions of people are waiting for events to unfold in the year 2012, that they... believe will bring either the birth of a harmonious new reality... or 'the end of t](https://documentaryheaven.com/the-quickening/ "The Quickening")
+    For centuries we have dreamt of reaching the center of the Earth. Now scientists are uncovering a bizarre and alien world that lies 4,000 miles beneath our feet, unlike anything we know on the surface](https://documentaryheaven.com/the-core/ "The Core")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
