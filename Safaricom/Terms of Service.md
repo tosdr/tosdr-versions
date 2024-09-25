@@ -222,6 +222,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 25, 2024
+
+> Satisfied customers
+
+> We always use Dolan for our safari trips. He delivers world class service! All the lodges we’ve visited have been exquisite! Beautiful rooms, private splash pool and gourmet cuisine. The game drives are always spot on with extremely rare sightings. We will gladly recommend Dolan@Safari for all your safari trips.
+
+CHRISTO STONEHOUSE
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 24, 2024
 
 > I spent hours trying to book my own…
@@ -331,20 +343,6 @@ Shakoas Atiani
 ,
 
 GE
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 19, 2024
-
-> Quick and friendly service
-
-> We always struggle to make reservations especially since we book for people with disabilities. Heleen is our "go to person" since she is always friendly, helpful and quick.
-
-Daleen Rae
-
-,
-
-ZA
 
 VIP service
 
