@@ -1,10 +1,14 @@
 ✕
 
-[![National Leave a Review Day icon](https://reputation.com/wp-content/uploads/2024/09/nlard-star-whitebox.svg)
+[![National Leave a Review Day icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![National Leave a Review Day icon](https://reputation.com/wp-content/uploads/2024/09/nlard-star-whitebox.svg)
 
 National Leave a Review Day, Oct 22
 
 Start the Celebration](https://reputation.com/national-leave-a-review-day/)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAABIAQAAAAA/xdU8AAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tCF+gAAAAAAAAAAAAAAAAAAAAAIDXAEPIAAHYY2qcAAAAAElFTkSuQmCC)
 
 ![](https://reputation.com/wp-content/uploads/2024/09/leaderboard-teal-wave-bg.png)
 
@@ -15,7 +19,9 @@ Search for:
 
 * [Skip to main content](#main)
 
-[![Reputation Logo](https://reputation.com/wp-content/themes/reputation/dist/images/Reputation_Logo_Horizontal_Dark.svg)](https://reputation.com/ "Reputation")
+[![Reputation Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAAgAQAAAACaqs+wAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNg+AIAAuAAAef8vJwAAAAASUVORK5CYII=)
+
+![Reputation Logo](https://reputation.com/wp-content/themes/reputation/dist/images/Reputation_Logo_Horizontal_Dark.svg)](https://reputation.com/ "Reputation")
 
 * [Get a Demo](javascript:;)
 * Products
@@ -29,7 +35,9 @@ Search for:
             * [ActionsThe best help desk ticketing software for any size business.](https://reputation.com/products/actions/)
             * [Competitive IntelligenceAnalyze competitors’ ratings & reviews, compare performance and identify new opportunities.](https://reputation.com/products/competitive-intelligence/)
         * * [IntegrationsActivate the power of feedback data across your tech stack.](https://reputation.com/products/integrations/)
-        * * [![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+        * * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+                
+                ![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
                 
                 The 2024 Healthcare Reports are Available!
                 
@@ -43,7 +51,9 @@ Search for:
             * [Financial ServicesImprove consumer trust by learning from competitive data and consumer feedback.](https://reputation.com/solutions/financial-services/)
         * * [HealthcareEnsure exceptional patient experience across all locations.](https://reputation.com/solutions/healthcare/)
             * [Senior CareEnsure quality senior care experiences by leveraging feedback data.](https://reputation.com/solutions/senior-care/)
-        * * [![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+        * * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+                
+                ![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
                 
                 The 2024 Healthcare Reports are Available!
                 
@@ -58,7 +68,9 @@ Search for:
                 * [Videos & WebinarsBinge watch our webinars for industry tips and product updates.](https://reputation.com/resources/videos-webinars/)
                 * [ArticlesLearn about our latest platform updates and industry best practices.](https://reputation.com/resources/articles/)
                 * [Reports & ResearchExplore the latest industry insights with our data-driven research reports.](https://reputation.com/resources/reports-research/)
-        * * [![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+        * * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+                
+                ![](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
                 
                 The 2024 Healthcare Reports are Available!
                 
@@ -342,9 +354,15 @@ Liverpool, L3 9QJ
 CAYA Postbox 799114  
 96035 Bamberg
 
-* [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_x_icon.svg)](https://twitter.com/Reputation_Com)
-* [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_facebook_icon.svg)](https://www.facebook.com/profile.php?id=100064396375731)
-* [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_instagram_icon.svg)](https://www.instagram.com/reputation_com/)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
+    
+    ![](https://reputation.com/wp-content/uploads/2024/01/2024_social_x_icon.svg)](https://twitter.com/Reputation_Com)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
+    
+    ![](https://reputation.com/wp-content/uploads/2024/01/2024_social_facebook_icon.svg)](https://www.facebook.com/profile.php?id=100064396375731)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
+    
+    ![](https://reputation.com/wp-content/uploads/2024/01/2024_social_instagram_icon.svg)](https://www.instagram.com/reputation_com/)
 * [![](https://reputation.com/wp-content/uploads/2022/10/youtube.svg)
     
     ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2016%2016%22%3E%3C/svg%3E)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
