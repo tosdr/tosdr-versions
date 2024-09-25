@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/logan-bucktown-map-326x245.jpg)](https://cwbchicago.com/2024/09/5-robberies-and-carjackings-reported-in-bucktown-logan-square-humboldt-park-on-sunday-evening.html "5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening")
+
+Bucktown
+
+### [5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening](https://cwbchicago.com/2024/09/5-robberies-and-carjackings-reported-in-bucktown-logan-square-humboldt-park-on-sunday-evening.html "5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening")
+
+[September 23, 2024 7:12 AM](https://cwbchicago.com/2024/09)
+
+At least five robberies and carjackings were reported Sunday evening in Bucktown, Logan Square, and Humboldt Park.[](https://cwbchicago.com/2024/09/5-robberies-and-carjackings-reported-in-bucktown-logan-square-humboldt-park-on-sunday-evening.html "5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/CARJACKING-graphic-326x245.jpg)](https://cwbchicago.com/2024/09/driver-carjacked-near-lincoln-park-zoo.html "Driver carjacked near Lincoln Park Zoo")
+
+Lincoln Park
+
+### [Driver carjacked near Lincoln Park Zoo](https://cwbchicago.com/2024/09/driver-carjacked-near-lincoln-park-zoo.html "Driver carjacked near Lincoln Park Zoo")
+
+[September 23, 2024 6:48 AM](https://cwbchicago.com/2024/09)
+
+Police are conducting an investigation into the carjacking of a man near the Lincoln Park Zoo on Sunday evening.[](https://cwbchicago.com/2024/09/driver-carjacked-near-lincoln-park-zoo.html "Driver carjacked near Lincoln Park Zoo")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Ismael-Claudio-326x245.jpg)](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
 
 Humboldt Park
@@ -252,26 +272,6 @@ Humboldt Park
 [September 23, 2024 6:06 AM](https://cwbchicago.com/2024/09)
 
 A private tow truck driver is accused of possessing a stolen high-tech Chicago Police Department radio capable of listening to secured radio transmissions from the city’s police and fire departments.[](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/09/Gen-tape-two-squads-326x245.jpg)](https://cwbchicago.com/2024/09/cancelling-shotspotter-is-the-most-radical-reckless-and-dangerous-policy-decision-in-the-history-of-chicago-alderman-says.html "Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says")
-
-Citywide
-
-### [Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says](https://cwbchicago.com/2024/09/cancelling-shotspotter-is-the-most-radical-reckless-and-dangerous-policy-decision-in-the-history-of-chicago-alderman-says.html "Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says")
-
-[September 22, 2024 7:33 PM](https://cwbchicago.com/2024/09)
-
-Chicago Police Supt. Larry Snelling confirmed on Sunday evening that the city will no longer use the ShotSpotter gunfire detection system after midnight tonight, September 22. Mayor Brandon Johnson decided to ignore residents, a supermajority of the City Council, and the editorial boards of both daily newspapers, all of whom advised him to keep the technology in place.[](https://cwbchicago.com/2024/09/cancelling-shotspotter-is-the-most-radical-reckless-and-dangerous-policy-decision-in-the-history-of-chicago-alderman-says.html "Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Arrested-chain-bukhariancommunity-326x245.jpg)](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
-
-Lincoln Park
-
-### [Sweet! Suspect in custody after another woman has her necklace snatched on the North Side](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
-
-[September 22, 2024 7:00 AM](https://cwbchicago.com/2024/09)
-
-There’s some good news and some bad news to share about the week-long robbery spree in which victims have had necklaces snatched from their necks, mainly in the Loop and along the lakefront.[](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
 
 Search
 
