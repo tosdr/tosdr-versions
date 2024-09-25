@@ -2,46 +2,21 @@ Terms Of Service | Know Your Meme
 
 |     |     |
 | --- | --- |
-| [![Know Your Meme](/assets/kym-logo.png)](https://knowyourmeme.com/) | [Meme Encyclopedia](https://knowyourmeme.com/memes)<br><br>* [Cultures](https://knowyourmeme.com/categories/culture)<br>* [Events](https://knowyourmeme.com/categories/event)<br>* [People](https://knowyourmeme.com/categories/person)<br>* [Sites](https://knowyourmeme.com/categories/site)<br>* [Subcultures](https://knowyourmeme.com/categories/subculture)<br>* [Videos](https://knowyourmeme.com/videos)<br>* [Submit →](https://knowyourmeme.com/memes/new?guidelines=1)<br><br>[Images](https://knowyourmeme.com/photos)<br><br>* [Trending](https://knowyourmeme.com/photos/trending)<br>* [Most Commented](https://knowyourmeme.com/photos/sort/comments)<br>* [Most Favorited](https://knowyourmeme.com/photos/sort/favorites)<br>* [High Score](https://knowyourmeme.com/photos/sort/score)<br>* [Low Score](https://knowyourmeme.com/photos/sort/low-score)<br>* [Most Viewed](https://knowyourmeme.com/photos/sort/views)<br>* [All](https://knowyourmeme.com/photos)<br>* * * *<br>    <br>* [Templates](https://knowyourmeme.com/photos/templates)<br>* * * *<br>    <br>* [Upload an Image](https://knowyourmeme.com/photos/new)<br><br>Articles<br><br>* [News](https://knowyourmeme.com/news)<br>* [Explainers](https://knowyourmeme.com/newsfeed/explainers)<br>* [Collections](https://knowyourmeme.com/editorials/collections)<br>* [Interviews](https://knowyourmeme.com/editorials/interviews)<br>* [Meme Insider Magazine](https://memeinsider.com/)<br><br>More<br><br>* [Discord](https://discord.com/invite/hxZaGpg)<br>* [Newsletter](https://knowyourmeme.com/newsletter)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Meme Store](https://thememestore.com/)<br>* [Login](https://knowyourmeme.com/login)<br><br>[Abstract user icon](https://knowyourmeme.com/login) |
+| [![Know Your Meme](/assets/kym-logo.png)](https://knowyourmeme.com/) | [Meme Encyclopedia](https://knowyourmeme.com/memes)<br><br>* [All](https://knowyourmeme.com/memes)<br>* [Cultures](https://knowyourmeme.com/categories/culture)<br>* [Events](https://knowyourmeme.com/categories/event)<br>* [People](https://knowyourmeme.com/categories/person)<br>* [Sites](https://knowyourmeme.com/categories/site)<br>* [Subcultures](https://knowyourmeme.com/categories/subculture)<br>* [Videos](https://knowyourmeme.com/videos)<br>* [Submit →](https://knowyourmeme.com/memes/new?guidelines=1)<br><br>[Images](https://knowyourmeme.com/photos)<br><br>* [Trending](https://knowyourmeme.com/photos/trending)<br>* [Most Commented](https://knowyourmeme.com/photos/sort/comments)<br>* [Most Favorited](https://knowyourmeme.com/photos/sort/favorites)<br>* [High Score](https://knowyourmeme.com/photos/sort/score)<br>* [Low Score](https://knowyourmeme.com/photos/sort/low-score)<br>* [Most Viewed](https://knowyourmeme.com/photos/sort/views)<br>* [All](https://knowyourmeme.com/photos)<br>* * * *<br>    <br>* [Templates](https://knowyourmeme.com/photos/templates)<br>* * * *<br>    <br>* [Upload an Image](https://knowyourmeme.com/photos/new)<br><br>Articles<br><br>* [News](https://knowyourmeme.com/news)<br>* [Explainers](https://knowyourmeme.com/newsfeed/explainers)<br>* [Collections](https://knowyourmeme.com/editorials/collections)<br>* [Interviews](https://knowyourmeme.com/editorials/interviews)<br>* [Meme Insider Magazine](https://memeinsider.com/)<br><br>More<br><br>* [Discord](https://discord.com/invite/hxZaGpg)<br>* [Newsletter](https://knowyourmeme.com/newsletter)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Meme Store](https://thememestore.com/)<br>* [Login](https://knowyourmeme.com/login)<br><br>[Abstract user icon](https://knowyourmeme.com/login) |
 |     |     |
 
-##### Meme Encyclopedia
-
-* [All](https://knowyourmeme.com/memes)
-* [Cultures](https://knowyourmeme.com/categories/culture)
-* [Events](https://knowyourmeme.com/categories/event)
-* [People](https://knowyourmeme.com/categories/person)
-* [Sites](https://knowyourmeme.com/categories/site)
-* [Subcultures](https://knowyourmeme.com/categories/subculture)
-* [Videos](https://knowyourmeme.com/videos)
-* [Submit →](https://knowyourmeme.com/memes/new?guidelines=1)
-
-##### Images
-
-* [All](https://knowyourmeme.com/photos)
-* [Trending](https://knowyourmeme.com/photos/trending)
-* [Most Commented](https://knowyourmeme.com/photos/sort/comments)
-* [Most Favorited](https://knowyourmeme.com/photos/sort/favorites)
-* [High Score](https://knowyourmeme.com/photos/sort/score)
-* [Low Score](https://knowyourmeme.com/photos/sort/low-score)
-* [Most Viewed](https://knowyourmeme.com/photos/sort/views)
-* [Templates](https://knowyourmeme.com/photos/templates)
-* [Upload an Image →](https://knowyourmeme.com/photos/new)
-
-##### Editorials
-
+* [Memes](https://knowyourmeme.com/memes)
+* [Categories](https://knowyourmeme.com/categories)
+* [Trending](https://trending.knowyourmeme.com/trending)
 * [News](https://knowyourmeme.com/news)
-* [Explainers](https://knowyourmeme.com/newsfeed/explainers)
-* [Collections](https://knowyourmeme.com/editorials/collections)
-* [Interviews](https://knowyourmeme.com/editorials/interviews)
+* [Images](https://knowyourmeme.com/photos)
+* [Trending Images](https://knowyourmeme.com/photos/trending)
+* [Videos](https://knowyourmeme.com/videos)
+* [Trending Videos](https://knowyourmeme.com/videos/trending)
+* [Editorials](https://knowyourmeme.com/editorials)
 * [Meme Insider Magazine](https://memeinsider.com/)
-
-##### More
-
-* [Discord](https://discord.com/invite/hxZaGpg)
 * [Newsletter](https://knowyourmeme.com/newsletter)
-* [Episodes](https://knowyourmeme.com/episodes)
-* [Forums](https://knowyourmeme.com/forums)
+* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
 * [Meme Store](https://thememestore.com/)
 * [Old site](https://knowyourmeme.com/old_site)
 * [Login](https://knowyourmeme.com/login)
