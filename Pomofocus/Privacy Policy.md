@@ -105,7 +105,7 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us by sending email to:
 
-* pomofocus@gmail.com
+* support@pomofocus.io
 
 [HOME](https://pomofocus.io/) [PRIVACY](https://pomofocus.io/privacy) [TERMS](https://pomofocus.io/terms) [CONTACT](https://pomofocus.io/contact) [SIMPLE PAGE](https://pomofocus.io/app)
 
