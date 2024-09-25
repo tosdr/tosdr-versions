@@ -31,15 +31,173 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Jornada laboral se suspende en entidades municipales de Quito
-=============================================================
+El ahorro es crucial en la crisis por los cortes de luz
+=======================================================
 
-El alcalde de Quito, Pabel Muñoz, solicitó al Gobierno Nacional suspender la jornada laboral el miércoles 25 de septiembre de 2024.
------------------------------------------------------------------------------------------------------------------------------------
+Luego de los apagones del expresidente de la República, Sixto Durán Ballén, los ecuatorianos se acostumbraron a derrochar la electricidad, debido a la abundancia. Después de esa era, la producción de energía mejoró sustancialmente en Ecuador, que no hubo necesidad de restringir el servicio o hacer cortes de luz hasta el año pasado, cuando comenzó \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Prompt: Ilustracion minimalista que muestra la importancia del ahorro de energía eléctrica por parte de la gente.](https://www.elcomercio.com/wp-content/uploads/2024/09/editorial-25-de-septiembre.jpg)
+
+Luego de los apagones del expresidente de la República, Sixto Durán Ballén, **los ecuatorianos se acostumbraron a derrochar la electricidad,** debido a la abundancia.
+
+Después de esa era, la producción de energía mejoró sustancialmente en Ecuador, que no hubo necesidad de restringir el servicio o hacer cortes de luz hasta el año pasado, cuando comenzó la crisis eléctrica.
+
+La **abundancia generó hábitos no tan buenos** en los ciudadanos, dentro de sus domicilios, como en los lugares de trabajo. 
+
+> Algunas **empresas eléctricas** tienen campañas de ahorro de energía eléctrica, pero es importante que se profundicen para que se vuelva una cultura en Ecuador.
+
+Los ecuatorianos tienen la mala costumbre de tener **varios electrodomésticos prendidos**, como la TV, así no la estén viendo. O encienden varios focos a la vez, así no los necesiten.
+
+Dejan prendidos los focos de los espacios comunales o utilizan los electrodomésticos en horas de mayor consumo, como planchar o lavar en las noches. Ese período es el de más demanda.
+
+La crisis actual de cortes de luz obliga a aprender **nuevos hábito**s, como el ahorro de energía con pequeñas acciones. Es necesario hacerlo, para reducir los tiempos de **cortes de luz** y para que la producción de energía se sostenga por más tiempo.
+
+Los **cortes de luz** se recrudecieron, debido a la falta de agua por la escasez de lluvias. En unos casos hay tres horarios de cortes con un tiempo de 11 horas diarias en algunas provincias.
+
+Este cronograma es mucho más crítico, frente a 2023. El déficit total es de 1 080 megavatios.
+
+Con pequeñas acciones se puede contribuir enormemente. Por ejemplo, en vez de usar secadora de ropa es posible aprovechar la luz solar, que por estos días es intensa para secar la ropa.
+
+Otro electrodoméstico que gasta mucha luz es la secadora de cabello. El consumo al mes puede llegar a 12 kilovatios hora, que representa la tercera parte del consumo de una persona.
+
+El ahorro también es posible lograrlo con el buen uso y mantenimiento de otros aparatos, como las refrigeradoras o los focos ahorradores LED[.](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador") [](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador")
+
+Parecieran obviedades, pero el uso de estos electrodomésticos genera mucho consumo de electricidad si no hay un gasto racional.
+
+Para estos momentos es crucial para afrontar los cortes de luz en Ecuador, que comenzaron el miércoles 18 de septiembre de 2024.
+
+Cartas a Quito / 25 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este miércoles 25 de septiembre de 2024
+-----------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Cómo enfrentar las incertidumbres de la vida
+--------------------------------------------
+
+Resulta que en el momento actual nos encontramos sumidos de tantas incertidumbres, qué no sabemos cómo enfrentarlas o cómo tratar de afrontarlas y nos preocupamos mucho, pues siempre deseamos recorrer por senderos apacibles y adecuados, pero hay tantas noticias desagradables que ciertamente minan nuestro interior y nos descorazonan, pues parece que se han acumulado tanto que no logramos digerirlas y nos estremecemos de verlas y escucharlas.
+
+Nos alarma observar en las noticias esas matanzas inmisericordes de las guerras entre Israel y Palestina, Rusia y Ucrania, cuando van a concluir, quién puede ayudar a solucionar esos conflictos, mientras el tiempo pasa y aumentan los muertos y la destrucción de sus ciudades.
+
+En nuestro país, es horroroso la matanza que se produce por las rivalidades de las bandas de narcotraficantes por mantener sus territorios, los sicariatos constantemente, incluso a servidores policiales y funcionarios de las propias cárceles, a pesar de los esfuerzos ingentes del gobierno por combatirlas, con las constantes redadas y la presencia masiva en muchas ciudades de conflicto, pero todo resulta insuficiente, continúan esos actos vandálicos.
+
+En estos momentos algo inaudito ha pasado, no se conocía de tanta proliferación y me refiero a los incendios y hace muy seriamente pensar en que son en su mayoría provocados, no se sabe con qué fines ocultos, pero causan destrozos de la naturaleza, contaminan el ambiente y ponen en peligro las zonas pobladas cercanas y circundantes. ¿Por qué tanta maldad? Y tanto deseo enfermizo de atentar contra nuestro propio hábitat. ¿Qué está pasando en la sociedad? Existe algún desorden mental en nuestra sociedad, en nuestros habitantes, estamos con ese deseo maligno e inconsciente o muchas veces consciente de destruir al prójimo.
+
+Ante este ambiente de desesperanza no nos queda, sino sacar fuerzas y tratar de enfrentar estas incertidumbres de la vida con mucha energía y sobre todo con mucha fe y esperanza de que las cosas mejorarán y revestirnos de esa coraza de protección que nos infunde nuestra creencia de un Ser Superior que nos cobija y nos cuida.
+
+Hagamos votos porque las cosas mejoren, qué pasen estos momentos de pesadumbre y podamos volver a la tranquilidad y la paz y no dejemos de perder en ningún instante ese positivismo de que volvamos a sentirnos con alegría y satisfacción y vivir con mucha plenitud y optimismo.
+
+Hernán Patricio Orcés Salvador
+
+¿Rusificar Ucrania?
+===================
+
+La invasión rusa y su guerra en Ucrania ha violado todos los tratados y en particular el de Ginebra.
+----------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Admito ante ustedes que ha sido raro dudar el título a un **artículo** que escribo. En este caso he titubeado. Luego de visitar varios días **Ucrania** y conocer de cerca la **cruel** y **demencial invasión** producida desde el jueves 24 de febrero 2022; esta ha durado hasta hoy, 943 días; cerca de 3 años. Se trata del mayor **ataque bélico** que conoce **Europa** después de la **Segunda Guerra Mundial**. Un aparatoso y aciago operativo militar de largo alcance, un convoy de 56 kilómetros de **tanques blindados**, que ha incluido hasta **armas químicas** prohibidas. Kremlin denominó la **invasión** con la ironía de «Operación militar especial». Querían en cuatro días destruir **Ucrania**, la toma de Kiev y la destitución del presidente Volodímir Zelenski.
+
+¿El sueño de Putin es imperial? ¿La **nostalgia** por la desaparición de la URSS? ¿El haber perdido el control de quince naciones, entre ellas Ucrania, Polonia, Estonia, Letonia, Lituania? ¿El complejo de la «Madre Rusia» que castiga a quienes considera todavía sus pequeños? ¿El **discurso** de «único pueblo», que coloca a **Ucrania** como un pedazo de Rusia y sin identidad?  No olvidemos que la **Unión Soviética** asfixió manifestaciones de **libertad** invadiendo Polonia (1939), Hungría (1954), Checoslovaquia (1968). Luego vendrá Chechenia, Crimea.
+
+**Rusia** y su aparatoso **sistema propagandístico** venden la idea de ser todopoderosa e **imperial**; y países como **Ucrania** no tienen **historia** ni identidad.  Hermano menor a quien puede regañar, castigar, silenciar y hasta desaparecer. Pero los **hechos históricos** dicen lo contrario. Son **historias**, culturas, **costumbres**, lenguajes e **identidades** diferentes. Más son los aspectos que la diferencia de aquellos comunes. Pero Rusia tiene el sueño de **nación** única e imperial. Arrastra todavía algunas huellas del zarismo. En el siglo nueve el centro del **poder** es Kiev y Rus está sometida a la **autoridad** de los duques de Kiev. Hay ducados en lituana. El gran Estado cosaco. **Rusia** ignora aspectos esenciales de la **historia**.
+
+La **invasión rusa** y su **guerra** en **Ucrania** ha violado todos los tratados y en particular el de **Ginebra**. Han matado sin crueldad a **jóvenes** y adultos civiles. Han **masacrado**, violado a mujeres y niños, a estos últimos, los han atado y enterrado vivos. Bajo el subterfugio que «si crecen nos odiarán y se vengarán». He escuchado **testimonios** y visto algo parecido al **holocausto**.  Pero a pesar de la **omnipotencia** e impiedad de Putin, este ha sido humillado. Una parte del **himno** de **Ucrania** dice mucho de su **resistencia** y **dignidad**: «_daremos nuestra alma y nuestro cuerpo por nuestra libertad»._
+
+Bases y partidos
+================
+
+La reforma no implica la apertura inmediata de bases, sino que permitiría a cada gobierno decidir soberanamente.
+----------------------------------------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+La **reforma** al artículo 5 de la **Constitución** es absolutamente necesaria, porque “El **Ecuador** es un territorio de paz. No se permitirá el establecimiento de **bases militares extranjeras** ni de **instalaciones extranjeras** con propósitos **militares**. Se prohíbe ceder **bases militares** nacionales a **fuerzas armadas** o de seguridad extranjeras” es parte del **sesgo** ideológico del mamotreto de **Montecristi**, lo cual es contrario a la **naturaleza** de una carta fundamental. Me explico: las **constituciones** que se dan los **pueblos** deben contener los principios y **normas** que adoptan para regular su existencia y vida en común. Por tanto, han de ser suficientemente flexibles para que en ella quepan los diferentes modos de pensar de sus **ciudadanos**. **Gobiernos democráticos** de derecha, centro e izquierda han de actuar según su **ideología**, pero siempre en el **marco constitucional**. Si esta está diseñada solamente para albergar a **gobiernos** de determinada tendencia, se desnaturaliza su **propósito**.
+
+Así ocurre en varios **países europeos**, cómo en España, Francia, Alemania, Italia, Portugal y muchos otros. Allí se suceden **gobiernos** de diferentes **tendencias** que ejecutan programas según su **ideología**, sin necesidad de modificar su carta fundamental. Lo mismo ocurre en América y Asia. Estados Unidos, Japón, Canadá, Brasil, Argentina, Costa Rica, para citar algunos.
+
+De manera que eliminar la **prohibición constitucional** de bases militares es indispensable. Que quede claro que eso no significa que al otro día se abrirán bases en **Ecuador**. Cada gobierno, según su **ideología**, evaluará su conveniencia y acordará con el **país** de **origen** las condiciones para su establecimiento. Y que no se recurra al zozo argumento de **pérdida** de la **soberanía**. Primero porque establecer o no las bases es un acto soberano de cada **país**. Y, segundo, porque actualmente la **soberanía** se ha perdido en favor del **narco** y la **delincuencia**.
+
+Sobre el **financiamiento estatal** de los **partidos políticos**, el Ecuador no puede seguir jugando el triste papel de alcahuete. 280 partidos o **movimientos** son una memez. Todos deberán reinscribirse en el CNE actualizando su ideario, **plan** de **gobierno** y nómina de afiliados. Se eliminarán los **alcahuetes** adherentes. Y el **Consejo Electoral**, ya es hora de que ejerza un **control** estricto de la **identidad** de los **afiliados** (sin **nóminas** compradas o alquiladas) y del financiamiento que reciban de los **sectores privados**. Habrá confirmación del **donante** y su **identidad**, prohibición para algunos **sujetos**, como **compañías extranjeras** y quienes contraten con el **Estado**, así como límite máximo de cada aporte.
+
+Basta de que los intereses de las **mafias** y **politicastros** de alquiler estén por encima de los **derechos** de los **ciudadanos**.
+
+Pico y placa sí aplicará este miércoles 25 de septiembre
+========================================================
+
+El Municipio de Quito confirmó que la medida se mantendrá con normalidad, pese a la emergencia por incendios forestales.
+------------------------------------------------------------------------------------------------------------------------
+
+![El control del Pico y placa está a cargo de la AMT](https://www.elcomercio.com/wp-content/uploads/2024/09/pico-placa-1.jpg)
+
+El **Municipio de Quito** confirmó que la medida del **Pico y placa** si se aplicará este miércoles 25 de septiembre de 2024.
+
+La ciudadanía tenía esta inquietud debido a la **emergencia** por los **incendios forestales** que se registran en la ciudad.
+
+### Más noticias
+
+* [Fiscalía abre investigación previa por incendios en Quito; autoridades hablan de terrorismo](https://www.elcomercio.com/actualidad/quito/fiscalia-abre-investigacion-previa-incendios-quito-terrorismo.html "Fiscalía abre investigación previa por incendios en Quito; autoridades hablan de terrorismo")
+* [Municipio y Gobierno evaluaron la situación de Quito por incendios forestales](https://www.elcomercio.com/actualidad/quito/municipio-gobierno-evaluaron-incendios-quito.html "Municipio y Gobierno evaluaron la situación de Quito por incendios forestales")
+* [Incendio forestal en Guápulo continúa activo; en un día lleno de emergencias](https://www.elcomercio.com/actualidad/quito/incendio-forestal-de-guapulo-continua-activo-en-un-dia-lleno-de-emergencias.html "Incendio forestal en Guápulo continúa activo; en un día lleno de emergencias")
+
+Este martes 24 de septiembre, la Alcaldía suspendió el Pico y placa en la tarde, como una acción **extraordinaria**, para intentar aliviar la congestión vehicular que se generó en varios puntos de la ciudad.
+
+Pico y placa para este miércoles
+--------------------------------
+
+El Pico y placa controla el flujo vehicular dentro de Quito.
+
+La medida incluye a todos los **vehículos y motos** del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La restricción vehicular del Pico y placa se aplica en **cinco días** de la semana, de lunes a viernes, de **06:00 a 09:30** y de **16:00 a 20:00**.
+
+Este miércoles, no pueden circular los autos con placas terminadas en dígitos **5 y 6**.
+
+### Cronograma de placas: 
+
+* Lunes: 1 y 2 
+* Martes: 3 y 4 
+* Miércoles 5 y 6 
+* Jueves: 7 y 8 
+* Viernes: 9 y 0 
+
+> ⛔ [#Activados24siete](https://twitter.com/hashtag/Activados24siete?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> ❗La medida pico y placa se mantendrá este 25 de septiembre en Quito.  
+>   
+> 🫡 ¡Recuerda! No salgas de tu casa si no es necesario.  
+>   
+> ✅ Con cooperación [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7FLYogS8n3](https://t.co/7FLYogS8n3)
+> 
+> — AMTQuito (@AMT\_Quito) [September 25, 2024](https://twitter.com/AMT_Quito/status/1838783539384377689?ref_src=twsrc%5Etfw)
+
+Sanciones por incumplir el Pico y placa 
+----------------------------------------
+
+Las sanciones a los conductores por incumplir la medida del Pico y placa se calcula sobre el Salario Básico Unificado (SBU), que en este 2024 es de **460 dólares**.
+
+En caso de infringir la normativa por **primera vez**, el conductor debe pagar una multa de **69 dólares**, equivalente al 15% del SBU; la segunda vez es de **115 dólares**, equivalente al 25% del SBU; la **tercera vez** es de 230, equivalente al 50% del SBU. 
+
+En todos los casos, los automotores se trasladarán a los Centros de Retención Vehicular de la Agencia Metropolitana de Tránsito (**AMT**).   
+
+Cambios en la jornada laboral de las instituciones públicas de Quito por incendios
+==================================================================================
+
+Las instituciones públicas deberán acatar las disposiciones del Ministerio de Trabajo y del Municipio de Quito sobre la jornada laboral.
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ![Incendio forestal se registró este 24 de septiembre en Guápulo.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-forestal-1.png)
 
-El alcalde de Quito, **Pabel Muñoz**, solicitó al **Gobierno Nacional** suspender la jornada laboral el miércoles 25 de septiembre de 2024, debido a la magnitud de los incendios **forestales**, registrados este martes 24 de septiembre en distintas zonas de la ciudad.
+El Ministerio de Trabajo y el Municipio de Quito emitieron disposiciones sobre la jornada laboral de las instituciones públicas de Quito, a causa de los incendios forestales.
+
+Por la tarde, el alcalde de Quito, **Pabel Muñoz**, solicitó al **Gobierno Nacional** suspender la jornada laboral el miércoles 25 de septiembre de 2024, debido a la magnitud de los incendios **forestales**, registrados este martes 24 de septiembre en distintas zonas de la ciudad.
 
 ### Más noticias
 
@@ -47,24 +205,35 @@ El alcalde de Quito, **Pabel Muñoz**, solicitó al **Gobierno Nacional** suspen
 * [Alerta por la calidad del aire en Quito debido incendios forestales de este 24 de septiembre](https://www.elcomercio.com/actualidad/negocios/alerta-calidad-aire-incendios-forestales-guapulo-quito-24-de-septiembre.html "Alerta por la calidad del aire en Quito debido incendios forestales de este 24 de septiembre")
 * [Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/voraz-incendio-forestal-guapulo-cierre-vias.html "Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre")
 
-El objetivo de la solicitud es evitar que las personas se tengan que movilizar dentro de la ciudad y poder controlar los incendios forestales con mayor facilidad.
+El objetivo de la solicitud fue evitar que las personas se tengan que movilizar dentro de la ciudad y poder controlar los incendios forestales con mayor facilidad.
 
-Sin embargo, desde el **Ministerio de Trabajo** informaron que la jornada laboral se mantiene con normalidad en el sector público.
+En la noche, el Ministerio de Trabajo dio una respuesta.
 
 Jornada laboral suspendida en entidades municipales
 ---------------------------------------------------
 
-Sin embargo, quien sí anunció la suspensión de la jornada laboral para este miércoles 25 de septiembre fue el **Municipio de Quito**.
+El Municipio de Quito anunció la suspensión de la jornada laboral para este miércoles 25 de septiembre.
 
 La entidad confirmó esta información a través de un comunicado oficial difundido la noche de este martes.
 
-Por otra parte, el **Ministerio de Educación** dispuso la suspensión de las clases presenciales en Quito.
+El **Ministerio de Educación** dispuso la suspensión de las clases presenciales en Quito.
 
 Los estudiantes recibirán su jornada académica en la modalidad no presencial, es decir, vía telemática.
 
 La medida aplica para todas las **instituciones educativas** del Distrito Metropolitano de Quito, incluidos las 20 escuelas y colegios municipales; y los 14 centros de educación inicial del Municipio.
 
 ![](https://www.elcomercio.com/wp-content/uploads/2024/09/image-20-848x1024.png)
+
+Disposición del Ministerio de Trabajo sobre la jornada laboral en las instituciones públicas de Quito
+-----------------------------------------------------------------------------------------------------
+
+Debido a la emergencia que sufre la ciudad de Quito por los incendios forestales y la mala calidad de aire, el Ministerio de Trabajo dispuso que se implemente la modalidad de **teletrabajo** en el sector público este miércoles 25 de septiembre de 2024.
+
+Las entidades públicas encargadas de los servicios básicos, salud, seguridad, terminales aéreos, terrestres, marítimos, fluviales, organismos que pertenezcan al Sistema Nacional de Inteligencia y otros sectores estratégicos; así como, la atención de emergencias y riesgos, deberán garantizar la prestación del servicio público y ejecutar las acciones necesarias para resolver cualquier situación que se requiera.
+
+Para aquellos puestos que, por la naturaleza de su trabajo, no sea susceptible de aplicar la modalidad de teletrabajo, la Unidad de Talento Humano planificar la recuperación de dicha jornada.
+
+El sector privado acatará con criterio discrecional lo dispuesto en la disposición emitida por el COE Nacional, respetando los derechos laborales y procurando mantener las actividades que, por su naturaleza y necesidad social, no pueden paralizarse o suspenderse.
 
 Incendios en Quito
 ------------------
@@ -92,6 +261,381 @@ Recomendaciones para protegerse del humo
 * Utilice mascarilla si va a salir de casa.
 * Cubra cualquier recipiente para almacenar agua.
 * No barra la ceniza hasta que el evento termine.
+
+Incendio forestal en Guápulo continúa activo; en un día lleno de emergencias
+============================================================================
+
+Quito tuvo una jornada caótica este martes 24 de septiembre; se reportaron al menos ocho incendios forestales.
+--------------------------------------------------------------------------------------------------------------
+
+![Bomberos continúan con los trabajos ininterrumpidos en Guápulo, la noche de este martes](https://www.elcomercio.com/wp-content/uploads/2024/09/bomberos-quito-1.jpg)
+
+El fuerte **incendio forestal r**egistrado en el sector de **Guápulo** continúa activo la noche de este martes 24 de septiembre de 2024.
+
+El fuego comenzó alrededor de las **15:00**, en una quebrada ubicada a la altura de la intersección de las avenidas Simón Bolívar y Los Conquistadores.
+
+### Más noticias
+
+* [Municipio y Gobierno evaluaron la situación de Quito por incendios forestales](https://www.elcomercio.com/actualidad/quito/municipio-gobierno-evaluaron-incendios-quito.html "Municipio y Gobierno evaluaron la situación de Quito por incendios forestales")
+* [Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas](https://www.elcomercio.com/actualidad/quito/desesperacion-bellavista-incendio-guapulo.html "Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas")
+* [Militares se movilizan para combatir el incendio forestal en Guápulo](https://www.elcomercio.com/actualidad/quito/militares-movilizan-combatir-incendio-guapulo.html "Militares se movilizan para combatir el incendio forestal en Guápulo")
+
+A las pocas horas, las llamas alcanzaron **áreas residenciales** como Bellavista, González Suárez y Bolaños, en el centro norte de la ciudad.
+
+El incendio se extendió a ciertas partes del Parque **Guangüiltagua** (Metropolitano).
+
+El alcalde de Quito, **Pabel Muñoz**, confirmó que debido a la emergencia se tuvo que evacuar a **100 familias**.
+
+No se registran personas fallecidas, sin embargo, **dos ciudadanos** tuvieron heridas tras sufrir una caída mientras evacuaban.
+
+Hasta las **22:45**, el Cuerpo de Bomberos de Quito confirmó que los uniformados trabajan en **tres focos activos**: Guápulo, Cerro Auqui y Parque Metropolitano.
+
+> 🔴ACTUALIZACIÓN 22:22 | Ahora, recorremos los puntos del incendio forestal en Guápulo, Cerro Auqui y Parque Metropolitano.  
+>   
+> Tenemos 3 focos activos y nos mantenemos trabajando ininterrumpidamente durante la noche.  
+>   
+> Se activaron 2 Brigadas de Refuerzo de la [#PrimeraZonaBomberil](https://twitter.com/hashtag/PrimeraZonaBomberil?src=hash&ref_src=twsrc%5Etfw). [https://t.co/S2Q3lgzIHS](https://t.co/S2Q3lgzIHS) [pic.twitter.com/Hg0ANNAavV](https://t.co/Hg0ANNAavV)
+> 
+> — Esteban Cárdenas Varela (@ECardenasVarela) [September 25, 2024](https://twitter.com/ECardenasVarela/status/1838781071543959803?ref_src=twsrc%5Etfw)
+
+600 bomberos trabajan en la emergencia
+--------------------------------------
+
+Pese a los esfuerzos que realizan más de **600 efectivos** del Cuerpo de Bomberos de Quito el fuego no ha podido ser controlado.
+
+A la emergencia se sumaron efectivos de los cantones **Mejía y Rumiñahui**.
+
+En el sitio también colabora personal de la Policía Nacional y las Fuerzas Armadas.
+
+Los Bomberos prevén que la alerta se extenderá durante toda la **noche**.
+
+Bomberos controlaron los incendios en el Itchimbia y La Forestal
+----------------------------------------------------------------
+
+Además del **voraz incendio** en Guápulo, la ciudad enfrentó por lo menos otros siete incendios forestales este martes; algunos de gran magnitud.
+
+Entre las alertas que más complicaciones provocaron estuvieron la del **Itchimbía**, en el sector de La Tola y la reportada en **La Forestal**, en el sur de Quito.
+
+Ambos comenzaron pasadas las 16:00 y fueron controlados alrededor de las **20:00**.
+
+Tras liquidar las llamas, los bomberos continuaron con los trabajos de remoción de vegetación quemada y enfriamiento.
+
+### Otros incendios en Quito
+
+Otro de los incendios que mayores estragos causó fue el registrado en **El Inca,** en el norte de Quito, en la mañana.
+
+Esta emergencia requirió el trabajo de **35 efectivos** y 13 vehículos durante más de tres horas.
+
+**Tres incendios** de menor magnitud fueron controlados este martes.
+
+Las alertas ocurrieron en los sectores: Catzuquí de Moncayo, San Carlos y El Trébol.
+
+Este último fue provocado por la quema de desechos, a unos 400 metros del redondel.
+
+River Plate, primer semifinalista en Copa Libertadores
+======================================================
+
+River Plate venció a Colo Colo en los cuartos de final de la Copa Libertadores y se convirtió en su primer semifinalista.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Nacho Fernández (centro) celebra junto a Germán Pezzella (izq.) y Marcos Acuña (der.) el alcanzar las semifinales de la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/09/19cf60e2b770039ea07a4d07d8965c32c1dfcb77.jpg)
+
+**River Plate** se impuso por 1-0 ante **Colo Colo** y selló su pasaporte a las semifinales de la Copa Libertadores, donde esperará por el vencedor de la serie brasileña que disputan Fluminense y Atlético Mineiro.
+
+Con un gol de **Facundo Colidio**, el equipo dirigido por **Marcelo Gallardo** selló el pasaporte del ‘Millonario’ a semifinales luego de cuatro años, mientras que el conjunto chileno conducido por **Jorge Almirón** dio batalla pero se quedó sin la posibilidad de meterse entre los mejores cuatro del torneo.
+
+### Más noticias:
+
+* [‘Palazo’ de Gonzalo Plata y Flamengo con un pie afuera de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-penarol-gonzalo-plata-libertadores.html "‘Palazo’ de Gonzalo Plata y Flamengo con un pie afuera de Copa Libertadores")
+* [Gonzalo Plata recibe a un gigante continental en Copa Libertadores](https://www.elcomercio.com/deportes/copa-libertadores-gonzalo-plata-flamengo-penarol.html "Gonzalo Plata recibe a un gigante continental en Copa Libertadores")
+* [Ecuador ya conoce a sus rivales para la Copa Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/ecuador-conoce-rivales-para-copa-libertadores-femenina.html "Ecuador ya conoce a sus rivales para la Copa Libertadores Femenina")
+
+**River**, ganador del máximo título continental en 1986, 1996, 2015 y 2018, va en busca de su quinto galardón de América, mientras que **Colo Colo** se quedó sin posibilidad de sumar su segunda corona tras la obtenida en 1991.
+
+El encuentro comenzó con un dominio repartido con River apostando a la combinación de Maximiliano Meza con **Facundo Colidio** pero dejando muy aislado al colombiano **Miguel Borja**.
+
+Para Colo Colo la salida clara de **Lucas Cepeda** no permitió asistir a **Carlos Palacios y Arturo Vidal** con Javier Correa también quedando en soledad como delantero.
+
+Pero en el minuto 16 una jugada de pelota quieta derivó en un centro llovido y cruzado para la llegada en solitario de **Facundo Colidio** para conectar directo a la red.
+
+River Plate aseguró su partido y los chilenos no generaron
+----------------------------------------------------------
+
+Con la ventaja, River buscó asegurar siempre el balón con **Fabricio Bustos** y **Marcos Acuña** sólidos en las bandas y dos defensas centrales como **Germán Pezzella** y **Leandro González Pirez** que protegieron la valla defendida por Franco Armani.
+
+**Colo Colo** no tuvo reacción con los dos principales artífices ofensivos como Carlos Palacios y Arturo Vidal muy aislados, mientras que **Javier Correa** poco pudo aportar en su lucha con toda la defensa millonaria.
+
+En el complemento River pudo ampliar con un remate de Ignacio Fernández que se fue por encima del travesaño y un tiro libre de **Manuel Lanzini** que también tuvo el mismo destino.
+
+Para Colo Colo casi no hubo opciones para empatarlo más allá de un disparo de **Cristian Zavala** que desvió el portero Franco Armani y un golpe de cabeza llovido de **Guillermo Paiva** que también resolvió el experimentado arquero millonario.
+
+Tras su clasificación a semifinales, River Plate esperará por el ganador de la serie brasileña que disputarán **Fluminense y Atlético Mineiro**, que tuvo victoria del equipo carioca en la ida y que este miércoles se definirá en Belo Horizonte.
+
+Alineaciones de River Plate y Colo Colo en Copa Libertadores
+------------------------------------------------------------
+
+1\. **River Plate**: Franco Armani; Fabricio Bustos, Germán Pezzella, Leandro González Pírez, Marcos Acuña; Santiago Simón (m.78, Franco Mastantuono), Matías Kranevitter (m.68, Nicolás Fonseca); Ignacio Fernández, Maximiliano Meza (m.61, Manuel Lanzini); Facundo Colidio y Miguel Borja (m.68, Adam Bareiro).
+
+**Entrenador**: Marcelo Gallardo.
+
+0\. **Colo Colo**: Brayan Cortés; Mauricio Isla (m.74, Gonzalo Castellani), Alan Saldivia, Emiliano Amor, Erick Wiemberg; Arturo Vidal, Esteban Pavez (m.80, Marcos Bolados), Leonardo Gil (m.74, Cristian Zavala), Lucas Cepeda; Carlos Palacios y Javier Correa (m.65, Guillermo Paiva).
+
+**Entrenador**: Jorge Almirón
+
+Fiscalía abre investigación previa por incendios en Quito; autoridades hablan de terrorismo
+===========================================================================================
+
+La Fiscalía abrió una investigación previa de oficio y las autoridades hablan de terrorismo, al referirse a los incendios en Quito.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Fiscalía abrió una investigación previa por incendios en Quito; las autoridades hablan de terrorismo.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-35-2.jpg)
+
+La **Fiscalía General del Estado** anunció que se abrió una **investigación previa**, de oficio, por los **incendios** forestales en **Quito**, la noche de este martes 24 de septiembre de 2024; mientras, las **autoridades nacionales y municipales** hablan de que se procesará a los responsables por **terrorismo**.
+
+### Más noticias:
+
+* [Municipio y Gobierno evaluaron la situación de Quito por incendios forestales](https://www.elcomercio.com/actualidad/quito/municipio-gobierno-evaluaron-incendios-quito.html "Municipio y Gobierno evaluaron la situación de Quito por incendios forestales")
+* [Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas](https://www.elcomercio.com/actualidad/quito/desesperacion-bellavista-incendio-guapulo.html "Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas")
+* [Incendios en Quito obligan a tomar medidas sobre las clases](https://www.elcomercio.com/actualidad/quito/incendios-quito-medidas-sobre-clases.html "Incendios en Quito obligan a tomar medidas sobre las clases")
+
+La investigación previa de la Fiscalía General del Estado servirá para **determinar causas** y, de ser el caso, presuntas r**esponsabilidades** en torno a los incendios registrados hoy en Quito.
+
+Fiscalía abre investigación previa por incendios en Quito, autoridades hablan de terrorismo
+-------------------------------------------------------------------------------------------
+
+Las autoridades de Gobierno hablaron de procesar a los responsables por “terrorismo”.
+
+El presidente **Daniel Noboa**, en el comunicado que emitió anunciando la suspensión de su agenda en las Naciones Unidas (ONU) y su regreso a Ecuador, lo dijo.
+
+“Si se encuentra que esto ha sido causado intencionalmente, los implicados serán procesados por terrorismo”, expresó.
+
+Luego, en la rueda de prensa conjunta, ofrecida por el Municipio y autoridades del Gobierno, el alcalde de Quito, **Pabel Muñoz**, lo mencionó.
+
+“Estamos catalogando a estos actos de criminales y terroristas”, manifestó Muñoz.
+
+El ministro de Gobierno, **Arturo Félix**, informó que la Fiscalía trabaja con un equipo en el que participan Alcaldía, Prefectura de Pichincha y Gobierno.
+
+Félix pidió a la ciudadanía dar información sobre los posibles responsables y agregó que, al igual que en los incendios pasados, esta vez, no van a dejar que se burlen de la ciudad “que tanto queremos”.
+
+Al final, **Mónica Palencia**, ministra del Interior, pidió a **la ciudadanía que llame al 131 para dar información sobre los actos terroristas.**
+
+“Habría recompensa por dar información que lleve al esclarecimiento de los autores y cómplices, si los hubiere, de estos hechos”, indicó Palencia.
+
+Muñoz tomó la palabra nuevamente para pedir a la ciudadanía que revise sus **cámaras de seguridad**.
+
+Recordó que así encontraron a dos responsables de los anteriores incendios, que ahora están con prisión preventiva.
+
+Agregó que el Municipio ha presentado 13 denuncias y pidió a la Fiscalía que acelere la investigación sobre esto.
+
+“Si Quito está bajo ataque, el Gobierno Nacional y el gobierno local no lo van a permitir”, añadió Arturo Félix.
+
+Deportivo Quito no jugará en el Atahualpa en Segunda Categoría
+==============================================================
+
+El Deportivo Quito disputará su primer partido de la fase nacional de Segunda Categoría fuera del Estadio Olímpico Atahuapa.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El Deportivo Quito, tradicionalmente, ha jugado en el Estadio Olímpico Atahualpa.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000131131.jpg)
+
+A pesar de no haber clasificado al hexagonal final del Campeonato de Pichincha, **Deportivo Quito** estará en la fase nacional de **Segunda Categoría** debido a la descalificación de otros equipo. El cuadro de la capital, sin embargo, anunció que no jugará en el Estadio Olímpico Atahualpa.
+
+Después de **Patrón Mejía** e **Independiente JFA** quedaran relegados de la fase nacional debido a que no presentaron su documentación en los plazos señalados, el plantel azul y grana junto a AV25 recibieron su boleto. A partir de ello, la ‘AKD’, contra el tiempo, ha buscado estabilizarse.
+
+### Más noticias:
+
+* [Ministerio del Deporte registró el Directorio del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/directorio-del-deportivo-quito-registrado-ministerio-deporte.html "Ministerio del Deporte registró el Directorio del Deportivo Quito")
+* [Deportivo Quito presentó 16 jugadores para el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-refuerzos-ascenso-nacional.html "Deportivo Quito presentó 16 jugadores para el Ascenso Nacional")
+* [Desde 2017, Deportivo Quito jugó una vez el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-historial.html "Desde 2017, Deportivo Quito jugó una vez el Ascenso Nacional")
+
+Entre las gestiones realizadas por el **Quito** ha estado el conseguir dónde jugar su **primer partido d**e la fase nacional. Aquel lo disputará a ida y vuelta, por lo que debe definir una sede para la fecha de su cotejo en casa.
+
+El conjunto de la Plaza del Teatro, tradicionalmente, juega en el Olímpico Atahualpa, sin embargo, en esta ocasión no lo hará. Para el choque que lo medirá ante **Santa Elena SC**, este se mudará hacia Chillo Jijón.
+
+“El compromiso por la fase de 32 de los playoffs nacionales de Segunda Categoría se disputará en el Estadio de **Independiente del Valle**, este domingo (29 de septiembre) desde las 12:00″, especificó el elenco en un comunicado[.](https://en.wikipedia.org/wiki/S.D._Quito "https://en.wikipedia.org/wiki/S.D._Quito")
+
+¿Por qué Deportivo Quito no jugará en el Atahualpa?
+---------------------------------------------------
+
+La entidad capitalina señaló que en, un inicio, un show se iba a llevar a cabo en el **Estadio Olímpico Atahualpa**. Pese a ello, este fue cancelado y reabrió la posibilidad, aunque no se la tomó en cuenta.
+
+El motivo por el cual el **Deportivo Quito** permaneció en su decisión de jugar en el Estadio de Independiente del Valle fueron las gestiones ya realizadas. El equipo sostuvo que, dados los tiempos, no le es posible dar marcha atrás.
+
+“**Si bien en las últimas horas se confirmó la cancelación de un evento artístico en el estadio Olímpico Atahualpa, nuestra casa, todos los trámites de permisos municipales ya han sido ingresados.** Por tal razón, es imposible dar marcha atrás en la programación inicial”, sostuvo el club.
+
+El Quito se refuerza
+--------------------
+
+A raíz de su súbita participación en la fase nacional, y la posibilidad de ascender a la Serie B, Deportivo Quito se reforzó con cuerpo técnico y refuerzos. Carlos Castro fue oficializado como entrenador de la escuadra tras la salida de **Martín Mandra** al Manta de la Serie B.
+
+Junto a Castro, el equipo se dedicó a fichar jugadores. De momento, este ha anunciado **27 jugadores** para asumir el reto.
+
+Horarios de cortes de luz en Quito sufren cambios este miércoles 25 de septiembre
+=================================================================================
+
+La Empresa Eléctrica de Quito informó que debido a la emergencia por los incendios, la suspensión programada tendrá ajustes.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Ecuador tiene racionamientos de luz programados debido a la crisis hídrica que enfrenta](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-quito-a.jpg)
+
+La Empresa Eléctrica de Quito (**EEQ**) informó que debido a la emergencia por los **incendios forestales** que atraviesa la ciudad, la programación de **cortes de luz** para este miércoles 25 de septiembre de 2024 se modifica.
+
+Los racionamientos en el Distrito Metropolitano de Quito se suspenden de **06:00 a 18:00**.
+
+### Más noticias
+
+* [Municipio y Gobierno evaluaron la situación de Quito por incendios forestales](https://www.elcomercio.com/actualidad/quito/municipio-gobierno-evaluaron-incendios-quito.html "Municipio y Gobierno evaluaron la situación de Quito por incendios forestales")
+* [Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas](https://www.elcomercio.com/actualidad/quito/desesperacion-bellavista-incendio-guapulo.html "Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas")
+* [Militares se movilizan para combatir el incendio forestal en Guápulo](https://www.elcomercio.com/actualidad/quito/militares-movilizan-combatir-incendio-guapulo.html "Militares se movilizan para combatir el incendio forestal en Guápulo")
+
+Mientras que en el resto del territorio que cubre la Empresa Eléctrica, los cortes de luz se cancelan hasta las **06:00** de este miércoles.
+
+La entidad también confirmó que, tras evaluar y superar el posible riesgo que tenían las subestaciones **La Floresta, Carolina y Tumbaco**, las plantas ya se encuentran nuevamente operativas.
+
+“Al momento, los sectores alimentados por estas subestaciones ya cuentan con el servicio de energía eléctrica”, informó la compañía.
+
+> 🚨 \[𝗔𝗧𝗘𝗡𝗖𝗜𝗢́𝗡\] [#ComunicadoEEQ](https://twitter.com/hashtag/ComunicadoEEQ?src=hash&ref_src=twsrc%5Etfw) | Se suspenden los racionamientos hasta las 06:00 del miércoles, 25 de septiembre de 2024. Y solo en el DMQ no habrán cortes entre las 06:00 y 18:00 de este día.  
+>   
+> 🔸 Las subestaciones La Floresta, Carolina y Tumbaco están operativas. [pic.twitter.com/ic4SeAtiML](https://t.co/ic4SeAtiML)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [September 25, 2024](https://twitter.com/ElectricaQuito/status/1838763664834212041?ref_src=twsrc%5Etfw)
+
+Incendio de Guápulo obligó a tomar medidas de emergencia
+--------------------------------------------------------
+
+La capital, al igual que el resto del país, tenía programada la suspensión del servicio eléctrico para estos días, debido a la crisis hídrica provocada por la falta de lluvias.
+
+Sin embargo, el imprevisto incendio forestal de **Guápulo**, sumado a otros que se registraron en el centro, sur y los valles de la ciudad, obligó a que las autoridades suspendan los cortes de luz este martes.
+
+El **pico y placa** también fue suspendido hoy.
+
+Así mismo, la AMT realizó más de **30 cierres viales** en la capital para descongestionar el tránsito vehicular en ciertos puntos críticos, como en el sector de El Trébol.
+
+La **av. Simón Bolívar**, una de las principales arterias viales de Quito tuvo cierres, debido a la fuerza de las llamas que ponían en riesgo a los conductores que se movilizaban por esta carretera.
+
+La emergencia en el incendio forestal de Guápulo requirió el trabajo de **460 efectivos** del Cuerpo de Bomberos de Quito, quienes sofocan el fuego desde las 15:00.  
+
+Municipio y Gobierno evaluaron la situación de Quito por incendios forestales
+=============================================================================
+
+El alcalde de Quito, Pabel Muñoz y varios ministros del Gobierno de Daniel Noboa ofrecieron una rueda de prensa por los incendios.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![El alcalde de Quito, Pabel Muñoz, junto a otras autoridades del Gobierno evaluaron los incendios en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/ecu.jpg)
+
+El alcalde del **Municipio** de Quito, **Pabel Muñoz** junto a varios ministros del **Gobierno** de **Daniel Noboa** ofrecieron una rueda de prensa conjunta para evaluar la situación de Quito por los incendios forestales.
+
+La noche de este martes 24 de septiembre de 2024, las autoridades dieron una rueda de prensa conjunta con las acciones tomadas y las consecuencias de los incendios.
+
+### Más noticias:
+
+* [Incendios en Quito obligan a tomar medidas sobre las clases](https://www.elcomercio.com/actualidad/quito/incendios-quito-medidas-sobre-clases.html "Incendios en Quito obligan a tomar medidas sobre las clases")
+* [Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas](https://www.elcomercio.com/actualidad/quito/desesperacion-bellavista-incendio-guapulo.html "Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas")
+
+El alcalde Pabel Muñoz dijo que en Guápulo, el Parque Metropolitano, el cerro Auqui y la Simón Bolívar los incendios están activos.
+
+Mientras esto sucedía, aparecieron otros seis conatos de incendio en distintas partes de la ciudad.
+
+Muñoz pidió a los ciudadanos no movilizarse para no dificultar las labores de los organismos de emergencia.
+
+Dijo que **lo más probable es que el incendio no se termine de liquidar hoy**, es muy probable que sea el día de mañana.
+
+La suspensión de clases también permitirá más tráfico fluido en la ciudad e hizo un llamado a las empresas que se puedan sumar con teletrabajo, lo hagan.
+
+Hizo un llamado a la empresa privada para que no se llame a trabajar este miércoles presencialmente para tener las vías despejadas.
+
+Las cifras de las acciones y los efectos de los incendios en Quito, dadas por el Municipio y el Gobierno
+--------------------------------------------------------------------------------------------------------
+
+Están movilizados **180 militares**, **215 bomberos** con 65 vehículos operando, 30 tanqueros, m**ás de 400 funcionarios del Municipio** activos y **1 651 policías**, entre otros organismos de emergencia, para atender los incendios en Quito.
+
+Dos helicópteros Cobra llegarán desde Taura, se suma el helicóptero municipal y estiman que, con el apoyo de la empresa privada, se tenga a disposición **entre 5 y 7 helicópteros para combatir los incendios**.
+
+La **Prefectura de Pichincha** también apoya con tanqueros.
+
+Hay **más de cien familias evacuadas como medida preventiva,** **no hay reportes de personas fallecidas**, hay **dos heridos bomberos** por las tareas de evacuación.
+
+Hay pocas viviendas afectadas, aunque no se tiene el dato exacto.
+
+La ministra del Interior, **Mónica Palencia**, pidió **llamar al 131** para dar información sobre los actos terroristas, recompensa por esclarecimiento de los autores y cómplices de estos hechos.
+
+Y, al **911** para que ayuden a encontrar a **15 de los caballos de la Policía Nacional** extraviados.
+
+Más tarde, la Policía informó que localizó a 22 equinos de su institución y están a buen recaudo, tras el incendio que afectó al Parque Metropolitano.
+
+Daniel Noboa suspende su agenda en la ONU y regresa a Ecuador ¿Cuáles son los motivos?
+======================================================================================
+
+El presidente Daniel Noboa argumentó dos motivos para su regreso a Ecuador, tras suspender su agenda en la ONU.
+---------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa cumplía una agenda en la ONU; ahora, regresa a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-34-2.jpg)
+
+El presidente Daniel Noboa suspendió su agenda en el exterior y regresa a Ecuador.
+
+El anuncio lo hizo a través de sus redes sociales, la noche de este martes 24 de septiembre de 2024.
+
+### Más noticias:  
+
+Daniel Noboa señaló que ha cancelado la agenda que tenía que cumplir como mandatario en la Organización de las Naciones Unidas (ONU).
+
+> He cancelado la agenda que tenía que cumplir como mandatario en la ONU. Quito nos necesita a todos. Regreso para comandar todos los esfuerzos ante el enemigo al que nos enfrentamos.  
+>   
+> Vivimos la peor coyuntura climática en décadas, lo que amerita decisiones urgentes a todos los…
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [September 25, 2024](https://twitter.com/DanielNoboaOk/status/1838750514491629625?ref_src=twsrc%5Etfw)
+
+Los motivos para la suspensión de la agenda de Daniel Noboa en la ONU y su regreso a Ecuador
+--------------------------------------------------------------------------------------------
+
+En un breve comunicado, el presidente Daniel Noboa dio a conocer las razones por las que suspende su agenda en la ONU y regresa a Ecuador.
+
+“Quito nos necesita a todos. Regreso para comandar todos los esfuerzos ante el enemigo al que nos enfrentamos”, dijo Daniel Noboa.
+
+Noboa agregó que: “Vivimos la peor coyuntura climática en décadas, lo que amerita decisiones urgentes a todos los niveles de Gobierno”.
+
+Concluyó advirtiendo que, si los incendios fueron causados intencionalmente, “los implicados serán procesados por terrorismo”. Ecuador: la adversidad nos encontrará más determinados que nunca.
+
+La Presidencia concluyó que la suspensión de la agenda del Presidente respondía a dos motivos: la sequía y los incendios forestales que afectan a Quito y otras partes del país.
+
+“El Gobierno presta todo su contingente técnico y logístico al momento, para atender la emergencia en la capital y enfrentar juntos, sin posturas políticas, todas las acciones para salvar al Ecuador”, señaló la Presidencia.
+
+Piero Hincapié está entre los mejores jugadores de Alemania
+===========================================================
+
+Piero Hincapié fue escogido entre los mejores defensas de la Bundesliga tras su último partido con el Bayer Leverkusen ante Wolfsburgo.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié en su último partido con el Bayer Leverkusen en la Bundesliga.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-24T204721.286.jpg)
+
+**Piero Hincapié** fue una de las figuras en el triunfo del Bayer Leverkusen en la última fecha de la **Bundesliga** de Alemania. A raíz de su papel, el defensa central ecuatoriano fue incluido entre los mejores de la semana.
+
+En la cuarta fecha de la liga alemana, el **Leverkusen** se enfrentó como local ante el **Wolfsburgo**. Las ‘aspirinas’ sufrieron en el cotejo, pero consiguieron ganarlo de manera apretada gracias a un marcador de 4-3.
+
+### Más noticias:
+
+* [Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-gol-piero-hincapie.html "Bayer Leverkusen y otro triunfo dramático; Piero Hincapié marcó")
+* [Bayer Leverkusen y Piero Hincapié golean en estreno de Champions](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-feyenoord.html "Bayer Leverkusen y Piero Hincapié golean en estreno de Champions")
+* [Piero Hincapié se destacó en la goleada del Leverkusen al Hoffenheim](https://www.elcomercio.com/deportes/futbol/piero-hincapie-leverkusen-hoffenheim-bundesliga.html "Piero Hincapié se destacó en la goleada del Leverkusen al Hoffenheim")
+
+En el cotejo entre rojinegros y verdes, **Hincapié** se convirtió en un pilar fundamental tanto a nivel de defensa como de ataque. El ecuatoriano se hizo presente para convertir el tercer gol de su escuadra y el del empate en el cotejo.
+
+Después de un centro desde el costado izquierdo, apenas había iniciado la segunda mitad, el **zaguero tricolor** apareció en el área. Con un cabezazo certero y de cara al arco, el ecuatoriano consiguió su tanto, que también fue el primero de la **temporada**.
+
+Piero Hincapié, uno de los dos del Leverkusen en el equipo de la semana
+-----------------------------------------------------------------------
+
+Una vez que finalizaron todos los partidos de la Bundesliga, esta se encargó de publicar la alineación con los once mejores. Dentro de ella, **Piero Hincapié** junto a **Florian Wirtz** son los únicos futbolistas del **Bayer Leverkusen.**
+
+La alineación realizada por la organización alemana se plagó de jugadores del **Bayern Munich**, donde cinco jugadores del equipo estuvieron presentes. Esta la completaron otros dos del **Stuttgart**, uno del Friburgo y uno del Frankfurt.
+
+A Hincapié se lo ubicó en el puesto de lateral derecho, a pesar de no ser su posición natural, junto a **Dayot Upamecano, Kim Min Jae y Maximilian Mittlestadt** en una línea de cuatro. Para realizar la alineación, además, se tuvo en cuenta los puntajes de los jugadores en la aplicación de fantasía de la Bundesliga[.](https://en.wikipedia.org/wiki/Bayer_04_Leverkusen "https://en.wikipedia.org/wiki/Bayer_04_Leverkusen")
+
+Piero Hincapié, el mejor defensa sub-23 del mundo
+-------------------------------------------------
+
+Antes de ser distinguido por la Bundesliga, **Piero Hincapié** también tuvo otro reconocimiento de parte del observatorio de fútbol del Centro Internacional de Estudios para el Deporte (**CIES**). Este lo puso como el mejor defensa del mundo sub -23 en función de su rendimiento en el ciclo 2023-2024.
+
+En la temporada que el CIES tuvo en cuenta, **Hincapié** fue clave en una temporada histórica de las ‘aspirinas’. Junto a él, el equipo consiguió los primeros títulos de su historia al ganar la Copa de Alemania, la Bundesliga y ser segundo en la **UEFA Europa League**. Todo eso conllevó un invicto de 51 partidos.
 
 Caso Purga: Fabiola Gallardo solicitó sustitución de prisión preventiva
 =======================================================================
@@ -245,7 +789,7 @@ La involucrada no estuvo de acuerdo en cómo se llevó la sesión: “El ejercic
 
 Finalmente, demandó que no se le permitió el ingreso a la reunión virtual al momento de realizar su voto y volvió a atacar a Atamaint: “**Le recuerdo que soy tan autoridad como usted** (…) (los coordinadores informáticos) son servidores particulares de su despacho”, señaló.
 
-Desesperación en pobladores de Bellavista, el incendio en Guápulo llega a zonas pobladas
+Desesperación en habitantes de Bellavista, el incendio en Guápulo llega a zonas pobladas
 ========================================================================================
 
 Las llamas del incendio que se originaron en Guápulo llegaron al barrio residencial Bellavista.
@@ -253,7 +797,7 @@ Las llamas del incendio que se originaron en Guápulo llegaron al barrio residen
 
 ![Los pobladores de Bellavista están desesperados por avance del incendio de Guápulo a zonas pobladas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-33-1.jpg)
 
-Desesperación entre los pobladores del barrio **Bellavista** porque el **incendio** en **Guápulo** llegó a zonas pobladas.
+Desesperación entre los habitantes del barrio **Bellavista** porque el **incendio** en **Guápulo** llegó a zonas pobladas.
 
 Las llamas del incendio que se originó en el sector de Guápulo, a la altura de la intersección de las avenidas Simón Bolívar y Los Conquistadores, llegaron al barrio residencial de **Bellavista**, al norte de **Quito**.
 
@@ -463,580 +1007,3 @@ La Secretaría de Ambiente informó que la calidad del aire se encuentra comprom
 Según la entidad, se espera que los vientos continúen desplazando el **humo y los contaminantes** hacia otras áreas urbanas, intensificando las condiciones desfavorables del ambiente.
 
 Entre las recomendaciones están: evitar las actividades al aire libre, mantener puertas y ventanas cerradas. Además, las personas sensibles y **enfermos crónicos** deben utilizar mascarilla al salir a espacios abiertos.
-
-Militares se movilizan para combatir el incendio forestal en Guápulo
-====================================================================
-
-Los militares atienden el incendio forestal en Guápulo, en el nororiente de Quito. Los helicópteros se activarán cuando sea seguro.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Militares atienden la emergencia por el incendio forestal en Guápulo.](https://www.elcomercio.com/wp-content/uploads/2024/09/militares-incendio.jpg)
-
-Cerca de 100 militares se movilizan para combatir el incendio forestal en Guápulo.
-
-El presidente Daniel Noboa dispuso la movilización de varias instituciones gubernamentales por la emergencia que atraviesa este sector de Quito.
-
-### Más noticias:
-
-* [Incendio forestal en Guápulo; túnel Guayasamín y av. Simón Bolívar, cerrados](https://www.elcomercio.com/actualidad/quito/incendio-forestal-se-produce-en-guapulo-quito.html "Incendio forestal en Guápulo; túnel Guayasamín y av. Simón Bolívar, cerrados")
-* [Quito no tendrá cortes de luz por emergencia de incendios forestales](https://www.elcomercio.com/actualidad/quito/quito-no-tendra-cortes-de-luz-por-emergencia-de-incendios-forestales.html "Quito no tendrá cortes de luz por emergencia de incendios forestales")
-* [Pico y placa en Quito sufre cambios por incendios forestales](https://www.elcomercio.com/actualidad/quito/pico-y-placa-en-quito-sufre-cambios-por-incendios-forestales.html "Pico y placa en Quito sufre cambios por incendios forestales")
-
-Noboa señaló, la noche de este martes 24 de septiembre, que las Fuerzas Armadas se encuentran en Guápulo.
-
-Además, que ha dispuesto la movilización de todo el contingente necesario. “Los helicópteros vendrán en apoyo, apenas sea seguro para los pilotos emprender su misión”, agregó.
-
-Movilización de militares por el incendio forestal en Guápulo
--------------------------------------------------------------
-
-En el puesto de mando unificado están el ministro de Gobierno, de Defensa y de Ambiente en coordinación y apoyo al Municipio y el Alcalde, agregó el mandatario.
-
-El Secretario de Riesgos también está movilizándose. “No hay espacio para posturas políticas, todos tenemos que ejecutar acciones para salvar al Ecuador de la sequía que atraviesa”, agregó el Presidente.
-
-Por parte del Ministerio de Defensa, se informó que Las Fuerzas Armadas se encuentran ya activados y con todo el contingente necesario desplegado atendiendo esta emergencia.
-
-El ministro de Defensa Nacional, Gian Carlo Loffredo, llegó hasta Guápulo para verificar las labores de contención que se están desarrollando para salvaguardar las vidas de las familias quiteñas.
-
-Al momento, se han desplegado alrededor de 100 efectivos militares. Tres tanqueros se encuentran en el sitio atendiendo la emergencia.
-
-Además, 2 helicópteros de la Fuerza Aérea se movilizarán hasta el sitio, apenas las condiciones de seguridad para la tripulación así lo permitan.
-
-Por el incendio, el acceso a la zona de la González Suárez está restringida. No hay paso vehicular ni peatonal, debido a los riesgos que representa el incendio forestal.
-
-El **Cuerpo de Bomberos Quito** informó que todo su contingente está desplegado en tres sitios de la capital.
-
-Más de **460 bomberos y 13 vehículos** se distribuyeron en el **sur, valles y centro norte del Distrito Metropolitano de Quito**[.](https://es.wikipedia.org/wiki/Bombero "https://es.wikipedia.org/wiki/Bombero")
-
-Selección de Ecuador convoca a promesa de España
-================================================
-
-Malcom Dacosta es la nueva promesa juvenil que tendrá la Selección de Ecuador Sub-15.
--------------------------------------------------------------------------------------
-
-![Michael Dacosta (i) y Malcom Dacosta, promesas del Bournemouth de Inglaterra elegibles por Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-24T172025.881.jpg)
-
-La **Selección de Ecuador Sub-15** sorprendió con su convocatoria para el Sudamericano de la categoría, que se llevará a cabo en Bolivia en 2024. Entre los seleccionados destaca una figura que milita en el extranjero, a quien la ‘Tri’ ha seguido de cerca.
-
-Se trata de **Malcom Dacosta,** un joven de 16 años que vive en Inglaterra y juega en la academia del Bournemouth. Su convocatoria fue resultado del meticuloso trabajo de scouting del cuerpo técnico ecuatoriano.
-
-### Más noticias:
-
-* [Leonardo Campana cerca de regresar a la Selección de Ecuador](https://www.elcomercio.com/deportes/eliminatorias/leonardo-camapana-sebastian-beccacece-llamada.html "Leonardo Campana cerca de regresar a la Selección de Ecuador")
-* [Cortes de luz no afectarán el partido de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/cortes-de-luz-no-afectaran-partido-seleccion-de-ecuador.html "Cortes de luz no afectarán el partido de la Selección de Ecuador")
-* [Selección de Ecuador bajó los precios de sus entradas](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-bajo-los-precios-de-sus-entradas.html "Selección de Ecuador bajó los precios de sus entradas")
-
-Dacosta, con raíces diversas, tiene la **posibilidad de representar a varias selecciones**: España, por su lugar de nacimiento; Guinea Ecuatorial, por su padre; Inglaterra, donde ha vivido desde los ocho años; y Ecuador, por su madre. Sin embargo, **ha optado por la ‘Tri’,** gracias a la rápida gestión del equipo ecuatoriano, que lo convenció de unirse a la selección Sub-15 para el torneo sudamericano.
-
-La convocatoria de Malcom Dacosta
----------------------------------
-
-En una entrevista con los medios oficiales de la **Selección de Ecuador**, Dacosta relató cómo se dio su convocatoria y lo que significa para él vestir la camiseta tricolor.
-
-“Estaba en casa jugando con un amigo cuando **Sebastián** (Beccacece) **me llamó** y me preguntó si podía jugar para Ecuador en este torneo”, contó Dacosta.
-
-El joven destacó que **eligió a Ecuador por sus raíces maternas**, expresando orgullo por su herencia y su amor por el país. Aunque solo visitó Ecuador cuando era un bebé, reveló que siente un vínculo especial con la cultura, especialmente con la comida ecuatoriana.
-
-> 🚨 Malcom Dacosta gracias al permanente scouting realizado, es hoy, parte de [#LaTri](https://twitter.com/hashtag/LaTri?src=hash&ref_src=twsrc%5Etfw) 🇪🇨  
->   
-> El centrocampista del [@afcbournemouth](https://twitter.com/afcbournemouth?ref_src=twsrc%5Etfw) está convencido de que “podemos hacer lo mejor como equipo” en el CONMEBOL Sub 15 2024 [pic.twitter.com/FYNtDtMEsa](https://t.co/FYNtDtMEsa)
-> 
-> — La Tri 🇪🇨 (@LaTri) [September 24, 2024](https://twitter.com/LaTri/status/1838580450354200874?ref_src=twsrc%5Etfw)
-
-Malcom Dacosta, la joya del Bournemouth
----------------------------------------
-
-Malcom Dacosta es hermano menor de Michael Dacosta, ambos **jugadores juveniles en el Bournemouth**. Malcom juega para la sub-16, mientras que su hermano lo hace en la sub-20.
-
-Comenzó a jugar al fútbol desde muy pequeño y su primer equipo fue en **Inglaterra** a los seis años, y a los 10 se integró a la academia del Bournemouth, donde ha crecido futbolísticamente.
-
-Se **desempeña principalmente como mediocampista**, aunque también ha jugado como defensor en situaciones especiales.
-
-Sus puntos fuertes son su **capacidad para recuperar balones y su potente disparo**, algo que ha demostrado en la academia de los ‘Cherries’.
-
-“**Soy rápido y potente**. Si alguien se me acerca, lo más seguro es que lo quite de encima. Tengo una presencia muy dominante”, afirmó con confianza el joven jugador.
-
-> An incredible goal 🤯  
->   
-> Malcom Dacosta Gonzalez scored this wonder strike for the under-16s against Swansea! [pic.twitter.com/FT720CxT20](https://t.co/FT720CxT20)
-> 
-> — AFC Bournemouth 🍒 (@afcbournemouth) [November 28, 2023](https://twitter.com/afcbournemouth/status/1729463006193741910?ref_src=twsrc%5Etfw)
-
-Ecuador el Sudamericano Sub-15
-------------------------------
-
-Malcom Dacosta **formará parte de la Selección de Ecuador** en el Sudamericano Sub-15, que se jugará en Santa Cruz, Bolivia, del 4 al 19 de octubre.
-
-Ecuador integrará el Grupo B junto a **Argentina**, Brasil, Uruguay y Venezuela. El equipo debutará el 5 de octubre frente a Uruguay.
-
-“**Espero ganar el torneo** y hacerlo lo mejor posible, tanto para el equipo como a nivel personal”, concluyó Dacosta, optimista sobre su participación en el certamen.
-
-¿David Cabezas merece ir a la Selección de Ecuador?
-===================================================
-
-David Cabezas es uno de los arqueros con mejor rendimiento de la Liga Pro y espera por la Selección de Ecuador.
----------------------------------------------------------------------------------------------------------------
-
-![David Cabezas, arquero de El Nacional, en un partido de la Liga Pro antes de la fecha de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-24T172738.220.jpg)
-
-La **Selección de Ecuador** jugará en octubre de 2024 la siguiente fecha de las eliminatorias sudamericanas ante Paraguay y Uruguay. De cara a la futura convocatoria, el nivel de **David Cabezas** ha sido uno de los mejores en la Liga Pro, aunque el arquero no se desespera.
-
-**“Cuando esté en planes de Sebastián Beccacece, llegará mi momento. Lo dejo en manos de Dios”**, mencionó el portero de El Nacional en su último partido frente a Liga de Quito tras ser consultado por sus expectativas con respecto a la Tri.
-
-### Más noticias:
-
-* [Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla](https://www.elcomercio.com/deportes/copa-america/cleber-chala-chilena-chile-barranquilla.html "Cléber Chalá, la Copa América y una chilena a Chile en Barranquilla")
-* [Cortes de luz no afectarán el partido de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/cortes-de-luz-no-afectaran-partido-seleccion-de-ecuador.html "Cortes de luz no afectarán el partido de la Selección de Ecuador")
-* [Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/anderosn-julio-leonardo-campana-seleccion.html "Anderson Julio y Leonardo Campana, ¿opciones para la Selección de Ecuador?")
-
-En el choque ante Liga de Quito, **Cabezas** fue el jugador del partido e impidió la derrota de los puros criollos, que empataron como visitantes por un marcador de 1-1. El arquero fue clave en duelos mano a mano, remates y **Álex Arce**, máximo goleador de la Liga Pro y delantero de la **Selección de Paragua**y no le pudo convertir.
-
-Esta, sin embargo, no es la única distinción del guardameta, pues también salió como el mejor de los choques ante **Emelec y Deportivo Cuenca.** Aquello pone al ecuatoriano como el golero como mayor cantidad de tales reconocimientos en la segunda etapa.
-
-David Cabezas, entre los mejores jugadores de la Liga Pro
----------------------------------------------------------
-
-**David Cabezas** no solo es el arquero más destacado de la etapa en cuanto a premios, sino que también está a la par de jugadores de campo. Quien más premios al mejor jugador posee es el delantero **Miguel Parrales**, quien cuenca con cuatro, solo un más que el arquero.
-
-La misma cantidad de galardones que el arquero de los puros criollos solo la poseen el volante **Yaimar Medina**, de Independiente del Valle, y el artillero **Octavio Rivero**, de Barcelona SC. Dentro de la segunda ronda de la Liga Pro, su arco es el tercer menos batido con ocho goles en contra.
-
-A nivel global, de acuerdo al portal especializado SofaScore, el arquero de **El Nacional** cuenta con una calificación de 7.16 con respecto a su rendimiento en el año. Aquel es superior a los que presentan **Hernán Galíndez, Moisés Ramírez y Gilmar Napa**, quienes estuvieron en la última convocatoria de la Selección de Ecuador. Asimismo, aquello lo pone como el de mejor rendimiento en la Liga Pro.
-
-En 18 partidos en el año con el ‘Bi-Tri’, **Cabezas** ha concedido la misma cantidad de goles y mantenido su portería en cero en siete cotejos. A su vez, acumula **57 atajadas.**
-
-Alexander Domínguez, otra ausencia en la Selección de Ecuador
--------------------------------------------------------------
-
-Con respecto a la última convocatoria de la Tri, una de las ausencias que causó sorpresa fue la de Alexander Domínguez. A diferencia del portero de Liga de Quito, **David Cabezas** nunca ha sido convocado a la Tri.
-
-Desde el conjunto universitario, tanto sus dirigentes como entrenador mencionaron sorpresa debido a la exclusión de ‘Dida’. Domínguez, antes de que **Sebastián Beccacece** asuma el mando del equipo, era uno de los capitanes y referentes.
-
-Quito no tendrá cortes de luz por emergencia de incendios forestales
-====================================================================
-
-El alcalde de Quito, Pabel Muñoz, declaró varias medidas para enfrentar los múltiples incendios que afectan a la ciudad.
-------------------------------------------------------------------------------------------------------------------------
-
-![Quito no tendrá cortes de luz](https://www.elcomercio.com/wp-content/uploads/2024/09/luz-quito.jpg)
-
-El alcalde de Quito, **Pabel Muñoz**, confirmó que debido a los múltiples **incendios forestales** que enfrenta la ciudad, no se registrarán **cortes de luz** este martes 24 de septiembre de 2024.
-
-La capital, al igual que el resto del país, tenía programada la suspensión del servicio eléctrico para estos días, debido a la **crisis hídrica** provocada por la falta de lluvias.
-
-### Más noticias
-
-* [Pico y placa en Quito sufre cambios por incendios forestales](https://www.elcomercio.com/actualidad/quito/pico-y-placa-en-quito-sufre-cambios-por-incendios-forestales.html "Pico y placa en Quito sufre cambios por incendios forestales")
-* [Alerta por la calidad del aire en Quito debido incendios forestales de este 24 de septiembre](https://www.elcomercio.com/actualidad/negocios/alerta-calidad-aire-incendios-forestales-guapulo-quito-24-de-septiembre.html "Alerta por la calidad del aire en Quito debido incendios forestales de este 24 de septiembre")
-* [Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/voraz-incendio-forestal-guapulo-cierre-vias.html "Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre")
-
-Este martes, la capital registró al menos **seis incendios forestales** desde la mañana; tres de estas alertas fueron controladas, sin embargo, las demás se mantienen **activas**.
-
-El incendio forestal de mayores proporciones es el registro en el sector de **Guápulo**, en el oriente de Quito.
-
-Las intensas llamas que consumieron la vegetación alrededor de las **15:00** provocaron que el **humo** se extienda por varios sectores aledaños.
-
-Medidas para enfrentar la emergencia
-------------------------------------
-
-Ante la repentina emergencia que vive la ciudad, el burgomaestre declaró **varias medidas**.
-
-El Gobierno Nacional suspendió los cortes de luz programados en Quito para este martes.
-
-El **pico y placa** tampoco regirá la tarde y noche de hoy.
-
-> 🚘 [#Activados24Siete](https://twitter.com/hashtag/Activados24Siete?src=hash&ref_src=twsrc%5Etfw) I La Agencia Metropolitana de Tránsito (AMT) informó que el Pico y placa se suspende en la ciudad por el incendio de gran magnitud que se registró en Guápulo la tarde de este martes.  
->   
-> 🔗 Lee la nota completa en: [https://t.co/WhepYSCc8m](https://t.co/WhepYSCc8m) [pic.twitter.com/VU3nX4R3oB](https://t.co/VU3nX4R3oB)
-> 
-> — Municipio de Quito (@MunicipioQuito) [September 24, 2024](https://twitter.com/MunicipioQuito/status/1838716190698401880?ref_src=twsrc%5Etfw)
-
-La AMT confirmó algunos cierres viales para mejorar la movilidad en la ciudad.
-
-La prohibición vehicular se realiza en el **túnel Guayasamín** y en la **av. Simón Bolívar**, desde la av. Oswaldo Guayasamín hasta la salida a la Ruta Viva.
-
-Muñoz también aseguró que dos aeronaves de las **Fuerzas Armadas** viajarán desde la Base Aérea de Taura, en Guayas, para apoyar a los Bomberos de Quito con el combate de los **incendios forestales**.
-
-Además, se informó que el Municipio de Quito, con el respaldo de los Ministerios de Gobierno y del Ambiente analizan la posibilidad de **suspender la jornada laboral** para este miércoles 25 de septiembre, debido a las malas condiciones ambientales.
-
-Las autoridades darán a conocer un **nuevo reporte** a las 22:00, mientras tanto, exhortaron a la ciudadanía que eviten circular en Quito para favorecer la movilidad del Cuerpo de Bomberos y demás funcionarios que trabajan en la emergencia.
-
-> URGENTE – ALERTA  
-> Incendio de grandes proporciones, activado todo el Municipio así como el apoyo del Gobierno Nacional. Exhortamos a la ciudadanía a limitar su circulación a lo estrictamente necesario para evitar caotizar el tráfico aún más.
-> 
-> — Pabel Muñoz L. (@pabelml) [September 24, 2024](https://twitter.com/pabelml/status/1838701720190247306?ref_src=twsrc%5Etfw)
-
-Incendio forestal en Guápulo
-----------------------------
-
-El **voraz incendio forestal** que se registra en el sector de Guápulo, en el oriente de Quito, fue el que mayores complicaciones provocó.
-
-La alerta fue reportada por el Cuerpo de Bomberos pasadas las **15:00**.
-
-La entidad informó que en el lugar se encuentra un contingente de uniformados trabajando en las labores de combate y control de fuego.
-
-Producto de las intensas llamas y los fuertes vientos se registra una gran cantidad de humo y residuos de combustión en algunos sectores de Quito.
-
-Asimismo, el olor de la vegetación quemada se percibe en varios barrios cercanos a la emergencia.
-
-**Otros dos incendios** se mantienen activos en el sector del Itchimbia, en La Tola; y en La Forestal, en el sur de la ciudad.
-
-¿Cuánto miden las plataformas que causaron la caída de Belinda?
-===============================================================
-
-La mexicana mide 1.68 cm, pero usó calzado con plataformas para desfilar en París.
-----------------------------------------------------------------------------------
-
-![La caída de Belinda ocurrió durante un desfile en París. Fotos: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/09/belinda-caida-plataformas-El-comercio.jpg)
-
-**Belinda** protagonizó un momento incómodo durante su debut en la **pasarela en París** en la icónica **Place de l’Opéra**.
-
-La cantante y actriz **sufrió una caída aparatosa en plena pasarela** debido al gran tamaño de sus plataformas. El desafortunado incidente que rápidamente se viralizó en redes sociales.
-
-### Más noticias
-
-* **[10 claves para comprender el escándalo de P. Diddy](https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html "https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html")**
-* **[Los problemas fiscales de Shakira inspiran la serie de streaming ‘Celeste’](https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html "https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html")**
-
-A pesar de la **caída, Belinda** mostró su profesionalismo al levantarse con una gran sonrisa. Su colega **Anitta** le ayudó a pararse y continuó su participación en el desfile sin mayores contratiempos.
-
-El incidente no impidió que su atuendo y su presencia en el evento captaran la atención de los medios y el público.
-
-Las lujosas plataformas que usó Belinda
----------------------------------------
-
-Las **plataformas** que causaron el percance son una creación de las **diseñadoras turcas Raisa y Vanessa Sason**, conocidas por sus diseños exclusivos y extravagantes.
-
-Tienen un precio aproximado de 1 337 dólares y una altura total de 25 centímetros, con 6 cm de plataforma y 19 cm de tacón. Los zapatos destacan por su diseño rojo y calcetines decorativos para complementarlo.
-
-El atuendo de Belinda, un minivestido rojo brillante con un cinturón dorado, también fue diseñado por la firma “Raisa Vanessa” y tiene un precio de 1 369 dólares. En total, el look completo de la artista superó los 2 780 dólares.
-
-La reacción de Belinda ante las críticas
-----------------------------------------
-
-A pesar de la lluvia de memes y comentarios, Belinda respondió con optimismo a través de sus redes sociales, compartiendo un mensaje positivo: “No importa cuántas veces te caigas, lo importante es cómo te levantas”.
-
-A partir del percance, los fans se preguntan también **cuál es la estatura de Belinda**. Según un **[artículo](https://www.infobae.com/mexico/2024/06/21/cuanto-mide-belinda-y-cual-es-la-diferencia-de-estaturas-con-su-ex-novio-christian-nodal/ "https://www.infobae.com/mexico/2024/06/21/cuanto-mide-belinda-y-cual-es-la-diferencia-de-estaturas-con-su-ex-novio-christian-nodal/")** de Infobae la mexicana mide 1.68. Lo que quiere decir que la cantante alcanzó una altura de 1.93 cm.
-
-Pico y placa en Quito sufre cambios por incendios forestales
-============================================================
-
-El Pico y placa es una medida de restricción vehicular que se aplica en Quito.
-------------------------------------------------------------------------------
-
-![AMT tomo medidas por el Pico y placa.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-Quito-incendio.jpg)
-
-La Agencia Metropolitana de Tránsito (AMT) de Quito informó sobre las medidas tomadas por el incendio forestal que se produjo la tarde de este 24 de septiembre de 2024.
-
-Más noticias
-------------
-
-* [Incendio forestal en Guápulo; túnel Guayasamín y av. Simón Bolívar, cerrados](https://www.elcomercio.com/actualidad/quito/incendio-forestal-se-produce-en-guapulo-quito.html "Incendio forestal en Guápulo; túnel Guayasamín y av. Simón Bolívar, cerrados")
-* [Alerta por la calidad del aire en Quito debido incendios forestales de este 24 de septiembre](https://www.elcomercio.com/actualidad/negocios/alerta-calidad-aire-incendios-forestales-guapulo-quito-24-de-septiembre.html "Alerta por la calidad del aire en Quito debido incendios forestales de este 24 de septiembre")
-* [¿Cuántos incendios forestales tuvo Quito y cuál fue su daño?](https://www.elcomercio.com/actualidad/informe-incendios-forestales-quito-epoca-seca.html "¿Cuántos incendios forestales tuvo Quito y cuál fue su daño?")
-
-El incendio provocó el cierre de la avenida Simón Bolívar y del túnel Guayasamín, hasta la salida a la Ruta Viva. Las rutas alternas disponibles son la avenida 6 de Diciembre, Shyris, 10 de Agosto y la Mariscal Sucre.
-
-David Arguello, coordinador de operaciones de la AMT, confirmó que los vehículos que se encontraban cercanos a Guápulo fueron evacuados por su seguridad.
-
-La entidad no descarta nuevos cierres paulatinos en otros sectores, como por ejemplo en los redondeles de Zámbiza y El Cilicista, en el norte.
-
-¿Se suspende el Pico y Placa en Quito?
---------------------------------------
-
-La AMT informó que, debido a la emergencia por el incendio en la avenida Simón Bolívar, se suspendió el Pico y Placa. Este 24 de septiembre, las placas que terminan en 3 y 4 tenían restricción vehicular, pero tras esta decisión, la circulación en la ciudad es normal.
-
-¿Habrá jornada laboral el 25 de septiembre?
--------------------------------------------
-
-El alcalde de Quito, Pabel Muñoz, solicitó al Gobierno de Daniel Noboa la suspensión de la jornada laboral del miércoles 25 de septiembre de 2024. Esto se debe a la posible afectación en la calidad del aire tras el incendio ocurrido en Guápulo.
-
-Alerta por la calidad del aire en Quito debido incendios forestales de este 24 de septiembre
-============================================================================================
-
-La calidad del aire en Quito se ha deteriorado debido a los incendios forestales, afectando especialmente el hipercentro y norte de la ciudad.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El humo comprometió la calidad del aire en varios sectores de Quito](https://www.elcomercio.com/wp-content/uploads/2024/09/humo.jpg)
-
-La Secretaría de Ambiente del Distrito Metropolitano de **Quito** informó que la calidad del aire se encuentra comprometida debido a, al menos, tres **incendios forestales**, registrados de este martes 24 de septiembre de 2024, en **Guápulo, Itchimbía y San Isidro.**
-
-### Más noticias
-
-* [Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/voraz-incendio-forestal-guapulo-cierre-vias.html "Tres incendios forestales en Quito complican la movilidad este martes 24 de septiembre")
-* [Se declara alerta roja en 19 provincias de Ecuador por sequía](https://www.elcomercio.com/actualidad/ecuador/alerta-roja-19-provincias-ecuador-sequia-emergencia.html "Se declara alerta roja en 19 provincias de Ecuador por sequía")
-* [Estos son los países más afectados por los incendios en septiembre 2024](https://www.elcomercio.com/actualidad/mundo/paises-afectados-incendios.html "Estos son los países más afectados por los incendios en septiembre 2024")
-
-Las zonas afectadas hasta las 17:30 de este martes son las del **hipercentro y norte de Quito.** Sin embargo, se espera que los vientos continúen desplazando el humo y los contaminantes hacia otras áreas urbanas, intensificando la mala calidad del aire en sectores aledaños, agregó la Secretaría de Ambiente.
-
-Recomendaciones para protegerse del humo
-----------------------------------------
-
-Asimismo, las autoridades hicieron recomendaciones para protegerse del humo:
-
-* Evite actividades al aire libre.
-* Mantenga puertas y ventanas cerradas para reducir la entrada de aire contaminado a los hogares.
-* Utilice mascarilla si va a salir de casa.
-* Cubra cualquier recipiente para almacenar agua.
-* No barra la ceniza hasta que el evento termine.
-* Proteja a niños, adultos mayores, personas con enfermedades respiratorias y mascotas.
-
-> 👨‍🚒 [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | Debido al incendio forestal que se registra en el sector de Guápulo existe presencia de humo y residuos de combustión en algunos sectores del Distrito Metropolitano de Quito.  
->   
-> ⬇️ Por favor, sigue estas recomendaciones para evitar cualquier afectación. [pic.twitter.com/PB2qKVb04W](https://t.co/PB2qKVb04W)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 24, 2024](https://twitter.com/BomberosQuito/status/1838696460843397462?ref_src=twsrc%5Etfw)
-
-Incendio en Guápulo
--------------------
-
-El incendio forestal más grave es el de **Guápulo**, en el nororiente de **Quito**. En redes sociales se compartió fotos y videos de la magnitud del flagelo. Las **llamas cubrías** gran parte de la vegetación de la zona, e incluso se acercaban a varias viviendas del lugar.
-
-Asimismo, el humo es visible desde la avenida **Simón Bolívar**, La Coruña y otras zonas de la ciudad. Además, el olor de la vegetación quemada se percibe en varios sectores de Quito.
-
-> Queridos quiteños:  
->   
-> En este momento las Fuerzas Armadas se encuentran en Guápulo, he dispuesto la movilización de todo el contingente necesario. Los helicópteros vendrán en apoyo apenas sea seguro para los pilotos emprender su misión.  
->   
-> En el puesto de mando unificado están el… [pic.twitter.com/4FAwjPDZDG](https://t.co/4FAwjPDZDG)
-> 
-> — Daniel Noboa Azin (@DanielNoboaOk) [September 24, 2024](https://twitter.com/DanielNoboaOk/status/1838710147738161571?ref_src=twsrc%5Etfw)
-
-Debido al incendio forestal de **Guápulo**, la Agencia Metropolitana de Tránsito informó que el túnel **Guayasamín** y la avenida Simón Bolívar (norte) se cerraron al tránsito vehicular.
-
-El personal del Cuerpo de Bomberos está en el sitio combatiendo el incendio. “Necesitamos que la ciudadanía mantenga la calma, que no utilice el puente de Guayasamín”, dijo el Comandante del Cuerpo de Bomberos, **Esteban Cárdenas.**  
-
-Estados Unidos incluyó en la Lista Clinton a cinco cabecillas del Clan del Golfo
-================================================================================
-
-El Departamento del Tesoro de los Estados Unidos informó este martes, 24 de septiembre de 2024, que cinco cabecillas del grupo armado Clan del Golfo ingresarán de manera inmediata a la Lista Clinton, según Infobae. Más noticias El Gobierno de Estados Unidos respondió a la ley de “imposición de sanciones a personas extranjeras involucradas en \[…\]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen de un grafiti en el se lee AGC, siglas para Autodefensas Gaitanistas de Colombia -también conocidas como Clan del Golfo.](https://www.elcomercio.com/wp-content/uploads/2024/09/Clan-golfo-efe.jpg)
-
-El **Departamento del Tesoro de los Estados Unidos** informó este martes, 24 de septiembre de 2024, que cinco cabecillas del grupo armado **Clan del Golfo** ingresarán de manera inmediata a la Lista Clinton, según Infobae.
-
-### Más noticias
-
-* [Estados Unidos se pronunció sobre una posible presencia militar en Ecuador](https://www.elcomercio.com/actualidad/politica/estados-unidos-pronuncio-posible-presencia-militar-ecuador.html "Estados Unidos se pronunció sobre una posible presencia militar en Ecuador")
-* [Joe Biden se puso brevemente una gorra de Trump en gesto de unidad](https://www.elcomercio.com/actualidad/mundo/joe-biden-puso-brevemente-gorra-trump-gesto-unidad.html "Joe Biden se puso brevemente una gorra de Trump en gesto de unidad ")
-* [Joe Biden firma un decreto para impulsar trabajos dignos](https://www.elcomercio.com/actualidad/mundo/joe-biden-firma-decreto-impulsar-trabajos-dignos.html "Joe Biden firma un decreto para impulsar trabajos dignos ")
-
-El Gobierno de Estados Unidos respondió a la ley de “**imposición de sanciones** a personas extranjeras involucradas en el comercio ilícito mundial de drogas”. Dicha ley condena las **actividades ilícitas** dentro y fuera de los Estados Unidos.
-
-Los cinco sancionados son **líderes del Clan del Golfo**, también conocido como Los Urabeños, una de las organizaciones de tráfico de drogas más grandes de Colombia, de acuerdo con Infobae.
-
-“El **presidente Biden y la vicepresidenta Harris están comprometidos a utilizar todas las herramientas a nuestra disposición para combatir a los cárteles** que están envenenando nuestras comunidades con fentanilo y otras drogas letales”, comentó Wally Adeyemo, subsecretario del Tesoro.
-
-Wally Adeyemo destacó que esta acción busca **debilitar la capacidad operativa** del Clan del Golfo en sus redes de **tráfico de migrantes** hacia la frontera sur de Estados Unidos.
-
-¿Qués es la Lista Clinton?
---------------------------
-
-La Lista OFAC, conocida comúnmente como la Lista Clinton, es el listado de personas y empresas señaladas de tener relaciones con dinero fruto del **narcotráfico en el mundo**, tales individuos y compañías se llaman Nacionales Especialmente Designados o SDNs.
-
-Leonardo Campana cerca de regresar a la Selección de Ecuador
-============================================================
-
-Leonardo Campana lleva jugados 15 partidos con la Selección de Ecuador y aún no logra marcar goles.
----------------------------------------------------------------------------------------------------
-
-![Leonardo Campana con la Selección de Ecuador en junio de 2022.](https://www.elcomercio.com/wp-content/uploads/2024/09/campana_beccacece_1.jpg)
-
-**Leonardo Campana** ostenta, con 31 tantos, el récord de goleador histórico del Inter Miami de la Major League Soccer (MLS) de los Estados Unidos y su nombre volvió a estar en la órbita de la Selección de Ecuador.
-
-La última vez que **Leonardo Campana estuvo convocado con la Selección de Ecuador** fue en la doble fecha de eliminatorias de noviembre de 2023, cuando fue llamado por el español Félix Sánchez para enfrentar a Venezuela y Chile.
-
-### Más noticias:
-
-* [Deportivo Quito presentó 16 jugadores para el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-refuerzos-ascenso-nacional.html "Deportivo Quito presentó 16 jugadores para el Ascenso Nacional")
-* [Gustavo Alfaro y Paraguay llegarán directo a Quito](https://www.elcomercio.com/deportes/eliminatorias/gustavo-alfaro-seleccion-paraguay-eliminatoias.html "Gustavo Alfaro y Paraguay llegarán directo a Quito")
-* [Damián Díaz será intervenido quirúrgicamente por grave lesión](https://www.elcomercio.com/deportes/futbol/damian-diaz-sera-intervenido-quirurgicamente-por-grave-lesion.html "Damián Díaz será intervenido quirúrgicamente por grave lesión")
-
-En esa ocasión sumó, según Transfermarkt, **19 minutos ante Venezuela en el empate 0-0**, y ocho frente a Chile en la victoria 1-0 con un tanto del veterano mediocampista Ángel Mena.
-
-En adelante Sánchez no lo tomó en cuenta para los amistosos de marzo ante Guatemala e Italia, y los de junio ante **Argentina, Bolivia y Honduras** en la previa de la Copa América Estados Unidos 2024.
-
-En la Copa América tampoco fue tomado en cuenta y miró desde casa la fase de grupos ante Venezuela (derrota 1-2), **victoria contra Jamaica (3-1), empate con México (0-0)** y empate con Argentina (1-1) en los cuartos de final con derrota en la tanda de penales.
-
-Tras la salida de Sánchez se anunció la contratación de Sebastián Beccacece, que **tampoco lo tomó en cuenta al guayaquileño** para medirse contra Brasil en Curitiba y Perú en Quito, por la séptima y octava jornada de las eliminatorias al Mundial 2026.
-
-En la siguiente doble fecha la Tri será local de **Paraguay el 10 de octubre en el Rodrigo Paz Delgado** de Quito, y visitante de Uruguay el 15 en el mítico Centenario de Montevideo.
-
-Los días avanzan y **poco a poco crece la expectativa que Campana** entre en la órbita de Beccacece y lo cite nuevamente a la Selección de Ecuador.
-
-Campana y Beccacece hablaron por teléfono
------------------------------------------
-
-Leonardo Campana reveló que tuvo una conversación con **Sebastián Beccacece con lo que no pierde** la esperanza de ser llamado para los siguientes partidos de la Tri.
-
-“Hace poco tuve una charla con el profesor (Beccacece). **Me hizo sentir muy feliz, motivado e ilusionado por todo lo que se viene**“, contó el delantero tras convertirse en el máximo goleador histórico del Inter Miami.
-
-“Me encantaría volver en la fecha de octubre, estar con mis compañeros, dejar en alto el nombre de mi país, jugar, **hacer goles que es para lo que me llevan**. Ojalá se pueda dar esa linda oportunidad”, complementó el jugador que se formó en Barcelona Sporting Club en el que debutó en 2019.
-
-Este martes 24 de septiembre la periodista Solead Reyes confirmó que Beccacece lo tiene en la órbita de cuerpo técnico de la tricolor.
-
-![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/09/campana_beccacece_2-1024x683.jpg)
-
-Foto: Instagram del futbolista.
-
-Campana con la Tri
-------------------
-
-Campana, de 24 años y delantero centro, **tiene una relación intermitente con la Selección** y su presencia ha sido esporádica.
-
-En 15 partidos no pudo anotar goles. **Su última citación fue en noviembre de 2023** para medirse a Venezuela y Chile en las eliminatorias al Mundial. En ambos ingresó desde el banco de suplentes y sumó 27 minutos.
-
-Beccacece llamó a **Kevin Rodríguez y Enner Valencia** para enfrentarse a Brasil y Perú, sin considerar al exBarcelona de Guayaquil.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Ocho presos colombianos fueron repatriados desde Ecuador
-========================================================
-
-Las ocho personas colombianas detenidos estuvieron en las cárceles de Carchi y Pichincha.
------------------------------------------------------------------------------------------
-
-![Agentes de la Policía Nacional junto a los ocho presos que fueron repatriados a Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/09/policia.png)
-
-El Gobierno ecuatoriano, en cumplimiento del **Decreto Ejecutivo No. 139**, ha repatriado a **ocho personas privadas de la libertad (PPL) de nacionalidad colombiana**. Este operativo fue llevado a cabo el 24 de septiembre de 2024.
-
-### Más noticias
-
-* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
-* [Justicia de Argentina ordena la captura internacional de Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-captuar-nicolas-maduro.html "Justicia de Argentina ordena la captura internacional de Nicolás Maduro")
-* [Policía detalló medidas de seguridad durante los apagones](https://www.elcomercio.com/actualidad/ecuador/policia-detallo-medidas-seguridad-durante-apagones.html "Policía detalló medidas de seguridad durante los apagones")
-
-Las ocho personas **cumplían condenas en Ecuador** por delitos relacionados con el **tráfico de sustancias ilícitas**. Los condenados finalizarán sus penas en Colombia.
-
-Este grupo de repatriados estaba compuesto por **siete hombres y una mujer**. Las personas se encontraban en dos centros de privación de libertad: en **Carchi y en Pichincha**. El traslado de las personas fue coordinado por el **Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y Adolescentes Infractores (SNAI)** y otras autoridades ecuatorianas.
-
-Cooperación bilateral
----------------------
-
-El proceso de repatriación fue posible por los **convenios bilaterales entre Ecuador y Colombia**. Estos acuerdos permiten la cooperación en **materia de justicia**. El Ministerio de Relaciones Exteriores y Movilidad Humana, junto a otras entidades, **facilitó el traslado de las personas privadas de libertad** a la frontera.
-
-> REPATRIACIÓN PASIVA DE 8 CIUDADANOS EXTRANJEROS HACIA [#COLOMBIA](https://twitter.com/hashtag/COLOMBIA?src=hash&ref_src=twsrc%5Etfw)  
->   
-> En cooperación internacional de [@INTERPOL\_HQ](https://twitter.com/INTERPOL_HQ?ref_src=twsrc%5Etfw) se ejecutó la repatriación pasiva de 8 ciudadanos colombianos, quienes se encontraban cumpliendo sentencias en [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) por tráfico de sustancias sujetas a fiscalización.… [pic.twitter.com/Q8V8cMvIlV](https://t.co/Q8V8cMvIlV)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [September 24, 2024](https://twitter.com/PoliciaEcuador/status/1838652566290288762?ref_src=twsrc%5Etfw)
-
-El punto de entrega fue el **Puente Internacional de Rumichaca**, donde las autoridades colombianas recibieron a las **personas repatriadas**. Esta es la segunda ocasión en el año en que Ecuador repatria a ciudadanos colombianos bajo este tipo de convenios.
-
-Varias instituciones respaldaron el proceso. Entre ellas, **Interpol, la Policía Nacional y el Ministerio del Interior de Ecuador**. Todos trabajaron conjuntamente para asegurar que la repatriación se llevara a cabo de **manera eficiente y segura**.
-
-Tome en cuenta estos consejos para cuidar su salud por la caída de ceniza en Quito
-==================================================================================
-
-Los especialistas recomiendan mantenerse dentro de casa o en lugares cerrados, el mayor tiempo posible debido a los incendios.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Población afectada por el incendio forestal de Nayón, al nororiente de Quito. Foto: Julio Estrella](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-30.jpg)
-
-Los niños menores de cinco años, ancianos y pacientes con enfermedades respiratorias son las que más cuidado deben tomar ante la caída de ceniza por los incendios forestales en Quito.
-
-Más noticias
-------------
-
-* [Incendios forestales provocan la caída de ceniza en Quito](https://www.elcomercio.com/actualidad/quito/incendios-forestales-caida-ceniza-quito.html "Incendios forestales provocan la caída de ceniza en Quito")
-* [Quito se cubre de humo por los incendios forestales](https://www.elcomercio.com/actualidad/quito/quito-se-cubre-de-humo-por-los-incendios-forestales.html "Quito se cubre de humo por los incendios forestales")
-
-EL COMERCIO recogió las recomendaciones de varios especialistas para evitar problemas de salud, debido a la [lluvia de ceniza](https://www.elcomercio.com/actualidad/quito/cuatro-incendios-forestales-se-activaron-en-quito.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "https://www.elcomercio.com/actualidad/quito/cuatro-incendios-forestales-se-activaron-en-quito.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front"), producto de los incendios forestales que afectan a Quito, de este martes 24 de septiembre del 2024.
-
-Medidas intradomiciliarias
---------------------------
-
-La neumóloga, **Carina Coronel**, aconseja sellar con trapos húmedos todos los espacios de los domicilios por dónde pueda ingresar la ceniza. En estos casos también se colocan cintas adhesivas.
-
-Tratar de mantener las puertas y las ventanas cerradas para evitar el contacto con las partículas de ceniza. En lo posible recomienda evitar salir al aire libre.
-
-Esta recomendación va dirigida, principalmente, a niños menores de cinco años, personas de la tercera edad, con enfermedades respiratorias o condiciones médicas vulnerables.
-
-**Rasa Zalakeviciute**, ingeniera ambiental e investigadora de la UDLA, agrega el uso de purificador de aire, en caso de tenerlo para reducir las partículas en el ambiente. Esta recomendación resulta útil por la irritación en las vías respiratorias, tos y dolor de la garganta que se siente, añade.
-
-Es mejor restringir la actividad física afuera porque cuando se hace ejercicios se respira e inhala más y hay que evitar problemas de salud.
-
-Cuidados para personas con enfermedades respiratorias
------------------------------------------------------
-
-La neumóloga aconseja a las personas con patologías respiratorias crónicas mantener a su lado los inhaladores de uso constante y no olvidar los inhaladores de emergencia.
-
-Esto debido a que la ceniza los va a exacerbar. Si están afuera o tienen que salir llevarlos en la cartera en caso de requerir dosis de rescate.
-
-Las personas alérgicas, asmáticos, con enfermedad obstructiva crónica, con bronquitis crónica o fibrosis pulmonar son los que más necesitan tener a mano su fármaco inhalado. Esto, sobre todo, si tuvieron altas cargas de inhalación de ceniza.
-
-Quienes tienen rinitis alérgica también pueden tener exacerbaciones y en estos casos se trata con antialérgicos o corticoides nasales, con el fin de disminuir síntomas como tragar flema.
-
-Cuidados en los exteriores
---------------------------
-
-El uso de mascarillas con filtro es lo mejor si está expuesto a la caída de ceniza. Si no se cuenta con una, **Marissa Gonzaga**, docente de la Escuela de Medicina de la U. Internacional, sugiere usar un pañuelo o bufanda húmeda sobre nariz y boca.
-
-Otro consejo es proteger los ojos con gafas o lentes para evitar la irritación; usar pantalones y camisas de manga larga para no estar en contacto con la ceniza.
-
-Lavarse bien la piel y el cabello luego de la exposición a las partículas de ceniza.
-
-Si se encuentra en el carro hay que mantener cerrados los sistemas de aire acondicionado. Mantener un kit de emergencia.
-
-De acuerdo con la [Red de Monitoreo Atmosférico](https://ambiente.quito.gob.ec/red-metropolitana-de-monitoreo-de-la-calidad-del-aire/ "https://ambiente.quito.gob.ec/red-metropolitana-de-monitoreo-de-la-calidad-del-aire/") que maneja la Secretaría del Ambiente, Zalakeviciute explica que en el valle de Tumbaco y en Cotocollao, en el norte de Quito, mostraron picos altos de partículas de ceniza. Inclusos las concentraciones subieron hasta 10 veces más en las últimas horas.
-
-El pico más alto fue a las 14:00 hasta las 15:00, pero luego empezó a bajar. En estas zonas es donde más cuidados debió tener la población.
-
-  
-
-Uso de mascarillas
-
-Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González
-=====================================================================================
-
-La UE seguirá "apoyando el derecho" de Venezuela a la democracia, a la libertad y a la actividad política.
-----------------------------------------------------------------------------------------------------------
-
-![Unión Europea no reconoce a Edmundo González como presidente de Venezuela.](https://www.elcomercio.com/wp-content/uploads/2024/09/edmundo-gonzalez-efe-agradecimiento-2.jpg)
-
-La **Unión Europea** insistió el lunes 24 de septiembre de 2024, en **no reconocer** a [Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-pide-venezolanos-aceptar-equipos-electronicos-como-regalos-navidenos.html "https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-pide-venezolanos-aceptar-equipos-electronicos-como-regalos-navidenos.html") como **presidente de Venezuela** pero tampoco al candidato opositor **Edmundo González,** según expresó el jefe de la diplomacia europea, Josep Borrell, en Nueva York.
-
-### Más noticias
-
-* [Unión Europea oficializó a su nueva Embajadora en Ecuador](https://www.elcomercio.com/actualidad/politica/union-europea-embajadora-ecuador.html "Unión Europea oficializó a su nueva Embajadora en Ecuador")
-* [Nicolás Maduro prohíbe regalos electrónicos en Navidad](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-pide-venezolanos-aceptar-equipos-electronicos-como-regalos-navidenos.html "Nicolás Maduro prohíbe regalos electrónicos en Navidad")
-* [Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado](https://www.elcomercio.com/actualidad/mundo/gobierno-venezuela-rechaza-respaldo-estados-unidos-gonzalez-urrutia-machado.html "Gobierno de Venezuela rechaza el respaldo de Estados Unidos a González y a Machado")
-
-Borrell detalló en un encuentro con medios que mantuvo una reunión informal con los cancilleres europeos en los márgenes de la Asamblea General de la ONU, centrada en los conflictos en Oriente Medio y Ucrania, y España pidió abordar la situación en Venezuela.
-
-“Saben que **no podemos reconocer la legitimidad de (Nicolás) Maduro** elegido democráticamente, que lamentamos que Edmundo (González), el candidato de la oposición, tuviera que abandonar el país y buscar asilo político en España”, indicó el diplomático.
-
-Las declaraciones reafirman la postura diplomática de la UE después de que esta semana la Eurocámara aprobara una resolución, no vinculante, que reconoce a González como ganador legítimo de las elecciones venezolanas del pasado 28 de julio.
-
-Agregó que la UE **seguirá “apoyando el derecho” de Venezuela a la democracia, a la libertad** y a la actividad política, y dijo que ha pedido a las autoridades venezolanas “poner fin a la represión, el arresto arbitrario y el acoso de la oposición y la sociedad civil”.
-
-Además, hizo una llamada “al retorn**o inmediato de la Oficina del Alto Comisionado** de la ONU para los Derechos Humanos (Völker Turk) a Caracas” y sentenció que “solo una solución liderada por los venezolanos, pacífica e inclusiva hará posible una transición democrática en Venezuela”. 
-
-Ecuador busca financiamiento en China para proyectos energéticos y de seguridad
-===============================================================================
-
-El ministro de Economía, Juan Carlos Vega, viajó a China para buscar inversiones en proyectos de energía y seguridad.
----------------------------------------------------------------------------------------------------------------------
-
-![El ministro de Economía y Finanzas, Juan Carlos Vega, viajó a China entre el 20 y 26 de septiembre del 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/china-JCV.jpg)
-
-El ministro de Economía y Finanzas, **Juan Carlos Vega**, viajó a **China** para potenciar la relación bilateral financiera entre las dos naciones. La visita oficial se inició el 20 de septiembre y concluirá el jueves 26 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Se declara alerta roja en 19 provincias de Ecuador por sequía](https://www.elcomercio.com/actualidad/ecuador/alerta-roja-19-provincias-ecuador-sequia-emergencia.html "Se declara alerta roja en 19 provincias de Ecuador por sequía")
-* [Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas](https://www.elcomercio.com/actualidad/negocios/nivel-de-agua-del-embalse-de-mazar-afecta-operacion-de-tres-hidroelectricas.html "Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas")
-* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
-
-El objetivo específico de la cita en el país asiático es **buscar inversiones** que permita impulsar **proyectos de energía y seguridad ciudadana**. Así lo señaló el Ministerio de Economía y Finanzas (MEF), este 24 de septiembre, en un comunicado.
-
-Asimismo, agregó que la agenda del Ministro contempla reuniones de trabajo con su homólogo chino, **Lan Foan**, y con los presidentes del **Banco de Desarrollo de China** (CDB), del **Banco de Exportación e Importación de China** (China Eximbank) y del **Banco Popular de China**.
-
-“El plan económico del gobierno del presidente **Daniel Noboa** busca mantener la **sostenibilidad a las finanzas públicas** y **promover inversiones**. Las mismas que permitan un crecimiento del país con equidad y generador de fuentes de empleo”, señaló el MEF.
-
-Las necesidades de financiamiento del Presupuesto General del Estado 2024 (PGE) asciende a 11 497 millones de dólares. El monto es necesario para cubrir el **déficit fiscal** y para pagar las deudas. Es decir, Ecuador debe buscar esta cantidad para cubrir los gastos necesarios del país y cumplir sus obligaciones este año.
-
-Deuda con China
----------------
-
-**China** es una de los acreedores de **Ecuador** desde hace varios años. Actualmente, la deuda con el país asiático asciende a cerca de 3 000 millones de dólares, según datos del MEF, recogidos por el Observatorio de Política Fiscal. Esta deuda la contrató con bancos como: Banco de Exportación e Importación de China (Eximbank), Banco de Desarrollo de China y Banco of China.
