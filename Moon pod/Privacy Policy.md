@@ -22,6 +22,7 @@ Menu
     * [Moon Pod Accessories](https://www.moonpod.co/collections/moon-pod-accessories)
     * [Shop All Moon Pods](https://www.moonpod.co/collections/moon-pod-beanbags)
     
+* [Galaxy Blankets](https://www.moonpod.co/collections/blankets)
 * [Sleep Products](#)
     
     * Back
