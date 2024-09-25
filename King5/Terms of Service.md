@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_360x203.jpg)](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214)
+    *  [![](https://media.king5.com/assets/KING/images/8850a9b5-5ba2-4378-bb99-769b42f75f2d/20240925T061658/8850a9b5-5ba2-4378-bb99-769b42f75f2d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8850a9b5-5ba2-4378-bb99-769b42f75f2d/20240925T061658/8850a9b5-5ba2-4378-bb99-769b42f75f2d_360x203.jpg)](https://www.king5.com/article/news/local/macklemore-faces-backlash-f-america-comment-pro-palestinian-benefit-show/281-52d04c34-c9c5-4e19-9819-1f0fe39a8265)
         
-        #### [Planned Lithium-ion battery storage facility causes concern for some Sumner residents](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214) [![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_360x203.jpg)](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214)
+        #### [Seattle sports teams 'evaluating' ties with rapper Macklemore after 'f\*\*\* America' comment](https://www.king5.com/article/news/local/macklemore-faces-backlash-f-america-comment-pro-palestinian-benefit-show/281-52d04c34-c9c5-4e19-9819-1f0fe39a8265)
         
-        #### [Sumner residents voice concerns over proposed Lithium-ion battery storage facility](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214)
-    *  [![](https://media.king5.com/assets/KING/images/cebd10b3-a71c-4b58-b2ef-88404eabac63/20240925T021204/cebd10b3-a71c-4b58-b2ef-88404eabac63_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cebd10b3-a71c-4b58-b2ef-88404eabac63/20240925T021204/cebd10b3-a71c-4b58-b2ef-88404eabac63_360x203.jpg)](https://www.king5.com/article/life/food/seattle-eatery-new-york-times-best-restaurants-2024/281-8bf2d063-c91a-4d8a-b678-ecdc24dccf17)
+    *  [![](https://media.king5.com/assets/KING/images/af718df9-4e94-4046-b3d8-264323c9e280/20240924T193615/af718df9-4e94-4046-b3d8-264323c9e280_16x9.jpg) ![](https://media.king5.com/assets/KING/images/af718df9-4e94-4046-b3d8-264323c9e280/20240924T193615/af718df9-4e94-4046-b3d8-264323c9e280_360x203.jpg)](https://www.king5.com/article/news/crime/burglaries-occupied-homes-north-bend/281-265f0921-4fe2-4465-9153-18fb35692813)
         
-        #### [Seattle eatery makes New York Times' 50 best restaurants of 2024 list](https://www.king5.com/article/life/food/seattle-eatery-new-york-times-best-restaurants-2024/281-8bf2d063-c91a-4d8a-b678-ecdc24dccf17)
+        #### [Burglaries of occupied homes in North Bend under police investigation](https://www.king5.com/article/news/crime/burglaries-occupied-homes-north-bend/281-265f0921-4fe2-4465-9153-18fb35692813)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-71°
+63°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
