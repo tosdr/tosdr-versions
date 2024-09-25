@@ -48,7 +48,7 @@
     * [Waterfowl Research Explore waterfowl science and research findings](https://www.ducks.org/conservation/waterfowl-research-science)
     * [Initiatives Regional initiatives for wetland conservation](https://www.ducks.org/conservation/du-conservation-initiatives)
     * [Public Policy Legislative advocacy for wetlands and wildlife](https://www.ducks.org/conservation/public-policy)
-    * [Find DU Projects Near You Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works)
+    * [Find DU Projects Near You Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works.html)
     * [Sustainability Focusing on wetland sustainability and biodiversity](https://www.ducks.org/conservation/sustainability)
     * [Make a Difference Join, volunteer, and support wetland conservation](https://www.ducks.org/get-involved)
     
@@ -191,7 +191,7 @@ Change [View State Page](https://www.ducks.org/)
     * [Waterfowl Research Explore waterfowl science and research findings](https://www.ducks.org/conservation/waterfowl-research-science)
     * [Initiatives Regional initiatives for wetland conservation](https://www.ducks.org/conservation/du-conservation-initiatives)
     * [Public Policy Legislative advocacy for wetlands and wildlife](https://www.ducks.org/conservation/public-policy)
-    * [Find DU Projects Near You Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works)
+    * [Find DU Projects Near You Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works.html)
     * [Sustainability Focusing on wetland sustainability and biodiversity](https://www.ducks.org/conservation/sustainability)
     * [Make a Difference Join, volunteer, and support wetland conservation](https://www.ducks.org/get-involved)
 
@@ -430,7 +430,7 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 
 * [Conservation](https://www.ducks.org/conservation "Conservation")
 * [How We Conserve](https://www.ducks.org/conservation/conserving-wetlands-waterfowl "How We Conserve")
-* [Where We Work](https://www.ducks.org/conservation/where-ducks-unlimited-works "Where We Work")
+* [Where We Work](https://www.ducks.org/conservation/where-ducks-unlimited-works.html "Where We Work")
 * [Waterfowl Research](https://www.ducks.org/conservation/waterfowl-research-science "Waterfowl Research")
 * [Waterfowl Surveys](https://www.ducks.org/conservation/waterfowl-surveys "Waterfowl Surveys")
 * [International](https://www.ducks.org/conservation/international-conservation-plan "International")
