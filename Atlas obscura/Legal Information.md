@@ -14,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Oaxaca Mexico tamales](https://img.atlasobscura.com/BaDERNykwdpWGsX04_iG0FTckM-RiYp8I4MeL2Z-xW0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNzM2/MmEwZC04NTcyLTRk/NzEtOTA0YS1jZDVl/YjgyYmI5YWY1MDE5/MjZkZDQ5ZTVhOGVi/ZDBfT2F4YWNhIE1l/eGljbyB0YW1hbGVz/IC0gQWRvYmVTdG9j/a180Nzk1MzAwODgu/anBlZw.jpg)](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
+
+Mexico • 7 days, 6 nights
+
+[Flavors of Oaxaca: Markets, Mezcal & Home-Cooked Meals](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
+
+from
+
+   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+New Zealand • 12 days, 11 nights
+
+[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Upcoming Experiences
 
@@ -156,6 +183,10 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![Foxfire is the bioluminescence created by some species of fungi that grow on decaying wood, like this Omphalotus nidiformis, or ghost fungus. ](https://img.atlasobscura.com/Uejl2LZixceGeQfNWMRkMpzUYkpnOtSh7kbHqSBOdVg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zYzQxOTE3YS03/NTIyLTQ5OWQtYTAy/MS1mNDU5YTM4NWIz/MTZmMDhhZmYzMjky/OTE4ZWY2OWVfR2V0/dHlJbWFnZXMtMTE4/ODYyNjg0OS5qcGc.jpg)
+
+Foxfire Brings Magical Light to the Dark Forest](https://www.atlasobscura.com/articles/the-magic-of-mushrooms)
+
    [![](https://img.atlasobscura.com/ptGbiY149RMgGXB3-PpTm6a9tkp1Q0UqC-Kh-Chiol8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80N2NiZWQyNS04/NDExLTQ2YjEtYWQw/YS1hNjRkN2M5ZmQw/NzkzMTgzMGY3Njg4/MTEwOTg3NDlfSUdf/U1RCU19BQkJFVklM/TEVfU1RJTEwtMDA1/LmpwZw.jpg)
 
 Podcast: Small Town, Big Story: The Giant Omelet of Abbeville, LA](https://www.atlasobscura.com/articles/podcast-small-town-big-story-the-giant-omelet-of-abbeville-la)
@@ -167,10 +198,6 @@ How a TV Show Brought New Fans (and Furniture) to Emily Dickinson's House](https
    [![The pawpaw has a brief seasonal window, from September to October.](https://img.atlasobscura.com/R-4jmWCxUgFX5aTqKKBtP7ZCbSwl_XopnaKsQ2Kp3Hw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82NGIyMmE5Mjc1/NGM3MmMzNjJfb3Bl/bnBhd3Bhdy5qcGc.jpg)
 
 Foraging for America's Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)
-
-   [![](https://img.atlasobscura.com/wedbupZgSuASCvM5dWd2OzvoEShKPoY_SdY0W_YmB-k/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83ZDBhZGJjODUz/OTQwNTgxODNfU1RC/U19KT05FU0JPUk9V/R0hfU1RJTEwtMDAz/LnBuZw.png)
-
-Podcast: Small Town, Big Story: The Storytellers of Jonesborough, TN](https://www.atlasobscura.com/articles/the-storytellers-of-jonesborough-tennessee)
 
 No search results found for  
 “”
