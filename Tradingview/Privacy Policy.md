@@ -224,7 +224,7 @@ When you create your profile on our Service, other users or visitors may access 
 
 Our Service allows those with a registered user account to share their charts with indicators and comments, their ideas, scripts, and other content with the rest of the internet via our publish features.
 
-By using a publish features, you grant us an irrevocable, perpetual, and royalty-free license to publish and disclose the content, as well as the username of the author, which makes you identifiable.
+By using public publishing features, you grant us an irrevocable, perpetual, and royalty-free license to publish and disclose the content, as well as the username of the author, which makes you identifiable.
 
 You can also publish your content as "private". This means that it will not be displayed in your profile or your lists of ideas, scripts, etc., nor will it be indexed by search engines. However, users who have a direct link to your content will be able to view it. Note that you will control over who/which users have access to a link.
 
