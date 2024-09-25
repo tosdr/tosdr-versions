@@ -191,27 +191,27 @@ Press Releases
 
 23 Sep
 
-#### [United Way Hires Tiffany Reed as Chief Development Officer](https://www.unitedwayri.org/press-release/united-way-hires-tiffany-reed-as-chief-development-officer/ "United Way Hires Tiffany Reed as Chief Development Officer")
-
-United Way of Rhode Island has welcomed a new chief development officer (CDO) to its team. The organization today announced the hiring of Tiffany Reed, who officially began her new role on Sept. 5. Most recently, Reed served as CDO for Tufts Medicine after holding the position of vice president, development, at Tufts Medical Center.
-
-[Read more](https://www.unitedwayri.org/press-release/united-way-hires-tiffany-reed-as-chief-development-officer/ "United Way Hires Tiffany Reed as Chief Development Officer")
-
-23 Sep
-
 #### [Paola Fernandez Appointed Chair of United Way of RI Board of Directors](https://www.unitedwayri.org/press-release/paola-fernandez-appointed-chair-of-united-way-of-ri-board-of-directors/ "Paola Fernandez Appointed Chair of United Way of RI Board of Directors")
 
 United Way of Rhode Island has named a new chair of its Board of Directors, appointing Paola Fernandez to the volunteer leadership position. Fernandez is SVP, Community Development Officer for Centreville Bank and succeeds Dolph Johnson, retired EVP and Chief Human Resources Officer of Hasbro, Inc., who recently completed his three-year term as chair. Read \[…\]
 
 [Read more](https://www.unitedwayri.org/press-release/paola-fernandez-appointed-chair-of-united-way-of-ri-board-of-directors/ "Paola Fernandez Appointed Chair of United Way of RI Board of Directors")
 
-22 May
+16 Sep
 
-#### [United Way Hosting Equity Challenge](https://www.unitedwayri.org/press-release/united-way-hosting-equity-challenge/ "United Way Hosting Equity Challenge")
+#### [United Way Hires Tiffany Reed as Chief Development Officer](https://www.unitedwayri.org/press-release/united-way-hires-tiffany-reed-as-chief-development-officer/ "United Way Hires Tiffany Reed as Chief Development Officer")
 
-As part of United Way of Rhode Island’s ongoing commitment to and demonstration of diversity, equity, and inclusion, the organization is preparing to host its 2024 Equity Challenge. All Rhode Islanders, individuals, and families, as well as local businesses, organizations, and groups are invited to participate in the challenge, which is being offered at no \[…\]
+United Way of Rhode Island has welcomed a new chief development officer (CDO) to its team. The organization today announced the hiring of Tiffany Reed, who officially began her new role on Sept. 5. Most recently, Reed served as CDO for Tufts Medicine after holding the position of vice president, development, at Tufts Medical Center.
 
-[Read more](https://www.unitedwayri.org/press-release/united-way-hosting-equity-challenge/ "United Way Hosting Equity Challenge")
+[Read more](https://www.unitedwayri.org/press-release/united-way-hires-tiffany-reed-as-chief-development-officer/ "United Way Hires Tiffany Reed as Chief Development Officer")
+
+14 Aug
+
+#### [United Way Announces $1.5M in Providence Equity Fund Grants](https://www.unitedwayri.org/press-release/united-way-announces-1-5m-in-providence-equity-fund-grants/ "United Way Announces $1.5M in Providence Equity Fund Grants")
+
+During a press conference on Wednesday, Aug. 14, United Way of Rhode Island and the City of Providence announced the recipient organizations of $1.5 million in funding from the Providence Equity Fund. In total, 15 organizations have been awarded grants to support strategies that promote racial and social equity, economic mobility, and educational opportunities for underserved populations in Providence.
+
+[Read more](https://www.unitedwayri.org/press-release/united-way-announces-1-5m-in-providence-equity-fund-grants/ "United Way Announces $1.5M in Providence Equity Fund Grants")
 
 UPCOMING EVENTS
 ---------------
