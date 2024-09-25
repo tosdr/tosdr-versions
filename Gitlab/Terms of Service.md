@@ -3342,7 +3342,7 @@
             * [ ]  [Log and audit requests](https://handbook.gitlab.com/handbook/support/workflows/log_requests/)
             * [ ]  [Looking up customer account details](https://handbook.gitlab.com/handbook/support/workflows/looking_up_customer_account_details/)
             * [ ]  [Looking up customer technical details](https://handbook.gitlab.com/handbook/support/workflows/looking_up_customer_technical_details/)
-            * [ ]  [Making Changes and Taking Actions on an Account](https://handbook.gitlab.com/handbook/support/workflows/account_changes/)
+            * [ ]  [Making Changes and Taking Actions on a user's behalf](https://handbook.gitlab.com/handbook/support/workflows/account_changes/)
             * [ ]  [Marking tickets as spam in Zendesk](https://handbook.gitlab.com/handbook/support/workflows/marking_tickets_as_spam/)
             * [ ]  [Mattermost](https://handbook.gitlab.com/handbook/support/workflows/mattermost/)
             * [ ]  [Name Squatting Policy](https://handbook.gitlab.com/handbook/support/workflows/namesquatting_policy/)
