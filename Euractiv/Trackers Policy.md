@@ -483,16 +483,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 
 ### Most read articles
 
-* 1[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
-* 2[The UK wants Europe’s carbon](http://en.euractiv.eu/section/energy-environment/news/the-uk-wants-europes-carbon/?utm_source=website&utm_campaign=popular)
-* 3[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
-* 4[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
-* 5[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
-* 6[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
-* 7[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
-* 8[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
-* 9[Council working document show member states not on board with Letta, Draghi reports](http://en.euractiv.eu/section/digital/news/council-working-document-show-member-states-not-on-board-with-letta-draghi-reports/?utm_source=website&utm_campaign=popular)
-* 10[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
+* 1[The UK wants Europe’s carbon](http://en.euractiv.eu/section/energy-environment/news/the-uk-wants-europes-carbon/?utm_source=website&utm_campaign=popular)
+* 2[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 3[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
+* 4[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
+* 5[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 6[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
+* 7[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
+* 8[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
+* 9[Incoming environment commissioner likely to face tough MEP questions on chemical rules revision](http://en.euractiv.eu/section/energy-environment/news/incoming-environment-commissioner-likely-to-face-tough-mep-questions-on-chemical-rules-revision/?utm_source=website&utm_campaign=popular)
+* 10[French government revealed: More of the same, with hard-right turn on immigration in the works](http://en.euractiv.eu/section/politics/news/french-government-revealed-more-of-the-same-with-hard-right-turn-on-immigration-in-the-works/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
