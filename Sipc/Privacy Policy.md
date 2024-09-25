@@ -1,5 +1,3 @@
-[Portal survey for broker-dealers, launching 9/9/2024](https://www.sipc.org/for-members/portal-survey)
-
 [](http://www.facebook.com/sipcorg)[](http://www.twitter.com/sipc)
 
 [Español](https://www.sipc.org/espanol)
@@ -217,10 +215,6 @@ Search Query
     
     Watch a webinar about the SIPC Broker-Dealer Portal.](https://www.sipc.org/for-members/portal-webinar)
     
-    [![Portal Survey](/assets/img/for-members/portal-survey.png)
-    
-    Portal Survey](https://www.sipc.org/for-members/portal-survey)
-    
     * * *
     
     Member Filing Requirements
@@ -371,7 +365,6 @@ For Member Firms
 * [Portal Information](https://www.sipc.org/portal) [\>](https://www.sipc.org/portal)
 * [Portal Webinar](https://www.sipc.org/for-members/portal-webinar) [\>](https://www.sipc.org/for-members/portal-webinar)
 * [How To File Your Agreed-Upon Procedures (AUP) Report](https://www.sipc.org/for-members/rule-600-reports) [\>](https://www.sipc.org/for-members/rule-600-reports)
-* [Portal Survey](https://www.sipc.org/for-members/portal-survey) [\>](https://www.sipc.org/for-members/portal-survey)
 * [How To File Your Form SIPC-3](https://www.sipc.org/for-members/sipc-3) [\>](https://www.sipc.org/for-members/sipc-3)
 * [Pay Assessments](https://www.sipc.org/for-members/assessments) [\>](https://www.sipc.org/for-members/assessments)
 * [Collapse Navigation](#)
@@ -399,8 +392,6 @@ News & Media
 [![SIPC Logo](/assets/img/sipc_logo.svg)](https://www.sipc.org/)
 
 [List Of Members](https://www.sipc.org/list-of-members)
-
-[Portal survey for broker-dealers, launching 9/9/2024](https://www.sipc.org/for-members/portal-survey)
 
 Privacy Policy
 ==============
