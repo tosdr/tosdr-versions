@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [House, Senate to Vote on Stopgap Funding Bill](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
+    
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![House, Senate to Vote on Stopgap Funding Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![House, Senate to Vote on Stopgap Funding Bill](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728348-09162024-DSC00724-US-CapitolKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
+* [China Publicly Test-Fires ICMB for First Time in Decades](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
+    
+    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![China Publicly Test-Fires ICMB for First Time in Decades](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![China Publicly Test-Fires ICMB for First Time in Decades](https://img.theepochtimes.com/assets/uploads/2023/07/19/id5408310-GettyImages-1175318267-205x123.jpg.webp)](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
+* [Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://www.theepochtimes.com/us/family-who-lost-daughter-to-fentanyl-fighting-to-protect-others-5729581)
+    
+    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    
+    [![Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://img.theepochtimes.com/assets/uploads/2024/01/23/id5571981-Matt-and-daughter-Alexandra-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/family-who-lost-daughter-to-fentanyl-fighting-to-protect-others-5729581)
+* [Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://www.theepochtimes.com/us/harris-trump-agree-to-separate-town-halls-hosted-by-univision-5729646)
+    
+    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726109-Trump-Harris-v2-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-trump-agree-to-separate-town-halls-hosted-by-univision-5729646)
+* [What Happens If the Electoral College Is Tied?](https://www.theepochtimes.com/us/what-happens-if-the-electoral-college-is-tied-5729360)
+    
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![What Happens If the Electoral College Is Tied?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What Happens If the Electoral College Is Tied?](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729720-GettyImages-1230128567-LS.jpg-205x123.webp)](https://www.theepochtimes.com/us/what-happens-if-the-electoral-college-is-tied-5729360)
+* [Russia Must Be Forced Into Peace, Zelenskyy Tells UN Security Council](https://www.theepochtimes.com/world/russia-must-be-forced-into-peace-zelenskyy-tells-un-security-council-5729291)
+    
+    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Russia Must Be Forced Into Peace, Zelenskyy Tells UN Security Council](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Russia Must Be Forced Into Peace, Zelenskyy Tells UN Security Council](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729688-GettyImages-2173438209-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-must-be-forced-into-peace-zelenskyy-tells-un-security-council-5729291)
 * [Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://www.theepochtimes.com/us/trump-briefed-on-specific-iran-threats-to-assassinate-him-campaign-5729643)
     
-    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
     [![Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729674-GettyImages-2173588733-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-briefed-on-specific-iran-threats-to-assassinate-him-campaign-5729643)
 * [Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://www.theepochtimes.com/us/congress-unanimously-passes-bill-to-increase-secret-service-protection-for-presidential-candidates-5729608)
     
-    3hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    8hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725322-09162024-DSC00799-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-unanimously-passes-bill-to-increase-secret-service-protection-for-presidential-candidates-5729608)
 * [Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://www.theepochtimes.com/us/biden-warns-of-ais-profound-risks-in-un-general-assembly-speech-5729543)
     
-    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    9hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729186-Biden-last-UN-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-warns-of-ais-profound-risks-in-un-general-assembly-speech-5729543)
 * [Ryan Routh Charged With Attempted Assassination of Trump](https://www.theepochtimes.com/us/prosecutors-charge-suspected-trump-gunman-with-attempted-assassination-5729571)
     
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Ryan Routh Charged With Attempted Assassination of Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Ryan Routh Charged With Attempted Assassination of Trump](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725255-Ryan-Wesley-Routh-in-Ukraine-2022KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/prosecutors-charge-suspected-trump-gunman-with-attempted-assassination-5729571)
-* [Israeli Forces Target Hezbollah Weapons Stored in Lebanese Homes](https://www.theepochtimes.com/world/israeli-forces-target-hezbollah-weapons-stored-in-lebanese-homes-5729458)
-    
-    6hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![Israeli Forces Target Hezbollah Weapons Stored in Lebanese Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Israeli Forces Target Hezbollah Weapons Stored in Lebanese Homes](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729072-Lebanon-strikes.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israeli-forces-target-hezbollah-weapons-stored-in-lebanese-homes-5729458)
-* [Trump Proposes ‘Manufacturing Ambassador’ to Travel Globe, Urge Companies to Return to US](https://www.theepochtimes.com/us/trump-proposes-manufacturing-ambassador-to-travel-globe-urge-companies-to-return-to-us-5729326)
-    
-    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump Proposes ‘Manufacturing Ambassador’ to Travel Globe, Urge Companies to Return to US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Proposes ‘Manufacturing Ambassador’ to Travel Globe, Urge Companies to Return to US](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729582-GettyImages-2174234183-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-proposes-manufacturing-ambassador-to-travel-globe-urge-companies-to-return-to-us-5729326)
-* [Day in Photos: Keynote Speeches, Global Protests, and Commemorations](https://www.theepochtimes.com/article/day-in-photos-keynote-speeches-global-protests-and-commemorations-5729100)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Keynote Speeches, Global Protests, and Commemorations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Keynote Speeches, Global Protests, and Commemorations](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729525-GettyImages-2173400939-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-keynote-speeches-global-protests-and-commemorations-5729100)
-* [Haitian Group Seeks Criminal Charges in Legal Filing Against Trump, Vance](https://www.theepochtimes.com/us/haitian-group-seeks-criminal-charges-in-legal-filing-against-trump-vance-5729347)
-    
-    6hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
-    
-    [![Haitian Group Seeks Criminal Charges in Legal Filing Against Trump, Vance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Haitian Group Seeks Criminal Charges in Legal Filing Against Trump, Vance](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725407-Springfield-Ohio-GettyImages-2171699260-205x123.jpg.webp)](https://www.theepochtimes.com/us/haitian-group-seeks-criminal-charges-in-legal-filing-against-trump-vance-5729347)
-* [Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://www.theepochtimes.com/us/caroline-ellison-sentenced-to-2-years-in-prison-for-role-in-ftx-fraud-scandal-5729462)
-    
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek) and [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://img.theepochtimes.com/assets/uploads/2024/09/id5729002-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/caroline-ellison-sentenced-to-2-years-in-prison-for-role-in-ftx-fraud-scandal-5729462)
-* [What Is Eco-Anxiety and Why Is It on the Rise?](https://www.theepochtimes.com/article/what-is-eco-anxiety-and-why-is-it-on-the-rise-5726037)
-    
-    7hr By [Katie Spence](https://www.theepochtimes.com/author/katie-spence)
-    
-    [![What Is Eco-Anxiety and Why Is It on the Rise?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![What Is Eco-Anxiety and Why Is It on the Rise?](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729384-Eco-Anxiety-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-is-eco-anxiety-and-why-is-it-on-the-rise-5726037)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
