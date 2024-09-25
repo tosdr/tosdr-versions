@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Left: Former President Donald Trump speaks during a break in his civil business fraud trial at New York Supreme Court, Wednesday, Oct. 25, 2023, in New York. (AP Photo: Seth Wenig). Right: Special counsel Jack Smith speaks to the media about an indictment of former President Donald Trump, Tuesday, Aug. 1, 2023, at an office of the Department of Justice in Washington. (AP Photo: J. Scott Applewhite.)](https://am24.mediaite.com/lc/cnt/uploads/2023/11/trump-smith-2-432x243.jpg)](https://lawandcrime.com/high-profile/the-incoherence-judge-in-jan-6-case-gives-jack-smith-permission-to-filed-oversized-brief-on-immunity-and-says-trumps-arguments-dont-make-any-sense/)
+1. [![George Vigil appears in a booking photo](https://am22.mediaite.com/lc/cnt/uploads/2024/09/George-Vigil-432x243.jpg)](https://lawandcrime.com/crime/wanted-to-make-a-sandwich-and-asked-where-the-hot-sauce-was-argument-over-condiment-bottle-kept-in-bedroom-leaves-one-man-dead-another-charged-with-murder/)
     
-    ### ['The incoherence': Judge in Jan. 6 case gives Jack Smith permission to filed 'oversized brief' on immunity and says Trump's arguments don't make any sense](https://lawandcrime.com/high-profile/the-incoherence-judge-in-jan-6-case-gives-jack-smith-permission-to-filed-oversized-brief-on-immunity-and-says-trumps-arguments-dont-make-any-sense/)
+    ### ['Wanted to make a sandwich and asked where the hot sauce was': Argument over condiment bottle kept in bedroom leaves one man dead and another charged with murder](https://lawandcrime.com/crime/wanted-to-make-a-sandwich-and-asked-where-the-hot-sauce-was-argument-over-condiment-bottle-kept-in-bedroom-leaves-one-man-dead-another-charged-with-murder/)
     
-2. [![Eliazar Cisneros](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Biden-bus-432x243.jpg)](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
-    
-    ### ['Trump Train' driver who hit into Biden-Harris campaign volunteer behind bus in 2020 and said 'I kind of saved Texas' found liable in KKK Act lawsuit](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
-    
-3. [![Donald Trump, JD Vance](https://am21.mediaite.com/lc/cnt/uploads/2024/09/AP24234763183231-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-files-criminal-affidavit-demanding-arrests-of-trump-and-jd-vance-for-making-false-alarms-with-harmful-lies-about-immigrants-eating-the-cats/)
-    
-    ### [Haitian group files criminal affidavit demanding arrests of Trump and JD Vance for 'making false alarms' with 'harmful lies' about immigrants 'eating the cats'](https://lawandcrime.com/high-profile/haitian-group-files-criminal-affidavit-demanding-arrests-of-trump-and-jd-vance-for-making-false-alarms-with-harmful-lies-about-immigrants-eating-the-cats/)
-    
-4. [![Stewart Rosenwasser](https://am23.mediaite.com/lc/cnt/uploads/2024/09/rosenwasser-432x243.jpg)](https://lawandcrime.com/high-profile/ex-judge-investigated-for-taking-bribes-to-prosecute-a-mans-sister-and-nephew-stunningly-dies-by-own-hand-just-before-fbi-can-arrest-him-for-several-crimes/)
+2. [![Stewart Rosenwasser](https://am23.mediaite.com/lc/cnt/uploads/2024/09/rosenwasser-432x243.jpg)](https://lawandcrime.com/high-profile/ex-judge-investigated-for-taking-bribes-to-prosecute-a-mans-sister-and-nephew-stunningly-dies-by-own-hand-just-before-fbi-can-arrest-him-for-several-crimes/)
     
     ### [Ex-judge investigated for taking bribes to prosecute a man's sister and nephew stunningly dies by own hand just before FBI can arrest him for several crimes](https://lawandcrime.com/high-profile/ex-judge-investigated-for-taking-bribes-to-prosecute-a-mans-sister-and-nephew-stunningly-dies-by-own-hand-just-before-fbi-can-arrest-him-for-several-crimes/)
     
-5. [![Danielle D. Dauphinais and Elijah Lewis (New Hampshire Department of Justice).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Danielle-D.-Dauphinais-and-Elijah-Lewis-432x243.png)](https://lawandcrime.com/crime/mother-who-said-she-wanted-5-year-old-gone-will-plead-guilty-to-murdering-him/)
+3. [![Top inset: Rakim Hasheem Allen (Owen Sweeney/Invision/AP, File). Bottom inset: Freddie Lee Trone (Los Angeles Police Department). Background: The restaurant where Allen was shot and killed. (KTLA)](https://am21.mediaite.com/lc/cnt/uploads/2024/09/lamurder-1-432x243.jpg)](https://lawandcrime.com/crime/i-just-cant-comprehend-it-father-who-ordered-teen-son-to-shoot-rapper-pnb-rock-for-his-jewelry-at-los-angeles-restaurant-in-front-of-his-4-year-old-daughter-learns-fate/)
     
-    ### [Mother who said she wanted 5-year-old 'gone' will plead guilty to murdering him](https://lawandcrime.com/crime/mother-who-said-she-wanted-5-year-old-gone-will-plead-guilty-to-murdering-him/)
+    ### ['I just can't comprehend it': Father who ordered teen son to shoot rapper 'PnB Rock' for his jewelry at Los Angeles restaurant in front of his 4-year-old daughter learns fate](https://lawandcrime.com/crime/i-just-cant-comprehend-it-father-who-ordered-teen-son-to-shoot-rapper-pnb-rock-for-his-jewelry-at-los-angeles-restaurant-in-front-of-his-4-year-old-daughter-learns-fate/)
+    
+4. [![Tricia Cavanaugh appears inset against an image of the house where her daughter died.](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Tricia-Cavanaugh-432x243.jpg)](https://lawandcrime.com/crime/not-so-sure-about-that-judge-chides-self-described-super-mom-who-repeatedly-ignored-advice-about-co-sleeping-with-infants-and-eventually-caused-her-baby-girls-death/)
+    
+    ### ['Not so sure about that': Judge chides self-described 'super mom' who repeatedly ignored advice about co-sleeping with infants and eventually caused her baby girl's death](https://lawandcrime.com/crime/not-so-sure-about-that-judge-chides-self-described-super-mom-who-repeatedly-ignored-advice-about-co-sleeping-with-infants-and-eventually-caused-her-baby-girls-death/)
+    
+5. [![Eliazar Cisneros](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Biden-bus-432x243.jpg)](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
+    
+    ### ['Trump Train' driver who hit into Biden-Harris campaign volunteer behind bus in 2020 and said 'I kind of saved Texas' found liable in KKK Act lawsuit](https://lawandcrime.com/lawsuit/trump-train-driver-who-hit-into-biden-harris-campaign-volunteer-behind-bus-in-2020-and-said-i-kind-of-saved-texas-found-liable-in-kkk-act-lawsuit/)
     
 
 [](http://eepurl.com/c89Jdb)
