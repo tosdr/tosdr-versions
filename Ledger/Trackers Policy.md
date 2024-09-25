@@ -346,7 +346,7 @@ About
 
 Legal
 
-[Legal Center](https://www.ledger.com/legal-center)[Sales Terms and Conditions](https://shop.ledger.com/pages/terms-and-conditions)[Privacy Policy](https://www.ledger.com/privacy-policy)[Disclaimers](https://shop.ledger.com/pages/disclaimers)
+[Legal Center](https://www.ledger.com/legal-center)[Sales Terms and Conditions](https://shop.ledger.com/pages/terms-and-conditions)[Privacy Policy](https://www.ledger.com/privacy-policy)[Cookie Policy](https://shop.ledger.com/pages/cookie-policy)[Disclaimers](https://shop.ledger.com/pages/disclaimers)
 
 Products
 
@@ -428,4 +428,5 @@ Legal
 * [Legal Center](https://www.ledger.com/legal-center)
 * [Sales Terms and Conditions](https://shop.ledger.com/pages/terms-and-conditions)
 * [Privacy Policy](https://www.ledger.com/privacy-policy)
+* [Cookie Policy](https://shop.ledger.com/pages/cookie-policy)
 * [Disclaimers](https://shop.ledger.com/pages/disclaimers)
