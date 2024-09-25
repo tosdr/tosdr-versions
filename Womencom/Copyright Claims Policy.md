@@ -41,18 +41,18 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-is-teaching-us-how-to-spot-friendship-red-flags/l-intro-1727127920.jpg)](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
+*  [![](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/l-intro-1727292734.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    [The Secret Lives Of Mormon Wives Is Teaching Us How To Spot Friendship Red Flags](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
-    ==================================================================================================================================================================================
+    [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+    ===========================================================================================================================================
     
-    The Hulu reality series has reminded us all that no friendship is perfect, but if you're not careful about setting boundaries, things can border on toxic.
+    Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
+    By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
     
 * *  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
@@ -66,33 +66,33 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
-    *  [![Amal Clooney](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/intro-1727189393.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+    *  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+        ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
         
-        Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
+        Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
         
-        By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+        By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
         
 
 More Stories
 ------------
 
-*  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+*  [![The Secret Lives of Mormon wives cast](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-is-teaching-us-how-to-spot-friendship-red-flags/intro-1727292658.jpg)](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
     
-    ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    ### [The Secret Lives Of Mormon Wives Is Teaching Us How To Spot Friendship Red Flags](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
-    Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
+    The Hulu reality series has reminded us all that no friendship is perfect, but if you're not careful about setting boundaries, things can border on toxic.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
 *  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
     
