@@ -398,11 +398,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [12 Best Microsoft Excel Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-excel-courses/)
-2. [8000+ OpenCourseWare Courses from Top Institutions](https://www.classcentral.com/report/ocw-courses/)
-3. [Udemy Faces Instructor Backlash Over Widespread Course Rating Glitch](https://www.classcentral.com/report/udemy-course-ratings-glitch/)
-4. [8 Best Adobe Illustrator Courses for Beginners for 2024](https://www.classcentral.com/report/best-adobe-illustrator-beginner-courses/)
-5. [7 Best Adobe Animate Courses for 2024: Master 2D Animation](https://www.classcentral.com/report/best-adobe-animate-courses/)
+1. [7 Best Genetics Courses for 2024](https://www.classcentral.com/report/best-genetics-courses/)
+2. [\[2024\] 1200+ Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
+3. [Learn Something New: 100 Most Popular Courses For October](https://www.classcentral.com/report/most-popular-october-2024/)
+4. [12 Best Microsoft Excel Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-excel-courses/)
+5. [8000+ OpenCourseWare Courses from Top Institutions](https://www.classcentral.com/report/ocw-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -413,38 +413,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. digital marketing
+1. java
     
-2. java
+2. hacking
     
-3. hacking
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Information Technology
-    
-    4,238 courses](https://www.classcentral.com/subject/information-technology)
-2. [Digital Marketing
-    
-    5,788 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Artificial Intelligence
+1. [Artificial Intelligence
     
     9,301 courses](https://www.classcentral.com/subject/ai)
+2. [Data Analysis
+    
+    7,645 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Python
+    
+    8,521 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Lean Production
+1. [Introduction to Cyber Security
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/manufacturing-technische-universitat-munchen-lean-8447)
-2. [Spatial Data Science: The New Frontier in Analytics
+    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
+2. [How to Write Your First Song
     
-    Esri](https://www.classcentral.com/course/independent-spatial-data-science-the-new-frontier-in-analytics-17227)
-3. [Medical Parasitology | 医学寄生虫学
+    The University of Sheffield](https://www.classcentral.com/course/songwriting-3369)
+3. [Machine Learning for Musicians and Artists
     
-    Tsinghua University](https://www.classcentral.com/course/medicine-tsinghua-university-medical-parasitology-19192)
+    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
