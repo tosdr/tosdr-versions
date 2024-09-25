@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/opnieuw-ernstige-twijfels-over-bmr-prik/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/appelazijn-de-onbekende-heilzame-krachtpatser/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
