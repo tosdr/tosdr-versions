@@ -11,7 +11,7 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-Last Updated: Feb 26, 2024
+Last Updated: Sep 25, 2024
 
 **Ente Technologies, Inc.** ("Ente," "we," "us," or "our") respects the privacy of its Users ("User," "your," or "you"). This Privacy Policy (the "Privacy Policy") explains how we collect, use, disclose, and safeguard your information when you use Ente's platform, websites or apps (together "Services"). This Privacy Policy is applicable to our Services offered for sale to the public.
 
@@ -123,7 +123,7 @@ We collect, use, disclose, and safeguard your biometric information when you use
 
 3. Why We Collect Biometric Information and our Legal basis to Process It. Before processing Biometric Information, Subscribers will be prompted to affirmatively consent to this Biometric Information Privacy Policy. Biometric Information is processed only after the Subscriber has explicitly provided us consent to do so. Our processing of Biometric Information is for the SOLE PURPOSE of allowing Subscribers to search and organize their photos and videos on Ente's Platform.
 
-4. Disclosure of Your Biometric Information. Other than to provide Subscribers with Ente's Services, **Ente will not sell, lease, trade, or otherwise profit from the Biometric Information that it collects.** Ente will not will disclose or disseminate Biometric Information for purposes other than to provide our services to you, unless (a) you or your legally authorized representative provides written consent to such disclosure; or (b) the disclosure is required pursuant to a valid warrant or subpoena issued by a court of competent jurisdiction.
+4. Disclosure of Your Biometric Information. Other than to provide Subscribers with Ente's Services, **Ente will not sell, lease, trade, or otherwise profit from the Biometric Information that it collects.** Ente will not disclose or disseminate Biometric Information for purposes other than to provide our services to you, unless (a) you or your legally authorized representative provides written consent to such disclosure; or (b) the disclosure is required pursuant to a valid warrant or subpoena issued by a court of competent jurisdiction.
 
 5. How We Store Your Biometric Information. Once captured, your Biometric Information is encrypted with your Keys and stored by Ente on its servers, in a secure manner. Ente shall use a reasonable standard of care to store, transmit, and protect from disclosure any Biometric Information collected. Such storage, transmission, and protection from disclosure shall be performed in a manner that is the same as or more protective than the manner in which Ente stores, transmits, and protects from disclosure other confidential and sensitive information, including personal information that can be used to uniquely identify an individual.
 
