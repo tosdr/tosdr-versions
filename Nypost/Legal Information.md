@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Diddy’s kids break silence after his sex crimes arrest — to speak about ‘horrific conspiracy theories’ about their late mom](https://nypost.com/2024/09/25/entertainment/sean-diddy-combs-kids-blast-rumors-about-late-mom-kim-porter/)
+[Trump says Iran has already made attempts on his life that ‘didn’t work out,’ he’s surrounded by ‘more guns’ than he’s ever seen](https://nypost.com/2024/09/25/us-news/trump-says-iran-has-already-made-attempts-on-his-life-that-didnt-work-out-hes-surrounded-by-more-guns-than-hes-ever-seen/)
 
 Privacy Notice Highlights
 =========================
