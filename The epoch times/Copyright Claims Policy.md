@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://www.theepochtimes.com/us/trump-briefed-on-specific-iran-threats-to-assassinate-him-campaign-5729643)
+    
+    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729674-GettyImages-2173588733-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-briefed-on-specific-iran-threats-to-assassinate-him-campaign-5729643)
+* [Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://www.theepochtimes.com/us/congress-unanimously-passes-bill-to-increase-secret-service-protection-for-presidential-candidates-5729608)
+    
+    3hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725322-09162024-DSC00799-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-unanimously-passes-bill-to-increase-secret-service-protection-for-presidential-candidates-5729608)
+* [Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://www.theepochtimes.com/us/biden-warns-of-ais-profound-risks-in-un-general-assembly-speech-5729543)
+    
+    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729186-Biden-last-UN-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-warns-of-ais-profound-risks-in-un-general-assembly-speech-5729543)
+* [Ryan Routh Charged With Attempted Assassination of Trump](https://www.theepochtimes.com/us/prosecutors-charge-suspected-trump-gunman-with-attempted-assassination-5729571)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Ryan Routh Charged With Attempted Assassination of Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Ryan Routh Charged With Attempted Assassination of Trump](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725255-Ryan-Wesley-Routh-in-Ukraine-2022KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/prosecutors-charge-suspected-trump-gunman-with-attempted-assassination-5729571)
+* [Israeli Forces Target Hezbollah Weapons Stored in Lebanese Homes](https://www.theepochtimes.com/world/israeli-forces-target-hezbollah-weapons-stored-in-lebanese-homes-5729458)
+    
+    6hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![Israeli Forces Target Hezbollah Weapons Stored in Lebanese Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israeli Forces Target Hezbollah Weapons Stored in Lebanese Homes](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729072-Lebanon-strikes.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israeli-forces-target-hezbollah-weapons-stored-in-lebanese-homes-5729458)
+* [Trump Proposes ‘Manufacturing Ambassador’ to Travel Globe, Urge Companies to Return to US](https://www.theepochtimes.com/us/trump-proposes-manufacturing-ambassador-to-travel-globe-urge-companies-to-return-to-us-5729326)
+    
+    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Proposes ‘Manufacturing Ambassador’ to Travel Globe, Urge Companies to Return to US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Proposes ‘Manufacturing Ambassador’ to Travel Globe, Urge Companies to Return to US](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729582-GettyImages-2174234183-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-proposes-manufacturing-ambassador-to-travel-globe-urge-companies-to-return-to-us-5729326)
+* [Day in Photos: Keynote Speeches, Global Protests, and Commemorations](https://www.theepochtimes.com/article/day-in-photos-keynote-speeches-global-protests-and-commemorations-5729100)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Keynote Speeches, Global Protests, and Commemorations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Keynote Speeches, Global Protests, and Commemorations](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729525-GettyImages-2173400939-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-keynote-speeches-global-protests-and-commemorations-5729100)
+* [Haitian Group Seeks Criminal Charges in Legal Filing Against Trump, Vance](https://www.theepochtimes.com/us/haitian-group-seeks-criminal-charges-in-legal-filing-against-trump-vance-5729347)
+    
+    6hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    
+    [![Haitian Group Seeks Criminal Charges in Legal Filing Against Trump, Vance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Haitian Group Seeks Criminal Charges in Legal Filing Against Trump, Vance](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725407-Springfield-Ohio-GettyImages-2171699260-205x123.jpg.webp)](https://www.theepochtimes.com/us/haitian-group-seeks-criminal-charges-in-legal-filing-against-trump-vance-5729347)
 * [Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://www.theepochtimes.com/us/caroline-ellison-sentenced-to-2-years-in-prison-for-role-in-ftx-fraud-scandal-5729462)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek) and [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek) and [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Caroline Ellison Sentenced to 2 Years in Prison for Role in FTX Fraud Scandal](https://img.theepochtimes.com/assets/uploads/2024/09/id5729002-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/caroline-ellison-sentenced-to-2-years-in-prison-for-role-in-ftx-fraud-scandal-5729462)
 * [What Is Eco-Anxiety and Why Is It on the Rise?](https://www.theepochtimes.com/article/what-is-eco-anxiety-and-why-is-it-on-the-rise-5726037)
     
-    NEW By [Katie Spence](https://www.theepochtimes.com/author/katie-spence)
+    7hr By [Katie Spence](https://www.theepochtimes.com/author/katie-spence)
     
     [![What Is Eco-Anxiety and Why Is It on the Rise?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![What Is Eco-Anxiety and Why Is It on the Rise?](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729384-Eco-Anxiety-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-is-eco-anxiety-and-why-is-it-on-the-rise-5726037)
-* [Pennsylvania County Must Update Voters on Mail-In Ballot Status: Court](https://www.theepochtimes.com/us/pennsylvania-county-must-update-voters-on-mail-in-ballot-status-court-5729369)
-    
-    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Pennsylvania County Must Update Voters on Mail-In Ballot Status: Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pennsylvania County Must Update Voters on Mail-In Ballot Status: Court](https://img.theepochtimes.com/assets/uploads/2022/06/12/ballot-GettyImages-1241059044-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-county-must-update-voters-on-mail-in-ballot-status-court-5729369)
-* [Nebraska Governor Ends Push for Winner-Take-All Electoral Vote System, Won’t Call Special Session](https://www.theepochtimes.com/us/nebraska-governor-ends-push-for-winner-take-all-electoral-vote-system-wont-call-special-session-5729332)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Nebraska Governor Ends Push for Winner-Take-All Electoral Vote System, Won’t Call Special Session](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Nebraska Governor Ends Push for Winner-Take-All Electoral Vote System, Won’t Call Special Session](https://img.theepochtimes.com/assets/uploads/2023/08/01/id5437858-Nebraska-Governor-Jim-Pillen-205x123.jpg.webp)](https://www.theepochtimes.com/us/nebraska-governor-ends-push-for-winner-take-all-electoral-vote-system-wont-call-special-session-5729332)
-* [House GOP Will Move to Hold Blinken in Contempt of Congress](https://www.theepochtimes.com/us/house-gop-will-move-to-hold-blinken-in-contempt-of-congress-5729207)
-    
-    2hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![House GOP Will Move to Hold Blinken in Contempt of Congress](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House GOP Will Move to Hold Blinken in Contempt of Congress](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729505-GettyImages-2173268290-Antony-Blinken.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-gop-will-move-to-hold-blinken-in-contempt-of-congress-5729207)
-* [Jack Smith Readies ‘Oversized’ Filing in Trump Election Case](https://www.theepochtimes.com/us/jack-smith-readies-oversized-filing-in-trump-election-case-5729351)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Jack Smith Readies ‘Oversized’ Filing in Trump Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Jack Smith Readies ‘Oversized’ Filing in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717134-Jack-Smith-Donald-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/jack-smith-readies-oversized-filing-in-trump-election-case-5729351)
-* [China Exploits US-Funded Research to Boost Military, Report Says](https://www.theepochtimes.com/china/china-exploits-us-funded-research-to-boost-military-report-says-5729215)
-    
-    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
-    
-    [![China Exploits US-Funded Research to Boost Military, Report Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![China Exploits US-Funded Research to Boost Military, Report Says](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729504-GettyImages-1257653132-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-exploits-us-funded-research-to-boost-military-report-says-5729215)
-* [DOJ Sues Visa Over Alleged Illegal Monopoly on Debit Transactions](https://www.theepochtimes.com/business/doj-sues-visa-over-alleged-illegal-monopoly-on-debit-transactions-5729382)
-    
-    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![DOJ Sues Visa Over Alleged Illegal Monopoly on Debit Transactions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Sues Visa Over Alleged Illegal Monopoly on Debit Transactions](https://img.theepochtimes.com/assets/uploads/2024/06/25/id5675284-Visa-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/doj-sues-visa-over-alleged-illegal-monopoly-on-debit-transactions-5729382)
-* [Brett Favre Announces Parkinson’s Diagnosis](https://www.theepochtimes.com/sports/brett-favre-announces-parkinsons-diagnosis-5729239)
-    
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Brett Favre Announces Parkinson’s Diagnosis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Brett Favre Announces Parkinson’s Diagnosis](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729263-Favre_Parkinson_s_24268581553948-205x123.jpg.webp)](https://www.theepochtimes.com/sports/brett-favre-announces-parkinsons-diagnosis-5729239)
-* [China Unveils Sweeping Stimulus Plan Amid Faltering Economy](https://www.theepochtimes.com/china/china-unveils-sweeping-stimulus-plan-amid-faltering-economy-5729149)
-    
-    3hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![China Unveils Sweeping Stimulus Plan Amid Faltering Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![China Unveils Sweeping Stimulus Plan Amid Faltering Economy](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5706888-GettyImages-1252078065-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-unveils-sweeping-stimulus-plan-amid-faltering-economy-5729149)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
