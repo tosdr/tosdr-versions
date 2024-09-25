@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Nice extension!
+I like your service. I converted to an yearly subscription.
 
-Eric W
+Ken
