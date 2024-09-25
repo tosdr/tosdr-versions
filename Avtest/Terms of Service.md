@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [Ransomware and info stealers: 17 security solutions in the ATP test](https://www.av-test.org/en/news/ransomware-and-info-stealers-17-security-solutions-in-the-atp-test/ "Ransomware and info stealers: 17 security solutions in the ATP test") [](https://www.av-test.org/en/news/ransomware-and-info-stealers-17-security-solutions-in-the-atp-test/ "Ransomware and info stealers: 17 security solutions in the ATP test")
+    * [ATP endurance test: 31 security products for 6 months in the advanced...](https://www.av-test.org/en/news/atp-endurance-test-31-security-products-for-6-months-in-the-advanced-windows-10-test/ "ATP endurance test: 31 security products for 6 months in the advanced Windows 10 test") [](https://www.av-test.org/en/news/atp-endurance-test-31-security-products-for-6-months-in-the-advanced-windows-10-test/ "ATP endurance test: 31 security products for 6 months in the advanced Windows 10 test")
+        
+        [Ransomware and info stealers: 17 security solutions in the ATP test](https://www.av-test.org/en/news/ransomware-and-info-stealers-17-security-solutions-in-the-atp-test/ "Ransomware and info stealers: 17 security solutions in the ATP test") [](https://www.av-test.org/en/news/ransomware-and-info-stealers-17-security-solutions-in-the-atp-test/ "Ransomware and info stealers: 17 security solutions in the ATP test")
         
         [Advanced EDR test 2024: Bitdefender Endpoint Security](https://www.av-test.org/en/news/advanced-edr-test-2024-bitdefender-endpoint-security/ "Advanced EDR test 2024: Bitdefender Endpoint Security") [](https://www.av-test.org/en/news/advanced-edr-test-2024-bitdefender-endpoint-security/ "Advanced EDR test 2024: Bitdefender Endpoint Security")
         
         [Advanced EDR test 2024: Seqrite XDR](https://www.av-test.org/en/news/advanced-edr-test-2024-seqrite-xdr/ "Advanced EDR test 2024: Seqrite XDR") [](https://www.av-test.org/en/news/advanced-edr-test-2024-seqrite-xdr/ "Advanced EDR test 2024: Seqrite XDR")
-        
-        [Endurance Test: Always Use the Best Security App for Android!](https://www.av-test.org/en/news/endurance-test-always-use-the-best-security-app-for-android/ "Endurance Test: Always Use the Best Security App for Android!") [](https://www.av-test.org/en/news/endurance-test-always-use-the-best-security-app-for-android/ "Endurance Test: Always Use the Best Security App for Android!")
         
     * News by category
         
