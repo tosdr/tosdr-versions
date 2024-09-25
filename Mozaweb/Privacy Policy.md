@@ -1,6 +1,6 @@
 Your cart is empty
 
-HUF EUR USD
+CHF CNY CZK EUR GBP JPY PLN USD HUF
 
 Quantity:  
 **0**
@@ -61,7 +61,7 @@ Search
     
     Your cart is empty
     
-    HUF EUR USD
+    CHF CNY CZK EUR GBP JPY PLN USD HUF
     
     Quantity:  
     **0**
@@ -123,7 +123,7 @@ Search
     
     Your cart is empty
     
-    HUF EUR USD
+    CHF CNY CZK EUR GBP JPY PLN USD HUF
     
     Quantity:  
     **0**
