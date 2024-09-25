@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/105dc798-28bf-4b2d-a57b-0aab2c173d2f/20240925T195214/105dc798-28bf-4b2d-a57b-0aab2c173d2f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/105dc798-28bf-4b2d-a57b-0aab2c173d2f/20240925T195214/105dc798-28bf-4b2d-a57b-0aab2c173d2f_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-police-arrest-five-teens-running-stolen-vehicles-bodycam/281-063c761d-83aa-48ac-a3bb-1745bf7e348b)
+        
+        #### [Five teens between 13 and 15 arrested after running from stolen vehicles, police say](https://www.king5.com/article/news/crime/seattle-police-arrest-five-teens-running-stolen-vehicles-bodycam/281-063c761d-83aa-48ac-a3bb-1745bf7e348b)
+        
     *  [![](https://media.king5.com/assets/KING/images/8850a9b5-5ba2-4378-bb99-769b42f75f2d/20240925T061658/8850a9b5-5ba2-4378-bb99-769b42f75f2d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8850a9b5-5ba2-4378-bb99-769b42f75f2d/20240925T061658/8850a9b5-5ba2-4378-bb99-769b42f75f2d_360x203.jpg)](https://www.king5.com/article/news/local/macklemore-faces-backlash-f-america-comment-pro-palestinian-benefit-show/281-52d04c34-c9c5-4e19-9819-1f0fe39a8265)
         
-        #### [Seattle sports teams 'evaluating' ties with rapper Macklemore after 'f\*\*\* America' comment](https://www.king5.com/article/news/local/macklemore-faces-backlash-f-america-comment-pro-palestinian-benefit-show/281-52d04c34-c9c5-4e19-9819-1f0fe39a8265)
-        
-    *  [![](https://media.king5.com/assets/KING/images/af718df9-4e94-4046-b3d8-264323c9e280/20240924T193615/af718df9-4e94-4046-b3d8-264323c9e280_16x9.jpg) ![](https://media.king5.com/assets/KING/images/af718df9-4e94-4046-b3d8-264323c9e280/20240924T193615/af718df9-4e94-4046-b3d8-264323c9e280_360x203.jpg)](https://www.king5.com/article/news/crime/burglaries-occupied-homes-north-bend/281-265f0921-4fe2-4465-9153-18fb35692813)
-        
-        #### [Burglaries of occupied homes in North Bend under police investigation](https://www.king5.com/article/news/crime/burglaries-occupied-homes-north-bend/281-265f0921-4fe2-4465-9153-18fb35692813)
+        #### [Macklemore responds after Seattle sports teams evaluate ties to rapper following ‘f---’ America comment](https://www.king5.com/article/news/local/macklemore-faces-backlash-f-america-comment-pro-palestinian-benefit-show/281-52d04c34-c9c5-4e19-9819-1f0fe39a8265)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/37fc8205-b890-40a6-b2a5-0d146e5c74f8/20240925T120051/37fc8205-b890-40a6-b2a5-0d146e5c74f8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/37fc8205-b890-40a6-b2a5-0d146e5c74f8/20240925T120051/37fc8205-b890-40a6-b2a5-0d146e5c74f8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/49db712e-333a-479e-9dfb-eef90d6263f7/20240925T192526/49db712e-333a-479e-9dfb-eef90d6263f7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/49db712e-333a-479e-9dfb-eef90d6263f7/20240925T192526/49db712e-333a-479e-9dfb-eef90d6263f7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+64°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
