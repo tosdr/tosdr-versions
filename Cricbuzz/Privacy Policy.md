@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/76563/aus-vs-eng-3rd-odi-australia-tour-of-england-2024 "Australia v England, 3rd ODI - ENG Won")[SLK vs TKR - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92910/slk-vs-tkr-26th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Trinbago Knight Riders, 26th Match - SLK Won")[CTSA vs JBT - JBT Won](https://www.cricbuzz.com/live-cricket-scores/106788/ctsa-vs-jbt-12th-match-zim-afro-t10-2024 "Cape Town Samp Army v Joburg Bangla Tigers, 12th Match - JBT Won")[USA vs UAE - USA Won](https://www.cricbuzz.com/live-cricket-scores/106988/usa-vs-uae-33rd-match-icc-cricket-world-cup-league-two-2023-27 "United States v United Arab Emirates, 33rd Match - USA Won")[NZW vs AUSW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/91841/nzw-vs-ausw-3rd-t20i-new-zealand-women-tour-of-australia-2024 "New Zealand Women v Australia Women, 3rd T20I - AUSW Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/76563/aus-vs-eng-3rd-odi-australia-tour-of-england-2024 "Australia v England, 3rd ODI - ENG Won")[GAW vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92914/gaw-vs-br-27th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Barbados Royals, 27th Match - Preview")[CTSA vs JBT - JBT Won](https://www.cricbuzz.com/live-cricket-scores/106788/ctsa-vs-jbt-12th-match-zim-afro-t10-2024 "Cape Town Samp Army v Joburg Bangla Tigers, 12th Match - JBT Won")[USA vs UAE - USA Won](https://www.cricbuzz.com/live-cricket-scores/106988/usa-vs-uae-33rd-match-icc-cricket-world-cup-league-two-2023-27 "United States v United Arab Emirates, 33rd Match - USA Won")[NZW vs AUSW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/91841/nzw-vs-ausw-3rd-t20i-new-zealand-women-tour-of-australia-2024 "New Zealand Women v Australia Women, 3rd T20I - AUSW Won")
 
 AllLive NowToday
 
@@ -59,6 +59,10 @@ AllLive NowToday
     [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100220/ind-vs-ban-1st-test-bangladesh-v-india-2024 "India v Bangladesh, 1st Test - IND Won")
     
     1st Test
+    
+* [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100229/ind-vs-ban-2nd-test-bangladesh-v-india-2024 "India v Bangladesh, 2nd Test - Upcoming")
+    
+    2nd Test
     
 * England v Australia, 2024
     
@@ -78,7 +82,7 @@ AllLive NowToday
     
 * T20I Tri-Series in South Korea
     
-    [Indonesia vs Japan](https://www.cricbuzz.com/live-cricket-scores/107771/idn-vs-jpn-1st-match-t20i-tri-series-in-south-korea "Indonesia v Japan, 1st Match - Upcoming")
+    [Japan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/107771/jpn-vs-idn-1st-match-t20i-tri-series-in-south-korea "Japan v Indonesia, 1st Match - JPN Won")
     
     1st Match
     
@@ -126,13 +130,13 @@ AllLive NowToday
     
     11th Match
     
-* [Cameroon vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106251/cam-vs-lso-14th-match-icc-mens-ar-t20wcqa "Cameroon v Lesotho, 14th Match - Upcoming")
-    
-    14th Match
-    
 * [Mali vs Ghana](https://www.cricbuzz.com/live-cricket-scores/106243/mali-vs-gh-13th-match-icc-mens-ar-t20wcqa "Mali v Ghana, 13th Match - Upcoming")
     
     13th Match
+    
+* [Cameroon vs Lesotho](https://www.cricbuzz.com/live-cricket-scores/106251/cam-vs-lso-14th-match-icc-mens-ar-t20wcqa "Cameroon v Lesotho, 14th Match - Upcoming")
+    
+    14th Match
     
 * [Tanzania vs Malawi](https://www.cricbuzz.com/live-cricket-scores/106259/tan-vs-mwi-15th-match-icc-mens-ar-t20wcqa "Tanzania v Malawi, 15th Match - Upcoming")
     
@@ -142,15 +146,11 @@ AllLive NowToday
     
     CPL 2024
     
-    [St Kitts and Nevis Patriots vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92905/snp-vs-tkr-25th-match-cpl-2024 "St Kitts and Nevis Patriots v Trinbago Knight Riders, 25th Match - TKR Won")
-    
-    25th Match
-    
-* [Saint Lucia Kings vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92910/slk-vs-tkr-26th-match-cpl-2024 "Saint Lucia Kings v Trinbago Knight Riders, 26th Match - SLK Won")
+    [Saint Lucia Kings vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92910/slk-vs-tkr-26th-match-cpl-2024 "Saint Lucia Kings v Trinbago Knight Riders, 26th Match - SLK Won")
     
     26th Match
     
-* [Guyana Amazon Warriors vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92914/gaw-vs-br-27th-match-cpl-2024 "Guyana Amazon Warriors v Barbados Royals, 27th Match - Upcoming")
+* [Guyana Amazon Warriors vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92914/gaw-vs-br-27th-match-cpl-2024 "Guyana Amazon Warriors v Barbados Royals, 27th Match - Preview")
     
     27th Match
     
@@ -236,15 +236,7 @@ AllLive NowToday
     
     County Division 1
     
-    [Worcestershire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84537/worcs-vs-lancs-70th-match-county-division-1 "Worcestershire v Lancashire, 70th Match - Upcoming")
-    
-    70th Match
-    
-* [Somerset vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84530/som-vs-ham-69th-match-county-division-1 "Somerset v Hampshire, 69th Match - Upcoming")
-    
-    69th Match
-    
-* [Nottinghamshire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84527/notts-vs-warks-68th-match-county-division-1 "Nottinghamshire v Warwickshire, 68th Match - Upcoming")
+    [Nottinghamshire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84527/notts-vs-warks-68th-match-county-division-1 "Nottinghamshire v Warwickshire, 68th Match - Upcoming")
     
     68th Match
     
@@ -256,6 +248,14 @@ AllLive NowToday
     
     66th Match
     
+* [Worcestershire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84537/worcs-vs-lancs-70th-match-county-division-1 "Worcestershire v Lancashire, 70th Match - Upcoming")
+    
+    70th Match
+    
+* [Somerset vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84530/som-vs-ham-69th-match-county-division-1 "Somerset v Hampshire, 69th Match - Upcoming")
+    
+    69th Match
+    
 * Australia Domestic One-Day Cup 2024-25
     
     [Tasmania vs Victoria](https://www.cricbuzz.com/live-cricket-scores/103114/tas-vs-vic-2nd-match-australia-domestic-one-day-cup-2024-25 "Tasmania v Victoria, 2nd Match - VIC Won")
@@ -266,11 +266,11 @@ AllLive NowToday
     
     3rd Match
     
-* [Tasmania vs Queensland](https://www.cricbuzz.com/live-cricket-scores/103132/tas-vs-ql-4th-match-australia-domestic-one-day-cup-2024-25 "Tasmania v Queensland, 4th Match - Delay")
+* [Queensland vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/103132/ql-vs-tas-4th-match-australia-domestic-one-day-cup-2024-25 "Queensland v Tasmania, 4th Match - No Result")
     
     4th Match
     
-* [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/103141/nsw-vs-saus-5th-match-australia-domestic-one-day-cup-2024-25 "New South Wales v South Australia, 5th Match - Upcoming")
+* [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/103141/nsw-vs-saus-5th-match-australia-domestic-one-day-cup-2024-25 "New South Wales v South Australia, 5th Match - Preview")
     
     5th Match
     
@@ -290,21 +290,21 @@ AllLive NowToday
     
 * County Division 2
     
-    [Leicestershire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85549/leic-vs-derby-54th-match-county-division-2 "Leicestershire v Derbyshire, 54th Match - Upcoming")
-    
-    54th Match
-    
-* [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85542/glam-vs-gloucs-53rd-match-county-division-2 "Glamorgan v Gloucestershire, 53rd Match - Upcoming")
-    
-    53rd Match
-    
-* [Yorkshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85556/yorks-vs-nhnts-56th-match-county-division-2 "Yorkshire v Northamptonshire, 56th Match - Upcoming")
+    [Yorkshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85556/yorks-vs-nhnts-56th-match-county-division-2 "Yorkshire v Northamptonshire, 56th Match - Upcoming")
     
     56th Match
     
 * [Sussex vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85552/sus-vs-mdx-55th-match-county-division-2 "Sussex v Middlesex, 55th Match - Upcoming")
     
     55th Match
+    
+* [Leicestershire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85549/leic-vs-derby-54th-match-county-division-2 "Leicestershire v Derbyshire, 54th Match - Upcoming")
+    
+    54th Match
+    
+* [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85542/glam-vs-gloucs-53rd-match-county-division-2 "Glamorgan v Gloucestershire, 53rd Match - Upcoming")
+    
+    53rd Match
     
 * ENG Domestic One-Day Cup
     
@@ -649,37 +649,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Harry Brook slams maiden ODI ton to keep series alive](https://www.cricbuzz.com/cricket-news/131737/harry-brook-slams-maiden-odi-ton-to-keep-series-alive "Harry Brook slams maiden ODI ton to keep series alive")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131736/charles-blitzkrieg-helps-saint-lucia-kings-solidify-top-spot "Charles blitzkrieg helps Saint Lucia Kings solidify top spot")
 
 [Charles blitzkrieg helps Saint Lucia Kings solidify top spot](https://www.cricbuzz.com/cricket-news/131736/charles-blitzkrieg-helps-saint-lucia-kings-solidify-top-spot "Charles blitzkrieg helps Saint Lucia Kings solidify top spot")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131735/noman-ali-included-in-pakistan-squad-for-1st-test-vs-england "Pakistan pick Noman Ali, Aamer Jamal for first Test vs England")
 
 [Pakistan pick Noman Ali, Aamer Jamal for first Test vs England](https://www.cricbuzz.com/cricket-news/131735/noman-ali-included-in-pakistan-squad-for-1st-test-vs-england "Pakistan pick Noman Ali, Aamer Jamal for first Test vs England")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/131734/iccs-equal-prize-money-decision-a-motivating-factor-nigar-sultana "ICC's equal prize money decision a motivating factor - Nigar Sultana")
 
 [ICC's equal prize money decision a motivating factor - Nigar Sultana](https://www.cricbuzz.com/cricket-news/131734/iccs-equal-prize-money-decision-a-motivating-factor-nigar-sultana "ICC's equal prize money decision a motivating factor - Nigar Sultana")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/131733/india-sharpened-focus-on-fielding-fitness-for-t20-world-cup-say-harmanpreet-and-muzumdar "India sharpened focus on fielding, fitness for T20 World Cup, say Harmanpreet and Muzumdar")
 
 [India sharpened focus on fielding, fitness for T20 World Cup, say Harmanpreet and Muzumdar](https://www.cricbuzz.com/cricket-news/131733/india-sharpened-focus-on-fielding-fitness-for-t20-world-cup-say-harmanpreet-and-muzumdar "India sharpened focus on fielding, fitness for T20 World Cup, say Harmanpreet and Muzumdar")
 
-9h ago
+15h ago
 
   [](https://www.cricbuzz.com/cricket-news/131732/death-over-blitz-takes-australia-to-3047 "Death-over blitz takes Australia to 304/7")
 
 [Death-over blitz takes Australia to 304/7](https://www.cricbuzz.com/cricket-news/131732/death-over-blitz-takes-australia-to-3047 "Death-over blitz takes Australia to 304/7")
 
-9h ago
+15h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
