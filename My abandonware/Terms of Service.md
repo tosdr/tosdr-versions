@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [ESWAT: Cyber Police](https://www.myabandonware.com/game/eswat-cyber-police-61j)
+* [Fighter's History Dynamite](https://www.myabandonware.com/game/fighter-s-history-dynamite-jxz)
 * [Espial](https://www.myabandonware.com/game/espial-4xp)
 * [Dragon World](https://www.myabandonware.com/game/dragon-world-si0)
 * [Draco](https://www.myabandonware.com/game/draco-shz)
-* [Double Play](https://www.myabandonware.com/game/double-play-shy)
-* [Dominos](https://www.myabandonware.com/game/dominos-shx)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
