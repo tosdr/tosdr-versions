@@ -51,6 +51,7 @@ Main navigation
             * [ITAM](https://www.flexera.com/products/flexera-one/it-asset-management)
             * [SaaS Management](https://www.flexera.com/products/flexera-one/saas-management)
             * [FinOps](https://www.flexera.com/products/flexera-one/finops)
+            * [Technology Intelligence Platform](https://www.flexera.com/products/flexera-one/technology-intelligence-platform)
     * Column 2
         * [Snow Atlas](https://www.flexera.com/products/snow-atlas)
             * [Snow Spend Optimizer](https://www.flexera.com/products/snow-atlas/snow-spend-optimizer)
