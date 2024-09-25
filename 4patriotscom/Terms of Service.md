@@ -74,7 +74,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Meat Medley Jumbo Meat - Jumbo Can
         
-        40 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        41 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
@@ -138,7 +138,7 @@ We Champion Freedom & Self-Reliance
         
         ###### HaloXT Tactical 9-in-1 Solar Flashlight
         
-        585 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+        587 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
         
     
 * [Water](https://4patriots.com/collections/water)
@@ -167,7 +167,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        55 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        56 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -257,11 +257,11 @@ We Champion Freedom & Self-Reliance
         
         2248 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
         
-        [![ 4Patriots Black bean burger mix kit individual pouches. 96 servings.](//4patriots.com/cdn/shop/products/ARRAY-BBB1-KIT_360x.jpg?v=1664803105)
+        [![ Portable solar generator set with foldable panels and power station, branded 4Patriots.](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
         
-        ###### Black Bean Burger Mix Case Pack
+        ###### "Supercharge" Patriot Power Generator 1800 + Sidekick Package
         
-        27 reviews](https://4patriots.com/products/black-bean-burger-mix-kit)
+        689 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
         
     
 * [Learn](https://4patriots.com/blogs/news)
