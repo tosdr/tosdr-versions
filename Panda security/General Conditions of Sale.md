@@ -184,32 +184,6 @@ Only available for 48 hours!
 
 : :
 
-Email 
-
-Customer ID 
-
-Renew at a discount
-
-Special offer: Renew and get 50% off
-
-![image]( /rfilescms/Teaser/RET/ojos.gif)
-
-Only available for 48 hours!
-
-: :
-
-Email 
-
-Customer ID 
-
-Renew at a discount
-
-Special offer: Renew and get 50% off
-
-![image](/rfilescms/Teaser/RET/teaser_rnw_misterysale.png)
-
-Only available for 48 hours!
-
 : :
 
 Email 
@@ -221,22 +195,6 @@ Renew at a discount
 Special offer: Renew and get 60% off
 
 ![image](/rfilescms/Teaser/RET/pandasecurity_teaser_modal_back_to_security_desktop.webp)
-
-Only available for 48 hours!
-
-: :
-
-: :
-
-Email 
-
-Customer ID 
-
-Renew at a discount
-
-Special offer: Renew and get 50% off
-
-![image](/rfilescms/Teaser/RET/pandasecurity_paid_sales_teaser_b.webp)
 
 Only available for 48 hours!
 
