@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Understanding Palliative In-Home Care](https://www.visitingangels.com/knowledge-center/care-options/understanding-palliative-in-home-care/107)
+[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
 
-[Find Comfort for Seniors with Palliative Care Services](https://www.visitingangels.com/knowledge-center/care-options/find-comfort-for-seniors-with-palliative-care-services/515)
+[When the Elderly Need Help, Who is Their "Natural Caregiver?”](https://www.visitingangels.com/knowledge-center/care-options/when-the-elderly-need-help-who-is-their-natural-caregiver/406)
 
-[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
+[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
 
-[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
+[Finding the Brighter Side of Elderly Care](https://www.visitingangels.com/knowledge-center/why-in-home-care/finding-the-brighter-side-of-elderly-care/472)
 
-[Why Caring for a Parent Who Has Dementia is the Ultimate Challenge](https://www.visitingangels.com/knowledge-center/selecting-care/why-caring-for-a-parent-who-has-dementia-is-the-ultimate-challenge/322)
+[What Skills Matter Most for Personal Care?](https://www.visitingangels.com/knowledge-center/care-options/what-skills-matter-most-for-personal-care/467)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
