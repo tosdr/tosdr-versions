@@ -101,13 +101,13 @@ Explore
 
 [Events](https://www.chili-publish.com/events/)
 
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAALCAYAAAB7/H1+AAAAAXNSR0IArs4c6QAAAfZJREFUKFNdk71uE0EUhb87HuOsyZ8lYyHLQoiCgjZNOjrIK1BR8xq8AiUlNSVvgARCQogCIUWiQEThJxEBEja7Oz8XzYyNnRRHM6PVnnPmnDvy+uq9n14YOYElFGeW51agNiAC4wiTCJtBsEAj8Nsq3yx8TqsBhRNbRUZeoH+BWHBaBBoDQ2CnFm7UwiZgNP9MJwWtCK2B075yWCkfKkZ2LQpelERuLwm0RpidKredsk5NHG/jjx0OcEboTLlNFjBktUktbDRg1xQ8gk/rikDCrXNhNqtgtoE+foS+/4Q+eY4/87hjnwlX4yvukyGwg1hIvCwFnFGmNVyfXiE+2CWOR/SmM/hzhj68Szj4Tvf0Lc72lp3MBfItEnFfoQf0tAikj1tOmIgQDlvis1foQUPc/0K8c5P2xRuadyc4TCmYZdGJsOSuyKm5rwEIUiDAthcMgbh7Dd3bgWpA+HpE9+MXbjjI5dYv92k/ntFVy6xT0Y0phVs7dxwSFCpNpBARNETUebRn8KMtwvoQ//ecYC3OSnErUrLNEZScE6RjT1WUmOOQLJL2aiDGQKTBEWgxdBnQoXRmLbvNZV1ymx0nIp27nE9MRlRFxeBlWIpZeTCp3FzUfJYXbv+LpKmCkmtCJkyraN6nSVk0feFVrsxuJp2P2uKcHP8DKa0mw5duaGEAAAAASUVORK5CYII=)
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAKCAMAAACHfl7pAAAAAXNSR0IArs4c6QAAAm1QTFRFlJSzAACdhYWKAABrAAAYAAAdfn6DlpaZBwcsAAApHx86AAAqCAhMIiJaAQApTEx0CAhFBgUwCQk/Cgo6Cgo1AQFLLTRIExNWMjpOBARSAABCUFB8fX2SAAA7WVtlAAo0AABuHR8yXF1nAAAteXl/iYmOMDdLAAA0AABkJCRUBAQsdHR6jIyQAABbfX2DYWNshoaLZ2duf3+Eg4OHNDREioqPLi4/WlxlhISIUFBnAgKUhISJAABRAAB5g4ObAACTUFCDICE7AwNSAQGMhYWgRkiIUFBkAABZAACGenp/b294MDhLNjZFcnN6U1NjU1NfAgKCeXufd3d9iIiMOhmFAACSg4OIAABhAAB4Jy9FERGYa2+nY2VtAAAgKzNHZxeKIyQ5AACLZC1/MzNDly56AAB3AAB9PD+hAAAIOztfAwN3BARuBQZkAgCIgoKOBgZcAACHCAhUa2t5hYWLQD9MmpqeAACCg4OLlpacAABJAAB8R0dTiIiOHh01DgB7GRlKAABzXzZ0CZmKAABghYWOAABPAAYrAAAlR0hVAABFmZmei4uSZ6mNAAA8TLOccEZwEBQ6YLelj7GscKuKiEllcQY3AAAnAAUqQkRUR0tbSU1dRTaWRjWdcmHRRa6aU4yIk09a8pM3RTakdWXRlleJ8aN0pWlBhnnFk2pH/5Qp3oZo/5082JZdolhb9KFxP4SBq2tEmV1H7optUEKMemrTQTSQFAAsGR85iIDJ4BtVfAA0QBloTESOioHIcm3WgzJyTRo7qD5f6SBZTkaOukSZ9UluuzujpUpkOwAtplBr9ABESEaRdnXI8l578192c8CNlAAAAM90Uk5T7v///////+7/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9NiGpAAAAPFJREFUCFsB5gAZ/wAHaAkJCQ4LERQTEhAMGTxHVwNlZlgAAF1eWUsmFhgfIycdGhUNHD5EUWJkW2EAYFxNNx4iL0pPTkY5KRcPG0BFVF9nWgBjSTs1JQJSc3h3cm5pQi0oID1IVQEBAEw4MywyBnV8iouEf3lxb2xralBDPzoANjEGMFZ0e4iYmpmQjYmFgwOAenZwbQA0Ky5TAn2HlrbIu7WbnKKkraCUj4F+ACoFBQQEhpW5wsrGvrSdo7KrqaGTjIIABAgICAiXusXNzsTMvbinqqWurJ6RjgAkIUEKCrfAwcnHv8vDvLOxprCor5+S9vtTl6qQhKoAAAAASUVORK5CYII=)
 
-![](https://www.datocms-assets.com/11099/1678827170-general-3x.png?auto=format&corner-radius=6%2C6%2C0%2C0&mask=corners&w=270)
+![](https://www.datocms-assets.com/11099/1727247437-banner-1-1.png?auto=format&corner-radius=6%2C6%2C0%2C0&mask=corners&w=270)
 
-Tune in to CHILIpulse, your go-to channel for the latest CHILI GraFx updates. Pick up new tips and tricks, get direct access to our product organization, and use CHILI GraFx to drive ever more value for your design team.
+Explore how automation, AI, and personalization are transforming creative workflows. Our 2025 Brandwidth Report reveals insights from 400 industry leaders across retail and marketing.
 
-Listen Now](https://www.chili-publish.com/chilipulse/)
+Read Brandwidth 2025 Report](https://www.chili-publish.com/research/brandwith-2024/unlock/)
 
 Company
 
@@ -261,15 +261,15 @@ For specific services, apps or events, we may collect other types of data and us
     
     Would you like to view or improve your data?
     
-    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#x70;&#114;&#105;&#118;&#x61;&#x63;&#121;&#x40;&#99;&#x68;&#105;&#x6c;&#x69;&#45;&#112;&#x75;&#x62;&#x6c;&#105;&#115;&#104;&#46;&#99;&#111;&#x6d;)
+    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#112;&#x72;&#105;&#118;&#x61;&#99;&#121;&#64;&#x63;&#x68;&#105;&#x6c;&#x69;&#x2d;&#x70;&#117;&#98;&#108;&#x69;&#115;&#x68;&#46;&#99;&#x6f;&#x6d;)
     
     Would you like to unsubscribe from the CHILI publish newsletter?
     
     This is possible using the link at the bottom of each mail or via this preference page.
     
-    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#x70;&#114;&#x69;&#118;&#x61;&#x63;&#121;&#64;&#99;&#104;&#x69;&#x6c;&#x69;&#45;&#112;&#x75;&#x62;&#108;&#x69;&#115;&#x68;&#x2e;&#99;&#x6f;&#x6d;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
+    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#112;&#114;&#x69;&#x76;&#x61;&#99;&#121;&#64;&#99;&#x68;&#105;&#x6c;&#105;&#x2d;&#x70;&#x75;&#98;&#x6c;&#x69;&#115;&#x68;&#46;&#x63;&#x6f;&#x6d;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
     
-    You can also contact us via [privacy@chili-publish.com](mailto:&#112;&#x72;&#105;&#x76;&#x61;&#99;&#121;&#x40;&#x63;&#104;&#105;&#108;&#x69;&#x2d;&#112;&#117;&#98;&#x6c;&#x69;&#x73;&#104;&#46;&#99;&#111;&#x6d;) if you have any questions, comments or complaints concerning this privacy statement.
+    You can also contact us via [privacy@chili-publish.com](mailto:&#x70;&#x72;&#x69;&#118;&#x61;&#99;&#121;&#x40;&#99;&#x68;&#105;&#x6c;&#x69;&#45;&#112;&#117;&#x62;&#x6c;&#105;&#x73;&#104;&#46;&#99;&#x6f;&#109;) if you have any questions, comments or complaints concerning this privacy statement.
     
 8. How will this privacy statement be maintained?
     
