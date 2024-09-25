@@ -488,8 +488,6 @@ Resources
             
         * [Domain Name Transfers](https://www.icann.org/resources/pages/transfers-2012-02-25-en)
             
-            * [Domain Name Holder FAQs](https://www.icann.org/resources/pages/name-holder-faqs-2012-02-25-en)
-                
             * [Inter-Registrar Transfer Information](https://www.icann.org/resources/pages/text-2012-02-25-en)
                 
             * [Policy](https://www.icann.org/resources/pages/transfer-policy-2024-02-21-en)
