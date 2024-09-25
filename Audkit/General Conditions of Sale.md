@@ -17,7 +17,7 @@
         Apple Music ConverterConvert Apple Music to MP3](https://www.audkit.com/apple-music-converter.html)
     
 * [Resource](https://www.audkit.com/resource/)
-* [Download](https://www.audkit.com/download.html)
+* [Download Center](https://www.audkit.com/download.html)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202048%20500'%3E%3C/svg%3E)
 
@@ -106,7 +106,7 @@ Follow us
     * [Apple Music Converter](https://www.audkit.com/apple-music-converter.html)
 * Store & Support
     * [Store](https://www.audkit.com/store.html)
-    * [Download](https://www.audkit.com/download.html)
+    * [Download Center](https://www.audkit.com/download.html)
     * [Support Center](https://www.audkit.com/support-center.html)
     * [How-tos](https://www.audkit.com/resource/)
     * [FAQs](https://www.audkit.com/faqs.html)
