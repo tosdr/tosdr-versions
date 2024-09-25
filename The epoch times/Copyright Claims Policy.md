@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [House Intelligence Committee Sounds Alarm on Chinese Shopping App Temu](https://www.theepochtimes.com/china/house-intelligence-committee-sounds-alarm-on-chinese-shopping-app-temu-5729842)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![House Intelligence Committee Sounds Alarm on Chinese Shopping App Temu](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![House Intelligence Committee Sounds Alarm on Chinese Shopping App Temu](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5706926-GettyImages-2041240983-205x123.jpg.webp)](https://www.theepochtimes.com/china/house-intelligence-committee-sounds-alarm-on-chinese-shopping-app-temu-5729842)
+* [Hurricane Helene Forms in Gulf of Mexico, Set to Hit Florida](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
+    
+    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Hurricane Helene Forms in Gulf of Mexico, Set to Hit Florida](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane Helene Forms in Gulf of Mexico, Set to Hit Florida](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729862-hurricanehelene1-205x123.png.webp)](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
+* [Ukraine’s Zelenskyy Warns UN That Russians Could Cause Nuclear Disaster](https://www.theepochtimes.com/world/ukraines-zelenskyy-warns-un-that-russians-could-cause-nuclear-disaster-5729841)
+    
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Ukraine’s Zelenskyy Warns UN That Russians Could Cause Nuclear Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Ukraine’s Zelenskyy Warns UN That Russians Could Cause Nuclear Disaster](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729778-GettyImages-2173438209.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/ukraines-zelenskyy-warns-un-that-russians-could-cause-nuclear-disaster-5729841)
+* [Judge Declares NYC’s Data-Sharing Law for Food Delivery Apps Unconstitutional](https://www.theepochtimes.com/us/judge-declares-nycs-data-sharing-law-for-food-delivery-apps-unconstitutional-5729698)
+    
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Judge Declares NYC’s Data-Sharing Law for Food Delivery Apps Unconstitutional](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Declares NYC’s Data-Sharing Law for Food Delivery Apps Unconstitutional](https://img.theepochtimes.com/assets/uploads/2021/09/10/DoorDash-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-declares-nycs-data-sharing-law-for-food-delivery-apps-unconstitutional-5729698)
+* [Hezbollah Targets Tel Aviv as Israel Continues Strikes](https://www.theepochtimes.com/world/hezbollah-targets-tel-aviv-as-israel-continues-strikes-5729714)
+    
+    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Hezbollah Targets Tel Aviv as Israel Continues Strikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hezbollah Targets Tel Aviv as Israel Continues Strikes](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729740-Israel_Lebanon_24268596486262-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-targets-tel-aviv-as-israel-continues-strikes-5729714)
 * [House, Senate to Vote on Stopgap Funding Bill](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
     
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
     [![House, Senate to Vote on Stopgap Funding Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![House, Senate to Vote on Stopgap Funding Bill](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728348-09162024-DSC00724-US-CapitolKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
-* [China Publicly Test-Fires ICMB for First Time in Decades](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
+* [China Publicly Test-Fires ICBM for First Time in Decades](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
     
-    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    7hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![China Publicly Test-Fires ICMB for First Time in Decades](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![China Publicly Test-Fires ICBM for First Time in Decades](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China Publicly Test-Fires ICMB for First Time in Decades](https://img.theepochtimes.com/assets/uploads/2023/07/19/id5408310-GettyImages-1175318267-205x123.jpg.webp)](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
+    ![China Publicly Test-Fires ICBM for First Time in Decades](https://img.theepochtimes.com/assets/uploads/2023/07/19/id5408310-GettyImages-1175318267-205x123.jpg.webp)](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
 * [Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://www.theepochtimes.com/us/family-who-lost-daughter-to-fentanyl-fighting-to-protect-others-5729581)
     
-    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    7hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
     [![Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://img.theepochtimes.com/assets/uploads/2024/01/23/id5571981-Matt-and-daughter-Alexandra-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/family-who-lost-daughter-to-fentanyl-fighting-to-protect-others-5729581)
 * [Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://www.theepochtimes.com/us/harris-trump-agree-to-separate-town-halls-hosted-by-univision-5729646)
     
-    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
     [![Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726109-Trump-Harris-v2-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-trump-agree-to-separate-town-halls-hosted-by-univision-5729646)
-* [What Happens If the Electoral College Is Tied?](https://www.theepochtimes.com/us/what-happens-if-the-electoral-college-is-tied-5729360)
+    ![Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720809-trump-kamala-harris-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-trump-agree-to-separate-town-halls-hosted-by-univision-5729646)
+* [China’s Veteran Discontent Grows Amid Economic Slowdown](https://www.theepochtimes.com/china/chinas-veteran-discontent-grows-amid-economic-slowdown-5729226)
     
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    7hr By [Olivia Li](https://www.theepochtimes.com/author/olivia-li) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
     
-    [![What Happens If the Electoral College Is Tied?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![China’s Veteran Discontent Grows Amid Economic Slowdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What Happens If the Electoral College Is Tied?](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729720-GettyImages-1230128567-LS.jpg-205x123.webp)](https://www.theepochtimes.com/us/what-happens-if-the-electoral-college-is-tied-5729360)
-* [Russia Must Be Forced Into Peace, Zelenskyy Tells UN Security Council](https://www.theepochtimes.com/world/russia-must-be-forced-into-peace-zelenskyy-tells-un-security-council-5729291)
-    
-    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Russia Must Be Forced Into Peace, Zelenskyy Tells UN Security Council](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Russia Must Be Forced Into Peace, Zelenskyy Tells UN Security Council](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729688-GettyImages-2173438209-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-must-be-forced-into-peace-zelenskyy-tells-un-security-council-5729291)
-* [Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://www.theepochtimes.com/us/trump-briefed-on-specific-iran-threats-to-assassinate-him-campaign-5729643)
-    
-    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Briefed on Specific Iran Threats to Assassinate Him: Campaign](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729674-GettyImages-2173588733-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-briefed-on-specific-iran-threats-to-assassinate-him-campaign-5729643)
-* [Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://www.theepochtimes.com/us/congress-unanimously-passes-bill-to-increase-secret-service-protection-for-presidential-candidates-5729608)
-    
-    8hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Congress Unanimously Passes Bill to Increase Secret Service Protection For Presidential Candidates](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725322-09162024-DSC00799-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-unanimously-passes-bill-to-increase-secret-service-protection-for-presidential-candidates-5729608)
-* [Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://www.theepochtimes.com/us/biden-warns-of-ais-profound-risks-in-un-general-assembly-speech-5729543)
-    
-    9hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Warns of AI’s ‘Profound Risks’ in UN General Assembly Speech](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729186-Biden-last-UN-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-warns-of-ais-profound-risks-in-un-general-assembly-speech-5729543)
-* [Ryan Routh Charged With Attempted Assassination of Trump](https://www.theepochtimes.com/us/prosecutors-charge-suspected-trump-gunman-with-attempted-assassination-5729571)
-    
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Ryan Routh Charged With Attempted Assassination of Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Ryan Routh Charged With Attempted Assassination of Trump](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725255-Ryan-Wesley-Routh-in-Ukraine-2022KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/prosecutors-charge-suspected-trump-gunman-with-attempted-assassination-5729571)
+    ![China’s Veteran Discontent Grows Amid Economic Slowdown](https://img.theepochtimes.com/assets/uploads/2024/08/08/id5701801-GettyImages-1243592931-1-SB_2-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinas-veteran-discontent-grows-amid-economic-slowdown-5729226)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
