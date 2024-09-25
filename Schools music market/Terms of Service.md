@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/color-by-note-music-coloring-worksheets/)
+ [](https://schoolsmusicmarket.com/product/music-teacher-planner/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/boomwhacker-colours-display-cut-outs/)
+ [](https://schoolsmusicmarket.com/product/notes-on-the-recorder-display-chart/)
 
 ###### Browse By Year/Grade
 
