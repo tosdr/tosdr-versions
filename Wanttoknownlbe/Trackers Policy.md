@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/appelazijn-de-onbekende-heilzame-krachtpatser/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/januari-11-goldman-sachs-koopt-aandelen-fb/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
