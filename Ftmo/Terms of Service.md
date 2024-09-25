@@ -139,7 +139,7 @@ Czech Republic
 
 * [\[email protected\]](https://ftmo.com/cdn-cgi/l/email-protection)
 * [+420 910 920 310](tel:+420 910 920 310)
-* [WhatsApp](https://api.whatsapp.com/send?phone=442033222983)
+* [WhatsApp](https://api.whatsapp.com/send?phone=420910920310)
 
 ### Company
 
