@@ -54,16 +54,10 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
 * [Compare](https://www.bosu.com/)
     * [Compare Balance Trainers](https://www.bosu.com/pages/compare-balance-trainers)
     * [Compare Exercise Balls](https://www.bosu.com/pages/compare-exercise-balls)
-* [Explore](https://www.bosu.com/)
-    * [Video Resources](https://www.bosu.com/)
-        * [Exercise Videos](https://www.bosu.com/pages/exercise-videos)
-        * [How-To](https://www.bosu.com/pages/how-to)
-        * [On-Demand Education](https://bosu.inspire360.com/)
-    * [Training Tips](https://www.bosu.com/blogs/all)
-    * [Getting Started](https://www.bosu.com/pages/get-started)
 * [Company](https://www.bosu.com/)
     * [Our Story](https://www.bosu.com/pages/about-us)
 * [Deals](https://www.bosu.com/collections/deals)
+* [Get Started](https://www.bosu.com/pages/get-started)
 
 [Log in](https://www.bosu.com/account/login)
 
@@ -80,9 +74,9 @@ Subscribe Notice
 * [Home](https://www.bosu.com/)
 * Products
 * Compare
-* Explore
 * Company
 * [Deals](https://www.bosu.com/collections/deals)
+* [Get Started](https://www.bosu.com/pages/get-started)
 
 Back
 
@@ -134,17 +128,6 @@ Back
 
 * [Compare Balance Trainers](https://www.bosu.com/pages/compare-balance-trainers)
 * [Compare Exercise Balls](https://www.bosu.com/pages/compare-exercise-balls)
-
-Back
-
-* Video Resources
-    
-    * [Exercise Videos](https://www.bosu.com/pages/exercise-videos)
-    * [How-To](https://www.bosu.com/pages/how-to)
-    * [On-Demand Education](https://bosu.inspire360.com/)
-    
-* [Training Tips](https://www.bosu.com/blogs/all)
-* [Getting Started](https://www.bosu.com/pages/get-started)
 
 Back
 
