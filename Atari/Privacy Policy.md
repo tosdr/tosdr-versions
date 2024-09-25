@@ -684,7 +684,13 @@ Available on
 
 [View all](https://www.atari.com/blogs/newsroom)
 
-[![Atari Acquires Intellivision Brand](articles/INTV_logo_16x9_4a46cd07-81a0-40a6-8df5-8b139bfeafec.webp)
+[![Meet the Creators Behind Atari Sauce: Olly Reynalds & Dave Perrett - Sauce Shed Ltd](articles/atari-sauce.jpg)
+
+09.24.2024
+
+#### Meet the Creators Behind Atari Sauce: Olly Reynalds & Dave Perrett - Sauce Shed Ltd
+
+Read More](https://www.atari.com/blogs/newsroom/meet-the-creators-behind-atari-sauce-olly-reynalds-dave-perrett-sauce-shed-ltd)[![Atari Acquires Intellivision Brand](articles/INTV_logo_16x9_4a46cd07-81a0-40a6-8df5-8b139bfeafec.webp)
 
 05.23.2024
 
@@ -696,13 +702,7 @@ Announcements 04.23.2024
 
 #### Atari Revives Infogrames as a Publishing Label
 
-Read More](https://www.atari.com/blogs/newsroom/atari-revives-infogrames-as-a-publishing-label)[![Atari Acquires Rollercoaster Tycoon 3](articles/rct3-logo-red-bg-lowrez.webp)
-
-Acquisitions 04.02.2024
-
-#### Atari Acquires Rollercoaster Tycoon 3
-
-Read More](https://www.atari.com/blogs/newsroom/atari-acquires-rollercoaster-tycoon-3)
+Read More](https://www.atari.com/blogs/newsroom/atari-revives-infogrames-as-a-publishing-label)
 
   
 
