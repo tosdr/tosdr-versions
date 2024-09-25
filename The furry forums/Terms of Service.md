@@ -22,7 +22,7 @@ All forum announcements and updates are posted [here](https://www.thefurryforum.
   
   
 
-[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
+[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
 
   
 
@@ -146,4 +146,4 @@ Powered by [EzPortal](http://www.ezportal.com/)
 
 * [SMF 2.0.19](https://www.thefurryforum.com/forums/index.php?action=credits "Simple Machines Forum") | [SMF © 2011](http://www.simplemachines.org/about/smf/license.php "License"), [Simple Machines](http://www.simplemachines.org/ "Simple Machines") | [Terms and Policies](https://www.thefurryforum.com/forums/index.php?action=agreement)
 
-[](https://www.thefurryforum.com/cookinghightest.php)
+[anything](https://www.thefurryforum.com/cookinghightest.php)
