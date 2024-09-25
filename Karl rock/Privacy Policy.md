@@ -410,17 +410,17 @@ Top
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+* [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
-    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
 * [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
     [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-* [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-    [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
