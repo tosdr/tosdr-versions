@@ -501,9 +501,9 @@ Downloads
 
 [Cookie Policy](https://1password.com/legal/cookie-policy)
 
-Your Privacy Options
-
 [Privacy Policy](https://1password.com/legal/privacy)
+
+Your Privacy Options
 
 [Accessibility](https://1password.com/legal/accessibility)
 
