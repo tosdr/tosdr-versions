@@ -300,7 +300,7 @@ and printed out.
 
 Newsletter
 
-[![logo-dark](https://yoc.com/media/yoc logo-1.svg)](https://yoc.com/de)
+[![logo-dark](https://yoc.com/media/yoc logo-1.svg)](https://yoc.com/en)
 
 ### Our Products
 
