@@ -1,8 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+**Pilots Wanted Sale** Ends in: [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
 
  
 
@@ -86,9 +84,7 @@ My store
 
 [](#)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+**Pilots Wanted Sale** Ends in: [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -272,7 +268,7 @@ My store
             * [2S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/2s-lipo-batteries/)
             * [3S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/3s-lipo-batteries/)
             * [4S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/4s-lipo-batteries/)
-            * [6S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/4s-lipo-batteries/)
+            * [6S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/6s-lipo-batteries/)
             * [View All](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/)
         * [RC Battery Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/)
             * [NiMH Battery Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/nimh-chargers/)
