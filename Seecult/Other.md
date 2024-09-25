@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa/scena1-desni-prizor.jpg?itok=ihuMTq7b)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit/otvaranje-16.jpg?itok=jC_oosQ7)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/ex-nihilo-nihit-fit)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/cvor.jpg?itok=c1kTNMAj)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bryan-ferry/feri1a.jpg?itok=cqv3Z9QM)](http://seecult.org/galerija/foto-galerija/foto-arhiva/bryan-ferry)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
