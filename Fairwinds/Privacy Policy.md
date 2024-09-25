@@ -1,14 +1,22 @@
-Member Alert |
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions and the latest updates.
 
-Limited-Time Homebuying Assistance |
+[](https://www.fairwinds.org/storm)
 
-Member Alert |
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions and the latest updates.
 
-Limited-Time Homebuying Assistance |
+[](https://www.fairwinds.org/storm)
 
-Member Alert |
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions and the latest updates.
 
-Limited-Time Homebuying Assistance |
+[](https://www.fairwinds.org/storm)
+
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions and the latest updates.
+
+[](https://www.fairwinds.org/storm)
+
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions and the latest updates.
+
+[](https://www.fairwinds.org/storm)
 
 [![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS.svg)](https://www.fairwinds.org/)[![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS_sailboat.svg)](https://www.fairwinds.org/)
 
