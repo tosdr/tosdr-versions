@@ -45,7 +45,7 @@ Ad platform
 to monetize  
 at scale
 
-* [Advertisers](https://www.exoclick.com/advertisers/)
+* [Advertisers](https://www.exoclick.com/advertisers-2/)
 * [Publishers](https://www.exoclick.com/publishers/)
 
 #### Programmatic
