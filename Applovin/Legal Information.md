@@ -49,13 +49,13 @@
 
 ###### Featured posts
 
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460x260_CMR2024_PopUp_EN.jpg)
+
+###### New Report: Consumer Mobile Trends 2024](https://www.applovin.com/reports/consumer-mobile-trends-marketing-channel-diversification/)
+
 [![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/1440x810_CoffeeandCreative_Metaplay_Gamification_Blog_Header_Recap-1.jpg)
 
 ###### New Webinar: Metaplay & Gamification](https://www.applovin.com/blog/new-interactive-ads-webinar-about-metaplay-and-gamification-is-live/)
-
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/1440x810_Blog-Header_-What-is-User-Acquisition-1.jpg)
-
-###### Difference Between Mobile UA and DTC](https://www.applovin.com/blog/what-is-user-acquisition-marketing-different-than-dtc/)
 
 ###### More about us
 
