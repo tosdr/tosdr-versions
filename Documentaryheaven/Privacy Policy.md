@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    National Security Alert
+    The War On Drugs: The Prison Industrial Complex
     
-    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![Shoah](/wp-content/thumbnails/5558-100x70.jpg?x53432)
+* [![The Lost Book of Nostradamus](/wp-content/thumbnails/927-100x70.jpg?x53432)
     
-    Shoah
+    The Lost Book of Nostradamus
     
-    Claude Lanzmann directed this 9 and a half hour documentary about the Holocaust without using a single frame of archive footage.He interviews survivors, witnesses, and ex-Nazis (whom he had to film](https://documentaryheaven.com/shoah/ "Shoah")
-* [![Nuclear Fruit: How the Cold War Shaped Video Games](/wp-content/thumbnails/10184-100x70.png?x53432)
+    Could it be that Nostradamus, the “go to” prophet of all time, is reaching forward into the 21st century to give us a last warning? Is it already too late? In 1994, Italian journalist Enza Massa was a](https://documentaryheaven.com/the-lost-book-of-nostradamus/ "The Lost Book of Nostradamus")
+* [![The Pharmacratic Inquisition](/wp-content/thumbnails/2273-100x70.jpg?x53432)
     
-    Nuclear Fruit: How the Cold War Shaped Video Games
+    The Pharmacratic Inquisition
     
-    They say knowledge is power and this is seldom more true than in war. Knowing your enemies plans whilst denying them the same privilege is to stack the odds in your favour. As military cryptography ad](https://documentaryheaven.com/nuclear-fruit/ "Nuclear Fruit: How the Cold War Shaped Video Games")
-* [![Bastards of the Party](/wp-content/thumbnails/220-100x70.png?x53432)
+    Thousands of years ago, in the pre monarchic era, sacred plants and other entheogenic substances where politically correct and highly respected for their ability to bring forth the divine, Yahweh, God](https://documentaryheaven.com/the-pharmacratic-inquisition/ "The Pharmacratic Inquisition")
+* [![A Life in Japan](/wp-content/thumbnails/6571-100x70.jpg?x53432)
     
-    Bastards of the Party
+    A Life in Japan
     
-    Raised in the Athens Park neighborhood of Los Angeles, Cle "Bone" Sloan was four years old when his father died, and 12 when he became a member of the Bloods. Now an inactive member of the notorious g](https://documentaryheaven.com/bastards-of-the-party/ "Bastards of the Party")
-* [![Every F*cking Day of My Life](/wp-content/thumbnails/4621-100x70.jpg?x53432)
+    Japan through foreign eyes. Interviews with nineteen foreign residents in Japan. Personal experiences and opinions, both the good and the bad stuff.](https://documentaryheaven.com/a-life-in-japan/ "A Life in Japan")
+* [![Monsters We Met](/wp-content/thumbnails/1618-100x70.jpg?x53432)
     
-    Every F\*cking Day of My Life
+    Monsters We Met
     
-    Married at 16 years – with 18 years of violence following – left Wendy terrified. She summoned the courage to deal with her husband the only way she knew possible. Originally as One Minute to Nine, th](https://documentaryheaven.com/every-fcking-day-of-my-life/ "Every F*cking Day of My Life")
-* [![Homeopathy: The Test](/wp-content/thumbnails/574-100x70.png?x53432)
+    When our early ancestors entered new lands they encountered a variety of strange new creatures, monsters that no longer exist. What were they like and where are they now? What are the real answers to](https://documentaryheaven.com/monsters-we-met/ "Monsters We Met")
+* [![The Quickening](/wp-content/thumbnails/6408-100x70.jpg?x53432)
     
-    Homeopathy: The Test
+    The Quickening
     
-    Homeopathy was pioneered over 200 years ago. Practitioners and patients are convinced it has the power to heal. Today, some of the most famous and influential people in the world, including pop stars,](https://documentaryheaven.com/homeopathy-the-test/ "Homeopathy: The Test")
+    All around the planet hundreds of millions of people are waiting for events to unfold in the year 2012, that they... believe will bring either the birth of a harmonious new reality... or 'the end of t](https://documentaryheaven.com/the-quickening/ "The Quickening")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
