@@ -190,11 +190,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![BG Gilbert Kirby](https://cdn.returningveterans.org/images/honor/BG_Kirby.jpg)  
+![Jeff Enquist](https://cdn.returningveterans.org/images/honor/jeff_enquist2.jpg)  
 
-**In Honor of BG Gilbert Kirby**  
+**In Honor of Jeff Enquist**  
 United States Army  
-United States Marine Corps  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -240,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/24/24 - 2:23:56  
+Printed 9/24/24 - 8:28:31  
 © 2024 Returning Veterans Project
