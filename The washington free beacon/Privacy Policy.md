@@ -31,13 +31,13 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
-* [![](https://freebeacon.com/wp-content/uploads/2024/09/president-biden-delivers-remarks-at-the-economic-club-of-washington-dc-scaled-e1726781871981.jpg)
+* [![](https://s4.freebeacon.com/up/2024/09/president-biden-delivers-remarks-at-the-economic-club-of-washington-dc-scaled-e1726781871981.jpg)
     
     Biden's Long Shadow](https://freebeacon.com/columns/bidens-long-shadow/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/09/2024-09-11T022202Z_1_LYNXMPEK8A02D_RTROPTP_4_USA-ELECTION-DEBATE-scaled-e1726155646118.jpg)
+* [![](https://s3.freebeacon.com/up/2024/09/2024-09-11T022202Z_1_LYNXMPEK8A02D_RTROPTP_4_USA-ELECTION-DEBATE-scaled-e1726155646118.jpg)
     
     No, 2024 Is Not Over Yet](https://freebeacon.com/columns/no-2024-is-not-over-yet/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/09/vice-president-and-democratic-presidential-candidate-kamala-harris-cam-2-scaled-e1725569189225.jpg)
+* [![](https://s1.freebeacon.com/up/2024/09/vice-president-and-democratic-presidential-candidate-kamala-harris-cam-2-scaled-e1725569189225.jpg)
     
     The Harris Mystique](https://freebeacon.com/columns/the-harris-mystique/)
 
