@@ -122,17 +122,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
-Upcoming Events
----------------
-
-Sep 25
-
-10:00 am - 11:00 am EDT
-
-### [9/25 @ 10am EDT – Speedify on Routers? | Ask the CEO your tech questions](https://speedify.com/event/9-25-10am-edt-speedify-on-routers-ask-the-ceo-your-tech-questions/ "9/25 @ 10am EDT – Speedify on Routers? | Ask the CEO your tech questions")
-
-[View Calendar](https://speedify.com/calendar/ "View more events.")
-
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
@@ -195,7 +184,3 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
-
-                        
-
-This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
