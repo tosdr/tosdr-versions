@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
+* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
     
-* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
+* [How to configure the email notifications](https://www.backup4all.com/how-to-configure-the-email-notifications-kb.html)  
     
-* [How the incremental limit works in Backup4all](https://www.backup4all.com/how-the-incremental-limit-works-in-backup4all-kb.html)  
+* [Backup4all back up destinations](https://www.backup4all.com/backup4all-back-up-destinations-kb.html)  
     
-* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
+* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
     
-* [How to create a mirror backup](https://www.backup4all.com/how-to-create-a-mirror-backup-kb.html)  
+* [How to backup your data to Aruba Cloud](https://www.backup4all.com/how-to-backup-your-data-to-aruba-cloud-kb.html)  
     
 
 Choose language:
