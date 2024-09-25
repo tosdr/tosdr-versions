@@ -112,8 +112,9 @@ If you believe that your copy­right­ed work has been copied in a way that con�
 The above infor­ma­tion must be sub­mit­ted to the fol­low­ing DMCA Agent:
 
 Open Cul­ture, LLC  
-724 Leona Lane  
-Moun­tain View, CA 94040
+1259 El Camino Real  
+Unit #1039  
+Men­lo Park, CA 94025
 
 The agent can also be con­tact­ed via email at [mail@openculture.com](mailto:openculture@openculture.com)
 
@@ -545,7 +546,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1727210869&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1727232060&formid=1 "click to reload")
     
 * About Us
     --------
