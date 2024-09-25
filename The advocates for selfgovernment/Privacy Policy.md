@@ -335,6 +335,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Update-1-300x200.jpg)](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
+    
+    #### [The A Word (Gasp) – Anarchy](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/09/edit-copy-300x200.jpg)](https://www.theadvocates.org/makers-and-takers/)
     
     #### [Makers and Takers](https://www.theadvocates.org/makers-and-takers/)
@@ -362,10 +366,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-05-at-8.12.12 PM-300x200.png)](https://www.theadvocates.org/were-creating-an-infinite-game/)
     
     #### [We’re Creating an Infinite Game](https://www.theadvocates.org/were-creating-an-infinite-game/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-9.34.49 AM-300x200.png)](https://www.theadvocates.org/as-debt-turns-into-darkness/)
-    
-    #### [As Debt Turns Into Darkness](https://www.theadvocates.org/as-debt-turns-into-darkness/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
