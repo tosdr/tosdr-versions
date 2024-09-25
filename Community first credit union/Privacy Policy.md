@@ -1,7 +1,3 @@
-Due to scheduled maintenance, there may be intermittent delays on our website from **10:00 PM on September 24th until 12:00 AM on September 25th**. [Info24](https://www.communityfirstfl.org/connect/contact-us "INFO24") and [Mobile Banking](https://www.communityfirstfl.org/personal-banking/online-banking "Learn more about Mobile Banking") services will remain available. We apologize for any inconvenience. 
-
-![Close Notification](/images/icon-close-white.svg)
-
 [![Community First Credit Union Logo](/getmedia/addf5aff-0552-4329-a166-593f8ad2d231/logo-header.png?width=198&height=54&ext=.png)](https://www.communityfirstfl.org/)
 
 [Locations](https://www.communityfirstfl.org/connect/contact-us/branch-locations)
