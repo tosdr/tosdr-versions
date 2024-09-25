@@ -299,7 +299,39 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
+[![Владимир Гутенёв: «Единая Россия» обеспечила принятие важных для экономики страны законов в сфере несырьевого экспорта](https://cdn.er.ru/media/news/September2024/7ggaeQ1G6Q5XFBW4ekHB-small.jpg)](https://er.ru/activity/news/vladimir-gutenyov-edinaya-rossiya-obespechila-prinyatie-vazhnyh-dlya-ekonomiki-strany-zakonov-v-sfere-nesyrevogo-eksporta)
+
+[Владимир Гутенёв: «Единая Россия» обеспечила принятие важных для экономики страны законов в сфере несырьевого экспорта](https://er.ru/activity/news/vladimir-gutenyov-edinaya-rossiya-obespechila-prinyatie-vazhnyh-dlya-ekonomiki-strany-zakonov-v-sfere-nesyrevogo-eksporta)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Гутенев](https://er.ru/activity/news?tags%5B0%5D=1092616) [#промышленность](https://er.ru/activity/news?tags%5B0%5D=1335) [#экспорт](https://er.ru/activity/news?tags%5B0%5D=1408) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
+
+Сегодня 16:36
+
+[![Максим Топилин: «Единая Россия» укрепляет внешнеэкономические связи с дружественными странами для достижения поставленных Президентом национальных целей развития](https://cdn.er.ru/media/news/September2024/bIQitDcDp2INQDlrWqsl-small.jpg)](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-ukreplyaet-vneshneekonomicheskie-svyazi-s-druzhestvennymi-stranami-dlya-dostizheniya-postavlennyh-prezidentom-nacionalnyh-celej-razvitiya)
+
+[Максим Топилин: «Единая Россия» укрепляет внешнеэкономические связи с дружественными странами для достижения поставленных Президентом национальных целей развития](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-ukreplyaet-vneshneekonomicheskie-svyazi-s-druzhestvennymi-stranami-dlya-dostizheniya-postavlennyh-prezidentom-nacionalnyh-celej-razvitiya)
+
+[#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госсовет](https://er.ru/activity/news?tags%5B0%5D=3625) [#экономика](https://er.ru/activity/news?tags%5B0%5D=116231) [#национальныецели](https://er.ru/activity/news?tags%5B0%5D=125834) [#ОЭЗ](https://er.ru/activity/news?tags%5B0%5D=3717) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#экспорт](https://er.ru/activity/news?tags%5B0%5D=1408)
+
+Сегодня 16:10
+
+[![В Госдуму внесен законопроект о запрете пропаганды чайлдфри](https://cdn.er.ru/media/news/September2024/GQhyPhvh8dZQYe9F7g60-small.jpg)](https://er.ru/activity/news/v-gosdumu-vnesen-zakonoproekt-o-zaprete-propagandy-chajldfri)
+
+[В Госдуму внесен законопроект о запрете пропаганды чайлдфри](https://er.ru/activity/news/v-gosdumu-vnesen-zakonoproekt-o-zaprete-propagandy-chajldfri)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Аиткулова](https://er.ru/activity/news?tags%5B0%5D=49842) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171)
+
+Сегодня 15:55
+
+[![«Единая Россия» обяжет УК отчитываться перед собственниками жилья](https://cdn.er.ru/media/news/September2024/dH5sXAYWH6AAXT9QYRbx-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-obyazhet-uk-otchityvatsya-pered-sobstvennikami-zhilya)
+
+[«Единая Россия» обяжет УК отчитываться перед собственниками жилья](https://er.ru/activity/news/edinaya-rossiya-obyazhet-uk-otchityvatsya-pered-sobstvennikami-zhilya)
+
+[#Разворотнева](https://er.ru/activity/news?tags%5B0%5D=11486) [#Качкаев](https://er.ru/activity/news?tags%5B0%5D=20587) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#УК](https://er.ru/activity/news?tags%5B0%5D=5380) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#отчетность](https://er.ru/activity/news?tags%5B0%5D=3743) [#ТСЖ](https://er.ru/activity/news?tags%5B0%5D=766)
+
+Сегодня 14:20
+
+[![Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://cdn.er.ru/media/news/September2024/pcvz2jvZOoMt86BPNWIr-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
 
 [Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
 
@@ -314,38 +346,6 @@
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#сменапола](https://er.ru/activity/news?tags%5B0%5D=1094236) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
 Сегодня 11:20
-
-[![Александр Мажуга: По инициативе «Единой России» в системе высшего, общего и среднего профессионального образования создадут федеральные учебно-методические объединения](https://cdn.er.ru/media/news/September2024/BeOTcHgWIpS4R6JC6Gda-small.jpg)](https://er.ru/activity/news/aleksandr-mazhuga-po-iniciative-edinoj-rossii-v-sisteme-vysshego-obshego-i-srednego-professionalnogo-obrazovaniya-sozdadut-federalnye-uchebno-metodicheskie-obedineniya)
-
-[Александр Мажуга: По инициативе «Единой России» в системе высшего, общего и среднего профессионального образования создадут федеральные учебно-методические объединения](https://er.ru/activity/news/aleksandr-mazhuga-po-iniciative-edinoj-rossii-v-sisteme-vysshego-obshego-i-srednego-professionalnogo-obrazovaniya-sozdadut-federalnye-uchebno-metodicheskie-obedineniya)
-
-[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФГОС](https://er.ru/activity/news?tags%5B0%5D=48505) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#специалисты](https://er.ru/activity/news?tags%5B0%5D=1722)
-
-Сегодня 11:15
-
-[![Врио секретаря Генсовета «Единой России» Владимир Якушев избран первым вице-спикером Совета Федерации](https://cdn.er.ru/media/news/September2024/VtDdNgMhXyyqAcKzhCzE-small.JPG)](https://er.ru/activity/news/vrio-sekretarya-gensoveta-edinoj-rossii-vladimir-yakushev-izbran-pervym-vice-spikerom-soveta-federacii)
-
-[Врио секретаря Генсовета «Единой России» Владимир Якушев избран первым вице-спикером Совета Федерации](https://er.ru/activity/news/vrio-sekretarya-gensoveta-edinoj-rossii-vladimir-yakushev-izbran-pervym-vice-spikerom-soveta-federacii)
-
-[#Матвиенко](https://er.ru/activity/news?tags%5B0%5D=132) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=135932) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416)
-
-Сегодня 10:25
-
-[![Анна Кузнецова: «Единая Россия» приступает к формированию пакета мер поддержки студенческих семей](https://cdn.er.ru/media/news/September2024/oX4LsxkLA0G98AEh6o7j-small.jpg)](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-pristupaet-k-formirovaniyu-paketa-mer-podderzhki-studencheskih-semej)
-
-[Анна Кузнецова: «Единая Россия» приступает к формированию пакета мер поддержки студенческих семей](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-pristupaet-k-formirovaniyu-paketa-mer-podderzhki-studencheskih-semej)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#семьи](https://er.ru/activity/news?tags%5B0%5D=2029) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
-
-Сегодня 09:30
-
-[![О новых форматах работы Госдумы. Статья Андрея Исаева](https://cdn.er.ru/media/news/September2024/ZVXHMAuZTc1qYLdZ2Np0-small.jpg)](https://er.ru/activity/news/o-novyh-formatah-raboty-gosdumy-statya-andreya-isaeva)
-
-[О новых форматах работы Госдумы. Статья Андрея Исаева](https://er.ru/activity/news/o-novyh-formatah-raboty-gosdumy-statya-andreya-isaeva)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
-
-Сегодня 09:00
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
