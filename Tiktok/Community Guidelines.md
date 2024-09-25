@@ -1,8 +1,8 @@
-![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157-2fc7ea68bf0eb5efb3a61bdefca8057b98c669a2.svg)![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-6b186a6bd6d6071d8c73-2fc7ea68bf0eb5efb3a61bdefca8057b98c669a2.svg)
+![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157.svg)![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-6b186a6bd6d6071d8c73.svg)
 
-![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2-2fc7ea68bf0eb5efb3a61bdefca8057b98c669a2.svg)![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3-2fc7ea68bf0eb5efb3a61bdefca8057b98c669a2.svg)
+![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2.svg)![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3.svg)
 
-![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3-2fc7ea68bf0eb5efb3a61bdefca8057b98c669a2.svg)![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2-2fc7ea68bf0eb5efb3a61bdefca8057b98c669a2.svg)
+![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3.svg)![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2.svg)
 
 * [Overview](https://www.tiktok.com/community-guidelines/en/overview)
     
@@ -151,7 +151,7 @@ Empower our community with information, tools, and resources
 
 We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157-2fc7ea68bf0eb5efb3a61bdefca8057b98c669a2.svg)
+![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157.svg)
 
 #### Company
 
