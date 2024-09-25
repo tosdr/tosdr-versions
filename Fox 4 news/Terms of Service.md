@@ -89,16 +89,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Severe Thunderstorm Warning
-
-from WED 2:31 AM CDT until WED 3:15 AM CDT, Collin County, Denton County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[Severe Thunderstorm Warning
-
-until WED 2:45 AM CDT, Denton County, Collin County](https://www.fox4news.com/weather-alerts)
-
 Terms of Use
 ============
 
