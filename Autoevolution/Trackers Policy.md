@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![The C8 Corvette ZR1's LT7: A Closer Look at Chevy's Most Insane Production V8](https://s1.cdn.autoevolution.com/images/news/the-c8-corvette-zr1-s-lt7-a-closer-look-at-chevy-s-most-insane-production-v8-240284-5.jpg "The C8 Corvette ZR1's LT7: A Closer Look at Chevy's Most Insane Production V8")
+[![Sound Recognition on CarPlay: Everything You Need To Know](https://s1.cdn.autoevolution.com/images/news/sound-recognition-on-carplay-everything-you-need-to-know-240289-5.jpg "Sound Recognition on CarPlay: Everything You Need To Know")
 
-The C8 Corvette ZR1's LT7: A Closer Look at Chevy's Most Insane Production V8](https://www.autoevolution.com/news/the-c8-corvette-zr1-s-lt7-a-closer-look-at-chevy-s-most-insane-production-v8-240284.html)
+Sound Recognition on CarPlay: Everything You Need To Know](https://www.autoevolution.com/news/sound-recognition-on-carplay-everything-you-need-to-know-240289.html)
 
 how-to \_
 
