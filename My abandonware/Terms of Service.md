@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Final Lap](https://www.myabandonware.com/game/final-lap-9px)
-* [Final Fight](https://www.myabandonware.com/game/final-fight-5j6)
-* [Final Blow](https://www.myabandonware.com/game/final-blow-5j4)
-* [2025: Battle for Fatherland](https://www.myabandonware.com/game/2025-battle-for-fatherland-lg6)
-* [Front Line](https://www.myabandonware.com/game/front-line-7ru)
+* [Field Goal](https://www.myabandonware.com/game/field-goal-shq)
+* [Field Day](https://www.myabandonware.com/game/field-day-shp)
+* [Fantastic Journey](https://www.myabandonware.com/game/fantastic-journey-sho)
+* [F-15 Strike Eagle](https://www.myabandonware.com/game/f-15-strike-eagle-shn)
+* [Firefox](https://www.myabandonware.com/game/firefox-shm)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Jonah: A VeggieTales Game](https://www.myabandonware.com/game/jonah-a-veggietales-game-m96)
-* [VeggieTales Dance Dance Dance!](https://www.myabandonware.com/game/veggietales-dance-dance-dance-m9b)
-* [Kick Off 2: Giants of Europe](https://www.myabandonware.com/game/kick-off-2-giants-of-europe-7co)
+* [Tim & Bear at the Movies](https://www.myabandonware.com/game/tim-bear-at-the-movies-pkr)
+* [Coin-Op Connexion](https://www.myabandonware.com/game/coin-op-connexion-kmb)
+* [Konami Coin-Op Hits](https://www.myabandonware.com/game/konami-coin-op-hits-6us)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
