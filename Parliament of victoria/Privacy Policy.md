@@ -37,15 +37,14 @@ Main menu
     
     Previous Back
     
-    #### [](https://parliament.vic.gov.au/inquiries)
+    #### [Inquiries](https://parliament.vic.gov.au/inquiries)
     
-    * [Inquiries](https://parliament.vic.gov.au/inquiries)
     * [The inquiry process](https://parliament.vic.gov.au/get-involved/inquiry-process/)
     * [Make a submission](https://parliament.vic.gov.au/get-involved/submissions/)
     * [Attend a public hearing](https://parliament.vic.gov.au/get-involved/public-hearings/)
     * [Committee & Inquiry Search](https://parliament.vic.gov.au/get-involved/committeeinquirysearch/)
     
-    #### [](https://parliament.vic.gov.au/petitions)
+    #### [Petitions](https://parliament.vic.gov.au/petitions)
     
     * [Sign a petition](https://parliament.vic.gov.au/get-involved/petitions/sign/)
     * [Start a petition](https://parliament.vic.gov.au/get-involved/petitions/start/)
@@ -70,6 +69,8 @@ Main menu
     * [Contacting members](https://parliament.vic.gov.au/contacting-members/)
     * [Find your electorate](https://findelectorate.parliament.vic.gov.au/?internal=1)
     * [Former members](https://parliament.vic.gov.au/about/history-and-heritage/people-who-shaped-parliament/former-members/)
+    
+    #### Learn more
     
     * [A guide to member roles and terms](https://parliament.vic.gov.au/link/ba738f4ccfa841d0905b75762ef9e7f3.aspx)
     * [The two houses](https://parliament.vic.gov.au/link/a0c5bdeb4baa4ce18e9da52b0b2ef60f.aspx)
@@ -147,7 +148,7 @@ Main menu
     * [Our collection and artworks](https://parliament.vic.gov.au/about/history-and-heritage/our-collection-and-artworks/)
     * [Our living heritage](https://parliament.vic.gov.au/about/history-and-heritage/our-living-heritage/)
     
-    #### [](https://parliament.vic.gov.au/about/departments/)
+    #### [Departments](https://parliament.vic.gov.au/about/departments/)
     
     * [Legislative Council](https://parliament.vic.gov.au/about/departments/legislative-council/)
     * [Legislative Assembly](https://parliament.vic.gov.au/about/departments/legislative-assembly/)
