@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [\[REPORT\] Routine action requests (Mov… (8,944)](https://forum.nationstates.net/viewtopic.php?t=473656&f=16&view=unread#unread ""[REPORT] Routine action requests (Moves, Adbots, Spam, etc)" (8,944 posts)")
-* [\[AT VOTE\] Repeal: Condemn the Black H… (173)](https://forum.nationstates.net/viewtopic.php?t=555742&f=24&view=unread#unread ""[AT VOTE] Repeal: Condemn the Black Hawks (#52)" (173 posts)")
-* [Merge the 2 AN's Lore! (5)](https://forum.nationstates.net/viewtopic.php?t=555794&f=25&view=unread#unread ""Merge the 2 AN's Lore!" (5 posts)")
-* [Temu coupon code $100 off \[acq943609\]… (1)](https://forum.nationstates.net/viewtopic.php?t=555796&f=23&view=unread#unread ""Temu coupon code $100 off [acq943609] off new users" (1 post)")
+* [⚠ ☢ Total Right-Wing Victory ? ☢ ⚠ (13)](https://forum.nationstates.net/viewtopic.php?t=555823&f=41&view=unread#unread ""⚠ ☢ Total Right-Wing Victory ? ☢ ⚠" (13 posts)")
+* [The Solitary Throne \[OOC | Closed\] (452)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (452 posts)")
+* [Geography Game II (10,226)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,226 posts)")
+* [2023 Israel–Hamas War Thread mk3 (7,630)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,630 posts)")
+* [What triggers you about the AN? (8,208)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (8,208 posts)")
 
 Advertisement
 
