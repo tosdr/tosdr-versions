@@ -280,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-So many fans visit King’s Cross Station to take pictures of Platforms 9 and 10 that the station management erected a sign that says “Platform 9 3/4,” which, in the Harry Potter books, is invisible to Muggles but acts as a gateway for witches and wizards.
+The Harry Potter books were the first children’s books included on the New York Times Best Seller list since E.B. White’s Charlotte’s Web in 1952.
 
 ### Potter History
 
-July 25, 2006 – The paperback edition of Harry Potter and the Half-Blood Prince is released in the United States.
+July 15, 2001 – Harry Potter and the Deathly Hallows – Part 2 is released in theaters, breaking records to have the highest-grossing midnight release, first 24 hours, and opening weekend of all time. It is also currently the third highest-grossing film of all time.
 
 ### Potter Quote
 
-“Shall we die just a little?”
+“Make way for the Heir of Slytherin, seriously evil wizard coming through. . . .”
 
 [](#)
 
