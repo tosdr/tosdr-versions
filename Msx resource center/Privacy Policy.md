@@ -137,19 +137,20 @@ MSX Music player
 
 Latest reactions
 
+* [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
+* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
+* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
+* [New game ROM for MSX1 and later... TILEZ](https://www.msx.org/downloads/new-game-rom-for-msx1-and-later-tilez "New game ROM for MSX1 and later... TILEZ")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
-* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
-* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [MSX Overclocking - Disconnect WAIT pin](https://www.msx.org/news/hardware/en/msx-overclocking-disconnect-wait-pin "MSX Overclocking - Disconnect WAIT pin")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [csMSX - MSX/2 Emulator & C# Source Code](https://www.msx.org/downloads/csmsx-vbnet-msx-msx2-emulator-source-code "csMSX - MSX/2 Emulator & C# Source Code")
-* [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
-* [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
 
 Latest forum posts
 
+* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
 * [Help using 720 KB 2DD 3.5" disks in modern computers](https://www.msx.org/forum/msx-talk/hardware/help-using-720-kb-2dd-35-disks-in-modern-computers "Help using 720 KB 2DD 3.5" disks in modern computers")
 * [Weak SCC sounds on Playsoniq](https://www.msx.org/forum/msx-talk/hardware/weak-scc-sounds-on-playsoniq "Weak SCC sounds on Playsoniq")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=56 "WonderTANG! Who wants to juice up your MSX?")
@@ -162,7 +163,6 @@ Latest forum posts
 * [Laserdisc Pioneer CLD-7 question](https://www.msx.org/forum/msx-talk/general-discussion/laserdisc-pioneer-cld-7-question "Laserdisc Pioneer CLD-7 question")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive "HB-F1XDJ black screen and unresponsive")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
-* [Konami SCC cart (E)Eprom substitution](https://www.msx.org/forum/msx-talk/hardware/konami-scc-cart-eeprom-substitution "Konami SCC cart (E)Eprom substitution")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
