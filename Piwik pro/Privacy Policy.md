@@ -10,7 +10,7 @@
     * [Tag Manager](https://piwik.pro/tag-manager/)
     * [Customer Data Platform](https://piwik.pro/customer-data-platform/)
     * [Consent Manager](https://piwik.pro/gdpr-consent-manager/)
-    * Learn more
+    * [Learn more](#)
     * [Integrations](https://piwik.pro/integrations/)
     * [Changelog](https://changelog.piwik.pro/)
     * [Professional services](https://piwik.pro/services/)
