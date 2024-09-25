@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-fe77a1b9630a8bc3992442fca9aec94c
+0488ef498a6a44633b421b61930dc72b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Round wing butterfly clasp](https://sojourner.biz/images/cache/SKU0195front.200.jpg)](https://sojourner.biz/clasps/sterling-only/round-wing-butterfly-clasp.html "Round wing butterfly clasp")
+[![Vintage Swarovski silver crystal clasp](https://sojourner.biz/images/cache/SKU0570front.200.jpg)](https://sojourner.biz/clasps/swarovski/vintage-swarovski-silver-crystal-clasp.html "Vintage Swarovski silver crystal clasp")
 
-#### [Round wing butterfly clasp](https://sojourner.biz/clasps/sterling-only/round-wing-butterfly-clasp.html "Round wing butterfly clasp")
+#### [Vintage Swarovski silver crystal clasp](https://sojourner.biz/clasps/swarovski/vintage-swarovski-silver-crystal-clasp.html "Vintage Swarovski silver crystal clasp")
 
-$28.00
+$25.00
 
 ### Best Sellers
 
