@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Sound Recognition on CarPlay: Everything You Need To Know](https://s1.cdn.autoevolution.com/images/news/sound-recognition-on-carplay-everything-you-need-to-know-240289-5.jpg "Sound Recognition on CarPlay: Everything You Need To Know")
+[![Compact Tiny House Hides a Wonderfully Ingenious Layout for the Whole Family](https://s1.cdn.autoevolution.com/images/news/compact-tiny-house-hides-a-wonderfully-ingenious-layout-for-the-whole-family-240301-5.jpg "Compact Tiny House Hides a Wonderfully Ingenious Layout for the Whole Family")
 
-Sound Recognition on CarPlay: Everything You Need To Know](https://www.autoevolution.com/news/sound-recognition-on-carplay-everything-you-need-to-know-240289.html)
+Compact Tiny House Hides a Wonderfully Ingenious Layout for the Whole Family](https://www.autoevolution.com/news/compact-tiny-house-hides-a-wonderfully-ingenious-layout-for-the-whole-family-240301.html)
 
 how-to \_
 
