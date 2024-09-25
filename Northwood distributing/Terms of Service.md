@@ -401,7 +401,7 @@ INFORMATION
 * [Affiliate Program](https://northwoodcandlesupply.com/pages/collab)
 * [Gift Card](https://northwoodcandlesupply.com/products/northwood-candle-gift-card)
 * [Wishlist](https://northwoodcandlesupply.com/pages/wishlist)
-* [Contact Us](mailto:customercare@northwoodcandle.com)
+* [Contact Us](https://northwoodcandlesupply.com/pages/contact-northwood)
 
 POLICIES
 --------
