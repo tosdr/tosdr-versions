@@ -461,6 +461,7 @@ Get updates delivered to your inbox!
     * [Planning Center vs. Tithely](https://www.planningcenter.com/compare-planning-center-vs-tithely)
     * [Planning Center vs. Pushpay](https://www.planningcenter.com/compare-planning-center-vs-pushpay)
     * [Planning Center vs. Breeze](https://www.planningcenter.com/compare-planning-center-vs-breeze)
+    * [Planning Center vs. ChurchTrac](https://www.planningcenter.com/compare-planning-center-vs-churchtrac)
 
 * [Changelog](https://www.planningcenter.com/changelog)
 * [Pricing](https://www.planningcenter.com/pricing)
