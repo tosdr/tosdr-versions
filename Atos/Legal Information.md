@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        24 September 2024
+        25 September 2024
         
-        RATP chooses Eviden’s embedded TETRA radio services solutions to equip its metro trains and tramways
-        ----------------------------------------------------------------------------------------------------
+        Atos selected by the European Space Agency (ESA) to expand the capabilities of the Destination Earth (DestinE) services platform
+        --------------------------------------------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
