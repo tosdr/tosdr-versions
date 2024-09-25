@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Clinoptilolite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22127%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-clinoptilolite/)
-
-Earth Sciences
-
-24 Sep 2024
-
-[50 Facts About Clinoptilolite](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-clinoptilolite/)
-
-[![30 Facts About Copper Transport Disease ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-copper-transport-disease/)
+[![50 Facts About Familial Adenomatous Polyposis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-familial-adenomatous-polyposis/)
 
 Health Science
 
-24 Sep 2024
+25 Sep 2024
 
-[30 Facts About Copper Transport Disease](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-copper-transport-disease/)
+[50 Facts About Familial Adenomatous Polyposis](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-familial-adenomatous-polyposis/)
+
+[![30 Facts About Serkal Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-serkal-syndrome/)
+
+Health Science
+
+25 Sep 2024
+
+[30 Facts About Serkal Syndrome](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-serkal-syndrome/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
