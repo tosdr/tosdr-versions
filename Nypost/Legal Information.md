@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Trump says Iran has already made attempts on his life that ‘didn’t work out,’ he’s surrounded by ‘more guns’ than he’s ever seen](https://nypost.com/2024/09/25/us-news/trump-says-iran-has-already-made-attempts-on-his-life-that-didnt-work-out-hes-surrounded-by-more-guns-than-hes-ever-seen/)
+[Trump announces return to Butler, Pennsylvania — site of first assassination attempt](https://nypost.com/2024/09/25/us-news/trump-announces-return-to-butler-pa-site-of-first-assassination-attempt/)
 
 Privacy Notice Highlights
 =========================
