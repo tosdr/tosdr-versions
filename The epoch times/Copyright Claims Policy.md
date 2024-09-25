@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [House Intelligence Committee Sounds Alarm on Chinese Shopping App Temu](https://www.theepochtimes.com/china/house-intelligence-committee-sounds-alarm-on-chinese-shopping-app-temu-5729842)
+* [Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://www.theepochtimes.com/health/sodium-nitrite-suicides-on-the-rise-poison-centers-are-missing-them-5728503)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
-    [![House Intelligence Committee Sounds Alarm on Chinese Shopping App Temu](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Intelligence Committee Sounds Alarm on Chinese Shopping App Temu](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5706926-GettyImages-2041240983-205x123.jpg.webp)](https://www.theepochtimes.com/china/house-intelligence-committee-sounds-alarm-on-chinese-shopping-app-temu-5729842)
-* [Hurricane Helene Forms in Gulf of Mexico, Set to Hit Florida](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
+    ![Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730237-shutterstock_2241435023_sodium_nitrite_suicide_preservative_toxic-205x123.jpg.webp)](https://www.theepochtimes.com/health/sodium-nitrite-suicides-on-the-rise-poison-centers-are-missing-them-5728503)
+* [Hurricane Helene, Heading for Florida, Set to Become Category 4, Says Hurricane Center](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
     
     NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Hurricane Helene Forms in Gulf of Mexico, Set to Hit Florida](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hurricane Helene, Heading for Florida, Set to Become Category 4, Says Hurricane Center](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hurricane Helene Forms in Gulf of Mexico, Set to Hit Florida](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729862-hurricanehelene1-205x123.png.webp)](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
-* [Ukraine’s Zelenskyy Warns UN That Russians Could Cause Nuclear Disaster](https://www.theepochtimes.com/world/ukraines-zelenskyy-warns-un-that-russians-could-cause-nuclear-disaster-5729841)
+    ![Hurricane Helene, Heading for Florida, Set to Become Category 4, Says Hurricane Center](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730202-hurricanehelene3-205x123.png.webp)](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
+* [Regional Concern After China Launches Intercontinental Ballistic Missile](https://www.theepochtimes.com/china/regional-concern-after-china-launches-intercontinental-ballistic-missile-5729856)
     
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    NEW By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![Ukraine’s Zelenskyy Warns UN That Russians Could Cause Nuclear Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Regional Concern After China Launches Intercontinental Ballistic Missile](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ukraine’s Zelenskyy Warns UN That Russians Could Cause Nuclear Disaster](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729778-GettyImages-2173438209.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/ukraines-zelenskyy-warns-un-that-russians-could-cause-nuclear-disaster-5729841)
-* [Judge Declares NYC’s Data-Sharing Law for Food Delivery Apps Unconstitutional](https://www.theepochtimes.com/us/judge-declares-nycs-data-sharing-law-for-food-delivery-apps-unconstitutional-5729698)
+    ![Regional Concern After China Launches Intercontinental Ballistic Missile](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729889-GettyImages-1175318272-205x123.jpg.webp)](https://www.theepochtimes.com/china/regional-concern-after-china-launches-intercontinental-ballistic-missile-5729856)
+* [Secret Service Agent Suspended Amid Allegations of Sexual Misconduct Involving Harris Campaign Staffer](https://www.theepochtimes.com/us/secret-service-agent-suspended-amid-allegations-of-sexual-misconduct-involving-harris-campaign-staffer-5730020)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Judge Declares NYC’s Data-Sharing Law for Food Delivery Apps Unconstitutional](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Secret Service Agent Suspended Amid Allegations of Sexual Misconduct Involving Harris Campaign Staffer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Declares NYC’s Data-Sharing Law for Food Delivery Apps Unconstitutional](https://img.theepochtimes.com/assets/uploads/2021/09/10/DoorDash-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-declares-nycs-data-sharing-law-for-food-delivery-apps-unconstitutional-5729698)
-* [Hezbollah Targets Tel Aviv as Israel Continues Strikes](https://www.theepochtimes.com/world/hezbollah-targets-tel-aviv-as-israel-continues-strikes-5729714)
+    ![Secret Service Agent Suspended Amid Allegations of Sexual Misconduct Involving Harris Campaign Staffer](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730056-GettyImages-2172425542-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-agent-suspended-amid-allegations-of-sexual-misconduct-involving-harris-campaign-staffer-5730020)
+* [House Passes Stopgap Funding Bill, Sending Measure to Senate](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
     
-    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    1hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![Hezbollah Targets Tel Aviv as Israel Continues Strikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House Passes Stopgap Funding Bill, Sending Measure to Senate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hezbollah Targets Tel Aviv as Israel Continues Strikes](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729740-Israel_Lebanon_24268596486262-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-targets-tel-aviv-as-israel-continues-strikes-5729714)
-* [House, Senate to Vote on Stopgap Funding Bill](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
+    ![House Passes Stopgap Funding Bill, Sending Measure to Senate](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728348-09162024-DSC00724-US-CapitolKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
+* [Judge Orders EPA to Address Potential Risk of Fluoride in Drinking Water](https://www.theepochtimes.com/us/judge-orders-epa-to-address-potential-risk-of-fluoride-in-drinking-water-5730018)
     
-    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![House, Senate to Vote on Stopgap Funding Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Orders EPA to Address Potential Risk of Fluoride in Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House, Senate to Vote on Stopgap Funding Bill](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728348-09162024-DSC00724-US-CapitolKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
-* [China Publicly Test-Fires ICBM for First Time in Decades](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
+    ![Judge Orders EPA to Address Potential Risk of Fluoride in Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686207-GettyImages-1519932122-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-orders-epa-to-address-potential-risk-of-fluoride-in-drinking-water-5730018)
+* [Bipartisan Senate Report Finds Security Failures in First Assassination Attempt on Trump](https://www.theepochtimes.com/us/bipartisan-senate-report-finds-security-failures-in-first-assassination-attempt-on-trump-5729810)
     
-    7hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![China Publicly Test-Fires ICBM for First Time in Decades](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bipartisan Senate Report Finds Security Failures in First Assassination Attempt on Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China Publicly Test-Fires ICBM for First Time in Decades](https://img.theepochtimes.com/assets/uploads/2023/07/19/id5408310-GettyImages-1175318267-205x123.jpg.webp)](https://www.theepochtimes.com/world/china-publicly-test-fires-icmb-for-first-time-in-decades-5729713)
-* [Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://www.theepochtimes.com/us/family-who-lost-daughter-to-fentanyl-fighting-to-protect-others-5729581)
+    ![Bipartisan Senate Report Finds Security Failures in First Assassination Attempt on Trump](https://img.theepochtimes.com/assets/uploads/2024/08/09/id5703090-APTOPIX_Election_2024_Trump_24195806515160-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/bipartisan-senate-report-finds-security-failures-in-first-assassination-attempt-on-trump-5729810)
+* [Mortgage Applications Hit Highest Level in More Than 2 Years, Fueled by Refinancing Boom](https://www.theepochtimes.com/us/mortgage-applications-hit-highest-level-in-more-than-2-years-fueled-by-refinancing-boom-5729935)
     
-    7hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mortgage Applications Hit Highest Level in More Than 2 Years, Fueled by Refinancing Boom](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Family Who Lost Daughter to Fentanyl Fighting to Protect Others](https://img.theepochtimes.com/assets/uploads/2024/01/23/id5571981-Matt-and-daughter-Alexandra-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/family-who-lost-daughter-to-fentanyl-fighting-to-protect-others-5729581)
-* [Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://www.theepochtimes.com/us/harris-trump-agree-to-separate-town-halls-hosted-by-univision-5729646)
+    ![Mortgage Applications Hit Highest Level in More Than 2 Years, Fueled by Refinancing Boom](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730106-House-sale_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-applications-hit-highest-level-in-more-than-2-years-fueled-by-refinancing-boom-5729935)
+* [Former CDC Director Endorses Trump, Supports RFK Jr.’s Health Initiatives](https://www.theepochtimes.com/us/former-cdc-director-endorses-trump-supports-rfk-jr-s-health-initiatives-5729823)
     
-    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    3hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
-    [![Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Former CDC Director Endorses Trump, Supports RFK Jr.’s Health Initiatives](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris, Trump Agree to Separate Town Halls Hosted by Univision](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720809-trump-kamala-harris-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-trump-agree-to-separate-town-halls-hosted-by-univision-5729646)
-* [China’s Veteran Discontent Grows Amid Economic Slowdown](https://www.theepochtimes.com/china/chinas-veteran-discontent-grows-amid-economic-slowdown-5729226)
+    ![Former CDC Director Endorses Trump, Supports RFK Jr.’s Health Initiatives](https://img.theepochtimes.com/assets/uploads/2024/06/16/id5669736-robert-redfield-cdcKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-cdc-director-endorses-trump-supports-rfk-jr-s-health-initiatives-5729823)
+* [Judge Grants Special Counsel Jack Smith’s Motion to File ‘Oversized’ Brief in Trump Case](https://www.theepochtimes.com/us/judge-grants-special-counsel-jack-smiths-motion-to-file-oversized-brief-in-trump-case-5729951)
     
-    7hr By [Olivia Li](https://www.theepochtimes.com/author/olivia-li) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![China’s Veteran Discontent Grows Amid Economic Slowdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Grants Special Counsel Jack Smith’s Motion to File ‘Oversized’ Brief in Trump Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China’s Veteran Discontent Grows Amid Economic Slowdown](https://img.theepochtimes.com/assets/uploads/2024/08/08/id5701801-GettyImages-1243592931-1-SB_2-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinas-veteran-discontent-grows-amid-economic-slowdown-5729226)
+    ![Judge Grants Special Counsel Jack Smith’s Motion to File ‘Oversized’ Brief in Trump Case](https://img.theepochtimes.com/assets/uploads/2024/09/05/id5718809-Jack-Smith-Donald-Trump-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-grants-special-counsel-jack-smiths-motion-to-file-oversized-brief-in-trump-case-5729951)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
