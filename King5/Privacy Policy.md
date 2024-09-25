@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/221a7383-14e0-4776-b9fe-bd8ce1a1405f/20240924T062159/221a7383-14e0-4776-b9fe-bd8ce1a1405f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/221a7383-14e0-4776-b9fe-bd8ce1a1405f/20240924T062159/221a7383-14e0-4776-b9fe-bd8ce1a1405f_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
+    *  [![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_360x203.jpg)](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214)
         
-        #### [Machinists union refuses to vote on Boeing's 'best and final' contract offer](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-final-contract-offer-machinists-strike/281-b18924b5-96b5-4413-ad2c-64cca58b557c)
+        #### [Planned Lithium-ion battery storage facility causes concern for some Sumner residents](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214) [![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdb33339-7222-473c-bc98-274951b73eda/20240925T020930/bdb33339-7222-473c-bc98-274951b73eda_360x203.jpg)](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214)
         
-    *  [![](https://media.king5.com/assets/KREM/images/fa6de127-99e9-4b05-b47d-388ba999b5e3/20240924T175123/fa6de127-99e9-4b05-b47d-388ba999b5e3_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/fa6de127-99e9-4b05-b47d-388ba999b5e3/20240924T175123/fa6de127-99e9-4b05-b47d-388ba999b5e3_360x203.jpg)](https://www.king5.com/article/news/local/idaho-man-awaits-trial-charges-threatened-kill-former-president-trump/293-a5fc4fba-cfb3-43c6-a398-2c3acd5799e6)
+        #### [Sumner residents voice concerns over proposed Lithium-ion battery storage facility](https://www.king5.com/article/news/local/planned-lithium-ion-battery-storage-facility-causes-concern-some-sumner-residents/281-6064e17e-85c2-4a78-9a6e-84a32b16e214)
+    *  [![](https://media.king5.com/assets/KING/images/cebd10b3-a71c-4b58-b2ef-88404eabac63/20240925T021204/cebd10b3-a71c-4b58-b2ef-88404eabac63_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cebd10b3-a71c-4b58-b2ef-88404eabac63/20240925T021204/cebd10b3-a71c-4b58-b2ef-88404eabac63_360x203.jpg)](https://www.king5.com/article/life/food/seattle-eatery-new-york-times-best-restaurants-2024/281-8bf2d063-c91a-4d8a-b678-ecdc24dccf17)
         
-        #### [Idaho man awaits trial on charges he threatened to kill former President Trump](https://www.king5.com/article/news/local/idaho-man-awaits-trial-charges-threatened-kill-former-president-trump/293-a5fc4fba-cfb3-43c6-a398-2c3acd5799e6)
+        #### [Seattle eatery makes New York Times' 50 best restaurants of 2024 list](https://www.king5.com/article/life/food/seattle-eatery-new-york-times-best-restaurants-2024/281-8bf2d063-c91a-4d8a-b678-ecdc24dccf17)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5414cca1-88b1-41d4-acb8-600f08239a6b/20240924T192524/5414cca1-88b1-41d4-acb8-600f08239a6b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5414cca1-88b1-41d4-acb8-600f08239a6b/20240924T192524/5414cca1-88b1-41d4-acb8-600f08239a6b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/4776dd98-8852-4f88-88aa-8f756c78de11/20240925T004140/4776dd98-8852-4f88-88aa-8f756c78de11_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4776dd98-8852-4f88-88aa-8f756c78de11/20240925T004140/4776dd98-8852-4f88-88aa-8f756c78de11_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +96,9 @@ Navigation
 
 Seattle, WA »
 
-70°
+71°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
