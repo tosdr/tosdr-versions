@@ -101,6 +101,7 @@ Error
 * [mg-testing gen auth (fr)](#contract-pkwokjnuw)
 * [TEST K 1](#contract-hy96bhhf0)
 * [Canadian Criminal Record Consent Form NEW\* (French)](#contract-evru8dyya)
+* [Identity Fraud Notice](#contract-bjksxbw00)
 
 Test Contract 2
 ---------------
@@ -6000,6 +6001,63 @@ Les informations personnelles figurant sur ce formulaire sont recueillies en ver
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Signature: | {{first\_name}} {{last\_name}} | Date: | {{todays\_date}} |
+
+Identity Fraud Notice
+---------------------
+
+### Version 1.1
+
+##### Effective September 24th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66f3896f34bbd15f08a018a6.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Para información en español, visite www.consumerfinance.gov/learnmore o escribe a la Consumer Financial Protection Bureau, 1700 G Street N.W., Washington, DC 20552.
+
+  
+
+**Remedying the Effects of Identity Theft**
+
+You are receiving this information because you have been notified a consumer reporting company that you believe that you are a victim of identity theft. Identity theft occurs when someone uses your name, Social Security number, date of birth, or other identifying information, without authority, to commit fraud. For example, someone may have committed identity theft by using your personal information to open a credit card account or to get a loan in your name. **For** **more information, visit [www.consumerfinance.gov/learnmore](https://certn.co/privacy-policy/www.consumerfinance.gov/learnmore) or write to: Consumer Financial Protection Bureau, 1700 G Street N.W., Washington, DC 20552.**
+
+The Fair Credit Reporting Act (FCRA) gives you specific rights when you are, or believe that you are, the victim of identity theft. Here is a brief summary of the rights designed to help you recover from identity theft.
+
+**1.** **You have the right to ask that nationwide consumer reporting companies place “fraud** **alerts” in your file to let potential creditors and others know that you may be a victim** **of identity theft.** A fraud alert can make it more difficult for someone to get credit in your name because it tells creditors to follow certain procedures to protect you. It also may delay your ability to obtain credit. You may place a fraud alert in your file by calling just one of the three nationwide consumer reporting agencies. As soon as the agency processes your fraud alert, it will notify the other two, which then also must place fraud alerts in your file.
+
+o Equifax: 1-800-525-6285; [www.equifax.com](https://certn.co/privacy-policy/www.equifax.com)
+
+o Experian: 1-888-397-3742; [www.experian.com](https://certn.co/privacy-policy/www.experian.com)
+
+o TransUnion: 1-800-680-7289; [www.transunion.com](https://certn.co/privacy-policy/www.transunion.com)
+
+An initial fraud alert stays in you file for at least 90 days. An extended alert stays in your file for seven years. To place either of these alerts, a consumer reporting agency will require you to provide appropriate proof of your identity, which may include your Social Security number. If you ask for an extended alert, you will also have to provide an identity theft report. An identity theft report includes a copy of a report you have files with a federal, state, or local law enforcement agency, and additional information a consumer reporting agency may require you to submit. For more detailed information about the identity theft report, visit [www.consumerfinance.gov/learnmore](https://certn.co/privacy-policy/www.consumerfinance.gov/learnmore).
+
+**2.** **You have the right to free copies of the information in your file (your “file disclosure”).**
+
+An initial fraud alert entitles you to a copy of all the information in your file at each of the three nationwide agencies, and an extended alert entitles you to two free file disclosures in a 12-month period following the placing of the alert. These additional disclosures may help you detect signs of fraud, for example, whether fraudulent accounts have been opened in your name or whether someone has reported a change in your address. Once a year, you also have the right to a free copy of the information in your file at any consumer reporting agency, if you believe it has inaccurate information due to fraud, such as identity theft. You also havethe ability to obtain additional free file disclosures under other provisions of the FCRA. See [www.consumerfinance.gov/learnmore](https://certn.co/privacy-policy/www.consumerfinance.gov/learnmore).
+
+**3.** **You have the right to obtain documents relating to fraudulent transactions made or** **accounts opened using your personal information.** A creditor or other business must give you copies of applications and other business records relating to transactions and accounts that resulted from the theft of your identity, if you ask for them in writing. A business may ask you for proof of your identity, a police report, and an affidavit before giving you the documents. It also may specify an address for you to send your request. Under certain circumstances, a business can refuse to provide you with these documents. See [www.consumerfinance.gov/learnmore](https://certn.co/privacy-policy/www.consumerfinance.gov/learnmore).
+
+**4.** **You have the right to obtain information from a debt collector.** If you ask, a debt collector must provide you with certain information about the debt you believe was incurred in you name by an identity thief - like the name of the credit and the amount of the debt.
+
+**5.** **If you believe information in your file results from identity theft, you have the right to** **ask that a consumer reporting agency block that information from your file.** An identity thief may run up bills in your name and not pay them. Information about the unpaid bills may appear on your consumer report. Should you decide to ask a consumer reporting agency to block the reporting of this information, you must identity the information to block, and provide the consumer reporting agency with proof of your identity and a copy of your identity theft report. The consumer reporting agency can refuse or cancel your request for a block if, for example, you don’t provide the necessary documentation, or where the block results from an error or a material misrepresentation of fact made by you. If the agency declines or rescinds the block, it must notify you. Once a debt resulting from identity theft has been blocked, a person or business with notice of the block may not sell, transfer, or place the debt for collection.
+
+**6.** **You also may prevent businesses from reporting information about you to consumer** **reporting agencies if you believe the information is a result of identity theft.** To do so, you must send your request to the address specified by the business that reports the information to the consumer reporting agency. The business will expect you to identify what information you do not want reported and to provide an identity theft report.
+
+To learn more about identity theft and how to deal with its consequences, visit [www.consumerfinance.gov/learnmore](https://certn.co/privacy-policy/www.consumerfinance.gov/learnmore), or write to the Consumer Financial Protection Bureau.
+
+You may have additional rights under state law. For more information, contact your local consumer protection agency or your state Attorney General.
+
+In addition to the new rights and procedures to help consumers deal with the effects of identity theft, the FCRA has many other important consumer protections. They are described in more detail at [www.consumerfinance.gov/learnmore](https://certn.co/privacy-policy/www.consumerfinance.gov/learnmore).
+
+  
+
+  
 
 * * *
 
