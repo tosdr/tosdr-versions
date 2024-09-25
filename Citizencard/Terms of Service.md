@@ -579,12 +579,6 @@ Copyright © 2024 CitizenCard
 
 ![CitizenCard logo](/images/headers/citizencard-logo-white-transparent.png)
 
-CitizenCard website uses cookies. By continuing to use it, you agree to their use.
-
-Read our [Privacy Policy.](https://www.citizencard.com/cookie-privacy-policy)
-
-Accept & Close
-
 [](javascript:)
 
 ![](https://www.citizencard.com/index.php/_wblapi?nolangfilter=1&_wblapi=/forseo/v1/cron/image/)
