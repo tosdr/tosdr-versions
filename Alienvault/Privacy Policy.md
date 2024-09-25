@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Cybersecurity Threats: Top Risks Facing Your Startup
+            ##### Enhancing Cyber Resilience in Manufacturing Organizations
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-threats-top-risks-facing-your-startup)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-manufacturing-organizations)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -401,13 +401,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### David Balaban
+#### Theresa Lanowitz
 
-Sep 24, 2024
+Sep 25, 2024
 
-### [Cybersecurity Threats: Top Risks Facing Your Startup](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-threats-top-risks-facing-your-startup)
+### [Enhancing Cyber Resilience in Manufacturing Organizations](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-manufacturing-organizations)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
