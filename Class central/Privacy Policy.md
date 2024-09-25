@@ -398,11 +398,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [7 Best Genetics Courses for 2024](https://www.classcentral.com/report/best-genetics-courses/)
-2. [\[2024\] 1200+ Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
-3. [Learn Something New: 100 Most Popular Courses For October](https://www.classcentral.com/report/most-popular-october-2024/)
-4. [12 Best Microsoft Excel Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-excel-courses/)
-5. [8000+ OpenCourseWare Courses from Top Institutions](https://www.classcentral.com/report/ocw-courses/)
+1. [Massive List of MOOC-based Microcredentials](https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
+2. [7 Best Genetics Courses for 2024](https://www.classcentral.com/report/best-genetics-courses/)
+3. [\[2024\] 1200+ Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
+4. [Learn Something New: 100 Most Popular Courses For October](https://www.classcentral.com/report/most-popular-october-2024/)
+5. [12 Best Microsoft Excel Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-excel-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -413,38 +413,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. data science
+1. java
     
-2. psychology
+2. hacking
     
-3. sql
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Computer Science
     
-    9,301 courses](https://www.classcentral.com/subject/ai)
-2. [Data Analysis
+    31,681 courses](https://www.classcentral.com/subject/cs)
+2. [Web Development
     
-    7,645 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Python
+    12,537 courses](https://www.classcentral.com/subject/web-development)
+3. [Information Technology
     
-    8,521 courses](https://www.classcentral.com/subject/python)
+    4,238 courses](https://www.classcentral.com/subject/information-technology)
 
 Popular courses
 ---------------
 
-1. [Introduction to Cyber Security
+1. [Model Thinking
     
-    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
-2. [How to Write Your First Song
+    University of Michigan](https://www.classcentral.com/course/modelthinking-317)
+2. [Chinese for Beginners
     
-    The University of Sheffield](https://www.classcentral.com/course/songwriting-3369)
-3. [Machine Learning for Musicians and Artists
+    Peking University](https://www.classcentral.com/course/hy-2353)
+3. [Product Management Fundamentals
     
-    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
+    University System of Maryland](https://www.classcentral.com/course/product-management-the-university-of-maryland-col-19098)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
