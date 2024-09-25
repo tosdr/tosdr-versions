@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 24, 2024**
+**September 25, 2024**
 
 * * *
 
@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
-
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -269,7 +269,7 @@ this week
 
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
   
 
