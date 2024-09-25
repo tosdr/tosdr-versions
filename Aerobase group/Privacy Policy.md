@@ -200,7 +200,7 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
-* [Saab to open munitions production facility in Northern Michigan](https://www.defensenews.com/land/2024/09/24/saab-to-open-munitions-production-facility-in-northern-michigan/)  
+* [Saab to open munitions production facility in Michigan](https://www.defensenews.com/land/2024/09/24/saab-to-open-munitions-production-facility-in-northern-michigan/)  
     09/24/24 10:46am  
     
     Delegates socialize in front of a large display on the SAAB stand during the 2019 iteration of the DSEI arms fair in London. Saab is expanding globally and has announced plans for a munitions facility in Grayling, Michigan. (Leon Neal/Getty Images)
