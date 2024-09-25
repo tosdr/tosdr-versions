@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/angst-wat-is-dat-hoe-bevrijd-je-je-daarvan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/wat-welvaart-niet-is/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
