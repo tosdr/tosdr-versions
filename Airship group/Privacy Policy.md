@@ -135,7 +135,7 @@
     * [Français](https://www.airship.com/fr/)
     * [Deutsch](https://www.airship.com/de/)
     
-* [Get a Demo](https://www.airship.com/demo-request/)
+* [Get a Demo](https://growth.airship.com/demo-request/)
 
 Legal
 =====
