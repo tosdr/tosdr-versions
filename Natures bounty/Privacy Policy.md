@@ -82,7 +82,7 @@ See How You Can Help Grow Thicker, Fuller Hair with Our Innovative Hair Growth S
 
 [![](//naturesbounty.com/cdn/shop/files/susan_g_komen_menu_image.png?v=1725555987&width=425)
 
-As part of our 3rd annual partnership with Susan G. Komen®, for each specially marked product sold in select retailers from 8/25/2024 to 11/30/2024, we will donate $0.50 to fund research and care services for those with breast cancer.♦ Learn More >](https://www.naturesbounty.com/pages/womens-wellness)
+As part of our 3rd annual partnership with Susan G. Komen®, for each specially marked product sold in select retailers from 8/25/2024 to 11/30/2024, we will donate $0.50 to fund research and care services for those with breast cancer.♦ Learn More >](https://www.naturesbounty.com/pages/susan-g-komen)
 
 [About Us](https://www.naturesbounty.com/pages/about-us)
 
@@ -238,7 +238,7 @@ Resources For You
 
  [![](//naturesbounty.com/cdn/shop/files/hair-growth-cta-lrg.png?v=1682098268&width=425) See How You Can Help Grow Thicker, Fuller Hair with Our Innovative Hair Growth Supplement\*](https://www.naturesbounty.com/pages/hair-growth)
 
- [![](//naturesbounty.com/cdn/shop/files/susan_g_komen_menu_image.png?v=1725555987&width=425) As part of our 3rd annual partnership with Susan G. Komen®, for each specially marked product sold in select retailers from 8/25/2024 to 11/30/2024, we will donate $0.50 to fund research and care services for those with breast cancer.♦ Learn More >](https://www.naturesbounty.com/pages/womens-wellness)
+ [![](//naturesbounty.com/cdn/shop/files/susan_g_komen_menu_image.png?v=1725555987&width=425) As part of our 3rd annual partnership with Susan G. Komen®, for each specially marked product sold in select retailers from 8/25/2024 to 11/30/2024, we will donate $0.50 to fund research and care services for those with breast cancer.♦ Learn More >](https://www.naturesbounty.com/pages/susan-g-komen)
 
 ![](//naturesbounty.com/cdn/shop/files/about-hero.jpg?v=1668418338&width=2200)
 
