@@ -189,7 +189,7 @@ We use necessary cookies on the following domains:
 * Ofcom: [https://www.ofcom.org.uk](https://www.ofcom.org.uk/ "Ofcom's website")[](https://www.ofcom.org.uk/)
 * Workday: [Please see separate workday cookies policy](https://about-ofcom/website/cookies-policy/workday-cookies-policy "Workday Cookies Policy")
 * Small Screen: Big Debate: [https://www.smallscreenbigdebate.co.uk](https://www.smallscreenbigdebate.co.uk/ "https://www.smallscreenbigdebate.co.uk")
-* The Office of the Telecommunications Adjudicator: [http://www.offta.org.uk](http://www.offta.org.uk/ "http://www.offta.org.uk")
+* The Office of the Telecommunications Adjudicator: [http://www.offta.org.uk](https://www.offta.org.uk/ "http://www.offta.org.uk")
 * The Office of the Adjudicator – Broadcast Transmission Services: [http://ota-bts.org.uk/](http://ota-bts.org.uk/ "http://ota-bts.org.uk/")\*
 * The Office of the Adjudicator – Contracts Rights Renewal (CRR): [http://www.adjudicator-crr.org.uk/](http://www.adjudicator-crr.org.uk/ "http://www.adjudicator-crr.org.uk/")\*
 * Ofcom mobile and broadband checker: [https://checker.ofcom.org.uk](https://checker.ofcom.org.uk/ "https://checker.ofcom.org.uk")\*
@@ -231,7 +231,7 @@ These cookies help us understand how people use the following websites:
 * Ofcom: [https://www.ofcom.org.uk](https://www.ofcom.org.uk/)  
 * Ofcom mobile and broadband checker: [https://checker.ofcom.org.uk](https://checker.ofcom.org.uk/)
 * Small Screen: Big Debate: [https://www.smallscreenbigdebate.co.uk](https://www.smallscreenbigdebate.co.uk/)
-* The Office of the Telecommunications Adjudicator: [http://www.offta.org.uk](http://www.offta.org.uk/)
+* The Office of the Telecommunications Adjudicator: [http://www.offta.org.uk](https://www.offta.org.uk/)
 
 This includes how many people visit a website, which pages they view and how they navigate through it. We use this information to make improvements. Anonymous data is used.
 
