@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy%3Futm_source%3Demail&utm_medium=edm&utm_campaign=240924_EDM_RS_STORE_KEY_ALL_WW_BR_SNAPTAP_24Q3&utm_content=&cid=240924_EDM_RS_STORE_KEY_ALL_WW_BR_SNAPTAP_24Q3&sfid=102390624)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
