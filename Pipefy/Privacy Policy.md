@@ -68,11 +68,15 @@ Privacy Policy
 
 [7\. Additional information about GDPR and UK GDPR](#additional-information)
 
-[8\. Changes to this notice](#changes-to-this-notice)
+[8\. Data Privacy Framework (DPF)](#data-privacy-framework)
 
-[9\. Legal notice](#legal-notice)
+[9\. Your Rights - California Residents](#california-consumer-privacy-act)
 
-[10\. Questions](#questions)
+[10\. Changes to this notice](#changes-to-this-notice)
+
+[11\. Legal notice](#legal-notice)
+
+[12\. Questions](#questions)
 
 This Privacy Notice (“Notice”) describes Pipefy’s policies and procedures regarding the collection, use, and disclosure of your Personal Data. This notice does not apply to any information we collect from you through other means (including offline) or through other sources.
 
@@ -288,24 +292,97 @@ We may collect some Personal Data from sources other than the Data Holder, in th
 * registration and behavioral data, for customer service when this support involves third-party platforms;
 * when you are an employee of a company that uses Pipefy, this company may provide us with registration data about you so that we can execute the contract with it. Furthermore, the company will also be able to share behavioral data of its employees with us, for the purpose of training users who will be administrators of Pipefy’s tool on behalf of the company.
 
-8\. Changes to this Notice
---------------------------
+8\. Data Privacy Framework (DPF)
+--------------------------------
+
+#### 8.1 - Compliance with Federal Laws:
+
+Pipefy Inc complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.
+
+Pipefy Inc has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. DPF Principles with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.
+
+Pipefy has also certified its compliance with the Swiss-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. In the event of any conflict between the terms in this privacy policy and the DPF Principles, the DPF Principles shall govern.
+
+To learn more about the Data Privacy Framework (DPF) program and view our certification, please visit **[https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/).**
+
+#### 8.2 - Contact Us:
+
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Pipefy commits to resolving DPF Principles-related complaints regarding our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints about our handling of personal data received under the DPF should contact Pipefy at:**[\[email protected\]](https://www.pipefy.com/cdn-cgi/l/email-protection).**
+
+#### 8.3 - Compliance with Authorities:
+
+Pipefy commits to cooperating and complying with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner’s Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) regarding unresolved complaints concerning personal data received under the DPF frameworks.
+
+#### 8.4 - Third Party:
+
+Pipefy may share information with a limited number of sub-processors necessary to provide its services. In compliance with the DPF Principles, Pipefy ensures that all sub-processors adhere to equivalent standards of data protection and privacy. A list of sub-processors can be found at: **[https://www.pipefy.com/sub-processors](https://www.pipefy.com/sub-processors).**
+
+#### 8.5 - Data Rights:
+
+Pipefy commits to handling all data in accordance with DPF regulations, granting users full rights to access, rectify, and delete their personal data. Detailed information about your rights can be found in section 5 of this policy.
+
+For any questions regarding your rights, please contact us at:**[\[email protected\]](https://www.pipefy.com/cdn-cgi/l/email-protection).**
+
+#### 8.6 - Data Usage and Sharing Limitation:
+
+Pipefy provides individuals with options to limit the use and disclosure of their personal data, including customizable privacy settings, consent controls, and the ability to access, correct, or delete their information. We implement strict security measures and comply with privacy standards to safeguard user data, ensuring transparency and control over how personal information is used and shared.
+
+#### 8.7 - Federal Trade Commission's Investigation and Regulation:
+
+Pipefy is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC), which ensures that Pipefy complies with privacy and data security regulations. The FTC has the authority to investigate and take action in case of any violations, promoting accountability in Pipefy’s data handling practices.
+
+#### 8.8 - Legal Requests:
+
+Pipefy is committed to informing individuals when personal information must be disclosed in response to legal requests from public authorities, including requests related to national security or law enforcement. Pipefy will ensure transparency while complying with lawful requests, safeguarding individual privacy to the fullest extent possible under the law.
+
+8.9 - Onward Transfers to Third Parties:
+
+Pipefy is liable for onward transfers of personal data to third parties. This means Pipefy ensures that third parties receiving personal data adhere to the same standards of data protection and privacy as Pipefy. In the event of non-compliance by third parties, Pipefy will take appropriate measures to address and resolve any issues that arise.
+
+9.Your Rights - California Residents
+------------------------------------
+
+If you are a resident of California, under the **California Consumer Privacy Act** (“CCPA”), we are required to provide additional information to you about how we use and disclose your information, and you may have additional rights regarding how we use your information.
+
+As described in the **"What Personal Data Do We Handle and For What?"** section, we collect certain categories and specific pieces of information about individuals that are considered "Personal Information" under California law. As detailed above, we may collect this Personal Information from you and other third parties, and we use, share, and disclose it for the business and commercial purposes described in that section.
+
+**We do not sell Personal Information**, as defined under California law.
+
+Subject to certain exceptions, as a California consumer, you have the right to:
+
+* Access your Personal Information;
+* Request the deletion of your Personal Information;
+* Receive information about the Personal Information about you that we have "sold" (as defined under California law) to third parties in the past 12 months;
+* Opt-out of the "sale" of your Personal Information, as detailed above in the **"Cookies and Tracking Technologies"** section.
+
+To the extent permitted by applicable law, we may be required to retain some of your Personal Information, and certain Personal Information is strictly necessary for us to fulfill the purposes described in this Privacy Policy.
+
+Should you wish to exercise the rights detailed above regarding your Personal Information, **we will not discriminate** against you by offering different pricing, products, or services, or by providing a different level or quality of products or services solely based on your request.
+
+Please contact us at [\[email protected\]](https://www.pipefy.com/cdn-cgi/l/email-protection) if you have questions or wish to exercise these rights.
+
+If you are a California consumer and you wish to exercise your rights as outlined in this section, you may need to provide information such as your name and email so that we can verify your identity. We will use the information you provide for no other purpose than verifying your identity. You also have the option of designating an authorized agent to exercise your rights on your behalf. For authorized agents submitting requests on behalf of California residents, please contact us as described above, providing any evidence that you have been authorized by a California consumer to submit a request on their behalf.
+
+**Shine the Light**: We do not rent, sell, or share your Personal Information with nonaffiliated companies for their direct marketing purposes unless we have your permission. You also have the right to request that we provide you with: (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties.
+
+10\. Changes to this Notice
+---------------------------
 
 If we change our Privacy Notice and you are our customer or registered in our mailing, we will send you an email informing you about the update. In addition, we will post these changes on this page to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it.
 
 Changes to this Privacy Policy are effective when they are posted on this page.
 
-9\. Legal Notice
-----------------
+11\. Legal Notice
+-----------------
 
 We are not responsible for the practices employed by websites linked to or from our Service, nor for the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Notice will no longer be in effect. Your navigation and interaction on any other website, including those that have a link on our website, is subject to the rules and policies of the website you are visiting.
 
-10\. Questions
+12\. Questions
 --------------
 
 If you prefer, you can directly contact our _Supervisor_, Cainã Gomez, through the email address [\[email protected\]](https://www.pipefy.com/cdn-cgi/l/email-protection), or our Representatives in the European Union or in the United Kingdom, through the informed channels in topic 7.1 above.
 
-**Last Update**: May 9, 2024.
+**Last Update**: Sep 23, 2024.
 
  [![Play Media Icon](https://assets-site.staticpipefy.com/production/wp-content/uploads/2024/08/iconPLayMedia.svg)Book a Demo](https://www.pipefy.com/book-a-demo/)
 
