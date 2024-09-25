@@ -63,10 +63,6 @@ Upcoming Courses
 
 [View All Courses »](https://www.atlasobscura.com/online-courses)
 
-   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
-
-In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
-
    [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
 
 How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
@@ -78,6 +74,10 @@ Stories in the Stones: How to Read a Gravestone With Dr. Elise M. Ciregna](https
    [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
 
 Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
+
+   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
+
+In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
 
    [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
 
@@ -135,21 +135,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
+   [![](https://img.atlasobscura.com/zEIW3J73Ap1QEHkHgrRDskh-v2Q80WHzZKSyGNP2DYI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTMx/MThjNC00MTc3LTQ2/YjItYjBjNi03MzZk/ODk4MzFlMjZiZThh/Nzg5ODU1YzIzNDJm/YmZfMi5qcGc.jpg)
+
+Tomb of the Unknown Warrior](https://www.atlasobscura.com/places/tomb-of-the-unknown-warrior-pune)
+
+   [![Statue of Stephanie Beauharnais](https://img.atlasobscura.com/KKWGTbWlB4tP2JIL3RMeI4z17HcpV_QAGjowXA7-yHI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84Mjhk/NTI3MC03YWQ0LTQ1/YjMtYWNmYy0yMzE0/N2IwNDIyNzQzY2M2/ZjNiM2Q0OGRhYzhl/MjdfU3RlcGhhbmll/X0JlYXVoYXJuYWlz/X01BLmpwZw.jpg)
+
+Statue Stephanie de Beauharnais](https://www.atlasobscura.com/places/statue-stephanie-de-beauharnais)
+
+   [![Stele of Napoleon III overwritten on Assyrian stele](https://img.atlasobscura.com/PjCNLXq-Rsge6JASJv4LAjnr6bJ5XOW9RnvPYl_sX-4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84YTc2/OWFhNS00ZmY3LTQ3/OTItYWE3Mi0zMzRj/NTFmZjIyZDlmYzVm/NGM5ZTFhZDBkYzkz/OWVfSU1HXzM5MDku/anBlZw.jpg)
+
+Stelae of Nahr el-Kalb](https://www.atlasobscura.com/places/stelae-of-nahr-el-kalb)
+
    [![The Tomb of Piers Shonks in St Mary's Church in Brent Pelham, Hertfordshire](https://img.atlasobscura.com/RJU0zN-A_PYneVUUOqxv33Ib0CfZj1eMxGAabHA-cxA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDI3/ZjhiNC1kYzUzLTQ0/MmUtYTJhMS05NmIw/OGQ3ZjIxNTViOTIy/MjBjNzNjOTg5ODNh/NGNfUFhMXzIwMjMw/NTIwXzE1MjMwODEy/Ny5qcGc.jpg)
 
 Tomb of Piers Shonks](https://www.atlasobscura.com/places/tomb-of-piers-shonks)
-
-   [![These ruined arches date back to the 12th century.](https://img.atlasobscura.com/I-yEoAiSSWwcs5hup5G43SnIBHhh_wWPGCz6-P-dR_E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82MTQy/ZmQ2MS00MGY3LTQx/OTUtYTA0MS04ODFj/ODIzMzk1ZTdiMDIy/NDI1ODMyNDVkNjIy/ODJfSU1HXzM0NDIu/anBlZw.jpg)
-
-St Botolph's Priory](https://www.atlasobscura.com/places/st-botolphs-priory)
-
-   [![My Son Santuary temple](https://img.atlasobscura.com/7iR59cK4yvsBPQP52LlByFSpdzo_6pypXl7OWJBH49g/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81YWRm/NTVkZC1lYmIwLTRh/MGYtYjdmYS0zZjc1/OTQyYWE3Yzg4Yjkz/NDUyYjQyYTE3ODE1/ZWVfMjAyNDAzMDdf/MTYwNjU3LmpwZw.jpg)
-
-My Son Santuary](https://www.atlasobscura.com/places/my-son-santuary)
-
-   [![A soloist performing at the amphitheater of Bosra](https://img.atlasobscura.com/6t6KAxBVv4hqUiBGCELixDLPu1-Mw0djXos7m2XKR3s/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZTQ1/NzdmYi02YTFiLTRj/YmEtYmExZi0zY2Uz/OGRkMzljY2I2NjJl/ZjM5OGQ1MDdmNzcx/OGNfc3lyaWFfYm9z/cmEwNC5wbmc.png)
-
-Black Amphitheater of Bosra](https://www.atlasobscura.com/places/black-amphitheater-of-bosra)
 
 Latest Places to Eat & Drink
 
@@ -183,6 +183,14 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![Don't believe the hype about object 2024 PT5 being a "mini-moon." We have only one moon, seen here during the Artemis I mission in 2022. ](https://img.atlasobscura.com/qCxXXkijnJYzGpDD7cvHeW2NWMAhZLStPcCFUjdcVh0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kMTMwZjRjOTc4/Y2Y1NDZlNzRfQXJ0/ZW1pc18yMDIyX01v/b24uanBn.jpg)
+
+Our 'Mini-Moon' 2024 PT5 Is Mini—But It's Not a Moon](https://www.atlasobscura.com/articles/mini-moon-2024-pt5)
+
+   [![Poles protrude from the Xiaohe cemetery, marking the locations of tombs. ](https://img.atlasobscura.com/Jf2PxdeKr_3zM4eZNBbq-WnLn_JZnGFbvIYYdguSgOc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84OTExZjBhYy02/MTM0LTQ2YjMtYjFl/Yy0yNWMyN2UxNGU1/OWYzMzVlNjA3MjBm/NmIzMGUwNDdf5qW8/5YWw5Y-k5Z-OX0xv/dWxhbl9jaXR5X0No/aW5hX1hpbmppYW5n/X1VydW1xaV9XZWxj/b21lX3lvdV90b190/b3VyX3RoZV8tX3Bh/bm9yYW1pb18oMSku/anBn.jpg)
+
+This Mummy Cheese Is Full of Ancient Secrets](https://www.atlasobscura.com/articles/mummy-cheese-discovery)
+
    [![Foxfire is the bioluminescence created by some species of fungi that grow on decaying wood, like this Omphalotus nidiformis, or ghost fungus. ](https://img.atlasobscura.com/Uejl2LZixceGeQfNWMRkMpzUYkpnOtSh7kbHqSBOdVg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zYzQxOTE3YS03/NTIyLTQ5OWQtYTAy/MS1mNDU5YTM4NWIz/MTZmMDhhZmYzMjky/OTE4ZWY2OWVfR2V0/dHlJbWFnZXMtMTE4/ODYyNjg0OS5qcGc.jpg)
 
 Foxfire Brings Magical Light to the Dark Forest](https://www.atlasobscura.com/articles/the-magic-of-mushrooms)
@@ -190,14 +198,6 @@ Foxfire Brings Magical Light to the Dark Forest](https://www.atlasobscura.com/ar
    [![](https://img.atlasobscura.com/ptGbiY149RMgGXB3-PpTm6a9tkp1Q0UqC-Kh-Chiol8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80N2NiZWQyNS04/NDExLTQ2YjEtYWQw/YS1hNjRkN2M5ZmQw/NzkzMTgzMGY3Njg4/MTEwOTg3NDlfSUdf/U1RCU19BQkJFVklM/TEVfU1RJTEwtMDA1/LmpwZw.jpg)
 
 Podcast: Small Town, Big Story: The Giant Omelet of Abbeville, LA](https://www.atlasobscura.com/articles/podcast-small-town-big-story-the-giant-omelet-of-abbeville-la)
-
-   [![For more than a century, people have traveled to Amherst to see where Emily Dickinson lived.  ](https://img.atlasobscura.com/kt1sRVWmBQ4w12EaJf3S-rvwOnM2FOE3C8-K6Td1Oyg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lNTIxNGYwMy02/MmM0LTQ5MmUtOTRj/Ni01NjU4NzgwMzZl/M2QyZTBjNDNjZWIz/YmVmOTkwOTNfVG91/ci1MeW5uZSBHcmF2/ZXMocGhvdG9nKS0w/OS5qcGc.jpg)
-
-How a TV Show Brought New Fans (and Furniture) to Emily Dickinson's House](https://www.atlasobscura.com/articles/emily-dickinson-homestead-fans)
-
-   [![The pawpaw has a brief seasonal window, from September to October.](https://img.atlasobscura.com/R-4jmWCxUgFX5aTqKKBtP7ZCbSwl_XopnaKsQ2Kp3Hw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82NGIyMmE5Mjc1/NGM3MmMzNjJfb3Bl/bnBhd3Bhdy5qcGc.jpg)
-
-Foraging for America's Forgotten Fruit](https://www.atlasobscura.com/articles/how-to-forage-for-pawpaw-recipes)
 
 No search results found for  
 “”
