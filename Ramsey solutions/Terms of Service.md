@@ -18,7 +18,7 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [Insurance](https://www.ramseysolutions.com/insurance/insurance-coverage?snid=topics.topics.insurance)
         * [Taxes](https://www.ramseysolutions.com/taxes/tax-services?snid=topics.topics.taxes)
         * [Personal Growth](https://store.ramseysolutions.com/personal-growth/books/building-a-non-anxious-life-by-dr-john-delony/?snid=topics.topics.personal-growth)
-        * [Career](https://store.ramseysolutions.com/business-and-career/assessments/get-clear-career-assessment-for-career-change/?snid=topics.topics.career)
+        * [Career](https://www.ramseysolutions.com/career-advice?snid=topics.topics.career)
     
     * [See All Topics](https://www.ramseysolutions.com/articles?snid=topics#feed-content)
     
