@@ -8,8 +8,9 @@ Offer: Secure your digital identity - [get a FREE .bio domain today!](https://rb
 * Resources
 
 * [My dashboard](https://app.rebrandly.com/)
-* [Get a demo](https://rebrandly.com/book-a-demo)
 * [Login](https://app.rebrandly.com/login?opt=eyJwbGFuSWQiOiIxNmYwOGZiOTc0OWQ0MTdlYjE0MmEzMjZhMmQwNTI3YyJ9)
+* [Talk to Sales](https://rebrandly.com/book-a-demo)
+* [Get Started](https://app.rebrandly.com/sign-up)
 
 [Terms of use](https://rebrandly.com/terms-conditions) [Privacy Policy](https://rebrandly.com/privacy-policy) [Cookie Policy](https://rebrandly.com/cookies) [Data Processing Addendum](https://rebrandly.com/data-processing) [Affiliate Agreement](https://rebrandly.com/affiliate-agreement) [User Research](https://rebrandly.com/user-research)
 
