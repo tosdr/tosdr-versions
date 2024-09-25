@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
+[![What is the most aggressive form of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-the-most-aggressive-form-of-lung-cancer.jpg "What Is the Most Aggressive Form of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-most-aggressive-form-of-lung-cancer/ "What Is the Most Aggressive Form of Lung Cancer?")
 
-[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
+[#### What Is the Most Aggressive Form of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-most-aggressive-form-of-lung-cancer/)
 
-[![What are the warning signs of elder abuse and neglect?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-warning-signs-of-elder-abuse-and-neglect-scaled.jpg "What Are the Warning Signs of Elder Abuse and Neglect?")](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/ "What Are the Warning Signs of Elder Abuse and Neglect?")
+[![Lawyers address assisted living abuse cases](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases-300x131.jpg "Lawyers Address Assisted Living Abuse Cases")](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/ "Lawyers Address Assisted Living Abuse Cases")
 
-[#### What Are the Warning Signs of Elder Abuse and Neglect?](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/)
+[#### Lawyers Address Assisted Living Abuse Cases](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/)
 
-[![When should i contact a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomawhen-should-i-contact-a-mesothelioma-lawyer-scaled.jpg "When Should I Contact a Mesothelioma Lawyer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/ "When Should I Contact a Mesothelioma Lawyer?")
+[![Can mesothelioma spread to other organs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-can-mesothelioma-spread-to-other-organs.jpg "Can Mesothelioma Spread to Other Organs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/ "Can Mesothelioma Spread to Other Organs?")
 
-[#### When Should I Contact a Mesothelioma Lawyer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/)
+[#### Can Mesothelioma Spread to Other Organs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
