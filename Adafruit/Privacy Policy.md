@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
+“ When you destroy art, you make it stronger”
 
-[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+[Jens Galschiot](https://en.wikipedia.org/wiki/Jens_Galschi%C3%B8t)
 
 [](https://www.adafruit.com/about)
 
