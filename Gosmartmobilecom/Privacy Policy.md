@@ -85,7 +85,7 @@ We share information with service providers. We use service providers to perform
 
 We share information that identifies you with a partner who verifies your identity to facilitate your interactions with third parties, such as banks. Our partner also uses the information we share to assist third parties with decisions about credit applications that you submitted to a bank or other third party. Information about how to opt out of the disclosure of information for this purpose is in the “Your Choices About How Information is Used” section.
 
-We may share with or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as cookies, pixels, web beacons, tags, scripts or similar technologies on our pages and the browsers you use. These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, and other purposes as described in the “How we collect personal information” section.
+We may share with or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts or similar technologies](javascript:void(0)) on our pages and the browsers you use. These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, and other purposes as described in the “How we collect personal information” section.
 
 _Walmart Family Mobile Customers_. If you are a Walmart Family Mobile customer, we work with Walmart Stores, Inc. ("Walmart") to offer the Walmart Family Mobile service. Any information you provide directly to Walmart will be subject to Walmart's Privacy Policy, not this one. This includes information you provide to Walmart in connection with your device purchase, upgrade, return, or replacement, whether in its stores, by phone or online, including but not limited to, if you purchase a Family Mobile device or obtain technical support for the device at or from Walmart or its agents. In addition, if you activate Walmart Family Mobile communications services at a Walmart store, Walmart may request personal information from you that is passed to TracFone as part of the activation process, but which may also be retained by Walmart. You can learn more by [visiting Walmart's Privacy Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy).
 
@@ -97,7 +97,7 @@ We also share de-identified information with companies to assist with the delive
 
 **We share information with advertising companies.**
 
-We may share, or allow certain third-party advertising companies to collect information about your activity on our sites and in our apps, including advertising identifiers from your mobile device operating system. They can use that information to help us provide more relevant TracFone advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including TracFone, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use technologies, such as cookies, pixels, web beacons, tags, scripts or similar technologies on our pages and the browsers you use, or we may share information using application program interfaces (APIs).
+We may share, or allow certain third-party advertising companies to collect information about your activity on our sites and in our apps, including advertising identifiers from your mobile device operating system. They can use that information to help us provide more relevant TracFone advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including TracFone, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use technologies, such as [cookies, pixels, web beacons, tags, scripts or similar technologies](javascript:void(0)) on our pages and the browsers you use, or we may share information using application program interfaces (APIs).
 
 TracFone sites and services may also include social networks or other third-party plug-ins and widgets that may provide information to their associated social networks or third parties even if you do not click on or otherwise interact with the plug-ins and widgets
 
@@ -452,6 +452,9 @@ Washington, DC 20005
 
 ×
 
+**Cookies, Pixels, Web Beacons, Tags, Scripts and Similar Technologies**
+========================================================================
+
 Cookies, pixels, web beacons, tags, scripts and similar technologies are tools that websites can use for a variety of purposes. Examples of the ways we use these tools include improving website and app security, authenticating you, detecting and deterring fraud, improving site performance, improving site navigation and fixing bugs, recognizing you as a registered user and remembering your settings and preferences, site analytics and providing more personalized content. Third parties that we allow to operate on our site use the data they collect for the same purposes or may use the information to help determine what parts of our sites or emails are more interesting to you to better provide Verizon advertising on other sites and apps. These providers may also combine information they obtain from our site with information they collect from other sites to better target Verizon and other advertisements to you.
 
 **Cookies.** A cookie consists of data that is written on your computer browser when you visit a website. A cookie’s value usually includes a unique user identifier which enables websites and third parties whose code is present on the website to recognize your browser and maintain information about your visit to the site. This enables us to customize your experience and reach you with relevant advertising on other sites, apps and devices. “Cookies” include various types of data stored in the browser such as HTTP cookies and HTML Web Storage
@@ -470,14 +473,15 @@ The Digital Advertising Alliance provides you the ability to prevent the use of 
 
 You can also manage cookies using features and functions available on most Internet browsers that allow you to delete or disable cookies and even choose what types of cookies may be placed on your device. More information about cookie controls for specific browsers can be found here:
 
-You can also use your mobile device settings to manage whether your device advertising identifier is available to apps or third parties. More information about using these settings can be found here:
-
 * [Microsoft Edge browsers](http://support.microsoft.com/kb/278835)
 * [Chrome browsers](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop)
 * [Apple Safari browsers](http://www.apple.com/safari/features.html#security)
 * [Mozilla Firefox browsers](http://kb.mozillazine.org/Cookies)
-    * [Android](https://support.google.com/android/answer/12461628?hl=en) (on some phones these options will be under “Google” in
-    * [iOS](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
+
+You can also use your mobile device settings to manage whether your device advertising identifier is available to apps or third parties. More information about using these settings can be found here:
+
+* [Android](https://support.google.com/android/answer/12461628?hl=en) (on some phones these options will be under “Google” in
+* [iOS](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
 
 Please be aware that disabling cookies may prevent you from using specific features on our sites and other sites, such as ordering products or services and maintaining an online account.
 
