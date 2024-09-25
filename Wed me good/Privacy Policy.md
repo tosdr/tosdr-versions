@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Rashi and Karan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Rashi and Karan](https://image.wedmegood.com/resized/250X/uploads/images/c1b1116282e344eab70dd3ca2aa7b949realwedding/Rashi&Karan-30947.jpg?crop=255,366,1620,911)
+
+Rashi and Karan (Bali)](https://www.wedmegood.com/real_wedding/detail/rashi-and-karan-bali-wedding-4394)
+
 [![Ria and Kartik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Ria and Kartik](https://image.wedmegood.com/resized/250X/uploads/images/799bf9c2f7774f5fb2923c0d2030787erealwedding/IMG_8074.JPG?crop=553,230,2174,1223)
 
 Ria and Kartik (Delhi NCR)](https://www.wedmegood.com/real_wedding/detail/ria-and-kartik-delhi-ncr-punjabi-sikh-wedding-4392)
-
-[![Tushika and Prateek](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Tushika and Prateek](https://image.wedmegood.com/resized/250X/uploads/images/d535d54cb2144c24a18ad4933fe688f3realwedding/Prateek&Tushika_Wedding2546.jpg?crop=364,147,1360,765)
-
-Tushika and Prateek (Dubai)](https://www.wedmegood.com/real_wedding/detail/tushika-and-prateek-dubai-punjabi-sikh-wedding-4391)
 
 Browse by Category
 
