@@ -907,7 +907,3 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 Save & Accept
 
 Powered by [![CookieYes Logo](https://www.parchment.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
-
-           
-
-This site is registered on [wpml.org](https://wpml.org/) as a development site. Switch to a production site key to [remove this banner](https://wpml.org/faq/how-to-remove-the-this-site-is-registered-on-wpml-org-as-a-development-site-notice/).
