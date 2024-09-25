@@ -61,7 +61,7 @@ Main navigation
     
     #### Featured
     
-    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
+    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
     
     [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
@@ -135,13 +135,13 @@ Main navigation
     
     ![clock icon](//www.morphe.com/cdn/shop/t/896/assets/clock-icon.svg?v=42723469760392072181726616284) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
     
-* ### Sets & Bundles
+* ### Sets & Gifts
     
-    Show submenu for Sets & Bundles
+    Show submenu for Sets & Gifts
     
     #### Featured
     
-    [Shop All](https://www.morphe.com/collections/best-gifts) [Gift Sets](https://www.morphe.com/collections/kit-sets) [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
+    [Shop All](https://www.morphe.com/collections/best-gifts) [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Gift Sets](https://www.morphe.com/collections/kit-sets) [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
     
     #### Gift By Price
     
@@ -234,7 +234,9 @@ Main navigation
     
     [Shop All](https://www.morphe.com/collections/shop-new-arrivals)
     
-    [NEW Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful)
+    [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama)
+    
+    [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful)
     
     [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond)
     
@@ -336,13 +338,15 @@ Main navigation
     
 * [ ] 
     
-    ### Sets & Bundles
+    ### Sets & Gifts
     
     #### 
     
     Featured
     
     [Shop All](https://www.morphe.com/collections/best-gifts)
+    
+    [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama)
     
     [Gift Sets](https://www.morphe.com/collections/kit-sets)
     
@@ -811,14 +815,11 @@ Find a store](https://www.morphe.com/pages/store-locator)
 
 [Contact Us](https://www.morphe.com/pages/contact)
 
-[Promotions](https://www.morphe.com/pages/promos-and-offers)
-
 [Need some help?](#)
 --------------------
 
 * [Help Center](https://www.morphe.com/pages/help-center)
 * [Contact Us](https://www.morphe.com/pages/contact)
-* [Promotions](https://www.morphe.com/pages/promos-and-offers)
 
  My Morphe
 
@@ -839,15 +840,12 @@ Find a store](https://www.morphe.com/pages/store-locator)
 
 [About Morphe](https://www.morphe.com/pages/about-morphe)
 
-[Careers](https://www.morphe.com/pages/careers)
-
 [Blog](https://www.morphe.com/blogs/artistry-diaries)
 
 [About Us](#)
 -------------
 
 * [About Morphe](https://www.morphe.com/pages/about-morphe)
-* [Careers](https://www.morphe.com/pages/careers)
 * [Blog](https://www.morphe.com/blogs/artistry-diaries)
 
 Follow Morphe For product launches, tips, and more.
