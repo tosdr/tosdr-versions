@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup from OneDrive](https://www.backup4all.com/how-to-restore-a-backup-from-onedrive-kb.html)  
+* [How to backup your Facebook account](https://www.backup4all.com/how-to-backup-your-facebook-account-using-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
+* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
     
-* [How to configure and use Office365 SMTP serve ...](https://www.backup4all.com/how-to-configure-and-use-office365-smtp-server-in-backup4all-kb.html)  
+* [Back-up to Google Drive using Backup4all](https://www.backup4all.com/backup-to-google-drive-kb.html)  
     
-* [How to restore a backup from Backblaze](https://www.backup4all.com/how-to-restore-a-backup-from-backblaze-kb.html)  
+* [How to backup to OneDrive using Backup4all](https://www.backup4all.com/how-to-backup-to-skydrive-using-backup4all-kb.html)  
     
-* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
+* [Using Backup4all - FAQ](https://www.backup4all.com/using-backup4all-faq-1-kb.html)  
     
 
 Choose language:
