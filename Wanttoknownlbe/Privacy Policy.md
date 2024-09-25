@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/nagalase-molecuul-in-vaccins-kankerbevorderend/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/facebook-maakt-van-jou-een-open-boek/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
