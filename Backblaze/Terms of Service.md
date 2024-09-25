@@ -16,11 +16,11 @@ Online backup for Macs and PCS
 
 ![arrow](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/643594d64c934cd60ae50d04_dropdown-arrow.svg)
 
-[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb5dd42c3edd4ff46d9_business-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb512317841bf9070d2_business-hover.svg)
+[
 
 Business
 
-Enterprise-grade, unlimited endpoint backup](https://www.backblaze.com/cloud-backup/business)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e57828d7cd6f5131da317_navPersonalIcon.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e81f46959d00262f27156_navActivePersonalIcon.svg)
+Enterprise-grade, unlimited endpoint backup](https://www.backblaze.com/cloud-backup/business)[
 
 Personal
 
@@ -30,27 +30,35 @@ Solutions
 
 ![arrow](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/643594d64c934cd60ae50d04_dropdown-arrow.svg)
 
-FEATURED USE CASES
-
-[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb58ede6e0864e18906_archive-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654ae74f62370add3e20481_archive-hover.svg)
+[
 
 Systems Backup & Archive
 
-Safeguard VM, server, NAS, K8, and workstation data](https://www.backblaze.com/cloud-storage/solutions/data-backup-archive)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a3354a2058bcc53f5de0_media-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a334f74cefd0d4a1f427_media-hover.svg)
-
-Active Media Storage
-
-Optimize workflows with cloud storage for media and entertainment](https://www.backblaze.com/cloud-storage/solutions/media-workflow)
-
-[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb51cd19e9c5639637c_iaas-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/66425eb5bb99ccdb386c4143_iaas-hover.svg)
-
-Application Storage & IaaS
-
-Accelerate development with scalable storage and integrated CDN](https://www.backblaze.com/cloud-storage/solutions/developers)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a334ce9453fc90df82e2_ransomware-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a335a95d9645d02aaaed_ransomware-hover.svg)
+Safeguard VM, server, NAS, K8, and workstation data](https://www.backblaze.com/cloud-storage/solutions/data-backup-archive)[
 
 Ransomware & DR Readiness
 
-Boost Protection with immutable backups and instant recovery](https://www.backblaze.com/cloud-storage/solutions/ransomware-readiness-and-recovery)
+Boost protection with immutable backups and instant recovery](https://www.backblaze.com/cloud-storage/solutions/ransomware-readiness-and-recovery)
+
+[
+
+Application Storage & IaaS
+
+Accelerate development with scalable storage and integrated CDN](https://www.backblaze.com/cloud-storage/solutions/developers)[
+
+Powered by Backblaze
+
+Embed cloud storage in your UX to deliver value and drive revenue](https://www.backblaze.com/cloud-storage/poweredbybackblaze)
+
+[
+
+Active Media Storage
+
+Optimize workflows with cloud storage for media and entertainment](https://www.backblaze.com/cloud-storage/solutions/media-workflow)[
+
+Mac & PC Backup
+
+Back up Mac or PC workstations to the cloud by the tens or thousands](https://www.backblaze.com/cloud-backup/business)
 
 [Explore Industry Solutions](https://www.backblaze.com/cloud-storage/industries)
 
