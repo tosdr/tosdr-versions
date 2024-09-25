@@ -84,7 +84,7 @@
                 --------------------------
                 
                 * [Partnerships](https://www.connectionsacademy.com/program/college-career-readiness/partnerships/)
-            * [Student Success](https://www.connectionsacademy.com/program/student-stories/)
+            * [Success Stories](https://www.connectionsacademy.com/program/student-stories/)
             * [Socialization](https://www.connectionsacademy.com/program/community/)
             * [Parent Involvement](https://www.connectionsacademy.com/program/parents/)
         * Find Your School
