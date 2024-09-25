@@ -52,9 +52,9 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
-* [![اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](https://karkhane.org/app/uploads/2021/12/eterazat-e-keshavarzan-e-hend-che-chiz-miamuzad-95x65.jpg)](https://karkhane.org/3292/%d8%a2%d9%85%d9%88%d8%b2%d9%87%d9%87%d8%a7%db%8c-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%d8%a7%d9%86-%d9%87%d9%86%d8%af%db%8c/)[اعتراضات کشاورزان هندی چه چیزی درباره‌ی صنعت کشاورزی در آمریکا و جهان به ما می‌آموزد؟](https://karkhane.org/3292/%d8%a2%d9%85%d9%88%d8%b2%d9%87%d9%87%d8%a7%db%8c-%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%d8%a7%d9%86-%d9%87%d9%86%d8%af%db%8c/)
+    ![تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](https://karkhane.org/app/uploads/2020/12/taqdir-e-tarixi-e-an-dastha-e-karnakarde-95x65.jpg)](https://karkhane.org/2407/%d8%aa%d9%82%d8%af%db%8c%d8%b1-%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%db%8c-%d8%a2%d9%86-%d8%af%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d9%84%d8%b7%db%8c%d9%81-%da%a9%d8%a7%d8%b1%d9%86%da%a9%d8%b1%d8%af%d9%87/)[تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](https://karkhane.org/2407/%d8%aa%d9%82%d8%af%db%8c%d8%b1-%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%db%8c-%d8%a2%d9%86-%d8%af%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d9%84%d8%b7%db%8c%d9%81-%da%a9%d8%a7%d8%b1%d9%86%da%a9%d8%b1%d8%af%d9%87/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
