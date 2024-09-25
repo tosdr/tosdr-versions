@@ -116,7 +116,7 @@ August 2024
 
 We use this information for internal analysis purposes, as well as to improve the quality and relevance of our Application for our visitors.
 
-Some of this information may be collected using cookies and similar tracking technologies, as further explained in our Cookies Policy which is available [here](https://www.tricount.com/en/documents/cookies).
+Some of this information may be collected using cookies and similar tracking technologies, as further explained in our Cookies Policy which is available [here](https://www.tricount.com/en/cookies).
 
 Version 8 of the Tricount will contain no general or personalized advertising content and no personal data will be collected for these purposes in this version of the app.
 
