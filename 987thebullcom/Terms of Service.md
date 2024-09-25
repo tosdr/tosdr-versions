@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| The Kind Of Love We MakeLuke Combs<br><br>11:38am |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:34am |
-| Our SongTaylor Swift<br><br>11:31am |
-| Try That In A Small TownJason Aldean<br><br>11:28am |
-| I Am Not OkayJelly Roll<br><br>11:25am |
+| AustinDasha<br><br>5:42pm |
+| Memory I Don'T Mess WithLee Brice<br><br>5:39pm |
+| Where It EndsBailey Zimmerman<br><br>5:36pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:32pm |
+| OutskirtsSam Hunt<br><br>5:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
