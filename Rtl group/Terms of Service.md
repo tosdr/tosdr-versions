@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-M6+ and Pluto TV partner in France](/.galleries/images/Groupe-M6_Pluto-TV_1920x1080.png?__scale=undefined&description=)
+    
+    M6+ and Pluto TV partner in France
+    
+    25.09.2024
+    
+    M6+ and Pluto TV have announced a strategic partnership, including an advertising agreement, which will bring new content and channels to both streaming platforms.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/M6-and-Pluto-TV-partner-in-France/)
+    
 * [![slide-Happy birthday, RTL United!](/.galleries/images/Happy-birthday-RTL_16-9.png?__scale=undefined&description=)
     
     Happy birthday, RTL United!
