@@ -24,7 +24,7 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
+[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Online Stores→](https://www.squarespace.com/online-stores) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
 
 New
 
@@ -100,7 +100,7 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
+[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Online Stores→](https://www.squarespace.com/online-stores) [Sell Services→](https://www.squarespace.com/services) [Scheduling→](https://www.squarespace.com/scheduling) [Courses
 
 New
 
