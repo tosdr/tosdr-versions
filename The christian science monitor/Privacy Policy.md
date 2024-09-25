@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Community
+
+### Biden vowed to revive US refugee program. Everyday Americans are helping.](https://www.csmonitor.com/USA/Society/2024/0924/refugees-welcome-corps-biden-trump "Biden vowed to revive US refugee program. Everyday Americans are helping.")
+
 [Dignity
 
 ### Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home](https://www.csmonitor.com/World/Americas/2024/0924/sinixt-confederacy-canada-indigenous-people-cross-border-sovereignty "Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home")
@@ -99,10 +103,6 @@ Recent Stories
 [Honesty
 
 ### Signs of a ‘South Asian Spring’](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0924/Signs-of-a-South-Asian-Spring "Signs of a ‘South Asian Spring’")
-
-[Community
-
-### ‘Bring back the fireflies’: In metro Manila, a cycling brigade aims to cut pollution](https://www.csmonitor.com/World/Making-a-difference/2024/0924/metro-manila-cycling-firefly-brigade "‘Bring back the fireflies’: In metro Manila, a cycling brigade aims to cut pollution")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 23, 2024
+September 24, 2024
 
-A foundation amid loss and displacement
+‘Just the facts’ about the candidates
 
-The widening conflict in the Middle East and the war in Ukraine continue to hold the world’s attention. But numerous other conflicts garner far less attention as they grind on around the globe – testing the sense of those caught up in them that their lives, in fact, matter.Today, we visit with residents of a camp in the Democratic Republic of Congo whose lives have been utterly upended by dehumanizing conflict. Yet they hold to dignity, very intentionally asserting even in mourning that each life in their community holds value and has meaning.
+One comment I often hear is: Just give us the facts.Today’s lead story provides just the facts on American presidential candidate Donald Trump, with fellow candidate Kamala Harris appearing tomorrow. The idea is to examine their political records to give you a sense of how they might govern, beyond the rhetoric.If you’re interested in a deeper dive on how the current political environment is shaping our view of facts, please check out my column.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Biden vowed to revive US refugee program. Everyday Americans are helping.](https://www.csmonitor.com/USA/Society/2024/0924/refugees-welcome-corps-biden-trump "Biden vowed to revive US refugee program. Everyday Americans are helping.")
+
 [### Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home](https://www.csmonitor.com/World/Americas/2024/0924/sinixt-confederacy-canada-indigenous-people-cross-border-sovereignty "Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home")
 
 [### Israel takes its conflict with Hezbollah to the brink of war](https://www.csmonitor.com/World/Middle-East/2024/0924/Israel-takes-its-conflict-with-Hezbollah-to-the-brink-of-war "Israel takes its conflict with Hezbollah to the brink of war")
-
-[### Police don’t always need to use force. New guidelines lay out a different approach.](https://www.csmonitor.com/USA/2024/0924/police-brutality-deadly-force-george-floyd "Police don’t always need to use force. New guidelines lay out a different approach.")
 
 * * *
 
