@@ -672,6 +672,14 @@ Emilo Guhit Calgary 13/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Quick friendly service! A great job done
+
+Angie Klesken Calgary 12/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Mikhail did an amazing job removing my piano. Thank you Mikhail and 1800 Gpt Junk!!
 
 Malcolm Propp Calgary 12/09/2024
@@ -680,9 +688,9 @@ Malcolm Propp Calgary 12/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick friendly service! A great job done
+Came same day. They were polite and professional. Thank you for the great service!
 
-Angie Klesken Calgary 12/09/2024
+Liesa Evans Calgary 11/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -699,14 +707,6 @@ Honour Calgary 11/09/2024
 These guys are amazing! Very thorough, very fast, and clean up behind themselves. Highly recommend!
 
 Gail Singer Calgary 11/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Came same day. They were polite and professional. Thank you for the great service!
-
-Liesa Evans Calgary 11/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -976,17 +976,17 @@ Emily Spjut Austin 20/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Luis and Jordan did a great job !!!
+Paris and Justin are the best!!! 6 out of 5 stars if possible.
 
-Daniel Rosen Naples 20/09/2024
+Susan Bolich Cincinnati 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Paris and Justin are the best!!! 6 out of 5 stars if possible.
+Luis and Jordan did a great job !!!
 
-Susan Bolich Cincinnati 20/09/2024
+Daniel Rosen Naples 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
