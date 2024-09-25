@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This amoeba eats prey like owls do](https://www.sciencenews.org/article/amoeba-eats-removes-shell)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")12 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")18 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A vital ocean current is stable, for now](https://www.sciencenews.org/article/vital-ocean-florida-current-stable)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")14 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")20 hours ago
             
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
             
             ### [‘Smart lighting’ might make vertical farming more affordable](https://www.sciencenews.org/article/smart-lighting-vertical-farming)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")18 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")24 hours ago
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Physicists just discovered the rarest particle decay ever](https://www.sciencenews.org/article/rarest-particle-decay-kaons)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")17 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
