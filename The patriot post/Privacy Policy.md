@@ -116,7 +116,7 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34268)
+     [](https://patriotpost.us/cartoons/34272)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
@@ -130,10 +130,6 @@ Last Updated: November 15, 2011.
 *      [Stephen Moore Is Washington Distorting the Numbers?](https://patriotpost.us/opinion/110494-is-washington-distorting-the-numbers-2024-09-24)
 *      [Victor Joecks The War on Free Speech Is Here](https://patriotpost.us/opinion/110492-the-war-on-free-speech-is-here-2024-09-24)
 *      [Cal Thomas Kamala Harris Owes Us Some Answers](https://patriotpost.us/opinion/110491-kamala-harris-owes-us-some-answers-2024-09-24)
-*      [Gary Bauer A Written Confession](https://patriotpost.us/opinion/110490-a-written-confession-2024-09-24)
-*      [Dennis Prager Israel Derangement Syndrome](https://patriotpost.us/opinion/110496-israel-derangement-syndrome-2024-09-24)
-*      [The Washington Stand Tony Dungy Calls Out Harris](https://patriotpost.us/opinion/110487-tony-dungy-calls-out-harris-2024-09-24)
-*      [The Babylon Bee Here Are the Remaining 10 Celebrities Who Haven’t Endorsed Kamala Harris](https://patriotpost.us/opinion/110486-here-are-the-remaining-10-celebrities-who-havent-endorsed-kamala-harris-2024-09-24)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,9 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
