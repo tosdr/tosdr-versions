@@ -144,10 +144,9 @@ Menu
         * [7\. Intellectual property](#nav-freepik-property)
         * [8\. License Agreement for Freepik Content](#nav-freepik-agreement)
         * [9\. Fonts License Agreement](#nav-freepik-fonts)
-        * [10\. Conditions for the Premium Subscription](#nav-freepik-conditions)
-        * [11\. Conditions for the Teams Plan](#nav-freepik-teams)
-        * [12\. Changes and Closure of the Website](#nav-freepik-modification)
-        * [13\. General and Contact Information](#nav-freepik-generalities)
+        * [10\. Conditions of Subscriptions Offered on the Website](#nav-conditions-subscriptions)
+        * [11\. Changes and Closure of the Website](#nav-freepik-modification)
+        * [12\. General and Contact Information](#nav-freepik-generalities)
     * [Freepik Online Editors](#nav-freepik-online-editor)
         * [1\. Use of our Service](#nav-freepik-online-editor-use-service)
         * [2\. Freepik Accounts](#nav-freepik-online-editor-accounts)
@@ -222,11 +221,11 @@ Menu
 Freepik Terms of use
 ====================
 
-#### May 2024
+#### July 2024
 
 This website is operated by Freepik Company, S.L., registered in the Commercial Registry of Málaga, volume 4994, sheet 217, page number MA-113059, with Tax Number B-93183366 and registered office at 13 Molina Lario St., 5th floor, 29015, Málaga, Spain ("**Company**").
 
-These terms of use ("**Terms**") govern the access, browsing and use by the users ("**User**" or " **Users**", as applicable) of https://www.freepik.com/, including any of its subdomains and/or sections ("**Website**"); as well as the services rendered through the Website ("**Service**" or " **Services**", as applicable) which include the download and use of certain content.
+These terms of use ("**Terms**") govern the access, browsing and use by the users ("**User**" or "**Users**", as applicable) of https://www.freepik.com/, including any of its subdomains and/or sections ("**Website**"); as well as the services rendered through the Website ("**Service**" or "**Services**", as applicable) which include the download and use of certain content.
 
 By accessing and using the Website, the User accepts in their entirety and agrees to be bound by the Company's [Acceptable Use Policy](https://www.freepikcompany.com/legal/acceptable-use-policy/), which is made an integral part of these Terms by this reference.
 
@@ -244,7 +243,7 @@ Likewise, in respect of collection and processing of personal data, the [Privacy
 
 Through the Website, it is offered to the User visual content, like vectors and illustrations, photos and images, PSDs and Photoshop files, vector icons, video contents and recordings (including the corresponding audio) in any format, as well as specific information related to such content.
 
-The Services may offer contents owned by the Company ("**Freepik Own Content**"), contents owned by third parties offered through the Website ("**Collaborators Content**") as well as third-party content not offered free of charge ("**Sponsored Content**"). Sponsored Content is duly differentiated and identified on the search results. Freepik Own Content and Collaborators Content shall be hereinafter referred to collectively as the " **Freepik Content**" and can be downloaded through the Website.
+The Services may offer contents owned by the Company ("**Freepik Own Content**"), contents owned by third parties offered through the Website ("**Collaborators Content**") as well as third-party content not offered free of charge ("**Sponsored Content**"). Sponsored Content is duly differentiated and identified on the search results. Freepik Own Content and Collaborators Content shall be hereinafter referred to collectively as the "**Freepik Content**" and can be downloaded through the Website.
 
 The Services also include the use of the Company's [AI Products](#nav-ai-products), as well as the use of the [Freepik Online Editors](#nav-freepik-online-editor). These services are governed by their respective terms and conditions, which form part of these Terms by reference. By using these products, the User accepts said terms and conditions.
 
@@ -307,6 +306,8 @@ The Company makes reasonable efforts in guaranteeing the lawfulness and quality 
 ##### 4.4. AI Generated Content
 
 The User may generate different types of content using the AI Products offered by the Company on the Website. The use of the AI Products, as well as the content generated using such tools, is governed by the [AI Products Terms and Conditions](#nav-ai-products).
+
+The use of AI Products on the Website will be limited to the number of usage credits available to each User based on the Subscription they have purchased (for more information, see Section 10). The Company will inform the User on the Website of the number of usage credits available, as well as the usage credit cost of each AI Product. The AI Product usage credits available to each User will be reset at the start of each subscription period.
 
 #### 5\. Storage and Offer of Collaborator Content
 
@@ -372,7 +373,9 @@ When any Freepik Content is marked or identified as for editorial use, or when w
 
 The User acknowledges that some laws may impose limits on the use of Freepik Content. For this reason, the User agrees that it is the User's responsibility, and not the Company's, to verify that the applicable regulations in the User's jurisdiction do not prohibit the User's use of the Freepik Content.
 
-The authorization to use the Freepik Content shall be free provided that any use of the Freepik Content by the User is credited to the Company/Website as stated by the Company from time to time. In order to benefit from the Service or to use the Freepik Content without acknowledging the Company/Website, the User must purchase a premium subscription (hereinafter, the " **Premium Subscription**") in the Website and download the Freepik Content during the term of any such Premium Subscription. Conditions in Section 10 shall apply to the purchase of the Premium Subscription.
+The authorization to use the Freepik Content shall be free provided that any use of the Freepik Content by the User is credited to the Company/Website as stated by the Company from time to time. In order to benefit from the Service or to use the Freepik Content without acknowledging the Company/Website, the User must purchase a premium subscription (hereinafter, the "**Premium Subscription**") in the Website and download the Freepik Content during the term of any such Premium Subscription. Conditions in Section 10 shall apply to the purchase of the Premium Subscription.
+
+Unless otherwise indicated, authorization to use Freepik Content is free of charge and conditioned upon any use by the User being duly attributed to the Website/Company and, where applicable, to the Contributor, as indicated by the Company at any given time. To benefit from the Service of using Freepik Content without the aforementioned attribution, the User must purchase a Premium or Premium+ Subscription on the Website and download the corresponding Freepik Content during the validity of that Subscription. The conditions established in Clause 10 of these Terms apply to the acquisition of different Subscriptions.
 
 As a general rule, it is forbidden for a User to authorize any third parties to use the Freepik Content (or any modification of any Freepik Content). As an exception to the prohibition, the User may allow third parties to use the Freepik Content, when each and every of the following conditions are met:
 
@@ -411,101 +414,105 @@ The Users are expressly prohibited from:
 3. add any functionality to, or otherwise change, alter, adapt, modify or produce (or cause others to produce), derivative works of any part of the Licensed Fonts;
 4. disassemble, decompile, reverse engineer or otherwise attempt to discover the source code of the Licensed Fonts, or disable, override or otherwise circumvent any software protection mechanism.
 
-#### 10\. Conditions for the Premium Subscription
+#### 10\. Conditions of Subscriptions Offered on the Website
 
-The terms in this Section ("**Premium Subscription Terms**") govern any purchase of the Premium Subscription in the Website. When concluding the purchase procedure for any Premium Subscription, it shall be deemed that the User has read and accepted, without exception, the Premium Subscription Terms. For the avoidance of doubt, the Premium Subscription Terms are additional to the Terms which will continue to apply to Users who have acquired a Premium Subscription unless it is expressly provided otherwise in relation to specific provisions in the Premium Subscription Terms.
+##### 10.1. General Conditions of Subscriptions
 
-These Premium Subscription Terms are available to the User before the purchase of the Premium Subscription and may be stored or reproduced on a durable medium.
+The conditions in this section (the "Subscription Conditions") govern any purchase of a Subscription offered through the Website. It shall be deemed that, by completing the purchase process of any Subscription, the User has read and accepted without reservation the Subscription Conditions outlined in this section. For clarification purposes, the Subscription Conditions are additional to the Terms, which will continue to apply to Users who have purchased a Subscription, unless expressly stated otherwise.
 
-The Premium Subscription Terms are available in English and Spanish. In case the User is interested in purchasing any Premium Subscription, it has to follow the instructions available in the Website from time to time.
+These Subscription Conditions, as well as any specific conditions applicable to the Services, can be printed by the User at any time before making a purchase. The available Subscriptions are offered on the Website, which includes information regarding them, how to contract them, their prices (in the corresponding currency and including, if applicable, the applicable Value Added Tax), and the conditions applicable to them (including, for example, daily download limits and the number of usage credits for AI Products). Subscriptions, except in the cases indicated in Section 10.2, are personal and cannot be transferred to third parties (including for these purposes, entities linked or belonging to the same group of companies).
 
-The Subscriptions available are offered in the Website where the pertinent information, price and conditions are included (including, without limitation, restrictions to the number of downloads each day). The Company can modify the Subscriptions offered at any time, offering with new Services (to which, unless otherwise stated, these Subscription Terms shall apply) or ceasing to offer any of the Services. The Subscriptions are personal, shall not be assigned to third parties and no third parties other than the User shall be allowed to use the Freepik Content (including as third parties, for these purposes, affiliates or entities part of the same group of companies).
+The price of the Subscriptions will be made using the payment methods accepted at any given time on the Website. The Company uses secure payment gateways and does not store, process, or transmit payment data related to the card itself or the cardholder (such as card number, holder, expiration date, service code, electronic signature, or cardholder authentication code, or bank account associated with the card). The Subscription will not be active until payment has been received or authorized by the corresponding payment entity. From that moment, the contracted Subscription will remain in force for the period contracted by the User. Once the purchase is completed, the User will receive the corresponding invoice.
 
-The price for the Subscription is stated in the relevant currency in the Website and includes, if applicable, the relevant Value Added Tax. The Company is entitled to modify the price for any Subscription at any time. The Company shall apply the price stated in the Website at the time of the submission of the Subscription order by the User.
+Unless otherwise indicated, Subscriptions will be automatically renewed, successively at the end of their term using the same payment method, unless the User cancels the Subscription renewal before its expiration. Unused usage credits within the billing period in which they were assigned will not be transferred to the next billing period. The usage credits available for each Subscription will automatically reset at the start of each billing period.
 
-The User shall pay the Premium Subscription in advance through Paypal, credit/debit card or any other valid payment method offered by the Company, as stated in the Website. To purchase and pay the Premium Subscription, the User shall follow the instructions stated in the Website. The processing of the payment information and data through Paypal or credit/debit card is made within third-party sites. When ordering any Premium Subscription, the User authorizes the Company to collect the corresponding price through the chosen payment method. The Premium Subscription shall not be activated until the Company has received the payment or the payment has been authorized by the relevant financing entity. After that, the Premium Subscription shall be in force for the term purchased by the User.
+The Company reserves the right to modify the prices of any Subscription at any time but will apply the current price on the Website at the time of the User's order. In case of a price modification applicable to any renewal, the Company will inform the User at least one month before the application date by email sent to the address associated with their account.
 
-Unless otherwise stated in these Premium Subscription Terms, the Premium Subscriptions shall be automatically and successively renewed at the expiration of its term, unless the User cancels the renewal of the Premium Subscription before its expiration. The Company shall charge the corresponding price by the same initial payment method. The Company may modify the price for the renewal of the Premium Subscription, provided that the User is informed with, at least, one-month prior notice, via email sent to the email address used for the registration process.
+If a Subscription is contracted on behalf of a legal entity, the User declares and guarantees that they possess the necessary legal authority to bind said entity. The User grants the Company a non-exclusive, free, and worldwide license to display the name of their company or organization, trademarks, or logos in marketing materials, client lists, financial reports, research and market studies, and other marketing and promotion activities of the Service for the duration of their Subscription.
 
-Once the User purchases the Premium Subscription, the screen shall confirm the purchase. In addition, within the shortest time reasonably possible and not after twenty-four (24) hours after the acceptance of the order, an email shall be sent to the User with the receipt of the purchase. The receipt may be stored and printed. The User may request and download an invoice as stated within the Website twenty-four (24) hours after making the relevant payment.
+As digital content is involved, no right of withdrawal applies, which the User expressly accepts, without prejudice to the guarantees established by consumer and user regulations that may apply, unless the Company indicates otherwise, in which case, it will be subject to the conditions established by the Company.
 
-After the purchase of the Premium Subscription, the User may benefit from the following:
+##### 10.2. Guest Seats Contracting
 
-1\. Benefits from Freepik Premium Subscription, which are the following:
+The conditions in this section govern the contracting by an administrator User (the "Account Owner") of guest user accounts ("Seats") linked to their Owner account, allowing access to the Seats by different end-users ("Guests").
 
-* The Service consists in using the Freepik Content and [Storyset Content](https://storyset.com/terms) without crediting the Company/Website.
-* Access all contents available in the Website.
-* Use the Website without advertisement displaying.
-* Not to be subject to the restrictions as to number of content downloads applicable to the Freepik Content from time to time, without prejudice to the application of certain restrictions to the number of downloads aimed at preventing a fraudulent or abusive use of the Website.
-* Use the AI Products with the limits indicated on the Website.
+Any User may contract Seats from the Website, where the price of the Seats will be shown, depending on how many Seats the Account Owner requests, the corresponding currency, and, if applicable, the applicable Value Added Tax. The Company reserves the right to modify the prices of the Seats at any time, but will apply the current price on the Website at the time of the Account Owner's order.
 
-2\. Benefits from [Flaticon Premium Subscription](https://www.flaticon.com/legal).
+Once the Owner account is created, they can activate the different Seats, limited to the number of Seats contracted (for clarification purposes, the Owner's account will count as one of the contracted Seats, without prejudice to the Account Owner's ability to transfer the use of their Seat to another Guest. Under no circumstances will the Guest using the Account Owner's Seat assume any obligations of the Account Owner in relation to this section). To access the Seats, each Guest must log in to the Website using the email address authorized by the Account Owner or create a User account on the Website using that email address.
 
-The rest of the Conditions, including the conditions established or referred to in Clauses 7 and 8, will continue to apply, such as, without limitation, the prohibited uses for Freepik Content. Likewise, for the use of Flaticon Content, the Flaticon Terms and Conditions shall apply, which are incorporated into these Conditions.
+The Account Owner may at any time contract new Seats or reduce the number of contracted Seats. In the first case, the update will be effective immediately, and the Account Owner will be offered a prorated price based on the remaining time of the subscription period from which they are updating. Subscription modifications to lower number of Seats will be effective at the end of the current billing period.
 
-The Company may offer the User, on certain occasions, the possibility to pause the Premium Subscription for a certain period of time, while the Premium Subscription is active. The User may pause and activate the Premium Subscription during the period in which it is in force as many times as he/she wishes, provided that this does not exceed the maximum aggregate pause period permitted by the Company, which will be indicated on the Website.
+Any Seat assigned by the Account Owner is personal and expressly prohibited from being shared with any other Guest or third parties.
 
-By pausing the Premium Subscription, the User shall cease to enjoy the benefits of the Premium Subscription included in this Section while the Premium Subscription is paused. The User may, at any time, reactivate the Premium Subscription, resuming the normal benefits of the Premium Subscription.
+The Account Owner will have the ability to access all the Guests' Seats, including the ability to assign, unassign, access, monitor, use, modify, or access any data available to the Guests associated with their Seats.
 
-In the event that the User exhausts the maximum aggregate pause time of the Premium Subscription, the Premium Subscription will be automatically reactivated. Once the User has exhausted the maximum aggregate period allowed for pausing the Premium Subscription, the User will not be able to pause it again until the next billing period.
+The Account Owner is solely responsible for:
 
-In the event that the User pauses his Premium Subscription, the period of validity and renewal of the Premium Subscription will be adjusted according to the time the Premium Subscription has been paused.
+1. The reasonable use of (i) their Owner account and (ii) the ability to control, access, and supervise the Guests' Seats;
+2. Authorizing only those individuals with whom the Account Owner has a personal or professional relationship, where both the invitation to collaborate and subsequent monitoring are reasonable and within the Guests' legitimate expectations;
+3. Informing all Guests in detail about the authorized use of the Seats in accordance with these Terms;
+4. The legitimate access and use of the Services in accordance with these Terms (including the activities of the Guests); and
+5. All activities related to their Owner account and contracted Seats, regardless of whether the actions are performed by the Account Owner or the Guests.
 
-As the content in the Website is digital content, no cancellation right shall apply, which is expressly acknowledged and accepted by the Users, without prejudice to the guarantees stated in the consumers’ regulations that may be applicable, unless the Company states otherwise, in which case, will be subject to the conditions set forth by the Company.
+Both the Account Owner and the Guests will benefit from the advantages associated with the contracted Subscription, as described in section 10.4.
 
-#### 11\. Conditions for the Teams Plan
+##### 10.3. Pausing, Modifying, or Canceling Subscriptions
 
-The terms in this Section ("**Teams Plan Terms**") govern any purchase of the Teams Plan on the Website, which allows an administrator user (the “**Administrator User**”) to purchase and manage several end-user accounts collectively, giving access to the accounts (“**Seats**”) to different end-users (the “**Teams End-Users**”).
+###### 10.3.1. Pausing the Subscription
 
-When concluding the purchase procedure for any Teams Plan, it shall be deemed that the Administrator User has read and accepted, without exception, the Teams Plan Terms. For the avoidance of doubt, the Teams Plan Terms extend the Terms, which will continue to apply in full force to the Administrator Users who have acquired a Teams Plan, and to all Teams Plan End Users, unless otherwise stated in provisions of the Teams Plan Terms.
+The User may, on certain occasions, pause their Subscription for a specified period while the Subscription is active. The User may pause and activate the Subscription during its validity period as many times as desired, provided it does not exceed the maximum aggregate pause period allowed by the Company, which will be indicated on the Website.
 
-When concluding the purchase procedure for any Teams Plan on behalf of a legal entity, the Admin User represents and warrants that he/she has the necessary legal authority to bind such legal entity.
+When the Subscription is paused, the User will cease to enjoy the benefits of the Subscription included in this Section while it is paused. The User may reactivate the Subscription at any time, resuming the normal benefits of the Subscription.
 
-The Admin User grants on behalf of his legal entity to the Company a non-exclusive, irrevocable, free, worldwide license, for the duration of the Teams Plan, to display the Admin User's legal entity name, trademarks or logos in presentations, marketing materials, customer lists, financial reports, customer listings on websites, research and market studies, and other activities related to the marketing and promotion of the Service.
+If the User exhausts the maximum aggregate pause period of the Subscription, it will automatically reactivate. Once the User has exhausted the allowed maximum aggregate pause period, they will not be able to pause it again until the next billing period.
 
-These Teams Plan Terms are available to the Administrator User before purchasing the Teams Plan and may be stored or reproduced on a durable medium.
+If the User pauses their Subscription, the validity and renewal period of the Subscription will adjust based on the time the Subscription was paused.
 
-The Teams Plan Terms are available in English and Spanish. In case the Administrator User is interested in purchasing any Teams Plan, she/he has to follow the instructions available on the Website from time to time.
+###### 10.3.2. Modifying the Subscription
 
-The plans and subscriptions available are offered on the Website where the relevant information, price, and conditions are included (including, without limitation, restrictions on the daily download allowance). The Company can modify the plan and subscriptions offered at any time, offering new Services or ceasing to offer any of the Services.
+The User may upgrade the contracted Subscription at any time through their User account. When upgrading the contracted Subscription to a higher level, the update will be effective immediately, and the User must pay the full price of the new Subscription, retaining the unused AI Product usage credits up to the modification date, which will be added to those applicable to the new Subscription. Subscription modifications to lower levels will be effective at the end of the current billing period.
 
-The price for the Teams Plan, depending on how many Teams End-Users Seats are requested by the Administrator User, is stated in the relevant currency on the Website and includes, if applicable, the appropriate Value Added Tax. The Company is entitled to modify the price for any Plan or subscription at any time. The Company shall apply the price stated on the Website at the time of submitting the Plan ordered by the Administrator User.
+###### 10.3.3. Canceling the Subscription and/or Contracted Seats
 
-The Administrator User shall pay the Teams Plan in advance through Paypal, credit/debit card, Direct Debit, or any other valid payment method offered by the Company, as stated on the Website. The processing of the payment information and data through Paypal, credit/debit card, or Direct Debit is made through third-party sites. When ordering any Teams Plan, the Administrator User authorizes the Company to collect the corresponding price through the chosen payment method. The Teams Plan shall not be activated until the Company has received the payment or the payment has been authorized by the relevant financing entity. After that, the Teams Plan shall be in force for the term purchased by the User.
+The User may cancel the renewal of their Subscription and/or contracted Seats at any time through their profile. The Subscription and/or contracted Seats will remain in effect for the duration of the billing period. At the end of the subscription period, the Subscription benefits and/or contracted Seats will end for the User. Unused AI Product usage credits cannot be consumed once the Subscription ends.
 
-Unless otherwise stated in these Teams Plan Terms, the Teams Plan shall be automatically and successively renewed at the end of its term unless the Administrator User cancels the renewal of the Teams Plan before its expiration. The Company shall charge the corresponding price by the same initial payment method. The Company may modify the price for the renewal of the Teams Plan, provided that the Administrator User is informed with, at least, one-month prior notice, via email sent to the email address used for the registration process.
+##### 10.4. Subscription Benefits
 
-In addition, within the shortest time reasonably possible and not after twenty-four (24) hours after the acceptance of the order, an email shall be sent to the Administrator User with the receipt of the purchase. The receipt may be stored and printed. The Administrator User may request and download an invoice as stated within the Website twenty-four (24) hours after making the relevant payment.
+###### 10.4.1 Essential Subscription
 
-Once the Administrator User purchases the Teams Plan, the system shall confirm the purchase, and the Teams Administrator Account will be created. Once the Teams Administrator Account is created, the Administrator User may activate different Teams End-Users accounts, limited to the number of Seats contracted (for the avoidance of doubt, the Administrator User’s account shall be counted as one among the contracted Seats, notwithstanding that the Administrator User may leave his/her Seat vacant to be used by another Teams End User for accessing and using the Services exclusively. In no case Teams End-User will assume any of the Administrator User’s obligations regarding this clause). To access their Seats, each End User must either log in to the Website using the email address indicated by the Administrator User, or create a User account on the Website using said email address.
+After contracting the Essential Subscription, as defined on the Website, the User may benefit from the following:
 
-End Users who have an active Premium Subscription associated with the email address indicated by the Administrator User will not be able to access their Seat. In this case, they will have to log in using another User account, or register on the Website using another email address.
+1. Access to part of the selection of Premium content on the Website, both for direct download and online editing through the tools offered by the Company, subject to the limits indicated on the Website.
+2. Usage of the Website without third-party advertisements.
+3. Usage of the AI Products indicated on the Website, limited to the number of usage credits per subscription period indicated on the Website.
+4. Priority support in relation to free Users.
 
-Any Teams End-User Account is personal and non-transferable, and it is expressly forbidden to share any Teams End-User Account with any other Teams End-User or third parties. Failing to comply with this obligation will entitle Freepik to terminate the Terms immediately.
+###### 10.4.2 Premium Subscription
 
-The Administrator User will have the ability to access all Teams End-User Accounts, including the ability to assign, un-assign, access, monitor, use, modify or access any data available to Teams End-Users associated with their Teams End-User accounts.
+After contracting the Premium Subscription, as defined on the Website, the User may benefit from the following:
 
-The Administrator User is solely responsible for
+1. Usage of Freepik Content and Storyset Content (as defined in the [Storyset Terms of Use](https://storyset.com/terms)) without attribution to the Website/Company.
+2. Access to all Free content and the entire selection of Premium content, both for direct download and online editing.
+3. Usage of the Website without third-party advertisements.
+4. Not being subject to specific download limits of Freepik Content that apply at any given time, without prejudice to certain quantitative limitations to prevent fraudulent or abusive use of the Website.
+5. The benefits of the [Flaticon Premium Subscription](https://www.flaticon.com/legal).
+6. Usage of the AI Products indicated on the Website with a higher number of usage credits per subscription period than those applicable to the Essential Subscription.
+7. Priority support in relation to free Users or those who have contracted an Essential Subscription.
 
-1. the fair use of (i) the Teams Plan product, and (ii) the lawful exercise of the ability to control, access and monitor Teams End-Users accounts;
-2. authorizing as End-Users of his or her Teams Plan exclusively those individuals with whom the Administrator User has a personal or professional relationship in which both the invitation to collaborate and the subsequent monitoring are reasonable and within the legitimate expectations of the invitees;
-3. informing all Teams End Users in detail of the authorized use of the Teams End-Users accounts according to these Terms and the Service Specific Terms;
-4. the fair access and use of the Services in compliance with these Terms (including Teams End-Users); and
-5. all activities regarding its Teams Plan account regardless of whether the activities are undertaken by Administrator User or Teams End-Users.
+###### 10.4.3 Premium+ Subscription
 
-After purchasing the Teams Plan, both the Administrator User and the Teams End-Users may benefit from the same benefits as the Premium User, as described in Clause 10.
+After contracting the Premium+ Subscription, as defined on the Website, the User may benefit from the following:
 
-Freepik may use the Customer name, trade names, trademarks or logos in presentations, marketing material, customer lists, financial reports, customer lists posted on websites, market research studies and other marketing activities, including incidental reproductions such as screenshots, videos or other content of its API Client(s). The Customer hereby grants Freepik, which accepts, a non-exclusive, irrevocable, free, worldwide and perpetual license to display its company or organization's name, trade names, trademarks or logos for the aforementioned purposes. The Customer shall not make any public statement regarding its use of the API Services which suggests Freepik's association, sponsorship or endorsement without Freepik's prior written authorization thereof.
+1. The benefits of the Freepik Premium Subscription as described above.
+2. Usage of all AI Products with a higher number of usage credits available per subscription period than those applicable to the Premium Subscription.
+3. Priority access to new AI Products launched by the Company periodically.
+4. Priority support in relation to free Users or those who have contracted an Essential or Premium Subscription.
 
-The rest of the Terms, including the conditions established or referred to in Clauses 7, 8 and 9, will continue to apply, such as, without limitation, the prohibited uses of Freepik Content.
-
-As the content in the Website is digital by nature, no cancellation right shall apply, which is expressly acknowledged and accepted by the Administrator User, without prejudice to the guarantees stated in the consumers’ regulations that may be applicable, unless the Company states otherwise, in which case, will be subject to the conditions set forth by the Company.
-
-#### 12\. Changes and Closure of the Website
+#### 11\. Changes and Closure of the Website
 
 The Company may, at any moment, and without incurring in any responsibility towards the User, modify the content of the Website or the Services, limit or modify the conditions or cease to provide some or all the Services and features available or deactivate and delete all or some of the User accounts and their corresponding information. However, the Company will comply with its obligations regarding the keeping of records in relation to certain transactions for the relevant period as provided by applicable law or refund the Users of Subscriptions in force at that time with the proportional part of the price not accrued before the termination.
 
-#### 13\. General and Contact Information
+#### 12\. General and Contact Information
 
 The use of the Website and the Services and the interpretation and application of these Terms shall be governed by Spanish Law. Except for those cases in which the applicable law impose a specific jurisdiction, any dispute in connection with these Terms shall be resolved by the Courts of Málaga (Spain), and the parties expressly waive any other applicable jurisdiction.
 
