@@ -26,41 +26,47 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/kamalacolbertsg-1200-x-628-1200x630.jpg)](https://americanwirenews.com/team-harris-declines-to-answer-if-shell-honor-pledge-of-citizenship-for-dreamers/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-volodymyr-zelenskyy-josh-shapiro-split-1200x630.jpg)](https://americanwirenews.com/gov-shapiro-autographing-missiles-for-ukraine-not-the-dem-flex-he-thinks-it-is-party-of-dick-cheney/)
 
-[Team Harris declines to answer if she’ll honor pledge of citizenship for ‘Dreamers’](https://americanwirenews.com/team-harris-declines-to-answer-if-shell-honor-pledge-of-citizenship-for-dreamers/)
+[Gov Shapiro autographing missiles for Ukraine not the ‘Dem’ flex he thinks it is: ‘Party of Dick Cheney’](https://americanwirenews.com/gov-shapiro-autographing-missiles-for-ukraine-not-the-dem-flex-he-thinks-it-is-party-of-dick-cheney/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-grocery-store-1200x630.png)](https://americanwirenews.com/trump-helps-out-mom-of-three-at-pa-grocery-store/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hunt-ramaswamy-1200x630.jpg)](https://americanwirenews.com/if-you-want-to-call-balls-strikes-ramaswamy-locks-horns-with-kasie-hunt-in-battle-over-fact-checking-bias/)
 
-[Trump helps out mom of three at PA grocery store](https://americanwirenews.com/trump-helps-out-mom-of-three-at-pa-grocery-store/)
+[‘If you want to call balls & strikes…’: Ramaswamy locks horns with Kasie Hunt in battle over ‘fact checking’ bias](https://americanwirenews.com/if-you-want-to-call-balls-strikes-ramaswamy-locks-horns-with-kasie-hunt-in-battle-over-fact-checking-bias/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/gw-ryan-wesley-routh-gw-letter-1200x630.jpg)](https://americanwirenews.com/former-ag-bill-barr-slams-doj-for-releasing-trump-assassins-bounty-letter/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-black-chicago-gangsters-1200x630.jpg)](https://americanwirenews.com/citys-going-to-go-up-in-flames-chicago-gangbangers-becoming-fed-up-as-violent-venezuelan-migrants-move-in/)
 
-[Former AG Bill Barr slams DOJ for releasing Trump assassin’s bounty letter](https://americanwirenews.com/former-ag-bill-barr-slams-doj-for-releasing-trump-assassins-bounty-letter/)
+[‘City’s going to go up in flames’: Chicago gangbangers becoming ‘fed up’ as violent Venezuelan ‘migrants’ move in](https://americanwirenews.com/citys-going-to-go-up-in-flames-chicago-gangbangers-becoming-fed-up-as-violent-venezuelan-migrants-move-in/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nuzzi-olbermann-1200x630.jpg)](https://americanwirenews.com/nuzzi-has-the-hots-for-older-men-once-dated-left-wing-loon-keith-olbermann/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gates-1200x630.jpg)](https://americanwirenews.com/bill-gates-argues-hes-a-victim-of-misinformation-like-those-who-wouldnt-get-vaccinated/)
 
-[Nuzzi has the hots for older men, once dated left-wing loon Keith Olbermann](https://americanwirenews.com/nuzzi-has-the-hots-for-older-men-once-dated-left-wing-loon-keith-olbermann/)
+[Bill Gates argues he’s a victim of ‘misinformation’, like those who wouldn’t get vaccinated](https://americanwirenews.com/bill-gates-argues-hes-a-victim-of-misinformation-like-those-who-wouldnt-get-vaccinated/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nebraska-state-sen.-mike-mcdonnell-1200x630.jpg)](https://americanwirenews.com/gop-state-senator-opposes-electoral-college-change-that-may-have-helped-trump-win-re-election/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-2173291701-1-1200x630.jpg)](https://americanwirenews.com/emotional-biden-accepts-global-citizen-award-from-bill-clinton-tells-hillary-i-love-you/)
 
-[GOP state senator opposes Electoral College change that may have helped Trump win re-election](https://americanwirenews.com/gop-state-senator-opposes-electoral-college-change-that-may-have-helped-trump-win-re-election/)
+(Photo by Alex Kent/Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Kennedy-Jr-1200x630.jpg)](https://americanwirenews.com/rfk-jr-calls-on-scotus-to-put-him-back-on-blue-state-ballot/)
+[Emotional Biden accepts ‘global citizen’ award from Bill Clinton, tells Hillary ‘I love you’](https://americanwirenews.com/emotional-biden-accepts-global-citizen-award-from-bill-clinton-tells-hillary-i-love-you/)
 
-[RFK Jr. calls on SCOTUS to put him back on blue state ballot](https://americanwirenews.com/rfk-jr-calls-on-scotus-to-put-him-back-on-blue-state-ballot/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-freyermuth-sg-alliance-1200x630.jpg)](https://americanwirenews.com/lipstick-wearing-man-who-goes-by-vicky-nabbed-for-alleged-kidnapping-attempt-days-after-previous-arrest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-geordi-1200x630.png)](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
+Image via Alliance City Jail
 
-[Elon Musk’s innovative brilliance leads to new device that enables the blind to see](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
+[Lipstick wearing man who goes by ‘Vicky’ nabbed for alleged kidnapping attempt, days after previous arrest](https://americanwirenews.com/lipstick-wearing-man-who-goes-by-vicky-nabbed-for-alleged-kidnapping-attempt-days-after-previous-arrest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-philly-chaos-1200x630.jpg)](https://americanwirenews.com/philly-weekend-filled-with-mobs-violence-and-chaos-pretty-sure-i-saw-this-scene-in-the-joker/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/09/GettyImages-184909937-1024x536-1-1200x630.jpg)](https://americanwirenews.com/would-be-trump-assassins-son-arrested-on-child-porn-charges/)
 
-[Philly weekend filled with mobs, violence and chaos: ‘Pretty sure I saw this scene in The Joker’](https://americanwirenews.com/philly-weekend-filled-with-mobs-violence-and-chaos-pretty-sure-i-saw-this-scene-in-the-joker/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rashida-1200-x-628-1200x630.jpg)
+[Would-be Trump assassin’s son arrested on child porn charges](https://americanwirenews.com/would-be-trump-assassins-son-arrested-on-child-porn-charges/)
 
-### Rashida Tlaib demands U.S. cut off weapons to ‘genocidal’ Israel amid rising tensions](https://americanwirenews.com/rashida-tlaib-demands-u-s-cut-off-weapons-to-genocidal-israel-amid-rising-tensions/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-vance-1200x630.jpg)](https://americanwirenews.com/j-d-vance-tears-into-kamala-harris-for-badmouthing-everyday-americans-how-dare-you/)
+
+[J.D. Vance tears into Kamala Harris for badmouthing everyday Americans: ‘How dare you!’](https://americanwirenews.com/j-d-vance-tears-into-kamala-harris-for-badmouthing-everyday-americans-how-dare-you/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/08/SG-RF-Haberman-Trump-1200x630.jpg)
+
+### Maggie Haberman defends media’s unfair coverage of Trump, inadvertently leaks some truths](https://americanwirenews.com/maggie-haberman-defends-medias-unfair-coverage-of-trump-inadvertently-leaks-some-truths/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -84,19 +90,9 @@ Search for:
 
 Getty Image
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hunt-ramaswamy-220x180.jpg)](https://americanwirenews.com/if-you-want-to-call-balls-strikes-ramaswamy-locks-horns-with-kasie-hunt-in-battle-over-fact-checking-bias/)
-
-[‘If you want to call balls & strikes…’: Ramaswamy locks horns with Kasie Hunt in battle over ‘fact checking’ bias](https://americanwirenews.com/if-you-want-to-call-balls-strikes-ramaswamy-locks-horns-with-kasie-hunt-in-battle-over-fact-checking-bias/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sean-combs-oddi-220x180.jpg)](https://americanwirenews.com/eerie-interrogation-of-man-accused-of-shooting-up-trump-golf-club-resurfaces-heres-what-he-said-about-diddy/)
 
 [Eerie interrogation of man accused of shooting up Trump golf club resurfaces. Here’s what he said about ‘Diddy’…](https://americanwirenews.com/eerie-interrogation-of-man-accused-of-shooting-up-trump-golf-club-resurfaces-heres-what-he-said-about-diddy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/09/GettyImages-184909937-1024x536-1-220x180.jpg)](https://americanwirenews.com/would-be-trump-assassins-son-arrested-on-child-porn-charges/)
-
-[Would-be Trump assassin’s son arrested on child porn charges](https://americanwirenews.com/would-be-trump-assassins-son-arrested-on-child-porn-charges/)
-
-Getty Images
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-soros-220x180.jpg)](https://americanwirenews.com/fcc-accused-of-unprecedented-abuse-of-process-after-fast-tracking-soros-acquisition-of-220-radio-stations/)
 
@@ -106,21 +102,11 @@ Getty Images
 
 [Dems recruit embattled Fani Willis to help fundraise across the country](https://americanwirenews.com/dems-recruit-embattled-fani-willis-to-help-fundraise-across-the-country/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-vance-220x180.jpg)](https://americanwirenews.com/j-d-vance-tears-into-kamala-harris-for-badmouthing-everyday-americans-how-dare-you/)
-
-[J.D. Vance tears into Kamala Harris for badmouthing everyday Americans: ‘How dare you!’](https://americanwirenews.com/j-d-vance-tears-into-kamala-harris-for-badmouthing-everyday-americans-how-dare-you/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/getty-harris-willie-brown-220x180.jpg)](https://americanwirenews.com/damning-allegations-shed-new-light-on-kamala-harris-claim-that-she-worked-her-a-off-in-california/)
 
 [Damning allegations shed new light on Kamala Harris’ claim that she ‘worked her a\*\* off’ in California](https://americanwirenews.com/damning-allegations-shed-new-light-on-kamala-harris-claim-that-she-worked-her-a-off-in-california/)
 
 (Photo By Carlos Avila Gonzalez/The San Francisco Chronicle via Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-freyermuth-sg-alliance-220x180.jpg)](https://americanwirenews.com/lipstick-wearing-man-who-goes-by-vicky-nabbed-for-alleged-kidnapping-attempt-days-after-previous-arrest/)
-
-[Lipstick wearing man who goes by ‘Vicky’ nabbed for alleged kidnapping attempt, days after previous arrest](https://americanwirenews.com/lipstick-wearing-man-who-goes-by-vicky-nabbed-for-alleged-kidnapping-attempt-days-after-previous-arrest/)
-
-Image via Alliance City Jail
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-emergency-room-220x180.jpg)](https://americanwirenews.com/nearly-8-million-people-on-medical-waiting-list-amid-uks-growing-health-care-crisis-report/)
 
@@ -130,17 +116,9 @@ Image via Alliance City Jail
 
 [Brett Favre drops heartbreaking health update during hearing testimony](https://americanwirenews.com/brett-favre-casually-drops-heartbreaking-health-update-during-hearing-testimony/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-volodymyr-zelenskyy-josh-shapiro-split-220x180.jpg)](https://americanwirenews.com/gov-shapiro-autographing-missiles-for-ukraine-not-the-dem-flex-he-thinks-it-is-party-of-dick-cheney/)
-
-[Gov Shapiro autographing missiles for Ukraine not the ‘Dem’ flex he thinks it is: ‘Party of Dick Cheney’](https://americanwirenews.com/gov-shapiro-autographing-missiles-for-ukraine-not-the-dem-flex-he-thinks-it-is-party-of-dick-cheney/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-coach-walmart-self-checkout-220x180.jpg)](https://americanwirenews.com/former-olympians-life-turned-upside-down-when-walmart-self-checkout-fails-to-scan-2-items-arrest-ensues/)
 
 [Former Olympian’s life turned upside down when Walmart self-checkout fails to scan 2 items, arrest ensues](https://americanwirenews.com/former-olympians-life-turned-upside-down-when-walmart-self-checkout-fails-to-scan-2-items-arrest-ensues/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gates-220x180.jpg)](https://americanwirenews.com/bill-gates-argues-hes-a-victim-of-misinformation-like-those-who-wouldnt-get-vaccinated/)
-
-[Bill Gates argues he’s a victim of ‘misinformation’, like those who wouldn’t get vaccinated](https://americanwirenews.com/bill-gates-argues-hes-a-victim-of-misinformation-like-those-who-wouldnt-get-vaccinated/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jillian-michaels-220x180.jpg)](https://americanwirenews.com/extinction-level-event-jillian-michaels-torches-americas-corrupt-healthcare-system-in-must-see-testimony/)
 
@@ -149,20 +127,6 @@ Image via Alliance City Jail
 [![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-the-view-220x180.jpg)](https://americanwirenews.com/the-view-co-host-announces-historic-guest-finally-joe-biden-will-be-the-smartest-person-in-the-room/)
 
 [‘The View’ co-host announces ‘historic’ guest: ‘Finally, Joe Biden will be the smartest person in the room’](https://americanwirenews.com/the-view-co-host-announces-historic-guest-finally-joe-biden-will-be-the-smartest-person-in-the-room/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-black-chicago-gangsters-220x180.jpg)](https://americanwirenews.com/citys-going-to-go-up-in-flames-chicago-gangbangers-becoming-fed-up-as-violent-venezuelan-migrants-move-in/)
-
-[‘City’s going to go up in flames’: Chicago gangbangers becoming ‘fed up’ as violent Venezuelan ‘migrants’ move in](https://americanwirenews.com/citys-going-to-go-up-in-flames-chicago-gangbangers-becoming-fed-up-as-violent-venezuelan-migrants-move-in/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/08/SG-RF-Haberman-Trump-220x180.jpg)](https://americanwirenews.com/maggie-haberman-defends-medias-unfair-coverage-of-trump-inadvertently-leaks-some-truths/)
-
-[Maggie Haberman defends media’s unfair coverage of Trump, inadvertently leaks some truths](https://americanwirenews.com/maggie-haberman-defends-medias-unfair-coverage-of-trump-inadvertently-leaks-some-truths/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-2173291701-1-220x180.jpg)](https://americanwirenews.com/emotional-biden-accepts-global-citizen-award-from-bill-clinton-tells-hillary-i-love-you/)
-
-[Emotional Biden accepts ‘global citizen’ award from Bill Clinton, tells Hillary ‘I love you’](https://americanwirenews.com/emotional-biden-accepts-global-citizen-award-from-bill-clinton-tells-hillary-i-love-you/)
-
-(Photo by Alex Kent/Getty Images)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-ero-boston-220x180.jpg)](https://americanwirenews.com/migrant-crime-crisis-infiltrates-ritzy-playgrounds-of-rich-and-famous/)
 
@@ -187,6 +151,42 @@ Image via Indiana Department of Corrections
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-donald-trump-5-220x180.jpg)](https://americanwirenews.com/trump-blasts-feds-for-mishandling-and-downplaying-assassination-attempt/)
 
 [Trump blasts feds for ’mishandling and downplaying’ assassination attempt](https://americanwirenews.com/trump-blasts-feds-for-mishandling-and-downplaying-assassination-attempt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-philly-chaos-220x180.jpg)](https://americanwirenews.com/philly-weekend-filled-with-mobs-violence-and-chaos-pretty-sure-i-saw-this-scene-in-the-joker/)
+
+[Philly weekend filled with mobs, violence and chaos: ‘Pretty sure I saw this scene in The Joker’](https://americanwirenews.com/philly-weekend-filled-with-mobs-violence-and-chaos-pretty-sure-i-saw-this-scene-in-the-joker/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-geordi-220x180.png)](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
+
+[Elon Musk’s innovative brilliance leads to new device that enables the blind to see](https://americanwirenews.com/elon-musks-innovative-brilliance-leads-to-new-device-that-enables-the-blind-to-see/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Kennedy-Jr-220x180.jpg)](https://americanwirenews.com/rfk-jr-calls-on-scotus-to-put-him-back-on-blue-state-ballot/)
+
+[RFK Jr. calls on SCOTUS to put him back on blue state ballot](https://americanwirenews.com/rfk-jr-calls-on-scotus-to-put-him-back-on-blue-state-ballot/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nebraska-state-sen.-mike-mcdonnell-220x180.jpg)](https://americanwirenews.com/gop-state-senator-opposes-electoral-college-change-that-may-have-helped-trump-win-re-election/)
+
+[GOP state senator opposes Electoral College change that may have helped Trump win re-election](https://americanwirenews.com/gop-state-senator-opposes-electoral-college-change-that-may-have-helped-trump-win-re-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nuzzi-olbermann-220x180.jpg)](https://americanwirenews.com/nuzzi-has-the-hots-for-older-men-once-dated-left-wing-loon-keith-olbermann/)
+
+[Nuzzi has the hots for older men, once dated left-wing loon Keith Olbermann](https://americanwirenews.com/nuzzi-has-the-hots-for-older-men-once-dated-left-wing-loon-keith-olbermann/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gw-ryan-wesley-routh-gw-letter-220x180.jpg)](https://americanwirenews.com/former-ag-bill-barr-slams-doj-for-releasing-trump-assassins-bounty-letter/)
+
+[Former AG Bill Barr slams DOJ for releasing Trump assassin’s bounty letter](https://americanwirenews.com/former-ag-bill-barr-slams-doj-for-releasing-trump-assassins-bounty-letter/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-grocery-store-220x180.png)](https://americanwirenews.com/trump-helps-out-mom-of-three-at-pa-grocery-store/)
+
+[Trump helps out mom of three at PA grocery store](https://americanwirenews.com/trump-helps-out-mom-of-three-at-pa-grocery-store/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/kamalacolbertsg-1200-x-628-220x180.jpg)](https://americanwirenews.com/team-harris-declines-to-answer-if-shell-honor-pledge-of-citizenship-for-dreamers/)
+
+[Team Harris declines to answer if she’ll honor pledge of citizenship for ‘Dreamers’](https://americanwirenews.com/team-harris-declines-to-answer-if-shell-honor-pledge-of-citizenship-for-dreamers/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rashida-1200-x-628-220x180.jpg)](https://americanwirenews.com/rashida-tlaib-demands-u-s-cut-off-weapons-to-genocidal-israel-amid-rising-tensions/)
+
+[Rashida Tlaib demands U.S. cut off weapons to ‘genocidal’ Israel amid rising tensions](https://americanwirenews.com/rashida-tlaib-demands-u-s-cut-off-weapons-to-genocidal-israel-amid-rising-tensions/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
