@@ -317,7 +317,7 @@ Most popular certifications
 
 ![Scott Horn, CEO of ACI Learning](/static/5cbc24bddfd4942a8b6992ff4845f379/220dd/scott_horn_aci_learning_ceo_7a389567a9.png)
 
-c
+Scott Horn
 
 ACI Learning CEO
 
