@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 424: Using LoRA IoT Protocol for Clandestine Communication](https://www.sectigo.com/resource-library/root-causes-424-using-lora-iot-protocol-for-clandestine-communication)
 * [Root Causes 423: Is a Certificate Software or a Service?](https://www.sectigo.com/resource-library/root-causes-423-is-a-certificate-software-or-a-service)
 * [Root Causes 422: New Date for Entrust Distrust](https://www.sectigo.com/resource-library/root-causes-422-new-date-for-entrust-distrust)
 * [Root Causes 421: FIDO 2 Implementation Problems](https://www.sectigo.com/resource-library/root-causes-421-fido-2-implementation-problems)
 * [Root Causes 420: New Side Channel Attack Against YubiKeys](https://www.sectigo.com/resource-library/root-causes-420-new-side-channel-attack-against-yubikeys)
-* [Root Causes 419 - What Happens to Vendors Who Don't Support ACME When 90-day Certificates Come?](https://www.sectigo.com/resource-library/root-causes-419-what-happens-to-vendors-who-dont-support-acme-when-90-day-certificates-come)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -235,11 +235,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Webinar: How mature is your Certificate Lifecycle Management?](https://www.sectigo.com/resource-library/clm-maturity-how-mature-is-your-certificate-management-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 424: Using LoRA IoT Protocol for Clandestine Communication](https://www.sectigo.com/resource-library/root-causes-424-using-lora-iot-protocol-for-clandestine-communication)
     * [Root Causes 423: Is a Certificate Software or a Service?](https://www.sectigo.com/resource-library/root-causes-423-is-a-certificate-software-or-a-service)
     * [Root Causes 422: New Date for Entrust Distrust](https://www.sectigo.com/resource-library/root-causes-422-new-date-for-entrust-distrust)
     * [Root Causes 421: FIDO 2 Implementation Problems](https://www.sectigo.com/resource-library/root-causes-421-fido-2-implementation-problems)
     * [Root Causes 420: New Side Channel Attack Against YubiKeys](https://www.sectigo.com/resource-library/root-causes-420-new-side-channel-attack-against-yubikeys)
-    * [Root Causes 419 - What Happens to Vendors Who Don't Support ACME When 90-day Certificates Come?](https://www.sectigo.com/resource-library/root-causes-419-what-happens-to-vendors-who-dont-support-acme-when-90-day-certificates-come)
     
 
 *  #}
