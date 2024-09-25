@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                            
+Terms of service – G FUEL                                                                                                 
 
 [Skip to content](#MainContent)  
 
@@ -591,53 +591,17 @@ The statements contained in this website have not been evaluated by the Food and
 
 "Close (esc)"
 
-4.7
+5.0
 
-Rated 4.7 out of 5 stars
+Rated 5.0 out of 5 stars
 
-2,877 Reviews
+5 Reviews
 
-4.4
+5.0
 
-Rated 4.4 out of 5 stars
+Rated 5.0 out of 5 stars
 
-39 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-112 Reviews
-
-4.5
-
-Rated 4.5 out of 5 stars
-
-1,117 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-1,900 Reviews
-
-4.5
-
-Rated 4.5 out of 5 stars
-
-271 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-2,053 Reviews
-
-4.5
-
-Rated 4.5 out of 5 stars
-
-40 Reviews
+1 Review
 
 4.4
 
@@ -649,4 +613,40 @@ Rated 4.4 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-311 Reviews
+2,053 Reviews
+
+4.7
+
+Rated 4.7 out of 5 stars
+
+1,900 Reviews
+
+4.5
+
+Rated 4.5 out of 5 stars
+
+1,117 Reviews
+
+4.7
+
+Rated 4.7 out of 5 stars
+
+1,442 Reviews
+
+4.7
+
+Rated 4.7 out of 5 stars
+
+2,877 Reviews
+
+4.7
+
+Rated 4.7 out of 5 stars
+
+1,186 Reviews
+
+4.8
+
+Rated 4.8 out of 5 stars
+
+18 Reviews
