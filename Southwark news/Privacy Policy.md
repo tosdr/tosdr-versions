@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![It's a one-off event on Thursday 3 October](https://southwarknews.co.uk/wp-content/uploads/2024/09/image001-360x180.png)](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
+    
+    ### [Alzheimer’s exhibition to pop up on the South Bank](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
+    
     [![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-360x180.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
     
     ### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
@@ -50,10 +54,6 @@
     [![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-360x180.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
     
     ### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
-    
-    [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
-    
-    ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![It's a one-off event on Thursday 3 October](https://southwarknews.co.uk/wp-content/uploads/2024/09/image001-360x180.png)](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
+    
+    ### [Alzheimer’s exhibition to pop up on the South Bank](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
+    
     [![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-360x180.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
     
     ### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
@@ -130,10 +134,6 @@ View All Result
     [![Credit: Antoinette Woolston](https://southwarknews.co.uk/wp-content/uploads/2024/09/460570572_10230368304544986_653172088785675705_n-1-e1727085259612-360x180.jpg)](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
     
     ### [Car flips and three treated by paramedics in Bermondsey](https://southwarknews.co.uk/featured/car-flips-and-three-treated-by-paramedics-in-bermondsey/)
-    
-    [![Tower Bridge entrance southside (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-23-09-2024-at-11.14-360x180.jpg)](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
-    
-    ### [Four people rushed to hospital after road incident on Tower Bridge](https://southwarknews.co.uk/news/four-people-rushed-to-hospital-after-road-incident-on-tower-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
