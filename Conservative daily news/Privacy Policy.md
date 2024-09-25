@@ -1,16 +1,5 @@
 Wednesday, September 25 2024
 
-Breaking News
-
-* [Authorities Finally Charge Man With Attempting To Assassinate Donald Trump](https://www.conservativedailynews.com/2024/09/authorities-finally-charge-man-with-attempting-to-assassinate-donald-trump/)
-* [Zelenskyy Flown Into Key Swing State At Taxpayer Expense After Attacking Trump, Vance](https://www.conservativedailynews.com/2024/09/zelenskyy-flown-into-key-swing-state-at-taxpayer-expense-after-attacking-trump-vance/)
-* [President Joe Biden’s Schedule for Tuesday, September 24, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-24-2024/)
-* [Jack Smith Should Not Be Allowed To File 180 Page ‘Hit Piece’ While Trump Remains Under Gag Order, Attorneys Say](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
-* [Whatever: Elite University Says Race ‘Neutral’ Policies ‘Constitutes Discrimination’](https://www.conservativedailynews.com/2024/09/whatever-elite-university-says-race-neutral-policies-constitutes-discrimination/)
-* [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
-* [The Push To Stuff Americans Into Electric Vehicles Is Facing Its Latest Stop Sign: Theft](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
-* [Republican Lawmakers Frustrated With Mike Johnson’s New Funding Bill](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
-
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
 * [Sign In](#)
@@ -126,57 +115,59 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/08/jail-cells-prison-public-domain.jpg)](https://www.conservativedailynews.com/2024/09/authorities-finally-charge-man-with-attempting-to-assassinate-donald-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/12/U.S.-Capitol-flag-at-half-mast.png)](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
     
-    [Authorities Finally Charge Man With Attempting To Assassinate Donald Trump](https://www.conservativedailynews.com/2024/09/authorities-finally-charge-man-with-attempting-to-assassinate-donald-trump/)
+    [GOP Lawmakers Move To Hold Blinken In Contempt After He Skips Afghanistan Withdrawal Hearing](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
     
-    September 24, 2024
+    September 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/)
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
     
-    [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/)
+    [CNN Host Says Her Network’s Poll Has ‘Some Alarming Numbers’ For Harris](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
     
-    September 24, 2024
+    September 25, 2024
     
-* [![Zelensky Ukraine](https://www.conservativedailynews.com/wp-content/uploads/2023/03/stg030223dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/zelenskyy-flown-into-key-swing-state-at-taxpayer-expense-after-attacking-trump-vance/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/facebook-censorship-600-x-337.jpg)](https://www.conservativedailynews.com/2024/09/facebooks-election-year-censorship-of-conservatives-again/)
     
-    [Zelenskyy Flown Into Key Swing State At Taxpayer Expense After Attacking Trump, Vance](https://www.conservativedailynews.com/2024/09/zelenskyy-flown-into-key-swing-state-at-taxpayer-expense-after-attacking-trump-vance/)
+    [Facebook’s Election Year Censorship of Conservatives Again](https://www.conservativedailynews.com/2024/09/facebooks-election-year-censorship-of-conservatives-again/)
     
-    September 24, 2024
+    September 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/Joe-Biden-united-nations-speech-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-24-2024/)
+* [![DOJ Trump pager](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/with-friends-like-these-4/)
     
-    [President Joe Biden’s Schedule for Tuesday, September 24, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-24-2024/)
+    [With Friends Like These…](https://www.conservativedailynews.com/2024/09/with-friends-like-these-4/)
     
-    September 24, 2024
+    September 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/fb-trump-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/fighting-tyranny/)
+* [![Iran Hezbollah Israel pager](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/get-the-message/)
     
-    [Fighting Tyranny](https://www.conservativedailynews.com/2024/09/fighting-tyranny/)
+    [Get the Message](https://www.conservativedailynews.com/2024/09/get-the-message/)
     
-    September 24, 2024
+    September 25, 2024
     
-* [![Recession soft landing Bidenomics federal reserve](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/soft-landing/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/05/Crazy-Joe-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-25-2024/)
     
-    [Soft Landing…](https://www.conservativedailynews.com/2024/09/soft-landing/)
+    [President Joe Biden’s Schedule for Wednesday, September 25, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-25-2024/)
     
-    September 24, 2024
+    September 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/09/israel-derangement-syndrome/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/0824-220x150.jpg)](https://www.conservativedailynews.com/2024/09/can-we-have-an-honest-conversation-about-kamala-harris/)
     
-    [Israel Derangement Syndrome](https://www.conservativedailynews.com/2024/09/israel-derangement-syndrome/)
+    [Can We Have An Honest Conversation About Kamala Harris](https://www.conservativedailynews.com/2024/09/can-we-have-an-honest-conversation-about-kamala-harris/)
     
-    September 24, 2024
+    September 25, 2024
     
-* [![phone scammer](https://www.conservativedailynews.com/wp-content/uploads/2017/11/phone-scammer.jpg)](https://www.conservativedailynews.com/2024/09/the-dos-and-donts-of-campaign-contributions/)
+* [![Russia Putin loves Kamala Harris 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/putins-choice-2/)
     
-    [The Dos and Don’ts of Campaign Contributions](https://www.conservativedailynews.com/2024/09/the-dos-and-donts-of-campaign-contributions/)
+    [Putin’s Choice](https://www.conservativedailynews.com/2024/09/putins-choice-2/)
     
-    September 24, 2024
+    September 25, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Biden’s unwillingness to combat gang violence is a deadly disgrace](https://www.thegunpage.com/bidens-unwillingness-to-combat-gang-violence-is-a-deadly-disgrace/10610792)
+* [Review: TriStar Arms Cypher SP](https://www.thegunpage.com/review-tristar-arms-cypher-sp/10610791)
 * [TFB Interview: Raine Peltokoski – World Champion Senior – IPSC](https://www.thegunpage.com/tfb-interview-raine-peltokoski-world-champion-senior-ipsc/10610788)
 * [POTD: Langdon Tactical Limited Edition LTT 92 Elite](https://www.thegunpage.com/potd-langdon-tactical-limited-edition-ltt-92-elite/10610789)
 * [HOT GAT or FUDD CRAP? Day of the Dead or Better Off Unsaid?](https://www.thegunpage.com/hot-gat-or-fudd-crap-day-of-the-dead-or-better-off-unsaid/10610790)
@@ -185,8 +176,6 @@ Recent Posts
 * [Florida Deputy Kills His Girlfriend While Cleaning Guns](https://www.thegunpage.com/florida-deputy-kills-his-girlfriend-while-cleaning-guns/10610780)
 * [WY: Support Arming School Staff in Converse County](https://www.thegunpage.com/wy-support-arming-school-staff-in-converse-county/10610779)
 * [Canada's Gun Grab Price Tag Continues To Grow](https://www.thegunpage.com/canadas-gun-grab-price-tag-continues-to-grow/10610781)
-* [New Angstadt Arms Vanquish 22 Zero Baffle Integral 10/22 Barrel](https://www.thegunpage.com/new-angstadt-arms-vanquish-22-zero-baffle-integral-10-22-barrel/10610778)
-* [Harris Can’t Have It Both Ways On Guns & Home Intruders](https://www.thegunpage.com/harris-cant-have-it-both-ways-on-guns-home-intruders/10610777)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -225,18 +214,6 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
-
-Recent Comments
-
-* KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
-* KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
-* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
-* charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
-* TMann on [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/#comment-782277)
-* charles wilkins on [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/#comment-782273)
-* charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
-* Dr. Ramon Argila deTorres y Sandoval on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782260)
-* Adonis on [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/#comment-782256)
 
 [Close](#)
 
