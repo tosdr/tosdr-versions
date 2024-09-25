@@ -208,50 +208,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Terri Winfield
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=130591667)  
-Calonet
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=48227894)  
+MR Compressors& Industrial Supplies
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=151620966)  
-Import Maaw
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=125664008)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=188914023)  
-Multi CNC Solutions CC
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=84411823)  
-Norton Medical & Consult - Namibia
-
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=150240468)  
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=24206826)  
 Electro-Heat
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=65636384)  
-Moving Made Easy (PTY) Ltd
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=152663701)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=104084803)  
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=208845688)  
+KTEN PARTS
+
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=165116686)  
+Creative Characters
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=173034034)  
+Multi CNC Solutions CC
+
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=100177015)  
+CGHK Enterprises (PTY) LTD
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=156375398)  
+Wiselink Broadband Pty Ltd
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=84336413)  
+Adele Jordaan T/A Joyful Noise Music Room
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=75775388)  
 Iurus Inc
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=167949170)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=72670127)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=81865366)  
-Itroniq (Pty) Ltd
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=26658579)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=38717727)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=138900595)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=156230552)  
-Stories (Pty) Ltd t/a Storietyd
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=196054536)  
-LEO DEVELOPMENT GROUP
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=24800125)  
-All Trucking Solutions
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=150839341)  
-Abandoned Vehicle and Truck Solutions
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7a50515881a81fe73bdf18a1b714bf3f30b74f9c61f82ec142ac22e2b2730f40&c=35828913)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=28d38a057f8475394257b522a0f8d0c42a089ec9b2c236b86d985df1c2ccab46&c=188849240)  
+Firstweb Hosting & Design
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
