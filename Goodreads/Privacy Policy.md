@@ -1,4 +1,4 @@
-[![Book Recommendations for Fall Reading Vibes](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1726611317i/443.jpg)](https://www.goodreads.com/blog/show/2834?ref=FallVibes24_eb)
+[![Readers' Top 60 Books of the Past 5 years](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1726852955i/447.jpg)](https://www.goodreads.com/blog/show/2843?ref=60topbks_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
