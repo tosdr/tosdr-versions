@@ -58,6 +58,7 @@
     
     Compliance
     
+    * [DORA](http://tresorit.com/blog/dora-regulation-definition-timeline-and-tips-for-compliance/)
     * [CCPA](https://tresorit.com/blog/tresorit-backs-privacy-for-all-to-strengthen-ccpa/)
     * [CJIS](https://tresorit.com/blog/cjis-safeguard-criminal-justice-information-with-tresorit/)
     * [FINRA](https://tresorit.com/blog/end-to-end-encryption-leads-to-security-in-securities/)
@@ -159,6 +160,7 @@
     
     Compliance
     
+    * [DORA](http://tresorit.com/blog/dora-regulation-definition-timeline-and-tips-for-compliance/)
     * [CCPA](https://tresorit.com/blog/tresorit-backs-privacy-for-all-to-strengthen-ccpa/)
     * [CJIS](https://tresorit.com/blog/cjis-safeguard-criminal-justice-information-with-tresorit/)
     * [FINRA](https://tresorit.com/blog/end-to-end-encryption-leads-to-security-in-securities/)
