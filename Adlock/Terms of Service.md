@@ -195,7 +195,7 @@ Latest news
 
 [![How To Block Temu Ads: A Step-by-Step Guide](/wp-content/uploads/2024/09/Temu-ads.png)
 
-### How To Block Temu Ads: A Step-by-Step Guide](https://adlock.com/blog/How-To-Block-Temu-Ads-A-Step-by-Step-Guide/)
+### How To Block Temu Ads: A Step-by-Step Guide](https://adlock.com/blog/how-to-block-temu-ads/)
 
 [![How To Watch YouTube Without Ads on Android](/wp-content/uploads/2019/04/YouTubeNew.png)
 
