@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Compact Tiny House Hides a Wonderfully Ingenious Layout for the Whole Family](https://s1.cdn.autoevolution.com/images/news/compact-tiny-house-hides-a-wonderfully-ingenious-layout-for-the-whole-family-240301-5.jpg "Compact Tiny House Hides a Wonderfully Ingenious Layout for the Whole Family")
+[![The Kleox Shelter Is a Teardrop Trailer That Offers Minimal Features on Purpose](https://s1.cdn.autoevolution.com/images/news/the-kleox-shelter-is-a-teardrop-trailer-that-offers-minimal-features-on-purpose-240342-5.jpg "The Kleox Shelter Is a Teardrop Trailer That Offers Minimal Features on Purpose")
 
-Compact Tiny House Hides a Wonderfully Ingenious Layout for the Whole Family](https://www.autoevolution.com/news/compact-tiny-house-hides-a-wonderfully-ingenious-layout-for-the-whole-family-240301.html)
+The Kleox Shelter Is a Teardrop Trailer That Offers Minimal Features on Purpose](https://www.autoevolution.com/news/the-kleox-shelter-is-a-teardrop-trailer-that-offers-minimal-features-on-purpose-240342.html)
 
 how-to \_
 
