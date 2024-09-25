@@ -18,7 +18,7 @@ Bitte beachten Sie, dass Javascript aktiviert sein muss, um alle Funktionen auf 
 
 [Für Unternehmen](https://www.wg-gesucht.de/fuer-immobilienprofis.html)
 
-[SCHUFA-Auskunft](https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&utm_source=main_navigation)
+[SCHUFA-Auskunft](#)
 
 [Anzeige inserieren](#)
 
@@ -51,7 +51,7 @@ bei **WG-Gesucht.de!**
 
 [Anbieter](https://www.wg-gesucht.de/info/anbieter) [Magazin](https://www.wg-gesucht.de/info/magazin) [Mietrecht](https://www.wg-gesucht.de/mietrecht.html) [Netiquette](https://www.wg-gesucht.de/info/netiquette) [SCHUFA](https://www.wg-gesucht.de/info/schufa-bonitaetscheck) [Sicherheit](https://www.wg-gesucht.de/info/sicherheit) [Suchende](https://www.wg-gesucht.de/info/wg-suche) [WG-Arten](https://www.wg-gesucht.de/info/wg-arten) [WG-Ratgeber](https://www.wg-gesucht.de/info/wg-ratgeber) [Wohnen in](https://www.wg-gesucht.de/info/wohnen-in)
 
-[Für Unternehmen](https://www.wg-gesucht.de/fuer-immobilienprofis.html) [SCHUFA-Auskunft](https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&utm_source=main_navigation) [Anzeige inserieren](#collapseCreateAd)
+[Für Unternehmen](https://www.wg-gesucht.de/fuer-immobilienprofis.html) [SCHUFA-Auskunft](#) [Anzeige inserieren](#collapseCreateAd)
 
 [Angebot inserieren](https://www.wg-gesucht.de/get-started.html) [Gesuch inserieren](https://www.wg-gesucht.de/gesuch-aufgeben.html)
 
@@ -63,6 +63,16 @@ bei **WG-Gesucht.de!**
 
 [**Schon ab 29,90€** - Exklusive  
 Angebote für Immobilien-Profis](https://www.wg-gesucht.de/get-started.html)
+
+#### Bonitätsnachweis
+
+Laden Sie Ihre **SCHUFA-Auskunft** direkt hier herunter, um Ihre Bonität unkompliziert und schnell prüfen zu lassen.
+
+[SCHUFA](https://www.wg-gesucht.de/bonitaetscheck.html?utm_campaign=schufa&utm_source=main_navigation)
+
+Als kostengünstige Alternative bieten wir den **BonitätsPass** von itsmydata an, mit dem Sie ebenfalls eine sichere Bonitätsprüfung erhalten.
+
+[itsmydata](https://www.wg-gesucht.de/itsmydata.html)
 
 #### Aktiver Werbeblocker
 
