@@ -55,7 +55,7 @@
     * [![](/_next/static/media/cancer.9a09fd43.svg)Cancer](https://www.23andme.com/ca)
     * [![](/_next/static/media/mental-health.0fae1630.svg)Mental Health](https://www.23andme.com/mh)
     
-* [TOTAL HEALTH](https://www.23andme.com/total-health/)
+* [Total Health](https://www.23andme.com/total-health/)
 
 * [Sign In](https://you.23andme.com/)
 * [Register Kit](https://www.23andme.com/start/)
@@ -260,13 +260,13 @@ If you have questions about this Privacy Statement, or have a complaint or inqui
 
 Privacy Administrator  
 23andMe, Inc.  
-349 Oyster Point Blvd  
-South San Francisco, CA 94080
+223 N. Mathilda Ave.  
+Sunnyvale, CA 94086
 
 Next Page: Information we collect![](/assets/svg/posi/arrow-right.svg)
 
-Last Updated: October 4, 2023.  
-[Read the previous version](https://www.23andme.com/legal/privacy/full-version/7.1/)
+Last Updated: September 24, 2024.  
+[Read the previous version](https://www.23andme.com/legal/privacy/full-version/7.2/)
 
 Footer
 ------
