@@ -619,8 +619,7 @@ Terms and Conditions
     Through your continued use of our Site, you indicate that you agree to our use of Cookies as described in this Cookie Policy, as described [here](https://www.greatwolf.com/cookie-policy)
     
 
-We use cookies to improve your experience on this site, to show you personalized advertising, and to gather web traffic data.  
-To find more, please read our [**Privacy Policy**](https://www.greatwolf.com/terms "Privacy Policy") and [**Cookie Policy**.](https://www.greatwolf.com/cookie-policy "Cookie Policy")
+We use cookies and similar technologies for a variety of purposes such as improving your experience on this site, analyzing web traffic data, and showing you personalized advertising, including targeted advertising through third parties, as further described in our [Cookie Policy](https://www.greatwolf.com/cookie-policy "Cookie Policy"). By continuing to use our site, you agree to our [Terms & Conditions](https://www.greatwolf.com/terms "Terms & Conditions") (which include arbitration of certain claims) and [Privacy Policy](https://www.greatwolf.com/terms#privacy-policy "Privacy Policy").
 
 Close ![Close](https://cdn.greatwolf.com/content/png/cookie-close-icon.png) 
 
