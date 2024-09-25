@@ -304,7 +304,7 @@ Take your favorite fandoms with you and never miss a beat.
 
 ![Fandom App logo](https://static.wikia.nocookie.net/f3fc9271-3d5e-4c73-9afc-e6a9f6154ff1)
 
-* [![Store icon](https://static.wikia.nocookie.net/464fc70a-5090-490b-b47e-0759e89c263f)](https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803)
-* [![Store icon](https://static.wikia.nocookie.net/f7bb9d33-4f9a-4faa-88fe-2a0bd8138668)](https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter)
+* [![Store icon](https://static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca)](https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803)
+* [![Store icon](https://static.wikia.nocookie.net/6e8f2e52-ab5a-427f-a836-ab57168161ec)](https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter)
 
 Copyright 2024 Fandom, Inc.
