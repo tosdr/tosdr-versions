@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [U.S. assaults surge as Trump’s hate escalates](https://independentaustralia.net/article-display/us-assaults-surge-as-trumps-hate-escalates,19000 "Permanent Link : U.S. assaults surge as Trump’s hate escalates")
+* [The Netherlands: Europe’s digital powerhouse](https://independentaustralia.net/article-display/the-netherlands-europes-digital-powerhouse,19007 "Permanent Link : The Netherlands: Europe’s digital powerhouse")
 * [Make the Pets Great Again](https://independentaustralia.net/article-display/make-the-pets-great-again,19006 "Permanent Link : Make the Pets Great Again")
 * [Courier Mail's LNP relationship smacks of hypocrisy](https://independentaustralia.net/article-display/courier-mails-lnp-relationship-smacks-of-hypocrisy,19005 "Permanent Link : Courier Mail's LNP relationship smacks of hypocrisy")
 * [The Trump/Harris debate: Implications of both arguments](https://independentaustralia.net/article-display/the-trumpharris-debate-implications-of-both-arguments,19004 "Permanent Link : The Trump/Harris debate: Implications of both arguments")
 * [Australia's productivity not as bad as you've been told](https://independentaustralia.net/article-display/australias-productivity-not-as-bad-as-youve-been-told,19003 "Permanent Link : Australia's productivity not as bad as you've been told")
 * [Why offshore student visa grants in 2025 must rise to hit student caps](https://independentaustralia.net/article-display/why-offshore-student-visa-grants-in-2025-must-rise-to-hit-student-caps,19002 "Permanent Link : Why offshore student visa grants in 2025 must rise to hit student caps")
-* [Israel-Gaza one year on: Rethinking security to stem rise in conflict](https://independentaustralia.net/article-display/israel-gaza-one-year-on-rethinking-security-to-stem-rise-in-conflict,19001 "Permanent Link : Israel-Gaza one year on: Rethinking security to stem rise in conflict")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
