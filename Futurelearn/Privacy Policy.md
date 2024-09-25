@@ -718,6 +718,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Launches Its B2B Social Campaign](https://www.futurelearn.com/info/press/futurelearn-launches-its-b2b-social-campaign)
+    -----------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the leading online learning platform, has launched a B2B social campaign to support FutureLearn …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [![project manager at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-90-150x150.png)](https://www.futurelearn.com/info/blog/project-management-degree-guide)
     
     [A complete guide to project management degrees](https://www.futurelearn.com/info/blog/project-management-degree-guide)
@@ -744,13 +751,6 @@ Powered By
     In this blog, we’ll explore why it’s important to actively promote multilingual education to nurture …
     
     Category: [Teaching](https://www.futurelearn.com/info/educators/teaching)
-    
-* [The International Platform On Sport And Development Offers Sponsored Courses On FutureLearn](https://www.futurelearn.com/info/press/the-international-platform-on-sport-and-development-offers-sponsored-courses-on-futurelearn)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Leading global hub, The International Platform on Sport and Development (sportanddev), has partnered with online …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
