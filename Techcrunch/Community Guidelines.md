@@ -97,10 +97,10 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [Meta Connect](https://techcrunch.com/2024/09/23/meta-connect-2024-how-to-watch-the-metaverse-and-generative-ai-event/)
+* [Meta Connect 2024](https://techcrunch.com/2024/09/23/meta-connect-2024-how-to-watch-the-metaverse-and-generative-ai-event/)
 * [CloudKitchens Lawsuit](https://techcrunch.com/2024/09/24/travis-kalanick-cloudkitchens-lawsuit-wrongful-termination-pregnant/)
-* [ChatGPT Advanced Voice Mode](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
-* [TikTok Music](https://techcrunch.com/2024/09/24/bytedance-is-shutting-down-tiktok-music-globally/)
+* [OpenAI CTO Mira Murati](https://techcrunch.com/2024/09/25/openai-cto-mira-murati-says-shes-leaving-the-company/)
+* [Orion Glasses](https://techcrunch.com/2024/09/25/meta-teases-orion-brain-powered-true-ar-glasses-in-a-tiny-package/)
 * [iOS 18](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
 * [Tech Layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
