@@ -218,8 +218,8 @@ Donations to freeCodeCamp go toward our education initiatives, and help pay for 
 
 You can [make a tax-deductible donation here](https://www.freecodecamp.org/donate/).
 
-Trending Guides
----------------
+Trending Books and Handbooks
+----------------------------
 
 * [Learn CSS Transform](https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/)
 * [Build a Static Blog](https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/)
