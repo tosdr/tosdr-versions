@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
+[Part 1: Expert Advice When Caring for a Loved One with Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-1-expert-advice-when-caring-for-a-loved-one-with-dementia/367)
 
-[Assisted Living Care Can Be Made Easy](https://www.visitingangels.com/knowledge-center/care-options/assisted-living-care-can-be-made-easy/48)
+[How Non-Medical End of Life Care Can Help Seniors & Families](https://www.visitingangels.com/knowledge-center/care-options/how-non-medical-end-of-life-care-can-help-seniors-families/360)
 
-[The Best Senior Care: Treat Them with Respect](https://www.visitingangels.com/knowledge-center/why-in-home-care/the-best-senior-care-treat-them-with-respect/476)
+[Understanding “Veterans’ Culture” When Caring for an Aging Vet](https://www.visitingangels.com/knowledge-center/why-in-home-care/understanding-veterans-culture-when-caring-for-an-aging-vet/338)
 
-[Paranoia in the Elderly: Will it Warrant Additional Care?](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/paranoia-in-the-elderly-will-it-warrant-additional-care/370)
+[If You Don’t Know What Palliative Care Is, You Should](https://www.visitingangels.com/knowledge-center/care-options/if-you-dont-know-what-palliative-care-is-you-should/335)
 
-[Don't Ignore These 5 Signs Your Elderly Loved One Needs Help Immediately](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/dont-ignore-these-5-signs-your-elderly-loved-one-needs-help-immediately/309)
+[Dementia Care: Visiting Angels Provides Insight into Care and Symptoms](https://www.visitingangels.com/knowledge-center/care-options/dementia-care-visiting-angels-provides-insight-into-care-and-symptoms/326)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
