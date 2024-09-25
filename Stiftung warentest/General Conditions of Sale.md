@@ -591,18 +591,18 @@ Neueste Tests
 * [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Fußbereich
 
@@ -2731,18 +2731,18 @@ Neueste Tests
 * [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2789,36 +2789,36 @@ Neueste Tests
 * [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Neueste Tests
 
 * [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 * [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-Meister-Proper-Schlusslicht-4980485-0/ "Badreiniger im Test - Günstig glänzt")
+* [Badreiniger im Test: Günstig glänzt](https://www.test.de/Badreiniger-im-Test-4980485-0/ "Badreiniger im Test - Günstig glänzt")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Giro­konto: Direkt­bank ING verschlechtert Konto-Konditionen](https://www.test.de/Girokonto-Direktbank-ING-verschlechtert-Konto-Konditionen-6150916-0/ "Girokonto - Direktbank ING verschlechtert Konto-Konditionen")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
 
 Service Stiftung Warentest
 
