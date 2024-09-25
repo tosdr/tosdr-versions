@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[The California Dental Association Foundation’s n ![The California Dental Association Foundation’s new model of patient care at the Long Beach clinic successfully placed more than 100 patients into dental homes, ensuring comprehensive oral health. With 46 dedicated volunteers, the clinic delivered nearly $37,000 in essential dental services. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DATdvuZPUA8/) 
+
 [Approximately 39 million Americans suffer from obs ![Approximately 39 million Americans suffer from obstructive sleep apnea. It’s a relatively common condition that can impact many areas of overall health — including oral health.⁠
 ⁠
 In this episode of The Art of Dental Finance and Management, host Art Wiederman is joined by Dr. Dar Radfar for a conversation about the convergence of sleep science and dentistry. Dr. Radfar explains how practices and patients alike can benefit when sleep wellness is incorporated into dentists’ services. He also offers actionable advice for implementing sleep apnea treatment in your dental practice.⁠
@@ -176,13 +183,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAGe5-tNaOj/) 
-
-[Research reveals how periodontal bacteria, specifi ![Research reveals how periodontal bacteria, specifically Aggregatibacter actinomycetemcomitans, exacerbate rheumatoid arthritis by activating inflammatory pathways. Researchers from Tokyo Medical and Dental University offer hope for novel treatments to manage RA and other systemic diseases linked to oral health. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAEA_IrtRui/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
