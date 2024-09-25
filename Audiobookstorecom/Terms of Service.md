@@ -1,4 +1,4 @@
-  
+    
 
 [close](javascript:void(0))
 
@@ -39,7 +39,7 @@
     * [Jack Carr](https://audiobookstore.com/authors/jack-carr-audiobooks/)
     * [Lee Child](https://audiobookstore.com/authors/lee-child-audiobooks/)
     * [Jonathan Haidt](https://audiobookstore.com/authors/jonathan-haidt-audiobooks/)
-    * [Gabor Maté](https://audiobookstore.com/authors/gabor-mate-audiobooks/)
+    * [Gabor Maté](https://audiobookstore.com/authors/gabor-mat%C3%A9-audiobooks/)
     * [James Clear](https://audiobookstore.com/authors/james-clear-audiobooks/)
     * [J. R. R. Tolkien](https://audiobookstore.com/authors/j-r-r-tolkien-audiobooks/)
 * [Specialty Categories](#)
@@ -53,6 +53,7 @@
     * [Oprah's Book Club](https://audiobookstore.com/audiobook-lists/oprah-winfrey-book-club.aspx)
     * [Reese Witherspoon Book Club](https://audiobookstore.com/audiobook-lists/reese-witherspoon-book-club.aspx)
     * [The 50 Best Classic Novels](https://audiobookstore.com/audiobook-lists/-the-50-best-classic-novels.aspx)
+     
 * [Curated Audiobook Lists](#)
     * [Alternative Realities](https://audiobookstore.com/curated-audiobook-lists/alternative-realities.aspx)
     * [Apocalyptic Horror](https://audiobookstore.com/curated-audiobook-lists/apocalyptic-horror.aspx)
@@ -88,7 +89,7 @@
   
   
 
-   
+    
 
 [![AudiobookStore.com Home](/images/logo.png)](https://audiobookstore.com/)
 
