@@ -68,7 +68,7 @@ Leverage your valuable CRM data](https://www.qualified.com/salesforce)
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/61691db0495ee03fcf5f4127_down-arrow.svg)
 
-[Pricing](https://www.qualified.com/pricing)[Piper](https://www.qualified.com/ai-sdr)[Customers](https://www.qualified.com/customers)
+[Pricing](https://www.qualified.com/pricing)[Piper AI SDR](https://www.qualified.com/ai-sdr)[Customers](https://www.qualified.com/customers)
 
 Resources
 
