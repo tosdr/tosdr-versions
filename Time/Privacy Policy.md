@@ -24,6 +24,8 @@ Time Privacy pages
 
 [Do not sell my Personal information](https://privacyportal.onetrust.com/webform/ec48745c-0b96-47da-aa41-f959ab79a818/4f959e8e-acb7-495a-b065-3f070ee2695b)
 
+[UK and EEA Event Privacy Notice](https://time.com/uk-and-eea-event-privacy-notice)
+
 ![](https://d16bl9hbknyxy0.cloudfront.net/3012c1ca-4ba2-4510-997c-6f823e26b6a6/1f757d3a-e7fe-4c9b-9230-cbc689fc579d/time_logo.svg?&Expires=9223372036854775&Signature=UI4PJp5mapoAIk38pjj4ocWCGASkkbUxBGRUH5F7pLaZom~WdksZBXiA8Zn8Nt4eZnE3aWFpGweLgYtmURdfa3B~eEPMIcbJuv220mY16kJxsCYpslo5MTz93t5VbeZWGv1LByfCPjqEOACOYNowLT-ohwPsdKRkIydKUpir3j7mYmhCqfB5oMRUsNzFIaqsDdvUJynENS17sxMDy8xbkirgHEYogg~Mws49sf~I-rxSUXJor8rSkMGY2-f4MuYTfxzWqDdonv4a68d2r-4WyEWF93DFk1Wkz-Bi~fJxNS~Xfa7Ilz3TGlcKVTMnS0rjNT5QpknW~mDf9uKSTfB93A__&Key-Pair-Id=K2SKI2Y48Y62V1)
 
 [](https://www.facebook.com/time)
