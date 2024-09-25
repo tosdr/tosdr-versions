@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [JUJUTSU KAISEN CURSED CLASH - Patch Notes Ver. 1.3.0](https://en.bandainamcoent.eu/jujutsu-kaisen/news/jujutsu-kaisen-cursed-clash-patch-notes-ver-130)
-* [What’s New in Tales of Graces f Remastered?](https://en.bandainamcoent.eu/tales-of/news/whats-new-tales-of-graces-f-remastered)
+* [MY HERO ULTRA RUMBLE - Patch Notes 1.6.0](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-patch-notes-160)
+* [NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS - Patch 1.50 Notes](https://en.bandainamcoent.eu/naruto/news/naruto-x-boruto-ultimate-ninja-storm-connections-patch-150-notes)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
