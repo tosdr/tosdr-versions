@@ -197,59 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=93853409)  
-Cape Adventure Zone
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=109059952)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=19092252)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=130921476)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=133123539)  
-Goju Ryu Karate Centre
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=161982524)  
+Lily Fern & Co
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=79971987)  
-LEONARD
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=94913583)  
+CLEVER STUDENTS
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=85403802)  
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=108057966)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=165733827)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=45439300)  
+Desygn
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=31763103)  
 Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=199118007)  
-Cooper Logistics (Pty) Ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=131903488)  
+Fox Alarms & Security
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=69752508)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=192850783)  
+Dombieterfontein (PTY) LTD
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=173018342)  
-SR Travel Services
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=117322970)  
+NIMAWELL
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=196328565)  
-Tiny Cuddles Photography
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=149664375)  
+OptaServ
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=55684988)  
-Salvage Genie
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=212680498)  
+Chiron Medical Solutions
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=72974489)  
-Import Maaw
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=25194397)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=6765201)  
-FX ACCOUNTING
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=83428252)  
-Mtunzini Group
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=126086276)  
-UMVIKELI PRIVATE SECURITY
-
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=1c483c4b748a39722c6288693fade6a26ee870cfe0348cce2ec1c8362417d7a9&c=8161133)  
-#DiGi3 Marketing & Design
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=24612848)  
+MONSTER SECURITY GUARDING
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
