@@ -265,7 +265,7 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [LATEST On Tropical Storm Helene](https://www.gpb.org/emergency-preparedness)
+* [LATEST On Helene](https://www.gpb.org/emergency-preparedness)
 * [CELEBRATE Jimmy Carter's 100th](https://www.gpb.org/jimmycarter100)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
