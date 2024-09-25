@@ -16,7 +16,7 @@
 
 Cart
 
-0
+2
 
 GET-RC – Terms and Conditions
 -----------------------------
