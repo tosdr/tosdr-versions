@@ -27,17 +27,17 @@
 Privacy Notice
 ==============
 
-* [EN](#en)
-* [ES](#es)
-* [DE](#de)
-* [JA](#ja)
-* [RU](#ru)
-* [FR](#fr)
-* [PTBR](#ptbr)
-* [IT](#it)
-* [PL](#pl)
-* [ZH-TW](#zh-tw)
-* [TU](#tu)
+* [EN](#en-US)
+* [ES](#es-ES)
+* [DE](#de-DE)
+* [JA](#ja-JP)
+* [RU](#ru-RU)
+* [FR](#fr-FR)
+* [PT-BR](#pt-BR)
+* [IT](#it-IT)
+* [PL](#pl-PL)
+* [ZH-TW](#zh-TW)
+* [TU](#tr-TR)
 * [Terms Of Service](https://www.playtika.com/terms-service)
 
 Privacy Notice
