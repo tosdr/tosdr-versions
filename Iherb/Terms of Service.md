@@ -1123,8 +1123,6 @@ Wohlbefinden & Pflege
 
 [Carlson](https://de.iherb.com/c/carlson)
 
-SALE
-
 [Cellucor](https://de.iherb.com/c/cellucor)
 
 [Childlife](https://de.iherb.com/c/childlife-essentials)
@@ -1150,6 +1148,8 @@ SALE
 [iHerb Brands](https://de.iherb.com/c/iherb-brands)
 
 [Irwin Naturals](https://de.iherb.com/c/irwin-naturals)
+
+SALE
 
 [Jarrow Formulas](https://de.iherb.com/c/jarrow-formulas)
 
@@ -1227,25 +1227,25 @@ SALE
 
 Marken der Woche
 
-[![](https://s3.images-iherb.com/brand/logo/CAR/1658257540.png)](https://de.iherb.com/c/carlson)
+[![](https://s3.images-iherb.com/brand/logo/IRW/1652231840.png)](https://de.iherb.com/c/irwin-naturals)
 
-[![](https://s3.images-iherb.com/brand/logo/EID/1705431620.png)](https://de.iherb.com/c/eidon-ionic-minerals)
+[![](https://s3.images-iherb.com/brand/logo/OLE/1710188132.png)](https://de.iherb.com/c/olly)
 
-[![](https://s3.images-iherb.com/brand/logo/CLF/1658454392.png)](https://de.iherb.com/c/country-life)
+[![](https://s3.images-iherb.com/brand/logo/NCR/1652403191.png)](https://de.iherb.com/c/new-chapter)
 
-[![](https://s3.images-iherb.com/brand/logo/MCL/1678895493.png)](https://de.iherb.com/c/dr-mercola)
+[![](https://s3.images-iherb.com/brand/logo/LFB/1686763516.png)](https://de.iherb.com/c/lifeable)
 
-[![](https://s3.images-iherb.com/brand/logo/REN/1655248951.png)](https://de.iherb.com/c/renew-life)
+[![](https://s3.images-iherb.com/brand/logo/PTF/1658872203.png)](https://de.iherb.com/c/planetary-herbals)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf Mineralstoffe 
+[\-28% auf Hautpflege
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/minerals?pcode=28MINERALS)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/skin-care?pcode=28SKIN)
 
       
 
