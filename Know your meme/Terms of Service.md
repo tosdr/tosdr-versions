@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [DA: Veilguard Customization Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy "DA: Veilguard Customization Controversy") [Lovely Lady RPG](https://knowyourmeme.com/memes/subcultures/lovely-lady-rpg "Lovely Lady RPG") [X-Chan "Efficiency" Comic](https://knowyourmeme.com/memes/elon-musk-and-x-chan-efficiency-comic-by-sks-cartoon "X-Chan "Efficiency" Comic") [Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Cards Against Humanity Suing Elon Musk](https://knowyourmeme.com/memes/events/cards-against-humanity-suing-elon-musk "Cards Against Humanity Suing Elon Musk") [Poor Bastard Exploded](https://knowyourmeme.com/memes/poor-bastard-exploded "Poor Bastard Exploded") [Ironmouse YouTube Channel Shutdown](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown "Ironmouse YouTube Channel Shutdown")
+[DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [Lovely Lady RPG](https://knowyourmeme.com/memes/subcultures/lovely-lady-rpg "Lovely Lady RPG") [Lera Abova "Nico Robin" Casting Controversy](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy "Lera Abova "Nico Robin" Casting Controversy") [Half-Life](https://knowyourmeme.com/memes/subcultures/half-life "Half-Life") [Death of Kim Jong-Il](https://knowyourmeme.com/memes/events/death-of-kim-jong-il "Death of Kim Jong-Il") [Queen Elizabeth II's Death](https://knowyourmeme.com/memes/events/queen-elizabeth-iis-death "Queen Elizabeth II's Death") [Osama Bin Laden's Death](https://knowyourmeme.com/memes/events/osama-bin-ladens-death "Osama Bin Laden's Death") [Tomodachi Life](https://knowyourmeme.com/memes/subcultures/tomodachi-life "Tomodachi Life") [DA: Veilguard Customization Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-character-customization-controversy "DA: Veilguard Customization Controversy")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
