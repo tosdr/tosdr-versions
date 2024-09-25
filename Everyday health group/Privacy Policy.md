@@ -56,17 +56,17 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/psychedelic-drug-psilocybin-comparable-antidepressant-effects-1440x810.jpg)
+
+Psilocybin Outperformed a Traditional Antidepressant in a Recent Study](https://www.everydayhealth.com/mental-health-conditions/psilocybin-outperformed-traditional-antidepressant-in-study/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/new-covid-variant-xec-arrives-1440x810.jpg)
 
 XEC Is the New COVID Variant to Watch](https://www.everydayhealth.com/infectious-diseases/xec-is-the-new-covid-variant/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/black-women-more-likely-to-die-of-breast-cancer-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/you-can-soon-self-administer-flu-vaccine-1440x810.jpg)
 
-Black Women Have a Higher Risk of Death From All Types of Breast Cancer](https://www.everydayhealth.com/cancer/black-women-have-higher-risk-of-dying-from-breast-cancer/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/fda-approves-updated-covid-vaccines-fall-2024-1440x810.jpg)
-
-Updated COVID Vaccines for 2024–2025 Get FDA Approval](https://www.everydayhealth.com/coronavirus/updated-covid-vaccines-for-2024-2025-gets-fda-approval/)
+First-Ever Flu Vaccine for Home Use Gets FDA Approval](https://www.everydayhealth.com/lung-respiratory/flu-vaccine-for-home-use-gets-fda-approval/)
 
 ![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
