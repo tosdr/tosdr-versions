@@ -1,7 +1,5 @@
 [heise online Logo](https://www.heise.de/ "heise online") [heise+ gratis testen](https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000028_21806_3_57&wt_mc=intern.abo.plus.hp_nk.navilink.desktop1.desktop1)
 
- [![heise kennenlernen](/icons/ho/heise96_light.svg) ![heise kennenlernen](/icons/ho/heise96_dark.svg)](https://www.heisegroup.de/ "heise kennenlernen")
-
 [Anmelden](https://www.heise.de/sso/login/)
 
   
@@ -52,6 +50,7 @@ Services
 * [heise medien](https://www.heisegroup.de/artikel/heise-medien-3904998.html "heise medien - Hochwertiger und unabhängiger Journalismus")
 * [heise regioconcept](https://www.heise-regioconcept.de/ "heise regioconcept - Regionales Marketing für Unternehmen")
 * [heise Business Services](https://business-services.heise.de/ "heise Business Services – Produkte und Lösungen namhafter IT-Hersteller")
+* [Sponsoring![Logo Hannover 96](/icons/ho/h96-logo.png)](https://www.heisegroup.de/ "Sponsoring Hannover 96")
 * [Mediadaten](https://mediadaten.heise.de/ "Mediadaten heise medien")
 * [Karriere](https://www.heisegroup.de/artikel/heise-als-Arbeitgeber-1812545.html "Arbeiten bei heise – Heise als Arbeitgeber")
 * [Presse](https://www.heisegroup.de/presse/ "Pressemitteilungen und Interviews")
@@ -61,8 +60,6 @@ Services
 [heise online Logo](https://www.heise.de/ "heise online")
 
 [Abo](https://www.heise.de/plus "Jetzt heise+ abonnieren")
-
- [![heise kennenlernen](/icons/ho/heise96_light.svg) ![heise kennenlernen](/icons/ho/heise96_dark.svg)](https://www.heisegroup.de/ "heise kennenlernen")
 
  
 
@@ -134,6 +131,7 @@ Services
 * [heise medien](https://www.heisegroup.de/artikel/heise-medien-3904998.html "heise medien - Hochwertiger und unabhängiger Journalismus")
 * [heise regioconcept](https://www.heise-regioconcept.de/ "heise regioconcept - Regionales Marketing für Unternehmen")
 * [heise Business Services](https://business-services.heise.de/ "heise Business Services – Produkte und Lösungen namhafter IT-Hersteller")
+* [Sponsoring![Logo Hannover 96](/icons/ho/h96-logo.png)](https://www.heisegroup.de/ "Sponsoring Hannover 96")
 * [Mediadaten](https://mediadaten.heise.de/ "Mediadaten heise medien")
 * [Karriere](https://www.heisegroup.de/artikel/heise-als-Arbeitgeber-1812545.html "Arbeiten bei heise – Heise als Arbeitgeber")
 * [Presse](https://www.heisegroup.de/presse/ "Pressemitteilungen und Interviews")
@@ -819,6 +817,7 @@ Services
 * [heise medien](https://www.heisegroup.de/artikel/heise-medien-3904998.html "heise medien - Hochwertiger und unabhängiger Journalismus")
 * [heise regioconcept](https://www.heise-regioconcept.de/ "heise regioconcept - Regionales Marketing für Unternehmen")
 * [heise Business Services](https://business-services.heise.de/ "heise Business Services – Produkte und Lösungen namhafter IT-Hersteller")
+* [Sponsoring![Logo Hannover 96](/icons/ho/h96-logo.png)](https://www.heisegroup.de/ "Sponsoring Hannover 96")
 * [Mediadaten](https://mediadaten.heise.de/ "Mediadaten heise medien")
 * [Karriere](https://www.heisegroup.de/artikel/heise-als-Arbeitgeber-1812545.html "Arbeiten bei heise – Heise als Arbeitgeber")
 * [Presse](https://www.heisegroup.de/presse/ "Pressemitteilungen und Interviews")
