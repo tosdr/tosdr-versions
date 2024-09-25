@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Community
-
-### Biden vowed to revive US refugee program. Everyday Americans are helping.](https://www.csmonitor.com/USA/Society/2024/0924/refugees-welcome-corps-biden-trump "Biden vowed to revive US refugee program. Everyday Americans are helping.")
-
 [Dignity
 
-### Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home](https://www.csmonitor.com/World/Americas/2024/0924/sinixt-confederacy-canada-indigenous-people-cross-border-sovereignty "Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home")
+### The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves](https://www.csmonitor.com/World/Asia-South-Central/2024/0925/rural-India-women-goat-nurses "The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves")
 
-[Honesty
+[Integrity
 
-### Signs of a ‘South Asian Spring’](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0924/Signs-of-a-South-Asian-Spring "Signs of a ‘South Asian Spring’")
+### Avoiding war by truth-telling](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0925/Avoiding-war-by-truth-telling "Avoiding war by truth-telling")
+
+[Cooperation
+
+### What do Jewish and Palestinian Israelis have in common? Hope.](https://www.csmonitor.com/World/Middle-East/2024/0925/Jewish-Palestinian-Israelis-Standing-Together-Hope "What do Jewish and Palestinian Israelis have in common? Hope.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Biden vowed to revive US refugee program. Everyday Americans are helping.](https://www.csmonitor.com/USA/Society/2024/0924/refugees-welcome-corps-biden-trump "Biden vowed to revive US refugee program. Everyday Americans are helping.")
+[### The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves](https://www.csmonitor.com/World/Asia-South-Central/2024/0925/rural-India-women-goat-nurses "The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves")
 
-[### Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home](https://www.csmonitor.com/World/Americas/2024/0924/sinixt-confederacy-canada-indigenous-people-cross-border-sovereignty "Once ‘extinct’ in Canada, the Sinixt people are reclaiming their ancestral home")
+[### What do Jewish and Palestinian Israelis have in common? Hope.](https://www.csmonitor.com/World/Middle-East/2024/0925/Jewish-Palestinian-Israelis-Standing-Together-Hope "What do Jewish and Palestinian Israelis have in common? Hope.")
 
-[### Israel takes its conflict with Hezbollah to the brink of war](https://www.csmonitor.com/World/Middle-East/2024/0924/Israel-takes-its-conflict-with-Hezbollah-to-the-brink-of-war "Israel takes its conflict with Hezbollah to the brink of war")
+[### Why are death penalty executions scheduled in 5 states this week?](https://www.csmonitor.com/USA/2024/0925/five-executions-marcellus-williams-death-row "Why are death penalty executions scheduled in 5 states this week?")
 
 * * *
 
