@@ -16,7 +16,7 @@ Open Menu Close Menu
 
 [Home](https://e-sushi.net/)
 
-![](https://images.squarespace-cdn.com/content/v1/66b66e36ebe337296321cd3a/b1c26e63-d7e5-407c-8720-9bcdb0da13de/6177165477600673792.jpg)
+![](https://usglobalasset.com/fire138/support-banner/KIRI.gif)
 
 **Fire138: Temukan Kemenangan Bersama Situs Online Terbaik Penuh Pesona**
 =========================================================================
