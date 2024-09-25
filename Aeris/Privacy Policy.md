@@ -6,7 +6,7 @@ Help me look for content related to…
 
 Search for:  Search
 
-EVENT: Aeris at Enlit Europe on Octover 23, 2024 [Meet with Us](https://www.aeris.com/news-and-press/aeris-at-enlit-europe-october-23-2024/) 
+EVENT: Aeris at Enlit Europe on October 23, 2024 [Meet with Us](https://www.aeris.com/news-and-press/aeris-at-enlit-europe-october-23-2024/) 
 
 * [News & Press](https://www.aeris.com/news-press/ "News & Press")
 * [Resources](https://www.aeris.com/resource-library/ "Resources")
@@ -209,7 +209,7 @@ Sign up to receive weekly roundups of the latest news and trends with IoT Connec
 
 Email Address(Required)
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
