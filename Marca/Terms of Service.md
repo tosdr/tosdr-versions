@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvMjOwoAAvUAAABheCA)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvN4YwoAAvYAAABgHfg)
 
 * Es noticia:
 * [Madrid Alavés](https://www.marca.com/futbol/laliga-ea-sports/r-madrid-alaves/2024/09/24/01_0101_20240924_186_173-directo.html)
