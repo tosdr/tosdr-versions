@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Diddy’s kids break silence after his sex crimes arrest — to speak about ‘horrific conspiracy theories’ about their late mom](https://nypost.com/2024/09/25/entertainment/sean-diddy-combs-kids-blast-rumors-about-late-mom-kim-porter/)
+[Tropical storm Helene on track to become major hurricane as it approaches Florida](https://nypost.com/2024/09/25/us-news/tropical-storm-helene-on-track-to-become-major-hurricane-as-it-approaches-florida/)
 
 Terms Of Use
 ============
