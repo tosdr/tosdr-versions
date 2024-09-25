@@ -118,49 +118,49 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
-    
-    The Beginning and the End of the Universe
-    
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
+* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
     
-    Trial of Henry Kissinger
+    National Security Alert
     
-    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac...](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
+    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
+* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
+    
+    These Streets Are Watching
+    
+    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
 
 ###### Throwback Documentaries
 
-* [![Can We Make a Star on Earth?](/wp-content/thumbnails/286-100x70.png?x53432)
+* [![For the Love of the Leader](/wp-content/thumbnails/5599-100x70.jpg?x53432)
     
-    Can We Make a Star on Earth?
+    For the Love of the Leader
     
-    Professor Brian Cox takes a global journey in search of the energy source of the future. Called nuclear fusion, it is the process that fuels the sun and every other star in the universe. Yet despite o](https://documentaryheaven.com/can-we-make-a-star-on-earth/ "Can We Make a Star on Earth?")
-* [![JFK: The Lost Bullet](/wp-content/thumbnails/7019-100x70.jpg?x53432)
+    This is the story of an extraordinary love affair between one Nation’s women and its leader.The Nation is Libya, an Islamic socialist state.Its leader, Muammar Gaddafi, a man reviled in the we](https://documentaryheaven.com/for-the-love-of-the-leader/ "For the Love of the Leader")
+* [![PT 3/3 Nerds 2.0.1: A Brief History of the Internet](/wp-content/thumbnails/2565-100x70.jpg?x53432)
     
-    JFK: The Lost Bullet
+    PT 3/3 Nerds 2.0.1: A Brief History of the Internet
     
-    It’s been called the most important pieces of film evidence of all time. Locked away in the vaults of the National Archives, the original Zapruder film that captured the vital 11 seconds of President](https://documentaryheaven.com/jfk-the-lost-bullet/ "JFK: The Lost Bullet")
-* [![Why Poverty?](/wp-content/thumbnails/6971-100x70.jpg?x53432)
+    Wiring the WorldNerds 2.0.1: A Brief History of the Internet (1998) is a three-hour documentary film written and hosted by Mark Stephens under the pseudonym Robert X. Cringely and produced by Oreg](https://documentaryheaven.com/pt-33-nerds-2-0-1-a-brief-history-of-the-internet/ "PT 3/3 Nerds 2.0.1: A Brief History of the Internet")
+* [![Marvin Gaye: His Final Hours](/wp-content/thumbnails/6645-100x70.png?x53432)
     
-    Why Poverty?
+    Marvin Gaye: His Final Hours
     
-    From the Authors: Why Poverty? uses film to get people talking about poverty.We commissioned eight documentaries from award-winning film makers and 30 shorts from new and emerging talents. The fil](https://documentaryheaven.com/why-poverty/ "Why Poverty?")
-* [![Who Will Save the Euro?](/wp-content/thumbnails/6074-100x70.jpg?x53432)
+    Delve into the Prince of Motown’s violent childhood to uncover the root of Marvin’s strained relationship with his strict father and to understand his struggle with drugs.This compelling documentary](https://documentaryheaven.com/marvin-gaye-his-final-hours/ "Marvin Gaye: His Final Hours")
+* [![UFO: New Evidence](/wp-content/thumbnails/6867-100x70.jpg?x53432)
     
-    Who Will Save the Euro?
+    UFO: New Evidence
     
-    It is not just the banks that are in danger of going under. It is entire economies. They are the ones in need of emergency cash to stay afloat. For some time we have been saying that Europe's financia](https://documentaryheaven.com/who-will-save-the-euro/ "Who Will Save the Euro?")
-* [![The Core](/wp-content/thumbnails/6143-100x70.jpg?x53432)
+    Are aliens really out there? You've heard tales of little green men from other planets, but these are normally consigned to urban legends and sci-fi fables. However, a dossier of files released by the](https://documentaryheaven.com/ufo-new-evidence/ "UFO: New Evidence")
+* [![One Summer with Richie Hawtin](/wp-content/thumbnails/7694-100x70.jpg?x53432)
     
-    The Core
+    One Summer with Richie Hawtin
     
-    For centuries we have dreamt of reaching the center of the Earth. Now scientists are uncovering a bizarre and alien world that lies 4,000 miles beneath our feet, unlike anything we know on the surface](https://documentaryheaven.com/the-core/ "The Core")
+    In the summer of 2012, Richie Hawtin continued to tour the world traveling from country to country and performing on some of the world's grandest stages - all the while holding down his weekly ENTER.](https://documentaryheaven.com/one-summer-with-richie-hawtin/ "One Summer with Richie Hawtin")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
