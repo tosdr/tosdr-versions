@@ -285,13 +285,13 @@ Search
         
         [ACM Education Advisory Committee Applications Open](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
         
-        [![abhinav-kimothi-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/abhinav-kimothi-techtalk.jpg)](https://events.zoom.us/ev/AkxvGHR_M3ZpC1Lbv79m8toawoeiosNANZcDMIy58ShZW9rmI6Qj~AkAtPdd7BJhbEJ6gkJ6vBtBtpWYki8UqxxYFoBTsaiFgSrVf9pNrpyQeMw)
+        [![eddie-aftandilian-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/eddie-aftandilian-techtalk.jpg)](https://events.zoom.us/ev/An39kXAcIf8WCWhpFM6aB-vjCUv1K9HaPuWyDssVDSJhVQGqpIf7~AgrAHA53Z2Flp_5y0blYPQRUvN8G3R7fB-QUc1t8lSU1A9rUVRiK-lozGw)
         
-        [Abhinav Kimothi TechTalk](https://events.zoom.us/ev/AkxvGHR_M3ZpC1Lbv79m8toawoeiosNANZcDMIy58ShZW9rmI6Qj~AkAtPdd7BJhbEJ6gkJ6vBtBtpWYki8UqxxYFoBTsaiFgSrVf9pNrpyQeMw)
+        [Eddie Aftandilian TechTalk](https://events.zoom.us/ev/An39kXAcIf8WCWhpFM6aB-vjCUv1K9HaPuWyDssVDSJhVQGqpIf7~AgrAHA53Z2Flp_5y0blYPQRUvN8G3R7fB-QUc1t8lSU1A9rUVRiK-lozGw)
         
-        [![Image of Xavier Leroy](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xavier-leroy-bytecast.jpg)](https://learning.acm.org/bytecast/ep57-xavier-leroy)
+        [![Image of Wen-Mei Hwu](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/wen-mei-hwu-bytecast.jpg)](https://learning.acm.org/bytecast/ep58-wen-mei-hwu)
         
-        [ByteCast Ep57: Xavier Leroy](https://learning.acm.org/bytecast/ep57-xavier-leroy)
+        [ByteCast Ep58: Wen-Mei Hwu](https://learning.acm.org/bytecast/ep58-wen-mei-hwu)
         
     
 * [Learning Center](#)
@@ -310,17 +310,17 @@ Search
         
         The ACM Learning Center offers ACM members access to lifelong learning tools and resources. Our E-Learning collections offer complimentary access to more than 80,000 online books, courses, and videos from top content publishers. The ACM TechTalk series brings leading computing luminaries and visionaries to your screen. Members enjoy exclusive offers and discounts on IT industry certifications and vendor-specific training.
         
-    * [![Image of Xavier Leroy](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xavier-leroy-bytecast.jpg)](https://learning.acm.org/bytecast/ep57-xavier-leroy)
+    * [![Image of Wen-Mei Hwu](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/wen-mei-hwu-bytecast.jpg)](https://learning.acm.org/bytecast/ep58-wen-mei-hwu)
+        
+        [ByteCast Ep58: Wen-Mei Hwu](https://learning.acm.org/bytecast/ep58-wen-mei-hwu)
+        
+        [![Image of Xavier Leroy](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xavier-leroy-bytecast.jpg)](https://learning.acm.org/bytecast/ep57-xavier-leroy)
         
         [ByteCast Ep57: Xavier Leroy](https://learning.acm.org/bytecast/ep57-xavier-leroy)
         
         [![Image of Ramón Cáceres](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/ramon-caceres-bytecast.jpg)](https://learning.acm.org/bytecast/ep56-ramon-caceres)
         
         [ByteCast Ep56: Ramón Cáceres](https://learning.acm.org/bytecast/ep56-ramon-caceres)
-        
-        [![Image of Juan Gilbert](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/juan-e-gilbert-bytecast.jpg)](https://learning.acm.org/bytecast/ep55-juan-gilbert)
-        
-        [ByteCast Ep55: Juan Gilbert](https://learning.acm.org/bytecast/ep55-juan-gilbert)
         
     
 * [Public Policy](#)
