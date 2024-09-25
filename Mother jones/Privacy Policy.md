@@ -8,10 +8,10 @@
 
 *  
     
-* [Florida Maternity Homes](https://www.motherjones.com/politics/2024/09/floridas-dehumanizing-maternity-homes-made-single-mothers-feel-like-criminals/)
-* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-trump-haitian-immigrants-springfield-ohio-unhumans/)
-* [Electoral College](https://www.motherjones.com/politics/2024/09/nebraska-gop-state-senator-mike-mcdonnell-rejects-trump-push-to-rig-electoral-college/)
-* Trump
+* [The Inflation Reduction Act](https://www.motherjones.com/politics/2024/09/inflation-reduction-act-winners-swing-states-harris-biden-communications/)
+* [Christian Nationalism](https://www.motherjones.com/politics/2024/09/rob-schenck-confessions-of-a-former-christian-nationalist/)
+* [Abortion Bans](https://www.motherjones.com/politics/2024/09/pregnancy-deaths-georgia-abortion-ban-senate/)
+* [Mark Zuckerberg](https://www.motherjones.com/politics/2024/09/mark-zuckerberg-isnt-done-with-politics-his-politics-have-just-changed/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Florida Maternity Homes](https://www.motherjones.com/politics/2024/09/floridas-dehumanizing-maternity-homes-made-single-mothers-feel-like-criminals/)
-* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-trump-haitian-immigrants-springfield-ohio-unhumans/)
-* [Electoral College](https://www.motherjones.com/politics/2024/09/nebraska-gop-state-senator-mike-mcdonnell-rejects-trump-push-to-rig-electoral-college/)
-* Trump
+* [The Inflation Reduction Act](https://www.motherjones.com/politics/2024/09/inflation-reduction-act-winners-swing-states-harris-biden-communications/)
+* [Christian Nationalism](https://www.motherjones.com/politics/2024/09/rob-schenck-confessions-of-a-former-christian-nationalist/)
+* [Abortion Bans](https://www.motherjones.com/politics/2024/09/pregnancy-deaths-georgia-abortion-ban-senate/)
+* [Mark Zuckerberg](https://www.motherjones.com/politics/2024/09/mark-zuckerberg-isnt-done-with-politics-his-politics-have-just-changed/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
