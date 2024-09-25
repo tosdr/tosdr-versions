@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-24 Sept 2024
+25 Sept 2024
 
 * [Home
     
@@ -266,13 +266,6 @@ Most Popular
 [Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry appear to have identified their replacement for Mickey Harte](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry appear to have identified their replacement for Mickey Harte")](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry appear to have identified their replacement for Mickey Harte](https://www.derrynow.com/news/gaa/1612079/derry-appear-to-have-identified-their-replacement-for-mickey-harte.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding")](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
 
 Photo: Manolo Franco/Pixabay
@@ -290,15 +283,6 @@ McDonald's
 
 [County Derry McDonald's restaurant ranked third best in the UK](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised")](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
-
-A dugout was set on fire at Páirc na nÓg this evening. Photo: St Canice's GAC
-
-[Home](https://www.derrynow.com/)
-
-[County Derry GAA club 'saddened' after dugout set on fire and fencing vandalised](https://www.derrynow.com/news/home/1612419/county-derry-gaa-club-saddened-after-dugout-set-on-fire-and-fencing-vandalised.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
 
@@ -328,6 +312,15 @@ A dugout was set on fire at Páirc na nÓg this evening. Photo: St Canice's GAC
 [IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Station Road, Ballykelly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Station Road, Ballykelly")](https://www.derrynow.com/news/home/1612158/dog-put-to-sleep-after-being-attacked-in-ballykelly.html)
+
+Station Road, Ballykelly
+
+[Home](https://www.derrynow.com/)
+
+[Dog 'put to sleep' after being attacked in Ballykelly](https://www.derrynow.com/news/home/1612158/dog-put-to-sleep-after-being-attacked-in-ballykelly.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man charged with number of driving-related offences to appear before Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with number of driving-related offences to appear before Derry court")](https://www.derrynow.com/news/local-news/1612618/man-charged-with-number-of-driving-related-offences-to-appear-before-derry-court.html)
 
 PSNI
@@ -336,6 +329,15 @@ PSNI
 
 [Man charged with number of driving-related offences to appear before Derry court](https://www.derrynow.com/news/local-news/1612618/man-charged-with-number-of-driving-related-offences-to-appear-before-derry-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man accused of 'completely reckless and wholly dangerous' driving remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man accused of 'completely reckless and wholly dangerous' driving remanded")](https://www.derrynow.com/news/local-news/1612824/man-accused-of-completely-reckless-and-wholly-dangerous-driving-remanded.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man accused of 'completely reckless and wholly dangerous' driving remanded](https://www.derrynow.com/news/local-news/1612824/man-accused-of-completely-reckless-and-wholly-dangerous-driving-remanded.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Generous donation made to North West Cancer Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Generous donation made to North West Cancer Centre")](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Generous donation made to North West Cancer Centre](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime")](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
 
 Orlaith Quinn, Council’s PCSP Officer, pictured alongside members of the PSNI Neighbourhood Policing Team, at a recent training workshop aimed at tackling rural crime. Photo: CCG Council
@@ -524,7 +533,7 @@ Orlaith Quinn, Council’s PCSP Officer, pictured alongside members of the PSNI 
 [Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['We knew what we had to do' - Bellaghy captain Karl McCallion](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'We knew what we had to do' - Bellaghy captain Karl McCallion")](https://www.derrynow.com/news/derry-sport/1612900/we-knew-what-we-had-to-do-bellaghy-captain-karl-mccallion.html)
+[!['We knew what we had to do' - Bellaghy captain Karl McCallion](https://www.derrynow.com/resizer/165/93/true/2024_09_24/CDP_24-9-24_Back_Page_1-1727177719588.jpg--.jpg?1727177720218 "'We knew what we had to do' - Bellaghy captain Karl McCallion")](https://www.derrynow.com/news/derry-sport/1612900/we-knew-what-we-had-to-do-bellaghy-captain-karl-mccallion.html)
 
 Bellaghy's Kealan Friel celebrating his goal against Swatragh at Davitt Park. (Photo: Mark Doherty)
 
@@ -555,15 +564,6 @@ The successful members of Zanshin Shotokan NI Karate Club who won medals at the 
 
 [Troubles commission chief urges end to ‘unwarranted attacks’ on its independence](https://www.derrynow.com/news/local-news/1612831/troubles-commission-chief-urges-end-to-unwarranted-attacks-on-its-independence.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New contractors appointed for Portstewart Family Practice](https://www.derrynow.com/resizer/165/93/true/2024_09_24/GP_sign_GettyImages-MikeKemp-2019091212514012-1727180786817.jpg--.jpg?1727180786867 "New contractors appointed for Portstewart Family Practice")](https://www.derrynow.com/news/home/1612922/new-contractors-appointed-for-portstewart-family-practice.html)
-
-Portstewart Family Practice has been taken over by new contractors.
-
-[Home](https://www.derrynow.com/)
-
-[New contractors appointed for Portstewart Family Practice](https://www.derrynow.com/news/home/1612922/new-contractors-appointed-for-portstewart-family-practice.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
