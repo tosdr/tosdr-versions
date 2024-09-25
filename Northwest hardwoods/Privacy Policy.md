@@ -61,7 +61,6 @@ Menu
         * [Hardwood Janka Ratings](https://nwh.com/hardwood-janka-ratings/)
     * [Panels](https://nwh.com/products-services/panels/)
         * [Plywood to Match](https://nwh.com/products-services/panels/plywood-to-match/)
-        * [Baltic Birch](https://nwh.com/products-services/panels/baltic-birch/)
         * [Meranti Plywood](https://nwh.com/products-services/panels/meranti/)
         * [Specialty Panels](https://nwh.com/products-services/panels/specialty/)
     * [Pallet Stock](https://nwh.com/products-services/pallet-stock/)
