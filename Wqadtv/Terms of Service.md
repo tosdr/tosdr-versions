@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_360x203.jpg)](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
         
-        #### [Kewanee to get two new police officers through community policing grant](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12) [![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9021a290-873a-4809-87c6-297a57b40679/20240925T031823/9021a290-873a-4809-87c6-297a57b40679_360x203.jpg)](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
-        
         #### [Kewanee is getting two new police officers thanks to a DOJ grant](https://www.wqad.com/article/news/local/kewanee-to-get-two-new-police-officers-through-community-policing-grant/526-2546fba9-682f-44a5-9154-5089c6aedb12)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b8e15c73-6d70-4370-8a60-0625e4621b3b/20240808T211555/b8e15c73-6d70-4370-8a60-0625e4621b3b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b8e15c73-6d70-4370-8a60-0625e4621b3b/20240808T211555/b8e15c73-6d70-4370-8a60-0625e4621b3b_360x203.jpg)](https://www.wqad.com/article/news/local/courtney-lindsey-rock-island-paris-olympics/526-f47fb66e-564e-4e76-a745-4a8d0e1eb428)
         
         #### [City of Rock Island proclaims Sept. 24, 2024 as 'Courtney Lindsey Day'](https://www.wqad.com/article/news/local/courtney-lindsey-rock-island-paris-olympics/526-f47fb66e-564e-4e76-a745-4a8d0e1eb428)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-59°
+52°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
