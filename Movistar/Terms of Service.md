@@ -147,8 +147,8 @@ Más productos Movistar
 * [Alarmas para casa](https://www.movistar.es/alarmas-para-casa/ "Alarmas para casa")
 * [Movistar Prosegur Alarmas](https://www.movistar.es/particulares/movistar-prosegur-alarmas/ "Movistar Prosegur Alarmas")
 * [Placas solares para casa](https://www.movistar.es/mas-servicios/energia/ "Placas solares para casa")
-* [Kit solares autoinstalables](https://www.movistar.es/mas-servicios/energia/paneles-solares-autoinstalables-400-w/ "Kit solares autoinstalables")
 * [Ver Formula 1](https://www.movistar.es/tv/motor/ "Ver Formula 1")
+* [Fibra FTTR Movistar](https://www.movistar.es/fibra-optica/fibra-fttr "Fibra FTTR Movistar")
 
 Síguenos
 
