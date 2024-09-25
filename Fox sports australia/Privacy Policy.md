@@ -28,16 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240103)
 * Cricket
     
-* [Women's T20I
-    
-    AUS won by 5 wkts
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 5 /148 |
-    | NZL | 6 /146 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250103)
 * [Men's ODI
     
     ENG won by 46 runs (DLS)
@@ -50,10 +40,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240703)
 * [One-Day Cup
     
+    No Result
+    
     |     |     |
     | --- | --- |
     | TAS |     |
-    | QLD |     |
+    | QLD | 5 /128 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250104)
 * AFL
@@ -898,7 +890,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
