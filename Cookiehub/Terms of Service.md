@@ -14,6 +14,7 @@
             * [Consent log](https://www.cookiehub.com/consent-log)
             * [Google Certified CMP](https://www.cookiehub.com/google-certified-cmp)
             * [Consent Mode](https://www.cookiehub.com/consent-mode)
+            * [Geo-targeting](https://www.cookiehub.com/geo-targeting)
             * [TCF 2.2 compliance](https://www.cookiehub.com/iab-tcf-compliance)
             * [Languages](https://www.cookiehub.com/languages)
         * [Regulations](https://www.cookiehub.com/regulations)
