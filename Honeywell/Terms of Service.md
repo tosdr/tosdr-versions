@@ -79,10 +79,10 @@
     
     BUSINESSES
     
-    * [Aerospace Technologies](https://aerospace.honeywell.com/?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-    * [Industrial Automation](https://automation.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-    * [Building Automation](https://buildings.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-    * [Energy And Sustainability Solutions](https://ess.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
+    * [Aerospace Technologies](https://aerospace.honeywell.com/)
+    * [Industrial Automation](https://automation.honeywell.com/us/en)
+    * [Building Automation](https://buildings.honeywell.com/us/en)
+    * [Energy And Sustainability Solutions](https://ess.honeywell.com/us/en)
     * [Honeywell Forge](https://www.honeywellforge.ai/)
     
 * |
@@ -213,10 +213,10 @@
     
     BUSINESSES
     
-    * [Aerospace Technologies](https://aerospace.honeywell.com/?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-    * [Industrial Automation](https://automation.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-    * [Building Automation](https://buildings.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-    * [Energy And Sustainability Solutions](https://ess.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
+    * [Aerospace Technologies](https://aerospace.honeywell.com/)
+    * [Industrial Automation](https://automation.honeywell.com/us/en)
+    * [Building Automation](https://buildings.honeywell.com/us/en)
+    * [Energy And Sustainability Solutions](https://ess.honeywell.com/us/en)
     * [Honeywell Forge](https://www.honeywellforge.ai/)
     
 * |
@@ -260,10 +260,10 @@ Businesses
 
 [toggle view](#?)
 
-* [Aerospace Technologies](https://aerospace.honeywell.com/?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-* [Industrial Automation](https://automation.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-* [Building Automation](https://buildings.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
-* [Energy and Sustainability Solutions](https://ess.honeywell.com/us/en?utm_source=honcom&utm_medium=hon-web&utm_campaign=24-corp-ww-cross-sbg-traffic)
+* [Aerospace Technologies](https://aerospace.honeywell.com/)
+* [Industrial Automation](https://automation.honeywell.com/us/en)
+* [Building Automation](https://buildings.honeywell.com/us/en)
+* [Energy and Sustainability Solutions](https://ess.honeywell.com/us/en)
 * [Honeywell Forge](https://www.honeywellforge.ai/)
 
 What We Do
