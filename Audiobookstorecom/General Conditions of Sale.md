@@ -1,4 +1,4 @@
-    
+  
 
 [close](javascript:void(0))
 
@@ -37,11 +37,11 @@
     * [Stephen King](https://audiobookstore.com/authors/stephen-king-audiobooks/)
     * [Harlan Coben](https://audiobookstore.com/authors/harlan-coben-audiobooks/)
     * [Jack Carr](https://audiobookstore.com/authors/jack-carr-audiobooks/)
-    * [J. R. R. Tolkien](https://audiobookstore.com/authors/j-r-r-tolkien-audiobooks/)
     * [Lee Child](https://audiobookstore.com/authors/lee-child-audiobooks/)
     * [Jonathan Haidt](https://audiobookstore.com/authors/jonathan-haidt-audiobooks/)
-    * [Michael Crichton](https://audiobookstore.com/authors/michael-crichton-audiobooks/)
+    * [Gabor Maté](https://audiobookstore.com/authors/gabor-mate-audiobooks/)
     * [James Clear](https://audiobookstore.com/authors/james-clear-audiobooks/)
+    * [J. R. R. Tolkien](https://audiobookstore.com/authors/j-r-r-tolkien-audiobooks/)
 * [Specialty Categories](#)
     * [Most Popular Audiobooks of 2022](https://audiobookstore.com/audiobook-lists/popular-audiobooks-2022.aspx)
     * [Most Popular Audiobooks of 2021](https://audiobookstore.com/audiobook-lists/popular-audiobooks-2021.aspx)
@@ -53,7 +53,6 @@
     * [Oprah's Book Club](https://audiobookstore.com/audiobook-lists/oprah-winfrey-book-club.aspx)
     * [Reese Witherspoon Book Club](https://audiobookstore.com/audiobook-lists/reese-witherspoon-book-club.aspx)
     * [The 50 Best Classic Novels](https://audiobookstore.com/audiobook-lists/-the-50-best-classic-novels.aspx)
-     
 * [Curated Audiobook Lists](#)
     * [Alternative Realities](https://audiobookstore.com/curated-audiobook-lists/alternative-realities.aspx)
     * [Apocalyptic Horror](https://audiobookstore.com/curated-audiobook-lists/apocalyptic-horror.aspx)
@@ -89,7 +88,7 @@
   
   
 
-    
+   
 
 [![AudiobookStore.com Home](/images/logo.png)](https://audiobookstore.com/)
 
