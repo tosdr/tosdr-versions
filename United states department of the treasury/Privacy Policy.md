@@ -555,34 +555,34 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    September 25, 2024
+    
+    [G7 Cyber Expert Group Recommends Action to Combat Financial Sector Risks from Quantum Computing](https://home.treasury.gov/news/press-releases/jy2609)
+    
+    September 25, 2024
+    
+    [U.S. Department of the Treasury Releases New Data Showing 3.3 Million Small Business Owners and Self-Employed Workers Covered by Affordable Care Act Marketplaces in 2022](https://home.treasury.gov/news/press-releases/jy2608)
+    
     September 24, 2024
     
     [U.S. Department of the Treasury, IRS, and Department of Energy Announce Next Steps for 2024 Program Year of Inflation Reduction Act Program for Solar and Wind Energy in Low-Income Communities](https://home.treasury.gov/news/press-releases/jy2606)
-    
-    September 24, 2024
-    
-    [In Dual Actions, Treasury Sanctions Clan Del Golfo Leadership in Colombia and Businesses Owned by Sinaloa Cartel Fentanyl Traffickers in Mexico](https://home.treasury.gov/news/press-releases/jy2605)
-    
-    September 24, 2024
-    
-    [Media Advisory: Acting Director for the Office of Foreign Assets Control Lisa Palluconi to Travel to Colombia and Mexico](https://home.treasury.gov/news/press-releases/jy2604)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    September 25, 2024
+    
+    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo on Voluntary Carbon Markets](https://home.treasury.gov/news/press-releases/jy2611)
+    
+    September 25, 2024
+    
+    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at the 2024 Partnership for Global Infrastructure and Investment Investor Forum](https://home.treasury.gov/news/press-releases/jy2610)
+    
     September 23, 2024
     
     [Statement by Secretary of the Treasury Janet L. Yellen on 30th Anniversary of Community Development Financial Institution Fund](https://home.treasury.gov/news/press-releases/jy2599)
-    
-    September 20, 2024
-    
-    [Statement by Secretary of the Treasury Janet L. Yellen on Commodity Futures Trading Commission’s (CFTC) Final Guidance on Voluntary Carbon Markets](https://home.treasury.gov/news/press-releases/jy2596)
-    
-    September 19, 2024
-    
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the Community Development Advisory Board Meeting Celebrating the CDFI Fund’s 30th Anniversary](https://home.treasury.gov/news/press-releases/jy2592)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
