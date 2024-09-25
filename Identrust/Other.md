@@ -122,7 +122,7 @@ We will provide the information we have within 30 days of receiving your request
 
 ![BBB logo](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/accred_bus_7469%20Transparent-he75xl_0.png.webp?itok=FYd2stw0)
 
-[![IdenTrust Secured](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/identrust_ssl_seal_final-blue-q9dn0x_0.png.webp?itok=8n_shxJT)](https://secure.identrust.com/sslseal/getseal.jsp?domain=identrustssl.com)
+[![IdenTrust Secured](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/identrust_ssl_seal_final-blue-q9dn0x_0.png.webp?itok=8n_shxJT)](https://secure.identrust.com/sslseal/getseal.jsp?domain=identrust.com)
 
 [![DoD seal](/sites/default/files/styles/accreditation_footer_slider_images/public/gallery/United_States_Department_of_Defense_Seal_svg-dv4khb_0.png.webp?itok=71nWfQ5Z)](https://www.identrust.com/certificates/dod-eca-programs)
 
