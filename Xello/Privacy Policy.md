@@ -40,7 +40,7 @@ What career development services do you provide and to whom?\*
 
 What can we help you with today?\*
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
