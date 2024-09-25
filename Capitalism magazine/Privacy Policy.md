@@ -84,10 +84,10 @@ By using our site, you consent to the collection and use of your information by 
 
 #### [![RSS](https://www.capitalismmagazine.com/wp-includes/images/rss.png)](https://review.capitalismmagazine.com/feed/) [CAPITALISM REVIEW](https://review.capitalismmagazine.com/)
 
+* [Catching up With Leonard Peikoff](https://review.capitalismmagazine.com/2024/09/catching-up-with-leonard-peikoff/)
 * [New York’s Skyline and The Sublime](https://review.capitalismmagazine.com/2024/09/new-yorks-skyline-and-the-sublime/)
 * [American Right and Left on Israel: Two Sides of The Same Coin?](https://review.capitalismmagazine.com/2024/09/american-right-and-left-on-israel-two-sides-of-the-same-coin/)
 * [If by Rudyard Kipling – Read by Sir Michael Caine](https://review.capitalismmagazine.com/2024/09/if-by-rudyard-kipling-read-by-sir-michael-caine/)
-* [Mark Zuckerberg Finally Admits His Complicity With Government Censors](https://review.capitalismmagazine.com/2024/08/mark-zuckerberg-finally-admits-his-complicity-with-government-censors/)
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
 
