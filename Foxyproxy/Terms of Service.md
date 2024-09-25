@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much, very helpful :)
+I thank you for your professional service for the time that I needed it.
 
-Natalie Vanns
+Timothy Gorman
