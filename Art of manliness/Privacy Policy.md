@@ -218,6 +218,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [10 Ways to Be a Better Husband Today](https://www.artofmanliness.com/people/relationships/10-ways-to-be-a-better-husband-today/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
+
+[Podcast #1,025: What’s Going on With Your Social Anxiety?](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
+
 [![A group of people dressed in casual clothing relax and converse on an outdoor deck with wicker furniture, magazines, and a small cart. The background shows a body of water, creating a personal atmosphere perfect for unwinding.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/masterful-personality/)
 
 [The Power of Personal Atmosphere](https://www.artofmanliness.com/people/social-skills/masterful-personality/)
@@ -229,10 +233,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A hand stops falling wooden dominoes on a table, halting a chain reaction, much like how a differentiated self can manage group anxiety.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-1010-how-to-resist-group-anxiety-and-become-a-differentiated-self/)
 
 [Podcast #1,010: How to Resist Group Anxiety and Become a Differentiated Self](https://www.artofmanliness.com/people/social-skills/podcast-1010-how-to-resist-group-anxiety-and-become-a-differentiated-self/)
-
-[![Two individuals sit at a desk in an office, fist-bumping. A laptop displaying a pie chart and bar graph is open in the background, alongside plants and large windows overlooking city buildings.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-995-why-youre-so-bad-at-giving-and-receiving-compliments-and-how-to-fix-that/)
-
-[Podcast #995: Why You’re So Bad at Giving and Receiving Compliments (And How to Fix That)](https://www.artofmanliness.com/people/social-skills/podcast-995-why-youre-so-bad-at-giving-and-receiving-compliments-and-how-to-fix-that/)
 
 [Browse all Get Social](https://www.artofmanliness.com/people/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
+
+[Podcast #1,025
+
+###### What’s Going on With Your Social Anxiety?](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/reading/podcast-1025-the-life-and-legacy-of-louis-lamour/)
 
 [Podcast #1,025
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,023
 
 ###### Is Self-Control Overrated?](https://www.artofmanliness.com/character/behavior/podcast-1023-is-self-control-overrated/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
-
-[Podcast #1,021
-
-###### You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
