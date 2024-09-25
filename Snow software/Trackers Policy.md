@@ -307,7 +307,7 @@ Flexera One IT Visibility
 
 Get complete insights into your technology to drive better, data-driven decision making.
 
-[Find out more](https://www.flexera.com/products/flexera-one/it-visibility) [Discover Flexera One](https://www.flexera.com/products/flexera-one)
+[Find out more](https://www.flexera.com/products/flexera-one/it-visibility) [Explore the Technology Intelligence Platform](https://www.flexera.com/products/flexera-one/technology-intelligence-platform)
 
 Image
 
@@ -536,14 +536,6 @@ Who are the top cloud cost management and optimization providers? Download The 2
 
 [#### 
 
-Content hub
-
-### More value with technology intelligence
-
-The unparalleled synergy of Flexera and Snow provides the Technology Intelligence you need for more efficiency, insight and governance than ever before.](https://www.flexera.com/more-value-with-technology-intelligence)
-
-[#### 
-
 Industry Report
 
 ### The 2024 Gartner® Magic Quadrant™ for SaaS Management Platforms
@@ -568,11 +560,11 @@ The future is hybrid. Break down the walls between ITAM and FinOps to drive more
 
 [#### 
 
-Report
+New release
 
-### Flexera 2024 State of ITAM Report
+### Technology Intelligence Platform
 
-How are ITAM professionals optimizing IT assets? Check out the 2024 State of ITAM Report to discover the latest trends.](https://info.flexera.com/ITAM-REPORT-State-of-IT-Asset-Management?lead_source=Website%20Visitor&id=Flexera.com-Resources)
+Meet the next-generation data and analytics platform. Cloud-native and scalable, you can now bridge the gap between ITAM and FinOps. Welcome to the Technology Intelligence Platform.](https://www.flexera.com/products/flexera-one/technology-intelligence-platform)
 
 [View all resources](https://www.flexera.com/resources)
 
