@@ -234,7 +234,9 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Farking, less working
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +336,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Orc commanders in Ukraine: Screw you guys, I'm going ho\*BANG\*](https://www.fark.com/goto/13405206) ( [kyivpost.com](https://www.fark.com/goto/13405206) ) » [(3 comments)](https://www.fark.com/comments/13405206/Orc-commanders-in-Ukraine-Screw-you-guys-Im-going-hoBANG) |
-| [Discussion](https://www.fark.com/discussion/) | ["Don't ever hand your phone to the cops"](https://www.fark.com/goto/13405106) ( [theverge.com](https://www.fark.com/goto/13405106) ) » [(17 comments)](https://www.fark.com/comments/13405106/Dont-ever-hand-your-phone-to-cops) |
-| [Sports](https://www.fark.com/sports/) | [New A's hat is Ass hat. Asinine tag busy mooning Oakland](https://www.fark.com/goto/13405324) ( [ftw.usatoday.com](https://www.fark.com/goto/13405324) ) » [(4 comments)](https://www.fark.com/comments/13405324/New-As-hat-is-Ass-hat-Asinine-tag-busy-mooning-Oakland) |
-| [Business](https://www.fark.com/business/) | ["'ASS is not even legally allowed to operate on public roads,' he continued, oblivious or uncaring about how hilarious that sentence sounds"](https://www.fark.com/goto/13405128) ( [futurism.com](https://www.fark.com/goto/13405128) ) » [(9 comments)](https://www.fark.com/comments/13405128/ASS-is-not-even-legally-allowed-to-operate-on-public-roads-he-continued-oblivious-uncaring-about-how-hilarious-that-sentence-sounds) |
-| [STEM](https://www.fark.com/stem/) | [The robots told me to be a jerk and also an extra side of fries, please](https://www.fark.com/goto/13405114) ( [latintimes.com](https://www.fark.com/goto/13405114) ) » [(5 comments)](https://www.fark.com/comments/13405114/The-robots-told-me-to-be-a-jerk-also-an-extra-side-of-fries-please) |
-| [Entertainment](https://www.fark.com/entertainment/) | [I saw four... uh, fingers. Well, yes, and a thumb](https://www.fark.com/goto/13405256) ( [comicbookmovie.com](https://www.fark.com/goto/13405256) ) » [(1 comment)](https://www.fark.com/comments/13405256/I-saw-four-uh-fingers-Well-yes-a-thumb) |
-| [Fandom](https://www.fark.com/fandom/) | [25 years ago, the world was introduced to the joy that is Edgar Wright, Simon Pegg, and Nick Frost working together](https://www.fark.com/goto/13405240) ( [en.m.wikipedia.org](https://www.fark.com/goto/13405240) ) » [(17 comments)](https://www.fark.com/comments/13405240/-25-years-ago-world-was-introduced-to-joy-that-is-Edgar-Wright-Simon-Pegg-Nick-Frost-working-together) |
-| [D'awww](https://www.fark.com/dawww/) | [Exploding Kittens, or something like that](https://www.fark.com/goto/13405314) ( [wcvb.com](https://www.fark.com/goto/13405314) ) » [(0 comments)](https://www.fark.com/comments/13405314/Exploding-Kittens-something-like-that) |
-| [Food](https://www.fark.com/food/) | [A single-person rice cooker mug from just 3 coins](https://www.fark.com/goto/13405082) ( [japantoday.com](https://www.fark.com/goto/13405082) ) » [(6 comments)](https://www.fark.com/comments/13405082/A-single-person-rice-cooker-mug-from-just-3-coins) |
-| [Politics](https://www.fark.com/politics/) | [Agin' Cajun James Carville makes a bold election prediction: "It'll break one way or the other." Wow. Mind blown](https://www.fark.com/goto/13404352) ( [huffpost.com](https://www.fark.com/goto/13404352) ) » [(7 comments)](https://www.fark.com/comments/13404352/Agin-Cajun-James-Carville-makes-a-bold-election-prediction-Itll-break-one-way-the-other-Wow-Mind-blown) |
+| [Main](https://www.fark.com/) | [Are you middle class?](https://www.fark.com/goto/13405868) ( [pewresearch.org](https://www.fark.com/goto/13405868) ) » [(21 comments)](https://www.fark.com/comments/13405868/Are-you-middle-class) |
+| [Discussion](https://www.fark.com/discussion/) | [London gets a Tamagotchi store-because clearly, we all missed the stress of keeping a digital blob alive](https://www.fark.com/goto/13405774) ( [metro.co.uk](https://www.fark.com/goto/13405774) ) » [(3 comments)](https://www.fark.com/comments/13405774/London-gets-a-Tamagotchi-store-because-clearly-we-all-missed-stress-of-keeping-a-digital-blob-alive) |
+| [Sports](https://www.fark.com/sports/) | ["PSA: Please don't send me links to it. I've seen it. I can read. I don't wish bad things on anyone, but I know Karma never forgets an address"](https://www.fark.com/goto/13405682) ( [nypost.com](https://www.fark.com/goto/13405682) ) » [(3 comments)](https://www.fark.com/comments/13405682/PSA-Please-dont-send-me-links-to-it-Ive-seen-it-I-can-read-I-dont-wish-bad-things-on-anyone-but-I-know-Karma-never-forgets-an-address) |
+| [Business](https://www.fark.com/business/) | [Jersey Shore residents: We want better cell coverage. Also Jersey Shore residents: No, not like that](https://www.fark.com/goto/13405736) ( [foxbusiness.com](https://www.fark.com/goto/13405736) ) » [(2 comments)](https://www.fark.com/comments/13405736/Jersey-Shore-residents-We-want-better-cell-coverage-Also-Jersey-Shore-residents-No-not-like-that) |
+| [STEM](https://www.fark.com/stem/) | [Since we're not going to release the carbon teat, we need to figure out how to sweep it under the rug. You know, like nucyular waste since that's turned out so well. TL;DR: yeah, we're boned](https://www.fark.com/goto/13405718) ( [techxplore.com](https://www.fark.com/goto/13405718) ) » [(2 comments)](https://www.fark.com/comments/13405718/Since-were-not-going-to-release-carbon-teat-we-need-to-figure-out-how-to-sweep-it-under-rug-You-know-like-nucyular-waste-since-thats-turned-out-so-well-TLDR-yeah-were-boned) |
+| [Entertainment](https://www.fark.com/entertainment/) | [This month's cover of "Ladygunn" magazine explains why subby's finding 'JoJo Siwa's Strawberry Bop Cereal' goin' for 50 cents a box at Ollie's Bargain Outlet](https://www.fark.com/goto/13405650) ( [sportskeeda.com](https://www.fark.com/goto/13405650) ) » [(12 comments)](https://www.fark.com/comments/13405650/This-months-cover-of-Ladygunn-magazine-explains-why-subbys-finding-JoJo-Siwas-Strawberry-Bop-Cereal-goin-for-50-cents-a-box-at-Ollies-Bargain-Outlet) |
+| [Fandom](https://www.fark.com/fandom/) | [Two characters in Star Trek had the same last name? Wait until the author watches Law and Order](https://www.fark.com/goto/13405860) ( [screenrant.com](https://www.fark.com/goto/13405860) ) » [(0 comments)](https://www.fark.com/comments/13405860/Two-characters-in-Star-Trek-had-same-last-name-Wait-until-author-watches-Law-Order) |
+| [D'awww](https://www.fark.com/dawww/) | [Some guy named Drew arrived hours early at a Clear the Shelters event held at Austin Pets Alive! determined to adopt a dog named Julius that he had bonded with. This week's Woofday Wetnose Wednesday welcomes Julius (now Bumi) and his new family (w/photos)](https://www.fark.com/goto/13404194) ( [people.com](https://www.fark.com/goto/13404194) ) » [(49 comments)](https://www.fark.com/comments/13404194/Some-guy-named-Drew-arrived-hours-early-at-a-Clear-Shelters-event-held-at-Austin-Pets-Alive!-determined-to-adopt-a-dog-named-Julius-that-he-had-bonded-with-This-weeks-Woofday-Wetnose-Wednesday-welcomes-Julius-now-Bumi-his-new-family-wphotos) |
+| [Food](https://www.fark.com/food/) | [Oregon can now officially count to potato](https://www.fark.com/goto/13405750) ( [koin.com](https://www.fark.com/goto/13405750) ) » [(4 comments)](https://www.fark.com/comments/13405750/Oregon-can-now-officially-count-to-potato) |
+| [Politics](https://www.fark.com/politics/) | [Trump camp hopes "hated" Cheryl dumps RFK. Pretty pretty petty](https://www.fark.com/goto/13405666) ( [pagesix.com](https://www.fark.com/goto/13405666) ) » [(11 comments)](https://www.fark.com/comments/13405666/Trump-camp-hopes-hated-Cheryl-dumps-RFK-Pretty-pretty-petty) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +355,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 25 2024 02:43:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 25 2024 09:42:23  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
