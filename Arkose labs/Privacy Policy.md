@@ -13,7 +13,7 @@
         * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/)
         * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse)
     * In-Platform Abuse
-        * [API Security](https://www.arkoselabs.com/solutions/api-abuse/)
+        * [API Protection](https://www.arkoselabs.com/solutions/api-protection)
         * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)
         * [Fake Listings / Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/)
     * Phishing
@@ -134,7 +134,7 @@
         * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/)
         * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse)
     * In-Platform Abuse
-        * [API Security](https://www.arkoselabs.com/solutions/api-abuse/)
+        * [API Protection](https://www.arkoselabs.com/solutions/api-protection)
         * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)
         * [Fake Listings / Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/)
     * Phishing
@@ -619,7 +619,7 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
     * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/ "GPT Prompt Compromise")
     * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
     
-    In-Platform Abuse* [API Security](https://www.arkoselabs.com/solutions/api-security/ "API Security")
+    In-Platform Abuse* [API Protection](https://www.arkoselabs.com/solutions/api-protection/ "API Protection")
     * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/ "Inventory Hoarding")
     * [Fake Listings/Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/ "Fake Listings/Reviews")
     
