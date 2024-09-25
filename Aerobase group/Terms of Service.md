@@ -148,29 +148,6 @@ For further information regarding the applicable laws, regulations, and policies
 
 [![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
-#### Defense News
-
-* [Saab to open munitions production facility in Michigan](https://www.defensenews.com/land/2024/09/24/saab-to-open-munitions-production-facility-in-northern-michigan/)  
-    09/24/24 10:46am  
-    
-    Delegates socialize in front of a large display on the SAAB stand during the 2019 iteration of the DSEI arms fair in London. Saab is expanding globally and has announced plans for a munitions facility in Grayling, Michigan. (Leon Neal/Getty Images)
-    
-* [Boeing ousts defense chief Ted Colbert as firm seeks to right itself](https://www.defensenews.com/breaking-news/2024/09/21/boeing-ousts-defense-chief-ted-colbert-as-firm-seeks-to-right-itself/)  
-    09/20/24 09:29pm  
-    
-    Boeng on Friday announced Ted Colbert, the head of Boeing Defense, Space and Security, was exiting the company effective immediately. (Karim Sahib/AFP via Getty Images)
-    
-* [Recruits need real rifles at boot camp, top enlisted airman says](https://www.defensenews.com/air/2024/09/20/rifles-at-air-force-boot-camp-top-leader-calls-it-desired-end-state/)  
-    09/20/24 08:00am  
-    
-    The top enlisted airman said Air Force recruits should one day carry actual rifles during basic military training. (Ava Leone/U.S. Air Force)
-    
-* [US Air Force names second and third B-21 Raider bases](https://www.defensenews.com/air/2024/09/19/us-air-force-names-second-and-third-b-21-raider-bases/)  
-    09/19/24 04:00pm  
-    
-    The U.S. Air Force recently announced two additional basing locations for its new B-21 Raider stealth bomber. (U.S. Air Force)
-    
-
 Recent parts by keyword  
 
 The AeroBase Group Family ..
