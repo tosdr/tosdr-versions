@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/CandicePowellQA-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/HERO-Chatbox-250x141.png)
     
-    Candice Powell sees Covenant’s power to maximize students’ potential](https://www.unc.edu/posts/2024/09/23/candice-powell-sees-covenants-power-to-maximize-students-potential/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/CarolinaThriftHero-250x141.jpg)
+    Chatbot informs women about HIV prevention](https://www.unc.edu/posts/2024/09/24/chatbot-informs-women-about-hiv-prevention/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/AnthonyAbrahamJack_Hero-250x141.jpg)
     
-    Carolina Thrift gives clothes new life](https://www.unc.edu/posts/2024/09/23/carolina-thrift-gives-clothes-new-life/)
+    Renowned author to deliver Carolina Covenant anniversary lecture](https://www.unc.edu/posts/2024/09/24/renowned-author-to-deliver-carolina-covenant-anniversary-lecture/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=4a6d50407c&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=10e261360d&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
