@@ -394,6 +394,7 @@ Phone Number of Designated Agent: 833-522-8820
 * [Blog](https://blog.flickr.net/en)
 * [Advertise](https://www.flickrads.com/?utm_source=flickr&utm_campaign=footer)
 * [Developers](https://www.flickr.com/services/developer)
+* [Cookies](https://www.flickr.com/help/cookies)
 * [Guidelines](https://www.flickr.com/help/guidelines)
 * [Privacy](https://www.flickr.com/help/privacy)
 * [Terms](https://www.flickr.com/help/terms)
@@ -409,9 +410,8 @@ Phone Number of Designated Agent: 833-522-8820
 
 * [Privacy](https://www.flickr.com/help/privacy)
 * [Terms](https://www.flickr.com/help/terms)
-* [Cookies](https://www.flickr.com/help/cookies)
 
-[](https://www.awesome.co/)Connecting people through photography.[](https://www.greatplacetowork.com/certified-company/7051750)[](https://www.climateneutral.org/brand/flickr)[](https://www.conservationalliance.com/)[](https://www.tugboatinstitute.com/certified-evergreen/)
+[](https://www.awesome.co/)Connecting people through photography.[](https://www.onepercentfortheplanet.org/)[](https://www.greatplacetowork.com/certified-company/7051750)[](https://www.climateneutral.org/brand/flickr)[](https://www.conservationalliance.com/)[](https://www.tugboatinstitute.com/certified-evergreen/)
 
 * [](https://www.facebook.com/flickr)
 * [](https://www.youtube.com/user/smugmug)
@@ -422,6 +422,7 @@ Phone Number of Designated Agent: 833-522-8820
 * [Blog](https://blog.flickr.net/en)
 * [Advertise](https://www.flickrads.com/?utm_source=flickr&utm_campaign=footer)
 * [Developers](https://www.flickr.com/services/developer)
+* [Cookies](https://www.flickr.com/help/cookies)
 * [Guidelines](https://www.flickr.com/help/guidelines)
 * [Report abuse](https://www.flickr.com/abuse)
 * [Privacy](https://www.flickr.com/help/privacy)
@@ -430,12 +431,10 @@ Phone Number of Designated Agent: 833-522-8820
 
 * [Privacy](https://www.flickr.com/help/privacy)
 * [Terms](https://www.flickr.com/help/terms)
-* [Cookies](https://www.flickr.com/help/cookies)
-* [Help](https://flickrhelp.com/)
 
 [](https://www.awesome.co/)Connecting people through photography.
 
-[](https://www.greatplacetowork.com/certified-company/7051750)[](https://www.climateneutral.org/brand/flickr)[](https://www.conservationalliance.com/)[](https://www.tugboatinstitute.com/certified-evergreen/)
+[](https://www.onepercentfortheplanet.org/)[](https://www.greatplacetowork.com/certified-company/7051750)[](https://www.climateneutral.org/brand/flickr)[](https://www.conservationalliance.com/)[](https://www.tugboatinstitute.com/certified-evergreen/)
 
 * [](https://www.facebook.com/flickr)
 * [](https://www.youtube.com/user/smugmug)
