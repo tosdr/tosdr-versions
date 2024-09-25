@@ -55,7 +55,7 @@
     * [![](/_next/static/media/cancer.9a09fd43.svg)Cancer](https://www.23andme.com/ca)
     * [![](/_next/static/media/mental-health.0fae1630.svg)Mental Health](https://www.23andme.com/mh)
     
-* [TOTAL HEALTH](https://www.23andme.com/total-health/)
+* [Total Health](https://www.23andme.com/total-health/)
 
 * [Sign In](https://you.23andme.com/)
 * [Register Kit](https://www.23andme.com/start/)
@@ -124,7 +124,7 @@ Open Menu
 Terms of Service
 ================
 
-Last Updated: November 30, 2023
+Last Updated: September 24, 2024
 
 THESE TERMS OF SERVICE CONTAIN A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES IN CERTAIN CIRCUMSTANCES, RATHER THAN JURY TRIALS OR CLASS ACTION LAWSUITS. VIEW THESE TERMS [HERE](#dispute-resolution-arbitration).
 
@@ -205,8 +205,8 @@ Furthermore, to expand and accelerate the understanding and practical applicatio
 
 Next Page: 2\. Using the Services![](/assets/svg/posi/arrow-right.svg)
 
-Last Updated: November 30, 2023.  
-[Read the previous version](https://www.23andme.com/legal/terms-of-service/full-version/4.1/)
+Last Updated: September 24, 2024.  
+[Read the previous version](https://www.23andme.com/legal/terms-of-service/full-version/5.0/)
 
 Footer
 ------
