@@ -189,7 +189,7 @@ This HubSpot Acceptable Use Policy ("AUP") applies to the use of any product, se
 
 10\. [General Terms](#General-Terms)
 
-If you are using any HubSpot Service, this AUP applies to you. Every customer and user of ours agrees to abide by this AUP and is responsible for any violations. You are not allowed to assist or engage others in a way that would violate this AUP. We will enforce and ensure compliance with this AUP by using methods we consider to be appropriate, such as complaint and email failure monitoring.  We may also suspend or terminate your use of HubSpot Services pursuant to our Customer Terms of Service for violations of this AUP. 
+If you are using any HubSpot Service, this AUP applies to you. Every customer and user agrees to abide by this AUP and is responsible for any violations. You are not allowed to assist or engage others in a way that would violate this AUP. We will enforce and ensure compliance with this AUP by using methods we consider to be appropriate, such as complaint and email failure monitoring.  We may also suspend or terminate your use of HubSpot Services pursuant to our Customer Terms of Service for violations of this AUP. 
 
 We periodically update these terms and we will let you know when we do through the Notification app in your HubSpot account (if you have one), or by posting a revised copy on our website. You agree to review the AUP on a regular basis and always remain in compliance.
 
