@@ -67,7 +67,7 @@ We stand with Ukraine to help keep people safe. [Join us](https://clario.co/blog
 Cookie Policy
 =============
 
-Updated: 26.02.2021
+Updated: 25.09.2024
 
 **Your Cookies**
 
@@ -107,19 +107,19 @@ We use these Functional Cookies to enable website functionality and provide acce
 | --- | --- | --- | --- |
 | consent | Clario | 1 year | To understand the user’s decision on cookies enablement. |
 | country | 6 months | To understand the country the user has come from and language to use on the website. |
-| globalAffid | To understand who visits our website. This cookie stores your internet browser and device information. |
-| JSESS | 24 hours | To authorize the user to login into Account or Company’s Products. |
+| sessionlAffid | 3 months | To understand who visits our website. This cookie stores your internet browser and device information. |
+| lang | 6 months | To determine the visitor's preferred language on our website and automatically present content in that language without prompting them again. |
 
 **2.Analytics Cookies.**
 ------------------------
 
-We use [Hotjar](https://www.hotjar.com/) and [Google Analytics](https://support.google.com/analytics/answer/6004245) to improve our website by collecting and reporting information on how you use it which enables us to build and maintain our service with user feedback. These cookies collect information in a way that does not directly identify anyone. We will ever use this information to identify individual users or to match it with further data on an individual user.
+We use [Google Analytics](https://support.google.com/analytics/answer/6004245) to improve our website by collecting and reporting information on how you use it which enables us to build and maintain our service with user feedback. These cookies collect information in a way that does not directly identify anyone. We will ever use this information to identify individual users or to match it with further data on an individual user.
 
 | Cookie Name | Source | Expiry | Purpose |
 | --- | --- | --- | --- |
 | \_ga | Google Analytics | 365 Days | To understand our website usage, and help us optimize our website by collecting and analyzing data about the behavior of visitors to our website (e.g. which website a person came from, which subpages were visited, or how often or for what duration a subpage was viewed). |
-| \_git |
-| \_hjid | Hotjar | To better understand our users’ needs and to optimize this service and experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.).<br><br>For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy/). |
+| \_clsk | Microsoft Clarity | 24 hours | This cookie connects multiple page views by a user into a single session recording. |
+| \_clck | 365 days | This cookie is used to persist a user’s Clarity ID and preferences across sessions. |
 
 **3\. Marketing Cookies.**
 --------------------------
@@ -129,7 +129,7 @@ We use these cookies to evaluate our marketing campaigns and provide better targ
 | Cookie Name | Source | Expiry | Purpose |
 | --- | --- | --- | --- |
 | \_gcl\_au | Google Ads | 3 months | Experiment with advertisement efficiency across websites. |
-| ads/ga-audiences | Re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. |
+| IDE by Doubleclick | Helps to track user behavior across the website to display relevant ads |
 | \_fbp | Facebook | Deliver our advertising to those who visited our website when they are on Facebook or a digital platform powered by Facebook Advertising. |
 
 **4\. Third party cookies.**
@@ -142,20 +142,13 @@ Third-party cookies are cookies set by a party other than Clario, like our busin
 
 If you do not want to accept cookies or store them on your device anymore, there are several ways how you can control your use of cookies:
 
-* Go to your browser settings. There you can manage your cookie preferences or delete all the cookies stored. For step-by-step instructions, please visit [aboutcookies.org/how-to-control-cookies/](https://www.aboutcookies.org/how-to-control-cookies/).
-    
-    Find out how to manage cookies on the most popular browsers:
-    
-    * Google Chrome
-    * Microsoft Edge
-    * Mozilla Firefox
-    * Microsoft Internet Explorer
-    * Opera
-    * Apple Safari
-* Learn more how to opt-out from Hotjar’s use of tracking cookies by following this opt-out link - [https://www.hotjar.com/legal/compliance/opt-out](https://www.hotjar.com/legal/compliance/opt-out/)
-* Learn more how you can opt-out from Google Analytics’s use of tracking cookies by following this opt-out link - [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout/)
+* Go to your browser settings. There you can manage your cookie preferences or delete all the cookies stored. For step-by-step instructions, please visit [aboutcookies.org/how-to-control-cookies/](https://www.aboutcookies.org/how-to-control-cookies/)
+* Find out how to manage cookies on the most popular browsers: [Chrome](https://support.google.com/chrome/answer/95647#zippy=%2Callow-or-block-cookies/), [Internet Explorer](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d), [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US/), [Safari](https://support.apple.com/en-ie/guide/safari/sfri11471/mac/), [Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd), [Opera](https://help.opera.com/en/latest/web-preferences/)
+* Use opt-out tools for interest-based advertisements. Some ads may include the AdChoices icon to opt out. You can also go to optout.aboutads.info or optout.networkadvertising.org to learn how to opt out of having your data used for interest-based advertising by Digital Advertising Alliance (DAA) members. If you would like to find out more information, please visit: Digital Advertising Alliance; Digital Advertising Alliance of Canada; European Interactive Digital Advertising Alliance
+* Learn more how you can opt-out from Google Analytics’s use of tracking cookies by following this opt-out link - [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/)
 * Learn more about how you can opt-out from Google Ads across all domains - [https://safety.google/privacy/privacy-controls/](https://safety.google/privacy/privacy-controls/)
 * Learn more about Facebook opt-out - [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/)
+* You can manage or disable DoubleClick cookies through your browser settings or by visiting Google’s Ads Settings [page](https://adssettings.google.com/).For more details on how Google uses data through DoubleClick cookies, please refer to [Google's Privacy Policy](https://policies.google.com/privacy?hl=en-US)
 
 **Changes to the Cookie Policy**
 --------------------------------
