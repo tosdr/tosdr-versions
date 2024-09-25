@@ -285,7 +285,7 @@ Asia
         * [Foxtrail](https://experience.fjallraven.com/articles)
         * [Classic](https://experience.fjallraven.com/classic)
         * [Polar](https://experience.fjallraven.com/polar/2023)
-        * [Nature Is Waiting](https://www.fjallraven.com/uk/en-us/nature-is-waiting/)
+        * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
         
     
     ![](/4a76c5/globalassets/fjallraven/us/homepage/2024/new-mobile-heroshdw-1.png)
@@ -466,7 +466,7 @@ Asia
             * [Foxtrail](https://experience.fjallraven.com/articles)
             * [Classic](https://experience.fjallraven.com/classic)
             * [Polar](https://experience.fjallraven.com/polar/2023)
-            * [Nature Is Waiting](https://www.fjallraven.com/uk/en-us/nature-is-waiting/)
+            * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
             
         
 * * Customer Service
@@ -723,7 +723,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=8c5746de-fd58-4955-887c-ffccfd4357e0)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=0b5247cc-0784-4842-9cd3-6217eb30de89)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
