@@ -21,7 +21,7 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
         * [CPQ configure price quote
             
             Generate error-free quotes tailored for every buyer](https://www.pandadoc.com/cpq-software/)
-        * [Rooms
+        * [Deal Rooms
             
             Collaborate and close deals in one personalized deal room](https://www.pandadoc.com/rooms/)
         * [Smart content
@@ -29,7 +29,7 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
             Adapt documents to the recipient's requirements](https://www.pandadoc.com/features/create/smart-content/)
         * [All features](https://www.pandadoc.com/features/)
         
-    * * [Automations
+    * * [Workflow Automations
             
             Streamline your workflow  
             and reduce manual tasks](https://www.pandadoc.com/workflow-automation-software/)
@@ -192,7 +192,7 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
 
 ![Calendar](https://public-site.marketing.pandadoc-static.com/assets/assets/demo/calendar-49307821d2.png)
 
-* Product
+* Contact Sales
     
     * Platform
         * [Product overview](https://www.pandadoc.com/product-overview/)
