@@ -74,13 +74,13 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 
 * * *
 
-Updated on: 2023-Jul-06  
+Updated on: 2023-Aug-14  
 
 * * *
 
 [Edit this page](https://gitlab.com/-/ide/project/kalilinux/documentation/kali-docs/edit/master/-/policy/privacy/index.md) [Create a new page](https://gitlab.com/-/ide/project/kalilinux/documentation/kali-docs/edit/master/-/policy/privacy/)
 
-[Penetration Testing Tools Policy](https://www.kali.org/docs/policy/penetration-testing-tools-policy/) [Get Kali](https://www.kali.org/get-kali/)
+[Penetration Testing Tools Policy](https://www.kali.org/docs/policy/penetration-testing-tools-policy/) [Kali Tools](https://www.kali.org/tools/)
 
 LIGHT DARK
 
