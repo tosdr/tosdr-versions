@@ -2,6 +2,10 @@
 
 [![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
 
+DE
+
+EN DE ES FR
+
 * [Products](javascript:void(0);)
     
     * [Features](https://wire.com/en/features)
@@ -106,7 +110,7 @@ Legislation & Compliance 
 
 ### Company
 
-* [About us](https://wire.com/en/about-us)
+* [About Us](https://wire.com/en/about-us)
 * [Career](https://wire.bamboohr.com/careers)
 * [Transparency](https://wire.com/en/transparency-report)
 * [Wire Cloud Status](https://status.wire.com/)
