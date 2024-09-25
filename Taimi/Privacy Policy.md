@@ -575,6 +575,16 @@ If we have good grounds to doubt your identity, we may ask you to provide additi
 
 As with any automated system, there is a chance for compliant accounts to be detected by our system as breaching our security. Please be assured that we give all our users an opportunity to express their point of view and contest the automated decision to our Support team at [support@taimi.com](mailto:support@taimi.com).
 
+**Photo Verification Information.** If you participate in a photo verification (via pantomime), it involves the collection of a photo without any face geometry (which may be considered biometric data in some jurisdictions anyway). In our app, photo verification is as simple as taking a selfie.
+
+After submitting a photo, the automated system indicates if it consists of a human in general. Then, moderators (human verification) can compare the photo you submit to your profile photo to help ensure that you are who you say you are. We do not add the verification photos to your profile.
+
+By registering in the Taimi app, you consent that Taimi uses photo verification Information (which may be considered biometric data in some jurisdictions) to detect and remove spammers, non-compliant images, messages, bots. 
+
+**Purpose of using photo verification.** Taimi uses photo verification information solely for photo verification and security purpose. To perform the Photo Verification process, we store photo verification information on our Amazon Web Services (AWS).
+
+**Retention period of photo verification Information.** We may retain the photos so that we can verify you in the future and for our record-keeping purposes. We delete photo verification information upon the termination of your profile or after two years of your continuous inactivity in our app. You can request deletion of the photo verification information by writing at [support@taimi.com](mailto:support@taimi.com). 
+
 **11.4. Authorized Agent**. You, as a California consumer, may assign your agent to submit a request on your behalf. If you desire to use this way, your agent shall provide us with your written authorization. Owing to a sensitive nature of your data, we reserve the right to reject, at any time, requests concerning your data submitted by any third party.
 
   
