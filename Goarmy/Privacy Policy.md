@@ -460,7 +460,7 @@ Take a short quiz or explore more than 200 jobs that might interest you.
 
 [Army Career Match](https://www.goarmy.com/careers-and-jobs/career-match/quiz)[All Jobs](https://www.goarmy.com/careers-and-jobs/browse-jobs)
 
-   
+  
 
 ### Tell us about yourself.
 
