@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")3 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Semaglutide may reduce opioid overdoses, a new study suggests](https://www.sciencenews.org/article/semaglutide-ozempic-opioid-overdose) 
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")14 mins ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")6 hours ago
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
             ### [A brain network linked to attention is larger in people with depression](https://www.sciencenews.org/article/brain-network-larger-depression)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")2 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")September 23, 2024
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")8 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Psychology](https://www.sciencenews.org/topic/psychology)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")3 hours ago
+            
+        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
+            
+            ### [Some of Earth’s extinct giants may have been smaller than thought](https://www.sciencenews.org/article/extinct-giants-size-estimates)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")4 hours ago
+            
+        * [Psychology](https://www.sciencenews.org/topic/psychology)
             
             ### [A brain network linked to attention is larger in people with depression](https://www.sciencenews.org/article/brain-network-larger-depression)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")2 hours ago
-            
-        * [Microbes](https://www.sciencenews.org/topic/microbes)
-            
-            ### [This amoeba eats prey like owls do](https://www.sciencenews.org/article/amoeba-eats-removes-shell)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")September 24, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [HIV and illicit drugs are a bad mix. This scientist found an unexpected reason why](https://www.sciencenews.org/article/dionna-williams-hiv-substance-abuse)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")September 23, 2024
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")8 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
