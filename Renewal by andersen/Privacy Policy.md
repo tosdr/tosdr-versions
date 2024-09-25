@@ -234,7 +234,7 @@ About Andersen
 * [Innovation](https://www.andersenwindows.com/about/innovation/)
 * [Quality](https://www.andersenwindows.com/about/quality/)
 * [Community](https://www.andersenwindows.com/about/community/)
-* [Inclusion](https://www.andersenwindows.com/about/inclusion/)
+* [Company Culture](https://www.andersenwindows.com/about/inclusion/)
 * [Sustainability](https://www.andersenwindows.com/about/sustainability/)
 * [Newsroom](https://www.andersenwindows.com/about/frame-maker/)
 * [Careers](https://careers.andersencorp.com/en_US/careers)
