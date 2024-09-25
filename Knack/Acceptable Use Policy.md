@@ -50,7 +50,7 @@
             ![Vendor & Supplier Portal](https://www.knack.com/wp-content/uploads/2023/08/vendorsupplierportal-icon-purple.svg)](https://www.knack.com/solutions/vendor-and-supplier-portal/)
         * [Inventory Management![Inventory Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
             
-            ![Inventory Management](https://www.knack.com/wp-content/uploads/2023/08/inventorymanagement-icon-purple.svg)](https://www.knack.com/solutions/inventory/)
+            ![Inventory Management](https://www.knack.com/wp-content/uploads/2023/08/inventorymanagement-icon-purple.svg)](https://www.knack.com/solutions/inventory-management/)
         * [Event Management![Event Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
             
             ![Event Management](https://www.knack.com/wp-content/uploads/2023/08/eventmanagement-icon-purple.svg)](https://www.knack.com/solutions/event-management/)
@@ -188,7 +188,7 @@
             ![Vendor & Supplier Portal](https://www.knack.com/wp-content/uploads/2023/08/vendorsupplierportal-icon-purple.svg)](https://www.knack.com/solutions/vendor-and-supplier-portal/)
         * [Inventory Management![Inventory Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
             
-            ![Inventory Management](https://www.knack.com/wp-content/uploads/2023/08/inventorymanagement-icon-purple.svg)](https://www.knack.com/solutions/inventory/)
+            ![Inventory Management](https://www.knack.com/wp-content/uploads/2023/08/inventorymanagement-icon-purple.svg)](https://www.knack.com/solutions/inventory-management/)
         * [Event Management![Event Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
             
             ![Event Management](https://www.knack.com/wp-content/uploads/2023/08/eventmanagement-icon-purple.svg)](https://www.knack.com/solutions/event-management/)
@@ -319,7 +319,7 @@ Read how you can revolutionize your operation with Knack.
         ![Grants Management](https://www.knack.com/wp-content/uploads/2023/11/4.svg)](https://www.knack.com/solutions/grants-management/)
     * [Inventory Management![Inventory Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![Inventory Management](https://www.knack.com/wp-content/uploads/2023/11/Inventory-Management.svg)](https://www.knack.com/solutions/inventory/)
+        ![Inventory Management](https://www.knack.com/wp-content/uploads/2023/11/Inventory-Management.svg)](https://www.knack.com/solutions/inventory-management/)
     * [Learning Management![Learning Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Learning Management](https://www.knack.com/wp-content/uploads/2023/11/Untitled-60-x-60-px.svg)](https://www.knack.com/solutions/training-learning-management/)
@@ -715,7 +715,7 @@ USE CASES
 * [Customer Portal](https://www.knack.com/solutions/customer-portal/)
 * [Event Management](https://www.knack.com/solutions/event-management/)
 * [Grants Management](https://www.knack.com/solutions/grants-management/)
-* [Inventory Management](https://www.knack.com/solutions/inventory/)
+* [Inventory Management](https://www.knack.com/solutions/inventory-management/)
 * [Online Database](https://www.knack.com/solutions/online-database/)
 * [Project Management](https://www.knack.com/solutions/project-management/)
 
