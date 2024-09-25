@@ -46,7 +46,7 @@ Toggle Toolbox
     * [Schulich School of Engineering](https://schulich.ucalgary.ca/)
     * [Werklund School of Education](https://werklund.ucalgary.ca/)
 
-[![University of Calgary](/live-uc-ucalgary-site/themes/ucalgary/ucws_theme/images/UCalgary.svg)](https://www.ucalgary.ca/)
+[![University of Calgary](/live-uc-ucalgary-site/themes/ucalgary/ucws_theme/images/UCalgary_Orange_Shirt.png)](https://www.ucalgary.ca/)
 
 Toggle Navigation
 
