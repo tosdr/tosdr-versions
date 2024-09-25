@@ -266,15 +266,6 @@ Most Popular
 [Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding")](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
-
-Photo: Manolo Franco/Pixabay
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![County Derry McDonald's restaurant ranked third best in the UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry McDonald's restaurant ranked third best in the UK")](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
 
 McDonald's
@@ -284,19 +275,14 @@ McDonald's
 [County Derry McDonald's restaurant ranked third best in the UK](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
+[![Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding")](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Photo: Manolo Franco/Pixabay
 
-[Derry Death Notices - Tuesday, 24th September 2024](https://www.derrynow.com/news/deaths/1612152/derry-death-notices-tuesday-24th-september-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[![Derry man jailed for exposing himself to two nurses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for exposing himself to two nurses")](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Official opening of the Peacemakers Museum in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official opening of the Peacemakers Museum in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
 
@@ -304,6 +290,13 @@ McDonald's
 
 [IN PICTURES: Official opening of the Peacemakers Museum in Derry](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man jailed for exposing himself to two nurses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for exposing himself to two nurses")](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt")](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
 
@@ -338,6 +331,15 @@ Derry Magistrate's Court
 
 [Man accused of 'completely reckless and wholly dangerous' driving remanded](https://www.derrynow.com/news/local-news/1612824/man-accused-of-completely-reckless-and-wholly-dangerous-driving-remanded.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two Polish men extradited to NI jailed for drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two Polish men extradited to NI jailed for drugs offences")](https://www.derrynow.com/news/local-news/1612827/two-polish-men-extradited-to-ni-jailed-for-drugs-offences.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two Polish men extradited to NI jailed for drugs offences](https://www.derrynow.com/news/local-news/1612827/two-polish-men-extradited-to-ni-jailed-for-drugs-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,14 +519,30 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Generous donation made to North West Cancer Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Generous donation made to North West Cancer Centre")](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
+[![Number of homes have been evacuated in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of homes have been evacuated in Derry")](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Number of homes have been evacuated in Derry](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, 25th September 2024](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Generous donation made to North West Cancer Centre](https://www.derrynow.com/resizer/165/93/true/2024_09_24/Donation_to_NWCC-1727194570238_1727194586.jpg--.jpg?1727194586893 "Generous donation made to North West Cancer Centre")](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Generous donation made to North West Cancer Centre](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime")](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
+[![Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](https://www.derrynow.com/resizer/165/93/true/2024_09_24/CCGBC_PCSP_CRIME_PREVENTION-1727184722968.jpg--.jpg?1727184727427 "Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime")](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
 
 Orlaith Quinn, Council’s PCSP Officer, pictured alongside members of the PSNI Neighbourhood Policing Team, at a recent training workshop aimed at tackling rural crime. Photo: CCG Council
 
@@ -550,20 +568,6 @@ The successful members of Zanshin Shotokan NI Karate Club who won medals at the 
 
 [Zanshin NI Karate club bring home eight medals from GB Championships!](https://www.derrynow.com/news/derry-sport/1612898/zanshin-ni-karate-club-bring-home-eight-medals-from-gb-championships.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry man jailed for exposing himself to two nurses")](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Troubles commission chief urges end to ‘unwarranted attacks’ on its independence](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_24/1727175305169_0.jpg--.jpg?1727175305300 "Troubles commission chief urges end to ‘unwarranted attacks’ on its independence")](https://www.derrynow.com/news/local-news/1612831/troubles-commission-chief-urges-end-to-unwarranted-attacks-on-its-independence.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Troubles commission chief urges end to ‘unwarranted attacks’ on its independence](https://www.derrynow.com/news/local-news/1612831/troubles-commission-chief-urges-end-to-unwarranted-attacks-on-its-independence.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
