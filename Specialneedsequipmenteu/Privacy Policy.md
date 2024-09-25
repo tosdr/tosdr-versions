@@ -24,12 +24,12 @@ EUR
 
 [Login](https://specialneedsequipment.eu/login.html)
 
-[![Adapt BG Ltd.](/userfiles/logo/SpecialNeedsEquipment.eu_Logo (250 x 56).jpg)](https://specialneedsequipment.eu/)
--------------------------------------------------------------------------------------------------------------------
+[![Adapt BG Ltd.](/userfiles/logo/SpecialNeedsEquipment.eu_Logo%20%28250%20x%2056%29.jpg)](https://specialneedsequipment.eu/)
+-----------------------------------------------------------------------------------------------------------------------------
 
 [Advanced Search](https://specialneedsequipment.eu/search.html?action=dmAdvancedSearch)
 
-![](/skins/zz_adapt/customer/images/adapt/header-phone.png)
+![](/skins/zz_adapt/customer/images/adapt/header-phone.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
 TELEPHONE
 
@@ -39,7 +39,7 @@ TELEPHONE
 * [Romania +40 768293282](tel:+40 768293282)
 ![Romania](/userfiles/languages/language_2.jpg)* [Bulgaria +359 878212616](tel:02 4420424)
 
-![](/skins/zz_adapt/customer/images/adapt/header-stores.png)
+![](/skins/zz_adapt/customer/images/adapt/header-stores.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
 LOCATIONS
 
@@ -245,19 +245,19 @@ Shopping Cart
 
 [](#)[](#)[](#)
 
-[![](/skins/zz_adapt/customer/images/adapt/top-info-free-help.png)
+[![](/skins/zz_adapt/customer/images/adapt/top-info-free-help.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
 ONLINE SUPPORT
 
-Instant support over phone or chat](https://specialneedsequipment.eu/form/1/contact.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-free-delivery.png)
+Instant support over phone or chat](https://specialneedsequipment.eu/form/1/contact.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-free-delivery.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
 EXPRESS DELIVERY
 
-1- day shipments with TNT](https://specialneedsequipment.eu/page/9/delivery.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-warranty.png)
+1- day shipments with TNT](https://specialneedsequipment.eu/page/9/delivery.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-warranty.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
 WARRANTY & SERVICE
 
-Up to 5 years warranty](https://specialneedsequipment.eu/page/10/warranty-and-service.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-test-period.png)
+Up to 5 years warranty](https://specialneedsequipment.eu/page/10/warranty-and-service.html)[![](/skins/zz_adapt/customer/images/adapt/top-info-test-period.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
 30-DAY TEST PERIOD
 
@@ -266,7 +266,7 @@ Of non-sanitary products](https://specialneedsequipment.eu/page/1/product-replac
 Accordion Categories
 --------------------
 
-* [![](/userfiles/categoryimages/image_11f93d2d229e05417e0b91118d61f48f.jpg)Paediatric products](https://specialneedsequipment.eu/category/42/paediatric-products.html)
+*  [![Paediatric products](/userfiles/categoryimages/image_11f93d2d229e05417e0b91118d61f48f.jpg)Paediatric products](https://specialneedsequipment.eu/category/42/paediatric-products.html)
     * [Special Needs Strollers and Push Chairs](https://specialneedsequipment.eu/category/47/special-needs-strollers-and-push-chairs.html)
     * [Gait trainers and walkers](https://specialneedsequipment.eu/category/20/gait-trainers-and-walkers.html)
     * [Standing frames](https://specialneedsequipment.eu/category/19/standing-frames.html)
@@ -276,7 +276,7 @@ Accordion Categories
     * [Positioning](https://specialneedsequipment.eu/category/21/positioning.html)
     * [Rehabilitation](https://specialneedsequipment.eu/category/10/rehabilitation.html)
     * [Tricycles for children with special needs](https://specialneedsequipment.eu/category/125/tricycles-for-children-with-special-needs.html)
-* [![](/userfiles/categoryimages/image_a96b449426e4ccbefb94b86d37652038.jpg)Disability Products](https://specialneedsequipment.eu/category/97/disability-products.html)
+*  [![Disability Products](/userfiles/categoryimages/image_a96b449426e4ccbefb94b86d37652038.jpg)Disability Products](https://specialneedsequipment.eu/category/97/disability-products.html)
     * [Wheelchairs](https://specialneedsequipment.eu/category/98/wheelchairs.html)
     * [Electric Wheelchairs](https://specialneedsequipment.eu/category/127/electric-wheelchairs.html)
     * [Active Wheelchairs](https://specialneedsequipment.eu/category/99/active-wheelchairs.html)
@@ -289,20 +289,20 @@ Accordion Categories
     * [Standing Frames](https://specialneedsequipment.eu/category/105/standing-frames.html)
     * [Patient Lifts](https://specialneedsequipment.eu/category/106/patient-lifts.html)
     * [Bariatric Products](https://specialneedsequipment.eu/category/107/bariatric-products.html)
-* [![](/userfiles/categoryimages/image_e0a9066e8ef4030c285a03641edeacae.jpg)Accessible Environment](https://specialneedsequipment.eu/category/25/accessible-environment.html)
+*  [![Accessible Environment](/userfiles/categoryimages/image_e0a9066e8ef4030c285a03641edeacae.jpg)Accessible Environment](https://specialneedsequipment.eu/category/25/accessible-environment.html)
     * [Stairs climbers](https://specialneedsequipment.eu/category/27/stairs-climbers.html)
     * [Mechanical platform for wheelchairs](https://specialneedsequipment.eu/category/61/mechanical-platform-for-wheelchairs.html)
     * [Hydraulic and Electrical Lifters](https://specialneedsequipment.eu/category/26/hydraulic-and-electrical-lifters.html)
     * [Pool lifts](https://specialneedsequipment.eu/category/60/pool-lifts.html)
     * [Wheelchair Ramps](https://specialneedsequipment.eu/category/133/wheelchair-ramps.html)
-* [![](/userfiles/categoryimages/image_be749c6ab13ad047dfd73d4ed59b958a.jpg)Oxygen Concentrators](https://specialneedsequipment.eu/category/39/oxygen-concentrators.html)
+*  [![Oxygen Concentrators](/userfiles/categoryimages/image_be749c6ab13ad047dfd73d4ed59b958a.jpg)Oxygen Concentrators](https://specialneedsequipment.eu/category/39/oxygen-concentrators.html)
     * [Stationary Oxygen Concentrators](https://specialneedsequipment.eu/category/122/stationary-oxygen-concentrators.html)
     * [Portable Oxygen Concentrators](https://specialneedsequipment.eu/category/123/portable-oxygen-concentrators.html)
     * [Accessories](https://specialneedsequipment.eu/category/126/accessories.html)
     * [Pulsoximeters](https://specialneedsequipment.eu/category/129/pulsoximeters.html)
     * [Filters](https://specialneedsequipment.eu/category/131/filters.html)
     * [Consumables](https://specialneedsequipment.eu/category/132/consumables.html)
-* [![](/userfiles/categoryimages/image_e6974c515368ddfa4c7f7aa17b798e6f.jpg)CPAP devices and masks](https://specialneedsequipment.eu/category/108/cpap-devices-and-masks.html)
+*  [![CPAP devices and masks](/userfiles/categoryimages/image_e6974c515368ddfa4c7f7aa17b798e6f.jpg)CPAP devices and masks](https://specialneedsequipment.eu/category/108/cpap-devices-and-masks.html)
     * [Standard CPAP](https://specialneedsequipment.eu/category/109/standard-cpap.html)
     * [Automatic CPAP](https://specialneedsequipment.eu/category/110/automatic-cpap.html)
     * [BiLevel Devices](https://specialneedsequipment.eu/category/111/bilevel-devices.html)
@@ -315,7 +315,7 @@ Accordion Categories
         * [Pediatric masks](https://specialneedsequipment.eu/category/118/pediatric-masks.html)
     * [Humidifiers](https://specialneedsequipment.eu/category/119/humidifiers.html)
     * [Accessories](https://specialneedsequipment.eu/category/121/accessories.html)
-* [![](/userfiles/categoryimages/image_71b1313939dffa07a7c22e56666dc06a.jpg)Orthosis](https://specialneedsequipment.eu/category/79/orthosis.html)
+*  [![Orthosis](/userfiles/categoryimages/image_71b1313939dffa07a7c22e56666dc06a.jpg)Orthosis](https://specialneedsequipment.eu/category/79/orthosis.html)
     * [Elbow joint](https://specialneedsequipment.eu/category/86/elbow-joint.html)
     * [Shoulder joint](https://specialneedsequipment.eu/category/87/shoulder-joint.html)
     * [Neck section of the spine](https://specialneedsequipment.eu/category/88/neck-section-of-the-spine.html)
@@ -567,29 +567,29 @@ E-mail : info@specialneedsequipment.eu
 
 [Tweet](https://twitter.com/share)
 
-[Online Store](https://specialneedsequipment.eu/)[CPAP Machines & Masks](https://specialneedsequipment.eu/category/108/cpap-devices-and-masks.html)[Oxygen Concentrators](https://specialneedsequipment.eu/category/39/oxygen-concentrators.html)[Disability Products](https://specialneedsequipment.eu/category/97/disability-products.html)[\- Pediatric Products](https://specialneedsequipment.eu/category/42/paediatric-products.html)[\- Products for Seniors](https://specialneedsequipment.eu/category/97/disability-products.html)[Brands](https://specialneedsequipment.eu/brands.html)[Search](https://specialneedsequipment.eu/search.php?action=dmAdvancedSearch)[Useful Links](#)[Terms & Conditions](https://specialneedsequipment.eu/page/5/terms-conditions.html)[Warranty & Service](https://specialneedsequipment.eu/page/10/warranty-and-service.html)[Returns](https://specialneedsequipment.eu/page/1/product-replacement.html)[Privacy Policy](https://specialneedsequipment.eu/page/4/privacy-policy.html)[Account](#)[Register](https://specialneedsequipment.eu/register.html)[Login](https://specialneedsequipment.eu/login.html)[Blog](https://specialneedsequipment.eu/blog.html)[\- Sleep Apnea](#)[\- Oxygen Therapy](#)[\- Living with a disability](#)
+[Online Store](https://specialneedsequipment.eu/)[CPAP Machines & Masks](https://specialneedsequipment.eu/category/108/cpap-devices-and-masks.html)[Oxygen Concentrators](https://specialneedsequipment.eu/category/39/oxygen-concentrators.html)[Disability Products](https://specialneedsequipment.eu/category/97/disability-products.html)[\- Pediatric Products](https://specialneedsequipment.eu/category/42/paediatric-products.html)[\- Products for Seniors](https://specialneedsequipment.eu/category/97/disability-products.html)[Brands](https://specialneedsequipment.eu/brands.html)[Search](https://specialneedsequipment.eu/page/4/search.php?action=dmAdvancedSearch)[Useful Links](#)[Terms & Conditions](https://specialneedsequipment.eu/page/5/terms-conditions.html)[Warranty & Service](https://specialneedsequipment.eu/page/10/warranty-and-service.html)[Returns](https://specialneedsequipment.eu/page/1/product-replacement.html)[Privacy Policy](https://specialneedsequipment.eu/page/4/privacy-policy.html)[Account](#)[Register](https://specialneedsequipment.eu/register.html)[Login](https://specialneedsequipment.eu/login.html)[Blog](https://specialneedsequipment.eu/blog.html)[\- Sleep Apnea](#)[\- Oxygen Therapy](#)[\- Living with a disability](#)
 
 Payment Methods
 ---------------
 
-* ![](/skins/orion//customer/images/footer/master.png)
-* ![](/skins/orion//customer/images/footer/maestro.png)
-* ![](/skins/orion//customer/images/footer/visa.png)
-* ![](/skins/orion//customer/images/footer/easy-pay.png)
-* ![](/skins/orion//customer/images/footer/paypal.png)
+* ![](/skins/orion//customer/images/footer/master.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
+* ![](/skins/orion//customer/images/footer/maestro.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
+* ![](/skins/orion//customer/images/footer/visa.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
+* ![](/skins/orion//customer/images/footer/easy-pay.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
+* ![](/skins/orion//customer/images/footer/paypal.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
-* ![](/skins/orion//customer/images/footer/speedy.png)
-* ![](/skins/orion//customer/images/footer/econt.png)
-* ![](/skins/orion//customer/images/footer/tnt.png)
-* ![](/skins/orion//customer/images/footer/dhl.png)
+* ![](/skins/orion//customer/images/footer/speedy.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
+* ![](/skins/orion//customer/images/footer/econt.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
+* ![](/skins/orion//customer/images/footer/tnt.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
+* ![](/skins/orion//customer/images/footer/dhl.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)
 
 Copyright 2020 SpecialNeedsEquipment.com
 
 [Seliton E-commerce Solution](http://www.seliton.com/)
 
-[![](/skins/orion//customer/images/social-media/facebook.png)](https://www.facebook.com/Specialneedsequipment-107757347697401)[![](/skins/orion//customer/images/social-media/youtube.png)](https://www.youtube.com/channel/UCAfaHkFVdS3EsoOnNSeA7QQ) [![](/skins/orion//customer/images/social-media/skype.png)](skype:plovdiv_16?chat)
+[![](/skins/orion//customer/images/social-media/facebook.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)](https://www.facebook.com/Specialneedsequipment-107757347697401)[![](/skins/orion//customer/images/social-media/youtube.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)](https://www.youtube.com/channel/UCAfaHkFVdS3EsoOnNSeA7QQ) [![](/skins/orion//customer/images/social-media/skype.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)](skype:plovdiv_16?chat)
 
-![](/skins/orion//customer/images/gdpr-stars.png)GDPROur website is GDPR compliant.
+![](/skins/orion//customer/images/gdpr-stars.png?rev=ea26cc2eda2ecb2b1f9fcde6a3b398c88383383b)GDPROur website is GDPR compliant.
 
 [My personal data](https://specialneedsequipment.eu/gdpr.html)
 
