@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
@@ -146,12 +147,11 @@ Latest reactions
 * [csMSX - MSX/2 Emulator & C# Source Code](https://www.msx.org/downloads/csmsx-vbnet-msx-msx2-emulator-source-code "csMSX - MSX/2 Emulator & C# Source Code")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
-* [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
 
 Latest forum posts
 
-* [Weak SCC sounds on Playsoniq](https://www.msx.org/forum/msx-talk/hardware/weak-scc-sounds-on-playsoniq "Weak SCC sounds on Playsoniq")
 * [Help using 720 KB 2DD 3.5" disks in modern computers](https://www.msx.org/forum/msx-talk/hardware/help-using-720-kb-2dd-35-disks-in-modern-computers "Help using 720 KB 2DD 3.5" disks in modern computers")
+* [Weak SCC sounds on Playsoniq](https://www.msx.org/forum/msx-talk/hardware/weak-scc-sounds-on-playsoniq "Weak SCC sounds on Playsoniq")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=56 "WonderTANG! Who wants to juice up your MSX?")
 * [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958 "Tracing the V9958")
 * [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
