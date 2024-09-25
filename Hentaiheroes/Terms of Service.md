@@ -1,6 +1,6 @@
 Loading...
 
-![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/town-v5.jpg)
+![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/homepage_path_event.jpg)
 
 [![](https://hh2.hh-content.com/design/ic_arrow-back.svg)](https://www.hentaiheroes.com/home.html)[![](https://hh2.hh-content.com/design/ic_legal.svg)
 
@@ -274,7 +274,9 @@ Third parties specialized in statistical studies can access your data in an anon
 
 This Agreement shall be governed by and construed in accordance with the substantive laws of the Republic of Bulgaria without giving effect to its principle or rules of conflicts of laws. Any dispute arising under or in relation to this Agreement shall be resolved in the competent court in Sofia only, and each of the parties hereby submits irrevocably to the exclusive jurisdiction of such court.
 
-Install the app on your phone! [Learn more about the app here.](#)
+Install The App [Learn more about the app here.](#)
+
+Fullscreen
 
 Turn your device for a better experience.
 
