@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Extinct Volcanoes Rich in Rare Earth Elements](https://www.sciencedaily.com/releases/2024/09/240924123051.htm)
+* [Lengthened Consonants Mark Start of Words](https://www.sciencedaily.com/releases/2024/09/240924123006.htm)
+* [Medicare-Covered Weight Loss Meds?](https://www.sciencedaily.com/releases/2024/09/240923184938.htm)
+* [Abrupt Intensification of Northern Wildfires](https://www.sciencedaily.com/releases/2024/09/240924123046.htm)
+* [Ill-Fated 1845 Franklin Expedition](https://www.sciencedaily.com/releases/2024/09/240924123035.htm)
+* [Future of Greenland's Glaciers: Cooler Water](https://www.sciencedaily.com/releases/2024/09/240924123033.htm)
 * [Uniquely Inflated and Asymmetric Exoplanet](https://www.sciencedaily.com/releases/2024/09/240924123003.htm)
 * [Rapid Loss of Antarctic Ice After 2100 Likely](https://www.sciencedaily.com/releases/2024/09/240912142344.htm)
 * [Origins of Horseback Riding](https://www.sciencedaily.com/releases/2024/09/240920165153.htm)
 * [Food Fussiness Is a Largely Genetic Trait](https://www.sciencedaily.com/releases/2024/09/240919193539.htm)
-* [Complex Dance of Our Beliefs](https://www.sciencedaily.com/releases/2024/09/240919174839.htm)
-* [Global Action On Microplastics?](https://www.sciencedaily.com/releases/2024/09/240919174742.htm)
-* [Lake Ice Quality Degrading as Planet Warms](https://www.sciencedaily.com/releases/2024/09/240919115157.htm)
-* [Lava from Hotspots from Worldwide Reservoir](https://www.sciencedaily.com/releases/2024/09/240919115023.htm)
-* [Slap Fighting: Risk to Neurological Health](https://www.sciencedaily.com/releases/2024/09/240918125032.htm)
-* [Palaeolithic Cyprus: Dwarf Hippos and Elephants](https://www.sciencedaily.com/releases/2024/09/240917195402.htm)
 
 Trending Topics
 ---------------
@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
-
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,15 +261,15 @@ this week
 
 [Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
 
-[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
-
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
   
 
