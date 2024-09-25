@@ -6,13 +6,13 @@ Apps
 
 Our Apps
 
-[![](https://procreate-assets-cdn.procreate.art/img/procreate.8901aaa.png)
+[![](https://procreate-assets-cdn.procreate.com/assets/procreate.D0fS5-Eq.png)
 
-Procreate for iPad Sketch. Paint. Create.](https://procreate.com/procreate)[![](https://procreate-assets-cdn.procreate.art/img/dreams.f2bc29c.png)
+Procreate for iPadSketch. Paint. Create.](https://procreate.com/procreate)[![](https://procreate-assets-cdn.procreate.com/assets/dreams.D3DCTxzr.png)
 
-Procreate Dreams Edit. Animate. Create.](https://procreate.com/dreams)[![](https://procreate-assets-cdn.procreate.art/img/pocket.13aba37.png)
+Procreate DreamsEdit. Animate. Create.](https://procreate.com/dreams)[![](https://procreate-assets-cdn.procreate.com/assets/pocket.DFt1gCmw.png)
 
-Procreate Pocket Sketch & Paint on iPhone.](https://procreate.com/pocket)
+Procreate PocketSketch & Paint on iPhone.](https://procreate.com/pocket)
 
 Learning
 
@@ -30,15 +30,15 @@ Company
 
 Apps
 
-* [![](https://procreate-assets-cdn.procreate.art/img/procreate.8901aaa.png)
+* [![](https://procreate-assets-cdn.procreate.com/assets/procreate.D0fS5-Eq.png)
     
-    Procreate for iPad Sketch. Paint. Create.](https://procreate.com/procreate)
-* [![](https://procreate-assets-cdn.procreate.art/img/dreams.f2bc29c.png)
+    Procreate for iPadSketch. Paint. Create.](https://procreate.com/procreate)
+* [![](https://procreate-assets-cdn.procreate.com/assets/dreams.D3DCTxzr.png)
     
-    Procreate Dreams Edit. Animate. Create.](https://procreate.com/dreams)
-* [![](https://procreate-assets-cdn.procreate.art/img/pocket.13aba37.png)
+    Procreate DreamsEdit. Animate. Create.](https://procreate.com/dreams)
+* [![](https://procreate-assets-cdn.procreate.com/assets/pocket.DFt1gCmw.png)
     
-    Procreate Pocket Sketch & Paint on iPhone.](https://procreate.com/pocket)
+    Procreate PocketSketch & Paint on iPhone.](https://procreate.com/pocket)
 
 Company
 
@@ -57,7 +57,7 @@ Learning
 Privacy Policy
 ==============
 
-This following document sets forth the Privacy Policy for the Savage Software Group Pty Ltd (Savage) website procreate.com (the Site), and associated websites. For Procreate and Procreate Pocket please refer to the [App Privacy Policy](https://procreate.com/app/privacy-policy).
+This following document sets forth the Privacy Policy for the Savage Software Group Pty Ltd (Savage) website procreate.com (the Site), and associated websites. For Procreate and Procreate Pocket please refer to the [App Privacy Policy](https://procreate.com/app-privacy-policy).
 
 Collection and use of your personal information
 -----------------------------------------------
@@ -168,7 +168,7 @@ Art is for everyone.
 * [Terms & Conditions](https://procreate.com/terms-conditions)
 * [Cookies Policy](https://procreate.com/cookies-policy)
 
-English (US) Choose language: English (US)简体中文日本語
+English (US) Choose language:English (US)日本語简体中文
 
 Made in Australia.  
 Copyright 2024 Savage. All rights reserved. Procreate® is a registered trademark of Savage Interactive Pty Ltd.
