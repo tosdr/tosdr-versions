@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel bombards Hezbollah, killing a top commander, while families flee southern Lebanon](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
-    * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
-    * [US Navy replenishment ship operating in Mideast was damaged after refueling warships, officials say](https://apnews.com/article/us-navy-big-horn-mideast-israel-hamas-war-2e03c24dece6807bac359bf86c5a81dd)
+    * [Israel has landed heavy blows on Hezbollah. The victory it seeks could prove elusive](https://apnews.com/article/israel-lebanon-hezbollah-conflict-military-strategy-cce53839bbcf0a9a36af45ed2fa7dbb4)
+    * [Netanyahu will address the UN as Israel, bogged down by one war, barrels toward another](https://apnews.com/article/netanyahu-speech-gaza-hezbollah-un-e761de05e4c4a7f54bfd27e8795bceb7)
+    * [Hezbollah fires a missile at Tel Aviv in deepest strike yet after Israeli bombardment of Lebanon](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Tropical Storm Helene is expected to become a hurricane. Florida residents begin evacuating](https://apnews.com/article/tropical-weather-hurricane-caribbean-c7b70ac631e5fc5df86900b6ee141fb5)
-    * [Missouri executes a man for the 1998 killing of a woman despite her family’s calls to spare his life](https://apnews.com/article/missouri-execution-marcellus-williams-8be20e2f252992610a30fa0cfef4185a)
-    * [Texas man who waived his right to appeal death sentence is executed for killing infant son](https://apnews.com/article/texas-execution-travis-mullis-son-c3494917334d5f8a94382ab9e98106cb)
+    * [Tropical Storm Helene strengthens as hurricane warnings cover parts of Florida and Mexico](https://apnews.com/article/tropical-storm-helene-john-florida-mexico-a953d0a51d219226f7d76178af2d3f4b)
+    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
+    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
     * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
     * [Trump will attend Al Smith charity dinner that Harris is skipping to campaign in battleground state](https://apnews.com/article/donald-trump-al-smith-dinner-29262d451fba2b564b39d8309a504a88)
-    * [Trump calls for 100% tariffs on cars made in Mexico as part of US manufacturing plan](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Man who staked out Trump at Florida golf course charged with attempting an assassination](https://apnews.com/article/trump-fbi-assassination-attempt-indictment-b4c956e1a126e4acfb3c4eae0c06ddb1)
-    * [Biden in farewell U.N. address says peace still possible in conflicts in Mideast and Ukraine](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
-    * [US to send $375 million in military aid to Ukraine, including medium-range cluster bombs](https://apnews.com/article/ukraine-russia-war-weapons-missiles-a4a109e2eb4581e59d5d1455deb92b09)
+    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
+    * [Trump tells women he 'will be your protector' as GOP struggles with outreach to female voters](https://apnews.com/article/trump-women-protector-abortion-election-697ce355f7386bfd192b99bb00322705)
+    * [Jimmy Carter as a power-playing loner from the farm to the White House and on the global stage](https://apnews.com/article/jimmy-carter-outsider-legacy-birthday-100-d686b420122566f0ce741646165e0b66)
     
     Newsletters
     
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Retired NFL quarterback Brett Favre says he has Parkinson's disease](https://apnews.com/article/brett-favre-parkinsons-congress-mississippi-welfare-fraud-4d1635ac54ee5ab156fd2825fcd29430)
-    * [Tennessee football's 10% talent fee opens discussion of how many schools and sports will follow](https://apnews.com/article/nil-tennessee-volunteers-college-football-a0cb27d19f081f449dc6c8c0fd960eb4)
     * [Pac-12 files a federal lawsuit against Mountain West over $43 million in 'poaching' penalties](https://apnews.com/article/pac12-mountain-west-lawsuit-ceabcf381da0cec1dc5dc0e4f58c5c36)
+    * [Padres turn triple play to clinch playoff spot with 4-2 win over Dodgers](https://apnews.com/article/padres-clinch-playoff-berth-2217023d13899d5f01e1092abbd82183)
     
     Newsletters
     
@@ -114,8 +114,8 @@ Menu
     
     TOP STORIES
     
+    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
     * [Francis Ford Coppola's 'Megalopolis' is one from the heart](https://apnews.com/article/megalopolis-francis-ford-coppola-interview-5bc787e614b956a4bb9c566b09000165)
-    * [John Leguizamo reaches back in time to reclaim Latin American history for a PBS documentary series](https://apnews.com/article/john-leguizamo-pbs-voces-american-historia-7a066a41cf0bb4d2a18c2801cd78a0d8)
     * [Woman alleges Sean 'Diddy' Combs raped her on video in latest lawsuit](https://apnews.com/article/sean-combs-diddy-lawsuit-1e2b124ba85ebf1b4f1e93c8692aab4b)
     
 * [Business](https://apnews.com/business)
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Strike by more than 1,000 Samsung workers enters a third week in India](https://apnews.com/article/samung-strike-india-a61306e6c8d8a37713daa0345077e8f8)
+    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
     * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
-    * [Trump calls for 100% tariffs on cars made in Mexico as part of US manufacturing plan](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
-    * [Judge to approve auctions liquidating Alex Jones' Infowars to help pay Sandy Hook families](https://apnews.com/article/alex-jones-infowars-bankruptcy-sandy-hook-shooting-9052caad16dcdfd3bff0697454394d9f)
     
 * [Science](https://apnews.com/science)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [Deadly flooding in Central Europe made twice as likely by climate change](https://apnews.com/article/central-europe-european-union-floods-climate-change-damage-rain-5e90744008e4bc1404bbfd181f09b32f)
     * [In the gateway to the Arctic, fat, ice and polar bears are crucial. All three are in trouble](https://apnews.com/article/polar-bear-arctic-climate-change-whale-fat-938de0e1662eed4d01a747708b82e539)
     * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     
 * [Health](https://apnews.com/health)
     
@@ -247,7 +247,7 @@ Menu
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [Senate chairman demands answers from emergency rooms that denied care to pregnant patients](https://apnews.com/article/emergency-abortions-hospitals-pregnancy-senate-2b05c1dd929981afca79d68ec2e0a86a)
+    * [Sepsis and malnutrition stalk the new mothers and babies of South Darfur](https://apnews.com/article/sudan-war-malnutrition-maternal-deaths-darfur-ed8235d3b11a4a6ea2fcf27b7013d20c)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
     * [Video game actors' union calls for strike against 'League of Legends'](https://apnews.com/article/sagaftra-formosa-interactive-league-of-legends-49c2552fe96afaa04c59ddddcd9703b5)
     * [TikTok removes Russian state media accounts for 'covert influence operations' ahead of US election](https://apnews.com/article/tiktok-russia-media-election-interference-abd51ba03af439cf272888556f424d38)
-    * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
+    * [As an era ends, the city that was home to the Oakland A's comes to grips with their departure](https://apnews.com/article/oakland-athletics-baseball-final-season-9c3667e53de52b28209a9bed640f2196)
     * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
-    * [Dior's sporty elegance and urban grit hits Paris Fashion Week](https://apnews.com/article/france-paris-fashion-week-dior-018da20515aed66866a7aa08802087b9)
-    * [Prince Harry says harms of social media have created an 'epidemic' for today's youth](https://apnews.com/article/prince-harry-clinton-global-initiative-archewell-foundation-cd5ab9d7b12dbbca8c3ab3be860cbf28)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Their churches no longer feel safe. Now Nicaraguans are taking their worship home](https://apnews.com/article/nicaragua-religion-religious-freedom-evangelical-churches-7710b23b748dfc9b2d7975cd8dd81b35)
+    * [Belgium's appalling abuse legacy clouds pope's trip as survivors pen letter seeking reparations](https://apnews.com/article/belgium-pope-abuse-vatican-c3fd9c7841fe17bd874d8ce01ed4ad19)
     * [Judge lets over 8,000 Catholic employers deny worker protections for abortion and fertility care](https://apnews.com/article/north-dakota-catholic-benefits-association-abortion-bc75f5aeac6cc89967154e0ee9ab7804)
-    * [A bitter fight between two tribes over sacred land where one built a casino](https://apnews.com/article/indigenous-oklahoma-alabama-tribal-nations-muscogee-creek-poarch-casino-02ed12bfc17353e39430e9250f3bbd7b)
-    * [Two tales from one city show the challenges Pope Francis faces to retain his flock in Europe](https://apnews.com/article/belgium-pope-bf42fb22867649ce7b14a06311656f41)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel dice que mató a alto comandante de Hezbollah mientras civiles huyen del sur del Líbano](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
-    * [Tormenta tropical Helene se forma en el Caribe, podría pasar a huracán y amenazar a Florida](https://apnews.com/world-news/general-news-aa08b60bcf4b8ffb24260595897fd01c)
+    * [Hezbollah lanza misil contra Tel Aviv en nueva escalada tras intensos ataques israelíes en Líbano](https://apnews.com/world-news/general-news-760967cc65e0847451dbf77e19a25f30)
+    * [Tormenta tropical Helene gana fuerza y activa avisos por huracán en partes de Florida y México](https://apnews.com/climate-and-environment/general-news-6ef5440e3452dc18c7ce0678c8ebadc2)
+    * [Fallos de Servicio Secreto antes del tiroteo en un mitin de Trump fueron "evitables", según pesquisa](https://apnews.com/us-news/general-news-0062d60726e9110e83ef54445c71dd95)
     * [La pandilla del Tren de Aragua comenzó en prisiones de Venezuela; ahora hay temor en EEUU](https://apnews.com/world-news/general-news-9205dc4262c36908837165392aa98bfd)
-    * [Secretario general de la ONU dice que la actual situación mundial es “insostenible”](https://apnews.com/world-news/general-news-9f98fb18737c1d8996d6d5c36ae07c64)
-    * [Lo que hay que saber mientras la tormenta tropical Helene se dirige hacia Florida](https://apnews.com/climate-and-environment/lo-que-hay-que-saber-mientras-la-tormenta-tropical-helene-se-dirige-hacia-florida-d67bfce17b9e2ea3298958ca620c41e1)
-    * [Muere Eva Vergara, periodista chilena y corresponsal de AP durante cuatro décadas](https://apnews.com/world-news/general-news-f8818f9fa736d22be2a4d84c6e7dbe07)
+    * [Reforma de la Guardia Nacional de México, en la recta final para su aprobación en el Senado](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
+    * [Trasladan a expresidente sudanés encarcelado, Omar al-Bashir, a un hospital en el norte del país](https://apnews.com/world-news/general-news-international-news-b2c466b3d9c9e71b71047e432d26f588)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -453,9 +453,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel bombards Hezbollah, killing a top commander, while families flee southern Lebanon](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce)
-    * [As Israel's fight with Hezbollah heats up, people of Gaza fear being forgotten](https://apnews.com/article/israel-hamas-gaza-war-lebanonrefugees-displaced-9d4d53e808ce5f67e234789f65d1ad71)
-    * [US Navy replenishment ship operating in Mideast was damaged after refueling warships, officials say](https://apnews.com/article/us-navy-big-horn-mideast-israel-hamas-war-2e03c24dece6807bac359bf86c5a81dd)
+    * [Israel has landed heavy blows on Hezbollah. The victory it seeks could prove elusive](https://apnews.com/article/israel-lebanon-hezbollah-conflict-military-strategy-cce53839bbcf0a9a36af45ed2fa7dbb4)
+    * [Netanyahu will address the UN as Israel, bogged down by one war, barrels toward another](https://apnews.com/article/netanyahu-speech-gaza-hezbollah-un-e761de05e4c4a7f54bfd27e8795bceb7)
+    * [Hezbollah fires a missile at Tel Aviv in deepest strike yet after Israeli bombardment of Lebanon](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
     
     Newsletters
     
@@ -471,9 +471,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Tropical Storm Helene is expected to become a hurricane. Florida residents begin evacuating](https://apnews.com/article/tropical-weather-hurricane-caribbean-c7b70ac631e5fc5df86900b6ee141fb5)
-    * [Missouri executes a man for the 1998 killing of a woman despite her family’s calls to spare his life](https://apnews.com/article/missouri-execution-marcellus-williams-8be20e2f252992610a30fa0cfef4185a)
-    * [Texas man who waived his right to appeal death sentence is executed for killing infant son](https://apnews.com/article/texas-execution-travis-mullis-son-c3494917334d5f8a94382ab9e98106cb)
+    * [Tropical Storm Helene strengthens as hurricane warnings cover parts of Florida and Mexico](https://apnews.com/article/tropical-storm-helene-john-florida-mexico-a953d0a51d219226f7d76178af2d3f4b)
+    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
+    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
     
     Newsletters
     
@@ -498,9 +498,9 @@ Submit Search
     
     TOP STORIES
     
+    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
     * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
     * [Trump will attend Al Smith charity dinner that Harris is skipping to campaign in battleground state](https://apnews.com/article/donald-trump-al-smith-dinner-29262d451fba2b564b39d8309a504a88)
-    * [Trump calls for 100% tariffs on cars made in Mexico as part of US manufacturing plan](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
     
     Newsletters
     
@@ -523,9 +523,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Man who staked out Trump at Florida golf course charged with attempting an assassination](https://apnews.com/article/trump-fbi-assassination-attempt-indictment-b4c956e1a126e4acfb3c4eae0c06ddb1)
-    * [Biden in farewell U.N. address says peace still possible in conflicts in Mideast and Ukraine](https://apnews.com/article/biden-un-general-assembly-ukraine-israel-gaza-4e4e839c3cdd4edd7543aea84af2346f)
-    * [US to send $375 million in military aid to Ukraine, including medium-range cluster bombs](https://apnews.com/article/ukraine-russia-war-weapons-missiles-a4a109e2eb4581e59d5d1455deb92b09)
+    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
+    * [Trump tells women he 'will be your protector' as GOP struggles with outreach to female voters](https://apnews.com/article/trump-women-protector-abortion-election-697ce355f7386bfd192b99bb00322705)
+    * [Jimmy Carter as a power-playing loner from the farm to the White House and on the global stage](https://apnews.com/article/jimmy-carter-outsider-legacy-birthday-100-d686b420122566f0ce741646165e0b66)
     
     Newsletters
     
@@ -554,8 +554,8 @@ Submit Search
     TOP STORIES
     
     * [Retired NFL quarterback Brett Favre says he has Parkinson's disease](https://apnews.com/article/brett-favre-parkinsons-congress-mississippi-welfare-fraud-4d1635ac54ee5ab156fd2825fcd29430)
-    * [Tennessee football's 10% talent fee opens discussion of how many schools and sports will follow](https://apnews.com/article/nil-tennessee-volunteers-college-football-a0cb27d19f081f449dc6c8c0fd960eb4)
     * [Pac-12 files a federal lawsuit against Mountain West over $43 million in 'poaching' penalties](https://apnews.com/article/pac12-mountain-west-lawsuit-ceabcf381da0cec1dc5dc0e4f58c5c36)
+    * [Padres turn triple play to clinch playoff spot with 4-2 win over Dodgers](https://apnews.com/article/padres-clinch-playoff-berth-2217023d13899d5f01e1092abbd82183)
     
     Newsletters
     
@@ -582,8 +582,8 @@ Submit Search
     
     TOP STORIES
     
+    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
     * [Francis Ford Coppola's 'Megalopolis' is one from the heart](https://apnews.com/article/megalopolis-francis-ford-coppola-interview-5bc787e614b956a4bb9c566b09000165)
-    * [John Leguizamo reaches back in time to reclaim Latin American history for a PBS documentary series](https://apnews.com/article/john-leguizamo-pbs-voces-american-historia-7a066a41cf0bb4d2a18c2801cd78a0d8)
     * [Woman alleges Sean 'Diddy' Combs raped her on video in latest lawsuit](https://apnews.com/article/sean-combs-diddy-lawsuit-1e2b124ba85ebf1b4f1e93c8692aab4b)
     
 * [Business](https://apnews.com/business)
@@ -598,9 +598,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Strike by more than 1,000 Samsung workers enters a third week in India](https://apnews.com/article/samung-strike-india-a61306e6c8d8a37713daa0345077e8f8)
+    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
     * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
-    * [Trump calls for 100% tariffs on cars made in Mexico as part of US manufacturing plan](https://apnews.com/article/trump-foreign-companies-investment-cb60395d632e7eaa2a398abcf616d1be)
-    * [Judge to approve auctions liquidating Alex Jones' Infowars to help pay Sandy Hook families](https://apnews.com/article/alex-jones-infowars-bankruptcy-sandy-hook-shooting-9052caad16dcdfd3bff0697454394d9f)
     
 * [Science](https://apnews.com/science)
     
@@ -719,9 +719,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Deadly flooding in Central Europe made twice as likely by climate change](https://apnews.com/article/central-europe-european-union-floods-climate-change-damage-rain-5e90744008e4bc1404bbfd181f09b32f)
     * [In the gateway to the Arctic, fat, ice and polar bears are crucial. All three are in trouble](https://apnews.com/article/polar-bear-arctic-climate-change-whale-fat-938de0e1662eed4d01a747708b82e539)
     * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
-    * [Tugboat powered by ammonia sails for the first time, showing how to cut emissions from shipping](https://apnews.com/article/ammonia-fuel-diesel-amogy-shipping-60beccfb8894c79ddc624026fbf0a8e5)
     
 * [Health](https://apnews.com/health)
     
@@ -732,7 +732,7 @@ Submit Search
     * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
     * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
     * [Two Georgia deaths are tied to abortion restrictions. Experts say abortion pills they took are safe](https://apnews.com/article/abortion-pills-georgia-mifepristone-misoprostol-kamala-harris-fd3c817f42ccc74b04d12450efb92f4a)
-    * [Senate chairman demands answers from emergency rooms that denied care to pregnant patients](https://apnews.com/article/emergency-abortions-hospitals-pregnancy-senate-2b05c1dd929981afca79d68ec2e0a86a)
+    * [Sepsis and malnutrition stalk the new mothers and babies of South Darfur](https://apnews.com/article/sudan-war-malnutrition-maternal-deaths-darfur-ed8235d3b11a4a6ea2fcf27b7013d20c)
     
 * [Tech](https://apnews.com/technology)
     
@@ -745,9 +745,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
     * [Video game actors' union calls for strike against 'League of Legends'](https://apnews.com/article/sagaftra-formosa-interactive-league-of-legends-49c2552fe96afaa04c59ddddcd9703b5)
     * [TikTok removes Russian state media accounts for 'covert influence operations' ahead of US election](https://apnews.com/article/tiktok-russia-media-election-interference-abd51ba03af439cf272888556f424d38)
-    * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -765,17 +765,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
+    * [As an era ends, the city that was home to the Oakland A's comes to grips with their departure](https://apnews.com/article/oakland-athletics-baseball-final-season-9c3667e53de52b28209a9bed640f2196)
     * [Department of Justice sues Visa, alleges the card issuer monopolizes debit card markets](https://apnews.com/article/visa-antitrust-justice-department-debit-card-fees-d139de6d803e55a00ab4987ef867c3a4)
-    * [Dior's sporty elegance and urban grit hits Paris Fashion Week](https://apnews.com/article/france-paris-fashion-week-dior-018da20515aed66866a7aa08802087b9)
-    * [Prince Harry says harms of social media have created an 'epidemic' for today's youth](https://apnews.com/article/prince-harry-clinton-global-initiative-archewell-foundation-cd5ab9d7b12dbbca8c3ab3be860cbf28)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Their churches no longer feel safe. Now Nicaraguans are taking their worship home](https://apnews.com/article/nicaragua-religion-religious-freedom-evangelical-churches-7710b23b748dfc9b2d7975cd8dd81b35)
+    * [Belgium's appalling abuse legacy clouds pope's trip as survivors pen letter seeking reparations](https://apnews.com/article/belgium-pope-abuse-vatican-c3fd9c7841fe17bd874d8ce01ed4ad19)
     * [Judge lets over 8,000 Catholic employers deny worker protections for abortion and fertility care](https://apnews.com/article/north-dakota-catholic-benefits-association-abortion-bc75f5aeac6cc89967154e0ee9ab7804)
-    * [A bitter fight between two tribes over sacred land where one built a casino](https://apnews.com/article/indigenous-oklahoma-alabama-tribal-nations-muscogee-creek-poarch-casino-02ed12bfc17353e39430e9250f3bbd7b)
-    * [Two tales from one city show the challenges Pope Francis faces to retain his flock in Europe](https://apnews.com/article/belgium-pope-bf42fb22867649ce7b14a06311656f41)
     
     Newsletters
     
@@ -789,12 +789,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel dice que mató a alto comandante de Hezbollah mientras civiles huyen del sur del Líbano](https://apnews.com/world-news/general-news-8bbb0298b38d8888e50a49cc83620776)
-    * [Tormenta tropical Helene se forma en el Caribe, podría pasar a huracán y amenazar a Florida](https://apnews.com/world-news/general-news-aa08b60bcf4b8ffb24260595897fd01c)
+    * [Hezbollah lanza misil contra Tel Aviv en nueva escalada tras intensos ataques israelíes en Líbano](https://apnews.com/world-news/general-news-760967cc65e0847451dbf77e19a25f30)
+    * [Tormenta tropical Helene gana fuerza y activa avisos por huracán en partes de Florida y México](https://apnews.com/climate-and-environment/general-news-6ef5440e3452dc18c7ce0678c8ebadc2)
+    * [Fallos de Servicio Secreto antes del tiroteo en un mitin de Trump fueron "evitables", según pesquisa](https://apnews.com/us-news/general-news-0062d60726e9110e83ef54445c71dd95)
     * [La pandilla del Tren de Aragua comenzó en prisiones de Venezuela; ahora hay temor en EEUU](https://apnews.com/world-news/general-news-9205dc4262c36908837165392aa98bfd)
-    * [Secretario general de la ONU dice que la actual situación mundial es “insostenible”](https://apnews.com/world-news/general-news-9f98fb18737c1d8996d6d5c36ae07c64)
-    * [Lo que hay que saber mientras la tormenta tropical Helene se dirige hacia Florida](https://apnews.com/climate-and-environment/lo-que-hay-que-saber-mientras-la-tormenta-tropical-helene-se-dirige-hacia-florida-d67bfce17b9e2ea3298958ca620c41e1)
-    * [Muere Eva Vergara, periodista chilena y corresponsal de AP durante cuatro décadas](https://apnews.com/world-news/general-news-f8818f9fa736d22be2a4d84c6e7dbe07)
+    * [Reforma de la Guardia Nacional de México, en la recta final para su aprobación en el Senado](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
+    * [Trasladan a expresidente sudanés encarcelado, Omar al-Bashir, a un hospital en el norte del país](https://apnews.com/world-news/general-news-international-news-b2c466b3d9c9e71b71047e432d26f588)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
