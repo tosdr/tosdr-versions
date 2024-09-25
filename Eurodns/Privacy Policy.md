@@ -279,10 +279,10 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 #### Latest blog articles
 
+* 24.09.2024[Price change for multiple domain extensions as of 1st October 2024](https://www.eurodns.com/blog/price-change-for-multiple-domain-extensions-as-of-1st-october)
 * 19.09.2024[WordPress vs. Plesk Hosting: Which is Best for Your Website in 2024?](https://www.eurodns.com/blog/wordpress-vs-plesk-hosting-comparison)
 * 13.09.2024[DNS Records Explained: A Beginner’s Guide](https://www.eurodns.com/blog/dns-records-explained)
 * 05.09.2024[Plesk Hosting: The Ultimate Solution for Educational Websites](https://www.eurodns.com/blog/plesk-hosting-for-education)
-* 29.08.2024[5 Email Marketing Tips to Boost Your Ecommerce Sales](https://www.eurodns.com/blog/email-marketing-tips-boost-ecommerce-sales)
 
 #### Domain Name Discounts
 
