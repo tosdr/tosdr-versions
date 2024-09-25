@@ -212,9 +212,7 @@ Subscribe to our PLAYMOBIL newsletter and receive a 15% off Welcome Coupon.
     
 * Catalog
     
-    * [Online Catalog](https://playmobil.a.bigcontent.io/v1/static/FINAL_WEB_Cosumer%20Catalog_2%202024_USA_MEX)
-    * [PLAYMOBIL PLUS Catalog](https://playmobil.a.bigcontent.io/v1/static/FiNAL_WEB_USA_Mexico_DS_2024_from_04.04.2024)
-    * [JUNIOR Catalog](https://playmobil.a.bigcontent.io/v1/static/FINAL_WEB_USA_Junior_Katalog_2024_ONLINE_ohne_Tinti_1)
+    * [Catalogs](https://www.playmobil.com/en-us/content/catalog/catalog.html)
     
 * More
     
