@@ -104,8 +104,6 @@ For Fundraising Campaigns we must be highly confident all aspects of the campaig
 * Headset Ico [800-293-4232](tel:800-293-4232)
 * Email Icon Send us an Email
 
-* [Custom Apparel](https://www.customink.com/ink/apparel)
-* [Custom Koozies](https://www.customink.com/custom/custom-koozies)
 * [Custom Products](https://www.customink.com/ink/custom-products)
 * [Promotional Items](https://www.customink.com/products/promotional-products/218)
 * [Site Map](https://www.customink.com/ink/sitemap)
