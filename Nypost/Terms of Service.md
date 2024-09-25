@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Tropical storm Helene on track to become major hurricane as it approaches Florida](https://nypost.com/2024/09/25/us-news/tropical-storm-helene-on-track-to-become-major-hurricane-as-it-approaches-florida/)
+[Trump announces return to Butler, Pennsylvania — site of first assassination attempt](https://nypost.com/2024/09/25/us-news/trump-announces-return-to-butler-pa-site-of-first-assassination-attempt/)
 
 Terms Of Use
 ============
