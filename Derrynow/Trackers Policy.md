@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![County Derry McDonald's restaurant ranked third best in the UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry McDonald's restaurant ranked third best in the UK")](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
-
-McDonald's
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry McDonald's restaurant ranked third best in the UK](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man jailed for exposing himself to two nurses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for exposing himself to two nurses")](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PSNI cordon Carnhill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI cordon Carnhill")](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
 
 Police cordon following the incident in Carnhill where a number of houses were evacuated.
@@ -291,15 +275,6 @@ Police cordon following the incident in Carnhill where a number of houses were e
 [Derry Death Notices - Wednesday, 25th September 2024](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man accused of 'completely reckless and wholly dangerous' driving remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man accused of 'completely reckless and wholly dangerous' driving remanded")](https://www.derrynow.com/news/local-news/1612824/man-accused-of-completely-reckless-and-wholly-dangerous-driving-remanded.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man accused of 'completely reckless and wholly dangerous' driving remanded](https://www.derrynow.com/news/local-news/1612824/man-accused-of-completely-reckless-and-wholly-dangerous-driving-remanded.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Three vehicles damaged in Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three vehicles damaged in Derry security alert")](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
 
 Police cordon following the incident in Carnhill where a number of houses were evacuated. Residents have now returned to their premises.
@@ -309,12 +284,12 @@ Police cordon following the incident in Carnhill where a number of houses were e
 [Three vehicles damaged in Derry security alert](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1613597/family-call-for-fresh-inquest-into-death-of-donegal-man-in-altnagelvin-hospital.html)
+[![PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction")](https://www.derrynow.com/news/national-news/1613982/pictures-bargain-alert-as-bord-na-mona-machines-go-under-the-hammer-at-huge-auction.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1613597/family-call-for-fresh-inquest-into-death-of-donegal-man-in-altnagelvin-hospital.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction](https://www.derrynow.com/news/national-news/1613982/pictures-bargain-alert-as-bord-na-mona-machines-go-under-the-hammer-at-huge-auction.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with possessing firearm in public](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing firearm in public")](https://www.derrynow.com/news/local-news/1613746/derry-man-charged-with-possessing-firearm-in-public.html)
 
@@ -325,6 +300,13 @@ Derry Magistrate's Court
 [Derry man charged with possessing firearm in public](https://www.derrynow.com/news/local-news/1613746/derry-man-charged-with-possessing-firearm-in-public.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1613597/family-call-for-fresh-inquest-into-death-of-donegal-man-in-altnagelvin-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1613597/family-call-for-fresh-inquest-into-death-of-donegal-man-in-altnagelvin-hospital.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man due in Derry Court charged with series of drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due in Derry Court charged with series of drug offences")](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -332,18 +314,48 @@ Derry Magistrate's Court
 [Man due in Derry Court charged with series of drug offences](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Generous donation made to North West Cancer Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Generous donation made to North West Cancer Centre")](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
+[![Derry man charged with possessing nunchucks and knuckle dusters returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing nunchucks and knuckle dusters returned for trial")](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Generous donation made to North West Cancer Centre](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with possessing nunchucks and knuckle dusters returned for trial](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Wolverhampton Wanderers sign talented Derry City teenager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Wolverhampton Wanderers sign talented Derry City teenager")](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
+
+Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Special Translink FAI Cup Semi Final coach for Derry City FC fans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Special Translink FAI Cup Semi Final coach for Derry City FC fans")](https://www.derrynow.com/news/derry-sport/1613814/special-translink-fai-cup-semi-final-coach-for-derry-city-fc-fans.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Special Translink FAI Cup Semi Final coach for Derry City FC fans](https://www.derrynow.com/news/derry-sport/1613814/special-translink-fai-cup-semi-final-coach-for-derry-city-fc-fans.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: Limavady Grammar School Prize Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Limavady Grammar School Prize Day")](https://www.derrynow.com/news/pictures---videos/1614105/pictures-limavady-grammar-school-prize-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Limavady Grammar School Prize Day](https://www.derrynow.com/news/pictures---videos/1614105/pictures-limavady-grammar-school-prize-day.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Reception for United Against Racism Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Reception for United Against Racism Derry")](https://www.derrynow.com/story-telling/pictures---videos/1614085/in-pictures-reception-for-united-against-racism-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Reception for United Against Racism Derry](https://www.derrynow.com/story-telling/pictures---videos/1614085/in-pictures-reception-for-united-against-racism-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry")](https://www.derrynow.com/news/pictures---videos/1613883/pictures-ni-food-to-go-roadshow-serves-up-innovation-in-derry.html)
 
@@ -402,20 +414,6 @@ Elodie Bateson from Limavady
 
 [IN PICTURES: Prizegiving at St Patrick's College, Maghera](https://www.derrynow.com/story-telling/pictures---videos/1612630/in-pictures-prizegiving-at-st-patrick-s-college-maghera.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt")](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,55 +515,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Have you registered? Foyle Hospice Male Walk/Run returns this weekend!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Have you registered? Foyle Hospice Male Walk/Run returns this weekend!")](https://www.derrynow.com/news/local-news/1613888/have-you-registered-foyle-hospice-male-walk-run-returns-this-weekend.html)
+[![Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh")](https://www.derrynow.com/news/home/1614022/dungiven-campaign-group-react-angrily-to-plans-to-erect-more-wind-turbines-on-benbradagh.html)
+
+Members of the Dungiven community stage a protest outside the public consultation event for another proposed windfarm on Benbradagh.
+
+[Home](https://www.derrynow.com/)
+
+[Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh](https://www.derrynow.com/news/home/1614022/dungiven-campaign-group-react-angrily-to-plans-to-erect-more-wind-turbines-on-benbradagh.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Northern Ireland deals ‘left in limbo-land’ over funding pause](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Northern Ireland deals ‘left in limbo-land’ over funding pause")](https://www.derrynow.com/news/local-news/1614405/northern-ireland-deals-left-in-limbo-land-over-funding-pause.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Have you registered? Foyle Hospice Male Walk/Run returns this weekend!](https://www.derrynow.com/news/local-news/1613888/have-you-registered-foyle-hospice-male-walk-run-returns-this-weekend.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Northern Ireland deals ‘left in limbo-land’ over funding pause](https://www.derrynow.com/news/local-news/1614405/northern-ireland-deals-left-in-limbo-land-over-funding-pause.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New cross-departmental strategy aims to crack down on domestic and sexual abuse](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New cross-departmental strategy aims to crack down on domestic and sexual abuse")](https://www.derrynow.com/news/local-news/1613890/new-cross-departmental-strategy-aims-to-crack-down-on-domestic-and-sexual-abuse.html)
+[![Derry gets a taste for innovation at NI Food To Go Roadshow](https://www.derrynow.com/resizer/165/93/true/2024_09_25/MixCollage-25-Sep-2024-12-51-PM-5949-1727265183625.jpg--.jpg?1727265183686 "Derry gets a taste for innovation at NI Food To Go Roadshow")](https://www.derrynow.com/news/home/1613946/derry-gets-a-taste-for-innovation-at-ni-food-to-go-roadshow.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[New cross-departmental strategy aims to crack down on domestic and sexual abuse](https://www.derrynow.com/news/local-news/1613890/new-cross-departmental-strategy-aims-to-crack-down-on-domestic-and-sexual-abuse.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry gets a taste for innovation at NI Food To Go Roadshow](https://www.derrynow.com/news/home/1613946/derry-gets-a-taste-for-innovation-at-ni-food-to-go-roadshow.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/resizer/165/93/true/2024_09_25/2509-odonnell-1170x658-1727262466330.jpg--.jpg?1727262466355 "Wolverhampton Wanderers sign talented Derry City teenager")](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
+[![Former Taoiseach Leo Varadkar to address New Ireland Commission event in Derry](https://www.derrynow.com/resizer/165/93/true/2024_09_25/images-1727274316241.jpg--.jpg?1727274316256 "Former Taoiseach Leo Varadkar to address New Ireland Commission event in Derry")](https://www.derrynow.com/news/local-news/1614192/former-taoiseach-leo-varadkar-to-address-new-ireland-commission-event-in-derry.html)
 
-Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Green light for NWRC’s new sports club initiative](https://www.derrynow.com/resizer/165/93/true/2024_09_25/Green_clubs_1-1727261459056.jpg--.jpg?1727261459672 "Green light for NWRC’s new sports club initiative")](https://www.derrynow.com/news/local-news/1613859/green-light-for-nwrcs-new-sports-club-initiative.html)
-
-Mary Claire Kerlin, Peace Plus, Francine Moran, Sustainability Champion and lecturer at NWRC, and Cathy Burns, Derry and Strabane District Council, pictured at the launch of the Green Clubs project
+Foyle MP Colum Eastwood and former Taoiseach Leo Varadkar
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Green light for NWRC’s new sports club initiative](https://www.derrynow.com/news/local-news/1613859/green-light-for-nwrcs-new-sports-club-initiative.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Former Taoiseach Leo Varadkar to address New Ireland Commission event in Derry](https://www.derrynow.com/news/local-news/1614192/former-taoiseach-leo-varadkar-to-address-new-ireland-commission-event-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Three vehicles damaged in Derry security alert](https://www.derrynow.com/resizer/165/93/true/2024_09_25/460212661_406576575527281_1049750163750796486_n-1727264279552.jpg--.jpg?1727264279599 "Three vehicles damaged in Derry security alert")](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
-
-Police cordon following the incident in Carnhill where a number of houses were evacuated. Residents have now returned to their premises.
+[![Derry Includes Youth with funding from Tesco](https://www.derrynow.com/resizer/165/93/true/2024_09_25/MixCollage-25-Sep-2024-09-57-AM-5230-1727255055127.jpg--.jpg?1727255055252 "Derry Includes Youth with funding from Tesco")](https://www.derrynow.com/news/local-news/1611765/derry-includes-youth-drop-in-programme-awarded-funding-from-tesco.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Three vehicles damaged in Derry security alert](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Include Youth drop-in programme awarded funding from Tesco](https://www.derrynow.com/news/local-news/1611765/derry-includes-youth-drop-in-programme-awarded-funding-from-tesco.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Concerns raised over illegal fireworks in Derry](https://www.derrynow.com/resizer/165/93/true/2024_09_25/ca-times.brightspotcdn-1727261033206.jpg--.jpg?1727261033234 "Concerns raised over illegal fireworks in Derry")](https://www.derrynow.com/news/local-news/1613848/concerns-raised-over-illegal-fireworks-in-derry.html)
+[![Derry gets set to host the Carnival of the Dead this Halloween](https://www.derrynow.com/resizer/165/93/true/2024_09_25/2409LDP016-1727263772496.JPG--.JPG?1727263774324 "Derry gets set to host the Carnival of the Dead this Halloween")](https://www.derrynow.com/news/local-news/1613904/derry-gets-set-to-host-the-carnival-of-the-dead-this-halloween.html)
 
-Illegal fireworks
+Jacqueline Whoriskey with Jim Collins, officially launching the parade in the terrifying tunnels of the Tower Museum . PHOTO: Lorcan Doherty
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Concerns raised over illegal fireworks in Derry](https://www.derrynow.com/news/local-news/1613848/concerns-raised-over-illegal-fireworks-in-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry gets set to host the Carnival of the Dead this Halloween](https://www.derrynow.com/news/local-news/1613904/derry-gets-set-to-host-the-carnival-of-the-dead-this-halloween.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
