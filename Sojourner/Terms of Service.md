@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a2abf07bfe29913de2d587c59b90f3f8
+fe77a1b9630a8bc3992442fca9aec94c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm blue striped heart beads](https://sojourner.biz/images/cache/glass/HRT012.200.jpg)](https://sojourner.biz/beads/glass/6-mm-blue-striped-heart-beads.html "6 mm blue striped heart beads")
+[![Round wing butterfly clasp](https://sojourner.biz/images/cache/SKU0195front.200.jpg)](https://sojourner.biz/clasps/sterling-only/round-wing-butterfly-clasp.html "Round wing butterfly clasp")
 
-#### [6 mm blue striped heart beads](https://sojourner.biz/beads/glass/6-mm-blue-striped-heart-beads.html "6 mm blue striped heart beads")
+#### [Round wing butterfly clasp](https://sojourner.biz/clasps/sterling-only/round-wing-butterfly-clasp.html "Round wing butterfly clasp")
 
-$2.00
+$28.00
 
 ### Best Sellers
 
