@@ -8,17 +8,17 @@
     
     [Survey tool
     
-    Create interactive surveys, modern forms or playful quizzes – it’s easy.
+    Create modern surveys, questionnaires or quizzes on any topic you like
     
      ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/umfragetool/) [Chat survey
     
-    Turn surveys into dialogue-oriented communication with chatbots and AI analyses
+    Next-level chat questions with AI interpretation of the results
     
-    ![Next-Level AI-Analysen mit Chat-Umfragen​](https://easy-feedback.com/wp-content/uploads/2024/09/Next-Level-AI-Analysen-mit-Chat-Umfragen​.png)](https://easy-feedback.com/chat-surveys/)[Result Studio
+    ![Chatbot example of a satisfaction survey](https://easy-feedback.com/wp-content/uploads/2024/05/Chatbot-example-of-a-satisfaction-survey.png)](https://easy-feedback.com/chat-surveys/)[Result Studio
     
-    Create interactive, AI-powered reports, analyze your data and share your insights.
+    Create interactive reports with AI analyses from any surveys
     
-     ![Analysiere und Teile Ergebnisse mit dem Result STUDIO von easyfeedback](https://easy-feedback.com/wp-content/uploads/2024/01/Analysiere-und-teile-deine-Ergebnisse.jpg)](https://easy-feedback.com/result-studio/) 
+    ![Exemplary representation of the data in the Result Studio](https://easy-feedback.com/wp-content/uploads/2024/05/Exemplary-representation-of-the-data-in-the-Result-Studio.png)](https://easy-feedback.com/result-studio/)
     
     It’s so easy to get started with easyfeedback
     
