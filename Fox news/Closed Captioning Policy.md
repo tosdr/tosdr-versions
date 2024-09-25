@@ -156,7 +156,7 @@
 
 * [Daily Crossword Puzzle](http://www.foxnews.com/daily-crossword-puzzle)
 * [Crazy Crystals Match 3 Game](http://www.foxnews.com/crazy-crystals-match-3-game)
-* [Word Scramble](http://www.foxnews.com/word-scramble)
+* [Word Search](http://www.foxnews.com/word-search)
 * [Mini Crossword Puzzle](http://www.foxnews.com/mini-crossword-puzzle)
 * [Stack and Match Block Puzzle](http://www.foxnews.com/stack-match-block-puzzle-game)
 * [5 Across the Letter Word Game](http://www.foxnews.com/5-across-word-game)
@@ -335,7 +335,7 @@ Written complaints concerning captioning on Fox News programs made available onl
 
 * [Daily Crossword Puzzle](http://www.foxnews.com/daily-crossword-puzzle)
 * [Crazy Crystals Match 3 Game](http://www.foxnews.com/crazy-crystals-match-3-game)
-* [Word Scramble](http://www.foxnews.com/word-scramble)
+* [Word Search](http://www.foxnews.com/word-search)
 * [Mini Crossword Puzzle](http://www.foxnews.com/mini-crossword-puzzle)
 * [Stack and Match Block Puzzle](http://www.foxnews.com/stack-match-block-puzzle-game)
 * [5 Across the Letter Word Game](http://www.foxnews.com/5-across-word-game)
