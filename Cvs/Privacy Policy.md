@@ -10,7 +10,7 @@
 Privacy Policy
 ==============
 
-Effective Date: July 1, 2024
+Effective Date: March 26, 2024
 
   
 
@@ -49,11 +49,9 @@ table of contents
 12. [Your California privacy rights](#sec12)
 13. [Your Colorado privacy rights](#sec13)
 14. [Your Connecticut privacy rights](#sec14)
-15. [Your Oregon privacy rights](#sec15)
-16. [Your Texas privacy rights](#sec16)
-17. [Your Utah privacy rights](#sec17)
-18. [Your Virginia privacy rights](#sec18)
-19. [Your Washington privacy rights](#sec19)
+15. [Your Utah privacy rights](#sec15)
+16. [Your Virginia privacy rights](#sec16)
+17. [Your Washington privacy rights](#sec17)
 
   
 
@@ -103,7 +101,7 @@ table of contents
     * Inferences about you, such as head of household or caregiver status
     * Your social media account information if you share it with us
     * Images you provide to us (e.g., when you upload photos) or that are viewed or recorded on an in-store security camera
-    * Health information you provide us based on your participation with certain programs, your interactions with our Pharmacy or information made available via connected health devices (e.g., smart watches, health apps
+    * Health information you provide us based on your participation with certain programs
     * Biometric information which may include voice recognition voice recognition information, facial scans, and/or other similar biometric identifiers
     * Professional or employment-related information, such as whether you are a CVS Health colleague
     * Other information you provide to us
@@ -267,10 +265,6 @@ table of contents
     
       
     
-    In addition, you may opt out of the collection and use of your personal information for ad targeting by Google Ad Manager on CVS.com and the CVS mobile app. You can opt out of this ad targeting powered by Google Ad Manager by filling out this [webform](https://www.cvs.com/shop/compliance-optout).
-    
-      
-    
     Even if you opt out of receiving targeted ads, you may still see or get other types of online ads.
     
       
@@ -327,6 +321,10 @@ table of contents
     
 12. Your California privacy rights
     ------------------------------
+    
+    Last Updated: March 26, 2024
+    
+      
     
     This section supplements the CVS Pharmacy Privacy Policy and applies solely to California residents about whom we have collected personal information from any source, including through the use of our website(s), mobile applications or other online services, by buying our products or services, or by communicating with us electronically, in paper correspondence, or in person (collectively, "you"). Under the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (the “CCPA”), California residents have the right to receive certain disclosures regarding our information practices related to “personal information,” as defined under the CCPA. The terms used in this section have the same meaning given to them in the CCPA.
     
@@ -469,7 +467,7 @@ table of contents
         
           
         
-        You may also give someone else permission to exercise these rights for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287). We will need proof showing you have asked someone else to make a request on your behalf, which may include a Power of Attorney form or other signed document.
+        You may also give someone else permission to exercise these rights for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287). We will need proof showing you have asked someone else to make a request on your behalf, which may include a Power of Attorney form or other signed document. If we have information on your minor child, you may exercise these rights for them.
         
           
         
@@ -585,7 +583,7 @@ table of contents
         
     11. ### CCPA reporting metrics
         
-        To learn more about the consumer requests that CVS has processed in the past calendar year, click [here](https://www.cvs.com/bizcontent/general/policy/pdf/consumer-request-metrics-disclosure_calendar_year_2023_1_.pdf).
+        To learn more about the consumer requests that CVS has processed in the past calendar year, click [here](https://www.cvs.com/bizcontent/general/policy/pdf/consumer-request-metrics-disclosure_calendar%20year%202022.pdf).
         
           
         
@@ -781,7 +779,7 @@ table of contents
         
           
         
-        You may also give someone else permission to exercise the right to opt out sale or targeted advertising for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287).
+        You may also give someone else permission to exercise the right to opt out sale or targeted advertising for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287). If we have information on your minor child, you may exercise these rights for them.
         
           
         
@@ -876,227 +874,11 @@ table of contents
         
           
         
-        You may also give someone else permission to exercise the right to opt out sale or targeted advertising for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287).
+        You may also give someone else permission to exercise the right to opt out sale or targeted advertising for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287). If we have information on your minor child, you may exercise these rights for them.
         
           
         
-15. Your Oregon privacy rights
-    --------------------------
-    
-    Under the Oregon Consumer Privacy Act (“OCPA”), Oregon residents have the right to receive certain disclosures regarding a business’ processing of “personal data,” as defined under the OCPA, as well as certain rights with respect to our processing of such personal data. To the extent you are a resident of Oregon and we collect, use or disclose personal data subject to the OCPA, the following applies. For more information about the personal data we collect, use and disclose, please see Sections 2-5 above.
-    
-      
-    1. ### What sensitive data we collect
-        
-        We may collect the following categories of sensitive data (as enumerated in the OCPA) about you. For more information about the personal data we collect, please see Section 2 above.
-        
-          
-        
-        * Physical health condition or diagnosis, which may include your interactions with our Pharmacy or information made available via connected health devices (e.g., smart watches, health apps).
-        * Biometric information, which may include voice recognition information, facial scans, and/or other similar biometric identifiers.
-        * Racial or ethnic origin, citizenship or immigration status, such as information that reveals your race or nationality.
-        * Precise geolocation data, which may include Global Positioning System ("GPS") data or in-store location.
-        
-          
-        
-    2. ### Your privacy rights
-        
-        If you are an Oregon resident, you have the following rights under the OCPA with respect to your personal data.
-        
-          
-        
-        * Right to know/ access. You have the right to confirm whether or not we are processing your personal data, obtain the categories of personal data processed, obtain a list of third parties to which personal data is disclosed, and to access such personal data.
-        * Right of portability. You may have the right to obtain a copy of the personal data that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit your personal data to another controller or business where the processing is carried out by automated means.
-        * Right to delete. You have the right to ask us to delete certain personal data we have collected about you.
-        * Right to correction. You have the right to ask us to correct inaccuracies in the personal data we have collected.
-        * Right to opt out of sale and profiling. Under the OCPA, a “sale” includes exchanging personal data with a third party in exchange for monetary or other valuable consideration. [Please see our Notice of Right to Opt-Out here](#notice_right15E). OCPA provides the right to opt out of the processing of personal data for decisions that produce legal or similarly significant effects concerning you. We do not process personal data for such profiling.
-        * Right to opt out of targeted advertising. You have the right to opt out of targeted advertising based on your personal data. To opt out of targeted marketing, please see our [Notice of Right to Opt-Out here](#notice_right15E).
-        
-          
-        
-    3. ### How to submit a request
-        
-        If you are an Oregon consumer and wish to exercise these rights, you can reach us in one of the ways shown below.
-        
-          
-        
-        Right to Know/ Access / Portability / Delete / Correct:
-        
-          
-        
-        * ExtraCare account only [interactive webform](https://www.cvs.com/extracare/consumerprivacy/)
-        * CVS.com account password-protected web portal (includes ExtraCare, if linked): [Sign in here](https://www.cvs.com/account/login/)
-        * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
-        
-          
-        
-        See Section 15(E) for instructions on how to opt-out of targeted advertising.
-        
-          
-        
-    4. ### Verifying requests
-        
-        Before we fulfill a request, we must verify your identity and ability to exercise these rights. There are also some exclusions and exceptions that may apply. So that we can verify your identity, if you have a CVS.com account, you will need to first sign into your account. If you do not have a CVS.com account, you will be asked to give us certain personal data via webform or on the phone, as described above. If you do not have a CVS.com account and request access to, correction or deletion of your personal data, we may require you to provide any of the following information: ExtraCare number, full legal name, email address, and/or phone number. In addition, if you do not have a CVS.com account and you ask us to provide you with specific pieces of personal data, we may require you to sign a declaration under penalty of perjury that you are the consumer whose personal data is the subject of the request.
-        
-          
-        
-        To learn more about this Privacy Policy, or if you have any questions or concerns, [Contact Us](https://www.cvs.com/retail/help/help_contact_us).
-        
-          
-        
-    5. ### Notice of right to opt-out
-        
-        If you wish to opt out of processing of personal data that is gathered when you visit our websites and other web-based services for purposes of targeted digital advertising, you may do so in one of the ways described below.
-        
-          
-        
-        * Fill out [this interactive webform](https://www.cvs.com/account/compliance/do-not-sell)
-        * Call us at [](tel:1-800-746-7287)1-800-SHOP-CVS (1-800-746-7287)
-        
-          
-        
-        The effectiveness of your opt-out request may be limited by our ability to associate the cookies and/or pixels that we may collect with your identity, browser, device and/or browsing session. As a result, your opt-out request will be more effective for future visits if you:
-        
-          
-        
-        * Use the same device that was used to exercise the opt-out request
-        * Have not cleared cookies from your web browser
-        * Are not using a private mode in your web browser
-        * Provide the same personal data that you provided previously
-        
-          
-        
-        We encourage you to re-submit opt-out requests from any other devices that you may be using to visit our websites, mobile applications and other web-based services. If you sign up and log in to your CVS.com account, we will be able to associate you more easily with your visits to our websites, mobile applications and other web-based services. This will also allow us to apply a more persistent opt-out request across devices, browsers and browsing sessions, subject to the above limitations.
-        
-          
-        
-        You also have the right to opt-out of targeted advertising using your personal data, including through the use of a universal opt-out mechanism. If our website detects that your browser is transmitting a universal opt-out mechanism, such as the “global privacy control” —or GPC— signal, we will opt that browser out of cookies on our website that result in a disclosure for targeted advertising of your personal data. Please note, if you come to our website from a different device or a different browser on the same device, you will need to opt out, or use an opt-out preference signal, for that browser and/or device as well.
-        
-          
-        
-        You may also give someone else permission to exercise the right to opt out sale or targeted advertising for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287).
-        
-          
-        
-    6. ### Process to appeal a decision related to your rights
-        
-        If we refused to fulfill your request to exercise your privacy rights in Section 15(B), above, you may appeal this decision by contacting us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com). We will respond to your request within 45 days of receipt of your appeal with an explanation about our decision to fulfill or refuse your request.
-        
-          
-        
-        You may contact the Oregon Attorney General to file a complaint related to the denial of your request by phone at [1-503-378-4400](tel:1-503-378-4400).
-        
-          
-        
-16. Your Texas privacy rights
-    -------------------------
-    
-    Under the Texas Data Privacy and Security Act (“TDPSA”), Texas residents have the right to receive certain disclosures regarding a business’ processing of “personal data,” as defined under the TDPSA, as well as certain rights with respect to our processing of such personal data. To the extent you are a resident of Texas, and we collect, use or disclose personal data subject to the TDPSA, the following applies. For more information about the personal data we collect, use and disclose, please see Sections 2-5 above.
-    
-      
-    1. ### What sensitive data we collect
-        
-        We may collect the following categories of sensitive data (as enumerated in the TDPSA) about you. For more information about the personal data we collect, please see Section 2 above.
-        
-          
-        
-        * Physical health diagnosis, which may include your interactions with our Pharmacy or information made available via connected health devices (e.g., smart watches, health apps).
-        * Biometric information, which may include voice recognition information, facial scans, and/or other similar biometric identifiers.
-        * Racial or ethnic origin, citizenship or immigration status, such as information that reveals your race or nationality.
-        * Precise geolocation data, which may include Global Positioning System ("GPS") data or in-store location.
-        
-          
-        
-    2. ### Your privacy rights
-        
-        If you are a Texas resident, you have the following rights under the TDPSA with respect to your personal data.
-        
-          
-        
-        * Right to access. You have the right to confirm whether or not we are processing your personal data and to access such personal data.
-        * Right of portability. You may have the right to obtain a copy of the personal data that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit your personal data to another controller or business where the processing is carried out by automated means.
-        * Right to delete. You have the right to ask us to delete certain personal data we have collected about you.
-        * Right to correction. You have the right to ask us to correct inaccuracies in the personal data we have collected.
-        * Right to opt out of sale and profiling. Under the TDPSA, a “sale” includes exchanging personal data with a third party in exchange for monetary or other valuable consideration. [Please see our Notice of Right to Opt-Out here](#notice_right16E). TDPSA provides the right to opt out of the processing of personal data for decisions that produce legal or similarly significant effects concerning you. We do not process personal data for such profiling.
-        * Right to opt out of targeted advertising. You have the right to opt out of targeted advertising based on your personal data. To opt out of targeted marketing, please see our [Notice of Right to Opt-Out here](#notice_right16E).
-        
-          
-        
-    3. ### How to submit a request
-        
-        If you are a Texas consumer and wish to exercise these rights, you can reach us in one of the ways shown below.
-        
-          
-        
-        Right to Access / Portability / Delete / Correct:
-        
-          
-        
-        * ExtraCare account only [interactive webform](https://www.cvs.com/extracare/consumerprivacy/)
-        * CVS.com account password-protected web portal (includes ExtraCare, if linked): [Sign in here](https://www.cvs.com/account/login/)
-        * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
-        
-          
-        
-        See Section 16(E) for instructions on how to opt-out of targeted advertising.
-        
-          
-        
-    4. ### Verifying requests
-        
-        Before we fulfill a request, we must verify your identity and ability to exercise these rights. There are also some exclusions and exceptions that may apply. So that we can verify your identity, if you have a CVS.com account, you will need to first sign into your account. If you do not have a CVS.com account, you will be asked to give us certain personal data via webform or on the phone, as described above. If you do not have a CVS.com account and request access to, correction or deletion of your personal data, we may require you to provide any of the following information: ExtraCare number, full legal name, email address, and/or phone number. In addition, if you do not have a CVS.com account and you ask us to provide you with specific pieces of personal data, we may require you to sign a declaration under penalty of perjury that you are the consumer whose personal data is the subject of the request.
-        
-          
-        
-        To learn more about this Privacy Policy, or if you have any questions or concerns, [Contact Us](https://www.cvs.com/retail/help/help_contact_us).
-        
-          
-        
-    5. ### Notice of right to opt-out
-        
-        If you wish to opt out of processing of personal data that is gathered when you visit our websites and other web-based services for purposes of targeted digital advertising, you may do so in one of the ways described below.
-        
-          
-        
-        * Fill out [this interactive webform](https://www.cvs.com/account/compliance/do-not-sell)
-        * Call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
-        
-          
-        
-        The effectiveness of your opt-out request may be limited by our ability to associate the cookies and/or pixels that we may collect with your identity, browser, device and/or browsing session. As a result, your opt-out request will be more effective for future visits if you:
-        
-          
-        
-        * Use the same device that was used to exercise the opt-out request
-        * Have not cleared cookies from your web browser
-        * Are not using a private mode in your web browser
-        * Provide the same personal data that you provided previously
-        
-          
-        
-        We encourage you to re-submit opt-out requests from any other devices that you may be using to visit our websites, mobile applications and other web-based services. If you sign up and log in to your CVS.com account, we will be able to associate you more easily with your visits to our websites, mobile applications and other web-based services. This will also allow us to apply a more persistent opt-out request across devices, browsers and browsing sessions, subject to the above limitations.
-        
-          
-        
-        You also have the right to opt-out of targeted advertising using your personal data, including through the use of a universal opt-out mechanism. If our website detects that your browser is transmitting a universal opt-out mechanism, such as the “global privacy control” —or GPC— signal, we will opt that browser out of cookies on our website that result in a disclosure for targeted advertising of your personal data. Please note, if you come to our website from a different device or a different browser on the same device, you will need to opt out, or use an opt-out preference signal, for that browser and/or device as well.
-        
-          
-        
-        You may also give someone else permission to exercise the right to opt out sale or targeted advertising for you. To submit a request as an authorized agent on behalf of a consumer, write us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com) or call us at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287).
-        
-          
-        
-    6. ### Process to appeal a decision related to your rights
-        
-        If we refused to fulfill your request to exercise your privacy rights in Section 16(B), above, you may appeal this decision by contacting us at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com). We will respond to your request within 60 days of receipt of your appeal with an explanation about our decision to fulfill or refuse your request.
-        
-          
-        
-        You may contact the Texas Attorney General to file a complaint related to the denial of your request by phone at [1-512-463-2100](tel:1-512-463-2100).
-        
-          
-        
-17. Your Utah privacy rights
+15. Your Utah privacy rights
     ------------------------
     
     Under the Utah Consumer Privacy Act (“UCPA”), Utah residents have the right to receive certain disclosures regarding a business’ processing of “personal data,” as defined under the UCPA, as well as certain rights with respect to our processing of such personal data. To the extent you are a resident of Utah and we collect, use or disclose personal data subject to the UCPA, the following applies. For more information about the personal data we collect, use and disclose, please see Sections 2-5 above.
@@ -1113,7 +895,7 @@ table of contents
         * Right of portability. You may have the right to obtain a copy of the personal data that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit your personal data to another controller or business where the processing is carried out by automated means.
         * Right to delete. You have the right to ask us to delete certain personal data that you have provided to us.
         * Right to opt out of sale. Under the UCPA, a “sale” includes exchanging personal data with a third party for monetary consideration. We do not “sell” personal data as defined by UCPA.
-        * Right to opt out of targeted advertising. You have the right to opt out of targeted advertising based on your personal data. To opt out of targeted marketing, please see our [Notice of Right to Opt-Out here](#notice_right17C).
+        * Right to opt out of targeted advertising. You have the right to opt out of targeted advertising based on your personal data. To opt out of targeted marketing, please see our [Notice of Right to Opt-Out here](#notice_right15C).
         
           
         
@@ -1133,7 +915,7 @@ table of contents
         
           
         
-        See Section 17(C), below, for instructions on how to opt-out of targeted advertising.
+        See Section 15(C), below, for instructions on how to opt-out of targeted advertising.
         
           
         
@@ -1166,7 +948,7 @@ table of contents
     
       
     
-18. Your Virginia privacy rights
+16. Your Virginia privacy rights
     ----------------------------
     
     Under the Virginia Consumer Data Protection Act (“VCDPA”), Virginia residents have the right to receive certain disclosures regarding a business’ processing of “personal data,” as defined under the VCDPA, as well as certain rights with respect to our processing of such personal data. To the extent you are a resident of Virginia and we collect, use or disclose personal data subject to the VCDPA, the following applies. For more information about the personal data we collect, use and disclose, please see Sections 2-5 above.
@@ -1183,8 +965,8 @@ table of contents
         * Right of portability. You may have the right to obtain a copy of the personal data that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit your personal data to another controller or business where the processing is carried out by automated means.
         * Right to delete. You have the right to ask us to delete certain personal data we have collected about you.
         * Right to correction. You have the right to ask us to correct inaccuracies in the personal data we have collected.
-        * Right to opt out of sale and profiling. Under the VCDPA, a “sale” includes exchanging personal data with a third party in exchange for monetary consideration. [Please see our Notice of Right to Opt-Out here.](#notice_right18D) VCDPA provides the right to opt out of the processing of personal data for decisions that produce legal or similarly significant effects concerning you. We do not process personal data for such profiling.
-        * Right to opt out of targeted advertising. You have the right to opt out of targeted advertising based on your personal data. To opt out of targeted marketing, please see our [Notice of Right to Opt-Out here](#notice_right18D).
+        * Right to opt out of sale and profiling. Under the VCDPA, a “sale” includes exchanging personal data with a third party in exchange for monetary consideration. [Please see our Notice of Right to Opt-Out here.](#notice_right16D) VCDPA provides the right to opt out of the processing of personal data for decisions that produce legal or similarly significant effects concerning you. We do not process personal data for such profiling.
+        * Right to opt out of targeted advertising. You have the right to opt out of targeted advertising based on your personal data. To opt out of targeted marketing, please see our [Notice of Right to Opt-Out here](#notice_right16D).
         
           
         
@@ -1204,7 +986,7 @@ table of contents
         
           
         
-        See Section 18(D), below, for instructions on how to opt-out of targeted advertising.
+        See Section 16(D), below, for instructions on how to opt-out of targeted advertising.
         
           
         
@@ -1251,13 +1033,12 @@ table of contents
     
       
     
-19. Your Washington privacy rights
+17. Your Washington privacy rights
     ------------------------------
     
     To the extent that we collect consumer health data subject to the Washington My Health My Data Act and you are a resident of the State of Washington or an individual whose consumer health data is collected in the State of Washington, the collection and use of your consumer health data is governed by our [Consumer Health Privacy Policy](https://www.cvs.com/retail/help/WA_consumer_health_privacy_policy).
     
-      
-    
+  
 
 * [![facebook logo](//images.ctfassets.net/nu3qzhcv2o1c/4lDnItYXzVHNIoNSLsYEvZ/0f634ddd94aaa4be75ff821982fc95c2/facebook.svg)](https://www.facebook.com/CVS)
 * [![X logo](//images.ctfassets.net/nu3qzhcv2o1c/5y9a7q6TBMjWthpqfEHeP7/a28da59fbaa0577cd51f4a06fed7edaa/twitter.svg)](https://twitter.com/cvspharmacy)
