@@ -2,9 +2,9 @@ Eufrozina, Kende
 
 [belföld](https://telex.hu/rovat/belfold) [külföld](https://telex.hu/rovat/kulfold) [gazdaság](https://telex.hu/rovat/gazdasag) [videó](https://telex.hu/rovat/video) [élet](https://telex.hu/rovat/eletmod) [techtud](https://telex.hu/rovat/techtud) [after](https://telex.hu/after) [english](https://telex.hu/english)
 
-Budapest: 517 cm
+Budapest: 499 cm
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "erősen felhős")
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "gyengén felhős")
 
 14°26°
 
