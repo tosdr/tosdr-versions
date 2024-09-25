@@ -43,7 +43,6 @@ Menu
     
     *  [Shop Bathroom Products](https://www.jacuzzi.com/en-us/bathroom/shop-bathroom-products)
     *  [1-Day Bath and Shower Remodel](https://www.jacuzzi.com/en-us/bathroom/1-day-bath-and-shower-remodel)
-    *  [Professional Trade Services](https://www.jacuzzi.com/en-us/bathroom/professional-trade-services)
     
     #### Quick Links
     
