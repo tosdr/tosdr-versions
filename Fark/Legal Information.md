@@ -230,13 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -336,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Are you middle class?](https://www.fark.com/goto/13405868) ( [pewresearch.org](https://www.fark.com/goto/13405868) ) » [(21 comments)](https://www.fark.com/comments/13405868/Are-you-middle-class) |
-| [Discussion](https://www.fark.com/discussion/) | [London gets a Tamagotchi store-because clearly, we all missed the stress of keeping a digital blob alive](https://www.fark.com/goto/13405774) ( [metro.co.uk](https://www.fark.com/goto/13405774) ) » [(3 comments)](https://www.fark.com/comments/13405774/London-gets-a-Tamagotchi-store-because-clearly-we-all-missed-stress-of-keeping-a-digital-blob-alive) |
-| [Sports](https://www.fark.com/sports/) | ["PSA: Please don't send me links to it. I've seen it. I can read. I don't wish bad things on anyone, but I know Karma never forgets an address"](https://www.fark.com/goto/13405682) ( [nypost.com](https://www.fark.com/goto/13405682) ) » [(3 comments)](https://www.fark.com/comments/13405682/PSA-Please-dont-send-me-links-to-it-Ive-seen-it-I-can-read-I-dont-wish-bad-things-on-anyone-but-I-know-Karma-never-forgets-an-address) |
-| [Business](https://www.fark.com/business/) | [Jersey Shore residents: We want better cell coverage. Also Jersey Shore residents: No, not like that](https://www.fark.com/goto/13405736) ( [foxbusiness.com](https://www.fark.com/goto/13405736) ) » [(2 comments)](https://www.fark.com/comments/13405736/Jersey-Shore-residents-We-want-better-cell-coverage-Also-Jersey-Shore-residents-No-not-like-that) |
-| [STEM](https://www.fark.com/stem/) | [Since we're not going to release the carbon teat, we need to figure out how to sweep it under the rug. You know, like nucyular waste since that's turned out so well. TL;DR: yeah, we're boned](https://www.fark.com/goto/13405718) ( [techxplore.com](https://www.fark.com/goto/13405718) ) » [(2 comments)](https://www.fark.com/comments/13405718/Since-were-not-going-to-release-carbon-teat-we-need-to-figure-out-how-to-sweep-it-under-rug-You-know-like-nucyular-waste-since-thats-turned-out-so-well-TLDR-yeah-were-boned) |
-| [Entertainment](https://www.fark.com/entertainment/) | [This month's cover of "Ladygunn" magazine explains why subby's finding 'JoJo Siwa's Strawberry Bop Cereal' goin' for 50 cents a box at Ollie's Bargain Outlet](https://www.fark.com/goto/13405650) ( [sportskeeda.com](https://www.fark.com/goto/13405650) ) » [(12 comments)](https://www.fark.com/comments/13405650/This-months-cover-of-Ladygunn-magazine-explains-why-subbys-finding-JoJo-Siwas-Strawberry-Bop-Cereal-goin-for-50-cents-a-box-at-Ollies-Bargain-Outlet) |
-| [Fandom](https://www.fark.com/fandom/) | [Two characters in Star Trek had the same last name? Wait until the author watches Law and Order](https://www.fark.com/goto/13405860) ( [screenrant.com](https://www.fark.com/goto/13405860) ) » [(0 comments)](https://www.fark.com/comments/13405860/Two-characters-in-Star-Trek-had-same-last-name-Wait-until-author-watches-Law-Order) |
-| [D'awww](https://www.fark.com/dawww/) | [Some guy named Drew arrived hours early at a Clear the Shelters event held at Austin Pets Alive! determined to adopt a dog named Julius that he had bonded with. This week's Woofday Wetnose Wednesday welcomes Julius (now Bumi) and his new family (w/photos)](https://www.fark.com/goto/13404194) ( [people.com](https://www.fark.com/goto/13404194) ) » [(49 comments)](https://www.fark.com/comments/13404194/Some-guy-named-Drew-arrived-hours-early-at-a-Clear-Shelters-event-held-at-Austin-Pets-Alive!-determined-to-adopt-a-dog-named-Julius-that-he-had-bonded-with-This-weeks-Woofday-Wetnose-Wednesday-welcomes-Julius-now-Bumi-his-new-family-wphotos) |
-| [Food](https://www.fark.com/food/) | [Oregon can now officially count to potato](https://www.fark.com/goto/13405750) ( [koin.com](https://www.fark.com/goto/13405750) ) » [(4 comments)](https://www.fark.com/comments/13405750/Oregon-can-now-officially-count-to-potato) |
-| [Politics](https://www.fark.com/politics/) | [Trump camp hopes "hated" Cheryl dumps RFK. Pretty pretty petty](https://www.fark.com/goto/13405666) ( [pagesix.com](https://www.fark.com/goto/13405666) ) » [(11 comments)](https://www.fark.com/comments/13405666/Trump-camp-hopes-hated-Cheryl-dumps-RFK-Pretty-pretty-petty) |
+| [Main](https://www.fark.com/) | [Speed 3 is a wrap](https://www.fark.com/goto/13406334) ( [foxnews.com](https://www.fark.com/goto/13406334) ) » [(6 comments)](https://www.fark.com/comments/13406334/Speed-3-is-a-wrap) |
+| [Discussion](https://www.fark.com/discussion/) | ["I've fallen out of love with my fiancé and have started an affair with my best friend. Do I still go through with the wedding?" (possible nsfw content on page)](https://www.fark.com/goto/13405938) ( [thesun.co.uk](https://www.fark.com/goto/13405938) ) » [(11 comments)](https://www.fark.com/comments/13405938/Ive-fallen-out-of-love-with-my-fianc-have-started-an-affair-with-my-best-friend-Do-I-still-go-through-with-wedding-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [Apparently, the check didn't clear](https://www.fark.com/goto/13405986) ( [upi.com](https://www.fark.com/goto/13405986) ) » [(4 comments)](https://www.fark.com/comments/13405986/Apparently-check-didnt-clear) |
+| [Business](https://www.fark.com/business/) | [Modern solutions bring modern problems. Like sharenting](https://www.fark.com/goto/13406324) ( [edition.cnn.com](https://www.fark.com/goto/13406324) ) » [(1 comment)](https://www.fark.com/comments/13406324/Modern-solutions-bring-modern-problems-Like-sharenting) |
+| [STEM](https://www.fark.com/stem/) | [Skynet will achieve its in-home beach head by 2026](https://www.fark.com/goto/13405742) ( [theregister.com](https://www.fark.com/goto/13405742) ) » [(2 comments)](https://www.fark.com/comments/13405742/Skynet-will-achieve-its-in-home-beach-head-by-2026) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Ana de Armas flees the cesspool of LA to smoke weed and drink maple syrup in the green mountains of Vermont](https://www.fark.com/goto/13406026) ( [realtor.com](https://www.fark.com/goto/13406026) ) » [(2 comments)](https://www.fark.com/comments/13406026/Ana-de-Armas-flees-cesspool-of-LA-to-smoke-weed-drink-maple-syrup-in-green-mountains-of-Vermont) |
+| [Fandom](https://www.fark.com/fandom/) | [Ed Bolian reveal the secrets of how how someone of his means managed to buy a $1.45 million Bugatti Veyron Grand Sport. Two words: crippling debt](https://www.fark.com/goto/13406316) ( [youtube.com](https://www.fark.com/goto/13406316) ) » [(4 comments)](https://www.fark.com/comments/13406316/Ed-Bolian-reveal-secrets-of-how-how-someone-of-his-means-managed-to-buy-a-$145-million-Bugatti-Veyron-Grand-Sport-Two-words-crippling-debt) |
+| [D'awww](https://www.fark.com/dawww/) | [Which came first, the internet or the cat meme? BBC has the answer](https://www.fark.com/goto/13406118) ( [bbc.com](https://www.fark.com/goto/13406118) ) » [(5 comments)](https://www.fark.com/comments/13406118/Which-came-first-internet-the-cat-meme-BBC-has-answer) |
+| [Food](https://www.fark.com/food/) | [15 ways to prepare whole fish. You're on your own for full loaves](https://www.fark.com/goto/13405776) ( [foodandwine.com](https://www.fark.com/goto/13405776) ) » [(5 comments)](https://www.fark.com/comments/13405776/-15-ways-to-prepare-whole-fish-Youre-on-your-own-for-full-loaves) |
+| [Politics](https://www.fark.com/politics/) | [If he loses, by early 2026, he's going to be standing trial and facing possible prison time. Being 78 years old, running for a third time and having that on the other side of a loss, is driving him a little crazier than usual](https://www.fark.com/goto/13405948) ( [nj.com](https://www.fark.com/goto/13405948) ) » [(19 comments)](https://www.fark.com/comments/13405948/If-he-loses-by-early-2026-hes-going-to-be-standing-trial-facing-possible-prison-time-Being-78-years-old-running-for-a-third-time-having-that-on-other-side-of-a-loss-is-driving-him-a-little-crazier-than-usual) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -355,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 25 2024 09:42:23  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 25 2024 15:43:12  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
