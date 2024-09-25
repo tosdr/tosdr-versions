@@ -20,16 +20,16 @@ Wednesday, September 25 2024
 
 Latest
 
-* [How to Use ‘Productivity Sprints’ to Get More Done](https://digitpatrox.com/how-to-use-productivity-sprints-to-get-more-done/)
-* [Vendor Spotlight: Cerberus FTP](https://digitpatrox.com/vendor-spotlight-cerberus-ftp/)
-* [How to enable Hibernate on Windows 11](https://digitpatrox.com/how-to-enable-hibernate-on-windows-11/)
-* [Should You Get an Extended Warranty for Your Car?](https://digitpatrox.com/should-you-get-an-extended-warranty-for-your-car/)
-* [5 Reasons Why I Schedule My Outlook Emails](https://digitpatrox.com/5-reasons-why-i-schedule-my-outlook-emails/)
-* [Ransomware has become a board-level concern for every business — here’s how NetApp plans to help](https://digitpatrox.com/ransomware-has-become-a-board-level-concern-for-every-business-heres-how-netapp-plans-to-help/)
-* [Master Java & Spring for Just $39.99 with This Bundle](https://digitpatrox.com/master-java-spring-for-just-39-99-with-this-bundle/)
-* [Turtle Beach Pure SEL review](https://digitpatrox.com/turtle-beach-pure-sel-review/)
-* [PS5 Pro will enhance Stellar Blade, Jedi: Survivor, Metal Gear, and Resident Evil](https://digitpatrox.com/ps5-pro-will-enhance-stellar-blade-jedi-survivor-metal-gear-and-resident-evil/)
-* [Hellboy the Crooked Man Has a Really Bad News for the Franchise’s Fans](https://digitpatrox.com/hellboy-the-crooked-man-has-a-really-bad-news-for-the-franchises-fans/)
+* [Delaware libraries lose internet access after RansomHub cyber attack](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
+* [The power of partnership: Driving innovation with AWS support for business](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
+* [Kandji offers up its take on AI to Apple IT – Computerworld](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
+* [Use an ‘Elimination’ Method to Make Cleaning More Efficient](https://digitpatrox.com/use-an-elimination-method-to-make-cleaning-more-efficient/)
+* [Vendor Spotlight: ManageEngine](https://digitpatrox.com/vendor-spotlight-manageengine/)
+* [Talking Cars 454: Driving the Toyota Land Cruiser](https://digitpatrox.com/talking-cars-454-driving-the-toyota-land-cruiser/)
+* [Why You Should Get the LCD Steam Deck Before It’s Gone](https://digitpatrox.com/why-you-should-get-the-lcd-steam-deck-before-its-gone/)
+* [Pure Storage announces VM assessment service – and it could please beleaguered VMware customers](https://digitpatrox.com/pure-storage-announces-vm-assessment-service-and-it-could-please-beleaguered-vmware-customers/)
+* [Microsoft Reports on Progress of Revamping Security Efforts](https://digitpatrox.com/microsoft-reports-on-progress-of-revamping-security-efforts/)
+* [5 conversation starters to try with ChatGPT Advanced Voice](https://digitpatrox.com/5-conversation-starters-to-try-with-chatgpt-advanced-voice/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01HF2GK7F1RN6N2NQ8QZPEV6BR/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-use-productivity-sprints-to-get-more-done/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Delaware-Libraries-lose-internet-access-due-to-ransomware-attack.jpg)](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
     
-    [How to Use ‘Productivity Sprints’ to Get More Done](https://digitpatrox.com/how-to-use-productivity-sprints-to-get-more-done/)
+    [Delaware libraries lose internet access after RansomHub cyber attack](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
     
-    18 mins ago
+    10 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Cerberus-FTP-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-cerberus-ftp/)
+* [![](https://cdn.mos.cms.futurecdn.net/CDrA3AALeJpW8TBHbUJVha-1200-80.jpg)](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
     
-    [Vendor Spotlight: Cerberus FTP](https://digitpatrox.com/vendor-spotlight-cerberus-ftp/)
+    [The power of partnership: Driving innovation with AWS support for business](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
     
     29 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2023/04/enable-hibernate-windows-11-hero.webp)](https://digitpatrox.com/how-to-enable-hibernate-on-windows-11/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3539996-0-33041000-1727284108-Apple-WWDC24-Apple-Intelligence-ChatGPT-Writing-Tools-Compose-prompt-240610.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
     
-    [How to enable Hibernate on Windows 11](https://digitpatrox.com/how-to-enable-hibernate-on-windows-11/)
-    
-    42 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1614958447/prod/content/dam/CRO-Images-2021/Cars/03Mar/CR-Cars-InlineHero-Should-You-Get-Extended-Warranty-03-21)](https://digitpatrox.com/should-you-get-an-extended-warranty-for-your-car/)
-    
-    [Should You Get an Extended Warranty for Your Car?](https://digitpatrox.com/should-you-get-an-extended-warranty-for-your-car/)
-    
-    51 mins ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-mailbox-with-the-outlook-logo-full-of-letters-and-several-letters-around.jpg)](https://digitpatrox.com/5-reasons-why-i-schedule-my-outlook-emails/)
-    
-    [5 Reasons Why I Schedule My Outlook Emails](https://digitpatrox.com/5-reasons-why-i-schedule-my-outlook-emails/)
+    [Kandji offers up its take on AI to Apple IT – Computerworld](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
     
     52 mins ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J8MYR1BQ2VPR505ZKS2CQE6G/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/use-an-elimination-method-to-make-cleaning-more-efficient/)
+    
+    [Use an ‘Elimination’ Method to Make Cleaning More Efficient](https://digitpatrox.com/use-an-elimination-method-to-make-cleaning-more-efficient/)
+    
+    1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/ManageEngine-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-manageengine/)
+    
+    [Vendor Spotlight: ManageEngine](https://digitpatrox.com/vendor-spotlight-manageengine/)
+    
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 mins ago
+* [10 mins ago
     
-    ### How to Use ‘Productivity Sprints’ to Get More Done](https://digitpatrox.com/how-to-use-productivity-sprints-to-get-more-done/)
+    ### Delaware libraries lose internet access after RansomHub cyber attack](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
 * [29 mins ago
     
-    ### Vendor Spotlight: Cerberus FTP](https://digitpatrox.com/vendor-spotlight-cerberus-ftp/)
-* [42 mins ago
+    ### The power of partnership: Driving innovation with AWS support for business](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
+* [52 mins ago
     
-    ### How to enable Hibernate on Windows 11](https://digitpatrox.com/how-to-enable-hibernate-on-windows-11/)
+    ### Kandji offers up its take on AI to Apple IT – Computerworld](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
 
 Most Popular Topics
 
-* [August 14, 2024
+* [3 days ago
     
-    ### We asked IT leaders if generative AI delivers results – their feedback gave a mixed picture](https://digitpatrox.com/we-asked-it-leaders-if-generative-ai-delivers-results-their-feedback-gave-a-mixed-picture/)
-* [3 weeks ago
+    ### Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
+* [August 16, 2024
     
-    ### Wordle Answer for Today, September 2, 2024](https://digitpatrox.com/wordle-answer-for-today-september-2-2024/)
-* [3 weeks ago
+    ### Bash Script Loops Examples](https://digitpatrox.com/bash-script-loops-examples/)
+* [August 15, 2024
     
-    ### Everything we know about the TfL cyber attack so far](https://digitpatrox.com/everything-we-know-about-the-tfl-cyber-attack-so-far/)
+    ### 5 Ways Your 3D Printer Can Hurt You (And How to Avoid It)](https://digitpatrox.com/5-ways-your-3d-printer-can-hurt-you-and-how-to-avoid-it/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Master Java & Spring for Just $39.99 with This Bundle](https://digitpatrox.com/master-java-spring-for-just-39-99-with-this-bundle/)
-* [2 hours ago
-    
-    ### Turtle Beach Pure SEL review](https://digitpatrox.com/turtle-beach-pure-sel-review/)
+    ### Why You Should Get the LCD Steam Deck Before It’s Gone](https://digitpatrox.com/why-you-should-get-the-lcd-steam-deck-before-its-gone/)
 * [3 hours ago
     
-    ### PS5 Pro will enhance Stellar Blade, Jedi: Survivor, Metal Gear, and Resident Evil](https://digitpatrox.com/ps5-pro-will-enhance-stellar-blade-jedi-survivor-metal-gear-and-resident-evil/)
+    ### Pure Storage announces VM assessment service – and it could please beleaguered VMware customers](https://digitpatrox.com/pure-storage-announces-vm-assessment-service-and-it-could-please-beleaguered-vmware-customers/)
+* [3 hours ago
+    
+    ### Microsoft Reports on Progress of Revamping Security Efforts](https://digitpatrox.com/microsoft-reports-on-progress-of-revamping-security-efforts/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [4 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
