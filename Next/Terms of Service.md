@@ -1,6 +1,6 @@
 5.38.13
 
-1727275458163
+1727296734300
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727275459225
+1727297128552
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727275255997
+1727296489327
 
 You need to enable JavaScript to run this app.
 
@@ -242,7 +242,7 @@ If you return goods to us without arranging collection by us, we will not be res
 
 ### The nextunlimited Service does not include:
 
-1. Orders for the following: fresh flowers, Art2 Order, Gift Cards, gift experiences, items from Next Garden, some personalised items and items made to order, fitted bedrooms by Hammonds and large domestic appliances.
+1. Orders for the following: Gift Cards and gift experiences.
 2. The service is for personal use only and is not available for customers who purchase goods for business, re-sale or wholesale purposes.
 3. Furniture items purchased in store for home delivery are not covered by nextunlimited.
 
@@ -2497,7 +2497,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727275484746
+1727296683956
 
 ### Our Social Networks
 
