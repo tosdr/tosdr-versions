@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/branding-the-fabric-museum-feature.jpg)
+
+[](https://theinspirationgrid.com/fabric-museum-a-rebrand-art-installation-project-by-jocelyn-zhao/)
+
+### Fabric Museum: A Rebrand & Art Installation Project by Jocelyn Zhao
+
+![](https://inspgr.id/app/uploads/2024/09/product-design-altar-one-feature.jpg)
+
+[](https://theinspirationgrid.com/altar-i-keyboard-by-electronic-materials-office/)
+
+### Altar I Keyboard by Electronic Materials Office
+
 ![](https://inspgr.id/app/uploads/2024/09/illustration-andrius-banelis-feature.jpg)
 
 [](https://theinspirationgrid.com/clever-editorial-illustrations-by-andrius-banelis/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/gorgeous-packaging-design-by-daroma-studio/)
 
 ### Gorgeous Packaging Design by D’Aroma Studio
-
-![](https://inspgr.id/app/uploads/2024/09/art-jon-zabalegui-feature.jpg)
-
-[](https://theinspirationgrid.com/typographic-murals-street-art-by-jon-zabalegui/)
-
-### Typographic Murals & Street Art by Jon Zabalegui
-
-![](https://inspgr.id/app/uploads/2024/09/art-miss-sudoku-feature.jpg)
-
-[](https://theinspirationgrid.com/the-angle-a-multi-artist-visual-collaboration/)
-
-### The Angle: A Multi-Artist Visual Collaboration
 
 Awesome products for creatives
 ------------------------------
