@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Final Lap](https://www.myabandonware.com/game/final-lap-9px)
+* [Final Fight](https://www.myabandonware.com/game/final-fight-5j6)
+* [Final Blow](https://www.myabandonware.com/game/final-blow-5j4)
 * [2025: Battle for Fatherland](https://www.myabandonware.com/game/2025-battle-for-fatherland-lg6)
 * [Front Line](https://www.myabandonware.com/game/front-line-7ru)
-* [Frogger](https://www.myabandonware.com/game/frogger-7)
-* [Goalie Ghost](https://www.myabandonware.com/game/goalie-ghost-shg)
-* [Frogs](https://www.myabandonware.com/game/frogs-shf)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
