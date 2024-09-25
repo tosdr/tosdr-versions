@@ -92,6 +92,7 @@ Rechercher sur Le Parisien
     * [Rugby](https://www.leparisien.fr/sports/rugby/)
     * [Basket](https://www.leparisien.fr/sports/basket/)
     * [Tennis](https://www.leparisien.fr/sports/tennis/)
+    * [Rolex Paris Masters 2024](https://www.leparisien.fr/sports/tennis/rolex-paris-masters/)
     * [Cyclisme](https://www.leparisien.fr/sports/cyclisme/)
     * [Handball](https://www.leparisien.fr/sports/handball/)
     * [Formule 1](https://www.leparisien.fr/sports/formule-1/)
