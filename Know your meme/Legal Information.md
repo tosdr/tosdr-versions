@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Cursed Image Of A Cougar Smoking Has Been A Viral Reaction Meme On Reddit And X Since Early 2023](https://i.kym-cdn.com/featured_items/icons/wide/000/026/009/Cursed_cougar_smoking_cover.jpg "Cursed Image Of A Cougar Smoking Has Been A Viral Reaction Meme On Reddit And X Since Early 2023")
+* [![People Don't Say They 'Like' Things Anymore, They Say 'Received A 55-Minute Standing Ovation From Me In My Living Room' ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/025/standingocover.jpg "People Don't Say They 'Like' Things Anymore, They Say 'Received A 55-Minute Standing Ovation From Me In My Living Room' ")
     
-    Cursed Image Of A Cougar Smoking Has Been A Viral Reaction Meme On Reddit And X Since Early 2023](https://knowyourmeme.com/memes/cigar-cougar-cursed-panther-smoking)
+    People Don't Say They 'Like' Things Anymore, They Say 'Received A 55-Minute Standing Ovation From Me In My Living Room'](https://knowyourmeme.com/memes/55-minute-standing-ovation-from-me-in-my-living-room)
     
-* [![Ironmouse YouTube Channel Shutdown Becomes Viral Topic On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/008/ironmouse_youtube_shutdown_cover.jpg "Ironmouse YouTube Channel Shutdown Becomes Viral Topic On Social Media")
+* [![Japanese Webcomic 'Ora Ora Get Pregnant' Sparks Redraw and Memes On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/024/Ora_ora_get_pregnant_cover.jpg "Japanese Webcomic 'Ora Ora Get Pregnant' Sparks Redraw and Memes On Social Media")
     
-    Ironmouse YouTube Channel Shutdown Becomes Viral Topic On Social Media](https://knowyourmeme.com/memes/events/ironmouse-youtube-channel-shutdown)
+    Japanese Webcomic 'Ora Ora Get Pregnant' Sparks Redraw and Memes On Social Media](https://knowyourmeme.com/memes/ora-ora-get-pregnant)
     
-* [![Russian Actress Lera Abova Is Being Attacked Online After Being Cast As 'Nico Robin' For The Second Season Of Netflix's One Piece Live Action Series](https://i.kym-cdn.com/featured_items/icons/wide/000/026/007/Nico_Robin_controversy_cover.jpg "Russian Actress Lera Abova Is Being Attacked Online After Being Cast As 'Nico Robin' For The Second Season Of Netflix's One Piece Live Action Series")
+* [![Diddy Is The Latest Celebrity To Get Put On 'Epsteined' Watch](https://i.kym-cdn.com/featured_items/icons/wide/000/026/023/https___cdn.cnn.com_cnnnext_dam_assets_200115160440-epstein-2019-sex-offender-registry.jpg "Diddy Is The Latest Celebrity To Get Put On 'Epsteined' Watch")
     
-    Russian Actress Lera Abova Is Being Attacked Online After Being Cast As 'Nico Robin' For The Second Season Of Netflix's One Piece Live Action Series](https://knowyourmeme.com/memes/events/lera-abova-nico-robin-casting-controversy)
+    Diddy Is The Latest Celebrity To Get Put On 'Epsteined' Watch](https://knowyourmeme.com/memes/epsteined)
     
-* [![Oh Shit, I Got a Fortune Cookie! ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/006/i_got_a_fortune_cookie.jpg "Fortune Cookie Skit Amasses Rotoscoped Versions On TikTok, Showing Characters Who'd Eat The Whole Thing Too")
+* [![Jonathan Kennedy's "Infected" Art refers to a longstanding Twitter (now called X) thread featuring crude Come and Learn with Pibby crossover fanart drawn by user @Jonatha76257883, A.K.A. Jonathan Kennedy. The art typically features characters from different cartoons, television shows, and movies being taken over by a glitchy corrupting shadow, with some characters getting "infected" while others remain "survivors." The artwork is inspired by the 2021 promotional materials for Adult Swim's Come and Learn with Pibby. The Twitter user has been adding different characters to a thread of artwork since December 2021, with other users marveling at the years-long dedication to the project, the lack of artistic improvement, and the breadth of fandoms represented, with some users calling Jonathan Kennedy's "Infected" Art the One Piece of Twitter.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/022/jonathan.jpg "This Twitter 'Artist' Has Been Drawing 'Pibby' Glitch Fanart For Three Years Now, Leaving People In Awe")
     
-    Fortune Cookie Skit Amasses Rotoscoped Versions On TikTok, Showing Characters Who'd Eat The Whole Thing Too](https://knowyourmeme.com/memes/oh-shit-i-got-a-fortune-cookie)
+    This Twitter 'Artist' Has Been Drawing 'Pibby' Glitch Fanart For Three Years Now, Leaving People In Awe](https://knowyourmeme.com/memes/jonathan-kennedys-infected-art)
     
-* [![The Spanish Inquisition](https://i.kym-cdn.com/featured_items/icons/wide/000/026/005/DFHg6ZsVoAAo7Av.jpg "On This Day Monty Python's Popular 'Nobody Expects The Spanish Inquisition' Scene Aired On TV")
+* [![ Seattle Cybertruck, CyberStuck](https://i.kym-cdn.com/featured_items/icons/wide/000/026/021/cyberstuck.jpg "An Abandoned Cybertruck Nicknamed The 'CyberStuck' Briefly Became A Seattle Tourist Attraction")
     
-    On This Day Monty Python's Popular 'Nobody Expects The Spanish Inquisition' Scene Aired On TV](https://knowyourmeme.com/memes/nobody-expects-the-spanish-inquisition)
+    An Abandoned Cybertruck Nicknamed The 'CyberStuck' Briefly Became A Seattle Tourist Attraction](https://knowyourmeme.com/memes/seattle-cybertruck-cyberstuck)
     
 
 ##### Also Trending:
 
-[Half-Life](https://knowyourmeme.com/memes/subcultures/half-life "Half-Life") [Death of Kim Jong-Il](https://knowyourmeme.com/memes/events/death-of-kim-jong-il "Death of Kim Jong-Il") [Second Life](https://knowyourmeme.com/memes/subcultures/second-life "Second Life") [Steve Jobs' Death](https://knowyourmeme.com/memes/events/steve-jobs-death "Steve Jobs' Death") [Osama Bin Laden's Death](https://knowyourmeme.com/memes/events/osama-bin-ladens-death "Osama Bin Laden's Death") [Thug Life](https://knowyourmeme.com/memes/thug-life "Thug Life") [Tomodachi Life](https://knowyourmeme.com/memes/subcultures/tomodachi-life "Tomodachi Life") [Queen Elizabeth II's Death](https://knowyourmeme.com/memes/events/queen-elizabeth-iis-death "Queen Elizabeth II's Death")
+[Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Omnicause](https://knowyourmeme.com/memes/omnicause "Omnicause") [Half-Life](https://knowyourmeme.com/memes/subcultures/half-life "Half-Life") [Did You Try the Medicine Drug?](https://knowyourmeme.com/memes/did-you-try-the-medicine-drug "Did You Try the Medicine Drug?") [Marques Brownlee's iPhone Wallpaper App](https://knowyourmeme.com/memes/sites/marques-brownlees-iphone-wallpaper-app "Marques Brownlee's iPhone Wallpaper App") [Lovely Lady RPG](https://knowyourmeme.com/memes/subcultures/lovely-lady-rpg "Lovely Lady RPG") [X-Chan "Efficiency" Comic](https://knowyourmeme.com/memes/elon-musk-and-x-chan-efficiency-comic-by-sks-cartoon "X-Chan "Efficiency" Comic") [SsethTzeentach](https://knowyourmeme.com/memes/people/ssethtzeentach "SsethTzeentach")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Word Up! You must login or signup first!
 
 |     |     |
 | --- | --- |
