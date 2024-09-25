@@ -95,6 +95,8 @@ Don't miss our Quarterly Roadmap Showcase, Thursday, October 24
 End User License Agreement
 ==========================
 
+Last modified: March 15, 2022
+
 ![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/668c043a8df4a0484d7b0b71_scan-lines-highlight.png)
 
 1\. Acceptance of end user license agreement
