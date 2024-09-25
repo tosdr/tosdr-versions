@@ -218,7 +218,7 @@ Find out today what we can do for you!
 * [](https://twitter.com/kissmetrics)
 * [](https://www.facebook.com/Kissmetrics)
 * [](https://www.youtube.com/@kissmetrics)
-* [](https://www.instagram.com/kissmetrics)
+* [](https://www.instagram.com/kissmetrics_official?igsh=MXNiYnF0M2M3bncy&utm_source=qr)
 
                                
 
