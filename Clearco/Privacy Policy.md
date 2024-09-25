@@ -1,7 +1,3 @@
-We will conduct maintenance on September 23 at 10PM-12AM ET. During this time, customers will not be able to login into the Clearco platform. Thank you.
-
-[](#)
-
 [![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660190120ed591c2ca6658f4_clearco-logo-black.png)](https://clear.co/)
 
 [How it Works](https://clear.co/ecommerce-funding)
