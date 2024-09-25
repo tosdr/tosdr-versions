@@ -6,7 +6,7 @@ UK News Website of the Year 2024
 
 [Search Icon](https://www.telegraph.co.uk/search/)
 
-* [News](https://www.telegraph.co.uk/news/usa/)
+* [News](https://www.telegraph.co.uk/us/news/)
 * [2024 Elections](https://www.telegraph.co.uk/us-election/)
 * [Israel](https://www.telegraph.co.uk/israel-hamas-war/)
 * [Ukraine](https://www.telegraph.co.uk/russia-ukraine-war/)
