@@ -134,6 +134,18 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=719)
+* Basketball
+    
+* [NBL
+    
+    26/9 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SEM | –   |
+    | MEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020001)
 * Rugby
     
 * [Rugby Champs
@@ -900,7 +912,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
