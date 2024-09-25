@@ -265,7 +265,6 @@ All rights reserved.
 * [About](https://www.maketecheasier.com/about/ "About Make Tech Easier")
 * [Contact](https://www.maketecheasier.com/contact/ "Contact Us")
 * [Advertise](https://www.maketecheasier.com/advertise/ "Advertise with us")
-* [Write For Us](https://www.maketecheasier.com/write-for-make-tech-easier/)
 * [Terms of Use](https://www.maketecheasier.com/terms-of-service/ "Term of Use")
 * [Privacy Policy](https://www.maketecheasier.com/privacy-policy/ "Privacy Policy")
 * [RSS Feed Terms](https://www.maketecheasier.com/rss-feed-terms/ "RSS Feed Terms")
