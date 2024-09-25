@@ -622,7 +622,7 @@ External
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -639,7 +639,7 @@ External
             
             * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-allocation-leak-detection)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
                 
             * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
                 
@@ -867,8 +867,6 @@ External
             
             [Explore](https://www.bakerhughes.com/waygate-technologies)
             
-            * [Eddy Current Inspection](https://www.bakerhughes.com/waygate-technologies/eddy-current-inspection)
-                
             * [Industrial Radiography and CT](https://www.bakerhughes.com/waygate-technologies/industrial-radiography-and-ct)
                 
             * [NDT Software](https://www.bakerhughes.com/waygate-technologies/ndt-software)
@@ -1597,7 +1595,7 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -1614,7 +1612,7 @@ Search
             
             * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-allocation-leak-detection)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flare-management/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
                 
             * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
                 
@@ -1842,8 +1840,6 @@ Search
             
             [Explore](https://www.bakerhughes.com/waygate-technologies)
             
-            * [Eddy Current Inspection](https://www.bakerhughes.com/waygate-technologies/eddy-current-inspection)
-                
             * [Industrial Radiography and CT](https://www.bakerhughes.com/waygate-technologies/industrial-radiography-and-ct)
                 
             * [NDT Software](https://www.bakerhughes.com/waygate-technologies/ndt-software)
