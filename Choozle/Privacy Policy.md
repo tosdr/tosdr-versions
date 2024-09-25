@@ -41,6 +41,7 @@ Menu
     * [Brands](https://choozle.com/brands/)
 * Resources
     
+    * [Resource Center](https://choozle.com/resource-center/)
     * [Blog](https://choozle.com/blog)
     * [Webinars](https://choozle.com/webinars/)
     * [Case Studies](https://choozle.com/case-studies/)
@@ -404,6 +405,7 @@ Our Clients
 
 Resources
 
+* [Resource Center](https://choozle.com/resource-center)
 * [Blog](https://choozle.com/blog)
 * [Webinars](https://choozle.com/webinars)
 * [Case Studies](https://choozle.com/case-studies)
