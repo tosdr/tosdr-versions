@@ -37,6 +37,7 @@ Health and Humanitarian Crisis in Lebanon
     * We equip health care workers with the skills and support they need to heal people and transform lives around the world.
         
     * [Urgent Need](https://www.projecthope.org/urgent-need/)
+        * [Lebanon: Securing Essential Supplies](https://www.projecthope.org/news-stories/responses/crisis-in-lebanon-what-you-need-to-know/)
         * [Ukraine: Supporting Frontline Communities](https://www.projecthope.org/news-stories/responses/crisis-in-ukraine-how-to-help)
         * [Gaza: Responding to Urgent Health Needs](https://www.projecthope.org/news-stories/responses/humanitarian-crisis-in-gaza-how-to-help/)
         * [Sudan: Delivering Critical Medical Supplies](https://www.projecthope.org/news-stories/responses/sudan-crisis-how-to-help)
@@ -109,6 +110,7 @@ Search for:
 * Global Reach
     * [Back](# "Back")
     * [Urgent Need](https://www.projecthope.org/urgent-need/)
+        * [Lebanon: Securing Essential Supplies](https://www.projecthope.org/news-stories/responses/crisis-in-lebanon-what-you-need-to-know/)
         * [Ukraine: Supporting Frontline Communities](https://www.projecthope.org/news-stories/responses/crisis-in-ukraine-how-to-help)
         * [Gaza: Responding to Urgent Health Needs](https://www.projecthope.org/news-stories/responses/humanitarian-crisis-in-gaza-how-to-help/)
         * [Sudan: Delivering Critical Medical Supplies](https://www.projecthope.org/news-stories/responses/sudan-crisis-how-to-help)
