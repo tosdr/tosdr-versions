@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![County Derry McDonald's restaurant ranked third best in the UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry McDonald's restaurant ranked third best in the UK")](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
 
 McDonald's
@@ -275,22 +268,6 @@ McDonald's
 [County Derry McDonald's restaurant ranked third best in the UK](https://www.derrynow.com/news/county-derry-post/1612773/county-derry-mcdonald-s-restaurant-ranked-third-best-in-the-uk.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding")](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
-
-Photo: Manolo Franco/Pixabay
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Irish woman hospitalised with third degree burns after dress catches fire at Spanish wedding](https://www.derrynow.com/news/national-news/1612833/irish-woman-hospitalised-with-third-degree-burns-after-dress-catches-fire-at-spanish-wedding.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Official opening of the Peacemakers Museum in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official opening of the Peacemakers Museum in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Official opening of the Peacemakers Museum in Derry](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man jailed for exposing himself to two nurses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for exposing himself to two nurses")](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -298,30 +275,21 @@ Photo: Manolo Franco/Pixabay
 [Derry man jailed for exposing himself to two nurses](https://www.derrynow.com/news/local-news/1612971/derry-man-jailed-for-exposing-himself-to-two-nurses.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt")](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
+[![PSNI cordon Carnhill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI cordon Carnhill")](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Junior prizegiving at St Pius x College, Magherafelt](https://www.derrynow.com/story-telling/pictures---videos/1612631/in-pictures-junior-prizegiving-at-st-pius-x-college-magherafelt.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Station Road, Ballykelly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Station Road, Ballykelly")](https://www.derrynow.com/news/home/1612158/dog-put-to-sleep-after-being-attacked-in-ballykelly.html)
-
-Station Road, Ballykelly
-
-[Home](https://www.derrynow.com/)
-
-[Dog 'put to sleep' after being attacked in Ballykelly](https://www.derrynow.com/news/home/1612158/dog-put-to-sleep-after-being-attacked-in-ballykelly.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with number of driving-related offences to appear before Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with number of driving-related offences to appear before Derry court")](https://www.derrynow.com/news/local-news/1612618/man-charged-with-number-of-driving-related-offences-to-appear-before-derry-court.html)
-
-PSNI
+Police cordon following the incident in Carnhill where a number of houses were evacuated.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with number of driving-related offences to appear before Derry court](https://www.derrynow.com/news/local-news/1612618/man-charged-with-number-of-driving-related-offences-to-appear-before-derry-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Number of homes have been evacuated in Derry](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, 25th September 2024](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man accused of 'completely reckless and wholly dangerous' driving remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man accused of 'completely reckless and wholly dangerous' driving remanded")](https://www.derrynow.com/news/local-news/1612824/man-accused-of-completely-reckless-and-wholly-dangerous-driving-remanded.html)
 
@@ -332,20 +300,64 @@ Derry Magistrate's Court
 [Man accused of 'completely reckless and wholly dangerous' driving remanded](https://www.derrynow.com/news/local-news/1612824/man-accused-of-completely-reckless-and-wholly-dangerous-driving-remanded.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two Polish men extradited to NI jailed for drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two Polish men extradited to NI jailed for drugs offences")](https://www.derrynow.com/news/local-news/1612827/two-polish-men-extradited-to-ni-jailed-for-drugs-offences.html)
+[![Three vehicles damaged in Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three vehicles damaged in Derry security alert")](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
 
-Derry Crown Court
+Police cordon following the incident in Carnhill where a number of houses were evacuated. Residents have now returned to their premises.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two Polish men extradited to NI jailed for drugs offences](https://www.derrynow.com/news/local-news/1612827/two-polish-men-extradited-to-ni-jailed-for-drugs-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Three vehicles damaged in Derry security alert](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1613597/family-call-for-fresh-inquest-into-death-of-donegal-man-in-altnagelvin-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1613597/family-call-for-fresh-inquest-into-death-of-donegal-man-in-altnagelvin-hospital.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with possessing firearm in public](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing firearm in public")](https://www.derrynow.com/news/local-news/1613746/derry-man-charged-with-possessing-firearm-in-public.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with possessing firearm in public](https://www.derrynow.com/news/local-news/1613746/derry-man-charged-with-possessing-firearm-in-public.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man due in Derry Court charged with series of drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due in Derry Court charged with series of drug offences")](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man due in Derry Court charged with series of drug offences](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Generous donation made to North West Cancer Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Generous donation made to North West Cancer Centre")](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Generous donation made to North West Cancer Centre](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry")](https://www.derrynow.com/news/pictures---videos/1613883/pictures-ni-food-to-go-roadshow-serves-up-innovation-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry](https://www.derrynow.com/news/pictures---videos/1613883/pictures-ni-food-to-go-roadshow-serves-up-innovation-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Inside this charming Victorian two-storey house and farmland for sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Inside this charming Victorian two-storey house and farmland for sale")](https://www.derrynow.com/news/property/1612228/pictures-inside-this-charming-victorian-two-storey-house-and-farmland-for-sale-on-outskirts-of-derry.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PICTURES: Inside this charming Victorian two-storey house and farmland for sale on outskirts of Derry](https://www.derrynow.com/news/property/1612228/pictures-inside-this-charming-victorian-two-storey-house-and-farmland-for-sale-on-outskirts-of-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Elodie Bateson from Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Elodie Bateson from Limavady")](https://www.derrynow.com/video/pictures---videos/1611934/watch-inspirational-county-derry-girl-heading-for-grand-pianist-competition-final.html)
 
@@ -404,20 +416,6 @@ Elodie Bateson from Limavady
 
 [Throwback Tuesday: Birthday celebrations @ Dan’s Bar, Claudy (2013)](https://www.derrynow.com/story-telling/pictures---videos/1612151/throwback-tuesday-birthday-celebrations-dans-bar-claudy-2013.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: St Cecilia's College Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Cecilia's College Formal")](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: St Cecilia's College Formal](https://www.derrynow.com/news/pictures---videos/1612015/pictures-st-cecilia-s-college-formal.html)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE")](https://www.derrynow.com/news/home/1603092/pictures-one-stop-dementia-shop-at-foyleside.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: 'ONE STOP DEMENTIA SHOP' AT FOYLESIDE](https://www.derrynow.com/news/home/1603092/pictures-one-stop-dementia-shop-at-foyleside.html)
------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,55 +517,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Number of homes have been evacuated in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of homes have been evacuated in Derry")](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
-
-PSNI
+[![Have you registered? Foyle Hospice Male Walk/Run returns this weekend!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Have you registered? Foyle Hospice Male Walk/Run returns this weekend!")](https://www.derrynow.com/news/local-news/1613888/have-you-registered-foyle-hospice-male-walk-run-returns-this-weekend.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Number of homes have been evacuated in Derry](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------
+[Have you registered? Foyle Hospice Male Walk/Run returns this weekend!](https://www.derrynow.com/news/local-news/1613888/have-you-registered-foyle-hospice-male-walk-run-returns-this-weekend.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
+[![New cross-departmental strategy aims to crack down on domestic and sexual abuse](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New cross-departmental strategy aims to crack down on domestic and sexual abuse")](https://www.derrynow.com/news/local-news/1613890/new-cross-departmental-strategy-aims-to-crack-down-on-domestic-and-sexual-abuse.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Wednesday, 25th September 2024](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
+[New cross-departmental strategy aims to crack down on domestic and sexual abuse](https://www.derrynow.com/news/local-news/1613890/new-cross-departmental-strategy-aims-to-crack-down-on-domestic-and-sexual-abuse.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/resizer/165/93/true/2024_09_25/2509-odonnell-1170x658-1727262466330.jpg--.jpg?1727262466355 "Wolverhampton Wanderers sign talented Derry City teenager")](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
+
+Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Green light for NWRC’s new sports club initiative](https://www.derrynow.com/resizer/165/93/true/2024_09_25/Green_clubs_1-1727261459056.jpg--.jpg?1727261459672 "Green light for NWRC’s new sports club initiative")](https://www.derrynow.com/news/local-news/1613859/green-light-for-nwrcs-new-sports-club-initiative.html)
+
+Mary Claire Kerlin, Peace Plus, Francine Moran, Sustainability Champion and lecturer at NWRC, and Cathy Burns, Derry and Strabane District Council, pictured at the launch of the Green Clubs project
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Green light for NWRC’s new sports club initiative](https://www.derrynow.com/news/local-news/1613859/green-light-for-nwrcs-new-sports-club-initiative.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Generous donation made to North West Cancer Centre](https://www.derrynow.com/resizer/165/93/true/2024_09_24/Donation_to_NWCC-1727194570238_1727194586.jpg--.jpg?1727194586893 "Generous donation made to North West Cancer Centre")](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
+[![Three vehicles damaged in Derry security alert](https://www.derrynow.com/resizer/165/93/true/2024_09_25/460212661_406576575527281_1049750163750796486_n-1727264279552.jpg--.jpg?1727264279599 "Three vehicles damaged in Derry security alert")](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
+
+Police cordon following the incident in Carnhill where a number of houses were evacuated. Residents have now returned to their premises.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Generous donation made to North West Cancer Centre](https://www.derrynow.com/news/local-news/1613248/generous-donation-made-to-north-west-cancer-centre.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Three vehicles damaged in Derry security alert](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](https://www.derrynow.com/resizer/165/93/true/2024_09_24/CCGBC_PCSP_CRIME_PREVENTION-1727184722968.jpg--.jpg?1727184727427 "Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime")](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
+[![Concerns raised over illegal fireworks in Derry](https://www.derrynow.com/resizer/165/93/true/2024_09_25/ca-times.brightspotcdn-1727261033206.jpg--.jpg?1727261033234 "Concerns raised over illegal fireworks in Derry")](https://www.derrynow.com/news/local-news/1613848/concerns-raised-over-illegal-fireworks-in-derry.html)
 
-Orlaith Quinn, Council’s PCSP Officer, pictured alongside members of the PSNI Neighbourhood Policing Team, at a recent training workshop aimed at tackling rural crime. Photo: CCG Council
+Illegal fireworks
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Causeway Coast and Glens Policing and Community Safety Partnership hosts training to tackle rural crime](https://www.derrynow.com/news/home/1613012/causeway-coast-and-glens-policing-and-community-safety-partnership-hosts-training-to-tackle-rural-crime.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['We knew what we had to do' - Bellaghy captain Karl McCallion](https://www.derrynow.com/resizer/165/93/true/2024_09_24/CDP_24-9-24_Back_Page_1-1727177719588.jpg--.jpg?1727177720218 "'We knew what we had to do' - Bellaghy captain Karl McCallion")](https://www.derrynow.com/news/derry-sport/1612900/we-knew-what-we-had-to-do-bellaghy-captain-karl-mccallion.html)
-
-Bellaghy's Kealan Friel celebrating his goal against Swatragh at Davitt Park. (Photo: Mark Doherty)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-['We knew what we had to do' - Bellaghy captain Karl McCallion](https://www.derrynow.com/news/derry-sport/1612900/we-knew-what-we-had-to-do-bellaghy-captain-karl-mccallion.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Zanshin NI Karate club bring home eight medals from GB Championships!](https://www.derrynow.com/resizer/165/93/true/2024_09_24/CDP_24-9-24_Karate-1727178772705.jpg--.jpg?1727178772784 "Zanshin NI Karate club bring home eight medals from GB Championships!")](https://www.derrynow.com/news/derry-sport/1612898/zanshin-ni-karate-club-bring-home-eight-medals-from-gb-championships.html)
-
-The successful members of Zanshin Shotokan NI Karate Club who won medals at the GB Championships.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Zanshin NI Karate club bring home eight medals from GB Championships!](https://www.derrynow.com/news/derry-sport/1612898/zanshin-ni-karate-club-bring-home-eight-medals-from-gb-championships.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Concerns raised over illegal fireworks in Derry](https://www.derrynow.com/news/local-news/1613848/concerns-raised-over-illegal-fireworks-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
