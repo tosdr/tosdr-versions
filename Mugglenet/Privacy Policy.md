@@ -270,6 +270,34 @@ Recurs yearly
 
 At the age of 82 from pneumonia..
 
+### October 2024
+
+#### Tue, Oct 1
+
+Harry Potter and the Sorcerer's Stone book (US)
+
+Recurs yearly
+
+1998
+
+MuggleNet's anniversary
+
+Recurs yearly
+
+1999
+
+Richard Harris's birthday (RIP)
+
+Recurs yearly
+
+Albus Dumbledore (PS/SS, CoS)
+
+Sam Clemmett's birthday
+
+Recurs yearly
+
+Albus Severus Potter (CC – London and New York)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -280,15 +308,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Harry Potter books were the first children’s books included on the New York Times Best Seller list since E.B. White’s Charlotte’s Web in 1952.
+“Harry Potter and the Chamber of Secrets” was once called “Harry Potter and the Half-Blood Prince”.
 
 ### Potter History
 
-July 15, 2001 – Harry Potter and the Deathly Hallows – Part 2 is released in theaters, breaking records to have the highest-grossing midnight release, first 24 hours, and opening weekend of all time. It is also currently the third highest-grossing film of all time.
+June 3, 2005 – Two copies of Harry Potter and the Half-Blood Prince are stolen but quickly recovered.
 
 ### Potter Quote
 
-“Make way for the Heir of Slytherin, seriously evil wizard coming through. . . .”
+“Do you know why I admire you, Newt? More, perhaps, than any man I know? You don’t seek power or popularity. You simply ask, is the thing right in itself? If it is, then I must do it, no matter the cost.”
 
 [](#)
 
