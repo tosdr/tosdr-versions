@@ -2,7 +2,7 @@
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
- [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwd2b2e3b8/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwd2b2e3b8/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
+ [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw2ee71a18/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw2ee71a18/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
 
 ☰
 
@@ -16,7 +16,7 @@ https://www.conair.com/cart?lang=en\_US
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
-[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwd2b2e3b8/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
+[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw2ee71a18/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
 
 ☰
 
@@ -26,7 +26,7 @@ https://www.conair.com/cart?lang=en\_US
 
 0
 
-* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwe129bb95/images/beautybar.png)](https://www.conair.com/BeautyBar?lang=en_US)
+* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwbecc948b/images/beautybar.png)](https://www.conair.com/BeautyBar?lang=en_US)
 * [Hair](https://www.conair.com/hair?lang=en_US)
     
     * [Hair Dryers](https://www.conair.com/dryers?lang=en_US)
@@ -733,7 +733,7 @@ https://www.conair.com/cart?lang=en\_US
         * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
 * [Featured](https://www.conair.com/featured?lang=en_US)
 * [Sale](https://www.conair.com/sale?lang=en_US)
-* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw4bf8a47e/images/hometrends.png)](https://www.conair.com/hometrends?lang=en_US)
+* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwa93ddac2/images/hometrends.png)](https://www.conair.com/hometrends?lang=en_US)
 
    
 
