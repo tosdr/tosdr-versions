@@ -190,12 +190,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![BG Gilbert Kirby](https://cdn.returningveterans.org/images/honor/BG_Kirby.jpg)  
+![Lane Wickham Barton Jr.](https://cdn.returningveterans.org/images/honor/Battle_of_the_Bulge.jpg)  
 
-**In Honor of BG Gilbert Kirby**  
+**In Memory of Lane Wickham Barton Jr.**  
 United States Army  
-United States Marine Corps  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Sarah Smith](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/25/24 - 8:30:59  
+Printed 9/25/24 - 2:26:38  
 © 2024 Returning Veterans Project
