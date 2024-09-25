@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/jubileumdag-nvkp-het-bezoeken-waard/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/homeopathie/resonance-healing/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
