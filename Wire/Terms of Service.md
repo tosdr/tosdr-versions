@@ -2,10 +2,6 @@
 
 [![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
 
-DE
-
-EN DE ES FR
-
 * [Products](javascript:void(0);)
     
     * [Features](https://wire.com/en/features)
