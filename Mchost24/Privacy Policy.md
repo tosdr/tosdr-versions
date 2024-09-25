@@ -1,6 +1,6 @@
-Wir schenken dir 35 % auf jede Aufladung bis zum 24.09.2024!
+Unser Community Discord ist aktiv. Schau gerne mal vorbei.
 
-[Anmelden](#)
+[Zu Discord](https://discord.com/invite/gSSUc8R)
 
 [](#)
 
