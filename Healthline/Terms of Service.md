@@ -7,13 +7,14 @@
 
 Subscribe
 
-[#### Digestive Health](https://www.healthline.com/digestive-health)
+[#### Weight Management](https://www.healthline.com/weight-management)
 
-* [The Basics](https://www.healthline.com/digestive-health/basics)
-* [Crohn’s Treatment](https://www.healthline.com/digestive-health/crohns-treatment)
-* [UC Treatment](https://www.healthline.com/digestive-health/ulcerative-colitis-treatment)
-* [What to Eat](https://www.healthline.com/digestive-health/diet)
-* [Prevention and Lifestyle](https://www.healthline.com/digestive-health/prevention)
+* [Nutrition](https://www.healthline.com/weight-management/nutrition)
+* [Fitness](https://www.healthline.com/weight-management/fitness)
+* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
+* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
+* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
+* [Apps](https://www.healthline.com/weight-management/apps-products)
 
 Terms of Use
 ============
