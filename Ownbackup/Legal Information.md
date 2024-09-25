@@ -126,6 +126,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[On-Platform Development
+
+The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
+
 [Events
 
 Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/blog/dreamforce-2024-transforming-insights-into-action)
@@ -133,10 +137,6 @@ Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/bl
 [ServiceNow
 
 How to Make ServiceNow Data More Resilient and Compliant](https://www.ownbackup.com/blog/how-to-make-servicenow-data-more-resilient-and-compliant)
-
-[Own Accelerate
-
-Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
 
 Company
 
@@ -348,6 +348,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[On-Platform Development
+
+The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
+
 [Events
 
 Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/blog/dreamforce-2024-transforming-insights-into-action)
@@ -355,10 +359,6 @@ Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/bl
 [ServiceNow
 
 How to Make ServiceNow Data More Resilient and Compliant](https://www.ownbackup.com/blog/how-to-make-servicenow-data-more-resilient-and-compliant)
-
-[Own Accelerate
-
-Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
 
 Company
 
