@@ -216,9 +216,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Digital technologies can propel Europe through its sustainable industrial transformation](https://www.euractiv.com/section/energy-environment/opinion/digital-technologies-can-propel-europe-through-its-sustainable-industrial-transformation/)
     * [How are beverage cartons recycled?](https://www.euractiv.com/section/energy-environment/video/how-are-beverage-cartons-recycled/)
     * [EU Vision Paper – our industry priorities for the EU term 2024-2029](https://www.euractiv.com/section/circular-materials/opinion/eu-vision-paper-our-industry-priorities-for-the-eu-term-2024-2029/)
-    * [Nature-based Solutions benefit people and planet, so why are they missing from EU policies?](https://www.euractiv.com/section/energy-environment/opinion/nature-based-solutions-benefit-people-and-planet-so-why-are-they-missing-from-eu-policies/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -815,16 +815,16 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ### Most read articles
 
-* 1[Leading Russian lawmaker threatens to nuke Strasbourg after European Parliament vote](http://en.euractiv.eu/section/defence-and-security/news/leading-russian-lawmaker-threatens-to-nuke-strasbourg-after-european-parliament-vote/?utm_source=website&utm_campaign=popular)
-* 2[Von der Leyen to propose solution on EU anti-deforestation rules, according to EPP agriculture chief](http://en.euractiv.eu/section/agriculture-food/news/propose-solution-of-eu-anti-deforestation-rules/?utm_source=website&utm_campaign=popular)
-* 3[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
-* 4[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
-* 5[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
-* 6[The UK wants Europe’s carbon](http://en.euractiv.eu/section/energy-environment/news/the-uk-wants-europes-carbon/?utm_source=website&utm_campaign=popular)
-* 7[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
-* 8[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
-* 9[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
-* 10[Council working document show member states not on board with Letta, Draghi reports](http://en.euractiv.eu/section/digital/news/council-working-document-show-member-states-not-on-board-with-letta-draghi-reports/?utm_source=website&utm_campaign=popular)
+* 1[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 2[The UK wants Europe’s carbon](http://en.euractiv.eu/section/energy-environment/news/the-uk-wants-europes-carbon/?utm_source=website&utm_campaign=popular)
+* 3[France or Finland – whose industrial policy should prevail in Europe?](http://en.euractiv.eu/section/economy-jobs/news/france-or-finland-whose-industrial-policy-should-prevail-in-europe/?utm_source=website&utm_campaign=popular)
+* 4[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
+* 5[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
+* 6[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
+* 7[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
+* 8[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
+* 9[Council working document show member states not on board with Letta, Draghi reports](http://en.euractiv.eu/section/digital/news/council-working-document-show-member-states-not-on-board-with-letta-draghi-reports/?utm_source=website&utm_campaign=popular)
+* 10[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
