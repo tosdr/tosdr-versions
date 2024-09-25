@@ -234,7 +234,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come on, it's $10 a month, just do it.
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [10 acres, 4,000 sq ft quonset hut, 15,000 sq ft bunker, nuclear missile base and bunker, 1,250 ft air strip](https://www.fark.com/goto/13405190) ( [zillow.com](https://www.fark.com/goto/13405190) ) » [(31 comments)](https://www.fark.com/comments/13405190/-10-acres-4000-sq-ft-quonset-hut-15000-sq-ft-bunker-nuclear-missile-base-bunker-1250-ft-air-strip) |
-| [Discussion](https://www.fark.com/discussion/) | ["Don't ever hand your phone to the cops"](https://www.fark.com/goto/13405106) ( [theverge.com](https://www.fark.com/goto/13405106) ) » [(15 comments)](https://www.fark.com/comments/13405106/Dont-ever-hand-your-phone-to-cops) |
-| [Sports](https://www.fark.com/sports/) | [Chess is a simple game: two players push wood around the board and after 3 and half hours India wins it all, including the Women's group. Sadly, no anal beads appear to have been involved](https://www.fark.com/goto/13405346) ( [abc.net.au](https://www.fark.com/goto/13405346) ) » [(3 comments)](https://www.fark.com/comments/13405346/Chess-is-a-simple-game-two-players-push-wood-around-board-after-3-half-hours-India-wins-it-all-including-Womens-group-Sadly-no-anal-beads-appear-to-have-been-involved) |
-| [Business](https://www.fark.com/business/) | [Side piece gets 2 years side action](https://www.fark.com/goto/13405224) ( [techcrunch.com](https://www.fark.com/goto/13405224) ) » [(2 comments)](https://www.fark.com/comments/13405224/Side-piece-gets-2-years-side-action) |
-| [STEM](https://www.fark.com/stem/) | [When J.P. Morgan had the first house in America with electric lighting, it had its own power station, run by an electrician who went home at 11pm. And turned off all the lights](https://www.fark.com/goto/13404986) ( [bbc.com](https://www.fark.com/goto/13404986) ) » [(0 comments)](https://www.fark.com/comments/13404986/When-JP-Morgan-had-first-house-in-America-with-electric-lighting-it-had-its-own-power-station-run-by-an-electrician-who-went-home-at-11pm-And-turned-off-all-lights) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Jessica Simpson skips food, buccal fat, natural aging, self-caring regime](https://www.fark.com/goto/13405120) ( [tmz.com](https://www.fark.com/goto/13405120) ) » [(9 comments)](https://www.fark.com/comments/13405120/Jessica-Simpson-skips-food-buccal-fat-natural-aging-self-caring-regime) |
-| [Fandom](https://www.fark.com/fandom/) | [25 years ago, the world was introduced to the joy that is Edgar Wright, Simon Pegg, and Nick Frost working together](https://www.fark.com/goto/13405240) ( [en.m.wikipedia.org](https://www.fark.com/goto/13405240) ) » [(9 comments)](https://www.fark.com/comments/13405240/-25-years-ago-world-was-introduced-to-joy-that-is-Edgar-Wright-Simon-Pegg-Nick-Frost-working-together) |
+| [Main](https://www.fark.com/) | [Orc commanders in Ukraine: Screw you guys, I'm going ho\*BANG\*](https://www.fark.com/goto/13405206) ( [kyivpost.com](https://www.fark.com/goto/13405206) ) » [(3 comments)](https://www.fark.com/comments/13405206/Orc-commanders-in-Ukraine-Screw-you-guys-Im-going-hoBANG) |
+| [Discussion](https://www.fark.com/discussion/) | ["Don't ever hand your phone to the cops"](https://www.fark.com/goto/13405106) ( [theverge.com](https://www.fark.com/goto/13405106) ) » [(17 comments)](https://www.fark.com/comments/13405106/Dont-ever-hand-your-phone-to-cops) |
+| [Sports](https://www.fark.com/sports/) | [New A's hat is Ass hat. Asinine tag busy mooning Oakland](https://www.fark.com/goto/13405324) ( [ftw.usatoday.com](https://www.fark.com/goto/13405324) ) » [(4 comments)](https://www.fark.com/comments/13405324/New-As-hat-is-Ass-hat-Asinine-tag-busy-mooning-Oakland) |
+| [Business](https://www.fark.com/business/) | ["'ASS is not even legally allowed to operate on public roads,' he continued, oblivious or uncaring about how hilarious that sentence sounds"](https://www.fark.com/goto/13405128) ( [futurism.com](https://www.fark.com/goto/13405128) ) » [(9 comments)](https://www.fark.com/comments/13405128/ASS-is-not-even-legally-allowed-to-operate-on-public-roads-he-continued-oblivious-uncaring-about-how-hilarious-that-sentence-sounds) |
+| [STEM](https://www.fark.com/stem/) | [The robots told me to be a jerk and also an extra side of fries, please](https://www.fark.com/goto/13405114) ( [latintimes.com](https://www.fark.com/goto/13405114) ) » [(5 comments)](https://www.fark.com/comments/13405114/The-robots-told-me-to-be-a-jerk-also-an-extra-side-of-fries-please) |
+| [Entertainment](https://www.fark.com/entertainment/) | [I saw four... uh, fingers. Well, yes, and a thumb](https://www.fark.com/goto/13405256) ( [comicbookmovie.com](https://www.fark.com/goto/13405256) ) » [(1 comment)](https://www.fark.com/comments/13405256/I-saw-four-uh-fingers-Well-yes-a-thumb) |
+| [Fandom](https://www.fark.com/fandom/) | [25 years ago, the world was introduced to the joy that is Edgar Wright, Simon Pegg, and Nick Frost working together](https://www.fark.com/goto/13405240) ( [en.m.wikipedia.org](https://www.fark.com/goto/13405240) ) » [(17 comments)](https://www.fark.com/comments/13405240/-25-years-ago-world-was-introduced-to-joy-that-is-Edgar-Wright-Simon-Pegg-Nick-Frost-working-together) |
 | [D'awww](https://www.fark.com/dawww/) | [Exploding Kittens, or something like that](https://www.fark.com/goto/13405314) ( [wcvb.com](https://www.fark.com/goto/13405314) ) » [(0 comments)](https://www.fark.com/comments/13405314/Exploding-Kittens-something-like-that) |
-| [Food](https://www.fark.com/food/) | [A single-person rice cooker mug from just 3 coins](https://www.fark.com/goto/13405082) ( [japantoday.com](https://www.fark.com/goto/13405082) ) » [(2 comments)](https://www.fark.com/comments/13405082/A-single-person-rice-cooker-mug-from-just-3-coins) |
-| [Politics](https://www.fark.com/politics/) | [TCF chickens out of Springfield, Ohio visit](https://www.fark.com/goto/13405194) ( [newsweek.com](https://www.fark.com/goto/13405194) ) » [(17 comments)](https://www.fark.com/comments/13405194/TCF-chickens-out-of-Springfield-Ohio-visit) |
+| [Food](https://www.fark.com/food/) | [A single-person rice cooker mug from just 3 coins](https://www.fark.com/goto/13405082) ( [japantoday.com](https://www.fark.com/goto/13405082) ) » [(6 comments)](https://www.fark.com/comments/13405082/A-single-person-rice-cooker-mug-from-just-3-coins) |
+| [Politics](https://www.fark.com/politics/) | [Agin' Cajun James Carville makes a bold election prediction: "It'll break one way or the other." Wow. Mind blown](https://www.fark.com/goto/13404352) ( [huffpost.com](https://www.fark.com/goto/13404352) ) » [(7 comments)](https://www.fark.com/comments/13404352/Agin-Cajun-James-Carville-makes-a-bold-election-prediction-Itll-break-one-way-the-other-Wow-Mind-blown) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 24 2024 21:42:11  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 25 2024 02:43:27  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
