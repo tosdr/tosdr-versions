@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 24, 2024**
+**September 25, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
-[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
+[COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
 [Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
-
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
 [Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+
+[Lost Treasures](https://www.sciencedaily.com/news/fossils_ruins/lost_treasures/)
 
   
 
