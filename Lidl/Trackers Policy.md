@@ -95,189 +95,219 @@ To display the website correctly, please use one of the following browsers.
 
 **Caution**Please update your browser, if you proceed with this browser, your shopping experience might not be successful!
 
-Great deals at your local store!
-================================
+Customer Cookie Notice
+----------------------
 
-[![Download Lidl Plus](/static/assets/FULL_WIDTH_TEASER_Apples_Promo_2528_640px-1166465.jpg)
+**Use of cookies and similar techniques**
 
-Download Lidl Plus](https://app.adjust.com/pi2c87h?campaign=Newsletter&adgroup=BANNER-THUR&deep_link=https%3A%2F%2Flidlplus.com%2Foffers&redirect=https%3A%2F%2Fwww.lidl.co.uk%2Flidl-plus%3Futm_source%3DNewsletter%26utm_medium%3DBANNER-THUR%26utm_campaign%3DLidl_Plus)
+  
 
-1. This week
-2. Next week
+To make your visit on our website as comfortable and enjoyable as possible, we use cookies. A cookie is a small text file that is placed onto your device e.g a computer or smartphone when you access a website. It allows our website to recognise a user’s device and store some information about the user’s preferences or past actions. Cookies enable your device to access information on our website faster and in a more efficient way.
 
-1. [![](/static/assets/LP_Offers_Hero_Stage_320_240px-1101021.jpg)
-    
-    In Store Now
-    
-    Lidl Plus Offers](https://www.lidl.co.uk/c/lidl-plus-offers-current/a10053222?channel=store&tabCode=Current_Sales_Week)
-2. [![](/static/assets/HeroStage_Wine_Tour_320_240px-1130043.jpg)
-    
-    From Thursday, 29.08
-    
-    The September Wine Tour](https://www.lidl.co.uk/c/the-september-wine-tour/a10053533?channel=store&tabCode=Current_Sales_Week)
-3. [![](/static/assets/POTW_WK38_320_240px-1153181.jpg)
-    
-    From Thursday, 19.09
-    
-    Pick of the Week](https://www.lidl.co.uk/c/pick-of-the-week/a10055331?channel=store&tabCode=Current_Sales_Week)
-4. [![](/static/assets/Deluxe_Wines_V4d_blue_roundel_320_240px-726507.jpg)
-    
-    In Store Now
-    
-    Deluxe Wines](https://www.lidl.co.uk/c/deluxe-wine/a10024071?channel=store&tabCode=Current_Sales_Week)
-5. [![](/static/assets/Hero_Stage_FOTW_CEE_WK37_320_240px-1131740.jpg)
-    
-    From Thursday, 12.09
-    
-    Flavour of the Week: Central & Eastern Europe](https://www.lidl.co.uk/c/flavour-of-the-week-central-eastern-europe/a10054535?channel=store&tabCode=Current_Sales_Week)
-6. [![](/static/assets/HeroStage_Plants_320_240px-1133985.jpg)
-    
-    From Thursday, 19.09
-    
-    Indoor & Outdoor Plants](https://www.lidl.co.uk/c/indoor-outdoor-plants/a10054602?channel=store&tabCode=Current_Sales_Week)
-7. [![](/static/assets/TABNAV_Bathroom_320_240px-1140424.jpg)
-    
-    From Thursday, 19.09
-    
-    Bathroom](https://www.lidl.co.uk/c/bathroom/a10054870?channel=store&tabCode=Current_Sales_Week)
-8. [![](/static/assets/TABNAV_Household_320_240px-1140423.jpg)
-    
-    From Thursday, 19.09
-    
-    Household](https://www.lidl.co.uk/c/household/a10054869?channel=store&tabCode=Current_Sales_Week)
-9. [![](/static/assets/TABNAV_PawPatrol_320_240px-1136659.jpg)
-    
-    From Thursday, 19.09
-    
-    Paw Patrol](https://www.lidl.co.uk/c/paw-patrol/a10054703?channel=store&tabCode=Current_Sales_Week)
-10. [![](/static/assets/TABNAV_Car_320_240px-1140463.jpg)
-    
-    From Sunday, 22.09
-    
-    Car Accessories](https://www.lidl.co.uk/c/car-accessories/a10054868?channel=store&tabCode=Current_Sales_Week)
-11. [![](/static/assets/HeroStage_Parkside_320_240px-1147361.jpg)
-    
-    From Sunday, 22.09
-    
-    Parkside](https://www.lidl.co.uk/c/parkside/a10054686?channel=store&tabCode=Current_Sales_Week)
+  
 
-1. [![](/static/assets/LP_Offers_Hero_Stage_320_240px-1097967.jpg)
-    
-    In Store From Next Week
-    
-    Lidl Plus Offers](https://www.lidl.co.uk/c/lidl-plus-offers-upcoming/a10053070?channel=store&tabCode=Next_Sales_Week)
-2. [![](/static/assets/HeroStage_Wine_Tour_320_240px_V2-1161640.jpg)
-    
-    From Thursday, 26.09
-    
-    The October Wine Tour](https://www.lidl.co.uk/c/the-october-wine-tour/a10055603?channel=store&tabCode=Next_Sales_Week)
-3. [![](/static/assets/Herostage_POTW_320_240px-1153380.jpg)
-    
-    From Thursday, 26.09
-    
-    Pick of the Week](https://www.lidl.co.uk/c/pick-of-the-week/a10055333?channel=store&tabCode=Next_Sales_Week)
-4. [![](/static/assets/Deluxe_Wines_V4d_blue_roundel_320_240px-726507.jpg)
-    
-    In Store Now
-    
-    Deluxe Wines](https://www.lidl.co.uk/c/deluxe-wine/a10024071?channel=store&tabCode=Next_Sales_Week)
-5. [![](/static/assets/Hero_Stage_FOTW_IBERIA_320_240px-1158881.jpg)
-    
-    From Thursday, 26.09
-    
-    Flavour of the Week: Iberia](https://www.lidl.co.uk/c/flavour-of-the-week-iberia/a10055542?channel=store&tabCode=Next_Sales_Week)
-6. [![](/static/assets/TABNAV_Kitchen_320_240px-1154461.jpg)
-    
-    From Thursday, 26.09
-    
-    Kitchen](https://www.lidl.co.uk/c/kitchen/a10055357?channel=store&tabCode=Next_Sales_Week)
-7. [![](/static/assets/HeroStage_Plants_320_240px-1153640.jpg)
-    
-    From Thursday, 26.09
-    
-    Indoor & Outdoor Plants](https://www.lidl.co.uk/c/indoor-outdoor-plants/a10055348?channel=store&tabCode=Next_Sales_Week)
-8. [![](/static/assets/TABNAV_Clothing_320_240px-1153980.jpg)
-    
-    From Thursday, 26.09
-    
-    Clothing](https://www.lidl.co.uk/c/clothing/a10055356?channel=store&tabCode=Next_Sales_Week)
-9. [![](/static/assets/TABNAV_Crafts_320_240px-1153941.jpg)
-    
-    From Sunday, 29.09
-    
-    Hobbies & Crafts](https://www.lidl.co.uk/c/hobbies-crafts/a10055358?channel=store&tabCode=Next_Sales_Week)
-10. [![](/static/assets/TABNAV_Home_320_240px-1153768.jpg)
-    
-    From Sunday, 29.09
-    
-    Home](https://www.lidl.co.uk/c/home/a10055361?channel=store&tabCode=Next_Sales_Week)
+Cookies do not cause any damage to your device, do not contain viruses, trojans or other types of malware.
 
-Lidl Plus Food Coupons Of The Week
-----------------------------------
+  
 
-* [![](/static/assets/LP_COUPON_SLIDER_Croissant_1166px_874px_V5-1164232.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_JamDonut_1166px_874px_V5-1164300.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_DeluxePrawns_1166px_874px_V5-1164254.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_DeluxeSalmon_1166px_874px_V5-1164255.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_Milbona_1166px_874px_V5-1165402.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_MilbonaDrink_1166px_874px_V5-1164266.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_WaytoGoChco_1166px_874px_V5-1164305.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_SunflowerOil_1166px_874px_V5-1164285.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_W5toiletBlocks_1166px_874px_V5-1164287.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_W5Cleaner_1166px_874px_V5-1164286.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_W5AntibackWipes_1166px_874px_V5-1164304.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_W5AllPurposeCleaner_1166px_874px_V5-1165385.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
-* [![](/static/assets/LP_COUPON_SLIDER_AlestoPistachios_1166px_874px_V5-1164253.jpg)](https://app.adjust.com/pi2c87h?campaign=Homepage_Banner&deep_link=https%3A%2F%2Flidlplus.com%2Fhome)
-    
+Below is an overview of all cookies we use, the purpose for which we use them, and how long they are retained. Some of these cookies are designed to make this website available to you and are installed directly on your device without the need for your consent. Other cookies will only be stored once you have given your consent.
 
-Your weekly leaflets and magazines
-----------------------------------
+  
 
-Always Lidl on Price
---------------------
+• Technically necessary: These are cookies and similar methods, without which you cannot use our services (e.g. to display our website/functions you have requested correctly, to remember your registration in the login area, to fill the shopping basket when shopping online, etc.).
 
-* [![](/static/assets/TUP_Picnic_HP_Slider_Teaser_1166px_874px-956153.jpg)](https://www.lidl.co.uk/c/summer-picnic/a10024277)
-    
-* [![](/static/assets/Slider_Teaser_1166_874_2-539186.png)](https://www.lidl.co.uk/c/bakery/s10023103)
-    
-* [![](/static/assets/Slider_Teaser_TUP_SOYA_1166_874px-737703.jpg)](https://www.lidl.co.uk/c/meat-free/a10023346)
-    
-* [![](/static/assets/Pilsner_HP_Slider_Teaser_1166px_874px-783360.jpg)](https://www.lidl.co.uk/p/perlenbacher-pils-alcohol-free/p145052)
-    
-* [![](/static/assets/Slider_Teaser_1166_874px-740320.jpg)](https://www.lidl.co.uk/c/high-protein/a10036613)
-    
+  
 
-[![Best Supermarket Wine Retailer](/static/assets/FW_TEASER_GHI_Wine_2528_640-904956.jpg)
+• Preferences: These technologies allow us to take into account your assumed preference. For example, it also helps us to avoid showing you products that may not be available in your area or to remember your preferred language.
 
-Best Supermarket Wine Retailer](https://www.lidl.co.uk/c/wines/s10023094)
+  
 
-_\*Lidl GB awarded Best Supermarket Wine Range in the 2024 Good Housekeeping Food Awards. Subject to availability. Selected Stores. GB Only. Please Drink Responsibly. Be_ [_drinkaware.co.uk_](https://www.drinkaware.co.uk/)
+• Statistics: These technologies enable us to compile anonymous statistics on the use of our services in order to tailor them to your needs. This enables us to determine, for instance, how we can adapt our websites even better to the habits of the users.
 
-[![Discover our Bakery range](/static/assets/FW_TEASER_Bakery_Guests_WK35_2528_640-1109663.jpg)
+  
 
-Discover our Bakery range](https://www.lidl.co.uk/c/bakery/s10023103?utm_source=HP_Special-Guests&utm_medium=FW&utm_campaign=Homepage_banner)
+• Marketing: This enables us to display advertising content that is suitable for you, based on the analysis of your pattern of use. In this context, your pattern of use can also be tracked via different websites, browsers or terminal devices using a User ID (unique identifier).
 
-Find Out More
--------------
+  
 
-* [![](/static/assets/Home_Page_Slider_5_For_20_MAY_852_638px-968460.jpg)](https://recipes.lidl.co.uk/all-recipes?q=&filters%5Bcollections%5D=6f078a1d-b242-46ba-a623-c7941b9f9339&page=1)[Make 5 meals to feed 4 for under £20](https://recipes.lidl.co.uk/all-recipes?q=&filters%5Bcollections%5D=6f078a1d-b242-46ba-a623-c7941b9f9339&page=1)
-    
-* [![](/static/assets/Blue_Leaflet_Slider_Teaser_852_638px-737641.jpg)](https://www-new.lidl.co.uk/c/online-leaflets/s10023175)[View our digital leaflets](https://www-new.lidl.co.uk/c/online-leaflets/s10023175)
-    
-* [![](/static/assets/Slider_Teaser_WITH_RIBBON_1166_874px-737440.jpg)](https://www-new.lidl.co.uk/c/have-your-say/s10025127)[Customer feedback survey](https://www-new.lidl.co.uk/c/have-your-say/s10025127)
-    
+You can find an **outline of information** on the cookies and other techniques used, including the respective processing purpose, the storage period and any third-party provider involved, here.
+
+  
+
+Within the scope of the use of [cookies](https://www.lidl.co.uk/c/cookie-declaration/s10023137?hidebanner=true) and similar techniques to process usage data, depending on the purpose, in particular the following categories of personal data are processed:
+
+  
+
+**Technically necessary:**
+
+  
+
+• User entries to remember the input over several sub-pages (e.g. to select your preferred store in the Lidl Store Finder);
+
+• Security-relevant incidents (e.g. security for visitors while browsing by impeding cross site request forgery);
+
+• Data to play multimedia content (e.g. playback of (product) videos selected by the user).
+
+  
+
+**Convenience:**
+
+  
+
+• User interface customization settings that are not linked to a permanent identifier (e.g. the active language selection or maps in the store finder)
+
+  
+
+**Statistics:**
+
+  
+
+* Pseudonymized User profiles with information about the use of our websites. These include in particular:
+* browser-type/ -version,
+* the operating system used,
+* referrer URL (the previously visited website),
+* host name of the accessing computer (IP address),
+* time of the server request,
+* individual user ID and
+* triggered events on the website (browsing patterns).
+* The IP address is anonymized on a regular basis, so that it generally cannot be traced back to your person.
+* We only combine the user ID with other data from you (e.g. name, email address, etc.) with your express consent (see e.g. Section 12 of this data protection regulation). Based solely on the user ID itself, we cannot draw any conclusions about your person.
+
+  
+
+**Marketing:**
+
+  
+
+* Pseudonymized user profiles with information about the use of our website. These include in particular:
+* IP address,
+* individual user ID,
+* potential product interest,
+* triggered events on the website (browsing patterns).
+* The IP addresses are anonymized on a regular basis, so that it generally cannot be traced back to your person.
+* We only combine the user ID with other data from you (e.g. name, email address, etc.) with your express consent (see e.g. Section 12 of this data protection regulation). Based solely on the user ID itself, we cannot draw any conclusions about your person. Where appropriate, we share the user ID and the associated usage profiles with third parties via providers of advertising networks.
+
+The legal basis for the use of convenience, statistical and marketing cookies (and similar techniques) is your consent. The legal basis for the use of technically necessary cookies (and similar techniques) is to provide our services in the course of initiation or performance of the contract.
+
+  
+
+**You can revoke / adjust your consent vis-à-vis all controllers (i.e. next to us Lidl Stiftung & Co. KG) at any time with effect for the future, without affecting the legitimacy of the processing based on the consent until the moment of revocation. Simply click here and make your selection. By removing the corresponding check marks, you can easily revoke your consent for the respective processing purposes.**
+
+  
+
+On our websites we also regularly integrate content from partner companies. Further information on these partner companies can be found in section 15 of this data protection notice. Within the scope of the integrated contents, our partners may use their own cookies on their own responsibility and, where necessary, obtain consent. Notwithstanding the fact that these cookies are also included in the above-mentioned outline of information for technical reasons, we have no access to these cookies and are not (jointly) responsible for the data processing activities. This affects the cookies of the following partners: The Baby Show, NCT, National Trust for Scotland, NSPCC, Neighbourly and Lidl Mudder. You can find further information on this in the privacy policy of these partners.
+
+  
+
+**Recipients/ Categories of recipients:**
+
+  
+
+Within the scope of data processing by means of cookies and similar techniques to process usage data, we use specialised service providers, especially from the sector of online marketing. These service providers process your data on our behalf as processors, are in each case carefully selected and contractually obliged in accordance with Article 28 GDPR. All the companies listed as providers in our cookie regulations are acting for us as processors, unless they are named as (joint) controller at the beginning of this paragraph.
+
+  
+
+To the extent covered by your respective consent, your data will also be collected as described above by Lidl Stiftung & Co. KG as separately or joint controller. If you have consented to processing for marketing purposes, we may share your user ID and the associated user profiles with third parties via providers of advertising networks.
+
+  
+
+**Storage period/ Criteria to determine the storage period:**
+
+  
+
+You can find the storage period for cookies in our cookie regulations. If "persistent" is stated in the "expiration" column, the cookie is stored permanently until the corresponding consent is revoked.
+
+  
+
+**Google Analytics**
+
+  
+
+**Why we process your data?**
+
+  
+
+For the purposes of demand-oriented design and ongoing optimisation of our websites, we use Google Analytics, a web analytics service provided by Google, Inc. ("Google") on the basis of our legitimate interest as follows. Pseudonymised user profiles are created and cookies are used. In the process, the cookie generates the following information about your use of this website:
+
+  
+
+• Browser type and version,
+
+  
+
+• Operating system used,
+
+  
+
+• Referrer URL (the previously visited website),
+
+  
+
+• Host name of the accessing computer (IP address),
+
+  
+
+• Time of server request.
+
+  
+
+The information is used to evaluate the use of our websites, to compile reports about website activities and to perform further services connected with the website usage and internet usage for the purposes of market research and the demand-oriented design of these websites. The IP addresses are anonymised, so that attribution is not possible (so-called IP masking).
+
+  
+
+You may prevent the installation of cookies by selecting the appropriate settings on your browser. However, please be advised that if you opt out of using cookies, you may not be able to fully use all the features of this website. Furthermore, you can prevent the collection of data generated by the cookie and related to the usage of the website (incl. your IP address) and the processing of the data by Google by downloading and installing this browser add-on. As an alternative to the browser add-on, especially for browsers on mobile devices, you can also prevent collection of information by Google Analytics by clicking on this link. This sets an opt-out cookie which prevents any future collection of your data when visiting this website. The opt-out cookie applies only in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you must set the ‘opt-out’ to cookies again. Further information on data protection in the context of Google Analytics can be found on the Google Analytics website.
+
+  
+
+Lidl also uses third party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (CGN). As always, we respect your privacy and are not collecting any identifiable information through the use of Google's or any other third party marketing system.
+
+The third party vendors, including Google, whose services we use will place cookies on web browsers in order to serve ads based on past visits to our website. This allows us to make special offers and continue to market our services to those who have showed interest in our service.
+
+  
+
+**Who has access to your data?**
+
+  
+
+The cookie-generated data is forwarded to a Google server in the USA and stored there. Google will under no circumstances associate your IP address with other data. Google may also pass this information on to third parties in so far as this is required by law or if third parties process the data on Google's behalf.
+
+  
+
+**How long is your data stored?**
+
+  
+
+Once the IP address has been anonymised, a conclusion as to your person is no longer possible. The statistically prepared data will be deleted periodically in Google Analytics. In reports generated on the basis of Google Analytics, there is no longer any reference to individuals.
+
+  
+
+**Possibility to Object / Opt-out**
+
+  
+
+You have the possibility to prevent interest-based personalised advertising in general with the aid of the so-called Preference Manager Preference Manager or by clearing cookies in your browser settings.
+
+  
+
+**Bing Maps**
+
+  
+
+On this website we use Bing Maps. This enables us to show you interactive maps directly on the website and enables you to use the map function conveniently, e.g. to find Lidl stores near you.
+
+The use of Bing Maps is in the interest of an attractive presentation of our online offers and to make it easier to find the places we have indicated on the website. This represents a legitimate interest.
+
+When you visit our website, the provider of Bing Maps, Microsoft Corporation, receives the information that you have accessed the corresponding subpage of our website. To use the functions of Bing Maps, it is necessary to process your IP address as part of internet communication. This is usually processed on a Microsoft server in the USA.
+
+We have no influence on the specific data processing by Bing Maps. Further information on the purpose and scope of data processing by Bing Maps can be found in the provider's data protection declaration. There you will also find further information about your rights and setting options to protect your privacy. Address and data protection information of the provider of Bing Maps: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399 USA, [https://privacy.microsoft.com/de-de/privacystatement.](https://privacy.microsoft.com/de-de/privacystatement)
+
+  
+
+**Recipients outside the EU**
+
+  
+
+With the exception of the processing described in Section 13 and 14, we will not forward your data to recipients established outside the European Union or the European Economic Area. The processing mentioned in Section 13 and 14 results in a data transfer to the servers of the providers of tracking or targeting technologies commissioned by us. Some of these servers are located in the USA (for details please refer to respective explanations regarding the specific recipients). The data is transferred in accordance with legal requirements under Art.49 GDPR derogations or on the basis of so-called standard contract clauses of the European Commission.
 
 * [About us](https://www.lidl.co.uk/c/about-us/s10023097 "Lidl About us")
 * [Careers](https://careers.lidl.co.uk/?_ga=2.60600557.173043376.1685434175-1079122095.1682330432 "Careers")
