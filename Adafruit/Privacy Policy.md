@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ What I cannot create, I do not understand”
+“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
 
-[Richard Feynman](https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand)
+[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 [](https://www.adafruit.com/about)
 
