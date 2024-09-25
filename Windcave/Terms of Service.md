@@ -7,24 +7,9 @@
     * [Solutions](https://www.windcave.com/solutions)
     
     * * [In-Store Payments](https://www.windcave.com/instore-payments)
-            * [CHU200T](https://www.windcave.com/CHU200T)
-            * [CHU200TL](https://www.windcave.com/CHU200TL)
-            * [CHU200TP](https://www.windcave.com/CHU200TP)
-            * [CHU200M](https://www.windcave.com/chu200m)
-            * [CHU200MP](https://www.windcave.com/chu200mp)
-            * [LANE3000](https://www.windcave.com/lane3000)
-            * [MOVE5000](https://www.windcave.com/move5000)
-            * [MTM300](https://www.windcave.com/mtm300)
+            
     * * [Unattended Payments](https://www.windcave.com/unattended-payments)
-            * [BRF210F](https://www.windcave.com/BRF210F)
-            * [BRF210L](https://www.windcave.com/BRF210L)
-            * [BRF210LI](https://www.windcave.com/BRF210LI)
-            * [LAN300-B](https://www.windcave.com/LAN300B)
-            * [LAN300L](https://www.windcave.com/LAN300L)
-            * [SCR200F](https://www.windcave.com/SCR200F)
-            * [SCR200F-VM](https://www.windcave.com/SCR200F-VM)
-            * [SCR200VN](https://www.windcave.com/SCR200VN)
-            * [SKP200F](https://www.windcave.com/SKP200F)
+            
     * * [Online Payments](https://www.windcave.com/online-payments)
     
 * [Features](#)
