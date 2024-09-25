@@ -105,7 +105,7 @@ GET IT ON
 
 [](https://www.simon.com/ "Simon Malls & Mills Home")
 
-* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations")
+* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations Nearby")
 * [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
 * [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
 
@@ -115,7 +115,7 @@ Menu
 
 Use your location to find centers near you
 
-* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations")
+* [Brands](https://www.simon.com/brands "Find Brands & Designer Store Locations Nearby")
 * [Centers](https://www.simon.com/mall "Find a Local Simon Center Near You")
 * [Travel](https://www.simon.com/travel "Visit a Simon Travel Destination Around The U.S.A.")
 * Shop Online
