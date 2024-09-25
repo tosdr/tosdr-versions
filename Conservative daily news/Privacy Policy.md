@@ -1,7 +1,8 @@
-Tuesday, September 24 2024
+Wednesday, September 25 2024
 
 Breaking News
 
+* [Authorities Finally Charge Man With Attempting To Assassinate Donald Trump](https://www.conservativedailynews.com/2024/09/authorities-finally-charge-man-with-attempting-to-assassinate-donald-trump/)
 * [Zelenskyy Flown Into Key Swing State At Taxpayer Expense After Attacking Trump, Vance](https://www.conservativedailynews.com/2024/09/zelenskyy-flown-into-key-swing-state-at-taxpayer-expense-after-attacking-trump-vance/)
 * [President Joe Biden’s Schedule for Tuesday, September 24, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-24-2024/)
 * [Jack Smith Should Not Be Allowed To File 180 Page ‘Hit Piece’ While Trump Remains Under Gag Order, Attorneys Say](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
@@ -9,7 +10,6 @@ Breaking News
 * [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/)
 * [The Push To Stuff Americans Into Electric Vehicles Is Facing Its Latest Stop Sign: Theft](https://www.conservativedailynews.com/2024/09/the-push-to-stuff-americans-into-electric-vehicles-is-facing-its-latest-stop-sign-theft/)
 * [Republican Lawmakers Frustrated With Mike Johnson’s New Funding Bill](https://www.conservativedailynews.com/2024/09/republican-lawmakers-frustrated-with-mike-johnsons-new-funding-bill/)
-* [50 Point Gift From The Fed Or Waving The Red Flag](https://www.conservativedailynews.com/2024/09/50-point-gift-from-the-fed-or-waving-the-red-flag/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/08/jail-cells-prison-public-domain.jpg)](https://www.conservativedailynews.com/2024/09/authorities-finally-charge-man-with-attempting-to-assassinate-donald-trump/)
+    
+    [Authorities Finally Charge Man With Attempting To Assassinate Donald Trump](https://www.conservativedailynews.com/2024/09/authorities-finally-charge-man-with-attempting-to-assassinate-donald-trump/)
+    
+    September 24, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv092424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/)
     
     [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/)
@@ -168,25 +174,19 @@ Recent Posts
     
     September 24, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg080423dAPR.jpg)](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
-    
-    [Jack Smith Should Not Be Allowed To File 180 Page ‘Hit Piece’ While Trump Remains Under Gag Order, Attorneys Say](https://www.conservativedailynews.com/2024/09/jack-smith-should-not-be-allowed-to-file-180-page-hit-piece-while-trump-remains-under-gag-order-attorneys-say/)
-    
-    September 24, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Interview: Raine Peltokoski – World Champion Senior – IPSC](https://www.thegunpage.com/tfb-interview-raine-peltokoski-world-champion-senior-ipsc/10610788)
+* [POTD: Langdon Tactical Limited Edition LTT 92 Elite](https://www.thegunpage.com/potd-langdon-tactical-limited-edition-ltt-92-elite/10610789)
+* [HOT GAT or FUDD CRAP? Day of the Dead or Better Off Unsaid?](https://www.thegunpage.com/hot-gat-or-fudd-crap-day-of-the-dead-or-better-off-unsaid/10610790)
+* [Still Time to Register for the 39th Annual Gun Rights Policy Conference in San Diego](https://www.thegunpage.com/still-time-to-register-for-the-39th-annual-gun-rights-policy-conference-in-san-diego/10610785)
+* [Birmingham Mayor’s Blame Misses the Target Following Mass Shooting](https://www.thegunpage.com/birmingham-mayors-blame-misses-the-target-following-mass-shooting/10610782)
 * [Florida Deputy Kills His Girlfriend While Cleaning Guns](https://www.thegunpage.com/florida-deputy-kills-his-girlfriend-while-cleaning-guns/10610780)
 * [WY: Support Arming School Staff in Converse County](https://www.thegunpage.com/wy-support-arming-school-staff-in-converse-county/10610779)
+* [Canada's Gun Grab Price Tag Continues To Grow](https://www.thegunpage.com/canadas-gun-grab-price-tag-continues-to-grow/10610781)
 * [New Angstadt Arms Vanquish 22 Zero Baffle Integral 10/22 Barrel](https://www.thegunpage.com/new-angstadt-arms-vanquish-22-zero-baffle-integral-10-22-barrel/10610778)
 * [Harris Can’t Have It Both Ways On Guns & Home Intruders](https://www.thegunpage.com/harris-cant-have-it-both-ways-on-guns-home-intruders/10610777)
-* [Cabot Announces and Sells Out – The Voltage](https://www.thegunpage.com/cabot-announces-and-sells-out-the-voltage/10610773)
-* [A Crazy Man and His Crazy Gun: Would-Be Trump Assassin’s Rifle Details Revealed](https://www.thegunpage.com/a-crazy-man-and-his-crazy-gun-would-be-trump-assassins-rifle-details-revealed/10610771)
-* [U.S. Secret Service Officer Accidentally Shot Himself](https://www.thegunpage.com/u-s-secret-service-officer-accidentally-shot-himself/10610774)
-* [2024 America Match: U.S. Tops England By Two Points](https://www.thegunpage.com/2024-america-match-u-s-tops-england-by-two-points/10610767)
-* [TFB Review: EAA Girsan MC14BDA .380](https://www.thegunpage.com/tfb-review-eaa-girsan-mc14bda-380/10610763)
-* [POTD: Nighthawk Custom TRS Comp](https://www.thegunpage.com/potd-nighthawk-custom-trs-comp/10610764)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
+* KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
+* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
 * charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
 * TMann on [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/#comment-782277)
 * charles wilkins on [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/#comment-782273)
 * charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
 * Dr. Ramon Argila deTorres y Sandoval on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782260)
 * Adonis on [Chris Cuomo Fact-Checks AOC Over Israeli Pager Attack](https://www.conservativedailynews.com/2024/09/chris-cuomo-fact-checks-aoc-over-israeli-pager-attack/#comment-782256)
-* charles wilkins on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782254)
-* charles wilkins on [Priorities](https://www.conservativedailynews.com/2024/09/priorities-5/#comment-782234)
-* AlwaysVictoria on [Teamsters Don’t Support Trump, But Teamsters Do](https://www.conservativedailynews.com/2024/09/teamsters-dont-support-trump-but-teamsters-do/#comment-782210)
 
 [Close](#)
 
