@@ -1,4 +1,4 @@
-Wednesday, September 25 2024
+Thursday, September 26 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -214,7 +214,7 @@ Quick Guides
     
     [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
-    2 days ago
+    3 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
