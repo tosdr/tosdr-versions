@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How can i report abuse at a memory care facility?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-can-i-report-abuse-at-a-memory-care-facility-300x200.jpg "How Can I Report Abuse at a Memory Care Facility?")](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/ "How Can I Report Abuse at a Memory Care Facility?")
+[![What is the main cause of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-what-is-the-main-cause-of-mesothelioma-scaled.jpg "What Is the Main Cause of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/ "What Is the Main Cause of Mesothelioma?")
 
-[#### How Can I Report Abuse at a Memory Care Facility?](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/)
+[#### What Is the Main Cause of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/)
 
-[![Is there a blood test for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-there-a-blood-test-for-mesothelioma.jpg "Is There a Blood Test for Mesothelioma?")](https://www.pintas.com/lung-cancer/is-there-a-blood-test-for-mesothelioma/ "Is There a Blood Test for Mesothelioma?")
+[![What types of cancer are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-types-of-cancer-are-caused-by-asbestos.jpg "What Types of Cancer Are Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos "What Types of Cancer Are Caused by Asbestos?")
 
-[#### Is There a Blood Test for Mesothelioma?](https://www.pintas.com/lung-cancer/is-there-a-blood-test-for-mesothelioma/)
+[#### What Types of Cancer Are Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos)
 
-[![Can bladder cancer be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-can-bladder-cancer-be-caused-by-asbestos.jpg "Can Bladder Cancer Be Caused by Asbestos?")](https://www.pintas.com/lung-cancer/can-bladder-cancer-be-caused-by-asbestos/ "Can Bladder Cancer Be Caused by Asbestos?")
+[![How common is elder abuse in memory care facilities?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-common-is-elder-abuse-in-memory-care-facilities-300x200.jpg "How Common Is Elder Abuse in Memory Care Facilities?")](https://www.pintas.com/faq/how-common-is-elder-abuse-in-memory-care-facilities/ "How Common Is Elder Abuse in Memory Care Facilities?")
 
-[#### Can Bladder Cancer Be Caused by Asbestos?](https://www.pintas.com/lung-cancer/can-bladder-cancer-be-caused-by-asbestos/)
+[#### How Common Is Elder Abuse in Memory Care Facilities?](https://www.pintas.com/faq/how-common-is-elder-abuse-in-memory-care-facilities/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
