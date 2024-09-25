@@ -66,13 +66,13 @@ Resources
 **Terms of Use**
 ================
 
-Effective date: August 8, 2024
+Effective date: September 25, 2024
 
 **Welcome to Substack!** 
 
 These Terms of Use are a binding contract between you and Substack Inc. (“we”, “us”, “our”). It contains the rules and restrictions that govern your use of Substack’s products and services (referred to below simply as “Substack”). If you have any questions, comments, or concerns regarding these Terms or our products and services, please contact us at tos@substackinc.com.
 
-Using Substack in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use Substack. These Terms include everything in this document, as well as those in the [Privacy Policy](https://www.substack.com/privacy), [Publisher Agreement](https://substack.com/pa), [Content Guidelines](https://substack.com/content), and [Copyright Dispute Policy](https://substack.com/dispute). If you don’t agree to all of the following, you may not use or access Substack in any manner. 
+Using Substack in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use Substack. These Terms include everything in this document, as well as those in the [Privacy Policy](https://www.substack.com/privacy), [Publisher Agreement](https://substack.com/pa), [Content Guidelines](https://substack.com/content), [Support Chatbot Terms](https://substack.com/chatbot-tos), and [Copyright Dispute Policy](https://substack.com/dispute). If you don’t agree to all of the following, you may not use or access Substack in any manner. 
 
 You represent and warrant that you are of legal age to form a binding contract. As detailed further below, you may not and must not use Substack if you are under 16 years old.  
   
