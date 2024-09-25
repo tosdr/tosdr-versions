@@ -1,7 +1,7 @@
-###### Tämä tietosuojalauseke on voimassa: 03.07.2024 lähtien.  
+###### Tämä tietosuojalauseke on voimassa: 25.09.2024 lähtien.  
 Lue tekemistämme päivityksistä [täältä](https://www.sanoma.fi/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojalausekkeen-muutokset/ "täältä").
 
-###### [Tietosuojalausekkeen tulostettava versio](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-03072024.pdf)
+###### [Tietosuojalausekkeen tulostettava versio](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-29052024.pdf)
 
 I – Henkilötietojen käsittely Sanoman palveluissa
 -------------------------------------------------
@@ -65,7 +65,7 @@ Lisäksi käsittelemme henkilötietoja lakisääteisiin velvollisuuksiimme, kute
 
 Käsittelemme henkilötietoja eri oikeusperusteilla riippuen tilanteesta ja käyttötarkoituksesta.
 
-* **Sopimus**: Kun tilaat, ostat tai käytät palveluitamme, käsittelemme tietojasi perustuen sopimussuhteeseen. Sopimusta varten käsittelemme vain tietoja, jotka ovat tarpeen sovitun palvelun toimittamista varten, eli tyypillisesti yhteystietoja sekä digitaalisen tilin tai palvelun ominaisuuksien, kuten esimerkiksi digitaalisten palvelujen personoinnin, toteuttamiseen tarvittavia tietoja.
+* **Sopimus**: Kun tilaat, ostat tai käytät palveluitamme, käsittelemme tietojasi perustuen sopimussuhteeseen. Sopimusta varten käsittelemme vain tietoja, jotka ovat tarpeen sovitun palvelun toimittamista varten, eli tyypillisesti yhteystietoja sekä digitaalisen tilin tai palvelun ominaisuuksien toteuttamiseen tarvittavia tietoja.
 * **Suostumus:** Kun lähetämme sinulle sähköisiä markkinointiviestejä lupaasi perustuen tai kohdennamme sinulle mainontaa verkkopalveluissa, käsittelemme tietojasi suostumukseen perustuen.
 * **Lakisääteinen velvollisuus**: Säilytämme tiettyjä tietoja noudattaaksemme lakisääteisiä velvollisuuksiamme. Säilytämme esimerkiksi laskutustietoja lainsäädännön vaatiman ajan verotusta ja kirjanpitoa varten.
 * **Oikeutettu etu**: Oikeutetulla edulla viittaamme yrityksemme tarpeeseen käsitellä tietoa tuotteidemme ja palvelujemme suoramarkkinointia sekä liiketoiminnan hallintaa ja kehittämistä varten. Näillä toimenpiteillä varmistamme myös asiakkaan etujen toteutumisen. Käsittelemme henkilötietoja oikeutetun edun perusteella esimerkiksi seuraavia käyttötarkoituksia varten:
@@ -219,7 +219,7 @@ Lue tarkemmin oikeuksistasi [täältä](https://www.sanoma.fi/mita-teemme/tieto
 
 Kehitämme palvelujamme jatkuvasti ja pidätämme itsellämme oikeuden muuttaa tätä tietosuojalauseketta. Muutokset voivat perustua myös lainsäädännön muuttumiseen. Suosittelemme tutustumaan tietosuojalausekkeen sisältöön säännöllisesti.
 
-Tämän tietosuojalausekkeen edelliseen versioon voit tutustua [**täällä**](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-29052024.pdf).
+Tämän tietosuojalausekkeen edelliseen versioon voit tutustua [**täällä**](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-03072024.pdf).
 
 ##### Mihin voin ottaa yhteyttä?
 
