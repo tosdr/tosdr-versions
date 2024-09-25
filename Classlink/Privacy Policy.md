@@ -236,7 +236,7 @@ Privacy
 ![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62b4db319778cd42aebf1c1c_2022-banner-line-gradient.png)
 
 ClassLink is committed to ensuring data privacy  
-Updated March 2024  
+Updated September 2024  
 
 ClassLink is committed to ensuring that your information is secure and your privacy is protected. The information below outlines our privacy and security policies. Additional information is contained in our software license and service level agreements. In order to prevent unauthorized access or disclosure, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we store. Learn more about our [security protocols](https://www.classlink.com/company/security).  
 
