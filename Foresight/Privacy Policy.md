@@ -15,7 +15,7 @@ Popular products
 * [Venture Investor Model](https://foresight.is/venture-fund-model/)
 * [See all templates, courses, and services](https://foresight.is/products/)
 
-* [76k+ Downloads](https://foresight.is/users/)
+* [77k+ Downloads](https://foresight.is/users/)
 * [Updates 1](#)
     
     * [Changelog](https://foresight.is/changelog/)
@@ -49,7 +49,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [76k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 1](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [77k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 1](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
