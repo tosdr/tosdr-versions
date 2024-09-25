@@ -36,6 +36,9 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
+    * [![Use this DeskSense AI assistant for more than ChatGPT in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Use this DeskSense AI assistant for more than ChatGPT in this deal](https://www.bleepingcomputer.com/offer/deals/use-this-desksense-ai-assistant-for-more-than-chatgpt-in-this-deal/)
     * [![Windows 10 KB5043131 update released with 9 changes and fixes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 10 KB5043131 update released with 9 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043131-update-released-with-9-changes-and-fixes/)
@@ -45,9 +48,6 @@
     * [![Kansas water plant cyberattack forces switch to manual operations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Kansas water plant cyberattack forces switch to manual operations](https://www.bleepingcomputer.com/news/security/kansas-water-plant-cyberattack-forces-switch-to-manual-operations/)
-    * [![This Microsoft Project deal helps if your work projects are piling up](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This Microsoft Project deal helps if your work projects are piling up](https://www.bleepingcomputer.com/offer/deals/this-microsoft-project-deal-helps-if-your-work-projects-are-piling-up/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -358,9 +358,9 @@ Popular Stories
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Mallox ransomware Linux variant based on leaked Kryptina code](https://www.bleepingcomputer.com/news/security/new-mallox-ransomware-linux-variant-based-on-leaked-kryptina-code/)
-* [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Octopus](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
+    New Octo Android malware version impersonates NordVPN, Google Chrome](https://www.bleepingcomputer.com/news/security/new-octo-android-malware-version-impersonates-nordvpn-google-chrome/)
 
 ##### Follow us:
 
