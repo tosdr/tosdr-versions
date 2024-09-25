@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Bee attack leaves North Richland Hills elderly man in ICU](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-INTRO-NRH-COUPLE-ATTACKED-BY-BEES-9P_00.00.35.18.jpg?ve=1&tl=1)
+ [![Live updates: Tropical Storm Helene nears hurricane strength in Caribbean on trek to Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/snapshot-14.jpg?ve=1&tl=1)
 
- ![Bee attack leaves North Richland Hills elderly man in ICU](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-INTRO-NRH-COUPLE-ATTACKED-BY-BEES-9P_00.00.35.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
+ ![Live updates: Tropical Storm Helene nears hurricane strength in Caribbean on trek to Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/snapshot-14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-updates-tropical-storm-helene-picks-up-speed-approaches-gulf-expected-become-major-hurricane)
 
-### [Bee attack leaves North Richland Hills elderly man in ICU](https://www.fox4news.com/news/north-richland-hills-bees-cross-drive)
+### [Live updates: Tropical Storm Helene nears hurricane strength in Caribbean on trek to Florida](https://www.fox4news.com/news/live-updates-tropical-storm-helene-picks-up-speed-approaches-gulf-expected-become-major-hurricane)
 
- [![Live updates: Tropical Storm Helene strengthening, forecast to strike Florida as major hurricane](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/a92635d4-slot2-20.jpg?ve=1&tl=1)
+ [![16-year-old boy dies from Haltom City road rage shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Haltom-City-road-rage-shooting-suspect-vehicle-2.jpg?ve=1&tl=1)
 
- ![Live updates: Tropical Storm Helene strengthening, forecast to strike Florida as major hurricane](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/a92635d4-slot2-20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
+ ![16-year-old boy dies from Haltom City road rage shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Haltom-City-road-rage-shooting-suspect-vehicle-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/16-year-old-boy-dies-from-haltom-city-road-rage-shooting)
 
-### [Live updates: Tropical Storm Helene strengthening, forecast to strike Florida as major hurricane](https://www.fox4news.com/news/tropical-depression-expected-become-hurricane-helene-timeline-county-by-county-impacts)
+### [16-year-old boy dies from Haltom City road rage shooting](https://www.fox4news.com/news/16-year-old-boy-dies-from-haltom-city-road-rage-shooting)
 
- [![Ryan Wesley Routh charged with assassination attempt of Trump](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2171706530-A.jpg?ve=1&tl=1)
+ [![Wilson gets winning hit in 9th as A's open final series at Coliseum with 5-4 victory over Rangers](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174315341.jpg?ve=1&tl=1)
 
- ![Ryan Wesley Routh charged with assassination attempt of Trump](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171706530-A.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ryan-wesley-routh-charged-assassination-attempt-trump)
+ ![Wilson gets winning hit in 9th as A's open final series at Coliseum with 5-4 victory over Rangers](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174315341.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/wilson-gets-winning-hit-9th-as-open-final-series-coliseum-5-4-victory-over-rangers)
 
-### [Ryan Wesley Routh charged with assassination attempt of Trump](https://www.fox4news.com/news/ryan-wesley-routh-charged-assassination-attempt-trump)
+### [Wilson gets winning hit in 9th as A's open final series at Coliseum with 5-4 victory over Rangers](https://www.fox4news.com/sports/wilson-gets-winning-hit-9th-as-open-final-series-coliseum-5-4-victory-over-rangers)
 
- [![2 SMU students surrender to police after dorm room assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/smu-assault-suspects.jpg?ve=1&tl=1)
+ [![Dallas Weather: Lightning storms and hail hit DFW; Hurricane Helene not to blame](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-THE-COLONY-LARGE-HAIL-PSBUSBEY_00.00.01.30.jpg?ve=1&tl=1)
 
- ![2 SMU students surrender to police after dorm room assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/smu-assault-suspects.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/smu-dorm-room-attack-arrests)
+ ![Dallas Weather: Lightning storms and hail hit DFW; Hurricane Helene not to blame](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-THE-COLONY-LARGE-HAIL-PSBUSBEY_00.00.01.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/lightning-storms-hail-hit-dfw-hurricane-helene)
 
-### [2 SMU students surrender to police after dorm room assault](https://www.fox4news.com/news/smu-dorm-room-attack-arrests)
+### [Lightning storms and hail hit DFW; Hurricane Helene not to blame](https://www.fox4news.com/weather/lightning-storms-hail-hit-dfw-hurricane-helene)
 
- [![Jerry Jones on fans blaming him for Cowboys' struggles: 'That's very fair'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2171744492.jpg?ve=1&tl=1)
+ [![Fort Worth woman taken into custody after SWAT standoff](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-FW-BREA-CANYON-RD-INCIDENT-9P_00.00.10.44.jpg?ve=1&tl=1)
 
- ![Jerry Jones on fans blaming him for Cowboys' struggles: 'That's very fair'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171744492.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-cowboys-blame)
+ ![Fort Worth woman taken into custody after SWAT standoff](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-FW-BREA-CANYON-RD-INCIDENT-9P_00.00.10.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/brea-canyon-road-swat-standoff)
 
-### [Jerry Jones on fans blaming him for Cowboys' struggles: 'That's very fair'](https://www.fox4news.com/sports/jerry-jones-cowboys-blame)
+### [Fort Worth woman taken into custody after SWAT standoff](https://www.fox4news.com/news/brea-canyon-road-swat-standoff)
 
 ###### [News](https://www.fox4news.com/news)
 
