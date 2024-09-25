@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I like your service. I converted to an yearly subscription.
+i love your proxies,they are fast and reliable. Keep it up....nice service.
 
-Ken
+Emma Hamilton
