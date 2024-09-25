@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Sam Prince started the fast-growing Mexican restaurant chain Zambrero after finishing medical school.](https://static.ffx.io/images/$zoom_0.4981%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_691%2C$y_201/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/38dce7fb0324c78527110c4887044fb476bdc98a)](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
+[![Nicola Forrest and John Hartman at the site of the Uungula wind farm near Wellington in NSW. ](https://static.ffx.io/images/$zoom_0.4314%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_712%2C$y_330/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/088ad095c1c2bd8062e1067bc5681e601831ed1f)](https://www.afr.com/wealth/people/hartman-exit-leaves-separated-forrests-occupying-tattarang-board-20240925-p5kdh1)
 
-### [Rich Lister’s Mexican chain locks in 400th location](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
+### [Hartman exit leaves separated Forrests occupying Tattarang board](https://www.afr.com/wealth/people/hartman-exit-leaves-separated-forrests-occupying-tattarang-board-20240925-p5kdh1)
 
-* Yolanda Redrup
+* Brad Thompson and Peter Ker
 
-* ### [Online casino mogul gets into lotteries as profits surge](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
+* ### [Rich Lister’s Mexican chain locks in 400th location](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
     
-* ### [Andrew Hagger and Guy Debelle in new advisory firm for the ultra rich](https://www.afr.com/companies/financial-services/andrew-hagger-and-guy-debelle-in-new-advisory-firm-for-the-ultra-rich-20240917-p5kbav)
+* ### [Online casino mogul gets into lotteries as profits surge](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
     
 
 [The Australian Financial Review](https://www.afr.com/)
