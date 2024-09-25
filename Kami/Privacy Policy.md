@@ -502,6 +502,10 @@ Some browsers incorporate a Do Not Track feature that signals to websites you vi
 
 If you reside in Australia, you have a legal right under the Privacy Act 1988 (Cth) to request access to your personal data which is held by Kami. You also have a right to seek correction (including correction of any errors) of your personal data. If you would like to request access to, or correction of, your personal data, please contact us. If you request access to, or the correction of, your personal data, we will respond to your request within a reasonable period after the request is made. Access to your personal data will be provided in accordance with any applicable laws and is subject to any exemptions which might apply under those laws.
 
+The Safer Technologies 4 Schools (ST4S) initiative was created by the National Schools Interoperability Program (NSIP) at Education Services Australia (ESA) in collaboration with all Australian state, territory, Catholic, and independent school sectors. In 2023, Kami was reviewed by the ST4S team. Both our processes and product were assessed against their latest standards, and Kami was awarded the ST4S badge for meeting the 2022.1 standards. You can verify Kami’s badge on the [ST4S website](https://st4s.edu.au/verify-a-badge/).
+
+Alternatively, if you are required to review the report, any Australian school can contact ST4S via their website or state Ministry of Education. Please note, Kami is not able to save the report to our website as per the ST4S guidelines.
+
 For more information please contact us at: [privacy@kamiapp.com](mailto:privacy@kamiapp.com)
 
 #### Canada privacy rights
