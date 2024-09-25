@@ -16,7 +16,7 @@ The browser version you’re using is no longer supported. Update to a newer ver
 
 [SIXT partners](https://www.sixt.com/partners/)
 
-[SIXT News](https://www.sixt.com/magazine/)
+[SIXT Magazine](https://www.sixt.com/magazine/)
 
 [Imprint & privacy](https://www.sixt.com/pages/privacy/)
 
