@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0f5c88a2e3d1e718ed640ee50911a8f9
+aad503cc7bd5684a0de9ffee71b7c2fb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm red peek-a-boo beads](https://www.sojourner.biz/images/cache/glass/GL0150.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-red-peek-a-boo-beads.html "8 mm red peek-a-boo beads")
+[![Peridot stone chips](https://www.sojourner.biz/images/cache/peridot_strand.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
 
-#### [8 mm red peek-a-boo beads](https://www.sojourner.biz/beads/glass/8-mm-red-peek-a-boo-beads.html "8 mm red peek-a-boo beads")
+#### [Peridot stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
 
-$12.00
+$10.00
 
 ### Best Sellers
 
