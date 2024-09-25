@@ -12,9 +12,16 @@
 * [Identity](https://www.ui.com/identity "Accessory")
 
 * [Support](https://help.ui.com/hc/en-us "Support")
-* 1. [Log In](https://account.ui.com/login "Log In")
-    2. [Sign Up](https://account.ui.com/register "Sign Up")
-    3. [UniFi Site Manager](https://account.ui.com/login?redirect=https%3A%2F%2Funifi.ui.com%2F "UniFi Site Manager")
+* [Store](https://store.ui.com/ "BUY")
+* 1. ![User](data:image/svg+xml,%3Csvg%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%220%200%2040%2040%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cmask%20id%3D%22mask0_3615_2%22%20style%3D%22mask-type%3Aalpha%22%20maskUnits%3D%22userSpaceOnUse%22%20x%3D%220%22%20y%3D%220%22%20width%3D%2240%22%20height%3D%2240%22%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%2220%22%20fill%3D%22%23F4F5F6%22%2F%3E%3C%2Fmask%3E%3Cg%20mask%3D%22url%28%23mask0_3615_2%29%22%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%2220%22%20fill%3D%22%23F4F5F6%22%2F%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2216%22%20r%3D%228.4%22%20fill%3D%22url%28%23paint0_linear_3615_2%29%22%2F%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2244%22%20r%3D%2218%22%20fill%3D%22url%28%23paint1_linear_3615_2%29%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22paint0_linear_3615_2%22%20x1%3D%2220%22%20y1%3D%227.60001%22%20x2%3D%2220%22%20y2%3D%2224.4%22%20gradientUnits%3D%22userSpaceOnUse%22%3E%3Cstop%20stop-color%3D%22%23E9EAEC%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23CDD0D5%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22paint1_linear_3615_2%22%20x1%3D%2220%22%20y1%3D%2226%22%20x2%3D%2220%22%20y2%3D%2256%22%20gradientUnits%3D%22userSpaceOnUse%22%3E%3Cstop%20stop-color%3D%22%23E9EAEC%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23CDD0D5%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        
+    2. [Log In](https://account.ui.com/login "Log In")
+    3. [Sign Up](https://account.ui.com/register "Sign Up")
+    4. [UniFi Site Manager](https://unifi.ui.com/ "UniFi Site Manager")
+    5. * * *
+        
+        [Terms and Conditions](https://www.ui.com/legal/ui-eu-store/termsandconditions/) [Privacy policy](https://www.ui.com/legal/privacypolicy/)
+        
 
 * [Introduction](https://ui.com/eu/en/introduction?s=eu)
 * [How it Works](https://ui.com/eu/en/how-it-works?s=eu)
