@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Extinct Volcanoes Rich in Rare Earth Elements](https://www.sciencedaily.com/releases/2024/09/240924123051.htm)
-* [Lengthened Consonants Mark Start of Words](https://www.sciencedaily.com/releases/2024/09/240924123006.htm)
-* [Medicare-Covered Weight Loss Meds?](https://www.sciencedaily.com/releases/2024/09/240923184938.htm)
-* [Abrupt Intensification of Northern Wildfires](https://www.sciencedaily.com/releases/2024/09/240924123046.htm)
-* [Ill-Fated 1845 Franklin Expedition](https://www.sciencedaily.com/releases/2024/09/240924123035.htm)
-* [Future of Greenland's Glaciers: Cooler Water](https://www.sciencedaily.com/releases/2024/09/240924123033.htm)
-* [Uniquely Inflated and Asymmetric Exoplanet](https://www.sciencedaily.com/releases/2024/09/240924123003.htm)
-* [Rapid Loss of Antarctic Ice After 2100 Likely](https://www.sciencedaily.com/releases/2024/09/240912142344.htm)
-* [Origins of Horseback Riding](https://www.sciencedaily.com/releases/2024/09/240920165153.htm)
-* [Food Fussiness Is a Largely Genetic Trait](https://www.sciencedaily.com/releases/2024/09/240919193539.htm)
+* [A Gene Can Flip to Code for a Different Protein](https://www.sciencedaily.com/releases/2024/09/240925123645.htm)
+* [World's Oldest Cheese Reveals Origins of Kefir](https://www.sciencedaily.com/releases/2024/09/240925122859.htm)
+* [How Special Is the Milky Way Galaxy?](https://www.sciencedaily.com/releases/2024/09/240925144014.htm)
+* [Can We Reach 2°C Climate Target?](https://www.sciencedaily.com/releases/2024/09/240925123600.htm)
+* [A New Ancestor of the Grape Family](https://www.sciencedaily.com/releases/2024/09/240925122920.htm)
+* [Protein Behavior Predicted With Simple Math](https://www.sciencedaily.com/releases/2024/09/240925122856.htm)
+* [Video Games to Benefit Kids' Mental Health](https://www.sciencedaily.com/releases/2024/09/240924165720.htm)
+* [Jaw-Dropping Discovery in Mammal Evolution](https://www.sciencedaily.com/releases/2024/09/240925123653.htm)
+* [Mapping Distant Planets](https://www.sciencedaily.com/releases/2024/09/240925123540.htm)
+* ['Weird' Galaxy With Gas Outshining Its Stars](https://www.sciencedaily.com/releases/2024/09/240925122907.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
 [Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
 
 [Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
-
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+
+[Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
 
   
 
