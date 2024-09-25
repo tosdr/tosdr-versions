@@ -18,95 +18,15 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_agressoes-aluno-colegio-reproducao-reproducao-cortesia_d6640d1d63.jpeg)
+   [![Saiba mais sobre cada um dos cinco finalistas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_CAPA_FINALISTAS_ae592f36b1.jpg)
 
-No Farol
+Maceió
 
-Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió](https://www.tnh1.com.br/noticia/nid/video-aluno-e-espancado-por-colega-na-frente-de-dezenas-de-estudantes-em-maceio/ "Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió")   [![Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/b/csm_lixeira_vandalismo_maceio_0075ebc289.jpg)
-
-prejuízo
-
-Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió](https://www.tnh1.com.br/noticia/nid/mais-de-20-lixeiras-foram-alvo-de-vandalismo-nos-ultimos-15-dias-em-maceio/ "Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió")   [![PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_Jogo_Natal_Solidario_58fb55e788.jpg)
-
-Alagoas
-
-PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar](https://www.tnh1.com.br/noticia/nid/pscom-lanca-15a-edicao-do-natal-solidario-com-jogo-beneficente-entre-famosos-veja-como-participar/ "PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ")   [![Vídeo: homem invade estabelecimento comercial e furta televisão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/2/csm_furto-televisao-estabelecimento-farol_5576e6d72c.jpg)
-
-No Farol
-
-Vídeo: homem invade estabelecimento comercial e furta televisão](https://www.tnh1.com.br/noticia/nid/video-homem-invade-estabelecimento-comercial-e-furta-televisao/ "Vídeo: homem invade estabelecimento comercial e furta televisão")   [![Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_furto-motocicleta-jardim-royal_74f84c2cda.jpg)
-
-Dono estava na casa
-
-Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/video-homem-furta-moto-que-estava-parada-na-frente-de-residencia-no-cidade-universitaria/ "Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária")   [![Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/f/csm_central-de-flagrantes-foto-pc_e5fbf5d58e.jpeg)
-
-Na Garça Torta
-
-Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM](https://www.tnh1.com.br/noticia/nid/irmaos-sao-presos-por-roubo-de-celulares-apos-nao-saberem-dizer-as-senhas-em-abordagem-da-pm/ "Irmãos são presos por roubo de celulares após não saberem dizer as senhas em abordagem da PM")
+Saiba mais sobre cada um dos cinco finalistas](https://www.tnh1.com.br/conteudo/noticia/nid/saiba-mais-sobre-cada-um-dos-cinco-finalistas/ "Saiba mais sobre cada um dos cinco finalistas")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/4/csm_governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos-do-rateio-do-fundef_-_foto__Valdir_RochaAscom_Seduc_38deba1287.jpg)
-
-Alagoas
-
-Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://www.tnh1.com.br/noticia/nid/rateio-do-fundef-governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos/ "Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos")   [![Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/b/csm_tubarao-lixa_em_maragogi_74d3129c80.jpg)
-
-ENTENDA
-
-Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/tubarao-docil-pescadores-avistam-animal-na-parte-rasa-de-praia-de-maragogi-veja-video/ "Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo")   [![Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
-
-meteorologia
-
-Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet](https://www.tnh1.com.br/noticia/nid/quatro-cidades-de-alagoas-tem-alerta-de-baixa-umidade-disparado-pelo-inmet/ "Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet")   [![Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/9/csm_Captura_de_tela_2024-09-24_130408_87e8036800.png)
-
-Economia
-
-Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira](https://www.tnh1.com.br/noticia/nid/procon-alagoas-divulga-pesquisa-de-precos-para-o-dia-das-criancas-confira-1/ "Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira ")   [![Paulo Dantas recebe homenagem do setor leiteiro alagoano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/8/csm_paulo-dantas-recebe-homenagem-do-setor-leiteiro-alagoano_6b8f9841db.jpg)
-
-Alagoas
-
-Paulo Dantas recebe homenagem do setor leiteiro alagoano](https://www.tnh1.com.br/noticia/nid/paulo-dantas-recebe-homenagem-do-setor-leiteiro-alagoano/ "Paulo Dantas recebe homenagem do setor leiteiro alagoano")   [![PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_Jogo_Natal_Solidario_58fb55e788.jpg)
-
-Alagoas
-
-PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar](https://www.tnh1.com.br/noticia/nid/pscom-lanca-15a-edicao-do-natal-solidario-com-jogo-beneficente-entre-famosos-veja-como-participar/ "PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Dois homens são assassinados a tiros dentro de estabelecimento no Village Campestre](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/3/csm_Duplo_homicidio_Cidade_Universitaria_-_foto_Reproducao_a6714a903b.jpeg)
-
-Polícia
-
-Dois homens são assassinados a tiros dentro de estabelecimento no Village Campestre](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-assassinados-a-tiros-dentro-de-estabelecimento-no-village-campestre/ "Dois homens são assassinados a tiros dentro de estabelecimento no Village Campestre")   [![Operação Lego: PM cumpre mandados de busca e apreensão em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_policia-militar-deflagra-operacao-lego-e-cumpre-mandados-de-busca-e-apreensao-em-arapiraca_7353f259f3.jpeg)
-
-agreste
-
-Operação Lego: PM cumpre mandados de busca e apreensão em Arapiraca](https://www.tnh1.com.br/noticia/nid/operacao-lego-pm-cumpre-mandados-de-busca-e-apreensao-em-arapiraca/ "Operação Lego: PM cumpre mandados de busca e apreensão em Arapiraca")   [![Sequestro e assassinato de amigos em Rio Largo podem ter sido provocados por concorrência no tráfico](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/b/csm_corpos_rio_largo_-_foto_reproducao_20d2fe7d81.jpg)
-
-Relação com drogas
-
-Sequestro e assassinato de amigos em Rio Largo podem ter sido provocados por concorrência no tráfico](https://www.tnh1.com.br/noticia/nid/sequestro-e-assassinato-de-amigos-em-rio-largo-podem-ter-sido-provocados-por-concorrencia-no-trafico/ "Sequestro e assassinato de amigos em Rio Largo podem ter sido provocados por concorrência no tráfico")   [![Vídeo: homem invade estabelecimento comercial e furta televisão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/2/csm_furto-televisao-estabelecimento-farol_5576e6d72c.jpg)
-
-No Farol
-
-Vídeo: homem invade estabelecimento comercial e furta televisão](https://www.tnh1.com.br/noticia/nid/video-homem-invade-estabelecimento-comercial-e-furta-televisao/ "Vídeo: homem invade estabelecimento comercial e furta televisão")   [![Câmera flagra furto em farmácia de manipulação no Sertão de AL; dois são presos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/9/csm_furto_farmacia_santana_do_ipanema_-_foto_reproducao_105a9905d9.png)
-
-Assista
-
-Câmera flagra furto em farmácia de manipulação no Sertão de AL; dois são presos](https://www.tnh1.com.br/noticia/nid/camera-flagra-furto-em-farmacia-de-manipulacao-no-sertao-de-al-dois-sao-presos/ "Câmera flagra furto em farmácia de manipulação no Sertão de AL; dois são presos")   [![Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_furto-motocicleta-jardim-royal_74f84c2cda.jpg)
-
-Dono estava na casa
-
-Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/video-homem-furta-moto-que-estava-parada-na-frente-de-residencia-no-cidade-universitaria/ "Vídeo: homem furta moto que estava parada na frente de residência no Cidade Universitária")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +35,6 @@ Vídeo: homem furta moto que estava parada na frente de residência no Cidade Un
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
-
-Pessoas & Negócios
-
-Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -206,15 +116,7 @@ fundo bancário
 
 Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'
 
-Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'](https://www.tnh1.com.br/noticia/nid/filhos-descobrem-heranca-milionaria-7-meses-apos-morte-de-carl-weathers-o-apollo-de-rocky/ "Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'")[![Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/1/csm_Dinheiro_-_Foto_Jose_Cruz_-_Agencia_Brasil_5_f265affb41.jpg)
-
-Educação
-
-Educação
-
-Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef
-
-Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-divulga-passo-a-passo-do-pagamento-dos-precatorios-do-fundef/ "Governo de Alagoas divulga passo a passo do pagamento dos precatórios do Fundef")[![Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_mundo-bab--filmada-por-camera-escondida-1727115662_6d24033a97.jpg)
+Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'](https://www.tnh1.com.br/noticia/nid/filhos-descobrem-heranca-milionaria-7-meses-apos-morte-de-carl-weathers-o-apollo-de-rocky/ "Filhos descobrem herança milionária 7 meses após morte de Carl Weathers, o Apollo de 'Rocky'")[![Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_mundo-bab--filmada-por-camera-escondida-1727115662_6d24033a97.jpg)
 
 Nos EUA
 
@@ -222,15 +124,23 @@ Nos EUA
 
 Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida
 
-Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://www.tnh1.com.br/noticia/nid/baba-e-indenizada-em-r15-milhoes-por-ser-filmada-nua-por-camera-escondida/ "Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida")[![Linhas de ônibus que atendem ao Clima Bom terão trajetos estendidos; veja novidades](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/f/csm_29-09-22-Durval-De-Goes-Monteiro-SMTT-Por-Evinho-Silva-21_59e5a206d6.jpg)
+Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida](https://www.tnh1.com.br/noticia/nid/baba-e-indenizada-em-r15-milhoes-por-ser-filmada-nua-por-camera-escondida/ "Babá é indenizada em R$15 milhões por ser filmada nua por câmera escondida")[![Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/4/csm_governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos-do-rateio-do-fundef_-_foto__Valdir_RochaAscom_Seduc_aa9760f44a.jpg)
 
-EM MACEIÓ
+Alagoas
 
-EM MACEIÓ
+Alagoas
 
-Linhas de ônibus que atendem ao Clima Bom terão trajetos estendidos; veja novidades
+Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos
 
-Linhas de ônibus que atendem ao Clima Bom terão trajetos estendidos; veja novidades](https://www.tnh1.com.br/noticia/nid/linhas-de-onibus-que-atendem-ao-clima-bom-terao-trajetos-estendidos-veja-novidades/ "Linhas de ônibus que atendem ao Clima Bom terão trajetos estendidos; veja novidades")
+Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://www.tnh1.com.br/noticia/nid/rateio-do-fundef-governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos/ "Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos")[![Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/b/csm_tubarao-lixa_em_maragogi_81ab069b00.jpg)
+
+ENTENDA
+
+ENTENDA
+
+Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo
+
+Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/tubarao-docil-pescadores-avistam-animal-na-parte-rasa-de-praia-de-maragogi-veja-video/ "Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo")
 
 [![Amiga e sócia de Gusttavo Lima quebra silêncio sobre acusação: 'Erro de interpretação'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/4/csm_amiga-gusttavo-lima-reproducao_9b8b409c43.jpg)
 
