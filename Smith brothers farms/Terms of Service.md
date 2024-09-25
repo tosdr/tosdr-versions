@@ -190,11 +190,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (74)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (48)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (20)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Favorites (39)](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Favorites (41)](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream (56)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -296,12 +296,12 @@ Hi
         * [Deli & Charcuterie (15)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (71)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (73)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
         * [Frozen Meals (34)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (15)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (17)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (7)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
