@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ismael-Claudio-326x245.jpg)](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
+
+Humboldt Park
+
+### [Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
+
+[September 23, 2024 6:06 AM](https://cwbchicago.com/2024/09)
+
+A private tow truck driver is accused of possessing a stolen high-tech Chicago Police Department radio capable of listening to secured radio transmissions from the city’s police and fire departments.[](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2023/09/Gen-tape-two-squads-326x245.jpg)](https://cwbchicago.com/2024/09/cancelling-shotspotter-is-the-most-radical-reckless-and-dangerous-policy-decision-in-the-history-of-chicago-alderman-says.html "Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says")
+
+Citywide
+
+### [Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says](https://cwbchicago.com/2024/09/cancelling-shotspotter-is-the-most-radical-reckless-and-dangerous-policy-decision-in-the-history-of-chicago-alderman-says.html "Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says")
+
+[September 22, 2024 7:33 PM](https://cwbchicago.com/2024/09)
+
+Chicago Police Supt. Larry Snelling confirmed on Sunday evening that the city will no longer use the ShotSpotter gunfire detection system after midnight tonight, September 22. Mayor Brandon Johnson decided to ignore residents, a supermajority of the City Council, and the editorial boards of both daily newspapers, all of whom advised him to keep the technology in place.[](https://cwbchicago.com/2024/09/cancelling-shotspotter-is-the-most-radical-reckless-and-dangerous-policy-decision-in-the-history-of-chicago-alderman-says.html "Cancelling ShotSpotter is ‘the most radical, reckless, and dangerous policy decision in the history’ of Chicago, alderman says")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Arrested-chain-bukhariancommunity-326x245.jpg)](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
 
 Lincoln Park
@@ -252,26 +272,6 @@ Lincoln Park
 [September 22, 2024 7:00 AM](https://cwbchicago.com/2024/09)
 
 There’s some good news and some bad news to share about the week-long robbery spree in which victims have had necklaces snatched from their necks, mainly in the Loop and along the lakefront.[](https://cwbchicago.com/2024/09/sweet-suspect-in-custody-after-another-woman-has-her-necklace-snatched-on-the-north-side.html "Sweet! Suspect in custody after another woman has her necklace snatched on the North Side")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/06/Brandon-Johnson-ShotSpotter-326x245.jpg)](https://cwbchicago.com/2024/09/on-its-last-saturday-night-in-chicago-shotspotter-pinpointed-a-mass-shooting-location-and-helped-cops-catch-a-suspect-in-a-second-shooting.html "On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting")
-
-Back of the Yards
-
-### [On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting](https://cwbchicago.com/2024/09/on-its-last-saturday-night-in-chicago-shotspotter-pinpointed-a-mass-shooting-location-and-helped-cops-catch-a-suspect-in-a-second-shooting.html "On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting")
-
-[September 22, 2024 6:22 AM](https://cwbchicago.com/2024/09)
-
-ShotSpotter gunfire detectors earned their keep on Saturday night, pinpointing the location of a mass shooting in Little Village before any 911 calls were received and sending cops to a second “shots fired” incident that ended with a suspect in custody.[](https://cwbchicago.com/2024/09/on-its-last-saturday-night-in-chicago-shotspotter-pinpointed-a-mass-shooting-location-and-helped-cops-catch-a-suspect-in-a-second-shooting.html "On its last Saturday night in Chicago, ShotSpotter pinpointed a mass shooting location and helped cops catch a suspect in a second shooting")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Tatanisha-Jackson-326x245.jpg)](https://cwbchicago.com/2024/09/17-year-old-murdered-his-mother-while-on-house-arrest-for-pending-juvenile-case-officials-say.html "17-year-old murdered his mother while on house arrest for pending juvenile case, officials say")
-
-South Shore
-
-### [17-year-old murdered his mother while on house arrest for pending juvenile case, officials say](https://cwbchicago.com/2024/09/17-year-old-murdered-his-mother-while-on-house-arrest-for-pending-juvenile-case-officials-say.html "17-year-old murdered his mother while on house arrest for pending juvenile case, officials say")
-
-[September 22, 2024 5:14 AM](https://cwbchicago.com/2024/09)
-
-Prosecutors on Saturday accused a 17-year-old boy of murdering his mother in front of other family members while on house arrest for a pending juvenile case.[](https://cwbchicago.com/2024/09/17-year-old-murdered-his-mother-while-on-house-arrest-for-pending-juvenile-case-officials-say.html "17-year-old murdered his mother while on house arrest for pending juvenile case, officials say")
 
 Search
 
