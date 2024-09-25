@@ -294,17 +294,18 @@ Not the Bee, in its sole discretion, reserves the right to update, revise, suppl
 
 The Terms of Use, our [Privacy Policy](https://notthebee.com/privacy) , our [Privacy Notice for California Residents](https://notthebee.com/california-privacy), and our [Terms and Conditions For Online Sales](https://notthebee.com/online-sales-terms) constitute the sole and entire agreement between you and Not the Bee regarding the Site and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Site. In the event that any provision contained in the Terms of Use conflicts with any provision in the [Privacy Policy](https://notthebee.com/privacy) (including our [Privacy Notice for California Residents](https://notthebee.com/california-privacy)), the provision most favorable to Not the Bee shall govern and control.
 
+#### Support
+
+* [Contact](https://notthebee.com/contact)
+* [About](https://notthebee.com/article/welcome-to-not-the-bee)
+* [Terms](https://notthebee.com/terms)
+* [Privacy](https://notthebee.com/privacy)
+
 #### Our Sites
 
 * [The Babylon Bee](https://babylonbee.com/)
 * [Not the Bee](https://notthebee.com/)
 * [Bee Social](https://beesocial.com/)
-
-#### Support
-
-* [Contact](https://notthebee.com/contact)
-* [About](https://notthebee.com/article/welcome-to-not-the-bee)
-* [Terms & Privacy](https://notthebee.com/terms)
 
 #### Socials
 
