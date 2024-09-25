@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Blue Stripe 40,000 Interview Special](https://www.somethingawful.com/news/warhammer-chaos-birdhouse/1/)
-* [Rifts Worldbook 20: Canada (1999)](https://www.somethingawful.com/dungeons-and-dragons/rifts-canada-siembieda/1/)
-* [Kurt Vonnegut Writes Descriptions for Sears Products](https://www.somethingawful.com/news/vonnegut-sears-random/1/)
-* [Furrs for Christ, Multiplicity, and Bigfoot Forums](https://www.somethingawful.com/weekend-web/furs-bigfoot-multiplicity/1/)
-* [Worst Goon Gifts \[Receiving\]: (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/worst-goon-gifts/1/)
+* [Heroes Unlimited (1984/1993)](https://www.somethingawful.com/dungeons-and-dragons/kevin-siembieda-aspergers/1/)
+* [Oldboy; Homefront; Frozen; Philomena](https://www.somethingawful.com/current-movie-reviews/oldboy-homefront-frozen/1/)
+* [Iron Man 2; A Nightmare on Elm Street](https://www.somethingawful.com/current-movie-reviews/iron-man-drivel/1/)
+* [MS Paint Nintendo! (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/mspaint-nintendo-mario2/1/)
+* [Sank Yew Velly Mooch For Yoor Votes, Hooman!](https://www.somethingawful.com/news/sank-yew-velly/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [Stuff that gets an overly bad rap but really isnt that terrible](http://forums.somethingawful.com/showthread.php?threadid=4071105 "Stuff that gets an overly bad rap but really isnt that terrible")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Police Chase!](http://forums.somethingawful.com/showthread.php?threadid=4071138 "Police Chase!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Willy Wonka II: The Wonkening](http://forums.somethingawful.com/showthread.php?threadid=4071155 "Willy Wonka II: The Wonkening")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [What would you do if a nuclear war was starting?](http://forums.somethingawful.com/showthread.php?threadid=4071151 "What would you do if a nuclear war was starting?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Willy Wonka II: The Wonkening](http://forums.somethingawful.com/showthread.php?threadid=4071155 "Willy Wonka II: The Wonkening")
 
 ### Random Articles
 
-* [Misunderstood Computer Terms](https://www.somethingawful.com/comedy-goldmine/misunderstood-computer-terms/1/)
-* [Thomas Hood's Cool Hom](https://www.somethingawful.com/awful-links/awful-link-651/)
-* [N Sync with JC and the guys Fan fiction](https://www.somethingawful.com/awful-links/awful-link-798/)
-* [I Can Only Enjoy Video Games With Featureless Blocks as Protagonists](https://www.somethingawful.com/news/triangles-in-gaming/)
-* [Cutbacks](https://www.somethingawful.com/news/cutbacks-office/)
+* [Stop Putting These Enemies In Games](https://www.somethingawful.com/video-game-article/annoying-enemy-types/)
+* [The Death of Daily Radar](https://www.somethingawful.com/news/death-daily-radar/)
+* [Angel Energy - Healing with Love](https://www.somethingawful.com/awful-links/awful-angel-energy/)
+* [Lunch Box Horrors](https://www.somethingawful.com/photoshop-phriday/lunch-box-horrors/1/)
+* [BARN WISDOM](https://www.somethingawful.com/mooflogs/daily-barn-wisdom/)
 
 [Random!](https://www.somethingawful.com/random/)
 
