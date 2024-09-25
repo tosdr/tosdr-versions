@@ -147,7 +147,7 @@
 Privacy
 =======
 
-Welcome to the PepsiCo, Inc. ("PepsiCo") web site. Below you will find our Privacy Notice regarding any personal information that you may supply to us through this web site.
+Welcome to the PepsiCo, Inc. ("PepsiCo") website. Below you will find our Privacy Notice regarding any personal information that you may supply to us through this website.
 
 ### PEPSICO PRIVACY NOTICE
 
@@ -216,7 +216,7 @@ We collect information directly from you. We collect information from you when y
 
 ##### How we may share information we have collected
 
-**We may share information within the PepsiCo family of companies and brands.** This includes current and future PepsiCo subsidiaries, affiliates, and joint venture partners. This also includes current brands such as Pepsi, Frito-Lay, Gatorade, and Quaker; and all future brands. For a list of PepsiCo brands, visit [http://www.pepsico.com/brands/product-information](http://www.pepsico.com/brands/product-information). We may also share information with third parties with which we have an ownership interest or commercial relationship, such as companies whose products we distribute.
+**We may share information within the PepsiCo family of companies and brands.** This includes current and future PepsiCo subsidiaries, affiliates, and joint venture partners. This also includes current brands such as Pepsi, Frito-Lay, Gatorade, and Quaker; and all future brands. For a list of PepsiCo brands, visit [https://www.pepsico.com/our-brands/creating-smiles/our-products](https://www.pepsico.com/our-brands/creating-smiles/our-products). We may also share information with third parties with which we have an ownership interest or commercial relationship, such as companies whose products we distribute.
 
 **We may share information with third-party vendors.** We may share information with companies who serve as our vendors or third parties who perform services on our behalf. They may help us deliver products or services to you. For example, we may share information with companies who operate our sites and apps or who run our promotions.
 
@@ -255,11 +255,11 @@ These additional rights are subject to exceptions under applicable laws. For exa
 If you would like to exercise these rights under applicable state privacy laws, you or your authorized agent have two options for doing so:
 
 * **Call Us:** You may call us at our toll-free number, **1-833-548-0119**; or
-* **Submit Through Our Portal:** You may submit your request through our secure web portal, [http://mydata.pepsico.com](http://mydata.pepsico.com/).
+* **Submit Through Our Portal:** You may submit your request through our [secure web portal](https://submit-irm.trustarc.com/services/validation/1d1278fc-851b-47d4-893d-c3b662f2425a).
 
 We may reasonably verify your request by asking you to provide information to confirm your identity. This information may vary depending on your relationship with us. If you are a consumer in a jurisdiction that recognizes the ability to use an authorized agent and wish to contact us through an authorized agent, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. 
 
-If you are in a jurisdiction that recognizes your ability to appeal a decision we have made in connection with your attempt to assert a right under applicable laws, you may submit a request to appeal through our secure web portal, [http://mydata.pepsico.com](http://mydata.pepsico.com/).
+If you are in a jurisdiction that recognizes your ability to appeal a decision we have made in connection with your attempt to assert a right under applicable laws, you may submit a request to appeal through our [secure web portal](https://submit-irm.trustarc.com/services/validation/1d1278fc-851b-47d4-893d-c3b662f2425a).
 
 Please provide the state that you are writing from, accompanied with information you may have regarding the matter you are appealing. If your jurisdiction allows you to file a complaint with the state’s Attorney General’s Office regarding any concerns with the result of your appeal request, you may do so by using their online properties.
 
@@ -269,7 +269,7 @@ Residents of certain states may also have the right to opt-out of the sale of pe
 
 We do not have actual knowledge that we sell or share the personal information of consumers under 16 years of age.  
 
-If you do not wish for us to sell or share your personal information for targeted advertising purposes, you can opt out by submitting your request through [Your Privacy Choices](http://mydata.pepsico.com/). 
+If you do not wish for us to sell or share your personal information for targeted advertising purposes, you can opt out by submitting your request through [Your Privacy Choices](https://submit-irm.trustarc.com/services/validation/1d1278fc-851b-47d4-893d-c3b662f2425a). 
 
 ##### Retention of personal information 
 
@@ -282,7 +282,7 @@ We keep the categories of personal information described above for as long as is
 
 ##### Children's privacy
 
-It is not our intention to collect personal information from children under age 13. If you are a parent or legal guardian and think that your child under 13 has given us information, you can contact us at [https://contact.pepsico.com/pepsico/contact-us](https://contact.pepsico.com/pepsico/contact-us) and we will take appropriate steps. You can also write to us at the address listed below. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy online [here](https://consumer.ftc.gov/articles/protecting-your-childs-privacy-online).  
+It is not our intention to collect personal information from children under age 13. If you are a parent or legal guardian and think that your child under 13 has given us information, you can contact us at [https://contact.pepsico.com/pepsico/contact-us](https://contact.pepsico.com/pepsico/contact-us) and we will take appropriate steps. You can also write to us at the address listed below. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about [how to protect children’s privacy online](https://consumer.ftc.gov/articles/protecting-your-childs-privacy-online).  
 
 ##### Biometric data
 
@@ -357,17 +357,17 @@ In California, you may have certain additional rights under applicable law, in a
 If you would like to exercise these rights under applicable state privacy laws, you or your authorized agent have two options for doing so:
 
 * **Call us:** You may call us at our toll-free number, **1-833-548-0119**; or
-* **Submit through our portal:** You may submit your request through our secure web portal, [http://mydata.pepsico.com](http://mydata.pepsico.com/).
+* **Submit through our portal:** You may submit your request through our [secure web portal](https://submit-irm.trustarc.com/services/validation/1d1278fc-851b-47d4-893d-c3b662f2425a).
 
 _Sale or Sharing._ Over the past 12 months, we have worked with advertising partners who assist us with our targeted advertising activities, who may have had access to identifiers, Internet and other electronic network activity information, geolocation data, and other personal information.
 
 To the extent we collect precise geolocation information for purposes of performing a Service you have requested, we may be deemed to be collecting data that is “sensitive” under California law. Our use of this data for performing a Service you have requested is consistent with the permitted business purposes in California Civil Code § 1798.100 et seq. and implementing regulations.
 
-If you do not wish for us to sell or share your personal information for targeted advertising purposes, you can opt out by submitting your request through [Your Privacy Choices](http://mydata.pepsico.com/). 
+If you do not wish for us to sell or share your personal information for targeted advertising purposes, you can opt out by submitting your request through [Your Privacy Choices](https://submit-irm.trustarc.com/services/validation/1d1278fc-851b-47d4-893d-c3b662f2425a). 
 
 **Financial Incentives** 
 
-We offer PepsiCo Tasty Rewards (“PTR”), a rewards program that provides benefits such as rewards points and discounts to those who opt in by choosing to participate, and other similar promotional programs. Participation in these programs may require you to provide some personal information, such as name, date of birth, address, telephone number, and email address, which we use to operate the program, including to send you offers and discounts, and for the other purposes described in this Notice. Additional information related to PTR is available [here](https://www.tastyrewards.com/en-us). For the full terms and conditions, please review the terms and conditions for the applicable program.  
+We offer PepsiCo Tasty Rewards (“PTR”), a rewards program that provides benefits such as rewards points and discounts to those who opt in by choosing to participate, and other similar promotional programs. Participation in these programs may require you to provide some personal information, such as name, date of birth, address, telephone number, and email address, which we use to operate the program, including to send you offers and discounts, and for the other purposes described in this Notice. Additional information related to PTR is available [on TastyRewards.com](https://www.tastyrewards.com/en-us). For the full terms and conditions, please review the terms and conditions for the applicable program.  
 
 The incentives associated with PTR and similar programs are designed to reward loyal customers based on the volume of products they purchase from us rather than the value of your personal information. Based on our reasonable and good faith estimate, we receive value from PTR in increased loyalty and purchases.   
 
