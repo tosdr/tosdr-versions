@@ -325,7 +325,9 @@ This Privacy Policy is effective as of March 1, 2024.
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
-**Did you miss New Member Monday yesterday? Don’t worry! This monthly match isn’t going anywhere…yet. [Find out what it’s all about.](https://freespeech.org/donate-all/?utm_source=popup)****[](https://freespeech.org/store/?utm_source=popup.tote)**
+**Just 3 Days Left  
+****Inspire your community to vote.  
+[Support independent media!](https://freespeech.org/donate-all/?utm_source=popup)We need you to…**
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20532%2080'%3E%3C/svg%3E)
 
