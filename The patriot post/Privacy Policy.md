@@ -122,6 +122,8 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Star Parker Why Are More Young Women Than Young Men Moving Left?](https://patriotpost.us/opinion/110552-why-are-more-young-women-than-young-men-moving-left-2024-09-25)
+*      [Mark Alexander Harris’s Audacity of Deception Strategy 2.0](https://patriotpost.us/alexander/110551-harriss-audacity-of-deception-strategy-2-dot-0-2024-09-25)
 *      [Hans von Spakovsky Criticism of Project 2025’s Reforms of Federal Election Commission Is Ill-Informed, Dangerous](https://patriotpost.us/opinion/110534-criticism-of-project-2025-s-reforms-of-federal-election-commission-is-ill-informed-dangerous-2024-09-25)
 *      [Rich Lowry Israel’s Righteous War on Hezbollah](https://patriotpost.us/opinion/110533-israels-righteous-war-on-hezbollah-2024-09-25)
 *      [Tim Graham Being President Is Not Similar to Playing ‘Top Chef’](https://patriotpost.us/opinion/110532-being-president-is-not-similar-to-playing-top-chef-2024-09-25)
@@ -146,11 +148,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
