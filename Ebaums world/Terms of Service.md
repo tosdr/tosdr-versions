@@ -257,13 +257,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![Insane Childhood Stories As Told By Twitter Users](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/) [19 Insane Childhood Stories As Told By Twitter Users](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/)
+    [![Kid trolls NBA dance cam](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/) [Genius Kid Baits NBA Dance Cam into Showing a Pro-Hong Kong Message](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/) [24 Tasteless and Terrible Tattoos Inked With Regret](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/)
+    [![a tiny crab in an oyster](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/) [15 People Who Captured Something They Just Had to Share](https://www.ebaumsworld.com/pictures/15-people-who-captured-something-unusual-that-they-had-to-share/85963607/)
     
-    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
+    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
     
-    [![elevangelist Kenneth Copeland defends his lavish lifestyle](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/) [Megachurch Pastor Tries To Justify His Lavish Lifestyle](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/)
+    [![hot teacher in grey dress](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/) [Here Is One Great Reason To Stay In School](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/)
     
 
 * Advertisement
