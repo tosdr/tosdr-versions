@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Especialista em obras de restauro ministra palestra gratuita em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/7/csm_Jorge_Tinoco_1_80198d1112.jpeg)
+   [![Comerciantes dos Flexais participam de feira na Pajuçara](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/5/csm_Feira_Braskem_80c4cef477.jpeg)
 
 Maceió
 
-Especialista em obras de restauro ministra palestra gratuita em Maceió](https://www.tnh1.com.br/noticia/nid/especialista-em-obras-de-restauro-ministra-palestra-gratuita-em-maceio/ "Especialista em obras de restauro ministra palestra gratuita em Maceió")   [![Homem sofre queda em escada rolante e é socorrido em shopping de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/d/csm_escada_rolante_-_foto_freepik_c940a22a82.jpg)
+Comerciantes dos Flexais participam de feira na Pajuçara](https://www.tnh1.com.br/noticia/nid/comerciantes-dos-flexais-participam-de-feira-na-pajucara/ "Comerciantes dos Flexais participam de feira na Pajuçara")   [![Prefeitura de Maceió antecipa pagamento dos salários de setembro; veja data ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_real_moedadinheiro_jfcrz_abr_1701220041_1_2169fb21fc.jpg)
+
+Atenção, servidores
+
+Prefeitura de Maceió antecipa pagamento dos salários de setembro; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-pagamento-dos-salarios-de-setembro-veja-data/ "Prefeitura de Maceió antecipa pagamento dos salários de setembro; veja data ")   [![Dinho Zampier fala sobre processo criativo em trilha para documentário sobre construtor de casas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/c/csm_Dinho_Zampier_-_credito_Amanda_Moa__1__cb88148757.jpg)
+
+Pedro Pedreiro
+
+Dinho Zampier fala sobre processo criativo em trilha para documentário sobre construtor de casas](https://www.tnh1.com.br/noticia/nid/dinho-zampier-fala-sobre-processo-criativo-em-trilha-para-documentario-sobre-construtor-de-casas/ "Dinho Zampier fala sobre processo criativo em trilha para documentário sobre construtor de casas")   [![Engenheiros avaliam riscos na estrutura do Emissário Submarino: "providências urgentes"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_emissario_submarino_maceio_ascom_crea_al_fdf0e97d92.jpg)
+
+em maceió
+
+Engenheiros avaliam riscos na estrutura do Emissário Submarino: "providências urgentes"](https://www.tnh1.com.br/noticia/nid/engenheiros-avaliam-riscos-na-estrutura-do-emissario-submarino-providencias-urgentes/ "Engenheiros avaliam riscos na estrutura do Emissário Submarino: "providências urgentes"")   [![Especialista em obras de restauro ministra palestra gratuita em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_Jorge_Tinoco_1_80198d1112.jpeg)
+
+Maceió
+
+Especialista em obras de restauro ministra palestra gratuita em Maceió](https://www.tnh1.com.br/noticia/nid/especialista-em-obras-de-restauro-ministra-palestra-gratuita-em-maceio/ "Especialista em obras de restauro ministra palestra gratuita em Maceió")   [![Homem sofre queda em escada rolante e é socorrido em shopping de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/d/csm_escada_rolante_-_foto_freepik_c940a22a82.jpg)
 
 Ficou ferido
 
-Homem sofre queda em escada rolante e é socorrido em shopping de Maceió](https://www.tnh1.com.br/noticia/nid/homem-sofre-queda-em-escada-rolante-e-e-socorrido-em-shopping-de-maceio/ "Homem sofre queda em escada rolante e é socorrido em shopping de Maceió")   [![Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_agressoes-aluno-colegio-reproducao-reproducao-cortesia_d6640d1d63.jpeg)
-
-No Farol
-
-Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió](https://www.tnh1.com.br/noticia/nid/video-aluno-e-espancado-por-colega-na-frente-de-dezenas-de-estudantes-em-maceio/ "Vídeo: aluno é espancado por colega na frente de dezenas de estudantes em Maceió")   [![Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/b/csm_lixeira_vandalismo_maceio_0075ebc289.jpg)
-
-prejuízo
-
-Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió](https://www.tnh1.com.br/noticia/nid/mais-de-20-lixeiras-foram-alvo-de-vandalismo-nos-ultimos-15-dias-em-maceio/ "Mais de 20 lixeiras foram alvo de vandalismo nos últimos 15 dias, em Maceió")   [![PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/0/csm_Jogo_Natal_Solidario_58fb55e788.jpg)
-
-Alagoas
-
-PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar](https://www.tnh1.com.br/noticia/nid/pscom-lanca-15a-edicao-do-natal-solidario-com-jogo-beneficente-entre-famosos-veja-como-participar/ "PSCOM lança 15ª edição do Natal Solidário com jogo beneficente entre famosos; veja como participar ")   [![Vídeo: homem invade estabelecimento comercial e furta televisão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/2/csm_furto-televisao-estabelecimento-farol_5576e6d72c.jpg)
-
-No Farol
-
-Vídeo: homem invade estabelecimento comercial e furta televisão](https://www.tnh1.com.br/noticia/nid/video-homem-invade-estabelecimento-comercial-e-furta-televisao/ "Vídeo: homem invade estabelecimento comercial e furta televisão")
+Homem sofre queda em escada rolante e é socorrido em shopping de Maceió](https://www.tnh1.com.br/noticia/nid/homem-sofre-queda-em-escada-rolante-e-e-socorrido-em-shopping-de-maceio/ "Homem sofre queda em escada rolante e é socorrido em shopping de Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Vídeo: homem invade estabelecimento comercial e furta televisão](https://www.t
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_estudo_propolis_6bdf005724.jpeg)
-
-em Alagoas
-
-Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis](https://www.tnh1.com.br/noticia/nid/pesquisadores-da-ufal-e-unipropolis-se-unem-para-aprofundar-estudos-sobre-propolis/ "Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis")   [![Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/5/csm_operacao-lei-seca-realiza-mais-de-mil-abordagens-durante-semana-nacional-de-transito_95132abdef.jpg)
-
-Em Alagoas
-
-Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito](https://www.tnh1.com.br/noticia/nid/operacao-lei-seca-realiza-mais-de-mil-abordagens-durante-semana-nacional-de-transito/ "Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito")   [![Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/4/csm_governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos-do-rateio-do-fundef_-_foto__Valdir_RochaAscom_Seduc_38deba1287.jpg)
+   [![Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva_8d3415d5fc.jpg)
 
 Alagoas
 
-Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos](https://www.tnh1.com.br/noticia/nid/rateio-do-fundef-governo-publica-portaria-com-datas-e-orientacoes-sobre-os-pagamentos/ "Rateio do Fundef: Governo publica portaria com datas e orientações sobre os pagamentos")   [![Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/b/csm_tubarao-lixa_em_maragogi_74d3129c80.jpg)
+Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://www.tnh1.com.br/noticia/nid/vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva-do-ministerio-das-cidades/ "Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades")   [![Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/e/csm_governo-de-alagoas-envia-bombeiros-para-o-combate-as-queimadas-no-norte-do-brasil_dbe41bd616.jpg)
 
-ENTENDA
+situação crítica
 
-Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/tubarao-docil-pescadores-avistam-animal-na-parte-rasa-de-praia-de-maragogi-veja-video/ "Tubarão dócil? Pescadores avistam animal na parte rasa de praia de Maragogi; veja vídeo")   [![Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
+Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-envia-bombeiros-para-o-combate-as-queimadas-no-norte-do-brasil/ "Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil")   [![Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_Site_Fundef_AL_e302a90eae.jpg)
 
-meteorologia
+Alagoas
 
-Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet](https://www.tnh1.com.br/noticia/nid/quatro-cidades-de-alagoas-tem-alerta-de-baixa-umidade-disparado-pelo-inmet/ "Quatro cidades de Alagoas têm alerta de baixa umidade disparado pelo Inmet")   [![Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_Captura_de_tela_2024-09-24_130408_87e8036800.png)
+Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-seduc-orienta-servidor-sobre-como-ingressar-com-recurso/ "Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso")   [![Inmet amplia alerta de baixa umidade para 10 municípios de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_calor-suor-foto-_c__Marcelo_CamargoAgencia_Bras_c37ffa24af.jpg)
 
-Economia
+veja quais
 
-Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira](https://www.tnh1.com.br/noticia/nid/procon-alagoas-divulga-pesquisa-de-precos-para-o-dia-das-criancas-confira-1/ "Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira ")
+Inmet amplia alerta de baixa umidade para 10 municípios de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-amplia-alerta-de-baixa-umidade-para-10-municipios-de-alagoas/ "Inmet amplia alerta de baixa umidade para 10 municípios de Alagoas")   [![Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/c/csm_estudo_propolis_6bdf005724.jpeg)
+
+em Alagoas
+
+Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis](https://www.tnh1.com.br/noticia/nid/pesquisadores-da-ufal-e-unipropolis-se-unem-para-aprofundar-estudos-sobre-propolis/ "Pesquisadores da Ufal e Uniprópolis se unem para aprofundar estudos sobre própolis")   [![Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/5/csm_operacao-lei-seca-realiza-mais-de-mil-abordagens-durante-semana-nacional-de-transito_95132abdef.jpg)
+
+Em Alagoas
+
+Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito](https://www.tnh1.com.br/noticia/nid/operacao-lei-seca-realiza-mais-de-mil-abordagens-durante-semana-nacional-de-transito/ "Operação Lei Seca realiza mais de mil abordagens durante Semana Nacional de Trânsito")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ Procon Alagoas divulga pesquisa de preços para o Dia das Crianças; confira](ht
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/7/csm_delegacia_geral_pc_c793a0342a.jpeg)
+   [![Polícia é acionada após suspeita de adulteração durante vistoria em veículo, em Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_detran-alagoas-aciona-a-policia-civil-apos-suspeita-de-adulteracao-durante-vistoria-em-veiculo_4687f90000.jpeg)
+
+irregular
+
+Polícia é acionada após suspeita de adulteração durante vistoria em veículo, em Alagoas](https://www.tnh1.com.br/noticia/nid/policia-e-acionada-apos-suspeita-de-adulteracao-durante-vistoria-em-veiculo-em-alagoas/ "Polícia é acionada após suspeita de adulteração durante vistoria em veículo, em Alagoas ")   [![Suspeito de tentar assassinar família e bebê de oito meses a tiros é preso no interior](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/6/csm_suspeito_de_atirar_contra_familia_e_bebe_e_preso_no_interior_de_AL_-_foto_Reproducao_PCAL_006d132001.jpg)
+
+Polícia
+
+Suspeito de tentar assassinar família e bebê de oito meses a tiros é preso no interior](https://www.tnh1.com.br/noticia/nid/suspeito-de-tentar-assassinar-familia-e-bebe-de-oito-meses-a-tiros-e-preso-no-interior/ "Suspeito de tentar assassinar família e bebê de oito meses a tiros é preso no interior")   [![Suspeito de esfaquear namorado da ex-mulher é preso em São Miguel dos Campos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/7/csm_csm_viatura_Policia_Civil_AL_6cb24d60b2_b185a695a4.jpeg)
+
+36 anos
+
+Suspeito de esfaquear namorado da ex-mulher é preso em São Miguel dos Campos](https://www.tnh1.com.br/noticia/nid/suspeito-de-esfaquear-namorado-da-ex-mulher-e-preso-em-sao-miguel-dos-campos/ "Suspeito de esfaquear namorado da ex-mulher é preso em São Miguel dos Campos")   [![Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/7/csm_delegacia_geral_pc_c793a0342a.jpeg)
 
 CASO KLEBER MALAQUIAS
 
@@ -94,19 +106,7 @@ Ações da PM terminam com apreensões de arma de fogo, droga e veículo roubado
 
 Capturado
 
-Investigado na Operação Terabyte é preso por estupro de duas crianças, em Maceió](https://www.tnh1.com.br/noticia/nid/investigado-na-operacao-terabyte-e-preso-por-estupro-de-duas-criancas-em-maceio/ "Investigado na Operação Terabyte é preso por estupro de duas crianças, em Maceió")   [![Jovem é preso suspeito de apologia ao nazismo e de obrigar meninas a introduzirem facas na genitália](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_suspeito-nazismo-arapiraca_19b40fc342.jpg)
-
-Em Arapiraca
-
-Jovem é preso suspeito de apologia ao nazismo e de obrigar meninas a introduzirem facas na genitália](https://www.tnh1.com.br/noticia/nid/jovem-e-preso-suspeito-de-apologia-ao-nazismo-e-de-obrigar-meninas-a-introduzirem-facas-na-genitalia/ "Jovem é preso suspeito de apologia ao nazismo e de obrigar meninas a introduzirem facas na genitália")   [![Quase 15 acusados de crimes no Sertão de Alagoas são capturados; veja vídeos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/d/csm_prisoes_delmiro_gouveia_divulgacao_pc-al_806fcdfeae.jpeg)
-
-14 mandados
-
-Quase 15 acusados de crimes no Sertão de Alagoas são capturados; veja vídeos](https://www.tnh1.com.br/noticia/nid/quase-15-acusados-de-crimes-no-sertao-de-alagoas-sao-capturados-veja-videos/ "Quase 15 acusados de crimes no Sertão de Alagoas são capturados; veja vídeos ")   [![Homem é preso e confessa ter matado funcionário de escola em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_paulo_ricardo_-_arapiraca_-_arquivo_pessoal_ecd404e7c4_9ab70dff79.jpg)
-
-caso Paulo Ricardo
-
-Homem é preso e confessa ter matado funcionário de escola em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-e-confessa-ter-matado-funcionario-de-escola-em-alagoas/ "Homem é preso e confessa ter matado funcionário de escola em Alagoas")
+Investigado na Operação Terabyte é preso por estupro de duas crianças, em Maceió](https://www.tnh1.com.br/noticia/nid/investigado-na-operacao-terabyte-e-preso-por-estupro-de-duas-criancas-em-maceio/ "Investigado na Operação Terabyte é preso por estupro de duas crianças, em Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -236,39 +236,39 @@ Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de
 
 Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela](https://www.tnh1.com.br/noticia/nid/bahia-registra-mortes-suspeitas-de-botulismo-doenca-e-associada-ao-consumo-de-mortadela/ "Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela")
 
-[![Médico é preso após atropelar mulher e não prestar socorro; vítima morreu](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/5/csm_carro_acidente_medico_vitima_reproducao_policia_civil_e_redes_sociais_79f2e4a57b.jpg)
+[![Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva_33003f8edf.jpg)
 
-no rs
+Alagoas
 
-no rs
+Alagoas
 
-Médico é preso após atropelar mulher e não prestar socorro; vítima morreu
+Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades
 
-Médico é preso após atropelar mulher e não prestar socorro; vítima morreu](https://www.tnh1.com.br/noticia/nid/medico-e-preso-apos-atropelar-mulher-e-nao-prestar-socorro-vitima-morreu/ "Médico é preso após atropelar mulher e não prestar socorro; vítima morreu")[![Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/7/csm_delegacia_geral_pc_08a63f7319.jpeg)
+Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://www.tnh1.com.br/noticia/nid/vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva-do-ministerio-das-cidades/ "Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades")[![Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_deolane-bezerra-mae-reproducao-redes-sociais__1__5630fb048d.jpg)
 
-CASO KLEBER MALAQUIAS
+Gente Famosa
 
-CASO KLEBER MALAQUIAS
+Gente Famosa
 
-Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas
+Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão
 
-Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas](https://www.tnh1.com.br/noticia/nid/delegado-preso-pela-pf-e-afastado-das-funcoes-na-policia-civil-de-alagoas/ "Delegado preso pela PF é afastado das funções na Polícia Civil de Alagoas")[![Especialista em obras de restauro ministra palestra gratuita em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_Jorge_Tinoco_1_c45c26675f.jpeg)
+Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão](https://www.tnh1.com.br/noticia/nid/deolane-bezerra-e-mae-voltam-para-sao-paulo-de-jatinho-particular-apos-deixarem-prisao/ "Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão ")[![Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/3/csm_fim-da-gotinha-sesau-orienta-sobre-mudancas-no-esquema-vacinal-contra-a-poliomielite_22b8e2a0f0.jpg)
 
-Maceió
+Saúde
 
-Maceió
+Saúde
 
-Especialista em obras de restauro ministra palestra gratuita em Maceió
+Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite
 
-Especialista em obras de restauro ministra palestra gratuita em Maceió](https://www.tnh1.com.br/noticia/nid/especialista-em-obras-de-restauro-ministra-palestra-gratuita-em-maceio/ "Especialista em obras de restauro ministra palestra gratuita em Maceió")[![Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_felipe-melo_lucas_mercon-FFC_13039c9f84.jpg)
+Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite](https://www.tnh1.com.br/noticia/nid/fim-da-gotinha-sesau-orienta-sobre-mudancas-no-esquema-vacinal-contra-a-poliomielite/ "Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite")[![Papa expulsa dez membros de movimento católico no Peru por agressão sexual](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/9/csm_Papa-Francisco-Daniel_MarencoFolhapress_1cbddf5481.jpeg)
 
-no rj
+após investigações
 
-no rj
+após investigações
 
-Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente
+Papa expulsa dez membros de movimento católico no Peru por agressão sexual
 
-Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente](https://www.tnh1.com.br/noticia/nid/felipe-melo-do-fluminense-e-investigado-sob-suspeita-de-constranger-adolescente/ "Felipe Melo, do Fluminense, é investigado sob suspeita de constranger adolescente")
+Papa expulsa dez membros de movimento católico no Peru por agressão sexual](https://www.tnh1.com.br/noticia/nid/papa-expulsa-dez-membros-de-movimento-catolico-no-peru-por-agressao-sexual/ "Papa expulsa dez membros de movimento católico no Peru por agressão sexual")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
