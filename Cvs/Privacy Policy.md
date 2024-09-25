@@ -10,7 +10,7 @@
 Privacy Policy
 ==============
 
-Effective Date: September 25, 2024
+Effective Date: July 01, 2024
 
   
 
@@ -459,7 +459,7 @@ table of contents
         
           
         
-        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportaluat.onetrust.com/webform/d942bad0-3df4-4e16-8e7b-188fa54233f2/9e0c6c73-8cfd-4099-8eaa-05f531a5b5cf?formField136=web)
+        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportal.onetrust.com/webform/1885551f-146f-4594-ae8d-5966aac0551f/1eb23c44-cba9-45c6-bd0f-4f89053910f4?formField136=web)
         * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
         
           
@@ -660,7 +660,7 @@ table of contents
         
           
         
-        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportaluat.onetrust.com/webform/d942bad0-3df4-4e16-8e7b-188fa54233f2/9e0c6c73-8cfd-4099-8eaa-05f531a5b5cf?formField136=web)
+        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportal.onetrust.com/webform/1885551f-146f-4594-ae8d-5966aac0551f/1eb23c44-cba9-45c6-bd0f-4f89053910f4?formField136=web)
         * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
         
           
@@ -824,7 +824,7 @@ table of contents
         
           
         
-        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportaluat.onetrust.com/webform/d942bad0-3df4-4e16-8e7b-188fa54233f2/9e0c6c73-8cfd-4099-8eaa-05f531a5b5cf?formField136=web)
+        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportal.onetrust.com/webform/1885551f-146f-4594-ae8d-5966aac0551f/1eb23c44-cba9-45c6-bd0f-4f89053910f4?formField136=web)
         * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
         
           
@@ -921,7 +921,7 @@ table of contents
         
           
         
-        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportaluat.onetrust.com/webform/d942bad0-3df4-4e16-8e7b-188fa54233f2/9e0c6c73-8cfd-4099-8eaa-05f531a5b5cf?formField136=web)
+        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportal.onetrust.com/webform/1885551f-146f-4594-ae8d-5966aac0551f/1eb23c44-cba9-45c6-bd0f-4f89053910f4?formField136=web)
         * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
         
           
@@ -1028,7 +1028,7 @@ table of contents
         
           
         
-        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportaluat.onetrust.com/webform/d942bad0-3df4-4e16-8e7b-188fa54233f2/9e0c6c73-8cfd-4099-8eaa-05f531a5b5cf?formField136=web)
+        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportal.onetrust.com/webform/1885551f-146f-4594-ae8d-5966aac0551f/1eb23c44-cba9-45c6-bd0f-4f89053910f4?formField136=web)
         * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
         
           
@@ -1122,7 +1122,7 @@ table of contents
         
           
         
-        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportaluat.onetrust.com/webform/d942bad0-3df4-4e16-8e7b-188fa54233f2/9e0c6c73-8cfd-4099-8eaa-05f531a5b5cf?formField136=web)
+        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportal.onetrust.com/webform/1885551f-146f-4594-ae8d-5966aac0551f/1eb23c44-cba9-45c6-bd0f-4f89053910f4?formField136=web)
         * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
         
           
@@ -1192,7 +1192,7 @@ table of contents
         
           
         
-        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportaluat.onetrust.com/webform/d942bad0-3df4-4e16-8e7b-188fa54233f2/9e0c6c73-8cfd-4099-8eaa-05f531a5b5cf?formField136=web)
+        * Use [interactive webform![Opens in new window](data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M4.08569%201H9.74284V6.65714%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M4.25684%206.5L9.25684%201.5%22%20stroke%3D%22%23000000%22%2F%3E%3Cpath%20d%3D%22M1%200.771484V9.77148H10%22%20stroke%3D%22%23000000%22%2F%3E%3C%2Fsvg%3E%0A)](https://privacyportal.onetrust.com/webform/1885551f-146f-4594-ae8d-5966aac0551f/1eb23c44-cba9-45c6-bd0f-4f89053910f4?formField136=web)
         * [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287)
         
           
