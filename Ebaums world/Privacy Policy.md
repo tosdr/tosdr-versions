@@ -261,13 +261,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
+    [![fails and facepalms](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/) [36 Fails and Facepalms Crushing Your Hope for Future Generations](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/)
     
-    [![25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/) [25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/)
+    [![hot teacher in grey dress](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/) [Here Is One Great Reason To Stay In School](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/)
+    
+    [![23 People Share What Happened After Someone Won the Lottery](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/) [23 People Share The 'Aftermath' Of Someone They Knew Winning the Lottery](https://trending.ebaumsworld.com/pictures/23-people-share-the-aftermath-of-someone-they-knew-winning-the-lottery/87497424/)
     
     [![photo caption - About to come home after spending the last 3yrs in the desert. Please no jokes about my $40k truck or my 3 divorces. sdrawkcaBuoYkcuF points 28 days ago 232 & 45 More Why would I make a joke about your wife or your truck? I've enjoyed ridi](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/) [26 Internet Roasts That Didn't Hold Back](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/)
-    
-    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
     
 
 * Advertisement
