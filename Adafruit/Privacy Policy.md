@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Perfect is the enemy of good”
+“ What I cannot create, I do not understand”
 
-[Voltaire](http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+[Richard Feynman](https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand)
 
 [](https://www.adafruit.com/about)
 
