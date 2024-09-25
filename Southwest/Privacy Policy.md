@@ -58,7 +58,6 @@
 * [Visit Southwest.com](https://mobile.southwest.com/)
 * [Give Feedback](https://www.surveysouthwest.com/jfe/form/SV_0drsgmACwz0hupT?clk=GNAVFEEDBCK)
 * [Corporate Citizenship at Southwest](https://www.southwest.com/citizenship/)
-* [The Southwest Community](https://www.southwestaircommunity.com/)
 * [Southwest Cargo](https://www.swacargo.com/)
 * [Careers](https://careers.southwestair.com/?clk=GNAVCAREERS)
 
@@ -527,7 +526,7 @@ If you have any questions, complaints, or suggestions regarding this Privacy Pol
 
 © 2024 Southwest Airlines Co. All Rights Reserved.
 
-Need help?[Help Center](https://support.southwest.com/helpcenter/s/?clk=GFOOTER-HC)Subscribe[Wanna receive email from us?](https://www.southwest.com/email-signup/?clk=GFOOTER-EMAIL-SIGNUP)[Sign up](https://www.southwest.com/email-signup/?clk=GFOOTER-EMAIL-SIGNUP) to get the latest deals.Connect with us[](https://www.facebook.com/SouthwestAir)[](https://www.instagram.com/southwestair/?clk=GFOOTER-INSTAGRAM)[](https://www.youtube.com/user/NutsAboutSouthwest?clk=GFOOTER-YOUTUBE)[![LinkedIn Icon](/swa-resources/images/icons/linkedin-icon.png)](https://www.linkedin.com/company/southwest-airlines/?clk=GFOOTER-LINKEDIN)[![Pinterest Icon](/swa-resources/images/icons/pinterest-icon.png)](https://www.pinterest.com/southwestair/?clk=GFOOTER-PINTEREST)[Discussion Forum and Stories](https://community.southwest.com/?clk=GFOOTER-BLOG)[Mobile Apps](https://www.southwest.com/html/air/products/mobile.html?clk=GFOOTER-APPS)
+Need help?[Help Center](https://support.southwest.com/helpcenter/s/?clk=GFOOTER-HC)Subscribe[Wanna receive email from us?](https://www.southwest.com/email-signup/?clk=GFOOTER-EMAIL-SIGNUP)[Sign up](https://www.southwest.com/email-signup/?clk=GFOOTER-EMAIL-SIGNUP) to get the latest deals.Connect with us[](https://www.facebook.com/SouthwestAir)[](https://www.instagram.com/southwestair/?clk=GFOOTER-INSTAGRAM)[](https://www.youtube.com/user/NutsAboutSouthwest?clk=GFOOTER-YOUTUBE)[![LinkedIn Icon](/swa-resources/images/icons/linkedin-icon.png)](https://www.linkedin.com/company/southwest-airlines/?clk=GFOOTER-LINKEDIN)[![Pinterest Icon](/swa-resources/images/icons/pinterest-icon.png)](https://www.pinterest.com/southwestair/?clk=GFOOTER-PINTEREST)[Mobile Apps](https://www.southwest.com/html/air/products/mobile.html?clk=GFOOTER-APPS)
 
 ### [About Southwest](https://www.southwest.com/about-southwest/?clk=GFOOTER-ABOUT-ABOUT)
 
