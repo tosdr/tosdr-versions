@@ -312,11 +312,11 @@
     * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
     * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
     
+    * [Technology Report](https://www.bain.com/insights/topics/technology-report/)
     * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
     * [Gaming Report](https://www.bain.com/insights/topics/gaming-report/)
     * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
     * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
-    * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
     
     * [CEO Insights](https://www.bain.com/insights/topics/ceo-agenda/)
     * [CFO Insights](https://www.bain.com/insights/topics/cfo-insights/)
@@ -696,11 +696,11 @@
         * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
         * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
         
+        * [Technology Report](https://www.bain.com/insights/topics/technology-report/)
         * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
         * [Gaming Report](https://www.bain.com/insights/topics/gaming-report/)
         * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
         * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
-        * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
         
         * [CEO Insights](https://www.bain.com/insights/topics/ceo-agenda/)
         * [CFO Insights](https://www.bain.com/insights/topics/cfo-insights/)
