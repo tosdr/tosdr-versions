@@ -5,13 +5,14 @@
 
 [![American Thinker](/assets/images/at-logo-long.png)](https://www.americanthinker.com/) ![Navigation Menu](/assets/images/nav_icon.png)
 
-[Home](https://www.americanthinker.com/) [Archives](https://www.americanthinker.com/archives.html) [Cartoons](https://www.americanthinker.com/cartoons/) [About](https://www.americanthinker.com/static/about_us.html) [Search](https://www.americanthinker.com/search/) [Login](https://www.americanthinker.com/login.html) [Subscribe](https://subscriptions.americanthinker.com/) [Donate](https://www.americanthinker.com/static/donate_to_american_thinker.html) [Rules/FAQ](https://www.americanthinker.com/static/comments_faqs.html) [Contact](https://www.americanthinker.com/static/contact_information.html)
+[Home](https://www.americanthinker.com/) [Archives](https://www.americanthinker.com/archives.html) [About](https://www.americanthinker.com/static/about_us.html) [Search](https://www.americanthinker.com/search/) [Login/Subscribe](https://subscriptions.americanthinker.com/) [Comments](https://www.americanthinker.com/static/comments.html) [Donate](https://www.americanthinker.com/static/donate_to_american_thinker.html) [Submissions](https://www.americanthinker.com/static/submissions.html) [Rules/FAQ](https://www.americanthinker.com/static/comments_faqs.html) [Contact](https://www.americanthinker.com/static/contact_information.html)
 
-[Home](https://www.americanthinker.com/) [Archives](https://www.americanthinker.com/archives.html) [Cartoons](https://www.americanthinker.com/cartoons/) [About](https://www.americanthinker.com/static/about_us.html) [Search](https://www.americanthinker.com/search/) [Login](https://www.americanthinker.com/login.html) [Subscribe](https://subscriptions.americanthinker.com/) [Donate](https://www.americanthinker.com/static/donate_to_american_thinker.html) More ![Down Arrow](/assets/images/down_arrow.png) 
+[Home](https://www.americanthinker.com/) [Archives](https://www.americanthinker.com/archives.html) [About](https://www.americanthinker.com/static/about_us.html) [Search](https://www.americanthinker.com/search/) [Login/Subscribe](https://subscriptions.americanthinker.com/) [Comments](https://www.americanthinker.com/static/comments.html) [Donate](https://www.americanthinker.com/static/donate_to_american_thinker.html) [Submissions](https://www.americanthinker.com/static/submissions.html) More ![Down Arrow](/assets/images/down_arrow.png) 
 
 * [Rules/FAQ](https://www.americanthinker.com/static/comments_faqs.html)
 * [Contact](https://www.americanthinker.com/static/contact_information.html)
 * [Donate](https://www.americanthinker.com/static/donate_to_american_thinker.html)
+* [Submissions](https://www.americanthinker.com/static/submissions.html)
 
 Privacy Policy
 --------------
