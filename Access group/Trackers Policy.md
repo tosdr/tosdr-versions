@@ -73,6 +73,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/qogbosyo/qikserve3.png?rmode=max&width=230&height=295&v=1db0f2861b9b2f0)
+    
+    Posted 25 September 2024
+    
+    The Access Group announces the acquisition of hospitality digital order and pay specialist QikServe
+    
+    [Read article on The Access Group announces the acquisition of hospitality digital order and pay specialist QikServe](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-announces-the-acquisition-of-hospitality-digital-order-and-pay-specialist-qikserve/)
+    
     ![](/media/nxdh1vjr/screenshot-2024-09-04-152957.png?rmode=max&width=230&height=295&v=1daff51988a8660)
     
     Posted 5th September 2024
@@ -144,38 +152,6 @@ Country UK AU & NZ SG MY US IE
     The Access Group Appoints New Chief Information Officer
     
     [Read article on The Access Group Appoints New Chief Information Officer](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-new-chief-information-officer/)
-    
-    ![](/media/1blpb1ba/cupcake-1.jpg?rmode=max&width=230&height=295&v=1da94cce41a77b0)
-    
-    Posted 22 April 2024
-    
-    Air pollution is biggest climate concern for school children
-    
-    [Read article on Air pollution is biggest climate concern for school children](https://www.theaccessgroup.com/en-gb/about/news/air-pollution-is-biggest-climate-concern-for-school-children/)
-    
-    ![](/media/ljqddr1q/27440622_group_lbh_access_wear_pitch_to_uni_students_denoised.jpeg?rmode=max&width=230&height=295&v=1da86a152b68180)
-    
-    Posted 4 April 2024
-    
-    The Access group launches workwear design competition for Loughborough University students
-    
-    [Read article on The Access group launches workwear design competition for Loughborough University students](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-launches-workwear-design-competition-for-loughborough-university-students/)
-    
-    ![](/media/ronbf2fs/jonah-headshoot-2.jpg?rmode=max&width=230&height=295&v=1da7ebd218f9e70)
-    
-    Posted 25 March 2024
-    
-    The Access Group appoints first President, Americas
-    
-    [Read article on The Access Group appoints first President, Americas](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-first-president-americas/)
-    
-    ![](/media/sqrfbaem/image-5.png?rmode=max&width=230&height=295&v=1da54452f7fc430)
-    
-    Posted 31st January 2024
-    
-    Access Hospitality announces acquisition of leading Wi-Fi provider Wireless Social
-    
-    [Read article on Access Hospitality announces acquisition of leading Wi-Fi provider Wireless Social](https://www.theaccessgroup.com/en-gb/about/news/access-hospitality-announces-acquisition-of-leading-wi-fi-provider-wireless-social/)
     
     Access software lets you work the way you want, giving your organisation the power to thrive and grow
     
