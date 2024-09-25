@@ -19,8 +19,6 @@ What's this about?
 
 The OTW is a fan-run nonprofit dedicated to the preservation of fanworks. We're sustained entirely by donations from our users! Please consider **[donating](https://donate.transformativeworks.org/otwgive)**.
 
-Volunteering opportunity: The OTW is Recruiting for Policy & Abuse Volunteers. All who are interested are welcome to **[apply](https://www.transformativeworks.org/volunteer)**!
-
 Elections: OTW Board Election Statistics for 2024 (**[details](https://www.transformativeworks.org/otw-election-statistics-for-2024/)**)
 
 Recent news
