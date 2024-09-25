@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike/paintings/afrika.jpg?itok=EjxmpWJ9)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/branka-kuzmanovic/b-work-progress-2/5-p-o-2-triptih-ver-2-2006.jpg?itok=0j3q79p3)](http://seecult.org/galerija/galerija-umetnika/branka-kuzmanovic/b-work-progress-2)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/perspektivni4.jpg?itok=rWtyfsPX)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tolkin.jpg?itok=-FsawNh9)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Treća decenija Balkanime](http://seecult.org/vest/treca-decenija-balkanime)
+* [Pozicija žene danas i juče i sutra](http://seecult.org/vest/pozicija-zene-danas-i-juce-i-sutra)
 * [Vladimir R. Petković: Utemeljitelj struke i nauke](http://seecult.org/vest/vladimir-r-petkovic-utemeljitelj-struke-i-nauke)
 * [Jesenja izložba - 5+: Preko granica izvanrednosti](http://seecult.org/vest/jesenja-izlozba-5-preko-granica-izvanrednosti)
 * [Otvaranje nove sezone BGF posvećeno Tasovcu](http://seecult.org/vest/otvaranje-nove-sezone-bgf-posveceno-tasovcu)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Trio Klavis otvara 11. Belgrade SAXperience](http://seecult.org/vest/trio-klavis-otvara-11-belgrade-saxperience)
 * [Nova predstava Hartefakta na festivalima u regionu](http://seecult.org/vest/nova-predstava-hartefakta-na-festivalima-u-regionu)
 * [Jedinstveni Iljovski u Čolakoviću](http://seecult.org/vest/jedinstveni-iljovski-u-colakovicu)
-* [Verujte u nas](http://seecult.org/vest/verujte-u-nas)
-* [Megdan u bioskopima](http://seecult.org/vest/megdan-u-bioskopima)
 
 * [Konkursi](#tab1_1)
 
