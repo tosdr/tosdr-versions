@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 26, 2024](https://www.japantimes.co.jp/archive/2024/09/26/ "archive page")
+[September 27, 2024](https://www.japantimes.co.jp/archive/2024/09/27/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -32,7 +32,7 @@ Subscribe
 
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
 * [Hakamata retrial](https://www.japantimes.co.jp/tag/iwao-hakamata/ "Hakamata retrial")
-* [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
+* [Hyogo governor](https://www.japantimes.co.jp/motohiko-saito/ "Hyogo governor")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/about-us/privacy/podcast/deep-dive/ "Deep Dive")
 
@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Japan falls behind India to No. 4 in new Asia power survey](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
 
-  [![Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/423332.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Troops from the Ground Self-Defense Force take part in the 05JX military exercises on the island of Tokunoshima in Kagoshima Prefecture last November. While Japan's overall ranking in the 2024 Asia Power Index dropped, it scored improvements in the defense and security sphere.")](https://www.japantimes.co.jp/news/2024/09/23/japan/japan-power-asia-lowy-institute/ "Japan falls behind India to No. 4 in new Asia power survey")
+  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
 
-[China urges Japan to deal with stabbing 'calmly' as details of motive elude](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
+[Russia has a secret war drones project in China, intel sources say](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
 
-  [![Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423527.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
+  [![Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423938.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.")](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
 
 [As Onosato dominates the spotlight, former sumo stars exit the stage](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
 
   [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
 
-[Moscow and Beijing unlikely to stop testing Tokyo's limits](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
-
-  [![A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.")](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
-
 [Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
   [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+
+[How Taro Kono lost his mojo](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
+
+  [![Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423871.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
 
 [Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Suntory to raise monthly wages by 7% in 2025](https://www.japantimes.co.jp/business/2024/09/26/companies/suntory-monthly-wage-raise/ "Suntory to raise monthly wages by 7% in 2025")
+
+4 hours ago
+
 [In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
 
-1 hours ago
+7 hours ago
 
 [Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
 
-1 hours ago
+7 hours ago
 
 [CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/cdp-ishin-noda/ "CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?")
 
-3 hours ago
+9 hours ago
 
 [Jeep’s compact EV debuts in Japan as imported EVs take the lead](https://www.japantimes.co.jp/business/2024/09/26/companies/jeep-compact-ev/ "Jeep’s compact EV debuts in Japan as imported EVs take the lead")
 
-4 hours ago
-
-[Interim storage facility in Aomori receives spent nuclear fuel](https://www.japantimes.co.jp/news/2024/09/26/japan/japan-spent-nuclear-fuel/ "Interim storage facility in Aomori receives spent nuclear fuel")
-
-4 hours ago
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
