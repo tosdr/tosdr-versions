@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Hurricane Helene has been upgraded to a Category 2 storm](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
+[Breaking: Hurricane Helene is now a category 3 storm](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1696)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1696)](https://www.ajc.com/)
 
@@ -18,7 +18,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-water-water-everywhere/OZZPE23QHBDARFCJQDU2DUJBTU/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
