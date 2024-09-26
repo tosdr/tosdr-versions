@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/de-onmogelijke-vlucht-van-de-pentagon-boeing-op-911/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/net-gevaccineerd-verspreidt-dan-die-ziekte-niet/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
