@@ -223,16 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -244,6 +234,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/branka-kuzmanovic/b-work-progress-2/5-p-o-2-triptih-ver-2-2006.jpg?itok=0j3q79p3)](http://seecult.org/galerija/galerija-umetnika/branka-kuzmanovic/b-work-progress-2)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/crtezi/novi-crtez-06.jpg?itok=3De-5To1)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/crtezi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tolkin.jpg?itok=-FsawNh9)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dani-beograda/dah-teatar-1.jpg?itok=ux1B1q6n)](http://seecult.org/galerija/foto-galerija/foto-arhiva/dani-beograda)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Medenica: Hrabro otvaranje 58. Bitefa](http://seecult.org/vest/medenica-hrabro-otvaranje-58-bitefa)
+* [Milo Rau: Recimo NE smrtonosnoj ideologiji današnjice](http://seecult.org/vest/milo-rau-recimo-ne-smrtonosnoj-ideologiji-danasnjice)
 * [Treća decenija Balkanime](http://seecult.org/vest/treca-decenija-balkanime)
 * [Pozicija žene danas i juče i sutra](http://seecult.org/vest/pozicija-zene-danas-i-juce-i-sutra)
 * [Vladimir R. Petković: Utemeljitelj struke i nauke](http://seecult.org/vest/vladimir-r-petkovic-utemeljitelj-struke-i-nauke)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Početak 17. LIFFE u znaku Paskaljevića](http://seecult.org/vest/pocetak-17-liffe-u-znaku-paskaljevica)
 * [Nevidljive katastrofe](http://seecult.org/vest/nevidljive-katastrofe)
 * [Trio Klavis otvara 11. Belgrade SAXperience](http://seecult.org/vest/trio-klavis-otvara-11-belgrade-saxperience)
-* [Nova predstava Hartefakta na festivalima u regionu](http://seecult.org/vest/nova-predstava-hartefakta-na-festivalima-u-regionu)
-* [Jedinstveni Iljovski u Čolakoviću](http://seecult.org/vest/jedinstveni-iljovski-u-colakovicu)
 
 * [Konkursi](#tab1_1)
 
