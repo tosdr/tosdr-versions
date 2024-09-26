@@ -140,17 +140,17 @@ Games
 
 #### Featured
 
-* [Atari XP](https://www.atari.com/collections/atari-xp)
+* [Atari 50](https://atari.com/products/atari-50th-the-anniversary-celebration)
+    
+    [Yars Rising](https://atari.com/products/yars-rising)
+    
+    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
+    
+    [Atari XP](https://www.atari.com/collections/atari-xp)
     
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
-    
-    [Yars Rising](https://atari.com/products/yars-rising)
-    
-    [50th Anniversary](https://atari.com/products/atari-50th-the-anniversary-celebration)
-    
-    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
 
 [View all Games](https://www.atari.com/collections/games)
 
@@ -188,17 +188,17 @@ Menu
 
 Featured
 
-* [Atari XP](https://www.atari.com/collections/atari-xp)
+* [Atari 50](https://atari.com/products/atari-50th-the-anniversary-celebration)
+    
+    [Yars Rising](https://atari.com/products/yars-rising)
+    
+    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
+    
+    [Atari XP](https://www.atari.com/collections/atari-xp)
     
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
-    
-    [Yars Rising](https://atari.com/products/yars-rising)
-    
-    [50th Anniversary](https://atari.com/products/atari-50th-the-anniversary-celebration)
-    
-    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
 
 [View all Games](https://www.atari.com/collections/games)
 
@@ -351,6 +351,15 @@ Happy Birthday, Lynx!
 ![](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
 RCT x errornogo
+
+ 
+
+Atari 50: The Wider World of Atari
+==================================
+
+The story’s not over yet! THE WIDER WORLD OF ATARI introduces a new timeline with 19 new games, historical artifacts and interviews.
+
+[PLAY NOW](https://www.atari.com/products/atari-50th-the-anniversary-celebration)
 
  
 
@@ -616,6 +625,14 @@ FEATURED GAMES
 
 [View All](https://www.atari.com/collections/games)
 
+![Atari 50: the Anniversary Celebration](files/1080px_1920px.jpg)
+
+Available on
+
+[](https://store.steampowered.com/app/2775650/Atari_50_The_Wider_World_of_Atari/e_Anniversary_Celebration/)[](https://www.nintendo.com/us/store/products/atari-50-the-wider-world-of-atari-70050000051288-switch/)[](https://store.playstation.com/en-us/product/UP0182-PPSA08601_00-0051882273573412)[](https://www.xbox.com/en-US/games/store/atari-50-the-wider-world-of-atari/9n8f6ntjb5cw)[](https://atari.com/pages/atari-vcs)
+
+#### Atari 50: the Anniversary Celebration
+
 ![Fatal Run 2089](files/fatal-run-535px_742px_Game_Box.webp)
 
 Available on
@@ -671,14 +688,6 @@ Available on
 [](https://store.steampowered.com/app/1942330/Haunted_House)[](https://www.nintendo.com/us/store/products/haunted-house-switch/)[](https://www.xbox.com/en-us/games/store/haunted-house/9npl1wsclwq5)[](https://store.playstation.com/concept/10005049)[](https://atari.com/pages/atari-vcs)[](https://store.epicgames.com/en-US/p/haunted-house-c5a71b)
 
 #### Haunted House
-
-![Atari 50: the Anniversary Celebration](products/gamebox-atari50-celebration.webp)
-
-Available on
-
-[](https://store.steampowered.com/app/1919470/Atari_50_The_Anniversary_Celebration/)[](https://www.nintendo.com/store/products/atari-50-the-anniversary-celebration-switch/)[](https://store.playstation.com/en-us/concept/10004884)[](https://www.xbox.com/en-us/games/store/atari-50-the-anniversary-celebration/9n3tfdsq531t)[](https://atari.com/pages/atari-vcs)[](https://www.gog.com/en/game/atari_50_the_anniversary_celebration)
-
-#### Atari 50: the Anniversary Celebration
 
 ### Discover
 
