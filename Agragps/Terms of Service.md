@@ -86,15 +86,15 @@ Close
     
     BRIDGE
     
-     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+     [![Claas Jaguar (2012&newer)](https://www.agragps.com/wp-content/uploads/2022/04/xjaguar-thegem-product-justified-square-xxs.jpg.pagespeed.ic.YLYbHZfYuT.jpg)](https://www.agragps.com/product/class-jaguar-2012newer/)
     
-    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+    [Claas Jaguar (2012&newer)](https://www.agragps.com/product/class-jaguar-2012newer/)
     
     $3,380.00
     
-     [![CNH-JD Magnum/T8/Analog 2009](https://www.agragps.com/wp-content/uploads/2024/07/xMagnum2009-thegem-product-justified-square-xxs.jpg.pagespeed.ic.PzCA5GGIOr.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2009/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    [CNH-JD Magnum/T8/Analog 2009](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2009/)
+    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     $3,380.00
     
@@ -110,23 +110,23 @@ Close
     
     Accessories
     
-     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
+     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
     
-    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
+    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
     
-    $90.00
+    $2,690.00
     
-     [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
+     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Wy_jGbrCQj.jpg)](https://www.agragps.com/product/fendt-mount/)
     
-    [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
+    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
     
-    USD $80.00
+    $120.00
     
-     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
+     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
     
-    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
     
-    $140.00
+    $120.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -228,17 +228,17 @@ Menu
     
     BRIDGE
     
-     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
+     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
-    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
-    
-    $3,380.00
-    
-    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
-    
-    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
+    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
     $3,380.00
+    
+     [![Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/wp-content/uploads/2022/01/IMG_0534-scaled-e1645470277366-thegem-product-justified-square-xxs.jpg)](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
+    
+    [Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
+    
+    USD $3,380.00
     
     ITC Extend
     
@@ -252,21 +252,21 @@ Menu
     
     Accessories
     
-     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
+     [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
-    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
+    [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
-    $90.00
+    $140.00
+    
+     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    
+    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    
+    $120.00
     
      [![CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_113156-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vZKxKCHxk4.jpg)](https://www.agragps.com/product/case-combine-mount/)
     
     [CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/product/case-combine-mount/)
-    
-    $120.00
-    
-     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
-    
-    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
     
     $120.00
     
