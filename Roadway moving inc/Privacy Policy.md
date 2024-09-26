@@ -866,5 +866,3 @@ Get Your Quote![Loading](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAA
 ![Loading](https://www.roadwaymoving.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg)
 
 [Get Your Quote](https://roadwaymoving.com/full-form/?wm_ev=sticky-form-btn)
-
-![Nextdoor Pixel Image](https://flask.nextdoor.com/pixel?pid=bfa264e7-b272-40b8-ace1-6b04e0671469&ev=PAGE_VIEW&noscript=1/)
