@@ -106,7 +106,7 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros d
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
-![Jesús Herrero y Luis Palomo en el 38º Encuentro de AMETIC](/sites/redes/files/styles/ratio_1_1/public/media/images/presentacion%20ejecucion%20red.es_.jpg?h=247a4fce&itok=zRbJoFIf)   
+![Presupuesto](/sites/redes/files/styles/ratio_1_1/public/media/images/Presupuesto%20Red.JPG?h=0ce33bed&itok=Ijn2HEo-)   
 
 Noticia
 
@@ -114,23 +114,23 @@ Transformación Digital PYMES
 
 Red.es aumenta un 400% su ejecución económica en los últimos tres años
 
-[Red.es aumenta un 400% su ejecución económica en los últimos tres años](http://red.es/es/actualidad/noticias/redes-aumenta-un-400-su-ejecucion-economica- "Ir al contenido de: Red.es aumenta un 400% su ejecución económica en los últimos tres años")
-
-Noticia
-
-Emprendimiento
-
-Red.es inaugura IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo
-
-[Red.es inaugura IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: Red.es inaugura IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo")
+[Red.es aumenta un 400% su ejecución económica en los últimos tres años](http://red.es/es/actualidad/noticias/redes-aumenta-un-400-su-ejecucion-economica- "Ir al contenido de: Red.es aumenta un 400% su ejecución económica en los últimos tres años ")
 
 Noticia
 
 Internacionalización
 
-Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital
+El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad
 
-[Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital](http://red.es/es/actualidad/noticias/desafia-nordicos-segunda-edicion-startups-salud-digital "Ir al contenido de: Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital")
+[El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad](http://red.es/es/actualidad/noticias/desafia-suiza-primera-edicion-startups-sostenibilidad "Ir al contenido de: El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad")
+
+Noticia
+
+Emprendimiento
+
+Inauguramos IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo
+
+[Inauguramos IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: Inauguramos IRIA, la incubadora de empresas especializadas en tecnologías inmersivas de Almendralejo")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
