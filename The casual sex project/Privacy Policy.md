@@ -90,19 +90,49 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-lifetime-fiscal-impact-of-immigrants.jpg)[](https://admin.mi52siterestore.com/article/the-lifetime-fiscal-impact-of-immigrants/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/diminishing-returns-and-increasing-political-demands-on-infrastructure.jpg)[](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/ "Read More")
 
-Report Governance, Economics
+Issue Brief Governance, Economics Infrastructure & Transportation
 
-Sep 19 2024
+Sep 24 2024
 
-Report Governance, Economics
+Issue Brief Governance, Economics Infrastructure & Transportation
 
-Sep 19 2024
+Sep 24 2024
 
-### [The Lifetime Fiscal Impact of Immigrants](https://admin.mi52siterestore.com/article/the-lifetime-fiscal-impact-of-immigrants/)
+### [We Don’t Need This Much Infrastructure](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/) Diminishing Returns & Increasing Political Demands on Infrastructure
 
-By **[Daniel Di Martino](https://admin.mi52siterestore.com/person/daniel-di-martino/)** Read time **82 mins** [Read More](https://admin.mi52siterestore.com/article/the-lifetime-fiscal-impact-of-immigrants/)
+By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/wall-street-has-proven-that-trust-can-be-rebuilt.jpg)[](https://admin.mi52siterestore.com/article/wall-street-has-proven-that-trust-can-be-rebuilt/ "Read More")
+
+Commentary Economics Finance
+
+Sep 25 2024
+
+[Wall Street Has Proven That Trust Can Be Rebuilt](https://admin.mi52siterestore.com/article/wall-street-has-proven-that-trust-can-be-rebuilt/)
+
+By **[Allison Schrager](https://admin.mi52siterestore.com/person/allison-schrager/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/wall-street-has-proven-that-trust-can-be-rebuilt/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/some-elite-colleges-dodge-the-affirmative-action-ruling.jpg)[](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/ "Read More")
+
+Commentary Education Higher Ed, Affirmative Action, Supreme Court
+
+Sep 24 2024
+
+[Some Elite Colleges Dodge the Affirmative-Action Ruling](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/)
+
+By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/diversity-recruiting-after-students-for-fair-admissions.jpg)[](https://admin.mi52siterestore.com/article/diversity-recruiting-after-students-for-fair-admissions/ "Read More")
+
+Commentary Education Higher Ed
+
+Sep 24 2024
+
+[Diversity Recruiting After ‘Students for Fair Admissions’](https://admin.mi52siterestore.com/article/diversity-recruiting-after-students-for-fair-admissions/)
+
+By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/diversity-recruiting-after-students-for-fair-admissions/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/should_medicaid_expansion_cost_more_than_employer-sponsored_insurance.jpg)[](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/ "Read More")
 
@@ -113,36 +143,6 @@ Sep 23 2024
 [Should Medicaid Expansion Cost More than Employer-Sponsored Insurance?](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/)
 
 By **[Theo Merkel](https://admin.mi52siterestore.com/person/theo-merkel/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/legal-sports-gambling-was-mistake.jpg)[](https://admin.mi52siterestore.com/article/legalizing-sports-gambling-was-a-huge-mistake/ "Read More")
-
-Commentary Culture, Economics Culture & Society, Debt
-
-Sep 23 2024
-
-[Legalizing Sports Gambling Was a Huge Mistake](https://admin.mi52siterestore.com/article/legalizing-sports-gambling-was-a-huge-mistake/)
-
-By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/legalizing-sports-gambling-was-a-huge-mistake/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/mtas-68-4b-capital-plan-pure-fiction-and-a-cry-for-help.jpg)[](https://admin.mi52siterestore.com/article/mtas-68-4b-capital-program-is-pure-fiction-unless-hochul-steps-up/ "Read More")
-
-Commentary Economics, Governance, Cities New York, New York City
-
-Sep 22 2024
-
-[MTA’s $68.4B Capital Program Is Pure Fiction —Unless Hochul Steps Up](https://admin.mi52siterestore.com/article/mtas-68-4b-capital-program-is-pure-fiction-unless-hochul-steps-up/)
-
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/mtas-68-4b-capital-program-is-pure-fiction-unless-hochul-steps-up/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/american-covenant-constitution.jpg)[](https://admin.mi52siterestore.com/article/we-are-the-reformers-weve-been-waiting-for/ "Read More")
-
-Commentary Culture Culture & Society
-
-Sep 20 2024
-
-[We Are the Reformers We’ve Been Waiting For](https://admin.mi52siterestore.com/article/we-are-the-reformers-weve-been-waiting-for/)
-
-By **[Tal Fortgang](https://admin.mi52siterestore.com/person/tal-fortgang/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/we-are-the-reformers-weve-been-waiting-for/)
 
 Our Policy Areas
 ----------------
