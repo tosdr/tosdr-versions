@@ -266,18 +266,18 @@ Asia
     
     * About Us
         
-        * [Show all](https://www.fjallraven.com/eu/en-us/about/)
-        * [Our History](https://www.fjallraven.com/eu/en-us/about/our-history/)
-        * [Our Mission](https://www.fjallraven.com/eu/en-us/about/our-mission/)
-        * [Arctic Fox Initiative](https://www.fjallraven.com/eu/en-us/about/the-arctic-fox-initiative/)
+        * [Show all](https://www.fjallraven.com/us/en-us/about/)
+        * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+        * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
+        * [Arctic Fox Initiative](https://www.fjallraven.com/us/en-us/about/the-arctic-fox-initiative/)
         
     * Sustainability
         
-        * [Show all](https://www.fjallraven.com/eu/en-us/about/sustainability/)
-        * [Our Materials](https://www.fjallraven.com/eu/en-us/about/our-materials/)
-        * [Sustainable Design](https://www.fjallraven.com/eu/en-us/about/sustainability/sustainable-design/)
-        * [Sustainable Production](https://www.fjallraven.com/eu/en-us/about/sustainability/sustainable-production/)
-        * [Care & Repair](https://www.fjallraven.com/eu/en-us/customer-service/care-repair/)
+        * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
+        * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
+        * [Sustainable Design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
+        * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
+        * [Care & Repair](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
         
     * Experiences
         
@@ -285,7 +285,7 @@ Asia
         * [Foxtrail](https://experience.fjallraven.com/articles)
         * [Classic](https://experience.fjallraven.com/classic)
         * [Polar](https://experience.fjallraven.com/polar/2023)
-        * [Nature Is Waiting](https://www.fjallraven.com/eu/en-us/nature-is-waiting/)
+        * [Nature Is Waiting](https://www.fjallraven.com/uk/en-us/nature-is-waiting/)
         
     
     ![](/4a76c5/globalassets/fjallraven/us/homepage/2024/new-mobile-heroshdw-1.png)
@@ -447,18 +447,18 @@ Asia
         
         * About Us
             
-            * [Show all About Us](https://www.fjallraven.com/eu/en-us/about/)
-            * [Our History](https://www.fjallraven.com/eu/en-us/about/our-history/)
-            * [Our Mission](https://www.fjallraven.com/eu/en-us/about/our-mission/)
-            * [Arctic Fox Initiative](https://www.fjallraven.com/eu/en-us/about/the-arctic-fox-initiative/)
+            * [Show all About Us](https://www.fjallraven.com/us/en-us/about/)
+            * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+            * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
+            * [Arctic Fox Initiative](https://www.fjallraven.com/us/en-us/about/the-arctic-fox-initiative/)
             
         * Sustainability
             
-            * [Show all Sustainability](https://www.fjallraven.com/eu/en-us/about/sustainability/)
-            * [Our Materials](https://www.fjallraven.com/eu/en-us/about/our-materials/)
-            * [Sustainable Design](https://www.fjallraven.com/eu/en-us/about/sustainability/sustainable-design/)
-            * [Sustainable Production](https://www.fjallraven.com/eu/en-us/about/sustainability/sustainable-production/)
-            * [Care & Repair](https://www.fjallraven.com/eu/en-us/customer-service/care-repair/)
+            * [Show all Sustainability](https://www.fjallraven.com/us/en-us/about/sustainability/)
+            * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
+            * [Sustainable Design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
+            * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
+            * [Care & Repair](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
             
         * Experiences
             
@@ -466,7 +466,7 @@ Asia
             * [Foxtrail](https://experience.fjallraven.com/articles)
             * [Classic](https://experience.fjallraven.com/classic)
             * [Polar](https://experience.fjallraven.com/polar/2023)
-            * [Nature Is Waiting](https://www.fjallraven.com/eu/en-us/nature-is-waiting/)
+            * [Nature Is Waiting](https://www.fjallraven.com/uk/en-us/nature-is-waiting/)
             
         
 * * Customer Service
@@ -520,8 +520,8 @@ Asia
         
          
 * * [Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage)
-    *  [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/eu/en-us/customer-service/gift-card-information/)
-    * [Store Locator](https://www.fjallraven.com/eu/en-us/store-locator/)
+    *  [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/uk/en-us/customer-service/gift-card-information/)
+    * [Store Locator](https://www.fjallraven.com/uk/en-us/store-locator/)
     * [My account](https://www.fjallraven.com/us/en-us/my-account/login/)
 
 [](javascript:void(0))[Our Heritage](javascript:void(0)) ![Man with backpack](/4a5a97/contentassets/f6bd9e7070854e8e8bc7466993bb994a/men_with_backpack.jpg)
@@ -723,7 +723,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=60f16155-e0ce-4b3b-b52e-0de39de12513)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=740f83c9-27ac-4f3b-89e7-7b405b4ea485)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
