@@ -244,18 +244,6 @@ MuggleNet Archive Select Month September 2024  (22) August 2024  (30) July 202
 
 ### September 2024
 
-#### Wed, Sep 25
-
-Colleen Atwood's Birthday
-
-Recurs yearly
-
-Costume Designer -FB
-
-Garrick Ollivander's birthday
-
-Recurs yearly
-
 #### Thu, Sep 26
 
 Quirinus Quirrell's birthday
@@ -308,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
+Sycamore wands are known to combust if they grow bored from a lack of excitement.
 
 ### Potter History
 
-February 13, 2011 – The Harry Potter film series is awarded a BAFTA for Outstanding British Contribution to Cinema.
+October 1998 – Warner Bros. secures the rights to the first two Harry Potter books and begins working on production for the first film, Harry Potter and the Philosopher’s/Sorcerer’s Stone.
 
 ### Potter Quote
 
-“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
+“Just because it’s taken you three years to notice, Ron, doesn’t mean no one else has spotted I’m a girl!”
 
 [](#)
 
