@@ -102,7 +102,6 @@ Copy link
 
 After signing up for Tuta as your new email address, you can easily switch important conversations over from your previous provider. Simply forward all emails from your previous email account to Tuta. Here is an explanation of how you can activate this process in your old email account:
 
-* [Fastmail](https://tuta.com/best-fastmail-alternative#switch)
 * [Gmail](https://tuta.com/gmail-alternative#switch)
 * [GMX](https://tuta.com/gmx#switch)
 * [Mailbox.org](https://tuta.com/mailbox#switch)
