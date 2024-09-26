@@ -12,9 +12,9 @@ Nav
     * [Crypto](https://venmo.com/about/crypto/ "Crypto")
     * [Purchase Protection](https://venmo.com/purchaseprotection/ "Purchase Protection")
     * [Send a gift](https://venmo.com/about/gifting/ "Send a gift")
-    * [Money Talks
+    * [Financial Education
         
-        (opens in a new tab)](https://venmo.com/about/us/financial-education/money-talks/ "Money Talks")
+        (opens in a new tab)](https://venmo.com/about/us/financial-education/ "Financial Education")
     
 * ### Pay with Venmo
     
@@ -49,7 +49,7 @@ Nav
 * [Crypto](https://venmo.com/about/crypto/ "Crypto")
 * [Purchase Protection](https://venmo.com/purchaseprotection/ "Purchase Protection")
 * [Send a gift](https://venmo.com/about/gifting/ "Send a gift")
-* [Money Talks(opens in a new tab)](https://venmo.com/about/us/financial-education/money-talks/ "Money Talks")
+* [Financial Education(opens in a new tab)](https://venmo.com/about/us/financial-education/ "Financial Education")
 
 ### Pay with Venmo
 
