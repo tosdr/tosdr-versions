@@ -1,6 +1,6 @@
 5.38.13
 
-1727340255882
+1727362285294
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727340737314
+1727360948101
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727340260468
+1727361741741
 
 You need to enable JavaScript to run this app.
 
@@ -544,6 +544,56 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Dermalogica Promotion
+
+The Dermalogica Gift will be automatically added to bag when you buy two selected Dermalogica products. The Dermalogica Gift contains:
+
+* Dermalogica Bio-Lumin C Brightening Essentials
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Dermalogica Gift will be automatically added once 2 qualifying Dermalogica products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
+### Nars Promotion
+
+The Nars Gift will be automatically added to bag when you buy two selected Nars products. The Nars Gift contains:
+
+* Deluxe Blush in Orgasm Rush
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Nars Gift will be automatically added once 2 qualifying Nars products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
+### Too Faced Promotion
+
+The Too Faced Gift will be automatically added to bag when you buy two selected Too Faced products. The Too Faced Makeup Minis Gift Set contains:
+
+* Doll Size Better than Sex Mascara
+* Doll Size Hangover Primer
+* Bag
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Too Faced Gift will be automatically added once 2 qualifying Too Faced products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
 
 ### 15% off on Selected The Inkey List Promotion
 
@@ -2497,7 +2547,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727339469126
+1727362163262
 
 ### Our Social Networks
 
