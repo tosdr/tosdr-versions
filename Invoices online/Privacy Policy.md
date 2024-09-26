@@ -118,56 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Anri van der Linde
+Henry Venter
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=127151839)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=152829850)  
-Tiny Cuddles Photography
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=176653358)  
-Myfinance-Online
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=61994327)  
-APTV Telecoms CC
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=176343968)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=205536153)  
-West Coast Horse Trails
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=90455172)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=16538877)  
-LEONARD
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=59483488)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=26568259)  
-Fox Alarms & Security CC
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=212875146)  
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=17491096)  
-Know Informatics
-
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=159678891)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=103999747)  
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=206687874)  
 Sarabi
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=8618defe0d79f4bf18c7552d53d1cf4c4d23ed4dbcf97421ad31243cb8f0e7da&c=10098922)  
-VerdanTech Pty Ltd
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=5192226)  
+Alliance Energy
+
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=128200540)  
+Lindani Protection Services & Projects
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=58691786)  
+NGB HOLDINGS PTY LTD
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=201328568)  
+Quad Biking Cape Town
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=82483279)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=117045649)  
+Westside Car Audio CC
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=60066696)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=148714019)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=83420429)  
+NIMAWELL
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=61737553)  
+Salvage Genie
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=23567505)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=78074905)  
+AquariumSmiths
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=19351442)  
+African Roots
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=109794146)  
+Imvubu General Trading
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
