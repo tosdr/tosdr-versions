@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
+* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
     
-* [How to configure the email notifications](https://www.backup4all.com/how-to-configure-the-email-notifications-kb.html)  
+* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
     
-* [Backup4all back up destinations](https://www.backup4all.com/backup4all-back-up-destinations-kb.html)  
+* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
     
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
     
-* [How to backup your data to Aruba Cloud](https://www.backup4all.com/how-to-backup-your-data-to-aruba-cloud-kb.html)  
+* [How to use independent zip splits in Backup4a ...](https://www.backup4all.com/how-to-use-independent-zip-splits-in-backup4all-kb.html)  
     
 
 Choose language:
