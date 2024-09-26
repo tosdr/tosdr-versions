@@ -133,6 +133,18 @@ In the News
 
 [See all news](https://www.unitedwayri.org/about-us/newsroom/)
 
+![Untitled design (6)](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Untitled-design-6-scaled-1024x576-landscape-2ccee2f3915133fb24872bc9acd6ebc8-.jpg "Untitled design (6)")
+
+#### United Way of Rhode Island impulsa la equidad y el compromiso cívico
+
+September 26, 2024
+
+###### United Way of Rhode Island impulsa la equidad y el compromiso cívico
+
+En una reciente entrevista en 12 Informa, María Elena Wah-Fitta, Manager of Brand Voice en United Way of Rhode Island, destacó los esfuerzos de la organización para promover la equidad racial y apoyar a las comunidades más vulnerables del estado.
+
+[READ ON SITE](https://www.wpri.com/12-informa/comunidad/united-way-of-rhode-island-impulsa-la-equidad-y-el-compromiso-civico/)
+
 ![Headshot of Kyle Bennett.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/team-k-bennett-landscape-ef7b64e8e71809a1ce2ac89bed977688-.png "team-k-bennett")
 
 #### Bennett Named Chief of Staff & Public Affairs Officer
@@ -156,18 +168,6 @@ July 17, 2024
 Courtney Bourns, who has served as a strategy and program consultant for multiple foundations across the country for the last six years, has been named the new executive director for the Grantmakers Council of Rhode Island, the financial support nonprofit announced Tuesday.
 
 [VIEW ON SITE](https://pbn.com/grantmakers-council-of-r-i-names-bourns-new-executive-director/)
-
-![Americans-turn-to-211-helpline-amid-mounting-economic-hardships-CBS-News](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Americans-turn-to-211-helpline-amid-mounting-economic-hardships-CBS-News-1024x576-landscape-9b27b99916c65648926c52e6ef641c59-.png "Americans-turn-to-211-helpline-amid-mounting-economic-hardships-CBS-News")
-
-#### Americans turn to 211 helpline amid mounting economic hardships
-
-July 11, 2024
-
-###### CBS News
-
-The Wall Street Journal reports Americans are turning to social services helpline 211 in economic emergencies. Rachel Wolfe, consumer trends reporter for The Wall Street Journal, joins CBS News to discuss.
-
-[VIEW ON SITE](https://www.youtube.com/watch?v=rldtvx4swxw)
 
 Press Releases
 
@@ -222,19 +222,21 @@ Notes Coffee Co.
 
 [Register](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134383435)
 
-[![DAP_United_FarmF-113_web](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035#new_tab)
+[![Rhode Island KIDS COUNT's Paige Clausius-Parks and the Economic Progress Institute's Weayonnoh Nelson-Davies clapping.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://www.unitedwayri.org/event/98th-annual-celebration/)
 
 10 Oct
 
-#### [Annual Celebration 2024](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035#new_tab "Annual Celebration 2024")
+#### [98th Annual Celebration](https://www.unitedwayri.org/event/98th-annual-celebration/ "98th Annual Celebration")
 
-Save the date!
+Join [United Way of Rhode Island](https://www.unitedwayri.org/) for our 98th Annual Celebration! We are celebrating our collective impact in the community by recognizing our donors, partners, and volunteers for their contributions. Together we are "United in Action" as we build racial equity and opportunities for all Rhode Islanders.
 
-Thursday, October 10  
-6 - 8 p.m.
+Thursday, Oct. 10, 2024  
+5:30 - 8 p.m.
 
-Waterfire Arts Center  
+[WaterFire Arts Center](https://www.google.com/maps/place/The+WaterFire+Arts+Center/@41.8288341,-71.4357382,16z/data=!3m1!4b1!4m6!3m5!1s0x89e445a6db2dc74f:0xdad3a7ba66f93bb8!8m2!3d41.8288301!4d-71.4331633!16s%2Fg%2F11crzftvy6?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D)  
 475 Valley St., Providence
+
+[REGISTER](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035)
 
 ### Subscribe to add impact to your inbox
 
