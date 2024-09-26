@@ -250,6 +250,8 @@ Key performance indicators defined will be closely monitored. Any security breac
 
 Monitoring and evaluating the effectiveness of ISMS processes is described in the _ISMS-PL-Monitoring and evaluating the effectiveness of ISMS Policy_.
 
+[Edit page](https://github.com/crowdin/docs/edit/main/src/content/docs/docs/security-policy.mdx)
+
 Was this page helpful?
 
 Submit
