@@ -983,7 +983,7 @@ Thank you! We greatly appreciate your comments. Your message has been routed to 
 
 [Market alerts](https://alerts.kitco.com/KcastAlertsWeb/)
 
-[About Us](https://corp.kitco.com/index.html "About Us") [Website Terms of Use](https://www.kitco.com/termsofuse/) [Terms & Conditions](https://online.kitco.com/legal/terms-and-conditions) [Privacy Policy](https://online.kitco.com/legal/privacy-policy) [Cookie Settings](https://online.kitco.com/cookiesettings.html) [Kitco Media](https://www.kitco.com/news/about/) [Advertise With Us](https://www.kitco.com/advertising/) [Careers](https://corp.kitco.com/life-at-kitco.html) [Contact Us](https://corp.kitco.com/contact-us.html) [Feedback](https://corp.kitco.com/contact-us.html)
+[About Us](https://corp.kitco.com/index.html "About Us") [Terms of Use](https://www.kitco.com/terms-of-use) [Terms & Conditions](https://online.kitco.com/legal/terms-and-conditions) [Privacy Policy](https://online.kitco.com/legal/privacy-policy) [Cookie Settings](https://online.kitco.com/cookiesettings.html) [Kitco Media](https://www.kitco.com/news/about/) [Advertise With Us](https://www.kitco.com/advertising/) [Careers](https://corp.kitco.com/life-at-kitco.html) [Contact Us](https://corp.kitco.com/contact-us.html) [Feedback](https://corp.kitco.com/contact-us.html)
 
 Subscribe
 
