@@ -141,6 +141,7 @@ MSX Music player
 Latest reactions
 
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
+* [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
@@ -149,23 +150,22 @@ Latest reactions
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
 * [MSX Overclocking - Disconnect WAIT pin](https://www.msx.org/news/hardware/en/msx-overclocking-disconnect-wait-pin "MSX Overclocking - Disconnect WAIT pin")
-* [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 
 Latest forum posts
 
-* [V9978... what could it have been?](https://www.msx.org/forum/msx-talk/hardware/v9978-what-could-it-have-been?page=3 "V9978... what could it have been?")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=119 "Please help testing upcoming openMSX release!")
+* [Any of these need archiving?](https://www.msx.org/forum/msx-talk/software/any-of-these-need-archiving "Any of these need archiving?")
+* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958?page=1 "Tracing the V9958")
+* [V9978... what could it have been?](https://www.msx.org/forum/msx-talk/hardware/v9978-what-could-it-have-been?page=4 "V9978... what could it have been?")
+* [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=1 "HB-F1XD reboots/freezes in basic")
+* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80 "Hi From Cuba, Need Help Z80 ;)")
+* [Saving in Vampire Killer](https://www.msx.org/forum/msx-talk/general-discussion/saving-in-vampire-killer "Saving in Vampire Killer")
+* [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr?page=1 "Fastest ISR")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
 * [Pisa Devcon 2024 Italy](https://www.msx.org/forum/msx-talk/general-discussion/pisa-devcon-2024-italy?page=1 "Pisa Devcon 2024 Italy")
-* [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic "HB-F1XD reboots/freezes in basic")
 * [Candidate games for MSX Conversion.](https://www.msx.org/forum/msx-talk/general-discussion/candidate-games-for-msx-conversion?page=4 "Candidate games for MSX Conversion. ")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=57 "WonderTANG! Who wants to juice up your MSX?")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
-* [Saving in Vampire Killer](https://www.msx.org/forum/msx-talk/general-discussion/saving-in-vampire-killer "Saving in Vampire Killer")
-* [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
 * [Laserdisc Pioneer CLD-7 question](https://www.msx.org/forum/msx-talk/general-discussion/laserdisc-pioneer-cld-7-question "Laserdisc Pioneer CLD-7 question")
-* [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
-* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958?page=1 "Tracing the V9958")
-* [Musical influences in MSX games topic](https://www.msx.org/forum/msx-talk/general-discussion/musical-influences-msx-games-topic?page=11 "Musical influences in MSX games topic")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
