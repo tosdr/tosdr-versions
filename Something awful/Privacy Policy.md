@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Heroes Unlimited (1984/1993)](https://www.somethingawful.com/dungeons-and-dragons/kevin-siembieda-aspergers/1/)
-* [Oldboy; Homefront; Frozen; Philomena](https://www.somethingawful.com/current-movie-reviews/oldboy-homefront-frozen/1/)
-* [Iron Man 2; A Nightmare on Elm Street](https://www.somethingawful.com/current-movie-reviews/iron-man-drivel/1/)
-* [MS Paint Nintendo! (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/mspaint-nintendo-mario2/1/)
-* [Sank Yew Velly Mooch For Yoor Votes, Hooman!](https://www.somethingawful.com/news/sank-yew-velly/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [A Brief Misadventure as a Woodcutting Author](https://www.somethingawful.com/news/wood-cutting-mishap/1/)
+* [Horrible Magazine Shootout](https://www.somethingawful.com/horrors-of-porn/horrible-magazine-shootout/)
+* [Interview Disaster Special III](https://www.somethingawful.com/horrors-of-porn/interview-disaster-special-3/1/)
+* [Zenra Ballet 2](https://www.somethingawful.com/horrors-of-porn/zenra-ballet-2/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Police Chase!](http://forums.somethingawful.com/showthread.php?threadid=4071138 "Police Chase!")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [What's the point of any of this?](http://forums.somethingawful.com/showthread.php?threadid=4071188 "What's the point of any of this?")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Have you ever been trolled into doing something stupid irl by the internet?](http://forums.somethingawful.com/showthread.php?threadid=4071191 "Have you ever been trolled into doing something stupid irl by the internet?")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [What would you do if a nuclear war was starting?](http://forums.somethingawful.com/showthread.php?threadid=4071151 "What would you do if a nuclear war was starting?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Police Chase!](http://forums.somethingawful.com/showthread.php?threadid=4071138 "Police Chase!")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Willy Wonka II: The Wonkening](http://forums.somethingawful.com/showthread.php?threadid=4071155 "Willy Wonka II: The Wonkening")
 
 ### Random Articles
 
-* [Stop Putting These Enemies In Games](https://www.somethingawful.com/video-game-article/annoying-enemy-types/)
-* [The Death of Daily Radar](https://www.somethingawful.com/news/death-daily-radar/)
-* [Angel Energy - Healing with Love](https://www.somethingawful.com/awful-links/awful-angel-energy/)
-* [Lunch Box Horrors](https://www.somethingawful.com/photoshop-phriday/lunch-box-horrors/1/)
-* [BARN WISDOM](https://www.somethingawful.com/mooflogs/daily-barn-wisdom/)
+* [I Spy Hoarders](https://www.somethingawful.com/photoshop-phriday/i-spy-hoarders/)
+* [How Your Tip Affects Your Next Delivery](https://www.somethingawful.com/feature-articles/delivery-driver-tip/)
+* [Christmas Comics](https://www.somethingawful.com/feature-articles/chistmas-comics/1/)
+* [Draw-Your-Stuff Success Stories, Part Two!](https://www.somethingawful.com/comedy-goldmine/draw-forums-avatars/1/)
+* [The Kansas City Worldskippers vs The Mermaid](https://www.somethingawful.com/flash-tub/kc-worldskippers-mermaid/)
 
 [Random!](https://www.somethingawful.com/random/)
 
