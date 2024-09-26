@@ -1,4 +1,4 @@
-Important Notice: The ORCID Registry is currently unavailable while we upgrade our hardware. We expect all services to be back online by 2 pm UTC at the latest. We apologize for any inconvenience.
+We've recently updated ORCID'S Privacy Policy to be simple to understand and easy to navigate. We invite you to read it [here.](https://info.orcid.org/privacy-policy)
 
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
@@ -52,7 +52,7 @@ MENUMENU
                 * [Dispute Procedures](https://info.orcid.org/dispute-procedures/)
                 * [Open Source Project License](https://info.orcid.org/open-source-project-license/)
                 * [Contract and Invoicing Policy](https://info.orcid.org/our-principles-policies/orcid-contract-policy/)
-                * [Privacy Policy](https://info.orcid.org/privacy-policy/)
+                * [ORCID Privacy Policy](https://info.orcid.org/privacy-policy/)
                 * [Public Client Terms of Service](https://info.orcid.org/public-client-terms-of-service/)
                 * [Public Data File Use Policy](https://info.orcid.org/public-data-file-use-policy/)
                 * [Schrems II FAQ](https://info.orcid.org/our-principles-policies/faq-orcid-and-ecj-schrems-ii-decision/)
@@ -163,6 +163,38 @@ You are here: [Home](https://info.orcid.org/) / Accessibility statement
 
 Accessibility statement
 =======================
+
+**Contents** [hide](#)
+
+[1 Introduction](#Introduction)
+
+[2 Scope](#Scope)
+
+[2.1 orcid.org](#orcidorg)
+
+[2.2 Subdomains of orcid.org](#Subdomains_of_orcidorg)
+
+[2.3 3rd party tools and services](#3rd_party_tools_and_services)
+
+[2.4 Technical specifications](#Technical_specifications)
+
+[2.5 Our commitment](#Our_commitment)
+
+[2.6 Level of conformity](#Level_of_conformity)
+
+[3 Meeting the standards](#Meeting_the_standards)
+
+[3.1 Our opportunities for improvement](#Our_opportunities_for_improvement)
+
+[3.2 3rd party tools and services](#3rd_party_tools_and_services1)
+
+[3.3 Exemptions](#Exemptions)
+
+[4 Contact us](#Contact_us)
+
+[4.1 Who to contact](#Who_to_contact)
+
+[5 Timeline](#Timeline)
 
 Introduction
 ------------
