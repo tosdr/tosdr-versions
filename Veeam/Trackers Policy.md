@@ -45,7 +45,7 @@ Menu
     
     Veeam Data Platform
     
-    [Self-managed data protection software for hybrid and multi-cloud environments](https://www.veeam.com/content/veeam/en/products/data-protection-platform.html)
+    [Self-managed data protection software for hybrid and multi-cloud environments](https://www.veeam.com/products/veeam-data-platform.html?ad=menu-products-portfolio)
     
     **Platform Editions**
     
@@ -64,7 +64,7 @@ Menu
     Veeam Data Cloud
     
     [Veeam-hosted backup and storage  
-    services​](https://www.veeam.com/content/veeam/en/products/paid/vdc/veeam-data-cloud.html)
+    services​](https://www.veeam.com/products/veeam-data-cloud.html?ad=menu-products-portfolio)
     
     * [Backup Service _for Microsoft 365_](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=menu-products-portfolio)
     * [Backup Service _for Microsoft Azure_](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-portfolio)
