@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
-[Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
+[Space Missions](https://www.sciencedaily.com/news/space_time/space_missions/)
 
-[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
+[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
-
 [Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+
+[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
 
   
 
