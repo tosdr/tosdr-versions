@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/dr-anthony-fauci-binnenkort-voor-de-rechter/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/hypocrates-of-hypocrisie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
