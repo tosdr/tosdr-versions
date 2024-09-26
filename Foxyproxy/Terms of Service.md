@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm really enjoying the service so far.
+BEST QUICK SERVICE!! LOVE YOU GUYS!
 
-Gareth Wynn
+Natie Grossnass
