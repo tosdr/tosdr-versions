@@ -2,7 +2,7 @@
 
  
 
-[SPEND $75 & BE ONE OF THE FIRST TO TRY OUR LATEST ROAST FOR FREE](https://www.deathwishcoffee.com/pages/light-roast)
+[SPEND $75 & BE ONE OF THE FIRST TO TRY LIGHT ROAST FOR FREE](https://www.deathwishcoffee.com/pages/light-roast)
 
      
 
