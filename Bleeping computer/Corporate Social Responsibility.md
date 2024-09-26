@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Telegram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
 * [![Winamp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Winamp releases source code, asks for help modernizing the player](https://www.bleepingcomputer.com/news/software/winamp-releases-source-code-asks-for-help-modernizing-the-player/)
 * [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 10 KB5043131 update released with 9 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043131-update-released-with-9-changes-and-fixes/)
+* [![Telegram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
 
 ##### Follow us:
 
