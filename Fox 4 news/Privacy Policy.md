@@ -400,35 +400,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Frisco police searching for suspect who ran from traffic stop](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-2024-09-25T144521.313.jpg?ve=1&tl=1)
+ [![NYC Mayor Adams indicted on criminal charges: reports](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/snapshot-19-1.jpg?ve=1&tl=1)
 
- ![Frisco police searching for suspect who ran from traffic stop](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-2024-09-25T144521.313.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-police-searching-suspect-who-ran-from-traffic-stop)
+ ![NYC Mayor Adams indicted on criminal charges: reports](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/592/333/snapshot-19-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
 
-### [Frisco police searching for suspect who ran from traffic stop](https://www.fox4news.com/news/frisco-police-searching-suspect-who-ran-from-traffic-stop)
+Breaking News
 
- [![Hurricane Helene tracker, live updates: Major hurricane expected to slam Florida's Big Bend region](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/snapshot-18.jpg?ve=1&tl=1)
+### [NYC Mayor Adams indicted on criminal charges: reports](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
 
- ![Hurricane Helene tracker, live updates: Major hurricane expected to slam Florida's Big Bend region](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/snapshot-18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-florida-updates)
+ [![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/slot2-33.jpg?ve=1&tl=1)
 
-### [Hurricane Helene tracker, live updates: Major hurricane expected to slam Florida's Big Bend region](https://www.fox4news.com/news/hurricane-helene-florida-updates)
+ ![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/slot2-33.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-florida-updates)
 
- [![Denton church's youth director charged with possession of child porn, indecency with a child](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Craig-Stone-Mugshots.jpg?ve=1&tl=1)
+### [Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://www.fox4news.com/news/hurricane-helene-florida-updates)
 
- ![Denton church's youth director charged with possession of child porn, indecency with a child](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Craig-Stone-Mugshots.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/denton-church-craig-stone-willowwood-church-of-the-nazarene)
+ [![California man accused blowing up courthouse on his court date](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/vlcsnap-2024-09-25-16h29m53s223.jpg?ve=1&tl=1)
 
-### [Denton church's youth director charged with possession of child porn, indecency with a child](https://www.fox4news.com/news/denton-church-craig-stone-willowwood-church-of-the-nazarene)
+ ![California man accused blowing up courthouse on his court date](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/vlcsnap-2024-09-25-16h29m53s223.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/explosion-reported-santa-maria-courthouse)
 
- [![Spirit Halloween suffers backlash for selling ‘bullet belt’ costume accessory](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/costumes-spirit-halloween-getty.jpg?ve=1&tl=1)
+### [California man accused blowing up courthouse on his court date](https://www.fox4news.com/news/explosion-reported-santa-maria-courthouse)
 
- ![Spirit Halloween suffers backlash for selling ‘bullet belt’ costume accessory](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/costumes-spirit-halloween-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spirit-halloween-backlash-selling-bullet-belt-costume-accessory)
+ [![Dallas City Council approves Forward Dallas plan, first zoning udpate in 18 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1)
 
-### [Spirit Halloween suffers backlash for selling ‘bullet belt’ costume accessory](https://www.fox4news.com/news/spirit-halloween-backlash-selling-bullet-belt-costume-accessory)
+ ![Dallas City Council approves Forward Dallas plan, first zoning udpate in 18 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
 
- [![Which states are the most takeout-obsessed? Study reveals where to-go orders are staples](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1485490959-a.jpg?ve=1&tl=1)
+### [Dallas City Council approves Forward Dallas plan, first zoning udpate in 18 years](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
 
- ![Which states are the most takeout-obsessed? Study reveals where to-go orders are staples](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1485490959-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/states-most-takeout-orders)
+ [![Waxahachie youth pastor who impregnated 14-year-old girl gets 50-year prison sentence](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Marvin-Scales-mug.jpg?ve=1&tl=1)
 
-### [Which states are the most takeout-obsessed? Study reveals where to-go orders are staples](https://www.fox4news.com/news/states-most-takeout-orders)
+ ![Waxahachie youth pastor who impregnated 14-year-old girl gets 50-year prison sentence](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Marvin-Scales-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/waxahachie-youth-pastor-who-impregnated-14-year-old-girl-gets-50-year-prison-sentence)
+
+### [Waxahachie youth pastor who impregnated 14-year-old girl gets 50-year prison sentence](https://www.fox4news.com/news/waxahachie-youth-pastor-who-impregnated-14-year-old-girl-gets-50-year-prison-sentence)
 
 ###### [News](https://www.fox4news.com/news)
 
