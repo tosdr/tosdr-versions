@@ -168,7 +168,7 @@ Failure to meet one or more of the following requirements may lead to a denial 
 * [Privacy Policy](https://technologyadvice.com/privacy-policy/)
 * [California – Do Not Sell My Info](https://technologyadvice.com/privacy-policy/ccpa-opt-out/)
 
-[](https://technologyadvice.com/#)
+[](#)
 
 [![TechnologyAdvice logo](https://assets.dev.technologyadvice.com/uploads/2024/03/technologyadvice_logo_final-1.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
 
