@@ -218,6 +218,7 @@ Sign up today and create a custom cookie banner for your website
         * [Preconsent](https://www.cookiehub.com/preconsent)
         * [Consent log](https://www.cookiehub.com/consent-log)
         * [Consent Mode](https://www.cookiehub.com/consent-mode)
+        * [Geo-targeting](https://www.cookiehub.com/geo-targeting)
         * [TCFv2 Compliance](https://www.cookiehub.com/tcf)
         * [Languages](https://www.cookiehub.com/languages)
     * [Regulations](https://www.cookiehub.com/regulations)
