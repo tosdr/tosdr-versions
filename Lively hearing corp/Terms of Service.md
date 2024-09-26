@@ -1,11 +1,5 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-Turn $200 off into $300 off!
-
-Turn $200 off into $300 off!
-
-Turn $200 off into $300 off!
-
 Save $200 on the Enhance Select 500! [Shop](https://www.listenlively.com/product)
 
 Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
@@ -18,15 +12,13 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 100-day risk-free trial and US-based customer support!
 
-[Fall colors are fading!Fall colors are fading!Fall colors are fading! **Sale ends in 1d : 19h : 24m**](https://www.listenlively.com/product)
+[Fall colors are fading!Fall colors are fading!Fall colors are fading! **Sale ends in 1d : 13h : 23m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -117,7 +109,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3783 reviews)
+4.6 out of 5(3801 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -164,7 +156,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3783 reviews)
+4.6 out of 5(3801 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -222,6 +214,21 @@ Next
 * Advanced acoustics
 
 [Shop now](https://www.listenlively.com/product/enhanceselect500)
+
+Get personalized care with our Premium Package
+----------------------------------------------
+
+### Programmed for you
+
+Hearing aids custom-programmed to your unique hearing needs based on your online test results or audiogram.
+
+### Care from your couch
+
+Video chat with a licensed hearing specialist about your hearing and hearing aids, as often as needed.
+
+### Adjustments made by experts
+
+If you're having an issue, our Audiology Team will tweak your hearing aids via the app, from anywhere.
 
 The reviews are in
 ------------------
