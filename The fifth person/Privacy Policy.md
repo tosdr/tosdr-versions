@@ -194,19 +194,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
-    
-    [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
-    
-    1 week ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
     
     2 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    
+    [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
