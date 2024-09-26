@@ -4,8 +4,6 @@
 
 Best Merrell Hiking Boots for Fall. [Shop the List](https://www.zappos.com/c/merrell-hiking-boots-for-fall)
 
-Best Merrell Hiking Boots for Fall. [Shop the List](https://www.zappos.com/c/merrell-hiking-boots-for-fall)
-
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
 Search for shoes, clothes, etc.Search
