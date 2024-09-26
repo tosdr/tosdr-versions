@@ -818,12 +818,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Fußbereich
 
@@ -3863,12 +3863,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Weitere spannende Themen
 
@@ -3883,12 +3883,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Neueste Tests
 
@@ -3901,12 +3901,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Veganuary: Die Ganz-ohne-Fleisch-Challenge](https://www.test.de/Veganuary-Die-Ganz-ohne-Fleisch-Challenge-5943155-0/ "Veganuary - Die Ganz-ohne-Fleisch-Challenge")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
 
 Service Stiftung Warentest
 
