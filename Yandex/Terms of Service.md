@@ -184,9 +184,9 @@ Yandex Terms of Service
 
 English
 
-Lietuvių
-
 Polski
+
+Lietuvių
 
 Eesti keel
 
@@ -329,9 +329,9 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-Lietuvių
-
 Polski
+
+Lietuvių
 
 Eesti keel
 
@@ -345,9 +345,9 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-Lietuvių
-
 Polski
+
+Lietuvių
 
 Eesti keel
 
