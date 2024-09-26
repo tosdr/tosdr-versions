@@ -21,7 +21,7 @@
     
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
     
-    ### [The way Oliver was treated was abhorrent – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+    ### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
     
     [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
@@ -101,7 +101,7 @@ View All Result
     
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
     
-    ### [The way Oliver was treated was abhorrent – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+    ### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
     
     [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
@@ -235,7 +235,7 @@ Terms of Use
 
 [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
 
-### [The way Oliver was treated was abhorrent – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
 
 [26th September 2024](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
 
