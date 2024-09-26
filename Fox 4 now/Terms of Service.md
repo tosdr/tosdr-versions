@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[Cat. 1 Helene forecast to be a Cat. 4 by Thursday evening at landfall](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
+[Helene is now a Category 2 Hurricane](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
 
 Terms of Use
 ============
