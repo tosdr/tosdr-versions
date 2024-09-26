@@ -239,7 +239,7 @@ FR
         
         Home Hardware
         
-        2% Cash Back](https://www.rakuten.ca/ticket/campaign/9CategoryFeaturedStores/store/home-hardware?sourceName=nav-menu)
+        3% Cash Back](https://www.rakuten.ca/ticket/campaign/9CategoryFeaturedStores/store/home-hardware?sourceName=nav-menu)
         
     * [Health & Beauty](https://www.rakuten.ca/stores/health-beauty "Health & Beauty Promo Codes and Coupons")
         
@@ -457,9 +457,9 @@ FR
         
         Recommended Stores
         
-        [Booking.com
+        [Hotels.com
         
-        6% Cash Back](https://www.rakuten.ca/booking-com)[Viator - A TripAdvisor Company
+        1% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
         
         12% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
         
@@ -475,11 +475,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/297964/en-right-rail_cat_drop_300x250_hotels.com4.png)
+        ![](//static.rakuten.ca/img/campaign_entity/298487/en-right-rail_cat_drop_300x250_booking.jpg)
         
-        Hotels.com
+        Booking.com
         
-        1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
+        6% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/booking-com?sourceName=nav-menu)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -490,11 +490,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/297964/en-right-rail_cat_drop_300x250_hotels.com4.png)
+        ![](//static.rakuten.ca/img/campaign_entity/298487/en-right-rail_cat_drop_300x250_booking.jpg)
         
-        Hotels.com
+        Booking.com
         
-        1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotels-com?sourceName=nav-menu)
+        6% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/booking-com?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/friends-and-family "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
@@ -624,13 +624,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 2% Cash Back from Rakuten.ca with Home Hardware Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/298102/en-stickyfooter-1170x60_home_hardware-1.png "Home Hardware Coupons, Promo Codes")
+[![Earn 10% Cash Back from Rakuten.ca with Lenovo Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/298278/en-stickyfooter-1170x60_lenovo.png "Lenovo Canada Coupons, Promo Codes")
 
-was 1%, now
+was 3%, now
 
-2% Cash Back
+10% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/home-hardware?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/lenovo-canada?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
