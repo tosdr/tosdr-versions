@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![This 1957 Chevrolet Bel Air Was Stolen, and Then a Miracle Happened](https://s1.cdn.autoevolution.com/images/news/this-1957-chevrolet-bel-air-was-stolen-and-then-a-miracle-happened-240353-5.jpg "This 1957 Chevrolet Bel Air Was Stolen, and Then a Miracle Happened")
+[![This Modern and Very Compact Tiny House Is a 5-Star Suite Made Portable](https://s1.cdn.autoevolution.com/images/news/this-modern-and-very-compact-tiny-house-is-a-5-star-suite-made-portable-240362-5.jpg "This Modern and Very Compact Tiny House Is a 5-Star Suite Made Portable")
 
-This 1957 Chevrolet Bel Air Was Stolen, and Then a Miracle Happened](https://www.autoevolution.com/news/this-1957-chevrolet-bel-air-was-stolen-and-then-a-miracle-happened-240353.html)
+This Modern and Very Compact Tiny House Is a 5-Star Suite Made Portable](https://www.autoevolution.com/news/this-modern-and-very-compact-tiny-house-is-a-5-star-suite-made-portable-240362.html)
 
 how-to \_
 
