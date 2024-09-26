@@ -254,23 +254,15 @@ Latest News
 
 [Suntory to raise monthly wages by 7% in 2025](https://www.japantimes.co.jp/business/2024/09/26/companies/suntory-monthly-wage-raise/ "Suntory to raise monthly wages by 7% in 2025")
 
-4 hours ago
+10 hours ago
 
 [In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
 
-7 hours ago
-
 [Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
-
-7 hours ago
 
 [CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/cdp-ishin-noda/ "CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?")
 
-9 hours ago
-
 [Jeep’s compact EV debuts in Japan as imported EVs take the lead](https://www.japantimes.co.jp/business/2024/09/26/companies/jeep-compact-ev/ "Jeep’s compact EV debuts in Japan as imported EVs take the lead")
-
-10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
