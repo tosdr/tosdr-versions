@@ -64,7 +64,7 @@ Search
 
 [Help Center](https://www.namecheap.com/help-center/)
 
-[Knowledgebase](https://www.namecheap.com/support/knowledgebase/)[Fix Hacked WebsiteSOS](https://www.namecheap.com/security/fix-hacked-website/)[Guru Guides](https://www.namecheap.com/guru-guides/)[Blog](https://www.namecheap.com/blog/)[Build and Grow HubNEW](https://www.namecheap.com/build-and-grow-hub/)[How-To Videos](https://www.namecheap.com/support/knowledgebase/category/2253/howto-videos/)[Status Updates](https://www.namecheap.com/status-updates/)
+[Knowledgebase](https://www.namecheap.com/support/knowledgebase/)[Fix Hacked WebsiteSOS](https://www.namecheap.com/security/fix-hacked-website/)[Guru Guides](https://www.namecheap.com/guru-guides/)[Blog](https://www.namecheap.com/blog/)[Build + Grow HubNEW](https://www.namecheap.com/build-and-grow-hub/)[How-To Videos](https://www.namecheap.com/support/knowledgebase/category/2253/howto-videos/)[Status Updates](https://www.namecheap.com/status-updates/)
 
 Account
 
@@ -175,7 +175,7 @@ You can use characters generated with Font Maker pretty much everywhere online, 
 
 Need help? We're always here for you.
 
-[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=)
+[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=/domains.aspx)
 
 ![Ukraine flag](https://static.nc-img.com/uilayout2/34735a65a0c63bd007fa4c32f67dab4c.svg)We ❤️ Ukraine. Namecheap is a US based registrar. Many of our colleagues originate from or are located within Ukraine. To support Ukraine in their time of need visit this [page](https://war.ukraine.ua/support-ukraine/).
 
