@@ -31,6 +31,176 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Incendio forestal en Guápulo provoca cierres viales este 26 de septiembre
+=========================================================================
+
+Bomberos de otras ciudades viajaron hasta Quito para ayudar a controlar el incendio forestal de Guápulo.
+--------------------------------------------------------------------------------------------------------
+
+![El incendio forestal sigue activo en Guápulo.](https://www.elcomercio.com/wp-content/uploads/2024/09/Incendio-en-Guapulo.jpg)
+
+El **incendio forestal** de **Guápulo**, que se produjo el martes 24 de septiembre, provocó cierres viales que se mantienen hasta este 26 de septiembre en **Quito**[.](https://es.wikipedia.org/wiki/Incendio_forestal "https://es.wikipedia.org/wiki/Incendio_forestal")
+
+Más noticias
+------------
+
+* [Fundación rescata a perro, oveja y gatos del incendio forestal en Quito](https://www.elcomercio.com/tendencias/ambiente/fundacion-lucky-rescate-animal-incendio-forestal-quito.html "Fundación rescata a perro, oveja y gatos del incendio forestal en Quito ")
+* [Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-gonzalez-suarez-vecinos.html "Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito")
+* [Incendio forestal en Guápulo se controla parcialmente](https://www.elcomercio.com/actualidad/quito/incendio-forestal-parque-guapulo-controlado-parcialmente.html "Incendio forestal en Guápulo se controla parcialmente")
+
+La Agencia Metropolitana de Tránsito (AMT) detalló los cierres de las vías afectadas.
+
+Cierres viales por incendio forestal en Guápulo
+-----------------------------------------------
+
+* Túnel Guayasamín
+* Simón Bolívar e Interoceánica
+* Alfonso Perrier y Lérida / Av. Conquistadores (Parque Navarro)
+* Conquistadores / Simón Bolívar, ingreso a Guápulo
+* Conquistadores y Ninahualpa
+* 6 de Diciembre y Oswaldo Guayasamín
+* Simón Bolívar y Oswaldo Guayasamín
+
+Situación del incendio forestal en Guápulo
+------------------------------------------
+
+El **Cuerpo** de **Bomberos** de Quito informó a las 06:30 que los trabajos para **extinguir** el **incendio** continuaron durante la noche y madrugada del 26 de septiembre de 2024.
+
+A las 04:00 se realizó un monitoreo de las **zonas afectadas** y se distribuyó al personal en cinco cuadrantes estratégicos:
+
+* Parque de Guápulo
+* Cerro Auqui, lado occidental
+* Av. Simón Bolívar
+* Av. De los Conquistadores, desvío a San Juan de Cumbayá
+* Cerro Auqui, lado oriental
+
+Desde las 07:45, el **Cuerpo** de **Bomberos** ha realizado **sobrevuelos** con **helicóptero** para evaluar las condiciones y el uso de **helibalde** en el combate aéreo. También se realizaron mediciones **termográficas** con **drones**.
+
+¿Cómo fueron los trabajos para controlar el incendio el 25 de septiembre?
+-------------------------------------------------------------------------
+
+El **Gobierno**, a través del Comité de Operaciones de Emergencia (**COE**) y el Municipio de **Quito** ejecutan medidas para enfrentar la emergencia por los **incendios forestales** en la capital.
+
+La emergencia en Quito por los incendios empezó la tarde del martes 24 de septiembre, con afectaciones humanas, materiales y ambientales.
+
+Este jueves 26 de septiembre es el primer día de la capital con declaratoria de **estado de emergencia.**
+
+Las llamas que iniciaron en **Guápulo** la tarde del martes, se reavivaron la mañana del miércoles.
+
+Esto obligó a las autoridades **nacionales** y **locales** a tomar medidas más drásticas para **combatir** los **incendios**.
+
+El incendio originado en **Guápulo** puso en riesgo a la población y a la vida silvestre en los sectores de la av. **Conquistadores**, **Bellavista**, **Bolaños**, el cerro **Auqui**, **González Suárez** y el **Parque Metropolitano** Guaguiltagua.
+
+La acción de más de 200 **bomberos** de Quito se reforzó con el apoyo de 180 militares, 1 600 policías y los cuerpos de bomberos de cinco cantones cercanos a la capital.
+
+Además, dos **helicópteros militares** y uno de la **Policía**, tanqueros de la **Prefectura** de **Pichincha**, 24 camionetas de la **Policía Nacional**, motocicletas y más.
+
+Esto, sumado a la búsqueda de los posibles responsables de estos actos tachados como “terroristas”, por parte de las autoridades.
+
+Conoce el significado patriótico detrás del Día y el Juramento a la Bandera 
+============================================================================
+
+El 26 de septiembre, se conmemora el Día de la Bandera con ceremonias en las que los estudiantes rinden homenaje a este símbolo.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![La bandera tricolor es un símbolo patrio que une a los ecuatorianos en el respeto por su historia y valores nacionales. Foto: Ministerio de Educación.](https://www.elcomercio.com/wp-content/uploads/2024/09/juramento-bandera.jpg)
+
+**El 26 de septiembre se conmemora el Día de la Bandera en Ecuador**. Este día fue establecido como **símbolo nacional por el Congreso**, según el **Registro Oficial 1272**, de acuerdo con la página de la [Gobernación de Napo](https://www.gobernacionnapo.gob.ec/new/acto-civico-de-trascendencia-juramento-a-la-bandera/ "https://www.gobernacionnapo.gob.ec/new/acto-civico-de-trascendencia-juramento-a-la-bandera/"). 
+
+Durante la **presidencia del General Eloy Alfaro**, se decidió que la **bandera ecuatoriana mantendría su tricolor original**. Este diseño, que incluye los colores amarillo, azul y rojo dispuestos en líneas horizontales, **simboliza la historia del país desde su independencia**. 
+
+A nivel nacional 277.677 estudiantes de tercero de bachillerato jurarán la bandera.
+
+### Más noticias
+
+* [Ideas pedagógicas de Eugenio Espejo](https://www.elcomercio.com/sociedad/ideas-pedagogicas-de-eugenio-espejo.html "https://www.elcomercio.com/sociedad/ideas-pedagogicas-de-eugenio-espejo.html")
+* [Fundación rescata a perro, oveja y gatos del incendio forestal en Quito](https://www.elcomercio.com/tendencias/ambiente/fundacion-lucky-rescate-animal-incendio-forestal-quito.html "https://www.elcomercio.com/tendencias/ambiente/fundacion-lucky-rescate-animal-incendio-forestal-quito.html") 
+
+La bandera ecuatoriana comparte similitudes con las de Colombia y Venezuela. Este hecho resalta el **legado bolivariano del Ecuador** y su conexión con otros países de la región. **El uso de estos colores representa la lucha por la libertad y la identidad nacional**. 
+
+La celebración del **Día de la Bandera** es un momento para **fortalecer el respeto hacia este símbolo patrio**. En cada rincón del país, se llevan a cabo **ceremonias que reafirman el orgullo nacional y la unidad del pueblo ecuatoriano**. La bandera no solo representa la historia, sino también **los valores que unen a todos los ecuatorianos**. 
+
+Orígenes de la bandera 
+-----------------------
+
+La **historia de la bandera del Ecuador** se remonta al **26 de septiembre de 1860.** Gabriel García Moreno, en su calidad de jefe supremo de la República, estableció, mediante un decreto ejecutivo, que **los colores de la Bandera Nacional serían amarillo, azul y rojo**. Esta información proviene de la página del [Colegio Ecuatoriano Suizo](https://www.ecuatorianosuizo.edu.ec/26-de-septiembre-juramento-a-la-bandera/ "https://www.ecuatorianosuizo.edu.ec/26-de-septiembre-juramento-a-la-bandera/"). 
+
+Reconocimiento oficial 
+-----------------------
+
+El **7 de noviembre de 1900**, el **Congreso Nacional** reafirmó esta decisión. A través de un Decreto Legislativo, se dispuso que “el pabellón nacional será sin alteración alguna el que adoptó el Ecuador desde que proclamó su independencia”. De esta manera, e**l 26 de septiembre se declaró oficialmente como el Día de la Bandera**. 
+
+Variaciones históricas 
+-----------------------
+
+A lo largo de la historia, **Ecuador ha utilizado diferentes estandartes**. El 10 de agosto de 1809, durante el **Primer Grito de Independencia**, se usó un **segundo estandarte de color rojo** con una cruz blanca. Posteriormente, el 9 de octubre de 1820, los **patriotas de Guayaquil** emplearon una bandera con tres franjas horizontales celestes y dos blancas intercaladas, adornada con tres estrellas en el centro. 
+
+El pabellón nacional 
+---------------------
+
+El 25 de mayo de 1822, después de la **Batalla de Pichincha**, se usó por **primera vez la bandera amarilla, azul y roja con un escudo en el centro**. Desde entonces, el **pabellón nacional** ha sufrido varias modificaciones. Sin embargo, el **Congreso de 1900** determinó que la bandera nacional sería el **tricolor adoptado desde la independencia**. 
+
+Significado de los colores 
+---------------------------
+
+**Cada color de la bandera tiene un significado profundo**. La **franja amarilla,** que es el doble de ancha que las otras, **representa la abundanci**a del suelo ecuatoriano. **El azul** simboliza el **cielo y el mar**, mientras que **el rojo**, en la parte inferior, recuerda **la sangre derramada por los héroes nacionales**. El escudo nacional se coloca en el centro, lo que añade un elemento de identidad al símbolo patrio. 
+
+Influencia de Francisco de Miranda 
+-----------------------------------
+
+**El diseño de la bandera ecuatoriana se inspira en el general Francisco de Miranda**, precursor de la independencia de América del Sur. Este diseño fue adoptado posteriormente por las repúblicas de Ecuador, Colombia y Venezuela. 
+
+Postergan Juramento a la Bandera en Quito
+-----------------------------------------
+
+Este jueves, 26 de septiembre, cerca de **278 000 estudiantes de tercero de Bachillerato** en Ecuador realizarán el tradicional **Juramento a la Bandera Nacional**. Sin embargo, los estudiantes de los colegios de Quito no participarán en el evento.
+
+El **Ministerio de Educación** informó que, debido a la **emergencia por los incendios forestales** en la capital, la ceremonia ha sido postergada. La decisión se anunció el miércoles 25 de septiembre. El evento se reprogramará “hasta que las condiciones lo permitan”, señalaron la autoridades.
+
+Los incendios forestales han afectado varias zonas de la ciudad, creando riesgos para la salud y seguridad de los estudiantes. Las nuevas fechas para el **Juramento a la Bandera en Quito** se anunciarán próximamente.
+
+Así funciona el Pico y placa en Quito este jueves 26 de septiembre
+==================================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este jueves.
+---------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento del Pico y placa.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-Quito-jueves.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Más noticias
+------------
+
+* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html "Radiografía de la movilidad en Quito, un problema vigente")
+* [Quito mantiene cuatro cierres viales por los incendios forestales](https://www.elcomercio.com/actualidad/quito/quito-mantiene-cierres-viales-incendios-forestales.html "Quito mantiene cuatro cierres viales por los incendios forestales")
+* [Incendios forestales en Quito complican la movilidad este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/voraz-incendio-forestal-guapulo-cierre-vias.html "Incendios forestales en Quito complican la movilidad este martes 24 de septiembre")
+
+El Pico y placa no afecta a vehículos de personas de la **tercera edad o con discapacidad**. Tampoco a vehículos oficiales,
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación**:**
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
 303 figuras halladas en el desierto de Perú son más antiguas que las Líneas de Nazca
 ====================================================================================
 
@@ -65,6 +235,36 @@ La cultura Nazca floreció en ese agreste desierto gracias a la construcción de
 Su organización política se basaba en una agrupación de señores locales que no contaban con un gobierno único ni capital y que se vinculaban entre sí por la religión y las costumbres.
 
 Por el resultado del que dispone el equipo de la universidad japonesa, creen que “hay más de 1.000 geoglifos de tipo relieve distribuidos a lo largo de más de 100 senderos en las pampas” de Nazca.
+
+El último poema de amor
+=======================
+
+Las ciudades invisibles de Ítalo Calvino como un juego poético donde lo fantástico se une a la realidad.
+--------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**Ítalo Calvino** plantea un juego poético, donde lo fantástico y lo maravilloso se unen a la realidad creada por él mismo**. ‘Las ciudades invisibles’** constituyen –como lo confiesa Calvino- **‘el último poema de amor a las ciudades’.**
+
+En este clásico de la literatura publicado por primera vez en Italia, en 1972, Calvino advierte que este libro **‘no se encuentran ciudades reconocibles, porque todas son inventadas’.** Cada capítulo **‘nació lentamente, con intervalos a veces largos, como poemas…’.**
+
+**El índice refleja su contenido con títulos sugestivos**: Las ciudades y la memoria, Las ciudades y el deseo, Las ciudades y los signos, Las ciudades sutiles, Las ciudades y los trueques, Las ciudades y los ojos, Las ciudades y el nombre, Las ciudades y los muertos, Las ciudades y el cielo, Las ciudades continuas y Las ciudades escondidas…
+
+**Pese a que Calvino es hijo de la modernidad, sus bloques narrativos están ambientados en las conversaciones imaginarias de Marco Polo** –legendario descubridor portugués-, en el papel de narrador, con el emperador Kublai Khan, llamado por Calvino ‘el Gran Jan de los Tártaros’, como narratario.
+
+**Las ciudades tienen nombres de mujeres y el contenido es una lúdica tenaz, en la que no hay argumento y los lectores están desafiados a jugar a los números, como lo hizo a su tiempo Julio Cortázar en ‘Rayuela’.** Pero con la diferencia que en ‘Las ciudades invisibles’, la conversación es eterna, donde, curiosamente, la única evocación del tiempo es el espacio, que justifica sus preocupaciones existenciales: **la identidad, la vida, la muerte, el anhelo, la trascendencia**…
+
+**Las urbes nacen, entonces, de la imposibilidad de existir:** suspendidas de un precipicio, como **Ottavia**; donde el narrador viajero recuerda a sus familiares y amigos muertos, como **Adelma**; el propio deseo que provoca en quienes se acercan ella, en las profundidades del mar o en el desierto, como **Despina**; la ciudad bidimensional como **Moriana**; la ciudad de la ausencia como **Baucis**; la ciudad bañada por canales concéntricos, en cuyo cielo planean cometas, como **Anastasia…**
+
+**‘Las ciudades invisibles’ son metáforas construidas desde los sueños de Calvino** que cobran vida a medida que se acercan a las experiencias simbólicas, en las que la arquitectura y los modelos sociales, políticos e ideológicos se entrecruzan y se pueden describir de la mano de la poesía, en la cual el lector entra a un juego fantástico que le propone el autor.
+
+**¿Qué es la ciudad?,** se pregunta Calvino. Y responde: **‘Creo haber escrito algo como el último poema de amor a las ciudades, cuando es cada vez más difícil vivirlas como ciudades’.** Cierto. Por eso Calvino considera a **‘Las ciudades invisibles’ como sueños que nacen del corazón…’**
+
+Calvino considera que **‘la crisis de la ciudad demasiado grande es la otra cara de la crisis de la naturaleza’.** Y confiesa el meollo de su discurso fantástico: ‘Los libros que profetizan catástrofes y apocalipsis son muchos –dice-. **Lo que importa para mi Marco Polo es descubrir las razones secretas,** que han llevado a los hombres a vivir en las ciudades, razones que pueden ir **más allá de todas las crisis’.**
+
+**‘Las ciudades son un conjunto de muchas evidencias –reconoce Ítalo Calvino-: memorias, deseos, signos de un lenguaje; lugares de trueques… no solo de mercancías, sino trueques de palabras, de deseos, de recuerdos**. Por eso, **‘mi libro se abre y se cierra con las imágenes de ciudades felices, que cobran forma y se desvanecen continuamente, escondidas en las ciudades infelices…’**
+
+Si quieren saber más sobre las ciudades invisibles, **les invito a leer y disfrutar de los más fascinantes relatos de viaje que Marco Polo hace a Kublai Jan**, emperador de los tártaros.
 
 Cartas a Quito / 26 de septiembre de 2024
 =========================================
@@ -140,36 +340,6 @@ La diversificación energética es una necesidad urgente. Ecuador no puede depen
 La energía solar, eólica, biomasa, geotermia y la tecnología LED ofrecen soluciones viables.
 
 El Estado, las empresas privadas y los hogares deben trabajar juntos, para garantizar un futuro energético seguro y sostenible para nuestro país. En conclusión, la acción debe ser inmediata. El futuro de Ecuador depende de ello.
-
-El último poema de amor
-=======================
-
-Las ciudades invisibles de Ítalo Calvino como un juego poético donde lo fantástico se une a la realidad.
---------------------------------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-**Ítalo Calvino** plantea un juego poético, donde lo fantástico y lo maravilloso se unen a la realidad creada por él mismo**. ‘Las ciudades invisibles’** constituyen –como lo confiesa Calvino- **‘el último poema de amor a las ciudades’.**
-
-En este clásico de la literatura publicado por primera vez en Italia, en 1972, Calvino advierte que este libro **‘no se encuentran ciudades reconocibles, porque todas son inventadas’.** Cada capítulo **‘nació lentamente, con intervalos a veces largos, como poemas…’.**
-
-**El índice refleja su contenido con títulos sugestivos**: Las ciudades y la memoria, Las ciudades y el deseo, Las ciudades y los signos, Las ciudades sutiles, Las ciudades y los trueques, Las ciudades y los ojos, Las ciudades y el nombre, Las ciudades y los muertos, Las ciudades y el cielo, Las ciudades continuas y Las ciudades escondidas…
-
-**Pese a que Calvino es hijo de la modernidad, sus bloques narrativos están ambientados en las conversaciones imaginarias de Marco Polo** –legendario descubridor portugués-, en el papel de narrador, con el emperador Kublai Khan, llamado por Calvino ‘el Gran Jan de los Tártaros’, como narratario.
-
-**Las ciudades tienen nombres de mujeres y el contenido es una lúdica tenaz, en la que no hay argumento y los lectores están desafiados a jugar a los números, como lo hizo a su tiempo Julio Cortázar en ‘Rayuela’.** Pero con la diferencia que en ‘Las ciudades invisibles’, la conversación es eterna, donde, curiosamente, la única evocación del tiempo es el espacio, que justifica sus preocupaciones existenciales: **la identidad, la vida, la muerte, el anhelo, la trascendencia**…
-
-**Las urbes nacen, entonces, de la imposibilidad de existir:** suspendidas de un precipicio, como **Ottavia**; donde el narrador viajero recuerda a sus familiares y amigos muertos, como **Adelma**; el propio deseo que provoca en quienes se acercan ella, en las profundidades del mar o en el desierto, como **Despina**; la ciudad bidimensional como **Moriana**; la ciudad de la ausencia como **Baucis**; la ciudad bañada por canales concéntricos, en cuyo cielo planean cometas, como **Anastasia…**
-
-**‘Las ciudades invisibles’ son metáforas construidas desde los sueños de Calvino** que cobran vida a medida que se acercan a las experiencias simbólicas, en las que la arquitectura y los modelos sociales, políticos e ideológicos se entrecruzan y se pueden describir de la mano de la poesía, en la cual el lector entra a un juego fantástico que le propone el autor.
-
-**¿Qué es la ciudad?,** se pregunta Calvino. Y responde: **‘Creo haber escrito algo como el último poema de amor a las ciudades, cuando es cada vez más difícil vivirlas como ciudades’.** Cierto. Por eso Calvino considera a **‘Las ciudades invisibles’ como sueños que nacen del corazón…’**
-
-Calvino considera que **‘la crisis de la ciudad demasiado grande es la otra cara de la crisis de la naturaleza’.** Y confiesa el meollo de su discurso fantástico: ‘Los libros que profetizan catástrofes y apocalipsis son muchos –dice-. **Lo que importa para mi Marco Polo es descubrir las razones secretas,** que han llevado a los hombres a vivir en las ciudades, razones que pueden ir **más allá de todas las crisis’.**
-
-**‘Las ciudades son un conjunto de muchas evidencias –reconoce Ítalo Calvino-: memorias, deseos, signos de un lenguaje; lugares de trueques… no solo de mercancías, sino trueques de palabras, de deseos, de recuerdos**. Por eso, **‘mi libro se abre y se cierra con las imágenes de ciudades felices, que cobran forma y se desvanecen continuamente, escondidas en las ciudades infelices…’**
-
-Si quieren saber más sobre las ciudades invisibles, **les invito a leer y disfrutar de los más fascinantes relatos de viaje que Marco Polo hace a Kublai Jan**, emperador de los tártaros.
 
 75 barrios de Quito afectados con cortes de agua esta semana
 ============================================================
@@ -966,125 +1136,3 @@ Denil Castillo también jugó en la Europa League
 El volante ecuatoriano Denil Castillo también inició su camino en la UEFA Europa League con el Midtjylland de Dinamarca. El tricolor y su escuadra enfrentaron al TSG Hoffenheim de Alemania.
 
 El plantel danés fue local y amabas repartieron honores. Dario Osorio y Max Moerstedt anotaron los goles.
-
-¿Los incendios forestales afectarán los partidos de Liga Pro en Quito?
-======================================================================
-
-La capital de Ecuador, Quito, lleva dos días continuos luchando contra varios incendios forestales.
----------------------------------------------------------------------------------------------------
-
-![Jeison Medina, jugador de Independiente del Valle, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-25T173416.782.jpg)
-
-Desde la tarde del martes 24 de septiembre, **múltiples incendios forestales** afectaron distintas zonas de Quito, y continúan este miércoles 25. Debido a esta crítica situación, varios eventos masivos, como partidos de fútbol, se suspendieron.
-
-Uno de los partidos suspendidos fue el de los cuartos de final de la **Copa Ecuador**, que tuvo que posponerse para no sobrecargar los recursos de control que actualmente se utilizan en la lucha contra los incendios.
-
-### Más noticias:
-
-* [Liga de Quito vs. El Nacional por Copa Ecuador se suspende por los incendios](https://www.elcomercio.com/deportes/futbol/liga-de-quito-el-nacional-se-suspende-copa-ecuador-incendios.html "Liga de Quito vs. El Nacional por Copa Ecuador se suspende por los incendios")
-* [El Nacional y Liga de Quito se solidarizan tras incendios forestales](https://www.elcomercio.com/deportes/el-nacional-liga-quito-solidaridad-incendios.html "El Nacional y Liga de Quito se solidarizan tras incendios forestales")
-* [Moisés Caicedo y su fundación brindan ayuda a Quito por los incendios](https://www.elcomercio.com/deportes/futbol/moises-caicedo-su-fundacion-prestan-ayuda-a-quito-por-los-incendios.html "Moisés Caicedo y su fundación brindan ayuda a Quito por los incendios")
-
-Sin embargo, queda la incertidumbre sobre **qué sucederá con los partidos de la Liga Pro**, especialmente los de la octava jornada. Si los incendios persisten hasta el fin de semana, es probable que estos partidos también deban ser suspendidos.
-
-¿Liga Pro suspenderá los partidos?
-----------------------------------
-
-Por el momento, la Liga Profesional de Fútbol de Ecuador, más conocida como **Liga Pro,** no se ha pronunciado oficialmente sobre el tema.
-
-Esto significa que esperarán hasta los días más cercanos a los partidos para **evaluar si la situación mejora** y se pueden llevar a cabo con normalidad, o si será necesario aplazar los encuentros si los incendios continúan.
-
-En cuanto a la octava jornada de la segunda etapa del campeonato ecuatoriano, hay tres partidos programados en la capital.
-
-¿Qué partidos se juegan en Quito?
----------------------------------
-
-De los tres partidos que se llevarán a cabo en Quito, uno en particular está en mayor riesgo de ser afectado, ya que se jugaría en el norte de la ciudad, donde se han registrado la mayor cantidad de **incendios** **forestales**.
-
-El primer partido será **Independiente del Valle vs. Universidad Católica**, el sábado 28 de septiembre, a las 14:30. Sin embargo, este encuentro se jugará en el Valle de Los Chillos, en el sector de Chillo Jijón, una zona alejada de las áreas afectadas.
-
-El segundo partido, programado para el mismo sábado, será entre **Cumbayá y Emelec**, a las 17:00. Este encuentro se disputará en el **Estadio Olímpico Atahualpa**, ubicado cerca de las zonas afectadas, donde hasta el momento la calidad del aire no es óptima.
-
-El último partido se jugará el domingo 29 de septiembre. **Aucas enfrentará a Deportivo Cuenca** a las 12:30 en el Estadio Gonzalo Pozo Ripalda, en el sur de la ciudad.
-
-Es importante mencionar que, para esta jornada, la **Liga** **Pro** ya modificó los horarios, adelantando varios partidos debido a los cortes programados de luz que afectan al país por la crisis energética.
-
-Trump eliminaría los permisos humanitarios para Venezuela, Cuba, Nicaragua y Haití
-==================================================================================
-
-Trump también dijo que cerrará la aplicación de teléfono CBP One que utilizan los migrantes para solicitar citas.
------------------------------------------------------------------------------------------------------------------
-
-![Fotografía del candidato republicado a la presidencia de EE.UU., Donald Trump. EFE/EPA/ERIK S. LESSER](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe5796cca532544346e20478c10fd61bc31df83228w.jpg)
-
-[Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html") prometió este miércoles 25 de septiembre de 2024, que si gana las elecciones eliminará el programa **‘parole humanitario’** que concede permisos temporales de trabajo para migrantes provenientes de **Venezuela, Cuba, Nicaragua** y **Haití**.
-
-Más noticias
-------------
-
-* [Harris y Trump responderán preguntas de votantes latinos en foros de la cadena Univision](https://www.elcomercio.com/actualidad/mundo/harris-trump-responderan-preguntas-votantes-latinos-foros-cadena-univision.html "Harris y Trump responderán preguntas de votantes latinos en foros de la cadena Univision")
-* [Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU.](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html "Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU. ")
-* [Campaña de Donald Trump confía en el apoyo de los latinos](https://www.elcomercio.com/actualidad/mundo/campana-donald-trump-confia-apoyo-latinos.html "Campaña de Donald Trump confía en el apoyo de los latinos")
-
-En una entrevista con la cadena Fox News, Trump también dijo que **cerrará la aplicación de teléfono** CBP One que utilizan los migrantes para solicitar citas para presentarse ante un puerto de entrada fronterizo de Estados Unidos.
-
-“Lo revocaría”, afirmó Trump, quien dijo que CBP One es “malo” pero el ‘parole’ es “todavía peor” porque permite a los beneficiarios llegar a Estados Unidos en avión.
-
-A pesar de que las personas con ‘parole’ cuentan con **estatus legal para estar en Estados Unidos** durante dos años, Trump dijo que son “inmigrantes ilegales” que no deberían estar en el país.
-
-“Que se preparen para irse, especialmente si son criminales”, amenazó Trump en caso de ganar las elecciones del 5 de noviembre a la vicepresidenta y candidata demócrata, Kamala Harris.
-
-El ‘parole’ concede la entrada a Estados Unidos de hasta 30.000 personas de Venezuela, Cuba, Nicaragua y Haití cada mes, y les permite obtener un permiso de trabajo por un periodo de dos años.
-
-El programa, instaurado por la Administración de Joe Biden a finales de 2022, ha permitido la entrada de 530.000 personas.
-
-Para pedir el permiso, los **migrantes necesitan tener un patrocinador en Estados Unidos** que tenga ya un estatus legal y demuestre tener suficientes ingresos para apoyar financieramente al beneficiario del programa.
-
-El Gobierno de Biden diseñó este programa, junto con la implementación de nuevas restricciones en la frontera, para intentar reducir la cifra de llegadas de migrantes indocumentados a Estados Unidos.
-
-Trump colocó la **migración en el centro de la campaña de las elecciones presidenciales** y e intensificó su retórica antiinmigrante al difundir el bulo de que los haitianos de un pueblo de Ohio se comen las mascotas de los vecinos.
-
-Saturno se quedará temporalmente sin sus anillos en el 2025
-===========================================================
-
-En marzo de 2025, los anillos de Saturno se ocultarán temporalmente desde la Tierra, un fenómeno que ocurre cada 29 años.
--------------------------------------------------------------------------------------------------------------------------
-
-![Los anillos helados de Saturno desaparecerán temporalmente en marzo de 2025 debido a un fenómeno óptico causado por su alineación con la Tierra.](https://www.elcomercio.com/wp-content/uploads/2024/09/Saturno.jpg)
-
-Los **anillos de Saturno**, uno de los espectáculos más impresionantes del sistema solar, están a punto de experimentar un fenómeno astronómico inusual. En marzo de 2025, estos anillos dejarán de ser visibles desde la Tierra debido a una alineación específica entre **Saturno, la Tierra y el Sol**. Este evento, que ocurre aproximadamente cada 29 años, ha fascinado tanto a científicos [como a aficionados a la astronomía.](https://www.nationalgeographic.com.es/ciencia/saturno-se-desprendera-de-sus-anillos_13696)
-
-### Más noticias:
-
-* [La ciencia detrás del equinoccio y lo que se debe tener en cuenta](https://www.elcomercio.com/tendencias/ciencia/equinoccio-septiembre-astronomia-clima.html "La ciencia detrás del equinoccio y lo que se debe tener en cuenta ")
-* [¿Qué nos enseñan la ciencia y las películas sobre el alzhéimer?](https://www.elcomercio.com/tendencias/salud/dia-mundial-alzheimer-efemeride.html "¿Qué nos enseñan la ciencia y las películas sobre el alzhéimer? ")
-
-Causas del fenómeno
--------------------
-
-La desaparición temporal de los anillos de Saturno se debe a un fenómeno conocido como [**equinoccio saturniano**.](https://es.wired.com/articulos/los-anillos-de-saturno-se-ocultaran-en-2025-por-su-equinoccio) Durante este evento, el eje de inclinación del planeta hace que los bordes más delgados de los anillos se alineen directamente con nuestra línea de visión en la Tierra. Este fenómeno no es permanente; los anillos volverán a ser visibles después de que Saturno complete su inclinación[](https://www.nationalgeographic.com.es/ciencia/increible-evento-que-hara-desaparecer-anillos-saturno-2025_21038)[](https://www.historylatam.com/universo/por-que-los-anillos-de-saturno-desapareceran-en-menos-de-seis-meses).
-
-Características de los anillos
-------------------------------
-
-Los anillos de Saturno están compuestos principalmente por partículas de hielo y polvo cósmico, que varían en tamaño desde granos microscópicos hasta bloques del tamaño de una casa. Esta composición única les da su apariencia brillante y compleja cuando son observados a través de telescopios[](https://www.nationalgeographic.com.es/ciencia/saturno-se-desprendera-de-sus-anillos_13696)[](https://www.eleconomista.es/galerias/eleconomista/21423/Adios-a-los-majestuosos-anillos-de-Saturno-desapareceran-en-solo-seis-meses). La dinámica gravitacional entre Saturno y sus lunas también juega un papel crucial en la configuración y el comportamiento de estos anillos[](https://www.historylatam.com/universo/por-que-los-anillos-de-saturno-desapareceran-en-menos-de-seis-meses).
-
-Historia del fenómeno
----------------------
-
-La última vez que se observó este fenómeno fue en 2009, y se espera que se repita en 2038. Durante el equinoccio, la luz solar ilumina directamente el ecuador del planeta, lo que contribuye a la ilusión óptica que provoca la “desaparición” de los anillos[](https://www.nationalgeographic.com.es/ciencia/increible-evento-que-hara-desaparecer-anillos-saturno-2025_21038)[](https://es.wired.com/articulos/los-anillos-de-saturno-se-ocultaran-en-2025-por-su-equinoccio). Este ciclo natural ha sido estudiado por astrónomos durante décadas, y cada ocurrencia ofrece una oportunidad para aprender más sobre la estructura y composición del sistema planetario.
-
-Implicaciones científicas
--------------------------
-
-La desaparición temporal no solo es un espectáculo visual; también tiene implicaciones científicas significativas. Los investigadores han descubierto que Saturno está perdiendo sus anillos a un ritmo acelerado, lo que podría llevar a su desaparición total en aproximadamente 300 millones de años[](https://www.nationalgeographic.com.es/ciencia/saturno-se-desprendera-de-sus-anillos_13696)[](https://www.eleconomista.es/galerias/eleconomista/21423/Adios-a-los-majestuosos-anillos-de-Saturno-desapareceran-en-solo-seis-meses). Según James O’Donoghue, científico del Centro de Vuelo Espacial Goddard de la NASA, el flujo constante de partículas hacia el planeta es suficiente para llenar una piscina olímpica en solo media hora[](https://www.nationalgeographic.com.es/ciencia/saturno-se-desprendera-de-sus-anillos_13696). Este descubrimiento ha llevado a nuevas teorías sobre el origen y la vida útil de los anillos.
-
-Origen y formación
-------------------
-
-El origen exacto de los anillos sigue siendo objeto de debate. Algunas teorías sugieren que se formaron a partir de una luna o cometa que fue destruido por la gravedad de Saturno. Otras hipótesis apuntan a que son restos del material sobrante tras la formación del planeta hace más de 4 mil millones de años[](https://www.historylatam.com/universo/por-que-los-anillos-de-saturno-desapareceran-en-menos-de-seis-meses)[](https://www.eleconomista.es/galerias/eleconomista/21423/Adios-a-los-majestuosos-anillos-de-Saturno-desapareceran-en-solo-seis-meses). La investigación continua en este campo es crucial para entender no solo a Saturno, sino también otros sistemas planetarios en nuestro universo.
-
-Observación del evento
-----------------------
-
-Para los entusiastas de la astronomía, este evento representa una oportunidad única para observar un fenómeno raro. Se recomienda utilizar telescopios para captar las sutilezas del cambio en la apariencia del planeta durante este periodo. Las condiciones óptimas para la observación dependerán del clima y la ubicación geográfica.
