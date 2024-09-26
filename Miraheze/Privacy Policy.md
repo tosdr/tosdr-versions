@@ -127,7 +127,7 @@ Other languages:
 * [العربية](https://meta.miraheze.org/wiki/Privacy_Policy/ar "سياسة الخصوصية (2% translated)")
 * [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (96% translated)")
 * [বাংলা](https://meta.miraheze.org/wiki/Privacy_Policy/bn "গোপনীয়তার নীতি (2% translated)")
-* [中文](https://meta.miraheze.org/wiki/Privacy_Policy/zh "隐私政策 (6% translated)")
+* [中文](https://meta.miraheze.org/wiki/Privacy_Policy/zh "#REDIRECT [[Translations:Privacy Policy/Page display title/zh-hans]] (10% translated)")
 * [中文（中国大陆）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-cn "隐私政策 (2% translated)")
 * [中文（臺灣）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-tw "隱私政策 (2% translated)")
 * [日本語](https://meta.miraheze.org/wiki/Privacy_Policy/ja "プライバシー・ポリシー (14% translated)")
