@@ -1,6 +1,6 @@
 ✨ Free eBook: The Digital Services Act Explained. [Get it here →](https://besedo.com/knowledge-hub/library/ebook/the-digital-services-act-explained/) [×](#)
 
-[![Besedo logo](https://besedo.com/wp-content-ext/themes/besedo/assets/images/logo.svg)](https://besedo.com/)
+[![Besedo](https://besedo.com/wp-content-ext/themes/besedo/assets/images/logo.svg)](https://besedo.com/)
 
 * [Solutions](https://besedo.com/solutions/)[](#)
     * [Marketplaces](https://besedo.com/solutions/marketplaces/)
