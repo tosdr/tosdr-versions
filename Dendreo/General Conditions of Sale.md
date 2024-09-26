@@ -40,7 +40,9 @@ Ressources
 
 [Recrutement](#)
 
-[Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[À propos](https://www.dendreo.com/a-propos-de-dendreo)[Contact](https://www.dendreo.com/contact)
+[À propos](https://www.dendreo.com/a-propos-de-dendreo)
+
+[Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[🪄 IA](https://www.dendreo.com/assistant-ia)[Contact](https://www.dendreo.com/contact)
 
 [Se connecter](https://pro.dendreo.com/login)[Voir une démo](https://www.dendreo.com/decouvrez-dendreo-demonstration-en-webinar)[Créez mon compte](https://cta-redirect.hubspot.com/cta/redirect/8934096/a929254c-8051-40fa-8ed0-f490c75c5700)
 
