@@ -125,50 +125,49 @@ More than 1,000 businesses operate more efficiently with us.
 
 Henry Venter
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=206687874)  
-Sarabi
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=209273191)  
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=5192226)  
-Alliance Energy
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=169178739)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=128200540)  
-Lindani Protection Services & Projects
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=200662561)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=58691786)  
-NGB HOLDINGS PTY LTD
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=1979911)  
+McKaynine Mobility
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=201328568)  
-Quad Biking Cape Town
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=125395923)  
+Sportspro Management (Pty) Ltd
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=82483279)  
-ELLIE'S CLEANING CHICKS
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=49460714)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=117045649)  
-Westside Car Audio CC
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=74407683)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=60066696)  
-Cpower Projects t/a Pro Pure Water
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=141723916)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=148714019)  
-Frequency Fanatics (Pty) Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=50695985)  
+MSPCloud (Pty) Ltd
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=83420429)  
-NIMAWELL
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=181864724)  
+Hydroworld T/A Milliqua
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=61737553)  
-Salvage Genie
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=114769465)  
+Creative Characters
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=23567505)  
-Testpro Laboratory (Pty) Ltd
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=66736556)  
+Calonet
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=78074905)  
-AquariumSmiths
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=108736225)  
+Enhle Oarabile Kea
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=19351442)  
-African Roots
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=168424305)  
+Prosper Park
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=bf645008b9aad99bdfde4274af2ffd3faba411811bb9a85e4d79037d3334938c&c=109794146)  
-Imvubu General Trading
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=78629134)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
