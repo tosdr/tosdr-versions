@@ -4,19 +4,13 @@ DAYS
 
 Until Evolution Genesis Release
 
-[Learn more](https://www.dash.org/news/evolution-genesis/)
+[Learn more](#)
+
+[](https://www.dash.org/)
 
 [](#)
 
-[Dash Logo](https://www.dash.org/)
-
-[](#)
-
-* [English](https://www.dash.org/terms-of-use/)
-
-[Get Started](https://www.dash.org/)
-
-Tools for users and shops
+[Get Started](https://www.dash.org/) ![](/wp-content/uploads/arrow-menu-1.svg) 
 
 [Home](https://www.dash.org/)
 
@@ -32,9 +26,7 @@ Tools for users and shops
 
 [New Merchant Kit](https://www.dash.org/new-merchant-kit/)
 
-[Institutions](https://www.dash.org/institutions/)
-
-Links, information and data
+[Institutions](https://www.dash.org/institutions/) ![](/wp-content/uploads/arrow-menu-1.svg) 
 
 [Institutions](https://www.dash.org/institutions/)
 
@@ -46,9 +38,7 @@ Links, information and data
 
 [FastPass](https://www.dash.org/fastpass/)
 
-[Developers](https://www.dash.org/developers/)
-
-Lead the next-gen currency
+[Developers](https://www.dash.org/developers/) ![](/wp-content/uploads/arrow-menu-1.svg) 
 
 [Developers](https://www.dash.org/developers/)
 
@@ -62,9 +52,7 @@ Lead the next-gen currency
 
 [Roadmap](https://www.dash.org/roadmap/)
 
-[Community](https://www.dash.org/community/)
-
-Connect, learn and create
+[Community](https://www.dash.org/community/) ![](/wp-content/uploads/arrow-menu-1.svg) 
 
 [Community](https://www.dash.org/community/)
 
@@ -82,9 +70,51 @@ Connect, learn and create
 
 [Blog](https://www.dash.org/blog/)
 
+[![English](/wp-content/uploads/flags/english.svg)Language | English](#)
+
+ [![German](/wp-content/uploads/flags/german.svg) German](https://www.dash.org/de/)
+
+ [![Greek](/wp-content/uploads/flags/greek.svg) Greek](https://www.dash.org/el/)
+
+ [![Spanish](/wp-content/uploads/flags/spanish.svg) Spanish](https://www.dash.org/es/)
+
+ [![Filipino](/wp-content/uploads/flags/filipino.svg) Filipino](https://www.dash.org/fil/)
+
+ [![French](/wp-content/uploads/flags/french.svg) French](https://www.dash.org/fr/)
+
+ [![Italian](/wp-content/uploads/flags/italian.svg) Italian](https://www.dash.org/it/)
+
+ [![Dutch](/wp-content/uploads/flags/dutch.svg) Dutch](https://www.dash.org/nl/)
+
+ [![Polish](/wp-content/uploads/flags/polish.svg) Polish](https://www.dash.org/pl/)
+
+ [![Portuguese (Brazil)](/wp-content/uploads/flags/portuguese.svg) Portuguese (Brazil)](https://www.dash.org/pt-br/)
+
+ [![Russian](/wp-content/uploads/flags/russian.svg) Russian](https://www.dash.org/ru/)
+
+ [![Vietnamese](/wp-content/uploads/flags/vietnamese.svg) Vietnamese](https://www.dash.org/vi/)
+
+ [![Turkish](/wp-content/uploads/flags/turkish.svg) Turkish](https://www.dash.org/tr/)
+
+ [![Ukrainian](/wp-content/uploads/flags/ukrainian.svg) Ukrainian](https://www.dash.org/uk/)
+
+ [![Chinese (Simplified)](/wp-content/uploads/flags/chinese.svg) Chinese (Simplified)](https://www.dash.org/zh-hans/)
+
+ [![Chinese (Traditional)](/wp-content/uploads/flags/chinese.svg) Chinese (Traditional)](https://www.dash.org/zh-hant/)
+
+ [![Korean](/wp-content/uploads/flags/korean.svg) Korean](https://www.dash.org/ko/)
+
+ [![Japanese](/wp-content/uploads/flags/japanese.svg) Japanese](https://www.dash.org/ja/)
+
+ [![Thai](/wp-content/uploads/flags/thai.svg) Thai](https://www.dash.org/th/)
+
+ [![Arabic](/wp-content/uploads/flags/arabic.svg) Arabic](https://www.dash.org/ar/)
+
+ [![Persian](/wp-content/uploads/flags/persian.svg) Persian](https://www.dash.org/fa/)
+
 [](#)
 
-* [English](https://www.dash.org/terms-of-use/)
+* [![](/wp-content/uploads/flags/english.svg)English](https://www.dash.org/terms-of-use/)
 
 Dash Core Group Terms of Use
 ============================
