@@ -57,6 +57,8 @@ Back
     
     [Knox certifications](https://www2.samsungknox.com/en/knox-platform/knox-certifications)
     
+    [Secure Folder](https://www2.samsungknox.com/en/solutions/personal-apps/secure-folder)
+    
     [Success stories](https://www.samsungknox.com/en/success-stories)
     
     [Partner solutions](https://www2.samsungknox.com/en/solutions/partner-solutions)
@@ -193,11 +195,11 @@ Back
             
             [Find a partner](https://www2.samsungknox.com/en/resellers)
     *  ![[Icon] Sign In Icon](/images/user.svg) Sign in
-        * [Samsung Account](https://www2.samsungknox.com/en/sso/login/samsung)
+        * [Samsung Account](https://www2.samsungknox.com/en/login/samsung)
         * [Microsoft Entra ID, Okta or Ping Identity](https://www2.samsungknox.com/en/federated-id/login)
         * Samsung Account
             
-            [Sign in](https://www2.samsungknox.com/en/sso/login/samsung)
+            [Sign in](https://www2.samsungknox.com/en/login/samsung)
         * Microsoft Entra ID, Okta or Ping Identity
             
             [Sign In](https://www2.samsungknox.com/en/federated-id/login)
@@ -672,6 +674,7 @@ Select Location / Language
     * [Secured by Knox](https://www2.samsungknox.com/en/secured-by-knox)
     * [Knox devices](https://www2.samsungknox.com/en/knox-platform/supported-devices)
     * [Knox certifications](https://www2.samsungknox.com/en/knox-platform/knox-certifications)
+    * [Secure Folder](https://www2.samsungknox.com/en/solutions/personal-apps/secure-folder)
     
     * [Success stories](https://www.samsungknox.com/en/success-stories)
     * [Partner solutions](https://www2.samsungknox.com/en/solutions/partner-solutions)
