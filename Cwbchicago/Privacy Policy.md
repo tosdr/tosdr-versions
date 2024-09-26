@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/logan-bucktown-map-326x245.jpg)](https://cwbchicago.com/2024/09/5-robberies-and-carjackings-reported-in-bucktown-logan-square-humboldt-park-on-sunday-evening.html "5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/ShotSpotter-tombstone-326x245.jpeg)](https://cwbchicago.com/2024/09/as-shotspotter-is-dismantled-heres-a-final-run-down-of-people-facing-gun-charges-because-it-worked.html "As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked")
 
-Bucktown
+Citywide
 
-### [5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening](https://cwbchicago.com/2024/09/5-robberies-and-carjackings-reported-in-bucktown-logan-square-humboldt-park-on-sunday-evening.html "5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening")
+### [As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked](https://cwbchicago.com/2024/09/as-shotspotter-is-dismantled-heres-a-final-run-down-of-people-facing-gun-charges-because-it-worked.html "As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked")
 
-[September 23, 2024 7:12 AM](https://cwbchicago.com/2024/09)
+[September 23, 2024 7:48 PM](https://cwbchicago.com/2024/09)
 
-At least five robberies and carjackings were reported Sunday evening in Bucktown, Logan Square, and Humboldt Park.[](https://cwbchicago.com/2024/09/5-robberies-and-carjackings-reported-in-bucktown-logan-square-humboldt-park-on-sunday-evening.html "5 robberies and carjackings reported in Bucktown, Logan Square, Humboldt Park on Sunday evening")
+This will be our last rundown of people facing felony gun charges after being arrested by Chicago cops who responded to ShotSpotter alerts. Maybe the next mayor will remember these examples when they take office.[](https://cwbchicago.com/2024/09/as-shotspotter-is-dismantled-heres-a-final-run-down-of-people-facing-gun-charges-because-it-worked.html "As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/CARJACKING-graphic-326x245.jpg)](https://cwbchicago.com/2024/09/driver-carjacked-near-lincoln-park-zoo.html "Driver carjacked near Lincoln Park Zoo")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Anthony-Laya-Alvarado-326x245.jpg)](https://cwbchicago.com/2024/09/migrant-charged-with-necklace-snatching-robbery-near-goose-island.html "Migrant charged with necklace-snatching robbery near Goose Island")
 
-Lincoln Park
+Goose Island
 
-### [Driver carjacked near Lincoln Park Zoo](https://cwbchicago.com/2024/09/driver-carjacked-near-lincoln-park-zoo.html "Driver carjacked near Lincoln Park Zoo")
+### [Migrant charged with necklace-snatching robbery near Goose Island](https://cwbchicago.com/2024/09/migrant-charged-with-necklace-snatching-robbery-near-goose-island.html "Migrant charged with necklace-snatching robbery near Goose Island")
 
-[September 23, 2024 6:48 AM](https://cwbchicago.com/2024/09)
+[September 23, 2024 6:44 PM](https://cwbchicago.com/2024/09)
 
-Police are conducting an investigation into the carjacking of a man near the Lincoln Park Zoo on Sunday evening.[](https://cwbchicago.com/2024/09/driver-carjacked-near-lincoln-park-zoo.html "Driver carjacked near Lincoln Park Zoo")
+Prosecutors have charged a Venezuelan migrant with robbery for allegedly snatching a woman’s necklace in the Clybourn Corridor on Saturday morning.[](https://cwbchicago.com/2024/09/migrant-charged-with-necklace-snatching-robbery-near-goose-island.html "Migrant charged with necklace-snatching robbery near Goose Island")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Ismael-Claudio-326x245.jpg)](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
+[![](https://cwbchicago.com/wp-content/uploads/2022/05/Deangelo-Smith-rect-326x245.jpg)](https://cwbchicago.com/2024/09/gets-6-years-for-robbing-a-boystown-convenience-store.html "Man gets 6 years for robbing a Boystown convenience store")
 
-Humboldt Park
+Boystown
 
-### [Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
+### [Man gets 6 years for robbing a Boystown convenience store](https://cwbchicago.com/2024/09/gets-6-years-for-robbing-a-boystown-convenience-store.html "Man gets 6 years for robbing a Boystown convenience store")
 
-[September 23, 2024 6:06 AM](https://cwbchicago.com/2024/09)
+[September 23, 2024 7:16 AM](https://cwbchicago.com/2024/09)
 
-A private tow truck driver is accused of possessing a stolen high-tech Chicago Police Department radio capable of listening to secured radio transmissions from the city’s police and fire departments.[](https://cwbchicago.com/2024/09/tow-truck-driver-had-stolen-chicago-police-radio-capable-of-decoding-scrambled-communications-officials-say.html "Tow truck driver had stolen, Chicago police radio capable of decoding scrambled communications, officials say")
+A man with an extensive juvenile arrest record has been given a six-year prison sentence for participating in the armed robbery of a Boystown convenience store in 2022.[](https://cwbchicago.com/2024/09/gets-6-years-for-robbing-a-boystown-convenience-store.html "Man gets 6 years for robbing a Boystown convenience store")
 
 Search
 
