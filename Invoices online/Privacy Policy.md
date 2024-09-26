@@ -118,59 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=204838702)  
-National Elite Security Services (PTY) LTD
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=98880984)  
+Network Grey (Pty) Ltd
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=11552689)  
-OXYAIDER (PTY) LTD
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=68700495)  
-Enhle Oarabile Kea
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=124521844)  
-UMVIKELI PRIVATE SECURITY
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=8150216)  
-One2b
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=61275259)  
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=68943539)  
 Stories (Pty) Ltd t/a Storietyd
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=78512968)  
-Westside Car Audio CC
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=97751678)  
+Depot Diesel (Pty) Ltd
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=108265848)  
-Lily Fern & Co
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=49798009)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=73199248)  
-Brilliant Roof Products
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=135380862)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=149386952)  
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=148555305)  
+IEMS (PTY) ltd
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=126381592)  
+Know Informatics
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=114308458)  
+ELLIE'S CLEANING CHICKS
+
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=121831245)  
+CLEVER STUDENTS
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=55400894)  
+Moremi Kitchens Rustenburg
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=91851009)  
+Tiny Cuddles Photography
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=112359869)  
+Printo
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=80932244)  
 African Roots
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=18379587)  
-Gemini-IT Group
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=160634496)  
+J.M. HUMAN RESOURCES
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=190637111)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=145478449)  
-TIGERDSL
-
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=205963402)  
-NWET Pty LTD
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=205460612)  
-ELLIE'S CLEANING CHICKS
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=1319366)  
+Kara Medical (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
