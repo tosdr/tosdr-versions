@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110557-now-shes-thinkin-2024-09-25)
+     [](https://patriotpost.us/memes/110559-the-essentials-2024-09-26)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Cal Thomas Virtue vs. Utility](https://patriotpost.us/opinion/110553-virtue-vs-utility-2024-09-26)
 *      [Star Parker Why Are More Young Women Than Young Men Moving Left?](https://patriotpost.us/opinion/110552-why-are-more-young-women-than-young-men-moving-left-2024-09-25)
 *      [Mark Alexander Harris’s Audacity of Deception Strategy 2.0](https://patriotpost.us/alexander/110551-harriss-audacity-of-deception-strategy-2-dot-0-2024-09-25)
 *      [Hans von Spakovsky Criticism of Project 2025’s Reforms of Federal Election Commission Is Ill-Informed, Dangerous](https://patriotpost.us/opinion/110534-criticism-of-project-2025-s-reforms-of-federal-election-commission-is-ill-informed-dangerous-2024-09-25)
@@ -129,7 +130,6 @@ Last Updated: November 15, 2011.
 *      [Tim Graham Being President Is Not Similar to Playing ‘Top Chef’](https://patriotpost.us/opinion/110532-being-president-is-not-similar-to-playing-top-chef-2024-09-25)
 *      [John Stossel Bunk From a Cabinet Secretary](https://patriotpost.us/opinion/110531-bunk-from-a-cabinet-secretary-2024-09-25)
 *      [Byron York Kamala Harris’ Never-Ending Border Dodge](https://patriotpost.us/opinion/110529-kamala-harris-never-ending-border-dodge-2024-09-25)
-*      [Betsy McCaughey A Harris Presidency Will Give Sanctuary to Gang Members, Victimize Law-Abiding People](https://patriotpost.us/opinion/110528-a-harris-presidency-will-give-sanctuary-to-gang-members-victimize-law-abiding-people-2024-09-25)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
