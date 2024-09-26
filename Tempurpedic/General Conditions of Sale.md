@@ -74,7 +74,7 @@ Featured
 
 ![3 mattresses stacked atop one another, closeout breeze models](https://assets-www.tempurpedic.com/media/images/012622_Closeout_MobNavFeatured_872x480_1.width-300.png)
 
-Breeze Closeout Collection](https://www.tempurpedic.com/shop-mattresses/breeze-20/)
+Breeze 1.0 Closeout Collection](https://www.tempurpedic.com/shop-mattresses/breeze-20/)
 
 * [![](https://assets-www.tempurpedic.com/media/images/OrdersNavVPV3_pRH2D75.original_1.original.png)
     
