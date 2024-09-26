@@ -7,9 +7,9 @@ Trust is our #1 value. Salesforce’s top priority is the security and privacy o
 
 [See Privacy Statement](https://www.salesforce.com/company/legal/privacy/#1715371091743_14ay)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-desktop.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-desktop.jpg?w=1024)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-mobile.jpg?w=731)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-mobile.jpg?w=731)
 
 Learn about our commitment to privacy
 -------------------------------------
@@ -52,7 +52,7 @@ We continuously monitor the global privacy landscape and adapt our privacy progr
 
 To exercise your rights relating to your personal data, or if you have questions regarding our privacy practices, please fill out [this form](https://www.salesforce.com/form/other/privacy-request/), or email us at [privacy@salesforce.com.](mailto:privacy@salesforce.com) For more information about contacting us, see the “Contacting Us” section below.
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-legal-privacy-data.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-legal-privacy-data.jpg?w=1024)
 
 Salesforce’s Data Transfer Mechanisms FAQ
 -----------------------------------------
@@ -61,7 +61,7 @@ Learn how Salesforce is responding to the new SCCs in Salesforce's FAQ about tra
 
 [Learn more](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-transfer-mechanisms-FAQ.pdf)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-privacy-policy-data-background.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-privacy-policy-data-background.jpg?w=1024)
 
 Privacy Statement
 -----------------
@@ -179,13 +179,13 @@ Effective as of July 24, 2023.
 
 At Salesforce, trust is our #1 value. This Privacy Statement describes how Salesforce collects, uses, shares or otherwise processes information relating to individuals (“Personal Data”) and the rights associated with that processing.
 
-[![TRUSTe](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-verified.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
+[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-verified.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
-[![TRUSTe](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-apec.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=b5e42bbd-4d3e-4631-a14e-c04a441f1a4a)
+[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-apec.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=b5e42bbd-4d3e-4631-a14e-c04a441f1a4a)
 
-[![TRUSTe](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-apec-privacy.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=06c32bdf-edf6-4937-b29d-bcf8db992eb3)
+[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-apec-privacy.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=06c32bdf-edf6-4937-b29d-bcf8db992eb3)
 
-[![TRUSTe](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-certified.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
+[![TRUSTe](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/logo-grid-seal-certified.png?w=640)](https://privacy.trustarc.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
 
 1\. Responsible Salesforce entity
 ---------------------------------
@@ -576,7 +576,7 @@ Personal Data Requests
 
 \*\*Time to complete a request may depend in part on receipt of information from the person making the request, such as information to verify the person’s identity or information about the action requested. Data is for all requests received by the Salesforce Family Affiliates from California residents between January 1 and December 31, 2023.
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/02/1-up-contact-us.webp?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/02/1-up-contact-us.webp?w=1024)
 
 Questions? Get in Touch.
 ------------------------
