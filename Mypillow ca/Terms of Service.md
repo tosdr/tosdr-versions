@@ -99,33 +99,33 @@ Apply
 
 [](https://www.mypillow.com/mycoffee-options)
 
+[](https://www.mypillow.com/tv-specials)
+
 [](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
 
-[](https://www.mypillow.ca/mystore-general-redirect)
+   [](https://www.mypillow.com/25-extravaganza-new)
 
-   [](https://www.mypillow.com/mypillows)
-
-   [](https://www.mypillow.com/bedding)
+   [](https://www.mypillow.com/the-classic-collection)
 
    [](https://www.mypillow.com/bath/bath-towels)
 
+   [](https://www.mypillow.com/bedding)
+
    [](https://www.mypillow.ca/mymattress-topper-with-free-mypillow-percale-sheets)
+
+   [](https://www.mypillow.com/mycoffee-options)
 
    [](https://www.mypillow.com/slipper-specials)
 
    [](https://www.mypillow.com/accessory-pillows)
 
-   [](https://www.mypillow.com/clothing/made-in-america-socks-category)
-
-   [](https://www.mypillow.ca/mypillow-2-0)
-
-   [](https://www.mypillow.com/mattresses)
+   [](https://www.mypillow.com/mypillows)
 
    [](https://www.mypillow.com/bath/kitchen-towels)
 
-   [](https://www.mypillow.com/accessory-pillows)
+   [](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
-   [](https://www.mypillow.com/pet)
+   [](https://www.mypillow.ca/mypillow-2-0)
 
 [SAVE up to 80% with promo code
 
@@ -151,6 +151,10 @@ SHOP NOW](https://www.mypillow.com/gallagher-new)
 
 SHOP NOW](https://www.mypillow.com/new-gorka)
 
+   [](https://www.mypillow.com/mattresses)
+
+   [](https://www.mypillow.com/pet)
+
    [](https://www.mypillow.ca/mystore-general-redirect)
 
    [](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
@@ -158,10 +162,6 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
    [](https://www.mypillow.com/couch-and-recliner-pillows)
 
    [](https://www.mypillow.com/bath/mypillow-bath-robes)
-
-   [](https://www.mypillow.com/bath/beach-towels)
-
-   [](https://www.mypillow.com/mycoffee-options)
 
    [](https://www.mypillow.com/pet)
 
@@ -185,7 +185,7 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.com/gift-cards)
 
-   [](https://www.mypillow.com/smoothtoe-socks)
+   [](https://www.mypillow.com/bath/beach-towels)
 
    [](https://www.mypillow.com/bedding/blankets)
 
@@ -194,6 +194,8 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
    [](https://www.mypillow.com/fox)
 
    [](https://www.mypillow.com/state-fair-specials)
+
+   [](https://www.mypillow.com/smoothtoe-socks)
 
    [](https://www.mypillow.com/bedding)
 
