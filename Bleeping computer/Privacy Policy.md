@@ -36,18 +36,18 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
-    * [![HPE Aruba Networking fixes critical flaws impacting Access Points](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![This $70 cybersecurity course bundle helps you train for a new career](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        HPE Aruba Networking fixes critical flaws impacting Access Points](https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-three-critical-rce-flaws-impacting-its-access-points/)
-    * [![Buy a Microsoft Office for Windows license for $35 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        This $70 cybersecurity course bundle helps you train for a new career](https://www.bleepingcomputer.com/offer/deals/this-70-cybersecurity-course-bundle-helps-you-train-for-a-new-career/)
+    * [![Tails OS merges with Tor Project for better privacy, security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Buy a Microsoft Office for Windows license for $35 in this deal](https://www.bleepingcomputer.com/offer/deals/buy-a-microsoft-office-for-windows-license-for-35-in-this-deal/)
-    * [![Mozilla accused of tracking users in Firefox without consent](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Tails OS merges with Tor Project for better privacy, security](https://www.bleepingcomputer.com/news/software/tails-os-merges-with-tor-project-for-better-privacy-security/)
+    * [![US sanctions crypto exchanges used by Russian ransomware gangs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Mozilla accused of tracking users in Firefox without consent](https://www.bleepingcomputer.com/news/technology/mozilla-accused-of-tracking-users-in-firefox-without-consent/)
-    * [![Meta halts routing via Deutsche Telekom over €20M peering fee](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
+    * [![Automattic blocks WP Engine’s access to WordPress resources](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Meta halts routing via Deutsche Telekom over €20M peering fee](https://www.bleepingcomputer.com/news/technology/meta-halts-routing-via-deutsche-telekom-over-20m-peering-fee/)
+        Automattic blocks WP Engine’s access to WordPress resources](https://www.bleepingcomputer.com/news/security/automattic-blocks-wp-engines-access-to-wordpress-resources/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
