@@ -57,7 +57,7 @@ Learning
 Privacy Policy
 ==============
 
-This following document sets forth the Privacy Policy for the Savage Software Group Pty Ltd (Savage) website procreate.com (the Site), and associated websites. For Procreate and Procreate Pocket please refer to the [App Privacy Policy](https://procreate.com/app-privacy-policy).
+This following document sets forth the Privacy Policy for the Savage Software Group Pty Ltd (Savage) website procreate.com (the Site), and associated websites. For Procreate and Procreate Pocket please refer to the [App Privacy Policy](https://procreate.com/app/privacy-policy).
 
 Collection and use of your personal information
 -----------------------------------------------
