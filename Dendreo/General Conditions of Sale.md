@@ -582,6 +582,8 @@ Merci de contacter l'équipe commerciale ou le support Dendreo pour obtenir le P
 
 Fonctionnalités
 
+[Assistant IA 🪄](https://www.dendreo.com/assistant-ia)
+
 [Moderne, flexible et sécurisé](https://www.dendreo.com/formation/moderne-et-flexible)
 
 [Gestion documentaire](https://www.dendreo.com/formation/gestion-documentaire)
@@ -600,7 +602,7 @@ Fonctionnalités
 
 [Fonctionnalités avancées](https://www.dendreo.com/formation/fonctionnalites-avancees)
 
-* [Explorez toutes les fonctionnalités](https://www.dendreo.com/fonctionnalites)
+[Explorez toutes les fonctionnalités](https://www.dendreo.com/fonctionnalites)
 
 Entreprise
 
