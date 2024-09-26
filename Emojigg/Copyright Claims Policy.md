@@ -1,37 +1,19 @@
-[![Discord & Slack Emojis](https://emoji.gg/assets/img/logo-round.svg)](https://emoji.gg/)
+ [![Discord Stickers](https://emoji.gg/assets/img/logo.png?v=4) emoji.gg](https://emoji.gg/)
 
-* [Explore](#)
-    
-    Emojis
-    
-    [Custom Emojis](https://emoji.gg/) [Emoji Packs](https://emoji.gg/packs) [Emoji Keyboard](https://emoji.gg/keyboard) [Emoji Maker](https://emoji.gg/maker) [Kaomoji](https://emoji.gg/kaomoji)
-    
-    More by us
-    
-    [Profile Pictures](https://pfps.gg/) [Profile Banners](https://pfps.gg/banners) [Discord Stickers](https://stickers.gg/) [Discord Servers](https://disforge.com/servers) [Discord Bots](https://disforge.com/bots)
-    
-    Join our community
-    
-    Join over 600,000 people in our community server.
-    
-    [Join Discord](https://discord.gg/emojis) [Join Guilded](https://www.guilded.gg/i/2ZvnWX32?r=54kVMwzA) [Follow Twitter](https://twitter.com/discordemoji)
-    
-* [Emoji](#)
-    
-    [Custom Emojis](https://emoji.gg/) [Emoji Packs](https://emoji.gg/packs) [Emoji Keyboard](https://emoji.gg/keyboard) [Emoji Maker](https://emoji.gg/maker) [Kaomoji](https://emoji.gg/kaomoji)
-    
-* [Packs](https://emoji.gg/packs)
-* [Stickers](https://emoji.gg/stickers)
-* [Pfps](https://pfps.gg/)
-* [Themes](https://discordthemes.com/)
-* [Maker](https://emoji.gg/maker)
-* [Creators](https://emoji.gg/creators)
-* [Discord Bot](https://discordapp.com/oauth2/authorize?client_id=500658624109084682&scope=bot+applications.commands&permissions=1074056192)
+[Login](#)
 
-[Login or Signup](#)
+[Emojis](#)
 
-Copyright & Content Policy
-==========================
+* [Custom Emojis](https://emoji.gg/)
+* [Meanings](https://emoji.gg/meanings)
+* [Keyboard](https://emoji.gg/keyboard)
+* [Kaomoji](https://emoji.gg/kaomoji)
+
+* * *
+
+* [Discord Bot](https://emoji.gg/bot)
+
+[Packs](https://emoji.gg/packs) [Stickers](https://emoji.gg/stickers) [Maker](https://emoji.gg/maker) [Creators](https://emoji.gg/creators)
 
 [FAQ & Help](https://emoji.gg/faq) [Content Licenses](https://emoji.gg/licenses) [Content Policy](https://emoji.gg/content) [Privacy Policy](https://emoji.gg/privacy) [Report Content](https://emoji.gg/content) [Verification](https://emoji.gg/verification)
 
@@ -43,10 +25,18 @@ All content listed on this website (emoji.gg) is submitted by users, emoji.gg pr
 
 Additionally, packs are curated by users based on emojis that are already available on the website this does not necessarily mean they are the original uploader.
 
-* #1 By submitting content to this website you agree that you are the creator of said content or have permission to upload it on the creators behalf.
-* #2 By submitting content to this website you agree to giving us unrevokable permission to display, license and redistribute the content in any manner we see fit.
-* #3 By submitting content to this website you agree that the content you are submitting is not illegal, hateful, discriminatory or otherwise harmful to any person or group.
-* #4 Emoji.gg reserves the right to remove content from the website at any time, without notice, for any reason, or for no reason, in its sole discretion
+* #1
+    
+    By submitting content to this website you agree that you are the creator of said content or have permission to upload it on the creators behalf.
+* #2
+    
+    By submitting content to this website you agree to giving us unrevokable permission to display, license and redistribute the content in any manner we see fit.
+* #3
+    
+    By submitting content to this website you agree that the content you are submitting is not illegal, hateful, discriminatory or otherwise harmful to any person or group.
+* #4
+    
+    Emoji.gg reserves the right to remove content from the website at any time, without notice, for any reason, or for no reason, in its sole discretion
 
 Reporting Content
 
@@ -70,42 +60,63 @@ Link to original work
 
 Additional information
 
-[Submit](#)
+[Submit Report](#)
 
-![Discord & Slack Emojis](https://emoji.gg/assets/img/logo-round.svg) Emojis for everything
+ [![Discord Stickers](https://emoji.gg/assets/img/logo.png?v=4) emoji.gg](https://emoji.gg/)
 
-[Submit an emoji](https://emoji.gg/submit) [Join Discord](https://discord.gg/emojis)
+Share & discover custom emojis to use on Discord, Slack, Twitch and more.
 
-##### About Emoji.gg
+* [](https://discord.gg/emojis)
+* [](https://guilded.gg/emojis)
+* [](#)
 
-Emoji.gg is a platform for sharing & exploring thousands of user submitted emoji for use on [Discord](https://emoji.gg/emojis/discord), [Slack](https://emoji.gg/emojis/slack), [Twitch](https://emoji.gg/emojis/twitch) and more.
+###### Resources
 
-##### Resources
-
-* [Emoji Library](https://emoji.gg/)
-* [Emoji Keyboard New!](https://emoji.gg/keyboard)
+* [Custom Emojis](https://emoji.gg/)
+* [Emoji Meanings](https://emoji.gg/meanings)
 * [Emoji Maker](https://emoji.gg/maker)
 * [Emoji Packs](https://emoji.gg/packs)
-* [Emoji Meanings](https://emoji.gg/meanings)
 
-##### Popular
+###### Popular
 
 * [Pepe Emojis](https://emoji.gg/emojis/pepe)
 * [Anime Emojis](https://emoji.gg/emojis/anime)
 * [Valorant Emojis](https://emoji.gg/emojis/valorant)
-* [Twitch Emojis](https://emoji.gg/emojis/twitch)
 * [Role Icons](https://emoji.gg/emojis/role-icons)
 
-##### Site Links
+###### Other Assets
 
-* [Privacy Policy](https://emoji.gg/privacy)
-* [Copyright/DMCA](https://emoji.gg/content)
-* [FAQ & Help](https://emoji.gg/faq)
+* [Discord Pfps](https://pfps.gg/)
+* [Discord Themes](https://discordthemes.com/)
+* [Discord Servers](https://disforge.com/)
+* [Discord Bots](https://disforge.com/bots)
+
+###### Emoji.gg Links
+
 * [Developer API](https://emoji.gg/developer)
-* [Manage Cookies](#)
+* [Copyright/DMCA](https://emoji.gg/content)
+* [FAQ & Support](https://emoji.gg/faq)
+* [Emoji.gg Blog](https://emoji.gg/blog)
 
-Website © Emoji.gg 2017-2023, we are in no way affiliated with Discord or Slack.  
-Emoji are user-submitted and are copyright of their respective owners.
+* * *
+
+© 2017-2024 [Emoji.gg](https://emoji.gg/). All rights reserved.
+
+* [Terms](https://emoji.gg/content)
+* [Privacy](https://emoji.gg/privacy)
+* [Cookies](#)
+
+##### Login
+
+[Login using Discord](https://emoji.gg/auth/discord?join=1) [Login using Twitch](https://emoji.gg/auth/twitch)
+
+Emoji Collection
+
+No emojis
+
+No emojis have been added to your collection yet. Click the icon to add some.
+
+[Login to download collections](https://emoji.gg/login)
 
 ![](https://cdn3.emoji.gg/emojis/1114-annoyed2.png)
 
@@ -117,28 +128,3 @@ extensions to continue using emoji.gg
 [Login to browse without ads](https://emoji.gg/auth/discord?return=/content) [Why disable?](#whyNoBlock)
 
 Every month emoji.gg serves **200,000,000+ requests** from our servers, totalling around 20TB in data bandwidth. Without ads we wouldn't be able to keep the website online and free for everyone.
-
-##### Login to emoji.gg
-
-The best place to find custom emoji
-
-[Login using Discord](https://emoji.gg/auth/discord&join=1) [Login using Twitch](https://emoji.gg/auth/twitch)
-
- Join our Discord server?
-
-###### Share
-
-×
-
-[Share to Twitter](https://twitter.com/intent/tweet?url=http://emoji.gg/content) [Share to Facebook](https://www.facebook.com/sharer/sharer.php?u=http://emoji.gg/content) [Pin on Pinterest](https://www.pinterest.com/pin/create/button/?url=http://emoji.gg/content)
-
-##### Emoji Collection
-
-×
-
-You have no emojis in your collection yet...  
-Click the icon on emojis to add some
-
-[Download zip](#) [Submit pack](https://emoji.gg/submit/pack) [Clear all from collection](#)
-
-[View ready-made packs](https://emoji.gg/packs)
