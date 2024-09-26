@@ -118,49 +118,49 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
+* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
+    
+    Very Young Girls
+    
+    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
     
-    National Security Alert
+    The War On Drugs: The Prison Industrial Complex
     
-    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
-* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
-    
-    These Streets Are Watching
-    
-    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![For the Love of the Leader](/wp-content/thumbnails/5599-100x70.jpg?x53432)
+* [![How to Get Away with Stealing](/wp-content/thumbnails/6692-100x70.jpg?x53432)
     
-    For the Love of the Leader
+    How to Get Away with Stealing
     
-    This is the story of an extraordinary love affair between one Nation’s women and its leader.The Nation is Libya, an Islamic socialist state.Its leader, Muammar Gaddafi, a man reviled in the we](https://documentaryheaven.com/for-the-love-of-the-leader/ "For the Love of the Leader")
-* [![PT 3/3 Nerds 2.0.1: A Brief History of the Internet](/wp-content/thumbnails/2565-100x70.jpg?x53432)
+    This short documentary looks at how easy it is to make fake passports and scam the rich into trusting you with thousands of dollars.If the fraud industry were its own country, it would have the fi](https://documentaryheaven.com/how-to-get-away-with-stealing/ "How to Get Away with Stealing")
+* [![Carl Cox 24/7](/wp-content/thumbnails/8786-100x70.png?x53432)
     
-    PT 3/3 Nerds 2.0.1: A Brief History of the Internet
+    Carl Cox 24/7
     
-    Wiring the WorldNerds 2.0.1: A Brief History of the Internet (1998) is a three-hour documentary film written and hosted by Mark Stephens under the pseudonym Robert X. Cringely and produced by Oreg](https://documentaryheaven.com/pt-33-nerds-2-0-1-a-brief-history-of-the-internet/ "PT 3/3 Nerds 2.0.1: A Brief History of the Internet")
-* [![Marvin Gaye: His Final Hours](/wp-content/thumbnails/6645-100x70.png?x53432)
+    Carl Cox is synonymous with dance music. Considered by fans, peers and colleagues as one the world's best DJs, Carl has become a living legend in the music business. His career has already spanned ove](https://documentaryheaven.com/carl-cox-247/ "Carl Cox 24/7")
+* [![Nature’s Weirdest Events](/wp-content/thumbnails/7650-100x70.jpg?x53432)
     
-    Marvin Gaye: His Final Hours
+    Nature’s Weirdest Events
     
-    Delve into the Prince of Motown’s violent childhood to uncover the root of Marvin’s strained relationship with his strict father and to understand his struggle with drugs.This compelling documentary](https://documentaryheaven.com/marvin-gaye-his-final-hours/ "Marvin Gaye: His Final Hours")
-* [![UFO: New Evidence](/wp-content/thumbnails/6867-100x70.jpg?x53432)
+    Nature's Weirdest Events Chris Packham presents this documentary investigating unusual natural events, with the help of eyewitness accounts, scientists and footage of the occurrences. The phenomena he](https://documentaryheaven.com/natures-weirdest-events/ "Nature’s Weirdest Events")
+* [![Rip! A Remix Manifesto](/wp-content/thumbnails/3744-100x70.jpg?x53432)
     
-    UFO: New Evidence
+    Rip! A Remix Manifesto
     
-    Are aliens really out there? You've heard tales of little green men from other planets, but these are normally consigned to urban legends and sci-fi fables. However, a dossier of files released by the](https://documentaryheaven.com/ufo-new-evidence/ "UFO: New Evidence")
-* [![One Summer with Richie Hawtin](/wp-content/thumbnails/7694-100x70.jpg?x53432)
+    In RiP: A remix manifesto, Web activist and filmmaker Brett Gaylor explores issues of copyright in the information age, mashing up the media landscape of the 20th century and shattering the wall betwe](https://documentaryheaven.com/rip-a-remix-manifesto/ "Rip! A Remix Manifesto")
+* [![Rise of The Superstar Vloggers](/wp-content/thumbnails/13069-100x70.jpg?x53432)
     
-    One Summer with Richie Hawtin
+    Rise of The Superstar Vloggers
     
-    In the summer of 2012, Richie Hawtin continued to tour the world traveling from country to country and performing on some of the world's grandest stages - all the while holding down his weekly ENTER.](https://documentaryheaven.com/one-summer-with-richie-hawtin/ "One Summer with Richie Hawtin")
+    Video sharing online has revolutionised how we connect with one another forever. Now anyone can share anything and everything with anyone and it has given birth to a new breed of celebrity. By simply](https://documentaryheaven.com/rise-of-superstar-vloggers/ "Rise of The Superstar Vloggers")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
