@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+    
+    ### [The way Oliver was treated was abhorrent – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+    
     [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
     ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
@@ -50,10 +54,6 @@
     [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-360x180.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
     
     ### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
-    
-    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-    
-    ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+    
+    ### [The way Oliver was treated was abhorrent – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+    
     [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
     ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
@@ -130,10 +134,6 @@ View All Result
     [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-360x180.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
     
     ### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
-    
-    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-    
-    ### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -229,6 +229,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+
+### [The way Oliver was treated was abhorrent – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+
+[26th September 2024](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
+
 [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
 
 ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
@@ -258,12 +264,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Unprecedented glimpse into the private world of Marilyn Monroe is coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
 
 [24th September 2024](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
-
-[![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-120x86.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-
-### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
-
-[24th September 2024](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 ### USEFUL PAGES
 
