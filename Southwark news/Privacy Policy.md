@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+    
+    ### [Where do Southwark’s three MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+    
+    [![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--360x180.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
+    
+    ### [Halloween will be disrupted by south London train works](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
+    
+    [![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
+    
+    ### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
+    
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
     
     ### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
@@ -42,18 +54,6 @@
     [![A police are on Tower Bridge Road following Wednesday's incident. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/blurred-2-360x180.jpeg)](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
     
     ### [Woman hospitalised as Tower Bridge collision causes massive traffic jams](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
-    
-    [![It's a one-off event on Thursday 3 October](https://southwarknews.co.uk/wp-content/uploads/2024/09/image001-360x180.png)](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
-    
-    ### [Alzheimer’s exhibition to pop up on the South Bank](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
-    
-    [![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-360x180.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
-    
-    ### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
-    
-    [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-360x180.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
-    
-    ### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+    
+    ### [Where do Southwark’s three MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+    
+    [![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--360x180.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
+    
+    ### [Halloween will be disrupted by south London train works](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
+    
+    [![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
+    
+    ### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
+    
     [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
     
     ### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
@@ -122,18 +134,6 @@ View All Result
     [![A police are on Tower Bridge Road following Wednesday's incident. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/blurred-2-360x180.jpeg)](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
     
     ### [Woman hospitalised as Tower Bridge collision causes massive traffic jams](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
-    
-    [![It's a one-off event on Thursday 3 October](https://southwarknews.co.uk/wp-content/uploads/2024/09/image001-360x180.png)](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
-    
-    ### [Alzheimer’s exhibition to pop up on the South Bank](https://southwarknews.co.uk/news/alzheimers-exhibition-to-pop-up-on-the-south-bank/)
-    
-    [![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-360x180.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
-    
-    ### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
-    
-    [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-360x180.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
-    
-    ### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -373,41 +373,41 @@ Website
 
 ### Featured Articles
 
+[![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-120x86.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+
+### [Where do Southwark’s three MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+
+[26th September 2024](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+
+[![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--120x86.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
+
+### [Halloween will be disrupted by south London train works](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
+
+[26th September 2024](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
+
+[![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
+
+### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
+
+[26th September 2024](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Comedy-120x86.jpg)](https://southwarknews.co.uk/featured/shaparak-khorsandis-comedy-show-comes-to-south-london/)
+
+### [Shaparak Khorsandi’s comedy show comes to South London](https://southwarknews.co.uk/featured/shaparak-khorsandis-comedy-show-comes-to-south-london/)
+
+[26th September 2024](https://southwarknews.co.uk/featured/shaparak-khorsandis-comedy-show-comes-to-south-london/)
+
+[![Paul McGann, Kerri McLean and Amanda Ryan](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-River-cast-120x86.jpg)](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
+
+### [Jez Butterworth’s show comes back to London for the first time in 12 years but this time it’s south of The River](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
+
+[26th September 2024](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
+
 [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
 
 ### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
 
 [26th September 2024](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
-
-[![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
-
-### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
-
-[25th September 2024](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
-
-[![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
-
-### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
-
-[25th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
-
-[![Clockwise: Cllr Michael Situ, Cllr Richard Livingstone, Cllr Kath Whittam, Cllr Sunil Chopra](https://southwarknews.co.uk/wp-content/uploads/2024/09/Clockwise-Cllr-Michael-Situ-Cllr-Richard-Livingstone-Cllr-Kath-Whittam-Cllr-Sunil-Chopra-120x86.png)](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
-
-### [Exclusive: The (un)extravagant gifts and donations taken by Southwark councillors](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
-
-[24th September 2024](https://southwarknews.co.uk/area/southwark/exclusive-the-unextravagant-gifts-and-donations-taken-by-southwark-councillors/)
-
-[![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-
-### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-
-[24th September 2024](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-
-[![(c) Ted Stampfer Collection](https://southwarknews.co.uk/wp-content/uploads/2024/09/Marilyn-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
-
-### [Unprecedented glimpse into the private world of Marilyn Monroe is coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
-
-[24th September 2024](https://southwarknews.co.uk/area/bermondsey/unprecedented-glimpse-into-the-private-world-of-marilyon-monroe-is-coming-to-bermondsey/)
 
 ### USEFUL PAGES
 
