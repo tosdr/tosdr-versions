@@ -1,3 +1,5 @@
+Sep 26, 2024 [Paybis Launches a New Product for Business Payouts: Paybis Send](https://paybis.com/news/new-product-for-business-payouts-paybis-send/)
+
 [](https://paybis.com/ "Paybis - Digital and Crypto currency exchange!")
 
 [Private](https://paybis.com/) [Corporate](https://paybis.com/corporate/)
