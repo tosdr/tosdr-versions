@@ -28,7 +28,7 @@ be\_ixf;ym\_202409 d\_25; ct\_50
             * [Secure Access Service Edge](https://www.alienvault.com/network-security/sase)
             
             * [Secure Remote Access](https://www.alienvault.com/network-security/secure-remote-access)
-            * [Secure Remote Gateway](https://www.alienvault.com/network-security/secure-web-gateway)
+            * [Secure Web Gateway](https://www.alienvault.com/network-security/secure-web-gateway)
             * [Enterprise Traffic Protector](https://www.alienvault.com/network-security/etp)
             * [Software-Defined Wide Area Networking](https://www.alienvault.com/network-security/sdwan)
             * [Web Application and API Protection](https://www.alienvault.com/network-security/web-application-and-api-protection)
@@ -252,7 +252,7 @@ Modernize Network Security
 * [Zero-Trust Network Access](https://www.alienvault.com/network-security/ztna)
 * [Secure Access Service Edge](https://www.alienvault.com/network-security/sase)
 * [Secure Remote Access](https://www.alienvault.com/network-security/secure-remote-access)
-* [Secure Remote Gateway](https://www.alienvault.com/network-security/secure-web-gateway)
+* [Secure Web Gateway](https://www.alienvault.com/network-security/secure-web-gateway)
 * [Enterprise Traffic Protector](https://www.alienvault.com/network-security/etp)
 * [Software-Defined Wide Area Networking](https://www.alienvault.com/network-security/sdwan)
 * [Web Application and API Protection](https://www.alienvault.com/network-security/web-application-and-api-protection)
