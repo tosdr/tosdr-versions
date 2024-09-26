@@ -40,21 +40,21 @@ What career development services do you provide and to whom?\*
 
 As a student you may be looking for information about accessing and using the program. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information from your district.  
   
-If you have specific question, fill in the comments box and our support team will be in touch.
+If you have specific questions, fill in the comments box and our support team will be in touch.
 
-As a teacher you maybe looking for information about accessing and using the program. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information from your district.  
+As a teacher you may be looking for information about accessing and using the program. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information from your district.  
   
 If you are interested in bringing Xello to your school district, please connect with a Counselor or Career Advisor so that we can set up a demo for your whole team.  
   
 If you have specific questions, fill in the comments box and our support team will be in touch.
 
-As a parent or family member you may be looking for information about accessing and using your family account. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information from your district. More details on our family program can be found [here](https://help.xello.world/en-us/Content/Get-Started/Xello-Families/GS_Families.htm?Highlight=parent%20portal).  
+As a parent or family member of a student who uses Xello you may be looking for information about accessing and using your family account. You can sign into Xello from [login.xello.world](https://login.xello.world/) using the login information provided by your child's district. More details about our family program and how to get access can be found [here](https://help.xello.world/en-us/Content/Get-Started/Xello-Families/GS_Families.htm?Highlight=parent%20portal).  
   
-If you have specific question, fill in the comments box and our support team will be in touch.
+If you have specific questions, fill in the comments box and our support team will be in touch.
 
 What can we help you with today?\*
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
