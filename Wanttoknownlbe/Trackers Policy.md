@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/inspiratie-om-een-nieuwe-wereld-te-co-creeren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/war-is-a-racket/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
