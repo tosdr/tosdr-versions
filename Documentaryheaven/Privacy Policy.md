@@ -128,39 +128,39 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    National Security Alert
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
 
 ###### Throwback Documentaries
 
-* [![How to Get Away with Stealing](/wp-content/thumbnails/6692-100x70.jpg?x53432)
+* [![The Origins of Christmas](/wp-content/thumbnails/1004-100x70.jpg?x53432)
     
-    How to Get Away with Stealing
+    The Origins of Christmas
     
-    This short documentary looks at how easy it is to make fake passports and scam the rich into trusting you with thousands of dollars.If the fraud industry were its own country, it would have the fi](https://documentaryheaven.com/how-to-get-away-with-stealing/ "How to Get Away with Stealing")
-* [![Carl Cox 24/7](/wp-content/thumbnails/8786-100x70.png?x53432)
+    Centuries and centuries before Christ was born, Romans, Mesopotamians, Carthaginians, Balkans, Germans and Scandinavians held huge celebrations on or near December 25th to welcome the return of the su](https://documentaryheaven.com/the-origins-of-christmas/ "The Origins of Christmas")
+* [![Body Farms](/wp-content/thumbnails/14587-100x70.jpg?x53432)
     
-    Carl Cox 24/7
+    Body Farms
     
-    Carl Cox is synonymous with dance music. Considered by fans, peers and colleagues as one the world's best DJs, Carl has become a living legend in the music business. His career has already spanned ove](https://documentaryheaven.com/carl-cox-247/ "Carl Cox 24/7")
-* [![Nature’s Weirdest Events](/wp-content/thumbnails/7650-100x70.jpg?x53432)
+    Since 1980, there have been over 250,000 recorded unsolved homicides in the United States, the number of missing persons and unidentified remains has been described as "the nations's silent mass disas](https://documentaryheaven.com/body-farms/ "Body Farms")
+* [![Copenhagen Fall Out](/wp-content/thumbnails/1970-100x70.jpg?x53432)
     
-    Nature’s Weirdest Events
+    Copenhagen Fall Out
     
-    Nature's Weirdest Events Chris Packham presents this documentary investigating unusual natural events, with the help of eyewitness accounts, scientists and footage of the occurrences. The phenomena he](https://documentaryheaven.com/natures-weirdest-events/ "Nature’s Weirdest Events")
-* [![Rip! A Remix Manifesto](/wp-content/thumbnails/3744-100x70.jpg?x53432)
+    During World War II, there were mounting fears that Hitler was building an atomic bomb. Such a prospect depended on two of the world’s top nuclear scientists: brilliant German physicist Werner Heisenb](https://documentaryheaven.com/copenhagen-fall-out/ "Copenhagen Fall Out")
+* [![Interview with a Poltergeist](/wp-content/thumbnails/8167-100x70.png?x53432)
     
-    Rip! A Remix Manifesto
+    Interview with a Poltergeist
     
-    In RiP: A remix manifesto, Web activist and filmmaker Brett Gaylor explores issues of copyright in the information age, mashing up the media landscape of the 20th century and shattering the wall betwe](https://documentaryheaven.com/rip-a-remix-manifesto/ "Rip! A Remix Manifesto")
-* [![Rise of The Superstar Vloggers](/wp-content/thumbnails/13069-100x70.jpg?x53432)
+    The Enfield Poltergeist was a period of apparent poltergeist activity which occurred in the village of Brimsdown, in the borough of Enfield, England. The activity began when single parent, Peggy Hodgs](https://documentaryheaven.com/interview-with-poltergeist/ "Interview with a Poltergeist")
+* [![The Secret Life of Dogs](/wp-content/thumbnails/8579-100x70.jpeg?x53432)
     
-    Rise of The Superstar Vloggers
+    The Secret Life of Dogs
     
-    Video sharing online has revolutionised how we connect with one another forever. Now anyone can share anything and everything with anyone and it has given birth to a new breed of celebrity. By simply](https://documentaryheaven.com/rise-of-superstar-vloggers/ "Rise of The Superstar Vloggers")
+    Dogs, man's best friend, but how well do we really know our fateful companions? How they see their world, what they really think of us? This films meets up with dogs that appear to have a 6th sense ca](https://documentaryheaven.com/secret-life-of-dogs/ "The Secret Life of Dogs")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
