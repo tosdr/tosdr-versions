@@ -208,6 +208,14 @@ These Terms and your use of the Site shall be governed by and construed in accor
 
 If any provision of these Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms will continue in full force and effect.
 
+Close popup X
+
+#### Share your feedback with us
+
+We’d like to hear about your visit to improve your experience on our website. Please take a few minutes to fill out a brief survey.
+
+[Take Survey arrow right opens in a new window](https://research.typeform.com/to/yZpHqThE)
+
 [Simons Foundation](https://www.simonsfoundation.org/)
 
 Advancing Research in Basic Science and Mathematics Subscribe to our newsletters to receive news & updates
