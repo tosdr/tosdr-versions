@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)       
 
-Privacy Policy – Omax Health - Omax Health                     
+    
 
-               
+Privacy Policy – Omax Health - Omax Health                                 
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -305,7 +305,7 @@ Go to product page
 
 ### Let customers speak for us
 
-[3389 reviews](https://omaxhealth.com/pages/reviews)
+[3390 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
@@ -315,7 +315,7 @@ Go to product page
 
 5%
 
-(173)
+(174)
 
 2%
 
@@ -329,7 +329,7 @@ Go to product page
 
 (53)
 
-2187
+2188
 
 N
 
