@@ -457,7 +457,6 @@ https://www.conair.com/cart?lang=en\_US
         
         * [HeatSense](https://www.conair.com/well-heat-sense?lang=en_US)
         * [Foot Spa with Bubbles](https://www.conair.com/well-foot-spa-bubbles?lang=en_US)
-        * [Bubbles](https://www.conair.com/wellness-foot-spa-bubbles?lang=en_US)
         * [Vibration](https://www.conair.com/wellness-foot-spa-vibration?lang=en_US)
     
     * [Heat Therapy](https://www.conair.com/heat-pads?lang=en_US)
@@ -511,7 +510,6 @@ https://www.conair.com/cart?lang=en\_US
         
         * [HeatSense](https://www.conair.com/well-heat-sense?lang=en_US)
         * [Foot Spa with Bubbles](https://www.conair.com/well-foot-spa-bubbles?lang=en_US)
-        * [Bubbles](https://www.conair.com/wellness-foot-spa-bubbles?lang=en_US)
         * [Vibration](https://www.conair.com/wellness-foot-spa-vibration?lang=en_US)
     * [Heat Therapy](https://www.conair.com/heat-pads?lang=en_US)
         
