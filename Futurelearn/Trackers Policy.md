@@ -8,7 +8,7 @@ FutureLearn uses cookies to enhance your experience of the website. All but stri
 
 Dismiss
 
-**New offer! Get 30% off a whole year of Unlimited learning. Subscribe for just ~$349.99~ $244.99.** New subscribers only. [T&Cs apply](https://www.futurelearn.com/info/unlimited-sale-24-terms)
+**New offer! Get 30% off a whole year of Unlimited learning. Subscribe for just ~$349.99~ $244.99.** [T&Cs apply](https://www.futurelearn.com/info/unlimited-sale-24-terms)
 
 [Find out more](https://www.futurelearn.com/unlimited)
 
