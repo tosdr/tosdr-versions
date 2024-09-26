@@ -121,7 +121,7 @@ Emergency Contacts
 
 ### Information & Support
 
-Monday thru Friday: 6:30 AM - 8 PM Saturday thru Sunday: 8 AM - 4 PM
+Monday thru Friday: 6:30 AM - 8 PM
 
 **Main:** [617-222-3200](tel:+1-617-222-3200)
 
@@ -234,7 +234,7 @@ Contact
 
 ### Information & Support
 
-Monday thru Friday: 6:30 AM - 8 PM Saturday thru Sunday: 8 AM - 4 PM
+Monday thru Friday: 6:30 AM - 8 PM
 
 **Main:** [617-222-3200](tel:+1-617-222-3200)
 
@@ -440,7 +440,7 @@ Call Us
 
 ### Information & Support
 
-Monday thru Friday: 6:30 AM - 8 PM Saturday thru Sunday: 8 AM - 4 PM
+Monday thru Friday: 6:30 AM - 8 PM
 
 **Main:** [617-222-3200](tel:+1-617-222-3200)
 
