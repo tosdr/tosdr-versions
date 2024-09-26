@@ -8,7 +8,7 @@ You need to enable JavaScript to view this site.
 * [Topics](https://www.technologyreview.com/all-topics)
 * [Newsletters](https://www.technologyreview.com/newsletter-preferences)
 * [Events](https://events.technologyreview.com/)
-* [Podcasts](https://www.technologyreview.com/podcasts)
+* [Audio](https://www.technologyreview.com/audio)
 
 [Sign in](https://www.technologyreview.com/login&redirectTo=/)
 
@@ -20,7 +20,7 @@ Subscribe
 * [Topics](https://www.technologyreview.com/all-topics)
 * [Newsletters](https://www.technologyreview.com/newsletter-preferences)
 * [Events](https://events.technologyreview.com/)
-* [Podcasts](https://www.technologyreview.com/podcasts)
+* [Audio](https://www.technologyreview.com/audio)
 
 [Sign in](https://www.technologyreview.com/login&redirectTo=/)
 
