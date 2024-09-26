@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop + EPOS H3X
+[The Riddermark Desk Mat
 
-A high-quality gaming headset—now on sale.
+Cover your desk in Calenardhon.
 
-SAVE NOW
+FOR ROHAN
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-epos-h3x-gaming-headset)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-riddermark-desk-mat)
 
 Free Standard Shipping in the US on orders over $99
 
