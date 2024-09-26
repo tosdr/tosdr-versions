@@ -14,26 +14,6 @@ FOX SCORES
 * NHL
 * US Sports
 
-* Cricket
-    
-* [WNCL
-    
-    |     |     |
-    | --- | --- |
-    | WA  | 215 |
-    | TAS | 5 /113 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250102)
-* [One-Day Cup
-    
-    Match Abandoned
-    
-    |     |     |
-    | --- | --- |
-    | NSW |     |
-    | SA  |     |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250105)
 * AFL
     
 * [AFL
@@ -48,12 +28,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * [AFL Women's
     
-    26/9 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | GEE | –   |
-    | HAW | –   |
+    | GEE | 9.7.61 |
+    | HAW | 12.7.79 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240503)
 * NRL
@@ -68,36 +48,78 @@ FOX SCORES
     | SYD | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243001)
-* [NRL
+* Cricket
     
-    28/9 19:50 AEST
+* [Men's Test
     
-    |     |     |
-    | --- | --- |
-    | PEN | –   |
-    | CRO | –   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243002)
-* [NRL Women's
-    
-    29/9 14:05 AEST
+    27/9 14:00 AEST
     
     |     |     |
     | --- | --- |
-    | BRI | –   |
-    | CRO | –   |
+    | IND | –   |
+    | BAN | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241001)
-* [NRL Women's
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
+* [Men's ODI
     
-    29/9 16:15 AEST
+    NAM won by 8 wkts
     
     |     |     |
     | --- | --- |
-    | SYD | –   |
-    | NEW | –   |
+    | NAM | 2 /194 |
+    | UAE | 190 |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241002)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240406)
+* [One-Day Cup
+    
+    Match Abandoned
+    
+    |     |     |
+    | --- | --- |
+    | NSW |     |
+    | SA  |     |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250105)
+* [One-Day Cup
+    
+    27/9 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | VIC | –   |
+    | QLD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250106)
+* [WNCL
+    
+    TAS won by 1 wkt
+    
+    |     |     |
+    | --- | --- |
+    | WA  | 215 |
+    | TAS | 9 /216 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250102)
+* [WNCL
+    
+    27/9 9:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | QLD | –   |
+    | NSW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250103)
+* [WNCL
+    
+    27/9 10:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | ACT | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250104)
 * Motorsport
     
 * [MotoGP
@@ -114,14 +136,14 @@ FOX SCORES
     
 * [NBL
     
-    26/9 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SEM | –   |
-    | MEL | –   |
+    | SEM | 84  |
+    | MEL | 96  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020001)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020001/play-by-play)
 * Rugby
     
 * [Rugby Champs
@@ -134,16 +156,6 @@ FOX SCORES
     | AUS | –   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
-* [Rugby Champs
-    
-    29/9 1:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | RSA | –   |
-    | ARG | –   |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240602)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -756,6 +768,7 @@ FOX SCORES
 * [AFL 360](https://www.foxsports.com.au/video/afl/afl-360)
 * [On the Couch](https://www.foxsports.com.au/video/afl/on-the-couch)
 * [Bounce](https://www.foxsports.com.au/video/afl/bounce)
+* [Longest Kick](https://www.foxsports.com.au/video/afl/longest-kick)
 
 [Cricket](https://www.foxsports.com.au/video/cricket)
 
@@ -888,7 +901,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
