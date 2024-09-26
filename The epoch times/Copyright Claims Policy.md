@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Federal Judge Unseals Indictment Against New York Mayor Eric Adams Alleging He Took Bribes](https://www.theepochtimes.com/us/federal-judge-unseals-indictment-against-new-york-mayor-eric-adams-alleging-he-took-bribes-5730655)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Federal Judge Unseals Indictment Against New York Mayor Eric Adams Alleging He Took Bribes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Judge Unseals Indictment Against New York Mayor Eric Adams Alleging He Took Bribes](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730696-Eric-Adams-AP24270551839461-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-unseals-indictment-against-new-york-mayor-eric-adams-alleging-he-took-bribes-5730655)
+* [FDA Issues ‘Do Not Feed’ Advisory on Pet Food Products: Here’s What We Know](https://www.theepochtimes.com/health/fda-issues-do-not-feed-advisory-on-pet-food-products-heres-what-we-know-5730592)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FDA Issues ‘Do Not Feed’ Advisory on Pet Food Products: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FDA Issues ‘Do Not Feed’ Advisory on Pet Food Products: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5722903-fda-eet-10.13-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/fda-issues-do-not-feed-advisory-on-pet-food-products-heres-what-we-know-5730592)
+* [Hurricane Helene Now Category 2, Starts Impacting Southern States](https://www.theepochtimes.com/us/hurricane-helene-now-category-2-starts-impacting-southern-states-5730541)
+    
+    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Hurricane Helene Now Category 2, Starts Impacting Southern States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane Helene Now Category 2, Starts Impacting Southern States](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730561-hurricanehelenecat2-205x123.jpeg.webp)](https://www.theepochtimes.com/us/hurricane-helene-now-category-2-starts-impacting-southern-states-5730541)
+* [Inspector General Says Jan. 6 Report Won’t Be Ready Before Election](https://www.theepochtimes.com/us/inspector-general-says-jan-6-report-wont-be-ready-before-election-5730524)
+    
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Inspector General Says Jan. 6 Report Won’t Be Ready Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Inspector General Says Jan. 6 Report Won’t Be Ready Before Election](https://img.theepochtimes.com/assets/uploads/2019/12/19/Epoch_Times9A6A9481_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/inspector-general-says-jan-6-report-wont-be-ready-before-election-5730524)
+* [San Diego Man Becomes Nation’s First Convicted Smuggler of Greenhouse Gases](https://www.theepochtimes.com/us/san-diego-man-becomes-nations-first-convicted-smuggler-of-greenhouse-gases-5730350)
+    
+    2hr By [Kimberly Hayek](https://www.theepochtimes.com/author/kimberly-hayek)
+    
+    [![San Diego Man Becomes Nation’s First Convicted Smuggler of Greenhouse Gases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![San Diego Man Becomes Nation’s First Convicted Smuggler of Greenhouse Gases](https://img.theepochtimes.com/assets/uploads/2019/02/08/Air-Conditioner-484619168-205x123.jpg.webp)](https://www.theepochtimes.com/us/san-diego-man-becomes-nations-first-convicted-smuggler-of-greenhouse-gases-5730350)
+* [COVID-19 Medication Lot Recalled Nationwide Following Glass Particle Contamination](https://www.theepochtimes.com/health/covid-19-medication-lot-recalled-nationwide-following-glass-particle-contamination-5730540)
+    
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![COVID-19 Medication Lot Recalled Nationwide Following Glass Particle Contamination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![COVID-19 Medication Lot Recalled Nationwide Following Glass Particle Contamination](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730542-veklury-205x123.png.webp)](https://www.theepochtimes.com/health/covid-19-medication-lot-recalled-nationwide-following-glass-particle-contamination-5730540)
+* [Netanyahu Downplays Hopes of Ceasefire with Hezbollah](https://www.theepochtimes.com/world/lebanese-prime-minister-hopeful-of-ceasefire-amid-us-calls-for-21-day-truce-5730486)
+    
+    4hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Netanyahu Downplays Hopes of Ceasefire with Hezbollah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Netanyahu Downplays Hopes of Ceasefire with Hezbollah](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730568-GettyImages-2173543408-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/lebanese-prime-minister-hopeful-of-ceasefire-amid-us-calls-for-21-day-truce-5730486)
+* [Biden Announces Billions More in Military Aid for Ukraine](https://www.theepochtimes.com/us/biden-announces-billions-more-in-military-aid-for-ukraine-5730520)
+    
+    5hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Biden Announces Billions More in Military Aid for Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Announces Billions More in Military Aid for Ukraine](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730528-2024-09-26T100634Z_2_LYNXMPEK8P0CF_RTROPTP_4_UKRAINE-CRISIS-ZELENSKIY-USA-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-announces-billions-more-in-military-aid-for-ukraine-5730520)
+* [Harris to Visit US–Mexico Border, White House Says](https://www.theepochtimes.com/us/harris-to-visit-us-mexico-border-white-house-says-5730372)
+    
+    5hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Harris to Visit US–Mexico Border, White House Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris to Visit US–Mexico Border, White House Says](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730537-GettyImages-2173612542-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-to-visit-us-mexico-border-white-house-says-5730372)
 * [Mexican Senate Votes to Put National Guard Under Military Control](https://www.theepochtimes.com/world/mexican-senate-votes-to-put-national-guard-under-military-control-5730479)
     
-    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
     [![Mexican Senate Votes to Put National Guard Under Military Control](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Mexican Senate Votes to Put National Guard Under Military Control](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730483-AP_Pictures_of_the_Week_Photo_Gallery_24263685445041-205x123.jpg.webp)](https://www.theepochtimes.com/world/mexican-senate-votes-to-put-national-guard-under-military-control-5730479)
-* [Zelenskyy to Meet With Biden, Harris to Present ‘Victory Plan’](https://www.theepochtimes.com/us/zelenskyy-to-meet-with-biden-harris-to-present-victory-plan-5730027)
-    
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Zelenskyy to Meet With Biden, Harris to Present ‘Victory Plan’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Zelenskyy to Meet With Biden, Harris to Present ‘Victory Plan’](https://img.theepochtimes.com/assets/uploads/2022/12/21/Zelenskyy-Biden-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/zelenskyy-to-meet-with-biden-harris-to-present-victory-plan-5730027)
-* [Chinese Financial Executives Resign in Droves Amid Heightened Scrutiny](https://www.theepochtimes.com/china/chinese-financial-executives-resign-in-droves-amid-heightened-scrutiny-5729497)
-    
-    NEW By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Shawn Lin](https://www.theepochtimes.com/author/shawn-lin)
-    
-    [![Chinese Financial Executives Resign in Droves Amid Heightened Scrutiny](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Chinese Financial Executives Resign in Droves Amid Heightened Scrutiny](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729511-GettyImages-479864820-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-financial-executives-resign-in-droves-amid-heightened-scrutiny-5729497)
-* [New York Court to Hear Trump’s Appeal of $489 Million Civil Fraud Ruling](https://www.theepochtimes.com/us/new-york-court-to-hear-trumps-appeal-of-489-million-civil-fraud-ruling-5730280)
-    
-    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![New York Court to Hear Trump’s Appeal of $489 Million Civil Fraud Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New York Court to Hear Trump’s Appeal of $489 Million Civil Fraud Ruling](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729803-GettyImages-2174234110-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-court-to-hear-trumps-appeal-of-489-million-civil-fraud-ruling-5730280)
-* [New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://www.theepochtimes.com/us/new-york-city-mayor-eric-adams-indicted-by-grand-jury-media-sources-5730369)
-    
-    8hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://img.theepochtimes.com/assets/uploads/2024/06/02/id5661144-eric-adams-GettyImages-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-eric-adams-indicted-by-grand-jury-media-sources-5730369)
-* [Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://www.theepochtimes.com/us/trump-says-he-would-threaten-to-blow-iran-to-smithereens-over-assassination-threat-5730102)
-    
-    8hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730118-Trump-Mint-Hill-e1727295119825-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-would-threaten-to-blow-iran-to-smithereens-over-assassination-threat-5730102)
-* [The ‘Chemical War’ Killing 70,000 Americans Each Year](https://www.theepochtimes.com/article/the-chemical-war-killing-70000-americans-each-year-5728621)
-    
-    8hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
-    
-    [![The ‘Chemical War’ Killing 70,000 Americans Each Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![The ‘Chemical War’ Killing 70,000 Americans Each Year](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730082-Fentanyl-Trafficking-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-chemical-war-killing-70000-americans-each-year-5728621)
-* [California Courthouse Explosion: What We Know](https://www.theepochtimes.com/us/california-courthouse-explosion-what-we-know-5730271)
-    
-    9hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
-    
-    [![California Courthouse Explosion: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Courthouse Explosion: What We Know](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730234-explosion-court-house-AP24269730206143-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-courthouse-explosion-what-we-know-5730271)
-* [House Passes Bill to Allow for Congressional Election Observers](https://www.theepochtimes.com/us/house-passes-bill-to-allow-for-congressional-election-observers-5730180)
-    
-    10hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![House Passes Bill to Allow for Congressional Election Observers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House Passes Bill to Allow for Congressional Election Observers](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723041-06252024-DSC08058-US-Capitol-LSedit-e1727307195167-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-passes-bill-to-allow-for-congressional-election-observers-5730180)
-* [H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://www.theepochtimes.com/health/h5n1-influenza-may-be-spreading-in-cows-by-milking-than-through-air-experts-weigh-in-5730287)
-    
-    10hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
-    
-    [![H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730325-shutterstock_2476039745_dairy_milk_cow_flu_h5n1_influenza-205x123.jpg.webp)](https://www.theepochtimes.com/health/h5n1-influenza-may-be-spreading-in-cows-by-milking-than-through-air-experts-weigh-in-5730287)
+    ![Mexican Senate Votes to Put National Guard Under Military Control](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730570-AP_Pictures_of_the_Week_Photo_Gallery_24263685445041.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/mexican-senate-votes-to-put-national-guard-under-military-control-5730479)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
