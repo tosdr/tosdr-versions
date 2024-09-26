@@ -36,6 +36,36 @@ FOX SCORES
     | HAW | 12.7.79 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240503)
+* [AFL Women's
+    
+    27/9 12:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | COL | –   |
+    | GCS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240504)
+* [AFL Women's
+    
+    27/9 14:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ESS | –   |
+    | MEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240505)
+* [AFL Women's
+    
+    27/9 16:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | STK | –   |
+    | FRE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240506)
 * NRL
     
 * [NRL
@@ -70,26 +100,6 @@ FOX SCORES
     | UAE | 190 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240406)
-* [One-Day Cup
-    
-    Match Abandoned
-    
-    |     |     |
-    | --- | --- |
-    | NSW |     |
-    | SA  |     |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250105)
-* [One-Day Cup
-    
-    27/9 10:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | VIC | –   |
-    | QLD | –   |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250106)
 * [WNCL
     
     TAS won by 1 wkt
@@ -120,6 +130,28 @@ FOX SCORES
     | ACT | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250104)
+* [One-Day Cup
+    
+    27/9 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | VIC | –   |
+    | QLD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250106)
+* NFL
+    
+* [NFL
+    
+    27/9 10:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NYG | –   |
+    | DAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250401)
 * Motorsport
     
 * [MotoGP
@@ -144,6 +176,16 @@ FOX SCORES
     | MEL | 96  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020001/play-by-play)
+* [NBL
+    
+    27/9 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ILL | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020002)
 * Rugby
     
 * [Rugby Champs
@@ -156,6 +198,16 @@ FOX SCORES
     | AUS | –   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
+* [Rugby Champs
+    
+    29/9 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | ARG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240602)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
