@@ -398,6 +398,8 @@
 * [Merge Data 2.0](https://www.questionpro.com/help/merge-data-2.html)
 * [Plagiarism Detection](https://www.questionpro.com/help/plagiarism-detection.html)
 * [IP based location data](https://www.questionpro.com/help/ip-based-location-tracking.html)
+* [SPSS Export](https://www.questionpro.com/help/download-spss.html)
+* [SPSS variable name](https://www.questionpro.com/help/SPSS-variable-name.html)
 
 #### [Integration](#panelBody63)
 
