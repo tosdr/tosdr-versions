@@ -36,6 +36,7 @@ Search
         * [DevOps](https://eplus.com/solutions/cloud/devops)
         * [FinOps](https://eplus.com/solutions/cloud/finops)
     * [Data Center](https://eplus.com/solutions/data-center) [Data Center](https://eplus.com/solutions/data-center)
+        * [Storage-as-a-Service (STaaS)](https://eplus.com/solutions/data-center/eplus-storage-as-a-service)
         * [Data Center-as-a-Service (DCaaS)](https://eplus.com/solutions/data-center/data-center-as-a-service)
         * [Private Cloud](https://eplus.com/solutions/data-center/private-cloud)
         * [Hybrid Cloud](https://eplus.com/solutions/data-center/hybrid-cloud)
