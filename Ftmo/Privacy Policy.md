@@ -15,6 +15,7 @@
     * [Symbols](https://ftmo.com/en/symbols/)
     * [Leaderboard](https://ftmo.com/en/leaderboard/)
     * [Economic Calendar](https://ftmo.com/en/calendar/)
+    * [FTMO Free Trial](https://ftmo.com/en/ftmo-free-trial/)
     * [Performance Coaches](https://ftmo.com/en/performance-coaches)
     * [FTMO Academy](https://academy.ftmo.com/)
 * [About us](#)
@@ -72,6 +73,7 @@
     * [Symbols](https://ftmo.com/en/symbols/)
     * [Leaderboard](https://ftmo.com/en/leaderboard/)
     * [Economic Calendar](https://ftmo.com/en/calendar/)
+    * [FTMO Free Trial](https://ftmo.com/en/ftmo-free-trial/)
     * [Performance Coaches](https://ftmo.com/en/performance-coaches)
     * [FTMO Academy](https://academy.ftmo.com/)
 * [About us](#)
@@ -441,7 +443,7 @@ If you believe that we are processing your data in violation of the relevant leg
 
 We may change this policy unilaterally, but we will do so only when necessary and we will notify you about such change. You can find the latest version of this policy in your Client Section.
 
-![logo](/wp-content/themes/ftmo-com/public/images/svg/logo.svg)
+![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)
 
 Quadrio offices  
 Purkynova 2121/3, 110 00, Prague  
