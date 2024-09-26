@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/pedofilie-misbruik/hoge-heren-hoge-sferen-en-het-dutrouxnetwerk-achter-me-aan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-boek-bewustzijnsdynamiek-toont-onze-reis-en-bestemming/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
