@@ -131,21 +131,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
+   [![Cascada Cailor](https://img.atlasobscura.com/uKc3L6e7kw7Ao0t-7KtlsCqnGo19vI7o7FH1XN1IQC8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZThj/N2UxNi0zZDgwLTQ4/ZjEtYWM1Zi1iMTZk/ZmQwNTc0OGZlMmNj/MmE1NDg2MGRkNzE0/ODJfcGV4ZWxzLWJv/Z2Rhbi1vbHRlYW4t/MzE3MjUyOTY4LTEz/NzEzODI5LmpwZw.jpg)
+
+Cascada Cailor (Horses Waterfall)](https://www.atlasobscura.com/places/horses-waterfall)
+
+   [![Calle Dr. Garcia Rogel street in Palmeral de Orihuela](https://img.atlasobscura.com/8-JxNGeoCiaq3B30is2zP9kCIbjQlO-mluNjX81DrjY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MTQ0/NjUyNi05NjAyLTRl/YTQtYWEzMi1hMzRi/NGM2ZjBmZGRmZGQx/YzExZGUzMjFkNjc3/MmNfQ2FsbGVfRHIu/X0dhcmNpYV9Sb2dl/bF9zdHJlZXRfaW5f/UGFsbWVyYWxfZGVf/T3JpaHVlbGEsX0Fs/aWNhbnRlLF9TcGFp/bixfMjAyMF9KYW51/YXJ5LmpwZw.jpg)
+
+Palmeral of Orihuela](https://www.atlasobscura.com/places/palmeral-orihuela)
+
+   [![Wawel as Acropolis ](https://img.atlasobscura.com/oMDa8VGSYFXZpG1PpLvQkdJAbz6f26qmzSJB9xTkdRs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYWJl/YzdkZC01Mjg5LTQ3/NjQtYWUwNS00MTNj/NWNjODM3YWNkNzQy/OGE0NzgxYjZkZThl/OWVfQjdGRjk5QjQt/Qzg0My00M0ZCLUI2/MTMtNkJDODUzMjdC/QUI5Mzk5QTA2MTYg/KDIwMjQtMDEtMTBU/MDJfMDZfNDQuOTI1/KS5qcGVn.jpg)
+
+Museum of Stanisław Wyspiański](https://www.atlasobscura.com/places/museum-of-stanislaw-wyspianski)
+
    [![](https://img.atlasobscura.com/zEIW3J73Ap1QEHkHgrRDskh-v2Q80WHzZKSyGNP2DYI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTMx/MThjNC00MTc3LTQ2/YjItYjBjNi03MzZk/ODk4MzFlMjZiZThh/Nzg5ODU1YzIzNDJm/YmZfMi5qcGc.jpg)
 
 Tomb of the Unknown Warrior](https://www.atlasobscura.com/places/tomb-of-the-unknown-warrior-pune)
-
-   [![Statue of Stephanie Beauharnais](https://img.atlasobscura.com/KKWGTbWlB4tP2JIL3RMeI4z17HcpV_QAGjowXA7-yHI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84Mjhk/NTI3MC03YWQ0LTQ1/YjMtYWNmYy0yMzE0/N2IwNDIyNzQzY2M2/ZjNiM2Q0OGRhYzhl/MjdfU3RlcGhhbmll/X0JlYXVoYXJuYWlz/X01BLmpwZw.jpg)
-
-Statue Stephanie de Beauharnais](https://www.atlasobscura.com/places/statue-stephanie-de-beauharnais)
-
-   [![Stele of Napoleon III overwritten on Assyrian stele](https://img.atlasobscura.com/PjCNLXq-Rsge6JASJv4LAjnr6bJ5XOW9RnvPYl_sX-4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84YTc2/OWFhNS00ZmY3LTQ3/OTItYWE3Mi0zMzRj/NTFmZjIyZDlmYzVm/NGM5ZTFhZDBkYzkz/OWVfSU1HXzM5MDku/anBlZw.jpg)
-
-Stelae of Nahr el-Kalb](https://www.atlasobscura.com/places/stelae-of-nahr-el-kalb)
-
-   [![The Tomb of Piers Shonks in St Mary's Church in Brent Pelham, Hertfordshire](https://img.atlasobscura.com/RJU0zN-A_PYneVUUOqxv33Ib0CfZj1eMxGAabHA-cxA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDI3/ZjhiNC1kYzUzLTQ0/MmUtYTJhMS05NmIw/OGQ3ZjIxNTViOTIy/MjBjNzNjOTg5ODNh/NGNfUFhMXzIwMjMw/NTIwXzE1MjMwODEy/Ny5qcGc.jpg)
-
-Tomb of Piers Shonks](https://www.atlasobscura.com/places/tomb-of-piers-shonks)
 
 Latest Places to Eat & Drink
 
