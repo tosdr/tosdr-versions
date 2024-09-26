@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_16x9.jpg) ![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/police-surveillance-cameras-seattle-neighborhoods-bill-passes-first-hurdle/281-887a64ea-86cc-412d-80ea-77b4cfaafc10)
+    *  [![](https://media.king5.com/assets/KING/images/c83a142d-314c-465c-bbe7-5a18fb97124a/20240925T144212/c83a142d-314c-465c-bbe7-5a18fb97124a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c83a142d-314c-465c-bbe7-5a18fb97124a/20240925T144212/c83a142d-314c-465c-bbe7-5a18fb97124a_360x203.jpg)](https://www.king5.com/article/sports/mlb/mariners/mariners-playoff-odds/281-51a37de4-ab32-4dc2-8e25-af79cc3eaa0d)
         
-        #### [Police surveillance cameras in Seattle neighborhoods? Bill passes its first hurdle](https://www.king5.com/article/news/local/public-safety/police-surveillance-cameras-seattle-neighborhoods-bill-passes-first-hurdle/281-887a64ea-86cc-412d-80ea-77b4cfaafc10)
+        #### [The Mariners still have a slim chance at the MLB playoffs. Here's how they could qualify](https://www.king5.com/article/sports/mlb/mariners/mariners-playoff-odds/281-51a37de4-ab32-4dc2-8e25-af79cc3eaa0d)
         
-    *  [![](https://media.king5.com/assets/KING/images/9d99cc06-f88d-4e67-b6f7-0ad0863685a0/20240926T043540/9d99cc06-f88d-4e67-b6f7-0ad0863685a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9d99cc06-f88d-4e67-b6f7-0ad0863685a0/20240926T043540/9d99cc06-f88d-4e67-b6f7-0ad0863685a0_360x203.jpg)](https://www.king5.com/article/news/local/seattle-safety-study-reveals-alarming-rates-anti-asian-incidents-underreporting/281-c759fda1-b787-436b-8056-d7b5b3952124)
+    *  [![](https://media.king5.com/assets/KING/images/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe/20240926T122720/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe/20240926T122720/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe_360x203.jpg)](https://www.king5.com/article/traffic/send-shante-tacoma-road-potholes-traffic/281-a04edaa0-9a77-4484-a21e-fcb9df0dcc20)
         
-        #### [New study shows safety concerns of Asian Americans in Seattle](https://www.king5.com/article/news/local/seattle-safety-study-reveals-alarming-rates-anti-asian-incidents-underreporting/281-c759fda1-b787-436b-8056-d7b5b3952124)
+        #### [Send Shanté: Tacoma road littered with potholes, overgrowth causing problems for homeowners](https://www.king5.com/article/traffic/send-shante-tacoma-road-potholes-traffic/281-a04edaa0-9a77-4484-a21e-fcb9df0dcc20)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/3d111aaf-e310-4106-9e6c-95ba8e53fc72/20240926T014224/3d111aaf-e310-4106-9e6c-95ba8e53fc72_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3d111aaf-e310-4106-9e6c-95ba8e53fc72/20240926T014224/3d111aaf-e310-4106-9e6c-95ba8e53fc72_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/6e99bdf8-2311-4447-9beb-ea59ea6c874e/20240926T115818/6e99bdf8-2311-4447-9beb-ea59ea6c874e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6e99bdf8-2311-4447-9beb-ea59ea6c874e/20240926T115818/6e99bdf8-2311-4447-9beb-ea59ea6c874e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-56°
+54°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
