@@ -9,6 +9,7 @@ This app works best with JavaScript enabled.
     * [Error Monitoring](https://sentry.io/for/error-monitoring/)
     * [Session Replay](https://sentry.io/for/session-replay/)
     * [Tracing](https://sentry.io/for/tracing/)
+    * [Uptime Monitoring](https://sentry.io/for/uptime-monitoring/)
     * [Profiling](https://sentry.io/for/profiling/)
     * [Cron Monitoring](https://sentry.io/for/cron-monitoring/)
     * [Code Coverage](https://sentry.io/for/code-coverage/)
