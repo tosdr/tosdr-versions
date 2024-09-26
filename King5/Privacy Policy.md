@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/105dc798-28bf-4b2d-a57b-0aab2c173d2f/20240925T195214/105dc798-28bf-4b2d-a57b-0aab2c173d2f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/105dc798-28bf-4b2d-a57b-0aab2c173d2f/20240925T195214/105dc798-28bf-4b2d-a57b-0aab2c173d2f_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-police-arrest-five-teens-running-stolen-vehicles-bodycam/281-063c761d-83aa-48ac-a3bb-1745bf7e348b)
+    *  [![](https://media.king5.com/assets/KING/images/8aaba772-afe2-43ff-a00a-362bfa96e870/20240926T020356/8aaba772-afe2-43ff-a00a-362bfa96e870_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8aaba772-afe2-43ff-a00a-362bfa96e870/20240926T020356/8aaba772-afe2-43ff-a00a-362bfa96e870_360x203.jpg)](https://www.king5.com/article/news/local/hilltop-neighborhood-1-year-sound-transit-t-line-extension/281-78602627-aed2-4346-8e17-915709088f00)
         
-        #### [Five teens between 13 and 15 arrested after running from stolen vehicles, police say](https://www.king5.com/article/news/crime/seattle-police-arrest-five-teens-running-stolen-vehicles-bodycam/281-063c761d-83aa-48ac-a3bb-1745bf7e348b)
+        #### [Hilltop neighborhood marks 1 year of Sound Transit T Line extension](https://www.king5.com/article/news/local/hilltop-neighborhood-1-year-sound-transit-t-line-extension/281-78602627-aed2-4346-8e17-915709088f00)
         
-    *  [![](https://media.king5.com/assets/KING/images/8850a9b5-5ba2-4378-bb99-769b42f75f2d/20240925T061658/8850a9b5-5ba2-4378-bb99-769b42f75f2d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8850a9b5-5ba2-4378-bb99-769b42f75f2d/20240925T061658/8850a9b5-5ba2-4378-bb99-769b42f75f2d_360x203.jpg)](https://www.king5.com/article/news/local/macklemore-faces-backlash-f-america-comment-pro-palestinian-benefit-show/281-52d04c34-c9c5-4e19-9819-1f0fe39a8265)
+    *  [![](https://media.king5.com/assets/KING/images/f6b7c62a-61c9-4deb-89fc-459cd43f4030/f6b7c62a-61c9-4deb-89fc-459cd43f4030_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b7c62a-61c9-4deb-89fc-459cd43f4030/f6b7c62a-61c9-4deb-89fc-459cd43f4030_360x203.jpg)](https://www.king5.com/article/news/local/man-sentenced-31-years-for-killing-wife-at-bellevue-sams-tavern/281-55753f76-2f41-42d2-b7f7-bfb2187cc51a)
         
-        #### [Macklemore responds after Seattle sports teams evaluate ties to rapper following ‘f---’ America comment](https://www.king5.com/article/news/local/macklemore-faces-backlash-f-america-comment-pro-palestinian-benefit-show/281-52d04c34-c9c5-4e19-9819-1f0fe39a8265)
+        #### [Man sentenced to 31 years for killing wife at Bellevue tavern](https://www.king5.com/article/news/local/man-sentenced-31-years-for-killing-wife-at-bellevue-sams-tavern/281-55753f76-2f41-42d2-b7f7-bfb2187cc51a)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/49db712e-333a-479e-9dfb-eef90d6263f7/20240925T192526/49db712e-333a-479e-9dfb-eef90d6263f7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/49db712e-333a-479e-9dfb-eef90d6263f7/20240925T192526/49db712e-333a-479e-9dfb-eef90d6263f7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/3d111aaf-e310-4106-9e6c-95ba8e53fc72/20240926T014224/3d111aaf-e310-4106-9e6c-95ba8e53fc72_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3d111aaf-e310-4106-9e6c-95ba8e53fc72/20240926T014224/3d111aaf-e310-4106-9e6c-95ba8e53fc72_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/ca9a4163-1c2e-4ef6-bd48-8b98943778c0/20240705T124540/ca9a4163-1c2e-4ef6-bd48-8b98943778c0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ca9a4163-1c2e-4ef6-bd48-8b98943778c0/20240705T124540/ca9a4163-1c2e-4ef6-bd48-8b98943778c0_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/7-pm-sunsets-end-this-week-western-washington-seattle/281-75156daf-461b-4e01-ba28-1e4aad7a2834)
+    *  [![](https://media.king5.com/assets/WXIA/images/d50d0495-5f59-4941-8907-2a4d3278b6c5/20240926T020617/d50d0495-5f59-4941-8907-2a4d3278b6c5_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/d50d0495-5f59-4941-8907-2a4d3278b6c5/20240926T020617/d50d0495-5f59-4941-8907-2a4d3278b6c5_360x203.jpg)](https://www.king5.com/article/weather/hurricane/helene-tracker-path-storm-projections/85-91abc06f-abef-4b7a-bbcf-0b3e01a8d458)
         
-        #### [7 p.m. sunsets come to an end in western Washington this week. Here's when they'll come back](https://www.king5.com/article/weather/weather-blog/7-pm-sunsets-end-this-week-western-washington-seattle/281-75156daf-461b-4e01-ba28-1e4aad7a2834)
+        #### [Helene tracker stream | Live radar, projected path](https://www.king5.com/article/weather/hurricane/helene-tracker-path-storm-projections/85-91abc06f-abef-4b7a-bbcf-0b3e01a8d458)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-64°
+59°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
