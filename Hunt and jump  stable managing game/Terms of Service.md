@@ -29,7 +29,8 @@ FOREST SERVER | **Year: 135 Era: 15**
 * ![](/images/coloricons/icon_nav_community.png)Community
     
     * [Search Horses](https://hj2.huntandjump.com/adv_search.php)
-    * [Forum](https://hj2.huntandjump.com/forum/)
+    * [Community Forum](https://hj2.huntandjump.com/forum/)
+    * [Discord Server](https://discord.gg/qjyheUzkcx)
     * [Buddy Chat](https://hj2.huntandjump.com/buddy_chat.php)
     * [Search Users](https://hj2.huntandjump.com/search_members.php)
     * [Breeder Clubs](https://hj2.huntandjump.com/clubs.php)
@@ -44,7 +45,8 @@ FOREST SERVER | **Year: 135 Era: 15**
     
     * [**FAQ User Guide**](https://hj2.huntandjump.com/faq.php)
     * [**Member Created Wiki**](https://wiki.huntandjump.com/)
-    * [Forum](https://hj2.huntandjump.com/forum/)
+    * [Community Forum](https://hj2.huntandjump.com/forum/)
+    * [Discord Server](https://discord.gg/qjyheUzkcx)
     * [Genetics Guide](https://www.huntandjump.com/geneticsguide/)
     * [Breeding Info](https://hj2.huntandjump.com/breeding_info.php)
     * [Rules and ToS](https://hj2.huntandjump.com/rules.php)
@@ -216,7 +218,7 @@ Unlock more stalls and awards by completing in game tasks.
 
 [CLICK HERE](https://hj2.huntandjump.com/achievments.php)
 
-[![facebook](/images/layout/facebookIcon.png)](https://www.facebook.com/huntandjump/) [![twitter](/images/layout/twitterIcon.png)](https://twitter.com/huntandjump) [![Pinterest](/images/layout/pinterestIcon.png)](https://www.pinterest.com/kdwebgames/)
+[![facebook](/images/layout/facebookIcon.png)](https://www.facebook.com/huntandjump/) [![discord](/images/layout/discordicon.png)](https://discord.com/invite/qjyheUzkcx) [![Pinterest](/images/layout/pinterestIcon.png)](https://www.pinterest.com/kdwebgames/)
 
 [Rules and Terms of Service](https://hj2.huntandjump.com/rules.php)
 
