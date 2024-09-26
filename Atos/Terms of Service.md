@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        25 September 2024
+        26 September 2024
         
-        Atos selected by the European Space Agency (ESA) to expand the capabilities of the Destination Earth (DestinE) services platform
-        --------------------------------------------------------------------------------------------------------------------------------
+        Atos is awarded a “Platinum” EcoVadis Medal for its commitment to sustainability for 5th year running
+        -----------------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
