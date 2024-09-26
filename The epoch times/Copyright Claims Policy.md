@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://www.theepochtimes.com/us/new-york-city-mayor-eric-adams-indicted-by-grand-jury-media-sources-5730369)
+    
+    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://img.theepochtimes.com/assets/uploads/2024/06/02/id5661144-eric-adams-GettyImages-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-eric-adams-indicted-by-grand-jury-media-sources-5730369)
+* [Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://www.theepochtimes.com/us/trump-says-he-would-threaten-to-blow-iran-to-smithereens-over-assassination-threat-5730102)
+    
+    2hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730118-Trump-Mint-Hill-e1727295119825-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-would-threaten-to-blow-iran-to-smithereens-over-assassination-threat-5730102)
+* [The ‘Chemical War’ Killing 70,000 Americans Each Year](https://www.theepochtimes.com/article/the-chemical-war-killing-70000-americans-each-year-5728621)
+    
+    2hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    
+    [![The ‘Chemical War’ Killing 70,000 Americans Each Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![The ‘Chemical War’ Killing 70,000 Americans Each Year](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730082-Fentanyl-Trafficking-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-chemical-war-killing-70000-americans-each-year-5728621)
+* [California Courthouse Explosion: What We Know](https://www.theepochtimes.com/us/california-courthouse-explosion-what-we-know-5730271)
+    
+    3hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
+    
+    [![California Courthouse Explosion: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![California Courthouse Explosion: What We Know](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730234-explosion-court-house-AP24269730206143-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-courthouse-explosion-what-we-know-5730271)
+* [House Passes Bill to Allow for Congressional Election Observers](https://www.theepochtimes.com/us/house-passes-bill-to-allow-for-congressional-election-observers-5730180)
+    
+    4hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![House Passes Bill to Allow for Congressional Election Observers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![House Passes Bill to Allow for Congressional Election Observers](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723041-06252024-DSC08058-US-Capitol-LSedit-e1727307195167-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-passes-bill-to-allow-for-congressional-election-observers-5730180)
+* [H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://www.theepochtimes.com/health/h5n1-influenza-may-be-spreading-in-cows-by-milking-than-through-air-experts-weigh-in-5730287)
+    
+    4hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    
+    [![H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730325-shutterstock_2476039745_dairy_milk_cow_flu_h5n1_influenza-205x123.jpg.webp)](https://www.theepochtimes.com/health/h5n1-influenza-may-be-spreading-in-cows-by-milking-than-through-air-experts-weigh-in-5730287)
+* [Harris Proposes New Incentive for Manufacturing During Pittsburgh Speech](https://www.theepochtimes.com/us/harris-proposes-new-incentive-for-manufacturing-during-pittsburgh-speech-5729992)
+    
+    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Harris Proposes New Incentive for Manufacturing During Pittsburgh Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Proposes New Incentive for Manufacturing During Pittsburgh Speech](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730170-Kamala-Harris_Pittsburgh-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-proposes-new-incentive-for-manufacturing-during-pittsburgh-speech-5729992)
+* [Arbitration Board Green-Lights Sale of US Steel to Nippon Steel Amid Union Resistance](https://www.theepochtimes.com/business/arbitration-board-green-lights-sale-of-us-steel-to-nippon-steel-amid-union-resistance-5730133)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Arbitration Board Green-Lights Sale of US Steel to Nippon Steel Amid Union Resistance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Arbitration Board Green-Lights Sale of US Steel to Nippon Steel Amid Union Resistance](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730314-CP173021998KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/arbitration-board-green-lights-sale-of-us-steel-to-nippon-steel-amid-union-resistance-5730133)
+* [Day in Photos: Vote of No Confidence, Campaign Rallies, and a Visiting King](https://www.theepochtimes.com/article/day-in-photos-vote-of-no-confidence-campaign-rallies-and-a-visiting-king-5729807)
+    
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Vote of No Confidence, Campaign Rallies, and a Visiting King](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Vote of No Confidence, Campaign Rallies, and a Visiting King](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730200-lead-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-vote-of-no-confidence-campaign-rallies-and-a-visiting-king-5729807)
 * [Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://www.theepochtimes.com/health/sodium-nitrite-suicides-on-the-rise-poison-centers-are-missing-them-5728503)
     
-    NEW By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
+    6hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
     [![Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730237-shutterstock_2241435023_sodium_nitrite_suicide_preservative_toxic-205x123.jpg.webp)](https://www.theepochtimes.com/health/sodium-nitrite-suicides-on-the-rise-poison-centers-are-missing-them-5728503)
-* [Hurricane Helene, Heading for Florida, Set to Become Category 4, Says Hurricane Center](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
-    
-    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Hurricane Helene, Heading for Florida, Set to Become Category 4, Says Hurricane Center](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hurricane Helene, Heading for Florida, Set to Become Category 4, Says Hurricane Center](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730202-hurricanehelene3-205x123.png.webp)](https://www.theepochtimes.com/us/hurricane-helene-forms-in-gulf-of-mexico-set-to-hit-florida-5729777)
-* [Regional Concern After China Launches Intercontinental Ballistic Missile](https://www.theepochtimes.com/china/regional-concern-after-china-launches-intercontinental-ballistic-missile-5729856)
-    
-    NEW By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Regional Concern After China Launches Intercontinental Ballistic Missile](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Regional Concern After China Launches Intercontinental Ballistic Missile](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729889-GettyImages-1175318272-205x123.jpg.webp)](https://www.theepochtimes.com/china/regional-concern-after-china-launches-intercontinental-ballistic-missile-5729856)
-* [Secret Service Agent Suspended Amid Allegations of Sexual Misconduct Involving Harris Campaign Staffer](https://www.theepochtimes.com/us/secret-service-agent-suspended-amid-allegations-of-sexual-misconduct-involving-harris-campaign-staffer-5730020)
-    
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Secret Service Agent Suspended Amid Allegations of Sexual Misconduct Involving Harris Campaign Staffer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Secret Service Agent Suspended Amid Allegations of Sexual Misconduct Involving Harris Campaign Staffer](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730056-GettyImages-2172425542-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-agent-suspended-amid-allegations-of-sexual-misconduct-involving-harris-campaign-staffer-5730020)
-* [House Passes Stopgap Funding Bill, Sending Measure to Senate](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
-    
-    1hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![House Passes Stopgap Funding Bill, Sending Measure to Senate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House Passes Stopgap Funding Bill, Sending Measure to Senate](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728348-09162024-DSC00724-US-CapitolKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-senate-to-vote-on-stopgap-funding-bill-5728729)
-* [Judge Orders EPA to Address Potential Risk of Fluoride in Drinking Water](https://www.theepochtimes.com/us/judge-orders-epa-to-address-potential-risk-of-fluoride-in-drinking-water-5730018)
-    
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Judge Orders EPA to Address Potential Risk of Fluoride in Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge Orders EPA to Address Potential Risk of Fluoride in Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686207-GettyImages-1519932122-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-orders-epa-to-address-potential-risk-of-fluoride-in-drinking-water-5730018)
-* [Bipartisan Senate Report Finds Security Failures in First Assassination Attempt on Trump](https://www.theepochtimes.com/us/bipartisan-senate-report-finds-security-failures-in-first-assassination-attempt-on-trump-5729810)
-    
-    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Bipartisan Senate Report Finds Security Failures in First Assassination Attempt on Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Bipartisan Senate Report Finds Security Failures in First Assassination Attempt on Trump](https://img.theepochtimes.com/assets/uploads/2024/08/09/id5703090-APTOPIX_Election_2024_Trump_24195806515160-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/bipartisan-senate-report-finds-security-failures-in-first-assassination-attempt-on-trump-5729810)
-* [Mortgage Applications Hit Highest Level in More Than 2 Years, Fueled by Refinancing Boom](https://www.theepochtimes.com/us/mortgage-applications-hit-highest-level-in-more-than-2-years-fueled-by-refinancing-boom-5729935)
-    
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Mortgage Applications Hit Highest Level in More Than 2 Years, Fueled by Refinancing Boom](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mortgage Applications Hit Highest Level in More Than 2 Years, Fueled by Refinancing Boom](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730106-House-sale_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-applications-hit-highest-level-in-more-than-2-years-fueled-by-refinancing-boom-5729935)
-* [Former CDC Director Endorses Trump, Supports RFK Jr.’s Health Initiatives](https://www.theepochtimes.com/us/former-cdc-director-endorses-trump-supports-rfk-jr-s-health-initiatives-5729823)
-    
-    3hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Former CDC Director Endorses Trump, Supports RFK Jr.’s Health Initiatives](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Former CDC Director Endorses Trump, Supports RFK Jr.’s Health Initiatives](https://img.theepochtimes.com/assets/uploads/2024/06/16/id5669736-robert-redfield-cdcKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-cdc-director-endorses-trump-supports-rfk-jr-s-health-initiatives-5729823)
-* [Judge Grants Special Counsel Jack Smith’s Motion to File ‘Oversized’ Brief in Trump Case](https://www.theepochtimes.com/us/judge-grants-special-counsel-jack-smiths-motion-to-file-oversized-brief-in-trump-case-5729951)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Judge Grants Special Counsel Jack Smith’s Motion to File ‘Oversized’ Brief in Trump Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge Grants Special Counsel Jack Smith’s Motion to File ‘Oversized’ Brief in Trump Case](https://img.theepochtimes.com/assets/uploads/2024/09/05/id5718809-Jack-Smith-Donald-Trump-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-grants-special-counsel-jack-smiths-motion-to-file-oversized-brief-in-trump-case-5729951)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
