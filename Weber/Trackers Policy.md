@@ -748,7 +748,7 @@ Sign up
 * [Instagram](https://www.instagram.com/webergrills/)
 * [Twitter](https://twitter.com/webergrills)
 * [Youtube](https://www.youtube.com/user/GrillwithWeber)
-* [Pinterest](https://www.pinterest.com/webergrills/)
+* [TikTok](https://www.tiktok.com/@webergrills)
 
 \*For more details on how we use your information, see our [privacy policy](https://www.weber.com/US/en/privacypolicy.html).
 
