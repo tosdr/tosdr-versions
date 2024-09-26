@@ -205,26 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [A Boring Day at the Airport](https://www.somethingawful.com/photoshop-phriday/boring-day-at/1/)
-* [Winceton!](https://www.somethingawful.com/comedy-goldmine/winceton/1/)
-* [Robots at War](https://www.somethingawful.com/photoshop-phriday/robots-at-war/1/)
-* [Video Game Snack Time](https://www.somethingawful.com/photoshop-phriday/video-game-snack/1/)
-* [Rejected Software 2](https://www.somethingawful.com/photoshop-phriday/rejected-software-2/1/)
+* [Donkey Sandwiches!](https://www.somethingawful.com/awfulvision/rpg-chemtrails-fart/1/)
+* [Rejected Valentine's Day Cards](https://www.somethingawful.com/photoshop-phriday/rejected-valentines-day/1/)
+* [Tales from the Zoo](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo/1/)
+* [soFeminine.co.uk, Teen Pregnancy, and BYOB](https://www.somethingawful.com/weekend-web/teen-pregnancy-woman/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [What would you do if a nuclear war was starting?](http://forums.somethingawful.com/showthread.php?threadid=4071151 "What would you do if a nuclear war was starting?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Willy Wonka II: The Wonkening](http://forums.somethingawful.com/showthread.php?threadid=4071155 "Willy Wonka II: The Wonkening")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [What's the point of any of this?](http://forums.somethingawful.com/showthread.php?threadid=4071188 "What's the point of any of this?")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Have you ever been trolled into doing something stupid irl by the internet?](http://forums.somethingawful.com/showthread.php?threadid=4071191 "Have you ever been trolled into doing something stupid irl by the internet?")
 
 ### Random Articles
 
-* [An Intolerable Rap Rivalry](https://www.somethingawful.com/news/an-intolerable-rap/)
-* [My 70-inch TV Will Fix Everything](https://www.somethingawful.com/news/tech-dad-miserable/)
-* [Tech Game Changers at SXSW 2014](https://www.somethingawful.com/news/sxsw-2014-tech/)
-* [Pansy Jackass](https://www.somethingawful.com/news/pansy-jackass/)
-* [Pop Psychology](https://www.somethingawful.com/your-band-sucks/pop-psychology/)
+* [Celebrity Race Change!](https://www.somethingawful.com/comedy-goldmine/change-celebrity-race/1/)
+* [Mailbox for MICHAEL JACKSON](https://www.somethingawful.com/awful-links/awful-link-1760/)
+* [Daily Dirt 8/27/06](https://www.somethingawful.com/daily-dirt/daily-dirt-82706/)
+* [Highway to the Thrifty Zone](https://www.somethingawful.com/news/highway-thrifty-zone/)
+* [RPG Roundup!](https://www.somethingawful.com/news/rpg-roundup/)
 
 [Random!](https://www.somethingawful.com/random/)
 
