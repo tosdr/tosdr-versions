@@ -249,26 +249,32 @@ Yes
 
 No
 
-![](https://play-lh.googleusercontent.com/a-/ALV-UjWkYk3kKu02eNl8ysADgRt1gFfGpGfG2WSWAovE3KPBP-tJJUDl=s32)
+![](https://play-lh.googleusercontent.com/a-/ALV-UjX3z--B9j2cpEYKfawb7eMUo1s-8iF1I-eYPhkxR_bb0yreHqps1g=s32)
 
-Gary Lawson
+Vincent Sabio
 
 _more\_vert_
 
 * Flag inappropriate
 * Show review history
 
-July 20, 2024
+August 5, 2024
 
-This is the WORST messaging app that I have ever used. I'm talking POS. It crashes all the time and it completely deletes messages that I type, after I hit send. I spent 30 minutes typing and retyping the same two messages over and over about 5 or 6 times. Won't mark messages as read,,, sometimes. DUH, RIP, RIP, RIP!
+UPDATE: Rating increased from 4 to 5 stars based on reply from developer. I love the ability to filter incoming messages based on text strings in the messages; I am now blocking 100% of political spam texts. Mezo also lets me blacklist phone #s that send spam. there are lots of SMS apps that support blacklisting, but this is the only one I found that allows filtering of incoming messages based on text strings -- and it works like a charm. I would give it 5 stars if it supported RCS messages.
 
-5 people found this review helpful
+2 people found this review helpful
 
 Did you find this helpful?
 
 Yes
 
 No
+
+Mezo SMS AI - Spam Blocker, Text Blocker
+
+August 5, 2024
+
+Hi. Thanks for your feedback and comment. RCS is not opened up and not available for third party apps :(
 
 See all reviews
 
@@ -307,7 +313,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHpMUWdWQkx5OUJITGt4SGVrcEJSbmc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJppjY)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDBFODNQQ084WjFBV2hiMDdqTEV5Unc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLlqaM)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
@@ -347,7 +353,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -359,4 +365,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English)
+United States (English (United States))
