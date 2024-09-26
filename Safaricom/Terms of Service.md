@@ -222,6 +222,42 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 26, 2024
+
+> Mel du Toit has the patience of a saint…
+
+> Mel du Toit has the patience of a saint and answered every one of my many questions with detailed information. I felt confident in her expertise and she has assured me that I could count on her being available during every stage of my journey in Uganda. Thanks, Mel!
+
+Debra Lass
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 25, 2024
+
+> patient considerate trust worthy
+
+> I want everyone to know Nicole at Safari.com did a great job putting my vacation together. Nicole made sure I had the exact dates I wanted to stay at the lodges of my choice. Nicole answered everyone of my emails quickly. Nicole worked on my vacation plan after office hours from her home. She never once was upset with me if i changed any of my plan. Nicole is very patient .I am very thankful for Nicole. I will always use Safari.com
+
+Katherine Grimm
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 25, 2024
+
+> Anja helped us to craft our dream vacation
+
+> The reason why we used Safari.com was because of Anja. We really had no idea of what we wanted so we were not the easiest customers by a long stretch. With Anja’s help and patience we developed about 25 itineraries until we crafted our dream vacation that is taking us across 4 countries. It is an amazing itinerary and this was all possible because of Anja’s dedication to making our seemingly crazy ideas come to fruition in a manner that was realistic and met our budgetary requirements.
+
+AD and BD
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 25, 2024
 
 > Satisfied customers
@@ -301,48 +337,6 @@ Dieter
 ,
 
 BE
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 23, 2024
-
-> Sara was incredibly efficient and easy…
-
-> Sara was incredibly efficient and easy to communicate with.
-
-Lia R
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 20, 2024
-
-> Sabi Sands Game Reserve reservations made easy
-
-> Made safari reservations with Pascal John. He was very helpful as we had a specific time frame that corresponded with the rest of our Africa trip. Pascal John was professional, sent documents on time, and and with no errors. He responded via email very very quickly. We definitely recommend Safari.com and Pascal John!
-
-George
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 20, 2024
-
-> Great experience booking was so fast
-
-> Great experience booking was so fast. I already recommended for my friends.
-
-Shakoas Atiani
-
-,
-
-GE
 
 VIP service
 
