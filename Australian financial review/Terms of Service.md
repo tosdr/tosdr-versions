@@ -299,7 +299,7 @@ Advertise
 
 * ### [Australia’s five most powerful people in education in 2024](https://www.afr.com/work-and-careers/education/australia-s-five-most-powerful-people-in-education-in-2024-20240826-p5k5ab)
     
-* ### [Why Australia’s think tanks are a growing source of covert power](https://www.afr.com/politics/federal/why-australia-s-think-tanks-are-a-growing-source-of-covert-power-20240824-p5k50p)
+* ### [Australia’s ‘brain boxes’ are a growing source of covert power](https://www.afr.com/politics/federal/why-australia-s-think-tanks-are-a-growing-source-of-covert-power-20240824-p5k50p)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -333,13 +333,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The Fin - Patrick Durkin and Max Mason](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1aaf4fa4371973f68376c8f286fa15a9e6b4f458)](https://www.afr.com/companies/manufacturing/why-the-pratts-are-fighting-over-the-family-fortune-20240925-p5kdc1)
+[![Gold Dinner chairwoman Monica Saunders-Weinberg and her husband and committee member Richard Weinberg. ](https://static.ffx.io/images/$zoom_0.9354%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_862%2C$y_399/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6768821934ce4c875a82d82c50676ced061e85c5)](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
 
-### [Why the Pratts are fighting over the family fortune](https://www.afr.com/companies/manufacturing/why-the-pratts-are-fighting-over-the-family-fortune-20240925-p5kdc1)
+### [How the wealthy daughters of Westfield co-founder John Saunders invest](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
 
-* ### [Hartman exit leaves separated Forrests occupying Tattarang board](https://www.afr.com/wealth/people/hartman-exit-leaves-separated-forrests-occupying-tattarang-board-20240925-p5kdh1)
+* Primrose Riordan and Ronald Mizen
+
+* ### [Rich Lister wealth secrets revealed after 30-year loophole ends](https://www.afr.com/wealth/people/rich-lister-wealth-secrets-revealed-after-30-year-loophole-ends-20240923-p5kcuw)
     
-* ### [Rich Lister’s Mexican chain locks in 400th location](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
+* ### [Why the Pratts are fighting over the family fortune](https://www.afr.com/companies/manufacturing/why-the-pratts-are-fighting-over-the-family-fortune-20240925-p5kdc1)
     
 
 [The Australian Financial Review](https://www.afr.com/)
