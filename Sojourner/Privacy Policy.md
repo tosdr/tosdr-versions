@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-cd571a62f551cded53e8a23a493b0022
+4019333b883116bcf3088b5b3277bee2
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Square Swarovski crystal clasp](https://www.sojourner.biz/images/cache/SKU0097.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
+[![15 mm to 20 mm by 24 mm irregular polished green nuggets](https://www.sojourner.biz/images/cache/stone/STN030.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/15-mm-to-20-mm-by-24-mm-irregular-polished-green-nuggets.html "15 mm to 20 mm by 24 mm irregular polished green nuggets")
 
-#### [Square Swarovski crystal clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
+#### [15 mm to 20 mm by 24 mm irregular polished green nuggets](https://www.sojourner.biz/beads/stone-m-z/other-stones/15-mm-to-20-mm-by-24-mm-irregular-polished-green-nuggets.html "15 mm to 20 mm by 24 mm irregular polished green nuggets")
 
-$49.00
+$36.00
 
 ### Best Sellers
 
@@ -187,18 +187,18 @@ $49.00
     $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
-    $28.00
-6. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+5. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
     $16.00
+6. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+    $28.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
-9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-10. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+10. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 
 [Top](#)
 
