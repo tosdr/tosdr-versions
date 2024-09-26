@@ -292,7 +292,7 @@ Meist verkaufte Produkte
     
 * [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
     
-    1,57 €\*
+    1,86 €\*
     
      1
     
@@ -635,4 +635,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=kifyobjvgrlvbkcfnwiagvsvhtvjjbdz&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=lzdqdbkbfkxpjaytimxnhjltzdlaimqw&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
