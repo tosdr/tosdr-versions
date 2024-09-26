@@ -171,32 +171,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Impact
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/deep_space_objects_young.jpg)](https://www.icr.org/article/deep-space-objects-are-young)
-
-[Deep-Space Objects Are Young](https://www.icr.org/article/deep-space-objects-are-young/)
-
-Secular astronomers claim our universe is unimaginably ancient—almost 14 billion years old. Yet the Bible clearly teaches that God created the...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/is_creation_ev_ambiguous.jpg)](https://www.icr.org/article/is-creation-evidence-ambiguous)
-
-[Is Creation Evidence Ambiguous?](https://www.icr.org/article/is-creation-evidence-ambiguous/)
-
-Is evidence for creation ambiguous? Could an honest seeker of truth reasonably conclude there is no God? Is the evolutionary old-earth story a reasonable...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/Ice_Core_Research_Continues.jpg)](https://www.icr.org/article/ice-core-research-continues/)
-
-[ICR Ice Core Research Continues](https://www.icr.org/article/ice-core-research-continues//)
-
-Creationists think the thick ice sheets of Greenland and Antarctica began forming just 4,500 years ago during a short Ice Age triggered by the Genesis...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
