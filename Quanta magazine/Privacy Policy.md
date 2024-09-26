@@ -297,17 +297,29 @@ _By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
 
 _By_ [Annie Melchor](https://www.quantamagazine.org/authors/amelchorsimonsfoundation-org)
 
+[![Illustration of a particle](https://www.quantamagazine.org/wp-content/uploads/2020/11/Particle_300.jpg)](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+
+[#### What Is a Particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+
+_By_ [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
+
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/09/EmbeddingsExplainer-crSamuelVelasco_KristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/how-embeddings-encode-what-words-mean-sort-of-20240918/)
 
 [#### How ‘Embeddings’ Encode What Words Mean — Sort Of](https://www.quantamagazine.org/how-embeddings-encode-what-words-mean-sort-of-20240918/)
 
 _By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
 
-[![Illustration of a particle](https://www.quantamagazine.org/wp-content/uploads/2020/11/Particle_300.jpg)](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+[![Scientists looking at globe of interconnected lights](https://www.quantamagazine.org/wp-content/uploads/2024/09/YesWeKans-crNicoRoper-Thumbnail.webp)](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 
-[#### What Is a Particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+[#### Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 
-_By_ [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
+_By_ [Steve Nadis](https://www.quantamagazine.org/authors/nadis_steven)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/PlanetWideResonance-crTomm-Parker-Thumbnail.webp)](https://www.quantamagazine.org/how-did-a-landslide-shake-the-earth-for-nine-days-20240912/)
+
+[#### The Search for What Shook the Earth for Nine Days Straight](https://www.quantamagazine.org/how-did-a-landslide-shake-the-earth-for-nine-days-20240912/)
+
+_By_ [Robin George Andrews](https://www.quantamagazine.org/authors/andrews_robin)
 
 The Quanta Newsletter
 
