@@ -1,4 +1,4 @@
-Thursday, September 26 2024
+Friday, September 27 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -182,7 +182,7 @@ Quick Guides
     
     [Trusts: A powerful financial planning tool for any net worth](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -214,7 +214,7 @@ Quick Guides
     
     [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
-    3 days ago
+    4 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
