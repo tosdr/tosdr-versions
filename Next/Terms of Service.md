@@ -1,6 +1,6 @@
 5.38.13
 
-1727362285294
+1727382573079
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1727360948101
+1727382275241
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1727361741741
+1727382531298
 
 You need to enable JavaScript to run this app.
 
@@ -554,22 +554,6 @@ The Dermalogica Gift will be automatically added to bag when you buy two selecte
 To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
 
 The Dermalogica Gift will be automatically added once 2 qualifying Dermalogica products have been added to the bag on either the Product or Shopping Bag Pages.
-
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
-
-This offer is not available to staff.
-
-Offer applies while stocks last.
-
-### Nars Promotion
-
-The Nars Gift will be automatically added to bag when you buy two selected Nars products. The Nars Gift contains:
-
-* Deluxe Blush in Orgasm Rush
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
-
-The Nars Gift will be automatically added once 2 qualifying Nars products have been added to the bag on either the Product or Shopping Bag Pages.
 
 The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
 
@@ -2547,7 +2531,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1727362163262
+1727382744905
 
 ### Our Social Networks
 
