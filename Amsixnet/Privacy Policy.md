@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-5.765 Tb/s
+8.35 Tb/s
 
 Peak
 
@@ -243,16 +243,9 @@ Email address : [info@ams-ix.net](mailto:info@ams-ix.net)
 Phone number : +31 20 305 89 99.  
 Chamber of Commerce number : 34128666
 
-#### Subscribe to our newsletter
-
 #### Got a question?
 
 Contact us
 
 © 2024 - Amsterdam Internet Exchange  [Responsible Disclosure Policy](https://www.ams-ix.net/ams/responsible-disclosure-policy)  [Mailing list code of conduct](https://www.ams-ix.net/ams/mailing-list-code-of-conduct)  [General Terms and Conditions](https://www.ams-ix.net/ams/documentation/general-terms-and-conditions)  [Privacy Policy](https://www.ams-ix.net/ams/documentation/privacy-policy)  [Email Disclaimer](https://www.ams-ix.net/ams/email-disclaimer)  [Cookie policy](https://www.ams-ix.net/ams/cookie-policy)   
 Trade register: 34128666
-
-* [](https://www.facebook.com/amsterdam.internet.exchange/)
-* [](https://www.youtube.com/user/VideoAMSIX/)
-* [](https://www.linkedin.com/company/ams-ix/)
-* [](https://twitter.com/ams_ix)
