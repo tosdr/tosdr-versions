@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» защитит детей от вовлечения в противоправные действия и от продажи баллончиков со сжиженным газом](https://cdn.er.ru/media/news/September2024/3H5GJ8dUuUk6M4NDBhMu-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zashitit-detej-ot-vovlecheniya-v-protivopravnye-dejstviya-i-ot-prodazhi-ballonchikov-so-szhizhennym-gazom)
+
+[«Единая Россия» защитит детей от вовлечения в противоправные действия и от продажи баллончиков со сжиженным газом](https://er.ru/activity/news/edinaya-rossiya-zashitit-detej-ot-vovlecheniya-v-protivopravnye-dejstviya-i-ot-prodazhi-ballonchikov-so-szhizhennym-gazom)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#безопасностьдетей](https://er.ru/activity/news?tags%5B0%5D=115744)
+
+Сегодня 11:25
+
+[![Надежда Школкина: По инициативе «Единой России» будут созданы равные конкурентные условия для всех участников рынка туристской индустрии](https://cdn.er.ru/media/news/September2024/WYroFOIPyRQVFBqELQUc-small.jpg)](https://er.ru/activity/news/nadezhda-shkolkina-po-iniciative-edinoj-rossii-budut-sozdany-ravnye-konkurentnye-usloviya-dlya-vseh-uchastnikov-rynka-turistskoj-industrii)
+
+[Надежда Школкина: По инициативе «Единой России» будут созданы равные конкурентные условия для всех участников рынка туристской индустрии](https://er.ru/activity/news/nadezhda-shkolkina-po-iniciative-edinoj-rossii-budut-sozdany-ravnye-konkurentnye-usloviya-dlya-vseh-uchastnikov-rynka-turistskoj-industrii)
+
+[#Школкина](https://er.ru/activity/news?tags%5B0%5D=6890) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#туристическаяинициатива](https://er.ru/activity/news?tags%5B0%5D=116677) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#услуги](https://er.ru/activity/news?tags%5B0%5D=3617) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+
+Сегодня 11:15
+
+[![По инициативе «Единой России» Правительство расширило возможности продажи лекарств в сельской местности](https://cdn.er.ru/media/news/September2024/BZKdY2bOv5MZvLF0YJev-small.jfif)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-pravitelstvo-rasshirilo-vozmozhnosti-prodazhi-lekarstv-v-selskoj-mestnosti)
+
+[По инициативе «Единой России» Правительство расширило возможности продажи лекарств в сельской местности](https://er.ru/activity/news/po-iniciative-edinoj-rossii-pravitelstvo-rasshirilo-vozmozhnosti-prodazhi-lekarstv-v-selskoj-mestnosti)
+
+[#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#лекарства](https://er.ru/activity/news?tags%5B0%5D=144) [#сельскаяместность](https://er.ru/activity/news?tags%5B0%5D=127958)
+
+Сегодня 10:30
+
+[![«Единая Россия» проводит в регионах единый день оказания юридической помощи](https://cdn.er.ru/media/news/September2024/FpuZQPAjiQICn9DxffL7-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-provodit-v-regionah-edinyj-den-okazaniya-yuridicheskoj-pomoshi)
+
+[«Единая Россия» проводит в регионах единый день оказания юридической помощи](https://er.ru/activity/news/edinaya-rossiya-provodit-v-regionah-edinyj-den-okazaniya-yuridicheskoj-pomoshi)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#НеделяприемовЕР](https://er.ru/activity/news?tags%5B0%5D=125243) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#общественныеприемные](https://er.ru/activity/news?tags%5B0%5D=130163) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
+
+Сегодня 09:00
+
 [![Владимир Гутенёв: «Единая Россия» обеспечила принятие важных для экономики страны законов в сфере несырьевого экспорта](https://cdn.er.ru/media/news/September2024/7ggaeQ1G6Q5XFBW4ekHB-small.jpg)](https://er.ru/activity/news/vladimir-gutenyov-edinaya-rossiya-obespechila-prinyatie-vazhnyh-dlya-ekonomiki-strany-zakonov-v-sfere-nesyrevogo-eksporta)
 
 [Владимир Гутенёв: «Единая Россия» обеспечила принятие важных для экономики страны законов в сфере несырьевого экспорта](https://er.ru/activity/news/vladimir-gutenyov-edinaya-rossiya-obespechila-prinyatie-vazhnyh-dlya-ekonomiki-strany-zakonov-v-sfere-nesyrevogo-eksporta)
@@ -312,38 +344,6 @@
 [Максим Топилин: «Единая Россия» укрепляет внешнеэкономические связи с дружественными странами для достижения поставленных Президентом национальных целей развития](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-ukreplyaet-vneshneekonomicheskie-svyazi-s-druzhestvennymi-stranami-dlya-dostizheniya-postavlennyh-prezidentom-nacionalnyh-celej-razvitiya)
 
 [#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госсовет](https://er.ru/activity/news?tags%5B0%5D=3625) [#экономика](https://er.ru/activity/news?tags%5B0%5D=116231) [#национальныецели](https://er.ru/activity/news?tags%5B0%5D=125834) [#ОЭЗ](https://er.ru/activity/news?tags%5B0%5D=3717) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#экспорт](https://er.ru/activity/news?tags%5B0%5D=1408)
-
-25.09.24
-
-[![В Госдуму внесен законопроект о запрете пропаганды чайлдфри](https://cdn.er.ru/media/news/September2024/GQhyPhvh8dZQYe9F7g60-small.jpg)](https://er.ru/activity/news/v-gosdumu-vnesen-zakonoproekt-o-zaprete-propagandy-chajldfri)
-
-[В Госдуму внесен законопроект о запрете пропаганды чайлдфри](https://er.ru/activity/news/v-gosdumu-vnesen-zakonoproekt-o-zaprete-propagandy-chajldfri)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Аиткулова](https://er.ru/activity/news?tags%5B0%5D=49842) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171)
-
-25.09.24
-
-[![«Единая Россия» обяжет УК отчитываться перед собственниками жилья](https://cdn.er.ru/media/news/September2024/dH5sXAYWH6AAXT9QYRbx-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-obyazhet-uk-otchityvatsya-pered-sobstvennikami-zhilya)
-
-[«Единая Россия» обяжет УК отчитываться перед собственниками жилья](https://er.ru/activity/news/edinaya-rossiya-obyazhet-uk-otchityvatsya-pered-sobstvennikami-zhilya)
-
-[#Разворотнева](https://er.ru/activity/news?tags%5B0%5D=11486) [#Качкаев](https://er.ru/activity/news?tags%5B0%5D=20587) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#УК](https://er.ru/activity/news?tags%5B0%5D=5380) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#отчетность](https://er.ru/activity/news?tags%5B0%5D=3743) [#ТСЖ](https://er.ru/activity/news?tags%5B0%5D=766)
-
-25.09.24
-
-[![Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://cdn.er.ru/media/news/September2024/pcvz2jvZOoMt86BPNWIr-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
-
-[Госдума приняла инициированный «Единой Россией» законопроект о запрете гражданам стран, где разрешена смена пола, усыновлять детей из России](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-o-zaprete-grazhdanam-stran-gde-razreshena-smena-pola-usynovlyat-detej-iz-rossii)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
-
-25.09.24
-
-[![Ирина Яровая: Законопроекты «Единой России» системно направлены на реализацию обозначенной Президентом стратегии по защите семьи](https://cdn.er.ru/media/news/September2024/LijuVd6xvuIjwji620Y1-small.jpg)](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-edinoj-rossii-sistemno-napravleny-na-realizaciyu-oboznachennoj-prezidentom-strategii-po-zashite-semi)
-
-[Ирина Яровая: Законопроекты «Единой России» системно направлены на реализацию обозначенной Президентом стратегии по защите семьи](https://er.ru/activity/news/irina-yarovaya-zakonoproekty-edinoj-rossii-sistemno-napravleny-na-realizaciyu-oboznachennoj-prezidentom-strategii-po-zashite-semi)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#сменапола](https://er.ru/activity/news?tags%5B0%5D=1094236) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180)
 
 25.09.24
 
