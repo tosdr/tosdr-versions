@@ -93,7 +93,7 @@ Best Selling Items
     
     Next day delivery
     
-    $139.98
+    $53.00
     
     Quantity  Add to cart
     
@@ -260,7 +260,7 @@ Discover the hottest items flying off the shelves.
     
     Next day delivery
     
-    $139.98
+    $53.00
     
     Quantity  Add to cart
     
