@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-5.765 Tb/s
+8.35 Tb/s
 
 Peak
 
@@ -252,16 +252,9 @@ Article 11. Amendment to these conditions
 
 AMS-IX B.V. is authorized to make modifications and/or additions to these AMS-IX General Terms and Conditions. The amended conditions will come into effect on the stipulated commencement date. If no commencement date has been communicated, the amendments will come into effect in relation to the contracting party as soon as the contracting party is notified of the amended conditions. Such notification may be done by posting the amended conditions on the website of AMS-IX.
 
-#### Subscribe to our newsletter
-
 #### Got a question?
 
 Contact us
 
 © 2024 - Amsterdam Internet Exchange  [Responsible Disclosure Policy](https://www.ams-ix.net/ams/responsible-disclosure-policy)  [Mailing list code of conduct](https://www.ams-ix.net/ams/mailing-list-code-of-conduct)  [General Terms and Conditions](https://www.ams-ix.net/ams/documentation/general-terms-and-conditions)  [Privacy Policy](https://www.ams-ix.net/ams/documentation/privacy-policy)  [Email Disclaimer](https://www.ams-ix.net/ams/email-disclaimer)  [Cookie policy](https://www.ams-ix.net/ams/cookie-policy)   
 Trade register: 34128666
-
-* [](https://www.facebook.com/amsterdam.internet.exchange/)
-* [](https://www.youtube.com/user/VideoAMSIX/)
-* [](https://www.linkedin.com/company/ams-ix/)
-* [](https://twitter.com/ams_ix)
