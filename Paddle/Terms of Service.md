@@ -1,6 +1,6 @@
 WebinarLearn how to execute a web2app strategy to drive more revenue   [Join us live](https://paddle.com/events/webinars/app-monetization-2.0-and-whats-next-for-consumer-subscription-apps?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q3_core_web_monetization_gp_bullhound_sept25&utm_content=homepage-banner "Join us")
 
-[](https://www.paddle.com/)
+[![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
 Products
 
@@ -152,7 +152,7 @@ Find answers to your questions about buying products and services from Paddle](h
 
 [Get started](https://www.paddle.com/get-started)
 
-[](https://www.paddle.com/)
+[![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
 Products[Billing](https://www.paddle.com/billing)[ProfitWell Metrics](https://www.paddle.com/profitwell-metrics)[Price Intelligently](https://www.paddle.com/price-intelligently)[Retain](https://www.paddle.com/retain)
 
@@ -597,7 +597,7 @@ This Agreement shall be governed by and construed in accordance with the law of 
 
 [Why has Paddle charged me?](https://www.paddle.com/about/why-has-paddle-charged-me)[Merchant of record explained](https://www.paddle.com/blog/what-is-merchant-of-record)
 
-[All services operational Platform status](https://status.paddle.com/)
+ [![Operational](/_next/static/media/operational.261815b5.svg) Platform status](https://status.paddle.com/)
 
 Products[Billing](https://www.paddle.com/billing)[ProfitWell Metrics](https://www.paddle.com/profitwell-metrics)[Price Intelligently](https://www.paddle.com/price-intelligently)[Retain](https://www.paddle.com/retain)
 
@@ -609,9 +609,9 @@ Company[About us](https://www.paddle.com/about)[CareersWe're hiring](https://www
 
 Compare[Stripe](https://www.paddle.com/compare/stripe)[Lemon Squeezy](https://www.paddle.com/compare/lemon-squeezy)[FastSpring](https://www.paddle.com/compare/fastspring)[Chargebee](https://www.paddle.com/compare/chargebee)[Avalara](https://www.paddle.com/compare/avalara)[Digital River](https://www.paddle.com/compare/digital-river)
 
-[](https://www.paddle.com/)
+[![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
-[](https://linkedin.com/company/paddle)[](https://twitter.com/PaddleHQ)[](https://www.youtube.com/@PaddleHQ)[](https://www.glassdoor.co.uk/Overview/Working-at-Paddle-EI_IE988509.11,17.htm)
+[](https://linkedin.com/company/paddle)[](https://x.com/PaddleHQ)[](https://www.youtube.com/@PaddleHQ)[](https://www.glassdoor.co.uk/Overview/Working-at-Paddle-EI_IE988509.11,17.htm)
 
 Paddle.com Market Ltd. © 2012—2024
 
