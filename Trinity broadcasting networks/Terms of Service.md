@@ -8,7 +8,7 @@ Search
 
 Header icons menu
 
-* [Donate](https://www.tbn.org/ambassador/give "Donate to TBN today!")
+* [Donate](https://www.tbn.org/give/donate "Donate to TBN today!")
 * [Prayer](https://www.tbn.org/prayer "All prayers will be prayed over by TBN's Prayer staff...")
 * [Contact Us](https://www.tbn.org/contact "Contact TBN today!")
 * [TBN Shop](https://shop.tbn.org/)
@@ -66,7 +66,7 @@ Main navigation
 
 Header icons menu
 
-* [Donate](https://www.tbn.org/ambassador/give "Donate to TBN today!")
+* [Donate](https://www.tbn.org/give/donate "Donate to TBN today!")
 * [Prayer](https://www.tbn.org/prayer "All prayers will be prayed over by TBN's Prayer staff...")
 * [Contact Us](https://www.tbn.org/contact "Contact TBN today!")
 * [TBN Shop](https://shop.tbn.org/)
