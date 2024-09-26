@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [U.S. assaults surge as Trump’s hate escalates](https://independentaustralia.net/article-display/us-assaults-surge-as-trumps-hate-escalates,19000 "Permanent Link : U.S. assaults surge as Trump’s hate escalates")
+* [EDITORIAL: The Murdoch family distrust](https://independentaustralia.net/article-display/editorial-the-murdoch-family-distrust,19011 "Permanent Link : EDITORIAL: The Murdoch family distrust")
+* [Mining industry launches brazen attack on Government](https://independentaustralia.net/article-display/mining-industry-launches-brazen-attack-on-government,19010 "Permanent Link : Mining industry launches brazen attack on Government")
 * [Albanese's move to protect kids from social media 'problematic'](https://independentaustralia.net/article-display/albaneses-move-to-protect-kids-from-social-media-problematic,19009 "Permanent Link : Albanese's move to protect kids from social media 'problematic'")
 * [New book affirms need to save humanity from climate crisis](https://independentaustralia.net/article-display/new-book-affirms-need-to-save-humanity-from-climate-crisis,19008 "Permanent Link : New book affirms need to save humanity from climate crisis")
 * [The Netherlands: Europe’s digital powerhouse](https://independentaustralia.net/article-display/the-netherlands-europes-digital-powerhouse,19007 "Permanent Link : The Netherlands: Europe’s digital powerhouse")
 * [Make the Pets Great Again](https://independentaustralia.net/article-display/make-the-pets-great-again,19006 "Permanent Link : Make the Pets Great Again")
-* [Courier Mail's LNP relationship smacks of hypocrisy](https://independentaustralia.net/article-display/courier-mails-lnp-relationship-smacks-of-hypocrisy,19005 "Permanent Link : Courier Mail's LNP relationship smacks of hypocrisy")
-* [The Trump/Harris debate: Implications of both arguments](https://independentaustralia.net/article-display/the-trumpharris-debate-implications-of-both-arguments,19004 "Permanent Link : The Trump/Harris debate: Implications of both arguments")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
