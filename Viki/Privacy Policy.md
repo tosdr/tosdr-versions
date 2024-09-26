@@ -168,7 +168,7 @@ As used in this Policy, “Personal Information” is information that identifie
             
             We may use your Personal Information to comply with our legal obligations, in connection with legal proceedings, to assert, protect or defend our or a third party’s legal rights, or to perform public statutory duties we are subject to.
             
-4. HOW WE SHARE PERSONAL INFORMATION
+4. **HOW WE SHARE PERSONAL INFORMATION**
     1. We may disclose your Personal Information for business purposes to the following parties:
         1. Service providers
             
@@ -188,7 +188,7 @@ As used in this Policy, “Personal Information” is information that identifie
             
             Rakuten Group, Inc. is Rakuten Viki’s parent company. We work closely with our affiliated businesses and companies that fall under the Rakuten Group family (together, “Rakuten Affiliates”). We may share your data with Rakuten Affiliates for internal business administration purposes within the Rakuten Group.
             
-            In addition, the Rakuten Group aims to provide you with a common service experience through the “Rakuten ID”, a program that enables you to use the same log-in credentials with any participating Rakuten Group services you use. Viki will securely share your account credentials with the Rakuten ID program for future account authentication purposes, according to the terms explained in the Rakuten ID Privacy Policy here: [https://corp.rakuten.co.jp/privacy/en/rakuten-id.html](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html) , for use if you choose to connect to another Rakuten ID participating service in addition to the Rakuten Viki Service.
+            In addition, the Rakuten Group aims to provide you with a common service experience through the “Rakuten ID”, a program that enables you to use the same log-in credentials with any participating Rakuten Group services you use. Viki will securely share your account credentials with the Rakuten ID program for future account authentication purposes, according to the terms explained in the Rakuten ID Privacy Policy here: [https://corp.rakuten.co.jp/privacy/en/rakuten-id.html](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html), for use if you choose to connect to another Rakuten ID participating service in addition to the Rakuten Viki Service.
             
         5. Law enforcement agencies, courts, regulators and government authorities
             
@@ -210,7 +210,7 @@ As used in this Policy, “Personal Information” is information that identifie
         
         The Rakuten Viki Service may contain links to other third-party websites that we neither control nor own. We encourage you to be aware of when you are visiting these other third-party websites and to understand their privacy statements, as we have no control over, and assume no responsibility for the data collection, privacy practices or the content of any of these third-party sites you may choose to visit.
         
-5. YOUR CHOICES AND YOUR RIGHTS OVER YOUR PERSONAL INFORMATION
+5. **YOUR CHOICES AND YOUR RIGHTS OVER YOUR PERSONAL INFORMATION**
     1. Your choices
         
         You may in some cases have the option to decline providing us with certain Personal Information, and you are not required to provide any Personal Information to us that is unnecessary for us to provide the Rakuten Viki Service to you. However, choosing not to provide information may impact your use of certain optional features or the Rakuten Viki Service. Please find below some choices you have over your Personal Information:
@@ -231,7 +231,7 @@ As used in this Policy, “Personal Information” is information that identifie
             
     2. Your Privacy rights
         
-        You may have certain rights regarding Personal Information based on where you reside (“Privacy Rights”), in accordance with applicable law and limitations, as described below. If you would like to exercise such rights, send us an email at [privacy@viki.com](mailto:privacy@viki.com), or if you are a resident of certain U.S. states, by using the web form [here](https://docs.google.com/forms/d/e/1FAIpQLScc7DvNdohyifLieWNF7V2ZqNIAJXHGkDD-lIrDT8vubBhKoA/viewform?usp=sf_link) , and ensure to include the statement “Your U.S. State Privacy Rights” in the body of your request. Privacy rights requests will be honored within the time required by local law, which varies among jurisdictions. An agent may submit requests on your behalf, provided you or your agent provide proof that the agent is authorized to act on your behalf. Please note that we may require additional information from you in order to verify your identity and honor your requests.
+        You may have certain rights regarding Personal Information based on where you reside (“Privacy Rights”), in accordance with applicable law and limitations, as described below. If you would like to exercise such rights, send us an email at [privacy@viki.com](mailto:privacy@viki.com), or if you are a resident of certain U.S. states, by using the web form [here](https://docs.google.com/forms/d/e/1FAIpQLScc7DvNdohyifLieWNF7V2ZqNIAJXHGkDD-lIrDT8vubBhKoA/viewform?usp=sf_link), and ensure to include the statement “Your U.S. State Privacy Rights” in the body of your request. Privacy rights requests will be honored within the time required by local law, which varies among jurisdictions. An agent may submit requests on your behalf, provided you or your agent provide proof that the agent is authorized to act on your behalf. Please note that we may require additional information from you in order to verify your identity and honor your requests.
         
         1. General Privacy Rights, including the right to request to:
             1. **Know or confirm** that we are processing personal data concerning you, including the categories of personal data, the purposes of processing, and the categories of recipients to whom we disclose it or in some cases the list of specific third parties to whom we disclosed personal data;
@@ -264,7 +264,7 @@ As used in this Policy, “Personal Information” is information that identifie
     
 7. **INTERNATIONAL DATA TRANSFERS**
     
-    Please note that your Personal Information may need to be transferred to, stored and/or processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. We may transfer to, store and/or otherwise process your Personal Information in the United States, Japan, Singapore, South Korea, Brazil, Netherlands and India. In such cases, we will require the recipient to provide appropriate protection for the Personal Information disclosed to it in compliance with applicable data protection laws. As part of the Rakuten Group, we rely on Rakuten’s EU Binding Corporate Rules and UK Binding Corporate Rules to safeguard international data transfers of EU and UK Personal Information within the group. Rakuten’s EU Binding Corporate Rules have been approved by the CNPD, the Data Protection Authority of Luxembourg and the UK Binding Corporate Rules have been approved by the ICO, the Data Protection Authority of the UK. The aforementioned Binding Corporate Rules can be found at [https://corp.rakuten.co.jp/privacy/en/bcr.html](https://corp.rakuten.co.jp/privacy/en/bcr.html) .
+    Please note that your Personal Information may need to be transferred to, stored and/or processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. We may transfer to, store and/or otherwise process your Personal Information in the United States, Japan, Singapore, South Korea, Brazil, Netherlands and India. In such cases, we will require the recipient to provide appropriate protection for the Personal Information disclosed to it in compliance with applicable data protection laws. As part of the Rakuten Group, we rely on Rakuten’s EU Binding Corporate Rules and UK Binding Corporate Rules to safeguard international data transfers of EU and UK Personal Information within the group. Rakuten’s EU Binding Corporate Rules have been approved by the CNPD, the Data Protection Authority of Luxembourg and the UK Binding Corporate Rules have been approved by the ICO, the Data Protection Authority of the UK. The aforementioned Binding Corporate Rules can be found at [https://corp.rakuten.co.jp/privacy/en/bcr.html](https://corp.rakuten.co.jp/privacy/en/bcr.html).
     
 8. **SECURITY**
     
@@ -288,7 +288,7 @@ As used in this Policy, “Personal Information” is information that identifie
     
     If you have questions or concerns regarding the way in which your Personal Information has been used, feel free to contact our Data Protection Officer by email at [privacy@viki.com](mailto:privacy@viki.com). If you are seeking general assistance on Viki (including seeking a refund), please contact us [here](https://support.viki.com/hc/en-us).
     
-    We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your data protection authority. In relation to EU users, your applicable data protection authority is listed at: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en) .
+    We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your data protection authority. In relation to EU users, your applicable data protection authority is listed at: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
     
 
 ![Rakuten Viki](https://1.viki.io/a/vwk8s/_next/static/images/rakuten-viki-horizontal-white.c2156eedbe0.svg)
