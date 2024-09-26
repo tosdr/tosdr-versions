@@ -187,7 +187,7 @@ close mobile menu
         * [Leasing](https://www.gsa.gov/real-estate/real-estate-services/leasing?topnav=real-estate)
         * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/overview?topnav=real-estate)
         * [Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-program?topnav=real-estate)
-        * [Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rental-policy-and-procedures?topnav=real-estate)
+        * [Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rent-pricing-and-payments?topnav=real-estate)
         * [Site selection and relocation](https://www.gsa.gov/real-estate/real-estate-services/site-selection-relocation?topnav=real-estate)
         * [For businesses seeking opportunities](https://www.gsa.gov/real-estate/real-estate-services/for-businesses-seeking-opportunities?topnav=real-estate)
         * [For federal customers](https://www.gsa.gov/real-estate/real-estate-services/for-federal-customers?topnav=real-estate)
@@ -609,7 +609,7 @@ Real estate expand menu
 
 [Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-program?topnav=real-estate)
 
-[Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rental-policy-and-procedures?topnav=real-estate)
+[Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rent-pricing-and-payments?topnav=real-estate)
 
 [Site selection and relocation](https://www.gsa.gov/real-estate/real-estate-services/site-selection-relocation?topnav=real-estate)
 
