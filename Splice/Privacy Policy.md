@@ -13,7 +13,7 @@
 * [YouTube](https://www.youtube.com/channel/UCb8xLPa5RP8TnCsU7E5ASKQ)
 * [Instagram](https://www.instagram.com/splice/)
 
-* [Jobs](https://worklife.splice.com/)
+* [Jobs](https://splice.com/worklife)
 * [Terms](https://splice.com/terms)
 * [Privacy Policy](https://splice.com/privacy-policy)
 
