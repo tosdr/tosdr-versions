@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/09/driver-web-platform-main-02.jpg)
+
+[Technology](https://theinspirationgrid.com/category/technology-2/)[UX & UI Design](https://theinspirationgrid.com/category/ui-design/)
+
+[](https://theinspirationgrid.com/editorial/this-new-platform-is-making-premium-websites-affordable-for-everyone/)
+
+### This New Platform is Making Premium Websites Affordable for Everyone
+
 ![](https://inspgr.id/app/uploads/2024/09/gaomon-pd1320-pen-display-review-main-image.jpg)
 
 [Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/elevate-your-design-career-call-for-entries-to-the-a-design-award-competition/)
 
 ### Elevate Your Design Career: Call for Entries to the A’ Design Award & Competition
-
-![](https://inspgr.id/app/uploads/2024/09/review-jsaux-modcase-ally-x-feature.jpg)
-
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
-
-[](https://theinspirationgrid.com/editorial/jsaux-rog-ally-x-modcase-review-killswitch-killer/)
-
-### JSAUX ROG Ally X ModCase Review: Killswitch Killer?
 
 #want
 -----
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/art-qimmy-shimmy-feature.jpg)
+
+[](https://theinspirationgrid.com/unsettling-sculptures-by-qimmyshimmy/)
+
+### Creepy-Cute: Unsettling Sculptures by QimmyShimmy
+
+![](https://inspgr.id/app/uploads/2024/09/illustration-xnj-feature.jpg)
+
+[](https://theinspirationgrid.com/delicate-illustrations-by-xnj/)
+
+### Delicate Illustrations by XNJ
+
 ![](https://inspgr.id/app/uploads/2024/09/branding-the-fabric-museum-feature.jpg)
 
 [](https://theinspirationgrid.com/fabric-museum-a-rebrand-art-installation-project-by-jocelyn-zhao/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/pop-culture-inspired-portraits-by-jovana-randjelovic/)
 
 ### Pop Culture-Inspired Portraits by Jovana Randjelovic
-
-![](https://inspgr.id/app/uploads/2024/09/art-mohsen-yeganeh-feature.jpg)
-
-[](https://theinspirationgrid.com/upcycled-animal-sculptures-by-mohsen-heydari-yeganeh/)
-
-### Upcycled Animal Sculptures by Mohsen Heydari Yeganeh
-
-![](https://inspgr.id/app/uploads/2024/09/packaging-daroma-studio-feature.jpg)
-
-[](https://theinspirationgrid.com/gorgeous-packaging-design-by-daroma-studio/)
-
-### Gorgeous Packaging Design by D’Aroma Studio
 
 Awesome products for creatives
 ------------------------------
