@@ -552,11 +552,23 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 of the best destinations for an island hopping adventure](https://media.restless.co.uk/uploads/2024/05/the-best-destinations-for-an-island-hopping-adventure-768x288.jpg)](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/)
+
+### [10 of the best destinations for an island hopping adventure](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/) 
+
+[Read More »](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/)
+
 [![Looking for a European escape? Here are 10 holiday properties in beautiful locations](https://media.restless.co.uk/uploads/2024/09/looking-for-a-european-escape-here-are-10-holiday-properties-in-beautiful-locations-768x289.jpg)](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
 
 ### [Looking for a European escape? Here are 10 holiday properties in beautiful locations](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
 
 [Read More »](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
+
+[![7 locations that offer great value luxury](https://media.restless.co.uk/uploads/2024/09/locations-that-offer-great-value-luxury-768x482.jpg)](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
+
+### [7 locations that offer great value luxury](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
+
+[Read More »](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
 [![7 gorgeous Indian Ocean holiday destinations](https://media.restless.co.uk/uploads/2023/07/gorgeous-indian-ocean-holiday-destinations-768x498.jpg)](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
 
@@ -575,18 +587,6 @@ New in travel
 ### [7 dreamy cruise destinations for 2025](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
 
 [Read More »](https://restless.co.uk/travel/dreamy-cruise-destinations-for-2025/)
-
-[![10 enriching UK breaks](https://media.restless.co.uk/uploads/2024/09/enriching-uk-breaks-e1726831157473-768x384.jpg)](https://restless.co.uk/travel/enriching-uk-breaks/)
-
-### [10 enriching UK breaks](https://restless.co.uk/travel/enriching-uk-breaks/)
-
-[Read More »](https://restless.co.uk/travel/enriching-uk-breaks/)
-
-[![Journey to the extraordinary - 10 tours that defy imagination](https://media.restless.co.uk/uploads/2024/09/journey-to-the-extraordinary-tours-that-defy-imagination-768x337.jpg)](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
-
-### [Journey to the extraordinary – 10 tours that defy imagination](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
-
-[Read More »](https://restless.co.uk/travel/journey-to-the-extraordinary-tours-that-defy-imagination/)
 
 Popular travel guides
 ---------------------
