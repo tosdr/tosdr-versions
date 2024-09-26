@@ -172,11 +172,11 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Statuses updated and a keyboard](https://f-droid.org/en/2024/09/26/twif.html) Sep 26, 2024
 * [TL;DR: News about 571 apps](https://f-droid.org/en/2024/09/19/twif.html) Sep 19, 2024
 * [Encode your nostalgia](https://f-droid.org/en/2024/09/12/twif.html) Sep 12, 2024
 * [Voice your updates](https://f-droid.org/en/2024/09/05/twif.html) Sep 05, 2024
 * [It's all about self-hosting it](https://f-droid.org/en/2024/08/29/twif.html) Aug 29, 2024
-* [Playing with old apps](https://f-droid.org/en/2024/08/22/twif.html) Aug 22, 2024
 
 ### Last Updated
 
@@ -210,4 +210,4 @@ Stay organized with one plaintext file per day.](https://f-droid.org/en/packages
 
 Strawberry is strawberry, strawberry 🍓🍓🍓](https://f-droid.org/en/packages/straw.berry/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-09-26, fdroid-website [2.267](https://gitlab.com/fdroid/fdroid-website/tree/0706e61086)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-26, fdroid-website [2.268](https://gitlab.com/fdroid/fdroid-website/tree/9ad1e2992a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
