@@ -38,10 +38,6 @@
     * [Datenschutz](https://www.cyon.ch/ueber-cyon/datenschutz)
     * [Infrastruktur](https://www.cyon.ch/ueber-cyon/infrastruktur)
     
-    Tools
-    
-    * [Meet](https://www.cyon.ch/tools/meet)
-    
     * [Jobs](https://www.cyon.ch/ueber-cyon/jobs)
     * [Blog](https://www.cyon.ch/blog)
     
@@ -99,10 +95,6 @@ cyon
 * [Infrastruktur](https://www.cyon.ch/ueber-cyon/infrastruktur)
 * [Jobs](https://www.cyon.ch/ueber-cyon/jobs)
 * [Blog](https://www.cyon.ch/blog)
-
-Tools
-
-* [Meet](https://www.cyon.ch/tools/meet)
 
 Aus unserem Blog
 
@@ -641,7 +633,6 @@ zu einem besseren Ort.
 * [Infrastruktur](https://www.cyon.ch/ueber-cyon/infrastruktur)
 * [Jobs](https://www.cyon.ch/ueber-cyon/jobs)
 * [Blog](https://www.cyon.ch/blog)
-* [Meet](https://www.cyon.ch/tools/meet)
 
 #### Rechtliches
 
@@ -679,7 +670,6 @@ zu einem besseren Ort.
 * [Infrastruktur](https://www.cyon.ch/ueber-cyon/infrastruktur)
 * [Jobs](https://www.cyon.ch/ueber-cyon/jobs)
 * [Blog](https://www.cyon.ch/blog)
-* [Meet](https://www.cyon.ch/tools/meet)
 
 #### Rechtliches
 
