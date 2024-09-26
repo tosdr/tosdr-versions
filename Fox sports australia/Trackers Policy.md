@@ -14,21 +14,19 @@ FOX SCORES
 * NHL
 * US Sports
 
-* Netball
+* Cricket
     
-* [Women's Tests
-    
-    Full Time
+* [WNCL
     
     |     |     |
     | --- | --- |
-    | AUS | 69  |
-    | ENG | 56  |
+    | WA  | 215 |
+    | TAS | 5 /113 |
     
-    Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240103)
-* Cricket
-    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250102)
 * [One-Day Cup
+    
+    Match Abandoned
     
     |     |     |
     | --- | --- |
@@ -36,16 +34,6 @@ FOX SCORES
     | SA  |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250105)
-* [WNCL
-    
-    26/9 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | WA  | –   |
-    | TAS | –   |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250102)
 * AFL
     
 * [AFL
@@ -900,7 +888,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
