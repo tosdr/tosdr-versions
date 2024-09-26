@@ -10,7 +10,7 @@ English (United States)English (United Kingdom)English (Canada)English (Australi
 
 * Products
 * Solutions
-* [Customers](https://www.verkada.com/customers)
+* [Customers](https://www.verkada.com/customers/)
 * Resources
 * Partners
 
@@ -485,5 +485,5 @@ Singapore
 * [](https://www.youtube.com/channel/UCZFmcvgMgDn0d8cfqCLf55w)
 
 * [Legal Center](http://legal.verkada.com/)
-* [Privacy Center](https://www.verkada.com/privacy/privacy-policy)
+* [Privacy Center](https://www.verkada.com/privacy/privacy-policy/)
 * [Terms of Service](https://www.verkada.com/terms-of-service/)
