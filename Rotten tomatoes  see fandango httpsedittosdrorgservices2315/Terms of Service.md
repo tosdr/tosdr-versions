@@ -128,7 +128,6 @@ New & Coming soon
 
 ### Editorial Features
 
-* [Summer Movie Guide](https://www.fandango.com/movies/summer)
 * [Indie Movie Guide](https://www.fandango.com/movies/indie)
 * [Family Guide](https://www.fandango.com/movies/family)
 * [House Of Screams](https://www.fandango.com/movies/horror)
