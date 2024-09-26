@@ -403,11 +403,11 @@ Help
 
 [Site Map](https://www.bunq.com/assets/media/legal/en/sitemap)
 
-© 2024 bunq
-
-[Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+[© 2024 bunq](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
+
+[Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 Cookie Settings
 
@@ -481,11 +481,11 @@ Help
 
 [Site Map](https://www.bunq.com/assets/media/legal/en/sitemap)
 
-© 2024 bunq
-
-[Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+[© 2024 bunq](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
+
+[Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 Cookie Settings
 
@@ -559,11 +559,11 @@ Help
 
 [Site Map](https://www.bunq.com/assets/media/legal/en/sitemap)
 
-© 2024 bunq
-
-[Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+[© 2024 bunq](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
+
+[Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 Cookie Settings
 
