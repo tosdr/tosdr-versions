@@ -283,9 +283,9 @@ We Champion Freedom & Self-Reliance
 
  [](#)
 
-[⚡ \[Limited-Time\] Buy 1, Get 2 FREE 72-Hour Food Kits
+[💧 Buy 2-Pack Ultimate Water Filtration System & Get $250 in FREE Gifts
 
-Shop Now >>](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_hello_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=hello&utm_term=4p&nb_klid=%7B%7B)
+Shop Now >>](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system?position=hellobar&pdp=uwf)
 
 Enter some text...
 
