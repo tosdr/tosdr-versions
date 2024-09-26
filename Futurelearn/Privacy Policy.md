@@ -718,6 +718,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![environmental scientist](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-91-150x150.png)](https://www.futurelearn.com/info/blog/environmental-science-degree-guide)
+    
+    [A complete guide to environmental science degrees](https://www.futurelearn.com/info/blog/environmental-science-degree-guide)
+    -----------------------------------------------------------------------------------------------------------------------------
+    
+    Thinking about taking an environmental science degree to learn specialist knowledge and improve your career …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
 * [FutureLearn Launches Its B2B Social Campaign](https://www.futurelearn.com/info/press/futurelearn-launches-its-b2b-social-campaign)
     -----------------------------------------------------------------------------------------------------------------------------------
     
@@ -742,15 +751,6 @@ Powered By
     Thinking about taking an online data science degree to learn specialist knowledge and improve your …
     
     Category: [Data Science](https://www.futurelearn.com/info/data-science), [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![two students in class](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-88-150x150.png)](https://www.futurelearn.com/info/blog/embrace-multilingual-education)
-    
-    [How to embrace multilingual education](https://www.futurelearn.com/info/blog/embrace-multilingual-education)
-    -------------------------------------------------------------------------------------------------------------
-    
-    In this blog, we’ll explore why it’s important to actively promote multilingual education to nurture …
-    
-    Category: [Teaching](https://www.futurelearn.com/info/educators/teaching)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
