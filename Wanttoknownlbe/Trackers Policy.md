@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/mark-rutte-de-essentiele-vragen-voor-je-onderste-steen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/betaalt-equador-het-imf-assange-losgeld/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
