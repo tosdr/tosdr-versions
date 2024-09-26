@@ -507,6 +507,7 @@ XVI. General
 * [Resources](javascript:void(0);)
     * [Resource Center](https://www.domaintools.com/resources/)
         * [API Documentation](https://www.domaintools.com/resources/api-documentation/)
+        * [Events](https://www.domaintools.com/events/)
     * [Support and Learning](https://www.domaintools.com/support/)
 
 * [Rss](https://domaintools.com/rss "Rss")
