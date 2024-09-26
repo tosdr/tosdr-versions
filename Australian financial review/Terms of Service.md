@@ -333,15 +333,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Gold Dinner chairwoman Monica Saunders-Weinberg and her husband and committee member Richard Weinberg. ](https://static.ffx.io/images/$zoom_0.9354%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_862%2C$y_399/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6768821934ce4c875a82d82c50676ced061e85c5)](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
+[![Plans for Arthurs Seat Eagle include a new observation tower.](https://static.ffx.io/images/$zoom_0.138%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6b3de9508bc8f6db3053fec0e55c46ef59dfcd2e)](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
 
-### [How the wealthy daughters of Westfield co-founder John Saunders invest](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
+### [Adrenaline rush, light and sound show planned for Mornington cable car](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
 
-* Primrose Riordan and Ronald Mizen
+* Larry Schlesinger
 
-* ### [Rich Lister wealth secrets revealed after 30-year loophole ends](https://www.afr.com/wealth/people/rich-lister-wealth-secrets-revealed-after-30-year-loophole-ends-20240923-p5kcuw)
+* ### [How the wealthy daughters of Westfield co-founder John Saunders invest](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
     
-* ### [Why the Pratts are fighting over the family fortune](https://www.afr.com/companies/manufacturing/why-the-pratts-are-fighting-over-the-family-fortune-20240925-p5kdc1)
+* ### [Rich Lister wealth secrets revealed after 30-year loophole ends](https://www.afr.com/wealth/people/rich-lister-wealth-secrets-revealed-after-30-year-loophole-ends-20240923-p5kcuw)
     
 
 [The Australian Financial Review](https://www.afr.com/)
