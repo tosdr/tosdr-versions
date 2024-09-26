@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/war-is-a-racket/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/oorlog-tegen-drugs-blijkt-compleet-bedrog/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
