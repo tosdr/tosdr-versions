@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Who do i file a complaint with about a home health aide?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-do-i-file-a-complaint-with-about-a-home-health-aide-scaled.jpg "Who Do I File a Complaint With About a Home Health Aide?")](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/ "Who Do I File a Complaint With About a Home Health Aide?")
+[![Alternative ovarian cancer treatments](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-alternative-ovarian-cancer-treatments.jpg "Alternative Ovarian Cancer Treatments")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/ "Alternative Ovarian Cancer Treatments")
 
-[#### Who Do I File a Complaint With About a Home Health Aide?](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/)
+[#### Alternative Ovarian Cancer Treatments](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/)
 
-[![Do you need a lung transplant if you have mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-do-you-need-a-lung-transplant-if-you-have-mesothelioma.jpg "Do You Need a Lung Transplant if You Have Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/ "Do You Need a Lung Transplant if You Have Mesothelioma?")
+[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
 
-[#### Do You Need a Lung Transplant if You Have Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/)
+[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
 
-[![Has sex abuse happened in mormon schools?](https://www.pintas.com/wp-content/uploads/2023/04/mche-lee-PC91Jm1DlWA-unsplash-300x225.jpg "Has Sex Abuse Happened in Mormon Schools?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/ "Has Sex Abuse Happened in Mormon Schools?")
+[![How are medical bills paid after a car accident?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-how-are-medical-bills-paid-after-a-car-accident.jpg "How Are Medical Bills Paid After a Car Accident?")](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/ "How Are Medical Bills Paid After a Car Accident?")
 
-[#### Has Sex Abuse Happened in Mormon Schools?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/)
+[#### How Are Medical Bills Paid After a Car Accident?](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
