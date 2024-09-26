@@ -368,8 +368,6 @@ If You have any questions about these Terms or otherwise need to contact us for 
 Suite 95997  
 Wilmington, Delaware 19802-4447
 
-[](tel:)
-
 ##### Products
 
 Onboarding
