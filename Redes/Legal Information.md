@@ -96,7 +96,7 @@ El plazo de presentación de las solicitudes se realiza a través de la sede ele
 
 [La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar-para-acceder-bonos "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado")
 
-![Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Nueva.png?h=a6aa1fcb&itok=tGYD7QUa)   
+![](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20Digital%20notiweb%20sin%20copy3.png?h=16b33b25&itok=so9cKbxQ)   
 
 Noticia
 
@@ -106,7 +106,15 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros d
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
-![](/sites/redes/files/styles/ratio_1_1/public/media/images/visita%20almendralejo%20iria%204.jpg?h=0803a682&itok=FyiBiEOD)   
+![Jesús Herrero y Luis Palomo en el 38º Encuentro de AMETIC](/sites/redes/files/styles/ratio_1_1/public/media/images/presentacion%20ejecucion%20red.es_.jpg?h=247a4fce&itok=zRbJoFIf)   
+
+Noticia
+
+Transformación Digital PYMES
+
+Red.es aumenta un 400% su ejecución económica en los últimos tres años
+
+[Red.es aumenta un 400% su ejecución económica en los últimos tres años](http://red.es/es/actualidad/noticias/redes-aumenta-un-400-su-ejecucion-economica- "Ir al contenido de: Red.es aumenta un 400% su ejecución económica en los últimos tres años")
 
 Noticia
 
@@ -123,14 +131,6 @@ Internacionalización
 Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital
 
 [Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital](http://red.es/es/actualidad/noticias/desafia-nordicos-segunda-edicion-startups-salud-digital "Ir al contenido de: Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital")
-
-Noticia
-
-Internacionalización
-
-Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
-
-[Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
