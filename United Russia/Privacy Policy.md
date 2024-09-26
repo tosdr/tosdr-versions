@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Женское движение Единой России» организовало онлайн-сессию политшколы, посвящённую анализу проведения выборных кампаний](https://cdn.er.ru/media/news/September2024/VSy2qCadTv9gDaijDcKt-small.jpg)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-organizovalo-onlajn-sessiyu-politshkoly-posvyashyonnuyu-analizu-provedeniya-vybornyh-kampanij)
+
+[«Женское движение Единой России» организовало онлайн-сессию политшколы, посвящённую анализу проведения выборных кампаний](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-organizovalo-onlajn-sessiyu-politshkoly-posvyashyonnuyu-analizu-provedeniya-vybornyh-kampanij)
+
+[#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#профобразование](https://er.ru/activity/news?tags%5B0%5D=44) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001)
+
+Сегодня 17:45
+
+[![Госдума приняла в первом чтении законопроект «Единой России» о запрете продажи несовершеннолетним товаров со сжиженным газом](https://cdn.er.ru/media/news/September2024/MNrZKPswB2p5e2TsSglo-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-prodazhi-nesovershennoletnim-tovarov-so-szhizhennym-gazom)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о запрете продажи несовершеннолетним товаров со сжиженным газом](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-prodazhi-nesovershennoletnim-tovarov-so-szhizhennym-gazom)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
+
+Сегодня 14:36
+
+[![Александр Сидякин: Георгий Филимонов оправдает кредит доверия, который ему выразили вологжане](https://cdn.er.ru/media/news/September2024/dQEz1eCuTvWzp03Xv5ZR-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-georgij-filimonov-opravdaet-kredit-doveriya-kotoryj-emu-vyrazili-vologzhane)
+
+[Александр Сидякин: Георгий Филимонов оправдает кредит доверия, который ему выразили вологжане](https://er.ru/activity/news/aleksandr-sidyakin-georgij-filimonov-opravdaet-kredit-doveriya-kotoryj-emu-vyrazili-vologzhane)
+
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Филимонов](https://er.ru/activity/news?tags%5B0%5D=13401) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#Вологодская область](https://er.ru/activity/news?tags%5B0%5D=4193)
+
+Сегодня 14:25
+
+[![Госдума приняла в первом чтении инициированный «Единой России» законопроект о регулировании туристической деятельности](https://cdn.er.ru/media/news/September2024/nIPyim5D4v0rlBtJI7WJ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-iniciirovannyj-edinoj-rossii-zakonoproekt-o-regulirovanii-turisticheskoj-deyatelnosti)
+
+[Госдума приняла в первом чтении инициированный «Единой России» законопроект о регулировании туристической деятельности](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-iniciirovannyj-edinoj-rossii-zakonoproekt-o-regulirovanii-turisticheskoj-deyatelnosti)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кривоносов](https://er.ru/activity/news?tags%5B0%5D=17107) [#туризм](https://er.ru/activity/news?tags%5B0%5D=350) [#развитиетуризма](https://er.ru/activity/news?tags%5B0%5D=122267) [#туристическаяотрасль](https://er.ru/activity/news?tags%5B0%5D=151838) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 14:11
+
+[![«Единая Россия»: Участниками проекта «Менделеевская карта» станут более 4 тысяч призёров и победителей олимпиады «Я — профессионал»](https://cdn.er.ru/media/news/September2024/qpyQCr5vO3q9x5PqjwBK-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-uchastnikami-proekta-mendeleevskaya-karta-stanut-bolee-4-tysyach-prizyorov-i-pobeditelej-olimpiady-ya-professional)
+
+[«Единая Россия»: Участниками проекта «Менделеевская карта» станут более 4 тысяч призёров и победителей олимпиады «Я — профессионал»](https://er.ru/activity/news/edinaya-rossiya-uchastnikami-proekta-mendeleevskaya-karta-stanut-bolee-4-tysyach-prizyorov-i-pobeditelej-olimpiady-ya-professional)
+
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Менделеевскаякарта](https://er.ru/activity/news?tags%5B0%5D=1093824) [#ученые](https://er.ru/activity/news?tags%5B0%5D=1314) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#олимпиады](https://er.ru/activity/news?tags%5B0%5D=5441)
+
+Сегодня 13:30
+
 [![«Единая Россия» защитит детей от вовлечения в противоправные действия и от продажи баллончиков со сжиженным газом](https://cdn.er.ru/media/news/September2024/3H5GJ8dUuUk6M4NDBhMu-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zashitit-detej-ot-vovlecheniya-v-protivopravnye-dejstviya-i-ot-prodazhi-ballonchikov-so-szhizhennym-gazom)
 
 [«Единая Россия» защитит детей от вовлечения в противоправные действия и от продажи баллончиков со сжиженным газом](https://er.ru/activity/news/edinaya-rossiya-zashitit-detej-ot-vovlecheniya-v-protivopravnye-dejstviya-i-ot-prodazhi-ballonchikov-so-szhizhennym-gazom)
@@ -306,46 +346,6 @@
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#безопасностьдетей](https://er.ru/activity/news?tags%5B0%5D=115744)
 
 Сегодня 11:25
-
-[![Надежда Школкина: По инициативе «Единой России» будут созданы равные конкурентные условия для всех участников рынка туристской индустрии](https://cdn.er.ru/media/news/September2024/WYroFOIPyRQVFBqELQUc-small.jpg)](https://er.ru/activity/news/nadezhda-shkolkina-po-iniciative-edinoj-rossii-budut-sozdany-ravnye-konkurentnye-usloviya-dlya-vseh-uchastnikov-rynka-turistskoj-industrii)
-
-[Надежда Школкина: По инициативе «Единой России» будут созданы равные конкурентные условия для всех участников рынка туристской индустрии](https://er.ru/activity/news/nadezhda-shkolkina-po-iniciative-edinoj-rossii-budut-sozdany-ravnye-konkurentnye-usloviya-dlya-vseh-uchastnikov-rynka-turistskoj-industrii)
-
-[#Школкина](https://er.ru/activity/news?tags%5B0%5D=6890) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#туристическаяинициатива](https://er.ru/activity/news?tags%5B0%5D=116677) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#услуги](https://er.ru/activity/news?tags%5B0%5D=3617) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
-
-Сегодня 11:15
-
-[![По инициативе «Единой России» Правительство расширило возможности продажи лекарств в сельской местности](https://cdn.er.ru/media/news/September2024/BZKdY2bOv5MZvLF0YJev-small.jfif)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-pravitelstvo-rasshirilo-vozmozhnosti-prodazhi-lekarstv-v-selskoj-mestnosti)
-
-[По инициативе «Единой России» Правительство расширило возможности продажи лекарств в сельской местности](https://er.ru/activity/news/po-iniciative-edinoj-rossii-pravitelstvo-rasshirilo-vozmozhnosti-prodazhi-lekarstv-v-selskoj-mestnosti)
-
-[#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#лекарства](https://er.ru/activity/news?tags%5B0%5D=144) [#сельскаяместность](https://er.ru/activity/news?tags%5B0%5D=127958)
-
-Сегодня 10:30
-
-[![«Единая Россия» проводит в регионах единый день оказания юридической помощи](https://cdn.er.ru/media/news/September2024/FpuZQPAjiQICn9DxffL7-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-provodit-v-regionah-edinyj-den-okazaniya-yuridicheskoj-pomoshi)
-
-[«Единая Россия» проводит в регионах единый день оказания юридической помощи](https://er.ru/activity/news/edinaya-rossiya-provodit-v-regionah-edinyj-den-okazaniya-yuridicheskoj-pomoshi)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#НеделяприемовЕР](https://er.ru/activity/news?tags%5B0%5D=125243) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#общественныеприемные](https://er.ru/activity/news?tags%5B0%5D=130163) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
-
-Сегодня 09:00
-
-[![Владимир Гутенёв: «Единая Россия» обеспечила принятие важных для экономики страны законов в сфере несырьевого экспорта](https://cdn.er.ru/media/news/September2024/7ggaeQ1G6Q5XFBW4ekHB-small.jpg)](https://er.ru/activity/news/vladimir-gutenyov-edinaya-rossiya-obespechila-prinyatie-vazhnyh-dlya-ekonomiki-strany-zakonov-v-sfere-nesyrevogo-eksporta)
-
-[Владимир Гутенёв: «Единая Россия» обеспечила принятие важных для экономики страны законов в сфере несырьевого экспорта](https://er.ru/activity/news/vladimir-gutenyov-edinaya-rossiya-obespechila-prinyatie-vazhnyh-dlya-ekonomiki-strany-zakonov-v-sfere-nesyrevogo-eksporta)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Гутенев](https://er.ru/activity/news?tags%5B0%5D=1092616) [#промышленность](https://er.ru/activity/news?tags%5B0%5D=1335) [#экспорт](https://er.ru/activity/news?tags%5B0%5D=1408) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
-
-25.09.24
-
-[![Максим Топилин: «Единая Россия» укрепляет внешнеэкономические связи с дружественными странами для достижения поставленных Президентом национальных целей развития](https://cdn.er.ru/media/news/September2024/bIQitDcDp2INQDlrWqsl-small.jpg)](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-ukreplyaet-vneshneekonomicheskie-svyazi-s-druzhestvennymi-stranami-dlya-dostizheniya-postavlennyh-prezidentom-nacionalnyh-celej-razvitiya)
-
-[Максим Топилин: «Единая Россия» укрепляет внешнеэкономические связи с дружественными странами для достижения поставленных Президентом национальных целей развития](https://er.ru/activity/news/maksim-topilin-edinaya-rossiya-ukreplyaet-vneshneekonomicheskie-svyazi-s-druzhestvennymi-stranami-dlya-dostizheniya-postavlennyh-prezidentom-nacionalnyh-celej-razvitiya)
-
-[#Топилин](https://er.ru/activity/news?tags%5B0%5D=10362) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госсовет](https://er.ru/activity/news?tags%5B0%5D=3625) [#экономика](https://er.ru/activity/news?tags%5B0%5D=116231) [#национальныецели](https://er.ru/activity/news?tags%5B0%5D=125834) [#ОЭЗ](https://er.ru/activity/news?tags%5B0%5D=3717) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#экспорт](https://er.ru/activity/news?tags%5B0%5D=1408)
-
-25.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
