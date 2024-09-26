@@ -26,7 +26,7 @@
 Brigit Terms of Service
 =======================
 
-(Last revised January 17, 2024)
+(Last revised September 26, 2024)
 
 The following terms of use are a legal agreement (the “Agreement”) between you (“you”, “your”, or “user”) and Bridge IT, Inc., its subsidiaries, affiliates, agents, and assigns (“Brigit”, “we”, “us”, or “our”) that sets forth the terms and conditions for your use of Brigit’s website located at \[www.hellobrigit.com\] and/or the products and services offered, operated or made available by Brigit, including but not limited to its mobile applications (collectively, the “Services”).
 
@@ -105,17 +105,17 @@ Grandfather Provision: Brigit Plus members who subscribed to Brigit Plus before 
 
 #### 7.2.1. Subscription Membership Fee for Premium Features
 
-Brigit Plus is subject to a subscription fee that ranges from $5.99 to $9.99 per month. Brigit Premium is subject to a subscription fee of $14.99 per month. We require that you link a Bank Account or debit card (a “Payment Method”) for payment of the Membership Fee (the subscription fee). We will automatically charge your Payment Method for the Membership Fee every month on your last payday of the month unless or until you cancel your membership or your Brigit User Account is otherwise terminated. Upcoming dates upon which you will be charged for subsequent Membership Fees will also be displayed in the app.
+Brigit Plus is subject to a subscription fee that ranges from $5.99 to $9.99 per month. Brigit Premium is subject to a subscription fee of $14.99 per month. Subscription fees are subject to change. We require that you link a Bank Account or debit card (a “Payment Method”) for payment of the Membership Fee (the subscription fee). We will automatically charge your Payment Method for the Membership Fee every month on your last payday of the month. You can cancel any time after which you will not be charged for subsequent months. You will still be charged on the last payday of the month in which you cancel. Upcoming dates upon which you will be charged for subsequent Membership Fees will also be displayed in the app.
 
 Brigit will do its best to collect the Membership Fee when you have the funds available to pay the Membership Fee. Brigit will attempt to avoid charging you for your Membership Fee if we detect that your Payment Method does not have sufficient funds to cover the charge. If our attempt to charge you for the Membership Fee is declined, Brigit reserves the right to try again for up to 14 business days.
 
-If payment is being made via debit card, we may try at different times of the day in accordance with network regulations. If the payment is made via ACH, we will make up to two (2) additional attempts, for a total of three (3) debit attempts in line with ACH limitations. After that, Brigit will not attempt without a subsequent authorization from you. This may result in a change of date for which you are billed for each period.
+If payment is being made via debit card, we may try at different times of the day in accordance with network regulations. If the payment is made via ACH, we will make up to two (2) additional attempts, for a total of three (3) debit attempts in line with ACH limitations. After that, Brigit will not attempt without a subsequent authorization from you. This may result in a change to the date when you are billed for each period.
 
 Brigit monitors your balance and does its best effort to ensure you have sufficient funds before debiting your account, but the company makes no warranties that an overdraft will not occur.
 
 The Membership Fee may be discounted from time to time by our customer service team, or through partnerships with affiliates. The discounted price will be for a limited time which will be disclosed to you at the time the discount is given.
 
-#### 7.2.2.Credit and Debit Authorization For Brigit Subscription Membership
+#### 7.2.2. Credit and Debit Authorization For Brigit Subscription Membership 
 
 Consistent with Section 7.2.1, if you enroll in a Brigit Subscription Membership, you authorize Brigit to electronically debit your Payment Method for the Membership Fee once each month. As applicable, you also authorize Brigit to electronically debit and credit your Payment Method to correct erroneous debits and credits. You have the right to receive notice of any debit for the Membership Fee that would vary in amount from a previous Membership Fee, but you agree that we only need to notify you in advance if a particular debit from your Payment Method would be more than $9.99 for Brigit Plus or $14.99 for Brigit Premium. (Our policy is that no single debit will exceed $9.99 or $14.99 depending on your membership type, so we expect not to provide you with advance notice of each ongoing debit from your Payment Method.)
 
@@ -179,7 +179,7 @@ Once we receive a notice of your dispute, we and our partners will conduct a rea
 
 When you sign up for one of Brigit’s Subscription Memberships, you may elect to receive one or more non-recourse Advances (each, an “Advance”) from Brigit. You can obtain Advances from Brigit in several different ways. Keep in mind that you must qualify for an Advance each time an Advance request is made whether that is through the Autopilot Feature or a manual request.
 
-First, you may choose to enroll in automatic Advances to prevent overdrafts (the “Autopilot Feature”). The Autopilot Feature enables you to automatically obtain an Advance from Brigit when needed. Specifically, if Brigit’s algorithm predicts that you are likely to require funds in order to avoid an overdraft, Brigit’s Autopilot Feature will advance you a preauthorized amount of funds (the “Needed Amount”) to cover your overdraft. You may be eligible for a Needed Amount of up to $250; the Needed Amount for which you are approved will be displayed to you through the Services. Brigit will inform you of any Needed Amount transfer via text message and email. You can turn off the Autopilot Feature within the app at any time.
+First, you may choose to enroll in automatic Advances to prevent overdrafts (the “Autopilot Feature”). The Autopilot Feature enables you to automatically obtain an Advance from Brigit when needed. Specifically, if Brigit’s algorithm predicts that you are likely to require funds in order to avoid an overdraft, Brigit’s Autopilot Feature will advance you a preauthorized amount of funds (the “Needed Amount”) to cover your overdraft. You may be eligible for a Needed Amount of $50–$250; the Needed Amount for which you are approved will be displayed to you through the Services. Brigit will inform you of any Needed Amount transfer via text message and email. You can turn off the Autopilot Feature within the app at any time.
 
 Second, you may manually request the Needed Amount or an Advance amount less than the Needed Amount from Brigit at any time by selecting the Advance amount and preferred delivery method within the app. Please note that you cannot request an Advance if you already have an Advance outstanding.
 
@@ -255,7 +255,7 @@ Brigit may, from time to time, offer rewards programs. The specific terms of any
 10\. Cancellation of Brigit Subscription Membership
 ---------------------------------------------------
 
-If you wish to cancel your Brigit Subscription you may do so on the Brigit website. You may cancel your Brigit Subscription regardless of whether you have an outstanding Instant Cash Advance and you can close your Credit Builder account at anytime with no cost. You must cancel before your subscription is charged in order to avoid billing for the subsequent month. You may also cancel your subscription membership at any time by emailing [\[email protected\]](https://www.hellobrigit.com/cdn-cgi/l/email-protection).
+If you wish to cancel your Brigit Subscription you may do so on the Brigit App or on the Brigit website. You may also cancel your subscription membership at any time by emailing [\[email protected\]](https://www.hellobrigit.com/cdn-cgi/l/email-protection). You may cancel your Brigit Subscription regardless of whether you have an outstanding Instant Cash Advance and you can close your Credit Builder account at anytime to avoid charges for future months. You will still be charged for the month that you cancelled in. You will lose access to Cash Advances, Credit Builder Loan , Credit Monitoring and Identity Theft Protection after canceling. All other benefits will continue through the end of the term in which you canceled. After cancellation, Brigit will still charge your payment method for Advance repayment as provided for in Section 7.5 of these Terms.
 
 11\. Termination
 ----------------
