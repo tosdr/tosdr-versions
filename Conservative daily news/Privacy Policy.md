@@ -2,14 +2,14 @@ Thursday, September 26 2024
 
 Breaking News
 
+* [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
+* [Feds Indict New York City Mayor Eric Adams: REPORT](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
+* [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
+* [GOP Sen Demands Merrick Garland Fork Over Communications Related To Jack Smith’s Latest Trump Indictment](https://www.conservativedailynews.com/2024/09/gop-sen-demands-merrick-garland-fork-over-communications-related-to-jack-smiths-latest-trump-indictment/)
+* [Does Diversity Unite Or Divide](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
 * [Maine/New Hampshire Reps Don’t Protect Women](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
 * [President Joe Biden’s Schedule for Thursday, September 26, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
 * [Biden Pretends To Kill Bug When Whoopi Goldberg Compares Trump To One Following Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
-* [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
-* [Illegal Migrant Arrested For Killing Girlfriend Less Than Four Months After Biden-Harris Admin Released Him Into US](https://www.conservativedailynews.com/2024/09/illegal-migrant-arrested-for-killing-girlfriend-less-than-four-months-after-biden-harris-admin-released-him-into-us/)
-* [Catholic Group Warns Harris Is Not The ‘Lesser Evil’](https://www.conservativedailynews.com/2024/09/catholic-group-warns-harris-is-not-the-lesser-evil/)
-* [House Judiciary Committee Unable To Locate Nathan Wade To Testify In Fani Willis Investigation](https://www.conservativedailynews.com/2024/09/house-judiciary-committee-unable-to-locate-nathan-wade-to-testify-in-fani-willis-investigation/)
-* [House Passes Short-Term Spending Bill, Setting Stage For Possible Pre-Holiday Fight](https://www.conservativedailynews.com/2024/09/house-passes-short-term-spending-bill-setting-stage-for-possible-pre-holiday-fight/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,42 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Donald Trump after assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5218-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
+    
+    [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
+    
+    September 26, 2024
+    
+* [![San Antonio dentist sentenced to 30 years for producing child sexual abuse material following HSI, local partner investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/01/San-Antonio-dentist-sentenced-to-30-years-for-producing-child-220x150.jpg)](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
+    
+    [Feds Indict New York City Mayor Eric Adams: REPORT](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
+    
+    September 26, 2024
+    
+* [![Democrat City crime violence](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
+    
+    [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
+    
+    September 26, 2024
+    
+* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/gop-sen-demands-merrick-garland-fork-over-communications-related-to-jack-smiths-latest-trump-indictment/)
+    
+    [GOP Sen Demands Merrick Garland Fork Over Communications Related To Jack Smith’s Latest Trump Indictment](https://www.conservativedailynews.com/2024/09/gop-sen-demands-merrick-garland-fork-over-communications-related-to-jack-smiths-latest-trump-indictment/)
+    
+    September 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5617-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
+    
+    [Does Diversity Unite Or Divide](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
+    
+    September 26, 2024
+    
+* [![Filibuster big government](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/necessary-restraint/)
+    
+    [Necessary Restraint](https://www.conservativedailynews.com/2024/09/necessary-restraint/)
+    
+    September 26, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans/)
     
     [Biden-Harris Immigration Policies Waste Billions That Should Be Spent on Americans](https://www.conservativedailynews.com/2024/09/biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans/)
@@ -138,55 +174,19 @@ Recent Posts
     
     September 26, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/clean-simple-220x150.jpg)](https://www.conservativedailynews.com/2024/09/simplifying-is-simply-fabulous/)
-    
-    [Simplifying is Simply Fabulous](https://www.conservativedailynews.com/2024/09/simplifying-is-simply-fabulous/)
-    
-    September 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5616-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
-    
-    [Maine/New Hampshire Reps Don’t Protect Women](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
-    
-    September 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/No-unions-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-admin-calls-on-railroad-giants-to-give-workers-benefit-that-it-tanked-years-ago/)
-    
-    [Biden-Harris Admin Calls On Railroad Giants To Give Workers Benefit That It Tanked Years Ago](https://www.conservativedailynews.com/2024/09/biden-harris-admin-calls-on-railroad-giants-to-give-workers-benefit-that-it-tanked-years-ago/)
-    
-    September 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/07/Wikipedia-Logo.jpg)](https://www.conservativedailynews.com/2024/09/wikipedia-donations-go-toward-embedding-feminism-and-racial-justice-in-worlds-largest-encyclopedia/)
-    
-    [Wikipedia Donations Go Toward Embedding Feminism And Racial Justice In World’s Largest Encyclopedia](https://www.conservativedailynews.com/2024/09/wikipedia-donations-go-toward-embedding-feminism-and-racial-justice-in-worlds-largest-encyclopedia/)
-    
-    September 26, 2024
-    
-* [![Joe Biden 16 gun shooting](https://www.conservativedailynews.com/wp-content/uploads/2021/01/Joe-Biden-16-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
-    
-    [President Joe Biden’s Schedule for Thursday, September 26, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
-    
-    September 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Child-shocked.png)](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
-    
-    [Biden Pretends To Kill Bug When Whoopi Goldberg Compares Trump To One Following Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
-    
-    September 26, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Kamala Harris Issues First Executive Order on Gun Control with Joe Biden](https://www.thegunpage.com/kamala-harris-issues-first-executive-order-on-gun-control-with-joe-biden/10610832)
+* [F.A.B. Defense Introduces The Ultimag G2 Windowless M16/AR15 Magazine](https://www.thegunpage.com/f-a-b-defense-introduces-the-ultimag-g2-windowless-m16-ar15-magazine/10610831) 
+* [Savage Arms Adds New AC350 to AccuCan Suppressor Line](https://www.thegunpage.com/savage-arms-adds-new-ac350-to-accucan-suppressor-line/10610829)
+* [Kalashnikov Presents The New Belt-Fed RPL-20 Light Machine Gun At ADEX](https://www.thegunpage.com/kalashnikov-presents-the-new-belt-fed-rpl-20-light-machine-gun-at-adex/10610825)
+* [Fresno Gun Stores Owners Blame California Laws, Taxes, And The Economy For Shutdowns](https://www.thegunpage.com/fresno-gun-stores-owners-blame-california-laws-taxes-and-the-economy-for-shutdowns/10610824)
+* [New: Savage Arms Revel Rimfire Lever-Action Rifles](https://www.thegunpage.com/new-savage-arms-revel-rimfire-lever-action-rifles/10610833)
+* [TFB Behind the Gun #134: Pondering the XM7 and the 6.8x51mm w/ Darwin](https://www.thegunpage.com/tfb-behind-the-gun-134-pondering-the-xm7-and-the-6-8x51mm-w-darwin/10610826)
+* [Texas AG Appeals Court Decision Upholding State Fair Carry Ban](https://www.thegunpage.com/texas-ag-appeals-court-decision-upholding-state-fair-carry-ban/10610821)
+* [10 Great Photos From The 2024 NRA National Precision Pistol Championships](https://www.thegunpage.com/10-great-photos-from-the-2024-nra-national-precision-pistol-championships/10610827)
 * [Good Fellowship, Good Shooting: 1954 National Matches](https://www.thegunpage.com/good-fellowship-good-shooting-1954-national-matches/10610817)
-* [Classic SSUSA: High Power Silhouette Rifles](https://www.thegunpage.com/classic-ssusa-high-power-silhouette-rifles/10610818)
-* [The History of PKM, the Most Common Machine Gun In the World (Part 1)](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-1/10610814)
-* [Wheelgun Wednesday: Top 3 Griz Guns That Could SAVE Your Life](https://www.thegunpage.com/wheelgun-wednesday-top-3-griz-guns-that-could-save-your-life/10610815)
-* [XS Sights Offers Easy Install Night Sights for S&W and Ruger Revolvers](https://www.thegunpage.com/xs-sights-offers-easy-install-night-sights-for-sw-and-ruger-revolvers/10610812)
-* [POTD: The Tombstone – Suppressed 9mm Lever Gun](https://www.thegunpage.com/potd-the-tombstone-suppressed-9mm-lever-gun/10610816)
-* [Not Oppressive Enough: Cali Approves More Gun Laws](https://www.thegunpage.com/not-oppressive-enough-cali-approves-more-gun-laws/10610811)
-* [Maryland’s Red Flag Law Challenged in State Supreme Court](https://www.thegunpage.com/marylands-red-flag-law-challenged-in-state-supreme-court/10610807)
-* ["Hand of God" Revolver From 3:10 to Yuma Up For Auction](https://www.thegunpage.com/hand-of-god-revolver-from-310-to-yuma-up-for-auction/10610810)
-* [Comps are All the Rage! NEW Springfield Armory Echelon Comp 4.5F 9mm](https://www.thegunpage.com/comps-are-all-the-rage-new-springfield-armory-echelon-comp-4-5f-9mm/10610805)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
