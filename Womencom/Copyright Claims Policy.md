@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+*  [![](https://www.women.com/img/gallery/5-practical-magic-inspired-nail-ideas-with-impeccable-autumn-vibes/intro-1727206271.jpg)](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [5 Reese Witherspoon Outfits That Prove She's The Queen Of The Black Dress](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
-    =================================================================================================================================================================
+    [5 Practical Magic Inspired Nail Ideas With Impeccable Autumn Vibes](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+    ============================================================================================================================================
     
-    Reese Witherspoon has never met an LBD she didn't like. Here are 5 times she took the classic look and made it her own.
+    Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+    By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
     
-* *  [![Purple celestial nails](https://www.women.com/img/gallery/5-practical-magic-inspired-nail-ideas-with-impeccable-autumn-vibes/intro-1727206271.jpg)](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+* *  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [5 Practical Magic Inspired Nail Ideas With Impeccable Autumn Vibes](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+        ### [5 Reese Witherspoon Outfits That Prove She's The Queen Of The Black Dress](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
         
-        Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
+        Reese Witherspoon has never met an LBD she didn't like. Here are 5 times she took the classic look and made it her own.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+        By Emily Hutchinson [Read More](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
         
     *  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
@@ -102,7 +102,7 @@ More Stories
     
     ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
     
-    Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
+    Katie Holmes' style enforces her penchant for polished looks. However, its her distinct approach to dressing that makes her stand out among her famous peers.
     
     By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
     
@@ -114,7 +114,7 @@ More Stories
     
     ### [The Secret Lives Of Mormon Wives Is Teaching Us How To Spot Friendship Red Flags](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
-    The Hulu reality series has reminded us all that no friendship is perfect, but if you're not careful about setting boundaries, things can border on toxic.
+    The Hulu reality series reminds us there's no such thing as a perfect friendship. However, it also serves as a cautionary tale for how toxic things can become.
     
     By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
