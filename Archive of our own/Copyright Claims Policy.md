@@ -48,6 +48,10 @@ Remember Me
 * Work Search  tip: lex m/m (mature OR explicit) 
     
 
+> We're aware that many users are experiencing frequent forced logouts and errors. Our apologies for the inconvenience! Our volunteers are working on the problem - it isn't necessary to report it to our Support team. For some suggestions that might help reduce how often you are logged out or receive errors, please visit our [Known Issues page](https://archiveofourown.org/known_issues#current).
+
+[×](https://archiveofourown.org/dmca?hide_banner=true&view_adult=true "hide banner")
+
 DMCA Policy
 -----------
 
