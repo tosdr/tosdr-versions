@@ -750,6 +750,6 @@ If you do not change your preference here, your current preference, (as indicate
 
 [FSCS.org.uk](https://www.fscs.org.uk/ "fscs")
 
-Copyright © National Westminster Bank plc 2024. Registered office: 250 Bishopsgate, London, EC2M 4AA.
+Copyright © National Westminster Bank plc . Registered office: 250 Bishopsgate, London, EC2M 4AA.
 
 Opens in a new window
