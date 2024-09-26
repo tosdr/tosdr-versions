@@ -51,33 +51,33 @@ Search
 
 * Top articles
     
-    * [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
     
 
 #### Top articles
 
-* [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
 
 1. [](https://en-americas-support.nintendo.com/app/home "Support Home")
-2. [Other Topics](https://en-americas-support.nintendo.com/app/products/detail/p/171/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+2. [Other Topics](https://en-americas-support.nintendo.com/app/products/detail/p/171/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
 
 Intellectual Property Policy
 ============================
@@ -119,29 +119,29 @@ Yes No
 
 * Top articles
     
-    * [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
-    * [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+    * [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
         
     
 
 #### Top articles
 
-* [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [Nintendo Documents & Policies](https://en-americas-support.nintendo.com/app/answers/detail/a_id/48057/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [My Nintendo Store Order Support - Shipping & Processing](https://en-americas-support.nintendo.com/app/answers/detail/a_id/15575/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [How to Report Potential Infringements of Nintendo Products](https://en-americas-support.nintendo.com/app/answers/detail/a_id/50131/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [Nintendo Hours and Holidays](https://en-americas-support.nintendo.com/app/answers/detail/a_id/54583/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
-* [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzE5NDM2L2dlbi8xNzI3MzE5NDM2L3NpZC9mVXVuR2pEeWFIWk9UJTdFNWt4MGl4OGQ0Q3VsN3c2eDNUdU5TeV9LdV9WNUJJWmxLVVhhaXVvcUxBdkZJUVc2QWslN0U1WEg2VjdYN1dVcTVxJTdFeEpWeHFjX3VDMWEyUWtHU0ZiakpWZGJMNkZ0bURkeEtuU2lEQnVQRkElMjElMjE=)
+* [Community Tournament Guidelines](https://en-americas-support.nintendo.com/app/answers/detail/a_id/63433/session/L2F2LzEvdGltZS8xNzI3MzQxMDAxL2dlbi8xNzI3MzQxMDAxL3NpZC9mVVNvX2hKMl92UFZsWjhPTEFXQ3BZZXF5bXl2YVUzTVJ0ZkpHZ2p6c29rRzRmZUtvWDAzeTlQbHlOMTZDN280bVM3djBTZDhmR2JzRlFoU0RIMkJzZzdHSkdZWklOS1Y4Tnh5Y2psb0N6VHRIbEZwSVlQM2l5RWclMjElMjE=)
     
 
 * ### [About Nintendo](https://www.nintendo.com/us/about/)
