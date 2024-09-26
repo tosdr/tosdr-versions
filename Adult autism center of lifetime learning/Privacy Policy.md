@@ -1,6 +1,6 @@
 [![Adult Autism Center](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Adult Autism Center](/wp-content/uploads/2023/08/Adult-Ability-Center-Logos-WEB-768x415.png.webp)](https://adultautismcenter.org/)
+![Adult Autism Center](/wp-content/uploads/2023/08/Adult-Ability-Center-Logos-WEB-768x415.png)](https://adultautismcenter.org/)
 
 [Donate](https://adultautismcenter.org/donate/)
 
@@ -71,7 +71,7 @@ Valley Behavioral Health uses only industry best practices (physical, electronic
 
 ![Adult Ability Center of Lifetime Learning](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Adult Ability Center of Lifetime Learning](/wp-content/uploads/2023/08/Adult-Ability-Center-Logos-WEB-1024x553.png.webp)
+![Adult Ability Center of Lifetime Learning](/wp-content/uploads/2023/08/Adult-Ability-Center-Logos-WEB-1024x553.png)
 
 The Adult Autism Center is the first of its kind in Utah. It is an extension of the evidence-based treatment we provide at the existing Pingree Center and the program utilizes strategies of applied behavior analysis (ABA) for providing treatment.
 
