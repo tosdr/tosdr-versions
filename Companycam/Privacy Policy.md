@@ -226,13 +226,13 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_September-Craft.png?auto=format&w=280)
+        
+        [The FAQ Class](https://companycam.com/classes/the-faq-class)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_August-Craft.png?auto=format&w=280)
         
         [All About CompanyCam Checklists](https://companycam.com/classes/all-about-companycam-checklists)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
-        
-        [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
         
     
     ### Contact Support
@@ -522,13 +522,13 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_September-Craft.png?auto=format&w=280)
+        
+        [The FAQ Class](https://companycam.com/classes/the-faq-class)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_August-Craft.png?auto=format&w=280)
         
         [All About CompanyCam Checklists](https://companycam.com/classes/all-about-companycam-checklists)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
-        
-        [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
         
     
     ### Contact Support
