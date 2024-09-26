@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[Helene is now a Category 2 Hurricane](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
+[Helene is now a Category 3, conditions worsening across SWFL](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
 
 Privacy Policy
 ==============
