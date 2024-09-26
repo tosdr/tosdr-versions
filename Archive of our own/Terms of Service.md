@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: hetalia f/f sort:kudos 
+* Work Search  tip: arthur merlin words>1000 sort:hits 
     
 
 > We're aware that many users are experiencing frequent forced logouts and errors. Our apologies for the inconvenience! Our volunteers are working on the problem - it isn't necessary to report it to our Support team. For some suggestions that might help reduce how often you are logged out or receive errors, please visit our [Known Issues page](https://archiveofourown.org/known_issues#current).
