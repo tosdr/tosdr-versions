@@ -118,6 +118,11 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
+* [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
+    
+    Amy Winehouse: What Really Happened
+    
+    Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
 * [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
     
     Very Young Girls
@@ -128,39 +133,34 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![National Security Alert](/wp-content/thumbnails/933-100x70.jpg?x53432)
-    
-    National Security Alert
-    
-    In 2006 Citizen Investigation Team launched an independent investigation into the act of terrorism which took place at the Pentagon on September 11, 2001. This exhaustive three-year inquest involved ...](https://documentaryheaven.com/national-security-alert/ "National Security Alert")
 
 ###### Throwback Documentaries
 
-* [![The Origins of Christmas](/wp-content/thumbnails/1004-100x70.jpg?x53432)
+* [![The Highlanders](/wp-content/thumbnails/6663-100x70.png?x53432)
     
-    The Origins of Christmas
+    The Highlanders
     
-    Centuries and centuries before Christ was born, Romans, Mesopotamians, Carthaginians, Balkans, Germans and Scandinavians held huge celebrations on or near December 25th to welcome the return of the su](https://documentaryheaven.com/the-origins-of-christmas/ "The Origins of Christmas")
-* [![Body Farms](/wp-content/thumbnails/14587-100x70.jpg?x53432)
+    A Discovery Channel documentary that takes a look at the Scottish Highlanders.](https://documentaryheaven.com/the-highlanders/ "The Highlanders")
+* [![Japans Wild Secrets](/wp-content/thumbnails/9919-100x70.jpg?x53432)
     
-    Body Farms
+    Japans Wild Secrets
     
-    Since 1980, there have been over 250,000 recorded unsolved homicides in the United States, the number of missing persons and unidentified remains has been described as "the nations's silent mass disas](https://documentaryheaven.com/body-farms/ "Body Farms")
-* [![Copenhagen Fall Out](/wp-content/thumbnails/1970-100x70.jpg?x53432)
+    Japan, both fast and furious but outside it's neon cities lies an untamed wilderness, forest filled islands, massive mountains and billowing active volcanos. A fantastic variety of animals inhabit the](https://documentaryheaven.com/japans-wild-secrets/ "Japans Wild Secrets")
+* [![The Gettys: A Tragedy Of Riches](/wp-content/thumbnails/13928-100x70.jpg?x53432)
     
-    Copenhagen Fall Out
+    The Gettys: A Tragedy Of Riches
     
-    During World War II, there were mounting fears that Hitler was building an atomic bomb. Such a prospect depended on two of the world’s top nuclear scientists: brilliant German physicist Werner Heisenb](https://documentaryheaven.com/copenhagen-fall-out/ "Copenhagen Fall Out")
-* [![Interview with a Poltergeist](/wp-content/thumbnails/8167-100x70.png?x53432)
+    Once upon a time there was a man so rich, that in order to count out his money by noted dollar bills it would have taken a whole lifetime. Behind the walls of his English county house he lived as best](https://documentaryheaven.com/gettys-tragedy-riches/ "The Gettys: A Tragedy Of Riches")
+* [![The Man Who Knew Too Much](/wp-content/thumbnails/16626-100x70.jpg?x53432)
     
-    Interview with a Poltergeist
+    The Man Who Knew Too Much
     
-    The Enfield Poltergeist was a period of apparent poltergeist activity which occurred in the village of Brimsdown, in the borough of Enfield, England. The activity began when single parent, Peggy Hodgs](https://documentaryheaven.com/interview-with-poltergeist/ "Interview with a Poltergeist")
-* [![The Secret Life of Dogs](/wp-content/thumbnails/8579-100x70.jpeg?x53432)
+    In 1969 violence erupted in Northern Ireland between Protestants loyal to the British Crown and Catholics. As such an information warfare department is established inside the British Army's Northern](https://documentaryheaven.com/man-who-knew-too-much/ "The Man Who Knew Too Much")
+* [![Do We Really Need the Moon?](/wp-content/thumbnails/5017-100x70.jpg?x53432)
     
-    The Secret Life of Dogs
+    Do We Really Need the Moon?
     
-    Dogs, man's best friend, but how well do we really know our fateful companions? How they see their world, what they really think of us? This films meets up with dogs that appear to have a 6th sense ca](https://documentaryheaven.com/secret-life-of-dogs/ "The Secret Life of Dogs")
+    The Moon is such a familiar presence in the sky that most of us take it for granted. But what if it wasn’t where it is now? How would that affect life on Earth?Space scientist and lunar fanatic Dr M](https://documentaryheaven.com/do-we-really-need-the-moon/ "Do We Really Need the Moon?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
