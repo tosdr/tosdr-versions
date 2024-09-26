@@ -20,16 +20,16 @@ Thursday, September 26 2024
 
 Latest
 
-* [NetApp CEO: The tech industry “needs to do a better job” on AI sustainability](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
-* [54% of U.K. IT Pros Confident They Can Recover Their Data](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
-* [Google Photos is about to get much easier to use — here’s why](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
-* [Google Maps is cracking down on fake reviews](https://digitpatrox.com/google-maps-is-cracking-down-on-fake-reviews/)
-* [Genshin Impact 5.1 Livestream Codes: Free 300 Primogems](https://digitpatrox.com/genshin-impact-5-1-livestream-codes-free-300-primogems/)
-* [Vendor Spotlight: Heimdal](https://digitpatrox.com/vendor-spotlight-heimdal/)
-* [Network Rail confirms cyber attack on Wi-Fi systems at UK train stations](https://digitpatrox.com/network-rail-confirms-cyber-attack-on-wi-fi-systems-at-uk-train-stations/)
-* [How to securely wipe a Windows PC – Computerworld](https://digitpatrox.com/how-to-securely-wipe-a-windows-pc-computerworld/)
-* [Wordle Answer for Today, September 26, 2024](https://digitpatrox.com/wordle-answer-for-today-september-26-2024/)
-* [Vendor Spotlight: Logpoint](https://digitpatrox.com/vendor-spotlight-logpoint/)
+* [All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
+* [Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
+* [How to customize Copilot keyboard key action on Windows 11](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
+* [Best Hair Steamer We Tried Was Quiet and Did Not Drip Hot Water](https://digitpatrox.com/best-hair-steamer-we-tried-was-quiet-and-did-not-drip-hot-water/)
+* [MSI’s Wi-Fi 7 Mesh Router Is Finally Available](https://digitpatrox.com/msis-wi-fi-7-mesh-router-is-finally-available/)
+* [Blackstone confirms £10 billion data center in UK](https://digitpatrox.com/blackstone-confirms-10-billion-data-center-in-uk/)
+* [Get 5 Courses on Project Management for Just $40](https://digitpatrox.com/get-5-courses-on-project-management-for-just-40/)
+* [‘Colin from Accounts’ season 2 just dropped on Paramount Plus — and it’s already 100% on Rotten Tomatoes](https://digitpatrox.com/colin-from-accounts-season-2-just-dropped-on-paramount-plus-and-its-already-100-on-rotten-tomatoes/)
+* [Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://digitpatrox.com/moments-supercage-smartphone-rig-has-more-ports-and-more-power-for-filmmakers/)
+* [The Last of Us Season 2 Trailer Out and It’ll Likely Be an Emotional Ride](https://digitpatrox.com/the-last-of-us-season-2-trailer-out-and-itll-likely-be-an-emotional-ride/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/FGVcqm2zE7VgbC6dvvmysB-1200-80.jpg)](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
+* [![](https://lifehacker.com/imagery/articles/01J8QJQCZHZZ0GGZY0SETZ3VB1/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
     
-    [NetApp CEO: The tech industry “needs to do a better job” on AI sustainability](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
+    [All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
     
-    13 mins ago
+    12 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240925-data-recovery-confidence-uk.jpg)](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Delaware-Libraries-lose-internet-access-due-to-ransomware-attack-copy.jpg)](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
     
-    [54% of U.K. IT Pros Confident They Can Recover Their Data](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
+    [Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
     
-    15 mins ago
+    23 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/xqLvAjjutrBkF7Dv4j8mjT-1200-80.jpg)](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/09/windows-11-change-copilot-key-action-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
     
-    [Google Photos is about to get much easier to use — here’s why](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
+    [How to customize Copilot keyboard key action on Windows 11](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
     
-    33 mins ago
+    35 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/JKqhXxuLsg12_iJcI8tUVxeB30Y=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png)](https://digitpatrox.com/google-maps-is-cracking-down-on-fake-reviews/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1725035908/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Hair-Steamers-8-24)](https://digitpatrox.com/best-hair-steamer-we-tried-was-quiet-and-did-not-drip-hot-water/)
     
-    [Google Maps is cracking down on fake reviews](https://digitpatrox.com/google-maps-is-cracking-down-on-fake-reviews/)
+    [Best Hair Steamer We Tried Was Quiet and Did Not Drip Hot Water](https://digitpatrox.com/best-hair-steamer-we-tried-was-quiet-and-did-not-drip-hot-water/)
     
-    1 hour ago
+    44 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Genshin-Impact-5.1-Livestream-Codes.jpg)](https://digitpatrox.com/genshin-impact-5-1-livestream-codes-free-300-primogems/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/msi-roamii-be-lite-mesh-system-dual-band-wi-fi-7-router.png)](https://digitpatrox.com/msis-wi-fi-7-mesh-router-is-finally-available/)
     
-    [Genshin Impact 5.1 Livestream Codes: Free 300 Primogems](https://digitpatrox.com/genshin-impact-5-1-livestream-codes-free-300-primogems/)
+    [MSI’s Wi-Fi 7 Mesh Router Is Finally Available](https://digitpatrox.com/msis-wi-fi-7-mesh-router-is-finally-available/)
     
-    2 hours ago
+    45 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 mins ago
+* [12 mins ago
     
-    ### NetApp CEO: The tech industry “needs to do a better job” on AI sustainability](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
-* [15 mins ago
+    ### All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
+* [23 mins ago
     
-    ### 54% of U.K. IT Pros Confident They Can Recover Their Data](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
-* [33 mins ago
+    ### Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
+* [35 mins ago
     
-    ### Google Photos is about to get much easier to use — here’s why](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
+    ### How to customize Copilot keyboard key action on Windows 11](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
 
 Most Popular Topics
 
-* [5 days ago
+* [2 days ago
     
-    ### Best Composite Decking of 2024](https://digitpatrox.com/best-composite-decking-of-2024/)
-* [August 25, 2024
+    ### Car Insurance Telematics Pros and Cons](https://digitpatrox.com/car-insurance-telematics-pros-and-cons/)
+* [6 days ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for August 25](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-august-25/)
-* [3 weeks ago
+    ### How to Choose a Nursing Pillow and Use It Safely](https://digitpatrox.com/how-to-choose-a-nursing-pillow-and-use-it-safely/)
+* [August 26, 2024
     
-    ### Australia pushes for AI rules, focusing on oversight and accountability](https://digitpatrox.com/australia-pushes-for-ai-rules-focusing-on-oversight-and-accountability/)
+    ### Arc Search Browser Is Coming to Android Very Soon](https://digitpatrox.com/arc-search-browser-is-coming-to-android-very-soon/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Get 5 Courses on Project Management for Just $40](https://digitpatrox.com/get-5-courses-on-project-management-for-just-40/)
+* [2 hours ago
+    
+    ### ‘Colin from Accounts’ season 2 just dropped on Paramount Plus — and it’s already 100% on Rotten Tomatoes](https://digitpatrox.com/colin-from-accounts-season-2-just-dropped-on-paramount-plus-and-its-already-100-on-rotten-tomatoes/)
 * [3 hours ago
     
-    ### Network Rail confirms cyber attack on Wi-Fi systems at UK train stations](https://digitpatrox.com/network-rail-confirms-cyber-attack-on-wi-fi-systems-at-uk-train-stations/)
-* [3 hours ago
-    
-    ### How to securely wipe a Windows PC – Computerworld](https://digitpatrox.com/how-to-securely-wipe-a-windows-pc-computerworld/)
-* [4 hours ago
-    
-    ### Wordle Answer for Today, September 26, 2024](https://digitpatrox.com/wordle-answer-for-today-september-26-2024/)
+    ### Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://digitpatrox.com/moments-supercage-smartphone-rig-has-more-ports-and-more-power-for-filmmakers/)
 
 Most Viewed Topics
 
-* [4 weeks ago
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
