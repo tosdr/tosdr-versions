@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Georgia closings, event cancellations due to Hurricane Helene](https://www.ajc.com/news/crime/georgia-school-closings-event-cancellations-due-to-hurricane-helene/6IM52GWE35GA7KQZTN6X3QD67E/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1696)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1696)](https://www.ajc.com/)
 
 Log In
