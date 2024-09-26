@@ -132,7 +132,7 @@
     
     * [Transparencia del Consejo de Gobierno](https://www.juntadeandalucia.es/organismos/transparencia/transparencia-consejo-gobierno.html "Transparencia del Consejo de Gobierno")
     * [Transparencia de consejerías y entidades instrumentales](https://www.juntadeandalucia.es/organismos/transparencia/informacion-organismos.html "Transparencia de consejerías y entidades instrumentales")
-    * [Solicitar información pública](https://www.juntadeandalucia.es/organismos/transparencia/solicitud-informacion.html "Solicitar información pública")
+    * [Acceso a la información pública](https://www.juntadeandalucia.es/organismos/transparencia/solicitud-informacion.html "Acceso a la información pública")
     * [Conoce más sobre la transparencia](https://www.juntadeandalucia.es/organismos/transparencia/conoce-transparencia.html "Conoce más sobre la transparencia")
     
     Directo a
