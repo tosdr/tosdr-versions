@@ -2,7 +2,7 @@
 
 [Click here to return to Amazon Web Services homepage](https://aws.amazon.com/?nc2=h_lg)
 
-[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#) [English](#)   [My Account](#)  
+[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#)   [English](#)   [My Account](#)  
 
 [Sign In](https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin)
 
