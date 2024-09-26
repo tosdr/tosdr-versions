@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Exerion](https://www.myabandonware.com/game/exerion-9qz)
+* [Euro Champ '92](https://www.myabandonware.com/game/euro-champ-92-f5f)
+* [Exed Exes](https://www.myabandonware.com/game/exed-exes-9qy)
 * [ESWAT: Cyber Police](https://www.myabandonware.com/game/eswat-cyber-police-61j)
 * [Fighter's History Dynamite](https://www.myabandonware.com/game/fighter-s-history-dynamite-jxz)
-* [Espial](https://www.myabandonware.com/game/espial-4xp)
-* [Dragon World](https://www.myabandonware.com/game/dragon-world-si0)
-* [Draco](https://www.myabandonware.com/game/draco-shz)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
