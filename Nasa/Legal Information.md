@@ -259,7 +259,7 @@ article 3 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years
 
 ### What You Need to Know about NASA’s SpaceX Crew-9 Mission
 
-article 7 days ago](https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/)
+article 1 week ago](https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 7 days ago](https://www.nasa.gov/missions/station/commercial-crew/what-y
 
 ### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
 
-article 52 mins ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
+article 6 hours ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
 
 4 min read
 
@@ -291,13 +291,13 @@ article 1 week ago](https://www.nasa.gov/missions/station/iss-research/nasa-astr
 
 ### NASA’s Eyes for Museums
 
-article 19 hours ago](https://science.nasa.gov/eyes/museums/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/eyes/museums/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
 
 5 min read
 
 ### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 
-article 22 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
 
 4 min read
 
@@ -307,69 +307,69 @@ article 2 days ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-
 
 ### Highlights
 
-[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
-
-10 min read
-
-### NASA’s Eyes for Museums
-
-article 19 hours ago](https://science.nasa.gov/eyes/museums/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
+[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 3 min read
 
-### Oct. 2 Annular Solar Eclipse
+### How NASA Uses and Improves Solar Power
 
-article 23 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
+article 3 hours ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar-power/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
-4 min read
+1 min read
 
-### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
+### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 3 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)
-
-### Featured
-
-[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 6 hours ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 10 min read
 
 ### NASA’s Eyes for Museums
 
-article 19 hours ago](https://science.nasa.gov/eyes/museums/)[![In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j80mw64aby9qbqjpvgvqxq9w-2k.png)
+article 1 day ago](https://science.nasa.gov/eyes/museums/)
+
+### Featured
+
+[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+
+6 min read
+
+### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
+
+article 5 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+
+10 min read
+
+### NASA’s Eyes for Museums
+
+article 1 day ago](https://science.nasa.gov/eyes/museums/)[![In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j80mw64aby9qbqjpvgvqxq9w-2k.png)
 
 4 min read
 
 ### In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
 
-article 24 hours ago](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
-
-2 min read
-
-### Hubble Lights the Way with New Multiwavelength Galaxy View
-
-article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)
+article 1 day ago](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/)
 
 ### Highlights
 
-[![A group of 24 college students, eight mentors, and additional staff pose together in front of a glass building. All participants are wearing professional clothing in a variety of colors.](https://www.nasa.gov/wp-content/uploads/2024/08/sarpwest2024-loiacono-1501.jpg?w=1024)
-
-5 min read
-
-### 2024 SARP West Closeout
-
-article 17 hours ago](https://www.nasa.gov/general/2024-sarp-west-closeout/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
-
-5 min read
-
-### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
-
-article 22 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
+[![How NASA Uses and Improves Solar Power](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 3 min read
 
-### Oct. 2 Annular Solar Eclipse
+### How NASA Uses and Improves Solar Power
 
-article 23 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)
+article 3 hours ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar-power/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
+
+3 min read
+
+### NASA’s BioSentinel Studies Solar Radiation as Earth Watches Aurora
+
+article 3 hours ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/)[![Pioneer of Change: America Reyes Wang Makes NASA Space Biology More Open](https://science.nasa.gov/wp-content/uploads/2024/09/americareyeswang-landscape.jpg)
+
+4 min read
+
+### Pioneer of Change: America Reyes Wang Makes NASA Space Biology More Open
+
+article 4 hours ago](https://science.nasa.gov/open-science/space-biology-reyes-wang/)
 
 ### Highlights
 
@@ -395,13 +395,13 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/students-s
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/09/image-853742.png?w=1024)
+[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
 
 3 min read
 
 ### NASA’s Record-Breaking Laser Demo Completes Mission
 
-article 22 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
+article 1 day ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
 
 1 min read
 
