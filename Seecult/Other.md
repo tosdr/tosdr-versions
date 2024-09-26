@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/crtezi/novi-crtez-06.jpg?itok=3De-5To1)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/crtezi)
+[![Dnevnik/Diary, Raša Todosijević, 54. Bijenale, Venecija](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/izlozba-svetlost-i-tama-simbola/dnevnik.jpg?itok=5P90VjRP)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-30)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dani-beograda/dah-teatar-1.jpg?itok=ux1B1q6n)](http://seecult.org/galerija/foto-galerija/foto-arhiva/dani-beograda)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/poslednja-pobuna/poslednja-pobuna-001.jpg?itok=ZzjUYu00)](http://seecult.org/galerija/foto-galerija/foto-arhiva/poslednja-pobuna)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
