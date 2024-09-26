@@ -34,13 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [⚠ ☢ Total Right-Wing Victory ? ☢ ⚠ (13)](https://forum.nationstates.net/viewtopic.php?t=555823&f=41&view=unread#unread ""⚠ ☢ Total Right-Wing Victory ? ☢ ⚠" (13 posts)")
-* [The Solitary Throne \[OOC | Closed\] (452)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (452 posts)")
-* [Geography Game II (10,226)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,226 posts)")
-* [2023 Israel–Hamas War Thread mk3 (7,630)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,630 posts)")
-* [What triggers you about the AN? (8,208)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (8,208 posts)")
+* [American Politics: (Pumpkin)Spicy Sal… (8,692)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: (Pumpkin)Spicy Salaciousness in NC" (8,692 posts)")
+* [World Bowl XLIX \[49\] Everything Thread (57)](https://forum.nationstates.net/viewtopic.php?t=555385&f=7&view=unread#unread ""World Bowl XLIX [49] Everything Thread" (57 posts)")
+* [\[AT VOTE\] Repeal: Condemn the Black H… (283)](https://forum.nationstates.net/viewtopic.php?t=555742&f=24&view=unread#unread ""[AT VOTE] Repeal: Condemn the Black Hawks (#52)" (283 posts)")
+* [Why Socialists are getting more liberal? (158)](https://forum.nationstates.net/viewtopic.php?t=555723&f=20&view=unread#unread ""Why Socialists are getting more liberal?" (158 posts)")
+* [Your Leader's Opinion on AN's Leader… (2,945)](https://forum.nationstates.net/viewtopic.php?t=526110&f=25&view=unread#unread ""Your Leader's Opinion on AN's Leader - ♥ Mk. 15 ♥" (2,945 posts)")
 
 Advertisement
+
+[**Nuclear Scoreboard**:](https://www.nationstates.net/page=factions)
 
 Terms & Conditions of Use
 =========================
