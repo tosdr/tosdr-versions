@@ -5,14 +5,14 @@ Salesforce Legal
 
 Find legal information and resources whether you are a prospective or existing customer, partner or service provider. You'll find answers to questions about our agreement terms, policies, intellectual property, and compliance, as well as how we uphold Trust as our #1 value.
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-desktop.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-desktop.jpg?w=1024)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-mobile.jpg?w=731)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-mobile.jpg?w=731)
 
 Find content relevant to you.
 -----------------------------
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-overview-find-for-customers.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-overview-find-for-customers.jpg?w=1024)
 
 ### For Customers
 
@@ -20,7 +20,7 @@ Learn more about the terms associated with the purchasing of Salesforce products
 
 [See more](https://www.salesforce.com/company/legal/customer-agreements)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/06/story-legal-overview-find-partners.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/06/story-legal-overview-find-partners.jpg?w=1024)
 
 ### For Partners and Alliances
 
@@ -28,7 +28,7 @@ Find documentation and information regarding partner and alliances agreements.
 
 [See more](https://www.salesforce.com/company/legal/partner-agreements/)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-overview-find-suppliers.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-overview-find-suppliers.jpg?w=1024)
 
 ### For Suppliers
 
@@ -39,7 +39,7 @@ Get information and documentation around Salesforce's relationships and agreemen
 Explore policies and other documentation.
 -----------------------------------------
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-policies-privacy.webp?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-policies-privacy.webp?w=1024)
 
 ### Privacy Information
 
@@ -47,7 +47,7 @@ Find resources and documentation on how Salesforce protects you and your informa
 
 [See more](https://www.salesforce.com/company/legal/privacy/)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-policies-intellectual.webp?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-policies-intellectual.webp?w=1024)
 
 ### Intellectual Property
 
@@ -55,7 +55,7 @@ See how Salesforce protects its intellectual property on [trademark and copyrigh
 
 [See DMCA Policy](https://www.salesforce.com/company/legal/dmca/)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-policies-compliance.webp?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/story-legal-policies-compliance.webp?w=1024)
 
 ### Compliance
 
@@ -63,7 +63,7 @@ Get information and documentation around how Salesforce maintains compliance wit
 
 [See more](https://www.salesforce.com/company/legal/compliance/)
 
-![Headshot of Sabastian Niles ](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/Sabastian-Niles-headshot.png?w=1024)
+![Headshot of Sabastian Niles ](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/Sabastian-Niles-headshot.png?w=1024)
 
 > ### At Salesforce, Trust has always been our #1 value and the cornerstone of our business. From ensuring data privacy and protection to responsible and ethical product innovation, trust underscores everything we do.
 > 
@@ -71,12 +71,12 @@ Get information and documentation around how Salesforce maintains compliance wit
 > 
 > President and Chief Legal Officer , Salesforce
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/n-up-flex-quote-legal-overview-background.webp?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/n-up-flex-quote-legal-overview-background.webp?w=1024)
 
 Trending Topics
 ---------------
 
-[![An illustration of office workers at their desk. ](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/07/humanhelm-1.webp?w=1024)](https://www.salesforce.com/news/stories/ai-trust-patterns/)
+[![An illustration of office workers at their desk. ](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/07/humanhelm-1.webp?w=1024)](https://www.salesforce.com/news/stories/ai-trust-patterns/)
 
 Article
 
@@ -86,7 +86,7 @@ Salesforce is taking steps to ensure AI is trusted and reliable by empowering hu
 
 [Learn more](https://www.salesforce.com/news/stories/ai-trust-patterns/)
 
-[![An image of a laptop and floating Einstein AI chatbot icon.](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/07/ai-training-trust.webp?w=1024)](https://www.salesforce.com/news/stories/ai-training-trust/)
+[![An image of a laptop and floating Einstein AI chatbot icon.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/07/ai-training-trust.webp?w=1024)](https://www.salesforce.com/news/stories/ai-training-trust/)
 
 Article
 
@@ -96,7 +96,7 @@ Autonomous AI agents are coming to workplaces sooner than you might think. Count
 
 [Learn more](https://www.salesforce.com/news/stories/ai-training-trust/)
 
-[![Astro holding a badge with a scale displayed on it. Text reads: Honored as One of the World's Most Ethical Companies for the 15th time. ](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/07/most-ethical-blog.webp?w=1024)](https://www.salesforce.com/news/stories/most-ethical-companies-2024/)
+[![Astro holding a badge with a scale displayed on it. Text reads: Honored as One of the World's Most Ethical Companies for the 15th time. ](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/07/most-ethical-blog.webp?w=1024)](https://www.salesforce.com/news/stories/most-ethical-companies-2024/)
 
 Article
 
@@ -106,7 +106,7 @@ The Ethisphere Institute, a global leader in defining and measuring corporate et
 
 [Learn more](https://www.salesforce.com/news/stories/most-ethical-companies-2024/)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-contact-us.webp?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-contact-us.webp?w=1024)
 
 Questions? Get in Touch.
 ------------------------
