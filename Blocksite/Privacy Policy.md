@@ -1,6 +1,14 @@
- [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27208%27%20height=%2748%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/blocksite-icon.5d769676.svg)](https://blocksite.co/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-[![blocksite logo](https://blocksite.co/wp-content/uploads/2024/02/blocksite-logo.mobile.svg)](https://blocksite.co/)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27208%27%20height=%2748%27/%3e)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/uploads/2023/12/blocksite-icon.5d769676.svg)](https://blocksite.co/)
+
+[![blocksite logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![blocksite logo](https://blocksite.co/wp-content/uploads/2024/02/blocksite-logo.mobile.svg)](https://blocksite.co/)
 
 * Product
     * * * **Get more info**
@@ -9,7 +17,13 @@
             * [Increase Productivity](https://blocksite.co/productivity)
             * [Manage Your Time](https://blocksite.co/time-management)
         
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
+        * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
+                
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
                 Try our desktop app and block on multiple browser at once
                 
@@ -22,7 +36,13 @@
             * [FAQ](https://blocksite.zendesk.com/hc/en-us)
         * * **Customers reviews**
                 
-                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)
+                
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
                 
                 Find out why our customers love us
                 
@@ -33,7 +53,13 @@
             * [Focus Study](https://blocksite.co/blog/focus-study)
             * [Family Time](https://blocksite.co/blog/family-time)
             * [Digital Mindfulness](https://blocksite.co/blog/digital-mindfulness)
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
+        * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
+                
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
                 Try our desktop app and block on multiple browser at once
                 
@@ -41,18 +67,58 @@
                 
 * Follow us
     
-      [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
     
     Available on
     
-     ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg) ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
     
     [Sign Up](https://user.blocksite.co/signup)
     
 
-  ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg) ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)[Signup](https://user.blocksite.co/signup)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-[![blocksite logo](https://blocksite.co/wp-content/uploads/2024/02/blocksite-logo.mobile.svg)](https://blocksite.co/)
+![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
+
+[Signup](https://user.blocksite.co/signup)
+
+[![blocksite logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![blocksite logo](https://blocksite.co/wp-content/uploads/2024/02/blocksite-logo.mobile.svg)](https://blocksite.co/)
 
 * Product
     * * * **Get more info**
@@ -61,7 +127,13 @@
             * [Increase Productivity](https://blocksite.co/productivity)
             * [Manage Your Time](https://blocksite.co/time-management)
         
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
+        * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
+                
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
                 Try our desktop app and block on multiple browser at once
                 
@@ -74,7 +146,13 @@
             * [FAQ](https://blocksite.zendesk.com/hc/en-us)
         * * **Customers reviews**
                 
-                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)
+                
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
                 
                 Find out why our customers love us
                 
@@ -85,7 +163,13 @@
             * [Focus Study](https://blocksite.co/blog/focus-study)
             * [Family Time](https://blocksite.co/blog/family-time)
             * [Digital Mindfulness](https://blocksite.co/blog/digital-mindfulness)
-        * *  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e) ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
+        * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
+                
+                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+                
+                ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
                 Try our desktop app and block on multiple browser at once
                 
@@ -93,11 +177,41 @@
                 
 * Follow us
     
-      [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
     
     Available on
     
-     ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg) ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/appstore-download.svg)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/play-store-download.svg)
     
     [Sign Up](https://user.blocksite.co/signup)
     
@@ -111,19 +225,20 @@ Privacy Policy for Website, Mobile App, and Desktop App
 
 BlockSite privacy policy and data collection practices.
 
-**BlockSite – Privacy Policy for Website, Mobile App, and Desktop App**
------------------------------------------------------------------------
+**BLOCKSITE**
+-------------
 
-__\[Last updated: September 17, 2024\]__
+**PRIVACY POLICY FOR WEBSITE, MOBILE APP, AND DESKTOP APP**
 
-### **Introduction**
+_\[Last updated: September 26, 2024\]_
 
-This privacy policy (“**Privacy Policy**“) governs the data collection practices of BlockSite LP (“**BlockSite**”, “**us**”, “**we**” and “**our**”) when you use our BlockSite mobile apps, desktop app, browser extension (the **Apps**”) or our website, [www.blocksite.co](http://www.blocksite.co/) (the “**Website**”). Within this Privacy Policy, the BlockSite Apps and Website are referred to as our “**Services**”. This Privacy Policy contains important disclosures on how we collect, share, and use (together referred to as “**process**”) your information. If you are a resident of California, please refer to Section 13 below, which includes additional privacy information for California Residents, the categories of personal information we collect and your rights under California privacy laws. We encourage you to read the Privacy Policy carefully prior to using our Services.  
+### **INTRODUCTION**
+
+This privacy policy (“**Privacy Policy**“) governs the data collection practices of BlockSite LP (“**BlockSite**”, “**us**”, “**we**” and “**our**”) when you use our BlockSite mobile apps, desktop app, browser extension (the **Apps**”) or our website, [www.blocksite.co](http://www.blocksite.co/) (the “**Website**”). Within this Privacy Policy, the BlockSite Apps and Website are referred to as our “**Services**”. This Privacy Policy contains important disclosures on how we collect, share, and use (together referred to as “**process**”) your information. If you are a resident of California, please refer to Section 13 below, which includes additional privacy information for California Residents, the categories of personal information we collect and your rights under California privacy laws. We encourage you to read the Privacy Policy carefully prior to using our Services.      
 
 **QUICK REFERENCE GUIDE**
 
-This Privacy Policy provides you with information about:
-
+* This Privacy Policy provides you with information about:
 * Personal Information We Collect
 * How We Use Personal Information
 * How We Share Personal Information
@@ -132,7 +247,8 @@ This Privacy Policy provides you with information about:
 * Analytics
 * Your Information Collection Choices
 * How We Protect and Store Your Personal Information
-* Rights for EU and UK Residents
+* User Rights
+* Delete Data and Exercise Rights
 * Use By Children
 * Changes to this Policy
 * How to Contact Us
@@ -220,10 +336,7 @@ These are some of the tools used in our Products and/or Website:
 * **Facebook Pixel.** Our website measures conversions using visitor action pixels from Facebook Inc. (1601 S. California Ave, Palo Alto, CA 94304, USA, “Facebook”).
     * These allow the behavior of site visitors to be tracked after they click on a Facebook ad to reach the provider’s website, allowing an analysis of the effectiveness of Facebook advertisements for statistical and market research purposes and their future optimization.
     * The data collected is anonymous to us as operators of this website and we cannot use it to draw any conclusions about our users’ identities. However, the data are stored and processed by Facebook, which may make a connection to your Facebook profile, and which may use the data for its own advertising purposes, as stipulated in the Facebook privacy policy. This will allow Facebook to display ads both on Facebook and on third-party sites. We have no control over how this data is used.  See Facebook’s privacy policy to learn more about protecting your privacy: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
-    * You can deactivate the Facebook custom audiences remarketing feature in the Ads Settings section at
-
-https://www.facebook.com/ads/preferences/?entry\_product=ad\_settings\_screen.
-
+    * You can deactivate the Facebook custom audiences remarketing feature in the Ads Settings section at [https://www.facebook.com/ads/preferences/?entry\_product=ad\_settings\_screen.](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen.)
 * **Firebase.** We use Firebase ([https://firebase.google.com/](https://firebase.google.com/)) for user registration and authentication, for users who decide to create accounts and provide their email address and create passwords for that purpose. For further details, please see Firebase’s privacy policy by following [this link](https://firebase.google.com/support/privacy#firebase_data_processing_and_security_terms): https://firebase.google.com/support/privacy#firebase\_data\_processing\_and\_security\_terms.
 * **PayPal and Stripe.** We use PayPal ([https://www.paypal.com/](https://www.paypal.com/)) and Stripe ([https://stripe.com/](https://stripe.com/)) to facilitate secure electronic payment by users for features and services that are offered for a fee. For further details, please see PayPal’s privacy policy by clicking on [this link](https://www.paypal.com/en/webapps/mpp/ua/privacy-full): [https://www.paypal.com/us/legalhub/privacy-full](https://www.paypal.com/us/legalhub/privacy-full). Also see Stripe’s privacy policy by following [this link](https://stripe.com/privacy): https://stripe.com/privacy.
 * **Google AdMob.** Our Product may serve third-party advertisements, delivered to you by Google. Google processes an advertising ID from the device on which ads are served to determine interests, demographics, and other data, which may be used to serve better targeted ads to the user via the Google Mobile Ads SDK. For further details, please see Google’s privacy policy by following [this link](https://policies.google.com/privacy) ([https://policies.google.com/privacy](https://policies.google.com/privacy)). See also the AdMob policy at [https://policies.google.com/privacy](https://policies.google.com/privacy). See the AdSense program policy at https://support.google.com/admob/answer/2753860#Interest\_based. You can learn more about how Google uses your information at www.google.com/policies/privacy/partners/ (“How Google uses information from sites or apps that use our services”). 
@@ -270,13 +383,13 @@ We have implemented and maintain appropriate technical and organizational securi
 
 We store your Personal Information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this Privacy Policy. In some circumstances we may store your Personal Information for longer periods of time, including where we are permitted or required to do so in accordance with legal, regulatory, tax or accounting requirements, in the event of any legal complaints, or if we reasonably believe there is a prospect of litigation relating to your Personal Information or dealings. 
 
-9. **RIGHTS FOR EU AND UK RESIDENTS**
+9. **USER RIGHTS**
 
 Where provided under applicable law (e.g., within the European Union and United Kingdom), you may have the right:
 
 * To confirm with us whether your Personal Information is processed, and if it is, to request access to the Personal Information processed, the purpose of the processing, and the recipients or categories of recipients of your Personal Information. 
 * To rectify inaccurate or incomplete Personal Information concerning you. We encourage you to review your information on the BlockSite Services regularly to ensure that it is accurate and up to date. 
-* In certain circumstances, to ask us to erase Personal Information concerning you; (i.e., delete your Personal Information);
+* In certain circumstances, to ask us to erase Personal Information concerning you (i.e., delete your Personal Information);
 * To request that we restrict the processing of your Personal Information in certain circumstances.
 * To object to the processing of your Personal Information, where we are relying on a legitimate interest for such processing.
 * To object to us processing your Personal Information for direct marketing purposes.
@@ -285,23 +398,35 @@ Where provided under applicable law (e.g., within the European Union and United 
 
 Note that where your Personal Information has been de-identified, we will not be able to identify you or comply with some of the rights mentioned above. These rights do not apply to de-identified information. Additionally, these rights are not absolute and may therefore be subject to applicable exceptions, such as the interest of other individuals, in order to preserve that information for anticipated litigation or demands from a regulator.
 
-If you wish to exercise any of these rights, including the right to request that we delete your Personal Information and data please contact our Data Protection Officer at: [dpo@blocksite.co](mailto:dpo@blocksite.co). Note that we may request proof of your identity, and we reserve the right to charge a fee where permitted by law, such as in circumstances where your request is deemed to be excessive. You can also choose to delete your account and the data associated with your account by submitting a request to do so [here](https://user.blocksite.co/settings/account). You may have the right to lodge a complaint with a data protection authority, subject to applicable law (as is the case in the European Union and the UK). You can find information on the relevant EU data protection authorities [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en#member-at) and the UK Information Commissioner’s Office [here](https://ico.org.uk/global/contact-us/contact-us-public/).
+10. **DELETE DATA AND EXERCISE RIGHTS**
 
-10. **USE BY CHILDREN**
+Please contact our Data Protection Officer at: [dpo@blocksite.co i](mailto:dpo@blocksite.co)f you would like to exercise any of the rights included in Section 10 above or Section 14 below. Note that we may request proof of your identity, and we reserve the right to charge a fee where permitted by law, such as in circumstances where your request is deemed to be excessive. You may have the right to lodge a complaint with a data protection authority, subject to applicable law (as is the case in the European Union and the UK). You can find information on the relevant EU data protection authorities [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en#member-at) and the UK Information Commissioner’s Office [here](https://ico.org.uk/global/contact-us/contact-us-public/). 
+
+If you would like to delete your Personal Information or data please do so by choosing one of the following options: 
+
+* **Permanently delete your account:**
+
+You can also choose to delete your account and the data associated with your account by visiting the account setting page [here](https://user.blocksite.co/settings/account) and clicking the “Delete My Account” button or by contacting support via our [online form](https://blocksite.co/support-requests) and selecting the “Account deletion” option.
+
+* **Delete some or all of your data or information (including your Personal Information)**: 
+
+Please email us at: [dpo@blocksite.co](mailto:dpo@blocksite.co) to request that we delete some or all of your data (including your Personal Information). 
+
+11. **USE BY CHILDREN**
 
 If you are considered a “child” or a “minor” in your jurisdiction you are prohibited from using the Services. In the event that we become aware that a child has provided any Personal Information to us, we will discard such information. If you have any reason to believe that a child has shared any Personal Information with us, please contact our Data Protection Officer at: dpo@blocksite.co. If you are under 18, please be sure to read this Privacy Policy with your parents or legal guardians and ask questions about things you do not understand.
 
-11. **CHANGES TO THIS POLICY**
+12. **CHANGES TO THIS POLICY**
 
 This Privacy Policy is current as of the Last Updated date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any updates to Privacy Policy on the Website and BlockSite Apps. We will not make material changes to how we collect, use and disclose the Personal Information we have previously collected about you without prior notice.
 
-12. **HOW TO CONTACT US**
+13. **HOW TO CONTACT US**
 
 If you have any questions about this Privacy Policy or how we collect and use Personal Information, please contact us at: dpo@blocksite.co.
 
-13. **ADDITIONAL PRIVACY INFORMATION FOR CALIFORNIA RESIDENTS**
+14. **ADDITIONAL PRIVACY INFORMATION FOR CALIFORNIA RESIDENTS**
 
-This section of the Privacy Policy provides additional information for California residents and describes our information practices pursuant to applicable California privacy laws, including      the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (the “**CCPA**”)     .      To the extent you are a resident of California, and we collect “Personal Information”      subject to CCPA, the following applies. 
+This section of the Privacy Policy provides additional information for California residents and describes our information practices pursuant to applicable California privacy laws, including      the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (the “**CCPA**”). To the extent you are a resident of California, and we collect “Personal Information” subject to CCPA, the following applies. 
 
 This section does not address or apply to our handling of publicly available      information      or to Personal Information that is otherwise exempt under the CCPA. This section also does not address or apply to Personal Information we collect and process about BlockSite employees, personnel, and job applicants, which are subject to different privacy notices.
 
@@ -332,7 +457,7 @@ This section does not address or apply to our handling of publicly available  �
 
 **Retention**. We retain the personal information we collect only as reasonably necessary for the purposes described above or otherwise disclosed to you at the time of collection. For example, we will retain your account information for as long as you have an active account with us and additional information as necessary to comply with our legal, tax, accounting and recordkeeping obligations, to provide you with the services you have requested, as well as an additional period of time as necessary to protect, defend or establish our rights, defend against potential claims, and comply with our legal obligations. 
 
-     **Sales and Sharing of Personal Information**. CCPA defines a “sale” as disclosing or making Personal Information available to a third party in exchange for monetary or other valuable consideration. CCPA also defines “sharing” as disclosing or making available Personal Information to a third party for purposes of cross-context behavioral advertising. 
+**Sales and Sharing of Personal Information**. CCPA defines a “sale” as disclosing or making Personal Information available to a third party in exchange for monetary or other valuable consideration. CCPA also defines “sharing” as disclosing or making available Personal Information to a third party for purposes of cross-context behavioral advertising. 
 
 While we do not disclose Personal Information to third parties in exchange for monetary compensation, we may “sell” or “share” (as such terms are defined under the CCPA) the following categories of Personal Information in the following limited circumstances: 
 
@@ -359,7 +484,7 @@ We do not sell or share sensitive Personal Information, nor do we sell or share 
 
 **Submitting CCPA Requests**. California residents      may exercise the      rights described above via the methods described below     : 
 
-* Right to Know, Delete, and Correct: California residents may submit CCPA requests to access/know, delete, and correct Personal Information by contacting us at dpo@blocksite.co.  You can also choose to delete your account and the data associated with your account by submitting a request to do so here.
+* **Right to Know, Delete, and Correct**: California residents may submit CCPA requests to access/know, delete, and correct Personal Information by contacting us at [dpo@blocksite.co](mailto:dpo@blocksite.co). You can also choose to delete your account and the data associated with your account by visiting the account setting page [here](https://user.blocksite.co/settings/account) and clicking the “Delete My Account” button or by contacting support via our [online form](https://blocksite.co/support-requests) and selecting the “Account deletion” option.
 
 When you submit a request, we will take steps to verify your identity and request by matching the information provided by you with the information we have in our records. In some cases, we may request additional information in order to verify your identity, or where necessary to process your request. If we are unable to verify your identity after a good faith attempt, we may deny the request and, if so, will explain the basis for the denial.
 
@@ -377,7 +502,11 @@ You may also designate someone as an authorized agent to submit requests and act
 
 If you have any questions about our privacy practices or this Privacy Policy, please contact us as noted above in **Section 12. How to Contact Us.**
 
+![Close](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
 ![Close](https://blocksite.co/wp-content/themes/blocksite/assets/images/close-icon-dark.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://blocksite.co/wp-content/uploads/2024/03/cookies.svg)
 
@@ -388,9 +517,41 @@ We Use Cookies for various purposes including analytics, personalized content an
 
 OK, GOT IT
 
-  ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/blocksite-logo.svg)Take control of your time. Block distracting apps and sites. Make productivity your priority
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-  [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/uploads/2023/12/blocksite-logo.svg)
+
+Take control of your time. Block distracting apps and sites. Make productivity your priority
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/uploads/2023/12/facebook-logo-gray.svg)](https://www.facebook.com/BlockSite.co/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/uploads/2023/12/twitter-logo-gray.svg)](https://twitter.com/BlockSite_)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/uploads/2023/12/linkedin-logo-gray.svg)](https://www.linkedin.com/company/blocksite/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/uploads/2023/12/instagram-logo-gray.svg)](https://www.instagram.com/blocksite_official/)
 
 Product
 
@@ -425,6 +586,14 @@ Available On
 
  [![chrome icon](https://blocksite.co/wp-content/uploads/2023/12/chrome-24-single-color.svg)](https://chromewebstore.google.com/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh)[![firefox icon](https://blocksite.co/wp-content/uploads/2023/12/firefox-24-single-color.svg)](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)[![edge icon](https://blocksite.co/wp-content/uploads/2023/12/edge-24-single-color.svg)](https://microsoftedge.microsoft.com/addons/detail/blocksite-block-websites/lbnblmjlpifpfpefbcgefbhnlcnnjgjk)[![play icon](https://blocksite.co/wp-content/uploads/2023/12/google-play-24-single-color.svg)](https://play.google.com/store/apps/details?id=co.blocksite)[![appstore icon](https://blocksite.co/wp-content/uploads/2023/12/app-store-24-single-color.svg)](https://apps.apple.com/us/app/blocksite/id1474967653)[![windows icon](https://blocksite.co/wp-content/uploads/2023/12/windows-24-single-color.svg)](https://user.blocksite.co/desktop-lp)
 
- [![](https://blocksite.co/wp-content/themes/blocksite/assets/images/glitter-star-magic.svg) New FEATURE](https://user.blocksite.co/suggestions-lp?utm_source=Privacy%20Policy%20Website%20and%20App) **Every Second Counts** Discover Your Digital Timewasters. [Learn More ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/arrow-right.svg)](https://user.blocksite.co/suggestions-lp?utm_source=Privacy%20Policy%20Website%20and%20App) 
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/themes/blocksite/assets/images/glitter-star-magic.svg)
+
+New FEATURE](https://user.blocksite.co/suggestions-lp?utm_source=Privacy%20Policy%20Website%20and%20App) **Every Second Counts** Discover Your Digital Timewasters. [Learn More ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://blocksite.co/wp-content/themes/blocksite/assets/images/arrow-right.svg)](https://user.blocksite.co/suggestions-lp?utm_source=Privacy%20Policy%20Website%20and%20App) 
+
+![Close](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![Close](https://blocksite.co/wp-content/themes/blocksite/assets/images/close-icon-dark.svg)
