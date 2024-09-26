@@ -366,7 +366,7 @@ English
 
 Show options
 
-Downloads
+###### Downloads
 
 * [macOS](https://1password.com/downloads/mac)
     
@@ -383,7 +383,7 @@ Downloads
 * [CLI](https://1password.com/downloads/command-line)
     
 
-1Password products
+###### 1Password products
 
 * [Extended Access Management](https://1password.com/extended-access-management)
     
@@ -406,7 +406,7 @@ Downloads
 * [Pricing](https://1password.com/pricing)
     
 
-Features
+###### Features
 
 * [Autofill](https://1password.com/features/autofill)
     
@@ -417,7 +417,7 @@ Features
 * [Passkeys](https://1password.com/product/passkeys)
     
 
-Resources
+###### Resources
 
 * [Webinars](https://1password.com/webinars)
     
@@ -434,7 +434,7 @@ Resources
 * [Privacy](https://support.1password.com/1password-privacy/)
     
 
-Developers
+###### Developers
 
 * [Developer documentation](https://developer.1password.com/)
     
@@ -447,7 +447,7 @@ Developers
 * [Bug bounty](https://bugcrowd.com/agilebits)
     
 
-Support
+###### Support
 
 * [Support Community](https://support.1password.com/)
     
@@ -456,7 +456,7 @@ Support
 * [Privacy support](mailto:privacy@1password.com)
     
 
-Company
+###### Company
 
 * [About](https://1password.com/company)
     
@@ -473,14 +473,14 @@ Company
 * [Trust Center](https://app.conveyor.com/profile/1password)
     
 
-Partners
+###### Partners
 
 * [Affiliate](https://1password.com/affiliate)
     
 * [Partnerships](https://1password.com/partnerships)
     
 
-Downloads
+###### Downloads
 
 * [macOS](https://1password.com/downloads/mac)
     
