@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Dnevnik/Diary, Raša Todosijević, 54. Bijenale, Venecija](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/izlozba-svetlost-i-tama-simbola/dnevnik.jpg?itok=5P90VjRP)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-30)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/slike/paitings/gramofon-1-97-80x65.jpg?itok=cFokrbDY)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/slikepaitings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/poslednja-pobuna/poslednja-pobuna-001.jpg?itok=ZzjUYu00)](http://seecult.org/galerija/foto-galerija/foto-arhiva/poslednja-pobuna)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/girodet.jpg?itok=LRtSAej1)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Kanski pobednik otvara 20. Slobodnu zonu](http://seecult.org/vest/kanski-pobednik-otvara-20-slobodnu-zonu)
 * [Medenica: Hrabro otvaranje 58. Bitefa](http://seecult.org/vest/medenica-hrabro-otvaranje-58-bitefa)
 * [Milo Rau: Recimo NE smrtonosnoj ideologiji današnjice](http://seecult.org/vest/milo-rau-recimo-ne-smrtonosnoj-ideologiji-danasnjice)
 * [Treća decenija Balkanime](http://seecult.org/vest/treca-decenija-balkanime)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Otvaranje nove sezone BGF posvećeno Tasovcu](http://seecult.org/vest/otvaranje-nove-sezone-bgf-posveceno-tasovcu)
 * [Početak 17. LIFFE u znaku Paskaljevića](http://seecult.org/vest/pocetak-17-liffe-u-znaku-paskaljevica)
 * [Nevidljive katastrofe](http://seecult.org/vest/nevidljive-katastrofe)
-* [Trio Klavis otvara 11. Belgrade SAXperience](http://seecult.org/vest/trio-klavis-otvara-11-belgrade-saxperience)
 
 * [Konkursi](#tab1_1)
 
