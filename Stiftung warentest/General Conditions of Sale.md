@@ -597,12 +597,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Fußbereich
 
@@ -2737,12 +2737,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2795,12 +2795,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Neueste Tests
 
@@ -2813,12 +2813,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
-* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Steiner+Company: Neue Führung, alte Probleme](https://www.test.de/SteinerCompany-Neue-Fuehrung-alte-Probleme-5926551-0/ "Steiner+Company - Neue Führung, alte Probleme")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Service Stiftung Warentest
 
