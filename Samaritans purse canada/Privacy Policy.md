@@ -19,6 +19,7 @@
         * [World Medical Mission](https://www.samaritanspurse.ca/getinvolved/world-medical-mission/)
     * [CURRENT RESPONSES](#)
         * [Ukraine Response](https://www.samaritanspurse.ca/single-donation/samaritans-purse-ready-to-help-fleeing-ukrainians/)
+        * [Vietnam Response](https://www.samaritanspurse.ca/article/providing-relief-in-vietnam-after-typhoon-yagi/)
 * [GET INVOLVED](https://www.samaritanspurse.ca/getinvolved/start)
     * [Canadian Disaster Relief](https://www.samaritanspurse.ca/getinvolved/canadian-disaster-relief/)
     * [Operation Christmas Child](https://www.samaritanspurse.ca/ways-to-volunteer/)
