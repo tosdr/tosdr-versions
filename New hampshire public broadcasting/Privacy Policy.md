@@ -184,6 +184,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**What Matters Most Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-what-matters-most-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Snarky Puppy Preview** | Next at the Kennedy Center](https://video.nhpbs.org/video/snarky-puppy-extended-preview-vje5tz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**New Assyrian Artifact Discovered in Ancient Iraqi Palace** | Secrets of the Dead](https://video.nhpbs.org/video/new-assyrian-artifact-discovered-in-ancient-iraqi-palace-doxdhb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"The VP Choice: Vance vs. Walz" - Preview** | FRONTLINE](https://video.nhpbs.org/video/the-vp-choice-vance-vs-walz-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
@@ -191,8 +192,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Hurricane Helene expected to be Cat. 4 at landfall in Fla.** | PBS News Hour](https://video.nhpbs.org/video/hurricane-helene-1727301439?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**How the Himalayas Changed the World** | Eons](https://video.nhpbs.org/video/how-the-himalayas-changed-the-world-upqcjy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Super/Man: The Christopher Reeve Story** | Flicks](https://video.nhpbs.org/video/superman-the-christopher-reeve-story-5mvcxd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Can Technology Detect Deepfakes Better Than Humans Can?** | NOVA](https://video.nhpbs.org/video/can-technology-detect-deepfakes-better-than-humans-can-vsim7i?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Émigré: A Musical Drama with the NY Phil Preview** | Great Performances](https://video.nhpbs.org/video/emigre-a-musical-drama-with-the-ny-phil-preview-m1umzl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Theme** | Life In The Heart Land](https://video.nhpbs.org/video/life-in-the-heart-land-theme-odcnrw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
