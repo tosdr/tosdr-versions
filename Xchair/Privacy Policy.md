@@ -1,8 +1,7 @@
 [Skip to content](#MainContent)
 
-### Pay as low as $20/month with ![Affirm logo](//www.xchair.com/cdn/shop/files/affirm-logo-2x.png?v=1689888394&width=1024) financing || [Shop Now](https://www.xchair.com/collections/office-chairs "Office Chairs")
-
-### 844-492-4247
+GET 10% OFF >> [SIGN UP NOW!](https://www.xchair.com/pages/vip-september-flash-sale "VIP September Flash Sale")
+---------------------------------------------------------------------------------------------------------------
 
 [](https://www.xchair.com/)
 
