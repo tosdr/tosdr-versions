@@ -2,6 +2,8 @@
 
   
 
+[Shop the new fall looks!](https://fanjoy.co/collections/new-arrivals)
+
    
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
@@ -16,10 +18,8 @@
     
     Shop By
     
-    * [Best Sellers](https://fanjoy.co/collections/weekly-bestsellers)
     * [Mystery Items](https://fanjoy.co/collections/mystery-items)
     * [Hoodies](https://fanjoy.co/collections/hoodies)
-    * [Sweatpants](https://fanjoy.co/collections/sweatpants)
     * [Shirts](https://fanjoy.co/collections/shirts)
     * [Hats & Beanies](https://fanjoy.co/collections/hats-beanies)
     * [Phone Cases](https://fanjoy.co/collections/phone-cases)
@@ -43,7 +43,7 @@ United States | USD $
 * [TikTok](https://www.tiktok.com/@fanjoy)
 * [YouTube](https://www.youtube.co/)
 
-[![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_cb9c8b72-d6ec-438b-8261-2e648605ced8.png?v=1701886274&width=600)](https://fanjoy.co/)
+[![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_28255947-441b-4d3f-8734-d07e088285a4.png?v=1727374881&width=600)](https://fanjoy.co/)
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
 * Exclusives
@@ -53,10 +53,8 @@ United States | USD $
     
 * Shop By
     
-    * [Best Sellers](https://fanjoy.co/collections/weekly-bestsellers)
     * [Mystery Items](https://fanjoy.co/collections/mystery-items)
     * [Hoodies](https://fanjoy.co/collections/hoodies)
-    * [Sweatpants](https://fanjoy.co/collections/sweatpants)
     * [Shirts](https://fanjoy.co/collections/shirts)
     * [Hats & Beanies](https://fanjoy.co/collections/hats-beanies)
     * [Phone Cases](https://fanjoy.co/collections/phone-cases)
