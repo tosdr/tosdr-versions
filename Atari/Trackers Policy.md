@@ -140,17 +140,17 @@ Games
 
 #### Featured
 
-* [Atari XP](https://www.atari.com/collections/atari-xp)
+* [Atari 50](https://atari.com/products/atari-50th-the-anniversary-celebration)
+    
+    [Yars Rising](https://atari.com/products/yars-rising)
+    
+    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
+    
+    [Atari XP](https://www.atari.com/collections/atari-xp)
     
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
-    
-    [Yars Rising](https://atari.com/products/yars-rising)
-    
-    [50th Anniversary](https://atari.com/products/atari-50th-the-anniversary-celebration)
-    
-    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
 
 [View all Games](https://www.atari.com/collections/games)
 
@@ -188,17 +188,17 @@ Menu
 
 Featured
 
-* [Atari XP](https://www.atari.com/collections/atari-xp)
+* [Atari 50](https://atari.com/products/atari-50th-the-anniversary-celebration)
+    
+    [Yars Rising](https://atari.com/products/yars-rising)
+    
+    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
+    
+    [Atari XP](https://www.atari.com/collections/atari-xp)
     
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
-    
-    [Yars Rising](https://atari.com/products/yars-rising)
-    
-    [50th Anniversary](https://atari.com/products/atari-50th-the-anniversary-celebration)
-    
-    [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
 
 [View all Games](https://www.atari.com/collections/games)
 
