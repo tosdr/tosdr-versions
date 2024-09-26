@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/psychedelic-drug-psilocybin-comparable-antidepressant-effects-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/are-gender-sexual-identity-linked-brain-health-1440x810.jpg)
 
-Psilocybin Outperformed a Traditional Antidepressant in a Recent Study](https://www.everydayhealth.com/mental-health-conditions/psilocybin-outperformed-traditional-antidepressant-in-study/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+LGBTQ+ People Have Higher Risk of Depression and Dementia as They Age](https://www.everydayhealth.com/healthy-aging/lgbtq-higher-risk-of-depression-dementia-as-they-age/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/new-covid-variant-xec-arrives-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/ms-symptoms-at-onset-linked-to-long-term-disability-1440x810.jpg)
 
-XEC Is the New COVID Variant to Watch](https://www.everydayhealth.com/infectious-diseases/xec-is-the-new-covid-variant/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Early MS Symptoms Might Predict Long-Term Disability](https://www.everydayhealth.com/neurology/early-ms-symptoms-might-predict-long-term-disability/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/you-can-soon-self-administer-flu-vaccine-1440x810.jpg)
 
