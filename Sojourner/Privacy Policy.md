@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-fe2c686be15f1ddc18253c19d3a23cd7
+f5404cb03eb5dd22373524531680133f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![14 mm purple coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0206.200.jpg)](https://www.sojourner.biz/beads/pearls/14-mm-purple-coin-pearls.html "14 mm purple coin pearls")
+[![Vintage Living](https://www.sojourner.biz/images/cache/VintageLiving_cover.200.jpg)](https://www.sojourner.biz/bohemian-chic-decor/vintage-living.html "Vintage Living")
 
-#### [14 mm purple coin pearls](https://www.sojourner.biz/beads/pearls/14-mm-purple-coin-pearls.html "14 mm purple coin pearls")
+#### [Vintage Living](https://www.sojourner.biz/bohemian-chic-decor/vintage-living.html "Vintage Living")
 
-$25.00
+$45.00
 
 ### Best Sellers
 
