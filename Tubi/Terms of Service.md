@@ -60,6 +60,6 @@ Copyright © 2024 Tubi, Inc.
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: 8afe327f-6b5e-4416-b6f6-88de0e10f50f
+Device ID: c47a51c4-31dc-465f-ae50-84afa6a89abb
 
 Made with Heart in San Francisco
