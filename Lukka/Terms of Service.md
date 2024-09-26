@@ -483,8 +483,8 @@ Email
 
 Sign Up
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20579%20143'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20139'%3E%3C/svg%3E)
 
-![](https://lukka.tech/wp-content/uploads/2023/10/Trust-3.png)
+![](https://lukka.tech/wp-content/uploads/2023/10/Lukka-Trust-Center-Icons-768x139.png)
 
 © 2024 Lukka, Inc.  |  All rights reserved
