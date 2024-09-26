@@ -64,7 +64,7 @@ Search
 
 [Help Center](https://www.namecheap.com/help-center/)
 
-[Knowledgebase](https://www.namecheap.com/support/knowledgebase/)[Fix Hacked WebsiteSOS](https://www.namecheap.com/security/fix-hacked-website/)[Guru Guides](https://www.namecheap.com/guru-guides/)[Blog](https://www.namecheap.com/blog/)[Build and Grow HubNEW](https://www.namecheap.com/build-and-grow-hub/)[How-To Videos](https://www.namecheap.com/support/knowledgebase/category/2253/howto-videos/)[Status Updates](https://www.namecheap.com/status-updates/)
+[Knowledgebase](https://www.namecheap.com/support/knowledgebase/)[Fix Hacked WebsiteSOS](https://www.namecheap.com/security/fix-hacked-website/)[Guru Guides](https://www.namecheap.com/guru-guides/)[Blog](https://www.namecheap.com/blog/)[Build + Grow HubNEW](https://www.namecheap.com/build-and-grow-hub/)[How-To Videos](https://www.namecheap.com/support/knowledgebase/category/2253/howto-videos/)[Status Updates](https://www.namecheap.com/status-updates/)
 
 Account
 
