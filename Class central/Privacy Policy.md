@@ -107,6 +107,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Holistic Health](https://www.classcentral.com/subject/holistic-health)
 * [Ayurveda](https://www.classcentral.com/subject/ayurveda)
 * [Herbalism](https://www.classcentral.com/subject/herbalism)
+* [Massage Therapy](https://www.classcentral.com/subject/massage-therapy)
 * [View all Health & Medicine](https://www.classcentral.com/subject/health)
 
 ### Mathematics
@@ -413,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. harvard
     
-2. machine learning
+2. graphic design
     
-3. French
+3. machine learning
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Communication Skills
     
-    31,681 courses](https://www.classcentral.com/subject/cs)
-2. [Web Development
+    3,891 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Python
     
-    12,537 courses](https://www.classcentral.com/subject/web-development)
-3. [Information Technology
+    8,521 courses](https://www.classcentral.com/subject/python)
+3. [Digital Marketing
     
-    4,238 courses](https://www.classcentral.com/subject/information-technology)
+    5,788 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Model Thinking
+1. [Gender and Sexuality: Applications in Society
     
-    University of Michigan](https://www.classcentral.com/course/modelthinking-317)
-2. [Chinese for Beginners
+    The University of British Columbia](https://www.classcentral.com/course/gender-studies-university-of-british-columbia-gen-12333)
+2. [Introductory Human Physiology
     
-    Peking University](https://www.classcentral.com/course/hy-2353)
-3. [Product Management Fundamentals
+    Duke University](https://www.classcentral.com/course/humanphysio-380)
+3. [Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis
     
-    University System of Maryland](https://www.classcentral.com/course/product-management-the-university-of-maryland-col-19098)
+    Wellcome Genome Campus](https://www.classcentral.com/course/bacterial-genomes-access-and-analysis-11907)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
