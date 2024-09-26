@@ -154,7 +154,7 @@ Renton, WA, 98055 USA
 
 Connect with Valley
 
-* [![](/globalassets/caring-bridge.b03aac44.svg)](https://www.caringbridge.org/)
+* [![](/globalassets/caring-bridge.b03aac44.svg)](https://podcasters.spotify.com/pod/show/valley-medical-center)
 * [![](/contentassets/d323b73967ed4753b9fd2f4c39c94702/instagram.8bebbc19.svg)](https://www.instagram.com/wearevalley)
 * [![](/globalassets/valley-medical/data/blocks/devtest/facebook.6fcdbcca.svg)](https://www.facebook.com/valleymed)
 * [![](/globalassets/youtube.7d99cff0.svg)](https://www.youtube.com/user/ValleyMedicalCtr/featured)
