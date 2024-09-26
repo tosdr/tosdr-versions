@@ -91,19 +91,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")15 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")21 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Semaglutide may reduce opioid overdoses, a new study suggests](https://www.sciencenews.org/article/semaglutide-ozempic-opioid-overdose) 
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")18 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")24 hours ago
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
             ### [A brain network linked to attention is larger in people with depression](https://www.sciencenews.org/article/brain-network-larger-depression)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")20 hours ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")September 25, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")15 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")21 hours ago
             
         * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
             ### [Some of Earth’s extinct giants may have been smaller than thought](https://www.sciencenews.org/article/extinct-giants-size-estimates)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")17 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")22 hours ago
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
             ### [A brain network linked to attention is larger in people with depression](https://www.sciencenews.org/article/brain-network-larger-depression)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")20 hours ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")September 25, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+    * * [Earth](https://www.sciencenews.org/topic/earth)
+            
+            ### [Reactive dust from Great Salt Lake may have health consequences](https://www.sciencenews.org/article/salt-lake-dust-health-consequences)
+            
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")2 hours ago
+            
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
             ### [A vital ocean current is stable, for now](https://www.sciencenews.org/article/vital-ocean-florida-current-stable)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [‘Smart lighting’ might make vertical farming more affordable](https://www.sciencenews.org/article/smart-lighting-vertical-farming)
             
             By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")September 24, 2024
-            
-        * [Environment](https://www.sciencenews.org/topic/environment)
-            
-            ### [A biogeochemist is tracking the movements of toxic mercury pollution](https://www.sciencenews.org/article/jacqueline-gerson-mercury-movement)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
