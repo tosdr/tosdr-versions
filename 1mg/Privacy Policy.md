@@ -22,8 +22,6 @@ or
 
 Sign in with email
 
-Have a referral code?
-
 By signing in you agree to our  
 
 Terms & conditions
