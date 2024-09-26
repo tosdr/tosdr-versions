@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
+[![NRG Energy Giving](/assets/Images/teasers/small/NRG.png)](http://www.followthemoney.org/research/blog/nrg-energy-blue-red-green/)
 
-Energy Giving in Colorado, 2013-14.
+NRG Energy Giving, by Party, 2000-13.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
