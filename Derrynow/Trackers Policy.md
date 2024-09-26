@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-25 Sept 2024
+26 Sept 2024
 
 * [Home
     
@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction")](https://www.derrynow.com/news/national-news/1613982/pictures-bargain-alert-as-bord-na-mona-machines-go-under-the-hammer-at-huge-auction.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction](https://www.derrynow.com/news/national-news/1613982/pictures-bargain-alert-as-bord-na-mona-machines-go-under-the-hammer-at-huge-auction.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![PSNI cordon Carnhill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI cordon Carnhill")](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
 
 Police cordon following the incident in Carnhill where a number of houses were evacuated.
@@ -284,13 +291,6 @@ Police cordon following the incident in Carnhill where a number of houses were e
 [Three vehicles damaged in Derry security alert](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction")](https://www.derrynow.com/news/national-news/1613982/pictures-bargain-alert-as-bord-na-mona-machines-go-under-the-hammer-at-huge-auction.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction](https://www.derrynow.com/news/national-news/1613982/pictures-bargain-alert-as-bord-na-mona-machines-go-under-the-hammer-at-huge-auction.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man charged with possessing firearm in public](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing firearm in public")](https://www.derrynow.com/news/local-news/1613746/derry-man-charged-with-possessing-firearm-in-public.html)
 
 Derry Magistrate's Court
@@ -314,13 +314,6 @@ Derry Magistrate's Court
 [Man due in Derry Court charged with series of drug offences](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with possessing nunchucks and knuckle dusters returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing nunchucks and knuckle dusters returned for trial")](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with possessing nunchucks and knuckle dusters returned for trial](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Wolverhampton Wanderers sign talented Derry City teenager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Wolverhampton Wanderers sign talented Derry City teenager")](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
 
 Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
@@ -329,6 +322,13 @@ Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
 
 [Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with possessing nunchucks and knuckle dusters returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing nunchucks and knuckle dusters returned for trial")](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with possessing nunchucks and knuckle dusters returned for trial](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Special Translink FAI Cup Semi Final coach for Derry City FC fans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Special Translink FAI Cup Semi Final coach for Derry City FC fans")](https://www.derrynow.com/news/derry-sport/1613814/special-translink-fai-cup-semi-final-coach-for-derry-city-fc-fans.html)
 
@@ -515,7 +515,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh")](https://www.derrynow.com/news/home/1614022/dungiven-campaign-group-react-angrily-to-plans-to-erect-more-wind-turbines-on-benbradagh.html)
+[![Cutting speed limit to 20mph in residential areas should be considered – O’Dowd](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cutting speed limit to 20mph in residential areas should be considered – O’Dowd")](https://www.derrynow.com/news/local-news/1614374/cutting-speed-limit-to-20mph-in-residential-areas-should-be-considered-odowd.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Cutting speed limit to 20mph in residential areas should be considered – O’Dowd](https://www.derrynow.com/news/local-news/1614374/cutting-speed-limit-to-20mph-in-residential-areas-should-be-considered-odowd.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Durkan: Unblocking water issues key to unlocking housing opportunities for all](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan: Unblocking water issues key to unlocking housing opportunities for all")](https://www.derrynow.com/news/derry-news/1614172/durkan-unblocking-water-issues-key-to-unlocking-housing-opportunities-for-all.html)
+
+Mark H Durkan.
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Durkan: Unblocking water issues key to unlocking housing opportunities for all](https://www.derrynow.com/news/derry-news/1614172/durkan-unblocking-water-issues-key-to-unlocking-housing-opportunities-for-all.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh](https://www.derrynow.com/resizer/165/93/true/2024_09_25/CDP_-_24-09-24_-_Page_4_lead_pic-1727267592058_1727267700.JPG--.JPG?1727267700625 "Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh")](https://www.derrynow.com/news/home/1614022/dungiven-campaign-group-react-angrily-to-plans-to-erect-more-wind-turbines-on-benbradagh.html)
 
 Members of the Dungiven community stage a protest outside the public consultation event for another proposed windfarm on Benbradagh.
 
@@ -524,7 +540,7 @@ Members of the Dungiven community stage a protest outside the public consultatio
 [Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh](https://www.derrynow.com/news/home/1614022/dungiven-campaign-group-react-angrily-to-plans-to-erect-more-wind-turbines-on-benbradagh.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Northern Ireland deals ‘left in limbo-land’ over funding pause](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Northern Ireland deals ‘left in limbo-land’ over funding pause")](https://www.derrynow.com/news/local-news/1614405/northern-ireland-deals-left-in-limbo-land-over-funding-pause.html)
+[![Northern Ireland deals ‘left in limbo-land’ over funding pause](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_25/1727282106999_0.jpg--.jpg?1727282107087 "Northern Ireland deals ‘left in limbo-land’ over funding pause")](https://www.derrynow.com/news/local-news/1614405/northern-ireland-deals-left-in-limbo-land-over-funding-pause.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -546,22 +562,6 @@ Foyle MP Colum Eastwood and former Taoiseach Leo Varadkar
 
 [Former Taoiseach Leo Varadkar to address New Ireland Commission event in Derry](https://www.derrynow.com/news/local-news/1614192/former-taoiseach-leo-varadkar-to-address-new-ireland-commission-event-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Includes Youth with funding from Tesco](https://www.derrynow.com/resizer/165/93/true/2024_09_25/MixCollage-25-Sep-2024-09-57-AM-5230-1727255055127.jpg--.jpg?1727255055252 "Derry Includes Youth with funding from Tesco")](https://www.derrynow.com/news/local-news/1611765/derry-includes-youth-drop-in-programme-awarded-funding-from-tesco.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry Include Youth drop-in programme awarded funding from Tesco](https://www.derrynow.com/news/local-news/1611765/derry-includes-youth-drop-in-programme-awarded-funding-from-tesco.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry gets set to host the Carnival of the Dead this Halloween](https://www.derrynow.com/resizer/165/93/true/2024_09_25/2409LDP016-1727263772496.JPG--.JPG?1727263774324 "Derry gets set to host the Carnival of the Dead this Halloween")](https://www.derrynow.com/news/local-news/1613904/derry-gets-set-to-host-the-carnival-of-the-dead-this-halloween.html)
-
-Jacqueline Whoriskey with Jim Collins, officially launching the parade in the terrifying tunnels of the Tower Museum . PHOTO: Lorcan Doherty
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry gets set to host the Carnival of the Dead this Halloween](https://www.derrynow.com/news/local-news/1613904/derry-gets-set-to-host-the-carnival-of-the-dead-this-halloween.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
