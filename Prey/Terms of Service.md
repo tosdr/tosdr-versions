@@ -118,13 +118,13 @@ Blog
 
 Latest updates & insights about security](https://preyproject.com/blog)
 
-[![Dark Web Monitoring Solutions for MSPs: Protecting Clients from Hidden Threats](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/6686b13be3d80da6c43dcb9e_Dark-Web-monitoring-msp.png)
+[![How to simplify software inventory: best practices and automation](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/66f5cc38c70167e57576c704_How-to-simplify-software-inventory.png)
 
 Editor's Pick
 
-Dark Web Monitoring Solutions for MSPs: Protecting Clients from Hidden Threats
+How to simplify software inventory: best practices and automation
 
-From shadowy threats to new business opportunities: How MSPs can leverage Dark Web monitoring to enhance client's security and drive growth.](https://preyproject.com/blog/dark-web-monitoring-solutions-for-msp)
+Discover how to streamline your software inventory with best practices and automation. Learn to implement effective SAM strategies for optimal tracking](https://preyproject.com/blog/how-to-simplify-software-inventory-best-practices-and-automation)
 
 [Rocket icon
 
