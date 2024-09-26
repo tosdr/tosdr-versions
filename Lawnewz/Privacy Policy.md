@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Sarah Beth Clendaniel appears in a booking photo, on the left; and in tactical gear, on the right](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Sarah-Beth-Clendaniel-432x243.jpg)](https://lawandcrime.com/crime/lay-this-city-to-waste-neo-nazi-leaders-girlfriend-planned-to-completely-destroy-baltimore-but-got-caught-by-talking-about-the-would-be-attack-online/)
+1. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, top to bottom: Kelly Fontaine poses for a picture taken by Brian Dula inside the U.S. Capitol building on Jan. 6, 2021; Fontaine, left, and Dula (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Kelly-Fontaine-Brian-Dula-432x243.jpg)](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
     
-    ### ['Lay this city to waste': Neo-Nazi leader’s girlfriend planned to 'completely destroy' Baltimore — but got caught by talking about the would-be attack online](https://lawandcrime.com/crime/lay-this-city-to-waste-neo-nazi-leaders-girlfriend-planned-to-completely-destroy-baltimore-but-got-caught-by-talking-about-the-would-be-attack-online/)
+    ### ['Donald Trump invited them': Jan. 6 couple who claimed riot was 'staged to silence our voice' now says they answered the call like US soldiers in WWII](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
     
-2. [![Dwayne Robinson](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Dwayne-Robinson-432x243.jpg)](https://lawandcrime.com/crime/brother-who-thought-he-was-poisoned-for-years-stabbed-sister-with-hunting-knife-as-she-ate-in-kitchen-covered-body-with-blanket-and-then-finished-her-food-sheriff/)
+2. [![Nathaniel McGuire court explosion](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Nathaniel-McGuire-432x243.jpg)](https://lawandcrime.com/crime/all-of-a-sudden-you-see-the-blast-courthouse-bomber-threw-improvised-explosive-device-to-avoid-arraignment-injuring-5-police-say/)
     
-    ### [Brother who thought he was poisoned for years stabbed sister with hunting knife as she ate in kitchen, covered body with blanket, and then finished her food: Sheriff](https://lawandcrime.com/crime/brother-who-thought-he-was-poisoned-for-years-stabbed-sister-with-hunting-knife-as-she-ate-in-kitchen-covered-body-with-blanket-and-then-finished-her-food-sheriff/)
+    ### ['All of a sudden you see the blast': Courthouse bomber threw 'improvised explosive device' to avoid arraignment, injuring 5, police say](https://lawandcrime.com/crime/all-of-a-sudden-you-see-the-blast-courthouse-bomber-threw-improvised-explosive-device-to-avoid-arraignment-injuring-5-police-say/)
     
-3. [![Darien Urban, inset on the left; and Shalene Ehlers, inset on the right, against an image of a campground.](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Urban-Ehlers-432x243.jpg)](https://lawandcrime.com/crime/couple-allegedly-tried-to-sell-baby-boy-for-a-6-pack-of-beer-to-man-at-campground-because-taking-care-of-three-dogs-and-a-baby-was-too-much/)
+3. [![Eric Adams, Merrick Garland](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Eric-Adams-Merrick-Garland-432x243.jpg)](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-joins-growing-list-of-high-profile-democrats-prosecuted-by-merrick-garlands-doj/)
     
-    ### [Couple allegedly tried to sell baby boy for a '6-pack of beer' to man at campground because taking care of 'three dogs and a baby' was too much](https://lawandcrime.com/crime/couple-allegedly-tried-to-sell-baby-boy-for-a-6-pack-of-beer-to-man-at-campground-because-taking-care-of-three-dogs-and-a-baby-was-too-much/)
+    ### [NYC Mayor Eric Adams joins growing list of high-profile Democrats prosecuted by Merrick Garland's DOJ](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-joins-growing-list-of-high-profile-democrats-prosecuted-by-merrick-garlands-doj/)
     
-4. [![Matthew Ivester fatally beat his girlfriend, Stephanie Long, to death, say deputies in Arapahoe County, Colorado. (Mug shot: Arapahoe County Sheriff's Office)](https://am22.mediaite.com/lc/cnt/uploads/2023/10/Matthew-Ivester-432x243.png)](https://lawandcrime.com/crime/man-who-fatally-beat-girlfriend-in-front-of-surveillance-cameras-pleads-guilty-only-to-assaulting-her/)
+4. [![Insets, clockwise from top left: Isabella Lee Gaddis and Elleana Lee Gaddis (Spartanburg Police), Melissa Ann Parker (Spartanburg County Detention Center), Brianna Lynn Foster (Spartanburg Police). Background: The mangled Hummer that was involved in the crash that killed the Gaddis sisters and Foster (WTHR).](https://am24.mediaite.com/lc/cnt/uploads/2024/09/duicrash-432x243.jpg)](https://lawandcrime.com/crime/i-am-glad-they-went-out-together-identical-twins-friend-killed-in-head-on-crash-with-woman-driving-stolen-hummer-while-high-on-thc-gummies-and-adderall/)
     
-    ### [Man who fatally beat girlfriend in front of surveillance cameras pleads guilty only to assaulting her](https://lawandcrime.com/crime/man-who-fatally-beat-girlfriend-in-front-of-surveillance-cameras-pleads-guilty-only-to-assaulting-her/)
+    ### ['I am glad they went out together': Identical twins, friend killed in head-on crash with woman driving stolen Hummer while high on THC gummies and Adderall](https://lawandcrime.com/crime/i-am-glad-they-went-out-together-identical-twins-friend-killed-in-head-on-crash-with-woman-driving-stolen-hummer-while-high-on-thc-gummies-and-adderall/)
     
-5. [![Larry Albino](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Larry-Albino-432x243.jpg)](https://lawandcrime.com/crime/child-pornographer-busted-thanks-to-zillow-photos-of-home-that-matched-videos-with-toddler-girl-cops-say/)
+5. [![Rudy Giuliani](https://am22.mediaite.com/lc/cnt/uploads/2024/04/AP23349801870591-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giulianis-2020-election-lawyering-for-trump-comes-back-to-haunt-him-again-as-another-court-orders-him-disbarred/)
     
-    ### [Child pornographer busted thanks to Zillow photos of home that matched videos with toddler girl, cops say](https://lawandcrime.com/crime/child-pornographer-busted-thanks-to-zillow-photos-of-home-that-matched-videos-with-toddler-girl-cops-say/)
+    ### [Rudy Giuliani's 2020 election lawyering for Trump comes back to haunt him again as another court orders him disbarred](https://lawandcrime.com/high-profile/rudy-giulianis-2020-election-lawyering-for-trump-comes-back-to-haunt-him-again-as-another-court-orders-him-disbarred/)
     
 
 [](http://eepurl.com/c89Jdb)
