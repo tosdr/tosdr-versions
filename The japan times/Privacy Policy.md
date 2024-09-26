@@ -475,13 +475,17 @@ Revised June 1, 2022
 
   [![A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.")](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
 
+[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+
+  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+
 [Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
 
   [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
 
-[Shohei Ohtani records baseball's first 50-50 season with huge night in Miami](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
+[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
 
-  [![Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/20/422799.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shohei Ohtani connects on his 50th home run of the season during the seventh inning against the Marlins in Miami on Thursday. Ohtani became the first player in MLB history to reach 50 home runs and 50 stolen bases in the same season.")](https://www.japantimes.co.jp/sports/2024/09/20/baseball/mlb/ohtani-50-50-season/ "Shohei Ohtani records baseball's first 50-50 season with huge night in Miami")
+  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
 
 [A first look inside the new Nintendo Museum](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [Pioneering foreign female attorney stresses pragmatism within Japan Inc.](https://www.japantimes.co.jp/business/2024/09/24/companies/catherine-oconnell-profile/ "Pioneering foreign female attorney stresses pragmatism within Japan Inc.")
 
   [![Catherine O’Connell has achieved a number of notable firsts in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423651.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Catherine O’Connell has achieved a number of notable firsts in Japan.")](https://www.japantimes.co.jp/business/2024/09/24/companies/catherine-oconnell-profile/ "Pioneering foreign female attorney stresses pragmatism within Japan Inc.")
-
-[Shanshan study spotlights science linking warming to extreme weather](https://www.japantimes.co.jp/environment/2024/09/23/climate-change/climate-change-weather-attribution/ "Shanshan study spotlights science linking warming to extreme weather")
-
-  [![A person rides a scooter underneath a fallen pole following Typhoon Shanshan in Miyazaki on Aug. 29 in this screengrab taken from a social media video.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/23/422753.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A person rides a scooter underneath a fallen pole following Typhoon Shanshan in Miyazaki on Aug. 29 in this screengrab taken from a social media video.")](https://www.japantimes.co.jp/environment/2024/09/23/climate-change/climate-change-weather-attribution/ "Shanshan study spotlights science linking warming to extreme weather")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,15 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Why is Taro Kono so unpopular now?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "Why is Taro Kono so unpopular now?")
+[Meta pitches augmented reality glasses as eventual smartphone rival](https://www.japantimes.co.jp/business/2024/09/26/companies/meta-orion-glasses-smartphone/ "Meta pitches augmented reality glasses as eventual smartphone rival")
 
-[12 referred to prosecutors over alleged horse abuse during Shinto ritual](https://www.japantimes.co.jp/news/2024/09/25/japan/crime-legal/mie-horse-ritual-case-sent-to-prosecutors/ "12 referred to prosecutors over alleged horse abuse during Shinto ritual")
+9 mins ago
 
-[Expat safety seen as a must for Japanese firms to keep doing business in China](https://www.japantimes.co.jp/news/2024/09/25/japan/crime-legal/china-japanese-businesses/ "Expat safety seen as a must for Japanese firms to keep doing business in China")
+[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+23 mins ago
 
-[Death toll on Noto Peninsula rises to 9 after heavy rain and flooding](https://www.japantimes.co.jp/news/2024/09/25/japan/heavy-rain-noto-peninsula/ "Death toll on Noto Peninsula rises to 9 after heavy rain and flooding")
+[Volunteers step in as lifeline for Noto flood survivors](https://www.japantimes.co.jp/news/2024/09/26/japan/society/noto-flood-volunteers/ "Volunteers step in as lifeline for Noto flood survivors")
+
+24 mins ago
+
+[Canadian PM Trudeau survives no-confidence vote but remains vulnerable](https://www.japantimes.co.jp/news/2024/09/26/world/politics/canada-trudeau-no-confidence-vote/ "Canadian PM Trudeau survives no-confidence vote but remains vulnerable")
+
+52 mins ago
+
+[Chiefs star Travis Kelce more worried about wins than catches](https://www.japantimes.co.jp/sports/2024/09/26/kelce-not-worried-about-catches/ "Chiefs star Travis Kelce more worried about wins than catches")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
