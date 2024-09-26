@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The History of PKM, the Most Common Machine Gun In the World (Part 1)](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-1/10610814)
+* [Wheelgun Wednesday: Top 3 Griz Guns That Could SAVE Your Life](https://www.thegunpage.com/wheelgun-wednesday-top-3-griz-guns-that-could-save-your-life/10610815)
+* [XS Sights Offers Easy Install Night Sights for S&W and Ruger Revolvers](https://www.thegunpage.com/xs-sights-offers-easy-install-night-sights-for-sw-and-ruger-revolvers/10610812)
+* [POTD: The Tombstone – Suppressed 9mm Lever Gun](https://www.thegunpage.com/potd-the-tombstone-suppressed-9mm-lever-gun/10610816)
+* [Not Oppressive Enough: Cali Approves More Gun Laws](https://www.thegunpage.com/not-oppressive-enough-cali-approves-more-gun-laws/10610811)
 * [Maryland’s Red Flag Law Challenged in State Supreme Court](https://www.thegunpage.com/marylands-red-flag-law-challenged-in-state-supreme-court/10610807)
+* ["Hand of God" Revolver From 3:10 to Yuma Up For Auction](https://www.thegunpage.com/hand-of-god-revolver-from-310-to-yuma-up-for-auction/10610810)
 * [Comps are All the Rage! NEW Springfield Armory Echelon Comp 4.5F 9mm](https://www.thegunpage.com/comps-are-all-the-rage-new-springfield-armory-echelon-comp-4-5f-9mm/10610805)
 * [Bait and Switch: Biden Admin Goes After the Wrong People for Deadly Violence in City Streets](https://www.thegunpage.com/bait-and-switch-biden-admin-goes-after-the-wrong-people-for-deadly-violence-in-city-streets/10610802)
 * [GOA & Partner Organizations to Host Active Shooter Response Training in Texas](https://www.thegunpage.com/goa-partner-organizations-to-host-active-shooter-response-training-in-texas/10610801)
-* [Nocpix – A New Brand In Thermal Imaging](https://www.thegunpage.com/nocpix-a-new-brand-in-thermal-imaging/10610806)
-* [Battle For The Future Of The NRA](https://www.thegunpage.com/battle-for-the-future-of-the-nra/10610797)
-* [Savage Revel: A Return To Lever-Actions With New Rimfire Rifle](https://www.thegunpage.com/savage-revel-a-return-to-lever-actions-with-new-rimfire-rifle/10610796)
-* [Committee Passes Resolution To Overturn ATF’s “Engaged In The Business” Rule](https://www.thegunpage.com/committee-passes-resolution-to-overturn-atfs-engaged-in-the-business-rule/10610794)
-* [USA Clay Target League Participation Rises 7 Percent For Fall Season](https://www.thegunpage.com/usa-clay-target-league-participation-rises-7-percent-for-fall-season/10610800)
-* [Biden’s unwillingness to combat gang violence is a deadly disgrace](https://www.thegunpage.com/bidens-unwillingness-to-combat-gang-violence-is-a-deadly-disgrace/10610792)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Brad Lowther on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782316)
 * Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
 * KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
 * KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
@@ -236,7 +237,6 @@ Recent Comments
 * TMann on [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/#comment-782277)
 * charles wilkins on [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/#comment-782273)
 * charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
-* Dr. Ramon Argila deTorres y Sandoval on [Zero Clarity](https://www.conservativedailynews.com/2024/09/zero-clarity/#comment-782260)
 
 [Close](#)
 
