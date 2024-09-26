@@ -375,11 +375,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/09/K365-Webinar-Top-Tips-1200x800-px-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2022/12/CITlocal-CITY-1200x800_NewYork-300x200.png)
     
-    Top Tips for Improving Security With Kaseya 365
+    Kaseya+Datto Connect Local New York
     
-    September 25
+    September 26
     
     [View All Events](https://www.kaseya.com/events/)
     
