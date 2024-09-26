@@ -1,22 +1,22 @@
-![](https://mc.yandex.ru/watch/74856667)
+![](https://mc.yandex.ru/watch/98468737)
 
 [![logo.png](/assets/img/png/logo-new.png)
 
-InstaNavigation](https://instanavigation.com/)
+StoryNavigation](https://storynavigation.com/)
 
-* [View stories](https://instanavigation.com/view-instagram-stories)
-* [Blog](https://instanavigation.com/blog)
+* [View stories](https://storynavigation.com/view-instagram-stories)
+* [Blog](https://storynavigation.com/blog)
 * en
-    * [de](https://instanavigation.com/de/terms-of-use)
-    * [en](https://instanavigation.com/terms-of-use)
-    * [fr](https://instanavigation.com/fr/terms-of-use)
-    * [it](https://instanavigation.com/it/terms-of-use)
-    * [ru](https://instanavigation.com/ru/terms-of-use)
+    * [de](https://storynavigation.com/de/terms-of-use)
+    * [en](https://storynavigation.com/terms-of-use)
+    * [fr](https://storynavigation.com/fr/terms-of-use)
+    * [it](https://storynavigation.com/it/terms-of-use)
+    * [ru](https://storynavigation.com/ru/terms-of-use)
 
-* [View stories](https://instanavigation.com/view-instagram-stories)
-* [Blog](https://instanavigation.com/blog)
+* [View stories](https://storynavigation.com/view-instagram-stories)
+* [Blog](https://storynavigation.com/blog)
 
-[en](#) [de](https://instanavigation.com/de/terms-of-use) [fr](https://instanavigation.com/fr/terms-of-use) [it](https://instanavigation.com/it/terms-of-use) [ru](https://instanavigation.com/ru/terms-of-use)
+[en](#) [de](https://storynavigation.com/de/terms-of-use) [fr](https://storynavigation.com/fr/terms-of-use) [it](https://storynavigation.com/it/terms-of-use) [ru](https://storynavigation.com/ru/terms-of-use)
 
 Terms and Conditions
 ====================
@@ -42,7 +42,7 @@ For the purposes of these Terms and Conditions:
     
 * **Country** refers to: Belarus
     
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to InstaNavigation.
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to StoryNavigation.
     
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
     
@@ -52,7 +52,7 @@ For the purposes of these Terms and Conditions:
     
 * **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
     
-* **Website** refers to InstaNavigation, accessible from [https://instanavigation.com/](https://instanavigation.com/)
+* **Website** refers to StoryNavigation, accessible from [https://storynavigation.com/](https://storynavigation.com/)
     
 * **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
     
@@ -158,27 +158,27 @@ If you have any questions about these Terms and Conditions, You can contact us:
 
 ![logo.png](/assets/img/png/logo-new.png)
 
-The site is a fan page. InstaNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
+The site is a fan page. StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
-* [About us](https://instanavigation.com/about-project)
-* [Blog](https://instanavigation.com/blog)
-* [Features](https://instanavigation.com/features)
-* [Contacts](https://instanavigation.com/contact-us)
+* [About us](https://storynavigation.com/about-project)
+* [Blog](https://storynavigation.com/blog)
+* [Features](https://storynavigation.com/features)
+* [Contacts](https://storynavigation.com/contact-us)
 
-[](https://instanavigation.com/view-instagram-stories)
+[](https://storynavigation.com/view-instagram-stories)
 
 en
 
-* [de](https://instanavigation.com/de/terms-of-use)
-* [en](https://instanavigation.com/terms-of-use)
-* [fr](https://instanavigation.com/fr/terms-of-use)
-* [it](https://instanavigation.com/it/terms-of-use)
-* [ru](https://instanavigation.com/ru/terms-of-use)
+* [de](https://storynavigation.com/de/terms-of-use)
+* [en](https://storynavigation.com/terms-of-use)
+* [fr](https://storynavigation.com/fr/terms-of-use)
+* [it](https://storynavigation.com/it/terms-of-use)
+* [ru](https://storynavigation.com/ru/terms-of-use)
 
 ![logo.png](/assets/img/png/logo-new.png)
 
-The site is a fan page. InstaNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
+The site is a fan page. StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
-© 2024 InstaNavigation. All rights reserved.
+© 2024 StoryNavigation. All rights reserved.
 
-[Terms & Conditions](https://instanavigation.com/terms-of-use) [Privacy policy](https://instanavigation.com/privacy-policy)
+[Terms & Conditions](https://storynavigation.com/terms-of-use) [Privacy policy](https://storynavigation.com/privacy-policy)
