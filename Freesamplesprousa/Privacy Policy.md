@@ -63,6 +63,8 @@ The information collected by us can be categorized as follows:
 
 **Cookies, Analytics, and Third-Party Technologies.**We may use automated technology such as “cookies”, tracking pixels, data analytics tools like Google Analytics, SDKs, and other third party technologies to collect information that enables us to understand how you navigate through and interact with the Website, save your choices, improve your experience while using the Website and offer better content and ads on other websites. Cookies are small text files that are placed by web servers on your device; they are designed to store basic information and to help websites and apps in recognizing your browser. You can manage the use of cookies on your device by modifying your web browser’s cookie settings. Please note that if you choose to delete or decline our use of cookies, you may miss out on certain features offered by the Website.
 
+**Third Party Sites & Platforms.**If you connect or interact with us on third-party sites or applications, the third-party may send us your information. The information collected and disclosed to us is controlled by the third-party and its terms and privacy policy or as you direct by adjusting your privacy settings with the third-party.
+
 3\. How We Use Your Information
 -------------------------------
 
