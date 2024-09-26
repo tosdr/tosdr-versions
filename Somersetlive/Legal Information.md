@@ -46,7 +46,7 @@ If you are from the UK/EU:
 If you are from the US:
 
 * By email: privacyofficer@reachplc.com
-* By mail: Privacy Officer, Reach Plc, 9th Floor, 200 Liberty Street, New York, NY 10281
+* By mail: Privacy Officer, Reach Plc, 19th Floor, 200 Liberty Street, New York, NY 10281
 
 Your point of contact for anything to do with how the Reach group uses your personal data is the office of our group Data Protection Officer, who you can contact by submitting the relevant form accessible within the ‘Your rights and how to exercise them’ section by emailing [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com) or by writing to ‘The Data Protection Team’ at the address above.
 
@@ -1073,7 +1073,7 @@ Privacy legislation in the US and Canada is evolving and as a result there are s
 We have appointed a Privacy Officer to oversee our data protection and privacy practices, in the US and Canada. Our Data Protection Officer holds this position. If you have any comments, concerns, or questions, including any requests to exercise your legal rights, you can contact our Privacy Officer as follows:
 
 * By email: privacyofficer@reachplc.com
-* By post: Privacy Officer, Reach Plc, 9th Floor, 200 Liberty Street, New York, NY 10281
+* By post: Privacy Officer, Reach Plc, 19th Floor, 200 Liberty Street, New York, NY 10281
 
 It would be very helpful for us if you could include your full name, your postcode, details of the service you are using and/or account information when contacting us.
 
