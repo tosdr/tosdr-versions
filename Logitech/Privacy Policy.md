@@ -47,12 +47,12 @@ Free standard shipping on orders over $29.00
         * [All Mice](https://www.logitech.com/en-us/products/mice.html)
         * [Explore All](https://www.logitech.com/en-us/products/mice.html)
         
-        [Keyboards](https://www.logitech.com/en-us/products/keyboards.html)
-        -------------------------------------------------------------------
+        [KEYBOARDS & CONSOLE](https://www.logitech.com/en-us/products/keyboards.html)
+        -----------------------------------------------------------------------------
         
         ![Wireless keyboard](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/shop-keyboards.png?v=1)
         
-        Keyboards
+        KEYBOARDS & CONSOLE
         
         * [Master Series](https://www.logitech.com/en-us/products/keyboards.html?filters=master-series)
         * [Ergo Series](https://www.logitech.com/en-us/products/keyboards.html?filters=ergonomic-line)
@@ -93,11 +93,12 @@ Free standard shipping on orders over $29.00
         
         New & Featured
         
+        * [MX Creative Console](https://www.logitech.com/en-us/products/keyboards/buy-mx-creative-console.html)
         * [MX Ink for Meta Quest](https://www.logitech.com/en-us/products/vr/mx-ink.html)
         * [Casa Pop up Desk](https://www.logitech.com/en-us/products/combos/casa-pop-up-desk.html)
         * [MX Keys S Combo for Mac](https://www.logitech.com/en-us/products/combos/mx-keys-s-combo-for-mac.html)
         * [MX Brio](https://www.logitech.com/en-us/products/webcams/mx-brio-4k-webcam.html)
-        * [Keys-To-Go 2](https://www.logitech.com/en-us/products/tablet-keyboards/keys-to-go2-universal.html)
+        * [Keys-To-Go-2](https://www.logitech.com/en-us/products/tablet-keyboards/keys-to-go2-universal.html)
         
         [For Business](https://www.logitech.com/en-us/business.html)
         ------------------------------------------------------------
@@ -292,6 +293,7 @@ Free standard shipping on orders over $29.00
         Software & Services
         
         * [Select Service Plan](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/select-comprehensive-service-plan.html)
+        * [Essential Service Plan](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/essential-service-plan.html)
         * [Sync Management](https://www.logitech.com/en-us/video-collaboration/products/sync.html)
         * [Tune App](https://www.logitech.com/en-us/video-collaboration/software/logi-tune-software.html)
         * [Room Booking](https://www.logitech.com/en-us/products/video-conferencing/solutions/roombooking.html)
@@ -364,15 +366,8 @@ Free standard shipping on orders over $29.00
         
         Software
         
-        * [Logi AI Prompt Builder](https://www.logitech.com/en-us/software/logi-ai-prompt-builder.html)
-        * [Logi Tune](https://www.logitech.com/en-us/video-collaboration/software/logi-tune-software.html)
-        * [Logitech Options](https://www.logitech.com/en-us/software/options.html)
         * [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)
-        * [Logitech Flow](https://www.logitech.com/en-us/software/features/flow.html)
-        * [Logitech Capture](https://www.logitech.com/en-us/software/capture.html)
-        * [Spotlight for Presentation Remote](https://support.logi.com/hc/articles/360024844213--downloads-spotlight-presentation-remote)
-        * [Spotlight for Mouse](https://www.logitech.com/en-us/education/spotlight-for-mouse.html)
-        * [Logitech Sync Device Management](https://www.logitech.com/en-us/video-collaboration/products/sync.html)
+        * [Logi Tune](https://www.logitech.com/en-us/video-collaboration/software/logi-tune-software.html)
         * [G HUB](https://www.logitechg.com/en-us/innovation/g-hub.html)
         * [See all Software](https://support.logi.com/hc/articles/360024361233)
         * [Software](https://support.logi.com/hc/articles/360024361233)
@@ -1304,6 +1299,8 @@ By checking this box, I agree to the [Privacy Policy](https://store.digitalriver
 Or
 
 [CHECKOUT](https://www.logitech.com/checkout)
+
+Checkout with ESW: Clicking "Checkout" takes you to the ESW checkout, where payment is made and your order is processed by ESW, Logitech's partner for international sales.
 
 Your cart is currently empty. Begin shopping now Close
 
