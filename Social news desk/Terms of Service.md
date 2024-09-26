@@ -7,9 +7,9 @@
 * Features
     
     Close Features Open Features
-* Industries
+* Customers
     
-    Close Industries Open Industries
+    Close Customers Open Customers
 * Resources
     
     Close Resources Open Resources
