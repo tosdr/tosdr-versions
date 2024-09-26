@@ -354,7 +354,7 @@ Digital Services
 Related Insights
 ----------------
 
-[How to Get More Out of Your Bank’s App](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
+[How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
 
 [Budgeting for Teens: Teaching Teens to Save](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/teaching-teens-how-to-save-money)
 
