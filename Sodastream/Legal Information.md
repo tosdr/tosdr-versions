@@ -126,9 +126,9 @@ The following items listed below will only be shipped to addresses in California
 Gas Exchange
 ------------
 
-Upon placing an order for CO2 gas cylinders (“Cylinders”) you must return used Cylinders to SodaStream USA Inc. SodaStream will ship the full capped Cylinders to the address provided by you upon placing the order including a pre-paid mail return label and box for the return of the used Cylinders via email.
+Upon placing an order for CO2 gas cylinders (“Cylinders”) you must return used Cylinders to SodaStream USA Inc. SodaStream will ship the full, capped cylinders to your address and will include a pre-paid return label in the box for the return of the empty, used cylinders via USPS mail.
 
-For the return of used Cylinders, please use the box in which you received the full Cylinders. Place the caps on your used Cylinders and place in the box, attach the enclosed pre-paid return shipping label and attach it to the box.Return by placing the box in your mailbox or visit any USPS location ([www.usps.com](https://sodastream.com/pages/www.usps.com "www.usps.com")). Your cylinders are due back no later than 60 days after the order is placed, free of charge. order, free of charge. SodaStream must receive the used SodaStream Cylinders no later than sixty (60)days after the order is placed.
+For the return of used Cylinders, please use the box in which you received the full Cylinders. Place the caps back on the empty, used cylinders and place them in the box they were shipped in. Attach the enclosed pre-paid return shipping label to the box. Return by placing the box in your mailbox or visit any USPS location ([www.usps.com](https://sodastream.com/pages/www.usps.com "www.usps.com")). SodaStream must receive the used SodaStream Cylinders no later than sixty (60)days after the order is placed.
 
 Should you fail to return the used SodaStream Cylinders within such sixty (60)days, SodaStream will charge your credit card $15.00 USD plus tax for each used Cylinder not returned.
 
