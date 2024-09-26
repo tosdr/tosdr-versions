@@ -180,19 +180,19 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
+[![](https://f-droid.org/repo/spam.blocker/en-US/icon_NvpPfzS3J8Gx5PNIZUjNWQwk8ECPl6nVjaQ_6-8FsxY=.png)
 
-#### Valentin's PowerTools #036 - Ease The Waiting
+#### SpamBlocker (Call & SMS)
 
-A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/ua.syt0r.kanji.fdroid/en-US/icon_WOSc49VcLgMELOmUR06ULIlzfKwH2sOslgW-JZ7UgoI=.png)
+Spam Call/SMS blocker](https://f-droid.org/en/packages/spam.blocker/)[![](https://f-droid.org/repo/org.woheller69.omweather/en-US/icon_E3rAVMKaoXV3S6EdjZbr8Ah3yVuGV4teI7GOx4SRxl4=.png)
 
-#### Kanji Dojo
+#### Cirrus
 
-Learn & practice writing Japanese characters](https://f-droid.org/en/packages/ua.syt0r.kanji.fdroid/)[![](https://f-droid.org/repo/player.phonograph.plus/en-US/icon_ncl9cm4Mr4U0edpzvu_8H--zCPmHTHhroPKmj3ABwA4=.png)
+Weather and rain radar for any location - worldwide](https://f-droid.org/en/packages/org.woheller69.omweather/)[![](https://f-droid.org/repo/org.dianqk.ruslin/en-US/icon_l6fiwJnqQoiv3PWvjrQJ80jz37szN9lDg0QXZsOQmF8=.png)
 
-#### Phonograph Plus
+#### Ruslin
 
-A revived classic material designed local music player for Android](https://f-droid.org/en/packages/player.phonograph.plus/)
+A note application that supports syncing using a self-hosted Joplin server.](https://f-droid.org/en/packages/org.dianqk.ruslin/)
 
 ### Latest Apps
 
@@ -210,4 +210,4 @@ Stay organized with one plaintext file per day.](https://f-droid.org/en/packages
 
 Strawberry is strawberry, strawberry 🍓🍓🍓](https://f-droid.org/en/packages/straw.berry/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-09-23, fdroid-website [2.267](https://gitlab.com/fdroid/fdroid-website/tree/0706e61086)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-26, fdroid-website [2.267](https://gitlab.com/fdroid/fdroid-website/tree/0706e61086)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
