@@ -8,7 +8,7 @@
 
 [Python](https://www.javatpoint.com/python-tutorial) [Django](https://www.javatpoint.com/django-tutorial) [Numpy](https://www.javatpoint.com/numpy-tutorial) [Pandas](https://www.javatpoint.com/python-pandas) [Tkinter](https://www.javatpoint.com/python-tkinter) [Pytorch](https://www.javatpoint.com/pytorch) [Flask](https://www.javatpoint.com/flask-tutorial) [OpenCV](https://www.javatpoint.com/opencv)
 
-### AI,ML and Data Science
+### AI , ML and Data Science
 
 [Artificial Intelligence](https://www.javatpoint.com/artificial-intelligence-ai) [Machine Learning](https://www.javatpoint.com/machine-learning) [Data Science](https://www.javatpoint.com/data-science) [Deep Learning](https://www.javatpoint.com/deep-learning) [TensorFlow](https://www.javatpoint.com/tensorflow) [Artificial Neural Network](https://www.javatpoint.com/artificial-neural-network) [Matplotlib](https://www.javatpoint.com/matplotlib) [Python Scipy](https://www.javatpoint.com/python-scipy)
 
@@ -16,11 +16,11 @@
 
 [Java](https://www.javatpoint.com/java-tutorial) [Servlet](https://www.javatpoint.com/servlet-tutorial) [JSP](https://www.javatpoint.com/jsp-tutorial) [Spring Boot](https://www.javatpoint.com/spring-boot-tutorial) [Spring Framework](https://www.javatpoint.com/spring-tutorial) [Hibernate](https://www.javatpoint.com/hibernate-tutorial) [JavaFX](https://www.javatpoint.com/javafx-tutorial) [Java Web Services](https://www.javatpoint.com/java-web-services-tutorial)
 
-### B.tech and MCA
+### B.Tech and MCA
 
 [DBMS](https://www.javatpoint.com/dbms-tutorial) [Data Structures](https://www.javatpoint.com/data-structure-tutorial) [Operating System](https://www.javatpoint.com/operating-system) [Computer Network](https://www.javatpoint.com/computer-network-tutorial) [DAA](https://www.javatpoint.com/daa-tutorial) [Computer Organization](https://www.javatpoint.com/computer-organization-and-architecture-tutorial) [Software Engineering](https://www.javatpoint.com/software-engineering) [Data Mining](https://www.javatpoint.com/data-mining)
 
-### Web technology
+### Web Technology
 
 [HTML](https://www.javatpoint.com/html-tutorial) [CSS](https://www.javatpoint.com/css-tutorial) [JavaScript](https://www.javatpoint.com/javascript-tutorial) [Jquery](https://www.javatpoint.com/jquery-tutorial) [Angular-8](https://www.javatpoint.com/angular-8) [React JS](https://www.javatpoint.com/reactjs-tutorial) [React Native](https://www.javatpoint.com/react-native-tutorial) [Node JS](https://www.javatpoint.com/nodejs-tutorial)
 
@@ -57,7 +57,7 @@
     * [Java](https://www.javatpoint.com/compiler/java)
     * [Php](https://www.javatpoint.com/compiler/php)
     * [C](https://www.javatpoint.com/compiler/c)
-    * [C++](https://www.javatpoint.com/compiler/c++)
+    * [C++](https://www.javatpoint.com/compiler/cpp)
     * [R](https://www.javatpoint.com/compiler/r)
     * [Html](https://www.javatpoint.com/compiler/html)
     * [Javascript](https://www.javatpoint.com/compiler/javascript)
@@ -246,7 +246,7 @@ G-13, 2nd Floor, Sec-3, Noida, UP, 201301, India
 
 ##### Online Compiler
 
-[C](https://www.javatpoint.com/compiler/c) [R](https://www.javatpoint.com/compiler/r) [C++](https://www.javatpoint.com/compiler/c++) [Php](https://www.javatpoint.com/compiler/php) [Java](https://www.javatpoint.com/compiler/java) [Html](https://www.javatpoint.com/compiler/html) [Swift](https://www.javatpoint.com/compiler/swift) [Python](https://www.javatpoint.com/compiler/python) [JavaScript](https://www.javatpoint.com/compiler/javascript) [TypeScript](https://www.javatpoint.com/compiler/typescript)
+[C](https://www.javatpoint.com/compiler/c) [R](https://www.javatpoint.com/compiler/r) [C++](https://www.javatpoint.com/compiler/cpp) [Php](https://www.javatpoint.com/compiler/php) [Java](https://www.javatpoint.com/compiler/java) [Html](https://www.javatpoint.com/compiler/html) [Swift](https://www.javatpoint.com/compiler/swift) [Python](https://www.javatpoint.com/compiler/python) [JavaScript](https://www.javatpoint.com/compiler/javascript) [TypeScript](https://www.javatpoint.com/compiler/typescript)
 
 © Copyright 2024 Javatpoint. All Rights Reserved.
 
