@@ -47,10 +47,6 @@ Upcoming Experiences
 
 [View All Experiences »](https://www.atlasobscura.com/events)
 
-   [![](https://img.atlasobscura.com/zQD9eElB4VZtnMphKLv9iaxFcEGgwDLO1MsSfrmFS6c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kYzM0/ZjJiZC0xMTQ3LTQ3/NmQtYjhmOS00NjFl/MTVhYjI1OWM0NTQz/Nzc4M2Y3M2JiOWQ1/NDlfR0lsUjRkUVd3/QUFsM3FRLmpwZw.jpg)
-
-Wild Life Virtual Book Launch - Free With Book Order](https://www.atlasobscura.com/experiences/wild-life-virtual-book-launch)
-
    [![](https://img.atlasobscura.com/tfcZtMfPd77g6n4TiqapU8m34hKzRA5Riv-tMP8cx8Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zODY0/YWM1Mi1mMWM0LTQ3/NjktOGQyNC0wZTIx/OWVjMTRhZTYzNWQx/YmQ4YmU0YWJjMjZm/YmNfS0RkMkllc2cu/cG5n.png)
 
 Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-pa)
@@ -187,7 +183,7 @@ Most Recent Stories
 
 Our 'Mini-Moon' 2024 PT5 Is Mini—But It's Not a Moon](https://www.atlasobscura.com/articles/mini-moon-2024-pt5)
 
-   [![Poles protrude from the Xiaohe cemetery, marking the locations of tombs. ](https://img.atlasobscura.com/Jf2PxdeKr_3zM4eZNBbq-WnLn_JZnGFbvIYYdguSgOc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84OTExZjBhYy02/MTM0LTQ2YjMtYjFl/Yy0yNWMyN2UxNGU1/OWYzMzVlNjA3MjBm/NmIzMGUwNDdf5qW8/5YWw5Y-k5Z-OX0xv/dWxhbl9jaXR5X0No/aW5hX1hpbmppYW5n/X1VydW1xaV9XZWxj/b21lX3lvdV90b190/b3VyX3RoZV8tX3Bh/bm9yYW1pb18oMSku/anBn.jpg)
+   [![The mummies of Tarim Basin are up to 3,600 years old.](https://img.atlasobscura.com/jc7mRH5QYIp3ULll4nGEl1FR8OKP3zXFprAIbcKmJ5M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iNWUzNTQ1OC0x/NDE5LTQzMjgtYjVh/ZC0xYjhiYTlmY2Vh/Y2IzMTRmMjcyOThj/YWQ3OGJkODVfVGFy/aW0gbXVtbWllcyBm/cm9tIHRoZSBwcmVz/ZW50LWRheSBYaW5q/aWFuZyByZWdpb24g/b2YgTm9ydGh3ZXN0/ZXJuIENoaW5hIENS/RURJVCBXZW55aW5n/IExpLmpwZw.jpg)
 
 This Mummy Cheese Is Full of Ancient Secrets](https://www.atlasobscura.com/articles/mummy-cheese-discovery)
 
