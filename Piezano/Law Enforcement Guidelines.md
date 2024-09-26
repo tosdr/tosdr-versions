@@ -6,7 +6,7 @@ Make Gourmet Crispy Delicious
 
 Pizza in Just 6 Minutes!
 
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343005233235575009)
+[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343005349256845553)
 
 Arbitration Agreement
 
@@ -37,13 +37,17 @@ D. Each party shall pay the fees and costs of its own counsel, experts and witne
 6\. SEVERABILITY. If any provision of this Agreement is declared or found to be unlawful, unenforceable or void, such provision will be ineffective only to the extent that it is found unlawful, unenforceable or void, and the remainder of the provision and all other provisions shall remain fully enforceable.  
 
 * [Home](https://buypiezano.com/Home)
+* [How to Use](https://buypiezano.com/howto)
+* [Manual](https://buypiezano.com/Manual)
+* [Accessibility Statement](https://buypiezano.com/Accessibility-Statement)
 * [Privacy Policy](https://buypiezano.com/Privacy-Policy)
 * [Contact Us](https://buypiezano.com/Contact-Us)
 * [Return Policy](https://buypiezano.com/Return-Policy)
 * [Terms and Conditions](https://buypiezano.com/Terms-and-Conditions)
 * [Arbitration Agreement](https://buypiezano.com/Arbitration-Agreement)
+* [Shipping Policy](https://buypiezano.com/Shipping-Policy)
 * [California Consumer Privacy Act Disclosures](https://buypiezano.com/California-Consumer-Privacy-Act-Disclosures)
-* [How to Use](https://buypiezano.com/howto)
-* [Manual](https://buypiezano.com/Manual)
+* [Do Not Sell or Share My Personal Information](https://www.emson.com/optout)
+* [Limit the Use of My Sensitive Personal Information](https://www.emson.com/optout)
 
-Copyright © 2024 Emson
+Copyright © 2024 E. Mishan & Sons, Inc. | Built with [**Buyist**](https://buyist.com/)
