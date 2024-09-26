@@ -31,7 +31,7 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
-* [NOTO PENINSULA FLOODING](https://www.japantimes.co.jp/tag/noto-peninsula/ "NOTO PENINSULA FLOODING")
+* [Hakamata retrial](https://www.japantimes.co.jp/tag/iwao-hakamata/ "Hakamata retrial")
 * [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/about-us/link-policy/podcast/deep-dive/ "Deep Dive")
@@ -138,17 +138,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423527.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
 
+[As Onosato dominates the spotlight, former sumo stars exit the stage](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
+
+  [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
+
 [Moscow and Beijing unlikely to stop testing Tokyo's limits](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
 
   [![A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.")](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
 
-[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
-  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
-
-[Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
-
-  [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+  [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
 Editors' Picks
 --------------
@@ -169,6 +169,14 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
   [![Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423527.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Yoko Kamikawa (left) holds talks with China's top diplomat, Wang Yi (right center), during their 55-minute meeting at United Nations headquarters in New York on Monday.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/japan-china-foreign-ministers-meet/ "China urges Japan to deal with stabbing 'calmly' as details of motive elude")
 
+[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
+
+[As Onosato dominates the spotlight, former sumo stars exit the stage](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
+
+By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
+
+  [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Moscow and Beijing unlikely to stop testing Tokyo's limits](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
@@ -177,21 +185,13 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
   [![A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Maritime Self-Defense Force P-1 patrol plane fires off flares during a demonstration at an international fleet review ceremony in November 2022. The firing of flares is intended to confuse heat-seeking missiles but they are also commonly deployed to warn away other aircraft.")](https://www.japantimes.co.jp/news/2024/09/24/japan/japan-russia-china-incursions-analysis/ "Moscow and Beijing unlikely to stop testing Tokyo's limits")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+  [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
 Podcast
 -------
@@ -212,9 +212,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Meta pitches augmented reality glasses as eventual smartphone rival](https://www.japantimes.co.jp/business/2024/09/26/companies/meta-orion-glasses-smartphone/ "Meta pitches augmented reality glasses as eventual smartphone rival")
-
-9 mins ago
-
-[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
-
-23 mins ago
-
-[Volunteers step in as lifeline for Noto flood survivors](https://www.japantimes.co.jp/news/2024/09/26/japan/society/noto-flood-volunteers/ "Volunteers step in as lifeline for Noto flood survivors")
-
-24 mins ago
-
-[Canadian PM Trudeau survives no-confidence vote but remains vulnerable](https://www.japantimes.co.jp/news/2024/09/26/world/politics/canada-trudeau-no-confidence-vote/ "Canadian PM Trudeau survives no-confidence vote but remains vulnerable")
-
-52 mins ago
-
-[Chiefs star Travis Kelce more worried about wins than catches](https://www.japantimes.co.jp/sports/2024/09/26/kelce-not-worried-about-catches/ "Chiefs star Travis Kelce more worried about wins than catches")
+[In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
 
 1 hours ago
+
+[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
+
+1 hours ago
+
+[CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/cdp-ishin-noda/ "CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?")
+
+3 hours ago
+
+[Jeep’s compact EV debuts in Japan as imported EVs take the lead](https://www.japantimes.co.jp/business/2024/09/26/companies/jeep-compact-ev/ "Jeep’s compact EV debuts in Japan as imported EVs take the lead")
+
+4 hours ago
+
+[Interim storage facility in Aomori receives spent nuclear fuel](https://www.japantimes.co.jp/news/2024/09/26/japan/japan-spent-nuclear-fuel/ "Interim storage facility in Aomori receives spent nuclear fuel")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
