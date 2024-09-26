@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/logitech-mx-creative-console-customizable-controls-display-buttons-dial-wheel/)
+    
+    [Logitech MX Creative Console Brings Stream Deck-Style Display Buttons to Photoshop, Premiere Pro, and Other Creative Apps](https://www.coolthings.com/logitech-mx-creative-console-customizable-controls-display-buttons-dial-wheel/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/alienware-pro-headset-esport-competitive-gaming-features/)
+    
+    [Alienware Pro Headset Vows to Deliver Superior Directional Audio and Other eSport-Friendly Features](https://www.coolthings.com/alienware-pro-headset-esport-competitive-gaming-features/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dji-osmo-action-5-pro-13-5-stops-dynamic-range-4k-120fps-960fps-slomo/)
     
     [DJI Osmo Action 5 Pro Boasts Superb Low-Light Performance with 13.5 Stops of Dynamic Range](https://www.coolthings.com/dji-osmo-action-5-pro-13-5-stops-dynamic-range-4k-120fps-960fps-slomo/)
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-wireless-lapel-mics-to-give-your-videos-clear-consistent-audio/)
-    
-    [The Best Wireless Lapel Mics to Give Your Videos Clear, Consistent Audio](https://www.coolthings.com/the-best-wireless-lapel-mics-to-give-your-videos-clear-consistent-audio/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/aurea-shine-2-0-portable-wind-turbine-50w-charger/)
-    
-    [Charge Your Portable Power Station All Day and Night with the Aurea Shine 2.0 Portable Wind Turbine](https://www.coolthings.com/aurea-shine-2-0-portable-wind-turbine-50w-charger/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/alienware-pro-headset-esport-competitive-gaming-features/)
+    
+    [Alienware Pro Headset Vows to Deliver Superior Directional Audio and Other eSport-Friendly Features](https://www.coolthings.com/alienware-pro-headset-esport-competitive-gaming-features/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/chirp-rpm-mini-rolling-percussive-massager-one-handed-kettlebell-form-factor/)
     
     [Chirp RPM Mini Turns the Massage Gun Into a One-Handed Foam Roller](https://www.coolthings.com/chirp-rpm-mini-rolling-percussive-massager-one-handed-kettlebell-form-factor/)
@@ -52,11 +57,6 @@
     
     [Charge Your Portable Power Station All Day and Night with the Aurea Shine 2.0 Portable Wind Turbine](https://www.coolthings.com/aurea-shine-2-0-portable-wind-turbine-50w-charger/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
-    
-    [The Best Steam Deck Cases to Protect Your Gaming Handheld](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
