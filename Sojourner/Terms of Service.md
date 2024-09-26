@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d29948914d43b9063c51ea699ff62a67
+0b0088f2e0638b1a99c9d0af3a2fbe3c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Turquoise swirl clasp](https://sojourner.biz/images/cache/SKU0092front.200.jpg)](https://sojourner.biz/clasps/glass/turquoise-swirl-clasp.html "Turquoise swirl clasp")
+[![8 mm fushia heart beads](https://sojourner.biz/images/cache/glass/HRT006.200.jpg)](https://sojourner.biz/beads/glass/8-mm-fushia-heart-beads.html "8 mm fushia heart beads")
 
-#### [Turquoise swirl clasp](https://sojourner.biz/clasps/glass/turquoise-swirl-clasp.html "Turquoise swirl clasp")
+#### [8 mm fushia heart beads](https://sojourner.biz/beads/glass/8-mm-fushia-heart-beads.html "8 mm fushia heart beads")
 
-$16.00
+$3.00
 
 ### Best Sellers
 
