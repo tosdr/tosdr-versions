@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Hoda Kotb announces exit from 'Today' show after 26 years with NBC](https://pagesix.com/2024/09/26/entertainment/hoda-kotb-announces-shes-leaving-today-after-26-years-with-nbc/)
+
 Terms Of Use
 ============
 
