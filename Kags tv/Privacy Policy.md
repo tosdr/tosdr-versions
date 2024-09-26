@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/d505f523-5547-4275-99ee-c9cfeeb38415/20240926T132547/d505f523-5547-4275-99ee-c9cfeeb38415_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/d505f523-5547-4275-99ee-c9cfeeb38415/20240926T132547/d505f523-5547-4275-99ee-c9cfeeb38415_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
+        
+        #### [Helene is upgraded to Category 2 hurricane as it barrels toward Florida with 'unsurvivable' storm surge](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
         
         #### [Major storm warnings issued for Florida, Southeast US as Hurricane Helene is expected to form](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
-        
-    *  [![](https://media.kagstv.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_16x9.jpg) ![](https://media.kagstv.com/assets/WTIC/images/c1adf01e-1db8-439b-bdc3-891934f4d383/c1adf01e-1db8-439b-bdc3-891934f4d383_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
-        
-        #### [When is the first day of fall?](https://www.kagstv.com/article/news/nation-world/first-day-of-fall/507-06766aa7-07fd-473a-bcd6-575afd16614a)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-70°
+74°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
