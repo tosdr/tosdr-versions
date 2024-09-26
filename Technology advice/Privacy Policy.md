@@ -287,7 +287,7 @@ If You have any questions about this Privacy Policy, the practices of this Websi
 * [Privacy Policy](https://technologyadvice.com/privacy-policy/)
 * [California – Do Not Sell My Info](https://technologyadvice.com/privacy-policy/ccpa-opt-out/)
 
-[](https://technologyadvice.com/#)
+[](#)
 
 [![TechnologyAdvice logo](https://assets.dev.technologyadvice.com/uploads/2024/03/technologyadvice_logo_final-1.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
 
