@@ -18,7 +18,7 @@
 * [Instagram](https://www.instagram.com/splice/)
 * [Discord](https://discord.com/invite/splice)
 
-* [Jobs](https://worklife.splice.com/)
+* [Jobs](https://splice.com/worklife)
 * [Terms](https://splice.com/terms)
 * [Privacy Policy](https://splice.com/privacy-policy)
 
