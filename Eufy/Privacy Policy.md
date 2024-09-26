@@ -14,21 +14,17 @@
 
 [](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)[Spend Over $300 and Get $20 Off.(Limit Products)Sale](https://www.eufy.com/eufy-security?ref=topbanner_4)
+[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
-[](https://www.eufy.com/eufy-security?ref=topbanner_4)
+[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
-[](https://www.eufy.com/eufy-security?ref=topbanner_4)
+[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
-[](https://www.eufy.com/eufy-security?ref=topbanner_4)
+[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
-[](https://www.eufy.com/eufy-security?ref=topbanner_4)
+[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
-[](https://www.eufy.com/eufy-security?ref=topbanner_4)
-
-[](https://www.eufy.com/eufy-security?ref=topbanner_4)
-
-[](https://www.eufy.com/eufy-security?ref=topbanner_4)
+[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
@@ -706,7 +702,7 @@
     
     About eufy
     
-    [eufy Brand story](https://www.eufy.com/about?ref=navimenu_8_1_1_copy) [Blog](https://www.eufy.com/blogs/home?ref=navimenu_8_1_2_copy) [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_8_1_3_copy) [Home Bundle Sale](https://www.eufy.com/eufy-bundle-deals?ref=navimenu_8_1_4_copy) [Hot Search](https://us.eufy.com/pages/smart-home-appliances-hot-search?ref=navimenu_8_1_5_copy)
+    [eufy Brand story](https://www.eufy.com/about?ref=navimenu_8_1_1_copy) [Blog](https://www.eufy.com/blogs?ref=navimenu_8_1_2_copy) [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_8_1_3_copy) [Home Bundle Sale](https://www.eufy.com/eufy-bundle-deals?ref=navimenu_8_1_4_copy) [Hot Search](https://us.eufy.com/pages/smart-home-appliances-hot-search?ref=navimenu_8_1_5_copy)
     
     Explore
     
