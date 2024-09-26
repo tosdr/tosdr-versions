@@ -333,6 +333,7 @@ Quick links
 * [Blog](https://blackwolfnation.com/blogs/news "Blog")
 * [Subscribe + Save](https://blackwolfnation.com/pages/subscriptions "Subscribe + Save")
 * [Subscription Portal Login](https://blackwolfnation.com/apps/retextion#/login "Subscription Portal Login")
+* [Accessibility Statement](https://blackwolfnation.com/pages/accessibility-statement "Accessibility Statement")
 * [Refund policy](https://blackwolfnation.com/policies/refund-policy "Refund policy")
 * [Privacy policy](https://blackwolfnation.com/policies/privacy-policy "Privacy policy")
 * [Terms of service](https://blackwolfnation.com/policies/terms-of-service "Terms of service")
@@ -384,3 +385,5 @@ Color
 $59.00
 
 Color](https://blackwolfnation.com/products/wush)
+
+{"themeColor":"#574CD5","iconColor":"#574CD5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
