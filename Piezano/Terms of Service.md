@@ -2,81 +2,144 @@
 
 [](https://buypiezano.com/Home)
 
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
+Make Gourmet Crispy Delicious
 
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343004383235574440)
+Pizza in Just 6 Minutes!
 
-[](https://buypiezano.com/Home)
-
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
-
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343004383235574440)
+[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343006259256844962)
 
 Terms and Conditions
 
-Last updated April 24, 2020
+Last Update: August 1st, 2024  
+  
+These Terms and Conditions (“Terms”) apply to the purchase and sale of products and services of E. Mishan & Sons, Inc. or any of its subsidiaries or affiliates (“Emson,” “we,” “our” or “us”) by persons referred to as “you,” “your” or “user”) through our websites, mobile applications, our pages on social networking sites and other platforms, and streaming services or any site of ours or our affiliates that link to these Terms (collectively "Site" or "Sites") and the associated products, services, data, information and materials offered therein ("Services").  
+  
+1\. ACCEPTANCE OF TERMS  
+  
+THIS DOCUMENT CONTAINS VERY IMPORTANT INFORMATION REGARDING YOUR RIGHTS AND OBLIGATIONS, AS WELL AS CONDITIONS, LIMITATIONS, AND EXCLUSIONS THAT MIGHT APPLY TO YOU. PLEASE READ IT CAREFULLY.  
+  
+THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS.  
+  
+PLEASE READ THE BINDING ARBITRATION PROVISION CONTAINED IN SECTION 9.  
+  
+BY PLACING AN ORDER FOR PRODUCTS OR SERVICES FROM THIS WEBSITE, YOU ACCEPT AND ARE BOUND BY THESE TERMS AND CONDITIONS.  
+  
+YOU MAY NOT ORDER OR OBTAIN PRODUCTS OR SERVICES FROM THIS WEBSITE IF YOU (A) DO NOT AGREE TO THESE TERMS, (B) ARE NOT THE OLDER OF (i) AT LEAST 18 YEARS OF AGE OR (ii) LEGAL AGE TO FORM A BINDING CONTRACT WITH EMSON, OR (C) ARE PROHIBITED FROM ACCESSING OR USING THIS WEBSITE OR ANY OF THIS WEBSITE'S CONTENTS, GOODS OR SERVICES BY APPLICABLE LAW.  
+  
+2\. ORDER ACCEPTANCE AND CANCELLATION  
+  
+You agree that your order is an offer to buy, under these Terms, all products and services listed in your order. All orders must be accepted by us or we will not be obligated to sell the products or services to you. We may choose not to accept any orders in our sole discretion. After having received your order, we will send you a confirmation email with your order number and details of the items you have ordered. Acceptance of your order and the formation of the contract of sale between Emson and you will not take place unless and until you have received your order confirmation email.  
+  
+Your placement of an order does not guarantee acceptance by Emson.  
+  
+  
+Emson reserves the right to refuse or cancel any order for any reason, including but not limited to the unavailability of a product, errors in pricing or product information, or suspected fraudulent activity. We may require additional verification or information before accepting any order. All orders placed are subject to product availability. All items purchased from Emson are sent by a third party carrier. If you are not fully satisfied with your purchase, you may return it in accordance with our return policy.  
+  
+We make reasonable efforts to accurately display the attributes of the products we sell. We do not warrant that product descriptions or other content is accurate, complete, or error free. Prices and promotions are subject to change. Sometimes an item may not be available, the offer may have been misstated, or an item may be mispriced. For any of these reasons, we may cancel your order or we may contact you for instructions on the order. If you are dissatisfied with this website, its content, our Terms or our Website Privacy Policy, you agree that your sole and exclusive remedy is that you may discontinue using the website.  
+  
+3\. PRICES AND PAYMENT TERMS  
+  
+(a) All prices posted on this Website are in U.S. currency and are subject to change without notice. The price charged for a product or service will be the price in effect at the time the order is placed and will be set out in your order confirmation email. Price increases will only apply to orders placed after such changes. Our prices are net of sales tax. You will be responsible for the payment of such sales tax or charges for shipping and handling. All such taxes and charges will be added to your merchandise total and will be itemized in your shopping cart and in your order confirmation email. We are not responsible for pricing, typographical, or other errors in any offer by us and we reserve the right to cancel any orders arising from such errors.  
+  
+(b) Terms of payment are within our sole discretion. Payment must be received by us before our acceptance of an order. You must provide us with a valid credit card accepted by us, and you agree that we, and our third party services, are authorized to invoice your credit card for all fees payable to us. You represent and warrant that (i) the credit card information you supply to us is true, correct, and complete, (ii) you are duly authorized to use such credit card for the purchase, (iii) charges incurred by you will be honored by your credit card company, and (iv) you will pay charges incurred by you at the posted prices, including all applicable taxes, if any.  
+  
+4\. SHIPMENTS; DELIVERY; AVAILABILITY  
+  
+(a) We will arrange for shipment of the products to you. Please check the individual product page for specific delivery options. You will pay all shipping and handling charges specified during the ordering process.  
+  
+(b) Shipping and delivery dates are estimates only and cannot be guaranteed. We are not liable for any delays in shipments.  
+  
+(c) The availability of products may vary and is subject to change.  
+  
+  
+(d) Emson shall not be liable for any delays or damages caused by the shipping carrier or events beyond its control.  
+  
+5\. RETURNS  
+  
+Your satisfaction is important to us. If you are unhappy with your product for any reason, you may return it according to our return policy.  
+  
+If you are not completely satisfied with or wish to submit comments concerning this Website Privacy Policy or its application by us, we invite you to convey your concerns or suggestions by email to us at [customerservice@emsoninc.com](mailto:customerservice@emsoninc.com) or by mail to E. Mishan & Sons, Inc. Attn: Customer Service, 230 Fifth Avenue, Suite 800, New York, New York 10001. We will reply as quickly as possible and inform you of the steps, if any, that have been or will be taken in order to address the concern or implement the suggestion.  
+  
+6\. LIMITATION OF LIABILITY  
+  
+THE WEBSITE AND ALL PARTS THEREOF ARE MADE AVAILABLE ON AN “AS IS” AND “AS AVAILABLE” BASIS. EMSON MAKES NO REPRESENTATION OR WARRANTY THAT THE WEBSITE WILL MEET YOUR REQUIREMENTS, OR THAT IT WILL BE UNINTERRUPTED, SECURE, OR ERROR FREE.  
+  
+OUR LIABILITY WILL UNDER NO CIRCUMSTANCES EXCEED THE ACTUAL AMOUNT OF THE PURCHASE PRICE PAID BY YOU FOR THE PRODUCT OR SERVICE THAT YOU HAVE PURCHASED THROUGH THE WEBSITE, NOR WILL WE UNDER ANY CIRCUMSTANCES BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES OR LOSSES, WHETHER DIRECT OR INDIRECT.  
+  
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EMSON WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ATTRIBUTABLE TO YOUR USE OF THE SITE OR ANY PRODUCT OR SERVICE PURCHASED THE SITE.  
+  
+SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.  
+  
+7\. CONSENTS  
+  
+By using this website and its features, you consent to our, or our service providers, collection, use and sharing of electronic data and the recording, transferring and maintaining of text, voice and other information you provide to manage your order, provide customer service, provide training and quality control and other commercial reasons.  
+  
+8\. INTELLECTUAL PROPERTY  
+  
+  
+All materials, including images, text, illustrations, designs, music clips, downloads, icons, photographs, programs, video clips and written and other materials that are part of this Website (collectively, the “Contents”) are subject to intellectual property rights, including without in any way limiting the generality of the foregoing, copyrights, trademarks and/or other proprietary rights owned by Emson or its licensors. You may not copy, alter, reproduce, distribute, modify, transmit or post the Contents or broadcast the Contents in any media. You may not remove or modify any copyright, trademark or other proprietary notice contained in the Contents. You may not make any commercial use of our Website or its Contents, download, copy, otherwise use account information for the benefit of a third party; or use any data mining, robots, or similar data gathering or extraction of any content, features, functionality or data on our Website.  
+  
+Without consent, copying can be a copyright infringement and may result in civil or criminal penalties.  
+  
+Emson and its suppliers and licensors expressly reserve all intellectual property rights in all Contents, products, processes, technology, tools and other materials that appear on this Website. Access to this Website does not confer and shall not be considered as conferring upon anyone any license under any of Emson’s or any third party's intellectual property rights.  
+  
+9\. ARBITRATION  
+  
+THE RESOLUTION OF ANY CLAIMS OF EVERY KIND RELATING TO OR ARISING OUT YOUR ORDER OR PURCHASE OF PRODUCT(S) FROM US AND ANY DISPUTE RELATING IN ANY WAY TO USE OF OUR WEBSITES, TO OUR WEBSITE PRIVACY POLICY, TO OUR ADVERTISING OR SOLICITATION PRACTICES AND TO THE SERVICES THAT WE PROVIDE SHALL BE GOVERNED BY OUR [ARBITRATION AGREEMENT](https://buypiezano.com/Arbitration-Agreement). THE ARBITRATION AGREEMENT SETS FORTH IMPORTANT LEGAL RIGHTS. PLEASE READ THE ARBITRATION AGREEMENT CAREFULLY.  
+  
+10\. GOVERNING LAW AND VENUE  
+  
+These Terms shall be governed by and interpreted in accordance with the laws of the State of New York applicable to agreements made and to be fully performed in New York without regard to any choice of law principles or statutes thereof. Any legal proceeding arising in connection with this Agreement shall be submitted to the exclusive jurisdiction of the federal or state courts in New York County and each of the parties hereby waives any defenses or objections based on lack of jurisdiction, improper venue, and/or forum non conveniens.  
+  
+  
+11\. SEVERABILITY  
+  
+  
+If any provision of these Terms is invalid, illegal, void or unenforceable, then that provision will be deemed severed from these Terms and will not affect the validity or enforceability of the remaining provisions of these Terms.  
+  
+12\. NO WAIVERS  
+  
+The failure by us to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any right or provision will be effective only if in writing and signed by a duly authorized representative of Emson.  
+  
+13\. COMMUNICATING WITH US  
+  
+If you have any questions concerning your order, delivery or products purchased, please do not hesitate to contact us by:  
+  
+• Emailing us at [customerservice@emsoninc.com](mailto:customerservice@emsoninc.com)  
+  
+• Calling us Toll-Free 1-866-595-3723  
+  
+• Mailing us at:
 
   
-These Terms and Conditions of Use apply to the website located at this website https://buypiezano.com.
-
+E. Mishan & Sons, Inc.  
+Attn: Customer Service  
+230 Fifth Avenue, Suite 800  
+New York, New York 10001  
   
-E. Mishan & Sons, Inc. (“Emson”) provides this Site for advertising, marketing and purchasing products and services subject to the following terms and conditions. By accessing or using this Site, including the purchase of products and services, you agree to be bound by these Terms and Conditions of Use. Your use of this Site is subject to our Privacy Policy and California Consumer Privacy Act Disclosures. Please review the policy for more on how we collect and use information. If you are unwilling to be bound by these Terms and Conditions of Use, Privacy Policy and California Consumer Privacy Act Disclosures, you must not access or use this Site.  
+If you need to access this Policy in an alternative format due to having a disability, please contact [Privacy@emsonusa.com](mailto:Privacy@emsonusa.com).  
   
-
+14\. ENTIRE AGREEMENT  
   
-
-**LIMITATION OF LIABILITY**
-
-THE SITE AND ALL PARTS THEREOF ARE MADE AVAILABLE ON AN “AS IS” AND “AS AVAILABLE” BASIS. EMSON MAKES NO REPRESENTATION OR WARRANTY THAT THE SITE WILL MEET YOUR REQUIREMENTS, OR THAT IT WILL BE UNINTERRUPTED, SECURE, OR ERROR FREE.
-
+These Terms, our Website Privacy Policy, our Arbitration Agreement and, if applicable, our Privacy Policy for California Residents will be deemed the final and integrated agreement between you and us on the matters contained in therein.  
   
-IN ALL CIRCUMSTANCES EMSON'S MAXIMUM LIABILITY IS LIMITED TO THE PURCHASE PRICE OF THE PRODUCTS SOLD. EMSON SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE UPON A CLAIM OR ACTION IN CONTRACT, TORT, INDEMNITY OR CONTRIBUTION, OR OTHER CLAIMS RELATING TO THE PRODUCTS IT SELLS WHICH EXCEEDS THIS LIABILITY LIMIT. EMSON SHALL NOT BE LIABLE FOR THIRD PARTY CLAIMS FOR DAMAGES AGAINST THE CUSTOMER, OR FOR MALFUNCTION, DELAYS, INTERRUPTION OF SERVICE, LOSS OF BUSINESS, LOSS OR DAMAGE TO EXEMPLARY DAMAGES, WHETHER OR NOT EMSON HAS BEEN MADE AWARE OF THE POSSIBILITY OF SUCH CLAIMS OR DAMAGES. EMSON SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY), OR ANY OTHER LEGAL OR EQUITABLE PRINCIPLE.
-
   
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EMSON WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ATTRIBUTABLE TO YOUR USE OF THE SITE OR ANY PRODUCT OR SERVICE PURCHASED THE SITE.
-
   
-**SITE INFORMATION**  
-We make reasonable efforts to accurately display the attributes of the products we sell. We do not warrant that product descriptions or other content is accurate, complete, or error free. Prices and promotions are subject to change. Sometimes an item may not be available, the offer may have been misstated, or an item may be mispriced. For any of these reasons, we may cancel your order or we may contact you for instructions on the order. If a product offered by Emson is not as described, you may return it according to our return policy. If you are dissatisfied with the Site, the Site content, or the Terms and Conditions of Use or Privacy Policy, you agree that your sole and exclusive remedy is that you may discontinue using the Site.
-
   
-**INTELLECTUAL PROPERTY  
-**This Site and all content included on or in the Site, including text, images, videos, information, data, software, photographs, graphs, videos, graphics, music, sounds and other material (collectively "Content") may be protected by trademark, copyright and/or other proprietary rights owned by Emson, and these rights are valid and protected in all forms, media and technologies existing now or developed in the future. You may not use the Content or any part thereof for your own purposes. You may not remove or modify any copyright, trademark or other proprietary notice contained in any Content. You may not modify or alter the Content, copy or post the Content, or broadcast the Content in any media.
-
   
-**ORDER POLICY & SHIPPING.**  
-Your receipt of an electronic or other form of order confirmation does not signify our acceptance of your order, nor does it constitute confirmation of our offer to sell. Emson reserves the right at any time after receipt of your order to accept or decline your order for any reason. Emson reserves the right at any time after receipt of your order, without prior notice to you, to supply less than the quantity you ordered of any item with the appropriate price adjustment. We may require additional verification or information before accepting any order. All orders placed on this Site are subject to product availability. All items purchased from Emson are sent by a third-party carrier. If you are not fully satisfied with your purchase, you may return it in accordance with our return policy.  
-  
-
-**ARBITRATION AGREEMENT  
-**Any dispute relating in any way to these use of the this Site, to these Terms and Conditions of Use, to the Privacy Policy, to our advertising or solicitation practices or to the products or servies that you purchase through the this Site, shall be resolved by mandatory arbitration before a single impartial arbitrator pursuant to proceedings administered by the American Arbitration Association under its rules for resolution of commercial disputes, except that, to the extent you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any state or federal court in the State of New York, and you consent to exclusive jurisdiction and venue in such courts. Arbitration shall be conducted under the rules then prevailing of the American Arbitration Association for consumer disputes. The arbitration shall take place in New York, New York before a single arbitrator. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. YOU AND EMSON AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. The arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding, whether through class arbitration proceedings or otherwise. The arbitrator shall have no power to add to, subtract from, disregard, alter or modify any of the terms of the Terms and Conditions or the Privacy Policy. Any claim or controversy as to the enforceability of this arbitration provision’s restriction on your right to participate in or pursue a class action or class wide arbitration shall be brought only in the United States District Court for the Southern District of New York or any court of the State of New York located in New York County, New York. You agree that, by entering into this Agreement, you are waiving the right to a trial by jury or to participate in a class action or representative action. This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act governs the interpretation and enforcement of this provision. This arbitration provision shall survive termination of this Agreement.  
-  
-
-**APPLICABLE LAW  
-**The laws of the State of New York, without regard to principles of conflict of laws, will govern these Terms and Conditions of Use and any dispute of any sort that might arise between Emson and You.  
-  
-
-**SEVERABILITY**  
-If any provision contained in this agreement is or becomes invalid, illegal, or unenforceable in whole or in part, such invalidity, illegality, or unenforceability shall not affect the remaining provisions and portions of this agreement, and the invalid, illegal, or unenforceable provision shall be deemed modified so as to have the most similar result that is valid and enforceable under applicable law.  
-  
-
-**WAIVER**  
-The failure of either party to require performance by the other party of any provision of this agreement shall not affect in any way the first party's right to require such performance at any time thereafter. Any waiver by either party of a breach of any provision in this agreement shall not be taken or held by the other party to be a continuing waiver of that provision unless such waiver is made in writing.  
-  
-
-**ENTIRE AGREEMENT**  
-These Terms and Conditions of Use are the complete and exclusive agreement between us, and they supersede all prior or contemporaneous proposals, oral or written, understandings, representations, conditions, warranties, and all other communications between us relating to the subject products. This agreement may not be explained or supplemented by any prior course of dealings or trade by custom or usage.  
 
 * [Home](https://buypiezano.com/Home)
+* [How to Use](https://buypiezano.com/howto)
+* [Manual](https://buypiezano.com/Manual)
+* [Accessibility Statement](https://buypiezano.com/Accessibility-Statement)
 * [Privacy Policy](https://buypiezano.com/Privacy-Policy)
 * [Contact Us](https://buypiezano.com/Contact-Us)
 * [Return Policy](https://buypiezano.com/Return-Policy)
 * [Terms and Conditions](https://buypiezano.com/Terms-and-Conditions)
 * [Arbitration Agreement](https://buypiezano.com/Arbitration-Agreement)
+* [Shipping Policy](https://buypiezano.com/Shipping-Policy)
 * [California Consumer Privacy Act Disclosures](https://buypiezano.com/California-Consumer-Privacy-Act-Disclosures)
-* [How to Use](https://buypiezano.com/howto)
-* [Manual](https://buypiezano.com/Manual)
+* [Do Not Sell or Share My Personal Information](https://www.emson.com/optout)
+* [Limit the Use of My Sensitive Personal Information](https://www.emson.com/optout)
 
-Copyright © 2024 Emson
+Copyright © 2024 E. Mishan & Sons, Inc. | Built with [**Buyist**](https://buyist.com/)
