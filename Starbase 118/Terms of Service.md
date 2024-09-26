@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/the-next-phase-hd-385-768x578.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
+
+### [Fleetwide Trivia Rules 2041](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
+
+Sal Taybrim September 26, 2024
+
+It is time for our trivia challenge once again and September’s Fleetwide chat on Sunday, September 29, 2024, will feature our annual trivia contest! Here’s a quick
+
+[Read More »](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/02/starbase12-768x540.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
 
 ### [Ops crew faces Starfleet flagship in epic showdown](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
@@ -377,14 +389,6 @@ docaharford September 24, 2024
 “When you go home, tell them of us and say: For your tomorrow, we gave our today.” -John Maxwell Edmonds; Epitaph, World War II Allied War
 
 [Read More »](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
-
-### [Frontier Day Aftermath: Assimilated Grapple with Recovery Amid Rebuilding Efforts](https://www.starbase118.net/2024/frontier-day-aftermath-assimilated-grapple-with-recovery-amid-rebuilding-efforts/)
-
-Federation News Service September 23, 2024
-
-ALPHA QUADRANT – Although the Borg-Changeling plot has been decisively thwarted, those formerly assimilated struggle to recover as they work to rebuild Sol Station and
-
-[Read More »](https://www.starbase118.net/2024/frontier-day-aftermath-assimilated-grapple-with-recovery-amid-rebuilding-efforts/)
 
 Ready to get started?
 ---------------------
