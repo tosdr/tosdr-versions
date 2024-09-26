@@ -2,6 +2,7 @@ Thursday, September 26 2024
 
 Breaking News
 
+* [Maine/New Hampshire Reps Don’t Protect Women](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
 * [President Joe Biden’s Schedule for Thursday, September 26, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
 * [Biden Pretends To Kill Bug When Whoopi Goldberg Compares Trump To One Following Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
 * [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
@@ -9,7 +10,6 @@ Breaking News
 * [Catholic Group Warns Harris Is Not The ‘Lesser Evil’](https://www.conservativedailynews.com/2024/09/catholic-group-warns-harris-is-not-the-lesser-evil/)
 * [House Judiciary Committee Unable To Locate Nathan Wade To Testify In Fani Willis Investigation](https://www.conservativedailynews.com/2024/09/house-judiciary-committee-unable-to-locate-nathan-wade-to-testify-in-fani-willis-investigation/)
 * [House Passes Short-Term Spending Bill, Setting Stage For Possible Pre-Holiday Fight](https://www.conservativedailynews.com/2024/09/house-passes-short-term-spending-bill-setting-stage-for-possible-pre-holiday-fight/)
-* [Federal Jury Clears Most ‘Trump Train’ Drivers In 2020 Voter Intimidation Case](https://www.conservativedailynews.com/2024/09/federal-jury-clears-most-trump-train-drivers-in-2020-voter-intimidation-case/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,30 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans/)
+    
+    [Biden-Harris Immigration Policies Waste Billions That Should Be Spent on Americans](https://www.conservativedailynews.com/2024/09/biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans/)
+    
+    September 26, 2024
+    
+* [![Kamala Harris say anything wishy-washy flip-flopper](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/say-anything-2/)
+    
+    [Say Anything](https://www.conservativedailynews.com/2024/09/say-anything-2/)
+    
+    September 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/clean-simple-220x150.jpg)](https://www.conservativedailynews.com/2024/09/simplifying-is-simply-fabulous/)
+    
+    [Simplifying is Simply Fabulous](https://www.conservativedailynews.com/2024/09/simplifying-is-simply-fabulous/)
+    
+    September 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5616-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
+    
+    [Maine/New Hampshire Reps Don’t Protect Women](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
+    
+    September 26, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/No-unions-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-admin-calls-on-railroad-giants-to-give-workers-benefit-that-it-tanked-years-ago/)
     
     [Biden-Harris Admin Calls On Railroad Giants To Give Workers Benefit That It Tanked Years Ago](https://www.conservativedailynews.com/2024/09/biden-harris-admin-calls-on-railroad-giants-to-give-workers-benefit-that-it-tanked-years-ago/)
@@ -150,33 +174,11 @@ Recent Posts
     
     September 26, 2024
     
-* [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
-    
-    [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
-    
-    September 25, 2024
-    
-* [![Joe Biden open border illegal aliens](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz022624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/illegal-migrant-arrested-for-killing-girlfriend-less-than-four-months-after-biden-harris-admin-released-him-into-us/)
-    
-    [Illegal Migrant Arrested For Killing Girlfriend Less Than Four Months After Biden-Harris Admin Released Him Into US](https://www.conservativedailynews.com/2024/09/illegal-migrant-arrested-for-killing-girlfriend-less-than-four-months-after-biden-harris-admin-released-him-into-us/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/1666641888_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/09/catholic-group-warns-harris-is-not-the-lesser-evil/)
-    
-    [Catholic Group Warns Harris Is Not The ‘Lesser Evil’](https://www.conservativedailynews.com/2024/09/catholic-group-warns-harris-is-not-the-lesser-evil/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/house-judiciary-committee-unable-to-locate-nathan-wade-to-testify-in-fani-willis-investigation/)
-    
-    [House Judiciary Committee Unable To Locate Nathan Wade To Testify In Fani Willis Investigation](https://www.conservativedailynews.com/2024/09/house-judiciary-committee-unable-to-locate-nathan-wade-to-testify-in-fani-willis-investigation/)
-    
-    September 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Good Fellowship, Good Shooting: 1954 National Matches](https://www.thegunpage.com/good-fellowship-good-shooting-1954-national-matches/10610817)
+* [Classic SSUSA: High Power Silhouette Rifles](https://www.thegunpage.com/classic-ssusa-high-power-silhouette-rifles/10610818)
 * [The History of PKM, the Most Common Machine Gun In the World (Part 1)](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-1/10610814)
 * [Wheelgun Wednesday: Top 3 Griz Guns That Could SAVE Your Life](https://www.thegunpage.com/wheelgun-wednesday-top-3-griz-guns-that-could-save-your-life/10610815)
 * [XS Sights Offers Easy Install Night Sights for S&W and Ruger Revolvers](https://www.thegunpage.com/xs-sights-offers-easy-install-night-sights-for-sw-and-ruger-revolvers/10610812)
@@ -185,8 +187,6 @@ Recent Posts
 * [Maryland’s Red Flag Law Challenged in State Supreme Court](https://www.thegunpage.com/marylands-red-flag-law-challenged-in-state-supreme-court/10610807)
 * ["Hand of God" Revolver From 3:10 to Yuma Up For Auction](https://www.thegunpage.com/hand-of-god-revolver-from-310-to-yuma-up-for-auction/10610810)
 * [Comps are All the Rage! NEW Springfield Armory Echelon Comp 4.5F 9mm](https://www.thegunpage.com/comps-are-all-the-rage-new-springfield-armory-echelon-comp-4-5f-9mm/10610805)
-* [Bait and Switch: Biden Admin Goes After the Wrong People for Deadly Violence in City Streets](https://www.thegunpage.com/bait-and-switch-biden-admin-goes-after-the-wrong-people-for-deadly-violence-in-city-streets/10610802)
-* [GOA & Partner Organizations to Host Active Shooter Response Training in Texas](https://www.thegunpage.com/goa-partner-organizations-to-host-active-shooter-response-training-in-texas/10610801)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
