@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-5.765 Tb/s
+8.35 Tb/s
 
 Peak
 
@@ -116,16 +116,9 @@ We may update this policy from time to time because of changes in technology, le
 
 Our use of Google Analytics is configured in a privacy friendly way, in line with a recommendation of the [Dutch Data Protection Authority](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/138._handleiding_privacyvriendelijk_instellen_google_analytics_aug_2018.pdf).
 
-#### Subscribe to our newsletter
-
 #### Got a question?
 
 Contact us
 
 © 2024 - Amsterdam Internet Exchange  [Responsible Disclosure Policy](https://www.ams-ix.net/ams/responsible-disclosure-policy)  [Mailing list code of conduct](https://www.ams-ix.net/ams/mailing-list-code-of-conduct)  [General Terms and Conditions](https://www.ams-ix.net/ams/documentation/general-terms-and-conditions)  [Privacy Policy](https://www.ams-ix.net/ams/documentation/privacy-policy)  [Email Disclaimer](https://www.ams-ix.net/ams/email-disclaimer)  [Cookie policy](https://www.ams-ix.net/ams/cookie-policy)   
 Trade register: 34128666
-
-* [](https://www.facebook.com/amsterdam.internet.exchange/)
-* [](https://www.youtube.com/user/VideoAMSIX/)
-* [](https://www.linkedin.com/company/ams-ix/)
-* [](https://twitter.com/ams_ix)
