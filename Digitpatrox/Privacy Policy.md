@@ -20,16 +20,16 @@ Thursday, September 26 2024
 
 Latest
 
-* [Amazon’s early Prime Day deals are up to 90% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
-* [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
-* [This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
-* [Slashing staff attrition in healthcare through digital employee engagement](https://digitpatrox.com/slashing-staff-attrition-in-healthcare-through-digital-employee-engagement/)
-* [How soon will AI PCs replace traditional PCs in the enterprise? – Computerworld](https://digitpatrox.com/how-soon-will-ai-pcs-replace-traditional-pcs-in-the-enterprise-computerworld/)
-* [All the Biggest Announcements From Meta Connect 2024](https://digitpatrox.com/all-the-biggest-announcements-from-meta-connect-2024/)
-* [Apple Watch Series 10 Has Larger Screen and Faster Charging](https://digitpatrox.com/apple-watch-series-10-has-larger-screen-and-faster-charging/)
-* [Samsung’s New 4TB 990 EVO Plus SSD is Stupid Fast](https://digitpatrox.com/samsungs-new-4tb-990-evo-plus-ssd-is-stupid-fast/)
-* [New GitHub rules mean users can store code and repository data in the EU](https://digitpatrox.com/new-github-rules-mean-users-can-store-code-and-repository-data-in-the-eu/)
-* [How to Use Jira for Project Management](https://digitpatrox.com/how-to-use-jira-for-project-management/)
+* [NetApp CEO: The tech industry “needs to do a better job” on AI sustainability](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
+* [54% of U.K. IT Pros Confident They Can Recover Their Data](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
+* [Google Photos is about to get much easier to use — here’s why](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
+* [Google Maps is cracking down on fake reviews](https://digitpatrox.com/google-maps-is-cracking-down-on-fake-reviews/)
+* [Genshin Impact 5.1 Livestream Codes: Free 300 Primogems](https://digitpatrox.com/genshin-impact-5-1-livestream-codes-free-300-primogems/)
+* [Vendor Spotlight: Heimdal](https://digitpatrox.com/vendor-spotlight-heimdal/)
+* [Network Rail confirms cyber attack on Wi-Fi systems at UK train stations](https://digitpatrox.com/network-rail-confirms-cyber-attack-on-wi-fi-systems-at-uk-train-stations/)
+* [How to securely wipe a Windows PC – Computerworld](https://digitpatrox.com/how-to-securely-wipe-a-windows-pc-computerworld/)
+* [Wordle Answer for Today, September 26, 2024](https://digitpatrox.com/wordle-answer-for-today-september-26-2024/)
+* [Vendor Spotlight: Logpoint](https://digitpatrox.com/vendor-spotlight-logpoint/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/iFiToePScVkzD7pL9negEm-1200-80.jpg)](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
+* [![](https://cdn.mos.cms.futurecdn.net/FGVcqm2zE7VgbC6dvvmysB-1200-80.jpg)](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
     
-    [Amazon’s early Prime Day deals are up to 90% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
+    [NetApp CEO: The tech industry “needs to do a better job” on AI sustainability](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
     
-    3 mins ago
+    13 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/bd0c3O5gmf1_sJpzdiQlbW3mF4M=/0x0:2000x1315/1200x628/filters:focal(1000x658:1001x659)/cdn.vox-cdn.com/uploads/chorus_asset/file/25640019/pr_arctis_gamebuds_white_lifestyle_woman_indoor_02.png)](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240925-data-recovery-confidence-uk.jpg)](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
     
-    [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
+    [54% of U.K. IT Pros Confident They Can Recover Their Data](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
     
-    48 mins ago
+    15 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Google-Doodle-Popcorn-game-featured-image.jpg)](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
+* [![](https://cdn.mos.cms.futurecdn.net/xqLvAjjutrBkF7Dv4j8mjT-1200-80.jpg)](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
     
-    [This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
+    [Google Photos is about to get much easier to use — here’s why](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
+    
+    33 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/JKqhXxuLsg12_iJcI8tUVxeB30Y=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png)](https://digitpatrox.com/google-maps-is-cracking-down-on-fake-reviews/)
+    
+    [Google Maps is cracking down on fake reviews](https://digitpatrox.com/google-maps-is-cracking-down-on-fake-reviews/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/4fTX25jy9ApyuBaPkJjfA5-1200-80.jpg)](https://digitpatrox.com/slashing-staff-attrition-in-healthcare-through-digital-employee-engagement/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Genshin-Impact-5.1-Livestream-Codes.jpg)](https://digitpatrox.com/genshin-impact-5-1-livestream-codes-free-300-primogems/)
     
-    [Slashing staff attrition in healthcare through digital employee engagement](https://digitpatrox.com/slashing-staff-attrition-in-healthcare-through-digital-employee-engagement/)
+    [Genshin Impact 5.1 Livestream Codes: Free 300 Primogems](https://digitpatrox.com/genshin-impact-5-1-livestream-codes-free-300-primogems/)
     
     2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3540633-0-70965000-1727320794-shutterstock_2366647495-100963142-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-soon-will-ai-pcs-replace-traditional-pcs-in-the-enterprise-computerworld/)
-    
-    [How soon will AI PCs replace traditional PCs in the enterprise? – Computerworld](https://digitpatrox.com/how-soon-will-ai-pcs-replace-traditional-pcs-in-the-enterprise-computerworld/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [13 mins ago
     
-    ### Amazon’s early Prime Day deals are up to 90% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
-* [48 mins ago
+    ### NetApp CEO: The tech industry “needs to do a better job” on AI sustainability](https://digitpatrox.com/netapp-ceo-the-tech-industry-needs-to-do-a-better-job-on-ai-sustainability/)
+* [15 mins ago
     
-    ### SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
-* [1 hour ago
+    ### 54% of U.K. IT Pros Confident They Can Recover Their Data](https://digitpatrox.com/54-of-u-k-it-pros-confident-they-can-recover-their-data/)
+* [33 mins ago
     
-    ### This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
+    ### Google Photos is about to get much easier to use — here’s why](https://digitpatrox.com/google-photos-is-about-to-get-much-easier-to-use-heres-why/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [5 days ago
     
-    ### Samsung Galaxy S25 Ultra leak reveals major upgrade to fight iPhone 16 Pro Max](https://digitpatrox.com/samsung-galaxy-s25-ultra-leak-reveals-major-upgrade-to-fight-iphone-16-pro-max/)
-* [2 days ago
+    ### Best Composite Decking of 2024](https://digitpatrox.com/best-composite-decking-of-2024/)
+* [August 25, 2024
     
-    ### My Favorite Laundry Hacks | Lifehacker](https://digitpatrox.com/my-favorite-laundry-hacks-lifehacker/)
-* [4 weeks ago
+    ### NYT Strands Today: Hints, Answers & Spangram for August 25](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-august-25/)
+* [3 weeks ago
     
-    ### North Korean insider attacks are skyrocketing – dozens of US firms didn’t spot the hacker in their midst](https://digitpatrox.com/north-korean-insider-attacks-are-skyrocketing-dozens-of-us-firms-didnt-spot-the-hacker-in-their-midst/)
+    ### Australia pushes for AI rules, focusing on oversight and accountability](https://digitpatrox.com/australia-pushes-for-ai-rules-focusing-on-oversight-and-accountability/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### Network Rail confirms cyber attack on Wi-Fi systems at UK train stations](https://digitpatrox.com/network-rail-confirms-cyber-attack-on-wi-fi-systems-at-uk-train-stations/)
+* [3 hours ago
+    
+    ### How to securely wipe a Windows PC – Computerworld](https://digitpatrox.com/how-to-securely-wipe-a-windows-pc-computerworld/)
 * [4 hours ago
     
-    ### Apple Watch Series 10 Has Larger Screen and Faster Charging](https://digitpatrox.com/apple-watch-series-10-has-larger-screen-and-faster-charging/)
-* [4 hours ago
-    
-    ### Samsung’s New 4TB 990 EVO Plus SSD is Stupid Fast](https://digitpatrox.com/samsungs-new-4tb-990-evo-plus-ssd-is-stupid-fast/)
-* [5 hours ago
-    
-    ### New GitHub rules mean users can store code and repository data in the EU](https://digitpatrox.com/new-github-rules-mean-users-can-store-code-and-repository-data-in-the-eu/)
+    ### Wordle Answer for Today, September 26, 2024](https://digitpatrox.com/wordle-answer-for-today-september-26-2024/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [4 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
