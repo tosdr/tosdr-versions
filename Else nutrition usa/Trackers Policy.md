@@ -3,7 +3,7 @@ elsenutrition
 
 [Skip to content](#MainContent)
 
-Free Shipping on orders over $59
+[Flash Super Sale! 50% OFF Else Baby Super Cereals!](https://elsenutrition.com/collections/baby-cereal)
 
    [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
