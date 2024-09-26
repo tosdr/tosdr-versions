@@ -23,20 +23,54 @@
 Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Hosting")
 
 * [en](#)
+    
+    North America
+    
     * [Español](https://scalacube.com/es)
     * [Français](https://scalacube.com/fr)
-    * [Polski](https://scalacube.com/pl)
-    * [Русский](https://scalacube.com/ru)
-    * [العربية الفصحى](https://scalacube.com/ar)
-    * [українська](https://scalacube.com/uk)
+    
+    Europe
+    
     * [Deutsch](https://scalacube.com/de)
+    * [Español](https://scalacube.com/es)
+    * [Français](https://scalacube.com/fr)
+    * [Italiano](https://scalacube.com/it)
+    * [Polski](https://scalacube.com/pl)
+    * [Português](https://scalacube.com/pt)
+    * [Русский](https://scalacube.com/ru)
+    * [українська](https://scalacube.com/uk)
+    
+    Asia
+    
+    * [العربية الفصحى](https://scalacube.com/ar)
     * [简体中文](https://scalacube.com/zh)
     * [हिन्दी](https://scalacube.com/hi)
     * [bahasa Indonesia](https://scalacube.com/id)
     * [日本語](https://scalacube.com/ja)
-    * [Português](https://scalacube.com/pt)
-    * [Italiano](https://scalacube.com/it)
     * [한국인](https://scalacube.com/kr)
+    * [Русский](https://scalacube.com/ru)
+    
+    Africa
+    
+    * [Français](https://scalacube.com/fr)
+    * [العربية الفصحى](https://scalacube.com/ar)
+    * [Português](https://scalacube.com/pt)
+    
+    South America
+    
+    * [Español](https://scalacube.com/es)
+    * [Português](https://scalacube.com/pt)
+    * [Français](https://scalacube.com/fr)
+    * [Italiano](https://scalacube.com/it)
+    * [Deutsch](https://scalacube.com/de)
+    
+    Oceania
+    
+    * [Français](https://scalacube.com/fr)
+    * [Español](https://scalacube.com/es)
+    * [日本語](https://scalacube.com/ja)
+    * [简体中文](https://scalacube.com/zh)
+    
 * [](#)
     * [USD ($)](#)
     * [EUR (€)](#)
@@ -123,20 +157,53 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
 * [AUD ($)](#)
 
 * [Back](javascript:void(0))
+
+North America
+
 * [Español](https://scalacube.com/es)
 * [Français](https://scalacube.com/fr)
-* [Polski](https://scalacube.com/pl)
-* [Русский](https://scalacube.com/ru)
-* [العربية الفصحى](https://scalacube.com/ar)
-* [українська](https://scalacube.com/uk)
+
+Europe
+
 * [Deutsch](https://scalacube.com/de)
+* [Español](https://scalacube.com/es)
+* [Français](https://scalacube.com/fr)
+* [Italiano](https://scalacube.com/it)
+* [Polski](https://scalacube.com/pl)
+* [Português](https://scalacube.com/pt)
+* [Русский](https://scalacube.com/ru)
+* [українська](https://scalacube.com/uk)
+
+Asia
+
+* [العربية الفصحى](https://scalacube.com/ar)
 * [简体中文](https://scalacube.com/zh)
 * [हिन्दी](https://scalacube.com/hi)
 * [bahasa Indonesia](https://scalacube.com/id)
 * [日本語](https://scalacube.com/ja)
-* [Português](https://scalacube.com/pt)
-* [Italiano](https://scalacube.com/it)
 * [한국인](https://scalacube.com/kr)
+* [Русский](https://scalacube.com/ru)
+
+Africa
+
+* [Français](https://scalacube.com/fr)
+* [العربية الفصحى](https://scalacube.com/ar)
+* [Português](https://scalacube.com/pt)
+
+South America
+
+* [Español](https://scalacube.com/es)
+* [Português](https://scalacube.com/pt)
+* [Français](https://scalacube.com/fr)
+* [Italiano](https://scalacube.com/it)
+* [Deutsch](https://scalacube.com/de)
+
+Oceania
+
+* [Français](https://scalacube.com/fr)
+* [Español](https://scalacube.com/es)
+* [日本語](https://scalacube.com/ja)
+* [简体中文](https://scalacube.com/zh)
 
 Privacy Policy
 ==============
