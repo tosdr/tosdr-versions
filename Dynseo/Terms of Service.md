@@ -1,3 +1,7 @@
+![loader image](https://www.dynseo.com/wp-content/uploads/2024/09/ezgif.com-animated-gif-maker-5.gif)
+
+Close
+
  ![logo](https://www.dynseo.com/wp-content/uploads/2024/01/logo.jpg)
 
 * [Home](https://www.dynseo.com/en/)
