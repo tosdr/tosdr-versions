@@ -64,7 +64,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/2790.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/5187.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -92,7 +92,7 @@ ACTIONBest of SAMSUNG](https://www.microspot.ch/fr/cms/samsung-promotion)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0328-CM2-Gaming4.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMTA5NDJ8aW1hZ2UvanBlZ3xhRFJoTDJoa01DODROakI0TkRnMFgwa3lORjh3TXpJNFgwTk5NbDlIWVcxcGJtYzBMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMGt5TkY4d016STRYME5OTWw5SFlXMXBibWMwTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGYzNzNkOWU3Nzc1ZTZmMzkyMDg3ZGRlMzZkMDFmNjE5NDVlNTkwZTIyODVlYjA1YTI3MGRlMzA3YjdlMzZiNw&w=2360&q=75)
 
-ACTIONGaming Special](https://www.microspot.ch/fr/cms/actions-jeux)
+ACTIONGaming Special + Précommande PS5 Pro](https://www.microspot.ch/fr/cms/actions-jeux)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0679-CM2-Promos-KW393.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NDcxNHxpbWFnZS9qcGVnfGFESTFMMmczWWk4NE5qQjRORGcwWDBreU5GOHdOamM1WDBOTk1sOVFjbTl0YjNOZlMxY3pPVE11YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJOemxmUTAweVgxQnliMjF2YzE5TFZ6TTVNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZjVjYmMxNjhkODg2MDg2YzFjZTg3YzVkM2MzZmVmOGI0ZTEzZTExYjI5OTZhNDkwZjRkYzkxMjczYTYzZjgyNA&w=2360&q=75)
 
@@ -209,17 +209,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
+[Retrait gratuit
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
