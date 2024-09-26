@@ -1,3 +1,7 @@
+All Community First branches will close at **1:00 PM on Thursday, September 26th** due to Hurricane Helene. [Click here](https://www.communityfirstfl.org/resources/hurricane-preparedness "Hurricane Preparedness") to learn more and view helpful resources.
+
+![Close Notification](/images/icon-close-white.svg)
+
 [![Community First Credit Union Logo](/getmedia/addf5aff-0552-4329-a166-593f8ad2d231/logo-header.png?width=198&height=54&ext=.png)](https://www.communityfirstfl.org/)
 
 [Locations](https://www.communityfirstfl.org/connect/contact-us/branch-locations)
