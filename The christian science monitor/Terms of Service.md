@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### How ships can make green fuel, and natural winds are key to cooling a city](https://www.csmonitor.com/World/Points-of-Progress/2024/0926/shipping-green-fuel-wind-cooling "How ships can make green fuel, and natural winds are key to cooling a city")
+
 [### The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves](https://www.csmonitor.com/World/Asia-South-Central/2024/0925/rural-India-women-goat-nurses "The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves")
 
 [### What do Jewish and Palestinian Israelis have in common? Hope.](https://www.csmonitor.com/World/Middle-East/2024/0925/Jewish-Palestinian-Israelis-Standing-Together-Hope "What do Jewish and Palestinian Israelis have in common? Hope.")
-
-[### Why are death penalty executions scheduled in 5 states this week?](https://www.csmonitor.com/USA/2024/0925/five-executions-marcellus-williams-death-row "Why are death penalty executions scheduled in 5 states this week?")
 
 * * *
 
