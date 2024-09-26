@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of LED strip in a spiral, emitting pink and blue colors.](https://cdn-shop.adafruit.com/230x173/6016-00.jpg)[Adafruit NeoPixel Silicone Bead LED Strip - 180 LEDs per Meter
+    
+    $24.95](https://www.adafruit.com/product/6016)
+    
     ![Video of double-sided LED strip with rainbow colors.](https://cdn-shop.adafruit.com/product-videos/320x240/5985-00.jpg)[Adafruit Double-Sided Emitter NeoPixel LED Strip - 120 LEDs/m
     
     $29.50](https://www.adafruit.com/product/5985)
@@ -83,13 +87,9 @@ Search
     
     $6.50](https://www.adafruit.com/product/6042)
     
-    ![Angled shot of black, rectangle-shaped microphone breakout board.](https://cdn-shop.adafruit.com/230x173/6049-00.jpg)[Adafruit I2S MEMS Microphone Breakout - ICS-43434
+    ![Angled shot of black, rectangle-shaped USB C breakout board.](https://cdn-shop.adafruit.com/230x173/6050-00.jpg)[Adafruit Sunken USB Type C Breakout Board
     
-    $4.95](https://www.adafruit.com/product/6049)
-    
-    ![Angled shot of black, rectangular temperature and humidity sensor breakout.](https://cdn-shop.adafruit.com/230x173/5989-07.jpg)[Adafruit HDC3022 Precision Temperature & Humidity Sensor
-    
-    $8.95](https://www.adafruit.com/product/5989)
+    $2.95](https://www.adafruit.com/product/6050)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ That brain of mine is something more than merely mortal; as time will show”
+“ We are the music makers, And we are the dreamers of dreams”
 
-[Ada Lovelace](https://www.newscientist.com/article/mg21628860-300-ada-lovelace-my-brain-is-more-than-merely-mortal/)
+[Arthur O'Shaughnessy](http://en.wikipedia.org/wiki/Arthur_O'Shaughnessy)
 
 [](https://www.adafruit.com/about)
 
