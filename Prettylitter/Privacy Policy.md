@@ -320,9 +320,9 @@ Czech Republic
 
 Denmark
 
-[English](https://dnk.mars.com/en/)
+[English](https://www.prettylitter.com/en-dk)
 
-[English](https://dnk.mars.com/en/)
+[English](https://www.prettylitter.com/en-dk)
 
 Finland
 
@@ -380,9 +380,9 @@ Netherlands
 
 Norway
 
-[English](https://nor.mars.com/en)
+[English](https://www.prettylitter.com/en-no)
 
-[English](https://nor.mars.com/en)
+[English](https://www.prettylitter.com/en-no)
 
 Poland
 
@@ -410,9 +410,9 @@ Spain
 
 Sweden
 
-[English](https://swe.mars.com/en)
+[English](https://www.prettylitter.com/en-se)
 
-[English](https://swe.mars.com/en)
+[English](https://www.prettylitter.com/en-se)
 
 Switzerland
 
