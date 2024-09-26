@@ -6,7 +6,7 @@ Internet
 
 [TV](https://www.yallo.ch/fr/tv) [Aide](https://support.yallo.ch/hc/fr) [🔥 Hot Deals](https://www.yallo.ch/fr/deals)
 
-[Sales Hotline](tel:0800004848)
+[0800 00 48 48](tel:0800004848)
 
 La langue actuelle est le français. Sélectionne une autre langue dans ce menu si tu veux la changer.
 
