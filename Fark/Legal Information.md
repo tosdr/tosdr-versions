@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+More funny for your money.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [No thanks, this classic superyacht has sharp knees](https://www.fark.com/goto/13406394) ( [autoevolution.com](https://www.fark.com/goto/13406394) ) » [(0 comments)](https://www.fark.com/comments/13406394/No-thanks-this-classic-superyacht-has-sharp-knees) |
-| [Discussion](https://www.fark.com/discussion/) | [She's got the band back together and she's easing on down the Road. Episode 3 of "Agatha All Along" drops on Disney+ at 9 PM ET](https://www.fark.com/goto/13405892) ( [imdb.com](https://www.fark.com/goto/13405892) ) » [(10 comments)](https://www.fark.com/comments/13405892/Shes-got-band-back-together-shes-easing-on-down-Road-Episode-3-of-Agatha-All-Along-drops-on-Disney-at-9-PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Portrait of the World's Biggest Carny](https://www.fark.com/goto/13406596) ( [slashfilm.com](https://www.fark.com/goto/13406596) ) » [(3 comments)](https://www.fark.com/comments/13406596/Portrait-of-Worlds-Biggest-Carny) |
-| [Business](https://www.fark.com/business/) | [Don't blame us if we've deceived you](https://www.fark.com/goto/13406330) ( [bbc.com](https://www.fark.com/goto/13406330) ) » [(0 comments)](https://www.fark.com/comments/13406330/Dont-blame-us-if-weve-deceived-you) |
-| [STEM](https://www.fark.com/stem/) | [It was inevitable but the resistance has appeared](https://www.fark.com/goto/13406260) ( [eurekalert.org](https://www.fark.com/goto/13406260) ) » [(1 comment)](https://www.fark.com/comments/13406260/It-was-inevitable-but-resistance-has-appeared) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Here's an AI generated article explaining that the AI generated Futurama movie trailer you saw on YouTube is fake](https://www.fark.com/goto/13406698) ( [yahoo.com](https://www.fark.com/goto/13406698) ) » [(3 comments)](https://www.fark.com/comments/13406698/Heres-an-AI-generated-article-explaining-that-AI-generated-Futurama-movie-trailer-you-saw-on-YouTube-is-fake) |
-| [Fandom](https://www.fark.com/fandom/) | [A look at the memo the panicked Church of Scientology sent out to members the day after South Park aired "Trapped in the Closet"](https://www.fark.com/goto/13406532) ( [cracked.com](https://www.fark.com/goto/13406532) ) » [(21 comments)](https://www.fark.com/comments/13406532/A-look-at-memo-panicked-Church-of-Scientology-sent-out-to-members-day-after-South-Park-aired-Trapped-in-Closet) |
-| [D'awww](https://www.fark.com/dawww/) | [Which came first, the internet or the cat meme? BBC has the answer](https://www.fark.com/goto/13406118) ( [bbc.com](https://www.fark.com/goto/13406118) ) » [(17 comments)](https://www.fark.com/comments/13406118/Which-came-first-internet-the-cat-meme-BBC-has-answer) |
-| [Food](https://www.fark.com/food/) | [British hummus lovers gobsmacked by supermarkets' green choice to replace plastic pot lid with peel-off film. "One shopper said they had now resorted to wrapping their hummus pots in clingfilm"](https://www.fark.com/goto/13406418) ( [theguardian.com](https://www.fark.com/goto/13406418) ) » [(10 comments)](https://www.fark.com/comments/13406418/British-hummus-lovers-gobsmacked-by-supermarkets-green-choice-to-replace-plastic-pot-lid-with-peel-off-film-One-shopper-said-they-had-now-resorted-to-wrapping-their-hummus-pots-in-clingfilm) |
-| [Politics](https://www.fark.com/politics/) | [Vladimir Futon dines with millionaires in Orlando as rain starts to fall from Hurricane Helene. Sofa King Tone deaf](https://www.fark.com/goto/13406462) ( [winterparkvoice.com](https://www.fark.com/goto/13406462) ) » [(4 comments)](https://www.fark.com/comments/13406462/Vladimir-Futon-dines-with-millionaires-in-Orlando-as-rain-starts-to-fall-from-Hurricane-Helene-Sofa-King-Tone-deaf) |
+| [Main](https://www.fark.com/) | [Photoshop this old school rep](https://www.fark.com/goto/13404174) ( [teachercreated.com](https://www.fark.com/goto/13404174) ) » [(9 comments)](https://www.fark.com/comments/13404174/Photoshop-this-old-school-rep) |
+| [Discussion](https://www.fark.com/discussion/) | [What do you call U.S. college students hiking? The walking debt. This is your Bad Joke Thursday thread, where we don't know the difference between ignorance and apathy and we don't care to know](https://www.fark.com/goto/13406852) ( [msn.com](https://www.fark.com/goto/13406852) ) » [(25 comments)](https://www.fark.com/comments/13406852/What-do-you-call-US-college-students-hiking-The-walking-debt-This-is-your-Bad-Joke-Thursday-thread-where-we-dont-know-difference-between-ignorance-apathy-we-dont-care-to-know) |
+| [Sports](https://www.fark.com/sports/) | [Tommy John needs more than a ligament transplant](https://www.fark.com/goto/13406702) ( [awfulannouncing.com](https://www.fark.com/goto/13406702) ) » [(8 comments)](https://www.fark.com/comments/13406702/Tommy-John-needs-more-than-a-ligament-transplant) |
+| [Business](https://www.fark.com/business/) | [Amazon: We're implementing 100% RTO. Amazon employees: We're implementing 91% GTFO and FOAD](https://www.fark.com/goto/13406916) ( [arstechnica.com](https://www.fark.com/goto/13406916) ) » [(2 comments)](https://www.fark.com/comments/13406916/Amazon-Were-implementing-100-RTO-Amazon-employees-Were-implementing-91-GTFO-FOAD) |
+| [STEM](https://www.fark.com/stem/) | [If Elmo ever makes it to Mars, he might be able to burn local fart rocks for fuel](https://www.fark.com/goto/13406914) ( [iflscience.com](https://www.fark.com/goto/13406914) ) » [(0 comments)](https://www.fark.com/comments/13406914/If-Elmo-ever-makes-it-to-Mars-he-might-be-able-to-burn-local-fart-rocks-for-fuel) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Former missionary joins ex-priest in exploring different positions](https://www.fark.com/goto/13406952) ( [dailymail.co.uk](https://www.fark.com/goto/13406952) ) » [(1 comment)](https://www.fark.com/comments/13406952/Former-missionary-joins-ex-priest-in-exploring-different-positions) |
+| [Fandom](https://www.fark.com/fandom/) | [Third Fallout game was declared non-canon and forgotten, but elements of it were spotted in the Fallout TV show and it might get interest again with today's gaming scene. No, not the shooter Fallout slumming through boring subway tunnels in DC](https://www.fark.com/goto/13406716) ( [pcgamer.com](https://www.fark.com/goto/13406716) ) » [(17 comments)](https://www.fark.com/comments/13406716/Third-Fallout-game-was-declared-non-canon-forgotten-but-elements-of-it-were-spotted-in-Fallout-TV-show-it-might-get-interest-again-with-todays-gaming-scene-No-not-shooter-Fallout-slumming-through-boring-subway-tunnels-in-DC) |
+| [D'awww](https://www.fark.com/dawww/) | [100 Playful Frog Tattoos to Spark Joy and Bring Back the Feels](https://www.fark.com/goto/13406918) ( [boredpanda.com](https://www.fark.com/goto/13406918) ) » [(5 comments)](https://www.fark.com/comments/13406918/-100-Playful-Frog-Tattoos-to-Spark-Joy-Bring-Back-Feels) |
+| [Food](https://www.fark.com/food/) | [CNN lists "American food: The 20 greatest dishes," while considering BBQ one food. OTOH, fried okra and 'nanner puddin. Call it a draw](https://www.fark.com/goto/13407014) ( [cnn.com](https://www.fark.com/goto/13407014) ) » [(4 comments)](https://www.fark.com/comments/13407014/CNN-lists-American-food-The-20-greatest-dishes-while-considering-BBQ-one-food-OTOH-fried-okra-nanner-puddin-Call-it-a-draw) |
+| [Politics](https://www.fark.com/politics/) | [Harris voters in red states spreading the word via anonymous sticky notes. Brace yourself for Trump and the GQP raging against 'sticky-note terrorism'](https://www.fark.com/goto/13407020) ( [msn.com](https://www.fark.com/goto/13407020) ) » [(9 comments)](https://www.fark.com/comments/13407020/Harris-voters-in-red-states-spreading-word-via-anonymous-sticky-notes-Brace-yourself-for-Trump-the-GQP-raging-against-sticky-note-terrorism) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 26 2024 02:43:14  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 26 2024 09:42:43  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
