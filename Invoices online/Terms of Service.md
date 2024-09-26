@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=122467883)  
-Glass and Allied Industries
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=131249726)  
+Mtunzini Group
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=46368471)  
-Tiny Cuddles Photography
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=98884320)  
+Depot Diesel (Pty) Ltd
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=200244405)  
-Brilliant Roof Products
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=156659935)  
+Alliance Energy
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=47559845)  
-Tagline Brands
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=187214444)  
+ARCHITEK PTY LTD
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=69773408)  
-SafeTclip
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=130514250)  
+Prosper Park
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=86304515)  
-Vplay Letsheng Mall
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=70913940)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=205063947)  
-NGB HOLDINGS PTY LTD
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=213614550)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=55378022)  
-IYD
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=20817163)  
+Calonet
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=113688228)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=211410845)  
-APTV Telecoms CC
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=154447280)  
-AquariumSmiths
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=177103176)  
-OptaServ
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=50472264)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=40516301)  
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=71617587)  
 MONSTER CONNECT (PTY) LTD
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=7ae69b64ea9f23da88f9f09a75c787d85f47aa8f6f3b9dddc404fb0c245517f3&c=2135937)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=141529186)  
+Durbanville Classifieds (Pty) Ltd
+
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=80345836)  
+Lindani Protection Services & Projects
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=97958826)  
+Oak Tree Immigration
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=2922619)  
+Gemini-IT Group
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=40835953)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=e0cf10af23dce706bacc5afd6a88cd2254aa8ff5dbbf57997951d02a5cc3fcc9&c=95998813)  
+Entidee Enterprise PTY (ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
