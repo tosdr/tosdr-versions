@@ -1,6 +1,6 @@
 [Skip to content](#primary)
 
-Open Menu[![InMotion Hosting Logo](https://design.inmotionhosting.com/assets/logos/corporate/logo-imh.svg)InMotion Hosting Home](https://www.inmotionhosting.com/)
+Open Menu[![InMotion Hosting Logo](https://www.inmotionhosting.com/dslib/assets/logos/corporate/logo-imh.svg)InMotion Hosting Home](https://www.inmotionhosting.com/)
 
 * [Chat NowStart a Live Chat](javascript:void(0) "Chat Now")
 * [Call Us](javascript:void(0) "Call Us")
@@ -26,15 +26,15 @@ Close Menu Main Menu
     
 * [WordPress](https://www.inmotionhosting.com/wordpress-hosting "WordPress")
     
-    [![WordPress on cPanel](https://design.inmotionhosting.com/assets/icons/custom/cpanel-wordpress.svg)
+    [![WordPress on cPanel](https://www.inmotionhosting.com/dslib/assets/icons/custom/cpanel-wordpress.svg)
     
     WordPress on cPanelOptimized Shared Hosting](https://www.inmotionhosting.com/wordpress-hosting "WordPress on cPanel")
     
-    [![WordPress on cPanel](https://design.inmotionhosting.com/assets/icons/custom/platform-i-wordpress.svg)
+    [![WordPress on cPanel](https://www.inmotionhosting.com/dslib/assets/icons/custom/platform-i-wordpress.svg)
     
     WordPress on Platform iNEWPurpose Built Cloud Servers](https://www.inmotionhosting.com/wordpress-hosting/platform-i "WordPress on Platform i")
     
-    [![WooCommerce Hosting](https://design.inmotionhosting.com/assets/logos/3rd-party/woocommerce-size-a.svg)
+    [![WooCommerce Hosting](https://www.inmotionhosting.com/dslib/assets/logos/3rd-party/woocommerce-size-a.svg)
     
     WooCommerce HostingPlatform i plus Woo Optimizations](https://www.inmotionhosting.com/wordpress-hosting/woocommerce "WooCommerce Hosting")
     
@@ -219,7 +219,7 @@ About Us
 
 Family of Brands
 
-[![InMotion Hosting](https://design.inmotionhosting.com/assets/logos/corporate/inmotion-hosting-logo-grey.webp)](https://www.inmotionhosting.com/)[![Web Hosting Hub](https://design.inmotionhosting.com/assets/logos/corporate/web-hosting-hub-logo-grey.webp)](https://www.webhostinghub.com/?__hstc=191291125.009be947c16775e92def5e6f0e70e0c7.1710447277509.1710788003718.1710792508009.18&__hssc=191291125.10.1710792508009&__hsfp=3079907552)[![RamNode](https://design.inmotionhosting.com/assets/logos/corporate/ramnode-logo-grey.webp)](https://ramnode.com/)
+[![InMotion Hosting](https://www.inmotionhosting.com/dslib/assets/logos/corporate/inmotion-hosting-logo-grey.webp)](https://www.inmotionhosting.com/)[![Web Hosting Hub](https://www.inmotionhosting.com/dslib/assets/logos/corporate/web-hosting-hub-logo-grey.webp)](https://www.webhostinghub.com/?__hstc=191291125.009be947c16775e92def5e6f0e70e0c7.1710447277509.1710788003718.1710792508009.18&__hssc=191291125.10.1710792508009&__hsfp=3079907552)[![RamNode](https://www.inmotionhosting.com/dslib/assets/logos/corporate/ramnode-logo-grey.webp)](https://ramnode.com/)
 
 Follow Us
 
