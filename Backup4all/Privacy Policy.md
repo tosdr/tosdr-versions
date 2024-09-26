@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your Facebook account](https://www.backup4all.com/how-to-backup-your-facebook-account-using-backup4all-kb.html)  
+* [Google Drive cannot be used as backup source ...](https://www.backup4all.com/google-drive-cannot-be-used-as-backup-source-anymore-kb.html)  
     
-* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
+* [How to backup your data to HostEurope](https://www.backup4all.com/how-to-backup-your-data-to-hosteurope-kb.html)  
     
-* [Back-up to Google Drive using Backup4all](https://www.backup4all.com/backup-to-google-drive-kb.html)  
+* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
     
-* [How to backup to OneDrive using Backup4all](https://www.backup4all.com/how-to-backup-to-skydrive-using-backup4all-kb.html)  
+* [How to back up data files from GreenQloud usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-greenqloud-using-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ](https://www.backup4all.com/using-backup4all-faq-1-kb.html)  
+* [How to use advanced backup settings in Backup ...](https://www.backup4all.com/how-to-use-advanced-settings-in-backup4all-kb.html)  
     
 
 Choose language:
