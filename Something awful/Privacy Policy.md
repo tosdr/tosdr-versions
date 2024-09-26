@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [A Brief Misadventure as a Woodcutting Author](https://www.somethingawful.com/news/wood-cutting-mishap/1/)
-* [Horrible Magazine Shootout](https://www.somethingawful.com/horrors-of-porn/horrible-magazine-shootout/)
-* [Interview Disaster Special III](https://www.somethingawful.com/horrors-of-porn/interview-disaster-special-3/1/)
-* [Zenra Ballet 2](https://www.somethingawful.com/horrors-of-porn/zenra-ballet-2/)
+* [A Boring Day at the Airport](https://www.somethingawful.com/photoshop-phriday/boring-day-at/1/)
+* [Winceton!](https://www.somethingawful.com/comedy-goldmine/winceton/1/)
+* [Robots at War](https://www.somethingawful.com/photoshop-phriday/robots-at-war/1/)
+* [Video Game Snack Time](https://www.somethingawful.com/photoshop-phriday/video-game-snack/1/)
+* [Rejected Software 2](https://www.somethingawful.com/photoshop-phriday/rejected-software-2/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [What would you do if a nuclear war was starting?](http://forums.somethingawful.com/showthread.php?threadid=4071151 "What would you do if a nuclear war was starting?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Willy Wonka II: The Wonkening](http://forums.somethingawful.com/showthread.php?threadid=4071155 "Willy Wonka II: The Wonkening")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [What's the point of any of this?](http://forums.somethingawful.com/showthread.php?threadid=4071188 "What's the point of any of this?")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Have you ever been trolled into doing something stupid irl by the internet?](http://forums.somethingawful.com/showthread.php?threadid=4071191 "Have you ever been trolled into doing something stupid irl by the internet?")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [What would you do if a nuclear war was starting?](http://forums.somethingawful.com/showthread.php?threadid=4071151 "What would you do if a nuclear war was starting?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Police Chase!](http://forums.somethingawful.com/showthread.php?threadid=4071138 "Police Chase!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Willy Wonka II: The Wonkening](http://forums.somethingawful.com/showthread.php?threadid=4071155 "Willy Wonka II: The Wonkening")
 
 ### Random Articles
 
-* [I Spy Hoarders](https://www.somethingawful.com/photoshop-phriday/i-spy-hoarders/)
-* [How Your Tip Affects Your Next Delivery](https://www.somethingawful.com/feature-articles/delivery-driver-tip/)
-* [Christmas Comics](https://www.somethingawful.com/feature-articles/chistmas-comics/1/)
-* [Draw-Your-Stuff Success Stories, Part Two!](https://www.somethingawful.com/comedy-goldmine/draw-forums-avatars/1/)
-* [The Kansas City Worldskippers vs The Mermaid](https://www.somethingawful.com/flash-tub/kc-worldskippers-mermaid/)
+* [An Intolerable Rap Rivalry](https://www.somethingawful.com/news/an-intolerable-rap/)
+* [My 70-inch TV Will Fix Everything](https://www.somethingawful.com/news/tech-dad-miserable/)
+* [Tech Game Changers at SXSW 2014](https://www.somethingawful.com/news/sxsw-2014-tech/)
+* [Pansy Jackass](https://www.somethingawful.com/news/pansy-jackass/)
+* [Pop Psychology](https://www.somethingawful.com/your-band-sucks/pop-psychology/)
 
 [Random!](https://www.somethingawful.com/random/)
 
