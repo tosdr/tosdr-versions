@@ -266,22 +266,6 @@ Most Popular
 [PICTURES: Bargain alert as Bord na Móna machines go under the hammer at huge auction](https://www.derrynow.com/news/national-news/1613982/pictures-bargain-alert-as-bord-na-mona-machines-go-under-the-hammer-at-huge-auction.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PSNI cordon Carnhill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI cordon Carnhill")](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
-
-Police cordon following the incident in Carnhill where a number of houses were evacuated.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Number of homes have been evacuated in Derry](https://www.derrynow.com/news/local-news/1613568/number-of-homes-evacuated-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, 25th September 2024](https://www.derrynow.com/news/deaths/1613251/derry-death-notices-wednesday-25th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Three vehicles damaged in Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three vehicles damaged in Derry security alert")](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
 
 Police cordon following the incident in Carnhill where a number of houses were evacuated. Residents have now returned to their premises.
@@ -290,6 +274,15 @@ Police cordon following the incident in Carnhill where a number of houses were e
 
 [Three vehicles damaged in Derry security alert](https://www.derrynow.com/news/local-news/1613932/three-vehicles-damaged-in-derry-security-alert.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Wolverhampton Wanderers sign talented Derry City teenager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Wolverhampton Wanderers sign talented Derry City teenager")](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
+
+Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with possessing firearm in public](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing firearm in public")](https://www.derrynow.com/news/local-news/1613746/derry-man-charged-with-possessing-firearm-in-public.html)
 
@@ -307,22 +300,6 @@ Derry Magistrate's Court
 [Family call for fresh inquest into death of Donegal man in Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1613597/family-call-for-fresh-inquest-into-death-of-donegal-man-in-altnagelvin-hospital.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man due in Derry Court charged with series of drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due in Derry Court charged with series of drug offences")](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man due in Derry Court charged with series of drug offences](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Wolverhampton Wanderers sign talented Derry City teenager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Wolverhampton Wanderers sign talented Derry City teenager")](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
-
-Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Wolverhampton Wanderers sign talented Derry City teenager](https://www.derrynow.com/news/sport/1613884/wolverhampton-wanderers-sign-talented-derry-city-teenager.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man charged with possessing nunchucks and knuckle dusters returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing nunchucks and knuckle dusters returned for trial")](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -330,12 +307,33 @@ Luke O’Donnell has joined English Premier League club Wolverhampton Wanderers
 [Derry man charged with possessing nunchucks and knuckle dusters returned for trial](https://www.derrynow.com/news/local-news/1613772/derry-man-charged-with-possessing-nunchucks-and-knuckle-dusters-returned-for-trial.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man due in Derry Court charged with series of drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due in Derry Court charged with series of drug offences")](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man due in Derry Court charged with series of drug offences](https://www.derrynow.com/news/local-news/1613652/man-due-in-derry-court-charged-with-series-of-drug-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Special Translink FAI Cup Semi Final coach for Derry City FC fans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Special Translink FAI Cup Semi Final coach for Derry City FC fans")](https://www.derrynow.com/news/derry-sport/1613814/special-translink-fai-cup-semi-final-coach-for-derry-city-fc-fans.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
 [Special Translink FAI Cup Semi Final coach for Derry City FC fans](https://www.derrynow.com/news/derry-sport/1613814/special-translink-fai-cup-semi-final-coach-for-derry-city-fc-fans.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballymena drugs dealer (45) sentenced in Derry court for offences linked to EncroChat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymena drugs dealer (45) sentenced in Derry court for offences linked to EncroChat")](https://www.derrynow.com/news/crime---courts/1614139/ballymena-drugs-dealer-45-sentenced-in-derry-court-for-offences-linked-to-encrochat.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Ballymena drugs dealer (45) sentenced in Derry court for offences linked to EncroChat](https://www.derrynow.com/news/crime---courts/1614139/ballymena-drugs-dealer-45-sentenced-in-derry-court-for-offences-linked-to-encrochat.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry")](https://www.derrynow.com/news/pictures---videos/1613883/pictures-ni-food-to-go-roadshow-serves-up-innovation-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: NI Food To Go Roadshow Serves Up Innovation in Derry](https://www.derrynow.com/news/pictures---videos/1613883/pictures-ni-food-to-go-roadshow-serves-up-innovation-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1614086/derry-death-notices-thursday-26th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, 26th September 2024](https://www.derrynow.com/news/deaths/1614086/derry-death-notices-thursday-26th-september-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Cutting speed limit to 20mph in residential areas should be considered – O’Dowd](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cutting speed limit to 20mph in residential areas should be considered – O’Dowd")](https://www.derrynow.com/news/local-news/1614374/cutting-speed-limit-to-20mph-in-residential-areas-should-be-considered-odowd.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -522,7 +527,7 @@ Advertise with Us
 [Cutting speed limit to 20mph in residential areas should be considered – O’Dowd](https://www.derrynow.com/news/local-news/1614374/cutting-speed-limit-to-20mph-in-residential-areas-should-be-considered-odowd.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Durkan: Unblocking water issues key to unlocking housing opportunities for all](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Durkan: Unblocking water issues key to unlocking housing opportunities for all")](https://www.derrynow.com/news/derry-news/1614172/durkan-unblocking-water-issues-key-to-unlocking-housing-opportunities-for-all.html)
+[![Durkan: Unblocking water issues key to unlocking housing opportunities for all](https://www.derrynow.com/resizer/165/93/true/1571843547230.jpg--.jpg?1571843547237 "Durkan: Unblocking water issues key to unlocking housing opportunities for all")](https://www.derrynow.com/news/derry-news/1614172/durkan-unblocking-water-issues-key-to-unlocking-housing-opportunities-for-all.html)
 
 Mark H Durkan.
 
@@ -553,15 +558,6 @@ Members of the Dungiven community stage a protest outside the public consultatio
 
 [Derry gets a taste for innovation at NI Food To Go Roadshow](https://www.derrynow.com/news/home/1613946/derry-gets-a-taste-for-innovation-at-ni-food-to-go-roadshow.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Former Taoiseach Leo Varadkar to address New Ireland Commission event in Derry](https://www.derrynow.com/resizer/165/93/true/2024_09_25/images-1727274316241.jpg--.jpg?1727274316256 "Former Taoiseach Leo Varadkar to address New Ireland Commission event in Derry")](https://www.derrynow.com/news/local-news/1614192/former-taoiseach-leo-varadkar-to-address-new-ireland-commission-event-in-derry.html)
-
-Foyle MP Colum Eastwood and former Taoiseach Leo Varadkar
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Former Taoiseach Leo Varadkar to address New Ireland Commission event in Derry](https://www.derrynow.com/news/local-news/1614192/former-taoiseach-leo-varadkar-to-address-new-ireland-commission-event-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
