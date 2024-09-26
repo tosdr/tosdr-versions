@@ -257,13 +257,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![Screenshot proof of NFL rigging during a Cleveland Browns and Washington Rednecks NFL football game](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/) [Did This Man Find Proof The NFL is Rigged?](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/)
+    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
     
-    [![25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/) [25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/)
+    [![kangaroo punching to save dog](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/) [Daring Dude Punches a Kangaroo to Save His Dog](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/)
     
-    [![22 Bits of Twitter Cringe That Should Get Off the App](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/) [22 Bits of Twitter Cringe That Should Get Off the App](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/)
+    [![fails and facepalms](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/) [36 Fails and Facepalms Crushing Your Hope for Future Generations](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/)
     
-    [![pool emptying](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/) [Guy Notices Something Unusual When Emptying His Pool : Laminar Flow Phenomenon](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/)
+    [![behind the scene pic pf NPR's tiny desk](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/) [18 Fascinating Photos That Offer a Unique Perspective](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/)
     
 
 * Advertisement
