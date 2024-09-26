@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[JUST IN: Helene now a hurricane near Cancun, Mexico](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
+[Breaking down your impacts county by county as Helene gains strength](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
 
 Privacy Policy
 ==============
