@@ -46,6 +46,22 @@ Trending Topics
 
 * * *
 
+Trending Topics
+
+Look Forward: Multidimensional Transition
+
+Look Forward: Supply Chain 2024
+
+AI in Banking: AI Will Be An Incremental Game Changer
+
+The Return of Energy Security
+
+The AI Governance Challenge
+
+India's Future: The Quest for High and Stable Growth
+
+* * *
+
 Offerings by Division
 
 [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/)
@@ -688,7 +704,9 @@ Investor Relations
 
 Back S&P Global
 
-Find Products Research & Insights Who We Are
+* Find Products
+* Research & Insights
+* Who We Are
 
 * Featured Products
     
