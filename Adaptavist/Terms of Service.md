@@ -439,14 +439,14 @@ Change your preferences
 
 |
 
+Copyright © 2024 Adaptavist Group LTD
+
+|
+
 Website by
 
 [Brew Digital
 
 chevron icon](https://www.brewdigital.com/)
-
-|
-
-Copyright © 2024 Adaptavist Group LTD
 
 [Contact us](https://www.adaptavist.com/contact)
