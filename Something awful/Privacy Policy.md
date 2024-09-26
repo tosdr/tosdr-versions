@@ -205,23 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Donkey Sandwiches!](https://www.somethingawful.com/awfulvision/rpg-chemtrails-fart/1/)
-* [Rejected Valentine's Day Cards](https://www.somethingawful.com/photoshop-phriday/rejected-valentines-day/1/)
-* [Tales from the Zoo](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo/1/)
-* [soFeminine.co.uk, Teen Pregnancy, and BYOB](https://www.somethingawful.com/weekend-web/teen-pregnancy-woman/1/)
+* [Zoom Out!](https://www.somethingawful.com/photoshop-phriday/zoom-out/1/)
+* [The Next Pope!](https://www.somethingawful.com/photoshop-phriday/next-pope-benedict/1/)
+* [Contest Results: The SA T-Shirt Contest](https://www.somethingawful.com/feature-articles/contest-results-sa/1/)
+* [Design the Worst Band Shirt!](https://www.somethingawful.com/photoshop-phriday/worst-band-shirts/1/)
+* [Randomly Generated Video Games! (Part One of Two)](https://www.somethingawful.com/photoshop-phriday/randomly-generated-games/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [Is it normal for people to start deciding they love jesus in your 30s](http://forums.somethingawful.com/showthread.php?threadid=4071230 "Is it normal for people to start deciding they love jesus in your 30s")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [What's the point of any of this?](http://forums.somethingawful.com/showthread.php?threadid=4071188 "What's the point of any of this?")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Have you ever been trolled into doing something stupid irl by the internet?](http://forums.somethingawful.com/showthread.php?threadid=4071191 "Have you ever been trolled into doing something stupid irl by the internet?")
 
 ### Random Articles
 
-* [Celebrity Race Change!](https://www.somethingawful.com/comedy-goldmine/change-celebrity-race/1/)
-* [Mailbox for MICHAEL JACKSON](https://www.somethingawful.com/awful-links/awful-link-1760/)
-* [Daily Dirt 8/27/06](https://www.somethingawful.com/daily-dirt/daily-dirt-82706/)
-* [Highway to the Thrifty Zone](https://www.somethingawful.com/news/highway-thrifty-zone/)
-* [RPG Roundup!](https://www.somethingawful.com/news/rpg-roundup/)
+* [KONQUER YOUR PORTFOLIO WITH MY KRYPTO KOINS!](https://www.somethingawful.com/news/bitcoin-mortal-kombat/)
+* [I'm Dreaming of a Zombie Christmas](https://www.somethingawful.com/news/im-dreaming-zombie/)
+* [The Gang's All Here!](https://www.somethingawful.com/news/gangs-all-here/)
+* [Porn of the Dead](https://www.somethingawful.com/horrors-of-porn/porn-dead/)
+* [Caliber 50](https://www.somethingawful.com/rom-pit/caliber-50/)
 
 [Random!](https://www.somethingawful.com/random/)
 
