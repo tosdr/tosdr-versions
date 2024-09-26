@@ -853,7 +853,7 @@ Search Search Close
 
 Menu
 
-### Breadcrumb
+Breadcrumb
 
 1. [Home](https://www.waldenu.edu/ "Home")
 2. [Legal and Consumer Information](https://www.waldenu.edu/legal "Legal and Consumer Information")
