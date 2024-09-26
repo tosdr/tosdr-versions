@@ -31,7 +31,7 @@ Search this website  Search
     * [Production Funding – For WA producers and production companies](https://www.screenwest.com.au/funding-incentives/production-funding/)
     * [Development Funding](https://www.screenwest.com.au/funding-incentives/development-funding/)
     * [Digital Games Funding](https://www.screenwest.com.au/funding-incentives/digital-games-funding/)
-    * [Skills & Business Support](https://www.screenwest.com.au/funding-incentives/skills-business-support/)
+    * [Industry Skills & Business Development](https://www.screenwest.com.au/funding-incentives/skills-business-support/)
     * [Travel Support](https://www.screenwest.com.au/funding-incentives/travel-support/)
     * [First Nations](https://www.screenwest.com.au/funding-incentives/first-nations/)
     * [Equity and Access Support](https://www.screenwest.com.au/funding-incentives/diversity-equity-and-inclusion-support/)
@@ -207,7 +207,7 @@ Screenwest acknowledges and pays respect to all Traditional Owners of Country ac
 
 [Digital Games Funding](https://www.screenwest.com.au/funding-incentives/digital-games-funding/)
 
-[Skills & Business Support](https://www.screenwest.com.au/funding-incentives/skills-business-support/)
+[Industry Skills & Business Development](https://www.screenwest.com.au/funding-incentives/skills-business-support/)
 
 [Travel Support](https://www.screenwest.com.au/funding-incentives/travel-support/)
 
