@@ -1,1 +1,1 @@
-[](http://alerts.fsu.edu/)Tropical Storm Helene - check [alerts.fsu.edu](http://alerts.fsu.edu/) for official FSU updates.
+[](http://alerts.fsu.edu/)Hurricane Helene - Check [alerts.fsu.edu](http://alerts.fsu.edu/) for official FSU updates.
