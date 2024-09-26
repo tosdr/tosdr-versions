@@ -146,9 +146,9 @@ Thanks for your feedback!
 
 * [When I try to upload content using the website, nothing happens.](https://www.dropboxforum.com/t5/Create-upload-and-share/When-I-try-to-upload-content-using-the-website-nothing-happens/td-p/782184)
     
-    Posted by: rbkeep 74 days ago
+    Posted by: rbkeep 78 days ago
     
-    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 22548
+    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 23112
     
     ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-chat.svg) 8
     
@@ -163,6 +163,12 @@ All files stored in Dropbox are encrypted and secured in online servers. Learn w
 
 [View article](https://help.dropbox.com/security/physical-location-data-storage)
 
+[#### Digital Services Act (DSA) Information](https://help.dropbox.com/security/digital-services-act)
+
+Learn about how Dropbox complies with the Digital Services Act (DSA) implemented by the European Parliament.
+
+[View article](https://help.dropbox.com/security/digital-services-act)
+
 [#### Dropbox incident response policies and procedures](https://help.dropbox.com/security/dropbox-incident-response)
 
 Learn about Dropbox incident response policies, and the procedures in place to address service availability, integrity, security, privacy, confidentiality, and more.
@@ -174,12 +180,6 @@ Learn about Dropbox incident response policies, and the procedures in place to a
 We've updated our Business Agreement, Terms of Service, and Privacy Policy to improve the Dropbox experience. Find key details on these updates.
 
 [View article](https://help.dropbox.com/security/terms-service-privacy-policy)
-
-[#### How Dropbox responds to legal requests for information](https://help.dropbox.com/security/legal-requests)
-
-Dropbox sometimes receives requests from governments for information about users. Learn how Dropbox responds to legal requests for information.
-
-[View article](https://help.dropbox.com/security/legal-requests)
 
 Other ways to get help
 ----------------------
