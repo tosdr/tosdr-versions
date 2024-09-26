@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 171 utilisateurs actifs
+##### 717 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Paint 3D, c’est fini : Microsoft met fin à l’application qui devait remplacer Paint](https://lecrabeinfo.net/paint-3d-cest-fini-microsoft-met-fin-a-lapplication-qui-devait-remplacer-paint.html)
 * [Windows Recall : les dernières nouvelles sur la fonctionnalité controversée de Microsoft](https://lecrabeinfo.net/windows-recall-les-dernieres-nouvelles-sur-la-fonctionnalite-controversee-de-microsoft.html) 
 * [Windows : comment savoir si vous avez une édition Famille ou Professionnel ?](https://lecrabeinfo.net/windows-comment-savoir-si-vous-avez-une-edition-famille-ou-professionnel.html)
-* [Google enterre le Chromecast : découvrez son remplaçant, le Google TV Streamer](https://lecrabeinfo.net/google-enterre-le-chromecast-decouvrez-son-remplacant-le-google-tv-streamer.html)
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 68 530 membres
-* 902 articles
+* 903 articles
 * 26 591 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
