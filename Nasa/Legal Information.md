@@ -70,7 +70,7 @@ Suggested Searches
 
 ### Arctic Sea Ice Near Historic Low; Antarctic Ice Continues Decline
 
-article1 day ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
+article2 days ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
 
 2 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
+article 3 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
 
 6 min read
 
 ### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 
-article 2 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![SpaceX Crew-9 members (from left) Mission Specialist Aleksandr Gorbunov from Roscosmos and Commander Nick Hague from NASA pose for an official crew portrait at NASA's Johnson Space Center in Houston, Texas. Credit: NASA/Josh Valcarel](https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e061425.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![SpaceX Crew-9 members (from left) Mission Specialist Aleksandr Gorbunov from Roscosmos and Commander Nick Hague from NASA pose for an official crew portrait at NASA's Johnson Space Center in Houston, Texas. Credit: NASA/Josh Valcarel](https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e061425.jpg?w=1024)
 
 5 min read
 
@@ -263,25 +263,25 @@ article 7 days ago](https://www.nasa.gov/missions/station/commercial-crew/what-y
 
 ### Highlights
 
-[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
+[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
+
+1 min read
+
+### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
+
+article 52 mins ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
 
 4 min read
 
 ### Educational Activities in Space
 
-article 1 day ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
 
 4 min read
 
 ### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 
-article 1 week ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
-
-3 min read
-
-### Station Science Top News: September 13, 2024
-
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)
+article 1 week ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)
 
 ### Highlights
 
@@ -291,19 +291,19 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### NASA’s Eyes for Museums
 
-article 9 hours ago](https://science.nasa.gov/eyes/museums/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
+article 19 hours ago](https://science.nasa.gov/eyes/museums/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
 
 5 min read
 
 ### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 
-article 12 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
 
 4 min read
 
 ### Arctic Sea Ice Near Historic Low; Antarctic Ice Continues Decline
 
-article 1 day ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)
+article 2 days ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)
 
 ### Highlights
 
@@ -313,19 +313,19 @@ article 1 day ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-a
 
 ### NASA’s Eyes for Museums
 
-article 9 hours ago](https://science.nasa.gov/eyes/museums/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
+article 19 hours ago](https://science.nasa.gov/eyes/museums/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
 
 3 min read
 
 ### Oct. 2 Annular Solar Eclipse
 
-article 13 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
+article 23 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
 
 4 min read
 
 ### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)
+article 3 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)
 
 ### Featured
 
@@ -335,13 +335,13 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-serie
 
 ### NASA’s Eyes for Museums
 
-article 9 hours ago](https://science.nasa.gov/eyes/museums/)[![In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j80mw64aby9qbqjpvgvqxq9w-2k.png)
+article 19 hours ago](https://science.nasa.gov/eyes/museums/)[![In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j80mw64aby9qbqjpvgvqxq9w-2k.png)
 
 4 min read
 
 ### In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
 
-article 14 hours ago](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
+article 24 hours ago](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-w
 
 ### 2024 SARP West Closeout
 
-article 7 hours ago](https://www.nasa.gov/general/2024-sarp-west-closeout/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
+article 17 hours ago](https://www.nasa.gov/general/2024-sarp-west-closeout/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
 
 5 min read
 
 ### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 
-article 12 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
+article 22 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
 
 3 min read
 
 ### Oct. 2 Annular Solar Eclipse
 
-article 13 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)
+article 23 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)
 
 ### Highlights
 
@@ -379,19 +379,19 @@ article 13 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-an
 
 ### Girls in STEM Inspired to Fly High at NASA Kennedy
 
-article 1 day ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
 
 7 min read
 
 ### ARMD Solicitations
 
-article 5 days ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A researcher assists a student in guiding his cylindrical-shaped paper model into a tabletop demonstration unit.](https://www.nasa.gov/wp-content/uploads/2024/09/grc-2024-c-08875.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A researcher assists a student in guiding his cylindrical-shaped paper model into a tabletop demonstration unit.](https://www.nasa.gov/wp-content/uploads/2024/09/grc-2024-c-08875.jpg?w=1024)
 
 1 min read
 
 ### Students Soar at NASA Glenn’s Aviation Day
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/)
 
 ### Highlights
 
@@ -401,19 +401,19 @@ article 7 days ago](https://www.nasa.gov/centers-and-facilities/glenn/students-s
 
 ### NASA’s Record-Breaking Laser Demo Completes Mission
 
-article 12 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
+article 22 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
 
 1 min read
 
 ### Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
 
 2 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.
 
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)
+article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-final-text-and-due-dates/)
 
 ### Featured
 
@@ -445,7 +445,7 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### NASA Helps Build New Federal Sea Level Rise Website
 
-article 1 day ago](https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/)[![The Pride Progress Flag is seen waving in the wind following a flag raising ceremony in recognition and celebration of LGBTQI+ Pride Month at the Mary W. Jackson NASA Headquarters building in Washington on June 1, 2023.](https://www.nasa.gov/wp-content/uploads/2024/09/hq-flags.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/)[![The Pride Progress Flag is seen waving in the wind following a flag raising ceremony in recognition and celebration of LGBTQI+ Pride Month at the Mary W. Jackson NASA Headquarters building in Washington on June 1, 2023.](https://www.nasa.gov/wp-content/uploads/2024/09/hq-flags.jpg?w=1024)
 
 4 min read
 
@@ -457,7 +457,7 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-expands-
 
 ### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 
-article 2 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)
+article 3 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)
 
 ### Highlights
 
