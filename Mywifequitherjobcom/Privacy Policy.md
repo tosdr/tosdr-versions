@@ -192,6 +192,7 @@ Learn how to find products to sell and setup your online store.
 
 Related Content
 
+* [557: Why You’ll Never Get Anywhere In Business If You Don’t Stop THIS Habit!](https://mywifequitherjob.com/episode557/)
 * [556: What’s Really Going On? A Behind the Scenes Look At How We’re Changing Our Business](https://mywifequitherjob.com/episode556/)
 * [555: The Secret To Crushing Black Friday Without Slashing Prices](https://mywifequitherjob.com/episode555/)
 * [BMW Is Prioritizing Profit Over Safety—Here’s What You Need to Know](https://mywifequitherjob.com/bmw-is-prioritizing-profit-over-safety-heres-what-you-need-to-know/)
@@ -211,7 +212,6 @@ Related Content
 * [544: It’s Game Over For Etsy Sellers In The US. Here’s What’s Happening…](https://mywifequitherjob.com/episode544/)
 * [Brutally Honest Advice From Failed Entrepreneurs (Who Lost Everything)](https://mywifequitherjob.com/failed-entrepreneurs/)
 * [543: Google Search Is Dying. Here Are Your Best Traffic Alternatives](https://mywifequitherjob.com/episode543/)
-* [542: The UGLY Truth About Print On Demand That No Guru Will Tell You](https://mywifequitherjob.com/episode542/)
 
 Where Should I Begin?
 
@@ -259,7 +259,7 @@ Please Read Our [Privacy Policy](https://mywifequitherjob.com/privacy-policy/) A
 
 ![css.php](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=3545276)
+![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=130237595)
 
 Everything you need to know on how to build a profitable ecommerce store from scratch!
 
