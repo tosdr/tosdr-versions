@@ -49,6 +49,7 @@ Veygo is part of the Admiral Group and operates under our shared group privacy p
 * [Privacy policy](https://www.veygo.com/privacy-policy/)
 * [Cookie policy](https://www.veygo.com/cookie-policy/)
 * [Your agreement](https://quote.veygo.com/static/Your_Agreement_with_Able_Insurance_Services_Limited.pdf)
+* [Modern slavery statement](https://admiralgroup.co.uk/investor-relations/corporate-governance/modern-slavery-statements)
 
 ##### Hours
 
