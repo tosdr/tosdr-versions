@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Left inset: Monique Baugh (Estes Funeral Chapel). Right inset: Elsa E. Segura (Hennepin County Sheriff's Office). Background: The location where Baugh was lured to her death (KMSP).](https://am24.mediaite.com/lc/cnt/uploads/2024/09/minnmurder-1-432x243.jpg)](https://lawandcrime.com/crime/not-acceptable-family-of-real-estate-agent-and-mom-of-2-lured-to-her-death-says-woman-who-pleaded-guilty-figured-out-how-to-get-shorter-time/)
+1. [![Sarah Beth Clendaniel appears in a booking photo, on the left; and in tactical gear, on the right](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Sarah-Beth-Clendaniel-432x243.jpg)](https://lawandcrime.com/crime/lay-this-city-to-waste-neo-nazi-leaders-girlfriend-planned-to-completely-destroy-baltimore-but-got-caught-by-talking-about-the-would-be-attack-online/)
     
-    ### ['Not acceptable': Family of real estate agent and mom of 2 lured to her death says woman who pleaded guilty 'figured out how to get shorter time'](https://lawandcrime.com/crime/not-acceptable-family-of-real-estate-agent-and-mom-of-2-lured-to-her-death-says-woman-who-pleaded-guilty-figured-out-how-to-get-shorter-time/)
+    ### ['Lay this city to waste': Neo-Nazi leader’s girlfriend planned to 'completely destroy' Baltimore — but got caught by talking about the would-be attack online](https://lawandcrime.com/crime/lay-this-city-to-waste-neo-nazi-leaders-girlfriend-planned-to-completely-destroy-baltimore-but-got-caught-by-talking-about-the-would-be-attack-online/)
     
-2. [![Crystal Rasch missing](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Crystal-Rasch-missing-432x243.jpg)](https://lawandcrime.com/crime/can-police-get-a-search-warrant-on-a-sunday-husband-charged-with-murder-after-missing-estranged-wifes-tooth-found-in-burn-pit-near-his-home-cops-say/)
+2. [![Dwayne Robinson](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Dwayne-Robinson-432x243.jpg)](https://lawandcrime.com/crime/brother-who-thought-he-was-poisoned-for-years-stabbed-sister-with-hunting-knife-as-she-ate-in-kitchen-covered-body-with-blanket-and-then-finished-her-food-sheriff/)
     
-    ### ['Can police get a search warrant on a Sunday': Husband charged with murder after missing estranged wife's tooth found in burn pit near his home, cops say](https://lawandcrime.com/crime/can-police-get-a-search-warrant-on-a-sunday-husband-charged-with-murder-after-missing-estranged-wifes-tooth-found-in-burn-pit-near-his-home-cops-say/)
+    ### [Brother who thought he was poisoned for years stabbed sister with hunting knife as she ate in kitchen, covered body with blanket, and then finished her food: Sheriff](https://lawandcrime.com/crime/brother-who-thought-he-was-poisoned-for-years-stabbed-sister-with-hunting-knife-as-she-ate-in-kitchen-covered-body-with-blanket-and-then-finished-her-food-sheriff/)
     
-3. [![Background: Orange County Superior Court Judge Jeffrey Malcolm Ferguson in court. Inset: Sheryl Ferguson (KTTV).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/lcmurder-432x243.jpg)](https://lawandcrime.com/crime/judge-who-allegedly-lost-it-and-reeked-of-booze-after-shooting-wife-thrown-back-in-jail-after-ankle-monitor-raises-red-flag/)
+3. [![Darien Urban, inset on the left; and Shalene Ehlers, inset on the right, against an image of a campground.](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Urban-Ehlers-432x243.jpg)](https://lawandcrime.com/crime/couple-allegedly-tried-to-sell-baby-boy-for-a-6-pack-of-beer-to-man-at-campground-because-taking-care-of-three-dogs-and-a-baby-was-too-much/)
     
-    ### [Judge who allegedly 'lost it' and reeked of booze after shooting wife thrown back in jail after ankle monitor raises red flag](https://lawandcrime.com/crime/judge-who-allegedly-lost-it-and-reeked-of-booze-after-shooting-wife-thrown-back-in-jail-after-ankle-monitor-raises-red-flag/)
+    ### [Couple allegedly tried to sell baby boy for a '6-pack of beer' to man at campground because taking care of 'three dogs and a baby' was too much](https://lawandcrime.com/crime/couple-allegedly-tried-to-sell-baby-boy-for-a-6-pack-of-beer-to-man-at-campground-because-taking-care-of-three-dogs-and-a-baby-was-too-much/)
     
-4. [![John Raymond](https://am21.mediaite.com/lc/cnt/uploads/2024/09/John-Raymond-432x243.jpg)](https://lawandcrime.com/crime/duty-to-counsel-not-suffocate-former-survivor-contestant-and-pastor-who-covered-4-year-olds-face-until-he-went-limp-blames-cancel-culture/)
+4. [![Matthew Ivester fatally beat his girlfriend, Stephanie Long, to death, say deputies in Arapahoe County, Colorado. (Mug shot: Arapahoe County Sheriff's Office)](https://am22.mediaite.com/lc/cnt/uploads/2023/10/Matthew-Ivester-432x243.png)](https://lawandcrime.com/crime/man-who-fatally-beat-girlfriend-in-front-of-surveillance-cameras-pleads-guilty-only-to-assaulting-her/)
     
-    ### ['Duty to counsel, not suffocate': Former 'Survivor' contestant and pastor who covered 4-year-old's face until he went 'limp' blames 'cancel culture'](https://lawandcrime.com/crime/duty-to-counsel-not-suffocate-former-survivor-contestant-and-pastor-who-covered-4-year-olds-face-until-he-went-limp-blames-cancel-culture/)
+    ### [Man who fatally beat girlfriend in front of surveillance cameras pleads guilty only to assaulting her](https://lawandcrime.com/crime/man-who-fatally-beat-girlfriend-in-front-of-surveillance-cameras-pleads-guilty-only-to-assaulting-her/)
     
-5. [![Ryan Routh, Aileen Cannon, Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Routh-432x243.jpg)](https://lawandcrime.com/high-profile/judge-who-tossed-out-mar-a-lago-case-just-got-a-major-new-assignment-as-trump-assassination-attempt-suspect-with-over-a-hundred-arrests-is-kept-behind-bars/)
+5. [![Larry Albino](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Larry-Albino-432x243.jpg)](https://lawandcrime.com/crime/child-pornographer-busted-thanks-to-zillow-photos-of-home-that-matched-videos-with-toddler-girl-cops-say/)
     
-    ### [Judge who tossed out Mar-a-Lago case just got a major new assignment as Trump assassination attempt suspect with 'over a hundred arrests' is kept behind bars](https://lawandcrime.com/high-profile/judge-who-tossed-out-mar-a-lago-case-just-got-a-major-new-assignment-as-trump-assassination-attempt-suspect-with-over-a-hundred-arrests-is-kept-behind-bars/)
+    ### [Child pornographer busted thanks to Zillow photos of home that matched videos with toddler girl, cops say](https://lawandcrime.com/crime/child-pornographer-busted-thanks-to-zillow-photos-of-home-that-matched-videos-with-toddler-girl-cops-say/)
     
 
 [](http://eepurl.com/c89Jdb)
