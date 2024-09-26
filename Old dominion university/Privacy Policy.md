@@ -127,7 +127,7 @@ Legal
 Visit
 -----
 
-* [Visit ODU](https://ww1.odu.edu/about/visitors)
+* [Visit ODU](https://ww1.odu.edu/visit/visitors-guide)
 * [Transportation & Parking](https://ww1.odu.edu/transportation-parking-services)
 * [Campus Map](https://ww1.odu.edu/map)
 
@@ -274,7 +274,7 @@ Mega Menu
     
     **Programs & Partnerships**
     
-    * [Visitor's Guide](https://ww1.odu.edu/about/visitors)
+    * [Visitor's Guide](https://ww1.odu.edu/visit/visitors-guide)
     * [Sports & Recreation](https://ww1.odu.edu/life/sports-recreation)
     * [Pre-College & Summer Programs](https://ww1.odu.edu/ails/trio-programs)
     * [Vendors](https://ww1.odu.edu/procurement/vendors)
