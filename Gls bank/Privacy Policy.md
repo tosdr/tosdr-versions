@@ -206,7 +206,7 @@
         Barrierearmut
         
     
-    [![Kitas und Schulen bauen - aus Holz](/media/_processed_/9/1/csm_bauabschlussfest_530x380_2b59243357.jpg "Kitas und Schulen bauen aus Holz - digitale GLS Bank Veranstaltung im September 24")](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
+    [![Kitas und Schulen bauen - aus Holz](/media/_processed_/9/1/csm_bauabschlussfest_530x380_68cceb149e.jpg "Kitas und Schulen bauen aus Holz - digitale GLS Bank Veranstaltung im September 24")](https://www.gls.de/gls-bank/aktuelles/veranstaltungen/digital/praxisbeispiele-und-finanzierungsmoumlglichkeiten/)
     
     Schulen und Kitas bauen mit Holz
     
