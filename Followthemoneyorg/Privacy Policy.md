@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Percentage of Competitive Gubernatorial Races, by Incumbency Status, 2001-2016](/assets/Images/teasers/small/competitive-govs.JPG)](https://www.followthemoney.org/research/institute-reports/monetary-competitiveness-in-gubernatorial-elections-2001-2016)
+[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
+
+Energy Giving in Colorado, 2013-14.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
