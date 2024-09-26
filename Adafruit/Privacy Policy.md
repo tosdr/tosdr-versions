@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You're only given one little spark of madness. You mustn't lose it”
+“ A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering”
 
-[Robin Williams](http://en.wikipedia.org/wiki/Robin_Williams)
+[Freeman Dyson](http://en.wikipedia.org/wiki/Freeman_Dyson)
 
 [](https://www.adafruit.com/about)
 
