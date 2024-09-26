@@ -110,8 +110,6 @@ Toggle menu
     
     [FontsFree fonts for book covers, merchandise, magazines...](https://www.freepikcompany.com/fonts)
     
-    [Calendar of festivitiesFind here all the important dates and festivities](https://www.freepikcompany.com/calendar)
-    
     [DisneyEditable design templates featuring beloved classics](https://www.freepikcompany.com/author/Disney)
     
     [CollectionsContent collections curated by professionals](https://www.freepikcompany.com/collections)
@@ -917,7 +915,6 @@ In any case, Freepik will notify or announce the new content and the dates on wh
 
 Content
 
-* [Calendar of festivities](https://www.freepikcompany.com/calendar)
 * [New assets](https://www.freepikcompany.com/new)
 * [The most popular content](https://www.freepikcompany.com/popular)
 * [Search trends](https://www.freepikcompany.com/tags)
