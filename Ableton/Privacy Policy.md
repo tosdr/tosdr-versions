@@ -4,6 +4,7 @@ Close Dialog
 
 * [Live](https://www.ableton.com/en/live/)
 * [Push](https://www.ableton.com/en/push/)
+* [Move](https://www.ableton.com/en/move/)
 * [Note](https://www.ableton.com/en/note/)
 * [Link](https://www.ableton.com/en/link/)
 * [Shop](https://www.ableton.com/en/shop/)
