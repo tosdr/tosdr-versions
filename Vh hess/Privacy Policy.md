@@ -21,7 +21,7 @@ Your cart is currently empty.
 
 Site navigation
 
-  [![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_v3.1_SVG_Mint_100x.svg?v=1701581350) ![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_v3.1_SVG_Mint_60x.svg?v=1701581350)](https://vhhess.com/)[![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_v3.1_SVG_White_100x.svg?v=1701581350) ![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_v3.1_SVG_White_60x.svg?v=1701581350)](https://vhhess.com/)
+  [![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_Final_v1.1_Fixed_Mint_100x.svg?v=1727344500) ![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_Final_v1.1_Fixed_Mint_60x.svg?v=1727344500)](https://vhhess.com/)[![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_Final_v1.1_Fixed_White_100x.svg?v=1727344500) ![MetaFurs™](//metafurs.tv/cdn/shop/files/MetaFurs_Logo_Final_v1.1_Fixed_White_60x.svg?v=1727344500)](https://vhhess.com/)
 
 [Log in](https://vhhess.com/account) [Cart](https://vhhess.com/cart)
 
