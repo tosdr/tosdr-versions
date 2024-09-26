@@ -2,7 +2,7 @@
 
 [](https://www.ziffdavis.com/)
 
-[**ZD $48.02** ▲1.15%](http://investor.ziffdavis.com/ "Minimum 20 minute delay.")
+[**ZD $47.99** ▲1.10%](http://investor.ziffdavis.com/ "Minimum 20 minute delay.")
 
 Minimum 20 minute delay.
 
