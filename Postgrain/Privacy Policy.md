@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Leads na Consultoria Gratuita - Uma sala de reunião com 3 pessoas debatendo e, de fundo, tem um quadro com dados e gráficos.](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Consultoria-gratuita-Como-encontrar-os-melhores-leads-580x290.jpg)](https://postgrain.com/?post_type=post&p=12584)
+[![Notebook numa mesa com o nome AI na tela](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Tutorial-Crie-legendas-automaticas-com-a-IA-do-Postgrain-580x290.jpg)](https://postgrain.com/?post_type=post&p=12593)
 
-[Leads na Consultoria Gratuita: Como encontrá-los? \[3 formas práticas\]](https://postgrain.com/?post_type=post&p=12584)
+[Tutorial: Crie legendas automáticas com a IA do Postgrain](https://postgrain.com/?post_type=post&p=12593)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12584)
+[Leia mais](https://postgrain.com/?post_type=post&p=12593)
 
 Ilustração de um dos personagens do Postgrain
 
