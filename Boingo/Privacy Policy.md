@@ -2,6 +2,7 @@
 
 * Industries
     * [Airports & Transportation](https://www.boingo.com/airports-transportation/)
+    * [Mass Transit](https://www.boingo.com/transit-and-rail)
     * [Sports & Entertainment](https://www.boingo.com/sports-and-entertainment/)
     * [Military & Government](https://www.boingo.com/military-solutions/)
     * [Commercial Real Estate](https://www.boingo.com/commercial-real-estate/)
