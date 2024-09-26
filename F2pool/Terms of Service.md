@@ -24,7 +24,7 @@ English
 * [ALEO zero-fee mining event and payout threshold reduction](https://f2pool.zendesk.com/hc/en-us/articles/37667130285849) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 * [Announcing ALPH mining contest winners](https://f2pool.zendesk.com/hc/en-us/articles/37944442346649-Announcing-the-winners-of-the-ALPH-mining-contest-at-f2pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 * [Closing DNX mining pool](https://f2pool.zendesk.com/hc/en-us/articles/38119571528601-Closing-DNX-mining-pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
-* [Urgent: ALPH pool emergency suspension](https://f2pool.zendesk.com/hc/en-us/articles/38180247870617-Urgent-ALPH-pool-emergency-suspension) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+* Resumption of ALPH pool service [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 
 Terms of Service
 ----------------
