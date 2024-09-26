@@ -39,11 +39,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Start BibleGateway+ FREE. Then, pay as low as $4.17/mo.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_aslowas417_092324)
+[Sign up and be **encouraged** by Max Lucado daily.](https://www.biblegateway.com/landing/encouragingword/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_lucado1010)
 
 close
 
-[Answer your questions on the Book, Chapter and Verse you are reading. Upgrade to BibleGateway+ for less than $5/mo.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_tiedtobcv092324_lessthan5)
+[Answer your questions on the Book, Chapter and Verse you are reading. Upgrade to BibleGateway+ for as low as $4.17/mo.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_tiedtobcv092324_aslowas417)
 
 close
 
