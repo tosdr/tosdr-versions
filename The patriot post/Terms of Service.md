@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110550-mid-day-digest-2024-09-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110580-mid-day-digest-2024-09-26?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110550-mid-day-digest-2024-09-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110580-mid-day-digest-2024-09-26?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,22 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34275)
+     [](https://patriotpost.us/cartoons/34282)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Hans von Spakovsky Get Ready for Another Mail-in Ballot Fiasco](https://patriotpost.us/opinion/110578-get-ready-for-another-mail-in-ballot-fiasco-2024-09-26)
+*      [Gary Bauer A Threat to the Republic](https://patriotpost.us/opinion/110575-a-threat-to-the-republic-2024-09-26)
+*      [Laura Hollis Biden-Harris Immigration Policies Waste Billions That Should Be Spent on Americans](https://patriotpost.us/opinion/110577-biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans-2024-09-26)
+*      [Larry Elder Price Controls Are Bad — No Matter Who Demands Them](https://patriotpost.us/opinion/110576-price-controls-are-bad-no-matter-who-demands-them-2024-09-26)
+*      [Armstrong Williams The Media](https://patriotpost.us/opinion/110574-the-media-2024-09-26)
+*      [Ann Coulter The Real Kamala Harris](https://patriotpost.us/opinion/110573-the-real-kamala-harris-2024-09-26)
+*      [Tony Perkins The Warning Lights Are On](https://patriotpost.us/opinion/110572-the-warning-lights-are-on-2024-09-26)
 *      [Cal Thomas Virtue vs. Utility](https://patriotpost.us/opinion/110553-virtue-vs-utility-2024-09-26)
-*      [Star Parker Why Are More Young Women Than Young Men Moving Left?](https://patriotpost.us/opinion/110552-why-are-more-young-women-than-young-men-moving-left-2024-09-25)
-*      [Mark Alexander Harris’s Audacity of Deception Strategy 2.0](https://patriotpost.us/alexander/110551-harriss-audacity-of-deception-strategy-2-dot-0-2024-09-25)
-*      [Hans von Spakovsky Criticism of Project 2025’s Reforms of Federal Election Commission Is Ill-Informed, Dangerous](https://patriotpost.us/opinion/110534-criticism-of-project-2025-s-reforms-of-federal-election-commission-is-ill-informed-dangerous-2024-09-25)
-*      [Rich Lowry Israel’s Righteous War on Hezbollah](https://patriotpost.us/opinion/110533-israels-righteous-war-on-hezbollah-2024-09-25)
-*      [Tim Graham Being President Is Not Similar to Playing ‘Top Chef’](https://patriotpost.us/opinion/110532-being-president-is-not-similar-to-playing-top-chef-2024-09-25)
-*      [John Stossel Bunk From a Cabinet Secretary](https://patriotpost.us/opinion/110531-bunk-from-a-cabinet-secretary-2024-09-25)
-*      [Byron York Kamala Harris’ Never-Ending Border Dodge](https://patriotpost.us/opinion/110529-kamala-harris-never-ending-border-dodge-2024-09-25)
+*      [The Washington Stand Left Spews Incendiary Rhetoric Only 10 Days After Last Assassination Attempt](https://patriotpost.us/opinion/110571-left-spews-incendiary-rhetoric-only-10-days-after-last-assassination-attempt-2024-09-26)
+*      [The Babylon Bee ‘Trump Will Start World War III,’ Says Party Autographing Bombs to Be Launched at Russia](https://patriotpost.us/opinion/110569-trump-will-start-world-war-iii-says-party-autographing-bombs-to-be-launched-at-russia-2024-09-26)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +226,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
-“I entirely concur in the propriety of resorting to the sense in which the Constitution was accepted and ratified by the nation. In that sense alone it is the legitimate Constitution. And if that is not the guide in expounding it, there may be no security.” —James Madison (1824)
+“Good constitutions are formed upon a comparison of the liberty of the individual with the strength of government: If the tone of either be too high, the other will be weakened too much. It is the happiest possible mode of conciliating these objects, to institute one branch peculiarly endowed with sensibility, another with knowledge and firmness.” —Alexander Hamilton (1788)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
