@@ -232,7 +232,7 @@ If you have any questions or concerns or complaints about our Privacy Policy or 
 _This Privacy Policy was last revised: April 22, 2024_.
 
 * [Get The App](#)
-    * [iPhone/iPad/Watch](https://get.dayoneapp.com/nQ12/d179m34q)
+    * [iPhone/iPad/Watch](https://apps.apple.com/us/app/day-one-journal-private-diary/id1044867788?ct=web-footer_download_link)
     * [Android](https://get.dayoneapp.com/nQ12/d179m34q)
     * [Mac](https://get.dayoneapp.com/nQ12/d179m34q)
     * [Web Version](https://dayoneapp.com/web/)
@@ -277,7 +277,7 @@ Capture life’s moments, anytime, anywhere.
 
 Download the free Day One journal app for free on iPhone, Android, iPad, Mac, and Apple Watch. Or access your Day One Journal from any browser.
 
-[App Store](https://get.dayoneapp.com/nQ12/thz34og8)
+[App Store](https://apps.apple.com/us/app/day-one-journal-private-diary/id1044867788?ct=web-top_nav_modal_ios_download)
 
 [Android](https://get.dayoneapp.com/nQ12/x1iwo8k6)
 
