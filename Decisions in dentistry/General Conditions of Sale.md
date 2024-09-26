@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Tips for navigating compliance and mitigating brea ![Tips for navigating compliance and mitigating breach risks. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAV7q5NtwML/) 
+
 [The California Dental Association Foundation’s n ![The California Dental Association Foundation’s new model of patient care at the Long Beach clinic successfully placed more than 100 patients into dental homes, ensuring comprehensive oral health. With 46 dedicated volunteers, the clinic delivered nearly $37,000 in essential dental services. Link in bio.⁠
 ⁠
 ⁠
@@ -176,13 +183,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAJDsrLsnz0/) 
-
-[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management, host Art Wiederman is joined by Dr. Martin Mendelson for a conversation about the transformative power of positivity, specifically in dental practices. Dr. Mendelson shares his personal journey from dentist to coach and the mindset shifts that allowed him to turn a devastating diagnosis into a fulfilling career. Dr. Mendelson introduces the concept of T.E.A.M. — how our Thoughts drive our Emotions, which drive our Actions, which Manifest our results. He also discusses the importance of curiosity and open communication in creating a positive workplace culture. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAGe5-tNaOj/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
