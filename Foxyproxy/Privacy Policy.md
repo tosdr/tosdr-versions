@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Excellent service - always reliable and fair priced. I just signed up for another 6-months, and this time with auto-renew.
+We liked the service!
 
-Charles Whittington
+Jean-Francois Mammet
