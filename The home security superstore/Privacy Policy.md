@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off SELF DEFENSE PRODUCTS I Code: SD15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SELF+DEFENSE+WEAPONS)
+[15% Off BYRNA GUNS I Use Code: BYRNA15](https://www.thehomesecuritysuperstore.com/collections/byrna-pepper?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+BYRNA+GUNS)
 
-Today’s offer: :: | 15% Off SELF DEFENSE PRODUCTS I Code: SD15
+Today’s offer: :: | 15% Off BYRNA GUNS I Use Code: BYRNA15
 
 Today’s offer: : :
 
- 15% Off SELF DEFENSE PRODUCTS I Code: SD15
+ 15% Off BYRNA GUNS I Use Code: BYRNA15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
