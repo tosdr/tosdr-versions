@@ -1,15 +1,15 @@
-Wednesday, September 25 2024
+Thursday, September 26 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Thursday, September 26, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
+* [Biden Pretends To Kill Bug When Whoopi Goldberg Compares Trump To One Following Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
+* [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
+* [Illegal Migrant Arrested For Killing Girlfriend Less Than Four Months After Biden-Harris Admin Released Him Into US](https://www.conservativedailynews.com/2024/09/illegal-migrant-arrested-for-killing-girlfriend-less-than-four-months-after-biden-harris-admin-released-him-into-us/)
+* [Catholic Group Warns Harris Is Not The ‘Lesser Evil’](https://www.conservativedailynews.com/2024/09/catholic-group-warns-harris-is-not-the-lesser-evil/)
+* [House Judiciary Committee Unable To Locate Nathan Wade To Testify In Fani Willis Investigation](https://www.conservativedailynews.com/2024/09/house-judiciary-committee-unable-to-locate-nathan-wade-to-testify-in-fani-willis-investigation/)
+* [House Passes Short-Term Spending Bill, Setting Stage For Possible Pre-Holiday Fight](https://www.conservativedailynews.com/2024/09/house-passes-short-term-spending-bill-setting-stage-for-possible-pre-holiday-fight/)
 * [Federal Jury Clears Most ‘Trump Train’ Drivers In 2020 Voter Intimidation Case](https://www.conservativedailynews.com/2024/09/federal-jury-clears-most-trump-train-drivers-in-2020-voter-intimidation-case/)
-* [Harris, Trump Agree To Hold Separate Town Halls On Univision](https://www.conservativedailynews.com/2024/09/harris-trump-agree-to-hold-separate-town-halls-on-univision/)
-* [Middle East Chaos Is All On Biden/Harris](https://www.conservativedailynews.com/2024/09/middle-east-chaos-is-all-on-biden-harris/)
-* [America In The Age Of Stupidity: The Best Way To Stop Illegal Immigration](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-the-best-way-to-stop-illegal-immigration/)
-* [GOP Lawmakers Move To Hold Blinken In Contempt After He Skips Afghanistan Withdrawal Hearing](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
-* [CNN Host Says Her Network’s Poll Has ‘Some Alarming Numbers’ For Harris](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
-* [Facebook’s Election Year Censorship of Conservatives Again](https://www.conservativedailynews.com/2024/09/facebooks-election-year-censorship-of-conservatives-again/)
-* [President Joe Biden’s Schedule for Wednesday, September 25, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-25-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,66 +111,66 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/)
+* [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
     
-    [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
-    
-    [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/)
-    
-    September 23, 2024
-    
-
-Recent Posts
-
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/09/federal-jury-clears-most-trump-train-drivers-in-2020-voter-intimidation-case/)
-    
-    [Federal Jury Clears Most ‘Trump Train’ Drivers In 2020 Voter Intimidation Case](https://www.conservativedailynews.com/2024/09/federal-jury-clears-most-trump-train-drivers-in-2020-voter-intimidation-case/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-trump-agree-to-hold-separate-town-halls-on-univision/)
-    
-    [Harris, Trump Agree To Hold Separate Town Halls On Univision](https://www.conservativedailynews.com/2024/09/harris-trump-agree-to-hold-separate-town-halls-on-univision/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5615-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/middle-east-chaos-is-all-on-biden-harris/)
-    
-    [Middle East Chaos Is All On Biden/Harris](https://www.conservativedailynews.com/2024/09/middle-east-chaos-is-all-on-biden-harris/)
-    
-    September 25, 2024
-    
-* [![Kamala Harris hiding basement](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-bk-basment-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cellar-dwellers/)
-    
-    [Cellar Dwellers](https://www.conservativedailynews.com/2024/09/cellar-dwellers/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Illegal-220x150.png)](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-the-best-way-to-stop-illegal-immigration/)
-    
-    [America In The Age Of Stupidity: The Best Way To Stop Illegal Immigration](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-the-best-way-to-stop-illegal-immigration/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/09/doj-files-suit-against-visa-alleges-debit-card-market-monopoly/)
-    
-    [DOJ Files Suit Against Visa, Alleges Debit Card Market Monopoly](https://www.conservativedailynews.com/2024/09/doj-files-suit-against-visa-alleges-debit-card-market-monopoly/)
-    
-    September 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/12/U.S.-Capitol-flag-at-half-mast.png)](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
-    
-    [GOP Lawmakers Move To Hold Blinken In Contempt After He Skips Afghanistan Withdrawal Hearing](https://www.conservativedailynews.com/2024/09/gop-lawmakers-move-to-hold-blinken-in-contempt-after-he-skips-afghanistan-withdrawal-hearing/)
+    [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
     
     September 25, 2024
     
 * [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
     
     [CNN Host Says Her Network’s Poll Has ‘Some Alarming Numbers’ For Harris](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
+    
+    September 25, 2024
+    
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/No-unions-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-admin-calls-on-railroad-giants-to-give-workers-benefit-that-it-tanked-years-ago/)
+    
+    [Biden-Harris Admin Calls On Railroad Giants To Give Workers Benefit That It Tanked Years Ago](https://www.conservativedailynews.com/2024/09/biden-harris-admin-calls-on-railroad-giants-to-give-workers-benefit-that-it-tanked-years-ago/)
+    
+    September 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/07/Wikipedia-Logo.jpg)](https://www.conservativedailynews.com/2024/09/wikipedia-donations-go-toward-embedding-feminism-and-racial-justice-in-worlds-largest-encyclopedia/)
+    
+    [Wikipedia Donations Go Toward Embedding Feminism And Racial Justice In World’s Largest Encyclopedia](https://www.conservativedailynews.com/2024/09/wikipedia-donations-go-toward-embedding-feminism-and-racial-justice-in-worlds-largest-encyclopedia/)
+    
+    September 26, 2024
+    
+* [![Joe Biden 16 gun shooting](https://www.conservativedailynews.com/wp-content/uploads/2021/01/Joe-Biden-16-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
+    
+    [President Joe Biden’s Schedule for Thursday, September 26, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
+    
+    September 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Child-shocked.png)](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
+    
+    [Biden Pretends To Kill Bug When Whoopi Goldberg Compares Trump To One Following Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
+    
+    September 26, 2024
+    
+* [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
+    
+    [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
+    
+    September 25, 2024
+    
+* [![Joe Biden open border illegal aliens](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz022624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/illegal-migrant-arrested-for-killing-girlfriend-less-than-four-months-after-biden-harris-admin-released-him-into-us/)
+    
+    [Illegal Migrant Arrested For Killing Girlfriend Less Than Four Months After Biden-Harris Admin Released Him Into US](https://www.conservativedailynews.com/2024/09/illegal-migrant-arrested-for-killing-girlfriend-less-than-four-months-after-biden-harris-admin-released-him-into-us/)
+    
+    September 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/1666641888_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/09/catholic-group-warns-harris-is-not-the-lesser-evil/)
+    
+    [Catholic Group Warns Harris Is Not The ‘Lesser Evil’](https://www.conservativedailynews.com/2024/09/catholic-group-warns-harris-is-not-the-lesser-evil/)
+    
+    September 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/house-judiciary-committee-unable-to-locate-nathan-wade-to-testify-in-fani-willis-investigation/)
+    
+    [House Judiciary Committee Unable To Locate Nathan Wade To Testify In Fani Willis Investigation](https://www.conservativedailynews.com/2024/09/house-judiciary-committee-unable-to-locate-nathan-wade-to-testify-in-fani-willis-investigation/)
     
     September 25, 2024
     
