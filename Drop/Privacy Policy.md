@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Balrog and Mithrandir Artisan Keycap
+[Drop + EPOS H3X
 
-Type with fire and Maiar.
+A high-quality gaming headset—now on sale.
 
-Shop Now
+SAVE NOW
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-balrog-vs-gandolf-artisan-keycap-and-spacebar)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-epos-h3x-gaming-headset)
 
 Free Standard Shipping in the US on orders over $99
 
