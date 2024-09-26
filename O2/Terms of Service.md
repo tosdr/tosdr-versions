@@ -1,6 +1,6 @@
 [Personal](https://www.o2.co.uk/) | [Business](https://www.o2.co.uk/business)
 
-[Sign in](https://accounts.o2.co.uk/signin) or [Register](https://www.o2.co.uk/register)
+[Sign in](https://accounts.o2.co.uk/signin) or [Register](https://accounts.o2.co.uk/register?)
 
 [![O2 Logo White](https://a.storyblok.com/f/253875/34x35/d12e2ecbea/o2-logo.svg)](https://www.o2.co.uk/)
 
@@ -42,15 +42,15 @@
     * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
     * [Great deals](https://www.o2.co.uk/shop/great-deals)
     
-    * [![](https://a.storyblok.com/f/253875/137x34/7d4cb8fb12/quick-links-apple-1100.png/m/3840x0)](https://www.o2.co.uk/shop/brand/apple?cnd=new)
+    * [![](https://a.storyblok.com/f/253875/137x34/7d4cb8fb12/quick-links-apple-1100.png/m/384x0)](https://www.o2.co.uk/shop/brand/apple?cnd=new)
         
-    * [![](https://a.storyblok.com/f/253875/137x32/5ae470a465/quick-links-samsung-1100.png/m/3840x0)](https://www.o2.co.uk/shop/brand/samsung?cnd=new)
+    * [![](https://a.storyblok.com/f/253875/137x32/5ae470a465/quick-links-samsung-1100.png/m/384x0)](https://www.o2.co.uk/shop/brand/samsung?cnd=new)
         
-    * [![](https://a.storyblok.com/f/253875/137x32/31d51c880b/quick-links-google-1100.png/m/3840x0)](https://www.o2.co.uk/shop/brand/google?cnd=new)
+    * [![](https://a.storyblok.com/f/253875/137x32/31d51c880b/quick-links-google-1100.png/m/384x0)](https://www.o2.co.uk/shop/brand/google?cnd=new)
         
-    * [![](https://a.storyblok.com/f/253875/137x32/1a6ca9cc87/bau-44171-projecthalo-navchanges-nav-bar-portal-page-110724-110724.jpg/m/3840x0)](https://www.o2.co.uk/shop/phones?brand=HONOR&cnd=new)
+    * [![](https://a.storyblok.com/f/253875/137x32/1a6ca9cc87/bau-44171-projecthalo-navchanges-nav-bar-portal-page-110724-110724.jpg/m/384x0)](https://www.o2.co.uk/shop/phones?brand=HONOR&cnd=new)
         
-    * [![](https://a.storyblok.com/f/253875/137x32/93bce06737/bau-44171-projecthalo-navchanges-nav-bar-portal-page-110724-vmlogo-110724.jpg/m/3840x0)](https://www.virginmedia.com/)
+    * [![](https://a.storyblok.com/f/253875/137x32/93bce06737/bau-44171-projecthalo-navchanges-nav-bar-portal-page-110724-vmlogo-110724.jpg/m/384x0)](https://www.virginmedia.com/)
         
     
 * [Why O2](https://www.o2.co.uk/why-o2)
@@ -85,13 +85,13 @@
     * [O2 WiFi](https://www.o2.co.uk/connectivity/free-wifi)
     * [Using your phone abroad](https://www.o2.co.uk/international/using-your-phone-abroad)
     
-    * ![](https://a.storyblok.com/f/253875/205x95/82fe1f3bf9/5g-why-o2-thumbnail-dark-230724.jpg/m/3840x0)
+    * ![](https://a.storyblok.com/f/253875/205x95/82fe1f3bf9/5g-why-o2-thumbnail-dark-230724.jpg/m/640x0)
         
         Are you ready for 5G?
         
         [Check coverage](https://www.o2.co.uk/5g)
         
-    * ![](https://a.storyblok.com/f/253875/205x95/3f823e8cc7/why-o2-thumbnail-dark-230724.jpg/m/3840x0)
+    * ![](https://a.storyblok.com/f/253875/205x95/3f823e8cc7/why-o2-thumbnail-dark-230724.jpg/m/640x0)
         
         See all the reasons to choose O2
         
@@ -131,7 +131,7 @@
     * [Network status](https://status.o2.co.uk/)
     * [Contact us](https://www.o2.co.uk/contactus)
     
-    * [![](https://a.storyblok.com/f/253875/230x250/0b1f0f7003/global-nav-community-image-230724.jpg/m/3840x0)](https://community.o2.co.uk/)
+    * [![](https://a.storyblok.com/f/253875/230x250/0b1f0f7003/global-nav-community-image-230724.jpg/m/640x0)](https://community.o2.co.uk/)
         
     
 
@@ -488,7 +488,6 @@ Our site includes a range of registered and unregistered trade marks and other i
 * [Search](https://www.o2.co.uk/searchresult?view=html&q1=top&x1=page_type&q=)
 
 Popular in shop
----------------
 
 * [iPhone 16 Pro Max](https://www.o2.co.uk/shop/apple/iphone-16-pro-max)
 * [iPhone 16 Pro](https://www.o2.co.uk/shop/apple/iphone-16-pro)
@@ -504,7 +503,6 @@ Popular in shop
 * [Virgin Media broadband deals](https://www.virginmedia.com/broadband)
 
 Help and Support
-----------------
 
 * [Help home](https://www.o2.co.uk/help)
 * [Contact us](https://www.o2.co.uk/contactus)
@@ -512,7 +510,6 @@ Help and Support
 * [Collection and delivery](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
 
 Shop
-----
 
 * [Phones](https://www.o2.co.uk/shop/phones)
 * [Tablets](https://www.o2.co.uk/shop/tablets)
@@ -543,26 +540,20 @@ Shop
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
 
 * [Home](https://www.o2.co.uk/)
-* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
-* Website Terms of Use
-    
+* [Terms & Conditions](https://www.o2.co.uk/termsandconditions)
+
+Website Terms of Use
 
 Related links
 -------------
 
-* [Blackberry Data Bolt On](https://www.o2.co.uk/termsandconditions/blackberry-data-bolt-on-terms-and-conditions)
-* [Privacy Policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
-* [Ofcom Sales and Marketing Obligations](https://www.o2.co.uk/termsandconditions/sales-and-marketing-obligations)
-* Website Terms of Use
-    
-* [Online shop purchasing terms](https://www.o2.co.uk/termsandconditions/shop-purchasing-terms)
-* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
-* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
-* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
-* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
 * [Business](https://www.o2.co.uk/termsandconditions/business)
-* [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
+* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
+* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
 * [Archive](https://www.o2.co.uk/termsandconditions/archive)
+* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
+* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
+* [Privacy Policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
 
 * * *
 
