@@ -12,8 +12,7 @@ Dear Patron: Please don't scroll past this. The Internet Archive is a nonprofit 
   
 We understand that not everyone can donate right now, but if you can afford to contribute this Thursday, we promise it will be put to good use. Our resources are crucial for knowledge lovers everywhere—so if you find all these bits and bytes useful, **please pitch in.**
 
-**Can You Chip In?**  
-Dear Patron: Please don't scroll past this. The Internet Archive is a nonprofit that relies on online donations averaging $15.58. We understand that not everyone can give right now, but if you can afford to contribute this Thursday, we promise it will be put to good use. If you find all these bits and bytes useful, **please pitch in.**
+**Can You Chip In?** Dear Patron: Please don't scroll past this. The Internet Archive is a nonprofit that relies on online donations averaging $15.58. If you find all these bits and bytes useful, **please pitch in.**
 
  
 
@@ -309,6 +308,6 @@ Email: [info@archive.org](mailto:info@archive.org)
 **For More Information**  
 If you have any questions or comments regarding these terms and policies or the Archive’s data collection practices, please contact the Archive at [info@archive.org](mailto:info@archive.org) or Internet Archive, 300 Funston Ave., San Francisco, CA 94118, phone 415-561-6767.  
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=942690417)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=441102781)
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1798023558)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1001099257)
