@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Destroyer](https://www.myabandonware.com/game/destroyer-sib)
-* [Desert War](https://www.myabandonware.com/game/desert-war-sia)
-* [Depthcharge](https://www.myabandonware.com/game/depthcharge-si9)
-* [Densha de Go!](https://www.myabandonware.com/game/densha-de-go-si8)
-* [Dead Eye](https://www.myabandonware.com/game/dead-eye-si7)
+* [F-1 Grand Prix](https://www.myabandonware.com/game/f-1-grand-prix-b62)
+* [Cool Riders](https://www.myabandonware.com/game/cool-riders-sil)
+* [Dance Dance Revolution: 2nd Mix](https://www.myabandonware.com/game/dance-dance-revolution-2nd-mix-sih)
+* [Dai 3 Wakusei](https://www.myabandonware.com/game/dai-3-wakusei-sig)
+* [Darkstalkers 3](https://www.myabandonware.com/game/darkstalkers-3-pac)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
