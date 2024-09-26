@@ -15,6 +15,7 @@
     * [Symbols](https://ftmo.com/en/symbols/)
     * [Leaderboard](https://ftmo.com/en/leaderboard/)
     * [Economic Calendar](https://ftmo.com/en/calendar/)
+    * [FTMO Free Trial](https://ftmo.com/en/ftmo-free-trial/)
     * [Performance Coaches](https://ftmo.com/en/performance-coaches)
     * [FTMO Academy](https://academy.ftmo.com/)
 * [About us](#)
@@ -72,6 +73,7 @@
     * [Symbols](https://ftmo.com/en/symbols/)
     * [Leaderboard](https://ftmo.com/en/leaderboard/)
     * [Economic Calendar](https://ftmo.com/en/calendar/)
+    * [FTMO Free Trial](https://ftmo.com/en/ftmo-free-trial/)
     * [Performance Coaches](https://ftmo.com/en/performance-coaches)
     * [FTMO Academy](https://academy.ftmo.com/)
 * [About us](#)
@@ -131,7 +133,7 @@ Terms and Conditions
 
 * [Cookies](https://ftmo.com/cookies/)
 
-![logo](/wp-content/themes/ftmo-com/public/images/svg/logo.svg)
+![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)
 
 Quadrio offices  
 Purkynova 2121/3, 110 00, Prague  
