@@ -861,5 +861,5 @@ Follow Morphe For product launches, tips, and more.
 * [Privacy Policy](https://www.morphe.com/pages/privacy-policy)
 * [\*Promos Terms](https://www.morphe.com/pages/sale-details)
 * [Accessibility](https://www.morphe.com/pages/website-accessibility-statement)
-* Manage my Cookies
+* Do Not Sell or Share My Personal Information
 © 2024 Morphe Brushes.
