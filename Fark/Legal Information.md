@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Can't get enough Fark in your life? Try
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Speed 3 is a wrap](https://www.fark.com/goto/13406334) ( [foxnews.com](https://www.fark.com/goto/13406334) ) » [(6 comments)](https://www.fark.com/comments/13406334/Speed-3-is-a-wrap) |
-| [Discussion](https://www.fark.com/discussion/) | ["I've fallen out of love with my fiancé and have started an affair with my best friend. Do I still go through with the wedding?" (possible nsfw content on page)](https://www.fark.com/goto/13405938) ( [thesun.co.uk](https://www.fark.com/goto/13405938) ) » [(11 comments)](https://www.fark.com/comments/13405938/Ive-fallen-out-of-love-with-my-fianc-have-started-an-affair-with-my-best-friend-Do-I-still-go-through-with-wedding-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Apparently, the check didn't clear](https://www.fark.com/goto/13405986) ( [upi.com](https://www.fark.com/goto/13405986) ) » [(4 comments)](https://www.fark.com/comments/13405986/Apparently-check-didnt-clear) |
-| [Business](https://www.fark.com/business/) | [Modern solutions bring modern problems. Like sharenting](https://www.fark.com/goto/13406324) ( [edition.cnn.com](https://www.fark.com/goto/13406324) ) » [(1 comment)](https://www.fark.com/comments/13406324/Modern-solutions-bring-modern-problems-Like-sharenting) |
-| [STEM](https://www.fark.com/stem/) | [Skynet will achieve its in-home beach head by 2026](https://www.fark.com/goto/13405742) ( [theregister.com](https://www.fark.com/goto/13405742) ) » [(2 comments)](https://www.fark.com/comments/13405742/Skynet-will-achieve-its-in-home-beach-head-by-2026) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Ana de Armas flees the cesspool of LA to smoke weed and drink maple syrup in the green mountains of Vermont](https://www.fark.com/goto/13406026) ( [realtor.com](https://www.fark.com/goto/13406026) ) » [(2 comments)](https://www.fark.com/comments/13406026/Ana-de-Armas-flees-cesspool-of-LA-to-smoke-weed-drink-maple-syrup-in-green-mountains-of-Vermont) |
-| [Fandom](https://www.fark.com/fandom/) | [Ed Bolian reveal the secrets of how how someone of his means managed to buy a $1.45 million Bugatti Veyron Grand Sport. Two words: crippling debt](https://www.fark.com/goto/13406316) ( [youtube.com](https://www.fark.com/goto/13406316) ) » [(4 comments)](https://www.fark.com/comments/13406316/Ed-Bolian-reveal-secrets-of-how-how-someone-of-his-means-managed-to-buy-a-$145-million-Bugatti-Veyron-Grand-Sport-Two-words-crippling-debt) |
-| [D'awww](https://www.fark.com/dawww/) | [Which came first, the internet or the cat meme? BBC has the answer](https://www.fark.com/goto/13406118) ( [bbc.com](https://www.fark.com/goto/13406118) ) » [(5 comments)](https://www.fark.com/comments/13406118/Which-came-first-internet-the-cat-meme-BBC-has-answer) |
-| [Food](https://www.fark.com/food/) | [15 ways to prepare whole fish. You're on your own for full loaves](https://www.fark.com/goto/13405776) ( [foodandwine.com](https://www.fark.com/goto/13405776) ) » [(5 comments)](https://www.fark.com/comments/13405776/-15-ways-to-prepare-whole-fish-Youre-on-your-own-for-full-loaves) |
-| [Politics](https://www.fark.com/politics/) | [If he loses, by early 2026, he's going to be standing trial and facing possible prison time. Being 78 years old, running for a third time and having that on the other side of a loss, is driving him a little crazier than usual](https://www.fark.com/goto/13405948) ( [nj.com](https://www.fark.com/goto/13405948) ) » [(19 comments)](https://www.fark.com/comments/13405948/If-he-loses-by-early-2026-hes-going-to-be-standing-trial-facing-possible-prison-time-Being-78-years-old-running-for-a-third-time-having-that-on-other-side-of-a-loss-is-driving-him-a-little-crazier-than-usual) |
+| [Main](https://www.fark.com/) | [🎶The Adam's felonies🎶](https://www.fark.com/goto/13406760) ( [rollingstone.com](https://www.fark.com/goto/13406760) ) » [(52 comments)](https://www.fark.com/comments/13406760/The-Adams-felonies) |
+| [Discussion](https://www.fark.com/discussion/) | [She's got the band back together and she's easing on down the Road. Episode 3 of "Agatha All Along" drops on Disney+ at 9 PM ET](https://www.fark.com/goto/13405892) ( [imdb.com](https://www.fark.com/goto/13405892) ) » [(7 comments)](https://www.fark.com/comments/13405892/Shes-got-band-back-together-shes-easing-on-down-Road-Episode-3-of-Agatha-All-Along-drops-on-Disney-at-9-PM-ET) |
+| [Sports](https://www.fark.com/sports/) | [Atlanta Braves have their reason$ why they ignored calls from Mets and MLB to move key series out of path of Hurricane Helene](https://www.fark.com/goto/13406382) ( [nypost.com](https://www.fark.com/goto/13406382) ) » [(1 comment)](https://www.fark.com/comments/13406382/Atlanta-Braves-have-their-reason$-why-they-ignored-calls-from-Mets-MLB-to-move-key-series-out-of-path-of-Hurricane-Helene) |
+| [Business](https://www.fark.com/business/) | [Southwest burns their Atlanta hub to the ground. Gen. Sherman would be proud](https://www.fark.com/goto/13406274) ( [cnbc.com](https://www.fark.com/goto/13406274) ) » [(10 comments)](https://www.fark.com/comments/13406274/Southwest-burns-their-Atlanta-hub-to-ground-Gen-Sherman-would-be-proud) |
+| [STEM](https://www.fark.com/stem/) | ["New physics or a new particle? Place your bets, folks." OR "Particle decay ain't what it used to be." Have a binary headline](https://www.fark.com/goto/13406256) ( [phys.org](https://www.fark.com/goto/13406256) ) » [(3 comments)](https://www.fark.com/comments/13406256/New-physics-a-new-particle-Place-your-bets-folks-OR-Particle-decay-aint-what-it-used-to-be-Have-a-binary-headline) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Some say that he lives in a tree, and that his sweat can be used to clean precious metals. All we NOW know is he's British GT racer Phil Keen, Stig the last](https://www.fark.com/goto/13406238) ( [jalopnik.com](https://www.fark.com/goto/13406238) ) » [(1 comment)](https://www.fark.com/comments/13406238/Some-say-that-he-lives-in-a-tree-that-his-sweat-can-be-used-to-clean-precious-metals-All-we-NOW-know-is-hes-British-GT-racer-Phil-Keen-Stig-last) |
+| [Fandom](https://www.fark.com/fandom/) | [A look at the memo the panicked Church of Scientology sent out to members the day after South Park aired "Trapped in the Closet"](https://www.fark.com/goto/13406532) ( [cracked.com](https://www.fark.com/goto/13406532) ) » [(3 comments)](https://www.fark.com/comments/13406532/A-look-at-memo-panicked-Church-of-Scientology-sent-out-to-members-day-after-South-Park-aired-Trapped-in-Closet) |
+| [D'awww](https://www.fark.com/dawww/) | [Which came first, the internet or the cat meme? BBC has the answer](https://www.fark.com/goto/13406118) ( [bbc.com](https://www.fark.com/goto/13406118) ) » [(15 comments)](https://www.fark.com/comments/13406118/Which-came-first-internet-the-cat-meme-BBC-has-answer) |
+| [Food](https://www.fark.com/food/) | [British hummus lovers gobsmacked by supermarkets' green choice to replace plastic pot lid with peel-off film. "One shopper said they had now resorted to wrapping their hummus pots in clingfilm"](https://www.fark.com/goto/13406418) ( [theguardian.com](https://www.fark.com/goto/13406418) ) » [(2 comments)](https://www.fark.com/comments/13406418/British-hummus-lovers-gobsmacked-by-supermarkets-green-choice-to-replace-plastic-pot-lid-with-peel-off-film-One-shopper-said-they-had-now-resorted-to-wrapping-their-hummus-pots-in-clingfilm) |
+| [Politics](https://www.fark.com/politics/) | [🎶The Adam's felonies🎶](https://www.fark.com/goto/13406760) ( [rollingstone.com](https://www.fark.com/goto/13406760) ) » [(52 comments)](https://www.fark.com/comments/13406760/The-Adams-felonies) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 25 2024 15:43:12  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 25 2024 21:42:29  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
