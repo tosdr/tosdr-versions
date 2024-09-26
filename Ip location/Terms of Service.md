@@ -202,7 +202,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Information Technology (9)](https://www.iplocation.net/blog/category/information-technology)
 * [Travel (16)](https://www.iplocation.net/blog/category/travel)
 * [World Wide Web (152)](https://www.iplocation.net/blog/category/web)
-* [Search Engine Optimization (55)](https://www.iplocation.net/blog/category/seo)
+* [Search Engine Optimization (56)](https://www.iplocation.net/blog/category/seo)
 * [Web Hosting (23)](https://www.iplocation.net/blog/category/web-hosting)
 * [Web Design (11)](https://www.iplocation.net/blog/category/web-design)
 
