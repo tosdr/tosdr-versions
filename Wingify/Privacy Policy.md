@@ -388,7 +388,7 @@
     
      [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/heatmap.svg) Website Heatmaps](https://vwo.com/website-heatmap/)
     
-     [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/server-side.svg) Server Side Testing](https://vwo.com/server-side-testing/)
+     [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/server-side.svg) Server Side Testing](https://vwo.com/?page_id=15409)
     
      [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/mobile-app.svg) Mobile App Testing](https://vwo.com/mobile-app-ab-testing/)
     
@@ -779,7 +779,7 @@ Guides
 * [Multivariate Testing](https://vwo.com/multivariate-testing/)
 
 * [Push Notifications](https://vwo.com/push-notifications/)
-* [Server Side Testing](https://vwo.com/server-side-testing/)
+* [Server Side Testing](https://vwo.com/?page_id=15409)
 * [Session Recording](https://vwo.com/session-recording/)
 * [Usability Testing](https://vwo.com/usability-testing/)
 * [Visitor Behavior Analysis](https://vwo.com/visitor-behavior-analysis/)
