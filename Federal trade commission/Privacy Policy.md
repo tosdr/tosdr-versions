@@ -224,9 +224,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces the Addition of Three Consumer Protection Agencies to an International Agreement Aimed at Enhancing Cooperation in Cross-Border Enforcement Matters](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-addition-three-consumer-protection-agencies-international-agreement-aimed-enhancing)
+    ### [FTC Announces Virtual Workshop on the Attention Economy: Monopolizing Kids’ Time Online](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-virtual-workshop-attention-economy-monopolizing-kids-time-online)
     
-    September 25, 2024
+    September 26, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
