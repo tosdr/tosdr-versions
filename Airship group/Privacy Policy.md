@@ -10,7 +10,7 @@
         
         Create and manage customer journeys across all channels and experiences from one place
         
-        [Journeys](https://www.airship.com/product/cross-channel-orchestration/journeys/)
+        [Journeys](https://www.airship.com/product/journeys-ai/)
         
         [Channel Coordination](https://www.airship.com/platform/app-experience-platform/unified-channel-coordination/)
         
@@ -26,7 +26,7 @@
         
         [Feature Flags](https://www.airship.com/product/experimentation/feature-flags/)
         
-    * [Enrich Customer Data](https://www.airship.com/product/data-enrichment-and-collection/)
+    * [Collect Customer Data](https://www.airship.com/product/data-enrichment-and-collection/)
         
         Capture, sync and augment customer data to create relevant customer experiences
         
@@ -36,16 +36,16 @@
         
         [Performance Analytics](https://www.airship.com/product/ai-and-analytics/performance-analytics/)
         
-    * [AI & Analytics](https://www.airship.com/product/ai-and-analytics/)
+    * [Accelerate Results with AI](https://www.airship.com/accelerate-results-with-ai/)
         
         Drive more engagement with Airship's Generative and Predictive AI
         
-        [Journeys AI](https://airship.com/product/journeys-ai/)
+        [](#)
         
-        [Generative & Predictive AI](https://www.airship.com/platform/app-experience-platform/predictive-ai/)
+        [](#)
         
     
-    * [Build No-Code Experiences](https://www.airship.com/product/App-Experience-Editor/)
+    * [Build No-Code Experiences](https://www.airship.com/product/app-experience-editor/)
         
         Create native customer experiences once and deploy to the app, web and everywhere in between - No developers required
         
@@ -101,7 +101,6 @@
     
     * [Customer Stories](https://www.airship.com/customers/)
     * [Partners](https://www.airship.com/app-experience-platform/partners/)
-    * [Discover Mobile App Experience](https://www.airship.com/mobile-app-experience-max/)
     
 * [Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
 * Resources
