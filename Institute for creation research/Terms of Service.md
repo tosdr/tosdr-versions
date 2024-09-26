@@ -173,63 +173,29 @@ For stewardship purposes, we will not be able to write, edit, or proofread scien
 
 More Creation Science Update
 
-[![](/i/Main%20Stage%20-%201400x1050/SandDollar_1400x1050.jpg)](https://www.icr.org/article/sand-dollar-secrets)
+[![](/i/Main%20Stage%20-%201400x1050/katydidfossil_1400x1050.jpg)](https://www.icr.org/article/katydid-fossil)
 
-[Sand Dollar Secrets](https://www.icr.org/article/sand-dollar-secrets/)
+[''Ancient'' Katydid Fossil is...a Katydid](https://www.icr.org/article/katydid-fossil/)
 
-Combing the sea shore for shells is a beloved activity of all ages. Sand dollars are one of the most prized treasures found at the beach. The off-white...
+A fascinating discovery of a fossil insect has recently been made by evolutionists in Colorado. The description once again points clearly to the effects...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/CliffCollapses_1400x1050)](https://www.icr.org/article/cliff-collapse-collapses)
+[![](/i/Main%20Stage%20-%201400x1050/CambrianSoftTiss_1400x1050.jpg)](https://www.icr.org/article/cambrian-soft-tissue)
 
-[Cliff Collapse Collapses 'Deep Time'](https://www.icr.org/article/cliff-collapse-collapses/)
+[Cambrian Soft Tissue Defies Evolution](https://www.icr.org/article/cambrian-soft-tissue/)
 
-Recently, video footage captured the spectacular collapse of an estimated 11,000 tons (22 million pounds) of rock, as a section of England’s Broadchurch...
+Paleontologists have discovered “early fossils \[of\] simple hollow tubes ranging from a few millimetres to many centimetres in length.”1...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/quasicrystal_1400x1050.jpg)](https://www.icr.org/article/quasicrystal-impossible-possible)
+[![](/i/Main%20Stage%20-%201400x1050/dolphin-jump-1400x1050)](https://www.icr.org/article/prehistoric-dolphin-species)
 
-[The Quasicrystal: The Impossible That Became Possible](https://www.icr.org/article/quasicrystal-impossible-possible/)
+[New Fossil Dolphin Species Discovered](https://www.icr.org/article/prehistoric-dolphin-species/)
 
-When in 1982 Dr. Dan Shechtman looked at a picture his microscope had produced, he couldn’t believe his eyes. Using electron diffraction, he saw...
+Who doesn’t like to watch the antics of the friendly dolphin? They are classified as Cetaceans (which also includes the porpoise and the whale)....
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
-
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
-
-Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
-
-The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
-
-$4.99
-
-$9.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
-
-The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
-
-$16.99
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
