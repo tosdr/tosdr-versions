@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                 
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                  
 
 [Skip to content](#MainContent)
 
@@ -402,7 +402,7 @@ Regular price $1,999.00 Sale price$1,699.00 Save $300.00
 
 Rated 4.9 out of 5 stars
 
-334 Reviews
+335 Reviews
 
 * * *
 
