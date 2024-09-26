@@ -30,22 +30,10 @@ FOX SCORES
     
 * [One-Day Cup
     
-    No Result
-    
     |     |     |
     | --- | --- |
-    | TAS |     |
-    | QLD | 5 /128 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250104)
-* [One-Day Cup
-    
-    26/9 9:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | NSW | –   |
-    | SA  | –   |
+    | NSW |     |
+    | SA  |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250105)
 * [WNCL
@@ -72,14 +60,14 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * [AFL Women's
     
-    Complete
+    26/9 19:15 AEST
     
     |     |     |
     | --- | --- |
-    | CAR | 1.4.10 |
-    | NM  | 12.7.79 |
+    | GEE | –   |
+    | HAW | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240502)
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240503)
 * NRL
     
 * [NRL
