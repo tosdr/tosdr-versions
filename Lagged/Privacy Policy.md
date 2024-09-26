@@ -225,17 +225,17 @@ Games you might like
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
 
-[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
-
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
+
+[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
-[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
-
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
+
+[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
@@ -249,9 +249,9 @@ Games you might like
 
 [Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://imgs2.dab3games.com/marble-run-3d-ft1942.png)
 
-[Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://imgs2.dab3games.com/minecraft-game-online-ft.png)
+[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
 
-[Thief Puzzle](https://lagged.com/en/g/thief-puzzle) ![Thief Puzzle Game](https://imgs2.dab3games.com/thief-puzzle-game-online-big.png) top rated
+[Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://imgs2.dab3games.com/minecraft-game-online-ft.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
