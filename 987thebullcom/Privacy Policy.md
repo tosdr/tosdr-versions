@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Man Made A BarMorgan Wallen Ft Eric Church<br><br>11:38am |
-| Am I OkMegan Moroney<br><br>11:34am |
-| Whatever It IsZac Brown Band<br><br>11:31am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>11:27am |
-| Pink SkiesZach Bryan<br><br>11:24am |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:39pm |
+| Fix A DrinkChris Janson<br><br>5:36pm |
+| You ProofMorgan Wallen<br><br>5:33pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>5:24pm |
+| Pretty Little PoisonWarren Zeiders<br><br>5:21pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,13 +499,13 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-News Talk • Eastern
+Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
