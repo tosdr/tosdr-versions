@@ -41,6 +41,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Panopto Knowledge Insights](https://www.panopto.com/product-add-ons/knowledge-insights/)
         * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
     
+* [Switch to Panopto](https://www.panopto.com/switching-to-panopto/)
 * Industries
     
     ![](https://www.panopto.com/wp-content/uploads/2024/04/navigation-1-650x650.png)
@@ -66,7 +67,6 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [AI Meeting Recording Software](https://www.panopto.com/use-cases/meeting-intelligence/)
         * [Online Video Training Platform](https://www.panopto.com/use-cases/video-training/)
     
-* [Switch to Panopto](https://www.panopto.com/switching-to-panopto/)
 * Resources & Support
     
     ![](https://www.panopto.com/wp-content/uploads/2024/07/1075-_pop-650x650.png)
