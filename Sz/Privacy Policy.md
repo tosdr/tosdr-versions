@@ -16,13 +16,13 @@
 Datenschutzhinweise
 ===================
 
-12.09.2024
+26.09.2024
 
 Wenn Sie ein Angebot der Süddeutschen Zeitung als SZ Plus-Abonnent:in nutzen, verarbeitet die Süddeutsche Zeitung GmbH Ihre personenbezogenen Daten. Mit diesen Datenschutzhinweisen informieren wir Sie, wie und warum wir Ihre Daten verarbeiten und wie wir gewährleisten, dass sie vertraulich bleiben und geschützt sind. Wenn Sie Abonnent:in der gedruckten SZ sind, finden Sie die entsprechenden Datenschutzhinweise der dann einschlägigen Datenverarbeitungen unter den Punkten [Vertragsabwicklung](#Bestellen), [Kommunikation](#Kommunikation) und [Werbung für unsere Produkte](#Direktwerbung)
 
 Wenn Sie SZ.de nutzen, indem Sie nach dem Aufrufen der Webseite einen Vertrag mit Werbung abschließen bzw. abgeschlossen haben, finden Sie die in diesem Fall geltenden Datenschutzhinweise [hier](https://www.swmh-datenschutz.de/sz_vertragmitwerbung).
 
-[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.21/sz.pdf)
+[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.22/sz.pdf)
 
 Die wichtigsten Themen auf einen Blick
 
@@ -635,7 +635,7 @@ Beim PayPal Express Checkout müssen Sie Bestellinformationen sowie Kreditkarten
 
 PayPal behält sich vor, unter Umständen eine Identitäts- und Bonitätsprüfung über Wirtschaftsauskunfteien durchzuführen. Weitere Informationen zum Datenschutz von PayPal finden Sie [hier](https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=de_DE).
 
-#### Bonitätsprüfung und Profiling
+#### Bonitätsprüfung
 
 Profiling, also die automatisierte Datenverarbeitung mit dem Ziel, bestimmte persönliche Aspekte zu bewerten, findet nur zur Bonitätsprüfung im Zuge von Digital-Abo-Bestellungen in Verbindung mit einem Endgerät statt.
 
@@ -643,9 +643,9 @@ Vor Geschäften mit einem wirtschaftlichen Risiko möchten wir möglichst gut ei
 
 Durch die Auskunft und mittels sogenannter Wahrscheinlichkeitswerte unterstützt die CRIF GmbH uns bei der Entscheidungsfindung und hilft dabei, alltägliche (Waren-) Kreditgeschäfte rasch abwickeln zu können.
 
-Hierbei wird anhand von gesammelten Informationen und Erfahrungen aus der Vergangenheit eine Prognose über zukünftige Ereignisse erstellt. Die Berechnung der Wahrscheinlichkeitswerte erfolgt bei der CRIF GmbH primär auf Basis der zu einer betroffenen Person bei der CRIF GmbH gespeicherten Informationen, die auch in der Auskunft gemäß Art. 15 DS-GVO ausgewiesen werden. Zudem finden Anschriftendaten Verwendung. Anhand der zu einer Person gespeicherten Einträge und der sonstigen Daten erfolgt eine Zuordnung zu statistischen Personengruppen, die in der Vergangenheit ein ähnliches Zahlungsverhalten aufwiesen. Das verwendete Verfahren wird als „logistische Regression“ bezeichnet und ist eine fundierte, seit langem praxiserprobte, mathematisch-statistische Methode zur Prognose von Risikowahrscheinlichkeiten.
+Hierbei wird anhand von gesammelten Informationen und Erfahrungen aus der Vergangenheit eine Prognose über zukünftige Ereignisse erstellt. Die Berechnung der Wahrscheinlichkeitswerte erfolgt bei der CRIF GmbH primär auf Basis der zu einer betroffenen Person bei der CRIF GmbH gespeicherten Informationen, die auch in der Auskunft gemäß Art. 15 DSGVO ausgewiesen werden. Zudem finden Anschriftendaten Verwendung. Anhand der zu einer Person gespeicherten Einträge und der sonstigen Daten erfolgt eine Zuordnung zu statistischen Personengruppen, die in der Vergangenheit ein ähnliches Zahlungsverhalten aufwiesen. Das verwendete Verfahren wird als „logistische Regression“ bezeichnet und ist eine fundierte, seit langem praxiserprobte, mathematisch-statistische Methode zur Prognose von Risikowahrscheinlichkeiten.
 
-Folgende Daten werden bei der CRIF GmbH zur Scoreberechnung verwendet, wobei nicht jede Datenart auch in jede einzelne Scoreberechnung mit einfließt: Geburtsdatum, Geschlecht, Warenkorbwert, Anschriftendaten und Wohndauer, bisherige Zahlungsstörungen, öffentliche Negativmerkmale wie Nichtabgabe der Vermögensauskunft, Gläubigerbefriedigung ausgeschlossen, Gläubigerbefriedigung nicht nachgewiesen, Inkassoverfahren- und Inkassoüberwachungsverfahren. Die CRIF GmbH selbst trifft keine Entscheidungen, sie unterstützt die ihr angeschlossenen Vertragspartner lediglich mit ihren Informationen bei der Entscheidungsfindung. Die Risikoeinschätzung und Beurteilung der Kreditwürdigkeit erfolgt allein durch den direkten Geschäftspartner, da nur dieser über zahlreiche zusätzliche Informationen verfügt. Dies gilt auch dann, wenn er sich allein auf die Informationen und Wahrscheinlichkeitswerte der CRIF GmbH verlässt.
+Folgende Daten werden bei der CRIF GmbH zur Scoreberechnung verwendet, wobei nicht jede Datenart auch in jede einzelne Scoreberechnung mit einfließt: Geburtsdatum, Geschlecht, Warenkorbwert, Anschriftendaten und Wohndauer, bisherige Zahlungsstörungen, öffentliche Negativmerkmale wie Nichtabgabe der Vermögensauskunft, Gläubigerbefriedigung ausgeschlossen, Gläubigerbefriedigung nicht nachgewiesen, Inkassoverfahren- und Inkassoüberwachungsverfahren. Die CRIF GmbH selbst trifft keine Entscheidungen, sie uns lediglich mit ihren Informationen bei der Entscheidungsfindung. Die Risikoeinschätzung und Beurteilung der Kreditwürdigkeit erfolgt allein durch uns, da nur wir über zahlreiche zusätzliche Informationen verfügen.
 
 Sie können jederzeit Auskunft über die Sie betreffenden und bei CRIF gespeicherten personenbezogenen Daten verlangen: CRIF GmbH, Leopoldstr. 244, 80992 München sowie [hier](https://www.crif.de/de/datenschutz) weitere Informationen zum Datenschutz erhalten.
 
