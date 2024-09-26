@@ -853,7 +853,7 @@ Search Search Close
 
 Menu
 
-### Breadcrumb
+Breadcrumb
 
 1. [Home](https://www.waldenu.edu/ "Home")
 2. [Legal and Consumer Information](https://www.waldenu.edu/legal "Legal and Consumer Information")
@@ -893,6 +893,8 @@ Walden’s Enrollment Specialists are trained to help you research, plan, and ge
 
 Please use our [International Form if you live outside of the U.S.](https://www.waldenu.edu/international-students#rfi-form)
 
+You must have JavaScript enabled to use this form.
+
 * Current **Step 1:** Contact Information
     
 * **Step 2:** Academic Interests
@@ -918,7 +920,7 @@ By submitting this form, I provide my signature, expressly consenting to calls, 
 
            
 
-   
+    
 
 Related Information
 
