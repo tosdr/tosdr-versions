@@ -106,8 +106,8 @@ Anzeigen
     * Hell
     * Dunkel
 
-: Nutzungs- und Geschäftsbedingungen
-====================================
+Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
+================================================================
 
 Aktualisiert am 17. April 2023, 11:07 Uhr
 
@@ -362,6 +362,20 @@ Ergänzend gelten die oben aufgeführten **Allgemeinen Nutzungsbedingungen von Z
 
 Bei den registrierungspflichtigen Diensten wie z.B. dem Angebot "Z+" handelt es sich um ein Angebot von Zeit Online GmbH in Kooperation mit der Zeitverlag Gerd Bucerius GmbH & Co. KG. Sie erhalten von uns unter der von Ihnen bei der Registrierung angegebenen E-Mail-Adresse künftig auch ähnliche Angebote. **Dem können Sie jederzeit widersprechen bspw. durch E-Mail an: email(at)zeit.de.  
 **
+
+Das Portal www.zeit.de sowie die über mobile Applikationen und in E-Paper bereitgestellten Inhalte dieser Portale (im Folgenden Portale & Dienste) werden betrieben bzw. zur Verfügung gestellt von der
+
+ZEIT ONLINE GmbH  
+vertreten durch die Geschäftsführer Dr. Rainer Esser, Christian Röpke und Enrique Tarragona  
+
+Postanschrift: ZEIT ONLINE GmbH  
+Helmut-Schmidt-Haus  
+20095 [Hamburg](https://www.zeit.de/thema/hamburg)
+
+Telefon: (040) 3280-0  
+E-Mail: kontakt(at)zeit.de
+
+Die folgenden Nutzungs- und Geschäftsbedingungen sind die rechtliche Grundlage für die Nutzung der von der ZEIT ONLINE GmbH angebotenen Portale und Dienste.
 
 ### Seitennavigation
 
