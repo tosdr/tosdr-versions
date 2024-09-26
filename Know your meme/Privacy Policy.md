@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![People Don't Say They 'Like' Things Anymore, They Say 'Received A 55-Minute Standing Ovation From Me In My Living Room' ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/025/standingocover.jpg "People Don't Say They 'Like' Things Anymore, They Say 'Received A 55-Minute Standing Ovation From Me In My Living Room' ")
+* [![Old Couple Picture Gives Artists Redraw Material In 2024](https://i.kym-cdn.com/featured_items/icons/wide/000/026/034/redraw_by_why_egg.jpg "Old Couple Picture Gives Artists Redraw Material In 2024")
     
-    People Don't Say They 'Like' Things Anymore, They Say 'Received A 55-Minute Standing Ovation From Me In My Living Room'](https://knowyourmeme.com/memes/55-minute-standing-ovation-from-me-in-my-living-room)
+    Old Couple Picture Gives Artists Redraw Material In 2024](https://knowyourmeme.com/memes/dreaming-pillow-motif)
     
-* [![Japanese Webcomic 'Ora Ora Get Pregnant' Sparks Redraw and Memes On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/024/Ora_ora_get_pregnant_cover.jpg "Japanese Webcomic 'Ora Ora Get Pregnant' Sparks Redraw and Memes On Social Media")
+* [!['Poor Bastard Exploded' Is Reddit's Way Of Providing Humorous Interpretations To Various Pictures](https://i.kym-cdn.com/featured_items/icons/wide/000/026/033/Screenshot_2024-09-24_at_1.29.10_PM.jpg "'Poor Bastard Exploded' Is Reddit's Way Of Providing Humorous Interpretations To Various Pictures")
     
-    Japanese Webcomic 'Ora Ora Get Pregnant' Sparks Redraw and Memes On Social Media](https://knowyourmeme.com/memes/ora-ora-get-pregnant)
+    'Poor Bastard Exploded' Is Reddit's Way Of Providing Humorous Interpretations To Various Pictures](https://knowyourmeme.com/memes/poor-bastard-exploded)
     
-* [![Diddy Is The Latest Celebrity To Get Put On 'Epsteined' Watch](https://i.kym-cdn.com/featured_items/icons/wide/000/026/023/https___cdn.cnn.com_cnnnext_dam_assets_200115160440-epstein-2019-sex-offender-registry.jpg "Diddy Is The Latest Celebrity To Get Put On 'Epsteined' Watch")
+* [![Hermann Gottlieb's Double Event Speech is a memorable monologue from the 2013 movie Pacific Rim, in which a scientist explains how Kaijus (the film's giant sea monsters) are appearing at ever-increasing frequencies. A multi-panel version of the scene came to be used as a snowclone and an exploitable meme in the early 2020s to joke about things happening at exponential rates.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/032/Screenshot_2024-09-22_at_14-54-51_Pacific_Rim_-_Predictions_And_Experiments_-_YouTube.png "Hermann Gottlieb's 'Double Event' Speech From 'Pacific Rim' Proves To Be An Apt Copypasta For These Unprecedented Times")
     
-    Diddy Is The Latest Celebrity To Get Put On 'Epsteined' Watch](https://knowyourmeme.com/memes/epsteined)
+    Hermann Gottlieb's 'Double Event' Speech From 'Pacific Rim' Proves To Be An Apt Copypasta For These Unprecedented Times](https://knowyourmeme.com/memes/hermann-gottliebs-double-event-speech)
     
-* [![Jonathan Kennedy's "Infected" Art refers to a longstanding Twitter (now called X) thread featuring crude Come and Learn with Pibby crossover fanart drawn by user @Jonatha76257883, A.K.A. Jonathan Kennedy. The art typically features characters from different cartoons, television shows, and movies being taken over by a glitchy corrupting shadow, with some characters getting "infected" while others remain "survivors." The artwork is inspired by the 2021 promotional materials for Adult Swim's Come and Learn with Pibby. The Twitter user has been adding different characters to a thread of artwork since December 2021, with other users marveling at the years-long dedication to the project, the lack of artistic improvement, and the breadth of fandoms represented, with some users calling Jonathan Kennedy's "Infected" Art the One Piece of Twitter.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/022/jonathan.jpg "This Twitter 'Artist' Has Been Drawing 'Pibby' Glitch Fanart For Three Years Now, Leaving People In Awe")
+* [![Bello! Gimmick Account 'Bob The Minion' Has Been Twitter's Favorite Maniac For The Past Month](https://i.kym-cdn.com/featured_items/icons/wide/000/026/031/cover1.jpg "Bello! Gimmick Account 'Bob The Minion' Has Been Twitter's Favorite Maniac For The Past Month")
     
-    This Twitter 'Artist' Has Been Drawing 'Pibby' Glitch Fanart For Three Years Now, Leaving People In Awe](https://knowyourmeme.com/memes/jonathan-kennedys-infected-art)
+    Bello! Gimmick Account 'Bob The Minion' Has Been Twitter's Favorite Maniac For The Past Month](https://knowyourmeme.com/memes/sites/bob-the-minion-gimmick-account)
     
-* [![ Seattle Cybertruck, CyberStuck](https://i.kym-cdn.com/featured_items/icons/wide/000/026/021/cyberstuck.jpg "An Abandoned Cybertruck Nicknamed The 'CyberStuck' Briefly Became A Seattle Tourist Attraction")
+* [![RFK Jr. Dead Whale Story ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/030/rfk_jr_dead_whale.jpg "RFK Jr. Once Drove Five Hours With A Decapitated Whale Head On His Car, According To His Daughter")
     
-    An Abandoned Cybertruck Nicknamed The 'CyberStuck' Briefly Became A Seattle Tourist Attraction](https://knowyourmeme.com/memes/seattle-cybertruck-cyberstuck)
+    RFK Jr. Once Drove Five Hours With A Decapitated Whale Head On His Car, According To His Daughter](https://knowyourmeme.com/memes/events/rfk-jr-dead-whale-story)
     
 
 ##### Also Trending:
 
-[Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy")
+[Eric Adams' Indictment](https://knowyourmeme.com/memes/events/eric-adams-indictment "Eric Adams' Indictment") [Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
