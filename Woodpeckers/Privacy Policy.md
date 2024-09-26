@@ -24,7 +24,7 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1726762395/fro
 
 [Menu](#store.menu)
 
-* [OneTIME Tool](https://www.woodpeck.com/one-time-tools.html)
+* [NEW TOOLS](https://www.woodpeck.com/new-tools.html)
 * [Accessories](https://www.woodpeck.com/accessories.html)
     * [Woodpecker Gift Certificates](https://www.woodpeck.com/accessories/gift-certificate.html)
     * [Woodpeckers Apparel](https://www.woodpeck.com/accessories/woodpeckers-apparel.html)
@@ -380,8 +380,9 @@ Strongsville, OH 44149
 * [Dealers](https://www.woodpeck.com/dealers)
 * [Gift Certificates](https://www.woodpeck.com/accessories/gift-certificate.html)
 * [Join Our Team](https://www.woodpeck.com/join-our-team)
-* [OneTIME Tool Status Page](https://www.woodpeck.com/order-status-ott)
+* [Pre-Order Tool Status Page](https://www.woodpeck.com/order-status-ott)
 * [Order Status](https://www.woodpeck.com/index.php/sales/order/history/)
+* _[OneTIME Tools](https://www.woodpeck.com/one-time-tools.html)_
 * [Privacy Policy](https://www.woodpeck.com/privacy-policy)
 * [Returns](https://www.woodpeck.com/rma)[/Repairs](https://www.woodpeck.com/rma)
 * [Shop By Brands](https://www.woodpeck.com/shop-by-brands.html)
