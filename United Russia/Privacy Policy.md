@@ -305,7 +305,7 @@
 
 [#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#профобразование](https://er.ru/activity/news?tags%5B0%5D=44) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001)
 
-Сегодня 17:45
+26.09.24
 
 [![Госдума приняла в первом чтении законопроект «Единой России» о запрете продажи несовершеннолетним товаров со сжиженным газом](https://cdn.er.ru/media/news/September2024/MNrZKPswB2p5e2TsSglo-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-prodazhi-nesovershennoletnim-tovarov-so-szhizhennym-gazom)
 
@@ -313,7 +313,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
 
-Сегодня 14:36
+26.09.24
 
 [![Александр Сидякин: Георгий Филимонов оправдает кредит доверия, который ему выразили вологжане](https://cdn.er.ru/media/news/September2024/dQEz1eCuTvWzp03Xv5ZR-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-georgij-filimonov-opravdaet-kredit-doveriya-kotoryj-emu-vyrazili-vologzhane)
 
@@ -321,7 +321,7 @@
 
 [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Филимонов](https://er.ru/activity/news?tags%5B0%5D=13401) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#Вологодская область](https://er.ru/activity/news?tags%5B0%5D=4193)
 
-Сегодня 14:25
+26.09.24
 
 [![Госдума приняла в первом чтении инициированный «Единой России» законопроект о регулировании туристической деятельности](https://cdn.er.ru/media/news/September2024/nIPyim5D4v0rlBtJI7WJ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-iniciirovannyj-edinoj-rossii-zakonoproekt-o-regulirovanii-turisticheskoj-deyatelnosti)
 
@@ -329,7 +329,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Кривоносов](https://er.ru/activity/news?tags%5B0%5D=17107) [#туризм](https://er.ru/activity/news?tags%5B0%5D=350) [#развитиетуризма](https://er.ru/activity/news?tags%5B0%5D=122267) [#туристическаяотрасль](https://er.ru/activity/news?tags%5B0%5D=151838) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 14:11
+26.09.24
 
 [![«Единая Россия»: Участниками проекта «Менделеевская карта» станут более 4 тысяч призёров и победителей олимпиады «Я — профессионал»](https://cdn.er.ru/media/news/September2024/qpyQCr5vO3q9x5PqjwBK-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-uchastnikami-proekta-mendeleevskaya-karta-stanut-bolee-4-tysyach-prizyorov-i-pobeditelej-olimpiady-ya-professional)
 
@@ -337,7 +337,7 @@
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Менделеевскаякарта](https://er.ru/activity/news?tags%5B0%5D=1093824) [#ученые](https://er.ru/activity/news?tags%5B0%5D=1314) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#олимпиады](https://er.ru/activity/news?tags%5B0%5D=5441)
 
-Сегодня 13:30
+26.09.24
 
 [![«Единая Россия» защитит детей от вовлечения в противоправные действия и от продажи баллончиков со сжиженным газом](https://cdn.er.ru/media/news/September2024/3H5GJ8dUuUk6M4NDBhMu-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zashitit-detej-ot-vovlecheniya-v-protivopravnye-dejstviya-i-ot-prodazhi-ballonchikov-so-szhizhennym-gazom)
 
@@ -345,7 +345,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#безопасностьдетей](https://er.ru/activity/news?tags%5B0%5D=115744)
 
-Сегодня 11:25
+26.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
