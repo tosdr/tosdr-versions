@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/monster-hunter-wilds-will-launch-on-february-28-2025/)
+    [](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
     
-    ![Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/monster-hunter-wilds-will-launch-on-february-28-2025/)
+    [](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
     
-    ![Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/wp-content/uploads/2024/09/Backyard-Baseball-Is-Launching-on-Steam-on-October-10-with-Three-New-Game-Modes.png)
+
+[Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 26, 2024/
+
+The iconic ’90s PC game Backyard Baseball is making its long-awaited return, launching on Steam on October 10. Originally released…
+
+[Read More](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
+
+![Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More ](https://player.me/wp-content/uploads/2024/09/Meta-Connect-2024-Rundown.png)
+
+[Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More](https://player.me/meta-connect-2024-rundown/) 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+September 26, 2024/
+
+Meta Connect 2024 kicked off as one of the most highly anticipated developer events of the year. The keynote, delivered…
+
+[Read More](https://player.me/meta-connect-2024-rundown/)
+
 ![Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](https://player.me/wp-content/uploads/2024/09/Monster-Hunter-Wilds-Will-Launch-on-February-28-2025-with-Pre-Order-Bonuses-Revealed.png)
 
 [Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](https://player.me/monster-hunter-wilds-will-launch-on-february-28-2025/)
@@ -218,32 +244,6 @@ September 23, 2024/
 Fans of Stardew Valley, rejoice! The much-anticipated Stardew Valley 1.6 Update is officially arriving for consoles and mobile platforms on…
 
 [Read More](https://player.me/stardew-valley-1-6-on-consoles-and-mobile-confirmed/)
-
-![UFO 50 Becomes One of The Highest-Rated Games in 2024: Here’s Why](https://player.me/wp-content/uploads/2024/09/UFO-50-Becomes-One-of-The-Highest-Rated-Games-in-2024_-Heres-Why.png)
-
-[UFO 50 Becomes One of The Highest-Rated Games in 2024: Here’s Why](https://player.me/ufo-50-becomes-one-of-the-highest-rated-games-in-2024/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 20, 2024/
-
-The newly released UFO 50 has swiftly ascended the ranks to become one of Steam’s highest-rated games and one of…
-
-[Read More](https://player.me/ufo-50-becomes-one-of-the-highest-rated-games-in-2024/)
-
-![Frostpunk 2 Factions Complete Guide: Cornerstone, Opposition and Special Abilities](https://player.me/wp-content/uploads/2024/09/Frostpunk-2-Factions-Complete-Guide_-Cornerstone-Opposition-and-Special-Abilities.png)
-
-[Frostpunk 2 Factions Complete Guide: Cornerstone, Opposition and Special Abilities](https://player.me/frostpunk-2-factions-complete-guide/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 20, 2024/
-
-In Frostpunk 2, players step into the shoes of the Steward of New London, following in the footsteps of the…
-
-[Read More](https://player.me/frostpunk-2-factions-complete-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/wp-content/uploads/2024/09/Backyard-Baseball-Is-Launching-on-Steam-on-October-10-with-Three-New-Game-Modes.png)
+
+[Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 26, 2024/
+
+The iconic ’90s PC game Backyard Baseball is making its long-awaited return, launching on Steam on October 10. Originally released…
+
+[Read More](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
+
+![Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More ](https://player.me/wp-content/uploads/2024/09/Meta-Connect-2024-Rundown.png)
+
+[Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More](https://player.me/meta-connect-2024-rundown/) 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+September 26, 2024/
+
+Meta Connect 2024 kicked off as one of the most highly anticipated developer events of the year. The keynote, delivered…
+
+[Read More](https://player.me/meta-connect-2024-rundown/)
+
 ![Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](https://player.me/wp-content/uploads/2024/09/Monster-Hunter-Wilds-Will-Launch-on-February-28-2025-with-Pre-Order-Bonuses-Revealed.png)
 
 [Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed](https://player.me/monster-hunter-wilds-will-launch-on-february-28-2025/)
@@ -379,32 +405,6 @@ September 20, 2024/
 In Frostpunk 2, players step into the shoes of the Steward of New London, following in the footsteps of the…
 
 [Read More](https://player.me/frostpunk-2-factions-complete-guide/)
-
-![My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](https://player.me/wp-content/uploads/2024/09/My-Time-at-Evershine-Becomes-First-Game-Officially-Announced-for-Nintendo-Switch-2.png)
-
-[My Time at Evershine Becomes First Game Officially Announced for Nintendo Switch 2](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 19, 2024/
-
-The My Time series is back with its latest entry, My Time at Evershine, following the critically acclaimed My Time…
-
-[Read More](https://player.me/my-time-at-evershine-becomes-1st-nintendo-switch-2-game/)
-
-![Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/wp-content/uploads/2024/09/Made-on-YouTube-2024-Unveils-New-YouTube-Hype-Feature-to-Boost-Emerging-Creators.png)
-
-[Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 19, 2024/
-
-At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new updates aimed at empowering creators and…
-
-[Read More](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -679,6 +679,19 @@ TECHNOLOGY
 * All Post
 * TECHNOLOGY
 
+![Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More ](https://player.me/wp-content/uploads/2024/09/Meta-Connect-2024-Rundown.png)
+
+[Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More](https://player.me/meta-connect-2024-rundown/) 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+September 26, 2024/
+
+Meta Connect 2024 kicked off as one of the most highly anticipated developer events of the year. The keynote, delivered…
+
+[Read More](https://player.me/meta-connect-2024-rundown/)
+
 ![Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/wp-content/uploads/2024/09/Made-on-YouTube-2024-Unveils-New-YouTube-Hype-Feature-to-Boost-Emerging-Creators.png)
 
 [Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
@@ -796,19 +809,6 @@ A year after OpenAI shut down its AI classifier, a tool the company claimed to d
 
 [Read More](https://player.me/openai-debates-on-releasing-chatgpt-watermark/)
 
-![SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/wp-content/uploads/2024/07/SIGGRAPH-2024——-The-Intriguing-Conversation-Between-Mark-Zuckerberg-and-Jensen-Huang.png)
-
-[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 30, 2024/
-
-SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) is an annual conference and exhibition focusing on computer graphics,…
-
-[Read More](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 [![Follow Us on Google News](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDgyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMN65xgswgdXdAw?hl=en-US&gl=US&ceid=US%3Aen)
@@ -816,6 +816,18 @@ SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques
 ![player.me](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDMwMCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
 
 player.me
+
+[](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/ "Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes")
+
+[Backyard Baseball Is Launching on Steam on October 10 with Three New Game Modes](https://player.me/backyard-baseball-is-launching-on-steam-on-october-10/)
+
+September 26, 2024
+
+[](https://player.me/meta-connect-2024-rundown/ "Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More ")
+
+[Meta Connect 2024 Rundown: Quest 3S VR Headset, Orion AR Glasses, Ray-Ban Glasses and More](https://player.me/meta-connect-2024-rundown/) 
+
+September 26, 2024
 
 [](https://player.me/monster-hunter-wilds-will-launch-on-february-28-2025/ "Monster Hunter Wilds Will Launch on February 28, 2025, with Pre-Order Bonuses Revealed")
 
@@ -853,22 +865,10 @@ September 23, 2024
 
 September 23, 2024
 
-[](https://player.me/ufo-50-becomes-one-of-the-highest-rated-games-in-2024/ "UFO 50 Becomes One of The Highest-Rated Games in 2024: Here’s Why")
-
-[UFO 50 Becomes One of The Highest-Rated Games in 2024: Here’s Why](https://player.me/ufo-50-becomes-one-of-the-highest-rated-games-in-2024/)
-
-September 20, 2024
-
-[](https://player.me/frostpunk-2-factions-complete-guide/ "Frostpunk 2 Factions Complete Guide: Cornerstone, Opposition and Special Abilities")
-
-[Frostpunk 2 Factions Complete Guide: Cornerstone, Opposition and Special Abilities](https://player.me/frostpunk-2-factions-complete-guide/)
-
-September 20, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 567,693 times, 9 visit(s) today
+Visited 567,739 times, 55 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
