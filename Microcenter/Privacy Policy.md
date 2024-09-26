@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 10AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 10 to 9, Sun 11 to 6
         
@@ -1177,6 +1177,8 @@ How do I subscribe to / unsubscribe from Micro Center and Micro Center Online em
 --------------------------------------------------------------------------------------------------------
 
 There are various methods for letting us know if you would or would not like to receive Micro Center and Micro Center Online postal or email promotions. (Please note that if you opt out of our email marketing communications, you may still receive business-related communications such as order and shipping confirmations, product recall information or other administrative communications.)
+
+Collection of Information: We collect various information on our behalf from and about you, including information you directly provide when you use the messaging service (the “Messaging Service”). For example, we collect the phone number and/or email address you provided when signing up for the Messaging Service. When you send messages via the Messaging Service, we will also collect your messaging history and any information included in those messages. We may also collect information about you using cookies or similar technologies. Cookies are pieces of information that are stored by your browser on the hard drive or memory of your device. Cookies enable personalization of your experience on the Messaging Service. For example, we use cookies to track the items in your Shopping Cart and may use that information to send you triggered text campaigns (e.g., sending you personalized text messages such as shopping cart reminders, browse reminders).We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your data, including your SMS opt-in or consent status, with third parties that help us provide our Messaging Service, including but not limited to, platform providers and any other vendors who assist us in the delivery of text messages. **Message frequency will vary. Msg & data rates may apply, Reply STOP, Reply HELP. Reply HELP for help or email.**
 
 For information regarding **SMS Text Messaging**, refer to our [Micro Center Insider Text Messaging terms.](https://www.microcenter.com/site/customer-support/sms-terms.aspx)
 
