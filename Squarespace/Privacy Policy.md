@@ -74,7 +74,7 @@ Resources
 
 [Log In](https://account.squarespace.com/) [Log Out](https://www.squarespace.com/)
 
-[Get started](https://www.squarespace.com/templates)
+[Get started](https://www.squarespace.com/templates) [Start a Free Trial](https://www.squarespace.com/templates)
 
 [Squarespace Logo](https://www.squarespace.com/)
 
@@ -85,6 +85,8 @@ Products [Templates](https://www.squarespace.com/templates) Resources [Pricing](
 [Account Dashboard](https://account.squarespace.com/) [Domains](https://account.squarespace.com/domains) [Log Out](https://www.squarespace.com/)
 
 [Get started](https://www.squarespace.com/templates)
+
+[Start a Free Trial](https://www.squarespace.com/templates)
 
 ### Create a website
 
