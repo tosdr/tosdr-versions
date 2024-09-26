@@ -236,39 +236,39 @@ Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de
 
 Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela](https://www.tnh1.com.br/noticia/nid/bahia-registra-mortes-suspeitas-de-botulismo-doenca-e-associada-ao-consumo-de-mortadela/ "Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela")
 
-[![Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva_33003f8edf.jpg)
+[![Idosa teria perdido R$ 4.000 em golpe que a fez acreditar que era namorada do Elon Musk](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_csm_elon-musk_c6aaf0d653__1__aab8e5b9ed.jpg)
 
-Alagoas
+79 anos
 
-Alagoas
+79 anos
 
-Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades
+Idosa teria perdido R$ 4.000 em golpe que a fez acreditar que era namorada do Elon Musk
 
-Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://www.tnh1.com.br/noticia/nid/vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva-do-ministerio-das-cidades/ "Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades")[![Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_deolane-bezerra-mae-reproducao-redes-sociais__1__5630fb048d.jpg)
+Idosa teria perdido R$ 4.000 em golpe que a fez acreditar que era namorada do Elon Musk](https://www.tnh1.com.br/noticia/nid/idosa-teria-perdido-r-4000-em-golpe-que-a-fez-acreditar-que-era-namorada-do-elon-musk/ "Idosa teria perdido R$ 4.000 em golpe que a fez acreditar que era namorada do Elon Musk")[![Documento revela que jato dos EUA abateu ONVI no Canadá](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/a/csm_documento-revela-jato-EUA-divulgacao_216273d96a.jpg)
 
-Gente Famosa
+Mundo
 
-Gente Famosa
+Mundo
 
-Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão
+Documento revela que jato dos EUA abateu ONVI no Canadá
 
-Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão](https://www.tnh1.com.br/noticia/nid/deolane-bezerra-e-mae-voltam-para-sao-paulo-de-jatinho-particular-apos-deixarem-prisao/ "Deolane Bezerra e mãe voltam para São Paulo de jatinho particular após deixarem prisão ")[![Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/3/csm_fim-da-gotinha-sesau-orienta-sobre-mudancas-no-esquema-vacinal-contra-a-poliomielite_22b8e2a0f0.jpg)
+Documento revela que jato dos EUA abateu ONVI no Canadá](https://www.tnh1.com.br/noticia/nid/documento-revela-que-jato-dos-eua-abateu-onvi-no-canada/ "Documento revela que jato dos EUA abateu ONVI no Canadá")[![Microprática de 20 segundos pode reduzir ansiedade e estresse; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/7/csm_ansiedade-stress-reproducao-freepik_450c71981a.png)
 
-Saúde
+sessões de meditação
 
-Saúde
+sessões de meditação
 
-Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite
+Microprática de 20 segundos pode reduzir ansiedade e estresse; entenda
 
-Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite](https://www.tnh1.com.br/noticia/nid/fim-da-gotinha-sesau-orienta-sobre-mudancas-no-esquema-vacinal-contra-a-poliomielite/ "Fim da gotinha: Sesau orienta sobre mudanças no esquema vacinal contra a poliomielite")[![Papa expulsa dez membros de movimento católico no Peru por agressão sexual](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/9/csm_Papa-Francisco-Daniel_MarencoFolhapress_1cbddf5481.jpeg)
+Microprática de 20 segundos pode reduzir ansiedade e estresse; entenda](https://www.tnh1.com.br/noticia/nid/micropratica-de-20-segundos-pode-reduzir-ansiedade-e-estresse-entenda/ "Microprática de 20 segundos pode reduzir ansiedade e estresse; entenda")[![Andressa Suita faz reflexão após Gusttavo Lima quase ser preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_andressa-suita-reproducao-redes-sociais_e3c3d05e49.jpeg)
 
-após investigações
+Veja publicação
 
-após investigações
+Veja publicação
 
-Papa expulsa dez membros de movimento católico no Peru por agressão sexual
+Andressa Suita faz reflexão após Gusttavo Lima quase ser preso
 
-Papa expulsa dez membros de movimento católico no Peru por agressão sexual](https://www.tnh1.com.br/noticia/nid/papa-expulsa-dez-membros-de-movimento-catolico-no-peru-por-agressao-sexual/ "Papa expulsa dez membros de movimento católico no Peru por agressão sexual")
+Andressa Suita faz reflexão após Gusttavo Lima quase ser preso](https://www.tnh1.com.br/noticia/nid/andressa-suita-faz-reflexao-apos-gusttavo-lima-quase-ser-preso/ "Andressa Suita faz reflexão após Gusttavo Lima quase ser preso")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
