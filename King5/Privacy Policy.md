@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8aaba772-afe2-43ff-a00a-362bfa96e870/20240926T020356/8aaba772-afe2-43ff-a00a-362bfa96e870_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8aaba772-afe2-43ff-a00a-362bfa96e870/20240926T020356/8aaba772-afe2-43ff-a00a-362bfa96e870_360x203.jpg)](https://www.king5.com/article/news/local/hilltop-neighborhood-1-year-sound-transit-t-line-extension/281-78602627-aed2-4346-8e17-915709088f00)
+    *  [![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_16x9.jpg) ![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/police-surveillance-cameras-seattle-neighborhoods-bill-passes-first-hurdle/281-887a64ea-86cc-412d-80ea-77b4cfaafc10)
         
-        #### [Hilltop neighborhood marks 1 year of Sound Transit T Line extension](https://www.king5.com/article/news/local/hilltop-neighborhood-1-year-sound-transit-t-line-extension/281-78602627-aed2-4346-8e17-915709088f00)
+        #### [Police surveillance cameras in Seattle neighborhoods? Bill passes its first hurdle](https://www.king5.com/article/news/local/public-safety/police-surveillance-cameras-seattle-neighborhoods-bill-passes-first-hurdle/281-887a64ea-86cc-412d-80ea-77b4cfaafc10)
         
-    *  [![](https://media.king5.com/assets/KING/images/f6b7c62a-61c9-4deb-89fc-459cd43f4030/f6b7c62a-61c9-4deb-89fc-459cd43f4030_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b7c62a-61c9-4deb-89fc-459cd43f4030/f6b7c62a-61c9-4deb-89fc-459cd43f4030_360x203.jpg)](https://www.king5.com/article/news/local/man-sentenced-31-years-for-killing-wife-at-bellevue-sams-tavern/281-55753f76-2f41-42d2-b7f7-bfb2187cc51a)
+    *  [![](https://media.king5.com/assets/KING/images/9d99cc06-f88d-4e67-b6f7-0ad0863685a0/20240926T043540/9d99cc06-f88d-4e67-b6f7-0ad0863685a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9d99cc06-f88d-4e67-b6f7-0ad0863685a0/20240926T043540/9d99cc06-f88d-4e67-b6f7-0ad0863685a0_360x203.jpg)](https://www.king5.com/article/news/local/seattle-safety-study-reveals-alarming-rates-anti-asian-incidents-underreporting/281-c759fda1-b787-436b-8056-d7b5b3952124)
         
-        #### [Man sentenced to 31 years for killing wife at Bellevue tavern](https://www.king5.com/article/news/local/man-sentenced-31-years-for-killing-wife-at-bellevue-sams-tavern/281-55753f76-2f41-42d2-b7f7-bfb2187cc51a)
+        #### [New study shows safety concerns of Asian Americans in Seattle](https://www.king5.com/article/news/local/seattle-safety-study-reveals-alarming-rates-anti-asian-incidents-underreporting/281-c759fda1-b787-436b-8056-d7b5b3952124)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,7 +60,7 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/WXIA/images/d50d0495-5f59-4941-8907-2a4d3278b6c5/20240926T020617/d50d0495-5f59-4941-8907-2a4d3278b6c5_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/d50d0495-5f59-4941-8907-2a4d3278b6c5/20240926T020617/d50d0495-5f59-4941-8907-2a4d3278b6c5_360x203.jpg)](https://www.king5.com/article/weather/hurricane/helene-tracker-path-storm-projections/85-91abc06f-abef-4b7a-bbcf-0b3e01a8d458)
+    *  [![](https://media.king5.com/assets/WXIA/images/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de/20240926T025714/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de/20240926T025714/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de_360x203.jpg)](https://www.king5.com/article/weather/hurricane/helene-tracker-path-storm-projections/85-91abc06f-abef-4b7a-bbcf-0b3e01a8d458)
         
         #### [Helene tracker stream | Live radar, projected path](https://www.king5.com/article/weather/hurricane/helene-tracker-path-storm-projections/85-91abc06f-abef-4b7a-bbcf-0b3e01a8d458)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-59°
+56°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
