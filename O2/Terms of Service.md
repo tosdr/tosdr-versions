@@ -497,9 +497,9 @@ Popular in shop
 * [Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
 * [Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
 * [Samsung Galaxy S24](https://www.o2.co.uk/shop/samsung/galaxy-s24-5g)
-* [Samsung Galaxy Z Fold6](https://www.o2.co.uk/shop/samsung/galaxy-z-fold6-5g)
 * [Samsung Galaxy Z Flip6](https://www.o2.co.uk/shop/samsung/galaxy-z-flip6-5g)
-* [Google Pixel 8 Pro](https://www.o2.co.uk/shop/google/pixel-8-pro)
+* [Google Pixel 9 Pro XL](https://www.o2.co.uk/shop/google/pixel-9-pro-xl)
+* [Google Pixel 9 Pro](https://www.o2.co.uk/shop/google/pixel-9-pro)
 * [SIM Only Deals](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
 * [Virgin Media broadband deals](https://www.virginmedia.com/broadband)
 
