@@ -36,18 +36,18 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
+    * [![HPE Aruba Networking fixes critical flaws impacting Access Points](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        HPE Aruba Networking fixes critical flaws impacting Access Points](https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-three-critical-rce-flaws-impacting-its-access-points/)
+    * [![Buy a Microsoft Office for Windows license for $35 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Buy a Microsoft Office for Windows license for $35 in this deal](https://www.bleepingcomputer.com/offer/deals/buy-a-microsoft-office-for-windows-license-for-35-in-this-deal/)
     * [![Mozilla accused of tracking users in Firefox without consent](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Mozilla accused of tracking users in Firefox without consent](https://www.bleepingcomputer.com/news/technology/mozilla-accused-of-tracking-users-in-firefox-without-consent/)
     * [![Meta halts routing via Deutsche Telekom over €20M peering fee](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Meta halts routing via Deutsche Telekom over €20M peering fee](https://www.bleepingcomputer.com/news/technology/meta-halts-routing-via-deutsche-telekom-over-20m-peering-fee/)
-    * [![This $50 bundle helps you prepare for your CompTIA exams on a budget](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This $50 bundle helps you prepare for your CompTIA exams on a budget](https://www.bleepingcomputer.com/offer/deals/this-50-bundle-helps-you-prepare-for-your-comptia-exams-on-a-budget/)
-    * [![Google sees 68% drop in Android memory safety flaws over 5 years](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Google sees 68% drop in Android memory safety flaws over 5 years](https://www.bleepingcomputer.com/news/security/google-sees-68-percent-drop-in-android-memory-safety-flaws-over-5-years/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
