@@ -28,8 +28,8 @@
     * [Radio Stations](https://www.cumulusmedia.com/listen/station-finder/)
     * [Podcasts](https://cumuluspodcastnetwork.com/)
 
-![Cumulus Media - Where Every Voice Matters](https://www.cumulusmedia.com/wp-content/uploads/2019/09/CumulusMedia-WEVM.png)
-===========================================================================================================================
+![Cumulus Media - Where Every Voice Matters](http://www.cumulusmedia.com/wp-content/uploads/2019/09/CumulusMedia-WEVM.png)
+==========================================================================================================================
 
 **UPDATED AS OF July 28, 2022**
 
@@ -182,7 +182,7 @@ Cumulus Media Inc. (“Cumulus,” “we,” “us,” or “our”) is dedicate
     Exercising your rights
     ----------------------
     
-    You may change, update or add additional information about yourself at any time through the Cumulus Platforms that offer this feature. If a Cumulus Platform does not currently provide this ability, you can still change your data profile by contacting your local radio station. You can also exercise any of these rights by contacting us using the contact details set out throughout this policy or you may submit a request to us by visiting the following page: [Website Request Page](https://www.cumulusmedia.com/privacy). You may make a request up to twice within a twelve (12) month period. You may also call us on the following toll free telephone number: [855-849-0505](tel:855-849-0505).
+    You may change, update or add additional information about yourself at any time through the Cumulus Platforms that offer this feature. If a Cumulus Platform does not currently provide this ability, you can still change your data profile by contacting your local radio station. You can also exercise any of these rights by contacting us using the contact details set out throughout this policy or you may submit a request to us by visiting the following page: [Website Request Page](http://www.cumulusmedia.com/privacy). You may make a request up to twice within a twelve (12) month period. You may also call us on the following toll free telephone number: [855-849-0505](tel:855-849-0505).
     
     We will ask you for information that allows us to reasonably verify your identity (that you are the person about whom we collected personal information) and we will use that information only for that purpose. We cannot respond to your request or provide you with personal information if we cannot verify your identity and confirm that the personal information relates to you.
     
