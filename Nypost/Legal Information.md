@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[NYC Mayor Eric Adams indicted by grand jury in historic federal probe: sources](https://nypost.com/2024/09/25/us-news/nyc-mayor-eric-adams-indicted-by-grand-jury-in-historic-federal-probe-sources/)
-
 Privacy Notice Highlights
 =========================
 
