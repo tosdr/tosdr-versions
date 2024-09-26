@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66ed9976998ac172e258474e_set-up-amazon-store.avif)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66f46f164d94ba848cd11c3d_clearco-nyc-connect.png)
 
-###### How to Set up Your Amazon Store
+###### Clearco’s Fashionably Funded NYC Cocktail Hour: A Fashion Week Success
 
-[Read now >](https://clear.co/blog/set-up-your-amazon-store)
+[Read now >](https://clear.co/blog/clearco-nyc-connect)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
