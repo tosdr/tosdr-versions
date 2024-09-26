@@ -32,14 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
         
-        #### [Davenport City Council approves new code of conduct](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00) [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
+        #### [Davenport City Council approves new code of conduct](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
         
-        #### [The Davenport City Council has a new code of conduct](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_360x203.jpg)](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
         
-        #### [Doug Maxeiner approved as new Davenport city administrator](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5) [![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_360x203.jpg)](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
+        #### [Doug Maxeiner approved as new Davenport city administrator](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
         
-        #### [Davenport City Council approves hiring of Doug Maxeiner as city administrator](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -88,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-59°
+53°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
