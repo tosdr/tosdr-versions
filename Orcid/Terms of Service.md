@@ -1,4 +1,4 @@
-Important Notice: The ORCID Registry is currently unavailable while we upgrade our hardware. We expect all services to be back online by 2 pm UTC at the latest. We apologize for any inconvenience.
+We've recently updated ORCID'S Privacy Policy to be simple to understand and easy to navigate. We invite you to read it [here.](https://info.orcid.org/privacy-policy)
 
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
@@ -52,7 +52,7 @@ MENUMENU
                 * [Dispute Procedures](https://info.orcid.org/dispute-procedures/)
                 * [Open Source Project License](https://info.orcid.org/open-source-project-license/)
                 * [Contract and Invoicing Policy](https://info.orcid.org/our-principles-policies/orcid-contract-policy/)
-                * [Privacy Policy](https://info.orcid.org/privacy-policy/)
+                * [ORCID Privacy Policy](https://info.orcid.org/privacy-policy/)
                 * [Public Client Terms of Service](https://info.orcid.org/public-client-terms-of-service/)
                 * [Public Data File Use Policy](https://info.orcid.org/public-data-file-use-policy/)
                 * [Schrems II FAQ](https://info.orcid.org/our-principles-policies/faq-orcid-and-ecj-schrems-ii-decision/)
