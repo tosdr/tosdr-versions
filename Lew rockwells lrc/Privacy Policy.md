@@ -64,6 +64,9 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
+* [Zelensky addresses Congress, Biden okays long-range munitions, anti-missile battery, F-16 training](https://www.lewrockwell.com/political-theatre/zelensky-addresses-congress-biden-okays-long-range-munitions-anti-missile-battery-f-16-training/)
+* [Israeli soldiers target Americans in the West Bank](https://www.lewrockwell.com/political-theatre/israeli-soldiers-target-americans-in-the-west-bank/)
+* [IInfowars To Be Auctioned Off on November 13](https://www.lewrockwell.com/political-theatre/iinfowars-to-be-auctioned-off-on-november-13/)
 * [Fatal Bomb Planted MONTHS Ago, Inside Job 6](https://www.lewrockwell.com/political-theatre/fatal-bomb-planted-months-ago-inside-job-6/)
 * [Prof. Jeffrey Sachs – US a Menace to World Peace](https://www.lewrockwell.com/political-theatre/prof-jeffrey-sachs-us-a-menace-to-world-peace/)
 * [Max Boot’s Reagan Biography Boosts Communism, Trashes US](https://www.lewrockwell.com/political-theatre/max-boots-reagan-biography-boosts-communism-trashes-us/)
@@ -71,15 +74,15 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Germany: another faux-opposition party bites the dust](https://www.lewrockwell.com/political-theatre/germany-another-faux-opposition-party-bites-the-dust/)
 * [Neil Oliver’s Latest Video](https://www.lewrockwell.com/political-theatre/neil-olivers-latest-video/)
 * [741 Deep State spooks, war hawks endorse logical candidate: Kamala Harris](https://www.lewrockwell.com/political-theatre/741-deep-state-spooks-war-hawks-endorse-logical-candidate-kamala-harris/)
-* [State Department Does a Hatecrime, Issues Anti-Haiti Travel Advisory](https://www.lewrockwell.com/political-theatre/state-department-does-a-hatecrime-issues-anti-haiti-travel-advisory/)
-* [Unz on 9-11](https://www.lewrockwell.com/political-theatre/unz-on-9-11/)
-* [Why Is Kamala Still Losing?](https://www.lewrockwell.com/political-theatre/why-is-kamala-still-losing/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-893264)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-893279)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [NYC Mayor Eric Adams Gets the Trump Treatment](https://www.lewrockwell.com/lrc-blog/nyc-mayor-eric-adams-gets-the-trump-treatment/)
+* [Brandon’s Revenge? Did Brandon Just Throw Commie-La Under the Bus?](https://www.lewrockwell.com/lrc-blog/brandons-revenge-did-brandon-just-throw-commie-la-under-the-bus/)
+* [Eric Weinstein – Are We On The Brink Of A Revolution?](https://www.lewrockwell.com/lrc-blog/eric-weinstein-are-we-on-the-brink-of-a-revolution/)
 * [Kamala Losing Ground Fast in Betting Markets](https://www.lewrockwell.com/lrc-blog/kamala-losing-ground-fast-in-betting-markets/)
 * [RE: They “Remain Aligned in Our Support to Ukraine”](https://www.lewrockwell.com/lrc-blog/re-they-remain-aligned-in-our-support-to-ukraine/)
 * [Ukrainian Dictator Zelenskyy Campaigns for Commie-La](https://www.lewrockwell.com/lrc-blog/ukrainian-dictator-zelenskyy-campaigns-for-commie-la/)
@@ -87,10 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [They “Remain Aligned in Our Support to Ukraine”](https://www.lewrockwell.com/lrc-blog/they-remain-aligned-in-our-support-to-ukraine/)
 * [Zelensky’s Victory Plan: ‘Please Start WWIII For Me!’](https://www.lewrockwell.com/lrc-blog/zelenskys-victory-plan-please-start-wwiii-for-me/)
 * [“U.S. Must Get Out of Ukraine”](https://www.lewrockwell.com/lrc-blog/u-s-must-get-out-of-ukraine/)
-* [What Happens When a Women’s Soccer Team Fields Five Men?](https://www.lewrockwell.com/lrc-blog/what-happens-when-a-womens-soccer-team-fields-five-men/)
-* [Why Are We Sending US Troops Into Expanding Middle East War?](https://www.lewrockwell.com/lrc-blog/why-are-we-sending-us-troops-into-expanding-middle-east-war/)
-* [As You Sow, So Shall You Reap](https://www.lewrockwell.com/lrc-blog/as-you-sow-so-shall-you-reap/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-893240)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-893298)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
