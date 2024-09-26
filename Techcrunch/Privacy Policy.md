@@ -115,7 +115,7 @@
 Welcome to the Yahoo Privacy Policy
 ===================================
 
-_Last updated: July 2023_
+_Last updated: September 2024_
 
 1. **About Yahoo**
     1. Yahoo, previously known as Verizon Media, is a technology and media company that provides a range of services. We serve our consumers, partners, advertisers and talent through our portfolio of digital platforms, products and services offered under our AOL, Yahoo and other [brands](https://www.yahooinc.com/our-brands).
@@ -238,7 +238,7 @@ _Last updated: July 2023_
     
     1. When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services. Some of these countries may not have the same data protection safeguards as the country where you reside. 
         
-    2. Yahoo processes information related to individuals in the EU/EEA/UK and transfers that information from the EU/EEA/UK through various compliance mechanisms, including data processing agreements based on the European Commission’sA Standard Contractual Clauses. By using our Services, you consent to us transferring information about you to these countries. For more information, please visit our [Data Transfer](https://www.verizonmedia.com/us/en/yahoo/privacy/topics/datatransfer/index.html) page.
+    2. Yahoo processes information related to individuals in the EU/EEA/UK/Switzerland and receives that information from the EU/EEA/UK/Switzerland through various compliance mechanisms, including the EU-U.S. Data Privacy Framework (DPF), the UK Extension to the DPF, and the Swiss-U.S. DPF. Where appropriate, we also rely on other transfer mechanisms such as data processing agreements based on Standard Contractual Clauses adopted by the European Commission or the United Kingdom. For more information, please visit our [Data Transfer](https://www.verizonmedia.com/us/en/yahoo/privacy/topics/datatransfer/index.html) page.
         
     3. The United States and other non-EU/EEA/UK countries have different laws on data protection and rules in relation to government access to information. If you are based in the EU/EEA/UK, when your data is moved from your home country to a third country outside the EU/EEA/UK, some of these countries may not have the same data protection safeguards as your home country.
         
@@ -256,7 +256,7 @@ _Last updated: July 2023_
         770 Broadway, New York  
         NY 10003, USA
         
-    2. If you wish to contact our Data Protection Officer, you can do so by post to: Attn: Data Protection Officer, Yahoo EMEA, 5-7 Point Square, North Wall Quay, Dublin 1, Ireland.
+    2. If you wish to contact our Data Protection Officer, you can do so by post to: Attn: Data Protection Officer, Yahoo EMEA, The EXO Building, North Wall Quay, Dublin 1, D01 W5Y2, Ireland.
         
     3. Our Article 27 Representative can be contacted by email at [YahooGDPRrepresentative@mhc.ie](mailto:YahooGDPRrepresentative@mhc.ie), or by post at:
         
@@ -267,7 +267,7 @@ _Last updated: July 2023_
         Dublin 4  
         Ireland
         
-15. **Recent Versions**
+15. **Recent Updates**
     
     1. May 2018 - update to privacy notice;
         
@@ -275,7 +275,9 @@ _Last updated: July 2023_
         
     3. October 2020 - updates to data transfers and legal bases; and
         
-    4. September 2021 - updates to reflect name change; additional information added regarding data retention.
+    4. September 2021 - updates to reflect name change; additional information added regarding data retention;
+        
+    5. September 2024 - updates to data transfers.
         
 
 ©2024 Yahoo. All Rights Reserved.
