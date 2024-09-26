@@ -484,15 +484,15 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 ### Most read articles
 
 * 1[The UK wants Europe’s carbon](http://en.euractiv.eu/section/energy-environment/news/the-uk-wants-europes-carbon/?utm_source=website&utm_campaign=popular)
-* 2[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
+* 2[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
 * 3[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
-* 4[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
+* 4[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
 * 5[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
 * 6[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
 * 7[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
-* 8[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
-* 9[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
-* 10[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
+* 8[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
+* 9[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
+* 10[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
