@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![7,000 HP: Jay Leno Rides a Big Boy, the Biggest Steam Locomotive in the World](https://s1.cdn.autoevolution.com/images/news/7000-hp-jay-leno-rides-a-big-boy-the-biggest-steam-locomotive-in-the-world-240354-5.jpg "7,000 HP: Jay Leno Rides a Big Boy, the Biggest Steam Locomotive in the World")
+[![This 1957 Chevrolet Bel Air Was Stolen, and Then a Miracle Happened](https://s1.cdn.autoevolution.com/images/news/this-1957-chevrolet-bel-air-was-stolen-and-then-a-miracle-happened-240353-5.jpg "This 1957 Chevrolet Bel Air Was Stolen, and Then a Miracle Happened")
 
-7,000 HP: Jay Leno Rides a Big Boy, the Biggest Steam Locomotive in the World](https://www.autoevolution.com/news/7000-hp-jay-leno-rides-a-big-boy-the-biggest-steam-locomotive-in-the-world-240354.html)
+This 1957 Chevrolet Bel Air Was Stolen, and Then a Miracle Happened](https://www.autoevolution.com/news/this-1957-chevrolet-bel-air-was-stolen-and-then-a-miracle-happened-240353.html)
 
 how-to \_
 
