@@ -400,37 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/7ae61765-slot1-1.jpg?ve=1&tl=1)
+ [![Hoda Kotb says she’s retiring from ‘Today’ show in emotional announcement](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1865828899.jpg?ve=1&tl=1)
 
- ![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/7ae61765-slot1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-florida-updates)
+ ![Hoda Kotb says she’s retiring from ‘Today’ show in emotional announcement](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1865828899.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hoda-kotb-retirement-today-show-watch-video)
 
-Live Now
+### [Hoda Kotb says she’s retiring from ‘Today’ show in emotional announcement](https://www.fox4news.com/news/hoda-kotb-retirement-today-show-watch-video)
 
-### [Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://www.fox4news.com/news/hurricane-helene-florida-updates)
+ [![UNTHSC opens new nursing college in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-SHANNON-HSC-COLLEGE-OF-NURSING-GRAND-OPENING-8A_00.00.56.10.jpg?ve=1&tl=1)
 
- [![Dallas City Council approves Forward Dallas plan, first zoning update in 18 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1)
+ ![UNTHSC opens new nursing college in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-SHANNON-HSC-COLLEGE-OF-NURSING-GRAND-OPENING-8A_00.00.56.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unthsc-opens-new-nursing-college-fort-worth)
 
- ![Dallas City Council approves Forward Dallas plan, first zoning update in 18 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
+### [UNTHSC opens new nursing college in Fort Worth](https://www.fox4news.com/news/unthsc-opens-new-nursing-college-fort-worth)
 
-### [Dallas City Council approves Forward Dallas plan, first zoning update in 18 years](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
+ [![Flight disruptions impact Atlanta, Tampa as Hurricane Helene looms](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/atl.jpg?ve=1&tl=1)
 
- [![16-year-old boy dies from Haltom City road rage shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-PEYTON-HALTOM-CITY-ROAD-RAGE-SHOOTING-9P_00.01.39.56.jpg?ve=1&tl=1)
+ ![Flight disruptions impact Atlanta, Tampa as Hurricane Helene looms](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/atl.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/flight-disruptions-impact-atlanta-tampa-hurricane-helene-looms)
 
- ![16-year-old boy dies from Haltom City road rage shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-PEYTON-HALTOM-CITY-ROAD-RAGE-SHOOTING-9P_00.01.39.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/16-year-old-boy-dies-from-haltom-city-road-rage-shooting)
+### [Flight disruptions impact Atlanta, Tampa as Hurricane Helene looms](https://www.fox4news.com/news/flight-disruptions-impact-atlanta-tampa-hurricane-helene-looms)
 
-### [16-year-old boy dies from Haltom City road rage shooting](https://www.fox4news.com/news/16-year-old-boy-dies-from-haltom-city-road-rage-shooting)
+ [![Hurricane Helene could bring 'catastrophic' flooding to Southeast, mid-Atlantic](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/AL09-Inland-Wind-Forecast.jpg?ve=1&tl=1)
 
- [![NYC Mayor Adams indicted on federal criminal charges](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1)
+ ![Hurricane Helene could bring 'catastrophic' flooding to Southeast, mid-Atlantic](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/AL09-Inland-Wind-Forecast.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-flooding-southeast-mid-atlantic)
 
- ![NYC Mayor Adams indicted on federal criminal charges](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
+### [Hurricane Helene could bring 'catastrophic' flooding to Southeast, mid-Atlantic](https://www.fox4news.com/news/hurricane-helene-flooding-southeast-mid-atlantic)
 
-### [NYC Mayor Adams indicted on federal criminal charges](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
+ [![Langford and García homer as the Rangers beat the A's 5-1 in final scheduled night game at Coliseum](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173647786.jpg?ve=1&tl=1)
 
- [![Woman dies after being shot by murder suspect during Richardson police chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092524-CB-DAVID-RICHARDSON-CHASE_SHOOTING-FOLO-9P-_00.00.39.02.jpg?ve=1&tl=1)
+ ![Langford and García homer as the Rangers beat the A's 5-1 in final scheduled night game at Coliseum](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173647786.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/langford-garcia-homer-rangers-beat-as-5-1-final-scheduled-night-game-coliseum)
 
- ![Woman dies after being shot by murder suspect during Richardson police chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092524-CB-DAVID-RICHARDSON-CHASE_SHOOTING-FOLO-9P-_00.00.39.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sherrie-moore-passes-away-donald-ingram-police-chase-highway-75-dallas)
-
-### [Woman dies after being shot by murder suspect during Richardson police chase](https://www.fox4news.com/news/sherrie-moore-passes-away-donald-ingram-police-chase-highway-75-dallas)
+### [Langford and García homer as the Rangers beat the A's 5-1 in final scheduled night game at Coliseum](https://www.fox4news.com/sports/langford-garcia-homer-rangers-beat-as-5-1-final-scheduled-night-game-coliseum)
 
 ###### [News](https://www.fox4news.com/news)
 
