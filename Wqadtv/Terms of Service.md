@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
         
         #### [Davenport City Council approves new code of conduct](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_360x203.jpg)](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
-        
-        #### [Doug Maxeiner approved as new Davenport city administrator](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f9012e3a-c125-47ce-af56-0badc9223d4d/20240926T033408/f9012e3a-c125-47ce-af56-0badc9223d4d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f9012e3a-c125-47ce-af56-0badc9223d4d/20240926T033408/f9012e3a-c125-47ce-af56-0badc9223d4d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WTSP/images/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a/20240926T145843/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a/20240926T145843/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helene-flooding-tampa-bay-area/67-09c0ffe2-8e50-4f60-b4a5-038ef2a55ab0)
         
-        #### [Mild temperatures extends through the upcoming weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Hurricane Helene brings flooding to the Tampa Bay area](https://www.wqad.com/article/weather/hurricane/hurricane-helene-flooding-tampa-bay-area/67-09c0ffe2-8e50-4f60-b4a5-038ef2a55ab0)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7ea4cef3-cc1b-4679-b03b-f4a48c80112a/20240926T121325/7ea4cef3-cc1b-4679-b03b-f4a48c80112a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7ea4cef3-cc1b-4679-b03b-f4a48c80112a/20240926T121325/7ea4cef3-cc1b-4679-b03b-f4a48c80112a_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Hurricane Helene is official, the potential historic path to the Midwest](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
+        #### [Nice warmth continues Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-53°
+75°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
