@@ -103,7 +103,7 @@ Resources
 About
 -----
 
-* [Discord Community](https://discord.com/invite/bespokefundingprogram)
+* [Discord Community](https://discord.com/invite/rvvVFKJvAn)
 * [Instagram Community](https://www.instagram.com/bespokefundingprogram/)
 * [Official Twitter Page](https://twitter.com/Bespoke_Funding)
 
