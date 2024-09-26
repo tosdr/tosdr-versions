@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Trump announces return to Butler, Pennsylvania — site of first assassination attempt](https://nypost.com/2024/09/25/us-news/trump-announces-return-to-butler-pa-site-of-first-assassination-attempt/)
+[NYC Mayor Eric Adams indicted by grand jury in historic federal probe: sources](https://nypost.com/2024/09/25/us-news/nyc-mayor-eric-adams-indicted-by-grand-jury-in-historic-federal-probe-sources/)
 
 Terms Of Use
 ============
