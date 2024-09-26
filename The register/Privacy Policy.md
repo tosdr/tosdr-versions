@@ -69,7 +69,7 @@ Vendor Voice
 [Vendor Voice](#subnav-box-nav-tag-vendor-voice)
 ------------------------------------------------
 
-[All Vendor Voice](https://www.theregister.com/VendorVoice/) [Siemens and AWS Gen AI](https://www.theregister.com/VendorVoice/siemens_aws/) [Amazon Web Services (AWS) New Horizon in Cloud Computing](https://www.theregister.com/VendorVoice/aws_new_horizon_solutions/) [Google Gemini](https://www.theregister.com/VendorVoice/google_gemini/) [Hewlett Packard Enterprise: Edge-to-Cloud Platform](https://www.theregister.com/VendorVoice/hpe_greenlake/) [Intel vPro](https://www.theregister.com/VendorVoice/intelvpro/) [VMware](https://www.theregister.com/VendorVoice/vmware/)
+[All Vendor Voice](https://www.theregister.com/VendorVoice/) [Siemens and AWS Gen AI](https://www.theregister.com/VendorVoice/siemens_aws/) [Amazon Web Services (AWS) New Horizon in Cloud Computing](https://www.theregister.com/VendorVoice/aws_new_horizon_solutions/) [DDN](https://www.theregister.com/VendorVoice/ddn/) [Google Gemini](https://www.theregister.com/VendorVoice/google_gemini/) [Hewlett Packard Enterprise: Edge-to-Cloud Platform](https://www.theregister.com/VendorVoice/hpe_greenlake/) [Intel vPro](https://www.theregister.com/VendorVoice/intelvpro/) [VMware](https://www.theregister.com/VendorVoice/vmware/)
 
 [(X)](#masthead)
 
