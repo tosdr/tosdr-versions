@@ -126,6 +126,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Backup and Recovery
+
+There’s Hidden Value in Your Salesforce Backup Data—Don’t Let It Go to Waste](https://www.ownbackup.com/blog/theres-hidden-value-in-your-salesforce-backup-data--dont-let-it-go-to-waste)
+
 [On-Platform Development
 
 The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
@@ -133,10 +137,6 @@ The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have B
 [Events
 
 Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/blog/dreamforce-2024-transforming-insights-into-action)
-
-[ServiceNow
-
-How to Make ServiceNow Data More Resilient and Compliant](https://www.ownbackup.com/blog/how-to-make-servicenow-data-more-resilient-and-compliant)
 
 Company
 
@@ -348,6 +348,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Backup and Recovery
+
+There’s Hidden Value in Your Salesforce Backup Data—Don’t Let It Go to Waste](https://www.ownbackup.com/blog/theres-hidden-value-in-your-salesforce-backup-data--dont-let-it-go-to-waste)
+
 [On-Platform Development
 
 The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have Both?](https://www.ownbackup.com/blog/the-speed-vs-quality-tradeoff-in-software-development-is-it-possible-to-have-both)
@@ -355,10 +359,6 @@ The Speed vs. Quality Tradeoff in Software Development: Is it Possible to Have B
 [Events
 
 Dreamforce 2024: Transforming Insights into Action](https://www.ownbackup.com/blog/dreamforce-2024-transforming-insights-into-action)
-
-[ServiceNow
-
-How to Make ServiceNow Data More Resilient and Compliant](https://www.ownbackup.com/blog/how-to-make-servicenow-data-more-resilient-and-compliant)
 
 Company
 
