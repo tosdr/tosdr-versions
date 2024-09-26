@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [DRAGON BALL: Sparking! ZERO: Know Your Fighters!](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-sparking-zero-know-your-fighters)
 * [BLEACH Rebirth of Souls is set to launch in Early 2025](https://en.bandainamcoent.eu/bleach/news/bleach-rebirth-of-souls-set-launch-early-2025)
-* [Discover sci-fi adventures with SYNDUALITY Echo of Ada, launching January 24, 2025](https://en.bandainamcoent.eu/synduality/news/discover-sci-fi-adventures-synduality-echo-of-ada-launching-january-24-2025)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
