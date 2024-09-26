@@ -1,11 +1,5 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-Turn $200 off into $300 off!
-
-Turn $200 off into $300 off!
-
-Turn $200 off into $300 off!
-
 Save $200 on the Enhance Select 500! [Shop](https://www.listenlively.com/product)
 
 Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
@@ -18,7 +12,7 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 100-day risk-free trial and US-based customer support!
 
-[Fall colors are fading!Fall colors are fading!Fall colors are fading! **Sale ends in 2d : 1h : 23m**](https://www.listenlively.com/product)
+[Fall colors are fading!Fall colors are fading!Fall colors are fading! **Sale ends in 1d : 19h : 24m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -29,6 +23,8 @@ Schedule call[(800) 854-2772](tel:8008542772)
 [](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Previous
 
@@ -79,9 +75,13 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 **Shop now**](https://www.listenlively.com/product)
 
-“Best if you're new to hearing aids”
+“Best Hearing Aids of 2024 Editor's Pick”
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Next
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
