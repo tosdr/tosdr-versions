@@ -97,7 +97,7 @@
     
     Online Learning Live Webinars CE Info
     
-    [![](https://www.nccdp.org/wp-content/uploads/2024/08/ANCC-Badge-min-150x150.png)](https://www.nccdp.org/seminars/staff-training/distributed-training/)
+    [![](https://www.nccdp.org/wp-content/uploads/2024/08/ANCC-Badge-min-150x150.png)](https://www.nccdp.org/online-courses-and-ceus/)
     
     ### Online Courses & CEUs
     
