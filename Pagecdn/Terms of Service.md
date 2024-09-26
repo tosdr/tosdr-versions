@@ -13,7 +13,7 @@ If you're looking for a high performance CDN, check out our [affordable CDN plan
   
 You can also view our [high performance CDN network](https://pagecdn.com/network/), or learn more about CDNs in our [blog](https://pagecdn.com/blog/).
 
-[View Pricing & Signup](https://pagecdn.com/pricing/)
+[Plans from $5/m - Signup Now](https://pagecdn.com/pricing/)
 
 Speed up your web site today!
 -----------------------------
