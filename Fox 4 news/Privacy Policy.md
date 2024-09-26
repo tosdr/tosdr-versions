@@ -400,37 +400,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![NYC Mayor Adams indicted on criminal charges: reports](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/snapshot-19-1.jpg?ve=1&tl=1)
+ [![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/7ae61765-slot1-1.jpg?ve=1&tl=1)
 
- ![NYC Mayor Adams indicted on criminal charges: reports](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/02/32/18/592/333/snapshot-19-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
+ ![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/7ae61765-slot1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-florida-updates)
 
-Breaking News
-
-### [NYC Mayor Adams indicted on criminal charges: reports](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
-
- [![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/slot2-33.jpg?ve=1&tl=1)
-
- ![Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/slot2-33.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-florida-updates)
+Live Now
 
 ### [Live updates: Hurricane Helene forecast to hit Florida as Category 4 storm](https://www.fox4news.com/news/hurricane-helene-florida-updates)
 
- [![California man accused blowing up courthouse on his court date](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/vlcsnap-2024-09-25-16h29m53s223.jpg?ve=1&tl=1)
+ [![Dallas City Council approves Forward Dallas plan, first zoning update in 18 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1)
 
- ![California man accused blowing up courthouse on his court date](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/vlcsnap-2024-09-25-16h29m53s223.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/explosion-reported-santa-maria-courthouse)
+ ![Dallas City Council approves Forward Dallas plan, first zoning update in 18 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
 
-### [California man accused blowing up courthouse on his court date](https://www.fox4news.com/news/explosion-reported-santa-maria-courthouse)
+### [Dallas City Council approves Forward Dallas plan, first zoning update in 18 years](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
 
- [![Dallas City Council approves Forward Dallas plan, first zoning udpate in 18 years](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1)
+ [![16-year-old boy dies from Haltom City road rage shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/P-PEYTON-HALTOM-CITY-ROAD-RAGE-SHOOTING-9P_00.01.39.56.jpg?ve=1&tl=1)
 
- ![Dallas City Council approves Forward Dallas plan, first zoning udpate in 18 years](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-LORI-FORWARD-DALLAS-UPDATE-5P_00.00.47.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
+ ![16-year-old boy dies from Haltom City road rage shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/P-PEYTON-HALTOM-CITY-ROAD-RAGE-SHOOTING-9P_00.01.39.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/16-year-old-boy-dies-from-haltom-city-road-rage-shooting)
 
-### [Dallas City Council approves Forward Dallas plan, first zoning udpate in 18 years](https://www.fox4news.com/news/dallas-city-council-decide-fate-forward-dallas-zoning-plan)
+### [16-year-old boy dies from Haltom City road rage shooting](https://www.fox4news.com/news/16-year-old-boy-dies-from-haltom-city-road-rage-shooting)
 
- [![Waxahachie youth pastor who impregnated 14-year-old girl gets 50-year prison sentence](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Marvin-Scales-mug.jpg?ve=1&tl=1)
+ [![NYC Mayor Adams indicted on federal criminal charges](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1)
 
- ![Waxahachie youth pastor who impregnated 14-year-old girl gets 50-year prison sentence](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Marvin-Scales-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/waxahachie-youth-pastor-who-impregnated-14-year-old-girl-gets-50-year-prison-sentence)
+ ![NYC Mayor Adams indicted on federal criminal charges](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
 
-### [Waxahachie youth pastor who impregnated 14-year-old girl gets 50-year prison sentence](https://www.fox4news.com/news/waxahachie-youth-pastor-who-impregnated-14-year-old-girl-gets-50-year-prison-sentence)
+### [NYC Mayor Adams indicted on federal criminal charges](https://www.fox4news.com/news/nyc-mayor-adams-indicted-investigations)
+
+ [![Woman dies after being shot by murder suspect during Richardson police chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092524-CB-DAVID-RICHARDSON-CHASE_SHOOTING-FOLO-9P-_00.00.39.02.jpg?ve=1&tl=1)
+
+ ![Woman dies after being shot by murder suspect during Richardson police chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092524-CB-DAVID-RICHARDSON-CHASE_SHOOTING-FOLO-9P-_00.00.39.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sherrie-moore-passes-away-donald-ingram-police-chase-highway-75-dallas)
+
+### [Woman dies after being shot by murder suspect during Richardson police chase](https://www.fox4news.com/news/sherrie-moore-passes-away-donald-ingram-police-chase-highway-75-dallas)
 
 ###### [News](https://www.fox4news.com/news)
 
