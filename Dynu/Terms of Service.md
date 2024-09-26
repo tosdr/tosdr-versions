@@ -304,10 +304,12 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Would cloud based computing and networking resources help your business? Check out more details about cloud computing!
+#### Ready to get started?
 
   
-[What is cloud computing?](https://www.dynu.com/What-Is-Cloud-Computing)  
+Sign up for a free dynamic DNS account, no credit card needed  
+  
+[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
   
 
 ### News
