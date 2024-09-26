@@ -14,6 +14,33 @@ Clear
 
 Search
 
+translate-container mobile-version
+----------------------------------
+
+mobile-header-portals-nav
+-------------------------
+
+* [Safety Concern(opens in new window/tab)](https://lwsd-wa.safeschoolsalert.com/)
+* [Help](https://www.lwsd.org/help)
+    
+    * [Annual Notifications](https://www.lwsd.org/help/annual-notifications)
+    * [ClassLink](https://www.lwsd.org/help/classlink)
+    * [Contact Us](https://www.lwsd.org/help/contact-us)
+    * [Crisis Resources](https://www.lwsd.org/help/crisis-resources)
+    * [Directions to Administrative Offices](https://www.lwsd.org/help/driving-directions-to-administrative-offices)
+    * [Guide to Parent Logins](https://www.lwsd.org/help/guide-to-parent-logins)
+    * [Online Payment Support](https://www.lwsd.org/help/online-payment-support)
+    * [ParentSquare](https://www.lwsd.org/help/parentsquare)
+    * [Password Registration and Recovery](https://www.lwsd.org/help/password-registration-and-recovery)
+    * [Report a Facilities Issue](https://www.lwsd.org/help/report-a-facilities-issue)
+    * [Report a Safety Concern(opens in new window/tab)](https://lwsd-wa.safeschoolsalert.com/)
+    * [Skyward Family Access Support](https://www.lwsd.org/help/skyward-family-access)
+    * [Skyward Student Access Support](https://www.lwsd.org/help/skyward-student-access-support)
+    * [Student Password](https://www.lwsd.org/help/student-password)
+    * [Website Accessibility](https://www.lwsd.org/help/website-accessibility)
+    * [Website Feedback](https://www.lwsd.org/help/website-feedback)
+    
+
 mobile-staff-nav
 ----------------
 
@@ -206,33 +233,6 @@ mobile-main-nav
     
 * [November 2024 Levy](https://www.lwsd.org/2024-levy)
 
-mobile-header-portals-nav
--------------------------
-
-* [Safety Concern(opens in new window/tab)](https://lwsd-wa.safeschoolsalert.com/)
-* [Help](https://www.lwsd.org/help)
-    
-    * [Annual Notifications](https://www.lwsd.org/help/annual-notifications)
-    * [ClassLink](https://www.lwsd.org/help/classlink)
-    * [Contact Us](https://www.lwsd.org/help/contact-us)
-    * [Crisis Resources](https://www.lwsd.org/help/crisis-resources)
-    * [Directions to Administrative Offices](https://www.lwsd.org/help/driving-directions-to-administrative-offices)
-    * [Guide to Parent Logins](https://www.lwsd.org/help/guide-to-parent-logins)
-    * [Online Payment Support](https://www.lwsd.org/help/online-payment-support)
-    * [ParentSquare](https://www.lwsd.org/help/parentsquare)
-    * [Password Registration and Recovery](https://www.lwsd.org/help/password-registration-and-recovery)
-    * [Report a Facilities Issue](https://www.lwsd.org/help/report-a-facilities-issue)
-    * [Report a Safety Concern(opens in new window/tab)](https://lwsd-wa.safeschoolsalert.com/)
-    * [Skyward Family Access Support](https://www.lwsd.org/help/skyward-family-access)
-    * [Skyward Student Access Support](https://www.lwsd.org/help/skyward-student-access-support)
-    * [Student Password](https://www.lwsd.org/help/student-password)
-    * [Website Accessibility](https://www.lwsd.org/help/website-accessibility)
-    * [Website Feedback](https://www.lwsd.org/help/website-feedback)
-    
-
-translate-container mobile-version
-----------------------------------
-
 header-container
 ----------------
 
@@ -262,6 +262,9 @@ right-container
 right-top-container
 -------------------
 
+translate-container desktop-version
+-----------------------------------
+
 header-portals-nav
 ------------------
 
@@ -285,9 +288,6 @@ header-portals-nav
     * [Website Accessibility](https://www.lwsd.org/help/website-accessibility)
     * [Website Feedback](https://www.lwsd.org/help/website-feedback)
     
-
-translate-container desktop-version
------------------------------------
 
 staff-nav
 ---------
