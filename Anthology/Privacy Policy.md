@@ -554,7 +554,7 @@ Footer Menu
 Footer Menu
 -----------
 
-* [Anthology Community](https://www.anthology.com/community-and-support)
+* [Anthology Community](https://community.anthology.com/)
 * [Get Support](https://www.anthology.com/community-and-support)
 * [Brand Guidance](https://www.anthology.com/brand-guidance)
 * **We're Hiring!** [Join our team](https://www.anthology.com/about-us/careers "We’re hiring!")
