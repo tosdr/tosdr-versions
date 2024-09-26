@@ -89,24 +89,6 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Pricing Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Privacy Policy
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Cookie Statement
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
-
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### API T&C
@@ -136,6 +118,24 @@ All
 ### Developer Website T&C
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### iDIN T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mastercard Chargeback T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mobile Wallet T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 Load more
 
@@ -163,24 +163,6 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Pricing Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Privacy Policy
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Cookie Statement
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
-
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### API T&C
@@ -211,6 +193,24 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
 
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### iDIN T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mastercard Chargeback T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mobile Wallet T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
+
 Load more
 
 ![icon entry point for Site Search](https://framerusercontent.com/images/7P9NYdUF6WL8xPNH8CdC2hhlLjc.svg)
@@ -236,24 +236,6 @@ All
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Business Account T&C](https://www.bunq.com/assets/media/legal/en/documents/business-account)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Pricing Sheet](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Cookie Statement](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
@@ -284,6 +266,24 @@ All
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Developer Website T&C](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### iDIN T&C](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Mastercard Chargeback T&C](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Mobile Wallet T&C](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 Load more
 
