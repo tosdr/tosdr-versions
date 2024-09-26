@@ -614,7 +614,7 @@ HOW WILL DISPUTES REGARDING THE PRIVACY NOTICE BE HANDLED?
 * Under certain conditions for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, more fully described on the Data Privacy Framework website [**https://www.dataprivacyframework.gov/**](https://www.dataprivacyframework.gov/), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 * If you are a consumer of Yodlee powered services delivered through a Yodlee client, that  client’s data governance and privacy practices apply to those services. For more information on those policies please review their applicable terms of service/ privacy notices.
 
-###### Company
+Company
 
 * [About Us](https://www.yodlee.com/company "We Are The Market Leader in Financial Data Aggregation.")
 * [Contact Sales](https://www.yodlee.com/company/contact-us)
@@ -625,19 +625,19 @@ HOW WILL DISPUTES REGARDING THE PRIVACY NOTICE BE HANDLED?
 
  [](https://www.youtube.com/user/YodleeInc)[](https://www.linkedin.com/company/yodlee)[](https://twitter.com/Yodlee)[](https://www.facebook.com/Yodlee)
 
-###### Developers
+Developers
 
 * [Developer Portal](https://www.yodlee.com/fintech/developers)
 * [Pricing](https://www.yodlee.com/company/pricing)
 * [Data, Apps, & APIs](https://www.yodlee.com/financial-products/api-apps-data)
 * [Developer Support](https://www.yodlee.com/fintech/developers/support)
 
-###### Discover
+Discover
 
 * [Envestnet](https://www.envestnet.com/)
 * [Envestnet Retirement Solutions](https://www.envestnetrs.com/)
 
-###### More
+More
 
 * [Envestnet | Tamarac](http://www.tamaracinc.com/)
 * [Envestnet Analytics](https://www.envestnet.com/our-ecosystem)
