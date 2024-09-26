@@ -111,7 +111,6 @@ Location
         
         Media [In Focus](https://us.gsk.com/en-us/media/in-focus/)
         
-        * [Did You Know?](https://us.gsk.com/en-us/media/in-focus/red-dab-red-flag/)
         * [Flu is a Family Affair](https://us.gsk.com/en-us/media/in-focus/flu-is-a-family-affair/)
         * [Mapping Myelofibrosis](https://us.gsk.com/en-us/media/in-focus/mapping-myelofibrosis/)
         * [Five for Five](https://us.gsk.com/en-us/media/in-focus/five-for-five/)
