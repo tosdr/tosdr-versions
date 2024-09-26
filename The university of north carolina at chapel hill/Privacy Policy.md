@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/HERO-Chatbox-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/Bio-professor-hero-250x141.png)
     
-    Chatbot informs women about HIV prevention](https://www.unc.edu/posts/2024/09/24/chatbot-informs-women-about-hiv-prevention/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/AnthonyAbrahamJack_Hero-250x141.jpg)
+    Biology professor helps build 1,000 microscopes for NC schools](https://www.unc.edu/posts/2024/09/25/biology-professor-helps-build-1000-microscopes-for-nc-schools/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/HERO-SCiLL-250x141.png)
     
-    Renowned author to deliver Carolina Covenant anniversary lecture](https://www.unc.edu/posts/2024/09/24/renowned-author-to-deliver-carolina-covenant-anniversary-lecture/)
+    SCiLL to host inaugural event on 2024 election](https://www.unc.edu/posts/2024/09/25/scill-to-host-inaugural-event-on-2024-election/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=10e261360d&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=d3e4bbcb7f&text=%prefix%%text%%suffix%&post_id=247712&type=%type%)
 
 ### Share on Mastodon
 
