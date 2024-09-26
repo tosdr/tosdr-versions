@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: katekyou "alternate universe" sort:>words 
+* Work Search  tip: austen words:10000-50000 sort:title 
     
 
 > We're aware that many users are experiencing frequent forced logouts and errors. Our apologies for the inconvenience! Our volunteers are working on the problem - it isn't necessary to report it to our Support team. For some suggestions that might help reduce how often you are logged out or receive errors, please visit our [Known Issues page](https://archiveofourown.org/known_issues#current).
@@ -137,6 +137,6 @@ Adapted from Wikipedia's DMCA policy.
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.377.1](https://github.com/otwcode/otwarchive/commits/v0.9.377.1)
+    * [otwarchive v0.9.378.2](https://github.com/otwcode/otwarchive/commits/v0.9.378.2)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "The Organization for Transformative Works")
