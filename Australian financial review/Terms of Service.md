@@ -291,58 +291,55 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Mark Delaney, Debby Blakey, Matt Comyn.
-](https://static.ffx.io/images/$zoom_0.6775%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_11%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/17c1e39bb406ef270e387877cfc6e169f21a7783)](https://www.afr.com/companies/financial-services/power-list-reveals-diminished-influence-of-australia-s-corporate-sector-20240905-p5k87y)
+[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f405b71b6944403b43bd4f344ec17839043907f0)](https://www.afr.com/politics/federal/the-10-most-covertly-powerful-people-in-australia-in-2024-20240830-p5k6pa)
 
-### [Power list reveals diminished influence of Australia’s corporate sector](https://www.afr.com/companies/financial-services/power-list-reveals-diminished-influence-of-australia-s-corporate-sector-20240905-p5k87y)
+### [The 10 most covertly powerful people in Australia in 2024](https://www.afr.com/politics/federal/the-10-most-covertly-powerful-people-in-australia-in-2024-20240830-p5k6pa)
 
-* James Thomson
+* Tom McIlroy
 
-* ### [Australia’s 10 most powerful business leaders in 2024](https://www.afr.com/policy/economy/australia-s-10-most-powerful-business-leaders-in-2024-20240902-p5k744)
+* ### [Australia’s five most powerful people in education in 2024](https://www.afr.com/work-and-careers/education/australia-s-five-most-powerful-people-in-education-in-2024-20240826-p5k5ab)
     
-* ### [Australia’s top five powerbrokers in the law for 2024](https://www.afr.com/companies/professional-services/australia-s-top-five-powerbrokers-in-the-law-for-2024-20240823-p5k4og)
+* ### [Why Australia’s think tanks are a growing source of covert power](https://www.afr.com/politics/federal/why-australia-s-think-tanks-are-a-growing-source-of-covert-power-20240824-p5k50p)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![The Walt Disney Company’s managing director ANZ, Kylie Watson-Wheeler, is also president of AFL club the Western Bulldogs.](https://static.ffx.io/images/$zoom_0.9106%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_923%2C$y_1199/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/07972d4c9090d3a780ce0db627e27a60711e2750)](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
+[![Georgia Hewett was chief of staff to two CEOs.](https://static.ffx.io/images/$zoom_0.5365%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1294%2C$y_581/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/077f2f7769b20e5d2de100c9a64247c8dee25af9)](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
 
-### [Disney chief goes retro for AFL finals to reel in streaming rivals](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
+### [Why becoming a chief of staff is good for your career](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
 
-* Patrick Durkin
+* Sally Patten
 
-* ### [AFL more important to Khuda than data centres, Swans chairman suspects](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
+* ### [Disney chief goes retro for AFL finals to reel in streaming rivals](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
     
-* ### [Tabcorp CEO Gill McLachlan orders staff back to office five days a week](https://www.afr.com/work-and-careers/workplace/tabcorp-ceo-gill-mclachlan-orders-staff-back-to-office-five-days-a-week-20240909-p5k8xt)
+* ### [AFL more important to Khuda than data centres, Swans chairman suspects](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5413%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_383/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/35263ea407f864e7f9d0c4aae47bbab81ff81bce)](https://www.afr.com/life-and-luxury/fashion-and-style/everyday-objects-that-will-give-you-and-your-home-a-lift-20240918-p5kbhu)
+[![People view, (left-right) Sunflowers,1888, La Berceuse (The Lullaby), 1889 and Sunflowers, 1889 on display during the preview for the National Gallery’s Van Gogh: Poets and Lovers exhibition at the National Gallery, London. ](https://static.ffx.io/images/$zoom_0.353%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/90e15021ba69295579a36da433dd51a1b3abb45b)](https://www.afr.com/life-and-luxury/travel/the-perfect-autumn-weekend-in-london-20240920-p5kc9o)
 
-### [Everyday objects that will give you and your home a lift](https://www.afr.com/life-and-luxury/fashion-and-style/everyday-objects-that-will-give-you-and-your-home-a-lift-20240918-p5kbhu)
+### [The perfect autumn weekend in London](https://www.afr.com/life-and-luxury/travel/the-perfect-autumn-weekend-in-london-20240920-p5kc9o)
 
-* Eugenie Kelly
+* Alison Taylor
 
-* ### [Dolce&Gabbana CEO in Australia to party and sell the dream](https://www.afr.com/life-and-luxury/fashion-and-style/dolce-and-gabbana-ceo-in-australia-to-party-and-sell-the-dream-20240918-p5kbh6)
+* ### [Seven must-see shows this October](https://www.afr.com/life-and-luxury/arts-and-culture/seven-must-see-shows-this-october-20240911-p5k9ph)
     
-* ### [This is one of the quietest cars we’ve ever driven](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-is-one-of-the-quietest-cars-we-ve-ever-driven-20240905-p5k80h)
+* ### [Everyday objects that will give you and your home a lift](https://www.afr.com/life-and-luxury/fashion-and-style/everyday-objects-that-will-give-you-and-your-home-a-lift-20240918-p5kbhu)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Nicola Forrest and John Hartman at the site of the Uungula wind farm near Wellington in NSW. ](https://static.ffx.io/images/$zoom_0.4314%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_712%2C$y_330/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/088ad095c1c2bd8062e1067bc5681e601831ed1f)](https://www.afr.com/wealth/people/hartman-exit-leaves-separated-forrests-occupying-tattarang-board-20240925-p5kdh1)
+[![The Fin - Patrick Durkin and Max Mason](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1aaf4fa4371973f68376c8f286fa15a9e6b4f458)](https://www.afr.com/companies/manufacturing/why-the-pratts-are-fighting-over-the-family-fortune-20240925-p5kdc1)
 
-### [Hartman exit leaves separated Forrests occupying Tattarang board](https://www.afr.com/wealth/people/hartman-exit-leaves-separated-forrests-occupying-tattarang-board-20240925-p5kdh1)
+### [Why the Pratts are fighting over the family fortune](https://www.afr.com/companies/manufacturing/why-the-pratts-are-fighting-over-the-family-fortune-20240925-p5kdc1)
 
-* Brad Thompson and Peter Ker
-
-* ### [Rich Lister’s Mexican chain locks in 400th location](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
+* ### [Hartman exit leaves separated Forrests occupying Tattarang board](https://www.afr.com/wealth/people/hartman-exit-leaves-separated-forrests-occupying-tattarang-board-20240925-p5kdh1)
     
-* ### [Online casino mogul gets into lotteries as profits surge](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-gaming-empire-gets-into-lotto-as-profits-surge-20240918-p5kbhh)
+* ### [Rich Lister’s Mexican chain locks in 400th location](https://www.afr.com/rich-list/rich-lister-s-mexican-chain-locks-in-400th-location-20240920-p5kc89)
     
 
 [The Australian Financial Review](https://www.afr.com/)
