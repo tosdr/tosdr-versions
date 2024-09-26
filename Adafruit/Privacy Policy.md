@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are the music makers, And we are the dreamers of dreams”
+“ You're only given one little spark of madness. You mustn't lose it”
 
-[Arthur O'Shaughnessy](http://en.wikipedia.org/wiki/Arthur_O'Shaughnessy)
+[Robin Williams](http://en.wikipedia.org/wiki/Robin_Williams)
 
 [](https://www.adafruit.com/about)
 
