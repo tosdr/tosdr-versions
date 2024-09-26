@@ -386,7 +386,7 @@ Partner with the top-ranking DSP in the market.
 
 ![Top 50 Marketing and Digital Advertising Products Best Software Awards 2024](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/g2_best_software_2024_badge_marketing_and_digital-advertising_products-1.svg)
 
-![G2 Summer badge](https://d343x6qscsp61h.cloudfront.net/sites/3/20240904154447/g2_summer_badge.svg)
+![G2 Leader Fall 2024 Awards Badge](https://d343x6qscsp61h.cloudfront.net/sites/3/20240926181144/g2_fall_2024_footer.svg)
 
 ![AdAge Best Places to Work 2024 StackAdapt MultiYear Winner 2024 2023 2022](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/adage_best_work_2024.svg)
 
