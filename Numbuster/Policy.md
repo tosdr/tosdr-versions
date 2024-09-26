@@ -96,9 +96,15 @@ Manage permissons ![](/images/flag/english.png) English
 
 **CONSENT TO PERSONAL DATA PROCESSING.** By using the site, you agree that we use cookies to personalize the user experience, measure user engagement and manage advertisements.
 
+\\n\\n
+
 By using this Internet resource, I give my consent to Gilraen Limited (Cyprus) as the owner of the NumBuster service for my personal data machine processing (i.e., cookie files, information about the actions I perform on this Internet resource or devices I use) by data collection, recording, classification, accumulation, storage, clarification (updating or amending), extraction, consumption, blocking, deletion or termination, including using the Google Analytics service.
 
+\\n\\n
+
 Data processing helps improve the operation of this Internet resource and its services. This consent is valid from the moment it is provided and during the entire period of using this Internet resource. I am notified to stop using this Internet resource or disable cookies in my web browser settings in case of refusal to personal data processing.
+
+\\n\\n
 
 [Cookie Policy](https://numbuster.com/en/cookies)
 
@@ -114,7 +120,7 @@ Data processing helps improve the operation of this Internet resource and its se
     Learn more Minimize 
 * #### Unclassified
     
-    Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+    Cookies that we process and classify in collaboration with the providers of individual cookies and related services.
     
     Learn more Minimize
 
