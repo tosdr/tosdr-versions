@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Mexican Senate Votes to Put National Guard Under Military Control](https://www.theepochtimes.com/world/mexican-senate-votes-to-put-national-guard-under-military-control-5730479)
+    
+    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Mexican Senate Votes to Put National Guard Under Military Control](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Mexican Senate Votes to Put National Guard Under Military Control](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730483-AP_Pictures_of_the_Week_Photo_Gallery_24263685445041-205x123.jpg.webp)](https://www.theepochtimes.com/world/mexican-senate-votes-to-put-national-guard-under-military-control-5730479)
+* [Zelenskyy to Meet With Biden, Harris to Present ‘Victory Plan’](https://www.theepochtimes.com/us/zelenskyy-to-meet-with-biden-harris-to-present-victory-plan-5730027)
+    
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Zelenskyy to Meet With Biden, Harris to Present ‘Victory Plan’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Zelenskyy to Meet With Biden, Harris to Present ‘Victory Plan’](https://img.theepochtimes.com/assets/uploads/2022/12/21/Zelenskyy-Biden-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/zelenskyy-to-meet-with-biden-harris-to-present-victory-plan-5730027)
+* [Chinese Financial Executives Resign in Droves Amid Heightened Scrutiny](https://www.theepochtimes.com/china/chinese-financial-executives-resign-in-droves-amid-heightened-scrutiny-5729497)
+    
+    NEW By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Shawn Lin](https://www.theepochtimes.com/author/shawn-lin)
+    
+    [![Chinese Financial Executives Resign in Droves Amid Heightened Scrutiny](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Chinese Financial Executives Resign in Droves Amid Heightened Scrutiny](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729511-GettyImages-479864820-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-financial-executives-resign-in-droves-amid-heightened-scrutiny-5729497)
+* [New York Court to Hear Trump’s Appeal of $489 Million Civil Fraud Ruling](https://www.theepochtimes.com/us/new-york-court-to-hear-trumps-appeal-of-489-million-civil-fraud-ruling-5730280)
+    
+    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![New York Court to Hear Trump’s Appeal of $489 Million Civil Fraud Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York Court to Hear Trump’s Appeal of $489 Million Civil Fraud Ruling](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729803-GettyImages-2174234110-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-court-to-hear-trumps-appeal-of-489-million-civil-fraud-ruling-5730280)
 * [New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://www.theepochtimes.com/us/new-york-city-mayor-eric-adams-indicted-by-grand-jury-media-sources-5730369)
     
-    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    8hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York City Mayor Eric Adams Indicted by Grand Jury: Media Sources](https://img.theepochtimes.com/assets/uploads/2024/06/02/id5661144-eric-adams-GettyImages-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-eric-adams-indicted-by-grand-jury-media-sources-5730369)
 * [Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://www.theepochtimes.com/us/trump-says-he-would-threaten-to-blow-iran-to-smithereens-over-assassination-threat-5730102)
     
-    2hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    8hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Says He Would Threaten to Blow Iran ‘to Smithereens’ Over Assassination Threat](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730118-Trump-Mint-Hill-e1727295119825-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-would-threaten-to-blow-iran-to-smithereens-over-assassination-threat-5730102)
 * [The ‘Chemical War’ Killing 70,000 Americans Each Year](https://www.theepochtimes.com/article/the-chemical-war-killing-70000-americans-each-year-5728621)
     
-    2hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    8hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
     [![The ‘Chemical War’ Killing 70,000 Americans Each Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![The ‘Chemical War’ Killing 70,000 Americans Each Year](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730082-Fentanyl-Trafficking-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-chemical-war-killing-70000-americans-each-year-5728621)
 * [California Courthouse Explosion: What We Know](https://www.theepochtimes.com/us/california-courthouse-explosion-what-we-know-5730271)
     
-    3hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
+    9hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
     
     [![California Courthouse Explosion: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![California Courthouse Explosion: What We Know](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730234-explosion-court-house-AP24269730206143-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-courthouse-explosion-what-we-know-5730271)
 * [House Passes Bill to Allow for Congressional Election Observers](https://www.theepochtimes.com/us/house-passes-bill-to-allow-for-congressional-election-observers-5730180)
     
-    4hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    10hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![House Passes Bill to Allow for Congressional Election Observers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![House Passes Bill to Allow for Congressional Election Observers](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723041-06252024-DSC08058-US-Capitol-LSedit-e1727307195167-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-passes-bill-to-allow-for-congressional-election-observers-5730180)
 * [H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://www.theepochtimes.com/health/h5n1-influenza-may-be-spreading-in-cows-by-milking-than-through-air-experts-weigh-in-5730287)
     
-    4hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    10hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
     [![H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![H5N1 Influenza May Be Spreading Through Cows via Milking Rather Than Air, Experts Weigh In](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730325-shutterstock_2476039745_dairy_milk_cow_flu_h5n1_influenza-205x123.jpg.webp)](https://www.theepochtimes.com/health/h5n1-influenza-may-be-spreading-in-cows-by-milking-than-through-air-experts-weigh-in-5730287)
-* [Harris Proposes New Incentive for Manufacturing During Pittsburgh Speech](https://www.theepochtimes.com/us/harris-proposes-new-incentive-for-manufacturing-during-pittsburgh-speech-5729992)
-    
-    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Harris Proposes New Incentive for Manufacturing During Pittsburgh Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Proposes New Incentive for Manufacturing During Pittsburgh Speech](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730170-Kamala-Harris_Pittsburgh-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-proposes-new-incentive-for-manufacturing-during-pittsburgh-speech-5729992)
-* [Arbitration Board Green-Lights Sale of US Steel to Nippon Steel Amid Union Resistance](https://www.theepochtimes.com/business/arbitration-board-green-lights-sale-of-us-steel-to-nippon-steel-amid-union-resistance-5730133)
-    
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Arbitration Board Green-Lights Sale of US Steel to Nippon Steel Amid Union Resistance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Arbitration Board Green-Lights Sale of US Steel to Nippon Steel Amid Union Resistance](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730314-CP173021998KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/arbitration-board-green-lights-sale-of-us-steel-to-nippon-steel-amid-union-resistance-5730133)
-* [Day in Photos: Vote of No Confidence, Campaign Rallies, and a Visiting King](https://www.theepochtimes.com/article/day-in-photos-vote-of-no-confidence-campaign-rallies-and-a-visiting-king-5729807)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Vote of No Confidence, Campaign Rallies, and a Visiting King](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Vote of No Confidence, Campaign Rallies, and a Visiting King](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730200-lead-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-vote-of-no-confidence-campaign-rallies-and-a-visiting-king-5729807)
-* [Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://www.theepochtimes.com/health/sodium-nitrite-suicides-on-the-rise-poison-centers-are-missing-them-5728503)
-    
-    6hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
-    
-    [![Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Sodium Nitrite Suicides on the Rise–Poison Centers Are Missing Them](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730237-shutterstock_2241435023_sodium_nitrite_suicide_preservative_toxic-205x123.jpg.webp)](https://www.theepochtimes.com/health/sodium-nitrite-suicides-on-the-rise-poison-centers-are-missing-them-5728503)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
