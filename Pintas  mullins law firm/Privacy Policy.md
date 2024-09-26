@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Why you shouldn’t use johnson and johnson baby products](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-why-you-shouldnt-use-johnson-and-johnson-baby-products.jpg "Why You Shouldn’t Use Johnson and Johnson Baby Products")](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/ "Why You Shouldn’t Use Johnson and Johnson Baby Products")
+[![Who do i file a complaint with about a home health aide?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-do-i-file-a-complaint-with-about-a-home-health-aide-scaled.jpg "Who Do I File a Complaint With About a Home Health Aide?")](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/ "Who Do I File a Complaint With About a Home Health Aide?")
 
-[#### Why You Shouldn’t Use Johnson and Johnson Baby Products](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/)
+[#### Who Do I File a Complaint With About a Home Health Aide?](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/)
 
 [![Do you need a lung transplant if you have mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-do-you-need-a-lung-transplant-if-you-have-mesothelioma.jpg "Do You Need a Lung Transplant if You Have Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/ "Do You Need a Lung Transplant if You Have Mesothelioma?")
 
 [#### Do You Need a Lung Transplant if You Have Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/)
 
-[![Can lung cancer be seen on a ct scan?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-lung-cancer-be-seen-on-a-ct-scan.jpg "Can Lung Cancer Be Seen on a CT Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/ "Can Lung Cancer Be Seen on a CT Scan?")
+[![Has sex abuse happened in mormon schools?](https://www.pintas.com/wp-content/uploads/2023/04/mche-lee-PC91Jm1DlWA-unsplash-300x225.jpg "Has Sex Abuse Happened in Mormon Schools?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/ "Has Sex Abuse Happened in Mormon Schools?")
 
-[#### Can Lung Cancer Be Seen on a CT Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/)
+[#### Has Sex Abuse Happened in Mormon Schools?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
