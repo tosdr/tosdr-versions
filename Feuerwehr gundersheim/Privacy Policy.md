@@ -5,7 +5,7 @@ Sorry, you have Javascript Disabled! To see this page as it is meant to appear, 
 
 [Zum Inhalt springen](#content)
 
-25\. September 2024
+26\. September 2024
 
 [](https://www.facebook.com/freiwilligefeuerwehrgundersheim "Facebook")[](https://www.instagram.com/feuerwehr_gundersheim "Instagram")
 
