@@ -296,7 +296,6 @@ Suchen
             * [Ernährung](https://www.test.de/thema/ernaehrung/)
             * [Kaffeezubereitung](https://www.test.de/thema/kaffee/)
             * [Rezepte](https://www.test.de/thema/rezepte/)
-            * [Verpackungsärger & Mogelpackung](https://www.test.de/thema/verpackungsaerger-mogelpackung/)
         * [Alle Themen](https://www.test.de/thema/)
     * Immobilien
         * rückwärts Zurück
@@ -818,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
 
 Fußbereich
 
@@ -1211,7 +1210,6 @@ Suchen
             * [Ernährung](https://www.test.de/thema/ernaehrung/)
             * [Kaffeezubereitung](https://www.test.de/thema/kaffee/)
             * [Rezepte](https://www.test.de/thema/rezepte/)
-            * [Verpackungsärger & Mogelpackung](https://www.test.de/thema/verpackungsaerger-mogelpackung/)
         * [Alle Themen](https://www.test.de/thema/)
     * Immobilien
         * rückwärts Zurück
@@ -1564,7 +1562,6 @@ Suchen
             * [Ernährung](https://www.test.de/thema/ernaehrung/)
             * [Kaffeezubereitung](https://www.test.de/thema/kaffee/)
             * [Rezepte](https://www.test.de/thema/rezepte/)
-            * [Verpackungsärger & Mogelpackung](https://www.test.de/thema/verpackungsaerger-mogelpackung/)
         * [Alle Themen](https://www.test.de/thema/)
     * Immobilien
         * rückwärts Zurück
@@ -1900,7 +1897,6 @@ Suchen
             * [Ernährung](https://www.test.de/thema/ernaehrung/)
             * [Kaffeezubereitung](https://www.test.de/thema/kaffee/)
             * [Rezepte](https://www.test.de/thema/rezepte/)
-            * [Verpackungsärger & Mogelpackung](https://www.test.de/thema/verpackungsaerger-mogelpackung/)
         * [Alle Themen](https://www.test.de/thema/)
     * Immobilien
         * rückwärts Zurück
@@ -3863,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
 
 Weitere spannende Themen
 
@@ -3883,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
 
 Neueste Tests
 
@@ -3901,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
 
 Service Stiftung Warentest
 
