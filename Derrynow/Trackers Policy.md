@@ -266,19 +266,21 @@ Most Popular
 [Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1614084/throwback-thursday-partytime-out-and-about-derry-2009.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Main road between Derry and Limavady closed to traffic following crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Main road between Derry and Limavady closed to traffic following crash")](https://www.derrynow.com/news/home/1615076/main-road-between-derry-and-limavady-closed-to-traffic-following-crash.html)
+
+The PSNI are advising motorists to avoid the Clooney Road.
+
+[Home](https://www.derrynow.com/)
+
+[Main road between Derry and Limavady closed to traffic following crash](https://www.derrynow.com/news/home/1615076/main-road-between-derry-and-limavady-closed-to-traffic-following-crash.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1614086/derry-death-notices-thursday-26th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Thursday, 26th September 2024](https://www.derrynow.com/news/deaths/1614086/derry-death-notices-thursday-26th-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballymena drugs dealer (45) sentenced in Derry court for offences linked to EncroChat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymena drugs dealer (45) sentenced in Derry court for offences linked to EncroChat")](https://www.derrynow.com/news/crime---courts/1614139/ballymena-drugs-dealer-45-sentenced-in-derry-court-for-offences-linked-to-encrochat.html)
-
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
-
-[Ballymena drugs dealer (45) sentenced in Derry court for offences linked to EncroChat](https://www.derrynow.com/news/crime---courts/1614139/ballymena-drugs-dealer-45-sentenced-in-derry-court-for-offences-linked-to-encrochat.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November")](https://www.derrynow.com/news/local-news/1614785/derry-woman-who-stole-10-000-from-alcoholics-anonymous-to-be-sentenced-in-november.html)
 
@@ -289,6 +291,13 @@ Derry Crown Court
 [Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November](https://www.derrynow.com/news/local-news/1614785/derry-woman-who-stole-10-000-from-alcoholics-anonymous-to-be-sentenced-in-november.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Clooney Road between Derry and Limavady closed due to road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clooney Road between Derry and Limavady closed due to road traffic collision")](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[UPDATE: Clooney Road between Derry and Limavady closed due to road traffic collision](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Drug-driver put off the road after detection in Letterkenny](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug-driver put off the road after detection in Letterkenny")](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
 
 The man was stopped for careless driving and tested positive for cannabis
@@ -298,12 +307,30 @@ The man was stopped for careless driving and tested positive for cannabis
 [Derry drug-driver put off the road after detection in Letterkenny](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Limavady Grammar School Prize Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Limavady Grammar School Prize Day")](https://www.derrynow.com/news/pictures---videos/1614105/pictures-limavady-grammar-school-prize-day.html)
+[![Man described as being involved in 'prolonged persistent street level dealing' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man described as being involved in 'prolonged persistent street level dealing' jailed")](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Derry Crown Court
 
-[PICTURES: Limavady Grammar School Prize Day](https://www.derrynow.com/news/pictures---videos/1614105/pictures-limavady-grammar-school-prize-day.html)
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man described as being involved in 'prolonged persistent street level dealing' jailed](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry pleads guilty to series of drugs charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pleads guilty to series of drugs charges")](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry pleads guilty to series of drugs charges](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man returned for trial to Derry Crown Court on series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on series of charges")](https://www.derrynow.com/news/local-news/1614881/man-returned-for-trial-to-derry-crown-court-on-series-of-charges.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man returned for trial to Derry Crown Court on series of charges](https://www.derrynow.com/news/local-news/1614881/man-returned-for-trial-to-derry-crown-court-on-series-of-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry church to launch 'Buy a Brick' appeal for new parish centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry church to launch 'Buy a Brick' appeal for new parish centre")](https://www.derrynow.com/news/local-news/1614766/county-derry-church-to-launch-buy-a-brick-appeal-for-new-parish-centre.html)
 
@@ -314,34 +341,18 @@ Artists impression of the new Canice Centre in Eglinton
 [County Derry church to launch 'Buy a Brick' appeal for new parish centre](https://www.derrynow.com/news/local-news/1614766/county-derry-church-to-launch-buy-a-brick-appeal-for-new-parish-centre.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry pleads guilty to series of drugs charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pleads guilty to series of drugs charges")](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry pleads guilty to series of drugs charges](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Reception for United Against Racism Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Reception for United Against Racism Derry")](https://www.derrynow.com/story-telling/pictures---videos/1614085/in-pictures-reception-for-united-against-racism-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Reception for United Against Racism Derry](https://www.derrynow.com/story-telling/pictures---videos/1614085/in-pictures-reception-for-united-against-racism-derry.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh")](https://www.derrynow.com/news/home/1614022/dungiven-campaign-group-react-angrily-to-plans-to-erect-more-wind-turbines-on-benbradagh.html)
-
-Members of the Dungiven community stage a protest outside the public consultation event for another proposed windfarm on Benbradagh.
-
-[Home](https://www.derrynow.com/)
-
-[Dungiven campaign group react angrily to plans to erect more wind turbines on Benbradagh](https://www.derrynow.com/news/home/1614022/dungiven-campaign-group-react-angrily-to-plans-to-erect-more-wind-turbines-on-benbradagh.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: St Joseph's Boys School Senior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Joseph's Boys School Senior Prizegiving")](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: St Joseph's Boys School Senior Prizegiving](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Thursday: Partytime out and about Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1614084/throwback-thursday-partytime-out-and-about-derry-2009.html)
 
@@ -407,13 +418,6 @@ Elodie Bateson from Limavady
 
 [IN PICTURES: Official opening of the Peacemakers Museum in Derry](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Family Fun Day at the Village Community Hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Family Fun Day at the Village Community Hub")](https://www.derrynow.com/news/pictures---videos/1612072/pictures-family-fun-day-at-the-village-community-hub.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Family Fun Day at the Village Community Hub](https://www.derrynow.com/news/pictures---videos/1612072/pictures-family-fun-day-at-the-village-community-hub.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,55 +519,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man returned for trial to Derry Crown Court on series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on series of charges")](https://www.derrynow.com/news/local-news/1614881/man-returned-for-trial-to-derry-crown-court-on-series-of-charges.html)
+[![SSE Renewables Scholarship Fund 2024 opens for applications](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SSE Renewables Scholarship Fund 2024 opens for applications")](https://www.derrynow.com/news/county-derry-post/1615198/sse-renewables-scholarship-fund-2024-opens-for-applications.html)
 
-Derry Crown Court
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[SSE Renewables Scholarship Fund 2024 opens for applications](https://www.derrynow.com/news/county-derry-post/1615198/sse-renewables-scholarship-fund-2024-opens-for-applications.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Man returned for trial to Derry Crown Court on series of charges](https://www.derrynow.com/news/local-news/1614881/man-returned-for-trial-to-derry-crown-court-on-series-of-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[!['It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members")](https://www.derrynow.com/news/county-derry-post/1615389/it-is-recognised-that-there-is-more-to-do-to-improve-and-protect-our-vital-road-network-dfi-tells-mid-ulster-council-members.html)
 
-[![Man described as being involved in 'prolonged persistent street level dealing' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man described as being involved in 'prolonged persistent street level dealing' jailed")](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
+Members of the council received an update on road maintenance and improvement works in the area.
 
-Derry Crown Court
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Local News](https://www.derrynow.com/section/975/news)
+['It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members](https://www.derrynow.com/news/county-derry-post/1615389/it-is-recognised-that-there-is-more-to-do-to-improve-and-protect-our-vital-road-network-dfi-tells-mid-ulster-council-members.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Man described as being involved in 'prolonged persistent street level dealing' jailed](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Loup man nominated for trip to Lourdes by AOH Derry County Board](https://www.derrynow.com/resizer/165/93/true/2024_09_26/IMG_3032-1727358330185_1727358472.JPG--.JPG?1727358472026 "Loup man nominated for trip to Lourdes by AOH Derry County Board")](https://www.derrynow.com/news/home/1615072/loup-man-nominated-for-trip-to-lourdes-by-aoh-derry-county-board.html)
 
-[![Derry's Foyle Hospice to host very first Masquerade Ball](https://www.derrynow.com/resizer/165/93/true/2024_09_26/IDNM_30-9-24_masquerade_staff-1727346201945.jpeg--.jpeg?1727346202591 "Derry's Foyle Hospice to host very first Masquerade Ball")](https://www.derrynow.com/news/local-news/1614831/derry-s-foyle-hospice-to-host-very-first-masquerade-ball.html)
+Sean O'Neill (centre) pictured with County Board President, Charlie Collins (right) and County Board Secretary, Danny O'Kane (left).
 
-Foyle Hospice Staff with their masks at the ready for the upcoming Masquerade Ball.
+[Home](https://www.derrynow.com/)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Loup man nominated for trip to Lourdes by AOH Derry County Board](https://www.derrynow.com/news/home/1615072/loup-man-nominated-for-trip-to-lourdes-by-aoh-derry-county-board.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry's Foyle Hospice to host very first Masquerade Ball](https://www.derrynow.com/news/local-news/1614831/derry-s-foyle-hospice-to-host-very-first-masquerade-ball.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![An Irish Angel to feature on Friday in Louth International Film Festival 2024](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Publicity_Still__Teacher_Jamie_Louth-1727360874168.jpg--.jpg?1727360875172 "An Irish Angel to feature on Friday in Louth International Film Festival 2024")](https://www.derrynow.com/news/what-s-on/1615188/derry-filmmaker-s-an-irish-angel-to-feature-in-louth-international-film-festival-2024.html)
 
-[![Tiernan Thornton and Sharon Smith, joint project managers, Extern at the launch of PeacePlus Freedom Project 'Journey of Hope' in the Playhouse (Credit: Tom Heaney, nwpresspics)](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Extern_Journey_of_Hope_launch_1-1727343273129.jpg--.jpg?1727343273878 "Tiernan Thornton and Sharon Smith, joint project managers, Extern at the launch of PeacePlus Freedom Project 'Journey of Hope' in the Playhouse (Credit: Tom Heaney, nwpresspics)")](https://www.derrynow.com/news/derry-news/1614773/new-addiction-service-for-derry-and-district.html)
+Jaime Winstone plays the teacher Ellie
 
-Tiernan Thornton and Sharon Smith, joint project managers, Extern at the launch of PeacePlus Freedom Project 'Journey of Hope' in the Playhouse (Credit: Tom Heaney, nwpresspics)
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Derry filmmaker's 'An Irish Angel' to feature in Louth International Film Festival 2024](https://www.derrynow.com/news/what-s-on/1615188/derry-filmmaker-s-an-irish-angel-to-feature-in-louth-international-film-festival-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[New addiction service for Derry and district](https://www.derrynow.com/news/derry-news/1614773/new-addiction-service-for-derry-and-district.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry pleads guilty to series of drugs charges](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry pleads guilty to series of drugs charges")](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
+[![Motorists advised of possible traffic disruption around Derry this weekend](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Traffic_information-1727358582678.jpg--.jpg?1727358582703 "Motorists advised of possible traffic disruption around Derry this weekend")](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry pleads guilty to series of drugs charges](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+[Motorists advised of possible traffic disruption around Derry this weekend](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's Ruth McGinley teams up with Alice McCullough for first time](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Untitled_design-1727340794330.png--.png?1727340794522 "Derry's Ruth McGinley teams up with Alice McCullough for first time")](https://www.derrynow.com/news/arts---entertainment/1614709/derry-s-ruth-mcginley-teams-up-with-alice-mccullough-for-first-time.html)
+[![Derry Seagate engineering specialists vote for representation by Unite](https://www.derrynow.com/resizer/165/93/true/2022_08_08/1585649780056.jpg--_Cropped-1659967734017.jpg--.jpg?1659967734034 "Derry Seagate engineering specialists vote for representation by Unite")](https://www.derrynow.com/news/business/1615230/derry-seagate-engineering-specialists-vote-for-representation-by-unite.html)
 
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+[Business](https://www.derrynow.com/section/1339/business)
 
-[Derry's Ruth McGinley teams up with Alice McCullough for first time](https://www.derrynow.com/news/arts---entertainment/1614709/derry-s-ruth-mcginley-teams-up-with-alice-mccullough-for-first-time.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Seagate engineering specialists vote for representation by Unite](https://www.derrynow.com/news/business/1615230/derry-seagate-engineering-specialists-vote-for-representation-by-unite.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
