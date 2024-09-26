@@ -169,9 +169,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [California's approach to AI: Unpacking new legislation](https://www.onetrust.com/resources/californias-approach-to-ai-unpacking-new-legislation-webinar/)
-* [Elevate your data strategy: From cookies to universal consent & preferences](https://www.onetrust.com/resources/elevate-your-data-strategy-from-cookies-to-universal-consent-preferences-webinar/)
-* [Enhancing Data Governance: OneTrust and Snowflake strategies for data-driven businesses](https://www.onetrust.com/resources/enhancing-data-governance-onetrust-and-snowflake-strategies-for-data-driven-businesses-webinar/)
+* [Strengthen your third-party ecosystem: Strategies to combat modern slavery, anti-bribery, and corruption](https://www.onetrust.com/resources/strengthen-your-third-party-ecosystem-strategies-to-combat-modern-slavery-anti-bribery-and-corruption-webinar/)
+* [Privacy automation 101: Simplifying data mapping and risk assessments](https://www.onetrust.com/resources/privacy-automation-101-simplifying-data-mapping-and-risk-assessments-webinar/)
+* [Tackling your key challenges from the ICO Data Protection Practitioner's Conference](https://www.onetrust.com/resources/tackling-your-key-challenges-from-the-ico-data-protection-practitioners-conference-webinar/)
 
 ### Platform
 
