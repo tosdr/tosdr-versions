@@ -1,11 +1,5 @@
 [Skip to content](#content "Skip to content")
 
-![LIPA Bell Alert Icon 24x24px for Announcement Bar top of page.](https://www.lipower.org/wp-content/uploads/2024/01/bell-icon-24x24-1.svg) Alert Icon
-
-WATCH NOW
-
-Wednesday, September 25, 2024 | 10:00 AM – [Live Stream: Board of Trustees Meeting](http://lipower.granicus.com/MediaPlayer.php?event_id=424) – LIPA, 333 Earle Ovington Blvd. 4th Floor, Uniondale, NY 11553
-
 [](https://www.lipower.org/ "Return to the homepage")
 
 * [About Us](#0)
