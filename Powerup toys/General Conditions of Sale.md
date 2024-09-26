@@ -548,11 +548,11 @@ All Products must be packed in the original, unopened and unmarked packaging inc
 Warranty
 --------
 
-365 days Limited Warranty!
+2 Years Limited Warranty!
 
   
 
-TailorToys LLC warrants the Physical Product, and only the Physical Product, against defects in materials and workmanship under normal use for a period of 365 days from the date of retail purchase by the original purchaser and from a **POWER**UP authorized reseller (“Warranty Period”). Under this Limited Warranty, if a hardware defect arises and a valid claim is received and approved by TailorToys LLC within the Warranty Period - TailorToys LLC will replace the defective Product with a new or refurbished Product.
+TailorToys LLC warrants the Physical Product, and only the Physical Product, against defects in materials and workmanship under normal use for a period of 2 years from the date of retail purchase by the original purchaser and from a **POWER**UP authorized reseller (“Warranty Period”). Under this Limited Warranty, if a hardware defect arises and a valid claim is received and approved by TailorToys LLC within the Warranty Period - TailorToys LLC will replace the defective Product with a new or refurbished Product.
 
   
 
