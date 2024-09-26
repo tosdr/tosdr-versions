@@ -415,9 +415,9 @@ Most common
 
 1. java
     
-2. hacking
+2. machine learning
     
-3. html
+3. French
     
 
 Popular subjects
