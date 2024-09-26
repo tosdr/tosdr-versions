@@ -574,15 +574,15 @@ MENU MENU
     
     September 26, 2024
     
+    [Remarks by Acting Assistant Secretary of Financial Institutions Laurie Schaffer at the Electronic Transaction Association’s Annual Fintech Policy Forum](https://home.treasury.gov/news/press-releases/jy2620)
+    
+    September 26, 2024
+    
     [Remarks by Secretary of the Treasury Janet L. Yellen at the 2024 U.S. Treasury Market Conference](https://home.treasury.gov/news/press-releases/jy2618)
     
     September 25, 2024
     
     [Remarks by Under Secretary for Domestic Finance Nellie Liang on Voluntary Carbon Market Integrity](https://home.treasury.gov/news/press-releases/jy2614)
-    
-    September 25, 2024
-    
-    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo on Voluntary Carbon Markets](https://home.treasury.gov/news/press-releases/jy2611)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
