@@ -31,7 +31,7 @@
         
     * [Business](#)
         
-        ##### Existing Business Customers
+        ##### Existing Customers
         
         Manage your account, pay an invoice, review frequently asked questions, or contact customer service.
         
