@@ -2,7 +2,7 @@
 
 [**State Specific Consumer Privacy Rights**](#statespecific)
 
-Last updated: January 8th, 2024
+Last updated: September 26th, 2024
 
 This Privacy Policy describes how Rex Direct Net, Inc., (“the Company”, “We”, “Us” or “Our”) policies and procedures on the collects, uses, protects, and discloses your Personal Data (defined below) and how to exercise any rights you might have with respect to this data. It governs information We collect through Our website (surveysoda.com) (“Site”) and information We collect from you or third parties through any other means to provide Our services or perform other business activities (collectively, “Services”). The Site and Services are intended only for United States residents. This Privacy Policy does not apply to Personal Data We collect from or about job applicants, employees, or independent contractors.
 
@@ -85,7 +85,7 @@ We may ask you to provide Us with Personal Data when you communicate with Us onl
 
 **Third-Party Data Sources**
 
-We may collect Personal data from third-party data sources such as consumer reporting agencies, Network Partners, Marketing & Data Analytic Partners, and Service Providers that interact with Us in connection with the Website function or Services We perform.
+We may collect Personal data from third-party data sources such as consumer reporting agencies, Network Partners, Marketing & Data Analytic Partners, and Service Providers that interact with Us in connection with existing Website visitor information, the Website function, and the Services We perform.
 
 When you request select Services, We may ask for your consent to conduct a soft credit pull to obtain your credit score and debt amount from your personal credit report and other information about you from each consumer reporting agency in order to verify and confirm data you have already provided to connect you with the appropriate network partner to provide the services you request. You understand that a soft credit pull will not negatively impact your credit score and may be reflected on your credit report for up to two years. By giving your consent, you are providing “written instructions” to Us under the Fair Credit Reporting Act (FCRA), as amended, to access your Account Information from each national consumer reporting agency about you. You also agree and hereby authorize Us to transmit your information to Our authorized service providers as provided in this Privacy Policy as necessary to provide you with the Services you have requested. This information will not be shared or disclosed to any non-affiliated third party. We will only use this information for verification and confirmation purposes.
 
@@ -141,6 +141,10 @@ We may provide your Personal Data to other businesses to provide services to Us 
 * **_Data and business analytics vendors_**, which help Us collect, analyze, and improve the accuracy of Our data (including Personal Information), and the activities of visitors to Our Site;
 
 * **_IT and network administration vendors_**, which provide services such as data storage and management, website hosting, and data security;
+
+* **_Information management providers,_** _which provides services that append data to our existing consumer records. We use this information to better understand our site visitors, deliver relevant offers and advertising, and improve our Services, advertising and marketing campaigns._
+
+_
 
 * **_Professional service firms_**, which provide accounting, legal, auditing, and other professional services; and
 
@@ -250,3 +254,5 @@ We may update Our Privacy Policy at any time. You are advised to review this Pri
 
 **CONTACT US**  
 If you have any questions about this Privacy Policy, you can [contact us!](https://optinconfirmations.com/contactus.php)
+
+_
