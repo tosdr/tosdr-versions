@@ -159,29 +159,19 @@ Tilmeld mig nyhedsbrevet.
 Populært i denne måned
 ----------------------
 
-* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 224 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63755-featured-50x50.jpg)](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) [AFLYST — KURSUS om Rusland og Putins historiebrug](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) 202 visninger | af [Benny Larsen](https://historielaerer.dk/author/benny/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 168 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63754-featured-50x50.jpg)](https://historielaerer.dk/noter-242-italien/) [Noter #242 — Italien](https://historielaerer.dk/noter-242-italien/) 141 visninger | af [Kristian B. Arentsen & tina@historielaerer.dk](https://historielaerer.dk/author/kristianb-arentsen/?mab_v3=63754)
+* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 229 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63755-featured-50x50.jpg)](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) [AFLYST — KURSUS om Rusland og Putins historiebrug](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) 204 visninger | af [Benny Larsen](https://historielaerer.dk/author/benny/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 169 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63754-featured-50x50.jpg)](https://historielaerer.dk/noter-242-italien/) [Noter #242 — Italien](https://historielaerer.dk/noter-242-italien/) 144 visninger | af [Kristian B. Arentsen & tina@historielaerer.dk](https://historielaerer.dk/author/kristianb-arentsen/?mab_v3=63754)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) 120 visninger | af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) 115 visninger | af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) 78 visninger | af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63641-featured-50x50.jpeg)](https://historielaerer.dk/kurser/hvad-skal-vi-lave-i-aar-aarshjul-og-nye-ideer/) [Hvad skal vi lave i år? Års­hjul og nye idéer](https://historielaerer.dk/kurser/hvad-skal-vi-lave-i-aar-aarshjul-og-nye-ideer/) 63 visninger | af [Karen Steller Bjerregaard](https://historielaerer.dk/author/karen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) 79 visninger | af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63641-featured-50x50.jpeg)](https://historielaerer.dk/kurser/hvad-skal-vi-lave-i-aar-aarshjul-og-nye-ideer/) [Hvad skal vi lave i år? Års­hjul og nye idéer](https://historielaerer.dk/kurser/hvad-skal-vi-lave-i-aar-aarshjul-og-nye-ideer/) 65 visninger | af [Karen Steller Bjerregaard](https://historielaerer.dk/author/karen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63234-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-23-24/) [Histo­rie­kon­kur­ren­cen 23/24](https://historielaerer.dk/historiekonkurrencen-23-24/) 49 visninger | af [Espen Espensen & Trine Villumsen](https://historielaerer.dk/author/espenespensen/?mab_v3=63234)
 * [![](https://historielaerer.dk/wp-content/uploads/2023/03/Logo_vektor_kun_HLF.png)](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) [Has­se­ris-kur­sus: Ilden bræn­der igen — Tys­klands på vej fra askens støv til den frie ver­dens håb](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) 47 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
 
 ### Aktu­el­le arrangementer
 
-* ![Hvad skal vi lave i år? Årshjul og nye idéer](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
-    
-    [Hvad skal vi lave i år? Årshjul og nye idéer](https://historielaerer.dk/kurser/hvad-skal-vi-lave-i-aar-aarshjul-og-nye-ideer/)
-    
-    26 sep 24
-    
-    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
-    
-      
-    
 * ![Historiedidaktik 2.0](https://historielaerer.dk/wp-content/uploads/2024/05/Historiedidaktik-2.0-150x150.jpg)
     
     [Historiedidaktik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/)
@@ -239,6 +229,14 @@ Populært i denne måned
     2 dec 24
     
     Aalborg
+    
+      
+    
+* 13 jan CET
+    
+    [Inklusion i historieundevisningen](https://historielaerer.dk/kurser/inklusion-i-historieundevisningen/)
+    
+    13 jan 25
     
       
     
