@@ -71,7 +71,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/terms-of-use)
 * [한국어](https://www.lelo.com/ko/terms-of-use)
 
-ORGASM DAY - SCORE UP TO 40% OFF + CHOOSE TWO GIFTS!
+ORGASM DAY: UP TO 40% OFF \+ EXTRA 10% WITH COUPON ORGASM
 
 [SHOP NOW](https://www.lelo.com/discount-and-deals)
 
