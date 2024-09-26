@@ -303,11 +303,11 @@ Toggle navigation
     
     ##### Special Reports
     
+    * [GOALSCORE project, fighting domestic violence through football](https://www.euractiv.com/section/health-consumers/special_report/goalscore-project-fighting-domestic-violence-through-football/)
     * [Antimicrobial resistance fight needs more ambition, new alliances and strategies](https://www.euractiv.com/section/health-consumers/special_report/antimicrobial-resistance-fight-needs-more-ambition-new-alliances-and-strategies/)
     * [Europe’s personalised medicine sector boosted by Sino-EU PerMed project](https://www.euractiv.com/section/health-consumers/special_report/europes-peronalised-medicines-sector-boosted-by-sino-eu-permed-project/)
     * [Alzheimer’s Disease: detection, diagnosis, treatment](https://www.euractiv.com/section/health-consumers/special_report/alzheimers-disease-detection-diagnosis-treatment/)
     * [Europe needs new 360 rare diseases strategy](https://www.euractiv.com/section/health-consumers/special_report/europe-needs-new-360-rare-diseases-strategy/)
-    * [Diabetes care in Europe: The path forward](https://www.euractiv.com/section/health-consumers/special_report/diabetes-care-in-europe-the-path-forward/)
     
     ##### Events
     
@@ -349,9 +349,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [The Urgent Need for Bold Action: Europe’s 2050 Grand Challenges](https://www.euractiv.com/section/politics/opinion/the-urgent-need-for-bold-action-europes-2050-grand-challenges/)
     * [Reconciling European sovereignty, defense posture and transatlantic cooperation](https://www.euractiv.com/section/politics/opinion/reconciling-european-sovereignty-defense-posture-and-transatlantic-cooperation/)
     * [Cohesion is more than a policy, it’s the guiding principle to strengthen and unite](https://www.euractiv.com/section/politics/opinion/cohesion-is-more-than-a-policy-its-the-guiding-principle-to-strengthen-and-unite/)
-    * [Now it’s time to fight for Europe. It’s time to vote.](https://www.euractiv.com/section/politics/opinion/now-its-time-to-fight-for-europe-its-time-to-vote/)
     
 * [Technology](https://www.euractiv.com/sections/digital/)
     
@@ -487,12 +487,12 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 * 2[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
 * 3[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
 * 4[Hungary Danube waters reach decade high after Storm Boris](http://en.euractiv.eu/section/climate-environment/news/hungary-danube-waters-reach-decade-high-after-storm-boris/?utm_source=website&utm_campaign=popular)
-* 5[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
-* 6[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
+* 5[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
+* 6[Cyprus signs agreement with Greece on 'world's longest' subsea high-voltage cable](http://en.euractiv.eu/section/energy/news/cyprus-signs-agreement-with-greece-on-worlds-longest-subsea-high-voltage-cable/?utm_source=website&utm_campaign=popular)
 * 7[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
-* 8[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
-* 9[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
-* 10[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
+* 8[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
+* 9[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
+* 10[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
