@@ -1241,11 +1241,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf Hautpflege
+[\-28% auf Haarpflege
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/skin-care?pcode=28SKIN)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/hair-care?pcode=28HAIR)
 
       
 
