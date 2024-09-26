@@ -244,6 +244,7 @@ About Us
 * [Dow Jones](https://www.infosys.com/dow-jones.html "Dow Jones")
 * [Financial Times](https://www.infosys.com/financial-times.html "Financial Times")
 * [The Cloud Hub](https://www.infosys.com/cloud-hub.html "The Cloud Hub")
+* [Handelsblatt](https://www.infosys.com/handelsblatt.html "Handelsblatt")
 
 1. [Terms of Use](https://www.infosys.com/terms-of-use.html)
 
