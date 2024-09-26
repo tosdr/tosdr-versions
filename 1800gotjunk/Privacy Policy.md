@@ -866,6 +866,14 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Darrell was great!!!
+
+Cecilia Shure LA Metro 21/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Mikey and Chaz are awesome, came to Ave Maria, and cleared everything out quick! 10/10 service !
 
 Brandon Diaz Naples 21/09/2024
@@ -898,14 +906,6 @@ Terry Hecker Seattle 21/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Darrell was great!!!
-
-Cecilia Shure LA Metro 21/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 The gentleman we had were friendly and quick to get our junk out. We're super appreciative of their help and professionalism!
 
 Aaron Oakland Madison 21/09/2024
@@ -922,17 +922,17 @@ Sue Dahlen Madison 20/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Luis and AJ were great!
+Super easy process. Took two minutes and I no longer have a hideous mattress leaning up against the wall.
 
-Evee Marie Austin 20/09/2024
+Evan Kohl Madison 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Super easy process. Took two minutes and I no longer have a hideous mattress leaning up against the wall.
+Luis and AJ were great!
 
-Evan Kohl Madison 20/09/2024
+Evee Marie Austin 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -978,17 +978,17 @@ Emily Spjut Austin 20/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Paris and Justin are the best!!! 6 out of 5 stars if possible.
+Luis and Jordan did a great job !!!
 
-Susan Bolich Cincinnati 20/09/2024
+Daniel Rosen Naples 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Luis and Jordan did a great job !!!
+Paris and Justin are the best!!! 6 out of 5 stars if possible.
 
-Daniel Rosen Naples 20/09/2024
+Susan Bolich Cincinnati 20/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
