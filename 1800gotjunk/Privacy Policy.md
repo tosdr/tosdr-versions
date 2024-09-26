@@ -132,6 +132,8 @@ Sub Menu
 
 search
 
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
+
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -864,30 +866,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Mikey and Chaz are awesome, came to Ave Maria, and cleared everything out quick! 10/10 service !
-
-Brandon Diaz Naples 21/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Ethan and Aidan did a great job! Gave us our weekend back Thanks Guys!
-
-susan mcgue Wisconsin 21/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great service. Quick and easy.
-
-Kelbey Berry Columbus 21/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Marcel and Pablo were great. Courteous and quick. Thanks guys!
 
 Terry Hecker Seattle 21/09/2024
@@ -912,57 +890,25 @@ Aaron Oakland Madison 21/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Tc & Chris brown - did a great job. They were fast and efficient. Great customer service.
+Mikey and Chaz are awesome, came to Ave Maria, and cleared everything out quick! 10/10 service !
 
-Edgar Lopez Austin 20/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Chuck and craig did a phenomenal job today I was so pleased with the job they did
-
-Kyra Downing Cincinnati 20/09/2024
+Brandon Diaz Naples 21/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-TC and Chris Brown were great helping us move our couch! They had great customer service and got the job done quick!
+Ethan and Aidan did a great job! Gave us our weekend back Thanks Guys!
 
-Emily Spjut Austin 20/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Paris and Justin are the best!!! 6 out of 5 stars if possible.
-
-Susan Bolich Cincinnati 20/09/2024
+susan mcgue Wisconsin 21/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Luis and Jordan did a great job !!!
+Great service. Quick and easy.
 
-Daniel Rosen Naples 20/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jacob and Aiden were awesome. Quick and efficient service without any issues
-
-kirk kintop Wisconsin 20/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-These guys are amazing. Fast and easy. The kids loved watching the “big trucks” too! Highly recommend.
-
-Ryan Thomas Austin 20/09/2024
+Kelbey Berry Columbus 21/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1003,6 +949,62 @@ Jennifer Lang Wisconsin 20/09/2024
 I love this company. The staff is always polite and cheerful. They are also efficient and tidy while working. Give them a try!
 
 Anita Allen Columbus 20/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service! They took all of our things that are difficult to donate and they hauled it from the 2nd floor apartment.
+
+Sue Dahlen Madison 20/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Luis and AJ were great!
+
+Evee Marie Austin 20/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Super easy process. Took two minutes and I no longer have a hideous mattress leaning up against the wall.
+
+Evan Kohl Madison 20/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+TC and Chris came out right on time, and took away what we needed gone very efficiently. Highly recommend this company.
+
+Austin Fowler Austin 20/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service and very professional!
+
+Karen S Cincinnati 20/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Tc & Chris brown - did a great job. They were fast and efficient. Great customer service.
+
+Edgar Lopez Austin 20/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Chuck and craig did a phenomenal job today I was so pleased with the job they did
+
+Kyra Downing Cincinnati 20/09/2024
 
 ### 
 
