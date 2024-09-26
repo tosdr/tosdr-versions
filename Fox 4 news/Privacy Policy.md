@@ -400,35 +400,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Hoda Kotb says she’s retiring from ‘Today’ show in emotional announcement](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1865828899.jpg?ve=1&tl=1)
+ [![NYC Mayor Eric Adams indicted: Live updates](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1)
 
- ![Hoda Kotb says she’s retiring from ‘Today’ show in emotional announcement](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1865828899.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hoda-kotb-retirement-today-show-watch-video)
+ ![NYC Mayor Eric Adams indicted: Live updates](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
 
-### [Hoda Kotb says she’s retiring from ‘Today’ show in emotional announcement](https://www.fox4news.com/news/hoda-kotb-retirement-today-show-watch-video)
+### [NYC Mayor Eric Adams indicted: Live updates](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
 
- [![UNTHSC opens new nursing college in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-SHANNON-HSC-COLLEGE-OF-NURSING-GRAND-OPENING-8A_00.00.56.10.jpg?ve=1&tl=1)
+ [![Melania Trump opens up after assassination attempts on her husband](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/fox-and-friends-melania.jpg?ve=1&tl=1)
 
- ![UNTHSC opens new nursing college in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-SHANNON-HSC-COLLEGE-OF-NURSING-GRAND-OPENING-8A_00.00.56.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unthsc-opens-new-nursing-college-fort-worth)
+ ![Melania Trump opens up after assassination attempts on her husband](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/fox-and-friends-melania.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/melania-trump-assassination-attempts-husband-surviving-really-miracles)
 
-### [UNTHSC opens new nursing college in Fort Worth](https://www.fox4news.com/news/unthsc-opens-new-nursing-college-fort-worth)
+### [Melania Trump opens up after assassination attempts on her husband](https://www.fox4news.com/news/melania-trump-assassination-attempts-husband-surviving-really-miracles)
 
- [![Flight disruptions impact Atlanta, Tampa as Hurricane Helene looms](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/atl.jpg?ve=1&tl=1)
+ [![Live updates: Hurricane Helene now Cat. 3 storm, to become stronger before Florida landfall](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/slot0-39.jpg?ve=1&tl=1)
 
- ![Flight disruptions impact Atlanta, Tampa as Hurricane Helene looms](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/atl.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/flight-disruptions-impact-atlanta-tampa-hurricane-helene-looms)
+ ![Live updates: Hurricane Helene now Cat. 3 storm, to become stronger before Florida landfall](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/slot0-39.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
 
-### [Flight disruptions impact Atlanta, Tampa as Hurricane Helene looms](https://www.fox4news.com/news/flight-disruptions-impact-atlanta-tampa-hurricane-helene-looms)
+Live Now
 
- [![Hurricane Helene could bring 'catastrophic' flooding to Southeast, mid-Atlantic](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/AL09-Inland-Wind-Forecast.jpg?ve=1&tl=1)
+### [Live updates: Hurricane Helene now Cat. 3 storm, to become stronger before Florida landfall](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
 
- ![Hurricane Helene could bring 'catastrophic' flooding to Southeast, mid-Atlantic](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/AL09-Inland-Wind-Forecast.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-flooding-southeast-mid-atlantic)
+ [![Harris, Zelenskyy holding joint press conference Thursday](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Harris-and-Zelynskyy.jpg?ve=1&tl=1)
 
-### [Hurricane Helene could bring 'catastrophic' flooding to Southeast, mid-Atlantic](https://www.fox4news.com/news/hurricane-helene-flooding-southeast-mid-atlantic)
+ ![Harris, Zelenskyy holding joint press conference Thursday](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Harris-and-Zelynskyy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-zelenskyy-joint-press-conference)
 
- [![Langford and García homer as the Rangers beat the A's 5-1 in final scheduled night game at Coliseum](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2173647786.jpg?ve=1&tl=1)
+### [Harris, Zelenskyy holding joint press conference Thursday](https://www.fox4news.com/news/harris-zelenskyy-joint-press-conference)
 
- ![Langford and García homer as the Rangers beat the A's 5-1 in final scheduled night game at Coliseum](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173647786.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/langford-garcia-homer-rangers-beat-as-5-1-final-scheduled-night-game-coliseum)
+ [![UPS hiring 125K seasonal workers: Here's who else is hiring for the holidays](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-UPS-2.jpg?ve=1&tl=1)
 
-### [Langford and García homer as the Rangers beat the A's 5-1 in final scheduled night game at Coliseum](https://www.fox4news.com/sports/langford-garcia-homer-rangers-beat-as-5-1-final-scheduled-night-game-coliseum)
+ ![UPS hiring 125K seasonal workers: Here's who else is hiring for the holidays](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-UPS-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-hiring-holiday-workers-ups-aldi-target)
+
+### [UPS hiring 125K seasonal workers: Here's who else is hiring for the holidays](https://www.fox4news.com/news/whos-hiring-holiday-workers-ups-aldi-target)
 
 ###### [News](https://www.fox4news.com/news)
 
