@@ -66,7 +66,7 @@ Hot Topics
 
 Ebook
 
-Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/media-mix-modeling/)[PC and console growth marketing guide](https://www.adjust.com/resources/guides/pc-console/)[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
+Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
 
 [Resources Overview](https://www.adjust.com/resources/)
 
@@ -138,7 +138,7 @@ Hot Topics
 
 Ebook
 
-Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/media-mix-modeling/)[PC and console growth marketing guide](https://www.adjust.com/resources/guides/pc-console/)[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
+Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
 
 [Resources Overview](https://www.adjust.com/resources/)
 
