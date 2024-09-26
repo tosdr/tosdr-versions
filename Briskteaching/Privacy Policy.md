@@ -42,7 +42,7 @@ Learn
 
 Connect
 
-[Community](https://www.briskteaching.com/community)[Wall of Love](https://www.briskteaching.com/testimonials)
+[Community](https://www.briskteaching.com/community)[Wall of Love](https://www.briskteaching.com/testimonials)[Conferences and Events](https://www.briskteaching.com/conferences-and-events)
 
 [Add to Chrome for free](https://chromewebstore.google.com/detail/brisk-teaching/pcblbflgdkdfdjpjifeppkljdnaekohj?pli=1)[Demo for your District](https://calendly.com/d/28c-gny-zrx)
 
