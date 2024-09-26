@@ -25,7 +25,7 @@ Privacy Policy
 
 August 2024
 
-#### Table of contents
+##### Table of contents
 
 [1\. About this Policy](https://www.tricount.com/en/privacy#chapter-1)
 
