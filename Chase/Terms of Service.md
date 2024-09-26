@@ -46,7 +46,7 @@ OPEN AN ACCOUNT
 * [Mortgage](https://www.chase.com/personal/mortgage)
 * [Home Equity](https://www.chase.com/personal/home-equity/)
 * [Invest with a J.P. Morgan Advisor](https://www.chase.com/personal/investments/advisor-services)
-* [Online Investing with J.P. Morgan](https://account.chase.com/investing/sdifracshare)
+* [Online Investing with J.P. Morgan](https://account.chase.com/investing/self-directedoffer)
 * [Chase for Business](https://www.chase.com/business)
 * [Commercial Banking](https://www.jpmorgan.com/commercial-banking)
 * [See all](https://www.chase.com/digital/resources/sitemap)
@@ -203,7 +203,9 @@ With Chase for Business you’ll receive guidance from a team of business profes
 
 ### Investing by J.P. Morgan
 
-Partner with a global leader who puts your financial needs first. [Invest on your](https://account.chase.com/investing/sdifracshare) own or work with an [advisor](https://www.chase.com/personal/investments/advisor-services) — we have the [products](https://www.chase.com/personal/investments/product-overview), [technology](https://www.chase.com/personal/investments/digital-capabilities) and [investment education](https://www.chase.com/personal/investments/learning-and-insights), to help you grow your wealth. Visit a J.P. Morgan [Wealth Management Branch](https://jpmorganwealthmanagement.chase.com/advisor) or check out our latest online investing [offers, promotions, and coupons](https://account.chase.com/investing/sdifracshare).
+Partner with a global leader who puts your financial needs first. [Invest on your own](https://account.chase.com/investing/self-directedoffer) or [work with an advisor](https://www.chase.com/personal/investments/advisor-services) — we have the [products](https://www.chase.com/personal/investments/product-overview), [technology](https://www.chase.com/personal/investments/digital-capabilities) and [investment education](https://www.chase.com/personal/investments/learning-and-insights), to help you grow your wealth. Visit a J.P. Morgan [Wealth Management Branch](https://jpmorganwealthmanagement.chase.com/advisor) or check out our latest online investing [offers, promotions, and coupons](https://account.chase.com/investing/self-directedoffer).
+
+  \`
 
 **INVESTMENT AND INSURANCE PRODUCTS ARE:**
 
