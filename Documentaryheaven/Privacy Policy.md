@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Highlanders](/wp-content/thumbnails/6663-100x70.png?x53432)
+* [![Tainted Love Secrets of the Dating Game](/wp-content/thumbnails/7949-100x70.jpg?x53432)
     
-    The Highlanders
+    Tainted Love Secrets of the Dating Game
     
-    A Discovery Channel documentary that takes a look at the Scottish Highlanders.](https://documentaryheaven.com/the-highlanders/ "The Highlanders")
-* [![Japans Wild Secrets](/wp-content/thumbnails/9919-100x70.jpg?x53432)
+    Panorama exposes the tricks of the UK's online dating industry, worth millions of pounds a year. Reporter Fiona Walker investigates how some unscrupulous dating websites are preying on those looking f](https://documentaryheaven.com/tainted-love-secrets-dating-game/ "Tainted Love Secrets of the Dating Game")
+* [![Bill Gates Talks at TED and Unleashes Mosquitoes](/wp-content/thumbnails/144-100x70.png?x53432)
     
-    Japans Wild Secrets
+    Bill Gates Talks at TED and Unleashes Mosquitoes
     
-    Japan, both fast and furious but outside it's neon cities lies an untamed wilderness, forest filled islands, massive mountains and billowing active volcanos. A fantastic variety of animals inhabit the](https://documentaryheaven.com/japans-wild-secrets/ "Japans Wild Secrets")
-* [![The Gettys: A Tragedy Of Riches](/wp-content/thumbnails/13928-100x70.jpg?x53432)
+    On this year’s TED Talks 2009 in California Bill Gates shocked his audience of rich people with the unleashing of a swarm of mosquitoes, so that not only poor people can experience them. Further more](https://documentaryheaven.com/bill-gates-talks-at-ted-and-unleashes-mosquitoes/ "Bill Gates Talks at TED and Unleashes Mosquitoes")
+* [![The World’s Strictest Parents](/wp-content/thumbnails/6291-100x70.jpg?x53432)
     
-    The Gettys: A Tragedy Of Riches
+    The World’s Strictest Parents
     
-    Once upon a time there was a man so rich, that in order to count out his money by noted dollar bills it would have taken a whole lifetime. Behind the walls of his English county house he lived as best](https://documentaryheaven.com/gettys-tragedy-riches/ "The Gettys: A Tragedy Of Riches")
-* [![The Man Who Knew Too Much](/wp-content/thumbnails/16626-100x70.jpg?x53432)
+    Unruly teenagers are sent abroad to live with strict families in an experiment to find out the right way to bring up a child. These series document the journey of unruly teens from different families](https://documentaryheaven.com/the-worlds-strictest-parents/ "The World’s Strictest Parents")
+* [![Educating Black Boys](/wp-content/thumbnails/6953-100x70.jpg?x53432)
     
-    The Man Who Knew Too Much
+    Educating Black Boys
     
-    In 1969 violence erupted in Northern Ireland between Protestants loyal to the British Crown and Catholics. As such an information warfare department is established inside the British Army's Northern](https://documentaryheaven.com/man-who-knew-too-much/ "The Man Who Knew Too Much")
-* [![Do We Really Need the Moon?](/wp-content/thumbnails/5017-100x70.jpg?x53432)
+    Tony Harris takes a personal look at Baltimore’s inner city and an education system that has failed black Americans.Baltimore, Maryland has come to be known as ‘Charm City’ because of its harbor,](https://documentaryheaven.com/educating-black-boys/ "Educating Black Boys")
+* [![Dub Echoes](/wp-content/thumbnails/5737-100x70.jpg?x53432)
     
-    Do We Really Need the Moon?
+    Dub Echoes
     
-    The Moon is such a familiar presence in the sky that most of us take it for granted. But what if it wasn’t where it is now? How would that affect life on Earth?Space scientist and lunar fanatic Dr M](https://documentaryheaven.com/do-we-really-need-the-moon/ "Do We Really Need the Moon?")
+    The documentary “Dub Echoes” shows how the Jamaican invention called dub ended up influencing much of the music we hear today, from electronic music to hip-hop, transforming the studio in a musical in](https://documentaryheaven.com/dub-echoes/ "Dub Echoes")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
