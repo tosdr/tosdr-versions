@@ -6,6 +6,8 @@ Terms
 
 [Login](https://dezgo.com/account)
 
+[Flux Contest](https://dezgo.com/contest/flux)
+
 * * *
 
 [Text-to-Image XL](https://dezgo.com/text2image/sdxl)
