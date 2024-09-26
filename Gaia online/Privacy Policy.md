@@ -3,7 +3,7 @@ Welcome to Gaia! :: Gaia Online PRIVACY POLICY – Effective April 5, 2016
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/3beb9b9072e6.gif)](https://www.gaiaonline.com/forum/t.114278757/ "Prisma: Offblack Bunny Ears") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,13 +13,13 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-f018f9ab7c0e6b3ffc69938b96bb88c6f018f9ab7c0e6b3ffc69938b96bb88c63f2eb7c6a2cb28bda6f6cf1d0b9f518c
+05a944ec09aa0a994815758aeefb16ff0dcc22445662ef3d450c08895ba7887505a944ec09aa0a994815758aeefb16ff0dcc22445662ef3d450c08895ba78875
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
 * [GCash](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpayments%2F%3F_gaia_t_%3D8608)
 
-* [Shops !](https://www.gaiaonline.com/market/)
+* [Shops](https://www.gaiaonline.com/market/)
 
 * [Forums](https://www.gaiaonline.com/forum/)
 
@@ -338,6 +338,10 @@ Get Items
     
     fabulous finds for the thrifty spender
     
+* [Seasonal Styles](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fsale)
+    
+    Direct Sale
+    
 * [Gaia Merchandise](https://www.redbubble.com/people/Gaia-online/shop)
     
     real life Gaia merchandise
@@ -347,7 +351,7 @@ More Items
 
 * [Deals & New Items](https://www.gaiaonline.com/deals/)
     
-    3 new deals posted!
+    Find new items, and discounts
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -541,4 +545,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727358884)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727380391)
