@@ -35,7 +35,7 @@ Welcome to Lulu Press, Inc. (“Lulu”, “we”, “us”, and its derivatives
 
 If you have any questions or comments about this Privacy Policy, please contact us at [\[email protected\]](https://www.lulu.com/cdn-cgi/l/email-protection).
 
-_REVISED: June 28, 2024_
+_REVISED: September 26, 2024_
 
 ### 1\. Data Types and Overview
 
@@ -147,7 +147,7 @@ _REVISED: June 28, 2024_
     
     * **Third Party Service Providers.**
         
-        We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of Accounts; to provide technical support; and/or to provide other services to Lulu. These third-party service providers are required not to use your Personal Data other than to provide the services requested by Lulu. 
+        We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of Accounts; to provide technical support; to perform ad measurements and retargeting; and/or to provide other services to Lulu. These third-party service providers are required not to use your Personal Data other than to provide the services requested by Lulu. 
         
     
     * **Affiliates.**
