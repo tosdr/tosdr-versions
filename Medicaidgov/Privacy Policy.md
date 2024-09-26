@@ -326,11 +326,6 @@ MainMenu
     * [Benefits](https://www.medicaid.gov/chip/benefits/index.html)
     * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
     * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
-    * CHIPRA
-        
-        [View all in CHIPRA](https://www.medicaid.gov/chip/chipra/index.html)
-        
-        * [CHIPRA Awards & Performance Bonus](https://www.medicaid.gov/chip/chipra/chipra-awards-performance-bonus/index.html)
     * Eligibility Standards
         
         [View all in Eligibility Standards](https://www.medicaid.gov/chip/eligibility/index.html)
@@ -671,11 +666,6 @@ MainMenu Desktop
     * [Benefits](https://www.medicaid.gov/chip/benefits/index.html)
     * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
     * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
-    * CHIPRA
-        
-        [View all in CHIPRA](https://www.medicaid.gov/chip/chipra/index.html)
-        
-        * [CHIPRA Awards & Performance Bonus](https://www.medicaid.gov/chip/chipra/chipra-awards-performance-bonus/index.html)
     * Eligibility Standards
         
         [View all in Eligibility Standards](https://www.medicaid.gov/chip/eligibility/index.html)
