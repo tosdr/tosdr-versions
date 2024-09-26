@@ -107,7 +107,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eeu/studium/lidx/1/ "To P
 * [Doctoral Studies From A to Z](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~ejw/Promotion/lidx/1/ "Academics > After Graduation > Doctoral Studies From A to Z")
 * [Career for Graduates](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~ejx/Karriere/lidx/1/ "Academics > After Graduation > Career for Graduates")
 * [Alumni Network](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~ekj/Alumni/lidx/1/ "Academics > After Graduation > Alumni Network")
-* [2024 Graduation Celebration](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~emes/Graduiertenfest/lidx/1/ "Academics > After Graduation > 2024 Graduation Celebration")
+* [Graduation Celebration](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~emes/Graduiertenfest/lidx/1/ "Academics > After Graduation > Graduation Celebration")
 * [Founding a Start-Up](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~iibzo/Start-up-gruenden/lidx/1/ "Academics > After Graduation > Founding a Start-Up")
 
 #### [Teaching](https://www.rwth-aachen.de/cms/root/studium/~hihq/Lehre/lidx/1/ "Academics > Teaching")
