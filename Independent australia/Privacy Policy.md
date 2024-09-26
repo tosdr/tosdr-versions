@@ -179,7 +179,7 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [U.S. assaults surge as Trump’s hate escalates](https://independentaustralia.net/article-display/us-assaults-surge-as-trumps-hate-escalates,19000 "Permanent Link : U.S. assaults surge as Trump’s hate escalates")
+* [The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012 "Permanent Link : The Murdoch family distrust")
 * [EDITORIAL: The Murdoch family distrust](https://independentaustralia.net/article-display/editorial-the-murdoch-family-distrust,19011 "Permanent Link : EDITORIAL: The Murdoch family distrust")
 * [Mining industry launches brazen attack on Government](https://independentaustralia.net/article-display/mining-industry-launches-brazen-attack-on-government,19010 "Permanent Link : Mining industry launches brazen attack on Government")
 * [Albanese's move to protect kids from social media 'problematic'](https://independentaustralia.net/article-display/albaneses-move-to-protect-kids-from-social-media-problematic,19009 "Permanent Link : Albanese's move to protect kids from social media 'problematic'")
