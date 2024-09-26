@@ -200,7 +200,7 @@ Menutoggle menu
         * [Development](https://www.atlantafed.org/about/careers/career-development)
         * [Sustainability](https://www.atlantafed.org/about/atlantafed/sustainability)
         * [Community](https://www.atlantafed.org/about/careers/community-involvement)
-        * [Internships](https://www.atlantafed.org/about/careers/internships)
+        * [Internships](https://www.atlantafed.org/research/publications/policy-hub)
         * [Federal Reserve System Opportunities](https://www.atlantafed.org/about/careers/frs)
     * [FAQ](https://www.atlantafed.org/about/faq)
     * [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained)
