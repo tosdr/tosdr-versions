@@ -153,6 +153,10 @@
     * [Use API Key](https://docs.zeabur.com/docs/developer/use-api-key)
     * [Public API](https://docs.zeabur.com/docs/developer/public-api)
     
+* [Dedicated Server](https://docs.zeabur.com/docs/dedicated-server)
+    
+    * [Register Dedicated Server](https://docs.zeabur.com/docs/dedicated-server/register)
+    
 
 English
 
