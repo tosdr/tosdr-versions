@@ -168,7 +168,7 @@ Failure to meet one or more of the following requirements may lead to a denial 
 * [Privacy Policy](https://www.wonderhowto.com/privacy-policy/)
 * [California – Do Not Sell My Info](https://www.wonderhowto.com/privacy-policy/ccpa-opt-out/)
 
-[](https://www.wonderhowto.com/#)
+[](#)
 
 [![TechnologyAdvice logo](https://assets.dev.technologyadvice.com/uploads/2024/03/technologyadvice_logo_final-1.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
 
