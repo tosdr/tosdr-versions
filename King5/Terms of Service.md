@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c83a142d-314c-465c-bbe7-5a18fb97124a/20240925T144212/c83a142d-314c-465c-bbe7-5a18fb97124a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c83a142d-314c-465c-bbe7-5a18fb97124a/20240925T144212/c83a142d-314c-465c-bbe7-5a18fb97124a_360x203.jpg)](https://www.king5.com/article/sports/mlb/mariners/mariners-playoff-odds/281-51a37de4-ab32-4dc2-8e25-af79cc3eaa0d)
+    *  [![](https://media.king5.com/assets/KING/images/f2f13404-4e9e-4e28-9e88-39e57b372af0/20240711T174532/f2f13404-4e9e-4e28-9e88-39e57b372af0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f2f13404-4e9e-4e28-9e88-39e57b372af0/20240711T174532/f2f13404-4e9e-4e28-9e88-39e57b372af0_360x203.jpg)](https://www.king5.com/article/tech/science/environment/40-magnitude-earthquake-victoria-san-juan-island/281-a62e1855-4a27-4de0-948f-e0263a140d6a)
         
-        #### [The Mariners still have a slim chance at the MLB playoffs. Here's how they could qualify](https://www.king5.com/article/sports/mlb/mariners/mariners-playoff-odds/281-51a37de4-ab32-4dc2-8e25-af79cc3eaa0d)
+        #### [Here's how strong the early-morning earthquake off Victoria was](https://www.king5.com/article/tech/science/environment/40-magnitude-earthquake-victoria-san-juan-island/281-a62e1855-4a27-4de0-948f-e0263a140d6a)
         
-    *  [![](https://media.king5.com/assets/KING/images/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe/20240926T122720/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe/20240926T122720/8cdfadf5-1525-49dd-bb05-efd9eef7bdfe_360x203.jpg)](https://www.king5.com/article/traffic/send-shante-tacoma-road-potholes-traffic/281-a04edaa0-9a77-4484-a21e-fcb9df0dcc20)
+    *  [![](https://media.king5.com/assets/KING/images/36e7f65b-faf6-4ad4-b585-a5e8cee4e561/20240628T141920/36e7f65b-faf6-4ad4-b585-a5e8cee4e561_16x9.jpg) ![](https://media.king5.com/assets/KING/images/36e7f65b-faf6-4ad4-b585-a5e8cee4e561/20240628T141920/36e7f65b-faf6-4ad4-b585-a5e8cee4e561_360x203.jpg)](https://www.king5.com/article/news/local/homeless/court-dismisses-legal-complaint-burien-camping-ban/281-50eafc0f-6911-4c1c-bed8-fa28e507b1c9)
         
-        #### [Send Shanté: Tacoma road littered with potholes, overgrowth causing problems for homeowners](https://www.king5.com/article/traffic/send-shante-tacoma-road-potholes-traffic/281-a04edaa0-9a77-4484-a21e-fcb9df0dcc20)
+        #### [Court dismisses King County's legal complaint over Burien's camping ban](https://www.king5.com/article/news/local/homeless/court-dismisses-legal-complaint-burien-camping-ban/281-50eafc0f-6911-4c1c-bed8-fa28e507b1c9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-54°
+66°
 
 ![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
