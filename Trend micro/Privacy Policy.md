@@ -184,13 +184,13 @@ search close
                 
                 [Learn more](https://www.trendmicro.com/en_us/business/solutions/iot/enterprise-5g-iot.html)
                 
-    * [Small & Midsized Business Security](https://www.trendmicro.com/en_us/small-business/worry-free-services-suites.html)
+    * [Small & Midsized Business Security](https://www.trendmicro.com/en_us/small-business/platform.html)
         
         * Small & Midsized Business Security
             
-            Stop threats with comprehensive, set-it-and-forget-it protection
+            Stop threats with easy-to-use solutions designed for your growing business
             
-            [Learn more](https://www.trendmicro.com/en_us/small-business/worry-free-services-suites.html)
+            [Learn more](https://www.trendmicro.com/en_us/small-business/platform.html)
             
 * Platform
     
@@ -216,13 +216,13 @@ search close
                 
                 [Learn more](https://www.trendmicro.com/en_us/business/technologies/ai-companion.html)
                 
-    * [Attack Surface Management](https://www.trendmicro.com/en_us/business/products/detection-response/attack-surface-management.html)
+    * [Attack Surface Management](https://www.trendmicro.com/en_us/business/products/attack-surface-management.html)
         
         * Attack Surface Management
             
             Stop breaches before they happen
             
-            [Learn more](https://www.trendmicro.com/en_us/business/products/detection-response/attack-surface-management.html)
+            [Learn more](https://www.trendmicro.com/en_us/business/products/attack-surface-management.html)
             
             ![](https://trendmicro.scene7.com/is/image/trendmicro/asrm-console-shot?scl=1.0&qlt=95&fmt=webp-alpha)
             
@@ -570,73 +570,51 @@ search close
                 
 * Partners
     
-    * [Partner Program](https://www.trendmicro.com/en_us/partners/channel-partners.html)
+    * [Partner Program](https://www.trendmicro.com/en_us/partners/program.html)
         
-        * [Partner Program](https://www.trendmicro.com/en_us/partners/channel-partners.html)
+        * [Partner Program](https://www.trendmicro.com/en_us/partners/program.html)
             
             * Partner Program Overview
                 
                 Grow your business and protect your customers with the best-in-class complete, multilayered security
                 
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners.html)
+                [Learn more](https://www.trendmicro.com/en_us/partners/program.html)
                 
-        * [Managed Security Service Provider](https://www.trendmicro.com/en_us/partners/channel-partners/managed-security-service-provider.html)
+        * [Partner Competencies](https://www.trendmicro.com/en_us/partners/competencies.html)
+            
+            * Partner Competencies
+                
+                Stand out to customers with competency endorsements that showcase your expertise
+                
+                [Learn more](https://www.trendmicro.com/en_us/partners/competencies.html)
+                
+        * [Partner Successes](https://www.trendmicro.com/en_us/partners/partner-stories.html)
+            
+            * Partner Successes
+                
+                [Learn more](https://www.trendmicro.com/en_us/partners/partner-stories.html)
+                
+        * [Managed Security Service Provider](https://www.trendmicro.com/en_us/partners/program/managed-security-service-provider.html)
             
             * Managed Security Service Provider
                 
                 Deliver modern security operations services with our industry-leading XDR
                 
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners/managed-security-service-provider.html)
+                [Learn more](https://www.trendmicro.com/en_us/partners/program/managed-security-service-provider.html)
                 
-        * [Managed Service Provider](https://www.trendmicro.com/en_us/partners/channel-partners/managed-service-provider.html)
+        * [Managed Service Provider](https://www.trendmicro.com/en_us/partners/program/managed-service-provider.html)
             
             * Managed Service Provider
                 
                 Partner with a leading expert in cybersecurity, leverage proven solutions designed for MSPs
                 
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners/managed-service-provider.html)
-                
-        * [Cloud Service Provider](https://www.trendmicro.com/en_us/partners/channel-partners/cloud-service-provider.html)
-            
-            * Cloud Service Provider
-                
-                Add market-leading security to your cloud service offerings – no matter which platform you use
-                
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners/cloud-service-provider.html)
-                
-        * [Professional Services](https://www.trendmicro.com/en_us/partners/channel-partners/professional-services-partner.html)
-            
-            * Professional Services
-                
-                Increase revenue with industry-leading security
-                
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners/professional-services-partner.html)
-                
-        * [Resellers](https://www.trendmicro.com/en_us/partners/channel-partners/resellers.html)
-            
-            * Resellers
-                
-                Discover the possibilities
-                
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners/resellers.html)
-                
-        * [Marketplace](https://www.trendmicro.com/en_us/partners/channel-partners/marketplace.html)
-            
-            * Marketplace
-                
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners/marketplace.html)
-                
-        * [System Integrators](https://www.trendmicro.com/en_us/partners/channel-partners/systems-integrator.html)
-            
-            * System Integrators
-                
-                [Learn more](https://www.trendmicro.com/en_us/partners/channel-partners/systems-integrator.html)
+                [Learn more](https://www.trendmicro.com/en_us/partners/program/managed-service-provider.html)
                 
     * [Alliance Partners](https://www.trendmicro.com/en_us/partners/alliance-partners.html)
         
         * [Alliance Partners](https://www.trendmicro.com/en_us/partners/alliance-partners.html)
             
-            * Alliance Overview
+            * Alliance Partners
                 
                 We work with the best to help you optimize performance and value
                 
@@ -648,37 +626,49 @@ search close
                 
                 [Learn more](https://www.trendmicro.com/en_us/partners/alliance-partners/technology.html)
                 
-        * [Our Alliance Partners](https://www.trendmicro.com/en_us/partners/alliance-partners/explore-alliance-partners.html)
+        * [Find Alliance Partners](https://www.trendmicro.com/en_us/partners/alliance-partners/explore-alliance-partners.html)
             
-            * Our Alliance Partners
+            * Find Alliance Partners
                 
                 [Learn more](https://www.trendmicro.com/en_us/partners/alliance-partners/explore-alliance-partners.html)
                 
-    * [Partner Tools](https://www.trendmicro.com/en_us/partners.html#tools)
+    * [Partner Resources](https://www.trendmicro.com/en_us/partners/resources.html)
         
-        * [Partner Tools](https://www.trendmicro.com/en_us/partners.html#tools)
+        * [Partner Resources](https://www.trendmicro.com/en_us/partners/resources.html)
             
-            * Partner Tools
+            * Partner Resources
                 
-                [Learn more](https://www.trendmicro.com/en_us/partners.html#tools)
+                Discover resources designed to accelerate your business’s growth and enhance your capabilities as a Trend Micro partner
                 
-        * [Partner Login](https://community-trendmicro.force.com/Gpartner/s/)
+                [Learn more](https://www.trendmicro.com/en_us/partners/resources.html)
+                
+        * [Partner Portal Login](https://community-trendmicro.force.com/Gpartner/s/)
             
-            * Partner Login
+            * Partner Portal Login
                 
                 [Login](https://community-trendmicro.force.com/Gpartner/s/)
                 
-        * [Education and Certification](https://www.trendmicro.com/en_us/business/services/support-services/education.html)
+        * [Trend Campus](https://www.trendmicro.com/en_us/partners/campus.html)
             
-            * Education and Certification
+            * Trend Campus
                 
-                [Learn more](https://www.trendmicro.com/en_us/business/services/support-services/education.html)
+                Accelerate your learning with Trend Campus, an easy-to-use education platform that offers personalized technical guidance
                 
-        * [Partner Successes](https://www.trendmicro.com/en_us/partners/partner-stories.html)
+                [Learn more](https://www.trendmicro.com/en_us/partners/campus.html)
+                
+        * [Co-Selling](https://www.trendmicro.com/en_us/partners/co-selling.html)
             
-            * Partner Successes
+            * Co-Selling
                 
-                [Learn more](https://www.trendmicro.com/en_us/partners/partner-stories.html)
+                Access collaborative services designed to help you showcase the value of Trend Vision One™ and grow your business
+                
+                [Learn more](https://www.trendmicro.com/en_us/partners/co-selling.html)
+                
+        * [Become a Partner](https://trendmicro.my.site.com/Gpartner/s/partner-registration?language=en_US)
+            
+            * Become a Partner
+                
+                [Learn more](https://trendmicro.my.site.com/Gpartner/s/partner-registration?language=en_US)
                 
         * [Distributors](https://www.trendmicro.com/en_us/partners/distributors.html)
             
@@ -686,12 +676,14 @@ search close
                 
                 [Learn more](https://www.trendmicro.com/en_us/partners/distributors.html)
                 
-        * [Find a Partner](https://trendmicro.my.site.com/Gpartner/s/partner-locator?language=en_US)
+    * [Find Partners](https://trendmicro.my.site.com/Gpartner/s/partner-locator?language=en_US)
+        
+        * Find Partners
             
-            * Find a Partner
-                
-                [Learn more](https://trendmicro.my.site.com/Gpartner/s/partner-locator?language=en_US)
-                
+            Locate a partner from whom you can purchase Trend Micro solutions
+            
+            [Learn more](https://trendmicro.my.site.com/Gpartner/s/partner-locator?language=en_US)
+            
 * Company
     
     * [Why Trend Micro](https://www.trendmicro.com/en_us/about/why-trend-micro.html)
