@@ -6,299 +6,43 @@ Menu
 
 * [World](https://apnews.com/world-news)
     
-    SECTIONS
-    
-    [Israel-Hamas War](https://apnews.com/hub/israel-hamas-war) [Russia-Ukraine War](https://apnews.com/hub/russia-ukraine) [Global Elections](https://apnews.com/hub/global-elections/) [ESPAÑOL](https://apnews.com/hub/noticias)[China](https://apnews.com/hub/china) [Asia Pacific](https://apnews.com/hub/asia-pacific) [Latin America](https://apnews.com/hub/latin-america) [Europe](https://apnews.com/hub/europe)
-    
-    TOP STORIES
-    
-    * [Israel has landed heavy blows on Hezbollah. The victory it seeks could prove elusive](https://apnews.com/article/israel-lebanon-hezbollah-conflict-military-strategy-cce53839bbcf0a9a36af45ed2fa7dbb4)
-    * [Netanyahu will address the UN as Israel, bogged down by one war, barrels toward another](https://apnews.com/article/netanyahu-speech-gaza-hezbollah-un-e761de05e4c4a7f54bfd27e8795bceb7)
-    * [Hezbollah fires missile at Tel Aviv as Israel activates reserve troops in response to rising tension](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
-    
-    Newsletters
-    
-    [The Morning Wire
-    
-    Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[The Afternoon Wire
-    
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [U.S.](https://apnews.com/us-news)
-    
-    TOP STORIES
-    
-    * [Tropical Storm Helene strengthens as hurricane warnings cover parts of Florida and Mexico](https://apnews.com/article/tropical-storm-helene-john-florida-mexico-a953d0a51d219226f7d76178af2d3f4b)
-    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
-    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    
-    Newsletters
-    
-    [The Morning Wire
-    
-    Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[The Afternoon Wire
-    
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
     
 * [Election 2024](https://apnews.com/hub/election-2024)
     
-    SECTIONS
-    
-    [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
-    
-    TOP STORIES
-    
-    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
-    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
-    * [Trump will attend Al Smith charity dinner that Harris is skipping to campaign in battleground state](https://apnews.com/article/donald-trump-al-smith-dinner-29262d451fba2b564b39d8309a504a88)
-    
-    Newsletters
-    
-    [Ground Game
-    
-    Exclusive insights and key stories from the world of politics.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [Politics](https://apnews.com/politics)
-    
-    SECTIONS
-    
-    [Election 2024](https://apnews.com/hub/election-2024) [Joe Biden](https://apnews.com/hub/joe-biden) [Congress](https://apnews.com/hub/congress) [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
-    
-    TOP STORIES
-    
-    * [Congress moving swiftly to fund government and avert shutdown before heading home to campaign](https://apnews.com/article/congress-spending-bill-speaker-johnson-shutdown-7917f589502c40d4815f1b9583d3fa23)
-    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
-    * [Trump tells women he 'will be your protector' as GOP struggles with outreach to female voters](https://apnews.com/article/trump-women-protector-abortion-election-697ce355f7386bfd192b99bb00322705)
-    
-    Newsletters
-    
-    [Ground Game
-    
-    Exclusive insights and key stories from the world of politics.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
     
 * [Sports](https://apnews.com/sports)
     
-    SECTIONS
-    
-    [MLB](https://apnews.com/hub/mlb) [NFL](https://apnews.com/hub/nfl) [AP Top 25](https://apnews.com/hub/ap-top-25-college-football-poll) [WNBA](https://apnews.com/hub/wnba-basketball) [NBA](https://apnews.com/hub/nba) [Soccer](https://apnews.com/hub/soccer) [Golf](https://apnews.com/hub/golf) [Auto Racing](https://apnews.com/hub/auto-racing)
-    
-    TOP STORIES
-    
-    * [Retired NFL quarterback Brett Favre says he has Parkinson's disease](https://apnews.com/article/brett-favre-parkinsons-congress-mississippi-welfare-fraud-4d1635ac54ee5ab156fd2825fcd29430)
-    * [Pac-12 files a federal lawsuit against Mountain West over $43 million in 'poaching' penalties](https://apnews.com/article/pac12-mountain-west-lawsuit-ceabcf381da0cec1dc5dc0e4f58c5c36)
-    * [Padres turn triple play to clinch playoff spot with 4-2 win over Dodgers](https://apnews.com/article/padres-clinch-playoff-berth-2217023d13899d5f01e1092abbd82183)
-    
-    Newsletters
-    
-    [AP Top 25 Poll Alerts
-    
-    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[The Sports Wire
-    
-    Your home base for in-depth reporting from the world of sports.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [Entertainment](https://apnews.com/entertainment)
-    
-    SECTIONS
-    
-    [Movie Reviews](https://apnews.com/hub/film-reviews) [What to Stream](https://apnews.com/hub/the-stream) [Television](https://apnews.com/hub/television) [Book Reviews](https://apnews.com/hub/book-reviews) [Music](https://apnews.com/hub/music) [Celebrity Interviews](https://apnews.com/hub/celebrity-interviews/)
-    
-    TOP STORIES
-    
-    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
-    * [Rapper Fatman Scoop died of heart disease, medical examiner says](https://apnews.com/article/fatman-scoop-dead-heart-disease-d2df783c70779d9dcb9555440ba56fdd)
-    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
     
 * [Business](https://apnews.com/business)
     
-    SECTIONS
-    
-    [Inflation](https://apnews.com/hub/inflation) [Financial Markets](https://apnews.com/hub/financial-markets) [Financial Wellness](https://apnews.com/hub/financial-wellness)
-    
-    TOP STORIES
-    
-    * [Stock market today: Wall Street hovers quietly around record highs before the bell Wednesday](https://apnews.com/article/stock-markets-rates-china-commodities-65e246f0fa3ca132d7f63da4257ed590)
-    * [Strike by more than 1,000 Samsung workers enters a third week in India](https://apnews.com/article/samung-strike-india-a61306e6c8d8a37713daa0345077e8f8)
-    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
-    
 * [Science](https://apnews.com/science)
-    
-    SECTIONS
-    
-    [Space](https://apnews.com/hub/space) [Animals](https://apnews.com/hub/animals) [The Ancient World](https://apnews.com/hub/archaeology-and-anthropology) [Climate](https://apnews.com/climate-and-environment) [Medicine](https://apnews.com/health)
-    
-    TOP STORIES
-    
-    * [NASA spacecraft to study Jupiter moon's underground ocean cleared for October launch](https://apnews.com/article/jupiter-europa-clipper-nasa-d5b5a724b1802c601400e6d38fef06dd)
-    * [Tech billionaire pulls off first private spacewalk high above Earth](https://apnews.com/article/spacex-spacewalk-private-polaris-dawn-87d4c78853f0249baf29631bedfac749)
-    * [A cave on the moon is confirmed, and scientists suspect hundreds more like it could house future explorers](https://apnews.com/article/moon-caves-nasa-astronauts-2dc57751f41a6e24f377c2259e8668ba)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
-    TOP STORIES
-    
-    * [False reports of explosives found in a car near a Trump rally spread online](https://apnews.com/article/trump-new-york-rally-false-bomb-threat-e3f8c44132602c97bb7c4acce2ec63b9)
-    * [Russia goes all-out with covert disinformation aimed at Harris, Microsoft report says](https://apnews.com/article/russia-disinformation-foreign-influence-election-microsoft-7f802f9f4a0efe206fdaad29516b1f7f)
-    * [FACT FOCUS: A look at false claims made by Trump in California](https://apnews.com/article/fact-check-misinformation-trump-california-news-conference-a02862f23ebb777057842803e37eff80)
-    * [Trump falsely accuses immigrants in Ohio of abducting and eating pets](https://apnews.com/article/haitian-immigrants-vance-trump-ohio-6e4a47c52b23ae2c802d216369512ca5)
-    * [FACT FOCUS: A look at false and misleading claims made during Trump and Harris' debate](https://apnews.com/article/debate-harris-trump-fact-focus-abortion-crime-0e368102d38d87d708a8a497a38f4fb2)
-    * [FACT FOCUS: Posts falsely claim video shows Harris promising to censor X and owner Elon Musk](https://apnews.com/article/kamala-harris-elon-musk-x-twitter-rfk-c7d6ca7cda02e29cb6acc5ad25d3d6dc)
-    
 * [Oddities](https://apnews.com/oddities)
-    
-    TOP STORIES
-    
-    * [A lost cat's mysterious 2-month, 900-mile journey home to California](https://apnews.com/article/cat-travel-900-miles-wyoming-california-trips-50041165e4af0e119e2d715f8a64a015)
-    * [Thailand's adorable pygmy hippo Moo Deng has the kind of face that launches a thousand memes](https://apnews.com/article/moo-deng-baby-hippo-thailand-zoo-27485f0cbc70071252be45d870d507aa)
-    * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
-    * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
-    * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
-    * [The last of 8 escaped bulls from a Massachusetts rodeo is caught on highway](https://apnews.com/article/rodeo-bulls-escape-massachusetts-6336274f334389cae8b1bd1873f50bf2)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
-    TOP STORIES
-    
-    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
-    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
-    * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
-    * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
-    * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    
 * [Newsletters](https://apnews.com/newsletters)
-    
-    Newsletters
-    
-    [The Morning Wire
-    
-    Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[The Afternoon Wire
-    
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)[AP Top 25 Poll Alerts
-    
-    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[The World in Pictures
-    
-    Get The AP’s most compelling photographs sent directly to your inbox.](https://apnews.com/newsletters)[The Sports Wire
-    
-    Your home base for in-depth reporting from the world of sports.](https://apnews.com/newsletters)[World of Faith
-    
-    Comprehensive global coverage of how religion shapes our world.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
     
 * [Photography](https://apnews.com/photography)
     
-    SECTIONS
-    
-    [Photo Essays](https://apnews.com/photography/photo-essays) [Photography](https://apnews.com/photography)
-    
-    TOP STORIES
-    
-    * [As Thailand approves same-sex marriage, a couple celebrates feeling freed](https://apnews.com/article/thailand-same-sex-marriage-photos-9bff4384db685c69593369dc304f3dca)
-    * [Shohei Ohtani's historic first season with the Dodgers](https://apnews.com/article/shohei-ohtani-b4c8e6ecb4052884e9ed9966ed199e04)
-    * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
-    
-    Newsletters
-    
-    [The World in Pictures
-    
-    Get The AP’s most compelling photographs sent directly to your inbox.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [AP Investigations](https://apnews.com/hub/ap-investigations/)
-    
-    TOP STORIES
-    
-    * [Policing group says officers must change how and when they use physical force on US streets](https://apnews.com/article/lethal-restraint-police-reform-law-enforcement-medics-3f746bc23ebc24c7c92d0f2468f13a29)
-    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
-    * [These South Koreans were adopted as babies. Now they're discovering their past was a lie](https://apnews.com/article/south-korea-international-adoption-fraud-investigation-e4e7d4b8823212e3b260517c5128cd66)
-    * [New CIA workplace assault case emerges as spy agency shields extent of sexual misconduct in ranks](https://apnews.com/article/cia-sexual-misconduct-spy-agency-secret-harassment-b9ad870f695d6f4127205536fafa66d2)
-    * [Elite prosecutor misused position by offering Justice Department card in DUI stop, watchdog finds](https://apnews.com/article/dui-federal-prosecutor-ethics-drunken-driving-narcotics-bb904b97fb01df1e9b39f64e7f0bcc80)
-    * [Tennessee family's lawsuit says video long kept from them shows police force, not drugs, killed son](https://apnews.com/article/lethal-restraint-police-tennessee-austin-hunter-turner-ca8b91c2f3dc9584094c6fc835d49deb)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
-    SECTIONS
-    
-    [Climate Questions](https://apnews.com/hub/climate-questions) [Climate Migration](https://apnews.com/hub/climate-migration) [India Focus](https://apnews.com/hub/india-climate)
-    
-    TOP STORIES
-    
-    * [Deadly flooding in Central Europe made twice as likely by climate change](https://apnews.com/article/central-europe-european-union-floods-climate-change-damage-rain-5e90744008e4bc1404bbfd181f09b32f)
-    * [In the gateway to the Arctic, fat, ice and polar bears are crucial. All three are in trouble](https://apnews.com/article/polar-bear-arctic-climate-change-whale-fat-938de0e1662eed4d01a747708b82e539)
-    * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
-    
 * [Health](https://apnews.com/health)
-    
-    TOP STORIES
-    
-    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
-    * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
-    * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
-    * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
-    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
     
 * [Tech](https://apnews.com/technology)
     
-    SECTIONS
-    
-    [Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
-    
-    TOP STORIES
-    
-    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
-    * [Video game actors' union calls for strike against 'League of Legends'](https://apnews.com/article/sagaftra-formosa-interactive-league-of-legends-49c2552fe96afaa04c59ddddcd9703b5)
-    * [TikTok removes Russian state media accounts for 'covert influence operations' ahead of US election](https://apnews.com/article/tiktok-russia-media-election-interference-abd51ba03af439cf272888556f424d38)
-    
 * [Lifestyle](https://apnews.com/lifestyle)
-    
-    SECTIONS
-    
-    [Back to school](https://apnews.com/hub/back-to-school) [Food & Recipes](https://apnews.com/hub/recipes) [Gardening](https://apnews.com/hub/gardening) [Homes](https://apnews.com/hub/homes) [Travel](https://apnews.com/hub/travel) [Fashion](https://apnews.com/hub/fashion) [Pets](https://apnews.com/hub/pets)
-    
-    TOP STORIES
-    
-    * [Edmunds Compares: 2024 Honda Prologue versus 2024 Toyota bZ4X Electric SUVs](https://apnews.com/article/honda-prologue-toyota-bz4x-electric-suv-e04b1d816e353e25d54a197fe0672012)
-    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
-    * [As an era ends, the city that was home to the Oakland A's comes to grips with their departure](https://apnews.com/article/oakland-athletics-baseball-final-season-9c3667e53de52b28209a9bed640f2196)
     
 * [Religion](https://apnews.com/religion)
     
-    TOP STORIES
-    
-    * [Their churches no longer feel safe. Now Nicaraguans are taking their worship home](https://apnews.com/article/nicaragua-religion-religious-freedom-evangelical-churches-7710b23b748dfc9b2d7975cd8dd81b35)
-    * [Belgium's appalling abuse legacy clouds pope's trip as survivors pen letter seeking reparations](https://apnews.com/article/belgium-pope-abuse-vatican-c3fd9c7841fe17bd874d8ce01ed4ad19)
-    * [Judge lets over 8,000 Catholic employers deny worker protections for abortion and fertility care](https://apnews.com/article/north-dakota-catholic-benefits-association-abortion-bc75f5aeac6cc89967154e0ee9ab7804)
-    
-    Newsletters
-    
-    [World of Faith
-    
-    Comprehensive global coverage of how religion shapes our world.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [Español](https://apnews.com/hub/noticias)
-    
-    TOP STORIES
-    
-    * [Hezbollah lanza misil contra Tel Aviv en nueva escalada tras intensos ataques israelíes en Líbano](https://apnews.com/world-news/general-news-760967cc65e0847451dbf77e19a25f30)
-    * [Tormenta tropical Helene gana fuerza y activa avisos por huracán en partes de Florida y México](https://apnews.com/climate-and-environment/general-news-6ef5440e3452dc18c7ce0678c8ebadc2)
-    * [Fallos de Servicio Secreto antes del tiroteo en un mitin de Trump fueron "evitables", según pesquisa](https://apnews.com/us-news/general-news-0062d60726e9110e83ef54445c71dd95)
-    * [La pandilla del Tren de Aragua comenzó en prisiones de Venezuela; ahora hay temor en EEUU](https://apnews.com/world-news/general-news-9205dc4262c36908837165392aa98bfd)
-    * [Congreso mexicano aprueba pase de Guardia Nacional al control del ejército que impulsó López Obrador](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
-    * [Trasladan a expresidente sudanés encarcelado, Omar al-Bashir, a un hospital en el norte del país](https://apnews.com/world-news/general-news-international-news-b2c466b3d9c9e71b71047e432d26f588)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -451,39 +195,7 @@ Submit Search
     
     [Israel-Hamas War](https://apnews.com/hub/israel-hamas-war) [Russia-Ukraine War](https://apnews.com/hub/russia-ukraine) [Global Elections](https://apnews.com/hub/global-elections/) [ESPAÑOL](https://apnews.com/hub/noticias)[China](https://apnews.com/hub/china) [Asia Pacific](https://apnews.com/hub/asia-pacific) [Latin America](https://apnews.com/hub/latin-america) [Europe](https://apnews.com/hub/europe)
     
-    TOP STORIES
-    
-    * [Israel has landed heavy blows on Hezbollah. The victory it seeks could prove elusive](https://apnews.com/article/israel-lebanon-hezbollah-conflict-military-strategy-cce53839bbcf0a9a36af45ed2fa7dbb4)
-    * [Netanyahu will address the UN as Israel, bogged down by one war, barrels toward another](https://apnews.com/article/netanyahu-speech-gaza-hezbollah-un-e761de05e4c4a7f54bfd27e8795bceb7)
-    * [Hezbollah fires missile at Tel Aviv as Israel activates reserve troops in response to rising tension](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5)
-    
-    Newsletters
-    
-    [The Morning Wire
-    
-    Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[The Afternoon Wire
-    
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [U.S.](https://apnews.com/us-news)
-    
-    TOP STORIES
-    
-    * [Tropical Storm Helene strengthens as hurricane warnings cover parts of Florida and Mexico](https://apnews.com/article/tropical-storm-helene-john-florida-mexico-a953d0a51d219226f7d76178af2d3f4b)
-    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
-    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    
-    Newsletters
-    
-    [The Morning Wire
-    
-    Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[The Afternoon Wire
-    
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
     
 * [Election 2024](https://apnews.com/hub/election-2024)
     
@@ -496,20 +208,6 @@ Submit Search
     
     [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
     
-    TOP STORIES
-    
-    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
-    * [Harris is more popular than Trump among AAPI voters, a new APIA Vote/AAPI Data survey finds](https://apnews.com/article/poll-aapi-kamala-harris-donald-trump-election-1db02aa7fdbe63426e779af8db1623e7)
-    * [Trump will attend Al Smith charity dinner that Harris is skipping to campaign in battleground state](https://apnews.com/article/donald-trump-al-smith-dinner-29262d451fba2b564b39d8309a504a88)
-    
-    Newsletters
-    
-    [Ground Game
-    
-    Exclusive insights and key stories from the world of politics.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [Politics](https://apnews.com/politics)
     
     * [Election 2024](https://apnews.com/hub/election-2024)
@@ -520,20 +218,6 @@ Submit Search
     SECTIONS
     
     [Election 2024](https://apnews.com/hub/election-2024) [Joe Biden](https://apnews.com/hub/joe-biden) [Congress](https://apnews.com/hub/congress) [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
-    
-    TOP STORIES
-    
-    * [Congress moving swiftly to fund government and avert shutdown before heading home to campaign](https://apnews.com/article/congress-spending-bill-speaker-johnson-shutdown-7917f589502c40d4815f1b9583d3fa23)
-    * [Secret Service failures before Trump rally shooting were 'preventable,' Senate panel finds](https://apnews.com/article/trump-assassination-attempt-senate-report-secret-service-50af5692ca1489771144ac399d491e5e)
-    * [Trump tells women he 'will be your protector' as GOP struggles with outreach to female voters](https://apnews.com/article/trump-women-protector-abortion-election-697ce355f7386bfd192b99bb00322705)
-    
-    Newsletters
-    
-    [Ground Game
-    
-    Exclusive insights and key stories from the world of politics.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
     
 * [Sports](https://apnews.com/sports)
     
@@ -551,22 +235,6 @@ Submit Search
     
     [MLB](https://apnews.com/hub/mlb) [NFL](https://apnews.com/hub/nfl) [AP Top 25](https://apnews.com/hub/ap-top-25-college-football-poll) [WNBA](https://apnews.com/hub/wnba-basketball) [NBA](https://apnews.com/hub/nba) [Soccer](https://apnews.com/hub/soccer) [Golf](https://apnews.com/hub/golf) [Auto Racing](https://apnews.com/hub/auto-racing)
     
-    TOP STORIES
-    
-    * [Retired NFL quarterback Brett Favre says he has Parkinson's disease](https://apnews.com/article/brett-favre-parkinsons-congress-mississippi-welfare-fraud-4d1635ac54ee5ab156fd2825fcd29430)
-    * [Pac-12 files a federal lawsuit against Mountain West over $43 million in 'poaching' penalties](https://apnews.com/article/pac12-mountain-west-lawsuit-ceabcf381da0cec1dc5dc0e4f58c5c36)
-    * [Padres turn triple play to clinch playoff spot with 4-2 win over Dodgers](https://apnews.com/article/padres-clinch-playoff-berth-2217023d13899d5f01e1092abbd82183)
-    
-    Newsletters
-    
-    [AP Top 25 Poll Alerts
-    
-    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[The Sports Wire
-    
-    Your home base for in-depth reporting from the world of sports.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [Entertainment](https://apnews.com/entertainment)
     
     * [Movie Reviews](https://apnews.com/hub/film-reviews)
@@ -580,12 +248,6 @@ Submit Search
     
     [Movie Reviews](https://apnews.com/hub/film-reviews) [What to Stream](https://apnews.com/hub/the-stream) [Television](https://apnews.com/hub/television) [Book Reviews](https://apnews.com/hub/book-reviews) [Music](https://apnews.com/hub/music) [Celebrity Interviews](https://apnews.com/hub/celebrity-interviews/)
     
-    TOP STORIES
-    
-    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
-    * [Rapper Fatman Scoop died of heart disease, medical examiner says](https://apnews.com/article/fatman-scoop-dead-heart-disease-d2df783c70779d9dcb9555440ba56fdd)
-    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
-    
 * [Business](https://apnews.com/business)
     
     * [Inflation](https://apnews.com/hub/inflation)
@@ -595,12 +257,6 @@ Submit Search
     SECTIONS
     
     [Inflation](https://apnews.com/hub/inflation) [Financial Markets](https://apnews.com/hub/financial-markets) [Financial Wellness](https://apnews.com/hub/financial-wellness)
-    
-    TOP STORIES
-    
-    * [Stock market today: Wall Street hovers quietly around record highs before the bell Wednesday](https://apnews.com/article/stock-markets-rates-china-commodities-65e246f0fa3ca132d7f63da4257ed590)
-    * [Strike by more than 1,000 Samsung workers enters a third week in India](https://apnews.com/article/samung-strike-india-a61306e6c8d8a37713daa0345077e8f8)
-    * [In dueling speeches, Harris is to make her capitalist pitch while Trump pushes deeper into populism](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670)
     
 * [Science](https://apnews.com/science)
     
@@ -614,64 +270,13 @@ Submit Search
     
     [Space](https://apnews.com/hub/space) [Animals](https://apnews.com/hub/animals) [The Ancient World](https://apnews.com/hub/archaeology-and-anthropology) [Climate](https://apnews.com/climate-and-environment) [Medicine](https://apnews.com/health)
     
-    TOP STORIES
-    
-    * [NASA spacecraft to study Jupiter moon's underground ocean cleared for October launch](https://apnews.com/article/jupiter-europa-clipper-nasa-d5b5a724b1802c601400e6d38fef06dd)
-    * [Tech billionaire pulls off first private spacewalk high above Earth](https://apnews.com/article/spacex-spacewalk-private-polaris-dawn-87d4c78853f0249baf29631bedfac749)
-    * [A cave on the moon is confirmed, and scientists suspect hundreds more like it could house future explorers](https://apnews.com/article/moon-caves-nasa-astronauts-2dc57751f41a6e24f377c2259e8668ba)
-    
 * [Fact Check](https://apnews.com/ap-fact-check)
-    
-    TOP STORIES
-    
-    * [False reports of explosives found in a car near a Trump rally spread online](https://apnews.com/article/trump-new-york-rally-false-bomb-threat-e3f8c44132602c97bb7c4acce2ec63b9)
-    * [Russia goes all-out with covert disinformation aimed at Harris, Microsoft report says](https://apnews.com/article/russia-disinformation-foreign-influence-election-microsoft-7f802f9f4a0efe206fdaad29516b1f7f)
-    * [FACT FOCUS: A look at false claims made by Trump in California](https://apnews.com/article/fact-check-misinformation-trump-california-news-conference-a02862f23ebb777057842803e37eff80)
-    * [Trump falsely accuses immigrants in Ohio of abducting and eating pets](https://apnews.com/article/haitian-immigrants-vance-trump-ohio-6e4a47c52b23ae2c802d216369512ca5)
-    * [FACT FOCUS: A look at false and misleading claims made during Trump and Harris' debate](https://apnews.com/article/debate-harris-trump-fact-focus-abortion-crime-0e368102d38d87d708a8a497a38f4fb2)
-    * [FACT FOCUS: Posts falsely claim video shows Harris promising to censor X and owner Elon Musk](https://apnews.com/article/kamala-harris-elon-musk-x-twitter-rfk-c7d6ca7cda02e29cb6acc5ad25d3d6dc)
     
 * [Oddities](https://apnews.com/oddities)
     
-    TOP STORIES
-    
-    * [A lost cat's mysterious 2-month, 900-mile journey home to California](https://apnews.com/article/cat-travel-900-miles-wyoming-california-trips-50041165e4af0e119e2d715f8a64a015)
-    * [Thailand's adorable pygmy hippo Moo Deng has the kind of face that launches a thousand memes](https://apnews.com/article/moo-deng-baby-hippo-thailand-zoo-27485f0cbc70071252be45d870d507aa)
-    * [Police say a pair took an NYC subway train on a joyride and crashed it. They have arrested 1 teen](https://apnews.com/article/subway-joyride-crash-new-york-b61ed588ccef4e002a5d125b3cd75a50)
-    * [A bewildered seal found itself in the mouth of a humpback whale](https://apnews.com/article/humpback-whale-gulps-seal-51cc65b5099f71a8d5b0d9469e2376fe)
-    * [Grand prize winner removed 20 Burmese pythons from the wild in Florida challenge](https://apnews.com/article/florida-python-challenge-2024-burmese-snakes-winner-414c2fae8726fc31e4049124f0f50510)
-    * [The last of 8 escaped bulls from a Massachusetts rodeo is caught on highway](https://apnews.com/article/rodeo-bulls-escape-massachusetts-6336274f334389cae8b1bd1873f50bf2)
-    
 * [Be Well](https://apnews.com/hub/be-well)
     
-    TOP STORIES
-    
-    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    * [The benefits of a four-day workweek according to a champion of the trend](https://apnews.com/article/fourday-workweek-companies-stress-9ab1fa9371636cdbeaeaed32ac8c18dd)
-    * [Before you sign up for a store credit card, know what you're getting into](https://apnews.com/article/store-credit-cards-financial-wellness-184d8e752bf2328ad7852092fb7415c6)
-    * [Want to burn calories? Climbing stairs might be the most effective exercise for you](https://apnews.com/article/stairclimbing-weight-loss-empire-state-building-eee98d172ee94b98538e333713a48ce4)
-    * [Allergies can make you miserable. Here's how to track pollen levels near you](https://apnews.com/article/allergies-pollen-symptoms-tree-grass-spring-b2cf14d86549791a64d78eb1529a98ea)
-    * [Menopause can bring on dental problems, but you can protect your mouth](https://apnews.com/article/menopause-dental-dry-mouth-estrogen-414c39e119f4d3f17e9be289c9dd6914)
-    
 * [Newsletters](https://apnews.com/newsletters)
-    
-    Newsletters
-    
-    [The Morning Wire
-    
-    Our flagship newsletter breaks down the biggest headlines of the day.](https://apnews.com/newsletters)[The Afternoon Wire
-    
-    Get caught up on what you may have missed throughout the day.](https://apnews.com/newsletters)[AP Top 25 Poll Alerts
-    
-    Get email alerts for every college football Top 25 Poll release.](https://apnews.com/newsletters)[The World in Pictures
-    
-    Get The AP’s most compelling photographs sent directly to your inbox.](https://apnews.com/newsletters)[The Sports Wire
-    
-    Your home base for in-depth reporting from the world of sports.](https://apnews.com/newsletters)[World of Faith
-    
-    Comprehensive global coverage of how religion shapes our world.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
     
 * [Photography](https://apnews.com/photography)
     
@@ -682,30 +287,7 @@ Submit Search
     
     [Photo Essays](https://apnews.com/photography/photo-essays) [Photography](https://apnews.com/photography)
     
-    TOP STORIES
-    
-    * [As Thailand approves same-sex marriage, a couple celebrates feeling freed](https://apnews.com/article/thailand-same-sex-marriage-photos-9bff4384db685c69593369dc304f3dca)
-    * [Shohei Ohtani's historic first season with the Dodgers](https://apnews.com/article/shohei-ohtani-b4c8e6ecb4052884e9ed9966ed199e04)
-    * [Cascading disasters push residents of a Nepalese valley to the brink](https://apnews.com/article/climate-change-nepal-landslides-earthquakes-extreme-weather-rains-river-fb0ee690e6ec4a110af198865a5fe159)
-    
-    Newsletters
-    
-    [The World in Pictures
-    
-    Get The AP’s most compelling photographs sent directly to your inbox.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [AP Investigations](https://apnews.com/hub/ap-investigations/)
-    
-    TOP STORIES
-    
-    * [Policing group says officers must change how and when they use physical force on US streets](https://apnews.com/article/lethal-restraint-police-reform-law-enforcement-medics-3f746bc23ebc24c7c92d0f2468f13a29)
-    * [Western nations were desperate for Korean babies. Now many adoptees believe they were stolen](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
-    * [These South Koreans were adopted as babies. Now they're discovering their past was a lie](https://apnews.com/article/south-korea-international-adoption-fraud-investigation-e4e7d4b8823212e3b260517c5128cd66)
-    * [New CIA workplace assault case emerges as spy agency shields extent of sexual misconduct in ranks](https://apnews.com/article/cia-sexual-misconduct-spy-agency-secret-harassment-b9ad870f695d6f4127205536fafa66d2)
-    * [Elite prosecutor misused position by offering Justice Department card in DUI stop, watchdog finds](https://apnews.com/article/dui-federal-prosecutor-ethics-drunken-driving-narcotics-bb904b97fb01df1e9b39f64e7f0bcc80)
-    * [Tennessee family's lawsuit says video long kept from them shows police force, not drugs, killed son](https://apnews.com/article/lethal-restraint-police-tennessee-austin-hunter-turner-ca8b91c2f3dc9584094c6fc835d49deb)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -717,22 +299,7 @@ Submit Search
     
     [Climate Questions](https://apnews.com/hub/climate-questions) [Climate Migration](https://apnews.com/hub/climate-migration) [India Focus](https://apnews.com/hub/india-climate)
     
-    TOP STORIES
-    
-    * [Deadly flooding in Central Europe made twice as likely by climate change](https://apnews.com/article/central-europe-european-union-floods-climate-change-damage-rain-5e90744008e4bc1404bbfd181f09b32f)
-    * [In the gateway to the Arctic, fat, ice and polar bears are crucial. All three are in trouble](https://apnews.com/article/polar-bear-arctic-climate-change-whale-fat-938de0e1662eed4d01a747708b82e539)
-    * [In Ohio, drought and shifting weather patterns affect North America's largest native fruit](https://apnews.com/article/climate-change-pawpaw-ohio-midwest-harvest-drought-spring-freeze-c060f2ca0ff9a110db922342a7c81ed3)
-    
 * [Health](https://apnews.com/health)
-    
-    TOP STORIES
-    
-    * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    * [Severe obesity is on the rise in the US](https://apnews.com/article/how-common-is-obesity-us-5663c0388b19009eae3834d695710bc4)
-    * [High insulin prices spur a federal lawsuit against three pharmacy benefit managers](https://apnews.com/article/insulin-prices-pbm-lawsuit-ftc-8bd316ed4b5c613d521f70805f0be01d)
-    * [US will let more people take methadone at home](https://apnews.com/article/methadone-opioids-addiction-treatment-6dc1634de4cdac06410149e6a1372e18)
-    * [A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd)
-    * [Funds are cutting aid for women seeking abortions as costs rise](https://apnews.com/article/abortion-fund-cuts-texas-florida-277daed0806e76b891bf10ef452ce8a7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -742,12 +309,6 @@ Submit Search
     SECTIONS
     
     [Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
-    
-    TOP STORIES
-    
-    * [Can AI make video games more immersive? Some studios turn to AI-fueled NPCs for more interaction](https://apnews.com/article/ai-artificial-intelligence-video-games-npc-c1327bb9130136d0a5f658f44176c5e7)
-    * [Video game actors' union calls for strike against 'League of Legends'](https://apnews.com/article/sagaftra-formosa-interactive-league-of-legends-49c2552fe96afaa04c59ddddcd9703b5)
-    * [TikTok removes Russian state media accounts for 'covert influence operations' ahead of US election](https://apnews.com/article/tiktok-russia-media-election-interference-abd51ba03af439cf272888556f424d38)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -763,38 +324,9 @@ Submit Search
     
     [Back to school](https://apnews.com/hub/back-to-school) [Food & Recipes](https://apnews.com/hub/recipes) [Gardening](https://apnews.com/hub/gardening) [Homes](https://apnews.com/hub/homes) [Travel](https://apnews.com/hub/travel) [Fashion](https://apnews.com/hub/fashion) [Pets](https://apnews.com/hub/pets)
     
-    TOP STORIES
-    
-    * [Edmunds Compares: 2024 Honda Prologue versus 2024 Toyota bZ4X Electric SUVs](https://apnews.com/article/honda-prologue-toyota-bz4x-electric-suv-e04b1d816e353e25d54a197fe0672012)
-    * [Melania Trump is telling her own story — and again breaking norms for American first ladies](https://apnews.com/article/melania-trump-president-election-book-memoir-ba562374884a9d4494c658ca248fd32b)
-    * [As an era ends, the city that was home to the Oakland A's comes to grips with their departure](https://apnews.com/article/oakland-athletics-baseball-final-season-9c3667e53de52b28209a9bed640f2196)
-    
 * [Religion](https://apnews.com/religion)
     
-    TOP STORIES
-    
-    * [Their churches no longer feel safe. Now Nicaraguans are taking their worship home](https://apnews.com/article/nicaragua-religion-religious-freedom-evangelical-churches-7710b23b748dfc9b2d7975cd8dd81b35)
-    * [Belgium's appalling abuse legacy clouds pope's trip as survivors pen letter seeking reparations](https://apnews.com/article/belgium-pope-abuse-vatican-c3fd9c7841fe17bd874d8ce01ed4ad19)
-    * [Judge lets over 8,000 Catholic employers deny worker protections for abortion and fertility care](https://apnews.com/article/north-dakota-catholic-benefits-association-abortion-bc75f5aeac6cc89967154e0ee9ab7804)
-    
-    Newsletters
-    
-    [World of Faith
-    
-    Comprehensive global coverage of how religion shapes our world.](https://apnews.com/newsletters)
-    
-    [See All Newsletters](https://apnews.com/newsletters)
-    
 * [Español](https://apnews.com/hub/noticias)
-    
-    TOP STORIES
-    
-    * [Hezbollah lanza misil contra Tel Aviv en nueva escalada tras intensos ataques israelíes en Líbano](https://apnews.com/world-news/general-news-760967cc65e0847451dbf77e19a25f30)
-    * [Tormenta tropical Helene gana fuerza y activa avisos por huracán en partes de Florida y México](https://apnews.com/climate-and-environment/general-news-6ef5440e3452dc18c7ce0678c8ebadc2)
-    * [Fallos de Servicio Secreto antes del tiroteo en un mitin de Trump fueron "evitables", según pesquisa](https://apnews.com/us-news/general-news-0062d60726e9110e83ef54445c71dd95)
-    * [La pandilla del Tren de Aragua comenzó en prisiones de Venezuela; ahora hay temor en EEUU](https://apnews.com/world-news/general-news-9205dc4262c36908837165392aa98bfd)
-    * [Congreso mexicano aprueba pase de Guardia Nacional al control del ejército que impulsó López Obrador](https://apnews.com/world-news/general-news-205fc9fbcf07accf7f498b88a942af97)
-    * [Trasladan a expresidente sudanés encarcelado, Omar al-Bashir, a un hospital en el norte del país](https://apnews.com/world-news/general-news-international-news-b2c466b3d9c9e71b71047e432d26f588)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
