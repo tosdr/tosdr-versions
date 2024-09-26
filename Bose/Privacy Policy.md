@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-New Bose QuietComfort Earbuds and Bose Smart Soundbar. [Shop](https://www.bose.com/c/new-arrivals)
+Introducing the next-gen SoundLink Flex. [Shop](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html)
 
 Vibe more, pause less with Ultra Open Earbuds. [Shop](https://www.bose.com/ULT-HEADPHONEOPN.html)
 
@@ -73,20 +73,20 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/5475f5da9e0a6a07/webimage-SF_QCEB25_MOB-NAV_WHITE_EXPRESSIVE.png)
+    [![](https://assets.bosecreative.com/m/47a4a45400604db9/webimage-SLFLXII_Black_Situ_SF_NavFlyout_Mobile.png)
     
-    NEW QUIETCOMFORT EARBUDS
+    The Next-Gen SoundLink Flex
     
-    ### Powerful, not precious](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
+    ### Music calls](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html "BUY NOW")
     
      
     
-    Powerful, not precious
-    ----------------------
+    Music calls
+    -----------
     
-    New QuietComfort Earbuds
+    Introducing the next-gen SoundLink Flex Speaker
     
-    [BUY NOW](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
+    [BUY NOW](https://www.bose.com/SLFLXII-SPEAKERWIRELESS.html "BUY NOW")
     
 
 * [Explore](#)
