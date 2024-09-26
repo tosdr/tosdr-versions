@@ -399,11 +399,11 @@ Submit
 
  [![0032](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/be.svg) +32 (Country Code)](https://spamcalls.net/en/country-code/32)
 
+ [![0064](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/nz.svg) +64 (Country Code)](https://spamcalls.net/en/country-code/64)
+
  [![0031](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/nl.svg) +31 (Country Code)](https://spamcalls.net/en/country-code/31)
 
  [![0046](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/se.svg) +46 (Country Code)](https://spamcalls.net/en/country-code/46)
-
- [![0064](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/nz.svg) +64 (Country Code)](https://spamcalls.net/en/country-code/64)
 
  [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/au.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
 
