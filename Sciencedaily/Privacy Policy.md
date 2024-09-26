@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Ill-Fated 1845 Franklin Expedition](https://www.sciencedaily.com/releases/2024/09/240924123035.htm)
 * [Hemophilia B: Single-Dose Gene Therapy](https://www.sciencedaily.com/releases/2024/09/240925172115.htm)
 * [Deep Sea: Life in the Twilight Zone](https://www.sciencedaily.com/releases/2024/09/240925123650.htm)
 * [Extreme El Niño Events On the Upswing](https://www.sciencedaily.com/releases/2024/09/240925123647.htm)
@@ -217,7 +218,6 @@ this hour
 * [World's Oldest Cheese Reveals Origins of Kefir](https://www.sciencedaily.com/releases/2024/09/240925122859.htm)
 * [How Special Is the Milky Way Galaxy?](https://www.sciencedaily.com/releases/2024/09/240925144014.htm)
 * [Can We Reach 2°C Climate Target?](https://www.sciencedaily.com/releases/2024/09/240925123600.htm)
-* [A New Ancestor of the Grape Family](https://www.sciencedaily.com/releases/2024/09/240925122920.htm)
 
 Trending Topics
 ---------------
