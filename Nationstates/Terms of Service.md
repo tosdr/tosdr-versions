@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Change a Letter (2,039)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,039 posts)")
-* [Out of the 2 AN’s: Which one has the… (2,759)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (2,759 posts)")
-* [Would AN declare war on you? (1,019)](https://forum.nationstates.net/viewtopic.php?t=553490&f=25&view=unread#unread ""Would AN declare war on you?" (1,019 posts)")
-* [Proletariat VS Bourgeoisie (11)](https://forum.nationstates.net/viewtopic.php?t=555931&f=20&view=unread#unread ""Proletariat VS Bourgeoisie" (11 posts)")
-* [What Music Are You Listening to? v18 (11,196)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (11,196 posts)")
+* [Ridiculous Questions: Educated Answers. (54)](https://forum.nationstates.net/viewtopic.php?t=555820&f=20&view=unread#unread ""Ridiculous Questions: Educated Answers." (54 posts)")
+* [What do you love about AN? (1,437)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,437 posts)")
+* [American Politics: (Pumpkin)Spicy Sal… (8,793)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: (Pumpkin)Spicy Salaciousness in NC" (8,793 posts)")
+* [\[AT VOTE\] Repeal: Condemn the Black H… (338)](https://forum.nationstates.net/viewtopic.php?t=555742&f=24&view=unread#unread ""[AT VOTE] Repeal: Condemn the Black Hawks (#52)" (338 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (633)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (633 posts)")
 
 Advertisement
 
