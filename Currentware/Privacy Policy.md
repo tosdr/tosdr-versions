@@ -367,6 +367,7 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
     * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
     * [Managed Service Providers](https://www.currentware.com/managed-service-provider/)
     * [Monitor Productivity](https://www.currentware.com/solutions/employee-productivity/)
+    * [Office Attendance Tracking](https://www.currentware.com/solutions/office-attendance-tracking/)
     * [Remote Workers](https://www.currentware.com/solutions/remote-workforce/)
     * [Security Compliance](https://www.currentware.com/solutions/compliance/)
     * [Staff Investigations](https://www.currentware.com/solutions/employee-investigation/)
@@ -419,9 +420,9 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
 
 [Terms of Service](https://www.currentware.com/terms-of-service/)
 
- [![](data:image/gif;nitro-empty-id=NzQwOjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=NzQxOjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=NzQyOjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=NzQzOjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
+ [![](data:image/gif;nitro-empty-id=NzQxOjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=NzQyOjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=NzQzOjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=NzQ0OjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
 
-![CurrentWare Privacy Policy](data:image/svg+xml;nitro-empty-id=NzYwOjIzNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![CurrentWare Privacy Policy](data:image/svg+xml;nitro-empty-id=NzYxOjIzNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 This website uses cookies to improve your user experience. By using our website, you consent to all cookies in accordance with our [Privacy Policy](https://www.currentware.com/privacy-policy/)
 
