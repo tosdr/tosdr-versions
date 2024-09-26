@@ -802,8 +802,6 @@ If you have any questions or suggestions regarding this Privacy Policy, please c
 Suite 95997  
 Wilmington, Delaware 19802-4447
 
-[](tel:)
-
 ##### Products
 
 Onboarding
