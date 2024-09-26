@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c730fd4d-62b5-43d6-b805-55b98cac568e/20240512T031020/c730fd4d-62b5-43d6-b805-55b98cac568e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c730fd4d-62b5-43d6-b805-55b98cac568e/20240512T031020/c730fd4d-62b5-43d6-b805-55b98cac568e_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-island-police-department-defense-skillbridge-military-members-veterans/526-da10119f-403c-41d6-9229-1e2438c50e7a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
         
-        #### [Rock Island Police partnering with Department of Defense's SkillBridge program](https://www.wqad.com/article/news/local/public-safety/rock-island-police-department-defense-skillbridge-military-members-veterans/526-da10119f-403c-41d6-9229-1e2438c50e7a)
+        #### [Davenport City Council approves new code of conduct](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00) [![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2d10790-e927-434c-8d77-c8a05f93a334/20240918T023507/b2d10790-e927-434c-8d77-c8a05f93a334_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
         
-    *  [![](https://media.tegna-media.com/assets/WLTX/images/574133725/574133725_16x9.jpg) ![](https://media.tegna-media.com/assets/WLTX/images/574133725/574133725_360x203.jpg)](https://www.wqad.com/article/news/local/person-fatally-struck-train-lee-county-illinois/526-b48f3dab-7d8e-4331-ae34-bbac02b5c29c)
+        #### [The Davenport City Council has a new code of conduct](https://www.wqad.com/article/news/local/davenport-city-council-approves-new-code-conduct/526-851fb5fd-079e-4290-a1ab-7d3aaf11ea00)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_360x203.jpg)](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
         
-        #### [Person fatally struck by train in Lee County, Illinois](https://www.wqad.com/article/news/local/person-fatally-struck-train-lee-county-illinois/526-b48f3dab-7d8e-4331-ae34-bbac02b5c29c)
+        #### [Doug Maxeiner approved as new Davenport city administrator](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5) [![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50/20240926T030531/b98e1404-bed1-465e-a5c5-f4d2b4ee2f50_360x203.jpg)](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
         
+        #### [Davenport City Council approves hiring of Doug Maxeiner as city administrator](https://www.wqad.com/article/news/local/doug-maxeiner-approved-as-new-davenport-city-administrator/526-51767087-e391-41ed-9bfd-448165ce09f5)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,7 +58,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fe6e4242-4290-4658-a52a-b8ede20a0fe9/20240925T220735/fe6e4242-4290-4658-a52a-b8ede20a0fe9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fe6e4242-4290-4658-a52a-b8ede20a0fe9/20240925T220735/fe6e4242-4290-4658-a52a-b8ede20a0fe9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f9012e3a-c125-47ce-af56-0badc9223d4d/20240926T033408/f9012e3a-c125-47ce-af56-0badc9223d4d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f9012e3a-c125-47ce-af56-0badc9223d4d/20240926T033408/f9012e3a-c125-47ce-af56-0badc9223d4d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Mild temperatures extends through the upcoming weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +88,9 @@ Navigation
 
 Davenport, IA »
 
-75°
+59°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
