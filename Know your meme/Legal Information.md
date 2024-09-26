@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [DEI Chin](https://knowyourmeme.com/memes/dei-chin "DEI Chin") [Marques Brownlee's iPhone Wallpaper App](https://knowyourmeme.com/memes/sites/marques-brownlees-iphone-wallpaper-app "Marques Brownlee's iPhone Wallpaper App") [Queen Elizabeth II's Death](https://knowyourmeme.com/memes/events/queen-elizabeth-iis-death "Queen Elizabeth II's Death") [Death of Kim Jong-Il](https://knowyourmeme.com/memes/events/death-of-kim-jong-il "Death of Kim Jong-Il") [Half-Life](https://knowyourmeme.com/memes/subcultures/half-life "Half-Life") [Steve Jobs' Death](https://knowyourmeme.com/memes/events/steve-jobs-death "Steve Jobs' Death") [Osama Bin Laden's Death](https://knowyourmeme.com/memes/events/osama-bin-ladens-death "Osama Bin Laden's Death") [All Life Is Precious](https://knowyourmeme.com/memes/all-life-is-precious "All Life Is Precious") [Thug Life](https://knowyourmeme.com/memes/thug-life "Thug Life") [Tomodachi Life](https://knowyourmeme.com/memes/subcultures/tomodachi-life "Tomodachi Life") [Omnicause](https://knowyourmeme.com/memes/omnicause "Omnicause") [Lovely Lady RPG](https://knowyourmeme.com/memes/subcultures/lovely-lady-rpg "Lovely Lady RPG") [Wild One vs. Soft One Dynamic Ship](https://knowyourmeme.com/memes/wild-one-vs-soft-one-dynamic-ship "Wild One vs. Soft One Dynamic Ship") [Jonathan Kennedy's 'Infected' Art](https://knowyourmeme.com/memes/jonathan-kennedys-infected-art "Jonathan Kennedy's 'Infected' Art") [Nintendo vs. Palworld Lawsuit](https://knowyourmeme.com/memes/events/nintendo-vs-palworld-lawsuit "Nintendo vs. Palworld Lawsuit")
+[Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Marques Brownlee's iPhone Wallpaper App](https://knowyourmeme.com/memes/sites/marques-brownlees-iphone-wallpaper-app "Marques Brownlee's iPhone Wallpaper App")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
