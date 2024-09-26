@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| 4x4xuLainey Wilson<br><br>11:36pm |
-| Pink SkiesZach Bryan<br><br>11:33pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>11:29pm |
-| Love Ain'TEli Young Band<br><br>11:26pm |
-| Can'T Have MineDylan Scott<br><br>11:23pm |
+| Check Yes Or NoGeorge Strait<br><br>4:58am |
+| Get Me Some Of ThatThomas Rhett<br><br>4:55am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:52am |
+| Where It EndsBailey Zimmerman<br><br>4:49am |
+| Single AgainJosh Ross<br><br>4:47am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,19 +358,19 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-News Talk • Eastern
+Spanish • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
