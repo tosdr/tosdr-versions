@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [China test-fires intercontinental ballistic missile into Pacific Ocean](https://www.defensenews.com/global/asia-pacific/2024/09/25/china-test-fires-intercontinental-ballistic-missile-into-pacific-ocean/)  
+    09/25/24 06:30pm  
+    
+    Military vehicles carry nuclear ballistic missiles during a 2019 parade commemorating the founding of Communist China in Beijing. China test-fired an ICBM into the Pacific on Wednesday. (Mark Schiefelbein,/AP)
+    
+* [US missile system will remain in Philippines despite China’s alarm](https://www.defensenews.com/global/asia-pacific/2024/09/25/us-missile-system-will-remain-in-philippines-despite-chinas-alarm/)  
+    09/25/24 03:00pm  
+    
+    Philippine military chief Gen. Romeo Brawner Jr., center, listens to an exhibitor during an Asian defense industry exhibition Wednesday in Manila. Brawner Jr. has asked the U.S. to keep a U.S. missile system in the country to boost deterrence. (Aaron Favila/AP)
+    
 * [Saab to open munitions production facility in Michigan](https://www.defensenews.com/land/2024/09/24/saab-to-open-munitions-production-facility-in-northern-michigan/)  
     09/24/24 10:46am  
     
@@ -159,16 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/20/24 09:29pm  
     
     Boeng on Friday announced Ted Colbert, the head of Boeing Defense, Space and Security, was exiting the company effective immediately. (Karim Sahib/AFP via Getty Images)
-    
-* [Recruits need real rifles at boot camp, top enlisted airman says](https://www.defensenews.com/air/2024/09/20/rifles-at-air-force-boot-camp-top-leader-calls-it-desired-end-state/)  
-    09/20/24 08:00am  
-    
-    The top enlisted airman said Air Force recruits should one day carry actual rifles during basic military training. (Ava Leone/U.S. Air Force)
-    
-* [US Air Force names second and third B-21 Raider bases](https://www.defensenews.com/air/2024/09/19/us-air-force-names-second-and-third-b-21-raider-bases/)  
-    09/19/24 04:00pm  
-    
-    The U.S. Air Force recently announced two additional basing locations for its new B-21 Raider stealth bomber. (U.S. Air Force)
     
 
 Recent parts by keyword  
