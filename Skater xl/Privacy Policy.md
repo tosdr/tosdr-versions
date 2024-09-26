@@ -142,7 +142,7 @@ Player Support
 
 [Community Hub](https://steamcommunity.com/app/962730)
 
-![](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
+![](https://cdn.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
 
 Skater XL - The Ultimate Skateboarding Game
 
@@ -172,7 +172,7 @@ Very Positive (54) \- 87% of the 54 user reviews in the last 30 days are positiv
 
 All Reviews:
 
-Very Positive (18,109) \- 86% of the 18,109 user reviews for this game are positive.    
+Very Positive (18,108) \- 86% of the 18,108 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,7 +198,7 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,109) All Time
+Very Positive (86% of 18,108) All Time
 
 Recent Reviews:
 
@@ -458,7 +458,7 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,109 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,108 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
@@ -466,19 +466,19 @@ Very Positive (54 reviews) ![](https://store.akamai.steamstatic.com/public/share
 
 Review Type
 
- All (19,240)  
- Positive (16,556)  
+ All (19,239)  
+ Positive (16,555)  
  Negative (2,684)
 
 Purchase Type
 
- All (19,240)  
- Steam Purchasers (18,109) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,239)  
+ Steam Purchasers (18,108) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,131) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,240)  
+ All Languages (19,239)  
  Your Languages (13,303) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
