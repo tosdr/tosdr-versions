@@ -5,61 +5,63 @@
 Terms of Service
 ================
 
-Effective Date: November 13, 2023
+Effective Date: September 22, 2024
 
   
 
-**IMPORTANT NOTICE: THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION AND CLASS ACTION WAIVER. IT AFFECTS YOUR LEGAL RIGHTS AS DETAILED IN THE ARBITRATION AND CLASS ACTION WAIVER SECTION [BELOW](#arbitration). PLEASE READ CAREFULLY.**
+**IMPORTANT NOTICE: THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION AND CLASS ACTION WAIVER. IT AFFECTS YOUR LEGAL RIGHTS AS DETAILED IN THE ARBITRATION AND CLASS ACTION WAIVER SECTION** [**BELOW**](#arbitration)**. PLEASE READ CAREFULLY.**
 
 **PLEASE NOTE THAT YOUR USE OF AND ACCESS TO THE PLATFORM (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE PLATFORM IN ANY MANNER.**
 
 **Table of Contents**
 
-**1\. [Acceptance of Terms](#acceptance)**
+**1\.** [**Acceptance of Terms**](#acceptance)
 
-**2\. [The Platform](#platform)**
+**2\.** [**The Platform**](#platform)
 
-**3\. [Additional Premium Services](#premium)**
+**3\.** [**Additional Premium Services**](#premium)
 
-**4\. [Modification of Terms of Platform](#modification)**
+**4\.** [**Fair Use Policy**](#fair)
 
-**5\. [Eligibility & Account Creation](#eligibility)**
+**5\.** [**Modification of Terms of Platform**](#modification)
 
-**6\. [Posts](#posts)**
+**6\.** [**Eligibility & Account Creation**](#eligibility)
 
-**7\. [Prohibitions](#prohibitions)**
+**7\.** [**Posts**](#posts)
 
-**8\. [Notice and Procedure for Making Claims of Copyright Infringement](#copyright)**
+**8\.** [**Prohibitions**](#prohibitions)
 
-**9\. [Fees, Refund and Cancellation Policy](#fees)**
+**9\.** [**Notice and Procedure for Making Claims of Copyright Infringement**](#copyright)
 
-**10\. [Proprietary Rights and Limited License](#proprietary)**
+**10\.** [**Fees, Refund and Cancellation Policy**](#fees)
 
-**11\. [Feedback](#feedback)**
+**11\.** [**Proprietary Rights and Limited License**](#proprietary)
 
-**12\. [Third Party Links & Services](#links)**
+**12\.** [**Feedback**](#feedback)
 
-**13\. [Duration and Termination of Agreement](#duration)**
+**13\.** [**Third Party Links & Services**](#links)
 
-**14\. [Indemnity and Release](#indemnity)**
+**14\.** [**Duration and Termination of Agreement**](#duration)
 
-**15\. [SMS Terms](#sms)**
+**15\.** [**Indemnity and Release**](#indemnity)
 
-**16\. [Disclaimers](#disclaimers)**
+**16\.** [**SMS Terms**](#sms)
 
-**17\. [Limitation of Liability](#limitation)**
+**17\.** [**Disclaimers**](#disclaimers)
 
-**18\. [Arbitration and Class Action Waiver](#arbitration)**
+**18\.** [**Limitation of Liability**](#limitation)
 
-**19\. [Venue and Governing Law](#venue)**
+**19\.** [**Arbitration and Class Action Waiver**](#arbitration)
 
-**20\. [Application License](#license)**
+**20\.** [**Venue and Governing Law**](#venue)
 
-**21\. [General](#general)**
+**21\.** [**Application License**](#license)
 
-**22\. [Contact Us](#contact-us)**
+**22\.** [**General**](#general)
 
-**23\. [iOS Terms](#ios)**
+**23\.** [**Contact Us**](#contact-us)
+
+**24\.** [**iOS Terms**](#ios)
 
   
 
@@ -71,7 +73,7 @@ By using or otherwise accessing the Platform or clicking to accept or agree to t
 
 All references to “you” or “your,” as applicable, mean the person who accesses, uses, and/or participates in the Platform in any manner, and each of your heirs, assigns, and successors. If you use the Platform on behalf of an entity, you represent and warrant that you have the authority to bind that entity, your acceptance of the Terms will be deemed an acceptance by that entity, and “you” and “your” herein shall refer to that entity, its directors, officers, employees, and agents.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
 **2\. The Platform**
 
@@ -79,7 +81,7 @@ The JustAnswer Platform is an online venue for informational and educational pur
 
 We are not involved in the conversations you may engage in with other Users on the Platform. JustAnswer shall not be liable for (a) any acts or omissions by you, (b) content in posts made by Users on the Platform, including questions, answers, requests for information, responses, profiles, Expert signatures, qualifications, comments, profile information, and posts in the Expert Forum and other places where Users communicate with one another (collectively “Posts”), or (c) an Expert’s failure to complete a transaction. You further understand that site tools, JustAnswer’s mobile application or any other tools (collectively, “Tools”) offered by JustAnswer are optional and such Tools are purely offered for convenience and usage of such Tools is not mandatory. You understand certain Tools, such as chatbots, may utilize or be powered by AI language models, and data input into such Tools shall be subject to these Terms, our Privacy Policy, and any other disclosures presented in connection with such Tools. You understand JustAnswer may also allow Experts to use certain Tools at their option, which may utilize AI language models or other automated technology to for example help Experts communicate with other Users on the Platform. You are solely responsible for transactions you make with Experts on the Platform, including honoring any payment obligations.
 
-JustAnswer does not refer Customers to or endorse or recommend particular Experts. JustAnswer shall not be liable for any acts or omissions of Experts, Posts, or the ability of Experts to answer questions. We cannot ensure that an Expert will complete a transaction. You understand and acknowledge that JustAnswer cannot and does not edit, modify, filter, screen, monitor, endorse or guarantee the content of Posts. Notwithstanding the foregoing, JustAnswer reserves the right, but is not obligated, to refuse to post or to remove any content and/or remove any User’s access to the Platform for any reason, including violation of these Terms.
+JustAnswer does not refer Customers to or endorse or recommend particular Experts. JustAnswer shall not be liable for any acts or omissions of Experts, Posts, or the ability of Experts to answer questions. We cannot ensure that an Expert will complete a transaction. You understand and acknowledge that JustAnswer cannot and does not edit, modify, filter, screen, monitor, endorse or guarantee the content of Posts or other communications between Customers and Experts, but we may modify Posts or other communications for privacy purposes and at our editorial discretion, including for clarity or length. Notwithstanding the foregoing, JustAnswer reserves the right, but is not obligated, to refuse to post or to remove any content and/or remove any User’s access to the Platform for any reason, including violation of these Terms.
 
 EMERGENCY QUESTIONS AND CRISIS SITUATIONS (particularly regarding medical or mental health issues) should not be directed to the Platform and should, instead be directed immediately by telephone or in-person to qualified professionals (e.g. in the U.S., call 911). The Platform is not the appropriate venue to deal with such situations.
 
@@ -93,17 +95,17 @@ JustAnswer contracts with third-party service providers to perform the verificat
 
 **Answers Experts provide on the Platform are to be used by Customers for general information purposes only, not as a substitute for in-person evaluation or specific professional (medical, legal, veterinary, tax, financial, etc.) advice. No professional-client relationships shall be formed on the Platform.** For example, Experts in the Legal category will provide only general information about the law and will not provide legal advice nor propose a specific course of action for a Customer. By answering questions, Experts do not intend to form, and do not form attorney-client or doctor-patient relationships with Users of the Platform. The laws, regulations, other governing authorities, standards, practices, and procedures that apply to your particular question may differ depending on your location and information typically discovered through in-person evaluations or visits. Experts in some categories may be licensed, certified, educated, employed by or have experience in only particular jurisdictions. Communications on this Platform are not confidential and shall not be the subject of any associated privileges. Communications on this Platform are limited, as described above, do not involve in-person evaluations or visits, and do not include safeguards and procedures typical of in-person evaluations and visits.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
 **3\. Additional Premium Services**
 
-**You may be presented with an offer for services outside of the Platform’ standard question-and-answer platform (“Additional Premium Services”).**
+**You may be presented with an offer for services outside of the Platform’s standard question-and-answer platform (“Additional Premium Services”).**
 
 JustAnswer is only a venue which facilitates communication between Experts and potential Users of Additional Premium Services. It does not provide any of the substance or content of any Additional Premium Services initiated through JustAnswer’s Platform.
 
 **JustAnswer will in no way be liable for any acts or omissions of Experts in performing Additional Premium Services (or any services) for you or any issues that may arise before, during, or after any Additional Premium Service.**
 
-Additional Premium Services may be: (1) “Information Only;” or (2) “Beyond Information Only.” “Information Only” Additional Premium Services are those additional services outside the Platform’s standard question-and-answer platform and may be conducted off the Platform (either by phone, chat, email, remote desktop, or any other third-party tool) but remain for general informational services only. “Beyond Information Only” services facilitate Users’ exchange off Platform that are more than informational and that could potentially evolve into a professional relationship. Charges for Additional Premium Platform will be described in the particular offer. JustAnswer or the Expert may record communications during Additional Premium Services.
+Additional Premium Services may be: (1) “Information Only;” or (2) “Beyond Information Only.” “Information Only” Additional Premium Services are those additional services outside the Platform’s standard question-and-answer platform and may be conducted off the Platform (either by phone, chat, video, email, remote desktop, or any other third-party tool) but remain for general informational services only. “Beyond Information Only” services facilitate Users’ exchange off Platform that are more than informational and that could potentially evolve into a professional relationship. Charges for Additional Premium Platform will be described in the particular offer. JustAnswer or the Expert may record communications during Additional Premium Services.
 
 _Beyond Information Only Additional Premium Services_
 
@@ -131,17 +133,23 @@ _Terms Relating to Remote Desktop Users_
 
 If you agree to accept Remote Desktop Services (whether such services are Information Only or Beyond Information Only) from an Expert, by accepting such offer for services, you are agreeing to give the Expert full access to and control over your computer (including permission to download and use software on your computer, gather system data, modify settings, etc.) for computer diagnosis, service, and repair. You agree that any third-party software acquired, installed, or used during the Remote Desktop session, by you or by the Expert, will be licensed to you, and that any terms of use relating to the third-party software are agreed to by you, that an Expert may record via video the Remote Desktop Session for security purposes, and that you will not use the Platform to do anything unlawful.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**4\. Modification of Terms or Platform**
+**4\. Fair Use Policy**
+
+Membership Subscriptions are intended and authorized only for personal, non-transferrable, not-for-resale use only. Excessive use by any particular Customer may impair JustAnswer’s ability to offer subscriptions at reasonable prices to other Customers and/or indicate non-personal, transferred or resale use. Ask verified Experts as many questions as you would like in the subscription eligible categories listed on the FAQ Page during the length of your subscription, subject to this Fair Use Policy. The list of eligible forums is subject to change at any time, subject to JustAnswer’s sole discretion.
+
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+
+**5\. Modification of Terms or Platform**
 
 Except for Section 18, providing for binding arbitration and waiver of class action rights, JustAnswer reserves the right, at its reasonable and sole discretion, to modify or replace these Terms at any time. You are responsible for reviewing and becoming familiar with any such modifications. If we determine a revision to the Terms, in our sole discretion, is material, we will notify you as required by law. Use of the Platform by you after any modification to the Terms constitutes your acceptance of the Terms as modified. If you do not accept the changes, you must discontinue using the Platform.
 
 JustAnswer reserves the right at any time to modify, suspend, discontinue, or terminate, temporarily or permanently, the Platform or associated services (or any part thereof), with or without notice. Except for payments or refunds expressly available to you under these Terms (or as required by law), you agree that JustAnswer shall not be liable to you for any modification, suspension, or discontinuance of the Platform.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**5\. Eligibility & Account Creation**
+**6\. Eligibility & Account Creation**
 
 Only individuals who are at least 13 years old and can form legally binding contracts under applicable law of their jurisdiction are permitted to access the Platform or be a User. If we learn we have collected personal information from children under 13, we will delete that information in accordance with our legal requirements. If you believe that a child under 13 has provided us personal information, please contact us at [\[email protected\]](https://www.justanswer.com/cdn-cgi/l/email-protection).
 
@@ -149,11 +157,11 @@ In order to prevent fraudulent use of the JustAnswer membership program by Custo
 
 You must create an account (“Account”) to access certain features of the Platform. You agree to provide accurate, current, and complete information that doesn’t infringe on the rights of others at all times when you use the Platform, and to update information to keep it accurate, current, and complete. You are solely responsible for safeguarding your Account password and for all activity that occurs on your Account, and you will notify JustAnswer immediately of any unauthorized use. We are not liable for any losses by any party caused by an unauthorized use of your Account. You agree to keep your contact and billing information (including but not limited to email address) up-to-date, and to comply with all billing procedures, including providing and maintaining accurate and lawful billing information your Account. Your Account is nontransferable except with JustAnswer’s written permission and in line with JustAnswer policies and procedures. As permitted by applicable law, we may, but have no obligation (unless required by law) to ask Users to provide identification or information related to credentials for purposes of using the Platform.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**6\. Posts**
+**7\. Posts and Communications with Experts**
 
-Posts are not confidential and may be used by JustAnswer for any purpose. **Posts are not private or confidential, nor are they protected by attorney-client, doctor-patient, or any other privilege, and Posts may be read, collected, and used by others.** For example, search engines may index questions, answers, and other Posts to allow them to appear in search engine results (e.g., if someone does a search on google.com or another search engine, questions, answers, and other Posts on JustAnswer.com that relate to the search may appear in the search results list).
+Posts and any other communication between you and an Expert, including but not limited to phone calls and other virtual communications facilitated by our Platform, are not confidential and may be used by JustAnswer for any purpose. **Such communications are not private or confidential, nor are they protected by attorney-client, doctor-patient, or any other privilege, and such communications may be recorded, read, collected, and used by others.** For example, JustAnswer may publish, and search engines may index, questions, answers, and other Posts to allow them to appear in search engine results (e.g., if someone does a search on google.com or another search engine, questions, answers, and other Posts and communications on or facilitated by JustAnswer.com that relate to the search may appear in the search results list).
 
 As between you and JustAnswer, you will maintain whatever ownership interest you have in and to the Posts you provide on the Site. JustAnswer reserves the right to remove any or all of your Posts, in whole or in part, at any time with or without notice. You are responsible for all Posts you contribute, in any manner, to the Platform, and you represent and warrant you have all rights necessary to do so, in the manner in which you contribute it.
 
@@ -161,9 +169,9 @@ You grant to JustAnswer a non-exclusive, irrevocable, perpetual, worldwide, roya
 
 Any information or content posted through the Platform, including Posts, is the sole responsibility of the person from whom such content originated, and you access all such information and content at your own risk, and we aren’t liable for any errors or omissions in that information or content or for any damages or loss you might suffer in connection with it. You acknowledge and agree that JustAnswer may or may not, in its sole discretion, pre-screen Posts before posted on the Platform, but has no obligation to do so. JustAnswer reserves the right (but does not assume the obligation) in its sole discretion to reject, move, edit, or remove any Posts, including but not limited to any Post that violates these Terms or is otherwise objectionable. You understand that by using the Services, you may be exposed to Posts that you may consider offensive or objectionable. We cannot control and have no duty to take any action regarding how you may interpret and use Posts or what actions you may take as a result of having been exposed to Posts, and you hereby release us from all liability for you having acquired or not acquired Posts through the Platform. While we may try to do so, we can’t guarantee the identity of any Users with whom you interact in using the Platform and are not responsible for which Users gain access to the Platform.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**7\. Prohibitions**
+**8\. Prohibitions**
 
 As a User of the Platform, agree you will not use the Platform for purpose that is unlawful or prohibited by these Terms, or any other purpose not reasonably intended by JustAnswer. By way of example, and not as a limitation, you agree not to:
 
@@ -172,7 +180,7 @@ As a User of the Platform, agree you will not use the Platform for purpose that 
 * Use the Platform for purposes of plagiarism in any context or in cheating in the academic setting;
 * Use any automated programs to automatically lock questions that are posted on the Platform;
 * Create multiple Accounts on the Platform;
-* Use another User’s account to access the Platform;
+* Use another User’s account to access the Platform or permit another person to use or access your Account;
 * Use methods to disguise your location or otherwise circumvent JustAnswer’s tools to secure the Platform;
 * Directly or indirectly submit any Posts or otherwise engage in conduct that is fraudulent, inaccurate, infringing, libelous, defamatory, abusive, offensive, obscene, pornographic or otherwise violates any law or right of JustAnswer or Users or any other third party, including privacy rights, copyrights, or other intellectual property right;
 * Directly or indirectly submit any Posts linking to affiliate programs, multi-level marketing schemes, or off-topic content;
@@ -180,6 +188,13 @@ As a User of the Platform, agree you will not use the Platform for purpose that 
 * Engage in any behavior that is defamatory, trade libelous, unlawfully threatening or unlawfully harassing;
 * Submit any content containing any viruses, Trojan horses, or other computer programming routines that may damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information;
 * Except as expressly authorized by JustAnswer, solicit or otherwise request personal information from Users other than information strictly necessary to use the Platform for purposes of the Platform;
+* Use artificial intelligence to train any robots (including but not limited to large language models), using content from/within/contained on our website;
+* Use artificial Intelligence robots on our website in a way that does not explicitly conform to the following:
+    * Respect Robots Exclusion Protocol (robots.txt): Web crawlers or bots accessing our website must declare who they are and must have a unique user agent string. They must also adhere to the directives specified in our robots.txt file, and must abide by our robots related directive, particularly noindex and nofollow.
+    * Use of Data: Any data or information collected by web crawlers or bots from our website should be used solely for indexing, search engine optimization (SEO), backlining or other legitimate purposes that benefit the user experience. It should not be used for any unlawful, malicious, or unethical activities, including but not limited to spamming, using our data to train or pass to generative AI models, data mining, or unauthorized redistribution.
+    * Respect for User Privacy: Web crawlers or bots must respect the privacy of Users. They should not collect personally identifiable information without explicit consent and should comply with applicable data protection laws and regulations, such as the General Data Protection Regulation (GDPR) in the European Union and the California Consumer Privacy Act (CCPA) in the United States.
+    * Avoidance of Overloading: Web crawlers or bots should not overload our website's servers with excessive requests or engage in activities that could disrupt the normal operation of our website. They should follow established guidelines for polite crawling, including adhering to crawl rate limits and duplicate crawling specified in robots.txt and respecting server load considerations.
+    * Respect for Intellectual Property: Bots should not infringe on our copyrights and licenses and should not store content or material that violates our intellectual property;
 * Scrape, access, monitor, index, frame, link, or copy any content on the Platform by accessing the Platform in an automated way, using any robot, spider, scraper, web crawler, or using any method of access other than manually accessing the publicly-available portions of the Platform through a browser or accessing the Platform through any approved mobile application, application programming interface, or client application;
 * Decompile, reverse engineer, or otherwise attempt to obtain the source code or underlying ideas or information of or relating to the Platform;
 * Violate the restrictions in any robot exclusion headers of the Platform, if any, or bypass or circumvent other measures employed to prevent or limit access to the Platform;
@@ -192,6 +207,7 @@ As a User of the Platform, agree you will not use the Platform for purpose that 
 * Recruit, solicit, or contact in any form Experts or Customers for employment or any other use not specifically intended by the Platform;
 * Advertise or solicit an expertise not related to or appropriate for the Platform including, but not limited to promotes or offers Ponzi schemes, junk mail, spam, chain letters, pyramid schemes, affiliate marketing or unsolicited commercial content, discount cards, credit counseling, online surveys or contests, raffles, prizes, bonuses, games of chance or giveaways; and
 * Access the Platform or content in order to build a similar or competitive website, product, or service.
+* Directly or indirectly bypass the Platform to obtain Expert services, or otherwise circumvent the Platform to bypass the Customer payment process for services provided by Experts via the Platform and/or initiated via the Platform.
 
 If you post material that is adult in nature, such material shall be posted with “Mature Audiences Only” in the listing title and appropriate notices to prevent unauthorized underage viewing and shall be distributed only to people legally permitted to receive such content ([Information on Parental Control Protections](https://www.justanswer.com/info/parental-takedown-help)).
 
@@ -199,15 +215,15 @@ You understand that violation of these rules or Terms more generally may result 
 
 You further understand that JustAnswer has the right, but does not have any obligation, to monitor the use of the Platform and verify information provided by our Users.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**8\. Notice and Procedure for Making Claims of Copyright Infringement**
+**9\. Notice and Procedure for Making Claims of Copyright Infringement**
 
-JustAnswer may, in appropriate circumstances and at its discretion, disable and/or terminate the Accounts of users who infringe the intellectual property of others. If you believe that your copyright or the copyright of a person on whose behalf you are authorized to act has been infringed, please follow the steps in JustAnswer’s Copyright Policy.
+We will disable and/or terminate the Accounts of Users when we become aware of an intellectual property infringement. If you believe that your copyright or the copyright of a person on whose behalf you are authorized to act has been infringed, please follow the steps in [JustAnswer's Copyright Policy](https://www.justanswer.com/info/parental-takedown-help).
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**9\. Fees, Refund and Cancellation Policy**
+**10\. Fees, Refund and Cancellation Policy**
 
 JustAnswer’s platform allows Customers to post questions to Experts in subject-matter categories, facilitates communication with Experts on the Platform via chat, emails, and online message boards, and enables delivery of and access to answers to your questions (“Site Access Benefits”). Site Access Benefits may have additional terms such as limits on the number and/or subject matter of questions provided at the time of sign up. Customers on the Platform may be presented with one of three payment models: (1) ongoing membership; (2) additional Platform model (which is explained in Section E below); and (3) pay-per-question model.
 
@@ -243,43 +259,43 @@ If you do not pay any fees when due (for example, due to credit card expiration 
 
 _Taxes._ Experts are responsible for any and all applicable federal, state, and local taxes, duties, tariffs, levies, withholdings, and similar assessments (including without limitation, sales, use, and value added taxes) relating to the subject matter hereunder, excluding taxes based on JustAnswer’s income.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**10\. Proprietary Rights and Limited License**
+**11\. Proprietary Rights and Limited License**
 
 All right, title, and interest in and to the Platform are and will remain the exclusive property of JustAnswer and its licensors. All materials therein, including, without limitation, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music, and all intellectual property rights related thereto, are the exclusive property of JustAnswer and its licensors. The Platform is protected by copyright, trademark, and other laws of both the United States and foreign countries. You acknowledge that the Platform has been developed, compiled, prepared, revised, selected, and arranged by JustAnswer and others through the application of methods and standards of judgment developed and applied through the expenditure of substantial time, effort, and money and constitute valuable intellectual property of JustAnswer and such others. Except as explicitly provided herein, nothing in this Expert Agreement gives you a right to use the JustAnswer name or any of the JustAnswer trademarks, logos, domain names, and other distinctive brand features. Any other trademarks, service marks, logos, trade names, and any other proprietary designations are the trademarks or registered trademarks of their respective owners.
 
 Subject to your complete and ongoing compliance with these Terms, JustAnswer grants you a non-transferable, non-exclusive, revocable, limited license to access and use the Platform. We reserve all rights not expressly granted to you by these Terms.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**11\. Feedback**
+**12\. Feedback**
 
 By sending us any feedback, comments, questions, or suggestions concerning JustAnswer, the Platform, or us (collectively, “Feedback”) you represent and warrant (a) that you have the right to disclose the Feedback, (b) that the Feedback does not violate the rights of any other person or entity, and (c) that your Feedback does not contain the confidential or proprietary information of any third party or parties. By sending us any Feedback, you further (i) agree that we are under no obligation of confidentiality, express or implied, with respect to the Feedback, (ii) acknowledge that we may have something similar to the Feedback already under consideration or in development, (iii) grant us an irrevocable, non-exclusive, royalty-free, perpetual, worldwide license to use, modify, prepare derivative works, publish, distribute, and sublicense the Feedback, and (iv) irrevocably waive, and cause to be waived, against JustAnswer and its users any claims and assertions of any moral rights contained in such Feedback. This Feedback section shall survive any termination of your Membership, these Terms, or your participation in the Platform.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**12\. Third Party Links & Services**
+**13\. Third Party Links & Services**
 
 The Platform may provide, or third parties may provide, links to other sites, applications, or resources. This may include, without limitation, Tools powered by parties other than JustAnswer. Because JustAnswer has no control over such sites, applications, and resources, you acknowledge and agree that JustAnswer is not responsible for the availability of such external sites, applications, or resources, and does not endorse and is not responsible or liable for any content, advertising, products or other materials on or available from such sites or resources. You further acknowledge and agree that JustAnswer shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any such site or resource.
 
 IT IS THE RESPONSIBILITY OF THE USER TO EVALUATE THE ACCURACY, COMPLETENESS. AND USEFULNESS OF ANY OPINION, ANSWER, OR OTHER CONTENT AVAILABLE THROUGH THE PLATFORM, FROM THIRD PARTIES OR OBTAINED FROM A LINKED PLATFORM. PLEASE SEEK THE ADVICE OF PROFESSIONALS, AS APPROPRIATE, REGARDING THE EVALUATION OF ANY SPECIFIC OPINION, ANSWER, PRODUCT, SERVICE, OR OTHER CONTENT.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**13\. Duration and Termination of Agreement**
+**14\. Duration and Termination of Agreement**
 
 _Duration._ The agreement between you and JustAnswer reflected by these Terms is effective when you access the Platform (for example to create an Account) and remains in effect until either you or we terminate the agreement in accordance with these Terms.
 
-_Termination by Customers._ Customers may terminate your service and account at your sole discretion and at any time by written notice via e-mail to [\[email protected\]](https://www.justanswer.com/cdn-cgi/l/email-protection). Terminations typically will be effective within seven (7) business days after our receipt of your termination notice, at which time your account will be closed and you will no longer enjoy access to your former account. Any fees accrued as of the effective date of termination will be payable according to the Terms. The procedure for Experts to terminate their accounts is set forth in the Expert Agreement.
+_Termination by Customers._ Customers may terminate your service and account at your sole discretion and at any time by written notice via e-mail to [\[email protected\]](https://www.justanswer.com/cdn-cgi/l/email-protection). Terminations typically will be effective within seven (7) business days after our receipt of your termination notice, at which time your account will be closed and you will no longer enjoy access to your former account. Any fees accrued as of the effective date of termination will be payable according to the Terms. The procedure for Experts to terminate their accounts is set forth in the Expert Agreement.
 
 _Termination by JustAnswer._ At any time, with or without notice, for any or no reason, JustAnswer reserves the right to modify or discontinue any portion or all of the Platform, and to restrict, suspend, and terminate Customers’ accounts. The procedure for termination by JustAnswer of Experts’ accounts is set forth in the Expert Agreement.
 
-_Survival._ Sections 2, 4, 6, 7, 8, 10, 11, 14, 16, 17, 18, 19, 21, and 23 of these Terms, and any other provisions that are necessary to effectuate those sections, shall survive termination.
+_Survival._ Sections 2, 5, 7, 8, 9, 11, 12, 15, 17, 18, 19, 20, 22, and 24 of these Terms, and any other provisions that are necessary to effectuate those sections, shall survive termination.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**14\. Indemnity and Release**
+**15\. Indemnity and Release**
 
 You agree to release and to indemnify, defend, and hold harmless JustAnswer and its parents, subsidiaries, affiliates, and agents, as well as the officers, directors, employees, shareholders, and representatives of any of the foregoing entities, from and against any and all losses, liabilities, expenses, damages, costs (including attorneys’ fees and court costs), claims, actions, inquiries, or investigations of any kind whatsoever arising out of or resulting from your use of the Platform, your violation of these Terms, and any of your acts or omissions that implicate publicity rights, defamation, or invasion of privacy. JustAnswer reserves the right, at its own expense, to assume exclusive defense and control of any matter otherwise subject to indemnification by you and, in such case, you agree to cooperate with JustAnswer in the defense of such matter.
 
@@ -289,15 +305,15 @@ A general release does not extend to claims that the creditor or releasing party
 
 If you are not a California resident, you waive your rights under any statute or common law principle similar to Section 1542 that governs your rights in the jurisdiction of your residence.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**15\. SMS Terms**
+**16\. SMS Terms**
 
-By registering for the Platform, you consent to receive communications from us, which may include calls and text messages to the cellular telephone number you provide to us. For example, we may text you with transactional alerts about your account. You may also sign up to receive marketing or promotional calls and text messages. Any text messages we send to you are subject to our [SMS Terms & Conditions](https://www.justanswer.com/info/sms-terms-and-conditions). You may opt-out of receiving certain communications by following the unsubscribe options we provide to you. You acknowledge that opting out of receiving communications may impact your use of the Platform.
+By registering for the Platform, you consent to receive communications from us, which may include calls and text messages to the cellular telephone number you provide to us. For example, we may text you with transactional alerts about your account. You may also sign up to receive marketing or promotional calls and text messages. Any text messages we send to you are subject to our [SMS Terms & Conditions](https://www.justanswer.com/%22https://www.justanswer.com/info/sms-terms-and-conditions/%22). You may opt-out of receiving certain communications by following the unsubscribe options we provide to you. You acknowledge that opting out of receiving communications may impact your use of the Platform.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**16\. Disclaimers**
+**17\. Disclaimers**
 
 Neither JustAnswer nor its licensors or suppliers make any representations or warranties concerning any content contained in or accessed through the Platform, and we will not be responsible or liable for the accuracy, copyright compliance, legality, or decency of material contained in or accessed through the Platform. We (and our licensors and suppliers) make no representations or warranties regarding suggestions or recommendations of Platform or products offered or purchased through the Platform. Products and Platform purchased or offered (whether or not following such recommendations and suggestions) through the Platform are provided “AS IS” and without any warranty of any kind from JustAnswer or others.
 
@@ -309,17 +325,17 @@ NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM JUSTANSW
 
 SOME STATES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**17\. Limitation of Liability**
+**18\. Limitation of Liability**
 
 TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, TORT, CONTRACT, STRICT LIABILITY, OR OTHERWISE) SHALL JUSTANSWER, ITS PARENTS, SUBSIDIARIES, OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, AGENTS, JOINT VENTURERS, CONSULTANTS, SUCCESSORS, OR ASSIGNS BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL, WORK STOPPAGE, ACCURACY OF RESULTS, OR COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE LIMITATION OF DAMAGES SET FORTH ABOVE IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN US AND YOU. THIS PLATFORM AND THE INFORMATION WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS. IN NO EVENT WILL OUR LIABILITY, AND THE LIABILITY OF OUR PARENTS, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AND SUPPLIERS, TO YOU OR ANY THIRD PARTIES IN ANY CIRCUMSTANCE, EXCEED ANY AMOUNT, IN THE AGGREGATE, HIGHER THAN THE GREATER OF (I) $100 OR (II) THE AMOUNTS PAID BY YOU TO JUSTANSWER IN CONNECTION WITH THE PLATFORM IN THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO THE APPLICABLE CLAIM. THE LIMITATIONS ON DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN AND ARE MATERIAL TO JUSTANSWER’S DECISION TO ENTER INTO THE AGREEMENT BETWEEN JUSTANSWER AND YOU. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO THE ABOVE LIMITATION AND EXCLUSIONS MAY NOT APPLY TO YOU.
 
 THE LIMITATION OF LIABILITY DESCRIBED ABOVE SHALL APPLY FULLY TO RESIDENTS OF NEW JERSEY.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**18\. Arbitration and Class Action Waiver**
+**19\. Arbitration and Class Action Waiver**
 
 PLEASE READ THIS SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
 
@@ -329,7 +345,7 @@ PLEASE READ THIS SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RI
 
 a. Initial Dispute Resolution
 
-Our Support Department is available to address any concerns you may have regarding the Platform. Our Support Department can resolve most concerns quickly to our Users’ satisfaction. The parties shall use their best efforts through this Support process to settle any dispute, claim, question, or disagreement and engage in good faith negotiations which shall be a condition to either party initiating a lawsuit or arbitration. Failure to engage in this process could result in the award of fees against you in arbitration. To adequately engage in initial dispute resolution, each party must notify the other party, in writing, of the facts of the dispute and all damages claimed. Such a writing must be sent to (a) the User’s email address on file with JustAnswer, or (b) JustAnswer LLC, 440 N. Barranca Ave #7508, Covina, CA 9172, or (c) [\[email protected\]](https://www.justanswer.com/cdn-cgi/l/email-protection), whichever is applicable (“Dispute Notification”). The party receiving the Dispute Notification has thirty (30) days from receipt of the Dispute Notification to respond. The other party then has 15 days to reply to the response.
+Our Support Department is available to address any concerns you may have regarding the Platform. Our Support Department can resolve most concerns quickly to our Users’ satisfaction. The parties shall use their best efforts through this Support process to settle any dispute, claim, question, or disagreement and engage in good faith negotiations which shall be a condition to either party initiating a lawsuit or arbitration. Failure to engage in this process could result in the award of fees against you in arbitration. To adequately engage in initial dispute resolution, each party must notify the other party, in writing, of the facts of the dispute and all damages claimed. Such a writing must be sent to (a) the User’s email address on file with JustAnswer, or (b) JustAnswer LLC, 440 N. Barranca Ave #7508, Covina, CA 91723, or (c) [\[email protected\]](https://www.justanswer.com/cdn-cgi/l/email-protection), whichever is applicable (“Dispute Notification”). The party receiving the Dispute Notification has thirty (30) days from receipt of the Dispute Notification to respond. The other party then has 15 days to reply to the response.
 
 b. Binding Arbitration
 
@@ -359,31 +375,31 @@ Notwithstanding the parties’ decision to resolve all disputes through arbitrat
 
 f. 30-Day Right to Opt Out
 
-You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the following email address: [\[email protected\]](https://www.justanswer.com/cdn-cgi/l/email-protection). The notice must be sent within 30 days of the Effective Date of these Terms of Service or your first use of the Platform, whichever is later, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, JustAnswer also will not be bound by them.
+You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the following email address: [\[email protected\]](https://www.justanswer.com/cdn-cgi/l/email-protection). The notice must be sent within 30 days of the Effective Date of these Terms of Service or your first use of the Platform, whichever is later, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, JustAnswer also will not be bound by them.
 
 g. Changes to this Section.
 
 JustAnswer will provide 30 days’ notice of any changes affecting the substance of this Section 18. Changes will become effective on the 30th day. If you continue to use the Platform after the 30th day, you agree that any unfiled claims of which JustAnswer does not have actual notice are subject to the revised clause.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**19\. Venue and Governing Law**
+**20\. Venue and Governing Law**
 
 For any dispute not subject to arbitration or under the jurisdiction of a small claims court, you and JustAnswer agree to submit to the personal and exclusive jurisdiction of any venue in the federal and state courts located in Ada County, Idaho. You further agree to accept service of process by mail, and hereby waive any and all jurisdictional and venue defenses otherwise available.
 
 The Terms and the relationship between you and JustAnswer shall be governed by the laws of the State of Idaho without regard to conflict of law provisions.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**20\. Application License**
+**21\. Application License**
 
 Subject to your compliance with these Terms, JustAnswer grants you a limited non-exclusive, non-transferable license to download and install a copy of JustAnswer mobile app on a device that you exclusively control and to run such copy of the app solely for your own personal use. JustAnswer reserves all rights in and to the app not expressly granted to you under these Terms. You will not run any version of the app on a jailbroken device.
 
 If you have downloaded our app, you agree to promptly download and install any new version that we make available through the iTunes App Store or Google Play store, as applicable. Some new versions may contain updated Terms. Some new versions may contain security fixes and service improvements, whether or not we disclose that they do; accordingly, failure to promptly update your version of the App may in some cases expose you to increased security risks or Platform malfunctions.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**21\. General**
+**22\. General**
 
 _Entire Agreement._ These Terms (and any additional terms, contracts, rules, and conditions that JustAnswer may post on the Platform), the Privacy Policy, and, if applicable, the Expert Agreement constitute the entire agreement between you and JustAnswer with respect to the Platform and supersede any prior agreements, oral or written, between you and JustAnswer. For those Users who have become Experts, nothing in this Agreement supersedes the terms of the Expert Agreement, and in the event of a conflict between this Agreement (or later versions of this Agreement) and the Expert Agreement, the terms of the Expert Agreement shall prevail. This Agreement, the Privacy Policy, and disclaimers will prevail over FAQs, and other rules and policies on the Platform.
 
@@ -399,15 +415,15 @@ _Notice._ JustAnswer may give notice by any means of communication reasonably an
 
 _No Third-Party Beneficiaries._ You agree that, except as otherwise expressly provided in these Terms, there shall be no third-party beneficiaries to these Terms.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**22\. Contact Us**
+**23\. Contact Us**
 
 If you have questions about these Terms, please contact us in writing through JustAnswer’s Help Center.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
-**23\. iOS Terms**
+**24\. iOS Terms**
 
 You acknowledge and agree that (i) these Terms are binding between you and JustAnswer only, and Apple is not a party hereto, and (ii) as between JustAnswer and Apple, it is JustAnswer that is responsible for the app and the content thereof. You must use the iOS app only on an Apple-branded product that runs iOS. Your use of the app must comply with the terms of use applicable to the Apple source from which you obtain it (including the Usage Rules set forth in the Apple App Store Terms of Service). You acknowledge that Apple has no obligation to furnish you with any maintenance and support Platform with respect to the app.
 
@@ -417,7 +433,7 @@ In the event of any failure of the iOS version of the app to conform to any appl
 
 Apple, and Apple’s subsidiaries, are third-party beneficiaries of these Terms. Upon your acceptance of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms against you as a third-party beneficiary thereof.
 
-[![](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
+[![\"\"height=22](https://ww2-secure.justanswer.com/static/fe/he-page-tos/topIcon.png)](#topAnchor)
 
 JustAnswer
 
