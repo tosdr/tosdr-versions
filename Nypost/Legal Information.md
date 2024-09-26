@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Watch live
-
-[First hearing on the attempted assassination of Donald Trump](https://nypost.com/video/watch-live-first-hearing-on-the-attempted-assassination-of-donald-trump/)
-
 Privacy Notice Highlights
 =========================
 
