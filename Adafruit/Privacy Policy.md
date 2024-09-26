@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering”
+“ Meaning can easily be confused with structure. Structure is a good approximation, but not the same”
 
-[Freeman Dyson](http://en.wikipedia.org/wiki/Freeman_Dyson)
+[Claudia Perlich](http://people.stern.nyu.edu/cperlich/)
 
 [](https://www.adafruit.com/about)
 
