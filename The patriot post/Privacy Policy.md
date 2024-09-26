@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110478-dunno-2024-09-24)
+     [](https://patriotpost.us/memes/110557-now-shes-thinkin-2024-09-25)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -130,11 +130,6 @@ Last Updated: November 15, 2011.
 *      [John Stossel Bunk From a Cabinet Secretary](https://patriotpost.us/opinion/110531-bunk-from-a-cabinet-secretary-2024-09-25)
 *      [Byron York Kamala Harris’ Never-Ending Border Dodge](https://patriotpost.us/opinion/110529-kamala-harris-never-ending-border-dodge-2024-09-25)
 *      [Betsy McCaughey A Harris Presidency Will Give Sanctuary to Gang Members, Victimize Law-Abiding People](https://patriotpost.us/opinion/110528-a-harris-presidency-will-give-sanctuary-to-gang-members-victimize-law-abiding-people-2024-09-25)
-*      [Gary Bauer Foreign Meddling](https://patriotpost.us/opinion/110527-foreign-meddling-2024-09-25)
-*      [Ben Shapiro The Greatest Scandal in Modern American History That No One Cares About](https://patriotpost.us/opinion/110515-the-greatest-scandal-in-modern-american-history-that-no-one-cares-about-2024-09-25)
-*      [The Babylon Bee ‘共产主义是最好的! 好好好!’ Says Tim Walz in Eloquent Rebuttal of Alleged Ties to China](https://patriotpost.us/opinion/110525-gong-chan-zhu-yi-shi-zui-hao-de-hao-hao-hao-says-tim-walz-in-eloquent-rebuttal-of-alleged-ties-to-china-2024-09-25)
-*      [The Washington Stand State AGs Demand AAP Retract Claim That Puberty Blockers Are Reversible](https://patriotpost.us/opinion/110526-state-ags-demand-aap-retract-claim-that-puberty-blockers-are-reversible-2024-09-25)
-*      [Guest Commentary Free Speech Under Fire](https://patriotpost.us/opinion/110517-free-speech-under-fire-2024-09-25)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -148,7 +143,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
