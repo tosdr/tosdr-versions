@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement](https://s1.cdn.autoevolution.com/images/news/i-drove-this-bmw-4-series-gran-coupe-in-milan-during-fashion-week-to-make-a-chic-statement-240280-5.jpeg "I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement")
+[![Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option](https://s1.cdn.autoevolution.com/images/news/onvo-l60-shows-how-battery-swapping-can-make-bevs-a-feasible-option-240405-5.jpg "Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option")
 
-#### I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement](https://www.autoevolution.com/news/i-drove-this-bmw-4-series-gran-coupe-in-milan-during-fashion-week-to-make-a-chic-statement-240280.html "I Drove This BMW 4 Series Gran Coupe in Milan During Fashion Week To Make a Chic Statement")
+#### Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option](https://www.autoevolution.com/news/onvo-l60-shows-how-battery-swapping-can-make-bevs-a-feasible-option-240405.html "Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option")
 
 coverstory \_
 
-[![CarPlay on iOS 18: Not the Update That Some Users Expected](https://s1.cdn.autoevolution.com/images/news/carplay-on-ios-18-not-the-update-that-some-users-expected-240402-5.jpg "CarPlay on iOS 18: Not the Update That Some Users Expected")
+[![1969 Dodge Coronet Super Bee With Low Miles Shines Again After 30 Years in a Canadian Barn](https://s1.cdn.autoevolution.com/images/news/1969-dodge-coronet-super-bee-with-low-miles-shines-after-two-decades-in-a-canadian-barn-240413-5.jpg "1969 Dodge Coronet Super Bee With Low Miles Shines Again After 30 Years in a Canadian Barn")
 
-CarPlay on iOS 18: Not the Update That Some Users Expected](https://www.autoevolution.com/news/carplay-on-ios-18-not-the-update-that-some-users-expected-240402.html)
+1969 Dodge Coronet Super Bee With Low Miles Shines Again After 30 Years in a Canadian Barn](https://www.autoevolution.com/news/1969-dodge-coronet-super-bee-with-low-miles-shines-again-after-30-years-in-a-canadian-barn-240413.html)
 
 how-to \_
 
