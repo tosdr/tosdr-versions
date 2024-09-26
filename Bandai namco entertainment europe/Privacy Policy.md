@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [MY HERO ULTRA RUMBLE - Patch Notes 1.6.0](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-patch-notes-160)
-* [NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS - Patch 1.50 Notes](https://en.bandainamcoent.eu/naruto/news/naruto-x-boruto-ultimate-ninja-storm-connections-patch-150-notes)
+* [BLEACH Rebirth of Souls is set to launch in Early 2025](https://en.bandainamcoent.eu/bleach/news/bleach-rebirth-of-souls-set-launch-early-2025)
+* [Discover sci-fi adventures with SYNDUALITY Echo of Ada, launching January 24, 2025](https://en.bandainamcoent.eu/synduality/news/discover-sci-fi-adventures-synduality-echo-of-ada-launching-january-24-2025)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
