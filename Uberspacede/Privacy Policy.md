@@ -165,7 +165,7 @@ We are committed to protecting your privacy and keeping your personal informatio
 Hosting on Asteroids since 2010
 ===============================
 
-* ﻿[Mastodon](https://uberspace.social/explore)﻿
+* ﻿[Mastodon](https://uberspace.social/public/local)﻿
 * ﻿[Instagram](https://www.instagram.com/ubernauten/)﻿
 * ﻿[Blog](https://blog.uberspace.de/)﻿
 
