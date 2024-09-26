@@ -49,7 +49,7 @@ Store tax related documents easily
 
 [Calculator](https://cloudtax.ca/calculator)[Compare](https://cloudtax.ca/compare)[Pricing](https://cloudtax.ca/pricing)
 
-[Login](#)[Get Started](https://app.cloudtax.ca/2023/auth/register)
+[Login](https://www.app.cloudtax.ca/user/auth/login)[Get Started](https://www.app.cloudtax.ca/user/auth/register)
 
 ![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6406cc799e8f42b9f517_close.svg)
 
