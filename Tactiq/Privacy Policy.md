@@ -64,9 +64,7 @@ Solutions
 
 [Speech-to-text](https://tactiq.io/speech-to-text)
 
-[Team Meetings](https://tactiq.io/solutions/team-meetings)
-
-[Customer Meetings](https://tactiq.io/use-cases/customer-meetings)
+[Team Meetings](https://tactiq.io/use-cases/team-meetings)
 
 [Customer Meetings](https://tactiq.io/use-cases/customer-meetings)
 
