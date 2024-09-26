@@ -307,6 +307,7 @@ Any such data is processed solely on the user’s local device. Under no circums
 
 When using such a third-party cloud storage services, please refer to the corresponding privacy policy of the provider:
 
+* [Box](https://www.box.com/legal/privacypolicy)
 * [iCloud Drive](https://www.apple.com/legal/privacy/en-ww/)
 * [Dropbox](https://www.dropbox.com/privacy)
 * [Google Drive](https://developers.google.com/terms/api-services-user-data-policy)
