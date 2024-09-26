@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/net-gevaccineerd-verspreidt-dan-die-ziekte-niet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/life-purpose-and-life-intentions/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
