@@ -360,7 +360,8 @@ Cookie settings
 
 [![Icon Facebook White](//images.ctfassets.net/jizxy0othtmu/2mTNWUiD6MzEuqsvjARwg4/1f633b1c39d921d94ec05bea7f4a43ea/facebook.svg)](https://www.facebook.com/SmartDeploy)[![Icon LinkedIn White](//images.ctfassets.net/jizxy0othtmu/hcZ9AVlRkK5sUfevP1C0s/021adadb28e335f9aec1e85663f11d38/linkedin.svg)](https://www.linkedin.com/company/smartdeploy)[![X logo white](//images.ctfassets.net/jizxy0othtmu/43hpz0wl1JgcWDXHdYl2RI/94d585452d7726fb3da86f0a2e3cdd5c/Footer_X.svg)](https://www.twitter.com/smartdeploy)[![Icon Youtube White](//images.ctfassets.net/jizxy0othtmu/730jGo8KcFxq0c3P0KHtNN/523dbdb48c0c67bd7363c70b79743260/youtube.svg)](https://www.youtube.com/@SmartDeploy)[![Icon Instagram White](//images.ctfassets.net/jizxy0othtmu/1TAJwKBZSi83dwnUvHdnIR/a73a5d7d2a6f530da43050411da50aee/instagram.svg)](https://www.instagram.com/smartdeployofficial/)[![discord logo](//images.ctfassets.net/jizxy0othtmu/6LirFKXzkSRxVOjB8REF0/9f868d33ea7ee3872b2943e3f7b6cef7/Discord__2_.svg)](https://discord.com/invite/pdq)
 
-Call us: 888-7DEPLOY | [\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
+Call us: 888-7DEPLOY | Toll free: 888-733-7569  
+[\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
 
 © 2024 SmartDeploy - All Rights Reserved
 
