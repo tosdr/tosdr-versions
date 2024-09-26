@@ -224,7 +224,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Crackdown on Deceptive AI Claims and Schemes](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes)
+    ### [La Comisión Federal de Comercio anuncia la incorporación de tres agencias de protección al consumidor a un acuerdo internacional destinado a promover la cooperación en asuntos transfronterizos de aplicación de ley](https://www.ftc.gov/es/noticias/la-comision-federal-de-comercio-anuncia-la-incorporacion-de-tres-agencias-de-proteccion-al)
     
     September 25, 2024
     
