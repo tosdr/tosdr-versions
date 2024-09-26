@@ -195,9 +195,9 @@
         
         Discover high performing and top software across G2 cateogries.
         
-    * [](https://research.g2.com/cloud-computing-infrastructure)Grid for Cloud Computing Infrastructure
+    * [](https://research.g2.com/2024-trends)2024 Trends
         
-        These vendors offer the ability to host computing capacity in an elastic, scalable environment.
+        G2 analysts lay out the industry trends you need to know to ride change to growth.
         
     * [See all reports](https://research.g2.com/reports)
     
