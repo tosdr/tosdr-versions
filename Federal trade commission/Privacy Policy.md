@@ -224,7 +224,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [La Comisión Federal de Comercio anuncia la incorporación de tres agencias de protección al consumidor a un acuerdo internacional destinado a promover la cooperación en asuntos transfronterizos de aplicación de ley](https://www.ftc.gov/es/noticias/la-comision-federal-de-comercio-anuncia-la-incorporacion-de-tres-agencias-de-proteccion-al)
+    ### [FTC Announces the Addition of Three Consumer Protection Agencies to an International Agreement Aimed at Enhancing Cooperation in Cross-Border Enforcement Matters](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-addition-three-consumer-protection-agencies-international-agreement-aimed-enhancing)
     
     September 25, 2024
     
