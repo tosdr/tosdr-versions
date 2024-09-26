@@ -250,6 +250,7 @@ S-config is a member of the Fur Ring.
 Recent Comments
 ---------------
 
+* Ongion on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-89276)
 * [S-Config](https://www.s-config.com/) on [Taking a step back – PI Vs. Thin Client.](https://www.s-config.com/taking-a-step-back-pi-vs-thin-client/comment-page-1/#comment-89234)
 * Andre on [Taking a step back – PI Vs. Thin Client.](https://www.s-config.com/taking-a-step-back-pi-vs-thin-client/comment-page-1/#comment-89137)
 * Big T Jiggly on [I am the post apocalyptic girl](https://www.s-config.com/i-am-the-post-apocalyptic-girl/comment-page-1/#comment-89059)
@@ -257,7 +258,6 @@ Recent Comments
 * [S-Config](https://www.s-config.com/) on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88579)
 * Miguel on [XBCD – Original Xbox Controllers with Win10-8](https://www.s-config.com/xbcd-original-xbox-controllers-win10/comment-page-17/#comment-88528)
 * alabaster on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88521)
-* Raven on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88452)
 
 The only advertisement banner you will see.
 -------------------------------------------
