@@ -10,7 +10,7 @@
 
 Products
 
-[Internxt Drive](https://internxt.com/drive)[Internxt S3](https://internxt.com/cloud-object-storage)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
+[Internxt Drive](https://internxt.com/drive)[Internxt Object Storage](https://internxt.com/cloud-object-storage)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
 
 Our Values
 
@@ -1199,7 +1199,7 @@ By subscribing you agree to our privacy policy.
 
 ### Products
 
-[Internxt Drive](https://internxt.com/drive)[WebDAV](https://internxt.com/webdav)[Object Storage
+[Internxt Drive](https://internxt.com/drive)[WebDAV](https://internxt.com/webdav)[Internxt Object Storage
 
 New](https://internxt.com/cloud-object-storage)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)[Internxt for Business
 
