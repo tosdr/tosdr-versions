@@ -28,7 +28,7 @@ triangle borderless
     
     New Arrivals arrow bottom
     
-    [![](//www.lorex.com/cdn/shop/files/f9fb943cda9f8d544d6e7f9fb31459fe230f4528c6f4b898b2defa4298d2fe9b_80x.png?v=1727105755)
+    [![](//www.lorex.com/cdn/shop/files/f9fb943cda9f8d544d6e7f9fb31459fe230f4528c6f4b898b2defa4298d2fe9b_80x.png?v=1727367372)
     
     4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)[![](//www.lorex.com/cdn/shop/collections/N910-4KDW-L1_80x.png?v=1708619171)
     
@@ -332,7 +332,7 @@ Your cart is empty
     * [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
     * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
     
-    [![](//www.lorex.com/cdn/shop/files/f9fb943cda9f8d544d6e7f9fb31459fe230f4528c6f4b898b2defa4298d2fe9b_x150.png?v=1727105755)
+    [![](//www.lorex.com/cdn/shop/files/f9fb943cda9f8d544d6e7f9fb31459fe230f4528c6f4b898b2defa4298d2fe9b_x150.png?v=1727367372)
     
     4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
     
