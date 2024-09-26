@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Math competition season is approaching fast!  Have you [enrolled in a contest preparation class](https://artofproblemsolving.com/school/schedule#contest-preparation)?
+Launch into competitive coding -  [USACO Bronze Problem Series](https://artofproblemsolving.com/school/course/cs-bronze) starts tomorrow!  
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
