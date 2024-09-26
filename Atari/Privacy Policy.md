@@ -52,7 +52,7 @@ Hardware
     
     [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
     
-    [Atari VCS](https://www.atari.com/collections/atari-vcs)
+    [Atari VCS](https://atari.com/pages/atari-vcs)
 
 [View all Hardware](https://www.atari.com/collections/hardware)
 
@@ -98,7 +98,7 @@ Featured
     
     [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
     
-    [Atari VCS](https://www.atari.com/collections/atari-vcs)
+    [Atari VCS](https://atari.com/pages/atari-vcs)
 
 [View all Hardware](https://www.atari.com/collections/hardware)
 
