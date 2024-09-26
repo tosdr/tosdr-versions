@@ -599,7 +599,7 @@ Share a few details with us, and we’ll contact you shortly.
 
 [Subscribe For Updates](https://www.yodlee.com/newsletter-sign-up)
 
-###### Company
+Company
 
 * [About Us](https://www.yodlee.com/company "We Are The Market Leader in Financial Data Aggregation.")
 * [Contact Sales](https://www.yodlee.com/company/contact-us)
@@ -610,19 +610,19 @@ Share a few details with us, and we’ll contact you shortly.
 
  [](https://www.youtube.com/user/YodleeInc)[](https://www.linkedin.com/company/yodlee)[](https://twitter.com/Yodlee)[](https://www.facebook.com/Yodlee)
 
-###### Developers
+Developers
 
 * [Developer Portal](https://www.yodlee.com/fintech/developers)
 * [Pricing](https://www.yodlee.com/company/pricing)
 * [Data, Apps, & APIs](https://www.yodlee.com/financial-products/api-apps-data)
 * [Developer Support](https://www.yodlee.com/fintech/developers/support)
 
-###### Discover
+Discover
 
 * [Envestnet](https://www.envestnet.com/)
 * [Envestnet Retirement Solutions](https://www.envestnetrs.com/)
 
-###### More
+More
 
 * [Envestnet | Tamarac](http://www.tamaracinc.com/)
 * [Envestnet Analytics](https://www.envestnet.com/our-ecosystem)
