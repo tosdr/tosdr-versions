@@ -238,6 +238,8 @@ or
 
 [Timeline](https://www.andrewsmcmeel.com/timeline/)
 
+[Diversity, Equity, Inclusion, and Belonging](https://www.andrewsmcmeel.com/home/diversity-equity-inclusion-and-belonging/)
+
 [Terms of Service](https://www.andrewsmcmeel.com/terms-of-service/#:~:text=You%20acknowledge%20and%20agree%20that,therein%20at%20their%20own%20risk)
 
 [](https://www.facebook.com/AndrewsMcMeelPublishing "Facebook")[](https://twitter.com/AndrewsMcMeel "Twitter")[](https://www.instagram.com/andrewsmcmeel "Instagram")[](https://www.linkedin.com/company/andrews-mcmeel-universal "Linkedin")[](https://www.youtube.com/user/AndrewsMcMeel "Youtube")
