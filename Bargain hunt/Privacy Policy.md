@@ -3,6 +3,7 @@
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
 * [Store Locator](https://www.bargainhunt.com/store-locator)
 * [Grand Openings](https://www.bargainhunt.com/grand-openings)
+* [Check Gift Card Balance](https://wwws-usa2.givex.com/merchant_balcheck/20845_en/)
 * [The Crazy Clover Club](https://www.bargainhunt.com/crazy-clover-club)
 
 Menu
@@ -10,6 +11,7 @@ Menu
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
 * [Store Locator](https://www.bargainhunt.com/store-locator)
 * [Grand Openings](https://www.bargainhunt.com/grand-openings)
+* [Check Gift Card Balance](https://wwws-usa2.givex.com/merchant_balcheck/20845_en/)
 * [The Crazy Clover Club](https://www.bargainhunt.com/crazy-clover-club)
 
 Privacy Policy
