@@ -239,6 +239,14 @@ Attn: Legal – Privacy
 160 Fifth Ave., 7th Floor  
 New York, NY 10010
 
+Close popup X
+
+#### Share your feedback with us
+
+We’d like to hear about your visit to improve your experience on our website. Please take a few minutes to fill out a brief survey.
+
+[Take Survey arrow right opens in a new window](https://research.typeform.com/to/yZpHqThE)
+
 [Simons Foundation](https://www.simonsfoundation.org/)
 
 Advancing Research in Basic Science and Mathematics Subscribe to our newsletters to receive news & updates
