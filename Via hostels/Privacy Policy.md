@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_66f48c19d1a43)
+* [fun from day one!](#tab_66f4e039f3906)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66f48c19d1a43)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66f4e039f3906)
     
-* [fomo no more!](#tab_66f48c19d1a53)
+* [fomo no more!](#tab_66f4e039f3918)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66f48c19d1a53)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66f4e039f3918)
     
-* [we’ve got you covered, dude](#tab_66f48c19d1a5f)
+* [we’ve got you covered, dude](#tab_66f4e039f3926)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66f48c19d1a5f)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66f4e039f3926)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,8 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[We need your help🍹🔥 Our cocktail of the mont ![We need your help🍹🔥 Our cocktail of the month is a spicy margarita, but it’s missing a perfect name. Drop your creative ideas in the comments–the best suggestion can claim one of these for free in the dude bar!🌶️😉](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAV5nEWNiaT/) 
+
 [Whether it’s an after-work drink or a pre-game b ![Whether it’s an after-work drink or a pre-game before a night out, we’ve got you covered! 🍻 From morning till night, The Dude is at your service🛎🤩](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DATW7SVhO_J/) 
 
 [Welcome to your home away from home! 🏠💛 Ch ![Welcome to your home away from home! 🏠💛 
@@ -146,9 +148,6 @@ Attention brunch lovers!!! Grab a bloody mary and your pick of eggs benedict or 
 
 [Start your day of exploring right—fuel up with b ![Start your day of exploring right—fuel up with breakfast at the dude bar🍳🍞🙏
 #breakfasttime #BreakfastGoals #amsterdamlife #hostellife #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_cpBrLSpCB/) 
-
-[Embracing discomfort keeps us open to new experien ![Embracing discomfort keeps us open to new experiences, unexpected connections, and untold stories. At Via, we’re dedicated to creating these meaningful moments for our guests every day!💛🫶🤗
-Sign from our amazing weekend with @yestheory @dutchyesfam 💓](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_YPf-OMnPv/) 
 
 current & upcoming events
 -------------------------
