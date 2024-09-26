@@ -19,7 +19,7 @@ Follow Us On
 now.gg, Inc. Terms of Use
 =========================
 
-### Effective date: May 17, 2024
+### Effective date: September 20, 2024
 
 ### PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.
 
@@ -139,7 +139,10 @@ Many of our Services are currently free. We reserve the right to require payment
 3. **Current Information Required**. You must provide current, complete and accurate information for your billing account.  You must promptly update all information to keep your billing account current, complete and accurate (such as a change in billing address, credit card number, or credit card expiration date) through your now.gg account, and you must promptly notify us or our payment processor if your payment method is canceled (e.g., for loss or theft) or if you become aware of a potential breach of security, such as the unauthorized disclosure or use of your user name or password.  Changes to such information can be made through your now.gg account. If you fail to provide any of the foregoing information, you agree that we may continue charging you for any use of Paid Services under your billing account unless you have terminated your Paid Services by means of sending us an email to support at now.gg.
 4. **Change in Amount Authorized**. If the amount to be charged to your Billing Account varies from the amount you preauthorized (other than due to the imposition or change in the amount of state sales taxes), you have the right to receive, and we shall provide, notice of the amount to be charged and the date of the charge before the scheduled date of the transaction. Any agreement you have with your payment provider will govern your use of your Payment Method. You agree that we may accumulate charges incurred and submit them as one or more aggregate charges during or at the end of each billing cycle.
 5. **Reaffirmation of Authorization**. Your non-termination or continued use of a Paid Service reaffirms that we are authorized to charge your Payment Method for that Paid Service. We may submit those charges for payment and you will be responsible for such charges. This does not waive our right to seek payment directly from you. Your charges may be payable in advance or as otherwise described when you initially selected to use the Paid Service.
-6. **No Refund or Cancellation.**All purchases of Paid Services are non-refundable and are non-cancellable once purchased.
+6. **Subscription Services.**
+    1. **Good standing:** Now.gg reserves the right to offer a premium version of the Services (“Subscription Services”) to you if you are a customer in good standing. Now.gg reserves the right to refuse Subscription Services for any other reason including but not limited to your creditworthiness, or if you have disputed payments for Subscription Services with your credit card or other payment company without pursuing the nominal cancellation process through support at [now.gg](https://now.gg/).
+    2. **Fees and Payments.** You agree to pay the subscription fees and any other charges (including any applicable taxes) incurred in connection with using software and Subscription Services at the rates in effect when the charges were incurred. The subscription fees stated at the time of purchase will be charged to the payment method you have selected. As soon as Now.gg has received full payment, your paid premium subscription will begin. The Subscription Service is non-renewing and you will need to purchase a new subscription to continue upon your subscription expiration. All fees and charges in connection with the Subscription Service are nonrefundable. If you believe someone has accessed Services using Your user name and password without Your authorization, please contact support at [now.gg](https://now.gg/).
+7. **No Refund or Cancellation.** All purchases of Paid Services are non-refundable and are non-cancellable once purchased.
 
 What are Nowbux?
 ----------------
