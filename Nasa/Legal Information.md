@@ -76,7 +76,7 @@ article1 day ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-an
 
 ### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article5 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+article6 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
 
 6 min read
 
@@ -285,91 +285,91 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Highlights
 
-[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
+[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+
+10 min read
+
+### NASA’s Eyes for Museums
+
+article 6 hours ago](https://science.nasa.gov/eyes/museums/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
 
 5 min read
 
 ### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 
-article 3 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
+article 9 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
 
 4 min read
 
 ### Arctic Sea Ice Near Historic Low; Antarctic Ice Continues Decline
 
-article 1 day ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)[![Hampton Roads flooding in Virginia](https://www.nasa.gov/wp-content/uploads/2024/09/hampton-roads-flooding-va-sea-grant.jpg?w=1024)
-
-4 min read
-
-### NASA Helps Build New Federal Sea Level Rise Website
-
-article 1 day ago](https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/)
+article 1 day ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)
 
 ### Highlights
 
-[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
+[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+
+10 min read
+
+### NASA’s Eyes for Museums
+
+article 6 hours ago](https://science.nasa.gov/eyes/museums/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
 
 3 min read
 
 ### Oct. 2 Annular Solar Eclipse
 
-article 4 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
+article 10 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
 
 4 min read
 
 ### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
-
-6 min read
-
-### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
-
-article 2 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)
+article 2 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)
 
 ### Featured
 
-[![In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j80mw64aby9qbqjpvgvqxq9w-2k.png)
+[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+
+10 min read
+
+### NASA’s Eyes for Museums
+
+article 6 hours ago](https://science.nasa.gov/eyes/museums/)[![In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j80mw64aby9qbqjpvgvqxq9w-2k.png)
 
 4 min read
 
 ### In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
 
-article 5 hours ago](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
+article 11 hours ago](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
 
 2 min read
 
 ### Hubble Lights the Way with New Multiwavelength Galaxy View
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![Burst Chaser](https://science.nasa.gov/wp-content/uploads/2024/09/logo.png)
-
-1 min read
-
-### Burst Chaser
-
-article 6 days ago](https://science.nasa.gov/citizen-science/burst-chaser/)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)
 
 ### Highlights
 
-[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
+[![A group of 24 college students, eight mentors, and additional staff pose together in front of a glass building. All participants are wearing professional clothing in a variety of colors.](https://www.nasa.gov/wp-content/uploads/2024/08/sarpwest2024-loiacono-1501.jpg?w=1024)
+
+5 min read
+
+### 2024 SARP West Closeout
+
+article 4 hours ago](https://www.nasa.gov/general/2024-sarp-west-closeout/)[![Overhead view of Pacific Island nation Kiribati](https://www.nasa.gov/wp-content/uploads/2024/09/1-kanton-kiribati-nasa.jpg?w=1024)
 
 5 min read
 
 ### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 
-article 3 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
+article 9 hours ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)[![Oct. 2 Annular Solar Eclipse](https://science.nasa.gov/wp-content/uploads/2023/12/53261650839-69540d1c1d-k.jpg)
 
 3 min read
 
 ### Oct. 2 Annular Solar Eclipse
 
-article 4 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)[![In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j80mw64aby9qbqjpvgvqxq9w-2k.png)
-
-4 min read
-
-### In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
-
-article 5 hours ago](https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/)
+article 10 hours ago](https://science.nasa.gov/eclipses/future-eclipses/oct-2-annular-eclipse/)
 
 ### Highlights
 
@@ -391,7 +391,7 @@ article 5 days ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A re
 
 ### Students Soar at NASA Glenn’s Aviation Day
 
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/)
+article 7 days ago](https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/glenn/students-s
 
 ### NASA’s Record-Breaking Laser Demo Completes Mission
 
-article 3 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
+article 9 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
 
 1 min read
 
 ### Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update
 
-article 23 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/04/artemis-surface-instruments-jpg.webp)
 
 2 min read
 
