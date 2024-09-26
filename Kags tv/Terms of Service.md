@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/a8ef3726-8b42-4e0d-b7a2-f82057c828d4/20240926T183058/a8ef3726-8b42-4e0d-b7a2-f82057c828d4_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/a8ef3726-8b42-4e0d-b7a2-f82057c828d4/20240926T183058/a8ef3726-8b42-4e0d-b7a2-f82057c828d4_360x203.jpg)](https://www.kagstv.com/article/news/crime/bryan-isd-bus-driver-arrested-for-hitting-parked-car-while-drunk/500-a3cc621e-d845-468e-9cae-7bad71705b48)
+        
+        #### [Man arrested for hitting parked car with Bryan ISD school bus with kids inside](https://www.kagstv.com/article/news/crime/bryan-isd-bus-driver-arrested-for-hitting-parked-car-while-drunk/500-a3cc621e-d845-468e-9cae-7bad71705b48)
+        
     *  [![](https://media.kagstv.com/assets/WGRZ/images/c4d2a079-55c7-4dde-a03c-ab2a90dc1dd6/c4d2a079-55c7-4dde-a03c-ab2a90dc1dd6_16x9.jpg) ![](https://media.kagstv.com/assets/WGRZ/images/c4d2a079-55c7-4dde-a03c-ab2a90dc1dd6/c4d2a079-55c7-4dde-a03c-ab2a90dc1dd6_360x203.jpg)](https://www.kagstv.com/article/news/crime/navasota-school-threat-arrest-sept-23-2024/500-e524c334-dc39-4c52-91ab-df3f3f650caa)
         
         #### [Juvenile arrested by Navasota authorities for making threat towards student](https://www.kagstv.com/article/news/crime/navasota-school-threat-arrest-sept-23-2024/500-e524c334-dc39-4c52-91ab-df3f3f650caa)
-        
-    *  [![](https://media.kagstv.com/assets/KJAC/images/270061106/270061106_16x9.jpg) ![](https://media.kagstv.com/assets/KJAC/images/270061106/270061106_360x203.jpg)](https://www.kagstv.com/article/news/local/brazos-county-burn-ban-issued-sept-24-2024/500-02565461-d94e-4bb2-8952-e7ed6c3a2ad7)
-        
-        #### [Burn ban issued for Brazos County](https://www.kagstv.com/article/news/local/brazos-county-burn-ban-issued-sept-24-2024/500-02565461-d94e-4bb2-8952-e7ed6c3a2ad7)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -52,7 +52,7 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/CCT/images/d505f523-5547-4275-99ee-c9cfeeb38415/20240926T132547/d505f523-5547-4275-99ee-c9cfeeb38415_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/d505f523-5547-4275-99ee-c9cfeeb38415/20240926T132547/d505f523-5547-4275-99ee-c9cfeeb38415_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
         
-        #### [Helene is upgraded to Category 2 hurricane as it barrels toward Florida with 'unsurvivable' storm surge](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
+        #### [Helene races toward Florida as a major Category 3 storm, threatens 'catastrophic' storm surge as it gains strength](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
         
     *  [![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-74°
+88°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
