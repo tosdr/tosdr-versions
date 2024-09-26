@@ -308,15 +308,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-October 31, 1991, is not only the day that Harry, Ron, and Hermione defeated the troll in the girl’s bathroom but is also the 10-year anniversary of the death of Harry’s parents.
+The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
 
 ### Potter History
 
-December 21, 2004 – Just hours after the first preorders were taken, “Harry Potter and the Half-Blood Prince” is already topping the charts.
+February 13, 2011 – The Harry Potter film series is awarded a BAFTA for Outstanding British Contribution to Cinema.
 
 ### Potter Quote
 
-“Magic blooms only in rare souls. You came today because of a craving and a knowledge that the old ways serve us no longer.”
+“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
 
 [](#)
 
