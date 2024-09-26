@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Four wins at the German Television Awards](/.galleries/images/German-Television-Awards-2024_16-9.png?__scale=undefined&description=)
+    
+    Four wins at the German Television Awards
+    
+    26.09.2024
+    
+    RTL Deutschland and UFA have both received two awards at the 2024 Deutscher Fernsehpreis (German Television Awards).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Four-wins-at-the-German-Television-Awards/)
+    
 * [![slide-M6+ and Pluto TV partner in France](/.galleries/images/Groupe-M6_Pluto-TV_1920x1080.png?__scale=undefined&description=)
     
     M6+ and Pluto TV partner in France
