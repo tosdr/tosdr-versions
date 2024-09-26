@@ -20,16 +20,16 @@ Thursday, September 26 2024
 
 Latest
 
-* [NYT Strands Today: Hints, Answers & Spangram for September 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
-* [Logpoint names Søren Grubov as SVP of engineering](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
-* [Microsoft claims new ‘Correction’ tool can fix genAI hallucinations – Computerworld](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
-* [Which Flu Shot to Choose If You’re Over 65](https://digitpatrox.com/which-flu-shot-to-choose-if-youre-over-65/)
-* [Tide Evo Tile Laundry Detergent Review](https://digitpatrox.com/tide-evo-tile-laundry-detergent-review/)
-* [How to Lock Your Ecobee Thermostat with a PIN Code](https://digitpatrox.com/how-to-lock-your-ecobee-thermostat-with-a-pin-code/)
-* [Redis insists license changes were the “only way to compete with Amazon and Google” – now it could face a user exodus](https://digitpatrox.com/redis-insists-license-changes-were-the-only-way-to-compete-with-amazon-and-google-now-it-could-face-a-user-exodus/)
-* [What Is Google Gemini, and How Does It Work?)](https://digitpatrox.com/what-is-google-gemini-and-how-does-it-work/)
-* [Act fast! LG is knocking up to $200 off its washers and dryers](https://digitpatrox.com/act-fast-lg-is-knocking-up-to-200-off-its-washers-and-dryers/)
-* [How to choose a photo storage service](https://digitpatrox.com/how-to-choose-a-photo-storage-service/)
+* [Amazon’s early Prime Day deals are up to 90% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
+* [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
+* [This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
+* [Slashing staff attrition in healthcare through digital employee engagement](https://digitpatrox.com/slashing-staff-attrition-in-healthcare-through-digital-employee-engagement/)
+* [How soon will AI PCs replace traditional PCs in the enterprise? – Computerworld](https://digitpatrox.com/how-soon-will-ai-pcs-replace-traditional-pcs-in-the-enterprise-computerworld/)
+* [All the Biggest Announcements From Meta Connect 2024](https://digitpatrox.com/all-the-biggest-announcements-from-meta-connect-2024/)
+* [Apple Watch Series 10 Has Larger Screen and Faster Charging](https://digitpatrox.com/apple-watch-series-10-has-larger-screen-and-faster-charging/)
+* [Samsung’s New 4TB 990 EVO Plus SSD is Stupid Fast](https://digitpatrox.com/samsungs-new-4tb-990-evo-plus-ssd-is-stupid-fast/)
+* [New GitHub rules mean users can store code and repository data in the EU](https://digitpatrox.com/new-github-rules-mean-users-can-store-code-and-repository-data-in-the-eu/)
+* [How to Use Jira for Project Management](https://digitpatrox.com/how-to-use-jira-for-project-management/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
+* [![](https://cdn.mos.cms.futurecdn.net/iFiToePScVkzD7pL9negEm-1200-80.jpg)](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
     
-    [NYT Strands Today: Hints, Answers & Spangram for September 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
+    [Amazon’s early Prime Day deals are up to 90% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
     
-    2 mins ago
+    3 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/uKJYWj6P63diudVrHn6bMV-1200-80.jpg)](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
+* [![](https://cdn.vox-cdn.com/thumbor/bd0c3O5gmf1_sJpzdiQlbW3mF4M=/0x0:2000x1315/1200x628/filters:focal(1000x658:1001x659)/cdn.vox-cdn.com/uploads/chorus_asset/file/25640019/pr_arctis_gamebuds_white_lifestyle_woman_indoor_02.png)](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
     
-    [Logpoint names Søren Grubov as SVP of engineering](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
+    [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
+    
+    48 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/09/Google-Doodle-Popcorn-game-featured-image.jpg)](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
+    
+    [This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
     
     1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3540429-0-30231300-1727296937-shutterstock_232365724.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/4fTX25jy9ApyuBaPkJjfA5-1200-80.jpg)](https://digitpatrox.com/slashing-staff-attrition-in-healthcare-through-digital-employee-engagement/)
     
-    [Microsoft claims new ‘Correction’ tool can fix genAI hallucinations – Computerworld](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01HF2H50P28PC96W4PXA5D3VX2/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/which-flu-shot-to-choose-if-youre-over-65/)
-    
-    [Which Flu Shot to Choose If You’re Over 65](https://digitpatrox.com/which-flu-shot-to-choose-if-youre-over-65/)
+    [Slashing staff attrition in healthcare through digital employee engagement](https://digitpatrox.com/slashing-staff-attrition-in-healthcare-through-digital-employee-engagement/)
     
     2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1722352869/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-We-Washed-10-Laundry-Loads-in-Tide-Evo-Detergent-Heres-Our-Unscientific-First-Impression-0724)](https://digitpatrox.com/tide-evo-tile-laundry-detergent-review/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3540633-0-70965000-1727320794-shutterstock_2366647495-100963142-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-soon-will-ai-pcs-replace-traditional-pcs-in-the-enterprise-computerworld/)
     
-    [Tide Evo Tile Laundry Detergent Review](https://digitpatrox.com/tide-evo-tile-laundry-detergent-review/)
+    [How soon will AI PCs replace traditional PCs in the enterprise? – Computerworld](https://digitpatrox.com/how-soon-will-ai-pcs-replace-traditional-pcs-in-the-enterprise-computerworld/)
     
     3 hours ago
     
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [3 mins ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
+    ### Amazon’s early Prime Day deals are up to 90% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-prime-day-deals-are-up-to-90-off-heres-my-favorite-power-banks-and-chargers/)
+* [48 mins ago
+    
+    ### SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
 * [1 hour ago
     
-    ### Logpoint names Søren Grubov as SVP of engineering](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
-* [2 hours ago
-    
-    ### Microsoft claims new ‘Correction’ tool can fix genAI hallucinations – Computerworld](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
+    ### This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
 
 Most Popular Topics
 
-* [August 26, 2024
+* [2 weeks ago
     
-    ### Apple Announces September 9 Event to Unveil iPhone 16 Series](https://digitpatrox.com/apple-announces-september-9-event-to-unveil-iphone-16-series/)
-* [1 day ago
+    ### Samsung Galaxy S25 Ultra leak reveals major upgrade to fight iPhone 16 Pro Max](https://digitpatrox.com/samsung-galaxy-s25-ultra-leak-reveals-major-upgrade-to-fight-iphone-16-pro-max/)
+* [2 days ago
     
-    ### The New York Times will now charge for past episodes of its popular podcasts](https://digitpatrox.com/the-new-york-times-will-now-charge-for-past-episodes-of-its-popular-podcasts/)
-* [August 25, 2024
+    ### My Favorite Laundry Hacks | Lifehacker](https://digitpatrox.com/my-favorite-laundry-hacks-lifehacker/)
+* [4 weeks ago
     
-    ### These $10 Wire Holders Save My Sanity](https://digitpatrox.com/these-10-wire-holders-save-my-sanity/)
+    ### North Korean insider attacks are skyrocketing – dozens of US firms didn’t spot the hacker in their midst](https://digitpatrox.com/north-korean-insider-attacks-are-skyrocketing-dozens-of-us-firms-didnt-spot-the-hacker-in-their-midst/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Redis insists license changes were the “only way to compete with Amazon and Google” – now it could face a user exodus](https://digitpatrox.com/redis-insists-license-changes-were-the-only-way-to-compete-with-amazon-and-google-now-it-could-face-a-user-exodus/)
+    ### Apple Watch Series 10 Has Larger Screen and Faster Charging](https://digitpatrox.com/apple-watch-series-10-has-larger-screen-and-faster-charging/)
 * [4 hours ago
     
-    ### What Is Google Gemini, and How Does It Work?)](https://digitpatrox.com/what-is-google-gemini-and-how-does-it-work/)
-* [4 hours ago
+    ### Samsung’s New 4TB 990 EVO Plus SSD is Stupid Fast](https://digitpatrox.com/samsungs-new-4tb-990-evo-plus-ssd-is-stupid-fast/)
+* [5 hours ago
     
-    ### Act fast! LG is knocking up to $200 off its washers and dryers](https://digitpatrox.com/act-fast-lg-is-knocking-up-to-200-off-its-washers-and-dryers/)
+    ### New GitHub rules mean users can store code and repository data in the EU](https://digitpatrox.com/new-github-rules-mean-users-can-store-code-and-repository-data-in-the-eu/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 11, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [4 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
