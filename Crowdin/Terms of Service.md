@@ -486,6 +486,8 @@ Except as otherwise specified in these Terms, all notices related to these Terms
 
 Your Crowdin Team.
 
+[Edit page](https://github.com/crowdin/docs/edit/main/src/content/docs/docs/terms.mdx)
+
 Was this page helpful?
 
 Submit
