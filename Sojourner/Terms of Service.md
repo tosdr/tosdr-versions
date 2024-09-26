@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-10335ed21c6a5def43cc05cf29e0ce7a
+d29948914d43b9063c51ea699ff62a67
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Light blue apatite rondelle beads](https://sojourner.biz/images/cache/stone/APT001.200.jpg)](https://sojourner.biz/beads/stone-a-l/apatite/light-blue-apatite-rondelle-beads.html "Light blue apatite rondelle beads")
+[![Turquoise swirl clasp](https://sojourner.biz/images/cache/SKU0092front.200.jpg)](https://sojourner.biz/clasps/glass/turquoise-swirl-clasp.html "Turquoise swirl clasp")
 
-#### [Light blue apatite rondelle beads](https://sojourner.biz/beads/stone-a-l/apatite/light-blue-apatite-rondelle-beads.html "Light blue apatite rondelle beads")
+#### [Turquoise swirl clasp](https://sojourner.biz/clasps/glass/turquoise-swirl-clasp.html "Turquoise swirl clasp")
 
-$20.00
+$16.00
 
 ### Best Sellers
 
