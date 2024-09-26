@@ -421,15 +421,15 @@ Create an account with us to view your order status online. Your details can als
 
 ### Let customers speak for us
 
-[4767 reviews](https://www.livpure.com/pages/reviews)
+[4549 reviews](https://www.livpure.com/pages/reviews)
 
 [Write a review](#)
 
-84%
+87%
 
-(3981)
+(3979)
 
-9%
+10%
 
 (443)
 
@@ -444,26 +444,6 @@ Create an account with us to view your order status online. Your details can als
 1%
 
 (41)
-
-d
-
-[Sediment Filter](https://livpure.com/products/sediment-filter#judgeme_product_reviews)
-
-devendra .
-
-**Good**
-
-Good to use
-
-d
-
-[Booster Pump E-50](https://livpure.com/products/booster-pump-e-50#judgeme_product_reviews)
-
-devendra .
-
-**Good**
-
-Good to use
 
 A
 
@@ -494,6 +474,34 @@ SHAILESH PATEL
 **EXCELLENT MATTERS**
 
 I GET RELIEF FROM BACK PAIN, VERY COMFORT FEEL, REALLY ITS GOOD MATTERS, THANKS LIVPURE..
+
+k
+
+[Cloud Essentia Loftsilk Micro Fiber Pillow](https://livpure.com/products/cloud-essentia-loftsilk-micro-fiber-pillow#judgeme_product_reviews)
+
+krishna Ananthiah settikere
+
+**Pillow performance**
+
+Very excellent product earlier i had neck problem now after using it pain subsided
+
+Thank you for your valuable review. We are glad that you are loving our product. We would love to serve you again! Keep snoozing with us.
+
+K
+
+[Bolt+ (RO+UF) Water Purifier](https://livpure.com/products/bolt-ro#judgeme_product_reviews)
+
+Krishna Tiwari
+
+**Very Nice Taste**
+
+No requirement of any external Sediment filter. Very nice taste after filteration.  
+No bitterness. Model is also looking elegant in design.  
+Overall recommended product.
+
+[](https://judgeme.imgix.net/livpure/1683454631__img-20230423-wa0003__original.jpeg?auto=format)
+
+Thank you for your valuable review. We are glad that you are loving our products. We would love to serve you again!
 
 123
 
