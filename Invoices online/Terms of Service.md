@@ -197,63 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=109059952)  
-Durbanville Classifieds (Pty) Ltd
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=72148792)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=130921476)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=15746251)  
+Alliance Energy
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=161982524)  
-Lily Fern & Co
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=20254379)  
+Imvubu General Trading
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=94913583)  
-CLEVER STUDENTS
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=6760150)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=108057966)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=21579688)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=165733827)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=79967241)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=45439300)  
-Desygn
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=141230684)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=31763103)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=131903488)  
-Fox Alarms & Security
-
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=192850783)  
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=192708983)  
 Dombieterfontein (PTY) LTD
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=117322970)  
-NIMAWELL
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=158691847)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=149664375)  
-OptaServ
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=119477577)  
+Multi CNC Solutions CC
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=212680498)  
-Chiron Medical Solutions
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=159679119)  
+Skinz Printing & Branding
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=25194397)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=195054037)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=5ad77064a6fba8cc0028be3e0967e4b20602c89292090a0f6032991749e30981&c=24612848)  
-MONSTER SECURITY GUARDING
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=79790261)  
+Prosper Park
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=85968145)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=0b44847cd84c83479e68882012575308b7a710918ca1652c7463d9478ff6861b&c=106600791)  
+Druce Digital
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
