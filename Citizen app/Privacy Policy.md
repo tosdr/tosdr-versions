@@ -425,7 +425,7 @@ This cookie is set to track and improve the performance of advertising campaigns
   
   
 
-We do recognize “Do Not Track” requests but do not currently have technology enabled to respond to the Global Privacy Control signals.  
+We do recognize “Do Not Track” requests and have technology enabled to respond to the Global Privacy Control signals.  
 
 ### 8\. Privacy Rights and Choices
 
