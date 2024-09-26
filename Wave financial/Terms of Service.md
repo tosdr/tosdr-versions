@@ -26,7 +26,7 @@ Access experts, any time](https://www.waveapps.com/wave-advisors)
 
 Resources
 
-[About Us](https://www.waveapps.com/about-us/about)[Careers](https://www.waveapps.com/about-us/careers)[How support works](https://www.waveapps.com/help)[Become an affiliate](https://www.waveapps.com/affiliate)
+[About us](https://www.waveapps.com/about-us/about)[Careers](https://www.waveapps.com/about-us/careers)[How support works](https://www.waveapps.com/help)[Become an affiliate](https://www.waveapps.com/affiliate)
 
 [Sign in](https://www.waveapps.com/login)[Sign up
 
@@ -48,13 +48,7 @@ Resources
 
 Sign up](https://www.waveapps.com/register)[Your account](https://my.waveapps.com/)
 
-[Sign up
-
-Sign up](https://my.waveapps.com/register/)
-
-[Sign up
-
-Sign up](https://www.waveapps.com/register)
+[Sign up](https://www.waveapps.com/register)
 
 Terms of Use Agreement
 ======================
