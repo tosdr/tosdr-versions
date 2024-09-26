@@ -4,7 +4,7 @@
 
 **Free Shipping on $199+ Orders**
 
-   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1727258511/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
+   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1727373809/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
@@ -12,7 +12,7 @@
 
 Search  Search
 
- [![Phone Icon Image](https://sdbullion.com/static/version1727258511/frontend/SDBullion/theme-frontend-sd/en_US/images/phone.png) 1-800-294-8732](tel:1-800-294-8732 "Give us a call")
+ [![Phone Icon Image](https://sdbullion.com/static/version1727373809/frontend/SDBullion/theme-frontend-sd/en_US/images/phone.png) 1-800-294-8732](tel:1-800-294-8732 "Give us a call")
 
 * [Silver](https://sdbullion.com/silver)
     
@@ -1148,6 +1148,10 @@ Search  Search
         
         [2024 Bullion Releases](https://sdbullion.com/2024-bullion-releases)
         
+    * [chevron-right Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        
+        [Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        
     * [chevron-right MintCertified™](https://sdbullion.com/mintcertified)
         
         [MintCertified™](https://sdbullion.com/mintcertified)
@@ -1283,6 +1287,10 @@ Search  Search
     * [chevron-right 2024 Bullion Releases](https://sdbullion.com/2024-bullion-releases)
         
         [2024 Bullion Releases](https://sdbullion.com/2024-bullion-releases)
+        
+    * [chevron-right Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        
+        [Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
         
     * [chevron-right MintCertified™](https://sdbullion.com/mintcertified)
         
@@ -2563,6 +2571,10 @@ Search  Search
         
         [2024 Bullion Releases](https://sdbullion.com/2024-bullion-releases)
         
+    * [chevron-right Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        
+        [Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        
     * [chevron-right MintCertified™](https://sdbullion.com/mintcertified)
         
         [MintCertified™](https://sdbullion.com/mintcertified)
@@ -2698,6 +2710,10 @@ Search  Search
     * [chevron-right 2024 Bullion Releases](https://sdbullion.com/2024-bullion-releases)
         
         [2024 Bullion Releases](https://sdbullion.com/2024-bullion-releases)
+        
+    * [chevron-right Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        
+        [Truth Coin Series](https://sdbullion.com/shop-truth-coin-series)
         
     * [chevron-right MintCertified™](https://sdbullion.com/mintcertified)
         
@@ -3116,7 +3132,7 @@ RESOURCES
 * [Careers](https://sdbullion.com/careers)
 * [FAQ](https://sdbullion.com/help)
 
-![Top](https://sdbullion.com/static/version1727258511/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
+![Top](https://sdbullion.com/static/version1727373809/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
 
   ![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
 
@@ -3124,11 +3140,11 @@ RESOURCES
 
      [![bbb desktop image](https://sdbullion.com/media/wysiwyg/footer/bbb.png)   ![bbb mobile image](https://sdbullion.com/media/wysiwyg/footer/bbb-mobile.png)](https://www.bbb.org/toledo/business-reviews/gold-silver-and-platinum-dealers/sd-bullion-in-ottawa-lake-mi-90114703#bbbseal)
 
-![ica image](https://sdbullion.com/static/version1727258511/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
+![ica image](https://sdbullion.com/static/version1727373809/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
 
   [![Shopper Approved Logo](https://sdbullion.com/media/wysiwyg/footer/shopper-approved-min.png)](http://www.shopperapproved.com/reviews/sdbullion.com/)
 
-![SDBullion](https://sdbullion.com/static/version1727258511/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1727258511/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
+![SDBullion](https://sdbullion.com/static/version1727373809/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1727373809/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
 
 *    [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
 *    [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
