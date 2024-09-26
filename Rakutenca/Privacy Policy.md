@@ -1,8 +1,6 @@
 [Dell Technologies: Success happens anywhere. Tackle any task anywhere with savings on top deals + 12% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/dell-consumer?store=dell-consumer&sourceName=sitewide-sticky-header)[🛍 Earn Cash Back in-store at Ashley! Up to 60% off clearance + 6% Cash Back
-
-See All Offers](https://www.rakuten.ca/in-store-cash-back)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/dell-consumer?store=dell-consumer&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -225,7 +223,7 @@ FR
         
         4% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
         
-        up to 2% Cash Back](https://www.rakuten.ca/rona)[Worx
+        Coupons Only](https://www.rakuten.ca/rona)[Worx
         
         2% Cash Back](https://www.rakuten.ca/worx)[eBay.ca
         
