@@ -40,7 +40,7 @@ Not registered? [Enroll](https://secure.blupeak.com/dbank/live/app/register)
 
   
 
-[![Mom Carrying baby](https://www.blupeak.com/files/Image-for-Login-Blurb-e1678904423337.jpg)](https://app.consumer.meridianlink.com/xa/xpressApp.aspx?enc=Kw21Wblm1yxpjJabdoZaDz0T0VW-iEm_E64sgJxwXLFNQnyqFjmbW8tjTwORGQ47uPYQYdRyZ4LmLVO_JwNfOFxoyJLyzNBgP76G1t9ULyrJ2hw4-isqjsfg15EoGt7ASJhSBva-W_c8UW15H1gQClwaK6UZ_EG4iSx_yPDxFfa07D69HgwHYozbEDxsS8-Q9SNWeJ0kKdXDZUL_UdCKnHhhBHxjj5q24GJ9wtt8vcTtyB1oSjN8fiBPrqeZA5hUzf1ytFNh34TTOW2SXSX1SUH4o6EUJsPlAPJBW0YO-rI)
+[![Mom and son hugging](https://www.blupeak.com/files/iStock-1308014641.jpg)](https://app.consumer.meridianlink.com/xa/xpressApp.aspx?enc=Kw21Wblm1yxpjJabdoZaDz0T0VW-iEm_E64sgJxwXLFNQnyqFjmbW8tjTwORGQ47uPYQYdRyZ4LmLVO_JwNfOFxoyJLyzNBgP76G1t9ULyrJ2hw4-isqjsfg15EoGt7ASJhSBva-W_c8UW15H1gQClwaK6UZ_EG4iSx_yPDxFfa07D69HgwHYozbEDxsS8-Q9SNWeJ0kKdXDZUL_UdCKnHhhBHxjj5q24GJ9wtt8vcTtyB1oSjN8fiBPrqeZA5hUzf1ytFNh34TTOW2SXSX1SUH4o6EUJsPlAPJBW0YO-rI)
 
 Seen our new certificate rates?
 
