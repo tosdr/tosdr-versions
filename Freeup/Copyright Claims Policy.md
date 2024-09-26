@@ -89,11 +89,11 @@ Upon receipt of the notice containing the required information, freeup.net may:
 
 ### Recent Posts
 
+* [How to Hire a Freelance Web Designer](https://freeup.net/blog/business-tips/how-to-hire-a-freelance-web-designer/)
 * [How to Exceed Expectations for Your Clients as a Freelancer](https://freeup.net/blog/freelance-tips/how-to-exceed-expectations-for-your-clients-as-a-freelancer/)
 * [How to Effectively Work With a Freelance Consultant](https://freeup.net/blog/business-tips/how-to-effectively-work-with-a-freelance-consultant/)
 * [5 Reasons to Hire a Freelancer to Help With Product Research](https://freeup.net/blog/business-tips/5-reasons-to-hire-a-freelancer-to-help-with-product-research/)
 * [4 Reasons You Should Take Advantage of FreeUp's Referral Program](https://freeup.net/blog/business-tips/4-reasons-you-should-take-advantage-of-freeups-referral-program/)
-* [How a Freelance SEO Expert Can Supercharge Your Business](https://freeup.net/blog/business-tips/how-a-freelance-seo-expert-can-supercharge-your-business/)
 
 [![FreeUp Logo](https://freeup.net/wp-content/themes/rare/src/images/imgs/freeup__logo--white.svg)](https://freeup.net/)
 
