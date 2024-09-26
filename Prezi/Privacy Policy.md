@@ -903,6 +903,10 @@ Languages
 
 Blog
 
+Sept. 26, 2024
+
+[Visual presentation: tips, techniques, and tools for success](https://blog.prezi.com/visual-presentation/)
+
 Aug. 30, 2024
 
 [Mastering the art of storytelling style presentations](https://blog.prezi.com/storytelling-style-presentation/)
@@ -910,10 +914,6 @@ Aug. 30, 2024
 Aug. 29, 2024
 
 [Simple presentation background ideas: elevate your visuals with minimalistic designs](https://blog.prezi.com/simple-presentation-background/)
-
-Aug. 29, 2024
-
-[How to memorize a speech: tips for all timeframes](https://blog.prezi.com/how-to-memorize-a-speech/)
 
 [Latest posts](https://blog.prezi.com/)
 
