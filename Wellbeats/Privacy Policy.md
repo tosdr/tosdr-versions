@@ -23,6 +23,8 @@
 
 * [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
+🎧 New Podcast: [Championing Change](https://www.lifespeak.com/resource/championing-change-a-conversation-with-dr-chika-stacy-oriuwa-about-advocacy-medicine-and-resilience/)
+
 [![LifeSpeak Logo - Employee wellbeing solutions](https://www.lifespeak.com/wp-content/themes/ls-theme/img/logo-navy.svg)](https://www.lifespeak.com/)
 
 * [Wellbeing Suite](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
