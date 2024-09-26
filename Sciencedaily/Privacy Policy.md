@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 25, 2024**
+**September 26, 2024**
 
 * * *
 
@@ -230,15 +230,15 @@ this week
 
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
-[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
 [Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
-
 [Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
+
+[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
 
 [Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
 
@@ -248,7 +248,7 @@ this week
 
 [Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
-[Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
