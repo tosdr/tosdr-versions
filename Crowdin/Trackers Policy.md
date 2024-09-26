@@ -55,6 +55,8 @@ In addition to this, different browsers provide different methods to block and d
 
 If you are using any other web browser, please visit your browser’s official support documents.
 
+[Edit page](https://github.com/crowdin/docs/edit/main/src/content/docs/docs/cookies.mdx)
+
 Was this page helpful?
 
 Submit
