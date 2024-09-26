@@ -128,9 +128,9 @@ We use these cookies to evaluate our marketing campaigns and provide better targ
 
 | Cookie Name | Source | Expiry | Purpose |
 | --- | --- | --- | --- |
-| \_gcl\_au | Google Ads | 3 months | Experiment with advertisement efficiency across websites. |
-| IDE by Doubleclick | Helps to track user behavior across the website to display relevant ads |
-| \_fbp | Facebook | Deliver our advertising to those who visited our website when they are on Facebook or a digital platform powered by Facebook Advertising. |
+| \_gcl\_au | Google Ads | 3 months | Experiment with advertisement efficiency across websites |
+| IDE by Doubleclick | 12 months | Helps to track user behavior across the website to display relevant ads |
+| \_fbp | Facebook | 3 months | Deliver our advertising to those who visited our website when they are on Facebook or a digital platform powered by Facebook Advertising |
 
 **4\. Third party cookies.**
 ----------------------------
