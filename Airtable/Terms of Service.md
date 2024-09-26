@@ -43,9 +43,6 @@ Platform
             * [Reporting
                 
                 Measure, analyze, and share insights](https://www.airtable.com/platform/reporting)
-            * [Apps by Airtable
-                
-                Get started faster with pre-configured apps](https://www.airtable.com/platform/apps-by-airtable)
             * [Explore the Platform](https://www.airtable.com/platform)
             
         
@@ -309,7 +306,7 @@ Resources
     ![](https://static.airtable.com/images/marketing-nav-resource.webp)
     
 
-[Pricing](https://airtable.com/pricing)
+[Enterprise](https://www.airtable.com/solutions/enterprise)[Pricing](https://airtable.com/pricing)
 
 [Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.nb)[Sign in](https://airtable.com/login)
 
@@ -688,6 +685,7 @@ If you have any questions about these Terms, please contact us at [legal@airtab
 * [Platform](https://www.airtable.com/platform)
 * [Solutions](https://www.airtable.com/solutions)
 * [Resources](https://www.airtable.com/lp/resources)
+* [Enterprise](https://www.airtable.com/solutions/enterprise)
 * [Pricing](https://www.airtable.com/pricing)
 * [Contact Sales](https://www.airtable.com/contact-sales?ref=htcs.sf)
 
@@ -713,7 +711,6 @@ If you have any questions about these Terms, please contact us at [legal@airtab
     * [Interface Designer](https://www.airtable.com/platform/interface-designer)
     * [Views](https://www.airtable.com/platform/views)
     * [Reporting](https://www.airtable.com/platform/reporting)
-    * [Apps by Airtable](https://www.airtable.com/platform/apps-by-airtable)
     * [Connected Apps Platform](https://www.airtable.com/platform/connected-apps-platform)
     * [Show less](#)
     
