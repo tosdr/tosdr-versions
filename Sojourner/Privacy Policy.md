@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f5404cb03eb5dd22373524531680133f
+cd571a62f551cded53e8a23a493b0022
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Vintage Living](https://www.sojourner.biz/images/cache/VintageLiving_cover.200.jpg)](https://www.sojourner.biz/bohemian-chic-decor/vintage-living.html "Vintage Living")
+[![Square Swarovski crystal clasp](https://www.sojourner.biz/images/cache/SKU0097.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-#### [Vintage Living](https://www.sojourner.biz/bohemian-chic-decor/vintage-living.html "Vintage Living")
+#### [Square Swarovski crystal clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-$45.00
+$49.00
 
 ### Best Sellers
 
