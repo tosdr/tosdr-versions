@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Exerion](https://www.myabandonware.com/game/exerion-9qz)
-* [Euro Champ '92](https://www.myabandonware.com/game/euro-champ-92-f5f)
-* [Exed Exes](https://www.myabandonware.com/game/exed-exes-9qy)
-* [ESWAT: Cyber Police](https://www.myabandonware.com/game/eswat-cyber-police-61j)
-* [Fighter's History Dynamite](https://www.myabandonware.com/game/fighter-s-history-dynamite-jxz)
+* [Destroyer](https://www.myabandonware.com/game/destroyer-sib)
+* [Desert War](https://www.myabandonware.com/game/desert-war-sia)
+* [Depthcharge](https://www.myabandonware.com/game/depthcharge-si9)
+* [Densha de Go!](https://www.myabandonware.com/game/densha-de-go-si8)
+* [Dead Eye](https://www.myabandonware.com/game/dead-eye-si7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Tim & Bear at the Movies](https://www.myabandonware.com/game/tim-bear-at-the-movies-pkr)
-* [Coin-Op Connexion](https://www.myabandonware.com/game/coin-op-connexion-kmb)
-* [Konami Coin-Op Hits](https://www.myabandonware.com/game/konami-coin-op-hits-6us)
+* [Word Blaster](https://www.myabandonware.com/game/word-blaster-dx4)
+* [Crisis in Alborz Galaxy](https://www.myabandonware.com/game/crisis-in-alborz-galaxy-mci)
+* [Perfect Grand Prix](https://www.myabandonware.com/game/perfect-grand-prix-fyj)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
