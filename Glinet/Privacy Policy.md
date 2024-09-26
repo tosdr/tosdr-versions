@@ -309,7 +309,7 @@ If you have any questions, comments or complaints about this Privacy Policy and 
 
 This GL.iNet Privacy Policy was revised and posted as of April 17, 2020.
 
-* [Products](https://www.gl-inet.com/products/) [IoT Gateways](https://www.gl-inet.com/products/?scenario=iot) [Portable Routers](https://www.gl-inet.com/products/?scenario=travel) [Home Routers](https://www.gl-inet.com/products/?scenario=smart-home) [Industrial Gateways](https://www.gl-inet.com/products/?scenario=industrial) [4G LTE Routers](https://www.gl-inet.com/products/?scenario=4g-lte) [Security Gateway](https://www.gl-inet.com/products/?scenario=security-gateway) [Discontinued Products](https://www.gl-inet.com/products/discontinued/)
+* [Products](https://www.gl-inet.com/products/) [Travel Routers](https://www.gl-inet.com/products/?scenario=travel) [Home Routers](https://www.gl-inet.com/products/?scenario=smart-home) [IoT Gateways](https://www.gl-inet.com/products/?scenario=iot) [Cellular Routers](https://www.gl-inet.com/products/?scenario=4g-lte) [Security Gateway](https://www.gl-inet.com/products/?scenario=security-gateway) [Discontinued Products](https://www.gl-inet.com/products/discontinued/)
 
 * [Solutions](https://www.gl-inet.com/solutions/) [RV Connectivity](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud](https://www.gl-inet.com/solutions/goodcloud/) [Simplified SDWAN](https://www.gl-inet.com/solutions/site-to-site/) [White Label](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Routers](https://www.gl-inet.com/solutions/vpn/)
 
