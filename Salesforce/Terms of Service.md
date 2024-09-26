@@ -7,9 +7,9 @@ Terms of Service
 Welcome to Salesforce. We’re glad you’re here, and we hope you enjoy everything we have to offer.  
 Please read these Terms carefully because they are a binding agreement between You and Salesforce, Inc. (“Salesforce” or “We”).
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-desktop.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-desktop.jpg?w=1024)
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-mobile.jpg?w=731)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-mobile.jpg?w=731)
 
 These Terms govern your use of the websites that link to these Terms. In these Terms, the word “Sites” refers to each of these websites and the services offered on those Sites. You automatically agree to these Terms and to our Privacy Statement simply by using or logging into the Sites.  
   
@@ -102,7 +102,7 @@ Contact for inquiries regarding Personal Information Handling: (Japan Chief Priv
   
 These terms were last updated on March 31, 2023.
 
-![](https://wp.salesforce.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-contact-us.jpg?w=1024)
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-contact-us.jpg?w=1024)
 
 Questions? Get in Touch.
 ------------------------
