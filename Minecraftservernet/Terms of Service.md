@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![AuroraWorlds](plugins/MineCraft/icons/25x25xAuroraWorlds_1721605776.png.pagespeed.ic.7T6GmJ9R84.png)
+[![SkyKingdoms](plugins/MineCraft/icons/25x25xSkyKingdoms_1720407634.png.pagespeed.ic._J3-_Ygvrw.png)
 
-Aurora Worlds](https://minecraft-server.net/details/AuroraWorlds/ "Aurora Worlds")[![VeldtSurvival](plugins/MineCraft/icons/25x25xVeldtSurvival_1725917639.png.pagespeed.ic.JQ78-nUn-c.png)
+Survival Update! - Sky Kingdoms](https://minecraft-server.net/details/SkyKingdoms/ "Survival Update! - Sky Kingdoms")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-Veldt Survival](https://minecraft-server.net/details/VeldtSurvival/ "Veldt Survival")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
 
-Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![TotemMC](plugins/MineCraft/icons/25x25xTotemMC_1727336201.png.pagespeed.ic.JsPeSfpeX-.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1726669577.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+TotemMC is OPEN! \[1.21 Survival with many updates coming\]](https://minecraft-server.net/details/TotemMC/ "TotemMC is OPEN! [1.21 Survival with many updates coming]")[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")
+Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05747 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06113 - Created by [Debaucus](https://debauc.us/)
