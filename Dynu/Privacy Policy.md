@@ -240,10 +240,17 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Stuck?
+### Get connected with us!
 
   
-[Get Help](https://www.dynu.com/Support)  
+Keep updated with related news and offers.
+
+  
+
+  
+
+[Follow @DynuSystems](https://twitter.com/DynuSystems)
+
   
 
 ### News
