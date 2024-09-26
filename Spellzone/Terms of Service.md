@@ -431,11 +431,9 @@ Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
-One of the students has put in a huge amount of effort in completing Spellzone at least 3 times a week since his arrival with us in January. Looking at his scores after the latest GL testing, his standardised score has risen from 99 to 131. This is a truly phenomenal result. I just wanted to share the best result I have ever seen.
+"This is a fantastic opportunity for our students!  I'm sure Spellzone will be invaluable in helping them to improve their spellings and therefore improve the quality of their writing in all subject areas!"
 
-**Terrie Penrose-Toms, Casterton College**
-
-[read more...](https://www.spellzone.com/pages/case-studies/casterton-college.cfm)
+**Teacher, High School, UK**
 
 ### Curriculum...
 
