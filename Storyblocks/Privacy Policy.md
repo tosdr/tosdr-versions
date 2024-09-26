@@ -351,7 +351,7 @@ Creative Tools
 
 * [Membership Plans](https://www.storyblocks.com/pricing)
 * [Individual License](https://www.storyblocks.com/license/individual-license)
-* [Business License](https://www.storyblocks.com/Business)
+* [Business License](https://www.storyblocks.com/license/business-license)
 
 * * *
 
