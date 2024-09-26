@@ -339,6 +339,10 @@ Pipefy is committed to informing individuals when personal information must be d
 
 Pipefy is liable for onward transfers of personal data to third parties. This means Pipefy ensures that third parties receiving personal data adhere to the same standards of data protection and privacy as Pipefy. In the event of non-compliance by third parties, Pipefy will take appropriate measures to address and resolve any issues that arise.
 
+8.10 - Binding Arbitration:
+
+For residual claims, the EU-U.S. DPF provides for the right to request binding arbitration to resolve a complaint that has not been resolved by other means, as described in [Annex I of the DPF Principles](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction). The purpose of this option is to provide a prompt, independent, and fair mechanism, at the option of individuals, for resolution of any claimed violations of the Principles not resolved by any of the other EU-U.S. DPF mechanisms
+
 9.Your Rights - California Residents
 ------------------------------------
 
