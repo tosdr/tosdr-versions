@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/l-intro-1727292734.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+*  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
-    ===========================================================================================================================================
+    [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+    ===================================================================================================================
     
-    Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
+    When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
     
-    By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+    By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
     
-* *  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+* *  [![Amal Clooney](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/intro-1727292734.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+        ### [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
         
-        When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
+        Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
         
-        By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+        By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
         
     *  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
         
