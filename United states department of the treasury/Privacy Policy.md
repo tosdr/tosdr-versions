@@ -555,9 +555,9 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    September 25, 2024
+    September 26, 2024
     
-    [Treasury Sanctions Networks Enabling Illicit Trade that Benefits IRGC-QF and Hizballah](https://home.treasury.gov/news/press-releases/jy2613)
+    [Treasury Takes Coordinated Actions Against Illicit Russian Virtual Currency Exchanges and Cybercrime Facilitator](https://home.treasury.gov/news/press-releases/jy2616)
     
     September 25, 2024
     
@@ -565,12 +565,16 @@ MENU MENU
     
     September 25, 2024
     
-    [G7 Cyber Expert Group Recommends Action to Combat Financial Sector Risks from Quantum Computing](https://home.treasury.gov/news/press-releases/jy2609)
+    [Treasury Sanctions Networks Enabling Illicit Trade that Benefits IRGC-QF and Hizballah](https://home.treasury.gov/news/press-releases/jy2613)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    September 26, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the 2024 U.S. Treasury Market Conference](https://home.treasury.gov/news/press-releases/jy2618)
     
     September 25, 2024
     
@@ -579,10 +583,6 @@ MENU MENU
     September 25, 2024
     
     [Remarks by Deputy Secretary of the Treasury Wally Adeyemo on Voluntary Carbon Markets](https://home.treasury.gov/news/press-releases/jy2611)
-    
-    September 25, 2024
-    
-    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at the 2024 Partnership for Global Infrastructure and Investment Investor Forum](https://home.treasury.gov/news/press-releases/jy2610)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
