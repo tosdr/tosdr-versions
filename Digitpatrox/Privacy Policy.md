@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, September 25 2024
+Thursday, September 26 2024
 
 Latest
 
-* [Delaware libraries lose internet access after RansomHub cyber attack](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
-* [The power of partnership: Driving innovation with AWS support for business](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
-* [Kandji offers up its take on AI to Apple IT – Computerworld](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
-* [Use an ‘Elimination’ Method to Make Cleaning More Efficient](https://digitpatrox.com/use-an-elimination-method-to-make-cleaning-more-efficient/)
-* [Vendor Spotlight: ManageEngine](https://digitpatrox.com/vendor-spotlight-manageengine/)
-* [Talking Cars 454: Driving the Toyota Land Cruiser](https://digitpatrox.com/talking-cars-454-driving-the-toyota-land-cruiser/)
-* [Why You Should Get the LCD Steam Deck Before It’s Gone](https://digitpatrox.com/why-you-should-get-the-lcd-steam-deck-before-its-gone/)
-* [Pure Storage announces VM assessment service – and it could please beleaguered VMware customers](https://digitpatrox.com/pure-storage-announces-vm-assessment-service-and-it-could-please-beleaguered-vmware-customers/)
-* [Microsoft Reports on Progress of Revamping Security Efforts](https://digitpatrox.com/microsoft-reports-on-progress-of-revamping-security-efforts/)
-* [5 conversation starters to try with ChatGPT Advanced Voice](https://digitpatrox.com/5-conversation-starters-to-try-with-chatgpt-advanced-voice/)
+* [NYT Strands Today: Hints, Answers & Spangram for September 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
+* [Logpoint names Søren Grubov as SVP of engineering](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
+* [Microsoft claims new ‘Correction’ tool can fix genAI hallucinations – Computerworld](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
+* [Which Flu Shot to Choose If You’re Over 65](https://digitpatrox.com/which-flu-shot-to-choose-if-youre-over-65/)
+* [Tide Evo Tile Laundry Detergent Review](https://digitpatrox.com/tide-evo-tile-laundry-detergent-review/)
+* [How to Lock Your Ecobee Thermostat with a PIN Code](https://digitpatrox.com/how-to-lock-your-ecobee-thermostat-with-a-pin-code/)
+* [Redis insists license changes were the “only way to compete with Amazon and Google” – now it could face a user exodus](https://digitpatrox.com/redis-insists-license-changes-were-the-only-way-to-compete-with-amazon-and-google-now-it-could-face-a-user-exodus/)
+* [What Is Google Gemini, and How Does It Work?)](https://digitpatrox.com/what-is-google-gemini-and-how-does-it-work/)
+* [Act fast! LG is knocking up to $200 off its washers and dryers](https://digitpatrox.com/act-fast-lg-is-knocking-up-to-200-off-its-washers-and-dryers/)
+* [How to choose a photo storage service](https://digitpatrox.com/how-to-choose-a-photo-storage-service/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Delaware-Libraries-lose-internet-access-due-to-ransomware-attack.jpg)](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
     
-    [Delaware libraries lose internet access after RansomHub cyber attack](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
+    [NYT Strands Today: Hints, Answers & Spangram for September 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
     
-    10 mins ago
+    2 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/CDrA3AALeJpW8TBHbUJVha-1200-80.jpg)](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
+* [![](https://cdn.mos.cms.futurecdn.net/uKJYWj6P63diudVrHn6bMV-1200-80.jpg)](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
     
-    [The power of partnership: Driving innovation with AWS support for business](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
-    
-    29 mins ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3539996-0-33041000-1727284108-Apple-WWDC24-Apple-Intelligence-ChatGPT-Writing-Tools-Compose-prompt-240610.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
-    
-    [Kandji offers up its take on AI to Apple IT – Computerworld](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
-    
-    52 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J8MYR1BQ2VPR505ZKS2CQE6G/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/use-an-elimination-method-to-make-cleaning-more-efficient/)
-    
-    [Use an ‘Elimination’ Method to Make Cleaning More Efficient](https://digitpatrox.com/use-an-elimination-method-to-make-cleaning-more-efficient/)
+    [Logpoint names Søren Grubov as SVP of engineering](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/ManageEngine-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-manageengine/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3540429-0-30231300-1727296937-shutterstock_232365724.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
     
-    [Vendor Spotlight: ManageEngine](https://digitpatrox.com/vendor-spotlight-manageengine/)
+    [Microsoft claims new ‘Correction’ tool can fix genAI hallucinations – Computerworld](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
     
-    1 hour ago
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01HF2H50P28PC96W4PXA5D3VX2/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/which-flu-shot-to-choose-if-youre-over-65/)
+    
+    [Which Flu Shot to Choose If You’re Over 65](https://digitpatrox.com/which-flu-shot-to-choose-if-youre-over-65/)
+    
+    2 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1722352869/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-We-Washed-10-Laundry-Loads-in-Tide-Evo-Detergent-Heres-Our-Unscientific-First-Impression-0724)](https://digitpatrox.com/tide-evo-tile-laundry-detergent-review/)
+    
+    [Tide Evo Tile Laundry Detergent Review](https://digitpatrox.com/tide-evo-tile-laundry-detergent-review/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 mins ago
+* [2 mins ago
     
-    ### Delaware libraries lose internet access after RansomHub cyber attack](https://digitpatrox.com/delaware-libraries-lose-internet-access-after-ransomhub-cyber-attack/)
-* [29 mins ago
+    ### NYT Strands Today: Hints, Answers & Spangram for September 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-26/)
+* [1 hour ago
     
-    ### The power of partnership: Driving innovation with AWS support for business](https://digitpatrox.com/the-power-of-partnership-driving-innovation-with-aws-support-for-business/)
-* [52 mins ago
+    ### Logpoint names Søren Grubov as SVP of engineering](https://digitpatrox.com/logpoint-names-soren-grubov-as-svp-of-engineering/)
+* [2 hours ago
     
-    ### Kandji offers up its take on AI to Apple IT – Computerworld](https://digitpatrox.com/kandji-offers-up-its-take-on-ai-to-apple-it-computerworld/)
+    ### Microsoft claims new ‘Correction’ tool can fix genAI hallucinations – Computerworld](https://digitpatrox.com/microsoft-claims-new-correction-tool-can-fix-genai-hallucinations-computerworld/)
 
 Most Popular Topics
 
-* [3 days ago
+* [August 26, 2024
     
-    ### Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
-* [August 16, 2024
+    ### Apple Announces September 9 Event to Unveil iPhone 16 Series](https://digitpatrox.com/apple-announces-september-9-event-to-unveil-iphone-16-series/)
+* [1 day ago
     
-    ### Bash Script Loops Examples](https://digitpatrox.com/bash-script-loops-examples/)
-* [August 15, 2024
+    ### The New York Times will now charge for past episodes of its popular podcasts](https://digitpatrox.com/the-new-york-times-will-now-charge-for-past-episodes-of-its-popular-podcasts/)
+* [August 25, 2024
     
-    ### 5 Ways Your 3D Printer Can Hurt You (And How to Avoid It)](https://digitpatrox.com/5-ways-your-3d-printer-can-hurt-you-and-how-to-avoid-it/)
+    ### These $10 Wire Holders Save My Sanity](https://digitpatrox.com/these-10-wire-holders-save-my-sanity/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [4 hours ago
     
-    ### Why You Should Get the LCD Steam Deck Before It’s Gone](https://digitpatrox.com/why-you-should-get-the-lcd-steam-deck-before-its-gone/)
-* [3 hours ago
+    ### Redis insists license changes were the “only way to compete with Amazon and Google” – now it could face a user exodus](https://digitpatrox.com/redis-insists-license-changes-were-the-only-way-to-compete-with-amazon-and-google-now-it-could-face-a-user-exodus/)
+* [4 hours ago
     
-    ### Pure Storage announces VM assessment service – and it could please beleaguered VMware customers](https://digitpatrox.com/pure-storage-announces-vm-assessment-service-and-it-could-please-beleaguered-vmware-customers/)
-* [3 hours ago
+    ### What Is Google Gemini, and How Does It Work?)](https://digitpatrox.com/what-is-google-gemini-and-how-does-it-work/)
+* [4 hours ago
     
-    ### Microsoft Reports on Progress of Revamping Security Efforts](https://digitpatrox.com/microsoft-reports-on-progress-of-revamping-security-efforts/)
+    ### Act fast! LG is knocking up to $200 off its washers and dryers](https://digitpatrox.com/act-fast-lg-is-knocking-up-to-200-off-its-washers-and-dryers/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [4 weeks ago
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
