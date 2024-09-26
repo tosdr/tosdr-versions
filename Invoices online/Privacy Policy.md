@@ -118,56 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Henry Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=209273191)  
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=204838702)  
+National Elite Security Services (PTY) LTD
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=169178739)  
-Digifax Pty) Ltd t/a Findfish
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=11552689)  
+OXYAIDER (PTY) LTD
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=200662561)  
-Environment Friendly Toilets (Pty) Ltd
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=1979911)  
-McKaynine Mobility
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=125395923)  
-Sportspro Management (Pty) Ltd
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=49460714)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=74407683)  
-Blue Bulls Rugby Coaches Association
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=141723916)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=50695985)  
-MSPCloud (Pty) Ltd
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=181864724)  
-Hydroworld T/A Milliqua
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=114769465)  
-Creative Characters
-
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=66736556)  
-Calonet
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=108736225)  
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=68700495)  
 Enhle Oarabile Kea
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=168424305)  
-Prosper Park
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=124521844)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=6912a361e51178303a1cc038bc06aa718c9624686ca3e83ae417df7e2813b2c1&c=78629134)  
-Norton Medical & Consult - Namibia
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=8150216)  
+One2b
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=61275259)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=78512968)  
+Westside Car Audio CC
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=108265848)  
+Lily Fern & Co
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=73199248)  
+Brilliant Roof Products
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=149386952)  
+African Roots
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=18379587)  
+Gemini-IT Group
+
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=190637111)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=145478449)  
+TIGERDSL
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=205963402)  
+NWET Pty LTD
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=a4f45ba095d5cbc84972e7b2881a81953e421f40301fc0a3eeac75ea22aaa9e0&c=205460612)  
+ELLIE'S CLEANING CHICKS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
