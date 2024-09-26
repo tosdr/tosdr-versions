@@ -122,6 +122,8 @@ This field is for validation purposes and should be left unchanged.
 
 [Privacy Policy](https://www.uscyberrange.org/privacy-policy/)
 
+[Accessibility](https://www.uscyberrange.org/accessibility/)
+
 #### [Contact](https://www.uscyberrange.org/contact/)
 
 [uscyberrange@vt.edu](mailto:uscyberrange@vt.edu)  
