@@ -228,9 +228,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
-
 [Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
 [Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
@@ -238,17 +238,17 @@ this week
 
 [Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
-[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
-
 [Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
+
+[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
   
 
