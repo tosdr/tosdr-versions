@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am really happy with the service you provide and want to continue.
+Great ! You guys are some smart foxes ;-)
 
-Alice Murdoch
+Thomas
