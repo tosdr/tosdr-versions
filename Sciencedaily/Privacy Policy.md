@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Hemophilia B: Single-Dose Gene Therapy](https://www.sciencedaily.com/releases/2024/09/240925172115.htm)
+* [Deep Sea: Life in the Twilight Zone](https://www.sciencedaily.com/releases/2024/09/240925123650.htm)
+* [Extreme El Niño Events On the Upswing](https://www.sciencedaily.com/releases/2024/09/240925123647.htm)
+* [Gray Whales' Acrobatic Feeding Behavior](https://www.sciencedaily.com/releases/2024/09/240925143959.htm)
+* [Mars' Missing Atmosphere Hiding in Plain Sight?](https://www.sciencedaily.com/releases/2024/09/240925143940.htm)
+* [A Gene Can Flip to Code for a Different Protein](https://www.sciencedaily.com/releases/2024/09/240925123645.htm)
 * [World's Oldest Cheese Reveals Origins of Kefir](https://www.sciencedaily.com/releases/2024/09/240925122859.htm)
-* [Protein Behavior Predicted With Simple Math](https://www.sciencedaily.com/releases/2024/09/240925122856.htm)
-* [Video Games to Benefit Kids' Mental Health](https://www.sciencedaily.com/releases/2024/09/240924165720.htm)
-* [Jaw-Dropping Discovery in Mammal Evolution](https://www.sciencedaily.com/releases/2024/09/240925123653.htm)
-* [Mapping Distant Planets](https://www.sciencedaily.com/releases/2024/09/240925123540.htm)
-* ['Weird' Galaxy With Gas Outshining Its Stars](https://www.sciencedaily.com/releases/2024/09/240925122907.htm)
-* [How the Jet Stream Shapes Extreme Weather](https://www.sciencedaily.com/releases/2024/09/240925122847.htm)
-* [How Brain Cells Compute the Flow of Time](https://www.sciencedaily.com/releases/2024/09/240925122844.htm)
-* [Extinct Volcanoes Rich in Rare Earth Elements](https://www.sciencedaily.com/releases/2024/09/240924123051.htm)
-* [Lengthened Consonants Mark Start of Words](https://www.sciencedaily.com/releases/2024/09/240924123006.htm)
+* [How Special Is the Milky Way Galaxy?](https://www.sciencedaily.com/releases/2024/09/240925144014.htm)
+* [Can We Reach 2°C Climate Target?](https://www.sciencedaily.com/releases/2024/09/240925123600.htm)
+* [A New Ancestor of the Grape Family](https://www.sciencedaily.com/releases/2024/09/240925122920.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
+[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+
 [Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+
+[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
 
 [Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
 [Statistics](https://www.sciencedaily.com/news/computers_math/statistics/)
 
-[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
-
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+
+[Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
 
   
 
