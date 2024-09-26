@@ -1481,64 +1481,68 @@ AED - AED
 * [Writing & Translation](https://www.fiverr.com/categories/writing-translation)
 * [Video & Animation](https://www.fiverr.com/categories/video-animation)
 * [Music & Audio](https://www.fiverr.com/categories/music-audio)
-* [Fiverr Logo Maker](https://www.fiverr.com/logo-maker?source=footer)
 * [Programming & Tech](https://www.fiverr.com/categories/programming-tech)
+* [AI Services](https://www.fiverr.com/categories/ai-services)
+* [Consulting](https://www.fiverr.com/categories/consulting-services)
 * [Data](https://www.fiverr.com/categories/data)
 * [Business](https://www.fiverr.com/categories/business)
 * [Personal Growth & Hobbies](https://www.fiverr.com/categories/lifestyle)
 * [Photography](https://www.fiverr.com/categories/photography)
 * [Finance](https://www.fiverr.com/categories/finance)
 * [End-to-End Projects](https://www.fiverr.com/categories/end-to-end-projects)
-* [Sitemap](https://www.fiverr.com/categories)
+* [Service Catalog](https://www.fiverr.com/categories)
 
-###### About
+###### For Clients
 
-* [Careers](https://www.fiverr.com/jobs?source=footer)
-* [Press & News](https://www.fiverr.com/news/press-releases?source=footer)
-* [Partnerships](https://www.fiverr.com/partnerships?source=footer)
-* [Privacy Policy](https://www.fiverr.com/legal-portal/privacy/privacy-policy?source=footer)
-* [Terms of Service](https://www.fiverr.com/legal-portal?source=footer)
-* [Intellectual Property Claims](https://www.fiverr.com/legal-portal/community/intellectual-property?source=footer)
-* [Investor Relations](https://investors.fiverr.com/)
-
-###### Support and Education
-
-* [Help & Support](https://help.fiverr.com/hc/en-us)
+* [How Fiverr Works](https://www.fiverr.com/cp/how-fiverr-works?show_join&source=footer)
+* [Customer Success Stories](https://www.fiverr.com/cp/success-stories?source=footer)
 * [Trust & Safety](https://www.fiverr.com/trust_safety?source=footer)
 * [Quality Guide](https://help.fiverr.com/hc/en-us/articles/25616781230481-Fiverr-s-guide-to-quality-and-trust)
-* [Selling on Fiverr](https://help.fiverr.com/hc/en-us/articles/360010451297-How-to-start-selling-on-Fiverr)
-* [Buying on Fiverr](https://www.fiverr.com/cp/how-fiverr-works?show_join&source=footer)
-* [Fiverr Guides](https://www.fiverr.com/resources/guides?source=footer)
-* [Learn
+* [Fiverr Learn
     
     Online Courses](https://learn.fiverr.com/)
+* [Fiverr Guides](https://www.fiverr.com/resources/guides?source=footer)
+* [Fiverr Answers](https://answers.fiverr.com/)
 
-###### Community
+###### For Freelancers
 
-* [Customer Success Stories](https://www.fiverr.com/cp/success-stories?source=footer)
+* [Become a Fiverr Freelancer](https://www.fiverr.com/start_selling?source=footer)
+* [Become an Agency](https://www.fiverr.com/cp/apply-fiverr-agencies?source=footer)
+* [Kickstart](https://www.fiverr.com/cp/kickstart-program?source=footer)
 * [Community Hub](https://community.fiverr.com/)
 * [Forum](https://community.fiverr.com/forums/)
 * [Events](https://events.fiverr.com/)
-* [Blog](https://blog.fiverr.com/?utm_source=fiverr&utm_medium=website)
-* [Creators](https://www.fiverr.com/partnerships/creators)
-* [Affiliates](https://www.fiverr.com/partnerships/affiliates)
-* [Podcast](https://play.acast.com/s/ninetwentynine)
-* [Invite a Friend](https://www.fiverr.com/referral_program?source=footer)
-* [Become a Seller](https://www.fiverr.com/start_selling?source=footer)
-* [Community Standards](https://www.fiverr.com/community/standards?source=footer)
 
 ###### Business Solutions
 
-* [About Business Solutions](https://www.fiverr.com/fiverr-business-solutions?source=footer)
 * [Fiverr Pro](https://pro.fiverr.com/?source=footer)
-* [Fiverr Certified](https://www.fiverr.com/certified?source=footer)
-* [Become an Agency](https://www.fiverr.com/cp/agencies-waiting-list?source=footer)
-* [Fiverr Enterprise](https://enterprise.fiverr.com/?source=footer)
+* [Project Management Service](https://pro.fiverr.com/cp/project-partner?source=footer)
 * [ClearVoice
     
     Content Marketing](https://www.clearvoice.com/?source=footer)
-* [Working Not Working](https://workingnotworking.com/?source=footer)
+* [Working Not Working
+    
+    Creative Talent](https://workingnotworking.com/?source=footer)
+* [AutoDS
+    
+    Dropshipping Tool](https://www.autods.com/?source=footer)
+* [Fiverr Logo Maker](https://www.fiverr.com/logo-maker?source=footer)
 * [Contact Sales](https://www.fiverr.com/fbs-contact-us?source=footer)
+
+###### Company
+
+* [About Fiverr](https://www.fiverr.com/about-us?source=footer)
+* [Help & Support](https://help.fiverr.com/hc/en-us)
+* [Social Impact](https://www.fiverr.com/social-impact?source=footer)
+* [Careers](https://www.fiverr.com/jobs?source=footer)
+* [Terms of Service](https://www.fiverr.com/legal-portal?source=footer)
+* [Privacy Policy](https://www.fiverr.com/legal-portal/privacy/privacy-policy?source=footer)
+* [Partnerships](https://www.fiverr.com/partnerships?source=footer)
+* [Creator Network](https://www.fiverr.com/partnerships/creators)
+* [Affiliates](https://www.fiverr.com/partnerships/affiliates)
+* [Invite a Friend](https://www.fiverr.com/referral_program?source=footer)
+* [Press & News](https://www.fiverr.com/news/press-releases?source=footer)
+* [Investor Relations](https://investors.fiverr.com/)
 
 © Fiverr International Ltd. 2024
 
