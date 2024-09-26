@@ -2,17 +2,11 @@
 
 [](https://buypiezano.com/Home)
 
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
+Make Gourmet Crispy Delicious
 
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343006204235575690)
+Pizza in Just 6 Minutes!
 
-[](https://buypiezano.com/Home)
-
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
-
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343006204235575690)
+[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=343006261256846100)
 
 Return Policy
 
@@ -29,13 +23,17 @@ Refund Policy
 Your satisfaction is important to us. If you are unhappy with your merchandise for any reason simply return the product within 60 days for a full refund of your order excluding shipping and handling. A refund will be issued within 3 to 7 business days of receiving your returned item.  
 
 * [Home](https://buypiezano.com/Home)
+* [How to Use](https://buypiezano.com/howto)
+* [Manual](https://buypiezano.com/Manual)
+* [Accessibility Statement](https://buypiezano.com/Accessibility-Statement)
 * [Privacy Policy](https://buypiezano.com/Privacy-Policy)
 * [Contact Us](https://buypiezano.com/Contact-Us)
 * [Return Policy](https://buypiezano.com/Return-Policy)
 * [Terms and Conditions](https://buypiezano.com/Terms-and-Conditions)
 * [Arbitration Agreement](https://buypiezano.com/Arbitration-Agreement)
+* [Shipping Policy](https://buypiezano.com/Shipping-Policy)
 * [California Consumer Privacy Act Disclosures](https://buypiezano.com/California-Consumer-Privacy-Act-Disclosures)
-* [How to Use](https://buypiezano.com/howto)
-* [Manual](https://buypiezano.com/Manual)
+* [Do Not Sell or Share My Personal Information](https://www.emson.com/optout)
+* [Limit the Use of My Sensitive Personal Information](https://www.emson.com/optout)
 
-Copyright © 2024 Emson
+Copyright © 2024 E. Mishan & Sons, Inc. | Built with [**Buyist**](https://buyist.com/)
