@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Forgiveness
+
+### Mercy’s role against human smuggling](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0926/Mercy-s-role-against-human-smuggling "Mercy’s role against human smuggling")
+
+[Justice
+
+### Ten years after 43 students disappeared, Mexican parents still seek the truth](https://www.csmonitor.com/World/Americas/2024/0926/Mexico-43-disappeared-students-protests-truth "Ten years after 43 students disappeared, Mexican parents still seek the truth")
+
 [Community
 
 ### The ‘other’ Alaska cruise: Got a week? Pitch your tent on deck.](https://www.csmonitor.com/The-Culture/2024/0925/alaska-marine-highway-system-ferry-cruise "The ‘other’ Alaska cruise: Got a week? Pitch your tent on deck.")
-
-[Dignity
-
-### The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves](https://www.csmonitor.com/World/Asia-South-Central/2024/0925/rural-India-women-goat-nurses "The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves")
-
-[Integrity
-
-### Avoiding war by truth-telling](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0925/Avoiding-war-by-truth-telling "Avoiding war by truth-telling")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Why are three of Brazil’s mega dams in the Amazon on the brink of failure?](https://www.csmonitor.com/World/Americas/2024/0926/Brazil-climate-change-drought-mega-dam "Why are three of Brazil’s mega dams in the Amazon on the brink of failure?")
+
+[### Ten years after 43 students disappeared, Mexican parents still seek the truth](https://www.csmonitor.com/World/Americas/2024/0926/Mexico-43-disappeared-students-protests-truth "Ten years after 43 students disappeared, Mexican parents still seek the truth")
+
 [### How ships can make green fuel, and natural winds are key to cooling a city](https://www.csmonitor.com/World/Points-of-Progress/2024/0926/shipping-green-fuel-wind-cooling "How ships can make green fuel, and natural winds are key to cooling a city")
-
-[### The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves](https://www.csmonitor.com/World/Asia-South-Central/2024/0925/rural-India-women-goat-nurses "The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves")
-
-[### What do Jewish and Palestinian Israelis have in common? Hope.](https://www.csmonitor.com/World/Middle-East/2024/0925/Jewish-Palestinian-Israelis-Standing-Together-Hope "What do Jewish and Palestinian Israelis have in common? Hope.")
 
 * * *
 
