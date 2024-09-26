@@ -1,8 +1,8 @@
 [](https://timetreeapp.com/intl/en)
 ===================================
 
-* [Premium](https://timetreeapp.com/intl/en/premium)
 * [Support](https://support.timetreeapp.com/hc)
+* [About Us](https://timetreeapp.com/intl/en/corporate)
 * [Login](https://timetreeapp.com/signin)
 * [Get started with TimeTree for free](https://timetreeapp.com/signup)
 
@@ -141,6 +141,7 @@ Altered on August 9th, 2023
     * [Privacy Policy](https://timetreeapp.com/intl/en/terms/privacy)
 * TimeTree, Inc.
     * [Corporate](https://timetreeapp.com/intl/en/corporate)
+    * [Management](https://timetreeapp.com/intl/en/corporate/leadership)
     * [Newsroom](https://timetreeapp.com/intl/en/newsroom)
     * [Brand](https://timetreeapp.com/intl/en/brand-resources)
 
