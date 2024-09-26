@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-boek-bewustzijnsdynamiek-toont-onze-reis-en-bestemming/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/de-onmogelijke-vlucht-van-de-pentagon-boeing-op-911/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
