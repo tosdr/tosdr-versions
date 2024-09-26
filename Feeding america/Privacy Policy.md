@@ -115,6 +115,8 @@ Sidebar
     * [Policy and Benefits](https://www.feedingamerica.org/research/policy-and-benefits "Policy and Benefits")
     * [Program Evaluation](https://www.feedingamerica.org/research/program-evaluation "Program Evaluation")
     * [Race and Ethnicity](https://www.feedingamerica.org/research/race-food-insecurity "Race, Ethnicity and Food Insecurity Research")
+    * [Senior Hunger Research](https://www.feedingamerica.org/research/senior-hunger-research "Senior Hunger Research")
+        * [Senior Food Insecurity Exploratory Research](https://www.feedingamerica.org/research/senior-hunger-research/exploratory-research)
     * [Technical Advisory Group](https://www.feedingamerica.org/research/technical-advisory-group "Technical Advisory Group")
 * ### [Ways to Give](https://www.feedingamerica.org/ways-to-give "Ways to Give")
     
@@ -177,6 +179,7 @@ Chicago, IL 60601
 * [Policy and Benefits](https://www.feedingamerica.org/research/policy-and-benefits "Policy and Benefits")
 * [Program Evaluation](https://www.feedingamerica.org/research/program-evaluation "Program Evaluation")
 * [Race and Ethnicity](https://www.feedingamerica.org/research/race-food-insecurity "Race, Ethnicity and Food Insecurity Research")
+* [Senior Hunger Research](https://www.feedingamerica.org/research/senior-hunger-research "Senior Hunger Research")
 * [Technical Advisory Group](https://www.feedingamerica.org/research/technical-advisory-group "Technical Advisory Group")
 
 * [Ways to Give](https://www.feedingamerica.org/ways-to-give "Ways to Give")
