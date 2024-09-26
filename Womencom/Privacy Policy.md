@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+*  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
-    ===================================================================================================================
+    [5 Reese Witherspoon Outfits That Prove She's The Queen Of The Black Dress](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+    =================================================================================================================================================================
     
-    When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
+    Reese Witherspoon has never met an LBD she didn't like. Here are 5 times she took the classic look and made it her own.
     
-    By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+    By Emily Hutchinson [Read More](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
     
-* *  [![Amal Clooney](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/intro-1727292734.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+* *  [![Purple celestial nails](https://www.women.com/img/gallery/5-practical-magic-inspired-nail-ideas-with-impeccable-autumn-vibes/intro-1727206271.jpg)](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
         
-        ### [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+        ### [5 Practical Magic Inspired Nail Ideas With Impeccable Autumn Vibes](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
         
-        Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
+        Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
         
-        By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+        By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
         
-    *  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    *  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+        ### [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
-        Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
+        When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+        By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
         
 
 More Stories
 ------------
 
+*  [![Amal Clooney](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/intro-1727292734.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+    
+    Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
+    
+*  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    
+    Katie Holmes' style enforces her penchant for polished looks. But this star has a different approach to dressing than many of her famous peers.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
+    
 *  [![The Secret Lives of Mormon wives cast](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-is-teaching-us-how-to-spot-friendship-red-flags/intro-1727292658.jpg)](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -381,30 +405,6 @@ More Stories
     Throughout her 2024 presidential campaign, Kamala Harris has been seen wearing pantsuits of many different colors. Here's what they could mean.
     
     By Amanda Chatel [Read More](https://www.women.com/1663437/chic-kamala-harris-presidential-looks/)
-    
-*  [![Katy Perry smiling](https://www.women.com/img/gallery/5-katy-perry-outfits-that-completely-missed-the-mark/intro-1725983199.jpg)](https://www.women.com/1661177/katy-perry-outfits-didnt-work/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Katy Perry Outfits That Completely Missed The Mark](https://www.women.com/1661177/katy-perry-outfits-didnt-work/)
-    
-    Katy Perry isn't one to shy away from a fashion risk. But while those risks often pay off, sometimes, she really misses the mark.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1661177/katy-perry-outfits-didnt-work/)
-    
-*  [![Person smiling on roof](https://www.women.com/img/gallery/boy-sober-what-it-means-and-why-you-should-try-the-trend/intro-1725916117.jpg)](https://www.women.com/1660708/boy-sober-explained-try-trend/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
-    
-    ### ['Boy Sober': What It Means And Why You Should Try The Trend](https://www.women.com/1660708/boy-sober-explained-try-trend/)
-    
-    As dating app fatigue has begun to skyrocket and men continue to disappoint, some women are turning to a new mindset: boy sobriety.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1660708/boy-sober-explained-try-trend/)
     
 
 Back
