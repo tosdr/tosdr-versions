@@ -296,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-October 31, 1991, is not only the day that Harry, Ron, and Hermione defeated the troll in the girl’s bathroom but is also the 10-year anniversary of the death of Harry’s parents.
+During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
 
 ### Potter History
 
-October 27, 2006 – MuggleNet releases What Will Happen in Harry Potter 7?
+June 4, 2012 – Sony unveils Wonderbook: Book of Spells at the Electronic Entertainment Expo in Los Angeles.
 
 ### Potter Quote
 
-“Magic blooms only in rare souls. You came today because of a craving and a knowledge that the old ways serve us no longer.”
+“She has eyes just like a salamander.”
 
 [](#)
 
