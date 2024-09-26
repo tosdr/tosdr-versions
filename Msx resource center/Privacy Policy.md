@@ -137,7 +137,6 @@ MSX Music player
 
 Latest reactions
 
-* [E-dog](https://www.msx.org/downloads/e-dog "E-dog")
 * [New website Repair-Bas](https://www.msx.org/news/en/new-server-repair-bas-youtube-channel-english-translation "New website Repair-Bas")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
@@ -147,14 +146,15 @@ Latest reactions
 * [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
 * [MSX Overclocking - Disconnect WAIT pin](https://www.msx.org/news/hardware/en/msx-overclocking-disconnect-wait-pin "MSX Overclocking - Disconnect WAIT pin")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
+* [csMSX - MSX/2 Emulator & C# Source Code](https://www.msx.org/downloads/csmsx-vbnet-msx-msx2-emulator-source-code "csMSX - MSX/2 Emulator & C# Source Code")
 
 Latest forum posts
 
 * [Saving in Vampire Killer](https://www.msx.org/forum/msx-talk/general-discussion/saving-in-vampire-killer "Saving in Vampire Killer")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
 * [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr "Fastest ISR")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=57 "WonderTANG! Who wants to juice up your MSX?")
 * [Pisa Devcon 2024 Italy](https://www.msx.org/forum/msx-talk/general-discussion/pisa-devcon-2024-italy?page=1 "Pisa Devcon 2024 Italy")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=118 "Please help testing upcoming openMSX release!")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic "HB-F1XD reboots/freezes in basic")
 * [Laserdisc Pioneer CLD-7 question](https://www.msx.org/forum/msx-talk/general-discussion/laserdisc-pioneer-cld-7-question "Laserdisc Pioneer CLD-7 question")
 * [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
