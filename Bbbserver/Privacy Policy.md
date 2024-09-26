@@ -52,7 +52,7 @@ Sie können nach der Registrierung in unserer Online-Oberfläche im Menüpunkt "
 
 Damit Sie sich schon vorab ein Bild von diesem Vertrag machen können, haben wir Ihnen hier ein Muster / Beispiel bereitgestellt:
 
-[Muster-Vertrag öffnen](https://app.bbbserver.de/de/contract/data-processing/demo)
+[Muster-Vertrag öffnen](https://app.bbbserver.de/de/customer-with-user-data-processing-agreement/demo)
 
 Unser Muster-ADV reicht Ihnen nicht?  
 Wir bitten zu verstehen, dass die juristische Prüfung von individuellen ADV-Verträgen sehr aufwändig ist. Da uns Datenschutz wichtig ist, möchten wir jeden Vertrag auf organisatorische Durchführbarkeit und juristische Vollständigkeit prüfen. Bei Tausenden von Kunden müssen wir darauf achten, dass wir kein "Flickenteppich" an Individualregelungen haben.  
