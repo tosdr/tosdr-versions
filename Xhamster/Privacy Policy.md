@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22e%22%2C%22v%22%3A6%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66f58d89dd6eb4.96915136359&xhSessionToken=ec73c55b7082f0b80682d9b57f6422310d730e61&xhSessionStartedAt=1727368585)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A6%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66f5df22e5bc64.67879982217&xhSessionToken=125cb17b633787992d8b63f30136fd78dad7ce95&xhSessionStartedAt=1727389474)
 
 [Categories](https://xhamster.com/categories)
 
@@ -369,7 +369,7 @@ Last Modified: January 04, 2024
 * [](https://xhamster.com/info/eu-digital-services-act)
 * [](https://xhamster.com/info/trust-and-safety)
 
-* [](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
+* [](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
 * [](https://xhamster.com/creators/contest)
 * [](https://xhamster.com/creator?source=footerCcp)
 
