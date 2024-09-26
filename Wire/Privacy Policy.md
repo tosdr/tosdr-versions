@@ -2,24 +2,24 @@
 
 [![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/home)
 
-* [Products](javascript:void(0);)
+* Products
     
     * [Features](https://wire.com/en/features)
     * [Security](https://wire.com/en/security)
     * [Plans & Pricing](https://wire.com/en/pricing)
     * [Deployment Options](https://wire.com/en/deployment-options)
     
-* [Solutions](javascript:void(0);)
+* Solutions
     
     * [Individuals & Business](https://wire.com/en/smb)
     * [Enterprise](https://wire.com/en/enterprise)
     * [Government](https://wire.com/en/government)
     
-* [Resources](javascript:void(0);)
+* Resources
     
     * [Download](https://wire.com/en/app-download)
+    * [Blog](https://wire.com/en/blog)
     * [Support](https://support.wire.com/)
-    * [Blog](https://wire.com/blog)
     * [GitHub](https://github.com/wireapp/)
     
 * [Plans & Pricing](https://wire.com/en/pricing)
