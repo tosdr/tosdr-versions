@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Community
+
+### The ‘other’ Alaska cruise: Got a week? Pitch your tent on deck.](https://www.csmonitor.com/The-Culture/2024/0925/alaska-marine-highway-system-ferry-cruise "The ‘other’ Alaska cruise: Got a week? Pitch your tent on deck.")
+
 [Dignity
 
 ### The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves](https://www.csmonitor.com/World/Asia-South-Central/2024/0925/rural-India-women-goat-nurses "The kids are all right: How rural India’s ‘goat nurses’ help animals – and themselves")
@@ -99,10 +103,6 @@ Recent Stories
 [Integrity
 
 ### Avoiding war by truth-telling](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0925/Avoiding-war-by-truth-telling "Avoiding war by truth-telling")
-
-[Cooperation
-
-### What do Jewish and Palestinian Israelis have in common? Hope.](https://www.csmonitor.com/World/Middle-East/2024/0925/Jewish-Palestinian-Israelis-Standing-Together-Hope "What do Jewish and Palestinian Israelis have in common? Hope.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 24, 2024
+September 25, 2024
 
-‘Just the facts’ about the candidates
+Investigative journalism, Monitor style
 
-One comment I often hear is: Just give us the facts.Today’s lead story provides just the facts on American presidential candidate Donald Trump, with fellow candidate Kamala Harris appearing tomorrow. The idea is to examine their political records to give you a sense of how they might govern, beyond the rhetoric.If you’re interested in a deeper dive on how the current political environment is shaping our view of facts, please check out my column.
+Investigative journalism is one of the media’s most powerful tools. The Monitor has done its share. But we also offer a twist.Read today’s story by Dina Kraft about Israeli Jews and Palestinians coming together to fight for one another’s humanity and safety. Ask yourself: Have I seen anything like that anywhere else? Other news outlets often ignore such stories or cordon them off as “good news.”We know they are much more. They are the seeds of a different future, and they could not be more important. We might have to dig a bit to find them. But that’s a different – and equally important – kind of investigative journalism.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
