@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/cfc69e25-8738-440c-b1c5-9f33f934354a/cfc69e25-8738-440c-b1c5-9f33f934354a_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/cfc69e25-8738-440c-b1c5-9f33f934354a/cfc69e25-8738-440c-b1c5-9f33f934354a_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a9323193-78b2-41ca-898e-9fb59d4ca914/20240927T211508/a9323193-78b2-41ca-898e-9fb59d4ca914_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a9323193-78b2-41ca-898e-9fb59d4ca914/20240927T211508/a9323193-78b2-41ca-898e-9fb59d4ca914_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
         
-        #### [2 dead in Galesburg house fire](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
+        #### [6-year-old among 2 dead in Galesburg house fire](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7dfc4932-eca9-480a-a3b5-cdaca99ee99c/20240927T215305/7dfc4932-eca9-480a-a3b5-cdaca99ee99c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7dfc4932-eca9-480a-a3b5-cdaca99ee99c/20240927T215305/7dfc4932-eca9-480a-a3b5-cdaca99ee99c_360x203.jpg)](https://www.wqad.com/article/news/local/as-seen-on-tv/project-now-hispanic-chamber-third-annual-block-party/526-f996b957-6bf7-4b39-9671-8351def0cb56)
         
-        #### [Manhunt underway in Louisa County, Iowa](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
+        #### [QC Hispanic Chamber, Project NOW holding third annual block party](https://www.wqad.com/article/news/local/as-seen-on-tv/project-now-hispanic-chamber-third-annual-block-party/526-f996b957-6bf7-4b39-9671-8351def0cb56)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d55d2556-a345-4add-bede-236498c80fba/20240927T121512/d55d2556-a345-4add-bede-236498c80fba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d55d2556-a345-4add-bede-236498c80fba/20240927T121512/d55d2556-a345-4add-bede-236498c80fba_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/62c14dde-4caf-4630-8a7f-02f9da72a82c/20240927T221059/62c14dde-4caf-4630-8a7f-02f9da72a82c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62c14dde-4caf-4630-8a7f-02f9da72a82c/20240927T221059/62c14dde-4caf-4630-8a7f-02f9da72a82c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Helene brings clouds and breezy winds](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Helene brings high clouds and breezy winds](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/d8eb1d12-3f2b-4138-a147-7121a4692c00/20240927T104936/d8eb1d12-3f2b-4138-a147-7121a4692c00_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d8eb1d12-3f2b-4138-a147-7121a4692c00/20240927T104936/d8eb1d12-3f2b-4138-a147-7121a4692c00_360x203.jpg)](https://www.wqad.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
+    *  [![](https://media.tegna-media.com/assets/WTSP/images/ecfc052a-f158-4273-9b95-403390781c5b/20240927T173108/ecfc052a-f158-4273-9b95-403390781c5b_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/ecfc052a-f158-4273-9b95-403390781c5b/20240927T173108/ecfc052a-f158-4273-9b95-403390781c5b_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/deadly-crash-blocks-i-4-hurricane-helene/67-0087ed49-4887-484c-81e4-c8285446582d)
         
-        #### [Helene lashes the South with wind and sheets of rain. Millions are without power](https://www.wqad.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
+        #### [Car passenger killed by falling road sign in Florida during Helene](https://www.wqad.com/article/weather/hurricane/deadly-crash-blocks-i-4-hurricane-helene/67-0087ed49-4887-484c-81e4-c8285446582d)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-71°
+74°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
