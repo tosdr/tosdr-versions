@@ -118,13 +118,15 @@ Blog
 
 Latest updates & insights about security](https://preyproject.com/blog)
 
-[![How to simplify software inventory: best practices and automation](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/66f5cc38c70167e57576c704_How-to-simplify-software-inventory.png)
+[![FCC Cybersecurity Pilot Program: A Quick Guide for EDU IT Managers](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/66f5ccc947f7eff9f8227ccb_FCC-Cybersecurity-Pilot-Program_A-Quick-Guide-for-EDU-IT-Managers.png)
 
 Editor's Pick
 
-How to simplify software inventory: best practices and automation
+FCC Cybersecurity Pilot Program: A Quick Guide for EDU IT Managers
 
-Discover how to streamline your software inventory with best practices and automation. Learn to implement effective SAM strategies for optimal tracking](https://preyproject.com/blog/how-to-simplify-software-inventory-best-practices-and-automation)
+The Federal Communications Commission (FCC) has launched the 2024 Cybersecurity Pilot Program, a $200 million program to help the most vulnerable schools in America. Learn how to apply.](https://preyproject.com/blog/fcc-cybersecurity-pilot-program-a-quick-guide-for-edu-it-managers)
+
+Menu icon
 
 [Rocket icon
 
