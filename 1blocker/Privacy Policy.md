@@ -3,7 +3,7 @@ Privacy Policy
 We believe that privacy is not for sale.  
 Your data should belong to you. We never collect or sell any of your data.
 
-This privacy policy governs your use of the software application 1Blocker ("Application") for iOS and macOS that was created by Salavat Khanov.  
+This privacy policy governs your use of the software application 1Blocker ("Application") for iOS, macOS, visionOS that was created by 1Blocker LLC.  
   
 Summary: the Application does not collect, store, or process any personal information.  
   
@@ -47,6 +47,6 @@ This Privacy Policy may be updated from time to time for any reason. We will not
   
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.  
   
-Contact us If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at dev@1blocker.com.  
+Contact us If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at support@1blocker.com.  
   
-Last updated: January 25, 2022
+Last updated: September 27, 2024
