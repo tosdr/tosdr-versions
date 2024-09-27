@@ -10,8 +10,8 @@ OsmHydrant Lookup fire stations & fire hydrants
 
 * [](#)
     * [Set coverage radius](#)
-    *  [Hide labels](#)
-    *  [Photo Integration](#)
+    * [Hide labels](#)
+    * [Photo Integration](#)
 
 * [](#)
     * [Български](https://www.osmhydrant.org/bg/privacy-policy)
