@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/umetnici-biografije/pasko.jpg?itok=ipJ73Fo4)](http://seecult.org/galerija/galerija-umetnika/karavukovo/umetnici-biografije)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/licni-oglasi/personals/txt.jpg?itok=iK929lIA)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/licni-oglasi-personals)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/voce.jpg?itok=7Z29Iggo)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/basta-rajms.jpg?itok=lAeaxc49)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [67\. Sajam knjiga - Reč je slobodna](http://seecult.org/vest/67-sajam-knjiga-rec-je-slobodna)
+* [Ovacije za Komedi Fransez na Bitefu](http://seecult.org/vest/ovacije-za-komedi-fransez-na-bitefu)
 * [art+science festival u Botaničkoj bašti](http://seecult.org/vest/artscience-festival-u-botanickoj-basti)
 * [Počeo 11. Belgrade SAXperience](http://seecult.org/vest/poceo-11-belgrade-saxperience)
 * [Kanski pobednik otvara 20. Slobodnu zonu](http://seecult.org/vest/kanski-pobednik-otvara-20-slobodnu-zonu)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Milo Rau: Recimo NE smrtonosnoj ideologiji današnjice](http://seecult.org/vest/milo-rau-recimo-ne-smrtonosnoj-ideologiji-danasnjice)
 * [Treća decenija Balkanime](http://seecult.org/vest/treca-decenija-balkanime)
 * [Pozicija žene danas i juče i sutra](http://seecult.org/vest/pozicija-zene-danas-i-juce-i-sutra)
-* [Vladimir R. Petković: Utemeljitelj struke i nauke](http://seecult.org/vest/vladimir-r-petkovic-utemeljitelj-struke-i-nauke)
-* [Jesenja izložba - 5+: Preko granica izvanrednosti](http://seecult.org/vest/jesenja-izlozba-5-preko-granica-izvanrednosti)
 
 * [Konkursi](#tab1_1)
 
