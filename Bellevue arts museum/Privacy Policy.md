@@ -4,11 +4,6 @@
 
 [](https://www.bellevuearts.org/)
 
-* [Visit](https://www.bellevuearts.org/visit)
-* [Tours and Groups](https://www.bellevuearts.org/visit/tours-and-groups)
-* [School Tours](https://www.bellevuearts.org/visit/school-tours)
-* [3D Tours Archive](https://www.bellevuearts.org/visit/3d-tours-archive)
-
 * [Exhibitions](https://www.bellevuearts.org/exhibitions)
 * [Current](https://www.bellevuearts.org/exhibitions/current)
 * [Upcoming](https://www.bellevuearts.org/exhibitions/upcoming)
@@ -48,6 +43,8 @@
 * [Concessions](https://www.bellevuearts.org/artsfair/concessions)
 * [Digital Arts Fair Guide](https://www.bellevuearts.org/artsfair/digital-arts-fair-guide)
 
+* [Visit](https://www.bellevuearts.org/visit)
+
 Go
 
 * [About Us](https://www.bellevuearts.org/about-us)
@@ -58,10 +55,10 @@ Go
 
 [_Bellevue Art Museum_](https://www.bellevuearts.org/)
 
-* [Visit](https://www.bellevuearts.org/visit)
 * [Exhibitions](https://www.bellevuearts.org/exhibitions)
 * [Programs & Events](https://www.bellevuearts.org/programs-events)
 * [Join & Give](https://www.bellevuearts.org/save-bam-join-and-give)
+* [Visit](https://www.bellevuearts.org/visit)
 * [About Us](https://www.bellevuearts.org/about-us)
 * [Private Events](https://www.bellevuearts.org/private-events)
 * [Arts Fair](https://www.bellevuearts.org/artsfair)
@@ -170,51 +167,5 @@ You always may opt-out of receiving future e-mail messages and newsletters. We p
 #### Who do I talk to if I have more questions?
 
 Questions regarding this statement should be emailed to [\[email protected\]](https://www.bellevuearts.org/cdn-cgi/l/email-protection). To return to the Website, please use the "Back" button on your browser. 
-
-### Sign up for the  
-latest from BAM.
-
-* * [Visit](https://www.bellevuearts.org/visit)
-        * [Tours and Groups](https://www.bellevuearts.org/visit/tours-and-groups)
-        * [School Tours](https://www.bellevuearts.org/visit/school-tours)
-        * [3D Tours Archive](https://www.bellevuearts.org/visit/3d-tours-archive)
-    * [Exhibitions](https://www.bellevuearts.org/exhibitions)
-        * [Current](https://www.bellevuearts.org/exhibitions/current)
-        * [Upcoming](https://www.bellevuearts.org/exhibitions/upcoming)
-        * [Past](https://www.bellevuearts.org/exhibitions/past)
-        * [Community Education Gallery](https://www.bellevuearts.org/exhibitions/community-education-gallery)
-    * [Programs & Events](https://www.bellevuearts.org/programs-events)
-        * [Public Programs](https://www.bellevuearts.org/programs-events/public-programs)
-        * [Schools & Educators](https://www.bellevuearts.org/programs-events/schools-educators)
-        * [Kids & Family](https://www.bellevuearts.org/programs-events/kids-family)
-        * [Teens](https://www.bellevuearts.org/programs-events/teens)
-        * [All Events](https://www.bellevuearts.org/programs-events/all)
-    * [Join & Give](https://www.bellevuearts.org/save-bam-join-and-give)
-        * [Donate To BAM](https://www.bellevuearts.org/save-bam-join-and-give/donate-to-bam)
-        * [Memberships](https://www.bellevuearts.org/save-bam-join-and-give/memberships)
-        * [Volunteers & Docents](https://www.bellevuearts.org/save-bam-join-and-give/volunteers-docents)
-        * [Corporate Giving](https://www.bellevuearts.org/save-bam-join-and-give/corporate-giving)
-    * * [About Us](https://www.bellevuearts.org/about-us)
-        * [Private Events](https://www.bellevuearts.org/private-events)
-        * [Arts Fair](https://www.bellevuearts.org/artsfair)
-        * [Summer Camps](https://www.bellevuearts.org/bam-summer-camps)
-* * [MUSEUM HOURS](https://www.bellevuearts.org/visit)  
-        Museum Hours:  
-        Mondays & Tuesdays: Closed  
-        Wednesdays – Sundays: 11am – 5pm
-    
-    * [location](https://www.bellevuearts.org/visit)  
-        510 Bellevue Way NE  
-        Bellevue, WA 98004
-    
-    * [(425) 519-0770](tel:4255190770)
-
-* [Facebook](https://www.facebook.com/bellevueartsmuseum)
-* [Twitter](https://twitter.com/wearebam)
-* [Instagram](https://instagram.com/bellevueartsmuseum)
-* [LinkedIn](https://www.linkedin.com/company/bellevueartsmuseum)
-* [Vimeo](https://www.vimeo.com/user9868196)
-
-[Privacy Policy](https://www.bellevuearts.org/privacy-policy) | [Contact Us](https://www.bellevuearts.org/about-us/contact-us) | [Jobs & Internships](https://www.bellevuearts.org/about-us/our-community/jobs-internships) | © 2020 Bellevue Arts Museum. All Rights Reserved.
 
 x
