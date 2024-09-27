@@ -355,14 +355,17 @@ San Diego, CA 92101
     * [**ESET PROTECT MDR Ultimate**](https://www.eset.com/us/business/mdr-ultimate-protection/)  
         All-in-one protection with premium 24/7 MDR service
     * [**ESET PROTECT Elite**](https://www.eset.com/us/business/elite-protection/)  
-        All-in-one protection with XDR to prevent breaches  
-         
+        All-in-one protection with XDR to prevent breaches
     
     #### Recommended services
     
     * [Managed Detection & Response](https://www.eset.com/us/business/services/managed-detection-and-response/)
     * [Premium Support](https://www.eset.com/us/business/services/premium-support/)
     * [Threat Intelligence](https://www.eset.com/us/business/services/threat-intelligence/)
+    
+    #### Tailored solutions
+    
+    * [Corporate solutions for enterprises and governments](https://www.eset.com/us/business/corporate-solutions/)
     
     [ESET Services](https://www.eset.com/us/business/services/) ESET Services
     
@@ -465,6 +468,7 @@ San Diego, CA 92101
     
     * [Education](https://www.eset.com/us/business/industries/education/)
     * [Finance and banking](https://www.eset.com/us/business/it-security-financial-sector/)
+    * [Manufacturing](https://www.eset.com/us/business/industries/manufacturing/)
     
 * [Download](#)
     
@@ -646,7 +650,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/home/cyber-security/download/)
+[United States (EN)](https://www.eset.com/us/business/download/endpoint-security-windows/)
 
 * * *
 
