@@ -60,21 +60,21 @@ Exchanges: [795](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.29T](https://coinmarketcap.com/charts/#market-cap)
+[$2.3T](https://coinmarketcap.com/charts/#market-cap)
 
-3.82%
+2.51%
 
 24h Vol: 
 
-[$86.27B](https://coinmarketcap.com/charts/#volume-24h)
+[$88.59B](https://coinmarketcap.com/charts/#volume-24h)
 
-32.17%
+36.71%
 
-Dominance: [BTC: 56.3% ETH: 13.9%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 56.2% ETH: 13.9%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-12.98 Gwei
+11.37 Gwei
 
  Fear & Greed: 
 
@@ -405,12 +405,15 @@ To the extent as permitted by applicable law, the Company reserves the right at 
 
 without prior notice to you and at its sole discretion.
 
+English
+
+USD
+
 Products
 
 * [Product Updates](https://coinmarketcap.com/product-updates/all/)
 * [CMC Labs](https://coinmarketcap.com/events/cmc-labs/)
 * [Crypto API](https://coinmarketcap.com/api/)
-* [Crypto Indices](https://coinmarketcap.com/indices/)
 * [Doodles](https://coinmarketcap.com/doodles/)
 * [Sitemap](https://coinmarketcap.com/sitemap/currencies/)
 * [Advertise](https://coinmarketcap.com/events/advertise/)
@@ -429,6 +432,7 @@ Company
 
 Support
 
+* [Get Listed](https://support.coinmarketcap.com/hc/en-us/requests/new?ticket_form_id=360000493112)
 * [Request Form](https://coinmarketcap.com/request/)
 * [Contact Support](https://support-chat.coinmarketcap.com/)
 * [FAQ](https://coinmarketcap.com/faq/)
