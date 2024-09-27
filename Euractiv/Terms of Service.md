@@ -211,8 +211,8 @@ Toggle navigation
     
     ##### Events
     
-    * 24 September - [Media Partnership - Smart siting: Unlocking Europe's Solar and Wind Potential](https://events.euractiv.com/event/info/media-partnership-smart-siting-unlocking-europes-solar-and-wind-potential)
     * 30 October - [The future of the European raw materials industry - How can Europe remain competitive on the global stage?](https://events.euractiv.com/event/info/carbon-and-graphite-navigating-the-challenges-between-energy-and-trade)
+    * 30 October - [Unlocking Industrial Electrification - The EU Electrification Action Plan](https://events.euractiv.com/event/info/unlocking-industrial-electrification-the-eu-electrification-action-plan)
     
     ##### Promoted Content
     
