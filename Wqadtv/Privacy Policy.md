@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
         
-        #### [Manhunt underway in Louisa County, Iowa](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
+        #### [Scott County Board raises concerns about funding of LeClaire YMCA](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f) [![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/11c68c43-c671-4ce7-aada-57776862bd78/11c68c43-c671-4ce7-aada-57776862bd78_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/11c68c43-c671-4ce7-aada-57776862bd78/11c68c43-c671-4ce7-aada-57776862bd78_360x203.jpg)](https://www.wqad.com/article/news/local/when-does-early-voting-start-illinois/526-a8331b37-b18c-4bcb-9ef7-bf807c81d281)
+        #### [Funding for LeClaire YMCA raises concerns from Scott County Board](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b7199306-879c-4e70-97d9-c3ea859f7ae4/20240927T015303/b7199306-879c-4e70-97d9-c3ea859f7ae4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b7199306-879c-4e70-97d9-c3ea859f7ae4/20240927T015303/b7199306-879c-4e70-97d9-c3ea859f7ae4_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-pd-relaunching-explorer-program/526-e21bf684-c43a-4b3d-bc2b-be0fd1abca0d)
         
-        #### [When does early voting start in Illinois?](https://www.wqad.com/article/news/local/when-does-early-voting-start-illinois/526-a8331b37-b18c-4bcb-9ef7-bf807c81d281)
+        #### [Rock Island police relaunching Explorer Program to help increase interest in law enforcement](https://www.wqad.com/article/news/local/rock-island-pd-relaunching-explorer-program/526-e21bf684-c43a-4b3d-bc2b-be0fd1abca0d)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae52d618-02e0-4a84-a04a-b85b9fddd8e4/20240925T150942/ae52d618-02e0-4a84-a04a-b85b9fddd8e4_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5aba277a-1350-4781-b708-17aeb36cb8f8/20240927T033237/5aba277a-1350-4781-b708-17aeb36cb8f8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aba277a-1350-4781-b708-17aeb36cb8f8/20240927T033237/5aba277a-1350-4781-b708-17aeb36cb8f8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Hurricane Helene is a Category 3, the potential historic path to the Midwest](https://www.wqad.com/article/weather/hurricane/hurricane-helenes-path-track-midwest/526-441cf3b5-50bc-4f34-a633-e15e3b6e07da)
+        #### [Remnants of Helene arrives later tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WTSP/images/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a/20240926T145843/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a/20240926T145843/b2aa757d-81fc-43b5-ada5-8a33fc1eb42a_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helene-flooding-tampa-bay-area/67-09c0ffe2-8e50-4f60-b4a5-038ef2a55ab0)
+    *  [![](https://media.tegna-media.com/assets/WTSP/images/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab/20240926T222611/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab/20240926T222611/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene-hurricane-florida-big-bend-quad-city-natives-prepare/526-c96ab4c7-5274-4151-ab24-c49c41471fe0)
         
-        #### [Hurricane Helene brings flooding to the Tampa Bay area](https://www.wqad.com/article/weather/hurricane/hurricane-helene-flooding-tampa-bay-area/67-09c0ffe2-8e50-4f60-b4a5-038ef2a55ab0)
+        #### [Quad City natives living in Florida prepare for Helene's impact](https://www.wqad.com/article/weather/hurricane/helene-hurricane-florida-big-bend-quad-city-natives-prepare/526-c96ab4c7-5274-4151-ab24-c49c41471fe0)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-77°
+61°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
