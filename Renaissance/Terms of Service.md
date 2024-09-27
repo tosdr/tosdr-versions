@@ -203,13 +203,13 @@ Connect with us
 
 Noteworthy
 
-![](https://www.renaissance.com/wp-content/uploads/2024/05/2024-SIIA-CODiE-Winner_square-300x300.png)
+![](https://www.renaissance.com/wp-content/uploads/2024/09/student-drawing-shutterstock_2409566945.jpg)
 
-CODiE Awards 2024 Winner
+Understanding Dyslexia
 
-Renaissance has been honored with four SIIA CODiE Awards, including Best Education Platform.
+Download our popular whitepaper for a deeper understanding of dyslexia—and strategies for supporting students through early screening, instruction, and targeted intervention.
 
-Learn More
+Download now
 
 ![three smiling people](https://www.renaissance.com/wp-content/uploads/2022/07/TaxWarrantyBanner.webp)
 
