@@ -190,10 +190,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Mark Eugene Fowler](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Capt. Chris Brooks](https://cdn.returningveterans.org/images/honor/CPT_Chris_Brooks.jpg)  
 
-**In Honor of Mark Eugene Fowler**  
-Submitted by Lynn Fowler](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Capt. Chris Brooks**  
+United States Air Force  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -238,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/27/24 - 8:39:56  
+Printed 9/27/24 - 2:40:11  
 © 2024 Returning Veterans Project
