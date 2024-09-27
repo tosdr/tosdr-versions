@@ -207,6 +207,27 @@ _tablet\_android_Tablet
 
 1
 
+![](https://play-lh.googleusercontent.com/a-/ALV-UjVB6oZGX3dO31ivrdye8mBqskFOH7bdNiIaY_fd3293iAdx83pphA=s32)
+
+Rafael “El Guapo” Castillo
+
+_more\_vert_
+
+* Flag inappropriate
+* Show review history
+
+September 25, 2024
+
+09/25/2024 uo: I can send and receive images IF and only if I use data instead of Wi-Fi. 01/28/2023 update: This text app is great for filtering out spam, but it can't send or receive images unless they're very small and even then not alway. Very robust, feature filled app. Paid version highly ecommended. I love being able to block messages and avoid spam.
+
+4 people found this review helpful
+
+Did you find this helpful?
+
+Yes
+
+No
+
 ![](https://play-lh.googleusercontent.com/a-/ALV-UjWt5-C_C981j24U-MLJSv6XOj6d1vzLdSI5Hy8VWCDWIkYUdxg4=s32)
 
 Caleb's Mom
@@ -220,7 +241,7 @@ August 29, 2024
 
 5 Month Update -- Get This App!! The small monthly price is worth every penny. It's an election year and the fundraising texts are out of control. This app saves me from 20-40 texts per day and I love it! It is saving my sanity, and there are so many different ways to filter. I almost exclusively use the "Context" filter which looks at specific words in the text message. You can filter by everyone or only unknown contacts which is an excellent feature. This app is exactly what I need.
 
-6 people found this review helpful
+7 people found this review helpful
 
 Did you find this helpful?
 
@@ -248,33 +269,6 @@ Did you find this helpful?
 Yes
 
 No
-
-![](https://play-lh.googleusercontent.com/a-/ALV-UjX3z--B9j2cpEYKfawb7eMUo1s-8iF1I-eYPhkxR_bb0yreHqps1g=s32)
-
-Vincent Sabio
-
-_more\_vert_
-
-* Flag inappropriate
-* Show review history
-
-August 5, 2024
-
-UPDATE: Rating increased from 4 to 5 stars based on reply from developer. I love the ability to filter incoming messages based on text strings in the messages; I am now blocking 100% of political spam texts. Mezo also lets me blacklist phone #s that send spam. there are lots of SMS apps that support blacklisting, but this is the only one I found that allows filtering of incoming messages based on text strings -- and it works like a charm. I would give it 5 stars if it supported RCS messages.
-
-2 people found this review helpful
-
-Did you find this helpful?
-
-Yes
-
-No
-
-Mezo SMS AI - Spam Blocker, Text Blocker
-
-August 5, 2024
-
-Hi. Thanks for your feedback and comment. RCS is not opened up and not available for third party apps :(
 
 See all reviews
 
@@ -313,7 +307,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHBOVGNaYk5jNm8vcmNiUXNmNHRET1E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIpNPg)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGd0WktqWWJzRm16NEdlQTRnSi9jSUE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLJ7vM)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
