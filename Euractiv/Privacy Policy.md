@@ -265,9 +265,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Speech by Chargé d’affaires Zhu Jing at the 2024 National Day Reception](https://www.euractiv.com/section/eu-china/opinion/speech-by-charge-daffaires-zhu-jing-at-the-2024-national-day-reception/)
     * [A Bridge to Peace: Lessons from Mostar for a Fragile World](https://www.euractiv.com/section/global-europe/opinion/a-bridge-to-peace-lessons-from-mostar-for-a-fragile-world/)
     * [Keynote Speech by Minister Peng Gang at the CCCEU 2024 Europe-China Business Summit](https://www.euractiv.com/section/eu-china/opinion/keynote-speech-by-minister-peng-gang-at-the-ccceu-2024-europe-china-business-summit/)
-    * [Resilience, reliance, readjustment: How Ukrainians are coping with the war](https://www.euractiv.com/section/global-europe/opinion/resilience-reliance-readjustment-how-ukrainians-are-coping-with-the-war/)
     
 * [Health](https://www.euractiv.com/sections/health-consumers/)
     
@@ -817,14 +817,14 @@ If you have any questions about this Privacy Policy, please contact us:
 
 * 1[The UK wants Europe’s carbon](http://en.euractiv.eu/section/energy-environment/news/the-uk-wants-europes-carbon/?utm_source=website&utm_campaign=popular)
 * 2[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
-* 3[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
-* 4[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
+* 3[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
+* 4[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
 * 5[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
 * 6[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
 * 7[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
 * 8[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
 * 9[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
-* 10[EU must step up support for organic market, EU auditors say](http://en.euractiv.eu/section/agriculture-food/news/eu-must-step-up-support-for-organic-market-eu-auditors-say/?utm_source=website&utm_campaign=popular)
+* 10[Incoming environment commissioner likely to face tough MEP questions on chemical rules revision](http://en.euractiv.eu/section/energy-environment/news/incoming-environment-commissioner-likely-to-face-tough-mep-questions-on-chemical-rules-revision/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
