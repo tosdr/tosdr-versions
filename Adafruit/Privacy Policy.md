@@ -93,10 +93,6 @@ Search
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
-    ![Angled shot of thin, green rectangular microcontroller with castellated pads.](https://cdn-shop.adafruit.com/230x173/6006-02.jpg)[Raspberry Pi Pico 2 - RP2350
-    
-    $5.00](https://www.adafruit.com/product/6006)
-    
     ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/230x173/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
     
     $14.95](https://www.adafruit.com/product/5933)
@@ -108,6 +104,10 @@ Search
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
     $7.50](https://www.adafruit.com/product/5906)
+    
+    ![Angled shot of black, rectangular microcontroller.](https://cdn-shop.adafruit.com/230x173/5890-05.jpg)[Adafruit ItsyBitsy ESP32 - wFL Antenna - 8 MB Flash / 2 MB PSRAM
+    
+    $14.95](https://www.adafruit.com/product/5890)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Meaning can easily be confused with structure. Structure is a good approximation, but not the same”
+“ The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time”
 
-[Claudia Perlich](http://people.stern.nyu.edu/cperlich/)
+[Tom Cargill](http://en.wikipedia.org/wiki/Ninety-ninety_rule)
 
 [](https://www.adafruit.com/about)
 
