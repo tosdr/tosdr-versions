@@ -179,6 +179,14 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/malaysian-ringgit-strength-2024/)
+    
+    [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
+    
+    9 hours ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
     
     [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
@@ -200,14 +208,6 @@ Quick Guides
     [These 3 companies own the U.S. soft drink market](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
     
     February 3, 2023
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    August 19, 2024
     
 
 * [![Photo of Steve Davies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
