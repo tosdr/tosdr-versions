@@ -54,7 +54,19 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
     
-* *  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+* *  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+        
+        [Wellness](https://www.women.com/category/wellness/)
+        
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+        
+        ### [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+        
+        Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+        
+    *  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
         
-    *  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-        
-        ### [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
-        
-        When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
-        
 
 More Stories
 ------------
 
+*  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+    
+    When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
+    
 *  [![Amal Clooney](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/intro-1727292734.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -393,18 +405,6 @@ More Stories
     One might think that we as a society have evolved past all the problematic dating trends. But we haven't. Enter: submarining.
     
     By Amanda Chatel [Read More](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
-    
-*  [![kamala harris](https://www.women.com/img/gallery/the-bold-messaging-behind-kamala-harris-most-talked-about-outfits-revealed/intro-1726156394.jpg)](https://www.women.com/1663437/chic-kamala-harris-presidential-looks/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [The Bold Messaging Behind Kamala Harris' Most-Talked About Outfits Revealed](https://www.women.com/1663437/chic-kamala-harris-presidential-looks/)
-    
-    Throughout her 2024 presidential campaign, Kamala Harris has been seen wearing pantsuits of many different colors. Here's what they could mean.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1663437/chic-kamala-harris-presidential-looks/)
     
 
 Back
