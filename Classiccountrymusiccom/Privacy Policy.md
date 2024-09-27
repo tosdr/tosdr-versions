@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [The 2024 People’s Choice Country Awards...](https://classiccountrymusic.com/the-2024-peoples-choice-country-awards-did-not-pay-tribute-to-late-country-icon-toby-keith/)
 * [Lisa Marie Presley’s Posthumous Memoir Describes...](https://classiccountrymusic.com/lisa-marie-presleys-posthumous-memoir-describes-a-parent-teacher-conference-with-her-dad-elvis/)
 * [Eric Church Moves Alan Jackson To...](https://classiccountrymusic.com/eric-church-moves-alan-jackson-to-tears-with-chasin-that-neon-rainbow-cover-during-acm-honors/)
-* [Johnny Cash’s Family Reacts As Statue...](https://classiccountrymusic.com/johnny-cashs-family-reacts-as-statue-in-his-honor-is-unveiled-at-u-s-capitol/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
