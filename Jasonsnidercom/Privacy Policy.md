@@ -1,6 +1,6 @@
- [Jason Snider](https://jasonsnider.com/)Menu
+ [Jason Snider](https://jasonsnider.com/) Menu
 
-* [About Me](#About)
+* [About Me](https://jasonsnider.com/#About)
 * [Blog](https://jasonsnider.com/articles)
 * [Games](https://jasonsnider.com/games)
 * [Tools](https://jasonsnider.com/tools)
@@ -9,7 +9,7 @@
 Privacy Policy
 ==============
 
-Your privacy is important to us. It is Jason Snider's policy to respect your privacy regarding any information we may collect from you across our website, [http://jasonsnider.com](http://jasonsnider.com/), and other sites we own and operate.
+Your privacy is important to us. It is Jason Snider’s policy to respect your privacy regarding any information we may collect from you across our website, [http://jasonsnider.com](http://jasonsnider.com/), and other sites we own and operate.
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
@@ -31,12 +31,6 @@ In general, third-party services should only collect, use, and disclose your inf
 I use Formspree on my concat page ([Formspree privacy policy](https://formspree.io/static/PrivacyPolicy.pdf)).
 
 This policy is subject to change without notice, this policy and all changes are to be considered effective as of the modified date below.
-
-_Posted: 2018-10-19 01:34:11_
-
-_Modified: 2018-10-22 01:27:36_
-
-[_LinkedIn_](https://www.linkedin.com/in/jdsnider)[_GitHub_](https://github.com/jasonsnider)[_Twitter_](https://twitter.com/jason_snider)
 
 Built withloveby Jason in Chicago
 
