@@ -457,7 +457,9 @@ FR
         
         Recommended Stores
         
-        [Hotels.com
+        [Vrbo
+        
+        $10 Cash Back](https://www.rakuten.ca/vrbo)[Hotels.com
         
         1% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
         
@@ -465,9 +467,7 @@ FR
         
         up to 3% Cash Back](https://www.rakuten.ca/flight-centre)[Holiday Inn
         
-        2% Cash Back](https://www.rakuten.ca/holiday-inn)[IHG Hotels & Resorts
-        
-        4% Cash Back](https://www.rakuten.ca/ihg-hotels-and-resorts)
+        2% Cash Back](https://www.rakuten.ca/holiday-inn)
         
         Featured Shops & Deals
         
