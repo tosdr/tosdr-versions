@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
+    *  [![](https://media.king5.com/assets/KING/images/d4ede9f6-e963-4b69-92a7-5527741664c8/20240927T182934/d4ede9f6-e963-4b69-92a7-5527741664c8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d4ede9f6-e963-4b69-92a7-5527741664c8/20240927T182934/d4ede9f6-e963-4b69-92a7-5527741664c8_360x203.jpg)](https://www.king5.com/article/news/local/snl-premieres-jean-smart-first-time-host-seattle/281-1a9342fc-444b-4aff-b628-911059e1a61e)
         
-        #### [WSDOT said this is the biggest weekend for road closures. Here's what roads will be closed](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
+        #### [She's a 6-time Emmy award winner from Seattle, and she's hosting SNL for the first time](https://www.king5.com/article/news/local/snl-premieres-jean-smart-first-time-host-seattle/281-1a9342fc-444b-4aff-b628-911059e1a61e)
         
-    *  [![](https://media.king5.com/assets/KING/images/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2/20240927T130905/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2/20240927T130905/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2_360x203.jpg)](https://www.king5.com/article/news/local/seattle/car-crashes-into-seattle-martial-arts-school/281-56e085bc-e31e-4aa6-ae29-e2587c7c28eb)
+    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/local/91-year-old-woman-killed-attacked-dogs/281-51998254-8a7e-480e-90f1-91cbd886555f)
         
-        #### [Car crashes into martial arts school in Seattle's Interbay neighborhood](https://www.king5.com/article/news/local/seattle/car-crashes-into-seattle-martial-arts-school/281-56e085bc-e31e-4aa6-ae29-e2587c7c28eb)
+        #### [91-year-old woman killed after being attacked by her own dogs in Chehalis](https://www.king5.com/article/news/local/91-year-old-woman-killed-attacked-dogs/281-51998254-8a7e-480e-90f1-91cbd886555f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/885419fa-6234-4429-8c12-b631b23f8f53/20240927T120002/885419fa-6234-4429-8c12-b631b23f8f53_16x9.jpg) ![](https://media.king5.com/assets/KING/images/885419fa-6234-4429-8c12-b631b23f8f53/20240927T120002/885419fa-6234-4429-8c12-b631b23f8f53_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/e6f22751-575c-4633-a0bd-1f5710e31797/20240927T201848/e6f22751-575c-4633-a0bd-1f5710e31797_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e6f22751-575c-4633-a0bd-1f5710e31797/20240927T201848/e6f22751-575c-4633-a0bd-1f5710e31797_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-59°
+64°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
