@@ -751,7 +751,7 @@ Mobile Footer Menu
 Legal Menu
 ----------
 
-* [Privacy Statement](https://www.labcorp.com/hipaa-privacy/hipaa-notice-privacy-practices)
+* [Privacy Statement](https://www.labcorp.com/hipaa-privacy)
 * [Terms and Conditions](https://www.labcorp.com/terms-and-conditions)
 * [Notice of Nondiscrimination](https://www.labcorp.com/labcorp-nondiscrimination-notice)
 * [Combatting Modern Slavery and Human Trafficking Statement](https://www.labcorp.com/combatting-modern-slavery)
