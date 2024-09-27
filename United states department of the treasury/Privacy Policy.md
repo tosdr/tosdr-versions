@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    September 27, 2024
+    
+    [Treasury Sanctions Iranian Regime Agents Attempting to Interfere in U.S. Elections](https://home.treasury.gov/news/press-releases/jy2621)
+    
     September 26, 2024
     
     [Treasury Takes Coordinated Actions Against Illicit Russian Virtual Currency Exchanges and Cybercrime Facilitator](https://home.treasury.gov/news/press-releases/jy2616)
@@ -562,10 +566,6 @@ MENU MENU
     September 25, 2024
     
     [Treasury Sanctions Former Haitian Politician and Gang Leader for Their Connections to Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2612)
-    
-    September 25, 2024
-    
-    [Treasury Sanctions Networks Enabling Illicit Trade that Benefits IRGC-QF and Hizballah](https://home.treasury.gov/news/press-releases/jy2613)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
