@@ -5,7 +5,7 @@
 * [Weather](https://www.fox4news.com/weather)
 * [Sports](https://www.fox4news.com/sports)
 * [Good Day](https://www.fox4news.com/shows/good-day)
-* [Traffic](https://www.fox4news.com/traffic)
+* [State Fair of Texas](https://www.fox4news.com/shows/state-fair-of-texas)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
