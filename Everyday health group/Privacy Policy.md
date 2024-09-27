@@ -64,9 +64,9 @@ Drinking Alcohol Increases the Risk of 6 Types of Cancer](https://www.everydayhe
 
 Nearly 1 in 3 Americans May Have Undetected Iron Deficiency](https://www.everydayhealth.com/blood-disorders/one-in-three-americans-may-have-undetected-iron-deficiency/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/you-can-soon-self-administer-flu-vaccine-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/fda-approves-cobenfy-for-schizophrenia-1440x810.jpg)
 
-First-Ever Flu Vaccine for Home Use Gets FDA Approval](https://www.everydayhealth.com/lung-respiratory/flu-vaccine-for-home-use-gets-fda-approval/)
+FDA Approves the First New Type of Schizophrenia Drug in Decades](https://www.everydayhealth.com/mental-health-conditions/fda-approves-new-type-of-schizophrenia-drug/)
 
 ![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
