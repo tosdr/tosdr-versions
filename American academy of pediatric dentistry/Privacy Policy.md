@@ -20,13 +20,13 @@
     
     * ###### Latest News
         
-        [Safety in Pediatric Dental Care: Curriculum for Pediatric Dentistry Residency Programs](https://www.aapd.org/about/about-aapd/news-room/latest-news/residency-safety-curriculum/)
+        [2024 CEO's Report to Membership](https://www.aapd.org/about/about-aapd/news-room/latest-news/2024-ceo-report/)
     * ###### News Room
         
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638630202086297790)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638630418965263781)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
