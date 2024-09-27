@@ -325,8 +325,8 @@ This Privacy Policy is effective as of March 1, 2024.
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20821%20304'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20708%20354'%3E%3C/svg%3E)
 
-![](https://freespeech.org/wp-content/uploads/2023/06/Match-Day-1-1024x379.png)](https://freespeech.org/donate-all/?utm_source=popup)
+![](https://freespeech.org/wp-content/uploads/2023/06/Match-Day-4.png)](https://freespeech.org/donate-all/?utm_source=popup)
 
 ×
