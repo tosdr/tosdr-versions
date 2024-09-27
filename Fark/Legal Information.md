@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+$10 a month since 19 aught diddly.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Lots of things can negatively impact your mental health. Things like a death in the family, the loss of a job, or 110 degree weather in the last week of September](https://www.fark.com/goto/13408216) ( [azfamily.com](https://www.fark.com/goto/13408216) ) » [(2 comments)](https://www.fark.com/comments/13408216/Lots-of-things-can-negatively-impact-your-mental-health-Things-like-a-death-in-family-loss-of-a-job-110-degree-weather-in-last-week-of-September) |
-| [Discussion](https://www.fark.com/discussion/) | ["Well, I called out my wife's sister's name in bed and boy am I not hearing the end of it" (possible nsfw content on page)](https://www.fark.com/goto/13407736) ( [thesun.co.uk](https://www.fark.com/goto/13407736) ) » [(17 comments)](https://www.fark.com/comments/13407736/Well-I-called-out-my-wifes-sisters-name-in-bed-boy-am-I-not-hearing-end-of-it-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [The Chicago White Sox don't want to go on the cart](https://www.fark.com/goto/13407924) ( [espn.com](https://www.fark.com/goto/13407924) ) » [(2 comments)](https://www.fark.com/comments/13407924/The-Chicago-White-Sox-dont-want-to-go-on-cart) |
-| [Business](https://www.fark.com/business/) | [Truth Social stock gets clobbered by a UAV as it dumps 7.5 million shares](https://www.fark.com/goto/13407978) ( [finance.yahoo.com](https://www.fark.com/goto/13407978) ) » [(11 comments)](https://www.fark.com/comments/13407978/Truth-Social-stock-gets-clobbered-by-a-UAV-as-it-dumps-75-million-shares) |
-| [STEM](https://www.fark.com/stem/) | [It repels tigers?](https://www.fark.com/goto/13408130) ( [space.com](https://www.fark.com/goto/13408130) ) » [(4 comments)](https://www.fark.com/comments/13408130/It-repels-tigers) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Dave Grohl pulls out at last minute. Better late than never](https://www.fark.com/goto/13407770) ( [consequence.net](https://www.fark.com/goto/13407770) ) » [(4 comments)](https://www.fark.com/comments/13407770/Dave-Grohl-pulls-out-at-last-minute-Better-late-than-never) |
-| [Fandom](https://www.fark.com/fandom/) | [Because you can't get one new overnight, or next week without a markup, Toyota ditches the Prime suffix for plugin hybrid Prius and RAV4](https://www.fark.com/goto/13408094) ( [caranddriver.com](https://www.fark.com/goto/13408094) ) » [(0 comments)](https://www.fark.com/comments/13408094/Because-you-cant-get-one-new-overnight-next-week-without-a-markup-Toyota-ditches-Prime-suffix-for-plugin-hybrid-Prius-RAV4) |
-| [D'awww](https://www.fark.com/dawww/) | ["Cats can't swim"](https://www.fark.com/goto/13407912) ( [imgur.com](https://www.fark.com/goto/13407912) ) » [(10 comments)](https://www.fark.com/comments/13407912/Cats-cant-swim) |
-| [Food](https://www.fark.com/food/) | [A roundup of all the extra fees and services supermarkets use that jack up the prices you pay](https://www.fark.com/goto/13407752) ( [salon.com](https://www.fark.com/goto/13407752) ) » [(1 comment)](https://www.fark.com/comments/13407752/A-roundup-of-all-extra-fees-services-supermarkets-use-that-jack-up-prices-you-pay) |
-| [Politics](https://www.fark.com/politics/) | [Remember the Marshmallow Test on instant gratification? That's Trump's campaign right now](https://www.fark.com/goto/13407638) ( [msnbc.com](https://www.fark.com/goto/13407638) ) » [(11 comments)](https://www.fark.com/comments/13407638/Remember-Marshmallow-Test-on-instant-gratification-Thats-Trumps-campaign-right-now) |
+| [Main](https://www.fark.com/) | [Hezbollah terror tunnels & 'missile city' await Israel troops preparing for southern Lebanon all-out war invasion. Have your popcorn ready](https://www.fark.com/goto/13408470) ( [thesun.ie](https://www.fark.com/goto/13408470) ) » [(5 comments)](https://www.fark.com/comments/13408470/Hezbollah-terror-tunnels-missile-city-await-Israel-troops-preparing-for-southern-Lebanon-all-out-war-invasion-Have-your-popcorn-ready) |
+| [Discussion](https://www.fark.com/discussion/) | [More fun than finding all of the Riddler trophies in a Batman game it's the Friday Fark Gaming Thread. LGT a list of the best strategy games. What have you been playing this week? CK III? Metroid? Side note: Toughest achievement/trophy you ever got?](https://www.fark.com/goto/13407350) ( [culturedvultures.com](https://www.fark.com/goto/13407350) ) » [(41 comments)](https://www.fark.com/comments/13407350/More-fun-than-finding-all-of-Riddler-trophies-in-a-Batman-game-its-Friday-Fark-Gaming-Thread-LGT-a-list-of-best-strategy-games-What-have-you-been-playing-this-week-CK-III-Metroid-Side-note-Toughest-achievementtrophy-you-ever-got) |
+| [Sports](https://www.fark.com/sports/) | [About that auction of Ohtani's 50/50 ball](https://www.fark.com/goto/13408210) ( [japantoday.com](https://www.fark.com/goto/13408210) ) » [(8 comments)](https://www.fark.com/comments/13408210/About-that-auction-of-Ohtanis-5050-ball) |
+| [Business](https://www.fark.com/business/) | [Gen Z failing in the workforce. Unclear how much of the problem is excessive cellphone use and how much is the soulless corporate overlords hiring them](https://www.fark.com/goto/13408418) ( [fortune.com](https://www.fark.com/goto/13408418) ) » [(4 comments)](https://www.fark.com/comments/13408418/Gen-Z-failing-in-workforce-Unclear-how-much-of-problem-is-excessive-cellphone-use-how-much-is-soulless-corporate-overlords-hiring-them) |
+| [STEM](https://www.fark.com/stem/) | [James Webb space telescope finds "weird" galaxy](https://www.fark.com/goto/13408504) ( [mashable.com](https://www.fark.com/goto/13408504) ) » [(3 comments)](https://www.fark.com/comments/13408504/James-Webb-space-telescope-finds-weird-galaxy) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Francis Ford Coppola on Megalopolis: Sure, it's a gigantic, expensive, stinky turd, but after multiple viewings, you'll get used to the smell](https://www.fark.com/goto/13408328) ( [deadline.com](https://www.fark.com/goto/13408328) ) » [(11 comments)](https://www.fark.com/comments/13408328/Francis-Ford-Coppola-on-Megalopolis-Sure-its-a-gigantic-expensive-stinky-turd-but-after-multiple-viewings-youll-get-used-to-smell) |
+| [Fandom](https://www.fark.com/fandom/) | [More fun than finding all of the Riddler trophies in a Batman game it's the Friday Fark Gaming Thread. LGT a list of the best strategy games. What have you been playing this week? CK III? Metroid? Side note: Toughest achievement/trophy you ever got?](https://www.fark.com/goto/13407350) ( [culturedvultures.com](https://www.fark.com/goto/13407350) ) » [(41 comments)](https://www.fark.com/comments/13407350/More-fun-than-finding-all-of-Riddler-trophies-in-a-Batman-game-its-Friday-Fark-Gaming-Thread-LGT-a-list-of-best-strategy-games-What-have-you-been-playing-this-week-CK-III-Metroid-Side-note-Toughest-achievementtrophy-you-ever-got) |
+| [D'awww](https://www.fark.com/dawww/) | [Hey mom, let's race](https://www.fark.com/goto/13408138) ( [apnews.com](https://www.fark.com/goto/13408138) ) » [(0 comments)](https://www.fark.com/comments/13408138/Hey-mom-lets-race) |
+| [Food](https://www.fark.com/food/) | [Come for the Spam fries, stay for the Cap'n Crunch chicken sandwich](https://www.fark.com/goto/13408240) ( [phoenixnewtimes.com](https://www.fark.com/goto/13408240) ) » [(8 comments)](https://www.fark.com/comments/13408240/Come-for-Spam-fries-stay-for-Capn-Crunch-chicken-sandwich) |
+| [Politics](https://www.fark.com/politics/) | [Bibi's thirst for blood hasn't been quenched yet](https://www.fark.com/goto/13408316) ( [theguardian.com](https://www.fark.com/goto/13408316) ) » [(17 comments)](https://www.fark.com/comments/13408316/Bibis-thirst-for-blood-hasnt-been-quenched-yet) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 27 2024 03:43:46  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 27 2024 09:43:48  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
