@@ -82,7 +82,7 @@ Back[![](/img/containers/assets/image_123650291.jpg/c59623a4faeae782db5ae7fe6e25
 
 Engaging in Dialogue on Israel, Palestine and building bridges
 
-27 Sep 2024 Cafè Belcampo, Amsterdam (NL); Youtube (livestream)](https://volteuropa.org/events/engaging-in-dialogue-on-the-israel-palestine-conflict)
+27 Sep 2024 Cafè Belcampo, Amsterdam (NL); Youtube (livestream);](https://volteuropa.org/events/engaging-in-dialogue-on-the-israel-palestine-conflict)
 
 [All events](https://volteuropa.org/events)
 
