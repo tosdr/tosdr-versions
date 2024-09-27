@@ -171,31 +171,37 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Science Update
+More Technical Papers
 
-[![](/i/Main%20Stage%20-%201400x1050/katydidfossil_1400x1050.jpg)](https://www.icr.org/article/katydid-fossil)
+[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/two-date-range-options-for-noahs-flood)
 
-[''Ancient'' Katydid Fossil is...a Katydid](https://www.icr.org/article/katydid-fossil/)
+[Two date range options for Noah’s Flood](https://www.icr.org/article/two-date-range-options-for-noahs-flood/)
 
-A fascinating discovery of a fossil insect has recently been made by evolutionists in Colorado. The description once again points clearly to the effects...
+FEBRUARY 01, 2017
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+In Journal of Creation 31 (1): 120-127 Conservative authors have long argued that Genesis chapters 5 and 11 chronogenealogies contain gaps, and...
 
-[![](/i/Main%20Stage%20-%201400x1050/CambrianSoftTiss_1400x1050.jpg)](https://www.icr.org/article/cambrian-soft-tissue)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[Cambrian Soft Tissue Defies Evolution](https://www.icr.org/article/cambrian-soft-tissue/)
+[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/fissiontracks)
 
-Paleontologists have discovered “early fossils \[of\] simple hollow tubes ranging from a few millimetres to many centimetres in length.”1...
+[Fission Tracks in Crystalline Solids](https://www.icr.org/article/fissiontracks/)
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+FEBRUARY 07, 2020
 
-[![](/i/Main%20Stage%20-%201400x1050/dolphin-jump-1400x1050)](https://www.icr.org/article/prehistoric-dolphin-species)
+Highlights • Nuclear fission—atom splitting—is used to date ancient rocks. •...
 
-[New Fossil Dolphin Species Discovered](https://www.icr.org/article/prehistoric-dolphin-species/)
+BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
 
-Who doesn’t like to watch the antics of the friendly dolphin? They are classified as Cetaceans (which also includes the porpoise and the whale)....
+[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/do-varves-tree-rings-radiocarbon-measurements)
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+[Do Varves, Tree-Rings, and Radiocarbon Measurements Pro.,.](https://www.icr.org/article/do-varves-tree-rings-radiocarbon-measurements/)
+
+DECEMBER 07, 2016
+
+by Jake Hebert, Ph.D., Andrew A Snelling, Ph.D., and Timothy L. Clarey, Ph.D. In Answers Research Journal 9 (2016): 339-361 The BioLogos Foundation...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
