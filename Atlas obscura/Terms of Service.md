@@ -14,17 +14,110 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Oaxaca Mexico tamales](https://img.atlasobscura.com/BaDERNykwdpWGsX04_iG0FTckM-RiYp8I4MeL2Z-xW0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNzM2/MmEwZC04NTcyLTRk/NzEtOTA0YS1jZDVl/YjgyYmI5YWY1MDE5/MjZkZDQ5ZTVhOGVi/ZDBfT2F4YWNhIE1l/eGljbyB0YW1hbGVz/IC0gQWRvYmVTdG9j/a180Nzk1MzAwODgu/anBlZw.jpg)](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
+
+Mexico • 7 days, 6 nights
+
+[Flavors of Oaxaca: Markets, Mezcal & Home-Cooked Meals](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
+
+from
+
+   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+New Zealand • 12 days, 11 nights
+
+[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
-Loading...
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/-BHb2cg8f71hNJMoFtoio8UWnFrrWIAo4TK6498kLU0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80ZTJh/ZTZjNS1iYzgzLTQx/N2YtOWRiNC1mOGNm/NmNjYWE4YmEwY2E3/YzQ5Yzk2MDUxYzlj/YWZfSU1HXzI0NzQu/anBn.jpg)
+
+Stories in the Stones: How to Read a Gravestone With Dr. Elise M. Ciregna](https://www.atlasobscura.com/experiences/gravestone-reading-online-course)
+
+   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
+
+Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
+
+   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
+
+In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
+
+   [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
+
+How The Living See The Dead: Comparative Thanatology With Dânia Rodrigues](https://www.atlasobscura.com/experiences/thanatology-course)
+
+   [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
+
+How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
 
 Loading...
 
-Loading...
+Latest Places to Eat & Drink
 
-Loading...
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![A sign welcomes diners to the restaurant.](https://img.atlasobscura.com/GJHRPT_vX3OVP8tGAR-vApRqruwzg574km-YrRKOHJU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81OWRi/ZDdlNC1mMmE1LTQ5/OGQtOWNmOC03ODg0/NWY2OGUyYTNjNTM1/YzQ4ZjlmYmEwY2Iy/NDRfaW1hZ2UgKDEw/KS5qcGc.jpg)
+
+Guluf Airline Restaurant & Hotel](https://www.atlasobscura.com/places/guluf-airline-restaurant-hotel)
+
+   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
+
+Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
+
+   [![Roast goose, it's what Kam's does.](https://img.atlasobscura.com/rJBeF7wi5O88rTJD-BnDP2Ce6065kg-CIU6W6rYuTZ0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yMjkw/Y2M5My02ZjY5LTQ2/ZGEtOTA2OC0xNzA0/Yzc2ZmFjOWM2Y2Yx/MmNiMWY5MjBmZjdh/ZGRfa2FtICgzKS5q/cGc.jpg)
+
+Kam's Roast Goose](https://www.atlasobscura.com/places/kams-roast-goose)
+
+   [![Everything about Ely’s famous pharmacy is a throwback, from the 1950s interiors to the old-timey soda fountain. ](https://img.atlasobscura.com/2CSM-H4j-lREPVQqiGoUNmp3DpKxJvSw2Z-uEdTRgsY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOTJl/OTc5MGRmMTExNmFi/YmZfRWx5U29kYUZv/dW50YWluMl9TTS5q/cGc.jpg)
+
+Economy Drug & Old Fashioned Soda Fountain](https://www.atlasobscura.com/places/economy-drug-old-fashioned-soda-fountain)
+
+   [![The Silver Cafe is a mom-and-pop diner that has been family operated for generations. ](https://img.atlasobscura.com/Le-mR9u5GNWOSGYAUlxewjk1b19k-L_L2vtgIBNgxzg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84NjM3/NDU1MWY2ZTMxOGQx/MzBfU2lsdmVyQ2Fm/ZTUuanBn.jpg)
+
+Historic Silver Café](https://www.atlasobscura.com/places/historic-silver-cafe)
+
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![The smell of baking pretzels at an Auntie Anne's is an inescapable part of their branding.](https://img.atlasobscura.com/R1daOWUWsOQH_l-OVNaw9_Z4CBwiybaA7d1Em36wT2g/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wZDA2ZjQzZC02/ZjRhLTQ3NGQtYTU0/Mi01NjRkOWU4ODNk/YWU2NDY1ZDA0OWY3/MDVhNDUwMzRfV1BH/OEpYLmpwZw.jpg)
+
+How Chain Restaurants Use Smells to Entice Us](https://www.atlasobscura.com/articles/how-chain-restaurants-use-smells-to-entice-us)
+
+   [![](https://img.atlasobscura.com/Vh4wmYU-Craaxm7WllMuvfSBD8HpnNyMV7zLd2UdVdk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kMTc3MjVlYmJm/MDRiNjE1ODBfSUdf/UGVubnNpYyBDb2xv/cl8wMF8wM18yMV8x/Ny5qcGc.jpg)
+
+Podcast: Small Town, Big Story: The Pennsic Wars of Slippery Rock, PA](https://www.atlasobscura.com/articles/podcast-small-town-big-story-the-pennsic-wars-of-slippery-rock-pa)
+
+   [![Don't believe the hype about object 2024 PT5 being a "mini-moon." We have only one moon, seen here during the Artemis I mission in 2022. ](https://img.atlasobscura.com/qCxXXkijnJYzGpDD7cvHeW2NWMAhZLStPcCFUjdcVh0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kMTMwZjRjOTc4/Y2Y1NDZlNzRfQXJ0/ZW1pc18yMDIyX01v/b24uanBn.jpg)
+
+Our 'Mini-Moon' 2024 PT5 Is Mini—But It's Not a Moon](https://www.atlasobscura.com/articles/mini-moon-2024-pt5)
+
+   [![The mummies of Tarim Basin are up to 3,600 years old.](https://img.atlasobscura.com/jc7mRH5QYIp3ULll4nGEl1FR8OKP3zXFprAIbcKmJ5M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iNWUzNTQ1OC0x/NDE5LTQzMjgtYjVh/ZC0xYjhiYTlmY2Vh/Y2IzMTRmMjcyOThj/YWQ3OGJkODVfVGFy/aW0gbXVtbWllcyBm/cm9tIHRoZSBwcmVz/ZW50LWRheSBYaW5q/aWFuZyByZWdpb24g/b2YgTm9ydGh3ZXN0/ZXJuIENoaW5hIENS/RURJVCBXZW55aW5n/IExpLmpwZw.jpg)
+
+This Mummy Cheese Is Full of Ancient Secrets](https://www.atlasobscura.com/articles/mummy-cheese-discovery)
 
 No search results found for  
 “”
