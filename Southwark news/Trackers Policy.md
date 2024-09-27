@@ -209,12 +209,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
-[![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
-### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
-[19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
-
 [![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
 
 ### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
@@ -226,6 +220,12 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 [24th September 2024](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+
+[![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+### [Social housing on regenerated Ayslesbury Estate ‘more expensive’ than normal council housing, report claims](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
+
+[19th September 2024](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
 ### Featured Articles
 
