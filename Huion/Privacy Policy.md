@@ -70,7 +70,7 @@
     
     Huion Ink
     
-    [](https://www.huion.com/products/Smart_NoteBook/Huion-Ink/huion-lnk-eb1010.html)[Huion Ink](https://www.huion.com/products/Smart_NoteBook/Huion-Ink/huion-lnk-eb1010.html)
+    [](https://www.huion.com/products/Smart_NoteBook/Huion-Ink/huion-ink.html)[Huion Ink](https://www.huion.com/products/Smart_NoteBook/Huion-Ink/huion-ink.html)
     
     Accessories
     
