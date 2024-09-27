@@ -387,7 +387,7 @@ Updated: April 26, 2021.
 
 Atlanta, GA
 
-71° Arthritis Index At Extreme Risk
+67° Arthritis Index At Extreme Risk
 
 [See More Details](https://www.arthritis.org/weather)
 
