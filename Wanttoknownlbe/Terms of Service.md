@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/hypocrates-of-hypocrisie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/wat-is-nu-precies-de-vernieuwing/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
