@@ -611,7 +611,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
         1. _Defined Terms_
             
-            1. Applicable Yahoo Entity: Yahoo EMEA Limited (Address: 5-7 Point Square, North Wall Quay, Dublin 1, Ireland)
+            1. Applicable Yahoo Entity: Yahoo EMEA Limited (Address: ####Dublin-v2address####)
                 
             2. Minimum Age: For EU Member States, the Minimum Age is 16 or the lower age that a Member State has provided for you to consent to the processing of your personal data. For countries outside the EU the Minimum Age is 13.
                 
