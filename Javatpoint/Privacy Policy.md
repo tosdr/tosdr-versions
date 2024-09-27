@@ -8,7 +8,7 @@
 
 [Python](https://www.javatpoint.com/python-tutorial) [Django](https://www.javatpoint.com/django-tutorial) [Numpy](https://www.javatpoint.com/numpy-tutorial) [Pandas](https://www.javatpoint.com/python-pandas) [Tkinter](https://www.javatpoint.com/python-tkinter) [Pytorch](https://www.javatpoint.com/pytorch) [Flask](https://www.javatpoint.com/flask-tutorial) [OpenCV](https://www.javatpoint.com/opencv)
 
-### AI , ML and Data Science
+### AI,ML and Data Science
 
 [Artificial Intelligence](https://www.javatpoint.com/artificial-intelligence-ai) [Machine Learning](https://www.javatpoint.com/machine-learning) [Data Science](https://www.javatpoint.com/data-science) [Deep Learning](https://www.javatpoint.com/deep-learning) [TensorFlow](https://www.javatpoint.com/tensorflow) [Artificial Neural Network](https://www.javatpoint.com/artificial-neural-network) [Matplotlib](https://www.javatpoint.com/matplotlib) [Python Scipy](https://www.javatpoint.com/python-scipy)
 
@@ -235,6 +235,12 @@ G-13, 2nd Floor, Sec-3, Noida, UP, 201301, India
 ##### Follow us
 
 [![Facebook](/static/img/facebook.png)](https://www.facebook.com/javatpoint)[![Twitter](/static/img/twitter.png)](https://twitter.com/pagejavatpoint)![Rss](/static/img/rss.png)[![Blogspot](/static/img/jp.png)](https://javatpoint.blogspot.com/)[![Youtube](/static/img/youtube.png)](https://www.youtube.com/channel/UCUnYvQVCrJoFWZhKK3O2xLg)
+
+  
+
+[Latest Post](https://www.javatpoint.com/latest-post)
+
+[PRIVACY POLICY](https://www.javatpoint.com/privacy-policy)
 
 ##### Tutorials
 
