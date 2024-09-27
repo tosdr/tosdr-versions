@@ -400,37 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Hurricane Helene makes landfall in Florida's Big Bend region near Perry as powerful Cat 4 storm](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/3693144f-snapshot-11.jpg?ve=1&tl=1)
+ [![Maggie Smith, star of 'Downton Abbey,' Harry Potter, dies at 89](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-492474010.jpg?ve=1&tl=1)
 
- ![Hurricane Helene makes landfall in Florida's Big Bend region near Perry as powerful Cat 4 storm](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/3693144f-snapshot-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-makes-landfall-along-floridas-nature-coast-powerful-cat-4-storm)
+ ![Maggie Smith, star of 'Downton Abbey,' Harry Potter, dies at 89](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-492474010.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/maggie-smith-dies-downton-abbey-harry-potter-89)
 
-Live Now
+### [Maggie Smith, star of 'Downton Abbey,' Harry Potter, dies at 89](https://www.fox4news.com/news/maggie-smith-dies-downton-abbey-harry-potter-89)
 
-### [Hurricane Helene makes landfall in Florida's Big Bend region near Perry as powerful Cat 4 storm](https://www.fox4news.com/news/hurricane-helene-makes-landfall-along-floridas-nature-coast-powerful-cat-4-storm)
+ [![Southwest Airlines to cut over 300 jobs in Atlanta, ends open seating as part of major changes](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/southwest-airlines-.jpg?ve=1&tl=1)
 
- [![NYC Mayor Eric Adams charged with selling his influence to foreign nationals](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1)
+ ![Southwest Airlines to cut over 300 jobs in Atlanta, ends open seating as part of major changes](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/592/333/southwest-airlines-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-airlines-cut-over-300-jobs-atlanta-ends-open-seating-part-major-changes)
 
- ![NYC Mayor Eric Adams charged with selling his influence to foreign nationals](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
+### [Southwest Airlines to cut over 300 jobs in Atlanta, ends open seating as part of major changes](https://www.fox4news.com/news/southwest-airlines-cut-over-300-jobs-atlanta-ends-open-seating-part-major-changes)
 
-### [NYC Mayor Eric Adams charged with selling his influence to foreign nationals](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
+ [![FOX 4 welcomes new Good Day reporter Payton May](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-PAYTON-VISITS-STOCKYARDS_00.00.43.24.jpg?ve=1&tl=1)
 
- [![Dak Prescott throws 2 TD passes and Cowboys win 7th straight over Giants, 20-15](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174741884.jpg?ve=1&tl=1)
+ ![FOX 4 welcomes new Good Day reporter Payton May](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-PAYTON-VISITS-STOCKYARDS_00.00.43.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-good-day-fox-4-reporter-payton-may)
 
- ![Dak Prescott throws 2 TD passes and Cowboys win 7th straight over Giants, 20-15](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174741884.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-new-york-giants-sept-26)
+### [FOX 4 welcomes new Good Day reporter Payton May](https://www.fox4news.com/news/new-good-day-fox-4-reporter-payton-may)
 
-### [Dak Prescott throws 2 TD passes and Cowboys win 7th straight over Giants, 20-15](https://www.fox4news.com/sports/dallas-cowboys-new-york-giants-sept-26)
+ [![Kamala Harris plans to visit Arizona’s border on Sept. 27](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/GettyImages-2172951004-scaled.jpg?ve=1&tl=1)
 
- [![Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/3693144f-snapshot-11.jpg?ve=1&tl=1)
+ ![Kamala Harris plans to visit Arizona’s border on Sept. 27](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172951004-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
 
- ![Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/3693144f-snapshot-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
+### [Kamala Harris plans to visit Arizona’s border on Sept. 27](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
 
-### [Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
+ [![State Fair of Texas opens its gates for the 2024 season](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/08/32/18/state-fair-of-texas-generic-5.jpg?ve=1&tl=1)
 
- [![Texas Supreme Court denies Ken Paxton's latest attempt to block state fair gun ban](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/State-Fair-of-Texas-7.jpg?ve=1&tl=1)
+ ![State Fair of Texas opens its gates for the 2024 season](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/08/32/18/592/333/state-fair-of-texas-generic-5.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-state-fair-texas-opening-day)
 
- ![Texas Supreme Court denies Ken Paxton's latest attempt to block state fair gun ban](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/State-Fair-of-Texas-7.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-supreme-court-denies-ken-paxtons-latest-attempt-block-state-fair-gun-ban)
-
-### [Texas Supreme Court denies Ken Paxton's latest attempt to block state fair gun ban](https://www.fox4news.com/news/texas-supreme-court-denies-ken-paxtons-latest-attempt-block-state-fair-gun-ban)
+### [State Fair of Texas opens its gates for the 2024 season](https://www.fox4news.com/news/2024-state-fair-texas-opening-day)
 
 ###### [News](https://www.fox4news.com/news)
 
