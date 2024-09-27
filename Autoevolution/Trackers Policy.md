@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Okai's E-Kargo Aims To Take Over the Cargo E-Bike Scene, Tempts With Price and Versatility](https://s1.cdn.autoevolution.com/images/news/okai-s-e-kargo-aims-to-take-over-the-cargo-e-bike-scene-tempts-with-price-and-versatility-240417-5.jpeg "Okai's E-Kargo Aims To Take Over the Cargo E-Bike Scene, Tempts With Price and Versatility")
+[![Farewell Daniel: The Comedic Prince of Formula 1 Who Should Have Been King](https://s1.cdn.autoevolution.com/images/news/farewell-daniel-the-comedic-prince-of-formula-1-who-should-have-been-king-240421-5.jpg "Farewell Daniel: The Comedic Prince of Formula 1 Who Should Have Been King")
 
-Okai's E-Kargo Aims To Take Over the Cargo E-Bike Scene, Tempts With Price and Versatility](https://www.autoevolution.com/news/okai-s-e-kargo-aims-to-take-over-the-cargo-e-bike-scene-tempts-with-price-and-versatility-240417.html)
+Farewell Daniel: The Comedic Prince of Formula 1 Who Should Have Been King](https://www.autoevolution.com/news/farewell-daniel-the-comedic-prince-of-formula-1-who-should-have-been-king-240421.html)
 
 how-to \_
 
