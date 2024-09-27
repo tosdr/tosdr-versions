@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-34e6c36166836c54028faf8582805dd8
+7897f66352475f25f5eb67cfa8608197
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![9 mm round bamboo coral beads](https://sojourner.biz/images/cache/coral/CRL001.200.jpg)](https://sojourner.biz/beads/coral/9-mm-round-bamboo-coral-beads.html "9 mm round bamboo coral beads")
+[![6 mm faceted peridot diamond beads](https://sojourner.biz/images/cache/peridot/PER001.200.jpg)](https://sojourner.biz/beads/stone-m-z/peridot/6-mm-faceted-peridot-diamond-beads.html "6 mm faceted peridot diamond beads")
 
-#### [9 mm round bamboo coral beads](https://sojourner.biz/beads/coral/9-mm-round-bamboo-coral-beads.html "9 mm round bamboo coral beads")
+#### [6 mm faceted peridot diamond beads](https://sojourner.biz/beads/stone-m-z/peridot/6-mm-faceted-peridot-diamond-beads.html "6 mm faceted peridot diamond beads")
 
-$30.00
+$18.00
 
 ### Best Sellers
 
