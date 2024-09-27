@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Alzheimer’s Care: Helping To Manage Sundowner’s Syndrome](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/alzheimers-care-helping-to-manage-sundowners-syndrome/478)
+[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
 
-[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
+[Recognizing the Signs Your Parents Need Assisted Living Care](https://www.visitingangels.com/knowledge-center/care-options/recognizing-the-signs-your-parents-need-assisted-living-care/67)
 
-[Is it Too Early to Start In-Home Senior Care?](https://www.visitingangels.com/knowledge-center/why-in-home-care/is-it-too-early-to-start-in-home-senior-care/289)
+[How to Communicate with a Senior Who Can’t Speak](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-communicate-with-a-senior-who-cant-speak/487)
 
-[Making the Most Out of Visits to Elderly Parents](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/making-the-most-out-of-visits-to-elderly-parents/121)
+[Don't Ignore These 5 Signs Your Elderly Loved One Needs Help Immediately](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/dont-ignore-these-5-signs-your-elderly-loved-one-needs-help-immediately/309)
 
-[Sleep Patterns, Fruit & Vegetable Intake Linked to Dementia Risk](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/sleep-patterns-fruit-vegetable-intake-linked-to-dementia-risk/120)
+[When to Adjust Your Loved One’s Home Care Services](https://www.visitingangels.com/knowledge-center/care-options/when-to-adjust-your-loved-ones-home-care-services/108)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
