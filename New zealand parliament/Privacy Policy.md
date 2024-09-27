@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/current/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCEDSI_SCF_81DBD590-6E68-48D1-8BE4-08DCDC4C6A57/crown-minerals-amendment-bill/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/current/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCEDSI_SCF_81DBD590-6E68-48D1-8BE4-08DCDC4C6A57/crown-minerals-amendment-bill/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
