@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [❤️ MAKE $5000 IN 20 MINUTES ❤\[5k$\]❤️UNLIMITED...](https://pastebin.com/RqDgfdWB)
+* [This method is now public](https://pastebin.com/hGvKtfhP)
     
-    JavaScript | 2 sec ago | 0.18 KB
+    JavaScript | 1 min ago | 0.20 KB
     
-* [⭐ Free giftcards private guide](https://pastebin.com/Y8g4rSbm)
+* [New 0-day exploit (online marketplace)](https://pastebin.com/tY1baBWx)
     
-    Python | 2 sec ago | 0.30 KB
+    JavaScript | 1 min ago | 0.13 KB
     
-* [New free giftcards 0-day exploit](https://pastebin.com/Fi65bth3)
+* [⭐Free Giftcards Method⭐September 2024](https://pastebin.com/xb85B4TY)
     
-    Python | 5 sec ago | 0.31 KB
+    JavaScript | 1 min ago | 0.17 KB
     
-* [😍 FREE GIFTCARDS method new ☀️](https://pastebin.com/546Egwdg)
+* [⭐Free Giftcards Method⭐September 2024](https://pastebin.com/dr26VVaG)
     
-    Python | 7 sec ago | 0.31 KB
+    JavaScript | 2 min ago | 0.17 KB
     
-* [New free giftcards 0-day exploit](https://pastebin.com/AGA4fHBF)
+* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/sc9s0JTR)
     
-    Python | 9 sec ago | 0.30 KB
+    JavaScript | 3 min ago | 0.17 KB
     
-* [☀️ FREE gift method new ⭐](https://pastebin.com/rWPj9i79)
+* [This method is now public](https://pastebin.com/Kj1HfK4s)
     
-    Python | 12 sec ago | 0.30 KB
+    JavaScript | 3 min ago | 0.20 KB
     
-* [✨ Make $3000 in 24 hours❤️](https://pastebin.com/mujP0wuL)
+* [New 0-day exploit (online marketplace)](https://pastebin.com/CciEvgQg)
     
-    JavaScript | 13 sec ago | 0.18 KB
+    JavaScript | 3 min ago | 0.13 KB
     
-* [⭐Free Giftcards Method ⭐September 2024](https://pastebin.com/x6gRLVPf)
+* [⭐Free Giftcards Method⭐September 2024](https://pastebin.com/iTGWSvtW)
     
-    Python | 14 sec ago | 0.31 KB
+    JavaScript | 3 min ago | 0.17 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
