@@ -233,7 +233,7 @@ Email Address
 #### Stay Connected
 
 * [](https://twitter.com/1000bulbs)
-* [](https://www.linkedin.com/company/1000bulbs-com/)
+* [](https://www.linkedin.com/company/1000bulbs-com)
 * [](https://youtube.com/user/1000bulbs)
 * [](https://facebook.com/1000bulbs)
 * [](https://blog.1000bulbs.com/)
@@ -277,7 +277,7 @@ For any other questions, we staff an expert team of specialists to handle your q
 * * *
 
 * **Quick Links**
-* [Clearance](https://www.1000bulbs.com/category/clearance/)
+* [Clearance](https://www.1000bulbs.com/category/clearance)
 * [Coupons](https://www.1000bulbs.com/fil/promotions)
 * [All Categories](https://www.1000bulbs.com/pages/all_categories.html)
 * [Shop By Brand](https://www.1000bulbs.com/fil/brands)
@@ -300,7 +300,7 @@ For any other questions, we staff an expert team of specialists to handle your q
 * **Other Links**
 * [Blog](http://blog.1000bulbs.com/)
 * [DIY Projects](https://www.1000bulbs.com/diy)
-* [Adobe Reader](https://get.adobe.com/reader/)
+* [Adobe Reader](https://get.adobe.com/reader)
 
 [![Better Business Bureau](/images/bbb-badge.png)](https://www.bbb.org/us/tx/garland/profile/electric-supplies/1000bulbscom-0875-90010416)
 
@@ -324,4 +324,4 @@ For any other questions, we staff an expert team of specialists to handle your q
 
 ![](https://dc.ads.linkedin.com/collect/?pid=323770&fmt=gif)
 
-1kb-04 // 3e734a99763b562ef3e98356fb5179b3
+1kb-04 // fafe770fc3783cc6a636d61d29ec756b
