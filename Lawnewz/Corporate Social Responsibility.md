@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, top to bottom: Kelly Fontaine poses for a picture taken by Brian Dula inside the U.S. Capitol building on Jan. 6, 2021; Fontaine, left, and Dula (DOJ court filing).](https://lawandcrime.com/wp-content/uploads/2024/09/Kelly-Fontaine-Brian-Dula-432x243.jpg)](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
+1. [![Left: New York Attorney General Letitia James speaks to the media, Nov. 6, 2023, in New York. AP Photo/Ted Shaffrey, File /Center: Justice Engoron. AP Photo/Seth Wenig, File./Right: Former President Donald Trump speaks during a break in closing arguments at New York Supreme Court, Thursday, Jan. 11, 2024, in New York. (AP Photo/Seth Wenig)](https://lawandcrime.com/wp-content/uploads/2024/01/james-trump-1-432x243.jpg)](https://lawandcrime.com/high-profile/the-immense-penalty-in-this-case-is-troubling-appeals-court-highly-skeptical-of-government-and-trial-court-in-trump-civil-fraud-case/)
+    
+    ### ['The immense penalty in this case is troubling': Appeals court highly skeptical of government and trial court in Trump civil fraud case](https://lawandcrime.com/high-profile/the-immense-penalty-in-this-case-is-troubling-appeals-court-highly-skeptical-of-government-and-trial-court-in-trump-civil-fraud-case/)
+    
+2. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, top to bottom: Kelly Fontaine poses for a picture taken by Brian Dula inside the U.S. Capitol building on Jan. 6, 2021; Fontaine, left, and Dula (DOJ court filing).](https://lawandcrime.com/wp-content/uploads/2024/09/Kelly-Fontaine-Brian-Dula-432x243.jpg)](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
     
     ### ['Donald Trump invited them': Jan. 6 couple who claimed riot was 'staged to silence our voice' now says they answered the call like US soldiers in WWII](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
     
-2. [![Nathaniel McGuire court explosion](https://lawandcrime.com/wp-content/uploads/2024/09/Nathaniel-McGuire-432x243.jpg)](https://lawandcrime.com/crime/all-of-a-sudden-you-see-the-blast-courthouse-bomber-threw-improvised-explosive-device-to-avoid-arraignment-injuring-5-police-say/)
+3. [![Popular post image](https://lawandcrime.com/wp-content/uploads/2024/09/William-and-Beverly-Bryan-432x243.jpg)](https://lawandcrime.com/lawsuit/surgeon-who-fired-a-stapling-device-blindly-into-patient-and-removed-the-wrong-organ-killing-him-loses-license/)
     
-    ### ['All of a sudden you see the blast': Courthouse bomber threw 'improvised explosive device' to avoid arraignment, injuring 5, police say](https://lawandcrime.com/crime/all-of-a-sudden-you-see-the-blast-courthouse-bomber-threw-improvised-explosive-device-to-avoid-arraignment-injuring-5-police-say/)
+    ### [Surgeon who 'fired a stapling device blindly' into patient and removed the wrong organ, killing him, loses license](https://lawandcrime.com/lawsuit/surgeon-who-fired-a-stapling-device-blindly-into-patient-and-removed-the-wrong-organ-killing-him-loses-license/)
     
-3. [![Eric Adams, Merrick Garland](https://lawandcrime.com/wp-content/uploads/2024/09/Eric-Adams-Merrick-Garland-432x243.jpg)](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-joins-growing-list-of-high-profile-democrats-prosecuted-by-merrick-garlands-doj/)
+4. [![Valeria Hamilton, Ethan Belcher, Shane Shelton](https://lawandcrime.com/wp-content/uploads/2024/09/Valeria-Hamilton-Ethan-Belcher-Shane-Shelton-432x243.jpg)](https://lawandcrime.com/crime/i-beat-the-dog-s-out-of-them-mom-and-stepdad-tortured-5-year-old-boy-to-death-and-abused-younger-brother-in-case-that-made-jurors-cry-daily/)
     
-    ### [NYC Mayor Eric Adams joins growing list of high-profile Democrats prosecuted by Merrick Garland's DOJ](https://lawandcrime.com/high-profile/nyc-mayor-eric-adams-joins-growing-list-of-high-profile-democrats-prosecuted-by-merrick-garlands-doj/)
+    ### ['I beat the dog s--- out of them': Mom and stepdad tortured 5-year-old boy to death and abused younger brother in case that made jurors cry daily](https://lawandcrime.com/crime/i-beat-the-dog-s-out-of-them-mom-and-stepdad-tortured-5-year-old-boy-to-death-and-abused-younger-brother-in-case-that-made-jurors-cry-daily/)
     
-4. [![Insets, clockwise from top left: Isabella Lee Gaddis and Elleana Lee Gaddis (Spartanburg Police), Melissa Ann Parker (Spartanburg County Detention Center), Brianna Lynn Foster (Spartanburg Police). Background: The mangled Hummer that was involved in the crash that killed the Gaddis sisters and Foster (WTHR).](https://lawandcrime.com/wp-content/uploads/2024/09/duicrash-432x243.jpg)](https://lawandcrime.com/crime/i-am-glad-they-went-out-together-identical-twins-friend-killed-in-head-on-crash-with-woman-driving-stolen-hummer-while-high-on-thc-gummies-and-adderall/)
+5. [![Inset: Jason Corbett (California Department of Corrections and Rehabilitation). Background: The location Corbett and another member of the Aryan Brotherhood gang killed an inmate at High Desert State Prison in California. (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/09/abmurder-432x243.jpg)](https://lawandcrime.com/crime/aryan-brotherhood-member-used-prison-made-weapon-with-nazi-symbol-to-kill-inmate-who-lied-about-being-in-gang/)
     
-    ### ['I am glad they went out together': Identical twins, friend killed in head-on crash with woman driving stolen Hummer while high on THC gummies and Adderall](https://lawandcrime.com/crime/i-am-glad-they-went-out-together-identical-twins-friend-killed-in-head-on-crash-with-woman-driving-stolen-hummer-while-high-on-thc-gummies-and-adderall/)
-    
-5. [![Rudy Giuliani](https://lawandcrime.com/wp-content/uploads/2024/04/AP23349801870591-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giulianis-2020-election-lawyering-for-trump-comes-back-to-haunt-him-again-as-another-court-orders-him-disbarred/)
-    
-    ### [Rudy Giuliani's 2020 election lawyering for Trump comes back to haunt him again as another court orders him disbarred](https://lawandcrime.com/high-profile/rudy-giulianis-2020-election-lawyering-for-trump-comes-back-to-haunt-him-again-as-another-court-orders-him-disbarred/)
+    ### [Aryan Brotherhood member used prison-made weapon with Nazi symbol to kill inmate who lied about being in gang](https://lawandcrime.com/crime/aryan-brotherhood-member-used-prison-made-weapon-with-nazi-symbol-to-kill-inmate-who-lied-about-being-in-gang/)
     
 
 [](http://eepurl.com/c89Jdb)
