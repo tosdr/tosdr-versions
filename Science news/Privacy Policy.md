@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The world’s oldest cheese is now revealing some of its secrets](https://www.sciencenews.org/article/oldest-ancient-cheese-origins)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")5 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")11 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This fish has legs — and it uses them for more than just walking](https://www.sciencenews.org/article/fish-legs-taste-prey-sea-robin)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")6 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")12 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A thousands-year-old log demonstrates how burying wood can fight climate change](https://www.sciencenews.org/article/burying-log-climate-change)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")3 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")9 hours ago
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [Reactive dust from Great Salt Lake may have health consequences](https://www.sciencenews.org/article/salt-lake-dust-health-consequences)
             
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")8 hours ago
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")14 hours ago
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
