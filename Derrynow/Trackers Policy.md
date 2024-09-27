@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-26 Sept 2024
+27 Sept 2024
 
 * [Home
     
@@ -266,6 +266,13 @@ Most Popular
 [Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1614084/throwback-thursday-partytime-out-and-about-derry-2009.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Woman (84) sadly dies following two vehicle collision in Ballykelly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (84) sadly dies following two vehicle collision in Ballykelly")](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Main road between Derry and Limavady closed to traffic following crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Main road between Derry and Limavady closed to traffic following crash")](https://www.derrynow.com/news/home/1615076/main-road-between-derry-and-limavady-closed-to-traffic-following-crash.html)
 
 The PSNI are advising motorists to avoid the Clooney Road.
@@ -282,6 +289,20 @@ The PSNI are advising motorists to avoid the Clooney Road.
 [Derry Death Notices - Thursday, 26th September 2024](https://www.derrynow.com/news/deaths/1614086/derry-death-notices-thursday-26th-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Clooney Road between Derry and Limavady closed due to road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clooney Road between Derry and Limavady closed due to road traffic collision")](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[UPDATE: Clooney Road between Derry and Limavady closed due to road traffic collision](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast")](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November")](https://www.derrynow.com/news/local-news/1614785/derry-woman-who-stole-10-000-from-alcoholics-anonymous-to-be-sentenced-in-november.html)
 
 Derry Crown Court
@@ -291,21 +312,12 @@ Derry Crown Court
 [Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November](https://www.derrynow.com/news/local-news/1614785/derry-woman-who-stole-10-000-from-alcoholics-anonymous-to-be-sentenced-in-november.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Clooney Road between Derry and Limavady closed due to road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clooney Road between Derry and Limavady closed due to road traffic collision")](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
+[![Derry pleads guilty to series of drugs charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pleads guilty to series of drugs charges")](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[UPDATE: Clooney Road between Derry and Limavady closed due to road traffic collision](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Drug-driver put off the road after detection in Letterkenny](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug-driver put off the road after detection in Letterkenny")](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
-
-The man was stopped for careless driving and tested positive for cannabis
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry drug-driver put off the road after detection in Letterkenny](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry pleads guilty to series of drugs charges](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man described as being involved in 'prolonged persistent street level dealing' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man described as being involved in 'prolonged persistent street level dealing' jailed")](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
 
@@ -316,30 +328,14 @@ Derry Crown Court
 [Man described as being involved in 'prolonged persistent street level dealing' jailed](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry pleads guilty to series of drugs charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pleads guilty to series of drugs charges")](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
+[![Drug-driver put off the road after detection in Letterkenny](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug-driver put off the road after detection in Letterkenny")](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
+
+The man was stopped for careless driving and tested positive for cannabis
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry pleads guilty to series of drugs charges](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man returned for trial to Derry Crown Court on series of charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on series of charges")](https://www.derrynow.com/news/local-news/1614881/man-returned-for-trial-to-derry-crown-court-on-series-of-charges.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man returned for trial to Derry Crown Court on series of charges](https://www.derrynow.com/news/local-news/1614881/man-returned-for-trial-to-derry-crown-court-on-series-of-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry church to launch 'Buy a Brick' appeal for new parish centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry church to launch 'Buy a Brick' appeal for new parish centre")](https://www.derrynow.com/news/local-news/1614766/county-derry-church-to-launch-buy-a-brick-appeal-for-new-parish-centre.html)
-
-Artists impression of the new Canice Centre in Eglinton
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry church to launch 'Buy a Brick' appeal for new parish centre](https://www.derrynow.com/news/local-news/1614766/county-derry-church-to-launch-buy-a-brick-appeal-for-new-parish-centre.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry drug-driver put off the road after detection in Letterkenny](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,14 +515,48 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![SSE Renewables Scholarship Fund 2024 opens for applications](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SSE Renewables Scholarship Fund 2024 opens for applications")](https://www.derrynow.com/news/county-derry-post/1615198/sse-renewables-scholarship-fund-2024-opens-for-applications.html)
+[![Punk legend John Lydon to visit Derry next year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Punk legend John Lydon to visit Derry next year")](https://www.derrynow.com/news/local-news/1615284/punk-legend-john-lydon-to-visit-derry-next-year.html)
+
+Former Sex Pistols frontman John Lydon
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Punk legend John Lydon to visit Derry next year](https://www.derrynow.com/news/local-news/1615284/punk-legend-john-lydon-to-visit-derry-next-year.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballinascreen Historical Society to host first meeting of new season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen Historical Society to host first meeting of new season")](https://www.derrynow.com/news/arts---entertainment/1615334/ballinascreen-historical-society-to-host-first-meeting-of-new-season.html)
+
+Largantogher Gatelodge is a historic building.
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[Ballinascreen Historical Society to host first meeting of new season](https://www.derrynow.com/news/arts---entertainment/1615334/ballinascreen-historical-society-to-host-first-meeting-of-new-season.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Joyce_Taggart_%28002%29-1727382943319.png--.png?1727382943576 "Woman (84) sadly dies following two vehicle collision in Ballykelly")](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with possessing £39,000 worth of drugs to appear in Derry court](https://www.derrynow.com/resizer/165/93/true/2024_09_26/A-Police-Service-of-Northern-Ireland-PSNI-contable-on-patrol-in-Belfast-Northern-Ireland-scaled-1727379610389.jpg--.jpg?1727379611937 "Man charged with possessing £39,000 worth of drugs to appear in Derry court")](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with possessing £39,000 worth of drugs to appear in Derry court](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![SSE Renewables Scholarship Fund 2024 opens for applications](https://www.derrynow.com/resizer/165/93/true/2024_09_26/SSE_Renewables_Scholarship_Fund-1727362799570.JPG--.JPG?1727362800769 "SSE Renewables Scholarship Fund 2024 opens for applications")](https://www.derrynow.com/news/county-derry-post/1615198/sse-renewables-scholarship-fund-2024-opens-for-applications.html)
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
 [SSE Renewables Scholarship Fund 2024 opens for applications](https://www.derrynow.com/news/county-derry-post/1615198/sse-renewables-scholarship-fund-2024-opens-for-applications.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members")](https://www.derrynow.com/news/county-derry-post/1615389/it-is-recognised-that-there-is-more-to-do-to-improve-and-protect-our-vital-road-network-dfi-tells-mid-ulster-council-members.html)
+[!['It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_10212239.jpg--.jpg "'It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members")](https://www.derrynow.com/news/county-derry-post/1615389/it-is-recognised-that-there-is-more-to-do-to-improve-and-protect-our-vital-road-network-dfi-tells-mid-ulster-council-members.html)
 
 Members of the council received an update on road maintenance and improvement works in the area.
 
@@ -534,38 +564,6 @@ Members of the council received an update on road maintenance and improvement wo
 
 ['It is recognised that there is more to do to improve and protect our vital road network' - DfI tells Mid Ulster Council members](https://www.derrynow.com/news/county-derry-post/1615389/it-is-recognised-that-there-is-more-to-do-to-improve-and-protect-our-vital-road-network-dfi-tells-mid-ulster-council-members.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Loup man nominated for trip to Lourdes by AOH Derry County Board](https://www.derrynow.com/resizer/165/93/true/2024_09_26/IMG_3032-1727358330185_1727358472.JPG--.JPG?1727358472026 "Loup man nominated for trip to Lourdes by AOH Derry County Board")](https://www.derrynow.com/news/home/1615072/loup-man-nominated-for-trip-to-lourdes-by-aoh-derry-county-board.html)
-
-Sean O'Neill (centre) pictured with County Board President, Charlie Collins (right) and County Board Secretary, Danny O'Kane (left).
-
-[Home](https://www.derrynow.com/)
-
-[Loup man nominated for trip to Lourdes by AOH Derry County Board](https://www.derrynow.com/news/home/1615072/loup-man-nominated-for-trip-to-lourdes-by-aoh-derry-county-board.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![An Irish Angel to feature on Friday in Louth International Film Festival 2024](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Publicity_Still__Teacher_Jamie_Louth-1727360874168.jpg--.jpg?1727360875172 "An Irish Angel to feature on Friday in Louth International Film Festival 2024")](https://www.derrynow.com/news/what-s-on/1615188/derry-filmmaker-s-an-irish-angel-to-feature-in-louth-international-film-festival-2024.html)
-
-Jaime Winstone plays the teacher Ellie
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Derry filmmaker's 'An Irish Angel' to feature in Louth International Film Festival 2024](https://www.derrynow.com/news/what-s-on/1615188/derry-filmmaker-s-an-irish-angel-to-feature-in-louth-international-film-festival-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Motorists advised of possible traffic disruption around Derry this weekend](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Traffic_information-1727358582678.jpg--.jpg?1727358582703 "Motorists advised of possible traffic disruption around Derry this weekend")](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Motorists advised of possible traffic disruption around Derry this weekend](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Seagate engineering specialists vote for representation by Unite](https://www.derrynow.com/resizer/165/93/true/2022_08_08/1585649780056.jpg--_Cropped-1659967734017.jpg--.jpg?1659967734034 "Derry Seagate engineering specialists vote for representation by Unite")](https://www.derrynow.com/news/business/1615230/derry-seagate-engineering-specialists-vote-for-representation-by-unite.html)
-
-[Business](https://www.derrynow.com/section/1339/business)
-
-[Derry Seagate engineering specialists vote for representation by Unite](https://www.derrynow.com/news/business/1615230/derry-seagate-engineering-specialists-vote-for-representation-by-unite.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
