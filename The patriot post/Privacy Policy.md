@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110559-the-essentials-2024-09-26)
+     [](https://patriotpost.us/memes/110593-dont-forget-2024-09-27)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -122,16 +122,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander Profiles of Valor: Mercy Among Mortal Enemies](https://patriotpost.us/alexander/110595-profiles-of-valor-mercy-among-mortal-enemies-2024-09-27)
+*      [Tim Young Illegal Immigrants Replacing Americans in the Job Market in Three Easy Steps](https://patriotpost.us/opinion/110588-illegal-immigrants-replacing-americans-in-the-job-market-in-three-easy-steps-2024-09-27)
 *      [Hans von Spakovsky Get Ready for Another Mail-in Ballot Fiasco](https://patriotpost.us/opinion/110578-get-ready-for-another-mail-in-ballot-fiasco-2024-09-26)
 *      [Gary Bauer A Threat to the Republic](https://patriotpost.us/opinion/110575-a-threat-to-the-republic-2024-09-26)
 *      [Laura Hollis Biden-Harris Immigration Policies Waste Billions That Should Be Spent on Americans](https://patriotpost.us/opinion/110577-biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans-2024-09-26)
 *      [Larry Elder Price Controls Are Bad — No Matter Who Demands Them](https://patriotpost.us/opinion/110576-price-controls-are-bad-no-matter-who-demands-them-2024-09-26)
 *      [Armstrong Williams The Media](https://patriotpost.us/opinion/110574-the-media-2024-09-26)
 *      [Ann Coulter The Real Kamala Harris](https://patriotpost.us/opinion/110573-the-real-kamala-harris-2024-09-26)
-*      [Tony Perkins The Warning Lights Are On](https://patriotpost.us/opinion/110572-the-warning-lights-are-on-2024-09-26)
-*      [Cal Thomas Virtue vs. Utility](https://patriotpost.us/opinion/110553-virtue-vs-utility-2024-09-26)
-*      [The Washington Stand Left Spews Incendiary Rhetoric Only 10 Days After Last Assassination Attempt](https://patriotpost.us/opinion/110571-left-spews-incendiary-rhetoric-only-10-days-after-last-assassination-attempt-2024-09-26)
-*      [The Babylon Bee ‘Trump Will Start World War III,’ Says Party Autographing Bombs to Be Launched at Russia](https://patriotpost.us/opinion/110569-trump-will-start-world-war-iii-says-party-autographing-bombs-to-be-launched-at-russia-2024-09-26)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
