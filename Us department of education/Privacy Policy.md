@@ -80,7 +80,7 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     
     [Resources for Parents and Students](https://www2.ed.gov/birth-to-grade-12-education/resources-families)
     
-    * [Raise the Bar: Families](https://www2.ed.gov/about/ed-initiatives/raise-the-bar/raise-the-bar-resources-for-parents-and-families)
+    * [Raise the Bar: Families](https://www2.ed.gov/about/ed-initiatives/raise-bar/raise-bar-resources-parents-and-families)
     * [Career Pathways](https://www2.ed.gov/higher-education/career-pathways)
     
     [Laws related to Preschool to Grade 12 Education](https://www2.ed.gov/laws-and-policy/laws-preschool-grade-12-education)
