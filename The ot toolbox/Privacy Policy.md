@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![fine motor paper clip math with paper clips scattered on white background.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Picture of broom sweeping. Text reads: "How to improve executive functioning with chores"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![fine motor paper clip math with paper clips scattered on white background.](https://www.theottoolbox.com/wp-content/uploads/2016/02/fine-motor-paper-clip-math.png)](https://www.theottoolbox.com/fine-motor-paper-clip-math/)
+                ![Picture of broom sweeping. Text reads: "How to improve executive functioning with chores"](https://www.theottoolbox.com/wp-content/uploads/2024/06/executive-function-chores.png)](https://www.theottoolbox.com/chores-and-executive-functioning-skills/)
                 
-                #### [Fine Motor Paper Clip Math](https://www.theottoolbox.com/fine-motor-paper-clip-math/)
+                #### [Chores and Executive Functioning Skills](https://www.theottoolbox.com/chores-and-executive-functioning-skills/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
