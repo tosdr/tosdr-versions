@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The world’s oldest cheese is now revealing some of its secrets](https://www.sciencenews.org/article/oldest-ancient-cheese-origins)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")23 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")September 26, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -116,6 +116,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
+            ### [‘Night Magic’ invites you to celebrate the living wonders of the dark](https://www.sciencenews.org/article/night-magic-dark-book-review)
+            
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")4 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
             ### [This fish has legs — and it uses them for more than just walking](https://www.sciencenews.org/article/fish-legs-taste-prey-sea-robin)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 26, 2024
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A study in mice hints at a new way to treat spinal cord injuries](https://www.sciencenews.org/article/study-treat-spinal-cord-injuries-mice)
             
             By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")September 25, 2024
-            
-        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
-            
-            ### [Some of Earth’s extinct giants may have been smaller than thought](https://www.sciencenews.org/article/extinct-giants-size-estimates)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 25, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How rapid intensification spawned two monster hurricanes in one week](https://www.sciencenews.org/article/rapid-intensification-hurricanes-helene)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")2 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")8 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [A thousands-year-old log demonstrates how burying wood can fight climate change](https://www.sciencenews.org/article/burying-log-climate-change)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")22 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")September 26, 2024
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
