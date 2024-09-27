@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. digital marketing
     
-2. excel
+2. java
     
-3. law
+3. hacking
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Artificial Intelligence
+    
+    9,548 courses](https://www.classcentral.com/subject/ai)
+2. [Web Development
+    
+    12,549 courses](https://www.classcentral.com/subject/web-development)
+3. [Communication Skills
     
     3,891 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Project Management
-    
-    3,719 courses](https://www.classcentral.com/subject/project-management)
-3. [Graphic Design
-    
-    4,161 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Inspiring Leadership through Emotional Intelligence
+1. [Introduction to Complexity
+    
+    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
+2. [Inspiring Leadership through Emotional Intelligence
     
     Case Western Reserve University](https://www.classcentral.com/course/lead-ei-710)
-2. [Viruses & How to Beat Them: Cells, Immunity, Vaccines
+3. [Transforming Digital Learning: Learning Design Meets Service Design
     
-    Tel Aviv University](https://www.classcentral.com/course/edx-viruses-how-to-beat-them-cells-immunity-vaccines-9364)
-3. [FinTech Ethics and Risks
-    
-    The University of Hong Kong](https://www.classcentral.com/course/fintech-university-of-hong-kong-fintech-ethics-an-11392)
+    Deakin University](https://www.classcentral.com/course/digital-learning-12213)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
