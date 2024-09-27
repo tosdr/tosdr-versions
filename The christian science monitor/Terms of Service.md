@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Compassion
+[Community
 
-### ‘We’re going to take care of you.’ Marine Corps museum offers veterans respite.](https://www.csmonitor.com/USA/Military/2024/0927/marine-corps-museum-ptsd-iraq-afghanistan "‘We’re going to take care of you.’ Marine Corps museum offers veterans respite.")
+### Five comedians walk into a barbershop. Why secret shows are selling out worldwide.](https://www.csmonitor.com/The-Culture/2024/0927/dont-tell-comedy-gen-z "Five comedians walk into a barbershop. Why secret shows are selling out worldwide.")
 
-[Forgiveness
+[Equality
 
-### Mercy’s role against human smuggling](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0926/Mercy-s-role-against-human-smuggling "Mercy’s role against human smuggling")
+### Equality as ‘birthright’ in Myanmar](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0927/Equality-as-birthright-in-Myanmar "Equality as ‘birthright’ in Myanmar")
 
-[Justice
+[Peace
 
-### Ten years after 43 students disappeared, Mexican parents still seek the truth](https://www.csmonitor.com/World/Americas/2024/0926/Mexico-43-disappeared-students-protests-truth "Ten years after 43 students disappeared, Mexican parents still seek the truth")
+### Fluency, curiosity, and a bike: Letting Taiwan tell its own story](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2433 "Fluency, curiosity, and a bike: Letting Taiwan tell its own story")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### ‘Tariff Man’ Trump proposes even bigger tariffs on foreign goods. Will they deliver?](https://www.csmonitor.com/USA/2024/0927/Trump-election-tariffs-tax-Mexico-China "‘Tariff Man’ Trump proposes even bigger tariffs on foreign goods. Will they deliver?")
+
 [### Why are three of Brazil’s mega dams in the Amazon on the brink of failure?](https://www.csmonitor.com/World/Americas/2024/0926/Brazil-climate-change-drought-mega-dam "Why are three of Brazil’s mega dams in the Amazon on the brink of failure?")
 
 [### Ten years after 43 students disappeared, Mexican parents still seek the truth](https://www.csmonitor.com/World/Americas/2024/0926/Mexico-43-disappeared-students-protests-truth "Ten years after 43 students disappeared, Mexican parents still seek the truth")
-
-[### How ships can make green fuel, and natural winds are key to cooling a city](https://www.csmonitor.com/World/Points-of-Progress/2024/0926/shipping-green-fuel-wind-cooling "How ships can make green fuel, and natural winds are key to cooling a city")
 
 * * *
 
