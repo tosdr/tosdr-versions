@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Fighter's History](https://www.myabandonware.com/game/fighter-s-history-b6d)
-* [Dynamite Düx](https://www.myabandonware.com/game/dynamite-duex-5i2)
-* [Field Combat](https://www.myabandonware.com/game/field-combat-9ri)
-* [Dynamite Duke](https://www.myabandonware.com/game/dynamite-duke-8cx)
-* [F-1 Dream](https://www.myabandonware.com/game/f-1-dream-ks1)
+* [Cruis'n USA](https://www.myabandonware.com/game/cruis-n-usa-siu)
+* [Crash](https://www.myabandonware.com/game/crash-sit)
+* [Cosmos](https://www.myabandonware.com/game/cosmos-sis)
+* [Cosmic Smash](https://www.myabandonware.com/game/cosmic-smash-sir)
+* [Champion Boxing](https://www.myabandonware.com/game/champion-boxing-qs7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Word Blaster](https://www.myabandonware.com/game/word-blaster-dx4)
-* [Crisis in Alborz Galaxy](https://www.myabandonware.com/game/crisis-in-alborz-galaxy-mci)
-* [Perfect Grand Prix](https://www.myabandonware.com/game/perfect-grand-prix-fyj)
+* [Grammar & Punctuation](https://www.myabandonware.com/game/grammar-punctuation-rfj)
+* [Revenge of the Mutant Camels II](https://www.myabandonware.com/game/revenge-of-the-mutant-camels-ii-mgp)
+* [Tube-It](https://www.myabandonware.com/game/tube-it-rj8)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
