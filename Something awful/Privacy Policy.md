@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Rejected Software 2](https://www.somethingawful.com/photoshop-phriday/rejected-software-2/1/)
-* [Awful Game Shows](https://www.somethingawful.com/photoshop-phriday/awful-game-shows/1/)
-* [Ask Kids Questions and Draw the Answers!](https://www.somethingawful.com/comedy-goldmine/draw-kids-facts/1/)
-* [101 Things to do with a Baby](https://www.somethingawful.com/comedy-goldmine/101-things-do/1/)
-* [The Breadgunner](https://www.somethingawful.com/photoshop-phriday/breadgunner-tunisia/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [My Method's Retoric is TRUE and NOT responsible for anything](https://www.somethingawful.com/news/jared-loughner-gunwitch/)
+* [Patch Notes: The PUBG Girl Parts Update](https://www.somethingawful.com/video-game-article/pubg-lady-parts/)
+* [A Leather Oaks Christmas (Thanks, iteration!)](https://www.somethingawful.com/awful-links/leather-oaks-christmas/)
+* [J.J. Abrams News of the Past Fifteen Minutes](https://www.somethingawful.com/news/jj-abrams-updates/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Something Awful vs. Nigeria And / Or Asia](https://www.somethingawful.com/email-pranks/email-spam-something/1/)
-* [Ankara Terrorist Fun!](https://www.somethingawful.com/photoshop-phriday/terrorist-art-gallery/)
-* [The Great American Reach Around - The Deep South & Scandinavia](https://www.somethingawful.com/news/gara-week-eight/1/)
-* [Cowboy Dream Journal](https://www.somethingawful.com/news/cowboy-dream-journal/)
-* [Not Exactly Nostalgia](https://www.somethingawful.com/your-band-sucks/not-exactly-nostalgia/)
+* [Political Cartoon Parodies!](https://www.somethingawful.com/photoshop-phriday/political-cartoon-thread/1/)
+* [Dragon Warrior Journals II: Citizens on Patrol](https://www.somethingawful.com/news/dragon-warrior-journals-2/)
+* [Fleurcup (Thanks, Buttercream!)](https://www.somethingawful.com/awful-links/fleurcup-menstrual-cup/)
+* [Griefzilla](https://www.somethingawful.com/second-life-safari/griefzilla-plastic-duck/1/)
+* [Misadventures of Dick & Jane 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/misadventures-dick-jane-2/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
