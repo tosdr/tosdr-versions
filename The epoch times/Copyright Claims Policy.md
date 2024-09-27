@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Senator Unveils Bill to Increase Size of Supreme Court to 15](https://www.theepochtimes.com/us/senator-unveils-bill-to-increase-size-of-supreme-court-5730795)
+    
+    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Senator Unveils Bill to Increase Size of Supreme Court to 15](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Senator Unveils Bill to Increase Size of Supreme Court to 15](https://img.theepochtimes.com/assets/uploads/2023/04/13/id5192063-wyden-205x123.jpeg.webp)](https://www.theepochtimes.com/us/senator-unveils-bill-to-increase-size-of-supreme-court-5730795)
+* [2 Russian Nationals Charged in Billion-Dollar Online Money Laundering Schemes](https://www.theepochtimes.com/us/2-russian-nationals-charged-in-billion-dollar-online-money-laundering-schemes-5731014)
+    
+    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![2 Russian Nationals Charged in Billion-Dollar Online Money Laundering Schemes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![2 Russian Nationals Charged in Billion-Dollar Online Money Laundering Schemes](https://img.theepochtimes.com/assets/uploads/2023/09/09/id5488981-cyber-crime-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-russian-nationals-charged-in-billion-dollar-online-money-laundering-schemes-5731014)
+* [Nearly 750,000 Purged From North Carolina’s Voter Rolls](https://www.theepochtimes.com/us/nearly-750000-purged-from-north-carolinas-voter-rolls-5730902)
+    
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Nearly 750,000 Purged From North Carolina’s Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Nearly 750,000 Purged From North Carolina’s Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/03/05/id5600937-GettyImages-2052731956-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/nearly-750000-purged-from-north-carolinas-voter-rolls-5730902)
+* [Legislation to Restrict US Investment in China Is Top Priority, House Committee Chairman Says](https://www.theepochtimes.com/china/legislation-to-restrict-us-investment-in-china-is-top-priority-house-committee-chairman-says-5730705)
+    
+    NEW By [Eva Fu](https://www.theepochtimes.com/author/eva-fu) and [Frank Fang](https://www.theepochtimes.com/author/frank-fang)
+    
+    [![Legislation to Restrict US Investment in China Is Top Priority, House Committee Chairman Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Legislation to Restrict US Investment in China Is Top Priority, House Committee Chairman Says](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729988-09252024-DSC01022-John-Moolenaar-205x123.jpg.webp)](https://www.theepochtimes.com/china/legislation-to-restrict-us-investment-in-china-is-top-priority-house-committee-chairman-says-5730705)
+* [From National Debt to Budget Deficits, America’s Fiscal Health Absent From Election: Economists](https://www.theepochtimes.com/business/from-national-debt-to-budget-deficits-americas-fiscal-health-absent-from-election-economists-5729849)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![From National Debt to Budget Deficits, America’s Fiscal Health Absent From Election: Economists](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![From National Debt to Budget Deficits, America’s Fiscal Health Absent From Election: Economists](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729780-Trump-Harris-v2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/from-national-debt-to-budget-deficits-americas-fiscal-health-absent-from-election-economists-5729849)
+* [Trump to Meet With Zelenskyy to Discuss Ukraine ‘Victory Plan’](https://www.theepochtimes.com/world/trump-to-meet-with-zelenskyy-to-discuss-ukraine-victory-plan-5730969)
+    
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Trump to Meet With Zelenskyy to Discuss Ukraine ‘Victory Plan’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump to Meet With Zelenskyy to Discuss Ukraine ‘Victory Plan’](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5731029-DSC04714-trump-205x123.jpg.webp)](https://www.theepochtimes.com/world/trump-to-meet-with-zelenskyy-to-discuss-ukraine-victory-plan-5730969)
+* [Pentagon Confirms China’s New Nuclear Sub Sank in Shipyards](https://www.theepochtimes.com/china/pentagon-confirms-chinas-new-nuclear-sub-sank-in-shipyards-5731021)
+    
+    6hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![Pentagon Confirms China’s New Nuclear Sub Sank in Shipyards](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pentagon Confirms China’s New Nuclear Sub Sank in Shipyards](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5731028-2024-09-26T205732Z_2_LYNXMPEK8P0UP_RTROPTP_4_CHINA-SUBMARINE-USA-205x123.jpg.webp)](https://www.theepochtimes.com/china/pentagon-confirms-chinas-new-nuclear-sub-sank-in-shipyards-5731021)
 * [America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://www.theepochtimes.com/article/americas-anxiety-crisis-affecting-1-in-every-6-adults-5726334)
     
-    2hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    8hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
     
     [![America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730907-Depression-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/americas-anxiety-crisis-affecting-1-in-every-6-adults-5726334)
 * [New York City Mayor Adams Faces Pressure After Federal Indictment](https://www.theepochtimes.com/us/new-york-city-mayor-adams-faces-pressure-after-federal-indictment-5730900)
     
-    3hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    9hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![New York City Mayor Adams Faces Pressure After Federal Indictment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York City Mayor Adams Faces Pressure After Federal Indictment](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731118-Eric-Adams-AP24270549991506-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-adams-faces-pressure-after-federal-indictment-5730900)
 * [Biden Admin Revives Free COVID-19 Tests by Mail Program](https://www.theepochtimes.com/us/biden-admin-revives-free-covid-19-tests-by-mail-program-5730893)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Biden Admin Revives Free COVID-19 Tests by Mail Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Admin Revives Free COVID-19 Tests by Mail Program](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731078-GettyImages-1368623428KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-admin-revives-free-covid-19-tests-by-mail-program-5730893)
-* [Day in Photos: 5-Count Indictment, More Military Aids, and a Landing Hurricane](https://www.theepochtimes.com/article/day-in-photos-5-count-indictment-more-military-aids-and-a-landing-hurricane-5730173)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: 5-Count Indictment, More Military Aids, and a Landing Hurricane](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: 5-Count Indictment, More Military Aids, and a Landing Hurricane](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730962-GettyImages-2173761964-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-5-count-indictment-more-military-aids-and-a-landing-hurricane-5730173)
-* [Biden Signs Stopgap Funding Bill to Prevent Pre-Election Government Shutdown](https://www.theepochtimes.com/us/biden-signs-stopgap-funding-bill-to-prevent-pre-election-government-shutdown-5730685)
-    
-    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![Biden Signs Stopgap Funding Bill to Prevent Pre-Election Government Shutdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Signs Stopgap Funding Bill to Prevent Pre-Election Government Shutdown](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5728951-Biden_White-House_Sept24-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-signs-stopgap-funding-bill-to-prevent-pre-election-government-shutdown-5730685)
-* [Worker Strike Threat at Atlantic & Gulf Coast Shipping Ports Has Some Asking for Federal Help](https://www.theepochtimes.com/us/worker-strike-threat-at-atlantic-gulf-coast-shipping-ports-has-some-asking-for-federal-help-5730886)
-    
-    6hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
-    
-    [![Worker Strike Threat at Atlantic & Gulf Coast Shipping Ports Has Some Asking for Federal Help](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Worker Strike Threat at Atlantic & Gulf Coast Shipping Ports Has Some Asking for Federal Help](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731079-GettyImages-2156670225KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/worker-strike-threat-at-atlantic-gulf-coast-shipping-ports-has-some-asking-for-federal-help-5730886)
-* [Inexpensive Infusion Helps Prevent Cerebral Palsy in Babies, Clinicians Encourage Global Uptake](https://www.theepochtimes.com/health/inexpensive-infusion-helps-prevent-cerebral-palsy-in-babies-clinicians-encourage-global-uptake-5730914)
-    
-    6hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Inexpensive Infusion Helps Prevent Cerebral Palsy in Babies, Clinicians Encourage Global Uptake](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Inexpensive Infusion Helps Prevent Cerebral Palsy in Babies, Clinicians Encourage Global Uptake](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730998-shutterstock_1895390860_magnesium_sulfate_magnesium-205x123.jpg.webp)](https://www.theepochtimes.com/health/inexpensive-infusion-helps-prevent-cerebral-palsy-in-babies-clinicians-encourage-global-uptake-5730914)
-* [Southwest Airlines Announces Operational Overhaul, Including End to Open Seating](https://www.theepochtimes.com/business/southwest-airlines-announces-operational-overhaul-including-end-to-open-seating-5730788)
-    
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Southwest Airlines Announces Operational Overhaul, Including End to Open Seating](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Southwest Airlines Announces Operational Overhaul, Including End to Open Seating](https://img.theepochtimes.com/assets/uploads/2023/05/25/id5291851-Air-Travel-1-205x123.jpg.webp)](https://www.theepochtimes.com/business/southwest-airlines-announces-operational-overhaul-including-end-to-open-seating-5730788)
-* [Hurricane Helene Set to Hit as Category 4, Authorities Warn: ‘Take Cover Now’](https://www.theepochtimes.com/us/hurricane-helene-strengthens-to-category-4-ahead-of-florida-landfall-5730541)
-    
-    8hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Hurricane Helene Set to Hit as Category 4, Authorities Warn: ‘Take Cover Now’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hurricane Helene Set to Hit as Category 4, Authorities Warn: ‘Take Cover Now’](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731075-GettyImages-2174658309KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-helene-strengthens-to-category-4-ahead-of-florida-landfall-5730541)
-* [Federal Prosecutors Charge NYC Mayor Eric Adams: 7 Things We Know So Far](https://www.theepochtimes.com/us/federal-prosecutors-charge-nyc-mayor-eric-adams-7-things-we-know-so-far-5730678)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Federal Prosecutors Charge NYC Mayor Eric Adams: 7 Things We Know So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Prosecutors Charge NYC Mayor Eric Adams: 7 Things We Know So Far](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731098-Eric-Adams-GettyImages-2173762292-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-prosecutors-charge-nyc-mayor-eric-adams-7-things-we-know-so-far-5730678)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
