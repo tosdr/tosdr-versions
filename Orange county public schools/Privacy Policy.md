@@ -290,7 +290,6 @@ Orange County Public Schools
 * [Superintendent](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87605)
     
     * [Superintendent's Profile](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87890)
-    * [100 Day Entry Plan](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1864327)
     * [Town Hall Community Meetings](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1878736)
     * [Code of Civility](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1526148)
     * [Superintendent's Scholarship Fund](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1816958)
@@ -432,7 +431,6 @@ Orange County Public Schools
     * [2021 Reapportionment Advisory Committee](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1732641)
 * [Superintendent](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87605)
     * [Superintendent's Profile](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87890)
-    * [100 Day Entry Plan](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1864327)
     * [Town Hall Community Meetings](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1878736)
     * [Code of Civility](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1526148)
     * [Superintendent's Scholarship Fund](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1816958)
