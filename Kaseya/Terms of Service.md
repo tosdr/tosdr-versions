@@ -375,11 +375,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2022/12/CITlocal-CITY-1200x800_NewYork-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/09/Webinar-MSP-Enablement-Series-Mastering-Your-MSPs-300x200.png)
     
-    Kaseya+Datto Connect Local New York
+    MSP Panel: Lessons Learned as a TruMethods Peer Member
     
-    September 26
+    October 9
     
     [View All Events](https://www.kaseya.com/events/)
     
