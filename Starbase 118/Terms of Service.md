@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
+
+### [Denali Station crew returns from alternate dimension after perilous escape.](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
+
+Federation News Service September 27, 2024
+
+DENALI STATION – After a harrowing battle in an alternate reality, the crew of Denali Station successfully return home. The crew of Denali Station faced
+
+[Read More »](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/the-next-phase-hd-385-768x578.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
 
 ### [Fleetwide Trivia Rules 2041](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
@@ -377,18 +389,6 @@ Federation News Service September 25, 2024
 SECTOR 001 – The crew of StarBase 118 Ops played a critical role in stopping the assimilated Enterprise-F as it attempted to destroy Spacedock and
 
 [Read More »](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
-
-### [Ship Closeup – USS Ronin](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
-
-docaharford September 24, 2024
-
-“When you go home, tell them of us and say: For your tomorrow, we gave our today.” -John Maxwell Edmonds; Epitaph, World War II Allied War
-
-[Read More »](https://www.starbase118.net/2024/ship-closeup-uss-ronin/)
 
 Ready to get started?
 ---------------------
