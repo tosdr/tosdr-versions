@@ -10,7 +10,7 @@
 
 * [Customer service](https://www.rangextd.com/pages/about-us)
 
-[![Savvy Smart and Deals Ltd](//savvysmartdeals.com/cdn/shop/files/savvy-smart-logo-white.png?v=1724660288&width=140)](https://www.rangextd.com/)
+[![Savvy Smart and Deals Ltd](//savvysmartdeals.com/cdn/shop/files/savvy-logo_c16395f5-b834-4fcb-b105-3682b0b32199.png?v=1727427635&width=140)](https://www.rangextd.com/)
 
 [View catalog](https://www.rangextd.com/) [Search](#search)
 
@@ -342,15 +342,15 @@ Our latest blog posts
 
 [View all](https://www.rangextd.com/blogs/news) 
 
-* ### September 26 2024, by Author Article title
+* ### September 27 2024, by Author Article title
     
     Read more 
     
-* ### September 26 2024, by Author Article title
+* ### September 27 2024, by Author Article title
     
     Read more 
     
-* ### September 26 2024, by Author Article title
+* ### September 27 2024, by Author Article title
     
     Read more 
     
