@@ -31,8 +31,467 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Hombre con muerte cerebral fue casado por lo civil en hospital el IESS
-======================================================================
+Cartas a Quito / 27 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este viernes 27 de septiembre de 2024
+---------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+El Ecuador que perdimos
+-----------------------
+
+El Mundo en general ya no es el mismo, Los grandes adelantos traen consigo el cambio de las estructuras mismas y un comportamiento diferente. Quienes tenemos algunos años de recorrido y qué gracias al conocimiento y adelanto científico nos mantenemos con una vitalidad que antes para nuestra edad ya nos convertíamos en los viejitos, arrugados, corcovados, que les costaba caminar, que su voz se hacía menos vibrante. Que usaba bastón para sostenerse y su aspecto o forma de vestir daba para considerarlo una persona de respeto, inútil y con aspecto de caminar lento.
+
+Por eso dijo que el mundo ya no es el mismo. La sociedad actual maneja un estándar de vida diferente, donde la nueva tecnología, conocimientos científicos, etc. hace que el ser humano a una edad avanzada trote, haga ejercicios, presenta un aspecto juvenil, es participativo y sus conocimientos le permiten disfrutar de una vida sana, de tomar el avión y hacer travesías por crucero y hasta poder conquistar el placer de compartir la amistad con gente joven. Situación que está complicando a la Seguridad Social porque tiene más jubilados que aportantes.
+
+En Ecuador no es la excepción y a pesar de estar rezagados en lo tecnológico ante países donde su desarrollo ha alcanzado un avance inimaginable, que están llegando a que la inteligencia artificial les permite desarrollar un cambio radical del sistema de producción, de industrialización, sistema de salud de altísima calidad donde el robot, inducido por el ser humano, es el encargado de hacer con precisión la operación en un lugar imposible para el hombre y eso se llama  mejoramiento de calidad de vida, etc. Pero, también llega a la producción de armas que les permite poder destruir a la humanidad y si se abusa de la misma pueda que algún día el ser humano podría llegar a ser sometido a su propia destrucción.
+
+Pero el Ecuador ha perdido el brillo, la amabilidad, la tranquilidad, y esos principios universales de honestidad, honradez, cultura, respeto, etc. Ya no hay las serenatas, la conquista del amor con demostración de la pedida de mano a sus padres y el consentimiento. Habría que hacer un libro que describa lo que realmente perdimos.
+
+En Política el Ecuador perdió a esos intelectuales que recorrían los pueblos de la Patria con su mensaje, de acuerdo con su ideología, y le explicaban a la gente como sería su estilo de gobierno y se ofrecía las obras para cada pueblo porque conocían en vivo y en directo la realidad de su situación.
+
+El Ecuador pasó a ser dominado por el poder económico que representa el narcotráfico y, gobierno y autoridades, han sucumbido ante las ofertas e imposiciones que manejan estas mafias tanto en lo que a recursos económicos como en capacidad de acción, de extorsión, de amenazas y procedimientos violentos.
+
+Más para terminar les digo que nunca más vamos a volver a caer en la trampa de las manos limpias y los corazones ardientes y que cada vez simpatizantes toman consciencia de la realidad que hicieron. Desaprovecharon la oportunidad de hacer de Ecuador en un país poderoso, económicamente con reservas de dinero  y con las mismas obras pero a precios justos. Ellos nos robaron lo que pudo haber sido la oportunidad de tener una vida digna y un país de progreso. A más de robarnos los recursos económicos, nos engañaron y se robaron la esperanza de un país sin secuestros, ni extorsiones, sin tráfico de drogas. Ya que fueron ellos los que permitieron su libertad de acción en el tráfico con el silencio pagado. 
+
+Lionel Efraín Romero Reyes
+
+Elecciones en Ecuador y Estados Unidos
+--------------------------------------
+
+Estamos cerca de que se realicen procesos electorales en Ecuador y Estados Unidos. En nuestro país, se volverían a realizar elecciones para cuatro años, después de que se cumpla el período de dos años después de la muerte cruzada, dado de que por primera vez en nuestro país se produjo aquello.
+
+Se espera que las próximas elecciones en nuestro país sean realizadas con total transparencia y con el mejor espíritu democrático y patriótico, pues aspiramos a que exista una alta sensibilidad en ese sentido por parte de los aspirantes al solio presidencial y también para el caso de los asambleístas nacionales y provinciales.
+
+Resulta muy difícil que entre 16 aspirantes a la presidencia y vicepresidencia se pueda seleccionar el binomio que mejor se identifique con los requerimientos nacionales y que tenga los méritos y capacidades para que pueda ser electo. Se aspira a que los candidatos presenten planes de gobierno muy claros y concretos que ilustren debidamente a la ciudadanía y faciliten su escogitamiento.
+
+Se considera de acuerdo a las encuestas y por los antecedentes anteriores que lo más probable es que puedan pasar a la segunda vuelta, nuestro actual mandatario Daniel Noboa y la candidata Luisa González y de ser así se medirían esas dos fuerzas políticas, salvo que apareciera algún outsider como ha  ocurrido en eventos anteriores, quizás Jan Topic, Henry Kronfle o Henry Cucalón, no sabemos a ciencia cierta quién podría ser.
+
+En el caso de Estados Unidos se dirimiría esta contienda electoral de elección de Presidente, entre el expresidente Donald Trump del partido republicano y la actual vicepresidenta Kamala Harris del partido demócrata. Las encuestan le dan una ligera ventaja a la candidata demócrata, pero asimismo cómo en Ecuador, no sé puede saber con exactitud, pues todo puede decidirse el momento propiamente de las elecciones.
+
+Aspiro a que tanto en nuestro país como en Estados Unidos estas próximas elecciones nos den muestras fehacientes de la vocación democrática de estas dos naciones, donde debe primar esa coherencia y lucidez en los votantes para su decisión más adecuada, aclarando que en Estados Unidos quien elige propiamente un binomio presidencial es de acuerdo a los votos de los delegados de cada Estado, es decir aunque un candidato o candidata tuviera mayoría de la votación de la población, tendría que tenerlo también de la mayoría de estos delegados estatales. 
+
+Hernán Patricio Orcés Salvador
+
+País monotemático
+=================
+
+La justicia debe ejercer su autoridad para identificar todo delito y para castigar sin miramientos a los culpables, aplicando el debido proceso y con independencia.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
+
+La **crisis multidimensional** que enfrenta el país se ve agravada por la falta de un **horizonte** al cual dirigirse. No se ha construido un **objetivo nacional** que reúna en su torno a los **ecuatorianos**, un  **paradigma**  que signifique la recuperación de la plena **vigencia** de la **democracia** en condiciones de vida dignas para la mayoría de **ecuatorianos**,
+
+La **crisis económica**, la **inseguridad**, la **corrupción**, el narco tráfico no aparecen como generación espontánea. Resultan de una **crisis social** que engloba al mundo entero, reforzada por la **globalización**, con sus **cambios** **profundos** en el devenir social, que ha arropado la fracasada **ideología neoliberal** y ha promovido la **unicidad** cultural. La **tecnología**, con su espectacular **desarrollo**, se ha convertido en un elemento al que la **sociedad** debe adaptarse por sobre sus reales **capacidades**, intereses y **necesidades**.
+
+El país ha entrado en esa **vorágine** y la **conciencia social** sobre los **problemas** de fondo  se ha desvanecido en favor de un **maniqueísmo** que inunda a todos los **sectores nacionales**. Se ha construido con habilidad la **identificación** de un único y poderoso problema para el **país**, al que hay que derrotarlo y sepultarlo. Se ha abandonado la mira de los **problemas estructurales** que han llevado al país a una situación de **desesperanza** y se ha fomentado el odio, la **división** en dos bandos, siempre enarbolando la necesidad de **destrucción** en lugar de la **unión nacional** para salir adelante.
+
+La **construcción** de un **pensamiento** que oriente a enfrentar, por sus causas, los graves **problemas sociales** ha cedido el paso a  los análisis de la más baja calidad **intelectual**, diseñados por **estrategias** que utilizan todos los medios posibles para acrecentar el **pánico** ante el peligro de un **enemigo** creado. Los grupos que enarbolan con **estridencia** ideas de progreso y **democracia**, no constituyen otra cosa que los baluartes del **privilegio**, que solo sirven para cubrir los peores intereses. Y de otro lado, existen simples afanes **demoledores** y **revanchistas**, sin interés  por la **construcción** de un orden que afirme las **garantías** que la democracia debe asegurar para el disfrute de la **libertad**, la justicia, la paz y el **bienestar económico** de la población.
+
+Los **gobiernos** inmediatos anteriores han enfilado su **artillería** para acusar y no para gobernar en función de los **intereses nacionales**. Los sectores llamados a buscar la verdad en el origen de los **problemas sociales** y ofrecer alternativas para encontrar un nuevo derrotero han desaparecido en la **obscuridad** del **silencio** y del miedo. Se ha instaurado una verdad oficial expandida con la repetición cansina en las **redes sociales**, que se han convertido en la **fuerza** más **poderosa** para crear opinión, difundiendo criterios superficiales y acomodaticios, que solo se mueven al compás de **circunstancias** pasajeras.
+
+La **justicia** debe ejercer su autoridad para identificar todo delito y para castigar sin miramientos a los **culpables**, aplicando el debido **proceso** y con **independencia**. El gobierno, en cambio, debe trabajar hacia la **construcción** de un mejor futuro, constituyéndose en el referente ante la **sociedad**, por su entrega a las causas más nobles, con la determinación de nuevos rumbos, de nuevos criterios, de nuevas razones de seguir adelante.
+
+Es hora no solamente de la unidad en torno a la **construcción** de un **proyecto nacional**, sino del abandono de las **viejas prácticas** de los **políticos demagogos** y **corruptos**.
+
+Los incendios forestales son otra alerta para la sociedad en general
+====================================================================
+
+La prevención y control de incendios forestales requieren colaboración entre autoridades, empresas y ciudadanos.
+----------------------------------------------------------------------------------------------------------------
+
+![La colaboración entre autoridades, empresas y ciudadanos es clave para prevenir incendios forestales efectivos.](https://www.elcomercio.com/wp-content/uploads/2024/09/Incendio-Cerro-de-Auqui-scaled.jpg)
+
+Quito ha estado en alerta por los incendios forestales por varias semanas. Los **Bomberos** aseguran que la cifra supera los 300 y van en aumento. La última semana puede ser una de las más alarmantes, al punto que se declaró a la capital en emergencia.
+
+Seguramente, las autoridades locales y nacionales -una vez que pase el pico de la emergencia; sacarán lecciones. Sin embargo, es necesario que la institucionalidad prevalezca; que se tomen decisiones técnicas sin un ápice de tinte político/electoral maniqueo. Todo lo contrario, debe pensarse responsablemente en el futuro de la ciudad y el país.
+
+> Los incendios forestales representan una de las amenazas más graves para el medioambiente y la seguridad humana en todo el mundo. La magnitud de estos desastres ha llevado a diversas naciones a implementar estrategias innovadoras que van desde el uso de tecnología avanzada hasta la colaboración entre sectores.
+
+Las autoridades gubernamentales son fundamentales en la creación de políticas y estrategias para la prevención y control de incendios. En países como **Canadá**, se ha establecido un Sistema Espacial de Gestión de Incendios (SFMS) que monitorea y predice el comportamiento de los incendios utilizando datos históricos y meteorológicos[](https://www.wipo.int/wipo_magazine/es/2009/04/article_0008.html). Este enfoque permite a los servicios de extinción tomar decisiones informadas sobre medidas preventivas.
+
+En **Australia**, el gobierno utiliza un helicóptero conocido como “Elvis” para bombear agua en áreas afectadas por incendios, destacando la importancia de la tecnología en las operaciones de extinción[](https://www.wipo.int/wipo_magazine/es/2009/04/article_0008.html). Además, sistemas como Firehawk, que detectan humo y calor a distancias significativas, han sido implementados con éxito en Sudáfrica y California.
+
+Las empresas privadas desempeñan un papel crucial en la innovación tecnológica para combatir incendios forestales. Proyectos como **PROMETEO** en España buscan optimizar recursos mediante el desarrollo de nuevas tecnologías que minimicen riesgos[](https://www.indracompany.com/es/indra/prometeo-tecnologias-combate-integral-incendios-forestales-conservacion-bosques). Además, compañías como Indra están trabajando en soluciones integrales que abarcan desde la prevención hasta la restauración posincendio[](https://www.indracompany.com/es/indra/prometeo-tecnologias-combate-integral-incendios-forestales-conservacion-bosques).
+
+La inteligencia artificial (IA) también está revolucionando la forma en que se gestionan los incendios. Modelos predictivos basados en datos históricos ayudan a identificar áreas con mayor riesgo, mientras que drones equipados con cámaras térmicas permiten una detección temprana[](https://agforest.ai/prevencion-incendios-inteligencia-artificial/)[](https://www.euroinnova.com/blog/nuevas-tecnologias-contra-incendios). Estas herramientas son esenciales para una respuesta rápida y efectiva ante emergencias. A través de la recopilación y el análisis de esos datos históricos, meteorológicos y geoespaciales, la IA puede identificar patrones que indican un mayor riesgo de incendio, como la presencia de vegetación seca o condiciones climáticas adversas.
+
+El uso de las cámaras y drones equipados con tecnología de IA ayuda a detectar rápidamente señales de humo o fuego y permite una respuesta más ágil. Herramientas como simuladores de expansión de incendios ayudan a prever cómo se propagará un incendio bajo diferentes condiciones, optimizando así las estrategias de intervención. Estas innovaciones no solo mejoran la detección temprana, sino que también facilitan una gestión más eficiente de los recursos durante las emergencias[](https://sigmaearth.com/es/from-drones-to-ai-cutting-edge-technologies-in-wildfire-prevention/)
+
+La participación ciudadana es vital para la prevención de incendios. Programas educativos que fomentan prácticas responsables, como la limpieza de áreas forestales y el reporte inmediato de humo o llamas, son esenciales. En algunos países, voluntarios se organizan para ayudar en tareas de vigilancia y extinción durante temporadas críticas.
+
+En Quito, como en muchas otras ciudades afectadas por incendios forestales, es crucial establecer un enfoque claro para evitar el uso político de estas emergencias. Las autoridades deben priorizar la transparencia en la gestión de recursos y asegurar que las decisiones se tomen basadas en evidencia científica más que en intereses políticos. Es necesario que los gobiernos entiendan que se requieren programas educativos que sensibilicen a la población sobre prácticas preventivas.
+
+Asimismo, se debe promover alianzas entre gobiernos, empresas privadas y comunidades locales para crear un frente unido contra los incendios. También, aumentar los fondos destinados a investigación y desarrollo tecnológico enfocado en prevención y extinción. Y, finalmente, incluir a comunidades locales en la toma de decisiones relacionadas con la gestión del riesgo.
+
+La lucha contra los incendios forestales es un esfuerzo colectivo que requiere la colaboración entre autoridades, empresas privadas y ciudadanos. A medida que enfrentamos un futuro marcado por el cambio climático, es esencial adoptar enfoques integrales e innovadores que combinen tecnología avanzada con una participación activa de todos los sectores. En Quito, es fundamental establecer mecanismos claros que eviten el uso político de emergencias, asegurando así una gestión eficiente y responsable ante esta creciente amenaza.
+
+La crisis energética (parte 1) 
+===============================
+
+Los autoconsumidores deberían poder saber qué tipo de energía escogen, de acuerdo a la dinámica de su negocio y en la capacidad que ellos consideren necesaria.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+Cuando todavía prevalecen **modelos** que incluyen conceptos caducos como los mal llamados **sectores estratégicos** cuando lo estratégico es la disponibilidad o **carencia** del insumo. Me disculpo con mis amables lectores por repetir este **concepto** que no parece poder ser asimilado por los **políticos** ni anteriores ni de **época reciente** en el último medio siglo. Esto es un mal heredado que parece como un **gen maligno** incorporado al ADN de la **burocracia** y difícil de **erradicar**.
+
+Este concepto **constitucional** se traduce negativamente en la **legislación** y los **reglamentos** que vienen afectando por **décadas** el **desarrollo** y también la vida cotidiana. ¿Por qué?
+
+Por qué la clase **política,** independiente de su **tendencia**, antepone sus **intereses** a las necesidades reales del país y menos aún entiende lo que son los **planes prospectivos** como los ejecutan los países desarrollados. No se debe hacer una cantidad de **estudios** que quedan acumulando polvo en las repisas de las **entidades públicas**, donde cada **gobierno** malgasta **recursos** nuevamente en más estudios sino planes no a 10 o 20 años, sino de 30 a 50 años mínimo para señalar una **hoja** de **ruta** que se va ajustando por las autoridades de turno acorde con los **avances técnicos**, donde se ajustan las velas y el **timón** según el viento y la **corriente** de la época para conseguir de mejor manera llegar a buen **puerto**. Este destino se llama **desarrollo**.
+
+No podemos tener mejor ejemplo que la **Ley Orgánica** de **Competitividad Energética** que entró en vigencia en enero 2024, también **irónicamente** llamada la “Ley de no más apagones”; menudo chasco, que en menos de medio año se puede decir que no vio la **luz** primera, pues nació maniatada con la **aprobación** de 131 de los 136 **asambleístas** presentes. En otras palabras, craso error de la gran mayoría, pues antes de promulgarse esta ley el **límite** para cualquier **proyecto** de **energía renovable**, biomasa, eólica, solar, **hidroeléctrica**, geotérmica permitía hasta 50 MW y actualmente con esta ley el límite para autoconsumidores se redujo a máximo 10 MW; un absurdo cuando hay muchas **empresas** que pueden necesitar más que los 10 MW de **energía** instalada y solo el **sector** **camaronero** en su **transformación energética** para dejar de **consumir Diesel** necesita cerca de 2500 MW.
+
+Ciertamente, el **sector minero** necesita proyectos grandes. Peor aún es que esta autorización esté direcciona solo a **energías renovables,** sin considerar que en algunos casos no está disponible más que a ciertas horas del día, como el caso de la **solar** y la **eólica**, y muchas de estas **actividades empresariales** necesita energía 24/7. Como son las **industrias** del **cemento**, **vidrio**, **plástico**, **acuacultura**, **turística** y **alimentos,** entre otras. En el caso de las **camaroneras** necesitan un horario variable tanto para la alimentación como para el **bombeo** que depende de las **mareas** y estas varían de acuerdo con el ciclo de la luna. No se puede legislar temas como estos con personas improvisadas, sino con conocedores de la **materia** en consideración. (Estar bien informados)
+
+En realidad, los **autoconsumidores** deberían poder saber qué tipo de **energía** escogen, incluso gas, HFO u otro **combustible**, de acuerdo a la dinámica de su **negocio** y en la **capacidad** que ellos consideren necesaria. También debe permitirse asociación de **autoconsumidores** para el **desarrollo** de **proyectos** conjuntos de mayor capacidad, acompañados de **profesionales** del ramo, ya que la mayoría de los **empresarios** conocen su campo de **actividad**, pero no conocen nada del **sector eléctrico** y tampoco podrían lograr las **eficiencias** de **escalas** requeridas en una **época** tan **competitiva** como la presente.
+
+Quito cada vez tiene menos agua, pero se consume más
+====================================================
+
+Las reservas de agua para Quito cambiaron por la sequía prolongada en el país.
+------------------------------------------------------------------------------
+
+![En Quito se realiza racionamientos de agua con tanqueros.](https://www.elcomercio.com/wp-content/uploads/2024/09/Agua-potable-en-Quito.jpg)
+
+Ecuador atraviesa por una intensa sequía que obligó a imponer los cortes de luz a escala nacional y a hacer **racionamientos** de **agua** en **Quito**[.](https://es.wikipedia.org/wiki/Agua_potable "https://es.wikipedia.org/wiki/Agua_potable")
+
+Más noticias
+------------
+
+* [Este es el cronograma de abastecimiento de agua en Quito](https://www.elcomercio.com/actualidad/quito/abastecimiento-agua-potable-quito-lluvia.html "Este es el cronograma de abastecimiento de agua en Quito")
+* [Consejos para ahorrar agua durante la época seca en Quito](https://www.elcomercio.com/actualidad/quito/agua-equia-consejo-cuidado-abastecimiento.html "Consejos para ahorrar agua durante la época seca en Quito")
+* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
+
+Estos **racionamientos** de **agua** se iniciaron desde el 16 de septiembre de 2024 en las zonas del centro y sur de Quito. Desde el 23 de septiembre, esta medida contempla cortes de 07:00 a 19:00 en algunos sectores, mientras que, en otros, se dan de 19:00 a 07:00.
+
+Sectores más afectados por los racionamientos de agua en Quito
+--------------------------------------------------------------
+
+**Mirely** **Segovia**, jefa de Producción de la Empresa Pública Metropolitana de Agua Potable y Saneamiento (**Epmaps**), explicó a EL COMERCIO, los racionamientos afectan más a los sectores altos y alejados de Quito.
+
+Esto se debe a que las bombas no tienen la potencia suficiente para enviar el agua a estos puntos.
+
+**Rafael** **Osorio**, jefe de Recursos Hídricos de la **Epmaps**, mencionó a EL COMERCIO que el agua de Quito proviene principalmente de los **páramos**.
+
+Gracias a las características de los suelos y piedras de estos ecosistemas, se retiene el agua que luego alimenta los **ríos** **de la capital.**
+
+Además, aseguró que se mantienen bajo protección alrededor de 150 000 hectáreas de páramos, conocidos como ‘colchones de agua’. Estos permiten garantizar el **suministro** de agua para la mayoría de **las familias** **quiteñas**.
+
+Estos páramos dependen de las **lluvias**, que no han caído en la capital desde hace más de 40 días.
+
+A pesar de la gravedad de la sequía, **Osorio** destacó que “no sufrimos de desabastecimiento gracias a las acciones de conservación que hemos realizado durante años en las cuencas hídricas. Actualmente, estamos viviendo de los ahorros de agua”.
+
+Impacto de la sequía en el suministro de agua
+---------------------------------------------
+
+El Sistema de Conducciones Occidentales registra 0 litros de lluvia en septiembre, cuando lo usual es recibir 60 litros por metro cuadrado. Este sistema capta las aguas de los cerros **Atacazo**, **Lloa** y **Pichincha** y abastece a las plantas de **El** **Placer**, **Toctiuco** y **Chilibulo**.
+
+Las fuentes que provienen de la región oriental también están afectadas, con solo 14 litros de los 70 en promedio.
+
+En el caso del río **Pita**, que abastece a la planta **Puengasí**, el caudal disminuyó en 300 litros por segundo desde el inicio de la sequía.
+
+**Mirely** **Segovia** advirtió que “cada día evidenciamos una pérdida de caudal entre 10 y 20 litros por segundo diarios. De continuar así, la situación se va a tornar más crítica”. Los barrios que dependen de esta planta, que suman alrededor de 146.000 personas, ya están siendo afectados por los racionamientos.
+
+Incremento en el consumo de agua en Quito
+-----------------------------------------
+
+La ausencia de lluvias y las altas temperaturas provocan un aumento en el consumo de agua en la ciudad por parte de los ciudadanos.
+
+Mirely Segovia indicó que el **consumo** **promedio** por habitante en **Quito** es de 160 litros al día, pero durante esta época seca aumentó hasta **220 litros por día.** Esto hace que se emitan recomendaciones para consumir solo el agua necesaria para la salud, higiene y alimentación.
+
+**Rafael** **Osorio** añadió que, debido a los cortes de **energía** **eléctrica**, la recuperación del suministro de agua es más lenta en algunas partes altas de la ciudad. Sucede, especialmente en la zona norte, donde el agua llega mediante sistemas de bombeo.
+
+“Mientras más dure la suspensión de energía, más demora la recuperación del agua potable”, señaló la Epmaps en un comunicado.
+
+Jueza se pronunció sobre nuevo recurso de Jorge Glas para salir de La Roca
+==========================================================================
+
+Jorge Glas hizo un nuevo intento por salir de La Roca, a través de una acción de protección.
+--------------------------------------------------------------------------------------------
+
+![Jorge Glas está preso en La Roca desde abril de 2024 y presentó una nueva acción de protección.](https://www.elcomercio.com/wp-content/uploads/2024/08/jorge-glas-1.jpg)
+
+Una **jueza** se pronunció sobre un nuevo recurso presentado por el exvicepresidente **Jorge Glas** para salir de **La Roca**[.](https://es.wikipedia.org/wiki/Jorge_Glas)
+
+El pasado 20 de septiembre de 2024, Glas hizo un nuevo intento para conseguir su **excarcelación** y otros beneficios.
+
+### Más noticias:
+
+* [Jorge Glas tuvo una respuesta sobre la solicitud de su habeas corpus](https://www.elcomercio.com/actualidad/politica/jorge-glas-tuvo-respuesta-sobre-solicitud-habeas-corpus.html "Jorge Glas tuvo una respuesta sobre la solicitud de su habeas corpus")
+* [Jorge Glas habló de su estado de salud en la audiencia de habeas corpus](https://www.elcomercio.com/actualidad/politica/jorge-glas-salud-habeas-corpus-apelacion.html "Jorge Glas habló de su estado de salud en la audiencia de habeas corpus")
+
+Jorge Glas ha hecho varios intentos por salir de La Roca, a través de solicitudes de habeas corpus.
+
+Todos le han sido negados por los juzgadores o tribunales que han conocido estos recursos.
+
+Glas está recluido en La Roca desde abril de este año, tras una incursión policial en la **Embajada de México.**
+
+Glas, procesado y sentenciado por varios casos de corrupción, ha argumentado, principalmente, un **estado de salud crítico**, para salir.
+
+Sin embargo, los organismos estatales han respondido con la negativa a estas aspiraciones.
+
+Jueza se pronuncia sobre nuevo recurso de Jorge Glas para salir de La Roca
+--------------------------------------------------------------------------
+
+El pasado 20 de septiembre, Glas presentó una acción de protección para lograr su excarcelación y un salvoconducto.
+
+La acción de protección es contra el presidente **Daniel Noboa**, la canciller **Gabriela Sommerfeld** y el procurador general del Estado, **Carlos Larrea**.
+
+Glas basó su pedido en las solicitudes que el Gobierno de México ha hecho desde abril de este año a Ecuador.
+
+En la acción de protección, Glas insistió en que México pidió un salvoconducto a Ecuador para él, en calidad de asilado político, el 5 de abril.
+
+El exvicepresidente cita que México pidió que “sea excarcelado y custodiado en un lugar seguro, en atención al crítico estado de salud que reporta”.
+
+La jueza **Gioconda Ortega** respondió a esta solicitud el miércoles 25 de septiembre de 2024.
+
+Ortega señaló que emitió un auto de inadmisión por no ser competente “en razón del territorio para conocer los hechos suscitados en la petición inicial”.
+
+Corte de Justicia decidió sobre autoridades de la UCE; ¿qué pasará con Patricio Espinosa?
+=========================================================================================
+
+La decisión sobre las elecciones de autoridades en la Universidad Central del Ecuador se conoció luego de siete meses.
+----------------------------------------------------------------------------------------------------------------------
+
+![Patricio Espinosa es médico y profesor de la Universidad Central del Ecuador por más de 40 años](https://www.elcomercio.com/wp-content/uploads/2024/09/uce-espinosa-a.jpg)
+
+La Corte Provincial de Justicia de Pichincha tomó una decisión sobre la **acción de protección** presentada por las autoridades de la Universidad Central del Ecuador (**UCE**).
+
+El rector **Patricio Espinosa** y otros tres Vicerrectores solicitaron la medida legal tras el pedido del Consejo de Educación Superior (**CES**) de repetir las elecciones.
+
+### Más noticias
+
+* [El puente peatonal de la Universidad Central será derrocado](https://www.elcomercio.com/actualidad/quito/puente-peatonal-universidad-central-ecuador-quito.html "El puente peatonal de la Universidad Central será derrocado")
+* [Donaciones y concierto para los afectados de incendios forestales en Quito](https://www.elcomercio.com/actualidad/quito/donaciones-concierto-solidaridad-afectados-incendio-quito.html "Donaciones y concierto para los afectados de incendios forestales en Quito")
+* [Seis aplicaciones útiles para estudiantes](https://www.elcomercio.com/tecnologia/aplicaciones-estudiantes-tecnologia-apps.html "Seis aplicaciones útiles para estudiantes ")
+
+Elecciones de autoridades en la UCE
+-----------------------------------
+
+La universidad pública realizó las **elecciones** para autoridades entre enero y febrero de 2024; la segunda vuelta dio como ganador a **Espinosa**.
+
+Unos días después, el 7 de marzo, el Consejo de Educación Superior (**CES**) recibió una denuncia por presuntas irregularidades en el proceso.
+
+Tras un informe ampliatorio elaborado por la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (**Senescyt)**, donde se hacía referencia a que la elección democrática incumplió varias normativas, el CES dictaminó que se debían repetir las **votaciones**.
+
+Esta decisión fue adoptada el 22 de mayo y reafirmada el 8 de julio.
+
+Fallo a favor de Espinoza
+-------------------------
+
+El trámite se complicó por pedidos legales de lado y lado; finalmente, este miércoles 25 de septiembre de 2024, la Sala Especializada de lo Civil y Mercantil de la Corte Provincial **falló a favor de Espinosa**.
+
+Con la aceptación de la acción de protección, las siguientes autoridades estarán al frente de la UCE hasta **2029**:
+
+* **Patricio Espinosa**, rector
+* **Mercy Logroño**, vicerrectora Académica y de Posgrado
+* **Katherine Zurita**, vicerrectora de Investigación, Doctorados e Innovación; y
+* **Silvio Toscano**, vicerrector Administrativo y Financiero
+
+Medidas de reparación integral
+------------------------------
+
+El documento también dictó dos **medidas de reparación integral** en favor de las autoridades.
+
+La primera deja sin efecto las resoluciones del 22 de mayo y del 8 de julio, donde se pedía la repetición de las elecciones.
+
+Mientras que la segunda exige una **garantía de no repetición** que dispone que el CES y las Senescyt se abstengan de emitir cualquier tipo de acto que busque desconocer las elecciones o de cuestionar a los funcionarios electos.
+
+> 📌 [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw)  
+> La Corte Provincial de Justicia falla a favor de la Universidad Central del Ecuador [@teleamazonasec](https://twitter.com/teleamazonasec?ref_src=twsrc%5Etfw) [@Noticias\_TVC](https://twitter.com/Noticias_TVC?ref_src=twsrc%5Etfw) [pic.twitter.com/bcZHPPN6oY](https://t.co/bcZHPPN6oY)
+> 
+> — Universidad Central del Ecuador (@lacentralec) [September 25, 2024](https://twitter.com/lacentralec/status/1839086218887209031?ref_src=twsrc%5Etfw)
+
+Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes
+==============================================================================
+
+En el caso Purga, Pablo Muentes busca, con un habeas corpus correctivo, salir de La Roca y lograr arresto domiciliario.
+-----------------------------------------------------------------------------------------------------------------------
+
+![El exasambleísta del PSC, Pablo Muentes, procesado en el caso Purga, solicitó otro habeas corpus.](https://www.elcomercio.com/wp-content/uploads/2024/04/Muentes-web.jpg)
+
+En el **caso Purga**, un tribunal de la **Corte Nacional de Justicia (CNJ)** dejó en suspenso la decisión sobre el **habeas corpus correctivo**, presentado por **Pablo Muentes**, **exasambleísta del PSC**.
+
+Pablo Muentes insiste en su solicitud de salir de La Roca y que se le otorgue arresto domiciliario. La **Fiscalía** investiga el delito de delincuencia organizada y procesa a 25 personas en el caso Purga.
+
+### Más noticias:
+
+* [Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-resuelve-pedido-sustitucion-prision-preventiva-pablo-muentes.html "Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros")
+* [Caso Purga: Fabiola Gallardo solicitó sustitución de prisión preventiva](https://www.elcomercio.com/actualidad/seguridad/caso-purga-fabiola-gallardo-solicito-sustitucion-de-prision-preventiva.html "Caso Purga: Fabiola Gallardo solicitó sustitución de prisión preventiva")
+
+El caso Purga surge del **caso Metástasis**, cuando la Fiscalía General del Estado encuentra elementos suficientes para investigar a varias autoridades.
+
+La Fiscalía investiga al exasambleísta del PSC, Pablo Muentes y a la expresidenta de la Corte de Justicia de Guayas, **Fabiola Gallardo**, por delincuencia organizada.
+
+Además, al personal administrativo de la Dirección del **Consejo de la Judicatura** de esa jurisdicción.
+
+Esta red habría favorecido intereses individuales e incluso del **narcotráfico**.
+
+La Fiscalía señala que la organización usó el poder político legislativo para pervertir el poder judicial.
+
+Esto, con el fin de favorecer a criminales como **alias ‘Fito’**, prófugo y líder de **Los Choneros**.
+
+Caso Purga: las pruebas de Pablo Muentes para el habeas corpus y las respuestas del SNAI y el MSP
+-------------------------------------------------------------------------------------------------
+
+Pablo Muentes pidió salir de La Roca y sustituir la prisión preventiva con arresto domiciliario.
+
+Muentes expresó que no sale de su celda porque es **amenazado** y teme por su vida.
+
+El exasambleísta está en La Roca desde el 4 de marzo de este año y ha intentado salir varias ocasiones.
+
+Otro argumento de la defensa y de Muentes es que ha pedido **40 libras de peso** y su salud se ha deteriorado.
+
+Sufre **taquicardia, falta de oxígeno** y no tiene acceso a **atención médica.**
+
+Sin embargo, el representante del **Servicio de Atención a Personas Privadas de la Libertad y Adolescentes Infractores (SNAI)** señaló que La Roca garantiza el derecho a la salud física y psíquica de Muentes.
+
+Además, no ha existido ninguna alerta notificada al centro penitenciario sobre un posible atentado contra la vida del exasambleísta.
+
+Solicitó rechazar la solicitud de habeas corpus.
+
+La defensa de Muentes, **Diego Chimbo**, cuestionó la actuación del juez Javier de la Cadena a cargo del caso Purga y los informes del SNAI
+
+Chimbo hizo alusión a un supuesto informe “reservado” de la Armada, que circula en redes sociales, en el que consta un posible atentado planificado por Los Lobos contra Muentes.
+
+El abogado aseguró que este informe ha sido ocultado por las autoridades.
+
+Sin embargo, el SNAI rechazó ese informe como prueba porque no ha sido anunciada previamente.
+
+En tanto, la **Procuraduría** desvirtuó las pruebas presentadas por la defensa de Muentes y que, si se trata de un informe reservado, se debe verificar.
+
+El representante del **Ministerio de Salud Pública** (MSP) expresó que, según los informes, Muentes tiene atención médica y psicológica, y acceso a medicamentos.
+
+Chimbo pidió al juez ponente pedir el informe a la Armada.
+
+Caso Purga: Pablo Muentes dice que le van a matar, para conseguir el habeas corpus
+----------------------------------------------------------------------------------
+
+Finalmente, Pablo Muentes intervino y dijo que el SNAI miente, que no tiene atención médica, que está con las personas más peligrosas del país y su vida corre riesgo.
+
+**“Mi vida está en peligro, las amenazas empiezan más fuertes, me van a matar aquí adentro, señor magistrado”**, dijo.
+
+Muentes dijo que tiene el cerebro “despedazado” y está mal de los nervios.
+
+Además, que le amenazaron de muerte si no deposita dinero en una cuenta, en alta voz.
+
+El Tribunal, conformado por los jueces Diego Gordillo, Rosa González y Gustavo Durango decidió suspender la audiencia para el viernes 27 de septiembre, a las 11:00, para deliberar.
+
+Alan Franco, el único ecuatoriano en carrera por Copa Libertadores
+==================================================================
+
+Alan Franco es el único futbolista ecuatoriano que sigue en la Copa Libertadores tras la salida de Gonzalo Plata y Robert Arboleda.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Alan Franco en las semifinales con Atlético Mineiro en la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-26T214157.721.jpg)
+
+**River Plate, Atlético Mineiro, Peñarol y Botafogo** lucharán por la corona de Fluminense, el campeón de la Copa Libertadores 2023 que se despidió del torneo al caer en los cuartos de final. El único jugador ecuatoriano que sigue en competencia es **Alan Franco**, quien milita en el Mineiro.
+
+El verdugo del ‘Flu’ fue otro rey del certamen, **Atlético Mineiro**, que logró la épica el miércoles al darle vuelta al marcador y vencer por 2-0 en casa y darle la estocada final al equipo de Mano Menezes. **Alan Franco** fue una de las figuras.
+
+### Más noticias:
+
+* [Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-atletico-mineiro-copa-libertadores.html "Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores")
+* [Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-gonzalo-plata-eliminacion-copa-libertadores.html "Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores")
+* [Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores](https://www.elcomercio.com/deportes/diego-aguirre-aucas-penarol-copa-libertadores.html "Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores")
+
+De los cinco equipos brasileños que estaban entre los ocho mejores, avanzaron dos a las semifinales que comenzarán el 22 de octubre. A estos les prometen dar batalla un argentino y un uruguayo, **River Plate y Peñarol**, también con estela de reyes.
+
+Entre los eliminados estuvieron dos ecuatorianos. **Robert Arboleda** se despidió del certamen con el Sao Paulo y Gonzalo Plata con el Flamengo.
+
+Atlético Mineiro venció al campeón de la Copa Libertadores 2023
+---------------------------------------------------------------
+
+**Deyverson**, con dos goles decisivos, mandó el miércoles a casa a Fluminense, campeón de la Copa Libertadores 2023, y metió al **Atlético Mineiro** en las semifinales, donde se medirá con **River Plate**.
+
+El doblete de **Deyverson** a los 50 y 89 minutos le dio la vuelta ‘in extremis’ a la derrota por 1-0 que el Mineiro encajó la semana pasada en el Maracaná.
+
+Y eso que el equipo que dirige el argentino **Gabriel Milito** pudo irse arriba sin tanto sufrimiento cuando en el minuto 7 **Hulk** falló un penalti por mano del colombiano **Jhon Arias**, pero el portero **Fábio** adivinó el lado y detuvo el lanzamiento.
+
+El ‘Flu’ ahora tendrá que centrarse en **no descender** a la segunda división del Campeonato Brasileño.
+
+Los penaltis le dieron vida a Botafogo y Robert Arboleda quedó fuera
+--------------------------------------------------------------------
+
+**Botafogo**, del técnico portugués Artur Jorge, silenció el Morumbí tras eliminar a São Paulo del argentino **Luis Zubeldía** en la tanda de penaltis (4-5), después del 1-1 en los 90 minutos, y se plantó en unas semifinales de la Copa Libertadores 51 años después, ronda en la que se medirá con Peñarol.
+
+El argentino **Thiago Almada** adelantó al equipo de Río de Janeiro en el minuto 15, pero su compatriota **Jonathan Calleri** dejó todo igual en el 87 y llevó a los penaltis esta serie entre equipos brasileños que venían de empatar sin goles en la ida.
+
+El propio **Calleri**, que estrelló su lanzamiento al palo, y **Rodrigo Nestor**, que no superó al guardameta John, fallaron y le dieron la clasificación a un Botafogo que no pisaba unas semifinales de Libertadores desde 1973 y que es, además, líder en la Liga brasileña.
+
+Final cruel para São Paulo, tres veces campeón del máximo torneo de clubes en América, que erró con **Lucas Moura** un penalti en el tiempo reglamentario.
+
+Peñarol noquea a Flamengo con Gonzalo Plata
+-------------------------------------------
+
+Al uruguayo **Peñarol**, pentacampeón del torneo, le bastó el gol que logró en el partido de ida en el que se impuso en el Maracaná por 0-1 para enviar a la cuneta al **Flamengo** de Tite.
+
+En una serie que enfrentaba a dos de los más ganadores de la **Copa Libertadores**, pues Flamengo es tricampeón, el equipo de **Diego Aguirre** manejó con inteligencia en Montevideo la ventaja de su ‘Maracanazo’ y consiguió un empate 0-0 este jueves que le dio el pase a la semifinal[.](https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica")
+
+Como en los viejos tiempos, el club charrúa sacó su casta, volvió a reconciliarse con la historia y celebró por todo lo alto en la cancha y en las graderías del **estadio Campeón del Siglo**.
+
+River vuelve a semis a costa de Colo Colo
+-----------------------------------------
+
+Con un gol de Facundo Colidio, **River Plate** selló el pasaporte a las semifinales de la Copa Libertadores luego de cuatro años y se enfrentará por el pase a la final con Atlético Mineiro.
+
+En el minuto 16 una jugada de pelota quieta derivó en un centro cruzado para la llegada en solitario de **Colidio** para marcar el único tanto del encuentro luego del 1-1 del partido de ida en Santiago.
+
+River ha sido campeón continental en 1986, 1996, 2015 y 2018, mientras que su rival en la semifinal, **Atlético Mineiro**, se coronó en 2013.
+
+¿Cómo son los cruces de semifinales de la Copa Libertadores?
+------------------------------------------------------------
+
+Atlético Mineiro (BRA) vs. River Plate (ARG)
+
+Botafogo (BRA) vs. Peñarol (URU)
+
+Extécnico de Aucas, a dos pasos de ganar la Copa Libertadores
+=============================================================
+
+Peñarol llegó a las semifinales de la Copa Libertadores al eliminar a Flamengo de la mano de Diego Aguirre, exDT de Aucas.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Diego Aguirre durante su etapa como DT de Aucas durante el 2006.](https://www.elcomercio.com/wp-content/uploads/2024/09/1102655.jpg)
+
+La **Copa Libertadores** ya tiene a sus semifinalistas definidos y un DT que pasó por el fútbol ecuatoriano hace casi dos décadas está presente. En la penúltima fase del máximo torneo de clubes de América se medirá **River Plate** ante **Atlético Mineiro** y **Peñarol** ante **Botafogo**.
+
+El último clasificado a las semifinales de la competencia fue **Peñarol** tras imponerse a **Flamengo**. La escuadra carbonera consiguió el pase hacia la siguiente ronda tras vencer al elenco carioca como visitante por 1-0 e igualar en casa **sin goles.**
+
+### Más noticias:
+
+* [Aucas rompió una extraordinaria racha en Liga Pro](https://www.elcomercio.com/deportes/aucas-cumbaya-racha-victoria-liga-pro.html "Aucas rompió una extraordinaria racha en Liga Pro")
+* [Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-gonzalo-plata-eliminacion-copa-libertadores.html "Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores")
+* [Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-atletico-mineiro-copa-libertadores.html "Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores")
+
+Uno de los artífices del éxito del equipo uruguayo en la **Copa Libertadores** es su DT **Diego Aguirre**. El charrúa llegó a la escuadra aurinegra para vivir su tercer ciclo a cargo de esta, pues antes lo hizo entre 2003 y 2004 y entre 2010 y 2011.
+
+Las etapas de **Aguirre con Peñarol** son muestra de su dilatada trayectoria, la cual también es surtida y acumula un total de 17 clubes. Entre las escuadras a las que el uruguayo ha dirigido se encuentra Aucas, club en el que estuvo en 2006.
+
+Diego Aguirre, Aucas y una corta historia
+-----------------------------------------
+
+Para Diego Aguirre, **Aucas** fue una de sus experiencias iniciales como entrenador. Tras haber debutado en Plaza Colonia en 2002 y luego dirigir a **Peñarol** por primera vez, este fue contactado para liderar a Aucas en el 2006.
+
+El estratega charrúa arribó en **enero del 2006** y permaneció hasta el cierre de marzo del mismo año. Este fue destituido del elenco oriental debido a **malos resultados** en los tres meses que estuvo a cargo del equipo[.](https://es.wikipedia.org/wiki/Sociedad_Deportiva_Aucas "https://es.wikipedia.org/wiki/Sociedad_Deportiva_Aucas")
+
+Con Aucas, Aguirre disputó un total de **10 partidos**. El director técnico se marchó con un saldo de cuatro victorias, tres empates y tres derrotas. La salida se dio tras una seguidilla de seis compromisos sin una victoria.
+
+Peñarol va por su sexta Copa Libertadores
+-----------------------------------------
+
+Con su pase hacia semifinales, el Peñarol de **Diego Aguirre** buscará llegar a una final de Copa Libertadores después de 13 años. La última vez que el plantel alcanzó el último partido fue en 2011, allí cayó ante **Santos** de Brasil y se coronó subcampeón.
+
+De llegar a la instancia final, el ‘Mangia’ también podrá buscar su sexta Copa Libertadores. Antes, el club se coronó campeón en **1960, 1961, 1966, 1982 y 1987**.
+
+Los tres primeros campeonatos continentales tuvieron como figura al ecuatoriano **Alberto Spencer**. ‘Cabeza Mágica’ comandó el ataque del equipo y con él se coronó como el máximo goleador histórico del certamen con 62 goles, marca que aún no ha podido ser superada.
+
+Hombre con muerte cerebral fue casado por lo civil en hospital del IESS
+=======================================================================
 
 El Registro Civil denunció el hecho ante la Fiscalía.
 -----------------------------------------------------
@@ -551,583 +1010,4 @@ El incidente que tuvo más repercusión fue el vivido el 21 de mayo de 2023 en M
 
 Allí, un grupo de aficionados de ese equipo **profirió ofensas racistas a Vini**, lo que motivó la apertura de un proceso judicial.
 
-Los insultos contra el extremo, que se repitieron en otros estadios de **España**, fueron condenados por las más altas autoridades de **Brasil**, entre ellas el presidente Luiz Inácio Lula da Silva, que exigió acciones para poner punto final a esa situación. 
-
-Diana Salazar toma una decisión sobre los incendios en todo el país
-===================================================================
-
-La fiscal general del Estado, Diana Salazar, coordina acciones, con relación a los incendios forestales.
---------------------------------------------------------------------------------------------------------
-
-![Diana Salazar decidió acciones frente a los incendios en todo el país.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-guapulo-1.jpg)
-
-La fiscal general del Estado, **Diana Salazar**, tomó una decisión sobre los **incendios** suscitados en todo el país, este jueves 26 de septiembre de 2024.
-
-Los incendios forestales han afectado a varias provincias y han dejado daños humanos, ambientales y materiales.
-
-### Más noticias:
-
-* [Incendio en el sector del Parque Samanes de Guayaquil sería provocado](https://www.elcomercio.com/actualidad/ecuador/incendio-parque-samanes-guayaquil-seria-provocado.html "Incendio en el sector del Parque Samanes de Guayaquil sería provocado")
-* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
-
-En la Sierra, provincias como **Pichincha, Loja y Cotopaxi** han sido seriamente afectadas; en la Costa, este jueves, se registró un incendio en el sector del Parque Samanes, en **Guayaquil**.
-
-En **Quilanga**, Loja, un incendio duró alrededor de 12 días; en Quito, el incendio que inició en Guápulo duró alrededor de tres días.
-
-Los ministros del Interior, **Mónica Palencia** y de Gobierno, **Arturo Félix**; así como el alcalde de Quito, **Pabel Muñoz** han señalado que los responsables de los incendios provocados serían procesados por **terrorismo**.
-
-El titular del Cuerpo de Bomberos de Guayaquil, **Polo Terán**, manifestó que el incendio forestal en el Parque Samanes de Guayaquil “no es normal”.
-
-Agregó que hay que pedir que se investigue y, ante la pregunta de si sería provocado, respondió que “aparentemente, por la forma como está el incendio”.
-
-En Quito, hay **tres sospechosos detenidos** por provocar los incendios de Guápulo y El Panecillo y esperan por la audiencia.
-
-La Fiscalía también procesa a **un presunto responsable** de causar un **incendio forestal en la parroquia Sinincay**, Cuenca, Azuay.
-
-La decisión de Diana Salazar sobre los incendios
-------------------------------------------------
-
-Ante la cantidad de incendios registrados en todo el país, la fiscal general, **Diana Salazar**, tomó una decisión.
-
-La Fiscalía General del Estado **investigará los incendios ocurridos en todo el país**, de oficio, según informó este jueves 26 de septiembre de 2024.
-
-La fiscal general del Estado, Diana Salazar, dispuso **que se abran, de oficio, investigaciones en todas las provincias donde se han reportado incendios.**
-
-Fiscalía y **Policía** coordinan para la práctica de las respectivas **pericias**.
-
-El gol de Enner Valencia desde el lente de una cámara fotográfica
-=================================================================
-
-La Selección de Ecuador tiene como sus próximos rivales en las eliminatorias al Mundial 2026 ante Paraguay y Uruguay.
----------------------------------------------------------------------------------------------------------------------
-
-![Enner Valencia marca el gol con el que Ecuador le ganó a Perú en la eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/09/gol_valencia_1.jpg)
-
-La **Selección de Ecuador** empezó la cuenta regresiva para disputar la novena y décima fecha de las eliminatorias al Mundial 2026 que será organizado en forma tripartita por Canadá, Estados Unidos y México.
-
-El jueves 10 de octubre, desde las 16:00, la **Selección de Ecuador recibirá en el estadio Rodrigo Paz Delgado** de Quito a Paraguay; mientras que el martes 15, desde las 18:30, visitará a Uruguay en el legendario Centenario de Montevideo.
-
-### Más noticias:
-
-* [¿Cuándo se juega Liga de Quito vs. El Nacional tras postergación por incendio forestal?](https://www.elcomercio.com/deportes/el-nacional-liga-quitop-fecha-copa-ecuador.html "¿Cuándo se juega Liga de Quito vs. El Nacional tras postergación por incendio forestal?")
-* [Midtjylland, con Denil Castillo de titular, empató en la Europa League](https://www.elcomercio.com/deportes/futbol/midtjylland-con-denil-castillo-de-titular-empato-europa-league.html "Midtjylland, con Denil Castillo de titular, empató en la Europa League")
-* [El Nacional y Liga de Quito se solidarizan tras incendios forestales](https://www.elcomercio.com/deportes/el-nacional-liga-quito-solidaridad-incendios.html "El Nacional y Liga de Quito se solidarizan tras incendios forestales")
-
-Jugadas las ocho primera fechas, **Ecuador marcha en la cuarta casilla con 11 puntos**, fruto de cuatro empates, dos derrotas y dos empates. Anotó seis goles y recibió cuatro para registrar un gol positivo de +2.
-
-Paraguay, su primer rival, presenta una leve mejoría con la llegada del **entrenador argentino Gustavo Alfaro**, suma nueve puntos y es séptimo. Su campaña le deja como saldo dos victorias, tres empates, tres derrotas y un gol diferencia negativo de -1.
-
-Uruguay, segundo rival, es tercero con 15 puntos, m**uy cerca de Colombia (16) y Argentina (18)**, que son las de mejores números y las principales candidatas para asegurar con antelación uno de los seis cupos directos al Mundial 2026.
-
-Con ese panorama Sebastián Beccacece prepara una nueva convocatoria en la que existe la expectativa por conocer si el histórico **portero Alexander Domínguez es citado**; si el habilidoso mediocampista Gonzalo Plata tendrá una nueva oportunidad; o si Leonardo Campana es tomado en cuenta para la delantera.
-
-Entre los posibles citados uno de los nombres fijos es el de Enner Valencia, goleador histórico de la Tri con 42 tantos y uno de los capitanes, **junto a Moisés Caicedo (Chelsea de Inglaterra)** y Hernán Galíndez (Huracán de Argentina).
-
-Ante Perú, Valencia fue el autor del 1-0 con el que Beccacece disfrutó del primer triunfo como entrenador de la absoluta tricolor, tras su debut con derrota ante Brasil en Curitiba con el tanto de Rodrygo.
-
-El gol de Enner Valencia paso a paso
-------------------------------------
-
-“Falta poco para volvernos a encontrar, **vamos a dejarlo todo desde la tribuna, palco o general**“, fue el mensaje que la Tri colgó en sus redes sociales, como parte de la invitación a los hinchas ecuatorianos para el juego contra Paraguay.
-
-El texto está acompañado de una secuencia fotográfica del tanto de ‘Superman’ y del festejo con el **resto de sus compañeros y el abrazo final con Beccacece**, entrenador con el que coincidió en Emelec en 2010, cuando el argentino era asistente de su compatriota Jorge Sampaoli.
-
-Otro de los **abrazos que destaca es con Ángel Mena**, veterano seleccionado con el que también jugaron en Emelec en el inicio de la década de los 2010.
-
-El sonido de la cámara fotográfica con cada disparo para capturar las imágenes, **más el grito de gol de los aficionados que llegaron esa tarde al Rodrigo Paz**, completan la secuencia de una escena que los ecuatorianos esperan sean más frecuente.
-
-En el rubro de goleadores históricos, Valencia es seguido por Agustín Delgado (31), Eduardo Hurtado (26), Christian Benítez (24), **Álex Darío Aguinaga (23), Felipe Caicedo (22), Édison Méndez (18)**, Ney Raúl Avilés (16), Ariel Graziani (15) y Jaime Iván Kaviedes (15).
-
-> Falta poco para volvernos a encontrar, vamos a dejarlo todo desde la tribuna, palco o general.  
-> Compra tus entradas en [https://t.co/thzQsaKeQk](https://t.co/thzQsaKeQk) [pic.twitter.com/xTvDScU5ax](https://t.co/xTvDScU5ax)
-> 
-> — La Tri 🇪🇨 (@LaTri) [September 26, 2024](https://twitter.com/LaTri/status/1839347379130020129?ref_src=twsrc%5Etfw)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva
-====================================================================
-
-Un gol a segundos del inicio del partido marcó la segunda clasificación consecutiva de Mushuc Runa a semifinales de Copa Ecuador.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Marco Montaño, Mathías Acuña y Joaquín Vergés en el triunfo de Mushuc Runa en Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000132767.jpg)
-
-El Mushuc Runa de **Ever Hugo Almeida** no es solo una de las revelaciones de la Liga Pro, sino de la Copa Ecuador. La escuadra disputará sus segundas semifinales del torneo de manera consecutiva tras vencer al Libertad de Loja.
-
-Tras sorprender en el **campeonato nacional** y ubicarse en el puesto dos de la segunda ronda, el ‘**Ponchito**‘ extendió su racha de victorias en el torneo copero. Con un marcador de 2-1, el plantel de Tungurahua se hizo con el triunfo, aunque sufrió en los minutos finales[.](https://es.wikipedia.org/wiki/Mushuc_Runa_Sporting_Club "https://es.wikipedia.org/wiki/Mushuc_Runa_Sporting_Club")
-
-### Más noticias:
-
-* [El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro](https://www.elcomercio.com/deportes/mushuc-runa-revelacion-ever-hugo-almeida.html "El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro")
-* [Universidad Católica no tuvo piedad con Mushuc Runa en la Liga Pro](https://www.elcomercio.com/deportes/futbol/universidad-catolica-no-tuvo-piedad-con-mushuc-runa-liga-pro.html "Universidad Católica no tuvo piedad con Mushuc Runa en la Liga Pro")
-* [Mushuc Runa no permite sorpresas y sigue en la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/mushuc-runa-copa-ecuador-clasificado.html "Mushuc Runa no permite sorpresas y sigue en la Copa Ecuador")
-
-Antes de derrotar a **Libertad, Mushuc Runa** dejó en su camino a Independiente Juniors y Leones del Norte. A la filial de Independiente del Valle se impuso por 1-0, ante el elenco de Ibarra empató, pero consiguió pasar por penales.
-
-En el caso de Libertad, el conjunto de Loja también se erigía como una de las sorpresas, pues ocupa el último casillero en la tabla acumulada de la **Liga Pro**. Antes de llegar a los cuartos de final frente a la escuadra de Almeida, este se había impuesto ante **Aucas y Vicentino Dragons**.
-
-Mushuc Runa y un gol de récord en Copa Ecuador
-----------------------------------------------
-
-Dados sus compromisos previos, el Libertad fue el primer equipo de la **Serie A** al que se enfrentó **Mushuc Runa** en el torneo. Los dos clubes a los cuales venció con anterioridad forman de parte de la Serie B del balompié nacional.
-
-Desde que sonó el silbato del árbitro, no pasó ni un minuto para que el ‘Ponchito’, que hizo de local, se ponga por delante en el marcador. Tras una escapada por izquierda de **William Ocles** luego del inicio del segundo tiempo, **Enzo Fernández** apareció en medio del área.
-
-El Libertad debió doblegar sus esfuerzos tras el ‘gol de camerino’ adverso y encontró el empate en la segunda mitad. La individualidad de **Cristian Penilla** apareció a los 53′ y, con un remate de fuera del área, logró el tanto para los lojanos.
-
-El Libertad apretó al final a Mushuc Runa
------------------------------------------
-
-No pasó mucho de la igualdad del **Libertad** para que **Mushuc Runa** vuelva a ponerse en ventaja. Una vez más, un envío desde el costado sorprendió al equipo. Tras un doble cabezazo en el área, Vergés impactó el balón y lo mandó al fondo de las redes.
-
-El plantel naranja intentó reaccionar y estuvo a punto de empatar en la última jugada. Tras un tiro de esquina al minuto final, el arquero **Eduardo Bores** conectó un cabezazo que encontró bien parado a su colega **Adrián Bone**.
-
-Tras abrochar su clasificación, Mushuc Runa espera por un rival en las semifinales, este saldrá entre **El Nacional y Liga de Quito**. En la otra llave se encuentran **Universidad Católica e Independiente del Valle**.
-
-Incendio controlado y liquidado, ¿cuál es su diferencia?
-========================================================
-
-Incendios forestales son controlados por el Cuerpo de Bomberos de Quito en algunas zonas de la capital.
--------------------------------------------------------------------------------------------------------
-
-![Cuerpo de Bomberos de Quito controlando un incendio forestal en el Parque de Guápulo el pasado 25 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/bomberos-guapulo.png)
-
-En medio de los recientes i**ncendios forestales que afectan a Quito**, los ciudadanos tuvieron confusiones respecto a los términos **‘controlado’ y ‘liquidado’**, utilizados por las autoridades.
-
-### Más noticias
-
-* [Incendio forestal en el cerro Auqui fue controlado](https://www.elcomercio.com/actualidad/quito/incendio-forestal-cerro-auqui-se-reactiva.html "Incendio forestal en el cerro Auqui fue controlado")
-* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
-* [Donaciones y concierto para los afectados de incendios forestales en Quito](https://www.elcomercio.com/actualidad/quito/donaciones-concierto-solidaridad-afectados-incendio-quito.html "Donaciones y concierto para los afectados de incendios forestales en Quito")
-
-Ambas expresiones se refieren a fases diferentes en el proceso de **combate y extinción de incendios** forestales, pero es esencial comprender la diferencia para interpretar correctamente la situación de un siniestro.
-
-Diferencia entre incendio liquidado y controlado
-------------------------------------------------
-
-Cuando los bomberos hablan de **incendio controlado**, se refieren al momento en que el fuego se contiene, es decir, ya no se propaga a nuevas áreas. En esta fase, las llamas siguen activas en algunas partes, pero los **equipos de emergencia** evitaron que el incendio se extendiera.
-
-Sin embargo, aún existe peligro, por lo que los **bomberos trabajan** para reducir el riesgo de que las llamas se reaviven o afecten estructuras cercanas.
-
-> 🛑 [#Importante](https://twitter.com/hashtag/Importante?src=hash&ref_src=twsrc%5Etfw) | Nuestro comandante [@ECardenasVarela](https://twitter.com/ECardenasVarela?ref_src=twsrc%5Etfw) explica la cronología de las acciones ejecutadas en los incendios forestales de Guápulo, Parque Metropolitano y Auqui.  
->   
-> 👉 Mantente informado solo por fuentes oficiales.  
->   
-> Trabajamos sin descanso por la ciudad.  
->   
-> 🚨 Denuncia a… [pic.twitter.com/LqTQlymFVf](https://t.co/LqTQlymFVf)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 26, 2024](https://twitter.com/BomberosQuito/status/1839391754677551503?ref_src=twsrc%5Etfw)
-
-Por otro lado, un **incendio liquidado** es aquel en el que el fuego se extinguió completamente. Esto significa que no quedan focos activos y que la situación está completamente bajo control. En esta etapa, los bomberos realizan labores de **remoción y enfriamiento** para asegurar que no existan brasas o puntos calientes que puedan reactivar el incendio. Además, verifican que no haya ningún riesgo latente para los alrededores.
-
-Ambos términos son claves para comprender el estado de un siniestro y la respuesta de los bomberos. Mientras el fuego esté “controlado”, la situación aún requiere atención, pero si ha sido “liquidado”, la emergencia se considera superada.
-
-Incendio en el cerro Auqui fue controlado
------------------------------------------
-
-A las 11:00 de este 26 de septiembre de 2024, una nube de humo se volvió a observar en el cerro Auqui, uno de los focos del **incendio forestal que aún permanecían activos**. Desde varios puntos de la capital se observó cómo este incendio forestal se volvió a activar.
-
-El **Cuerpo de Bomberos** desplegó equipos por tierra y aire para combatir las llamas en sectores como Guápulo, el cerro Auqui y el parque Metropolitano.
-
-Cerca de las 10:55 de este jueves, el fuego en el cerro Auqui, uno de los puntos más críticos, se reactivó. Aunque inicialmente se reportaron mejoras en la situación, las condiciones empeoraron nuevamente a las 11:00.
-
-A través de un comunicado, el **Cuerpo de Bomberos de Quito** informó que el foco de incendio en el cerro Auqui se controló. Tras la última evaluación realizada hace pocos minutos, se confirmó que la situación se **encuentra bajo control**.
-
-> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | El foco que se encontraba activo en el cerro el Auqui se encuentra controlado.  
->   
-> 📍👨🏻‍🚒 Nuestro equipo se mantiene en el sitio para realizar monitoreos permanentes y actuar inmediatamente en caso de alguna alerta.[#SalvamosVidas](https://twitter.com/hashtag/SalvamosVidas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/cs7CnG1qYR](https://t.co/cs7CnG1qYR)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 26, 2024](https://twitter.com/BomberosQuito/status/1839413097993228308?ref_src=twsrc%5Etfw)
-
-Las autoridades iniciaron labores de **enfriamiento, remoción de escombros y monitoreo constante** con el uso de equipos tecnológicos avanzados.
-
-Juramento a la Bandera se cumplió este 26 de septiembre, ¿qué pasó en Quito?
-============================================================================
-
-El juramento a la Bandera se desarrolló este 26 de septiembre.
---------------------------------------------------------------
-
-![En la Unidad Educativa Provincia del Cañar, estudiantes de bachillerato juraron la Bandera.](https://www.elcomercio.com/wp-content/uploads/2024/09/jura-a-la-bandera.jpg)
-
-El **juramento a la Bandera** es un evento cívico instaurado en Ecuador y se realiza cada 26 de septiembre. En este 2024, este evento tuvo novedades.
-
-En el caso de **Quito**, la suspensión de las clases presenciales por los incendios forestales postergó el acto. Aún no se ha hecho público cuando se retomará el evento.
-
-### Más noticias
-
-* [Gobierno y Municipio ejecutan medidas para enfrentar emergencia por incendios en Quito](https://www.elcomercio.com/actualidad/militares-movilizan-combatir-incendio-guapulo.html)
-* [Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?](https://www.elcomercio.com/actualidad/quito/disposicion-clases-quito-incendios-forestales.html "Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?")
-* [Incendios en Quito obligan a tomar medidas sobre las clases](https://www.elcomercio.com/actualidad/quito/incendios-quito-medidas-sobre-clases.html "Incendios en Quito obligan a tomar medidas sobre las clases")
-
-> 🇪🇨 ¡Nuestra bandera refleja unión, fuerza y compromiso! Hoy somos uno solo, desde el Ministerio de Educación seguimos [#UniendoEsfuerzos](https://twitter.com/hashtag/UniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) por un Ecuador más solidario. 🤝 [pic.twitter.com/UQxEJYFZMo](https://t.co/UQxEJYFZMo)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 26, 2024](https://twitter.com/Educacion_Ec/status/1839383599440887866?ref_src=twsrc%5Etfw)
-
-Juramento a la Bandera en Quito y otros puntos
-----------------------------------------------
-
-En el caso de Quito, el **Ministerio de Educación** postergó el juramento a la Bandera, al igual que las clases en modalidad presencial, para este jueves 26 y el viernes 27 de septiembre de 2024.
-
-El acto cívico se realizará cuando las condiciones lo permitan. Esto debido a que los incendios forestales afectaron la **calidad del aire** en la ciudad.
-
-Los protagonistas del evento cívico son los estudiantes de **tercero de bachillerato**. A escala nacional, este 2024 estaba previsto que participen **277 677 estudiantes**.
-
-La mayoría de ellos asisten a **instituciones educativas fiscales** (207 973), seguidos de particulares (49 172), fiscomisionales (17 875) y municipales (2 657).
-
-El juramento en varios lugares
-------------------------------
-
-Aunque en **Quito** no hubo **juramento a la Bandera**, en otros puntos del país sí se realizó. Claro que las instituciones educativas también tuvieron que ajustarse a horarios definidos a raíz de los **cortes de luz**.
-
-**En la Unidad Educativa Provincia del Cañar,** en el cantón Durán, se realizó el acto solemne. Lo propio ocurrió en la **Unidad Educativa Manuela Garaicoa de Calderón,** en Cuenca.
-
-Estudiantes **abanderados** fueron los encargados de recorrer las formaciones que se establecieron para el programa cívico.
-
-Cívica es una nueva materia
----------------------------
-
-**Cívica**, Educación para el Desarrollo Sostenible, Educación Socioemocional, Educación Vial y Educación Financiera son las áreas que se sumaron a la carga horaria de los estudiantes en el **régimen Sierra-Amazonía**.
-
-Según el **Ministerio de Educación**, la implementación se dará de una forma ordenada. En los últimos 10 años se han dado seis cambios en el currículo.
-
-**Cívica, Ética e Integridad** se planteó como una sola materia. Esta incluye el trabajo en clase de valores como el respeto, disciplina y perseverancia. No copiar es uno de los ejes.
-
-Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024
-=====================================================================================
-
-Un nuevo se une al 'selecto grupo' tras cumplir los requisitos exigidos para la visa a Estados Unidos.
-------------------------------------------------------------------------------------------------------
-
-![Estados Unidos amplió la lista de países que pueden acceder a un visado.](https://www.elcomercio.com/wp-content/uploads/2024/09/visa.jpg)
-
-**Estados Unidos** le dio la bienvenida al país número 42 que conforma su selecta lista para The **Visa** Waiver Program (WWP por sus siglas en inglés y cuyo significado en español es Programa de Exención de Visa). Los ciudadanos de esta nación no tendrán que tramitar la visa y presentarla para viajar a **territorio norteamericano**[.](https://es.wikipedia.org/wiki/Programa_de_exenci%C3%B3n_de_visa "https://es.wikipedia.org/wiki/Programa_de_exenci%C3%B3n_de_visa")
-
-### Más noticias
-
-* [Estados Unidos endurecerá sus políticas comerciales y migratorias](https://www.elcomercio.com/actualidad/mundo/ee-uu-endurecera-politica-comercial-migratoria-quien-sea-presidente.html "Estados Unidos endurecerá sus políticas comerciales y migratorias")
-* [EE.UU. afirma que está listo para defender a Israel](https://www.elcomercio.com/actualidad/mundo/ee-uu-afirma-esta-listo-defender-israel-hay-represalias-ataques-libano.html "EE.UU. afirma que está listo para defender a Israel")
-
-Lo nuevo de la visa para Estados Unidos
----------------------------------------
-
-Se trata de **Catar**, el primer país árabe que se incluye al listado. “Ha sido un socio excepcional para los Estados Unidos, y nuestra relación no ha hecho más que fortalecerse en los últimos años. Esto es una prueba más de **nuestra asociación estratégica** y nuestro compromiso compartido con la seguridad y la estabilidad”, explicó el Departamento de Seguridad Nacional.
-
-**Estados** **Unidos** reconoció que **Catar** hizo un “importante esfuerzo” para cumplir con los requisitos exigidos del programa de **visas** y, además, celebró alianzas “para compartir información sobre terrorismo y delitos graves”, lo que fortalece la cooperación entre ambos gobiernos.
-
-¿Cuáles son los requisitos para entrar al Programa de Exención de Visa?
------------------------------------------------------------------------
-
-El programa hace parte del Departamento de **Seguridad** **Nacional** de Estados Unidos, el cual lo define como una “asociación de seguridad integral” que establece ese país con determinadas **naciones** en el mundo.
-
-**Estados** **Unidos** analiza los riesgos de los territorios, en cuanto a delincuencia y **terrorismo**, así como las actuaciones de sus ciudadanos cuando pisan suelo norteamericano.
-
-Requisitos para el programa de visas
-------------------------------------
-
-The **Visa** Waiver Program (WWP por sus siglas en inglés y cuyo significado en español es Programa de Exención de Visa), tal como lo explica el Departamento, tiene varios **requisitos** que se les exige a los países están:
-
-Tasa de rechazos de visas de no inmigrantes por debajo del 3 % durante el año fiscal anterior.
-
-Emisión de documentos de viaje seguros.
-
-Extensión de privilegios de entrada recíprocos a todos los ciudadanos y nacionales estadounidenses sin importar su origen nacional, religión, etnia o género.
-
-Trabajo en estrecha colaboración con las autoridades policiales y antiterroristas de Estados Unidos.
-
-¿Qué países no necesitan visa para Estados Unidos? Lista actualizada de 2024
-----------------------------------------------------------------------------
-
-**Catar** se suma a Israel —logró la exención de visa en 2023— y Croacia —hizo lo propio en 2021—. Así, estos son los países que no necesitan **visa** para **Estados** **Unidos**, con corte a septiembre de 2024:
-
-1. Andorra
-2. Australia
-3. Austria
-4. Bélgica
-5. Brunéi
-6. Catar
-7. Chile
-8. Croacia
-9. República Checa
-10. Dinamarca
-11. Estonia
-12. Finlandia
-13. Francia
-14. Alemania
-15. Grecia
-16. Hungría
-17. Islandia
-18. Irlanda
-19. Israel
-20. Italia
-21. Japón
-22. Letonia
-23. Liechtenstein
-24. Lituania
-25. Luxemburgo
-26. Malta
-27. Mónaco
-28. Países Bajos
-29. Nueva Zelanda
-30. Noruega
-31. Polonia
-32. Portugal
-33. San Marino
-34. Singapur
-35. Eslovaquia
-36. Eslovenia
-37. Corea del Sur
-38. España
-39. Suecia
-40. Suiza
-41. Taiwán
-42. Reino Unido.
-
-**Chile** es el único país de **Latinoamérica** en el programa. Colombia comenzó desde 2023 los trámites correspondientes para entrar, pero es un proceso que se “toma años”, según reconoció Luis Gilberto Murillo cuando era embajador en Estados Unidos.
-
-¿Qué pueden hacer los viajeros exentos de visa en Estados Unidos?
------------------------------------------------------------------
-
-Únicamente podrán viajar sin visa para actividades de negocio o turismo que no excedan los 90 días. No es un programa de residencia.
-
-Se entiende como negocio lo relacionado con: reuniones con socios; asistencia a conferencias científicas, educativas o profesionales; capacitaciones de corto plazo.
-
-Por turismo están permitidos: viajes de vacaciones, visita a familiares o amigos; tratamientos médicos; participación en eventos sociales; asistencia a conciertos, eventos deportivos, entre otros; e inscripciones a cursos cortos de estudio recreativo (clases de cocina, por ejemplo).
-
-En lugar de la visa, deben solicitar por internet un permiso llamado Sistema Electrónico de Autorización de Viaje (ESTA, por sus siglas en inglés de Electronic System for Travel Authorization). El trámite de este demora pocos días.
-
-Ingreso al volcán El Altar cerrará durante cinco días
-=====================================================
-
-El Ministerio del Ambiente informó el cierre se debe a trabajos de limpieza en el lugar.
-----------------------------------------------------------------------------------------
-
-![El volcán El Altar se ubica en el Parque Nacional Sangay, en Chimborazo](https://www.elcomercio.com/wp-content/uploads/2024/09/el-altar-v.jpg)
-
-El Ministerio del Ambiente, Agua y Transición Ecológica informó que el ingreso al volcán El Altar permanecerá cerrado durante cinco días.
-
-Según detalló la cartera de Estado, el lugar ubicado en el Parque Nacional Sangay, en la provincia de Chimborazo, no recibirá visitantes entre el miércoles 2 de octubre al domingo 6 de octubre de 2024.
-
-### Más noticias
-
-* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-* [Incendio en el sector del Parque Samanes de Guayaquil sería provocado](https://www.elcomercio.com/actualidad/ecuador/incendio-parque-samanes-guayaquil-seria-provocado.html "Incendio en el sector del Parque Samanes de Guayaquil sería provocado")
-
-La restricción en la ruta Releche-Laguna Amarilla se aplicará debido a trabajos de limpieza en el lugar y al desarrollo de una carrera atlética.
-
-> COMUNICADO | El Ministerio del Ambiente, Agua y Transición Ecológica informa: [pic.twitter.com/F1zxTIL96a](https://t.co/F1zxTIL96a)
-> 
-> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [September 26, 2024](https://twitter.com/Ambiente_Ec/status/1839403404646641988?ref_src=twsrc%5Etfw)
-
-Volcán extinto
---------------
-
-El Altar es un volcán extinto localizado en el centro de Ecuador, en la **Cordillera Oriental** de Los Andes.
-
-El volcán recibe su nombre debido a las formas que adoptan sus numerosos picos, semejando el altar de una iglesia colonial.
-
-La montaña se ubica en el Parque Nacional Sangay, reserva declarado Patrimonio Natural de la Humanidad por la Unesco en 1983.
-
-El Altar es conocido así por la forma que generan sus varios picos.
-
-En quichua, su nombre es Cápac Urcu, que significa montaña sublime.
-
-Su altura alcanza los 5 319 metros sobre el nivel del mar.
-
-El volcán es un estratovolcán extinto, lo que significa que ha tenido varias erupciones en el pasado y actualmente se encuentra en un estado de reposo.
-
-Alrededor del volcán se encuentran **varias lagunas** como la Amarilla, Quindecocha, Estrellada, Verde, Azul, Mandur, Pintada, entre otras.
-
-Por su parte, el Parque Nacional Sangay abarca una extensión de 5 178 km² y se distribuye en cuatro provincias: Morona Santiago, Tungurahua, Chimborazo y Cañar.
-
-Cortes de luz en Riobamba, estos son los horarios para este 27 de septiembre
-============================================================================
-
-Los cortes de luz se retomaron esta semana debido al déficit energético del Ecuador y a la grave sequía por la que atraviesa.
------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz se retomaron debido a la escasa generación en las principales centrales hidroeléctricas del país. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz-24-sep.jpg)
-
-Este viernes 27 de septiembre de 2024 continúan los **cortes de luz** en **Riobamba**, en **Chimborazo**. Los **apagones** se retomaron esta semana debido al déficit energético del Ecuador y a la grave sequía por la que atraviesa. La escasez de agua afecta el normal funcionamiento de las principales centrales **hidroeléctricas** del país.
-
-### Más noticias
-
-* [El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-nivel-critico-cortes-de-luz-ecuador.html "El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?")
-* [Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca](https://www.elcomercio.com/actualidad/negocios/conozca-horarios-cortes-luz-27-de-septiembre-cuenca.html "Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca")
-* [Quito suspende los cortes de luz por varias horas este jueves 26 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-en-quito-se-retoman-la-noche-de-este-25-de-septiembre-de-2024-estos-son-los-horarios.html "Quito suspende los cortes de luz por varias horas este jueves 26 de septiembre")
-
-Este viernes 27 de septiembre de 2024 se suspenderá el servicio de electricidad en **Riobamba**, en períodos de e**ntre 5 y 10 horas por** sector, desde las 06:00 hasta las 24:00.
-
-Los horarios están establecidos en la página web de la [Agencia de Regulación de Electricidad](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/"). En esta se detallan los horarios de cada empresa distribuidora, hasta el domingo 29 de septiembre. Ahí, puede revisar la programación de la Empresa Eléctrica Riobamba S.A.
-
-En este link puede conocer los horarios de los cortes de luz en Riobamba, establecidos desde el lunes 23 hasta el domingo 29 de septiembre:
-
-Los horarios de los cortes de luz se modificarán y publicarán los viernes de cada semana, tras una evaluación de las condiciones de los ríos que abastecen a las distintas **hidroeléctricas del país**, así lo señaló el ministro de Energía, **Antonio Goncalves.**
-
-**“**Evaluamos las condiciones de los ríos que abastecen a las **principales centrales hidroeléctricas** del país. Informaremos cada viernes la programación de los racionamientos energéticos para que la ciudadanía tenga mayor **predictibilidad**. Es posible que, si la situación hídrica mejore, los **cortes disminuyan** en horario”, señaló.
-
-El 72% de la matriz energética del país se alimenta fuentes hídricas, actualmente afectadas por la grave **sequía** que afronta el país. Por esta **razón, el Gobierno busca** alternativas a través de las centrales térmicas para cubrir el déficit de 1 080 MW.
-
-Los ‘euroguaguas’ de la Selección de Ecuador
-============================================
-
-La migración de compatriotas ecuatorianos se refleja en las categorías juveniles de la Selección de Ecuador.
-------------------------------------------------------------------------------------------------------------
-
-![Los 'euroguaguas' son jugadores que nacieron en Europa, pero pueden representar a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/image-23.png)
-
-La **Selección Sub-16 de Ecuador** se prepara para el Campeonato Sudamericano de la categoría, que se jugará en Bolivia. En la lista de convocados, el DT Juan Carlos Burbano ha llamado a varios jugadores ecuatorianos que militan en Europa.
-
-Los llamados ‘**euroguaguas**‘, bautizados así por el departamento de Deportes de EL COMERCIO, son jugadores que no nacieron en Ecuador, pero que debido a la **migración** y sus raíces ecuatorianas —ya sea por su padre, madre o ambos— tienen la opción de representar a la ‘Tri’.
-
-### Más noticias:
-
-* [Benny Atahualpa, de Alemania, a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/benny-atahualpa-birner-seleccion-ecuador.html "Benny Atahualpa, de Alemania, a la Selección de Ecuador")
-* [Selección de Ecuador convoca a promesa de España](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-convoca-a-promesa-espana-malcom-dacosta.html "Selección de Ecuador convoca a promesa de España")
-* [La Selección de Ecuador se interesa y bloquea a Jhon Espinoza](https://www.elcomercio.com/deportes/jhon-espinoza-seleccion-ecuador-convocatoria.html "La Selección de Ecuador se interesa y bloquea a Jhon Espinoza")
-
-Entre los convocados destacan **Malcom Dacosta, Benny Atahualpa Birner, Jalmar Rodríguez y Jordan Mejía**, cuatro jóvenes talentos que juegan en equipos europeos y tendrán la oportunidad de defender a Ecuador en una competencia oficial juvenil.
-
-Los ‘euroguaguas’ de Ecuador
-----------------------------
-
-De estos cuatro jóvenes, solo uno ya ha vestido la **camiseta de Ecuador**. Se trata de **Jalmar Rodríguez**, quien ha jugado amistosos con la Sub-17. Los otros tres, Dacosta, Birner y Mejía, están recibiendo su primer llamado.
-
-### Malcom Dacosta
-
-**Malcom** **Dacosta**, de 16 años, juega en la academia del **Bournemouth** en Inglaterra. Con raíces que le permiten representar a España, Guinea Ecuatorial, Inglaterra y Ecuador, Dacosta ha decidido unirse a la ‘Tri’.
-
-Se desempeña principalmente como **mediocampista**, pero también puede jugar como defensor. Se destaca por su habilidad para **recuperar balones** y su potente disparo, cualidades que ha demostrado en la academia de los ‘Cherries’.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170218.194-1024x683.jpg)
-
-### Benny Atahualpa Birner
-
-**Benny** **Birner nació en Alemania** el 4 de agosto de 2008, por lo que tiene 16 años. Su padre es alemán y su madre ecuatoriana, lo que le permite representar a ambas selecciones.
-
-Atahualpa es **defensa central y su pierna hábil es la izquierda**. Actualmente, juega en las categorías juveniles del Holstein Kiel, equipo que en la temporada 2024/25 debutó en la Bundesliga.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170120.004-1024x683.jpg)
-
-### Jalmar Rodríguez
-
-Jalmar es el único de los cuatro que ya ha vestido la camiseta de Ecuador, en unos amistosos con la Sub-17. Nacido en 2008, también tiene 16 años. Es de **padres ecuatorianos, pero nació en España,** por lo que también es elegible para la selección española.
-
-Juega en las juveniles del Elche, y se **desempeña como lateral derecho, aunque en ocasiones ha sido utilizado como extremo**. Se destaca por su velocidad y buen posicionamiento en el ataque.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170141.007-1024x683.jpg)
-
-### Jordan Mejía
-
-De padres ecuatorianos, **Jordan Mejía nació en España** en 2008. Con 15 años, puede ser convocado tanto por Ecuador como por España. Actualmente, juega en las juveniles del Elche, al igual que Jalmar Rodríguez.
-
-Mejía puede desempeñarse como **lateral por ambas bandas**, a pesar de ser derecho. También ha jugado como mediocampista defensivo. Entre sus fortalezas **destacan su capacidad de salida** y control del balón.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170130.386-1024x683.jpg)
-
-Ecuador el Sudamericano Sub-15
-------------------------------
-
-El **Sudamericano Sub-15** se jugará en Santa Cruz, Bolivia, del 4 al 19 de octubre.
-
-**Ecuador** integrará el Grupo B junto a Argentina, Brasil, Uruguay y Venezuela. El equipo debutará el 5 de octubre frente a Uruguay.
-
-El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio
-===================================================================
-
-El campeón de la Liga Básquet Pro de Ecuador 2024 se definirá al mejor de siete partidos entre Jorge Guzmán y Zamora Jaguars.
------------------------------------------------------------------------------------------------------------------------------
-
-![Zamora Jaguars (negro) y Jorge Guzmán en la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_basquet_presidente_1.jpg)
-
-**Jorge Guzmán de Loja y Zamora Jaguars de la ciudad homónima**, son los dos finalistas de la Liga Básquet Pro 2024, que definirán al campeón al mejor de siete partidos desde el sábado 28 de septiembre.
-
-Los dos primeros partidos de la Liga Básquet Pro serán en Loja el sábado 28 y lunes 30 de septiembre; **el tercero y cuarto el jueves 3 y sábado 5 de octubre en Zamora**; el quinto el lunes 7 y el séptimo el sábado 12 en Loja; y el sexto el jueves 10 en Zamora.
-
-### Más noticias:
-
-* [Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-atletico-mineiro-copa-libertadores.html "Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores")
-* [Esgrimistas de Ecuador se destacan en Sudamérica y piden respaldo](https://www.elcomercio.com/deportes/sudamericano-esgrima-ecuador-medallas-juvenil.html "Esgrimistas de Ecuador se destacan en Sudamérica y piden respaldo")
-* [(Video) Enner Valencia vuelve a anotar con Inter de Porto Alegre tras dos meses](https://www.elcomercio.com/deportes/gol-enner-valencia-inter-porto-alegre-bragantino.html "(Video) Enner Valencia vuelve a anotar con Inter de Porto Alegre tras dos meses")
-
-Mario Gordón, presidente de la Liga Básquet Pro, conversó con EL COMERCIO y **dio más detalles de esta competencia que arrancó en el 2022 con ocho equipos**, en el 2023 se mantuvo el número, y en el 2024 se elevó a 12.
-
-Sobre este aspecto, Gordon adelantó que en el 2025 se **espera mantener la cantidad de equipos y sumarle dos más**, aunque no adelantó los nombres o las provincias que incrementarán equipos o si alguna nueva entrará en la competencia.
-
-En caso de sumarse más equipos, explicó que se tiene que debatir **si el actual sistema del torneo se mantiene** o si se lo divide por zonas, siempre teniendo en cuenta el factor económico, que es un factor con el que luchan para sostenerse durante la temporada.
-
-“Tenemos que hacer los estudios financieros para ver si los equipos interesados son rentables y si tienen la capacidad de cumplir los contratos con los jugadores durante los cinco o seis meses que dure el campeonato”, sostuvo.
-
-El actual sistema de la Liga Básquet Pro establece una temporada regular de todos contra todos en partidos de ida y vuelta. L**os seis primeros clasifican directamente a los play-off de cuartos de final**, mientras del séptimo al décimo juegan los play-in para completar los ocho mejores.
-
-Los cuartos de final y semifinales se juegan al mejor de cinco partidos, y las finales al mejor de siete.
-
-Los premios para el campeón nacional
-------------------------------------
-
-Gordon comentó que el espectáculo para las finales entre los **cuadros de Zamora y Loja está garantizado**, partiendo por la presencia de público, tanto en el Coliseo Ciudad de Loja (capacidad para 3 000 personas) y Coliseo Mayor de Deportes de Zamora (capacidad para 1 800 personas).
-
-“En el sur del país se vivirá una verdadera fiesta (…) **El campeón de 2022 y la revelación de este año tienen equipos** con planteles de alto nivel. Estamos contentos por lo que viene pasando”, indicó el directivo.
-
-Contó que el campeón de este año tendrá en su poder el trofeo durante **todo el 2024 para que puedan desarrollar toda una campaña** de fidelización con sus hinchas, y de merchandising para generar más ingresos pensando en que el baloncesto en el país sea autosustentable.
-
- En lo económico, **el campeón recibirá un monto de 20 000 dólares**, pero serán entregados en el inicio de la siguiente temporada.
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_basquet_presidente_2-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-Cronograma de las finales
--------------------------
-
-### Juego 1: Sábado 28/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 2: Lunes 30/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 3: Jueves 3/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 4: Sábado 5/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 5: Lunes 7/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 6: Jueves 10/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 7: Sábado 12/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-> ¡El momento más esperado ha llegado! Dos gigantes del baloncesto se enfrentan en las FINALES de la [#LigaEcuabetBasquetPro](https://twitter.com/hashtag/LigaEcuabetBasquetPro?src=hash&ref_src=twsrc%5Etfw).🏀 ¿Quién se llevará la gloria? 🏆 [pic.twitter.com/DoG6qaQF10](https://t.co/DoG6qaQF10)
-> 
-> — Liga Básquet Pro (@LigaBasquetpro) [September 25, 2024](https://twitter.com/LigaBasquetpro/status/1839037111200096626?ref_src=twsrc%5Etfw)
-
-No te pierdas – El Confesionario
---------------------------------
+Los insultos contra el extremo, que se repitieron en otros estadios de **España**, fueron condenados por las más altas autoridades de **Brasil**, entre ellas el presidente Luiz Inácio Lula da Silva, que exigió acciones para poner punto final a esa situación.
