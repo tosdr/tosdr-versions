@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Hurricane Helene's eye wall is moving onshore in Florida: 'Take action now to protect your life!'](https://nypost.com/2024/09/25/us-news/hurricane-helene-live-updates-path-photos/)
+[Hurricane Helene makes landfall in Florida as catastrophic Category 4 storm](https://nypost.com/2024/09/26/us-news/hurricane-helene-makes-landfall-in-florida-as-category-4-storm/)
 
 Privacy Notice Highlights
 =========================
