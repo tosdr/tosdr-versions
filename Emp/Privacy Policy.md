@@ -90,7 +90,7 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
     
 * [Entertainment](https://www.emp.de/entertainment/)
     
-* [Wohnen](https://www.emp.de/fun-lifestyle/wohnen/)
+* [Lifestyle](https://www.emp.de/fun-lifestyle/wohnen/)
     
 
 * [Bekleidung](https://www.emp.de/frauen/bekleidung/)
