@@ -285,6 +285,7 @@ MainMenu
         * [Prevention](https://www.medicaid.gov/medicaid/benefits/prevention/index.html)
         * [Telehealth](https://www.medicaid.gov/medicaid/benefits/telehealth/index.html)
         * [Assurance of Transportation](https://www.medicaid.gov/medicaid/benefits/assurance-of-transportation/index.html)
+        * [Reentry Services for Incarcerated Individuals](https://www.medicaid.gov/medicaid/benefits/reentry-services-for-incarcerated-individuals/index.html)
     * Prescription Drugs
         
         [View all in Prescription Drugs](https://www.medicaid.gov/medicaid/prescription-drugs/index.html)
@@ -625,6 +626,7 @@ MainMenu Desktop
         * [Prevention](https://www.medicaid.gov/medicaid/benefits/prevention/index.html)
         * [Telehealth](https://www.medicaid.gov/medicaid/benefits/telehealth/index.html)
         * [Assurance of Transportation](https://www.medicaid.gov/medicaid/benefits/assurance-of-transportation/index.html)
+        * [Reentry Services for Incarcerated Individuals](https://www.medicaid.gov/medicaid/benefits/reentry-services-for-incarcerated-individuals/index.html)
     * Prescription Drugs
         
         [View all in Prescription Drugs](https://www.medicaid.gov/medicaid/prescription-drugs/index.html)
