@@ -7,19 +7,14 @@
 
 Subscribe
 
-[#### Skin Care](https://www.healthline.com/skincare)
+[#### Heart Health](https://www.healthline.com/heart-health)
 
-* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
-* [Science](https://www.healthline.com/skincare/skin-science)
-* [Ingredients](https://www.healthline.com/skincare/ingredients)
-* [Routine](https://www.healthline.com/skincare/build-your-routine)
-* [Acne](https://www.healthline.com/skincare/acne)
-* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
-* [Procedures](https://www.healthline.com/skincare/procedures)
-* [Products](https://www.healthline.com/skincare/products)
-* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
-* [Natural](https://www.healthline.com/skincare/natural-and-diy)
-* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
+* [Basics](https://www.healthline.com/heart-health/basics)
+* [Cholesterol](https://www.healthline.com/heart-health/cholesterol)
+* [High Blood Pressure](https://www.healthline.com/heart-health/hypertension)
+* [What to Eat](https://www.healthline.com/heart-health/diet)
+* [Prevention and Lifestyle](https://www.healthline.com/heart-health/prevention)
+* [Afib](https://www.healthline.com/heart-health/afib)
 
 Terms of Use
 ============
