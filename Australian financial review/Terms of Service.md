@@ -291,43 +291,44 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f405b71b6944403b43bd4f344ec17839043907f0)](https://www.afr.com/politics/federal/the-10-most-covertly-powerful-people-in-australia-in-2024-20240830-p5k6pa)
+[![Australia’s most powerful people in 2024.
+](https://static.ffx.io/images/$zoom_0.8153%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f6c9aa8f5b419ed4ceffcd73378f9f956792db16)](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
 
-### [The 10 most covertly powerful people in Australia in 2024](https://www.afr.com/politics/federal/the-10-most-covertly-powerful-people-in-australia-in-2024-20240830-p5k6pa)
+### [Australia’s 10 most powerful people in 2024](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
 
 * Tom McIlroy
 
-* ### [Australia’s five most powerful people in education in 2024](https://www.afr.com/work-and-careers/education/australia-s-five-most-powerful-people-in-education-in-2024-20240826-p5k5ab)
+* ### [Election season and rates angst are behind this year’s power shifts](https://www.afr.com/politics/federal/election-season-and-rates-angst-are-behind-this-year-s-power-shifts-20240827-p5k5kt)
     
-* ### [Australia’s ‘brain boxes’ are a growing source of covert power](https://www.afr.com/politics/federal/why-australia-s-think-tanks-are-a-growing-source-of-covert-power-20240824-p5k50p)
+* ### [The 10 most covertly powerful people in Australia in 2024](https://www.afr.com/politics/federal/the-10-most-covertly-powerful-people-in-australia-in-2024-20240830-p5k6pa)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Georgia Hewett was chief of staff to two CEOs.](https://static.ffx.io/images/$zoom_0.5365%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1294%2C$y_581/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/077f2f7769b20e5d2de100c9a64247c8dee25af9)](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
+[![Richard Goyder.](https://static.ffx.io/images/$zoom_0.854%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_652%2C$y_195/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c2525165b6adc4871d031848beb770051003090a)](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
 
-### [Why becoming a chief of staff is good for your career](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
+### [Richard Goyder on his biggest mistake at Qantas](https://www.afr.com/companies/sport/richard-goyder-on-his-biggest-mistake-at-qantas-20240910-p5k9f4)
 
-* Sally Patten
+* Patrick Durkin
 
-* ### [Disney chief goes retro for AFL finals to reel in streaming rivals](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
+* ### [Why becoming a chief of staff is good for your career](https://www.afr.com/work-and-careers/careers/why-becoming-a-chief-of-staff-is-good-for-your-career-20240918-p5kbn8)
     
-* ### [AFL more important to Khuda than data centres, Swans chairman suspects](https://www.afr.com/work-and-careers/leaders/suffering-in-silence-swans-chairman-on-finals-fans-and-robin-khuda-20240911-p5k9uw)
+* ### [Disney chief goes retro for AFL finals to reel in streaming rivals](https://www.afr.com/work-and-careers/leaders/disney-chief-goes-retro-for-afl-finals-to-reel-in-streaming-rivals-20240910-p5k9cv)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![People view, (left-right) Sunflowers,1888, La Berceuse (The Lullaby), 1889 and Sunflowers, 1889 on display during the preview for the National Gallery’s Van Gogh: Poets and Lovers exhibition at the National Gallery, London. ](https://static.ffx.io/images/$zoom_0.353%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/90e15021ba69295579a36da433dd51a1b3abb45b)](https://www.afr.com/life-and-luxury/travel/the-perfect-autumn-weekend-in-london-20240920-p5kc9o)
+[![ ](https://static.ffx.io/images/$zoom_0.3344%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_111/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ab66f0a8292bf815d6696cbae9b9f04ba0a03187)](https://www.afr.com/life-and-luxury/fashion-and-style/are-capri-pants-really-back-20240916-p5kaxm)
 
-### [The perfect autumn weekend in London](https://www.afr.com/life-and-luxury/travel/the-perfect-autumn-weekend-in-london-20240920-p5kc9o)
+### [Are capri pants really back?](https://www.afr.com/life-and-luxury/fashion-and-style/are-capri-pants-really-back-20240916-p5kaxm)
 
-* Alison Taylor
+* Lauren Sams
 
-* ### [Seven must-see shows this October](https://www.afr.com/life-and-luxury/arts-and-culture/seven-must-see-shows-this-october-20240911-p5k9ph)
+* ### [How this Sydney chef has won a cult following – without a restaurant](https://www.afr.com/life-and-luxury/food-and-wine/how-this-sydney-chef-has-won-a-cult-following-without-a-restaurant-20240723-p5jvqy)
     
-* ### [Everyday objects that will give you and your home a lift](https://www.afr.com/life-and-luxury/fashion-and-style/everyday-objects-that-will-give-you-and-your-home-a-lift-20240918-p5kbhu)
+* ### [The perfect autumn weekend in London](https://www.afr.com/life-and-luxury/travel/the-perfect-autumn-weekend-in-london-20240920-p5kc9o)
     
 
 [Rich List](https://www.afr.com/rich-list)
