@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
         
-        #### [Scott County Board raises concerns about funding of LeClaire YMCA](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f) [![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
+        #### [Scott County Board raises concerns about funding of LeClaire YMCA](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
         
-        #### [Funding for LeClaire YMCA raises concerns from Scott County Board](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b7199306-879c-4e70-97d9-c3ea859f7ae4/20240927T015303/b7199306-879c-4e70-97d9-c3ea859f7ae4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b7199306-879c-4e70-97d9-c3ea859f7ae4/20240927T015303/b7199306-879c-4e70-97d9-c3ea859f7ae4_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-pd-relaunching-explorer-program/526-e21bf684-c43a-4b3d-bc2b-be0fd1abca0d)
         
         #### [Rock Island police relaunching Explorer Program to help increase interest in law enforcement](https://www.wqad.com/article/news/local/rock-island-pd-relaunching-explorer-program/526-e21bf684-c43a-4b3d-bc2b-be0fd1abca0d)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-61°
+58°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
