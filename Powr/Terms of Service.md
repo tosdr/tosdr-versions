@@ -516,7 +516,7 @@ The section headings are for convenience only and shall not control or affect th
 
 Main
 
-[Blog](https://blog.powr.io/)[Plugin Library](https://www.powr.io/plugins)[POWR Business](https://www.powr.io/business)[Integration Partners](https://powr.partnerpage.io/integrations)[Social Media Help?](https://get.powr.io/powrandsocial5)[Pricing](https://www.powr.io/pricing)
+[Blog](https://blog.powr.io/)[Plugin Library](https://www.powr.io/plugins)[POWR Business](https://www.powr.io/business)[Plans & Pricing](https://www.powr.io/pricing)[HIPAA Forms](https://www.powr.io/hipaa-form-website-app)
 
 Company
 
@@ -524,11 +524,11 @@ Company
 
 Support
 
-[Help Center](https://www.powr.io/knowledge-base)[Tutorials](https://www.powr.io/tutorials)[Contact Support](https://www.powr.io/feedback/new)[Report Abuse](https://www.powr.io/report-abuse)
+[Help Center](https://www.powr.io/knowledge-base)[Tutorials](https://www.powr.io/tutorials)[Contact Support](https://www.powr.io/feedback/new)[Report Abuse](https://www.powr.io/report-abuse)[Join Community](https://community.powr.io/)
 
 Get Involved
 
-[Affiliate Program](https://www.powr.io/affiliate)[Success Stories](https://www.powr.io/success-stories)[Feature Requests](https://www.powr.io/feature-requests)[Guest Blog Post](https://blog.powr.io/guest-post-guidelines)[Partner Program](https://get.powr.io/affiliate-and-agency-partner-program)
+[Affiliate Program](https://get.powr.io/affiliate-and-agency-partner-program)[Success Stories](https://www.powr.io/success-stories)[Feature Requests](https://www.powr.io/feature-requests)[Guest Blog Post](https://blog.powr.io/guest-post-guidelines)
 
 Featured Blog post
 
