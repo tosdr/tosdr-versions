@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8701241-f603-4998-9929-41f0de744bde/20240927T031311/f8701241-f603-4998-9929-41f0de744bde_360x203.jpg)](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/cfc69e25-8738-440c-b1c5-9f33f934354a/cfc69e25-8738-440c-b1c5-9f33f934354a_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/cfc69e25-8738-440c-b1c5-9f33f934354a/cfc69e25-8738-440c-b1c5-9f33f934354a_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
         
-        #### [Scott County Board raises concerns about funding of LeClaire YMCA](https://www.wqad.com/article/news/local/scott-county-board-raises-concerns-funding-leclaire-ymca/526-3dbc98bc-7fd7-4801-9a57-91aae9ed1c8f)
+        #### [2 dead in Galesburg house fire](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b7199306-879c-4e70-97d9-c3ea859f7ae4/20240927T015303/b7199306-879c-4e70-97d9-c3ea859f7ae4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b7199306-879c-4e70-97d9-c3ea859f7ae4/20240927T015303/b7199306-879c-4e70-97d9-c3ea859f7ae4_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-pd-relaunching-explorer-program/526-e21bf684-c43a-4b3d-bc2b-be0fd1abca0d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
         
-        #### [Rock Island police relaunching Explorer Program to help increase interest in law enforcement](https://www.wqad.com/article/news/local/rock-island-pd-relaunching-explorer-program/526-e21bf684-c43a-4b3d-bc2b-be0fd1abca0d)
+        #### [Manhunt underway in Louisa County, Iowa](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5aba277a-1350-4781-b708-17aeb36cb8f8/20240927T033237/5aba277a-1350-4781-b708-17aeb36cb8f8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aba277a-1350-4781-b708-17aeb36cb8f8/20240927T033237/5aba277a-1350-4781-b708-17aeb36cb8f8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d55d2556-a345-4add-bede-236498c80fba/20240927T121512/d55d2556-a345-4add-bede-236498c80fba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d55d2556-a345-4add-bede-236498c80fba/20240927T121512/d55d2556-a345-4add-bede-236498c80fba_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Remnants of Helene arrives later tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Helene brings clouds and breezy winds](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WTSP/images/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab/20240926T222611/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab/20240926T222611/fbdc35e4-f8a5-4caf-9e0c-67910ff1dcab_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene-hurricane-florida-big-bend-quad-city-natives-prepare/526-c96ab4c7-5274-4151-ab24-c49c41471fe0)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/d8eb1d12-3f2b-4138-a147-7121a4692c00/20240927T104936/d8eb1d12-3f2b-4138-a147-7121a4692c00_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d8eb1d12-3f2b-4138-a147-7121a4692c00/20240927T104936/d8eb1d12-3f2b-4138-a147-7121a4692c00_360x203.jpg)](https://www.wqad.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
         
-        #### [Quad City natives living in Florida prepare for Helene's impact](https://www.wqad.com/article/weather/hurricane/helene-hurricane-florida-big-bend-quad-city-natives-prepare/526-c96ab4c7-5274-4151-ab24-c49c41471fe0)
+        #### [Helene lashes the South with wind and sheets of rain. Millions are without power](https://www.wqad.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-58°
+71°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
