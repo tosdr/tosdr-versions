@@ -58,9 +58,7 @@ Close
 Terms of Service
 ================
 
-The necessary terms and conditions of service.
-
-Table of Contents
+On this page
 
 1. [Use of our Website](#use-of-our-website)
 2. [Use of the Products](#use-of-the-products)
@@ -78,6 +76,8 @@ Table of Contents
 14. [Notices and Complaints](#notices-and-complaints)
 15. [Jurisdiction](#jurisdiction)
 16. [Entire Agreement](#entire-agreement)
+
+The necessary terms and conditions of service.
 
 These terms and conditions set out the terms and conditions on which we offer to supply to you products advertised on this website.
 
@@ -192,6 +192,25 @@ These terms and conditions, our privacy policy, license agreement, and any docum
 You and we acknowledge that, in entering into a contract, you have not and we have not relied on any representation, undertaking or promise given by the other or be implied from anything said or written in negotiations between you and us prior to such contract except as expressly stated in these terms and conditions.
 
 _Updated November 12, 2019_
+
+On this page
+
+1. [Use of our Website](#use-of-our-website)
+2. [Use of the Products](#use-of-the-products)
+3. [We are not Financial Advisors](#we-are-not-financial-advisors)
+4. [Pricing and Payment Details](#pricing-and-payment-details)
+5. [Processing your Order](#processing-your-order)
+6. [Returns, Refunds, and Exchanges](#returns-refunds-and-exchanges)
+7. [License](#license)
+8. [Intellectual Property Rights](#intellectual-property-rights)
+9. [Disclaimer](#disclaimer)
+10. [Indemnification](#indemnification)
+11. [Third Party Websites](#third-party-websites)
+12. [Privacy](#privacy)
+13. [Children's Use of the Website](#childrens-use-of-the-website)
+14. [Notices and Complaints](#notices-and-complaints)
+15. [Jurisdiction](#jurisdiction)
+16. [Entire Agreement](#entire-agreement)
 
 Footer
 ------
