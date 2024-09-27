@@ -1,6 +1,6 @@
-[Breaking: Deadly Helene speeds toward metro Atlanta as tropical storm](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
+[Breaking: Helene in Georgia: 11 dead, flooding widespread, over 1 million without power](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1696)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1696)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
 
@@ -24,7 +24,7 @@ Log In
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 * [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1696)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1698)
 
 * Quick Links
     
@@ -148,7 +148,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1696)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1698)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
