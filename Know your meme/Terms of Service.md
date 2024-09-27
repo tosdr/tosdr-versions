@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Eric Adams' Indictment](https://knowyourmeme.com/memes/events/eric-adams-indictment "Eric Adams' Indictment") [Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy")
+[RFK Jr. Dead Whale Story](https://knowyourmeme.com/memes/events/rfk-jr-dead-whale-story "RFK Jr. Dead Whale Story") [Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [Never Kill Yourself](https://knowyourmeme.com/memes/never-kill-yourself "Never Kill Yourself")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
