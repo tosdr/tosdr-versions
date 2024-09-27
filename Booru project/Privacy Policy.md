@@ -10,10 +10,10 @@ where the imageboards live
 * [![](images/menu_top_boorus.png)Top Boorus](https://booru.org/top "List of most popular boorus")
 * [![](images/menu_faq.png)FAQ](https://booru.org/faq)
 
-  ![aesthetics](https://aesthetics.booru.org/favicon.ico)  Booru of the day: |**[aesthetics](https://aesthetics.booru.org/)**|
+  ![alltied](http://alltied.booru.org/favicon.ico)  Booru of the day: |**[alltied](http://alltied.booru.org/)**|
 
-* SFW
-* 116 ![images](images/booru_totalimages.gif)
+* NSFW
+* 270 ![images](images/booru_totalimages.gif)
 * 1 ![members](images/booru_totalusers.gif)
 
 * [![](images/menu_login.gif)Log into your Booru](https://booru.org/login)
