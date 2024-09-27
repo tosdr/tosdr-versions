@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/life-purpose-and-life-intentions/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/thijs-stelt-nummes-even-aan-je-voor/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
