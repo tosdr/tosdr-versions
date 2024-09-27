@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/3beb9b9072e6.gif)](https://www.gaiaonline.com/forum/t.114278757/ "Prisma: Offblack Bunny Ears") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/ea4617b0a11e.gif)](https://www.gaiaonline.com/forum/t.114265644/ "Aura Points") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,13 +13,13 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-bd784dc4e7629fb0d7dabe10c80d5c2fdf08a63855dbb9926d67659ae5d2e813df08a63855dbb9926d67659ae5d2e813
+f1f86f4bc1fd30d33c54eec1b1f77c118c08536b61b6ee36a025da19ef401468
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
 * [GCash](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpayments%2F%3F_gaia_t_%3D8608)
 
-* [Shops !](https://www.gaiaonline.com/market/)
+* [Shops](https://www.gaiaonline.com/market/)
 
 * [Forums](https://www.gaiaonline.com/forum/)
 
@@ -341,7 +341,7 @@ More Items
 
 * [Deals & New Items](https://www.gaiaonline.com/deals/)
     
-    New deal posted!
+    Find new items, and discounts
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -535,4 +535,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727445495)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727467523)
