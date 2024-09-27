@@ -128,39 +128,39 @@ Advertisement
     Very Young Girls
     
     Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+* [![The Perfect Vagina](/wp-content/thumbnails/2910-100x70.jpg?x53432)
     
-    Objectified
+    The Perfect Vagina
     
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+    After having watched Penis Size Insecurity By Men, it's now time to move on to lesson two and have a look at womens insecurities: The Perfect Vagina.Fronted by Lisa Rogers, this documentary focuse...](https://documentaryheaven.com/the-perfect-vagina/ "The Perfect Vagina")
 
 ###### Throwback Documentaries
 
-* [![The Pixel Painter](/wp-content/thumbnails/8146-100x70.jpg?x53432)
+* [![Ruby Ridge](/wp-content/thumbnails/13180-100x70.jpg?x53432)
     
-    The Pixel Painter
+    Ruby Ridge
     
-    Hal Lasko, better known as Grandpa, worked as a graphic artist back when everything was done by hand. His family introduced him to the computer and Microsoft Paint long after he retired. Now, Grandpa](https://documentaryheaven.com/pixel-painter/ "The Pixel Painter")
-* [![Mechanized Death: Legendary Driving Safety Film](/wp-content/thumbnails/2442-100x70.jpg?x53432)
+    On August 21, 1992, a place known as Ruby Ridge located in Northern Idaho would become infamous as this particular day marked the beginning of an eleven-day siege which took place between six hea](https://documentaryheaven.com/american-experience-ruby-ridge/ "Ruby Ridge")
+* [![Hitler’s Right Hand Man: Hermann Göring](/wp-content/thumbnails/9216-100x70.jpg?x53432)
     
-    Mechanized Death: Legendary Driving Safety Film
+    Hitler’s Right Hand Man: Hermann Göring
     
-    Legendary “shock” driving safety film featuring numerous scenes of mutilated cars and injured/dead people and a voice over lacking in compassion.Produced in cooperation with the Ohio State Highway](https://documentaryheaven.com/mechanized-death-%e2%80%93-legendary-driving-safety-film/ "Mechanized Death: Legendary Driving Safety Film")
-* [![Extraordinary People: The Million Dollar Mind Reader](/wp-content/thumbnails/3319-100x70.jpg?x53432)
+    Hermann Göring was Hitlers right hand man who after World War II was convicted in the Nuremberg trials of war crimes and crimes against humanity. He was sentenced to death by hanging but before this s](https://documentaryheaven.com/hitlers-right-hand-man-hermann-goring/ "Hitler’s Right Hand Man: Hermann Göring")
+* [![A Very British Hero](/wp-content/thumbnails/3947-100x70.jpg?x53432)
     
-    Extraordinary People: The Million Dollar Mind Reader
+    A Very British Hero
     
-    Derek Ogilvie says he can read the minds of infants who are too young to communicate verbally.Now he agrees to undergo a series of controlled experiments to test the limits of his alleged abili](https://documentaryheaven.com/extraordinary-people-the-million-dollar-mind-reader/ "Extraordinary People: The Million Dollar Mind Reader")
-* [![Vanished](/wp-content/thumbnails/14458-100x70.jpg?x53432)
+    In A Very British Hero, Christina Schmid – the widow of army bomb disposal expert Oz Schmid – reveals how the Army is failing in its duty of care to this tiny elite band of soldiers who are at the ver](https://documentaryheaven.com/a-very-british-hero/ "A Very British Hero")
+* [![FUCK](/wp-content/thumbnails/8775-100x70.jpg?x53432)
     
-    Vanished
+    FUCK
     
-    The Watts family homicides was a crime that shook America, occurring on the early morning of August 13, 2018 when Chris Watts murdered his pregnant wife Shanann and two children Bella, 4, and Celeste,](https://documentaryheaven.com/vanished/ "Vanished")
-* [![Fluoride: The Hard to Swallow Truth](/wp-content/thumbnails/5742-100x70.jpg?x53432)
+    Released in 2005, FUCK is a documentary by Steve Anderson and examines the word "fuck" and its origins. The films itself argues that the word is an essential part of society and discussion and represe](https://documentaryheaven.com/fuck/ "FUCK")
+* [![Prime Time: The Graham Dwyer Case](/wp-content/thumbnails/14681-100x70.jpg?x53432)
     
-    Fluoride: The Hard to Swallow Truth
+    Prime Time: The Graham Dwyer Case
     
-    This short documentary looks at the initial theories behind the effectiveness of fluoride and where it originated. It goes on to show the lack of science behind the use of Fluoride and reveals Fluor](https://documentaryheaven.com/fluoride-the-hard-to-swallow-truth/ "Fluoride: The Hard to Swallow Truth")
+    In this RTÉ special we see Prime Time reporter Barry Cummins detail the circumstances and subsequent investigation into the case of Elaine O'Hara, an Irish woman who was originally reported missing bu](https://documentaryheaven.com/prime-time-graham-dwyer-case/ "Prime Time: The Graham Dwyer Case")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
