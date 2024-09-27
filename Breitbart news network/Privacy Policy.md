@@ -54,8 +54,8 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Hurricane Helene](https://www.breitbart.com/tag/hurricane/)
 * [Eric Adams](https://www.breitbart.com/tag/eric-adams/)
-* [Hurricane Helene](https://www.breitbart.com/weather/2024/09/26/forecasters-warn-hurricane-helene-trails-unsurvivable-storm-surge-vast-inland-damage/)
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
 * [2nd Attempt](https://www.breitbart.com/tag/ryan-wesley-routh/)
 * [Diddy](https://www.breitbart.com/tag/diddy/)
