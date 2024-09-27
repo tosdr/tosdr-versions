@@ -254,7 +254,6 @@ United state of America
 
 [![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab8b414043cc1123261898_Social-linkedin.svg)](https://www.linkedin.com/company/kairos-ar-inc-)
 
-  
 Kairos Ar Inc  
 1007 North Orange Street  
 4th Floor #82  
