@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/are-gender-sexual-identity-linked-brain-health-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/excessive-alcohol-higher-risk-of-cancer-1440x810.jpg)
 
-LGBTQ+ People Have Higher Risk of Depression and Dementia as They Age](https://www.everydayhealth.com/healthy-aging/lgbtq-higher-risk-of-depression-dementia-as-they-age/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Drinking Alcohol Increases the Risk of 6 Types of Cancer](https://www.everydayhealth.com/cancer/drinking-alcohol-increases-the-risk-of-six-types-of-cancer/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/ms-symptoms-at-onset-linked-to-long-term-disability-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/1-in-3-americans-may-be-iron-deficient-1440x810.jpg)
 
-Early MS Symptoms Might Predict Long-Term Disability](https://www.everydayhealth.com/neurology/early-ms-symptoms-might-predict-long-term-disability/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Nearly 1 in 3 Americans May Have Undetected Iron Deficiency](https://www.everydayhealth.com/blood-disorders/one-in-three-americans-may-have-undetected-iron-deficiency/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/you-can-soon-self-administer-flu-vaccine-1440x810.jpg)
 
