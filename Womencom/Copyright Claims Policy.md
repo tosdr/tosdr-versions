@@ -41,32 +41,20 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/5-practical-magic-inspired-nail-ideas-with-impeccable-autumn-vibes/intro-1727206271.jpg)](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+*  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
     
-    [5 Practical Magic Inspired Nail Ideas With Impeccable Autumn Vibes](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
-    ============================================================================================================================================
+    [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+    =======================================================================================================================
     
-    Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
+    Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+    By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
     
-* *  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-        
-        ### [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-        
-        Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-        
-    *  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+* *  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -77,6 +65,18 @@
         Reese Witherspoon has never met an LBD she didn't like. Here are 5 times she took the classic look and made it her own.
         
         By Emily Hutchinson [Read More](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+        
+    *  [![Purple celestial nails](https://www.women.com/img/gallery/5-practical-magic-inspired-nail-ideas-with-impeccable-autumn-vibes/intro-1727206271.jpg)](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [5 Practical Magic Inspired Nail Ideas With Impeccable Autumn Vibes](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+        
+        Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
         
 
 More Stories
