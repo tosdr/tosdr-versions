@@ -142,13 +142,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
 
-[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
 
-  [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+  [![The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423948.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
 
-[How Taro Kono lost his mojo](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
+[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-  [![Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423871.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
+  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
 Editors' Picks
 --------------
@@ -177,19 +177,19 @@ By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gu
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+  [![The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423948.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[How Taro Kono lost his mojo](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
+[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Vladimir Soldatkin](https://www.japantimes.co.jp/author/2573/vladimir-soldatkin/ "Vladimir Soldatkin") and [Guy Faulconbridge](https://www.japantimes.co.jp/author/633/guy-faulconbridge/ "Guy Faulconbridge")  
 
-  [![Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423871.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
+  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
 Podcast
 -------
@@ -252,17 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Suntory to raise monthly wages by 7% in 2025](https://www.japantimes.co.jp/business/2024/09/26/companies/suntory-monthly-wage-raise/ "Suntory to raise monthly wages by 7% in 2025")
+[China's newest nuclear-powered submarine sank this year, U.S. says](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
 
-10 hours ago
+5 mins ago
 
-[In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
+[A global hunt for neutral rates to shape world finance costs](https://www.japantimes.co.jp/business/2024/09/27/economy/global-neutral-world-finance/ "A global hunt for neutral rates to shape world finance costs")
 
-[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
+14 mins ago
 
-[CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/cdp-ishin-noda/ "CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?")
+[Sharp collaborates on wooden air purifier with architect Kengo Kuma](https://www.japantimes.co.jp/business/2024/09/27/companies/sharp-air-purifier-kengo-kuma/ "Sharp collaborates on wooden air purifier with architect Kengo Kuma")
 
-[Jeep’s compact EV debuts in Japan as imported EVs take the lead](https://www.japantimes.co.jp/business/2024/09/26/companies/jeep-compact-ev/ "Jeep’s compact EV debuts in Japan as imported EVs take the lead")
+26 mins ago
+
+[Musk's X seeks Brazil comeback, retreats on 'censorship' feud](https://www.japantimes.co.jp/business/2024/09/27/companies/musk-x-brazil-censorship-feud/ "Musk's X seeks Brazil comeback, retreats on 'censorship' feud")
+
+37 mins ago
+
+[Tokyo Electron prepares for India expansion as Modi lures chipmakers](https://www.japantimes.co.jp/business/2024/09/27/companies/tokyo-electron-prepares-for-india-expansion/ "Tokyo Electron prepares for India expansion as Modi lures chipmakers")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
