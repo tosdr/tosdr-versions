@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [New US Air Force PT uniforms delayed, again, until November](https://www.defensenews.com/digital-show-dailies/air-force-association/2024/09/26/new-us-air-force-pt-uniforms-delayed-again-until-november/)  
+    09/26/24 03:00pm  
+    
+    The U.S. Air Force's new physical training uniform includes a crewneck and hooded sweatshirt, among other garments. (Jon Simkins/Staff)
+    
 * [China test-fires intercontinental ballistic missile into Pacific Ocean](https://www.defensenews.com/global/asia-pacific/2024/09/25/china-test-fires-intercontinental-ballistic-missile-into-pacific-ocean/)  
     09/25/24 06:30pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/24/24 10:46am  
     
     Delegates socialize in front of a large display on the SAAB stand during the 2019 iteration of the DSEI arms fair in London. Saab is expanding globally and has announced plans for a munitions facility in Grayling, Michigan. (Leon Neal/Getty Images)
-    
-* [Boeing ousts defense chief Ted Colbert as firm seeks to right itself](https://www.defensenews.com/breaking-news/2024/09/21/boeing-ousts-defense-chief-ted-colbert-as-firm-seeks-to-right-itself/)  
-    09/20/24 09:29pm  
-    
-    Boeng on Friday announced Ted Colbert, the head of Boeing Defense, Space and Security, was exiting the company effective immediately. (Karim Sahib/AFP via Getty Images)
     
 
 Recent parts by keyword  
