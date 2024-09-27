@@ -543,6 +543,8 @@ Or
 
 [CHECKOUT](https://www.logitech.com/checkout)
 
+Checkout with ESW: Clicking "Checkout" takes you to the ESW checkout, where payment is made and your order is processed by ESW, Logitech's partner for international sales.
+
 Your cart is currently empty. Begin shopping now Close
 
 ### NOTIFY ME
