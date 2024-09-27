@@ -69,6 +69,8 @@
     
      [Orange Africa and Middle East](https://www.orange.com/en/africa-and-middle-east)
     
+      [French local authorities](https://www.orange.com/en/group/french-local-authorities/how-orange-supports-regional-digital-development-france)
+    
       [Networks documentation](https://gallery.orange.com/reseaux#lang=en)
     
      [Orange and the EU](https://www.orange.com/en/groupe/orange-bruxelles)
