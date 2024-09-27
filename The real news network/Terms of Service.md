@@ -111,7 +111,7 @@ Trending Posts
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 
 Close
 
@@ -175,7 +175,7 @@ Trending Posts
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 
 [Skip to content](#main)
 
@@ -374,7 +374,7 @@ Trending Posts
 * [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [What’s good for Boeing workers is good for the public](https://therealnews.com/whats-good-for-boeing-workers-is-good-for-the-public)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Teamsters decline to endorse in 2024 US presidential race](https://therealnews.com/teamsters-decline-to-endorse-in-2024-us-presidential-race)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
