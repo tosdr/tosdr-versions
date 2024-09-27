@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [⚠ ☢ Total Right-Wing Victory ? ☢ ⚠ (164)](https://forum.nationstates.net/viewtopic.php?t=555823&f=41&view=unread#unread ""⚠ ☢ Total Right-Wing Victory ? ☢ ⚠" (164 posts)")
-* [YL catches AL doing something embaras… (11)](https://forum.nationstates.net/viewtopic.php?t=555982&f=25&view=unread#unread ""YL catches AL doing something embarassing, YL's reaction?" (11 posts)")
-* [YOU'RE FIRED! (285)](https://forum.nationstates.net/viewtopic.php?t=555261&f=25&view=unread#unread ""YOU'RE FIRED!" (285 posts)")
-* [How is AN morally aligned in DnD? (RE… (878)](https://forum.nationstates.net/viewtopic.php?t=550821&f=25&view=unread#unread ""How is AN morally aligned in DnD? (REVIVAL)" (878 posts)")
-* [Your opinion about an interesting fac… (2)](https://forum.nationstates.net/viewtopic.php?t=555990&f=25&view=unread#unread ""Your opinion about an interesting fact about AN- Next ittera" (2 posts)")
+* [Grant AN's wish then curse it (79)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (79 posts)")
+* [Socialist Realism Thread (14)](https://forum.nationstates.net/viewtopic.php?t=555929&f=19&view=unread#unread ""Socialist Realism Thread" (14 posts)")
+* [AN as a car? (204)](https://forum.nationstates.net/viewtopic.php?t=554491&f=25&view=unread#unread ""AN as a car?" (204 posts)")
+* [Change a Letter (2,070)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,070 posts)")
+* [\[DRAFT\] Aid to Sinking Islands (3)](https://forum.nationstates.net/viewtopic.php?t=555466&f=9&view=unread#unread ""[DRAFT] Aid to Sinking Islands" (3 posts)")
 
 Advertisement
 
