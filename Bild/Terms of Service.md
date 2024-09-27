@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger
+
+51-Jähriger sollte festgenommen werden: SEK überwältigt mit Kettensäge und Ramme einen Schläger](https://www.bild.de/regional/schleswig-holstein/sek-ueberwaeltigt-schlaeger-sie-kamen-mit-kettensaege-und-ramme-66f6762a7728166d1e1fb488)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
