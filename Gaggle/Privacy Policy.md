@@ -18,7 +18,7 @@ Our solutions help K-12 districts manage student safety and well-being on school
 * [Safety Tipline](https://www.gaggle.net/safety-tipline?hsLang=en)
 * [Professional Development](https://www.gaggle.net/professional-development?hsLang=en)
 * [Crisis Line](https://www.gaggle.net/reachout?hsLang=en)
-* [Archiving](https://www.gaggle.net/archiving?hsLang=en)
+* [Archiving and Backup](https://www.gaggle.net/archiving?hsLang=en)
 
 Resources
 
@@ -32,7 +32,6 @@ Access Gaggle’s library of resources on student safety, SEL, cyberbullying, st
 * [Podcasts](https://www.gaggle.net/it-takes-a-village?hsLang=en)
 * [Content](https://www.gaggle.net/content?hsLang=en)
 * [Events](https://www.gaggle.net/events?hsLang=en)
-* [App Watchlist](https://www.gaggle.net/app-watchlist?hsLang=en)
 * [Videos](https://www.gaggle.net/content?type-filter=Video&topic-filter=all&date-filter=all&hsLang=en)
 * [Student Support](https://www.gaggle.net/student-support?hsLang=en)
 
