@@ -2,7 +2,7 @@
 
 [skip navigation](#Heading1)
 
-![Organisation Logo](/DN/!d/images/activbase-logo.svg#hor-blu)
+![Organisation Logo](/DN/!Jc/images/activbase-logo.svg#hor-blu)
 
 [](https://activbase.net/DN/Login "Return to Login")[Login](https://activbase.net/DN/Login)
 
@@ -211,9 +211,9 @@ Usage Definitions:
 
 [Home](https://activbase.net/DN/ "Return to the Home page")
 
-[![Logo](/DN/!d/images/activbase-logo.svg#hor-wht)](#)
+[![Logo](/DN/!Jc/images/activbase-logo.svg#hor-wht)](#)
 
-v067aa | 29 February 2024
+v067ak | 26 September 2024
 
 * [HELP & SUPPORT](https://activbase.net/DN/Help/HelpSupport)
 * [Terms & Conditions](https://activbase.net/DN/TermsAndConditions)
