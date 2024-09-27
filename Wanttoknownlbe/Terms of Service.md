@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/wat-is-nu-precies-de-vernieuwing/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/is-de-bp-olieramp-een-inside-job/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
