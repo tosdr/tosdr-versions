@@ -26,57 +26,89 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-soros-1200x630.jpg)](https://americanwirenews.com/ramaswamy-rips-chummy-images-of-alex-soros-and-tim-walz-can-see-the-puppet-master-pulling-the-strings/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jdvance1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
 
-[Ramaswamy rips chummy images of Alex Soros and Tim Walz: ‘Can see the puppet master pulling the strings’](https://americanwirenews.com/ramaswamy-rips-chummy-images-of-alex-soros-and-tim-walz-can-see-the-puppet-master-pulling-the-strings/)
+[Leftist journo ‘doing Iran’s bidding’ by publishing hacked Vance document](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/screenshot-2024-09-26-054230-1200x630.png)](https://americanwirenews.com/emir-of-qatar-steps-up-at-the-united-nations/)
 
 [Emir of Qatar steps up at the United Nations](https://americanwirenews.com/emir-of-qatar-steps-up-at-the-united-nations/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-chimpanzee-1200x630.jpg)](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-zelenskyy-2-1200x630.jpg)](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
 
-[Research facility destroyed by locals after trained Chimp steals and brutally murders human baby](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
+[Trump shares private message Zelenskyy just sent him](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-election-ballot-1200x630.jpg)](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jumaane-williams-1200x630.jpg)](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
 
-[‘NO BARCODE’: Wisc. Rep demands investigation ‘NOW’ after excuse for duplicate ballots doesn’t add up](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
+[AOC-backed Anti-cop, far-left zealot on deck to replace NYC Mayor Adams](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-horowitz-massie-1200x630.jpg)](https://americanwirenews.com/i-need-to-be-careful-doj-inspector-gives-cagey-response-to-questions-about-fbi-informants-in-j6-crowd/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nyc-1200x630.png)](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
 
-[‘I need to be careful’: DOJ inspector gives cagey response to questions about FBI informants in J6 crowd](https://americanwirenews.com/i-need-to-be-careful-doj-inspector-gives-cagey-response-to-questions-about-fbi-informants-in-j6-crowd/)
+[Trump blasts ABC News for violating debate agreement](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hillary-clinton-2-1200x630.jpg)](https://americanwirenews.com/hillary-says-deplorable-is-too-kind-a-word-for-some-trump-supporters-but-insists-shes-striving-for-empathy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nathan-fani-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
 
-[Hillary says ‘deplorable’ is ‘too kind a word’ for some Trump supporters, but insists she’s striving for ‘empathy’](https://americanwirenews.com/hillary-says-deplorable-is-too-kind-a-word-for-some-trump-supporters-but-insists-shes-striving-for-empathy/)
+[Manhunt underway for Fani Willis’ boy toy Nathan Wade](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-plane-altercation-1200x630.jpg)](https://americanwirenews.com/woman-accused-of-stealing-from-erratic-man-in-viral-plane-confrontation-gives-her-side-of-the-story/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mayor-adams-1200x630.jpg)](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
 
-[Woman accused of ‘stealing’ from ‘erratic’ man in viral plane confrontation gives her side of the story](https://americanwirenews.com/woman-accused-of-stealing-from-erratic-man-in-viral-plane-confrontation-gives-her-side-of-the-story/)
+[‘You are a disgrace for all Black people in this city!’ Adams loudly heckled at presser](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-misha-pride-1200x630.jpg)](https://americanwirenews.com/maine-mayor-advises-elderly-to-consider-reverse-mortgages-amid-surging-taxes-and-reported-migrant-influx/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-musk-1200x630.jpg)](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
 
-[Maine mayor advises elderly to consider ‘reverse mortgages’ amid surging taxes, and reported ‘migrant’ influx](https://americanwirenews.com/maine-mayor-advises-elderly-to-consider-reverse-mortgages-amid-surging-taxes-and-reported-migrant-influx/)
+[Elon Musk says ‘it’s obvious’ that Dems are ‘importing voters’](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mark-cuban-3-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tlaib-blinken-split-1200-x-628-1200x630.jpg)
 
-### Mark Cuban claims he’s no longer a Trump fan because he wouldn’t take his advice: ‘I literally told him…’](https://americanwirenews.com/mark-cuban-claims-hes-no-longer-a-trump-fan-because-he-wouldnt-take-his-advice-i-literally-told-him/)
+### Rashida Tlaib to Antony Blinken: ‘Resign now’](https://americanwirenews.com/rashida-tlaib-to-antony-blinken-resign-now/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Cardinal Dolan reacts to Kamala’s snub of traditional Catholic charity dinner](https://americanwirenews.com/cardinal-dolan-reacts-to-kamalas-snub-of-traditional-catholic-charity-dinner/)
+### [Kamala mocked over butchering name of Bible book](https://americanwirenews.com/kamala-mocked-over-butchering-name-of-bible-book/)
 
-### [Disney CEO and his company ‘are f–ked if Trump wins,’ says former adviser](https://americanwirenews.com/disney-ceo-and-his-company-are-f-ked-if-trump-wins-says-former-adviser/)
+### [Drunk Secret Service agent allegedly sexually assaulted Kamala campaign worker](https://americanwirenews.com/drunk-secret-service-agent-allegedly-sexually-assaulted-kamala-campaign-worker/)
 
-### [Trump’s ‘protector’ message gets chewed up by women who oppose being protected](https://americanwirenews.com/trumps-protector-message-gets-chewed-up-by-women-who-oppose-being-protected/)
+### [Kamala’s MSNBC softball interview did not come off as she planned](https://americanwirenews.com/kamalas-msnbc-softball-interview-did-not-come-off-as-she-planned/)
 
-### [Nancy Pelosi’s husband reportedly sold over $500,000 worth of Visa stocks months before DOJ’s antitrust charges](https://americanwirenews.com/nancy-pelosis-husband-reportedly-sold-over-500000-worth-of-visa-stocks-months-before-dojs-antitrust-charges/)
+### [Melania Trump gives first TV interview in two years, recounts her panic after assassination attempt](https://americanwirenews.com/melania-trump-gives-first-tv-interview-in-two-years-recounts-her-panic-after-assassination-attempt/)
 
-### [Trump responds after being briefed on ‘real and specific’ assassination threats from Iran](https://americanwirenews.com/trump-responds-after-being-briefed-on-real-and-specific-assassination-threats-from-iran/)
+### [NYC Mayor Eric Adams dropkicks AOC after she demands his resignation](https://americanwirenews.com/nyc-mayor-eric-adams-dropkicks-aoc-after-she-demands-his-resignation/)
 
-### [Trump shares hot tip that illegals are being paid to be Kamala supporters](https://americanwirenews.com/trump-shares-hot-tip-that-illegals-are-being-paid-to-be-kamala-supporters/)
+### [House Republican triggers firestorm with Haiti ‘nastiest country’ tweet](https://americanwirenews.com/house-republican-triggers-firestorm-with-haiti-nastiest-country-tweet/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-ship-220x180.jpg)](https://americanwirenews.com/sabotage-shocker-shipbuilding-company-suspects-faulty-welds-were-done-intentionally-on-us-navy-subs/)
+
+[Sabotage shocker: Shipbuilding company suspects faulty welds were done intentionally on US Navy subs](https://americanwirenews.com/sabotage-shocker-shipbuilding-company-suspects-faulty-welds-were-done-intentionally-on-us-navy-subs/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-2-220x180.png)](https://americanwirenews.com/kamala-joins-with-zelenskyy-for-presser-photo-op-takes-no-questions/)
+
+[Kamala joins with Zelenskyy for presser, photo op – takes no questions](https://americanwirenews.com/kamala-joins-with-zelenskyy-for-presser-photo-op-takes-no-questions/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kjp-gun-220x180.jpg)](https://americanwirenews.com/kjp-gets-dragged-for-defense-of-kamalas-record-on-gun-rights-not-just-a-liar-but-a-bad-liar/)
+
+[KJP gets DRAGGED for defense of Kamala’s record on gun rights: ‘Not just a liar, but a BAD liar’](https://americanwirenews.com/kjp-gets-dragged-for-defense-of-kamalas-record-on-gun-rights-not-just-a-liar-but-a-bad-liar/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fils-water-220x180.jpg)](https://americanwirenews.com/haitian-official-discussing-cats-and-dogs-comments-to-un-makes-crazy-embarrassing-move-in-middle-of-speech/)
+
+[Haitian official discussing ‘cats and dogs’ comments to UN makes crazy embarrassing move in middle of speech](https://americanwirenews.com/haitian-official-discussing-cats-and-dogs-comments-to-un-makes-crazy-embarrassing-move-in-middle-of-speech/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnnboy-kamala-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-asks-kids-to-describe-kamala-dont-get-answers-they-were-likely-expecting/)
+
+[CNN asks kids to describe Kamala, don’t get answers they were likely expecting](https://americanwirenews.com/cnn-asks-kids-to-describe-kamala-dont-get-answers-they-were-likely-expecting/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-judge-arthur-engoron-sg-donald-trump1200-x-628-220x180.jpg)](https://americanwirenews.com/ny-judges-review-trumps-massive-454m-civil-fraud-settlement-and-one-calls-it-troubling/)
+
+[NY judges review Trump’s massive $454M civil fraud settlement, and one calls it ‘troubling’](https://americanwirenews.com/ny-judges-review-trumps-massive-454m-civil-fraud-settlement-and-one-calls-it-troubling/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-matt-gaetz-220x180.jpg)](https://americanwirenews.com/gaetz-blasts-uncomfortably-nosy-ethic-committee-wont-participate-in-probe/)
+
+[Gaetz blasts ‘uncomfortably nosy’ ethic committee, won’t participate in probe](https://americanwirenews.com/gaetz-blasts-uncomfortably-nosy-ethic-committee-wont-participate-in-probe/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SGDonaldTrumpSGNancyPelosi-220x180.jpeg)](https://americanwirenews.com/trump-unloads-on-pelosi-for-insider-trading-after-latest-stock-dump-she-should-be-prosecuted/)
+
+[Trump unloads on Pelosi for insider trading after latest stock dump: ‘She should be prosecuted’](https://americanwirenews.com/trump-unloads-on-pelosi-for-insider-trading-after-latest-stock-dump-she-should-be-prosecuted/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-ruhle-220x180.jpg)](https://americanwirenews.com/whoa-byron-york-shares-transcript-of-kamala-interview-and-its-even-scarier-in-writing/)
 
@@ -86,9 +118,41 @@ Search for:
 
 [Megyn Kelly blasts declared ‘highest paid female CEO in America’: ‘He climbed none of the mountains we did’](https://americanwirenews.com/megyn-kelly-blasts-declared-highest-paid-female-ceo-in-america-he-climbed-none-of-the-mountains-we-did/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-election-ballot-220x180.jpg)](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
+
+[‘NO BARCODE’: Wisc. Rep demands investigation ‘NOW’ after excuse for duplicate ballots doesn’t add up](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hillary-clinton-2-220x180.jpg)](https://americanwirenews.com/hillary-says-deplorable-is-too-kind-a-word-for-some-trump-supporters-but-insists-shes-striving-for-empathy/)
+
+[Hillary says ‘deplorable’ is ‘too kind a word’ for some Trump supporters, but insists she’s striving for ‘empathy’](https://americanwirenews.com/hillary-says-deplorable-is-too-kind-a-word-for-some-trump-supporters-but-insists-shes-striving-for-empathy/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-sg-mother-at-disneyland-split-220x180.jpg)](https://americanwirenews.com/sad-scene-when-mom-tries-to-scam-disneyland-gets-hauled-off-in-cuffs-with-crying-kids-in-tow/)
 
 [Sad scene when mom tries to scam Disneyland, gets hauled off in cuffs with crying kids in tow](https://americanwirenews.com/sad-scene-when-mom-tries-to-scam-disneyland-gets-hauled-off-in-cuffs-with-crying-kids-in-tow/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-misha-pride-220x180.jpg)](https://americanwirenews.com/maine-mayor-advises-elderly-to-consider-reverse-mortgages-amid-surging-taxes-and-reported-migrant-influx/)
+
+[Maine mayor advises elderly to consider ‘reverse mortgages’ amid surging taxes, and reported ‘migrant’ influx](https://americanwirenews.com/maine-mayor-advises-elderly-to-consider-reverse-mortgages-amid-surging-taxes-and-reported-migrant-influx/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-horowitz-massie-220x180.jpg)](https://americanwirenews.com/i-need-to-be-careful-doj-inspector-gives-cagey-response-to-questions-about-fbi-informants-in-j6-crowd/)
+
+[‘I need to be careful’: DOJ inspector gives cagey response to questions about FBI informants in J6 crowd](https://americanwirenews.com/i-need-to-be-careful-doj-inspector-gives-cagey-response-to-questions-about-fbi-informants-in-j6-crowd/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-chimpanzee-220x180.jpg)](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
+
+[Research facility destroyed by locals after trained Chimp steals and brutally murders human baby](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mark-cuban-3-220x180.jpg)](https://americanwirenews.com/mark-cuban-claims-hes-no-longer-a-trump-fan-because-he-wouldnt-take-his-advice-i-literally-told-him/)
+
+[Mark Cuban claims he’s no longer a Trump fan because he wouldn’t take his advice: ‘I literally told him…’](https://americanwirenews.com/mark-cuban-claims-hes-no-longer-a-trump-fan-because-he-wouldnt-take-his-advice-i-literally-told-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-plane-altercation-220x180.jpg)](https://americanwirenews.com/woman-accused-of-stealing-from-erratic-man-in-viral-plane-confrontation-gives-her-side-of-the-story/)
+
+[Woman accused of ‘stealing’ from ‘erratic’ man in viral plane confrontation gives her side of the story](https://americanwirenews.com/woman-accused-of-stealing-from-erratic-man-in-viral-plane-confrontation-gives-her-side-of-the-story/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-soros-220x180.jpg)](https://americanwirenews.com/ramaswamy-rips-chummy-images-of-alex-soros-and-tim-walz-can-see-the-puppet-master-pulling-the-strings/)
+
+[Ramaswamy rips chummy images of Alex Soros and Tim Walz: ‘Can see the puppet master pulling the strings’](https://americanwirenews.com/ramaswamy-rips-chummy-images-of-alex-soros-and-tim-walz-can-see-the-puppet-master-pulling-the-strings/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tapper-cuban-220x180.jpg)](https://americanwirenews.com/peak-gaslighting-mark-cuban-tells-cnns-tapper-that-trumps-a-socialist/)
 
@@ -109,72 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-ukraine-220x180.jpg)](https://americanwirenews.com/biden-joins-the-view-sparks-big-controversy-over-what-hes-wearing/)
 
 [Biden joins ‘The View,’ sparks big controversy over what he’s wearing](https://americanwirenews.com/biden-joins-the-view-sparks-big-controversy-over-what-hes-wearing/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-bible-220x180.jpg)](https://americanwirenews.com/kamala-mocked-over-butchering-name-of-bible-book/)
-
-[Kamala mocked over butchering name of Bible book](https://americanwirenews.com/kamala-mocked-over-butchering-name-of-bible-book/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/gw-secret-service-agent-220x180.jpg)](https://americanwirenews.com/drunk-secret-service-agent-allegedly-sexually-assaulted-kamala-campaign-worker/)
-
-[Drunk Secret Service agent allegedly sexually assaulted Kamala campaign worker](https://americanwirenews.com/drunk-secret-service-agent-allegedly-sexually-assaulted-kamala-campaign-worker/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-sg-stephanie-ruhle-220x180.jpg)](https://americanwirenews.com/kamalas-msnbc-softball-interview-did-not-come-off-as-she-planned/)
-
-[Kamala’s MSNBC softball interview did not come off as she planned](https://americanwirenews.com/kamalas-msnbc-softball-interview-did-not-come-off-as-she-planned/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-melania-trump-220x180.jpg)](https://americanwirenews.com/melania-trump-gives-first-tv-interview-in-two-years-recounts-her-panic-after-assassination-attempt/)
-
-[Melania Trump gives first TV interview in two years, recounts her panic after assassination attempt](https://americanwirenews.com/melania-trump-gives-first-tv-interview-in-two-years-recounts-her-panic-after-assassination-attempt/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-aoc-adams-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/nyc-mayor-eric-adams-dropkicks-aoc-after-she-demands-his-resignation/)
-
-[NYC Mayor Eric Adams dropkicks AOC after she demands his resignation](https://americanwirenews.com/nyc-mayor-eric-adams-dropkicks-aoc-after-she-demands-his-resignation/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rephiggins-1200-x-628-220x180.jpg)](https://americanwirenews.com/house-republican-triggers-firestorm-with-haiti-nastiest-country-tweet/)
-
-[House Republican triggers firestorm with Haiti ‘nastiest country’ tweet](https://americanwirenews.com/house-republican-triggers-firestorm-with-haiti-nastiest-country-tweet/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-comer-z-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
-
-[House GOP to probe Zelenskyy’s campaigning for Kamala on the taxpayer dime](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-ice-arrest-migrant-220x180.jpg)](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
-
-[Wealthy blue city sees four ICE arrests in two days on child sex allegations](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
-
-(Image: ICE)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-goldberg-biden-220x180.jpg)](https://americanwirenews.com/whoopi-compares-trump-to-insect-biden-responds-by-pretending-to-kill-bug-on-table/)
-
-[Whoopi compares Trump to insect, Biden responds by pretending to kill bug on table](https://americanwirenews.com/whoopi-compares-trump-to-insect-biden-responds-by-pretending-to-kill-bug-on-table/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-plaskett-fbi-doj-220x180.jpg)](https://americanwirenews.com/the-best-argument-yet-for-dismantling-del-plaskett-has-a-creative-opinion-of-the-purpose-of-fbi-doj/)
-
-[‘The best argument yet for dismantling’: Del. Plaskett has a creative opinion of the purpose of FBI, DOJ](https://americanwirenews.com/the-best-argument-yet-for-dismantling-del-plaskett-has-a-creative-opinion-of-the-purpose-of-fbi-doj/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-leeds-stoynoff-220x180.jpg)](https://americanwirenews.com/george-conway-backed-attack-ads-dredge-up-old-trump-accusers-i-felt-sick-inside/)
-
-[George Conway-backed attack ads dredge up old Trump accusers: ‘I felt sick inside’](https://americanwirenews.com/george-conway-backed-attack-ads-dredge-up-old-trump-accusers-i-felt-sick-inside/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kay-montana-220x180.jpg)](https://americanwirenews.com/outraged-mom-confronts-school-over-registering-minor-daughter-to-vote-fearmongering-about-trump/)
-
-[Outraged mom confronts school over registering minor daughter to vote, fearmongering about Trump](https://americanwirenews.com/outraged-mom-confronts-school-over-registering-minor-daughter-to-vote-fearmongering-about-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-issa-blinken-220x180.jpg)](https://americanwirenews.com/darrell-issa-calls-for-closure-of-foggy-bottom-disinfo-office-cites-outright-censorship/)
-
-[Darrell Issa calls for closure of Foggy Bottom disinfo office, cites ‘outright censorship’](https://americanwirenews.com/darrell-issa-calls-for-closure-of-foggy-bottom-disinfo-office-cites-outright-censorship/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump_harrisphilly-1200-x-628-220x180.jpg)](https://americanwirenews.com/study-exposes-google-election-favoritism-trying-to-stack-the-deck-in-favor-of-kamala-harris/)
-
-[Study exposes Google election favoritism: ‘Trying to stack the deck in favor of Kamala Harris’](https://americanwirenews.com/study-exposes-google-election-favoritism-trying-to-stack-the-deck-in-favor-of-kamala-harris/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-1-220x180.jpg)](https://americanwirenews.com/kamala-to-sit-down-with-msnbcs-stephanie-ruhle-after-lapdog-host-defended-media-dodging/)
-
-[Kamala to sit down with MSNBC’s Stephanie Ruhle AFTER lapdog host defended media-dodging](https://americanwirenews.com/kamala-to-sit-down-with-msnbcs-stephanie-ruhle-after-lapdog-host-defended-media-dodging/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Baier-220x180.jpg)](https://americanwirenews.com/bret-baier-faults-trump-for-fox-news-debate-holdup-claims-kamala-harris-would-do-it/)
-
-[Bret Baier faults Trump for Fox News debate holdup, claims Kamala Harris ‘would do’ it](https://americanwirenews.com/bret-baier-faults-trump-for-fox-news-debate-holdup-claims-kamala-harris-would-do-it/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -262,29 +260,29 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-mcdonalds-1200x630.png)](https://americanwirenews.com/im-going-to-mcdonalds-trump-jabs-kamala-over-alleged-job-at-mickey-ds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-comer-z-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
 
-[‘I’m going to McDonalds’: Trump jabs Kamala over alleged job at Mickey D’s](https://americanwirenews.com/im-going-to-mcdonalds-trump-jabs-kamala-over-alleged-job-at-mickey-ds/)
+[House GOP to probe Zelenskyy’s campaigning for Kamala on the taxpayer dime](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-mcdonalds-220x180.png)](https://americanwirenews.com/im-going-to-mcdonalds-trump-jabs-kamala-over-alleged-job-at-mickey-ds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-comer-z-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
 
-[‘I’m going to McDonalds’: Trump jabs Kamala over alleged job at Mickey D’s](https://americanwirenews.com/im-going-to-mcdonalds-trump-jabs-kamala-over-alleged-job-at-mickey-ds/)
+[House GOP to probe Zelenskyy’s campaigning for Kamala on the taxpayer dime](https://americanwirenews.com/house-gop-to-probe-zelenskyys-campaigning-for-kamala-on-the-taxpayer-dime/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-manchin-220x180.jpg)](https://americanwirenews.com/sen-joe-manchin-wont-endorse-harris-after-her-filibuster-pledge-that-will-destroy-our-country/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-goldberg-biden-220x180.jpg)](https://americanwirenews.com/whoopi-compares-trump-to-insect-biden-responds-by-pretending-to-kill-bug-on-table/)
 
-[Sen. Joe Manchin WON’T endorse Harris after her filibuster pledge that will ‘destroy our country’](https://americanwirenews.com/sen-joe-manchin-wont-endorse-harris-after-her-filibuster-pledge-that-will-destroy-our-country/)
+[Whoopi compares Trump to insect, Biden responds by pretending to kill bug on table](https://americanwirenews.com/whoopi-compares-trump-to-insect-biden-responds-by-pretending-to-kill-bug-on-table/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-vance-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/group-seeks-criminal-charges-against-trump-vance-over-remarks-about-haitian-migrant-cat-eaters/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-plaskett-fbi-doj-220x180.jpg)](https://americanwirenews.com/the-best-argument-yet-for-dismantling-del-plaskett-has-a-creative-opinion-of-the-purpose-of-fbi-doj/)
 
-[Group seeks CRIMINAL charges against Trump, Vance over remarks about Haitian migrant ‘cat eaters’](https://americanwirenews.com/group-seeks-criminal-charges-against-trump-vance-over-remarks-about-haitian-migrant-cat-eaters/)
+[‘The best argument yet for dismantling’: Del. Plaskett has a creative opinion of the purpose of FBI, DOJ](https://americanwirenews.com/the-best-argument-yet-for-dismantling-del-plaskett-has-a-creative-opinion-of-the-purpose-of-fbi-doj/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hunt-ramaswamy-220x180.jpg)](https://americanwirenews.com/if-you-want-to-call-balls-strikes-ramaswamy-locks-horns-with-kasie-hunt-in-battle-over-fact-checking-bias/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-leeds-stoynoff-220x180.jpg)](https://americanwirenews.com/george-conway-backed-attack-ads-dredge-up-old-trump-accusers-i-felt-sick-inside/)
 
-[‘If you want to call balls & strikes…’: Ramaswamy locks horns with Kasie Hunt in battle over ‘fact checking’ bias](https://americanwirenews.com/if-you-want-to-call-balls-strikes-ramaswamy-locks-horns-with-kasie-hunt-in-battle-over-fact-checking-bias/)
+[George Conway-backed attack ads dredge up old Trump accusers: ‘I felt sick inside’](https://americanwirenews.com/george-conway-backed-attack-ads-dredge-up-old-trump-accusers-i-felt-sick-inside/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-soros-220x180.jpg)](https://americanwirenews.com/fcc-accused-of-unprecedented-abuse-of-process-after-fast-tracking-soros-acquisition-of-220-radio-stations/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kay-montana-220x180.jpg)](https://americanwirenews.com/outraged-mom-confronts-school-over-registering-minor-daughter-to-vote-fearmongering-about-trump/)
 
-[FCC accused of unprecedented ‘abuse’ of process after fast-tracking Soros acquisition of 220 radio stations](https://americanwirenews.com/fcc-accused-of-unprecedented-abuse-of-process-after-fast-tracking-soros-acquisition-of-220-radio-stations/)
+[Outraged mom confronts school over registering minor daughter to vote, fearmongering about Trump](https://americanwirenews.com/outraged-mom-confronts-school-over-registering-minor-daughter-to-vote-fearmongering-about-trump/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -314,36 +312,34 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-getty-boy-student-preschool-cry-bully-sad-child-1200x630.jpg)](https://americanwirenews.com/can-i-eat-your-soul-photographer-booted-off-school-property-for-allegedly-asking-student-creepy-questions/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-ice-arrest-migrant-1200x630.jpg)](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
 
-Getty Image
+(Image: ICE)
 
-[‘Can I eat your soul?’ Photographer booted off school property for allegedly asking student CREEPY questions](https://americanwirenews.com/can-i-eat-your-soul-photographer-booted-off-school-property-for-allegedly-asking-student-creepy-questions/)
+[Wealthy blue city sees four ICE arrests in two days on child sex allegations](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-ice-arrest-migrant-220x180.jpg)](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
+
+[Wealthy blue city sees four ICE arrests in two days on child sex allegations
+
+(Image: ICE)](https://americanwirenews.com/wealthy-blue-city-sees-four-ice-arrests-in-two-days-on-child-sex-allegations/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-favre-sterger-220x180.jpg)](https://americanwirenews.com/karma-brett-favre-accuser-has-no-sympathy-over-parkinsons-disease-revelation/)
+
+[‘Karma’: Brett Favre accuser has no sympathy over Parkinson’s disease revelation](https://americanwirenews.com/karma-brett-favre-accuser-has-no-sympathy-over-parkinsons-disease-revelation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-yt-sarco-pod-220x180.jpg)](https://americanwirenews.com/sleek-aerodynamic-suicide-pod-comes-complete-with-chilling-eight-word-message/)
+
+[Sleek, aerodynamic suicide pod comes complete with chilling eight-word message](https://americanwirenews.com/sleek-aerodynamic-suicide-pod-comes-complete-with-chilling-eight-word-message/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-macklemore-220x180.jpg)](https://americanwirenews.com/sports-teams-issue-statement-over-rapper-after-fk-america-rant/)
+
+[Sports teams issue statement over rapper after ‘F\*\*k America!’ rant](https://americanwirenews.com/sports-teams-issue-statement-over-rapper-after-fk-america-rant/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-getty-boy-student-preschool-cry-bully-sad-child-220x180.jpg)](https://americanwirenews.com/can-i-eat-your-soul-photographer-booted-off-school-property-for-allegedly-asking-student-creepy-questions/)
 
 [‘Can I eat your soul?’ Photographer booted off school property for allegedly asking student CREEPY questions
 
 Getty Image](https://americanwirenews.com/can-i-eat-your-soul-photographer-booted-off-school-property-for-allegedly-asking-student-creepy-questions/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sean-combs-oddi-220x180.jpg)](https://americanwirenews.com/eerie-interrogation-of-man-accused-of-shooting-up-trump-golf-club-resurfaces-heres-what-he-said-about-diddy/)
-
-[Eerie interrogation of man accused of shooting up Trump golf club resurfaces. Here’s what he said about ‘Diddy’…](https://americanwirenews.com/eerie-interrogation-of-man-accused-of-shooting-up-trump-golf-club-resurfaces-heres-what-he-said-about-diddy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/09/GettyImages-184909937-1024x536-1-220x180.jpg)](https://americanwirenews.com/would-be-trump-assassins-son-arrested-on-child-porn-charges/)
-
-[Would-be Trump assassin’s son arrested on child porn charges
-
-Getty Images](https://americanwirenews.com/would-be-trump-assassins-son-arrested-on-child-porn-charges/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-freyermuth-sg-alliance-220x180.jpg)](https://americanwirenews.com/lipstick-wearing-man-who-goes-by-vicky-nabbed-for-alleged-kidnapping-attempt-days-after-previous-arrest/)
-
-[Lipstick wearing man who goes by ‘Vicky’ nabbed for alleged kidnapping attempt, days after previous arrest
-
-Image via Alliance City Jail](https://americanwirenews.com/lipstick-wearing-man-who-goes-by-vicky-nabbed-for-alleged-kidnapping-attempt-days-after-previous-arrest/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-emergency-room-220x180.jpg)](https://americanwirenews.com/nearly-8-million-people-on-medical-waiting-list-amid-uks-growing-health-care-crisis-report/)
-
-[Nearly 8 million people on medical waiting list amid UK’s growing health care crisis: Report](https://americanwirenews.com/nearly-8-million-people-on-medical-waiting-list-amid-uks-growing-health-care-crisis-report/)
 
 © 2024. All Rights Reserved. American Wire News
