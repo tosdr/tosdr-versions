@@ -52,7 +52,7 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/CCT/images/bbc689ca-5522-481e-a54c-f53b3e159168/20240926T213514/bbc689ca-5522-481e-a54c-f53b3e159168_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/bbc689ca-5522-481e-a54c-f53b3e159168/20240926T213514/bbc689ca-5522-481e-a54c-f53b3e159168_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
         
-        #### [Helene strengthens to a Category 4 hurricane as it nears Florida's Gulf Coast](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
+        #### [Helene makes landfall in northwestern Florida as a Category 4 hurricane](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
         
     *  [![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
         
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-76°
+65°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
