@@ -10,9 +10,18 @@
 * [Spain (Español)](https://qoria.es/)
 * [United Kingdom (English)](https://smoothwall.com/)
 
-* [Our story](https://qoria.com/our-story)
+* [About us](#)
+    
+    ### About us
+    
+    Learn more about our company's story, goals, and impact.
+    
+    ###### [Our story](https://qoria.com/our-story)
+    
+    ###### [Our reach](https://qoria.com/our-reach)
+    
 * [Our solutions](https://qoria.com/solutions)
-* [Our reach](https://qoria.com/our-reach)
+* [Trust Center](https://qoria.com/trust)
 * [Ethical practices](https://qoria.com/ethical-practices)
 * [Investors](https://qoria.com/investors)
 * [Careers](https://qoria.com/careers)
