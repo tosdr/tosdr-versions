@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-62a581410e9c5d28546fd9ab29d651b5
+1885f0dc6f0329163e07894c1a9c3fe1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Rainbow readers](https://www.sojourner.biz/images/cache/bohemian_chic/BC0025.200.webp)](https://www.sojourner.biz/rainbow-readers.html "Rainbow readers")
+[![Pink ceiling dome clasp](https://www.sojourner.biz/images/cache/SKU0054front.200.jpg)](https://www.sojourner.biz/clasps/glass/pink-ceiling-dome-clasp.html "Pink ceiling dome clasp")
 
-#### [Rainbow readers](https://www.sojourner.biz/rainbow-readers.html "Rainbow readers")
+#### [Pink ceiling dome clasp](https://www.sojourner.biz/clasps/glass/pink-ceiling-dome-clasp.html "Pink ceiling dome clasp")
 
-$22.00
+$35.00
 
 ### Best Sellers
 
