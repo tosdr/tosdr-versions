@@ -966,7 +966,7 @@ Minors
 
 Your Rights
 
-In certain locations, you may have rights under data protection law, such as to request access to or correction, deletion, or transfer of your Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868ef06-4677-abe2-76e21885543c/af4fad38-c747-473d-ae29-6cb68b0e960c), and we will respond as soon as reasonably practicable consistent with applicable law. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
+In certain locations, you may have rights under data protection law, such as to request access to or correction, deletion, or transfer of your Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868), and we will respond as soon as reasonably practicable consistent with applicable law. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
 
 European Economic Area, the UK, and Switzerland
 
