@@ -37,6 +37,12 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/09/1-95x65.jpg)](https://karkhane.org/5859/abc_of_capitalism/)[الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/)
+* [![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/app/uploads/2021/01/reqabat-baraye-nesastan-sar-e-sofreye-xali-95x65.jpg)](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)[نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)
+* [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
 * [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
@@ -49,12 +55,6 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
-* [![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/app/uploads/2021/01/reqabat-baraye-nesastan-sar-e-sofreye-xali-95x65.jpg)](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)[نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)
-* [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
