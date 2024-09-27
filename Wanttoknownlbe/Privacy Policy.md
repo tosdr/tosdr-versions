@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/thijs-stelt-nummes-even-aan-je-voor/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/net-gevaccineerd-verspreidt-dan-die-ziekte-niet/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
