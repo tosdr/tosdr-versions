@@ -10,7 +10,7 @@
 
 Search
 
-[Donate](https://www.perc.org/donate/)
+* [Donate](https://perc.org/donate/)
 
 [About PERC](https://www.perc.org/about)
 
@@ -36,7 +36,17 @@ Search
 * [Fellows](https://perc.org/research/fellows/)
 * [Programs](https://perc.org/research/programs/)
 
+[Donate](https://www.perc.org/donate)
+
+* [Lone Mountain Society](https://perc.org/donate/lone-mountain-society/)
+* [Monthly Giving](https://perc.org/donate/monthly-giving-society/)
+* [Legacy Society](https://perc.org/donate/legacy-society/)
+* [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8C468G2EX58Y6)
+* [Stocks and Bonds](https://perc.org/donate/give-the-gift-of-stock/)
+
 [![PERC](https://www.perc.org/wp-content/uploads/2023/01/perc-logo.svg)](https://www.perc.org/)
+
+Donate
 
 ABOUT
 
@@ -86,7 +96,19 @@ RESEARCH
 
 Search
 
-[Donate](https://www.perc.org/donate/)
+[DONATE](https://www.perc.org/donate)
+
+[LONE MOUNTAIN SOCIETY](https://perc.org/donate/lone-mountain-society/)
+
+[MONTHLY GIVING](https://perc.org/donate/monthly-giving-society/)
+
+[LEGACY SOCIETY](https://perc.org/donate/legacy-society/)
+
+[PAYPAL](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8C468G2EX58Y6)
+
+[STOCKS AND BONDS](https://www.perc.org/donate/give-the-gift-of-stock/)
+
+Search
 
 Privacy Policy
 ==============
@@ -147,9 +169,9 @@ for conservation.
 
 * [About](https://www.perc.org/about/)
 * [Research](https://www.perc.org/research/)
+* [Press Room](https://www.perc.org/press-room/)
 * [Law & Policy](https://www.perc.org/law-policy/)
 * [Innovation Lab](https://www.perc.org/innovation-lab)
-* [Press Room](https://www.perc.org/press-room/)
 
 * [Instagram](https://www.instagram.com/perc_conserves/)
 * [X](https://twitter.com/PERCtweets)
@@ -168,7 +190,7 @@ Bozeman, MT 59718
 
 Email address(Required)
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
