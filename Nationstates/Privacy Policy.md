@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ridiculous Questions: Educated Answers. (54)](https://forum.nationstates.net/viewtopic.php?t=555820&f=20&view=unread#unread ""Ridiculous Questions: Educated Answers." (54 posts)")
-* [What do you love about AN? (1,437)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,437 posts)")
-* [American Politics: (Pumpkin)Spicy Sal… (8,793)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: (Pumpkin)Spicy Salaciousness in NC" (8,793 posts)")
-* [\[AT VOTE\] Repeal: Condemn the Black H… (338)](https://forum.nationstates.net/viewtopic.php?t=555742&f=24&view=unread#unread ""[AT VOTE] Repeal: Condemn the Black Hawks (#52)" (338 posts)")
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (633)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (633 posts)")
+* [Australian Political & Infrastructure… (2,336)](https://forum.nationstates.net/viewtopic.php?t=490686&f=20&view=unread#unread ""Australian Political & Infrastructure Discussion Thread" (2,336 posts)")
+* [Who would win, AN or AAN, and why? (194)](https://forum.nationstates.net/viewtopic.php?t=550969&f=25&view=unread#unread ""Who would win, AN or AAN, and why?" (194 posts)")
+* [NS Military Worldbuilding Thread No. 12 (8,841)](https://forum.nationstates.net/viewtopic.php?t=489819&f=23&view=unread#unread ""NS Military Worldbuilding Thread No. 12" (8,841 posts)")
+* [The Weather Thread- The Hurricanes ar… (2,693)](https://forum.nationstates.net/viewtopic.php?t=515489&f=20&view=unread#unread ""The Weather Thread- The Hurricanes are Coming!" (2,693 posts)")
+* [Japanese PM To Step Down, Who'll Take… (39)](https://forum.nationstates.net/viewtopic.php?t=554127&f=20&view=unread#unread ""Japanese PM To Step Down, Who'll Take Over?" (39 posts)")
 
 Advertisement
 
