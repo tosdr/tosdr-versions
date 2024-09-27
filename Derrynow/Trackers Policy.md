@@ -259,19 +259,19 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1614084/throwback-thursday-partytime-out-and-about-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1614084/throwback-thursday-partytime-out-and-about-derry-2009.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Woman (84) sadly dies following two vehicle collision in Ballykelly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (84) sadly dies following two vehicle collision in Ballykelly")](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast")](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Main road between Derry and Limavady closed to traffic following crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Main road between Derry and Limavady closed to traffic following crash")](https://www.derrynow.com/news/home/1615076/main-road-between-derry-and-limavady-closed-to-traffic-following-crash.html)
 
@@ -282,28 +282,14 @@ The PSNI are advising motorists to avoid the Clooney Road.
 [Main road between Derry and Limavady closed to traffic following crash](https://www.derrynow.com/news/home/1615076/main-road-between-derry-and-limavady-closed-to-traffic-following-crash.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast")](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
+[![Man charged with possessing £39,000 worth of drugs to appear in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing £39,000 worth of drugs to appear in Derry court")](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry pleads guilty to series of drugs charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pleads guilty to series of drugs charges")](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry pleads guilty to series of drugs charges](https://www.derrynow.com/news/local-news/1614801/derry-pleads-guilty-to-series-of-drugs-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November")](https://www.derrynow.com/news/local-news/1614785/derry-woman-who-stole-10-000-from-alcoholics-anonymous-to-be-sentenced-in-november.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman who stole £10,000 from Alcoholics Anonymous to be sentenced in November](https://www.derrynow.com/news/local-news/1614785/derry-woman-who-stole-10-000-from-alcoholics-anonymous-to-be-sentenced-in-november.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man charged with possessing £39,000 worth of drugs to appear in Derry court](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Clooney Road between Derry and Limavady closed due to road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clooney Road between Derry and Limavady closed due to road traffic collision")](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
 
@@ -312,30 +298,42 @@ Derry Crown Court
 [UPDATE: Clooney Road between Derry and Limavady closed due to road traffic collision](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man described as being involved in 'prolonged persistent street level dealing' jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man described as being involved in 'prolonged persistent street level dealing' jailed")](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man described as being involved in 'prolonged persistent street level dealing' jailed](https://www.derrynow.com/news/local-news/1614880/man-described-as-being-involved-in-prolonged-persistent-street-level-dealing-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Drug-driver put off the road after detection in Letterkenny](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug-driver put off the road after detection in Letterkenny")](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
-
-The man was stopped for careless driving and tested positive for cannabis
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry drug-driver put off the road after detection in Letterkenny](https://www.derrynow.com/news/local-news/1614683/derry-drug-driver-put-off-the-road-after-detection-in-letterkenny.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: St Joseph's Boys School Senior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Joseph's Boys School Senior Prizegiving")](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [PICTURES: St Joseph's Boys School Senior Prizegiving](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, 27th September 2024](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Motorists advised of possible traffic disruption around Derry this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists advised of possible traffic disruption around Derry this weekend")](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Motorists advised of possible traffic disruption around Derry this weekend](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket")](https://www.derrynow.com/news/local-news/1615748/suspended-sentence-for-derry-man-who-stole-6-40-worth-of-dragon-soop-from-supermarket.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket](https://www.derrynow.com/news/local-news/1615748/suspended-sentence-for-derry-man-who-stole-6-40-worth-of-dragon-soop-from-supermarket.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Case against Derry man charged with arson in which three dogs died adjourned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Case against Derry man charged with arson in which three dogs died adjourned")](https://www.derrynow.com/news/local-news/1614887/case-against-derry-man-charged-with-arson-in-which-three-dogs-died-adjourned.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Case against Derry man charged with arson in which three dogs died adjourned](https://www.derrynow.com/news/local-news/1614887/case-against-derry-man-charged-with-arson-in-which-three-dogs-died-adjourned.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,53 +513,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry recorded the fourth most amount of motoring offences in Northern Ireland last year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry recorded the fourth most amount of motoring offences in Northern Ireland last year")](https://www.derrynow.com/news/derry-news/1615100/derry-recorded-the-fourth-most-amount-of-motoring-offences-in-northern-ireland-last-year.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry recorded the fourth most amount of motoring offences in Northern Ireland last year](https://www.derrynow.com/news/derry-news/1615100/derry-recorded-the-fourth-most-amount-of-motoring-offences-in-northern-ireland-last-year.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, 27th September 2024](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Punk legend John Lydon to visit Derry next year](https://www.derrynow.com/resizer/165/93/true/2024_09_26/image001_%2820%29-1727367589573.jpg--.jpg?1727367589609 "Punk legend John Lydon to visit Derry next year")](https://www.derrynow.com/news/local-news/1615284/punk-legend-john-lydon-to-visit-derry-next-year.html)
-
-Former Sex Pistols frontman John Lydon
+[![Man arrested in Eglinton following drugs seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Eglinton following drugs seizure")](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Punk legend John Lydon to visit Derry next year](https://www.derrynow.com/news/local-news/1615284/punk-legend-john-lydon-to-visit-derry-next-year.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested in Eglinton following drugs seizure](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballinascreen Historical Society to host first meeting of new season](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Largantogher_Gatelodge-1727370051998.jpg--.jpg?1727370052141 "Ballinascreen Historical Society to host first meeting of new season")](https://www.derrynow.com/news/arts---entertainment/1615334/ballinascreen-historical-society-to-host-first-meeting-of-new-season.html)
+[![Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court")](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
 
-Largantogher Gatelodge is a historic building.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+[Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Ballinascreen Historical Society to host first meeting of new season](https://www.derrynow.com/news/arts---entertainment/1615334/ballinascreen-historical-society-to-host-first-meeting-of-new-season.html)
+[![County Derry man charged with three indecent assaults against two males jailed](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "County Derry man charged with three indecent assaults against two males jailed")](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man charged with three indecent assaults against two males jailed](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police appeal after quad stolen in Claudy](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police appeal after quad stolen in Claudy")](https://www.derrynow.com/news/local-news/1615795/police-appeal-after-quad-stolen-in-claudy.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police appeal after quad stolen in Claudy](https://www.derrynow.com/news/local-news/1615795/police-appeal-after-quad-stolen-in-claudy.html)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Domestic abuse survivor urges other women to seek justice](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_27/1727391913161_0.jpg--.jpg?1727391913226 "Domestic abuse survivor urges other women to seek justice")](https://www.derrynow.com/news/local-news/1615765/domestic-abuse-survivor-urges-other-women-to-seek-justice.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Domestic abuse survivor urges other women to seek justice](https://www.derrynow.com/news/local-news/1615765/domestic-abuse-survivor-urges-other-women-to-seek-justice.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (19) charged with non-fatal strangulation of his mother in Derry court](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man (19) charged with non-fatal strangulation of his mother in Derry court")](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
+
+Derry Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (19) charged with non-fatal strangulation of his mother in Derry court](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Joyce_Taggart_%28002%29-1727382943319.png--.png?1727382943576 "Woman (84) sadly dies following two vehicle collision in Ballykelly")](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with possessing £39,000 worth of drugs to appear in Derry court](https://www.derrynow.com/resizer/165/93/true/2024_09_26/A-Police-Service-of-Northern-Ireland-PSNI-contable-on-patrol-in-Belfast-Northern-Ireland-scaled-1727379610389.jpg--.jpg?1727379611937 "Man charged with possessing £39,000 worth of drugs to appear in Derry court")](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with possessing £39,000 worth of drugs to appear in Derry court](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
