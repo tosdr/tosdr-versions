@@ -4,11 +4,11 @@ Manga & Anime Favorites
 -----------------------
 
 * [Bleach](https://www.viz.com/bleach)
-* [Ito-verse](https://www.viz.com/junji-ito)
-* [My Hero Academia](https://www.viz.com/my-hero-academia)
 * [Pokémon](https://www.viz.com/pokemon)
+* [My Hero Academia](https://www.viz.com/my-hero-academia)
 * [Naruto](https://www.viz.com/naruto)
 * [Boruto](https://www.viz.com/boruto)
+* [Ito-verse](https://www.viz.com/junji-ito)
 * [Read Free Manga!](https://www.viz.com/shonenjump)
 * [Gomi](https://www.viz.com/products/gomi-no-sensei)
 
