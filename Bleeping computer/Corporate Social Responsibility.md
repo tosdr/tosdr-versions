@@ -36,18 +36,18 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
+    * [![U.S. charges Joker's Stash and Rescator money launderers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        U.S. charges Joker's Stash and Rescator money launderers](https://www.bleepingcomputer.com/news/legal/us-charges-jokers-stash-and-rescator-money-launderers/)
+    * [![Microsoft: Windows Recall now can be removed, is more secure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft: Windows Recall now can be removed, is more secure](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-recall-now-can-be-removed-is-more-secure/)
+    * [![Embargo ransomware escalates attacks to cloud environments](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Embargo ransomware escalates attacks to cloud environments](https://www.bleepingcomputer.com/news/security/embargo-ransomware-escalates-attacks-to-cloud-environments/)
     * [![Progress urges admins to patch critical WhatsUp Gold bugs ASAP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Progress urges admins to patch critical WhatsUp Gold bugs ASAP](https://www.bleepingcomputer.com/news/security/progress-urges-admins-to-patch-critical-whatsup-gold-bugs-asap/)
-    * [![Learn ethical hacking in this $35 super-sized course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Learn ethical hacking in this $35 super-sized course bundle deal](https://www.bleepingcomputer.com/offer/deals/learn-ethical-hacking-in-this-35-super-sized-course-bundle-deal/)
-    * [![Windows 11 KB5043145 update released with 13 changes and fixes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows 11 KB5043145 update released with 13 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-released-with-13-changes-and-fixes/)
-    * [![CUPS flaws enable Linux remote code execution, but there’s a catch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -307,12 +307,12 @@ Popular Stories
 * [![Winamp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Winamp releases source code, asks for help modernizing the player](https://www.bleepingcomputer.com/news/software/winamp-releases-source-code-asks-for-help-modernizing-the-player/)
-* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Windows 10 KB5043131 update released with 9 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043131-update-released-with-9-changes-and-fixes/)
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Windows 10 KB5043131 update released with 9 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043131-update-released-with-9-changes-and-fixes/)
 
 ##### Follow us:
 
