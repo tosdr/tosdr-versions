@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Only knowledge that is used sticks in your mind”
+“ A hacker to me is someone creative who does wonderful things”
 
-[Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie)
+[Tim Berners-Lee](https://twitter.com/wef/statuses/294738623641812992)
 
 [](https://www.adafruit.com/about)
 
