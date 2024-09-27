@@ -2,7 +2,7 @@
 
 Fonctionnalités
 
-[Qualiopi](https://www.dendreo.com/qualiopi)[Paiement en ligne](https://www.dendreo.com/paiement-en-ligne)[Synchronisation EDOF](https://www.dendreo.com/synchronisation-edof)[Dendreo Live](https://www.dendreo.com/dendreo-live)[Portails utilisateurs](https://www.dendreo.com/portail-utilisateurs)
+[Qualiopi](https://www.dendreo.com/qualiopi)[Assistant IA](https://www.dendreo.com/assistant-ia)[Paiement en ligne](https://www.dendreo.com/paiement-en-ligne)[Synchronisation EDOF](https://www.dendreo.com/synchronisation-edof)[Dendreo Live](https://www.dendreo.com/dendreo-live)[Portails utilisateurs](https://www.dendreo.com/portail-utilisateurs)
 
 [Gestion administrative
 
@@ -42,15 +42,15 @@ Ressources
 
 [À propos](https://www.dendreo.com/a-propos-de-dendreo)
 
-[Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[🪄 IA](https://www.dendreo.com/assistant-ia)[Contact](https://www.dendreo.com/contact)
+[🪄 IA](https://www.dendreo.com/assistant-ia)[Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[Contact](https://www.dendreo.com/contact)
 
 [Se connecter](https://pro.dendreo.com/login)[Voir une démo](https://www.dendreo.com/decouvrez-dendreo-demonstration-en-webinar)[Créez mon compte](https://cta-redirect.hubspot.com/cta/redirect/8934096/a929254c-8051-40fa-8ed0-f490c75c5700)
 
-[![Dendreo](https://cdn.prod.website-files.com/5e723ebc919755a129931937/66014fda86a29efd17415288_logo-dendreo-alt.svg)](https://www.dendreo.com/)
+[![Dendreo](https://cdn.prod.website-files.com/5e723ebc919755a129931937/65f80e5bb7a417c4e6c913cf_logo-dendreo.svg)](https://www.dendreo.com/)
 
 Fonctionnalités
 
-[Qualiopi](https://www.dendreo.com/qualiopi)[Paiement en ligne](https://www.dendreo.com/paiement-en-ligne)[Synchronisation EDOF](https://www.dendreo.com/synchronisation-edof)[Dendreo Live](https://www.dendreo.com/dendreo-live)[Portails utilisateurs](https://www.dendreo.com/portail-utilisateurs)[Moderne, flexible et sécurisé
+[Qualiopi](https://www.dendreo.com/qualiopi)[Assistant IA](https://www.dendreo.com/assistant-ia)[Paiement en ligne](https://www.dendreo.com/paiement-en-ligne)[Synchronisation EDOF](https://www.dendreo.com/synchronisation-edof)[Dendreo Live](https://www.dendreo.com/dendreo-live)[Portails utilisateurs](https://www.dendreo.com/portail-utilisateurs)[Moderne, flexible et sécurisé
 
 Une solution moderne, puissante et flexible](https://www.dendreo.com/formation/moderne-et-flexible)[Gestion documentaire
 
@@ -74,7 +74,7 @@ Ressources
 
 [Blog](https://www.dendreo.com/blog)[Documentation](https://doc.dendreo.com/)[API](https://developers.dendreo.com/#introduction)[Recrutement](#)
 
-[Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[À propos](https://www.dendreo.com/a-propos-de-dendreo)[Contact](https://www.dendreo.com/contact)
+[Assistant IA](https://www.dendreo.com/assistant-ia)[Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[À propos](https://www.dendreo.com/a-propos-de-dendreo)[Contact](https://www.dendreo.com/contact)
 
 Conditions générales de vente et d'utilisation
 ==============================================
