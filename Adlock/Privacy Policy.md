@@ -2,7 +2,7 @@
 
 * [Products](#)
     
-    [![AdLock for Windows](/wp-content/uploads/2022/07/adlock-for-windows.png)AdLock for Windows](https://adlock.com/adlock-for-windows/)[![AdLock for Mac](/wp-content/uploads/2022/07/adlock-for-macos.png)AdLock for Mac](https://adlock.com/adlock-for-macos/)[![AdLock for Android](/wp-content/uploads/2022/07/adlock-for-android.png)AdLock for Android](https://adlock.com/adlock-for-android/)[![AdLock for iOS](/wp-content/uploads/2022/07/adlock-for-ios.png)AdLock for iOS](https://adlock.com/adlock-for-ios/)
+    [![AdLock for Windows](/wp-content/uploads/2022/07/adlock-for-windows.png)AdLock for Windows](https://adlock.com/adlock-for-windows/)[![AdLock for Mac](/wp-content/uploads/2022/07/adlock-for-macos.png)AdLock for Mac](https://adlock.com/adlock-for-macos/)[![AdLock for Android](/wp-content/uploads/2022/07/adlock-for-android.png)AdLock for Android](https://adlock.com/adlock-for-android/)[![AdLock for iOS](/wp-content/uploads/2022/07/adblocker-for-iphone-ios.png)AdLock for iOS](https://adlock.com/adblocker-for-iphone-ios/)
     
 * [Purchase](https://adlock.com/purchase/)
 * [Blog](https://adlock.com/blog/)
@@ -313,7 +313,7 @@ Latest news
 
 ### How to Play Homescapes and Gardenscapes Without Ads](https://adlock.com/blog/remove-homescapes-and-gardenscapes-ads/)
 
-[For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adlock-for-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
+[For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adblocker-for-iphone-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
 [About us](https://adlock.com/about-us/)[Partnership](https://adlock.com/for-partners/)[FAQ](https://adlock.com/frequently-asked-questions/)[Blog](https://adlock.com/blog/)[Acknowledgements](https://adlock.com/acknowledgements/)[Affiliate](https://adlock.com/affiliate/)[User Guide](https://adlock.com/user-guide/)[Refund Policy](https://adlock.com/refund-policy/)[EULA](https://adlock.com/eula/ "EULA")[Privacy Policy](https://adlock.com/privacy-policy/ "Privacy Policy")
 
