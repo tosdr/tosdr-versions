@@ -1,4 +1,4 @@
-[Breaking: Helene downgraded to Category 1 hurricane as it heads toward metro Atlanta](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
+[Breaking: Deadly Helene speeds toward metro Atlanta as tropical storm](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1696)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1696)](https://www.ajc.com/)
 
@@ -16,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-helene-roars-in/RFZLEVAP2FA4JBXSMLKXWDII2I/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
