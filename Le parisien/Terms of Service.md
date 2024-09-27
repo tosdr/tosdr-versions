@@ -713,7 +713,7 @@ Conformément aux dispositions du Code de la consommation concernant le règleme
 18.3 Service Client
 -------------------
 
-Le Service Client de la Société peut être contacté au 01 76 49 11 11 **du lundi au vendredi, de 7h30 à 19h sans interruption et le samedi de 8h à 12h**  
+Le Service Client de la Société peut être contacté au 01 76 49 11 11 **du lundi au vendredi, de 7h30 à 18h sans interruption et le samedi de 8h à 12h**  
 Ou à l’adresse email : [serviceclient@leparisien.fr](mailto:serviceclient@leparisien.fr)  
 Ou encore par courrier à l’adresse suivante : **Service Clients Le Parisien – 45 Avenue General de Leclerc, 60 643 CHANTILLY**
 
