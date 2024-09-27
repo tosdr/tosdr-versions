@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/CPD-patch-2024-generic-edited-326x245.jpg)](https://cwbchicago.com/2024/09/man-claims-he-was-shot-in-streeterville-some-cops-arent-so-sure-about-that.html "Man claims he was shot in Streeterville, some cops aren’t so sure about that")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/JH419776-700-halsted-suspects-326x245.jpg)](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
 
-Streeterville
+West Town
 
-### [Man claims he was shot in Streeterville, some cops aren’t so sure about that](https://cwbchicago.com/2024/09/man-claims-he-was-shot-in-streeterville-some-cops-arent-so-sure-about-that.html "Man claims he was shot in Streeterville, some cops aren’t so sure about that")
+### [Cops hunt suspects in shooting that left man dead near Bally’s casino construction site](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
 
-[September 24, 2024 6:58 AM](https://cwbchicago.com/2024/09)
+[September 25, 2024 6:30 AM](https://cwbchicago.com/2024/09)
 
-A man who walked into a Lakeview hospital on Monday afternoon, claiming he had been shot in the head in Streeterville, may not have been telling the truth, a law enforcement source said.[](https://cwbchicago.com/2024/09/man-claims-he-was-shot-in-streeterville-some-cops-arent-so-sure-about-that.html "Man claims he was shot in Streeterville, some cops aren’t so sure about that")
+Chicago police detectives investigating the fatal shooting of a man near the new Bally’s casino construction site released a short video clip of the suspects on Tuesday. They hope someone will recognize the people or vehicle in the footage.[](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Kevin-Perez-Paredes-326x245.jpg)](https://cwbchicago.com/2024/09/migrant-murdered-man-as-he-begged-for-his-life-prosecutors-say-no-no-no.html "Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/BB2-326x245.jpg)](https://cwbchicago.com/2024/09/another-shooting-victim-crit.html "Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire")
 
 Englewood
 
-### [Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’](https://cwbchicago.com/2024/09/migrant-murdered-man-as-he-begged-for-his-life-prosecutors-say-no-no-no.html "Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’")
+### [Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire](https://cwbchicago.com/2024/09/another-shooting-victim-crit.html "Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire")
 
-[September 24, 2024 4:55 AM](https://cwbchicago.com/2024/09)
+[September 25, 2024 5:29 AM](https://cwbchicago.com/2024/09)
 
-A Venezuelan migrant faces murder charges after allegedly shooting a man in front of two witnesses as the victim pleaded for his life.[](https://cwbchicago.com/2024/09/migrant-murdered-man-as-he-begged-for-his-life-prosecutors-say-no-no-no.html "Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’")
+A man was found shot and critically injured Tuesday night on an Englewood sidewalk that used to be surveilled by ShotSpotter. He’s at least the second shooting victim to be discovered without anyone reporting gunfire since Mayor Brandon Johnson took ShotSpotter offline at midnight Monday.[](https://cwbchicago.com/2024/09/another-shooting-victim-crit.html "Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Brandons-Bodies-1-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-cop-finds-woman-shot-critically-injured-on-a-street-previously-served-by-shotspotter-nobody-called-911.html "Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/47th-street-326x245.jpg)](https://cwbchicago.com/2024/09/12-year-old-boy-and-two-teens-are-charged-with-cta-robbery-after-rooftop-pastor-arranged-their-surrender.html "A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender")
 
-Greater Grand Crossing
+CTA
 
-### [Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.](https://cwbchicago.com/2024/09/chicago-cop-finds-woman-shot-critically-injured-on-a-street-previously-served-by-shotspotter-nobody-called-911.html "Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.")
+### [A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender](https://cwbchicago.com/2024/09/12-year-old-boy-and-two-teens-are-charged-with-cta-robbery-after-rooftop-pastor-arranged-their-surrender.html "A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender")
 
-[September 24, 2024 3:57 AM](https://cwbchicago.com/2024/09)
+[September 24, 2024 7:43 PM](https://cwbchicago.com/2024/09)
 
-Less than 24 hours after Chicago ended its relationship with ShotSpotter, a Chicago police officer found a woman shot and critically injured on a South Side street previously served by the gunfire detection system.[](https://cwbchicago.com/2024/09/chicago-cop-finds-woman-shot-critically-injured-on-a-street-previously-served-by-shotspotter-nobody-called-911.html "Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.")
+Three juveniles, ages 12, 13, and 15, are charged with robbing a woman aboard a Red Line train earlier this month after a prominent community leader personally escorted them and their parents to a Chicago police station.[](https://cwbchicago.com/2024/09/12-year-old-boy-and-two-teens-are-charged-with-cta-robbery-after-rooftop-pastor-arranged-their-surrender.html "A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender")
 
 Search
 
@@ -337,6 +337,7 @@ Thank you.
 * [Humboldt Park](https://cwbchicago.com/category/humboldt-park)
 * [Irving Park](https://cwbchicago.com/category/irving-park)
 * [Jefferson Park](https://cwbchicago.com/category/jefferson-park)
+* [Kenwood](https://cwbchicago.com/category/kenwood)
 * [Lakeview](https://cwbchicago.com/category/lakeview)
 * [Lincoln Park](https://cwbchicago.com/category/lincoln-park)
 * [Lincoln Square](https://cwbchicago.com/category/lincoln-square)
