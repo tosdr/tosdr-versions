@@ -218,7 +218,7 @@ Vivaldi Help
 **About**
 
 * [What We Believe](https://vivaldi.com/company/)
-* [We Don't Track You](https://vivaldi.com/zerotracking/)
+* [We Respect Your Privacy](https://vivaldi.com/zerotracking/)
 * [Privacy & Terms](https://vivaldi.com/privacy/browser/)
 * [Security](https://vivaldi.com/security/)
 * [Our Team](https://vivaldi.com/team/)
