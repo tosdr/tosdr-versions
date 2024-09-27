@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Grant AN's wish then curse it (79)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (79 posts)")
-* [Socialist Realism Thread (14)](https://forum.nationstates.net/viewtopic.php?t=555929&f=19&view=unread#unread ""Socialist Realism Thread" (14 posts)")
-* [AN as a car? (204)](https://forum.nationstates.net/viewtopic.php?t=554491&f=25&view=unread#unread ""AN as a car?" (204 posts)")
-* [Change a Letter (2,070)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,070 posts)")
-* [\[DRAFT\] Aid to Sinking Islands (3)](https://forum.nationstates.net/viewtopic.php?t=555466&f=9&view=unread#unread ""[DRAFT] Aid to Sinking Islands" (3 posts)")
+* [Should we bring back the Guillotine? (74)](https://forum.nationstates.net/viewtopic.php?t=555942&f=20&view=unread#unread ""Should we bring back the Guillotine?" (74 posts)")
+* [American Politics: Centennials, Debat… (8,879)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Centennials, Debates, and Indictments" (8,879 posts)")
+* [A new generation (IC|Closed|Attn. Ara… (141)](https://forum.nationstates.net/viewtopic.php?t=554018&f=5&view=unread#unread ""A new generation (IC|Closed|Attn. Arakhkhar)" (141 posts)")
+* [Your favorite part of AN’s forum sig XI (1,193)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (1,193 posts)")
+* [Parliament maker! \[Open\] (22)](https://forum.nationstates.net/viewtopic.php?t=556036&f=25&view=unread#unread ""Parliament maker! [Open]" (22 posts)")
 
 Advertisement
 
