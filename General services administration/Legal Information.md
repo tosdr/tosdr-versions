@@ -1,5 +1,11 @@
 [Skip to main content](#main-content)
 
+[close](# "close")
+
+#### GSA.gov unavailable during weekend maintenance
+
+From 7 p.m. ET on Friday, Sept. 27, until 2 p.m. ET on Saturday, Sept. 28, GSA.gov will be unavailable while GSA IT upgrades the site.
+
 ![](/sites/gsa.gov/themes/custom/gsa/dist/img/us_flag_small.png)
 
 An official website of the United States government
