@@ -565,7 +565,7 @@ MENU MENU
     
     September 25, 2024
     
-    [Treasury Sanctions Former Haitian Politician and Gang Leader for Their Connections to Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2612)
+    [Treasury Sanctions Networks Enabling Illicit Trade that Benefits IRGC-QF and Hizballah](https://home.treasury.gov/news/press-releases/jy2613)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
