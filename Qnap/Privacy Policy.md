@@ -295,8 +295,6 @@ High-speed Network Switches
     * [QSW-2104-2T](https://www.qnap.com/en/product/qsw-2104-2t)
     * [QSW-2104-2S](https://www.qnap.com/en/product/qsw-2104-2s)
     * [View All](https://www.qnap.com/en/product/series/qsw-unmanaged-switches)
-* ###### QSW Industrial-grade Switches
-    
 * ###### QSW 25GbE Switches
     
     * [QSW-M5216-1T](https://www.qnap.com/en/product/qsw-m5216-1t)
