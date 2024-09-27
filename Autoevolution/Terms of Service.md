@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Speed Is Back on the Menu With a New GT7 Challenge](https://s1.cdn.autoevolution.com/images/news/speed-is-back-on-the-menu-with-a-new-gt7-challenge-240446-5.jpg "Speed Is Back on the Menu With a New GT7 Challenge")
+[![1964 Buick Super Wildcat: A Beauty and a Beast](https://s1.cdn.autoevolution.com/images/news/1964-buick-super-wildcat-a-beauty-and-a-beast-240467-5.jpg "1964 Buick Super Wildcat: A Beauty and a Beast")
 
-Speed Is Back on the Menu With a New GT7 Challenge](https://www.autoevolution.com/news/speed-is-back-on-the-menu-with-a-new-gt7-challenge-240446.html)
+1964 Buick Super Wildcat: A Beauty and a Beast](https://www.autoevolution.com/news/1964-buick-super-wildcat-a-beauty-and-a-beast-240467.html)
 
 how-to \_
 
