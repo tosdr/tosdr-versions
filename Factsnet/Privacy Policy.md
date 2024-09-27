@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Familial Adenomatous Polyposis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-familial-adenomatous-polyposis/)
+[![31 Facts About Curiosity ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/philosophy-and-thinking/thinking-skills/31-facts-about-curiosity/)
+
+Thinking Skills
+
+26 Sep 2024
+
+[31 Facts About Curiosity](https://facts.net/philosophy-and-thinking/thinking-skills/31-facts-about-curiosity/)
+
+[![50 Facts About Sheehans Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-sheehans-syndrome/)
 
 Health Science
 
-25 Sep 2024
+26 Sep 2024
 
-[50 Facts About Familial Adenomatous Polyposis](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-familial-adenomatous-polyposis/)
-
-[![30 Facts About Serkal Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-serkal-syndrome/)
-
-Health Science
-
-25 Sep 2024
-
-[30 Facts About Serkal Syndrome](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-serkal-syndrome/)
+[50 Facts About Sheehans Syndrome](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-sheehans-syndrome/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
