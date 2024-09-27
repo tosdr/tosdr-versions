@@ -64,7 +64,7 @@
 Terms of Use
 ============
 
-**Last updated on February 6, 2024**
+**Last updated on September 27, 2024**
 
 BY USING OR VISITING THIS WEBSITE, breitbart.com and all websites, mobile websites, and applications associated therewith (collectively, the “**Site**“) and content available through the www.breitbart.com domain name and any other affiliated domain name, YOU SIGNIFY YOUR ASSENT TO THESE TERMS AND CONDITIONS (the “**Terms of Use**”).
 
@@ -171,6 +171,20 @@ You agree to notify us of any unauthorized use of your username, log-in ID, pass
 **Breitbart Store**
 
 You may order merchandise or other items at the Breitbart Store. We reserve the right (i) to change the merchandise or other items advertised or offered for sale through the Site, (ii) alter the price or specifications of such goods, and (iii) cannot guarantee that any merchandise or other items on sale will be available when ordered, which gives us the right to limit quantities sold. We do not warrant that information on the Site is accurate, complete, reliable, current or error-free and we reserve the right to modify, cancel, terminate, or not process orders where the price or other material information on the Site is inaccurate or for any other reason at our sole discretion. In the event we do not process your order, we will either not charge you or we will apply credit to the payment type used in the order. Returns are dictated by our Return Policy found [https://store.breitbart.com/pages/return-policy](https://store.breitbart.com/pages/return-policy).
+
+**BREITBART FIGHT CLUB**
+
+The Services contain a subscription-based content and news service with behind-the-scenes information, access to our top editors, and additional videos, audios, films and articles (“**Breitbart Fight Club**”). Your access to and use of Breitbart Fight Club are governed by these Terms of Use, and require you to submit certain information, including payment and financial information, to create a Breitbart Fight Club account (“**Subscription**” or “**Subscriber**”).
+
+Once you become a Subscriber, you will be a Subscriber until you or we cancel your Subscription. We reserve the right to modify, terminate, or otherwise amend the Subscription content offered by us at any time.
+
+When you create your Subscription, you will be required to register a valid credit or debit card (“**Card**”). By doing so, you agree that we or our third party service provider and payment processors may charge and/or store such Card and you are solely responsible for any fees charged to the Card by the issuer, bank, or financial institution. Once your Subscription is authenticated and activated, the Card you registered with will be charged for the initial Subscription purchase. After your initial Subscription period, your Subscription will automatically renew on the interval you selected at the Breitbart Fight Club’s then current rates. We will bill you in advance for your Subscription. However, we reserve the right to change the timing of our billing as necessary.
+
+We may, if applicable and solely determined by us, charge, from time to time, the amount for determining any fees, charges, or surcharges. You agree to pay all amounts billed for your Subscription, including all taxes as applicable. We may terminate or suspend your Subscription for any failure to timely pay amounts due or failure to provide up-to-date payment information for your Subscription. Any charges will be billed to the Card you submit to us for your Subscription. If your Subscription is disconnected for non-payment or for any other reason, then you agree to pay any amount due before we reconnect your access to the Breitbart Fight Club.
+
+YOU UNDERSTAND AND AGREE THAT ANY PAYMENTS MADE IN CONNECTION WITH THE SUBSCRIPTION ARE NONREFUNDABLE. BY USING THE BREITBART FIGHT CLUB, YOU HEREBY WAIVE ANY RIGHT TO ANY CREDIT, REFUND, PRICE ADJUSTMENT, OR OTHER DISCOUNT FOR THE SUBSCRIPTION, UNLESS EXPLICITLY APPROVED BY US.
+
+You may contact us to cancel the Subscription at any time by [Contacting Us](#contact-us). As charges are prepaid each billing period, when you cancel your Subscription, you will be able to enjoy Breitbart Fight Club through the end of the then current billing period. When you cancel your Subscription, you may be subject to charges or fees.
 
 **BREITBART CONTENT**
 
