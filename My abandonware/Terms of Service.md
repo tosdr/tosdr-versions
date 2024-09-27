@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Fighter's History](https://www.myabandonware.com/game/fighter-s-history-b6d)
+* [Dynamite Düx](https://www.myabandonware.com/game/dynamite-duex-5i2)
+* [Field Combat](https://www.myabandonware.com/game/field-combat-9ri)
 * [Dynamite Duke](https://www.myabandonware.com/game/dynamite-duke-8cx)
 * [F-1 Dream](https://www.myabandonware.com/game/f-1-dream-ks1)
-* [F-1 Grand Prix](https://www.myabandonware.com/game/f-1-grand-prix-b62)
-* [Cool Riders](https://www.myabandonware.com/game/cool-riders-sil)
-* [Dance Dance Revolution: 2nd Mix](https://www.myabandonware.com/game/dance-dance-revolution-2nd-mix-sih)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
