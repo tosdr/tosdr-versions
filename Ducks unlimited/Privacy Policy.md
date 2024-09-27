@@ -6,51 +6,20 @@
 
 * [Conservation](https://www.ducks.org/conservation)
     
-    How We Conserve
-    
-    Read more about how DU helps conservation efforts
-    
-    Our Initiatives
-    
-    Connecting people and resources with crucial habitats
-    
-    More Conservation
-    
-    Explore everything DU and Conservation!
-    
-    * [Wetlands Explore how wetlands are conserved and revitalized](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#protecting-wetlands)
-    * [Grasslands Explore grassland initiatives for better habitats](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#protecting-grasslands)
-    * [Forests Learn about reforestation and flood management](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#replanting-forests)
-    * [Watersheds Understand the impact of watershed restoration](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#restoring-watersheds)
-    * [Partners See how partnerships enhance conservation efforts](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#partners)
-    * [Landowners Find out about collaboration with private landowners](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#landowners)
-    * [Acquiring Land Learn about strategic land acquisition for habitat](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#land)
-    * [GIS Get insights into GIS in habitat conservation](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#gis)
-    * [Find DU Projects Near You
-        
-        Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works#find-projects "Find DU Projects Near You")
-    
-    * [Alaska Discover Alaska's role in waterfowl conservation](https://www.ducks.org/conservation/du-conservation-initiatives/the-alaska-initiative-born-to-fly)
-    * [Boreal Forest Explore efforts in the vast North American Boreal Forest](https://www.ducks.org/conservation/du-conservation-initiatives/boreal-forest-initiative)
-    * [Great Lakes Learn about habitat protection in the Great Lakes](https://www.ducks.org/conservation/du-conservation-initiatives/great-lakes-initiative)
-    * [Living Lakes See how MN and IA's lakes support migrating waterfowl](https://www.ducks.org/conservation/du-conservation-initiatives/living-lakes-initiative)
-    * [Preserve our Prairies Understand efforts to protect crucial waterfowl habitats](https://www.ducks.org/conservation/du-conservation-initiatives/preserve-our-prairies-initiative)
-    * [America's River Explore Mississippi River's waterfowl habitat restoration](https://www.ducks.org/conservation/du-conservation-initiatives/americas-river-initiative)
-    * [Big Rivers Discover the restoration of Mississippi River habitats](https://www.ducks.org/conservation/du-conservation-initiatives/big-rivers-initiative)
-    * [California Wetlands Learn about revitalizing California's wetlands](https://www.ducks.org/conservation/du-conservation-initiatives/california-wetlands-initiative)
-    * [Completing the Cycle Understand Atlantic Flyway habitat sustainability](https://www.ducks.org/conservation/du-conservation-initiatives/completing-the-cycle-initiative)
-    * [See All
-        
-        Discover all of our conservation initiatives](https://www.ducks.org/conservation/du-conservation-initiatives)
-    
-    * [Conservation Home Protecting, enhancing, restoring America's wetlands](https://www.ducks.org/conservation)
-    * [National Stories Conservation updates from across the country](https://www.ducks.org/conservation/national)
-    * [Waterfowl Research Explore waterfowl science and research findings](https://www.ducks.org/conservation/waterfowl-research-science)
-    * [Initiatives Regional initiatives for wetland conservation](https://www.ducks.org/conservation/du-conservation-initiatives)
-    * [Public Policy Legislative advocacy for wetlands and wildlife](https://www.ducks.org/conservation/public-policy)
-    * [Find DU Projects Near You Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works.html)
-    * [Sustainability Focusing on wetland sustainability and biodiversity](https://www.ducks.org/conservation/sustainability)
-    * [Make a Difference Join, volunteer, and support wetland conservation](https://www.ducks.org/get-involved)
+    * [For Waterfowl](https://www.ducks.org/conservation/ducks-and-wildlife)
+    * [For Fish & Wildlife](https://www.ducks.org/conservation/ducks-and-wildlife)
+    * [For People](https://www.ducks.org/conservation/people)
+    * [For Sustainability](https://www.ducks.org/conservation/sustainability)
+    * * [Habitat Delivery](https://www.ducks.org/conservation/habitat-delivery)
+        * [Science](https://www.ducks.org/conservation/science)
+        * [Public Policy](https://www.ducks.org/conservation/public-policy)
+        * [Fundraising](https://www.ducks.org/conservation/fundraising)
+    * * [Where We Conserve](https://www.ducks.org/conservation/where-we-work)
+        * [Initiatives](https://www.ducks.org/conservation/du-conservation-initiatives)
+        * [Waterfowl Research](https://www.ducks.org/conservation/waterfowl-research-science)
+        * [International Programs](https://www.ducks.org/conservation/du-international-programs)
+        * [Why Do Wetlands Matter?](https://www.ducks.org/conservation/wetlands)
+        * [DU Projects Near You](https://www.ducks.org/conservation/where-we-work#find-projects)
     
 * [Hunting](https://www.ducks.org/hunting)
     
@@ -156,46 +125,20 @@ Change [View State Page](https://www.ducks.org/)
 
 [Conservation](https://www.ducks.org/conservation)
 
-* How We Conserve
-    
-    * [Wetlands Explore how wetlands are conserved and revitalized](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#protecting-wetlands)
-    * [Grasslands Explore grassland initiatives for better habitats](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#protecting-grasslands)
-    * [Forests Learn about reforestation and flood management](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#replanting-forests)
-    * [Watersheds Understand the impact of watershed restoration](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#restoring-watersheds)
-    * [Partners See how partnerships enhance conservation efforts](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#partners)
-    * [Landowners Find out about collaboration with private landowners](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#landowners)
-    * [Acquiring Land Learn about strategic land acquisition for habitat](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#land)
-    * [GIS Get insights into GIS in habitat conservation](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#gis)
-    * [Find DU Projects Near You
-        
-        Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works#find-projects "Find DU Projects Near You")
-    
-* Our Initiatives
-    
-    * [Alaska Discover Alaska's role in waterfowl conservation](https://www.ducks.org/conservation/du-conservation-initiatives/the-alaska-initiative-born-to-fly)
-    * [Boreal Forest Explore efforts in the vast North American Boreal Forest](https://www.ducks.org/conservation/du-conservation-initiatives/boreal-forest-initiative)
-    * [Great Lakes Learn about habitat protection in the Great Lakes](https://www.ducks.org/conservation/du-conservation-initiatives/great-lakes-initiative)
-    * [Living Lakes See how MN and IA's lakes support migrating waterfowl](https://www.ducks.org/conservation/du-conservation-initiatives/living-lakes-initiative)
-    * [Preserve our Prairies Understand efforts to protect crucial waterfowl habitats](https://www.ducks.org/conservation/du-conservation-initiatives/preserve-our-prairies-initiative)
-    * [America's River Explore Mississippi River's waterfowl habitat restoration](https://www.ducks.org/conservation/du-conservation-initiatives/americas-river-initiative)
-    * [Big Rivers Discover the restoration of Mississippi River habitats](https://www.ducks.org/conservation/du-conservation-initiatives/big-rivers-initiative)
-    * [California Wetlands Learn about revitalizing California's wetlands](https://www.ducks.org/conservation/du-conservation-initiatives/california-wetlands-initiative)
-    * [Completing the Cycle Understand Atlantic Flyway habitat sustainability](https://www.ducks.org/conservation/du-conservation-initiatives/completing-the-cycle-initiative)
-    * [See All
-        
-        Discover all of our conservation initiatives](https://www.ducks.org/conservation/du-conservation-initiatives)
-    
-* More Conservation
-    * [Conservation Home Protecting, enhancing, restoring America's wetlands](https://www.ducks.org/conservation)
-    * [National Stories Conservation updates from across the country](https://www.ducks.org/conservation/national)
-    * [Waterfowl Research Explore waterfowl science and research findings](https://www.ducks.org/conservation/waterfowl-research-science)
-    * [Initiatives Regional initiatives for wetland conservation](https://www.ducks.org/conservation/du-conservation-initiatives)
-    * [Public Policy Legislative advocacy for wetlands and wildlife](https://www.ducks.org/conservation/public-policy)
-    * [Find DU Projects Near You Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works.html)
-    * [Sustainability Focusing on wetland sustainability and biodiversity](https://www.ducks.org/conservation/sustainability)
-    * [Make a Difference Join, volunteer, and support wetland conservation](https://www.ducks.org/get-involved)
-
-[Get involved by volunteering](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
+* [For Waterfowl](https://www.ducks.org/conservation/ducks-and-wildlife)
+* [For Fish & Wildlife](https://www.ducks.org/conservation/ducks-and-wildlife)
+* [For People](https://www.ducks.org/conservation/people)
+* [For Sustainability](https://www.ducks.org/conservation/sustainability)
+* * [Habitat Delivery](https://www.ducks.org/conservation/habitat-delivery)
+    * [Science](https://www.ducks.org/conservation/science)
+    * [Public Policy](https://www.ducks.org/conservation/public-policy)
+    * [Fundraising](https://www.ducks.org/conservation/fundraising)
+* * [Where We Conserve](https://www.ducks.org/conservation/where-we-work)
+    * [Initiatives](https://www.ducks.org/conservation/du-conservation-initiatives)
+    * [Waterfowl Research](https://www.ducks.org/conservation/waterfowl-research-science)
+    * [International Programs](https://www.ducks.org/conservation/du-international-programs)
+    * [Why Do Wetlands Matter?](https://www.ducks.org/conservation/wetlands)
+    * [DU Projects Near You](https://www.ducks.org/conservation/where-we-work#find-projects)
 
 [Hunting](https://www.ducks.org/hunting)
 
