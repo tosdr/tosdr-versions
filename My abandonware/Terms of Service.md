@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Cruis'n USA](https://www.myabandonware.com/game/cruis-n-usa-siu)
-* [Crash](https://www.myabandonware.com/game/crash-sit)
-* [Cosmos](https://www.myabandonware.com/game/cosmos-sis)
-* [Cosmic Smash](https://www.myabandonware.com/game/cosmic-smash-sir)
-* [Champion Boxing](https://www.myabandonware.com/game/champion-boxing-qs7)
+* [Escape from the Planet of the Robot Monsters](https://www.myabandonware.com/game/escape-from-the-planet-of-the-robot-monsters-w1)
+* [Bloody Roar](https://www.myabandonware.com/game/bloody-roar-sj3)
+* [Car Polo](https://www.myabandonware.com/game/car-polo-sj2)
+* [California Speed](https://www.myabandonware.com/game/california-speed-sj1)
+* [Columns 97](https://www.myabandonware.com/game/columns-97-sj0)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
