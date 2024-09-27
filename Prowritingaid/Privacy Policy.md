@@ -194,7 +194,7 @@ España
 
 Features
 
-[All Features](https://prowritingaid.com/features)[Grammar Checker](https://prowritingaid.com/grammar-checker)[Plagiarism Checker](https://prowritingaid.com/en/App/PlagiarismChecker)[For Teams](https://prowritingaid.com/business)
+[All Features](https://prowritingaid.com/features)[Grammar Checker](https://prowritingaid.com/grammar-checker)[Plagiarism Checker](https://prowritingaid.com/en/App/PlagiarismChecker)
 
 Learn More
 
