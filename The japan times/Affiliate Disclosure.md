@@ -210,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,23 +254,23 @@ Latest News
 
 [An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "An unusual result for an unusual election")
 
-4 hours ago
+10 hours ago
 
 [Toyota to recall over 42,000 U.S. vehicles over loss of power brake assist](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-us-recall/ "Toyota to recall over 42,000 U.S. vehicles over loss of power brake assist")
 
-5 hours ago
+11 hours ago
 
 [China, Taiwan and South Korea weigh in on Ishiba victory](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/shigeru-ishiba-ldp-south-korea-china-taiwan/ "China, Taiwan and South Korea weigh in on Ishiba victory")
 
-5 hours ago
+11 hours ago
 
 [Game developer Virtuos seeks acquisitions and growth in Japan](https://www.japantimes.co.jp/business/2024/09/27/companies/virtuos-acquisition-japan/ "Game developer Virtuos seeks acquisitions and growth in Japan")
 
-5 hours ago
+11 hours ago
 
 [Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
 
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
