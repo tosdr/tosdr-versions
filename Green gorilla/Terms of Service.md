@@ -12,6 +12,8 @@
 
 **ANNIVERSARY SALE: 30% OFF WITH CODE: ELEVEN**
 
+_Regulations For Hemp CBD Access In California_  I  **[Learn More](https://www.cdph.ca.gov/Programs/OLS/Pages/DPH-24-005E-Emergency-Regulations-for-Industrial-Hemp.aspx)**
+
 [FREE SHIPPING ON ORDERS OVER $75](https://ilovegreengorilla.com/shipping-and-returns/)
 
 [REFER A FRIEND – GIVE $20, GET $20](https://ilovegreengorilla.com/refer-a-friend/) 
