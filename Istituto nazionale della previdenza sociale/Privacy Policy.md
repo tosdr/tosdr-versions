@@ -1003,6 +1003,7 @@ it
         
     * [Portale per l'Analisi Sociale (PAS)](https://www.inps.it/it/it/dati-e-bilanci/portale-per-l-analisi-sociale--pas-.html)
     * [Welfare as a Service](https://www.inps.it/it/it/dati-e-bilanci/welfare-as-a-service.html)
+    * [Anagrafe dipendenti pubblici](https://www.inps.it/it/it/dati-e-bilanci/anagrafe-dipendenti-pubblici.html)
     * [Note trimestrali sulle tendenze dell’occupazione](#)
         
         Note trimestrali sulle tendenze dell’occupazione
