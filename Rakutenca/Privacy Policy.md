@@ -624,13 +624,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 10% Cash Back from Rakuten.ca with Lenovo Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/298278/en-stickyfooter-1170x60_lenovo.png "Lenovo Canada Coupons, Promo Codes")
+[![Earn 3% Cash Back from Rakuten.ca with Home Hardware Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/298102/en-stickyfooter-1170x60_home_hardware-1.png "Home Hardware Coupons, Promo Codes")
 
-was 3%, now
+was 1%, now
 
-10% Cash Back
+3% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/lenovo-canada?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/home-hardware?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
