@@ -398,7 +398,7 @@ Maximize business and social impact by increasing employee participation, stream
 
 ![Two women sitting and meeting together in front of plant at small table](/sites/default/files/styles/quilt_image/public/2023-07/istock-1400460121.jpg.webp?itok=hlwA74cB)
 
-![Black woman sitting with colleagues holding glasses and papers](/sites/default/files/styles/quilt_image/public/2023-07/istock-641081596_0.jpg.webp?itok=9i_wQ8eR)
+![Coworkers converse with each other as they leave a meeting](/sites/default/files/styles/quilt_image/public/2024-09/istock-1134020854.jpg.webp?itok=i9FxgxCq)
 
 Impact Management for nonprofits and public agencies
 
