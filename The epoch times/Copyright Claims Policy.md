@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [‘Enough Is Enough’: Netanyahu Vows to Continue Fight Against Hezbollah](https://www.theepochtimes.com/world/enough-is-enough-netanyahu-vows-to-continue-fight-against-hezbollah-5731337)
+    
+    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![‘Enough Is Enough’: Netanyahu Vows to Continue Fight Against Hezbollah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘Enough Is Enough’: Netanyahu Vows to Continue Fight Against Hezbollah](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731358-GettyImages-2173926223-205x123.jpg.webp)](https://www.theepochtimes.com/world/enough-is-enough-netanyahu-vows-to-continue-fight-against-hezbollah-5731337)
+* [Government Agency Issues Urgent Safety Warning on Faulty Boeing 737 Rudder System](https://www.theepochtimes.com/us/government-agency-issues-urgent-safety-warning-on-faulty-boeing-737-rudder-system-5731309)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Government Agency Issues Urgent Safety Warning on Faulty Boeing 737 Rudder System](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Government Agency Issues Urgent Safety Warning on Faulty Boeing 737 Rudder System](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724037-United-205x123.jpg.webp)](https://www.theepochtimes.com/us/government-agency-issues-urgent-safety-warning-on-faulty-boeing-737-rudder-system-5731309)
+* [How Your Muscles Motivate You to Stay Active](https://www.theepochtimes.com/health/how-your-muscles-motivate-you-to-stay-active-5724734)
+    
+    1hr By [Sheramy Tsai](https://www.theepochtimes.com/author/sher-tsai)
+    
+    [![How Your Muscles Motivate You to Stay Active](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Your Muscles Motivate You to Stay Active](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730610-woman-lifting--205x123.jpeg.webp)](https://www.theepochtimes.com/health/how-your-muscles-motivate-you-to-stay-active-5724734)
+* [Pennsylvania Officer’s Bullet Stopped Trump Shooter’s Gunfire Before He Was Shot, Witness Says](https://www.theepochtimes.com/us/pennsylvania-officers-bullet-stopped-trump-shooters-gunfire-before-he-was-shot-witness-says-5731282)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Pennsylvania Officer’s Bullet Stopped Trump Shooter’s Gunfire Before He Was Shot, Witness Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pennsylvania Officer’s Bullet Stopped Trump Shooter’s Gunfire Before He Was Shot, Witness Says](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731364-09262024-DSC01449-EDWARD-LENZ-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-officers-bullet-stopped-trump-shooters-gunfire-before-he-was-shot-witness-says-5731282)
+* [Norway Issues Wanted Notice for Man Connected to Exploding Hezbollah Pagers](https://www.theepochtimes.com/world/norway-issues-wanted-notice-for-man-connected-to-exploding-hezbollah-pagers-5731224)
+    
+    2hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Norway Issues Wanted Notice for Man Connected to Exploding Hezbollah Pagers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Norway Issues Wanted Notice for Man Connected to Exploding Hezbollah Pagers](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726468-GettyImages-2171996113-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/norway-issues-wanted-notice-for-man-connected-to-exploding-hezbollah-pagers-5731224)
 * [Senator Unveils Bill to Increase Size of Supreme Court to 15](https://www.theepochtimes.com/us/senator-unveils-bill-to-increase-size-of-supreme-court-5730795)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Senator Unveils Bill to Increase Size of Supreme Court to 15](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Senator Unveils Bill to Increase Size of Supreme Court to 15](https://img.theepochtimes.com/assets/uploads/2023/04/13/id5192063-wyden-205x123.jpeg.webp)](https://www.theepochtimes.com/us/senator-unveils-bill-to-increase-size-of-supreme-court-5730795)
 * [2 Russian Nationals Charged in Billion-Dollar Online Money Laundering Schemes](https://www.theepochtimes.com/us/2-russian-nationals-charged-in-billion-dollar-online-money-laundering-schemes-5731014)
     
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    7hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![2 Russian Nationals Charged in Billion-Dollar Online Money Laundering Schemes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![2 Russian Nationals Charged in Billion-Dollar Online Money Laundering Schemes](https://img.theepochtimes.com/assets/uploads/2023/09/09/id5488981-cyber-crime-205x123.jpg.webp)](https://www.theepochtimes.com/us/2-russian-nationals-charged-in-billion-dollar-online-money-laundering-schemes-5731014)
 * [Nearly 750,000 Purged From North Carolina’s Voter Rolls](https://www.theepochtimes.com/us/nearly-750000-purged-from-north-carolinas-voter-rolls-5730902)
     
-    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Nearly 750,000 Purged From North Carolina’s Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Nearly 750,000 Purged From North Carolina’s Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/03/05/id5600937-GettyImages-2052731956-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/nearly-750000-purged-from-north-carolinas-voter-rolls-5730902)
 * [Legislation to Restrict US Investment in China Is Top Priority, House Committee Chairman Says](https://www.theepochtimes.com/china/legislation-to-restrict-us-investment-in-china-is-top-priority-house-committee-chairman-says-5730705)
     
-    NEW By [Eva Fu](https://www.theepochtimes.com/author/eva-fu) and [Frank Fang](https://www.theepochtimes.com/author/frank-fang)
+    7hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu) and [Frank Fang](https://www.theepochtimes.com/author/frank-fang)
     
     [![Legislation to Restrict US Investment in China Is Top Priority, House Committee Chairman Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Legislation to Restrict US Investment in China Is Top Priority, House Committee Chairman Says](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729988-09252024-DSC01022-John-Moolenaar-205x123.jpg.webp)](https://www.theepochtimes.com/china/legislation-to-restrict-us-investment-in-china-is-top-priority-house-committee-chairman-says-5730705)
+    ![Legislation to Restrict US Investment in China Is Top Priority, House Committee Chairman Says](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731301-09252024-DSC01022-John-Moolenaar.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/legislation-to-restrict-us-investment-in-china-is-top-priority-house-committee-chairman-says-5730705)
 * [From National Debt to Budget Deficits, America’s Fiscal Health Absent From Election: Economists](https://www.theepochtimes.com/business/from-national-debt-to-budget-deficits-americas-fiscal-health-absent-from-election-economists-5729849)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![From National Debt to Budget Deficits, America’s Fiscal Health Absent From Election: Economists](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![From National Debt to Budget Deficits, America’s Fiscal Health Absent From Election: Economists](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729780-Trump-Harris-v2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/from-national-debt-to-budget-deficits-americas-fiscal-health-absent-from-election-economists-5729849)
-* [Trump to Meet With Zelenskyy to Discuss Ukraine ‘Victory Plan’](https://www.theepochtimes.com/world/trump-to-meet-with-zelenskyy-to-discuss-ukraine-victory-plan-5730969)
-    
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Trump to Meet With Zelenskyy to Discuss Ukraine ‘Victory Plan’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump to Meet With Zelenskyy to Discuss Ukraine ‘Victory Plan’](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5731029-DSC04714-trump-205x123.jpg.webp)](https://www.theepochtimes.com/world/trump-to-meet-with-zelenskyy-to-discuss-ukraine-victory-plan-5730969)
-* [Pentagon Confirms China’s New Nuclear Sub Sank in Shipyards](https://www.theepochtimes.com/china/pentagon-confirms-chinas-new-nuclear-sub-sank-in-shipyards-5731021)
-    
-    6hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Pentagon Confirms China’s New Nuclear Sub Sank in Shipyards](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pentagon Confirms China’s New Nuclear Sub Sank in Shipyards](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5731028-2024-09-26T205732Z_2_LYNXMPEK8P0UP_RTROPTP_4_CHINA-SUBMARINE-USA-205x123.jpg.webp)](https://www.theepochtimes.com/china/pentagon-confirms-chinas-new-nuclear-sub-sank-in-shipyards-5731021)
-* [America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://www.theepochtimes.com/article/americas-anxiety-crisis-affecting-1-in-every-6-adults-5726334)
-    
-    8hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
-    
-    [![America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730907-Depression-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/americas-anxiety-crisis-affecting-1-in-every-6-adults-5726334)
-* [New York City Mayor Adams Faces Pressure After Federal Indictment](https://www.theepochtimes.com/us/new-york-city-mayor-adams-faces-pressure-after-federal-indictment-5730900)
-    
-    9hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![New York City Mayor Adams Faces Pressure After Federal Indictment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New York City Mayor Adams Faces Pressure After Federal Indictment](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731118-Eric-Adams-AP24270549991506-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-adams-faces-pressure-after-federal-indictment-5730900)
-* [Biden Admin Revives Free COVID-19 Tests by Mail Program](https://www.theepochtimes.com/us/biden-admin-revives-free-covid-19-tests-by-mail-program-5730893)
-    
-    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Biden Admin Revives Free COVID-19 Tests by Mail Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Admin Revives Free COVID-19 Tests by Mail Program](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731078-GettyImages-1368623428KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-admin-revives-free-covid-19-tests-by-mail-program-5730893)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
