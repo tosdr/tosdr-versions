@@ -2637,7 +2637,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective September 25th 2024
+##### Effective September 27th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -5693,11 +5693,11 @@ _You can request more information about the nature and scope of your criminal re
 mg-testing gen auth (en)
 ------------------------
 
-### Version 23.0
+### Version 24.0
 
-##### Effective July 1st 2024
+##### Effective September 27th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/668264e9b6466d0366758431.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/668265d1735fff54b04883a9.pdf)
 
 * * *
 
@@ -5707,7 +5707,7 @@ mg-testing gen auth (en)
 
 **AUTHORIZATION**
 
-To evaluate your suitability for {{{purpose}}}, the Company has asked Certn and its parent, affiliates and subsidiaries, as applicable ("**Certn**", “**we**" or "**us**”) to verify your identity, and create and return a consumer report {{{usa\_report}}}(your "**Report(s)**") consisting of: {{{services\_list}}} (the " **Services**”).
+To evaluate your suitability for {{{purpose}}}, the Company has asked Certn and its parent, affiliates and subsidiaries, as applicable ("**Certn**", “**we**" or "**us**”) to verify your identity, and create and return a consumer report {{{usa\_report}}}(your "**Report(s)**") consisting of: {{{services\_list}}} (the " **Services**”). hello  
 
   
 
