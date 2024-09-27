@@ -54,8 +54,8 @@ Table of Contents
 Privacy Policy
 ==============
 
-Effective: July 1, 2024  
-[](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240701.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240701.pdf) | Previous Versions
+Effective: September 26, 2024  
+[](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240926.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240926.pdf) | Previous Versions
 
 Who we are and about this Privacy Policy
 ----------------------------------------
@@ -79,18 +79,18 @@ This Policy describes the services we offer, how our marketplaces work, the info
 
 We provide our services through our marketplaces which include:
 
-* Our owned and operated websites;
-* Our web forms that are embedded in our websites;
-* Our web forms that are embedded in certain third-party websites that we partner with;
-* The telephone numbers we provide on our websites and web forms or on third-party sites we advertise on, or on postal mail (this is when you call us using these telephone numbers); and
-* The features and functionality we provide on our websites and web forms that allow you to request that we call, email, or text you (this is when we provide our services to you via phone, email, or text messaging because you requested we contact you in that manner).
+* Our owned and operated websites
+* Our web forms that are embedded in our websites
+* Our web forms that are embedded in certain third-party websites that we partner with
+* The telephone numbers we provide on our websites and web forms or on third-party sites we advertise on, or on postal mail (this is when you call us using these telephone numbers)
+* The features and functionality we provide on our websites and web forms that allow you to request that we call, email, or text you (this is when we provide our services to you via phone, email, or text messaging because you requested we contact you in that manner)
 
 Our marketplaces are designed to connect you with advertisers (which may include businesses, agents, carriers, lead aggregators, and other types of advertisers in our network) who provide or can connect you with other businesses who provide:
 
-* Insurance products and services;
-* Financial products and services;
-* Travel related products and services; and
-* Other products and services that may be of interest to you or that you may wish to consider purchasing or request a quote or rates for.
+* Insurance products and services
+* Financial products and services
+* Travel related products and services
+* Other products and services that may be of interest to you or that you may wish to consider purchasing or request a quote or rates for
 
 You may use our marketplaces to connect with advertisers in the following ways:
 
@@ -102,14 +102,14 @@ By using our web forms on our websites or those embedded in the websites of our 
 
 You may use our web form to ask us to identify and connect you with advertisers that may best match, or that are otherwise relevant, to your request for the products or services you are interested in or the quote or rates you have requested ([example](javascript:void(0);)). When you make your request using our web forms:
 
-* You instruct us to share the information you provided in your request (including information we collected automatically when you used the web form) with advertisers participating in our marketplaces so they will know your request is coming from us, whether you were referred to us by one of our business partners, and so they can process and respond to your request including, for [example](javascript:void(0);), using your information to contact you (e.g., phone, email, text) to provide you with the product or services information you requested, or the quote or rates you requested, or to help you purchase the products and services that interest you directly from them.
-* In response to your request we will also display to you the advertisers’ advertisements (e.g., online ads, products or services information, rates, or other relevant information or content) in our marketplace to you. By clicking on one of these advertisements, you will navigate to that advertiser’s website or app and, we will share the information we collected about you and the advertisement you clicked on as part of your navigation to their website or app. Once you are on the advertiser’s website or app, they may ask you to provide additional information so they may further assist you with your request. To improve your experience and interaction with the advertiser, you may see the information you asked us to share with them pre-populated on the advertiser’s website such as in their webform on their website. For [example](javascript:void(0);), if you complete one of our web forms to connect with advertisers offering health insurance, we will display to you the top matches to your request that we can find from our network of advertisers. When you click on one of the advertisements, you will navigate to that advertiser’s website where they have pre-filled the information you asked us to share in their online form.
+* You instruct us to share the information you provided in your request (including information we collected automatically when you used the web form) with advertisers participating in our marketplaces so they will know your request is coming from us, whether you were referred to us by one of our business partners, and so they can process and respond to your request including, for [example](javascript:void(0);), using your information to contact you (e.g., phone, email, text) to provide you with the product or services information you requested, or the quote or rates you requested, or to help you purchase the products and services that interest you directly from them
+* In response to your request we will also display to you the advertisers’ advertisements (e.g., online ads, products or services information, rates, or other relevant information or content) in our marketplace to you. By clicking on one of these advertisements, you will navigate to that advertiser’s website or app and, we will share the information we collected about you and the advertisement you clicked on as part of your navigation to their website or app. Once you are on the advertiser’s website or app, they may ask you to provide additional information so they may further assist you with your request. To improve your experience and interaction with the advertiser, you may see the information you asked us to share with them pre-populated on the advertiser’s website such as in their webform on their website. For [example](javascript:void(0);), if you complete one of our web forms to connect with advertisers offering health insurance, we will display to you the top matches to your request that we can find from our network of advertisers. When you click on one of the advertisements, you will navigate to that advertiser’s website where they have pre-filled the information you asked us to share in their online form
 
-By using our telephone numbers displayed on our websites or on our business partners’ or other third party websites or on postal mail that you may receive from us to call us or by using the features and functionality we provide on our websites and web forms to ask us to call or text you.
+By using our telephone numbers displayed on our websites or on our business partners’ or other third-party websites or on postal mail that you may receive from us to call us or by using the features and functionality we provide on our websites and web forms to ask us to call or text you.
 
 You may ask us to identify and connect you with advertisers that may best match, or that are relevant to, your request for the products or services you are interested in or the quote or rates you have requested, by calling us using the telephone numbers displayed on our websites or on our business partner websites ([example](javascript:void(0);)) or on third party websites ([example](javascript:void(0);)) we advertise on or any postal mail you receive advertising our marketplaces or by asking us to call or text you by using the features and functionality we provided for this purpose on our websites and web forms. In some cases you may also ask an advertiser who participates in our marketplaces to transfer your call with them to us so you may use our marketplaces via your phone call. When you provide your information and request to us by phone call or by text message:
 
-* You instruct us to share the information you provided to us with advertisers participating in our marketplaces so they will know your request is coming from us and so they can process and respond to your request including, for [example](javascript:void(0);), using your information to contact you (e.g., phone, email, text) to provide you with products or services information you are interested in, or provide you the quote or rates you requested, or even help you purchase the products and services that interest you directly from them. You may also instruct us during your call to transfer your call to the advertiser(s) that interest you. We will also provide the advertiser’s products or services information, rates or quotes, or other relevant information or content to you during your call with us. We may also send this information to you via email, text, or subsequent phone calls or texts based on your consent, the notices we provide to you (including this Policy), and your instructions to us.
+* You instruct us to share the information you provided to us with advertisers participating in our marketplaces so they will know your request is coming from us and so they can process and respond to your request including, for [example](javascript:void(0);), using your information to contact you (e.g., phone, email, text) to provide you with products or services information you are interested in, or provide you the quote or rates you requested, or even help you purchase the products and services that interest you directly from them. You may also instruct us during your call to transfer your call to the advertiser(s) that interest you. We will also provide the advertiser’s products or services information, rates or quotes, or other relevant information or content to you during your call with us. We may also send this information to you via email, text, or subsequent phone calls or texts based on your consent, the notices we provide to you (including this Policy), and your instructions to us
 
 By signing up for one of our email marketing lists.
 
@@ -117,24 +117,24 @@ You may sign up for one of our email marketing lists to receive advertisements, 
 
 The information that we collect and process to provide our services and the sources of this information includes:
 
-* Information you provide to us when you use our marketplaces.
-* Information we collect automatically from you when you use our marketplaces.
-* Information we get from advertisers, business partners, third parties, and other sources about you.
-* Any other information you choose to provide to us.
+* Information you provide to us when you use our marketplaces
+* Information we collect automatically from you when you use our marketplaces
+* Information we get from advertisers, business partners, third parties, and other sources about you
+* Any other information you choose to provide to us
 
 We use the information we collect for the following business purposes to:
 
-* Provide our services to you;
-* Process your request(s);
-* Advertise and market our services to you;
-* Communicate with you;
-* Understand how our services are used;
-* Conduct research;
-* Improve and protect our services;
-* Develop new products and services; and
-* Comply with applicable laws, rules, regulations, and policies.
+* Provide our services to you
+* Process your request(s)
+* Advertise and market our services to you
+* Communicate with you
+* Understand how our services are used
+* Conduct research
+* Improve and protect our services
+* Develop new products and services
+* Comply with applicable laws, rules, regulations, and policies
 
-Additional details for each topic discussed above are provided below including in [What information do we collect and from what sources?](#what-info-and-source), [How and for what business purposes do we use the information we collect?](#how-we-use-your-information), and [When, how, and with whom do we share the information we collect?](#sharing-information-info).
+Additional details for each topic discussed above are provided below including in [What information do we collect and from what sources?](#what-info-and-source) [How and for what business purposes do we use the information we collect?](#how-we-use-your-information), and [When, how, and with whom do we share the information we collect?](#sharing-information-info).
 
 What does this Policy not cover?
 --------------------------------
@@ -159,7 +159,7 @@ Here is the information we collect:
 
 Property Insurance (i.e., home, vehicle, motorcycle, or other types of property insurance)
 
-Name, email, phone, address, zip code, and depending on the type of insurance requested we may also ask you for gender, age when first licensed, birthday, marital status, home details, vehicle year, vehicle make, vehicle model, vehicle type, education, credit rating, active or inactive drivers license, whether a SR-22 was filed, whether you are military affiliated, whether you own or rent, if you have a garage, past insurance company details, status of financed loan, vehicle purpose (work, school, mileage, own-lease), insurance expectations for deductibles, and any other information we request from you at the time you make your request that is relevant to the type of insurance products or services you are inquiring about.
+Name, email, phone, address, zip code, and depending on the type of insurance requested we may also ask you for gender, age when first licensed, birthday, marital status, home details, vehicle year, vehicle make, vehicle model, vehicle type, education, credit rating, active or inactive drivers license, whether a SR-22 was filed, whether you are military affiliated, whether you own or rent, if you have a garage, past insurance company details, status of financed loan, vehicle purpose (work, school, mileage, own/lease), insurance expectations for deductibles, and any other information we request from you at the time you make your request that is relevant to the type of insurance products or services you are inquiring about.
 
 Health Insurance
 
@@ -179,7 +179,7 @@ Name, phone, email, home and travel destination (i.e., to/from airports), number
 
 Travel - Hotel
 
-Name, address, phone, email, travel city, checkin and check out dates, number of hotel rooms, number of guests, and any other information we request from you at the time you make your request that is relevant to the type of hotel products or services or the booked trip you are inquiring about.
+Name, address, phone, email, travel city, check-in and check-out dates, number of hotel rooms, number of guests, and any other information we request from you at the time you make your request that is relevant to the type of hotel products or services or the booked trip you are inquiring about.
 
 Travel - Car Rental
 
@@ -226,17 +226,18 @@ Information we collect automatically
 
 We use cookies (small pieces of text used to store information on web browsers (learn more at allaboutcookies.org or youronlinechoices.eu)) and similar technologies (such as pixels, tags, beacons, scripts, and other technologies and unique identifiers), including data that we store on your web browser or device, identifiers associated with your device and other software to:
 
-* Provide our services;
-* Make our services work for you and for our network of advertisers;
-* Help us understand how our services are used;
-* Personalize your experience and the content we show you;
-* Improve our services;
-* Measure the performance of our network of advertiser's advertisements and other content we show you; and
-* Protect and improve our services.
+* Provide our services
+* Make our services work for you and for our network of advertisers
+* Monitor, keep track of, and record how you use our services
+* Help us understand how our services are used
+* Personalize your experience and the content we show you
+* Improve our services
+* Measure the performance of our network of advertiser's advertisements and other content we show you
+* Protect and improve our services
 
 All of which helps us to provide a safer and more meaningful experience.
 
-The cookies we use may contain unique identifiers (which may uniquely identify your device or browser), and reside, among other places, on your computer or mobile device, in emails we send to you, and on our websites and web forms. These cookies may also transmit information about you and your use of our services, such as your browser type, device type, search preferences, IP address (which may be treated as personal information in some jurisdictions, but which we use only to identify your general geographic area and to comply with applicable laws, rules, regulations, and orders) and data relating to our network of advertiser’s advertisements and other content that display to you or that you have interacted with, and the date and time of your use. Cookies may be persistent or stored only during an individual session.
+The technologies we use may contain unique identifiers (which may uniquely identify your device or browser), and reside, among other places, on your computer or mobile device, in emails we send to you, and on our websites and web forms. These technologies may help us associate your activity with additional information about your session and personal information, if provided by you. These technologies may also transmit information about you and your use of our services, such as your browser type, device type, search preferences, IP address (which may be treated as personal information in some jurisdictions, but which we use only to identify your general geographic area and to comply with applicable laws, rules, regulations, and orders) and data relating to our network of advertiser’s advertisements and other content that display to you or that you have interacted with, and the date and time of your use. These technologies may also help provide advertisers and our business partners (including any other third parties working on our behalf or who collect information on our services on our behalf), to automatically receive certain information associated with you and/or your device(s) as part of your use of our websites and web forms. Cookies may be persistent or stored only during an individual session.
 
 With the above in mind, below is a more detailed explanation of the types of information we collect automatically using cookies and other similar technologies when you use our websites and web forms (including our web forms embedded in our partner's websites) and the business purpose:
 
@@ -246,9 +247,9 @@ With the above in mind, below is a more detailed explanation of the types of inf
 | Authentication, Security, and Compliance | Intended to help us keep our marketplaces available, operating as intended, and secure including to prevent fraud, spam, prevent unauthorized parties from accessing the information we collect , and comply with legal requirements. For example, we use cookies to help us detect and block attacks like denial of service. |
 | Preferences | Intended to remember information about how you prefer our services to behave and look. For example, we use a cookie that tells us whether you have declined to allow us to use certain cookies. |
 | Notifications | Intended to allow or prevent notices of information or options that we think could improve your use of our services. For example, we use a cookie that stops us from showing you notifications you have already seen. |
-| Usage and Analytics | Intended to help us understand how visitors and users use our service. For example, we use cookies that tell us:<br><br>* How you interact with our websites and web forms including which ones you use and which search queries you submit;<br>* Which pages you have visited on our websites and which ones you visited immediately before or after navigating to our website.<br>* Which advertiser's advertisements and quotes and rates you select, which advertiser's websites you visit by using our marketplaces, including the time and date of your visit, and your interactions with our websites and advertisers' websites. For example, understanding when you leave our site to go to an advertiser's site or when you use our webform on a third-party site;<br>* Which of our emails and other communications we send to you that you interacted with, including whether you opened, forwarded or selected a link or content in such email; and<br>* other demographic and usage information. |
+| Usage and Analytics | Intended to help us understand how visitors and users use our service. For example, we use cookies that tell us:<br><br>* How you interact with our websites and web forms including which ones you use and which search queries you submit<br>* Which pages you have visited on our websites and which ones you visited immediately before or after navigating to our website<br>* Which advertiser's advertisements and quotes and rates you select, which advertiser's websites you visit by using our marketplaces, including the time and date of your visit, and your interactions with our websites and advertisers' websites. For example, understanding when you leave our site to go to an advertiser's site or when you use our webform on a third-party site<br>* Which of our emails and other communications we send to you that you interacted with, including whether you opened, forwarded or selected a link or content in such email<br>* Document your consent to be contacted including information when you interact with the page(s) where the script is present: page URL, mouse movements and clicks, contact information inputted by the user, a snapshot of the page, including IP address of the user’s computer, time on the page, date and time that the script was loaded, as well as the date and time of the various user interactions with the page, and HTTP headers from the user’s browser<br>* Other demographic and usage information |
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies may affect the availability and functionality of our websites and web forms. To learn more about your choices, please check out [Cookies and Other Technologies](#cookies-and-technologies).
+Most web browsers are set to accept cookies and other similar technologies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies may affect the availability and functionality of our websites and web forms. To learn more about your choices and the technologies we use, please check out [Cookies and Other Technologies](#cookies-and-technologies).
 
 Information from advertisers, business partners, third parties, and other sources
 
@@ -256,13 +257,13 @@ We receive information about you from our network of advertisers and may also re
 
 Here are some examples of the types of information we receive about you from these sources:
 
-* Confirmation of purchases, transactions, and requests (e.g., rates, quotes) you make with our network of advertisers;
-* Your interactions with our network of advertisers such as what websites you visit and whether a call you made to us that we transferred (at your request) to an advertiser was successful;
-* Confirmation on whether you are an existing customer or member with one of our advertisers;
-* Cookie data which helps us match your activities with our network of advertisers to your requests or to other information we have about you so that we can provide our services to you and to our network of advertisers;
-* Communications (e.g., calls, email, text) that our network of advertisers have with you as part of our performance of our services to you and to their business, like helping them make contact with you or manage their communications with you.
+* Confirmation of purchases, transactions, and requests (e.g., rates, quotes) you make with our network of advertisers
+* Your interactions with our network of advertisers such as what websites you visit and whether a call you made to us that we transferred (at your request) to an advertiser was successful
+* Confirmation on whether you are an existing customer or member with one of our advertisers
+* Cookie data which helps us match your activities with our network of advertisers to your requests or to other information we have about you so that we can provide our services to you and to our network of advertisers
+* Communications (e.g., calls, email, text) that our network of advertisers have with you as part of our performance of our services to you and to their business, like helping them make contact with you or manage their communications with you
 
-To learn how an advertiser or other third party processes or shares your information, read their privacy policy or contact them directly (learn more in [What does this Policy not cover?](#policy-not-cover))
+To learn how an advertiser or other third-party processes or shares your information, read their privacy policy or contact them directly (learn more in [What does this Policy not cover?](#policy-not-cover))
 
 Information you provide when you sign up for one of our email marketing lists
 
@@ -277,25 +278,25 @@ How and for what business purposes do we use the information we collect?
 
 We use the information we collect for the purposes outlined in this Policy including to:
 
-* Process your request to connect you with our network of advertisers to learn more about their products and services that interest you, to receive a quote or rates from them, or to purchase their products and services directly from them.
-* Communicate with you, including by phone calls, email, mail, and text messages. For [example](javascript:void(0);), when you provide your contact information to us you are registering to receive communications from us directly or through a third-party which may include using the those communication methods to:
-    * Share information about our services (including about our marketplaces).
-    * Share information about an advertiser’s products and services that we think may interest you. For example, if you request to be added to any of our mailing lists, we will periodically send you newsletters and other emails with offers and promotions. Our emails will always identify MediaAlpha or one of our branded sites as the sender. You may unenroll any time by selecting “unsubscribe” in our emails.
-    * Communicate with you to process your request.
-    * Respond to your inquiries.
+* Process your request to connect you with our network of advertisers to learn more about their products and services that interest you, to receive a quote or rates from them, or to purchase their products and services directly from them
+* Communicate with you, including by phone calls, email, mail, and text messages. For [example](javascript:void(0);), when you provide your contact information to us you are registering to receive communications from us directly or through a third-party which may include using those communication methods to:
+    * Share information about our services (including about our marketplaces)
+    * Share information about an advertiser’s products and services that we think may interest you. For example, if you request to be added to any of our mailing lists, we will periodically send you newsletters and other emails with offers and promotions. Our emails will always identify MediaAlpha or one of our branded sites as the sender. You may unenroll any time by selecting “unsubscribe” in our emails
+    * Communicate with you to process your request
+    * Respond to your inquiries
 * Remember your settings, choices, and the information you inputted into our marketplaces to provide you with our services and a personalized experience. For example, when you begin completing one of our web forms, we will remember the information you provided as you complete the form to personalize and improve your experience. This way if you need to stop and return later to complete the form you do not need to start over again.
 * Provide you with relevant advertisements and content from our network of advertisers based on your request, your activity on our services, and your activity on other sites and services not operated by us (this is based on [Information we receive from advertisers, business partners, third parties, and other sources](#info-recieved-from-other-sources)). For example, when you use our web forms to make a request for a quote or rates from our network of advertisers, we will show you the top matches. The matches displayed to you can be based on different factors such as the nature of your request, the type of product and services of the advertiser, and ultimately whether the advertiser bid on and won the right to display their rates, quotes, product and service information, or other content to you. If you select one of the matches you will navigate to their website where you may provide the advertiser with additional information so they can provide a more detailed quote to you or for you to purchase the product or service. The advertiser will communicate some of this information back to us so we can show you their quote or rates and so we are able to understand whether they processed your request and whether your interaction with them was successful.
 * Advertise, promote, and market our business, our services, and our marketplaces on or by using other third-party websites, apps, and products and services (e.g., social media and other online publishers, messaging, email, radio, television and other multi-media, postal mail, etc.).
 * Provide and improve our services (including monitoring, analyzing, and improving the operation, delivery, performance, and usability of our marketplaces), ad placement, ad targeting, and ad campaign success and measurement, including through the use of your location information (e.g., city, state, region, country), both on and off our marketplaces. See [Cookies and Other Technologies](#cookies-and-technologies) to learn more about our advertising practices and your choices.
-* Develop, operate, improve, deliver, maintain, and protect our services, including our marketplaces.
-* Monitor and analyze trends and usage of our services.
-* Aggregate information we receive from you and third parties to help us understand individual needs, customize our services and offerings, and provide better service.
-* Conduct research and analytics designed to help us understand our customers and improve and grow our business, products, services, and customer experience.
-* Enhance our services (including our marketplaces) and your experience with them by using information we collect automatically by [Cookies and Other Technologies](#cookies-and-technologies).
-* Enhance the safety and security of our services.
-* Verify your identity and prevent fraud or other unauthorized or illegal activity.
-* Enforce our [Terms of Use](https://insurance.mediaalpha.com/content/terms-of-use.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) and other usage policies.
-* Comply with legal requirements, including applicable laws, rules, regulations, and orders.
+* Develop, operate, improve, deliver, maintain, and protect our services, including our marketplaces
+* Monitor and analyze trends and usage of our services
+* Aggregate information we receive from you and third parties to help us understand individual needs, customize our services and offerings, and provide better service
+* Conduct research and analytics designed to help us understand our customers and improve and grow our business, products, services, and customer experience
+* Enhance our services (including our marketplaces) and your experience with them by using information we collect automatically by [Cookies and Other Technologies](#cookies-and-technologies)
+* Enhance the safety and security of our services
+* Verify your identity and prevent fraud or other unauthorized or illegal activity
+* Enforce our [Terms of Use](https://insurance.mediaalpha.com/content/terms-of-use.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) and other usage policies
+* Comply with legal requirements, including applicable laws, rules, regulations, and orders
 
 When, how, and with whom do we share the information we collect?
 ----------------------------------------------------------------
@@ -311,25 +312,25 @@ With advertisers when you use our marketplaces.
 When you submit a request through our marketplaces (e.g., through our web forms , by calling us, or by asking us to call, email, or text you), you instruct us to share and we will share the information you submit in your request with advertisers in our network (which may include businesses, agents, carriers, lead aggregators, and other types of advertisers in our network) so they know your request is coming from us and so they can process and respond to your request. Please keep in mind the following important details when using our marketplaces:
 
 * By submitting your request, you agree that we and our advertisers may contact you by phone (including through automated calling, live operators, or using recorded messages), text messages, email, or postal mail (the methods used to contact you will be based on the information you provide and the consent we receive from you), to process your request or to market products and services that might be of interest to you, even if you have opted into the National Do Not Call List (administered by the Federal Trade Commission) or any similar mechanism to opt-out of receiving phone calls or email or texts. If you later wish to not to be contacted by any advertiser, then you will need to contact such advertiser directly to make a request (read the advertiser’s privacy policy to learn how to exercise your privacy choices with such advertiser).
-* The categories of information we share with advertisers depends on the marketplaces you are using and the nature of your request, the advertisers products and services you are interested in, and the type of quote and rates you are requesting. For [example](javascript:void(0);), if you are requesting a quote or rates for car insurance, we may share with advertisers your name, address, telephone number, email, information about your cars and driver history, and any other information you provide in our marketplace (to learn more, see [Your request and information you provide to us](#info-you-provide)).
+* The categories of information we share with advertisers depends on the marketplaces you are using and the nature of your request, the advertiser's products and services you are interested in, and the type of quote and rates you are requesting. For [example](javascript:void(0);), if you are requesting a quote or rates for car insurance, we may share with advertisers your name, address, telephone number, email, information about your cars and driver history, and any other information you provide in our marketplace (to learn more, see [Your request and information you provide to us](#info-you-provide))
 * The information you ask us to share with advertisers and the information you provide directly to such advertisers is subject to each advertiser’s privacy policy.
-    * Please read each advertiser’s privacy policy to learn more about their information practices, how they handle your information, and the choices you can make about how they collect and use your information (learn more in [What does this Policy not cover?](#policy-not-cover)).
-    * Please note, an advertiser may keep the information we shared with them (that you provided through our marketplaces) whether or not you elect to purchase or use their services.
-    * The agreements we have with those advertisers that partner with us require them to secure any personal information (also known as personal data) we provide to them, limit how they use such information, and comply with national, state, and other applicable privacy regulations.
+    * Please read each advertiser’s privacy policy to learn more about their information practices, how they handle your information, and the choices you can make about how they collect and use your information (learn more in [What does this Policy not cover?](#policy-not-cover))
+    * Please note, an advertiser may keep the information we shared with them (that you provided through our marketplaces) whether or not you elect to purchase or use their services
+    * The agreements we have with those advertisers that partner with us require them to secure any personal information (also known as personal data) we provide to them, limit how they use such information, and comply with national, state, and other applicable privacy regulations
 
 With our business partners and other third parties.
 
 To provide and protect our services, we share the information we have about you with those businesses that provide services to us. We call these our business partners including our third-party vendors, suppliers, service providers, lead aggregators, and other third parties we work with. We share the information we have about you with our business partners under the following circumstances:
 
-* To help us advertise, promote, and market our business, our services and our marketplaces on or by using other third-party websites, apps, and products and services (e.g., social media and other online publishers, messaging, email, radio, television and other multi-media, postal mail, etc.).
-* To measure and optimize the performance of our business, our services, and marketplaces including ad performance and delivery so we can deliver more relevant ads in our marketplaces and ads we may place on other third-party websites, apps, and products and services.
-* To optimize our services and marketplaces so our network of advertisers are able to more easily reach their desired audience and market by sharing aggregated, non-personally identifiable, de-identified, and aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you).
-* To help us and others prevent fraud, which may include sharing device, usage, and other information we have about you.
+* To help us advertise, promote, and market our business, our services and our marketplaces on or by using other third-party websites, apps, and products and services (e.g., social media and other online publishers, messaging, email, radio, television and other multi-media, postal mail, etc.)
+* To measure and optimize the performance of our business, our services, and marketplaces including ad performance and delivery so we can deliver more relevant ads in our marketplaces and ads we may place on other third-party websites, apps, and products and services
+* To optimize our services and marketplaces so our network of advertisers are able to more easily reach their desired audience and market by sharing aggregated, non-personally identifiable, de-identified, and aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you)
+* To help us and others prevent fraud, which may include sharing device, usage, and other information we have about you
 * For legal, safety, and security reasons. This means we may share information about you if we reasonably believe that disclosing the information is needed to:
-    * Comply with any valid legal process, governmental or law enforcement request, or applicable law, rule, or regulation (e.g., subpoenas, court orders, federal/state audits or similar circumstances, etc.).
-    * Investigate, remedy, or enforce potential violations of our [Terms of Use](https://insurance.mediaalpha.com/content/terms-of-use.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw).
-    * Protect our rights, property, or safety or those of the advertisers, our suppliers, or others.
-    * Detect and resolve any fraud or security concerns.
+    * Comply with any valid legal process, governmental or law enforcement request, or applicable law, rule, or regulation (e.g., subpoenas, court orders, federal/state audits or similar circumstances, etc.)
+    * Investigate, remedy, or enforce potential violations of our [Terms of Use](https://insurance.mediaalpha.com/content/terms-of-use.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw)
+    * Protect our rights, property, or safety or those of the advertisers, our suppliers, or others
+    * Detect and resolve any fraud or security concerns
 * As part of a merger or acquisition, asset sale, financing, liquidation, or bankruptcy. If we become involved in any merger, asset sale, financing, liquidation or bankruptcy, or other acquisition of all or some portion of our business by another company, we may share your information with that company before and after the transaction closes.
 
 Keep in mind, we have agreements with our vendors, suppliers, service providers, contractors, and consultants requiring them to secure any personal information we provide to them, limit how they use such information, and comply with national, state, and other applicable privacy laws, rules, and regulations.
@@ -337,7 +338,7 @@ Keep in mind, we have agreements with our vendors, suppliers, service providers,
 How do third-party content, links, and integrations in our marketplaces work?
 -----------------------------------------------------------------------------
 
-Our marketplaces contain various forms of advertisements from our network of advertisers which may be presented to you in different ways including as online ads, text, video, or other interactive content, products and services information, rates, quotes, links, etc. ([Example](javascript:void(0);)). For example, when you submit information through our marketplaces, in response to your request to connect with our network of advertisers, advertisements will be displayed to you as content and links to websites owned and operated by participating advertisers. By clicking on these links you will navigate to their website or app where you may learn more about their products and services, request a quote or rates from them, purchase products and services from them, or communicate with them. As noted above, when you click on an advertisement displayed to you, you will be providing information to the advertiser and any providers acting on their behalf as well as to us and our business partners. We are not responsible for how an advertiser and any other third parties collects or uses your information. We encourage you to read the privacy policies of every advertiser and third-party service that you visit or use. To learn more, see [What does this Policy not cover?](#policy-not-cover) and [How and when we share the information we collect about you?](#sharing-information-info)
+Our marketplaces contain various forms of advertisements from our network of advertisers which may be presented to you in different ways including as online ads, text, video, or other interactive content, products and services information, rates, quotes, links, etc. ([Example](javascript:void(0);)). For example, when you submit information through our marketplaces, in response to your request to connect with our network of advertisers, advertisements will be displayed to you as content and links to websites owned and operated by participating advertisers. By clicking on these links, you will navigate to their website or app where you may learn more about their products and services, request a quote or rates from them, purchase products and services from them, or communicate with them. As noted above, when you click on an advertisement displayed to you, you will be providing information to the advertiser and any providers acting on their behalf as well as to us and our business partners. We are not responsible for how an advertiser and any other third parties collects or uses your information. We encourage you to read the privacy policies of every advertiser and third-party service that you visit or use. To learn more, see [What does this Policy not cover?](#policy-not-cover) and [How and when we share the information we collect about you?](#sharing-information-info)
 
 How long do we keep the information we collect?
 -----------------------------------------------
@@ -346,11 +347,11 @@ How long we keep the information we collect about you depends on the amount, nat
 
 Generally, we retain the information we collect about you only for as long as is reasonably necessary to fulfill each purpose for which it was collected. For example, we keep the information we collect:
 
-* Through our marketplaces (like your name, phone number, address, email address, etc.) until you ask us to delete it.
-* For the length of time reasonably needed to fulfill the purposes outlined in this Policy (including for as long as need to provide you with our services), unless a longer retention period is required or permitted by law.
-* For as long as necessary to resolve disputes and/or enforce our rights and agreements.
-* If it is aggregated, anonymized, and/or de-identified (i.e., no longer or otherwise not capable of identifying you) then indefinitely.
-* In our backup or disaster recovery systems for a limited period of time or as permitted by applicable law.
+* Through our marketplaces (like your name, phone number, address, email address, etc.) until you ask us to delete it
+* For the length of time reasonably needed to fulfill the purposes outlined in this Policy (including for as long as need to provide you with our services), unless a longer retention period is required or permitted by law
+* For as long as necessary to resolve disputes and/or enforce our rights and agreements
+* If it is aggregated, anonymized, and/or de-identified (i.e., no longer or otherwise not capable of identifying you) then indefinitely
+* In our backup or disaster recovery systems for a limited period of time or as permitted by applicable law
 
 If necessary, however, we may retain the information we collect about you for longer periods of time after the set retention periods and deadlines expire such as where we are required to do so in accordance with legal, tax, and/or accounting requirements set by a legislature, regulator, or other government authority. We may also retain information for longer periods of time as necessary to resolve disputes and defend claims, as well as for any additional purpose based on the choices you have made, such as to receive marketing communications.
 
@@ -372,31 +373,34 @@ Of course, if we learn of a security breach, we may attempt to notify you electr
 Cookies and other Technologies
 ------------------------------
 
-As discussed [above](#info-we-collect-websites-webform), we use cookies and similar technologies (such as pixels, tags, beacons, scripts, and other technologies and unique identifiers), including data that we store on your web browser or device, identifiers associated with your device and other software to provide and make our services to you and to our network of advertisers work. This means advertisers, our business partners (including any other third parties working on our behalf or who collect information on our services on our behalf), may automatically receive certain information associated with you and/or your device(s) as part of your use of our websites and web forms through such browser or device-based collection technologies.
+As discussed in [Information we collect automatically](#info-we-collect-websites-webform), we use cookies and similar technologies (such as pixels, tags, beacons, scripts, and other technologies and unique identifiers), including data that we store on your web browser or device, identifiers associated with your device and other software to provide and make our services available to you and to our network of advertisers work.
 
-Many devices and browsers give you the option to manage and/or disable cookies and other online tracking technologies. To opt-out of the use of these technologies, you may change your browser options to stop accepting cookies or to prompt you before accepting cookies. To assist you, we compiled directions for some commonly used browsers and devices in the table below. Keep in mind that not all devices and browsers are the same so the methods described below may not work for your browser, browser version, or device and may change at any time. We encourage you to refer to the relevant instructions for your particular device or browser.
+Many devices and browsers give you the option to manage and/or disable cookies and other online tracking technologies. To opt-out of the use of these technologies, you may change your browser options to stop accepting cookies or to prompt you before accepting cookies. To assist you, we compiled resources to directions for some commonly used browsers and devices. Keep in mind that not all devices and browsers are the same so the methods described below may not work for your browser, browser version, or device and may change at any time. We encourage you to refer to the relevant instructions for your particular device or browser.
 
 Before you dive in, please note, if you opt out of the collection and use of information via cookies and other technologies, you may still see customized advertising displayed by advertising networks from which you have not opted out. Additionally, your opt-out will not prevent advertising networks from displaying advertising that is not customized to you and your interests and, consequently, such advertisements may be less relevant to you. You will need to make such choices on each browser and device you may use to visit our websites and web forms.
 
-* **Disabling Cookies in Browsers** When you elect to opt-out on a website, including our websites, an opt-out cookie is placed on your device. Then when you visit the same website, the opt-out cookie tells the website you opted out. This means that blocking all cookies may prevent the websites from operating as expected and may also prevent your consent choices from being stored. This may mean that if you opt-out and then block cookies, we may not know about, or be able to honor, your opt-out. You should also be aware that blocking cookies on your computer will not affect your choices on a different device, such as a mobile device. You may want to keep this in mind when determining your browser and device cookie settings. For more information on how to disable cookies on the most common browsers, we recommend you review the browser provider’s support information.
+* **Disabling Cookies in Browsers.** When you elect to opt-out on a website, including our websites, an opt-out cookie is placed on your device. Then when you visit the same website, the opt-out cookie tells the website you opted out. This means that blocking all cookies may prevent the websites from operating as expected and may also prevent your consent choices from being stored. This may mean that if you opt-out and then block cookies, we may not know about, or be able to honor, your opt-out. You should also be aware that blocking cookies on your computer will not affect your choices on a different device, such as a mobile device. You may want to keep this in mind when determining your browser and device cookie settings. For more information on how to disable cookies on the most common browsers, we recommend you review the browser provider’s support information.
 
 * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en-GB)
 * [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac)
 * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-cookies-site-data-firefox)
 * [Microsoft Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
-* **Other Options for Disabling Online Tracking.** Blocking cookies in your browser may not prevent cross-site tracking of your online activity using other online tracking technologies. In addition to managing your cookie settings for your browser, you can opt-out of tracking directly with the businesses that operate the tracking technologies. To opt-out of certain analytic tracking by our service providers visit the links below:
-    
-    **Helpful Links:**
-    
+* **Marketing and Monitoring.** We use TrustPulse for marketing and monitoring of real time customer activity on and as part of our services. For more information about TrustPulse's data use and collection policies and practices, please review:
+    * [TrustPulse](https://trustpulse.com/privacy/)
+* **Other Options for Disabling Online Tracking.** Blocking cookies in your browser may not prevent cross-site tracking of your online activity using other online tracking technologies. In addition to managing your cookie settings for your browser, you can opt-out of tracking directly with the businesses that operate the tracking technologies.
+* **Technology to Document User Consent.** We use Jornaya and/or TrustedForm to independently document user's consent to be contacted as part of our services. For more information about Jornaya's and TrustedForm’s data use and collection policies and practices, please review:
+    * [Jornaya](https://www.jornaya.com/consumer-privacy-policy/)
+    * [TrustedForm](https://activeprospect.com/trustedform-privacy-notice/)
+* **Disabling Analytics Tracking.** To opt-out of certain analytic tracking by our service providers visit the links below (please note analytics companies other than Google Analytics and Bing may continue to aggregate and analyze data collected about you on our behalf):
     * [Google Analytics](https://tools.google.com/dlpage/gaoptout)
-    * [Bing](http://choice.microsoft.com/)
+    * [Bing](https://choice.microsoft.com/)
 * **Do Not Track.** Some web browsers may transmit "do not track" signals (go [here](https://allaboutdnt.com/) to learn more). Web browsers may incorporate or activate these features differently, making it unclear if users have consciously activated them. As a result, we do not take steps to respond to such signals.
 * **European and United Kingdom Visitors.** In connection with the General Data Protection Regulation (GDPR) and other like laws applicable in the European Economic Area (EEA) and the United Kingdom (UK), we eliminate or limit the use of cookies and similar technologies with visitors from the EEA/UK (excluding our corporate website available at www.mediaalpha.com, which continues to use cookies for all users with applicable consent (more information below)). Specifically:
-    * If you visit a third-party site that uses our services, we will not place any cookies on your device unless you have provided your consent and were provided with notice of our privacy practices and your ability to opt-out at any time.
-    * We will not seek your consent to use cookies in this instance, though the advertiser or their website publisher may do so.
+    * If you visit a third-party site that uses our services, we will not place any cookies on your device unless you have provided your consent and were provided with notice of our privacy practices and your ability to opt-out at any time
+    * We will not seek your consent to use cookies in this instance, though the advertiser or their website publisher may do so
     * If you visit one of our websites, we will only place limited third-party cookies, such as those made available for analytics purposes by Google and Bing. In this case, we will seek your consent to use these third-party cookies and will only do so after you indicate your consent. If you do not consent, then no cookies will be written to your device.
-    * If you are visiting our corporate website, mediaalpha.com, for the first time, or the first time after we make a material change, we will seek your consent to use cookies.
-    * If you do not consent, you will still be able to use our websites, but certain functionality may be limited. To enable this feature, we use third-party tools to determine your geographic location; if these tools indicate that you are in the EEA/UK, then we treat your visit as above. If you feel that you are subject to GDPR or similar law in the EEA/UK, but we have nonetheless used cookies in connection with your visit without consent (which may be due to a failure of the third party geolocation tools, your use of a proxy server, your location outside of the EEA/UK at the time of your visit, or some other factor beyond our control) please notify us through our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#contact-us) (select “Contact Us” in the dropdown menu of the submission form) and make sure to include any relevant details so that we can ensure proper treatment of your data.
+    * If you are visiting our corporate website, mediaalpha.com, for the first time, or the first time after we make a material change, we will seek your consent to use cookies
+    * If you do not consent, you will still be able to use our websites, but certain functionality may be limited. To enable this feature, we use third-party tools to determine your geographic location; if these tools indicate that you are in the EEA/UK, then we treat your visit as above. If you feel that you are subject to GDPR or similar law in the EEA/UK, but we have nonetheless used cookies in connection with your visit without consent (which may be due to a failure of the third party geolocation tools, your use of a proxy server, your location outside of the EEA/UK at the time of your visit, or some other factor beyond our control) please notify us through our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#contact-us) (select “Contact Us” in the dropdown menu of the submission form) and make sure to include any relevant details so that we can ensure proper treatment of your data
 
 Your Privacy Rights
 -------------------
@@ -413,33 +417,33 @@ Rights Regarding the Personal Information We May Have About You.
 
 Depending on your state of residence, you may have the following rights:
 
-* Right to delete personal information we have about you;
-* Right to correct inaccurate personal information we have about you;
-* Right to access and receive a copy of the personal information we about you;
-* Right to opt-out of the sale or sharing of the personal information we have about you;
-* Right to limit the use or disclosure of the sensitive personal information we have about you; and
-* Right to know certain information about our data practices in the preceding 12 months.
+* Right to delete personal information we have about you
+* Right to correct inaccurate personal information we have about you
+* Right to access and receive a copy of the personal information we about you
+* Right to opt-out of the sale or sharing of the personal information we have about you
+* Right to limit the use or disclosure of the sensitive personal information we have about you
+* Right to know certain information about our data practices in the preceding 12 months
 
 Your Right to Know.
 
 Depending on your state of residence, you may have the right to know about what personal information we collect and the sources from which we collect (including sensitive personal information), how we use the personal information we collect and for what business purposes we use it, how, when, and with whom we share the personal information we collect, and the criteria we use to determine the length of time we intend to retain personal information. We provide this information in this Policy (with additional details provided below). We may also provide additional notices and disclosures to you at the point of collection. For example, as part of the consent language on our web forms, the cookie pop-up notices on our websites, and the disclosures and notices we read to you when you call us or when we call you. In this Policy, to learn more about:
 
-* What categories of personal information we collect and the categories of sources from which we collect such information, review [What information do we collect and from what sources?](#what-info-and-source).
+* What categories of personal information we collect and the categories of sources from which we collect such information, review [What information do we collect and from what sources?](#what-info-and-source)
 * What categories of sensitive personal information we collect and how we use this information, review [Sensitive personal information](#sensitive-personal-info-categories).
-* How we use and the business purposes for which we use the categories of information we collect, review [How and for what business purposes do we use the information we collect?](#how-we-use-your-information).
-* How, when, and with what categories of parties we share the information we collect, review [How, when, and with whom do we share the information we collect?](#sharing-information-info).
-* The criteria we use to determine the length of time we intend to retain each category of personal information we collect about you, review [How long do we keep the information we collect about you?](#how-long-do-we-keep-the-info).
+* How we use and the business purposes for which we use the categories of information we collect, review [How and for what business purposes do we use the information we collect?](#how-we-use-your-information)
+* How, when, and with what categories of parties we share the information we collect, review [How, when, and with whom do we share the information we collect?](#sharing-information-info)
+* The criteria we use to determine the length of time we intend to retain each category of personal information we collect about you, review [How long do we keep the information we collect about you?](#how-long-do-we-keep-the-info)
 
 Your Right to Access and Receive a Copy of the Personal Information We Have About You.
 
 Depending on your state of residence, you may have the right to request the following from us:
 
-* Specific pieces of personal information we collected about you;
-* Categories of personal information we collected about you;
-* Categories of sources from which the personal information is collected;
-* Categories of personal information we sold or disclosed for a business purpose about you;
-* Categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
-* The business purpose for collecting or selling personal information.
+* Specific pieces of personal information we collected about you
+* Categories of personal information we collected about you
+* Categories of sources from which the personal information is collected
+* Categories of personal information we sold or disclosed for a business purpose about you
+* Categories of third parties to whom the personal information was sold or disclosed for a business purpose
+* The business purpose for collecting or selling personal information
 
 WE DO NOT SELL OR SHARE YOUR PERSONAL INFORMATION.
 
@@ -463,13 +467,13 @@ Should you wish to exercise your rights, we will not discriminate against you by
 
 Right to Appeal.
 
-Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. You may appeal any decision related to your privacy request via our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) or by sending us an email to dpo@mediaalpha.com.
+Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. You may appeal any decision related to your privacy request via our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) by selecting Contact Us using the Request Form or by sending us an email to dpo@mediaalpha.com.
 
 California's "Shine the Light" law.
 
-California residents may, no more than once per calendar year, request from us information about our disclosure of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) and select the “Shine the Light Request” option from the drop down menu. We will provide you within 30 days of receiving your request, a list of the categories of personal information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year and the names and addresses of the third parties.
+California residents may, no more than once per calendar year, request from us information about our disclosure of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) and select the “Shine the Light Request” option from the drop-down menu. We will provide you within 30 days of receiving your request, a list of the categories of personal information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year and the names and addresses of the third parties.
 
-International Disclosures (Visitors Outside the United States)
+International Disclosures (Visitors Outside the United States).
 
 This Policy is intended to cover the collection of information from residents of the United States. The data protection and other laws of the United States might not be as comprehensive as those in your country. By visiting our websites and web forms or otherwise using our services in any other way, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy, regardless of the laws of your country of residence. To the extent the laws of another jurisdiction apply to your data or use of our services, we will comply with such laws. For example, for European and UK Visitors, read the [European and United Kingdom Visitors](#european-visitors) section of [Cookies and Other Technologies](#cookies-and-technologies) to learn more about our use of cookies and similar technologies with visitors from the EEA/UK.
 
@@ -490,29 +494,29 @@ You have the following options available to you to manage the information we col
 
 Access and Portability.
 
-You may access and receive a copy of the information we have about you by submitting a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Access My Personal Information” from the drop down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351.
+You may access and receive a copy of the information we have about you by submitting a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Access My Personal Information” from the drop-down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351.
 
 Correction or Modify (also known as rectification).
 
-You may correct or modify the information we have about you by submitting a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Correct or Modify My Personal Information” from the drop down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351.
+You may correct or modify the information we have about you by submitting a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Correct or Modify My Personal Information” from the drop-down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351.
 
 Deletion (also known as erasure).
 
-If for some reason you ever want us to delete the information we have about you, you may submit such a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Delete My Personal Information” from the drop down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351.
+If for some reason you ever want us to delete the information we have about you, you may submit such a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Delete My Personal Information” from the drop-down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351.
 
 Revoke Consent or Object to Processing.
 
-You may revoke the consent you gave to us or object to our processing of the information we have about you by submitting a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Revoke My Consent or Object to Processing of My Personal Information” from the drop down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351. If you are seeking to unsubscribe to our emails or change your communication preferences, see below.
+You may revoke the consent you gave to us or object to our processing of the information we have about you by submitting a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) (simply select “Revoke My Consent or Object to Processing of My Personal Information” from the drop-down menu and complete and submit the form). You may also submit your request to us by emailing us at dpo@mediaalpha.com or by calling us at 1-833-549-0351. If you are seeking to unsubscribe to our emails or change your communication preferences, see below.
 
 Marketing and Communication Preferences.
 
-If you wish to unsubscribe to any email communications we send to you, simply select “unsubscribe” in the emails. If you wish to unsubscribe to any text messages we send to you, text “STOP” in reply to any text message you receive from us. If you wish to unsubscribe or change/update any communication preferences with us including calls or mail, submit a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) by selecting "Marketing and Communication Preferences" from the drop down menu and then complete and submit the form. Please note that we only control our own mailing and marketing lists/subscriptions and policies. Third parties that maintain their own marketing lists may send communications that advertise our services. You must contact these parties directly in order to stop receiving their communications.
+If you wish to unsubscribe to any email communications we send to you, simply select “unsubscribe” in the emails. If you wish to unsubscribe to any text messages we send to you, text “STOP” in reply to any text message you receive from us. If you wish to unsubscribe or change/update any communication preferences with us including calls or mail, submit a request in our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw) by selecting "Marketing and Communication Preferences" from the drop-down menu and then complete and submit the form. Please note that we only control our own mailing and marketing lists/subscriptions and policies. Third parties that maintain their own marketing lists may send communications that advertise our services. You must contact these parties directly in order to stop receiving their communications.
 
 Cookies and other Tracking Technologies.
 
 To learn more about your choices and how to exercise control over the information we collect from you automatically using cookies and other technologies, read [Cookies and Other Technologies](#cookies-and-technologies).
 
-If you have any questions or need assistance, you may contact us by sending a message through our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#contact-us) (select "Contact Us" in the dropdown menu of the submission form), email us at dpo@mediaalpha.com, or call us at 1-833-549-0351.
+If you have any questions or need assistance, you may contact us by sending a message through our [Privacy Center](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#contact-us) (select "Contact Us" in the drop-down menu of the submission form), email us at dpo@mediaalpha.com, or call us at 1-833-549-0351.
 
 Revisions to the Privacy Policy
 -------------------------------
@@ -530,6 +534,9 @@ Attention: DPO
 Los Angeles, CA 90017  
 
 Previous Versions
+
+**July 1, 2024**  
+[](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240701.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240701.pdf)
 
 **May 1, 2024**  
 [](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240501.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240501.pdf)
