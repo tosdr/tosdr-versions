@@ -93,15 +93,13 @@ Personal Data is collected for the following purposes and using the following se
     
 * ### Analytics
     
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+    **Google Analytics**
     
-    #### Yandex Metrica (YANDEX, LLC)
+    Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
     
-    Yandex Metrica is an analytics and heat mapping service provided by YANDEX, LLC. Yandex Metrica can be used to display the areas of a page where Users most frequently move the mouse or click. This shows where the points of interest are.
+    You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js and dc.js) from sharing information with Google Analytics about visits activity.
     
-    Personal Data collected: Cookies and Usage Data.
-    
-    Place of processing: Russian Federation – [Privacy Policy](https://legal.yandex.com/confidential/).
+    For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
     
 * ### Contacting the User
     
