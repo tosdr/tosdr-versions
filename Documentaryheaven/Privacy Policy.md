@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Tainted Love Secrets of the Dating Game](/wp-content/thumbnails/7949-100x70.jpg?x53432)
+* [![Inside Hamas](/wp-content/thumbnails/184-100x70.png?x53432)
     
-    Tainted Love Secrets of the Dating Game
+    Inside Hamas
     
-    Panorama exposes the tricks of the UK's online dating industry, worth millions of pounds a year. Reporter Fiona Walker investigates how some unscrupulous dating websites are preying on those looking f](https://documentaryheaven.com/tainted-love-secrets-dating-game/ "Tainted Love Secrets of the Dating Game")
-* [![Bill Gates Talks at TED and Unleashes Mosquitoes](/wp-content/thumbnails/144-100x70.png?x53432)
+    What is the reality of daily life in Gaza under Hamas and can a militant religious organisation move from international pariah to meaningful political player? David Rosenberg explores the issues. ‘A m](https://documentaryheaven.com/inside-hamas/ "Inside Hamas")
+* [![My Lai Massacre](/wp-content/thumbnails/13205-100x70.jpg?x53432)
     
-    Bill Gates Talks at TED and Unleashes Mosquitoes
+    My Lai Massacre
     
-    On this year’s TED Talks 2009 in California Bill Gates shocked his audience of rich people with the unleashing of a swarm of mosquitoes, so that not only poor people can experience them. Further more](https://documentaryheaven.com/bill-gates-talks-at-ted-and-unleashes-mosquitoes/ "Bill Gates Talks at TED and Unleashes Mosquitoes")
-* [![The World’s Strictest Parents](/wp-content/thumbnails/6291-100x70.jpg?x53432)
+    The Vietnam War was not one of America's finer moments in history for obvious reasons but there was a specific moment during the war that casts an even darker cloud over the conflict, that was th](https://documentaryheaven.com/my-lai-massacre/ "My Lai Massacre")
+* [![The Foster Home From Hell](/wp-content/thumbnails/8679-100x70.jpg?x53432)
     
-    The World’s Strictest Parents
+    The Foster Home From Hell
     
-    Unruly teenagers are sent abroad to live with strict families in an experiment to find out the right way to bring up a child. These series document the journey of unruly teens from different families](https://documentaryheaven.com/the-worlds-strictest-parents/ "The World’s Strictest Parents")
-* [![Educating Black Boys](/wp-content/thumbnails/6953-100x70.jpg?x53432)
+    This Vice News exclusive is an investigation into the a man named Jay Ram, Ram was once considered a local hero for his efforts in fostering and taking care of many young boys that were stuck in the s](https://documentaryheaven.com/foster-home-from-hell/ "The Foster Home From Hell")
+* [![Nicki Minaj: My Time Again](/wp-content/thumbnails/9526-100x70.jpg?x53432)
     
-    Educating Black Boys
+    Nicki Minaj: My Time Again
     
-    Tony Harris takes a personal look at Baltimore’s inner city and an education system that has failed black Americans.Baltimore, Maryland has come to be known as ‘Charm City’ because of its harbor,](https://documentaryheaven.com/educating-black-boys/ "Educating Black Boys")
-* [![Dub Echoes](/wp-content/thumbnails/5737-100x70.jpg?x53432)
+    This 40 minute MTV special is all about Nicki Minaj, and gives you an insight into her everyday life, from the effort that goes into filming her music videos and preforming live, to the rehearsals in](https://documentaryheaven.com/nicki-minaj-time/ "Nicki Minaj: My Time Again")
+* [![Britain’s Teenage Drug Runners](/wp-content/thumbnails/13560-100x70.jpg?x53432)
     
-    Dub Echoes
+    Britain’s Teenage Drug Runners
     
-    The documentary “Dub Echoes” shows how the Jamaican invention called dub ended up influencing much of the music we hear today, from electronic music to hip-hop, transforming the studio in a musical in](https://documentaryheaven.com/dub-echoes/ "Dub Echoes")
+    Rural villages and seaside towns across the United Kingdom now appear to be under threat, urban gangs are moving in with the sole intention to sell drugs. The police force is attempting to tackle thes](https://documentaryheaven.com/britains-teenage-drug-runners/ "Britain’s Teenage Drug Runners")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
