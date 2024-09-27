@@ -4158,6 +4158,8 @@ e. to share and disclose the Information with the Bank’s service providers, co
 
 22\. All disputes if any, arising out of or in connection with or because of above vouchers or otherwise relating hereto shall be subject to the exclusive jurisdiction of the competent courts / tribunals in Mumbai only, irrespective of whether courts / tribunals in other areas have concurrent or similar jurisdiction. The arbitration proceedings shall be conducted in English. The award passed in the arbitration proceedings shall be final and binding on both the parties.
 
+23. Referrers who are HDFC Bank employees will not be eligible for the referral voucher.
+
 VIEW LESS
 
 false
