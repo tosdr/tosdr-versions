@@ -48,7 +48,7 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240505)
 * [AFL Women's
     
-    4th Qtr
+    Complete
     
     |     |     |
     | --- | --- |
@@ -58,58 +58,46 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240506)
 * [AFL Women's
     
-    27/9 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | WBD | –   |
-    | SYD | –   |
+    | WBD | 5.9.39 |
+    | SYD | 5.2.32 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240507)
 * NRL
     
 * [NRL
     
-    27/9 19:50 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | MEL | –   |
-    | SYD | –   |
+    | MEL | 48  |
+    | SYD | 18  |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243001)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243001/match-report)
 * Cricket
     
 * [Men's Test
     
-    Day 1 Session 2
+    Day 1
     
     |     |     |
     | --- | --- |
     | IND |     |
-    | BAN | 2 /74 |
+    | BAN | 3 /107 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
 * [Men's ODI
     
-    27/9 21:30 AEST
-    
     |     |     |
     | --- | --- |
-    | ENG | –   |
-    | AUS | –   |
+    | ENG | 0 /1 |
+    | AUS |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240704)
-* [WNCL
-    
-    SA won by 97 runs
-    
-    |     |     |
-    | --- | --- |
-    | SA  | 284 |
-    | ACT | 187 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250104)
 * [WNCL
     
     NSW won by 4 wkts
@@ -120,6 +108,16 @@ FOX SCORES
     | NSW | 6 /267 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250103)
+* [WNCL
+    
+    SA won by 97 runs
+    
+    |     |     |
+    | --- | --- |
+    | SA  | 284 |
+    | ACT | 187 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250104)
 * [One-Day Cup
     
     VIC won by 6 runs
@@ -146,6 +144,8 @@ FOX SCORES
     
 * [MotoGP
     
+    27/9 12:45 AEST
+    
     |     |
     | --- |
     | Indonesian GP |
@@ -156,24 +156,24 @@ FOX SCORES
     
 * [NBL
     
-    27/9 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ILL | –   |
-    | BRI | –   |
+    | ILL | 113 |
+    | BRI | 101 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020002)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020002/play-by-play)
 * [NBL
     
-    27/9 21:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | PER | –   |
-    | SYD | –   |
+    | PER | 87  |
+    | SYD | 88  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020003)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020003/play-by-play)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
