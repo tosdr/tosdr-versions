@@ -903,17 +903,17 @@ Languages
 
 Blog
 
+Sept. 27, 2024
+
+[Leadership topics for presentation](https://blog.prezi.com/leadership-topics-for-presentation/)
+
+Sept. 27, 2024
+
+[Diversity topics for presentations](https://blog.prezi.com/diversity-topics-for-presentation/)
+
 Sept. 26, 2024
 
 [Visual presentation: tips, techniques, and tools for success](https://blog.prezi.com/visual-presentation/)
-
-Aug. 30, 2024
-
-[Mastering the art of storytelling style presentations](https://blog.prezi.com/storytelling-style-presentation/)
-
-Aug. 29, 2024
-
-[Simple presentation background ideas: elevate your visuals with minimalistic designs](https://blog.prezi.com/simple-presentation-background/)
 
 [Latest posts](https://blog.prezi.com/)
 
