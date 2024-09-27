@@ -265,13 +265,15 @@ _Last updated on 15th May 2024_
 
 **Cookies** are small text files that, like most other Web servers, we place in your device that you use to access our website. This is done to recognize your device during a session or in your future visits to our website, primarily in order to provide better user experience.
 
-#### Types of cookies used:
+Types of cookies used:
+----------------------
 
 **Session cookie:** Session cookies remain only as long as a browsing session is active, and are intended to avoid user inconvenience during browsing. These cookies allow websites to link the actions of a user during a browser session and expire at the end of the browsing session. Session cookies also assist the user in navigating the website, and allow the user to access secure parts of the webpage when logged in.
 
 **Persistent cookie:** Persistent cookies are stored on a user’s device even after termination of a browsing session. It helps in recalling the preferences or actions of the user. Persistent cookies are used for a variety of purposes such as retaining the visitor’s language and regional preference(s) at the end of each browsing session. We use services of third-party analytics service provider to analyze cookies to carry out a behavioral analysis in order to enhance user experience and convenience, and also to provide targeted and relevant content to visitors. Depending on the type and settings of your browser, cookies may be accepted by default. You may change the settings of your browser to delete existing cookies or prevent future cookies from being automatically accepted. If you disable cookies, certain parts and functions of our website may not be available. You can learn more about cookies at [www.aboutcookies.org](http://www.aboutcookies.org/ "www.aboutcookies.org"). You can delete all cookies that are already on your browser by clearing its browsing history.
 
-#### Third Party Cookies
+Third Party Cookies
+-------------------
 
 We use cookies from third party companies to provide us with insights about our sites, help us run targeting advertising campaigns, measure effectiveness of our advertising campaigns and to make the advertisements more relevant to you. These companies use cookies to collect information about your browsing activities on our sites, such as the pages you visit, the links you click, assets you download and how long you are on our sites. Based on your browsing of our website you may see our advertisements while browsing through our advertisement partner websites and/or their network websites. In order to opt out from receiving such advertisements, you have to set your preferences on our partner websites. Alternatively, you may also visit Network Advertising Initiative or Digital Advertising Alliance websites to opt-out.
 
@@ -291,11 +293,13 @@ For more information on how these companies collect and use information on our b
 | Twitter | Show targeted, relevant advertisements and re-targeted advertisements to visitors of Infosys websites | [https://twitter.com/en/privacy](https://twitter.com/en/privacy)  <br>Opt out: [https://twitter.com/personalization](https://twitter.com/personalization)  <br>DAA: [http://optout.aboutads.info/](http://optout.aboutads.info/) |
 | Influ2 | Show targeted, relevant advertisements | [https://www.influ2.com/privacy](https://www.influ2.com/privacy "https://www.influ2.com/privacy")  <br>[https://www.influ2.com/cookies](https://www.influ2.com/cookies) |
 
-#### Cookie retention
+Cookie retention
+----------------
 
 Information collected via cookies (other than the third-party cookies) will be retained for a maximum period of 2 years. Retention period of third-party cookies is mentioned in their Privacy/Cookie Policy (available as a hyperlink in the table above).
 
-#### How to contact us
+How to contact us
+-----------------
 
 If you have any questions regarding our privacy practices or this cookie policy, or to request this cookie policy in another format, please contact us at:  
 Contact person: Srinivas P  
