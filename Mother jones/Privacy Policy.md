@@ -8,10 +8,10 @@
 
 *  
     
-* [The Inflation Reduction Act](https://www.motherjones.com/politics/2024/09/inflation-reduction-act-winners-swing-states-harris-biden-communications/)
-* [Christian Nationalism](https://www.motherjones.com/politics/2024/09/rob-schenck-confessions-of-a-former-christian-nationalist/)
-* [Abortion Bans](https://www.motherjones.com/politics/2024/09/pregnancy-deaths-georgia-abortion-ban-senate/)
-* [Mark Zuckerberg](https://www.motherjones.com/politics/2024/09/mark-zuckerberg-isnt-done-with-politics-his-politics-have-just-changed/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-iron-dome-expensive-ridiculous-two-trillion-2024/)
+* [Rep. Ilhan Omar](https://www.motherjones.com/politics/2024/09/ilhan-omar-bernie-long-covid-house-bill/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-billionaire-tax-policy-corporations/)
+* [Gaza](https://www.motherjones.com/politics/2024/09/rep-rashida-tlaib-secretary-of-state-biden-blinken-resign/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [The Inflation Reduction Act](https://www.motherjones.com/politics/2024/09/inflation-reduction-act-winners-swing-states-harris-biden-communications/)
-* [Christian Nationalism](https://www.motherjones.com/politics/2024/09/rob-schenck-confessions-of-a-former-christian-nationalist/)
-* [Abortion Bans](https://www.motherjones.com/politics/2024/09/pregnancy-deaths-georgia-abortion-ban-senate/)
-* [Mark Zuckerberg](https://www.motherjones.com/politics/2024/09/mark-zuckerberg-isnt-done-with-politics-his-politics-have-just-changed/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-iron-dome-expensive-ridiculous-two-trillion-2024/)
+* [Rep. Ilhan Omar](https://www.motherjones.com/politics/2024/09/ilhan-omar-bernie-long-covid-house-bill/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-billionaire-tax-policy-corporations/)
+* [Gaza](https://www.motherjones.com/politics/2024/09/rep-rashida-tlaib-secretary-of-state-biden-blinken-resign/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
