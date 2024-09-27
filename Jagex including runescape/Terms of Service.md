@@ -63,15 +63,10 @@ SearchCtrl + K
         
         * [Terms & Conditions](https://www.jagex.com/docs/terms/terms-and-conditions)
             
-            * [Terms & Conditions](https://www.jagex.com/docs/terms/terms-and-conditions/upcoming)
-                
             * [Young Person's Terms and Conditions](https://www.jagex.com/docs/terms/terms-and-conditions/aad)
                 
             
         * [Subscription Terms & Conditions](https://www.jagex.com/docs/terms/subscription-terms-and-conditions)
-            
-            * [Subscription Terms & Conditions](https://www.jagex.com/docs/terms/subscription-terms-and-conditions/upcoming)
-                
             
         * [End User Licence Agreement](https://www.jagex.com/docs/terms/eula)
             
@@ -81,9 +76,6 @@ SearchCtrl + K
         * [Prize Draws, Competition and Promotions](https://www.jagex.com/docs/terms/promotion-and-competition-terms)
             
         * [Credit/Debit Card Terms and Conditions](https://www.jagex.com/docs/terms/credit-debit-card-terms-and-conditions)
-            
-            * [Credit/Debit Card Terms and Conditions](https://www.jagex.com/docs/terms/credit-debit-card-terms-and-conditions/upcoming)
-                
             
         
     * [Imprint](https://www.jagex.com/docs/imprint)
@@ -103,15 +95,27 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=SgLvK6k3LdBXRGNUVQN6)
 
+![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
+
+This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
+
 Legal Portal
 ============
-
-[Contact us](https://www.jagex.com/docs/contact-us)[Annual reports](https://www.jagex.com/docs/annual-reports)[Partners and third parties](https://www.jagex.com/docs/partners-and-third-parties)[Policies](https://www.jagex.com/docs/policies)[Terms](https://www.jagex.com/docs/terms)[Imprint](https://www.jagex.com/docs/imprint)[Rules](https://www.jagex.com/docs/rules)
 
 Last updated 1 month ago
 
 On this page
 
-![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
+[Contact us](https://www.jagex.com/docs/contact-us)
 
-This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
+[Annual reports](https://www.jagex.com/docs/annual-reports)
+
+[Partners and third parties](https://www.jagex.com/docs/partners-and-third-parties)
+
+[Policies](https://www.jagex.com/docs/policies)
+
+[Terms](https://www.jagex.com/docs/terms)
+
+[Imprint](https://www.jagex.com/docs/imprint)
+
+[Rules](https://www.jagex.com/docs/rules)
