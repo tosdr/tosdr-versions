@@ -223,6 +223,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -234,16 +244,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-tekstovitexts/zoran-popovic-signalizam-jedna-moja-avantura-beograd-2005/2-marija-bl.jpg?itok=JdVmdi6g)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-tekstovitexts/zoran-popovic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/zoo.jpg?itok=XB8kcDLv)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/quotmedjuprostorquot-msurs-banjaluka-u-msuv-novi-sad/interspace-miljanovic.jpg?itok=b-m_9ljn)](http://seecult.org/galerija/foto-galerija/foto-arhiva/medjuprostor-msurs-banjaluka-u-msuv-novi-sad)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dunav.jpg?itok=hKXS-7bv)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,16 +342,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [art+science festival u Botaničkoj bašti](http://seecult.org/vest/artscience-festival-u-botanickoj-basti)
+* [Počeo 11. Belgrade SAXperience](http://seecult.org/vest/poceo-11-belgrade-saxperience)
 * [Kanski pobednik otvara 20. Slobodnu zonu](http://seecult.org/vest/kanski-pobednik-otvara-20-slobodnu-zonu)
+* [Perišić prvi laureat Otiska Gorana Paskaljevića](http://seecult.org/vest/perisic-prvi-laureat-otiska-gorana-paskaljevica)
 * [Medenica: Hrabro otvaranje 58. Bitefa](http://seecult.org/vest/medenica-hrabro-otvaranje-58-bitefa)
 * [Milo Rau: Recimo NE smrtonosnoj ideologiji današnjice](http://seecult.org/vest/milo-rau-recimo-ne-smrtonosnoj-ideologiji-danasnjice)
 * [Treća decenija Balkanime](http://seecult.org/vest/treca-decenija-balkanime)
 * [Pozicija žene danas i juče i sutra](http://seecult.org/vest/pozicija-zene-danas-i-juce-i-sutra)
 * [Vladimir R. Petković: Utemeljitelj struke i nauke](http://seecult.org/vest/vladimir-r-petkovic-utemeljitelj-struke-i-nauke)
 * [Jesenja izložba - 5+: Preko granica izvanrednosti](http://seecult.org/vest/jesenja-izlozba-5-preko-granica-izvanrednosti)
-* [Otvaranje nove sezone BGF posvećeno Tasovcu](http://seecult.org/vest/otvaranje-nove-sezone-bgf-posveceno-tasovcu)
-* [Početak 17. LIFFE u znaku Paskaljevića](http://seecult.org/vest/pocetak-17-liffe-u-znaku-paskaljevica)
-* [Nevidljive katastrofe](http://seecult.org/vest/nevidljive-katastrofe)
 
 * [Konkursi](#tab1_1)
 
