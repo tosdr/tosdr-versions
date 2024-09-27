@@ -291,6 +291,30 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses, looking surprised while holding a mortgage statement with an upward arrow symbolizing an increase. The background includes a house and a rising bar graph, with dollar signs and documents floating around, representing financial stress and confusion over rising mortgage payments.](https://creditnerds.com/wp-content/uploads/2024/09/Why-did-my-insurance-go-up-30x30.webp)](https://creditnerds.com/why-did-my-mortgage-payment-increase/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 27, 2024
+
+#### [Why Did My Mortgage Payment Increase?](https://creditnerds.com/why-did-my-mortgage-payment-increase/)
+
+If you've noticed your mortgage payment suddenly increase, the reason could be tied to your escrow account. Many homeowners wonder why this happens, and in most cases, it’s due to changes in property taxes, insurance premiums, or escrow shortages. Understanding how escrow works can help you navigate these changes and manage your payments more effectively. …
+
+[Read More](https://creditnerds.com/why-did-my-mortgage-payment-increase/)
+
+[![Cartoon-style image of a person wearing glasses, comparing two car insurance documents. One document shows a new car, and the other shows a used car, with price tags highlighting the difference in insurance costs. The character stands in front of a new and a used car, with a bright, clear sky in the background, symbolizing the question of whether insurance is cheaper for used vehicles.](https://creditnerds.com/wp-content/uploads/2024/09/used-car-insurance-30x30.webp)](https://creditnerds.com/is-insurance-cheaper-for-used-vehicles/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 24, 2024
+
+#### [Is Insurance Cheaper for Used Vehicles?](https://creditnerds.com/is-insurance-cheaper-for-used-vehicles/)
+
+Whether you’re buying a new or used car, you’ll need auto insurance before hitting the road. Insurance premiums depend on several factors, including your age, location, driving record, and the car itself. One common question is, is insurance cheaper for used vehicles? In many cases, it is, but there are exceptions. Let’s explore why insuring …
+
+[Read More](https://creditnerds.com/is-insurance-cheaper-for-used-vehicles/)
+
 [![Cartoon-style image of a person wearing glasses, inspecting an oversized insurance document labeled 'Insurance Fraud' with a magnifying glass. The background includes subtle symbols of fraud, such as dollar signs, a broken car, and a fake house claim, creating a slightly darker, investigative atmosphere.](https://creditnerds.com/wp-content/uploads/2024/09/What-is-Insurance-Fraud-30x30.webp)](https://creditnerds.com/what-is-insurance-fraud/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -374,30 +398,6 @@ September 10, 2024
 Title insurance is a crucial form of protection for both homebuyers and mortgage lenders. It shields against financial and legal claims that may arise due to previous owners' actions. If you're purchasing a home with a mortgage, your lender will require this coverage. However, it’s also a good idea to consider getting a policy for …
 
 [Read More](https://creditnerds.com/what-is-title-insurance-and-do-you-need-it/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk looking worriedly at a credit report on a computer screen with 'Delinquency' highlighted in red. The desk is cluttered with bills, a calculator, and a notepad, set in a simple home office with a bookshelf, clock, and plant in the background.](https://creditnerds.com/wp-content/uploads/2024/09/What-is-a-Delinquency-30x30.webp)](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report-2/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-September 10, 2024
-
-#### [What Is a Delinquency on a Credit Report?](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report-2/)
-
-A delinquency on a credit report occurs when an account becomes past due because you missed a minimum payment by the due date. Missing a payment can have immediate effects, such as late fees, and if the payment goes 30 or more days past due, it can be reported as a delinquency to credit bureaus, …
-
-[Read More](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report-2/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a worried expression. They are holding a credit card while looking at a computer screen displaying a warning about fraudulent activity. The desk is cluttered with documents, a phone, and a calculator, and the background features a bookshelf and a window, creating a home office setting.](https://creditnerds.com/wp-content/uploads/2024/09/Credit-Card-Fraud-30x30.webp)](https://creditnerds.com/how-common-is-credit-card-fraud/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-September 6, 2024
-
-#### [How Common Is Credit Card Fraud?](https://creditnerds.com/how-common-is-credit-card-fraud/)
-
-Credit card fraud is one of the most prevalent types of financial fraud today. According to the Federal Trade Commission (FTC), there were over 214,000 reports of credit card fraud in the first half of 2024 alone. While many credit cards offer zero liability protection, meaning you won’t be held responsible for unauthorized transactions, dealing …
-
-[Read More](https://creditnerds.com/how-common-is-credit-card-fraud/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
