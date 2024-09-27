@@ -186,19 +186,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2014/11/monopoly.jpg)](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
-    
-    [7 quick steps to pick the best dividend stocks](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
-    
-    November 24, 2014
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
     
     2 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2014/11/monopoly.jpg)](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
+    
+    [7 quick steps to pick the best dividend stocks](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
+    
+    November 24, 2014
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -234,19 +234,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
-    
-    August 19, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2023/02/coca-cola-220x150.jpg)](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
     
     [These 3 companies own the U.S. soft drink market](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
     
     February 3, 2023
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
+    
+    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
+    
+    August 19, 2024
     
 
 * [![Photo of Steve Davies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
