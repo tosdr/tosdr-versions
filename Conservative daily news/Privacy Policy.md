@@ -2,6 +2,7 @@ Thursday, September 26 2024
 
 Breaking News
 
+* [FAIL: Army Delays Pay Raise For Soldiers Days Before It Was Expected To Arrive](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
 * [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
 * [Feds Indict New York City Mayor Eric Adams: REPORT](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
 * [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
@@ -9,7 +10,6 @@ Breaking News
 * [Does Diversity Unite Or Divide](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
 * [Maine/New Hampshire Reps Don’t Protect Women](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
 * [President Joe Biden’s Schedule for Thursday, September 26, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
-* [Biden Pretends To Kill Bug When Whoopi Goldberg Compares Trump To One Following Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/biden-pretends-to-kill-bug-when-whoopi-goldberg-compares-trump-to-one-following-second-assassination-attempt/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -109,7 +109,7 @@ Support CDN!
 
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.70%
 
 * [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
     
@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental.jpg)](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
+    
+    [FAIL: Army Delays Pay Raise For Soldiers Days Before It Was Expected To Arrive](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
+    
+    September 26, 2024
+    
 * [![Donald Trump after assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5218-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
     
     [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
@@ -168,25 +174,19 @@ Recent Posts
     
     September 26, 2024
     
-* [![Kamala Harris say anything wishy-washy flip-flopper](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/say-anything-2/)
-    
-    [Say Anything](https://www.conservativedailynews.com/2024/09/say-anything-2/)
-    
-    September 26, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [GOA Statement on New White House Gun Control](https://www.thegunpage.com/goa-statement-on-new-white-house-gun-control/10610839)
+* [Biden-Harris Set to Announce New Executive Order on Gun Violence](https://www.thegunpage.com/biden-harris-set-to-announce-new-executive-order-on-gun-violence/10610838)
+* [Hawaii Homeowner Arrested After Stopping Violent Neighbor, Released After Self-Defense Ruling](https://www.thegunpage.com/hawaii-homeowner-arrested-after-stopping-violent-neighbor-released-after-self-defense-ruling/10610836)
+* [MI: School aid bill turned totalitarian](https://www.thegunpage.com/mi-school-aid-bill-turned-totalitarian/10610835)
 * [Kamala Harris Issues First Executive Order on Gun Control with Joe Biden](https://www.thegunpage.com/kamala-harris-issues-first-executive-order-on-gun-control-with-joe-biden/10610832)
+* [Special Edition 10/22 Reminds You To Vote](https://www.thegunpage.com/special-edition-10-22-reminds-you-to-vote/10610834)
 * [F.A.B. Defense Introduces The Ultimag G2 Windowless M16/AR15 Magazine](https://www.thegunpage.com/f-a-b-defense-introduces-the-ultimag-g2-windowless-m16-ar15-magazine/10610831) 
 * [Savage Arms Adds New AC350 to AccuCan Suppressor Line](https://www.thegunpage.com/savage-arms-adds-new-ac350-to-accucan-suppressor-line/10610829)
 * [Kalashnikov Presents The New Belt-Fed RPL-20 Light Machine Gun At ADEX](https://www.thegunpage.com/kalashnikov-presents-the-new-belt-fed-rpl-20-light-machine-gun-at-adex/10610825)
 * [Fresno Gun Stores Owners Blame California Laws, Taxes, And The Economy For Shutdowns](https://www.thegunpage.com/fresno-gun-stores-owners-blame-california-laws-taxes-and-the-economy-for-shutdowns/10610824)
-* [New: Savage Arms Revel Rimfire Lever-Action Rifles](https://www.thegunpage.com/new-savage-arms-revel-rimfire-lever-action-rifles/10610833)
-* [TFB Behind the Gun #134: Pondering the XM7 and the 6.8x51mm w/ Darwin](https://www.thegunpage.com/tfb-behind-the-gun-134-pondering-the-xm7-and-the-6-8x51mm-w-darwin/10610826)
-* [Texas AG Appeals Court Decision Upholding State Fair Carry Ban](https://www.thegunpage.com/texas-ag-appeals-court-decision-upholding-state-fair-carry-ban/10610821)
-* [10 Great Photos From The 2024 NRA National Precision Pistol Championships](https://www.thegunpage.com/10-great-photos-from-the-2024-nra-national-precision-pistol-championships/10610827)
-* [Good Fellowship, Good Shooting: 1954 National Matches](https://www.thegunpage.com/good-fellowship-good-shooting-1954-national-matches/10610817)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
