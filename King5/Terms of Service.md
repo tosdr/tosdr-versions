@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f2f13404-4e9e-4e28-9e88-39e57b372af0/20240711T174532/f2f13404-4e9e-4e28-9e88-39e57b372af0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f2f13404-4e9e-4e28-9e88-39e57b372af0/20240711T174532/f2f13404-4e9e-4e28-9e88-39e57b372af0_360x203.jpg)](https://www.king5.com/article/tech/science/environment/40-magnitude-earthquake-victoria-san-juan-island/281-a62e1855-4a27-4de0-948f-e0263a140d6a)
+    *  [![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-avery-moore-on-leave/281-04df4057-877f-40f2-af65-350855ebe93d)
         
-        #### [Here's how strong the early-morning earthquake off Victoria was](https://www.king5.com/article/tech/science/environment/40-magnitude-earthquake-victoria-san-juan-island/281-a62e1855-4a27-4de0-948f-e0263a140d6a)
+        #### [Tacoma police Chief Avery Moore placed on leave](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-avery-moore-on-leave/281-04df4057-877f-40f2-af65-350855ebe93d)
         
-    *  [![](https://media.king5.com/assets/KING/images/36e7f65b-faf6-4ad4-b585-a5e8cee4e561/20240628T141920/36e7f65b-faf6-4ad4-b585-a5e8cee4e561_16x9.jpg) ![](https://media.king5.com/assets/KING/images/36e7f65b-faf6-4ad4-b585-a5e8cee4e561/20240628T141920/36e7f65b-faf6-4ad4-b585-a5e8cee4e561_360x203.jpg)](https://www.king5.com/article/news/local/homeless/court-dismisses-legal-complaint-burien-camping-ban/281-50eafc0f-6911-4c1c-bed8-fa28e507b1c9)
+    *  [![](https://media.king5.com/assets/KING/images/8de5ecb6-d36b-482a-8278-4e4e9631b8c5/20240927T010837/8de5ecb6-d36b-482a-8278-4e4e9631b8c5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8de5ecb6-d36b-482a-8278-4e4e9631b8c5/20240927T010837/8de5ecb6-d36b-482a-8278-4e4e9631b8c5_360x203.jpg)](https://www.king5.com/article/news/crime/councilmember-proposes-new-tactic-address-violence-seattle-late-night-venues/281-7fe39ebc-d9fd-4e4e-81bf-7ab70544edad)
         
-        #### [Court dismisses King County's legal complaint over Burien's camping ban](https://www.king5.com/article/news/local/homeless/court-dismisses-legal-complaint-burien-camping-ban/281-50eafc0f-6911-4c1c-bed8-fa28e507b1c9)
+        #### [Seattle councilmember proposes keeping late-night venues open to prevent violence](https://www.king5.com/article/news/crime/councilmember-proposes-new-tactic-address-violence-seattle-late-night-venues/281-7fe39ebc-d9fd-4e4e-81bf-7ab70544edad)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/6e99bdf8-2311-4447-9beb-ea59ea6c874e/20240926T115818/6e99bdf8-2311-4447-9beb-ea59ea6c874e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6e99bdf8-2311-4447-9beb-ea59ea6c874e/20240926T115818/6e99bdf8-2311-4447-9beb-ea59ea6c874e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/a3ec6194-93fa-415b-b6e0-3d7883b23bb9/20240927T004138/a3ec6194-93fa-415b-b6e0-3d7883b23bb9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3ec6194-93fa-415b-b6e0-3d7883b23bb9/20240927T004138/a3ec6194-93fa-415b-b6e0-3d7883b23bb9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -97,7 +97,7 @@ Seattle, WA »
 
 66°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
