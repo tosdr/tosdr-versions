@@ -2,7 +2,8 @@
 
 [![Cicis Pizza Home Logo](/media/1awdvu1e/cicis_header-logo.svg "Cicis Pizza Home")](https://cicis.com/ "Pizza, Pasta, Salad & Desserts | Cicis Pizza – Carryout or Delivery")
 
-* [Menu](https://cicis.com/pizza)
+* [Buffet](https://cicis.com/buffet)
+* [Our Menu](https://cicis.com/pizza)
 * [Locations](https://cicis.com/locations)
 * [Deals](https://cicis.com/deals)
 * [Our Story](https://cicis.com/our-story)
