@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Pretty much excellent all the time, Thanks Foxy Team, I will be renewing my subscription post haste.
+Very impressed with the faultless and fast service over the last three months.
 
-Robert Dean
+Lee
