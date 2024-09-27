@@ -635,11 +635,11 @@ Share This Article
 
  
 
-[![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
+[![parental control software](https://www.safesearchkids.com/wp-content/uploads/2021/11/parental-controls-safety-security.jpg)](https://www.safesearchkids.com/best-parental-control-app)
 
 ### 
 
-[Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
+[Parental Control Ends Sept 30](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### Article Categories
 
@@ -654,11 +654,11 @@ Share This Article
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 
-[![parental control software](https://www.safesearchkids.com/wp-content/uploads/2021/11/parental-controls-safety-security.jpg)](https://www.safesearchkids.com/best-parental-control-app)
+[![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
 
 ### 
 
-[Parental Controls on Sale](https://www.safesearchkids.com/best-parental-control-app/)
+[Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
 
 [![Scam Awareness Teaching Series](https://www.safesearchkids.com/wp-content/uploads/2024/04/Scam-Alert-Educational-Series.jpg)](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
 
