@@ -90,7 +90,9 @@ AI WOrkforce
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-sdr/hiring-guide)[Strategies for Piper the AI SDR
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/3-strategies-to-maximize-pipeline-with-piper-the-ai-sdr)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/3-strategies-to-maximize-pipeline-with-piper-the-ai-sdr)[AI Workforce Summit 2024
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-workforce-summit-2024)
 
 Learning
 
