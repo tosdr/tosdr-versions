@@ -408,6 +408,7 @@ Footer Navigation
 * [Order Help](https://www.samsung.com/us/support/order-help/)
 * [Your Account](https://www.samsung.com/us/support/account/)
 * [Register Your Product](https://www.samsung.com/us/support/register/)
+* [Request a Repair](https://www.samsung.com/us/support/service/)
 * [Contact Us](https://www.samsung.com/us/support/contact/)
 * [Samsung Community](https://us.community.samsung.com/t5/Samsung-Community/ct-p/us)
 * [CEO’s Office](https://www.samsung.com/us/support/contact/email-the-ceo/)
