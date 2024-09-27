@@ -809,20 +809,20 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
-* [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
 
 Fußbereich
 
@@ -3851,58 +3851,58 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
-* [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
 
 Weitere spannende Themen
 
 Neueste Tests
 
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
-* [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
 
 Neueste Tests
 
 * [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
-* [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Das Fonds­rating von Finanztest: Mit vier neuen Anla­gestrategien zum Erfolg](https://www.test.de/Finanztest-Neue-Fondsbewertung-Neue-Anlagestrategien-6001191-0/ "Das Fondsrating von Finanztest - Mit vier neuen Anlagestrategien zum Erfolg")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
 
 Service Stiftung Warentest
 
