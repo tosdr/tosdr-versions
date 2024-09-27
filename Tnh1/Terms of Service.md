@@ -14,9 +14,99 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
+Últimas de Maceió
+
+[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
+
+   [![Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_Maceio-visto-de-cima-Drone-SEMEC-Foto-Celio-Junior_39a24922cb.jpg)
+
+guias disponíveis
+
+Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/setima-parcela-do-iptu-2024-vence-na-proxima-segunda-feira-30/ "Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)")   [![Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_idosa_desaparecida_7d407a0890.png)
+
+Maceió
+
+Idosa com Alzheimer que pulou janela para fugir de casa é encontrada](https://www.tnh1.com.br/noticia/nid/idosa-com-alzheimer-que-pulou-janela-para-fugir-de-casa-e-encontrada/ "Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ")    [![Motociclista é socorrida após colisão com carro no Pinheiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/9/csm_acidente_moto_carro_pinheiro_c1ae8d6ab8.jpg)
+
+Mais um acidente
+
+Motociclista é socorrida após colisão com carro no Pinheiro](https://www.tnh1.com.br/noticia/nid/motociclista-e-socorrida-apos-colisao-com-carro-no-pinheiro/ "Motociclista é socorrida após colisão com carro no Pinheiro")   [![Homem é preso por matar irmã idosa a tijoladas; familiares afirmam que ele sofre de esquizofrenia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/f/csm_idoso-mata-irma-pauladas_2ae12cbcce.jpg)
+
+Na Ponta Grossa
+
+Homem é preso por matar irmã idosa a tijoladas; familiares afirmam que ele sofre de esquizofrenia](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-matar-irma-idosa-a-tijoladas-familiares-afirmam-que-ele-sofre-de-esquizofrenia/ "Homem é preso por matar irmã idosa a tijoladas; familiares afirmam que ele sofre de esquizofrenia")   [![Idosa com alzheimer desaparece após fugir de casa pela janela em Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_idosa_desaparecida_7d407a0890.png)
+
+Maceió
+
+Idosa com alzheimer desaparece após fugir de casa pela janela em Maceió](https://www.tnh1.com.br/noticia/nid/idosa-com-alzheimer-desaparece-apos-fugir-de-casa-pela-janela-em-maceio/ "Idosa com alzheimer desaparece após fugir de casa pela janela em Maceió ")   [![Mais 120 aprovados no PSS 2023 são convocados para as escolas municipais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_pss_educacao_maceio_assessoria_8e5a09be9f.jpg)
+
+cargos na educação
+
+Mais 120 aprovados no PSS 2023 são convocados para as escolas municipais](https://www.tnh1.com.br/noticia/nid/mais-120-aprovados-no-pss-2023-sao-convocados-para-as-escolas-municipais/ "Mais 120 aprovados no PSS 2023 são convocados para as escolas municipais")
+
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/6/csm_Concurso_publico_-_foto_Agencia_Brasil_f6eb9d142c.jpg)
+
+calendário atualizado
+
+Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://www.tnh1.com.br/noticia/nid/nova-data-e-definida-para-provas-do-concurso-publico-da-prefeitura-de-rio-largo-confira/ "Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira")   [![Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/b/csm_semarh-previsao-tempo-alagoas_e7339241ed.png)
+
+Alagoas
+
+Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-todas-as-regioes-de-alagoas-nesta-quinta-feira-26/ "Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)")   [![Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_paulo_dantas_e_julia_brito_-_foto_reproducao_instagram_0d331fc69a.png)
+
+Saiba com quem
+
+Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")   [![Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva_8d3415d5fc.jpg)
+
+Alagoas
+
+Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://www.tnh1.com.br/noticia/nid/vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva-do-ministerio-das-cidades/ "Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades")   [![Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/e/csm_governo-de-alagoas-envia-bombeiros-para-o-combate-as-queimadas-no-norte-do-brasil_dbe41bd616.jpg)
+
+situação crítica
+
+Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-envia-bombeiros-para-o-combate-as-queimadas-no-norte-do-brasil/ "Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil")   [![Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_Site_Fundef_AL_e302a90eae.jpg)
+
+Alagoas
+
+Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-seduc-orienta-servidor-sobre-como-ingressar-com-recurso/ "Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![Suspeito de assassinar líder comunitário em posto médico é preso em flagrante](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_Tonho_lider_95e9f79200.png)
+
+Polícia
+
+Suspeito de assassinar líder comunitário em posto médico é preso em flagrante](https://www.tnh1.com.br/noticia/nid/suspeito-de-assassinar-lider-comunitario-em-posto-medico-e-preso-em-flagrante/ "Suspeito de assassinar líder comunitário em posto médico é preso em flagrante")   [![Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/5/csm_delegacia_da_mulher_arapiraca_reproducao_9fb09c34e1.jpg)
+
+Mãe denunciou
+
+Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/medico-e-indiciado-suspeito-de-estuprar-a-filha-de-3-anos-no-interior-de-alagoas/ "Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas")   [![Homem que matou cunhado após suspeita de agressão contra irmã é preso em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_prisao_suspeito_de_matar_cunhado_-_junqueiro_-_foto_reproducao_pcal_c82f329c52.png)
+
+Crime em Junqueiro
+
+Homem que matou cunhado após suspeita de agressão contra irmã é preso em Maceió](https://www.tnh1.com.br/noticia/nid/homem-que-matou-cunhado-apos-suspeita-de-agressao-contra-irma-e-preso-em-maceio/ "Homem que matou cunhado após suspeita de agressão contra irmã é preso em Maceió")   [![Segundo preso por matar mulher que teve o corpo queimado teria recebido R$ 4 mil do marido dela](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_damiana_souza_mulher_morta_-_foto_reproducao_arquivo_pessoal_40ffc4cf83.jpg)
+
+Caso Damiana
+
+Segundo preso por matar mulher que teve o corpo queimado teria recebido R$ 4 mil do marido dela](https://www.tnh1.com.br/noticia/nid/segundo-preso-por-matar-mulher-que-teve-o-corpo-queimado-teria-recebido-r-4-mil-do-marido-dela/ "Segundo preso por matar mulher que teve o corpo queimado teria recebido R$ 4 mil do marido dela")   [![Mulher é contida por seguranças de supermercado após furto de 12 pacotes de leite em pó](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/c/csm_leite_em_po_pexels_2337e4c4ac.jpg)
+
+Cidade Universitária
+
+Mulher é contida por seguranças de supermercado após furto de 12 pacotes de leite em pó](https://www.tnh1.com.br/noticia/nid/mulher-e-contida-por-segurancas-de-supermercado-apos-furto-de-12-pacotes-de-leite-em-po/ "Mulher é contida por seguranças de supermercado após furto de 12 pacotes de leite em pó")   [![Adolescente é apreendido suspeito de estuprar irmã de 7 anos no Sertão de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_csm_viatura_Policia_Civil_AL_6cb24d60b2__2__af9c15c3bf.jpeg)
+
+Em Dois Riachos
+
+Adolescente é apreendido suspeito de estuprar irmã de 7 anos no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/adolescente-e-apreendido-suspeito-de-estuprar-irma-de-7-anos-no-sertao-de-alagoas/ "Adolescente é apreendido suspeito de estuprar irmã de 7 anos no Sertão de Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -25,6 +115,20 @@
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
+
+Pessoas & Negócios
+
+Reitor do Cesmac recebe título de Doutor Honoris Causa](https://www.tnh1.com.br/noticia/nid/reitor-do-cesmac-recebe-titulo-de-doutor-honoris-causa/ "Reitor do Cesmac recebe título de Doutor Honoris Causa")   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
+
+Pessoas & Negócios
+
+Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -98,7 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/3/csm_paulo_dantas_e_julia_brito_-_foto_reproducao_instagram_ef15e6f6c1.png)
+[![Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_paulo_dantas_e_julia_brito_-_foto_reproducao_instagram_ef15e6f6c1.png)
 
 Saiba com quem
 
@@ -106,7 +210,7 @@ Saiba com quem
 
 Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio
 
-Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")[![Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_o-homem-foi-preso-apos-correr-armado-atras-do-adolescente-_foto_Reproducao_52720defe8.jpg)
+Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")[![Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_o-homem-foi-preso-apos-correr-armado-atras-do-adolescente-_foto_Reproducao_52720defe8.jpg)
 
 39 anos
 
@@ -114,15 +218,7 @@ Governador Paulo Dantas assume novo relacionamento três meses depois de divórc
 
 Empresário atira e persegue jovem por não aceitar namoro com sua filha
 
-Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://www.tnh1.com.br/noticia/nid/empresario-atira-e-persegue-jovem-por-nao-aceitar-namoro-com-sua-filha/ "Empresário atira e persegue jovem por não aceitar namoro com sua filha")[![Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_Motorista_sai_para_brigar__carro_termina__andando_sozinho__e_bate_em_mureta_-_foto_Reproducao_TV_Globo_adb4529f22.jpg)
-
-que situação
-
-que situação
-
-Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta
-
-Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://www.tnh1.com.br/noticia/nid/motorista-sai-para-brigar-carro-termina-andando-sozinho-e-bate-em-mureta/ "Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta")[![Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_justin-sean-reproducao-youtube_816e9dcece.jpg)
+Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://www.tnh1.com.br/noticia/nid/empresario-atira-e-persegue-jovem-por-nao-aceitar-namoro-com-sua-filha/ "Empresário atira e persegue jovem por não aceitar namoro com sua filha")[![Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/6/csm_justin-sean-reproducao-youtube_816e9dcece.jpg)
 
 amigo pessoal
 
@@ -130,41 +226,49 @@ amigo pessoal
 
 Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso
 
-Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://www.tnh1.com.br/noticia/nid/caso-diddy-os-bastidores-da-relacao-de-justin-bieber-com-o-rapper-preso/ "Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso")
+Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://www.tnh1.com.br/noticia/nid/caso-diddy-os-bastidores-da-relacao-de-justin-bieber-com-o-rapper-preso/ "Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso")[![Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_Motorista_sai_para_brigar__carro_termina__andando_sozinho__e_bate_em_mureta_-_foto_Reproducao_TV_Globo_adb4529f22.jpg)
 
-[![Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
+que situação
 
-presídio federal
+que situação
 
-presídio federal
+Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta
 
-Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'
+Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://www.tnh1.com.br/noticia/nid/motorista-sai-para-brigar-carro-termina-andando-sozinho-e-bate-em-mureta/ "Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta")
 
-Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://www.tnh1.com.br/noticia/nid/conheca-a-famosa-prisao-onde-rapper-sean-diddy-esta-detido-o-caos-reina/ "Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'")[![Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_cientistas-encontram-mumias-famosas-reproducao-journal-of-archaeological-science_ef132f670c.jpg)
+[![Estados Unidos executam prisioneiro por asfixia com gás nitrogênio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_eua_executam_prisioneiro_-_foto_montagem_952c0eef2a.jpg)
 
-substância branca
+Amarrado em maca
 
-substância branca
+Amarrado em maca
 
-Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas
+Estados Unidos executam prisioneiro por asfixia com gás nitrogênio
 
-Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://www.tnh1.com.br/noticia/nid/cientistas-encontram-queijo-mais-antigo-do-mundo-ao-analisar-mumias-famosas/ "Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas")[![Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_nova-especie-tubarao-reproducao_9675beab88.png)
+Estados Unidos executam prisioneiro por asfixia com gás nitrogênio](https://www.tnh1.com.br/noticia/nid/estados-unidos-executam-prisioneiro-por-asfixia-com-gas-nitrogenio/ "Estados Unidos executam prisioneiro por asfixia com gás nitrogênio")[![Léo Áquilla, candidata a vereadora por São Paulo, é vítima de atentado a tiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/e/csm_leo_aquilla_atentado_a_tiros_-_foto_reproducao_tv_globo_f9bb7a4369.jpg)
 
-peixe-espantalho
+No trânsito
 
-peixe-espantalho
+No trânsito
 
-Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia
+Léo Áquilla, candidata a vereadora por São Paulo, é vítima de atentado a tiros
 
-Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://www.tnh1.com.br/noticia/nid/nova-especie-de-tubarao-fantasma-e-descoberta-por-cientistas-da-nova-zelandia/ "Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia")[![A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_pesquisadores-descoberta-geoglifos-deserto-reproducao_c4f0388987.jpg)
+Léo Áquilla, candidata a vereadora por São Paulo, é vítima de atentado a tiros](https://www.tnh1.com.br/noticia/nid/leo-aquilla-candidata-a-vereadora-por-sao-paulo-e-vitima-de-atentado-a-tiros/ "Léo Áquilla, candidata a vereadora por São Paulo, é vítima de atentado a tiros")[![Suspeito de assassinar líder comunitário em posto médico é preso em flagrante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_Tonho_lider_aa7230d4b6.png)
 
-misteriosas criações
+Polícia
 
-misteriosas criações
+Polícia
 
-A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial
+Suspeito de assassinar líder comunitário em posto médico é preso em flagrante
 
-A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial](https://www.tnh1.com.br/noticia/nid/a-fantastica-descoberta-de-mais-de-300-geoglifos-em-nazca-revelados-com-a-ajuda-da-inteligencia-artificial/ "A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial")
+Suspeito de assassinar líder comunitário em posto médico é preso em flagrante](https://www.tnh1.com.br/noticia/nid/suspeito-de-assassinar-lider-comunitario-em-posto-medico-e-preso-em-flagrante/ "Suspeito de assassinar líder comunitário em posto médico é preso em flagrante")[![Morre Maggie Smith, a bruxa 'Minerva' de Harry Potter](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/a/csm_maggie-smith-harry-potter-divulgacao_e33a523eea.jpg)
+
+aos 89 anos
+
+aos 89 anos
+
+Morre Maggie Smith, a bruxa 'Minerva' de Harry Potter
+
+Morre Maggie Smith, a bruxa 'Minerva' de Harry Potter](https://www.tnh1.com.br/noticia/nid/morre-maggie-smith-a-bruxa-minerva-de-harry-potter/ "Morre Maggie Smith, a bruxa 'Minerva' de Harry Potter")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
