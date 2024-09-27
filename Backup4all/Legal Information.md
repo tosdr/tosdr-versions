@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
+* [What is keyboard authentication?](https://www.backup4all.com/what-is-keyboard-authentication-kb.html)  
     
-* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
+* [How to backup your data to ThinkOn](https://www.backup4all.com/how-to-backup-your-data-to-thinkon-kb.html)  
     
-* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
-* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
+* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
     
-* [How to use independent zip splits in Backup4a ...](https://www.backup4all.com/how-to-use-independent-zip-splits-in-backup4all-kb.html)  
+* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
     
 
 Choose language:
