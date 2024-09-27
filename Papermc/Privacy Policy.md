@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,215
+* 8,219
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,783
+* 7,786
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 16,700
+* 16,702
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,956
+* 13,962
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 22,927
+* 22,948
 * 6
 
 Happy New Year from PaperMC!​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,785
+* 14,786
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,266
+* 13,268
 * 9
 
 ### The 1.20(.1) Update​
@@ -834,7 +834,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 6,369
+* 6,370
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,524
+* 13,526
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 34,853
+* 34,856
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,843
+* 14,845
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,068
+* 37,070
 * 18
 
 ### The 1.19 Update​
@@ -1318,7 +1318,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 24 (members: 0, guests: 24)
+Total: 26 (members: 0, guests: 26)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1329,7 +1329,7 @@ Total: 24 (members: 0, guests: 24)
 Plugin Release [VelocityBroadcast Version 0.6](https://papermc.io/threads/velocitybroadcast-version-0-6.1370/)
 
 * [Adzel\_Firestar](https://papermc.io/members/adzel_firestar.10868/)
-* [22 minutes ago](https://papermc.io/threads/velocitybroadcast-version-0-6.1370/)
+* [Today at 3:40 AM](https://papermc.io/threads/velocitybroadcast-version-0-6.1370/)
 * [Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/)
 
 Replies
@@ -1338,110 +1338,13 @@ Replies
 
 Views
 
-1
+39
 
-[Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/) [22 minutes ago](https://papermc.io/threads/velocitybroadcast-version-0-6.1370/latest)
+[Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/) [Today at 3:40 AM](https://papermc.io/threads/velocitybroadcast-version-0-6.1370/latest)
 
 [Adzel\_Firestar](https://papermc.io/members/adzel_firestar.10868/)
 
 [A](https://papermc.io/members/adzel_firestar.10868/)
-
-[![RubixxCube](https://secure.gravatar.com/avatar/db9abc5661b4df0ac993af96dc39490a?s=48)](https://papermc.io/members/rubixxcube.11217/)
-
-* Solved
-
-Question [PaperMC setup process like Vanilla](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/)
-
-* [RubixxCube](https://papermc.io/members/rubixxcube.11217/)
-* [Saturday at 2:05 PM](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-2
-
-Views
-
-120
-
-[Help](https://papermc.io/forums/paper-help/) [Saturday at 2:18 PM](https://papermc.io/threads/papermc-setup-process-like-vanilla.1353/latest)
-
-[RubixxCube](https://papermc.io/members/rubixxcube.11217/)
-
-[![RubixxCube](https://secure.gravatar.com/avatar/db9abc5661b4df0ac993af96dc39490a?s=48)](https://papermc.io/members/rubixxcube.11217/)
-
-[X](https://papermc.io/members/xiaoliuprogramer.11210/)
-
-* Question
-
-Question [Cannot resolve symbol 'ItemGroupEvents'](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/)
-
-* [xiaoliuprogramer](https://papermc.io/members/xiaoliuprogramer.11210/)
-* [Saturday at 7:53 AM](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-2
-
-Views
-
-127
-
-[Help](https://papermc.io/forums/paper-help/) [Saturday at 12:41 PM](https://papermc.io/threads/cannot-resolve-symbol-itemgroupevents.1351/latest)
-
-[xiaoliuprogramer](https://papermc.io/members/xiaoliuprogramer.11210/)
-
-[X](https://papermc.io/members/xiaoliuprogramer.11210/)
-
-[B](https://papermc.io/members/broja.11215/)
-
-* Question
-
-Question [Connection to Server suddenly failed](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/)
-
-* [BrOJa](https://papermc.io/members/broja.11215/)
-* [Saturday at 11:48 AM](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-0
-
-Views
-
-94
-
-[Help](https://papermc.io/forums/paper-help/) [Saturday at 11:48 AM](https://papermc.io/threads/connection-to-server-suddenly-failed.1352/latest)
-
-[BrOJa](https://papermc.io/members/broja.11215/)
-
-[B](https://papermc.io/members/broja.11215/)
-
-[B](https://papermc.io/members/bar_of_water.11192/)
-
-* Locked
-* Solved
-
-Question [Error in PaperMC after it was shutdown midway turning on.](https://papermc.io/threads/error-in-papermc-after-it-was-shutdown-midway-turning-on.1350/)
-
-* [bar\_of\_water](https://papermc.io/members/bar_of_water.11192/)
-* [Sep 20, 2024](https://papermc.io/threads/error-in-papermc-after-it-was-shutdown-midway-turning-on.1350/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-1
-
-Views
-
-127
-
-[Help](https://papermc.io/forums/paper-help/) [Sep 20, 2024](https://papermc.io/threads/error-in-papermc-after-it-was-shutdown-midway-turning-on.1350/latest)
-
-[\_11](https://papermc.io/members/_11.113/)
-
-[![_11](https://secure.gravatar.com/avatar/2dcde894886a6792588650a0e7d7c6cb?s=48)](https://papermc.io/members/_11.113/)
 
 [V](https://papermc.io/members/voidablemoon.5610/)
 
@@ -1459,7 +1362,7 @@ Replies
 
 Views
 
-129
+130
 
 [Help](https://papermc.io/forums/velocity-help/) [Sep 16, 2024](https://papermc.io/threads/server-switch-sign.1348/latest)
 
@@ -1505,7 +1408,7 @@ Replies
 
 Views
 
-178
+179
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sep 14, 2024](https://papermc.io/threads/making-an-entity-lie-down.1341/latest)
 
@@ -1551,13 +1454,105 @@ Replies
 
 Views
 
-228
+229
 
 [Discussion](https://papermc.io/forums/paper-discussion/) [Sep 11, 2024](https://papermc.io/threads/talk-about-why-update-folia-to-1-21-is-not-yet.1339/latest)
 
 [Tamion](https://papermc.io/members/tamion.5431/)
 
 [![Tamion](/data/avatars/s/5/5431.jpg?1694174759)](https://papermc.io/members/tamion.5431/)
+
+[M](https://papermc.io/members/mateusgcoelho.11068/)
+
+Question [Change Nickname for all in server](https://papermc.io/threads/change-nickname-for-all-in-server.1338/)
+
+* [mateusgcoelho](https://papermc.io/members/mateusgcoelho.11068/)
+* [Sep 11, 2024](https://papermc.io/threads/change-nickname-for-all-in-server.1338/)
+* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
+
+Replies
+
+0
+
+Views
+
+185
+
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sep 11, 2024](https://papermc.io/threads/change-nickname-for-all-in-server.1338/latest)
+
+[mateusgcoelho](https://papermc.io/members/mateusgcoelho.11068/)
+
+[M](https://papermc.io/members/mateusgcoelho.11068/)
+
+[R](https://papermc.io/members/reizi.9279/)
+
+* Question
+
+Question [How to teleport from a lobby server to another server?](https://papermc.io/threads/how-to-teleport-from-a-lobby-server-to-another-server.1331/)
+
+* [Reizi](https://papermc.io/members/reizi.9279/)
+* [Sep 2, 2024](https://papermc.io/threads/how-to-teleport-from-a-lobby-server-to-another-server.1331/)
+* [Help](https://papermc.io/forums/velocity-help/)
+
+Replies
+
+1
+
+Views
+
+297
+
+[Help](https://papermc.io/forums/velocity-help/) [Sep 9, 2024](https://papermc.io/threads/how-to-teleport-from-a-lobby-server-to-another-server.1331/latest)
+
+[bedrock3359](https://papermc.io/members/bedrock3359.11038/)
+
+[B](https://papermc.io/members/bedrock3359.11038/)
+
+[C](https://papermc.io/members/catslicer41.10964/)
+
+Solved [Storing a custom Java object](https://papermc.io/threads/storing-a-custom-java-object.1333/)
+
+* [catslicer41](https://papermc.io/members/catslicer41.10964/)
+* [Sep 4, 2024](https://papermc.io/threads/storing-a-custom-java-object.1333/)
+* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
+
+Replies
+
+6
+
+Views
+
+247
+
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sep 9, 2024](https://papermc.io/threads/storing-a-custom-java-object.1333/latest)
+
+[catslicer41](https://papermc.io/members/catslicer41.10964/)
+
+[C](https://papermc.io/members/catslicer41.10964/)
+
+[R](https://papermc.io/members/rooyal.11006/)
+
+* Article
+
+Plugin Release [Celerity: Geo-Based Server Redirection \[Alpha\]](https://papermc.io/threads/celerity-geo-based-server-redirection-alpha.1336/)
+
+* [Rooyal](https://papermc.io/members/rooyal.11006/)
+* [Sep 7, 2024](https://papermc.io/threads/celerity-geo-based-server-redirection-alpha.1336/)
+* [Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/)
+
+Replies
+
+0
+
+Views
+
+150
+
+[Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/) [Sep 7, 2024](https://papermc.io/threads/celerity-geo-based-server-redirection-alpha.1336/latest)
+
+[Rooyal](https://papermc.io/members/rooyal.11006/)
+
+[R](https://papermc.io/members/rooyal.11006/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
