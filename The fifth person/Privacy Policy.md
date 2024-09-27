@@ -190,7 +190,7 @@ Quick Guides
     
     [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
     
-    15 hours ago
+    21 hours ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
