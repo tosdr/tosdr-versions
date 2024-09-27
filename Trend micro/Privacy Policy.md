@@ -876,18 +876,18 @@ Unread
 
 All
 
-* [Imagine with AI. Secure with Trend.](https://www.trendmicro.com/en_us/business/ai.html)close
+* [Trend Detects NVIDIA AI Toolkit Vulnerability](https://www.trendmicro.com/en_us/research/24/i/nvidia-ai-container-toolkit-vulnerability-fix.html)close
     
-    [Get expert insight >](https://www.trendmicro.com/en_us/business/ai.html)
+    [Learn more >](https://www.trendmicro.com/en_us/research/24/i/nvidia-ai-container-toolkit-vulnerability-fix.html)
+* [The Illusion of Choice: Uncovering Electoral Deceptions in the Age of AI](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/intercepting-impact-2024-trend-micro-cyber-risk-report)close
+    
+    [Read report >](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/intercepting-impact-2024-trend-micro-cyber-risk-report)
 * [Confidence in GenAI: The Zero Trust Approach](https://www.trendmicro.com/en_us/research/24/h/secure-genai.html)close
     
     [Read blog >](https://www.trendmicro.com/en_us/research/24/h/secure-genai.html)
 * [Trend 2024 Midyear Cybersecurity Threat Report](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/pushing-the-outer-limits-trend-micro-2024-midyear-cybersecurity-threat-report)close
     
     [Read findings >](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/pushing-the-outer-limits-trend-micro-2024-midyear-cybersecurity-threat-report)
-* [Pressing Pause on a Play Ransomware Attack with Managed Detection and Response](https://www.trendmicro.com/en_us/research/24/h/pressing-pause-on-play-ransomware.html)close
-    
-    [Read more >](https://www.trendmicro.com/en_us/research/24/h/pressing-pause-on-play-ransomware.html)
 * [Shaping the Future of Attack Surface Management](https://www.trendmicro.com/explore/forrester-wave-asm)close
     
     [See how >](https://www.trendmicro.com/explore/forrester-wave-asm)
