@@ -80,7 +80,7 @@ Ok](https://www.emp-online.com/?forceThisShop=1)
     
 * [Entertainment](https://www.emp-online.com/entertainment/)
     
-* [Homeware](https://www.emp-online.com/fun-lifestyle/homeware/)
+* [Lifestyle](https://www.emp-online.com/fun-lifestyle/homeware/)
     
 
 * [Clothing](https://www.emp-online.com/women/clothing/)
@@ -319,7 +319,7 @@ Subscribe
 
 Our customer services are here for you
 
-You can reach us by phone tomorrow from 9:00 AM until 5:30 PM on {2}. [More Info](https://www.emp-online.com/contact)
+Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
