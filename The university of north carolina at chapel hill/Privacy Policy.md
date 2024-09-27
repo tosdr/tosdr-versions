@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/Bio-professor-hero-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/MusicLibrary_YouTube-Thumbnail-250x141.png)
     
-    Biology professor helps build 1,000 microscopes for NC schools](https://www.unc.edu/posts/2024/09/25/biology-professor-helps-build-1000-microscopes-for-nc-schools/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/HERO-SCiLL-250x141.png)
+    Carolina’s Music Library moves to new home](https://www.unc.edu/posts/2024/09/26/carolinas-music-library-moves-to-new-home/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/HeelsPackMeals-HERO-250x141.jpg)
     
-    SCiLL to host inaugural event on 2024 election](https://www.unc.edu/posts/2024/09/25/scill-to-host-inaugural-event-on-2024-election/)
+    CCPS hosts meal drive as part of 25th anniversary](https://www.unc.edu/posts/2024/09/26/ccps-hosts-meal-drive-as-part-of-25th-anniversary/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=d3e4bbcb7f&text=%prefix%%text%%suffix%&post_id=247712&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=3db9b08ac0&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
