@@ -223,16 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -244,6 +234,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/zoo.jpg?itok=XB8kcDLv)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/umetnici-biografije/pasko.jpg?itok=ipJ73Fo4)](http://seecult.org/galerija/galerija-umetnika/karavukovo/umetnici-biografije)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dunav.jpg?itok=hKXS-7bv)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/voce.jpg?itok=7Z29Iggo)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
