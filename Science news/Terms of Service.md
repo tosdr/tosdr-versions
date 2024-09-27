@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The world’s oldest cheese is now revealing some of its secrets](https://www.sciencenews.org/article/oldest-ancient-cheese-origins)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")17 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie "Posts by Sophie Hartley")23 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This fish has legs — and it uses them for more than just walking](https://www.sciencenews.org/article/fish-legs-taste-prey-sea-robin)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")18 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 26, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -140,21 +140,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Environment](https://www.sciencenews.org/topic/environment)
     * * [Climate](https://www.sciencenews.org/topic/climate)
             
+            ### [How rapid intensification spawned two monster hurricanes in one week](https://www.sciencenews.org/article/rapid-intensification-hurricanes-helene)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")2 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
             ### [A thousands-year-old log demonstrates how burying wood can fight climate change](https://www.sciencenews.org/article/burying-log-climate-change)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")15 hours ago
+            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")22 hours ago
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [Reactive dust from Great Salt Lake may have health consequences](https://www.sciencenews.org/article/salt-lake-dust-health-consequences)
             
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")20 hours ago
-            
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
-            
-            ### [A vital ocean current is stable, for now](https://www.sciencenews.org/article/vital-ocean-florida-current-stable)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 24, 2024
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")September 26, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
