@@ -1314,6 +1314,6 @@ Please select a Country / Region
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
