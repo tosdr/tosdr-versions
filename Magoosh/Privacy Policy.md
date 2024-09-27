@@ -6,7 +6,6 @@ Toggle navigation [Magoosh](https://gre.magoosh.com/)
 * [Score Guarantee](https://gre.magoosh.com/score-guarantee)
 * [Shorter GRE](https://gre.magoosh.com/shorter-gre)
 * [Pricing](https://gre.magoosh.com/plans)
-* [Admissions](https://magoo.sh/admissions)
 
 * [Log in](https://gre.magoosh.com/login)
 * [Sign Up](https://gre.magoosh.com/plans)
