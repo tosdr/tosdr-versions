@@ -129,50 +129,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Terri Winfield
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=60223225)  
-Lily Fern & Co
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=9834541)  
+Network Grey (Pty) Ltd
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=149592283)  
-Camp 4 Africa (Pty) Ltd
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=123012303)  
+AFS Electrical
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=135518989)  
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=153170168)  
+APTV Telecoms CC
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=130289334)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=128765584)  
+Iurus Inc
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=94167462)  
+Gemini-IT Group
+
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=127757691)  
 TRACKFORCE (Pty) Ltd
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=107713428)  
-UniTech Solutions Pty Ltd
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=97497079)  
+Chiron Medical Solutions
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=212392202)  
-Immediate Health (pty)ltd
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=32274242)  
+NEW BEGINNINGS DESIGNS
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=79226078)  
-WIP Digital Solutions
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=45606636)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=101597574)  
-Cape Adventure Zone
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=108094557)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=34754491)  
-Well Hung Art
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=162519758)  
+Wiselink Broadband Dundee
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=102145054)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=143181713)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=156511252)  
-Hydroworld T/A Milliqua
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=180564501)  
+MONSTER SECURITY SERVICES
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=94569416)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=6968753)  
-MOSELA GROUP Pty(ltd)
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=189232394)  
-Tantra Sound and Lightz
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=71706525)  
-FX ACCOUNTING
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=109036843)  
-SAUL ATHOL ACRES RENTAL
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=88318370)  
+TIGERDSL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
