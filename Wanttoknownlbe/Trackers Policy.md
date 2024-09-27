@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-ongelofelijke-lever-en-galblaaszuivering/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-energie-van-merlia/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -94,18 +94,6 @@ Inschrijven
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8009-edit.jpg?fit=440%2C440&ssl=1)
-
-### [Ring of Harmony: Terug naar de natuurlijke balans..!](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
-
-[Water is van alle elementen, in staat de trillingen die het tegenkomt in zich op te nemen, vast te houden en af te geven als het bijvoorbeeld in het lichaam terecht komt. In de natuur heeft elke materie een eigen frequentie/stralingsenergie, die bestaat uit een biologische harmonische trilling. Maar ook chemische samenstellingen, die de mens zelf in een laboratorium maakt, hebben zo’n frequentie. Het plotselinge verschijnen van zo’n nieuwe materie, bijvoorbeeld bij de uitvinding van een nieuw voedingsadditief, heeft daardoor niet alleen effect in de fysieke realiteit, maar ook in de wereld van de trillingen. Een nieuwe ‘stem’ in de harmonie, die nog wel eens ‘vals’ kan zingen. Onharmonisch ’tegen-werkt’. Het is met dit inzicht, dat wij deze Ring of Harmony van Aquarius Vitaliser aanbieden. Lees snel verder hoe de Ring of Harmony jou kan ‘voeden’ en negatieve energie neutraliseert…. …](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/#pt-field-text-5)
-
-[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
-
-#### WantToKnow Aanbieding
-
 ![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/samen-9.jpg?fit=696%2C388&ssl=1)
 
 ### [Elektrosmog en radio-activiteit-meters: straling in beeld deze herfst..!](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/)
@@ -113,6 +101,18 @@ Inschrijven
 [– Let op! Geldig t/m donderdag 3 oktober a.s. – Het is weer herfst, dus we gaan steeds meer lekker warm thuis zitten. Maar sommige mensen ervaren in huis veel last van de elektronische straling van computer, telefoon & huishoudelijke apparaten..! Wij vonden dáárvoor een oplossing: ‘Elektro-Smog’ is eigenlijk een verzamelnaam voor vormen van elektromagnetische straling. Laag frequente magnetische (veld)stralingen, laag frequente elektrische straling en hoog frequente elektromagnetische straling vallen hieronder. Hoog frequente straling, die door steeds meer apparaten om ons heen wordt afgegeven, is voor veel mensen een bekend en vaak voelbaar gevaar. Zoals de ‘handige’ WiFi waarop computers en allerhande smart-apparaten functioneren, maar ook alle mobiele netwerken. Zoals ’t 5G netwerk. Weinigen weten echter, dat ook laag frequente elektro-magneet(veld)stralingen een invloed heeft op ieder mens. Deze lange golflengte-stralingen, komen we tegen op alle plekken waar elektriciteit wordt gebruikt of getransformeerd. Denk aan de intensiteit waarmee een transformatorhuisje of elektriciteitsmasten kunnen ‘zoemen’. Wij vonden een praktische manier om straling te kunnen meten, zodat je voortaan weet waar je aan toe bent! Samen met het Franse E.P.E. Conseil, dat al jaren eenvoudige en bijzonder degelijke stralingsmeters maakt en zich inzet voor ‘Elektrosmog-bewustzijn’ selecteerden we 2 meters, waarmee iedereen snel de invloeden in kaart kan brengen! We vonden ook een gamma-straling meter, waarmee je gemakkelijk de nucleaire achtergrondstraling in kaart krijgt. Lees snel verder… …](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/)
 
 [Order now](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/#pt-field-text-5)
+
+[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
+
+#### WantToKnow Aanbieding
+
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/2024-Flessen-nieuw-samen-goud-zilver-platina-Koper-magnesium-1-liter-scaled.jpg?fit=730%2C418&ssl=1)
+
+### [Stapelkorting van The Health Factory: onze meest voordelige aanbieding, speciaal voor het najaar!](https://www.wanttoknow.nl/aanbieding/stapelkorting-van-the-health-factory-onze-meest-voordelige-aanbieding-speciaal-voor-het-najaar/)
+
+[– Verlengd t/m 10 oktober! – Om het begin van de herfst én van het najaar te vieren, stelden wij met de goede mensen van The Health Factory een héle mooie aanbieding samen. Sla je slag: je voorraadje voor de donkere dagen, met 20% korting..! En.. een herfstcadeau er bovenop! Deze aanbieding is nu al onze scherpste van het jaar! Ontdek snel wat deze mooie deal voor jou betekent, als WantToKnow lezer! Kijk naar de effecten van nano-mineralen in je lichaam; die door het overmatig gebruik van kunstmest en bestrijdingsmiddelen, in combi met intensieve landbouw desastreuze gevolgen heeft, in vorm van tekorten aan micronutriënten (borium, ijzer, koper, mangaan, molybdeen, zink, selenium). Ook in AGF-producten (aardappelen, groenten en fruit) is deze afname bizar. Steeds meer mensen krijgen flinke tekorten aan vitamines en mineralen.; natuurlijk niet zonder gevolgen voor onze gezondheid! Samen met The Health Factory, de makers van bijzondere en zeer zuivere mineraalsupplementen, selecteerden we dus een aantal perfecte supplementsteuntjes in de rug. Lees snel verder over deze aanbieding en superkorting!! …](https://www.wanttoknow.nl/aanbieding/stapelkorting-van-the-health-factory-onze-meest-voordelige-aanbieding-speciaal-voor-het-najaar/)
+
+[Order now](https://www.wanttoknow.nl/aanbieding/stapelkorting-van-the-health-factory-onze-meest-voordelige-aanbieding-speciaal-voor-het-najaar/#pt-field-text-5)
 
 [![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
 
@@ -151,6 +151,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![AntiSoof](https://secure.gravatar.com/avatar/55ae105e9f793e127288fc6586c6467a?s=50&d=identicon&r=g)
+
+##### **AntiSoof** reacts on:
+
+##### De ‘gruwelijke’, volgende mRNA-ontwikkelingen!!
+
+[Hoi Guido. Het schijnt dat de paper al een tegen-paper heeft…](https://www.wanttoknow.nl/hoofdartikelen/de-gruwelijke-volgende-mrna-ontwikkelingen/comment-page-1/#comment-626332)
 
 ![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
 
@@ -399,14 +407,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Alex Jones moet kennelijk kapot gemaakt worden..!
 
 [AJ is CIA. Sandy Hook is een Hoax. Stel AJ als voorbeeld en…](https://www.wanttoknow.nl/overige/alex-jones-moet-kennelijk-kapot-gemaakt-worden/comment-page-1/#comment-626298)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Hoe Pia Dijkstra (D66) de TweedeKamer en NL-volk MINACHT..!!
-
-[hoi Eliza. Hoe u het ook draait of keert zelfs nu er een nie…](https://www.wanttoknow.nl/gezondheid/hoe-pia-dijkstra-d66-de-tweedekamer-en-nl-volk-minacht/comment-page-1/#comment-626296)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
