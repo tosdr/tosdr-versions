@@ -126,7 +126,7 @@ Share & discover custom emojis to use on Discord, Slack, Twitch and more.
 
 * [](https://discord.gg/emojis)
 * [](https://guilded.gg/emojis)
-* [](#)
+* [](https://x.com/discordemoji)
 
 ###### Resources
 
