@@ -6,7 +6,7 @@
 
 [text.skipToContent](#skip-to-content) [text.skipToNavigation](#skiptonavigation) 
 
-[![Free Shipping to Your Home](https://dam.generac.com/ImConvServlet/imconv/162109a2297808cca06bb3b436941d4725f8d927/original)](https://www.drpower.com/pages/content/customer-support/shopping-resources/shipping)
+[![Free Shipping to Your Home](https://dam.generac.com/ImConvServlet/imconv/e5864319289814681e6b0ac5ed941c0a95fc88e9/original)](https://www.drpower.com/pages/content/customer-support/shopping-resources/shipping)
 
 [Some Limitations Apply](https://www.drpower.com/pages/content/customer-support/shopping-resources/shipping)
 
@@ -179,7 +179,7 @@
         * [Parts](https://www.drpower.com/pages/content/customer-support/product-support/ordering-parts?aribrand=chp&arian=trimmer)
         * [![Trimmer Mowers](/medias/trm-ad.jpg?context=bWFzdGVyfGltYWdlc3wxNjgzNnxpbWFnZS9qcGVnfGltYWdlcy9oNmEvaGM1Lzg4NDU0NTI0NzY0NDYuanBnfDE5ZDA4NjlhNWFjNzEyZDA4YjlmMzBiMTI1OThmZDAwY2Y2Mzk3OGRkNmY0NzM2ZWJkZjM0Yjg3OTE3YmVkZmE)](https://www.drpower.com/power-equipment/trimmer-mowers)
 * [Deals](https://www.drpower.com/savings)
-    * [Fall Sale](https://www.drpower.com/savings/sale)
+    * [Fall Cleanup Sale](https://www.drpower.com/savings/sale)
     * [Bundles!](https://www.drpower.com/savings/bundles)
     * [reconditioned](https://www.drpower.com/savings/reconditioned)
     * [Clearance](https://www.drpower.com/savings/clearance-sale)
@@ -347,7 +347,7 @@
         * [Accessories](https://www.drpower.com/power-equipment/trimmer-mowers/accessories)
         * [Parts](https://www.drpower.com/pages/content/customer-support/product-support/ordering-parts?aribrand=chp&arian=trimmer)
 * [Deals](https://www.drpower.com/savings)
-    * [Fall Sale](https://www.drpower.com/savings/sale)
+    * [Fall Cleanup Sale](https://www.drpower.com/savings/sale)
         
     * [Bundles!](https://www.drpower.com/savings/bundles)
         
