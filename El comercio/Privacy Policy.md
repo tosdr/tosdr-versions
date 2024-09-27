@@ -31,6 +31,115 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz de hasta 12 horas para este viernes 27 de septiembre
+==================================================================
+
+Sucumbíos es la menos afectada. En el caso de Quito, la Empresa Eléctrica informó que los cortes de luz se suspendieron hasta esta tarde.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz este viernes 27 de septiembre incluyen hasta 12 horas de suspensión del servicio.](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-de-luz-1.jpg)
+
+Ecuador afronta **una crisis energética** debido a una de las **mayores sequías** que se han registrado en el territorio nacional. Por ello, el Ministerio de Energía y Minas dispuso un **cronograma de cortes de luz**.
+
+### Más noticias
+
+* [Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más](https://www.elcomercio.com/actualidad/negocios/por-cortes-de-luz-gobierno-lanza-tres-licitaciones-para-incorporar-178-mw-mas.html "Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más")
+* [Quito no tendrá cortes de luz hasta este viernes 27 de septiembre](https://www.elcomercio.com/actualidad/quito/quito-no-tendra-cortes-de-luz-hasta-este-viernes-27-de-septiembre.html "Quito no tendrá cortes de luz hasta este viernes 27 de septiembre")
+* [El ahorro es crucial en la crisis por los cortes de luz](https://www.elcomercio.com/opinion/editorial/ahorro-energia-crucial-crisis-cortes-luz-ecuador.html "El ahorro es crucial en la crisis por los cortes de luz")
+
+La **Corporación Nacional de Electricidad** CNEL, distribuidora de [energía eléctrica,](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") dio a conocer los cronogramas de cortes de luz en las diferentes unidades de negocio que opera.
+
+Los **horarios de los cortes de luz** se modificarán y publicarán los **viernes de cada semana**, tras una evaluación de las condiciones de los ríos que abastecen a las distintas hidroeléctricas del país.
+
+El 72% de la **matriz energética del país** se alimenta fuentes hídricas, actualmente afectadas por la grave sequía que afronta el país. Por esta razón, el **Gobierno busca alternativas** a través de las centrales térmicas para cubrir el déficit de 1 080 MW.
+
+Cortes de luz serán por hasta 12 horas
+--------------------------------------
+
+Los **horarios de la suspensión del servicio eléctrico** en algunas provincias varían de acuerdo con la unidad de negocio. En provincias **como Sucumbíos**, por ejemplo, los cortes serán solamente de cuatro horas.
+
+Sin embargo**, Guayaquil tendrá** este viernes 27 de septiembre una **suspensión del servicio de 11 horas** en total. Así mismo, la provincia de **Santo Domingo de los Tsáchilas** será una de las más afectadas con una jornada de suspensión de hasta **12 horas en total.**
+
+Cronograma
+----------
+
+La distribuidora de energía CNEL publicó el cronograma de cortes de luz en sus 11 unidades de negocio. Te dejamos los horarios:
+
+* Bolívar [https://bit.ly/3ZyDTWR](https://t.co/sKpWvc7est)
+* El Oro: [https://bit.ly/4gs2DWK](https://t.co/6T2watoA0k)
+* Esmeraldas: [https://bit.ly/3B8dODO](https://t.co/l8Fv8b9751)
+* Guayaquil: [https://bit.ly/3Bd0rlP](https://t.co/wSVeDz0eTl)
+* Guayas: [https://bit.ly/3Xzf9en](https://t.co/SkJVc1f6yl)
+* Los Ríos: [https://bit.ly/3zrj2dw](https://t.co/XeTQij1OlI)
+* Manabí: [https://acortar.link/VVyXsg](https://t.co/cZUaPuAANc)
+* Milagro: [https://bit.ly/4df3GGO](https://t.co/4HGah6g7eW)
+* Santa Elena: [https://bit.ly/3Bi2LZ2](https://t.co/jujtmkcXqI)
+* Santo Domingo: [https://bit.ly/4diWBoF](https://t.co/duf8EcIrMQ)
+* Sucumbíos: [https://bit.ly/4etYLCT](https://t.co/TlIETMPoii)
+
+Cortes de luz en Quito
+----------------------
+
+En el caso de Quito, la **Empresa Eléctrica Quito** (EEQ) informó que la suspensión de los cortes de luz en la ciudad se extenderá un día más.
+
+Con esta decisión se confirma que **no se registrarán cortes en el servicio eléctrico** en el Distrito Metropolitan**o hasta las 18:00 de este viernes 27 de septiembre de 2024.**
+
+La medida se aplicó también este martes 24, miércoles 25 y jueves 26, como respuesta a la **emergencia por los incendios forestales** que se registraron en Quito.
+
+> [#ComunicadoEEQ](https://twitter.com/hashtag/ComunicadoEEQ?src=hash&ref_src=twsrc%5Etfw) | El servicio eléctrico en el Distrito Metropolitano de Quito no se suspenderá hasta las 18:00 de este viernes, 27 de septiembre. [pic.twitter.com/r7L7tpmffR](https://t.co/r7L7tpmffR)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [September 26, 2024](https://twitter.com/ElectricaQuito/status/1839444582486143379?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa este viernes 27 de septiembre
+==========================================================
+
+El Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+-----------------------------------------------------------------------------------------------------
+
+![La AMT es la entidad encargada de controlar el Pico y placa en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/Pico-y-placa-Quito-3.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para gestionar el tránsito de la ciudad en las **horas pico.**
+
+### Más noticias
+
+* [Incendio forestal en el barrio Bolaños se combatió con mangueras y baldes de agua](https://www.elcomercio.com/actualidad/quito/incendio-forestal-en-el-barrio-bolanos-fue-combatido-con-mangueras-y-baldes-de-agua.html "Incendio forestal en el barrio Bolaños se combatió con mangueras y baldes de agua")
+* [Ausencia de lluvias significativas favorece formación de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/ausencia-de-lluvias-significativas-favorece-formacion-de-incendios-forestales.html "Ausencia de lluvias significativas favorece formación de incendios forestales")
+* [Incendio controlado y liquidado, ¿cuál es su diferencia?](https://www.elcomercio.com/actualidad/ecuador/incendio-controlado-liquidado-cual-es-su-diferencia.html "Incendio controlado y liquidado, ¿cuál es su diferencia?")
+
+Esta medida excluye a los **autos conducidos por personas de la tercera edad** o personas con discapacidad.
+
+Horarios de Pico y placa
+------------------------
+
+Esta medida se aplica en dos horarios de lunes a viernes. Los feriados, sábados y domingo no aplica la restricción.
+
+En la mañana: de 06:00 a 09:30  
+En la tarde: de 16:00 a 20:00
+
+El Pico y placa es una medida que **ha sido implementada e**n diversas ciudades alrededor del mundo como respuesta a los desafíos de la urbanización y el aumento del tránsito vehicular.
+
+Este **viernes**, no pueden circular las **placas terminadas en 9 y 0.**
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+El Pico y placa podría modificarse
+----------------------------------
+
+El **Concejo Metropolitano de Quito** debatió cambiar las **medidas sancionatorias** por Pico y placa el martes 27 de agosto de 2024.
+
+El Municipio de Quito quiere **aumentar las sanciones económicas** y eliminar la retención del vehículo de las personas que incumplan la medida del Pico y placa.
+
+Esto, con la intención de reducir los trámites burocráticos que realizan los infractores y eliminar el uso de winchas, **que provocan más gastos**, según dijo la vicepresidenta de la Comisión de Movilidad, María Cristina López.
+
+De este modo, los ciudadanos que **infrinjan por primera vez** la medida del Pico y placa deberán pagar una multa equivalente al 25% del salario básico unificado y ya no el 15%, como está estipulado en la actualidad.
+
+Los que incurran por segunda vez en l**a infracción deberán pagar una multa** del 35% del salario bás
+
 Cartas a Quito / 27 de septiembre de 2024
 =========================================
 
@@ -75,28 +184,6 @@ Aspiro a que tanto en nuestro país como en Estados Unidos estas próximas elecc
 
 Hernán Patricio Orcés Salvador
 
-País monotemático
-=================
-
-La justicia debe ejercer su autoridad para identificar todo delito y para castigar sin miramientos a los culpables, aplicando el debido proceso y con independencia.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
-
-La **crisis multidimensional** que enfrenta el país se ve agravada por la falta de un **horizonte** al cual dirigirse. No se ha construido un **objetivo nacional** que reúna en su torno a los **ecuatorianos**, un  **paradigma**  que signifique la recuperación de la plena **vigencia** de la **democracia** en condiciones de vida dignas para la mayoría de **ecuatorianos**,
-
-La **crisis económica**, la **inseguridad**, la **corrupción**, el narco tráfico no aparecen como generación espontánea. Resultan de una **crisis social** que engloba al mundo entero, reforzada por la **globalización**, con sus **cambios** **profundos** en el devenir social, que ha arropado la fracasada **ideología neoliberal** y ha promovido la **unicidad** cultural. La **tecnología**, con su espectacular **desarrollo**, se ha convertido en un elemento al que la **sociedad** debe adaptarse por sobre sus reales **capacidades**, intereses y **necesidades**.
-
-El país ha entrado en esa **vorágine** y la **conciencia social** sobre los **problemas** de fondo  se ha desvanecido en favor de un **maniqueísmo** que inunda a todos los **sectores nacionales**. Se ha construido con habilidad la **identificación** de un único y poderoso problema para el **país**, al que hay que derrotarlo y sepultarlo. Se ha abandonado la mira de los **problemas estructurales** que han llevado al país a una situación de **desesperanza** y se ha fomentado el odio, la **división** en dos bandos, siempre enarbolando la necesidad de **destrucción** en lugar de la **unión nacional** para salir adelante.
-
-La **construcción** de un **pensamiento** que oriente a enfrentar, por sus causas, los graves **problemas sociales** ha cedido el paso a  los análisis de la más baja calidad **intelectual**, diseñados por **estrategias** que utilizan todos los medios posibles para acrecentar el **pánico** ante el peligro de un **enemigo** creado. Los grupos que enarbolan con **estridencia** ideas de progreso y **democracia**, no constituyen otra cosa que los baluartes del **privilegio**, que solo sirven para cubrir los peores intereses. Y de otro lado, existen simples afanes **demoledores** y **revanchistas**, sin interés  por la **construcción** de un orden que afirme las **garantías** que la democracia debe asegurar para el disfrute de la **libertad**, la justicia, la paz y el **bienestar económico** de la población.
-
-Los **gobiernos** inmediatos anteriores han enfilado su **artillería** para acusar y no para gobernar en función de los **intereses nacionales**. Los sectores llamados a buscar la verdad en el origen de los **problemas sociales** y ofrecer alternativas para encontrar un nuevo derrotero han desaparecido en la **obscuridad** del **silencio** y del miedo. Se ha instaurado una verdad oficial expandida con la repetición cansina en las **redes sociales**, que se han convertido en la **fuerza** más **poderosa** para crear opinión, difundiendo criterios superficiales y acomodaticios, que solo se mueven al compás de **circunstancias** pasajeras.
-
-La **justicia** debe ejercer su autoridad para identificar todo delito y para castigar sin miramientos a los **culpables**, aplicando el debido **proceso** y con **independencia**. El gobierno, en cambio, debe trabajar hacia la **construcción** de un mejor futuro, constituyéndose en el referente ante la **sociedad**, por su entrega a las causas más nobles, con la determinación de nuevos rumbos, de nuevos criterios, de nuevas razones de seguir adelante.
-
-Es hora no solamente de la unidad en torno a la **construcción** de un **proyecto nacional**, sino del abandono de las **viejas prácticas** de los **políticos demagogos** y **corruptos**.
-
 Los incendios forestales son otra alerta para la sociedad en general
 ====================================================================
 
@@ -128,6 +215,28 @@ En Quito, como en muchas otras ciudades afectadas por incendios forestales, es c
 Asimismo, se debe promover alianzas entre gobiernos, empresas privadas y comunidades locales para crear un frente unido contra los incendios. También, aumentar los fondos destinados a investigación y desarrollo tecnológico enfocado en prevención y extinción. Y, finalmente, incluir a comunidades locales en la toma de decisiones relacionadas con la gestión del riesgo.
 
 La lucha contra los incendios forestales es un esfuerzo colectivo que requiere la colaboración entre autoridades, empresas privadas y ciudadanos. A medida que enfrentamos un futuro marcado por el cambio climático, es esencial adoptar enfoques integrales e innovadores que combinen tecnología avanzada con una participación activa de todos los sectores. En Quito, es fundamental establecer mecanismos claros que eviten el uso político de emergencias, asegurando así una gestión eficiente y responsable ante esta creciente amenaza.
+
+País monotemático
+=================
+
+La justicia debe ejercer su autoridad para identificar todo delito y para castigar sin miramientos a los culpables, aplicando el debido proceso y con independencia.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
+
+La **crisis multidimensional** que enfrenta el país se ve agravada por la falta de un **horizonte** al cual dirigirse. No se ha construido un **objetivo nacional** que reúna en su torno a los **ecuatorianos**, un  **paradigma**  que signifique la recuperación de la plena **vigencia** de la **democracia** en condiciones de vida dignas para la mayoría de **ecuatorianos**,
+
+La **crisis económica**, la **inseguridad**, la **corrupción**, el narco tráfico no aparecen como generación espontánea. Resultan de una **crisis social** que engloba al mundo entero, reforzada por la **globalización**, con sus **cambios** **profundos** en el devenir social, que ha arropado la fracasada **ideología neoliberal** y ha promovido la **unicidad** cultural. La **tecnología**, con su espectacular **desarrollo**, se ha convertido en un elemento al que la **sociedad** debe adaptarse por sobre sus reales **capacidades**, intereses y **necesidades**.
+
+El país ha entrado en esa **vorágine** y la **conciencia social** sobre los **problemas** de fondo  se ha desvanecido en favor de un **maniqueísmo** que inunda a todos los **sectores nacionales**. Se ha construido con habilidad la **identificación** de un único y poderoso problema para el **país**, al que hay que derrotarlo y sepultarlo. Se ha abandonado la mira de los **problemas estructurales** que han llevado al país a una situación de **desesperanza** y se ha fomentado el odio, la **división** en dos bandos, siempre enarbolando la necesidad de **destrucción** en lugar de la **unión nacional** para salir adelante.
+
+La **construcción** de un **pensamiento** que oriente a enfrentar, por sus causas, los graves **problemas sociales** ha cedido el paso a  los análisis de la más baja calidad **intelectual**, diseñados por **estrategias** que utilizan todos los medios posibles para acrecentar el **pánico** ante el peligro de un **enemigo** creado. Los grupos que enarbolan con **estridencia** ideas de progreso y **democracia**, no constituyen otra cosa que los baluartes del **privilegio**, que solo sirven para cubrir los peores intereses. Y de otro lado, existen simples afanes **demoledores** y **revanchistas**, sin interés  por la **construcción** de un orden que afirme las **garantías** que la democracia debe asegurar para el disfrute de la **libertad**, la justicia, la paz y el **bienestar económico** de la población.
+
+Los **gobiernos** inmediatos anteriores han enfilado su **artillería** para acusar y no para gobernar en función de los **intereses nacionales**. Los sectores llamados a buscar la verdad en el origen de los **problemas sociales** y ofrecer alternativas para encontrar un nuevo derrotero han desaparecido en la **obscuridad** del **silencio** y del miedo. Se ha instaurado una verdad oficial expandida con la repetición cansina en las **redes sociales**, que se han convertido en la **fuerza** más **poderosa** para crear opinión, difundiendo criterios superficiales y acomodaticios, que solo se mueven al compás de **circunstancias** pasajeras.
+
+La **justicia** debe ejercer su autoridad para identificar todo delito y para castigar sin miramientos a los **culpables**, aplicando el debido **proceso** y con **independencia**. El gobierno, en cambio, debe trabajar hacia la **construcción** de un mejor futuro, constituyéndose en el referente ante la **sociedad**, por su entrega a las causas más nobles, con la determinación de nuevos rumbos, de nuevos criterios, de nuevas razones de seguir adelante.
+
+Es hora no solamente de la unidad en torno a la **construcción** de un **proyecto nacional**, sino del abandono de las **viejas prácticas** de los **políticos demagogos** y **corruptos**.
 
 La crisis energética (parte 1) 
 ===============================
@@ -917,97 +1026,3 @@ El mensaje de Daniel Ricciardo
 “A los individuos y a los equipos que han formado parte de esto quiero darles las gracias. A los aficionados que aman este deporte, a veces algo más que a mí, ja ja (sic), gracias. Siempre tendrá sus altos y sus bajos; pero ha sido divertido y si soy sincero, no lo cambiaría”, apuntó.
 
 “Hasta la próxima aventura”, se despidió el simpático piloto de Perth a través de sus redes sociales.
-
-Quito no tendrá cortes de luz hasta este viernes 27 de septiembre
-=================================================================
-
-La Empresa Eléctrica Quito suspendió los cortes de luz un día más, debido a la emergencia por incendios forestales.
--------------------------------------------------------------------------------------------------------------------
-
-![Quito mantiene la suspensión de cortes de luz desde el martes 24 de septiembre](https://www.elcomercio.com/wp-content/uploads/2024/09/luz-viernes.jpg)
-
-La Empresa Eléctrica Quito (**EEQ**) informó que la suspensión de los **cortes de luz** en la ciudad se extenderá un día más.
-
-Con esta decisión se confirma que no se registrarán cortes en el servicio eléctrico en el **Distrito Metropolitano** hasta las **18:00** de este viernes 27 de septiembre de 2024.
-
-### Más noticias
-
-* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
-* [Lluvias vuelven a Quito luego de 48 días de sequía](https://www.elcomercio.com/actualidad/quito/lluvias-caen-en-quito-luego-de-48-dias-de-sequia.html "Lluvias vuelven a Quito luego de 48 días de sequía")
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-
-La medida se aplicó también este martes 24, miércoles 25 y jueves 26, como respuesta a la emergencia por los incendios forestales que se registraron en Quito.
-
-> [#ComunicadoEEQ](https://twitter.com/hashtag/ComunicadoEEQ?src=hash&ref_src=twsrc%5Etfw) | El servicio eléctrico en el Distrito Metropolitano de Quito no se suspenderá hasta las 18:00 de este viernes, 27 de septiembre. [pic.twitter.com/r7L7tpmffR](https://t.co/r7L7tpmffR)
-> 
-> — Empresa Eléctrica Quito (@ElectricaQuito) [September 26, 2024](https://twitter.com/ElectricaQuito/status/1839444582486143379?ref_src=twsrc%5Etfw)
-
-Emergencia por incendios forestales
------------------------------------
-
-Quito enfrentó dos alarmantes días llenos de emergencias.
-
-En la mañana del miércoles, la ciudad registraba al menos tres incendios forestales; sin embargo, la situación se empeoró en la tarde.
-
-Pasadas las 14:00, el fuego que se originó en el sector de Guápulo, a la altura de la intersección de las avenidas Simón Bolívar y Los Conquistadores, se expandió con fuerza.
-
-Las llamas llegaron a barios residenciales como Bellavista, Bolaños y González Suárez, en el centro norte de Quito.
-
-El incendio que continúa con menos fuerza este jueves 26 de septiembre, provocó el daño de más de 140 hectáreas de vegetación.
-
-Por lo menos 13 personas resultaron heridas, 107 familias fueron evacuadas y 6 resultaron damnificadas.
-
-El Ministerio de Salud atendió a 185 pacientes, 74 diagnosticados con problemas respiratorios, 15 por quemaduras,11 por molestias musculares, 20 por episodios de ansiedad y estrés, así como 65 por otras afecciones.
-
-Cortes de luz en Quito
-----------------------
-
-Quito, al igual que el resto del país, tenía programada la suspensión del servicio eléctrico para esta semana debido a la **crisis hídrica** provocada por la falta de lluvias.
-
-Según lo establecido por la EEQ, los apagones incluían hasta **12 horas al día**, dependiendo del sector, en períodos de 2 y 5 horas de suspensión.
-
-La **programación** de cortes de luz se vio interrumpida por la emergencia de los incendios forestales; que entre otras medidas, suspendió la jornada laboral pública y escolar en la ciudad.
-
-Sin embargo, en los sectores fuera del **perímetro** del Distrito Metropolitano de Quito sí se mantendrá el cronograma de apagones.
-
-  
-
-Aumenta el racismo contra futbolistas brasileños
-================================================
-
-Vinícius Júnior, futbolista de Brasil y del Real Madrid, es una de las caras de la lucha contra el racismo en el fútbol.
-------------------------------------------------------------------------------------------------------------------------
-
-![Vinícius Júnior es una las caras de la lucha contra el racismo en el fútbol.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T182003.072.jpg)
-
-Los casos de **racismo contra futbolistas brasileños**, tanto en su país como en el extranjero, aumentaron a 162 en 2023. Esto representa un incremento de casi el 40 % en comparación con el año anterior, según un informe publicado este jueves 26 de septiembre.
-
-El Observatorio de Discriminación Racial en el Fútbol, en asociación con la Confederación Brasileña de Fútbol (CBF), contabilizaron **136 ataques en Brasil y 26 en el exterior** relacionados con cuestiones de raza durante el año pasado.
-
-### Más noticias:
-
-* [Alexander Domínguez denuncia racismo y aclara altercados con Liga de Quito](https://www.elcomercio.com/deportes/alexander-dominguez-liga-always-ready-racismo.html "Alexander Domínguez denuncia racismo y aclara altercados con Liga de Quito")
-* [Alexander Domínguez, consternado por el racismo que vivió en la Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-consternado-racismo-vivio-copa-sudamericana.html "Alexander Domínguez, consternado por el racismo que vivió en la Copa Sudamericana")
-* [¿Quién ganó el Balón de Oro 2024?](https://www.elcomercio.com/deportes/futbol/quien-gano-el-balon-de-oro-2024.html "¿Quién ganó el Balón de Oro 2024?")
-
-Para el director del Observatorio, Marcelo Carvalho, los números denotan que “l**os jugadores y los aficionados son más conscientes de los casos de racismo**” en el fútbol.
-
-“A**ntes callábamos y hoy tenemos voz**. Estos datos son importantes para que los clubes y las federaciones ayuden” a combatir esta lacra, señaló.
-
-Brasileños son víctimas de racismo
-----------------------------------
-
-La gran mayoría de los episodios racistas registrados **tuvieron lugar en los estadios de fútbol.** Después le sigue las redes sociales, de acuerdo con el reporte, que se realiza anualmente desde 2014.
-
-El presidente de la CBF, Ednaldo Rodrigues, afirmó, en la presentación del informe, que “solo la cooperación” entre los diferentes actores sociales podrá “garantizar a las futuras generaciones un mundo en el que el respeto y la dignidad sean valores universales”.
-
-Entre las víctimas de insultos racistas está **Vinícius Júnior, delantero del Real Madrid** y una de las estrellas de la selección brasileña.
-
-Caso Vinícius Júnior
---------------------
-
-El incidente que tuvo más repercusión fue el vivido el 21 de mayo de 2023 en Mestalla, estadio del Valencia.
-
-Allí, un grupo de aficionados de ese equipo **profirió ofensas racistas a Vini**, lo que motivó la apertura de un proceso judicial.
-
-Los insultos contra el extremo, que se repitieron en otros estadios de **España**, fueron condenados por las más altas autoridades de **Brasil**, entre ellas el presidente Luiz Inácio Lula da Silva, que exigió acciones para poner punto final a esa situación.
