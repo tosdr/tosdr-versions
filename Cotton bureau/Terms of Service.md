@@ -28,7 +28,7 @@
 
 [All Products](https://cottonbureau.com/shop) [Our Faves](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Our%20Favorites) [How It Works](https://cottonbureau.com/how-it-works) [Submit a Design](https://cottonbureau.com/submit-designs)
 
-[📱  **All iPhone 16 cases 20% off! Use code CaseBureau16 at checkout.**](https://cottonbureau.com/search?hierarchicalMenu%5Bcategories__lvl0%5D%5B0%5D=Phone%20Cases)
+[📚  **Spend $99, get free shipping! Use code FREE99 at checkout.**](https://cottonbureau.com/discounts?discount=FREE99)
 
 Need help? Email [support@cottonbureau.com](mailto:support@cottonbureau.com)Need help? [Email](mailto:support@cottonbureau.com)
 
