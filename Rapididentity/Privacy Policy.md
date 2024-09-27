@@ -15,13 +15,12 @@ Menu
     * [Identity Solutions](#) Show submenu for Identity Solutions
         * [Identity Lifecycle Management](https://www.identityautomation.com/products/identity-lifecycle-management)
         * [Access Governance](https://www.identityautomation.com/products/access-governance)
-        * [Authentication & Assurance](https://www.identityautomation.com/products/authentication-and-assurance)
+        * [Authentication](https://www.identityautomation.com/products/authentication)
         * [Threat Detection & Response](https://www.identityautomation.com/products/threat-detection-and-response)
     * [Classroom Solutions](#) Show submenu for Classroom Solutions
         * [Student-Teacher Portal](https://www.identityautomation.com/products/student-teacher-portal)
         * [Rostering](https://www.identityautomation.com/products/rostering)
         * [Insights](https://www.identityautomation.com/products/insights)
-        * [Phishing Protection](https://www.identityautomation.com/products/phishing-protection)
 * [Industries](#) Show submenu for Industries
     * [K-12](https://www.identityautomation.com/industries/k-12-education)
     * [Higher Ed](https://www.identityautomation.com/industries/higher-ed)
@@ -40,13 +39,12 @@ Menu
     * [Identity Solutions](#) Show submenu for Identity Solutions
         * [Identity Lifecycle Management](https://www.identityautomation.com/products/identity-lifecycle-management)
         * [Access Governance](https://www.identityautomation.com/products/access-governance)
-        * [Authentication & Assurance](https://www.identityautomation.com/products/authentication-and-assurance)
+        * [Authentication](https://www.identityautomation.com/products/authentication)
         * [Threat Detection & Response](https://www.identityautomation.com/products/threat-detection-and-response)
     * [Classroom Solutions](#) Show submenu for Classroom Solutions
         * [Student-Teacher Portal](https://www.identityautomation.com/products/student-teacher-portal)
         * [Rostering](https://www.identityautomation.com/products/rostering)
         * [Insights](https://www.identityautomation.com/products/insights)
-        * [Phishing Protection](https://www.identityautomation.com/products/phishing-protection)
 * [Industries](#) Show submenu for Industries
     * [K-12](https://www.identityautomation.com/industries/k-12-education)
     * [Higher Ed](https://www.identityautomation.com/industries/higher-ed)
@@ -228,13 +226,12 @@ Our goal is to resolve all disputes through our internal processes. If You have 
 * [Identity Solutions](javascript:;)
     * [Identity Lifecycle Management](https://www.identityautomation.com/products/identity-lifecycle-management)
     * [Access Governance](https://www.identityautomation.com/products/access-governance)
-    * [Authentication & Assurance](https://www.identityautomation.com/products/authentication-and-assurance)
+    * [Authentication](https://www.identityautomation.com/products/authentication)
     * [Threat Detection & Response](https://www.identityautomation.com/products/threat-detection-and-response)
 * [Classroom Solutions](javascript:;)
     * [Student-Teacher Portal](https://www.identityautomation.com/products/student-teacher-portal)
     * [Rostering](https://www.identityautomation.com/products/rostering)
     * [Insights](https://www.identityautomation.com/products/insights)
-    * [Phishing Protection](https://www.identityautomation.com/products/phishing-protection)
 * [Industries](javascript:;)
     * [K-12](https://www.identityautomation.com/industries/k-12-education)
     * [Higher Ed](https://www.identityautomation.com/industries/higher-ed)
