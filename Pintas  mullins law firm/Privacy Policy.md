@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you sue an insurance company without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-an-insurance-company-without-a-lawyer-scaled.jpg "Can You Sue an Insurance Company Without a Lawyer?")](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/ "Can You Sue an Insurance Company Without a Lawyer?")
+[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
 
-[#### Can You Sue an Insurance Company Without a Lawyer?](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/)
+[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
 
-[![How to file a sexual abuse lawsuit against the mormon church](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How to File a Sexual Abuse Lawsuit Against the Mormon Church")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/ "How to File a Sexual Abuse Lawsuit Against the Mormon Church")
+[![How much is a mormon church sex abuse settlement worth?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "How Much Is a Mormon Church Sex Abuse Settlement Worth?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/ "How Much Is a Mormon Church Sex Abuse Settlement Worth?")
 
-[#### How to File a Sexual Abuse Lawsuit Against the Mormon Church](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/)
+[#### How Much Is a Mormon Church Sex Abuse Settlement Worth?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/)
 
-[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
+[![How much does it cost to hire a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-much-does-it-cost-to-hire-a-mesothelioma-lawyer.jpg "How Much Does It Cost to Hire a Mesothelioma Lawyer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/ "How Much Does It Cost to Hire a Mesothelioma Lawyer?")
 
-[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
+[#### How Much Does It Cost to Hire a Mesothelioma Lawyer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/)
 
 ### Injured?  
 Tell Us What Happened.
