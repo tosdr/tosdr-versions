@@ -114,7 +114,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/37&38_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_37_38_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/39&40_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_39_40_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -136,10 +136,10 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Comments
 
+* Stephen Aradjan on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54642)
 * Sad News on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54295)
 * john on [Grand Ole Populists](https://americanfreepress.net/grand-ole-populists/#comment-54251)
 * [L.C.](https://www.youtube.com/watch?v=Om4NmC0ldPM) on [Israel Targets U.S. Congressmen With Fake Media Accounts, Propaganda](https://americanfreepress.net/israel-targets-u-s-congressmen-with-fake-media-accounts-propaganda/#comment-54226)
-* John on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54191)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=521981074)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=790132583)
