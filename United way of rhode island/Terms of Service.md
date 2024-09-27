@@ -236,19 +236,21 @@ Notes Coffee Co.
 
 [Register](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134383435)
 
-[![DAP_United_FarmF-113_web](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035#new_tab)
+[![Rhode Island KIDS COUNT's Paige Clausius-Parks and the Economic Progress Institute's Weayonnoh Nelson-Davies clapping.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://www.unitedwayri.org/event/98th-annual-celebration/)
 
 10 Oct
 
-#### [Annual Celebration 2024](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035#new_tab "Annual Celebration 2024")
+#### [98th Annual Celebration](https://www.unitedwayri.org/event/98th-annual-celebration/ "98th Annual Celebration")
 
-Save the date!
+Join [United Way of Rhode Island](https://www.unitedwayri.org/) for our 98th Annual Celebration! We are celebrating our collective impact in the community by recognizing our donors, partners, and volunteers for their contributions. Together we are "United in Action" as we build racial equity and opportunities for all Rhode Islanders.
 
-Thursday, October 10  
-6 - 8 p.m.
+Thursday, Oct. 10, 2024  
+5:30 - 8 p.m.
 
-Waterfire Arts Center  
+[WaterFire Arts Center](https://www.google.com/maps/place/The+WaterFire+Arts+Center/@41.8288341,-71.4357382,16z/data=!3m1!4b1!4m6!3m5!1s0x89e445a6db2dc74f:0xdad3a7ba66f93bb8!8m2!3d41.8288301!4d-71.4331633!16s%2Fg%2F11crzftvy6?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D)  
 475 Valley St., Providence
+
+[REGISTER](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035)
 
 ### Subscribe to add impact to your inbox
 
