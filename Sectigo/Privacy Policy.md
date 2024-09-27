@@ -268,11 +268,11 @@ Privacy policy
 
 **Sectigo Privacy Policy**
 
-**Effective Date**: November 15, 2021
+**Effective Date**: September 26, 2024
 
 ### Who we are
 
-This Privacy Policy applies to Sectigo Limited and its subsidiaries, including Sectigo, Inc. SSL247 SAS, SSL247 Limited, and SSL247, Inc. (collectively, “Sectigo” or “we” or “us”) and describes Sectigo’s (“our”) policies and practices that we undertake in collecting, using, and safeguarding your personal information. By “personal information”, we mean information that can be used to identify you or that we can link to you, and which we have in our possession or control.
+This Privacy Policy applies to Sectigo Limited and its subsidiaries, including Sectigo, Inc. SSL247 SAS, SSL247 Limited, and SSL247, Inc. (collectively, “**Sectigo**” or “**we**” or “**us**”) and describes Sectigo’s (“our”) policies and practices that we undertake in collecting, using, and safeguarding your **personal information**. By “personal information”, we mean information that can be used to identify you or that we can link to you, and which we have in our possession or control.
 
 Sectigo Limited is the data controller of your personal information processed for purposes set forth herein (including the issuance of Qualified Certificates and other publicly-trusted Certificates) and, unless expressly specified otherwise, is responsible for the collection, use, disclosure, retention, and protection of your personal information in accordance with our privacy standards, this privacy policy, and applicable laws.
 
@@ -296,17 +296,12 @@ In providing you with access to Sectigo’s products, services, and Websites (de
 
 At a glance, this Privacy Policy contains the following information:
 
-· What information we collect.
-
-· How we collect your information.
-
-· How we use your information.
-
-· What information we share.
-
-· What security measures we have in place to protect your information.
-
-· What rights and choices you have in relation to your information.
+* What information we collect.
+* How we collect your information.
+* How we use your information.
+* What information we share.
+* What security measures we have in place to protect your information.
+* What rights and choices you have in relation to your information.
 
 This is important to us, so we hope you take the time to read and review it carefully.
 
@@ -314,30 +309,21 @@ This is important to us, so we hope you take the time to read and review it care
 
 We’ve defined the following terms, which are used throughout this Privacy Policy, to provide better clarity on what we mean:
 
-**· “Account”** refers to an SCM account, an E-PKI account, an S3 account, or any other account at a Sectigo Website for which you sign up and log in.
-
-**· “Baseline Requirements”** refers the most recent version of the CA/B Forum’s BASELINE REQUIREMENTS FOR THE ISSUANCE AND MANAGEMENT OF PUBLICLY-TRUSTED CERTIFICATES, accessible here: [https://cabforum.org/baseline-...](https://cabforum.org/baseline-requirements-documents/).
-
-**· “CA/B Forum”** means the Certificate Authority and Browser Forum, a consensus-driven forum of Certificate authorities (like us) and browsers that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates, and whose website is [https://cabforum.org/](https://cabforum.org/).
-
-**· “Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo. · “Cookies Policy” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/%7Bentry%3A321889@4%3Aurl%7C%7C%7D). · “CPS” refers the most recent version of our CERTIFICATION PRACTICES STATEMENT, accessible here: [https://sectigo.com/legal](https://www.sectigo.com/legal).
-
-**· “eIDAS Regulation”** means Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market, as amended.
-
-**· “ETSI”** means the European Telecommunications and Standards Institute, an independent, not-for-profit, standardization organization for the information and communications technology industry.
-
-**· “ETSI Standards”** mean those Industry Standards developed by ETSI.
-
-**· “EV Code-Signing Guidelines”** means the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CODE SIGNING CERTIFICATES, accessible here: [https://cabforum.org/ev-code-s...](https://cabforum.org/ev-code-signing-certificate-guidelines/).
-
-**· “EV Guidelines”** refers to the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CERTIFICATES, accessible here: [https://cabforum.org/extended-...](https://cabforum.org/extended-validation/).
-
-**· “Industry Standards”** mean, individually or collectively, the Baseline Requirements, EV Guidelines, EV Code-Signing Guidelines, the ETSI Standards, and any other standards, rules, guidelines, and requirements applicable to a Certificate.
-
-**· “Qualified Certificate”** means a publicly-trusted, end-entity Certificate issued according to the requirements of the eIDAS Regulation.
-
-**· “Website”** means a website owned and operated by Sectigo, including, but not limited to sectigo.com, instantssl.com, positivessl.com, enterprisessl.com, hackerguardian.com, optimumssl.com, comodoca.com, ssl.comodo.com, codeguard.com, iconlabs.com, crt.sh, and the websites where ssl247 is the primary domain at one of the following TLDs: .ae, .be, .cl, .com, .com.br, .com.co, .com.mx, .co.uk, .de, .dk, .es, .fr, .ie, .it, .nl, .pe, .pt, and .se (for example, ssl247.fr).  
-  
+* **“Account”** refers to an SCM account, an E-PKI account, an S3 account, or any other account at a Sectigo Website for which you sign up and log in.
+* **“Baseline Requirements”** refers the most recent version of the CA/B Forum’s BASELINE REQUIREMENTS FOR THE ISSUANCE AND MANAGEMENT OF PUBLICLY-TRUSTED CERTIFICATES, accessible here: [https://cabforum.org/baseline-...](https://cabforum.org/baseline-requirements-documents/).
+* **“CA/B Forum”** means the Certificate Authority and Browser Forum, a consensus-driven forum of Certificate authorities (like us) and browsers that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates, and whose website is [https://cabforum.org/](https://cabforum.org/).
+* **“Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo.
+* “**Cookies Policy**” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/%7Bentry%3A321889@4%3Aurl%7C%7C%7D).
+* “**CPS**” refers the most recent version of our CERTIFICATION PRACTICES STATEMENT, accessible here: [https://sectigo.com/legal](https://www.sectigo.com/legal).
+* **“eIDAS Regulation”** means Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market, as amended.
+* **“ETSI”** means the European Telecommunications and Standards Institute, an independent, not-for-profit, standardization organization for the information and communications technology industry.
+* **“ETSI Standards”** mean those Industry Standards developed by ETSI.
+* **“EV Code-Signing Guidelines”** means the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CODE SIGNING CERTIFICATES, accessible here: [https://cabforum.org/ev-code-s...](https://cabforum.org/ev-code-signing-certificate-guidelines/).
+* **“EV Guidelines”** refers to the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CERTIFICATES, accessible here: [https://cabforum.org/extended-...](https://cabforum.org/extended-validation/).
+* **“Industry Standards”** mean, individually or collectively, the Baseline Requirements, EV Guidelines, EV Code-Signing Guidelines, the ETSI Standards, and any other standards, rules, guidelines, and requirements applicable to a Certificate.
+* **“Qualified Certificate”** means a publicly-trusted, end-entity Certificate issued according to the requirements of the eIDAS Regulation.
+* **“Website”** means a website owned and operated by Sectigo, including, but not limited to sectigo.com, instantssl.com, positivessl.com, enterprisessl.com, hackerguardian.com, optimumssl.com, comodoca.com, ssl.comodo.com, codeguard.com, iconlabs.com, crt.sh, and the websites where ssl247 is the primary domain at one of the following TLDs: .ae, .be, .cl, .com, .com.br, .com.co, .com.mx, .co.uk, .de, .dk, .es, .fr, .ie, .it, .nl, .pe, .pt, and .se (for example, ssl247.fr).  
+    
 
 What information we collect
 ---------------------------
@@ -360,7 +346,7 @@ When you (or your organization) purchase a Certificate, you will be required to 
 
 When you (or your organization) purchase a CodeGuard® service, you decide the type and extent of personal information given to us. As part of the CodeGuard® services, you designate your website’s database that you want us to back up and we back up any information (including personal information) contained on the database.
 
-### When you book a demo or request additional product information through our website
+### When you book a demo, register for a webinar or request additional product information through our website
 
 When you book a demo with one of our sales representatives, register for a webinar, or request additional product information through our website, you submit to us contact information (e.g., first and last name, email address, phone number), products you are interested in, and the region you are located in (e.g., North America, Europe, etc.).
 
@@ -398,15 +384,14 @@ This information may include your IP address or other proxy servers you use to c
 
 Sectigo has hundreds of resellers and webhosts that offer you our products and services for purchase directly from them. Sectigo enters into agreements with its resellers and webhosts containing adequate privacy safeguards and protections. When you provide information directly to these resellers or webhosts, you are providing your information subject to the privacy policies and practices of those resellers. You should make sure to review and understand those policies and practices prior to sharing your information.
 
-For Sectigo to provide you with products and services through a reseller or webhost, that specific reseller or webhost must share your information with us. When that information is shared with us, it will be collected and used in accordance with this Privacy Policy  
+For Sectigo to provide you with products and services through a reseller or webhost, that specific reseller or webhost must share your information with us. When that information is shared with us, it will be collected and used in accordance with this Privacy Policy.  
 
 ### Information we obtain from your organization
 
 This section is applicable only if:
 
-\- Your organization is a Sectigo enterprise customer, and
-
-\- Your organization issued you a Sectigo SMIME or client Certificate.
+* Your organization is a Sectigo enterprise customer, and
+* Your organization issued you a Sectigo SMIME or client Certificate.
 
 To issue a Sectigo SMIME or client Certificate for your use, Sectigo obtains your (i) first and last name, and (ii) company email address. This information is either submitted directly by you or obtained from your organization that requested the Certificate.
 
@@ -416,15 +401,16 @@ When you apply for a job at Sectigo, you provide us with educational and/or care
 
 ### Information we obtain from other third-party sources
 
-o For the Issuance of a Certificate
+* For the Issuance of a Certificate
 
 For Sectigo to validate some types of Certificates (such as EV Certificates) in accordance with Industry Standards, it is necessary for Sectigo to supplement information that Sectigo receives from you or a reseller with information obtained from third-party sources.
 
 As such, Sectigo may verify the information you submit us with information from independent third-party sources. The types of Certificates, permissible third-party sources, and other relevant information are detailed with specificity in the CPS, the Baseline Requirements, the EV Guidelines, and the EV Code-Signing Guidelines. Information collected from these third-party sources will be used by Sectigo to validate the ordered Certificate. This is an integral aspect of the services provided by Sectigo and is required of Sectigo to validate a Certificate.
 
-Sectigo does not have any control over these third-party sources, but once Sectigo collects supplemental information from these sources, Sectigo will protect it in accordance with this Privacy Policy.
+Sectigo does not have any control over these third-party sources, but once Sectigo collects supplemental information from these sources, Sectigo will protect it in accordance with this Privacy Policy.  
+Sectigo also obtains Certificate information from publicly available Certificate transparency (CT) logs. Generally, CT logs do not contain personal information, but it can contain your email address. CT logs were created for purposes of preventing the mistaken issuance, malicious use, and public oversight of Certificates by providing an open auditing and monitoring system.
 
-Sectigo also obtains Certificate information from publicly available Certificate transparency (CT) logs. Generally, CT logs do not contain personal information, but it can contain your email address. CT logs were created for purposes of preventing the mistaken issuance, malicious use, and public oversight of Certificates by providing an open auditing and monitoring system.  
+  
 
 * For Other Purposes
 
@@ -443,21 +429,21 @@ We are providing the below information about our retention periods to show you t
 |     |     |     |     |
 | --- | --- | --- | --- |
 | **Information Processed** | **Purpose of Processing** | **Legal Basis** | **Necessary Retention Period** |
-| Information you give us to setup and administer your (or your organization’s) Account **(see INFORMATION YOU GIVE TO US).** | To provide you (or your organization) with the products and services requested and to administer your (or your organization’s) Account, including for renewals, billing, and contract management purposes. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Duration of the subscriber agreement governing the Account and a period thereafter as may be necessary to assert our legal rights |
-| Information that you provide us to issue a Certificate **(see INFORMATION YOU GIVE TO US).** | To validate and issue the Certificate you ordered, and to comply with Industry Standards. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Duration of the subscriber agreement governing the Certificate plus (i) seven (7) years after the expiration or revocation of the last Certificate issued thereunder, provided all Certificates are non-Qualified Certificates, or (ii) fifteen (15) years after expiration or revocation of the last Certificate issued thereunder, if any Certificate is a Qualified Certificate. |
-| Information that you (or you organization) provide us to provision the CodeGuard® services **(see INFORMATION YOU GIVE TO US).** | To provide you with the CodeGuard® services. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Until the earlier of (i) your request for the deletion of your Account, and (ii) expiration or termination of your agreement with us. We may maintain backups for up to 14 days in disaster recovery instances. |
+| Information you give us to setup and administer your (or your organization’s) Account **(see INFORMATION YOU GIVE TO US).** | To provide you (or your organization) with the products and services requested and to administer your (or your organization’s) Account, including for renewals, billing, and contract management  <br>purposes. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and  <br>fraud prevention purposes. | Duration of the subscriber agreement governing the Account and a period thereafter as may be necessary to assert our legal rights. |
+| Information that you provide us to issue a Certificate **(see INFORMATION YOU GIVE TO US).** | To validate and issue the Certificate you ordered, and to comply with Industry Standards. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Duration of the subscriber agreement governing the Certificate plus (i) seven (7) years after the expiration or revocation of the last Certificate issued thereunder, provided all Certificates are non-Qualified Certificates, or  <br>(ii) fifteen (15) years after expiration or revocation of the last Certificate issued thereunder, if any Certificate is a Qualified Certificate. |
+| Information that you (or you organization) provide us to provision the CodeGuard® services **(see INFORMATION YOU GIVE TO US).** | To provide you with the CodeGuard® services. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and  <br>fraud prevention purposes. | Until the earlier of (i) your request for the deletion of your Account, and (ii) expiration or termination of your agreement with us. We may maintain backups for up to 14 days in disaster recovery instances. |
 | Information we obtain from our resellers (see **Information We Obtain from Our Resellers and Webhosts****).** | If you order a Certificate, to validate and issue the Certificate, and to comply with Industry Standards.<br><br>If you order any other product or service, to provide you with the products and services that you requested and to administer your Account, including for renewals, billing, and contract management purposes. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | If you order a Certificate, duration of the subscriber agreement governing the Certificate plus (i) seven (7) years after the expiration or revocation of the last Certificate issued thereunder, provided all Certificates are non-Qualified Certificates, or (ii) fifteen (15) years after expiration or revocation of the last Certificate issued thereunder, if any Certificate is a Qualified Certificate.<br><br>If your order any other product or service, duration of the subscriber agreement governing the product or service, plus seven (7) years. |
-| Information we obtain from third-party sources to validate a Certificate (see **I****nformation We Obtain from Other Third-Party Sources****).** | To validate and issue the Certificate you ordered, and to comply with Industry Standards. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Duration of the subscriber agreement governing the Certificate plus (i) seven (7) years after the expiration or revocation of the last Certificate issued thereunder, provided all Certificates are non-Qualified Certificates, or (ii) fifteen (15) years after expiration or revocation of the last Certificate issued thereunder, if any Certificate is a Qualified Certificate. |
-| Information we obtain from other third-party sources (see **I****nformation** **We Obtain from Other Third-Party Sources****).** | To update, expand and analyze our records, identify new customers and create more tailored advertising to provide services that may be of interest to you. | Processing is based on the terms and conditions of the agreement with the third-party source, which warrant that adequate consents have been obtained from you for the sharing of the information with Sectigo. | Until the later of (i) expiration or termination of the agreement governing your Account and a period thereafter as may be necessary to assert our legal rights, and (ii) your request of deletion of this information. |
-| Information contained in an issued Certificate. | To ensure (i) Certificates are not used for fraud, phishing, or other malicious uses, (ii) the authenticity of issued Certificates, and (iii) the integrity of issued Certificates for network and informational security purposes. | Processing is for the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Duration of the subscriber agreement governing the Certificate plus (i) seven (7) years after the expiration or revocation of the last Certificate issued thereunder, provided all Certificates are non-Qualified Certificates, or (ii) fifteen (15) years after expiration or revocation of the last Certificate issued thereunder, if any Certificate is a Qualified Certificate. |
-| Information published in CT logs (generally this does not contain personal information, but it can contain your email address if included by you, or your organization, in an issued Certificate). | To ensure (i) Certificates are not used for fraud, phishing, or other malicious uses, (ii) the authenticity of issued Certificates, and (iii) the integrity of issued Certificates for network and informational security purposes. | Processing is for the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | There is no retention period and the information is available on the Internet indefinitely. |
+| Information we obtain from third-party sources to validate a Certificate (see **I****nformation We Obtain from Other Third Parties****).** | To validate and issue the Certificate you ordered, and to comply with Industry Standards. | Processing is based on the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Duration of the subscriber agreement governing the Certificate plus (i) seven (7) years after the expiration or revocation of the last Certificate issued thereunder, provided all Certificates are non-Qualified Certificates, or (ii) fifteen (15) years after expiration or revocation of the last Certificate issued thereunder, if any Certificate is a Qualified Certificate. |
+| Information we obtain from other third-party sources (see **I****nformation** **We Obtain from Other Third-Party Sources****).** | To update, expand and analyze our records, identify new customers and create more tailored advertising to provide services that may be of interest to you. | Processing is based on the terms and conditions of the agreement with the third-party source, which warrant that adequate consents have been obtained from you for the sharing of the information with  <br>Sectigo. | Until the later of (i) expiration or termination of the agreement governing your Account and a period thereafter as may be necessary to assert our legal rights, and (ii) your request of deletion of this information. |
+| Information contained in an issued Certificate. | To ensure (i) Certificates are not used for fraud, phishing, or other malicious uses, (ii) the authenticity of issued Certificates, and (iii) the integrity of issued Certificates for network and informational security purposes. | Processing is for the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | Duration of the subscriber agreement governing the Certificate plus (i) seven (7) years after the expiration or revocation of the last Certificate issued thereunder, provided all Certificates are non-Qualified Certificates, or  <br>(ii) fifteen (15) years after expiration or revocation of the last Certificate issued thereunder, if any Certificate is a Qualified Certificate. |
+| Information published in CT logs (generally this does not contain personal information, but it can contain your email address if included by you, or your organization, in an issued Certificate). | To ensure (i) Certificates are not used for fraud, phishing, or other malicious uses, (ii) the authenticity of issued Certificates, and (iii) the integrity of issued Certificates  <br>for network and informational security purposes. | Processing is for the legitimate interests of Sectigo and third parties, including compliance with Industry Standards, network and informational security purposes, audit purposes, and fraud prevention purposes. | There is no retention period and the information is available on the Internet indefinitely. |
 | Information we collect from your use of our Websites, products and services. | For security and fraud prevention, corporate governance, and for audit and regulatory reporting purposes. | Sectigo has a legitimate interest in processing this information to protect Sectigo’s systems, your information and the information of other Sectigo customers. | Exact durations are listed in the Cookies Policy. |
 | Information you submit to us when sending us an inquiry form or other communication (see **When You Book a Demo, Register for a Webinar, or Request Additional Product Information Through Our Website).** | Respond to you when you contact Sectigo about our products or services. | Processing is based on your consent that we will obtain prior to sending you any communications. | Until you withdraw your consent. |
 | Your name, email address and contact information that you provide to us in relation to events and other Sectigo news. | Plan, host and provide you with information about Sectigo surveys, events, or other public forums | Processing is based on your consent to receive this information, which we will obtain prior to sending you any communications. | Until you withdraw your consent. |
 | Contact information that you provide to us in relation to marketing and promotional activities. | Provide marketing and promotional communications about offers, news or announcements relating to the Sectigo products and services | Processing is based on your consent to receive this information, which we will obtain prior to sending you any communications. | Until you withdraw your consent. |
 | Information on your use of our Website, collected by our use of cookies and analytics tools. | Improve the user experience of our Websites, products or services that we deliver to you based on our evaluation of the information we gathered on your use of our Websites. | Our use of cookies and analytics tools is set forth in our Cookies Policy. Prior to using our Website, you can review and consent to the use of cookies. You can also object to or limit our use of cookies by modifying your cookie preferences. | Exact durations are listed in the Cookies Policy. |
-| Information on your use of our Website, collected by our use of cookies and analytics tools. | Analyze your use to provide you with personally relevant content and tailored advertising that we think may be of interest to you. | Our use of cookies and analytics tools is set forth in our Cookies Policy. Prior to using our Website, you can review and consent to the use of cookies. You can also object to or limit our use of cookies by modifying your cookie preferences. | Exact durations are listed in the Cookies Policy |
-| When you apply for a job at Sectigo (see **When You Apply for a Job).** | To process your application, to identify your capabilities and qualifications to determine your suitability for a position with Sectigo, to conduct reference checks, and to respond to your inquiries and communicate with you about your application.<br><br>If we offer you a position, and you accept, then also to conduct background checks, as allowed by local law.<br><br>If you become an employee, then for employment-related purposes. | Processing is based on the legitimate interests of Sectigo, including administrative purposes, internal training, audit purposes, and fraud prevention purposes. | Four (4) years following the conclusion of the hiring process for the position for which you apply. If we offer you a position, and you accept, same duration as above. If you become an employee, then the period will be listed in our employee privacy notice. |
+| Information on your use of our Website, collected by our use of cookies and analytics tools. | Analyze your use to provide you with personally relevant content and tailored advertising that we think may be of interest to you. | Our use of cookies and analytics tools is set forth in our Cookies Policy. Prior to using our Website, you can review and consent to the use of cookies. You can also object to or limit our use of cookies by  <br>modifying your cookie preferences. | Exact durations are listed in the Cookies Policy |
+| When you apply for a job at Sectigo (see **When You Apply for a Job).** | To process your application, to identify your capabilities and qualifications to determine your suitability for a position with Sectigo, to conduct reference checks, and to respond to your inquiries and communicate with you about your application.<br><br>If we offer you a position, and you accept, then also to conduct background checks, as allowed by local law.<br><br>If you become an employee, then for employment-related purposes. | Processing is based on the legitimate interests of Sectigo, including administrative purposes, internal training, audit purposes, and fraud prevention purposes. | Four (4) years following the conclusion of the hiring process for the position for which you apply.<br><br>If we offer you a position, and you accept, same duration as above.<br><br>If you become an employee, then the period will be listed in our employee privacy notice. |
 
 ### Sharing of information collected  
 
@@ -465,19 +451,13 @@ We understand and value the sensitive nature of your information, and as such, t
 
 There are instances, however, when Sectigo may disclose your information for such limited purposes as:
 
-· To its subsidiaries and business partners who have similar privacy standards and only for the purposes addressed in this Privacy Policy.
-
-· To our resellers or webhosts when you place your order through that reseller or webhost.
-
-· To our service providers or processors who are obligated under law and contract to protect your information and only use your information in accordance with our instructions.
-
-· As may be necessary for audit, compliance, or corporate governance functions.
-
-· To judicial or public authorities when legally obligated to do so by law or in response to a subpoena or court order in the United Kingdom or other countries where we operate.
-
-· To business partners or potential purchasers if disclosure is necessary to effectuate the sale or transfer of business assets.
-
-· To judicial or public authorities if disclosure is required to protect the rights of Sectigo, Sectigo's customers, or the users of Sectigo's products or services.
+* To its subsidiaries and business partners who have similar privacy standards and only for the purposes addressed in this Privacy Policy.
+* To our resellers or webhosts when you place your order through that reseller or webhost.
+* To our service providers or processors who are obligated under law and contract to protect your information and only use your information in accordance with our instructions.
+* As may be necessary for audit, compliance, or corporate governance functions.
+* To judicial or public authorities when legally obligated to do so by law or in response to a subpoena or court order in the United Kingdom or other countries where we operate.
+* To business partners or potential purchasers if disclosure is necessary to effectuate the sale or transfer of business assets.
+* To judicial or public authorities if disclosure is required to protect the rights of Sectigo, Sectigo's customers, or the users of Sectigo's products or services.
 
 We may also share aggregate demographic data that does not contain any personally identifiable information.
 
@@ -495,21 +475,17 @@ Occasionally, Sectigo may also request information from you via surveys. Partici
 
 Sectigo’s Websites may contain links to external websites of Sectigo’s service providers, partners or other third-parties that have and maintain their own privacy policies and data collection, use and disclosure practices. This Privacy Policy does not apply to such Sectigo's service providers, partners or other third-parties. This Privacy Policy also does not apply to the information practices of third-party advertisers of our services, who may use cookies or other technologies to serve and offer relevant ads to you.
 
-If you access the products, services or websites of Sectigo’s service providers, partners or other third-parties, you should review those respective privacy policies as well to understand what information is collected and how it is used by them.  
+If you access the products, services or websites of Sectigo’s service providers, partners or other third-parties, you should review those respective privacy policies as well to understand what information is collected and how it is used by them.
 
 ### Information security
 
 Sectigo develops, implements, and maintains a comprehensive security program designed to protect its networks and to safeguard the information it collects and stores. Sectigo protects information both online and off-line. Below are some of the many measures that Sectigo implements:
 
-· Transmission of information, including any payment information, is encrypted and protected using TLS/SSL technology.
-
-· Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example, billing administration or the development team).
-
-· Employees are required to use password-protected screen-savers and keep their computers up-to-date.
-
-· Implementing detection and prevention controls to guard against viruses and malicious software.
-
-· Security procedures are audited in accordance with the AICPA/CICA WebTrust for Certification Authorities Principles and Criteria, the results of which are available by clicking on the WebTrust seal on sectigo.com.:
+* Transmission of information, including any payment information, is encrypted and protected using TLS/SSL technology.
+* Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example, billing administration or the development team).
+* Employees are required to use password-protected screen-savers and keep their computers up-to-date.
+* Implementing detection and prevention controls to guard against viruses and malicious software.
+* Security procedures are audited in accordance with the AICPA/CICA WebTrust for Certification Authorities Principles and Criteria, the results of which are available by clicking on the WebTrust seal on sectigo.com.
 
 You can find more information and details on how Sectigo protects your information in the CPS.  
 
@@ -519,33 +495,26 @@ Sectigo Limited is incorporated in the United Kingdom, with global offices and s
 
 If your data is transferred to a server outside of Europe, we will ensure that it is protected and transferred in a manner consistent with legal requirements and applicable laws. Information can be transferred outside Europe in a number of ways. Examples include: the country to which we send your information may be approved by the European Commission, or the recipient may have signed a contract based on the “standard contractual clauses” approved by the European Commission, obliging them to protect your information. In other circumstances, the law may permit us to otherwise transfer your information outside Europe. In all cases, any transfer of your information will be compliant with applicable data protection law.
 
-You can obtain more details of the protection given to your information when it is transferred outside Europe (including a sample of the standard contractual clauses) by contacting us at the mailing address or email address below.  
+You can obtain more details of the protection given to your information when it is transferred outside Europe (including a sample of the standard contractual clauses) by contacting us at the mailing address or email address below.
 
 ### Your rights to your information
 
 The law affords you certain rights when it comes to your information and we want to make sure you understand those rights.
 
-· You have the right to:
+* You have the right to:
+    * Request access to your information
+    * Request corrections to your information
+    * Request that your information be erased
+    * Request that the processing of your information be restricted
+    * Request return of your information
+    * Withdraw your consent
+    * In certain countries, such as France, provide directives on the processing of your personal data after your death.
+* Although you have these rights, please understand that these rights are not absolute. There may be instances where we may not be able to comply with your request or objection based on our legitimate interests, or in accordance with the legal restrictions governing these rights.
 
-o Request access to your information
+If your information (or Certificate specific information) needs to be updated, you can request that certain changes be made by logging into your Account. For any other requests, you can also contact us via email at [\[email protected\]](https://www.sectigo.com/cdn-cgi/l/email-protection). We try to respond to all legitimate requests within one month and will contact you if we need additional information from you in order to honor your request. Occasionally it may take us longer than a month, taking into account the complexity and number of requests we receive.
 
-o Request corrections to your information
-
-o Request that your information be erased
-
-o Request that the processing of your information be restricted
-
-o Request return of your information
-
-o Withdraw your consent
-
-o In certain countries, such as France, provide directives on the processing of your personal data after your death.
-
-Although you have these rights, please understand that these rights are not absolute. There may be instances where we may not be able to comply with your request or objection based on our legitimate interests, or in accordance with the legal restrictions governing these rights. If your information (or Certificate specific information) needs to be updated, you can request that certain changes be made by logging into your Account. For any other requests, you can also contact us via email at [\[email protected\]](https://www.sectigo.com/cdn-cgi/l/email-protection). We try to respond to all legitimate requests within one month and will contact you if we need additional information from you in order to honor your request. Occasionally it may take us longer than a month, taking into account the complexity and number of requests we receive.
-
-We may also process personal information submitted by or for a customer to our CodeGuard® services. To this end, if not stated otherwise in this Privacy Policy or in a separate disclosure, we process such personal information in the role of a data processor on behalf of a customer (and/or its affiliates) who is the responsible data controller of the personal information concerned. We are not responsible for and have no control over the privacy and data security practices of our customers, which may differ from those set forth in this Privacy Policy. If your information has been submitted to us by CodeGuard® customer and you wish to exercise any rights you may have under applicable data protection laws, please inquire with the applicable customer directly. Because we may only access a customer’s data upon instruction from that customer, if you wish to make your request directly to us, please provide to us the name of the CodeGuard® customer who submitted your data. We will refer your request to that customer and will support them as needed in responding to your request within a reasonable timeframe.
-
-· If you feel that the processing of your information is unlawful or violates this Privacy Policy please let us know immediately. We will work diligently to address your concerns and resolve any concerns that you may have. If you further feel that we have violated on your rights as stated in the General Data Protection Regulation (GDPR), and you are located in the European Economic Area, then you also have the right lodge a complaint with a supervisory authority. We will work with the appropriate supervisory authority to promptly resolve such complaints.
+* We may also process personal information submitted by or for a customer to our CodeGuard® services. To this end, if not stated otherwise in this Privacy Policy or in a separate disclosure, we process such personal information in the role of a data processor on behalf of a customer (and/or its affiliates) who is the responsible data controller of the personal information concerned. We are not responsible for and have no control over the privacy and data security practices of our customers, which may differ from those set forth in this Privacy Policy. If your information has been submitted to us by CodeGuard® customer and you wish to exercise any rights you may have under applicable data protection laws, please inquire with the applicable customer directly. Because we may only access a customer’s data upon instruction from that customer, if you wish to make your request directly to us, please provide to us the name of the CodeGuard® customer who submitted your data. We will refer your request to that customer and will support them as needed in responding to your request within a reasonable timeframe.
+* If you feel that the processing of your information is unlawful or violates this Privacy Policy please let us know immediately. We will work diligently to address your concerns and resolve any concerns that you may have. If you further feel that we have violated on your rights as stated in the General Data Protection Regulation (GDPR), and you are located in the European Economic Area, then you also have the right lodge a complaint with a supervisory authority. We will work with the appropriate supervisory authority to promptly resolve such complaints.
 
 ### Your choices and communication preferences
 
@@ -569,25 +538,31 @@ Despite the finite nature of Certificates, Sectigo still provides public access 
 
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit the [CCPA Privacy Notice](https://www.sectigo.com/ccpa-privacy-notice).
 
+### EU-U.S. data privacy framework, Swiss-U.S. data privacy framework, UK extension
+
+Sectigo, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Sectigo, Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Sectigo, Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit Data privacy framework website at [https://www.dataprivacyframewo...](https://www.dataprivacyframework.gov/).
+
+Sectigo, Inc. is responsible for the processing of personal data it receives, under each Data Privacy Framework, and subsequent transfers to a third party acting as an agent on its behalf. Sectigo, Inc. complies with the Data Privacy Framework Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Data Privacy Framework, Sectigo, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Sectigo, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+### Filing a complaint
+
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Sectigo, Inc. commits to resolve DPF Principles-related complaints about our collection and use of your personal data. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, should first contact Sectigo, Inc. at [\[email protected\]](https://www.sectigo.com/cdn-cgi/l/email-protection).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://www.jamsadr.com/DPF-Di...](https://www.jamsadr.com/DPF-Dispute-Resolution.Under) certain conditions, more fully described under the Data Privacy Framework website at [https://www.dataprivacyframewo...](https://www.dataprivacyframework.gov/), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Sectigo, Inc. commits to cooperate and comply with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF in the context of the employment relationship.
+
 ### Amendments to this privacy policy
 
-Sectigo reserves the right to amend this Privacy Policy at any time. If we make a material change to this Privacy Policy, or materially change the way we use or disclose your previously collected information, we will notify you by sending you an email to the primary point of contact we have on file or by posting the changes to the Sectigo Website for at least 30 days before the change takes effect.
+Sectigo reserves the right to amend this Privacy Policy at any time.
 
 ### Have questions or want to contact us?
 
 Any questions that you may have about this Privacy Policy may be submitted by email to [\[email protected\]](https://www.sectigo.com/cdn-cgi/l/email-protection). We understand and value your privacy and are committed to respond as soon as reasonably possible. You may also contact us by mail at the following locations:
 
-**MANCHESTER, UK OFFICE**
-
-Sectigo Limited  
-26 Office Village, Exchange Quay, Trafford Road  
-3rd Floor  
-Salford, Manchester  
-M5 3EQ  
-United Kingdom  
-  
-
-**BRADFORD, UK OFFICE**
+**BRADFORD, UK OFFICE**  
 
 Sectigo Limited  
 Unit 7 & 9  
@@ -599,27 +574,22 @@ United Kingdom
 **US OFFICE**
 
 Sectigo, Inc.  
-5 Becker Farm Road, Suite 300  
-Roseland, NJ 07068  
-United States
+8800 E. Raintree Drive  
+Suite 110, Scottsdale, AZ  
+85260 United States
 
 **CANADIAN OFFICE**
 
 Sectigo (Canada) Ltd.  
-1125 Innovation Drive, 2nd Floor
-
-Kanata, ON K2K 3G6
-
+1125 Innovation Drive, 2nd Floor  
+Kanata, ON K2K 3G6  
 Canada
 
 **FRANCE OFFICE**
 
-SSL247 SAS
-
-87 rue Nationale
-
-59800 Lille
-
+SSL247 SAS  
+87 rue Nationale  
+59800 Lille  
 France
 
 ![Sectigo](/images/sectigo-logo-light.svg)
