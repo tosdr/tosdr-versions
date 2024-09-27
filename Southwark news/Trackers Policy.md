@@ -19,9 +19,13 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-360x180.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
+    
+    ### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
+    
     [![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
     
-    ### [Where do Southwark’s three MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+    ### [Where do Southwark MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
     
     [![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--360x180.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
     
@@ -50,10 +54,6 @@
     [![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
     
     ### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
-    
-    [![A police are on Tower Bridge Road following Wednesday's incident. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/blurred-2-360x180.jpeg)](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
-    
-    ### [Woman hospitalised as Tower Bridge collision causes massive traffic jams](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,9 +99,13 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-360x180.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
+    
+    ### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
+    
     [![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
     
-    ### [Where do Southwark’s three MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+    ### [Where do Southwark MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
     
     [![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--360x180.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
     
@@ -130,10 +134,6 @@ View All Result
     [![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
     
     ### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
-    
-    [![A police are on Tower Bridge Road following Wednesday's incident. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/blurred-2-360x180.jpeg)](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
-    
-    ### [Woman hospitalised as Tower Bridge collision causes massive traffic jams](https://southwarknews.co.uk/news/woman-hospitalised-as-tower-bridge-collision-causes-massive-traffic-jams/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -209,17 +209,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [21st September 2024](https://southwarknews.co.uk/area/southwark/southwark-council-denies-mishandling-complaints-from-leaseholders-lumped-with-2500-heating-bills/)
 
-[![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-
-### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-
-[21st September 2024](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
-
 [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-120x86.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 [24th September 2024](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
+
+[![Those behind the new Lower Road cycle lane met politicians and business owners on site in May](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+
+### [Southwark Council to consider putting second traffic lane on Lower Road, says local councillor](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
+
+[21st September 2024](https://southwarknews.co.uk/area/rotherhithe/southwark-council-to-consider-putting-second-traffic-lane-on-lower-road-says-local-councillor/)
 
 [![The Aylesbury estate in Southwark is due to be demolished and rebuilt. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/281443832_1271655566700908_3428153952989453541_n-120x86.jpg)](https://southwarknews.co.uk/area/walworth/social-housing-on-regenerated-ayslesbury-estate-more-expensive-than-normal-council-housing-report-claims/)
 
@@ -229,9 +229,15 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-120x86.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
+
+### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
+
+[27th September 2024](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
+
 [![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-120x86.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
 
-### [Where do Southwark’s three MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
+### [Where do Southwark MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
 
 [26th September 2024](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
 
@@ -258,12 +264,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Jez Butterworth’s show comes back to London for the first time in 12 years but this time it’s south of The River](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
 
 [26th September 2024](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
-
-[![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
-
-### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
-
-[26th September 2024](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
 
 ### USEFUL PAGES
 
