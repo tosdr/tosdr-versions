@@ -5,7 +5,7 @@
 * [Create](https://splice.com/sounds/create)
 * [Skills](https://splice.com/skills)
 * [Plugins](https://splice.com/plugins)
-* [Community](https://splice.com/features/community)
+* [Community](https://splice.com/community)
 * [Blog](https://splice.com/blog)
 * [Pricing](https://splice.com/plans)
 
