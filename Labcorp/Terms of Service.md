@@ -688,7 +688,7 @@ Resources
 ---------
 
 * [Suppliers & Vendors](https://www.labcorp.com/suppliers-and-vendors)
-* [HIPAA Notice of Privacy Practices](https://www.labcorp.com/hipaa-privacy/hipaa-information)
+* [HIPAA Notice of Privacy Practices](https://www.labcorp.com/hipaa-privacy/hipaa-notice-privacy-practices)
 * [No Surprises Act](https://www.labcorp.com/patients/bill-pay/payment-options/no-surprises-act)
 
 Quick Links
@@ -726,7 +726,7 @@ Mobile Footer Menu
     * [All Provider](https://www.labcorp.com/frequently-asked-questions/provider)
 * [Resources](#)
     * [Suppliers & Vendors](https://www.labcorp.com/suppliers-and-vendors)
-    * [HIPAA Notice of Privacy Practices](https://www.labcorp.com/hipaa-privacy/hipaa-information)
+    * [HIPAA Notice of Privacy Practices](https://www.labcorp.com/hipaa-privacy/hipaa-notice-privacy-practices)
     * [No Surprises Act](https://www.labcorp.com/patients/bill-pay/payment-options/no-surprises-act)
 * [Quick Links](#)
     * [Biopharma](https://biopharma.labcorp.com/)
@@ -751,7 +751,7 @@ Mobile Footer Menu
 Legal Menu
 ----------
 
-* [Privacy Statement](https://www.labcorp.com/hipaa-privacy)
+* [Privacy Statement](https://www.labcorp.com/hipaa-privacy/hipaa-notice-privacy-practices)
 * [Terms and Conditions](https://www.labcorp.com/terms-and-conditions)
 * [Notice of Nondiscrimination](https://www.labcorp.com/labcorp-nondiscrimination-notice)
 * [Combatting Modern Slavery and Human Trafficking Statement](https://www.labcorp.com/combatting-modern-slavery)
