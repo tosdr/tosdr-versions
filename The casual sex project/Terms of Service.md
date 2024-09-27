@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/diminishing-returns-and-increasing-political-demands-on-infrastructure.jpg)[](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-perception-of-crime-since-2020-the-case-of-chattanooga.jpg)[](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/ "Read More")
 
-Issue Brief Governance, Economics Infrastructure & Transportation
+Report Public Safety
 
-Sep 24 2024
+Sep 26 2024
 
-Issue Brief Governance, Economics Infrastructure & Transportation
+Report Public Safety
 
-Sep 24 2024
+Sep 26 2024
 
-### [We Don’t Need This Much Infrastructure](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/) Diminishing Returns & Increasing Political Demands on Infrastructure
+### [The Perception of Crime Since 2020](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/) The Case of Chattanooga
 
-By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/)
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/uplifting-the-man-farthest-down.jpg)[](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/ "Read More")
+
+Commentary Health, Culture Serious Mental Illness
+
+Sep 26 2024
+
+[Uplifting the Man Farthest Down](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/)
+
+By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/wall-street-has-proven-that-trust-can-be-rebuilt.jpg)[](https://admin.mi52siterestore.com/article/wall-street-has-proven-that-trust-can-be-rebuilt/ "Read More")
 
@@ -124,25 +134,15 @@ Sep 24 2024
 
 By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/diversity-recruiting-after-students-for-fair-admissions.jpg)[](https://admin.mi52siterestore.com/article/diversity-recruiting-after-students-for-fair-admissions/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/diminishing-returns-and-increasing-political-demands-on-infrastructure.jpg)[](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/ "Read More")
 
-Commentary Education Higher Ed
+Issue Brief Governance, Economics Infrastructure & Transportation
 
 Sep 24 2024
 
-[Diversity Recruiting After ‘Students for Fair Admissions’](https://admin.mi52siterestore.com/article/diversity-recruiting-after-students-for-fair-admissions/)
+[We Don’t Need This Much Infrastructure Diminishing Returns & Increasing Political Demands on Infrastructure](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/)
 
-By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/diversity-recruiting-after-students-for-fair-admissions/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/should_medicaid_expansion_cost_more_than_employer-sponsored_insurance.jpg)[](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/ "Read More")
-
-Commentary Health, Economics Healthcare
-
-Sep 23 2024
-
-[Should Medicaid Expansion Cost More than Employer-Sponsored Insurance?](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/)
-
-By **[Theo Merkel](https://admin.mi52siterestore.com/person/theo-merkel/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/should-medicaid-expansion-cost-more-than-employer-sponsored-insurance/)
+By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/)
 
 Our Policy Areas
 ----------------
