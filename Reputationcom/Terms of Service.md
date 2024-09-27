@@ -209,22 +209,22 @@ If you want to send us notices or reach our customer support, please contact us:
 
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
     
-    ![](https://reputation.com/wp-content/uploads/2024/01/2024_social_x_icon.svg)](https://twitter.com/Reputation_Com)
+    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-x.svg)](https://twitter.com/Reputation_Com)
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
     
-    ![](https://reputation.com/wp-content/uploads/2024/01/2024_social_facebook_icon.svg)](https://www.facebook.com/profile.php?id=100064396375731)
+    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-facebook.svg)](https://www.facebook.com/profile.php?id=100064396375731)
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
     
-    ![](https://reputation.com/wp-content/uploads/2024/01/2024_social_instagram_icon.svg)](https://www.instagram.com/reputation_com/)
+    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-instagram.svg)](https://www.instagram.com/reputation_com/)
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
     
-    ![](https://reputation.com/wp-content/uploads/2022/10/youtube.svg)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
+    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-youtube.svg)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
     
-    ![](https://reputation.com/wp-content/uploads/2021/01/linkedin.svg)](https://www.linkedin.com/company/reputation-com/)
+    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-linkedin.svg)](https://www.linkedin.com/company/reputation-com/)
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
     
-    ![](https://reputation.com/wp-content/uploads/2024/01/2024_social_glassdoor_new_icon.svg)](https://www.glassdoor.com/Overview/Working-at-Reputation-com-EI_IE224737.11,25.htm)
+    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-glassdoor.svg)](https://www.glassdoor.com/Overview/Working-at-Reputation-com-EI_IE224737.11,25.htm)
 
 Company
 -------
