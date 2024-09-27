@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Inside Hamas](/wp-content/thumbnails/184-100x70.png?x53432)
+* [![The Pixel Painter](/wp-content/thumbnails/8146-100x70.jpg?x53432)
     
-    Inside Hamas
+    The Pixel Painter
     
-    What is the reality of daily life in Gaza under Hamas and can a militant religious organisation move from international pariah to meaningful political player? David Rosenberg explores the issues. ‘A m](https://documentaryheaven.com/inside-hamas/ "Inside Hamas")
-* [![My Lai Massacre](/wp-content/thumbnails/13205-100x70.jpg?x53432)
+    Hal Lasko, better known as Grandpa, worked as a graphic artist back when everything was done by hand. His family introduced him to the computer and Microsoft Paint long after he retired. Now, Grandpa](https://documentaryheaven.com/pixel-painter/ "The Pixel Painter")
+* [![Mechanized Death: Legendary Driving Safety Film](/wp-content/thumbnails/2442-100x70.jpg?x53432)
     
-    My Lai Massacre
+    Mechanized Death: Legendary Driving Safety Film
     
-    The Vietnam War was not one of America's finer moments in history for obvious reasons but there was a specific moment during the war that casts an even darker cloud over the conflict, that was th](https://documentaryheaven.com/my-lai-massacre/ "My Lai Massacre")
-* [![The Foster Home From Hell](/wp-content/thumbnails/8679-100x70.jpg?x53432)
+    Legendary “shock” driving safety film featuring numerous scenes of mutilated cars and injured/dead people and a voice over lacking in compassion.Produced in cooperation with the Ohio State Highway](https://documentaryheaven.com/mechanized-death-%e2%80%93-legendary-driving-safety-film/ "Mechanized Death: Legendary Driving Safety Film")
+* [![Extraordinary People: The Million Dollar Mind Reader](/wp-content/thumbnails/3319-100x70.jpg?x53432)
     
-    The Foster Home From Hell
+    Extraordinary People: The Million Dollar Mind Reader
     
-    This Vice News exclusive is an investigation into the a man named Jay Ram, Ram was once considered a local hero for his efforts in fostering and taking care of many young boys that were stuck in the s](https://documentaryheaven.com/foster-home-from-hell/ "The Foster Home From Hell")
-* [![Nicki Minaj: My Time Again](/wp-content/thumbnails/9526-100x70.jpg?x53432)
+    Derek Ogilvie says he can read the minds of infants who are too young to communicate verbally.Now he agrees to undergo a series of controlled experiments to test the limits of his alleged abili](https://documentaryheaven.com/extraordinary-people-the-million-dollar-mind-reader/ "Extraordinary People: The Million Dollar Mind Reader")
+* [![Vanished](/wp-content/thumbnails/14458-100x70.jpg?x53432)
     
-    Nicki Minaj: My Time Again
+    Vanished
     
-    This 40 minute MTV special is all about Nicki Minaj, and gives you an insight into her everyday life, from the effort that goes into filming her music videos and preforming live, to the rehearsals in](https://documentaryheaven.com/nicki-minaj-time/ "Nicki Minaj: My Time Again")
-* [![Britain’s Teenage Drug Runners](/wp-content/thumbnails/13560-100x70.jpg?x53432)
+    The Watts family homicides was a crime that shook America, occurring on the early morning of August 13, 2018 when Chris Watts murdered his pregnant wife Shanann and two children Bella, 4, and Celeste,](https://documentaryheaven.com/vanished/ "Vanished")
+* [![Fluoride: The Hard to Swallow Truth](/wp-content/thumbnails/5742-100x70.jpg?x53432)
     
-    Britain’s Teenage Drug Runners
+    Fluoride: The Hard to Swallow Truth
     
-    Rural villages and seaside towns across the United Kingdom now appear to be under threat, urban gangs are moving in with the sole intention to sell drugs. The police force is attempting to tackle thes](https://documentaryheaven.com/britains-teenage-drug-runners/ "Britain’s Teenage Drug Runners")
+    This short documentary looks at the initial theories behind the effectiveness of fluoride and where it originated. It goes on to show the lack of science behind the use of Fluoride and reveals Fluor](https://documentaryheaven.com/fluoride-the-hard-to-swallow-truth/ "Fluoride: The Hard to Swallow Truth")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
