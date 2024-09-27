@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-186972651099)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-186987886793)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
@@ -187,15 +187,16 @@ Search  search
 * [Free Resources](https://www.carsondellosa.com/free-resources/)
     
     * [Resource Type](https://www.carsondellosa.com/free-resources/resource-type/)
+        * [Awards & Incentives](https://www.carsondellosa.com/free-resources/resource-type/awards-incentives/)
         * [Calendars](https://www.carsondellosa.com/free-resources/resource-type/calendars/)
         * [Classroom Décor](https://www.carsondellosa.com/free-resources/resource-type/classroom-decor/)
         * [Classroom Management](https://www.carsondellosa.com/free-resources/resource-type/classroom-management/)
         * [Classroom Organization](https://www.carsondellosa.com/free-resources/resource-type/classroom-organization/)
         * [eBooks](https://www.carsondellosa.com/free-resources/resource-type/ebooks/)
         * [Hands-On Learning](https://www.carsondellosa.com/free-resources/resource-type/hands-on-learning/)
-        * [Awards & Incentives](https://www.carsondellosa.com/free-resources/resource-type/awards-incentives/)
         * [Printables](https://www.carsondellosa.com/free-resources/resource-type/printables/)
         * [Puzzles & Games](https://www.carsondellosa.com/free-resources/resource-type/puzzles-games/)
+        * [Samples](https://www.carsondellosa.com/free-resources/resource-type/samples/)
         * [Browse All](https://www.carsondellosa.com/free-resources/)
     * [Subject](https://www.carsondellosa.com/free-resources/subject/)
         * [Seasonal](https://www.carsondellosa.com/free-resources/subject/seasonal/)
@@ -360,15 +361,16 @@ Search  search
     * Back
     * [Resource Type](https://www.carsondellosa.com/free-resources/resource-type/)
         * Back
+        * [Awards & Incentives](https://www.carsondellosa.com/free-resources/resource-type/awards-incentives/)
         * [Calendars](https://www.carsondellosa.com/free-resources/resource-type/calendars/)
         * [Classroom Décor](https://www.carsondellosa.com/free-resources/resource-type/classroom-decor/)
         * [Classroom Management](https://www.carsondellosa.com/free-resources/resource-type/classroom-management/)
         * [Classroom Organization](https://www.carsondellosa.com/free-resources/resource-type/classroom-organization/)
         * [eBooks](https://www.carsondellosa.com/free-resources/resource-type/ebooks/)
         * [Hands-On Learning](https://www.carsondellosa.com/free-resources/resource-type/hands-on-learning/)
-        * [Awards & Incentives](https://www.carsondellosa.com/free-resources/resource-type/awards-incentives/)
         * [Printables](https://www.carsondellosa.com/free-resources/resource-type/printables/)
         * [Puzzles & Games](https://www.carsondellosa.com/free-resources/resource-type/puzzles-games/)
+        * [Samples](https://www.carsondellosa.com/free-resources/resource-type/samples/)
         * [Shop All](https://www.carsondellosa.com/free-resources/)
     * [Subject](https://www.carsondellosa.com/free-resources/subject/)
         * Back
