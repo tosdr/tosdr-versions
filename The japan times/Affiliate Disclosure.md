@@ -134,6 +134,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
 
+[Takaichi and Ishiba head to runoff in LDP leadership election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
+
+  [![A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424046.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
+
+[Hyogo governor to seek reelection after automatically losing his seat next week](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
+
+  [![Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
+
 [Russia has a secret war drones project in China, intel sources say](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
 
   [![Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423938.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.")](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
@@ -141,14 +149,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [As Onosato dominates the spotlight, former sumo stars exit the stage](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
 
   [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
-
-[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
-
-  [![The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423948.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
-
-[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
-
-  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
 Editors' Picks
 --------------
@@ -160,6 +160,22 @@ Editors' Picks
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
   [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Takaichi and Ishiba head to runoff in LDP leadership election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424046.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Hyogo governor to seek reelection after automatically losing his seat next week](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
 
 [WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
@@ -174,22 +190,6 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
 
   [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423948.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
-
-By [Vladimir Soldatkin](https://www.japantimes.co.jp/author/2573/vladimir-soldatkin/ "Vladimir Soldatkin") and [Guy Faulconbridge](https://www.japantimes.co.jp/author/633/guy-faulconbridge/ "Guy Faulconbridge")  
-
-  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
 Podcast
 -------
@@ -252,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[China's newest nuclear-powered submarine sank this year, U.S. says](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
+[Japan fine-tunes issuance of humanitarian visas](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
 
-5 mins ago
+34 mins ago
 
-[A global hunt for neutral rates to shape world finance costs](https://www.japantimes.co.jp/business/2024/09/27/economy/global-neutral-world-finance/ "A global hunt for neutral rates to shape world finance costs")
+[Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
 
-14 mins ago
+51 mins ago
 
-[Sharp collaborates on wooden air purifier with architect Kengo Kuma](https://www.japantimes.co.jp/business/2024/09/27/companies/sharp-air-purifier-kengo-kuma/ "Sharp collaborates on wooden air purifier with architect Kengo Kuma")
+[Toyota ends sponsorship with 'political' Olympics](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
 
-26 mins ago
+56 mins ago
 
-[Musk's X seeks Brazil comeback, retreats on 'censorship' feud](https://www.japantimes.co.jp/business/2024/09/27/companies/musk-x-brazil-censorship-feud/ "Musk's X seeks Brazil comeback, retreats on 'censorship' feud")
-
-37 mins ago
-
-[Tokyo Electron prepares for India expansion as Modi lures chipmakers](https://www.japantimes.co.jp/business/2024/09/27/companies/tokyo-electron-prepares-for-india-expansion/ "Tokyo Electron prepares for India expansion as Modi lures chipmakers")
+[Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
 
 1 hours ago
+
+[U.S. Coast Guard advising Manila as it seeks bigger Indo-Pacific footprint](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/politics/us-coast-guard-indopacific/ "U.S. Coast Guard advising Manila as it seeks bigger Indo-Pacific footprint")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
