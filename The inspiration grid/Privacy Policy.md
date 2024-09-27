@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/09/retro-fonts-roundup-feature.jpg)
+
+[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/retro-revival-the-best-fonts-for-your-vintage-inspired-designs/)
+
+### Retro Revival: The Best Fonts for your Vintage-Inspired Designs
+
 ![](https://inspgr.id/app/uploads/2024/09/driver-web-platform-main-02.jpg)
 
 [Technology](https://theinspirationgrid.com/category/technology-2/)[UX & UI Design](https://theinspirationgrid.com/category/ui-design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/growing-up-in-alphabet-city-michael-dorets-incredible-visual-autobiography/)
 
 ### Growing Up in Alphabet City: Michael Doret’s Incredible Visual Autobiography
-
-![](https://inspgr.id/app/uploads/2024/09/adesign-call-24-feature.jpg)
-
-[Architecture](https://theinspirationgrid.com/category/architecture/)[Fashion & Beauty](https://theinspirationgrid.com/category/fashion-2/)
-
-[](https://theinspirationgrid.com/editorial/elevate-your-design-career-call-for-entries-to-the-a-design-award-competition/)
-
-### Elevate Your Design Career: Call for Entries to the A’ Design Award & Competition
 
 #want
 -----
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/09/art-book-master-feature.jpg)
+
+[](https://theinspirationgrid.com/amazing-pop-culture-inspired-book-sculptures-by-book-master/)
+
+### Pop Culture-Inspired Book Sculptures by Book Master
+
+![](https://inspgr.id/app/uploads/2024/09/art-angus-gardner-feature.jpg)
+
+[](https://theinspirationgrid.com/adorable-animal-paintings-by-angus-gardner/)
+
+### Adorable Animal Paintings by Angus Gardner
+
 ![](https://inspgr.id/app/uploads/2024/09/art-qimmy-shimmy-feature.jpg)
 
 [](https://theinspirationgrid.com/unsettling-sculptures-by-qimmyshimmy/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/the-art-of-growing-food-photos-by-aleksei-boiko/)
 
 ### The Art of Growing Food: Photos by Aleksei Boiko
-
-![](https://inspgr.id/app/uploads/2024/09/art-alejandro-monge-feature.jpg)
-
-[](https://theinspirationgrid.com/incredible-sculptural-portraits-by-alejandro-monge/)
-
-### Incredible Sculptural Portraits by Alejandro Monge
-
-![](https://inspgr.id/app/uploads/2024/09/illustration-jovana-randjelovic-feature.jpg)
-
-[](https://theinspirationgrid.com/pop-culture-inspired-portraits-by-jovana-randjelovic/)
-
-### Pop Culture-Inspired Portraits by Jovana Randjelovic
 
 Awesome products for creatives
 ------------------------------
