@@ -93,7 +93,8 @@ Free standard shipping on orders over $29.00
         
         New & Featured
         
-        * [MX Creative Console](https://www.logitech.com/en-us/mx/mx-creative-console.html)
+        * [MX Creative Console](https://www.logitech.com/en-us/products/keyboards/buy-mx-creative-console.html)
+        * [Refurbished Products](https://www.logitech.com/en-us/products/refurbished.html)
         * [MX Ink for Meta Quest](https://www.logitech.com/en-us/products/vr/mx-ink.html)
         * [Casa Pop up Desk](https://www.logitech.com/en-us/products/combos/casa-pop-up-desk.html)
         * [MX Keys S Combo for Mac](https://www.logitech.com/en-us/products/combos/mx-keys-s-combo-for-mac.html)
@@ -166,7 +167,7 @@ Free standard shipping on orders over $29.00
     * [Current Offers](https://www.logitech.com/en-us/sales.html)
         -----------------------------------------------------------
         
-        [![Multiple product images with discount tags](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-current-offers.png?v=1)](https://www.logitech.com/en-us/sales.html#current-deals)
+        [![Multiple product images with discount tags](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-current-offers-2.png?v=1)](https://www.logitech.com/en-us/sales.html#current-deals)
         
         Current Offers
         
@@ -175,7 +176,7 @@ Free standard shipping on orders over $29.00
         [Gifts with Purchase](https://www.logitech.com/en-us/sales.html#gift)
         ---------------------------------------------------------------------
         
-        [![Keyboard with sleeve](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-gifts-with-purchase.png?v=1)](https://www.logitech.com/en-us/sales.html#gift)
+        [![Keyboard with sleeve](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-gifts-with-purchase-2.png?v=1)](https://www.logitech.com/en-us/sales.html#gift)
         
         Gifts with Purchase
         
@@ -184,11 +185,20 @@ Free standard shipping on orders over $29.00
         [Save with Combos](https://www.logitech.com/en-us/products/combos.html)
         -----------------------------------------------------------------------
         
-        [![Hands typing on keyboard and holding a mouse](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-partner-offers.png?v=1)](https://www.logitech.com/en-us/products/combos.html)
+        [![Hands typing on keyboard and holding a mouse](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-partner-offers-2.png?v=1)](https://www.logitech.com/en-us/products/combos.html)
         
         Save with Combos
         
         * [Save with Combos](https://www.logitech.com/en-us/products/combos.html)
+        
+        [Refurbished Products](https://www.logitech.com/en-us/products/refurbished.html)
+        --------------------------------------------------------------------------------
+        
+        [![Refurbished Products ](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-refurbished.png?v=1)](https://www.logitech.com/en-us/products/refurbished.html)
+        
+        Refurbished Products
+        
+        * [Refurbished Products](https://www.logitech.com/en-us/products/refurbished.html)
         
     
 * Discover
@@ -207,6 +217,7 @@ Free standard shipping on orders over $29.00
         * [Take Action](https://www.logitech.com/en-us/sustainability/take-action.html)
         * [Recycle](https://www.logitech.com/en-us/sustainability/recycling.html)
         * [Reporting](https://www.logitech.com/en-us/sustainability/reports-and-resources.html)
+        * [Refurbished Program](https://www.logitech.com/en-us/products/refurbished.html)
         * [Explore all](https://www.logitech.com/en-us/sustainability.html)
         
         [About Us](https://www.logitech.com/en-us/about.html)
@@ -627,6 +638,8 @@ By checking this box, I agree to the [Privacy Policy](https://store.digitalriver
 Or
 
 [CHECKOUT](https://www.logitech.com/checkout)
+
+Checkout with ESW: Clicking "Checkout" takes you to the ESW checkout, where payment is made and your order is processed by ESW, Logitech's partner for international sales.
 
 Your cart is currently empty. Begin shopping now Close
 
