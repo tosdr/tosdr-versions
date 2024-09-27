@@ -154,7 +154,15 @@ URL Shortener
 
 * [Why Cuttly?](https://cutt.ly/resources/blog/why-cuttly)
 * [URL Shortener](https://cutt.ly/)
-* [Available features](https://cutt.ly/url-shortener-features)
+* [Features & Pricing](https://cutt.ly/url-shortener-features)
+
+Link Management
+---------------
+
+* [API](https://cutt.ly/cuttly-api)
+* [Check url](https://cutt.ly/verify)
+* [CUTT URL button](https://cutt.ly/cutt-url-button)
+* [Preview mode](https://cutt.ly/preview)
 
 Cuttly Tools
 ------------
@@ -166,21 +174,19 @@ Cuttly Tools
 * [Link-in-bio](https://cutt.ly/resources/tools/link-in-bio)
 * [QR Codes](https://cutt.ly/resources/tools/qr-codes)
 * [Unshorten URL](https://cutt.ly/verify)
+* [TRAI Compliance Tool (Custom Domain Required)](https://cutt.ly/resources/blog/compliance-trai-sms-regulations)
 
-Link Management
----------------
+Cuttly Resources
+----------------
 
-* [API](https://cutt.ly/cuttly-api)
-* [Check url](https://cutt.ly/verify)
-* [CUTT URL button](https://cutt.ly/cutt-url-button)
-* [Preview mode](https://cutt.ly/preview)
-
-Cuttly
-------
-
+* [Blog](https://cutt.ly/resources/blog)
 * [Support](https://cutt.ly/resources/support)
 * [Integrations](https://cutt.ly/resources/integrations)
 * [Status](https://status.cutt.ly/)
+
+Legal & Policies
+----------------
+
 * [Terms of service](https://cutt.ly/terms)
 * [Privacy Policy](https://cutt.ly/privacy)
 * [GDPR](https://cutt.ly/privacy/#GDPR)
