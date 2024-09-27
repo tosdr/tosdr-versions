@@ -69,7 +69,7 @@
         * [Digestive Wellness](https://www.sanofi.com/en/your-health/consumer-healthcare/digestive-wellness)
         * [Pain Care](https://www.sanofi.com/en/your-health/consumer-healthcare/pain-care)
         * [Physical & Mental Wellness](https://www.sanofi.com/en/your-health/consumer-healthcare/physical-and-mental-wellness)
-    * [Patient Engagement](https://www.sanofi.com/en/your-health/patient-engagement)
+    * [Patient Community Engagement](https://www.sanofi.com/en/your-health/patient-engagement)
     * Healthcare Professionals Support
         * [Healthcare Professionals Support](https://www.sanofi.com/en/your-health/healthcare-professional-support)
         * [Managed Access Programs (MAPs)](https://www.sanofi.com/en/your-health/healthcare-professional-support/sanofi-manage-access-program)
