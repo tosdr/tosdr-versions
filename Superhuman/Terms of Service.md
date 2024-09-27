@@ -242,7 +242,7 @@ Product
 
 [AI](https://superhuman.com/ai)
 
-[Sales](https://superhuman.com/)
+[Sales](https://superhuman.com/sales)
 
 [Enterprise](https://superhuman.com/enterprise)
 
@@ -293,7 +293,7 @@ Product
 
 [AI](https://superhuman.com/ai)
 
-[Sales](https://superhuman.com/)
+[Sales](https://superhuman.com/sales)
 
 [Enterprise](https://superhuman.com/enterprise)
 
@@ -344,7 +344,7 @@ Product
 
 [AI](https://superhuman.com/ai)
 
-[Sales](https://superhuman.com/)
+[Sales](https://superhuman.com/sales)
 
 [Enterprise](https://superhuman.com/enterprise)
 
@@ -395,7 +395,7 @@ Product
 
 [AI](https://superhuman.com/ai)
 
-[Sales](https://superhuman.com/)
+[Sales](https://superhuman.com/sales)
 
 [Enterprise](https://superhuman.com/enterprise)
 
