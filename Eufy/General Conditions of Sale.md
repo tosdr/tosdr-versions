@@ -6,25 +6,7 @@
 
            
 
-[Subscribe to the new eufy S1 Pro with eufy Flex](https://www.eufy.com/products/t2080111?variant=43804834922682&ref=topbanner_1)
-
-[eufy Trade in! Save Up to $150](https://www.eufy.com/appliance-trade-in?ref=topbanner_2)
-
-[Subscribe to a true PRO eufyCam and get the triple-pro gift pack.New](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
-
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
-
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
-
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
-
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
-
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
-
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
-
-[](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
+[Join our live stream to win mysterious gift boxes and enjoy exclusive discounts!](https://www.eufy.com/livestream?ref=topbanner_1)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
@@ -174,7 +156,7 @@
     * [eufy Smart Scale P1](https://us.eufy.com/collections/smart-scale?ref=navimenu_1_4_2_img)
     * [eufy Smart Scale C1](https://us.eufy.com/products/t9146?ref=navimenu_1_4_3_img)
     
-* Security
+* Security New
     
     1. Latest Tech
     2. Security Cameras
@@ -185,22 +167,24 @@
     
     [See More](https://www.eufy.com/collections/security?ref=navimenu_2_7_copy) [Cloud Backup](https://www.eufy.com/cloud-storage?ref=navimenu_2_8_copy) [Protection Plan](https://us.eufy.com/pages/professional-monitoring-service?ref=navimenu_2_9_copy) [eufy Local Security](https://www.eufy.com/eufy-local-security?ref=navimenu_2_10_copy)
     
+    * [eufyCam S3 Pro 4-Cam Kit + 1 TB Hard Drive
+        
+        Only True Pro Sees the Unseen](https://us.eufy.com/products/bundle-t88941w1-1-t80301d1-85-1?ref=navimenu_2_1_1_img)
     * [eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive
         
-        4K, Solar Power](https://us.eufy.com/products/bundle-t88731w1-1-t80301d1-80-1?ref=navimenu_2_1_1_img)
+        4K, Solar Power](https://us.eufy.com/products/bundle-t88731w1-1-t80301d1-80-1?ref=navimenu_2_1_2_img)
     * [SoloCam S340
         
-        Dual-Cam, Solar Power, Color Night Vision](https://us.eufy.com/products/t81701w1?ref=navimenu_2_1_2_img)
+        Dual-Cam, Solar Power, Color Night Vision](https://us.eufy.com/products/t81701w1?ref=navimenu_2_1_3_img)
     * [eufy Smart Lock E30
         
-        Your home, your rules. eufy Lock.](https://us.eufy.com/products/t85f1111?ref=navimenu_2_1_3_img)
+        Your home, your rules. eufy Lock.](https://us.eufy.com/products/t85f1111?ref=navimenu_2_1_4_img)
     * [Floodlight Camera E340
         
-        NEW, Dual-Cam, 360° Coverage](https://us.eufy.com/products/t8425121?ref=navimenu_2_1_4_img)
+        NEW, Dual-Cam, 360° Coverage](https://us.eufy.com/products/t8425121?ref=navimenu_2_1_5_img)
     * [4G LTE Cam S330
         
-        No Wi-Fi, No Power, No Problem](https://us.eufy.com/products/t86p2121?ref=navimenu_2_1_5_img)
-    * [Wired Wall Light Cam S100](https://us.eufy.com/products/t84a1111?ref=navimenu_2_1_6_img)
+        No Wi-Fi, No Power, No Problem](https://us.eufy.com/products/t86p2121?ref=navimenu_2_1_6_img)
     
     [For Front Doors](https://us.eufy.com/collections/security?Application%20Environment=Front%20Door&ref=navimenu_2_1_9_copy)
     
@@ -668,7 +652,7 @@
         [Shop Holiday Lights](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_4_2_3_more_copy)
         
     
-* Special Offers Hot
+* Special Offers
     
     [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
@@ -734,10 +718,10 @@ Search our shop
 [](https://us.eufy.com/?ref=logo "eufy")
 
 * Clean
-* Security
+* Security New
 * Baby
 * Smart Lights
-* Special Offers Hot
+* Special Offers
 * Business
 * [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_copy)
 
