@@ -118,59 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Wish I started ages ago!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Shaun Gartshore
+Terri Winfield
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=98880984)  
-Network Grey (Pty) Ltd
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=60223225)  
+Lily Fern & Co
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=68943539)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=149592283)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=97751678)  
-Depot Diesel (Pty) Ltd
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=135518989)  
+TRACKFORCE (Pty) Ltd
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=49798009)  
-RADIO TYGERBERG 104FM NPC
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=107713428)  
+UniTech Solutions Pty Ltd
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=135380862)  
-Cpower Projects t/a Pro Pure Water
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=212392202)  
+Immediate Health (pty)ltd
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=148555305)  
-IEMS (PTY) ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=79226078)  
+WIP Digital Solutions
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=126381592)  
-Know Informatics
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=101597574)  
+Cape Adventure Zone
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=114308458)  
-ELLIE'S CLEANING CHICKS
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=34754491)  
+Well Hung Art
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=121831245)  
-CLEVER STUDENTS
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=102145054)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=55400894)  
-Moremi Kitchens Rustenburg
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=156511252)  
+Hydroworld T/A Milliqua
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=91851009)  
-Tiny Cuddles Photography
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=94569416)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=112359869)  
-Printo
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=6968753)  
+MOSELA GROUP Pty(ltd)
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=80932244)  
-African Roots
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=189232394)  
+Tantra Sound and Lightz
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=160634496)  
-J.M. HUMAN RESOURCES
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=71706525)  
+FX ACCOUNTING
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=eca341fcd7b59fb914ffc45be2b6d5180e4e91bce340f00db11e01bab74af101&c=1319366)  
-Kara Medical (Pty) Ltd
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=0d56aee8d63835dfaa9e8b6c6633d5c4d920fab7c224ab96165446471d89de6c&c=109036843)  
+SAUL ATHOL ACRES RENTAL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
