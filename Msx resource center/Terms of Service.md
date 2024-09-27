@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [V9978... what could it have been?](https://www.msx.org/forum/msx-talk/hardware/v9978-what-could-it-have-been?page=4 "V9978... what could it have been?")
+* [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=1 "HB-F1XD reboots/freezes in basic")
 * [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80 "Hi From Cuba, Need Help Z80 ;)")
+* [Weird SBC 3810 mouse behavior](https://www.msx.org/forum/msx-talk/hardware/weird-sbc-3810-mouse-behavior "Weird SBC 3810 mouse behavior")
+* [Omega keyboard cursor behavior](https://www.msx.org/forum/msx-talk/hardware/omega-keyboard-cursor-behavior "Omega keyboard cursor behavior")
+* [V9978... what could it have been?](https://www.msx.org/forum/msx-talk/hardware/v9978-what-could-it-have-been?page=4 "V9978... what could it have been?")
 * [Any of these need archiving?](https://www.msx.org/forum/msx-talk/software/any-of-these-need-archiving "Any of these need archiving?")
 * [Candidate games for MSX Conversion.](https://www.msx.org/forum/msx-talk/general-discussion/candidate-games-for-msx-conversion?page=4 "Candidate games for MSX Conversion. ")
-* [Omega keyboard cursor behavior](https://www.msx.org/forum/msx-talk/hardware/omega-keyboard-cursor-behavior "Omega keyboard cursor behavior")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=119 "Please help testing upcoming openMSX release!")
 * [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958?page=1 "Tracing the V9958")
-* [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=1 "HB-F1XD reboots/freezes in basic")
 * [Saving in Vampire Killer](https://www.msx.org/forum/msx-talk/general-discussion/saving-in-vampire-killer "Saving in Vampire Killer")
 * [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr?page=1 "Fastest ISR")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
 * [Pisa Devcon 2024 Italy](https://www.msx.org/forum/msx-talk/general-discussion/pisa-devcon-2024-italy?page=1 "Pisa Devcon 2024 Italy")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=57 "WonderTANG! Who wants to juice up your MSX?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
