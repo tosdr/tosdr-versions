@@ -252,7 +252,7 @@ Website Privacy Policy
 
 Thank you for visiting the Department of Homeland Security online and reviewing our website privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction.
 
-PII includes information that is personal in nature and which may be used to identify you. You may provide PII to us when you send us an e-mail message or a request for information, when you fill out a questionnaire or customer satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our website. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visit www.dhs.gov.
+PII includes information that is personal in nature and which may be used to identify you. You may provide PII to us when you send us an e-mail message or a request for information, when you fill out a questionnaire or customer satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our website. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visit .
 
 The PII you provide on a Department website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the _Privacy Act of 1974_, the _E-Government Act of 2002_, and the _Federal Records Act_.
 
@@ -413,8 +413,6 @@ This page was not helpful because the content
 
  
 
- 
-
 [Return to top](#)
 
 * [Topics](https://www.dhs.gov/topics "Topics")
@@ -427,6 +425,8 @@ This page was not helpful because the content
 ![U.S. Department of Homeland Security Seal](/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/logo-wordmark-blue.svg)
 
 [![Facebook](/themes/custom/dhs_uswds/img/social-icons/facebook.svg)](https://www.dhs.gov/facebook)
+
+[![X](/themes/custom/dhs_uswds/img/social-icons/x.svg)](https://www.dhs.gov/twitter)
 
 [![YouTube](/themes/custom/dhs_uswds/img/social-icons/youtube.svg)](https://www.dhs.gov/youtube)
 
