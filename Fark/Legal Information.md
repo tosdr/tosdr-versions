@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want more stories with less ads? Try
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this rodeo clown](https://www.fark.com/goto/13405122) ( [npr.brightspotcdn.com](https://www.fark.com/goto/13405122) ) » [(17 comments)](https://www.fark.com/comments/13405122/Photoshop-this-rodeo-clown) |
-| [Discussion](https://www.fark.com/discussion/) | ["Well, I called out my wife's sister's name in bed and boy am I not hearing the end of it" (possible nsfw content on page)](https://www.fark.com/goto/13407736) ( [thesun.co.uk](https://www.fark.com/goto/13407736) ) » [(9 comments)](https://www.fark.com/comments/13407736/Well-I-called-out-my-wifes-sisters-name-in-bed-boy-am-I-not-hearing-end-of-it-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Thursday Night Football brings us the Dallas Cowboys and New York Giants live from East Rutherford. Will Dak Prescott and the 'Boys win on the road? Or will Daniel Jones and the G-Men beat Dallas? Kickoff is at 8:15 PM ET on Prime Video](https://www.fark.com/goto/13406712) ( [espn.com](https://www.fark.com/goto/13406712) ) » [(123 comments)](https://www.fark.com/comments/13406712/Thursday-Night-Football-brings-us-Dallas-Cowboys-New-York-Giants-live-from-East-Rutherford-Will-Dak-Prescott-the-Boys-win-on-road-Or-will-Daniel-Jones-the-G-Men-beat-Dallas-Kickoff-is-at-815-PM-ET-on-Prime-Video) |
-| [Business](https://www.fark.com/business/) | [Maybe not so Super, Micro?](https://www.fark.com/goto/13407520) ( [cnbc.com](https://www.fark.com/goto/13407520) ) » [(0 comments)](https://www.fark.com/comments/13407520/Maybe-not-so-Super-Micro) |
-| [STEM](https://www.fark.com/stem/) | [Look! In the ocean! it's a bird, it's a fish, it's a crab, no...it's a sea robin](https://www.fark.com/goto/13407870) ( [cnn.com](https://www.fark.com/goto/13407870) ) » [(2 comments)](https://www.fark.com/comments/13407870/Look!-In-ocean!-its-a-bird-its-a-fish-its-a-crab-noits-a-sea-robin) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Supermodel with $80 million net worth is too poor to pay for three-night stay at a five-star hotel in the South of France. Spends $10,416 of charity funds instead](https://www.fark.com/goto/13407192) ( [metro.co.uk](https://www.fark.com/goto/13407192) ) » [(3 comments)](https://www.fark.com/comments/13407192/Supermodel-with-$80-million-net-worth-is-too-poor-to-pay-for-three-night-stay-at-a-five-star-hotel-in-South-of-France-Spends-$10416-of-charity-funds-instead) |
-| [Fandom](https://www.fark.com/fandom/) | [When Kermit the Frog gets impregnated by a Facehugger](https://www.fark.com/goto/13407442) ( [geeksaresexy.net](https://www.fark.com/goto/13407442) ) » [(0 comments)](https://www.fark.com/comments/13407442/When-Kermit-Frog-gets-impregnated-by-a-Facehugger) |
-| [D'awww](https://www.fark.com/dawww/) | [Ugly Ass Baby Aardvark Born at San Diego Zoo. Immediately Starts Chasing a Wise-Cracking Red Ant](https://www.fark.com/goto/13407264) ( [nbcsandiego.com](https://www.fark.com/goto/13407264) ) » [(1 comment)](https://www.fark.com/comments/13407264/Ugly-Ass-Baby-Aardvark-Born-at-San-Diego-Zoo-Immediately-Starts-Chasing-a-Wise-Cracking-Red-Ant) |
-| [Food](https://www.fark.com/food/) | [You're stabilizing your pickles wrong](https://www.fark.com/goto/13407130) ( [lifehacker.com](https://www.fark.com/goto/13407130) ) » [(4 comments)](https://www.fark.com/comments/13407130/Youre-stabilizing-your-pickles-wrong) |
-| [Politics](https://www.fark.com/politics/) | [The Aquaman Theory of the Presidency: The commander in chief is all powerful in certain circumstances, and totally useless in other situations. Also needs to get wet every 24 hours](https://www.fark.com/goto/13407582) ( [msnbc.com](https://www.fark.com/goto/13407582) ) » [(12 comments)](https://www.fark.com/comments/13407582/The-Aquaman-Theory-of-Presidency-The-commander-in-chief-is-all-powerful-in-certain-circumstances-totally-useless-in-other-situations-Also-needs-to-get-wet-every-24-hours) |
+| [Main](https://www.fark.com/) | [Lots of things can negatively impact your mental health. Things like a death in the family, the loss of a job, or 110 degree weather in the last week of September](https://www.fark.com/goto/13408216) ( [azfamily.com](https://www.fark.com/goto/13408216) ) » [(2 comments)](https://www.fark.com/comments/13408216/Lots-of-things-can-negatively-impact-your-mental-health-Things-like-a-death-in-family-loss-of-a-job-110-degree-weather-in-last-week-of-September) |
+| [Discussion](https://www.fark.com/discussion/) | ["Well, I called out my wife's sister's name in bed and boy am I not hearing the end of it" (possible nsfw content on page)](https://www.fark.com/goto/13407736) ( [thesun.co.uk](https://www.fark.com/goto/13407736) ) » [(17 comments)](https://www.fark.com/comments/13407736/Well-I-called-out-my-wifes-sisters-name-in-bed-boy-am-I-not-hearing-end-of-it-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [The Chicago White Sox don't want to go on the cart](https://www.fark.com/goto/13407924) ( [espn.com](https://www.fark.com/goto/13407924) ) » [(2 comments)](https://www.fark.com/comments/13407924/The-Chicago-White-Sox-dont-want-to-go-on-cart) |
+| [Business](https://www.fark.com/business/) | [Truth Social stock gets clobbered by a UAV as it dumps 7.5 million shares](https://www.fark.com/goto/13407978) ( [finance.yahoo.com](https://www.fark.com/goto/13407978) ) » [(11 comments)](https://www.fark.com/comments/13407978/Truth-Social-stock-gets-clobbered-by-a-UAV-as-it-dumps-75-million-shares) |
+| [STEM](https://www.fark.com/stem/) | [It repels tigers?](https://www.fark.com/goto/13408130) ( [space.com](https://www.fark.com/goto/13408130) ) » [(4 comments)](https://www.fark.com/comments/13408130/It-repels-tigers) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Dave Grohl pulls out at last minute. Better late than never](https://www.fark.com/goto/13407770) ( [consequence.net](https://www.fark.com/goto/13407770) ) » [(4 comments)](https://www.fark.com/comments/13407770/Dave-Grohl-pulls-out-at-last-minute-Better-late-than-never) |
+| [Fandom](https://www.fark.com/fandom/) | [Because you can't get one new overnight, or next week without a markup, Toyota ditches the Prime suffix for plugin hybrid Prius and RAV4](https://www.fark.com/goto/13408094) ( [caranddriver.com](https://www.fark.com/goto/13408094) ) » [(0 comments)](https://www.fark.com/comments/13408094/Because-you-cant-get-one-new-overnight-next-week-without-a-markup-Toyota-ditches-Prime-suffix-for-plugin-hybrid-Prius-RAV4) |
+| [D'awww](https://www.fark.com/dawww/) | ["Cats can't swim"](https://www.fark.com/goto/13407912) ( [imgur.com](https://www.fark.com/goto/13407912) ) » [(10 comments)](https://www.fark.com/comments/13407912/Cats-cant-swim) |
+| [Food](https://www.fark.com/food/) | [A roundup of all the extra fees and services supermarkets use that jack up the prices you pay](https://www.fark.com/goto/13407752) ( [salon.com](https://www.fark.com/goto/13407752) ) » [(1 comment)](https://www.fark.com/comments/13407752/A-roundup-of-all-extra-fees-services-supermarkets-use-that-jack-up-prices-you-pay) |
+| [Politics](https://www.fark.com/politics/) | [Remember the Marshmallow Test on instant gratification? That's Trump's campaign right now](https://www.fark.com/goto/13407638) ( [msnbc.com](https://www.fark.com/goto/13407638) ) » [(11 comments)](https://www.fark.com/comments/13407638/Remember-Marshmallow-Test-on-instant-gratification-Thats-Trumps-campaign-right-now) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 26 2024 20:43:48  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 27 2024 03:43:46  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
