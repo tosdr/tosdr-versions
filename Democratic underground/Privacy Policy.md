@@ -56,6 +56,11 @@ Search](https://www.democraticunderground.com/?com=search)
 
 Welcome to DU! The truly grassroots left-of-center political community where regular people, not algorithms, drive the discussions and set the standards. Join the community: [Create a free account](https://www.democraticunderground.com/?com=login&create=1) Support DU (and get rid of ads!): [Become a Star Member](https://www.democraticunderground.com/star) [Latest Breaking News](https://www.democraticunderground.com/?com=forum&id=1014) [Editorials & Other Articles](https://www.democraticunderground.com/?com=forum&id=1016) [General Discussion](https://www.democraticunderground.com/?com=forum&id=1002) [The DU Lounge](https://www.democraticunderground.com/?com=forum&id=1018) [All Forums](https://www.democraticunderground.com/?com=forums) [Issue Forums](https://www.democraticunderground.com/?com=forum&id=1311) [Culture Forums](https://www.democraticunderground.com/?com=forum&id=1312) [Alliance Forums](https://www.democraticunderground.com/?com=forum&id=1313) [Region Forums](https://www.democraticunderground.com/?com=forum&id=1314) [Support Forums](https://www.democraticunderground.com/?com=forum&id=1315) [Help & Search](https://www.democraticunderground.com/?com=search)
 
+Ezoic Services
+==============
+
+This website has an exclusive advertising contract with Ezoic Inc. (âEzoicâ), a renowned leader in website optimization, enhancing user experiences, optimizing ad performance, and generating revenue through advanced AI-powered technology. Ezoic may employ a variety of technologies on this website, including to display advertisements and enable advertising to visitors of this website. For additional information about Ezoicâs advertising partners, please see Ezoicâs Advertising Partner Page [here](https://www.ezoic.com/privacy-policy/ad-partners/).
+
 Privacy Policy
 ==============
 
