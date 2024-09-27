@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Akaza using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-akaza-using-backup4all-kb.html)  
+* [How to create an incremental backup](https://www.backup4all.com/how-to-create-an-incremental-backup-kb.html)  
     
-* [How to create a new task using Windows Task S ...](https://www.backup4all.com/how-to-create-a-new-task-using-windows-task-scheduler-kb.html)  
+* [How to back up data files from GreenQloud usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-greenqloud-using-backup4all-kb.html)  
     
-* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
+* [How to protect your data against WannaCry or ...](https://www.backup4all.com/how-to-protect-your-data-against-wannacry-or-other-ransomware-attack-kb.html)  
     
-* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
+* [How to deactivate Backup4all Monitor](https://www.backup4all.com/how-to-deactivate-backup4all-monitor-kb.html)  
     
-* [Using Backup4all - FAQ 4](https://www.backup4all.com/using-backup4all-faq-4-kb.html)  
+* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
     
 
 Choose language:
