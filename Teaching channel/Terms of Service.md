@@ -507,16 +507,14 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
 
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
- 
-
-[Use promo code FALLHARVEST24 to get a 3-credit course for $399! Now through September 26.](http://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false) [Register Now >>](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=OL&partner=&bundle=&srch=&nat=false)
-
-![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
-
-![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
-
-                                            
+                                      
 
 What are you looking for?
 
  Search
+
+This site uses cookies to enhance user experience, analyze site usage and provide a personalized browsing experience. By continuing to use this site, you are giving us your consent to do this. Learn more about cookies by visiting our [privacy policy](https://www.teachingchannel.com/privacy-policy/#cookies) page.
+
+[Learn More](https://www.teachingchannel.com/privacy-policy/#cookies)[I Agree](https://www.teachingchannel.com/)
+
+[Ok](#)
