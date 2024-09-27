@@ -165,6 +165,8 @@
     * [Link in bio tool.](https://www.linkpop.com/)
     * [QR code generator.](https://www.shopify.com/tools/qr-code-generator)
     
+* [Enterprise](https://www.shopify.com/enterprise)
+    
 * What's new
     
     * [Changelog.
