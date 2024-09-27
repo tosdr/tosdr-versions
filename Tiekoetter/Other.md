@@ -2,10 +2,10 @@ To add your instance below please open an issue on [the documentation repository
 
 | [name](https://invidious.tiekoetter.com/?sort_by=name) | [version](https://invidious.tiekoetter.com/?sort_by=version) | [type](https://invidious.tiekoetter.com/?sort_by=type) | [users](https://invidious.tiekoetter.com/?sort_by=users) | [signup](https://invidious.tiekoetter.com/?sort_by=signup) | [location](https://invidious.tiekoetter.com/?sort_by=location) | [healthUptime / Downtime displayed in percentage](https://invidious.tiekoetter.com/?sort_by=health) | [cors](https://invidious.tiekoetter.com/?sort_by=cors) | [api](https://invidious.tiekoetter.com/?sort_by=api) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.09.19-7ded745 | https | 4221 | ✔   | 🇨🇱 CL | [94.391](https://updown.io/sesu) | ✔   | ✔   |
-| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | 2024.09.24-a021b930 | https | 3990 | ✔   | 🇺🇦 UA | [96.086](https://updown.io/oo85) | ✔   | ✔   |
-| [invidious.jing.rocks](https://invidious.jing.rocks/) | 2024.09.20-578f425a | https | 3895 | ✔   | 🇯🇵 JP | [87.81](https://updown.io/cfds) | ✔   | ✔   |
-| [invidious.pr...irect.com](https://invidious.privacyredirect.com/) | 2024.09.20-a021b93 | https | 0   | ❌   | 🇫🇮 FI | [94.503](https://updown.io/xo2t) | ✔   | ✔   |
+| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.09.19-7ded745 | https | 4245 | ✔   | 🇨🇱 CL | [94.391](https://updown.io/sesu) | ✔   | ✔   |
+| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | 2024.09.24-a021b930 | https | 4011 | ✔   | 🇺🇦 UA | [96.086](https://updown.io/oo85) | ✔   | ✔   |
+| [invidious.jing.rocks](https://invidious.jing.rocks/) | 2024.09.20-578f425a | https | 3910 | ✔   | 🇯🇵 JP | [87.754](https://updown.io/cfds) | ✔   | ✔   |
+| [invidious.pr...irect.com](https://invidious.privacyredirect.com/) | 2024.09.20-a021b93 | https | 0   | ❌   | 🇫🇮 FI | [95.144](https://updown.io/xo2t) | ✔   | ✔   |
 | [zzlsbhhfvwg3...q.b32.i2p](http://zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p/) | \-  | i2p | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 | [inv.nadekonw...vyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion/) | \-  | onion | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 | [nerdvpneaggg...oad.onion](http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion/) | \-  | onion | \-  | \-  | 🇺🇦 UA | [\-](https://updown.io/p/resvf) | \-  | \-  |
