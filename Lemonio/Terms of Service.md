@@ -1,4 +1,4 @@
-[![Lemon.io](https://lemon.io/wp-content/uploads/2020/02/logo-lemon@2x.png)
+[![Lemon.io](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20390%20100'%3E%3C/svg%3E)
 
 ![Lemon.io](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20390%20100%22%3E%3C/svg%3E)](https://lemon.io/)
 
