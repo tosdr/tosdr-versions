@@ -448,41 +448,91 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 1. \-70%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+1.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 1. \-76%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
+    
+    **[Hogwarts Legacy PC](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam "Hogwarts Legacy PC")**
+    
+    Special Price $16.09 RRP $66.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+2.    [![Dead by Daylight PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/godlike-burger-button-01-1612374917359_5_.jpg)   No 2. \-58%](https://www.cdkeys.com/pc/dead-by-daylight-pc-steam-cd-key)
+    
+    **[Dead by Daylight PC](https://www.cdkeys.com/pc/dead-by-daylight-pc-steam-cd-key "Dead by Daylight PC")**
+    
+    Special Price $8.39 RRP $20.09
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![Microsoft Flight Simulator Standard 40th Anniversary Edition - PC / Xbox Series X|S](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoft_-flight-_simulator_-standard-windows-10_1.jpg)   No 3. \-57%](https://www.cdkeys.com/pc/microsoft-flight-simulator-windows-10-pc)
+    
+    **[Microsoft Flight Simulator Standard 40th Anniversary Edition - PC / Xbox Series X|S](https://www.cdkeys.com/pc/microsoft-flight-simulator-windows-10-pc "Microsoft Flight Simulator Standard 40th Anniversary Edition - PC / Xbox Series X|S")**
+    
+    Special Price $34.79 RRP $80.39
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Dark Souls Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dark-souls-remastered-pc-buy-cheap-cdkeys_4_.jpg)   No 4. \-63%](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key)
+    
+    **[Dark Souls Remastered PC](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key "Dark Souls Remastered PC")**
+    
+    Special Price $17.39 RRP $46.89
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Dark Souls III 3 Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/s/ds3-deluxe.jpg)   No 5. \-55%](https://www.cdkeys.com/pc/dark-souls-iii-3-deluxe-edition-pc-cd-key-steam)
+    
+    **[Dark Souls III 3 Deluxe Edition PC](https://www.cdkeys.com/pc/dark-souls-iii-3-deluxe-edition-pc-cd-key-steam "Dark Souls III 3 Deluxe Edition PC")**
+    
+    Special Price $36.19 RRP $80.39
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 6. \-55%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
+    
+    **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
+    
+    Special Price $25.49 RRP $56.29
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![EA Sports FC 25 - 12000 FC Points Xbox (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/f/c/fc_25_12000.jpg)   No 7. \-30%](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-12000-fc-points-xbox-ww)
+    
+    **[EA Sports FC 25 - 12000 FC Points Xbox (WW)](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-12000-fc-points-xbox-ww "EA Sports FC 25 - 12000 FC Points Xbox (WW)")**
+    
+    Special Price $82.99 RRP $117.89
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![EA SPORTS FC 25 Ultimate Edition Xbox One & Xbox Series X|S (US)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/a/ea_sports_fc_25_ultimate_edition.png)   No 8. \-26%](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-ultimate-edition-xbox-one-xbox-series-x-s-us)
+    
+    **[EA SPORTS FC 25 Ultimate Edition Xbox One & Xbox Series X|S (US)](https://www.cdkeys.com/xbox-live/ea-sports-fc-25-ultimate-edition-xbox-one-xbox-series-x-s-us "EA SPORTS FC 25 Ultimate Edition Xbox One & Xbox Series X|S (US)")**
+    
+    Special Price $76.39 RRP $103.29
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 9. \-70%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
     Special Price $9.99 RRP $33.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Test Drive Unlimited Solar Crown PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown.jpg)   No 2. \-48%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam)
-    
-    **[Test Drive Unlimited Solar Crown PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam "Test Drive Unlimited Solar Crown PC")**
-    
-    Special Price $28.09 RRP $53.59
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![The Plucky Squire PC](https://cdn.cdkeys.com/245x340/media/catalog/product/p/l/plckysqr-steam.jpg)   No 3. \-36%](https://www.cdkeys.com/pc/the-plucky-squire-pc-steam)
-    
-    **[The Plucky Squire PC](https://www.cdkeys.com/pc/the-plucky-squire-pc-steam "The Plucky Squire PC")**
-    
-    Special Price $21.39 RRP $33.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![God of War Ragnarök Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/god_of_war_ragnaro_k_deluxe_edition.jpg)   No 4. \-25%](https://www.cdkeys.com/pc/god-of-war-ragnarok-deluxe-edition-pc-steam)
-    
-    **[God of War Ragnarök Deluxe Edition PC](https://www.cdkeys.com/pc/god-of-war-ragnarok-deluxe-edition-pc-steam "God of War Ragnarök Deluxe Edition PC")**
-    
-    Special Price $60.29 RRP $80.39
     
     [Add to Wish List](# "Add to Wish List")
     
