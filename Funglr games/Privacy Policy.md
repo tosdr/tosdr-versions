@@ -126,23 +126,23 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 * No article
 
-[![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+* [![I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/survivor-energy-drink-testing-00-150x150.jpg "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
     
-    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
+    I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://saiganak.com/review/survivor-energy-drink-testing/ "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
     
-    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
-* [![SNK's ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/09/neogeo-arcade-stick-pro-4th-info-00-150x150.jpg "SNK's ")
+    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
     
-    SNK's "NEOGEO Arcade Stick Pro"Release date and Price announced!](https://saiganak.com/product/neogeo-arcade-stick-pro-4th-info/ "SNK's ")
-* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
+    "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
+* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
     
-    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
-* [![SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/12/snk-okinawa-charity-tshirt-00-150x150.jpg "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
+    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+* [![Haomaru's favorite sword ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/snk-samuraispirits2019-150x150.jpg "Haomaru's favorite sword ")
     
-    SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://saiganak.com/product/snk-okinawa-charity-tshirt/ "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
+    Haomaru's favorite sword "Meito FuguDoku"on sale!](https://saiganak.com/product/meitoh-fugudoku-preorder/ "Haomaru's favorite sword ")
 
 [](#top)
 
