@@ -29,15 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![PlayNoPay](plugins/MineCraft/icons/25x25xPlayNoPay_1632052343.png.pagespeed.ic.aOBdPpUgag.png)
+[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
 
-PlayNoPay](https://minecraft-server.net/details/PlayNoPay/ "PlayNoPay")[![MineConomy](plugins/MineCraft/icons/25x25xMineConomy_1719812585.png.pagespeed.ic.xQziuCrLtk.png)
+Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
 
-MineConomy](https://minecraft-server.net/details/MineConomy/ "MineConomy")[![TotemMC](plugins/MineCraft/icons/25x25xTotemMC_1727336201.png.pagespeed.ic.JsPeSfpeX-.jpg)
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![_Reletiv_](plugins/MineCraft/icons/25x25x_Reletiv__1612882143.png.pagespeed.ic.yGsnDMEvh9.png)
 
-TotemMC is OPEN! \[1.21 Survival with many updates coming\]](https://minecraft-server.net/details/TotemMC/ "TotemMC is OPEN! [1.21 Survival with many updates coming]") [ShadowLegends](https://minecraft-server.net/details/ShadowLegends/ "ShadowLegends")[![EasyWay](plugins/MineCraft/icons/25x25xEasyWay_1725216787.png.pagespeed.ic.uAPgA75T9o.png)
+SurvivalCraft-Survival-Skyblock-1.20](https://minecraft-server.net/details/_Reletiv_/ "SurvivalCraft-Survival-Skyblock-1.20")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-EasyWay MC](https://minecraft-server.net/details/EasyWay/ "EasyWay MC")
+BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1726669577.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+
+HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -123,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.09283 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0571 - Created by [Debaucus](https://debauc.us/)
