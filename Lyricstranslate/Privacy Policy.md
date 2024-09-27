@@ -107,63 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![uji na](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496118-1655268553.jpg)](https://lyricstranslate.com/en/translator/uji-na "uji na")
+[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
+
+New translation
+
+[Plethyn - Lawr Y Lôn](https://lyricstranslate.com/en/plethyn-lawr-y-lon-english)
+
+Welsh → English
+
+[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1705665402.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
+
+New translation
+
+[Hafez - بیا که قصرِ اَمَل سخت سست بنیادست](https://lyricstranslate.com/en/hafez-bya-kh-qsri-aamal-skht-ss-english)
+
+Persian → English
+
+[![Wolfgang Riedmann](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1405656-1544725497.jpg)](https://lyricstranslate.com/en/translator/wolfgang-riedmann "Wolfgang Riedmann")
+
+New translation
+
+[Edmund Spenser - Sonnet 38: Arion, When Through Tempests](https://lyricstranslate.com/en/edmund-spenser-sonnet-38-arion-when-th-german)
+
+English → German
+
+[![Samiezoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472786-1727009369.jpg)](https://lyricstranslate.com/en/translator/samiezoo "Samiezoo")
 
 New song
 
-[Minuano - 流星綺譚](https://lyricstranslate.com/en/minuano-tale-falling-star-lyrics)
+[✮ Keiba - Verenpunainen taivas](https://lyricstranslate.com/en/keiba-verenpunainen-taivas-lyrics)
 
-Japanese
+Finnish
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![Siamoisa](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/siamoisa "Siamoisa")
 
-New comment
+New request
 
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1166912#comment-1166912)
+[Sylvie Vartan - Хубава си, моя горо (Hubava si, moya goro)](https://lyricstranslate.com/en/request/%D1%85%D1%83%D0%B1%D0%B0%D0%B2%D0%B0-%D1%81%D0%B8-%D0%BC%D0%BE%D1%8F-%D0%B3%D0%BE%D1%80%D0%BE)
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-Really!? Thank you so much for proofreading them 🤧  [more](https://lyricstranslate.com/en/comment/1166911#comment-1166911)
-
-[![FJW136](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/fjw136 "FJW136")
-
-New song
-
-[Mauvais Œil - Toi et moi](https://lyricstranslate.com/en/mauvais-oeil-toi-et-moi-lyrics)
-
-Arabic
+Bulgarian → French
 
 [![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
 
 New song
 
-[John + Jane Q. Public - Watermelon](https://lyricstranslate.com/en/john-jane-q-public-watermelon-lyrics)
+[Blessd - Mírame](https://lyricstranslate.com/en/blessd-mirame-lyrics)
 
-English
+Spanish
 
-[![Emil Jørgensen](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1504444-1623936890.jpg)](https://lyricstranslate.com/en/translator/emil-j%C3%B8rgensen "Emil Jørgensen")
-
-New request
-
-[Dasha (USA) - Austin](https://lyricstranslate.com/en/request/austin-1)
-
-English → Danish
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-Was the very last word cut off in your lyrics? Is ...  [more](https://lyricstranslate.com/en/comment/1166910#comment-1166910)
-
-[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
+[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
 
 New translation
 
-[Anne Mattila - Vain sinä ja minä](https://lyricstranslate.com/en/anne-mattila-vain-sina-ja-mina-french)
+[Christian Hymns & Songs - मुक्ति दिलाए यीशु नाम (Mukti Dilaye Yeshu Naam)](https://lyricstranslate.com/en/christian-hymns-so-mukti-dilaye-yeshu-naam-transliteration)
 
-Finnish → French
+Hindi → Transliteration
+
+[![ravi.shahenshah](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1171260.jpg)](https://lyricstranslate.com/en/translator/ravishahenshah "ravi.shahenshah")
+
+New translation
+
+[Puto Português - Homem de Sorte](https://lyricstranslate.com/en/puto-portugues-homem-de-sorte-english)
+
+Portuguese → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
