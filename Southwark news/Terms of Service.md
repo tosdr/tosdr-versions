@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-360x180.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
+    
+    ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
+    
+    [![Cleaners protesting the action outside the council offices on Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC05211-360x180.png)](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
+    
+    ### [Exclusive: ‘How could they do this to us?’: Council’s cleaners say they are in limbo after being told their hours could be cut](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
     
     ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
@@ -46,14 +54,6 @@
     [![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
     
     ### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
-    
-    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
-    
-    ### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
-    
-    [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
-    
-    ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-360x180.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
+    
+    ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
+    
+    [![Cleaners protesting the action outside the council offices on Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC05211-360x180.png)](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
+    
+    ### [Exclusive: ‘How could they do this to us?’: Council’s cleaners say they are in limbo after being told their hours could be cut](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
     
     ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
@@ -126,14 +134,6 @@ View All Result
     [![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
     
     ### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
-    
-    [![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-360x180.jpg)](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
-    
-    ### [The way Oliver was treated was disgusting – but why is no one doing anything about it?](https://southwarknews.co.uk/featured/the-way-oliver-was-treated-was-abhorrent-but-why-is-no-one-doing-anything-about-it/)
-    
-    [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
-    
-    ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -233,6 +233,18 @@ Terms of Use
 
 ### Featured Articles
 
+[![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-120x86.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
+
+### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
+
+[27th September 2024](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
+
+[![Cleaners protesting the action outside the council offices on Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC05211-120x86.png)](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
+
+### [Exclusive: ‘How could they do this to us?’: Council’s cleaners say they are in limbo after being told their hours could be cut](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
+
+[27th September 2024](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
 
 ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
@@ -256,18 +268,6 @@ Terms of Use
 ### [Where do Southwark MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
 
 [26th September 2024](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
-
-[![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--120x86.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
-
-### [Halloween will be disrupted by south London train works](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
-
-[26th September 2024](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
-
-[![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
-
-### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
-
-[26th September 2024](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
 
 ### USEFUL PAGES
 
