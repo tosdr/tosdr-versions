@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
+    
+    ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
+    
+    [![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+    
+    ### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Alessandro-Georgiou-Conservative-member-of-the-London-Assembly-360x180.jpg)](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
+    
+    ### [Government plans to re-label parts of the Green Belt as ‘grey belt’ land for housing must be ‘clarified’, say assembly](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
+    
     [![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-360x180.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
     
     ### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
@@ -42,18 +54,6 @@
     [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
     ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
-    
-    [![An after shot of the clean-up, which shows the mural restored to its former glory. Credit: RBKC.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Banksy-mural-360x180.jpg)](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
-    
-    ### [London council cleans up Banksy animal artwork after it was vandalised](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
-    
-    [![Residents stood beside one of the new communal food waste bins. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/15256_525_GraingePhotography-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
-    
-    ### [Southwark Council gambling that one in four will recycle food waste or risk not ‘breaking even’ on borough-wide scheme](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
-    
-    [![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
-    
-    ### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
+    
+    ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
+    
+    [![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+    
+    ### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Alessandro-Georgiou-Conservative-member-of-the-London-Assembly-360x180.jpg)](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
+    
+    ### [Government plans to re-label parts of the Green Belt as ‘grey belt’ land for housing must be ‘clarified’, say assembly](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
+    
     [![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-360x180.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
     
     ### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
@@ -122,18 +134,6 @@ View All Result
     [![Previous winner (2022), Harry 'Hard Nut' Phillips.](https://southwarknews.co.uk/wp-content/uploads/2022/10/0BB11220-BCE8-476E-8300-771DF3873273-e1666092281400-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
     
     ### [Peckham’s highly competitive conker contest returns next month](https://southwarknews.co.uk/area/peckham/peckhams-highly-competitive-conker-contest-returns-next-month/)
-    
-    [![An after shot of the clean-up, which shows the mural restored to its former glory. Credit: RBKC.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Banksy-mural-360x180.jpg)](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
-    
-    ### [London council cleans up Banksy animal artwork after it was vandalised](https://southwarknews.co.uk/area/london/london-council-cleans-up-banksy-animal-artwork-after-it-was-vandalised/)
-    
-    [![Residents stood beside one of the new communal food waste bins. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/15256_525_GraingePhotography-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
-    
-    ### [Southwark Council gambling that one in four will recycle food waste or risk not ‘breaking even’ on borough-wide scheme](https://southwarknews.co.uk/area/southwark/southwark-council-gambling-that-one-in-four-will-recycle-food-waste-or-risk-not-breaking-even-on-borough-wide-scheme/)
-    
-    [![Salmon Centre young people (© London Youth, Marc Sethi, DOE)](https://southwarknews.co.uk/wp-content/uploads/2024/09/©-London-Youth_Marc-Sethi_DOE_DSCF5368-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
-    
-    ### [Bermondsey youth centre and leaseholders rejoice as dangerous cladding finally removed after 4 years of uncertainty](https://southwarknews.co.uk/area/bermondsey/bermondsey-youth-centre-and-leaseholders-rejoice-as-dangerous-cladding-finally-removed-after-4-years-of-uncertainty/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -229,6 +229,18 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
+
+### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
+
+[27th September 2024](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
+
+[![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+
+### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+
+[27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+
 [![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-120x86.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
 
 ### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
@@ -252,18 +264,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
 
 [26th September 2024](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Comedy-120x86.jpg)](https://southwarknews.co.uk/featured/shaparak-khorsandis-comedy-show-comes-to-south-london/)
-
-### [Shaparak Khorsandi’s comedy show comes to South London](https://southwarknews.co.uk/featured/shaparak-khorsandis-comedy-show-comes-to-south-london/)
-
-[26th September 2024](https://southwarknews.co.uk/featured/shaparak-khorsandis-comedy-show-comes-to-south-london/)
-
-[![Paul McGann, Kerri McLean and Amanda Ryan](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-River-cast-120x86.jpg)](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
-
-### [Jez Butterworth’s show comes back to London for the first time in 12 years but this time it’s south of The River](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
-
-[26th September 2024](https://southwarknews.co.uk/featured/jez-butterworths-show-comes-back-to-london-for-the-first-time-in-12-years-but-this-time-its-south-of-the-river/)
 
 ### USEFUL PAGES
 
