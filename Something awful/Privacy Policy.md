@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [My Method's Retoric is TRUE and NOT responsible for anything](https://www.somethingawful.com/news/jared-loughner-gunwitch/)
-* [Patch Notes: The PUBG Girl Parts Update](https://www.somethingawful.com/video-game-article/pubg-lady-parts/)
-* [A Leather Oaks Christmas (Thanks, iteration!)](https://www.somethingawful.com/awful-links/leather-oaks-christmas/)
-* [J.J. Abrams News of the Past Fifteen Minutes](https://www.somethingawful.com/news/jj-abrams-updates/)
+* [Book of ThoTH and bianca's Fetish Forum](https://www.somethingawful.com/weekend-web/book-thoth-biancas/1/)
+* [Animal Anomalies 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-part-2/1/)
+* [Dear God, Why...](https://www.somethingawful.com/comedy-goldmine/busstop-bible-studies/1/)
+* [Dinosaur Detective!](https://www.somethingawful.com/comedy-goldmine/dinosaur-detective-noir/1/)
+* [Antarctica](https://www.somethingawful.com/comedy-goldmine/antarctica-living-working/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [Is it normal for people to start deciding they love jesus in your 30s](http://forums.somethingawful.com/showthread.php?threadid=4071230 "Is it normal for people to start deciding they love jesus in your 30s")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [What's the fastest you've ever seen someone get fired?](http://forums.somethingawful.com/showthread.php?threadid=4071318 "What's the fastest you've ever seen someone get fired?")
+* ![](https://fi.somethingawful.com/forums/posticons/cc-project.png) [Goon Project: Liberate Moo Deng the baby pygmy hippo](http://forums.somethingawful.com/showthread.php?threadid=4071312 "Goon Project: Liberate Moo Deng the baby pygmy hippo")
 
 ### Random Articles
 
-* [Political Cartoon Parodies!](https://www.somethingawful.com/photoshop-phriday/political-cartoon-thread/1/)
-* [Dragon Warrior Journals II: Citizens on Patrol](https://www.somethingawful.com/news/dragon-warrior-journals-2/)
-* [Fleurcup (Thanks, Buttercream!)](https://www.somethingawful.com/awful-links/fleurcup-menstrual-cup/)
-* [Griefzilla](https://www.somethingawful.com/second-life-safari/griefzilla-plastic-duck/1/)
-* [Misadventures of Dick & Jane 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/misadventures-dick-jane-2/1/)
+* [January 1, 2012](https://www.somethingawful.com/twitter-tuesday/tt01-01-13/)
+* [Jingle Bells, Batman Smells!](https://www.somethingawful.com/comedy-goldmine/jingle-bells-batman/1/)
+* [Marylen's Costumes](https://www.somethingawful.com/awful-links/awful-link-1786/)
+* [That's My Cat! (Thanks, The Spoony Bard!)](https://www.somethingawful.com/awful-links/heirloom-cat-portraits/)
+* [Breaking News](https://www.somethingawful.com/news/breaking-news-2/)
 
 [Random!](https://www.somethingawful.com/random/)
 
