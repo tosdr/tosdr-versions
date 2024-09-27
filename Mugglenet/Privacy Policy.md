@@ -244,12 +244,6 @@ MuggleNet Archive Select Month September 2024  (23) August 2024  (30) July 202
 
 ### September 2024
 
-#### Thu, Sep 26
-
-Quirinus Quirrell's birthday
-
-Recurs yearly
-
 #### Sat, Sep 28
 
 Michael Gambon's Death 2023
@@ -286,6 +280,20 @@ Recurs yearly
 
 Albus Severus Potter (CC – London and New York)
 
+#### Thu, Oct 3
+
+Christian Coulson's birthday
+
+Recurs yearly
+
+Young Tom Riddle (CoS)
+
+Harry Potter and the Prisoner of Azkaban Illustrated Edition
+
+Recurs yearly
+
+2017
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -296,15 +304,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
+The most Ordinary Wizarding Levels a witch or wizard can receive is 12.
 
 ### Potter History
 
-April 15, 2011 – Harry Potter and the Deathly Hallows – Part 1 is released on Blu-ray and DVD in the United States.
+July 11, 2007 – Harry Potter and the Order of the Phoenix opens in United States theaters.
 
 ### Potter Quote
 
-“This little beauty’s taught us more than all the teachers in this school.”
+“Tina, you brought men home.”
 
 [](#)
 
