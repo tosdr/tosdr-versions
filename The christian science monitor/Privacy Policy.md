@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 25, 2024
+September 26, 2024
 
-Investigative journalism, Monitor style
+Eyes on a power surprise
 
-Investigative journalism is one of the media’s most powerful tools. The Monitor has done its share. But we also offer a twist.Read today’s story by Dina Kraft about Israeli Jews and Palestinians coming together to fight for one another’s humanity and safety. Ask yourself: Have I seen anything like that anywhere else? Other news outlets often ignore such stories or cordon them off as “good news.”We know they are much more. They are the seeds of a different future, and they could not be more important. We might have to dig a bit to find them. But that’s a different – and equally important – kind of investigative journalism.
+Green hydrogen from seawater and scrap aluminum?The best innovations help with two or more problems at once. They utilize what’s at hand. In today’s Points of Progress column we land on the work of researchers trying to create a clean option for maritime fuel, which is notoriously polluting.Could the discovery decarbonize heavy industry, or power homes, as the global need for energy rises? We’ll see. But it’s a Monitor hallmark to note credible wins, even nascent ones. And the turning of ocean-going vessels into old-school settings for the future of power generation represents a step worth watching.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
