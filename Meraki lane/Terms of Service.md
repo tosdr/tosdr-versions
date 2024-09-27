@@ -233,6 +233,11 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
+[consider yourself warned... 🫤 🎥 @wildmediac ![consider yourself warned... 🫤
+🎥 @wildmediaco
+📸 @thisismaxpower 
+#womenover40 #40andfab #40andfabulous #perimenopause #menopause #raisingdaughters #raisingteens #funnymom #funnymoms #relatablememe #relatablereels #funnymemes #funnyreelsvideo #imfunny #makemelaugh #canadianmom #torontomom #momlifeunfiltered #momhumor #realmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAbFUMoO6xN/) 
+
 [crazy, right? ☺️ 🎥 @wildmediaco 📸 @this ![crazy, right? ☺️
 🎥 @wildmediaco
 📸 @thisismaxpower 
@@ -257,9 +262,6 @@ my body may not look or feel the way it once did, but my 40s have put life into 
 🎥 @wildmediaco
 📸 @thisismaxpower
 #hardday #toughday #roughday #simplereminders #powerfulthoughts #powerfulwords #healingthoughts #healingwords #wordstoremember #thingsiwanttoremember #lessonslearnedinlife #lifelessonslearned #friendlyreminder #spilledwords #spilledthoughts](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ2tNFO1sS/)
-
-[this mindset >>> #powerfulwords #ceoofmylife #thi ![this mindset >>>
-#powerfulwords #ceoofmylife #thingsiwanttoremember #getoutofyourownway #countyourblessingsnotyourproblems #healingwords #gentlereminder #friendlyreminder #powerfulthoughts #remindertoself](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAJKJRfuZsr/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
