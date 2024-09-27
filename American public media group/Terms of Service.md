@@ -350,19 +350,16 @@ Minnesota Public Radio and its affiliated companies, including its national prod
 
 Our agent for notice of claims of copyright infringement on this site can be reached as follows:
 
-**By mail:**
-
-Rocky Rothrock  
-Senior Paralegal  
+**By mail:  
+**  
 Minnesota Public Radio  
+Attn: Legal Department  
 480 Cedar Street  
 Saint Paul, MN 55101
 
-**By phone:** 651-290-1199
+**By phone:** 651-290-1500
 
-**By fax:** 651-290-1243
-
-**By e-mail:** [rrothrock@mpr.org](mailto:rrothrock@mpr.org)
+**By e-mail:** [legal@mpr.org](mailto:legal@mpr.org)
 
 This contact information is only for reporting copyright infringement.
 
