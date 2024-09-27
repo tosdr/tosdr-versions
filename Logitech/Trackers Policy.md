@@ -90,7 +90,7 @@ Free standard shipping on orders over $29.00
         
         New & Featured
         
-        * [MX Creative Console](https://www.logitech.com/en-us/mx/mx-creative-console.html)
+        * [MX Creative Console](https://www.logitech.com/en-us/products/keyboards/buy-mx-creative-console.html)
         * [MX Ink for Meta Quest](https://www.logitech.com/en-us/products/vr/mx-ink.html)
         * [Casa Pop up Desk](https://www.logitech.com/en-us/products/combos/casa-pop-up-desk.html)
         * [MX Keys S Combo for Mac](https://www.logitech.com/en-us/products/combos/mx-keys-s-combo-for-mac.html)
@@ -163,7 +163,7 @@ Free standard shipping on orders over $29.00
     * [Current Offers](https://www.logitech.com/en-us/sales.html)
         -----------------------------------------------------------
         
-        [![Multiple product images with discount tags](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-current-offers.png?v=1)](https://www.logitech.com/en-us/sales.html#current-deals)
+        [![Multiple product images with discount tags](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-current-offers-2.png?v=1)](https://www.logitech.com/en-us/sales.html#current-deals)
         
         Current Offers
         
@@ -172,7 +172,7 @@ Free standard shipping on orders over $29.00
         [Gifts with Purchase](https://www.logitech.com/en-us/sales.html#gift)
         ---------------------------------------------------------------------
         
-        [![Keyboard with sleeve](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-gifts-with-purchase.png?v=1)](https://www.logitech.com/en-us/sales.html#gift)
+        [![Keyboard with sleeve](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-gifts-with-purchase-2.png?v=1)](https://www.logitech.com/en-us/sales.html#gift)
         
         Gifts with Purchase
         
@@ -181,7 +181,7 @@ Free standard shipping on orders over $29.00
         [Save with Combos](https://www.logitech.com/en-us/products/combos.html)
         -----------------------------------------------------------------------
         
-        [![Hands typing on keyboard and holding a mouse](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-partner-offers.png?v=1)](https://www.logitech.com/en-us/products/combos.html)
+        [![Hands typing on keyboard and holding a mouse](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-partner-offers-2.png?v=1)](https://www.logitech.com/en-us/products/combos.html)
         
         Save with Combos
         
