@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A hacker to me is someone creative who does wonderful things”
+“ Somewhere, something incredible is waiting to be known”
 
-[Tim Berners-Lee](https://twitter.com/wef/statuses/294738623641812992)
+[Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan)
 
 [](https://www.adafruit.com/about)
 
