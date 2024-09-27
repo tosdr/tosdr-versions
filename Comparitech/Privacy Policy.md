@@ -11,7 +11,7 @@ Search
     * [FrenchFR](https://www.comparitech.com/fr/politique-de-confidentialite/ "French")
     * [GermanDE](https://www.comparitech.com/de/datenschutzrichtlinie/ "German")
     * [SpanishES](https://www.comparitech.com/es/politica-privacidad/ "Spanish")
-    * [RussianRU](https://www.comparitech.com/ru/politika-konfidencialnosti/ "Russian")
+    * [RU](https://www.comparitech.com/ru/politika-konfidencialnosti/)
     * [DutchNL](https://www.comparitech.com/nl/privacybeleid/ "Dutch")
     * [JapaneseJA](https://www.comparitech.com/ja/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%90%e3%82%b7%e3%83%bc%e3%83%9d%e3%83%aa%e3%82%b7/ "Japanese")
 
