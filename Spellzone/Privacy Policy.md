@@ -257,9 +257,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Child-friendly privacy policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
+"This is a fantastic opportunity for our students!  I'm sure Spellzone will be invaluable in helping them to improve their spellings and therefore improve the quality of their writing in all subject areas!"
 
-**Adult student, USA**
+**Teacher, High School, UK**
 
 ### Curriculum...
 
