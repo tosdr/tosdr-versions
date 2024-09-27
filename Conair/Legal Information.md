@@ -166,7 +166,6 @@ https://www.conair.com/cart?lang=en\_US
         * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
         * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
     
     * [Facial Brushes](https://www.conair.com/facial-brushes?lang=en_US)
         
@@ -188,10 +187,6 @@ https://www.conair.com/cart?lang=en\_US
         
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
             --------------------------------------------------------
-            
-        
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
-            ----------------------------------------------
             
         
         * [Battery Operated](https://www.conair.com/facial-battery-operated?lang=en_US)
@@ -217,10 +212,6 @@ https://www.conair.com/cart?lang=en\_US
         
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
             --------------------------------------------------------
-            
-        
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
-            ----------------------------------------------
             
         
         * [Facial Rollers](https://www.conair.com/facial-rollers?lang=en_US)
@@ -249,10 +240,6 @@ https://www.conair.com/cart?lang=en\_US
             --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
-            ----------------------------------------------
-            
-        
         * [Brushes](https://www.conair.com/oral-brush?lang=en_US)
         * [Floss](https://www.conair.com/floss?lang=en_US)
         * [Replacement Heads](https://www.conair.com/oral-replacement-heads?lang=en_US)
@@ -276,10 +263,6 @@ https://www.conair.com/cart?lang=en\_US
         
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
             --------------------------------------------------------
-            
-        
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
-            ----------------------------------------------
             
         
         * [Heated Lotion Dispenser](https://www.conair.com/heated-lotion-dispenser?lang=en_US)
@@ -309,10 +292,6 @@ https://www.conair.com/cart?lang=en\_US
             --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
-            ----------------------------------------------
-            
-        
         * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
         * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
         * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
@@ -337,10 +316,6 @@ https://www.conair.com/cart?lang=en\_US
         
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
             --------------------------------------------------------
-            
-        
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
-            ----------------------------------------------
             
         
         * [Round and Oval](https://www.conair.com/round-oval?lang=en_US)
@@ -369,16 +344,11 @@ https://www.conair.com/cart?lang=en\_US
             --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
-            ----------------------------------------------
-            
-        
         * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
         * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
         * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
         * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
-        * [IPLs](https://www.conair.com/ipls?lang=en_US)
 * [Men's](https://www.conair.com/s/us-conair-sfra/conairmen.html)
     
     * [Beard Trimmers and Shavers](https://www.conair.com/trimmers?lang=en_US)
