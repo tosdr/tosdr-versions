@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/ShotSpotter-tombstone-326x245.jpeg)](https://cwbchicago.com/2024/09/as-shotspotter-is-dismantled-heres-a-final-run-down-of-people-facing-gun-charges-because-it-worked.html "As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/CPD-patch-2024-generic-edited-326x245.jpg)](https://cwbchicago.com/2024/09/man-claims-he-was-shot-in-streeterville-some-cops-arent-so-sure-about-that.html "Man claims he was shot in Streeterville, some cops aren’t so sure about that")
 
-Citywide
+Streeterville
 
-### [As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked](https://cwbchicago.com/2024/09/as-shotspotter-is-dismantled-heres-a-final-run-down-of-people-facing-gun-charges-because-it-worked.html "As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked")
+### [Man claims he was shot in Streeterville, some cops aren’t so sure about that](https://cwbchicago.com/2024/09/man-claims-he-was-shot-in-streeterville-some-cops-arent-so-sure-about-that.html "Man claims he was shot in Streeterville, some cops aren’t so sure about that")
 
-[September 23, 2024 7:48 PM](https://cwbchicago.com/2024/09)
+[September 24, 2024 6:58 AM](https://cwbchicago.com/2024/09)
 
-This will be our last rundown of people facing felony gun charges after being arrested by Chicago cops who responded to ShotSpotter alerts. Maybe the next mayor will remember these examples when they take office.[](https://cwbchicago.com/2024/09/as-shotspotter-is-dismantled-heres-a-final-run-down-of-people-facing-gun-charges-because-it-worked.html "As ShotSpotter is dismantled, here’s a final run-down of people facing gun charges because it worked")
+A man who walked into a Lakeview hospital on Monday afternoon, claiming he had been shot in the head in Streeterville, may not have been telling the truth, a law enforcement source said.[](https://cwbchicago.com/2024/09/man-claims-he-was-shot-in-streeterville-some-cops-arent-so-sure-about-that.html "Man claims he was shot in Streeterville, some cops aren’t so sure about that")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Anthony-Laya-Alvarado-326x245.jpg)](https://cwbchicago.com/2024/09/migrant-charged-with-necklace-snatching-robbery-near-goose-island.html "Migrant charged with necklace-snatching robbery near Goose Island")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Kevin-Perez-Paredes-326x245.jpg)](https://cwbchicago.com/2024/09/migrant-murdered-man-as-he-begged-for-his-life-prosecutors-say-no-no-no.html "Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’")
 
-Goose Island
+Englewood
 
-### [Migrant charged with necklace-snatching robbery near Goose Island](https://cwbchicago.com/2024/09/migrant-charged-with-necklace-snatching-robbery-near-goose-island.html "Migrant charged with necklace-snatching robbery near Goose Island")
+### [Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’](https://cwbchicago.com/2024/09/migrant-murdered-man-as-he-begged-for-his-life-prosecutors-say-no-no-no.html "Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’")
 
-[September 23, 2024 6:44 PM](https://cwbchicago.com/2024/09)
+[September 24, 2024 4:55 AM](https://cwbchicago.com/2024/09)
 
-Prosecutors have charged a Venezuelan migrant with robbery for allegedly snatching a woman’s necklace in the Clybourn Corridor on Saturday morning.[](https://cwbchicago.com/2024/09/migrant-charged-with-necklace-snatching-robbery-near-goose-island.html "Migrant charged with necklace-snatching robbery near Goose Island")
+A Venezuelan migrant faces murder charges after allegedly shooting a man in front of two witnesses as the victim pleaded for his life.[](https://cwbchicago.com/2024/09/migrant-murdered-man-as-he-begged-for-his-life-prosecutors-say-no-no-no.html "Migrant murdered man as he begged for his life, prosecutors say; ‘No! No! No!’")
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/05/Deangelo-Smith-rect-326x245.jpg)](https://cwbchicago.com/2024/09/gets-6-years-for-robbing-a-boystown-convenience-store.html "Man gets 6 years for robbing a Boystown convenience store")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Brandons-Bodies-1-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-cop-finds-woman-shot-critically-injured-on-a-street-previously-served-by-shotspotter-nobody-called-911.html "Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.")
 
-Boystown
+Greater Grand Crossing
 
-### [Man gets 6 years for robbing a Boystown convenience store](https://cwbchicago.com/2024/09/gets-6-years-for-robbing-a-boystown-convenience-store.html "Man gets 6 years for robbing a Boystown convenience store")
+### [Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.](https://cwbchicago.com/2024/09/chicago-cop-finds-woman-shot-critically-injured-on-a-street-previously-served-by-shotspotter-nobody-called-911.html "Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.")
 
-[September 23, 2024 7:16 AM](https://cwbchicago.com/2024/09)
+[September 24, 2024 3:57 AM](https://cwbchicago.com/2024/09)
 
-A man with an extensive juvenile arrest record has been given a six-year prison sentence for participating in the armed robbery of a Boystown convenience store in 2022.[](https://cwbchicago.com/2024/09/gets-6-years-for-robbing-a-boystown-convenience-store.html "Man gets 6 years for robbing a Boystown convenience store")
+Less than 24 hours after Chicago ended its relationship with ShotSpotter, a Chicago police officer found a woman shot and critically injured on a South Side street previously served by the gunfire detection system.[](https://cwbchicago.com/2024/09/chicago-cop-finds-woman-shot-critically-injured-on-a-street-previously-served-by-shotspotter-nobody-called-911.html "Chicago cop finds woman shot, critically injured on a street previously served by ShotSpotter. Nobody called 911.")
 
 Search
 
