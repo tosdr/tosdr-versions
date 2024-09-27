@@ -49,7 +49,7 @@ aanbod richt zich uitsluitend op consumenten die de aankoop doen voor privédoel
 7\. Over terugbetalingen: Terugbetalingen vinden automatisch plaats op de manier dat u oorspronkelijk hebt betaald. Tenzij u uitdrukkelijk akkoord gaat met een andere methode.  
 8\. Over de klantenservice: Ga bij vragen naar onze hulppagina’s of neem [contact](https://www.zalando.nl/faq) met ons op.  
 9\. Over mogelijke klachten: Wij hebben een meld- en klachtenprocedure opgezet om mogelijk illegale inhoud te beoordelen. Mocht u het niet eens zijn met onze beslissing, staan u verschillende rechtsmiddelen ter beschikking.  
-10\. Overig: De wettelijke rechten van de consument, waar u recht op hebt, zijn van toepassing. Meer informatie vindt u in de AV. [Hier](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/62e98c61-5e91-42ab-8875-7f1b140d27ee.pdf) kunt u ook de AV downloaden en archiveren.  
+10\. Overig: De wettelijke rechten van de consument, waar u recht op hebt, zijn van toepassing. Meer informatie vindt u in de AV. [Hier](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf) kunt u ook de AV downloaden en archiveren.  
   
 **Kennisgevings- en klachtenprocedure; buitengerechtelijke geschillenbeslechting**
 
@@ -70,7 +70,7 @@ Deel I - ALGEMENE EN AANVULLENDE VOORWAARDEN
 Deel II - ALGEMENE VOORWAARDEN VOOR DE INRUILOPTIE
 --------------------------------------------------
 
-[**PDF Download**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/62e98c61-5e91-42ab-8875-7f1b140d27ee.pdf)
+[**PDF Download**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf)
 
 **  
 Deel I:**
@@ -79,7 +79,7 @@ Indien de bepalingen van deel I strijdig zijn met die van deel II (Algemene Voor
 
 **ALGEMENE EN AANVULLENDE VOORWAARDEN**
 
-De bovenstaande aanvullende Algemene Voorwaarden zijn auteursrechtelijk beschermde intellectuele eigendom. Gebruik door derden - ook bij wijze van uittreksel - voor bedrijfsdoeleinden bij het aanbieden van goederen en/of dienstverrichtingen - is niet toegestaan. handelingen in strijd hiermee worden vervolgd.Terug naar de Algemene VoorwaardenAlgemene Voorwaarden ThuiswinkelDeze Algemene Voorwaarden van de Nederlandse Thuiswinkel Organisatie (hierna: Thuiswinkel.org) zijn tot stand gekomen in overleg met de Consumentenbond in het kader van de Coördinatiegroep Zelfreguleringsoverleg (CZ) van de Sociaal-Economische Raad en treden in werking per 1 juni 2014.
+De bovenstaande aanvullende Algemene Voorwaarden zijn auteursrechtelijk beschermde intellectuele eigendom. Gebruik door derden - ook bij wijze van uittreksel - voor bedrijfsdoeleinden bij het aanbieden van goederen en/of dienstverrichtingen - is niet toegestaan. handelingen in strijd hiermee worden vervolgd.Terug naar de Algemene VoorwaardenAlgemene Voorwaarden Thuiswinkel.
 
 **Inhoudsopgave:**
 
@@ -271,7 +271,7 @@ Duur
 1\. Voor zover niet anders is bepaald in de overeenkomst of aanvullende voorwaarden, dienen de door de consument verschuldigde bedragen te worden voldaan binnen 14 dagen na het ingaan van de bedenktermijn, of bij het ontbreken van een bedenktermijn binnen 14 dagen na het sluiten van de overeenkomst. In geval van een overeenkomst tot het verlenen van een dienst, vangt deze termijn aan op de dag nadat de consument de bevestiging van de overeenkomst heeft ontvangen.  
 2\. Bij de verkoop van producten aan consumenten mag de consument in algemene voorwaarden nimmer verplicht worden tot vooruitbetaling van meer dan 50%. Wanneer vooruitbetaling is bedongen, kan de consument geen enkel recht doen gelden aangaande de uitvoering van de desbetreffende bestelling of dienst(en), alvorens de bedongen vooruitbetaling heeft plaatsgevonden.  
 3\. De consument heeft de plicht om onjuistheden in verstrekte of vermelde betaalgegevens onverwijld aan de ondernemer te melden.  
-4\. Indien de consument niet tijdig aan zijn betalingsverplichting(en) voldoet, is deze, nadat hij door de ondernemer is gewezen op de te late betaling en de ondernemer de consument een termijn van 14 dagen heeft gegund om alsnog aan zijn betalingsverplichtingen te voldoen, na het uitblijven van betaling binnen deze 14-dagen-termijn, over het nog verschuldigde bedrag de wettelijke rente verschuldigd en is de ondernemer gerechtigd de door hem gemaakte buitengerechtelijke incassokosten in rekening te brengen. Deze incassokosten bedragen maximaal: 15% over openstaande bedragen tot € 2.500,=; 10% over de daaropvolgende € 2.500,= en 5% over de volgende € 5.000,= met een minimum van € 40,=. De ondernemer kan ten voordele van de consument afwijken van genoemde bedragen en percentages.
+4\. Indien de consument niet tijdig aan zijn betalingsverplichting(en) voldoet, is deze, nadat hij door de ondernemer is gewezen op de te late betaling en de ondernemer de consument een termijn van 14 dagen heeft gegund, ingaande de dag na ontvangst van de aanmaning, om alsnog aan zijn betalingsverplichtingen te voldoen, na het uitblijven van betaling binnen deze 14-dagen-termijn, over het nog verschuldigde bedrag de wettelijke rente verschuldigd en is de ondernemer gerechtigd de door hem gemaakte buitengerechtelijke incassokosten in rekening te brengen. Deze incassokosten bedragen maximaal: 15% over openstaande bedragen tot € 2.500; 10% over de daaropvolgende € 2.500 en 5% over de volgende € 5.000 met een minimum van € 40. De ondernemer kan ten voordele van de consument afwijken van genoemde bedragen en percentages.
 
 **Artikel 16 - Klachtenregeling**
 
@@ -304,8 +304,7 @@ Aanvullende dan wel van deze algemene voorwaarden afwijkende bepalingen mogen ni
 
 **Artikel 20 - Wijziging van de algemene voorwaarden Thuiswinkel**
 
-1\. De Nederlandse Thuiswinkel Organisatie zal deze algemene voorwaarden niet wijzigen dan in overleg met de Consumentenbond.  
-2\. Wijzigingen in deze voorwaarden zijn slechts van kracht nadat deze op daartoe geëigende wijze zijn gepubliceerd, met dien verstande, dat bij toepasselijke wijzigingen gedurende de looptijd van een aanbod de voor de consument meest gunstige bepaling zal prevaleren.  
+Wijzigingen in deze voorwaarden zijn slechts van kracht nadat deze op daartoe geëigende wijze zijn gepubliceerd, met dien verstande, dat bij toepasselijke wijzigingen gedurende de looptijd van een aanbod de voor de consument meest gunstige bepaling zal prevaleren.  
 Thuiswinkel.org  
 www.thuiswinkel.org  
 Horaplantsoen 20, 6717 LT Ede  
@@ -326,7 +325,7 @@ Besteld op\*/ontvangen op\* \[datum bestelling bij diensten of ontvangst bij pro
 
 **ALGEMENE EN AANVULLENDE VOORWAARDEN**
 
-[PDF](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/62e98c61-5e91-42ab-8875-7f1b140d27ee.pdf)  
+[PDF](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf)  
 Aanvullende algemene voorwaarden (AV) voor bestellingen via www.zalando.nlHierna willen wij u onze Algemene Voorwaarden presenteren, die ten grondslag liggen aan alle diensten die op Zalando.de worden geleverd. Wij bieden u op [www.zalando.nl](https://www.zalando.nl/)  een gepersonaliseerde shopping- en service-ervaring, die is aangepast aan uw interesses en behoeften. Op [www.zalando.nl](https://www.zalando.nl/)  verkopen wij artikelen van Zalando en partners van Zalando.  
 **De aanbiedingen op onze websites www.zalando.nl zijn uitsluitend bedoeld voor consumenten die de aankoop doen met een doel dat noch aan hun commerciële noch aan hun professionele activiteiten kan worden toegeschreven.  
 **Zalando-artikelen zijn alle artikelen, die we u op www.zalando.nl aanbieden, inclusief Zalando pre-owned fashion-artikelen, voor zover wij u er niet op wijzen dat het om een Zalando-partner-artikel gaat. Zalando-partner-artikelen zijn artikelen, die we u op [www.zalando.nl](https://www.zalando.nl/) aanbieden en die wij daar als Zalando-partner-artikel aanduiden. Alle Zalando-partners zijn zakelijke handelaren. Zalando pre-owned fashion-artikelen zijn alle artikelen, die we u op [www.zalando.nl](http://www.zalando.nl/) aanbieden en die we daar als Zalando pre-owned fashion-artikelen aanduiden.
@@ -431,7 +430,7 @@ De klantendienst kan worden gecontacteerd via onze [FAQs](https://www.zalando.nl
 **12\. TOEPASSELIJK RECHT EN VERDERE INFORMATIE**
 
 12.1 Op al onze overeenkomsten is het Nederlandse recht van toepassing.  
-12.2 U vindt deze Algemene Voorwaarden op www.zalando.nl Daarnaast kunt u dit document uitprinten of opslaan, door de gebruikelijke functie van uw internetprogramma (=browser: meestel als “document opslaan”) te gebruiken. U kunt dit document als pdf downloaden en archiveren, door [hier aanklikken.](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a9314123-588f-4577-8ec6-e15a14137e40.pdf) Om een pdf te kunnen openen, heeft een gratis programma nodig van Adobe Reader (www.adobe.com/nl/) of een vergelijkbaar programma, die het pdf-format beheerst.  
+12.2 U vindt deze Algemene Voorwaarden op www.zalando.nl Daarnaast kunt u dit document uitprinten of opslaan, door de gebruikelijke functie van uw internetprogramma (=browser: meestel als “document opslaan”) te gebruiken. U kunt dit document als pdf downloaden en archiveren, door [hier aanklikken.](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf) Om een pdf te kunnen openen, heeft een gratis programma nodig van Adobe Reader (www.adobe.com/nl/) of een vergelijkbaar programma, die het pdf-format beheerst.  
 12.3 Het gebruik van het beschikbare aanbod op [www.zalando.nl](https://www.zalando.nl/) is mogelijk voor personen die minstens 18 jaar oud zijn.  
 12.4 Elke klant mag slechts één klantenaccount bij Zalando hebben. Wij behouden ons het recht voor, meerdere aanmeldingen van één persoon te wissen.  
 12.5 U kunt ook aanvullend de gegevens van uw bestelling archiveren, door de Algemene Voorwaarden te downloaden en de op de laatste pagina van het bestelproces weergegeven gegevens met behulp van uw browserfunctie op te slaan of te wachten op de ontvangstbevestiging van uw bestelling, welke wij u tevens per e-mail zullen sturen na afloop van uw bestelling. Deze bevestiging bevat nogmaals uw bestelgegevens en onze Algemene Voorwaarden. Deze kunt u eenvoudig uitprinten, dan wel met uw e-mailprogramma opslaan.  
@@ -444,7 +443,7 @@ Postadres: Zalando SE 11501 Berlijn (Duitsland)
 Bezoekadres: Zalando SE Valeska-Gert-Straße 5 10243 Berlijn (Duitsland)  
 Ingeschreven in het handelsregister van het kantongerecht Charlottenburg Berlijn (Duitsland), HRB 158855 B  
   
-Stand: 15.07.2024  
+Stand: 27.09.2024  
 
 **Deel II**
 
