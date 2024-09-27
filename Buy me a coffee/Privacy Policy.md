@@ -59,6 +59,13 @@ Account deletion
 
 You may stop using our Service by deleting your account through the Buy Me a Coffee platform. Once you delete your account, all associated data will be removed following the deletion. If you have signed up for a membership, you can find information about your cancellation rights on our site. You will need to cancel your subscription in accordance with these cancellation rights to stop your recurring payments for the relevant subscription. Merely deleting your account without canceling your subscription will not stop these payments.
 
+On Demand Data Retrieval
+------------------------
+
+You may stop using our Service by deleting your account through the Buy Me a Coffee platform. For accounts that have been banned, all associated data will be permanently deleted 60 days after the ban takes effect. Please note that we do not accommodate requests to retrieve posted content from banned accounts, including any illegal content or content that breaches our policies.
+
+For regular accounts, if you wish to obtain a compiled copy of all your posted content, you can reach out to our support team, and we'll assist you in providing the data.
+
 Cookies
 -------
 
