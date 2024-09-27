@@ -15,8 +15,11 @@
 * OUR PRODUCTS
     
     * [CODING (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/coding/)
-    * [DOODLE LEARNING (EYFS-KS3)](https://doodlelearning.com/for-schools)
-    * [ESPRESSO (EYFS-KS2)](https://www.espresso.co.uk/)
+    * [DOODLE ENGLISH AND SPELL (KS1 – KS2)](https://discoveryeducation.co.uk/resources/primary/doodleenglish)
+    * [DOODLE MATHS AND TABLES (EYFS – KS3)](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
+    * [DREAMBOX READING PLUS (KS1 – KS4)](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
+    * [ESPRESSO (EYFS-KS2)](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
+    * [TIME FOR PHONICS (EYFS – KS1)](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
     * [AUGMENTED REALITY (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
     * [HEALTH & RELATIONSHIPS (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
     * [STEM CONNECT (KS1-KS3)](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
@@ -52,8 +55,11 @@ Open Menu Close Menu
 * OUR PRODUCTS
     
     * [CODING (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/coding/)
-    * [DOODLE LEARNING (EYFS-KS3)](https://doodlelearning.com/for-schools)
-    * [ESPRESSO (EYFS-KS2)](https://www.espresso.co.uk/)
+    * [DOODLE ENGLISH AND SPELL (KS1 – KS2)](https://discoveryeducation.co.uk/resources/primary/doodleenglish)
+    * [DOODLE MATHS AND TABLES (EYFS – KS3)](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
+    * [DREAMBOX READING PLUS (KS1 – KS4)](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
+    * [ESPRESSO (EYFS-KS2)](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
+    * [TIME FOR PHONICS (EYFS – KS1)](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
     * [AUGMENTED REALITY (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
     * [HEALTH & RELATIONSHIPS (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
     * [STEM CONNECT (KS1-KS3)](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
