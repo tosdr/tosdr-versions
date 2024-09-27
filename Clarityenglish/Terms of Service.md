@@ -33,7 +33,7 @@ Please click [here](https://www.clarityenglish.com/privacy.php) to view Clarity'
 
 ### Terms and Conditions
 
-Please click [here](https://download.clarityenglish.com/Website-Content/Terms_Conditions_2021.pdf) to view the current Terms and Condition for the ClarityEnglish online learners.
+Please click [here](https://download.clarityenglish.com/Website-Content/Terms_Conditions.pdf) to view the current Terms and Condition for the ClarityEnglish online learners.
 
 [![](/assets/images/logo-clarity-english.svg)](https://www.clarityenglish.com/) [![](/assets/images/icon-linkedin.svg)](https://hk.linkedin.com/company/clarity-english) [![](/assets/images/icon-facebook.svg)](https://www.facebook.com/pages/category/Education/ClarityEnglish-105635357541411/) [![](/assets/images/icon-youtube.svg)](https://www.youtube.com/clarityenglish)
 
