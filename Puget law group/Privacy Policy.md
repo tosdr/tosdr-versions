@@ -1,4 +1,4 @@
-[![Puget Law Group](https://cdn.powa.com/www.pugetlawgroup.com/images/wp-content/themes/hd-puget/assets/app/svg/logotype-216-critical-desktop.svg.webp "Puget Law Group")](https://www.pugetlawgroup.com/ "Puget Law Group")
+[![Puget Law Group](https://www.pugetlawgroup.com/wp-content/themes/hd-puget/assets/app/svg/logotype.svg?=v2 "Puget Law Group")](https://www.pugetlawgroup.com/ "Puget Law Group")
 
 Call For a Free Consultation **•** Available 24/7 [253-627-4696](tel:+12536274696 "Call to Puget Law Group")
 
@@ -70,7 +70,7 @@ PRIVACY POLICY
 
 If you’ve been cited or arrested for DUI or other criminal offense, or injured in an accident in the Puget Sound area, call Puget Law Group now or fill out the form on this page to discuss your situation and to schedule a free consultation. We are available 24 hours a day, 7 days a week.
 
- [![Google Reviews](https://cdn.powa.com/www.pugetlawgroup.com/images/wp-content/themes/hd-puget/assets/app/img/google-badge-309-critical-desktop.png.webp "Google Reviews")](https://www.google.com/maps/place/Puget+Law+Group/@47.2539037,-122.4406891,15z/data=!4m8!3m7!1s0x549055a72cfe4da9:0x40c4ee8795f32e94!8m2!3d47.2539037!4d-122.4406891!9m1!1b1!16s%2Fg%2F11c4387jcd?entry=ttu)[GET A FREE CASE EVALUATION](https://www.pugetlawgroup.com/contact-us/ "GET A FREE CASE EVALUATION")
+  [![Google Reviews](https://www.pugetlawgroup.com/wp-content/themes/hd-puget/assets/app/img/google-badge.png?=v2 "Google Reviews")](https://www.google.com/maps/place/Puget+Law+Group/@47.2539037,-122.4406891,15z/data=!4m8!3m7!1s0x549055a72cfe4da9:0x40c4ee8795f32e94!8m2!3d47.2539037!4d-122.4406891!9m1!1b1!16s%2Fg%2F11c4387jcd?entry=ttu)[GET A FREE CASE EVALUATION](https://www.pugetlawgroup.com/contact-us/ "GET A FREE CASE EVALUATION")
 
 1. [Home](https://www.pugetlawgroup.com/)
 »2. PRIVACY POLICY
@@ -148,7 +148,7 @@ Telephone: [253-627-4696](tel:+12536274696)
 
 Email: [info@pugetlawgroup.com](mailto:info@pugetlawgroup.com)
 
-![Puget Law Group](https://cdn.powa.com/www.pugetlawgroup.com/images/wp-content/themes/hd-puget/assets/app/svg/logotype-216-critical-desktop.svg.webp "Puget Law Group") Schedule a **Free Consultation**
+![Puget Law Group](https://www.pugetlawgroup.com/wp-content/themes/hd-puget/assets/app/svg/logotype.svg?=v2 "Puget Law Group") Schedule a **Free Consultation**
 
 Whatever your situation – DUI, Criminal Charge, or Personal Injury – PLG is ready to fight for you. Fill out the form below for a free consultation.
 
@@ -180,7 +180,7 @@ Whatever your situation – DUI, Criminal Charge, or Personal Injury – PLG is 
 938 Broadway  
 Tacoma, WA 98402
 
-[PLG SEATTLE](https://www.pugetlawgroup.com/seattle-wa/criminal-defense-lawyer/ "PLG SEATTLE")
+[PLG SEATTLE](https://www.pugetlawgroup.com/ "PLG SEATTLE")
 
 901 5th Avenue Suite 3200  
 Seattle, WA 98164
@@ -200,7 +200,7 @@ Port Orchard, WA 98366
 6703 S 234th St., Suite 130  
 Kent, WA 98032
 
-[253-627-4696](tel:+12536274696 "Call to Puget Law Group") [![Puget Law Group](https://cdn.powa.com/www.pugetlawgroup.com/images/wp-content/themes/hd-puget/assets/app/svg/logotype-216-critical-desktop.svg.webp "Puget Law Group")](https://www.pugetlawgroup.com/ "Puget Law Group")
+[253-627-4696](tel:+12536274696 "Call to Puget Law Group") [![Puget Law Group](https://www.pugetlawgroup.com/wp-content/themes/hd-puget/assets/app/svg/logotype.svg?=v2 "Puget Law Group")](https://www.pugetlawgroup.com/ "Puget Law Group")
 
 * [](https://www.facebook.com/PugetLawGroup/ "Facebook")
 * [](https://www.linkedin.com/company/puget-law-group/ "Linkedin")
@@ -250,4 +250,4 @@ Please contact an attorney to discuss your specific legal matter.
 
 © Copyright 2024 [Puget Law Group](https://www.pugetlawgroup.com/ "Puget Law Group"). All Rights Reserved.
 
-[![Hennessey Digital](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Hennessey Digital")](https://hennessey.com/?utm_source=PugetLawGroup&utm_medium=referral&utm_campaign=footer+tag " Site by Hennessey Digital")
+[![Hennessey Digital](https://www.pugetlawgroup.com/wp-content/themes/hd-puget/assets/app/svg/hd-logotype.svg?=v2 "Hennessey Digital")](https://hennessey.com/?utm_source=PugetLawGroup&utm_medium=referral&utm_campaign=footer+tag " Site by Hennessey Digital")
