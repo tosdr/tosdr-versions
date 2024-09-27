@@ -1,3 +1,7 @@
+[Fraud Prevention Toolkit is now live](https://www.veriff.com/tools/toolkits/fraud-prevention-toolkit)[Get access now](https://www.veriff.com/tools/toolkits/fraud-prevention-toolkit)
+
+[Biometric Intelligence Report Is Now Live](https://www.veriff.com/resources/ebooks/biometric-intelligence-report)[Get report now](https://www.veriff.com/resources/ebooks/biometric-intelligence-report)
+
 [![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg)](https://www.veriff.com/)
 
 * Veriff’s Cookie Notice
