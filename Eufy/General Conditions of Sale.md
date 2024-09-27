@@ -6,7 +6,7 @@
 
            
 
-[Join our live stream to win mysterious gift boxes and enjoy exclusive discounts!](https://www.eufy.com/livestream?ref=topbanner_1)
+[New｜Only True Pro Sees the Unseen](https://www.eufy.com/eufycam-pro?ref=topbanner_1)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
@@ -204,7 +204,7 @@
         
         Feature Products
         
-        [New eufyCam](https://us.eufy.com/eufycam-pro?ref=navimenu_2_2_1_1_copy) [eufyCam S330 (eufyCam 3)](https://us.eufy.com/products/t88711w1?ref=navimenu_2_2_1_2_copy)
+        [eufyCam S3 Pro](https://us.eufy.com/products/bundle-t88941w1-1-t80301d1-85-1?ref=navimenu_2_2_1_1_copy) [eufyCam S330 (eufyCam 3)](https://us.eufy.com/products/t88711w1?ref=navimenu_2_2_1_2_copy)
         
         [Shop eufyCams](https://us.eufy.com/collections/security-camera?Power=Solar&ref=navimenu_2_2_1_all_copy) [More About eufyCams](https://us.eufy.com/eufycam?ref=navimenu_2_2_1_more_copy)
         
@@ -608,12 +608,18 @@
     * [eufy Permanent Outdoor Lights E22（150ft/45m）
         
         New](https://us.eufy.com/products/bundle-t8l02121-1-t8l02121-85-1?ref=navimenu_4_1_1_img)
+    * [eufy Outdoor String Lights E10
+        
+        New](https://us.eufy.com/products/t8l10111?ref=navimenu_4_1_2_img)
     * [eufy Outdoor Spotlights E10（2pack）
         
-        New](https://us.eufy.com/products/t8l20111?ref=navimenu_4_1_2_img)
+        New](https://us.eufy.com/products/t8l20111?ref=navimenu_4_1_3_img)
     * [eufy Outdoor Pathway Lights E10(4 pack)
         
-        New](https://us.eufy.com/products/t8l30111?ref=navimenu_4_1_3_img)
+        New](https://us.eufy.com/products/t8l30111?ref=navimenu_4_1_4_img)
+    * [eufy Indoor Floor Lamp E10
+        
+        New](https://us.eufy.com/products/t8l40111?ref=navimenu_4_1_5_img)
     
     * [](https://us.eufy.com/collections/outdoor-lighting?ref=navimenu_4_2_1_copy)
         
@@ -623,7 +629,7 @@
         
         Feature Products
         
-        [eufy Permanent Outdoor Lights E22（150ft/45m）](https://us.eufy.com/products/bundle-t8l02121-1-t8l02121-85-1?ref=navimenu_4_2_1_1_copy) [Outdoor String Lights E10](https://us.eufy.com/products/t8l10111-98?ref=navimenu_4_2_1_2_copy)
+        [eufy Permanent Outdoor Lights E22（150ft/45m）](https://us.eufy.com/products/bundle-t8l02121-1-t8l02121-85-1?ref=navimenu_4_2_1_1_copy) [Outdoor String Lights E10](https://us.eufy.com/products/t8l10111?ref=navimenu_4_2_1_2_copy)
         
         [Shop Outdoor Lights](https://us.eufy.com/collections/outdoor-lighting?ref=navimenu_4_2_1_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_4_2_1_more_copy)
         
@@ -647,7 +653,7 @@
         
         Feature Products
         
-        [eufy Permanent Outdoor Lights E22 100ft](https://us.eufy.com/products/t8l02121?ref=navimenu_4_2_3_1_copy) [Indoor Floor Lamp E10](https://us.eufy.com/products/t8l40111-98?ref=navimenu_4_2_3_2_copy)
+        [eufy Permanent Outdoor Lights E22 100ft](https://us.eufy.com/products/t8l02121?ref=navimenu_4_2_3_1_copy) [Indoor Floor Lamp E10](https://us.eufy.com/products/t8l40111?ref=navimenu_4_2_3_2_copy)
         
         [Shop Holiday Lights](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_4_2_3_more_copy)
         
