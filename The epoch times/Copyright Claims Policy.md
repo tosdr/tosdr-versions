@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://www.theepochtimes.com/article/americas-anxiety-crisis-affecting-1-in-every-6-adults-5726334)
+    
+    2hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    
+    [![America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![America’s Anxiety Crisis Affecting 1 in Every 7 Adults](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730907-Depression-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/americas-anxiety-crisis-affecting-1-in-every-6-adults-5726334)
+* [New York City Mayor Adams Faces Pressure After Federal Indictment](https://www.theepochtimes.com/us/new-york-city-mayor-adams-faces-pressure-after-federal-indictment-5730900)
+    
+    3hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    
+    [![New York City Mayor Adams Faces Pressure After Federal Indictment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York City Mayor Adams Faces Pressure After Federal Indictment](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731118-Eric-Adams-AP24270549991506-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-city-mayor-adams-faces-pressure-after-federal-indictment-5730900)
+* [Biden Admin Revives Free COVID-19 Tests by Mail Program](https://www.theepochtimes.com/us/biden-admin-revives-free-covid-19-tests-by-mail-program-5730893)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Biden Admin Revives Free COVID-19 Tests by Mail Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Admin Revives Free COVID-19 Tests by Mail Program](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731078-GettyImages-1368623428KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-admin-revives-free-covid-19-tests-by-mail-program-5730893)
+* [Day in Photos: 5-Count Indictment, More Military Aids, and a Landing Hurricane](https://www.theepochtimes.com/article/day-in-photos-5-count-indictment-more-military-aids-and-a-landing-hurricane-5730173)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: 5-Count Indictment, More Military Aids, and a Landing Hurricane](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: 5-Count Indictment, More Military Aids, and a Landing Hurricane](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730962-GettyImages-2173761964-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-5-count-indictment-more-military-aids-and-a-landing-hurricane-5730173)
+* [Biden Signs Stopgap Funding Bill to Prevent Pre-Election Government Shutdown](https://www.theepochtimes.com/us/biden-signs-stopgap-funding-bill-to-prevent-pre-election-government-shutdown-5730685)
+    
+    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![Biden Signs Stopgap Funding Bill to Prevent Pre-Election Government Shutdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Signs Stopgap Funding Bill to Prevent Pre-Election Government Shutdown](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5728951-Biden_White-House_Sept24-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-signs-stopgap-funding-bill-to-prevent-pre-election-government-shutdown-5730685)
+* [Worker Strike Threat at Atlantic & Gulf Coast Shipping Ports Has Some Asking for Federal Help](https://www.theepochtimes.com/us/worker-strike-threat-at-atlantic-gulf-coast-shipping-ports-has-some-asking-for-federal-help-5730886)
+    
+    6hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    
+    [![Worker Strike Threat at Atlantic & Gulf Coast Shipping Ports Has Some Asking for Federal Help](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Worker Strike Threat at Atlantic & Gulf Coast Shipping Ports Has Some Asking for Federal Help](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731079-GettyImages-2156670225KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/worker-strike-threat-at-atlantic-gulf-coast-shipping-ports-has-some-asking-for-federal-help-5730886)
+* [Inexpensive Infusion Helps Prevent Cerebral Palsy in Babies, Clinicians Encourage Global Uptake](https://www.theepochtimes.com/health/inexpensive-infusion-helps-prevent-cerebral-palsy-in-babies-clinicians-encourage-global-uptake-5730914)
+    
+    6hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    
+    [![Inexpensive Infusion Helps Prevent Cerebral Palsy in Babies, Clinicians Encourage Global Uptake](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Inexpensive Infusion Helps Prevent Cerebral Palsy in Babies, Clinicians Encourage Global Uptake](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730998-shutterstock_1895390860_magnesium_sulfate_magnesium-205x123.jpg.webp)](https://www.theepochtimes.com/health/inexpensive-infusion-helps-prevent-cerebral-palsy-in-babies-clinicians-encourage-global-uptake-5730914)
 * [Southwest Airlines Announces Operational Overhaul, Including End to Open Seating](https://www.theepochtimes.com/business/southwest-airlines-announces-operational-overhaul-including-end-to-open-seating-5730788)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Southwest Airlines Announces Operational Overhaul, Including End to Open Seating](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Southwest Airlines Announces Operational Overhaul, Including End to Open Seating](https://img.theepochtimes.com/assets/uploads/2023/05/25/id5291851-Air-Travel-1-205x123.jpg.webp)](https://www.theepochtimes.com/business/southwest-airlines-announces-operational-overhaul-including-end-to-open-seating-5730788)
+* [Hurricane Helene Set to Hit as Category 4, Authorities Warn: ‘Take Cover Now’](https://www.theepochtimes.com/us/hurricane-helene-strengthens-to-category-4-ahead-of-florida-landfall-5730541)
+    
+    8hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Hurricane Helene Set to Hit as Category 4, Authorities Warn: ‘Take Cover Now’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane Helene Set to Hit as Category 4, Authorities Warn: ‘Take Cover Now’](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731075-GettyImages-2174658309KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-helene-strengthens-to-category-4-ahead-of-florida-landfall-5730541)
 * [Federal Prosecutors Charge NYC Mayor Eric Adams: 7 Things We Know So Far](https://www.theepochtimes.com/us/federal-prosecutors-charge-nyc-mayor-eric-adams-7-things-we-know-so-far-5730678)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Federal Prosecutors Charge NYC Mayor Eric Adams: 7 Things We Know So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Prosecutors Charge NYC Mayor Eric Adams: 7 Things We Know So Far](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730968-Eric-Adams-GettyImages-2173761964-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-prosecutors-charge-nyc-mayor-eric-adams-7-things-we-know-so-far-5730678)
-* [Biden, Harris Host Zelenskyy to Discuss Next Steps in Russia–Ukraine War](https://www.theepochtimes.com/world/biden-harris-host-zelenskyy-to-discuss-next-steps-in-russia-ukraine-war-5730737)
-    
-    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Biden, Harris Host Zelenskyy to Discuss Next Steps in Russia–Ukraine War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden, Harris Host Zelenskyy to Discuss Next Steps in Russia–Ukraine War](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730905-Zelenskyy-GettyImages-2174693598-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-harris-host-zelenskyy-to-discuss-next-steps-in-russia-ukraine-war-5730737)
-* [Hurricane Helene Will Be ‘Multi-State Event’: Here’s Which States Will Be Impacted](https://www.theepochtimes.com/us/hurricane-helene-will-be-multi-state-event-heres-which-states-will-be-impacted-5730798)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Hurricane Helene Will Be ‘Multi-State Event’: Here’s Which States Will Be Impacted](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hurricane Helene Will Be ‘Multi-State Event’: Here’s Which States Will Be Impacted](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730817-rain-1199-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-helene-will-be-multi-state-event-heres-which-states-will-be-impacted-5730798)
-* [Wisconsin City Clerk Office Confirms It Sent Out 2,200 Duplicate Ballots](https://www.theepochtimes.com/us/wisconsin-city-clerk-office-confirms-it-sent-out-2200-duplicate-ballots-5730752)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Wisconsin City Clerk Office Confirms It Sent Out 2,200 Duplicate Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wisconsin City Clerk Office Confirms It Sent Out 2,200 Duplicate Ballots](https://img.theepochtimes.com/assets/uploads/2024/03/21/id5612205-GettyImages-1440067395-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-city-clerk-office-confirms-it-sent-out-2200-duplicate-ballots-5730752)
-* [Appeals Court Seems Skeptical of New York Civil Fraud Suit Against Trump](https://www.theepochtimes.com/us/appeals-court-seems-skeptical-of-letitia-jamess-civil-fraud-suit-against-trump-5730793)
-    
-    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Appeals Court Seems Skeptical of New York Civil Fraud Suit Against Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Appeals Court Seems Skeptical of New York Civil Fraud Suit Against Trump](https://img.theepochtimes.com/assets/uploads/2022/11/04/letitia-james-1-205x123.jpeg.webp)](https://www.theepochtimes.com/us/appeals-court-seems-skeptical-of-letitia-jamess-civil-fraud-suit-against-trump-5730793)
-* [VA Making Tele-Emergency Care Available to Veterans Nationwide](https://www.theepochtimes.com/us/va-making-tele-emergency-care-available-to-veterans-nationwide-5730691)
-    
-    3hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![VA Making Tele-Emergency Care Available to Veterans Nationwide](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![VA Making Tele-Emergency Care Available to Veterans Nationwide](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730937-VA_JF_06082021-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/va-making-tele-emergency-care-available-to-veterans-nationwide-5730691)
-* [Rob Lowe Shares How He Reconnected With His Wife After Becoming an Empty Nester](https://www.theepochtimes.com/entertainment/rob-lowe-shares-how-he-reconnected-with-his-wife-after-becoming-an-empty-nester-5730326)
-    
-    6hr By [Haika Mrema](https://www.theepochtimes.com/author/haika-mrema)
-    
-    [![Rob Lowe Shares How He Reconnected With His Wife After Becoming an Empty Nester](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Rob Lowe Shares How He Reconnected With His Wife After Becoming an Empty Nester](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730778-GettyImages-1150601348-e1727309576979-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/rob-lowe-shares-how-he-reconnected-with-his-wife-after-becoming-an-empty-nester-5730326)
-* [Weekly Jobless Claims Drop to 4-Month Low as Hiring, Firing Stall](https://www.theepochtimes.com/business/weekly-jobless-claims-drop-to-4-month-low-as-hiring-firing-stalls-5730657)
-    
-    6hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Weekly Jobless Claims Drop to 4-Month Low as Hiring, Firing Stall](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Weekly Jobless Claims Drop to 4-Month Low as Hiring, Firing Stall](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730767-leadoutside-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/weekly-jobless-claims-drop-to-4-month-low-as-hiring-firing-stalls-5730657)
-* [Federal Judge Unseals Indictment Against New York Mayor Eric Adams Alleging He Took Bribes](https://www.theepochtimes.com/us/federal-judge-unseals-indictment-against-new-york-mayor-eric-adams-alleging-he-took-bribes-5730655)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Federal Judge Unseals Indictment Against New York Mayor Eric Adams Alleging He Took Bribes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Unseals Indictment Against New York Mayor Eric Adams Alleging He Took Bribes](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730766-Eric-Adams-AP24270551839461-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-unseals-indictment-against-new-york-mayor-eric-adams-alleging-he-took-bribes-5730655)
+    ![Federal Prosecutors Charge NYC Mayor Eric Adams: 7 Things We Know So Far](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731098-Eric-Adams-GettyImages-2173762292-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-prosecutors-charge-nyc-mayor-eric-adams-7-things-we-know-so-far-5730678)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
