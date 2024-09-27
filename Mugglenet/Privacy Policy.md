@@ -304,15 +304,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
+Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
 
 ### Potter History
 
-October 1999 – MuggleNet opens its doors as one of the first fansites dedicated to Harry Potter. To this day, the website, founded by then 12-year-old Emerson Spartz, is still the most visited Harry Potter fansite online.
+December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
 
 ### Potter Quote
 
-“Honestly, woman, you call yourself our mother? Can’t you tell I’m George?”
+“You’ve gone middle head!”
 
 [](#)
 
