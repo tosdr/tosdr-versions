@@ -314,7 +314,7 @@ Cuttly Tools
 * [Link-in-bio](https://cutt.ly/resources/tools/link-in-bio)
 * [QR Codes](https://cutt.ly/resources/tools/qr-codes)
 * [Unshorten URL](https://cutt.ly/verify)
-* [TRAI Compliance Tool (Custom Domain Required)](https://cutt.ly/resources/blog/compliance-trai-sms-regulations)
+* [TRAI SMS Compliance Tool](https://cutt.ly/resources/blog/compliance-trai-sms-regulations)
 
 Cuttly Resources
 ----------------
