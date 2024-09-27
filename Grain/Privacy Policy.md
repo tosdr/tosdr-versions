@@ -190,11 +190,11 @@ If you have questions regarding this Policy or about the privacy practices of Gr
 Grain Intelligence, Inc.  
 Attn: Privacy Officer
 
-548 Market Street
+250 N 100 W
 
-PMB 39303
+Unit #103
 
-San Francisco, CA 94104
+Provo, UT 84601
 
 ‍
 -
