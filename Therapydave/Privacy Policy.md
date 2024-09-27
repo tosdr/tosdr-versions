@@ -5,19 +5,14 @@
 
 TherapyDave - Dave Lechnyr, LCSW
 
-Individual Therapy & Couples Counseling in Eugene, Oregon
+Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 
-* [Meet Dave](https://therapydave.com/about-eugene-psychotherapist/)
-* [Couples Counseling](https://therapydave.com/couples-therapy/)
-* [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
+* [About](https://therapydave.com/about-eugene-psychotherapist/)
+* [Gottman Couples Therapy](https://therapydave.com/couples-therapy/)
+* [Individual Counseling](https://therapydave.com/eugene-psychotherapy/)
 * [FAQ](https://therapydave.com/psychotherapist-faqs/)
-* [Locations](https://therapydave.com/therapist-eugene-oregon/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
-    * [Blog](https://therapydave.com/eugene-psychotherapist-resources/)
-    * [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
-* [Request Appointment](https://therapydave.com/therapist-appointments/)
-
-You are here: [Home](https://therapydave.com/) / Privacy Policy
+* [Appointments](https://therapydave.com/therapist-appointments/)
 
 Privacy Policy
 ==============
@@ -117,7 +112,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”_
+_“I’ve had a lot of therapists over the last 17 years and I’ve never had a counselor bring me through this much progress... ever. Not even close.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
@@ -126,17 +121,11 @@ _“I used to feel like a complete mess. I was starting to lose myself and every
 Dave Lechnyr, LCSW  
 2440 Willamette Street, Suite 101-C  
 Eugene, OR 97405-3170  
-Office Hours: Monday – Thursday, 9:00 AM - 6:00 PM  
-Phone: 541-705-4666  
-  
-Proudly serving clients in Eugene, OR, and via telehealth across Oregon and Arizona.  
-  
-_In crisis? Call the [National Suicide Prevention Lifeline](https://988lifeline.org/) at 1-800-273-TALK (8255). [Additional Mental Health Resources](https://therapydave.com/mental-health-crisis-resources/)._
+541-705-4666
 
-* [Notice of Privacy Practices](https://therapydave.com/notice-of-privacy-practices/)
-* [Terms of Service](https://therapydave.com/terms/)
-* [Privacy Policy](https://therapydave.com/privacy/)
+* [Terms](https://therapydave.com/terms/)
+* [Privacy](https://therapydave.com/privacy/)
 * [Disclaimer](https://therapydave.com/disclaimer/)
 * [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
-* [Accessibility Statement](https://therapydave.com/accessibility-statement/)
+* [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
 * [Client Portal](https://clients.therapydave.com/)
