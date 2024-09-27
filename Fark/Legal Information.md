@@ -230,11 +230,12 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want to see behind the curtain? Try
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +335,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Free at-home COVID test kits available again. 4 tests to every residential address, shipped free. Keep yourself safe during the fall spike, use them as part of your Halloween costume, whatever](https://www.fark.com/goto/13407310) ( [special.usps.com](https://www.fark.com/goto/13407310) ) » [(8 comments)](https://www.fark.com/comments/13407310/Free-at-home-COVID-test-kits-available-again-4-tests-to-every-residential-address-shipped-free-Keep-yourself-safe-during-fall-spike-use-them-as-part-of-your-Halloween-costume-whatever) |
-| [Discussion](https://www.fark.com/discussion/) | ["My wife's current obsession has forced me to threaten to get a vasectomy. Will that make a vast difference in the long run?"](https://www.fark.com/goto/13407172) ( [slate.com](https://www.fark.com/goto/13407172) ) » [(11 comments)](https://www.fark.com/comments/13407172/My-wifes-current-obsession-has-forced-me-to-threaten-to-get-a-vasectomy-Will-that-make-a-vast-difference-in-long-run) |
-| [Sports](https://www.fark.com/sports/) | [Davante Adams wants Commanders rookie over Raiders' QBs. Pretty sure you're not supposed to throw your own team that far under the bus](https://www.fark.com/goto/13407210) ( [theshadowleague.com](https://www.fark.com/goto/13407210) ) » [(0 comments)](https://www.fark.com/comments/13407210/Davante-Adams-wants-Commanders-rookie-over-Raiders-QBs-Pretty-sure-youre-not-supposed-to-throw-your-own-team-that-far-under-bus) |
-| [Business](https://www.fark.com/business/) | [If at first you don't succeed, lower your standards](https://www.fark.com/goto/13407140) ( [bbc.com](https://www.fark.com/goto/13407140) ) » [(2 comments)](https://www.fark.com/comments/13407140/If-at-first-you-dont-succeed-lower-your-standards) |
-| [STEM](https://www.fark.com/stem/) | [Japanese researchers use AI to scan aerial photos, discover 300 new geoglyphs in Nazca. The relatively small geoglyphs feature humans and animals, including an orca holding a knife, but not a bear holding a shark](https://www.fark.com/goto/13407284) ( [mainichi.jp](https://www.fark.com/goto/13407284) ) » [(3 comments)](https://www.fark.com/comments/13407284/Japanese-researchers-use-AI-to-scan-aerial-photos-discover-300-new-geoglyphs-in-Nazca-The-relatively-small-geoglyphs-feature-humans-animals-including-an-orca-holding-a-knife-but-not-a-bear-holding-a-shark) |
-| [Entertainment](https://www.fark.com/entertainment/) | [When Bill Murray shows up to bartend at Philly's favorite dive bar](https://www.fark.com/goto/13407502) ( [phillymag.com](https://www.fark.com/goto/13407502) ) » [(3 comments)](https://www.fark.com/comments/13407502/When-Bill-Murray-shows-up-to-bartend-at-Phillys-favorite-dive-bar) |
-| [Fandom](https://www.fark.com/fandom/) | [Gamers forced to choose between PS5 Pro 30th Anniversary Bundle or a house](https://www.fark.com/goto/13407118) ( [ggrecon.com](https://www.fark.com/goto/13407118) ) » [(3 comments)](https://www.fark.com/comments/13407118/Gamers-forced-to-choose-between-PS5-Pro-30th-Anniversary-Bundle-a-house) |
-| [D'awww](https://www.fark.com/dawww/) | [Adorable, baby-carrying swamp puppy spotted in Alabama state park](https://www.fark.com/goto/13407190) ( [kswo.com](https://www.fark.com/goto/13407190) ) » [(0 comments)](https://www.fark.com/comments/13407190/Adorable-baby-carrying-swamp-puppy-spotted-in-Alabama-state-park) |
-| [Food](https://www.fark.com/food/) | [Half a year's salary on recalled Domino's sauce so I can get seriously sick? What a bargain](https://www.fark.com/goto/13407372) ( [metro.co.uk](https://www.fark.com/goto/13407372) ) » [(2 comments)](https://www.fark.com/comments/13407372/Half-a-years-salary-on-recalled-Dominos-sauce-so-I-can-get-seriously-sick-What-a-bargain) |
-| [Politics](https://www.fark.com/politics/) | [Boring Bait Trigger Lure hooks a giant sucker on first cast](https://www.fark.com/goto/13406984) ( [huffpost.com](https://www.fark.com/goto/13406984) ) » [(9 comments)](https://www.fark.com/comments/13406984/Boring-Bait-Trigger-Lure-hooks-a-giant-sucker-on-first-cast) |
+| [Main](https://www.fark.com/) | [Photoshop this rodeo clown](https://www.fark.com/goto/13405122) ( [npr.brightspotcdn.com](https://www.fark.com/goto/13405122) ) » [(17 comments)](https://www.fark.com/comments/13405122/Photoshop-this-rodeo-clown) |
+| [Discussion](https://www.fark.com/discussion/) | ["Well, I called out my wife's sister's name in bed and boy am I not hearing the end of it" (possible nsfw content on page)](https://www.fark.com/goto/13407736) ( [thesun.co.uk](https://www.fark.com/goto/13407736) ) » [(9 comments)](https://www.fark.com/comments/13407736/Well-I-called-out-my-wifes-sisters-name-in-bed-boy-am-I-not-hearing-end-of-it-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [Thursday Night Football brings us the Dallas Cowboys and New York Giants live from East Rutherford. Will Dak Prescott and the 'Boys win on the road? Or will Daniel Jones and the G-Men beat Dallas? Kickoff is at 8:15 PM ET on Prime Video](https://www.fark.com/goto/13406712) ( [espn.com](https://www.fark.com/goto/13406712) ) » [(123 comments)](https://www.fark.com/comments/13406712/Thursday-Night-Football-brings-us-Dallas-Cowboys-New-York-Giants-live-from-East-Rutherford-Will-Dak-Prescott-the-Boys-win-on-road-Or-will-Daniel-Jones-the-G-Men-beat-Dallas-Kickoff-is-at-815-PM-ET-on-Prime-Video) |
+| [Business](https://www.fark.com/business/) | [Maybe not so Super, Micro?](https://www.fark.com/goto/13407520) ( [cnbc.com](https://www.fark.com/goto/13407520) ) » [(0 comments)](https://www.fark.com/comments/13407520/Maybe-not-so-Super-Micro) |
+| [STEM](https://www.fark.com/stem/) | [Look! In the ocean! it's a bird, it's a fish, it's a crab, no...it's a sea robin](https://www.fark.com/goto/13407870) ( [cnn.com](https://www.fark.com/goto/13407870) ) » [(2 comments)](https://www.fark.com/comments/13407870/Look!-In-ocean!-its-a-bird-its-a-fish-its-a-crab-noits-a-sea-robin) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Supermodel with $80 million net worth is too poor to pay for three-night stay at a five-star hotel in the South of France. Spends $10,416 of charity funds instead](https://www.fark.com/goto/13407192) ( [metro.co.uk](https://www.fark.com/goto/13407192) ) » [(3 comments)](https://www.fark.com/comments/13407192/Supermodel-with-$80-million-net-worth-is-too-poor-to-pay-for-three-night-stay-at-a-five-star-hotel-in-South-of-France-Spends-$10416-of-charity-funds-instead) |
+| [Fandom](https://www.fark.com/fandom/) | [When Kermit the Frog gets impregnated by a Facehugger](https://www.fark.com/goto/13407442) ( [geeksaresexy.net](https://www.fark.com/goto/13407442) ) » [(0 comments)](https://www.fark.com/comments/13407442/When-Kermit-Frog-gets-impregnated-by-a-Facehugger) |
+| [D'awww](https://www.fark.com/dawww/) | [Ugly Ass Baby Aardvark Born at San Diego Zoo. Immediately Starts Chasing a Wise-Cracking Red Ant](https://www.fark.com/goto/13407264) ( [nbcsandiego.com](https://www.fark.com/goto/13407264) ) » [(1 comment)](https://www.fark.com/comments/13407264/Ugly-Ass-Baby-Aardvark-Born-at-San-Diego-Zoo-Immediately-Starts-Chasing-a-Wise-Cracking-Red-Ant) |
+| [Food](https://www.fark.com/food/) | [You're stabilizing your pickles wrong](https://www.fark.com/goto/13407130) ( [lifehacker.com](https://www.fark.com/goto/13407130) ) » [(4 comments)](https://www.fark.com/comments/13407130/Youre-stabilizing-your-pickles-wrong) |
+| [Politics](https://www.fark.com/politics/) | [The Aquaman Theory of the Presidency: The commander in chief is all powerful in certain circumstances, and totally useless in other situations. Also needs to get wet every 24 hours](https://www.fark.com/goto/13407582) ( [msnbc.com](https://www.fark.com/goto/13407582) ) » [(12 comments)](https://www.fark.com/comments/13407582/The-Aquaman-Theory-of-Presidency-The-commander-in-chief-is-all-powerful-in-certain-circumstances-totally-useless-in-other-situations-Also-needs-to-get-wet-every-24-hours) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +354,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 26 2024 14:44:26  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 26 2024 20:43:48  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
