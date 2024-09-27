@@ -4,9 +4,7 @@
 * [+91-9831405832](tel: +91-9831405832)
 * [info@contentspotlight.org](mailto:info@contentspotlight.org)
 
-[![Content Spotlight - A Keyword Research SEO company](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Content Spotlight - A Keyword Research SEO company](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png?fit=400%2C400&ssl=1)](https://contentspotlight.org/)
+[![Content Spotlight - A Keyword Research SEO company](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png?fit=400%2C400&ssl=1)](https://contentspotlight.org/)
 
 [CONTENT SPOTLIGHT](https://contentspotlight.org/)
 ==================================================
@@ -58,9 +56,7 @@ What rights you have over your data
 
 Like Loading...
 
-[![DMCA.com Protection Status](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![DMCA.com Protection Status](https://i0.wp.com/images.dmca.com/Badges/dmca_protected_sml_120g.png?w=640&ssl=1)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
+[![DMCA.com Protection Status](https://i0.wp.com/images.dmca.com/Badges/dmca_protected_sml_120g.png?w=640&ssl=1)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
 
 Copyright © Content Spotlight 2023
 ----------------------------------
