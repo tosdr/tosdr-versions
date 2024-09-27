@@ -22,6 +22,8 @@
 
 [Blog](https://thehive.ai/blog)
 
+[Pricing](https://thehive.ai/pricing)
+
 [Demo](https://thehive.ai/demos)
 
 [Go to Dashboard](https://portal.thehive.ai/)
@@ -555,6 +557,8 @@ Additional Information for EEA Visitors
 AI Models
 
 [Demo Hub](https://thehive.ai/demos)
+
+[Pricing](https://thehive.ai/pricing)
 
 [Documentation](https://docs.thehive.ai/)
 
