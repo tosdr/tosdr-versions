@@ -496,6 +496,7 @@ Choose Your Country
 * [België - Nederlands](https://www.bitdefender.be/)
 * [Belgique - Français](https://www.bitdefender.fr/)
 * [Brasil - Português](https://www.bitdefender.com.br/)
+* [Canada - English](https://www.bitdefender.com/content/bitdefender/ca/en-CA/)
 * [Deutschland - Deutsch](https://www.bitdefender.de/)
 * [España - Español](https://www.bitdefender.es/)
 * [France - Français](https://www.bitdefender.fr/)
