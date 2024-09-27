@@ -42,7 +42,7 @@ Menu information
 * [En quoi consiste le contrôle technique ?](https://www.moncontroletechnique.fr/le-controle-technique-auto)
 * [Préparez votre contrôle](https://www.moncontroletechnique.fr/preparer-votre-controle-technique)
 
-* [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique-0)
+* [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique)
 * [Ce qui a changé sur le contrôle technique](https://www.moncontroletechnique.fr/le-nouveau-controle-technique-en-quelques-mots)
 
 Découvrez la règlementation  
@@ -55,7 +55,7 @@ Infos sur le Contrôle Technique
 * [Contrôle technique véhicules particuliers](https://www.moncontroletechnique.fr/le-controle-technique-en-bref)
 * [En quoi consiste le contrôle technique ?](https://www.moncontroletechnique.fr/le-controle-technique-auto)
 * [Préparez votre contrôle](https://www.moncontroletechnique.fr/preparer-votre-controle-technique)
-* [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique-0)
+* [FAQ](https://www.moncontroletechnique.fr/faq-controle-technique)
 * [Ce qui a changé sur le contrôle technique](https://www.moncontroletechnique.fr/le-nouveau-controle-technique-en-quelques-mots)
 
 Conditions générales d'utilisation
