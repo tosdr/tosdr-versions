@@ -100,6 +100,7 @@ Menu
     * [Exactech Implants](https://www.sokolovelaw.com/product-liability/medical-devices/exactech-knee-and-hip-replacements/)
     * [Hernia Mesh](https://www.sokolovelaw.com/product-liability/medical-devices/hernia-mesh/ "Hernia Mesh")
     * [Paragard](https://www.sokolovelaw.com/product-liability/medical-devices/paragard/)
+    * [Zimmer Biomet Hip System](https://www.sokolovelaw.com/product-liability/medical-devices/zimmer-biomet-hip-replacement/)
     
     [**Have You Or a Loved One Suffered From a Defective Product or Device?**
     
