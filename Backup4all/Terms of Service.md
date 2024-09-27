@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
+* [How to back up data files from Akaza using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-akaza-using-backup4all-kb.html)  
     
-* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
+* [How to create a new task using Windows Task S ...](https://www.backup4all.com/how-to-create-a-new-task-using-windows-task-scheduler-kb.html)  
     
-* [How to backup only to a specific removable/ex ...](https://www.backup4all.com/how-to-backup-only-to-a-specific-removable-external-drive-kb.html)  
+* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
     
-* [Smart backup type](https://www.backup4all.com/smart-backup-type-kb.html)  
+* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
     
-* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
+* [Using Backup4all - FAQ 4](https://www.backup4all.com/using-backup4all-faq-4-kb.html)  
     
 
 Choose language:
