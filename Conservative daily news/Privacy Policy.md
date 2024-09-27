@@ -2,14 +2,14 @@ Friday, September 27 2024
 
 Breaking News
 
+* [The US Should Stop Funding The United Nations](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
+* [Biden Reportedly Planning To Make Tightened Border Asylum Restrictions More Permanent](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
 * [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
 * [President Joe Biden’s Schedule for Friday, September 27, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-27-2024/)
 * [FAIL: Army Delays Pay Raise For Soldiers Days Before It Was Expected To Arrive](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
 * [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
 * [Feds Indict New York City Mayor Eric Adams: REPORT](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
 * [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
-* [GOP Sen Demands Merrick Garland Fork Over Communications Related To Jack Smith’s Latest Trump Indictment](https://www.conservativedailynews.com/2024/09/gop-sen-demands-merrick-garland-fork-over-communications-related-to-jack-smiths-latest-trump-indictment/)
-* [Does Diversity Unite Or Divide](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,18 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![United Nations UN terrorism UNRWA](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz020624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
+    
+    [The US Should Stop Funding The United Nations](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
+    
+    September 27, 2024
+    
+* [![Joe Biden open border illegal aliens](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz022624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
+    
+    [Biden Reportedly Planning To Make Tightened Border Asylum Restrictions More Permanent](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
+    
+    September 27, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-signing-bill-Jill-Biden-supervising-220x150.png)](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
     
     [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
@@ -162,31 +174,19 @@ Recent Posts
     
     September 26, 2024
     
-* [![Donald Trump after assassination attempt](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5218-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
-    
-    [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
-    
-    September 26, 2024
-    
-* [![San Antonio dentist sentenced to 30 years for producing child sexual abuse material following HSI, local partner investigation](https://www.conservativedailynews.com/wp-content/uploads/2024/01/San-Antonio-dentist-sentenced-to-30-years-for-producing-child-220x150.jpg)](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
-    
-    [Feds Indict New York City Mayor Eric Adams: REPORT](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
-    
-    September 26, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Vortex Introduces Viper HD 11-33×50 Spotting Scopes](https://www.thegunpage.com/vortex-introduces-viper-hd-11-33x50-spotting-scopes/10610853)
+* [FPC Files Brief In Appeal Concerning 3rd Grader’s Gun-Related Cap](https://www.thegunpage.com/fpc-files-brief-in-appeal-concerning-3rd-graders-gun-related-cap/10610851)  
+* [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.thegunpage.com/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/10610849)
+* [Walther PPK/S SD: The REAL James Bond Pistol?](https://www.thegunpage.com/walther-ppk-s-sd-the-real-james-bond-pistol/10610854)
+* [Staying Above Ground In NYC](https://www.thegunpage.com/staying-above-ground-in-nyc/10610847)
 * [GRPC LIVESTREAM LINKS](https://www.thegunpage.com/grpc-livestream-links/10610845)
 * [USA Shooting Earns Six Medals At Paris 2024 Olympic & Paralympic Games](https://www.thegunpage.com/usa-shooting-earns-six-medals-at-paris-2024-olympic-paralympic-games/10610844)
 * [TFB Review: Springfield Armory 1911 Operator AOS 5” .45 ACP](https://www.thegunpage.com/tfb-review-springfield-armory-1911-operator-aos-5-45-acp/10610841)
 * [POTD: Ruger Precision Rifle With A-Tec Marksman Suppressor](https://www.thegunpage.com/potd-ruger-precision-rifle-with-a-tec-marksman-suppressor/10610842)
 * [Concealed Carry Corner: Best Cover Garments](https://www.thegunpage.com/concealed-carry-corner-best-cover-garments/10610843)
-* [GOA Statement on New White House Gun Control](https://www.thegunpage.com/goa-statement-on-new-white-house-gun-control/10610839)
-* [Biden-Harris Set to Announce New Executive Order on Gun Violence](https://www.thegunpage.com/biden-harris-set-to-announce-new-executive-order-on-gun-violence/10610838)
-* [Hawaii Homeowner Arrested After Stopping Violent Neighbor, Released After Self-Defense Ruling](https://www.thegunpage.com/hawaii-homeowner-arrested-after-stopping-violent-neighbor-released-after-self-defense-ruling/10610836)
-* [MI: School aid bill turned totalitarian](https://www.thegunpage.com/mi-school-aid-bill-turned-totalitarian/10610835)
-* [Kamala Harris Issues First Executive Order on Gun Control with Joe Biden](https://www.thegunpage.com/kamala-harris-issues-first-executive-order-on-gun-control-with-joe-biden/10610832)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
