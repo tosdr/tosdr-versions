@@ -428,7 +428,7 @@ Privacy Policy
 PRIVACY POLICY - FORMA BRANDS
 -----------------------------
 
-FORMA BRANDS LLC (**“FORMA BRANDS,” “we,” “us,” and “our”**) is a cosmetics retailer with worldwide operations. We are committed to protecting the Personal Information we obtain about you when you interact with our website https://formabrands.com, www.morphe.com, and product-info.morphe.com (collectively, the “Sites”). This policy (the “Policy”) sets out how we collect, use, manage, transfer, disclose, and store information that is linked or reasonably linkable to an identified or identifiable individual (“Personal Information”) in the course of doing business. You agree that this Policy applies to you as an individual and is separate from, and does not amend nor modify, any contractual arrangements between you or your organization and us, nor create any rights in you under any such contract.
+FORMA BRANDS LLC (**“FORMA BRANDS,” “we,” “us,” and “our”**) is a cosmetics retailer with worldwide operations. We are committed to protecting the Personal Information we obtain about you when you interact with our website https://formabrands.com, www.morphe.com, and product-info.morphe.com (collectively, the “Sites”). This policy (the “Policy”) sets out how we collect, use, manage, transfer, disclose, and store information that is linked or reasonably linkable to an identified or identifiable individual (“Personal Information”) in the course of doing business. You agree that this Policy applies to you as an individual and is separate from, and does not amend or modify, any contractual arrangements between you or your organization and us, nor create any rights in you under any such contract.
 
 By submitting your information to us, you agree to the processing set out in this Policy to the extent permitted by applicable law. Further notices highlighting certain uses we wish to make of your Personal Information together with the ability to opt in or out of selected uses may also be provided to you when we collect Personal Information from you.
 
@@ -436,11 +436,15 @@ The Sites may contain links to other third-party websites. If you follow a link 
 
 1. ### What Personal Information we collect
     
-    As part of our operations we collect Personal Information. The specific Personal Information that we may collect or hold will depend on the context in which we collect it, and may include your name, telephone or mobile phone number, addresses, banking details, credit card information, tax file number, details of transactions you conduct through our Sites or through other channels and of the fulfilment of your orders, and any other Personal Information you or a person ostensibly authorized by you submits to us, as well any other information that we consider necessary (such as information about your opinions) to perform our functions and activities (which may include details of your visits to our Sites and information collected through cookies and other tracking technologies including your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access).We use cookies on our Sites to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners. To learn more about how we use cookies, please view our [Cookie Policy.](https://eu.morphe.com/pages/cookie-policy)
+    As part of our operations we collect Personal Information. The specific Personal Information that we may collect or hold will depend on the context in which we collect it, and may include your name, telephone or mobile phone number, addresses, banking details, credit card information, tax file number, details of transactions you conduct through our Sites or through other channels and of the fulfilment of your orders, and any other Personal Information you or a person ostensibly authorized by you submits to us, such as biometric identifiers received from you, for example, as well any other information that we consider necessary (such as information about your opinions) to perform our functions and activities (which may include details of your visits to our Sites and information collected through cookies and other tracking technologies including your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access).We use cookies on our Sites to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising, and analytics partners. To learn more about how we use cookies, please view our [Cookie Policy.](https://eu.morphe.com/pages/cookie-policy)
     
-    You may manage your choices by clicking _Manage My Preferences_,
+    You may manage your choices by clicking _Manage My Preferences_,
     
-2. ### How we collect Personal Information
+2. ### Special notice with respect to biometric information
+    
+    As mentioned above, we may collect information such as your facial geometry if you choose to use our Lightform, Extended Hydration Foundation Shade Finder feature or related features through the Sites. Any biometric data collected from you will be used to personalize your shopping experience by seeking to match you with your perfect shade. While your perfect shade will be saved to your account, we will only retain any biometric data for so long as necessary to determine your shade, after which this data is deleted.
+    
+3. ### How we collect Personal Information
     
     We collect Personal Information in a number of ways, including:
     
@@ -453,7 +457,10 @@ The Sites may contain links to other third-party websites. If you follow a link 
     7. where you provide feedback to us;
     8. from related entities in our corporate group; and
     9. from publicly available sources of information.
-3. ### Purpose of collection and use of Personal Information
+    
+    If you do not wish to disclose your Personal Information (such as cookies) to us, please note that some features of the Sites may not be available or operate as intended.
+    
+4. ### Purpose of collection and use of Personal Information
     
     We collect, use and disclose Personal Information for the following purposes:
     
@@ -464,12 +471,12 @@ The Sites may contain links to other third-party websites. If you follow a link 
     5. conducting marketing activities including compiling and maintaining a mailing list and communicating with persons on those lists, including marketing our own products and services to you;
     6. fulfilling obligations to, and cooperating with, government authorities, courts, regulators or law enforcement agencies in connection with enquiries, proceedings or investigations by such parties anywhere in the world or in order to enable us to comply with our regulatory requirements or to respond to regulators;
     7. resolving disputes or addressing complaints;
-    8. protecting our property, rights, and security, and the rights, property, and security of third parties or the public in general; and
-    9. doing something that one would reasonably expect us to do using the information.
+    8. protecting our property, rights, and security, and the rights, property, and security of third parties or the public in general;
+    9. doing something that one would reasonably expect us to do using the information;
     
-4. ### How Personal Information is shared
+5. ### How Personal Information is shared
     
-    In conducting our operations, we may disclose some of your Personal Information with service providers and vendors that perform services on our behalf to carry out the uses of Personal Information described above in the section titled **“Purpose of collection and use of Personal Information.”**
+    In conducting our operations, we may disclose some of your Personal Information to Personal Information may be shared with service providers and vendors that perform services on our behalf to carry out the uses of Personal Information described above in the section titled **“Purpose of collection and use of Personal Information.”**
     
     We will only disclose your Personal Information with the following third parties:
     
@@ -485,7 +492,7 @@ The Sites may contain links to other third-party websites. If you follow a link 
         5. Protect us, your vital interests, or those of another person; and
         6. Investigate fraud or to protect the security or integrity of Success Factors or any products or services that we offers.
     6. **With your consent:** We will share your Personal Information with external third parties if we have obtained your consent to do so.
-5. Cross-Border Data Transfers
+6. Cross-Border Data Transfers
     ---------------------------
     
     From time to time, we may transfer your Personal Information to overseas recipients (including our related companies and any relevant third parties) if it is necessary to conduct our business. We currently have operations in the United States, Canada, Australia and in Europe and Personal Information is disclosed to recipients in those jurisdictions. We also use cloud-based solutions such as Shopify, NetSuite and EDI that store Personal Information securely primarily in the United States of America and Europe. We may from time to time expand our operations and/or change the cloud-based or other solutions used to store Personal Information.
@@ -496,14 +503,14 @@ The Sites may contain links to other third-party websites. If you follow a link 
     
     [https://rakutenadvertising.com/legal-notices/services-privacy-policy/](https://rakutenadvertising.com/legal-notices/services-privacy-policy/)
     
-6. Storage, security, and retention of Personal Information
+7. Storage, security, and retention of Personal Information
     --------------------------------------------------------
     
     We have implemented reasonable technical, administrative, and organizational safeguards to secure your Personal Information. However, please note that no method of transmitting information is completely secure and we cannot guarantee the absolute security of your Personal Information.
     
     We keep Personal Information as long as it is reasonably necessary for the purposes described in this Policy or as otherwise required or permitted by law. Certain information may be retained until the time limit for any legal challenges has expired or in order to comply with regulatory requirements regarding the retention of such Personal Information. If you have provided us with Personal Information in the course of applying for employment with us, and your application has not been successful, we may keep your Personal Information in case a suitable role becomes available.
     
-7. Accessing, updating, and deleting your Personal Information
+8. Accessing, updating, and deleting your Personal Information
     -----------------------------------------------------------
     
     We will take reasonable steps to ensure the Personal Information we hold is complete, up to date and accurate, so far as it is practicable for us to do so.
@@ -514,12 +521,12 @@ The Sites may contain links to other third-party websites. If you follow a link 
     
     Please note that certain Site functionality may not work as intended in the event you elect to withdraw your consent, request that we delete your Personal Information, or opt out of certain collection practices.
     
-8. Privacy of children
+9. Privacy of children
     -------------------
     
     Our Sites are not intended for children under the age of 13 years. In addition, we do not knowingly collect any personal data from children under the age of 13 years. The children's products that we may offer for sale on our Sites are intended for purchase by adults only. In the event that we discover that we have inadvertently collected Personal Information from an individual under the age of 13 years, we will promptly delete such data. If you have reason to believe that we have inadvertently collected Personal Information from a child under 13 years, please contact us as directed below.
     
-9. Direct marketing practices
+10. Direct marketing practices
     --------------------------
     
     From time to time, we may use your Personal Information for direct marketing purposes (for an indefinite period). Where required by law, we will ask for your consent before conducting any of these types of marketing. This includes sending you updates about our products and offerings. When we contact you, it may be by mail, telephone, email or SMS. Where we use or disclose your Personal Information for the purpose of direct marketing, we will:
@@ -528,25 +535,26 @@ The Sites may contain links to other third-party websites. If you follow a link 
     2. allow you to ‘opt out’ or, in other words, allow you to request not to receive direct marketing communications; and
     3. comply with any such request by you to ‘opt-out’ of receiving further communications within a reasonable time frame.
     4. We will provide an option to unsubscribe or opt-out of further communication on any electronic marketing communication sent to you. You may ask to be removed from our marketing lists at any time by clicking the unsubscribe link or by directly contacting us. If you don’t wish to receive direct marketing materials, contact our Privacy Officer using the details set out at the end of this Privacy Policy.
-10. Questions and complaints
+11. Questions and complaints
     ------------------------
     
-    FORMA BRANDS LLC is the data controller in respect of your Personal Information under this Policy.If you have a question about how we handle Personal Information, or wish to lodge a complaint about our management of Personal Information (including if you believe that we have managed your Personal Information in breach of applicable privacy laws), you may contact our Privacy Officer:
+    FORMA BRANDS LLC is the data controller in respect of your Personal Information under this Policy. If you have a question about how we handle Personal Information, or wish to lodge a complaint about our management of Personal Information (including if you believe that we have managed your Personal Information in breach of applicable privacy laws), you may contact our Privacy Officer:
     
     Attention: Privacy Officer  
     **FORMA BRANDS LLC**  
-    **10303 Norris Avenue**  
-    Pacoima, CA 91331    
-    Email: [morphe.privacy@formabrands.com](mailto:morphe.privacy@formabrands.com)
+    **22 4th street, suite 400**  
+    san francisco, ca 94103    
+    Email: [hello@formabrands.com](mailto:hello@formabrands.com)  
+    Telephone: [(877) 366-7743](tel:8773667743)
     
     The Privacy Officer will co-ordinate the investigation of any complaint and any potential resolution of a complaint. In order to be sure that we understand the details and nature of your question or complaint, we may ask you to put your question or complaint in writing. We will aim to resolve all complaints as soon as practicable for us to do so.
     
-11. Changes to this Policy
+12. Changes to this Policy
     ----------------------
     
     We may change this Policy at any time. Please refer back to this Policy periodically to review any updates. If we make material changes to this Policy we will notify you by publication on our Sites unless otherwise required by law. The revised version of the Policy will be effective at the time we post it, which time will be indicated at the end of this Policy.
     
-12. Additional Information for California Residents
+13. Additional Information for California Residents
     -----------------------------------------------
     
     California Civil Code Section 1798.100 et seq., as amended by California Privacy Rights Act, (collectively, the “CPRA”), requires us to provide the following information.
@@ -562,9 +570,9 @@ The Sites may contain links to other third-party websites. If you follow a link 
         | **Category of Personal Information** | **Categories of Third Parties to whom the information is disclosed for Operational Business Purposes** | **Business Purpose for Disclosure** |
         | **Personal Identifiers:** Information such as your name; username; email address; mailing address; IP-address; and date of birth. | Affiliates; Service Providers, vendors; professional advisors; third parties in connection with contractual obligations. | To provide the for Site functionality, communication and shipping of product. And For our marketing purposes with opt in. |
         | **Internet or other network activity information:** <br><br>Information regarding your interaction with the online activities and other applications; precise geolocation information; links you use or web pages you visit; other applications; browser type; internet Service Provider (ISP); cookies. | Affiliates; vendors; professional advisors; legal authorities, We don’t actively send to these. | To ensure compliance with company policies; to create and maintain cybersecurity controls; to ensure compliance with legal obligations. |
-        | **Commercial information:**  <br><br>Transaction information, purchase history products or services purchased, obtained, or considered. | Affiliates, vendors and Service Providers. | For our marketing purposes and to provide the Sites. |
+        | **Commercial information:**  <br><br>Transaction information, purchase history, products or services purchased, obtained, or considered. | Affiliates, vendors and Service Providers. | For our marketing purposes and to provide the Sites. |
         | **Geolocation data** such as IP location | Affiliates, vendors, Service Providers. | To provide Sites and marketing.  <br>  <br>It is stored within Shopify against each order. Google will also use this data for audiences, not exposed on for a induvial from Google. |
-        | **Inferences** drawn from any of the Personal Information listed above to create a profile or summary about an individual’s preferences, for example. | Affiliates, vendors, Service Providers. | To provide Site and marketing. |
+        | **Inferences** drawn from any of the Personal Information listed above to create a profile or summary about an individual’s preferences, for example. | Affiliates, vendors, Service Providers. | To provide Sites and marketing. |
         
         Please note we do not collect information on the Sites that qualifies as Sensitive Personal Information under the CPRA.
         
@@ -610,16 +618,14 @@ The Sites may contain links to other third-party websites. If you follow a link 
         
         You may designate an authorized agent to make requests on your behalf. You must provide an authorized agent written permission to submit a request on your behalf, and we may require that you verify your identity directly with us. Alternatively, an authorized agent that has been provided power of attorney pursuant to Probate Code sections 4000-4465 may submit a request on your behalf.
         
-    5. ### Your Rights Under California’s Shine the Light Act
+    5. ### How to Exercise these Rights
         
-    6. ### How to Exercise these Rights
-        
-        If you wish to submit a request to exercise one or more of the rights listed above you can do this by emailing us at [hello@formabrands.com](mailto:hello@formabrands.com) or using our webform. Please include your question or concerns in your letter to us. We will respond to verifiable requests for disclosure or deletion of Personal Information free of charge, within 45 days of receipt.
+        If you wish to submit a request to exercise one or more of the rights listed above you can do this by emailing us at [hello@formabrands.com](mailto:hello@formabrands.com), using our webform, or contacting us at [(877) 366-7743](tel:8773667743). Please include your question or concerns in your letter to us. We will respond to verifiable requests for disclosure or deletion of Personal Information free of charge, within 45 days of receipt.
         
         In order to protect your privacy and the security of your information, we verify consumer requests by requesting identification documents and other documentation necessary to confirm your identity to the extent permitted by law. Any additional information you provide will be used only to verify your identity and not for any other purpose.
         
 
-Last updated:July 4, 2024
+Last updated: September 27, 2024
 
 Newsletter
 ----------
