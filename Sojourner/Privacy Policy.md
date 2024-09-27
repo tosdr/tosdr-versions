@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1885f0dc6f0329163e07894c1a9c3fe1
+6cf425ff5d32dee951d6d78c3c86bb50
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Pink ceiling dome clasp](https://www.sojourner.biz/images/cache/SKU0054front.200.jpg)](https://www.sojourner.biz/clasps/glass/pink-ceiling-dome-clasp.html "Pink ceiling dome clasp")
+[![10 mm faceted round jade beads](https://www.sojourner.biz/images/cache/jade/JD0004.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/jade/10-mm-faceted-round-jade-beads.html "10 mm faceted round jade beads")
 
-#### [Pink ceiling dome clasp](https://www.sojourner.biz/clasps/glass/pink-ceiling-dome-clasp.html "Pink ceiling dome clasp")
+#### [10 mm faceted round jade beads](https://www.sojourner.biz/beads/stone-a-l/jade/10-mm-faceted-round-jade-beads.html "10 mm faceted round jade beads")
 
-$35.00
+$65.00
 
 ### Best Sellers
 
