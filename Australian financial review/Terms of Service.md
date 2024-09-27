@@ -291,16 +291,15 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Australia’s most powerful people in 2024.
-](https://static.ffx.io/images/$zoom_0.8153%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f6c9aa8f5b419ed4ceffcd73378f9f956792db16)](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
+[![Cartoonist David Rowe talks shop with Treasurer Jim Chalmers in Canberra.](https://static.ffx.io/images/$zoom_0.2847%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_166%2C$y_644/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f2cb8c5f6b53a016b707d28a091308e64e78d25b)](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
 
-### [Australia’s 10 most powerful people in 2024](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
+### [How we got Australia’s most powerful to step into David Rowe’s world](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
 
-* Tom McIlroy
+* Matthew Drummond
 
-* ### [Election season and rates angst are behind this year’s power shifts](https://www.afr.com/politics/federal/election-season-and-rates-angst-are-behind-this-year-s-power-shifts-20240827-p5k5kt)
+* ### [Australia’s 10 most powerful people in 2024](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
     
-* ### [The 10 most covertly powerful people in Australia in 2024](https://www.afr.com/politics/federal/the-10-most-covertly-powerful-people-in-australia-in-2024-20240830-p5k6pa)
+* ### [The forces that shaped 2024’s list of Australia’s most powerful people](https://www.afr.com/politics/federal/election-season-and-rates-angst-are-behind-this-year-s-power-shifts-20240827-p5k5kt)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
