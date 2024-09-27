@@ -140,7 +140,7 @@ Because connections matter.
 * [Investor Relations](https://invest.quadient.com/en-US)
 * [Partner Programs](https://www.quadient.com/en/partners)
 * [US Partner Portal](https://portal.neopostinc.com/myneopost.aspx)
-* [Careers](https://careers.quadient.com/global/en/)
+* [Careers](https://careers.quadient.com/)
 
 * Solutions
 * [How we help](https://www.quadient.com/en/how-we-help)
