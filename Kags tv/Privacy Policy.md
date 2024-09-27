@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/a8ef3726-8b42-4e0d-b7a2-f82057c828d4/20240926T183058/a8ef3726-8b42-4e0d-b7a2-f82057c828d4_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/a8ef3726-8b42-4e0d-b7a2-f82057c828d4/20240926T183058/a8ef3726-8b42-4e0d-b7a2-f82057c828d4_360x203.jpg)](https://www.kagstv.com/article/news/crime/bryan-isd-bus-driver-arrested-for-hitting-parked-car-while-drunk/500-a3cc621e-d845-468e-9cae-7bad71705b48)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/a49a659f-84ea-4d26-92fe-65ea7ac17f8a/20240927T163140/a49a659f-84ea-4d26-92fe-65ea7ac17f8a_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/a49a659f-84ea-4d26-92fe-65ea7ac17f8a/20240927T163140/a49a659f-84ea-4d26-92fe-65ea7ac17f8a_360x203.jpg)](https://www.kagstv.com/article/news/crime/harvey-stockton-sentenced-to-51-years-in-prison-for-8th-domestic-violence-conviction/500-7bff27ca-2c3d-4e1c-bb97-1fba21e3ef81)
         
-        #### [Man arrested for hitting parked car with Bryan ISD school bus with kids inside](https://www.kagstv.com/article/news/crime/bryan-isd-bus-driver-arrested-for-hitting-parked-car-while-drunk/500-a3cc621e-d845-468e-9cae-7bad71705b48)
+        #### [College Station man sentenced to 51 years in eighth domestic violence conviction](https://www.kagstv.com/article/news/crime/harvey-stockton-sentenced-to-51-years-in-prison-for-8th-domestic-violence-conviction/500-7bff27ca-2c3d-4e1c-bb97-1fba21e3ef81)
         
-    *  [![](https://media.kagstv.com/assets/KAGS/images/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031_360x203.jpg)](https://www.kagstv.com/article/news/crime/bryan-isd-daep-juvenile-arrest/500-e109d136-d16a-4a29-9d96-37dfd1bd6abf)
+    *  [![](https://media.kagstv.com/assets/WTLV/images/2a276ea8-77c9-4130-9967-bb0aaf70dd8d/2a276ea8-77c9-4130-9967-bb0aaf70dd8d_16x9.png) ![](https://media.kagstv.com/assets/WTLV/images/2a276ea8-77c9-4130-9967-bb0aaf70dd8d/2a276ea8-77c9-4130-9967-bb0aaf70dd8d_360x203.png)](https://www.kagstv.com/article/news/crime/navasota-pd-arrest-juveniles-for-social-media-threats/500-e3a6011c-8bf5-41b8-be63-f026cbf23759)
         
-        #### [Juvenile arrested for threatening to shoot student at Bryan ISD alternative education campus](https://www.kagstv.com/article/news/crime/bryan-isd-daep-juvenile-arrest/500-e109d136-d16a-4a29-9d96-37dfd1bd6abf)
+        #### [Two juveniles charged with state jail felonies for social media threats in Navasota](https://www.kagstv.com/article/news/crime/navasota-pd-arrest-juveniles-for-social-media-threats/500-e3a6011c-8bf5-41b8-be63-f026cbf23759)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-74°
+90°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
