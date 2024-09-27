@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| You ProofMorgan Wallen<br><br>11:40am |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>11:37am |
-| Chicken FriedZac Brown Band<br><br>11:34am |
-| Next Thing You KnowJordan Davis<br><br>11:31am |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:27am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:41pm |
+| The Thunder RollsGarth Brooks<br><br>5:38pm |
+| Aint Nothing Bout YouBrooks And Dunn<br><br>5:34pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:26pm |
+| Can'T Have MineDylan Scott<br><br>5:22pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,10 +495,6 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
@@ -510,6 +506,10 @@ Spanish • Western
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
