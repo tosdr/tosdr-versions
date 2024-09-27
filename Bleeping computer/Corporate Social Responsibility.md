@@ -36,18 +36,18 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
+    * [![Progress urges admins to patch critical WhatsUp Gold bugs ASAP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Progress urges admins to patch critical WhatsUp Gold bugs ASAP](https://www.bleepingcomputer.com/news/security/progress-urges-admins-to-patch-critical-whatsup-gold-bugs-asap/)
+    * [![Learn ethical hacking in this $35 super-sized course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Learn ethical hacking in this $35 super-sized course bundle deal](https://www.bleepingcomputer.com/offer/deals/learn-ethical-hacking-in-this-35-super-sized-course-bundle-deal/)
+    * [![Windows 11 KB5043145 update released with 13 changes and fixes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Windows 11 KB5043145 update released with 13 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-released-with-13-changes-and-fixes/)
     * [![CUPS flaws enable Linux remote code execution, but there’s a catch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
-    * [![New RomCom malware variant 'SnipBot' spotted in data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New RomCom malware variant 'SnipBot' spotted in data theft attacks](https://www.bleepingcomputer.com/news/security/new-romcom-malware-variant-snipbot-spotted-in-data-theft-attacks/)
-    * [![Kia dealer portal flaw could let attackers hack millions of cars](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Kia dealer portal flaw could let attackers hack millions of cars](https://www.bleepingcomputer.com/news/security/kia-dealer-portal-flaw-could-let-attackers-hack-millions-of-cars/)
-    * [![This $70 cybersecurity course bundle helps you train for a new career](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This $70 cybersecurity course bundle helps you train for a new career](https://www.bleepingcomputer.com/offer/deals/this-70-cybersecurity-course-bundle-helps-you-train-for-a-new-career/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -310,9 +310,9 @@ Popular Stories
 * [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 10 KB5043131 update released with 9 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043131-update-released-with-9-changes-and-fixes/)
-* [![Mozilla](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Mozilla accused of tracking users in Firefox without consent](https://www.bleepingcomputer.com/news/technology/mozilla-accused-of-tracking-users-in-firefox-without-consent/)
+    CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
 
 ##### Follow us:
 
