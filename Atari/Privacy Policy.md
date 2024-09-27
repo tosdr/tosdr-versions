@@ -236,19 +236,23 @@ Apparel & Collectibles
 
 #### APPAREL
 
-* [T-Shirts](https://atari.com/collections/atari-tshirts)
+* [Shirts](https://atari.com/collections/atari-tshirts)
     
-    [Headwear](https://www.atari.com/collections/headwear)
+    [Sweatshirts](https://www.atari.com/collections/sweatshirts)
+    
+    [Jackets](https://www.atari.com/collections/jackets)
 
 [Shop Apparel](https://www.atari.com/collections/apparel-accessories)
 
 #### ACCESSORIES
 
-* [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
+* [Hats](https://www.atari.com/collections/hats)
     
     [Bags](https://www.atari.com/collections/bags)
     
     [Home Goods](https://www.atari.com/collections/home-goods)
+    
+    [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
     
     [Lifestyle](https://www.atari.com/collections/lifestyle)
 
@@ -278,19 +282,23 @@ Menu
 
 APPAREL
 
-* [T-Shirts](https://atari.com/collections/atari-tshirts)
+* [Shirts](https://atari.com/collections/atari-tshirts)
     
-    [Headwear](https://www.atari.com/collections/headwear)
+    [Sweatshirts](https://www.atari.com/collections/sweatshirts)
+    
+    [Jackets](https://www.atari.com/collections/jackets)
 
 [Shop Apparel](https://www.atari.com/collections/apparel-accessories)
 
 ACCESSORIES
 
-* [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
+* [Hats](https://www.atari.com/collections/hats)
     
     [Bags](https://www.atari.com/collections/bags)
     
     [Home Goods](https://www.atari.com/collections/home-goods)
+    
+    [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
     
     [Lifestyle](https://www.atari.com/collections/lifestyle)
 
@@ -340,17 +348,17 @@ Menu
 
 ###### New Arrivals
 
-![](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+[![](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
 
-Atari 7800+
+Atari 7800+](https://www.atari.com/collections/7800)
 
-![](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
+[![](files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-66f2d6a4e2795.jpg)
 
-Happy Birthday, Lynx!
+Happy Birthday, Lynx!](https://www.atari.com/collections/consoles)
 
-![](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
+[![](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
-RCT x errornogo
+RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
 
  
 
