@@ -168,6 +168,7 @@ Ireland
 * [Player Support](https://support.riotgames.com/hc/en-us)
 * [E-Verify](https://euw.leagueoflegends.com/en/e-verify-right-to-work)
 * [Accessibility](https://euw.leagueoflegends.com/en/accessibility)
+* [Annual Reports](https://euw.leagueoflegends.com/en/annual-reports)
 
 [Follow us on Twitter](https://twitter.com/riotgames)[Follow us on Instagram](https://www.instagram.com/riotgames/)[Follow us on Tiktok](https://www.tiktok.com/@riotgames)[Share this on LinkedIn](https://www.linkedin.com/company/riot-games)[Follow us on Facebook](https://www.facebook.com/RiotGames/)[Watch on YouTube](https://www.youtube.com/riotgames)
 
