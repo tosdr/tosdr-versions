@@ -14,99 +14,9 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
-Últimas de Maceió
-
-[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
-
-   [![Mais 120 aprovados no PSS 2023 são convocados para as escolas municipais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_pss_educacao_maceio_assessoria_8e5a09be9f.jpg)
-
-cargos na educação
-
-Mais 120 aprovados no PSS 2023 são convocados para as escolas municipais](https://www.tnh1.com.br/noticia/nid/mais-120-aprovados-no-pss-2023-sao-convocados-para-as-escolas-municipais/ "Mais 120 aprovados no PSS 2023 são convocados para as escolas municipais")   [![Homem denuncia sumiço dos restos mortais da mãe no Cemitério São José](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/f/csm_tumulo_violado_em_mcz_reproducao_tv_pajucara_431cd5a09f.jpg)
-
-EM MACEIÓ
-
-Homem denuncia sumiço dos restos mortais da mãe no Cemitério São José](https://www.tnh1.com.br/noticia/nid/homem-denuncia-sumico-dos-restos-mortais-da-mae-no-cemiterio-sao-jose/ "Homem denuncia sumiço dos restos mortais da mãe no Cemitério São José")   [![Botões de pânico e câmeras são instalados para policiamento 24h em pontos de Maceió; veja locais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/c/csm_parque_centenario_monitoramento__1__de1b8abf97.jpeg)
-
-Maceió
-
-Botões de pânico e câmeras são instalados para policiamento 24h em pontos de Maceió; veja locais](https://www.tnh1.com.br/noticia/nid/botoes-de-panico-e-cameras-sao-instalados-para-policiamento-24h-em-pontos-de-maceio-veja-locais/ "Botões de pânico e câmeras são instalados para policiamento 24h em pontos de Maceió; veja locais")   [![Motociclista fica ferido e é socorrido após ser atingido por carro no Pinheiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_acidente_pinheiro_reproducao_video_86d8e6efca.png)
-
-Levado a hospital
-
-Motociclista fica ferido e é socorrido após ser atingido por carro no Pinheiro](https://www.tnh1.com.br/noticia/nid/motociclista-fica-ferido-e-e-socorrido-apos-ser-atingido-por-carro-no-pinheiro/ "Motociclista fica ferido e é socorrido após ser atingido por carro no Pinheiro")   [![Ex-detento morre após ser baleado na cabeça no Santos Dumont](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/3/csm_homicidio_santos_dumont_foto_cortesia_03ef52db50.png)
-
-Vulgo "Brejal"
-
-Ex-detento morre após ser baleado na cabeça no Santos Dumont](https://www.tnh1.com.br/noticia/nid/ex-detento-morre-apos-ser-baleado-na-cabeca-no-santos-dumont/ "Ex-detento morre após ser baleado na cabeça no Santos Dumont")   [![Comerciantes dos Flexais participam de feira na Pajuçara](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/5/csm_Feira_Braskem_80c4cef477.jpeg)
-
-Maceió
-
-Comerciantes dos Flexais participam de feira na Pajuçara](https://www.tnh1.com.br/noticia/nid/comerciantes-dos-flexais-participam-de-feira-na-pajucara/ "Comerciantes dos Flexais participam de feira na Pajuçara")
-
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/6/csm_Concurso_publico_-_foto_Agencia_Brasil_f6eb9d142c.jpg)
-
-calendário atualizado
-
-Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://www.tnh1.com.br/noticia/nid/nova-data-e-definida-para-provas-do-concurso-publico-da-prefeitura-de-rio-largo-confira/ "Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira")   [![Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/b/csm_semarh-previsao-tempo-alagoas_e7339241ed.png)
-
-Alagoas
-
-Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-todas-as-regioes-de-alagoas-nesta-quinta-feira-26/ "Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)")   [![Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_paulo_dantas_e_julia_brito_-_foto_reproducao_instagram_0d331fc69a.png)
-
-Saiba com quem
-
-Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")   [![Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva_8d3415d5fc.jpg)
-
-Alagoas
-
-Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades](https://www.tnh1.com.br/noticia/nid/vida-nova-nas-grotas-e-classificado-para-o-premio-periferia-viva-do-ministerio-das-cidades/ "Vida Nova nas Grotas é classificado para o Prêmio Periferia Viva, do Ministério das Cidades")   [![Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/e/csm_governo-de-alagoas-envia-bombeiros-para-o-combate-as-queimadas-no-norte-do-brasil_dbe41bd616.jpg)
-
-situação crítica
-
-Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-envia-bombeiros-para-o-combate-as-queimadas-no-norte-do-brasil/ "Governo de Alagoas envia bombeiros para o combate às queimadas no norte do Brasil")   [![Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_Site_Fundef_AL_e302a90eae.jpg)
-
-Alagoas
-
-Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-seduc-orienta-servidor-sobre-como-ingressar-com-recurso/ "Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Foragido há 20 anos, idoso é preso acusado de matar o pai com golpes de machado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/9/csm_policia-civil-viatura_assessoria_a7db5e66ae.jpg)
-
-SANTANA DO IPANEMA
-
-Foragido há 20 anos, idoso é preso acusado de matar o pai com golpes de machado](https://www.tnh1.com.br/noticia/nid/foragido-ha-20-anos-idoso-e-preso-acusado-de-matar-o-pai-com-golpes-de-machado/ "Foragido há 20 anos, idoso é preso acusado de matar o pai com golpes de machado")   [![Filho confessa ter matado mãe a facadas por ela ter negado 10 reais para almoço](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/7/csm_idosa-esfaqueada-sao-jose-da-tapera_0c4911554d.jpg)
-
-"Momento de raiva"
-
-Filho confessa ter matado mãe a facadas por ela ter negado 10 reais para almoço](https://www.tnh1.com.br/noticia/nid/filho-confessa-ter-matado-mae-a-facadas-por-ela-ter-negado-10-reais-para-almoco/ "Filho confessa ter matado mãe a facadas por ela ter negado 10 reais para almoço")   [![Foragidos da Justiça são capturados em operação policial no interior de Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/9/csm_operacao_interior_2000cefc6c.jpeg)
-
-Polícia
-
-Foragidos da Justiça são capturados em operação policial no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/foragidos-da-justica-sao-capturados-em-operacao-policial-no-interior-de-alagoas/ "Foragidos da Justiça são capturados em operação policial no interior de Alagoas ")    [![Homem é preso por torturar e abusar de adolescentes em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/8/csm_prisao_suspeito_abusos_sexuais_maceio_c864eb59b4.jpg)
-
-Ameaçou vítimas
-
-Homem é preso por torturar e abusar de adolescentes em Maceió](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-torturar-e-abusar-de-adolescentes-em-maceio/ "Homem é preso por torturar e abusar de adolescentes em Maceió")   [!["Mercado de Dados": PF deflagra operação contra fraudes no INSS em AL e outros estados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_operacao_mercado_de_dados_pf_ef1da6c654.png)
-
-Grupo criminoso
-
-"Mercado de Dados": PF deflagra operação contra fraudes no INSS em AL e outros estados](https://www.tnh1.com.br/noticia/nid/mercado-de-dados-pf-deflagra-operacao-contra-fraudes-no-inss-em-al-e-outros-estados/ ""Mercado de Dados": PF deflagra operação contra fraudes no INSS em AL e outros estados")   [![Ex-detento morre após ser baleado na cabeça no Santos Dumont](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/3/csm_homicidio_santos_dumont_foto_cortesia_03ef52db50.png)
-
-Vulgo "Brejal"
-
-Ex-detento morre após ser baleado na cabeça no Santos Dumont](https://www.tnh1.com.br/noticia/nid/ex-detento-morre-apos-ser-baleado-na-cabeca-no-santos-dumont/ "Ex-detento morre após ser baleado na cabeça no Santos Dumont")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,20 +25,6 @@ Ex-detento morre após ser baleado na cabeça no Santos Dumont](https://www.tnh1
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
-
-Pessoas & Negócios
-
-Reitor do Cesmac recebe título de Doutor Honoris Causa](https://www.tnh1.com.br/noticia/nid/reitor-do-cesmac-recebe-titulo-de-doutor-honoris-causa/ "Reitor do Cesmac recebe título de Doutor Honoris Causa")   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
-
-Pessoas & Negócios
-
-Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,7 +98,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_paulo_dantas_e_julia_brito_-_foto_reproducao_instagram_ef15e6f6c1.png)
+[![Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/3/csm_paulo_dantas_e_julia_brito_-_foto_reproducao_instagram_ef15e6f6c1.png)
 
 Saiba com quem
 
@@ -210,15 +106,7 @@ Saiba com quem
 
 Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio
 
-Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")[![Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/8/csm_Site_Fundef_AL_3d0606e247.jpg)
-
-Alagoas
-
-Alagoas
-
-Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso
-
-Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-seduc-orienta-servidor-sobre-como-ingressar-com-recurso/ "Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso")[![Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_o-homem-foi-preso-apos-correr-armado-atras-do-adolescente-_foto_Reproducao_52720defe8.jpg)
+Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")[![Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_o-homem-foi-preso-apos-correr-armado-atras-do-adolescente-_foto_Reproducao_52720defe8.jpg)
 
 39 anos
 
@@ -234,9 +122,17 @@ que situação
 
 Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta
 
-Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://www.tnh1.com.br/noticia/nid/motorista-sai-para-brigar-carro-termina-andando-sozinho-e-bate-em-mureta/ "Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta")
+Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://www.tnh1.com.br/noticia/nid/motorista-sai-para-brigar-carro-termina-andando-sozinho-e-bate-em-mureta/ "Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta")[![Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_justin-sean-reproducao-youtube_816e9dcece.jpg)
 
-[![Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
+amigo pessoal
+
+amigo pessoal
+
+Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso
+
+Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://www.tnh1.com.br/noticia/nid/caso-diddy-os-bastidores-da-relacao-de-justin-bieber-com-o-rapper-preso/ "Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso")
+
+[![Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
 
 presídio federal
 
@@ -244,7 +140,7 @@ presídio federal
 
 Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'
 
-Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://www.tnh1.com.br/noticia/nid/conheca-a-famosa-prisao-onde-rapper-sean-diddy-esta-detido-o-caos-reina/ "Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'")[![Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/3/csm_cientistas-encontram-mumias-famosas-reproducao-journal-of-archaeological-science_ef132f670c.jpg)
+Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://www.tnh1.com.br/noticia/nid/conheca-a-famosa-prisao-onde-rapper-sean-diddy-esta-detido-o-caos-reina/ "Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'")[![Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_cientistas-encontram-mumias-famosas-reproducao-journal-of-archaeological-science_ef132f670c.jpg)
 
 substância branca
 
@@ -252,7 +148,7 @@ substância branca
 
 Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas
 
-Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://www.tnh1.com.br/noticia/nid/cientistas-encontram-queijo-mais-antigo-do-mundo-ao-analisar-mumias-famosas/ "Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas")[![Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_nova-especie-tubarao-reproducao_9675beab88.png)
+Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://www.tnh1.com.br/noticia/nid/cientistas-encontram-queijo-mais-antigo-do-mundo-ao-analisar-mumias-famosas/ "Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas")[![Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_nova-especie-tubarao-reproducao_9675beab88.png)
 
 peixe-espantalho
 
@@ -260,7 +156,7 @@ peixe-espantalho
 
 Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia
 
-Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://www.tnh1.com.br/noticia/nid/nova-especie-de-tubarao-fantasma-e-descoberta-por-cientistas-da-nova-zelandia/ "Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia")[![A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/f/csm_pesquisadores-descoberta-geoglifos-deserto-reproducao_c4f0388987.jpg)
+Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://www.tnh1.com.br/noticia/nid/nova-especie-de-tubarao-fantasma-e-descoberta-por-cientistas-da-nova-zelandia/ "Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia")[![A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_pesquisadores-descoberta-geoglifos-deserto-reproducao_c4f0388987.jpg)
 
 misteriosas criações
 
