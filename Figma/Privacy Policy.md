@@ -246,9 +246,9 @@ Privacy Policy
 
 Effective Date
 
-September 12, 2024
+September 26, 2024
 
-See all versionsSeptember 12, 2024August 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023August 31, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
+See all versionsSeptember 26, 2024September 12, 2024August 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023August 31, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
 
 [1\. ABOUT](#_1-about)
 ----------------------
@@ -451,7 +451,7 @@ You can access Standard Contractual Clauses implemented into Figma's Customer DP
 [7\. E.U. – U.S. DATA PRIVACY FRAMEWORK, UK EXTENSION AND SWISS – U.S. DATA PRIVACY FRAMEWORK](#_7-e-u-u-s-data-privacy-framework-uk-extension)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Figma, Inc. (for the purposes of this section, “Figma”, “we”, or “us”) has certified to the U.S. Department of Commerce that we adhere to: (i) the EU-U.S. Data Privacy Framework Principles with regards to the processing of personal information received from the European Union in reliance on the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), (ii) and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF, and (iii) the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) with regards to the processing of personal information received from Switzerland in reliance on the Swiss-U.S. DPF (collectively, the “DPF Principles”).
+Figma, Inc. (for the purposes of this section, “Figma”, “we”, or “us”) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Figma has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Figma has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
 
 The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF, and to view our certifications, please [visit the Data Privacy Framework Program's website](https://www.dataprivacyframework.gov/s/).
 
@@ -465,7 +465,7 @@ If you are from the EEA, UK or Switzerland, you have the right to request access
 
 We commit to resolve DPF-related complaints about our collection and use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal information received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact us using the contact details provided below. We will investigate and attempt to resolve any DPF-related complaints or disputes within forty-five (45) days of receipt.
 
-If you have an unresolved DPF complaint that we have not addressed satisfactorily, we have further committed to refer unresolved complaints to JAMS Data Privacy Dispute Resolution Program, an independent dispute resolution provider located in the U.S. made available free of charge. For more information or to submit a complaint please visit: [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
+If you have an unresolved DPF complaint that we have not addressed satisfactorily, we have further committed to refer unresolved complaints to JAMS Data Privacy Dispute Resolution Program, an independent dispute resolution provider located in the U.S. made available free of charge. For more information or to submit a complaint please visit: https://www.jamsadr.com/DPF-Dispute-Resolution.
 
 Under certain conditions, more fully described on the [Data Privacy Framework website](https://www.jamsadr.com/eu-us-data-privacy-framework), you may be entitled to invoke binding arbitration when other dispute resolution options do not satisfactorily resolve your concerns.
 
