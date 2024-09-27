@@ -7,7 +7,7 @@
 Privacy Policy and Terms of Service
 ===================================
 
-Last updated on Sep 20, 2024
+Last updated on Sep 26, 2024
 
 Privacy Policy
 --------------
@@ -290,19 +290,102 @@ Contact us
 
 If you have any questions about our policies, please contact us by email at support@clean.email
 
-[](https://clean.email/ "Home")
+5 Billion
+
+emails cleaned yearly
+
+10 Years
+
+in business
+
+[Trustpilot](https://www.trustpilot.com/review/clean.email)
+
+**Excellent 4.7** out of 5
+
+**Our rating 4.5** out of 5
+
+**4.4 •** 2.7K Ratings
+
+Features
+
+* [Auto Clean](https://clean.email/help/auto-clean/overview)
+* [Unsubscriber](https://clean.email/help/tools/unsubscriber)
+* [Screener](https://clean.email/help/tools/screener)
+* [Cleaning Suggestions](https://clean.email/help/tools/cleaning-suggestions)
+* [Privacy Monitor](https://clean.email/help/tools/privacy-monitor)
+* [Smart Folders](https://clean.email/help/basics/available-smart-folders)
+
+Resources
+
+* [Blog](https://clean.email/blog)
+* [Help](https://clean.email/help)
+* [Glossary](https://clean.email/glossary)
+* [Productivity](https://clean.email/blog/productivity)
+* [Email Management](https://clean.email/blog/email-management)
+* [Email Settings](https://clean.email/blog/email-settings)
+* [Email Security](https://clean.email/blog/email-security)
+* [Email Etiquette](https://clean.email/blog/email-etiquette)
+
+How-to guides
+
+* [Unsubscribe](https://clean.email/how-to-unsubscribe-from-emails)
+* [Stop Spam](https://clean.email/how-to-unsubscribe-from-emails/how-to-stop-spam-emails)
+* [Erase All Mail](https://clean.email/how-to-delete-all-emails/delete-all-emails-on-gmail)
+* [Mass Delete](https://clean.email/how-to-delete-all-emails/mass-delete-emails-on-gmail)
+* [Organize](https://clean.email/organize-inbox-email-messages)
+* [Block](https://clean.email/how-to-block-an-email-address)
+
+Email Detox
+
+* [Clean Gmail Inbox](https://clean.email/clean-gmail-inbox)
+* [Clean up Yahoo Inbox](https://clean.email/clean-up-yahoo-mail-inbox)
+* [Clean Outlook Inbox](https://clean.email/clean-outlook-inbox)
+* [Clean AOL Inbox](https://clean.email/clean-aol-mail-inbox)
+
+Inbox Zero
+
+* [Inbox Zero Method](https://clean.email/blog/productivity/what-is-zero-inbox)
+* [For Gmail](https://clean.email/blog/email-providers/gmail-inbox-zero)
+* [For Outlook](https://clean.email/blog/email-providers/outlook-inbox-zero)
+
+Compare
+
+* [vs Unroll.me](https://clean.email/best-unroll-me-alternative)
+* [vs Cleanfox](https://clean.email/best-cleanfox-alternative)
+* [vs Sanebox](https://clean.email/best-sanebox-alternative)
+* [vs Mailstrom](https://clean.email/best-mailstrom-alternative)
+* [vs Chuck](https://clean.email/best-chuck-email-alternative)
+* [vs Unlistr](https://clean.email/best-unlistr-alternative)
+* [vs Mailman](https://clean.email/blog/clean-email-alternatives/mailman)
+
+Platforms
+
+* [iPhone and iPad](https://apps.apple.com/us/app/clean-email/id1219660920)
+* [macOS](https://apps.apple.com/us/app/clean-email/id1441250616?mt=12)
+* [Android](https://play.google.com/store/apps/details?id=email.clean.android)
+* [Web](http://app.clean.email/)
+
+Company
+
+* [About](https://clean.email/about)
+* [Plans](https://clean.email/plans)
+* [Affiliate Program](https://clean.email/affiliates)
+* [Contact Us](https://clean.email/support)
+
+* [](https://www.facebook.com/cleanemail)
+* [](https://www.instagram.com/clean_email)
+* [](https://x.com/clean_email)
+* [](https://www.tiktok.com/@inboxacademy)
+* [](https://www.youtube.com/@cleanemail)
+
+* [](https://apps.apple.com/ua/app/clean-email-inbox-cleaner/id1219660920)
+* [](https://play.google.com/store/apps/details?id=email.clean.android)
+
+Headquartered in Los Angeles, California. Made by a remote team from all over the world.
 
 © 2015-2024 Clean Email, LLC. All Rights Reserved.
 
-Headquartered in Santa Barbara, California. Made by a remote team from all over the world.
-
-Resources[About](https://clean.email/about)[Blog](https://clean.email/blog)[Glossary](https://clean.email/glossary)[Affiliate Program](https://clean.email/affiliates)
-
-Platforms[iPhone and iPad](https://apps.apple.com/us/app/clean-email/id1219660920)[macOS](https://apps.apple.com/us/app/clean-email/id1441250616?mt=12)[Android](https://play.google.com/store/apps/details?id=email.clean.android)[Web](https://app.clean.email/?utm_source=Website&utm_medium=footer&utm_content=privacy-en)
-
-Follow us [Facebook](https://www.facebook.com/cleanemail/) [X (formerly Twitter)](https://twitter.com/clean_email) [Youtube](https://www.youtube.com/channel/UC5LF-x5GSt3zI7j2dAfRS4g) [TikTok](https://www.tiktok.com/@inboxacademy)
-
-[Privacy policy](https://clean.email/privacy)•[Contact us](https://clean.email/support)•[Vulnerability Disclosure Program](https://clean.email/vdp)
+[Privacy policy](https://clean.email/privacy)•[Terms of Service](#)•[Contact us](https://clean.email/support)•[Vulnerability Disclosure Program](https://clean.email/vdp)
 
  ![English](https://clean.email/user/themes/cleanemail-foundation/images/globe.svg) English
 
