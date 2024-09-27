@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[Local roads are impassable as Cat. 4 Helene makes landfall in the Big Bend](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
+[Local roads are impassable, Helene made landfall in the Big Bend as a Cat 4](https://www.fox4now.com/weather/hurricane-center/eyes-on-the-gulf-helene-development-becoming-more-likely-next-week)
 
 Privacy Policy
 ==============
