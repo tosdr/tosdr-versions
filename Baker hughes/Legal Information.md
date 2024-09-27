@@ -59,11 +59,11 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/ondemand-solutions)
             
-            * [Alternative Business Models](https://www.bakerhughes.com/ods/alternative-business-models)
+            * [Alternative Business Models](https://www.bakerhughes.com/on-demand-solutions/alternative-business-models)
                 
-            * [Channel Partners](https://www.bakerhughes.com/ods/channel-partners)
+            * [Channel Partners](https://www.bakerhughes.com/on-demand-solutions/channel-partners)
                 
-            * [Direct Sales](https://www.bakerhughes.com/ods/direct-sales)
+            * [Direct Sales](https://www.bakerhughes.com/on-demand-solutions/direct-sales)
                 
             
         * [Onshore Composite Pipe](https://www.bakerhughes.com/onshore-composite-pipe)
@@ -1022,11 +1022,11 @@ Search
             
             [Explore](https://www.bakerhughes.com/ondemand-solutions)
             
-            * [Alternative Business Models](https://www.bakerhughes.com/ods/alternative-business-models)
+            * [Alternative Business Models](https://www.bakerhughes.com/on-demand-solutions/alternative-business-models)
                 
-            * [Channel Partners](https://www.bakerhughes.com/ods/channel-partners)
+            * [Channel Partners](https://www.bakerhughes.com/on-demand-solutions/channel-partners)
                 
-            * [Direct Sales](https://www.bakerhughes.com/ods/direct-sales)
+            * [Direct Sales](https://www.bakerhughes.com/on-demand-solutions/direct-sales)
                 
             
         * [Onshore Composite Pipe](https://www.bakerhughes.com/onshore-composite-pipe)
