@@ -136,7 +136,7 @@ Orders ship within 1-2 days
 
 ### Contact Us
 
-M-F 9-5 support chat
+[support@blackwolfnation.com](mailto:support@blackwolfnation.com)
 
 ![Black Wolf Deals + Kits](//blackwolfnation.com/cdn/shop/collections/4.png?v=1722891268&width=1350)
 
