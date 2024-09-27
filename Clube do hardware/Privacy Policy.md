@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![vtncjunin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253704.thumb.png.8ce47a87b7494d41f9a747893ac2d63c.png)](https://www.clubedohardware.com.br/profile/1253704-vtncjunin/ "Ir ao perfil de vtncjunin")
+    * [![Samuel Ives](https://lh6.googleusercontent.com/-hODdQPh4dmI/AAAAAAAAAAI/AAAAAAAAAFM/YdVy52JTEbE/photo.jpg)](https://www.clubedohardware.com.br/profile/846749-samuel-ives/ "Ir ao perfil de Samuel Ives")
+        
+        1
+        
+        [Existem fontes para o público não gamer de confiança?](https://www.clubedohardware.com.br/forums/topic/1698385-existem-fontes-para-o-p%C3%BAblico-n%C3%A3o-gamer-de-confian%C3%A7a/?do=getNewComment "Existem fontes para o público não gamer de confiança?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Samuel Ives](https://www.clubedohardware.com.br/profile/846749-samuel-ives/ "Ir ao perfil de Samuel Ives")  
+        20 minutos atrás
+        
+    * [![Toug](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1216430.thumb.jpeg.91bc672375b797aa53fc921712f0b466.jpeg)](https://www.clubedohardware.com.br/profile/1216430-toug/ "Ir ao perfil de Toug")
         
         0
+        
+        [Acontecimento BIZARRO com R7 240](https://www.clubedohardware.com.br/forums/topic/1698384-acontecimento-bizarro-com-r7-240/?do=getNewComment "Acontecimento BIZARRO com R7 240")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Toug](https://www.clubedohardware.com.br/profile/1216430-toug/ "Ir ao perfil de Toug")  
+        24 minutos atrás
+        
+    * [![semnocao1984](https://www.clubedohardware.com.br/uploads/members/monthly_2022_06/4163e39175210e1f669572a7437a59d6bf05e43bv2_hq.thumb.jpg.273f36443b2fb919e5ef8634031ea2c2.jpg)](https://www.clubedohardware.com.br/profile/702475-semnocao1984/ "Ir ao perfil de semnocao1984")
+        
+        1
+        
+        [cabo hdmi queimou a tv](https://www.clubedohardware.com.br/forums/topic/1698383-cabo-hdmi-queimou-a-tv/?do=getNewComment "cabo hdmi queimou a tv")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [semnocao1984](https://www.clubedohardware.com.br/profile/702475-semnocao1984/ "Ir ao perfil de semnocao1984")  
+        33 minutos atrás
+        
+    * [![mococa rj](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253710.thumb.jpeg.090da62c77a8688bdb83f72bea0850a1.jpeg)](https://www.clubedohardware.com.br/profile/1253710-mococa-rj/ "Ir ao perfil de mococa rj")
+        
+        1
+        
+        [Upgrade para live 5700x](https://www.clubedohardware.com.br/forums/topic/1698382-upgrade-para-live-5700x/?do=getNewComment "Upgrade para live 5700x")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [mococa rj](https://www.clubedohardware.com.br/profile/1253710-mococa-rj/ "Ir ao perfil de mococa rj")  
+        43 minutos atrás
+        
+    * [![Freddie.Lobo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253712.thumb.png.e20d9dd453c6f6e19b47a6f53c49d757.png)](https://www.clubedohardware.com.br/profile/1253712-freddielobo/ "Ir ao perfil de Freddie.Lobo")
+        
+        0
+        
+        [Dois monitores da LG, qual a diferença?](https://www.clubedohardware.com.br/forums/topic/1698381-dois-monitores-da-lg-qual-a-diferen%C3%A7a/?do=getNewComment "Dois monitores da LG, qual a diferença?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Freddie.Lobo](https://www.clubedohardware.com.br/profile/1253712-freddielobo/ "Ir ao perfil de Freddie.Lobo")  
+        50 minutos atrás
+        
+    * [![Andrey3103](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240857.thumb.png.eb5e5cf32bb036055bb035af41a0f943.png)](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")
+        
+        3
+        
+        [Quanto tempo não irei precisar fazer upgrade com minha config](https://www.clubedohardware.com.br/forums/topic/1698380-quanto-tempo-n%C3%A3o-irei-precisar-fazer-upgrade-com-minha-config/?do=getNewComment "Quanto tempo não irei precisar fazer upgrade com minha config")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Andrey3103](https://www.clubedohardware.com.br/profile/1240857-andrey3103/ "Ir ao perfil de Andrey3103")  
+        55 minutos atrás
+        
+    * [![CaioLCamargo](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/imported-photo-1143855.thumb.jpeg.89f82aab5f0fdb1f5c905890d3ef1995.jpeg)](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")
+        
+        5
+        
+        [Core i7 4790k ainda vale a pena?](https://www.clubedohardware.com.br/forums/topic/1698379-core-i7-4790k-ainda-vale-a-pena/?do=getNewComment "Core i7 4790k ainda vale a pena?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [CaioLCamargo](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")  
+        56 minutos atrás
+        
+    * [![Bruno Fellows](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/brno.thumb.jpg.9baa7cd018000e930eefc129253f92d0.jpg)](https://www.clubedohardware.com.br/profile/1247340-bruno-fellows/ "Ir ao perfil de Bruno Fellows")
+        
+        2
+        
+        [Configuração de computador para trabalho de edição (After effects,premiere,pho)](https://www.clubedohardware.com.br/forums/topic/1698378-configura%C3%A7%C3%A3o-de-computador-para-trabalho-de-edi%C3%A7%C3%A3o-after-effectspremierepho/?do=getNewComment "Configuração de computador para trabalho de edição (After effects,premiere,pho)")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Bruno Fellows](https://www.clubedohardware.com.br/profile/1247340-bruno-fellows/ "Ir ao perfil de Bruno Fellows")  
+        1 hora atrás
+        
+    * [![brodyy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253401.thumb.png.5dfeb87805c64638b63771d28bf3bdd3.png)](https://www.clubedohardware.com.br/profile/1253401-brodyy/ "Ir ao perfil de brodyy")
+        
+        2
+        
+        [Espaço de armazenamento extremamente variável](https://www.clubedohardware.com.br/forums/topic/1698377-espa%C3%A7o-de-armazenamento-extremamente-vari%C3%A1vel/?do=getNewComment "Espaço de armazenamento extremamente variável")
+        
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [brodyy](https://www.clubedohardware.com.br/profile/1253401-brodyy/ "Ir ao perfil de brodyy")  
+        4 horas atrás
+        
+    * [![vtncjunin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253704.thumb.png.8ce47a87b7494d41f9a747893ac2d63c.png)](https://www.clubedohardware.com.br/profile/1253704-vtncjunin/ "Ir ao perfil de vtncjunin")
+        
+        2
         
         [Ideapad 1 82x5s00100 é possível fazer expansão de memória RAM](https://www.clubedohardware.com.br/forums/topic/1698376-ideapad-1-82x5s00100-%C3%A9-poss%C3%ADvel-fazer-expans%C3%A3o-de-mem%C3%B3ria-ram/?do=getNewComment "Ideapad 1 82x5s00100 é possível fazer expansão de memória RAM")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
         Por [vtncjunin](https://www.clubedohardware.com.br/profile/1253704-vtncjunin/ "Ir ao perfil de vtncjunin")  
-        1 hora atrás
-        
-    * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.png.a9180a7adafa6f6d2058e08ccf4cabcc.png)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
-        
-        0
-        
-        [preciso de sugestões de pastas termicas](https://www.clubedohardware.com.br/forums/topic/1698375-preciso-de-sugest%C3%B5es-de-pastas-termicas/?do=getNewComment "preciso de sugestões de pastas termicas")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
-        3 horas atrás
-        
-    * [![sandrofabres](https://www.clubedohardware.com.br/uploads/members/monthly_2019_09/sandrofa.thumb.jpg.069be2cb7716a9595f675c52528e8493.jpg)](https://www.clubedohardware.com.br/profile/1004875-sandrofabres/ "Ir ao perfil de sandrofabres")
-        
-        0
-        
-        [Como empresas com mais de 3000 computadores formatam / fazem imagem de cada um?](https://www.clubedohardware.com.br/forums/topic/1698374-como-empresas-com-mais-de-3000-computadores-formatam-fazem-imagem-de-cada-um/?do=getNewComment "Como empresas com mais de 3000 computadores formatam / fazem imagem de cada um?")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [sandrofabres](https://www.clubedohardware.com.br/profile/1004875-sandrofabres/ "Ir ao perfil de sandrofabres")  
-        4 horas atrás
-        
-    * [![José Pierry](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253700.thumb.jpeg.04fbb5083c80f48dc5726225d5f0c45a.jpeg)](https://www.clubedohardware.com.br/profile/1253700-jos%C3%A9-pierry/ "Ir ao perfil de José Pierry")
-        
-        3
-        
-        [T-FORCE DARK Z não roda no Ryzen 2600?](https://www.clubedohardware.com.br/forums/topic/1698373-t-force-dark-z-n%C3%A3o-roda-no-ryzen-2600/?do=getNewComment "T-FORCE DARK Z não roda no Ryzen 2600?")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [José Pierry](https://www.clubedohardware.com.br/profile/1253700-jos%C3%A9-pierry/ "Ir ao perfil de José Pierry")  
-        4 horas atrás
-        
-    * [![Vitoao](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4ab62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1235612-vitoao/ "Ir ao perfil de Vitoao")
-        
-        0
-        
-        [Upgrade na máquina (placa-mãe e processador)](https://www.clubedohardware.com.br/forums/topic/1698371-upgrade-na-m%C3%A1quina-placa-m%C3%A3e-e-processador/?do=getNewComment "Upgrade na máquina (placa-mãe e processador)")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Vitoao](https://www.clubedohardware.com.br/profile/1235612-vitoao/ "Ir ao perfil de Vitoao")  
-        4 horas atrás
-        
-    * [![Nando7i](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.4b97d708713bc3a10aad8fc2707e45e3.jpeg)](https://www.clubedohardware.com.br/profile/1253701-nando7i/ "Ir ao perfil de Nando7i")
-        
-        0
-        
-        [GPU Gigabyte Rx 6600 Eagle chegando a 70 graus](https://www.clubedohardware.com.br/forums/topic/1698370-gpu-gigabyte-rx-6600-eagle-chegando-a-70-graus/?do=getNewComment "GPU Gigabyte Rx 6600 Eagle chegando a 70 graus")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Nando7i](https://www.clubedohardware.com.br/profile/1253701-nando7i/ "Ir ao perfil de Nando7i")  
-        4 horas atrás
-        
-    * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.png.a9180a7adafa6f6d2058e08ccf4cabcc.png)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
-        
-        2
-        
-        [Preciso de sugestões de memórias para eu comprar](https://www.clubedohardware.com.br/forums/topic/1698369-preciso-de-sugest%C3%B5es-de-mem%C3%B3rias-para-eu-comprar/?do=getNewComment "Preciso de sugestões de memórias para eu comprar")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
-        4 horas atrás
-        
-    * [![Athzx7](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239c62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1235438-athzx7/ "Ir ao perfil de Athzx7")
-        
-        2
-        
-        [Pc congelando e fechando em praticamente todos os jogos q tenho.](https://www.clubedohardware.com.br/forums/topic/1698368-pc-congelando-e-fechando-em-praticamente-todos-os-jogos-q-tenho/?do=getNewComment "Pc congelando e fechando em praticamente todos os jogos q tenho.")
-        
-        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
-        Por [Athzx7](https://www.clubedohardware.com.br/profile/1235438-athzx7/ "Ir ao perfil de Athzx7")  
-        5 horas atrás
-        
-    * [![lucasfontes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253699.thumb.png.bcf2736bbea7d285f46d6414e22827f5.png)](https://www.clubedohardware.com.br/profile/1253699-lucasfontes/ "Ir ao perfil de lucasfontes")
-        
-        0
-        
-        [Upgrade de CPU e SSD](https://www.clubedohardware.com.br/forums/topic/1698367-upgrade-de-cpu-e-ssd/?do=getNewComment "Upgrade de CPU e SSD")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [lucasfontes](https://www.clubedohardware.com.br/profile/1253699-lucasfontes/ "Ir ao perfil de lucasfontes")  
-        6 horas atrás
-        
-    * [![Ivan998](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253698.thumb.png.4cefc73dda35a5ead7a89fa67804af67.png)](https://www.clubedohardware.com.br/profile/1253698-ivan998/ "Ir ao perfil de Ivan998")
-        
-        1
-        
-        [ASUS Prime B450M Gaming BR aguenta upgrade pra um Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1698366-asus-prime-b450m-gaming-br-aguenta-upgrade-pra-um-ryzen-7-5700x3d/?do=getNewComment "ASUS Prime B450M Gaming BR aguenta upgrade pra um Ryzen 7 5700X3D?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Ivan998](https://www.clubedohardware.com.br/profile/1253698-ivan998/ "Ir ao perfil de Ivan998")  
-        6 horas atrás
+        7 horas atrás
         
     
 
