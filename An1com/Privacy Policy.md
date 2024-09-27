@@ -5,7 +5,7 @@
     
     * [All Games](https://an1.com/games/)
     * [Action (719)](https://an1.com/games/action/)
-    * [Cards (34)](https://an1.com/games/cards/)
+    * [Cards (35)](https://an1.com/games/cards/)
     * [Arcade (516)](https://an1.com/games/arcade/)
     * [RPG (4)](https://an1.com/games/rpg/)
     * [Shooter (6)](https://an1.com/games/shooter/)
