@@ -2,8 +2,6 @@
 
   
 
-[Publishers](https://chartable.com/publishers)
-
 [Charts](https://chartable.com/charts)
 
 [Log in](https://chartable.com/sign_in)
@@ -183,25 +181,13 @@ We may change this Policy from time to time. If we make changes, we will notify 
 
 Thank you for reading our Policy. If you have any questions about this Policy, please contact our Data Protection Officer by emailing [\[email protected\]](https://chartable.com/cdn-cgi/l/email-protection) or by writing to us at Chartable Holding, LLC, 150 Greenwich Street, Floor 62, New York, NY 10007, USA.
 
-[For publishers](https://chartable.com/publishers)
-
-[Podcast Analytics](https://chartable.com/publishers)
-
-[Podcast SmartLinks](https://chartable.com/publishers/smartlinks)
-
-[SmartPromos](https://chartable.com/publishers/smartpromos)
-
-[Pricing](https://chartable.com/publishers/pricing)
-
- [](https://chartable.com/publishers)
+Podcasts
 
 [Podcast Reviews](https://chartable.com/publishers/podcast-reviews)
 
 [Podcast Charts](https://chartable.com/charts)
 
 Accounts
-
-[Sign up](https://chartable.com/sign_up)
 
 [Log in](https://chartable.com/sign_in)
 
@@ -216,22 +202,6 @@ Help
 [\[email protected\]](https://chartable.com/cdn-cgi/l/email-protection)
 
 [Service status](https://chartable.statuspage.io/)
-
-[Glossary](https://chartable.com/glossary)
-
-[Submit a Podcast](https://chartable.com/podcasts/submit)
-
-Chartable
-
-[About us](https://chartable.com/about)
-
-[The Chartable Blog](https://chartable.com/blog)
-
-[Changelog](https://changelog.chartable.com/)
-
-[Chartable Radio](https://chartable.com/podcasts/chartable-radio)
-
-[@ChartableDotCom](https://twitter.com/ChartableDotCom)
 
 © 2024 Chartable Holding, LLC
 
