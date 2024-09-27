@@ -84,7 +84,7 @@ If you are using any other web browser, please visit your browser’s official s
 
 Quick Links
 
-* [Home](https://www.rocksteadymusicschool.com/)
+* [Rocksteady Music School | The leading provider of in-school band lessons for primary age children](https://www.rocksteadymusicschool.com/)
 * [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 * [School Login](https://portal.rocksteadymusicschool.com/)
 * [Careers](https://www.rocksteadymusicschool.com/careers/)
