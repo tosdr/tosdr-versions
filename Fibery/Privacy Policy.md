@@ -106,7 +106,7 @@ Team
 
 ![Fibery loader image](/img/fibery-loader.gif)
 
-Request a demo
+Schedule a demo
 
 [Log in](https://fibery.io/login)
 
