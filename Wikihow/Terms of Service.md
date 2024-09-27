@@ -390,23 +390,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
-[![Get Longer Hair Fast](https://www.wikihow.com/images/thumb/8/87/Get-Longer-Hair-Fast-Step-17-Version-2.jpg/-crop-126-120-126px-Get-Longer-Hair-Fast-Step-17-Version-2.jpg)
+[![Learn to Say No](https://www.wikihow.com/images/thumb/b/b1/Learn-to-Say-No-Step-14.jpg/-crop-126-120-126px-Learn-to-Say-No-Step-14.jpg)
 
 How to  
-Get Longer Hair Fast](https://www.wikihow.com/Get-Longer-Hair-Fast)
+Learn to Say No](https://www.wikihow.com/Learn-to-Say-No)
 
-[![Get Glowing Skin in Just One Week](https://www.wikihow.com/images/thumb/8/8c/Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg/-crop-126-120-126px-Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg)
+[![Write a Diary](https://www.wikihow.com/images/thumb/0/04/Write-a-Diary-Step-17-Version-4.jpg/-crop-126-120-126px-Write-a-Diary-Step-17-Version-4.jpg)
 
 How to  
-Get Glowing Skin in Just One Week](https://www.wikihow.com/Get-Glowing-Skin-in-Just-One-Week)
+Write a Diary](https://www.wikihow.com/Write-a-Diary)
 
-[![Deep Love Messages for Him](https://www.wikihow.com/images/thumb/1/1e/Deep-Love-Messages-for-Him-Step-16.jpg/-crop-126-120-126px-Deep-Love-Messages-for-Him-Step-16.jpg)
+[![Flirt](https://www.wikihow.com/images/thumb/0/0b/Flirt-Step-20-Version-4.jpg/-crop-126-120-126px-Flirt-Step-20-Version-4.jpg)
 
-170+ Deep, Heartfelt & Passionate Love Messages to Send Your Guy](https://www.wikihow.com/Deep-Love-Messages-for-Him)
+How to  
+Flirt](https://www.wikihow.com/Flirt)
 
-[![Dream Interpreter](https://www.wikihow.com/images/thumb/8/89/Have-the-Dreams-You-Want-Step-26-Version-2.jpg/-crop-126-120-126px-Have-the-Dreams-You-Want-Step-26-Version-2.jpg)
+[![You Do You Meaning](https://www.wikihow.com/images/thumb/f/f4/You-Do-You-Meaning-Step-9.jpg/-crop-126-120-126px-You-Do-You-Meaning-Step-9.jpg)
 
-What Does My Dream Mean Quiz](https://www.wikihow.com/Dream-Interpreter)
+What Exactly Does “You Do You” Mean?](https://www.wikihow.com/You-Do-You-Meaning)
 
   
 
@@ -449,4 +450,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-198
+252
