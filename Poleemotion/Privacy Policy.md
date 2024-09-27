@@ -84,17 +84,9 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Yoga Fly](/storage/highlights/56395/highlight.webp?v=524931)
+[](https://app.pole-emotion.ch/evjf)
 
-##### Yoga Fly
-
-ven. 27 septembre 2024 - **19:00** à Yverdon salle 2 - Studio48
-
-Ce cours te permettra d’améliorer ta souplesse, faire travailler tes muscles et surtout te détendre… Le tout, suspendue...
-
-**c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/56395)[](https://app.pole-emotion.ch/evjf)
-
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=527031)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=093048)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
