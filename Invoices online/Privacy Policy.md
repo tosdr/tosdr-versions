@@ -118,61 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Terri Winfield
+Kobus Venter
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=9834541)  
-Network Grey (Pty) Ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=23815004)  
+Fox Alarms & Security
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=123012303)  
-AFS Electrical
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=107600459)  
+Oak Tree Immigration
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=153170168)  
-APTV Telecoms CC
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=90804702)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=130289334)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=6779178)  
+Vplay Letsheng Mall
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=128765584)  
-Iurus Inc
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=174603242)  
+Wiselink Broadband Pty Ltd
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=94167462)  
-Gemini-IT Group
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=188789437)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=127757691)  
-TRACKFORCE (Pty) Ltd
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=90961098)  
+Blue Sky Solar Services
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=97497079)  
-Chiron Medical Solutions
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=23496510)  
+Lemba Truck Stop
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=32274242)  
-NEW BEGINNINGS DESIGNS
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=58982420)  
+Itroniq (Pty) Ltd
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=45606636)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=129981095)  
+West Coast Horse Trails
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=108094557)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=111765036)  
+Qothiphango Mining
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=162519758)  
-Wiselink Broadband Dundee
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=143797965)  
+MR Compressors& Industrial Supplies
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=143181713)  
-Entidee Enterprise PTY (ltd)
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=64438026)  
+Electro-Heat
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=180564501)  
-MONSTER SECURITY SERVICES
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=164432117)  
+Xpress Designs
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=97d26735b8a329a3ee9c4651be0e3030976455969d757eced269ad6226bce0b3&c=88318370)  
-TIGERDSL
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=76987366)  
+Cpower Projects t/a Pro Pure Water
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
