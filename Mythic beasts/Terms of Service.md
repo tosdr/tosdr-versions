@@ -16,8 +16,6 @@
     
     [Virtual servers](https://www.mythic-beasts.com/servers/virtual)
     
-    [Mac Mini colo](https://www.mythic-beasts.com/sales/colo/macmini)
-    
     [Transit & connectivity](https://www.mythic-beasts.com/sales/transit)
     
     [Other services](https://www.mythic-beasts.com/sales/other)
@@ -95,6 +93,8 @@
     [Hosting](https://www.mythic-beasts.com/support/hosting)
     
     [Domains](https://www.mythic-beasts.com/support/domains)
+    
+    [Accounts & Billing](https://www.mythic-beasts.com/support/accounts-billing)
     
 * [Blog](https://www.mythic-beasts.com/blog/)
 
