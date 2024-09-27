@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Old Couple Picture Gives Artists Redraw Material In 2024](https://i.kym-cdn.com/featured_items/icons/wide/000/026/034/redraw_by_why_egg.jpg "Old Couple Picture Gives Artists Redraw Material In 2024")
+* [![An Iconic 'Boss Baby' Tweet Birthed The Perfect Roast Of Uninformed Criticism](https://i.kym-cdn.com/featured_items/icons/wide/000/026/049/bvb.jpg "[Only Knows One Meme] Getting A Lot Of 'Getting A Lot Of Boss Baby Vibes' Vibes From This")
     
-    Old Couple Picture Gives Artists Redraw Material In 2024](https://knowyourmeme.com/memes/dreaming-pillow-motif)
+    \[Only Knows One Meme\] Getting A Lot Of 'Getting A Lot Of Boss Baby Vibes' Vibes From This](https://knowyourmeme.com/memes/getting-a-lot-of-boss-baby-vibes-from-this)
     
-* [!['Poor Bastard Exploded' Is Reddit's Way Of Providing Humorous Interpretations To Various Pictures](https://i.kym-cdn.com/featured_items/icons/wide/000/026/033/Screenshot_2024-09-24_at_1.29.10_PM.jpg "'Poor Bastard Exploded' Is Reddit's Way Of Providing Humorous Interpretations To Various Pictures")
+* [![Ships Between 'The Nervous, Wholesome One' And 'The Calm, Saucy One' Become Fan Art Material In This Template](https://i.kym-cdn.com/featured_items/icons/wide/000/026/048/wholesome_vs_lewd.jpg "Ships Between 'The Nervous, Wholesome One' And 'The Calm, Saucy One' Become Fan Art Material In This Template")
     
-    'Poor Bastard Exploded' Is Reddit's Way Of Providing Humorous Interpretations To Various Pictures](https://knowyourmeme.com/memes/poor-bastard-exploded)
+    Ships Between 'The Nervous, Wholesome One' And 'The Calm, Saucy One' Become Fan Art Material In This Template](https://knowyourmeme.com/memes/wild-one-vs-soft-one-dynamic-ship)
     
-* [![Hermann Gottlieb's Double Event Speech is a memorable monologue from the 2013 movie Pacific Rim, in which a scientist explains how Kaijus (the film's giant sea monsters) are appearing at ever-increasing frequencies. A multi-panel version of the scene came to be used as a snowclone and an exploitable meme in the early 2020s to joke about things happening at exponential rates.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/032/Screenshot_2024-09-22_at_14-54-51_Pacific_Rim_-_Predictions_And_Experiments_-_YouTube.png "Hermann Gottlieb's 'Double Event' Speech From 'Pacific Rim' Proves To Be An Apt Copypasta For These Unprecedented Times")
+* [!['BFs' Are Getting Baked Into Cookies In Latest Redraw Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/047/baking_a_cookie.jpg "'BFs' Are Getting Baked Into Cookies In Latest Redraw Trend")
     
-    Hermann Gottlieb's 'Double Event' Speech From 'Pacific Rim' Proves To Be An Apt Copypasta For These Unprecedented Times](https://knowyourmeme.com/memes/hermann-gottliebs-double-event-speech)
+    'BFs' Are Getting Baked Into Cookies In Latest Redraw Trend](https://knowyourmeme.com/memes/baking-my-long-distance-bf-into-a-cookie-because-i-miss-him)
     
-* [![Bello! Gimmick Account 'Bob The Minion' Has Been Twitter's Favorite Maniac For The Past Month](https://i.kym-cdn.com/featured_items/icons/wide/000/026/031/cover1.jpg "Bello! Gimmick Account 'Bob The Minion' Has Been Twitter's Favorite Maniac For The Past Month")
+* [![Duke Dennis Eating Grapes, also known as 🥷's Tryna Look Cool Doing Anything or POV: Dudes Will Do Anything To Look Cool, refers to a TikTok trend parodying a viral video showing Twitch streamer and YouTuber Duke Dennis shaking his grapes like dice before eating them. In August and September 2024, the clip inspired a trend in which teens satirized behavioral quirks employed by men to give off a suave, nonchalant and cool vibe.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/046/tryna_look_cool_doin_anything.jpg "Duke Dennis Rolling Grapes In His Hand Inspires A TikTok Trend About The Lengths Men Will Go To Look Cool")
     
-    Bello! Gimmick Account 'Bob The Minion' Has Been Twitter's Favorite Maniac For The Past Month](https://knowyourmeme.com/memes/sites/bob-the-minion-gimmick-account)
+    Duke Dennis Rolling Grapes In His Hand Inspires A TikTok Trend About The Lengths Men Will Go To Look Cool](https://knowyourmeme.com/memes/duke-dennis-eating-grapes-%F0%9F%A5%B7s-will-do-anything-to-look-cool)
     
-* [![RFK Jr. Dead Whale Story ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/030/rfk_jr_dead_whale.jpg "RFK Jr. Once Drove Five Hours With A Decapitated Whale Head On His Car, According To His Daughter")
+* [![Years After The Movie's Release, This 'Ice Age' Quote Became A Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/045/1.jpg "Years After The Movie's Release, This 'Ice Age' Quote Became A Meme")
     
-    RFK Jr. Once Drove Five Hours With A Decapitated Whale Head On His Car, According To His Daughter](https://knowyourmeme.com/memes/events/rfk-jr-dead-whale-story)
+    Years After The Movie's Release, This 'Ice Age' Quote Became A Meme](https://knowyourmeme.com/memes/were-you-killed-sadly-yes-but-i-lived)
     
 
 ##### Also Trending:
 
-[Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Never Kill Yourself](https://knowyourmeme.com/memes/never-kill-yourself "Never Kill Yourself")
+[J.D. Vance Dossier Leak](https://knowyourmeme.com/memes/events/jd-vance-dossier-leak "J.D. Vance Dossier Leak") [Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Never Kill Yourself](https://knowyourmeme.com/memes/never-kill-yourself "Never Kill Yourself") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [RFK Jr. Dead Whale Story](https://knowyourmeme.com/memes/events/rfk-jr-dead-whale-story "RFK Jr. Dead Whale Story") [Apu Gurl](https://knowyourmeme.com/memes/apu-gurl "Apu Gurl") [J.D. Vance](https://knowyourmeme.com/memes/people/jd-vance "J.D. Vance")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
