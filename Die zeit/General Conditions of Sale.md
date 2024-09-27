@@ -107,8 +107,6 @@ Anzeigen
     * Hell
     * Dunkel
 
-[**Eilmeldung** 15:19 Uhr Britische Schauspielerin Maggie Smith ist tot](https://www.zeit.de/kultur/film/2024-09/britische-schauspielerin-maggie-smith-ist-tot)
-
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
 
