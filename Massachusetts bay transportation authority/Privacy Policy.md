@@ -275,6 +275,8 @@ About
 
 [Home](https://www.mbta.com/)[Policies](https://www.mbta.com/policies)Privacy Policy
 
+[Sign up to test the new **MBTA app →**](https://mbta.com/app)
+
 Privacy Policy
 ==============
 
