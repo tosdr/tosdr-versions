@@ -34,7 +34,7 @@
     * [Disaster relief](https://www.fidelitycharitable.org/guidance/disaster-relief.html)
     * [Research charities](https://www.fidelitycharitable.org/guidance/research-charities.html)
     * [Philanthropic Journey Guide](https://www.fidelitycharitable.org/guidance/philanthropic-journey-guide.html)
-    * [Philanthropic Consulting Program](https://www.fidelitycharitable.org/guidance/philanthropic-consulting-program.html)
+    * [Philanthropic Advice Referral Network](https://www.fidelitycharitable.org/guidance/philanthropic-advice-referral-network.html)
     * [Tools and calculators](https://www.fidelitycharitable.org/tools.html)
     
 
@@ -74,7 +74,7 @@ Please enter a search term
 * [Disaster relief](https://www.fidelitycharitable.org/guidance/disaster-relief.html)
 * [Research charities](https://www.fidelitycharitable.org/guidance/research-charities.html)
 * [Philanthropic Journey Guide](https://www.fidelitycharitable.org/guidance/philanthropic-journey-guide.html)
-* [Philanthropic Consulting Program](https://www.fidelitycharitable.org/guidance/philanthropic-consulting-program.html)
+* [Philanthropic Advice Referral Network](https://www.fidelitycharitable.org/guidance/philanthropic-advice-referral-network.html)
 * [Tools and calculators](https://www.fidelitycharitable.org/tools.html)
 
 [Open a Giving Account](https://www.fidelitycharitable.org/open-account.html)
