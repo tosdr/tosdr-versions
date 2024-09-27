@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/36e7f65b-faf6-4ad4-b585-a5e8cee4e561/20240628T141920/36e7f65b-faf6-4ad4-b585-a5e8cee4e561_16x9.jpg) ![](https://media.king5.com/assets/KING/images/36e7f65b-faf6-4ad4-b585-a5e8cee4e561/20240628T141920/36e7f65b-faf6-4ad4-b585-a5e8cee4e561_360x203.jpg)](https://www.king5.com/article/news/local/homeless/court-dismisses-legal-complaint-burien-camping-ban/281-50eafc0f-6911-4c1c-bed8-fa28e507b1c9)
+    *  [![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
         
-        #### [Court dismisses King County's legal complaint over Burien's camping ban](https://www.king5.com/article/news/local/homeless/court-dismisses-legal-complaint-burien-camping-ban/281-50eafc0f-6911-4c1c-bed8-fa28e507b1c9)
+        #### [WSDOT said this is the biggest weekend for road closures. Here's what roads will be closed](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
         
-    *  [![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1/df6c74ba-8757-4b13-a8c1-90dbeff3f5b1_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-avery-moore-on-leave/281-04df4057-877f-40f2-af65-350855ebe93d)
+    *  [![](https://media.king5.com/assets/KING/images/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2/20240927T130905/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2/20240927T130905/fa2a9e48-1066-4abb-8ba0-6a864b99e1d2_360x203.jpg)](https://www.king5.com/article/news/local/seattle/car-crashes-into-seattle-martial-arts-school/281-56e085bc-e31e-4aa6-ae29-e2587c7c28eb)
         
-        #### [Tacoma police Chief Avery Moore placed on leave](https://www.king5.com/article/news/local/tacoma/tacoma-police-chief-avery-moore-on-leave/281-04df4057-877f-40f2-af65-350855ebe93d)
+        #### [Car crashes into martial arts school in Seattle's Interbay neighborhood](https://www.king5.com/article/news/local/seattle/car-crashes-into-seattle-martial-arts-school/281-56e085bc-e31e-4aa6-ae29-e2587c7c28eb)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a3ec6194-93fa-415b-b6e0-3d7883b23bb9/20240927T004138/a3ec6194-93fa-415b-b6e0-3d7883b23bb9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3ec6194-93fa-415b-b6e0-3d7883b23bb9/20240927T004138/a3ec6194-93fa-415b-b6e0-3d7883b23bb9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/885419fa-6234-4429-8c12-b631b23f8f53/20240927T120002/885419fa-6234-4429-8c12-b631b23f8f53_16x9.jpg) ![](https://media.king5.com/assets/KING/images/885419fa-6234-4429-8c12-b631b23f8f53/20240927T120002/885419fa-6234-4429-8c12-b631b23f8f53_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-58°
+59°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
