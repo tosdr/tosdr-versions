@@ -42,15 +42,15 @@
     
 * [Business](https://www.gl-inet.com/business/)
     
-    [eSIM Solution](https://www.gl-inet.com/solutions/esim/) [Tailored Network Solutions for SMBs](https://www.gl-inet.com/solutions/smb/) [Thread Border Router](https://www.gl-inet.com/solutions/thread-border-router/) [RV Connectivity Solution](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network Solution](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [4G LTE Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud IoT Device Management System](https://www.gl-inet.com/solutions/goodcloud/) [Site-to-Site for Work & Business](https://www.gl-inet.com/solutions/site-to-site/) [White Label and Customization Service](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Routers](https://www.gl-inet.com/solutions/vpn/) [Use Cases](https://www.gl-inet.com/usecases/)
+    [eSIM Solution](https://www.gl-inet.com/solutions/esim/) [Tailored Network Solutions for SMBs](https://www.gl-inet.com/solutions/smb/) [Thread Border Router](https://www.gl-inet.com/solutions/thread-border-router/) [RV Connectivity Solution](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network Solution](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [4G LTE Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud IoT Device Management System](https://www.gl-inet.com/solutions/goodcloud/) [Site-to-Site for Work & Business](https://www.gl-inet.com/solutions/site-to-site/) [White Label and Customization Service](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Routers](https://www.gl-inet.com/solutions/vpn/) [Become a Reseller](https://www.gl-inet.com/form/become-a-reseller/) [Use Cases](https://www.gl-inet.com/usecases/)
     
 * [Community](https://www.gl-inet.com/community/)
     
-    [Forum](https://forum.gl-inet.com/) [Blog](https://blog.gl-inet.com/) [Influencers Program](https://www.gl-inet.com/influencers/) [Loyalty Program](https://store.gl-inet.com/pages/rewards-page) [Beta Testing Program](https://www.gl-inet.com/beta-testing/) [Educational Offer](https://www.gl-inet.com/educational-discount/) [Newsroom](https://www.gl-inet.com/press/) [Where to buy](https://www.gl-inet.com/where-to-buy/)
+    [Forum](https://forum.gl-inet.com/) [Blog](https://blog.gl-inet.com/) [Influencers Program](https://www.gl-inet.com/influencers/) [Loyalty Program](https://store.gl-inet.com/pages/rewards-page) [Beta Testing Program](https://www.gl-inet.com/beta-testing/) [Affiliate Program](https://www.gl-inet.com/affiliate-program/) [Educational Offer](https://www.gl-inet.com/educational-discount/) [Newsroom](https://www.gl-inet.com/press/) [Where to buy](https://www.gl-inet.com/where-to-buy/)
     
 * [Support](https://www.gl-inet.com/contacts/)
     
-    [Router Support Docs](https://docs.gl-inet.com/router/en/) [IoT Support Docs](https://docs.gl-inet.com/iot/en/) [Firmware Download Center](https://dl.gl-inet.com/) [Firmware Status Updates](https://www.gl-inet.com/support/firmware-versions/) [Security Updates](https://www.gl-inet.com/security-updates/) [PSTI Statement](https://www.gl-inet.com/psti/) [Contact Our Support Team](https://www.gl-inet.com/contacts/)
+    [Router Support Docs](https://docs.gl-inet.com/router/en/) [IoT Support Docs](https://docs.gl-inet.com/iot/en/) [Firmware Download Center](https://dl.gl-inet.com/) [Firmware Status Updates](https://www.gl-inet.com/support/firmware-versions/) [Firmware Features](https://www.gl-inet.com/support/firmware-features/) [Security Updates](https://www.gl-inet.com/security-updates/) [PSTI Statement](https://www.gl-inet.com/psti/) [Contact Our Support Team](https://www.gl-inet.com/contacts/)
     
 * [Store](https://store-us.gl-inet.com/)
 
@@ -320,7 +320,7 @@ This GL.iNet Privacy Policy was revised and posted as of April 17, 2020.
 
 * [Use Cases](https://www.gl-inet.com/usecases/) [Healthcare](https://www.gl-inet.com/usecases/) [Retails](https://www.gl-inet.com/usecases/) [Transportation](https://www.gl-inet.com/usecases/) [Agriculture & Manufacturing](https://www.gl-inet.com/usecases/) [Smart Home & IoT Mesh](https://www.gl-inet.com/usecases/) [Network Connectivity](https://www.gl-inet.com/usecases/)
 
-* [Contact Us](https://www.gl-inet.com/contacts/) [Newsroom](https://www.gl-inet.com/press/) [Influencers Program](https://www.gl-inet.com/influencers) [Career](https://www.gl-inet.com/jobs/) [Business Inquiries](https://www.gl-inet.com/business/) [Sales Support](https://www.gl-inet.com/business/) [Tech Support](https://www.gl-inet.com/contacts/) [Security Support](https://www.gl-inet.com/security-support/)
+* [Contact Us](https://www.gl-inet.com/contacts/) [Join GL.iNet](https://www.gl-inet.com/jobs/) [Business Inquiries](https://www.gl-inet.com/business/) [Technical Support](https://www.gl-inet.com/contacts/) [Report Security Issues](https://www.gl-inet.com/security-support/) [Marketing Collaboration](mailto:marketing@gl-inet.com) [Influencers Program](https://www.gl-inet.com/influencers)
 
 * ##### Connect with Us
     
