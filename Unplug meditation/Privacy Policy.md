@@ -311,6 +311,6 @@ Thank you!
 
 Unplug Meditation, 12401 Wilshire Boulevard, Suite 101, Los Angeles, CA 90025(310) 826-8899[info@unplugmeditation.com](mailto:info@unplugmeditation.com)
 
-© 2020 Unplug Meditation
+© 2024 Unplug Meditation
 
 [Terms of Use](http://www.unplug.com/terms-of-use)   |   [Privacy Policy](https://unplug.com/privacy-policy)
