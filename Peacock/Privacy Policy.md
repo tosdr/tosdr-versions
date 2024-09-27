@@ -63,7 +63,7 @@ Last Updated: July 1, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?brandA=Peacock&intake=Peacock "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?api=nmari&api_key=h1lh2&cat=p9oak&categoryid=smp0o&from=fqixj&id=cgy14&immagine=nhq2v&intake=E%21_Entertainment&item=znxeh&key=eth4f&keyword=fq2l7&keywords=f6tuv&l=%3Ceplt5q%3E&lang=fev4b&p=um3lo&page_id=rocj6&redirect=ic5fd&text=mc389&tid=t3nmx&url=h2tip&year=wrv2r "Printer Friendly, PDF & Email")
 
 NBCUniversal Privacy Policy
 ===========================
