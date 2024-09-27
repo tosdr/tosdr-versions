@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ruby Ridge](/wp-content/thumbnails/13180-100x70.jpg?x53432)
+* [![Twist of Faith (2004)](/wp-content/thumbnails/1520-100x70.jpg?x53432)
     
-    Ruby Ridge
+    Twist of Faith (2004)
     
-    On August 21, 1992, a place known as Ruby Ridge located in Northern Idaho would become infamous as this particular day marked the beginning of an eleven-day siege which took place between six hea](https://documentaryheaven.com/american-experience-ruby-ridge/ "Ruby Ridge")
-* [![Hitler’s Right Hand Man: Hermann Göring](/wp-content/thumbnails/9216-100x70.jpg?x53432)
+    There's no easy way to address a highly charged subject like the sexual abuse of young boys by Catholic priests, but with Twist of Faith, director Kirby Dick has taken a straightforward approach, usin](https://documentaryheaven.com/twist-of-faith-2004/ "Twist of Faith (2004)")
+* [![Matrix of Evil](/wp-content/thumbnails/2264-100x70.jpg?x53432)
     
-    Hitler’s Right Hand Man: Hermann Göring
+    Matrix of Evil
     
-    Hermann Göring was Hitlers right hand man who after World War II was convicted in the Nuremberg trials of war crimes and crimes against humanity. He was sentenced to death by hanging but before this s](https://documentaryheaven.com/hitlers-right-hand-man-hermann-goring/ "Hitler’s Right Hand Man: Hermann Göring")
-* [![A Very British Hero](/wp-content/thumbnails/3947-100x70.jpg?x53432)
+    Some of the best minds in the country, coming from different sectors of the political spectrum combine in this film to expose an intricate web of deceitful wickness controlling America today. Matrix o](https://documentaryheaven.com/matrix-of-evil/ "Matrix of Evil")
+* [![Michael Jackson: The Making Of Thriller](/wp-content/thumbnails/7608-100x70.jpg?x53432)
     
-    A Very British Hero
+    Michael Jackson: The Making Of Thriller
     
-    In A Very British Hero, Christina Schmid – the widow of army bomb disposal expert Oz Schmid – reveals how the Army is failing in its duty of care to this tiny elite band of soldiers who are at the ver](https://documentaryheaven.com/a-very-british-hero/ "A Very British Hero")
-* [![FUCK](/wp-content/thumbnails/8775-100x70.jpg?x53432)
+    Michael Jackson's Thriller is an American 13-minute music video for the song of the same name released on December 2, 1983. It was directed by John Landis, who also co-wrote the sc](https://documentaryheaven.com/michael-jackson-making-thriller/ "Michael Jackson: The Making Of Thriller")
+* [![Behind Closed Doors: Elderly Care Exposed](/wp-content/thumbnails/8818-100x70.jpg?x53432)
     
-    FUCK
+    Behind Closed Doors: Elderly Care Exposed
     
-    Released in 2005, FUCK is a documentary by Steve Anderson and examines the word "fuck" and its origins. The films itself argues that the word is an essential part of society and discussion and represe](https://documentaryheaven.com/fuck/ "FUCK")
-* [![Prime Time: The Graham Dwyer Case](/wp-content/thumbnails/14681-100x70.jpg?x53432)
+    BBC's Panorama takes it upon themselves to investigate the state of some of Britain's care homes for the elderly. Through the use of secret filming this documentary reveals some truly disturbing cases](https://documentaryheaven.com/behind-closed-doors-elderly-care-exposed/ "Behind Closed Doors: Elderly Care Exposed")
+* [![How Vietnam Was Lost](/wp-content/thumbnails/8757-100x70.jpg?x53432)
     
-    Prime Time: The Graham Dwyer Case
+    How Vietnam Was Lost
     
-    In this RTÉ special we see Prime Time reporter Barry Cummins detail the circumstances and subsequent investigation into the case of Elaine O'Hara, an Irish woman who was originally reported missing bu](https://documentaryheaven.com/prime-time-graham-dwyer-case/ "Prime Time: The Graham Dwyer Case")
+    Based on David Maraniss's book They Marched into Sunlight, a documentary telling the story of two seemingly unconnected events in October 1967 that changed the course of the Vietnam War.Whilst a U](https://documentaryheaven.com/how-vietnam-was-lost/ "How Vietnam Was Lost")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
