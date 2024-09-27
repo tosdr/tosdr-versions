@@ -169,9 +169,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
+* [Navigating data sharing challenges](https://www.onetrust.com/resources/navigating-data-sharing-challenges-webinar/)
 * [Privacy automation 101: Simplifying data mapping and risk assessments](https://www.onetrust.com/resources/privacy-automation-101-simplifying-data-mapping-and-risk-assessments-webinar/)
-* [Strengthen your third-party ecosystem: Strategies to combat modern slavery, anti-bribery, and corruption](https://www.onetrust.com/resources/strengthen-your-third-party-ecosystem-strategies-to-combat-modern-slavery-anti-bribery-and-corruption-webinar/)
-* [Tackling your key challenges from the ICO Data Protection Practitioner's Conference](https://www.onetrust.com/resources/tackling-your-key-challenges-from-the-ico-data-protection-practitioners-conference-webinar/)
 
 ### Platform
 
