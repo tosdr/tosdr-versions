@@ -2,14 +2,14 @@ Friday, September 27 2024
 
 Breaking News
 
+* [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
+* [President Joe Biden’s Schedule for Friday, September 27, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-27-2024/)
 * [FAIL: Army Delays Pay Raise For Soldiers Days Before It Was Expected To Arrive](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
 * [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
 * [Feds Indict New York City Mayor Eric Adams: REPORT](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
 * [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
 * [GOP Sen Demands Merrick Garland Fork Over Communications Related To Jack Smith’s Latest Trump Indictment](https://www.conservativedailynews.com/2024/09/gop-sen-demands-merrick-garland-fork-over-communications-related-to-jack-smiths-latest-trump-indictment/)
 * [Does Diversity Unite Or Divide](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
-* [Maine/New Hampshire Reps Don’t Protect Women](https://www.conservativedailynews.com/2024/09/maine-new-hampshire-reps-dont-protect-women/)
-* [President Joe Biden’s Schedule for Thursday, September 26, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-thursday-september-26-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,51 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.70%
 
+* [![Democrat City crime violence](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
+    
+    [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
+    
+    September 26, 2024
+    
 * [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
     
     [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
     
     September 25, 2024
     
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
-    
-    [CNN Host Says Her Network’s Poll Has ‘Some Alarming Numbers’ For Harris](https://www.conservativedailynews.com/2024/09/cnn-host-says-her-networks-poll-has-some-alarming-numbers-for-harris/)
-    
-    September 25, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-signing-bill-Jill-Biden-supervising-220x150.png)](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
+    
+    [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
+    
+    September 27, 2024
+    
+* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/made-in-china-2/)
+    
+    [Made in China](https://www.conservativedailynews.com/2024/09/made-in-china-2/)
+    
+    September 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-Beach-House-Rehoboth-220x150.jfif)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-27-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, September 27, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-27-2024/)
+    
+    September 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/09/harris-attack-on-the-filibuster-is-an-attack-on-the-constitution/)
+    
+    [Harris’ Attack on the Filibuster Is an Attack on the Constitution](https://www.conservativedailynews.com/2024/09/harris-attack-on-the-filibuster-is-an-attack-on-the-constitution/)
+    
+    September 27, 2024
+    
+* [![Kamala socialism handouts](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-vision/)
+    
+    [Kamala’s Vision](https://www.conservativedailynews.com/2024/09/kamalas-vision/)
+    
+    September 27, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental.jpg)](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
     
     [FAIL: Army Delays Pay Raise For Soldiers Days Before It Was Expected To Arrive](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
@@ -144,39 +174,11 @@ Recent Posts
     
     September 26, 2024
     
-* [![Democrat City crime violence](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
-    
-    [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
-    
-    September 26, 2024
-    
-* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/gop-sen-demands-merrick-garland-fork-over-communications-related-to-jack-smiths-latest-trump-indictment/)
-    
-    [GOP Sen Demands Merrick Garland Fork Over Communications Related To Jack Smith’s Latest Trump Indictment](https://www.conservativedailynews.com/2024/09/gop-sen-demands-merrick-garland-fork-over-communications-related-to-jack-smiths-latest-trump-indictment/)
-    
-    September 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5617-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
-    
-    [Does Diversity Unite Or Divide](https://www.conservativedailynews.com/2024/09/does-diversity-unite-or-divide/)
-    
-    September 26, 2024
-    
-* [![Filibuster big government](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/necessary-restraint/)
-    
-    [Necessary Restraint](https://www.conservativedailynews.com/2024/09/necessary-restraint/)
-    
-    September 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans/)
-    
-    [Biden-Harris Immigration Policies Waste Billions That Should Be Spent on Americans](https://www.conservativedailynews.com/2024/09/biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans/)
-    
-    September 26, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [GRPC LIVESTREAM LINKS](https://www.thegunpage.com/grpc-livestream-links/10610845)
+* [USA Shooting Earns Six Medals At Paris 2024 Olympic & Paralympic Games](https://www.thegunpage.com/usa-shooting-earns-six-medals-at-paris-2024-olympic-paralympic-games/10610844)
 * [TFB Review: Springfield Armory 1911 Operator AOS 5” .45 ACP](https://www.thegunpage.com/tfb-review-springfield-armory-1911-operator-aos-5-45-acp/10610841)
 * [POTD: Ruger Precision Rifle With A-Tec Marksman Suppressor](https://www.thegunpage.com/potd-ruger-precision-rifle-with-a-tec-marksman-suppressor/10610842)
 * [Concealed Carry Corner: Best Cover Garments](https://www.thegunpage.com/concealed-carry-corner-best-cover-garments/10610843)
@@ -185,8 +187,6 @@ Recent Posts
 * [Hawaii Homeowner Arrested After Stopping Violent Neighbor, Released After Self-Defense Ruling](https://www.thegunpage.com/hawaii-homeowner-arrested-after-stopping-violent-neighbor-released-after-self-defense-ruling/10610836)
 * [MI: School aid bill turned totalitarian](https://www.thegunpage.com/mi-school-aid-bill-turned-totalitarian/10610835)
 * [Kamala Harris Issues First Executive Order on Gun Control with Joe Biden](https://www.thegunpage.com/kamala-harris-issues-first-executive-order-on-gun-control-with-joe-biden/10610832)
-* [Special Edition 10/22 Reminds You To Vote](https://www.thegunpage.com/special-edition-10-22-reminds-you-to-vote/10610834)
-* [Savage Arms Adds New AC350 to AccuCan Suppressor Line](https://www.thegunpage.com/savage-arms-adds-new-ac350-to-accucan-suppressor-line/10610829)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* Graig Peterman on [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/#comment-782340)
+* WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 * James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
 * Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
 * Brad Lowther on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782316)
@@ -235,8 +237,6 @@ Recent Comments
 * KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
 * KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
 * KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
-* charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
-* TMann on [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/#comment-782277)
 
 [Close](#)
 
