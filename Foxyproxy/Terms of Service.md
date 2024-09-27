@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your customer service is excellent.
+I love it! And have already re-upped with a new subscription.
 
-Justin English
+Dan Klug
