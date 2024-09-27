@@ -200,9 +200,9 @@ _Last Updated: August, 2024_
 
 Popular Right Now
 
+* [![Best Nintendo Switch 2D Platformers](https://images.nintendolife.com/guides/best-nintendo-switch-2d-platformers/130x100.jpg)Best Nintendo Switch 2D PlatformersMon 23rd Sep 2024](https://www.nintendolife.com/guides/best-nintendo-switch-2d-platformers)
 * [![Best Nintendo Switch Remakes And Remasters](https://images.nintendolife.com/guides/best-nintendo-switch-remakes-and-remasters/130x100.jpg)Best Nintendo Switch Remakes And RemastersWed, 6pm](https://www.nintendolife.com/guides/best-nintendo-switch-remakes-and-remasters)
 * [![Where To Buy Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite](https://images.nintendolife.com/guides/where-to-buy-zelda-echoes-of-wisdom-and-hyrule-edition-switch-lite/130x100.jpg)Where To Buy Zelda: Echoes Of Wisdom And Hyrule Edition Switch LiteYesterday, 11am](https://www.nintendolife.com/guides/where-to-buy-zelda-echoes-of-wisdom-and-hyrule-edition-switch-lite)
-* [![Best Nintendo Switch 2D Platformers](https://images.nintendolife.com/guides/best-nintendo-switch-2d-platformers/130x100.jpg)Best Nintendo Switch 2D PlatformersMon 23rd Sep 2024](https://www.nintendolife.com/guides/best-nintendo-switch-2d-platformers)
 * [![Every Nintendo Switch Online SNES Game Ranked](https://images.nintendolife.com/guides/every-nintendo-switch-online-snes-game-ranked/130x100.jpg)Every Nintendo Switch Online SNES Game RankedWed 18th Sep 2024](https://www.nintendolife.com/guides/every-nintendo-switch-online-snes-game-ranked)
 * [![Best Nintendo Switch Collections And Compilation Games](https://images.nintendolife.com/guides/best-nintendo-switch-collections-and-compilation-games/130x100.jpg)Best Nintendo Switch Collections And Compilation GamesSun 22nd Sep 2024](https://www.nintendolife.com/guides/best-nintendo-switch-collections-and-compilation-games)
 * [![Zelda: Echoes Of Wisdom's Frame Rate Is "Even Worse" Than Link's Awakening](https://images.nintendolife.com/news/2024/09/zelda-echoes-of-wisdoms-frame-rate-is-even-worse-than-links-awakening/130x100.jpg)Zelda: Echoes Of Wisdom's Frame Rate Is "Even Worse" Than Link's AwakeningYesterday, 3pm](https://www.nintendolife.com/news/2024/09/zelda-echoes-of-wisdoms-frame-rate-is-even-worse-than-links-awakening)
@@ -210,12 +210,12 @@ Popular Right Now
 * [![Review: The Legend Of Zelda: Echoes Of Wisdom (Switch) - A Bold Blend Of Old & New That Ranks With The Series' Best](https://images.nintendolife.com/reviews/nintendo-switch/the-legend-of-zelda-echoes-of-wisdom/130x100.jpg)Review: The Legend Of Zelda: Echoes Of Wisdom (Switch) - A Bold Blend Of Old & New That Ranks With The Series' BestWed, 1pm](https://www.nintendolife.com/reviews/nintendo-switch/the-legend-of-zelda-echoes-of-wisdom)
 * [![Nintendo Switch 2: Everything We Know About Nintendo's Next Console](https://images.nintendolife.com/guides/nintendo-switch-2-everything-we-know-about-nintendos-next-console/130x100.jpg)Nintendo Switch 2: Everything We Know About Nintendo's Next ConsoleWed 18th Sep 2024](https://www.nintendolife.com/guides/nintendo-switch-2-everything-we-know-about-nintendos-next-console)
 * [![Nintendo To Go In 'Different Direction' To Current AI Trends, Says Miyamoto](https://images.nintendolife.com/news/2024/09/nintendo-to-go-in-different-direction-to-current-ai-trends-says-miyamoto/130x100.jpg)Nintendo To Go In 'Different Direction' To Current AI Trends, Says MiyamotoWed, 8:15pm](https://www.nintendolife.com/news/2024/09/nintendo-to-go-in-different-direction-to-current-ai-trends-says-miyamoto)
+* [![Zelda: Echoes Of Wisdom: Walkthrough, All Puzzle Solutions, Collectibles](https://images.nintendolife.com/guides/zelda-echoes-of-wisdom-walkthrough-all-puzzle-solutions-collectibles/130x100.jpg)Zelda: Echoes Of Wisdom: Walkthrough, All Puzzle Solutions, CollectiblesYesterday, 12pm](https://www.nintendolife.com/guides/zelda-echoes-of-wisdom-walkthrough-all-puzzle-solutions-collectibles)
 * [![Review: Bloomtown: A Different Story (Switch) - An Evocative, Demon-Catching RPG](https://images.nintendolife.com/reviews/switch-eshop/bloomtown-a-different-story/130x100.jpg)Review: Bloomtown: A Different Story (Switch) - An Evocative, Demon-Catching RPGYesterday, 9pm](https://www.nintendolife.com/reviews/switch-eshop/bloomtown-a-different-story)
-* [![Review: Worms Armageddon: Anniversary Edition (Switch) - Digital Eclipse Unearths Another Total Classic](https://images.nintendolife.com/reviews/switch-eshop/worms-armageddon-anniversary-edition/130x100.jpg)Review: Worms Armageddon: Anniversary Edition (Switch) - Digital Eclipse Unearths Another Total ClassicYesterday, 2pm](https://www.nintendolife.com/reviews/switch-eshop/worms-armageddon-anniversary-edition)
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,457,461** people following **Nintendo Life**:
+Join **1,457,471** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
