@@ -192,11 +192,11 @@ Hi
         
     * [New! (48)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (20)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (10)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Favorites (41)](https://www.smithbrothersfarms.com/fall-favorites)
         
-    * [Milk & Cream (56)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (53)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -211,7 +211,7 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (16)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (13)](https://www.smithbrothersfarms.com/non-dairy-3)
             
         * [Half & Half, Creamers (15)](https://www.smithbrothersfarms.com/flavored-creamers)
             
