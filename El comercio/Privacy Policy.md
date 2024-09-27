@@ -31,992 +31,1103 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Moisés Caicedo recibe la ‘bendición’ de Obi Mikel
-=================================================
+Hombre con muerte cerebral fue casado por lo civil en hospital el IESS
+======================================================================
 
-Moisés Caicedo tiene el récord de ser el jugador más caro de la historia de la Premier League, gracias al Chelsea.
-------------------------------------------------------------------------------------------------------------------
+El Registro Civil denunció el hecho ante la Fiscalía.
+-----------------------------------------------------
 
-![Moisés Caicedo con el Chelsea en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/09/caicedo_vuelo_1.jpg)
+![El hombre falleció al otro día de haberse casado](https://www.elcomercio.com/wp-content/uploads/2024/09/hombre-casado-as.jpg)
 
-**Moisés Caicedo** tiene 22 años, se formó en Independiente del Valle donde demostró en toda su etapa como juvenil y luego como profesional, que se trataba de un mediocampista moderno que estaba para grandes cosas.
+La Dirección General del **Registro Civil** denunció en la **Fiscalía** General del Estado el caso de un matrimonio entre un hombre con **muerte cerebral** y una mujer. El hecho ocurrió en Guayaquil, en el Hospital Teodoro Maldonado Carbo (HTMC), del IESS.
 
-El **Brighton & Hove Albion le abrió las puertas de Europa** a Moisés Caicedo en febrero de 2021 y dejó en las cuentas de Independiente un valor superior a los 5 millones de dólares.
-
-### Más noticias:
-
-* [Midtjylland, con Denil Castillo de titular, empató en la Europa League](https://www.elcomercio.com/deportes/futbol/midtjylland-con-denil-castillo-de-titular-empato-europa-league.html "Midtjylland, con Denil Castillo de titular, empató en la Europa League")
-* [¿Los incendios forestales afectarán los partidos de Liga Pro en Quito?](https://www.elcomercio.com/deportes/futbol/incendios-forestales-afectaran-los-partidos-de-liga-pro-en-quito.html "¿Los incendios forestales afectarán los partidos de Liga Pro en Quito?")
-* [Nilson Angulo vence a Cristian Ramírez en Europa League](https://www.elcomercio.com/deportes/futbol/nilson-angulo-uefa-europa-league-anderlecht-ferencvaros.html "Nilson Angulo vence a Cristian Ramírez en Europa League")
-
-La adaptación de Caicedo al fútbol inglés fue complicado y **tuvo que marcharse para el segundo semestre** de ese mismo año hasta el K Beerschot de la Primera División de Bélgica, un traspaso que levantó muchas críticas en Ecuador.
-
-En enero de 2022 el **Brighton pido su regreso y poco a poco empezó a sumar minutos** en el primer equipo con la confianza de Graham Potter, que lo incluyó en su equipo en la recta final de esa temporada.
-
-La consolidación del **‘Niño Moi’ se dio en el curso 2022/23** en donde se convirtió en uno de los mejores jugadores de las ‘Gaviotas’ y pieza fundamental para conseguir la clasificación a la Europa League, algo inédito en la historia del club.
-
-El verano de 2023 tuvo a **Caicedo como el principal protagonista del mercado de fichajes europeos**, con equipos como el Arsenal, Liverpool y Chelsea como los interesados en contratarlo por cifras que nunca antes se había pagado por un jugador ecuatorianos.
-
-Finalmente, el **Chelsea desembolsó algo más de 146 millones de dólares** con lo que el de Santo Domingo de los Tsáchilas se convirtió en el más caro traspaso para el fútbol de Ecuador, para el Brighton, para el Chelsea y de la historia de la Premier.
-
-Sin embargo, desde que llegó a los **‘Blues’ su rendimiento estuvo en constante escrutinio**, como el de todo el equipo, que no encontraban una justificación entre el valor pagado y el rendimiento que mostraba en cancha.
-
-Esas críticas empiezan a ser aplacadas por el rendimiento que está mostrando en el arranque de la temporada 2024/25. Esto hizo que **Obi Mikel, campeón de la Champions League en 2012** con los de Londres, alabó el nivel del deportista.
-
-Moisés Caicedo y los halagos de Obi Mikel
------------------------------------------
-
-“Estamos volviendo a ver al jugador del Brighton. Fue una actuación a lo N’Golo Kanté, aparecía en todas partes. **Es un jugador absolutamente fantástico, no solo destruyendo el juego**, también por cómo se asocia con sus compañeros”, declaró Obi Mikel luego de la gran presentación ante West Ham United.
-
-Marca, uno de los medios de comunicación más influyentes de España, destaca que el ecuatoriano fue el **más duelos ganó (13) y el que más acertó en pases (87%)**, que llevó a que Enzo Maresca, entrenador del Chelsea, los califique como un “jugador top” con un desempeño “fantástico” ante West Ham United.
-
-“Está demostrando que es bueno en todo lo que hace. **No va a marcar 10 goles desde fuera del área todos los años** (…) No se pagaron más de 100 millones de libras por él por ello”, comentó Pat Nevin, ex del Chelsea en ‘Talk Sport’, apunta Marca.
-
-Otro ex del Chelsea, Jason Cundy, también reivindica la importancia de Caicedo: “**Empezamos a entender por qué pagamos tanto dinero**. No es fácil estar a la altura de lo que costó”, dijo.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Kevin Rodríguez perdió en su debut en la Europa League
-======================================================
-
-La participación de ecuatorianos en la Europa League continuó este jueves con Kevin Rodríguez.
-----------------------------------------------------------------------------------------------
-
-![Kevin Rodríguez arrancó como titular en la Europa League.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T134628.761.jpg)
-
-El Royale **Union Saint-Gilloise** de Bélgica cayó en su visita al Fenerbahce de Turquía por 2-1 este jueves 26 de septiembre, en la primera jornada de la Europa League. **Kevin Rodríguez** fue titular en el equipo belga.
-
-Aunque el Union Saint-Gilloise tuvo un buen desempeño, **no pudo evitar la derrota** en condición de visitante ante un **Fenerbahce** que, pese a ser poco ofensivo, logró sacar ventaja.
-
-Más noticias:
--------------
-
-* [Nilson Angulo vence a Cristian Ramírez en Europa League](https://www.elcomercio.com/deportes/futbol/nilson-angulo-uefa-europa-league-anderlecht-ferencvaros.html "Nilson Angulo vence a Cristian Ramírez en Europa League")
-* [Midtjylland, con Denil Castillo de titular, empató en la Europa League](https://www.elcomercio.com/deportes/futbol/midtjylland-con-denil-castillo-de-titular-empato-europa-league.html "Midtjylland, con Denil Castillo de titular, empató en la Europa League")
-* [Ecuatorianos debutan en la Uefa Europa League](https://www.elcomercio.com/deportes/futbol/ecuatorianos-debutan-en-la-uefa-europa-league.html "Ecuatorianos debutan en la Uefa Europa League")
-
-La **‘Rola’ arrancó como titular y jugó 61 minutos** antes de salir por Annan Khalaili.
-
-Durante su tiempo en cancha, el ecuatoriano fue clave en las transiciones y contragolpes del equipo belga. Sin embargo, solo logró concretar cinco pases y un disparo al arco, aunque también destacó defensivamente en varias ocasiones.
-
-Fenerbahce se adelantó en el marcador
--------------------------------------
-
-El Union Saint-Gilloise inició muy bien el partido y en los primeros 10 minutos ya había generado peligro en el arco rival, con **participación de Kevin Rodríguez**.
-
-La dinámica se mantuvo hasta el minuto 20, con los belgas siendo superiores ante un Fenerbahce que no lograba inquietar. Sin embargo, en contra de la tendencia, los turcos se adelantaron en el marcador con un gol de **Caglar Soyuncu,** tras una jugada preparada en tiro de esquina.
-
-> ¡FESTEJALO, MOU! Söyüncü abrió el partido y marcó el 1-0 del Fenerbahce contra Royale Union SG en la [#UELxESPN](https://twitter.com/hashtag/UELxESPN?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 📺 Mirá la [#UEL](https://twitter.com/hashtag/UEL?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nOoGriDGAh](https://t.co/nOoGriDGAh)
-> 
-> — SportsCenter (@SC\_ESPN) [September 26, 2024](https://twitter.com/SC_ESPN/status/1839353230502801823?ref_src=twsrc%5Etfw)
-
-El gol animó al Fenerbahce, pero seguían sin crear mucho peligro. Antes de ser sustituido, Kevin **Rodríguez** intentó un remate al arco, pero fue detenido por el arquero rival.
-
-La suerte estuvo del lado de los turcos
----------------------------------------
-
-En la segunda mitad, el partido fue más equilibrado y se jugó a un ritmo más lento.
-
-El **Union Saint-Gilloise** sufrió un duro golpe al minuto 73, cuando Kevin Mac Allister fue expulsado por detener una jugada de gol de En-Nesyri, provocando una falta peligrosa cerca del área.
-
-El segundo gol llegó 10 minutos después, en una jugada desafortunada para los belgas, cuando **Christian Burgess anotó en propia puerta**, sellando la derrota de su equipo.
-
-> SIGUEN CAYENDO LAS MALAS PARA UNION SG… Gol en contra de Burgess para el 2-0 de Fenerbahce en la [#UELxESPN](https://twitter.com/hashtag/UELxESPN?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 📺 Mirá la [#UEL](https://twitter.com/hashtag/UEL?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/02QkCsRkh0](https://t.co/02QkCsRkh0)
-> 
-> — SportsCenter (@SC\_ESPN) [September 26, 2024](https://twitter.com/SC_ESPN/status/1839371645972037899?ref_src=twsrc%5Etfw)
-
-En los minutos finales, el **Union Saint-Gilloise** tuvo un penal a su favor tras una imprudente falta de Bright Osayi-Samuel, quien vio la tarjeta roja.
-
-Franjo Ivanovic se encargó de **ejecutar la pena máxima**, pero su remate fue débil y Dominik Livakovic logró atajar el disparo.
-
-> ¡¡UN ESPECIALISTA EN LA MATERIA!! Livakovic le atajó el penal a Ivanovic en Fenerbahce.  
->   
-> 📺 Mirá la [#UEL](https://twitter.com/hashtag/UEL?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/A7aYx7WMXd](https://t.co/A7aYx7WMXd)
-> 
-> — SportsCenter (@SC\_ESPN) [September 26, 2024](https://twitter.com/SC_ESPN/status/1839374185409216894?ref_src=twsrc%5Etfw)
-
-Los belgas tuvieron su pequeña revancha un minuto después, cuando **Ross Sykes descontó a los 90+3′**, aprovechando un rebote en el poste que cayó a sus pies.
-
-Donaciones y concierto para los afectados de incendios forestales en Quito
-==========================================================================
-
-El Ministerio de Cultura organiza un concierto solidario en Quito, recibiendo donaciones para los afectados por los incendios forestales.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![El ECU 911 confirmó 70 familias afectadas, 28 personas hospitalizadas y cuatro viviendas calcinadas por los incendios forestales.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendios-donaciones.jpg)
-
-El **Ministerio de Cultura y Patrimonio** organiza un concierto para los afectados por los incendios forestales registrados en **Quito**, y se siguen recibiendo las donaciones. La noche de este 26 de septiembre de 2024 se realizará un recital musical de solidaridad.
+El paciente ingresó al nosocomio en agosto por un ataque con un **arma de fuego**. Luego de realizarle exámenes clínicos, de laboratorio y análisis de imágenes, los galenos declararon que el hombre, de 20 años de edad, tenía **muerte encefálica** por trauma craneoencefálico severo.
 
 ### Más noticias
 
-* [Calidad del aire en Quito por incendios forestales se recupera lentamente](https://www.elcomercio.com/actualidad/quito/calidad-aire-quito-recupera-lentamente-incendios.html "Calidad del aire en Quito por incendios forestales se recupera lentamente")
-* [Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito](https://www.elcomercio.com/actualidad/ecuador/gobierno-analiza-declaratoria-emergencia-nacional-incendios-quito.html "Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito")
-* [Responsables de incendios podrían ir a la cárcel por terrorismo](https://www.elcomercio.com/actualidad/quito/responsables-incendios-forestales-quito-carcel-terrorismo.html "Responsables de incendios podrían ir a la cárcel por terrorismo")
+* [Incendio en el sector del Parque Samanes de Guayaquil sería provocado](https://www.elcomercio.com/actualidad/ecuador/incendio-parque-samanes-guayaquil-seria-provocado.html "Incendio en el sector del Parque Samanes de Guayaquil sería provocado")
+* [Policía desarticuló banda que adulteraba alcohol en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-banda-adulteraba-alcohol-guayaquil.html "Policía desarticuló banda que adulteraba alcohol en Guayaquil")
+* [Ataque armado en Guayaquil deja tres personas asesinadas](https://www.elcomercio.com/actualidad/guayaquil/ataque-armado-guayaquil-norte-personas-asesinadas.html "Ataque armado en Guayaquil deja tres personas asesinadas")
 
-La **Casa de la Música y la Sinfónica de Guayaquil** se unieron para brindar un recital en apoyo a las familias que perdieron sus casas por los incendios forestales. El evento es gratuito, para el ingreso se recibirán donaciones de víveres e insumos esenciales.
+Sin embargo, el 27 de agosto se realizó el **matrimonio civil** mientras el joven se encontraba en la Unidad de Cuidados Intensivos (UCI). Al día siguiente, el 28 de agosto, **el hombre falleció**. 
 
-La cita es a las 19:00 de este jueves, en la Casa de la Música, ubicada en la calle Valderrama N32 -307 y Mariana de Jesús, en el norte de Quito.
+El director del HTMC, **Franklin Encalada**, en rueda de prensa explicó que “las alertas saltaron porque el paciente, al ser joven, tenía en su cédula el registro de ‘donante voluntario’. Íbamos a hacer la ablación (extracción de órganos) para trasplantarlos en otro ser humano. En ese momento sale una dama y dice que es la esposa, cuando en la cédula dice que él es **soltero** (…) ahí nos enteramos de que el paciente era casado”.
 
-> 🎶✨ ¡La OSG transforma su gira a 📍[#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) en un evento solidario! ✨🎶  
->   
-> Reafirmamos nuestro compromiso con la paz y la solidaridad, y extendemos una cálida invitación a todos los quiteños para que se unan a esta noche de música y esperanza. 🌟[#UnidosPorQuito](https://twitter.com/hashtag/UnidosPorQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/HWDGFwZ2FK](https://t.co/HWDGFwZ2FK)
-> 
-> — Orquesta Sinfónica de Guayaquil (@SinfonicaDeGye) [September 25, 2024](https://twitter.com/SinfonicaDeGye/status/1838986687172743542?ref_src=twsrc%5Etfw)
+El funcionario dio más detalles: “seguramente el paciente estaba intubado porque no tenía automatismo. Si estás en muerte cerebral **no estás en condiciones para hacer algo voluntario**”, refirió.
 
-Más donaciones para afectados por los incendios forestales
-----------------------------------------------------------
-
-Asimismo, organizaciones privadas y ciudadanas se organizaron para recolectar donaciones para las **familias afectadas** por los incendios.
-
-Por ejemplo, la Pontificia Universidad Católica del Ecuador (PUCE) realiza una campaña de donación para las comunidades afectadas. Los puntos de acopio son la matriz de este centro educativo, ubicado en la av. 12 de Octubre y Vicente Ramón Roca, centro norte de Quito, y en la Unidad Educativa San Luis Gonzaga, en La Armenia, en las calles Pedro Ávila y Sebastián de Benalcázar.
-
-Asimismo, el **Centro de Acopio del Bicentenario del Patronato San José**, informaron que continúan recibiendo donaciones de la población para atender la emergencia que vive Quito.  
-Además, señalaron que los requerimientos han sido modificados y son los siguientes:
-
-* kits de primeros auxilios
-* suero fisiológico, colirios, gasas, guantes de látex
-* barras energéticas
-* alimentos no perecibles (enlatados, granos, arroz, fideo)
-* útiles de aseo (jabón, pasta dental, cepillos de dientes, paños húmedos)
-* protector solar y protector ocular
-
-Las donaciones en el Patronato San José se reciben en el punto de acopio de El Bicentenario, en el norte de Quito, en el antiguo aeropuerto, pasaje Oe3G av. Amazonas N51-20 y Calle N50B. Y en la administración Quitumbe, en el sur de la ciudad.
-
-Asimismo, la Cámara de Comercio de Quito también realizó una campaña de donación. El gremio informó este 26 de septiembre que, se entregaron 24 604 ítems al Cuerpo de Bomberos, entre ellos aguas, colirios, guantes, botas, gafas, bebidas energizantes y suero fisiológico.
-
-(Video) ¿Meteorito o estrella fugaz es lo que se vio en el cielo de México?
-===========================================================================
-
-En redes sociales, hubo internautas que bromearon relacionando el tema con el fin del mundo.
---------------------------------------------------------------------------------------------
-
-![Foto referencial de un meteorito en la atmósfera terrestre. Foto: Internet](https://www.elcomercio.com/wp-content/uploads/2024/09/meteorito-El-comercio.jpg)
-
-La noche del 24 de septiembre de 2024, un destello de luz brillante sorprendió a los habitantes de Nuevo León en México. Fueron testigos de lo que muchos identificaron como un posible **meteorito**.
-
-El fenómeno generó una ola de especulaciones en redes sociales. A medida que el objeto atravesaba el cielo cambiaba de color.
-
-### Más noticias
-
-* **[Saturno se quedará temporalmente sin sus anillos en el 2025](https://www.elcomercio.com/tendencias/ciencia/saturno-anillos-equinoccio-fenomeno.html "https://www.elcomercio.com/tendencias/ciencia/saturno-anillos-equinoccio-fenomeno.html")**
-* **[La ciencia detrás del equinoccio y lo que se debe tener en cuenta](https://www.elcomercio.com/tendencias/ciencia/equinoccio-septiembre-astronomia-clima.html "https://www.elcomercio.com/tendencias/ciencia/equinoccio-septiembre-astronomia-clima.html")** 
-
-Pasó de un blanco intenso a un verde azulado y dejó una estela luminosa que se desvaneció en cuestión de segundos. El acontecimiento fue captado en video y se viralizó.
-
-Hasta el momento, las autoridades del lugar no han confirmado si realmente se trató de un meteorito. No obstante, la Sociedad Astronómica de Nuevo León publicó en su página de Facebook que el destello probablemente fue un **bólido**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAYxG3Aof9s/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAYxG3Aof9s/?utm_source=ig_embed&utm_campaign=loading)
-
-¿**Qué es un bólido**? Se trata de un tipo de meteoro extremadamente brillante que puede explotar antes de llegar a la superficie terrestre.
-
-Este tipo de fenómeno, aunque breve, dejó una impresión duradera en los testigos, algunos de los cuales bromearon en redes sobre el “fin del mundo”.
-
-Nelson Valdez, meteorólogo de Canal 6, explicó que para ser considerado un meteorito, el objeto tendría que haber impactado el suelo, lo cual no ha sido confirmado. Por lo tanto, lo más probable es que se haya tratado de una estrella fugaz, según un [artículo](https://www.elheraldo.co/mundo/2024/09/26/graban-a-supuesto-meteorito-que-paso-por-el-cielo-de-nuevo-leon-mexico/ "https://www.elheraldo.co/mundo/2024/09/26/graban-a-supuesto-meteorito-que-paso-por-el-cielo-de-nuevo-leon-mexico/") sobre el tema en El Heraldo.
-
-Los **bólidos** son de gran interés para la comunidad científica, ya que proporcionan valiosa información sobre la composición de los meteoroides y la dinámica del sistema solar.
-
-Además, su observación puede fomentar el interés en la astronomía y educar al público sobre los fenómenos celestes.
-
-Los bombardeos de Israel contra Líbano dejan 60 fallecidos
-==========================================================
-
-Las autoridades libanesas ampliaron a 565 el número de instalaciones públicas destinadas a recibir desplazados.
----------------------------------------------------------------------------------------------------------------
-
-![El humo se eleva como resultado de los proyectiles disparados desde el sur del Líbano hacia la Alta Galilea, al norte de Israel, el 26 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/4d88bc28903ebc0f99fbe63073c176b57781032c.jpg)
-
-[Israel](https://www.elcomercio.com/actualidad/mundo/netanyahu-repite-nueva-york-israel-atacara-hizbula-hasta-lograr-objetivos.html "https://www.elcomercio.com/actualidad/mundo/netanyahu-repite-nueva-york-israel-atacara-hizbula-hasta-lograr-objetivos.html") lanzó en lo que va de este jueves, 26 de septiembre de 2024, un total de **115 ataques aéreos**. Causaron la muerte de al menos **60 personas en diferentes puntos** del **sur y el este del Líbano,** pero también contra los barrios del sur de Beirut conocidos como el Dahye, uno de los principales bastiones del grupo chií libanés Hizbulá.
-
-### Más noticias
-
-* [Más de 90 000 nuevos desplazados en el Líbano en menos de una semana](https://www.elcomercio.com/actualidad/mundo/90-000-nuevos-desplazados-libano-menos-semana-segun-oim.html "Más de 90 000 nuevos desplazados en el Líbano en menos de una semana")
-* [Explosión de ‘beepers’ y ‘walkie-talkies’ en Libano, estas son las claves tecnológicas](https://www.elcomercio.com/actualidad/mundo/explosion-beepers-walkie-talkies-permitio-encontrar-enemigos-israel.html "Explosión de ‘beepers’ y ‘walkie-talkies’ en Libano, estas son las claves tecnológicas")
-* [Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano](https://www.elcomercio.com/actualidad/mundo/menos-fallecido-100-heridos-nueva-oleada-explosiones-libano.html "Al menos un fallecido y 100 heridos en nueva oleada de explosiones en Líbano")
-
-El ministro de Medioambiente y coordinador del Plan Nacional de Emergencia del Líbano, **Nasser Yassin,** dijo en un informe que **“hoy se registraron alrededor de 115 ataques** en varias zonas del Líbano, lo que provocó 60 mártires y 81 heridos”, según un recuento de datos del Ministerio de Salud Pública del país mediterráneo.
-
-Estos bombardeos, que desde que Israel inició su campaña de **ataques el lunes se concentran en el sur y** el este del Líbano, forzaron el desplazamiento de **decenas de miles de personas,** entre ellas al menos 77 100, que se han registrado en los **centro de acogida habilitados por el Gobierno** en los últimos días.
-
-Ante estos movimientos, las **autoridades libanesas ampliaron a 565** el número de instalaciones públicas (principalmente escuelas e institutos) destinadas a recibir a los desplazados, de acuerdo con el ministro.
-
-“También hay un **gran número de desplazados** que se han trasladado a otras casas en diferentes zonas, se están quedando con familiares o están en casas de alquiler, hoteles u otros lugares públicos o privados”, añadió.
-
-Por otra parte, Yassin indicó que en los **últimos días las autoridades** registraron “el cruce de 15 600 **ciudadanos sirios** y otros 16 130 **ciudadanos libaneses** hacia territorio sirio”, mientras que indicó que “miles han viajado por aire” a otros países, por lo que “el número real” de desplazados “sea probablemente mucho mayor”.
-
-La **campaña de ataques de Israel** dejó desde el lunes alrededor de 700 muertos, un número de víctimas sin precedentes desde la guerra civil libanesa (1975-1990), lo que provocó un aumento de los llamados de la **comunidad internacional** para lograr un alto el fuego.
-
-¿Quién ganó el Balón de Oro 2024?
-=================================
-
-El Balón de Oro es el reconocimiento individual más importante que puede recibir un futbolista en su carrera.
--------------------------------------------------------------------------------------------------------------
-
-![Vinícius Júnior es el principal candidato a ganar el Balón de Oro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T125757.910.jpg)
-
-Tras más de una década de dominio por parte de **Cristiano Ronaldo y Lionel Messi**, ninguno de ellos está entre los nominados para el **Balón de Oro 2024.** Esto abre la puerta a jóvenes estrellas como **Vinícius** **Júnior** para soñar con el prestigioso galardón.
-
-Messi y Cristiano Ronaldo son los jugadores más laureados en la historia del premio. El argentino lo ha ganado ocho veces, mientras que el portugués lo ha obtenido en cinco ocasiones. Sin su presencia en esta edición, **nuevos candidatos** han surgido para reclamar el trono.
-
-### Más noticias:
-
-* [Vinícius Júnior busca redención de Brasil ante la Selección de Ecuador](https://www.elcomercio.com/deportes/vinicius-junior-busca-redencion-de-brasil-ante-la-seleccion-de-ecuador.html "Vinícius Júnior busca redención de Brasil ante la Selección de Ecuador")
-* [Balón de Oro lanza nominados sin Messi ni Cristiano Ronaldo](https://www.elcomercio.com/deportes/balon-oro-nominados-messi-ronaldo.html "Balón de Oro lanza nominados sin Messi ni Cristiano Ronaldo")
-* [Manchester City pierde a Rodri por toda la temporada](https://www.elcomercio.com/deportes/futbol/manchester-city-pierde-a-rodri-por-toda-la-temporada.html "Manchester City pierde a Rodri por toda la temporada")
-
-El principal favorito para ganar el **Balón de Oro 2024 es Vinícius Júnio**r, quien tuvo una temporada sobresaliente con el Real Madrid. De hecho, según algunas filtraciones, el brasileño estaría cerca de convertirse en el primer jugador de su país en ganar el galardón desde que Kaká lo hizo en 2007.
-
-Entre otros de los nominados destacan **Rodri**, pieza clave del Manchester City y de la selección de España, y **Jude Bellingham**, que ha tenido un fantástico debut con el Real Madrid.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C_gWB0do_sB/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Ballon d’Or (@ballondorofficial)](https://www.instagram.com/p/C_gWB0do_sB/?utm_source=ig_embed&utm_campaign=loading)
-
-Todo lo que debes saber del Balón de Oro 2024
----------------------------------------------
-
-La ceremonia del **Balón de Oro 2024 será la 68.ª edición** de este prestigioso premio, organizado por la revista _France Football_. Al igual que en los últimos años, el premio se entregará en función de los resultados de la temporada regular, en lugar del año calendario.
-
-La gala se **celebrará el 28 de octubre de 2024** en el Theatre du Chatelet en París y, en los días previos, se anunciarán los tres finalistas.
-
-¿Cómo se elige al ganador del Balón de Oro?
--------------------------------------------
-
-La votación del Balón de Oro es un proceso detallado y complejo. Un **jurado compuesto por periodistas** de los 100 países mejor clasificados en el ranking FIFA es el encargado de la selección.
-
-Cada periodista elabora una lista con cinco candidatos. El jugador que colocan en el primer lugar recibe la mayor cantidad de puntos, mientras que los demás reciben una cantidad decreciente a medida que descienden en la lista.
-
-Al final, se suman todos los puntos, y el jugador con la puntuación más alta se corona como el ganador del **Balón de Oro**.
-
-Nominados al Balón de Oro
--------------------------
-
-1. Vinícius Jr**.** (Real Madrid / Brasil)
-2. Rodri (Manchester City / España)
-3. Jude Bellingham (Real Madrid / Inglaterra)
-4. Kylian Mbappé (PSG / Francia)
-5. Toni Kroos (Real Madrid / Alemania)
-6. Rúben Dias (Manchester City / Portugal)
-7. Phil Foden (Manchester City / Inglaterra)
-8. Federico Valverde (Real Madrid / Uruguay)
-9. Emiliano Martínez (Aston Villa / Argentina)
-10. Erling Haaland (Manchester City / Noruega)
-11. Nico Williams (Athletic Club / España)
-12. Artem Dovbyk (Girona / Ucrania)
-13. Granit Xhaka (Bayer Leverkusen / Suiza)
-14. Dani Olmo (Leipzig / España)
-15. Florian Wirtz (Bayer Leverkusen / Alemania)
-16. Martin Odegaard (Arsenal / Noruega)
-17. Mats Hummels (Borussia Dortmund / Alemania)
-18. Harry Kane (Bayern Munich / Inglaterra)
-19. Declan Rice (Arsenal / Inglaterra)
-20. Vitinha (PSG / Portugal)
-21. Cole Palmer (Chelsea / Inglaterra)
-22. Dani Carvajal (Real Madrid / España)
-23. Lamine Yamal (Barcelona / España)
-24. Bukayo Saka (Arsenal / Inglaterra)
-25. Hakan Çalhanoğlu (Inter Milán / Turquía)
-26. William Saliba (Arsenal / Francia)
-27. Ademola Lookman (Atalanta / Nigeria)
-28. Lautaro Martínez (Inter Milán / Argentina)
-29. Antonio Rudiger (Real Madrid / Alemania)
-30. Alejandro Grimaldo (Bayer Leverkusen / España)
-
-Moo Deng, el simpático bebé hipopótamo, ya tiene memes y su propia criptomoneda 
-================================================================================
-
-Moo Deng, el adorable residente del zoológico Khao Kheow, se ha convertido en un fenómeno viral.
-------------------------------------------------------------------------------------------------
-
-![La llegada de Moo Deng ha duplicado la afluencia de visitantes al zoológico de Bangkok. Foto: Pinterest.](https://www.elcomercio.com/wp-content/uploads/2024/09/moo-deng-hipopotamo.jpg)
-
-Ubicado a aproximadamente 110 kilómetros al este de **Bangkok**, el **zoológico Khao Kheow** ha experimentado un notable aumento en su afluencia de público gracias a su atracción estrella: un **bebé hipopótamo pigmeo de dos meses**. Esta adorable cría, conocida como **Moo Deng**, que significa ‘cerdo saltarín’ en tailandés, ha encantado tanto a los visitantes del zoológico como a los **usuarios en las redes sociales**. 
-
-### Más noticias
-
-* [Un bebé hipopótamo pigmeo roba corazones en un ‘zoo’ tailandés](https://www.elcomercio.com/tendencias/bebe-hipopotamo-tailandia-zoologico-atraccion.html "https://www.elcomercio.com/tendencias/bebe-hipopotamo-tailandia-zoologico-atraccion.html")
-* [Belinda publicó imagen de sus heridas tras caída en la Semana de la Moda de París](https://www.elcomercio.com/afull/belinda-caida-semana-moda-paris.html "https://www.elcomercio.com/afull/belinda-caida-semana-moda-paris.html") 
-
-Desde la llegada de **Moo Deng**, el número de personas que visita el zoológico se ha duplicado, según informes publicados en su página de Facebook.  
-
-Este **pequeño hipopótamo** ha alcanzado un estatus de **fenómeno viral**, al aparecer en numerosos videos que muestran sus adorables siestas, sus momentos de comida y sus travesuras junto a su madre. 
-
-La **creciente popularidad de Moo Deng** ha llevado al zoológico a aprovechar su fama, al ofrecer una variedad de productos temáticos, como camisetas y pantalones tradicionales tailandeses con la imagen del hipopótamo. 
-
-No obstante, el **éxito de Moo Deng** también conlleva ciertas responsabilidades. El director del zoológico, **Narongwit Chodchoi**, ha hecho un llamado a los visitantes para que **traten al pequeño hipopótamo con respeto y amabilidad.** 
-
-**Memes del bebé hipopótamo Moo Deng** 
----------------------------------------
-
-La popularidad de este bebé hipopótamo lo ha convertido en el protagonista de los **memes más divertidos**. 
-
-![Foto: www.chapintv.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/moo-deng-hipopotamo-1-1024x683.jpg)
-
-Foto: www.chapintv.com.
-
-![Foto: www.chapintv.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/moo-deng-hipopotamo-2-1024x683.jpg)
-
-Foto: www.chapintv.com.
-
-![Foto: www.chapintv.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/moo-deng-hipopotamo-4-1024x683.jpg)
-
-Foto: www.chapintv.com.
-
-**Moo Deng también inspira criptomonedas** 
--------------------------------------------
-
-![Moo Deng ya tiene su propia criptomoneda, que ha alcanzado una capitalización muy fuerte. Foto: www.binance.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/moo-deng-hipopotamo-5-1024x683.jpg)
-
-Moo Deng ya tiene su propia criptomoneda, que ha alcanzado una capitalización muy fuerte. Foto: www.binance.com.
-
-El adorable bebé hipopótamo ha trascendido su fama en el zoológico Khao Kheow, **convirtiéndose en un ‘memecoin’**. Según [CoinDesk](https://www.coindesk.com/es/markets/2024/09/26/crypto-inspired-by-moo-deng-zooms-to-100m-as-hippo-meme-takes-over-internet/ "https://www.coindesk.com/es/markets/2024/09/26/crypto-inspired-by-moo-deng-zooms-to-100m-as-hippo-meme-takes-over-internet/"), se ha creado una **criptomoneda en su honor** que ya ha alcanzado una impresionante capitalización de 100 millones de dólares. Un operador logró transformar una inversión de 1 331 dólares en asombrosos 3,4 millones. 
-
-Este es el **primer token de temática tailandesa en alcanzar tal capitalización**, aunque no se trata de un proyecto originario de Tailandia.  
-
-**Udomsak Rakwongwan**, profesor de la **Universidad Kasetsart** y cofundador de la bolsa descentralizada FWX.Finance, citado por la misma fuente, destaca que **otros memes en Tailandia no tuvieron tanto éxito porque su alcance fue limitado**. “Moodeng es un poco diferente”, dice, al aludir a la **atención internacional que ha captado**. 
-
-**Moo Deng** ha sido objeto de interés en los principales medios de comunicación mundiales, lo que le ha permitido atraer a un **público global**. Su historia subraya cómo la **cultura popular** puede impactar en la economía digital y resalta el poder de un fenómeno en el ámbito de las **criptomonedas**. 
-
-EE.UU. envía a Ucrania bombas capaces de golpear blancos rusos
-==============================================================
-
-Joe Biden anunció este jueves, 26 de septiembre de 2024, el envío a Ucrania de bombas capaces de golpear blancos rusos a 130 kilómetros de distancia, como parte de un nuevo paquete de ayuda militar valorado en 8 000 millones de dólares. Más noticias El anuncio se produjo poco antes de que Biden se reúna \[…\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El líder de la mayoría en el Senado de EE.UU. Chuck Schumer (d) y el senador Mitch McConnell (i) caminan junto al presidente de Ucrania,Volodímir Zelenski, en el Capitol de Estados Unidos en Washington (EE.UU.). EFE/EPA/JIM LO SCALZO](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe45a90be59d2333450be8e3f6ca8187ed653e23baw.jpg)
-
-[Joe Biden](https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html "https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html") anunció este jueves, 26 de septiembre de 2024, el **envío a Ucrania de bombas** capaces de golpear blancos rusos a 130 kilómetros de distancia, como parte de un nuevo paquete de ayuda militar valorado en **8 000 millones de dólares**.
-
-### Más noticias
-
-* [Zelenski empieza un viaje crucial a EE.UU. con una visita a una fábrica de munición](https://www.elcomercio.com/actualidad/mundo/zelenski-empieza-un-viaje-crucial-a-eeuu-con-una-visita-a-una-fabrica-de-municion.html "Zelenski empieza un viaje crucial a EE.UU. con una visita a una fábrica de munición")
-* [Vladímir Putin reconoce  el atentado terrorista contra la escuela de Beslán](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-reconoce-atentado-terrorista-contra-escuela-beslan.html "Vladímir Putin reconoce  el atentado terrorista contra la escuela de Beslán")
-* [Ucrania afirma que Rusia barajó la posibilidad de matar a Prigozhin](https://www.elcomercio.com/actualidad/mundo/ucrania-afirma-rusia-posibilidad-prigozhin.html "https://www.elcomercio.com/actualidad/mundo/ucrania-afirma-rusia-posibilidad-prigozhin.html")
-
-El anuncio se produjo poco antes de que Biden se reúna en la **Casa Blanca con su homólogo ucraniano**, Volodímir Zelenski, quien lleva meses pidiendo que se permita a Kiev **usar misiles de largo** alcance estadounidenses para atacar objetivos dentro de Rusia, a lo que Washington se resiste por temor a provocar una escalada con Moscú.
-
-El nuevo paquete de ayuda incluye **bombas planeadoras llamadas** ‘Joint Standoff Weapon’ (JSOW), que pueden ser lanzadas desde aviones y **alcanzar objetivos con gran precisión** a 130 kilómetros de distancia.
-
-Este tipo de bombas otorga a Ucrania la capacidad de atacar posiciones rusas desde lejos, minimizando así las bajas en sus propias filas.
-
-Sin embargo, las **tropas ucranianas no podrán utilizarlas** para lanzar ataques dentro de Rusia, ya que el Gobierno de Biden se opone a que Kiev utilice armamento estadounidense o fabricado con componentes estadounidenses, como misiles de largo alcance, contra objetivos en territorio ruso.
-
-Biden destacó en su comunicado que una de sus prioridades como presidente es proporcionar a Ucrania la ayuda necesaria para **“ganar esta guerra”,** y por esa razón ha decidido enviar a Kiev toda la ayuda que ya ha sido aprobada antes de que termine su mandato en enero de 2025.
-
-De esa forma, el grueso de esta nueva ayuda, **5 500 millones de dólares,** se asignará antes de que finalice el año fiscal de EE.UU. el próximo lunes, 30 de septiembre, cuando expiran los fondos autorizados hasta ahora.
-
-Otros **2 400 millones están destinados a un programa llamado** “iniciativa de asistencia a la seguridad de Ucrania”, lo que permite al Gobierno estadounidense adquirir armamento para Ucrania directamente de empresas en vez de usar las reservas del Pentágono.
-
-Esta nueva ayuda económica servirá para dotar a **Ucrania de más sistemas de defensa aérea,** sistemas aéreos no tripulados y municiones aire-tierra, además de fortalecer la base industrial de defensa de Ucrania y **apoyar sus necesidades de mantenimiento,** según explicó Biden en el comunicado.
-
-Además, EE.UU. formará el próximo año a 18 nuevos pilotos ucranianos en el uso de los cazas F-16 y entregará a Ucrania una nueva batería adicional de misiles Patriot, así como más misiles de este tipo.
-
-Poco después del anuncio, Zelenski agradeció a Biden y al Congreso el nuevo paquete a través de la red social X. “Utilizaremos esta ayuda de la manera más eficiente y transparente para lograr nuestro objetivo común: la victoria de Ucrania, **una paz justa y duradera, y la seguridad transatlántica**“, afirmó.
-
-Incendio en Guápulo, joven involucrado recibe prisión preventiva
-================================================================
-
-Este 26 de septiembre se desarrolló la audiencia del joven que está presuntamente relacionado con incendio en Guápulo.
-----------------------------------------------------------------------------------------------------------------------
-
-![Incendio destruye vegetación en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-guapulo-ok.jpg)
-
-Un joven de 19 años fue aprehendido por presuntamente estar relacionado con el incendio que ocurrió en **Guápulo**, en Quito.
-
-Este 26 de septiembre de 2024, la **Fiscalía** informó que, a las 11:32, empezó la audiencia en la **Unidad de Flagrancia**, en la av. Patria, en el centro norte de la capital ecuatoriana.
-
-### Más noticias
-
-* [Calidad del aire en Quito por incendios forestales se recupera lentamente](https://www.elcomercio.com/actualidad/quito/calidad-aire-quito-recupera-lentamente-incendios.html "Calidad del aire en Quito por incendios forestales se recupera lentamente")
-* [Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito](https://www.elcomercio.com/actualidad/ecuador/gobierno-analiza-declaratoria-emergencia-nacional-incendios-quito.html "Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito")
-* [Responsables de incendios podrían ir a la cárcel por terrorismo](https://www.elcomercio.com/actualidad/quito/responsables-incendios-forestales-quito-carcel-terrorismo.html "Responsables de incendios podrían ir a la cárcel por terrorismo")
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): en la Unidad de Flagrancia (Patria), se instala la audiencia para resolver la situación jurídica de Dylan Alberto A., presuntamente relacionado con el incendio de [#Guápulo](https://twitter.com/hashtag/Gu%C3%A1pulo?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/AvHZcjFBk6](https://t.co/AvHZcjFBk6)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 26, 2024](https://twitter.com/FiscaliaEcuador/status/1839342316219498706?ref_src=twsrc%5Etfw)
-
-Presunto implicado en incendio en Guápulo
------------------------------------------
-
-La Fiscalía indicó que en la audiencia se resolverá la situación jurídica de **Dylan Alberto A.**, presuntamente relacionado con el incendio de **Guápulo**.
-
-Según la información del Municipio, el presunto involucrado en el flagelo fue encontrado con un galón de combustible. No obstante, la **familia del joven** niega que sea el responsable.
-
-En la audiencia, acogiendo el pedido de la Fiscalía, jueza ordena prisión preventiva para **Dylan Alberto A.** Además, ya se definió el proceso por el delito de incendios forestales y de vegetación.
-
-**Fiscalía** indicó que, al ser un procedimiento directo, se fijó la audiencia de juicio para el 17 de octubre de 2024.
-
-Versiones en la audiencia
--------------------------
-
-El testimonio de una **vecina**, quien habría visto al joven en el lugar de los hechos, sería uno de los fundamentos en el **caso**.
-
-El joven, en cambio, dijo que se estaba bañando. En ese momento, evidenció el olor a humo, salió e intentó apagar el **incendio**.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Acogiendo el pedido de [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw), Jueza ordena prisión preventiva para Dylan Alberto A., procesado por el delito de [#IncendiosForestales](https://twitter.com/hashtag/IncendiosForestales?src=hash&ref_src=twsrc%5Etfw) y de vegetación. Al ser un procedimiento directo, se fijó la audiencia de juicio para el 17 de octubre de 2024. [pic.twitter.com/uoOHK5Opqz](https://t.co/uoOHK5Opqz)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 26, 2024](https://twitter.com/FiscaliaEcuador/status/1839362354565554348?ref_src=twsrc%5Etfw)
-
-Las sanciones por provocar incendios
-------------------------------------
-
-El **Código Orgánico Integral Penal (COIP)** establece que la persona que provoque directa o indirectamente incendios forestales o instigue a otra a cometerlo en bosques nativos, plantados o páramos, será sancionada con pena privativa de libertad de uno a tres años.
-
-Sobre los incendios, las autoridades hablan de actos terroristas. En estos casos, el **COIP**, en el Artículo 366, establece a este como toda acción para mantener en terror a una parte de la población, que ponga en peligro la vida y la integridad física.
-
-La pena va entre **19 y 22 años** de privación de la libertad. Se trata de un delito grave que puede estar orientado a implantar una ideología, ir en contra de una figura política, etc.
-
-Las sanciones municipales
--------------------------
-
-En lo que se refiere a los procesos administrativos, la **Agencia Metropolitana de Control (AMC)** impone una multa económica  que va desde una remuneración básica unificada hasta 75; es decir, 34 500 dólares.
-
-Hasta este 25 de septiembre de 2024, el Municipio reportó que, desde la **Procuraduría**, ha presentado 17 denuncias por incendios en Quito. Cada día se identifican entre 33 y 35 quemas de residuos.
-
-Jugadores ecuatorianos que juraron la bandera
-=============================================
-
-Hoy son grandes estrellas, algunos en Europa y otros en el país, pero antes eran estudiantes con el sueño de ser futbolistas.
------------------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié (izq.) una de las figuras de Ecuador en su etapa como estudiante en el juramento a la Bandera.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T114544.834.jpg)
-
-Este jueves 26 de septiembre se conmemora el **Día de la Bandera en Ecuador**, una fecha cívica en la que los estudiantes de tercero de bachillerato juran la bandera, tradición que hace algunos años cumplieron varios **jugadores** **ecuatorianos**, algunos de ellos hoy seleccionados nacionales.
-
-Este día se estbaleció como **símbolo nacional** por el Congreso, según el Registro Oficial 1272, tal como menciona la página de la Gobernación de Napo.
-
-### Más noticias:
-
-* [Conoce el significado patriótico detrás del Día y el Juramento a la Bandera](https://www.elcomercio.com/tendencias/cultura/juramento-bandera-ecuador-efemeride-civismo.html "Conoce el significado patriótico detrás del Día y el Juramento a la Bandera ")
-* [Piero Hincapié está entre los mejores jugadores de Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-bundesliga-alemania.html "Piero Hincapié está entre los mejores jugadores de Alemania")
-* [Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-atletico-mineiro-copa-libertadores.html "Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores")
-
-Durante la presidencia del General Eloy Alfaro, se decidió que la bandera ecuatoriana mantendría su tricolor original. Este diseño, que incluye los **colores amarillo, azul y rojo** en franjas horizontales, simboliza la historia del país desde su independencia.
-
-Jugadores ecuatorianos que juraron la bandera
----------------------------------------------
-
-En el marco del Día de la Bandera, recordamos a jugadores que sostuvieron con orgullo el tricolor durante la ceremonia. Algunos de ellos incluso tuvieron el honor de ser abanderados o portaestandartes.
-
-**Alan** **Franco**, quien, en su etapa juvenil jugó y estudió en Independiente del Valle, fue cargó la bandera del pabellón nacional y llevó la bandera durante el juramento. Actualmente, Franco es una de las estrellas del **Atlético Mineiro de Brasil** y un jugador clave en la Selección de Ecuador.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T114626.421-1024x683.jpg)
-
-También se destacan varios futbolistas que salieron de Independiente del Valle, cuyas fotos se compartieron en redes sociales por el club en esta celebración cívica.
-
-Otro jugador es **Pedro Vite**, actualmente una figura en la MLS con los Vancouver **Whitecaps**, y también convocado ocasionalmente a la Selección de Ecuador.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T114548.083-1024x683.jpg)
-
-**Piero Hincapié**, uno de los mejores futbolistas ecuatorianos del momento, forjando una destacada carrera tanto en la selección como en el **Bayer Leverkusen**, también tuvo su momento de honor. Mientras estudiaba en Independiente del Valle, fue escolta de la bandera.
-
-Su buen desempeño académico y deportivo lo llevaron a **consolidarse como uno de los mejores centrales del mundo.**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T114544.834-1024x683.jpg)
-
-Futbolistas femeninas abanderadas y en el juramento
----------------------------------------------------
-
-**Karla Holguín**, una de las jóvenes promesas del **Barcelona SC Femenino**, ya campeona de la Superliga Femenina en 2023, fue abanderada en su colegio, portando con orgullo el tricolor. Holguín ha sido una jugadora regular en el primer equipo durante la temporada 2024.
-
-Por su parte, **Kathleen Mendoza**, también jugadora de Barcelona SC Femenino y campeona en 2023, no fue abanderada, pero tuvo el honor de ser escolta de la bandera en su etapa estudiantil. Y, también, ha jugado en la Selección de Ecuador
-
-> 7\. Kathleen Mendoza [pic.twitter.com/hc1eEDdU0k](https://t.co/hc1eEDdU0k)
-> 
-> — FútbolPasionWeb (@IdoloPasionWeb) [September 26, 2024](https://twitter.com/IdoloPasionWeb/status/1839299893661413437?ref_src=twsrc%5Etfw)
-
-Estos jugadores y jugadoras no solo han destacado en las canchas, sino que también lo hicieron en su vida estudiantil, **honrando a la bandera nacional**.
-
-### Más noticias
-
-* [![Donaciones y concierto para los afectados de incendios forestales en Quito](https://www.elcomercio.com/wp-content/uploads/2024/09/incendios-donaciones.jpg)](https://www.elcomercio.com/actualidad/quito/donaciones-concierto-solidaridad-afectados-incendio-quito.html)
-    
-    [Donaciones y concierto para los afectados de incendios forestales en Quito](https://www.elcomercio.com/actualidad/quito/donaciones-concierto-solidaridad-afectados-incendio-quito.html)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    El Ministerio de Cultura organiza un concierto solidario en Quito, recibiendo donaciones para los afectados por los incendios forestales.
-    
-* [![Los bombardeos de Israel contra Líbano dejan 60 fallecidos](https://www.elcomercio.com/wp-content/uploads/2024/09/4d88bc28903ebc0f99fbe63073c176b57781032c.jpg)](https://www.elcomercio.com/actualidad/mundo/bombardeos-israel-contra-libano-dejan-60-muertos.html)
-    
-    [Los bombardeos de Israel contra Líbano dejan 60 fallecidos](https://www.elcomercio.com/actualidad/mundo/bombardeos-israel-contra-libano-dejan-60-muertos.html)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Las autoridades libanesas ampliaron a 565 el número de instalaciones públicas destinadas a recibir desplazados.
-    
-* [![Incendio en Guápulo, joven involucrado recibe prisión preventiva](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-guapulo-ok.jpg)](https://www.elcomercio.com/actualidad/quito/incendio-guapulo-involucrado-audiencia-fiscalia.html)
-    
-    [Incendio en Guápulo, joven involucrado recibe prisión preventiva](https://www.elcomercio.com/actualidad/quito/incendio-guapulo-involucrado-audiencia-fiscalia.html)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Este 26 de septiembre se desarrolló la audiencia del joven que está presuntamente relacionado con incendio en Guápulo.
-    
-
-Netanyahu repite en Nueva York que Israel atacará a Hizbulá ‘hasta lograr objetivos’
-====================================================================================
-
-"Nuestra política es clara, y que nadie se llame a engaño", insistió Benjamín Netanyahu.
-----------------------------------------------------------------------------------------
-
-![Fotografía de archivo del primer ministro israelí, Benjamín Netanyahu. EFE/EPA/ABIR SULTAN EPA POOL](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe1b004ec26dd08e8a31b09ef84864e8858d81f063w.jpg)
-
-El **primer ministro israelí** [Benjamín Netanyahu](https://www.elcomercio.com/actualidad/mundo/netanyahu-eleva-tono-contra-hizbula-tras-golpear-ciudades-israel.html "https://www.elcomercio.com/actualidad/mundo/netanyahu-eleva-tono-contra-hizbula-tras-golpear-ciudades-israel.html") prometió este jueves, 26 de septiembre de 2024, nada más **llegar a Nueva York** para participar mañana en la **Asamblea General de la ONU** que su país “seguirá golpeando a **Hizbulá con todo su poder”**, y que no parará “hasta alcanzar todos nuestros objetivos”, en **declaraciones a los periodistas** en la misma pista del aeropuerto.
-
-### Más noticias
-
-* [Más de 90 000 nuevos desplazados en el Líbano en menos de una semana](https://www.elcomercio.com/actualidad/mundo/90-000-nuevos-desplazados-libano-menos-semana-segun-oim.html "Más de 90 000 nuevos desplazados en el Líbano en menos de una semana")
-* [Suben a 14 los fallecidos y a 450 los heridos por nuevas explosiones en el Líbano](https://www.elcomercio.com/actualidad/mundo/suben-los-fallecidos-450-heridos-nuevas-explosiones-libano.html "Suben a 14 los fallecidos y a 450 los heridos por nuevas explosiones en el Líbano")
-* [Explosión de ‘beepers’ y ‘walkie-talkies’ en Libano, estas son las claves tecnológicas](https://www.elcomercio.com/actualidad/mundo/explosion-beepers-walkie-talkies-permitio-encontrar-enemigos-israel.html "Explosión de ‘beepers’ y ‘walkie-talkies’ en Libano, estas son las claves tecnológicas")
-
-Con esas palabras, Netanyahu echa por tierra las esperanzas que surgieron ayer de una tregua de 21 días, una **iniciativa que promueven EE. UU**. y **Francia** y que cosechó el apoyo de al menos diez países en la tarde de ayer.
-
-“Nuestra política es clara, y **que nadie se llame a engaño**“, insistió Netanyahu, que definió su objetivo principal: el retorno de los residentes del norte de Israel a sus hogares, en referencia a los 67 000 **desplazados por los combates.**
-
-Poco antes, y aun en el avión, envió un **mensaje insistiendo** en que su país aún no había aceptado esa oferta de tregua temporal, que en principio solo **regiría en el Líbano**, pero no en Gaza.
-
-Sobre su mensaje mañana a la Asamblea General, el primer ministro, que viaja con su esposa Sarah, dijo que se presentará en el recinto con familias de **rehenes en manos de Hamás**, para demostrar que “no les hemos olvidado ni un minuto”.
-
-Calidad del aire en Quito por incendios forestales se recupera lentamente
-=========================================================================
-
-Incendios aún comprometen la calidad del aire en Quito.
+Funcionario del Registro Civil se hizo pasar por pastor
 -------------------------------------------------------
 
-![La calidad del aire está afectada por los incendios en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/aire.jpg)
+En la investigación para saber cómo se realizó el matrimonio, el hospital estableció que familiares del paciente pidieron el ingreso del **pastor** de su iglesia, quien quería visitar al paciente. Pero en el grupo ingresó un miembro del Registro Civil, quien realizó la unión civil con una mujer que estaba en el lugar. 
 
-La **calidad del aire** en **Quito** es una de las repercusiones por los incendios forestales que empezaron el martes, 24 de septiembre de 2024. Este jueves, el reporte tiene novedades[.](https://es.wikipedia.org/wiki/Quito)
+El Registro Civil anunció que se investigan las circunstancias en que se produjo el hecho. En un comunicado, el organismo señaló que conoció el caso el **28 de agosto** y de inmediato presentó la denuncia en la Fiscalía.
 
-La **Secretaría de Ambiente** realiza el monitoreo para verificar las condiciones en la capital. Mientras, las labores del **Cuerpo de Bomberos**
+“Se denunció por un presunto **delito de acción pública** y corresponderá al fiscal competente investigar los hechos denunciados y determinar las responsabilidades penales, de ser el caso, como preceptúa el COIP”, puntualizó la institución.
 
-### Más noticias
+Matrimonio no sería válido
+--------------------------
 
-* [Gobierno y Municipio ejecutan medidas para enfrentar emergencia por incendios en Quito](https://www.elcomercio.com/actualidad/quito/quito-soporta-mas-un-dia-incendios-emergencia.html)
-* [Incendio forestal de Guápulo tiene focos activos, según Pabel Muñoz](https://www.elcomercio.com/actualidad/quito/incendio-forestal-guapulo-avances-pabel-munoz.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
-* [Responsables de incendios podrían ir a la cárcel por terrorismo](https://www.elcomercio.com/actualidad/quito/responsables-incendios-forestales-quito-carcel-terrorismo.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
+En este caso se evidencia un fraude procesal y una mala utilización de documento público. Así lo indicó el abogado **Jefferson Macías**, en diálogo con **EL COMERCIO**.
 
-> 🚨 [#Activados24Siete](https://twitter.com/hashtag/Activados24Siete?src=hash&ref_src=twsrc%5Etfw) | Actualización sobre la calidad del aire en Quito, a esta hora del día.[#AltoAlFuego](https://twitter.com/hashtag/AltoAlFuego?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/uai2eHi2X4](https://t.co/uai2eHi2X4)
-> 
-> — Ambiente Quito (@ambientequito) [September 26, 2024](https://twitter.com/ambientequito/status/1839304466685899247?ref_src=twsrc%5Etfw)
+Según el jurista, “también existe una complicidad entre todos los actores quienes han participado en este hecho: entre médicos, la persona que hace el trámite del casamiento y quienes permiten el ingreso”.
 
-Calidad del aire comprometida por incendios
--------------------------------------------
+Macías puntualizó que este **matrimonio no sería válido**, pues uno de los requisitos para contraer nupcias es que la persona tiene que estar **consciente** de sus actos. “Y el señor ha estado con una incapacidad o una disminución mental. El delegado del Registro Civil tiene que haberse percatado de esta situación y rechazado este acto, pues no cumplía los requisitos legales”, manifestó.
 
-De acuerdo con la **Secretaría de Ambiente**, Quito está recuperando progresivamente niveles más normales de **calidad del aire**.
+También, dijo el experto, se debe establecer si existió una **delegación** por parte del Registro Civil para que el funcionario acudiera al hospital o si este salió **sin autorización**.
 
-Sin embargo, las recomendaciones sobre las medidas preventivas se mantienen. Más todavía cuando los incendios, como en el caso del **cerro Auqui**, están activos.
+El Código Orgánico Integral Penal (COIP), en su artículo **327** (Falsificación de firmas) señala que “la persona que altere o falsifique la firma de otra en un instrumento privado recibirá una pena privativa de libertad de **uno a tres años**”.
 
-Los contaminantes aún están presentes en el ambiente y el viento hace que se dirijan a otras zonas, como hacia las laderas del volcán **Pichincha**.
+Si la falsificación se da en un documento público la pena será de tres a **cinco años**.
 
-La entidad municipal indicó que el monitoreo de la **calidad del aire** es permanente y que, de haber variaciones, emitirá un nuevo informe.
+Mientras que el artículo **328** (Falsificación y uso de documento falso) establece que “la persona que falsifique, destruya o adultere modificando los efectos o sentido de los documentos públicos, privados, timbres o sellos nacionales (…) será sancionada con pena privativa de libertad de cinco a **siete años**”.
 
-Recomendaciones para precautelar la salud
------------------------------------------
+Cuando se trate de documentos privados la pena será de tres a **cinco años**. El uso de estos documentos falsos, se sanciona con las mismas penas previstas en cada caso.
 
-Se sugiere el uso de mascarilla para personas vulnerables, mantenerse adecuadamente hidratado, y utilizar cremas o bálsamos humectantes para proteger la piel y las **vías respiratorias**.
+Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores
+====================================================================
 
-El humo, la ceniza y las partículas pueden provocar afectaciones al sistema respiratorio. Las partículas mayores a **25 micrómetros**, que generalmente se presentan en la quema de la vegetación, generan asfixias e irritaciones en las vías respiratorias.
+El Flamengo de Gonzalo Plata no pudo dar vuelta a la serie ante Peñarol en Copa Libertadores y se eliminó en cuartos de final.
+------------------------------------------------------------------------------------------------------------------------------
 
-La **irritación** en la piel, mucosas nasales y ojos son algunas de las **afectaciones** más frecuentes.
+![Gonzalo Plata (der.) enfrenta a un rival de Peñarol en la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/09/9f7914b40b039c3555db0f53b6f8ec48d0d0313c.jpg)
 
-En espacios externos
---------------------
+Con **Gonzalo Plata** de titular, Flamengo no pudo dar vuelta a la serie en los cuartos de final de la Copa Libertadores. El equipo igualó como visitante ante **Peñarol** y el marcador global favoreció a los uruguayos tras su victoria de 0-1 en compromiso previo.
 
-Las **precauciones** deben permanecer por, al menos, tres días luego de controlado el incendio. Es vital evitar las actividades físicas al aire libre y la **exposición prolongada al ambiente**.
-
-Las personas deben usar **ropa** e implementos que protejan la mayor parte de la piel. Las **gafas** son elementos importantes.
-
-En las viviendas
-----------------
-
-En las viviendas es crucial evitar o reducir el ingreso de **humo y partículas**. Cubrir los espacios abiertos en puertas y ventanas con paños o toallas húmedas es una alternativa.
-
-A la par, se debe evitar encender **velas, chimeneas, inciensos y cigarrillos**. Los humidificadores deben ocuparse en periodos cortos y no de forma permanente.
-
-El alcalde de Nueva York, Eric Adams, es acusado de corrupción
-==============================================================
-
-El alcalde de Nueva York, Eric Adams, enfrenta cargos federales de soborno y fraude en medio de una investigación de recaudación de fondos.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Eric Adams, alcalde de Nueva York en una rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/09/eric-adams.png)
-
-El **alcalde de Nueva York**, e**l demócrata Eric Adams**, fue acusado este jueves oficialmente por la Fiscalía federal, que le investiga desde 2021, de **cargos de soborno, fraude y solicitud de donaciones ilegales** al Gobierno turco para su campaña a la Alcaldía.
-
-### Más noticias
-
-* [Daniel Noboa continúa su agenda en Nueva York](https://www.elcomercio.com/actualidad/politica/daniel-noboa-continua-agenda-nueva-york-inversionistas.html "Daniel Noboa continúa su agenda en Nueva York")
-* [Weinstein es acusado en Nueva York de otro delito sexual, que él niega](https://www.elcomercio.com/actualidad/mundo/weinstein-es-acusado-en-nueva-york-de-otro-delito-sexual-que-el-niega.html "Weinstein es acusado en Nueva York de otro delito sexual, que él niega")
-* [‘El Mayo’ Zambada se declara no culpable en primera vista en Nueva York](https://www.elcomercio.com/actualidad/mundo/mayo-zambada-declara-no-culpable-primera-vista-nueva-york.html "‘El Mayo’ Zambada se declara no culpable en primera vista en Nueva York")
-
-La acusación, que se dio a conocer hoy en la **corte federal** para el distrito sur de Nueva York, en Manhattan, a solo unos pasos de la Alcaldía, convierte a Adams, e**xsenador estatal y excapitán de la Policía**, en el primer alcalde de esta ciudad en ser imputado mientras está en funciones.
-
-Los cargos fueron presentados después de que recientemente lo**s fiscales federales exigieran a la Alcaldía que revelara todas las comunicaciones** entre la administración de Adams con Turquía y otros cinco países.
-
-Adams negó reiteradamente haber hecho algo indebido, y además **aseguró que se defenderá y que no renunciará**.
-
-Allanamiento en la residencia oficial
--------------------------------------
-
-La mañana del jueves, **investigadores federales irrumpieron en la residencia oficial del alcalde**, Gracie Mansion, donde ejecutaron una orden de registro. Según fuentes cercanas al operativo, los agentes pasaron más de tres horas en el lugar y se llevaron el **teléfono móvil de Adams**.
-
-> [#ÚLTIMAHORA](https://twitter.com/hashtag/%C3%9ALTIMAHORA?src=hash&ref_src=twsrc%5Etfw) | El alcalde de Nueva York, Eric Adams, es acusado de corrupción. [pic.twitter.com/d8FVQtiiPr](https://t.co/d8FVQtiiPr)
-> 
-> — EFE Noticias (@EFEnoticias) [September 26, 2024](https://twitter.com/EFEnoticias/status/1839321146816348190?ref_src=twsrc%5Etfw)
-
-Su abogado, Alex Spiro, calificó la acción como un **“espectáculo innecesario”** y afirmó que el alcalde habría entregado voluntariamente el dispositivo si se lo hubieran solicitado. Spiro también declaró que Adams espera demostrar su inocencia en los tribunales.
-
-Reacciones y consecuencias políticas
-------------------------------------
-
-El caso ha generado un impacto significativo en la administración del alcalde. Desde septiembre, varios altos funcionarios de su equipo han sido implicados en **investigaciones paralela**s. Entre ellos, dos tenientes de alcalde y otros asesores cercanos recibieron **órdenes de registro**, y sus dispositivos móviles fueron incautados.
-
-Las renuncias no se hicieron esperar, el excomisario de la **policía Edward Caban y la principal abogada del Ayuntamiento, Lisa Zornberg, abandonaron sus cargos**. A esto se suma la próxima salida del rector de las escuelas públicas, **David Banks**, cuyo domicilio también fue registrado. Adams, por su parte, ha rechazado cualquier insinuación de dimisión, afirmando que seguirá al frente de la ciudad mientras enfrenta las acusaciones.
-
-¿Cuándo juega Liga de Quito?
-============================
-
-Liga de Quito viaja a Manta para visitar al Delfín con el objetivo de mantener el liderato de la Liga Pro 2024.
----------------------------------------------------------------------------------------------------------------
-
-![Gabriel Villamil con Liga de Quito en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_fecha_1.jpg)
-
-**Liga de Quito** intenta retomar el camino del triunfo en la Liga Pro para mantenerse como el único líder de la segunda etapa de la Liga Pro, a falta de ocho fechas para concluir el calendario de juegos.
-
-Las cinco primeras jornadas para **Liga de Quito fueron arrolladoras y con puntaje perfecto** por las victorias de local ante ante Cumbayá (2-1), Libertad (3-0) y Barcelona Sporting Club (3-0); y de visitante frente a Macará (0-4) y Aucas (0-1).
+La escuadra brasilera y el ecuatoriano llegaron con el marcador en contra y a enfrentarse a un **Estadio Campeón del Siglo** copado por hinchas ‘carboneros’. Pese al contexto adverso, la plantilla del conjunto carioca seguía siendo superior en nombres y estaba plagada de estrellas, a diferencia de la de los locales.
 
 ### Más noticias:
 
-* [Moisés Caicedo y su fundación brindan ayuda a Quito por los incendios](https://www.elcomercio.com/deportes/futbol/moises-caicedo-su-fundacion-prestan-ayuda-a-quito-por-los-incendios.html "Moisés Caicedo y su fundación brindan ayuda a Quito por los incendios")
-* [Wojciech Szczesny, el elegido para reemplazar a Ter Stegen en el FC Barcelona](https://www.elcomercio.com/deportes/futbol/wojciech-szczesny-elegido-para-reemplazar-ter-stegen-barcelona.html "Wojciech Szczesny, el elegido para reemplazar a Ter Stegen en el FC Barcelona")
-* [¿Cuándo se juega Liga de Quito vs. El Nacional tras postergación por incendio forestal?](https://www.elcomercio.com/deportes/el-nacional-liga-quitop-fecha-copa-ecuador.html "¿Cuándo se juega Liga de Quito vs. El Nacional tras postergación por incendio forestal?")
+* [Gonzalo Plata intentará salvar a Flamengo en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-intentara-salvar-a-flamengo-en-la-copa-libertadores.html "Gonzalo Plata intentará salvar a Flamengo en la Copa Libertadores")
+* [Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-atletico-mineiro-copa-libertadores.html "Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores")
+* [River Plate, primer semifinalista en Copa Libertadores](https://www.elcomercio.com/deportes/river-plate-copa-libertadores-colo-colo.html "River Plate, primer semifinalista en Copa Libertadores")
 
-Las primeras piedras en el camino aparecieron en la sexta jornada en su visita al Imbabura en el **Olímpico de Ibarra con una inesperada derrota de 0-4**. Luego en la séptima en el Rodrigo Paz Delgado empataron 1-1 ante El Nacional.
+Pese a las diferencias con respecto a la plantilla, el ‘Mangia’ contaba con una fuerte sinergia y química a nivel de equipo, lo cual también le permitió sacar el triunfo previo. El reto para la escuadra del **DT Diego Aguirre** era manejar la presión y el resultado a favor.
 
-Por tal motivo, el argentino **Pablo ‘Vitamina’ Sánchez procurará**, ante Delfín, **conducir nuevamente a la ruta de la victoria en Ecuador a Liga**, en su afán por ganar la segunda fase de la Liga Pro en busca de clasificar a la Copa Libertadores de 2025.
+En el compromiso de ida, **Peñarol** mantuvo una postura decisiva y se decidió por las contras, forma de la que encontraron el triunfo. Para esta ocasión, la compostura defensiva se mantuvo, pero la escuadra se animó a salir más y buscar ofender al rival.
 
-El ‘Rey de Copas’ de Ecuador a sus dos últimos resultados, se mantiene un punto de ventaja sobre sus inmediatos perseguidores y se mantuvo en el liderato, con 16 unidades, por lo que para conservar la opción de ir a la Libertadores, será vital ganarle a Delfín.
+Gonzalo Plata no pudo hacer la diferencia con Flamengo
+------------------------------------------------------
 
-El bajón futbolístico del cuadro de ‘Vitamina’ Sánchez, **va de la mano con la falta de goles en las últimas cuatro fechas** del máximo goleador del torneo, con 18 tantos, el paraguayo Alex Arce.
+Para el choque fuera de casa, **Flamengo** se plantó con un 4-2-3-1 y **Gonzalo Plata** se ubicó como volante por el costado derecho, en su posición habitual. A nivel táctico, **Peñarol** realizó la misma propuesta en cuanto a su sistema.
 
-Por su parte, el Delfín, **ganó por última ocasión en su estadio en la penúltima fecha de la primera fase**, resultado que lo ubican entre los tres últimos de la tabla de posiciones con el riesgo de perder la categoría para el próximo año.
+**Plata** tuvo desbordes por el andarivel diestro e intentó pisar el área rival, pero sus incursiones no fueron favorables. Asimismo, tampoco contó con **oportunidades claras** para rematar al arco y sus compañeros no conectaron sus centros.
 
-El encuentro entre Delfín y Liga de Quito, válido por la octava fecha de la Liga Pro, se jugará el domingo 29, desde las 15:00 en el estadio Jocay de Manta.
+El ecuatoriano, de a poco, se fue apagando y los **uruguayos** encontraron la forma de contenerlo. En la segunda mitad y luego de que enviase un pase aéreo desviado y sufriese un anticipo cuando el balón le podía llegar en el área, este fue sustituido. A los 59′, **Tité** lo sustituyó por Gabriel.
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_fecha_2-1024x683.jpg)
+¿Qué le espera al Flamengo y a Plata?
+-------------------------------------
 
-Foto: API.
+Tras la salida del ecuatoriano, su escuadra tampoco pudo **dar vuelta a la pizarra**. El marcador terminó en 0-0 y la euforia se desató en el campeón del siglo.
 
-Liga de Quito, el objetivo del resto de equipos
------------------------------------------------
+Con la eliminación de la Copa Libertadores, a Gonzalo Plata y al Flamengo les resta centrarse en la **Copa de Brasil** y el **Brasileirao**. En el primer torneo se encuentra en semifinales y en el segundo ocupa el cuarto lugar.
 
-Entretanto, el Mushuc Runa, **que está a dos puntos de Liga, con 14 puntos**, visitará a Técnico Universitario, comandado por el goleador uruguayo Mathias Acuña, pero echará de menos a una de sus principales figuras por suspensión, el argentino Enzo Fernández.
+Caso Pampa: el juez tomó una decisión sobre la validez del proceso
+==================================================================
 
-Orense y Macará, con 13 puntos cada uno, abrirán mañana, viernes, la octava fecha de la segunda fase, con la consigna de ganar para mantenerse a la caza del liderato, **que otorgará también el billete de finalista por el título** de la actual temporada en Ecuador.
+La Fiscalía investiga el delito de lavado de activos en el caso Pampa.
+----------------------------------------------------------------------
 
-El Independiente del Valle, ganador de la primera fase de la Liga Pro y del primer billete directo para la Libertadores de 2025, **se jugará ante Universidad Católica una de las posibilidades** para adjudicarse el título de la actual temporada en forma directa.
+![En la audiencia del caso Pampa, el juez tomó una decisión sobre la validez del proceso.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2-1.jpg)
 
-Tanto el cuadro del Valle como la Católica, **que están con 13 puntos cada uno en la tabla de posiciones**, protagonizarán también el duelo entre los entrenadores argentinos, Javier Gandolfi y Jorge Célico, respectivamente.
+El juez del caso Pampa tomó una decisión sobre la validez del proceso, la tarde de este jueves 26 de septiembre de 2024.
 
-Liga Pro – octava fecha
------------------------
+La Fiscalía investiga el delito de lavado de activos y procesa a 13 personas naturales y ocho empresas, en este caso.
 
-– Viernes 27/09: Orense vs. Macará.
+### Más noticias:
 
-– Sábado 28/09: Imbabura vs. El Nacional; Independiente del Valle vs. Universidad Católica; y Cumbayá vs. Emelec.
+* [CJ destituyó a juez que habría favorecido a Los Lobos y está implicado en el caso Plaga](https://www.elcomercio.com/actualidad/seguridad/cj-destituyo-juez-habria-favorecido-los-lobos-vinculado-caso-plaga.html "CJ destituyó a juez que habría favorecido a Los Lobos y está implicado en el caso Plaga")
+* [Exjuez Ángel Lindao suma segunda sentencia en su contra y es procesado por un caso más](https://www.elcomercio.com/actualidad/seguridad/exjuez-angel-lindao-suma-segunda-sentencia-procesado-un-caso-mas.html "Exjuez Ángel Lindao suma segunda sentencia en su contra y es procesado por un caso más")
 
-– Domingo 29/09: Aucas vs. Deportivo Cuenca; Delfín vs. Liga de Quito; y Barcelona vs. Libertad.
+En el caso Pampa, la Fiscalía General del Estado y la **Policía Nacional**, en coordinación con la **Policía española**, investigan la existencia de una red **narcodelictiva.**
 
-– Lunes 30/09: Técnico Universitario vs. Mushuc Runa.
+Esta red sería liderada por **Dritan G.**, de **nacionalidad albanesa**, **Mario S.**, de **nacionalidad argentina**; y, Carlos G., de nacionalidad ecuatoriana.
+
+Se presume que, junto a sus familiares y círculo cercano, ellos habrían creado **varias empresas** y utilizado otras ya creadas.
+
+El fin era ocultar el **origen ilícito del dinero** y fusionar aquellos activos ilegales provenientes del narcotráfico.
+
+Las compañías dedicadas a la exportación de productos agrícolas como banano, compra-venta de bienes inmuebles, producción de cárnicos y de cannabis.
+
+En el sistema financiero nacional, se detectaron movimientos no justificados por un monto de **31 000 000 de dólares,** entre 2015 y 2024.
+
+Se habrían adquirido bienes muebles como vehículos de alta gama e inmuebles como terrenos, casas, oficinas, bodegas, parqueaderos y más.
+
+Las propiedades están en las provincias de **Guayas, Los Ríos, Cotopaxi y Santa Elena**.
+
+Caso Pampa: el juez tomó una decisión sobre la validez del proceso
+------------------------------------------------------------------
+
+La mañana de este jueves, un **juez del Complejo Judicial Norte de Quito** instaló la **audiencia evaluatoria y preparatoria de juicio** del caso Pampa.
+
+Al inicio de la audiencia, las defensas de los procesados pidiendo la nulidad del proceso y la excusa del juez de la causa.
+
+Ellos argumentaron que no fueron notificados de la investigación previa, la misma que era reservada.
+
+Por la tarde, el juez respondió, uno por uno, los pedidos de los abogados y los desechó.
+
+Sobre el pedido de excusa, dijo que no procede y que la falta de notificación no afectó el derecho al debido proceso en este caso.
+
+Finalmente, el juez decidió **no dar paso a los pedidos de nulidad y declaró la validez de todo el proceso**.
+
+Este viernes, la Fiscalía expondrá su **dictamen acusatorio**.  
+
+  
+
+  
+
+Selección de Ecuador sub-16 empató con Argentina en amistoso
+============================================================
+
+La Selección de Ecuador sub-16 está dirigida por Juan Carlos Burbano, exjugador y campeón con El Nacional.
+----------------------------------------------------------------------------------------------------------
+
+![Deinner Ordóñez celebra un gol marcado con la Selección de Ecuador sub-16 en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ecuador_juvenil_1.jpg)
+
+La **Selección de Ecuador sub-16** empató 2-2 el primero de sus dos amistosos contra Argentina, en Guayaquil, como parte del proceso de preparación para el Campeonato Sudamericano de la categoría en Bolivia.
+
+La Federación Ecuatoriana de Fútbol (FEF) anunció que el primer amistoso ante Argentina se jugó este **jueves 26 de septiembre de 2024 en el estadio Monumental**; mientras que el segundo será el domingo 29 en el George Capwell, desde las 16:00.
+
+### Más noticias:
+
+* [Benny Atahualpa, de Alemania, a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/benny-atahualpa-birner-seleccion-ecuador.html "Benny Atahualpa, de Alemania, a la Selección de Ecuador")
+* [Los ‘euroguaguas’ de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/jugadores-europa-euroguaguas-de-la-seleccion-de-ecuador.html "Los ‘euroguaguas’ de la Selección de Ecuador")
+* [Selección de Ecuador convoca a promesa de España](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-convoca-a-promesa-espana-malcom-dacosta.html "Selección de Ecuador convoca a promesa de España")
+
+Argentina, dirigida por el exjugador Diego Placente, se adelantó en el **marcador con un tanto de Uriel Ojeda (31′)**, mediocentro de San Lorenzo de Almagro. Con el 0-1 se fueron al descanso.
+
+El **1-1 fue obra de Deinner Ordóñez**, defensa central de 14 años que juega en Independiente del Valle, que se encargó de emparejar el marcador y darle un nuevo impulso a los de Burbano.
+
+A los 72 minutos la Tri puso el **2-1 con la firma de Hólger Quintero**, mediocentro ofensivo que también es parte de Independiente del Valle, y en el que es una de sus grandes promesas para el corto plazo.
+
+Argentina llegó al 2-2 a los **77 minutos por intermedio de Felipe Esquivel**, extremo derecho de 16 años que es una de los talentos más prometedores con los que cuenta la prodigiosa cantera de River Plate.
+
+![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/09/ecuador_juvenil_2-1024x683.jpg)
+
+Foto: La Tri.
+
+¿Por qué el Sudamericano tendrá jugadores de 16 años?
+-----------------------------------------------------
+
+En primera instancia el torneo sub-15 debió realizarse en el 2023, pero se cambió para el 2024, por lo que la Conmebol explicó que “**todos los jugadores del equipo deberán tener como máximo 16 años** al final del año natural en el que se disputa la competición, es decir, todos deberán haber nacido el 1 de enero de 2008 o después de esta fecha“.
+
+Agregó que “**la competición no tendrá un límite mínimo aplicable a la edad de los jugadores**”.
+
+El torneo se jugará en **Santa Cruz de la Sierra y tendrá a Ecuador en el grupo B** junto a las potencias Brasil, Argentina y Uruguay, más la ascendete Venezuela que cada vez gana más espacio en todas las categorías que compite.
+
+En la fase de grupos, las **10 selecciones estarán divididas en dos grupos de cinco** equipos cada uno, en la que jugarán cuatro jornadas a una sola rueda de partidos.
+
+Avanzarán para las semifinales las **dos selecciones mejor posicionadas de cada grupo**. A la final irán los ganadores de cada llave. Los perdedores jugarán por el tercer puesto.
+
+Selección de Ecuador sub-16
+---------------------------
+
+Jostin García – Liga de Quito  
+**Miguel Peralta – Independiente del Valle  
+**Mijail Vaca – El Nacional  
+**Darío Castillo – Barcelona SC  
+**Deinner Ordóñez – Independiente del Valle  
+**Jalmar Ramírez – Elche (España)  
+**Juan Angulo – Independiente del Valle  
+**Benny Birner – Kieler SV Holstein (Alemania)  
+**Renato Caicedo – Universidad Católica  
+**Fricio Caicedo – Liga de Quito  
+**Ederson Castillo – Liga de Quito  
+**Malcom Dacosta – Bournemouth (Inglaterra)  
+**Yaxi García – Barcelona SC  
+**Justin Lerma – Independiente del Valle  
+**Jordan Mejía – Elche (España)  
+**Jhosué Minda – Liga de Quito  
+**Virgilio Olaya – Aucas  
+**Kevin Pineda – Liga de Quito  
+**Edwin Quintero – Independiente del Valle  
+**Hólger Quintero – Independiente del Valle  
+**Bolívar Tobar – Emelec  
+**Demcy Manteca – Liga de Quito**
+
+![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/09/ecuador_juvenil_3-1024x683.jpg)
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Incendio forestal en el cerro Auqui se reactiva
-===============================================
+Deportivo Quito recibe apoyo masivo de sus hinchas
+==================================================
 
-Quito en emergencia por incendios forestales; fuego en cerro Auqui se reactiva. Bomberos trabajan por aire y tierra para controlarlo.
--------------------------------------------------------------------------------------------------------------------------------------
+El Deportivo Quito cuenta con una de las hinchadas más leales del fútbol ecuatoriano.
+-------------------------------------------------------------------------------------
 
-![Una columna de humo se visualiza en el cerro Auqui.](https://www.elcomercio.com/wp-content/uploads/2024/09/auqui-cerro.png)
+![Deportivo Quito junto con su hinchada en un partido de Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T190240.473.jpg)
 
-A las 11:00 de este **26 de septiembre de 2024,** una nube de humo se volvió a observar en el cerro Auqui, uno de los focos del incendio forestal que aún permanecían activos. Desde varios **puntos de la capital** se observa cómo este incendio forestal se volvió a activar.
+El **Deportivo Quito** participará en el **Torneo de Ascenso a** la Serie B, su primer torneo de este tipo desde 2022. Esta clasificación ha despertado gran entusiasmo en la afición, que respondió de manera masiva en el primer día de venta de entradas.
 
-### Más noticias
+A lo largo de los años, la ‘AKD’ se ha caracterizado por c**ontar con seguidores extremadamente fieles**, que han estado presentes tanto en los momentos de gloria como en los más difíciles. Desde el descenso en 2016, que llevó al equipo hasta Segunda Categoría, los hinchas no han dejado de apoyar al club.
 
-* [Túnel Guayasamín tiene horario de apertura por incendio forestal de Guápulo](https://www.elcomercio.com/actualidad/quito/tunel-guayasamin-apertura-incendio-forestal-guapulo.html "Túnel Guayasamín tiene horario de apertura por incendio forestal de Guápulo")
-* [Incendio forestal en Guápulo provoca cierres viales este 26 de septiembre](https://www.elcomercio.com/actualidad/quito/incendio-foresta-cierres-viales-guapulo.html "Incendio forestal en Guápulo provoca cierres viales este 26 de septiembre")
-* [Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-gonzalez-suarez-vecinos.html "Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito")
+### Más noticias:
 
-El martes 24 de septiembre de 2024, una serie de **incendios forestales comenzó a afectar a Quito**, lo cual provocó la **declaratoria de emergencia** por parte de las autoridades.
+* [Deportivo Quito no jugará en el Atahualpa en Segunda Categoría](https://www.elcomercio.com/deportes/deportivo-quito-estadio-atahualpa-sede-segunda-categoria.html "Deportivo Quito no jugará en el Atahualpa en Segunda Categoría")
+* [Ministerio del Deporte registró el Directorio del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/directorio-del-deportivo-quito-registrado-ministerio-deporte.html "Ministerio del Deporte registró el Directorio del Deportivo Quito")
+* [Deportivo Quito presentó 16 jugadores para el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-refuerzos-ascenso-nacional.html "Deportivo Quito presentó 16 jugadores para el Ascenso Nacional")
 
-El Cuerpo de Bomberos desplegó equipos por tierra y aire para combatir las llamas en sectores como **Guápulo, el cerro Auqui y el parque Metropolitano.**
+Aunque han pasado casi 10 años fuera de la Serie A, el i**mpacto que el club genera en sus seguidores sigue siendo admirable**. Para este año, se espera nuevamente un lleno total en el Estadio de Independiente del Valle, donde el equipo disputará el Torneo de Ascenso.
 
-Cerca de las 10:55 de este jueves, el fuego en el cerro Auqui, uno de los puntos más críticos, se reactivó; se observó una **columna de humo visible** desde varios puntos de la ciudad. Aunque inicialmente se reportaron mejoras en la situación, las **condiciones empeoraron nuevamente a las 11:00**.
+El Deportivo Quito espera agotar las entradas
+---------------------------------------------
 
-> Lastimosamente, el incendio en el cerro Auqui sobre la Simón Bolivar en Quito continúa, los helicópteros tratando de sofocar. Gracias [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw) y todas las instituciones que se han unido en esta labor. Que impotencia!! [pic.twitter.com/T8W010A0Xs](https://t.co/T8W010A0Xs)
+El jueves 26 de septiembre, en el **primer día de venta de boletos**, se observaron largas filas en los puntos de venta. Incluso, el club agradeció a sus aficionados a través de redes sociales por la masiva acogida, a pesar de una temporada irregular en lo futbolístico.
+
+“**Nunca imaginamos tanto cariño**”, publicó el equipo de la ‘Plaza del Teatro’, animando a los hinchas que aún no han adquirido sus entradas a que lo hagan pronto.
+
+Los precios de las entradas son: $8 para General/Preferencia, $12 para Tribuna y $15 para Palco.
+
+> ¡Nunca imaginamos 💙❤️ tanto cariño!  
+>   
+> Recuerda comprar tus entradas 🎟️ sólo en los puntos de venta 📍autorizados, porque todos los boletos serán escaneados 📱 cuando entres al estadio 🏟️ 😉  
+>   
+> General – Preferencia $8  
+> Tribuna $12  
+> Palco $15[#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) puro amor 🥰 [pic.twitter.com/kANrs3jG9P](https://t.co/kANrs3jG9P)
 > 
-> — Ana Delgado L. (@anagabyd) [September 26, 2024](https://twitter.com/anagabyd/status/1839341561034981810?ref_src=twsrc%5Etfw)
+> — SD Quito Oficial (@SDQuito\_Oficial) [September 26, 2024](https://twitter.com/SDQuito_Oficial/status/1839357593535631789?ref_src=twsrc%5Etfw)
 
-Túnel de Guayasamín se reactivará y otras acciones
---------------------------------------------------
+Deportivo Quito busca el regreso a la Serie B
+---------------------------------------------
 
-Por otra parte, el alcalde de Quito, **Pabel Muñoz,** anunció que a partir de las 16:00 del jueves 26 de septiembre se habilitará el túnel Guayasamín. Así se permitirá el tránsito hacia los valles de Cumbayá y Tumbaco. La desmovilización de los equipos de emergencia comenzó en esta área, lo que indica una estabilización progresiva.
+El Deportivo Quito debutará en el Torneo de Ascenso este domingo 29 de septiembre, enfrentando a **Santa Elena Sporting Club** por la ida de los treintaidosavos de final a las 12:00.
 
-Aunque las **operaciones del Municipio volverán a la normalidad el viernes 27 de septiembre**, las clases en modalidad no presencial se mantienen. Continuarán **hasta esa fecha, debido a las condiciones generadas** por los incendios. La posibilidad de que el sector público y privado retorne a la presencialidad también está bajo análisis.
+El equipo no jugará en su tradicional casa, el Estadio Olímpico Atahualpa, sino que será local en el **Complejo de Independiente del Valle**, ubicado en Chillo Jijón.
 
-Hasta las **09:20 del jueves**, el **Cuerpo de Bomberos realizaron 11 descargas aéreas** con casi 5 000 litros de agua en los puntos más calientes del cerro Auqui, por el incendio forestal.
+El partido de vuelta se disputará el 6 de octubre en Santa Elena, posiblemente en el Estadio Daring, donde Santa Elena SC suele hacer de local.
 
-Simultáneamente, la Secretaría de Ambiente informó sobre una mejora gradual en la calidad del aire de la ciudad. Aunque, las autoridades instan a la población a mantener precauciones, como el uso de mascarillas, especialmente entre personas vulnerables.
+Incendio forestal en el barrio Bolaños se combatió con mangueras y baldes de agua
+=================================================================================
 
-Belinda publicó imagen de sus heridas tras caída en la Semana de la Moda de París 
-==================================================================================
+El incendio forestal de Guápulo se extendió a diferentes barrios, entre ellos el Bolaños, uno de los más afectados por las llamas.
+----------------------------------------------------------------------------------------------------------------------------------
 
-La caída de Belinda y las imágenes de sus heridas generaron una ola de apoyo por parte de sus seguidores.
----------------------------------------------------------------------------------------------------------
+![El incendio forestal que se inició en Guápulo calcinó varias propiedades.](https://www.elcomercio.com/wp-content/uploads/2024/09/Barrio-Bolanos.jpg)
 
-![Belinda compartió en Instagram imágenes de los moretones y raspones en sus rodillas. Foto: www.actitudfem.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/belinda-caida.jpg)
-
-La **cantante y actriz mexicana Belinda** vivió un incómodo episodio durante la **Semana de la Moda en París**, cuando sufrió una **aparatosa caída que rápidamente llamó la atención**.  
-
-### Más noticias
-
-* [(Video) Belinda sufre un accidente en la pasarela de la Semana de la Moda de París](https://www.elcomercio.com/afull/belinda-artista-accidente-semana-moda-paris.html "https://www.elcomercio.com/afull/belinda-artista-accidente-semana-moda-paris.html") 
-* [¿Cuánto miden las plataformas que causaron la caída de Belinda?](https://www.elcomercio.com/tendencias/belinda-caida-paris-plataformas.html "https://www.elcomercio.com/tendencias/belinda-caida-paris-plataformas.html")
-
-**El incidente ocurrió el lunes 23 de septiembre de 2024**, en el desfile de L’Oréal, celebrado en la emblemática **Place de l’Opéra de la capital francesa**, según informó la revista [People](https://peopleenespanol.com/belinda-caida-pasarela-desfile-loreal-paris-2024-8717061 "https://peopleenespanol.com/belinda-caida-pasarela-desfile-loreal-paris-2024-8717061"). 
-
-Belinda subió al escenario justo después de la presentación de la artista brasileña Anitta. Con un vestido rojo, botas altas y un cinturón dorado, **la cantante se mostró confiada mientras desfilaba.** No obstante, a mitad del recorrido, **tropezó y cayó hacia adelante**. 
-
-**Belinda muestra sus heridas tras caída** 
--------------------------------------------
-
-Según [Infobae](https://www.infobae.com/mexico/2024/09/25/belinda-comparte-foto-de-las-fuertes-heridas-que-sufrio-tras-caida-en-desfile-de-modas-en-paris/ "https://www.infobae.com/mexico/2024/09/25/belinda-comparte-foto-de-las-fuertes-heridas-que-sufrio-tras-caida-en-desfile-de-modas-en-paris/"), **la artista compartió en su [cuenta oficial de Instagram](https://www.instagram.com/belindapop/ "https://www.instagram.com/belindapop/") imágenes del preciso instante en que sufrió una caída** en plena pasarela. Con más de 17 millones de seguidores, **Belinda también mostró las secuelas del accidente**, entre ellas moretones y raspones en sus rodillas. 
-
-En una de las imágenes**, se aprecian sus piernas con al menos un moretón en cada rodilla**, además de raspones tanto en la parte superior como inferior. El accidente de la intérprete de Amor a primera vista, siguiendo con Infobae, **al parecer se debió a que sus zapatos se pegaron debido al material del que están hechos**. 
-
-![Foto: Instagram @belindapop.](https://www.elcomercio.com/wp-content/uploads/2024/09/belinda-caida-1-1024x683.jpg)
-
-Foto: Instagram @belindapop.
-
-[](https://www.instagram.com/p/DAWWZ2itSX-/?utm_source=ig_embed&utm_campaign=loading)Tras lo sucedido, **Belinda también presumió un mensaje de apoyo que recibió de la marca L’Oréal**, la cual organizó el evento. Este gesto resalta la cercanía entre la marca y la artista. 
-
-“Beli, bienvenida a la familia L’oreal París, donde las mujeres nos levantamos entre todas y somos un ejemplo de fuerza y valentía. Estamos felices de tenerte con nosotras. Te queremos”, se puede leer en la tarjeta. 
-
-![Foto: Instagram @belindapop.](https://www.elcomercio.com/wp-content/uploads/2024/09/belinda-caida-2-1024x683.jpg)
-
-Foto: Instagram @belindapop.
-
-**Seguidores de Belinda envían mensajes de apoyo** 
----------------------------------------------------
-
-Junto a la publicación de la cantante en Instagram, l**os seguidores de Belinda aprovecharon para inundar la sección de comentarios con mensajes de aliento** y deseos de una pronta recuperación, tanto física como emocional. 
-
-![Foto: Captura de pantalla. ](https://www.elcomercio.com/wp-content/uploads/2024/09/belinda-caida-3-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-Túnel Guayasamín tiene horario de apertura por incendio forestal de Guápulo
-===========================================================================
-
-El túnel Guayasamín fue cerrado por el incendio forestal de Guápulo.
---------------------------------------------------------------------
-
-![El horario de apertura del túnel Guayasamín fue anunciado por Pabel Muñoz.](https://www.elcomercio.com/wp-content/uploads/2024/09/Tuneo-Guayasamin.jpg)
-
-El alcalde de Quito, **Pabel Muñoz**, informó a qué hora se abrirá el paso del túnel **Guayasamín** que fue cerrado por el incendio forestal de **Guápulo** el martes 24 de septiembre de 2024.
+El barrio **Bolaños**, ubicado junto al túnel **Guayasamín** en **Quito**, fue testigo de una tragedia que cambió la vida de varias familias el 26 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Incendio_forestal "https://es.wikipedia.org/wiki/Incendio_forestal")
 
 Más noticias
 ------------
 
-* [Incendio forestal de Guápulo tiene focos activos, según Pabel Muñoz](https://www.elcomercio.com/actualidad/quito/incendio-forestal-guapulo-avances-pabel-munoz.html "Incendio forestal de Guápulo tiene focos activos, según Pabel Muñoz")
-* [Incendio forestal en Guápulo provoca cierres viales este 26 de septiembre](https://www.elcomercio.com/actualidad/quito/incendio-foresta-cierres-viales-guapulo.html "Incendio forestal en Guápulo provoca cierres viales este 26 de septiembre")
+* [Incendio forestal en el cerro Auqui fue controlado](https://www.elcomercio.com/actualidad/quito/incendio-forestal-cerro-auqui-se-reactiva.html "Incendio forestal en el cerro Auqui fue controlado")
 * [Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-gonzalez-suarez-vecinos.html "Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito")
+* [Incendio forestal en Guápulo se controla parcialmente](https://www.elcomercio.com/actualidad/quito/incendio-forestal-parque-guapulo-controlado-parcialmente.html "Incendio forestal en Guápulo se controla parcialmente")
 
-**Pabel Muñoz** informó el horario de apertura del túnel **Guayasamín** durante su informe de avance en el control del incendio forestal que dio este jueves 26 de septiembre a los medios de comunicación.
+El incendio forestal que se desató en Guápulo arrasó con tres casas y dejó tras de sí no solo cenizas, sino también sueños destrozados.
 
-¿A qué hora se abrirá el túnel Guayasamín?
-------------------------------------------
+La familia Usama: Un hogar perdido
+----------------------------------
 
-Según Muñoz, el túnel **Guayasamín** se abrirá a las 16:00 de este jueves 26 de septiembre de 2024. Aclaró que un **carril** permanecerá **cerrado** para el paso de los **vehículos de emergencia**.
+**Maribel Usama**, una vecina de toda la vida, relata la historia de su hermana, **María Teresa**, quien lo perdió todo.
 
-Este túnel es importante porque conecta a los valles con la zona activamente económica de Quito.
+“No quedó nada. Las **llamas** devoraron su casa y lo que más duele es que también se **quemaron** las herramientas de trabajo de nuestro padre”, cuenta Maribel.
 
-Cierres viales por incendio forestal en Guápulo
------------------------------------------------
+Su padre, un carpintero de avanzada edad, había guardado en una bodega junto a esa casa todas sus herramientas, las mismas que lo ayudaron a sostener a su **familia** durante años. Ahora, con el taller reducido a **cenizas**, su futuro parece incierto.
 
-* Túnel Guayasamín.
-* Simón Bolívar e Interoceánica.
-* Alfonso Perrier y Lérida / Av. Conquistadores (Parque Navarro).
-* Conquistadores / Simón Bolívar, ingreso a Guápulo.
-* Conquistadores y Ninahualpa.
-* 6 de Diciembre y Oswaldo Guayasamín.
-* Simón Bolívar y Oswaldo Guayasamín.
-
-¿Cómo fueron los trabajos para controlar el incendio el 25 de septiembre?
--------------------------------------------------------------------------
-
-El **Gobierno**, a través del Comité de Operaciones de Emergencia (**COE**) y el Municipio de **Quito** ejecutan medidas para enfrentar la emergencia por los **incendios forestales** en la capital.
-
-La emergencia en Quito por los incendios empezó la tarde del martes 24 de septiembre, con afectaciones humanas, materiales y ambientales.
-
-Este jueves 26 de septiembre es el primer día de la capital con declaratoria de **estado de emergencia.**
-
-Las llamas que iniciaron en **Guápulo** la tarde del martes, se reavivaron la mañana del miércoles.
-
-Esto obligó a las autoridades **nacionales** y **locales** a tomar medidas más drásticas para **combatir** los **incendios**.
-
-El incendio originado en **Guápulo** puso en riesgo a la población y a la vida silvestre en los sectores de la av. **Conquistadores**, **Bellavista**, **Bolaños**, el cerro **Auqui**, **González Suárez** y el **Parque Metropolitano** Guaguiltagua.
-
-La acción de más de 200 **bomberos** de Quito se reforzó con el apoyo de 180 militares, 1 600 policías y los cuerpos de bomberos de cinco cantones cercanos a la capital[.](https://es.wikipedia.org/wiki/Bombero "https://es.wikipedia.org/wiki/Bombero")
-
-Además, dos **helicópteros militares** y uno de la **Policía**, tanqueros de la **Prefectura** de **Pichincha**, 24 camionetas de la **Policía Nacional**, motocicletas y más.
-
-Esto, sumado a la búsqueda de los posibles responsables de estos actos tachados como “terroristas”, por parte de las autoridades.
-
-En Lima comienza un paro de transportistas para denunciar extorsiones que sufren
-================================================================================
-
-La protesta, convocada por la Asociación Nacional de Integración de Transportistas de Perú.
--------------------------------------------------------------------------------------------
-
-![Decenas de personas intentan abordar un autobús este jueves durante una jornada de paralización del transporte público, en Lima (Perú). EFE/ Paolo Aguilar](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe6cd9d91261ba00c770121a52f3a80f118f408e64w.jpg)
-
-A primera hora de este jueves, 26 de septiembre de 2024, comenzó en Lima un gran **paro de transportistas** que **exigen seguridad** y protestan contra la ola de extorsión que sufren en la capital peruana, consecuencia de la cual al menos **tres personas** fueron asesinadas en las últimas semanas.
-
-![Decenas de personas intentan abordar un autobús este jueves durante una jornada de paralización del transporte público, en Lima (Perú). EFE/ Paolo Aguilar
-](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efeb81604615542b8c0a52ad3183def94c3973949b5w-1200x800.jpg)
-
-La protesta, convocada por la **Asociación Nacional de Integración de Transportistas de Perú**, generó mucho tráfico, largas colas de pasajeros en las **paradas de autobús y metro**, lo que llevó a la suspensión de **clases en colegios y universidades**.
-
-![Varios hombres esperan un autobús este jueves durante una jornada de paralización del transporte público, en Lima (Perú). EFE/ Paolo Aguilar
-](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe04c0307f45fe41265e27324ee412ed68f96403baw-1200x800.jpg)
-
-“El **paro es en defensa de la vida,** de los ciudadanos, de los conductores, de los cobradores”, dijo a medios locales el vocero de transportistas en **Lima y Callao**, Héctor Vargas, sobre la ola de criminalidad que están experimentando el sector.
-
-[https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe77d8bc61-605c-4ca2-847f-a08ee1ba20d0-hd-web.mp4](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe77d8bc61-605c-4ca2-847f-a08ee1ba20d0-hd-web.mp4)
-
-Detalló que las **63 compañías que forman parte de este gremio** y conforman una flota de más de 5 000 buses, paralizaron completamente sus operaciones.
-
-“El público es el afectado, les pedimos las disculpas del caso”, agregó.
-
-La zona norte de **Lima es la más perjudicada por este paro** y, en algunos puntos de la ciudad, grupos de manifestantes tiraron piedras a autobuses que no se habían sumado al paro.
-
-El **Ministerio de Trabajo** emitió un comunicado en el que pide a las empresas **adoptar medidas flexibles** ante las dificultades de traslado de los **trabajadores a sus centros laborales** y priorizar el teletrabajo.
-
-“Las personas que se vean afectadas por la falta de transporte público, tendrán una tolerancia de dos horas en su horario de ingreso”, detalló el ministerio.
-
-Y por su parte, el Ministerio de Educación, la misma mañana de este jueves comunicó a través de la red social X que las actividades laborales en los colegios de **Lima Metropolitana** se desarrollarán de manera remota.
-
-El gremio de transportistas iniciará una **marcha hasta el Congreso de la República,** en el centro histórico de Lima, ya que no confían en las promesas de mejorar la seguridad que les han hecho las autoridades del Gobierno.
-
-El primer ministro peruano, Gustavo Adrianzén, manifestó la noche del miércoles su sorpresa y pidió a los transportistas “que no vayan a tomar esta medida de fuerza”, ya que serán recibidos por las autoridades para explicarles “en detalle todas las medidas que están previstas organizarse” **para combatir a estos delitos.**
-
-Adrianzén comentó que el Gobierno está **“monitoreando la convocatoria”** a la paralización y sostuvo que “se habían hecho ya los compromisos desde el Gobierno y los gremios de transportes, y se había acordado que no iba a haber paralizaciones, y que las existentes se iba a levantar”.
-
-Responsables de incendios podrían ir a la cárcel por terrorismo
-===============================================================
-
-Incendios forestales en Quito pueden dejar procesados y privados de la libertad.
---------------------------------------------------------------------------------
-
-![Personal del Municipio de Quito actúa en sitios de incendios forestales.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendios-sanciones.jpg)
-
-**Quito** está bajo ataque e, incluso, se habla de acciones terroristas. Así lo indicaron las autoridades ante los incendios forestales. Los responsables pueden enfrentar la **cárcel**[.](https://es.wikipedia.org/wiki/Quito)
-
-Este miércoles, 25 de septiembre de 2024, fue detenido un presunto responsable del flagelo producido en **Guápulo**. Se trata de un joven de 19 años.
-
-Este jueves, el **Cuerpo de Bomberos de Quito** continúa trabajando en los incendios de **Guápulo**, cerro Auqui y parque Metropolitano del norte.
-
-### Más noticias
-
-* [Gobierno y Municipio ejecutan medidas para enfrentar emergencia por incendios en Quito](https://www.elcomercio.com/actualidad/quito/quito-soporta-mas-un-dia-incendios-emergencia.html)
-* [Quito mantiene cuatro cierres viales por los incendios forestales](https://www.elcomercio.com/actualidad/quito/quito-mantiene-cierres-viales-incendios-forestales.html "Quito mantiene cuatro cierres viales por los incendios forestales")
-* [El Nacional realiza donaciones por incendios forestales en Quito](https://www.elcomercio.com/deportes/el-naciona-incendios-donaciones-quito.html "El Nacional realiza donaciones por incendios forestales en Quito")
-
-Quienes ocasionen incendios y la cárcel
----------------------------------------
-
-La Procuraduría del **Municipio de Quito** informó que una persona fue detenida como sospechosa por el incendio en **Guápulo**. El presunto responsable fue hallado con un **galón de combustible**.
-
-El Municipio informó que la aprehensión del hombre se dio en **flagrancia**, por parte de efectivos policiales. Hasta las 12:30 de este jueves, 26 de septiembre, se podía dar la audiencia de calificación.
-
-> 🌳 [#Importante](https://twitter.com/hashtag/Importante?src=hash&ref_src=twsrc%5Etfw) | 09h20 – Continuamos trabajando en los incendios forestales registrados en los sectores de Guápulo, cerro Auqui y parque Metropolitano.  
->   
-> 🚁 Con nuestro helicóptero, hasta el momento hemos realizado 11 descargas con casi cinco mil litros de agua en puntos… [pic.twitter.com/3POZLgippO](https://t.co/3POZLgippO)
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAZLHm4Rops/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> — Bomberos Quito (@BomberosQuito) [September 26, 2024](https://twitter.com/BomberosQuito/status/1839312054269751685?ref_src=twsrc%5Etfw)
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAZLHm4Rops/?utm_source=ig_embed&utm_campaign=loading)
 
-El juez podrá determinar la **prisión preventiva** durante los 20 días de investigación o, a su vez, si el joven se defenderá en libertad.
+Aquel 26 de septiembre, mientras las autoridades aseguraban la zona y demolían lo que quedaba de la casa, el dolor de la familia **Usama** se hacía palpable.
 
-En Quito, además, hay dos personas con prisión preventiva por otros flagelos registrados en Quito, entre estos, el ocurrido en **El Panecillo**, el pasado 12 de septiembre de 2024.
+El fuego no solo destruyó el inmueble; también calcinó las esperanzas de una vida mejor. **María Teresa** no ha logrado recuperarse del golpe emocional. Según su hermana, “está destrozada”.
 
-Las normativas vigentes
------------------------
-
-El **Código Orgánico Integral Penal (COIP)** establece que la persona que provoque directa o indirectamente incendios forestales o instigue a otra a cometerlo en bosques nativos, plantados o páramos, será sancionada con **pena privativa de libertad** de **uno a tres años.**
-
-**María del Mar Gallegos**, catedrática de Derecho, explicó que, de comprobarse un acto terrorista, el **COIP**, en el Artículo 366, establece a este como toda acción para mantener en terror a una parte de la población, que ponga en peligro la vida y la integridad física.
-
-La pena por terrorismo
-----------------------
-
-A la persona que efectúe **terrorismo**, la justicia puede aplicarle entre 19 y 22 años de privación de la libertad. Se trata de un delito grave que puede estar orientado a implantar una ideología, ir en contra de una figura política, etc.
-
-La Experta explica que eso es lo que diferencia al **terrorismo** de otras conductas penales.
-
-Las sanciones municipales
+Una tragedia en comunidad
 -------------------------
 
-En lo que se refiere a los procesos administrativos, la **Agencia Metropolitana de Control (AMC)** impone una multa económica  que va desde una remuneración básica unificada hasta 75; es decir, **34 500 dólares**.
+El incendio fue descrito por **Maribel** como algo salido de una película. “El fuego estaba en nuestra casa y el humo cubría todo. Era imposible respirar bien”, recuerda.
 
-Hasta este 25 de septiembre de 2024, el **Municipio** reportó que, desde la **Procuraduría**, ha presentado 17 denuncias por **incendios en Quito**.
+Cuando los bomberos finalmente llegaron, la situación era crítica. El hidrante más cercano estaba seco, y no había forma de combatir las **llamas** con efectividad. Pero la familia **Usama** no se quedó de brazos cruzados.
 
-Ayotzinapa cumple 10 años de la desaparición de 43 estudiantes
-==============================================================
+Con una valentía digna de admirar, los hermanos de **Maribel** subieron a los techos de las casas y, con baldes de agua en mano, lucharon contra el **fuego**.
 
-Los padres de los desaparecidos en la Escuela Rural Normal de Ayotzinapa siguen en la lucha por encontrar a sus hijos.
-----------------------------------------------------------------------------------------------------------------------
+No pudieron salvar su hogar, pero sí evitaron que las llamas consumieran más **viviendas** en el terreno. “Fue lo único que podíamos hacer”, comenta.
 
-![Estudiantes y padres de los 43 desaparecidos de Ayotzinapa protestan este miércoles, en Ciudad de México (México).](https://www.elcomercio.com/wp-content/uploads/2024/09/40e60fd208525f11e8be3179e44f7ad5bcb5d0d0-1-1.jpg)
+El incendio también acabó con los **animales** que la familia criaba: conejos, pavos y gallinas. Las mascotas de la familia no lograron escapar de la furia del fuego, sumando otra pérdida emocional a un día ya trágico.
 
-En el marco del **décimo aniversario** de la desaparición de sus hijos, visitó [Ayotzinapa](https://www.elcomercio.com/actualidad/mundo/padres-ayotzinapa-pruebas-tecnicas-informe-comision.html "https://www.elcomercio.com/actualidad/mundo/padres-ayotzinapa-pruebas-tecnicas-informe-comision.html") para conversar con los padres y representantes de los **estudiantes desaparecidos** sobre sus exigencias, valoración de la gestión del mandatario de México, **Andrés Manuel López Obrador,** y expectativas ante la llegada de la presidenta electa, Claudia Sheinbaum.
+Más afectados
+-------------
+
+**María Simbaña**, una mujer de la tercera edad cuya casa, ubicada a escasos metros del túnel **Guayasamín**, se salvó de milagro… Las llamas quemaron el **terreno** que rodeaba su propiedad e incluso destruyeron parte de la ropa que tenía colgada en el exterior.
+
+“Gracias a mis hijos, que mojaron la **vegetación** con **baldes** de **agua**, logramos evitar que el fuego llegara a la casa”, relata **Simbaña**, quien acababa de ser operada y no podía moverse con rapidez.
+
+Para ella, lo ocurrido es difícil de olvidar. “Eran momentos de terror. Todo era humo y fuego. Mis hijos sacaron los tanques de gas rápidamente, por miedo a una explosión”.
+
+La mujer comentó que más abajo había dos casas que fueron afectadas por el **incendio forestal**, pero que sus dueños ya no están porque fueron reubicados por sus familiares.
+
+Un barrio que no quiere desaparecer
+-----------------------------------
+
+Aunque las **pérdidas materiales** y emocionales son grandes, los habitantes del barrio **Bolaños** se resisten a la reubicación.
+
+**Nanci Santillán**, quien forma parte de la directiva del barrio, aseguró que lo que necesitan no es un nuevo lugar donde vivir, sino **transporte público adecuado**.
+
+La mayoría de las **familias** que viven en la zona llevan años ahí y no quieren dejar atrás su historia.
+
+**María Simbaña**, por su parte, comentó que no tiene a dónde más ir. Su casa, a pesar de estar cerca del fuego, sigue en pie.
+
+Aún no se ha hablado de **reubicación**, y ella tampoco quiere marcharse. Como muchos en **Bolaños**, siente que este es su hogar, un lugar que, a pesar del peligro, no están dispuestos a abandonar.
+
+Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más
+==============================================================================
+
+El Gobierno Nacional lanzó tres nuevos procesos para añadir 178 MW térmicos al Sistema Nacional Interconectado, con dos nuevas centrales y la ampliación de una existente.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Las nuevas centrales se instalarán en Pascuales y Santa Elena. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/centrales.jpg)
+
+El Gobierno de **Daniel Noboa** inició tres **procesos** licitatorios para la adquisición de **dos nuevas centrales de generación térmica** y así evitar cortes de luz en el futuro. Así lo informó la Corporación Eléctrica del Ecuador (Celec), este jueves 26 de septiembre del 2024.
 
 ### Más noticias
 
-* [Estudiantes queman autos en protesta por 43 desaparecidos en Ayotzinapa, México](https://www.elcomercio.com/actualidad/mundo/estudiantes-protestas-mexico-ayotzinapa-desaparecidos.html "https://www.elcomercio.com/actualidad/mundo/estudiantes-protestas-mexico-ayotzinapa-desaparecidos.html")
-* [Protestas marcan Día de Desapariciones Forzadas en México](https://www.elcomercio.com/actualidad/mundo/protestas-marcan-dia-desapariciones-forzadas-mexico.html "https://www.elcomercio.com/actualidad/mundo/protestas-marcan-dia-desapariciones-forzadas-mexico.html")
-* [Padres de Ayotzinapa: No hay ‘pruebas técnicas’ en informe de Comisión](https://www.elcomercio.com/actualidad/mundo/padres-ayotzinapa-pruebas-tecnicas-informe-comision.html "https://www.elcomercio.com/actualidad/mundo/padres-ayotzinapa-pruebas-tecnicas-informe-comision.html")
+* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
+* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
+* [Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas](https://www.elcomercio.com/actualidad/negocios/nivel-de-agua-del-embalse-de-mazar-afecta-operacion-de-tres-hidroelectricas.html "Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas")
 
-Diez años después de que **43 estudiantes** de la **Escuela Rural Normal de Ayotzinapa** desapareciesen sin que se haya conseguido encontrar su rastro **\-ni castigar a los culpables**\-, los padres, que han visto el paso de dos presidentes sin resultados, siguen en la lucha por encontrar a sus hijos.
+Se trata de una **central termoeléctrica** de 135 MW (megavatios) en el sector de **Pascuales** (Guayaquil), otra de 28 MW en **Santa Elena** **IV**, y la incorporación de 15 MW a la actual central **Santa Elena II**, las dos en la provincia de Santa Elena. En total suman 178 MW de potencia.
 
-“Ella (Sheinbaum) en una reunión que tuvimos previamente ofreció que va a **haber un diálogo** y que se va a construir una **nueva metodología**, una nueva ruta. Creemos importante esperar eso: que ella tenga ya las riendas de la **administración del Gobierno** y podamos sentarnos y diseñar esa nueva ruta”, explica el abogado que representa a las familias, Vidulfo Rosales.
+Central Pascuales, en Guayas
+----------------------------
 
-Rosales aclara que su esperanza nace de la falta de alternativas, ya que **no hay hoy en día ninguna vía legal ni institucional** que no pase por la colaboración con las administraciones para conseguir esclarecer los hechos.
+La **nueva central Pascuales** será **dual**. Es decir, operará con unidades de generación que funcionan a **gas o diésel.** Su producción eléctrica se incorporará al Sistema Nacional Interconectado (SNI), a través de la Subestación Chorrillos.
 
-Esperanza en Sheinbaum, recelo con López Obrador
+El martes 24 de septiembre, **Celec** publicó en el portal del **Servicio de Contratación Pública** (Sercop). El proceso se inicia con la **recepción de propuestas** para la adquisición de estas nuevas instalaciones.
+
+Conforme a la publicación, las empresas interesadas tienen plazo hasta este lunes 30 de septiembre para la presentación de sus propuestas. Luego, la **Comisión Técnica** realizará un análisis del plazo, precio y la adhesión a los criterios técnicos establecidos en los términos de referencia (TDR). Posteriormente, seleccionará la propuesta más conveniente para el país.
+
+El proceso continuará con recepción de formularios por parte del **proveedor seleccionado**, la emisión de documentos y, luego, será la adjudicación. Este concluirá en mayo de 2025 y lo puede revisar en el [siguiente enlace](https://compraspublicas.gob.ec/ProcesoContratacion/compras/EMG/EmgRegistroDetalle.cpe?id=gYARs9OK9jLXBFsOGYHRYGrNhCMaK9AwwU-Mp-tNMEs "https://compraspublicas.gob.ec/ProcesoContratacion/compras/EMG/EmgRegistroDetalle.cpe?id=gYARs9OK9jLXBFsOGYHRYGrNhCMaK9AwwU-Mp-tNMEs").
+
+Centrales en Santa Elena
+------------------------
+
+La nueva central **Santa Elena IV**, de 28 MW, funcionará con combustible HF04, de producción nacional. La energía de esta central se incorporará al SNI a través de la subestación **Santa Elena**.
+
+Las empresas interesadas tienen plazo hasta este sábado 28 de septiembre para la presentación de sus propuestas. En el siguiente enlace se puede [acceder al proceso](https://acortar.link/RJrVHu "https://acortar.link/RJrVHu").
+
+Asimismo, este 25 de septiembre se inició el proceso para la contratación de 15 MW adicionales para la actual Central Santa Elena II. Esta unidad opera desde el 2011, con una potencia nominal de 90 MW. Con esta adquisición se incrementará a 105 MW. Esta central funciona con combustible HFO4.
+
+Las empresas interesadas pueden presentar sus cotizaciones hasta el próximo lunes 30 de septiembre de 2024. [Revise aquí el proceso](https://acortar.link/KoRS8d "https://acortar.link/KoRS8d").
+
+Procesos de emergencia
+----------------------
+
+La contratación de estos nuevos equipos de generación se realizará a través de **procesos de emergencia**. Para ello, se declaró en emergencia a la **empresa Pública Celec**. Con ello se autorizó realizar las contrataciones que sean necesarias en medio de la **crisis energética** que atraviesa el país.
+
+Las dos nuevas centrales y la ampliación de una existente son parte del segundo bloque de generación emergente, con el que se incorporarán hasta **800 MW adicionales al SNI.**
+
+Estas acciones desarrolla el Gobierno Daniel Noboa para enfrentar la crisis energética, como consecuencia de una c**risis hidrológica**, marcada por un fuerte estiaje en las principales cuencas hídricas que alimentan a las centrales de generación hidroeléctrica del país, que ha obligado a programar cortes de luz en todo el país.
+
+El experimentado Daniel Ricciardo abandona la Fórmula 1
+=======================================================
+
+Daniel Ricciardo, experimentado piloto de Fórmula Uno, abandonó el torneo, tras ser reemplazado por Liam Lawson.
+----------------------------------------------------------------------------------------------------------------
+
+![Daniel Ricciardo durante un evento en la Fórmula Uno con su equipo el RB.](https://www.elcomercio.com/wp-content/uploads/2024/09/c8280db961e991cfe7241d5de883977e29711051.jpg)
+
+El neozelandés **Liam Lawson** sustituirá al australiano **Daniel Ricciardo**, a partir del próximo Gran Premio del Mundial de Fórmula Uno -el de Estados Unidos. Estará en Austin (Texas) y, al menos hasta el final de la temporada, en la escudería RB, el equipo ‘nodriza’ de Red Bull.
+
+Así lo anunció este jueves la citada escudería -sexta en el Mundial de constructores de Fórmula Uno-, en la que el neozelandés será de nuevo compañero del japonés **Yuki Tsunoda**.
+
+### Más noticias:
+
+* [Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1](https://www.elcomercio.com/deportes/formula-1/oscar-piastri-formula-uno-azerbaiyan-formula1.html "Oscar Piastri se impone en el Gran Premio de Azerbaiyán de Fórmula 1")
+* [Lando Norris ganó el Gran Premio de Países Bajos de la Fórmula 1](https://www.elcomercio.com/deportes/formula-1/lando-norris-gano-gran-premio-paises-bajos-formula1.html "Lando Norris ganó el Gran Premio de Países Bajos de la Fórmula 1")
+* [Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa](https://www.elcomercio.com/deportes/mateo-villagomez-campeon-francia-primer-ecuatoriano-piloto.html "Mateo Villagómez es el primer automovilista ecuatoriano obtener un título en Europa")
+
+**Lawson**, nacido hace 22 años en Hastings, ya había sustituido al propio **Ricciardo**, de 35, durante la pasada temporada, cuando el equipo -heredero de **Toro Rosso**– aún se denominaba Alpha Tauri; después de que el piloto de Perth se accidentase en el segundo entrenamiento libre para el Gran Premio de Países Bajos, en Zandvoort, y se rompiese una muñeca en el citado percance.
+
+El neozelandés causó una grata impresión en las cinco carreras de F1 que disputó y llegó a sumar (dos) puntos en el **Gran Premio de Singapur**, que concluyó noveno.
+
+La salida de **Ricciardo** era un secreto a voces, pero no se ha hecho pública y oficial hasta este miércoles 26 de septiembre.
+
+Daniel Ricciardo se despidió de la Fórmula 1 con vuelta rápida
+--------------------------------------------------------------
+
+El pasado domingo, el australiano se despidió de la categoría reina, en la que logró ocho victorias -siete con Red Bull y una con McLaren- y 32 podios, con un decimoctavo puesto en el Gran Premio de Singapur. En el marcó la vuelta rápida: una de las 17 que firmó en su carrera en la F1.
+
+Ricciardo ocupaba el decimocuarto puesto en el Mundial, con 12 puntos -dos plazas por detrás y con diez puntos menos que Tsunoda; mientras que RB es sexta en el certamen por equipos, con 34 unidades: 52 menos que Aston Martin, la escudería del doble campeón del mundo español Fernando Alonso
+
+El mensaje de Daniel Ricciardo
+------------------------------
+
+“He amado este deporte durante toda mi vida. Es salvaje y maravilloso; y ha sido un gran viaje”, escribió, en sus redes sociales, Ricciardo, nacido hace 35 años en Perth, que se despidió de la categoría reina, en la que logró ocho victorias -siete con Red Bull y una con McLaren- y 32 podios, con un decimoctavo puesto en el Gran Premio de Singapur del pasado domingo, en el que marcó la vuelta rápida: una de las 17 que firmó en su carrera en la F1.
+
+“A los individuos y a los equipos que han formado parte de esto quiero darles las gracias. A los aficionados que aman este deporte, a veces algo más que a mí, ja ja (sic), gracias. Siempre tendrá sus altos y sus bajos; pero ha sido divertido y si soy sincero, no lo cambiaría”, apuntó.
+
+“Hasta la próxima aventura”, se despidió el simpático piloto de Perth a través de sus redes sociales.
+
+Quito no tendrá cortes de luz hasta este viernes 27 de septiembre
+=================================================================
+
+La Empresa Eléctrica Quito suspendió los cortes de luz un día más, debido a la emergencia por incendios forestales.
+-------------------------------------------------------------------------------------------------------------------
+
+![Quito mantiene la suspensión de cortes de luz desde el martes 24 de septiembre](https://www.elcomercio.com/wp-content/uploads/2024/09/luz-viernes.jpg)
+
+La Empresa Eléctrica Quito (**EEQ**) informó que la suspensión de los **cortes de luz** en la ciudad se extenderá un día más.
+
+Con esta decisión se confirma que no se registrarán cortes en el servicio eléctrico en el **Distrito Metropolitano** hasta las **18:00** de este viernes 27 de septiembre de 2024.
+
+### Más noticias
+
+* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
+* [Lluvias vuelven a Quito luego de 48 días de sequía](https://www.elcomercio.com/actualidad/quito/lluvias-caen-en-quito-luego-de-48-dias-de-sequia.html "Lluvias vuelven a Quito luego de 48 días de sequía")
+* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
+
+La medida se aplicó también este martes 24, miércoles 25 y jueves 26, como respuesta a la emergencia por los incendios forestales que se registraron en Quito.
+
+> [#ComunicadoEEQ](https://twitter.com/hashtag/ComunicadoEEQ?src=hash&ref_src=twsrc%5Etfw) | El servicio eléctrico en el Distrito Metropolitano de Quito no se suspenderá hasta las 18:00 de este viernes, 27 de septiembre. [pic.twitter.com/r7L7tpmffR](https://t.co/r7L7tpmffR)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [September 26, 2024](https://twitter.com/ElectricaQuito/status/1839444582486143379?ref_src=twsrc%5Etfw)
+
+Emergencia por incendios forestales
+-----------------------------------
+
+Quito enfrentó dos alarmantes días llenos de emergencias.
+
+En la mañana del miércoles, la ciudad registraba al menos tres incendios forestales; sin embargo, la situación se empeoró en la tarde.
+
+Pasadas las 14:00, el fuego que se originó en el sector de Guápulo, a la altura de la intersección de las avenidas Simón Bolívar y Los Conquistadores, se expandió con fuerza.
+
+Las llamas llegaron a barios residenciales como Bellavista, Bolaños y González Suárez, en el centro norte de Quito.
+
+El incendio que continúa con menos fuerza este jueves 26 de septiembre, provocó el daño de más de 140 hectáreas de vegetación.
+
+Por lo menos 13 personas resultaron heridas, 107 familias fueron evacuadas y 6 resultaron damnificadas.
+
+El Ministerio de Salud atendió a 185 pacientes, 74 diagnosticados con problemas respiratorios, 15 por quemaduras,11 por molestias musculares, 20 por episodios de ansiedad y estrés, así como 65 por otras afecciones.
+
+Cortes de luz en Quito
+----------------------
+
+Quito, al igual que el resto del país, tenía programada la suspensión del servicio eléctrico para esta semana debido a la **crisis hídrica** provocada por la falta de lluvias.
+
+Según lo establecido por la EEQ, los apagones incluían hasta **12 horas al día**, dependiendo del sector, en períodos de 2 y 5 horas de suspensión.
+
+La **programación** de cortes de luz se vio interrumpida por la emergencia de los incendios forestales; que entre otras medidas, suspendió la jornada laboral pública y escolar en la ciudad.
+
+Sin embargo, en los sectores fuera del **perímetro** del Distrito Metropolitano de Quito sí se mantendrá el cronograma de apagones.
+
+  
+
+Aumenta el racismo contra futbolistas brasileños
+================================================
+
+Vinícius Júnior, futbolista de Brasil y del Real Madrid, es una de las caras de la lucha contra el racismo en el fútbol.
+------------------------------------------------------------------------------------------------------------------------
+
+![Vinícius Júnior es una las caras de la lucha contra el racismo en el fútbol.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T182003.072.jpg)
+
+Los casos de **racismo contra futbolistas brasileños**, tanto en su país como en el extranjero, aumentaron a 162 en 2023. Esto representa un incremento de casi el 40 % en comparación con el año anterior, según un informe publicado este jueves 26 de septiembre.
+
+El Observatorio de Discriminación Racial en el Fútbol, en asociación con la Confederación Brasileña de Fútbol (CBF), contabilizaron **136 ataques en Brasil y 26 en el exterior** relacionados con cuestiones de raza durante el año pasado.
+
+### Más noticias:
+
+* [Alexander Domínguez denuncia racismo y aclara altercados con Liga de Quito](https://www.elcomercio.com/deportes/alexander-dominguez-liga-always-ready-racismo.html "Alexander Domínguez denuncia racismo y aclara altercados con Liga de Quito")
+* [Alexander Domínguez, consternado por el racismo que vivió en la Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-consternado-racismo-vivio-copa-sudamericana.html "Alexander Domínguez, consternado por el racismo que vivió en la Copa Sudamericana")
+* [¿Quién ganó el Balón de Oro 2024?](https://www.elcomercio.com/deportes/futbol/quien-gano-el-balon-de-oro-2024.html "¿Quién ganó el Balón de Oro 2024?")
+
+Para el director del Observatorio, Marcelo Carvalho, los números denotan que “l**os jugadores y los aficionados son más conscientes de los casos de racismo**” en el fútbol.
+
+“A**ntes callábamos y hoy tenemos voz**. Estos datos son importantes para que los clubes y las federaciones ayuden” a combatir esta lacra, señaló.
+
+Brasileños son víctimas de racismo
+----------------------------------
+
+La gran mayoría de los episodios racistas registrados **tuvieron lugar en los estadios de fútbol.** Después le sigue las redes sociales, de acuerdo con el reporte, que se realiza anualmente desde 2014.
+
+El presidente de la CBF, Ednaldo Rodrigues, afirmó, en la presentación del informe, que “solo la cooperación” entre los diferentes actores sociales podrá “garantizar a las futuras generaciones un mundo en el que el respeto y la dignidad sean valores universales”.
+
+Entre las víctimas de insultos racistas está **Vinícius Júnior, delantero del Real Madrid** y una de las estrellas de la selección brasileña.
+
+Caso Vinícius Júnior
+--------------------
+
+El incidente que tuvo más repercusión fue el vivido el 21 de mayo de 2023 en Mestalla, estadio del Valencia.
+
+Allí, un grupo de aficionados de ese equipo **profirió ofensas racistas a Vini**, lo que motivó la apertura de un proceso judicial.
+
+Los insultos contra el extremo, que se repitieron en otros estadios de **España**, fueron condenados por las más altas autoridades de **Brasil**, entre ellas el presidente Luiz Inácio Lula da Silva, que exigió acciones para poner punto final a esa situación. 
+
+Diana Salazar toma una decisión sobre los incendios en todo el país
+===================================================================
+
+La fiscal general del Estado, Diana Salazar, coordina acciones, con relación a los incendios forestales.
+--------------------------------------------------------------------------------------------------------
+
+![Diana Salazar decidió acciones frente a los incendios en todo el país.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-guapulo-1.jpg)
+
+La fiscal general del Estado, **Diana Salazar**, tomó una decisión sobre los **incendios** suscitados en todo el país, este jueves 26 de septiembre de 2024.
+
+Los incendios forestales han afectado a varias provincias y han dejado daños humanos, ambientales y materiales.
+
+### Más noticias:
+
+* [Incendio en el sector del Parque Samanes de Guayaquil sería provocado](https://www.elcomercio.com/actualidad/ecuador/incendio-parque-samanes-guayaquil-seria-provocado.html "Incendio en el sector del Parque Samanes de Guayaquil sería provocado")
+* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
+
+En la Sierra, provincias como **Pichincha, Loja y Cotopaxi** han sido seriamente afectadas; en la Costa, este jueves, se registró un incendio en el sector del Parque Samanes, en **Guayaquil**.
+
+En **Quilanga**, Loja, un incendio duró alrededor de 12 días; en Quito, el incendio que inició en Guápulo duró alrededor de tres días.
+
+Los ministros del Interior, **Mónica Palencia** y de Gobierno, **Arturo Félix**; así como el alcalde de Quito, **Pabel Muñoz** han señalado que los responsables de los incendios provocados serían procesados por **terrorismo**.
+
+El titular del Cuerpo de Bomberos de Guayaquil, **Polo Terán**, manifestó que el incendio forestal en el Parque Samanes de Guayaquil “no es normal”.
+
+Agregó que hay que pedir que se investigue y, ante la pregunta de si sería provocado, respondió que “aparentemente, por la forma como está el incendio”.
+
+En Quito, hay **tres sospechosos detenidos** por provocar los incendios de Guápulo y El Panecillo y esperan por la audiencia.
+
+La Fiscalía también procesa a **un presunto responsable** de causar un **incendio forestal en la parroquia Sinincay**, Cuenca, Azuay.
+
+La decisión de Diana Salazar sobre los incendios
 ------------------------------------------------
 
-“No tenemos otra ruta, no **tenemos otra alternativa**, tiene que ser el Gobierno, tienen que ser las instituciones del país quienes den verdad y justicia”, exige el abogado.
+Ante la cantidad de incendios registrados en todo el país, la fiscal general, **Diana Salazar**, tomó una decisión.
 
-Cristina Bautista, madre del desaparecido Benjamín Asencio Bautista, es optimista con el cambio de Gobierno y la llegada de Sheinbaum al poder de cara a avances en el caso.
+La Fiscalía General del Estado **investigará los incendios ocurridos en todo el país**, de oficio, según informó este jueves 26 de septiembre de 2024.
 
-“Como mujer presidenta de México, como madre, **ella es una luchadora social,** cuando empezó el caso **Ayotzinapa ella marchó con nosotros,** solo esperemos que sea pronto que se esclarezca el caso”, expresa la madre.
+La fiscal general del Estado, Diana Salazar, dispuso **que se abran, de oficio, investigaciones en todas las provincias donde se han reportado incendios.**
 
-Por su parte, **César Manuel González Contreras**, padre del desaparecido normalista César Manuel González Hernández, es mucho más escéptico y considera una **“mala señal” el nombramiento de Omar García Harfuch**, a quien algunas investigaciones implican como responsable en el caso, como secretario de Seguridad Pública del nuevo Gobierno.
+Fiscalía y **Policía** coordinan para la práctica de las respectivas **pericias**.
 
-“Le tuve confianza y hasta el día de hoy, lo único que sé, lo que pienso de él, es que es un tipo mentiroso, **un tipo nefasto**, un tipo que dedica el tiempo nada más a burlarse de la gente y desafortunadamente nos traicionó”, explica César González sobre la gestión de López Obrador al frente del caso.
+El gol de Enner Valencia desde el lente de una cámara fotográfica
+=================================================================
 
-El actual mandatario mexicano trajo grandes esperanzas a los familiares de los desaparecidos cuando **ganó las elecciones en 2018** tras prometer que resolvería el caso, algo que con el paso de los años se fue diluyendo a medida que las investigaciones apuntaban a sectores del Ejército.
+La Selección de Ecuador tiene como sus próximos rivales en las eliminatorias al Mundial 2026 ante Paraguay y Uruguay.
+---------------------------------------------------------------------------------------------------------------------
 
-“Cuando la **investigación toca al Ejército mexicano** (…) creemos que hay un manotazo del Ejército y una presión ejercida contra este poder ejecutivo, concretamente contra el presidente, que termina por sucumbir ante esta presión y empieza una confrontación con los padres de familia”, afirma Rosales.
+![Enner Valencia marca el gol con el que Ecuador le ganó a Perú en la eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/09/gol_valencia_1.jpg)
 
-El abogado detalla el **deterioro en las reuniones que los familiares** y él mismo mantuvieron con el mandatario mexicano.
+La **Selección de Ecuador** empezó la cuenta regresiva para disputar la novena y décima fecha de las eliminatorias al Mundial 2026 que será organizado en forma tripartita por Canadá, Estados Unidos y México.
 
-Según Rosales, con el paso del tiempo, López Obrador achacó el **deterioro de las investigaciones a “un complot”** de organizaciones conservadoras, de organizaciones de derechos humanos, de la Organización de Estados Americanos (OEA) y de la Administración de Control de Drogas (DEA en inglés).
+El jueves 10 de octubre, desde las 16:00, la **Selección de Ecuador recibirá en el estadio Rodrigo Paz Delgado** de Quito a Paraguay; mientras que el martes 15, desde las 18:30, visitará a Uruguay en el legendario Centenario de Montevideo.
 
-Por último, lamenta el letrado, llegó la **estrategia final del presidente mexicano** de intentar dividir al movimiento de los padres, de querer dar una “impresión de factura” en su lucha y así debilitar las protestas, algo que no habría conseguido.
+### Más noticias:
+
+* [¿Cuándo se juega Liga de Quito vs. El Nacional tras postergación por incendio forestal?](https://www.elcomercio.com/deportes/el-nacional-liga-quitop-fecha-copa-ecuador.html "¿Cuándo se juega Liga de Quito vs. El Nacional tras postergación por incendio forestal?")
+* [Midtjylland, con Denil Castillo de titular, empató en la Europa League](https://www.elcomercio.com/deportes/futbol/midtjylland-con-denil-castillo-de-titular-empato-europa-league.html "Midtjylland, con Denil Castillo de titular, empató en la Europa League")
+* [El Nacional y Liga de Quito se solidarizan tras incendios forestales](https://www.elcomercio.com/deportes/el-nacional-liga-quito-solidaridad-incendios.html "El Nacional y Liga de Quito se solidarizan tras incendios forestales")
+
+Jugadas las ocho primera fechas, **Ecuador marcha en la cuarta casilla con 11 puntos**, fruto de cuatro empates, dos derrotas y dos empates. Anotó seis goles y recibió cuatro para registrar un gol positivo de +2.
+
+Paraguay, su primer rival, presenta una leve mejoría con la llegada del **entrenador argentino Gustavo Alfaro**, suma nueve puntos y es séptimo. Su campaña le deja como saldo dos victorias, tres empates, tres derrotas y un gol diferencia negativo de -1.
+
+Uruguay, segundo rival, es tercero con 15 puntos, m**uy cerca de Colombia (16) y Argentina (18)**, que son las de mejores números y las principales candidatas para asegurar con antelación uno de los seis cupos directos al Mundial 2026.
+
+Con ese panorama Sebastián Beccacece prepara una nueva convocatoria en la que existe la expectativa por conocer si el histórico **portero Alexander Domínguez es citado**; si el habilidoso mediocampista Gonzalo Plata tendrá una nueva oportunidad; o si Leonardo Campana es tomado en cuenta para la delantera.
+
+Entre los posibles citados uno de los nombres fijos es el de Enner Valencia, goleador histórico de la Tri con 42 tantos y uno de los capitanes, **junto a Moisés Caicedo (Chelsea de Inglaterra)** y Hernán Galíndez (Huracán de Argentina).
+
+Ante Perú, Valencia fue el autor del 1-0 con el que Beccacece disfrutó del primer triunfo como entrenador de la absoluta tricolor, tras su debut con derrota ante Brasil en Curitiba con el tanto de Rodrygo.
+
+El gol de Enner Valencia paso a paso
+------------------------------------
+
+“Falta poco para volvernos a encontrar, **vamos a dejarlo todo desde la tribuna, palco o general**“, fue el mensaje que la Tri colgó en sus redes sociales, como parte de la invitación a los hinchas ecuatorianos para el juego contra Paraguay.
+
+El texto está acompañado de una secuencia fotográfica del tanto de ‘Superman’ y del festejo con el **resto de sus compañeros y el abrazo final con Beccacece**, entrenador con el que coincidió en Emelec en 2010, cuando el argentino era asistente de su compatriota Jorge Sampaoli.
+
+Otro de los **abrazos que destaca es con Ángel Mena**, veterano seleccionado con el que también jugaron en Emelec en el inicio de la década de los 2010.
+
+El sonido de la cámara fotográfica con cada disparo para capturar las imágenes, **más el grito de gol de los aficionados que llegaron esa tarde al Rodrigo Paz**, completan la secuencia de una escena que los ecuatorianos esperan sean más frecuente.
+
+En el rubro de goleadores históricos, Valencia es seguido por Agustín Delgado (31), Eduardo Hurtado (26), Christian Benítez (24), **Álex Darío Aguinaga (23), Felipe Caicedo (22), Édison Méndez (18)**, Ney Raúl Avilés (16), Ariel Graziani (15) y Jaime Iván Kaviedes (15).
+
+> Falta poco para volvernos a encontrar, vamos a dejarlo todo desde la tribuna, palco o general.  
+> Compra tus entradas en [https://t.co/thzQsaKeQk](https://t.co/thzQsaKeQk) [pic.twitter.com/xTvDScU5ax](https://t.co/xTvDScU5ax)
+> 
+> — La Tri 🇪🇨 (@LaTri) [September 26, 2024](https://twitter.com/LaTri/status/1839347379130020129?ref_src=twsrc%5Etfw)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva
+====================================================================
+
+Un gol a segundos del inicio del partido marcó la segunda clasificación consecutiva de Mushuc Runa a semifinales de Copa Ecuador.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Marco Montaño, Mathías Acuña y Joaquín Vergés en el triunfo de Mushuc Runa en Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000132767.jpg)
+
+El Mushuc Runa de **Ever Hugo Almeida** no es solo una de las revelaciones de la Liga Pro, sino de la Copa Ecuador. La escuadra disputará sus segundas semifinales del torneo de manera consecutiva tras vencer al Libertad de Loja.
+
+Tras sorprender en el **campeonato nacional** y ubicarse en el puesto dos de la segunda ronda, el ‘**Ponchito**‘ extendió su racha de victorias en el torneo copero. Con un marcador de 2-1, el plantel de Tungurahua se hizo con el triunfo, aunque sufrió en los minutos finales[.](https://es.wikipedia.org/wiki/Mushuc_Runa_Sporting_Club "https://es.wikipedia.org/wiki/Mushuc_Runa_Sporting_Club")
+
+### Más noticias:
+
+* [El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro](https://www.elcomercio.com/deportes/mushuc-runa-revelacion-ever-hugo-almeida.html "El Mushuc Runa de Ever Hugo Almeida, revelación en Liga Pro")
+* [Universidad Católica no tuvo piedad con Mushuc Runa en la Liga Pro](https://www.elcomercio.com/deportes/futbol/universidad-catolica-no-tuvo-piedad-con-mushuc-runa-liga-pro.html "Universidad Católica no tuvo piedad con Mushuc Runa en la Liga Pro")
+* [Mushuc Runa no permite sorpresas y sigue en la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/mushuc-runa-copa-ecuador-clasificado.html "Mushuc Runa no permite sorpresas y sigue en la Copa Ecuador")
+
+Antes de derrotar a **Libertad, Mushuc Runa** dejó en su camino a Independiente Juniors y Leones del Norte. A la filial de Independiente del Valle se impuso por 1-0, ante el elenco de Ibarra empató, pero consiguió pasar por penales.
+
+En el caso de Libertad, el conjunto de Loja también se erigía como una de las sorpresas, pues ocupa el último casillero en la tabla acumulada de la **Liga Pro**. Antes de llegar a los cuartos de final frente a la escuadra de Almeida, este se había impuesto ante **Aucas y Vicentino Dragons**.
+
+Mushuc Runa y un gol de récord en Copa Ecuador
+----------------------------------------------
+
+Dados sus compromisos previos, el Libertad fue el primer equipo de la **Serie A** al que se enfrentó **Mushuc Runa** en el torneo. Los dos clubes a los cuales venció con anterioridad forman de parte de la Serie B del balompié nacional.
+
+Desde que sonó el silbato del árbitro, no pasó ni un minuto para que el ‘Ponchito’, que hizo de local, se ponga por delante en el marcador. Tras una escapada por izquierda de **William Ocles** luego del inicio del segundo tiempo, **Enzo Fernández** apareció en medio del área.
+
+El Libertad debió doblegar sus esfuerzos tras el ‘gol de camerino’ adverso y encontró el empate en la segunda mitad. La individualidad de **Cristian Penilla** apareció a los 53′ y, con un remate de fuera del área, logró el tanto para los lojanos.
+
+El Libertad apretó al final a Mushuc Runa
+-----------------------------------------
+
+No pasó mucho de la igualdad del **Libertad** para que **Mushuc Runa** vuelva a ponerse en ventaja. Una vez más, un envío desde el costado sorprendió al equipo. Tras un doble cabezazo en el área, Vergés impactó el balón y lo mandó al fondo de las redes.
+
+El plantel naranja intentó reaccionar y estuvo a punto de empatar en la última jugada. Tras un tiro de esquina al minuto final, el arquero **Eduardo Bores** conectó un cabezazo que encontró bien parado a su colega **Adrián Bone**.
+
+Tras abrochar su clasificación, Mushuc Runa espera por un rival en las semifinales, este saldrá entre **El Nacional y Liga de Quito**. En la otra llave se encuentran **Universidad Católica e Independiente del Valle**.
+
+Incendio controlado y liquidado, ¿cuál es su diferencia?
+========================================================
+
+Incendios forestales son controlados por el Cuerpo de Bomberos de Quito en algunas zonas de la capital.
+-------------------------------------------------------------------------------------------------------
+
+![Cuerpo de Bomberos de Quito controlando un incendio forestal en el Parque de Guápulo el pasado 25 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/bomberos-guapulo.png)
+
+En medio de los recientes i**ncendios forestales que afectan a Quito**, los ciudadanos tuvieron confusiones respecto a los términos **‘controlado’ y ‘liquidado’**, utilizados por las autoridades.
+
+### Más noticias
+
+* [Incendio forestal en el cerro Auqui fue controlado](https://www.elcomercio.com/actualidad/quito/incendio-forestal-cerro-auqui-se-reactiva.html "Incendio forestal en el cerro Auqui fue controlado")
+* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
+* [Donaciones y concierto para los afectados de incendios forestales en Quito](https://www.elcomercio.com/actualidad/quito/donaciones-concierto-solidaridad-afectados-incendio-quito.html "Donaciones y concierto para los afectados de incendios forestales en Quito")
+
+Ambas expresiones se refieren a fases diferentes en el proceso de **combate y extinción de incendios** forestales, pero es esencial comprender la diferencia para interpretar correctamente la situación de un siniestro.
+
+Diferencia entre incendio liquidado y controlado
+------------------------------------------------
+
+Cuando los bomberos hablan de **incendio controlado**, se refieren al momento en que el fuego se contiene, es decir, ya no se propaga a nuevas áreas. En esta fase, las llamas siguen activas en algunas partes, pero los **equipos de emergencia** evitaron que el incendio se extendiera.
+
+Sin embargo, aún existe peligro, por lo que los **bomberos trabajan** para reducir el riesgo de que las llamas se reaviven o afecten estructuras cercanas.
+
+> 🛑 [#Importante](https://twitter.com/hashtag/Importante?src=hash&ref_src=twsrc%5Etfw) | Nuestro comandante [@ECardenasVarela](https://twitter.com/ECardenasVarela?ref_src=twsrc%5Etfw) explica la cronología de las acciones ejecutadas en los incendios forestales de Guápulo, Parque Metropolitano y Auqui.  
+>   
+> 👉 Mantente informado solo por fuentes oficiales.  
+>   
+> Trabajamos sin descanso por la ciudad.  
+>   
+> 🚨 Denuncia a… [pic.twitter.com/LqTQlymFVf](https://t.co/LqTQlymFVf)
+> 
+> — Bomberos Quito (@BomberosQuito) [September 26, 2024](https://twitter.com/BomberosQuito/status/1839391754677551503?ref_src=twsrc%5Etfw)
+
+Por otro lado, un **incendio liquidado** es aquel en el que el fuego se extinguió completamente. Esto significa que no quedan focos activos y que la situación está completamente bajo control. En esta etapa, los bomberos realizan labores de **remoción y enfriamiento** para asegurar que no existan brasas o puntos calientes que puedan reactivar el incendio. Además, verifican que no haya ningún riesgo latente para los alrededores.
+
+Ambos términos son claves para comprender el estado de un siniestro y la respuesta de los bomberos. Mientras el fuego esté “controlado”, la situación aún requiere atención, pero si ha sido “liquidado”, la emergencia se considera superada.
+
+Incendio en el cerro Auqui fue controlado
+-----------------------------------------
+
+A las 11:00 de este 26 de septiembre de 2024, una nube de humo se volvió a observar en el cerro Auqui, uno de los focos del **incendio forestal que aún permanecían activos**. Desde varios puntos de la capital se observó cómo este incendio forestal se volvió a activar.
+
+El **Cuerpo de Bomberos** desplegó equipos por tierra y aire para combatir las llamas en sectores como Guápulo, el cerro Auqui y el parque Metropolitano.
+
+Cerca de las 10:55 de este jueves, el fuego en el cerro Auqui, uno de los puntos más críticos, se reactivó. Aunque inicialmente se reportaron mejoras en la situación, las condiciones empeoraron nuevamente a las 11:00.
+
+A través de un comunicado, el **Cuerpo de Bomberos de Quito** informó que el foco de incendio en el cerro Auqui se controló. Tras la última evaluación realizada hace pocos minutos, se confirmó que la situación se **encuentra bajo control**.
+
+> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | El foco que se encontraba activo en el cerro el Auqui se encuentra controlado.  
+>   
+> 📍👨🏻‍🚒 Nuestro equipo se mantiene en el sitio para realizar monitoreos permanentes y actuar inmediatamente en caso de alguna alerta.[#SalvamosVidas](https://twitter.com/hashtag/SalvamosVidas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/cs7CnG1qYR](https://t.co/cs7CnG1qYR)
+> 
+> — Bomberos Quito (@BomberosQuito) [September 26, 2024](https://twitter.com/BomberosQuito/status/1839413097993228308?ref_src=twsrc%5Etfw)
+
+Las autoridades iniciaron labores de **enfriamiento, remoción de escombros y monitoreo constante** con el uso de equipos tecnológicos avanzados.
+
+Juramento a la Bandera se cumplió este 26 de septiembre, ¿qué pasó en Quito?
+============================================================================
+
+El juramento a la Bandera se desarrolló este 26 de septiembre.
+--------------------------------------------------------------
+
+![En la Unidad Educativa Provincia del Cañar, estudiantes de bachillerato juraron la Bandera.](https://www.elcomercio.com/wp-content/uploads/2024/09/jura-a-la-bandera.jpg)
+
+El **juramento a la Bandera** es un evento cívico instaurado en Ecuador y se realiza cada 26 de septiembre. En este 2024, este evento tuvo novedades.
+
+En el caso de **Quito**, la suspensión de las clases presenciales por los incendios forestales postergó el acto. Aún no se ha hecho público cuando se retomará el evento.
+
+### Más noticias
+
+* [Gobierno y Municipio ejecutan medidas para enfrentar emergencia por incendios en Quito](https://www.elcomercio.com/actualidad/militares-movilizan-combatir-incendio-guapulo.html)
+* [Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?](https://www.elcomercio.com/actualidad/quito/disposicion-clases-quito-incendios-forestales.html "Nueva disposición sobre clases en Quito por incendios, ¿y el juramento a la Bandera?")
+* [Incendios en Quito obligan a tomar medidas sobre las clases](https://www.elcomercio.com/actualidad/quito/incendios-quito-medidas-sobre-clases.html "Incendios en Quito obligan a tomar medidas sobre las clases")
+
+> 🇪🇨 ¡Nuestra bandera refleja unión, fuerza y compromiso! Hoy somos uno solo, desde el Ministerio de Educación seguimos [#UniendoEsfuerzos](https://twitter.com/hashtag/UniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) por un Ecuador más solidario. 🤝 [pic.twitter.com/UQxEJYFZMo](https://t.co/UQxEJYFZMo)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 26, 2024](https://twitter.com/Educacion_Ec/status/1839383599440887866?ref_src=twsrc%5Etfw)
+
+Juramento a la Bandera en Quito y otros puntos
+----------------------------------------------
+
+En el caso de Quito, el **Ministerio de Educación** postergó el juramento a la Bandera, al igual que las clases en modalidad presencial, para este jueves 26 y el viernes 27 de septiembre de 2024.
+
+El acto cívico se realizará cuando las condiciones lo permitan. Esto debido a que los incendios forestales afectaron la **calidad del aire** en la ciudad.
+
+Los protagonistas del evento cívico son los estudiantes de **tercero de bachillerato**. A escala nacional, este 2024 estaba previsto que participen **277 677 estudiantes**.
+
+La mayoría de ellos asisten a **instituciones educativas fiscales** (207 973), seguidos de particulares (49 172), fiscomisionales (17 875) y municipales (2 657).
+
+El juramento en varios lugares
+------------------------------
+
+Aunque en **Quito** no hubo **juramento a la Bandera**, en otros puntos del país sí se realizó. Claro que las instituciones educativas también tuvieron que ajustarse a horarios definidos a raíz de los **cortes de luz**.
+
+**En la Unidad Educativa Provincia del Cañar,** en el cantón Durán, se realizó el acto solemne. Lo propio ocurrió en la **Unidad Educativa Manuela Garaicoa de Calderón,** en Cuenca.
+
+Estudiantes **abanderados** fueron los encargados de recorrer las formaciones que se establecieron para el programa cívico.
+
+Cívica es una nueva materia
+---------------------------
+
+**Cívica**, Educación para el Desarrollo Sostenible, Educación Socioemocional, Educación Vial y Educación Financiera son las áreas que se sumaron a la carga horaria de los estudiantes en el **régimen Sierra-Amazonía**.
+
+Según el **Ministerio de Educación**, la implementación se dará de una forma ordenada. En los últimos 10 años se han dado seis cambios en el currículo.
+
+**Cívica, Ética e Integridad** se planteó como una sola materia. Esta incluye el trabajo en clase de valores como el respeto, disciplina y perseverancia. No copiar es uno de los ejes.
+
+Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024
+=====================================================================================
+
+Un nuevo se une al 'selecto grupo' tras cumplir los requisitos exigidos para la visa a Estados Unidos.
+------------------------------------------------------------------------------------------------------
+
+![Estados Unidos amplió la lista de países que pueden acceder a un visado.](https://www.elcomercio.com/wp-content/uploads/2024/09/visa.jpg)
+
+**Estados Unidos** le dio la bienvenida al país número 42 que conforma su selecta lista para The **Visa** Waiver Program (WWP por sus siglas en inglés y cuyo significado en español es Programa de Exención de Visa). Los ciudadanos de esta nación no tendrán que tramitar la visa y presentarla para viajar a **territorio norteamericano**[.](https://es.wikipedia.org/wiki/Programa_de_exenci%C3%B3n_de_visa "https://es.wikipedia.org/wiki/Programa_de_exenci%C3%B3n_de_visa")
+
+### Más noticias
+
+* [Estados Unidos endurecerá sus políticas comerciales y migratorias](https://www.elcomercio.com/actualidad/mundo/ee-uu-endurecera-politica-comercial-migratoria-quien-sea-presidente.html "Estados Unidos endurecerá sus políticas comerciales y migratorias")
+* [EE.UU. afirma que está listo para defender a Israel](https://www.elcomercio.com/actualidad/mundo/ee-uu-afirma-esta-listo-defender-israel-hay-represalias-ataques-libano.html "EE.UU. afirma que está listo para defender a Israel")
+
+Lo nuevo de la visa para Estados Unidos
+---------------------------------------
+
+Se trata de **Catar**, el primer país árabe que se incluye al listado. “Ha sido un socio excepcional para los Estados Unidos, y nuestra relación no ha hecho más que fortalecerse en los últimos años. Esto es una prueba más de **nuestra asociación estratégica** y nuestro compromiso compartido con la seguridad y la estabilidad”, explicó el Departamento de Seguridad Nacional.
+
+**Estados** **Unidos** reconoció que **Catar** hizo un “importante esfuerzo” para cumplir con los requisitos exigidos del programa de **visas** y, además, celebró alianzas “para compartir información sobre terrorismo y delitos graves”, lo que fortalece la cooperación entre ambos gobiernos.
+
+¿Cuáles son los requisitos para entrar al Programa de Exención de Visa?
+-----------------------------------------------------------------------
+
+El programa hace parte del Departamento de **Seguridad** **Nacional** de Estados Unidos, el cual lo define como una “asociación de seguridad integral” que establece ese país con determinadas **naciones** en el mundo.
+
+**Estados** **Unidos** analiza los riesgos de los territorios, en cuanto a delincuencia y **terrorismo**, así como las actuaciones de sus ciudadanos cuando pisan suelo norteamericano.
+
+Requisitos para el programa de visas
+------------------------------------
+
+The **Visa** Waiver Program (WWP por sus siglas en inglés y cuyo significado en español es Programa de Exención de Visa), tal como lo explica el Departamento, tiene varios **requisitos** que se les exige a los países están:
+
+Tasa de rechazos de visas de no inmigrantes por debajo del 3 % durante el año fiscal anterior.
+
+Emisión de documentos de viaje seguros.
+
+Extensión de privilegios de entrada recíprocos a todos los ciudadanos y nacionales estadounidenses sin importar su origen nacional, religión, etnia o género.
+
+Trabajo en estrecha colaboración con las autoridades policiales y antiterroristas de Estados Unidos.
+
+¿Qué países no necesitan visa para Estados Unidos? Lista actualizada de 2024
+----------------------------------------------------------------------------
+
+**Catar** se suma a Israel —logró la exención de visa en 2023— y Croacia —hizo lo propio en 2021—. Así, estos son los países que no necesitan **visa** para **Estados** **Unidos**, con corte a septiembre de 2024:
+
+1. Andorra
+2. Australia
+3. Austria
+4. Bélgica
+5. Brunéi
+6. Catar
+7. Chile
+8. Croacia
+9. República Checa
+10. Dinamarca
+11. Estonia
+12. Finlandia
+13. Francia
+14. Alemania
+15. Grecia
+16. Hungría
+17. Islandia
+18. Irlanda
+19. Israel
+20. Italia
+21. Japón
+22. Letonia
+23. Liechtenstein
+24. Lituania
+25. Luxemburgo
+26. Malta
+27. Mónaco
+28. Países Bajos
+29. Nueva Zelanda
+30. Noruega
+31. Polonia
+32. Portugal
+33. San Marino
+34. Singapur
+35. Eslovaquia
+36. Eslovenia
+37. Corea del Sur
+38. España
+39. Suecia
+40. Suiza
+41. Taiwán
+42. Reino Unido.
+
+**Chile** es el único país de **Latinoamérica** en el programa. Colombia comenzó desde 2023 los trámites correspondientes para entrar, pero es un proceso que se “toma años”, según reconoció Luis Gilberto Murillo cuando era embajador en Estados Unidos.
+
+¿Qué pueden hacer los viajeros exentos de visa en Estados Unidos?
+-----------------------------------------------------------------
+
+Únicamente podrán viajar sin visa para actividades de negocio o turismo que no excedan los 90 días. No es un programa de residencia.
+
+Se entiende como negocio lo relacionado con: reuniones con socios; asistencia a conferencias científicas, educativas o profesionales; capacitaciones de corto plazo.
+
+Por turismo están permitidos: viajes de vacaciones, visita a familiares o amigos; tratamientos médicos; participación en eventos sociales; asistencia a conciertos, eventos deportivos, entre otros; e inscripciones a cursos cortos de estudio recreativo (clases de cocina, por ejemplo).
+
+En lugar de la visa, deben solicitar por internet un permiso llamado Sistema Electrónico de Autorización de Viaje (ESTA, por sus siglas en inglés de Electronic System for Travel Authorization). El trámite de este demora pocos días.
+
+Ingreso al volcán El Altar cerrará durante cinco días
+=====================================================
+
+El Ministerio del Ambiente informó el cierre se debe a trabajos de limpieza en el lugar.
+----------------------------------------------------------------------------------------
+
+![El volcán El Altar se ubica en el Parque Nacional Sangay, en Chimborazo](https://www.elcomercio.com/wp-content/uploads/2024/09/el-altar-v.jpg)
+
+El Ministerio del Ambiente, Agua y Transición Ecológica informó que el ingreso al volcán El Altar permanecerá cerrado durante cinco días.
+
+Según detalló la cartera de Estado, el lugar ubicado en el Parque Nacional Sangay, en la provincia de Chimborazo, no recibirá visitantes entre el miércoles 2 de octubre al domingo 6 de octubre de 2024.
+
+### Más noticias
+
+* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/uncategorized/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
+* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
+* [Incendio en el sector del Parque Samanes de Guayaquil sería provocado](https://www.elcomercio.com/actualidad/ecuador/incendio-parque-samanes-guayaquil-seria-provocado.html "Incendio en el sector del Parque Samanes de Guayaquil sería provocado")
+
+La restricción en la ruta Releche-Laguna Amarilla se aplicará debido a trabajos de limpieza en el lugar y al desarrollo de una carrera atlética.
+
+> COMUNICADO | El Ministerio del Ambiente, Agua y Transición Ecológica informa: [pic.twitter.com/F1zxTIL96a](https://t.co/F1zxTIL96a)
+> 
+> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [September 26, 2024](https://twitter.com/Ambiente_Ec/status/1839403404646641988?ref_src=twsrc%5Etfw)
+
+Volcán extinto
+--------------
+
+El Altar es un volcán extinto localizado en el centro de Ecuador, en la **Cordillera Oriental** de Los Andes.
+
+El volcán recibe su nombre debido a las formas que adoptan sus numerosos picos, semejando el altar de una iglesia colonial.
+
+La montaña se ubica en el Parque Nacional Sangay, reserva declarado Patrimonio Natural de la Humanidad por la Unesco en 1983.
+
+El Altar es conocido así por la forma que generan sus varios picos.
+
+En quichua, su nombre es Cápac Urcu, que significa montaña sublime.
+
+Su altura alcanza los 5 319 metros sobre el nivel del mar.
+
+El volcán es un estratovolcán extinto, lo que significa que ha tenido varias erupciones en el pasado y actualmente se encuentra en un estado de reposo.
+
+Alrededor del volcán se encuentran **varias lagunas** como la Amarilla, Quindecocha, Estrellada, Verde, Azul, Mandur, Pintada, entre otras.
+
+Por su parte, el Parque Nacional Sangay abarca una extensión de 5 178 km² y se distribuye en cuatro provincias: Morona Santiago, Tungurahua, Chimborazo y Cañar.
+
+Cortes de luz en Riobamba, estos son los horarios para este 27 de septiembre
+============================================================================
+
+Los cortes de luz se retomaron esta semana debido al déficit energético del Ecuador y a la grave sequía por la que atraviesa.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se retomaron debido a la escasa generación en las principales centrales hidroeléctricas del país. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz-24-sep.jpg)
+
+Este viernes 27 de septiembre de 2024 continúan los **cortes de luz** en **Riobamba**, en **Chimborazo**. Los **apagones** se retomaron esta semana debido al déficit energético del Ecuador y a la grave sequía por la que atraviesa. La escasez de agua afecta el normal funcionamiento de las principales centrales **hidroeléctricas** del país.
+
+### Más noticias
+
+* [El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-nivel-critico-cortes-de-luz-ecuador.html "El embalse de Mazar se acerca a su nivel crítico, ¿habrá cortes de luz?")
+* [Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca](https://www.elcomercio.com/actualidad/negocios/conozca-horarios-cortes-luz-27-de-septiembre-cuenca.html "Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca")
+* [Quito suspende los cortes de luz por varias horas este jueves 26 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-en-quito-se-retoman-la-noche-de-este-25-de-septiembre-de-2024-estos-son-los-horarios.html "Quito suspende los cortes de luz por varias horas este jueves 26 de septiembre")
+
+Este viernes 27 de septiembre de 2024 se suspenderá el servicio de electricidad en **Riobamba**, en períodos de e**ntre 5 y 10 horas por** sector, desde las 06:00 hasta las 24:00.
+
+Los horarios están establecidos en la página web de la [Agencia de Regulación de Electricidad](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/"). En esta se detallan los horarios de cada empresa distribuidora, hasta el domingo 29 de septiembre. Ahí, puede revisar la programación de la Empresa Eléctrica Riobamba S.A.
+
+En este link puede conocer los horarios de los cortes de luz en Riobamba, establecidos desde el lunes 23 hasta el domingo 29 de septiembre:
+
+Los horarios de los cortes de luz se modificarán y publicarán los viernes de cada semana, tras una evaluación de las condiciones de los ríos que abastecen a las distintas **hidroeléctricas del país**, así lo señaló el ministro de Energía, **Antonio Goncalves.**
+
+**“**Evaluamos las condiciones de los ríos que abastecen a las **principales centrales hidroeléctricas** del país. Informaremos cada viernes la programación de los racionamientos energéticos para que la ciudadanía tenga mayor **predictibilidad**. Es posible que, si la situación hídrica mejore, los **cortes disminuyan** en horario”, señaló.
+
+El 72% de la matriz energética del país se alimenta fuentes hídricas, actualmente afectadas por la grave **sequía** que afronta el país. Por esta **razón, el Gobierno busca** alternativas a través de las centrales térmicas para cubrir el déficit de 1 080 MW.
+
+Los ‘euroguaguas’ de la Selección de Ecuador
+============================================
+
+La migración de compatriotas ecuatorianos se refleja en las categorías juveniles de la Selección de Ecuador.
+------------------------------------------------------------------------------------------------------------
+
+![Los 'euroguaguas' son jugadores que nacieron en Europa, pero pueden representar a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/image-23.png)
+
+La **Selección Sub-16 de Ecuador** se prepara para el Campeonato Sudamericano de la categoría, que se jugará en Bolivia. En la lista de convocados, el DT Juan Carlos Burbano ha llamado a varios jugadores ecuatorianos que militan en Europa.
+
+Los llamados ‘**euroguaguas**‘, bautizados así por el departamento de Deportes de EL COMERCIO, son jugadores que no nacieron en Ecuador, pero que debido a la **migración** y sus raíces ecuatorianas —ya sea por su padre, madre o ambos— tienen la opción de representar a la ‘Tri’.
+
+### Más noticias:
+
+* [Benny Atahualpa, de Alemania, a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/benny-atahualpa-birner-seleccion-ecuador.html "Benny Atahualpa, de Alemania, a la Selección de Ecuador")
+* [Selección de Ecuador convoca a promesa de España](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-convoca-a-promesa-espana-malcom-dacosta.html "Selección de Ecuador convoca a promesa de España")
+* [La Selección de Ecuador se interesa y bloquea a Jhon Espinoza](https://www.elcomercio.com/deportes/jhon-espinoza-seleccion-ecuador-convocatoria.html "La Selección de Ecuador se interesa y bloquea a Jhon Espinoza")
+
+Entre los convocados destacan **Malcom Dacosta, Benny Atahualpa Birner, Jalmar Rodríguez y Jordan Mejía**, cuatro jóvenes talentos que juegan en equipos europeos y tendrán la oportunidad de defender a Ecuador en una competencia oficial juvenil.
+
+Los ‘euroguaguas’ de Ecuador
+----------------------------
+
+De estos cuatro jóvenes, solo uno ya ha vestido la **camiseta de Ecuador**. Se trata de **Jalmar Rodríguez**, quien ha jugado amistosos con la Sub-17. Los otros tres, Dacosta, Birner y Mejía, están recibiendo su primer llamado.
+
+### Malcom Dacosta
+
+**Malcom** **Dacosta**, de 16 años, juega en la academia del **Bournemouth** en Inglaterra. Con raíces que le permiten representar a España, Guinea Ecuatorial, Inglaterra y Ecuador, Dacosta ha decidido unirse a la ‘Tri’.
+
+Se desempeña principalmente como **mediocampista**, pero también puede jugar como defensor. Se destaca por su habilidad para **recuperar balones** y su potente disparo, cualidades que ha demostrado en la academia de los ‘Cherries’.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170218.194-1024x683.jpg)
+
+### Benny Atahualpa Birner
+
+**Benny** **Birner nació en Alemania** el 4 de agosto de 2008, por lo que tiene 16 años. Su padre es alemán y su madre ecuatoriana, lo que le permite representar a ambas selecciones.
+
+Atahualpa es **defensa central y su pierna hábil es la izquierda**. Actualmente, juega en las categorías juveniles del Holstein Kiel, equipo que en la temporada 2024/25 debutó en la Bundesliga.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170120.004-1024x683.jpg)
+
+### Jalmar Rodríguez
+
+Jalmar es el único de los cuatro que ya ha vestido la camiseta de Ecuador, en unos amistosos con la Sub-17. Nacido en 2008, también tiene 16 años. Es de **padres ecuatorianos, pero nació en España,** por lo que también es elegible para la selección española.
+
+Juega en las juveniles del Elche, y se **desempeña como lateral derecho, aunque en ocasiones ha sido utilizado como extremo**. Se destaca por su velocidad y buen posicionamiento en el ataque.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170141.007-1024x683.jpg)
+
+### Jordan Mejía
+
+De padres ecuatorianos, **Jordan Mejía nació en España** en 2008. Con 15 años, puede ser convocado tanto por Ecuador como por España. Actualmente, juega en las juveniles del Elche, al igual que Jalmar Rodríguez.
+
+Mejía puede desempeñarse como **lateral por ambas bandas**, a pesar de ser derecho. También ha jugado como mediocampista defensivo. Entre sus fortalezas **destacan su capacidad de salida** y control del balón.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-26T170130.386-1024x683.jpg)
+
+Ecuador el Sudamericano Sub-15
+------------------------------
+
+El **Sudamericano Sub-15** se jugará en Santa Cruz, Bolivia, del 4 al 19 de octubre.
+
+**Ecuador** integrará el Grupo B junto a Argentina, Brasil, Uruguay y Venezuela. El equipo debutará el 5 de octubre frente a Uruguay.
+
+El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio
+===================================================================
+
+El campeón de la Liga Básquet Pro de Ecuador 2024 se definirá al mejor de siete partidos entre Jorge Guzmán y Zamora Jaguars.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Zamora Jaguars (negro) y Jorge Guzmán en la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_basquet_presidente_1.jpg)
+
+**Jorge Guzmán de Loja y Zamora Jaguars de la ciudad homónima**, son los dos finalistas de la Liga Básquet Pro 2024, que definirán al campeón al mejor de siete partidos desde el sábado 28 de septiembre.
+
+Los dos primeros partidos de la Liga Básquet Pro serán en Loja el sábado 28 y lunes 30 de septiembre; **el tercero y cuarto el jueves 3 y sábado 5 de octubre en Zamora**; el quinto el lunes 7 y el séptimo el sábado 12 en Loja; y el sexto el jueves 10 en Zamora.
+
+### Más noticias:
+
+* [Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores](https://www.elcomercio.com/deportes/alan-franco-atletico-mineiro-copa-libertadores.html "Alan Franco y el Atlético Mineiro van a semifinales de Copa Libertadores")
+* [Esgrimistas de Ecuador se destacan en Sudamérica y piden respaldo](https://www.elcomercio.com/deportes/sudamericano-esgrima-ecuador-medallas-juvenil.html "Esgrimistas de Ecuador se destacan en Sudamérica y piden respaldo")
+* [(Video) Enner Valencia vuelve a anotar con Inter de Porto Alegre tras dos meses](https://www.elcomercio.com/deportes/gol-enner-valencia-inter-porto-alegre-bragantino.html "(Video) Enner Valencia vuelve a anotar con Inter de Porto Alegre tras dos meses")
+
+Mario Gordón, presidente de la Liga Básquet Pro, conversó con EL COMERCIO y **dio más detalles de esta competencia que arrancó en el 2022 con ocho equipos**, en el 2023 se mantuvo el número, y en el 2024 se elevó a 12.
+
+Sobre este aspecto, Gordon adelantó que en el 2025 se **espera mantener la cantidad de equipos y sumarle dos más**, aunque no adelantó los nombres o las provincias que incrementarán equipos o si alguna nueva entrará en la competencia.
+
+En caso de sumarse más equipos, explicó que se tiene que debatir **si el actual sistema del torneo se mantiene** o si se lo divide por zonas, siempre teniendo en cuenta el factor económico, que es un factor con el que luchan para sostenerse durante la temporada.
+
+“Tenemos que hacer los estudios financieros para ver si los equipos interesados son rentables y si tienen la capacidad de cumplir los contratos con los jugadores durante los cinco o seis meses que dure el campeonato”, sostuvo.
+
+El actual sistema de la Liga Básquet Pro establece una temporada regular de todos contra todos en partidos de ida y vuelta. L**os seis primeros clasifican directamente a los play-off de cuartos de final**, mientras del séptimo al décimo juegan los play-in para completar los ocho mejores.
+
+Los cuartos de final y semifinales se juegan al mejor de cinco partidos, y las finales al mejor de siete.
+
+Los premios para el campeón nacional
+------------------------------------
+
+Gordon comentó que el espectáculo para las finales entre los **cuadros de Zamora y Loja está garantizado**, partiendo por la presencia de público, tanto en el Coliseo Ciudad de Loja (capacidad para 3 000 personas) y Coliseo Mayor de Deportes de Zamora (capacidad para 1 800 personas).
+
+“En el sur del país se vivirá una verdadera fiesta (…) **El campeón de 2022 y la revelación de este año tienen equipos** con planteles de alto nivel. Estamos contentos por lo que viene pasando”, indicó el directivo.
+
+Contó que el campeón de este año tendrá en su poder el trofeo durante **todo el 2024 para que puedan desarrollar toda una campaña** de fidelización con sus hinchas, y de merchandising para generar más ingresos pensando en que el baloncesto en el país sea autosustentable.
+
+ En lo económico, **el campeón recibirá un monto de 20 000 dólares**, pero serán entregados en el inicio de la siguiente temporada.
+
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga_basquet_presidente_2-1024x683.jpg)
+
+Foto: Cortesía/Jimmy Calva.
+
+Cronograma de las finales
+-------------------------
+
+### Juego 1: Sábado 28/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 2: Lunes 30/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 3: Jueves 3/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 4: Sábado 5/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 5: Lunes 7/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 6: Jueves 10/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 7: Sábado 12/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+> ¡El momento más esperado ha llegado! Dos gigantes del baloncesto se enfrentan en las FINALES de la [#LigaEcuabetBasquetPro](https://twitter.com/hashtag/LigaEcuabetBasquetPro?src=hash&ref_src=twsrc%5Etfw).🏀 ¿Quién se llevará la gloria? 🏆 [pic.twitter.com/DoG6qaQF10](https://t.co/DoG6qaQF10)
+> 
+> — Liga Básquet Pro (@LigaBasquetpro) [September 25, 2024](https://twitter.com/LigaBasquetpro/status/1839037111200096626?ref_src=twsrc%5Etfw)
+
+No te pierdas – El Confesionario
+--------------------------------
