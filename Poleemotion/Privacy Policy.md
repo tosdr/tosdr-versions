@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Yoga Fly](/storage/highlights/56395/highlight.webp?v=246362)
+[![image Yoga Fly](/storage/highlights/56395/highlight.webp?v=524931)
 
 ##### Yoga Fly
 
@@ -92,17 +92,9 @@ ven. 27 septembre 2024 - **19:00** à Yverdon salle 2 - Studio48
 
 Ce cours te permettra d’améliorer ta souplesse, faire travailler tes muscles et surtout te détendre… Le tout, suspendue...
 
-**c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/56395)[![image Piloxing](/storage/highlights/58717/highlight.webp?v=249178)
+**c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/56395)[](https://app.pole-emotion.ch/evjf)
 
-##### Piloxing
-
-ven. 27 septembre 2024 - **19:30** à Crissier salle 2
-
-Fusion entre le Pilates, la boxe et la danse Le Piloxing® est un programme d’interval training associant la...
-
-**c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/58717)[](https://app.pole-emotion.ch/evjf)
-
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=250375)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=527031)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
