@@ -27,7 +27,7 @@ Community
 
 Quicklinks
 
-[Academic Calendar](https://www.lwtech.edu/calendar/index.aspx)[Academic Programs](https://www.lwtech.edu/academics/academic-programs.aspx)[Canvas](https://lwtech.instructure.com/)[ctcLink (LionsLink)](https://csprd.ctclink.us/psc/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main?institution=WA260&)[Legend](https://lwtech.okta.com/app/lwtech_legendokta_1/exkdbmh8bgjnONWpF4x7/sso/saml)[Webmail](https://www.outlook.com/lwtech.edu)
+[Academic Calendar](https://www.lwtech.edu/calendar/index.aspx)[Canvas](https://lwtech.instructure.com/)[ctcLink (LionsLink)](https://csprd.ctclink.us/psc/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main?institution=WA260&)[Legend](https://lwtech.okta.com/app/lwtech_legendokta_1/exkdbmh8bgjnONWpF4x7/sso/saml)[Okta Dashboard](https://lwtech.okta.com/)[Webmail](https://www.outlook.com/lwtech.edu)
 
 [Menu Closed](#)
 
@@ -70,7 +70,7 @@ Kirkland, WA 98034](https://www.lwtech.edu/about-us/directions.aspx)
 
 Quick Links
 
-[Calendar](https://www.lwtech.edu/calendar/index.aspx)[Canvas](https://lwtech.instructure.com/ "Link to external site")[ctcLink (LionsLink)](https://csprd.ctclink.us/psc/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main?institution=WA260& "Link to external site")[Legend](https://lwtech.okta.com/home/lwtech_legendokta_1/0oadbmh8bhMF7cnA14x7/alndbmkxtf1V2KZE84x7 "Link to external site")[Webmail](https://www.outlook.com/lwtech.edu "Link to external site")
+[Canvas](https://lwtech.instructure.com/ "Link to external site")[ctcLink (LionsLink)](https://csprd.ctclink.us/psc/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main?institution=WA260& "Link to external site")[Legend](https://lwtech.okta.com/home/lwtech_legendokta_1/0oadbmh8bhMF7cnA14x7/alndbmkxtf1V2KZE84x7 "Link to external site")[Okta Dashboard](https://lwtech.okta.com/ "Link to external site")[Webmail](https://www.outlook.com/lwtech.edu "Link to external site")
 
 Resources
 
@@ -78,7 +78,7 @@ Resources
 
 Information
 
-[Student Landing Page](https://www.lwtech.edu/students/index.aspx)[Employee Landing Page](https://www.lwtech.edu/employees/index.aspx)[Community Landing Page](https://www.lwtech.edu/about-us/community/index.aspx)[Directory](https://www.lwtech.edu/about-us/directory/index.aspx)
+[Student Landing Page](https://www.lwtech.edu/students/index.aspx)[Employee Landing Page](https://www.lwtech.edu/employees/index.aspx)[Community Landing Page](https://www.lwtech.edu/about-us/community/index.aspx)[Calendar](https://www.lwtech.edu/calendar/index.aspx)[Directory](https://www.lwtech.edu/about-us/directory/index.aspx)
 
 Translate
 
