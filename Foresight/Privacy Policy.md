@@ -58,13 +58,24 @@ Close
 Privacy Policy
 ==============
 
+On this page
+
+1. [What information I collect](#what-information-i-collect)
+2. [Your rights to the data I collect about you](#your-rights-to-the-data-i-collect-about-you)
+3. [How this site collects and uses data](#how-this-site-collects-and-uses-data)
+4. [Services used to manage the site](#services-used-to-manage-the-site)
+
 Here's an explanation of what happens to your information when you use this site.
 
 Foresight - this website, [foresight.is](http://foresight.is/) - is a registered dba for Unstructured Ventures, LLC, a Delaware LLC ("Unstructured Ventures", "our," "us," "me," "I", or "we"). This Privacy Policy is to let you know what information we collect when you visit this site (the "website", "this site") and/or other services offered via our website (collectively, the "services"), why we collect it, and how it is used. The terms of use for this website is [here](https://foresight.is/terms).
 
-We collect limited personal information about who you are and where you are, as well as technical data about how you are accessing this site. This personal information can be deleted or edited by you at anytime, except for anonymized information that is impossible for us to delete. We work hard to keep your information private, however, because the Internet can never be completely secure, you give me your info at your own risk. When you put your private information on the Internet, it can be collected and used for others, and we are not responsible for keeping that information provate or secure. If I have a security breach, I will email you within 72 hours of identification of a breach.
+What information I collect [#](#what-information-i-collect)
+-----------------------------------------------------------
 
-Your rights to the data I collect about you:
+I collect limited personal information about who you are and where you are, as well as technical data about how you are accessing this site. This personal information can be deleted or edited by you at anytime, except for anonymized information that is impossible for us to delete. We work hard to keep your information private, however, because the Internet can never be completely secure, you give me your info at your own risk. When you put your private information on the Internet, it can be collected and used for others, and we are not responsible for keeping that information provate or secure. If I have a security breach, I will email you within 72 hours of identification of a breach.
+
+Your rights to the data I collect about you [#](#your-rights-to-the-data-i-collect-about-you)
+---------------------------------------------------------------------------------------------
 
 * We abide by the terms of California Consumer Privacy Act (CCPA) and the European Union's General Data Protection Regulation (GDPR), and apply the principles of transparency about how I collect and use data, and the right to access and delete your data, to all users.
 * You can request access to and deletion of your personal information by emailing hello \[at\] [foresight.is](http://foresight.is/) or calling +1.646.770.0052. If you request your information under the right to access, it will be provided within 30 days, and will include the categories of data, sources, the purpose of collecting said data, and the specific pieces of data collected over the past 12 months.
@@ -73,13 +84,19 @@ Your rights to the data I collect about you:
 * I do not sell any personal information to any parties, and have not in the past 12 months.
 * I engage third parties to perform functions and provide services to me, including hosting, email, product downloads and website analytics. I may share data with those services, but only to the extent necessary to perform those functions and services, and require those third parties to maintain the privacy and security of your personal information.
 
-Here's how this site collects and uses data:
+How this site collects and uses data [#](#how-this-site-collects-and-uses-data)
+-------------------------------------------------------------------------------
+
+This site uses a few services to manage this site and its services:
 
 * Purchases and Downloads. We use Gumroad to process purchases, downloads, and transactions, including taking payment for the products sold through this site. All transactions are processed through Gumroad, and no payment details are stored by us. All of your payment information is tokenized and encrypted in a PCI compliant ecosystem through Gumroad, and you can learn more what that means [here](https://customers.gumroad.com/before-you-buy/safe-buying-on-gumroad). We also use Gumroad to send emails, including your receipts and invoices, and updates on your product. Gumroad stores our customer lists, and our records of who has downloaded or purchased which products. Any information Gumroad collects when you visit my site is not available to me, and you can contact Gumroad to view or delete any information that they have. You can contact me to request details of the information I have available to me about you on Gumroad, which is limited to the information you provided at download or purchase. You are not required to create an account to purchase. I am able to delete records of free transactions. I am required to store records of your paid transactions to be able to offer you ongoing downloads of the products you purchase.
 * Email collection forms. I use Netlify to collect to collect email addresses through the signup forms on this site, and if you submit your email address on this site, it will be added to my list to send you emails from time to time. I do not sell or share your email addresses or any personal information about you. I use EmailOctopus to send emails to the email addresses collected through the signup forms powered by Netlify on this site. You may unsubscribe or edit your profile (link in any email, or [contact me](https://foresight.is/hello)) anytime.
 * Mailing list. We currently use Gumroad for our mailing list and email newsletters, and if you submit your email address on this site, it will be added to my list to send you emails from time to time. You may unsubscribe from emails sent through Gumroad by clicking on the unsubscribe link in any email or editing your settings on [Gumroad](https://gumroad.com/settings). You can also [contact me](https://foresight.is/contact) anytime.
 * Analytics. I use Fathom Analytics to understand the usage of this website. This data is collected in a GDPR-compliant way and I cannot access or use this information in any personally-identifiable way.
 * Affiliate tracking. If you click through a link from one of our affiliates, our transaction provider Gumroad will store a cookie for a limited time period to track if you return to the site for the purposes of affiliate tracking. These cookies expire after 30 days. We do not have access to this information.
+
+Services used to manage the site [#](#services-used-to-manage-the-site)
+-----------------------------------------------------------------------
 
 I use a few services to manage this site and its services:
 
@@ -94,7 +111,7 @@ I use a few services to manage this site and its services:
 
 If you get to this site through another site or click to another site from this site, they might collect your personal info. We are not responsible for those privacy policies.
 
-This policy was last updated October 3, 2022.
+This policy was last updated September 27, 2024.
 
 If you have questions, you can contact us:
 
@@ -103,6 +120,13 @@ hello \[at\] [foresight.is](http://foresight.is/)
 Unstructured Ventures, LLC  
 Attn: Taylor Davidson  
 6360 Broad St., #5226, Pittsburgh, PA, 15206
+
+On this page
+
+1. [What information I collect](#what-information-i-collect)
+2. [Your rights to the data I collect about you](#your-rights-to-the-data-i-collect-about-you)
+3. [How this site collects and uses data](#how-this-site-collects-and-uses-data)
+4. [Services used to manage the site](#services-used-to-manage-the-site)
 
 Footer
 ------
