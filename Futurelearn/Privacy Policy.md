@@ -718,6 +718,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Partners With Pion To Offer Exclusive Learner Discounts](https://www.futurelearn.com/info/press/futurelearn-partners-with-pion-to-offer-exclusive-learner-discounts)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the online learning platform, has partnered with Pion (formerly Student Beans), to offer exclusive …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [![environmental scientist](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-91-150x150.png)](https://www.futurelearn.com/info/blog/environmental-science-degree-guide)
     
     [A complete guide to environmental science degrees](https://www.futurelearn.com/info/blog/environmental-science-degree-guide)
@@ -742,15 +749,6 @@ Powered By
     Are you a natural leader who enjoys the hustle and bustle of starting a new …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![data scientist at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-89-150x150.png)](https://www.futurelearn.com/info/blog/data-science-degree-guide)
-    
-    [A complete guide to data science degrees](https://www.futurelearn.com/info/blog/data-science-degree-guide)
-    -----------------------------------------------------------------------------------------------------------
-    
-    Thinking about taking an online data science degree to learn specialist knowledge and improve your …
-    
-    Category: [Data Science](https://www.futurelearn.com/info/data-science), [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
