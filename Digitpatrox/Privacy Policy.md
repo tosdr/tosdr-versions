@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, September 26 2024
+Friday, September 27 2024
 
 Latest
 
-* [All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
-* [Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
-* [How to customize Copilot keyboard key action on Windows 11](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
-* [Best Hair Steamer We Tried Was Quiet and Did Not Drip Hot Water](https://digitpatrox.com/best-hair-steamer-we-tried-was-quiet-and-did-not-drip-hot-water/)
-* [MSI’s Wi-Fi 7 Mesh Router Is Finally Available](https://digitpatrox.com/msis-wi-fi-7-mesh-router-is-finally-available/)
-* [Blackstone confirms £10 billion data center in UK](https://digitpatrox.com/blackstone-confirms-10-billion-data-center-in-uk/)
-* [Get 5 Courses on Project Management for Just $40](https://digitpatrox.com/get-5-courses-on-project-management-for-just-40/)
-* [‘Colin from Accounts’ season 2 just dropped on Paramount Plus — and it’s already 100% on Rotten Tomatoes](https://digitpatrox.com/colin-from-accounts-season-2-just-dropped-on-paramount-plus-and-its-already-100-on-rotten-tomatoes/)
-* [Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://digitpatrox.com/moments-supercage-smartphone-rig-has-more-ports-and-more-power-for-filmmakers/)
-* [The Last of Us Season 2 Trailer Out and It’ll Likely Be an Emotional Ride](https://digitpatrox.com/the-last-of-us-season-2-trailer-out-and-itll-likely-be-an-emotional-ride/)
+* [Amazon employees don’t want to be back in the office all week — survey – Computerworld](https://digitpatrox.com/amazon-employees-dont-want-to-be-back-in-the-office-all-week-survey-computerworld/)
+* [How to Follow a Training Program for a Marathon or Half Marathon, Even When Nothing Is Going Right](https://digitpatrox.com/how-to-follow-a-training-program-for-a-marathon-or-half-marathon-even-when-nothing-is-going-right/)
+* [How to rename network adapter on Windows 11](https://digitpatrox.com/how-to-rename-network-adapter-on-windows-11/)
+* [Samsung Galaxy S24 FE, Tab S10 Series, Watch FE LTE](https://digitpatrox.com/samsung-galaxy-s24-fe-tab-s10-series-watch-fe-lte/)
+* [Nasuni announces new Microsoft 365 Copilot integration](https://digitpatrox.com/nasuni-announces-new-microsoft-365-copilot-integration/)
+* [50% More Professionals Rank Data Privacy as a Top GenAI Concern in 2024](https://digitpatrox.com/50-more-professionals-rank-data-privacy-as-a-top-genai-concern-in-2024/)
+* [Razer Blade 18 (2024) review: This is big](https://digitpatrox.com/razer-blade-18-2024-review-this-is-big/)
+* [Zillow will now show climate risks for property listings in the US](https://digitpatrox.com/zillow-will-now-show-climate-risks-for-property-listings-in-the-us/)
+* [NYT Strands Today: Hints, Answers & Spangram for September 27](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-27/)
+* [How is AI improving healthcare?](https://digitpatrox.com/how-is-ai-improving-healthcare/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J8QJQCZHZZ0GGZY0SETZ3VB1/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3541280-0-41415200-1727366126-shutterstock_2427127535.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/amazon-employees-dont-want-to-be-back-in-the-office-all-week-survey-computerworld/)
     
-    [All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
+    [Amazon employees don’t want to be back in the office all week — survey – Computerworld](https://digitpatrox.com/amazon-employees-dont-want-to-be-back-in-the-office-all-week-survey-computerworld/)
     
-    12 mins ago
+    29 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Delaware-Libraries-lose-internet-access-due-to-ransomware-attack-copy.jpg)](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
+* [![](https://lifehacker.com/imagery/articles/01J8QY665P2HF3NR59C8JFY8S9/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-follow-a-training-program-for-a-marathon-or-half-marathon-even-when-nothing-is-going-right/)
     
-    [Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
+    [How to Follow a Training Program for a Marathon or Half Marathon, Even When Nothing Is Going Right](https://digitpatrox.com/how-to-follow-a-training-program-for-a-marathon-or-half-marathon-even-when-nothing-is-going-right/)
     
-    23 mins ago
+    54 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/09/windows-11-change-copilot-key-action-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
+* [![](https://pureinfotech.com/wp-content/uploads/2022/08/windows-11-change-network-name-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-rename-network-adapter-on-windows-11/)
     
-    [How to customize Copilot keyboard key action on Windows 11](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
+    [How to rename network adapter on Windows 11](https://digitpatrox.com/how-to-rename-network-adapter-on-windows-11/)
     
-    35 mins ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1725035908/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Hair-Steamers-8-24)](https://digitpatrox.com/best-hair-steamer-we-tried-was-quiet-and-did-not-drip-hot-water/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/perosn-holding-the-samsung-galaxy-s24-fe-in-green.jpg)](https://digitpatrox.com/samsung-galaxy-s24-fe-tab-s10-series-watch-fe-lte/)
     
-    [Best Hair Steamer We Tried Was Quiet and Did Not Drip Hot Water](https://digitpatrox.com/best-hair-steamer-we-tried-was-quiet-and-did-not-drip-hot-water/)
+    [Samsung Galaxy S24 FE, Tab S10 Series, Watch FE LTE](https://digitpatrox.com/samsung-galaxy-s24-fe-tab-s10-series-watch-fe-lte/)
     
-    44 mins ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/msi-roamii-be-lite-mesh-system-dual-band-wi-fi-7-router.png)](https://digitpatrox.com/msis-wi-fi-7-mesh-router-is-finally-available/)
+* [![](https://cdn.mos.cms.futurecdn.net/DshQGvyyaC4SX6zJoWDwt8-1200-80.jpg)](https://digitpatrox.com/nasuni-announces-new-microsoft-365-copilot-integration/)
     
-    [MSI’s Wi-Fi 7 Mesh Router Is Finally Available](https://digitpatrox.com/msis-wi-fi-7-mesh-router-is-finally-available/)
+    [Nasuni announces new Microsoft 365 Copilot integration](https://digitpatrox.com/nasuni-announces-new-microsoft-365-copilot-integration/)
     
-    45 mins ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [12 mins ago
+* [29 mins ago
     
-    ### All the Things You’re Probably Not Checking on Your Rental Car (but Should Be)](https://digitpatrox.com/all-the-things-youre-probably-not-checking-on-your-rental-car-but-should-be/)
-* [23 mins ago
+    ### Amazon employees don’t want to be back in the office all week — survey – Computerworld](https://digitpatrox.com/amazon-employees-dont-want-to-be-back-in-the-office-all-week-survey-computerworld/)
+* [54 mins ago
     
-    ### Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
-* [35 mins ago
+    ### How to Follow a Training Program for a Marathon or Half Marathon, Even When Nothing Is Going Right](https://digitpatrox.com/how-to-follow-a-training-program-for-a-marathon-or-half-marathon-even-when-nothing-is-going-right/)
+* [1 hour ago
     
-    ### How to customize Copilot keyboard key action on Windows 11](https://digitpatrox.com/how-to-customize-copilot-keyboard-key-action-on-windows-11/)
+    ### How to rename network adapter on Windows 11](https://digitpatrox.com/how-to-rename-network-adapter-on-windows-11/)
 
 Most Popular Topics
 
-* [2 days ago
+* [3 weeks ago
     
-    ### Car Insurance Telematics Pros and Cons](https://digitpatrox.com/car-insurance-telematics-pros-and-cons/)
-* [6 days ago
+    ### How to Watch the First Presidential Debate Without Cable](https://digitpatrox.com/how-to-watch-the-first-presidential-debate-without-cable/)
+* [August 15, 2024
     
-    ### How to Choose a Nursing Pillow and Use It Safely](https://digitpatrox.com/how-to-choose-a-nursing-pillow-and-use-it-safely/)
-* [August 26, 2024
+    ### Microsoft has a fix for preventing the next CrowdStrike fiasco, but is it a good one? – Computerworld](https://digitpatrox.com/microsoft-has-a-fix-for-preventing-the-next-crowdstrike-fiasco-but-is-it-a-good-one-computerworld/)
+* [August 15, 2024
     
-    ### Arc Search Browser Is Coming to Android Very Soon](https://digitpatrox.com/arc-search-browser-is-coming-to-android-very-soon/)
+    ### SAP CRM Review (2024): Pricing, Features, and More](https://digitpatrox.com/sap-crm-review-2024-pricing-features-and-more/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Get 5 Courses on Project Management for Just $40](https://digitpatrox.com/get-5-courses-on-project-management-for-just-40/)
-* [2 hours ago
-    
-    ### ‘Colin from Accounts’ season 2 just dropped on Paramount Plus — and it’s already 100% on Rotten Tomatoes](https://digitpatrox.com/colin-from-accounts-season-2-just-dropped-on-paramount-plus-and-its-already-100-on-rotten-tomatoes/)
 * [3 hours ago
     
-    ### Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://digitpatrox.com/moments-supercage-smartphone-rig-has-more-ports-and-more-power-for-filmmakers/)
+    ### Razer Blade 18 (2024) review: This is big](https://digitpatrox.com/razer-blade-18-2024-review-this-is-big/)
+* [3 hours ago
+    
+    ### Zillow will now show climate risks for property listings in the US](https://digitpatrox.com/zillow-will-now-show-climate-risks-for-property-listings-in-the-us/)
+* [4 hours ago
+    
+    ### NYT Strands Today: Hints, Answers & Spangram for September 27](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-27/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
