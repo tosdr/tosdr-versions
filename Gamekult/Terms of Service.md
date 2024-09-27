@@ -16,7 +16,7 @@ Découvrez tous nos contenus exclusifs (tests, vidéos, podcasts…) en illimit�
 
 En ce moment
 
-[Star Wars Outlaws](https://www.gamekult.com/jeux/star-wars-outlaws-3050886905.html) [Concord](https://www.gamekult.com/jeux/concord-3050886837.html) [Black Myth : Wukong](https://www.gamekult.com/jeux/black-myth-wu-kong-3050882675.html) [Senua's Saga : Hellblade II](https://www.gamekult.com/jeux/hellblade-ii-senua-s-saga-3050881633.html) [Paper Mario : La Porte Millénaire](https://www.gamekult.com/jeux/paper-mario-la-porte-millenaire-remake-3050887120.html) [Stellar Blade](https://www.gamekult.com/jeux/project-eve-3050880487.html)
+[Silent Hill 2](https://www.gamekult.com/jeux/silent-hill-2-remake-3050886267.html) [The Legend of Zelda : Echoes of Wisdom](https://www.gamekult.com/jeux/the-legend-of-zelda-echoes-of-wisdom-3050887733.html) [Astro Bot](https://www.gamekult.com/jeux/astro-bot-3050887652.html) [Star Wars Outlaws](https://www.gamekult.com/jeux/star-wars-outlaws-3050886905.html) [Black Myth : Wukong](https://www.gamekult.com/jeux/black-myth-wu-kong-3050882675.html) [Stellar Blade](https://www.gamekult.com/jeux/project-eve-3050880487.html)
 
 * [Émissions](https://www.gamekult.com/emissions.html)
 * [News](https://www.gamekult.com/actualite.html)
