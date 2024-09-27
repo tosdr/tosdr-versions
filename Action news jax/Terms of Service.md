@@ -4,7 +4,7 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[80°
+[87°
 
 ![Mostly Cloudy](/pf/resources/images/weather/status-icons/28.png?d=859)](https://www.actionnewsjax.com/weather/)
 
@@ -343,7 +343,7 @@ This Agreement has been made in and shall be construed in accordance with the la
 
 [](https://www.actionnewsjax.com/doinggood/)
 
-[](https://www.actionnewsjax.com/florida-lottery)
+[](https://www.actionnewsjax.com/florida-lottery/)
 
 #### Latest Trending
 
