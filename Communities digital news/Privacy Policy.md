@@ -26,25 +26,25 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jdvance1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tim-walz-1200x630.jpg)](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
 
-[Leftist journo ‘doing Iran’s bidding’ by publishing hacked Vance document](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
+[Harris-Walz attempt to rally Latino voters is a fantastic flop: ‘I thought there would be more…’](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/screenshot-2024-09-26-054230-1200x630.png)](https://americanwirenews.com/emir-of-qatar-steps-up-at-the-united-nations/)
 
 [Emir of Qatar steps up at the United Nations](https://americanwirenews.com/emir-of-qatar-steps-up-at-the-united-nations/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-zelenskyy-2-1200x630.jpg)](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-dan-bongino-1200x630.jpg)](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
 
-[Trump shares private message Zelenskyy just sent him](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
+[Dan Bongino delivers blunt message for George Soros after radio acquisition](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jumaane-williams-1200x630.jpg)](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-republican-vs-democrat-children-1200x630.jpg)](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
 
-[AOC-backed Anti-cop, far-left zealot on deck to replace NYC Mayor Adams](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
+[Kids from Republican homes more inclusive and less politically agitated than Dem counterparts, study finds](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nyc-1200x630.png)](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-kamalaphilly1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
 
-[Trump blasts ABC News for violating debate agreement](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
+[Voter registration swing spells bad news for Democrats](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nathan-fani-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
 
@@ -58,9 +58,11 @@ Search for:
 
 [Elon Musk says ‘it’s obvious’ that Dems are ‘importing voters’](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tlaib-blinken-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-2173926361-1-1200x630.jpg)
 
-### Rashida Tlaib to Antony Blinken: ‘Resign now’](https://americanwirenews.com/rashida-tlaib-to-antony-blinken-resign-now/)
+(Photo by Alex Kent/Getty Images)
+
+### ‘This is what leadership looks like’: Trump vows to hammer out peace deal during Zelenskyy meeting](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,38 @@ Search for:
 ### [House Republican triggers firestorm with Haiti ‘nastiest country’ tweet](https://americanwirenews.com/house-republican-triggers-firestorm-with-haiti-nastiest-country-tweet/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college--220x180.png)](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
+
+[‘The tide is turning’: Charlie Kirk shares inspiring signs of hope for America on college campuses](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rizzler-cringe-220x180.jpg)](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
+
+[Dem congressperson lets Gen Z staffers write script, produces PURE cringe](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-toyota-220x180.jpg)](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
+
+[Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyc-queens-streets-220x180.jpg)](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
+
+[Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-karen-brinson-bell-220x180.png)](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
+
+[North Carolina scrubs 747,000 from voter rolls amid GOP lawsuit](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/state-of-california-220x180.jpg)](https://americanwirenews.com/newsom-signs-reparations-bill-as-california-formally-apologizes-for-slavery/)
+
+[Newsom signs reparations bill as California formally apologizes for slavery](https://americanwirenews.com/newsom-signs-reparations-bill-as-california-formally-apologizes-for-slavery/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-signing-220x180.jpg)](https://americanwirenews.com/biden-refers-to-kamala-as-boss-and-slams-secretary-j-d-vance-with-false-accusation-in-rambling-remarks/)
+
+[Biden refers to Kamala as ‘boss’ and slams ‘secretary’ J.D. Vance with false accusation in rambling remarks](https://americanwirenews.com/biden-refers-to-kamala-as-boss-and-slams-secretary-j-d-vance-with-false-accusation-in-rambling-remarks/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fox-weather-220x180.png)](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
+
+[Fox meteorologist rescues Atlanta woman trapped in car while reporting on hurricane](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-ship-220x180.jpg)](https://americanwirenews.com/sabotage-shocker-shipbuilding-company-suspects-faulty-welds-were-done-intentionally-on-us-navy-subs/)
 
@@ -141,38 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-chimpanzee-220x180.jpg)](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
 
 [Research facility destroyed by locals after trained Chimp steals and brutally murders human baby](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mark-cuban-3-220x180.jpg)](https://americanwirenews.com/mark-cuban-claims-hes-no-longer-a-trump-fan-because-he-wouldnt-take-his-advice-i-literally-told-him/)
-
-[Mark Cuban claims he’s no longer a Trump fan because he wouldn’t take his advice: ‘I literally told him…’](https://americanwirenews.com/mark-cuban-claims-hes-no-longer-a-trump-fan-because-he-wouldnt-take-his-advice-i-literally-told-him/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-plane-altercation-220x180.jpg)](https://americanwirenews.com/woman-accused-of-stealing-from-erratic-man-in-viral-plane-confrontation-gives-her-side-of-the-story/)
-
-[Woman accused of ‘stealing’ from ‘erratic’ man in viral plane confrontation gives her side of the story](https://americanwirenews.com/woman-accused-of-stealing-from-erratic-man-in-viral-plane-confrontation-gives-her-side-of-the-story/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-soros-220x180.jpg)](https://americanwirenews.com/ramaswamy-rips-chummy-images-of-alex-soros-and-tim-walz-can-see-the-puppet-master-pulling-the-strings/)
-
-[Ramaswamy rips chummy images of Alex Soros and Tim Walz: ‘Can see the puppet master pulling the strings’](https://americanwirenews.com/ramaswamy-rips-chummy-images-of-alex-soros-and-tim-walz-can-see-the-puppet-master-pulling-the-strings/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tapper-cuban-220x180.jpg)](https://americanwirenews.com/peak-gaslighting-mark-cuban-tells-cnns-tapper-that-trumps-a-socialist/)
-
-[Peak gaslighting: Mark Cuban tells CNN’s Tapper that Trump’s a socialist](https://americanwirenews.com/peak-gaslighting-mark-cuban-tells-cnns-tapper-that-trumps-a-socialist/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-speech-220x180.jpg)](https://americanwirenews.com/trump-puts-iran-on-notice-over-alleged-assassination-plot-as-chilling-video-emerges-if-i-were-the-president/)
-
-[Trump puts Iran on notice over alleged assassination plot as chilling video emerges](https://americanwirenews.com/trump-puts-iran-on-notice-over-alleged-assassination-plot-as-chilling-video-emerges-if-i-were-the-president/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-speech-220x180.jpg)](https://americanwirenews.com/biden-welcomes-world-leaders-to-washington-but-oops-theres-a-slight-problem/)
-
-[Biden welcomes world leaders to Washington, but oops, there’s a slight problem](https://americanwirenews.com/biden-welcomes-world-leaders-to-washington-but-oops-theres-a-slight-problem/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-martha-rfkjr1-1200-x-628-220x180.jpg)](https://americanwirenews.com/martha-asks-rfk-jr-if-he-has-any-regrets-over-inappropriate-relationship-with-reporter-story/)
-
-[Martha asks RFK Jr. if he has any regrets over ‘inappropriate relationship’ with reporter story](https://americanwirenews.com/martha-asks-rfk-jr-if-he-has-any-regrets-over-inappropriate-relationship-with-reporter-story/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-ukraine-220x180.jpg)](https://americanwirenews.com/biden-joins-the-view-sparks-big-controversy-over-what-hes-wearing/)
-
-[Biden joins ‘The View,’ sparks big controversy over what he’s wearing](https://americanwirenews.com/biden-joins-the-view-sparks-big-controversy-over-what-hes-wearing/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
