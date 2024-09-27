@@ -37,6 +37,12 @@ Main Menu
 
 * [Home](https://www.appstate.edu/)
 
+* Safety Advisory
+    
+    AppStateALERT Boone: Life threatening flooding and high winds are on-going around the area. Do not travel. Remain indoors at a safe location.
+    
+    Posted at 8:37am on September 27, 2024 via Rave.
+    
 * Adverse Weather Update: Sept. 26, 2024
     
     Classes scheduled to meet on the Boone and Hickory campuses from 12:15 p.m. Thursday, Sept. 26 through 5 p.m. Friday, Sept. 27 will meet online. [Condition 2 (Suspended Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) is in effect for non-faculty employees from 12:15 p.m. Thursday, Sept. 26 through 5 p.m. Friday, Sept. 27. [Read full message](https://appstatealert.com/)
