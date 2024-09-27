@@ -4,9 +4,9 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[83°
+[80°
 
-![Partly Cloudy / Windy](/pf/resources/images/weather/status-icons/29.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Light Rain / Windy](/pf/resources/images/weather/status-icons/11.png?d=859)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
@@ -101,7 +101,7 @@ Sections
     * [Around Town](https://www.actionnewsjax.com/more/around-town/)
     
 
-Action News Jax 24/7 News
+Action News Jax Weather 24/7
 
 Resize:
 
