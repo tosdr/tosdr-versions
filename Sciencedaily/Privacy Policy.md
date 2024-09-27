@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* ['Weekend Warrior?' Protection Against Disease](https://www.sciencedaily.com/releases/2024/09/240926132037.htm)
+* [Pollution's Impact On Arctic Atmosphere](https://www.sciencedaily.com/releases/2024/09/240925143912.htm)
 * [Simple Way to Maintain Social Cooperation](https://www.sciencedaily.com/releases/2024/09/240926132048.htm)
 * [Earth, 8 Billion Years from Now](https://www.sciencedaily.com/releases/2024/09/240926132019.htm)
 * [Most Detailed Infrared Map of Our Milky Way](https://www.sciencedaily.com/releases/2024/09/240926131953.htm)
@@ -216,8 +218,6 @@ this hour
 * [More Extreme Weather Patterns in Our Future](https://www.sciencedaily.com/releases/2024/09/240925122850.htm)
 * [How Cranes Navigate Their Complex World](https://www.sciencedaily.com/releases/2024/09/240923151634.htm)
 * [Ill-Fated 1845 Franklin Expedition](https://www.sciencedaily.com/releases/2024/09/240924123035.htm)
-* [Hemophilia B: Single-Dose Gene Therapy](https://www.sciencedaily.com/releases/2024/09/240925172115.htm)
-* [Deep Sea: Life in the Twilight Zone](https://www.sciencedaily.com/releases/2024/09/240925123650.htm)
 
 Trending Topics
 ---------------
@@ -236,11 +236,11 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Stars](https://www.sciencedaily.com/news/space_time/stars/)
-
 [NASA](https://www.sciencedaily.com/news/space_time/nasa/)
 
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
+
+[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
