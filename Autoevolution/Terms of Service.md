@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Farewell Daniel: The Comedic Prince of Formula 1 Who Should Have Been King](https://s1.cdn.autoevolution.com/images/news/farewell-daniel-the-comedic-prince-of-formula-1-who-should-have-been-king-240421-5.jpg "Farewell Daniel: The Comedic Prince of Formula 1 Who Should Have Been King")
+[![Speed Is Back on the Menu With a New GT7 Challenge](https://s1.cdn.autoevolution.com/images/news/speed-is-back-on-the-menu-with-a-new-gt7-challenge-240446-5.jpg "Speed Is Back on the Menu With a New GT7 Challenge")
 
-Farewell Daniel: The Comedic Prince of Formula 1 Who Should Have Been King](https://www.autoevolution.com/news/farewell-daniel-the-comedic-prince-of-formula-1-who-should-have-been-king-240421.html)
+Speed Is Back on the Menu With a New GT7 Challenge](https://www.autoevolution.com/news/speed-is-back-on-the-menu-with-a-new-gt7-challenge-240446.html)
 
 how-to \_
 
