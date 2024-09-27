@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Donald Trump and the voters of America](https://independentaustralia.net/article-display/donald-trump-and-the-voters-of-america,18993)
+[The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012)
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[A more effective Australian electoral system is long overdue](https://independentaustralia.net/article-display/politics-display/a-more-effective-australian-electoral-system-is-long-overdue,18994)
+[Drone technology transforming Australian agriculture](https://independentaustralia.net/article-display/politics-display/drone-technology-transforming-australian-agriculture,19014)
 
-[Under cloud of secrecy, U.S. weaponises Western Australia](https://independentaustralia.net/article-display/under-cloud-of-secrecy-us-weaponises-western-australia,18991)
+[Mining industry launches brazen attack on Government](https://independentaustralia.net/article-display/mining-industry-launches-brazen-attack-on-government,19010)
 
-[Presidential Election to determine future of Australia-U.S. relations](https://independentaustralia.net/article-display/presidential-election-to-determine-future-of-australia-us-relations,18988)
+[Albanese's move to protect kids from social media 'problematic'](https://independentaustralia.net/article-display/albaneses-move-to-protect-kids-from-social-media-problematic,19009)
 
 Comments Policy
 
@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012 "Permanent Link : The Murdoch family distrust")
+* [BOOK REVIEW: Always Was, Always Will Be](https://independentaustralia.net/article-display/book-review-always-was-always-will-be,19016 "Permanent Link : BOOK REVIEW: Always Was, Always Will Be")
+* [Robodebt response stirs Saturday Paper stoush](https://independentaustralia.net/article-display/robodebt-response-stirs-saturday-paper-stoush,19015 "Permanent Link : Robodebt response stirs Saturday Paper stoush")
 * [CARTOONS: Albo juggles the household Bills](https://independentaustralia.net/article-display/cartoons-albo-juggles-the-household-bills,18997 "Permanent Link : CARTOONS: Albo juggles the household Bills")
 * [Drone technology transforming Australian agriculture](https://independentaustralia.net/article-display/drone-technology-transforming-australian-agriculture,19014 "Permanent Link : Drone technology transforming Australian agriculture")
 * [EDITORIAL: The Murdoch family distrust](https://independentaustralia.net/article-display/editorial-the-murdoch-family-distrust,19011 "Permanent Link : EDITORIAL: The Murdoch family distrust")
 * [Mining industry launches brazen attack on Government](https://independentaustralia.net/article-display/mining-industry-launches-brazen-attack-on-government,19010 "Permanent Link : Mining industry launches brazen attack on Government")
-* [Albanese's move to protect kids from social media 'problematic'](https://independentaustralia.net/article-display/albaneses-move-to-protect-kids-from-social-media-problematic,19009 "Permanent Link : Albanese's move to protect kids from social media 'problematic'")
-* [New book affirms need to save humanity from climate crisis](https://independentaustralia.net/article-display/new-book-affirms-need-to-save-humanity-from-climate-crisis,19008 "Permanent Link : New book affirms need to save humanity from climate crisis")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
