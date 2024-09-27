@@ -12,7 +12,7 @@
     *  [Steve's Old Resume](https://www.grc.com/resume.htm)
 
 * [![[Products]](/mb-products.gif)](https://www.grc.com/sr/spinrite.htm)
-    *  [**\= Upgrade to v6.1 =**](https://www.grc.com/upgrade.htm)
+    *  [**Upgrade SpinRite**](https://www.grc.com/upgrade.htm)
     *  [What is SpinRite?](https://www.grc.com/sr/spinrite.htm)
     *  [What SpinRite Does](https://www.grc.com/sr/whatitdoes.htm)
     *  [User Manual](https://www.grc.com/sr/user-manual.htm)
@@ -210,10 +210,10 @@ To return to the previous page, press your browser's **BACK** button.
 
 |     |     |     |
 | --- | --- | --- |
-| [![Jump to top of page](https://www.grctech.com/_gx4vvtdxtx3lp_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_gx4vvtdxtx3lp_/image/jumptotop.png "Jump to top of page")](#top) |
+| [![Jump to top of page](https://www.grctech.com/_bhezknzknfhzn_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_bhezknzknfhzn_/image/jumptotop.png "Jump to top of page")](#top) |
 
   
 
 |     |     |
 | --- | --- |
-| Last Edit: Mar 28, 2008 at 06:46 (6,027.01 days ago) | Viewed 45 times per day |
+| Last Edit: Mar 28, 2008 at 06:46 (6,027.27 days ago) | Viewed 45 times per day |
