@@ -542,15 +542,7 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
- 
-
-[Use promo code FALLHARVEST24 to get a 3-credit course for $399! Now through September 26.](http://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=&partner=&bundle=&srch=&nat=false) [Register Now >>](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=OL&partner=&bundle=&srch=&nat=false)
-
-![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
-
-![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
-
-                                            
+                                      
 
 What are you looking for?
 
