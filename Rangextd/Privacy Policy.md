@@ -342,17 +342,21 @@ Our latest blog posts
 
 [View all](https://www.rangextd.com/blogs/news) 
 
-* ### September 27 2024, by Author Article title
+* ![Stay Fresh and Clean Anywhere with the Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/articles/Blaux_Bidet_df6e2139-ec83-4df3-9ddd-3bcc25082a25.gif?v=1727433822)
     
-    Read more 
+    ### Stay Fresh and Clean Anywhere with the Blaux Portable Bidet
     
-* ### September 27 2024, by Author Article title
+    Colin S. - Health-Conscious Dad Let’s talk about something you might not think about until it’s too late—staying fresh and clean when you have to...
     
-    Read more 
+    [Read more](https://www.rangextd.com/blogs/news/stay-fresh-and-clean-anywhere-with-the-blaux-portable-bidet) 
     
-* ### September 27 2024, by Author Article title
+* ![Why the Starscope Monocular is Perfect for Outdoor Sightseeing?](//savvysmartdeals.com/cdn/shop/articles/sec04.jpg?v=1727431468)
     
-    Read more 
+    ### Why the Starscope Monocular is Perfect for Outdoor Sightseeing?
+    
+    Sammuel L. - Nature enthusiast As someone who loves the outdoors and exploring nature—whether it's hiking up a new trail, catching a sunrise from a...
+    
+    [Read more](https://www.rangextd.com/blogs/news/why-the-starscope-monocular-is-perfect-for-outdoor-sightseeing) 
     
 
 [View all](https://www.rangextd.com/blogs/news) 
