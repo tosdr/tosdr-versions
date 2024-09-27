@@ -18,10 +18,10 @@ Shop the [Fall Sale](https://www.arlo.com/en-us/fall-sale "Fall Sale") and get u
     * [Order Status](https://www.arlo.com/en-us/orderstatus)
     * [My Arlo Dashboard](https://my.arlo.com/)
     
-* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw92ebb612/images/assets/images/navigation/search.png)](# " ")
+* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dwe619d7ed/images/assets/images/navigation/search.png)](# " ")
 * [0
     
-    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dwa62b48ec/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
+    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dw0f7cac65/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
 
 ### Security System
 
@@ -122,7 +122,7 @@ Wired/Wireless Setup
 
 From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
-[Shop & Compare Doorbells](https://www.arlo.com/en-us/doorbell)
+[Shop Doorbells](https://www.arlo.com/en-us/doorbell)
 
 ### Floodlights
 
@@ -251,7 +251,7 @@ Wired/Wireless Setup
 
 From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
-[Shop & Compare Doorbells](https://www.arlo.com/en-us/doorbell)
+[Shop Doorbells](https://www.arlo.com/en-us/doorbell)
 
 [### Floodlights](https://www.arlo.com/en-us/light "null")
 
@@ -405,7 +405,7 @@ Security Plans
             From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
             
         
-        [Shop & Compare Doorbells](https://www.arlo.com/en-us/doorbell)
+        [Shop Doorbells](https://www.arlo.com/en-us/doorbell)
         
     * [### Floodlights](https://www.arlo.com/en-us/search?cgid=undefined "null")
         
