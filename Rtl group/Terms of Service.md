@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-A new UFA unit](/.galleries/images/UFA-Mitte_16-9.png?__scale=undefined&description=)
+    
+    A new UFA unit
+    
+    27.09.2024
+    
+    UFA establishes UFA Mitte GmbH in central Germany, aiming to continue successful formats and develop new content in the region.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-UFA-unit/)
+    
 * [![slide-Four wins at the German Television Awards](/.galleries/images/German-Television-Awards-2024_16-9.png?__scale=undefined&description=)
     
     Four wins at the German Television Awards
