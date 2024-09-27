@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Compassion
+
+### ‘We’re going to take care of you.’ Marine Corps museum offers veterans respite.](https://www.csmonitor.com/USA/Military/2024/0927/marine-corps-museum-ptsd-iraq-afghanistan "‘We’re going to take care of you.’ Marine Corps museum offers veterans respite.")
+
 [Forgiveness
 
 ### Mercy’s role against human smuggling](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0926/Mercy-s-role-against-human-smuggling "Mercy’s role against human smuggling")
@@ -99,10 +103,6 @@ Recent Stories
 [Justice
 
 ### Ten years after 43 students disappeared, Mexican parents still seek the truth](https://www.csmonitor.com/World/Americas/2024/0926/Mexico-43-disappeared-students-protests-truth "Ten years after 43 students disappeared, Mexican parents still seek the truth")
-
-[Community
-
-### The ‘other’ Alaska cruise: Got a week? Pitch your tent on deck.](https://www.csmonitor.com/The-Culture/2024/0925/alaska-marine-highway-system-ferry-cruise "The ‘other’ Alaska cruise: Got a week? Pitch your tent on deck.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
