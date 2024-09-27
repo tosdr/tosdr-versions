@@ -266,22 +266,6 @@ Most Popular
 [Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast")](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Irish man out for beach stroll stunned as Nessie-like creature emerges just yards off coast](https://www.derrynow.com/news/national-news/1615186/irish-man-out-for-beach-stroll-stunned-as-nessie-like-creature-emerges-just-yards-off-coast.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Main road between Derry and Limavady closed to traffic following crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Main road between Derry and Limavady closed to traffic following crash")](https://www.derrynow.com/news/home/1615076/main-road-between-derry-and-limavady-closed-to-traffic-following-crash.html)
-
-The PSNI are advising motorists to avoid the Clooney Road.
-
-[Home](https://www.derrynow.com/)
-
-[Main road between Derry and Limavady closed to traffic following crash](https://www.derrynow.com/news/home/1615076/main-road-between-derry-and-limavady-closed-to-traffic-following-crash.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man charged with possessing £39,000 worth of drugs to appear in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing £39,000 worth of drugs to appear in Derry court")](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
 
 PSNI
@@ -291,19 +275,21 @@ PSNI
 [Man charged with possessing £39,000 worth of drugs to appear in Derry court](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Clooney Road between Derry and Limavady closed due to road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clooney Road between Derry and Limavady closed due to road traffic collision")](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
+[![Accountant pleads guilty to fraud charges at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Accountant pleads guilty to fraud charges at Derry Crown Court")](https://www.derrynow.com/news/local-news/1615832/accountant-pleads-guilty-to-fraud-charges-at-derry-crown-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[UPDATE: Clooney Road between Derry and Limavady closed due to road traffic collision](https://www.derrynow.com/news/local-news/1615079/clooney-road-between-derry-and-limavady-closed-due-to-road-traffic-collision.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Accountant pleads guilty to fraud charges at Derry Crown Court](https://www.derrynow.com/news/local-news/1615832/accountant-pleads-guilty-to-fraud-charges-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: St Joseph's Boys School Senior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Joseph's Boys School Senior Prizegiving")](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
+[!['Our hearts are broken' - Magherafelt boy Tony Fitzpatrick has sadly passed away](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Our hearts are broken' - Magherafelt boy Tony Fitzpatrick has sadly passed away")](https://www.derrynow.com/news/home/1616039/our-hearts-are-broken-magherafelt-boy-tony-fitzpatrick-has-sadly-passed-away.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Tony Fitzpatrick passed away this morning.
 
-[PICTURES: St Joseph's Boys School Senior Prizegiving](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Our hearts are broken' - Magherafelt boy Tony Fitzpatrick has sadly passed away](https://www.derrynow.com/news/home/1616039/our-hearts-are-broken-magherafelt-boy-tony-fitzpatrick-has-sadly-passed-away.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
 
@@ -312,12 +298,23 @@ PSNI
 [Derry Death Notices - Friday, 27th September 2024](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Motorists advised of possible traffic disruption around Derry this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists advised of possible traffic disruption around Derry this weekend")](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
+[![County Derry man charged with three indecent assaults against two males jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with three indecent assaults against two males jailed")](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
+
+Derry Crown Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Motorists advised of possible traffic disruption around Derry this weekend](https://www.derrynow.com/news/local-news/1615073/motorists-advised-of-possible-traffic-disruption-around-derry-this-weekend.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry man charged with three indecent assaults against two males jailed](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (19) charged with non-fatal strangulation of his mother in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (19) charged with non-fatal strangulation of his mother in Derry court")](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
+
+Derry Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (19) charged with non-fatal strangulation of his mother in Derry court](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket")](https://www.derrynow.com/news/local-news/1615748/suspended-sentence-for-derry-man-who-stole-6-40-worth-of-dragon-soop-from-supermarket.html)
 
@@ -326,20 +323,32 @@ PSNI
 [Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket](https://www.derrynow.com/news/local-news/1615748/suspended-sentence-for-derry-man-who-stole-6-40-worth-of-dragon-soop-from-supermarket.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Case against Derry man charged with arson in which three dogs died adjourned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Case against Derry man charged with arson in which three dogs died adjourned")](https://www.derrynow.com/news/local-news/1614887/case-against-derry-man-charged-with-arson-in-which-three-dogs-died-adjourned.html)
-
-Derry Magistrate's Court
+[![£2.6million Active Travel scheme for busy Ballykelly road set to commence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£2.6million Active Travel scheme for busy Ballykelly road set to commence")](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Case against Derry man charged with arson in which three dogs died adjourned](https://www.derrynow.com/news/local-news/1614887/case-against-derry-man-charged-with-arson-in-which-three-dogs-died-adjourned.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[£2.6million Active Travel scheme for busy Ballykelly road set to commence](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested in Eglinton following drugs seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Eglinton following drugs seizure")](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested in Eglinton following drugs seizure](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1615902/in-pictures-mayor-attends-women-s-health-check-event-in-derry-s-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1615902/in-pictures-mayor-attends-women-s-health-check-event-in-derry-s-guildhall.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: St Joseph's Boys School Senior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Joseph's Boys School Senior Prizegiving")](https://www.derrynow.com/news/pictures---videos/1613747/pictures-st-joseph-s-boys-school-senior-prizegiving.html)
 
@@ -405,13 +414,6 @@ Elodie Bateson from Limavady
 
 [IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar](https://www.derrynow.com/story-telling/pictures---videos/1612806/in-pictures-sarah-duffy-s-18th-birthday-celebrations-in-derry-s-collon-bar.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Official opening of the Peacemakers Museum in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official opening of the Peacemakers Museum in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Official opening of the Peacemakers Museum in Derry](https://www.derrynow.com/story-telling/pictures---videos/1612807/in-pictures-official-opening-of-the-peacemakers-museum-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,51 +515,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man arrested in Eglinton following drugs seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Eglinton following drugs seizure")](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
+[![55-year-old Derry man sentenced for five counts of child cruelty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
+
+Newry court house
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man arrested in Eglinton following drugs seizure](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court")](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
+[![Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday")](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man charged with three indecent assaults against two males jailed](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "County Derry man charged with three indecent assaults against two males jailed")](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
-
-Derry Crown Court
+[![Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](https://www.derrynow.com/resizer/165/93/true/2024_09_27/MixCollage-27-Sep-2024-11-04-AM-3826-1727431533672.jpg--.jpg?1727431533732 "Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire")](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man charged with three indecent assaults against two males jailed](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police appeal after quad stolen in Claudy](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police appeal after quad stolen in Claudy")](https://www.derrynow.com/news/local-news/1615795/police-appeal-after-quad-stolen-in-claudy.html)
+[![Human Rights Commission runs workshop at Derry's NWRC](https://www.derrynow.com/resizer/165/93/true/2024_09_27/NWRC_Sept_2024-1727437153559.jpeg--.jpeg?1727437154235 "Human Rights Commission runs workshop at Derry's NWRC")](https://www.derrynow.com/news/local-news/1615898/human-rights-commission-runs-workshop-at-derry-s-nwrc.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police appeal after quad stolen in Claudy](https://www.derrynow.com/news/local-news/1615795/police-appeal-after-quad-stolen-in-claudy.html)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Domestic abuse survivor urges other women to seek justice](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_27/1727391913161_0.jpg--.jpg?1727391913226 "Domestic abuse survivor urges other women to seek justice")](https://www.derrynow.com/news/local-news/1615765/domestic-abuse-survivor-urges-other-women-to-seek-justice.html)
+Staff and students from North West Regional College with members of the Northern Ireland Human Rights Commission
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Domestic abuse survivor urges other women to seek justice](https://www.derrynow.com/news/local-news/1615765/domestic-abuse-survivor-urges-other-women-to-seek-justice.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Human Rights Commission runs workshop at Derry's NWRC](https://www.derrynow.com/news/local-news/1615898/human-rights-commission-runs-workshop-at-derry-s-nwrc.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (19) charged with non-fatal strangulation of his mother in Derry court](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man (19) charged with non-fatal strangulation of his mother in Derry court")](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
-
-Derry Court
+[![Man (35) has bail revoked for attempting to make contact with former partner](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_15038710.jpg--.jpg "Man (35) has bail revoked for attempting to make contact with former partner")](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man (19) charged with non-fatal strangulation of his mother in Derry court](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (35) has bail revoked for attempting to make contact with former partner](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Zachary Geddis Break the Silence Trust welcomes Minister of Health to Mental Health Hub](https://www.derrynow.com/resizer/165/93/true/2024_09_27/Mike_Nesbitt%2C_Health_Minister_for_NI-1727444661866_1727444753.jpg--.jpg?1727444753191 "Zachary Geddis Break the Silence Trust welcomes Minister of Health to Mental Health Hub")](https://www.derrynow.com/news/home/1616075/zachary-geddis-break-the-silence-trust-welcomes-minister-of-health-to-mental-health-hub.html)
+
+Health Minister Mike Nesbitt pictured with Yasmin Geddis, Founder of ZGBTST and Louise Geddis, CEO, ZGBTST.
+
+[Home](https://www.derrynow.com/)
+
+[Zachary Geddis Break the Silence Trust welcomes Minister of Health to Mental Health Hub](https://www.derrynow.com/news/home/1616075/zachary-geddis-break-the-silence-trust-welcomes-minister-of-health-to-mental-health-hub.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
