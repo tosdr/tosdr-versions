@@ -296,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
+Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
 
 ### Potter History
 
-June 4, 2012 – Sony unveils Wonderbook: Book of Spells at the Electronic Entertainment Expo in Los Angeles.
+April 15, 2011 – Harry Potter and the Deathly Hallows – Part 1 is released on Blu-ray and DVD in the United States.
 
 ### Potter Quote
 
-“She has eyes just like a salamander.”
+“This little beauty’s taught us more than all the teachers in this school.”
 
 [](#)
 
