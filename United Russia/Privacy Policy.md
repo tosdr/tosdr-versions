@@ -299,7 +299,39 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Ирина Яровая: Законопроект о едином плане работы для вожатых в детских лагерях повысит качество, содержательность и безопасность детского отдыха](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/irina-yarovaya-zakonoproekt-o-edinom-plane-raboty-dlya-vozhatyh-v-detskih-lageryah-povysit-kachestvo-soderzhatelnost-i-bezopasnost-detskogo-otdyha)
+[![Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://cdn.er.ru/media/news/September2024/XcMvtyKmYluuDr09PoGC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
+
+[Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кировская область](https://er.ru/activity/news?tags%5B0%5D=6033) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) ["#съездЕР"](https://er.ru/activity/news?tags%5B0%5D=1092161) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Соколов](https://er.ru/activity/news?tags%5B0%5D=5287)
+
+Сегодня 18:04
+
+[![Владимир Якушев: В России должно появляться больше реабилитационных центров для участников СВО, подобных открытому в Кировской области](https://cdn.er.ru/media/news/September2024/qrW4C4mHdUXjIUxXhDwR-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-rossii-dolzhno-poyavlyatsya-bolshe-reabilitacionnyh-centrov-dlya-uchastnikov-svo-podobnyh-otkrytomu-v-kirovskoj-oblasti)
+
+[Владимир Якушев: В России должно появляться больше реабилитационных центров для участников СВО, подобных открытому в Кировской области](https://er.ru/activity/news/vladimir-yakushev-v-rossii-dolzhno-poyavlyatsya-bolshe-reabilitacionnyh-centrov-dlya-uchastnikov-svo-podobnyh-otkrytomu-v-kirovskoj-oblasti)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Азимов](https://er.ru/activity/news?tags%5B0%5D=85026) [#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#ФондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094096) [#Кировская область](https://er.ru/activity/news?tags%5B0%5D=6033) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#Соколов](https://er.ru/activity/news?tags%5B0%5D=5287) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 16:25
+
+[![«Молодая Гвардия Единой России» поздравила воспитателей по всей стране с профессиональным праздником](https://cdn.er.ru/media/news/September2024/sIeoiOrRXlm67PtAtt5I-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-vospitatelej-po-vsej-strane-s-professionalnym-prazdnikom)
+
+[«Молодая Гвардия Единой России» поздравила воспитателей по всей стране с профессиональным праздником](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-vospitatelej-po-vsej-strane-s-professionalnym-prazdnikom)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Деньвоспитателя](https://er.ru/activity/news?tags%5B0%5D=110796) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 16:02
+
+[![Активисты МГЕР и «Волонтёрской Роты» вышли к посольствам США и Великобритании с напоминанием западным странам о выборе жителей Донбасса и Новороссии на референдумах 2022 года](https://cdn.er.ru/media/news/September2024/hFWtlYnNQ7vVIrsnsZNm-small.JPG)](https://er.ru/activity/news/aktivisty-mger-i-volontyorskoj-roty-vyshli-k-posolstvam-ssha-i-velikobritanii-s-napominaniem-zapadnym-stranam-o-vybore-zhitelej-donbassa-i-novorossii-na-referendumah-2022-goda)
+
+[Активисты МГЕР и «Волонтёрской Роты» вышли к посольствам США и Великобритании с напоминанием западным странам о выборе жителей Донбасса и Новороссии на референдумах 2022 года](https://er.ru/activity/news/aktivisty-mger-i-volontyorskoj-roty-vyshli-k-posolstvam-ssha-i-velikobritanii-s-napominaniem-zapadnym-stranam-o-vybore-zhitelej-donbassa-i-novorossii-na-referendumah-2022-goda)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Донбасс](https://er.ru/activity/news?tags%5B0%5D=58931) [#Новороссия](https://er.ru/activity/news?tags%5B0%5D=61059) [#воссоединение](https://er.ru/activity/news?tags%5B0%5D=55922) [#референдум](https://er.ru/activity/news?tags%5B0%5D=389) [#Лебедев](https://er.ru/activity/news?tags%5B0%5D=2106) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#акция](https://er.ru/activity/news?tags%5B0%5D=238)
+
+Сегодня 14:45
+
+[![Ирина Яровая: Законопроект о едином плане работы для вожатых в детских лагерях повысит качество, содержательность и безопасность детского отдыха](https://cdn.er.ru/media/news/September2024/fOp40hUW0iBMvbr2ldEc-small.jfif)](https://er.ru/activity/news/irina-yarovaya-zakonoproekt-o-edinom-plane-raboty-dlya-vozhatyh-v-detskih-lageryah-povysit-kachestvo-soderzhatelnost-i-bezopasnost-detskogo-otdyha)
 
 [Ирина Яровая: Законопроект о едином плане работы для вожатых в детских лагерях повысит качество, содержательность и безопасность детского отдыха](https://er.ru/activity/news/irina-yarovaya-zakonoproekt-o-edinom-plane-raboty-dlya-vozhatyh-v-detskih-lageryah-povysit-kachestvo-soderzhatelnost-i-bezopasnost-detskogo-otdyha)
 
@@ -314,38 +346,6 @@
 [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895)
 
 Сегодня 10:35
-
-[![«Единая Россия» проводит по всей стране единый день приёмов родителей дошкольников](https://cdn.er.ru/media/news/September2024/cD8vvSiYlYEmleCKFLIR-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-po-vsej-strane-edinyj-den-priyomov-roditelej-doshkolnikov)
-
-[«Единая Россия» проводит по всей стране единый день приёмов родителей дошкольников](https://er.ru/activity/news/edinaya-rossiya-provodit-po-vsej-strane-edinyj-den-priyomov-roditelej-doshkolnikov)
-
-[#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#дошкольники](https://er.ru/activity/news?tags%5B0%5D=28780) [#обращения](https://er.ru/activity/news?tags%5B0%5D=13668)
-
-Сегодня 08:00
-
-[![«Женское движение Единой России» организовало онлайн-сессию политшколы, посвящённую анализу проведения выборных кампаний](https://cdn.er.ru/media/news/September2024/VSy2qCadTv9gDaijDcKt-small.jpg)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-organizovalo-onlajn-sessiyu-politshkoly-posvyashyonnuyu-analizu-provedeniya-vybornyh-kampanij)
-
-[«Женское движение Единой России» организовало онлайн-сессию политшколы, посвящённую анализу проведения выборных кампаний](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-organizovalo-onlajn-sessiyu-politshkoly-posvyashyonnuyu-analizu-provedeniya-vybornyh-kampanij)
-
-[#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#профобразование](https://er.ru/activity/news?tags%5B0%5D=44) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001)
-
-26.09.24
-
-[![Госдума приняла в первом чтении законопроект «Единой России» о запрете продажи несовершеннолетним товаров со сжиженным газом](https://cdn.er.ru/media/news/September2024/MNrZKPswB2p5e2TsSglo-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-prodazhi-nesovershennoletnim-tovarov-so-szhizhennym-gazom)
-
-[Госдума приняла в первом чтении законопроект «Единой России» о запрете продажи несовершеннолетним товаров со сжиженным газом](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zaprete-prodazhi-nesovershennoletnim-tovarov-so-szhizhennym-gazom)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863)
-
-26.09.24
-
-[![Александр Сидякин: Георгий Филимонов оправдает кредит доверия, который ему выразили вологжане](https://cdn.er.ru/media/news/September2024/dQEz1eCuTvWzp03Xv5ZR-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-georgij-filimonov-opravdaet-kredit-doveriya-kotoryj-emu-vyrazili-vologzhane)
-
-[Александр Сидякин: Георгий Филимонов оправдает кредит доверия, который ему выразили вологжане](https://er.ru/activity/news/aleksandr-sidyakin-georgij-filimonov-opravdaet-kredit-doveriya-kotoryj-emu-vyrazili-vologzhane)
-
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Филимонов](https://er.ru/activity/news?tags%5B0%5D=13401) [#инаугурация](https://er.ru/activity/news?tags%5B0%5D=3430) [#Вологодская область](https://er.ru/activity/news?tags%5B0%5D=4193)
-
-26.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
