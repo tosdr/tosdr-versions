@@ -189,6 +189,8 @@ Back to top
         
     * [Careers advice](https://www.tes.com/jobs/careers-advice)
         
+    * [Recruitment services](https://www.tes.com/for-schools/staff-management/education-recruitment)
+        
     
 * [Magazine](https://www.tes.com/magazine) Open
     
