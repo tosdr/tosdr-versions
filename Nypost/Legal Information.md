@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Maggie Smith, Oscar-winning 'Harry Potter' and 'Downton Abbey' star, dead at 89](https://nypost.com/2024/09/27/entertainment/maggie-smith-dead-at-89/)
+[Mayor Adams’ chief adviser Ingrid Lewis-Martin has phone seized at airport](https://nypost.com/2024/09/27/us-news/mayor-adams-chief-adviser-ingrid-lewis-martin-has-phone-seized-at-airport/)
 
 Privacy Notice Highlights
 =========================
