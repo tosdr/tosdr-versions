@@ -475,33 +475,33 @@ Revised June 1, 2022
 
   [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
 
-[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
 
-  [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+  [![The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423948.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
 
-[How Taro Kono lost his mojo](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
+[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-  [![Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423871.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Digital minister Taro Kono, who is contesting the Liberal Democratic Party presidential election, shows a board saying "accomplishment of reformation" during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/kono-unpopularity/ "How Taro Kono lost his mojo")
-
-[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
-
-  [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
-
-[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
-
-  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
 [A first look inside the new Nintendo Museum](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
 
   [![The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423852.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.")](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
 
+[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+
+  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+
 [People of all ages and sizes scale new heights amid climbing boom in Japan](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
 
   [![A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423455.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.")](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
 
-[Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+[In need of rice and some Japanese words that describe necessity](https://www.japantimes.co.jp/life/2024/09/25/language/necessity-need-rice-japan/ "In need of rice and some Japanese words that describe necessity")
 
-  [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+  [![A farmer harvests rice in a paddy field in Tamba-Sasayama, Hyogo Prefecture, last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423005.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A farmer harvests rice in a paddy field in Tamba-Sasayama, Hyogo Prefecture, last month.")](https://www.japantimes.co.jp/life/2024/09/25/language/necessity-need-rice-japan/ "In need of rice and some Japanese words that describe necessity")
+
+[Does Sanae Takaichi have a real shot at becoming Japan's first female leader?](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
+
+  [![Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423785.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Economic security minister Sanae Takaichi, a candidate in the ruling Liberal Democratic Party’s presidential election, speaks during a debate in Tokyo on Sept. 14.")](https://www.japantimes.co.jp/news/2024/09/25/japan/politics/focus-on-takaichipolitics/ "Does Sanae Takaichi have a real shot at becoming Japan's first female leader?")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,17 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Suntory to raise monthly wages by 7% in 2025](https://www.japantimes.co.jp/business/2024/09/26/companies/suntory-monthly-wage-raise/ "Suntory to raise monthly wages by 7% in 2025")
+[China's newest nuclear-powered submarine sank this year, U.S. says](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
 
-10 hours ago
+5 mins ago
 
-[In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
+[A global hunt for neutral rates to shape world finance costs](https://www.japantimes.co.jp/business/2024/09/27/economy/global-neutral-world-finance/ "A global hunt for neutral rates to shape world finance costs")
 
-[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
+14 mins ago
 
-[CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/cdp-ishin-noda/ "CDP's Noda wants to court Nippon Ishin and DPP, but will he succeed?")
+[Sharp collaborates on wooden air purifier with architect Kengo Kuma](https://www.japantimes.co.jp/business/2024/09/27/companies/sharp-air-purifier-kengo-kuma/ "Sharp collaborates on wooden air purifier with architect Kengo Kuma")
 
-[Jeep’s compact EV debuts in Japan as imported EVs take the lead](https://www.japantimes.co.jp/business/2024/09/26/companies/jeep-compact-ev/ "Jeep’s compact EV debuts in Japan as imported EVs take the lead")
+26 mins ago
+
+[Musk's X seeks Brazil comeback, retreats on 'censorship' feud](https://www.japantimes.co.jp/business/2024/09/27/companies/musk-x-brazil-censorship-feud/ "Musk's X seeks Brazil comeback, retreats on 'censorship' feud")
+
+37 mins ago
+
+[Tokyo Electron prepares for India expansion as Modi lures chipmakers](https://www.japantimes.co.jp/business/2024/09/27/companies/tokyo-electron-prepares-for-india-expansion/ "Tokyo Electron prepares for India expansion as Modi lures chipmakers")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
