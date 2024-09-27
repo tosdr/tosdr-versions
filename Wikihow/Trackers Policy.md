@@ -138,23 +138,24 @@ Save settings
 
 ### Featured Articles
 
+[![You Do You Meaning](https://www.wikihow.com/images/thumb/f/f4/You-Do-You-Meaning-Step-9.jpg/-crop-126-120-126px-You-Do-You-Meaning-Step-9.jpg)
+
+What Exactly Does “You Do You” Mean?](https://www.wikihow.com/You-Do-You-Meaning)
+
+[![Get Six Pack Abs Fast](https://www.wikihow.com/images/thumb/4/4f/Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg/-crop-126-120-126px-Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg)
+
+How to  
+Get Six Pack Abs Fast](https://www.wikihow.com/Get-Six-Pack-Abs-Fast)
+
+[![Save Money as a Kid](https://www.wikihow.com/images/thumb/e/ec/Save-Money-as-a-Kid-Step-17-Version-2.jpg/-crop-126-120-126px-Save-Money-as-a-Kid-Step-17-Version-2.jpg)
+
+How to  
+Save Money as a Kid](https://www.wikihow.com/Save-Money-as-a-Kid)
+
 [![Get Longer Hair Fast](https://www.wikihow.com/images/thumb/8/87/Get-Longer-Hair-Fast-Step-17-Version-2.jpg/-crop-126-120-126px-Get-Longer-Hair-Fast-Step-17-Version-2.jpg)
 
 How to  
 Get Longer Hair Fast](https://www.wikihow.com/Get-Longer-Hair-Fast)
-
-[![Get Glowing Skin in Just One Week](https://www.wikihow.com/images/thumb/8/8c/Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg/-crop-126-120-126px-Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg)
-
-How to  
-Get Glowing Skin in Just One Week](https://www.wikihow.com/Get-Glowing-Skin-in-Just-One-Week)
-
-[![Deep Love Messages for Him](https://www.wikihow.com/images/thumb/1/1e/Deep-Love-Messages-for-Him-Step-16.jpg/-crop-126-120-126px-Deep-Love-Messages-for-Him-Step-16.jpg)
-
-170+ Deep, Heartfelt & Passionate Love Messages to Send Your Guy](https://www.wikihow.com/Deep-Love-Messages-for-Him)
-
-[![Dream Interpreter](https://www.wikihow.com/images/thumb/8/89/Have-the-Dreams-You-Want-Step-26-Version-2.jpg/-crop-126-120-126px-Have-the-Dreams-You-Want-Step-26-Version-2.jpg)
-
-What Does My Dream Mean Quiz](https://www.wikihow.com/Dream-Interpreter)
 
   
 
@@ -197,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-134
+137
