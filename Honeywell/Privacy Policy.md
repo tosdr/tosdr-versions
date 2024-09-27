@@ -227,6 +227,8 @@ Search
 
 You are browsing the product catalog for
 
+  Click the globe icon above to select a different country.
+
 /content/honeywellbt/us/en/search.html
 
 title
