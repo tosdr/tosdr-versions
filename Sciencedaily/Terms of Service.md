@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Simple Way to Maintain Social Cooperation](https://www.sciencedaily.com/releases/2024/09/240926132048.htm)
+* [Earth, 8 Billion Years from Now](https://www.sciencedaily.com/releases/2024/09/240926132019.htm)
+* [Most Detailed Infrared Map of Our Milky Way](https://www.sciencedaily.com/releases/2024/09/240926131953.htm)
+* [These Fish Use Legs to Taste the Seafloor](https://www.sciencedaily.com/releases/2024/09/240926132111.htm)
+* [Black Hole Beam Promotes Stellar Eruptions](https://www.sciencedaily.com/releases/2024/09/240926131925.htm)
+* [More Extreme Weather Patterns in Our Future](https://www.sciencedaily.com/releases/2024/09/240925122850.htm)
+* [How Cranes Navigate Their Complex World](https://www.sciencedaily.com/releases/2024/09/240923151634.htm)
 * [Ill-Fated 1845 Franklin Expedition](https://www.sciencedaily.com/releases/2024/09/240924123035.htm)
 * [Hemophilia B: Single-Dose Gene Therapy](https://www.sciencedaily.com/releases/2024/09/240925172115.htm)
 * [Deep Sea: Life in the Twilight Zone](https://www.sciencedaily.com/releases/2024/09/240925123650.htm)
-* [Extreme El Niño Events On the Upswing](https://www.sciencedaily.com/releases/2024/09/240925123647.htm)
-* [Gray Whales' Acrobatic Feeding Behavior](https://www.sciencedaily.com/releases/2024/09/240925143959.htm)
-* [Mars' Missing Atmosphere Hiding in Plain Sight?](https://www.sciencedaily.com/releases/2024/09/240925143940.htm)
-* [A Gene Can Flip to Code for a Different Protein](https://www.sciencedaily.com/releases/2024/09/240925123645.htm)
-* [World's Oldest Cheese Reveals Origins of Kefir](https://www.sciencedaily.com/releases/2024/09/240925122859.htm)
-* [How Special Is the Milky Way Galaxy?](https://www.sciencedaily.com/releases/2024/09/240925144014.htm)
-* [Can We Reach 2°C Climate Target?](https://www.sciencedaily.com/releases/2024/09/240925123600.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
-
 [Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
 
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
+
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
-
-[Space Missions](https://www.sciencedaily.com/news/space_time/space_missions/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
 [NASA](https://www.sciencedaily.com/news/space_time/nasa/)
 
-[ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+[Space Telescopes](https://www.sciencedaily.com/news/space_time/space_telescopes/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
 [Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
+
+[Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
   
 
