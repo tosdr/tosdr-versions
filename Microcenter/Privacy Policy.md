@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 10AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 10 to 9, Sun 11 to 6
         
@@ -487,7 +487,7 @@ Product category, brand navigation and general site naviation
         
     * Electronics
         
-        Electronics options - 12 groups of items - 65 total selections
+        Electronics options - 13 groups of items - 73 total selections
         
         * Televisions
             
@@ -513,6 +513,16 @@ Product category, brand navigation and general site naviation
             * [Digital Cameras](https://www.microcenter.com/category/4294966816,4294802743/digital-cameras)
             * [Camera Accessories](https://www.microcenter.com/category/4294966814/camera-accessories)
             * [Digital Picture Frames](https://www.microcenter.com/category/4294804340/digital-picture-frames)
+        * Printers & Scanners
+            
+            * [Inkjet Printers](https://www.microcenter.com/category/4294966829/inkjet-printers)
+            * [Laser Printers](https://www.microcenter.com/category/4294966828/laser-printers)
+            * [3D Printers](https://www.microcenter.com/category/4294828457/3d-printers)
+            * [Scanners](https://www.microcenter.com/category/4294966824/scanners)
+            * [Ink & Toner Finder](https://www.microcenter.com/site/products/ink-toner.aspx)
+            * [Inkjet Cartridges](https://www.microcenter.com/category/4294961535/inkjet-cartridges)
+            * [Laser Toner](https://www.microcenter.com/category/4294961537/toner-cartridges)
+            * [Filaments & Resins](https://www.microcenter.com/category/4294866996/filaments-and-resins)
         * Cell Phones & Accessories
             
             * [Cell Phones](https://www.microcenter.com/category/4294939905/cell-phones)
