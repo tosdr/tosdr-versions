@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![How to Dress a Pear Body Shape | 7 Tips & Hacks | The pear body shape is characterized by hips that are wider than the shoulders and bust, a defined waist, and proportionally slim arms and shoulders. Women with this body type often struggle to find skirts, pants, and jeans that fit well and balance out their body. If you want to learn how to accentuate your best features so you can create outfits that compliment your frame, we have everything you need in this post -- fashions Dos and Don'ts!](https://www.merakilane.com/wp-content/uploads/2024/09/9.png)](https://www.merakilane.com/how-to-dress-a-pear-body-shape-7-tips-hacks/)
+    [![13 Protective Hairstyles for Sleeping for All Hair Lengths | Protect your hair overnight with these 13 quick, easy, and cute protective styles! These simple sleeping hairstyles prevent breakage, frizz, and tangles, keeping your natural hair healthy and strong while improving hair growth and preserving your hairline. Perfect for short, medium, and long hair that's straight, wavy, curly, or coily, these are the best overnight hairstyles for healthy hair!](https://www.merakilane.com/wp-content/uploads/2024/09/2-4.png)](https://www.merakilane.com/13-protective-hairstyles-for-sleeping-for-all-hair-lengths/)
     
-    ### [How to Dress a Pear Body Shape: 7 Tips & Hacks](https://www.merakilane.com/how-to-dress-a-pear-body-shape-7-tips-hacks/)
+    ### [13 Protective Hairstyles for Sleeping for All Hair Lengths](https://www.merakilane.com/13-protective-hairstyles-for-sleeping-for-all-hair-lengths/)
     
-    [![10 Stunning Fine Line Spine Tattoos for Women | Fine line spine tattoos are gorgeous, but if you're thinking of getting one, there are things to consider, including the time, pain level, and after-care. We outline all of the details in this post, and we've also curated our favorite fine line tattoo designs that are classic and feminine. From meaningful fine line quotes, to pretty flowers, to a combination of many tattoos into one, these tattoo designs for women will inspire your next ink!](https://www.merakilane.com/wp-content/uploads/2024/09/5-2.png)](https://www.merakilane.com/10-stunning-fine-line-spine-tattoos-for-women/)
+    [![10 Overnight Beauty Hacks Every Girl Should Know | Wake up with glowing skin with these overnight skin and hair hacks for lazy girls! From hydrating your skin to protecting your hair, adding these simple habits to your nighttime routine will have you looking refreshed every morning. Click to learn how to improve your beauty regimen while you sleep, with easy additions to your bedtime skincare and haircare routine that will keep your face and hair looking and feeling as healthy as possible.](https://www.merakilane.com/wp-content/uploads/2024/09/3-4.png)](https://www.merakilane.com/10-overnight-beauty-hacks-every-girl-should-know/)
     
-    ### [10 Stunning Fine Line Spine Tattoos for Women](https://www.merakilane.com/10-stunning-fine-line-spine-tattoos-for-women/)
+    ### [10 Overnight Beauty Hacks Every Girl Should Know](https://www.merakilane.com/10-overnight-beauty-hacks-every-girl-should-know/)
     
-    [![How to Minimize Pores | 7 Tips and Products that Work! | Pore size is largely due to genetics, so you can’t actually shrink your pores, but there are natural ways to make them look smaller. Having a solid skincare routine and using the right products for your skin type to remove excess oil and impurities is key. From regular exfoliation and face masks, to selecting non pore-blogging moisturizers and makeup products, we have everything you need to reduce the look of your pores in this post!](https://www.merakilane.com/wp-content/uploads/2024/09/1-2.png)](https://www.merakilane.com/how-to-minimize-pores-7-tips-and-products-that-work/)
+    [![How to Dress an Hourglass Body Shape: 7 Tips & Hacks | Did you know only about 8% of women have an hourglass figure? If you have this body type, it can be hard to find pants that fit your curvy bottom without leaving a gap in the waistband. Click to learn how to dress an hourglass body shape with these 7 fashion tips and hacks that will enhance your curves and define your waist. From casual looks to formal wear, these tips will teach you how to choose outfits that flatter your natural shape!](https://www.merakilane.com/wp-content/uploads/2024/09/7-2.png)](https://www.merakilane.com/how-to-dress-an-hourglass-body-shape-7-tips-and-hacks/)
     
-    ### [How to Minimize Pores: 7 Tips and Products that Work!](https://www.merakilane.com/how-to-minimize-pores-7-tips-and-products-that-work/)
+    ### [How to Dress an Hourglass Body Shape: 7 Tips and Hacks](https://www.merakilane.com/how-to-dress-an-hourglass-body-shape-7-tips-and-hacks/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![How to Get Rid of an Apron Belly | An apron belly, or pannus stomach, refers to excessive tissue and skin that hangs over the lower abdomen. It can appear after pregnancy, excessive weight gain, or significant weight loss and occurs when the belly and fat surrounding the internal organs expands, resulting in additional fat deposits in the omentum (a structure in the abdomen that protects the visceral organs). Click for the best diet, exercise, and workouts to help banish this type of belly fat!](https://www.merakilane.com/wp-content/uploads/2024/09/1-3.png)](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
+    
+    ### [How to Get Rid of an Apron Belly: 11 Tips and Workouts](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
+    
     [![How to Make Your Own Pierogies | +16 Easy Recipes! | If you're looking for easy dinner ideas the whole family will enjoy that you can make ahead for busy weeknights, pierogies are always a good idea! Whether you call them perogies, pierogi, or pirohi, these tasty dumplings are the perfect comfort food you can make in batches and throw into the freezer. Homemade is best, and they are so easy to make. Click for our best tips, plus simple sweet and savory recipes for beginners and beyond!](https://www.merakilane.com/wp-content/uploads/2024/09/4-2.png)](https://www.merakilane.com/how-to-make-your-own-pierogies-16-easy-recipes/)
     
     ### [How to Make Your Own Pierogies (+16 Easy Recipes!)](https://www.merakilane.com/how-to-make-your-own-pierogies-16-easy-recipes/)
@@ -74,10 +78,6 @@ Main Menu
     [![17 Healthy Summer Dip Recipes | Whether you’re hosting a backyard barbecue, heading to a picnic, or lounging by the pool, dips are the ultimate crowd-pleaser because they go with everything - chips, crackers, vegetables, and fruit! But they can also be loaded with unnecessary fat and calories, and since they taste so good, it's easy to overeat them. In this post, we're sharing the best, healthy, easy summer dip recipes plus 10 simple tips to make your dips healthier without sacrificing flavor.](https://www.merakilane.com/wp-content/uploads/2024/09/5-1.png)](https://www.merakilane.com/17-healthy-summer-dip-recipes-that-hit-the-spot/)
     
     ### [17 Healthy Summer Dip Recipes that Hit the Spot](https://www.merakilane.com/17-healthy-summer-dip-recipes-that-hit-the-spot/)
-    
-    [![19 Nutritious Beet Recipes | Beetroot offers so many health benefits. They are anti-inflammatory and high in antioxidants and support the health of your heart, brain, and digestive system. They are also incredibly easy to cook -- you can boil, steam, roast, and microwave beets, and even grate them raw as a crunchy salad topper. Click for our favorite beet recipes, from a 5-minute beet berry smoothie, to a whipped feta beet dip, to beet hummus, to crispy beet fries and much more!](https://www.merakilane.com/wp-content/uploads/2024/08/4-1.png)](https://www.merakilane.com/19-nutritious-beet-recipes-youll-actually-enjoy/)
-    
-    ### [19 Nutritious Beet Recipes You’ll Actually Enjoy](https://www.merakilane.com/19-nutritious-beet-recipes-youll-actually-enjoy/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -117,17 +117,17 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![16 Best Portable Airplane Snacks for Kids | Whether you're traveling with kids on short domestic flights or long flights overseas, having their favorite snacks on hand can make all the difference. From healthy options to mess-free treats, we're sharing the best travel snacks for kids of all ages and stages that also double as great road trip snacks. We've also included TSA-approved snack bags, boxes, and ice packs so you can pack homemade favorites for the whole family.](https://www.merakilane.com/wp-content/uploads/2024/09/5-3.png)](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
+    
+    ### [16 Best Portable Airplane Snacks for Kids](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
+    
+    [![What To Do when Your Teenager Is Lying: 9 Tips for Parents | If you're struggling with a teenager who isn't being truthful, this post is for you. We're sharing 9 effective tips for parents to handle lying behavior in teens. Click to learn how to choose the right consequences for dishonest behavior and how to build trust, set boundaries, and foster open communication to create a more honest relationship with your teen moving forward. Click for our best strategies to deal with teens who lie!](https://www.merakilane.com/wp-content/uploads/2024/09/6-2.png)](https://www.merakilane.com/what-to-do-when-your-teenager-is-lying-9-tips-for-parents/)
+    
+    ### [What to Do When Your Teenager Is Lying: 9 Tips for Parents](https://www.merakilane.com/what-to-do-when-your-teenager-is-lying-9-tips-for-parents/)
+    
     [![32 Best Road Trip Snacks | Whether you're going on an adults only road trip or a family adventure in a car, camper van, or RV, one thing is for certain: you need to pack snacks! The trick is to find a balance of easy, tasty, and healthy ideas, and this post has it all! Click to learn how to pack a cooler so your car snacks don't spoil, and for our favorite snacks to put in your cooler. We've also included a long list of grab and go travel snacks that don't need to be refrigerated.](https://www.merakilane.com/wp-content/uploads/2024/09/3-3.png)](https://www.merakilane.com/32-best-road-trip-snacks-the-whole-family-will-enjoy/)
     
     ### [32 Best Road Trip Snacks the Whole Family Will Enjoy](https://www.merakilane.com/32-best-road-trip-snacks-the-whole-family-will-enjoy/)
-    
-    [![30 Yarn Projects for All Ages and Stages | Yarn isn't just for knitting socks and crocheting blankets -- there are so many crafts you can make with leftover yarn. Whether you're trying to keep toddlers occupied at home, need art projects for kids in elementary school, or have an artsy tween or teen in need of after school boredom busters, we have you covered. From pom-pom creatures and no-sew projects, to chunky knit blankets and rainbow wall hangings, thee yarn projects won't disappoint!](https://www.merakilane.com/wp-content/uploads/2024/09/7-1.png)](https://www.merakilane.com/30-yarn-projects-for-all-ages-and-stages/)
-    
-    ### [30 Yarn Projects for All Ages and Stages](https://www.merakilane.com/30-yarn-projects-for-all-ages-and-stages/)
-    
-    [![13 Tips to Help Kids Who Are Afraid of the Dark | Many kids are scared of the dark. It's a common fear children outgrow, but it can become a persistent phobia that can be disruptive for the whole family.Thankfully, there are many effective strategies to help. By understanding the causes of their fears and identifying triggers, you can provide them with practical tips to deal with their thoughts and feelings and create a calming nighttime routine to help the whole family sleep through the night.](https://www.merakilane.com/wp-content/uploads/2024/09/3-2.png)](https://www.merakilane.com/13-tips-to-help-kids-who-are-afraid-of-the-dark/)
-    
-    ### [13 Tips to Help Kids Who Are Afraid of the Dark](https://www.merakilane.com/13-tips-to-help-kids-who-are-afraid-of-the-dark/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
@@ -233,22 +233,33 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
+[crazy, right? ☺️ 🎥 @wildmediaco 📸 @this ![crazy, right? ☺️
+🎥 @wildmediaco
+📸 @thisismaxpower 
+#unapologetic #unbothered #mindingmybusiness #lessonslearned #lessonslearnedinlife #lifelessonslearned #powerfulwords #powerfulthoughts #adulting101 #thingsiwanttoremember #friendlyreminder #womenover40 #perimenopause #menopause](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAY0UBvvPdj/) 
+
+[aka gen x ✌🏻 🎥 @wildmediaco 📸 @thisism ![aka gen x ✌🏻
+🎥 @wildmediaco
+📸 @thisismaxpower 
+#womenover40 #canyourelate #relatablememes #relatablereels #40andfabulous #40andfit #perimenopause #menopause #raisingdaughters #raisingteens #funnymoms #momlife #momhumor #momlifebelike #imfunny #makemelaugh #trends #funnymemes #funnyreels](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAWARFHuCZp/) 
+
+[4 lessons that helped me let go of other people’ ![4 lessons that helped me let go of other people’s opinions ⬇️
+✨no one thinks about us as much as we think they do, and when we’re confident in who we are, their opinions of us don’t matter anyway.
+✨no one is coming to save us –– we are responsible for our own happiness.
+✨we are responsible for the decisions we make, how  we spend our time, the way we speak to ourselves and the company we keep.
+✨time is a gift that should not be wasted on petty sh*t that does not matter.
+my body may not look or feel the way it once did, but my 40s have put life into perspective for me and turned me into the person i’ve always wanted to be. 💖
+🎥 @wildmediaco
+📸 @thisismaxpower
+#womenover40 #40andfab #40andfabulous #40andfab #perimenopause #menopause #40andfit #unbothered #unapologetic #mindingmybusiness #adulting101 #thingsiwanttoremember #mylifemyrules #ceoofmylife #lessonslearnedinlife #lifelessonslearned](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DATZRE0uXqV/) 
+
+[![also: anxiety is a terrible problem solver. 🫶🏻
+🎥 @wildmediaco
+📸 @thisismaxpower
+#hardday #toughday #roughday #simplereminders #powerfulthoughts #powerfulwords #healingthoughts #healingwords #wordstoremember #thingsiwanttoremember #lessonslearnedinlife #lifelessonslearned #friendlyreminder #spilledwords #spilledthoughts](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ2tNFO1sS/)
+
 [this mindset >>> #powerfulwords #ceoofmylife #thi ![this mindset >>>
 #powerfulwords #ceoofmylife #thingsiwanttoremember #getoutofyourownway #countyourblessingsnotyourproblems #healingwords #gentlereminder #friendlyreminder #powerfulthoughts #remindertoself](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAJKJRfuZsr/) 
-
-[if this one doesn’t hit you in the feels… 🥹 ![if this one doesn’t hit you in the feels… 🥹
-#parentingquotes #parenting101 #momquotes #hardtruth #uncomfortabletruth #lifelessonslearned #lessonslearnedinlife #powerfulwords #powerfulthoughts #spilledthoughts #thingsiwanttoremember #friendlyreminder #thoughtsoftheday #quotesthattouchyourheart #quotesthatmakeyouthink](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAGf6OPuo9z/) 
-
-[regulators! ✌🏻 ‘it was a clear black night ![regulators! ✌🏻
-‘it was a clear black night,
-a clear white moon…’
-#womenover40 #perimenopause #menopause #40andfit #40andfabulous #relatablepost #relatablememe #relatablereel #funnymeme #funnyreel #funnyreelsvideo #imfunny #makemelaugh #momlife #momlifebelike #momhumor #funnymoms #trends](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAEW3XVSYt4/) 
-
-[…and our best is enough. 🫶🏻 #momtruth #mo ![…and our best is enough. 🫶🏻
-#momtruth #momtruths #raisingdaughters #realmom #realmomlife #realmoms #simplereminders #lessonslearnedinlife #thingsiwanttoremember #thoughtsoftheday #powerfulwords #canadianmom #torontomom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DABVldwR3ON/) 
-
-[a little monday motivation for you ✌🏻 #lesso ![a little monday motivation for you ✌🏻
-#lessonslearnedinlife #lifelessonslearned #truths #thingsiwanttoremember #powerfulwords #powerfulthoughts #ceoofmylife #ownwhoyouare #getoutofyourownway #quotesilove #friendlyreminder #gentlereminder #thoughtsoftheday](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C__d_bOvJFM/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
