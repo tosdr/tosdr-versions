@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Is Roku about to transform the streaming market?](https://illumin.com/wp-content/uploads/2024/09/Roku-tech-263x300.jpg)
+    * ![The growing presence of social media in political advertising](https://illumin.com/wp-content/uploads/2024/09/Social-media-in-political-advertising-263x300.png)
         
-        Is Roku about to transform the streaming market?[Read More](https://illumin.com/insights/blog/roku-about-to-transform-streaming-market/)
+        The growing presence of social media in political advertising[Read More](https://illumin.com/insights/blog/social-media-political-advertising/)
         
 * [Company](#)
     * [Company](#)
