@@ -309,23 +309,17 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_0.jpg.webp?itok=dAHAfRh_)
+
+News
+
+Sicherheits-Champion: Homematic IP zum achten Mal in Folge vom VDE zertifiziert](https://homematic-ip.com/de/news/sicherheits-champion-homematic-ip-zum-achten-mal-folge-vom-vde-zertifiziert)
+
  [![](/sites/default/files/styles/thumbnail/public/images/website_grafik_kundenumfrage_vivika.jpg.webp?itok=u6jG2RY8)
 
 Umfrage
 
 Feedback geben und gewinnen! Füllen Sie die Umfrage aus und sichern Sie sich tolle Preise.](https://homematic-ip.com/de/umfrage)
-
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_teaser_roadshow24.jpg.webp?itok=c0X-P-pF)
-
-News
-
-Homematic IP Roadshow 2024: Die Tour geht weiter – Erleben Sie Smart Home live in Ihrer Nähe!](https://homematic-ip.com/de/news/die-tour-geht-weiter-erleben-sie-smart-home-live-ihrer-naehe)
-
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_news_update-news_1.jpg.webp?itok=YBuQzEAm)
-
-News
-
-Zahlreiche Produkthighlights im Herbst: Im Rahmen der IFA werden alle Neuheiten gezeigt.](https://homematic-ip.com/de/news/ifa-2024-produkthighlights-im-herbst)
 
 [Sept.
 
@@ -363,8 +357,6 @@ Pfadnavigation
 --------------
 
 1. [Home](https://homematic-ip.com/de)
-2. [Service](https://homematic-ip.com/de/service)
-3. EULA
 
 Nutzungsbedingungen für die Homematic IP App und Homematic IP Cloud
 ===================================================================
