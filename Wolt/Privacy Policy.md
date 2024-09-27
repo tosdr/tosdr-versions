@@ -94,6 +94,8 @@ In relation to the processing of personal data of Users in the below countries, 
 
 **Wolt Albania SHPK,** Rr. Ibrahim Rugova, Sky Tower, Floor 5, Suite 2, Tirana, Albania, if the user is located in Albania
 
+**WOLT TEXNOLOGIYALARI FE LLC**, Lazbak street, house 64A Shaykhontohur District, Tashkent city, Uzbekistan, if the user is located in Uzbekistan
+
 Wolt Enterprises Oy has been appointed responsible for handling all data subject requests and questions relating to the personal data processing of the Wolt group on behalf of the local joint controllers.
 
 Wolt also provides delivery as a service to other companies (for example, Wolt Drive API and eCommerce integrations). In such a case Wolt is the data processor for the parts of the processing activities related to receiving, managing and completing the delivery as well as communicating and confirming the delivery to the company in question.
