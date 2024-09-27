@@ -73,6 +73,7 @@ Menu
     * [Election 2024](https://apnews.com/hub/election-2024)
         
         * [Election results](https://apnews.com/projects/election-results-2024/)
+        * [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/)
         * [Google trends](https://apnews.com/projects/election-results-2024/google-trends/)
         * [AP & Elections](https://apnews.com/ap-elections-explained)
         * [Global elections](https://apnews.com/hub/global-elections/)
@@ -200,13 +201,14 @@ Submit Search
 * [Election 2024](https://apnews.com/hub/election-2024)
     
     * [Election results](https://apnews.com/projects/election-results-2024/)
+    * [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/)
     * [Google trends](https://apnews.com/projects/election-results-2024/google-trends/)
     * [AP & Elections](https://apnews.com/ap-elections-explained)
     * [Global elections](https://apnews.com/hub/global-elections/)
     
     SECTIONS
     
-    [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
+    [Election results](https://apnews.com/projects/election-results-2024/) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
     
 * [Politics](https://apnews.com/politics)
     
