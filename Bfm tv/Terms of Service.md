@@ -585,15 +585,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Philippine, jeune étudiante de 19 ans, dont le corps a été découvert sans vie le 21 septembre 2024, dans le bois de Boulogne à Paris.](https://images.bfmtv.com/5KtjlW988VSvKRw4j2RWmLQneE4=/0x0:1920x1080/300x0/images/Philippine-jeune-etudiante-de-19-ans-dont-le-corps-a-ete-decouvert-sans-vie-le-21-septembre-2024-dans-le-bois-de-Boulogne-a-Paris-1942167.webp)
+1. [![Emmanuel Macron au Canada le 26 septembre 2024 ](https://images.bfmtv.com/_dxbJyfH36EkC16qDPBOM163Cr8=/0x213:2048x1365/300x0/images/Emmanuel-Macron-au-Canada-le-26-septembre-2024-1945287.webp)
     
-    ![Philippine, jeune étudiante de 19 ans, dont le corps a été découvert sans vie le 21 septembre 2024, dans le bois de Boulogne à Paris.](https://images.bfmtv.com/5KtjlW988VSvKRw4j2RWmLQneE4=/0x0:1920x1080/300x0/images/Philippine-jeune-etudiante-de-19-ans-dont-le-corps-a-ete-decouvert-sans-vie-le-21-septembre-2024-dans-le-bois-de-Boulogne-a-Paris-1942167.webp)
+    ![Emmanuel Macron au Canada le 26 septembre 2024 ](https://images.bfmtv.com/_dxbJyfH36EkC16qDPBOM163Cr8=/0x213:2048x1365/300x0/images/Emmanuel-Macron-au-Canada-le-26-septembre-2024-1945287.webp)
     
-    ### Meurtre de Philippine: pourquoi l'OQTF visant le suspect n'avait-elle pas été exécutée?](https://www.bfmtv.com/police-justice/meurtre-de-philippine-pourquoi-l-oqtf-visant-le-suspect-n-avait-elle-pas-ete-executee_AV-202409250728.html "Meurtre de Philippine: pourquoi l'OQTF visant le suspect n'avait-elle pas été exécutée?")
-2. [### Première en France: la Meurthe-et-Moselle instaure un revenu jeunes](https://www.bfmtv.com/societe/premiere-en-france-la-meurthe-et-moselle-instaure-un-revenu-jeunes_AD-202409251052.html "Première en France: la Meurthe-et-Moselle instaure un revenu jeunes")
-3. [### Impôt sur le revenu: le fisc va prélever 10 millions de foyers ce jeudi, êtes-vous concerné?](https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/impot-sur-le-revenu-le-fisc-va-prelever-10-millions-de-foyers-ce-jeudi-etes-vous-concerne_AV-202409260051.html "Impôt sur le revenu: le fisc va prélever 10 millions de foyers ce jeudi, êtes-vous concerné?")
-4. [### Enfants brûlés à la soude à Toulouse: les deux mineurs arrêtés "regrettent profondément"](https://www.bfmtv.com/police-justice/enfants-brules-a-la-soude-a-toulouse-les-deux-mineurs-arretes-regrettent-profondement_AN-202409260178.html "Enfants brûlés à la soude à Toulouse: les deux mineurs arrêtés "regrettent profondément"")
-5. [### Al-Hilal: pas de retour de Neymar sur les terrains avant 2025](https://rmcsport.bfmtv.com/football/al-hilal-pas-de-retour-de-neymar-sur-les-terrains-avant-2025_AV-202409250984.html "Al-Hilal: pas de retour de Neymar sur les terrains avant 2025")
+    ### "Je me sens bien au Canada": Emmanuel Macron se demande si la France est "heureuse"](https://www.bfmtv.com/politique/elysee/je-me-sens-bien-au-canada-emmanuel-macron-se-demande-si-la-france-est-heureuse_AD-202409270231.html ""Je me sens bien au Canada": Emmanuel Macron se demande si la France est "heureuse"")
+2. [### Liban: pourquoi une possible intervention terrestre d'Israël est complexe et risquée](https://www.bfmtv.com/international/moyen-orient/liban-pourquoi-une-intervention-terrestre-d-israel-apparait-comme-complexe-et-risquee_AV-202409260848.html "Liban: pourquoi une possible intervention terrestre d'Israël est complexe et risquée")
+3. [### Paris 2024: les images des anneaux olympiques retirés de la tour Eiffel](https://www.bfmtv.com/paris/paris-2024-les-images-des-anneaux-olympiques-retires-de-la-tour-eiffel_AN-202409270119.html "Paris 2024: les images des anneaux olympiques retirés de la tour Eiffel")
+4. [### Meurtre de Philippine: Bardella et le RN veulent systématiser la "double peine" pour les étrangers ayant commis un crime](https://www.bfmtv.com/politique/parlement/meurtre-de-philippine-bardella-et-le-rn-veulent-systematiser-la-double-peine-pour-les-etrangers-ayant-commis-un-crime_AV-202409270067.html "Meurtre de Philippine: Bardella et le RN veulent systématiser la "double peine" pour les étrangers ayant commis un crime")
+5. [### Météo: un week-end marqué par le retour du soleil et une baisse des températures](https://www.bfmtv.com/meteo/meteo-un-week-end-marque-par-le-retour-du-soleil-et-une-baisse-des-temperatures_AV-202409260915.html "Météo: un week-end marqué par le retour du soleil et une baisse des températures")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
