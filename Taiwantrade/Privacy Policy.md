@@ -40,9 +40,9 @@
 * Product
     * Product
     * Supplier
-* ![](//cs01.itaiwantrade.com/front/b2e1d0f/tteng/images/icon/imgSearch.png)
+* ![](//cs01.itaiwantrade.com/front/068f8d5/tteng/images/icon/imgSearch.png)
     
-    ![](//cs01.itaiwantrade.com/front/b2e1d0f/tteng/images/defaultPhoto.png)
+    ![](//cs01.itaiwantrade.com/front/068f8d5/tteng/images/defaultPhoto.png)
     
     Drag an image here or browse from your computer.
     
