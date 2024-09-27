@@ -5,19 +5,14 @@
 
 TherapyDave - Dave Lechnyr, LCSW
 
-Individual Therapy & Couples Counseling in Eugene, Oregon
+Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 
-* [Meet Dave](https://therapydave.com/about-eugene-psychotherapist/)
-* [Couples Counseling](https://therapydave.com/couples-therapy/)
-* [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
+* [About](https://therapydave.com/about-eugene-psychotherapist/)
+* [Gottman Couples Therapy](https://therapydave.com/couples-therapy/)
+* [Individual Counseling](https://therapydave.com/eugene-psychotherapy/)
 * [FAQ](https://therapydave.com/psychotherapist-faqs/)
-* [Locations](https://therapydave.com/therapist-eugene-oregon/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
-    * [Blog](https://therapydave.com/eugene-psychotherapist-resources/)
-    * [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
-* [Request Appointment](https://therapydave.com/therapist-appointments/)
-
-You are here: [Home](https://therapydave.com/) / Terms of Service
+* [Appointments](https://therapydave.com/therapist-appointments/)
 
 Terms of Service
 ================
@@ -151,7 +146,7 @@ Contact Information
 
 If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
 
-_“Before starting therapy, our relationship felt toxic and hopeless. It seemed like no matter what I tried, nothing changed, and the fate of our marriage was out of my control. Dave saw the love we still had for each other and believed that with the right skills and tools, we could turn things around. During our sessions, I noticed my partner putting in genuine effort, even if consistently applying what we learned outside of therapy was a challenge. I better identified some things I did (and could try to stop doing) that contributed to our couple challenges and learned some strategies of how to create more space for my partner to process and share. As a result, we rediscovered moments of humor and lightness, which helped put our issues into perspective. I realized that my partner deeply wanted to improve our relationship and had a rich inner world of thoughts and feelings, even if expressing them out loud was difficult. This realization alone was a significant step forward.”_
+_“Before, it felt like torture to be in my own skin. I beat myself up for everything and guilt ruled my whole life. When I started therapy, I couldn’t cope with life at all. After working with Dave, I’m not beating myself up compulsively and I feel hopeful about the future for the first time in a long time.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
@@ -160,17 +155,11 @@ _“Before starting therapy, our relationship felt toxic and hopeless. It seemed
 Dave Lechnyr, LCSW  
 2440 Willamette Street, Suite 101-C  
 Eugene, OR 97405-3170  
-Office Hours: Monday – Thursday, 9:00 AM - 6:00 PM  
-Phone: 541-705-4666  
-  
-Proudly serving clients in Eugene, OR, and via telehealth across Oregon and Arizona.  
-  
-_In crisis? Call the [National Suicide Prevention Lifeline](https://988lifeline.org/) at 1-800-273-TALK (8255). [Additional Mental Health Resources](https://therapydave.com/mental-health-crisis-resources/)._
+541-705-4666
 
-* [Notice of Privacy Practices](https://therapydave.com/notice-of-privacy-practices/)
-* [Terms of Service](https://therapydave.com/terms/)
-* [Privacy Policy](https://therapydave.com/privacy/)
+* [Terms](https://therapydave.com/terms/)
+* [Privacy](https://therapydave.com/privacy/)
 * [Disclaimer](https://therapydave.com/disclaimer/)
 * [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
-* [Accessibility Statement](https://therapydave.com/accessibility-statement/)
+* [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
 * [Client Portal](https://clients.therapydave.com/)
