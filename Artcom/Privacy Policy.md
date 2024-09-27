@@ -320,7 +320,7 @@ Cancel
 
 [Design Inspiration](https://www.art.com/lp/shopbyrooms "Design Inspiration")
 
-[Art Colors](https://www.art.com/lp/shopbyrooms "Art Colors")
+[Art Colors](https://www.art.com/shop/wall-art-by-color "Art Colors")
 
 [Golds](https://www.art.com/gallery/id--b27280/metallic-prints-posters.htm "Golds")
 
