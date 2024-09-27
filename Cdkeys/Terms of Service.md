@@ -116,6 +116,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -477,11 +478,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![God of War Ragnarök Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/god_of_war_ragnaro_k_deluxe_edition.jpg)   No 4. \-27%](https://www.cdkeys.com/pc/god-of-war-ragnarok-deluxe-edition-pc-steam)
+4.    [![God of War Ragnarök Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/g/o/god_of_war_ragnaro_k_deluxe_edition.jpg)   No 4. \-25%](https://www.cdkeys.com/pc/god-of-war-ragnarok-deluxe-edition-pc-steam)
     
     **[God of War Ragnarök Deluxe Edition PC](https://www.cdkeys.com/pc/god-of-war-ragnarok-deluxe-edition-pc-steam "God of War Ragnarök Deluxe Edition PC")**
     
-    Special Price $58.99 RRP $80.39
+    Special Price $60.29 RRP $80.39
     
     [Add to Wish List](# "Add to Wish List")
     
