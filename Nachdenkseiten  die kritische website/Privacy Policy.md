@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.nachdenkseiten.de/wp-content/uploads/2023/07/230705-Gespraech-Rashmawi-Mueller-Titelbild_s.jpg "Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt")](https://www.youtube.com/watch?v=FZnuNzX0NeU)
+[![Gespräch Roland Kern (Städtepartnerschaft Speyer/Kursk) mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/08/2023-07-12-Gespraech-Roland-Kern-Kasten-A.jpg "Gespräch Roland Kern (Städtepartnerschaft Speyer/Kursk) mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=101681)
 
-* [Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.youtube.com/watch?v=FZnuNzX0NeU)
+* [Gespräch Roland Kern (Städtepartnerschaft Speyer/Kursk) mit Albrecht Müller](https://www.nachdenkseiten.de/?p=101681)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [EU-Parlament auf Kriegskurs: „Legitime militärische Ziele in Russland angreifen“](https://www.nachdenkseiten.de/?p=121594)
-* [Keine Freigabe für Kiew zum Einsatz von Langstreckenraketen: Kommt der Westen endlich zur Vernunft?](https://www.nachdenkseiten.de/?p=121517)
-* [Bundesregierung zur Pager-Massenexplosion im Libanon: Völkerrechtliche Bewertung nicht möglich](https://www.nachdenkseiten.de/?p=121506)
-* [Kanzler Scholz in Zentralasien](https://www.nachdenkseiten.de/?p=121385)
-* [Toxische Atmosphäre](https://www.nachdenkseiten.de/?p=121441)
-* [Was sagt der Kanzler zur fragwürdigen Wahlkampfspende von Campact für die Grünen in Brandenburg?](https://www.nachdenkseiten.de/?p=121551)
+* [Rede von König Abdullah II. von Jordanien auf der UN-Generalversammlung: Bemerkenswert. Kritisch. Zukunftsweisend.](https://www.nachdenkseiten.de/?p=122072)
+* [Bundesregierung zu Gaza und Libanon: Russland greift gezielt zivile Infrastruktur an – Israel tut das nicht](https://www.nachdenkseiten.de/?p=122083)
+* [„Lösung am Verhandlungstisch“ suchen schmeckt der deutschen Presse nicht](https://www.nachdenkseiten.de/?p=122006)
+* [Grünen-Dämmerung – der Zeitgeist-Partei ist der Zeitgeist abhandengekommen](https://www.nachdenkseiten.de/?p=121973)
+* [Gipfel der Ratlosigkeit](https://www.nachdenkseiten.de/?p=121861)
+* [Anpassung wird belohnt: Staatspreise für Tote Hosen und Alena Buyx](https://www.nachdenkseiten.de/?p=121957)
 
 ### Audioangebot
 
