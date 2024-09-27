@@ -99,11 +99,11 @@ Open menu
 Terms of Service
 ================
 
-Last modified: July 24, 2024
+Last modified: September 25, 2024
 
-By using the proton.me or [protonvpn.com](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+By using the proton.me or [protonvpn.com](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
-The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://protonvpn.com/wallet/terms).
+The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://protonvpn.com/wallet/terms). If you use Proton Wallet or receive Bitcoin in Proton Wallet, you also consent to the Proton Wallet terms of use.
 
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
 
@@ -133,7 +133,7 @@ You agree not to use your Account or the Services for any illegal or prohibited 
 10. Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
 11. Abusive registrations of email aliases for third-party services;
 12. Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
-13. Referring yourself or another one of your accounts to unduly benefit from our referral program's advantages.
+13. Referring yourself or another one of your accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
 
 Any Account found to be committing the listed unauthorized activities will be immediately suspended.
 
@@ -228,7 +228,7 @@ Past the abovementioned 30-day period, the Services provided by the Company are 
 
 If the Company chooses to issue a refund for any reason, The Company will only refund in the original currency of payment and to the original payment method. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
 
-If you fail to fulfil your obligation of payment as a user of a paid Account, your account will be automatically downgraded to a Free account 14 days after the failure to proceed to payment. However, if your account is exceeding limits of free accounts, we may either:
+If you fail to fulfil your obligation of payment as a user of a paid Account, your account may, at our discretion, be automatically downgraded to a Free account after the failure to proceed to payment. However, if your account is exceeding limits of free accounts, we may either:
 
 * Renew your subscription, in which case the subscription fee are due;
 * Downgrade your account to Free plan with limited access.
@@ -243,6 +243,8 @@ Accounts downgraded to free subscription due to a failure of payment are subject
 Subscriptions and credits are linked to the Account they have originally been purchased for and cannot be transferred to another account.
 
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above-mentioned refund from the Company and consent to rely upon the dispute resolution procedure of the third-party payment processor. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for additional costs (e.g. dispute fee), you authorize the Company to charge that amount on your Account. In case of a dispute or chargeback, we reserve our right to suspend your account until settlement of the dispute.
+
+Participating in Proton's referral program (by inviting a third party to create an account and use a Service through the dedicated in-Service process) may reward you with credits on your Account and/or additional features (such as storage space) for your Account, based on availability and specific promotional campaigns. These benefits are provided by Proton at its own discretion and no referral activity shall entitle you to credits, additional features, and/or a right to a payment from Proton. Referrals are intended to be private direct recommendations of the Services and any referral done through a public platform and/or website will not lead to any reward and may cause ineligibility for future referral benefits. For the avoidance of any doubt, no monetary compensation is offered by Proton for any such referral, unless agreed otherwise in writing by Proton.
 
 10\. Modification of plan or billing cycle
 ------------------------------------------
