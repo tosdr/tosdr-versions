@@ -34,7 +34,7 @@ Ignite Your Productivity
 
 Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
-[Learn More](https://www.rev.com/services/voicehub)
+[Explore VoiceHub](https://www.rev.com/services/voicehub)
 
 [For Business](https://www.rev.com/solutions)
 
@@ -64,7 +64,7 @@ Ignite Your Productivity
 
 Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
-[Learn More](https://www.rev.com/services/voicehub)
+[Explore VoiceHub](https://www.rev.com/services/voicehub)
 
 [Blog](https://www.rev.com/blog)
 
