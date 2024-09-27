@@ -109,6 +109,14 @@ Explore how automation, AI, and personalization are transforming creative workfl
 
 Read Brandwidth 2025 Report](https://www.chili-publish.com/research/brandwith-2024/unlock/)
 
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAALCAYAAAB7/H1+AAAAAXNSR0IArs4c6QAAAfZJREFUKFNdk71uE0EUhb87HuOsyZ8lYyHLQoiCgjZNOjrIK1BR8xq8AiUlNSVvgARCQogCIUWiQEThJxEBEja7Oz8XzYyNnRRHM6PVnnPmnDvy+uq9n14YOYElFGeW51agNiAC4wiTCJtBsEAj8Nsq3yx8TqsBhRNbRUZeoH+BWHBaBBoDQ2CnFm7UwiZgNP9MJwWtCK2B075yWCkfKkZ2LQpelERuLwm0RpidKredsk5NHG/jjx0OcEboTLlNFjBktUktbDRg1xQ8gk/rikDCrXNhNqtgtoE+foS+/4Q+eY4/87hjnwlX4yvukyGwg1hIvCwFnFGmNVyfXiE+2CWOR/SmM/hzhj68Szj4Tvf0Lc72lp3MBfItEnFfoQf0tAikj1tOmIgQDlvis1foQUPc/0K8c5P2xRuadyc4TCmYZdGJsOSuyKm5rwEIUiDAthcMgbh7Dd3bgWpA+HpE9+MXbjjI5dYv92k/ntFVy6xT0Y0phVs7dxwSFCpNpBARNETUebRn8KMtwvoQ//ecYC3OSnErUrLNEZScE6RjT1WUmOOQLJL2aiDGQKTBEWgxdBnQoXRmLbvNZV1ymx0nIp27nE9MRlRFxeBlWIpZeTCp3FzUfJYXbv+LpKmCkmtCJkyraN6nSVk0feFVrsxuJp2P2uKcHP8DKa0mw5duaGEAAAAASUVORK5CYII=)
+
+![](https://www.datocms-assets.com/11099/1678827170-general-3x.png?auto=format&corner-radius=6%2C6%2C0%2C0&mask=corners&w=270)
+
+Tune in to CHILIpulse, your go-to channel for the latest CHILI GraFx updates. Pick up new tips and tricks, get direc access to our product organization and use HCILI GraFx to drive more value for your design team.
+
+Listen now
+
 Company
 
 [About Us](https://www.chili-publish.com/about-us/)[Get to know us better](https://www.chili-publish.com/about-us/)[We're Hiring!](https://jobs.chili-publish.com/)[Join our team](https://jobs.chili-publish.com/)
