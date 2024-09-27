@@ -422,7 +422,7 @@ BILL Spend & Expense
 
 Spend & Expense Integrations
 
-[QuickBooks](https://getdivvy.com/integrations/qbo)[Sage Intacct](https://getdivvy.com/integrations/sage-intacct)[Oracle Netsuite](https://getdivvy.com/integrations/netsuite)[Slack](https://getdivvy.com/integrations/slack)[HRIS](https://getdivvy.com/integrations/spend-expense-onboarding)
+[QuickBooks](https://getdivvy.com/integrations/qbo)[Sage Intacct](https://getdivvy.com/integrations/sage-intacct)[Oracle Netsuite](https://getdivvy.com/integrations/netsuite)[Slack](https://getdivvy.com/integrations/slack)[HRIS](https://getdivvy.com/integrations/spend-expense-onboarding)[XERO](https://getdivvy.com/integrations/xero)
 
 Payments
 
