@@ -132,7 +132,7 @@ Featured links
 * [AI](https://www.redhat.com/en/topics/ai)
 * [Application modernization](https://www.redhat.com/en/topics/application-modernization)
 * [Automation](https://www.redhat.com/en/topics/automation)
-* [Cloud computing](https://www.redhat.com/en/topics/cloud)
+* [Cloud computing](https://www.redhat.com/en/topics/cloud-computing)
 * [Cloud-native applications](https://www.redhat.com/en/topics/cloud-native-apps)
 * [Containers](https://www.redhat.com/en/topics/containers)
 * [DevOps](https://www.redhat.com/en/topics/devops)
