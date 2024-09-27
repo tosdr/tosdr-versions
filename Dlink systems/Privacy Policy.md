@@ -44,12 +44,6 @@
 *  [![](/us/en/-/media/icon-library/navigation/hq/dpe101g250w.png) Accessories](https://us.dlink.com/us/en/for-business/accessories)
 *  [![](/us/en/-/media/icon-library/navigation/business-wtb.png) Where to Buy](https://us.dlink.com/us/en/contact-d-link)
 
-*  [![](/us/en/-/media/icon-library/navigation/brochures-and-guides.png) Brochures and Guides](https://us.dlink.com/us/en/resource-centre/brochures-and-guides)
-*  [![](/us/en/-/media/icon-library/navigation/case-studies.png) Case Studies](https://us.dlink.com/us/en/resource-centre/case-studies)
-*  [![](/us/en/-/media/icon-library/navigation/videos-icon.png) Videos](https://us.dlink.com/us/en/resource-centre/videos)
-*  [![](/us/en/-/media/icon-library/navigation/blog.png) Blog](https://us.dlink.com/us/en/resource-centre/blog)
-*  [![](/us/en/-/media/icon-library/navigation/portal-product-selector.png) Product Selector](http://tools.dlink.com/productselector/uk/wireless_psp01.asp)
-
 *  [![](/us/en/-/media/icon-library/navigation/portal-tools.png) Tech Support](https://us.dlink.com/us/en/support)
 *  [![](/us/en/-/media/icon-library/navigation/support-tech-alerts.png) Tech Alerts](https://us.dlink.com/us/en/support/support-news)
 *  [![](/us/en/-/media/icon-library/navigation/faqs.png) FAQs](https://us.dlink.com/us/en/support/faq)
@@ -57,6 +51,12 @@
 *  [![](/us/en/-/media/icon-library/navigation/support-warranty.png) Warranty](https://us.dlink.com/us/en/support/warranty-information)
 *  [![](/us/en/-/media/icon-library/navigation/support-contact.png) Contact](https://us.dlink.com/us/en/support/contact)
 *  [![](/us/en/-/media/icon-library/navigation/support-tickets.png) Support Portal](https://services.eu.dlink.com/home/main/SSPLogin.aspx?language=E)
+
+*  [![](/us/en/-/media/icon-library/navigation/brochures-and-guides.png) Brochures and Guides](https://us.dlink.com/us/en/resource-centre/brochures-and-guides)
+*  [![](/us/en/-/media/icon-library/navigation/case-studies.png) Case Studies](https://us.dlink.com/us/en/resource-centre/case-studies)
+*  [![](/us/en/-/media/icon-library/navigation/videos-icon.png) Videos](https://us.dlink.com/us/en/resource-centre/videos)
+*  [![](/us/en/-/media/icon-library/navigation/blog.png) Blog](https://us.dlink.com/us/en/resource-centre/blog)
+*  [![](/us/en/-/media/icon-library/navigation/portal-product-selector.png) Product Selector](http://tools.dlink.com/productselector/uk/wireless_psp01.asp)
 
 * [](https://us.dlink.com/us/en)
 * Privacy
