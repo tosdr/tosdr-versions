@@ -221,6 +221,8 @@ Shopping List
         
     * [Healthy Living](https://www.aldi.us/products/healthy-living/ "Feel better throughout the day when you shop for healthy food at your local ALDI. Buy fresh produce and salad kits at your local ALDI!")
         
+    * [Charcuterie](https://www.aldi.us/products/charcuterie/ "Build the perfect charcuterie board with sweet and savory cheeses, fruits, nuts and meats from ALDI. Save money on charcuterie products at your local ALDI.")
+        
     * [See All Products](https://www.aldi.us/products/)
         
     
