@@ -1,4 +1,4 @@
-Thursday, September 26 2024
+Friday, September 27 2024
 
 Breaking News
 
@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Springfield Armory 1911 Operator AOS 5” .45 ACP](https://www.thegunpage.com/tfb-review-springfield-armory-1911-operator-aos-5-45-acp/10610841)
+* [POTD: Ruger Precision Rifle With A-Tec Marksman Suppressor](https://www.thegunpage.com/potd-ruger-precision-rifle-with-a-tec-marksman-suppressor/10610842)
+* [Concealed Carry Corner: Best Cover Garments](https://www.thegunpage.com/concealed-carry-corner-best-cover-garments/10610843)
 * [GOA Statement on New White House Gun Control](https://www.thegunpage.com/goa-statement-on-new-white-house-gun-control/10610839)
 * [Biden-Harris Set to Announce New Executive Order on Gun Violence](https://www.thegunpage.com/biden-harris-set-to-announce-new-executive-order-on-gun-violence/10610838)
 * [Hawaii Homeowner Arrested After Stopping Violent Neighbor, Released After Self-Defense Ruling](https://www.thegunpage.com/hawaii-homeowner-arrested-after-stopping-violent-neighbor-released-after-self-defense-ruling/10610836)
 * [MI: School aid bill turned totalitarian](https://www.thegunpage.com/mi-school-aid-bill-turned-totalitarian/10610835)
 * [Kamala Harris Issues First Executive Order on Gun Control with Joe Biden](https://www.thegunpage.com/kamala-harris-issues-first-executive-order-on-gun-control-with-joe-biden/10610832)
 * [Special Edition 10/22 Reminds You To Vote](https://www.thegunpage.com/special-edition-10-22-reminds-you-to-vote/10610834)
-* [F.A.B. Defense Introduces The Ultimag G2 Windowless M16/AR15 Magazine](https://www.thegunpage.com/f-a-b-defense-introduces-the-ultimag-g2-windowless-m16-ar15-magazine/10610831) 
 * [Savage Arms Adds New AC350 to AccuCan Suppressor Line](https://www.thegunpage.com/savage-arms-adds-new-ac350-to-accucan-suppressor-line/10610829)
-* [Kalashnikov Presents The New Belt-Fed RPL-20 Light Machine Gun At ADEX](https://www.thegunpage.com/kalashnikov-presents-the-new-belt-fed-rpl-20-light-machine-gun-at-adex/10610825)
-* [Fresno Gun Stores Owners Blame California Laws, Taxes, And The Economy For Shutdowns](https://www.thegunpage.com/fresno-gun-stores-owners-blame-california-laws-taxes-and-the-economy-for-shutdowns/10610824)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
+* Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
 * Brad Lowther on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782316)
 * Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
 * KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
@@ -235,8 +237,6 @@ Recent Comments
 * KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
 * charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
 * TMann on [President Joe Biden’s Schedule for Monday, September 23, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-23-2024/#comment-782277)
-* charles wilkins on [In Loving Arms](https://www.conservativedailynews.com/2024/09/in-loving-arms/#comment-782273)
-* charles wilkins on [Bad Ideas](https://www.conservativedailynews.com/2024/09/bad-ideas/#comment-782269)
 
 [Close](#)
 
