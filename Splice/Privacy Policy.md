@@ -2,7 +2,7 @@
 * [Sounds](https://splice.com/sounds)
 * [Skills](https://splice.com/skills)
 * [Plugins](https://splice.com/plugins)
-* [Community](https://splice.com/features/community)
+* [Community](https://splice.com/community)
 * [Pricing](https://splice.com/splice-plans)
 
 * [Blog](https://splice.com/blog)
@@ -24,7 +24,7 @@
 * [Sounds](https://splice.com/features/sounds)
 * [Skills](https://splice.com/skills)
 * [Plugins](https://splice.com/plugins)
-* [Community](https://splice.com/features/community)
+* [Community](https://splice.com/community)
 * [Blog](https://splice.com/blog)
 * [Pricing](https://splice.com/plans)
 
