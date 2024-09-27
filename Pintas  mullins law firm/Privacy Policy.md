@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
+[![How quickly does lung cancer progress?](https://www.pintas.com/wp-content/uploads/2020/03/lung-cancer-lawsuit-lawyer-how-quickly-does-lung-cancer-progress.jpg "How Quickly Does Lung Cancer Progress?")](https://www.pintas.com/practice-areas/lung-cancer/how-quickly-does-lung-cancer-progress "How Quickly Does Lung Cancer Progress?")
 
-[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
+[#### How Quickly Does Lung Cancer Progress?](https://www.pintas.com/practice-areas/lung-cancer/how-quickly-does-lung-cancer-progress)
 
-[![How much is a mormon church sex abuse settlement worth?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "How Much Is a Mormon Church Sex Abuse Settlement Worth?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/ "How Much Is a Mormon Church Sex Abuse Settlement Worth?")
+[![Do i need a lawyer for my memory care facility abuse claim?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim-300x200.jpg "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/ "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")
 
-[#### How Much Is a Mormon Church Sex Abuse Settlement Worth?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/)
+[#### Do I Need a Lawyer for My Memory Care Facility Abuse Claim?](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/)
 
-[![How much does it cost to hire a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-much-does-it-cost-to-hire-a-mesothelioma-lawyer.jpg "How Much Does It Cost to Hire a Mesothelioma Lawyer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/ "How Much Does It Cost to Hire a Mesothelioma Lawyer?")
+[![Can an elderly person die from bone fractures?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-an-elderly-person-die-from-bone-fractures-scaled.jpg "Can an Elderly Person Die from Bone Fractures?")](https://www.pintas.com/faq/can-an-elderly-person-die-from-bone-fractures/ "Can an Elderly Person Die from Bone Fractures?")
 
-[#### How Much Does It Cost to Hire a Mesothelioma Lawyer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/)
+[#### Can an Elderly Person Die from Bone Fractures?](https://www.pintas.com/faq/can-an-elderly-person-die-from-bone-fractures/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
