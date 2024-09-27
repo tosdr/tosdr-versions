@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off BYRNA GUNS I Use Code: BYRNA15](https://www.thehomesecuritysuperstore.com/collections/byrna-pepper?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+BYRNA+GUNS)
+[15% Off SECURITY CAMERAS I Use Code: SC15](https://www.thehomesecuritysuperstore.com/collections/security-cameras?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SECURITY+CAMERAS)
 
-Today’s offer: :: | 15% Off BYRNA GUNS I Use Code: BYRNA15
+Today’s offer: :: | 15% Off SECURITY CAMERAS I Use Code: SC15
 
 Today’s offer: : :
 
- 15% Off BYRNA GUNS I Use Code: BYRNA15
+ 15% Off SECURITY CAMERAS I Use Code: SC15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
