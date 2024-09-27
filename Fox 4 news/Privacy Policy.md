@@ -5,7 +5,7 @@
 * [Weather](https://www.fox4news.com/weather)
 * [Sports](https://www.fox4news.com/sports)
 * [Good Day](https://www.fox4news.com/shows/good-day)
-* [Traffic](https://www.fox4news.com/traffic)
+* [State Fair of Texas](https://www.fox4news.com/shows/state-fair-of-texas)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
@@ -400,37 +400,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![NYC Mayor Eric Adams indicted: Live updates](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1)
+ [![Hurricane Helene makes landfall in Florida's Big Bend region near Perry as powerful Cat 4 storm](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/3693144f-snapshot-11.jpg?ve=1&tl=1)
 
- ![NYC Mayor Eric Adams indicted: Live updates](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
-
-### [NYC Mayor Eric Adams indicted: Live updates](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
-
- [![Live updates: Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/a2af6fc5-slot0-8.jpg?ve=1&tl=1)
-
- ![Live updates: Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/a2af6fc5-slot0-8.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
+ ![Hurricane Helene makes landfall in Florida's Big Bend region near Perry as powerful Cat 4 storm](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/3693144f-snapshot-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-makes-landfall-along-floridas-nature-coast-powerful-cat-4-storm)
 
 Live Now
 
-### [Live updates: Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
+### [Hurricane Helene makes landfall in Florida's Big Bend region near Perry as powerful Cat 4 storm](https://www.fox4news.com/news/hurricane-helene-makes-landfall-along-floridas-nature-coast-powerful-cat-4-storm)
 
- [![Dallas house fire leaves man dead, woman in critical condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092524-Sky-4-Wednesday-PM-KDFWEME002_18_09_02_mpg_00.05.55.32.jpg?ve=1&tl=1)
+ [![NYC Mayor Eric Adams charged with selling his influence to foreign nationals](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1)
 
- ![Dallas house fire leaves man dead, woman in critical condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092524-Sky-4-Wednesday-PM-KDFWEME002_18_09_02_mpg_00.05.55.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tilman-street-deadly-house-fire-investigation)
+ ![NYC Mayor Eric Adams charged with selling his influence to foreign nationals](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/09/32/18/592/333/ADAMS-INDICTED-TXT-IMG.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
 
-### [Dallas house fire leaves man dead, woman in critical condition](https://www.fox4news.com/news/tilman-street-deadly-house-fire-investigation)
+### [NYC Mayor Eric Adams charged with selling his influence to foreign nationals](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
 
- [![Southwest open seating, baggage fee decisions announced](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Southwest-Airlines.jpg?ve=1&tl=1)
+ [![Dak Prescott throws 2 TD passes and Cowboys win 7th straight over Giants, 20-15](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174741884.jpg?ve=1&tl=1)
 
- ![Southwest open seating, baggage fee decisions announced](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Southwest-Airlines.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-open-seating-baggage-fee-announced)
+ ![Dak Prescott throws 2 TD passes and Cowboys win 7th straight over Giants, 20-15](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174741884.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-new-york-giants-sept-26)
 
-### [Southwest open seating, baggage fee decisions announced](https://www.fox4news.com/news/southwest-open-seating-baggage-fee-announced)
+### [Dak Prescott throws 2 TD passes and Cowboys win 7th straight over Giants, 20-15](https://www.fox4news.com/sports/dallas-cowboys-new-york-giants-sept-26)
 
- [![Man found guilty in rapper Young Dolph’s death gets life sentence](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Young-Dolph-memorial.jpg?ve=1&tl=1)
+ [![Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/3693144f-snapshot-11.jpg?ve=1&tl=1)
 
- ![Man found guilty in rapper Young Dolph’s death gets life sentence](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Young-Dolph-memorial.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-guilty-rapper-young-dolphs-death-gets-life-sentence)
+ ![Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/3693144f-snapshot-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
 
-### [Man found guilty in rapper Young Dolph’s death gets life sentence](https://www.fox4news.com/news/man-found-guilty-rapper-young-dolphs-death-gets-life-sentence)
+### [Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
+
+ [![Texas Supreme Court denies Ken Paxton's latest attempt to block state fair gun ban](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/State-Fair-of-Texas-7.jpg?ve=1&tl=1)
+
+ ![Texas Supreme Court denies Ken Paxton's latest attempt to block state fair gun ban](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/State-Fair-of-Texas-7.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-supreme-court-denies-ken-paxtons-latest-attempt-block-state-fair-gun-ban)
+
+### [Texas Supreme Court denies Ken Paxton's latest attempt to block state fair gun ban](https://www.fox4news.com/news/texas-supreme-court-denies-ken-paxtons-latest-attempt-block-state-fair-gun-ban)
 
 ###### [News](https://www.fox4news.com/news)
 
