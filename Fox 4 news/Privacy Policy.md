@@ -406,31 +406,31 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [NYC Mayor Eric Adams indicted: Live updates](https://www.fox4news.com/news/nyc-mayor-adams-indicted-wont-resign)
 
- [![Melania Trump opens up after assassination attempts on her husband](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/fox-and-friends-melania.jpg?ve=1&tl=1)
+ [![Live updates: Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/a2af6fc5-slot0-8.jpg?ve=1&tl=1)
 
- ![Melania Trump opens up after assassination attempts on her husband](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/fox-and-friends-melania.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/melania-trump-assassination-attempts-husband-surviving-really-miracles)
-
-### [Melania Trump opens up after assassination attempts on her husband](https://www.fox4news.com/news/melania-trump-assassination-attempts-husband-surviving-really-miracles)
-
- [![Live updates: Hurricane Helene now Cat. 3 storm, to become stronger before Florida landfall](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/slot0-39.jpg?ve=1&tl=1)
-
- ![Live updates: Hurricane Helene now Cat. 3 storm, to become stronger before Florida landfall](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/slot0-39.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
+ ![Live updates: Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/a2af6fc5-slot0-8.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
 
 Live Now
 
-### [Live updates: Hurricane Helene now Cat. 3 storm, to become stronger before Florida landfall](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
+### [Live updates: Hurricane Helene an 'extremely dangerous' Category 4 storm on track to Florida](https://www.fox4news.com/news/hurricane-helene-forecast-florida-september-26-2024)
 
- [![Harris, Zelenskyy holding joint press conference Thursday](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Harris-and-Zelynskyy.jpg?ve=1&tl=1)
+ [![Dallas house fire leaves man dead, woman in critical condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092524-Sky-4-Wednesday-PM-KDFWEME002_18_09_02_mpg_00.05.55.32.jpg?ve=1&tl=1)
 
- ![Harris, Zelenskyy holding joint press conference Thursday](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Harris-and-Zelynskyy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-zelenskyy-joint-press-conference)
+ ![Dallas house fire leaves man dead, woman in critical condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092524-Sky-4-Wednesday-PM-KDFWEME002_18_09_02_mpg_00.05.55.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tilman-street-deadly-house-fire-investigation)
 
-### [Harris, Zelenskyy holding joint press conference Thursday](https://www.fox4news.com/news/harris-zelenskyy-joint-press-conference)
+### [Dallas house fire leaves man dead, woman in critical condition](https://www.fox4news.com/news/tilman-street-deadly-house-fire-investigation)
 
- [![UPS hiring 125K seasonal workers: Here's who else is hiring for the holidays](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-UPS-2.jpg?ve=1&tl=1)
+ [![Southwest open seating, baggage fee decisions announced](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Southwest-Airlines.jpg?ve=1&tl=1)
 
- ![UPS hiring 125K seasonal workers: Here's who else is hiring for the holidays](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-UPS-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-hiring-holiday-workers-ups-aldi-target)
+ ![Southwest open seating, baggage fee decisions announced](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Southwest-Airlines.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-open-seating-baggage-fee-announced)
 
-### [UPS hiring 125K seasonal workers: Here's who else is hiring for the holidays](https://www.fox4news.com/news/whos-hiring-holiday-workers-ups-aldi-target)
+### [Southwest open seating, baggage fee decisions announced](https://www.fox4news.com/news/southwest-open-seating-baggage-fee-announced)
+
+ [![Man found guilty in rapper Young Dolph’s death gets life sentence](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Young-Dolph-memorial.jpg?ve=1&tl=1)
+
+ ![Man found guilty in rapper Young Dolph’s death gets life sentence](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Young-Dolph-memorial.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-guilty-rapper-young-dolphs-death-gets-life-sentence)
+
+### [Man found guilty in rapper Young Dolph’s death gets life sentence](https://www.fox4news.com/news/man-found-guilty-rapper-young-dolphs-death-gets-life-sentence)
 
 ###### [News](https://www.fox4news.com/news)
 
