@@ -2,8 +2,6 @@
 
   
 
-[Publishers](https://chartable.com/publishers)
-
 [Charts](https://chartable.com/charts)
 
 [Log in](https://chartable.com/sign_in)
@@ -220,25 +218,13 @@ Indemnification for Chartable Dashboard
 
 You agree to indemnify and hold us, our directors, officers, employees and suppliers harmless to the fullest extent of applicable law from any claim, action, demand, loss, liability, damage, cost or expense (including, without limitation, legal fees) arising from or in connection with (i) your breach of these Dashboard Terms, (ii) your violation of any laws or regulations or third-party rights (such as intellectual property or privacy rights), (iii) any content you have submitted to or through Chartable Dashboard or (iv) any dispute you have or may have with other users or any third party.
 
-[For publishers](https://chartable.com/publishers)
-
-[Podcast Analytics](https://chartable.com/publishers)
-
-[Podcast SmartLinks](https://chartable.com/publishers/smartlinks)
-
-[SmartPromos](https://chartable.com/publishers/smartpromos)
-
-[Pricing](https://chartable.com/publishers/pricing)
-
- [](https://chartable.com/publishers)
+Podcasts
 
 [Podcast Reviews](https://chartable.com/publishers/podcast-reviews)
 
 [Podcast Charts](https://chartable.com/charts)
 
 Accounts
-
-[Sign up](https://chartable.com/sign_up)
 
 [Log in](https://chartable.com/sign_in)
 
@@ -253,22 +239,6 @@ Help
 [\[email protected\]](https://chartable.com/cdn-cgi/l/email-protection)
 
 [Service status](https://chartable.statuspage.io/)
-
-[Glossary](https://chartable.com/glossary)
-
-[Submit a Podcast](https://chartable.com/podcasts/submit)
-
-Chartable
-
-[About us](https://chartable.com/about)
-
-[The Chartable Blog](https://chartable.com/blog)
-
-[Changelog](https://changelog.chartable.com/)
-
-[Chartable Radio](https://chartable.com/podcasts/chartable-radio)
-
-[@ChartableDotCom](https://twitter.com/ChartableDotCom)
 
 © 2024 Chartable Holding, LLC
 
