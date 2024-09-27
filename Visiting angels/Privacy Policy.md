@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How a Home Care Agency Can Help Prevent Falls](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-home-care-agency-can-help-prevent-falls/483)
+[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
 
-[A Generation in Denial: A Call for Faster Action](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/a-generation-in-denial-a-call-for-faster-action/356)
+[Part 2: Expert Advice When Caring for a Loved One with Alzheimer’s](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-2-expert-advice-when-caring-for-a-loved-one-with-alzheimers/368)
 
-[Veterans Choice Program Can Be a Life Saver](https://www.visitingangels.com/knowledge-center/care-options/veterans-choice-program-can-be-a-life-saver/349)
+[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
 
-[Setting Your New Caregiver Up for Success](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/setting-your-new-caregiver-up-for-success/352)
+[Understanding “Veterans’ Culture” When Caring for an Aging Vet](https://www.visitingangels.com/knowledge-center/why-in-home-care/understanding-veterans-culture-when-caring-for-an-aging-vet/338)
 
-[Does Your Loved One Need Elder Care Services?](https://www.visitingangels.com/knowledge-center/care-options/does-your-loved-one-need-elder-care-services/53)
+[What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
