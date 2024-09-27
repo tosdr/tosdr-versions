@@ -229,7 +229,7 @@ In order for us to provide the products, content or services you request, we nee
 
 #### IDG Communications Publishing Network
 
-This website is one of many that IDGC and its group of undertakings operates, all of which we collectively refer to as the IDG Communications Publishing Network. Where permitted by law, we may share the personal data we collect about you with another IDG Communications Publishing Network company so that we can provide you with information about products, content and services that might interest you, and for internal analytical and business development purposes. [Please click here for a list](https://www.idg.com/idgnet/) of the online and print publications included in the IDG Communications Publishing Network.
+This website is one of many that IDGC and its group of undertakings operates, all of which we collectively refer to as the IDG Communications Publishing Network. Where permitted by law, we may share the personal data we collect about you with another IDG Communications Publishing Network company so that we can provide you with information about products, content and services that might interest you, and for internal analytical and business development purposes. [Please click here for a list](https://www.pcworld.com/about/.https://foundryco.com/idgnet/) of the online and print publications included in the IDG Communications Publishing Network.
 
 How do we safeguard your personal data?
 ---------------------------------------
