@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [DRAGON BALL Xenoverse 2 Reveals the Teaser Trailer of the FUTURE SAGA Chapter 2](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-xenoverse-2-reveals-the-teaser-trailer-of-the-future-saga-chapter-2)
 * [DRAGON BALL: Sparking! ZERO: Know Your Fighters!](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-sparking-zero-know-your-fighters)
-* [BLEACH Rebirth of Souls is set to launch in Early 2025](https://en.bandainamcoent.eu/bleach/news/bleach-rebirth-of-souls-set-launch-early-2025)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
