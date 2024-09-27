@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/1-mei-maar-eigenlijk-altijd-guerilla-gardening/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/n-nieuw-licht-op-het-heden-en-bewust-zijn-een-her-innering/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
