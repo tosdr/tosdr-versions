@@ -179,7 +179,7 @@ Follow Us
 Follow Us : click to collapse : click to expand
 
 * [Facebook](https://www.facebook.com/GapInc/)
-* [Twitter](https://twitter.com/GapInc)
+* [X](https://x.com/GapInc)
 * [Instagram](https://www.instagram.com/gapinc/)
 * [Youtube](https://www.youtube.com/user/GapInc)
 * [LinkedIn](https://www.linkedin.com/company/gap-inc-)
