@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6cf425ff5d32dee951d6d78c3c86bb50
+aee00637a3d41fe4d0bbb076d5a2ad44
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm faceted round jade beads](https://www.sojourner.biz/images/cache/jade/JD0004.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/jade/10-mm-faceted-round-jade-beads.html "10 mm faceted round jade beads")
+[![Round turquoise flower clasp](https://www.sojourner.biz/images/cache/SKU0110front.200.jpg)](https://www.sojourner.biz/clasps/glass/round-turquoise-flower-clasp.html "Round turquoise flower clasp")
 
-#### [10 mm faceted round jade beads](https://www.sojourner.biz/beads/stone-a-l/jade/10-mm-faceted-round-jade-beads.html "10 mm faceted round jade beads")
+#### [Round turquoise flower clasp](https://www.sojourner.biz/clasps/glass/round-turquoise-flower-clasp.html "Round turquoise flower clasp")
 
-$65.00
+$15.00
 
 ### Best Sellers
 
@@ -193,10 +193,10 @@ $65.00
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 10. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
 
