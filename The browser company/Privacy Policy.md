@@ -61,13 +61,9 @@ The following are terms that are frequently referred to in this privacy policy b
 * **Personal Data** means any information that identifies or relates to a particular individual (often referred to as “personally identifiable information” or “PII”).  
     Data that is completely anonymized and cannot be linked with an individual user is NOT considered Personal Data.
 * **Service Providers** help us run our business and provide the Services to you. They may include:
-    
     * Hosting, analytics, database, and communication providers, such as the authentication service we use to allow you to log into your account.
     * Support and customer service software providers, such as the software our team uses to communicate with you when you report a bug.
-    * Security consultants who help us reduce security vulnerabilities in our software.
-    
-      
-    Service Providers are contractually required to only handle your data in ways that we specify, including being contractually prohibited from selling your data.
+    * Security consultants who help us reduce security vulnerabilities in our software.Service Providers are contractually required to only handle your data in ways that we specify, including being contractually prohibited from selling your data.
 
 What personal data do we collect and how do we collect it?
 ----------------------------------------------------------
