@@ -165,6 +165,8 @@ one shift at a time
 
 Features
 
+Features
+
 [Auto scheduling](https://www.deputy.com/features/auto-scheduling)
 
 [Break planning compliance](https://www.deputy.com/features/break-planning)
@@ -203,6 +205,8 @@ Features
 
 HR Software
 
+HR Software
+
 [Deputy HR](https://www.deputy.com/hr-software)
 
 New
@@ -215,6 +219,8 @@ New
 
 Product
 
+Product
+
 [Pricing](https://www.deputy.com/pricing)
 
 [Product tour](https://www.deputy.com/features)
@@ -223,9 +229,13 @@ Product
 
 Business size
 
+Business size
+
 [Enterprise](https://www.deputy.com/enterprise)
 
 [Small or medium-sized](https://www.deputy.com/small-and-medium-business)
+
+Industries served
 
 Industries served
 
@@ -263,6 +273,8 @@ Industries served
 
 Resources
 
+Resources
+
 [Blog](https://www.deputy.com/blog)
 
 [Customer stories](https://www.deputy.com/blog?type=customer-story)
@@ -283,6 +295,8 @@ Resources
 
 Support
 
+Support
+
 [Deputy training](https://www.deputy.com/training)
 
 [Deputy API](https://developer.deputy.com/)
@@ -299,6 +313,8 @@ Support
 
 Company
 
+Company
+
 [About us](https://www.deputy.com/about)
 
 [Careers](https://www.deputy.com/careers)
@@ -312,6 +328,8 @@ Join Us
 [Why Deputy](https://www.deputy.com/why-deputy)
 
 [Workforce management](https://www.deputy.com/workforce-management)
+
+Contact us
 
 Contact us
 
