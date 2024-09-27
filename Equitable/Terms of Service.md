@@ -147,6 +147,8 @@ We are continuously improving our digital accessibility, recognizing the importa
             * [Working with us](https://equitable.com/financial-professionals/life-insurance/Working-with-us)
             * [section-heading: Workplace retirement](#)
             * [Workplace Retirement plans](https://equitable.com/financial-professionals/workplace-retirement-plans)
+            * [Products](#)
+                * [401(k) retirement plan](https://equitable.com/financial-professionals/workplace-retirement-plans/401k-retirement-plan)
             * [section-heading: Employee benefits](#)
             * [Employee benefits](https://equitable.com/financial-professionals/employee-benefits)
             * [Products](https://equitable.com/financial-professionals/employee-benefits/insurance-products-overview)
