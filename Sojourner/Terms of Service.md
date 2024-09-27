@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7897f66352475f25f5eb67cfa8608197
+d06b50fb8d7c6f5dfe58ca2f815349f5
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm faceted peridot diamond beads](https://sojourner.biz/images/cache/peridot/PER001.200.jpg)](https://sojourner.biz/beads/stone-m-z/peridot/6-mm-faceted-peridot-diamond-beads.html "6 mm faceted peridot diamond beads")
+[![14 mm faceted round black onyx beads](https://sojourner.biz/images/cache/stone/ON0011.200.jpg)](https://sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
 
-#### [6 mm faceted peridot diamond beads](https://sojourner.biz/beads/stone-m-z/peridot/6-mm-faceted-peridot-diamond-beads.html "6 mm faceted peridot diamond beads")
+#### [14 mm faceted round black onyx beads](https://sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
 
-$18.00
+$46.00
 
 ### Best Sellers
 
