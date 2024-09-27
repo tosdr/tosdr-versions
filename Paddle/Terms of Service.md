@@ -147,8 +147,8 @@ Find answers to your questions about buying products and services from Paddle](h
 [Billing FAQs](https://www.paddle.com/billing-faqs)
 
 * Login
-    * [![](/images/icon-prod-billing-contained-s.png)Paddle Billing](https://vendors.paddle.com/)
-    * [![](/images/icon-prod-metrics-contained-s.png)ProfitWell Metrics](https://www2.profitwell.com/app/dashboard)
+    * [![](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-prod-billing-contained-s.38fa3461.png&w=256&q=75)Paddle Billing](https://vendors.paddle.com/)
+    * [![](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-prod-metrics-contained-s.fbd3d511.png&w=384&q=75)ProfitWell Metrics](https://www2.profitwell.com/app/dashboard)
 
 [Get started](https://www.paddle.com/get-started)
 
@@ -161,8 +161,8 @@ Use cases[Launch your SaaS](https://www.paddle.com/solutions/launch)[Introduce P
 [Pricing](https://www.paddle.com/pricing)[Paddle Studios](https://www.paddle.com/studios)[Resources](https://www.paddle.com/resources)[Customer stories](https://www.paddle.com/customers)[Careers](https://www.paddle.com/careers)[Help center](https://www.paddle.com/help)[Developer docs](https://developer.paddle.com/)[Why has Paddle charged me?](https://www.paddle.com/about/why-has-paddle-charged-me)
 
 * Login
-    * [![](/images/icon-prod-billing-contained-s.png)Paddle Billing](https://vendors.paddle.com/)
-    * [![](/images/icon-prod-metrics-contained-s.png)ProfitWell Metrics](https://www2.profitwell.com/app/dashboard)
+    * [![](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-prod-billing-contained-s.38fa3461.png&w=256&q=75)Paddle Billing](https://vendors.paddle.com/)
+    * [![](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-prod-metrics-contained-s.fbd3d511.png&w=384&q=75)ProfitWell Metrics](https://www2.profitwell.com/app/dashboard)
 
 [Get started](https://www.paddle.com/get-started)
 
