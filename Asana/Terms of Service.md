@@ -1,7 +1,3 @@
-We're proud to be named a Leader in the 2024 Gartner® Magic Quadrant™ for Adaptive Project Management and Reporting. [Access the report](https://asana.com/resources/gartner-magic-quadrant-adaptive-project-management?utm_medium=website&utm_source=web_banner&utm_content=topbanner&utm_campaign=gartner-apmr-mq25)
-
-x icon
-
 [Asana Home](https://asana.com/?noredirect)
 
 * Features chevron-down icon
@@ -470,6 +466,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * Asana
 * [Home](https://asana.com/?noredirect)
 * [Product](https://asana.com/product)
+* [What's New](https://asana.com/whats-new)
 * [Pricing](https://asana.com/pricing)
 * [Starter](https://asana.com/plan/starter)
 * [Advanced](https://asana.com/plan/advanced)
