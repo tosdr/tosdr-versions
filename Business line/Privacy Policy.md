@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-##### SENSEX   85,169.87
+##### SENSEX   85,571.85
 
-+ 255.83
+ -264.27
 
-##### NIFTY   26,004.15
+##### NIFTY   26,178.95
 
-+ 63.75
+ -37.10
 
-##### CRUDEOIL   5,844.00
+##### CRUDEOIL   5,694.00
 
- -139.00
+ 0.00
 
-##### GOLD   75,265.00
+##### GOLD   74,930.00
 
- -48.00
++ 72.00
 
-##### SILVER   92,041.00
+##### SILVER   91,400.00
 
- -352.00
++ 2.00
 
-##### SENSEX   85,169.87
+##### SENSEX   85,571.85
 
-+ 255.83
+ -264.27
 
-##### NIFTY   26,004.15
+##### NIFTY   26,178.95
 
-+ 63.75
+ -37.10
 
-##### NIFTY   26,004.15
+##### NIFTY   26,178.95
 
-+ 63.75
+ -37.10
 
-##### CRUDEOIL   5,844.00
+##### CRUDEOIL   5,694.00
 
- -139.00
+ 0.00
 
-##### CRUDEOIL   5,844.00
+##### CRUDEOIL   5,694.00
 
- -139.00
+ 0.00
 
-##### GOLD   75,265.00
+##### GOLD   74,930.00
 
- -48.00
++ 72.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -699,9 +699,9 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-20-september-2024/article68660098.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-27-september-2024/article68686710.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Anil Ambani Reliance Power Shares](https://www.thehindubusinessline.com/markets/stock-markets/anil-ambani-rpower-stocks-reliance-power-share-price-live-updates-today-27-sep-2024/article68684636.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Vodafone Idea Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/vodafone-idea-stocks-vodafone-idea-share-price-today-live-updates-20-sep-2024/article68662802.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Bajaj Housing Finance IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/bajaj-housing-finance-share-price-today-bajaj-housing-finance-ipo-listing-live-16-sep-2024/article68647302.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Group Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/adani-group-stocks-adani-enterprises-adani-energy-adani-power-adani-green-energy-share-price-live-updates-13-sept-2024/article68637228.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Tata Motors Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/tata-motors-stocks-tata-motors-share-price-today-live-updates-11-sep-2024/article68531439.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
@@ -723,12 +723,12 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on Group sites
 
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) India Vs Bangladesh Test Live Score](https://sportstar.thehindu.com/cricket/india-vs-bangladesh-live-score-2nd-test-match-updates-ind-v-ban-kanpur-scorecard-weather-highlights-streaming-info/article68685482.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Explore Frontline Packages](https://frontline.thehindu.com/packages/?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Cricket News](https://sportstar.thehindu.com/cricket/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Paralympics 2024](https://sportstar.thehindu.com/olympics/paris-paralympics-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Elections 2024](https://www.thehindu.com/topic/general-elections-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Electoral Bonds Full Data](https://www.thehindu.com/data/electoral-bond-full-data-complete-list-of-donors-parties-and-unique-numbers/article67976056.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Olympics Shoooting Live Score](https://sportstar.thehindu.com/olympics/paris-2024/news/shooting-live-score-paris-2024-olympics-updates-commentary-medals-results-10m-air-pistol-rifle-qualification-final-highlights/article68456278.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) PM Modi oath ceremony LIVE updates](https://www.thehindu.com/elections/lok-sabha/india-election-results-2024-updates-june-9-2024/article68268845.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Indian Premier League IPL 2024](https://sportstar.thehindu.com/cricket/ipl/)
