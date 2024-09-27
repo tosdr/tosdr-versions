@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Fritzbox als Netz­werk­speicher: Eine güns­tige NAS-Alternative mit Abstrichen](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Eine günstige NAS-Alternative mit Abstrichen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Gemischte Säfte und Smoothies: Viel Apfel, viel Enttäuschung](https://www.test.de/Gemischte-Saefte-und-Smoothies-Viel-Apfel-viel-Enttaeuschung-6138284-0/ "Gemischte Säfte und Smoothies - Viel Apfel, viel Enttäuschung")
 
 Service Stiftung Warentest
 
