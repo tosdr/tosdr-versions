@@ -118,63 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Kobus Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=23815004)  
-Fox Alarms & Security
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=149948187)  
+Goju Ryu Karate Centre
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=107600459)  
-Oak Tree Immigration
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=187500748)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=90804702)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=14738798)  
+Mtunzini Group
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=6779178)  
-Vplay Letsheng Mall
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=203882440)  
+AMS Ambu Medical Supplies
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=174603242)  
-Wiselink Broadband Pty Ltd
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=129985741)  
+Myfinance-Online
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=188789437)  
-RADIO TYGERBERG 104FM NPC
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=100975663)  
+McKaynine Mobility
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=90961098)  
-Blue Sky Solar Services
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=169582193)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=23496510)  
-Lemba Truck Stop
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=5748050)  
+Kara Medical (Pty) Ltd
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=58982420)  
-Itroniq (Pty) Ltd
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=25776610)  
+Enhle Oarabile Kea
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=129981095)  
-West Coast Horse Trails
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=91304755)  
+SLOANE STAR MEAT MARKET
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=111765036)  
-Qothiphango Mining
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=22479805)  
+Imhoff Equestrian Centre
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=143797965)  
-MR Compressors& Industrial Supplies
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=149793073)  
+webb it services
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=64438026)  
-Electro-Heat
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=45728957)  
+Sportspro Management (Pty) Ltd
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=164432117)  
-Xpress Designs
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=89600195)  
+Little Nutty Professors
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=501b641d1c3a99c44590b2979ea39a75fa113493d2714c7f9c41ca53c812823b&c=76987366)  
-Cpower Projects t/a Pro Pure Water
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=50411750)  
+ARCHITEK PTY LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
