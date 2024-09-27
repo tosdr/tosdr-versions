@@ -340,6 +340,7 @@ Gandi's news website uses embedded Youtube videos. By default, your refusal to a
 | locale | User preferences | .gandi.net | Language preferences | 1 year | Allows the interface language to be stored for the user |
 | atuserid | Analytics | \*.gandi.net | AT Internet cookie<br><br>Visitor ID for client-side cookie websites | 13 months | Allows you to track the number of unique visitors (only used to get this number, not used to track user behaviour between browsing sessions) |
 | atauthority | User preferences | \*.gandi.net | AT Internet cookie | 13 months | Allows the visitor privacy mode to be stored |
+| device\_token | Essential | id.gandi.net | Random identifier to store in the browser to identify this device for a given username. | 400 days | Security feature that allows to know if this device has already been used to log in at Gandi. |
 | \_pk\_ref | Analytics | \*.gandi.net | Matomo cookie<br><br>Referrer info | 6 months | Allows to know where trafic comes from |
 | \_pk\_id | Analytics | \*.gandi.net | Matomo cookie<br><br>User ID | 13 months | Track the number of unique visitors |
 | \_pk\_ses | Analytics | \*.gandi.net | Matomo cookie<br><br>Temporary information pertaining to current session | 30 minutes | Used to temporarily store data for the visit |
