@@ -89,6 +89,8 @@ However, you can still place orders over the telephone by contacting customer se
 
 We may disclose personal information with third parties for a variety of purposes. We grant access to personal information to, for example, website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. We may share information with select, carefully selected business partners to make valuable offers tailored to your needs. You may opt out of sharing with our business partners **[here](https://lifeprotect247.com/help).**
 
+The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
 Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **Third-party links**
