@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Hurricane Helene makes landfall in Florida as catastrophic Category 4 storm](https://nypost.com/2024/09/26/us-news/hurricane-helene-makes-landfall-in-florida-as-category-4-storm/)
+[Maggie Smith, Oscar-winning 'Harry Potter' and 'Downton Abbey' star, dead at 89](https://nypost.com/2024/09/27/entertainment/maggie-smith-dead-at-89/)
 
 Privacy Notice Highlights
 =========================
