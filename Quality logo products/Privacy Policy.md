@@ -577,7 +577,7 @@ Sign Up
 * [](https://www.linkedin.com/company/quality-logo-products "LinkedIn")
 * [](https://www.instagram.com/qualitylogoproducts/ "Instagram")
 * [](https://www.facebook.com/QualityLogoProducts "Facebook")
-* [](https://twitter.com/qualitylogo "Twitter")
+* [](https://x.com/qualitylogo "Twitter")
 * [](https://www.tiktok.com/@qualitylogoproducts "TikTok")
 
 #### Quality Logo Products, Inc.® is your number one source for stress balls and promotional items.  
