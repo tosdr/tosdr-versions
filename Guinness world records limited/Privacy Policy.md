@@ -96,6 +96,11 @@ Menu
 
 [Home](https://www.guinnessworldrecords.com/index.html)[Using this website](https://www.guinnessworldrecords.com/using-this-website/index.html) Privacy policy
 
+Ezoic Services
+==============
+
+This website has an exclusive advertising contract with Ezoic Inc. (“Ezoic”), a renowned leader in website optimization, enhancing user experiences, optimizing ad performance, and generating revenue through advanced AI-powered technology. Ezoic may employ a variety of technologies on this website, including to display advertisements and enable advertising to visitors of this website. For additional information about Ezoic’s advertising partners, please see Ezoic’s Advertising Partner Page [here](https://www.ezoic.com/privacy-policy/ad-partners/).
+
 Privacy Policy
 ==============
 
