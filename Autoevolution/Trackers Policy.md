@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![1969 Dodge Coronet Super Bee With Low Miles Shines Again After 30 Years in a Canadian Barn](https://s1.cdn.autoevolution.com/images/news/1969-dodge-coronet-super-bee-with-low-miles-shines-after-two-decades-in-a-canadian-barn-240413-5.jpg "1969 Dodge Coronet Super Bee With Low Miles Shines Again After 30 Years in a Canadian Barn")
+[![Okai's E-Kargo Aims To Take Over the Cargo E-Bike Scene, Tempts With Price and Versatility](https://s1.cdn.autoevolution.com/images/news/okai-s-e-kargo-aims-to-take-over-the-cargo-e-bike-scene-tempts-with-price-and-versatility-240417-5.jpeg "Okai's E-Kargo Aims To Take Over the Cargo E-Bike Scene, Tempts With Price and Versatility")
 
-1969 Dodge Coronet Super Bee With Low Miles Shines Again After 30 Years in a Canadian Barn](https://www.autoevolution.com/news/1969-dodge-coronet-super-bee-with-low-miles-shines-again-after-30-years-in-a-canadian-barn-240413.html)
+Okai's E-Kargo Aims To Take Over the Cargo E-Bike Scene, Tempts With Price and Versatility](https://www.autoevolution.com/news/okai-s-e-kargo-aims-to-take-over-the-cargo-e-bike-scene-tempts-with-price-and-versatility-240417.html)
 
 how-to \_
 
