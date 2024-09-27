@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/n-nieuw-licht-op-het-heden-en-bewust-zijn-een-her-innering/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-ongelofelijke-lever-en-galblaaszuivering/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -94,13 +94,13 @@ Inschrijven
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/carneool-op-arm.jpg?fit=440%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8009-edit.jpg?fit=440%2C440&ssl=1)
 
-### [Krachtige edelsteen voor krachtige mannen!](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/)
+### [Ring of Harmony: Terug naar de natuurlijke balans..!](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
-[– Let op! Aanbieding geldig t/m 26 september – Jammer dat zo weinig mannen sieraden dragen; van oudsher is het horloge of de manchetknoop de enige ‘propere’ manier waarop de man een ‘kunstwerkj’ op het lichaam kon dragen. Om schoonheid, het lichaam en het leven te vieren. Veel van de 2024-mannen zijn uit de drukkende matrix van ‘grijs machismo’ aan het breken. Heb je het deze zomer ook gezien? Een mannelijk sieraad is steeds populairder! Natuurlijk helemaal mooi als zo’n fraaie armband is gemaakt van energetisch-werkzame edelsteen! Dus een sieraad voor het oog, en stimulans voor de energiehuisbalans en de chakras! Wij vonden deze bijzondere, handgemaakte en stoer esthetische, prachtige edelsteen-armbanden, die we met een Nederlandse edelstenenexpert selecteerden. Neem eenvoudig de kracht van edelstenen op in je dagelijkse leven. Wees er snel bij, de sieradenreservering zal snel uitverkocht zijn, zo is de verwachting..! Speciaal geselecteerd & zolang de voorraad strekt! …](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/)
+[Water is van alle elementen, in staat de trillingen die het tegenkomt in zich op te nemen, vast te houden en af te geven als het bijvoorbeeld in het lichaam terecht komt. In de natuur heeft elke materie een eigen frequentie/stralingsenergie, die bestaat uit een biologische harmonische trilling. Maar ook chemische samenstellingen, die de mens zelf in een laboratorium maakt, hebben zo’n frequentie. Het plotselinge verschijnen van zo’n nieuwe materie, bijvoorbeeld bij de uitvinding van een nieuw voedingsadditief, heeft daardoor niet alleen effect in de fysieke realiteit, maar ook in de wereld van de trillingen. Een nieuwe ‘stem’ in de harmonie, die nog wel eens ‘vals’ kan zingen. Onharmonisch ’tegen-werkt’. Het is met dit inzicht, dat wij deze Ring of Harmony van Aquarius Vitaliser aanbieden. Lees snel verder hoe de Ring of Harmony jou kan ‘voeden’ en negatieve energie neutraliseert…. …](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
-[Order now](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/#pt-field-text-5)
+[Order now](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/#pt-field-text-5)
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
@@ -151,6 +151,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
+
+##### **Adriaan W** reacts on:
+
+##### De aanval op de multidimensionale mens..!
+
+[Weer een Triple A artikel van mevr. Harriet, waaraan ik af e…](https://www.wanttoknow.nl/overige/de-aanval-op-de-multidimensionale-mens/comment-page-1/#comment-626331)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -399,14 +407,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Hoe Pia Dijkstra (D66) de TweedeKamer en NL-volk MINACHT..!!
 
 [hoi Eliza. Hoe u het ook draait of keert zelfs nu er een nie…](https://www.wanttoknow.nl/gezondheid/hoe-pia-dijkstra-d66-de-tweedekamer-en-nl-volk-minacht/comment-page-1/#comment-626296)
-
-![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
-
-##### **GuidoJ.** reacts on:
-
-##### Onderhoud 1 windmolenpark: 7 miljoen diesel/jaar..!!
-
-[Tja Peter, dit zijn van die gekke rekensommetjes. 'Verspilde…](https://www.wanttoknow.nl/overige/onderhoud-1-windmolenpark-7-miljoen-diesel-jaar/comment-page-1/#comment-626295)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
