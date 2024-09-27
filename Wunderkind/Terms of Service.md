@@ -175,11 +175,11 @@ These Terms of Use constitute the entire agreement between the user and Wunderki
 
 ![](https://wkd.wpengine.com/wp-content/uploads/2020/04/logo-black.svg)
 
-* [Wunderkind vs Bluecore](https://www.wunderkind.co/wunderkind-vs-bluecore/)
 * [About Us](https://www.wunderkind.co/about-us)
 * [Culture & Careers](https://www.wunderkind.co/culture)
 * [Diversity & Inclusion](https://www.wunderkind.co/diversity-and-inclusion)
 * [Partners](https://partners.wunderkind.co/)
+* [Wunderkind vs Bluecore](https://www.wunderkind.co/wunderkind-vs-bluecore/)
 
 NYC
 ---
