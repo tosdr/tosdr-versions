@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Hurricane Helene's eye wall is moving onshore in Florida: 'Take action now to protect your life!'](https://nypost.com/2024/09/25/us-news/hurricane-helene-live-updates-path-photos/)
+[Maggie Smith, Oscar-winning 'Harry Potter' and 'Downton Abbey' star, dead at 89](https://nypost.com/2024/09/27/entertainment/maggie-smith-dead-at-89/)
 
 Terms Of Use
 ============
