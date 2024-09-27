@@ -77,6 +77,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [Ausbildung und duales Studium mit Sinn](https://www.zeit.de/campus/angebote/lvr-ausbildung-und-duales-studium-mit-sinn/index)
 * [Podcast: HAW-Professur entdecken](https://www.zeit.de/angebote/zeit-magazin/fh-erfurt/podcast-futurefusion-hawprofessur)
 * [Der Weg zum Marathon](https://www.zeit.de/angebote/zeit-magazin/marathon-is-a-teamsport/index)
 * [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/food-trends/index)
@@ -105,6 +106,8 @@ Anzeigen
     * Automatisch
     * Hell
     * Dunkel
+
+[**Eilmeldung** 15:19 Uhr Britische Schauspielerin Maggie Smith ist tot](https://www.zeit.de/kultur/film/2024-09/britische-schauspielerin-maggie-smith-ist-tot)
 
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
