@@ -587,21 +587,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
 * [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 
 test.de entdecken
 
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
 * [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 
 test.de entdecken
 
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,39 +2782,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
 * [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 
 test.de entdecken
 
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
 
 Neueste Tests
 
+* [Privathaft­pflicht im Vergleich: Haft­pflicht­versicherungen – oft lohnt sich ein Wechsel](https://www.test.de/Vergleich-Haftpflichtversicherung-4775777-0/ "Privathaftpflicht im Vergleich - Haftpflichtversicherungen – oft lohnt sich ein Wechsel")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
 * [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
 * [Kinder­matratzen im Test: Hier schlafen die Kleinen sicher](https://www.test.de/Kindermatratzen-Matratzen-fuer-Babys-und-Kleinkinder-im-Test-4669392-0/ "Kindermatratzen im Test - Hier schlafen die Kleinen sicher")
 * [Matratzen im Test: Erhol­sam schlafen – auf Schaum­stoff, Latex, Federkern](https://www.test.de/Matratzen-im-Test-1830877-0/ "Matratzen im Test - Erholsam schlafen – auf Schaumstoff, Latex, Federkern")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
 
 test.de entdecken
 
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
 
 Service Stiftung Warentest
 
