@@ -20,9 +20,7 @@ Chat faster
 
 ![](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc7f34e5832a9d9bd893_arrow.png)](https://www.grindr.com/help)[Advertise](https://www.grindr.com/advertise)[Careers](https://www.grindr.com/careers)[GRINDR FOR EQUALITY](https://www.grindr.com/g4e)[Blog](https://www.grindr.com/blog)[Video
 
-![](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc7f34e5832a9d9bd893_arrow.png)](https://www.youtube.com/grindr)[Shop
-
-![](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc7f34e5832a9d9bd893_arrow.png)](https://shop.grindr.com/)[Unlimited](https://www.grindr.com/unlimited)[Investors
+![](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc7f34e5832a9d9bd893_arrow.png)](https://www.youtube.com/grindr)[](https://shop.grindr.com/)[Unlimited](https://www.grindr.com/unlimited)[Investors
 
 ![](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc7f34e5832a9d9bd893_arrow.png)](https://investors.grindr.com/overview/default.aspx)
 
