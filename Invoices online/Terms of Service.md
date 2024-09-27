@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=115194026)  
-AFS Electrical
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=64818649)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Lincosa](https://www.invoicesonline.co.za/scripts/image.php?bid=8659&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=8320567)  
-Lincosa
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=97833035)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=11656993)  
-MONSTER SECURITY GUARDING
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=118977357)  
+Skinz Printing & Branding
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=23768611)  
-#DiGi3 Marketing & Design
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=65028941)  
-Kaylas Creations
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=59492690)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=194877811)  
-VerdanTech Pty Ltd
-
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=112413167)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=81886316)  
-Meyer Towing & Recovery
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=156905818)  
-Desygn
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=145354961)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=12181224)  
-OXYAIDER (PTY) LTD
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=54479549)  
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=121497092)  
 Konsortium Operations ( Roamfree Meats )
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=76818501)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=86020968)  
+Brilliant Roof Products
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=831cab1d45c8b1cb97815ed295ceae9b37f1b3ac896352362909bce280144c46&c=209805874)  
-van Schaik rentals
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=88152213)  
+Vplay Grafix
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=181308409)  
+Waterfinatics Swim School
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=96210654)  
+CBR Verwe/Paints
+
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=164957226)  
+TurboFibre
+
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=128439829)  
+Lemba Truck Stop
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=109129384)  
+Tagline Brands
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=210696043)  
+Bchange Online CC
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=45988493)  
+APTV Telecoms CC
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=158076237)  
+Vplay Letsheng Mall
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=72403306)  
+AquariumSmiths
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
