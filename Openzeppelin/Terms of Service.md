@@ -348,7 +348,7 @@ You agree to indemnify and hold harmless OpenZeppelin and its officers, director
 
 [](https://github.com/openzeppelin)[](https://twitter.com/OpenZeppelin)
 
-[Privacy Policy](https://www.openzeppelin.com/privacy) © © Zeppelin Group Ltd [Service Level Agreement](https://www.openzeppelin.com/service-level-agreement)
+© Zeppelin Group Ltd [Service Level Agreement](https://www.openzeppelin.com/service-level-agreement) [Privacy Policy](https://www.openzeppelin.com/privacy)
 
 Products
 
