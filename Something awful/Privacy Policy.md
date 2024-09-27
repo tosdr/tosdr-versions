@@ -205,25 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Zoom Out!](https://www.somethingawful.com/photoshop-phriday/zoom-out/1/)
-* [The Next Pope!](https://www.somethingawful.com/photoshop-phriday/next-pope-benedict/1/)
-* [Contest Results: The SA T-Shirt Contest](https://www.somethingawful.com/feature-articles/contest-results-sa/1/)
-* [Design the Worst Band Shirt!](https://www.somethingawful.com/photoshop-phriday/worst-band-shirts/1/)
-* [Randomly Generated Video Games! (Part One of Two)](https://www.somethingawful.com/photoshop-phriday/randomly-generated-games/1/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
+* [AOL and Burning to Death](https://www.somethingawful.com/icq-pranks/icq-transcript-aol/1/)
+* [The 22 Most Awful Moments in Science Fiction](https://www.somethingawful.com/most-awful/most-awful-scifi/1/)
+* [Candy Land: A Violent History](https://www.somethingawful.com/news/candy-land-violent/1/)
+* [The Big Hack Attack](https://www.somethingawful.com/icq-pranks/icq-transcript-big/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [Is it normal for people to start deciding they love jesus in your 30s](http://forums.somethingawful.com/showthread.php?threadid=4071230 "Is it normal for people to start deciding they love jesus in your 30s")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [What's the point of any of this?](http://forums.somethingawful.com/showthread.php?threadid=4071188 "What's the point of any of this?")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Have you ever been trolled into doing something stupid irl by the internet?](http://forums.somethingawful.com/showthread.php?threadid=4071191 "Have you ever been trolled into doing something stupid irl by the internet?")
 
 ### Random Articles
 
-* [KONQUER YOUR PORTFOLIO WITH MY KRYPTO KOINS!](https://www.somethingawful.com/news/bitcoin-mortal-kombat/)
-* [I'm Dreaming of a Zombie Christmas](https://www.somethingawful.com/news/im-dreaming-zombie/)
-* [The Gang's All Here!](https://www.somethingawful.com/news/gangs-all-here/)
-* [Porn of the Dead](https://www.somethingawful.com/horrors-of-porn/porn-dead/)
-* [Caliber 50](https://www.somethingawful.com/rom-pit/caliber-50/)
+* [Dark Castle](https://www.somethingawful.com/rom-pit/dark-castle/)
+* [Go Gaia, Stormfront, Bolt, and Rapbattles](https://www.somethingawful.com/weekend-web/go-gaia-stormfront/1/)
+* [Social Number](https://www.somethingawful.com/awful-links/social-number/)
+* [Squareeater (Thanks, Amy!)](https://www.somethingawful.com/awful-links/squareeater-binaural/)
+* [Campaign for Creative Industry Development](https://www.somethingawful.com/awful-links/awful-link-1783/)
 
 [Random!](https://www.somethingawful.com/random/)
 
