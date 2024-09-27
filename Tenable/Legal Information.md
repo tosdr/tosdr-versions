@@ -545,7 +545,7 @@ Discover the solution that's right for you.
 [Legal](https://www.tenable.com/legal)  
 [508 Compliance](https://www.tenable.com/section-508-voluntary-product-accessibility)
 
-[![Tenable Home](https://static.tenable.com/press/logos/TenableLogo_White_RGB.svg)](https://www.tenable.com/)
+[![Tenable logo](https://static.tenable.com/press/logos/TenableLogo_White_RGB.svg)](https://www.tenable.com/)
 
 * * *
 
@@ -654,13 +654,13 @@ Thank you for your interest in Tenable Vulnerability Management. A representativ
 
 Try for free Buy now
 
-### Tenable Vulnerability Management
+#### Tenable Vulnerability Management
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
 Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
 
-### Tenable Vulnerability Management
+#### Tenable Vulnerability Management
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy. **Purchase your annual subscription today.**
 
@@ -687,13 +687,13 @@ Thank you for your interest in Tenable.io. A representative will be in touch soo
 
 Try for free Buy now
 
-### Tenable Vulnerability Management
+#### Tenable Vulnerability Management
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
 Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
 
-### Tenable Vulnerability Management
+#### Tenable Vulnerability Management
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy. **Purchase your annual subscription today.**
 
@@ -720,13 +720,13 @@ Thank you for your interest in Tenable Vulnerability Management. A representativ
 
 Try for free Buy now
 
-### Try Tenable Web App Scanning
+#### Try Tenable Web App Scanning
 
 Enjoy full access to our latest web application scanning offering designed for modern applications as part of the Tenable One Exposure Management platform. Safely scan your entire online portfolio for vulnerabilities with a high degree of accuracy without heavy manual effort or disruption to critical web applications. **Sign up now.**
 
 Your Tenable Web App Scanning trial also includes Tenable Vulnerability Management and Tenable Lumin.
 
-### Buy Tenable Web App Scanning
+#### Buy Tenable Web App Scanning
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy. **Purchase your annual subscription today.**
 
@@ -744,13 +744,13 @@ Thank you for your interest in Tenable Web App Scanning. A representative will b
 
 Try for free Contact sales
 
-### Try Tenable Lumin
+#### Try Tenable Lumin
 
 Visualize and explore your exposure management, track risk reduction over time and benchmark against your peers with Tenable Lumin.
 
 Your Tenable Lumin trial also includes Tenable Vulnerability Management and Tenable Web App Scanning.
 
-### Buy Tenable Lumin
+#### Buy Tenable Lumin
 
 Contact a sales representative to see how Tenable Lumin can help you gain insight across your entire organization and manage cyber risk.
 
@@ -780,7 +780,11 @@ On-prem and in the cloud.
 
 ### Request a demo of Tenable Cloud Security
 
-_**Exceptional unified cloud security awaits you!**_
+* * *
+
+**Exceptional unified cloud security awaits you!**
+
+* * *
 
 We’ll show you exactly how Tenable Cloud Security helps you deliver multi-cloud asset discovery, prioritized risk assessments and automated compliance/audit reports.
 
@@ -804,7 +808,7 @@ Thank you for your interest in Tenable Enclave Security. A representative will b
 
 Try for free Buy now
 
-### Try Tenable Nessus Professional free
+#### Try Tenable Nessus Professional free
 
 Free for 7 days
 
@@ -817,33 +821,33 @@ Nessus Expert adds even more features, including external attack surface scannin
 
 Fill out the form below to continue with a Nessus Pro trial.
 
-### Buy Tenable Nessus Professional
+#### Buy Tenable Nessus Professional
 
 Tenable Nessus is the most comprehensive vulnerability scanner on the market today. Tenable Nessus Professional will help automate the vulnerability scanning process, save time in your compliance cycles and allow you to engage your IT team.
 
 Buy a multi-year license and save. Add Advanced Support for access to phone, community and chat support 24 hours a day, 365 days a year.
 
-#### Select Your License
+**Select your license**
 
 Buy a multi-year license and save.
 
  1 Year - $3,990\* 2 Years - $7,780.50\*Save  3 Years - $11,371.50\*Save
 
-Add Support and Training
+**Add support and training**
 
- **Advanced Support - $400**  
-**24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/nessus-professional/advanced-support).** **Nessus Fundamentals - $275**  
-**1 Year Access to the Nessus Fundamentals On-Demand Video Course for 1 person. [More info.](https://www.tenable.com/education/courses/nessus-fundamentals?utm_source=tenable-com&utm_medium=pro-modal-buy&utm_campaign=more-info)**
+ **Advanced Support - $400**
 
-[Buy Now](https://store.tenable.com/1479/purl-webNessusOneYearBundle_Support?x-promotion=webmodal-nessus&x-Source=Modal)
+24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/nessus-professional/advanced-support). **On-Demand Training - $275**
 
-[Renew an existing license](https://community.tenable.com/s/products) | [Find a reseller](https://www.tenable.com/partner-locator/resellers)
+1 Year Access to the Nessus Fundamentals On-Demand Video Course for 1 person. [More info](https://www.tenable.com/education/courses/nessus-fundamentals?utm_source=tenable-com&utm_medium=pro-modal-buy&utm_campaign=more-info).[Buy Now](https://store.tenable.com/1479/purl-webNessusOneYearBundle_Support?x-promotion=webmodal-nessus&x-Source=Modal)
+
+[Renew an existing license](https://community.tenable.com/s/products) [Find a reseller](https://www.tenable.com/partner-locator/resellers)
 
 \*VAT incl.
 
 Try for free Buy now
 
-### Try Tenable Nessus Expert free
+#### Try Tenable Nessus Expert free
 
 Free for 7 days.
 
@@ -851,29 +855,26 @@ Built for the modern attack surface, Nessus Expert enables you to see more and p
 
 **Already have Tenable Nessus Professional?**[Upgrade to Nessus Expert free for 7 days.](https://www.tenable.com/products/nessus/nessus-expert/evaluate/upgrade)
 
-### Buy Tenable Nessus Expert
+#### Buy Tenable Nessus Expert
 
 Built for the modern attack surface, Nessus Expert enables you to see more and protect your organization from vulnerabilities from IT to the cloud.
 
-#### Select Your License
+**Select your license**
 
 _Buy a multi-year license and save more._
 
- 1 Year - $5,990\*Save 2 Years - $11,680.50\*Save  3 Years - $17,071.50\*Save
+ **1 Year** - $5,990\*Save **2 Years** - $11,680.50\*Save  **3 Years** - $17,071.50\*Save
 
-Add Support and Training
-
- **Advanced Support - $400**  
-
-24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/advanced-support). **Nessus Fundamentals - $275**  
-1 Year Access to the Nessus Fundamentals On-Demand Video Course for 1 person. [More info.](https://www.tenable.com/education/courses/nessus-fundamentals?utm_source=tenable-com&utm_medium=expert-modal-buy&utm_campaign=more-info) **Nessus Fundamentals + Nessus Advanced - $350**  
+**Add support and training**  **Advanced Support - $400**  
+24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/advanced-support).  **Nessus Fundamentals - $275**  
+1 Year Access to the Nessus Fundamentals On-Demand Video Course for 1 person. [More info.](https://www.tenable.com/education/courses/nessus-fundamentals?utm_source=tenable-com&utm_medium=expert-modal-buy&utm_campaign=more-info)  **Nessus Fundamentals + Nessus Advanced - $385**  
 1 Year Access to the Nessus Fundamentals and Nessus Advanced On-Demand Video Courses for 1 person. [More info.](https://www.tenable.com/education/courses/nessus-advanced?utm_source=tenable-com&utm_medium=pro-buypage-embed&utm_campaign=more-info)
 
 [Buy Now](https://store.tenable.com/1479/purl-webExpertOneYearOptin?x-promotion=webmodal-expert&x-Source=Modal)
 
-[Renew an existing license](https://community.tenable.com/s/products) | [Find a reseller](https://www.tenable.com/partner-locator/resellers)
+[Renew an existing license](https://community.tenable.com/s/products) [Find a reseller](https://www.tenable.com/partner-locator/resellers)
 
-### Learn How Tenable Helps Achieve SLCGP Cybersecurity Plan Requirements
+#### Learn How Tenable Helps Achieve SLCGP Cybersecurity Plan Requirements
 
 Tenable solutions help fulfill all SLCGP requirements. Connect with a Tenable representative to learn more.
 
