@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110580-mid-day-digest-2024-09-26?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110619-mid-day-digest-2024-09-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,7 +104,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110580-mid-day-digest-2024-09-26?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110619-mid-day-digest-2024-09-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -116,20 +116,23 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34282)
+     [](https://patriotpost.us/cartoons/34286)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander Profiles of Valor: Mercy Among Mortal Enemies](https://patriotpost.us/alexander/110595-profiles-of-valor-mercy-among-mortal-enemies-2024-09-27)
+*      [David Harsanyi Harris’ Attack on the Filibuster Is an Attack on the Constitutional Order](https://patriotpost.us/opinion/110600-harris-attack-on-the-filibuster-is-an-attack-on-the-constitutional-order-2024-09-27)
+*      [Erick Erickson Democrats Support Foreign Interference to Stop Trump](https://patriotpost.us/opinion/110598-democrats-support-foreign-interference-to-stop-trump-2024-09-27)
+*      [Victor Davis Hanson October/September Surprises!](https://patriotpost.us/opinion/110597-october-slash-september-surprises-2024-09-27)
+*      [Josh Hammer The Amy Wax Inflection Point for ‘Elite’ Higher Education](https://patriotpost.us/opinion/110596-the-amy-wax-inflection-point-for-elite-higher-education-2024-09-27)
+*      [Michael Barone The Harris Campaign Might Need to Change Its Strategy](https://patriotpost.us/opinion/110601-the-harris-campaign-might-need-to-change-its-strategy-2024-09-27)
 *      [Tim Young Illegal Immigrants Replacing Americans in the Job Market in Three Easy Steps](https://patriotpost.us/opinion/110588-illegal-immigrants-replacing-americans-in-the-job-market-in-three-easy-steps-2024-09-27)
-*      [Hans von Spakovsky Get Ready for Another Mail-in Ballot Fiasco](https://patriotpost.us/opinion/110578-get-ready-for-another-mail-in-ballot-fiasco-2024-09-26)
-*      [Gary Bauer A Threat to the Republic](https://patriotpost.us/opinion/110575-a-threat-to-the-republic-2024-09-26)
-*      [Laura Hollis Biden-Harris Immigration Policies Waste Billions That Should Be Spent on Americans](https://patriotpost.us/opinion/110577-biden-harris-immigration-policies-waste-billions-that-should-be-spent-on-americans-2024-09-26)
-*      [Larry Elder Price Controls Are Bad — No Matter Who Demands Them](https://patriotpost.us/opinion/110576-price-controls-are-bad-no-matter-who-demands-them-2024-09-26)
-*      [Armstrong Williams The Media](https://patriotpost.us/opinion/110574-the-media-2024-09-26)
-*      [Ann Coulter The Real Kamala Harris](https://patriotpost.us/opinion/110573-the-real-kamala-harris-2024-09-26)
+*      [Gary Bauer Biden Giving Aid and Comfort to Enemies](https://patriotpost.us/opinion/110602-biden-giving-aid-and-comfort-to-enemies-2024-09-27)
+*      [Tim Graham When Reporters Are Just Explainers, Not Investigators](https://patriotpost.us/opinion/110599-when-reporters-are-just-explainers-not-investigators-2024-09-27)
+*      [Mark Alexander Profiles of Valor: Mercy Among Mortal Enemies](https://patriotpost.us/alexander/110595-profiles-of-valor-mercy-among-mortal-enemies-2024-09-27)
+*      [The Washington Stand ‘Suicide Pod’ Death Should Remind Us of What Makes Life Worth Living](https://patriotpost.us/opinion/110604-suicide-pod-death-should-remind-us-of-what-makes-life-worth-living-2024-09-27)
+*      [The Babylon Bee Eric Adams Declares New York a Sanctuary City for Mayors Facing Federal Criminal Charges](https://patriotpost.us/opinion/110603-eric-adams-declares-new-york-a-sanctuary-city-for-mayors-facing-federal-criminal-charges-2024-09-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +150,7 @@ Last Updated: November 15, 2011.
 
 ### The Foundation
 
-“Good constitutions are formed upon a comparison of the liberty of the individual with the strength of government: If the tone of either be too high, the other will be weakened too much. It is the happiest possible mode of conciliating these objects, to institute one branch peculiarly endowed with sensibility, another with knowledge and firmness.” —Alexander Hamilton (1788)
+“If we resort for a criterion to the different principles on which different forms of government are established, we may define a republic to be, or at least may bestow that name on, a government which derives all its powers directly or indirectly from the great body of the people, and is administered by persons holding their offices during pleasure for a limited period, or during good behavior.” —James Madison (1788)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
