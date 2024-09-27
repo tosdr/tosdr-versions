@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 27, 2024](https://www.japantimes.co.jp/archive/2024/09/27/ "archive page")
+[September 28, 2024](https://www.japantimes.co.jp/archive/2024/09/28/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -32,7 +32,7 @@ Subscribe
 
 * [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
 * [Hakamata retrial](https://www.japantimes.co.jp/tag/iwao-hakamata/ "Hakamata retrial")
-* [Hyogo governor](https://www.japantimes.co.jp/motohiko-saito/ "Hyogo governor")
+* [Hyogo governor](https://www.japantimes.co.jp/tag/motohiko-saito/ "Hyogo governor")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/about-us/link-policy/podcast/deep-dive/ "Deep Dive")
 
@@ -130,36 +130,42 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+[In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
 
-  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+  [![Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424159.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.")](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
+
+[Giant African snails mark 90 years of history in Okinawa](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
+
+  [![Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278413.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.")](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
 
 [Takaichi and Ishiba head to runoff in LDP leadership election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
 
   [![A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424046.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
 
-[Hyogo governor to seek reelection after automatically losing his seat next week](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
+[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-  [![Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
+  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-[Russia has a secret war drones project in China, intel sources say](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
+[Tokyo Game Show 2024 stacked with big returns and hyped announcements](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
 
-  [![Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423938.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.")](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
-
-[As Onosato dominates the spotlight, former sumo stars exit the stage](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
-
-  [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
+  [![Tokyo Game Show opens to the public on Sept. 28 full of cosplayers promoting a full slate of new and upcoming titles.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424118.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Game Show opens to the public on Sept. 28 full of cosplayers promoting a full slate of new and upcoming titles.")](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[China fires long-range missile into Pacific Ocean in rare test](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+[In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
-  [![Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423762.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese military vehicles carrying DF-41 intercontinental ballistic missiles travel past Beijing's Tiananmen Square during a military parade marking the 70th anniversary of the founding of the People's Republic of China, on Oct. 1, 2019.")](https://www.japantimes.co.jp/news/2024/09/25/asia-pacific/china-icbm-missile-pacific/ "China fires long-range missile into Pacific Ocean in rare test")
+  [![Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424159.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.")](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Giant African snails mark 90 years of history in Okinawa](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
+
+  [![Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278413.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.")](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -169,27 +175,21 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
   [![A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424046.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Hyogo governor to seek reelection after automatically losing his seat next week](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito after the Hyogo Prefectural Assembly passed a no-confidence motion against him on Sept. 19　")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/hyogo-gov-saito-to-seek-re-election/ "Hyogo governor to seek reelection after automatically losing his seat next week")
-
 [WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[Russia has a secret war drones project in China, intel sources say](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
+[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-  [![Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423938.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russian President Vladimir Putin visits a drone production facility of the the Special Technology Center in St. Petersburg on Sept. 19.")](https://www.japantimes.co.jp/news/2024/09/26/world/russia-war-drones-project-china/ "Russia has a secret war drones project in China, intel sources say")
+By [Vladimir Soldatkin](https://www.japantimes.co.jp/author/2573/vladimir-soldatkin/ "Vladimir Soldatkin") and [Guy Faulconbridge](https://www.japantimes.co.jp/author/633/guy-faulconbridge/ "Guy Faulconbridge")  
 
-[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
+  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
 
-[As Onosato dominates the spotlight, former sumo stars exit the stage](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
+[Tokyo Game Show 2024 stacked with big returns and hyped announcements](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
 
-  [![Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423787.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takakeisho during a one-day tournament at Kokugikan in Tokyo in February 2020")](https://www.japantimes.co.jp/sports/2024/09/25/sumo/onosato-overshadows-retiring-wrestlers/ "As Onosato dominates the spotlight, former sumo stars exit the stage")
+By [Samantha Low](https://www.japantimes.co.jp/author/4480/samantha-low/ "Samantha Low")  
+
+  [![Tokyo Game Show opens to the public on Sept. 28 full of cosplayers promoting a full slate of new and upcoming titles.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424118.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Game Show opens to the public on Sept. 28 full of cosplayers promoting a full slate of new and upcoming titles.")](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
 
 Podcast
 -------
@@ -210,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan fine-tunes issuance of humanitarian visas](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
+[An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "An unusual result for an unusual election")
 
-34 mins ago
+4 hours ago
 
-[Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
+[Toyota to recall over 42,000 U.S. vehicles over loss of power brake assist](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-us-recall/ "Toyota to recall over 42,000 U.S. vehicles over loss of power brake assist")
 
-51 mins ago
+5 hours ago
 
-[Toyota ends sponsorship with 'political' Olympics](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
+[China, Taiwan and South Korea weigh in on Ishiba victory](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/shigeru-ishiba-ldp-south-korea-china-taiwan/ "China, Taiwan and South Korea weigh in on Ishiba victory")
 
-56 mins ago
+5 hours ago
+
+[Game developer Virtuos seeks acquisitions and growth in Japan](https://www.japantimes.co.jp/business/2024/09/27/companies/virtuos-acquisition-japan/ "Game developer Virtuos seeks acquisitions and growth in Japan")
+
+5 hours ago
 
 [Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
 
-1 hours ago
-
-[U.S. Coast Guard advising Manila as it seeks bigger Indo-Pacific footprint](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/politics/us-coast-guard-indopacific/ "U.S. Coast Guard advising Manila as it seeks bigger Indo-Pacific footprint")
-
-2 hours ago
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
