@@ -18,7 +18,7 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 100-day risk-free trial and US-based customer support!
 
-[Fall colors are fading!Fall colors are fading!Fall colors are fading! **Sale ends in 1d : 1h : 26m**](https://www.listenlively.com/product)
+[It's the last day for Fall savings!It's the last day for Fall savings!It's the last day for Fall savings! **Sale ends in 19h : 25m : 2s**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
