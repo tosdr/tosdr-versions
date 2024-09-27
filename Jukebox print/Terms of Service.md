@@ -210,7 +210,7 @@ EUR
     * [Brochures](https://www.jukeboxprint.com/brochures)
     * [Table Tent Cards](https://www.jukeboxprint.com/table-tent-cards)
     * [Flyers](https://www.jukeboxprint.com/flyers)
-    * [Wall Calendars](https://www.jukeboxprint.com/custom-wall-calendars)
+    * [Calendars](https://www.jukeboxprint.com/calendar-printing)
     * [Banners](https://www.jukeboxprint.com/vinyl-banners)
     * [Catalogs](https://www.jukeboxprint.com/catalog-printing)
     * [Custom Buttons](https://www.jukeboxprint.com/custom-buttons)
@@ -244,7 +244,7 @@ EUR
     
     Information[#### Custom Flyers](https://www.jukeboxprint.com/flyers)[We offer a wide range of sizes, stocks, and finishes to provide every option you need for your next print flyer project.](https://www.jukeboxprint.com/flyers)
     
-    Information[#### Custom Wall Calendars](https://www.jukeboxprint.com/custom-wall-calendars)[Whether for clients, friends, or family, a custom wall calendar is a thoughtful and practical gift that keeps giving all year long. This stylish calendar layout is produced with high-quality paper and hangars in various colors.](https://www.jukeboxprint.com/custom-wall-calendars)
+    Information[#### Custom Calendars for Every Need](https://www.jukeboxprint.com/calendar-printing)[Stay organized in style with our custom Saddle Stitched, Wall, and Desktop calendars. Choose from premium paper stocks and finishes for a perfect look.](https://www.jukeboxprint.com/calendar-printing)
     
     Information[#### Vinyl Banners](https://www.jukeboxprint.com/vinyl-banners)[Get durable, lightweight 13mil vinyl banners with a sleek matte finish. Perfect for vibrant, glare-free displays, indoors or out.](https://www.jukeboxprint.com/vinyl-banners)
     
