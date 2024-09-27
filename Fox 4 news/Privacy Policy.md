@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Maggie Smith, star of 'Downton Abbey,' Harry Potter, dies at 89](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-492474010.jpg?ve=1&tl=1)
+ [![Cowboys could be without injured Parsons, Lawrence for multiple games, AP sources say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174751772.jpg?ve=1&tl=1)
 
- ![Maggie Smith, star of 'Downton Abbey,' Harry Potter, dies at 89](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-492474010.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/maggie-smith-dies-downton-abbey-harry-potter-89)
+ ![Cowboys could be without injured Parsons, Lawrence for multiple games, AP sources say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174751772.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/parsons-lawrence-injuries-cowboys)
 
-### [Maggie Smith, star of 'Downton Abbey,' Harry Potter, dies at 89](https://www.fox4news.com/news/maggie-smith-dies-downton-abbey-harry-potter-89)
+### [Cowboys could be without injured Parsons, Lawrence for multiple games, AP sources say](https://www.fox4news.com/sports/parsons-lawrence-injuries-cowboys)
 
- [![Southwest Airlines to cut over 300 jobs in Atlanta, ends open seating as part of major changes](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/southwest-airlines-.jpg?ve=1&tl=1)
+ [![Senate Democrats announce TV ad buy in support of Allred](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2167974793.jpg?ve=1&tl=1)
 
- ![Southwest Airlines to cut over 300 jobs in Atlanta, ends open seating as part of major changes](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/592/333/southwest-airlines-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-airlines-cut-over-300-jobs-atlanta-ends-open-seating-part-major-changes)
+ ![Senate Democrats announce TV ad buy in support of Allred](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2167974793.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/senate-democrats-announce-tv-ad-buy-support-allred)
 
-### [Southwest Airlines to cut over 300 jobs in Atlanta, ends open seating as part of major changes](https://www.fox4news.com/news/southwest-airlines-cut-over-300-jobs-atlanta-ends-open-seating-part-major-changes)
+### [Senate Democrats announce TV ad buy in support of Allred](https://www.fox4news.com/news/senate-democrats-announce-tv-ad-buy-support-allred)
 
- [![FOX 4 welcomes new Good Day reporter Payton May](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-PAYTON-VISITS-STOCKYARDS_00.00.43.24.jpg?ve=1&tl=1)
+ [![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2174658309-scaled.jpg?ve=1&tl=1)
 
- ![FOX 4 welcomes new Good Day reporter Payton May](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-PAYTON-VISITS-STOCKYARDS_00.00.43.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-good-day-fox-4-reporter-payton-may)
+ ![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174658309-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
 
-### [FOX 4 welcomes new Good Day reporter Payton May](https://www.fox4news.com/news/new-good-day-fox-4-reporter-payton-may)
+### [Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
 
- [![Kamala Harris plans to visit Arizona’s border on Sept. 27](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/GettyImages-2172951004-scaled.jpg?ve=1&tl=1)
+ [![Texas Voting Guide: What you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/VOTE-2024.jpg?ve=1&tl=1)
 
- ![Kamala Harris plans to visit Arizona’s border on Sept. 27](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172951004-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
+ ![Texas Voting Guide: What you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/VOTE-2024.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-voting-guide-2024-election)
 
-### [Kamala Harris plans to visit Arizona’s border on Sept. 27](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
+### [Voting Guide: What you need to know about voting in Texas](https://www.fox4news.com/election/texas-voting-guide-2024-election)
 
- [![State Fair of Texas opens its gates for the 2024 season](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/08/32/18/state-fair-of-texas-generic-5.jpg?ve=1&tl=1)
+ [![Hurricane Helene: 11 deaths reported in the state of Georgia](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/GettyImages-2173926525.jpg?ve=1&tl=1)
 
- ![State Fair of Texas opens its gates for the 2024 season](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/08/32/18/592/333/state-fair-of-texas-generic-5.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-state-fair-texas-opening-day)
+ ![Hurricane Helene: 11 deaths reported in the state of Georgia](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173926525.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
 
-### [State Fair of Texas opens its gates for the 2024 season](https://www.fox4news.com/news/2024-state-fair-texas-opening-day)
+### [Hurricane Helene: 11 deaths reported in the state of Georgia](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
 
 ###### [News](https://www.fox4news.com/news)
 
