@@ -2,7 +2,7 @@
 
 [stories](https://www.amyporterfield.com/reviews)[Resources](https://www.amyporterfield.com/online-marketing-tools/)[Courses](https://www.amyporterfield.com/online-business-courses)[About amy](https://www.amyporterfield.com/about)
 
-[](https://www.amyporterfield.com/)[Podcast](https://www.amyporterfield.com/digital-marketing-podcast)[HOME](https://www.amyporterfield.com/)[](https://masterclass.amyporterfield.com/1)[free masterclass!](https://masterclass.amyporterfield.com/1)
+[](https://www.amyporterfield.com/)[Podcast](https://www.amyporterfield.com/digital-marketing-podcast)[](https://masterclass.amyporterfield.com/list-building)[Free workshop](https://www.amyporterfield.com/free-email-marketing-training)[HOME](https://www.amyporterfield.com/)
 
 Terms and Conditions
 ====================
