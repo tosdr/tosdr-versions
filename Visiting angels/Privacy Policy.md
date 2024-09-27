@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
+[How a Home Care Agency Can Help Prevent Falls](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-home-care-agency-can-help-prevent-falls/483)
 
-[Recognizing the Signs Your Parents Need Assisted Living Care](https://www.visitingangels.com/knowledge-center/care-options/recognizing-the-signs-your-parents-need-assisted-living-care/67)
+[A Generation in Denial: A Call for Faster Action](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/a-generation-in-denial-a-call-for-faster-action/356)
 
-[How to Communicate with a Senior Who Can’t Speak](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-communicate-with-a-senior-who-cant-speak/487)
+[Veterans Choice Program Can Be a Life Saver](https://www.visitingangels.com/knowledge-center/care-options/veterans-choice-program-can-be-a-life-saver/349)
 
-[Don't Ignore These 5 Signs Your Elderly Loved One Needs Help Immediately](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/dont-ignore-these-5-signs-your-elderly-loved-one-needs-help-immediately/309)
+[Setting Your New Caregiver Up for Success](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/setting-your-new-caregiver-up-for-success/352)
 
-[When to Adjust Your Loved One’s Home Care Services](https://www.visitingangels.com/knowledge-center/care-options/when-to-adjust-your-loved-ones-home-care-services/108)
+[Does Your Loved One Need Elder Care Services?](https://www.visitingangels.com/knowledge-center/care-options/does-your-loved-one-need-elder-care-services/53)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
