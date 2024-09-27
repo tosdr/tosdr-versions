@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
-* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
-* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
 
 Service Stiftung Warentest
 
