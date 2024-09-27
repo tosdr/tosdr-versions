@@ -154,7 +154,7 @@ Keep up with the latest advancements in our high-impact journals.
 
 * [Clinical](https://www.movementdisorders.org/clinical)
 * [Research](https://www.movementdisorders.org/research)
-* [Health Care (Non-Physician)](https://www.movementdisorders.org/non-physician)
+* [Allied Health](https://www.movementdisorders.org/non-physician)
 * [Career](https://www.movementdisorders.org/MDS/Resources/Career.htm)
 * [For Patients](https://www.movementdisorders.org/For-Patients.htm)
 
