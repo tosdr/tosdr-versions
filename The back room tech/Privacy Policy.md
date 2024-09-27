@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2067%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/3-system-information-78x52.png)](https://thebackroomtech.com/2018/07/24/convert-physical-server-to-hyper-v-using-virtual-machine-converter/ "Convert Physical Server to Hyper-V using Virtual Machine Converter")[Convert Physical Server to Hyper-V using Virtual Machine Converter](https://thebackroomtech.com/2018/07/24/convert-physical-server-to-hyper-v-using-virtual-machine-converter/ "Convert Physical Server to Hyper-V using Virtual Machine Converter")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/app-service-plans-67x52.png)](https://thebackroomtech.com/2018/08/29/understanding-app-service-plans-in-azure/ "Understanding App Service Plans in Azure")[Understanding App Service Plans in Azure](https://thebackroomtech.com/2018/08/29/understanding-app-service-plans-in-azure/ "Understanding App Service Plans in Azure")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/ntdsutil-files-80x37.png)](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")[Active Directory DSRM and Defragmentation](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2035'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/local-security-policy-80x43.png)](https://thebackroomtech.com/2007/11/02/howto-disable-windows-simple-file-sharing-via-the-registry-and-local-security-policy/ "Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy")[Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy](https://thebackroomtech.com/2007/11/02/howto-disable-windows-simple-file-sharing-via-the-registry-and-local-security-policy/ "Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2050'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/snapshot-manager-80x35.png)](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")[Reduce the Size of Virtual Machine Disk in VMware Workstation](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/generic-host-process-for-win32-80x50.png)](https://thebackroomtech.com/2010/08/21/fix-generic-host-process-for-win32-services-has-encountered-a-problem/ "Fix Generic Host Process for Win32 Services Has Encountered a Problem")[Fix Generic Host Process for Win32 Services Has Encountered a Problem](https://thebackroomtech.com/2010/08/21/fix-generic-host-process-for-win32-services-has-encountered-a-problem/ "Fix Generic Host Process for Win32 Services Has Encountered a Problem")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/coding-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")[VMware Script – Remove Resource Reservations](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")
+    ![](https://s11921.pcdn.co/wp-content/uploads/outlook2010commandlineswitch-80x41.png)](https://thebackroomtech.com/2010/08/23/use-command-line-switches-in-outlook-2010/ "Use Command Line Switches in Outlook 2010")[Use Command Line Switches in Outlook 2010](https://thebackroomtech.com/2010/08/23/use-command-line-switches-in-outlook-2010/ "Use Command Line Switches in Outlook 2010")
 
 #### Our Publishing Family
 
