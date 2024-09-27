@@ -284,7 +284,7 @@ Hi
         * [Treats (4)](https://www.smithbrothersfarms.com/desserts)
             
         
-    * [Meat (47)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (46)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
@@ -293,7 +293,7 @@ Hi
             
         * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
-        * [Deli & Charcuterie (15)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
+        * [Deli & Charcuterie (14)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
     * [Meals & Sides (73)](https://www.smithbrothersfarms.com/prepared-foods)
