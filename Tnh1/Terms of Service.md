@@ -210,23 +210,7 @@ Saiba com quem
 
 Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio
 
-Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")[![Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/d/csm_mortadela_tvtem_e7d7c79e3e.png)
-
-grave intoxicação
-
-grave intoxicação
-
-Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela
-
-Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela](https://www.tnh1.com.br/noticia/nid/bahia-registra-mortes-suspeitas-de-botulismo-doenca-e-associada-ao-consumo-de-mortadela/ "Bahia registra mortes suspeitas de botulismo; doença é associada ao consumo de mortadela")[![Deolane irá se apresentar à Justiça para receber orientações; veja lista de proibições](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_deolane_presa_-_foto_montagem_tnh1_cf07b32e65.jpg)
-
-Sem publicidade
-
-Sem publicidade
-
-Deolane irá se apresentar à Justiça para receber orientações; veja lista de proibições
-
-Deolane irá se apresentar à Justiça para receber orientações; veja lista de proibições](https://www.tnh1.com.br/noticia/nid/deolane-ira-se-apresentar-a-justica-para-receber-orientacoes-veja-lista-de-proibicoes/ "Deolane irá se apresentar à Justiça para receber orientações; veja lista de proibições")[![Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_Site_Fundef_AL_3d0606e247.jpg)
+Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")[![Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/8/csm_Site_Fundef_AL_3d0606e247.jpg)
 
 Alagoas
 
@@ -234,41 +218,57 @@ Alagoas
 
 Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso
 
-Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-seduc-orienta-servidor-sobre-como-ingressar-com-recurso/ "Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso")
+Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-seduc-orienta-servidor-sobre-como-ingressar-com-recurso/ "Precatórios do Fundef: Seduc orienta servidor sobre como ingressar com recurso")[![Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_o-homem-foi-preso-apos-correr-armado-atras-do-adolescente-_foto_Reproducao_52720defe8.jpg)
 
-[![Adolescentes usam IA para criar nudes falsas de 30 colegas e são expulsos de escola](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/5/csm_brasil-ia-video_pornografico-deepnudes-1726760897_c6da930100.jpg)
+39 anos
 
-EM CUIABÁ
+39 anos
 
-EM CUIABÁ
+Empresário atira e persegue jovem por não aceitar namoro com sua filha
 
-Adolescentes usam IA para criar nudes falsas de 30 colegas e são expulsos de escola
+Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://www.tnh1.com.br/noticia/nid/empresario-atira-e-persegue-jovem-por-nao-aceitar-namoro-com-sua-filha/ "Empresário atira e persegue jovem por não aceitar namoro com sua filha")[![Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_Motorista_sai_para_brigar__carro_termina__andando_sozinho__e_bate_em_mureta_-_foto_Reproducao_TV_Globo_adb4529f22.jpg)
 
-Adolescentes usam IA para criar nudes falsas de 30 colegas e são expulsos de escola](https://www.tnh1.com.br/noticia/nid/adolescentes-usam-ia-para-criar-nudes-falsas-de-30-colegas-e-sao-expulsos-de-escola/ "Adolescentes usam IA para criar nudes falsas de 30 colegas e são expulsos de escola")[![CSA espera receber valor em transferência de zagueiro para o Bahrein](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/f/csm_Luciano_Lessa_-_foto_Augusto__Oliveira_-_CSA_2ebbadfafa.jpg)
+que situação
 
-Futebol
+que situação
 
-Futebol
+Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta
 
-CSA espera receber valor em transferência de zagueiro para o Bahrein
+Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta](https://www.tnh1.com.br/noticia/nid/motorista-sai-para-brigar-carro-termina-andando-sozinho-e-bate-em-mureta/ "Motorista sai para brigar, carro termina 'andando sozinho' e bate em mureta")
 
-CSA espera receber valor em transferência de zagueiro para o Bahrein](https://www.tnh1.com.br/noticia/nid/csa-espera-receber-valor-em-transferencia-de-zagueiro-para-o-bahrein/ "CSA espera receber valor em transferência de zagueiro para o Bahrein")[![Sesau registra 18 mortes por dengue em Alagoas; casos confirmados ultrapassam 14 mil ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_mosquito-dengue-pixabay_e68b779bc5.jpg)
+[![Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
 
-Boletim
+presídio federal
 
-Boletim
+presídio federal
 
-Sesau registra 18 mortes por dengue em Alagoas; casos confirmados ultrapassam 14 mil
+Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'
 
-Sesau registra 18 mortes por dengue em Alagoas; casos confirmados ultrapassam 14 mil](https://www.tnh1.com.br/noticia/nid/sesau-registra-18-mortes-por-dengue-em-alagoas-casos-confirmados-ultrapassam-14-mil/ "Sesau registra 18 mortes por dengue em Alagoas; casos confirmados ultrapassam 14 mil ")[![Maceió vai sediar primeira Olimpíadas Autistas Regatianos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_Maceio_vai_sediar_primeira_Olimpiadas_Autistas_Regatianos_-_foto_Divulgacao_11c5234c78.jpeg)
+Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'](https://www.tnh1.com.br/noticia/nid/conheca-a-famosa-prisao-onde-rapper-sean-diddy-esta-detido-o-caos-reina/ "Conheça a famosa prisão onde rapper Sean Diddy está detido: 'O caos reina'")[![Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/3/csm_cientistas-encontram-mumias-famosas-reproducao-journal-of-archaeological-science_ef132f670c.jpg)
 
-Esporte
+substância branca
 
-Esporte
+substância branca
 
-Maceió vai sediar primeira Olimpíadas Autistas Regatianos
+Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas
 
-Maceió vai sediar primeira Olimpíadas Autistas Regatianos](https://www.tnh1.com.br/noticia/nid/maceio-vai-sediar-primeira-olimpiadas-autistas-regatianos/ "Maceió vai sediar primeira Olimpíadas Autistas Regatianos")
+Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas](https://www.tnh1.com.br/noticia/nid/cientistas-encontram-queijo-mais-antigo-do-mundo-ao-analisar-mumias-famosas/ "Cientistas encontram 'queijo mais antigo do mundo' ao analisar múmias famosas")[![Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_nova-especie-tubarao-reproducao_9675beab88.png)
+
+peixe-espantalho
+
+peixe-espantalho
+
+Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia
+
+Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia](https://www.tnh1.com.br/noticia/nid/nova-especie-de-tubarao-fantasma-e-descoberta-por-cientistas-da-nova-zelandia/ "Nova espécie de tubarão fantasma é descoberta por cientistas da Nova Zelândia")[![A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/f/csm_pesquisadores-descoberta-geoglifos-deserto-reproducao_c4f0388987.jpg)
+
+misteriosas criações
+
+misteriosas criações
+
+A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial
+
+A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial](https://www.tnh1.com.br/noticia/nid/a-fantastica-descoberta-de-mais-de-300-geoglifos-em-nazca-revelados-com-a-ajuda-da-inteligencia-artificial/ "A fantástica descoberta de mais de 300 geoglifos em Nazca revelados com a ajuda da inteligência artificial")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
