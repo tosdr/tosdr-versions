@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7d1df91dde9b344a49c51476d73e4701
+6569d311fe465beb5758097be9e605fa
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![25 mm by 6 mm vintage German glass elongated diamond beads](https://sojourner.biz/images/cache/glass/GL0101.200.jpg)](https://sojourner.biz/beads/glass/25-mm-by-6-mm-vintage-german-glass-elongated-diamond-beads.html "25 mm by 6 mm vintage German glass elongated diamond beads")
+[![12 mm mauve oval pearls](https://sojourner.biz/images/cache/pearls/PE0141.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-mauve-oval-pearls.html "12 mm mauve oval pearls")
 
-#### [25 mm by 6 mm vintage German glass elongated diamond beads](https://sojourner.biz/beads/glass/25-mm-by-6-mm-vintage-german-glass-elongated-diamond-beads.html "25 mm by 6 mm vintage German glass elongated diamond beads")
+#### [12 mm mauve oval pearls](https://sojourner.biz/beads/pearls/12-mm-mauve-oval-pearls.html "12 mm mauve oval pearls")
 
-$13.00
+$23.00
 
 ### Best Sellers
 
@@ -164,10 +164,10 @@ $13.00
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 10. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
 
