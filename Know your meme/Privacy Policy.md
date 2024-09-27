@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[RFK Jr. Dead Whale Story](https://knowyourmeme.com/memes/events/rfk-jr-dead-whale-story "RFK Jr. Dead Whale Story") [Eric Adams' Indictment](https://knowyourmeme.com/memes/events/eric-adams-indictment "Eric Adams' Indictment") [Never Kill Yourself](https://knowyourmeme.com/memes/never-kill-yourself "Never Kill Yourself")
+[Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Never Kill Yourself](https://knowyourmeme.com/memes/never-kill-yourself "Never Kill Yourself")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hey! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
