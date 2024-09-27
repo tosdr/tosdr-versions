@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [Massive List of MOOC-based Microcredentials](https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
-2. [7 Best Genetics Courses for 2024](https://www.classcentral.com/report/best-genetics-courses/)
-3. [\[2024\] 1200+ Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
-4. [Learn Something New: 100 Most Popular Courses For October](https://www.classcentral.com/report/most-popular-october-2024/)
-5. [12 Best Microsoft Excel Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-excel-courses/)
+1. [6 Best Microsoft Word Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-word-courses/)
+2. [10 Best Python Courses for 2024](https://www.classcentral.com/report/best-python-courses/)
+3. [\[2024\] 220+ Math Online Courses from World’s Top Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
+4. [Massive List of MOOC-based Microcredentials](https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
+5. [7 Best Genetics Courses for 2024](https://www.classcentral.com/report/best-genetics-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. digital marketing
+1. java
     
-2. psychology
+2. excel
     
-3. cyber security
+3. law
     
 
 Popular subjects
@@ -427,25 +427,25 @@ Popular subjects
 1. [Communication Skills
     
     3,891 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Python
+2. [Project Management
     
-    8,521 courses](https://www.classcentral.com/subject/python)
-3. [Digital Marketing
+    3,719 courses](https://www.classcentral.com/subject/project-management)
+3. [Graphic Design
     
-    5,788 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,161 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Gender and Sexuality: Applications in Society
+1. [Inspiring Leadership through Emotional Intelligence
     
-    The University of British Columbia](https://www.classcentral.com/course/gender-studies-university-of-british-columbia-gen-12333)
-2. [Introductory Human Physiology
+    Case Western Reserve University](https://www.classcentral.com/course/lead-ei-710)
+2. [Viruses & How to Beat Them: Cells, Immunity, Vaccines
     
-    Duke University](https://www.classcentral.com/course/humanphysio-380)
-3. [Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis
+    Tel Aviv University](https://www.classcentral.com/course/edx-viruses-how-to-beat-them-cells-immunity-vaccines-9364)
+3. [FinTech Ethics and Risks
     
-    Wellcome Genome Campus](https://www.classcentral.com/course/bacterial-genomes-access-and-analysis-11907)
+    The University of Hong Kong](https://www.classcentral.com/course/fintech-university-of-hong-kong-fintech-ethics-an-11392)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
