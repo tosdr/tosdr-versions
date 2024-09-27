@@ -1,4 +1,4 @@
-[**BACK TO SCHOOL SALE |** Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+[**LAST CHANCE** | Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.0)](https://www.qustodio.com/en/)
 
@@ -15,7 +15,7 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[**BACK TO SCHOOL SALE |** Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+[**LAST CHANCE** | Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.0)](https://www.qustodio.com/en/)
 
@@ -193,3 +193,9 @@ Follow @qustodio
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/copyright-logo.png) © 2024 Qustodio is a registered trademark of Qustodio LLC. All rights reserved.
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
+
+### **Last chance for 10% off**
+
+Get the highest level of digital protection on all your kids’ devices. Use code BTS10 now
+
+[Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/)
