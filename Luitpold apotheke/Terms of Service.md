@@ -334,25 +334,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Aqualibra bei wiederkehrenden Blasenentzündung 60St](https://www.medikamente-per-klick.de/product?artnr=00795287&simpleContentAttachmentId=14183&wochenklick)  
+[Dolo-Dobendan® Halstabletten zuckerfrei mit betäubender Wirkung - bei Halsschmerzen 48St](https://www.medikamente-per-klick.de/product?artnr=06865787&simpleContentAttachmentId=14183&wochenklick)  
 **Sonderpreis**  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/00795287_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=00795287&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/06865787_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=06865787&simpleContentAttachmentId=14183&wochenklick)
 
-UVP2:
+VK1:
 
-26,88 €\*
+19,49 €\*
 
 Ihr Preis:
 
-17,67 €\*
+11,86 €\*
 
 Sie sparen:
 
-9,21 € \-34%
+7,63 € \-39%
 
-2024-09-27 08:30:00
+2024-10-04 15:30:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=00795287&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=06865787&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -644,4 +644,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=pnxtaclxeggflhvlybtogqebmibbfapx&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=avziuijvqkxdzhqjexzkmemxyxkpaxzc&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
