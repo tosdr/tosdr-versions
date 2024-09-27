@@ -23,7 +23,7 @@
 
 Zoeken naar:  
 
-[![Nasty Comics - Header 14](https://nastycomics.eu/wp-content/uploads/Nasty-Comics-Header-14.jpg)](https://nastycomics.eu/)
+[![Nasty Comics - Header 10](https://nastycomics.eu/wp-content/uploads/Nasty-Comics-Header-10.jpg)](https://nastycomics.eu/)
 
 Privacy
 =======
@@ -49,7 +49,7 @@ Op [URLVOID](https://www.urlvoid.com/scan/nastycomics.eu/) is de reputatie van d
 **_Update 17 oktober 2020:_**  
 Er is een script toegevoegd aan de site om geautomatiseerde spam bots buiten de deur te houden ([project Honeypot](https://nastycomics.eu/judge.php)). De gegevens die hierbij worden verzameld worden gedeeld met een externe database zodat ook andere sites daar van kunnen profiteren. Dit is enkel van toepassing voor data die wordt ingegeven door notoire spam bots. Er worden hiermee geen gegevens van “gewone” gebruikers geregistreerd.
 
-Vandaag 1 keer bekeken (143 totaal)
+Vandaag 1 keer bekeken (144 totaal)
 
 ##### Deel dit / Share this
 
@@ -70,13 +70,13 @@ Vandaag 1 keer bekeken (143 totaal)
 * [Melisande (Mélusine)](https://nastycomics.eu/category/melisande/) (6)
 * [Sam](https://nastycomics.eu/category/sam/) (23)
 * [De Smurfen (Les Schtroumpfs)](https://nastycomics.eu/category/smurfen/) (14)
-* [Suske en Wiske (Bob et Bobette)](https://nastycomics.eu/category/suske-en-wiske/) (260)
+* [Suske en Wiske (Bob et Bobette)](https://nastycomics.eu/category/suske-en-wiske/) (261)
 * [Yoko Tsuno](https://nastycomics.eu/category/yoko-tsuno/) (7)
 * [Overige](https://nastycomics.eu/category/overige/) (42)
 
 ### Archieven
 
-Archieven Maand selecteren september 2024  (3) augustus 2024  (4) juli 2024  (3) juni 2024  (3) mei 2024  (3) april 2024  (3) maart 2024  (4) februari 2024  (2) januari 2024  (3) december 2023  (7) november 2023  (1) oktober 2023  (5) september 2023  (4) augustus 2023  (6) juli 2023  (5) juni 2023  (4) mei 2023  (4) april 2023  (3) maart 2023  (3) februari 2023  (6) januari 2023  (6) december 2022  (10) november 2022  (6) oktober 2022  (4) september 2022  (3) augustus 2022  (5) juli 2022  (3) juni 2022  (4) mei 2022  (5) april 2022  (5) maart 2022  (3) februari 2022  (4) januari 2022  (5) december 2021  (7) november 2021  (4) oktober 2021  (8) september 2021  (9) augustus 2021  (10) juli 2021  (9) juni 2021  (9) mei 2021  (7) april 2021  (10) maart 2021  (7) februari 2021  (8) januari 2021  (12) december 2020  (12) november 2020  (6) oktober 2020  (13) september 2020  (13) augustus 2020  (18) juli 2020  (11) juni 2020  (10) mei 2020  (10) april 2020  (10) maart 2020  (13) februari 2020  (5) januari 2020  (11) december 2019  (9) november 2019  (12) oktober 2019  (14) september 2019  (20) augustus 2019  (23) juli 2019  (28) juni 2019  (31) mei 2019  (35) april 2019  (7)
+Archieven Maand selecteren september 2024  (4) augustus 2024  (4) juli 2024  (3) juni 2024  (3) mei 2024  (3) april 2024  (3) maart 2024  (4) februari 2024  (2) januari 2024  (3) december 2023  (7) november 2023  (1) oktober 2023  (5) september 2023  (4) augustus 2023  (6) juli 2023  (5) juni 2023  (4) mei 2023  (4) april 2023  (3) maart 2023  (3) februari 2023  (6) januari 2023  (6) december 2022  (10) november 2022  (6) oktober 2022  (4) september 2022  (3) augustus 2022  (5) juli 2022  (3) juni 2022  (4) mei 2022  (5) april 2022  (5) maart 2022  (3) februari 2022  (4) januari 2022  (5) december 2021  (7) november 2021  (4) oktober 2021  (8) september 2021  (9) augustus 2021  (10) juli 2021  (9) juni 2021  (9) mei 2021  (7) april 2021  (10) maart 2021  (7) februari 2021  (8) januari 2021  (12) december 2020  (12) november 2020  (6) oktober 2020  (13) september 2020  (13) augustus 2020  (18) juli 2020  (11) juni 2020  (10) mei 2020  (10) april 2020  (10) maart 2020  (13) februari 2020  (5) januari 2020  (11) december 2019  (9) november 2019  (12) oktober 2019  (14) september 2019  (20) augustus 2019  (23) juli 2019  (28) juni 2019  (31) mei 2019  (35) april 2019  (7)
 
 ### Nasty Comics is also on:
 
@@ -112,6 +112,14 @@ Archieven Maand selecteren september 2024  (3) augustus 2024  (4) juli 2024  
     [De krachtige knollen](https://nastycomics.eu/2024/09/01/de-krachtige-knollen/)
     
     2024-september-1
+    
+* [![Suske en Wiske -(parodie)- Blanke bergen (thumbnail)](https://nastycomics.eu/wp-content/uploads/Suske-en-Wiske-parodie-Blanke-bergen-thumbnail-80x80.jpg)](https://nastycomics.eu/2024/09/27/de-blanke-bergen/)
+    
+    [Suske en Wiske (Bob et Bobette)](https://nastycomics.eu/category/suske-en-wiske/)
+    
+    [De Blanke Bergen](https://nastycomics.eu/2024/09/27/de-blanke-bergen/)
+    
+    2024-september-27
     
 
 * [![](https://nastycomics.eu/wp-content/uploads/avatar-privacy/cache/gravatar/6/4/64bcf37847dac1ccaf240850316451c793dc589beba0d2029ed7b854da855320-96.jpg)](https://nastycomics.eu/2024/09/22/groeten-uit-pruttelaar/#comment-2480)
@@ -185,7 +193,7 @@ Archieven Maand selecteren september 2024  (3) augustus 2024  (4) juli 2024  
 
 [Kleren zijn bijzaak](https://nastycomics.eu/community/topic/kleren-zijn-bijzaak/?part=1#postid-569 "Kleren zijn bijzaak")door **[Bob F](#)**Look-alikes, of inderdaad deepfakes.  Die kunnen tegenwoordig zo g … [Lees verder](https://nastycomics.eu/community/topic/kleren-zijn-bijzaak/?part=1#postid-569)2 jaar geleden
 
-[dhz](https://nastycomics.eu/tag/dhz/)[flater](https://nastycomics.eu/tag/flater/)[leerling](https://nastycomics.eu/tag/leerling/)[sam](https://nastycomics.eu/tag/sam/)[wiske](https://nastycomics.eu/tag/wiske/)[nasty comics](https://nastycomics.eu/tag/nasty-comics/)[natte nimf](https://nastycomics.eu/tag/natte-nimf/)[informatie](https://nastycomics.eu/tag/informatie/)[doe-het-zelver](https://nastycomics.eu/tag/doe-het-zelver/)[zwembad](https://nastycomics.eu/tag/zwembad/)[jommeke](https://nastycomics.eu/tag/jommeke/)[gaston](https://nastycomics.eu/tag/gaston/)[dokus](https://nastycomics.eu/tag/dokus/)[beha](https://nastycomics.eu/tag/beha/)[jan jans en de kinderen](https://nastycomics.eu/tag/jan-jans-en-de-kinderen/)[droomauto](https://nastycomics.eu/tag/droomauto/)[rukker](https://nastycomics.eu/tag/rukker/)[ijmuiden](https://nastycomics.eu/tag/ijmuiden/)[rennende](https://nastycomics.eu/tag/rennende/)[gereedschap](https://nastycomics.eu/tag/gereedschap/)[promo](https://nastycomics.eu/tag/promo/)[karlijn](https://nastycomics.eu/tag/karlijn/)[bosschaert](https://nastycomics.eu/tag/bosschaert/)[auto](https://nastycomics.eu/tag/auto/)[doorkijk](https://nastycomics.eu/tag/doorkijk/)[babydoll](https://nastycomics.eu/tag/babydoll/)[parodie](https://nastycomics.eu/tag/parodie/)[vibrator](https://nastycomics.eu/tag/vibrator/)[annemieke](https://nastycomics.eu/tag/annemieke/)[ondergoed](https://nastycomics.eu/tag/ondergoed/)[seks](https://nastycomics.eu/tag/seks/)[tekening](https://nastycomics.eu/tag/tekening/)[leonie](https://nastycomics.eu/tag/leonie/)[kiekeboes](https://nastycomics.eu/tag/kiekeboes/)[pool side](https://nastycomics.eu/tag/pool-side/)[bloot](https://nastycomics.eu/tag/bloot/)[naakt](https://nastycomics.eu/tag/naakt/)[bol](https://nastycomics.eu/tag/bol/)[strip](https://nastycomics.eu/tag/strip/)[nc01](https://nastycomics.eu/tag/nc01/)[comic](https://nastycomics.eu/tag/comic/)[guust](https://nastycomics.eu/tag/guust/)[cover](https://nastycomics.eu/tag/cover/)[kaft](https://nastycomics.eu/tag/kaft/)[info](https://nastycomics.eu/tag/info/)[rozemieke](https://nastycomics.eu/tag/rozemieke/)[jeanne](https://nastycomics.eu/tag/jeanne/)[fanny](https://nastycomics.eu/tag/fanny/)[slip](https://nastycomics.eu/tag/slip/)[suske](https://nastycomics.eu/tag/suske/)[bikini](https://nastycomics.eu/tag/bikini/)[juffrouw](https://nastycomics.eu/tag/juffrouw/)[3D](https://nastycomics.eu/tag/3d/)[kiekeboe](https://nastycomics.eu/tag/kiekeboe/)[garage](https://nastycomics.eu/tag/garage/)[topless](https://nastycomics.eu/tag/topless/)[jannie](https://nastycomics.eu/tag/jannie/)[miekes](https://nastycomics.eu/tag/miekes/)[tromp](https://nastycomics.eu/tag/tromp/)[handdoek](https://nastycomics.eu/tag/handdoek/)[mededeling](https://nastycomics.eu/tag/mededeling/)[suske & wiske](https://nastycomics.eu/tag/suske-wiske/)[sidonia](https://nastycomics.eu/tag/sidonia/)[algemeen](https://nastycomics.eu/tag/algemeen/)
+[bol](https://nastycomics.eu/tag/bol/)[ondergoed](https://nastycomics.eu/tag/ondergoed/)[dokus](https://nastycomics.eu/tag/dokus/)[nasty comics](https://nastycomics.eu/tag/nasty-comics/)[wiske](https://nastycomics.eu/tag/wiske/)[parodie](https://nastycomics.eu/tag/parodie/)[seks](https://nastycomics.eu/tag/seks/)[annemieke](https://nastycomics.eu/tag/annemieke/)[slip](https://nastycomics.eu/tag/slip/)[rukker](https://nastycomics.eu/tag/rukker/)[topless](https://nastycomics.eu/tag/topless/)[bosschaert](https://nastycomics.eu/tag/bosschaert/)[3D](https://nastycomics.eu/tag/3d/)[jan jans en de kinderen](https://nastycomics.eu/tag/jan-jans-en-de-kinderen/)[kiekeboes](https://nastycomics.eu/tag/kiekeboes/)[juffrouw](https://nastycomics.eu/tag/juffrouw/)[algemeen](https://nastycomics.eu/tag/algemeen/)[guust](https://nastycomics.eu/tag/guust/)[bikini](https://nastycomics.eu/tag/bikini/)[kiekeboe](https://nastycomics.eu/tag/kiekeboe/)[leonie](https://nastycomics.eu/tag/leonie/)[jommeke](https://nastycomics.eu/tag/jommeke/)[strip](https://nastycomics.eu/tag/strip/)[droomauto](https://nastycomics.eu/tag/droomauto/)[bloot](https://nastycomics.eu/tag/bloot/)[auto](https://nastycomics.eu/tag/auto/)[vibrator](https://nastycomics.eu/tag/vibrator/)[leerling](https://nastycomics.eu/tag/leerling/)[fanny](https://nastycomics.eu/tag/fanny/)[pool side](https://nastycomics.eu/tag/pool-side/)[cover](https://nastycomics.eu/tag/cover/)[flater](https://nastycomics.eu/tag/flater/)[rennende](https://nastycomics.eu/tag/rennende/)[babydoll](https://nastycomics.eu/tag/babydoll/)[gaston](https://nastycomics.eu/tag/gaston/)[rozemieke](https://nastycomics.eu/tag/rozemieke/)[tromp](https://nastycomics.eu/tag/tromp/)[beha](https://nastycomics.eu/tag/beha/)[suske](https://nastycomics.eu/tag/suske/)[naakt](https://nastycomics.eu/tag/naakt/)[kaft](https://nastycomics.eu/tag/kaft/)[miekes](https://nastycomics.eu/tag/miekes/)[karlijn](https://nastycomics.eu/tag/karlijn/)[comic](https://nastycomics.eu/tag/comic/)[sidonia](https://nastycomics.eu/tag/sidonia/)[ijmuiden](https://nastycomics.eu/tag/ijmuiden/)[mededeling](https://nastycomics.eu/tag/mededeling/)[gereedschap](https://nastycomics.eu/tag/gereedschap/)[doe-het-zelver](https://nastycomics.eu/tag/doe-het-zelver/)[handdoek](https://nastycomics.eu/tag/handdoek/)[zwembad](https://nastycomics.eu/tag/zwembad/)[nc01](https://nastycomics.eu/tag/nc01/)[doorkijk](https://nastycomics.eu/tag/doorkijk/)[garage](https://nastycomics.eu/tag/garage/)[suske & wiske](https://nastycomics.eu/tag/suske-wiske/)[jeanne](https://nastycomics.eu/tag/jeanne/)[jannie](https://nastycomics.eu/tag/jannie/)[info](https://nastycomics.eu/tag/info/)[dhz](https://nastycomics.eu/tag/dhz/)[promo](https://nastycomics.eu/tag/promo/)[sam](https://nastycomics.eu/tag/sam/)[tekening](https://nastycomics.eu/tag/tekening/)[natte nimf](https://nastycomics.eu/tag/natte-nimf/)[informatie](https://nastycomics.eu/tag/informatie/)
 
 [](#)
 
