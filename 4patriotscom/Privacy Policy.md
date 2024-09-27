@@ -132,7 +132,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Cell-CX Portable Solar Power Bank
         
-        1734 reviews](https://4patriots.com/products/patriot-power-cell)
+        1735 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
