@@ -4,16 +4,6 @@
 
 [News](https://ncua.gov/news) [Español](https://espanol.ncua.gov/) [Contact Us](https://ncua.gov/contact-us)
 
-![ ](/themes/main/images/icons/icon-gov-house.svg)
-
-**Official websites use .gov**  
-A **.gov** website belongs to an official government organization in the United States.
-
-![ ](/themes/main/images/icons/icon-gov-lock-green.svg)
-
-**Secure .gov websites use HTTPS**  
-A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
  [![National Credit Union Administration seal](/themes/main/images/logo-image.svg "Home page of NCUA.gov") ![ ](/themes/main/images/logo-text.svg)](https://ncua.gov/)
 
 [![National Credit Union Administration seal](/themes/main/images/logo-image.svg "Home page of NCUA.gov")![ ](/themes/main/images/logo-text.svg)](https://ncua.gov/)
