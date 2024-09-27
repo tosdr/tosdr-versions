@@ -2,7 +2,7 @@
 
         
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Heat Alert](http://www.maricopa.gov/heat) [Excessive Heat Warning in effect Wednesday, September 25 through Sunday, September 29 For tips on how to stay safe: maricopa.gov/Heat](http://www.maricopa.gov/heat)
+ [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Heat Alert](http://www.maricopa.gov/heat) [Excessive Heat Warning in effect until Tuesday, October 1 at 8 p.m. For tips on how to stay safe: maricopa.gov/Heat](http://www.maricopa.gov/heat)
 
 [![Home page](/ImageRepository/Document?documentID=80697)](https://www.maricopa.gov/)
 
