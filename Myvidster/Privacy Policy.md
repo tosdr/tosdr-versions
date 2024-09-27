@@ -1,3 +1,13 @@
+  
+**Warning**: mysql\_connect(): Too many connections in **/home/admin/public\_html/user/db.php** on line **23**  
+  
+**Warning**: mysql\_select\_db() expects parameter 2 to be resource, boolean given in **/home/admin/public\_html/user/db.php** on line **24**  
+  
+**Warning**: mysql\_connect(): Too many connections in **/home/admin/public\_html/user/db.php** on line **26**  
+  
+**Warning**: mysql\_select\_db() expects parameter 2 to be resource, boolean given in **/home/admin/public\_html/user/db.php** on line **27**  
+MyVidster - Privacy Policy                 
+
 [![](/images/myvidster_logo.png?v=1)](https://www.myvidster.com/)![](/images/spacer.gif)
 
 * you are not logged in
