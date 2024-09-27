@@ -234,7 +234,7 @@ Company Statements
 * [Annual Report and Consolidated Financial Accounts 2022](https://www.theaccessgroup.com/media/hqvbltac/atg-2022-signed.pdf)
 * [Annual Report and Consolidated Financial Accounts 2023](https://www.theaccessgroup.com/media/sbmfdd0c/access-technology-group-limited-final-full-accounts-30-june-2023.pdf)
 * [Tax Strategy](https://www.theaccessgroup.com/en-gb/tax-strategy/)
-* [Modern Slavery Policy Statement](https://www.theaccessgroup.com/en-gb/modern-slavery-policy-statement/)
+* [Modern Slavery Policy Statement](https://pages.theaccessgroup.com/Modern-Slavery-Policy-Statement-FY25.html)
 * [Brexit Statement](https://www.theaccessgroup.com/en-gb/about/brexit-statement/)
 * [Accessibility Statement](https://www.theaccessgroup.com/en-gb/accessibility-statement/)
 * [Director’s Statement on Section 172](https://www.theaccessgroup.com/en-gb/director-s-statement-on-section-172/)
