@@ -28,32 +28,32 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * [AFL Women's
     
-    27/9 12:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | COL | –   |
-    | GCS | –   |
+    | COL | 4.3.27 |
+    | GCS | 3.6.24 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240504)
 * [AFL Women's
     
-    27/9 14:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | ESS | –   |
-    | MEL | –   |
+    | ESS | 11.6.72 |
+    | MEL | 1.1.7 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240505)
 * [AFL Women's
     
-    27/9 16:05 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | STK | –   |
-    | FRE | –   |
+    | STK | 2.2.14 |
+    | FRE | 3.7.25 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240506)
 * [AFL Women's
@@ -82,24 +82,14 @@ FOX SCORES
     
 * [Men's Test
     
-    27/9 14:00 AEST
+    Day 1 Session 2
     
     |     |     |
     | --- | --- |
-    | IND | –   |
-    | BAN | –   |
+    | IND |     |
+    | BAN | 2 /74 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
-* [Men's ODI
-    
-    CAN won by 5 wkts
-    
-    |     |     |
-    | --- | --- |
-    | CAN | 5 /199 |
-    | OMA | 8 /198 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240506)
 * [Men's ODI
     
     27/9 21:30 AEST
@@ -112,45 +102,49 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240704)
 * [WNCL
     
-    |     |     |
-    | --- | --- |
-    | QLD | 5 /158 |
-    | NSW |     |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250103)
-* [WNCL
+    SA won by 97 runs
     
     |     |     |
     | --- | --- |
-    | SA  | 1 /87 |
-    | ACT |     |
+    | SA  | 284 |
+    | ACT | 187 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250104)
-* [One-Day Cup
+* [WNCL
+    
+    NSW won by 4 wkts
     
     |     |     |
     | --- | --- |
-    | VIC | 3 /109 |
-    | QLD |     |
+    | QLD | 9 /266 |
+    | NSW | 6 /267 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250103)
+* [One-Day Cup
+    
+    VIC won by 6 runs
+    
+    |     |     |
+    | --- | --- |
+    | VIC | 7 /240 |
+    | QLD | 234 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250106)
 * NFL
     
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NYG | 9   |
-    | DAL | 14  |
+    | NYG | 15  |
+    | DAL | 20  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250401)
 * Motorsport
     
 * [MotoGP
-    
-    27/9 12:45 AEST
     
     |     |
     | --- |
@@ -160,16 +154,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=719)
 * Basketball
     
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SEM | 84  |
-    | MEL | 96  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020001/play-by-play)
 * [NBL
     
     27/9 19:30 AEST
@@ -190,28 +174,6 @@ FOX SCORES
     | SYD | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020003)
-* Rugby
-    
-* [Rugby Champs
-    
-    28/9 17:05 AEST
-    
-    |     |     |
-    | --- | --- |
-    | NZL | –   |
-    | AUS | –   |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
-* [Rugby Champs
-    
-    29/9 1:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | RSA | –   |
-    | ARG | –   |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240602)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
