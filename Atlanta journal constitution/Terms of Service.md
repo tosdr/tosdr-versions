@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Hurricane Helene is now a category 3 storm](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1696)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1696)](https://www.ajc.com/)
 
 Log In
