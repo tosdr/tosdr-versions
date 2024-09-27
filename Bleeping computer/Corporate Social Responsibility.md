@@ -36,18 +36,18 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
+    * [![CUPS flaws enable Linux remote code execution, but there’s a catch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
+    * [![New RomCom malware variant 'SnipBot' spotted in data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New RomCom malware variant 'SnipBot' spotted in data theft attacks](https://www.bleepingcomputer.com/news/security/new-romcom-malware-variant-snipbot-spotted-in-data-theft-attacks/)
+    * [![Kia dealer portal flaw could let attackers hack millions of cars](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Kia dealer portal flaw could let attackers hack millions of cars](https://www.bleepingcomputer.com/news/security/kia-dealer-portal-flaw-could-let-attackers-hack-millions-of-cars/)
     * [![This $70 cybersecurity course bundle helps you train for a new career](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This $70 cybersecurity course bundle helps you train for a new career](https://www.bleepingcomputer.com/offer/deals/this-70-cybersecurity-course-bundle-helps-you-train-for-a-new-career/)
-    * [![Tails OS merges with Tor Project for better privacy, security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Tails OS merges with Tor Project for better privacy, security](https://www.bleepingcomputer.com/news/software/tails-os-merges-with-tor-project-for-better-privacy-security/)
-    * [![US sanctions crypto exchanges used by Russian ransomware gangs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
-    * [![Automattic blocks WP Engine’s access to WordPress resources](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Automattic blocks WP Engine’s access to WordPress resources](https://www.bleepingcomputer.com/news/security/automattic-blocks-wp-engines-access-to-wordpress-resources/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
