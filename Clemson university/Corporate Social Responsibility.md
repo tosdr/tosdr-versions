@@ -2,6 +2,8 @@
 
 Clemson University
 
+[**EMERGENCY ALERT:**  Clemson University’s main campus closed, and classes cancelled through Friday at 12pm.](https://alerts.clemson.edu/) close
+
 [Clemson University](https://www.clemson.edu/)
 
 Search
