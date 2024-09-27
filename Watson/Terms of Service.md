@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)13°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)17°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
+* [Assurance maladie](https://www.watson.ch/fr/assurance-maladie/)
+* [Alain Berset](https://www.watson.ch/fr/alain-berset/)
+* [France](https://www.watson.ch/fr/france/)
+* [Climat](https://www.watson.ch/fr/climat/)
+* [En direct](https://www.watson.ch/fr/en-direct/)
 * [People](https://www.watson.ch/fr/people/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
-* [Assurance maladie](https://www.watson.ch/fr/assurance-maladie/)
+* [Cyclisme](https://www.watson.ch/fr/cyclisme/)
+* [Paris](https://www.watson.ch/fr/paris/)
 * [Viol](https://www.watson.ch/fr/viol/)
 * [Abus sexuel](https://www.watson.ch/fr/abus-sexuel/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Loups](https://www.watson.ch/fr/loups/)
-* [Femmes](https://www.watson.ch/fr/femmes/)
-* [guerre](https://www.watson.ch/fr/guerre/)
+* [Marathon](https://www.watson.ch/fr/marathon/)
+* [primes maladie](https://www.watson.ch/fr/primes-maladie/)
+* [Politique](https://www.watson.ch/fr/politique/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Prison](https://www.watson.ch/fr/prison/)
 * [Volodymyr Zelensky](https://www.watson.ch/fr/volodymyr-zelensky/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [Politique](https://www.watson.ch/fr/politique/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
