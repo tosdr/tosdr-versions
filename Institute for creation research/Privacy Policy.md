@@ -101,38 +101,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Technical Papers
-
-[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/two-date-range-options-for-noahs-flood)
-
-[Two date range options for Noah’s Flood](https://www.icr.org/article/two-date-range-options-for-noahs-flood/)
-
-FEBRUARY 01, 2017
-
-In Journal of Creation 31 (1): 120-127 Conservative authors have long argued that Genesis chapters 5 and 11 chronogenealogies contain gaps, and...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/fissiontracks)
-
-[Fission Tracks in Crystalline Solids](https://www.icr.org/article/fissiontracks/)
-
-FEBRUARY 07, 2020
-
-Highlights • Nuclear fission—atom splitting—is used to date ancient rocks. •...
-
-BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
-
-[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/do-varves-tree-rings-radiocarbon-measurements)
-
-[Do Varves, Tree-Rings, and Radiocarbon Measurements Pro.,.](https://www.icr.org/article/do-varves-tree-rings-radiocarbon-measurements/)
-
-DECEMBER 07, 2016
-
-by Jake Hebert, Ph.D., Andrew A Snelling, Ph.D., and Timothy L. Clarey, Ph.D. In Answers Research Journal 9 (2016): 339-361 The BioLogos Foundation...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
