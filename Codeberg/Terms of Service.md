@@ -22,7 +22,7 @@ You've already forked org
 
 [28](https://codeberg.org/Codeberg/org/forks)
 
-[Code](https://codeberg.org/Codeberg/org) [Issues 11](https://codeberg.org/Codeberg/org/issues) [Pull requests 13](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
+[Code](https://codeberg.org/Codeberg/org) [Issues 10](https://codeberg.org/Codeberg/org/issues) [Pull requests 13](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
 
 **main**
 
