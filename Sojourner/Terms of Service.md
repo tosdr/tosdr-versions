@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d06b50fb8d7c6f5dfe58ca2f815349f5
+7d1df91dde9b344a49c51476d73e4701
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![14 mm faceted round black onyx beads](https://sojourner.biz/images/cache/stone/ON0011.200.jpg)](https://sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
+[![25 mm by 6 mm vintage German glass elongated diamond beads](https://sojourner.biz/images/cache/glass/GL0101.200.jpg)](https://sojourner.biz/beads/glass/25-mm-by-6-mm-vintage-german-glass-elongated-diamond-beads.html "25 mm by 6 mm vintage German glass elongated diamond beads")
 
-#### [14 mm faceted round black onyx beads](https://sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
+#### [25 mm by 6 mm vintage German glass elongated diamond beads](https://sojourner.biz/beads/glass/25-mm-by-6-mm-vintage-german-glass-elongated-diamond-beads.html "25 mm by 6 mm vintage German glass elongated diamond beads")
 
-$46.00
+$13.00
 
 ### Best Sellers
 
