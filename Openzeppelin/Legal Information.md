@@ -370,7 +370,7 @@ Subject to certain limitations, the CCPA provides California consumers the right
 
 [](https://github.com/openzeppelin)[](https://twitter.com/OpenZeppelin)
 
-[Privacy Policy](https://www.openzeppelin.com/privacy) © © Zeppelin Group Ltd [Service Level Agreement](https://www.openzeppelin.com/service-level-agreement)
+© Zeppelin Group Ltd [Service Level Agreement](https://www.openzeppelin.com/service-level-agreement) [Privacy Policy](https://www.openzeppelin.com/privacy)
 
 Products
 
