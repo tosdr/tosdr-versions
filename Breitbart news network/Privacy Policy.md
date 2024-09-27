@@ -64,7 +64,7 @@
 Breitbart Privacy Policy
 ========================
 
-Last updated on March 4, 2024
+Last updated on September 27, 2024
 
 Effective Date: January 10, 2020
 
@@ -74,9 +74,9 @@ This privacy policy (the “**Privacy Policy**”) discloses the privacy practic
 
 Personal Information You Provide To Us Or Ask A Third Party To Provide Us
 
-* We may collect personal information, including your name, cell phone number, email address, and certain demographic data, when you choose to voluntarily provide to us such information, such as by subscribing to a newsletter, making inquiries regarding our services, requesting breaking news alerts, reporting any problems with our Site, participating in a promotional offer, providing us with feedback on our Site, or otherwise.
+* We may collect personal information, including your name, cell phone number, email address, financial information, physical address, and certain demographic data, when you choose to voluntarily provide to us such information, such as by subscribing to a newsletter or our subscription-based news and content service, ““Breitbart Fight Club”, making inquiries regarding our services, requesting breaking news alerts, reporting any problems with our Site, participating in a promotional offer, providing us with feedback on our Site, or otherwise.
 * We may offer you various opportunities to engage in public activities and comment on articles on the Site. “Public activities” are any actions you take on the Site that are designed to be visible to other users, including comments, reviews, ratings or any other items that you submit. If you choose to engage in public activities, you should be aware that any personal information you submit can be read, collected and used by other users of these areas. In addition to our privacy policy, please see Disqus’ privacy policy: [https://disqus.com/privacy-policy/](https://disqus.com/privacy-policy/) for more information on how your data is handled when you comment on articles.
-* You may choose to associate your social media account with our Site (_e.g.,_through Disqus, Facebook, Twitter or Google). By associating your accounts, you may be giving these third parties permission to send us certain information from your social media profile. What information they send us depends on your privacy settings with those third parties and their respective privacy policies. Once the accounts are associated, they may send us additional information from your profile over time. We will use the information they share with us in accordance with this Privacy Policy.
+* You may choose to associate your social media account with our Site (_e.g.,_ through Disqus, Facebook, Twitter or Google). By associating your accounts, you may be giving these third parties permission to send us certain information from your social media profile. What information they send us depends on your privacy settings with those third parties and their respective privacy policies. Once the accounts are associated, they may send us additional information from your profile over time. We will use the information they share with us in accordance with this Privacy Policy.
 * We also collect personal information from individuals who work for business contacts of Breitbart, such as service providers, vendors, and others.
 * If you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee. This may include, among other things, your Social Security Number. Providing this information is required for employment.
 
