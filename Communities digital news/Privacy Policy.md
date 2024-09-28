@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpwarrenmi-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wrightpod-1200-x-628-1200x630.jpg)](https://americanwirenews.com/podcaster-says-racists-are-posing-as-caitlin-clark-fans-to-terrorize-wnbas-black-players/)
 
-[Trump hammers Kamala over criminal illegal ‘killing machine’](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
+[Podcaster says racists are posing as Caitlin Clark fans to ‘terrorize’ WNBA’s black players](https://americanwirenews.com/podcaster-says-racists-are-posing-as-caitlin-clark-fans-to-terrorize-wnbas-black-players/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/RF-Harris-Biden-1200x630.jpg)](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-piers-morgan-1200x630.jpg)](https://americanwirenews.com/mehdi-hasan-accuses-trump-of-quoting-hitler-spits-venom-at-piers-morgan-for-pushing-back/)
 
-[Republicans cry foul, urge probe into Biden-Harris admin over Medicare premium offset plan](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
+[Mehdi Hasan accuses Trump of quoting Hitler, spits venom at Piers Morgan for pushing back](https://americanwirenews.com/mehdi-hasan-accuses-trump-of-quoting-hitler-spits-venom-at-piers-morgan-for-pushing-back/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-google-search-1200x630.jpg)](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-clay-travis-on-fox-news-1200x630.jpg)](https://americanwirenews.com/outkick-founder-goes-toe-to-toe-with-dem-strategist-dumbest-argument-ever-made-in-the-history-of-fox-news/)
 
-[Trump slams Google for ‘blatant interference’ and vows ‘prosecution’ if he wins](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
+[Outkick founder goes toe-to-toe with Dem strategist: ‘Dumbest argument ever made in the history of Fox News’](https://americanwirenews.com/outkick-founder-goes-toe-to-toe-with-dem-strategist-dumbest-argument-ever-made-in-the-history-of-fox-news/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-netanyahu-1200x630.jpg)](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jennings_kamala-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/scott-jennings-likens-kamalas-border-visit-to-an-arsonist-returning-to-the-crime-scene/)
 
-[Netanyahu delivers EPIC tongue lashing to anti-Semitic ‘UN house of darkness’](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
+[Scott Jennings likens Kamala’s border visit to an ‘arsonist’ returning to the crime scene](https://americanwirenews.com/scott-jennings-likens-kamalas-border-visit-to-an-arsonist-returning-to-the-crime-scene/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-swift-1200x630.jpg)](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-volleyball-player-1200x630.jpg)](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
 
-[‘Bad Blood’: Republican, independent support for Taylor Swift drops following Kamala endorsement](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
+[Women’s volleyball team refuses to play against team with reported trans player](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-adams-lewismartin-1200x630.jpg)](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-sg-mcguire-1200x630.jpg)](https://americanwirenews.com/california-man-allegedly-throws-explosive-at-courthouse-over-unregistered-firearm-charge/)
 
-[NYC mayor’s chief adviser hit with federal subpoena, has cell phone seized](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
+Image via Santa Barbara County Sheriff's Office
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-honeybadger-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
+[California man allegedly throws explosive at courthouse over unregistered firearm charge](https://americanwirenews.com/california-man-allegedly-throws-explosive-at-courthouse-over-unregistered-firearm-charge/)
 
-[Bannon rallies the MAGA troops in fiery message from behind prison walls](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wright-adams-1200x630.jpg)](https://americanwirenews.com/mayor-adams-issues-order-regarding-top-deputys-duties-if-shes-unable-to-perform-such-functions/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mark-cuban-sg-riley-gaines-1200x630.jpg)](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
+[Mayor Adams issues order regarding top deputy’s duties if she’s ‘unable to perform such functions’](https://americanwirenews.com/mayor-adams-issues-order-regarding-top-deputys-duties-if-shes-unable-to-perform-such-functions/)
 
-[Mark Cuban, Riley Gaines go rounds over Harris’s border record: ‘We might have different standards’](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rick-scott-vs-ron-desantis-1200x630.jpg)](https://americanwirenews.com/sen-rick-scott-caves-to-cnn-talking-points-on-hurricane-helene-but-its-not-enough-to-stop-leftist-hate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalaborder-1200-x-628-1200x630.jpg)
+[Sen. Rick Scott caves to CNN talking points on Hurricane Helene but it’s not enough to stop leftist hate](https://americanwirenews.com/sen-rick-scott-caves-to-cnn-talking-points-on-hurricane-helene-but-its-not-enough-to-stop-leftist-hate/)
 
-### Border Patrol union and others rip into Harris for ‘completely staged’ border visit](https://americanwirenews.com/border-patrol-union-and-others-rip-into-harris-for-completely-staged-border-visit/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-stevielive-1200-x-628-1200x630.jpg)
+
+### Kamala-backing rock diva says new pro-abortion anthem ‘may be the most important thing I ever do’](https://americanwirenews.com/kamala-backing-rock-diva-says-new-pro-abortion-anthem-may-be-the-most-important-thing-i-ever-do/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,9 +80,45 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-adams-lewismartin-220x180.jpg)](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
+
+[NYC mayor’s chief adviser hit with federal subpoena, has cell phone seized](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-smallbizfox-1200-x-628-1200-x-628-220x180.jpg)](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
 
 [Small business owners struggling to ‘keep up’ under Harris-Biden economy as election looms](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/RF-Harris-Biden-220x180.jpg)](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
+
+[Republicans cry foul, urge probe into Biden-Harris admin over Medicare premium offset plan](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalaborder-1200-x-628-220x180.jpg)](https://americanwirenews.com/border-patrol-union-and-others-rip-into-harris-for-completely-staged-border-visit/)
+
+[Border Patrol union and others rip into Harris for ‘completely staged’ border visit](https://americanwirenews.com/border-patrol-union-and-others-rip-into-harris-for-completely-staged-border-visit/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-swift-220x180.jpg)](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
+
+[‘Bad Blood’: Republican, independent support for Taylor Swift drops following Kamala endorsement](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mark-cuban-sg-riley-gaines-220x180.jpg)](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
+
+[Mark Cuban, Riley Gaines go rounds over Harris’s border record: ‘We might have different standards’](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-netanyahu-220x180.jpg)](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
+
+[Netanyahu delivers EPIC tongue lashing to anti-Semitic ‘UN house of darkness’](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-google-search-220x180.jpg)](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
+
+[Trump slams Google for ‘blatant interference’ and vows ‘prosecution’ if he wins](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpwarrenmi-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
+
+[Trump hammers Kamala over criminal illegal ‘killing machine’](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-honeybadger-1200-x-628-220x180.jpg)](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
+
+[Bannon rallies the MAGA troops in fiery message from behind prison walls](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college--220x180.png)](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
 
@@ -139,42 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-ship-220x180.jpg)](https://americanwirenews.com/sabotage-shocker-shipbuilding-company-suspects-faulty-welds-were-done-intentionally-on-us-navy-subs/)
 
 [Sabotage shocker: Shipbuilding company suspects faulty welds were done intentionally on US Navy subs](https://americanwirenews.com/sabotage-shocker-shipbuilding-company-suspects-faulty-welds-were-done-intentionally-on-us-navy-subs/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-2-220x180.png)](https://americanwirenews.com/kamala-joins-with-zelenskyy-for-presser-photo-op-takes-no-questions/)
-
-[Kamala joins with Zelenskyy for presser, photo op – takes no questions](https://americanwirenews.com/kamala-joins-with-zelenskyy-for-presser-photo-op-takes-no-questions/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kjp-gun-220x180.jpg)](https://americanwirenews.com/kjp-gets-dragged-for-defense-of-kamalas-record-on-gun-rights-not-just-a-liar-but-a-bad-liar/)
-
-[KJP gets DRAGGED for defense of Kamala’s record on gun rights: ‘Not just a liar, but a BAD liar’](https://americanwirenews.com/kjp-gets-dragged-for-defense-of-kamalas-record-on-gun-rights-not-just-a-liar-but-a-bad-liar/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fils-water-220x180.jpg)](https://americanwirenews.com/haitian-official-discussing-cats-and-dogs-comments-to-un-makes-crazy-embarrassing-move-in-middle-of-speech/)
-
-[Haitian official discussing ‘cats and dogs’ comments to UN makes crazy embarrassing move in middle of speech](https://americanwirenews.com/haitian-official-discussing-cats-and-dogs-comments-to-un-makes-crazy-embarrassing-move-in-middle-of-speech/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnnboy-kamala-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-asks-kids-to-describe-kamala-dont-get-answers-they-were-likely-expecting/)
-
-[CNN asks kids to describe Kamala, don’t get answers they were likely expecting](https://americanwirenews.com/cnn-asks-kids-to-describe-kamala-dont-get-answers-they-were-likely-expecting/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-judge-arthur-engoron-sg-donald-trump1200-x-628-220x180.jpg)](https://americanwirenews.com/ny-judges-review-trumps-massive-454m-civil-fraud-settlement-and-one-calls-it-troubling/)
-
-[NY judges review Trump’s massive $454M civil fraud settlement, and one calls it ‘troubling’](https://americanwirenews.com/ny-judges-review-trumps-massive-454m-civil-fraud-settlement-and-one-calls-it-troubling/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-matt-gaetz-220x180.jpg)](https://americanwirenews.com/gaetz-blasts-uncomfortably-nosy-ethic-committee-wont-participate-in-probe/)
-
-[Gaetz blasts ‘uncomfortably nosy’ ethic committee, won’t participate in probe](https://americanwirenews.com/gaetz-blasts-uncomfortably-nosy-ethic-committee-wont-participate-in-probe/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SGDonaldTrumpSGNancyPelosi-220x180.jpeg)](https://americanwirenews.com/trump-unloads-on-pelosi-for-insider-trading-after-latest-stock-dump-she-should-be-prosecuted/)
-
-[Trump unloads on Pelosi for insider trading after latest stock dump: ‘She should be prosecuted’](https://americanwirenews.com/trump-unloads-on-pelosi-for-insider-trading-after-latest-stock-dump-she-should-be-prosecuted/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-musk-220x180.jpg)](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
-
-[Elon Musk says ‘it’s obvious’ that Dems are ‘importing voters’](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mayor-adams-220x180.jpg)](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
-
-[‘You are a disgrace for all Black people in this city!’ Adams loudly heckled at presser](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
