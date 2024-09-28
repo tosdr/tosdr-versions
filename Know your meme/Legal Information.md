@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[J.D. Vance Dossier Leak](https://knowyourmeme.com/memes/events/jd-vance-dossier-leak "J.D. Vance Dossier Leak") [Ghost of Yotei (Ghost of Tsushima 2)](https://knowyourmeme.com/memes/subcultures/ghost-of-yotei-ghost-of-tsushima-2 "Ghost of Yotei (Ghost of Tsushima 2)") [Never Kill Yourself](https://knowyourmeme.com/memes/never-kill-yourself "Never Kill Yourself") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [RFK Jr. Dead Whale Story](https://knowyourmeme.com/memes/events/rfk-jr-dead-whale-story "RFK Jr. Dead Whale Story") [Apu Gurl](https://knowyourmeme.com/memes/apu-gurl "Apu Gurl") [J.D. Vance](https://knowyourmeme.com/memes/people/jd-vance "J.D. Vance")
+[Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [J.D. Vance Dossier Leak](https://knowyourmeme.com/memes/events/jd-vance-dossier-leak "J.D. Vance Dossier Leak") [Pesto the Penguin](https://knowyourmeme.com/memes/pesto-the-penguin "Pesto the Penguin") [Were You Killed? Sadly Yes, But I Lived](https://knowyourmeme.com/memes/were-you-killed-sadly-yes-but-i-lived "Were You Killed? Sadly Yes, But I Lived")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
