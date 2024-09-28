@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Антон Демидов: Делегация Комсомола Китая посетит Россию и подпишет соглашение с «Молодой Гвардией Единой России»](https://cdn.er.ru/media/news/September2024/NXPO56oJ2PSExn3OqpuC-small.jpg)](https://er.ru/activity/news/anton-demidov-delegaciya-komsomola-kitaya-posetit-rossiyu-i-podpishet-soglashenie-s-molodoj-gvardiej-edinoj-rossii)
+
+[Антон Демидов: Делегация Комсомола Китая посетит Россию и подпишет соглашение с «Молодой Гвардией Единой России»](https://er.ru/activity/news/anton-demidov-delegaciya-komsomola-kitaya-posetit-rossiyu-i-podpishet-soglashenie-s-molodoj-gvardiej-edinoj-rossii)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#визиты](https://er.ru/activity/news?tags%5B0%5D=71575)
+
+Сегодня 10:25
+
 [![Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://cdn.er.ru/media/news/September2024/XcMvtyKmYluuDr09PoGC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
 
 [Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
@@ -336,14 +344,6 @@
 [Ирина Яровая: Законопроект о едином плане работы для вожатых в детских лагерях повысит качество, содержательность и безопасность детского отдыха](https://er.ru/activity/news/irina-yarovaya-zakonoproekt-o-edinom-plane-raboty-dlya-vozhatyh-v-detskih-lageryah-povysit-kachestvo-soderzhatelnost-i-bezopasnost-detskogo-otdyha)
 
 [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#воспитание детей](https://er.ru/activity/news?tags%5B0%5D=31755) [#детские лагеря](https://er.ru/activity/news?tags%5B0%5D=3189)
-
-27.09.24
-
-[![«Единая Россия» передала помощь в пункты временного размещения в Курской области](https://cdn.er.ru/media/news/September2024/jU2SgmSXNb5zKqnb8fc3-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-v-punkty-vremennogo-razmesheniya-v-kurskoj-oblasti)
-
-[«Единая Россия» передала помощь в пункты временного размещения в Курской области](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-v-punkty-vremennogo-razmesheniya-v-kurskoj-oblasti)
-
-[#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895)
 
 27.09.24
 
