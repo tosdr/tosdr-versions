@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/09/Trivia-Challenge-2024-768x432.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
+
+### [Join us for our Annual Fleetwide Trivia Challenge this coming Sunday, September 29th!](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
+
+Serala September 28, 2024
+
+Yes, it’s that time again! Time for our Annual Trivia Challenge! Do you have an abundance of Star Trek lore stored in your databanks? Are
+
+[Read More »](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
 
 ### [Denali Station crew returns from alternate dimension after perilous escape.](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
@@ -377,18 +389,6 @@ Sal Taybrim September 26, 2024
 It is time for our trivia challenge once again and September’s Fleetwide chat on Sunday, September 29, 2024, will feature our annual trivia contest! Here’s a quick
 
 [Read More »](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/02/starbase12-768x540.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
-
-### [Ops crew faces Starfleet flagship in epic showdown](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
-
-Federation News Service September 25, 2024
-
-SECTOR 001 – The crew of StarBase 118 Ops played a critical role in stopping the assimilated Enterprise-F as it attempted to destroy Spacedock and
-
-[Read More »](https://www.starbase118.net/2024/ops-crew-faces-starfleet-flagship-in-epic-showdown/)
 
 Ready to get started?
 ---------------------
