@@ -240,11 +240,26 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### 90% Renewals
+#### Great Users
 
   
-Over 90% of our clients renew their services for over one year.  
+
+![Partner](/content/images/content/strip/wyatt.house.png)
+
   
+
+  
+![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/Skyrim.co.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
