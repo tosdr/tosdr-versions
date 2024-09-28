@@ -1,3 +1,5 @@
+[🗳 Cast Your Vote To Select The Meme Of The Month! 🗳](https://knowyourmeme.com/editorials/poll/cast-your-vote-for-september-2024s-meme-of-the-month)
+
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -120,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [J.D. Vance Dossier Leak](https://knowyourmeme.com/memes/events/jd-vance-dossier-leak "J.D. Vance Dossier Leak") [Pesto the Penguin](https://knowyourmeme.com/memes/pesto-the-penguin "Pesto the Penguin") [Were You Killed? Sadly Yes, But I Lived](https://knowyourmeme.com/memes/were-you-killed-sadly-yes-but-i-lived "Were You Killed? Sadly Yes, But I Lived")
+[Pesto the Penguin](https://knowyourmeme.com/memes/pesto-the-penguin "Pesto the Penguin")
 
 Privacy Policy
 ==============
@@ -316,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
