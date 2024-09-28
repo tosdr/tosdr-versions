@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am happy with the service and cannot at this point suggest any improvements.
+Your customer service is amazing!
 
-Kelvin Logan
+Nasim Tukhi
