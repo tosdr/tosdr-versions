@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_Mulher_encontrada_no_bairro_do_Prado_-_foto_Reproducao_2acc7e0576.jpg)
+   [![HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/d/csm_hge-procura-familiares-de-paciente-sem-identificacao-resgatado-pelo-samu-no-centro-de-maceio_89df05117d.jpg)
+
+em recuperação
+
+HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/hge-procura-familiares-de-paciente-sem-identificacao-resgatado-no-centro-de-maceio/ "HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió")   [![Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_Mulher_encontrada_no_bairro_do_Prado_-_foto_Reproducao_2acc7e0576.jpg)
 
 62 anos
 
-Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://www.tnh1.com.br/noticia/nid/moradores-do-prado-tentam-localizar-familia-de-mulher-encontrada-com-sinais-de-desorientacao/ "Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação")   [![MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_emissario_submarino_maceio_ascom_crea_al_fdf0e97d92.jpg)
+Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://www.tnh1.com.br/noticia/nid/moradores-do-prado-tentam-localizar-familia-de-mulher-encontrada-com-sinais-de-desorientacao/ "Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação")   [![MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_emissario_submarino_maceio_ascom_crea_al_fdf0e97d92.jpg)
 
 Maceió
 
-MPF vai investigar risco de desabamento e danos ambientais de emissário submarino](https://www.tnh1.com.br/noticia/nid/mpf-vai-investigar-risco-de-desabamento-e-danos-ambientais-de-emissario-submarino/ "MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ")   [![Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/8/csm_Maceio-visto-de-cima-Drone-SEMEC-Foto-Celio-Junior_39a24922cb.jpg)
+MPF vai investigar risco de desabamento e danos ambientais de emissário submarino](https://www.tnh1.com.br/noticia/nid/mpf-vai-investigar-risco-de-desabamento-e-danos-ambientais-de-emissario-submarino/ "MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ")   [![Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_Maceio-visto-de-cima-Drone-SEMEC-Foto-Celio-Junior_39a24922cb.jpg)
 
 guias disponíveis
 
-Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/setima-parcela-do-iptu-2024-vence-na-proxima-segunda-feira-30/ "Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)")   [![Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_idosa_desaparecida_7d407a0890.png)
+Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/setima-parcela-do-iptu-2024-vence-na-proxima-segunda-feira-30/ "Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)")   [![Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_idosa_desaparecida_7d407a0890.png)
 
 Maceió
 
-Idosa com Alzheimer que pulou janela para fugir de casa é encontrada](https://www.tnh1.com.br/noticia/nid/idosa-com-alzheimer-que-pulou-janela-para-fugir-de-casa-e-encontrada/ "Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ")    [![Motociclista é socorrida após colisão com carro no Pinheiro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/9/csm_acidente_moto_carro_pinheiro_c1ae8d6ab8.jpg)
+Idosa com Alzheimer que pulou janela para fugir de casa é encontrada](https://www.tnh1.com.br/noticia/nid/idosa-com-alzheimer-que-pulou-janela-para-fugir-de-casa-e-encontrada/ "Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ")    [![Motociclista é socorrida após colisão com carro no Pinheiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/9/csm_acidente_moto_carro_pinheiro_c1ae8d6ab8.jpg)
 
 Mais um acidente
 
-Motociclista é socorrida após colisão com carro no Pinheiro](https://www.tnh1.com.br/noticia/nid/motociclista-e-socorrida-apos-colisao-com-carro-no-pinheiro/ "Motociclista é socorrida após colisão com carro no Pinheiro")   [![Homem é preso por matar irmã idosa a tijoladas; familiares afirmam que ele sofre de esquizofrenia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_idoso-mata-irma-pauladas_2ae12cbcce.jpg)
-
-Na Ponta Grossa
-
-Homem é preso por matar irmã idosa a tijoladas; familiares afirmam que ele sofre de esquizofrenia](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-matar-irma-idosa-a-tijoladas-familiares-afirmam-que-ele-sofre-de-esquizofrenia/ "Homem é preso por matar irmã idosa a tijoladas; familiares afirmam que ele sofre de esquizofrenia")
+Motociclista é socorrida após colisão com carro no Pinheiro](https://www.tnh1.com.br/noticia/nid/motociclista-e-socorrida-apos-colisao-com-carro-no-pinheiro/ "Motociclista é socorrida após colisão com carro no Pinheiro")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Homem é preso por matar irmã idosa a tijoladas; familiares afirmam que ele sof
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/d/csm_Aeronave_SAMU_AL_-_foto_SAMU_65acdadaea.jpg)
+   [![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_8438c84412.jpg)
+
+inadimplentes
+
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")   [![Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/d/csm_Aeronave_SAMU_AL_-_foto_SAMU_65acdadaea.jpg)
 
 Alagoas
 
-Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://www.tnh1.com.br/noticia/nid/veja-novas-aeronaves-que-vao-reforcar-frota-de-atendimento-medico-em-alagoas/ "Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas")   [![Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_Dia_Nacional_do_Surdo_-_Cordial__2__146a958d8b.jpeg)
+Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://www.tnh1.com.br/noticia/nid/veja-novas-aeronaves-que-vao-reforcar-frota-de-atendimento-medico-em-alagoas/ "Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas")   [![Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_Dia_Nacional_do_Surdo_-_Cordial__2__146a958d8b.jpeg)
 
 Alagoas
 
-Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://www.tnh1.com.br/noticia/nid/inclusao-na-saude-colaboradores-sao-capacitados-em-libras-para-atendimento-da-comunidade-surda/ "Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda")   [![Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_calor_julho_recorde_reproducao_c23e2f7e18.jpg)
+Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://www.tnh1.com.br/noticia/nid/inclusao-na-saude-colaboradores-sao-capacitados-em-libras-para-atendimento-da-comunidade-surda/ "Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda")   [![Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_calor_julho_recorde_reproducao_c23e2f7e18.jpg)
 
 Meteorologia
 
-Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana](https://www.tnh1.com.br/noticia/nid/maxima-de-36oc-algumas-regioes-de-alagoas-podem-registrar-calor-intenso-neste-fim-de-semana/ "Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana")   [![Veja quais trechos estão próprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
+Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana](https://www.tnh1.com.br/noticia/nid/maxima-de-36oc-algumas-regioes-de-alagoas-podem-registrar-calor-intenso-neste-fim-de-semana/ "Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana")   [![Veja quais trechos estão próprios para banho no litoral de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
 
 balneabilidade
 
-Veja quais trechos estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-quais-trechos-estao-proprios-para-banho-no-litoral-de-alagoas-2/ "Veja quais trechos estão próprios para banho no litoral de Alagoas")   [![Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/6/csm_Concurso_publico_-_foto_Agencia_Brasil_f6eb9d142c.jpg)
+Veja quais trechos estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-quais-trechos-estao-proprios-para-banho-no-litoral-de-alagoas-2/ "Veja quais trechos estão próprios para banho no litoral de Alagoas")   [![Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/6/csm_Concurso_publico_-_foto_Agencia_Brasil_f6eb9d142c.jpg)
 
 calendário atualizado
 
-Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://www.tnh1.com.br/noticia/nid/nova-data-e-definida-para-provas-do-concurso-publico-da-prefeitura-de-rio-largo-confira/ "Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira")   [![Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/b/csm_semarh-previsao-tempo-alagoas_e7339241ed.png)
-
-Alagoas
-
-Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)](https://www.tnh1.com.br/noticia/nid/veja-a-previsao-do-tempo-para-todas-as-regioes-de-alagoas-nesta-quinta-feira-26/ "Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (26)")
+Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://www.tnh1.com.br/noticia/nid/nova-data-e-definida-para-provas-do-concurso-publico-da-prefeitura-de-rio-largo-confira/ "Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Veja a previsão do tempo para todas as regiões de Alagoas nesta quinta-feira (
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
+   [![PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/b/csm_pm-al-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana_5e4e58a38c.jpg)
+
+BALANÇO
+
+PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana/ "PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana")   [![Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_suspeito_preso_homicidio_agreste_bb42b54b32.jpg)
+
+suspeitos presos
+
+Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-mata-jovem-a-facadas-apos-suposta-ameaca-de-morte-no-agreste-de-alagoas/ "Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas")   [![Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
 
 Polícia
 
-Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-tiros-na-cabeca-no-barro-duro/ "Homem é encontrado morto com tiros na cabeça, no Barro Duro")   [![Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/c/csm_Pelopes_-_foto_PMAL_2f66bc1ea2.jpeg)
+Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-tiros-na-cabeca-no-barro-duro/ "Homem é encontrado morto com tiros na cabeça, no Barro Duro")   [![Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/c/csm_Pelopes_-_foto_PMAL_2f66bc1ea2.jpeg)
 
 Agreste
 
-Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustiveis-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustíveis é preso em Arapiraca")   [![Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/5/csm_pelopes-do-3-batalhao-da-pm-al-prende-suspeito-de-homicidio-em-arapiraca_5a945c78b1.jpeg)
+Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustiveis-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustíveis é preso em Arapiraca")   [![Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/5/csm_pelopes-do-3-batalhao-da-pm-al-prende-suspeito-de-homicidio-em-arapiraca_5a945c78b1.jpeg)
 
 Polícia
 
-Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustivel-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustível é preso em Arapiraca")   [![Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/4/csm_Cartucho_arma_caso_Ana_Beatriz_-_foto_Reproducao_TV_Pajucara_5132b71e87.jpg)
+Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustivel-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustível é preso em Arapiraca")   [![Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/4/csm_Cartucho_arma_caso_Ana_Beatriz_-_foto_Reproducao_TV_Pajucara_5132b71e87.jpg)
 
 investigação
 
-Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://www.tnh1.com.br/noticia/nid/arma-do-caso-ana-beatriz-pode-ter-sido-utilizada-contra-outras-oito-vitimas/ "Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas")   [![Perícia confirma que arma apreendida é a mesma que matou a menina Ana Beatriz](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/2/csm_Arma_caso_Ana_Beatriz_-_foto_Reproducao_TV_Pajucara_bf4aed1585.jpg)
-
-na levada
-
-Perícia confirma que arma apreendida é a mesma que matou a menina Ana Beatriz](https://www.tnh1.com.br/noticia/nid/pericia-confirma-que-arma-apreendida-e-a-mesma-que-matou-a-menina-ana-beatriz/ "Perícia confirma que arma apreendida é a mesma que matou a menina Ana Beatriz")   [![Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_19e9c067f5.jpeg)
-
-CÉDULAS DE 100
-
-Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://www.tnh1.com.br/noticia/nid/crime-eleitoral-pf-apreende-r-500-mil-em-especie-no-bairro-de-ponta-verde-em-maceio/ "Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió")
+Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://www.tnh1.com.br/noticia/nid/arma-do-caso-ana-beatriz-pode-ter-sido-utilizada-contra-outras-oito-vitimas/ "Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -214,15 +214,7 @@ EM LONDRES
 
 Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado
 
-Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado](https://www.tnh1.com.br/noticia/nid/homem-com-condicao-genetica-rara-diz-que-foi-expulso-de-restaurante-por-causa-de-rosto-desfigurado/ "Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado ")[![Vídeo: carro invade obras da Praça do Centenário, no Farol; trânsito ficou lento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/0/csm_carro_invade_obras_na_fernandes_lima_-_foto_henrique_moura_tv_pajucara_983bac8e2c.jpg)
-
-pneu estourou
-
-pneu estourou
-
-Vídeo: carro invade obras da Praça do Centenário, no Farol; trânsito ficou lento
-
-Vídeo: carro invade obras da Praça do Centenário, no Farol; trânsito ficou lento](https://www.tnh1.com.br/noticia/nid/video-carro-invade-obras-da-praca-do-centenario-no-farol-transito-ficou-lento/ "Vídeo: carro invade obras da Praça do Centenário, no Farol; trânsito ficou lento")[![Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/5/csm_delegacia_da_mulher_arapiraca_reproducao_89d9e2b4ff.jpg)
+Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado](https://www.tnh1.com.br/noticia/nid/homem-com-condicao-genetica-rara-diz-que-foi-expulso-de-restaurante-por-causa-de-rosto-desfigurado/ "Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado ")[![Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/5/csm_delegacia_da_mulher_arapiraca_reproducao_89d9e2b4ff.jpg)
 
 Mãe denunciou
 
@@ -230,41 +222,49 @@ Mãe denunciou
 
 Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas
 
-Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/medico-e-indiciado-suspeito-de-estuprar-a-filha-de-3-anos-no-interior-de-alagoas/ "Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas")
+Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/medico-e-indiciado-suspeito-de-estuprar-a-filha-de-3-anos-no-interior-de-alagoas/ "Médico é indiciado suspeito de estuprar a filha de 3 anos, no interior de Alagoas")[![Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/a/csm_sequestro-madeleine-reproducao_549d2dd6ca.jpg)
 
-[![Óleo em pista provoca acidente e deixa feridos na Avenida Juca Sampaio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/6/csm_Oleo_em_pista_provoca_acidentes_e_deixa_feridos_na_Avenida_Juca_Sampaio_-_foto_Reproducao_b067f78a11.jpeg)
+confessou crime
 
-Trânsito
+confessou crime
 
-Trânsito
+Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann
 
-Óleo em pista provoca acidente e deixa feridos na Avenida Juca Sampaio
+Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann](https://www.tnh1.com.br/noticia/nid/colega-de-cela-de-suspeito-da-detalhes-de-sequestro-de-madeleine-mccann/ "Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann")
 
-Óleo em pista provoca acidente e deixa feridos na Avenida Juca Sampaio](https://www.tnh1.com.br/noticia/nid/oleo-em-pista-provoca-acidente-e-deixa-feridos-na-avenida-juca-sampaio/ "Óleo em pista provoca acidente e deixa feridos na Avenida Juca Sampaio")[![Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/6/csm_Secretaria_do_Trabalho_divulga_novas_741_vagas_de_emprego_para_diversas_areas_em_Maceio_e_no_interior_-_foto__Fotos_Mariel_Mathias__Fernanda_Fernandes_-_Ascom_SETEQ_eac6560d4e.jpg)
+[![Ministra da Saúde reforça que Brasil vive "pandemia" de vício em bets](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_Bets_apostas_esportivas_-_foto_Thenews2Folhapress_2_687b65648b.jpg)
 
-veja cargos
+preocupação nacional
 
-veja cargos
+preocupação nacional
 
-Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior
+Ministra da Saúde reforça que Brasil vive "pandemia" de vício em bets
 
-Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/sine-al-divulga-novas-741-vagas-de-emprego-para-areas-em-maceio-e-no-interior/ "Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior")[![Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_88f5d518a4.jpeg)
+Ministra da Saúde reforça que Brasil vive "pandemia" de vício em bets](https://www.tnh1.com.br/noticia/nid/ministra-da-saude-reforca-que-brasil-vive-pandemia-de-vicio-em-bets/ "Ministra da Saúde reforça que Brasil vive "pandemia" de vício em bets")[![Empresário morre após tiro acidental de espingarda na própria perna](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/c/csm_empresario_df_morte_tiro_acidental__1__6a8d31ee50.jpg)
 
-Polícia
+NO DF
 
-Polícia
+NO DF
 
-Homem é encontrado morto com tiros na cabeça, no Barro Duro
+Empresário morre após tiro acidental de espingarda na própria perna
 
-Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-tiros-na-cabeca-no-barro-duro/ "Homem é encontrado morto com tiros na cabeça, no Barro Duro")[![Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/a/csm_Mario_Marroquim__presidente_do_CRB_-_Foto_Reproducao_-_CRB_Cast_ca41e10dbd.jpg)
+Empresário morre após tiro acidental de espingarda na própria perna](https://www.tnh1.com.br/noticia/nid/empresario-morre-apos-tiro-acidental-de-espingarda-na-propria-perna/ "Empresário morre após tiro acidental de espingarda na própria perna")[![PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/b/csm_pm-al-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana_bee9eca3d4.jpg)
 
-Série B
+BALANÇO
 
-Série B
+BALANÇO
 
-Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB
+PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana
 
-Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB](https://www.tnh1.com.br/noticia/nid/troca-de-comando-psicologico-premiacao-e-mais-veja-exclusiva-com-presidente-do-crb/ "Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ")
+PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana/ "PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana")[![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_1d390650ba.jpg)
+
+inadimplentes
+
+inadimplentes
+
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento
+
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
