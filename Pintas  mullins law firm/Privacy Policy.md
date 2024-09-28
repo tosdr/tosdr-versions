@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/unexplained-bruises-or-cuts-or-burns/ "What Causes Bruises to Appear Without Injury?")
+[![What are the warning signs of elder abuse and neglect?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-warning-signs-of-elder-abuse-and-neglect-scaled.jpg "What Are the Warning Signs of Elder Abuse and Neglect?")](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/ "What Are the Warning Signs of Elder Abuse and Neglect?")
 
-[#### What Causes Bruises to Appear Without Injury?](https://www.pintas.com/faq/unexplained-bruises-or-cuts-or-burns/)
+[#### What Are the Warning Signs of Elder Abuse and Neglect?](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/)
 
-[![Can a chest x-ray show asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-xray-show-asbestos.jpg "Can a Chest X-ray Show Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/ "Can a Chest X-ray Show Asbestos?")
+[![How long does a mesothelioma case take?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-long-does-a-mesothelioma-case-take-scaled.jpg "How Long Does A Mesothelioma Case Take?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/ "How Long Does A Mesothelioma Case Take?")
 
-[#### Can a Chest X-ray Show Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/)
+[#### How Long Does A Mesothelioma Case Take?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/)
 
-[![Can asbestos cause lung nodules?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-asbestos-cause-lung-nodules-scaled.jpg "Can Asbestos Cause Lung Nodules?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/ "Can Asbestos Cause Lung Nodules?")
+[![How to file a sexual abuse lawsuit against the mormon church](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How to File a Sexual Abuse Lawsuit Against the Mormon Church")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/ "How to File a Sexual Abuse Lawsuit Against the Mormon Church")
 
-[#### Can Asbestos Cause Lung Nodules?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/)
+[#### How to File a Sexual Abuse Lawsuit Against the Mormon Church](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
