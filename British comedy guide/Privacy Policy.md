@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Ola Labib](https://cdn.comedy.co.uk/images/library/people/300x200/o/ola_labib_2024.jpg "Ola Labib")](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/) Live
+
+[First Gig, Worst Gig: Ola Labib](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/)
+
 [![Rob Copland](https://cdn.comedy.co.uk/images/library/people/300x200/r/rob_copland_gimme_everything.jpg "Rob Copland")](https://www.comedy.co.uk/live/features/laugh-tracks-rob-copland/) Live
 
 [Laugh Tracks: Rob Copland is hardcore. You know the score.](https://www.comedy.co.uk/live/features/laugh-tracks-rob-copland/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Brassic. Vinnie (Joe Gilgun)](https://cdn.comedy.co.uk/images/library/comedies/300x200/b/brassic_series6_vinnie.jpg "Brassic. Vinnie (Joe Gilgun)")](https://www.comedy.co.uk/tv/brassic/interviews/joseph-gilgun/) TV
 
 [Joseph Gilgun talks about Brassic Series 6](https://www.comedy.co.uk/tv/brassic/interviews/joseph-gilgun/)
-
-[![Murder, They Hope. Image shows left to right: Terry (Johnny Vegas), Gemma (Sian Gibson)](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/apocalypse_slough_duo.jpg "Murder, They Hope. Image shows left to right: Terry (Johnny Vegas), Gemma (Sian Gibson)")](https://www.comedy.co.uk/tv/murder-they-hope/interviews/sian-gibson-johnny-vegas-apocalypse-slough/) TV
-
-[Sian Gibson & Johnny Vegas introduce Apocalypse Slough](https://www.comedy.co.uk/tv/murder-they-hope/interviews/sian-gibson-johnny-vegas-apocalypse-slough/)
 
 #### Subscribe to our newsletters
 
