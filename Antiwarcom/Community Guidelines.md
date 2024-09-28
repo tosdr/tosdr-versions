@@ -56,7 +56,7 @@
 
 [Click here to mail submissions](mailto:editor@antiwar.com?Subject=Submission).
 
-_[Click here for links submissions.](https://www.antiwar.com/link-sub.php)_
+_[Click here for links submissions.](https://www.antiwar.com/submit-link.php)_
 
 Hi! If you've gotten this far, then you definitely know Antiwar.com is the biggest anti-interventionist, pro-peace website on the net, with over _85,000 unique_ visitors per day! In keeping with [our principles](http://www.antiwar.com/who.php), we accept article submissions from anyone who can add desirable content to our pages.
 
