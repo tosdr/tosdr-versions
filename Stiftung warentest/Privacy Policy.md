@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Service Stiftung Warentest
 
