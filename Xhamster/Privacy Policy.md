@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22f%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A2%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66f82f97923898.764851249e5&xhSessionToken=c834aec8a9ca67402a6da63286c5e7694f0e2dac&xhSessionStartedAt=1727541143)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22g%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A2%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66f883ffbbb818.9072853277b&xhSessionToken=4cb78a7282ee3f7f4390a2c82b3660260518f899&xhSessionStartedAt=1727562751)
 
 [Categories](https://xhamster.com/categories)
 
@@ -370,7 +370,7 @@ Last Modified: January 04, 2024
 * [](https://xhamster.com/info/trust-and-safety)
 
 * [](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
-* [](https://xhamster.com/creators/contest)
+* [](https://xhamster.com/gay/creators/contest)
 * [](https://xhamster.com/creator?source=footerCcp)
 
 [](https://xhamster.com/creator?source=footerBecomeACreator)
