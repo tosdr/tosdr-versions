@@ -2,7 +2,7 @@
 
 [![Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKcAAABOAQMAAAB/k5TlAAAAA1BMVEVHcEyC+tLSAAAAAXRSTlMAQObYZgAAABVJREFUGBljGAWjYBSMglEwCoYIAAAGtAAB3ZjsgwAAAABJRU5ErkJggg==)
 
-![Logo](https://www.ga-2.it/wp-content/uploads/2016/11/Logo.png)](https://www.ga-2.it/)
+![Logo](https://www.ga-2.it/wp-content/uploads/2016/11/Logo.png.pagespeed.ce.YvE00av1vL.png)](https://www.ga-2.it/)
 
 [GA-2 s.n.c.](https://www.ga-2.it/)
 
