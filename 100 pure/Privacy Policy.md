@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5752 reviews (5752)
+5753 reviews (5753)
 
 $16.00 $29.00
 
@@ -332,7 +332,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1563 reviews (1563)
+1564 reviews (1564)
 
 $30.00 $30.00
 
@@ -373,6 +373,50 @@ ADD TO TOTE
 $48.00
 
 Default Title - $48
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/Awards-2024-global-green-beauty-silver.png?crop=center&height=85&v=1725096491&width=85)](https://www.100percentpure.com/products/hydra-drench-cream)
+
+[![hydra-drench-cream](https://www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_239x254.png?v=1696526624)](https://www.100percentpure.com/products/hydra-drench-cream)
+
+![ 1FHDC_Primary](//www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_220x.png?v=1696526624)
+
+### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
+
+508 reviews (508)
+
+$48.00
+
+Default Title - $48
+
+ADD TO TOTE
+
+[![dark-spot-remover](https://www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_239x254.jpg?v=1696526415)](https://www.100percentpure.com/products/dark-spot-remover)
+
+![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_220x.jpg?v=1696526415)
+
+### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
+
+543 reviews (543)
+
+$52.00
+
+Default Title - $52
+
+ADD TO TOTE
+
+[![watermelon-cucumber-water-locking-serum](https://www.100percentpure.com/cdn/shop/products/FG1FWCHS_Primary_239x254.png?v=1665003391)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-serum)
+
+![ Watermelon Cucumber Water Locking Serum](//www.100percentpure.com/cdn/shop/products/FG1FWCHS_Primary_220x.png?v=1665003391)
+
+### [Watermelon Cucumber Water Locking Serum](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-serum)
+
+59 reviews (59)
+
+$25.00
+
+Default Title - $25
 
 ADD TO TOTE
 
