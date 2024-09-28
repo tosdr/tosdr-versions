@@ -20,16 +20,16 @@ Saturday, September 28 2024
 
 Latest
 
-* [Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
-* [My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
-* [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
-* [AI Surge Could Trigger Global Chip Shortage by 2026](https://digitpatrox.com/ai-surge-could-trigger-global-chip-shortage-by-2026/)
-* [How to make coffee without a coffee maker — 5 easy techniques](https://digitpatrox.com/how-to-make-coffee-without-a-coffee-maker-5-easy-techniques/)
-* [OpenAI was a research lab — now it’s just another tech company](https://digitpatrox.com/openai-was-a-research-lab-now-its-just-another-tech-company/)
-* [Today’s Wordle Answer and Hints (September 28, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-28-2024/)
-* [NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
-* [Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
-* [Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
+* [Meta blocks links to the hacked JD Vance dossier on Threads, Instagram, and Facebook](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
+* [Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
+* [What happens when everybody winds up wearing ‘AI body cams’? – Computerworld](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
+* [How to Incorporate the ‘Whimsigoth’ Aesthetic Into Your Decor](https://digitpatrox.com/how-to-incorporate-the-whimsigoth-aesthetic-into-your-decor/)
+* [Best Sump Pump Backup Systems of 2024](https://digitpatrox.com/best-sump-pump-backup-systems-of-2024/)
+* [Researchers Are Creating AI Scientists, and It’s Going Better Than Expected](https://digitpatrox.com/researchers-are-creating-ai-scientists-and-its-going-better-than-expected/)
+* [Hands-On With AI for Workspace](https://digitpatrox.com/hands-on-with-ai-for-workspace/)
+* [This music streamer just became the center piece of my home HiFi](https://digitpatrox.com/this-music-streamer-just-became-the-center-piece-of-my-home-hifi/)
+* [Welcome to Meta’s future, where everyone wears cameras](https://digitpatrox.com/welcome-to-metas-future-where-everyone-wears-cameras/)
+* [Next Year’s Apple AirPods Could Detect Heart Diseases, According to a New Patent](https://digitpatrox.com/next-years-apple-airpods-could-detect-heart-diseases-according-to-a-new-patent/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3541875-0-30267800-1727435322-Shutterstock-Germany-Only-News-Intel-Factory-Germany-September-2024.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/7LV_E4fzkjkcdLL5mj5WVOuqWUg=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg)](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
     
-    [Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
+    [Meta blocks links to the hacked JD Vance dossier on Threads, Instagram, and Facebook](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
     
-    5 mins ago
+    37 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J8TFD5CTJTG1R3D89CFP1P72/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Bundles-of-Bravery-drop-introduces-bundles-to-Minecraft.jpg)](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
     
-    [My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
+    [Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
     
-    30 mins ago
+    50 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/a-pair-of-oneplus-nord-buds-3-pro-in-front-of-the-case-1_53851478092_o.jpg)](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3537041-0-82844400-1727435911-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
     
-    [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
+    [What happens when everybody winds up wearing ‘AI body cams’? – Computerworld](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
     
-    1 hour ago
+    3 hours ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240927-ai-chip-shortage-global-supply-crisis.jpg)](https://digitpatrox.com/ai-surge-could-trigger-global-chip-shortage-by-2026/)
+* [![](https://lifehacker.com/imagery/articles/01J8S1MCBKYVG2RAD3WFSFHXJJ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-incorporate-the-whimsigoth-aesthetic-into-your-decor/)
     
-    [AI Surge Could Trigger Global Chip Shortage by 2026](https://digitpatrox.com/ai-surge-could-trigger-global-chip-shortage-by-2026/)
+    [How to Incorporate the ‘Whimsigoth’ Aesthetic Into Your Decor](https://digitpatrox.com/how-to-incorporate-the-whimsigoth-aesthetic-into-your-decor/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/PBR5dk2fLAszMtKy6qzZtT-1200-80.jpg)](https://digitpatrox.com/how-to-make-coffee-without-a-coffee-maker-5-easy-techniques/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1724164657/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Sump-Pumps-0824)](https://digitpatrox.com/best-sump-pump-backup-systems-of-2024/)
     
-    [How to make coffee without a coffee maker — 5 easy techniques](https://digitpatrox.com/how-to-make-coffee-without-a-coffee-maker-5-easy-techniques/)
+    [Best Sump Pump Backup Systems of 2024](https://digitpatrox.com/best-sump-pump-backup-systems-of-2024/)
     
-    2 hours ago
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 mins ago
+* [37 mins ago
     
-    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
-* [30 mins ago
+    ### Meta blocks links to the hacked JD Vance dossier on Threads, Instagram, and Facebook](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
+* [50 mins ago
     
-    ### My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
-* [1 hour ago
+    ### Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
+* [3 hours ago
     
-    ### These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
+    ### What happens when everybody winds up wearing ‘AI body cams’? – Computerworld](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
 
 Most Popular Topics
 
-* [August 24, 2024
+* [2 weeks ago
     
-    ### Microsoft update knocks out Linux computers – Computerworld](https://digitpatrox.com/microsoft-update-knocks-out-linux-computers-computerworld/)
-* [August 16, 2024
+    ### A Lifetime of SiteGuru Is Just $69](https://digitpatrox.com/a-lifetime-of-siteguru-is-just-69/)
+* [2 weeks ago
     
-    ### Steam User Reviews Might Actually Be Useful Now](https://digitpatrox.com/steam-user-reviews-might-actually-be-useful-now/)
-* [August 23, 2024
+    ### 8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play](https://digitpatrox.com/8bitdos-new-bluetooth-mod-kit-puts-gamecube-controllers-back-into-play/)
+* [7 days ago
     
-    ### My Favorite Cleaning Products You Can Disguise in Plain Sight](https://digitpatrox.com/my-favorite-cleaning-products-you-can-disguise-in-plain-sight/)
+    ### How to Future-Proof a VoIP Phone System](https://digitpatrox.com/how-to-future-proof-a-voip-phone-system/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Today’s Wordle Answer and Hints (September 28, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-28-2024/)
 * [5 hours ago
     
-    ### NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
+    ### Hands-On With AI for Workspace](https://digitpatrox.com/hands-on-with-ai-for-workspace/)
 * [5 hours ago
     
-    ### Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
+    ### This music streamer just became the center piece of my home HiFi](https://digitpatrox.com/this-music-streamer-just-became-the-center-piece-of-my-home-hifi/)
+* [6 hours ago
+    
+    ### Welcome to Meta’s future, where everyone wears cameras](https://digitpatrox.com/welcome-to-metas-future-where-everyone-wears-cameras/)
 
 Most Viewed Topics
 
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
