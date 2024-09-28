@@ -7,7 +7,7 @@
 Privacy Policy and Terms of Service
 ===================================
 
-Last updated on Sep 27, 2024
+Last updated on Sep 28, 2024
 
 Privacy Policy
 --------------
@@ -326,7 +326,7 @@ Resources
 * [Email Security](https://clean.email/blog/email-security)
 * [Email Etiquette](https://clean.email/blog/email-etiquette)
 
-How-to guides
+How-to Guides
 
 * [Unsubscribe](https://clean.email/how-to-unsubscribe-from-emails)
 * [Stop Spam](https://clean.email/how-to-unsubscribe-from-emails/how-to-stop-spam-emails)
@@ -363,7 +363,7 @@ Platforms
 * [iPhone and iPad](https://apps.apple.com/us/app/clean-email/id1219660920)
 * [macOS](https://apps.apple.com/us/app/clean-email/id1441250616?mt=12)
 * [Android](https://play.google.com/store/apps/details?id=email.clean.android)
-* [Web](http://app.clean.email/)
+* [Web](https://app.clean.email/)
 
 Company
 
