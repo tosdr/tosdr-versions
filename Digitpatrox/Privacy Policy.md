@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, September 27 2024
+Saturday, September 28 2024
 
 Latest
 
-* [How is AI being used in education?](https://digitpatrox.com/how-is-ai-being-used-in-education/)
-* [A Step-By-Step Guide for 2024](https://digitpatrox.com/a-step-by-step-guide-for-2024/)
-* [Ipswich Town vs Aston Villa live stream: How to watch Premier League game online](https://digitpatrox.com/ipswich-town-vs-aston-villa-live-stream-how-to-watch-premier-league-game-online/)
-* [Microsoft’s more secure Windows Recall feature can also be uninstalled by users](https://digitpatrox.com/microsofts-more-secure-windows-recall-feature-can-also-be-uninstalled-by-users/)
-* [Deadlock’s New Anti-Cheat Is Hilarious; Not for the Helpless Cheating Frogs Though](https://digitpatrox.com/deadlocks-new-anti-cheat-is-hilarious-not-for-the-helpless-cheating-frogs-though/)
-* [How factories are transforming their operations with AI](https://digitpatrox.com/how-factories-are-transforming-their-operations-with-ai/)
-* [IT gains open-source tools to manage iPhones, iPads, and Macs – Computerworld](https://digitpatrox.com/it-gains-open-source-tools-to-manage-iphones-ipads-and-macs-computerworld/)
-* [The Best RSS Reader Apps for iPhone and Mac](https://digitpatrox.com/the-best-rss-reader-apps-for-iphone-and-mac/)
-* [Upper Merion Township, PA notifies residents of data breach that compromised their personal info](https://digitpatrox.com/upper-merion-township-pa-notifies-residents-of-data-breach-that-compromised-their-personal-info/)
-* [How to create bootable Windows 10 USB install media](https://digitpatrox.com/how-to-create-bootable-windows-10-usb-install-media/)
+* [Here's What You Get With a Meta Quest 3S Pre-Order](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
+* [Here’s How I Brought My Google Chrome Wallpapers to Life](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
+* [Tech leaders are ramping up IT modernization, but they’re wary of the potential productivity nosedive that comes with it](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
+* [Phishing Attacks on Australia Disguised as Atlassian](https://digitpatrox.com/phishing-attacks-on-australia-disguised-as-atlassian/)
+* [Georgia vs Alabama livestream: How to watch college football Week 5 game online from anywhere](https://digitpatrox.com/georgia-vs-alabama-livestream-how-to-watch-college-football-week-5-game-online-from-anywhere/)
+* [Arc browser adds security bulletins and bug bounties](https://digitpatrox.com/arc-browser-adds-security-bulletins-and-bug-bounties/)
+* [NYT Strands Today: Hints, Answers & Spangram for September 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-28/)
+* [How the oil and gas industry is using AI to maximize production](https://digitpatrox.com/how-the-oil-and-gas-industry-is-using-ai-to-maximize-production/)
+* [How much are companies willing to spend to get workers back to the office? – Computerworld](https://digitpatrox.com/how-much-are-companies-willing-to-spend-to-get-workers-back-to-the-office-computerworld/)
+* [Four Flu Shot Myths People Need to Stop Believing](https://digitpatrox.com/four-flu-shot-myths-people-need-to-stop-believing/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/xNowLsodDbb8km9ZFTgF5N-1200-80.jpg)](https://digitpatrox.com/how-is-ai-being-used-in-education/)
+* [![](https://lifehacker.com/imagery/articles/01J8TM1BY58S393XYM1QWXZ4TK/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
     
-    [How is AI being used in education?](https://digitpatrox.com/how-is-ai-being-used-in-education/)
+    [Here's What You Get With a Meta Quest 3S Pre-Order](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
+    
+    5 mins ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/a-close-up-of-a-laptop-screen-with-google-chrome-open-reloading-and-the-word-chrome-in-the-center.jpg)](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
+    
+    [Here’s How I Brought My Google Chrome Wallpapers to Life](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
     
     38 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240927-how-to-accept-apple-pay.jpg)](https://digitpatrox.com/a-step-by-step-guide-for-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/t4RTPdAxuNoqKBooa7RUdj-1200-80.jpg)](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
     
-    [A Step-By-Step Guide for 2024](https://digitpatrox.com/a-step-by-step-guide-for-2024/)
-    
-    39 mins ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/jJ9m5UGmyG2ryNV2uNdqyS-1200-80.jpg)](https://digitpatrox.com/ipswich-town-vs-aston-villa-live-stream-how-to-watch-premier-league-game-online/)
-    
-    [Ipswich Town vs Aston Villa live stream: How to watch Premier League game online](https://digitpatrox.com/ipswich-town-vs-aston-villa-live-stream-how-to-watch-premier-league-game-online/)
-    
-    56 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/k7WlpeSJAyQmk049ck2Ya6SZIdg=/0x0:1320x880/1200x628/filters:focal(660x440:661x441)/cdn.vox-cdn.com/uploads/chorus_asset/file/25481481/windowsrecall.jpg)](https://digitpatrox.com/microsofts-more-secure-windows-recall-feature-can-also-be-uninstalled-by-users/)
-    
-    [Microsoft’s more secure Windows Recall feature can also be uninstalled by users](https://digitpatrox.com/microsofts-more-secure-windows-recall-feature-can-also-be-uninstalled-by-users/)
+    [Tech leaders are ramping up IT modernization, but they’re wary of the potential productivity nosedive that comes with it](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
     
     2 hours ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Deadlock-anti-cheat-cover.jpg)](https://digitpatrox.com/deadlocks-new-anti-cheat-is-hilarious-not-for-the-helpless-cheating-frogs-though/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240927-phishing-attacks-australia-atlassian.jpg)](https://digitpatrox.com/phishing-attacks-on-australia-disguised-as-atlassian/)
     
-    [Deadlock’s New Anti-Cheat Is Hilarious; Not for the Helpless Cheating Frogs Though](https://digitpatrox.com/deadlocks-new-anti-cheat-is-hilarious-not-for-the-helpless-cheating-frogs-though/)
+    [Phishing Attacks on Australia Disguised as Atlassian](https://digitpatrox.com/phishing-attacks-on-australia-disguised-as-atlassian/)
+    
+    2 hours ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/BsBjQv3eBbuJWaKpBnG26E-1200-80.png)](https://digitpatrox.com/georgia-vs-alabama-livestream-how-to-watch-college-football-week-5-game-online-from-anywhere/)
+    
+    [Georgia vs Alabama livestream: How to watch college football Week 5 game online from anywhere](https://digitpatrox.com/georgia-vs-alabama-livestream-how-to-watch-college-football-week-5-game-online-from-anywhere/)
     
     2 hours ago
     
@@ -208,43 +208,43 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
+* [5 mins ago
+    
+    ### Here's What You Get With a Meta Quest 3S Pre-Order](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
 * [38 mins ago
     
-    ### How is AI being used in education?](https://digitpatrox.com/how-is-ai-being-used-in-education/)
-* [39 mins ago
+    ### Here’s How I Brought My Google Chrome Wallpapers to Life](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
+* [2 hours ago
     
-    ### A Step-By-Step Guide for 2024](https://digitpatrox.com/a-step-by-step-guide-for-2024/)
-* [56 mins ago
-    
-    ### Ipswich Town vs Aston Villa live stream: How to watch Premier League game online](https://digitpatrox.com/ipswich-town-vs-aston-villa-live-stream-how-to-watch-premier-league-game-online/)
+    ### Tech leaders are ramping up IT modernization, but they’re wary of the potential productivity nosedive that comes with it](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [August 19, 2024
     
-    ### Megalopolis could have let audiences ask Adam Driver questions during showings](https://digitpatrox.com/megalopolis-could-have-let-audiences-ask-adam-driver-questions-during-showings/)
-* [4 weeks ago
+    ### How to format a USB drive as FAT32 on Windows](https://digitpatrox.com/how-to-format-a-usb-drive-as-fat32-on-windows/)
+* [August 16, 2024
     
-    ### How to Fix Your Own Sewing Machine](https://digitpatrox.com/how-to-fix-your-own-sewing-machine/)
-* [August 13, 2024
+    ### How to use ChatGPT to analyze PDFs for free](https://digitpatrox.com/how-to-use-chatgpt-to-analyze-pdfs-for-free/)
+* [August 14, 2024
     
-    ### So you introduced an AI chatbot for customers — here’s why they probably hate it](https://digitpatrox.com/so-you-introduced-an-ai-chatbot-for-customers-heres-why-they-probably-hate-it/)
+    ### Venture capital has a serious gender gap: Here’s how to fix it](https://digitpatrox.com/venture-capital-has-a-serious-gender-gap-heres-how-to-fix-it/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### NYT Strands Today: Hints, Answers & Spangram for September 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-28/)
 * [4 hours ago
     
-    ### IT gains open-source tools to manage iPhones, iPads, and Macs – Computerworld](https://digitpatrox.com/it-gains-open-source-tools-to-manage-iphones-ipads-and-macs-computerworld/)
-* [4 hours ago
+    ### How the oil and gas industry is using AI to maximize production](https://digitpatrox.com/how-the-oil-and-gas-industry-is-using-ai-to-maximize-production/)
+* [5 hours ago
     
-    ### The Best RSS Reader Apps for iPhone and Mac](https://digitpatrox.com/the-best-rss-reader-apps-for-iphone-and-mac/)
-* [4 hours ago
-    
-    ### Upper Merion Township, PA notifies residents of data breach that compromised their personal info](https://digitpatrox.com/upper-merion-township-pa-notifies-residents-of-data-breach-that-compromised-their-personal-info/)
+    ### How much are companies willing to spend to get workers back to the office? – Computerworld](https://digitpatrox.com/how-much-are-companies-willing-to-spend-to-get-workers-back-to-the-office-computerworld/)
 
 Most Viewed Topics
 
-* [4 weeks ago
+* [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
