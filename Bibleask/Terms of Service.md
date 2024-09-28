@@ -27,8 +27,6 @@ Terms of Use
 
 **SHARE**
 
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "Facebook")[](https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "X")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "Reddit")[](https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "Copy Link")
-
 * * *
 
 **Welcome to [BibleAsk](https://bibleask.org/ "BibleAsk")**
@@ -168,8 +166,6 @@ You are specifically prohibited from all of the following:
 * using any information obtained from the Website in order to harass, abuse, or harm another person
 * using the BibleAsk Services as part of any effort to compete with BibleAsk or to provide services as a service bureau
 * using the Website in a manner inconsistent with any and all applicable laws and regulations
-
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "Facebook")[](https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "X")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "Reddit")[](https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fbibleask.org%2Fterms-of-use%2F&linkname=Terms%20of%20Use "Copy Link")
 
 [![bibleask-logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2066'%3E%3C/svg%3E "bibleask-logo")
 
