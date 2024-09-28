@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Car Insurance Premiums Hit Record Highs](https://www.theepochtimes.com/business/car-insurance-premiums-hit-record-highs-5731620)
+    
+    NEW By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    
+    [![Car Insurance Premiums Hit Record Highs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Car Insurance Premiums Hit Record Highs](https://img.theepochtimes.com/assets/uploads/2022/04/04/Car-Crash-Irvine_JF_03302022-205x123.jpg.webp)](https://www.theepochtimes.com/business/car-insurance-premiums-hit-record-highs-5731620)
+* [Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://www.theepochtimes.com/business/nearly-50-percent-of-us-homes-remain-unsold-for-at-least-60-days-report-5731276)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/business/nearly-50-percent-of-us-homes-remain-unsold-for-at-least-60-days-report-5731276)
+* [How Justice Barrett Carved Out a Unique Voice on the Supreme Court](https://www.theepochtimes.com/us/how-justice-barrett-carved-out-a-unique-voice-on-the-supreme-court-5729909)
+    
+    4hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![How Justice Barrett Carved Out a Unique Voice on the Supreme Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Justice Barrett Carved Out a Unique Voice on the Supreme Court](https://img.theepochtimes.com/assets/uploads/2020/10/06/barrett-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-justice-barrett-carved-out-a-unique-voice-on-the-supreme-court-5729909)
+* [Do You Really Need Your Brain?](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
+    
+    6hr By [Yuhong Dong M.D., Ph.D.](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    
+    [![Do You Really Need Your Brain?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Do You Really Need Your Brain?](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729253-Is-Your-Brain-Really-Necessary-featured-imag-205x123.jpg.webp)](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
 * [Key State Ballot Measures to Follow This Election](https://www.theepochtimes.com/us/key-state-ballot-measures-to-follow-this-election-5729928)
     
-    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Key State Ballot Measures to Follow This Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Key State Ballot Measures to Follow This Election](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668246-Voting-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-state-ballot-measures-to-follow-this-election-5729928)
-* [Israel Says Hezbollah Leader Killed in Air Strikes](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
+* [How Hezbollah Built a Shadow State in Lebanon](https://www.theepochtimes.com/world/hezbollah-is-lebanons-state-within-a-state-5730959)
     
-    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts) and [Simon Veazey](https://www.theepochtimes.com/author/simon-veazey)
+    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![Israel Says Hezbollah Leader Killed in Air Strikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How Hezbollah Built a Shadow State in Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Says Hezbollah Leader Killed in Air Strikes](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727074-GettyImages-1762017654.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
+    ![How Hezbollah Built a Shadow State in Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730568-GettyImages-2173543408-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-is-lebanons-state-within-a-state-5730959)
+* [Turkish Organized Crime Expanding in Europe With Diversification of Drugs Trade](https://www.theepochtimes.com/world/turkish-organized-crime-expanding-in-europe-with-diversification-of-drugs-trade-5728479)
+    
+    7hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Turkish Organized Crime Expanding in Europe With Diversification of Drugs Trade](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Turkish Organized Crime Expanding in Europe With Diversification of Drugs Trade](https://img.theepochtimes.com/assets/uploads/2024/06/17/id5669904-forensics-205x123.jpg.webp)](https://www.theepochtimes.com/world/turkish-organized-crime-expanding-in-europe-with-diversification-of-drugs-trade-5728479)
+* [Hezbollah Confirms Leader Nasrallah Killed in Israeli Airstrike](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
+    
+    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts) and [Simon Veazey](https://www.theepochtimes.com/author/simon-veazey)
+    
+    [![Hezbollah Confirms Leader Nasrallah Killed in Israeli Airstrike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hezbollah Confirms Leader Nasrallah Killed in Israeli Airstrike](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727074-GettyImages-1762017654.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
 * [After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://www.theepochtimes.com/article/after-watching-hours-of-debates-by-vance-walz-heres-what-to-expect-at-the-vp-debate-5723955)
     
-    7hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    14hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
     [![After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731690-JD-Vance-and-Tim-Walz2-205x123.jpg.webp)](https://www.theepochtimes.com/article/after-watching-hours-of-debates-by-vance-walz-heres-what-to-expect-at-the-vp-debate-5723955)
 * [DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://www.theepochtimes.com/us/doj-sues-alabama-for-voter-roll-purge-program-targeting-noncitizens-5731691)
     
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://img.theepochtimes.com/assets/uploads/2024/03/20/id5611384-GettyImages-2054042827-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-alabama-for-voter-roll-purge-program-targeting-noncitizens-5731691)
-* [Businesses, Lawmakers, Industry Groups Sound Alarm as Port Strike Looms](https://www.theepochtimes.com/us/businesses-lawmakers-industry-groups-sound-alarm-as-port-strike-looms-5731398)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Businesses, Lawmakers, Industry Groups Sound Alarm as Port Strike Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Businesses, Lawmakers, Industry Groups Sound Alarm as Port Strike Looms](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731079-GettyImages-2156670225KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/businesses-lawmakers-industry-groups-sound-alarm-as-port-strike-looms-5731398)
-* [US and Iraq Announce Changes to Military Footprint After Years-Long Joint Fight Against ISIS](https://www.theepochtimes.com/world/us-and-iraq-announce-changes-to-military-footprint-after-years-long-joint-fight-against-isis-5731538)
-    
-    12hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![US and Iraq Announce Changes to Military Footprint After Years-Long Joint Fight Against ISIS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US and Iraq Announce Changes to Military Footprint After Years-Long Joint Fight Against ISIS](https://img.theepochtimes.com/assets/uploads/2024/08/06/id5700828-Screenshot-2024-08-06-153441-205x123.png.webp)](https://www.theepochtimes.com/world/us-and-iraq-announce-changes-to-military-footprint-after-years-long-joint-fight-against-isis-5731538)
-* [Scientists Store Human DNA on 5D Crystals](https://www.theepochtimes.com/health/scientists-store-human-dna-on-5d-crystals-5731045)
-    
-    12hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
-    
-    [![Scientists Store Human DNA on 5D Crystals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Scientists Store Human DNA on 5D Crystals](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731661-human-dna-on-crystals-205x123.jpg.webp)](https://www.theepochtimes.com/health/scientists-store-human-dna-on-5d-crystals-5731045)
-* [Day in Photos: Global Elections, Hurricane Helene, and Training Cadets](https://www.theepochtimes.com/article/day-in-photos-global-elections-hurricane-helene-and-training-cadets-5731291)
-    
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Global Elections, Hurricane Helene, and Training Cadets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Global Elections, Hurricane Helene, and Training Cadets](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731550-GettyImages-2173895212KO-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-global-elections-hurricane-helene-and-training-cadets-5731291)
-* [Garland Defends Releasing Letter From Suspect in Trump Assassination Attempt](https://www.theepochtimes.com/us/garland-defends-releasing-letter-from-suspect-in-trump-assassination-attempt-5731551)
-    
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Garland Defends Releasing Letter From Suspect in Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Garland Defends Releasing Letter From Suspect in Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727757-GettyImages-2171592164-205x123.jpg.webp)](https://www.theepochtimes.com/us/garland-defends-releasing-letter-from-suspect-in-trump-assassination-attempt-5731551)
-* [Supreme Court Won’t Restore RFK Jr.’s Name to New York Ballot](https://www.theepochtimes.com/us/supreme-court-wont-restore-rfk-jr-s-name-to-new-york-ballot-5731532)
-    
-    13hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Won’t Restore RFK Jr.’s Name to New York Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Won’t Restore RFK Jr.’s Name to New York Ballot](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712049-RFK-Jr-AP24236710308718KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-restore-rfk-jr-s-name-to-new-york-ballot-5731532)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
