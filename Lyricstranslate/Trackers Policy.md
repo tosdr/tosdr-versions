@@ -137,69 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Дажудудп](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/%D0%B4%D0%B0%D0%B6%D1%83%D0%B4%D1%83%D0%B4%D0%BF "Дажудудп")
-
-New request
-
-[Bon Iver - SPEYSIDE](https://lyricstranslate.com/en/request/speyside)
-
-English → Russian
-
-[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
+[![устим ладенко](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1405401-1565787873.jpg)](https://lyricstranslate.com/en/translator/%D1%83%D1%81%D1%82%D0%B8%D0%BC-%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE "устим ладенко")
 
 New translation
 
-[Plethyn - Lawr Y Lôn](https://lyricstranslate.com/en/plethyn-lawr-y-lon-english)
+[The Kiffness - 鍘美案 (Chin Cheng Hanji)](https://lyricstranslate.com/en/kiffness-chin-cheng-hanji-ukrainian)
 
-Welsh → English
+English → Ukrainian
 
-[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1705665402.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
-
-New translation
-
-[Hafez - بیا که قصرِ اَمَل سخت سست بنیادست](https://lyricstranslate.com/en/hafez-bya-kh-qsri-aamal-skht-ss-english)
-
-Persian → English
-
-[![Wolfgang Riedmann](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1405656-1544725497.jpg)](https://lyricstranslate.com/en/translator/wolfgang-riedmann "Wolfgang Riedmann")
-
-New translation
-
-[Edmund Spenser - Sonnet 38: Arion, When Through Tempests](https://lyricstranslate.com/en/edmund-spenser-sonnet-38-arion-when-th-german)
-
-English → German
-
-[![Samiezoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472786-1727009369.jpg)](https://lyricstranslate.com/en/translator/samiezoo "Samiezoo")
+[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1727491927.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
 
 New song
 
-[✮ Keiba - Verenpunainen taivas](https://lyricstranslate.com/en/keiba-verenpunainen-taivas-lyrics)
+[BiS (Japan) - NO CHOiCE](https://lyricstranslate.com/en/bis-japan-no-choice-lyrics)
 
-Finnish
+Japanese
 
-[![Siamoisa](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/siamoisa "Siamoisa")
-
-New request
-
-[Sylvie Vartan - Хубава си, моя горо (Hubava si, moya goro)](https://lyricstranslate.com/en/request/%D1%85%D1%83%D0%B1%D0%B0%D0%B2%D0%B0-%D1%81%D0%B8-%D0%BC%D0%BE%D1%8F-%D0%B3%D0%BE%D1%80%D0%BE)
-
-Bulgarian → French
-
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
-
-New song
-
-[Blessd - Mírame](https://lyricstranslate.com/en/blessd-mirame-lyrics)
-
-Spanish
-
-[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
+[![stewpidstrawberrypoptart](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1622352-1726356229.png)](https://lyricstranslate.com/en/translator/stewpidstrawberrypoptart "stewpidstrawberrypoptart")
 
 New translation
 
-[Christian Hymns & Songs - मुक्ति दिलाए यीशु नाम (Mukti Dilaye Yeshu Naam)](https://lyricstranslate.com/en/christian-hymns-so-mukti-dilaye-yeshu-naam-transliteration)
+[Lana Del Rey - Television Heaven](https://lyricstranslate.com/en/lana-del-rey-television-heaven-turkish)
 
-Hindi → Transliteration
+English → Turkish
+
+[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
+
+New translation
+
+[Slam Dunk (OST) - ぜったいに誰も (Zettai ni dare mo)](https://lyricstranslate.com/en/slam-dunk-ost-zettai-ni-dare-mo-english)
+
+Japanese → English
+
+[![zra_Jouno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627863-1725446886.png)](https://lyricstranslate.com/en/translator/zrajouno "zra_Jouno")
+
+New translation
+
+[Yuu Miyashita - 狂おうぜ (Kuruou ze)](https://lyricstranslate.com/en/yuu-miyashita-kuruou-ze-transliteration)
+
+Japanese → Transliteration
+
+[![Диона Лове](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611432-1710010908.jpg)](https://lyricstranslate.com/en/translator/%D0%B4%D0%B8%D0%BE%D0%BD%D0%B0-%D0%BB%D0%BE%D0%B2%D0%B5 "Диона Лове")
+
+New song
+
+[POLKADOT STINGRAY - hide and seek](https://lyricstranslate.com/en/polkadot-stingray-hide-and-seek-lyrics)
+
+English
+
+[![sehnsucht05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628086-1727281598.jpg)](https://lyricstranslate.com/en/translator/sehnsucht05 "sehnsucht05")
+
+New translation
+
+[Komuro Hitoshi - おしっこ (Oshikko)](https://lyricstranslate.com/en/komuro-hitoshi-oshikko-romanian)
+
+Japanese → Romanian
+
+[![SeanNutz](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/seannutz "SeanNutz")
+
+New comment
+
+Thanks for the translation! I was wondering: is ...  [more](https://lyricstranslate.com/en/comment/1167497#comment-1167497)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
