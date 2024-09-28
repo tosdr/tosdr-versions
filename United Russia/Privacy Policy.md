@@ -305,7 +305,7 @@
 
 [#Хохряков](https://er.ru/activity/news?tags%5B0%5D=796) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ханты-Мансийский автономный округ - Югра](https://er.ru/activity/news?tags%5B0%5D=118527) [#Кухарук](https://er.ru/activity/news?tags%5B0%5D=119725) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
 
-Сегодня 16:29
+28.09.24
 
 [![В Москве при поддержке «Единой России» открылся VII Большой Детский фестиваль](https://cdn.er.ru/media/news/September2024/XNpP6mItJ58vAVvnhHNy-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-otkrylsya-vii-bolshoj-detskij-festival)
 
@@ -313,7 +313,7 @@
 
 [#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Безруков](https://er.ru/activity/news?tags%5B0%5D=23287) [#БольшойДетскийФестиваль](https://er.ru/activity/news?tags%5B0%5D=1093399) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#открытие](https://er.ru/activity/news?tags%5B0%5D=36) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#культурамалойродины](https://er.ru/activity/news?tags%5B0%5D=114762)
 
-Сегодня 14:48
+28.09.24
 
 [![Антон Демидов: Делегация Комсомола Китая посетит Россию и подпишет соглашение с «Молодой Гвардией Единой России»](https://cdn.er.ru/media/news/September2024/NXPO56oJ2PSExn3OqpuC-small.jpg)](https://er.ru/activity/news/anton-demidov-delegaciya-komsomola-kitaya-posetit-rossiyu-i-podpishet-soglashenie-s-molodoj-gvardiej-edinoj-rossii)
 
@@ -321,7 +321,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#визиты](https://er.ru/activity/news?tags%5B0%5D=71575)
 
-Сегодня 10:25
+28.09.24
 
 [![Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://cdn.er.ru/media/news/September2024/XcMvtyKmYluuDr09PoGC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
 
