@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,9 +153,10 @@ Latest reactions
 
 Latest forum posts
 
+* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=1 "Hi From Cuba, Need Help Z80 ;)")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=1 "HB-F1XD reboots/freezes in basic")
+* [Cheap and durable joystick](https://www.msx.org/forum/msx-talk/hardware/cheap-and-durable-joystick "Cheap and durable joystick")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=57 "WonderTANG! Who wants to juice up your MSX?")
-* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80 "Hi From Cuba, Need Help Z80 ;)")
 * [Candidate games for MSX Conversion.](https://www.msx.org/forum/msx-talk/general-discussion/candidate-games-for-msx-conversion?page=4 "Candidate games for MSX Conversion. ")
 * [Weird SBC 3810 mouse behavior](https://www.msx.org/forum/msx-talk/hardware/weird-sbc-3810-mouse-behavior "Weird SBC 3810 mouse behavior")
 * [Omega keyboard cursor behavior](https://www.msx.org/forum/msx-talk/hardware/omega-keyboard-cursor-behavior "Omega keyboard cursor behavior")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958?page=1 "Tracing the V9958")
 * [Saving in Vampire Killer](https://www.msx.org/forum/msx-talk/general-discussion/saving-in-vampire-killer "Saving in Vampire Killer")
 * [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr?page=1 "Fastest ISR")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
