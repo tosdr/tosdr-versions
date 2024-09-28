@@ -173,29 +173,29 @@ For stewardship purposes, we will not be able to write, edit, or proofread scien
 
 More Days of Praise
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/desiring-our-lord-his-word)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/making-life-count)
 
-[Desiring Our Lord and His Word](https://www.icr.org/article/desiring-our-lord-his-word/)
+[Making Life Count](https://www.icr.org/article/making-life-count/)
 
-“The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth...
+“Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.” (Ecclesiastes 1:2) Solomon wrote Ecclesiastes through...
 
 BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14216)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
 
-[The Pragmatic Life](https://www.icr.org/article/14216/)
+[The Self Life](https://www.icr.org/article/the-self-life/)
 
-“And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.” (Luke 19:13) This...
+“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/fellowship-with-father)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/tragic-ignorance)
 
-[Fellowship with the Father](https://www.icr.org/article/fellowship-with-father/)
+[Tragic Ignorance](https://www.icr.org/article/tragic-ignorance/)
 
-“...and truly our fellowship is with the Father, and with his Son Jesus Christ.” (1 John 1:3) One marvelous reason for which God...
+“For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
@@ -203,29 +203,29 @@ Shop Related Products
 
 $
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
 
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
+
+$9.99
 
 $12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
-
-The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
-
-$29.99
-
-$34.99
 
 [](https://store.icr.org/.html)
 
 $
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
 
-The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
+The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
 
-$47.99
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
+
+The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
+
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
