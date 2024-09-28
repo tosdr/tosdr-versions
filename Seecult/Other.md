@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu/slikao-sam-airtona-senu.jpg?itok=ARFDDga8)](http://seecult.org/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/slike/paitings/regata-97-akril-cca90x70.jpg?itok=jKQaENmB)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/slikepaitings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/najava.jpg?itok=yaqMAFOn)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kal.jpg?itok=PCEJERdZ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Borba za reproduktivna prava u Jugoslaviji i današnji kontekst](http://seecult.org/vest/borba-za-reproduktivna-prava-u-jugoslaviji-i-danasnji-kontekst)
+* [Svet u boji](http://seecult.org/vest/svet-u-boji)
 * [67\. Sajam knjiga - Reč je slobodna](http://seecult.org/vest/67-sajam-knjiga-rec-je-slobodna)
 * [Ovacije za Komedi Fransez na Bitefu](http://seecult.org/vest/ovacije-za-komedi-fransez-na-bitefu)
 * [art+science festival u Botaničkoj bašti](http://seecult.org/vest/artscience-festival-u-botanickoj-basti)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Perišić prvi laureat Otiska Gorana Paskaljevića](http://seecult.org/vest/perisic-prvi-laureat-otiska-gorana-paskaljevica)
 * [Medenica: Hrabro otvaranje 58. Bitefa](http://seecult.org/vest/medenica-hrabro-otvaranje-58-bitefa)
 * [Milo Rau: Recimo NE smrtonosnoj ideologiji današnjice](http://seecult.org/vest/milo-rau-recimo-ne-smrtonosnoj-ideologiji-danasnjice)
-* [Treća decenija Balkanime](http://seecult.org/vest/treca-decenija-balkanime)
-* [Pozicija žene danas i juče i sutra](http://seecult.org/vest/pozicija-zene-danas-i-juce-i-sutra)
 
 * [Konkursi](#tab1_1)
 
