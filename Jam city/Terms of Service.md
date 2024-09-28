@@ -468,32 +468,44 @@ For games that are not directed at children but nonetheless may appeal to them, 
 
 If you are a parent or guardian and have any concerns regarding the service, wish to review information collected from your child, or have that information modified or deleted, you may contact us at [privacy@jamcity.com](mailto:privacy@jamcity.com). If we become aware that a child has provided us with Personal Data, we will delete any Personal Data we have collected, unless we have a legal obligation to keep it, and terminate the child’s account and/or revert them to the underage experience, as applicable.
 
-_Third Party Service Providers_
+_Service Providers_
 
-We use the following third-party service providers in relation to our child-directed apps:
+We use the following service providers in relation to our child-directed apps. If you have any questions about these service providers, you may contact us at [privacy@jamcity.com](mailto:privacy@jamcity.com).
 
-* We use Google Crashlytics and Firebase for bug reporting, crash reporting and analytics. For more information, please see the Google privacy policy here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-* We use Helpshift for customer service and to host our FAQs. In the event we are contacted through our helpdesk by a child, we will reply once before immediately deleting the child’s email address and any associated Personal Data. For more information, please see the Helpshift privacy policy: [https://www.helpshift.com/legal/privacy/](https://www.helpshift.com/legal/privacy/)
-* Our apps link out to this privacy policy hosted on our website. We use Google Analytics on the website to track page views. Google Analytics is restricted from sharing your user data. For more information, please see the Google privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* We use Google Crashlytics and Firebase for bug reporting, crash reporting and analytics.
+* We use Helpshift for customer service and to host our FAQs. In the event we are contacted through our helpdesk by a child, we will reply once before immediately deleting the child’s email address and any associated Personal Data.
+* Our apps link out to this privacy policy hosted on our website. We use Google Analytics on the website to track page views. Google Analytics is restricted from sharing your user data.
 
 _Frozen Adventures_
 
-We use the following third-party service providers in relation to children in our Frozen Adventures app:
+We use the following service providers in relation to children in our Frozen Adventures app:
 
-* We use PlayFab for backend services and analytics. PlayFab collects geolocation at a country level. For more information, please see the Microsoft privacy policy: [https://privacy.microsoft.com/en-US/privacystatement](https://privacy.microsoft.com/en-US/privacystatement)
+* We use PlayFab for backend services and analytics. PlayFab collects geolocation at a country level.
 
 In our Frozen Adventures app, if a user indicates that they are under 13, no ads are served. 
 
 _Frozen Free Fall_
 
-We use the following third-party service providers to serve contextual ads to users who indicate that they are under 18 in our Frozen Free Fall app. Users who indicate that they are under 18 in our Frozen Free Fall app are not tracked or served behavioral ads. 
+We use the following service providers to serve contextual ads to users who indicate that they are under 18 in our Frozen Free Fall app. Users who indicate that they are under 18 in our Frozen Free Fall app are not tracked or served behavioral ads. 
 
-* Google AdMob: For more information, please see the Google privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-* Ironsource: For more information, please see the Ironsource privacy policy: [https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
-* Liftoff: For more information, please see the Liftoff privacy policy: [https://liftoff.io/privacy-policy/](https://liftoff.io/privacy-policy/)
-* Unity Ads: For more information, please see the Unity privacy policy: [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
+* Google AdMob
+* Ironsource
+* Liftoff
+* Unity Ads
 
-**Kids Privacy Assured by PRIVO: COPPA Safe Harbor Certification – Frozen Adventures and Frozen Free Fall**
+_Emoji Blitz_
+
+Emoji Blitz uses PlayFab for backend services. PlayFab uses legacy data for AB tests, customer support service, and other operational tasks. PlayFab does not use or disclose any personal data for any other purpose.
+
+We use the following service providers to serve contextual ads to users who indicate they are under 18 in our Emoji Blitz app. Users who indicate that they are under 18 in our Emoji Blitz app are not tracked or served behavioral ads.
+
+* Applovin
+* Google AdMob
+* IronSource
+* Unity
+
+**Kids Privacy Assured by PRIVO: COPPA Safe Harbor Certification – Frozen Adventures, Frozen Free Fall, and Emoji Blitz  
+**
 
 Jam City is a member of the PRIVO Kids Privacy Assured COPPA Safe Harbor Certification Program (‘the Program’). The Program certification applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO Seal. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. The PRIVO COPPA certification Seal posted on this page indicates Jam City has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 1-800-819-0199 or [privacy@jamcity.com](mailto:privacy@jamcity.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
@@ -503,7 +515,7 @@ Jam City is a member of the PRIVO Kids Privacy Assured COPPA Safe Harbor Certifi
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, or if you wish to submit a request to exercise your rights as detailed in this policy, please contact us at:
+If you have any questions about this Privacy Policy, or trouble accessing this Privacy Policy, please contact us as set out below. To exercise rights available to you, or if you’re a parent and would like to request to review or delete your child’s information, please use the designated methods listed in this Privacy Policy.
 
 Global (Excluding EU):  
 Jam City, Inc.  
