@@ -34,8 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Is AN pro-Palestine or pro-Israel? (996)](https://forum.nationstates.net/viewtopic.php?t=551641&f=25&view=unread#unread ""Is AN pro-Palestine or pro-Israel?" (996 posts)")
-* [Change a Letter (2,079)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,079 posts)")
+* [Opheros Crisis | IC | MT | (110)](https://forum.nationstates.net/viewtopic.php?t=554130&f=5&view=unread#unread ""Opheros Crisis | IC | MT |" (110 posts)")
+* [Ukrainian War VII: Everything has a p… (5,753)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,753 posts)")
+* [Revenge of Rate the Song above you (6,963)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (6,963 posts)")
+* [UK Politics Thread: Conservative Lead… (11,246)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,246 posts)")
+* [The NOVU Sports Blog (70)](https://forum.nationstates.net/viewtopic.php?t=552025&f=7&view=unread#unread ""The NOVU Sports Blog" (70 posts)")
 
 Advertisement
 
