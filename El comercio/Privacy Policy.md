@@ -31,1017 +31,1016 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro
-====================================================================
+Kylian Mbappé y el PSG se reencontrarán
+=======================================
 
-Las multas en la Liga Pro afectan a los equipos jornada tras jornada por diversos motivos.
-------------------------------------------------------------------------------------------
+Kylian Mbappé, jugador del Real Madrid, y el PSG volverán a encontrarse después de que este demandará al club por pagos adeudados.
+----------------------------------------------------------------------------------------------------------------------------------
 
-![José Quintero en un partido entre Liga de Quito y Barcelona SC por la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T144001.325.jpg)
+![Kylian Mbappé, exjugador del PSG, celebra un gol con el Real Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-27T200442.388.jpg)
 
-Después de cada jornada de la **Liga Pro,** el Comité Disciplinario del torneo, en conjunto con la organización, emite el acta de sanciones correspondiente, donde se detallan las **multas impuestas a cada equipo**, ya sean económicas o disciplinarias, como suspensiones.
+El delantero **Kylian Mbappé** y su anterior club, el París Saint-Germain, volverán a verse las caras el próximo **15 de octubre** de 2024. Estarán ante la comisión paritaria de recursos de la Liga de Fútbol Profesional de Francia, para resolver el litigio salarial que mantienen.
 
-Las multas pueden variar según la gravedad de la infracción. Por ejemplo, un juego brusco puede costar **10** **dólares**, pero otras faltas más graves, como el uso de bengalas, pueden **superar los mil dólares**, especialmente en casos de reincidencia.
+Esta jurisdicción estudiará ese día la decisión adoptada en primera instancia que obligaba al **PSG** a pagar alrededor de **60 millones de dólares** que, según el jugador, le debía. Aquello por retrasos salariales del último de sus siete años de contrato en la capital francesa.
 
 ### Más noticias:
 
-* [¿Cuándo juega Liga de Quito?](https://www.elcomercio.com/deportes/futbol/liga-quito-cuando-juega-delfin.html "¿Cuándo juega Liga de Quito?")
-* [Liga Pro sorprende con un inédito formato para la próxima temporada](https://www.elcomercio.com/deportes/futbol/liga-pro-sorprende-con-un-inedito-formato-para-la-proxima-temporada.html "Liga Pro sorprende con un inédito formato para la próxima temporada")
-* [Horarios reprogramados para la fecha 8 de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-pro-fecha8-horarios-reprogramados.html "Horarios reprogramados para la fecha 8 de la Liga Pro")
+* [Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó](https://www.elcomercio.com/deportes/futbol/real-madrid-gano-debut-champions-league-kylian-mbappe-gol.html "Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó")
+* [Kylian Mbappé pone multimillonaria demanda al PSG](https://www.elcomercio.com/deportes/kylian-mbappe-multimillonaria-demanda-psg.html "Kylian Mbappé pone multimillonaria demanda al PSG")
+* [Kylian Mbappé no pudo brillar en liga con el Real Madrid](https://www.elcomercio.com/deportes/kylian-mbappe-real-madrid-mallorca-liga-espana.html "Kylian Mbappé no pudo brillar en liga con el Real Madrid")
 
-Aunque todos los equipos suelen pagar alguna multa a lo largo del torneo, hay dos que destacan por encabezar la lista: **Barcelona Sporting Club y Liga de Quito**, quienes son los reyes de las sanciones.
+El club recurrió esa decisión adoptada por la **comisión jurídica de la LFP**, lo que dejaba en suspenso el pago.
 
-Barcelona SC y Liga de Quito lideran en multas
-----------------------------------------------
+La diferencia entre el jugador del **Real Madrid** y el club puede todavía pasar por diferentes instancias. El siguiente recurso acabaría en la **Comisión Superior de Apelación**, que depende de la Federación Francesa de Fútbol (FFF), antes de que su caso acabara en el Comité Olímpico o en la justicia ordinaria.
 
-Según las estadísticas compartidas por Juan Carlos Padilla en redes sociales, Barcelona SC y Liga de Quito son los equipos que más han pagado en multas durante la Liga Pro 2024.
+El jugador reclama al club alrededor de **67 millones**. Eso corresponde al último tercio de su prima de renovación de 2022 (44 millones) y a los salarios de abril, mayo y junio y a una prima de ética[.](https://es.wikipedia.org/wiki/Kylian_Mbapp%C3%A9 "https://es.wikipedia.org/wiki/Kylian_Mbapp%C3%A9")
 
-**Barcelona SC lidera el ranking con 140 380 dólares** acumulados en sanciones por diversos incidentes a lo largo del torneo.
-
-Por su parte, Liga de Quito le sigue de cerca, ocupando el segundo lugar con un total de 112 840 dólares en multas.
-
-Emelec completa el podio con un valor de 105 310 dólares.
-
-De hecho, estos tres equipos son los únicos que han superado los cien mil dólares en multas en las 22 fechas disputadas de la Liga Pro 2024.
-
-Cabe mencionar que los equipos más multados han solicitado reiteradamente el apoyo de su hinchada para que respeten las normas de la **Liga Pro** y así evitar sanciones innecesarias. Sin embargo, estas recomendaciones **han sido en gran medida ignoradas**, lo que ha generado una acumulación de multas a lo largo del torneo.
-
-> [#EstadísticasJCP](https://twitter.com/hashtag/Estad%C3%ADsticasJCP?src=hash&ref_src=twsrc%5Etfw)📈⚽️  
-> Cumplida la [#Fecha7](https://twitter.com/hashtag/Fecha7?src=hash&ref_src=twsrc%5Etfw) [#Fase2](https://twitter.com/hashtag/Fase2?src=hash&ref_src=twsrc%5Etfw) por multas de TA, TR, culpa de hinchas, Dt's etc etc, el valor de $521.920. [#Detalle](https://twitter.com/hashtag/Detalle?src=hash&ref_src=twsrc%5Etfw) por equipo [pic.twitter.com/NTz6CBrtqb](https://t.co/NTz6CBrtqb)
-> 
-> — Juan Carlos Padilla Figueroa (@JuanCarlosPadiF) [September 27, 2024](https://twitter.com/JuanCarlosPadiF/status/1839509299346788506?ref_src=twsrc%5Etfw)
-
-¿Quiénes son los de mejor disciplina?
+El PSG se defiende ante Kylian Mbappé
 -------------------------------------
 
-Por otro lado, hay **dos equipos que se destacan por su buena disciplina** en el campeonato, acumulando las menores multas económicas.
+El **PSG** considera que ese dinero corresponde a la cantidad a la que el futbolista se comprometió a renunciar en caso de marcharse libre del club. Aquello lo hizo al firmar por el **Real Madrid**.
 
-El equipo con menos sanciones es **Cumbayá**, que ha pagado apenas 2 920 dólares en 22 partidos.
+Ese acuerdo desbloqueó la relación entre el jugador y el club, que le castigó al apartarle del primer equipo a principios de la pasada campaña. Allí anunció su decisión de no cumplir el año opcional previsto en el **contrato de 2022.**
 
-Le sigue **Macará**, con 3 630 dólares en multas acumuladas.
+El presidente del PSG, **Nasser Al-Khelaifi**, le apartó entonces del primer equipo y le mandó un ultimátum: o renovación o venta inmediata, para evitar que su salida no dejara dinero en las arcas del club.
 
-Inscripción para elecciones 2025 aún tiene baja participación
-=============================================================
+Mbappé se comprometió entonces a no salir por cero euros, lo que le permitió reintegrarse la disciplina del equipo de **Luis Enrique**.
 
-Cronograma para las elecciones 2025 avanza con la fase de inscripciones.
-------------------------------------------------------------------------
-
-![La inscripción de candidaturas se realiza en línea.](https://www.elcomercio.com/wp-content/uploads/2024/09/inscripcion-27.jpg)
-
-El calendario para las **elecciones 2025** en Ecuador contemplan un plazo para la inscripción de las candidaturas. Este proceso incluye a los binomios presidenciales[.](https://es.wikipedia.org/wiki/Ecuador)
-
-El **Consejo Nacional Electoral (CNE)**, este viernes, 27 de septiembre de 2024, dio un nuevo reporte de las postulaciones. El 2 de octubre es el límite.
-
-### Más noticias
-
-* [¿Cómo saber dónde votar en las elecciones 2025?](https://www.elcomercio.com/actualidad/politica/donde-votar-elecciones-2025.html)
-* [Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025](https://www.elcomercio.com/actualidad/politica/funcionarios-daniel-noboa-dejan-cargos-elecciones-2025.html "Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025")
-* [Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos](https://www.elcomercio.com/actualidad/politica/abc-seguridad-candidatos-elecciones-2025-policia.html "Para las elecciones 2025 se aplica un ABC para la seguridad de los candidatos")
-
-Elecciones 2025 y las inscripciones
------------------------------------
-
-El proceso de **inscripción** es netamente en línea, a través del sistema del **[CNE](https://www.cne.gob.ec/)**. Sin embargo, algunos postulantes optan por acudir, a manera de acto simbólico, a las instalaciones del organismo.
-
-En las instalaciones de la institución no deben realizar ningún trámite. Para las elecciones 2025, hay **13 736 314 electores** habilitados para ejercer el derecho al voto.
-
-El último corte en el CNE
--------------------------
-
-El **CNE** informó que hasta las 10:50 de este viernes, 27 de septiembre de 2024, 42 listas se inscribieron para participar en las elecciones 2025.
-
-El total de **listas** proclamadas luego del proceso de primarias realizadas en agosto asciende a **584**, por lo que el número de aquellas que ya se han registrado aún es bajo.
-
-> 🇪🇨 | [#CNEInforma](https://twitter.com/hashtag/CNEInforma?src=hash&ref_src=twsrc%5Etfw) que, con corte a las 09h45 de este viernes 27 de septiembre, 4⃣2⃣ listas han solicitado la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 💻 Este hito del calendario electoral, que se efectúa en línea, concluye a las 18h00 del 2 de octubre.🗳️ [pic.twitter.com/NcCcB7jL4c](https://t.co/NcCcB7jL4c)
-> 
-> — cnegobec (@cnegobec) [September 27, 2024](https://twitter.com/cnegobec/status/1839708928193528129?ref_src=twsrc%5Etfw)
-
-Binomios y asambleístas
------------------------
-
-Con ese corte, únicamente un binomio presidencial costa en los registros del **CNE**. De igual forma, solo una lista para asambleístas nacionales se ha apuntado.
-
-Hay dos para **parlamentarios andinos**, cuatro de legisladores por el exterior y 34 para provinciales, así como por circunscripción.
-
-¿Cómo son los registros?
-------------------------
-
-En la convocatoria a elecciones lanzada por el **CNE** se establece que las candidaturas para la **Presidencia** y sus respectivos binomios se consideran unipersonales. 
-
-Las postulaciones para **asambleístas nacionales**, provinciales, y de las circunscripciones especiales del exterior son pluripersonales y se presentarán en listas completas con candidatos principales y sus respectivos suplentes.
-
-En el caso de **parlamentarios andinos**, las candidaturas son pluripersonales y se presentarán en listas completas, por cada candidato principal se presentarán dos suplentes. 
-
-Las listas se conformarán obligatoriamente cumpliendo con los principios de equidad, **paridad**, alternancia y secuencialidad entre mujeres y hombres, tanto para principales como para suplentes.
-
-¿Quiénes no pueden inscribirse?
--------------------------------
-
-El reglamento para la inscripción y calificación de **candidaturas** establece las inhabilidades generales para ser candidatos.
-
-No podrán legalizar el registro quienes tengan contratos con el **Estado**, como personas naturales o como representantes o apoderados de personas jurídicas. Esto en caso de que el proceso se haya celebrado para la ejecución de obra pública, prestación de **servicio** o explotación de recursos naturales.
-
-Tampoco quienes hayan recibido **sentencia condenatoria** ejecutoriada por delitos de peculado, enriquecimiento ilícito, concusión, cohecho, tráfico de influencias, oferta de realizar tráfico de influencias y testaferrismo.
-
-Se incluyen los delitos de lavado de activos, asociación ilícita y delincuencia organizada relacionados con actos de corrupción. Ni los deudores de **pensiones alimenticias**.
-
-El ‘clean girl look’ está ligado al autocuidado
-===============================================
-
-Más allá de la moda, el makeup o el peinado, el clean girl look basa en el bienestar.
--------------------------------------------------------------------------------------
-
-![Los colores neutros son clásicos del estilo clean girl. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/09/clean-girl-look-El-comercio-5.jpg)
-
-La **Semana de la Moda de Milán** 2024, celebrada entre el 17 y el 24 de septiembre de 2024, puso de manifiesto una tendencia que está redefiniendo la estética de la moda: el _clean girl look_. Pero _**clean girl look**_ va más allá de una simple tendencia de moda, ya que está profundamente ligado al **autocuidado**.
-
-Este estilo promueve una rutina diaria que pone énfasis en la salud y el bienestar personal. Desde una piel bien cuidada hasta un enfoque en la nutrición y el descanso.
-
-### Más noticias
-
-* **[Los tenis blancos tienen el poder de elevar tu look](https://www.elcomercio.com/afull/tenis-blancos-outfits-combinaciones-moda.html "https://www.elcomercio.com/afull/tenis-blancos-outfits-combinaciones-moda.html")**
-* **[Crea ‘outfits’ salvajes con prendas de ‘animal print’](https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html "https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html")**
-
-Las mujeres que adoptan este _look_ suelen tener una rutina de _skincare_ meticulosa con productos que mejoran la salud de la piel en lugar de cubrir imperfecciones. El maquillaje ligero y natural es solo un complemento de una piel bien mantenida.
-
-Meditación, ejercicio y organización son la clave
--------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/plantillas-manana3-1024x683.jpg)
-
-Además, el autocuidado no solo se limita al aspecto físico, sino que incluye prácticas como la meditación, el ejercicio y la organización, lo que genera una sensación de equilibrio. El _clean girl look_, por tanto, es una manifestación externa de un estilo de vida que prioriza la tranquilidad y la armonía interior.
-
-Este estilo minimalista se caracteriza por una apariencia fresca y pulcra. La tendencia tiene sus adeptos tanto en pasarelas como en el _street style_.
-
-Dejando a un lado el aspecto interno, el _clean girl look_ se enfoca en que el maquillaje sea discreto y los peinados, impecables. El **cabello alisado y sin _frizz_**, así como un maquillaje que resalta la luminosidad de la piel sin exageraciones, son las claves de esta tendencia.
-
-![Puedes conseguir este peinado realizando un moño y peinando con cepillo de dientes un poco húmedo los baby hairs. Foto: Internet](https://www.elcomercio.com/wp-content/uploads/2024/09/clean-girl-look-El-comercio-1-1024x683.jpg)
-
-Puedes conseguir este peinado realizando un moño y pasando los baby hairs con un cepillo de dientes algo húmedo. Foto: Internet
-
-El _clean girl look_ es para todas
-----------------------------------
-
-![Hailey Bieber es una representante del estilo clean girl. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/09/clean-girl-look-El-comercio-3-1024x683.jpg)
-
-Hailey Bieber es una representante del estilo clean girl. Foto: Facebook
-
-Celebridades como **Hailey Bieber**, **Bella Hadid** y **Kendall Jenner** han sido pioneras en popularizar este estilo, que combina elegancia y simplicidad de una forma impactante.
-
-Las modelos demuestran cómo este estilo se fusiona a la perfección con prendas de líneas rectas y sofisticadas que reafirman que la moda minimalista no está reñida con la alta costura.
-
-Las calles de Milán también reflejaron esta tendencia. Mujeres de todas las edades hicieron suya esta estética a través de _looks_ _effortless chic_ (looks de elegancia sin esfuerzo).
-
-El _clean girl look_ no solo es un estilo visual, sino una declaración de intenciones. En un mundo donde las modas cambian rápidamente, este enfoque apuesta por la atemporalidad, el cuidado personal y la autenticidad.
-
-Este estilo invita a las mujeres a sentirse seguras en su propia piel y a disfrutar de la elegancia de lo simple.
-
-¿Cómo ser una _clean girl_?
----------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/clean-girl-look-El-comercio-1024x683.jpg)
-
-La base del clean girl look es la simplicidad y la elegancia natural. Estos elementos son atemporales en la moda, ya que siempre resultan en una apariencia pulcra y sofisticada, sin importar las tendencias pasajeras.
-
-No está atado a una temporada específica. En invierno puede adaptarse con piezas sobrias y de capas ligeras, mientras que en verano se apoya en tonos frescos y materiales ligeros, manteniéndose siempre vigente.
-
-El _clean girl look_ fomenta la compra de prendas básicas y de calidad, lo que lo alinea con movimientos sostenibles. La inversión en pocas piezas esenciales contribuye a la longevidad de la moda.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/clean-girl-look-El-comercio-4-1024x683.jpg)
-
-**Los tonos neutros, como el blanco y el _beige_** y naturales como los tonos marrón que caracterizan el estilo nunca pasan de moda, ya que son colores clásicos que combinan fácilmente con otras prendas y estilos a lo largo del tiempo.
-
-Moo Deng, el bebé hipopótamo viral, ya puede ser visto las 24 horas 
-====================================================================
-
-Moo Deng es un hipopótamo pigmeo de dos meses que se ha vuelto viral por su ternura.
-------------------------------------------------------------------------------------
-
-![Moo Deng, el hipopótamo viral, es la principal atracción del zoológico Khao Kheow de Bangkok. Facebook: zoológico Khao Kheow.](https://www.elcomercio.com/wp-content/uploads/2024/09/hipopotamo-viral.jpg)
-
-El **zoológico Khao Kheow de Bangkok** ha visto un notable incremento en la cantidad de visitantes gracias a su principal atracción: un **hipopótamo pigmeo bebé** de dos meses que **se ha vuelto viral**.  
-
-### Más noticias
-
-* [Moo Deng, el simpático bebé hipopótamo, ya tiene memes y su propia criptomoneda](https://www.elcomercio.com/tendencias/trending/moo-deng-hipopotamo-memes-criptomoneda.html "https://www.elcomercio.com/tendencias/trending/moo-deng-hipopotamo-memes-criptomoneda.html") 
-* [Un bebé hipopótamo pigmeo roba corazones en un ‘zoo’ tailandés](https://www.elcomercio.com/tendencias/bebe-hipopotamo-tailandia-zoologico-atraccion.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/bebe-hipopotamo-tailandia-zoologico-atraccion.html?source=Internal&ref=Single+Content+Link")
-
-Esta encantadora cría, **llamada Moo Deng**, que se traduce como **‘cerdo saltarín’** en tailandés, ha cautivado tanto a los asistentes al zoológico como a los usuarios en redes sociales.  
-
-Desde la llegada de **Moo Deng**, el número de visitantes se ha duplicado, a decir de la [página de Facebook del zoológico](https://www.facebook.com/kkopenzoo "https://www.facebook.com/kkopenzoo"). Este **pequeño hipopótamo** se ha convertido en un **fenómeno viral**, al aparecer en numerosos videos que muestran sus adorables siestas, sus momentos de alimentación y sus travesuras con su madre. 
-
-**Productos temáticos del hipopótamo viral** 
----------------------------------------------
-
-La **creciente popularidad de Moo Deng** ha motivado al zoológico a aprovechar su fama, y ofrecer una variedad de productos temáticos, como camisetas y pantalones tradicionales tailandeses con la **imagen del hipopótamo**. 
-
-**Transmisión en vivo** 
-------------------------
-
-Según [Telemundo](https://www.telemundo.com/shows/al-rojo-vivo/medio-ambiente/hipopotamo-pigmeo-de-tailandia-se-hace-viral-en-el-mundo-rcna172030 "https://www.telemundo.com/shows/al-rojo-vivo/medio-ambiente/hipopotamo-pigmeo-de-tailandia-se-hace-viral-en-el-mundo-rcna172030"), **la fama del pequeño hipopótamo** ha llevado al zoológico a instalar cámaras para una **[transmisión en vivo de 24 horas](https://www.zoodio.live/th/live-streaming "https://www.zoodio.live/th/live-streaming")**. Esta iniciativa permite a los amantes de los animales seguir de cerca las **travesuras del adorable Moo Deng**. 
-
-**Sensación de Internet** 
---------------------------
-
-**Atthapon Nundee**, cuidador del zoológico, siguiendo con Telemundo, ha sido el encargado de **publicar momentos entrañables de los animales** bajo su cuidado durante cinco años. Sin embargo, nunca imaginó que **Moo Deng** se convertiría en una sensación de Internet en tan poco tiempo.  
-
-Desde su llegada, los autos comenzaron a formar fila antes de la apertura del zoológico. Los visitantes, tanto locales como turistas, viajaron desde lejos para ver al **regordete cachorro en persona**. Cada vez que **Moo Deng** se mueve, el público aplaude y vitorea. 
-
-**Protección de la imagen** 
-----------------------------
-
-Con esta creciente popularidad, el director del zoológico, **Narongwit Chodchoi**, ha tomado medidas para **proteger la imagen de Moo Deng**. Han comenzado a registrar los **derechos de autor** y la **marca registrada de ‘Moo Deng, el hipopótamo’**. Esto evitará que otros comercialicen la imagen del animal sin autorización. 
-
-**Nuevas iniciativas** 
------------------------
-
-**Narongwit**, citado por Telemundo, destaca que **el nombre ‘Moo Deng’ juega un papel importante en su popularidad.** Su nombre complementa su personalidad enérgica, la cual es capturada en los videos y subtítulos creativos que Atthapon comparte en redes sociales. 
-
-**Encanto y popularidad** 
---------------------------
-
-Moo Deng disfruta saltar, y **los videos de ella haciéndolo han conquistado a miles en Internet**. Su ternura no se limita a sus saltos; también se muestra juguetona cuando Atthapon intenta lavarla o jugar con ella. La cría se retira tímidamente cuando la acarician, lo que solo aumenta su encanto. 
-
-**Moo Deng** no solo es una atracción del zoológico; se ha convertido en un **fenómeno cultural** que ha logrado unir a la comunidad y atraer la atención del mundo entero. 
-
-Fiscalía pide condena para el cuñado de Guillermo Lasso, Danilo Carrera
-=======================================================================
-
-Fiscalía pide condenas cuñado del expresidente Guillermo Lasso, Danilo Carrera y Antonio I. por corrupción en empresas públicas en el caso Encuentro.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Encuentro el pasado 26 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/encuentro.png)
-
-La **Fiscalía General del Estado** presentó su alegato de cierre en el juicio relacionado con el caso Encuentro el pasado 26 de septiembre de 2024. El **Ministerio Público** solicitó que Danilo Carrera, **cuñado del expresidente Guillermo Lasso**, sea condenado por su presunta participación como líder de una estructura de delincuencia organizada.
-
-### Más noticias
-
-* [Cronología del caso Encuentro investigado por Fiscalía, así va el juicio](https://www.elcomercio.com/actualidad/seguridad/cronologia-caso-encuentro-investigado-fiscalia.html "Cronología del caso Encuentro investigado por Fiscalía, así va el juicio")
-* [Diana Salazar estuvo presente en la audiencia del caso Purga](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-en-audiencia-caso-purga.html "Diana Salazar estuvo presente en la audiencia del caso Purga")
-* [Primer día de juicio contra Danilo Carrera incluyó nueve testimonios](https://www.elcomercio.com/actualidad/seguridad/comienza-juicio-cunado-guillermo-lasso-caso-encuentro.html "Primer día de juicio contra Danilo Carrera incluyó nueve testimonios")
-
-También pidió la condena de Antonio I., exgerente de la **Corporación Nacional de Electricidad (CNEL)**, quien ha sido señalado como colaborador dentro de esta misma estructura.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw): se reinstala la audiencia de juicio. [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) inicia con la exposición de su alegato de cierre contra Danilo C. y Antonio I., procesados por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/nyX1anSlWr](https://t.co/nyX1anSlWr)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 26, 2024](https://twitter.com/FiscaliaEcuador/status/1839437079136342069?ref_src=twsrc%5Etfw)
-
-Además de las condenas, la Fiscalía solicitó una reparación integral material de **682 188 08** dólares para **cada uno de los acusados**. Este pago cubriría los daños derivados de las acciones ilícitas en las que ambos habrían estado involucrados, dentro de una presunta trama de corrupción en el sector eléctrico.
-
-Coordinación entre los implicados
----------------------------------
-
-De acuerdo con las pruebas presentadas por la Fiscalía, se evidenció la existencia de una planificación y coordinación entre **Danilo Carrera y Rubén Chérres**, quien fue vinculado a la **estructura de delincuencia organizada**. Antonio I., según la Fiscalía, formó parte de esta estructura criminal con el objetivo de obtener beneficios para los líderes del grupo.
-
-Durante el juicio, la Fiscalía **sostuvo que los procesados actuaron con pleno conocimiento de la ejecución de los hechos ilícitos**. Cada uno de ellos desempeñó un rol específico dentro de la organización, donde **Carrera fue señalado como el líder y Antonio I. como el colaborador** que facilitaba el direccionamiento de contratos en el **sector eléctrico**.
-
-Solicitud de agravantes para Antonio I.
----------------------------------------
-
-La Fiscalía también pidió que se tomen en **cuenta agravantes en la sentencia de Antonio I.** debido a su condición de funcionario público. Icaza, en su calidad de **exgerente de CNEL**, habría participado en la **estructura de corrupción** con el fin de obtener ventajas para los líderes de la organización.
-
-Además, la Fiscalía resaltó la vinculación de otras personas en la estructura, como **Hernán Luque, exdirector de la Empresa Coordinadora de Empresas Públicas (EMCO)**, quien está detenido en Argentina a la espera de un proceso de extradición. Según las pruebas presentadas, Luque habría facilitado la designación de **Antonio I**. en su cargo en CNEL. Aquí se habrían direccionado contratos en el sector eléctrico.
-
-Reparación integral y pasos en el proceso
------------------------------------------
-
-Finalmente, el Ministerio Público solicitó que se ordene la instalación de un buzón de transparencia en CNEL EP. Además, solicitó la **reparación económica mencionada para los acusados**. Este buzón serviría como medida adicional para **garantizar la transparencia dentro de la entidad**.
-
-Concluida la intervención de la **Fiscalía General del Estado** y de las demás partes procesales, el Tribunal decidió suspender la audiencia de juicio. Según informaron, se dará a conocer oportunamente la fecha y hora de la reinstalación de la audiencia. Posterior a esto se **emitirá la decisión final del caso**.
-
-Moisés Caicedo y Pervis Estupiñán se enfrentan en Inglaterra
-============================================================
-
-Moisés Caicedo y Pervis Estupiñán son los únicos jugadores ecuatorianos que juegan en la Premier League 2024/25.
-----------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo y Pervis Estupiñán con sus equipos en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/09/moi_pervis_1-1.jpg)
-
-Moisés Caicedo, con el Chelsea, y **Pervis Estupiñán con el Brighton**, se enfrentarán en la sexta fecha de la Premier League 2024/25, en lo que se proyecta como uno de los juegos más atractivos de la jornada.
-
-Moisés Caicedo es uno de los líderes, **capitanes y el jugador más caro de la historia del Chelsea** y de la Premier League; mientras que Pervis Estupiñán poco a poco recupera espacio en el Brighton luego de solventar una complicada lesión en uno de sus tobillos.
-
-### Más noticias:
-
-* [El gol de Enner Valencia desde el lente de una cámara fotográfica](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-enner-valencia-celebracion.html "El gol de Enner Valencia desde el lente de una cámara fotográfica")
-* [Aumenta el racismo contra futbolistas brasileños](https://www.elcomercio.com/deportes/futbol/aumenta-el-racismo-contra-futbolistas-brasilenos.html "Aumenta el racismo contra futbolistas brasileños")
-* [Deportivo Quito recibe apoyo masivo de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")
-
-Tanto Caicedo como Estupiñán son **referentes de la actual generación de jugadores** que integran la Selección de Ecuador, al punto que fueron mundialistas en Catar 2022 y ya han portado la cinta de capitanes en distintos momentos.
-
-Además, **jugaron juntos en las ‘Gaviotas’ en el curso 2022/23** en lo que fue una temporada histórica al alcanzar la inédita clasificación a la UEFA Europa League.
-
-Antes de la jornada seis, el **Chelsea es quinto en la tabla de posiciones con 10 puntos**, fruto de tres victorias, un empate y una derrota. Marcaron 11 goles y recibieron cinco para un gol diferencia positivo de +6.
-
-El **Brighton marcha en la séptima casilla con nueve unidades**. En su campaña alcanzó dos victorias, tres empates y aún no sabe lo que es perder. Anotó ocho goles y recibió cuatro para un gol diferencia positivo de +4.
-
-El ganador se **afianzará en la parte alta de la tabla de posiciones** y sacará una mínima ventaja en su objetivo de obtener uno de los cupos disponibles para los torneos europeos de la siguiente temporada.
-
-El encuentro está programado para el sábado 28 de septiembre, desde las 09:00, en Stamford Bridge.
-
-Los números de Caicedo y Estupiñán
-----------------------------------
-
-El ‘Niño Moi’ es el que **más minutos jugó en lo que va de la temporada del Chelsea con 547**. En la Premier League tiene cinco partidos, una asistencias, una tarjeta amarilla y una vez fue capitán.
-
-En la Conference League lleva disputados dos encuentros, uno como capitán, un hecho que marcó su ascendencia dentro de esta institución que en 2012 y 2021 se proclamó como campeona de la Champions League.
-
-La temporada de **‘Pervinho’ tiene un ascenso progresivo**. Entre la Premier League y la Carabao Cup tiene seis partidos, una tarjeta amarilla y 209 minutos en cancha.
-
-En la quinta fecha ante el **Nottingham Forest debutó como titular y completó 82 minutos**. Antes tuvo 18 minutos contra el Arsenal en la visita a Londres.
-
-En la Carabao Cup tuvo **participación en la segunda y tercera ronda**. En la primera entró desde el banco de suplentes y la segunda arrancó de titular y completó los 90 minutos.
-
-Caicedo vs. Estupiñán
----------------------
-
-En la temporada anterior en Premier League no se enfrentaron, porque Estupiñán no fue considerado; caso contrario de lo de Caicedo que dijo presente en el triunfo 3-2 de local y de visita 1-2.
-
-El único antecedente en donde los dos ecuatorianos **se enfrentaron fue en la tercera ronda de la Carabao Cup**, que se llevó a cabo el miércoles 27 de septiembre de 2023, que terminó con triunfo de los ‘Blues’ por 1-0 con tanto de Nicolas Jackson.
-
-Estupiñán fue capitán, **recibió una tarjeta amarilla a los 45 minutos del primer tiempo** y completó todo el juego. Caicedo también jugó los 90 minutos.
-
-![Foto: Instagram de Pervis Estupiñán.](https://www.elcomercio.com/wp-content/uploads/2024/09/moi_pervis_2-1024x683.jpg)
-
-Foto: Instagram de Pervis Estupiñán.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Liga Pro sorprende con un inédito formato para la próxima temporada
-===================================================================
-
-Tras varios años de quejas por la falta de partidos, la Liga Pro cambia su formato para beneficiar a los clubes.
-----------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito y Barcelona SC en un partido de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T134125.387.jpg)
-
-De manera sorpresiva, la Liga Profesional de Fútbol, más conocida como **Liga Pro**, anunció un **nuevo** **formato** para la Serie A del fútbol ecuatoriano, que se implementará a partir de la temporada 2025.
-
-El nuevo sistema fue aprobado de manera unánime en el Consejo de Presidentes de la Liga Pro y tiene como objetivo aumentar la cantidad de partidos, lo que **beneficiará a los clubes** que llegaban sin ritmo a las competencias internacionales.
-
-### Más noticias:
-
-* [Horarios reprogramados para la fecha 8 de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-pro-fecha8-horarios-reprogramados.html "Horarios reprogramados para la fecha 8 de la Liga Pro")
-* [¿Cuándo juega Liga de Quito en Liga Pro?](https://www.elcomercio.com/deportes/futbol/liga-quito-cuando-juega-delfin.html "¿Cuándo juega Liga de Quito?")
-* [Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto](https://www.elcomercio.com/deportes/deportivo-cuenca-barcelona-liga-pro-gol-minuto.html "Deportivo Cuenca derrotó a Barcelona SC al marcarle en menos de un minuto")
-
-Este será el t**ercer formato de la Liga Pro** desde su primer torneo en 2019. Además, marca el fin del sistema que se utilizó en los últimos cinco campeonatos (2020-2024), el cual estaba dividido en dos etapas y una final.
-
-¿Cómo será el nuevo formato de la Liga Pro?
--------------------------------------------
-
-A partir de la próxima temporada, la **Liga Pro se dividirá en dos fases: la Fase Inicial y la Fase Final**, con un total de 312 partidos, y tendrá una duración de 10 a 11 meses, comenzando en febrero y finalizando en diciembre sin interrupciones a mitad de año, como ocurría en los torneos anteriores.
-
-### Fase Inicial
-
-En la Fase Inicial participarán los **16 equipos de la Serie A**, jugando todos contra todos en partidos de ida y vuelta, sumando un total de **30 fechas** y 240 partidos.
-
-El equipo que termine en primer lugar de esta fase obtendrá el cupo de “Ecuador 2” para la Copa **Libertadores**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/GYgEHiBWwAA-V6i-1024x580.jpeg)
-
-### Fase Final
-
-La Fase Final es más compleja, ya que está dividida en dos hexagonales, un cuadrangular y tendrá un total de 72 partidos. Es importante destacar que, para esta fase, los **PUNTAJES DE LA TABLA ACUMULADA SE MANTENDRÁN INTACTOS.**
-
-**Hexagonal por el título**
-
-Lo disputarán los seis primeros equipos de la tabla acumulada. Jugarán todos contra todos, en partidos de ida y vuelta, sumando un **total de 10 partidos**.
-
-Ya no habrá una final, y el equipo que termine en **primer lugar será el campeón de la Liga Pro**, obteniendo además el cupo de “Ecuador 1” para la Copa Libertadores. Los equipos que terminen en segundo y tercer lugar también obtendrán cupos a la **Libertadores**, mientras que los equipos del cuarto al sexto lugar clasificarán a la Copa Sudamericana.
-
-**Hexagonal por el último cupo a la Sudamericana**
-
-Este hexagonal lo disputarán los equipos que terminen entre el séptimo y el duodécimo puesto de la Fase Inicial.
-
-Se jugará con el mismo formato, todos contra todos, y el g**anador de esta fase se llevará el último cupo disponible para la Copa Sudamericana.**
-
-**Cuadrangular por el descenso**
-
-Los equipos que finalicen en los cuatro últimos puestos de la tabla acumulada jugarán un cuadrangular, enfrentándose todos contra todos. Los **dos últimos** **equipos** de este cuadrangular descenderán a la Serie B.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T134341.118-1024x683.jpg)
-
-Video explicativo
------------------
-
-> 📍Fixture de la temporada 2025, aprobado en Consejo de Presidentes de manera unánime ⚽️  
->   
-> Video completo: [https://t.co/gyP2YBctbh](https://t.co/gyP2YBctbh)[#LigaProInstitucional](https://twitter.com/hashtag/LigaProInstitucional?src=hash&ref_src=twsrc%5Etfw) 🇪🇨💯 [pic.twitter.com/u58CXdtofH](https://t.co/u58CXdtofH)
-> 
-> — LigaPro Corporativa (@ligaprocorp) [September 27, 2024](https://twitter.com/ligaprocorp/status/1839725416648413571?ref_src=twsrc%5Etfw)
-
-Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro
-===============================================================
-
-El brasileño Vinícius Júnior se ha convertido en un símbolo tanto en el fútbol como en la lucha contra el racismo.
-------------------------------------------------------------------------------------------------------------------
-
-![Vinícius Júnior es uno de los mejores futbolistas del mundo en la actualidad.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T115334.555.jpg)
-
-**Vinícius** **Júnior** es una de las grandes figuras del fútbol actual, una estrella que ha superado diversos obstáculos para posicionarse como uno de los mejores jugadores del mundo. Al mismo tiempo que ha crecido como futbolista, también se ha convertido en el **rostro visible de la lucha contra el racismo**.
-
-No solo continúa siendo víctima de actos racistas, tanto en los estadios como en redes sociales, sino que ha encontrado en su talento futbolístico la manera de callar a sus detractores. Su rendimiento lo ha colocado como uno de los favoritos para ganar el **Balón de Oro** en esta edición.
-
-### Más noticias:
-
-* [Condenan a prisión a un hombre por insultos racistas a Vinicius](https://www.elcomercio.com/deportes/futbol/condenan-carcel-racismo-vinicius-madrid.html "Condenan a prisión a un hombre por insultos racistas a Vinicius")
-* [Aumenta el racismo contra futbolistas brasileños](https://www.elcomercio.com/deportes/futbol/aumenta-el-racismo-contra-futbolistas-brasilenos.html "Aumenta el racismo contra futbolistas brasileños")
-* [¿Quién ganó el Balón de Oro 2024?](https://www.elcomercio.com/deportes/futbol/quien-gano-el-balon-de-oro-2024.html "¿Quién ganó el Balón de Oro 2024?")
-
-Vinícius Júnior: una carrera en ascenso
----------------------------------------
-
-Vinícius José Paixão de Oliveira Júnior, más conocido como Vinícius Júnior, nació en Río de Janeiro el 12 de julio de 2000.
-
-Sus primeros pasos los dio en **Flamengo**, uniéndose a sus categorías formativas en 2010, cuando tenía apenas 10 años. En el ‘Mengao’ se formó como futbolista y debutó en 2017, donde rápidamente lo consideraron una gran promesa.  
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T114839.635-1024x683.jpg)
-
-A los 17 años debutó profesionalmente y destacó también con las selecciones juveniles de Brasil, lo que despertó el interés de clubes europeos. El Real Madrid no dudó en ficharlo y pagó entre 40 y 50 millones de dólares por su traspaso.
-
-**Vinícius** se unió oficialmente al **Real** **Madrid** en la temporada 2018/19. Aunque al principio fue objeto de burlas debido a sus altibajos, especialmente por su juventud, nunca dejó de trabajar.
-
-Su explosión como futbolista llegó en la temporada 2021/22, cuando se convirtió en una de las figuras claves del Real Madrid, equipo que ganó la **Champions League**. Aunque algunos consideraron esa temporada como una casualidad, él demostró en los años siguientes que no fue suerte.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T114856.102-1024x683.jpg)
-
-Actualmente, Vinícius Júnior es considerado uno de los mejores futbolistas del mundo y es titular indiscutible en el Real Madrid, siendo la figura principal en la campaña de la Champions 2023/24, que su equipo también conquistó.
-
-Fútbol y racismo: una lucha paralela
-------------------------------------
-
-Desde su llegada a España en 2018, **Vinícius fue víctima de racismo en varias ocasiones**, especialmente en La Liga.
-
-Al principio, siendo joven, no alzó la voz tanto como ahora, pero con el tiempo y su creciente visibilidad, **comenzó a denunciar esta problemátic**a, que afecta no solo a él, sino a muchos otros futbolistas, dentro y fuera de las canchas.
-
-Vinícius se convirtió en el **estandarte de la lucha contra el racismo en el fútbol.** En múltiples ocasiones lideró campañas para combatir este flagelo. También ha criticado abiertamente la falta de medidas contundentes para erradicar el racismo en el deporte.
-
-Incluso, se ha aliado con la **FIFA en la organización de partidos amistosos** de selecciones para promover la causa contra el racismo y concienciar sobre la gravedad de este problema.
-
-![Vinícius Júnior luciendo la única camiseta de color negro en la historia de Brasil como símbolo de la lucha contra el racismo en el fútbol.](https://www.elcomercio.com/wp-content/uploads/2024/04/VINICIUS-JUNIOR-RACISMO-1024x683.jpg)
-
-A pesar de su incansable lucha contra el racismo, **Vinícius Jr.** ha enfrentado duras críticas por parte de algunos aficionados, especialmente en España y en redes sociales.
-
-Lo acusan de ser provocador en el campo y de utilizar el **racismo** como una estrategia de defensa ante las controversias. Sin embargo, el brasileño sigue firme en su postura, denunciando las injusticias y reivindicando su derecho a jugar en un entorno libre de discriminación.
-
-El Balón de Oro, su próximo objetivo
-------------------------------------
-
-El gran favorito para ganar el **Balón de Oro 2024 es Vinícius Júnior,** gracias a su sobresaliente temporada con el Real Madrid. Según diversas filtraciones, el brasileño está muy cerca de convertirse en el primer jugador de su país en ganar este prestigioso galardón desde que Kaká lo hiciera en 2007.
-
-Entre otros nominados al Balón de Oro destacan Rodri, pieza fundamental del Manchester City y de la selección española, y Jude Bellingham, quien ha tenido un fantástico debut con el Real Madrid.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C_gWB0do_sB/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Ballon d’Or (@ballondorofficial)](https://www.instagram.com/p/C_gWB0do_sB/?utm_source=ig_embed&utm_campaign=loading)
-
-Alcalde de Nueva York se declara no culpable de cargos de corrupción
-====================================================================
-
-"No soy culpable", dijo a la jueza Katharine Parker en una breve audiencia.
----------------------------------------------------------------------------
-
-![Eric Adams en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/eric-efe-ok.jpg)
-
-El alcalde de Nueva York, [Eric Adams](https://www.elcomercio.com/actualidad/alcalde-de-nueva-york-eric-adams-acusado-corrupcion.html "https://www.elcomercio.com/actualidad/alcalde-de-nueva-york-eric-adams-acusado-corrupcion.html"), se declaró este viernes, 27 de septiembre de 2024, no culpable de los cinco cargos de corrupción de los que le acusa la Fiscalía federal, relacionados con soborno y donaciones ilegales de fondos por parte del **Gobierno de Turquía** para financiar su campaña.
-
-Más noticias:
--------------
-
-* [Defensa de Donald Trump pide anular condena de 450 millones de dólares por fraude](https://www.elcomercio.com/actualidad/mundo/defensa-trump-pide-anular-condena-450-millones-dolares-fraude-nueva-york.html "Defensa de Donald Trump pide anular condena de 450 millones de dólares por fraude")
-* [Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU.](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html "Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU. ")
-* [El alcalde de Nueva York, Eric Adams, es acusado de corrupción](https://www.elcomercio.com/actualidad/mundo/alcalde-de-nueva-york-eric-adams-acusado-corrupcion.html "El alcalde de Nueva York, Eric Adams, es acusado de corrupción")
-
-“No soy culpable”, dijo a la jueza Katharine Parker en una breve audiencia en el tribunal federal para el distrito sur de Nueva York, muy cerca del ayuntamiento.
-
-Adams llegó hoy temprano a la corte junto a su abogado Alex Spiro, donde fue procesado como cualquier acusado para lueg**o escuchar la lectura de los cargos.** Después, fue puesto en libertad con la advertencia de no tener contacto con testigos ni con otras personas implicadas en su caso.
-
-El alcalde, en su **primer cuatrienio y con su mirada puesta en la reelección**, rechazó la lectura de los cargos, contenidos en un documento de 57 páginas, al señalar al juez que ya los conocía.
-
-Los cargos consisten en fraude electrónico y soborno, y aceptación de donativos de campaña de extranjeros y regalos a cambio de hacer favores a sus donantes, entre ellos presionar al Departamento de Bomberos para que autorizara la apertura de un edificio del Gobierno turno frente a la ONU.
-
-La acusación indica que esas **donaciones de contribuyentes ricos** fueron encubiertas a través de testaferros en EE.UU. y que las empresas lo hicieron a través de múltiples empleados, evadiendo así la ley para evitar la influencia extranjera en las elecciones estadounidenses y reducir el poder corporativo en la política.
-
-La jueza Parker advirtió a Adams, que es exsenador estatal, excapitán de policía y expresidente del condado de Brooklyn, que **no debe faltar a ninguna audiencia** en el tribunal ni intimidar a nadie en relación con el caso.
-
-Adams, que no hizo comentarios a su llegada y salida del tribunal, debe regresar a la corte para otra audiencia el miércoles, ante el juez asignado al caso, Dale Ho, y su abogado Spiro adelantó a su salida ante una multitud de periodistas que pedirá que se desestimen los cargos porque su cliente es inocente.
-
-Spiro es un abogado de alto perfil con clientes como **Jay-Z, Alex Baldwin y Elon Musk**, según el New York Times.
-
-Adams ha reiterado su inocencia desde que trascendió que era investigado por el FBI y tras conocerse finalmente los cargos el jueves, y **hoy viernes, 27 de septiembre de 2024, se reafirmó en que no renunciará** pese a la gran cantidad de voces dentro de su propio Partido Demócrata que piden su dimisión.
-
-Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut
-===========================================================================
-
-El secretario general de la ONU, António Guterres, expresó este viernes, 27 de septiembre de 2024, su “gran alarma” por los bombardeos israelíes de hoy sobre los barrios del sur de Beirut (Líbano) con el supuesto objetivo de destruir un cuartel de la milicia chií libanesa Hizbulá. Más noticias “Estamos observando con gran alarma los \[…\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen compartida por la oficina del primer ministro israelí, Benjamín Netanyahu, donde se observa al mandatario sentado en una silla desde Nueva York, donde hoy intervino ante la Asamblea General de la ONU, autorizando vía telefónica el bombardeo en Dahye, suburbio sur de Beirut (Líbano) e importante bastión de Hizbulá. El objetivo del ataque israelí este viernes contra la sede central de Hizbulá en los suburbios de Beirut era el jefe del grupo chií, Hasán Nasrala, según confirmaron a la prensa hebrea fuentes de seguridad bajo anonimato. EFE/Oficina del primer ministro de Israel](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe1c83f6d4a4c78f09a76d280d7e09050293a3e80aw-e1727465278482.jpg)
-
-El secretario general de la ONU, [António Guterres](https://www.elcomercio.com/tendencias/ambiente/secretario-onu-colapso-groenlandia-urbes.html "https://www.elcomercio.com/tendencias/ambiente/secretario-onu-colapso-groenlandia-urbes.html"), expresó este viernes, 27 de septiembre de 2024, su “gran alarma” por los **bombardeos israelíes** de hoy sobre los barrios del sur de Beirut (Líbano) con el supuesto objetivo de destruir un cuartel de la milicia chií libanesa Hizbulá.
-
-### Más noticias
-
-* [Meryl Streep dice en la ONU que una ardilla tiene más libertad que una mujer afgana](https://www.elcomercio.com/actualidad/mundo/meryl-streep-dice-onu-ardilla-tiene-libertad-mujer-afgana.html "Meryl Streep dice en la ONU que una ardilla tiene más libertad que una mujer afgana")
-* [Congope impulsa la consecución de la Agenda 2030 y ODS](https://www.elcomercio.com/empresariales/congope-impulsa-consecucion-agenda-2030-ods.html "Congope impulsa la consecución de la Agenda 2030 y ODS")
-* [Secretario general de la ONU declara emergencia climática global en el Pacífico](https://www.elcomercio.com/actualidad/mundo/secretario-general-onu-declara-pacifico-emergencia-climatica-global.html "Secretario general de la ONU declara emergencia climática global en el Pacífico")
-
-“Estamos observando con gran **alarma los acontecimientos que se desarrollan en Beirut** (…) Estas acciones ponen tanto a la población libanesa como a la israelí en peligro, así como amenazan la seguridad y la estabilidad regional”, afirmó el portavoz del secretario general de la ONU -António Guterres-, Stéphane Dujarric, en una rueda de prensa desde Nueva York.
-
-Dujarric añadió que también siguen “**profundamente preocupados** por la fuerte escalada de las hostilidades a través de la Línea Azul”, que separa la frontera sur de Líbano y el norte de Israel, y que su misión de paz desplegada en la zona, UNIFIL, continúa participando “activamente” para “ayudar a reducir las tensiones” entre las partes contendientes.
-
-“Apoyamos plenamente los **esfuerzos diplomáticos** para poner fin a la violencia, restablecer la estabilidad y evitar un sufrimiento humanitario aún mayor en la región”, agregó el portavoz.
-
-Según confirmaron a la prensa israelí fuentes de seguridad bajo anonimato, los bombardeos este viernes contra la sede central de Hizbulá en los suburbio de Beirut tenían por objetivo abatir a su líder Hasán Nasrala.
-
-El Ejército israelí está ahora comprobando, dijeron las mismas fuentes, **si Nasrala se encontraba o no en las instalaciones** del grupo en el momento del ataque, cuya explosión ha pulverizado edificios y ha levantado una inmensa nube de polvo en la capital libanesa.
-
-Este es el sexto ataque contra la zona de Dahye desde el inicio del fuego cruzado entre las partes el 8 de octubre de 2023 y el cuarto en tan solo una semana.
-
-El pasado viernes, más de **medio centenar de personas murieron** en un bombardeo israelí que hizo derrumbarse dos edificios en Dahye, donde en los días siguientes se sucedieron, además, otras tres acciones contra altos mandos de Hizbulá, una de ellas fallida.
-
-La última ocurrió ayer mismo y mató al comandante de su unidad aérea, Muhamad Hosein Sarur, así como a al menos otra persona.
-
-Todo ello coincide con una **intensa campaña de bombardeos israelíes** contra el sur y el este del país, donde la fuerza dominante es Hizbulá, que desde su inicio el pasado lunes deja ya más de 700 muertos y unos 120 000 desplazados.
-
-Militares involucrados en el caso de Pamela Ati podrían quedar libres
-=====================================================================
-
-Pamela Aidita Ati fue encontrada sin vida la madrugada del 29 de junio de 2024 en su dormitorio dentro del Fuerte Militar Napo.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Seis militares son investigados dentro del caso de Pamela Ati.](https://www.elcomercio.com/wp-content/uploads/2024/09/Caso-Pamela-Ati.jpg)
-
-Seis militares procesados por el caso de la muerte de **Pamela** **Ati** podrían quedar en libertad tras una decisión de la **Fiscalía**[.](https://es.wikipedia.org/wiki/Militar "https://es.wikipedia.org/wiki/Militar")
-
-Más noticias
-------------
-
-* [Caso Pamela Ati: Defensoría del Pueblo hizo exhortos a varias instituciones](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-defensoria-del-pueblo-exhortos-instituciones.html "Caso Pamela Ati: Defensoría del Pueblo hizo exhortos a varias instituciones")
-* [Nuevo informe sobre muerte de Pamela Ati crea controversia](https://www.elcomercio.com/actualidad/ecuador/nuevo-informe-muerte-pamela-ati-controversia.html "Nuevo informe sobre muerte de Pamela Ati crea controversia")
-* [Caso Pamela Ati: Fuerzas Armadas se pronunciaron sobre las acciones realizadas](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fuerzas-armadas-se-pronuncio-sobre-las-acciones-realizadas.html "Caso Pamela Ati: Fuerzas Armadas se pronunciaron sobre las acciones realizadas")
-
-María Isabel Jiménez, fiscal de Quito, emitió un dictamen **abstentivo** en contra de los seis militares procesados en el caso de la **muerte** de **Pamela Ati**, miembro de las **Fuerzas Armadas**, quien falleció dentro de un fuerte militar.
-
-Opciones en el caso de Pamela Ati
----------------------------------
-
-Tras esta decisión, el fiscal provincial debe revisar el informe y tiene dos **opciones**: **ratificar** la **abstención** de continuar con el proceso penal, lo que terminaría el caso para los **militares**, permitiendo su **liberación inmediata**, o revocar la decisión de **Jiménez** y solicitar que los procesados enfrenten una audiencia preparatoria de juicio de manera directa.
-
-**Vladimir Porojnia**, abogado de uno de los militares, confirmó a Ecuavisa que la fiscal **Jiménez** emitió el dictamen **abstentivo** basándose en los resultados de una **exhumación**, los cuales indican que la causa de la muerte fue un **edema pulmonar accidental**.
-
-Militares del caso Pamela Ati podrían quedar libres
----------------------------------------------------
-
-**Porojnia** también mencionó que los resultados de los **cotejamientos** de **ADN** fueron negativos. “Al ser una muerte accidental, no existe delito, es decir, no hubo violación ni femicidio”, señaló el abogado.
-
-**Pamela Aidita Ati** fue encontrada sin vida la madrugada del 29 de junio de 2024 en su dormitorio dentro del **Fuerte Militar Napo**.
-
-La autopsia inicial concluyó que su **muerte fue por asfixia** mecánica y que había sido agredida **sexualmente**. Sin embargo, debido a supuestas inconsistencias en el proceso, se cambió de fiscal y se realizaron diligencias pendientes, incluidas una exhumación y un examen toxicológico, que determinó que la causa de la muerte fue un edema pulmonar.
-
-Los seis militares investigados por el caso podrían quedar en libertad en los próximos días.
-
-Deportivo Quito y su ruta para el ascenso a la Serie B
-======================================================
-
-La ilusión del Deportivo Quito de regresar a la Serie B del fútbol ecuatoriano sigue viva.
-------------------------------------------------------------------------------------------
-
-![Deportivo Quito está a 10 partidos de lograr el ascenso a la Serie B.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T123420.432.jpg)
-
-El **Deportivo Quito** tiene una nueva oportunidad de ascender a la Serie B, tras varios años en la Segunda Categoría de Pichincha. El equipo, uno de los más tradicionales de **Ecuador**, cuenta con una hinchada fiel y está ansioso por volver a competir en las divisiones superiores del fútbol nacional.
-
-Aunque el objetivo es claro, el camino hacia el ascenso no será sencillo. La ‘**AKD**’ enfrentará a equipos con el mismo propósito, pasando por varias etapas y enfrentando numerosos retos a lo largo del torneo.
-
-### Más noticias:
-
-* [Deportivo Quito recibe apoyo masivo de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-recibe-apoyo-masivo-de-sus-hinchas.html "Deportivo Quito recibe apoyo masivo de sus hinchas")
-* [Deportivo Quito no jugará en el Atahualpa en Segunda Categoría](https://www.elcomercio.com/deportes/deportivo-quito-estadio-atahualpa-sede-segunda-categoria.html "Deportivo Quito no jugará en el Atahualpa en Segunda Categoría")
-* [Ministerio del Deporte registró el Directorio del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/directorio-del-deportivo-quito-registrado-ministerio-deporte.html "Ministerio del Deporte registró el Directorio del Deportivo Quito")
-
-La ruta del Deportivo Quito a la Serie B
-----------------------------------------
-
-El Deportivo Quito competirá en el **Torneo de Ascenso a la Serie B**, su primer torneo de este tipo desde 2022.
-
-Su primer desafío será ante el **Santa Elena Sporting Club,** al que enfrentará en los **treintaidosavos** de final.
-
-El partido de ida se **jugará el domingo 29** de septiembre en el Complejo de Independiente del Valle, a las 12:00. El encuentro de vuelta se disputará el 6 de octubre en Santa Elena, probablemente en el Estadio Daring, donde Santa Elena SC juega como local.
-
-Después de esta fase, se vendrán los dieciseisavos de final, y la **Federación Ecuatoriana de Fútbol** (FEF) organizará un nuevo sorteo para definir los próximos enfrentamientos.
-
-El **Deportivo Quito** deberá superar seis etapas y un total de 10 partidos para asegurar su regreso a la Liga Pro Serie B de Ecuador en 2025.
-
-Una hinchada que nunca deja de alentar
---------------------------------------
-
-El Deportivo Quito siempre se ha destacado por su leal hinchada, que ha acompañado al equipo tanto en sus momentos de gloria como en sus tiempos más difíciles.
-
-A pesar de casi una década fuera de la **Serie A**, el club sigue generando un fuerte impacto entre sus seguidores. Este año no será la excepción, y se espera un lleno total en el Complejo de **Independiente del Valle**.
-
-En el primer día de venta de boletos, la **preferencia se agotó rápidamente**, y las redes sociales se llenaron de imágenes de largas filas para adquirir entradas. Aunque aún quedan boletos disponibles, las entradas están cerca de agotarse. Los precios son: $8 para General/Preferencia, $12 para Tribuna y $15 para Palco.
-
-El **Deportivo Quito** tiene la esperanza de que este año marcará el inicio de su ansiado regreso a la élite del fútbol ecuatoriano.
-
-Lluvias se prevén en Quito este viernes 27 de septiembre
+Funcionaria de la Fiscalía del Guayas fue hallada muerta
 ========================================================
 
-El Inamhi prevé que las lluvias más intensas se registren entre el 26 y el 30 de septiembre en Ecuador.
--------------------------------------------------------------------------------------------------------
+La Fiscalía General del Estado abrió una investigación de oficio sobre la muerte de la funcionaria del Guayas.
+--------------------------------------------------------------------------------------------------------------
 
-![El Inamhi prevé el inicio de la temporada lluviosa.](https://www.elcomercio.com/wp-content/uploads/2024/09/lluvias.jpg)
+![El cuerpo de la funcionaria de la Fiscalía del Guayas fue hallado un sector de Guayaquil, cerca de un botadero de basura.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-5-1.jpg)
 
-El **Instituto Nacional de Meteorología** (Inamhi) informó las previsiones para **el clima de Quito** este viernes 27 de septiembre de 2024.
+Diana Miranda, funcionaria de la Fiscalía del Guayas, fue hallada muerta, la noche del jueves 26 de septiembre de 2024.
 
-### Más noticias
+La Fiscalía informó que abrió una investigación de oficio sobre el suceso.
 
-* [Cortes de luz se retoman en Quito este 27 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cortes-luz-quito-ministro-energia-septiembre.html "Cortes de luz se retoman en Quito este 27 de septiembre de 2024")
-* [Cortes de luz de hasta 12 horas para este viernes 27 de septiembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-hasta-12-horas-para-este-viernes-27-de-septiembre.html "Cortes de luz de hasta 12 horas para este viernes 27 de septiembre")
-* [Av. Simón Bolívar, cerrada debido a choque múltiple en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-debido-a-choque-multiple-en-quito.html "Av. Simón Bolívar, cerrada debido a choque múltiple en Quito")
+### Más noticias:
 
-Advertencia Meteorológica
--------------------------
+* [Muere funcionaria del SNAI herida en El Trébol](https://www.elcomercio.com/actualidad/seguridad/muere-funcionaria-snai-herida-el-trebol.html "Muere funcionaria del SNAI herida en El Trébol")
+* [Cuatro funcionarios de cárceles asesinados en menos de 15 días](https://www.elcomercio.com/actualidad/seguridad/cuatro-funcionarios-de-carceles-asesinados-en-menos-de-15-dias.html "Cuatro funcionarios de cárceles asesinados en menos de 15 días")
+* [(Video) Mujer fue secuestrada en Quito con una nueva modalidad](https://www.elcomercio.com/actualidad/seguridad/mujer-secuestrada-quito-nueva-modalidad-video.html "(Video) Mujer fue secuestrada en Quito con una nueva modalidad")
 
-El Inamhi mantiene activa la **advertencia meteorológica 51** para el período entre el 26 de septiembre y el 1 de octubre. En este lapso, se pronostica presencia de e**ventos de lluvia de intensidad considerable** en la Amazonía, Sierra y norte del Litoral.
+Diana Miranda tenía 46 años y trabajaba en la Secretaría de la Fiscalía del Guayas.
 
-La presencia de vientos se mantiene. Los días en los que se prevé **lluvias más intensas** son el 26, 27, 29 y 30 de septiembre.
+La muerte de la funcionaria de la Fiscalía del Guayas
+-----------------------------------------------------
 
-Ante estas previsiones es importante que tomes las siguientes precauciones:
+El cadáver de Diana Miranda fue encontrado en el barrio del Astillero, centro sur de Guayaquil, cerca de un contenedor de basura.
 
-* Si las autoridades lo indican, evacúa lo más pronto posible
-* Aléjate de los cables de electricidad y desconecta los aparatos electrónicos
-* No camines cerca del agua ni intentes cruzar ríos
-* No te refugies bajo los árboles ni manipules herramientas u objetos metálicos durante las tormentas
+Esto, tras la alerta que dio un guardia de seguridad a la Policía.
 
-> Advertencia Meteorológica Importante #51⚠⛈🌧☔  
-> Del 26 de septiembre al 01 de octubre empezarán a registrarse eventos de lluvia de intensidad considerable en Amazonía, Sierra y norte del Litoral.  
->   
-> Tome precauciones y manténgase informado en nuestros canales. [pic.twitter.com/ccjSSF7tOl](https://t.co/ccjSSF7tOl)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 26, 2024](https://twitter.com/inamhi_ec/status/1839434376482078803?ref_src=twsrc%5Etfw)
+Miranda salió de la sede de la Fiscalía de Guayaquil, en un taxi, alrededor de las 17:00, con dirección a su domicilio, el jueves.
 
-Lluvias en Quito
-----------------
+La Fiscalía abrió, de oficio, una investigación en torno a la muerte de la funcionaria.
 
-Este viernes 27 de septiembre, el Inamhi informó que para este día se prevé un cielo mayormente nublado, lluvias de variable intensidad con tormentas aisladas.
+Se dispuso la práctica de pericias y demás diligencias, con el fin de determinar responsabilidades.
 
-Los **índices de radiación UV** se mantendrán entre **niveles moderados** y ocasionalmente altos.
+En menos de 15 días, sicarios asesinaron a cuatro funcionarios penitenciarios.
 
-En Quito, se prevé que las **lluvias serán más intensas** en el sur, con tormentas eléctricas. Durante la noche del viernes y madrugada del sábado 28 de septiembre, también podrían **registrarse lluvias** y la temperatura podría bajar **hasta 7 grados en ciertas zonas**.
+El sábado 31 de agosto fue un día catastrófico para dos guías penitenciarias, víctimas de un ataque armado en la vía a Daule.
 
-A pesar del cielo nublado, los índices de radiación ultravioleta se mantienen altos. Ten precaución y [pro](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")[t](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")[ege tu piel](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+Tres días después, el 3 de septiembre, mataron a Álex Guevara, director del Centro de Rehabilitación Social.
 
-> [#PronosticoPichinchaEC](https://twitter.com/hashtag/PronosticoPichinchaEC?src=hash&ref_src=twsrc%5Etfw) l Viernes, 27 de septiembre: Cielo mayormente nublado, lluvias de variable intensidad con tormentas aisladas. Radiación [#UV](https://twitter.com/hashtag/UV?src=hash&ref_src=twsrc%5Etfw) entre Moderada y ocasional Alta. 🌧️  
->   
-> 🟠 Advertencia 51 (Lluvias y Tormentas) Vigente: [https://t.co/oPcbEgg5CI](https://t.co/oPcbEgg5CI)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [pic.twitter.com/ErAUXrjHd9](https://t.co/ErAUXrjHd9)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 27, 2024](https://twitter.com/inamhi_ec/status/1839672521458606502?ref_src=twsrc%5Etfw)
-
-Quito al fin tuvo lluvias
--------------------------
-
-Con mucho entusiasmo y alegría, **los quiteños recibieron las primeras lluvias**, la tarde de este jueves 26 de septiembre de 2024. En el sur de la ciudad, como en Quitumbe por ejemplo, se registró la caída de fuertes precipitaciones.
-
-En el valle de Los Chillos, al suroriente de Quito, **la lluvia vino acompañada de granizo** y estruendos.
-
-Donde **no se reportaron lluvias** este jueves fue en los barrios del **norte de la ciudad.**
-
-En la capital **no caían lluvias considerables en 48 días**; el sábado 21 de septiembre se reportaron lloviznas en algunos sectores, pero duraron alrededor de 10 minutos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAbnL_hR5pp/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAbnL_hR5pp/?utm_source=ig_embed&utm_campaign=loading)
+Finalmente, el 12 de septiembre, asesinaron a María Icaza, directora de la Penitenciaría del Litoral encargada.
 
   
 
-  
+Orense presiona a Liga de Quito en la Liga Pro
+==============================================
 
-Estos son los cortes de luz del 30 septiembre al 6 de octubre
-=============================================================
+Orense triunfó ante Macará en la Liga Pro e igualó en puntos a Liga de Quito en la tabla de posiciones de la segunda etapa.
+---------------------------------------------------------------------------------------------------------------------------
 
-Gobierno confirmó los nuevos cortes de luz en Ecuador.
-------------------------------------------------------
+![Miguel Parrales celebra su gol en la Liga Pro con Orense ante Macará.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240927129613-fbl-orense-macara-scaled.jpg)
 
-![Los cortes de luz en Ecuador tienen como marco una sequía aguda.](https://www.elcomercio.com/wp-content/uploads/2024/09/corte-de-luz-2.jpg)
+**Orense** se impuso ante **Macará** en el inicio de la octava fecha de la Liga Pro y pone presión a Liga de Quito en la tabla de posiciones de la segunda etapa. El equipo verde ganó por un marcador de 1-0 e igualó a los albos en puntos.
 
-El cronograma de **cortes de luz** para la semana del 30 de septiembre al 6 de octubre de 2024 ya está disponible para que la ciudadanía pueda tomar las precauciones necesarias.
+A pesar de los pinchazos en las fechas previas, el equipo de Machala se mantiene competitivo y busca pelear por la ronda. En la jornada anterior, la escuadra cayó por una goleada de 3-0 ante **Mushuc Runa**, otro de los clubes que también ha sorprendido en el segundo semestre del campeonato nacional.
 
-El ministro de Energía, **Antonio Goncalves**, actualizó la situación energética de Ecuador. Lo hizo este viernes, 27 de septiembre de 2024.
+### Más noticias:
+
+* [Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-barcelona-sc-los-reyes-de-las-multas-de-la-liga-pro.html "Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro")
+* [¿Cuándo juega Liga de Quito?](https://www.elcomercio.com/deportes/futbol/liga-quito-cuando-juega-delfin.html "¿Cuándo juega Liga de Quito?")
+* [Liga Pro sorprende con un inédito formato para la próxima temporada](https://www.elcomercio.com/deportes/futbol/liga-pro-sorprende-con-un-inedito-formato-para-la-proxima-temporada.html "Liga Pro sorprende con un inédito formato para la próxima temporada")
+
+En el caso de **Macará**, el equipo celeste arribó en medio de un año intermitente para su fútbol. Dentro de la segunda etapa, este llegó en el sexto puesto de la tabla de posiciones y después de vencer al **Imbabura** en casa.
+
+El choque entre **machaleños y ambateños** solo contó con un tanto, pero además estuvo marcado por el juego brusco del conjunto celeste. **Macará** terminó el compromiso con dos futbolistas expulsados en su plantilla.
+
+Orense encontró el triunfo en Liga Pro con un autogol
+-----------------------------------------------------
+
+**Orense** se hizo con el triunfo en el partido desde los primeros minutos de juego. El plantel de Machala se impuso desde los 13 minutos después de un error de **Macará** en defensa, el cual devino en un autogol del elenco.
+
+Después de un centro desde el costado derecho, el golero **José Gabriel Cevallos** salió mal y **Miguel Parrales** intentó embocarla. El portero de los celestes tocó la pelota, esta golpeó en el delantero de los de Machala y luego en el defensa **Roddy Zambrano**, de manera que el balón entró.
+
+Parrales pudo volver a marcar, pero su **gol fue anulado**. El delantero sacó un remate desde fuera del área que venció a **Cevallos**, pero el juez de línea dictaminó el fuera de juego de uno de sus compañeros, quien obstruyó la visión del arquero rival.
+
+Los dos expulsados de Macará
+----------------------------
+
+Las expulsiones en **Macará** se produjeron tanto en el primero como en el segundo tiempo. Ambas tarjetas rojas se dieron por agresiones a los rivales en un contexto en el cual no se disputaban los balones.
+
+El primer expulsado fue **Ronaldo Lora** a los 22 minutos. **José Marrufo** no continuó a partir de los 90+6, a segundos de que finalice el compromiso.
+
+El triunfo pone, de manera momentánea, a **Orense** como segundo en la ronda y separado de **Liga de Quito** solo por el gol diferencia. Los albos se enfrentarán a **Delfín** en Manta.
+
+Denil Castillo, una de las opciones de Beccacece para la Selección de Ecuador
+=============================================================================
+
+Denil Castillo ha sumado minutos importantes en el fútbol europeo, lo que lo convierte en una posible alternativa para la selección ecuatoriana.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Denil Castillo juega en el Midtjylland de Dinamarca.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T182106.378.jpg)
+
+La **Selección de Ecuador** tuvo dificultades en la última fecha FIFA, especialmente en el mediocampo, donde el acompañante de Moisés Caicedo no terminó de convencer. Aunque Sebastián Beccacece probó varios jugadores, ninguno logró asentarse, lo que podría abrirle una puerta a **Denil Castillo.**
+
+El **combinado nacional volverá a la acción el 10 de octubre** para disputar nuevamente las eliminatorias sudamericanas. La ‘Tri’ recibirá a Paraguay en la novena jornada y luego visitará a Uruguay en la décima, el 15 del mismo mes.
+
+### Más noticias:
+
+* [Midtjylland, con Denil Castillo de titular, empató en la Europa League](https://www.elcomercio.com/deportes/futbol/midtjylland-con-denil-castillo-de-titular-empato-europa-league.html "Midtjylland, con Denil Castillo de titular, empató en la Europa League")
+* [Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC](https://www.elcomercio.com/deportes/jhon-espinoza-barcelona-sc-seleccion-ecuador.html "Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC")
+* [Selección de Ecuador sub-16 empató con Argentina en amistoso](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub16-amistoso-argentina.html "Selección de Ecuador sub-16 empató con Argentina en amistoso")
+
+Con más tiempo de trabajo, **Sebastián** **Beccacece** podría hacer variantes en su segunda convocatoria como DT de Ecuador, y se espera que, al igual que en su primera lista, haya sorpresas.
+
+Denil Castillo en el radar de Ecuador
+-------------------------------------
+
+Ante las complicaciones de Ecuador en el mediocampo, particularmente en la posición de pivote, ha surgido el nombre de Denil Castillo, **exjugador de Liga de Quito**, quien ya lleva casi dos años en Europa.
+
+Según el periodista Fabián Gallardo, **Castillo** tiene grandes posibilidades de ser convocado por Sebastián Beccacece para la próxima fecha de eliminatorias sudamericanas.
+
+En la última convocatoria de septiembre, Beccacece solo llamó a dos volantes defensivos naturales: **Jhegson Méndez y Carlos Gruezo**. Sin embargo, Méndez llegó con poco ritmo, y Gruezo no ha logrado consolidarse como una pieza clave en la ‘Tri’.
+
+Aunque jugadores como **Moisés Caicedo** o Alan Franco pueden desempeñarse en esa posición, la idea es buscar a un futbolista que sea especialista en ese rol.
+
+Denil Castillo pisa fuerte en Dinamarca
+---------------------------------------
+
+Denil Castillo se unió al **FC Midtjylland** en junio de 2024, después de un breve paso por el Shakhtar Donetsk y el Partizán de Serbia.
+
+El ecuatoriano, de 20 años, firmó con los ‘Lobos’, uno de los equipos más importantes de Dinamarca, hasta 2027.
+
+A pesar de su corta estancia, **Castillo** ha logrado afianzarse en el esquema del equipo y ha jugado varios partidos, sumando minutos importantes.
+
+En lo que va de la temporada, ha disputado 14 encuentros, 10 de ellos como titular, acumulando 709 minutos en cancha. Ha visto acción en la liga y copa danesas, en la fase previa de la Champions League, y actualmente en la fase de liga de la **Europa League**.
+
+Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz
+===========================================================================
+
+La cartera de Estado informó cómo se realizará la jornada escolar durante el lunes 30 de septiembre y el viernes 4 de octubre.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Los horarios escolares se ajustarán debido a los cortes de luz programados](https://www.elcomercio.com/wp-content/uploads/2024/09/cambio-horas.jpg)
+
+El **Ministerio de Educación** modificó temporalmente los **horarios de clases** de todas las instituciones fiscales del Ecuador.
+
+A través de un comunicado oficial, la cartera de Estado dispuso el ajuste de las jornadas educativas entre el **lunes 30** de septiembre y el **viernes 4** de octubre.
 
 ### Más noticias
 
-* [Cortes de luz se retoman en Quito este 27 de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/cortes-luz-quito-ministro-energia-septiembre.html)
-* [Cortes de luz de hasta 12 horas para este viernes 27 de septiembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-hasta-12-horas-para-este-viernes-27-de-septiembre.html "Cortes de luz de hasta 12 horas para este viernes 27 de septiembre")
-* [Cortes de luz en Riobamba, estos son los horarios para este 27 de septiembre](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-riobamba-horarios-27-septiembre.html "Cortes de luz en Riobamba, estos son los horarios para este 27 de septiembre")
+* [Cubeto para tratar residuos fue inaugurado en Quito](https://www.elcomercio.com/actualidad/quito/cubeto-residuos-solidos-quito-inauguracion.html "Cubeto para tratar residuos fue inaugurado en Quito")
+* [Calidad del aire en Quito tiene una nueva variación tras incendios](https://www.elcomercio.com/actualidad/quito/calidad-aire-quito-variacion-incendios.html "Calidad del aire en Quito tiene una nueva variación tras incendios")
+* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
 
-Cortes de luz se retoman en Ecuador
------------------------------------
+La medida se aplicará debido a los **cortes de luz programados** que tendrá el país, a consecuencia de la crisis hídrica que se reporta en la mayoría de provincias.
 
-De acuerdo con datos de la **Corporación Eléctrica del Ecuador**\-Sur, el agua del embalse de **Mazar** llegó a 2 116,85 metros sobre el nivel del mar, a las 09:00 de este viernes, 27 de septiembre de 2024. A 36 metros de su máximo que es 2 153. Es decir, se encuentra en un estado crítico.
+Cambios en los horarios escolares
+---------------------------------
 
-Ese reservorio nutre a las hidroeléctricas de la cuenca del **río Paute** y es uno de los más afectados por la sequía, que afronta el Ecuador y la región.
+Dos de las **tres jornadas** escolares sufrirán cambios durante cinco días, “con el fin de garantizar la educación y la seguridad” de los estudiantes, profesores y trabajadores de las escuelas y colegios fiscales.
 
-Para conocer los **horarios** de corte se puede acceder a un [enlace](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/). Además, se habilitó un correo para las dudas y quejas: reporteshorarios@energiayminas.gob.ec.
+* **Jornada matutina**: Las clases para este horario se mantendrán con normalidad; la entrada y la salida se realizarán según lo establecido por cada institución.
+* **Jornada vespertina**: Este horario sí tendrá importantes cambios. Los estudiantes verpertinos ingresarán a la hora habitual, sin embargo, saldrán a las **17:00**.
+* **Jornada nocturna**: Este horario se mantendrá bajo la **modalidad no presencial**. El Ministerio solicitó a los profesores implementar recursos académicos y guías pedagógicas; así como el acompañamiento educativo.
 
-En el caso de Quito, los cortes van con esta distribución.
+Por otra parte, la cartera de Estado abrió la posibilidad a las **instituciones particulares, fiscomisionales y municipales**, de que sean ellos quienes decidan por su cuenta, si sumarse a estas medidas o definir sus propias directrices.
 
-Los cortes de luz en Guayaquil
+Clases en Quito
+---------------
+
+El Ministerio de Educación también dio instrucciones sobre cómo se desarrollarán en **Quito**, tras la emergencia que enfrentó la ciudad por los múltiples **incendios forestales**.
+
+Los alumnos de esta ciudad volverán a **clases presenciales** luego de tres días de educarse de forma **virtual**.
+
+“Tras la revisión de los análisis de la calidad del aire y con la finalidad de prevenir posibles efectos adversos en el sistema respiratorio de la comunidad educativa (…) se recomienda el uso de **mascarilla** en espacios al aire libre”, puntualizó la entidad.
+
+> \[COMUNICADO\] Informamos a la ciudadanía que actualizamos las disposiciones del lunes 30 de septiembre al viernes 04 de octubre, con el fin de garantizar la continuidad educativa, a nivel nacional. [pic.twitter.com/L2pyhHSbbu](https://t.co/L2pyhHSbbu)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 27, 2024](https://twitter.com/Educacion_Ec/status/1839777356119978031?ref_src=twsrc%5Etfw)
+
+¿Los cortes de luz afectarán al ciclopaseo en Quito?
+====================================================
+
+El ciclopaseo en Quito se mantendrá durante el fin de semana a pesar de los cortes de luz en la capital y en el país.
+---------------------------------------------------------------------------------------------------------------------
+
+![Ciudadanos durante el ciclopaseo de Quito, ciudad que será afectada por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/09/3889756-scaled.jpg)
+
+Los **cortes de luz** retornarán a Quito durante este viernes 27 de septiembre del 2024 y coincidirán el fin de semana con una de las actividades de distracción para los quiteños: el **ciclopaseo**. Pese a las medidas, el evento se mantendrá.
+
+A pesar de la crisis energética que atraviesa Ecuador, desde a **Agencia Metropolitana de Tránsito (AMT)** se confirmó a EL COMERCIO que el desarrollo del acto se llevará a cabo con normalidad. Este se desarrollará desde las 08:00 hasta las 16:00 en un recorrido que abarca 30 kilómetros.
+
+### Más noticias:
+
+* [Las opciones de Ecuador en el Mundial de Ruta de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/opciones-de-ecuador-en-el-mundial-de-ruta-de-ciclismo.html "Las opciones de Ecuador en el Mundial de Ruta de Ciclismo")
+* [Fallece Muriel Furrer en una prueba del Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/ciclista-fallecida-mundial-muriel-furrer.html "Fallece Muriel Furrer en una prueba del Mundial de Ciclismo")
+* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
+
+El Paseo Dominical, a su vez, se desarrolla en un horario en el cual no existen mayores impedimentos para el desarrollo de las actividades deportivas, pues hay presencia de luz solar. El recorrido inicia desde la avenida **Francisco Dalmau**, a la altura del Parque de los Recuerdos en el norte de Quito, y se extiende hasta la avenida **Amaruñán**, en el Parque de Las Cuadras al Sur.
+
+Los **cortes de luz** en la capital y el país se realizarán de manera progresiva y retornarán. Aunque antes ya se había tomado la medida, esta se suspendió debido a los incendios forestales que afectaron a Quito.
+
+¿Cómo serán los cortes de luz en Quito?
+---------------------------------------
+
+El ministro de Energía, **Antonio Goncalves**, actualizó la situación energética de Ecuador en este 27 de septiembre de 2024 y confirmó que los horarios de cortes de luz se mantendrán sin cambios significativos. Los cortes se reanudarán a las 18:00 del mismo día en Quito, de acuerdo a un cronograma previo, que abarca desde el 23 hasta el 29 de septiembre. La ciudadanía puede revisar los horarios específicos para su sector en la página web del **Ministerio de Energía**.
+
+**Goncalves** también anunció que el calendario de racionamiento de electricidad para la semana del 30 de septiembre al 6 de octubre ya está disponible. Este racionamiento se da debido a la crítica situación del **embalse de Mazar**, que se encuentra a solo 36 metros de su capacidad máxima.
+
+La falta de agua ha afectado significativamente la operación de varias hidroeléctricas en el país, las cuales actualmente funcionan por debajo del **50% de su capacidad**. A su vez, el embalse de Mazar es vital para la generación eléctrica, pues alimenta centrales importantes en la cuenca del **río Paute**. Con el nivel del agua muy cerca de su mínimo, el control del sistema eléctrico del país podría verse comprometido.
+
+La Liga Pro modificó sus horarios por los cortes de luz
+-------------------------------------------------------
+
+Entre los eventos deportivos que sí sufrieron cambios debido a los cortes de luz estuvieron los partidos de la **Liga Pro**. La entidad señaló que no programaría compromisos en horarios superiores a las 17:00[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador")
+
+A raíz de la decisión, los cotejos de la **octava fecha** del campeonato ecuatoriano fueron establecidos desde la mañana.
+
+(Video) Mujer fue secuestrada en Quito con una nueva modalidad
+==============================================================
+
+La mujer secuestrada bajo una nueva modalidad en Quito fue sometida por dos hombres.
+------------------------------------------------------------------------------------
+
+![La mujer secuestrada en Quito con una nueva modalidad fue sometida y forzada a subirse a un auto.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-4-1.jpg)
+
+Una **mujer** fue **secuestrada** la noche del 26 de septiembre de 2024, en **Quito**, bajo una **nueva modalidad**[.](https://es.wikipedia.org/wiki/Quito)
+
+Las cámaras de seguridad del sector registraron el suceso y el **video** se hizo viral en redes sociales.
+
+### Más noticias:
+
+* [Muere funcionaria del SNAI herida en El Trébol](https://www.elcomercio.com/actualidad/seguridad/muere-funcionaria-snai-herida-el-trebol.html "Muere funcionaria del SNAI herida en El Trébol")
+* [Policía rescató a tres secuestrados tras recibir la llamada de una valiente niña](https://www.elcomercio.com/actualidad/seguridad/policia-secuestro-guayaquil-comerciantes.html "Policía rescató a tres secuestrados tras recibir la llamada de una valiente niña")
+
+El hecho ocurrió en el sector de **Las Casas**, centro norte de Quito, cerca de las 20:00.
+
+Las cámaras de seguridad lograron captar el movimiento de un vehículo y dos hombres en la calle, implicados en el suceso.
+
+La mujer fue secuestrada con una nueva modalidad
+------------------------------------------------
+
+Los ciudadanos dieron la alerta del secuestro por redes sociales.
+
+En el video se observa que una mujer sale a esperar algo en la **calle** y un hombre se baja de un auto con lo que sería un **ramo de flores.**
+
+La mujer, un poco desconcertada, camina unos pasos, alejándose de la puerta de la casa, mientras el auto negro se parquea a su lado de la vereda.
+
+Luego, otro hombre se baja del auto de forma apresurada.
+
+Los **dos hombres** forzaron a la mujer a subirse al carro sin placas, mientras ella gritaba varias veces por auxilio.
+
+Cuatro **vecinos** intentaron alcanzar al automotor, mientras este paraba para esperar a uno de los secuestradores que tropezó y se cayó en media calle.
+
+Una **sirena** sonó por varios segundos y uno de los vecinos lanzó una piedra.
+
+El video difundido en redes sociales llega hasta ese momento.
+
+Fuentes de la Policía informaron que la mujer fue liberada al sur de la ciudad, en Chillogallo.
+
+‘Dibu’ Martínez es sancionado por la FIFA por ‘malcriado’
+=========================================================
+
+Emiliano Martínez es una de las caras principales y figuras de la Selección de Argentina.
+-----------------------------------------------------------------------------------------
+
+![Emiliano Martínez es suspendido por la FIFA por conducta inapropiada.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T174858.631.jpg)
+
+Se acabaron las risas y los juegos para **Emiliano ‘Dibu’ Martínez**. El arquero de la selección argentina recibió una dura sanción de la FIFA, lo que le impedirá acompañar a sus compañeros en las próximas fechas de las eliminatorias sudamericanas.
+
+El ‘Dibu’ fue **suspendido por dos partidos**, lo que significa que no será elegible para Lionel Scaloni, técnico de Argentina, en los enfrentamientos ante Venezuela y Bolivia, parte del proceso clasificatorio al Mundial.
+
+### Más noticias:
+
+* [Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC](https://www.elcomercio.com/deportes/jhon-espinoza-barcelona-sc-seleccion-ecuador.html "Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC")
+* [Enner Valencia enamora a la Conmebol en las eliminatorias sudamericanas](https://www.elcomercio.com/deportes/futbol/enner-valencia-enamora-a-la-conmebol-en-las-eliminatorias-sudamericanas.html "Enner Valencia enamora a la Conmebol en las eliminatorias sudamericanas ")
+* [¿Cuándo juega Argentina en las eliminatorias?](https://www.elcomercio.com/deportes/futbol/cuando-juega-argentina-eliminatorias-colombia.html "¿Cuándo juega Argentina en las eliminatorias?")
+
+Motivo de la sanción
+--------------------
+
+Según informó la **Asociación del Fútbol Argentino** (AFA) en su página oficial, a pesar de los intentos de defensa por parte de la federación y del propio jugador, la Comisión Disciplinaria de la FIFA consideró al ‘**Dibu’ culpable de “comportamiento ofensivo”** y de violar los principios del juego limpio en los partidos contra Chile y Colombia, correspondientes a las eliminatorias mundialistas.
+
+El comunicado explica que la sanción es de dos partidos y que se aplicará en los próximos encuentros oficiales de la selección argentina.
+
+La AFA manifestó estar “absolutamente en desacuerdo con la decisión tomada” por la FIFA.
+
+> [#Eliminatorias](https://twitter.com/hashtag/Eliminatorias?src=hash&ref_src=twsrc%5Etfw)🏆 La FIFA dio a conocer la sanción impuesta al arquero de la Selección [@Argentina](https://twitter.com/Argentina?ref_src=twsrc%5Etfw), Emiliano Martínez.  
+>   
+> 📝 [https://t.co/JuhOpn5EbK](https://t.co/JuhOpn5EbK) [pic.twitter.com/MJvmO2OrX4](https://t.co/MJvmO2OrX4)
+> 
+> — AFA (@afa) [September 27, 2024](https://twitter.com/afa/status/1839782311774015684?ref_src=twsrc%5Etfw)
+
+¿Qué hizo el ‘Dibu’?
+--------------------
+
+El 5 de septiembre, durante el partido entre Argentina y Chile, el **‘Dibu’ repitió un gesto obsceno similar al que realizó tras ganar la Copa América** y también durante la celebración del Mundial de Catar 2022. El arquero colocó el trofeo frente a sus genitales, un acto que la FIFA ha castigado duramente.
+
+Además, el 10 de septiembre, tras la derrota de Argentina 2-1 ante Colombia, Martínez protagonizó otro incidente. Mientras saludaba a algunos rivales en el campo, entre ellos su compañero de club Jhon Durán, **golpeó intencionalmente una cámara que lo enfocaba.**
+
+Las cámaras de televisión captaron el momento, y el video fue rápidamente compartido en redes sociales, donde muchos hinchas colombianos lo interpretaron como un gesto de mal perdedor.
+
+> ATENCIÓN. DIBU MARTÍNEZ SERÍA SANCIONADO POR LA FIFA 🚨  
+>   
+> El arquero argentino no estaría en los próximos dos partidos de Eliminatorias por sus gestos en los duelos ante Colombia y Chile.  
+>   
+> ¿Opiniones?[pic.twitter.com/VTTJH2MN89](https://t.co/VTTJH2MN89)
+> 
+> — Pablo Giralt (@giraltpablo) [September 27, 2024](https://twitter.com/giraltpablo/status/1839780265717313762?ref_src=twsrc%5Etfw)
+
+Próximos partidos de Argentina
 ------------------------------
 
-En el caso de **Guayaquil**, los apagones del 30 de septiembre al 4 de octubre serán de 00:00 a 02:00, 06:00 a 09:00, 14:00 a 18:00 y 23:00 a 24:00.
+Argentina enfrentará a **Venezuela** el 10 de octubre como visitante y a **Bolivia** el 15 de octubre en condición de local.
 
-Entre los sectores están: calles **Clemente Ballén** y Tulcán, Aguirre, Luque, Lorenzo de Garaycoa, Sucre, 9 de Octubre, Rumichaca y Asisclo Garay.
+La ‘Albiceleste’ lidera las eliminatorias sudamericanas con 18 puntos, dos más que Colombia y tres más que Uruguay.
 
-Ciudadela Universitaria, Bolivariana, Orellana (manzanas 74, 76-82, 84, 67, 68, 70) **9 de Octubre**, Tungurahua, Lizardo García, Aguirre y Asisclo Garay.
+Biden y Zelenski se reunieron en la Casa Blanca
+===============================================
 
-**Malecón del Salado**, Puente 5 de Junio, Km. 1 de la Avenida Carlos Julio Arosemena, Ciudadela Ferroviaria, **Urdesa Central**, Las Monjas, Víctor Emilio Estrada, Circunvalación Sur, Bellavista, Universidad Católica, La Fuente, María de las Lomas, Sol Naciente, Nueva Esperanza (N-O), Los Tigres y los Ciruelos, entre otros.
+Los dos líderes realizaron breves declaraciones a la prensa en el Despacho Oval antes de iniciar la reunión.
+------------------------------------------------------------------------------------------------------------
 
-Hay otros sectores que experimentarán apagones. Estos se pueden ver a través del **sistema habilitado**.
+![Joe Biden en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/joe-biden-19-julio.jpg)
 
-En Esmeraldas
--------------
+El presidente de Estados Unidos, [Joe Biden](https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html "https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html"), y su homólogo ucraniano, **Volodímir Zelenski,** se reunieron el jueves, 26 de septiembre de 2024, en la Casa Blanca con el objetivo de coordinar un plan para acelerar la entrega de armamento a Ucrania antes de que el líder estadounidense deje el cargo en enero de 2025.
 
-En la **Provincia Verde**, los apagones tendrán varios intervalos. Por ejemplo, de 00:00 a 05:00 y de 10:00 a 15:00, entre otros.
+### Más noticias
 
-En Imbabura
------------
+* [Biden advirtió en la ONU que ‘la IA va a cambiar nuestro modo de vida’](https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html "Biden advirtió en la ONU que ‘la IA va a cambiar nuestro modo de vida’")
+* [Zelenski en reunión con Trump consideran que guerra en Ucrania debe acabar](https://www.elcomercio.com/actualidad/mundo/zelenski-reunion-trump-tenemos-opinion-comun-guerra-ucrania-debe-acabar.html "Zelenski en reunión con Trump consideran que guerra en Ucrania debe acabar")
+* [Joe Biden firma un decreto para impulsar trabajos dignos](https://www.elcomercio.com/actualidad/mundo/joe-biden-firma-decreto-impulsar-trabajos-dignos.html "Joe Biden firma un decreto para impulsar trabajos dignos ")
 
-Cortes de agua en Quito en más de 100 barrios este 27 y 28 de septiembre
-========================================================================
+Los dos líderes realizaron **breves declaraciones a la prensa en el Despacho Oval** antes de iniciar la reunión, que se produjo solo unas horas después de que la Casa Blanca anunciara un nuevo paquete de ayuda militar a Ucrania valorado en 8 000 millones de dólares, que incluye bombas capaces de alcanzar blancos rusos a 130 kilómetros de distancia.
 
-Cortes de agua en Quito por reparación emergente en el canal del Pita afectarán zonas abastecidas por la planta Puengasí.
--------------------------------------------------------------------------------------------------------------------------
+“**Rusia no prevalecer**á. Ucrania prevalecerá, y continuaremos apoyándote en cada paso del camino”, prometió Biden a Zelenski, quien vestía su habitual atuendo militar de color verde oliva.
 
-![Cortes de agua en Quito debido a reparación del canal del Pita afectarán varias zonas este fin de semana.](https://www.elcomercio.com/wp-content/uploads/2024/09/agua.png)
+**Biden ofreció detalles de ese paquete de ayuda**, que contiene asistencia militar previamente aprobada por el Congreso y que será entregada a Ucrania antes de que asuma un nuevo presidente, tras las elecciones del 5 de noviembre en las que se enfrentarán la vicepresidenta Kamala Harris y el exmandatario Donald Trump.
 
-La **Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps-Agua de Quito)** ha anunciado la **suspensión temporal del servicio de agua potable** en la planta de tratamiento Puengasí. Esta medida se toma debido a la reparación emergente de**l canal del Pita**, que abastece de agua a dicha planta.
+“Para cuando termine mi mandato, que es el 20 de enero, habremos fortalecido la posición de Ucrania en futuras negociaciones”, aseveró Biden.
 
-Más noticias
-------------
+La estrategia de Estados Unidos ha sido fortalecer a Ucrania en la guerra contra Rusia ante la posibilidad de que se produzcan negociaciones en el futuro, con el objetivo de que **Kiev tenga una posición sólida** y pueda hacer las menos concesiones posibles.
 
-* [75 barrios de Quito afectados con cortes de agua esta semana](https://www.elcomercio.com/actualidad/quito/barrios-quito-cortes-agua-semana.html "75 barrios de Quito afectados con cortes de agua esta semana")
-* [Sequía en Ecuador obliga a cortes de agua de hasta 12 horas en Quito](https://www.elcomercio.com/actualidad/quito/sequia-ecuador-obliga-racionamientos-agua-cortes-hasta-12-horas.html "Sequía en Ecuador obliga a cortes de agua de hasta 12 horas en Quito")
-* [Horarios de los cortes de agua en Quito este martes 24 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-martes-24-septiembre-horarios.html "Horarios de los cortes de agua en Quito este martes 24 de septiembre")
+Una de las peticiones que Zelenski hará a Biden, y que lleva planteando desde hace meses, es la **autorización del uso de misiles** de largo alcance estadounidenses o fabricados con componentes estadounidenses para que Kiev pueda atacar objetivos dentro de Rusia, a lo que Washington se resiste por temor a provocar una escalada con Moscú.
 
-La suspensión iniciará a partir de las **13h00 del viernes 27 de septiembre y se extenderá hasta las horas de la noche del sábado 28 de septiembre**.
+“Hoy vamos a discutir los detalles de este plan y cómo coordinar nuestras posiciones, su uso y enfoque. Nuestros equipos trabajarán juntos para asegurar la **implementación de nuestros futuros** pasos”, dijo Zelenski.
 
-Trabajos en el canal del Pita
------------------------------
+En una rueda de prensa previa al encuentro, la portavoz de la Casa Blanca, Karine Jean-Pierre, afirmó que no se espera que Biden haga hoy ningún anuncio sobre la autorización a Ucrania para el uso de misiles.
 
-El equipo técnico y operativo de Epmaps, compuesto por una**s 120 personas**, se encuentra trabajando en la reparación de 72 metros del canal, tras la detección de un daño en la estructura.
+Este es el undécimo encuentro entre Biden y Zelenski, y l**a quinta visita del líder ucraniano** a Washington desde el inicio de la invasión rusa de Ucrania en febrero de 2022.
 
-> 📄 [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Atendemos este imprevisto por nuestros equipos profesionales con inmediatez y celeridad que requiere la situación. Mientras tanto, se ha dispuesto la distribución de agua mediante tanqueros en las zonas afectadas.  
->   
-> Agua de Quito agradece la comprensión ciudadana.… [pic.twitter.com/kWnyFrARM4](https://t.co/kWnyFrARM4)
+Zelenski tiene previsto reunirse posteriormente con la vicepresidenta Harris, con quien hará declaraciones a la prensa. 
+
+Cubeto para tratar residuos fue inaugurado en Quito
+===================================================
+
+El cubeto 11 forma parte del nuevo Complejo Ambiental que remplazará al relleno sanitario de El Inga.
+-----------------------------------------------------------------------------------------------------
+
+![El relleno sanitario El Inga será remplazado por un nuevo parque](https://www.elcomercio.com/wp-content/uploads/2024/09/cubeto.jpg)
+
+El **Municipio de Quito** realizó la inauguración del **cubeto 11**, que servirá para un mejor tratamiento de los residuos sólidos.
+
+La Empresa Metropolitana de Gestión Integral de Residuos Sólidos (**Emgirs**) comenzó con su construcción en noviembre de 2023; la obra fue entregada este viernes 27 de septiembre de 2024 con la presencia del alcalde **Pabel Muñoz** y otras autoridades.
+
+### Más noticias
+
+* [Fuertes lluvias con tormentas eléctricas en Quito, la tarde de este viernes](https://www.elcomercio.com/actualidad/quito/fuertes-lluvias-tormentas-quito-viernes.html "Fuertes lluvias con tormentas eléctricas en Quito, la tarde de este viernes")
+* [¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?](https://www.elcomercio.com/actualidad/quito/fiscalia-procesa-otro-implicado-incendio-forestal-quito.html "¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?")
+* [Cortes de agua en Quito en más de 100 barrios este 27 y 28 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-agua-en-quito-100-barrios-27-septiembre.html "Cortes de agua en Quito en más de 100 barrios este 27 y 28 de septiembre")
+
+El área de este nuevo cubeto abarca **cuatro hectáreas**, donde se prevé depositar alrededor de **dos millones de toneladas** de residuos sólidos.
+
+La piscina de 13 metros de profundidad cuenta con un sistema de **drenaje de lixiviados** (desechos líquidos), que está protegido por una geomembrana de plástico que protege el suelo natural ante cualquier filtración.
+
+El cubeto tendrá una vida útil de **dos años y medio**.
+
+> 🚛♻️[#QuitoSostenible](https://twitter.com/hashtag/QuitoSostenible?src=hash&ref_src=twsrc%5Etfw) | [@EMGIRSEP](https://twitter.com/EMGIRSEP?ref_src=twsrc%5Etfw) entregó el Cubeto 11 que servirá para la disposición final adecuada de residuos sólidos. Además, iniciaron las operaciones del sistema integral tecnológico combinado para el tratamiento de lixiviados.  
+> Con responsabilidad ambiental, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/yIVSIZ8LLs](https://t.co/yIVSIZ8LLs)
 > 
-> — Epmaps – Agua de Quito (@aguadequito) [September 27, 2024](https://twitter.com/aguadequito/status/1839691103701962935?ref_src=twsrc%5Etfw)
+> — Ambiente Quito (@ambientequito) [September 27, 2024](https://twitter.com/ambientequito/status/1839733233287606689?ref_src=twsrc%5Etfw)
 
-La alerta inmediata del personal operativo del Sistema Pita evitó que el **daño se extendiera**, permitiendo iniciar los trabajos de manera preventiva.
-
-Distribución alternativa
+Nuevo Complejo Ambiental
 ------------------------
 
-Mientras se realizan las reparaciones, Epmaps ha dispuesto la distribución de agua mediante tanqueros en las zonas afectadas, que incluyen barrios entre la av. Morán Valverde y la av. Naciones Unidas.
+La obra forma parte del nuevo **Complejo Ambiental** que tendrá Quito, tras el cierre del relleno sanitario **El Inga**, ubicado en el suroriente de la ciudad.
 
-Epmaps informó que agradecía la comprensión ante este imprevisto y asegura que los equipos técnicos están actuando con celeridad para restablecer el servicio lo antes posible.
+Pabel Muñoz habló sobre la importancia de esta obra: “Hoy es el primero de los últimos días del relleno sanitario; esto es un **cambio histórico**“, mencionó.
 
-Barrios de Quito que se quedarán sin agua
------------------------------------------
+El burgomaestre aseguró que en los últimos 16 meses “se ha logrado manejar de manera adecuada los residuos que se producen en Quito”, generando mayor energía eléctrica y **reduciendo el CO₂**.
 
-Más de 100 barios en Quito tendrán cortes de agua este 27 de septiembre de 2024.
+“Hemos pasado de 5 a 9 megavatios de energía eléctrica, con una reducción de 230 000 toneladas de dióxido de carbono (CO₂). Es decir, es como haber retirado de circulación **250 000 vehículos**“, señaló.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/cc-820x1024.png)
+> [#QuitoSostenible](https://twitter.com/hashtag/QuitoSostenible?src=hash&ref_src=twsrc%5Etfw) 🌍 | ¡Estamos transformando la gestión de lixiviados en una oportunidad! Con tecnología de vanguardia, trataremos 800 m³/día, purificando el agua para su uso. Para el próximo año, planeamos limpiar 192.000 m³ acumulados. Además, el nuevo contrato incluye un… [pic.twitter.com/Rg3q1dp692](https://t.co/Rg3q1dp692)
+> 
+> — Emgirs EP (@EMGIRSEP) [September 27, 2024](https://twitter.com/EMGIRSEP/status/1839778646208266528?ref_src=twsrc%5Etfw)
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/ccd-820x1024.png)
+Por su parte, **Santiago Andrade**, gerente general de Emgirs prevé que los lixiviados acumulados disminuyan.
 
-Ecuatoriano Luis Caicedo abandona partido por racismo en Bolivia
-================================================================
+“Se ha logrado el tratamiento de 800 m³/día, de tal forma que, para el próximo, año se estima tratar el pasivo acumulado durante años en el relleno sanitario, pasando de 184 000 m³ de lixiviados acumulados a solo **5 000 m³**”, mencionó.
 
-Luis Caicedo juega su primera temporada en el Always Ready de Bolivia. Llegó desde el Delfín de Manta.
-------------------------------------------------------------------------------------------------------
+En la inauguración también se entregaron **seis nuevos tractocamiones**.
 
-![Luis Caicedo celebra un gol marcado con Always Ready en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/racismo_caicedo_1.jpg)
+Los vehículos se utilizarán para movilizar los residuos y desechos sólidos desde las estaciones de transferencia norte y sur hacia el relleno sanitario.
 
-Un nuevo acto de racismo se suma a la infinita lista en un partido de fútbol. Esta vez la víctima fue el **ecuatoriano Luis Caicedo**, defensa central que juega en el Always Ready de la Primera División de Bolivia.
+El proyecto de la construcción del cubeto 11 tuvo una inversión de **5,1 millones de dólares**.
 
-La noche del jueves 26 de septiembre de 2024, **Luis Caicedo y el Always Ready visitaron al Blooming** por la jornada 16 del Torneo Clausura en el estadio “Gilberto Parada” de Montero, ubicado a 50 kilómetros de San Cruz de la Sierra.
+Ministro de Energía, multas si la barcaza no entrega energía
+============================================================
+
+La barcaza turca volvió a operar, pero pagará multa por no entregar energía durante esta semana de cortes de luz.
+-----------------------------------------------------------------------------------------------------------------
+
+![La barcaza Emre Bey genera más de 100 MW para el Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/emre-bey.jpg)
+
+La barcaza de generación eléctrica, de la empresa turca **Karpowership,** volvió a operar al 100% de su capacidad en plena crisis de cortes de luz. Lo hizo después de registrar una **reducción significativa** en su operación en medio de la **crisis energética** que vive el Ecuador. La sequía y el déficit energético del país obligaron a retomar los cortes de luz a nivel nacional[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
+* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
+* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
+
+Operación de Karpowership
+-------------------------
+
+Este 27 de septiembre, el ministro de Energía, **Antonio Goncalves**, informó que esta compañía que maneja la barcaza tendrá multas por no entregar energía durante los cortes de luz.
+
+La barcaza, denominada **Powership Emre Bey,** tuvo una reducción en la generación eléctrica el 25 de septiembre de 2024. Entregó solo 12 megavatios (MW), en lugar de los 100 MW para lo que fue alquilada.
+
+Actualmente, la embarcación turca está al 100% de su capacidad. La caída en su producción responde a una falla en la entrega de **combustible para su operación**. “Hubo un tema de ellos con su contratista de combustible. Pero ahora está operando perfectamente bien”, dijo Goncalves.
+
+Además, agregó que **habrá multas** contra la compañía de la barcaza por no entregar la energía en plenos cortes de luz, pero no detalló los montos.
+
+Por su parte, la **empresa Karpowership** señaló que las revisiones operativas necesarias relacionados con el inicio de las operaciones, provocaron una reducción temporal de la generación.
+
+“Como empresa, asumimos esta responsabilidad, y la reducción en la generación reportada el 25 de  
+septiembre será compensada de acuerdo con el contrato”, agregó la empresa turca.
+
+Además, agregó que el **Powership Emre Bey** volvió a generar a” pleno rendimiento el 26 de septiembre, y continuará haciéndolo”.
+
+El **Powership Emre Bey** entró en operación comercial el 16 de septiembre del 2024. Con una capacidad de 100 MW, la embarcación apoyará al Sistema Nacional Interconectado durante 18 meses.
+
+El alquiler de esta barcaza forma parte de un conjunto de acciones emergentes para mitigar el déficit energético, que actualmente alcanza los 1 080 MW, según el Operador Nacional de Electricidad (CENACE). El costo del contrato es de 115 millones de dólares.
+
+Campeón de la Liga Básquet Pro podrá jugar la Liga Sudamericana
+===============================================================
+
+La Liga Básquet Pro 2024 se definirá entre Jorge Guzmán y Zamora Jaguars. Será al mejor de siete partidos.
+----------------------------------------------------------------------------------------------------------
+
+![Connor Zinaich (i) y Donald Robinson en la temporada regular de la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/basquet_sudamericano_3.jpg)
+
+El campeón de la **Liga Básquet Pro 2024 de Ecuador** tiene la posibilidad abierta de jugar la Liga Sudamericana de Baloncesto FIBA, un torneo que agrupa a los mejores equipos del continente.
+
+La final de la Liga Básquet Pro se jugará desde el sábado 28 de septiembre entre **Jorge Guzmán de Loja y Zamora Jaguars de la ciudad homónima**, en una serie que se definirá al mejor de siete partidos.
 
 ### Más noticias:
 
 * [El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio](https://www.elcomercio.com/deportes/futbol/campeon-liga-basquet-pro-premio.html "El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio")
-* [Los ‘euroguaguas’ de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/jugadores-europa-euroguaguas-de-la-seleccion-de-ecuador.html "Los ‘euroguaguas’ de la Selección de Ecuador")
-* [Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva](https://www.elcomercio.com/deportes/mushuc-runa-semifinales-libertda-copa-ecuador-cuartos.html "Mushuc Runa va a semifinales de la Copa Ecuador de forma consecutiva")
+* [Kocky y Jaggy también juegan las finales de la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/kocky-jaggy-mascotas-liga-basquet.html "Kocky y Jaggy también juegan las finales de la Liga Básquet Pro")
+* [Jorge Guzmán, el equipo familiar que domina la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/jorge-guzman-liga-basquet-pro.html "Jorge Guzmán, el equipo familiar que domina la Liga Básquet Pro")
 
-El partido terminó empatado 1-1. Para los locales marcó Moisés Villarroel a los 62′, mientras que la visita se adelantó en el marcador a los 28 minutos del primer tiempo.
+Los dos primeros partidos serán en Loja el sábado 28 y lunes 30 de septiembre; el tercero y cuarto el jueves 3 y sábado 5 de octubre en Zamora; el quinto el lunes 7 en Loja; el sexto el jueves 10 en Zamora; y el séptimo el sábado 12 en Loja.
 
-El desarrollo del juego se vio alterado en el cierre del mismo, cuando **Caicedo mencionó que desde una de las localidades del estadio empezó** a recibir insultos racistas, por lo que decidió abandonar el terreno de juego, pese a la insistencia de sus compañeros de que no lo haga.
+Jorge Guzmán es el favorito para coronarse como campeón y sus números lo justifican: **en la temporada regular quedó en segundo puesto**; ganó 16 de 22 partidos; en los cuartos de final ganó 3-0 la llave; y en las semifinales 3-1.
 
-El encuentro se detuvo por unos 15 minutos **y nadie convenció al ecuatoriano para que cambie de decisión**, sin embargo, el juego continuó unos minutos más y finalizó con el marcador empatado 1-1.
+Zamora Jaguars es la sorpresa del torneo y fue de menos a más: en la temporada regular quedó en el octavo puesto; ganó nueve partidos; **el primer play-inn lo perdió; el segundo lo ganó**; en los cuartos de final eliminó a los actuales campeones 3-2; y en semifinales a Liga de Quito 3-1.
 
-“**Que la pelota no se manche por actos racistas**“, fue el mensaje que minutos después colgó en sus redes sociales el equipo del ecuatoriano, acompañado de una fotografía con la inscripción “roja al racismo”.
+El campeón recibirá un premio económico de **20 000 dólares que será entregado en el inicio de la siguiente temporada**, y tendrá en su poder el trofeo todo un año, con la intención de generar más ingresos para el club y fidelizar a más hinchas.
 
-El Ready marcha décimo en la tabla de posiciones con 21 puntos. **El líder es el Bolívar que acumula 17 puntos**. De lejos lo persigue el The Strongest que tiene 30 unidades. Oriente Petrolero es el tercero con 26.
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/basquet_sudamericano_2-1024x683.jpg)
 
-¿Quién es Luis Caicedo?
------------------------
+Foto: Cortesía/Jimmy Calva.
 
-Luis Adrián Caicedo Valencia nació en la costeña provincia de Esmeraldas el 24 de septiembre de 1997.
+La Liga Sudamericana espera al campeón
+--------------------------------------
 
-Tuvo un paso por las categorías inferiores de Emelec, **pero nunca llegó al primer equipo por lo que se marchó** y su carrera arrancó en Atlético Portoviejo de la Segunda División de Manabí.
+La **Liga Básquet Pro aún no es reconocida por la Federación Internacional de Baloncesto (FIBA)**, el organismo que se dedica a regular las normas del baloncesto mundialmente, así como de celebrar periódicamente competiciones y eventos.
 
-Toda su carrera la realizó en equipos de esa provincia. Luego del **Atlético Portoviejo se puso las camisetas Malecón, La Paz y Manta**, siempre en el ascenso del fútbol ecuatoriano entre 2017 y 2020.
+Mario Gordon, presidente de la Liga Básquet Pro, en entrevista con EL COMERCIO, **mencionó que esa realidad está por cambiar**, porque están en conversaciones con la Federación Ecuatoriana de Baloncesto y la FIBA para que el reconocimiento sea viable y se concrete.
 
-En el 2021 el **Delfín, otro equipo manabita**, le abrió sus puertas y lo incluyó en su plantilla para que juegue en la Liga Pro Serie A.
+“A más tardar en uno 20 días esperamos tener el aval de la FIBA y de la Federación”, expresó el directivo el martes 24.
 
-Según Transfermarkt, Caicedo con los de **Manta jugó 61 partido y anotó tres goles**: uno a Liga de Quito, uno a Cumbayá y otro a Aucas.
+Uno de los beneficios que traerá este reconocimiento, según Gordón, es que el campeón podrá representar a **Ecuador en la Liga Sudamericana de Baloncesto FIBA**, que este año se jugará en La Banda (Argentina) y Osorno (Chile) del martes 15 de octubre.
 
-En el 2024 armó maletas y se fue hasta **Bolivia para vivir su primera experiencia internacional** con la camiseta de Always Ready.
+En caso de no concretarse este año, en el 2025 los clubes afiliados a la Liga Básquet Pro tendrán en su calendario abierta la posibilidad de tener actividad internacional.
 
-Lleva jugados 29 partidos y anotó dos goles: Oriente Petrolero por el torneo local, y César Vallejo por la Copa Sudamericana.
+El actual representante de Ecuador en el torneo es Santa María de El Oro, campeón de la **Liga Ecuatoriana de Baloncesto** que tiene el aval de la Federación Ecuatoriana de Básquetbol.
 
-Fue parte del plantel que en esta **competición cayó eliminado en los play-off de los octavos de  
-final** de la Copa Sudamericana ante Liga de Quito.
+Comparte grupo con Español de Osorno (Chile), ABA Ancud (Chile), Nacional (Uruguay) y San Lorenzo  
+(Argentina)
 
-Este partido es recordado porque desembocó en una sanción de **seis partidos en contra del portero ecuatorianos Alexander Domínguez**, inmiscuido en un altercado con uno de los médicos del Always Ready.
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/basquet_sudamericano_1-1024x683.jpg)
 
-![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/09/racismo_caicedo_2-1024x683.jpg)
+Foto: Cortesía/Jimmy Calva.
 
-Foto: Instagram del club.
+Cronograma de las finales
+-------------------------
+
+### Juego 1: Sábado 28/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 2: Lunes 30/09
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 3: Jueves 3/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 4: Sábado 5/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 5: Lunes 7/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 6: Jueves 10/10
+
+20:00 Zamora Jaguars vs. Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 7: Sábado 12/10
+
+20:00 Jorge Guzmán vs. Zamora Jaguars
+
+Coliseo Ciudad de Loja
 
 No te pierdas – El Confesionario
 --------------------------------
 
-‘Una casa bendecida’ apareció en el incendio forestal en Guápulo
-================================================================
+La agenda cultural para este 28, 29 y 30 de septiembre de 2024 en Quito  
+=========================================================================
 
-El incendio forestal de Guápulo dejó varias historias de vida, como la de Jazmín Trujillo, quien defendió su casa con mangueras y baldes de agua.
--------------------------------------------------------------------------------------------------------------------------------------------------
+Este fin de semana en Quito, la agenda cultural incluye actividades para todas las edades.
+------------------------------------------------------------------------------------------
 
-![Un bombero tomó esta foto donde se ve a la casa de Jazmín Trujillo en medio de las llamas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Incendio-forestal-en-Guapulo-casa.jpg)
+![Este fin de semana en Quito: proyecciones, experiencias interactivas, recorridos educativos. Foto: Cortesía Fundación Museos de la Ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/09/agenda-cultural-quito.jpg)
 
-El martes 24 de septiembre de 2024, **Guápulo**, una parroquia situada en el nororiente de **Quito**, fue escenario de un devastador **incendio forestal** que arrasó con todo a su paso. En medio de esta tragedia, Jazmín Trujillo luchó incansablemente para proteger su hogar y a su familia.
-
-Más noticias
-------------
-
-* [Incendio forestal en el barrio Bolaños se combatió con mangueras y baldes de agua](https://www.elcomercio.com/actualidad/quito/incendio-forestal-en-el-barrio-bolanos-fue-combatido-con-mangueras-y-baldes-de-agua.html "Incendio forestal en el barrio Bolaños se combatió con mangueras y baldes de agua")
-* [Incendio forestal en el cerro Auqui fue controlado](https://www.elcomercio.com/actualidad/quito/incendio-forestal-cerro-auqui-se-reactiva.html "Incendio forestal en el cerro Auqui fue controlado")
-* [Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-gonzalez-suarez-vecinos.html "Incendio forestal de Guápulo alerta a moradores de la González Suárez, en Quito")
-
-El fuego se acercó tanto a la vivienda que la familia no sabía qué hacer. La noticia llegó a Trujillo por una llamada de sus hijos: las **llamas rodeaban** su **casa**, ubicada en la avenida **Conquistadores**. Al llegar, se encontró con una escena **desoladora**. Aunque la vegetación a su alrededor se consumía con el fuego, su **vivienda** permaneció milagrosamente **intacta**.
-
-La decisión de salvar su casa a pesar del incendio en Guápulo
--------------------------------------------------------------
-
-Con los bomberos concentrados en otras áreas y la avenida **Simón Bolívar** colapsada, Trujillo tomó una decisión inamovible: no abandonaría su casa sin pelear. Mientras sus hijos y sus padres evacuaban, ella agarró **mangueras** y **baldes** para proteger lo que tanto esfuerzo le había costado construir.
-
-“Fue una lucha cuerpo a cuerpo”, recuerda Trujillo. Cuando los **bomberos** finalmente llegaron, **Trujillo** y sus vecinos ya se habían unido para **combatir el fuego** con lo que tenían a mano.
-
-Contra todo pronóstico, lograron salvar su casa. Tras observar el milagro, uno de los bomberos le dijo: “**Su casa está bendecida**”. Y no era para menos: mientras otras propiedades se destruyeron en el fuego, la suya resistió sin tener un solo daño.
-
-Sin embargo, más abajo, una bodega fue **devorada por las llamas**, y algunas personas mayores fueron rescatadas.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAZuPTiPeVh/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DAZuPTiPeVh/?utm_source=ig_embed&utm_campaign=loading)
-
-La fuerza de la comunidad
--------------------------
-
-**Guápulo** demostró ser una comunidad resiliente en medio del caos. **Cecilia Galarza**, otra vecina del sector, destacó el papel crucial de los jóvenes para **controlar el incendio**. “Sin ellos, todo habría sido peor”.
-
-Con **mangueras** y **baldes** en **mano**, los vecinos trabajaron codo a codo con los **bomberos**. A pesar del denso humo que dificultaba la respiración, nadie se rindió.
-
-“Los **bomberos** hicieron su trabajo, pero nosotros también. El fuego estaba demasiado cerca”, comenta **Galarza**, mientras observa lo que queda de la **quebrada**. Lo que antes era un exuberante **paisaje verde**, ahora es una **extensión gris** y **devastada**.
-
-Un futuro en Guápulo
---------------------
-
-Dos días después del incendio, el 26 de septiembre de 2024, **Guápulo** seguía mostrando las cicatrices del **desastre**. **Jazmín Trujillo**, mientras inspeccionaba los alrededores de su casa, sentía alivio por haber salvado su hogar. Sin embargo, no podía evitar reflexionar sobre lo vulnerable que es la vida frente a este tipo de catástrofes.
-
-Pese a la devastación, los habitantes de **Guápulo** no tienen intención de abandonar el lugar que ha sido su hogar durante generaciones. Para muchos, como **Cecilia Galarza**, esta experiencia reforzó los lazos comunitarios. “Nos salvamos unos a otros”, dice con orgullo.
-
-El incendio en **Guápulo** dejó cicatrices profundas en la **tierra** y en las personas, pero también reveló el poder de una **comunidad unida**, decidida a luchar y a sobrevivir, incluso en las **situaciones** más **extremas**.
-
-Zelenski en reunión con Trump consideran que guerra en Ucrania debe acabar
-==========================================================================
-
-Trump dijo que "en algún momento" el conflicto "tiene que terminar, ya que el país europeo está pasando por un "infierno".
---------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía del presidente de Ucrania, Volodímir Zelenski. EFE/Ting Shen](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efec129e615eaf98cfe280fdcc500ca99115070ccffw.jpg)
-
-El presidente de Ucrania, [Volodímir Zelenski](https://www.elcomercio.com/actualidad/mundo/zelenski-empieza-un-viaje-crucial-a-eeuu-con-una-visita-a-una-fabrica-de-municion.html "https://www.elcomercio.com/actualidad/mundo/zelenski-empieza-un-viaje-crucial-a-eeuu-con-una-visita-a-una-fabrica-de-municion.html"), posó este viernes, 27 de septiembre de 2024, junto al candidato republicano de EE.UU., **Donald Trump**, antes de una reunión entre los dos y el mandatario ucraniano dijo a la prensa, en presencia de Trump, que ambos tienen “una opinión común de que la guerra en Ucrania debe detenerse”.
+**Este fin de semana**, Quito ofrece una **variada agenda cultural**. El **Centro de Arte Contemporáneo** presenta proyecciones continuas sobre **cultura urbana** y un conversatorio sobre el arte gráfico en espacios públicos.
 
 ### Más noticias
 
-* [Zelenski empieza un viaje crucial a EE.UU. con una visita a una fábrica de munición](https://www.elcomercio.com/actualidad/mundo/zelenski-empieza-un-viaje-crucial-a-eeuu-con-una-visita-a-una-fabrica-de-municion.html "Zelenski empieza un viaje crucial a EE.UU. con una visita a una fábrica de munición")
-* [Defensa de Donald Trump pide anular condena de 450 millones de dólares por fraude](https://www.elcomercio.com/actualidad/mundo/defensa-trump-pide-anular-condena-450-millones-dolares-fraude-nueva-york.html "Defensa de Donald Trump pide anular condena de 450 millones de dólares por fraude")
-* [Campaña de Donald Trump confía en el apoyo de los latinos](https://www.elcomercio.com/actualidad/mundo/campana-donald-trump-confia-apoyo-latinos.html "Campaña de Donald Trump confía en el apoyo de los latinos")
+* [La agenda para este 20, 21 y 22 de septiembre de 2024 en Quito](https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html "https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html") 
+* [La agenda cultural para este 13, 14 y 15 de septiembre de 2024 en Quito](https://www.elcomercio.com/tendencias/entretenimiento/musica-teatro-agenda-cultural-2024-quito.html "https://www.elcomercio.com/tendencias/entretenimiento/musica-teatro-agenda-cultural-2024-quito.html")
 
-“Creo que tenemos una **visión común** de que la guerra en Ucrania tiene que detenerse, y (el presidente ruso Vladímir) Putin no puede ganar, y **Ucrania tiene que prevalecer.** Y quiero discutir con usted los detalles de nuestro plan”, apuntó Zelenski desde la Torre Trump en Manhattan antes de que celebraran su reunión a puerta cerrada.
+El **Museo Interactivo de Ciencia** invita a explorar **CataPLUM**, una experiencia sobre **energía y catapultas**. En el **Museo de la Ciudad** habrá recorridos por **exposiciones temporales** y reflexiones sobre el cuidado comunitario. Además, el **Yaku Parque Museo del Agua** organiza **talleres de reciclaje creativo.**  
 
-Por su parte, Trump dijo que “en algún momento” el **conflicto “tiene que terminar,** ya que el país europeo está pasando por un “infierno”.
+**La agenda cultural para este fin de semana** 
+-----------------------------------------------
 
-Ninguno de los dos aludió a las diferentes visiones que tienen para propiciar el fin de la guerra.
+**Centro de Arte Contemporáneo** 
+---------------------------------
 
-“**Tenemos una muy buena relación**, y también tengo una muy buena relación, como usted sabe, con el presidente Putin. Y creo que si (los republicanos) ganamos (las elecciones), vamos a resolver (el conflicto) muy rápidamente”, anotó Trump, pero no ofreció detalles sustanciales sobre cómo negociaría la paz entre Ucrania y Rusia-
+### **Proyecciones continuas videos sobre cultura urbana**  
 
-La última vez que **Zelenski y Trump se reunieron fue en 2019,** cuando el republicano estaba en el Despacho Oval.
+En el marco de la exposición temporal **‘Siempre efímeros, nunca sin memoria’**, se invita a explorar los **archivos y registros audiovisuales** que documentan la **cultura urbana y las expresiones del arte gráfico** en espacios públicos. Además, se llevará a cabo un conversatorio que resaltará la **relevancia de esta práctica artística**, se destacará el valor de estos registros en la **memoria del arte callejer**o en Ecuador. 
 
-Zelenski, quien se dirigió a la **Asamblea General de las Naciones Unidas** esta semana, está en Estados Unidos pidiendo un mayor apoyo en la lucha de su país contra Rusia, algo a lo que Trump se ha mostrado repetidamente reacio.
+Fecha: sábado 28 de septiembre de 2024.  
 
-El mandatario europeo se reunió ayer en Washington con el presidente Joe Biden, y la vicepresidenta y candidata demócrata Kamala Harris.
+Hora: de 3:00 pm a 4:30 pm.  
 
-Harris, en un **evento en la Casa Blanca** el jueves, prometió el continuo apoyo estadounidense a la defensa de su país contra la invasión rusa.
+Dirección: Montevideo y Luis Dávila, Barrio San Juan. Antiguo Hospital Militar. 
 
-Desilusión en Medellín por una violenta pelea entre hinchas
-===========================================================
+**Museo Interactivo de Ciencia** 
+---------------------------------
 
-Una pelea entre hinchas conmociona al mundo del fútbol en Colombia. La violencia sigue reinando en los estadios.
-----------------------------------------------------------------------------------------------------------------
+### **Visite CataPLUM**  
 
-![Imagen de jugadores de Atlético Nacional de Medellín durante un festejo. Al fondo, hinchas del 'Verde'.](https://www.elcomercio.com/wp-content/uploads/2024/09/plantillas-manana-9-1.jpg)
+Visite **Chimbacalle** y disfrute de una **experiencia interactiva y divertida** que le permitirá explorar **conceptos de Física e Ingeniería**. Descubra las **catapultas**, ingeniosos dispositivos utilizados a lo largo de la historia, que el **equipo del MIC** ha recreado para ofrecer una perspectiva única sobre la transformación de la energía. 
 
-Al menos 21 personas, incluido un policía, resultaron heridas en un brote de violencia durante un partido de fútbol de la liga colombiana entre el **Atlético Nacional** y el **Junior de Barranquilla** en el estadio **Atanasio Girardot** de **Medellín**, donde aficionados se enfrentaron en las tribunas, informaron las autoridades.
+Fecha y hora: Sábados y domingos de 9:00 a 5:00 pm, último ingreso 4:00 pm.   
 
-En un informe preliminar sobre los hechos ocurridos en la noche del jueves 26 de septiembre del 2024, el secretario de Seguridad de Medellín, **Manuel Villa Mejía**, apuntó que hay hasta el “momento un policía y 20 hinchas heridos, algunos de los cuales debieron ser trasladados a centros médicos”.
+Dirección: Av. Maldonado y Sincholagua, sector de Chimbacalle. 
+
+**Museo de la Ciudad**   
+-------------------------
+
+### **Recorridos mediados por las exposiciones temporales, Biblioteca y sala Siglo XX**  
+
+Este mes de septiembre, el **Museo de la Ciudad** ofrece recorridos especiales para instituciones educativas y público en general. 
+
+A través de **actividades lúdicas** y con el apoyo del **equipo de mediación**, se explorarán diversos temas en cada sala, para promover el diálogo y la reflexión con un enfoque en el cuidado de los otros, la comunidad y uno mismo. 
+
+Fecha: de miércoles a domingos, durante septiembre de 2024. 
+
+Hora: 10:30, 11:30, 2:00 pm y 3:00 pm. 
+
+Dirección: García Moreno y Calle Rocafuerte (junto al Arco de la Reina). 
+
+**Yaku Parque Museo del Agua** 
+-------------------------------
+
+### **Reciclando sabores**  
+
+Se invita a **participar en un taller educativo** que transformará la **perspectiva sobre los alimentos**. En esta actividad práctica, que tendrá lugar en el **Museo del Agua**, se aprenderá a aprovechar al máximo cada ingrediente y a **reducir el desperdicio de manera creativa**. Se presentarán **diversas técnicas para utilizar cada parte de los alimentos**, desde las cáscaras hasta el interior, que podrán aplicarse en el hogar. Una jornada centrada en descubrimientos sostenibles. 
+
+Fecha: sábado 28 y domingo 29 de septiembre de 2024.  
+
+Hora: de 11:00 a 12:30 y de 2:00 pm a 3:30 pm. 
+
+Dirección: Yaku Parque Museo del Agua. Ingreso Peatonal: El Placer Oe11-271. Ingreso peatonal y vehicular: Bolívar y Rocafuerte.   
+
+**Shalom Mendieta presenta su primer álbum EP ‘Fugaz’** 
+--------------------------------------------------------
+
+La **cantautora guayaquileña Shalom Mendieta** presentará su primer EP titulado ‘Fugaz’, **disponible a partir del lunes 30 de septiembre en todas las plataformas de música**. Este lanzamiento sigue a varios sencillos publicados en años anteriores, que sirvieron como preludio a esta obra. Shalom, con su distintiva sonoridad “fresca latina-caribeña”, compone en géneros como Bolero, Chachachá, Timba, Son Montuno, Salsa y Bachata, fusionándolos con el pop.  
+
+¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?
+================================================================================
+
+Una persona más es procesada por Fiscalía por un incendio en el norte de Quito.
+-------------------------------------------------------------------------------
+
+![Una persona grabó el momento en el que un hombre prendía fuego en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/procesado-incendio.jpg)
+
+Los **incendios forestales** en Quito dejaron personas heridas, pérdidas materiales y afectaciones en el ambiente. Estos empezaron con mayor intensidad el 24 de septiembre de 2024. La Fiscalía abrió casos[.](https://es.wikipedia.org/wiki/Quito)
+
+La **entidad de justicia** procesa a un presunto responsable de uno de los flagelos, producidos en el norte de la capital ecuatoriana.
+
+### Más noticias
+
+* [Incendio en Guápulo, joven involucrado recibe prisión preventiva](https://www.elcomercio.com/actualidad/quito/incendio-guapulo-involucrado-audiencia-fiscalia.html)
+* [Calidad del aire en Quito por incendios forestales se recupera lentamente](https://www.elcomercio.com/actualidad/quito/calidad-aire-quito-recupera-lentamente-incendios.html "Calidad del aire en Quito por incendios forestales se recupera lentamente")
+* [Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito](https://www.elcomercio.com/actualidad/ecuador/gobierno-analiza-declaratoria-emergencia-nacional-incendios-quito.html "Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito")
+* [Responsables de incendios podrían ir a la cárcel por terrorismo](https://www.elcomercio.com/actualidad/quito/responsables-incendios-forestales-quito-carcel-terrorismo.html "Responsables de incendios podrían ir a la cárcel por terrorismo")
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): los elementos de convicción presentados por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) motivaron la resolución del Juez, quien ordenó la prisión preventiva de Jerson Smith C. A., presunto autor del delito de [#IncendiosForestales](https://twitter.com/hashtag/IncendiosForestales?src=hash&ref_src=twsrc%5Etfw) y de vegetación.  
+>   
+> Detalles ⬇️[https://t.co/UQ0oRScTbD](https://t.co/UQ0oRScTbD) [pic.twitter.com/zyz0JFF7QU](https://t.co/zyz0JFF7QU)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 27, 2024](https://twitter.com/FiscaliaEcuador/status/1839776028144865696?ref_src=twsrc%5Etfw)
+
+Fiscalía procesa a persona por incendio
+---------------------------------------
+
+Las autoridades detuvieron al hombre la noche del 25 de septiembre. Se trata de **Jerson Smith C. A**. La audiencia de calificación de flagrancia ya se llevó a cabo.
+
+La **Fiscalía** informó que la persona es procesada por el delito de **incendios forestales** y de vegetación. El Juez que recibió el caso dictó prisión preventiva.
+
+Un video fue uno de los elementos presentados en el proceso. En la audiencia, el Fiscal de turno dijo que la noche de los hechos un ciudadano observó al procesado encendiendo **fuego** en la **av. Eloy Alfaro y Palmeras**.
+
+En la zona, indicó, hay arbustos y vegetación seca. Las llamas se propagaron. Pero, afortunadamente, varias personas apagaron el **incendio**.
+
+Los elementos en el caso
+------------------------
+
+La **Fiscalía** detalló que el denunciante grabó al sospechoso y entregó el video a la Policía. Los agentes ubicaron a **Jerson Smith C. A.** cerca del sitio del incendio.
+
+El hombre vestía prendas similares a las de quien aparece en las imágenes grabadas con un celular.
+
+El video pasó por pericias y fue presentado por **Fiscalía** como uno de sus elementos de convicción en la audiencia de flagrancia.
+
+El **Municipio** también formalizó la denuncia. En el proceso se incluyó la versión del agente de policía que aprehendió al sospechoso.
+
+El gendarme indicó que, durante el registro que se hizo al **Jerson Smith C. A.**, se le encontró una fosforera y cables incinerados.
+
+El Juez y los pasos
+-------------------
+
+De acuerdo con los datos de la **Fiscalía**, el Juez consideró que existen presunciones sobre el cometimiento de un delito. A la par, detalló que el panorama no se complicó por la intervención de los ciudadanos que apagaron el fuego.
+
+Por eso, la autoridad determinó la **prisión preventiva**. Esta se aplicará hasta la audiencia de juicio directo, que se desarrollará a las 09:30, del 17 de octubre de 2024. La instrucción fiscal durará 20 días.
+
+La normativa
+------------
+
+El delito de incendios forestales y de vegetación, tipificado en el artículo 246, inciso primero del **Código Orgánico Integral Penal (COIP)**. La norma define una pena privativa de libertad de uno a tres años.
+
+El juicio por medio de procedimiento directo concentra las etapas del proceso en una audiencia. Este paso se aplica en delitos calificados como **flagrantes**, sancionados con pena máxima privativa de la libertad de hasta 5 años.
+
+Otro procesado por incendio
+---------------------------
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): presunto autor del incendio registrado en [#Guápulo](https://twitter.com/hashtag/Gu%C3%A1pulo?src=hash&ref_src=twsrc%5Etfw) es procesado por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y será juzgado el 17 de octubre de 2024, mediante procedimiento directo.  
+>   
+> Más información ⬇️[https://t.co/vHTPBgNhXp](https://t.co/vHTPBgNhXp) [pic.twitter.com/0Od6O99rur](https://t.co/0Od6O99rur)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 26, 2024](https://twitter.com/FiscaliaEcuador/status/1839446449311953148?ref_src=twsrc%5Etfw)
+
+Además de **Jerson Smith C. A.**, un joven fue aprehendido por presuntamente estar relacionado con el incendio que ocurrió en Guápulo, en Quito.
+
+Este 26 de septiembre, él recibió prisión preventiva. También se aplicará un proceso directo. Se trata de **Dylan Alberto A.**, quien fue implicado tras el testimonio de una vecina.
+
+El joven, por su parte, aseguró que estaba bañándose. En ese momento, evidenció el olor a **humo**, salió e intentó apagar el incendio.
+
+Las opciones de Ecuador en el Mundial de Ruta de Ciclismo
+=========================================================
+
+Pese a las sensibles bajas de dos de sus principales ciclistas, Ecuador espera tener una destacada participación en el Mundial de Ciclismo.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Jefferson Cepeda será uno de los ecuatorianos en el Mundial de Ruta de Ciclismo.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T170002.937.jpg)
+
+El **Mundial de Ciclismo**, que se lleva a cabo en Zúrich, Suiza, desde el 22 de septiembre, se cerrará con la prueba madre: la competencia de ruta masculina, programada para el domingo 29 de septiembre, en la que **Ecuador** estará presente.
+
+Sin embargo, el equipo ecuatoriano llega con algunas ausencias notables. Aunque inicialmente se esperaba contar con seis corredores, incluido Richard **Carapaz** y Jhonatan **Narváez**, ambos terminaron fuera del evento: la ‘Locomotora’ se retiró por motivos personales, mientras que el ‘Lagarto’ se ausenta debido a una lesión.
 
 ### Más noticias:
 
-* [Aumenta el racismo contra futbolistas brasileños](https://www.elcomercio.com/deportes/futbol/aumenta-el-racismo-contra-futbolistas-brasilenos.html "Aumenta el racismo contra futbolistas brasileños")
-* [¿El equivalente a cuántas canchas de fútbol se quemaron en los incendios forestales de Quito?](https://www.elcomercio.com/actualidad/quito/equivalente-cuantas-canchas-futbol-quemaron-incendios-forestales-quito.html "¿El equivalente a cuántas canchas de fútbol se quemaron en los incendios forestales de Quito?")
-* [¿Cuánto ganan los y las futbolistas mejor pagados del mundo?](https://www.elcomercio.com/deportes/futbolistas-mejor-pagados-mundo-masculino-femenino.html "¿Cuánto ganan los y las futbolistas mejor pagados del mundo?")
+* [Fallece Muriel Furrer en una prueba del Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/ciclista-fallecida-mundial-muriel-furrer.html "Fallece Muriel Furrer en una prueba del Mundial de Ciclismo")
+* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
+* [Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/jhonatan-narvaez-baja-mundial-ciclismo.html "Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo")
 
-Asimismo, precisó que, en el minuto 54 del encuentro, en el sector norte del estadio, que hace pocos días albergó juegos del Mundial Femenino Sub-20, se presentó “una **fuerte pelea entre las hinchadas**, que hizo que el partido tuviera que suspenderse” e iniciar la evacuación del escenario de manera controlada.
+Finalmente, los tres ciclistas que representarán a Ecuador en la prueba de ruta del Mundial en Zúrich son **Alexander** **Cepeda** (EF Education-EasyPost), **Jefferson** **Cepeda** (Caja Rural-Seguros RGA), y **Jonathan** **Caicedo** (Petrolike).
 
-Tras el segundo gol del conjunto verdiblanco de Medellín empezaron los enfrentamientos, por lo que “la Policía intervino para el control de la situación” después de unos minutos de pánico entre los asistentes, que incluso dejó heridos con arma blanca.
+Detalles del Mundial de Ciclismo
+--------------------------------
 
-“Habrá sanciones y se tomarán las medidas que se tengan que tomar”, advirtió Villa Mejía.
+La prueba de ruta se llevará a cabo el domingo 29 de septiembre, comenzando a las 03:30 (hora de Ecuador). El **recorrido tendrá una distancia de 273,9 kilómetros**, que se extiende desde Winterthur hasta Zúrich.
 
-Algunos de los heridos fueron inicialmente atendidos por personal de la Cruz Roja en el túnel de ingreso a los camerinos del estadio **Atanasio Girardot** tras las grescas y la caída de personas de las tribunas.
+El trayecto presenta una combinación de **altibajos y variaciones de terreno**, lo que pondrá a prueba la resistencia y capacidad táctica de los ciclistas. Este evento forma parte del calendario internacional y reunirá a algunos de los mejores corredores del mundo.
 
-Una vez se suspendió el partido entre Nacional y Junior “por falta de garantías”, la División Mayor del Fútbol Colombiano (**Dimayor**) rechazó “categóricamente” los actos de violencia que “empañan la fiesta del fútbol” y señaló que en los escenarios deportivos del país debe “prevalecer la sana convivencia”.
+Los favoritos al título
+-----------------------
 
-“Es imposible ver estas escenas, donde la gran mayoría de personas están armadas en un estadio. De verdad es ridículo. Tenemos que trabajar en medidas preventivas que puedan incluir los marcos de detección de metales en los estadios”, declaró a medios locales el presidente de Dimayor, Fernando Jaramillo.
+En esta edición del Mundial de Ruta, competirán figuras de renombre como los españoles Mikel Landa y Enric Mas, el australiano Ben O’Connor, y el esloveno **Primoz** **Roglic**, entre otros.
 
-> 🚨 | ¡VIOLENCIA EN COLOMBIA!  
->   
-> Fuerte pelea entre aficionados de Atlético Nacional y el Junior deja varios hinchas heridos con armas punzocortantes. Este juego se disputaba en en el estadio Atanasio Girardot de Medellín y tuvo que ser suspendido cuando ganaba el local 2-0. [pic.twitter.com/x99xpvY0VV](https://t.co/x99xpvY0VV)
-> 
-> — Emisoras Unidas Deportes (@EUDeportes) [September 27, 2024](https://twitter.com/EUDeportes/status/1839536794913624128?ref_src=twsrc%5Etfw)
+Sin embargo, tres ciclistas destacan como los principales favoritos para alzarse con el título:
 
-Cortes de luz se retoman en Quito este 27 de septiembre de 2024
-===============================================================
+### Mathieu van der Poel (Países Bajos)
 
-En Quito se suspendieron los cortes de luz debido a la emergencia del incendio forestal en Guápulo, que comenzó el martes 24 de septiembre de 2024.
----------------------------------------------------------------------------------------------------------------------------------------------------
+Actual campeón del Mundial de Ruta, **Mathieu** **van** **der** **Poel** parte como uno de los grandes contendientes para repetir su hazaña.
 
-![Ministro de Energía, Antonio Goncalves, dio una rueda de prensa este 27 de septiembre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-22-2.jpg)
+### Remco Evenepoel (Bélgica)
 
-El ministro de Energía, **Antonio Goncalves**, actualizó la situación energética del país, este viernes 27 de septiembre del 2024. El funcionario anunció que los horarios de cortes de luz se mantienen sin modificaciones significativas en todo el Ecuador[.](https://es.wikipedia.org/wiki/Energ%C3%ADa_el%C3%A9ctrica#:~:text=Apag%C3%B3n%20el%C3%A9ctrico,-Un%20corte%20de&text=Puede%20ser%20causado%20por%20el,fallo%20de%20la%20red%20comercial. "https://es.wikipedia.org/wiki/Energ%C3%ADa_el%C3%A9ctrica#:~:text=Apag%C3%B3n%20el%C3%A9ctrico,-Un%20corte%20de&text=Puede%20ser%20causado%20por%20el,fallo%20de%20la%20red%20comercial.")
+Considerado una de las mayores promesas del ciclismo, **Evenepoel** ya fue campeón mundial en 2022 y ha consolidado su estatus como uno de los mejores del pelotón internacional.
+
+### Tadej Pogacar (Eslovenia)
+
+Apodado el “Caníbal”, **Pogacar** es ampliamente reconocido como el mejor ciclista del mundo. A pesar de su impresionante palmarés, aún no ha logrado ganar el Mundial de Ruta, habiendo obtenido el bronce en la edición pasada.
+
+Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas
+=======================================================================================
+
+El Inamhi y Etapa esperan lluvias en Azuay las próximas horas, esto favorecería a la operación de hidroeléctricas como Mazar.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Las lluvias en el Austro incrementarán el caudal de los ríos y favorecerán a Mazar y otras eléctricas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca-sequia-.jpg)
+
+Azuay está a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas, este viernes 27 de septiembre de 2024. Al momento, se presenta nubosidad en el cielo.
+
+El Instituto Nacional de Metereología e Hidrología (Inamhi) y la Red Hidrometeorológica de la Empresa de Telecomunicaciones, Agua Potable, Alcantarillado y saneamiento de Cuenca (Etapa) informaron sobre las condiciones en esta zona.
+
+### Más noticias:
+
+* [Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas](https://www.elcomercio.com/actualidad/negocios/nivel-de-agua-del-embalse-de-mazar-afecta-operacion-de-tres-hidroelectricas.html "Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas")
+* [Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca](https://www.elcomercio.com/actualidad/negocios/conozca-horarios-cortes-luz-27-de-septiembre-cuenca.html "Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca")
+* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
+
+Las lluvias en el Austro son importantes para el funcionamiento del Complejo Paute Integral, compuesto por Mazar, Molino y Sopladora.
+
+Días atrás, el ministro de Energía, Antonio Goncalves señaló que los cortes de luz programados ayudaron a recuperar el embalse de Mazar.
+
+Goncalves también señaló que Ecuador es muy dependiente de la generación hidroeléctrica, es decir, depende de las lluvias.
+
+Azuay a la espera de lluvias que ayuden a Mazar y otras hidroeléctricas, técnicos de Etapa e Inamhi se pronuncian
+-----------------------------------------------------------------------------------------------------------------
+
+Aunque hasta las 16:00 de este viernes 27 de septiembre no llovía en Azuay, Etapa y el Inamhi señalaron que se esperaban lluvias desde esta tarde en la zona.
+
+La Red Hidrometeorológica de Etapa informó que se aproxima humedad atmosférica considerable desde el sureste, aumentando la probabilidad de lluvia esta tarde en la zona.
+
+En la mañana de este viernes, Etapa indicó que los ríos Tomebamba, Yanuncay y Machángara están con caudal bajo.
+
+Además, el río Tarqui continúa en estiaje y la probabilidad de lluvia es del 60%.
+
+Mientras que, el Inamhi señaló que hay “lluvias con tormentas eléctricas en gran parte de la Amazonía y estribaciones de cordillera. Continuarán en las próximas horas y alcanzarán la región Interandina y zonas del Litoral”.
+
+Rigoberto Guerrero, técnico de Etapa, señaló que van 77 días de sequía hidrológica.
+
+“Si bien existen pronósticos que indican que la probabilidad de lluvia es alta, nada garantiza que tenga la intensidad necesaria como para que el caudal de los ríos se recuperen de manera significativa”, dijo.
+
+Añadió que existe nubosidad y vientos, pero, en estos días, lo que ha ocurrido es que esa nubosidad se dispersa.
+
+Al referirse a la operatividad Mazar, Guerrero señaló que los cuatro ríos mencionados aportan cerca del 40% del caudal para la hidroeléctrica.
+
+La técnica del Inamhi, Madelyn Enríquez , manifestó ya hay ingreso de **humedad** en el suroriente del país y eso provocará las lluvias en esa zona.
+
+En las zonas de la Sierra Norte y Centro, hay mayor altitud y esto favorece las lluvias; mientras que, en partes como Cuenca, la altitud es más baja.
+
+Agregó que el pronóstico es que sábado y domingo existan precipitaciones en la Amazonía y en la Sierra.
+
+“Las lluvias ayudan al incremento del caudal, para alcanzar un nivel óptimo, pero necesitamos que siga lloviendo” para que aporte a Mazar y otras hidroeléctricas, dijo.
+
+Juez Guillermo Ortega se excusa de un caso relacionado con la Liga Azul
+=======================================================================
+
+Santiago Becdach alerta sobre la excusa del juez Ortega en caso de la Liga Azul y pide celeridad al TCE para evitar retrasos.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Imagen publicitaria de los candidatos afines al correísmo para el Cpccs.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga-azul.png)
+
+El 27 de septiembre de 2024, el **abogado Santiago Becdach** se pronunció a través de su cuenta en X, sobre la **excusa presentada por el juez Guillermo Ortega** en un caso relacionado con la autodenominada **Liga Azul**.
 
 ### Más noticias
 
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-* [El embalse de la hidroeléctrica Mazar subió un metro](https://www.elcomercio.com/actualidad/negocios/embalse-hidroelectrica-mazar-subio-metro.html "El embalse de la hidroeléctrica Mazar subió un metro")
-* [Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas](https://www.elcomercio.com/actualidad/negocios/nivel-de-agua-del-embalse-de-mazar-afecta-operacion-de-tres-hidroelectricas.html "Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas")
+* [TCE da paso a recurso presentado por consejeros de la ‘Liga Azul’ del Cpccs](https://www.elcomercio.com/actualidad/politica/tce-dio-paso-recurso-consejeros-liga-azul-cpccs.html "TCE da paso a recurso presentado por consejeros de la ‘Liga Azul’ del Cpccs")
+* [Sentencia contra ‘Liga Azul’ del Cpccs se empató con designación de nuevo Fiscal](https://www.elcomercio.com/actualidad/politica/sentencia-liga-azul-cpccs-proceso-designacion-fiscal.html "Sentencia contra ‘Liga Azul’ del Cpccs se empató con designación de nuevo Fiscal")
+* [TCE admite una nueva denuncia contra Aquiles Alvarez](https://www.elcomercio.com/actualidad/politica/tce-admite-una-nueva-denuncia-contra-aquiles-alvarez.html "TCE admite una nueva denuncia contra Aquiles Alvarez")
 
-Además, señaló que los **cortes de luz** se retoman a las 18:00 de este viernes 27 de septiembre, en **Quito**, según el cronograma establecido la semana anterior. En esta planificación constan los horarios desde el lunes 23 hasta el domingo 29 de septiembre de 2024. Revise aquí los horarios para su sector:
+Becdach informó que el día anterior fueron notificados sobre la **excusa del juez Ortega**, sorteado para tramitar la **apelación interpuesta** por esta organización. El abogado afirmó desconocer los motivos de la excusa y expresó su preocupación sobre **posibles demoras en el proceso**.
 
-Cortes de luz en Quito del lunes 23 al domingo 29 de septiembre
----------------------------------------------------------------
+> 🔴 Espero no sea una estrategia para dilatar y propiciar acuerdos políticos inesperados.  
+>   
+> El día de ayer fuimos notificados con auto en el cual se excusa el Juez Guillermo Ortega (no conocemos las razones), quien fue sorteado para tramitar la apelación interpuesta por al… [pic.twitter.com/1jbsoWziq9](https://t.co/1jbsoWziq9)
+> 
+> — Santiago Becdach (@Sbecdach) [September 27, 2024](https://twitter.com/Sbecdach/status/1839624782800617644?ref_src=twsrc%5Etfw)
 
-Cortes de luz desde el 30 de septiembre hasta el 6 de octubre
--------------------------------------------------------------
+En su mensaje, Becdach instó a los miembros del **Tribunal Contencioso Electoral (TCE)** a dar celeridad al caso, argumentando que este proceso es fundamental para el país.
 
-El ministro **Goncalves también** informó que el calendario de racionamiento de electricidad para la semana del 30 de septiembre al 6 de octubre de 2024 ya está disponible para que la ciudadanía pueda tomar las **precauciones** necesarias.
+S**antiago Bechdach** mencionó que los **funcionarios involucrados** en el caso están vinculados a una organización política, lo cual, según él, comprometería la imparcialidad que deben mantener en sus decisiones dentro del Cpccs. Concluyó su publicación exhortando a que no se permita la continuación de lo que denominó una **“agenda de impunidad”**.
 
-Los cronogramas están disponibles en la [página web del Ministerio de Energía](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/"). Allí puede conocer los horarios de los cortes de luz establecidos por cada una de las empresa distribuidora de electricidad del país.
+Contexto del proceso judicial
+-----------------------------
 
-¿Dónde se puede consultar los cortes de luz en Quito?
------------------------------------------------------
+El **proceso judicial** está relacionado con la causa Número. 123-2024-TCE, en la cual **Santiago Becdach y Pamela Troya Báez** presentaron una denuncia por presunta infracción electoral. Esta denuncia fue dirigida contra **Sócrates Verduga Sánchez, Betsy Saltos Rivas, Vielka Párraga Macías y Eduardo Franco Loo**r.
 
-El **Ministerio** de **Energía** y **Minas** del Ecuador informó en un comunicado que la ciudadanía puede consultar el horario de cortes de luz en el siguiente [enlace](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/").
+Según la denuncia, los mencionados habrían incumplido resoluciones del **Consejo Nacional Electoral (CNE)**, conforme al artículo **279 del Código de la Democracia**.
 
-Además. Se habilitó el siguiente correo electrónico [reporteshorarios@energiayminas.gob.ec](mailto:reporteshorarios@energiayminas.gob.ec) donde se atenderán las dudas e inquietudes respecto a los horarios planificados.
+El 24 de septiembre de 2024, se realizó un **sorteo electrónico para designar al juez** que tramitaría el incidente de **excusa presentado por Ortega**. Este sorteo **asignó el caso al juez Joaquín Viteri Llanga**, quien ahora tiene la responsabilidad de **continuar con la sustanciación del proces**o.
 
-Cortes de luz en Quito del 30 de septiembre al 6 de octubre
------------------------------------------------------------
-
-Situación hídrica y energética del Ecuador
+Desarrollo del caso y recursos presentados
 ------------------------------------------
 
-Según datos de la Corporación Eléctrica del Ecuador – Sur, el agua del embalse de **Mazar** llegó a 2 116,85 metros sobre el nivel del mar, a las 09:00 de este viernes 27 de septiembre de 2024. A 36 metros de su máximo que es 2 153.
+El proceso ha tenido varios momentos claves. El 3 de septiembre de 2024, e**l juez Fernando Muñoz Benítez** dictó una sentencia en la que **aceptó la denuncia por infracción electoral muy grav**e. Esta sentencia fue posteriormente **apelada por las partes involucradas**, quienes presentaron varios recursos de **aclaración y ampliación**.
 
-Así, este **embalse** está en su nivel crítico, a menos de dos metros de llegar a su mínimo, que es 2 115, con el que se pierde el control del sistema eléctrico del país, según el ministro de Energía, **Antonio Goncalves**.
+El 6 de septiembre de 2024, tanto **Eduardo Franco Loor** como **Betsy Saltos Rivas**, entre otros, **interpusieron recursos de apelación contra la sentencia**. Estos recursos fueron aceptados el 16 de septiembre de 2024 por el juez **Muñoz Benítez**, quien remitió el expediente para la tramitación de la apelación​.
 
-Este **reservorio de agua** alimenta las hidroeléctricas de la cuenca del **río Paute** y es uno de los más afectados por la **sequía**, que afronta el **Ecuador** y la región.
+Excusa del juez Ortega
+----------------------
 
-Este complejo hidroeléctrico comprende las centrales de: **Mazar, Paute- Molino y Sopladora**. Juntas tienen una capacidad de 1 700 megavatios de potencia. Actualmente está operando con el menos del 50% de sus unidades de generación.
+El 23 de septiembre de 2024, el juez **Guillermo Ortega Caicedo**, quien había sido sorteado para conocer la apelación en segunda instancia, presentó su **excusa para continuar con el caso**. En consecuencia, el TCE realizó un nuevo sorteo el **24 de septiembre de 2024**, asignando la causa al juez Joaquín Viteri Llanga. El expediente ingresó a su despacho el **25 de septiembre de 2024**.
 
-El sábado 21 de septiembre, la cota de Mazar llegó a su nivel más bajo, 2 116,46. Con esa cantidad de agua, el **Gobierno de Daniel Noboa** se vio obligado a retomar los cortes de luz, en todo el país.
+El proceso sigue su curso, y se espera que el **juez Viteri Llanga** continúe con la tramitación de los recursos de apelación interpuestos por las **partes involucradas**.
+
+Willian Pacho y el PSG triunfan y siguen punteros en Francia
+============================================================
+
+Willian Pacho volvió a jugar 90 minutos con el PSG y su equipo se impuso al Stade Rennais en la Ligue One.
+----------------------------------------------------------------------------------------------------------
+
+![Wiliian Pacho en el partido del PSG ante el Stade Rennes.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-27T160454.318.jpg)
+
+Puro desborde, vertiginoso en el regate, imparable en la carrera y, sobre todo, concluyente en el remate, **Bradley Barcola** se reafirmó este viernes como el nuevo fenómeno del **París Saint Germain (PSG)** en la primera temporada sin **Kylian Mbappé**, con una exhibición de todas sus cualidades para golear al Rennes (3-1), reaccionar al empate de la última jornada y trasladar a sus competidores quién es el único favorito a la liga francesa.
+
+El vigente campeón y el actual líder, tres puntos ahora por encima del **Marsella y el Mónaco**, con un encuentro menos, disfruta con su extremo izquierdo de 22 años. Un futbolista decisivo. Ya son seis goles en siete partidos en este curso. Este viernes participó en los tres con los que su equipo superó las dificultades que le propuso su rival en diferentes tramos, por más que el **PSG** jugó con fuego demasiadas veces. Se relajó en exceso.
+
+### Más noticias:
+
+* [Willian Pacho presentó la nueva camiseta del París Saint-Germain](https://www.elcomercio.com/deportes/futbol/willian-pacho-presento-la-nueva-camiseta-del-paris-saint-germain.html "Willian Pacho presentó la nueva camiseta del París Saint-Germain")
+* [Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo](https://www.elcomercio.com/deportes/willian-pacho-piero-hincapie-mejores-mundo.html "Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo")
+* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
+
+Cierto que ya había sido anulado un gol a **Marquinhos** a los dos minutos y 43 segundos por fuera de juego o que **Hakimi** había fallado el 1-0 en un remate repelido por el larguero, tanto como que después, aún con 0-0, era el **Rennes** el dueño de la posesión, del balón y de las posibilidades en el Parque de los Príncipes, más en campo contrario que en su terreno.
+
+Hasta que **Dembele** recuperó la pelota en el medio campo, jugó con **Joao Neves**, éste se la devolvió al extremo que jugó en el Barcelona, quien minutos antes dispuso del 1-0, pero pecó de individualista y que entonces se la entregó a **Barcola**. Controló, se perfiló y soltó el derechazo al otro poste inalcanzable para el portero. El 1-0. Minuto 30. La primera demostración del extremo, nada protagonista en la última Eurocopa disputada en Alemania.
+
+Barcola amplió el marcador del PSG y Willian Pacho estuvo sólido en el fondo
+----------------------------------------------------------------------------
+
+La celebración eufórica de **Luis Enrique** fue descriptiva de la importancia del gol y del momento. No jugó bien el **PSG** ni antes ni durante ni después. Ni funcionó al presión con la soltura y la eficacia que pretende. **Ni siquiera sentía el partido bajo su control**. Por eso, el tanto fue clave para el equipo local, que sentenció a la hora del encuentro[.](https://es.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club "https://es.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club")
+
+De nuevo, **Barcola**. En el 2-0 fue el origen. Su derechazo con rosca formidable se estrelló con violencia en el poste. El rechace lo remachó de cabeza **Kang** in Lee para aportar tranquilidad al conjunto parisino, que, sin exigirse, sin ser el dominador, vencía por 2-0. No por simple inercia, sino porque en sus filas juega un futbolista tan determinante como el extremo lionés, que culminó el 3-0 en el minuto 68 a pase de **Achraf Hakimi** para relucir aún más.
+
+Después dejó su sitio a **Randal Kolo Muani**, a la espera de nuevos desafíos, con el miedo en el cuerpo que le puso el Rennes. Porque primero marcó el 3-1, en un penalti transformado por **Kalimuendo** pero, sobre todo, porque luego apuntó al 3-2, anotado por Seidu ante Safonov, sustituto de **Donnarumma**, pero invalidado por el VAR por una mano en el control. Un alivio para el **PSG**. Una anécdota en la exhibición de Barcola.
+
+Alineaciones del PSG y el Stade Rennes
+--------------------------------------
+
+**París Saint Germain (PSG)**: Safonov; Hakimi, Marquinhos (Skriniar, m. 69), Pacho, Beraldo; Zaire Emery, Joao Neves, Fabián Ruiz (Mayulu, m. 69); Dembele (Mbaye, m. 82), Kang in Lee, Barcola (Kolo Muani, m. 69).
+
+**Rennes**: Mandanda; Assignon (Hateboer, m. 59), Ostigard (Faye, m. 65), Wooh, Seidu, Truffert (Nagida, m. 78); Santamaría (Kamara, m. 65), Matusiwa (Gronbaek, m. 78); Blas, Gouiri; Kalimuendo.
+
+Goles: 1-0, m. 30: Barcola. 2-0, m. 58: Kang in. 3-0, m. 68: Barcola. 3-1, m. 75: Kalimuendo.
+
+Trump confía en que Musk le ayude a ahorrar billones de dólares
+===============================================================
+
+El aspirante republicano apuntó entonces que el objetivo de esa comisión será identificar formas de eliminar el gasto innecesario.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![El expresidente estadounidense y candidato presidencial republicano Donald Trump.](https://www.elcomercio.com/wp-content/uploads/2024/09/Donald-Trump-Efe-2024.jpg)
+
+[Donald Trump](https://www.elcomercio.com/actualidad/mundo/defensa-trump-pide-anular-condena-450-millones-dolares-fraude-nueva-york.html "https://www.elcomercio.com/actualidad/mundo/defensa-trump-pide-anular-condena-450-millones-dolares-fraude-nueva-york.html") confió este viernes, 27 de septiembre de 2024, en que el magnate **Elon Musk** le ayude a ahorrar billones de dólares de dinero público trabajando para él en su eventual Administración.
+
+### Más noticias
+
+* [Propuestas de Harris y Trump sobre inmigración y política fronteriza](https://www.elcomercio.com/actualidad/mundo/harris-contra-trump-proponen-inmigracion-politica-fronteriza.html "https://www.elcomercio.com/actualidad/mundo/harris-contra-trump-proponen-inmigracion-politica-fronteriza.html")
+* [Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU.](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html "Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU. ")
+* [Oficinas de X cierran en Brasil, Elon Musk explicó las razones](https://www.elcomercio.com/actualidad/mundo/oficinas-x-red-social-brasil-musk.html "Oficinas de X cierran en Brasil, Elon Musk explicó las razones")
+
+“Va a ser el que **nos recorte costes.** Creo que podría ahorrar billones”, dijo Trump en un mitin en Walker, en el estado clave de Míchigan.
+
+Trump avanzó a principios de mes que si vuelve al poder tras las **elecciones del 5 de noviembre** creará una comisión de **eficiencia gubernamental,** adoptando así una **idea política q**ue le presentó Musk, uno de sus aliados más estrechos en los últimos tiempos.
+
+El aspirante republicano apuntó entonces que el objetivo de esa comisión será **identificar formas de eliminar el gasto innecesario** y Musk dijo que estaría encantado de ayudar en un organismo de ese tipo, que ha bautizado como Departamento de Eficiencia Gubernamental (DOGE, en las siglas en inglés propuestas por el magnate).
+
+“No creo que pueda tenerle a tiempo completo, porque **está un poco ocupado lanzando cohetes** y todas las cosas que hace”, añadió Trump en Míchigan, según el cual el dueño de X y **el fundador de SpaceX** le ayudará “gratis”.
+
+“Lo va a hacer por nada porque **quiere ver que este país sea grande**. Tener su respaldo es muy grande. Tenemos grandes apoyos, pero permítanme que diga una cosa, que esté implicado va a ser increíble”, dijo.
+
+No obstante, los negocios de Musk podrían interferir en este puesto con **conflictos de intereses,** ya que están regulados por **varias agencias federales.**
+
+La **Administración Nacional de Aeronáutica y del Espacio (NASA)** es uno de los principales clientes de SpaceX. Por otro lado, las **ventas de automóviles** y el negocio de energía de Tesla están subsidiados por créditos fiscales federales, y X está regulada por la Comisión Federal de Comercio. 
+
+Meta anunció inteligencia artificial en Instagram para traducir Reels en tiempo real 
+=====================================================================================
+
+Meta presentó importantes avances en su evento Meta Connect 2024 que no te los puedes perder.
+---------------------------------------------------------------------------------------------
+
+![Meta presentó importantes avances en realidad aumentada e inteligencia artificial. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/meta-inteligencia-artificial.jpg)
+
+**Meta** celebró su esperado **evento anual para desarrolladores**, llamado **Meta Connect 2024,** en el que presentó avances significativos en **realidad aumentada**, mixta e **inteligencia artificial**. Entre los anuncios más importantes se incluyeron las nuevas versiones de sus **gafas inteligentes y la introducción de IA en Instagram**. 
+
+### Más noticias
+
+* [¿Qué es Meta AI en WhatsApp, cómo usarla y cómo desactivarla?](https://www.elcomercio.com/tecnologia/meta-ai-whatsapp-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/meta-ai-whatsapp-inteligencia-artificial.html")
+* [Instagram lanza cuenta para adolescentes](https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html "https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html") 
+
+**Meta revoluciona Instagram**  
+--------------------------------
+
+**Meta** ha dado un paso importante al integrar **inteligencia artificial** en sus productos. Según [Infobae](https://www.infobae.com/tecno/2024/09/26/meta-transforma-los-reels-de-instagram-con-traduccion-en-tiempo-real-gracias-a-la-ia/ "https://www.infobae.com/tecno/2024/09/26/meta-transforma-los-reels-de-instagram-con-traduccion-en-tiempo-real-gracias-a-la-ia/"), la empresa anunció una **nueva función que permitirá traducir y doblar automáticamente los videos de Reels en Instagram**.  
+
+Esta tecnología, impulsada por **Meta AI**, ofrecerá **traducciones a varios idiomas**, como inglés y español, con la promesa de **mantener la calidad visual del contenido.** 
+
+**Inteligencia artificial aplicada a Instagram y WhatsApp** 
+------------------------------------------------------------
+
+Una de las características más llamativas de las novedades de **Meta AI** es su capacidad para **doblar el audio de videos de forma automática**. Además, se prevé que esta tecnología se integre con **WhatsApp**, donde **los usuarios podrán enviar audios en un idioma y permitir que el receptor los escuche en otro**. Esto promete revolucionar la forma en que los usuarios se comunican en ambas plataformas. 
+
+**Cómo funcionará la traducción automática en Reels** 
+------------------------------------------------------
+
+La tecnología detrás de esta función se basa en **Llama 3.2**, la última versión del **modelo de inteligencia artificial de Meta**. Al traducir un video de Reels, **Meta AI** toma la voz original del creador y **genera una versión en el idioma seleccionado**. 
+
+Lo innovador es que **Meta AI** también **sincroniza los labios del creador en el video**, al ajustar el movimiento de la boca para que coincida con las palabras en el idioma traducido. Esto ofrece una **experiencia mucho más realista** en comparación con otros sistemas de doblaje. 
+
+**Ejemplos en el evento Meta Connect 2024** 
+--------------------------------------------
+
+Durante el evento **Meta Connect 2024**, se realizaron demostraciones de esta tecnología. Un ejemplo destacado fue el video de la creadora **Dana Buttigliero**, conocida como **Sabores del Conurbano**. En el video, Buttigliero preparaba un postre con banana y dulce de leche, y **la IA tradujo su voz al inglés**. Aunque se observaron pequeños errores, como la pronunciación de “dulce de leche”, **la traducción fue bastante precisa**. 
+
+Otro caso interesante fue el del creador **Iván Acuña**, conocido como **artificialmente.ia.** En su video, donde hablaba directamente a la cámara, **la sincronización de los labios fue particularmente notable**, lo que mostró el potencial de la IA para **traducir diálogos extensos con fluidez**. 
+
+**Disponibilidad limitada de la nueva función de Meta** 
+--------------------------------------------------------
+
+Por ahora, **esta función está en fase de pruebas**. De acuerdo con Infobae, **estará disponible inicialmente para creadores de contenido** en Estados Unidos y América Latina. Aunque no hay fechas exactas para su expansión, **Mark Zuckerberg**, CEO de Meta, indicó que **la empresa planea lanzarla en más países** e idiomas en los próximos meses. 
+
+Inicialmente, solo **se ofrecerán traducciones en inglés y español**, pero Meta ha adelantado que **añadirá soporte para otros idiomas en el futuro**. Esta función busca eliminar barreras lingüísticas y mejorar la accesibilidad en plataformas como Instagram y WhatsApp. 
+
+**Las nuevas gafas inteligentes Orion de Meta** 
+------------------------------------------------
+
+**Meta** también presentó su **prototipo de gafas de realidad aumentada** llamado **Orion**, con el que busca cambiar la **interacción digital**. A decir de [Ámbito](https://www.ambito.com/tecnologia/meta-presento-las-nuevas-gafas-inteligentes-orion-un-casco-realidad-virtual-y-novedades-ia-n6063997 "https://www.ambito.com/tecnologia/meta-presento-las-nuevas-gafas-inteligentes-orion-un-casco-realidad-virtual-y-novedades-ia-n6063997"), estas gafas destacan por su avanzada tecnología y diseño ergonómico, y prometen ser un dispositivo clave en el mundo digital. 
+
+**Gafas Orion: la interacción con hologramas** 
+-----------------------------------------------
+
+Durante el evento, el CEO de Meta, **Mark Zuckerberg**, siguiendo con Ámbito, reveló que las **gafas inteligentes Orion** permitirán a los usuarios **interactuar con el entorno físico a través de hologramas superpuestos**. Aunque todavía se encuentran en desarrollo y no están disponibles comercialmente, **Meta mostró un prototipo funcional** con un marco algo grueso. 
+
+**Tecnología avanzada en las gafas Orion** 
+-------------------------------------------
+
+A simple vista, las **Orion** parecen gafas comunes, pero en su interior esconden proyectores **micro LED**, que generan imágenes con precisión. Además, cuentan con **inteligencia artificial generativa**, lo que permite la proyección de etiquetas digitales sobre objetos reales y la **interacción con la realidad aumentada**. 
+
+**Conexión y control mediante gestos** 
+---------------------------------------
+
+Para su funcionamiento, las **gafas Orion** deben conectarse a un pequeño dispositivo inalámbrico de procesamiento llamado **“compute puck”**. También **incluyen una pulsera neuronal** que permite controlar el dispositivo mediante gestos manuales, lo que mejora la experiencia de uso. 
+
+Meta busca con **Orion** revolucionar la forma en que interactuamos con el mundo digital, al combinart **realidad aumentada**, **IA** y un diseño pensado para facilitar su uso diario.
