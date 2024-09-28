@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Left: New York Attorney General Letitia James speaks to the media, Nov. 6, 2023, in New York. AP Photo/Ted Shaffrey, File /Center: Justice Engoron. AP Photo/Seth Wenig, File./Right: Former President Donald Trump speaks during a break in closing arguments at New York Supreme Court, Thursday, Jan. 11, 2024, in New York. (AP Photo/Seth Wenig)](https://am21.mediaite.com/lc/cnt/uploads/2024/01/james-trump-1-432x243.jpg)](https://lawandcrime.com/high-profile/the-immense-penalty-in-this-case-is-troubling-appeals-court-highly-skeptical-of-government-and-trial-court-in-trump-civil-fraud-case/)
+1. [![Left: A teen is seen in Detroit Judge Kenneth King's courtroom (WDIV/YouTube). Right: Judge Kenneth King (36th District Court/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Judge-Kenneth-King-432x243.jpg)](https://lawandcrime.com/high-profile/judge-who-ordered-tired-teen-on-field-trip-into-jail-uniform-and-handcuffs-is-now-presiding-over-traffic-cases/)
     
-    ### ['The immense penalty in this case is troubling': Appeals court highly skeptical of government and trial court in Trump civil fraud case](https://lawandcrime.com/high-profile/the-immense-penalty-in-this-case-is-troubling-appeals-court-highly-skeptical-of-government-and-trial-court-in-trump-civil-fraud-case/)
+    ### [Judge who ordered tired teen on field trip into jail uniform and handcuffs is now presiding over traffic cases](https://lawandcrime.com/high-profile/judge-who-ordered-tired-teen-on-field-trip-into-jail-uniform-and-handcuffs-is-now-presiding-over-traffic-cases/)
     
-2. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, top to bottom: Kelly Fontaine poses for a picture taken by Brian Dula inside the U.S. Capitol building on Jan. 6, 2021; Fontaine, left, and Dula (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Kelly-Fontaine-Brian-Dula-432x243.jpg)](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
+2. [![Left: FILE - Kyle Rittenhouse walks along Sheridan Road in Kenosha, Wis., in this Aug. 25, 2020 file photo (Adam Rogan/The Journal Times via AP, File). Right: FILE- Kyle Rittenhouse looks back as attorneys discuss items in the motion for mistrial presented by his defense at the Kenosha County Courthouse in Kenosha, Wis., on Wednesday, Nov. 17, 2021 (Sean Krajacic/The Kenosha News via AP, Pool_File).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Kyle-Rittenhouse-gun-court-432x243.jpg)](https://lawandcrime.com/high-profile/patrolling-the-streets-for-months-kyle-rittenhouse-confidants-reveal-new-details-the-jury-never-knew/)
+    
+    ### ['Patrolling the streets for months': Kyle Rittenhouse confidants reveal new details the jury never knew](https://lawandcrime.com/high-profile/patrolling-the-streets-for-months-kyle-rittenhouse-confidants-reveal-new-details-the-jury-never-knew/)
+    
+3. [![Toby Madden during a courtroom outburst](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Toby-Madden-432x243.jpg)](https://lawandcrime.com/crime/you-got-something-to-say-chaos-erupts-in-courtroom-as-killer-who-stabbed-woman-55-times-takes-closing-arguments-into-his-own-hands-in-angry-outburst/)
+    
+    ### ['You got something to say?': Chaos erupts in courtroom as killer who stabbed woman 55 times takes closing arguments into his own hands in angry outburst](https://lawandcrime.com/crime/you-got-something-to-say-chaos-erupts-in-courtroom-as-killer-who-stabbed-woman-55-times-takes-closing-arguments-into-his-own-hands-in-angry-outburst/)
+    
+4. [![Background: Violent rioters supporting President Donald Trump storm the Capitol in Washington, Wednesday, Jan. 6, 2021 (AP Photo/John Minchillo, File). Inset: Christina Marie Praser-Fair (DOJ court filing).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Christina-Maria-Praser-Fair-Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/we-needed-to-go-tea-shop-owner-who-closed-business-for-emergency-road-trip-to-breach-capitol-on-jan-6-has-no-regrets-feds-say/)
+    
+    ### ['We needed to go': Tea shop owner who closed business for 'emergency road trip' to breach Capitol on Jan. 6 has no regrets, feds say](https://lawandcrime.com/high-profile/we-needed-to-go-tea-shop-owner-who-closed-business-for-emergency-road-trip-to-breach-capitol-on-jan-6-has-no-regrets-feds-say/)
+    
+5. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, top to bottom: Kelly Fontaine poses for a picture taken by Brian Dula inside the U.S. Capitol building on Jan. 6, 2021; Fontaine, left, and Dula (DOJ court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Kelly-Fontaine-Brian-Dula-432x243.jpg)](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
     
     ### ['Donald Trump invited them': Jan. 6 couple who claimed riot was 'staged to silence our voice' now says they answered the call like US soldiers in WWII](https://lawandcrime.com/high-profile/donald-trump-invited-them-jan-6-couple-who-claimed-riot-was-staged-to-silence-our-voice-now-says-they-answered-the-call-like-us-soldiers-in-wwii/)
-    
-3. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/09/William-and-Beverly-Bryan-432x243.jpg)](https://lawandcrime.com/lawsuit/surgeon-who-fired-a-stapling-device-blindly-into-patient-and-removed-the-wrong-organ-killing-him-loses-license/)
-    
-    ### [Surgeon who 'fired a stapling device blindly' into patient and removed the wrong organ, killing him, loses license](https://lawandcrime.com/lawsuit/surgeon-who-fired-a-stapling-device-blindly-into-patient-and-removed-the-wrong-organ-killing-him-loses-license/)
-    
-4. [![Valeria Hamilton, Ethan Belcher, Shane Shelton](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Valeria-Hamilton-Ethan-Belcher-Shane-Shelton-432x243.jpg)](https://lawandcrime.com/crime/i-beat-the-dog-s-out-of-them-mom-and-stepdad-tortured-5-year-old-boy-to-death-and-abused-younger-brother-in-case-that-made-jurors-cry-daily/)
-    
-    ### ['I beat the dog s--- out of them': Mom and stepdad tortured 5-year-old boy to death and abused younger brother in case that made jurors cry daily](https://lawandcrime.com/crime/i-beat-the-dog-s-out-of-them-mom-and-stepdad-tortured-5-year-old-boy-to-death-and-abused-younger-brother-in-case-that-made-jurors-cry-daily/)
-    
-5. [![Inset: Jason Corbett (California Department of Corrections and Rehabilitation). Background: The location Corbett and another member of the Aryan Brotherhood gang killed an inmate at High Desert State Prison in California. (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/09/abmurder-432x243.jpg)](https://lawandcrime.com/crime/aryan-brotherhood-member-used-prison-made-weapon-with-nazi-symbol-to-kill-inmate-who-lied-about-being-in-gang/)
-    
-    ### [Aryan Brotherhood member used prison-made weapon with Nazi symbol to kill inmate who lied about being in gang](https://lawandcrime.com/crime/aryan-brotherhood-member-used-prison-made-weapon-with-nazi-symbol-to-kill-inmate-who-lied-about-being-in-gang/)
     
 
 [](http://eepurl.com/c89Jdb)
