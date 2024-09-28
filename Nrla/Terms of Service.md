@@ -508,7 +508,7 @@ For queries or comments about NRLA Membership and our services, please contact u
 [NRLA Membership Terms
 ---------------------
 
-Last updated: 02/04/2024 at 14:42 - 265.22 KB
+Last updated: 26/09/2024 at 14:41 - 220.25 KB
 
 Download](https://www.nrla.org.uk/download?document=1020 "NRLA Membership Terms")
 
