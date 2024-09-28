@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6903b56e502fcc824ec5ccd73a102d8b
+5d27088523674db60d2a667b53da352d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Blue abstract clasp](https://www.sojourner.biz/images/cache/SKU0266variations.200.jpg)](https://www.sojourner.biz/clasps/glass/blue-abstract-clasp.html "Blue abstract clasp")
+[![8 mm to 10 mm oval pink pearls](https://www.sojourner.biz/images/cache/pearls/PE0040.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-to-10-mm-oval-pink-pearls.html "8 mm to 10 mm oval pink pearls")
 
-#### [Blue abstract clasp](https://www.sojourner.biz/clasps/glass/blue-abstract-clasp.html "Blue abstract clasp")
+#### [8 mm to 10 mm oval pink pearls](https://www.sojourner.biz/beads/pearls/8-mm-to-10-mm-oval-pink-pearls.html "8 mm to 10 mm oval pink pearls")
 
-$24.50
+$7.00
 
 ### Best Sellers
 
@@ -193,12 +193,12 @@ $24.50
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
+8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-10. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+10. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 
 [Top](#)
 
