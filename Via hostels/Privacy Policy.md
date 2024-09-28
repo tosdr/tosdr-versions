@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_66f73241cfa16)
+* [fun from day one!](#tab_66f78019ded26)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66f73241cfa16)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66f78019ded26)
     
-* [fomo no more!](#tab_66f73241cfa29)
+* [fomo no more!](#tab_66f78019ded39)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66f73241cfa29)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66f78019ded39)
     
-* [we’ve got you covered, dude](#tab_66f73241cfa37)
+* [we’ve got you covered, dude](#tab_66f78019ded47)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66f73241cfa37)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66f78019ded47)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,9 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[![You know what time it is, karaoke o'clock!! 🎤🎶 
+What's your go to song?🥰👯‍♀](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAbFTvoN4JU/)
+
 [Thank you @level52dmg for sharing your Amsterdam e ![Thank you @level52dmg for sharing your Amsterdam experience, we love that you spent it with us!!🤩 
 Via is the perfect base for whatever brings you to the city—whether it's a conference, meeting up with friends, or solo exploring! Book your stay through the link in our bio🙌🙏](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAYFC38P5ez/) 
 
@@ -145,9 +148,6 @@ Attention brunch lovers!!! Grab a bloody mary and your pick of eggs benedict or 
 #viaamsterdam #hostellife #youtoo #travellife](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_1AlupufzV/) 
 
 [Why chase the sunset when you can sip on the sunri ![Why chase the sunset when you can sip on the sunrise in the dude bar!🤩💛🍹](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_nJ6zKtBAZ/) 
-
-[![Via’s guide to a perfect day in Amsterdam! What’s your favourite spot?🤩🙌🏼💛
-#amsterdam #amsterdamlife #canalcruise #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_kyzOjNVRY/)
 
 current & upcoming events
 -------------------------
