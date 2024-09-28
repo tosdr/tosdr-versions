@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![History’s Mysteries: The Inquisition](/wp-content/thumbnails/6483-100x70.jpg?x53432)
+* [![The Power and the Glory](/wp-content/thumbnails/8630-100x70.jpg?x53432)
     
-    History’s Mysteries: The Inquisition
+    The Power and the Glory
     
-    This installment of the “History’s Mysteries” series reveals the myths surrounding one of the darkest events in the history of man and religion — the inquisition of thousands of “unbelievers” at the h](https://documentaryheaven.com/historys-mysteries-the-inquisition/ "History’s Mysteries: The Inquisition")
-* [![9/11: THE SENSIBLE DOUBT](/wp-content/thumbnails/6722-100x70.jpeg?x53432)
+    In this journey to the graves of great leaders and heroes dark secrets will emerge.Why was the burial casket of a murdered president cast deep into the atlantic ocean? Could a pit in Syberia hide](https://documentaryheaven.com/power-and-glory/ "The Power and the Glory")
+* [![The Sky at Night, Pluto Revealed](/wp-content/thumbnails/10001-100x70.jpg?x53432)
     
-    9/11: THE SENSIBLE DOUBT
+    The Sky at Night, Pluto Revealed
     
-    What happened September 11, 2001? All over the world, people question the official story and explanation about the events that took place in USA more than 10 years ago. In this Danish documentary you](https://documentaryheaven.com/911-the-sensible-doubt/ "9/11: THE SENSIBLE DOUBT")
-* [![Nuremberg: Nazis on Trial EP1/3](/wp-content/thumbnails/4724-100x70.png?x53432)
+    The revelations about New Horizons recent visit to our dwarf planet Pluto, made headlines and news across the globe. The BBC's, The Sky at Night team were lucky enough to be behind the scenes for the](https://documentaryheaven.com/sky-at-night-pluto-revealed/ "The Sky at Night, Pluto Revealed")
+* [![Oscar Pistorius: What Really Happened?](/wp-content/thumbnails/7062-100x70.jpg?x53432)
     
-    Nuremberg: Nazis on Trial EP1/3
+    Oscar Pistorius: What Really Happened?
     
-    Episode 1: Albert Speer In November 1945, in the German city of Nuremberg, the victors of the World War Two began the first international war crimes trial. The choice of the city was significant for i](https://documentaryheaven.com/nuremberg-nazis-on-trial-1/ "Nuremberg: Nazis on Trial EP1/3")
-* [![Bulgaria’s Abandoned Children](/wp-content/thumbnails/1345-100x70.jpg?x53432)
+    Oscar Pistorius was on top of the world, breaking world records, winning gold in the London 2012 Paralympics, and becoming the first leg amputee to participate in the summer Olympics. But now, he stan](https://documentaryheaven.com/oscar-pistorius-what-really-happened/ "Oscar Pistorius: What Really Happened?")
+* [![Questioning Darwin](/wp-content/thumbnails/9960-100x70.jpg?x53432)
     
-    Bulgaria’s Abandoned Children
+    Questioning Darwin
     
-    The Social Care Home - where 75 unwanted children are growing up - is the main employer in the small village of Mogilino. Few of the children can talk, not necessarily because they are unable but rath](https://documentaryheaven.com/bulgaria%e2%80%99s-abandoned-children/ "Bulgaria’s Abandoned Children")
-* [![Downloading the Devil](/wp-content/thumbnails/9864-100x70.jpg?x53432)
+    For those Christians who believe their Bible is the word of God, the literal truth, one man is held up as the antichrist, he is Charles Darwin, their reasoning?, for leading millions of Christians ast](https://documentaryheaven.com/questioning-darwin/ "Questioning Darwin")
+* [![The Forgotten Soldier](/wp-content/thumbnails/8590-100x70.jpg?x53432)
     
-    Downloading the Devil
+    The Forgotten Soldier
     
-    In this 40 minute documentary we see the bizarre events surrounding the murder of Jennifer Blagg and her daughter Abby by Michael, Jennifer's husband. Michael, it turns out had an unusual&nb](https://documentaryheaven.com/downloading-devil/ "Downloading the Devil")
+    This is a short but intriguing story is about a World War 2 veteran who fought in the British Burma campaign. His story is told via a collection of photographs left behind and the narration itself is](https://documentaryheaven.com/forgotten-soldier/ "The Forgotten Soldier")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
