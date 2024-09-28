@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e5a75b4187976180600e61f51d1ee528
+a4b24f6dc0a2cecbdafc6a14c020cc92
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm clear round beads with primary color accents](https://www.sojourner.biz/images/cache/glass/GL0181.200.jpg)](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
+[![22 mm irregular gold stick pearls](https://www.sojourner.biz/images/cache/pearls/PE0169.200.jpg)](https://www.sojourner.biz/beads/pearls/22-mm-irregular-gold-stick-pearls.html "22 mm irregular gold stick pearls")
 
-#### [4 mm clear round beads with primary color accents](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
+#### [22 mm irregular gold stick pearls](https://www.sojourner.biz/beads/pearls/22-mm-irregular-gold-stick-pearls.html "22 mm irregular gold stick pearls")
 
-$7.00
+$55.00
 
 ### Best Sellers
 
