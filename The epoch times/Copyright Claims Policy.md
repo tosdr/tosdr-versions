@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Harris Vows Stricter Border Policies at Arizona Campaign Event](https://www.theepochtimes.com/us/harris-vows-stricter-border-policies-at-arizona-campaign-event-5731705)
+* [Key State Ballot Measures to Follow This Election](https://www.theepochtimes.com/us/key-state-ballot-measures-to-follow-this-election-5729928)
     
-    1hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg) and [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Harris Vows Stricter Border Policies at Arizona Campaign Event](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Key State Ballot Measures to Follow This Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Vows Stricter Border Policies at Arizona Campaign Event](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731722-Election_2024_Harris_24271837016893-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-vows-stricter-border-policies-at-arizona-campaign-event-5731705)
+    ![Key State Ballot Measures to Follow This Election](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668246-Voting-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-state-ballot-measures-to-follow-this-election-5729928)
+* [Israel Says Hezbollah Leader Killed in Air Strikes](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
+    
+    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts) and [Simon Veazey](https://www.theepochtimes.com/author/simon-veazey)
+    
+    [![Israel Says Hezbollah Leader Killed in Air Strikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Says Hezbollah Leader Killed in Air Strikes](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727074-GettyImages-1762017654.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
 * [After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://www.theepochtimes.com/article/after-watching-hours-of-debates-by-vance-walz-heres-what-to-expect-at-the-vp-debate-5723955)
     
-    2hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    7hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
     [![After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731690-JD-Vance-and-Tim-Walz2-205x123.jpg.webp)](https://www.theepochtimes.com/article/after-watching-hours-of-debates-by-vance-walz-heres-what-to-expect-at-the-vp-debate-5723955)
 * [DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://www.theepochtimes.com/us/doj-sues-alabama-for-voter-roll-purge-program-targeting-noncitizens-5731691)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://img.theepochtimes.com/assets/uploads/2024/03/20/id5611384-GettyImages-2054042827-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-alabama-for-voter-roll-purge-program-targeting-noncitizens-5731691)
 * [Businesses, Lawmakers, Industry Groups Sound Alarm as Port Strike Looms](https://www.theepochtimes.com/us/businesses-lawmakers-industry-groups-sound-alarm-as-port-strike-looms-5731398)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Businesses, Lawmakers, Industry Groups Sound Alarm as Port Strike Looms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Businesses, Lawmakers, Industry Groups Sound Alarm as Port Strike Looms](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731079-GettyImages-2156670225KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/businesses-lawmakers-industry-groups-sound-alarm-as-port-strike-looms-5731398)
 * [US and Iraq Announce Changes to Military Footprint After Years-Long Joint Fight Against ISIS](https://www.theepochtimes.com/world/us-and-iraq-announce-changes-to-military-footprint-after-years-long-joint-fight-against-isis-5731538)
     
-    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    12hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![US and Iraq Announce Changes to Military Footprint After Years-Long Joint Fight Against ISIS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US and Iraq Announce Changes to Military Footprint After Years-Long Joint Fight Against ISIS](https://img.theepochtimes.com/assets/uploads/2024/08/06/id5700828-Screenshot-2024-08-06-153441-205x123.png.webp)](https://www.theepochtimes.com/world/us-and-iraq-announce-changes-to-military-footprint-after-years-long-joint-fight-against-isis-5731538)
 * [Scientists Store Human DNA on 5D Crystals](https://www.theepochtimes.com/health/scientists-store-human-dna-on-5d-crystals-5731045)
     
-    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    12hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
     
     [![Scientists Store Human DNA on 5D Crystals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Scientists Store Human DNA on 5D Crystals](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731661-human-dna-on-crystals-205x123.jpg.webp)](https://www.theepochtimes.com/health/scientists-store-human-dna-on-5d-crystals-5731045)
 * [Day in Photos: Global Elections, Hurricane Helene, and Training Cadets](https://www.theepochtimes.com/article/day-in-photos-global-elections-hurricane-helene-and-training-cadets-5731291)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Global Elections, Hurricane Helene, and Training Cadets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Global Elections, Hurricane Helene, and Training Cadets](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731550-GettyImages-2173895212KO-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-global-elections-hurricane-helene-and-training-cadets-5731291)
 * [Garland Defends Releasing Letter From Suspect in Trump Assassination Attempt](https://www.theepochtimes.com/us/garland-defends-releasing-letter-from-suspect-in-trump-assassination-attempt-5731551)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Garland Defends Releasing Letter From Suspect in Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Garland Defends Releasing Letter From Suspect in Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727757-GettyImages-2171592164-205x123.jpg.webp)](https://www.theepochtimes.com/us/garland-defends-releasing-letter-from-suspect-in-trump-assassination-attempt-5731551)
 * [Supreme Court Won’t Restore RFK Jr.’s Name to New York Ballot](https://www.theepochtimes.com/us/supreme-court-wont-restore-rfk-jr-s-name-to-new-york-ballot-5731532)
     
-    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    13hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Supreme Court Won’t Restore RFK Jr.’s Name to New York Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Supreme Court Won’t Restore RFK Jr.’s Name to New York Ballot](https://img.theepochtimes.com/assets/uploads/2024/08/23/id5712049-RFK-Jr-AP24236710308718KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-restore-rfk-jr-s-name-to-new-york-ballot-5731532)
-* [Massachusetts Governor Seizes Private Hospital Through Eminent Domain](https://www.theepochtimes.com/us/massachusetts-governor-seizes-private-hospital-through-eminent-domain-5731406)
-    
-    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Massachusetts Governor Seizes Private Hospital Through Eminent Domain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Massachusetts Governor Seizes Private Hospital Through Eminent Domain](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720925-Maura-Healey-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-governor-seizes-private-hospital-through-eminent-domain-5731406)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
