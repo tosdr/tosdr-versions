@@ -487,8 +487,8 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 * 6[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
 * 7[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
 * 8[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
-* 9[Trump cancels meeting with President Duda, Polish media report](http://en.euractiv.eu/section/politics/news/trump-cancels-meeting-with-president-duda-polish-media-report/?utm_source=website&utm_campaign=popular)
-* 10[Italy to push for early review of Green Deal’s combustion engine ban](http://en.euractiv.eu/section/economy-jobs/news/italy-to-push-for-early-review-of-green-deals-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
+* 9[Germany joins Italy to call for earlier revision of CO2 targets for cars](http://en.euractiv.eu/section/economy-jobs/news/germany-joins-italy-to-call-for-earlier-revision-of-co2-targets-for-cars/?utm_source=website&utm_campaign=popular)
+* 10[Meloni’s Atlantic Council award sparks debate over possible shift to Trump](http://en.euractiv.eu/section/politics/news/melonis-atlantic-council-award-sparks-debate-over-possible-shift-to-trump/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
