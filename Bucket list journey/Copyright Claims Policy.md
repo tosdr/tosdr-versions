@@ -217,14 +217,14 @@ Whatcha Looking for?
 [Contact](https://bucketlistjourney.net/advertisesponsor__trashed/contact/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Bucket List Ideas](https://bucketlistjourney.net/category/bucketlists/)  
+[Bucket List Ideas](https://bucketlistjourney.net/category/bucket-list-ideas/)  
   
-[Travel](https://bucketlistjourney.net/category/travelbucketlist/)  
+[World Travel](https://bucketlistjourney.net/category/destinations/)  
   
-[Facing Fear & Anxiety](https://bucketlistjourney.net/category/fear-anxiety/)  
+[California Travel](https://bucketlistjourney.net/category/california-travel/)  
   
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 © BUCKET LIST JOURNEY 2024 | ALL RIGHTS RESERVED | [GET IN TOUCH](https://bucketlistjourney.net/advertisesponsor__trashed/contact/) | [LEGAL](https://bucketlistjourney.net/terms/)
 
