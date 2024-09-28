@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a4b24f6dc0a2cecbdafc6a14c020cc92
+6903b56e502fcc824ec5ccd73a102d8b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![22 mm irregular gold stick pearls](https://www.sojourner.biz/images/cache/pearls/PE0169.200.jpg)](https://www.sojourner.biz/beads/pearls/22-mm-irregular-gold-stick-pearls.html "22 mm irregular gold stick pearls")
+[![Blue abstract clasp](https://www.sojourner.biz/images/cache/SKU0266variations.200.jpg)](https://www.sojourner.biz/clasps/glass/blue-abstract-clasp.html "Blue abstract clasp")
 
-#### [22 mm irregular gold stick pearls](https://www.sojourner.biz/beads/pearls/22-mm-irregular-gold-stick-pearls.html "22 mm irregular gold stick pearls")
+#### [Blue abstract clasp](https://www.sojourner.biz/clasps/glass/blue-abstract-clasp.html "Blue abstract clasp")
 
-$55.00
+$24.50
 
 ### Best Sellers
 
