@@ -197,63 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Kobus Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=176165859)  
-OXYAIDER (PTY) LTD
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=137372134)  
+Oukraal Merino's
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=204393110)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=27951659)  
+SafeTclip
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=38176482)  
-Alliance Energy
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=92060591)  
+Wiselink Broadband Vryheid
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=93656023)  
-CGHK Enterprises (PTY) LTD
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=168910837)  
+Kara Medical (Pty) Ltd
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=137304668)  
-RADIO TYGERBERG 104FM NPC
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=122854804)  
+Stevens Consulting
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=206716462)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=32091106)  
+Wiselink Broadband Pty Ltd
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=143357204)  
-Roamfree Boerdery (PTY) LTD
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=79105831)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=51521783)  
-Chiron Medical Solutions
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=101810276)  
-Sportspro Management (Pty) Ltd
-
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=16048341)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=130215498)  
-van Schaik rentals
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=54948220)  
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=22073131)  
 Cooper Logistics (Pty) Ltd
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=164573204)  
-webb it services
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=78677974)  
+Echo Recording Studio cc
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=82242167)  
-West Coast Horse Trails
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=82923918)  
+Well Hung Art
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=42592660)  
-Tantra Sound and Lightz
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=170083561)  
+Cape Adventure Zone
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=1578257)  
+Itroniq (Pty) Ltd
+
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=116797321)  
+Mtunzini Group
+
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=107581658)  
+SLOANE STAR MEAT MARKET
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=63843d41f9f989c4c073dc12a118d2d0576a1eeaf432db1aa737b7c41ad2ca45&c=140628804)  
+SR Travel Services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
