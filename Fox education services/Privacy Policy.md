@@ -276,6 +276,8 @@ FoxEducation hat keinen Einfluss auf die Einhaltung der Datenschutzbestimmungen 
 
 ![Facebook Link](https://foxeducation.com/wp-content/uploads/2023/12/Facebook-Icon.svg)](https://www.facebook.com/FoxEducation.DACH)
 
-                                                                                            
+[Page load link](#)
+
+                                                                                      
 
 [Go to Top](#)
