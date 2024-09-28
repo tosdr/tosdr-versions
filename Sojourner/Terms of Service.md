@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b3dd7be8b35a8b600e71a3e0fe5ee36e
+160738a13336cd9e889dd17aaa380f87
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Monster hat](https://sojourner.biz/images/cache/CL0013hatmonsterfront.200.jpg)](https://sojourner.biz/clothing/monster-hat.html "Monster hat")
+[![Rectangular coral floral box clasp](https://sojourner.biz/images/cache/SKU0492front.200.jpg)](https://sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
 
-#### [Monster hat](https://sojourner.biz/clothing/monster-hat.html "Monster hat")
+#### [Rectangular coral floral box clasp](https://sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
 
-$25.00
+$23.50
 
 ### Best Sellers
 
@@ -164,12 +164,12 @@ $25.00
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
+8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-10. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+10. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 
 [Top](#)
 
