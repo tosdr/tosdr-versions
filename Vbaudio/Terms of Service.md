@@ -146,10 +146,12 @@ A USER who wishes to obtain a new key due to a change of machine can obtain it v
   
   
 For each ordered distributor licence VB AUDIO grants a non-exclusive, non-assignable right, for the whole world, to:  
+  
 
 (i) put up for sale, promote, distribute or resell a licence for the APPLICATION to end users, up to a maximum of the number of distributor licences purchased at the time of the order (one (1) distributor licence enables one (1) licence to be sold to one end user);  
   
 (ii) grant a sub-licence for use of the APPLICATIONS to end users, up to a maximum of the number of distributor licences purchased at the time of the order, in the form of a combined product, possibly incorporated in a specific package, provided that the sub-licence is not incompatible with the terms of the present contract; The term "combined product" is understood to mean a single set, which is integrated and interoperable, consisting of the APPLICATION and of a third-party item of hardware or software;  
+
   
   
 Licences to end users are granted by the holder of the distributor licence for the whole world, and having effect for all time over which intellectual property over the APPLICATION shall last, pursuant to the legislations, both French and non-French, and international agreements, including any extensions which may be made to this term by the national and international legislations. The right of correction must be reserved for the benefit of VB AUDIO by the DISTRIBUTOR.  
@@ -205,11 +207,13 @@ MONSIEUR **VINCENT BUREL**\- BP5, 24240, Sigoules (France)
   
   
 The purpose of the processing of personal data undertaken by the SITE is:   
+  
 
-account management  
-billing and management of licences,  
-satisfactory operation and security of the SITE  
-production of SITE viewing statistics  
+Account management  
+Billing and management of licences,  
+Satisfactory operation and security of the SITE  
+Production of SITE viewing statistics  
+
   
 The legal basis of the processing of personal data which we undertake is contractual and is therefore dependent on your consent.    
   
