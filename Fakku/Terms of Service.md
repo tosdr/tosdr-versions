@@ -299,16 +299,18 @@ In accordance with the DMCA and other applicable laws, we have adopted a policy 
 
 Popular Tags Today:
 
-[Twitter](https://twitter.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
+[Twitter](https://x.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
 
 © FAKKU, LLC 2024 All rights reserved.
 
-[Forums](https://www.fakku.net/forums) [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
+[Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
 
 Close sidebar [Notifications](https://www.fakku.net/notifications) Dark mode
 
-[Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login) [FAKKU Unlimited](https://www.fakku.net/unlimited)
+[Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login)
 
-[New Releases](https://www.fakku.net/hentai) [Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/books) [Tags](https://www.fakku.net/tags) [Merch](https://merch.fakku.net/)
+[New Releases](https://www.fakku.net/) [FAKKU Unlimited](https://www.fakku.net/unlimited)
 
-[Forums](https://www.fakku.net/forums) [Support](https://www.fakku.net/support)
+[Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/books) [Unlimited](https://www.fakku.net/unlimited)
+
+[Tags](https://www.fakku.net/tags) [Forums](https://www.fakku.net/forums) [Merch](https://merch.fakku.net/)
