@@ -124,6 +124,7 @@ Switch to
             Explore
             -------
             
+            * [Razer Laptop Cooling Pad](https://www.razer.com/gaming-pc-accessories/razer-laptop-cooling-pad)
             * [Razer Laptop Stand](https://www.razer.com/gaming-accessories/laptop-stand-for-razer-blade-stealth)
             * [Razer Laptop Stand Chroma](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma)
             * [Razer Laptop Stand Chroma V2](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma-v2)
@@ -469,6 +470,7 @@ Switch to
             Product Line
             ------------
             
+            * [Razer Kraken V4 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v4-pro)
             * [Razer Kraken V4](https://www.razer.com/gaming-headsets/razer-kraken-v4)
             * [Razer Kraken V4 X](https://www.razer.com/gaming-headsets/razer-kraken-v4-x)
             * [Razer Kraken V3 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v3-pro)
@@ -513,6 +515,7 @@ Switch to
             ------------
             
             * [View All Kraken](https://www.razer.com/pc/gaming-headsets-and-audio/kraken-line)
+            * [Razer Kraken V4 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v4-pro)
             * [Razer Kraken V4](https://www.razer.com/gaming-headsets/razer-kraken-v4)
             * [Razer Kraken V4 X](https://www.razer.com/gaming-headsets/razer-kraken-v4-x)
             * [Razer Kraken V3 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v3-pro)
@@ -774,6 +777,13 @@ Switch to
             * [Razer Enki Pro Williams Esports Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-williams)
             * [Razer Enki Pro Koenigsegg Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-koenigsegg)
             
+        * Haptic Gaming Cushion
+            
+            Product Line
+            ------------
+            
+            * [Razer Freyja](https://www.razer.com/gaming-chairs-accessories/razer-freyja)
+            
         
         Product Line
         ------------
@@ -809,6 +819,7 @@ Switch to
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             
+        * [Razer Freyja](https://www.razer.com/gaming-chairs-accessories/razer-freyja)
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
         * [Compare](https://www.razer.com/shop/chairs/gaming-chairs)
         
@@ -1068,6 +1079,13 @@ Switch to
             * [Razer Enki Pro Williams Esports Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-williams)
             * [Razer Enki Pro Koenigsegg Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-koenigsegg)
             
+        * Haptic Gaming Cushion
+            
+            Product Line
+            ------------
+            
+            * [Razer Freyja](https://www.razer.com/gaming-chairs-accessories/razer-freyja)
+            
         
         Product Line
         ------------
@@ -1103,6 +1121,7 @@ Switch to
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             
+        * [Razer Freyja](https://www.razer.com/gaming-chairs-accessories/razer-freyja)
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
         * [Compare](https://www.razer.com/shop/chairs/gaming-chairs)
         
