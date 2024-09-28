@@ -280,7 +280,7 @@ About
 Privacy Policy
 ==============
 
-(October 26, 2023)
+(September 28, 2024)
 
 At the ​Massachusetts Bay Transportation Authority​ (“​MBTA​,” “we,” “our,” “us”) the privacy of our customers (“Customer” or “you”) is important to us. This Customer Privacy Policy (“Policy”) applies to all of our Services as defined below, and describes what information we collect, how and why we collect information, and the instances where we may share information. This Policy also describes the choices you have regarding the information ​MBTA​ collects about you, including how you can manage, update, or request to delete your information.
 
@@ -326,7 +326,7 @@ This Policy applies to information we may collect from you when you use our cust
 
 **When does our Privacy Policy not apply?**
 
-This Policy does not apply to information collected from you (a) by or through any other means than described above, including through any other services, websites, or applications operated by the Massachusetts Department of Transportation, the Commonwealth of Massachusetts, or any third party; or (b) through any third-party services, websites or applications that may link to or be accessible from or on our Services. NOTE that we may partner with certain third-party vendors or mobile apps for commuting services (e.g., PayByPhone, SeeSay App). We review these vendors’ privacy policies prior to partnering with them, but customers should be aware that these apps operate under their own posted privacy policies, outside of our control.
+This Policy does not apply to information collected from you (a) by or through any other means than described above, including through any other services, websites, or applications operated by the Massachusetts Department of Transportation, the Commonwealth of Massachusetts, or any third party; or (b) through any third-party services, websites or applications that may link to or be accessible from or on our Services. NOTE that we may partner with certain third-party vendors, mobile apps or mobile wallet providers for commuting and fare collection services (e.g., PayByPhone; SeeSay App; Apple, Samsung and/or Google Wallet). We review these vendors’ privacy policies prior to partnering with them, but customers should be aware that these apps operate under their own posted privacy policies, outside of our control. You may be required to accept the terms and conditions of a third-party service provider before using such services.
 
 Our Services may contain links to other websites or online services, including social media. Please be aware that we are not responsible for the content or privacy practices of such other websites or online services, and we encourage you to be aware when you leave our Services and to read the privacy statements of any other website or online service that collects personal information.
 
