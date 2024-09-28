@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Dragon Saber: After Story of Dragon Spirit](https://www.myabandonware.com/game/dragon-saber-after-story-of-dragon-spirit-krz)
+* [Detana!! TwinBee](https://www.myabandonware.com/game/detana-twinbee-f9l)
+* [Dragon Breed](https://www.myabandonware.com/game/dragon-breed-4ut)
 * [Enduro Racer](https://www.myabandonware.com/game/enduro-racer-4xy)
 * [Empire City: 1931](https://www.myabandonware.com/game/empire-city-1931-9qu)
-* [Escape from the Planet of the Robot Monsters](https://www.myabandonware.com/game/escape-from-the-planet-of-the-robot-monsters-w1)
-* [Bloody Roar](https://www.myabandonware.com/game/bloody-roar-sj3)
-* [Car Polo](https://www.myabandonware.com/game/car-polo-sj2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
