@@ -19,6 +19,32 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
+    
+    ### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
+    
+    [![Land of the Free - image supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/land-of-the-free-crop-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
+    
+    ### [Southwark Playhouse to stage a show on actor John Wilkes Booth who assassinated Abraham Lincolin](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
+    
+    [![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-360x180.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
+    
+    ### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
+    
+    [![The public hearing at City Hall. 
+    Credit: Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-public-hearing-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
+    
+    ### [Permission granted for the Wimbledon Tennis Championships to almost triple in size](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
+    
+    [![Paul Campbell was diagnosed with prostate cancer in 2018 after getting a test. 
+    Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Paul-Campbell-360x180.jpg)](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
+    
+    ### [‘I was denied a health check by a South London GP surgery and later found out I had prostate cancer’](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
+    
+    [![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
+    
+    ### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
+    
     [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-360x180.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
     
     ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
@@ -30,30 +56,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
     
     ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
-    
-    [![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-    
-    ### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Alessandro-Georgiou-Conservative-member-of-the-London-Assembly-360x180.jpg)](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
-    
-    ### [Government plans to re-label parts of the Green Belt as ‘grey belt’ land for housing must be ‘clarified’, say assembly](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
-    
-    [![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-360x180.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
-    
-    ### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
-    
-    [![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
-    
-    ### [Where do Southwark MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
-    
-    [![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--360x180.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
-    
-    ### [Halloween will be disrupted by south London train works](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
-    
-    [![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
-    
-    ### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +101,32 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
+    
+    ### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
+    
+    [![Land of the Free - image supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/land-of-the-free-crop-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
+    
+    ### [Southwark Playhouse to stage a show on actor John Wilkes Booth who assassinated Abraham Lincolin](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
+    
+    [![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-360x180.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
+    
+    ### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
+    
+    [![The public hearing at City Hall. 
+    Credit: Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-public-hearing-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
+    
+    ### [Permission granted for the Wimbledon Tennis Championships to almost triple in size](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
+    
+    [![Paul Campbell was diagnosed with prostate cancer in 2018 after getting a test. 
+    Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Paul-Campbell-360x180.jpg)](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
+    
+    ### [‘I was denied a health check by a South London GP surgery and later found out I had prostate cancer’](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
+    
+    [![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
+    
+    ### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
+    
     [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-360x180.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
     
     ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
@@ -110,30 +138,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
     
     ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
-    
-    [![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-    
-    ### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Alessandro-Georgiou-Conservative-member-of-the-London-Assembly-360x180.jpg)](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
-    
-    ### [Government plans to re-label parts of the Green Belt as ‘grey belt’ land for housing must be ‘clarified’, say assembly](https://southwarknews.co.uk/area/london/government-plans-to-re-label-parts-of-the-green-belt-as-grey-belt-land-for-housing-must-be-clarified-say-assembly/)
-    
-    [![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-360x180.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
-    
-    ### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
-    
-    [![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
-    
-    ### [Where do Southwark MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
-    
-    [![Credit: Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/09/Credit--360x180.webp)](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
-    
-    ### [Halloween will be disrupted by south London train works](https://southwarknews.co.uk/area/south-london/halloween-will-be-disrupted-by-south-london-train-works/)
-    
-    [![The Shard](https://southwarknews.co.uk/wp-content/uploads/2024/09/Shard-Cake-for-Macmillan-01-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
-    
-    ### [‘UK’s highest coffee morning’ serves up 2-metre cake replica of the Shard](https://southwarknews.co.uk/area/bermondsey/uks-highest-coffee-morning-serves-up-2-metre-cake-replica-of-the-shard/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -229,6 +233,30 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
+
+### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
+
+[28th September 2024](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
+
+[![Land of the Free - image supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/land-of-the-free-crop-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
+
+### [Southwark Playhouse to stage a show on actor John Wilkes Booth who assassinated Abraham Lincolin](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
+
+[28th September 2024](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
+
+[![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-120x86.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
+
+### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
+
+[28th September 2024](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
+
+[![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-120x86.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
+
+### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
+
+[28th September 2024](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
+
 [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-120x86.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
 ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
@@ -240,30 +268,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Exclusive: ‘How could they do this to us?’: Council’s cleaners say they are in limbo after being told their hours could be cut](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
 
 [27th September 2024](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
-
-### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
-
-[27th September 2024](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
-
-[![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-
-### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-
-[27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
-
-[![Passengers watching the announcement screens at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/09/34492a94-35cb-4a88-b1cd-407423b9f4e7-120x86.jpg)](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
-
-### [Police arrest man after station WiFis display Islamophobic messages](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
-
-[27th September 2024](https://southwarknews.co.uk/area/borough/police-arrest-man-after-station-wifis-display-islamophobic-messages/)
-
-[![Top left: Miatta Fahnbulleh MP; bottom right: Neil Coyle MP](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-26-09-2024-at-14.04-120x86.jpg)](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
-
-### [Where do Southwark MPs stand on voting through cuts to Winter Fuel Allowance?](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
-
-[26th September 2024](https://southwarknews.co.uk/area/peckham/where-to-southwarks-three-mps-stand-on-voting-through-cuts-to-winter-fuel-allowance/)
 
 ### USEFUL PAGES
 
