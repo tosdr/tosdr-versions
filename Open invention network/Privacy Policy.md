@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.  
+> Open Invention Network is a unique organization. For 15 years, it has protected the Linux and open source community from patent aggression, while fostering a community that understands that value of shared technological development. It has been an honor to have worked with the OIN team, and fellow OIN Board members, to plan and implement the strategic initiatives that have provided protection for open source.  
 
-Lynn WuChief IP CounselByteDance
+Tim KowalskiChairman of the BoardOpen Invention Network
+
+> Flex is proud to join OIN and help further the goals of the open source community. In our position spanning many industries, we are sensitive to the negative impact that the aggressive assertion of patents can have on innovation, and how excessive lawsuits can significantly dampen opportunities for collaboration, especially within the open source community. We are pleased to be an active participant in the effort to protect Linux and related open source technologies from the risk of patent litig… [Read more](https://openinventionnetwork.com/testimonial/flex/ "Complete testimonial by John Ritsick")
+
+John RitsickVP of Legal and Chief Intellectual Property OfficerFlex
+
+> Linux, and more broadly open source software, is a foundational technology in the desktop, mobile, networking, cloud and embedded computing environments. We are committed to open solutions that promote advances in all of the sectors that depend on advanced x86 and ARM platforms. Joining OIN is another way we are demonstrating our commitment to open innovation and collaboration.  
+
+Richard BrownVP MarketingVIA Technologies
 
 > Alibaba and Ant congratulate Open Invention Network on this impressive milestone. OIN has taken a leadership role and worked tirelessly to improve intellectual property protection for Linux system and open source software. Alibaba and Ant look forward to continued partnership with OIN and the international open source community to foster innovation and reduce IP risks.  
 
 Roger Shang - Alibaba Group Senior Legal Director // Benjamin Bai - Ant Group VP of Intellectual Property
 
-> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
+> _Having OpenStack in the core of our product, FishOS,_  _we highly appreciate the value and importance of shared knowledge, experience, and technology of open source communities. Joining OIN emphasizes our commitment to developing and distributing open source technology. Thanks to expertise, software companies can mitigate the global patent risk to open source software like FishOS for all the market players – developers, vendors, customers, and end-users._
 
-Stephan DührManaging Director, Bareos GmbH & Co. KG
+Kenneth TanCEO, Sardina Systems
 
-> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
+> At Shopify, we’ve built our platform on Ruby on Rails. We view open source software as a key foundation for our business. By joining the Open Invention Network, we have committed to patent non-aggression in core Linux and adjacent open source software. We believe that this commitment will promote innovation and help enable entrepreneurs and developers to build on open source foundations without focusing on the threat of litigation. We strongly encourage all forward-looking ecommerce platforms,… [Read more](https://openinventionnetwork.com/testimonial/shopify/ "Complete testimonial by Robert Guay")
 
-Mercari
+Robert GuaySenior Counsel, Intellectual PropertyShopify
 
-> UnionPay focuses on Fintech innovation and is committed to building an open platform that provides integrated payment services with global influence. Under the frame of legal and regulatory compliance, we are pleased to provide service and conduct active cooperation. We look forward to working with OIN and community members to protect our global business and the open source projects that encourage innovation.  
+> Linux is an integral part of the advanced system-on-chip (SoC) development process and is used as the development platform, as well as a target operating system for many systems that our customers design. Preserving the openness of Linux is critical to the continued advancement of next-generation SoCs in both embedded applications and consumer devices.  
 
-UnionPayIntellectual Property ManagerUnionPay
+Jim ReadyChief Technology Advisor Software & Embedded SystemsCadence Design Systems
 
-> Linux can be found in consumer and professional systems in use around the globe. We are committed to redesigning the lifestyles of people around the world, by providing them with excitement and peace of mind. One way we create sophisticated products is by using advanced open platforms, and we are committed to ensuring their ongoing development.  
+> At Rakuten, our businesses continue to evolve as we address new market opportunities. Because of this, we are a user and strong advocate of open source software. We are building the first 100% fully virtualized mobile network, enabling us to scale rapidly and offer the best Quality-of-Service (QoS) available. By joining OIN, we are demonstrating our commitment to Open Source Software (OSS) and supporting it with a pledge of patent non-aggression.  
 
-Tetsuro FuseJVCKENWOODVice Operating Officer
+Tareq AminCAO, Group Executive Vice PresidentRakuten, Inc.
 
-> Since its inception 15 years ago, OIN has provided unprecedented protection to enable the incredible growth and adoption of Linux and other related open source software around the world. As the OIN community has grown to over 3,000 members and the Linux definition has matured, that protection has only grown stronger. IBM and Red Hat have been two of the leading proponents and drivers of Linux and open source software for over 20 years and have been founding members of OIN since its inception.… [Read more](https://openinventionnetwork.com/testimonial/ken-king-openpower-ibm/ "Complete testimonial by Ken King")
+> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
 
-Ken KingGeneral ManagerOpenPower at IBM
+Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
 
-> For us, joining OIN is a statement. Linux has given MTU added value that can’t be expressed in euros. We have powerful software available for designing, configuring, and producing engines and for fleet management. One especially valuable aspect is the freedom to continuously further develop and refine perfectly tailored tools and methods to design and configure our high-tech products ourselves.  
+> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
 
-Nadia ZerelliHead of Engineering Systems, MTU Aero Engines
-
-> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
-
-Peter KohlschmidtCTOMoxa
-
-> At JD.com, we have employed open source technologies such as Kubernetes and Open Stack, along with Linux, to improve the speed, functionality and stability of our infrastructure while lowering operating costs.  
-
-Rain LongChief Human Resource Officer & General CounselJD.com
+Yandex
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
@@ -268,7 +268,7 @@ Your Name\*
 
 Email\*
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
