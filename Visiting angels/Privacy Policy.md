@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
+[Alzheimer’s Care: Helping To Manage Sundowner’s Syndrome](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/alzheimers-care-helping-to-manage-sundowners-syndrome/478)
 
-[Our Elderly Care Tips for Coping with Long-Distance Caregiving](https://www.visitingangels.com/knowledge-center/care-options/our-elderly-care-tips-for-coping-with-long-distance-caregiving/482)
+[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
 
-[Wake Up Call: What I Saw at My Friend's Mom's Funeral](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/wake-up-call-what-i-saw-at-my-friends-moms-funeral/350)
+[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
 
-[When to Adjust Your Loved One’s Home Care Services](https://www.visitingangels.com/knowledge-center/care-options/when-to-adjust-your-loved-ones-home-care-services/108)
+[Find Comfort for Seniors with Palliative Care Services](https://www.visitingangels.com/knowledge-center/care-options/find-comfort-for-seniors-with-palliative-care-services/515)
 
-[Does Your Loved One Need Elder Care Services?](https://www.visitingangels.com/knowledge-center/care-options/does-your-loved-one-need-elder-care-services/53)
+[Coordinating Family and Professional Care](https://www.visitingangels.com/knowledge-center/care-options/coordinating-family-and-professional-care/115)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
