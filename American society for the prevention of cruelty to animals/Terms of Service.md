@@ -261,7 +261,7 @@ These Terms of Use and the documents incorporated herein by reference constitute
 
 All feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [\[email protected\]](https://www.aspca.org/cdn-cgi/l/email-protection).
 
-[![](https://www.aspca.org/sites/default/files/sidebar-ads_050522_dog.png)](https://secure.aspca.org/donate/donate?ms=wb_rig_ad-donate-dog-20220520&initialms=wb_rig_ad-donate-dog-20220520&pcode=WEBMEMBER&lpcode=WEBGUARD)
+[![](https://www.aspca.org/sites/default/files/newsidebar-ads_092024_general.png)](https://secure.aspca.org/donate/donate?ms=wb_rig_ad-donate-dog-20220520&initialms=wb_rig_ad-donate-dog-20220520&pcode=WEBMEMBER&lpcode=WEBGUARD)
 
 ### Other Ways to Help:
 
