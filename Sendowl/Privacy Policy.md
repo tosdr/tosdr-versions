@@ -217,6 +217,7 @@ Community
 * [![Youtube](/_next/static/media/icon-footer-youtube.fe5df559.svg)](https://www.youtube.com/@Sendowl)
 * [![TikTok](/_next/static/media/icon-footer-tiktok.993e072a.svg)](https://www.tiktok.com/@sendowl)
 
+* [Product categories](https://www.sendowl.com/categories)
 * [Terms of Service](https://www.sendowl.com/terms)
 * [Privacy Policy](https://www.sendowl.com/privacy)
 * [Cookies](https://www.sendowl.com/cookies)
