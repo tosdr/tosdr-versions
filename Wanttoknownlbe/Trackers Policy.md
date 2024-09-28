@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-energie-van-merlia/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-nieuwe-tijd-is-begonnen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
