@@ -36,6 +36,9 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
+    * [![Iranian hackers charged for ‘hack-and-leak’ plot to influence election](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
     * [![U.S. charges Joker's Stash and Rescator money launderers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         U.S. charges Joker's Stash and Rescator money launderers](https://www.bleepingcomputer.com/news/legal/us-charges-jokers-stash-and-rescator-money-launderers/)
@@ -45,9 +48,6 @@
     * [![Embargo ransomware escalates attacks to cloud environments](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Embargo ransomware escalates attacks to cloud environments](https://www.bleepingcomputer.com/news/security/embargo-ransomware-escalates-attacks-to-cloud-environments/)
-    * [![Progress urges admins to patch critical WhatsUp Gold bugs ASAP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Progress urges admins to patch critical WhatsUp Gold bugs ASAP](https://www.bleepingcomputer.com/news/security/progress-urges-admins-to-patch-critical-whatsup-gold-bugs-asap/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
