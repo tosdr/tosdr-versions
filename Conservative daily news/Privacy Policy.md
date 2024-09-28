@@ -177,6 +177,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: TYPE A M110 Restomod](https://www.thegunpage.com/tfb-review-type-a-m110-restomod/10610873)
+* [Routh’s Rifle… Pul-lease](https://www.thegunpage.com/rouths-rifle-pul-lease/10610871)
 * [TFB Review: Timney Glock Alpha Trigger](https://www.thegunpage.com/tfb-review-timney-glock-alpha-trigger/10610866)
 * [POTD: Chilean Special Forces With Colt M5s](https://www.thegunpage.com/potd-chilean-special-forces-with-colt-m5s/10610867)
 * [TFB Podcast Roundup 148: The September 27th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-148-the-september-27th-roundup/10610863)
@@ -185,8 +187,6 @@ Recent Posts
 * [Sig Sauer Introduces The Reserve Collection P226 XFive](https://www.thegunpage.com/sig-sauer-introduces-the-reserve-collection-p226-xfive/10610858)
 * [Licensed Troubleshooter: The Guns Of James Bond Smashes Pre-order Goal](https://www.thegunpage.com/licensed-troubleshooter-the-guns-of-james-bond-smashes-pre-order-goal/10610862)
 * [Long Term Review of Staccato P Pistol](https://www.thegunpage.com/long-term-review-of-staccato-p-pistol/10610861)
-* [Visiting Ammo Plant in PA, Ukraine’s Zelensky Shills for the Democrats](https://www.thegunpage.com/visiting-ammo-plant-in-pa-ukraines-zelensky-shills-for-the-democrats/10610856)
-* [Vortex Introduces Viper HD 11-33×50 Spotting Scopes](https://www.thegunpage.com/vortex-introduces-viper-hd-11-33x50-spotting-scopes/10610853)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
