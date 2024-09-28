@@ -483,12 +483,12 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 * 2[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
 * 3[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
 * 4[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
-* 5[EU must step up support for organic market, EU auditors say](http://en.euractiv.eu/section/agriculture-food/news/eu-must-step-up-support-for-organic-market-eu-auditors-say/?utm_source=website&utm_campaign=popular)
-* 6[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
-* 7[Draghi is right: To rebuild competitiveness, Europe must reimagine its approach to innovation](http://en.euractiv.eu/section/artificial-intelligence/opinion/draghi-is-right-to-rebuild-competitiveness-europe-must-reimagine-its-approach-to-innovation/?utm_source=website&utm_campaign=popular)
-* 8[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
-* 9[Germany joins Italy to call for earlier revision of CO2 targets for cars](http://en.euractiv.eu/section/economy-jobs/news/germany-joins-italy-to-call-for-earlier-revision-of-co2-targets-for-cars/?utm_source=website&utm_campaign=popular)
-* 10[Meloni’s Atlantic Council award sparks debate over possible shift to Trump](http://en.euractiv.eu/section/politics/news/melonis-atlantic-council-award-sparks-debate-over-possible-shift-to-trump/?utm_source=website&utm_campaign=popular)
+* 5[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
+* 6[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
+* 7[Germany joins Italy to call for earlier revision of CO2 targets for cars](http://en.euractiv.eu/section/economy-jobs/news/germany-joins-italy-to-call-for-earlier-revision-of-co2-targets-for-cars/?utm_source=website&utm_campaign=popular)
+* 8[New international coalition seeks two-state solution in Israel-Palestine conflict](http://en.euractiv.eu/section/global-europe/news/new-international-coalition-seeks-two-state-solution-in-israel-palestine-conflict/?utm_source=website&utm_campaign=popular)
+* 9[Meloni’s Atlantic Council award sparks debate over possible shift to Trump](http://en.euractiv.eu/section/politics/news/melonis-atlantic-council-award-sparks-debate-over-possible-shift-to-trump/?utm_source=website&utm_campaign=popular)
+* 10[The President of Cyprus says he is ready to resume reunification talks 'today'](http://en.euractiv.eu/section/global-europe/news/the-president-of-cyprus-says-he-is-ready-to-resume-reunification-talks-today/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
