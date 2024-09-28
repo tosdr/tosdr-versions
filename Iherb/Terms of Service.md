@@ -1081,25 +1081,25 @@ Wohlbefinden & Pflege
 
 [Stress](https://de.iherb.com/c/calm-formulas)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegan.png) Vegan](https://de.iherb.com/hs/vegan)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegan.png) Vegan](https://de.iherb.com/hs/vegan/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Kosher.png) Koscher](https://de.iherb.com/hs/kosher)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Kosher.png) Koscher](https://de.iherb.com/hs/kosher/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Non-GMO.png) Ohne Gentechnik](https://de.iherb.com/hs/non-gmo)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Non-GMO.png) Ohne Gentechnik](https://de.iherb.com/hs/non-gmo/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Gluten-Free.png) Glutenfrei](https://de.iherb.com/hs/gluten-free)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Gluten-Free.png) Glutenfrei](https://de.iherb.com/hs/gluten-free/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Cruelty-Free.png) Ohne Tierversuche](https://de.iherb.com/hs/cruelty-free)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Cruelty-Free.png) Ohne Tierversuche](https://de.iherb.com/hs/cruelty-free/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Oragnic.png) Bio](https://de.iherb.com/hs/organic)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Oragnic.png) Bio](https://de.iherb.com/hs/organic/store)
 
  [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Keto.png) Ketogene Diät](https://de.iherb.com/hs/ketogenic-diet/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Dairy-Free.png) Milchfrei](https://de.iherb.com/hs/dairy-free)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Dairy-Free.png) Milchfrei](https://de.iherb.com/hs/dairy-free/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegetarian.png) Vegetarisch](https://de.iherb.com/hs/vegetarian)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegetarian.png) Vegetarisch](https://de.iherb.com/hs/vegetarian/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Paleo.png) Paleo](https://de.iherb.com/hs/paleo)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Paleo.png) Paleo](https://de.iherb.com/hs/paleo/store)
 
 [Marken A-Z](https://de.iherb.com/catalog/brandsaz)
 
