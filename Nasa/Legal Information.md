@@ -247,7 +247,7 @@ Back
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 18 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
@@ -259,7 +259,7 @@ article 2 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-
 
 ### NASA’s BioSentinel Studies Solar Radiation as Earth Watches Aurora
 
-article 1 day ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/)
+article 2 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/)
 
 ### Highlights
 
@@ -275,7 +275,7 @@ article 2 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa
 
 ### Educational Activities in Space
 
-article 3 days ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/08/iss071e547724.jpg?w=1024)
 
 4 min read
 
@@ -291,7 +291,7 @@ article 1 week ago](https://www.nasa.gov/missions/station/iss-research/nasa-astr
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 10 min read
 
@@ -303,7 +303,7 @@ article 2 days ago](https://science.nasa.gov/eyes/museums/)[![Overhead view of P
 
 ### NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 
-article 2 days ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)
+article 3 days ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 2 days ago](https://www.nasa.gov/earth/climate-change/nasa-analysis-show
 
 ### How NASA Uses and Improves Solar Power
 
-article 1 day ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar-power/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 2 days ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar-power/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
@@ -335,7 +335,7 @@ article 2 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 18 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change
 
-article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes](https://science.nasa.gov/wp-content/uploads/2024/09/pia19821-nustar-xrt-sun.jpg)
+article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes](https://science.nasa.gov/wp-content/uploads/2024/09/pia19821-nustar-xrt-sun.jpg)
 
 2 min read
 
 ### Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes
 
-article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-54-d-9-nustar-phase-1-proposal-due-date-moved-up-to-january-29-2025-and-other-changes/)
+article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-54-d-9-nustar-phase-1-proposal-due-date-moved-up-to-january-29-2025-and-other-changes/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### Girls in STEM Inspired to Fly High at NASA Kennedy
 
-article 3 days ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
 
 7 min read
 
@@ -401,13 +401,13 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/students-s
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 7 hours ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
 
 3 min read
 
 ### NASA’s Record-Breaking Laser Demo Completes Mission
 
-article 2 days ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
+article 3 days ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/)[![Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update](https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp)
 
 1 min read
 
