@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Twist of Faith (2004)](/wp-content/thumbnails/1520-100x70.jpg?x53432)
+* [![History’s Mysteries: The Inquisition](/wp-content/thumbnails/6483-100x70.jpg?x53432)
     
-    Twist of Faith (2004)
+    History’s Mysteries: The Inquisition
     
-    There's no easy way to address a highly charged subject like the sexual abuse of young boys by Catholic priests, but with Twist of Faith, director Kirby Dick has taken a straightforward approach, usin](https://documentaryheaven.com/twist-of-faith-2004/ "Twist of Faith (2004)")
-* [![Matrix of Evil](/wp-content/thumbnails/2264-100x70.jpg?x53432)
+    This installment of the “History’s Mysteries” series reveals the myths surrounding one of the darkest events in the history of man and religion — the inquisition of thousands of “unbelievers” at the h](https://documentaryheaven.com/historys-mysteries-the-inquisition/ "History’s Mysteries: The Inquisition")
+* [![9/11: THE SENSIBLE DOUBT](/wp-content/thumbnails/6722-100x70.jpeg?x53432)
     
-    Matrix of Evil
+    9/11: THE SENSIBLE DOUBT
     
-    Some of the best minds in the country, coming from different sectors of the political spectrum combine in this film to expose an intricate web of deceitful wickness controlling America today. Matrix o](https://documentaryheaven.com/matrix-of-evil/ "Matrix of Evil")
-* [![Michael Jackson: The Making Of Thriller](/wp-content/thumbnails/7608-100x70.jpg?x53432)
+    What happened September 11, 2001? All over the world, people question the official story and explanation about the events that took place in USA more than 10 years ago. In this Danish documentary you](https://documentaryheaven.com/911-the-sensible-doubt/ "9/11: THE SENSIBLE DOUBT")
+* [![Nuremberg: Nazis on Trial EP1/3](/wp-content/thumbnails/4724-100x70.png?x53432)
     
-    Michael Jackson: The Making Of Thriller
+    Nuremberg: Nazis on Trial EP1/3
     
-    Michael Jackson's Thriller is an American 13-minute music video for the song of the same name released on December 2, 1983. It was directed by John Landis, who also co-wrote the sc](https://documentaryheaven.com/michael-jackson-making-thriller/ "Michael Jackson: The Making Of Thriller")
-* [![Behind Closed Doors: Elderly Care Exposed](/wp-content/thumbnails/8818-100x70.jpg?x53432)
+    Episode 1: Albert Speer In November 1945, in the German city of Nuremberg, the victors of the World War Two began the first international war crimes trial. The choice of the city was significant for i](https://documentaryheaven.com/nuremberg-nazis-on-trial-1/ "Nuremberg: Nazis on Trial EP1/3")
+* [![Bulgaria’s Abandoned Children](/wp-content/thumbnails/1345-100x70.jpg?x53432)
     
-    Behind Closed Doors: Elderly Care Exposed
+    Bulgaria’s Abandoned Children
     
-    BBC's Panorama takes it upon themselves to investigate the state of some of Britain's care homes for the elderly. Through the use of secret filming this documentary reveals some truly disturbing cases](https://documentaryheaven.com/behind-closed-doors-elderly-care-exposed/ "Behind Closed Doors: Elderly Care Exposed")
-* [![How Vietnam Was Lost](/wp-content/thumbnails/8757-100x70.jpg?x53432)
+    The Social Care Home - where 75 unwanted children are growing up - is the main employer in the small village of Mogilino. Few of the children can talk, not necessarily because they are unable but rath](https://documentaryheaven.com/bulgaria%e2%80%99s-abandoned-children/ "Bulgaria’s Abandoned Children")
+* [![Downloading the Devil](/wp-content/thumbnails/9864-100x70.jpg?x53432)
     
-    How Vietnam Was Lost
+    Downloading the Devil
     
-    Based on David Maraniss's book They Marched into Sunlight, a documentary telling the story of two seemingly unconnected events in October 1967 that changed the course of the Vietnam War.Whilst a U](https://documentaryheaven.com/how-vietnam-was-lost/ "How Vietnam Was Lost")
+    In this 40 minute documentary we see the bizarre events surrounding the murder of Jennifer Blagg and her daughter Abby by Michael, Jennifer's husband. Michael, it turns out had an unusual&nb](https://documentaryheaven.com/downloading-devil/ "Downloading the Devil")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
