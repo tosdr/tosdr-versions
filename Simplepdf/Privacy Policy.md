@@ -114,7 +114,7 @@ Email us at: [privacy@simplePDF.eu](mailto:privacy@simplePDF.eu)
 * [Email notifications](https://simplepdf.eu/help/how-to/get-email-notifications-for-pdf-form-submissions#f)
 * [PDF editor, PDF annotator and PDF filler](https://simplepdf.eu/help/faq/is-simplepdf-a-pdf-editor-pdf-annotator-or-pdf-filler#f)
 
-* English
+* FrançaisEnglishItalianoDeutschPortuguêsEspañol
     
 
 * [Terms of Service](https://simplepdf.eu/terms-of-service)
