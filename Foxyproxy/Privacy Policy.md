@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was happy with the service. It's just that I don't need it for the moment. If and when I need it again I would be happy to resubscribe.
+Your suggestions worked perfectly! I am now able to surf the web and the i2p tunnels all in one browser.
 
-Tom Morton
+Allen Mershon
