@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2022/05/2022.05.14-large-group-millennium-park-provided-photo-326x245.jpg)](https://cwbchicago.com/2024/09/millennium-park-security-budget-under-review-as-mayor-tries-to-fill-982-million-budget-shortfall.html "Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall")
+
+Loop
+
+### [Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall](https://cwbchicago.com/2024/09/millennium-park-security-budget-under-review-as-mayor-tries-to-fill-982-million-budget-shortfall.html "Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall")
+
+[September 25, 2024 9:43 AM](https://cwbchicago.com/2024/09)
+
+Desperate to close the gaping $982 million deficit in next year’s city budget, the mayor’s office is looking at all options. And one expense in the mayor’s crosshairs is the cost of security at Millennium Park.[](https://cwbchicago.com/2024/09/millennium-park-security-budget-under-review-as-mayor-tries-to-fill-982-million-budget-shortfall.html "Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/1200-S-UNION-citizen-app-326x245.jpg)](https://cwbchicago.com/2024/09/1-dead-1-injured-during-shoot-out-near-uic-campus.html "1 dead, 1 injured during shoot-out near UIC campus")
+
+West Town
+
+### [1 dead, 1 injured during shoot-out near UIC campus](https://cwbchicago.com/2024/09/1-dead-1-injured-during-shoot-out-near-uic-campus.html "1 dead, 1 injured during shoot-out near UIC campus")
+
+[September 25, 2024 7:29 AM](https://cwbchicago.com/2024/09)
+
+One man is dead and another is in critical condition following a shootout near the University of Illinois Chicago campus on Tuesday night.[](https://cwbchicago.com/2024/09/1-dead-1-injured-during-shoot-out-near-uic-campus.html "1 dead, 1 injured during shoot-out near UIC campus")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/JH419776-700-halsted-suspects-326x245.jpg)](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
 
 West Town
@@ -252,26 +272,6 @@ West Town
 [September 25, 2024 6:30 AM](https://cwbchicago.com/2024/09)
 
 Chicago police detectives investigating the fatal shooting of a man near the new Bally’s casino construction site released a short video clip of the suspects on Tuesday. They hope someone will recognize the people or vehicle in the footage.[](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/BB2-326x245.jpg)](https://cwbchicago.com/2024/09/another-shooting-victim-crit.html "Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire")
-
-Englewood
-
-### [Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire](https://cwbchicago.com/2024/09/another-shooting-victim-crit.html "Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire")
-
-[September 25, 2024 5:29 AM](https://cwbchicago.com/2024/09)
-
-A man was found shot and critically injured Tuesday night on an Englewood sidewalk that used to be surveilled by ShotSpotter. He’s at least the second shooting victim to be discovered without anyone reporting gunfire since Mayor Brandon Johnson took ShotSpotter offline at midnight Monday.[](https://cwbchicago.com/2024/09/another-shooting-victim-crit.html "Again! Man found shot, critically injured on a street previously served by ShotSpotter. Nobody called 911 about the gunfire")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/47th-street-326x245.jpg)](https://cwbchicago.com/2024/09/12-year-old-boy-and-two-teens-are-charged-with-cta-robbery-after-rooftop-pastor-arranged-their-surrender.html "A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender")
-
-CTA
-
-### [A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender](https://cwbchicago.com/2024/09/12-year-old-boy-and-two-teens-are-charged-with-cta-robbery-after-rooftop-pastor-arranged-their-surrender.html "A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender")
-
-[September 24, 2024 7:43 PM](https://cwbchicago.com/2024/09)
-
-Three juveniles, ages 12, 13, and 15, are charged with robbing a woman aboard a Red Line train earlier this month after a prominent community leader personally escorted them and their parents to a Chicago police station.[](https://cwbchicago.com/2024/09/12-year-old-boy-and-two-teens-are-charged-with-cta-robbery-after-rooftop-pastor-arranged-their-surrender.html "A 12-year-old boy and two teens are charged with CTA robbery after ‘Rooftop pastor’ arranged their surrender")
 
 Search
 
