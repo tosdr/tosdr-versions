@@ -85,6 +85,7 @@ The USER acknowledges and accepts that failure to comply with these general term
 When the SITE's commercial documentation states that the APPLICATION is "Donationware" the price of the APPLICATION's licence is freely chosen by the USER among the different contribution levels offered for each product.  
   
 5 contributions levels are proposed for each product (in ascending order):  
+  
 
 * P1 – I’m Fan
 * P2 – I use it occasionally
@@ -209,10 +210,10 @@ MONSIEUR **VINCENT BUREL**\- BP5, 24240, Sigoules (France)
 The purpose of the processing of personal data undertaken by the SITE is:   
   
 
-Account management  
-Billing and management of licences,  
-Satisfactory operation and security of the SITE  
-Production of SITE viewing statistics  
+* Account management
+* Billing and management of licences
+* Satisfactory operation and security of the SITE
+* Production of SITE viewing statistics
 
   
 The legal basis of the processing of personal data which we undertake is contractual and is therefore dependent on your consent.    
