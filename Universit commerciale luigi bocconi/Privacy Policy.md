@@ -369,7 +369,7 @@ Media center
 Mobile app
 
 * [yoU@B ![Go to U@B](/sites/default/files/styles/footer_icon/public/footer/icon-menu/uab_3.png.webp?itok=Q4_iyoS6 "U@B")](https://apps.apple.com/us/app/you-b-pro/id1616135031) 
-* [Campus VR ![Go to Campus VR](/sites/default/files/styles/footer_icon/public/footer/icon-menu/campus_58.png.webp?itok=jwSJr0k2 "Campus VR")](https://apps.apple.com/us/app/bocconi-campus-vr/id1296722313?uo=4) 
+* [Campus VR ![Go to Campus VR](/sites/default/files/styles/footer_icon/public/footer/icon-menu/campus_58.png.webp?VersionId=1iGLdTprwD2.DnG_eQjVA13UtPG7QnLJ&itok=jwSJr0k2 "Campus VR")](https://apps.apple.com/us/app/bocconi-campus-vr/id1296722313?uo=4) 
 
 Mobile app
 
