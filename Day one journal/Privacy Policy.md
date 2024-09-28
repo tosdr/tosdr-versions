@@ -233,9 +233,9 @@ _This Privacy Policy was last revised: April 22, 2024_.
 
 * [Get The App](#)
     * [iPhone/iPad/Watch](https://apps.apple.com/us/app/day-one-journal-private-diary/id1044867788?ct=web-footer_download_link)
-    * [Android](https://get.dayoneapp.com/nQ12/d179m34q)
-    * [Mac](https://get.dayoneapp.com/nQ12/d179m34q)
-    * [Web Version](https://dayoneapp.com/web/)
+    * [Android](https://play.google.com/store/apps/details?id=com.dayoneapp.dayone&referrer=utm_source%3Dweb%26utm_campaign%3Dfooter_download_link)
+    * [Mac](https://apps.apple.com/app/apple-store/id1055511498?pt=343955&ct=web-footer_download_linke&mt=8)
+    * [Web Version](https://dayone.me/)
     * [Browser Extensions](https://dayoneapp.com/extensions/)
 * [Offers](#)
     * [Features](https://dayoneapp.com/features/)
@@ -279,8 +279,8 @@ Download the free Day One journal app for free on iPhone, Android, iPad, Mac, an
 
 [App Store](https://apps.apple.com/us/app/day-one-journal-private-diary/id1044867788?ct=web-top_nav_modal_ios_download)
 
-[Android](https://get.dayoneapp.com/nQ12/x1iwo8k6)
+[Android](https://play.google.com/store/apps/details?id=com.dayoneapp.dayone&referrer=utm_source%3Dweb%26utm_medium%3Dtop_nav%26utm_campaign%3Dmodal_android_download)
 
-[Mac](https://apps.apple.com/app/apple-store/id1055511498?pt=343955&ct=web_lower_page_cta&mt=8)
+[Mac](https://apps.apple.com/app/apple-store/id1055511498?pt=343955&ct=web-top_nav_modal&mt=8)
 
 [Login now](https://dayone.me/)
