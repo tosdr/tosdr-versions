@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,394 members - 451,736,561 ads shown  
+131,395 members - 451,738,234 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,394 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,395 MEMBERS!  
   
   
 
@@ -55,13 +55,13 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://funkymonkeyhits.com/getimg.php?id=9)](https://funkymonkeyhits.com/?rid=1098)
-
-[![](https://submitads4free.com/getimg.php?id=13)](https://submitads4free.com/?rid=3834)
+[![](https://geniecoop.com/ban33.gif)](https://geniecoop.com/nightmagic)
 
 [![](https://viraltrafficgames.com/getimg.php?id=1)](https://viraltrafficgames.com/?rid=10247)
 
-[![](https://boomerangblaster.com/ban44.gif)](https://boomerangblaster.com/sabdev)
+[![](https://topdogsrotator.com/a125.gif)](https://topdogsrotator.com/ancients)
+
+[![](https://actualhits4u.com/getimg.php?id=1)](https://actualhits4u.com/?rid=11919)
 
 ![](26yrs0.gif)
 
