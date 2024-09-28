@@ -1,4 +1,4 @@
-[![Timer for Google Forms and proctoring](/assets/quilgo-logo-white.png?v=1727319293)](https://quilgo.com/)
+[![Timer for Google Forms and proctoring](/assets/quilgo-logo-white.png?v=1727518807)](https://quilgo.com/)
 
 * [Pricing](https://quilgo.com/pricing)
 * [Who it's for](#)
@@ -7,15 +7,10 @@
 * [Examples](#)
     *  [Demo Test](https://quilgo.com/library/demo)
     *  [CCAT Online Test](https://quilgo.com/library/ccat)
-    *  [Fire Safety Assessment](https://quilgo.com/library/fire-safety)
 * [Integrations](#)
-    * [Google Forms™](https://quilgo.com/google-forms-integration)
-    * Google Classroom™
-        
-        Coming soon
-        
-    * [Moodle™](https://quilgo.com/moodle)
-* [Docs](https://quilgo.com/guide)
+    * [Google Forms™](https://workspace.google.com/marketplace/app/timer_+_ai_proctor_limiter_for_forms_qui/992310177365)
+    * [Google Classroom™](https://workspace.google.com/marketplace/app/quilgo_forms_proctoring/485882830144)
+    * [Moodle™](https://moodle.org/plugins/quizaccess_quilgo)
 
 * [🇺🇸 English](#)
     * 🇺🇸 English
@@ -459,7 +454,7 @@
 
 This document was last updated: 22 March 2024
 
-[![Online Assessment Platform Quilgo](/assets/quilgo-logo-white.png?v=1727319293)](https://quilgo.com/)
+[![Online Assessment Platform Quilgo](/assets/quilgo-logo-white.png?v=1727518807)](https://quilgo.com/)
 
 Who it's for
 
