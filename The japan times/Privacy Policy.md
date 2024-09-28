@@ -463,6 +463,14 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
+
+  [![Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424413.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
+
+[China's newest nuclear-powered submarine sank this year, U.S. says](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
+
+  [![A series of satellite images from Planet Labs appears to show cranes at the Wuchang shipyard in Wuhan, China, on June 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424289.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A series of satellite images from Planet Labs appears to show cranes at the Wuchang shipyard in Wuhan, China, on June 15.")](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
+
 [In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
 
   [![Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424159.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.")](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
@@ -471,17 +479,9 @@ Revised June 1, 2022
 
   [![Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278413.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.")](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
 
-[Takaichi and Ishiba head to runoff in LDP leadership election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
+[Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
 
-  [![A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424046.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A poster showing portraits of candidates for the Liberal Democratic Party's presidential election at the party headquarters in Tokyo on Wednesday")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-curtain-raiser/ "Takaichi and Ishiba head to runoff in LDP leadership election")
-
-[Putin issues nuclear warning to the West over Ukraine striking Russia](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
-
-  [![Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423972.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Russia's President Vladimir Putin chairs a meeting of the Security Council on the subject of nuclear deterrence in Moscow on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/world/politics/putin-nuclear-warning-russia-ukraine/ "Putin issues nuclear warning to the West over Ukraine striking Russia")
-
-[Tokyo Game Show 2024 stacked with big returns and hyped announcements](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
-
-  [![Tokyo Game Show opens to the public on Sept. 28 full of cosplayers promoting a full slate of new and upcoming titles.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424118.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Game Show opens to the public on Sept. 28 full of cosplayers promoting a full slate of new and upcoming titles.")](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
+  [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
 
 [Tokyo Game Show 2024 stacked with big returns and hyped announcements](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
 
@@ -491,17 +491,13 @@ Revised June 1, 2022
 
   [![A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424262.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.")](https://www.japantimes.co.jp/news/2024/09/27/japan/science-health/japan-hpv-vaccine-subsidies/ "Deadline approaches for free HPV vaccine 'catch-up' campaign")
 
+[Weather makes for an unpredictable artist at Nagano art festival](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
+
+  [![“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/423917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ")](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
+
 [A first look inside the new Nintendo Museum](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
 
   [![The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423852.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.")](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
-
-[Japan MSDF warship sails through Taiwan Strait for first time](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
-
-  [![The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/423948.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami arrives in Diego Garcia in the Indian Ocean during a scheduled port visit in July. The Sazanami became the first Japanese warship to sail through the Taiwan Strait on Wednesday.")](https://www.japantimes.co.jp/news/2024/09/26/japan/politics/japan-msdf-taiwan-strait-china/ "Japan MSDF warship sails through Taiwan Strait for first time")
-
-[People of all ages and sizes scale new heights amid climbing boom in Japan](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
-
-  [![A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/423455.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A climbing wall at a kindergarten in Fujiyoshida, Yamanashi Prefecture. The sport has been on the rise in Japan, mainly due to the popularity it gained from the Tokyo Olympics in 2021, and new climbing walls are popping all over the place.")](https://www.japantimes.co.jp/sports/2024/09/24/more-sports/climbing-popularity-japan/ "People of all ages and sizes scale new heights amid climbing boom in Japan")
 
 Podcast
 -------
@@ -522,9 +518,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +560,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "An unusual result for an unusual election")
+[Japan, U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
 
-10 hours ago
+34 mins ago
 
-[Toyota to recall over 42,000 U.S. vehicles over loss of power brake assist](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-us-recall/ "Toyota to recall over 42,000 U.S. vehicles over loss of power brake assist")
+[Dozens dead as Helene cuts destructive path through southeastern U.S.](https://www.japantimes.co.jp/news/2024/09/28/world/tropical-depression-helene-us/ "Dozens dead as Helene cuts destructive path through southeastern U.S.")
 
-11 hours ago
+1 hours ago
 
-[China, Taiwan and South Korea weigh in on Ishiba victory](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/shigeru-ishiba-ldp-south-korea-china-taiwan/ "China, Taiwan and South Korea weigh in on Ishiba victory")
+[Israel likely to have enough weapons for multiple conflicts](https://www.japantimes.co.jp/news/2024/09/28/world/israel-weapons-stockpile/ "Israel likely to have enough weapons for multiple conflicts")
 
-11 hours ago
+1 hours ago
 
-[Game developer Virtuos seeks acquisitions and growth in Japan](https://www.japantimes.co.jp/business/2024/09/27/companies/virtuos-acquisition-japan/ "Game developer Virtuos seeks acquisitions and growth in Japan")
+[On trip to U.S., Zelenskyy finds Ukraine’s fortunes tied to the election](https://www.japantimes.co.jp/news/2024/09/28/world/politics/zelenskyy-ukraine-us-presidential-election/ "On trip to U.S., Zelenskyy finds Ukraine’s fortunes tied to the election")
 
-11 hours ago
+2 hours ago
 
-[Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
+[Israeli airstrikes rock Beirut, as Hezbollah command center is hit](https://www.japantimes.co.jp/news/2024/09/28/world/israel-hezbollah-beirut-nasrallah/ "Israeli airstrikes rock Beirut, as Hezbollah command center is hit")
 
-11 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
