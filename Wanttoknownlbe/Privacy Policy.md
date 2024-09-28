@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/ouders-online-krabbelt-terug-inzake-advies-kindervaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/wetenschap-concludeert-prozac-gebruikt-door-40-miljoen-mensen-werkt-niet/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
