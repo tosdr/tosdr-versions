@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Warren Rudman: Rebel with a Cause** | NHPBS Presents](https://video.nhpbs.org/video/nhptv-special-productions-warren-rudman-rebel-cause?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview of Dracula's Hidden Kingdom** | Nature](https://video.nhpbs.org/video/about-draculas-hidden-kingdom?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Craig Morgan performs "That's What I Love About Sunday"** | Salute to Service: A Veterans Day Celebration](https://video.nhpbs.org/video/craig-morgan-performs-thats-what-i-love-about-sunday-joqaqq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trump's Pitch to Women; ''The Bro Vote''** | To The Contrary](https://video.nhpbs.org/video/trumps-pitch-to-women-the-bro-vote-2ki6qf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Hillary Clinton** | Firing Line](https://video.nhpbs.org/video/hillary-clinton-h6sxwm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Renegades: Five people with disabilities who changed history** | American Masters](https://video.nhpbs.org/video/renegades-five-people-with-disabilities-who-changed-history-zqhv3o?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Georgia works to secure voting machines amid concerns** | PBS News Hour](https://video.nhpbs.org/video/securing-the-vote-1727470126?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Big Cats Unleashed - Why Being a (Big Cat) Parent is Not Easy** | Big Cats 24/7](https://video.nhpbs.org/video/big-cats-unleashed-why-being-a-big-cat-parent-is-not-easy-mpxkcj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Gary Clark Jr. / Black Pumas** | Austin City Limits](https://video.nhpbs.org/video/gary-clark-jr-black-pumas-wdow7u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview Turning Over a New Collard Leaf** | The Key Ingredient](https://video.nhpbs.org/video/preview-turning-over-a-new-collard-leaf-u5pp5p?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**What Matters Most Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-what-matters-most-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 26, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-26-2024-pbs-news-hour-full-episode-1727323201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Dr. Francis Collins on Faith, Science, and "The Road to Wisdom"** | Amanpour and Company](https://video.nhpbs.org/video/dr-francis-collins-on-faith-science-and-the-road-to-wisdom-igcydt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**This Mite-y Beetle Buries the Dead to Start a Family** | Deep Look](https://video.nhpbs.org/video/this-mite-y-beetle-buries-the-dead-to-start-a-family-inialw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Snarky Puppy Preview** | Next at the Kennedy Center](https://video.nhpbs.org/video/snarky-puppy-extended-preview-vje5tz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**New Assyrian Artifact Discovered in Ancient Iraqi Palace** | Secrets of the Dead](https://video.nhpbs.org/video/new-assyrian-artifact-discovered-in-ancient-iraqi-palace-doxdhb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
