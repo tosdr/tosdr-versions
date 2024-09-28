@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1733277939_menu)
+ [Compartilhar](#elShareItem_1003305059_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1717596431_menu)
+ [Compartilhar](#elShareItem_2103097834_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -340,9 +340,9 @@ Mais opções...
 
 [Ir à lista de tópicos](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/ "Ir para Avisos da administração")
 
-* ### Quem está navegando aqui   1 usuário está online
+* ### Quem está navegando aqui   0 usuários estão online
     
-    * [Bruno 902](https://www.clubedohardware.com.br/profile/1200078-bruno-902/ "Ir ao perfil de Bruno 902")
+    * Nenhum usuário registrado visualizando esta página.
     
     * * *
     
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Sklep](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253727.thumb.png.acb7061fec986791ccb1dd40fec45158.png)](https://www.clubedohardware.com.br/profile/1253727-sklep/ "Ir ao perfil de Sklep")
+    * [![Gabriel_Alencar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253737.thumb.png.460c1147632f692340d866a2b50349cc.png)](https://www.clubedohardware.com.br/profile/1253737-gabriel_alencar/ "Ir ao perfil de Gabriel_Alencar")
         
         0
         
-        [Pc demora para ligar pela primeira vez?](https://www.clubedohardware.com.br/forums/topic/1698407-pc-demora-para-ligar-pela-primeira-vez/?do=getNewComment "Pc demora para ligar pela primeira vez?")
+        [Qual um setup custo-benefício hoje?](https://www.clubedohardware.com.br/forums/topic/1698427-qual-um-setup-custo-benef%C3%ADcio-hoje/?do=getNewComment "Qual um setup custo-benefício hoje?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Sklep](https://www.clubedohardware.com.br/profile/1253727-sklep/ "Ir ao perfil de Sklep")  
-        26 minutos atrás
+        Por [Gabriel\_Alencar](https://www.clubedohardware.com.br/profile/1253737-gabriel_alencar/ "Ir ao perfil de Gabriel_Alencar")  
+        7 minutos atrás
         
-    * [![matheus slv tvrs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1173118.thumb.png.d41618c7ca7443174d7922385cf3e654.png)](https://www.clubedohardware.com.br/profile/1173118-matheus-slv-tvrs/ "Ir ao perfil de matheus slv tvrs")
+    * [![FelipeGalveira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1241519.thumb.jpeg.1ec93ab79003443705abb1ac9650b820.jpeg)](https://www.clubedohardware.com.br/profile/1241519-felipegalveira/ "Ir ao perfil de FelipeGalveira")
         
-        7
+        0
         
-        [Placa-mãe B550M PLUS suporta a GeForce RTX 4060TI GAMING X SLIM 16GB?](https://www.clubedohardware.com.br/forums/topic/1698406-placa-m%C3%A3e-b550m-plus-suporta-a-geforce-rtx-4060ti-gaming-x-slim-16gb/?do=getNewComment "Placa-mãe B550M PLUS suporta a GeForce RTX 4060TI GAMING X SLIM 16GB?")
+        Arduino [Meu Arduino Uno não quer mais carregar os códigos!](https://www.clubedohardware.com.br/forums/topic/1698426-meu-arduino-uno-n%C3%A3o-quer-mais-carregar-os-c%C3%B3digos/?do=getNewComment "Meu Arduino Uno não quer mais carregar os códigos!")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [matheus slv tvrs](https://www.clubedohardware.com.br/profile/1173118-matheus-slv-tvrs/ "Ir ao perfil de matheus slv tvrs")  
-        45 minutos atrás
+        [Microcontroladores](https://www.clubedohardware.com.br/forums/forum/217-microcontroladores/ "Microcontroladores")  
+        Por [FelipeGalveira](https://www.clubedohardware.com.br/profile/1241519-felipegalveira/ "Ir ao perfil de FelipeGalveira")  
+        11 minutos atrás
         
-    * [![Adriano Lucas](https://www.clubedohardware.com.br/uploads/members/monthly_2022_01/imported-photo-1186547.thumb.png.bf582719b10cdd54aaf8f82b987caad0.png)](https://www.clubedohardware.com.br/profile/1186547-adriano-lucas/ "Ir ao perfil de Adriano Lucas")
+    * [![Ymago](https://www.clubedohardware.com.br/uploads/members/monthly_2018_09/imported-photo-1005770.thumb.jpeg.e227877dee237762172c2b03c8e25559.jpeg)](https://www.clubedohardware.com.br/profile/1005770-ymago/ "Ir ao perfil de Ymago")
         
-        1
+        0
         
-        [Qual fonte comprar: Rise Mode Zeus 650w ou Cooler Master MWE bronze v2 650w?](https://www.clubedohardware.com.br/forums/topic/1698405-qual-fonte-comprar-rise-mode-zeus-650w-ou-cooler-master-mwe-bronze-v2-650w/?do=getNewComment "Qual fonte comprar: Rise Mode Zeus 650w ou Cooler Master MWE bronze v2 650w?")
+        [Qual destes notebooks gaming é melhor no geral?](https://www.clubedohardware.com.br/forums/topic/1698425-qual-destes-notebooks-gaming-%C3%A9-melhor-no-geral/?do=getNewComment "Qual destes notebooks gaming é melhor no geral?")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Adriano Lucas](https://www.clubedohardware.com.br/profile/1186547-adriano-lucas/ "Ir ao perfil de Adriano Lucas")  
-        46 minutos atrás
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Ymago](https://www.clubedohardware.com.br/profile/1005770-ymago/ "Ir ao perfil de Ymago")  
+        23 minutos atrás
         
-    * [![GamerTube](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251777.thumb.png.e1683dd5f0894f1987fc960c91b5a200.png)](https://www.clubedohardware.com.br/profile/1251777-gamertube/ "Ir ao perfil de GamerTube")
+    * [![James_BR](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1230410.thumb.jpeg.eb62a450ef98193d0328504eac564c62.jpeg)](https://www.clubedohardware.com.br/profile/1230410-james_br/ "Ir ao perfil de James_BR")
         
-        2
+        0
         
-        [Qual SSD escolher para MSI B550m pro-vdh wifi?](https://www.clubedohardware.com.br/forums/topic/1698403-qual-ssd-escolher-para-msi-b550m-pro-vdh-wifi/?do=getNewComment "Qual SSD escolher para MSI B550m pro-vdh wifi?")
+        [Headset ou Microfone? Uso para Músicas e Jogos com orçamento de R$250 a R$350](https://www.clubedohardware.com.br/forums/topic/1698423-headset-ou-microfone-uso-para-m%C3%BAsicas-e-jogos-com-or%C3%A7amento-de-r250-a-r350/?do=getNewComment "Headset ou Microfone? Uso para Músicas e Jogos com orçamento de R$250 a R$350")
         
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [GamerTube](https://www.clubedohardware.com.br/profile/1251777-gamertube/ "Ir ao perfil de GamerTube")  
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [James\_BR](https://www.clubedohardware.com.br/profile/1230410-james_br/ "Ir ao perfil de James_BR")  
         1 hora atrás
         
     * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
         
-        4
+        2
         
-        [Ejetar HD externo no Windows 10 é seguro?](https://www.clubedohardware.com.br/forums/topic/1698402-ejetar-hd-externo-no-windows-10-%C3%A9-seguro/?do=getNewComment "Ejetar HD externo no Windows 10 é seguro?")
+        [HDD vida util e magnetismo](https://www.clubedohardware.com.br/forums/topic/1698422-hdd-vida-util-e-magnetismo/?do=getNewComment "HDD vida util e magnetismo")
         
         [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
         Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
         1 hora atrás
         
-    * [![geovane 123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1045751.thumb.jpeg.737eced109fa6ce9f0cf8391b92f7369.jpeg)](https://www.clubedohardware.com.br/profile/1045751-geovane-123/ "Ir ao perfil de geovane 123")
+    * [![Davi M.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1231654.thumb.jpeg.7d6b0792f2b1ada21c847b619c57277e.jpeg)](https://www.clubedohardware.com.br/profile/1231654-davi-m/ "Ir ao perfil de Davi M.")
+        
+        2
+        
+        [Fonte para Ryzen 5 5600GT e futura Radeon RX580 ou GeForce GTX 1650](https://www.clubedohardware.com.br/forums/topic/1698420-fonte-para-ryzen-5-5600gt-e-futura-radeon-rx580-ou-geforce-gtx-1650/?do=getNewComment "Fonte para Ryzen 5 5600GT e futura Radeon RX580 ou GeForce GTX 1650")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Davi M.](https://www.clubedohardware.com.br/profile/1231654-davi-m/ "Ir ao perfil de Davi M.")  
+        1 hora atrás
+        
+    * [![Kevin Aguiar](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/foto-conta-windows.thumb.jpg.95ad9788ef482597a8c62486e6d433db.jpg)](https://www.clubedohardware.com.br/profile/992499-kevin-aguiar/ "Ir ao perfil de Kevin Aguiar")
         
         0
         
-        [Como saber a medida do Reparo corneta](https://www.clubedohardware.com.br/forums/topic/1698400-como-saber-a-medida-do-reparo-corneta/?do=getNewComment "Como saber a medida do Reparo corneta")
+        [Troca de monitores para edição e jogos.](https://www.clubedohardware.com.br/forums/topic/1698419-troca-de-monitores-para-edi%C3%A7%C3%A3o-e-jogos/?do=getNewComment "Troca de monitores para edição e jogos.")
         
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [geovane 123](https://www.clubedohardware.com.br/profile/1045751-geovane-123/ "Ir ao perfil de geovane 123")  
-        1 hora atrás
-        
-    * [![Rodi40](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253724.thumb.png.7ed2a5e2b85678ce74d9064fbd572975.png)](https://www.clubedohardware.com.br/profile/1253724-rodi40/ "Ir ao perfil de Rodi40")
-        
-        5
-        
-        [ASUS tuf gaming A520M Plus II suporta a Radeon RX 7800 XT?](https://www.clubedohardware.com.br/forums/topic/1698399-asus-tuf-gaming-a520m-plus-ii-suporta-a-radeon-rx-7800-xt/?do=getNewComment "ASUS tuf gaming A520M Plus II suporta a Radeon RX 7800 XT?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Rodi40](https://www.clubedohardware.com.br/profile/1253724-rodi40/ "Ir ao perfil de Rodi40")  
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Kevin Aguiar](https://www.clubedohardware.com.br/profile/992499-kevin-aguiar/ "Ir ao perfil de Kevin Aguiar")  
         2 horas atrás
         
-    * [![gavihawk](https://www.clubedohardware.com.br/uploads/members/monthly_2021_11/1412899292_6y1tsNn-min(1).thumb.jpg.f016c82627fd1ccd6d89bd6ec2e504f7.jpg)](https://www.clubedohardware.com.br/profile/995442-gavihawk/ "Ir ao perfil de gavihawk")
-        
-        3
-        
-        [Ryzen 5 5600g não aceita alocar VRAM na BIOS](https://www.clubedohardware.com.br/forums/topic/1698398-ryzen-5-5600g-n%C3%A3o-aceita-alocar-vram-na-bios/?do=getNewComment "Ryzen 5 5600g não aceita alocar VRAM na BIOS")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [gavihawk](https://www.clubedohardware.com.br/profile/995442-gavihawk/ "Ir ao perfil de gavihawk")  
-        2 horas atrás
-        
-    * [![Kosmo1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253720.thumb.jpeg.3dc8d539d71bd1f9dcaf6e79d1ae31cb.jpeg)](https://www.clubedohardware.com.br/profile/1253720-kosmo1/ "Ir ao perfil de Kosmo1")
+    * [![lucasBRUH](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1205509.thumb.jpeg.bec7443fcaa4ff60c682923d4a6934c0.jpeg)](https://www.clubedohardware.com.br/profile/1205509-lucasbruh/ "Ir ao perfil de lucasBRUH")
         
         4
         
-        [Qual o melhor cooler custo-benefício para o AMD Ryzen 7 5700X?](https://www.clubedohardware.com.br/forums/topic/1698397-qual-o-melhor-cooler-custo-benef%C3%ADcio-para-o-amd-ryzen-7-5700x/?do=getNewComment "Qual o melhor cooler custo-benefício para o AMD Ryzen 7 5700X?")
+        [Indicação de fonte para Core i5-12400F e GeForce RTX 2060 Super](https://www.clubedohardware.com.br/forums/topic/1698418-indica%C3%A7%C3%A3o-de-fonte-para-core-i5-12400f-e-geforce-rtx-2060-super/?do=getNewComment "Indicação de fonte para Core i5-12400F e GeForce RTX 2060 Super")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Kosmo1](https://www.clubedohardware.com.br/profile/1253720-kosmo1/ "Ir ao perfil de Kosmo1")  
-        2 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [lucasBRUH](https://www.clubedohardware.com.br/profile/1205509-lucasbruh/ "Ir ao perfil de lucasBRUH")  
+        3 horas atrás
         
-    * [![Red X](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/505136-86380729928_23.p3_2_.thumb.gif.aa2f99a19ce1de6742d15c8137abb4a1.gif)](https://www.clubedohardware.com.br/profile/1206096-red-x/ "Ir ao perfil de Red X")
+    * [![Toug](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1216430.thumb.jpeg.91bc672375b797aa53fc921712f0b466.jpeg)](https://www.clubedohardware.com.br/profile/1216430-toug/ "Ir ao perfil de Toug")
         
         1
         
-        [gabinete bom de até 400 reais](https://www.clubedohardware.com.br/forums/topic/1698396-gabinete-bom-de-at%C3%A9-400-reais/?do=getNewComment "gabinete bom de até 400 reais")
+        [Core i7-3770 com 105ºC, como diminuir e posso usa-lo sem GPU para streaming?](https://www.clubedohardware.com.br/forums/topic/1698417-core-i7-3770-com-105%C2%BAc-como-diminuir-e-posso-usa-lo-sem-gpu-para-streaming/?do=getNewComment "Core i7-3770 com 105ºC, como diminuir e posso usa-lo sem GPU para streaming?")
         
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Red X](https://www.clubedohardware.com.br/profile/1206096-red-x/ "Ir ao perfil de Red X")  
-        2 horas atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Toug](https://www.clubedohardware.com.br/profile/1216430-toug/ "Ir ao perfil de Toug")  
+        3 horas atrás
+        
+    * [![opmdrms](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4be%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EO%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253731-opmdrms/ "Ir ao perfil de opmdrms")
+        
+        2
+        
+        [Estender rede cabeada e wi-fi com roteador secundário](https://www.clubedohardware.com.br/forums/topic/1698416-estender-rede-cabeada-e-wi-fi-com-roteador-secund%C3%A1rio/?do=getNewComment "Estender rede cabeada e wi-fi com roteador secundário")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [opmdrms](https://www.clubedohardware.com.br/profile/1253731-opmdrms/ "Ir ao perfil de opmdrms")  
+        3 horas atrás
         
     
 
