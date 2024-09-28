@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the warning signs of elder abuse and neglect?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-warning-signs-of-elder-abuse-and-neglect-scaled.jpg "What Are the Warning Signs of Elder Abuse and Neglect?")](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/ "What Are the Warning Signs of Elder Abuse and Neglect?")
+[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
 
-[#### What Are the Warning Signs of Elder Abuse and Neglect?](https://www.pintas.com/faq/what-are-the-warning-signs-of-elder-abuse-and-neglect/)
+[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
 
-[![How long does a mesothelioma case take?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-long-does-a-mesothelioma-case-take-scaled.jpg "How Long Does A Mesothelioma Case Take?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/ "How Long Does A Mesothelioma Case Take?")
+[![Does johnson & johnson still use talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-does-johnson-and-johnson-still-use-talcum-powder.jpg "Does Johnson & Johnson Still Use Talcum Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/does-johnson-and-johnson-still-use-talcum-powder "Does Johnson & Johnson Still Use Talcum Powder?")
 
-[#### How Long Does A Mesothelioma Case Take?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/)
+[#### Does Johnson & Johnson Still Use Talcum Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/does-johnson-and-johnson-still-use-talcum-powder)
 
-[![How to file a sexual abuse lawsuit against the mormon church](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How to File a Sexual Abuse Lawsuit Against the Mormon Church")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/ "How to File a Sexual Abuse Lawsuit Against the Mormon Church")
+[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
 
-[#### How to File a Sexual Abuse Lawsuit Against the Mormon Church](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/)
+[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
 
 ### Injured?  
 Tell Us What Happened.
