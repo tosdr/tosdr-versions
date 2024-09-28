@@ -253,6 +253,7 @@ DID YOU KNOW...?
 * [![LinkedIn](https://www.chpw.org/wp-content/themes/chpw/images/icons/LinkedIn_wt2x.png)](https://www.linkedin.com/company/chpw/ "CHPW LinkedIn Channel")
 * [![YouTube](https://www.chpw.org/wp-content/themes/chpw/images/icons/Youtube_wt2x.png)](https://www.youtube.com/@myCHPW "CHPW YouTube Channel")
 * [![Instagram](https://www.chpw.org/wp-content/themes/chpw/images/icons/Instagram_wt2x.png)](https://www.instagram.com/mychpw/?hl=en "CHPW Instagram Channel")
+* [![Threads](https://www.chpw.org/wp-content/themes/chpw/images/icons/icon-threads.png)](https://www.threads.net/@mychpw "CHPW Threads Channel")
 
 #### QUICK LINKS
 
