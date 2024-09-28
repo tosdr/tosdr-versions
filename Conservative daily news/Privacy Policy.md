@@ -1,16 +1,5 @@
 Friday, September 27 2024
 
-Breaking News
-
-* [The US Should Stop Funding The United Nations](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
-* [Biden Reportedly Planning To Make Tightened Border Asylum Restrictions More Permanent](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
-* [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
-* [President Joe Biden’s Schedule for Friday, September 27, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-27-2024/)
-* [FAIL: Army Delays Pay Raise For Soldiers Days Before It Was Expected To Arrive](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
-* [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/)
-* [Feds Indict New York City Mayor Eric Adams: REPORT](https://www.conservativedailynews.com/2024/09/feds-indict-new-york-city-mayor-eric-adams-report/)
-* [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
-
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
 * [Sign In](#)
@@ -177,16 +166,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Podcast Roundup 148: The September 27th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-148-the-september-27th-roundup/10610863)
+* [TFB Review: MKE MP5 Style Retractable Buttstock](https://www.thegunpage.com/tfb-review-mke-mp5-style-retractable-buttstock/10610864)
+* [They’re Baaackkk: Slide Fire Relaunches](https://www.thegunpage.com/theyre-baaackkk-slide-fire-relaunches/10610860)
+* [Sig Sauer Introduces The Reserve Collection P226 XFive](https://www.thegunpage.com/sig-sauer-introduces-the-reserve-collection-p226-xfive/10610858)
+* [Licensed Troubleshooter: The Guns Of James Bond Smashes Pre-order Goal](https://www.thegunpage.com/licensed-troubleshooter-the-guns-of-james-bond-smashes-pre-order-goal/10610862)
+* [Long Term Review of Staccato P Pistol](https://www.thegunpage.com/long-term-review-of-staccato-p-pistol/10610861)
+* [Visiting Ammo Plant in PA, Ukraine’s Zelensky Shills for the Democrats](https://www.thegunpage.com/visiting-ammo-plant-in-pa-ukraines-zelensky-shills-for-the-democrats/10610856)
 * [Vortex Introduces Viper HD 11-33×50 Spotting Scopes](https://www.thegunpage.com/vortex-introduces-viper-hd-11-33x50-spotting-scopes/10610853)
 * [FPC Files Brief In Appeal Concerning 3rd Grader’s Gun-Related Cap](https://www.thegunpage.com/fpc-files-brief-in-appeal-concerning-3rd-graders-gun-related-cap/10610851)  
 * [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.thegunpage.com/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/10610849)
-* [Walther PPK/S SD: The REAL James Bond Pistol?](https://www.thegunpage.com/walther-ppk-s-sd-the-real-james-bond-pistol/10610854)
-* [Staying Above Ground In NYC](https://www.thegunpage.com/staying-above-ground-in-nyc/10610847)
-* [GRPC LIVESTREAM LINKS](https://www.thegunpage.com/grpc-livestream-links/10610845)
-* [USA Shooting Earns Six Medals At Paris 2024 Olympic & Paralympic Games](https://www.thegunpage.com/usa-shooting-earns-six-medals-at-paris-2024-olympic-paralympic-games/10610844)
-* [TFB Review: Springfield Armory 1911 Operator AOS 5” .45 ACP](https://www.thegunpage.com/tfb-review-springfield-armory-1911-operator-aos-5-45-acp/10610841)
-* [POTD: Ruger Precision Rifle With A-Tec Marksman Suppressor](https://www.thegunpage.com/potd-ruger-precision-rifle-with-a-tec-marksman-suppressor/10610842)
-* [Concealed Carry Corner: Best Cover Garments](https://www.thegunpage.com/concealed-carry-corner-best-cover-garments/10610843)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -225,18 +214,6 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
-
-Recent Comments
-
-* Graig Peterman on [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/#comment-782340)
-* WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
-* James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
-* Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
-* Brad Lowther on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782316)
-* Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
-* KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
-* KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
-* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
 
 [Close](#)
 
