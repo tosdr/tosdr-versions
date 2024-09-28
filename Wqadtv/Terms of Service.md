@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a9323193-78b2-41ca-898e-9fb59d4ca914/20240927T211508/a9323193-78b2-41ca-898e-9fb59d4ca914_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a9323193-78b2-41ca-898e-9fb59d4ca914/20240927T211508/a9323193-78b2-41ca-898e-9fb59d4ca914_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-        #### [6-year-old among 2 dead in Galesburg house fire](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-    *  [![](https://media.tegna-media.com/assets/NCM/images/99e53302-7417-4cd4-9e31-3aab503bc767/99e53302-7417-4cd4-9e31-3aab503bc767_16x9.jpg) ![](https://media.tegna-media.com/assets/NCM/images/99e53302-7417-4cd4-9e31-3aab503bc767/99e53302-7417-4cd4-9e31-3aab503bc767_360x203.jpg)](https://www.wqad.com/article/news/local/driver-crashes-into-rural-galena-home-jo-daviess-county-sheriffs-office/526-100059e0-3004-4f7c-b275-1001274c4323)
+    *  [![](https://media.tegna-media.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_16x9.jpg) ![](https://media.tegna-media.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/iowa-teen-reported-missing-keokuk-endangered-person-advisory/526-8205751c-b114-49f3-9e54-ac0e6d93decc)
         
-        #### [Driver crashes into rural Galena home injuring 4, sheriff's office says](https://www.wqad.com/article/news/local/driver-crashes-into-rural-galena-home-jo-daviess-county-sheriffs-office/526-100059e0-3004-4f7c-b275-1001274c4323)
+        #### [Teenager missing out of Keokuk, Iowa found safe](https://www.wqad.com/article/news/local/public-safety/iowa-teen-reported-missing-keokuk-endangered-person-advisory/526-8205751c-b114-49f3-9e54-ac0e6d93decc)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-74°
+80°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
