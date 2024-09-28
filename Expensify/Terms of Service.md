@@ -1,4 +1,6 @@
-[![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2679/assets/img/expensify-wordmark.svg)](https://use.expensify.com/)
+[![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2705/assets/img/expensify-wordmark.svg)](https://use.expensify.com/)
+
+Sign In
 
 * [Product](https://use.expensify.com/product)
     * [Expense Management](https://use.expensify.com/expense-management)
