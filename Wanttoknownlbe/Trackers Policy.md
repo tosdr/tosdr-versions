@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-komende-slavisch-russische-cultuurperiode/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/het-buitenaardse-verhaal-van-corey-goode/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
