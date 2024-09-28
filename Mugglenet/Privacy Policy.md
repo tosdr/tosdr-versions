@@ -324,15 +324,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
+There are about 3,000 wizards in Britain.
 
 ### Potter History
 
-April 20, 2006 – Harry Potter and the Order of the Phoenix film release dates are confirmed.
+July 23, 2010 – StarKid releases A Very Potter Sequel on their YouTube account.
 
 ### Potter Quote
 
-“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
+“Wild! I can make that old bloke down there pick his nose again . . . and again . . . and again . . .”
 
 [](#)
 
