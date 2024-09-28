@@ -254,7 +254,7 @@ Follow us
 * [Facebook](https://www.facebook.com/FitJoy "FitJoy Foods on Facebook")
 * [LinkedIn](https://www.linkedin.com/company/fitjoyfoods/about/?viewAsMember=true "FitJoy Foods on LinkedIn")
 
-© 2024 FitJoy Foods [Meet The Team](https://fitjoyfoods.com/pages/our-people)[Store Locator](https://fitjoyfoods.com/pages/find-pretzels)[FitJoy Affiliate Program](https://fitjoy.refersion.com/) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+© 2024 FitJoy Foods [Meet The Team](https://fitjoyfoods.com/pages/our-people)[Store Locator](https://fitjoyfoods.com/pages/find-pretzels)[FitJoy Affiliate Program](https://fitjoy.refersion.com/) Built with Help from [Launch Supply](https://launchsupply.com/)
 
 "Close (esc)"
 
