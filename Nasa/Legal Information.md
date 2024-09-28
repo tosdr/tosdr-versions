@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![This image, taken from a data visualization, shows Arctic sea ice minimum extent on September 11, 2024. The yellow boundary shows the minimum extent averaged over the 30-year period from 1981 to 2010.](https://www.nasa.gov/wp-content/uploads/2024/09/sea-ice-2024-min-2160p60-2608-print.jpg?w=1024)
+[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
 
-4 min read
+1 min read
 
-### Arctic Sea Ice Near Historic Low; Antarctic Ice Continues Decline
+### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
 
-article3 days ago](https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/)[![Hubble Lights the Way with New Multiwavelength Galaxy View](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ngc1559-potw2438a-1.jpg)
+article2 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
-2 min read
+6 min read
 
-### Hubble Lights the Way with New Multiwavelength Galaxy View
+### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 
-article1 week ago](https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+article2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
 
 6 min read
 
@@ -241,25 +241,25 @@ Back
 
 ### Featured
 
-[![Learn about some of the engineering work being done by five members of NASA’s Europa Clipper mission, which aims to launch Thursday, Oct. 10.](https://www.nasa.gov/wp-content/uploads/2024/09/1-trailer-behind-the-spacecraft-europa-clipper-.png?w=1024)
+[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
 
-4 min read
+2 min read
 
-### New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
+### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 4 days ago](https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
+article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
-6 min read
+1 min read
 
-### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
+### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 4 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)[![SpaceX Crew-9 members (from left) Mission Specialist Aleksandr Gorbunov from Roscosmos and Commander Nick Hague from NASA pose for an official crew portrait at NASA's Johnson Space Center in Houston, Texas. Credit: NASA/Josh Valcarel](https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e061425.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
 
-5 min read
+3 min read
 
-### What You Need to Know about NASA’s SpaceX Crew-9 Mission
+### NASA’s BioSentinel Studies Solar Radiation as Earth Watches Aurora
 
-article 1 week ago](https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/)
+article 1 day ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 1 week ago](https://www.nasa.gov/missions/station/commercial-crew/what-y
 
 ### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
 
-article 1 day ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
+article 2 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
 
 4 min read
 
@@ -291,7 +291,7 @@ article 1 week ago](https://www.nasa.gov/missions/station/iss-research/nasa-astr
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 10 min read
 
@@ -319,7 +319,7 @@ article 1 day ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-solar
 
 ### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 1 day ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 2 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 10 min read
 
@@ -335,13 +335,13 @@ article 2 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 9 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
 ### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 10 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change
 
-article 23 mins ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes](https://science.nasa.gov/wp-content/uploads/2024/09/pia19821-nustar-xrt-sun.jpg)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes](https://science.nasa.gov/wp-content/uploads/2024/09/pia19821-nustar-xrt-sun.jpg)
 
 2 min read
 
 ### Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes
 
-article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-54-d-9-nustar-phase-1-proposal-due-date-moved-up-to-january-29-2025-and-other-changes/)
+article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-54-d-9-nustar-phase-1-proposal-due-date-moved-up-to-january-29-2025-and-other-changes/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/students-s
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 2 hours ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
 
 3 min read
 
@@ -439,25 +439,25 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### Featured
 
-[![Hampton Roads flooding in Virginia](https://www.nasa.gov/wp-content/uploads/2024/09/hampton-roads-flooding-va-sea-grant.jpg?w=1024)
+[![Image shows a SpaceX Falcon 9 rocket lifting off from Launch Complex 39A. A Dragon spacecraft is carrying NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin to the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/09/nasas-spacex-crew-8-launch.jpg?w=1024)
+
+1 min read
+
+### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
+
+article 2 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
 
 4 min read
 
-### NASA Helps Build New Federal Sea Level Rise Website
+### Getting SSPICY: NASA Funds Orbital Debris Inspection Mission
 
-article 3 days ago](https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/)[![The Pride Progress Flag is seen waving in the wind following a flag raising ceremony in recognition and celebration of LGBTQI+ Pride Month at the Mary W. Jackson NASA Headquarters building in Washington on June 1, 2023.](https://www.nasa.gov/wp-content/uploads/2024/09/hq-flags.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/ames/getting-sspicy-nasa-funds-orbital-debris-inspection-mission/)[![An image of two murals painted on loading dock garage doors. The murals include bold, bright colors and geometric shapes. The image two the left features planet Earth with a satellite that features the NASA logo. The mural on the right has an image of a child in an astronaut suit playing with toys.](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-art-program-mural-hudson-sq-.jpg?w=1024)
 
-4 min read
+3 min read
 
-### NASA Expands Small Business, Industry Engagement Resources
+### NASA Relaunches Art Program with Space-Themed Murals
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-expands-small-business-industry-engagement-resources/)[![Celebrating 10 Years at Mars with NASA’s MAVEN Mission](https://science.nasa.gov/wp-content/uploads/2024/09/maven-hero-image.png)
-
-6 min read
-
-### Celebrating 10 Years at Mars with NASA’s MAVEN Mission
-
-article 4 days ago](https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/)
+article 3 days ago](https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/)
 
 ### Highlights
 
