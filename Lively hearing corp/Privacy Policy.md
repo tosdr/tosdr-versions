@@ -1,24 +1,22 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-Turn $200 off into $300 off!
+Get $150 off, right to your inbox!
 
-Turn $200 off into $300 off!
+Get $150 off, right to your inbox!
 
-Turn $200 off into $300 off!
+Get $150 off, right to your inbox!
 
-Save $200 on the Enhance Select 500! [Shop](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 100-day risk-free trial, US-based support!
 
 100-day risk-free trial and US-based customer support!
 
 100-day risk-free trial and US-based customer support!
-
-[It's the last day for Fall savings!It's the last day for Fall savings!It's the last day for Fall savings! **Sale ends in 1h : 29m : 4s**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -34,34 +32,14 @@ Schedule call[(800) 854-2772](tel:8008542772)
 
 Previous
 
-![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/fall-24-sale-foreground-desktop.png)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
 
-$200 Off
-========
+New
 
-this fall!
-==========
+It’s your hearing. Let’s make the most of it.
+---------------------------------------------
 
-Take $200 off the Select 500 —
-
-while you can!
-
-$200 Off this fall!
--------------------
-
-Take $200 off the Select 500 —
-
-while you can!
-
-$200 Off
-========
-
-this fall!
-==========
-
-Take $200 off the Select 500 —
-
-while you can!
+The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
 
 [Shop now](https://www.listenlively.com/product)
 
@@ -72,14 +50,10 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[##### Save $200!
-
-**Shop now**](https://www.listenlively.com/product)[##### Save $200!
-
-**Shop now**](https://www.listenlively.com/product)[Save $200!
-----------
-
-**Shop now**](https://www.listenlively.com/product)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[Our clearest  
+sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
+sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
+sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
 “Best Hearing Aids of 2024 Editor's Pick”
 
