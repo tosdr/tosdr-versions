@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5753 reviews (5753)
+5753 reviews (5754)
 
 $16.00 $29.00
 
@@ -354,7 +354,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1126 reviews (1126)
+1127 reviews (1127)
 
 $45.00
 
