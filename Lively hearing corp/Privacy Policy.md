@@ -1,5 +1,11 @@
 You need to enable JavaScript to run Jabra Enhance.
 
+Get $150 off, right to your inbox!
+
+Get $150 off, right to your inbox!
+
+Get $150 off, right to your inbox!
+
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
@@ -19,6 +25,8 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 [(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Previous
 
@@ -45,9 +53,13 @@ sound, our most discreet design](https://www.listenlively.com/product)[Our clear
 sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
 sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
-“Best if you're new to hearing aids”
+“Best Hearing Aids of 2024 Editor's Pick”
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Next
+
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
