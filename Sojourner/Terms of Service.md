@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-44f9b71673ac89842f49ab9cd0474ad7
+2f8aa52e503590d951e9ca4794f6e923
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm by 12 mm midnight blue faceted rondelles](https://sojourner.biz/images/cache/glass/GL0182.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-12-mm-midnight-blue-faceted-rondelles.html "10 mm by 12 mm midnight blue faceted rondelles")
+[![Swarovski crystal AB clasp](https://sojourner.biz/images/cache/SKU0490front.200.jpg)](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")
 
-#### [10 mm by 12 mm midnight blue faceted rondelles](https://sojourner.biz/beads/glass/10-mm-by-12-mm-midnight-blue-faceted-rondelles.html "10 mm by 12 mm midnight blue faceted rondelles")
+#### [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")
 
-$10.00
+$28.00
 
 ### Best Sellers
 
