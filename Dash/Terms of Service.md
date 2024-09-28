@@ -1,120 +1,86 @@
-DAYS
+Evolution Genesis has been released
 
-: :
-
-Until Evolution Genesis Release
-
-[Learn more](#)
-
-[](https://wp.dash.org/)
+[Learn more](https://www.dash.org/blog/dash-evolution-v1-0-0-release-announcement/)
 
 [](#)
 
-[Get Started](https://wp.dash.org/) ![](/wp-content/uploads/arrow-menu-1.svg) 
+[Dash Logo](https://www.dash.org/)
 
-[Home](https://wp.dash.org/)
+[](#)
 
-[Individuals](https://wp.dash.org/individuals/)
+* [English](https://www.dash.org/terms-of-use/)
 
-[Businesses](https://wp.dash.org/businesses/)
+[Get Started](https://www.dash.org/)
 
-[Downloads](https://wp.dash.org/downloads/)
+Tools for users and shops
 
-[Buy Online](https://wp.dash.org/where-to-buy/)
+[Home](https://www.dash.org/)
 
-[Where to Spend](https://wp.dash.org/where-to-spend/)
+[Individuals](https://www.dash.org/individuals/)
 
-[New Merchant Kit](https://wp.dash.org/new-merchant-kit/)
+[Businesses](https://www.dash.org/businesses/)
 
-[Institutions](https://wp.dash.org/institutions/) ![](/wp-content/uploads/arrow-menu-1.svg) 
+[Downloads](https://www.dash.org/downloads/)
 
-[Institutions](https://wp.dash.org/institutions/)
+[Buy Online](https://www.dash.org/where-to-buy/)
 
-[Traders](https://wp.dash.org/traders/)
+[Where to Spend](https://www.dash.org/where-to-spend/)
 
-[Financial Services](https://wp.dash.org/financial-services/)
+[New Merchant Kit](https://www.dash.org/new-merchant-kit/)
 
-[Regulatory](https://wp.dash.org/regulatory/)
+[Institutions](https://www.dash.org/institutions/)
 
-[FastPass](https://wp.dash.org/fastpass/)
+Links, information and data
 
-[Developers](https://wp.dash.org/developers/) ![](/wp-content/uploads/arrow-menu-1.svg) 
+[Institutions](https://www.dash.org/institutions/)
 
-[Developers](https://wp.dash.org/developers/)
+[Traders](https://www.dash.org/traders/)
 
-[Platform](https://wp.dash.org/platform/)
+[Financial Services](https://www.dash.org/financial-services/)
 
-[Documentation](https://wp.dash.org/documentation/)
+[Regulatory](https://www.dash.org/regulatory/)
 
-[Contributing](https://wp.dash.org/contributing/)
+[FastPass](https://www.dash.org/fastpass/)
 
-[Providers and Tools](https://wp.dash.org/providers-and-tools/)
+[Developers](https://www.dash.org/developers/)
 
-[Roadmap](https://wp.dash.org/roadmap/)
+Lead the next-gen currency
 
-[Community](https://wp.dash.org/community/) ![](/wp-content/uploads/arrow-menu-1.svg) 
+[Developers](https://www.dash.org/developers/)
 
-[Community](https://wp.dash.org/community/)
+[Platform](https://www.dash.org/platform/)
 
-[Bug Bounty Program](https://wp.dash.org/bug-bounty/)
+[Documentation](https://www.dash.org/documentation/)
 
-[Learning Resources](https://wp.dash.org/learning-resources/)
+[Contributing](https://www.dash.org/contributing/)
 
-[Connect With Us](https://wp.dash.org/connect-with-us/)
+[Providers and Tools](https://www.dash.org/providers-and-tools/)
+
+[Roadmap](https://www.dash.org/roadmap/)
+
+[Community](https://www.dash.org/community/)
+
+Connect, learn and create
+
+[Community](https://www.dash.org/community/)
+
+[Bug Bounty Program](https://www.dash.org/bug-bounty/)
+
+[Learning Resources](https://www.dash.org/learning-resources/)
+
+[Connect With Us](https://www.dash.org/connect-with-us/)
 
 [Forum](https://www.dash.org/forum/#new_tab)
 
-[Masternodes](https://wp.dash.org/masternodes/)
+[Masternodes](https://www.dash.org/masternodes/)
 
-[Mining](https://wp.dash.org/mining/)
+[Mining](https://www.dash.org/mining/)
 
-[Blog](https://wp.dash.org/blog/)
-
-[![English](https://wp.dash.org/wp-content/uploads/flags/english.svg)Language | English](#)
-
- [![German](https://wp.dash.org/wp-content/uploads/flags/german.svg) German](https://wp.dash.org/de/)
-
- [![Greek](https://wp.dash.org/wp-content/uploads/flags/greek.svg) Greek](https://wp.dash.org/el/)
-
- [![Spanish](https://wp.dash.org/wp-content/uploads/flags/spanish.svg) Spanish](https://wp.dash.org/es/)
-
- [![Filipino](https://wp.dash.org/wp-content/uploads/flags/filipino.svg) Filipino](https://wp.dash.org/fil/)
-
- [![French](https://wp.dash.org/wp-content/uploads/flags/french.svg) French](https://wp.dash.org/fr/)
-
- [![Italian](https://wp.dash.org/wp-content/uploads/flags/italian.svg) Italian](https://wp.dash.org/it/)
-
- [![Dutch](https://wp.dash.org/wp-content/uploads/flags/dutch.svg) Dutch](https://wp.dash.org/nl/)
-
- [![Polish](https://wp.dash.org/wp-content/uploads/flags/polish.svg) Polish](https://wp.dash.org/pl/)
-
- [![Portuguese (Brazil)](https://wp.dash.org/wp-content/uploads/flags/portuguese.svg) Portuguese (Brazil)](https://wp.dash.org/pt-br/)
-
- [![Russian](https://wp.dash.org/wp-content/uploads/flags/russian.svg) Russian](https://wp.dash.org/ru/)
-
- [![Vietnamese](https://wp.dash.org/wp-content/uploads/flags/vietnamese.svg) Vietnamese](https://wp.dash.org/vi/)
-
- [![Turkish](https://wp.dash.org/wp-content/uploads/flags/turkish.svg) Turkish](https://wp.dash.org/tr/)
-
- [![Ukrainian](https://wp.dash.org/wp-content/uploads/flags/ukrainian.svg) Ukrainian](https://wp.dash.org/uk/)
-
- [![Chinese (Simplified)](https://wp.dash.org/wp-content/uploads/flags/chinese.svg) Chinese (Simplified)](https://wp.dash.org/zh-hans/)
-
- [![Chinese (Traditional)](https://wp.dash.org/wp-content/uploads/flags/chinese.svg) Chinese (Traditional)](https://wp.dash.org/zh-hant/)
-
- [![Korean](https://wp.dash.org/wp-content/uploads/flags/korean.svg) Korean](https://wp.dash.org/ko/)
-
- [![Japanese](https://wp.dash.org/wp-content/uploads/flags/japanese.svg) Japanese](https://wp.dash.org/ja/)
-
- [![Thai](https://wp.dash.org/wp-content/uploads/flags/thai.svg) Thai](https://wp.dash.org/th/)
-
- [![Arabic](https://wp.dash.org/wp-content/uploads/flags/arabic.svg) Arabic](https://wp.dash.org/ar/)
-
- [![Persian](https://wp.dash.org/wp-content/uploads/flags/persian.svg) Persian](https://wp.dash.org/fa/)
+[Blog](https://www.dash.org/blog/)
 
 [](#)
 
-* [![](https://wp.dash.org/wp-content/uploads/flags/english.svg)English](https://wp.dash.org/terms-of-use/)
+* [English](https://www.dash.org/terms-of-use/)
 
 Dash Core Group Terms of Use
 ============================
@@ -266,27 +232,27 @@ It is our policy to terminate relationships regarding content with third parties
 
 [](https://reddit.com/r/dashpay/)[](https://twitter.com/Dashpay)[](https://www.youtube.com/c/DashOrg)[](https://www.linkedin.com/company/10424093)[](https://www.facebook.com/DashPay)[](https://www.instagram.com/dashpay/)
 
-[Dash Logo](https://wp.dash.org/)
+[Dash Logo](https://www.dash.org/)
 
 Instant transactions and micro-fees. Any amount, anytime, anywhere.
 
-#### [Home](https://wp.dash.org/)
+#### [Home](https://www.dash.org/)
 
-[Individuals](https://wp.dash.org/individuals/) [Businesses](https://wp.dash.org/businesses/) [Downloads](https://wp.dash.org/downloads/) [Buy Online](https://wp.dash.org/where-to-buy/) [Where to Spend](https://wp.dash.org/where-to-spend/) [New Merchant Kit](https://wp.dash.org/new-merchant-kit/)
+[Individuals](https://www.dash.org/individuals/) [Businesses](https://www.dash.org/businesses/) [Downloads](https://www.dash.org/downloads/) [Buy Online](https://www.dash.org/where-to-buy/) [Where to Spend](https://www.dash.org/where-to-spend/) [New Merchant Kit](https://www.dash.org/new-merchant-kit/)
 
-#### [Institutions](https://wp.dash.org/institutions/)
+#### [Institutions](https://www.dash.org/institutions/)
 
-[Traders](https://wp.dash.org/traders/) [Financial Services](https://wp.dash.org/financial-services/) [Regulatory](https://wp.dash.org/regulatory/) [FastPass](https://wp.dash.org/fastpass/)
+[Traders](https://www.dash.org/traders/) [Financial Services](https://www.dash.org/financial-services/) [Regulatory](https://www.dash.org/regulatory/) [FastPass](https://www.dash.org/fastpass/)
 
-#### [Developers](https://wp.dash.org/developers/)
+#### [Developers](https://www.dash.org/developers/)
 
-[Platform](https://wp.dash.org/platform/) [Documentation](https://wp.dash.org/documentation/) [Contributing](https://wp.dash.org/contributing/) [Providers and Tools](https://wp.dash.org/providers-and-tools/) [Roadmap](https://wp.dash.org/roadmap/)
+[Platform](https://www.dash.org/platform/) [Documentation](https://www.dash.org/documentation/) [Contributing](https://www.dash.org/contributing/) [Providers and Tools](https://www.dash.org/providers-and-tools/) [Roadmap](https://www.dash.org/roadmap/)
 
-#### [Community](https://wp.dash.org/community/)
+#### [Community](https://www.dash.org/community/)
 
-[Bug Bounty Program](https://wp.dash.org/bug-bounty/) [Learning Resources](https://wp.dash.org/learning-resources/) [Connect With Us](https://wp.dash.org/connect-with-us/) [Forum](https://www.dash.org/forum/#new_tab) [Masternodes](https://wp.dash.org/masternodes/) [Mining](https://wp.dash.org/mining/) [Blog](https://wp.dash.org/blog/)
+[Bug Bounty Program](https://www.dash.org/bug-bounty/) [Learning Resources](https://www.dash.org/learning-resources/) [Connect With Us](https://www.dash.org/connect-with-us/) [Forum](https://www.dash.org/forum/#new_tab) [Masternodes](https://www.dash.org/masternodes/) [Mining](https://www.dash.org/mining/) [Blog](https://www.dash.org/blog/)
 
-[FAQ](https://wp.dash.org/faq/) [Team](https://wp.dash.org/dcg/) [Jobs](https://wp.dash.org/dcg/jobs/) [Contact](https://wp.dash.org/contact/) [Brand Guidelines](https://wp.dash.org/brand-guidelines/) [On-chain Metrics](https://wp.dash.org/on-chain-metrics/) [Find an ATM](https://wp.dash.org/find-an-atm/) [Block Explorer](https://insight.dash.org/)
+[FAQ](https://www.dash.org/faq/) [Team](https://www.dash.org/dcg/) [Jobs](https://www.dash.org/dcg/jobs/) [Contact](https://www.dash.org/contact/) [Brand Guidelines](https://www.dash.org/brand-guidelines/) [On-chain Metrics](https://www.dash.org/on-chain-metrics/) [Find an ATM](https://www.dash.org/find-an-atm/) [Block Explorer](https://insight.dash.org/)
 
 #### Subscribe to our  
 Newsletter
@@ -307,17 +273,15 @@ Success! Thank you for signing up for our newsletter.
 
 * * *
 
-We have a full service support desk with humans on call, plus extensive learning resources, tools and wikis.
-
-[Get Support](https://support.dash.org/)
+We have a full service support desk with humans on call, plus extensive learning resources, tools and wikis. [Get Support](https://support.dash.org/)
 
 [![](https://statuspage.freshping.io/badge/6bd13996-45b7-47b0-aaa4-5762412982a7?0.8091951318490984)](https://statuspage.freshping.io/1446-Dash)
 
 [![](/wp-content/themes/dash-theme/assets/img/trustpilot.svg)](https://www.trustpilot.com/review/www.dash.org)
 
-[Terms of Use](https://wp.dash.org/terms-of-use/) | [Privacy Statement](https://wp.dash.org/privacy/)
+[Terms of Use](https://www.dash.org/terms-of-use/) | [Privacy Statement](https://www.dash.org/privacy/)
 
-This website uses cookies to improve your experience. Got it! [Learn more](https://wp.dash.org/privacy/)
+This website uses cookies to improve your experience. Got it! [Learn more](https://www.dash.org/privacy/)
 
 Cookies Policy
 
