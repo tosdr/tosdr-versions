@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs AUS - ENG Won](https://www.cricbuzz.com/live-cricket-scores/76570/eng-vs-aus-4th-odi-australia-tour-of-england-2024 "England v Australia, 4th ODI - ENG Won")[IRE vs RSA - Complete](https://www.cricbuzz.com/live-cricket-scores/93641/ire-vs-rsa-1st-t20i-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 1st T20I - Complete")[BAN vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100229/ban-vs-ind-2nd-test-bangladesh-tour-of-india-2024 "Bangladesh v India, 2nd Test - Stumps")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd Test - Stumps")[TKR vs BR - Preview](https://www.cricbuzz.com/live-cricket-scores/92923/tkr-vs-br-28th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Barbados Royals, 28th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[TKR vs BR - Live](https://www.cricbuzz.com/live-cricket-scores/92923/tkr-vs-br-28th-match-caribbean-premier-league-2024 "Trinbago Knight Riders v Barbados Royals, 28th Match - Live")[ENG vs AUS - ENG Won](https://www.cricbuzz.com/live-cricket-scores/76570/eng-vs-aus-4th-odi-australia-tour-of-england-2024 "England v Australia, 4th ODI - ENG Won")[IRE vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/93641/ire-vs-rsa-1st-t20i-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 1st T20I - RSA Won")[BAN vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100229/ban-vs-ind-2nd-test-bangladesh-tour-of-india-2024 "Bangladesh v India, 2nd Test - Stumps")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd Test - Stumps")
 
 AllLive NowToday
 
@@ -62,7 +62,7 @@ AllLive NowToday
     
 * England v Australia, 2024
     
-    [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76570/eng-vs-aus-4th-odi-england-v-australia-2024 "England v Australia, 4th ODI - Complete")
+    [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76570/eng-vs-aus-4th-odi-england-v-australia-2024 "England v Australia, 4th ODI - ENG Won")
     
     4th ODI
     
@@ -78,7 +78,7 @@ AllLive NowToday
     
 * South Africa vs Ireland, 2024
     
-    [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93641/ire-vs-rsa-1st-t20i-south-africa-vs-ireland-2024 "Ireland v South Africa, 1st T20I - Complete")
+    [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93641/ire-vs-rsa-1st-t20i-south-africa-vs-ireland-2024 "Ireland v South Africa, 1st T20I - RSA Won")
     
     1st T20I
     
@@ -158,7 +158,7 @@ AllLive NowToday
     
     27th Match
     
-* [Trinbago Knight Riders vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92923/tkr-vs-br-28th-match-cpl-2024 "Trinbago Knight Riders v Barbados Royals, 28th Match - Preview")
+* [Trinbago Knight Riders vs Barbados Royals  LIVE](https://www.cricbuzz.com/live-cricket-scores/92923/tkr-vs-br-28th-match-cpl-2024 "Trinbago Knight Riders v Barbados Royals, 28th Match - Live")
     
     28th Match
     
@@ -166,13 +166,13 @@ AllLive NowToday
     
     29th Match
     
+* [Guyana Amazon Warriors vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92941/gaw-vs-tkr-30th-match-cpl-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 30th Match - Upcoming")
+    
+    30th Match
+    
 * Zim Afro T10 2024
     
-    [Bulawayo Brave Jaguars vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106812/blbj-vs-jbt-15th-match-zim-afro-t10-2024 "Bulawayo Brave Jaguars v Joburg Bangla Tigers, 15th Match - JBT Won")
-    
-    15th Match
-    
-* [Harare Bolts vs Durban Wolves](https://www.cricbuzz.com/live-cricket-scores/106817/hb-vs-dw-16th-match-zim-afro-t10-2024 "Harare Bolts v Durban Wolves, 16th Match - HB Won")
+    [Harare Bolts vs Durban Wolves](https://www.cricbuzz.com/live-cricket-scores/106817/hb-vs-dw-16th-match-zim-afro-t10-2024 "Harare Bolts v Durban Wolves, 16th Match - HB Won")
     
     16th Match
     
@@ -192,15 +192,15 @@ AllLive NowToday
     
     20th Match
     
-* [Harare Bolts vs Joburg Bangla Tigers  LIVE](https://www.cricbuzz.com/live-cricket-scores/106849/hb-vs-jbt-21st-match-zim-afro-t10-2024 "Harare Bolts v Joburg Bangla Tigers, 21st Match - Live")
+* [Harare Bolts vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106849/hb-vs-jbt-21st-match-zim-afro-t10-2024 "Harare Bolts v Joburg Bangla Tigers, 21st Match - JBT Won")
     
     21st Match
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/106852/tbc-vs-tbc-qualifier-1-zim-afro-t10-2024 "TBC v TBC, Qualifier 1 - Upcoming")
+* [Harare Bolts vs Joburg Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/106852/hb-vs-jbt-qualifier-1-zim-afro-t10-2024 "Harare Bolts v Joburg Bangla Tigers, Qualifier 1 - Upcoming")
     
     Qualifier 1
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/106857/tbc-vs-tbc-eliminator-zim-afro-t10-2024 "TBC v TBC, Eliminator - Upcoming")
+* [Nys Lagos vs Cape Town Samp Army](https://www.cricbuzz.com/live-cricket-scores/106857/nysl-vs-ctsa-eliminator-zim-afro-t10-2024 "Nys Lagos v Cape Town Samp Army, Eliminator - Upcoming")
     
     Eliminator
     
@@ -262,7 +262,11 @@ AllLive NowToday
     
     County Division 1
     
-    [Durham vs Kent](https://www.cricbuzz.com/live-cricket-scores/84513/dur-vs-kent-66th-match-county-division-1 "Durham v Kent, 66th Match - Stumps")
+    [Essex vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84520/ess-vs-sur-67th-match-county-division-1 "Essex v Surrey, 67th Match - Stumps")
+    
+    67th Match
+    
+* [Durham vs Kent](https://www.cricbuzz.com/live-cricket-scores/84513/dur-vs-kent-66th-match-county-division-1 "Durham v Kent, 66th Match - Stumps")
     
     66th Match
     
@@ -277,10 +281,6 @@ AllLive NowToday
 * [Nottinghamshire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84527/notts-vs-warks-68th-match-county-division-1 "Nottinghamshire v Warwickshire, 68th Match - Stumps")
     
     68th Match
-    
-* [Essex vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84520/ess-vs-sur-67th-match-county-division-1 "Essex v Surrey, 67th Match - Stumps")
-    
-    67th Match
     
 * Australia Domestic One-Day Cup 2024-25
     
@@ -328,6 +328,10 @@ AllLive NowToday
     
     1st Match
     
+* [Australia Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/106129/ausw-vs-engw-5th-match-icc-womens-t20-world-cup-warm-up-matches "Australia Women v England Women, 5th Match - Upcoming")
+    
+    5th Match
+    
 * [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/106123/indw-vs-wiw-4th-match-icc-womens-t20-world-cup-warm-up-matches "India Women v West Indies Women, 4th Match - Upcoming")
     
     4th Match
@@ -335,10 +339,6 @@ AllLive NowToday
 * [New Zealand Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106115/nzw-vs-rsaw-3rd-match-icc-womens-t20-world-cup-warm-up-matches "New Zealand Women v South Africa Women, 3rd Match - Upcoming")
     
     3rd Match
-    
-* [Australia Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/106129/ausw-vs-engw-5th-match-icc-womens-t20-world-cup-warm-up-matches "Australia Women v England Women, 5th Match - Upcoming")
-    
-    5th Match
     
 * Womens Tri-Series in Italy, 2024
     
@@ -400,13 +400,13 @@ AllLive NowToday
     
     6th Match
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/107827/tbc-vs-tbc-final-south-american-womens-championships "TBC v TBC, Final - Upcoming")
-    
-    Final
-    
 * [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/107825/tbc-vs-tbc-3rd-place-play-off-south-american-womens-championships "TBC v TBC, 3rd place play-off - Upcoming")
     
     3rd place play-off
+    
+* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/107827/tbc-vs-tbc-final-south-american-womens-championships "TBC v TBC, Final - Upcoming")
+    
+    Final
     
 
 Privacy Policy
@@ -715,41 +715,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131771/clinical-england-decimate-australia-to-level-series "Clinical England decimate Australia to level series ")
+
+[Clinical England decimate Australia to level series](https://www.cricbuzz.com/cricket-news/131771/clinical-england-decimate-australia-to-level-series "Clinical England decimate Australia to level series ")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131770/rickelton-hendricks-make-light-work-of-ireland "Rickelton, Hendricks make light work of Ireland")
+
+[Rickelton, Hendricks make light work of Ireland](https://www.cricbuzz.com/cricket-news/131770/rickelton-hendricks-make-light-work-of-ireland "Rickelton, Hendricks make light work of Ireland")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131769/brook-livingstone-duckett-take-england-past-300 "Brook, Livingstone, Duckett take England past 300 ")
 
 [Brook, Livingstone, Duckett take England past 300](https://www.cricbuzz.com/cricket-news/131769/brook-livingstone-duckett-take-england-past-300 "Brook, Livingstone, Duckett take England past 300 ")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131768/tiger-travails-bangladesh-superfan-hospitalised-amid-kanpur-frenzy "Tiger travails: Bangladesh superfan hospitalised amid Kanpur frenzy")
 
 [Tiger travails: Bangladesh superfan hospitalised amid Kanpur frenzy](https://www.cricbuzz.com/cricket-news/131768/tiger-travails-bangladesh-superfan-hospitalised-amid-kanpur-frenzy "Tiger travails: Bangladesh superfan hospitalised amid Kanpur frenzy")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131767/injured-cameron-green-ruled-out-of-england-tour "Injured Cameron Green ruled out of England tour")
 
 [Injured Cameron Green ruled out of England tour](https://www.cricbuzz.com/cricket-news/131767/injured-cameron-green-ruled-out-of-england-tour "Injured Cameron Green ruled out of England tour")
 
-5h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131766/lalit-modi-warns-ipl-owners-to-exercise-caution-over-investment-in-the-hundred "Lalit Modi warns IPL owners to exercise caution over investment in The Hundred")
 
 [Lalit Modi warns IPL owners to exercise caution over investment in The Hundred](https://www.cricbuzz.com/cricket-news/131766/lalit-modi-warns-ipl-owners-to-exercise-caution-over-investment-in-the-hundred "Lalit Modi warns IPL owners to exercise caution over investment in The Hundred")
 
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131765/inside-the-bradmanesque-start-to-kamindu-mendiss-career "Inside the Bradmanesque start to Kamindu Mendis's career")
-
-[Inside the Bradmanesque start to Kamindu Mendis's career](https://www.cricbuzz.com/cricket-news/131765/inside-the-bradmanesque-start-to-kamindu-mendiss-career "Inside the Bradmanesque start to Kamindu Mendis's career")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131764/record-breaking-kamindu-mendis-puts-sri-lanka-in-command "Record-breaking Kamindu Mendis puts Sri Lanka in command")
-
-[Record-breaking Kamindu Mendis puts Sri Lanka in command](https://www.cricbuzz.com/cricket-news/131764/record-breaking-kamindu-mendis-puts-sri-lanka-in-command "Record-breaking Kamindu Mendis puts Sri Lanka in command")
-
-7h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
