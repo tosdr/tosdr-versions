@@ -2,14 +2,14 @@ Saturday, September 28 2024
 
 Breaking News
 
+* [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/)
+* [Fox News Host, Pollster Spell Out Data Showing Harris Hemorrhaging Hispanic Support](https://www.conservativedailynews.com/2024/09/fox-news-host-pollster-spell-out-data-showing-harris-hemorrhaging-hispanic-support/)
+* [Dem Senator Introduces Bill That Would Add Six Supreme Court Seats, Expand Federal Judiciary](https://www.conservativedailynews.com/2024/09/dem-senator-introduces-bill-that-would-add-six-supreme-court-seats-expand-federal-judiciary/)
+* [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
+* [Reinventing Kamala As A Moderate With Vibes And Joy](https://www.conservativedailynews.com/2024/09/reinventing-kamala-as-a-moderate-with-vibes-and-joy/)
+* [US Steel: Politicizing Economics Decisions a Bad Campaign Play](https://www.conservativedailynews.com/2024/09/us-steel-politicizing-economics-decisions-a-bad-campaign-play/)
 * [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
 * [President Joe Biden’s Schedule for Saturday, September 28, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-saturday-september-28-2024/)
-* [Illegal Aliens Are Registered To Vote — Now What?](https://www.conservativedailynews.com/2024/09/illegal-aliens-are-registered-to-vote-now-what/)
-* [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/)
-* [US Could Be Inches Away From Another Economic Crisis As Massive Port Strike Looms](https://www.conservativedailynews.com/2024/09/us-could-be-inches-away-from-another-economic-crisis-as-massive-port-strike-looms/)
-* [The US Should Stop Funding The United Nations](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
-* [Biden Reportedly Planning To Make Tightened Border Asylum Restrictions More Permanent](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
-* [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,66 +111,68 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/10/Israeli-airstrike-in-Gaza-220x150.jpg)](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
+    
+    [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
+    
+    September 28, 2024
+    
 * [![Democrat City crime violence](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
     
     [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
     
     September 26, 2024
     
-* [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
-    
-    [Backlash To Woke Corporations](https://www.conservativedailynews.com/2024/09/backlash-to-woke-corporations/)
-    
-    September 25, 2024
-    
 
 Recent Posts
 
+* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/)
+    
+    [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/)
+    
+    September 28, 2024
+    
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/fox-news-host-pollster-spell-out-data-showing-harris-hemorrhaging-hispanic-support/)
+    
+    [Fox News Host, Pollster Spell Out Data Showing Harris Hemorrhaging Hispanic Support](https://www.conservativedailynews.com/2024/09/fox-news-host-pollster-spell-out-data-showing-harris-hemorrhaging-hispanic-support/)
+    
+    September 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/09/dem-senator-introduces-bill-that-would-add-six-supreme-court-seats-expand-federal-judiciary/)
+    
+    [Dem Senator Introduces Bill That Would Add Six Supreme Court Seats, Expand Federal Judiciary](https://www.conservativedailynews.com/2024/09/dem-senator-introduces-bill-that-would-add-six-supreme-court-seats-expand-federal-judiciary/)
+    
+    September 28, 2024
+    
+* [![Kamala Harris catastrophic damage](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/catastrophic-damage/)
+    
+    [Catastrophic Damage](https://www.conservativedailynews.com/2024/09/catastrophic-damage/)
+    
+    September 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/10/Israeli-airstrike-in-Gaza-220x150.jpg)](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
+    
+    [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
+    
+    September 28, 2024
+    
+* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/09/01-joyjoy-kam-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/reinventing-kamala-as-a-moderate-with-vibes-and-joy/)
+    
+    [Reinventing Kamala As A Moderate With Vibes And Joy](https://www.conservativedailynews.com/2024/09/reinventing-kamala-as-a-moderate-with-vibes-and-joy/)
+    
+    September 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/02/Steel-220x150.jpg)](https://www.conservativedailynews.com/2024/09/us-steel-politicizing-economics-decisions-a-bad-campaign-play/)
+    
+    [US Steel: Politicizing Economics Decisions a Bad Campaign Play](https://www.conservativedailynews.com/2024/09/us-steel-politicizing-economics-decisions-a-bad-campaign-play/)
+    
+    September 28, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/atom-bomb-pic.jpg)](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
     
     [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
     
     September 28, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/09/02-biden-zs-ac-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-saturday-september-28-2024/)
-    
-    [President Joe Biden’s Schedule for Saturday, September 28, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-saturday-september-28-2024/)
-    
-    September 28, 2024
-    
-* [![illegal-immigration-afbranco-71114](https://www.conservativedailynews.com/wp-content/uploads/2016/09/illegal-immigration-afbranco-71114.jpg)](https://www.conservativedailynews.com/2024/09/illegal-aliens-are-registered-to-vote-now-what/)
-    
-    [Illegal Aliens Are Registered To Vote — Now What?](https://www.conservativedailynews.com/2024/09/illegal-aliens-are-registered-to-vote-now-what/)
-    
-    September 28, 2024
-    
-* [Smartmatic Settles Lawsuit With Newsmax Over 2020 Election Defamation Case](https://www.conservativedailynews.com/2024/09/smartmatic-settles-lawsuit-with-newsmax-over-2020-election-defamation-case/)
-    
-    September 28, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5621-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/)
-    
-    [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/)
-    
-    September 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/No-unions-220x150.jpg)](https://www.conservativedailynews.com/2024/09/us-could-be-inches-away-from-another-economic-crisis-as-massive-port-strike-looms/)
-    
-    [US Could Be Inches Away From Another Economic Crisis As Massive Port Strike Looms](https://www.conservativedailynews.com/2024/09/us-could-be-inches-away-from-another-economic-crisis-as-massive-port-strike-looms/)
-    
-    September 27, 2024
-    
-* [![Secret Service Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/09/05-sservice-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/requests-denied/)
-    
-    [Requests Denied](https://www.conservativedailynews.com/2024/09/requests-denied/)
-    
-    September 27, 2024
-    
-* [![United Nations UN terrorism UNRWA](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz020624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
-    
-    [The US Should Stop Funding The United Nations](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
-    
-    September 27, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
@@ -226,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Senaida Collee on [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/#comment-782352)
 * WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 * James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
 * Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
@@ -234,7 +237,6 @@ Recent Comments
 * KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
 * KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
 * KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
-* charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
 
 [Close](#)
 
