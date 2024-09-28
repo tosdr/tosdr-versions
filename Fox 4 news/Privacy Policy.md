@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Rowlett mayor cries foul after early voting site moved to smaller venue](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/rowlett-mayor.png?ve=1&tl=1)
+ [![Police investigating highway shooting that injured woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/183b376c-8677dd54-d338eb2c-police-lights.jpg?ve=1&tl=1)
 
- ![Rowlett mayor cries foul after early voting site moved to smaller venue](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/rowlett-mayor.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rowlett-mayor-cries-foul-after-early-election-site-moved-smaller-venue)
+ ![Police investigating highway shooting that injured woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/592/333/183b376c-8677dd54-d338eb2c-police-lights.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-shooting-denton-county)
 
-### [Rowlett mayor cries foul after early voting site moved to smaller venue](https://www.fox4news.com/news/rowlett-mayor-cries-foul-after-early-election-site-moved-smaller-venue)
+### [Police investigating highway shooting that injured woman](https://www.fox4news.com/news/police-shooting-denton-county)
 
- [![Tennessee hospital floods, forcing 'dangerous' helicopter rescue](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/hospital-rescue.jpg?ve=1&tl=1)
+ [![Dallas weather: A warm, dry weekend in North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-2024-09-28T075925.414.jpg?ve=1&tl=1)
 
- ![Tennessee hospital floods, forcing 'dangerous' helicopter rescue](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/hospital-rescue.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-unicoi-hospital-flooding-tennessee)
+ ![Dallas weather: A warm, dry weekend in North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-2024-09-28T075925.414.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-warm-dry-weekend-north-texas)
 
-### [Tennessee hospital floods, forcing 'dangerous' helicopter rescue](https://www.fox4news.com/news/helene-unicoi-hospital-flooding-tennessee)
+### [Dallas weather: A warm, dry weekend in North Texas](https://www.fox4news.com/weather/dallas-weather-warm-dry-weekend-north-texas)
 
- [![Hurricane Helene: 15 deaths reported in the state of Georgia](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/GettyImages-2173926525.jpg?ve=1&tl=1)
+ [![Hezbollah leader killed in Israeli airstrike](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2174184195-scaled.jpg?ve=1&tl=1)
 
- ![Hurricane Helene: 15 deaths reported in the state of Georgia](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173926525.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
+ ![Hezbollah leader killed in Israeli airstrike](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174184195-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hezbollah-leader-killed-israeli-airstrike)
 
-### [Hurricane Helene: 15 deaths reported in the state of Georgia](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
+### [Hezbollah leader killed in Israeli airstrike](https://www.fox4news.com/news/hezbollah-leader-killed-israeli-airstrike)
 
- [![Death toll rises as Helene unleashes catastrophic flooding across Southeast, knocks out power to millions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/8838218d-Helene1.jpg?ve=1&tl=1)
+ [![NC gubernatorial candidate Mark Robinson hospitalized following 'incident' at campaign event](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2162175556-scaled-1.jpg?ve=1&tl=1)
 
- ![Death toll rises as Helene unleashes catastrophic flooding across Southeast, knocks out power to millions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/8838218d-Helene1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-downgraded-tropical-storm-florida-georgia-carolina-what-expect-friday)
+ ![NC gubernatorial candidate Mark Robinson hospitalized following 'incident' at campaign event](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2162175556-scaled-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nc-gubernatorial-candidate-mark-robinson-hospitalized-campaign-event)
 
-### [Death toll rises as Helene unleashes catastrophic flooding across Southeast, knocks out power to millions](https://www.fox4news.com/news/helene-downgraded-tropical-storm-florida-georgia-carolina-what-expect-friday)
+### [NC gubernatorial candidate Mark Robinson hospitalized following 'incident' at campaign event](https://www.fox4news.com/news/nc-gubernatorial-candidate-mark-robinson-hospitalized-campaign-event)
 
- [![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2173922114-scaled.jpg?ve=1&tl=1)
+ [![National Coffee Day: Enjoy discounts and freebies on your next cup](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2165541020.jpg?ve=1&tl=1)
 
- ![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173922114-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
+ ![National Coffee Day: Enjoy discounts and freebies on your next cup](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2165541020.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/national-coffee-day-deals-discounts)
 
-### [Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
+### [National Coffee Day: Enjoy discounts and freebies on your next cup](https://www.fox4news.com/money/national-coffee-day-deals-discounts)
 
 ###### [News](https://www.fox4news.com/news)
 
