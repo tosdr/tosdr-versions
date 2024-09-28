@@ -161,7 +161,7 @@ FREE US SHIPPING on all orders $75+
 * [Log In/Sign Up](https://en.j5create.com/account/login)
 * [Cart (0)](https://en.j5create.com/cart)
 
-[![](//en.j5create.com/cdn/shop/files/J5_Logo_r_600x.jpg?v=1613528819)](https://en.j5create.com/)
+ [![](//en.j5create.com/cdn/shop/files/J5_Logo_r_600x.jpg?v=1613528819) ![](https://cdn.shopify.com/s/files/1/1057/0966/files/Base_in_the_USA_Logo_single_v2_orange.png?v=1727519085)](https://en.j5create.com/)
 
 * 
 * [](https://en.j5create.com/search)
@@ -169,6 +169,8 @@ FREE US SHIPPING on all orders $75+
 * [0](https://en.j5create.com/cart)
 
 [![](//en.j5create.com/cdn/shop/files/J5_Logo_r_600x.jpg?v=1613528819)](https://en.j5create.com/)
+
+[![](https://cdn.shopify.com/s/files/1/1057/0966/files/Base_in_the_USA_Logo_single_v2_orange.png?v=1727519085)](https://en.j5create.com/)
 
 * [SHOP](https://en.j5create.com/collections/shop-all)
     * [End Of Summer Sale!](https://en.j5create.com/collections/end-of-summer-sale-2024)
