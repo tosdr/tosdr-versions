@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [beatmania 6thMIX: The UK Underground Music](https://www.myabandonware.com/game/beatmania-6thmix-the-uk-underground-music-sj8)
-* [Borderline](https://www.myabandonware.com/game/borderline-sj7)
-* [Boot Hill](https://www.myabandonware.com/game/boot-hill-sj6)
-* [CarnEvil](https://www.myabandonware.com/game/carnevil-sj5)
-* [Blue Shark](https://www.myabandonware.com/game/blue-shark-sj4)
+* [Double Dragon 3: The Rosetta Stone](https://www.myabandonware.com/game/double-dragon-3-the-rosetta-stone-1e1)
+* [Atari Football](https://www.myabandonware.com/game/atari-football-sjn)
+* [Cerberus](https://www.myabandonware.com/game/cerberus-sjm)
+* [Battlecry](https://www.myabandonware.com/game/battlecry-sjl)
+* [Bloody Roar II](https://www.myabandonware.com/game/bloody-roar-ii-sjk)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
