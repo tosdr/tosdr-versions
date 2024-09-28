@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/05/2022.05.14-large-group-millennium-park-provided-photo-326x245.jpg)](https://cwbchicago.com/2024/09/millennium-park-security-budget-under-review-as-mayor-tries-to-fill-982-million-budget-shortfall.html "Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Shedd-326x245.jpg)](https://cwbchicago.com/2024/09/woman-mugged-necklace-snatched-near-shedd-aquarium.html "Woman mugged, necklace snatched near Shedd Aquarium")
 
 Loop
 
-### [Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall](https://cwbchicago.com/2024/09/millennium-park-security-budget-under-review-as-mayor-tries-to-fill-982-million-budget-shortfall.html "Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall")
+### [Woman mugged, necklace snatched near Shedd Aquarium](https://cwbchicago.com/2024/09/woman-mugged-necklace-snatched-near-shedd-aquarium.html "Woman mugged, necklace snatched near Shedd Aquarium")
 
-[September 25, 2024 9:43 AM](https://cwbchicago.com/2024/09)
+[September 27, 2024 6:05 AM](https://cwbchicago.com/2024/09)
 
-Desperate to close the gaping $982 million deficit in next year’s city budget, the mayor’s office is looking at all options. And one expense in the mayor’s crosshairs is the cost of security at Millennium Park.[](https://cwbchicago.com/2024/09/millennium-park-security-budget-under-review-as-mayor-tries-to-fill-982-million-budget-shortfall.html "Millennium Park security budget under review as mayor tries to fill $982 million budget shortfall")
+A string of jewelry-snatching robberies that started in the downtown area last week has not ended since prosecutors charged a man in connection with one of the crimes a few days ago.[](https://cwbchicago.com/2024/09/woman-mugged-necklace-snatched-near-shedd-aquarium.html "Woman mugged, necklace snatched near Shedd Aquarium")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/1200-S-UNION-citizen-app-326x245.jpg)](https://cwbchicago.com/2024/09/1-dead-1-injured-during-shoot-out-near-uic-campus.html "1 dead, 1 injured during shoot-out near UIC campus")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Glenn-Gerich-326x245.jpg)](https://cwbchicago.com/2024/09/man-broke-windows-at-ravenswood-tavern-3x-while-on-pretrial-release-for-similar-allegations-prosecutors-say.html "Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say")
 
-West Town
+Ravenswood
 
-### [1 dead, 1 injured during shoot-out near UIC campus](https://cwbchicago.com/2024/09/1-dead-1-injured-during-shoot-out-near-uic-campus.html "1 dead, 1 injured during shoot-out near UIC campus")
+### [Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say](https://cwbchicago.com/2024/09/man-broke-windows-at-ravenswood-tavern-3x-while-on-pretrial-release-for-similar-allegations-prosecutors-say.html "Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say")
 
-[September 25, 2024 7:29 AM](https://cwbchicago.com/2024/09)
+[September 26, 2024 11:18 AM](https://cwbchicago.com/2024/09)
 
-One man is dead and another is in critical condition following a shootout near the University of Illinois Chicago campus on Tuesday night.[](https://cwbchicago.com/2024/09/1-dead-1-injured-during-shoot-out-near-uic-campus.html "1 dead, 1 injured during shoot-out near UIC campus")
+CHICAGO — A man is charged with breaking windows at a Ravenswood tavern three times while on pretrial release for allegedly breaking the window of a neighboring bar and stealing furniture from outside nearby homes. Court records show that Glenn Gerich, 58, repeatedly skipped court in the pending case and continued to skip court even[](https://cwbchicago.com/2024/09/man-broke-windows-at-ravenswood-tavern-3x-while-on-pretrial-release-for-similar-allegations-prosecutors-say.html "Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/JH419776-700-halsted-suspects-326x245.jpg)](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Carlos-Arredondo-326x245.jpg)](https://cwbchicago.com/2024/09/oops-man-dropped-a-receipt-with-his-name-on-it-while-mugging-a-woman-as-she-took-out-the-trash-prosecutors.html "Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors")
 
-West Town
+Little Village
 
-### [Cops hunt suspects in shooting that left man dead near Bally’s casino construction site](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
+### [Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors](https://cwbchicago.com/2024/09/oops-man-dropped-a-receipt-with-his-name-on-it-while-mugging-a-woman-as-she-took-out-the-trash-prosecutors.html "Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors")
 
-[September 25, 2024 6:30 AM](https://cwbchicago.com/2024/09)
+[September 26, 2024 10:18 AM](https://cwbchicago.com/2024/09)
 
-Chicago police detectives investigating the fatal shooting of a man near the new Bally’s casino construction site released a short video clip of the suspects on Tuesday. They hope someone will recognize the people or vehicle in the footage.[](https://cwbchicago.com/2024/09/cops-hunt-suspects-in-shooting-that-left-man-dead-near-ballys-casino-construction-site.html "Cops hunt suspects in shooting that left man dead near Bally’s casino construction site")
+A Chicago man faces robbery charges for allegedly mugging a woman as she took out the trash after police found his name on a receipt someone dropped at the crime scene.[](https://cwbchicago.com/2024/09/oops-man-dropped-a-receipt-with-his-name-on-it-while-mugging-a-woman-as-she-took-out-the-trash-prosecutors.html "Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors")
 
 Search
 
@@ -326,6 +326,7 @@ Thank you.
 * [Douglas](https://cwbchicago.com/category/douglas)
 * [Dunning](https://cwbchicago.com/category/dunning)
 * [East Garfield Park](https://cwbchicago.com/category/east-garfield-park)
+* [East Side](https://cwbchicago.com/category/east-side)
 * [Edgewater](https://cwbchicago.com/category/edgewater)
 * [Englewood](https://cwbchicago.com/category/englewood)
 * [Gage Park](https://cwbchicago.com/category/gage-park)
@@ -371,6 +372,7 @@ Thank you.
 * [Washington Heights](https://cwbchicago.com/category/washington-heights)
 * [Washington Park](https://cwbchicago.com/category/washington-park)
 * [West Elsdon](https://cwbchicago.com/category/west-elsdon)
+* [West Englewood](https://cwbchicago.com/category/west-englewood)
 * [West Garfield Park](https://cwbchicago.com/category/west-garfield-park)
 * [West Loop](https://cwbchicago.com/category/west-loop)
 * [West Pullman](https://cwbchicago.com/category/west-pullman)
