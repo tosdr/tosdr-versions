@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
 
 Service Stiftung Warentest
 
