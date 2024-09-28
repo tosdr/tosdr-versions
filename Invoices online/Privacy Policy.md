@@ -125,50 +125,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=136401980)  
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=212899488)  
 van Schaik rentals
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=123268394)  
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=213028355)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=157272736)  
+Meyer Towing & Recovery
+
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=46064662)  
 VA AND M BUSINESSES (PTY)LTD
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=71546239)  
-All Trucking Solutions
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=100758051)  
+IEMS (PTY) ltd
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=44393257)  
-AquariumSmiths
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=75857278)  
+Wiselink Broadband Dundee
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=71592406)  
-Kaylas Creations
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=111569284)  
+Echo Recording Studio cc
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=86073398)  
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=114560390)  
+United Paintball Federation
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=13543868)  
 VerdanTech Pty Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=119124274)  
-Skinz Printing & Branding
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=145960799)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=142758041)  
-Glass and Allied Industries
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=206857281)  
-webb it services
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=184846391)  
-Blue Sky Solar Services
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=180658945)  
-Qothiphango Mining
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=154249426)  
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=55075089)  
 Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=146854106)  
-Roamfree Boerdery (PTY) LTD
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=92974778)  
+Little Nutty Professors
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=75516957)  
-Nogana Events and Decor
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=67435675)  
+Mtunzini Group
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=134724791)  
-Know Informatics
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=180389345)  
+VA AND M DEBT-AID (PTY) LTD
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=19215223)  
+Digifax (Pty) Ltd trading as Digirent
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
