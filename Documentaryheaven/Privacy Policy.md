@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Nutrition and Behavior Aspartame (Lecture)](/wp-content/thumbnails/2404-100x70.jpg?x53432)
+* [![The Curse Of The Methuselah Tree](/wp-content/thumbnails/13880-100x70.jpg?x53432)
     
-    Nutrition and Behavior Aspartame (Lecture)
+    The Curse Of The Methuselah Tree
     
-    In this lecture, Dr. Russell Blaylock explains one of the most important connections between nutrition and our health, how nutrition affects our behavior. Citing a series of important studies, he sho](https://documentaryheaven.com/nutrition-and-behavior-aspartame-lecture/ "Nutrition and Behavior Aspartame (Lecture)")
-* [![Donk](/wp-content/thumbnails/6814-100x70.jpg?x53432)
+    In California, on top of a desolate mountain stands a tree, it is no ordinary tree, it is in fact the world's oldest living organism. A twisted bristlecone pine tree which goes by the name Methuselah,](https://documentaryheaven.com/curse-methuselah-tree/ "The Curse Of The Methuselah Tree")
+* [![Mystery of the Murdered Saints](/wp-content/thumbnails/6597-100x70.jpg?x53432)
     
-    Donk
+    Mystery of the Murdered Saints
     
-    Donk is simultaneously the most terrifying and hilarious dance music genre to ever come out of the UK. It's like lowest common denominator happy hardcore overlaid with manic, unintelligible MCing and](https://documentaryheaven.com/donk/ "Donk")
-* [![Charlie Brooker’s Gameswipe](/wp-content/thumbnails/6097-100x70.jpg?x53432)
+    For the first time, the Catholic Church is allowing scientific experts and historians to openly test the veracity of the remains of reported saints.National Geographic has exclusive access to the](https://documentaryheaven.com/mystery-of-the-murdered-saints/ "Mystery of the Murdered Saints")
+* [![The Russians Are Coming](/wp-content/thumbnails/7951-100x70.jpeg?x53432)
     
-    Charlie Brooker’s Gameswipe
+    The Russians Are Coming
     
-    Charlie Brooker sets his caustic sights on video games. Expect acerbic comment as he looks at the various genres, how they have changed since their early conception and how the media represents games](https://documentaryheaven.com/charlie-brookers-gameswipe/ "Charlie Brooker’s Gameswipe")
-* [![Food Fight](/wp-content/thumbnails/16339-100x70.png?x53432)
+    Russian money has poured into London, but is organised crime coming with it? Reporter Darragh MacIntyre investigates a death in a Russian prison that has brought the threat of violence to the UK. Coul](https://documentaryheaven.com/russians-are-coming/ "The Russians Are Coming")
+* [![Moleman 2: Demoscene: The Art of the Algorithms](/wp-content/thumbnails/6611-100x70.jpeg?x53432)
     
-    Food Fight
+    Moleman 2: Demoscene: The Art of the Algorithms
     
-    When we walk through the supermarket we are bombarded with choices, fresh or frozen, low fat or lots of fat, cool ranch or nacho cheese, with so much variety we assume that some of it is healthy and](https://documentaryheaven.com/food-fight/ "Food Fight")
-* [![Long Shot: Inside the Scope of Smart Weapons](/wp-content/thumbnails/8040-100x70.jpg?x53432)
+    In the 1980's, something changed the world forever. Computer technology, mostly due to the appearance of affordable Commodore 64's, entered households worldwide, providing the opportunity for everyone](https://documentaryheaven.com/moleman-2-demoscene-the-art-of-the-algorithms/ "Moleman 2: Demoscene: The Art of the Algorithms")
+* [![Too Young To Die: Sharon Tate](/wp-content/thumbnails/14669-100x70.jpg?x53432)
     
-    Long Shot: Inside the Scope of Smart Weapons
+    Too Young To Die: Sharon Tate
     
-    In spring of 2013, Texas-based start up TrackingPoint Solutions released the first ever precision-guided firearm, which is essentially a long-range, laser-guided robo rifle. Call it the gun of tomor](https://documentaryheaven.com/long-shot-inside-scope-smart-weapons/ "Long Shot: Inside the Scope of Smart Weapons")
+    If we held up that mirror to the 1960s, the who is the fairest of them all mirror from the Snow White fairy tale we would probably see Sharon Tate looking back at us. Her own story like that of the de](https://documentaryheaven.com/too-young-to-die-sharon-tate/ "Too Young To Die: Sharon Tate")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
