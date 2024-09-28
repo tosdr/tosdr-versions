@@ -248,7 +248,7 @@ this week
 
 [Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
