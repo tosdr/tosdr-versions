@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Don Doko Don](https://www.myabandonware.com/game/don-doko-don-9t4)
+* [Double Dragon](https://www.myabandonware.com/game/double-dragon-jxx)
 * [Double Dragon 3: The Rosetta Stone](https://www.myabandonware.com/game/double-dragon-3-the-rosetta-stone-1e1)
 * [Atari Football](https://www.myabandonware.com/game/atari-football-sjn)
 * [Cerberus](https://www.myabandonware.com/game/cerberus-sjm)
-* [Battlecry](https://www.myabandonware.com/game/battlecry-sjl)
-* [Bloody Roar II](https://www.myabandonware.com/game/bloody-roar-ii-sjk)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
