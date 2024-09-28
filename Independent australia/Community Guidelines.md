@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [The Murdoch family distrust](https://independentaustralia.net/article-display/the-murdoch-family-distrust,19012 "Permanent Link : The Murdoch family distrust")
+* [Grieving the loss of a murdered daughter](https://independentaustralia.net/article-display/grieving-the-loss-of-a-murdered-daughter,18891 "Permanent Link : Grieving the loss of a murdered daughter")
+* [News Corp still Dan's biggest fan](https://independentaustralia.net/article-display/news-corp-still-dans-biggest-fan,19017 "Permanent Link : News Corp still Dan's biggest fan")
 * [BOOK REVIEW: Always Was, Always Will Be](https://independentaustralia.net/article-display/book-review-always-was-always-will-be,19016 "Permanent Link : BOOK REVIEW: Always Was, Always Will Be")
 * [Robodebt response stirs Saturday Paper stoush](https://independentaustralia.net/article-display/robodebt-response-stirs-saturday-paper-stoush,19015 "Permanent Link : Robodebt response stirs Saturday Paper stoush")
 * [CARTOONS: Albo juggles the household Bills](https://independentaustralia.net/article-display/cartoons-albo-juggles-the-household-bills,18997 "Permanent Link : CARTOONS: Albo juggles the household Bills")
 * [Drone technology transforming Australian agriculture](https://independentaustralia.net/article-display/drone-technology-transforming-australian-agriculture,19014 "Permanent Link : Drone technology transforming Australian agriculture")
-* [EDITORIAL: The Murdoch family distrust](https://independentaustralia.net/article-display/editorial-the-murdoch-family-distrust,19011 "Permanent Link : EDITORIAL: The Murdoch family distrust")
-* [Mining industry launches brazen attack on Government](https://independentaustralia.net/article-display/mining-industry-launches-brazen-attack-on-government,19010 "Permanent Link : Mining industry launches brazen attack on Government")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
