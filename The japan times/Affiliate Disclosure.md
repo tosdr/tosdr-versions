@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 28, 2024](https://www.japantimes.co.jp/archive/2024/09/28/ "archive page")
+[September 29, 2024](https://www.japantimes.co.jp/archive/2024/09/29/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424413.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
 
-[China's newest nuclear-powered submarine sank this year, U.S. says](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
+[Ishiba wins: An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
-  [![A series of satellite images from Planet Labs appears to show cranes at the Wuchang shipyard in Wuhan, China, on June 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424289.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A series of satellite images from Planet Labs appears to show cranes at the Wuchang shipyard in Wuhan, China, on June 15.")](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
+  [![Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424488.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
-[In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
+[Toyota ends sponsorship with 'political' Olympics](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
 
-  [![Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424159.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.")](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
+  [![Toyota Chairman Akio Toyoda](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424472.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Chairman Akio Toyoda")](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
 
-[Giant African snails mark 90 years of history in Okinawa](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
+[Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
 
-  [![Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278413.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.")](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
+  [![New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424437.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.")](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
 
-[Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+[Japan fine-tunes issuance of humanitarian visas](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
 
-  [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+  [![Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424405.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
 
 Editors' Picks
 --------------
@@ -161,35 +161,35 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
   [![Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424413.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[China's newest nuclear-powered submarine sank this year, U.S. says](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
+[Ishiba wins: An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![A series of satellite images from Planet Labs appears to show cranes at the Wuchang shipyard in Wuhan, China, on June 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424289.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A series of satellite images from Planet Labs appears to show cranes at the Wuchang shipyard in Wuhan, China, on June 15.")](https://www.japantimes.co.jp/news/2024/09/27/asia-pacific/china-nuclear-submarine-sinks/ "China's newest nuclear-powered submarine sank this year, U.S. says")
+  [![Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424488.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Toyota ends sponsorship with 'political' Olympics](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
+
+  [![Toyota Chairman Akio Toyoda](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424472.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Chairman Akio Toyoda")](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424437.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.")](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
+[Japan fine-tunes issuance of humanitarian visas](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
 
-By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
-  [![Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/26/424159.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hideko Hakamata (center) and lawyers representing her younger brother, Iwao Hakamata, pose with a banner that reads "Iwao Hakamata verdict not guilty" as they leave the Shizuoka District Court on Thursday after the ruling was delivered.")](https://www.japantimes.co.jp/news/2024/09/26/japan/crime-legal/hakamata-retrial-ruling/ "In rare retrial, Shizuoka court rules ex-boxer not guilty of 1966 murders")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Giant African snails mark 90 years of history in Okinawa](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
-
-  [![Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278413.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Giant African snails are unpopular among local residents and are referred to as an alien species that shouldn’t be touched, as they damage crops and sometimes hosts rat lungworms.")](https://www.japantimes.co.jp/news/2024/02/19/japan/society/giant-african-snails-okinawa/ "Giant African snails mark 90 years of history in Okinawa")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Why is Shigeru Ishiba so unpopular among his LDP peers?](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
-
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/24/422854.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba reacts during a news conference ahead of the Liberal Democratic Party leadership election in Tokyo on Sept. 6.")](https://www.japantimes.co.jp/news/2024/09/24/japan/politics/ishiba-shigeru-ldp-candidate-diet-hates-local-chapters-love/ "Why is Shigeru Ishiba so unpopular among his LDP peers?")
+  [![Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424405.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
 
 Podcast
 -------
@@ -210,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan, U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
+[Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64](https://www.japantimes.co.jp/news/2024/09/28/world/hassan-nasrallah-dead/ "Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64")
 
-34 mins ago
+3 hours ago
 
-[Dozens dead as Helene cuts destructive path through southeastern U.S.](https://www.japantimes.co.jp/news/2024/09/28/world/tropical-depression-helene-us/ "Dozens dead as Helene cuts destructive path through southeastern U.S.")
+[Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut](https://www.japantimes.co.jp/news/2024/09/28/world/israel-says-hassan-nasrallah-dead/ "Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut")
 
-1 hours ago
+7 hours ago
 
-[Israel likely to have enough weapons for multiple conflicts](https://www.japantimes.co.jp/news/2024/09/28/world/israel-weapons-stockpile/ "Israel likely to have enough weapons for multiple conflicts")
+[Many still in evacuation shelters after heavy rain in Ishikawa](https://www.japantimes.co.jp/news/2024/09/28/japan/ishikawa-evacuation-rain/ "Many still in evacuation shelters after heavy rain in Ishikawa")
 
-1 hours ago
+8 hours ago
 
-[On trip to U.S., Zelenskyy finds Ukraine’s fortunes tied to the election](https://www.japantimes.co.jp/news/2024/09/28/world/politics/zelenskyy-ukraine-us-presidential-election/ "On trip to U.S., Zelenskyy finds Ukraine’s fortunes tied to the election")
+[Kobayashi Pharma sued in Taiwan over beni kōji products](https://www.japantimes.co.jp/business/2024/09/28/kobayashi-pharma-sued-taiwan/ "Kobayashi Pharma sued in Taiwan over beni kōji products")
 
-2 hours ago
+8 hours ago
 
-[Israeli airstrikes rock Beirut, as Hezbollah command center is hit](https://www.japantimes.co.jp/news/2024/09/28/world/israel-hezbollah-beirut-nasrallah/ "Israeli airstrikes rock Beirut, as Hezbollah command center is hit")
+[After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/politics/blinken-wang-china-ukraine/ "After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'")
 
-2 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
