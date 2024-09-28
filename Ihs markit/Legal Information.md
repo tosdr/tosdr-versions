@@ -23,7 +23,7 @@ EN
 
 #### Offerings by Division
 
-* [S&P Global Market Intelligence](https://www.spglobal.com/market-intelligence/)
+* [S&P Global Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [S&P Global Ratings](https://www.spglobal.com/ratings/)
 * [S&P Global Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -64,7 +64,7 @@ India's Future: The Quest for High and Stable Growth
 
 Offerings by Division
 
-[S&P Global Market Intelligence](https://www.spglobal.com/market-intelligence/)
+[S&P Global Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 
 [S&P Global Ratings](https://www.spglobal.com/ratings/)
 
