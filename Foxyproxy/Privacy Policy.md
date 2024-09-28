@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service .. Gonna renew on monthly basis.. Just keep the speed up :o)
+I was happy with the service. It's just that I don't need it for the moment. If and when I need it again I would be happy to resubscribe.
 
-Nick Whyles
+Tom Morton
