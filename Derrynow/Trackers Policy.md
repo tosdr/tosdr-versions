@@ -284,46 +284,19 @@ Newry court house
 [55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man charged with three indecent assaults against two males jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with three indecent assaults against two males jailed")](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
+[![Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday")](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
 
-Derry Crown Court
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[County Derry man charged with three indecent assaults against two males jailed](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
 
-[![Man (19) charged with non-fatal strangulation of his mother in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (19) charged with non-fatal strangulation of his mother in Derry court")](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (19) charged with non-fatal strangulation of his mother in Derry court](https://www.derrynow.com/news/local-news/1615799/man-19-charged-with-non-fatal-strangulation-of-his-mother-in-derry-court.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket")](https://www.derrynow.com/news/local-news/1615748/suspended-sentence-for-derry-man-who-stole-6-40-worth-of-dragon-soop-from-supermarket.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket](https://www.derrynow.com/news/local-news/1615748/suspended-sentence-for-derry-man-who-stole-6-40-worth-of-dragon-soop-from-supermarket.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Who are the guests on tonight's Graham Norton Show season premiere on BBC? Here's the line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Graham Norton Show season premiere on BBC? Here's the line-up")](https://www.derrynow.com/news/arts---entertainment/1615714/who-are-the-guests-on-tonight-s-graham-norton-show-season-premiere-on-bbc-here-s-the-line-up.html)
-
-Lady Gaga, Demi Moore, Colin Farrell, Richard Ayoade, Jack Savoretti and host Graham Norton (Matt Crossick/PA)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Graham Norton Show season premiere on BBC? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1615714/who-are-the-guests-on-tonight-s-graham-norton-show-season-premiere-on-bbc-here-s-the-line-up.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man arrested in Eglinton following drugs seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Eglinton following drugs seizure")](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man arrested in Eglinton following drugs seizure](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, 28th September 2024](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![£2.6million Active Travel scheme for busy Ballykelly road set to commence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£2.6million Active Travel scheme for busy Ballykelly road set to commence")](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
 
@@ -332,12 +305,35 @@ Lady Gaga, Demi Moore, Colin Farrell, Richard Ayoade, Jack Savoretti and host Gr
 [£2.6million Active Travel scheme for busy Ballykelly road set to commence](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court")](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
+[![Man (35) has bail revoked for attempting to make contact with former partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (35) has bail revoked for attempting to make contact with former partner")](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (35) has bail revoked for attempting to make contact with former partner](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man returned for trial for head-butting and spitting on Donegal garda](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial for head-butting and spitting on Donegal garda")](https://www.derrynow.com/news/crime---courts/1615820/derry-man-returned-for-trial-for-head-butting-and-spitting-on-donegal-garda.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Derry man returned for trial for head-butting and spitting on Donegal garda](https://www.derrynow.com/news/crime---courts/1615820/derry-man-returned-for-trial-for-head-butting-and-spitting-on-donegal-garda.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire")](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
+
+Drogheda United players celebrate. Pic by Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City fall to defeat at Drogheda United](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,14 +513,39 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
+[![Derry public warned about parking fine text messages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry public warned about parking fine text messages")](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry public warned about parking fine text messages](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Struggling to sleep? Derry event to help achieve that](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Struggling to sleep? Derry event to help achieve that")](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
+
+PICTURE: DEPOSITPHOTOS
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Struggling to sleep? Derry event to help achieve that](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Age Friendly Causeway unveils calendar of events for Positive Ageing Month this October](https://www.derrynow.com/resizer/165/93/true/2024_09_27/CCGBC_AGEING_OCT_1-1727451244990.jpg--.jpg?1727451246349 "Age Friendly Causeway unveils calendar of events for Positive Ageing Month this October")](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1616257/age-friendly-causeway-unveils-calendar-of-events-for-positive-ageing-month-this-october.html)
+
+Mayor of Causeway Coast and Glens, Councillor Ciarán McQuillan, joins with Ann McNickle, Project Manager: CRUN and Liam Hinphey, Age-Friendly Programme Coordinator. Photo: CCGBC
+
+[Causeway Coast and Glens Borough Council](https://www.derrynow.com/section/2723/causeway-coast-and-glens-borough-council)
+
+[Age Friendly Causeway unveils calendar of events for Positive Ageing Month this October](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1616257/age-friendly-causeway-unveils-calendar-of-events-for-positive-ageing-month-this-october.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, 28th September 2024](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_27/2948783-1727469906340.jpg--.jpg?1727469907485 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
 
 Drogheda United players celebrate. Pic by Sportsfile
 
@@ -541,29 +562,6 @@ Newry court house
 
 [55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](https://www.derrynow.com/resizer/165/93/true/2024_09_27/CDP_-_03-09-24_-_Page_5_lead_pic_%282%29-1727443697112.jpg--.jpg?1727443697201 "Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday")](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](https://www.derrynow.com/resizer/165/93/true/2024_09_27/MixCollage-27-Sep-2024-11-04-AM-3826-1727431533672.jpg--.jpg?1727431533732 "Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire")](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Human Rights Commission runs workshop at Derry's NWRC](https://www.derrynow.com/resizer/165/93/true/2024_09_27/NWRC_Sept_2024-1727437153559.jpeg--.jpeg?1727437154235 "Human Rights Commission runs workshop at Derry's NWRC")](https://www.derrynow.com/news/local-news/1615898/human-rights-commission-runs-workshop-at-derry-s-nwrc.html)
-
-Staff and students from North West Regional College with members of the Northern Ireland Human Rights Commission
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Human Rights Commission runs workshop at Derry's NWRC](https://www.derrynow.com/news/local-news/1615898/human-rights-commission-runs-workshop-at-derry-s-nwrc.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
