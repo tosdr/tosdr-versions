@@ -817,10 +817,10 @@ If you have any questions about this Privacy Policy, please contact us:
 * 4[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
 * 5[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
 * 6[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
-* 7[Germany joins Italy to call for earlier revision of CO2 targets for cars](http://en.euractiv.eu/section/economy-jobs/news/germany-joins-italy-to-call-for-earlier-revision-of-co2-targets-for-cars/?utm_source=website&utm_campaign=popular)
-* 8[New international coalition seeks two-state solution in Israel-Palestine conflict](http://en.euractiv.eu/section/global-europe/news/new-international-coalition-seeks-two-state-solution-in-israel-palestine-conflict/?utm_source=website&utm_campaign=popular)
-* 9[Meloni’s Atlantic Council award sparks debate over possible shift to Trump](http://en.euractiv.eu/section/politics/news/melonis-atlantic-council-award-sparks-debate-over-possible-shift-to-trump/?utm_source=website&utm_campaign=popular)
-* 10[The President of Cyprus says he is ready to resume reunification talks 'today'](http://en.euractiv.eu/section/global-europe/news/the-president-of-cyprus-says-he-is-ready-to-resume-reunification-talks-today/?utm_source=website&utm_campaign=popular)
+* 7[New international coalition seeks two-state solution in Israel-Palestine conflict](http://en.euractiv.eu/section/global-europe/news/new-international-coalition-seeks-two-state-solution-in-israel-palestine-conflict/?utm_source=website&utm_campaign=popular)
+* 8[Meloni’s Atlantic Council award sparks debate over possible shift to Trump](http://en.euractiv.eu/section/politics/news/melonis-atlantic-council-award-sparks-debate-over-possible-shift-to-trump/?utm_source=website&utm_campaign=popular)
+* 9[The President of Cyprus says he is ready to resume reunification talks 'today'](http://en.euractiv.eu/section/global-europe/news/the-president-of-cyprus-says-he-is-ready-to-resume-reunification-talks-today/?utm_source=website&utm_campaign=popular)
+* 10[Bulgarian commissioner-designate asked to come clean about her past](http://en.euractiv.eu/section/politics/news/bulgarian-commissioner-designate-asked-to-come-clean-about-her-past/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
