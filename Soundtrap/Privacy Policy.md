@@ -68,7 +68,7 @@ ARTICLE II: DATA OWNERSHIP AND AUTHORIZED ACCESS
 
 * Separate Account. If Student-Generated Content is stored or maintained by the Provider, Provider shall, at the request of the LEA, transfer, or provide a mechanism for the LEA to transfer, said Student- Generated Content to a separate account created by the student.
 
-* ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdTDb1nV5eITF4hAvktGE5eTNjaTENKk8CfnKQnr0L2wlTfHCg_Ae7bVsAMyHSJW8WNlcRbpa8ez5YZQwpsK0goj8Q3dRWPJnFPJ76_s8aMw-vfuQOrhYmb_BCKKD9rAxVDgXTz6n_nkuVKxavrOQ?key=yKayzoDgfaHpH4XhBChdbQ)Law Enforcement Requests. Should law enforcement or other government entities (“Requesting Party(ies)”) contact Provider with a request for Student Data held by the Provider pursuant to the Services, the Provider shall notify the LEA in advance of a compelled disclosure to the Requesting Party, unless lawfully directed by the Requesting Party not to inform the LEA of the request.
+* ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfc3KWRF1Q999XwPCbTnR8mkXzLRh9wrdvusC5DJ7iDLZTH4f9P2jJpP6CYbpXgbe8MjUS-Q93m2fd_dqjgjSymvBPVEY8NpDkpmfbd0sBPbsJFhY1hZHsg42baZtFiwqk3KONCGMbrxNzulLDhjg?key=yKayzoDgfaHpH4XhBChdbQ)Law Enforcement Requests. Should law enforcement or other government entities (“Requesting Party(ies)”) contact Provider with a request for Student Data held by the Provider pursuant to the Services, the Provider shall notify the LEA in advance of a compelled disclosure to the Requesting Party, unless lawfully directed by the Requesting Party not to inform the LEA of the request.
 
 * Subprocessors. Provider shall enter into written agreements with all Subprocessors performing functions for the Provider in order for the Provider to provide the Services pursuant to the Service Agreement, whereby the Subprocessors agree to protect Student Data in a manner no less stringent than the terms of this DPA.
 
@@ -311,13 +311,13 @@ Data shall be disposed of by the following date:
 
 * Signature
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-AoB2M3G4E_ZqUNtW3axV6wZXVi87E93kxJR8km0VwETswDEym7GXhxQ8uQmVYoA_1mWR0RFPZ5yXLf8zOW-thtlKg0XqylV8SEGce80IXpdMaxuHYJdHNQn2sWmp5jlfcYSTCOyTmwRra-Oi9A?key=yKayzoDgfaHpH4XhBChdbQ)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcA7bAyi9NburEPLlE0LecXfAtkmYKnDGuQi6PGSVYQLJr61y0uSidiHDrb2MuQyWsq5dyGBl41KUC0d9gXDLQt9o276tHbjXJf0RUUrRE8ZnXercfKUEDuygqiG93YE9OLp46ZAsBQv99NjI23CA?key=yKayzoDgfaHpH4XhBChdbQ)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXei4tP0vOjxq48oRJRbGUVO1iVN9EPRXp2F8uXxz8EjY2AtXNjKi13DtYLE2SlLzZ2ETCmCIn87ev29s2pBytoTQOLjJOtSkphbcLxKJxZT5yymYRjXZRXC1X2DtnqMcCC0OS537IuhfNRY_87Ehw?key=yKayzoDgfaHpH4XhBChdbQ)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfVsxhfKJzIWCm1gbNH8Ma6Cv2zVJhzQRd5Y8izfbS-tbIRm0hZqoQxYW1gBiyTEPnWow6StfajvWuDCDd3tlFL5zuXUMvBX6NcqsD1hKBbsvcxBmWC5I1UpaXnVB7OcagFy1doDqZ1TLPSjWAKyA?key=yKayzoDgfaHpH4XhBChdbQ)
 
 Authorized Representative of LEA        Date
 
 * Verification of Disposition of Data
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYjPIw_jrAoIdaVH05qLLn9HpjEZw5VRBP5Q4FPXM8sEUUt5Fru4FSjUgSEeCds1iNpbsg5bxMUWuf3ecxqrlHk4Glcvp4bm4AIA0ybqELcVe-4HW-y0FtStUCmRbHiuBgvq1JOB-MEjn1096Tlw?key=yKayzoDgfaHpH4XhBChdbQ)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXffLgbaZccSRGl6Fd8O2iuIGHh6Tr3OmuaIPMbFiuDtG1D5In1Xh7wGAjIBn-zxzHD9VnXNY09ydbVcyz-lCEL1mlf8WmnpRy6MHyF40fdq9IbJnayT1kYAlBGPlcavNdlJhMDRTMrMfW71f6ZD?key=yKayzoDgfaHpH4XhBChdbQ)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeMwtqRUJzMZJyCGWxsN2IV75K0tZpiBQ4BQUAFCB6xhblbebbBLBmKotbxazAdKHhhD7x0A8R5DRPTtxaY0CQAFhVdJJMWlnGU-urBIacOLWSbm2iOJxsqVSad6I3SBeq3aiSTOMX1UIlyIz6CYQ?key=yKayzoDgfaHpH4XhBChdbQ)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-nONFJckhE-O4HY9XRMIxv6ivdtcfP_R1ToYss-rEy5hgUhVg4rfjx2btvQHomPgdy3wOOXBj4xSncTFkqWhg1TQiO5dZfIX6GwZvCbt5HB-xt9bo1jvSg2TXnys-3xRt-cV0cE0Gh9gdmmxh?key=yKayzoDgfaHpH4XhBChdbQ)
 
 Authorized Representative of Company        Date
 
@@ -378,7 +378,7 @@ Cybersecurity Frameworks
 | X   | Center for Internet Security | CIS Critical Security Controls (CSC, CIS Top 20) |
 |     | Office of the Under Secretary of Defense for Acquisition and Sustainment (OUSD(A&S)) | Cybersecurity Maturity Model Certification (CMMC, ~FAR/DFAR) |
 
-Please visit [http://www.edspex.org](https://www.google.com/url?q=http://www.edspex.org/&sa=D&source=editors&ust=1727519492187186&usg=AOvVaw2RtGyq4sGV6r0FFGaIg27r) for further details about the noted frameworks.
+Please visit [http://www.edspex.org](https://www.google.com/url?q=http://www.edspex.org/&sa=D&source=editors&ust=1727541841772620&usg=AOvVaw3V5LTQ_iijDfL0SZYa99bc) for further details about the noted frameworks.
 
 \*Cybersecurity Principles used to choose the Cybersecurity Frameworks are located here
 
