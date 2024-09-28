@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [‘Night Magic’ invites you to celebrate the living wonders of the dark](https://www.sciencenews.org/article/night-magic-dark-book-review)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")22 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")September 27, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
