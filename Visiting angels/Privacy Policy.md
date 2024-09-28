@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How Home Care Changes Between Alzheimer’s and Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-home-care-changes-between-alzheimers-and-dementia/292)
+[What is Long-Distance Caregiving from Visiting Angels?](https://www.visitingangels.com/knowledge-center/selecting-care/what-is-long-distance-caregiving-from-visiting-angels/324)
 
-[Isolation and Depression in the Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/isolation-and-depression-in-the-elderly/1)
+[The Importance of Choice in Elder Care Services](https://www.visitingangels.com/knowledge-center/selecting-care/the-importance-of-choice-in-elder-care-services/383)
 
-[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
+[Activities That Stimulate Your Aging Senior’s Brain](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/activities-that-stimulate-your-aging-seniors-brain/381)
 
-[What to Know About Switching Professional Caregivers](https://www.visitingangels.com/knowledge-center/selecting-care/what-to-know-about-switching-professional-caregivers/328)
+[What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
 
-[At Home Living Assistance Helps Families Find Peace of Mind](https://www.visitingangels.com/knowledge-center/why-in-home-care/at-home-living-assistance-helps-families-find-peace-of-mind/327)
+[5 Questions to Ask Before Starting Respite Care](https://www.visitingangels.com/knowledge-center/care-options/5-questions-to-ask-before-starting-respite-care/52)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
