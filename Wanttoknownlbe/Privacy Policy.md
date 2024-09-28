@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/van-annunaki-tot-illuminatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/bewijs-informatie-over-vrije-energie-wordt-geweldadig-onderdrukt/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
