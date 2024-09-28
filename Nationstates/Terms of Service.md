@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Twilight of the Gods: A Metahuman RP… (1,893)](https://forum.nationstates.net/viewtopic.php?t=508563&f=31&view=unread#unread ""Twilight of the Gods: A Metahuman RP (IC)" (1,893 posts)")
-* [The Collective Security League Assemb… (76)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (76 posts)")
-* [American Politics: Centennials, Debat… (8,893)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Centennials, Debates, and Indictments" (8,893 posts)")
-* [Commend or Condemn AN II (789)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (789 posts)")
-* [Which faction should I join (30)](https://forum.nationstates.net/viewtopic.php?t=555832&f=41&view=unread#unread ""Which faction should I join" (30 posts)")
+* [2023 Israel–Hamas War Thread mk3 (7,789)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,789 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (740)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (740 posts)")
+* [Hot or Cold: BN/BU Edition (1,179)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,179 posts)")
+* [Guess The AN Ideology based on their… (1,591)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (1,591 posts)")
+* [Ukrainian War VII: Everything has a p… (5,716)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,716 posts)")
 
 Advertisement
 
