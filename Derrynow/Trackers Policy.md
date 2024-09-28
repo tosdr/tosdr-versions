@@ -275,13 +275,6 @@ Tony Fitzpatrick passed away this morning.
 ['Our hearts are broken' - Magherafelt boy Tony Fitzpatrick has sadly passed away](https://www.derrynow.com/news/home/1616039/our-hearts-are-broken-magherafelt-boy-tony-fitzpatrick-has-sadly-passed-away.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, 27th September 2024](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![55-year-old Derry man sentenced for five counts of child cruelty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
 
 Newry court house
@@ -325,6 +318,13 @@ Lady Gaga, Demi Moore, Colin Farrell, Richard Ayoade, Jack Savoretti and host Gr
 [Who are the guests on tonight's Graham Norton Show season premiere on BBC? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1615714/who-are-the-guests-on-tonight-s-graham-norton-show-season-premiere-on-bbc-here-s-the-line-up.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man arrested in Eglinton following drugs seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Eglinton following drugs seizure")](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested in Eglinton following drugs seizure](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![£2.6million Active Travel scheme for busy Ballykelly road set to commence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£2.6million Active Travel scheme for busy Ballykelly road set to commence")](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -332,12 +332,12 @@ Lady Gaga, Demi Moore, Colin Farrell, Richard Ayoade, Jack Savoretti and host Gr
 [£2.6million Active Travel scheme for busy Ballykelly road set to commence](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested in Eglinton following drugs seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Eglinton following drugs seizure")](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
+[![Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court")](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man arrested in Eglinton following drugs seizure](https://www.derrynow.com/news/local-news/1615993/man-arrested-in-eglinton-following-drugs-seizure.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man charged with possessing £39,000 worth of drugs has bailed refused in Derry court](https://www.derrynow.com/news/local-news/1615806/man-charged-with-possessing-39-000-worth-of-drugs-has-bailed-refused-in-derry-court.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, 28th September 2024](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
 
 Drogheda United players celebrate. Pic by Sportsfile
@@ -526,7 +533,7 @@ Drogheda United players celebrate. Pic by Sportsfile
 [Derry City fall to defeat at Drogheda United](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![55-year-old Derry man sentenced for five counts of child cruelty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
+[![55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/resizer/165/93/true/2024_09_27/00047cab-500-1727461500648.jpg--.jpg?1727461500676 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
 
 Newry court house
 
@@ -557,13 +564,6 @@ Staff and students from North West Regional College with members of the Northern
 
 [Human Rights Commission runs workshop at Derry's NWRC](https://www.derrynow.com/news/local-news/1615898/human-rights-commission-runs-workshop-at-derry-s-nwrc.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (35) has bail revoked for attempting to make contact with former partner](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_15038710.jpg--.jpg "Man (35) has bail revoked for attempting to make contact with former partner")](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (35) has bail revoked for attempting to make contact with former partner](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
