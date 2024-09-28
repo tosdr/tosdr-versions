@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper](https://www.msx.org/photoshoots/bussum-2001/one-winners-msxorg-quiz-bas-kornalijnslijper "One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [Pixel Memories Pasoko-1000 Joysticks](https://www.msx.org/news/hardware/en/pixel-memories-pasoko1000-tribute-joysticks "Pixel Memories Pasoko-1000 Joysticks")
@@ -149,11 +150,13 @@ Latest reactions
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [New game ROM for MSX1 and later... TILEZ](https://www.msx.org/downloads/new-game-rom-for-msx1-and-later-tilez "New game ROM for MSX1 and later... TILEZ")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
-* [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
 
 Latest forum posts
 
+* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=26 "A new MSX (3?) for 2022 ?")
 * [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=1 "Hi From Cuba, Need Help Z80 ;)")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=5 "vFM (virtual Full Music) MSX universal audio Cartridge")
+* [The BIG MSXVR Q&A thread](https://www.msx.org/forum/msx-talk/hardware/the-big-msxvr-qa-thread?page=32 "The BIG MSXVR Q&A thread")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=1 "HB-F1XD reboots/freezes in basic")
 * [Cheap and durable joystick](https://www.msx.org/forum/msx-talk/hardware/cheap-and-durable-joystick "Cheap and durable joystick")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=57 "WonderTANG! Who wants to juice up your MSX?")
@@ -163,9 +166,6 @@ Latest forum posts
 * [V9978... what could it have been?](https://www.msx.org/forum/msx-talk/hardware/v9978-what-could-it-have-been?page=4 "V9978... what could it have been?")
 * [Any of these need archiving?](https://www.msx.org/forum/msx-talk/software/any-of-these-need-archiving "Any of these need archiving?")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=119 "Please help testing upcoming openMSX release!")
-* [Tracing the V9958](https://www.msx.org/forum/msx-talk/general-discussion/tracing-the-v9958?page=1 "Tracing the V9958")
-* [Saving in Vampire Killer](https://www.msx.org/forum/msx-talk/general-discussion/saving-in-vampire-killer "Saving in Vampire Killer")
-* [Fastest ISR](https://www.msx.org/forum/msx-talk/development/fastest-isr?page=1 "Fastest ISR")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
@@ -179,7 +179,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
