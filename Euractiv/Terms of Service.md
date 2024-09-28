@@ -259,10 +259,6 @@ Toggle navigation
     * [Rethinking the global order](https://www.euractiv.com/section/central-asia/special_report/rethinking-the-global-order-2/)
     * [The road to Georgia’s accession to the EU](https://www.euractiv.com/section/europe-s-east/special_report/the-road-to-georgias-accession-to-the-eu/)
     
-    ##### Events
-    
-    * 26 September - [Uzbekistan 2024 parliamentary elections - On the road to a democratic future](https://events.euractiv.com/event/info/uzbekistan-2024-parliamentary-elections-on-the-road-to-a-democratic-future)
-    
     ##### Promoted Content
     
     * [Speech by Chargé d’affaires Zhu Jing at the 2024 National Day Reception](https://www.euractiv.com/section/eu-china/opinion/speech-by-charge-daffaires-zhu-jing-at-the-2024-national-day-reception/)
