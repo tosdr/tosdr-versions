@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Anri van der Linde
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=64818649)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=128703844)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=97833035)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=150892744)  
+Fox Alarms & Security
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=118977357)  
-Skinz Printing & Branding
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=70711470)  
+M's Frozen Delights
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=121497092)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=86020968)  
-Brilliant Roof Products
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=88152213)  
-Vplay Grafix
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=181308409)  
-Waterfinatics Swim School
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=96210654)  
-CBR Verwe/Paints
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=164957226)  
-TurboFibre
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=128439829)  
-Lemba Truck Stop
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=109129384)  
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=33238615)  
 Tagline Brands
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=210696043)  
-Bchange Online CC
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=26674600)  
+West Coast Horse Trails
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=45988493)  
-APTV Telecoms CC
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=16913920)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=158076237)  
-Vplay Letsheng Mall
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=123361566)  
+OrgChart Hosting Pty Ltd
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=ef65c1423d5d48becb62f3d6f5c9f7203dc3664f57ebf7af28010a46717afd91&c=72403306)  
-AquariumSmiths
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=129344282)  
+Iurus Inc
+
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=110969520)  
+TurboFibre
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=212508265)  
+Itroniq (Pty) Ltd
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=101777762)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=18118249)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=29768515)  
+LEO DEVELOPMENT GROUP
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=111062614)  
+Nilbet T/A Waterman
+
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=116795970)  
+Myfinance-Online
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
