@@ -46,17 +46,17 @@ Search for:
 
 [Voter registration swing spells bad news for Democrats](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nathan-fani-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyc-queens-streets-1200x630.jpg)](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
 
-[Manhunt underway for Fani Willis’ boy toy Nathan Wade](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
+[Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mayor-adams-1200x630.jpg)](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college--1200x630.png)](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
 
-[‘You are a disgrace for all Black people in this city!’ Adams loudly heckled at presser](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
+[‘The tide is turning’: Charlie Kirk shares inspiring signs of hope for America on college campuses](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-musk-1200x630.jpg)](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fox-weather-1200x630.png)](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
 
-[Elon Musk says ‘it’s obvious’ that Dems are ‘importing voters’](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
+[Fox meteorologist rescues Atlanta woman trapped in car while reporting on hurricane](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-2173926361-1-1200x630.jpg)
 
@@ -80,10 +80,6 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college--220x180.png)](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
-
-[‘The tide is turning’: Charlie Kirk shares inspiring signs of hope for America on college campuses](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rizzler-cringe-220x180.jpg)](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
 
 [Dem congressperson lets Gen Z staffers write script, produces PURE cringe](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
@@ -91,10 +87,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-toyota-220x180.jpg)](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
 
 [Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyc-queens-streets-220x180.jpg)](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
-
-[Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-karen-brinson-bell-220x180.png)](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
 
@@ -107,10 +99,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-signing-220x180.jpg)](https://americanwirenews.com/biden-refers-to-kamala-as-boss-and-slams-secretary-j-d-vance-with-false-accusation-in-rambling-remarks/)
 
 [Biden refers to Kamala as ‘boss’ and slams ‘secretary’ J.D. Vance with false accusation in rambling remarks](https://americanwirenews.com/biden-refers-to-kamala-as-boss-and-slams-secretary-j-d-vance-with-false-accusation-in-rambling-remarks/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fox-weather-220x180.png)](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
-
-[Fox meteorologist rescues Atlanta woman trapped in car while reporting on hurricane](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-ship-220x180.jpg)](https://americanwirenews.com/sabotage-shocker-shipbuilding-company-suspects-faulty-welds-were-done-intentionally-on-us-navy-subs/)
 
@@ -144,6 +132,38 @@ Search for:
 
 [Trump unloads on Pelosi for insider trading after latest stock dump: ‘She should be prosecuted’](https://americanwirenews.com/trump-unloads-on-pelosi-for-insider-trading-after-latest-stock-dump-she-should-be-prosecuted/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-musk-220x180.jpg)](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
+
+[Elon Musk says ‘it’s obvious’ that Dems are ‘importing voters’](https://americanwirenews.com/elon-musk-says-its-obvious-that-dems-are-importing-voters/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mayor-adams-220x180.jpg)](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
+
+[‘You are a disgrace for all Black people in this city!’ Adams loudly heckled at presser](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nathan-fani-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
+
+[Manhunt underway for Fani Willis’ boy toy Nathan Wade](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nyc-220x180.png)](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
+
+[Trump blasts ABC News for violating debate agreement](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jumaane-williams-220x180.jpg)](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
+
+[AOC-backed Anti-cop, far-left zealot on deck to replace NYC Mayor Adams](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-zelenskyy-2-220x180.jpg)](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
+
+[Trump shares private message Zelenskyy just sent him](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jdvance1-1200-x-628-220x180.jpg)](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
+
+[Leftist journo ‘doing Iran’s bidding’ by publishing hacked Vance document](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tlaib-blinken-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/rashida-tlaib-to-antony-blinken-resign-now/)
+
+[Rashida Tlaib to Antony Blinken: ‘Resign now’](https://americanwirenews.com/rashida-tlaib-to-antony-blinken-resign-now/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-ruhle-220x180.jpg)](https://americanwirenews.com/whoa-byron-york-shares-transcript-of-kamala-interview-and-its-even-scarier-in-writing/)
 
 [‘WHOA!!’ Byron York shares transcript of Kamala interview and it’s even scarier in writing](https://americanwirenews.com/whoa-byron-york-shares-transcript-of-kamala-interview-and-its-even-scarier-in-writing/)
@@ -155,26 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-election-ballot-220x180.jpg)](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
 
 [‘NO BARCODE’: Wisc. Rep demands investigation ‘NOW’ after excuse for duplicate ballots doesn’t add up](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hillary-clinton-2-220x180.jpg)](https://americanwirenews.com/hillary-says-deplorable-is-too-kind-a-word-for-some-trump-supporters-but-insists-shes-striving-for-empathy/)
-
-[Hillary says ‘deplorable’ is ‘too kind a word’ for some Trump supporters, but insists she’s striving for ‘empathy’](https://americanwirenews.com/hillary-says-deplorable-is-too-kind-a-word-for-some-trump-supporters-but-insists-shes-striving-for-empathy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-sg-mother-at-disneyland-split-220x180.jpg)](https://americanwirenews.com/sad-scene-when-mom-tries-to-scam-disneyland-gets-hauled-off-in-cuffs-with-crying-kids-in-tow/)
-
-[Sad scene when mom tries to scam Disneyland, gets hauled off in cuffs with crying kids in tow](https://americanwirenews.com/sad-scene-when-mom-tries-to-scam-disneyland-gets-hauled-off-in-cuffs-with-crying-kids-in-tow/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-misha-pride-220x180.jpg)](https://americanwirenews.com/maine-mayor-advises-elderly-to-consider-reverse-mortgages-amid-surging-taxes-and-reported-migrant-influx/)
-
-[Maine mayor advises elderly to consider ‘reverse mortgages’ amid surging taxes, and reported ‘migrant’ influx](https://americanwirenews.com/maine-mayor-advises-elderly-to-consider-reverse-mortgages-amid-surging-taxes-and-reported-migrant-influx/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-horowitz-massie-220x180.jpg)](https://americanwirenews.com/i-need-to-be-careful-doj-inspector-gives-cagey-response-to-questions-about-fbi-informants-in-j6-crowd/)
-
-[‘I need to be careful’: DOJ inspector gives cagey response to questions about FBI informants in J6 crowd](https://americanwirenews.com/i-need-to-be-careful-doj-inspector-gives-cagey-response-to-questions-about-fbi-informants-in-j6-crowd/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-chimpanzee-220x180.jpg)](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
-
-[Research facility destroyed by locals after trained Chimp steals and brutally murders human baby](https://americanwirenews.com/research-facility-destroyed-by-locals-after-trained-chimp-steals-and-brutally-murders-human-baby/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
