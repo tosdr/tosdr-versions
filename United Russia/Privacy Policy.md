@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия»: Выставку «Сила V правде – гордость и победа» в Сургуте в первый день посетили больше 10 тысяч человек](https://cdn.er.ru/media/news/September2024/4s7U1whZIQOVQfLIiPnp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-v-surgute-v-pervyj-den-posetili-bolshe-10-tysyach-chelovek)
+
+[«Единая Россия»: Выставку «Сила V правде – гордость и победа» в Сургуте в первый день посетили больше 10 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-v-surgute-v-pervyj-den-posetili-bolshe-10-tysyach-chelovek)
+
+[#Хохряков](https://er.ru/activity/news?tags%5B0%5D=796) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ханты-Мансийский автономный округ - Югра](https://er.ru/activity/news?tags%5B0%5D=118527) [#Кухарук](https://er.ru/activity/news?tags%5B0%5D=119725) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
+
+Сегодня 16:29
+
+[![В Москве при поддержке «Единой России» открылся VII Большой Детский фестиваль](https://cdn.er.ru/media/news/September2024/XNpP6mItJ58vAVvnhHNy-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-otkrylsya-vii-bolshoj-detskij-festival)
+
+[В Москве при поддержке «Единой России» открылся VII Большой Детский фестиваль](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-otkrylsya-vii-bolshoj-detskij-festival)
+
+[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Безруков](https://er.ru/activity/news?tags%5B0%5D=23287) [#БольшойДетскийФестиваль](https://er.ru/activity/news?tags%5B0%5D=1093399) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#открытие](https://er.ru/activity/news?tags%5B0%5D=36) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#культурамалойродины](https://er.ru/activity/news?tags%5B0%5D=114762)
+
+Сегодня 14:48
+
 [![Антон Демидов: Делегация Комсомола Китая посетит Россию и подпишет соглашение с «Молодой Гвардией Единой России»](https://cdn.er.ru/media/news/September2024/NXPO56oJ2PSExn3OqpuC-small.jpg)](https://er.ru/activity/news/anton-demidov-delegaciya-komsomola-kitaya-posetit-rossiyu-i-podpishet-soglashenie-s-molodoj-gvardiej-edinoj-rossii)
 
 [Антон Демидов: Делегация Комсомола Китая посетит Россию и подпишет соглашение с «Молодой Гвардией Единой России»](https://er.ru/activity/news/anton-demidov-delegaciya-komsomola-kitaya-posetit-rossiyu-i-podpishet-soglashenie-s-molodoj-gvardiej-edinoj-rossii)
@@ -328,22 +344,6 @@
 [«Молодая Гвардия Единой России» поздравила воспитателей по всей стране с профессиональным праздником](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-vospitatelej-po-vsej-strane-s-professionalnym-prazdnikom)
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Деньвоспитателя](https://er.ru/activity/news?tags%5B0%5D=110796) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-27.09.24
-
-[![Активисты МГЕР и «Волонтёрской Роты» вышли к посольствам США и Великобритании с напоминанием западным странам о выборе жителей Донбасса и Новороссии на референдумах 2022 года](https://cdn.er.ru/media/news/September2024/hFWtlYnNQ7vVIrsnsZNm-small.JPG)](https://er.ru/activity/news/aktivisty-mger-i-volontyorskoj-roty-vyshli-k-posolstvam-ssha-i-velikobritanii-s-napominaniem-zapadnym-stranam-o-vybore-zhitelej-donbassa-i-novorossii-na-referendumah-2022-goda)
-
-[Активисты МГЕР и «Волонтёрской Роты» вышли к посольствам США и Великобритании с напоминанием западным странам о выборе жителей Донбасса и Новороссии на референдумах 2022 года](https://er.ru/activity/news/aktivisty-mger-i-volontyorskoj-roty-vyshli-k-posolstvam-ssha-i-velikobritanii-s-napominaniem-zapadnym-stranam-o-vybore-zhitelej-donbassa-i-novorossii-na-referendumah-2022-goda)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Донбасс](https://er.ru/activity/news?tags%5B0%5D=58931) [#Новороссия](https://er.ru/activity/news?tags%5B0%5D=61059) [#воссоединение](https://er.ru/activity/news?tags%5B0%5D=55922) [#референдум](https://er.ru/activity/news?tags%5B0%5D=389) [#Лебедев](https://er.ru/activity/news?tags%5B0%5D=2106) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#акция](https://er.ru/activity/news?tags%5B0%5D=238)
-
-27.09.24
-
-[![Ирина Яровая: Законопроект о едином плане работы для вожатых в детских лагерях повысит качество, содержательность и безопасность детского отдыха](https://cdn.er.ru/media/news/September2024/fOp40hUW0iBMvbr2ldEc-small.jfif)](https://er.ru/activity/news/irina-yarovaya-zakonoproekt-o-edinom-plane-raboty-dlya-vozhatyh-v-detskih-lageryah-povysit-kachestvo-soderzhatelnost-i-bezopasnost-detskogo-otdyha)
-
-[Ирина Яровая: Законопроект о едином плане работы для вожатых в детских лагерях повысит качество, содержательность и безопасность детского отдыха](https://er.ru/activity/news/irina-yarovaya-zakonoproekt-o-edinom-plane-raboty-dlya-vozhatyh-v-detskih-lageryah-povysit-kachestvo-soderzhatelnost-i-bezopasnost-detskogo-otdyha)
-
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#воспитание детей](https://er.ru/activity/news?tags%5B0%5D=31755) [#детские лагеря](https://er.ru/activity/news?tags%5B0%5D=3189)
 
 27.09.24
 
