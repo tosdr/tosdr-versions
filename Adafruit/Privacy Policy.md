@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Anything not saved will be lost”
+“ A Certain Darkness Is Needed to See the Stars”
 
-[Nintendo Wii 'Quit Screen'](https://en.wikipedia.org/wiki/Everything_Not_Saved_Will_Be_Lost_%E2%80%93_Part_1#Album_artwork_and_title)
+[Osho](https://en.wikipedia.org/wiki/Rajneesh)
 
 [](https://www.adafruit.com/about)
 
