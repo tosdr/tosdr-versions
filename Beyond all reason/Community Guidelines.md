@@ -1,6 +1,6 @@
 ALPHA
 
-[![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg)](https://www.beyondallreason.info/ "Beyond All Reason RTS")
+[![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f7119a80693934f12f5118_BAR-Beyond-All-Reason-Logo-SimpleNo-Glow-20-300px.png)](https://www.beyondallreason.info/ "Beyond All Reason RTS")
 
 [Battles](https://www.beyondallreason.info/active-battles "See what Battles are running right now!")[Replays](https://www.beyondallreason.info/replays "View & Download Replays of Battles played online")[Leaderboard](https://www.beyondallreason.info/leaderboards "Check our Live Leaderboard")[Devlog](https://www.beyondallreason.info/development/microblog "View Latest Balance Changes")[Account](https://server4.beyondallreason.info/login "Login & View Info About Your Account & Gameplay")
 
@@ -63,8 +63,7 @@ BAR servers can be unstable at times. A problem with our server-host is identifi
 Code of Conduct
 ===============
 
-BAR
-===
+![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f7134dc0116ebf1c432918_BAR-Beyond-All-Reason-Logo-ExtraGlow-20-512px.png)
 
 INDEX
 =====
@@ -290,7 +289,7 @@ _We hope you never need to visit/read this page, because that would mean everybo
 
 [Back to Top](#NAVTOP)
 
-![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/604dcda159681e01ba36b19b_BAR%20LOGO%20WEB%20(1).svg)
+![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f7125ee84aab760626a1c6_BAR-Beyond-All-Reason-Logo-Simple-ExtraGlow-20-512px.png)
 
 Beyond All Reason RTS
 
