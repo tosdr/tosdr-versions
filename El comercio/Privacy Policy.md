@@ -31,6 +31,137 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La dirigente sindical Rosa Argudo fue despedida del IESS
+========================================================
+
+Ella fue separada mediante la figura de despido intempestivo. La Contraloría y Fiscalía continúan con las investigaciones en su contra.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![El pasado 25 de junio de 2024, Rosa Argudo se presentó a la convocatoria realiza por los cinco asambleístas de Azuay. Fue en la Casa de la Asamblea en Cuenca. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/09/Rosa-Argudo.jpg)
+
+El **Instituto Ecuatoriano de Seguridad Social** ratificó la salida de la dirigente sindical, **Rosa Argudo**. Su cargo era auxiliar de esterilización en el Hospital de Especialidades **José Carrasco Arteaga**, en Cuenca. 
+
+Según el comunicado del **IESS**, “la medida se dio amparada en el marco de la ley y los valores correspondientes por indemnización serán acreditados dentro del plazo establecido legalmente”.
+
+El IESS dio por terminada la relación laboral mediante la figura de **despido intempestivo**.
+
+### Más noticias
+
+* [Hombre con muerte cerebral fue casado por lo civil en hospital del IESS](https://www.elcomercio.com/actualidad/ecuador/hombre-muerte-cerebral-casado-civil-iess.html "Hombre con muerte cerebral fue casado por lo civil en hospital del IESS")
+* [El Biess invierte en bonos de profesores jubilados](https://www.elcomercio.com/actualidad/el-biess-invierte-en-bonos-de-profesores-jubilados.html "El Biess invierte en bonos de profesores jubilados")
+
+¿Quién es Rosa Argudo?
+----------------------
+
+Su carrera en el **IESS** duró más de 36 años. Argudo fue la dirigente del **Sindicato Único de Obreros del Instituto Ecuatoriano de Seguridad Social (IESS).** 
+
+Ocupó ese cargo sindical por cinco periodos consecutivos y representó a cerca de 30 000 trabajadores en **Ecuador**. 
+
+Ellas fue convocada por la **Asamblea Nacional** para responder a preguntas sobre el manejo financiero del sindicato. Además, sobre las **relaciones contractuales de sus familiares** con el IESS. 
+
+Las denuncias en contra de Rosa Argudo
+--------------------------------------
+
+Entre las acusaciones se destacan la contratación de familiares, irregularidades en contratos, y cuestionamiento a su patrimonio. En 23 de julio del 2024, en una entrevista del programa Primera Plana, **Argudo** reconoció que sus tres hijos laboran en el Instituto. No especificó en qué áreas y desde cuándo.
+
+En su intervención detalló que su nuera odontóloga entró tras una convocatoria del Seguro Social Campesino y actualmente cuenta con un contrato.
+
+La dirigente negó que otros parientes estén laborando en la institución.
+
+El asambleísta azuayo, **Adrián Castro**, dijo que la Fiscalía y la Contraloría avanzan con las investigaciones de estas denuncias.
+
+A mediados de 2024, los **asambleístas del Azuay** solicitaron a la Contraloría que se abra un examen especial a las declaraciones juramentadas de Argudo y del resto de dirigentes sindicales.
+
+En ese entonces, el **asambleísta, Leonardo Berrezueta**, cuestionó cómo una auxiliar de enfermería que gana 1 295 dólares puede tener un patrimonio tan ostentoso y que no ha justificado.
+
+De acuerdo con la declaración pública registrada en la **Contraloría**, su cargo es de A**uxiliar de Esterilización**. Su patrimonio suma 746 662 dólares. Este monto es significativamente mayor al declarado en 2020, que fue de 454 598 dólares.
+
+¿Quién juega hoy en la Liga Pro?
+================================
+
+Este sábado 28 de septiembre de 2024 se llevarán a cabo tres partidos de la Liga Pro con El Nacional y Emelec como protagonistas.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Emelec y El Nacional protagonizan los partidos de la jornada 8 de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240818121933-fbl-ligapro-emelec-nacional-1024x804-1.jpg)
+
+La octava fecha de la segunda etapa de la Liga Pro ya se inició y dejó como primer resultado a la victoria de **Orense ante Macará**. Los compromisos continuarán en este sábado 28 de septiembre del 2024 y contarán con grandes clubes del balompié ecuatoriano.
+
+El cotejo entre machaleños y ambateños inauguró la fecha y finalizó con un marcador favorable de 1-0 para los primeros. Aquello puso a **Orense** en la segunda posición e igual a **Liga de Quito**, líder de la etapa, en puntos.
+
+### Más noticias:
+
+* [Orense presiona a Liga de Quito en la Liga Pro](https://www.elcomercio.com/deportes/orense-macara-liga-quito-liga-pro.html "Orense presiona a Liga de Quito en la Liga Pro")
+* [Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-barcelona-sc-los-reyes-de-las-multas-de-la-liga-pro.html "Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro")
+* [Horarios reprogramados para la fecha 8 de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-pro-fecha8-horarios-reprogramados.html "Horarios reprogramados para la fecha 8 de la Liga Pro")
+
+La derrota del plantel celeste, a su vez, lo mantuvo en la sexta posición. Pese al resultado, los puestos de **Orense y Macará** no son definitivos y están sujetos a lo que suceda con los demás clubes durante la jornada[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador")
+
+Los **partidos de este 28 de septiembre**, al igual que los demás de la jornada, están programados entre la mañana y tarde. Los cortes de luz en Ecuador obligaron a la Liga Pro a realizar una reprogramación y que el último cotejo sea agendado, como máximo, a las 17:00.
+
+La jornada la inaugurará **El Nacional**, que se ubica en la octava posición de la segunda etapa, frente a Imbabura, en el duodécimo puesto. A ello le seguirá el cotejo entre Independiente del Valle y Universidad Católica, en el cuarto y quinto puesto, y el de Cumbayá y Emelec, en la última y la decimotercera posición.
+
+Partidos de la Liga Pro para el 28 de septiembre
+------------------------------------------------
+
+**Partido**: El Nacional vs. Imbabura.
+
+**Hora**: 11:00.
+
+**Estadio**: Olímpico de Ibarra.
+
+**Partido**: Independiente del Valle vs. Universidad Católica.
+
+**Hora**: 13:30.
+
+**Estadio**: Independiente del Valle.
+
+**Partido**: Cumbayá vs. Emelec.
+
+**Hora**: 16:00.
+
+**Estadio**: Olímpico Atahualpa.
+
+La muerte del líder de Hizbulá fue confirmada
+=============================================
+
+Israel anunció la muerte de Hasán Nasrala, quien era secretario general del grupo chií. Estos últimos ratificaron su fallecimiento.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![El secretario general de Hizbulá, Hasan Nasrala, en mayo de 2018. EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Hasan-Nasrala.jpg)
+
+##### Agencia EFE
+
+El grupo **chií libanés Hizbulá** confirmó este sábado 27 de septiembre de 2024, la muerte de su líder, **Hasán Nasrala.**
+
+**Israel** asegura haber matado la víspera en un intenso bombardeo contra el presunto cuartel general del movimiento armado en los suburbios meridionales de **Beirut**.
+
+“Su eminencia Sayyed Hasán Nasrala, secretario general de Hizbulá, se unió a sus grandes e inmortales mártires”, anunció la formación en un comunicado, que no menciona las circunstancias de su fallecimiento.
+
+### Más noticias
+
+* [Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut](https://www.elcomercio.com/actualidad/mundo/guterres-expresa-gran-alarma-bombardeos-israelies-beirut.html "Guterres expresa su ‘gran alarma’ por los bombardeos israelíes sobre Beirut")
+* [Los bombardeos de Israel contra Líbano dejan 60 fallecidos](https://www.elcomercio.com/actualidad/mundo/bombardeos-israel-contra-libano-dejan-60-muertos.html "Los bombardeos de Israel contra Líbano dejan 60 fallecidos")
+
+La cúpula militar de Hizbulá
+----------------------------
+
+El **Ejército de Israel** aseguró haber liquidado en su totalidad a la cúpula militar del movimiento chií **libanés Hizbulá**, incluido su máximo líder Hasán Nasrala.
+
+Dijo estar preparado para una “escalada más amplia” en caso de un ataque en represalia coordinado por Irán.
+
+Las **Fuerzas Armadas de Israel** “liquidan la dirección militar de Hizbulá en un golpe sin precedentes”, adelantó hoy en X el portavoz castrense en árabe, **Avichay Adraee**, tras el anuncio esta mañana, basado en información de inteligencia, de que Nasrala murió ayer en el bombardeo israelí masivo contra un edificio en el sur de **Beirut**.
+
+La muerte de Ibrahim Aquil y Fuad Shukr
+---------------------------------------
+
+El pasado 20 de septiembre, **Israel** ya mató en otro ataque en **Beirut** al jefe de operaciones militares y de las fuerzas de élite Radwan, **Ibrahim Aqil**, en el que también murieron al menos otros 16 miembros del grupo y decenas de civiles.
+
+A finales de julio, en otro bombardeo en Beirut, fue asesinado el entonces número dos de Hizbulá, **Fuad Shukr.** 
+
+Ahora, la muerte de quien fuera el líder de Hizbulá desde 1992, después de que su predecesor, Abbás al Musawi, falleciera en otro ataque perpetrado por un helicóptero israelí en el sur del Líbano, abre un escenario impredecible tanto sobre el futuro del grupo como del conflicto abierto que mantiene con Israel desde el 8 de octubre.
+
+“Esperamos que el ataque cambie el modo de actuar de Hizbulá… ¿Estamos preparados para una escalada más amplia? Sí. Nuestras fuerzas están en alerta máxima, (los servicios de) inteligencia muestran una alta preparación”, dijo este sábado un portavoz castrense a la prensa internacional, vía videoconferencia.
+
 ‘Robot Salvaje’ encuentra un vínculo entre la tecnología y la naturaleza
 ========================================================================
 
@@ -79,6 +210,36 @@ La producción
 **Plataforma:** En cines
 
 **Calificación:** Muy buena
+
+La salud y el bienestar en tiempos difíciles en Ecuador
+=======================================================
+
+La Organización Mundial de la Salud (OMS) resalta que la actividad física reduce los síntomas de la depresión y la ansiedad
+---------------------------------------------------------------------------------------------------------------------------
+
+![Caminar, montar en bicicleta o participar de actividades recreativas son opciones para aprovechar el fin de semana.](https://www.elcomercio.com/wp-content/uploads/2024/09/plantillas-manana-10-1.jpg)
+
+Después de días penosos marcados por la ola de incendios que ha asediado **Quito** y otras ciudades del país, el fin de semana se presenta como una válvula de escape necesaria.
+
+En un contexto de inseguridad, crisis económica y apagones, encontrar momentos de relajación es esencial para la **salud** mental y física de los **ecuatorianos.**
+
+> Ante los largos **cortes de luz** anunciados para este fin de semana, actividades al **aire libre** se convierten en una oportunidad ideal para desconectar de las preocupaciones diarias.
+
+Caminar en un parque, disfrutar del ciclopaseo dominical o pasar tiempo en una piscina son opciones que no solo ofrecen un respiro, sino que también promueven el bienestar general.
+
+La **AMT** confirmó que el **ciclopaseo** se mantendrá este domingo 29 de septiembre del 2024, lo cual es una excelente noticia para quienes buscan transportarse en **bicicleta** con mayor seguridad en la capital.
+
+El ejercicio regular no solo ayuda a combatir el sedentarismo, sino que también está estrechamente relacionado con un mejor descanso nocturno.
+
+La Organización Mundial de la Salud (**OMS**) resalta que la actividad física también reduce los síntomas de la depresión y la ansiedad, y promueve la salud cardiovascular, especialmente en un entorno donde el estrés parece ser una constante.
+
+Sin embargo, la realidad es que un alarmante 31% de los adultos y un 80% de los adolescentes no cumplen con los niveles recomendados de actividad física.  
+  
+Según un estudio del 2022, citado por la **OMS** en su página oficial, casi 1800 millones de adultos (el 31%) no practican actividad física o no cumplen con las recomendaciones mundiales de realizar una actividad física moderada durante al menos 150 minutos a la semana.
+
+“La actividad física, tanto moderada como intensa, mejora la salud”, afirma la OMS. Por eso, caminar, practicar algún deporte o participar de actividades recreativas al aire libre están entre las actividades más recomendadas.
+
+Aprovechemos este fin de semana para caminar, jugar, nadar o montar en bicicleta. No solo es una forma de alivianar las preocupaciones, sino una inversión en nuestra salud. Recordemos que en cada brazada, cada paso y cada risa compartida, estamos construyendo un futuro más saludable.
 
 Arroz con camarones, un plato sabroso y rápido para disfrutar en casa
 =====================================================================
@@ -147,35 +308,33 @@ Un buen consejo para **preparar** un delicioso **arroz con camarones** es cocina
 
 ¡Disfruta de este delicioso **arroz con camarones ecuatoriano** lleno de sabor y tradición!
 
-La salud y el bienestar en tiempos difíciles en Ecuador
-=======================================================
+Cartas a Quito / 28 de septiembre de 2024
+=========================================
 
-La Organización Mundial de la Salud (OMS) resalta que la actividad física reduce los síntomas de la depresión y la ansiedad
----------------------------------------------------------------------------------------------------------------------------
+Estas son las cartas a Quito de este sábado 28 de septiembre de 2024
+--------------------------------------------------------------------
 
-![Caminar, montar en bicicleta o participar de actividades recreativas son opciones para aprovechar el fin de semana.](https://www.elcomercio.com/wp-content/uploads/2024/09/plantillas-manana-10-1.jpg)
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-Después de días penosos marcados por la ola de incendios que ha asediado **Quito** y otras ciudades del país, el fin de semana se presenta como una válvula de escape necesaria.
+Bendita oscuridad…
+------------------
 
-En un contexto de inseguridad, crisis económica y apagones, encontrar momentos de relajación es esencial para la **salud** mental y física de los **ecuatorianos.**
+… Dirán los delincuentes, corruptos, criminales y prófugos de la justicia; pues este estado de tinieblas permanentes no nos permite ver, con lucidez,  todo lo que está ocurriendo en nuestro pequeño e indefenso país y ahora aún más, cuando la oscuridad no es solamente utópica o mental sino y, para colmo de males, es también física.
 
-> Ante los largos **cortes de luz** anunciados para este fin de semana, actividades al **aire libre** se convierten en una oportunidad ideal para desconectar de las preocupaciones diarias.
+Dudamos sinceramente  que haya gente interesada para que estos apagones se den… nos negamos a creer que sea un boicot premeditado y malévolo; aunque nunca estaremos libres de la maldad  de la gente. La verdad es que la falta de previsión y ejecutoriedad de los gobernantes de turno y más personas involucradas en este asunto nos mantienen sumamente  preocupados y sumidos en la oscuridad diurna y nocturna.
 
-Caminar en un parque, disfrutar del ciclopaseo dominical o pasar tiempo en una piscina son opciones que no solo ofrecen un respiro, sino que también promueven el bienestar general.
+Resulta inconcebible que solo nos preocupemos e intentemos solucionar los problemas cuando estos llegan al clímax y no tomemos precauciones a tiempo, para evitar estos desastres como el que actualmente lo venimos soportando.
 
-La **AMT** confirmó que el **ciclopaseo** se mantendrá este domingo 29 de septiembre del 2024, lo cual es una excelente noticia para quienes buscan transportarse en **bicicleta** con mayor seguridad en la capital.
+Con estos apagones intencionados o no, las pérdidas económicas del país son millonarias, sin dejar de mencionar otras pérdidas que nos afectan directamente, como el desempleo, la educación, la inseguridad, etc. etc.
 
-El ejercicio regular no solo ayuda a combatir el sedentarismo, sino que también está estrechamente relacionado con un mejor descanso nocturno.
+Fabiola Carrera Alemán
 
-La Organización Mundial de la Salud (**OMS**) resalta que la actividad física también reduce los síntomas de la depresión y la ansiedad, y promueve la salud cardiovascular, especialmente en un entorno donde el estrés parece ser una constante.
+El perro del hortelano
+----------------------
 
-Sin embargo, la realidad es que un alarmante 31% de los adultos y un 80% de los adolescentes no cumplen con los niveles recomendados de actividad física.  
-  
-Según un estudio del 2022, citado por la **OMS** en su página oficial, casi 1800 millones de adultos (el 31%) no practican actividad física o no cumplen con las recomendaciones mundiales de realizar una actividad física moderada durante al menos 150 minutos a la semana.
+Gracias a la iniciativa privada nacional llega el servicio público de energía eléctrica al Ecuador, en 1894 se produce la primera concesión a favor  del consorcio Jijón – Urrutia para que instale plantas eléctricas en Quito. Dos años después, en Guayaquil surge la primera planta eléctrica de propiedad del lojano Manuel Alvarado Cueva. Viendo que el negocio es rentable se interesan empresas Norteamericanas, en 1925 en el puerto principal se instala “Emelec”  y, en Quito, la “Eléctrica Quito SA”en 1932. La inversión privada está en su apogeo en la zona urbana, no así, en la rural que carece de este servicio. Es la razón para que en 1940 tomen la responsabilidad los Municipios que  deciden: generar, distribuir y comercializar energía eléctrica en sus jurisdicciones, pero la falta de fondos para el mantenimiento y  renovación de máquinas, hace que la oferta quede corta ante la creciente demanda (apagones puntuales). Con el fin de solucionar el  problema, el Estado decide tomar la competencia y crea INECEL en 1960, que es el fundador de las empresas eléctricas regionales que  generan, distribuyen y comercializan la energía para varias provincias, mediante centrales hidráulicas y térmicas. Pero, nuevamente el crecimiento de la población, hace que la oferta quede corta (apagones regionales), entonces INECEL toma la iniciativa de generar y transportar energía para vender a las empresas regionales, construye Pisayambo, Paute, Agoyán, centrales térmicas en la costa y, líneas de transmisión, nace así, el Sistema Nacional Interconectado. En las décadas 1970 y 1980, el Estado toma la competencia total de la provisión de energía eléctrica y la inversión privada fue anulada. En la última década del siglo XX y primera del XXI,  Ecuador experimente una gran explosión demográfica, la población se duplica y, los gobiernos de turno intencionalmente, matan a INECEL y su programa de  generación eléctrica. Paralelamente, impiden el aporte de generación privada (el perro del hortelano). Como era de esperar, llega una cascada de apagones, como olvidar la hora Sixto. Ante este oscuro escenario, el gobierno de la “década ganada” apurado y sin estudios, pero con jugosas comisiones, decide construir centrales hidroeléctricas grandes, Coca Codo Sinclair que tiene problemas insalvables, Toachi -Pilatón, 12 años de construcción y no entra en servicio, entre otras. En fin,  no fue solución, ahora mismo el Ecuador sufre los tediosos racionamientos eléctricos, parte culpa del severo estiaje, pero la verdadera causa es, la falta y mala inversión estatal por más de 40 años (los políticos nunca sirvieron al pueblo, siempre se sirven ellos). El escenario energético es por demás crítico, es necesario cambiar la matriz y eso lleva tiempo. Al gobierno actual le ha tocado administrar la oscuridad, no tiene luz, ni dinero, ni tiempo para enfrentar la realidad, desesperado implora ayuda al sector privado y a la sociedad civil.
 
-“La actividad física, tanto moderada como intensa, mejora la salud”, afirma la OMS. Por eso, caminar, practicar algún deporte o participar de actividades recreativas al aire libre están entre las actividades más recomendadas.
-
-Aprovechemos este fin de semana para caminar, jugar, nadar o montar en bicicleta. No solo es una forma de alivianar las preocupaciones, sino una inversión en nuestra salud. Recordemos que en cada brazada, cada paso y cada risa compartida, estamos construyendo un futuro más saludable.
+Marco A. Zurita Ríos
 
 Jarabe de cordura
 =================
@@ -218,34 +377,6 @@ Es necesario también mejorar toda la agilidad en cuanto a los **permisos** de *
 En la siguiente **década** se va a necesitar por lo menos unos 8000 Mw adicionales, para lo cual hay que flexibilizar el **mercado** tomando los modelos de **nuestros países** vecinos Colombia, Perú, Chile, Brasil y Uruguay, para mencionar algunos, que ya tienen **legislaciones** más adecuadas para este propósito.
 
 Todo esto tiene que darse bajo un **enfoque integral** que permita desarrollar el **sector energético** de una **manera sostenible** y eficaz, alineado con los **objetivos** de **desarrollo sostenible** (ODS) de la Agenda 2030.
-
-Cartas a Quito / 28 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este sábado 28 de septiembre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Bendita oscuridad…
-------------------
-
-… Dirán los delincuentes, corruptos, criminales y prófugos de la justicia; pues este estado de tinieblas permanentes no nos permite ver, con lucidez,  todo lo que está ocurriendo en nuestro pequeño e indefenso país y ahora aún más, cuando la oscuridad no es solamente utópica o mental sino y, para colmo de males, es también física.
-
-Dudamos sinceramente  que haya gente interesada para que estos apagones se den… nos negamos a creer que sea un boicot premeditado y malévolo; aunque nunca estaremos libres de la maldad  de la gente. La verdad es que la falta de previsión y ejecutoriedad de los gobernantes de turno y más personas involucradas en este asunto nos mantienen sumamente  preocupados y sumidos en la oscuridad diurna y nocturna.
-
-Resulta inconcebible que solo nos preocupemos e intentemos solucionar los problemas cuando estos llegan al clímax y no tomemos precauciones a tiempo, para evitar estos desastres como el que actualmente lo venimos soportando.
-
-Con estos apagones intencionados o no, las pérdidas económicas del país son millonarias, sin dejar de mencionar otras pérdidas que nos afectan directamente, como el desempleo, la educación, la inseguridad, etc. etc.
-
-Fabiola Carrera Alemán
-
-El perro del hortelano
-----------------------
-
-Gracias a la iniciativa privada nacional llega el servicio público de energía eléctrica al Ecuador, en 1894 se produce la primera concesión a favor  del consorcio Jijón – Urrutia para que instale plantas eléctricas en Quito. Dos años después, en Guayaquil surge la primera planta eléctrica de propiedad del lojano Manuel Alvarado Cueva. Viendo que el negocio es rentable se interesan empresas Norteamericanas, en 1925 en el puerto principal se instala “Emelec”  y, en Quito, la “Eléctrica Quito SA”en 1932. La inversión privada está en su apogeo en la zona urbana, no así, en la rural que carece de este servicio. Es la razón para que en 1940 tomen la responsabilidad los Municipios que  deciden: generar, distribuir y comercializar energía eléctrica en sus jurisdicciones, pero la falta de fondos para el mantenimiento y  renovación de máquinas, hace que la oferta quede corta ante la creciente demanda (apagones puntuales). Con el fin de solucionar el  problema, el Estado decide tomar la competencia y crea INECEL en 1960, que es el fundador de las empresas eléctricas regionales que  generan, distribuyen y comercializan la energía para varias provincias, mediante centrales hidráulicas y térmicas. Pero, nuevamente el crecimiento de la población, hace que la oferta quede corta (apagones regionales), entonces INECEL toma la iniciativa de generar y transportar energía para vender a las empresas regionales, construye Pisayambo, Paute, Agoyán, centrales térmicas en la costa y, líneas de transmisión, nace así, el Sistema Nacional Interconectado. En las décadas 1970 y 1980, el Estado toma la competencia total de la provisión de energía eléctrica y la inversión privada fue anulada. En la última década del siglo XX y primera del XXI,  Ecuador experimente una gran explosión demográfica, la población se duplica y, los gobiernos de turno intencionalmente, matan a INECEL y su programa de  generación eléctrica. Paralelamente, impiden el aporte de generación privada (el perro del hortelano). Como era de esperar, llega una cascada de apagones, como olvidar la hora Sixto. Ante este oscuro escenario, el gobierno de la “década ganada” apurado y sin estudios, pero con jugosas comisiones, decide construir centrales hidroeléctricas grandes, Coca Codo Sinclair que tiene problemas insalvables, Toachi -Pilatón, 12 años de construcción y no entra en servicio, entre otras. En fin,  no fue solución, ahora mismo el Ecuador sufre los tediosos racionamientos eléctricos, parte culpa del severo estiaje, pero la verdadera causa es, la falta y mala inversión estatal por más de 40 años (los políticos nunca sirvieron al pueblo, siempre se sirven ellos). El escenario energético es por demás crítico, es necesario cambiar la matriz y eso lleva tiempo. Al gobierno actual le ha tocado administrar la oscuridad, no tiene luz, ni dinero, ni tiempo para enfrentar la realidad, desesperado implora ayuda al sector privado y a la sociedad civil.
-
-Marco A. Zurita Ríos
 
 Jacobo Bucaram Ortiz, político y hermano de Abdalá Bucaram, falleció a los 77 años
 ==================================================================================
@@ -333,7 +464,7 @@ Las listas tienen que estar encabezadas con un **50 % de mujeres** y, en el caso
 
 No cumplir con el rango de participación de **mujeres** es una limitante para oficializar las candidaturas. El reglamento para el **proceso electoral** define que los partidos y movimientos políticos que no sigan el requerimiento tendrán dos días, contados a partir de la notificación, para subsanar este punto.
 
-Hasta las 10:50 de este viernes, 27 de septiembre, el **Consejo Nacional Electoral (CNE)** reportó 42 listas inscritas. Solo un binomio presidencial.
+Hasta las 18:00 de este viernes, 27 de septiembre, el **Consejo Nacional Electoral (CNE)** reportó 63 listas inscritas.
 
 Esas contemplan el binomio presidencial de Creo, conformado por **Francesco Tabacchi y Blanca Sacancela**. El resto corresponde a listas de asambleístas y parlamentarios andinos.
 
@@ -793,127 +924,3 @@ El ecuatoriano, de 20 años, firmó con los ‘Lobos’, uno de los equipos más
 A pesar de su corta estancia, **Castillo** ha logrado afianzarse en el esquema del equipo y ha jugado varios partidos, sumando minutos importantes.
 
 En lo que va de la temporada, ha disputado 14 encuentros, 10 de ellos como titular, acumulando 709 minutos en cancha. Ha visto acción en la liga y copa danesas, en la fase previa de la Champions League, y actualmente en la fase de liga de la **Europa League**.
-
-Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz
-===========================================================================
-
-La cartera de Estado informó cómo se realizará la jornada escolar durante el lunes 30 de septiembre y el viernes 4 de octubre.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Los horarios escolares se ajustarán debido a los cortes de luz programados](https://www.elcomercio.com/wp-content/uploads/2024/09/cambio-horas.jpg)
-
-El **Ministerio de Educación** modificó temporalmente los **horarios de clases** de todas las instituciones fiscales del Ecuador.
-
-A través de un comunicado oficial, la cartera de Estado dispuso el ajuste de las jornadas educativas entre el **lunes 30** de septiembre y el **viernes 4** de octubre.
-
-### Más noticias
-
-* [Cubeto para tratar residuos fue inaugurado en Quito](https://www.elcomercio.com/actualidad/quito/cubeto-residuos-solidos-quito-inauguracion.html "Cubeto para tratar residuos fue inaugurado en Quito")
-* [Calidad del aire en Quito tiene una nueva variación tras incendios](https://www.elcomercio.com/actualidad/quito/calidad-aire-quito-variacion-incendios.html "Calidad del aire en Quito tiene una nueva variación tras incendios")
-* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
-
-La medida se aplicará debido a los **cortes de luz programados** que tendrá el país, a consecuencia de la crisis hídrica que se reporta en la mayoría de provincias.
-
-Cambios en los horarios escolares
----------------------------------
-
-Dos de las **tres jornadas** escolares sufrirán cambios durante cinco días, “con el fin de garantizar la educación y la seguridad” de los estudiantes, profesores y trabajadores de las escuelas y colegios fiscales.
-
-* **Jornada matutina**: Las clases para este horario se mantendrán con normalidad; la entrada y la salida se realizarán según lo establecido por cada institución.
-* **Jornada vespertina**: Este horario sí tendrá importantes cambios. Los estudiantes verpertinos ingresarán a la hora habitual, sin embargo, saldrán a las **17:00**.
-* **Jornada nocturna**: Este horario se mantendrá bajo la **modalidad no presencial**. El Ministerio solicitó a los profesores implementar recursos académicos y guías pedagógicas; así como el acompañamiento educativo.
-
-Por otra parte, la cartera de Estado abrió la posibilidad a las **instituciones particulares, fiscomisionales y municipales**, de que sean ellos quienes decidan por su cuenta, si sumarse a estas medidas o definir sus propias directrices.
-
-Clases en Quito
----------------
-
-El Ministerio de Educación también dio instrucciones sobre cómo se desarrollarán en **Quito**, tras la emergencia que enfrentó la ciudad por los múltiples **incendios forestales**.
-
-Los alumnos de esta ciudad volverán a **clases presenciales** luego de tres días de educarse de forma **virtual**.
-
-“Tras la revisión de los análisis de la calidad del aire y con la finalidad de prevenir posibles efectos adversos en el sistema respiratorio de la comunidad educativa (…) se recomienda el uso de **mascarilla** en espacios al aire libre”, puntualizó la entidad.
-
-> \[COMUNICADO\] Informamos a la ciudadanía que actualizamos las disposiciones del lunes 30 de septiembre al viernes 04 de octubre, con el fin de garantizar la continuidad educativa, a nivel nacional. [pic.twitter.com/L2pyhHSbbu](https://t.co/L2pyhHSbbu)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [September 27, 2024](https://twitter.com/Educacion_Ec/status/1839777356119978031?ref_src=twsrc%5Etfw)
-
-¿Los cortes de luz afectarán al ciclopaseo en Quito?
-====================================================
-
-El ciclopaseo en Quito se mantendrá durante el fin de semana a pesar de los cortes de luz en la capital y en el país.
----------------------------------------------------------------------------------------------------------------------
-
-![Ciudadanos durante el ciclopaseo de Quito, ciudad que será afectada por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/09/3889756-scaled.jpg)
-
-Los **cortes de luz** retornarán a Quito durante este viernes 27 de septiembre del 2024 y coincidirán el fin de semana con una de las actividades de distracción para los quiteños: el **ciclopaseo**. Pese a las medidas, el evento se mantendrá.
-
-A pesar de la crisis energética que atraviesa Ecuador, desde a **Agencia Metropolitana de Tránsito (AMT)** se confirmó a EL COMERCIO que el desarrollo del acto se llevará a cabo con normalidad. Este se desarrollará desde las 08:00 hasta las 16:00 en un recorrido que abarca 30 kilómetros.
-
-### Más noticias:
-
-* [Las opciones de Ecuador en el Mundial de Ruta de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/opciones-de-ecuador-en-el-mundial-de-ruta-de-ciclismo.html "Las opciones de Ecuador en el Mundial de Ruta de Ciclismo")
-* [Fallece Muriel Furrer en una prueba del Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/ciclista-fallecida-mundial-muriel-furrer.html "Fallece Muriel Furrer en una prueba del Mundial de Ciclismo")
-* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
-
-El Paseo Dominical, a su vez, se desarrolla en un horario en el cual no existen mayores impedimentos para el desarrollo de las actividades deportivas, pues hay presencia de luz solar. El recorrido inicia desde la avenida **Francisco Dalmau**, a la altura del Parque de los Recuerdos en el norte de Quito, y se extiende hasta la avenida **Amaruñán**, en el Parque de Las Cuadras al Sur.
-
-Los **cortes de luz** en la capital y el país se realizarán de manera progresiva y retornarán. Aunque antes ya se había tomado la medida, esta se suspendió debido a los incendios forestales que afectaron a Quito.
-
-¿Cómo serán los cortes de luz en Quito?
----------------------------------------
-
-El ministro de Energía, **Antonio Goncalves**, actualizó la situación energética de Ecuador en este 27 de septiembre de 2024 y confirmó que los horarios de cortes de luz se mantendrán sin cambios significativos. Los cortes se reanudarán a las 18:00 del mismo día en Quito, de acuerdo a un cronograma previo, que abarca desde el 23 hasta el 29 de septiembre. La ciudadanía puede revisar los horarios específicos para su sector en la página web del **Ministerio de Energía**.
-
-**Goncalves** también anunció que el calendario de racionamiento de electricidad para la semana del 30 de septiembre al 6 de octubre ya está disponible. Este racionamiento se da debido a la crítica situación del **embalse de Mazar**, que se encuentra a solo 36 metros de su capacidad máxima.
-
-La falta de agua ha afectado significativamente la operación de varias hidroeléctricas en el país, las cuales actualmente funcionan por debajo del **50% de su capacidad**. A su vez, el embalse de Mazar es vital para la generación eléctrica, pues alimenta centrales importantes en la cuenca del **río Paute**. Con el nivel del agua muy cerca de su mínimo, el control del sistema eléctrico del país podría verse comprometido.
-
-La Liga Pro modificó sus horarios por los cortes de luz
--------------------------------------------------------
-
-Entre los eventos deportivos que sí sufrieron cambios debido a los cortes de luz estuvieron los partidos de la **Liga Pro**. La entidad señaló que no programaría compromisos en horarios superiores a las 17:00[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador")
-
-A raíz de la decisión, los cotejos de la **octava fecha** del campeonato ecuatoriano fueron establecidos desde la mañana.
-
-(Video) Mujer fue secuestrada en Quito con una nueva modalidad
-==============================================================
-
-La mujer secuestrada bajo una nueva modalidad en Quito fue sometida por dos hombres.
-------------------------------------------------------------------------------------
-
-![La mujer secuestrada en Quito con una nueva modalidad fue sometida y forzada a subirse a un auto.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-4-1.jpg)
-
-Una **mujer** fue **secuestrada** la noche del 26 de septiembre de 2024, en **Quito**, bajo una **nueva modalidad**[.](https://es.wikipedia.org/wiki/Quito)
-
-Las cámaras de seguridad del sector registraron el suceso y el **video** se hizo viral en redes sociales.
-
-### Más noticias:
-
-* [Muere funcionaria del SNAI herida en El Trébol](https://www.elcomercio.com/actualidad/seguridad/muere-funcionaria-snai-herida-el-trebol.html "Muere funcionaria del SNAI herida en El Trébol")
-* [Policía rescató a tres secuestrados tras recibir la llamada de una valiente niña](https://www.elcomercio.com/actualidad/seguridad/policia-secuestro-guayaquil-comerciantes.html "Policía rescató a tres secuestrados tras recibir la llamada de una valiente niña")
-
-El hecho ocurrió en el sector de **Las Casas**, centro norte de Quito, cerca de las 20:00.
-
-Las cámaras de seguridad lograron captar el movimiento de un vehículo y dos hombres en la calle, implicados en el suceso.
-
-La mujer fue secuestrada con una nueva modalidad
-------------------------------------------------
-
-Los ciudadanos dieron la alerta del secuestro por redes sociales.
-
-En el video se observa que una mujer sale a esperar algo en la **calle** y un hombre se baja de un auto con lo que sería un **ramo de flores.**
-
-La mujer, un poco desconcertada, camina unos pasos, alejándose de la puerta de la casa, mientras el auto negro se parquea a su lado de la vereda.
-
-Luego, otro hombre se baja del auto de forma apresurada.
-
-Los **dos hombres** forzaron a la mujer a subirse al carro sin placas, mientras ella gritaba varias veces por auxilio.
-
-Cuatro **vecinos** intentaron alcanzar al automotor, mientras este paraba para esperar a uno de los secuestradores que tropezó y se cayó en media calle.
-
-Una **sirena** sonó por varios segundos y uno de los vecinos lanzó una piedra.
-
-El video difundido en redes sociales llega hasta ese momento.
-
-Fuentes de la Policía informaron que la mujer fue liberada al sur de la ciudad, en Chillogallo.
