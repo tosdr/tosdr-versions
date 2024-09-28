@@ -118,59 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=149948187)  
-Goju Ryu Karate Centre
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=136401980)  
+van Schaik rentals
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=187500748)  
-Durbanville Classifieds (Pty) Ltd
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=123268394)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=14738798)  
-Mtunzini Group
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=71546239)  
+All Trucking Solutions
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=203882440)  
-AMS Ambu Medical Supplies
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=44393257)  
+AquariumSmiths
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=129985741)  
-Myfinance-Online
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=71592406)  
+Kaylas Creations
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=100975663)  
-McKaynine Mobility
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=86073398)  
+VerdanTech Pty Ltd
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=169582193)  
-TRACKFORCE (Pty) Ltd
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=119124274)  
+Skinz Printing & Branding
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=5748050)  
-Kara Medical (Pty) Ltd
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=142758041)  
+Glass and Allied Industries
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=25776610)  
-Enhle Oarabile Kea
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=91304755)  
-SLOANE STAR MEAT MARKET
-
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=22479805)  
-Imhoff Equestrian Centre
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=149793073)  
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=206857281)  
 webb it services
 
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=45728957)  
-Sportspro Management (Pty) Ltd
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=184846391)  
+Blue Sky Solar Services
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=89600195)  
-Little Nutty Professors
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=180658945)  
+Qothiphango Mining
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=4881e33d48a3a8e1ca7a7e06e646ff8ba5a05131848069fcf9439e891c717603&c=50411750)  
-ARCHITEK PTY LTD
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=154249426)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=146854106)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=75516957)  
+Nogana Events and Decor
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=52e8f26ea248fbe853488478ec7110d902fd0b55fb07841aceb93879d27088e1&c=134724791)  
+Know Informatics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
