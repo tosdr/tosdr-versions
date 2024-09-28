@@ -122,6 +122,7 @@ EUR
             * [Semi Gloss](https://www.jukeboxprint.com/semi-gloss-business-cards)
             * [Super Gloss](https://www.jukeboxprint.com/super-gloss-business-cards)
             * [Mini](https://www.jukeboxprint.com/mini-business-cards)
+            * [Digital Foil](https://www.jukeboxprint.com/foil-business-cards)
         * ##### Recycled
             
             * [100% Recycled](https://www.jukeboxprint.com/recycled-business-cards)
@@ -136,7 +137,7 @@ EUR
             * [Colorplan](https://www.jukeboxprint.com/colorplan-business-cards)
             * [Cotton](https://www.jukeboxprint.com/cotton-business-cards)
             * [Embossed](https://www.jukeboxprint.com/embossed-business-cards)
-            * [Foil](https://www.jukeboxprint.com/foil-business-cards)
+            * [Foil Stamp](https://www.jukeboxprint.com/foil-stamped-business-cards)
             * [Painted Edges](https://www.jukeboxprint.com/painted-edge-business-cards)
             * [Pearl](https://www.jukeboxprint.com/pearl-business-cards)
             * [Shaped](https://www.jukeboxprint.com/shaped-business-cards)
@@ -163,6 +164,8 @@ EUR
     
     Information[#### Mini Business Cards](https://www.jukeboxprint.com/mini-business-cards)[Saying that the best things in life come in small packages might sound outworn, but these mini business cards prove that sometimes less is more, and the best way to attract attention is not to go big, but to go small.](https://www.jukeboxprint.com/mini-business-cards)
     
+    Information[#### Foil Business Cards](https://www.jukeboxprint.com/foil-business-cards)[Elevate your brand with our digital foil business cards. Luxurious yet cost-effective, available in 6 unique colors. Perfect for intricate designs and quick turnaround.](https://www.jukeboxprint.com/foil-business-cards)
+    
     Information[#### Recycled Business Cards](https://www.jukeboxprint.com/recycled-business-cards)[If you're looking for our most environmentally-friendly business cards, look no further than our Mohawk 100% Recycled business cards.](https://www.jukeboxprint.com/recycled-business-cards)
     
     Information[#### Kraft Business Cards](https://www.jukeboxprint.com/kraft-business-cards)[The 18pt Brown Kraft has a timeless appearance and texture, and it is 100% Recycled.](https://www.jukeboxprint.com/kraft-business-cards)
@@ -179,7 +182,7 @@ EUR
     
     Information[#### Embossed Business Cards](https://www.jukeboxprint.com/embossed-business-cards)[Elevate your business cards with custom embossing! The raised design adds sophistication and catches the eye through its impactful texture.](https://www.jukeboxprint.com/embossed-business-cards)
     
-    Information[#### Foil Business Cards](https://www.jukeboxprint.com/foil-business-cards)[Elevate your brand with our digital foil business cards. Luxurious yet cost-effective, available in 6 unique colors. Perfect for intricate designs and quick turnaround.](https://www.jukeboxprint.com/foil-business-cards)
+    Information[#### Foil Business Cards](https://www.jukeboxprint.com/foil-stamped-business-cards)[Elevate your brand with foil business cards, combining shimmering elements and fine paper for a touch of luxury.](https://www.jukeboxprint.com/foil-stamped-business-cards)
     
     Information[#### Colored Edge Business Cards](https://www.jukeboxprint.com/painted-edge-business-cards)[Add a custom Edge Finish to your business cards to complete your brand identity - It’s as easy as matching your logo! We have four exclusive options available so that you can find the perfect finish.](https://www.jukeboxprint.com/painted-edge-business-cards)
     
