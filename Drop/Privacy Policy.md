@@ -3,16 +3,6 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[The Riddermark Desk Mat
-
-Cover your desk in Calenardhon.
-
-FOR ROHAN
-
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-riddermark-desk-mat)
-
-Free Standard Shipping in the US on orders over $99
-
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
