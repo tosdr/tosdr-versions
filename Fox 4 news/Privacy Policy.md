@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Police investigating highway shooting that injured woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/183b376c-8677dd54-d338eb2c-police-lights.jpg?ve=1&tl=1)
+ [![Helene latest: Death toll climbs to 52, mountain towns wiped out](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2174061526.jpg?ve=1&tl=1)
 
- ![Police investigating highway shooting that injured woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/592/333/183b376c-8677dd54-d338eb2c-police-lights.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-shooting-denton-county)
+ ![Helene latest: Death toll climbs to 52, mountain towns wiped out](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174061526.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-saturday-latest-tennessee-north-carolina-south-carolina-georgia-florida)
 
-### [Police investigating highway shooting that injured woman](https://www.fox4news.com/news/police-shooting-denton-county)
+### [Helene latest: Death toll climbs to 52, mountain towns wiped out](https://www.fox4news.com/news/helene-saturday-latest-tennessee-north-carolina-south-carolina-georgia-florida)
 
- [![Dallas weather: A warm, dry weekend in North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-2024-09-28T075925.414.jpg?ve=1&tl=1)
+ [![Dallas one of the best cities in the country for dating, Fort Worth one of the worst, study finds](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/Dallas.jpg?ve=1&tl=1)
 
- ![Dallas weather: A warm, dry weekend in North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-2024-09-28T075925.414.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-warm-dry-weekend-north-texas)
+ ![Dallas one of the best cities in the country for dating, Fort Worth one of the worst, study finds](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/592/333/Dallas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-fort-worth-dating-study)
 
-### [Dallas weather: A warm, dry weekend in North Texas](https://www.fox4news.com/weather/dallas-weather-warm-dry-weekend-north-texas)
+### [Dallas one of the best cities in the country for dating, Fort Worth one of the worst, study finds](https://www.fox4news.com/news/dallas-fort-worth-dating-study)
 
- [![Hezbollah leader killed in Israeli airstrike](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2174184195-scaled.jpg?ve=1&tl=1)
+ [![U-Haul offers free month of storage for Helene victims](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2175057100.jpg?ve=1&tl=1)
 
- ![Hezbollah leader killed in Israeli airstrike](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174184195-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hezbollah-leader-killed-israeli-airstrike)
+ ![U-Haul offers free month of storage for Helene victims](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2175057100.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-victims-u-haul-free-month-storage)
 
-### [Hezbollah leader killed in Israeli airstrike](https://www.fox4news.com/news/hezbollah-leader-killed-israeli-airstrike)
+### [U-Haul offers free month of storage for Helene victims](https://www.fox4news.com/news/helene-victims-u-haul-free-month-storage)
 
- [![NC gubernatorial candidate Mark Robinson hospitalized following 'incident' at campaign event](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2162175556-scaled-1.jpg?ve=1&tl=1)
+ [![Salt Life brand closing all stores in US after bankruptcy sale](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2163622781.jpg?ve=1&tl=1)
 
- ![NC gubernatorial candidate Mark Robinson hospitalized following 'incident' at campaign event](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2162175556-scaled-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nc-gubernatorial-candidate-mark-robinson-hospitalized-campaign-event)
+ ![Salt Life brand closing all stores in US after bankruptcy sale](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2163622781.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/salt-life-brand-closing-all-stores-bakruptcy-sale)
 
-### [NC gubernatorial candidate Mark Robinson hospitalized following 'incident' at campaign event](https://www.fox4news.com/news/nc-gubernatorial-candidate-mark-robinson-hospitalized-campaign-event)
+### [Salt Life brand closing all stores in US after bankruptcy sale](https://www.fox4news.com/news/salt-life-brand-closing-all-stores-bakruptcy-sale)
 
- [![National Coffee Day: Enjoy discounts and freebies on your next cup](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2165541020.jpg?ve=1&tl=1)
+ [![Dallas paramedic dies after hit-and-run crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/ross-avenue-hit-and-run-crash.png?ve=1&tl=1)
 
- ![National Coffee Day: Enjoy discounts and freebies on your next cup](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2165541020.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/national-coffee-day-deals-discounts)
+ ![Dallas paramedic dies after hit-and-run crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/ross-avenue-hit-and-run-crash.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-daniela-fonseca-hit-and-run-crash)
 
-### [National Coffee Day: Enjoy discounts and freebies on your next cup](https://www.fox4news.com/money/national-coffee-day-deals-discounts)
+### [Dallas paramedic dies after hit-and-run crash](https://www.fox4news.com/news/dallas-daniela-fonseca-hit-and-run-crash)
 
 ###### [News](https://www.fox4news.com/news)
 
