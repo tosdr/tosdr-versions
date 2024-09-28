@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Winners and Losers From Liam Lawson's graduation to RB](https://s1.cdn.autoevolution.com/images/news/winners-and-losers-from-liam-lawson-s-graduation-to-rb-240493-5.jpg "Winners and Losers From Liam Lawson's graduation to RB")
+[![One-Off Yamaha XS400 Scrambler Went From Ugly and Outdated to Utterly Breathtaking](https://s1.cdn.autoevolution.com/images/news/one-off-yamaha-xs400-scrambler-went-from-ugly-and-outdated-to-utterly-breathtaking-240517-5.jpg "One-Off Yamaha XS400 Scrambler Went From Ugly and Outdated to Utterly Breathtaking")
 
-Winners and Losers From Liam Lawson's graduation to RB](https://www.autoevolution.com/news/winners-and-losers-from-liam-lawson-s-graduation-to-rb-240493.html)
+One-Off Yamaha XS400 Scrambler Went From Ugly and Outdated to Utterly Breathtaking](https://www.autoevolution.com/news/one-off-yamaha-xs400-scrambler-went-from-ugly-and-outdated-to-utterly-breathtaking-240517.html)
 
 how-to \_
 
