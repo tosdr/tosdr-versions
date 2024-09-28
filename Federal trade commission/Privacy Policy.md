@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Virtual Workshop on the Attention Economy: Monopolizing Kids’ Time Online](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-virtual-workshop-attention-economy-monopolizing-kids-time-online)
+    ### [Statement on Memorandum of Understanding Related to Antitrust Review of Labor Issues in Merger Investigations](https://www.ftc.gov/news-events/news/press-releases/2024/09/statement-memorandum-understanding-related-antitrust-review-labor-issues-merger-investigations)
     
-    September 26, 2024
+    September 27, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
