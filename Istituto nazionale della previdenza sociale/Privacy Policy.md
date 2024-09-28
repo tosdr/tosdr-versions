@@ -808,11 +808,11 @@ it
             * [Procedura Cedolino della pensione](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cedolino-della-pensione.html)
             * [Procedura Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-fascicolo-previdenziale-del-cittadino.html)
             * [Procedura Estratto Conto Contributivo](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-estratto-conto-contributivo.html)
+            * [Dipendenti pubblici e privati: domanda prestazioni previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/dipendenti-pubblici-e-privati-domanda-prestazioni-previdenziali.html)
             * [Procedura Maternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-maternit.html)
             * [Procedura Cassetto previdenziale aziende](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cassetto-previdenziale-aziende.html)
             * [Procedura Iscrizione e Variazione azienda](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-iscrizione-e-variazione-azienda.html)
             * [Procedura Portale delle Agevolazioni](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-portale-delle-agevolazioni.html)
-            * [Procedura Domanda Pensione, Ricostituzione, Ratei, ECOCERT, APE Sociale e Beneficio precoci](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-domanda-pensione--ricostituzione--ratei--ecocert--ape-.html)
             
         * [Per le imprese](#)
             
@@ -820,16 +820,16 @@ it
             
             * [Esplora Per le imprese](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese.html)
             * [Registrarsi come datore di lavoro](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/registrarsi-come-datore-di-lavoro.html)
-            * [Datori di lavoro: classificazione e procedura automatizzata di inquadramento](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/datori-di-lavoro--classificazione-e-procedura-automatizzata-di-i.html)
-            * [Instaurare, variare e cessare un contratto di lavoro: il sistema informatico di invio delle Comunicazioni Obbligatorie](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/instaurare--variare-e-cessare-un-contratto-di-lavoro--il-sistema.html)
-            * [Lavoratori che si spostano nell’Unione Europea: contributi previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/lavoratori-che-si-spostano-nell-unione-europea--contributi-previ.html)
+            * [Gestione contratti di lavoro: invio Comunicazioni Obbligatorie](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/gestione-contratti-di-lavoro-invio-comunicazioni-obbligatorie.html)
+            * [Datori di lavoro: classificazione e procedura di inquadramento](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/datori-di-lavoro--classificazione-e-procedura-di-inquadramento.html)
+            * [Lavoratori che si spostano nell’UE: contributi previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/lavoratori-che-si-spostano-nell-UE--contributi-previ.html)
             * [Contributi previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/contributi-previdenziali.html)
             * [Aliquote contributive](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/aliquote-contributive.html)
             * [Calcolo dei contributi](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/calcolo-dei-contributi.html)
             * [Minimali giornalieri di retribuzione](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/minimali-giornalieri-di-retribuzione.html)
             * [Calcolo dei minimali di retribuzione](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/calcolo-dei-minimali-di-retribuzione.html)
             * [Minimali di retribuzione per lavoratori all'estero e part-time](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/minimali-di-retribuzione-per-lavoratori-all-estero-e-part-time.html)
-            * [Denuncia retributiva e contributiva UniEmens. Estratto contributivo del lavoratore](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/denuncia-retributiva-e-contributiva-uniemens--estratto-contribut.html)
+            * [Denuncia UNIEMENS ed Estratto Conto contributivo del lavoratore](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/Denuncia-UNIEMENS-ed-Estratto-Conto-contributivo-del-lavoratore.html)
             * [Pagamento dei contributi previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/per-le-imprese/pagamento-dei-contributi-previdenziali.html)
             
         
