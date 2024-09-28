@@ -112,7 +112,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“Dave asks questions that get to the root of the problem but doesn't stop there. He offers suggestions, options or will discuss pros and cons about solutions you might have in mind. He researches things and always gets back to you with an answer.”_
+_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
