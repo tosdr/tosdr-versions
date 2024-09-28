@@ -436,7 +436,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[LAST DAY! FREE BRIGHTENING SET With All Orders $49+ USE CODE: GLOW](https://www.100percentpure.com/products/brightening-duo "LAST DAY! FREE BRIGHTENING SET With All Orders $49+ USE CODE: GLOW")
+[FREE SHIPPING ON ALL US ORDERS! FOR TODAY ONLY!](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
