@@ -18,26 +18,16 @@ FOX SCORES
     
 * [AFL
     
-    28/9 14:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | SYD | –   |
-    | BRI | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
-* NRL
-    
-* [NRL
-    
     Complete
     
     |     |     |
     | --- | --- |
-    | MEL | 48  |
-    | SYD | 18  |
+    | SYD | 9.6.60 |
+    | BRI | 18.12.120 |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243001/match-report)
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
+* NRL
+    
 * [NRL
     
     28/9 19:50 AEST
@@ -48,33 +38,33 @@ FOX SCORES
     | CRO | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243002)
-* [ESL
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | SAL | 6   |
-    | LEI | 14  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/ESL20242801)
 * Rugby
     
 * [Rugby Champs
     
-    28/9 17:05 AEST
+    1st Half
     
     |     |     |
     | --- | --- |
-    | NZL | –   |
-    | AUS | –   |
+    | NZL | 12  |
+    | AUS | 10  |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
+* [Rugby Champs
+    
+    29/9 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | ARG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240602)
 * Cricket
     
 * [Men's Test
     
-    Day 1
+    Day 2 Session 2
     
     |     |     |
     | --- | --- |
@@ -108,34 +98,14 @@ FOX SCORES
     
 * [NBL
     
-    Full Time
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | ILL | 113 |
-    | BRI | 101 |
+    | CAI | 3   |
+    | ADL | 4   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020002/play-by-play)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PER | 87  |
-    | SYD | 88  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020003/play-by-play)
-* [NBL
-    
-    28/9 17:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CAI | –   |
-    | ADL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020004)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020004/play-by-play)
 * [NBL
     
     28/9 20:00 AEST
