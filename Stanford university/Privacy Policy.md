@@ -21,13 +21,6 @@ Search Menu
 * [Admission](https://www.stanford.edu/admission/)
 * [About](https://www.stanford.edu/about/)
 
-Stanford Presidential Inauguration
-----------------------------------
-
-Watch the inauguration and investiture of Jonathan D. Levin, ’94, as Stanford University’s 13th president today at 4 p.m. PT.[Watch the livestream](https://inauguration.stanford.edu/livestream)
-
-Dismiss alert
-
 Search term 
 
 Search Stanford:
