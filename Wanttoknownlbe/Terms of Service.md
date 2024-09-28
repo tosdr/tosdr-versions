@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/ggd-aan-12-jarigen-hoe-vaak-heb-je-seks/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-elite-heeft-al-lang-verloren/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
