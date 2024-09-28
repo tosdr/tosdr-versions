@@ -297,7 +297,7 @@ No results
 
 [![Where can I find a legitimate and legal Windows XP ISO](https://isoriver.com/wp-content/uploads/2022/04/Windows-XP-150x150.png)](https://isoriver.com/windows-xp-iso-download/)
 
-[Windows XP ISO: Windows XP free Download (32 & 64 bit) 2024 Updated](https://isoriver.com/windows-xp-iso-download/)
+[Windows XP ISO: Free Download (32 & 64 bit) 2024 Updated](https://isoriver.com/windows-xp-iso-download/)
 
 [![macOS Catalina Virtual Machine Image](https://isoriver.com/wp-content/uploads/2020/02/images-150x150.jpg)](https://isoriver.com/macos-catalina-image-file-virtualbox-vmware/)
 
