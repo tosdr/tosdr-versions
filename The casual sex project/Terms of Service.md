@@ -104,6 +104,16 @@ Sep 26 2024
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/the-perception-of-crime-since-2020-the-case-of-chattanooga/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/new-york-deserves-better-than-this.jpg)[](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/ "Read More")
+
+Commentary Governance New York
+
+Sep 27 2024
+
+[The Most Galling Part of the Whole Eric Adams Affair](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-great-city-such-a-small-mayor/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/uplifting-the-man-farthest-down.jpg)[](https://admin.mi52siterestore.com/article/uplifting-the-man-farthest-down/ "Read More")
 
 Commentary Health, Culture Serious Mental Illness
@@ -133,16 +143,6 @@ Sep 24 2024
 [Some Elite Colleges Dodge the Affirmative-Action Ruling](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/)
 
 By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/some-elite-colleges-dodge-the-affirmative-action-ruling/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/diminishing-returns-and-increasing-political-demands-on-infrastructure.jpg)[](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/ "Read More")
-
-Issue Brief Governance, Economics Infrastructure & Transportation
-
-Sep 24 2024
-
-[We Don’t Need This Much Infrastructure Diminishing Returns & Increasing Political Demands on Infrastructure](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/)
-
-By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/diminishing-returns-and-increasing-political-demands-on-infrastructure/)
 
 Our Policy Areas
 ----------------
