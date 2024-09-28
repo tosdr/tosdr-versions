@@ -1,4 +1,4 @@
-This is the Trace Id: 6622d52c1b1ef91c2543b62ae8113fdb
+This is the Trace Id: 202d7ebab7b5f3db58f4f8b71e234301
 
    
 
@@ -90,7 +90,7 @@ Microsoft Privacy Statement
 
 ===============================
 
-Last Updated: August 2024
+Last Updated: September 2024
 
 [What's new?](https://go.microsoft.com/fwlink/p/?LinkId=780766)
 
@@ -136,6 +136,7 @@ Expand All Collapse All
 
 * [Microsoft 365, Office, and other productivity apps](#mainofficeservicesmodule)
 * [Microsoft Family](#mainmsfamilymodule)
+* [Microsoft Launcher](#mainmslauncher)
 * [Microsoft Teams](#mainteamsmodule)
 * [OneDrive](#mainonedrivemodule)
 * [Outlook](#mainoutlookmodule)
@@ -207,13 +208,13 @@ For individuals in the United States, please refer to our [U.S. State Data Priva
 
  
 
-Microsoft collects data from you, through our interactions with you and through our products. You provide some of this data directly, and we get some of it by collecting data about your interactions, use, and experiences with our products. The data we collect depends on the context of your interactions with Microsoft and the choices you make, including your privacy settings and the products and features you use. We also obtain data about you from third parties.
+Microsoft collects data from you, through our interactions with you and through our products. You provide some of this data directly, and we get some of it by collecting data about your interactions, use, and experiences with our products. The data we collect depends on the context of your interactions with Microsoft and the choices you make, including your privacy settings and the products and features you use. We also obtain data about you from Microsoft affiliates, subsidiaries, and third parties.
 
 If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the [Enterprise and developer products](#mainenterprisedeveloperproductsmodule) section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the [Products provided by your organization](#mainnoticetoendusersmodule) and the [Microsoft account](#mainmicrosoftaccountmodule) sections for more information.
 
 You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data -required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
 
-Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, upload a document to OneDrive, sign up for Microsoft 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
+Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, upload a document to OneDrive, sign up for Microsoft 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications. In addition, we receive data from Microsoft affiliates, subsidiaries, and third parties.
 
 We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
 
@@ -255,7 +256,7 @@ The data we collect can include the following:
     * **Error reports and performance data**. Data about the performance of the products and any problems you experience, including error reports. Error reports (sometimes called “crash dumps”) can include details of the software or hardware related to an error, contents of files opened when an error occurred, and data about other software on your device.
     * **Troubleshooting and help data**. Data you provide when you contact Microsoft for help, such as the products you use, and other details that help us provide support. For example, contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of your device, and the products you use related to your help inquiry. When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.
     * **Bot usage data**. Interactions with bots and skills available through Microsoft products, including bots and skills provided by third parties.
-* **Interests and favorites**. Data about your interests and favorites, such as the sports teams you follow, the programming languages you prefer, the stocks you track, or cities you add to track things like weather or traffic. In addition to those you explicitly provide, your interests and favorites can also be inferred or derived from other data we collect.
+* **Interests and favorites**. Data about your interests and favorites, such as the sports teams you follow, the programming languages you prefer, the stocks you track, or cities you add to track things like weather or traffic. In addition to those you explicitly provide, your interests and favorites can also be inferred or derived from other data we collect, such as your interactions on websites where our technology is used to show or measure ads.
 * **Content consumption data**. Information about media content (e.g., TV, video, music, audio, text books, apps, and games) you access through our products.
 * **Searches and commands**. Search queries and commands when you use Microsoft products with search or related productivity functionality, such as interactions with a chat bot.
 * **Voice data**. Your voice data, sometimes referred to as “voice clips”, such as search queries, commands, or dictation you speak, which may include background sounds.
@@ -356,6 +357,8 @@ Please note that, as defined under certain U.S. state data privacy laws, “shar
 
 We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized. For example, we share your content with third parties when you tell us to do so, such as when you send an email to a friend, share photos and documents on OneDrive, or link accounts with another service. If you use a Microsoft product provided by an organization you are affiliated with, such as an employer or school, or use an email address provided by such organization to access Microsoft products, we share certain data, such as interaction data and diagnostic data to enable your organization to manage the products. When you provide payment data to make a purchase, we will share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction. Additionally, when you save a payment method (such as a card) to your account that you and other Microsoft account holders use to make purchases from Microsoft or its affiliates, your purchase receipts may be shared with anyone else who uses and has access to the same payment method to make a purchase from Microsoft, including the payment method’s named accountholder. When you permit push notifications for Microsoft products or applications on a non-Windows device, the operating system of that device will process some personal data to provide push notifications. Accordingly, Microsoft may send data to an external, third-party notification provider to deliver push notifications. Your device’s push notification services are governed by their own service-specific terms and privacy statements.
 
+We also share personal data for digital advertising purposes. When you visit a website or use an app that wants to show you ads, the digital property may allow Microsoft to access or receive device data or certain other data identified in the Personal data we collect section above. We may then share this information with third party advertising platforms and advertisers to facilitate the delivery and measurement of ads on such digital properties.  Please see the Advertising and U.S. State Data Privacy sections below for more information about how your data is used for advertising.
+
 In addition, we share personal data among Microsoft-controlled affiliates and subsidiaries. We also share personal data with vendors or agents working on our behalf for the purposes described in this statement. For example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose. We may also disclose personal data as part of a corporate transaction such as a merger or sale of assets.
 
 Finally, we will retain, access, transfer, disclose, and preserve personal data, including your content (such as the content of your emails in Outlook.com, or files in private folders on OneDrive), when we have a good faith belief that doing so is necessary to do any of the following:
@@ -377,7 +380,7 @@ View Summary Learn more
 
 You can also make choices about the collection and use of your data by Microsoft. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
-* Control the use of your data for personalized advertising from Microsoft by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
+* Control the use of your data for personalized advertising from Microsoft, including Xandr, by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
 * Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft.
 * Access and clear some of your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
 
@@ -432,7 +435,7 @@ You can choose whether you wish to receive promotional communications from Micro
 
 **Your advertising choices**
 
-To opt out of receiving personalized advertising from Microsoft, visit our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759). When you opt out, your preference is stored in a cookie that is specific to the web browser you are using. The opt-out cookie has an expiration date of five years. If you delete the cookies on your device, you need to opt out again.
+To opt out of receiving personalized advertising from Microsoft, including Xandr, visit our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759). When you opt out, your preference is stored in a cookie that is specific to the web browser you are using. The opt-out cookie has an expiration date of five years. If you delete the cookies on your device, you need to opt out again.
 
 You can also link your opt-out choice with your personal Microsoft account. It will then apply on any device where you use that account and will continue to apply until someone signs in with a different personal Microsoft account on that device. If you delete the cookies on your device, you will need to sign in again for the settings to apply. You can view [our third party ad partners](https://learn.microsoft.com/xandr/policies-regulations/third-party-providers) on the [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice), and opt-out of data sharing with third parties at our opt-out page.
 
@@ -500,6 +503,7 @@ Some of the cookies we commonly use are listed below. This list is not exhaustiv
 * **MR**. This cookie is used by Microsoft to reset or refresh the MUID cookie.
 * **x-ms-gateway-slice**. Identifies a gateway for load balancing.
 * **TOptOut**. Records your decision not to receive interest-based advertising delivered by Microsoft. Where required, we place this cookie by default and remove it when you consent to interest-based advertising.
+* **ApplicationGatewayAffinity** and **ApplicationGatewayAffinityCORS**.  These session cookies are used for load balancing purposes and to ensure requests for a user session are handled by the same server.
 
 We may also use the cookies of other Microsoft affiliates, companies, and partners, such as LinkedIn and Xandr.
 
@@ -760,6 +764,8 @@ Please also see our  [U.S. State Data Privacy Laws Notice](https://aka.ms/USSta
 
 **Sale**. We do not sell your personal data. So, we do not offer an opt-out to the sale of personal data.
 
+**Profiling**.  We do not engage in “profiling” that utilizes your personal data for automated decision-making that produces legal or similarly significant effects.  So, we do not offer an opt-out for this type of profiling.
+
 **Share**. We may “share” your personal data, as defined under California and other applicable U.S. state laws, for personalized advertising purposes. As noted in our  [Advertising](https://privacy.microsoft.com/privacystatement#mainadvertisingmodule) section, we do not deliver personalized advertising to children whose birthdate in their Microsoft account identifies them as under 18 years of age.
 
 In the bulleted list below, we outline the categories of data we share for personalized advertising purposes, the recipients of the personal data, and our purposes of processing. For a description of the data included in each category, please see the  [Personal data we collect](#mainpersonaldatawecollectmodule) section.
@@ -767,16 +773,16 @@ In the bulleted list below, we outline the categories of data we share for perso
 Categories of Personal Data
 
 * Name and contact data
-    * Recipients: Third parties that perform online advertising services for Microsoft
+    * Recipients: Third parties that perform online advertising services for Microsoft or that use Microsoft’s advertising technologies
     * Purposes of Processing: To deliver personalized advertising based on your interests
 * Demographic data
-    * Recipients: Third parties that perform online advertising services for Microsoft
+    * Recipients: Third parties that perform online advertising services for Microsoft or that use Microsoft’s advertising technologies
     * Purposes of Processing: To deliver personalized advertising based on your interests
 * Subscription and licensing data
-    * Recipients: Third parties that perform online advertising services for Microsoft
+    * Recipients: Third parties that perform online advertising services for Microsoft or that use Microsoft’s advertising technologies
     * Purposes of Processing: To deliver personalized advertising based on your interests
 * Interactions
-    * Recipients: Third parties that perform online advertising services for Microsoft
+    * Recipients: Third parties that perform online advertising services for Microsoft or that use Microsoft’s advertising technologies
     * Purposes of Processing: To deliver personalized advertising based on your interests
 
 Please see the  [Advertising](https://privacy.microsoft.com/privacystatement#mainadvertisingmodule) section for more information about our advertising practices, and our  [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for more information on “sharing” for personalized advertising purposes under applicable U.S. state laws.
@@ -816,8 +822,8 @@ Categories of Personal Data
     * Purposes of Processing (Collection and Disclosure to Third Parties): Transact commerce; process transactions; fulfill orders; help, secure, and troubleshoot; and detect and prevent fraud
     * Recipients: Service providers and user-directed entities
 * Subscription and licensing data
-    * Sources of personal data: Interactions with users and organizations that represent users
-    * Purposes of Processing (Collection and Disclosure to Third Parties): Provide, personalize, and activate our products; customer support; help, secure, and troubleshoot; and marketing
+    * Sources of personal data: Interactions with users and organizations that represent users; third-party storefronts and platforms on which our products are purchased
+    * Purposes of Processing (Collection and Disclosure to Third Parties): Provide, personalize, and activate our products; customer support; help, secure, and troubleshoot; marketing; and accounting
     * Recipients: Service providers and user-directed entities
 * Interactions
     
@@ -895,16 +901,16 @@ Microsoft allows advertising companies to collect information about your interac
 
 Advertising allows us to provide, support, and improve some of our products. Microsoft does not use what you say in email, human-to-human chat, video calls or voice mail, or your documents, photos, or other personal files to target ads to you. We use other data, detailed below, for advertising on our Microsoft properties and on third-party properties. For example:
 
-* Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as  [Microsoft.com](https://protect-us.mimecast.com/s/OrHGC0R9D5fY4mx8Cwq8Qu?domain=microsoft.com), Microsoft Start, and Bing.
+* Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as  [Microsoft.com](https://protect-us.mimecast.com/s/OrHGC0R9D5fY4mx8Cwq8Qu?domain=microsoft.com), Microsoft Start, and Bing. We may also use such data to select and deliver ads on third party digital properties.
 * When the advertising ID is enabled in Windows as part of your privacy settings, third parties can access and use the advertising ID (much the same way that websites can access and use a unique identifier stored in a cookie) to select and deliver ads in such apps.
 * We may share data we collect with internal and external partners, such as Xandr, Yahoo, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you.
 * Advertisers may choose to place our web beacons on their sites, or use similar technologies, in order to allow Microsoft to collect information on their sites such as activities, purchases, and visits; we use this data on behalf of our advertising customers to provide ads.
 
 The ads that you see may be selected based on data we process about you, such as your interests and favorites, your location, your transactions, how you use our products, your search queries, or the content you view. For example, if you view content on Microsoft Start about automobiles, we may show advertisements about cars; if you search “pizza places in Seattle” on Bing, you may see advertisements in your search results for restaurants in Seattle.
 
-The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners. We refer to these ads as "personalized advertising" in this statement. For example, if you view gaming content on  [xbox.com](https://www.xbox.com/), you may see offers for games on Microsoft Start. To provide personalized advertising, we combine cookies placed on your device using information that we collect (such as IP address) when your browser interacts with our websites. If you opt out of receiving personalized advertising, data associated with these cookies will not be used.
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners. We refer to these ads as "personalized advertising" in this statement. For example, if you view gaming content on [xbox.com](https://www.xbox.com/), you may see ads for games on Microsoft Start. To provide personalized advertising, we combine cookies placed on your device using information that we collect (such as IP address) when your browser interacts with our websites. If you opt out of receiving personalized advertising, data associated with these cookies will not be used.
 
-We may use information about you to serve you with personalized advertising when you use Microsoft services. If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see offers for products and services based on your online activity while using Microsoft Edge. To configure your privacy settings for Edge, go to Microsoft Edge > Settings > Privacy and Services. To configure your privacy and ad settings for your Microsoft account with respect to your online activity across browsers, including Microsoft Edge, or when visiting third-party websites or apps, go to your dashboard at  [privacy.microsoft.com](https://privacy.microsoft.com/).
+We may use information about you to serve you with personalized advertising when you use Microsoft services. If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalized advertising, you will see ads for products and services based on your online activity while using Microsoft Edge. To configure your privacy settings for Edge, go to Microsoft Edge > Settings > Privacy and Services. To configure your privacy and ad settings for your Microsoft account with respect to your online activity across browsers, including Microsoft Edge, or when visiting third-party websites or apps, go to your dashboard at  [privacy.microsoft.com](https://privacy.microsoft.com/).
 
 Further details regarding our advertising-related uses of data include:
 
@@ -1158,6 +1164,30 @@ To enable Family Safety controls on a child account, the child account must be p
 When you have enabled family activity reporting for a child, Microsoft will collect details about how the child uses their devices, such as search, web, app, and game activity, and provide parents with reports of that child's online activities. Activity reports are routinely deleted from Microsoft servers.
 
 Certain Family Safety features, such as Location Sharing, Drive Safety, Share Drives, Places, and Location Alerts will use your location information when enabled. When you have enabled Location Sharing, for instance, your device will upload location data to the cloud and share it with others in your family group. Microsoft retains only your last known location as part of the Location Sharing feature (each new location replaces the previous one). When you enable Drive Safety, your location will be used to record your drive habits such as whether you are driving within the speed limits, if you’re using your phone while driving, and if you accelerate or brake suddenly. These reports will be uploaded to the cloud, and you can choose to share your drive reports with your family group. You can turn off these location features at any time in the Family Safety settings. You can manage your device’s location data at the Microsoft Privacy Dashboard. Learn more about  [Family Safety and your location data](https://support.microsoft.com/en-us/account-billing/location-based-experiences-in-microsoft-family-safety-48704c11-da47-05c3-6c75-e032d54bc563).
+
+[Back to top](#)
+
+#### Microsoft Launcher
+
+Microsoft Launcher is an Android app that offers a highly customizable app launcher experience on Android devices.
+
+Microsoft Launcher lets you log in with your personal Microsoft account or work account, or use it without any account. However, some functions may be limited if you do not grant certain permissions.
+
+To use Microsoft Launcher, the application must be installed on your Android device, and optional permissions are required to enable the following features:
+
+**Microsoft Copilot**. When signed in with your personal Microsoft account, you can seamlessly use Copilot features like chat, web search, voice search, and image search. Certain Copilot features require access to your device capabilities, such as your device camera, microphone, photos, and videos. Please see our Artificial Intelligence and Copilot capabilities section for more information. Learn more about Copilot terms of use [here](https://www.bing.com/new/termsofuse). 
+
+**Glance Feed**. Glance helps you organize daily activities, such as Outlook calendar, To Do list, Sticky Notes, and recent documents in your M365 apps. After signing-in with your personal Microsoft account or your work account, the data will be synced across devices signed into the same account to give you personalized experiences. It also enables you to review recent activities, like recent photos and app usage, which require permissions to access device photos, files, and app usage data.
+
+**News Feed**. When you sign in with your Microsoft account, you can enjoy a personalized news feed and advertisements in Launcher’s News Feed, synchronized across all your devices. You can also receive local curated news when you grant Microsoft Launcher permission to access your location information. You can manage your ad preferences through the Microsoft privacy dashboard to tailor your experience.
+
+**Weather Notifications**. Microsoft Launcher allows you to receive the latest and most important weather changes on your home screen with MSN Weather. You can receive up-to-date local weather information when you allow Launcher to access to your location or provide your zip code.
+
+**Backup and Restore**: Easily transfer between phones or try different home screen setups with Microsoft Launcher's backup and restore feature. Backups can be stored locally on your device or saved to your OneDrive account associated with your Microsoft Account for easy access.
+
+Microsoft Launcher supports Android work profile features, enabling you to maintain a clear boundary between personal and work data on your device. This means you can securely access work resources without mixing them with your personal apps and data.
+
+To learn more about Microsoft Launcher and its supported features, please visit [here](https://support.microsoft.com/topic/using-microsoft-launcher-on-android-c59f2824-0218-ae6d-3666-d93a7fc537e0).
 
 [Back to top](#)
 
@@ -1641,6 +1671,8 @@ Cross-device experiences in Windows allow you to access your mobile device from 
 **Use your mobile device as a connected camera.** This feature allows you to use your mobile device’s camera in apps or products on Windows that support camera functionality. You can enable this feature under “Mobile Devices” in the Bluetooth & Devices section in the Settings on your PC. Microsoft does not record or store your camera sessions or any of the information displayed by your camera in any of the applications or products.
 
 **Get new photo notifications from your mobile device.** This feature allows you to receive notifications from your linked mobile device on your Windows PC. These photos are temporarily stored on your Windows PC while you are editing or opening those photos. You will need to initiate saving to your PC to store those photos until you decide to delete them. We never store your photos on our servers or change or delete any photos on your mobile device.
+
+**Show your mobile device in File Explorer**. This feature allows you to access your mobile device’s files in File Explorer. You can enable this feature under “Mobile Devices” in the Bluetooth & Devices section in the Settings on your PC. Microsoft will not store your file contents in its services.
 
 [Back to top](#)
 
