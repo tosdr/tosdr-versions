@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-nieuwe-tijd-is-begonnen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-komende-slavisch-russische-cultuurperiode/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
