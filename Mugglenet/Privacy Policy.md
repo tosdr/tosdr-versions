@@ -324,15 +324,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are about 3,000 wizards in Britain.
+When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
 
 ### Potter History
 
-July 23, 2010 – StarKid releases A Very Potter Sequel on their YouTube account.
+October 28, 2005 – The Weasleys’ Ford Anglia, used in Chamber of Secrets, was stolen.
 
 ### Potter Quote
 
-“Wild! I can make that old bloke down there pick his nose again . . . and again . . . and again . . .”
+“I know what you are known as. But to me, I’m afraid, you will always be Tom Riddle. It is one of the irritating things about old teachers. I am afraid that they never quite forget their charges’ youthful beginnings.”
 
 [](#)
 
