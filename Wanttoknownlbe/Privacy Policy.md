@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/bewijs-informatie-over-vrije-energie-wordt-geweldadig-onderdrukt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/ouders-online-krabbelt-terug-inzake-advies-kindervaccinaties/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
