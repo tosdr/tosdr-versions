@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Power and the Glory](/wp-content/thumbnails/8630-100x70.jpg?x53432)
+* [![Nutrition and Behavior Aspartame (Lecture)](/wp-content/thumbnails/2404-100x70.jpg?x53432)
     
-    The Power and the Glory
+    Nutrition and Behavior Aspartame (Lecture)
     
-    In this journey to the graves of great leaders and heroes dark secrets will emerge.Why was the burial casket of a murdered president cast deep into the atlantic ocean? Could a pit in Syberia hide](https://documentaryheaven.com/power-and-glory/ "The Power and the Glory")
-* [![The Sky at Night, Pluto Revealed](/wp-content/thumbnails/10001-100x70.jpg?x53432)
+    In this lecture, Dr. Russell Blaylock explains one of the most important connections between nutrition and our health, how nutrition affects our behavior. Citing a series of important studies, he sho](https://documentaryheaven.com/nutrition-and-behavior-aspartame-lecture/ "Nutrition and Behavior Aspartame (Lecture)")
+* [![Donk](/wp-content/thumbnails/6814-100x70.jpg?x53432)
     
-    The Sky at Night, Pluto Revealed
+    Donk
     
-    The revelations about New Horizons recent visit to our dwarf planet Pluto, made headlines and news across the globe. The BBC's, The Sky at Night team were lucky enough to be behind the scenes for the](https://documentaryheaven.com/sky-at-night-pluto-revealed/ "The Sky at Night, Pluto Revealed")
-* [![Oscar Pistorius: What Really Happened?](/wp-content/thumbnails/7062-100x70.jpg?x53432)
+    Donk is simultaneously the most terrifying and hilarious dance music genre to ever come out of the UK. It's like lowest common denominator happy hardcore overlaid with manic, unintelligible MCing and](https://documentaryheaven.com/donk/ "Donk")
+* [![Charlie Brooker’s Gameswipe](/wp-content/thumbnails/6097-100x70.jpg?x53432)
     
-    Oscar Pistorius: What Really Happened?
+    Charlie Brooker’s Gameswipe
     
-    Oscar Pistorius was on top of the world, breaking world records, winning gold in the London 2012 Paralympics, and becoming the first leg amputee to participate in the summer Olympics. But now, he stan](https://documentaryheaven.com/oscar-pistorius-what-really-happened/ "Oscar Pistorius: What Really Happened?")
-* [![Questioning Darwin](/wp-content/thumbnails/9960-100x70.jpg?x53432)
+    Charlie Brooker sets his caustic sights on video games. Expect acerbic comment as he looks at the various genres, how they have changed since their early conception and how the media represents games](https://documentaryheaven.com/charlie-brookers-gameswipe/ "Charlie Brooker’s Gameswipe")
+* [![Food Fight](/wp-content/thumbnails/16339-100x70.png?x53432)
     
-    Questioning Darwin
+    Food Fight
     
-    For those Christians who believe their Bible is the word of God, the literal truth, one man is held up as the antichrist, he is Charles Darwin, their reasoning?, for leading millions of Christians ast](https://documentaryheaven.com/questioning-darwin/ "Questioning Darwin")
-* [![The Forgotten Soldier](/wp-content/thumbnails/8590-100x70.jpg?x53432)
+    When we walk through the supermarket we are bombarded with choices, fresh or frozen, low fat or lots of fat, cool ranch or nacho cheese, with so much variety we assume that some of it is healthy and](https://documentaryheaven.com/food-fight/ "Food Fight")
+* [![Long Shot: Inside the Scope of Smart Weapons](/wp-content/thumbnails/8040-100x70.jpg?x53432)
     
-    The Forgotten Soldier
+    Long Shot: Inside the Scope of Smart Weapons
     
-    This is a short but intriguing story is about a World War 2 veteran who fought in the British Burma campaign. His story is told via a collection of photographs left behind and the narration itself is](https://documentaryheaven.com/forgotten-soldier/ "The Forgotten Soldier")
+    In spring of 2013, Texas-based start up TrackingPoint Solutions released the first ever precision-guided firearm, which is essentially a long-range, laser-guided robo rifle. Call it the gun of tomor](https://documentaryheaven.com/long-shot-inside-scope-smart-weapons/ "Long Shot: Inside the Scope of Smart Weapons")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
