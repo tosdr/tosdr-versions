@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-27 Sept 2024
+28 Sept 2024
 
 * [Home
     
@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Woman (84) sadly dies following two vehicle collision in Ballykelly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (84) sadly dies following two vehicle collision in Ballykelly")](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman (84) sadly dies following two vehicle collision in Ballykelly](https://www.derrynow.com/news/local-news/1615453/woman-84-sadly-dies-following-two-vehicle-collision-in-ballykelly.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with possessing £39,000 worth of drugs to appear in Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing £39,000 worth of drugs to appear in Derry court")](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with possessing £39,000 worth of drugs to appear in Derry court](https://www.derrynow.com/news/local-news/1615447/man-charged-with-possessing-39-000-worth-of-drugs-to-appear-in-derry-court.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Accountant pleads guilty to fraud charges at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Accountant pleads guilty to fraud charges at Derry Crown Court")](https://www.derrynow.com/news/local-news/1615832/accountant-pleads-guilty-to-fraud-charges-at-derry-crown-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -297,6 +281,15 @@ Tony Fitzpatrick passed away this morning.
 
 [Derry Death Notices - Friday, 27th September 2024](https://www.derrynow.com/news/deaths/1615207/derry-death-notices-friday-27th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![55-year-old Derry man sentenced for five counts of child cruelty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
+
+Newry court house
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man charged with three indecent assaults against two males jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with three indecent assaults against two males jailed")](https://www.derrynow.com/news/local-news/1615921/county-derry-man-charged-with-three-indecent-assaults-against-two-males-jailed.html)
 
@@ -322,6 +315,15 @@ Derry Court
 
 [Suspended sentence for Derry man who stole £6.40 worth of Dragon Soop from supermarket](https://www.derrynow.com/news/local-news/1615748/suspended-sentence-for-derry-man-who-stole-6-40-worth-of-dragon-soop-from-supermarket.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Who are the guests on tonight's Graham Norton Show season premiere on BBC? Here's the line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Graham Norton Show season premiere on BBC? Here's the line-up")](https://www.derrynow.com/news/arts---entertainment/1615714/who-are-the-guests-on-tonight-s-graham-norton-show-season-premiere-on-bbc-here-s-the-line-up.html)
+
+Lady Gaga, Demi Moore, Colin Farrell, Richard Ayoade, Jack Savoretti and host Graham Norton (Matt Crossick/PA)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on tonight's Graham Norton Show season premiere on BBC? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1615714/who-are-the-guests-on-tonight-s-graham-norton-show-season-premiere-on-bbc-here-s-the-line-up.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![£2.6million Active Travel scheme for busy Ballykelly road set to commence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£2.6million Active Travel scheme for busy Ballykelly road set to commence")](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
 
@@ -515,6 +517,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
+
+Drogheda United players celebrate. Pic by Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City fall to defeat at Drogheda United](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![55-year-old Derry man sentenced for five counts of child cruelty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
 
 Newry court house
@@ -524,7 +535,7 @@ Newry court house
 [55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday")](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
+[![Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](https://www.derrynow.com/resizer/165/93/true/2024_09_27/CDP_-_03-09-24_-_Page_5_lead_pic_%282%29-1727443697112.jpg--.jpg?1727443697201 "Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday")](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
@@ -553,15 +564,6 @@ Staff and students from North West Regional College with members of the Northern
 
 [Man (35) has bail revoked for attempting to make contact with former partner](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Zachary Geddis Break the Silence Trust welcomes Minister of Health to Mental Health Hub](https://www.derrynow.com/resizer/165/93/true/2024_09_27/Mike_Nesbitt%2C_Health_Minister_for_NI-1727444661866_1727444753.jpg--.jpg?1727444753191 "Zachary Geddis Break the Silence Trust welcomes Minister of Health to Mental Health Hub")](https://www.derrynow.com/news/home/1616075/zachary-geddis-break-the-silence-trust-welcomes-minister-of-health-to-mental-health-hub.html)
-
-Health Minister Mike Nesbitt pictured with Yasmin Geddis, Founder of ZGBTST and Louise Geddis, CEO, ZGBTST.
-
-[Home](https://www.derrynow.com/)
-
-[Zachary Geddis Break the Silence Trust welcomes Minister of Health to Mental Health Hub](https://www.derrynow.com/news/home/1616075/zachary-geddis-break-the-silence-trust-welcomes-minister-of-health-to-mental-health-hub.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
