@@ -200,6 +200,7 @@
     * [Home & garden](https://restless.co.uk/leisure-and-lifestyle/home-garden/)
     * [Learning](https://restless.co.uk/courses/)
     * [Motoring](https://restless.co.uk/leisure-and-lifestyle/motoring/)
+    * [Volunteering](https://restless.co.uk/volunteer/)
     * [Real life stories](https://restless.co.uk/leisure-and-lifestyle/real-life-stories/)
     * [Writers corner](https://restless.co.uk/leisure-and-lifestyle/art-and-culture/writers-corner/)
     * [Cost of living resources](https://restless.co.uk/leisure-and-lifestyle/cost-of-living-crisis-resources/)
@@ -391,11 +392,11 @@ Featured travel offers
     
     ### [Turkey Holidays\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
-    Turkey | 7 nights | Book with easyJet holidays
+    Turkey | 3 nights | Book with easyJet holidays
     
     Use code **BIGSALE** before 1st October and save up to £200.
     
-    From £210pp
+    From £209pp
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
