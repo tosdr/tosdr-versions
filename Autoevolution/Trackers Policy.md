@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![This 24K Gold Aston Martin DB5 Packs Neat James Bond Gadgets but You Can't Drive It](https://s1.cdn.autoevolution.com/images/news/this-24k-gold-aston-martin-db5-packs-neat-james-bond-gadgets-but-you-can-t-drive-it-240258-5.jpg "This 24K Gold Aston Martin DB5 Packs Neat James Bond Gadgets but You Can't Drive It")
+[![This Ambulance Was Converted Into an Off-Grid-Ready "Motocross Camper" With a Bike Garage](https://s1.cdn.autoevolution.com/images/news/this-ambulance-was-converted-into-an-off-grid-ready-motocross-camper-with-a-bike-garage-240336-5.jpg "This Ambulance Was Converted Into an Off-Grid-Ready "Motocross Camper" With a Bike Garage")
 
-This 24K Gold Aston Martin DB5 Packs Neat James Bond Gadgets but You Can't Drive It](https://www.autoevolution.com/news/this-24k-gold-aston-martin-db5-packs-neat-james-bond-gadgets-but-you-can-t-drive-it-240258.html)
+This Ambulance Was Converted Into an Off-Grid-Ready "Motocross Camper" With a Bike Garage](https://www.autoevolution.com/news/this-ambulance-was-converted-into-an-off-grid-ready-motocross-camper-with-a-bike-garage-240336.html)
 
 how-to \_
 
