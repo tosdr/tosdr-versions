@@ -219,17 +219,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [24th September 2024](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
 
-[![Scanlon against Luton. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Scanlon-Luton-1-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
-
-### [Harris confirms Millwall loan signing injury with player returning to parent club](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
-
-[21st September 2024](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
-
 [![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
 ### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
+
+[![Scanlon against Luton. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Scanlon-Luton-1-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
+
+### [Harris confirms Millwall loan signing injury with player returning to parent club](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
+
+[21st September 2024](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
 ### Featured Articles
 
