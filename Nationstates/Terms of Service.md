@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Should we bring back the Guillotine? (74)](https://forum.nationstates.net/viewtopic.php?t=555942&f=20&view=unread#unread ""Should we bring back the Guillotine?" (74 posts)")
-* [American Politics: Centennials, Debat… (8,879)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Centennials, Debates, and Indictments" (8,879 posts)")
-* [A new generation (IC|Closed|Attn. Ara… (141)](https://forum.nationstates.net/viewtopic.php?t=554018&f=5&view=unread#unread ""A new generation (IC|Closed|Attn. Arakhkhar)" (141 posts)")
-* [Your favorite part of AN’s forum sig XI (1,193)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (1,193 posts)")
-* [Parliament maker! \[Open\] (22)](https://forum.nationstates.net/viewtopic.php?t=556036&f=25&view=unread#unread ""Parliament maker! [Open]" (22 posts)")
+* [Twilight of the Gods: A Metahuman RP… (1,893)](https://forum.nationstates.net/viewtopic.php?t=508563&f=31&view=unread#unread ""Twilight of the Gods: A Metahuman RP (IC)" (1,893 posts)")
+* [The Collective Security League Assemb… (76)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (76 posts)")
+* [American Politics: Centennials, Debat… (8,893)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Centennials, Debates, and Indictments" (8,893 posts)")
+* [Commend or Condemn AN II (789)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (789 posts)")
+* [Which faction should I join (30)](https://forum.nationstates.net/viewtopic.php?t=555832&f=41&view=unread#unread ""Which faction should I join" (30 posts)")
 
 Advertisement
 
