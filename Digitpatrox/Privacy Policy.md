@@ -20,16 +20,16 @@ Saturday, September 28 2024
 
 Latest
 
+* [Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
+* [My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
+* [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
+* [AI Surge Could Trigger Global Chip Shortage by 2026](https://digitpatrox.com/ai-surge-could-trigger-global-chip-shortage-by-2026/)
+* [How to make coffee without a coffee maker — 5 easy techniques](https://digitpatrox.com/how-to-make-coffee-without-a-coffee-maker-5-easy-techniques/)
+* [OpenAI was a research lab — now it’s just another tech company](https://digitpatrox.com/openai-was-a-research-lab-now-its-just-another-tech-company/)
+* [Today’s Wordle Answer and Hints (September 28, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-28-2024/)
 * [NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
 * [Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
 * [Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
-* [How to Lock Your Facebook Profile](https://digitpatrox.com/how-to-lock-your-facebook-profile/)
-* [HPE’s Aruba channel overhaul looks to “simplify” client engagement](https://digitpatrox.com/hpes-aruba-channel-overhaul-looks-to-simplify-client-engagement/)
-* [5 Online Payment Methods for Small Businesses To Try in 2024](https://digitpatrox.com/5-online-payment-methods-for-small-businesses-to-try-in-2024/)
-* [How to clean a Dyson filter](https://digitpatrox.com/how-to-clean-a-dyson-filter/)
-* [The messy WordPress drama, explained](https://digitpatrox.com/the-messy-wordpress-drama-explained/)
-* [NYT Connections Today: Hints and Answers for September 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-28-2024/)
-* [If I’d spent billions on fancy office spaces, I’d probably want staff working from them too – so let’s cut the tantrums over the ‘benefits’ of a full RTO](https://digitpatrox.com/if-id-spent-billions-on-fancy-office-spaces-id-probably-want-staff-working-from-them-too-so-lets-cut-the-tantrums-over-the-benefits-of-a-full-rt/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/PPwiESmXvcJYfKmLgcfAKD-1200-80.jpg)](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3541875-0-30267800-1727435322-Shutterstock-Germany-Only-News-Intel-Factory-Germany-September-2024.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
     
-    [NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
+    [Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
     
-    12 mins ago
+    5 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3542000-0-22136200-1727452354-caution-tape_avoid-mistake_mistakes_be-careful_crime-scene_by-christian-storto-fotografia-getty-100810209-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
+* [![](https://lifehacker.com/imagery/articles/01J8TFD5CTJTG1R3D89CFP1P72/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
     
-    [Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
+    [My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
     
-    35 mins ago
+    30 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J7VA8BNN6P3YH4PD3K6MX2DY/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/a-pair-of-oneplus-nord-buds-3-pro-in-front-of-the-case-1_53851478092_o.jpg)](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
-    [Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
+    [These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/phone-with-facebook-logo-and-some-emojis-around.jpg)](https://digitpatrox.com/how-to-lock-your-facebook-profile/)
+* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240927-ai-chip-shortage-global-supply-crisis.jpg)](https://digitpatrox.com/ai-surge-could-trigger-global-chip-shortage-by-2026/)
     
-    [How to Lock Your Facebook Profile](https://digitpatrox.com/how-to-lock-your-facebook-profile/)
+    [AI Surge Could Trigger Global Chip Shortage by 2026](https://digitpatrox.com/ai-surge-could-trigger-global-chip-shortage-by-2026/)
     
     2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/99q8FYxWZfyGywAkTPij5i-1200-80.jpg)](https://digitpatrox.com/hpes-aruba-channel-overhaul-looks-to-simplify-client-engagement/)
+* [![](https://cdn.mos.cms.futurecdn.net/PBR5dk2fLAszMtKy6qzZtT-1200-80.jpg)](https://digitpatrox.com/how-to-make-coffee-without-a-coffee-maker-5-easy-techniques/)
     
-    [HPE’s Aruba channel overhaul looks to “simplify” client engagement](https://digitpatrox.com/hpes-aruba-channel-overhaul-looks-to-simplify-client-engagement/)
+    [How to make coffee without a coffee maker — 5 easy techniques](https://digitpatrox.com/how-to-make-coffee-without-a-coffee-maker-5-easy-techniques/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [12 mins ago
+* [5 mins ago
     
-    ### NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
-* [35 mins ago
+    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
+* [30 mins ago
     
-    ### Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
+    ### My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
 * [1 hour ago
     
-    ### Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
+    ### These Are the Budget Earbuds to Care About](https://digitpatrox.com/these-are-the-budget-earbuds-to-care-about/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [August 24, 2024
     
-    ### Will Batman Appear in The Penguin Series?](https://digitpatrox.com/will-batman-appear-in-the-penguin-series/)
-* [1 week ago
+    ### Microsoft update knocks out Linux computers – Computerworld](https://digitpatrox.com/microsoft-update-knocks-out-linux-computers-computerworld/)
+* [August 16, 2024
     
-    ### Most Reliable Fuel-Efficient New Midsized SUVs](https://digitpatrox.com/most-reliable-fuel-efficient-new-midsized-suvs/)
-* [3 weeks ago
+    ### Steam User Reviews Might Actually Be Useful Now](https://digitpatrox.com/steam-user-reviews-might-actually-be-useful-now/)
+* [August 23, 2024
     
-    ### You Can Now Edit DMs on X (Twitter); Here’s How to Do It](https://digitpatrox.com/you-can-now-edit-dms-on-x-twitter-heres-how-to-do-it/)
+    ### My Favorite Cleaning Products You Can Disguise in Plain Sight](https://digitpatrox.com/my-favorite-cleaning-products-you-can-disguise-in-plain-sight/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to clean a Dyson filter](https://digitpatrox.com/how-to-clean-a-dyson-filter/)
-* [4 hours ago
+    ### Today’s Wordle Answer and Hints (September 28, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-28-2024/)
+* [5 hours ago
     
-    ### The messy WordPress drama, explained](https://digitpatrox.com/the-messy-wordpress-drama-explained/)
-* [4 hours ago
+    ### NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
+* [5 hours ago
     
-    ### NYT Connections Today: Hints and Answers for September 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-28-2024/)
+    ### Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
