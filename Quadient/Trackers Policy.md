@@ -67,7 +67,7 @@ Choose your language [Chinese](https://www.quadient.com/cn) [Dutch](https://www.
 * Customer Communications AP Automation AR Automation Mailing Solutions Resources About us Support Contact us Languages
 * [](https://www.myquadient.com/US/en_US/Shop)
 
-Comunicaciones con el cliente [Inspire Evolve
+Customer Communications [Inspire Evolve
 
 SaaS customer communication management](https://www.quadient.com/en/customer-communications/inspire-evolve)[Inspire Flex
 
