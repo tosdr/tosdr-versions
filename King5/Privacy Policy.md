@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/766ca2c4-4ba8-41a1-a321-dc4d07b7a802/20240928T015037/766ca2c4-4ba8-41a1-a321-dc4d07b7a802_16x9.jpg) ![](https://media.king5.com/assets/KING/images/766ca2c4-4ba8-41a1-a321-dc4d07b7a802/20240928T015037/766ca2c4-4ba8-41a1-a321-dc4d07b7a802_360x203.jpg)](https://www.king5.com/article/news/local/skagit-county-to-curb-glass-recycling/281-c06eb936-69bf-4c10-b03a-d4ca5dffd109)
+    *  [![](https://media.king5.com/assets/KING/images/cb6f3862-4848-4881-bb27-4601774692ff/20240928T052044/cb6f3862-4848-4881-bb27-4601774692ff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb6f3862-4848-4881-bb27-4601774692ff/20240928T052044/cb6f3862-4848-4881-bb27-4601774692ff_360x203.jpg)](https://www.king5.com/article/news/local/kent-sexual-assault-survivor-says-if-she-didnt-fight-back-she-would-have-died/281-241a8b1e-231c-4378-8614-49c92394a5bc)
         
-        #### [Lack of demand for recycled glass leads to change in rules](https://www.king5.com/article/news/local/skagit-county-to-curb-glass-recycling/281-c06eb936-69bf-4c10-b03a-d4ca5dffd109)
+        #### [Kent sexual assault survivor believes if she didn't fight back, she would have died](https://www.king5.com/article/news/local/kent-sexual-assault-survivor-says-if-she-didnt-fight-back-she-would-have-died/281-241a8b1e-231c-4378-8614-49c92394a5bc)
         
-    *  [![](https://media.king5.com/assets/KING/images/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8/20240928T014117/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8/20240928T014117/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8_360x203.jpg)](https://www.king5.com/article/news/crime/jerome-powel-jr-arrested-charged-impersonation-assault/281-8923fc14-aed1-4eea-b562-4e5add811459)
+    *  [![](https://media.king5.com/assets/KING/images/943624c9-cc1b-452e-abc3-f15e1f817837/943624c9-cc1b-452e-abc3-f15e1f817837_16x9.jpg) ![](https://media.king5.com/assets/KING/images/943624c9-cc1b-452e-abc3-f15e1f817837/943624c9-cc1b-452e-abc3-f15e1f817837_360x203.jpg)](https://www.king5.com/article/tech/science/environment/will-bering-sea-snow-crabbing-season-be-canceled-third-straight-year/281-2ed4530f-5724-4b29-b292-c9d214eafd50)
         
-        #### [Man charged after allegedly punching people inside Einstein Bros. Bagels](https://www.king5.com/article/news/crime/jerome-powel-jr-arrested-charged-impersonation-assault/281-8923fc14-aed1-4eea-b562-4e5add811459)
+        #### ['It's still crisis mode': Will Bering Sea snow crabbing season be canceled for third straight year?](https://www.king5.com/article/tech/science/environment/will-bering-sea-snow-crabbing-season-be-canceled-third-straight-year/281-2ed4530f-5724-4b29-b292-c9d214eafd50)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,7 +95,7 @@ Navigation
 
 Seattle, WA »
 
-60°
+53°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
