@@ -304,15 +304,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
+While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
 
 ### Potter History
 
-December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
+April 20, 2006 – Harry Potter and the Order of the Phoenix film release dates are confirmed.
 
 ### Potter Quote
 
-“You’ve gone middle head!”
+“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
 
 [](#)
 
