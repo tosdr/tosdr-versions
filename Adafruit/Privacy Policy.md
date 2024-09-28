@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A Certain Darkness Is Needed to See the Stars”
+“ Artists are here to disturb the peace”
 
-[Osho](https://en.wikipedia.org/wiki/Rajneesh)
+[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin)
 
 [](https://www.adafruit.com/about)
 
