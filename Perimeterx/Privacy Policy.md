@@ -809,7 +809,7 @@ Customers rank HUMAN #1 in G2’s Bot Detection and Mitigation category
 
 [Learn Why](https://www.humansecurity.com/g2-bot-mitigaton-detection-leader)
 
-![](https://www.humansecurity.com/hubfs/HMN_070324_G2Grid.png)
+![](https://www.humansecurity.com/hubfs/G2-Fall24.png)
 
 \[With HUMAN\], we enjoyed a three-order of magnitude reduction in bad actor traffic, and that takes a lot of the heat off in fraud terms. Furthermore, I really love that HUMAN is evolving the product. There's a well-charted roadmap of features directly relevant to customers dealing with fraud.
 
