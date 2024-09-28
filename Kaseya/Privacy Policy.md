@@ -355,13 +355,13 @@
     
     Blog
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/08/transform-msp-financial-future-msp-600x400.jpg)
+    [![](https://www.kaseya.com/wp-content/uploads/2024/04/kaseya-365-ushers-in-new-600x400.png)
     
-    Transform Your MSP’s Financial Future
+    The Kaseya Advantage: 10 Years and $12B in the Making
     
-    August 13
+    September 27
     
-    2 minute read](https://www.kaseya.com/blog/transform-your-msps-financial-future/)
+    2 minute read](https://www.kaseya.com/blog/the-kaseya-advantage-10-years-and-12b-in-the-making/)
     
     [![](https://www.kaseya.com/wp-content/uploads/2024/09/Compliance-600x400.jpeg)
     
