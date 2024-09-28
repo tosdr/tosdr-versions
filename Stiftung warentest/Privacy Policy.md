@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
-* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
 
 Service Stiftung Warentest
 
