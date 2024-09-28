@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Israel kills Hezbollah’s leader. Iranian lawmakers demand ‘strong’ response.](https://www.csmonitor.com/World/Middle-East/2024/0928/Israel-kills-Hezbollah-s-leader.-Iranian-lawmakers-demand-strong-response "Israel kills Hezbollah’s leader. Iranian lawmakers demand ‘strong’ response.")
+
 [### ‘Tariff Man’ Trump proposes even bigger tariffs on foreign goods. Will they deliver?](https://www.csmonitor.com/USA/2024/0927/Trump-election-tariffs-tax-Mexico-China "‘Tariff Man’ Trump proposes even bigger tariffs on foreign goods. Will they deliver?")
 
 [### Why are three of Brazil’s mega dams in the Amazon on the brink of failure?](https://www.csmonitor.com/World/Americas/2024/0926/Brazil-climate-change-drought-mega-dam "Why are three of Brazil’s mega dams in the Amazon on the brink of failure?")
-
-[### Ten years after 43 students disappeared, Mexican parents still seek the truth](https://www.csmonitor.com/World/Americas/2024/0926/Mexico-43-disappeared-students-protests-truth "Ten years after 43 students disappeared, Mexican parents still seek the truth")
 
 * * *
 
