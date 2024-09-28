@@ -1,6 +1,4 @@
-[![Classic Country Music | Legendary Stories and Songs Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
+[![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
 
 * [Home](https://classiccountrymusic.com/)
 * [Artists](#)
@@ -98,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Beloved Hall Of Fame Songwriter Hugh...](https://classiccountrymusic.com/beloved-hall-of-fame-songwriter-hugh-prestwood-has-died-at-82/)
 * [The 2024 People’s Choice Country Awards...](https://classiccountrymusic.com/the-2024-peoples-choice-country-awards-did-not-pay-tribute-to-late-country-icon-toby-keith/)
 * [Lisa Marie Presley’s Posthumous Memoir Describes...](https://classiccountrymusic.com/lisa-marie-presleys-posthumous-memoir-describes-a-parent-teacher-conference-with-her-dad-elvis/)
-* [Eric Church Moves Alan Jackson To...](https://classiccountrymusic.com/eric-church-moves-alan-jackson-to-tears-with-chasin-that-neon-rainbow-cover-during-acm-honors/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -122,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Rare Footage Of Waylon Jennings Singing...](https://classiccountrymusic.com/rare-footage-of-waylon-jennings-singing-im-a-ramblin-man-live/)
 * [Willie Nelson Teams Up With Kacey...](https://classiccountrymusic.com/willie-nelson-teams-up-with-kacey-musgraves-for-2019-cma-awards-performance-of-rainbow-connection/)
 * [Willie Nelson Announces New Album Created...](https://classiccountrymusic.com/willie-nelson-announces-new-album-created-and-produced-with-son-micah/)
-* [Lainey Wilson Says A Classic Reba...](https://classiccountrymusic.com/lainey-wilson-says-a-classic-reba-hit-is-her-all-time-guilty-pleasure-song/)
 
 Privacy Policy
 ==============
