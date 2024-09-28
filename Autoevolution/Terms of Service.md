@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![1964 Buick Super Wildcat: A Beauty and a Beast](https://s1.cdn.autoevolution.com/images/news/1964-buick-super-wildcat-a-beauty-and-a-beast-240467-5.jpg "1964 Buick Super Wildcat: A Beauty and a Beast")
+[![This 24K Gold Aston Martin DB5 Packs Neat James Bond Gadgets but You Can't Drive It](https://s1.cdn.autoevolution.com/images/news/this-24k-gold-aston-martin-db5-packs-neat-james-bond-gadgets-but-you-can-t-drive-it-240258-5.jpg "This 24K Gold Aston Martin DB5 Packs Neat James Bond Gadgets but You Can't Drive It")
 
-1964 Buick Super Wildcat: A Beauty and a Beast](https://www.autoevolution.com/news/1964-buick-super-wildcat-a-beauty-and-a-beast-240467.html)
+This 24K Gold Aston Martin DB5 Packs Neat James Bond Gadgets but You Can't Drive It](https://www.autoevolution.com/news/this-24k-gold-aston-martin-db5-packs-neat-james-bond-gadgets-but-you-can-t-drive-it-240258.html)
 
 how-to \_
 
