@@ -1,4 +1,4 @@
-                         
+                          
 
 * [View Digital Editions](https://issuu.com/communitymattersmedia)
 * [Newsletter Sign Up](https://southwarknews.co.uk/newsletter/)
@@ -365,11 +365,11 @@ Website
 
 [21st September 2024](https://southwarknews.co.uk/sport/football/millwall/harris-confirms-millwall-loan-signing-injury-with-player-returning-to-parent-club/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/09/lang-qpr3-120x86.jpeg)](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-praises-excellent-striker-following-first-assist-for-the-club/)
+[![Ms Hodges said the pipe had had more photos than Sophia Loren. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/09/sl-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
-### [Millwall manager praises ‘excellent’ striker following first assist for the club](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-praises-excellent-striker-following-first-assist-for-the-club/)
+### [Bermondsey pensioner says leaking pipe has had ‘more photos than Sophia Loren’ as council fails to fix it after five years](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
-[23rd September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-manager-praises-excellent-striker-following-first-assist-for-the-club/)
+[27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
 ### Featured Articles
 
