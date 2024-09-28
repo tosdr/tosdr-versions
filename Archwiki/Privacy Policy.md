@@ -3,10 +3,10 @@
 [Arch Linux Terms](https://wiki.archlinux.org/)
 -----------------------------------------------
 
-* [Code of Conduct](https://terms.archlinux.org/docs/code-of-conduct/)
-* [Privacy Policy](https://terms.archlinux.org/docs/privacy-policy/)
-* [Terms of Service](https://terms.archlinux.org/docs/terms-of-service/)
-* [Trademark Policy](https://terms.archlinux.org/docs/trademark-policy/)
+* [Code of Conduct](https://wiki.archlinux.org/docs/code-of-conduct/)
+* [Privacy Policy](https://wiki.archlinux.org/docs/privacy-policy/)
+* [Terms of Service](https://wiki.archlinux.org/docs/terms-of-service/)
+* [Trademark Policy](https://wiki.archlinux.org/docs/trademark-policy/)
 
  ![Menu](/svg/menu.svg)**Privacy Policy** ![Table of Contents](/svg/toc.svg)
 
@@ -259,7 +259,7 @@ We will not make you subject to any automated decision-making, including profili
 
 On some sub-directories of our website, cookies are set in your browser. Cookies are small text files that are stored on your hard drive and are assigned to the browser you are using. The provider who sets the cookie can collect certain information through the cookie. The only purpose of the cookies set on our website is to enable you to use the website and its functions safely. The legal basis for the processing is our legitimate interests in the aforementioned purpose according to Art. 6 para. 1 lit. f) GDPR. The cookies are necessary for the services you have requested.
 
- [![Calendar](/svg/calendar.svg) August 18, 2021](https://gitlab.archlinux.org/archlinux/service-agreements/commit/2b849c1c6a8719833fc6f3c0ddcb0225a78fd05e "Last modified by Kristian Klausen | August 18, 2021")
+ [![](/svg/calendar.svg) August 18, 2021](https://gitlab.archlinux.org/archlinux/service-agreements/commit/2b849c1c6a8719833fc6f3c0ddcb0225a78fd05e "Last modified by Kristian Klausen | August 18, 2021")
 
 * [1\. Privacy Policy](#_privacy_policy)
 * [2\. Controller](#_controller)
