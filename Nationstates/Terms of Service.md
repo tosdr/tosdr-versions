@@ -34,11 +34,8 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023 Israel–Hamas War Thread mk3 (7,789)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,789 posts)")
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (740)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (740 posts)")
-* [Hot or Cold: BN/BU Edition (1,179)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,179 posts)")
-* [Guess The AN Ideology based on their… (1,591)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (1,591 posts)")
-* [Ukrainian War VII: Everything has a p… (5,716)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,716 posts)")
+* [Is AN pro-Palestine or pro-Israel? (996)](https://forum.nationstates.net/viewtopic.php?t=551641&f=25&view=unread#unread ""Is AN pro-Palestine or pro-Israel?" (996 posts)")
+* [Change a Letter (2,079)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,079 posts)")
 
 Advertisement
 
