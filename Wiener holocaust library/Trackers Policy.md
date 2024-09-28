@@ -153,7 +153,6 @@ Get monthly updates on events, exhibitions and the latest additions to our colle
 * [Governance & Finances](https://wienerholocaustlibrary.org/who-we-are/trustees/)
 * [History](https://wienerholocaustlibrary.org/who-we-are/history/)
 
-* [Visit](https://wienerholocaustlibrary.org/visit/)
 * [When we’re open](https://wienerholocaustlibrary.org/visit/when-were-open/)
 * [Getting Here](https://wienerholocaustlibrary.org/visit/getting-here/)
 * [Terms of Use](https://wienerholocaustlibrary.org/legal/terms-of-use/)
