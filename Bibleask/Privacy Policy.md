@@ -25,8 +25,6 @@ Privacy
 
 **SHARE**
 
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Facebook")[](https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "X")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Reddit")[](https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Copy Link")
-
 * * *
 
 **[BibleAsk](https://bibleask.org/ "BibleAsk") Privacy Policy**
@@ -150,8 +148,6 @@ If you have any questions about this Privacy Policy, please contact us:
 * By visiting this page on our website: [https://bibleask.org/contact/](https://bibleask.org/contact/)
 
 See also [Terms of use](https://bibleask.org/terms-of-use/)
-
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Facebook")[](https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "X")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Reddit")[](https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&linkname=Privacy "Copy Link")
 
 [![bibleask-logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2066'%3E%3C/svg%3E "bibleask-logo")
 
