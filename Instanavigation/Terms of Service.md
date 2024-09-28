@@ -7,16 +7,16 @@ StoryNavigation](https://storynavigation.com/)
 * [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
 * en
-    * [de](https://storynavigation.com/de/terms-of-use)
-    * [en](https://storynavigation.com/terms-of-use)
-    * [fr](https://storynavigation.com/fr/terms-of-use)
-    * [it](https://storynavigation.com/it/terms-of-use)
-    * [ru](https://storynavigation.com/ru/terms-of-use)
+    * [de](http://storynavigation.com/de/terms-of-use)
+    * [en](http://storynavigation.com/terms-of-use)
+    * [fr](http://storynavigation.com/fr/terms-of-use)
+    * [it](http://storynavigation.com/it/terms-of-use)
+    * [ru](http://storynavigation.com/ru/terms-of-use)
 
 * [View stories](https://storynavigation.com/view-instagram-stories)
 * [Blog](https://storynavigation.com/blog)
 
-[en](#) [de](https://storynavigation.com/de/terms-of-use) [fr](https://storynavigation.com/fr/terms-of-use) [it](https://storynavigation.com/it/terms-of-use) [ru](https://storynavigation.com/ru/terms-of-use)
+[en](#) [de](http://storynavigation.com/de/terms-of-use) [fr](http://storynavigation.com/fr/terms-of-use) [it](http://storynavigation.com/it/terms-of-use) [ru](http://storynavigation.com/ru/terms-of-use)
 
 Terms and Conditions
 ====================
@@ -169,11 +169,11 @@ The site is a fan page. StoryNavigation.com is not connected with Instagram. All
 
 en
 
-* [de](https://storynavigation.com/de/terms-of-use)
-* [en](https://storynavigation.com/terms-of-use)
-* [fr](https://storynavigation.com/fr/terms-of-use)
-* [it](https://storynavigation.com/it/terms-of-use)
-* [ru](https://storynavigation.com/ru/terms-of-use)
+* [de](http://storynavigation.com/de/terms-of-use)
+* [en](http://storynavigation.com/terms-of-use)
+* [fr](http://storynavigation.com/fr/terms-of-use)
+* [it](http://storynavigation.com/it/terms-of-use)
+* [ru](http://storynavigation.com/ru/terms-of-use)
 
 ![logo.png](/assets/img/png/logo-new.png)
 
