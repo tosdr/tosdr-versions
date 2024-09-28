@@ -1,6 +1,6 @@
-[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://about.webcatalog.io/en/)
+[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://about.webcatalog.io/en/apps/)
 
-[Download](https://about.webcatalog.io/en/)[Spaces](https://about.webcatalog.io/en/spaces/)[Apps](https://about.webcatalog.io/en/apps/)[Games](https://about.webcatalog.io/en/games/)[Pricing](https://about.webcatalog.io/en/pricing/)[Help](https://about.webcatalog.io/en/help/)
+[Apps](https://about.webcatalog.io/en/apps/)[Games](https://about.webcatalog.io/en/games/)[Spaces](https://about.webcatalog.io/en/spaces/)[Download](https://about.webcatalog.io/en/desktop/)[Pricing](https://about.webcatalog.io/en/pricing/)[Help](https://about.webcatalog.io/en/help/)
 
 Sign inAppearance
 
@@ -181,9 +181,19 @@ In order to resolve a complaint regarding the App or to receive further informat
 Suite 10869  
 San Francisco, CA 94114, USA
 
-Products
+Explore
 
-[Desktop](https://about.webcatalog.io/en/)
+[Apps](https://about.webcatalog.io/en/apps/)
+
+[Games](https://about.webcatalog.io/en/games/)
+
+[Categories](https://about.webcatalog.io/en/categories/)
+
+[Submit New App](https://about.webcatalog.io/en/apps/submit/)
+
+Desktop
+
+[Download](https://about.webcatalog.io/en/desktop/)
 
 [Spaces](https://about.webcatalog.io/en/spaces/)
 
@@ -198,16 +208,6 @@ Download
 [Windows](https://about.webcatalog.io/en/desktop/windows/)
 
 [Linux](https://about.webcatalog.io/en/desktop/linux/)
-
-Explore
-
-[Apps](https://about.webcatalog.io/en/apps/)
-
-[Games](https://about.webcatalog.io/en/games/)
-
-[Categories](https://about.webcatalog.io/en/categories/)
-
-[Submit New App](https://about.webcatalog.io/en/apps/submit/)
 
 Support
 
@@ -248,6 +248,10 @@ WebCatalog is part of the [WebCatalog](https://about.webcatalog.io/en/about/) fa
 [WebCatalog
 
 WebCatalog](https://about.webcatalog.io/en/)
+
+[WebCatalog
+
+WebCatalog Desktop](https://about.webcatalog.io/en/desktop/)
 
 [Singlebox
 
