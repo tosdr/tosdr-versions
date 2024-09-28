@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Creativity
+
+### In ‘The Wild Robot,’ a five-star fable for our AI age](https://www.csmonitor.com/The-Culture/Movies/2024/0927/the-wild-robot-lupita-nyongo "In ‘The Wild Robot,’ a five-star fable for our AI age")
+
 [Community
 
 ### Five comedians walk into a barbershop. Why secret shows are selling out worldwide.](https://www.csmonitor.com/The-Culture/2024/0927/dont-tell-comedy-gen-z "Five comedians walk into a barbershop. Why secret shows are selling out worldwide.")
@@ -99,10 +103,6 @@ Recent Stories
 [Equality
 
 ### Equality as ‘birthright’ in Myanmar](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0927/Equality-as-birthright-in-Myanmar "Equality as ‘birthright’ in Myanmar")
-
-[Peace
-
-### Fluency, curiosity, and a bike: Letting Taiwan tell its own story](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2433 "Fluency, curiosity, and a bike: Letting Taiwan tell its own story")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 26, 2024
+September 27, 2024
 
-Eyes on a power surprise
+Look for the thought behind the news
 
-Green hydrogen from seawater and scrap aluminum?The best innovations help with two or more problems at once. They utilize what’s at hand. In today’s Points of Progress column we land on the work of researchers trying to create a clean option for maritime fuel, which is notoriously polluting.Could the discovery decarbonize heavy industry, or power homes, as the global need for energy rises? We’ll see. But it’s a Monitor hallmark to note credible wins, even nascent ones. And the turning of ocean-going vessels into old-school settings for the future of power generation represents a step worth watching.
+Story Hinckley does something important in her article today. She looks not at an event or an idea, but at a trend in thought.Polls and research suggest a shift in how many American women view politics. Most news stories would summarize: “American women move left.” But it’s far more nuanced and interesting than that. The political change is one effect. The cause – the thought – is larger. Journalism that deals only with facts and events never gets to cause. Exploring changes in thought is one of the most powerful things journalism can do. Then, you’re not accumulating information, you’re gaining understanding. 
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
