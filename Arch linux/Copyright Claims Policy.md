@@ -3,10 +3,10 @@
 [Arch Linux Terms](https://wiki.archlinux.org/)
 -----------------------------------------------
 
-* [Code of Conduct](https://terms.archlinux.org/docs/code-of-conduct/)
-* [Privacy Policy](https://terms.archlinux.org/docs/privacy-policy/)
-* [Terms of Service](https://terms.archlinux.org/docs/terms-of-service/)
-* [Trademark Policy](https://terms.archlinux.org/docs/trademark-policy/)
+* [Code of Conduct](https://wiki.archlinux.org/docs/code-of-conduct/)
+* [Privacy Policy](https://wiki.archlinux.org/docs/privacy-policy/)
+* [Terms of Service](https://wiki.archlinux.org/docs/terms-of-service/)
+* [Trademark Policy](https://wiki.archlinux.org/docs/trademark-policy/)
 
  ![Menu](/svg/menu.svg)**Trademark Policy** ![Table of Contents](/svg/toc.svg)
 
@@ -122,7 +122,7 @@ _The Arch Linux trademark policy is published under the CC-BY-SA license, courte
 
 _The Trademark Policy has been originally developed on the Arch wiki, where [its history](https://wiki.archlinux.org/index.php?oldid=662699&date-range-to=2023-06-24&action=history) can be found. Later revisions of this document can be found in the [Arch Linux Service Agreements](https://gitlab.archlinux.org/archlinux/service-agreements) repository._
 
- [![Calendar](/svg/calendar.svg) June 23, 2023](https://gitlab.archlinux.org/archlinux/service-agreements/commit/e15503334ef665019ccd8a502ff9619f49f26164 "Last modified by Christian Heusel | June 23, 2023")
+ [![](/svg/calendar.svg) June 23, 2023](https://gitlab.archlinux.org/archlinux/service-agreements/commit/e15503334ef665019ccd8a502ff9619f49f26164 "Last modified by Christian Heusel | June 23, 2023")
 
 * [1\. The Trademarks](#_the_trademarks)
 * [2\. Permitted Use](#_permitted_use)
