@@ -1,13 +1,13 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZvgHFQoAAVAAAABb34Y)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZvhbiwoAAVAAAABbhC4)
 
 Es noticia
 
-* [Puigdemont](https://www.elmundo.es/cataluna/2024/09/28/66f6ecade9cf4a74748b459f.html)
+* [Nasrala](https://www.elmundo.es/internacional/2024/09/28/66f7ba41fc6c83927a8b4580.html)
+* [Osasuna - Barcelona](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/osasuna-barcelona/2024/09/28/01_0101_20240928_450_178-directo.html)
 * [Alvise](https://www.elmundo.es/espana/2024/09/27/66f6ffd021efa03c3d8b4586.html)
-* [Mireia Oriol](https://www.elmundo.es/yodona/actualidad/2024/09/28/66f3fa3dfc6c83b16c8b45bb.html)
-* [Líbano](https://www.elmundo.es/internacional/2024/09/28/66f73e86e9cf4a75748b45b1.html)
+* [Puigdemont](https://www.elmundo.es/cataluna/2024/09/28/66f6ecade9cf4a74748b459f.html)
+* [Kapital](https://www.elmundo.es/madrid/2024/09/28/66f6f282e9cf4a882a8b45ad.html)
 * [Vinicius](https://www.elmundo.es/deportes/futbol/primera-division/2024/09/27/66f6c93efc6c83ff338b45bb.html)
-* [Pickleball](https://www.elmundo.es/deportes/mas-deporte/2024/09/27/66f6a023e9cf4ac8058b459f.html)
 * [Calvicie China](https://www.elmundo.es/ciencia-y-salud/salud/2024/09/27/66f57a9afdddff26578b45c3.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/09/28/66f79a3941c601002421d364-directo.html)
 * [Playa más popular](https://www.elmundo.es/viajes/espana/2024/09/28/66f549a4fdddff3f448b45b2.html)
