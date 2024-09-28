@@ -324,6 +324,6 @@ Later
 
 ##### Story Language:
 
- English Chinese (中文)  Indonesian (Bahasa Indonesia)  Malay (Bahasa Melayu)  Tagalog  Vietnamese (tiếng Việt) Other 
+ English Chinese (中文)  Indonesian (Bahasa Indonesia)  Malay (Bahasa Melayu)  Tagalog  Vietnamese (tiếng Việt)  German (Deutsch)  Spanish (Español)  French (Français) Other 
 
 Update
