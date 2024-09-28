@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Mayor Adams’ chief adviser Ingrid Lewis-Martin has phone seized at airport](https://nypost.com/2024/09/27/us-news/mayor-adams-chief-adviser-ingrid-lewis-martin-has-phone-seized-at-airport/)
-
 Terms Of Use
 ============
 
