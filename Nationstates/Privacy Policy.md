@@ -34,11 +34,8 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Hot or Cold: BN/BU Edition (1,179)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,179 posts)")
-* [Guess The AN Ideology based on their… (1,591)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (1,591 posts)")
-* [Ukrainian War VII: Everything has a p… (5,716)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,716 posts)")
-* [Revenge of Rate the Song above you (6,952)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (6,952 posts)")
-* [Canadian Politics (6,500)](https://forum.nationstates.net/viewtopic.php?t=467837&f=20&view=unread#unread ""Canadian Politics" (6,500 posts)")
+* [Is AN pro-Palestine or pro-Israel? (996)](https://forum.nationstates.net/viewtopic.php?t=551641&f=25&view=unread#unread ""Is AN pro-Palestine or pro-Israel?" (996 posts)")
+* [Change a Letter (2,079)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,079 posts)")
 
 Advertisement
 
