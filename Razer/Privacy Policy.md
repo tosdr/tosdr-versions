@@ -1439,7 +1439,7 @@ Your Cart is empty.
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
 * [Log In](#)
 
-For a limited time, all orders will enjoy free shipping to the United States. [Shop Now \>](https://www.razer.com/store)
+From Sep 28 to Oct 5 2024, earn up to 150K bonus Razer Silver with your purchases as a RazerStore Rewards member. [Join Now For Free \>](https://www.razer.com/razercon)
 
 RAZER CUSTOMER PRIVACY POLICY
 =============================
