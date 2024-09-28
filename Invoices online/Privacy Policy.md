@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=212899488)  
-van Schaik rentals
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=158601698)  
+Kara Medical (Pty) Ltd
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=213028355)  
-NJR ICT Services (Pty) Ltd
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=161064104)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=157272736)  
-Meyer Towing & Recovery
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=22602733)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=46064662)  
-VA AND M BUSINESSES (PTY)LTD
-
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=100758051)  
-IEMS (PTY) ltd
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=75857278)  
-Wiselink Broadband Dundee
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=111569284)  
-Echo Recording Studio cc
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=114560390)  
-United Paintball Federation
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=13543868)  
-VerdanTech Pty Ltd
-
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=145960799)  
-Moving Made Easy (PTY) Ltd
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=55075089)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=92974778)  
-Little Nutty Professors
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=67435675)  
-Mtunzini Group
-
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=180389345)  
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=43259440)  
 VA AND M DEBT-AID (PTY) LTD
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b03c013ca588a86f6476ee4a7abddd566d7edef6cfbddcc6e9578e79e84456f1&c=19215223)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=35269996)  
+Mtunzini Group
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=52960932)  
+SR Travel Services
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=124232178)  
+Wiselink Broadband Dundee
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=35596383)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=52999729)  
+MSPCloud (Pty) Ltd
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=66583108)  
+Nogana Events and Decor
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=4087485)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=167463395)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=203126240)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=9836731)  
+kidoscabbie
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=30a7bd056ad309f026b6bb4adde985e7040f19ebdb14dbabb62ef57ad319e553&c=191765800)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
