@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![An Iconic 'Boss Baby' Tweet Birthed The Perfect Roast Of Uninformed Criticism](https://i.kym-cdn.com/featured_items/icons/wide/000/026/049/bvb.jpg "[Only Knows One Meme] Getting A Lot Of 'Getting A Lot Of Boss Baby Vibes' Vibes From This")
+* [![God Gives His Hardest Battles To His Best Know Your Meme Commenters In This Format](https://i.kym-cdn.com/featured_items/icons/wide/000/026/065/8675309.jpg "The Idea That 'God Gives His Hardest Battles To His Strongest Soldiers' Began Spreading Online On This Day In 2009")
     
-    \[Only Knows One Meme\] Getting A Lot Of 'Getting A Lot Of Boss Baby Vibes' Vibes From This](https://knowyourmeme.com/memes/getting-a-lot-of-boss-baby-vibes-from-this)
+    The Idea That 'God Gives His Hardest Battles To His Strongest Soldiers' Began Spreading Online On This Day In 2009](https://knowyourmeme.com/memes/god-gives-his-hardest-battles-to-his-strongest-soldiers)
     
-* [![Ships Between 'The Nervous, Wholesome One' And 'The Calm, Saucy One' Become Fan Art Material In This Template](https://i.kym-cdn.com/featured_items/icons/wide/000/026/048/wholesome_vs_lewd.jpg "Ships Between 'The Nervous, Wholesome One' And 'The Calm, Saucy One' Become Fan Art Material In This Template")
+* [![Twitter Users Are Sharing Life's 'Joys' In Weirdly Wholesome NKYS Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/064/nkycover.jpg "Twitter Users Are Sharing Life's 'Joys' In Weirdly Wholesome NKYS Trend")
     
-    Ships Between 'The Nervous, Wholesome One' And 'The Calm, Saucy One' Become Fan Art Material In This Template](https://knowyourmeme.com/memes/wild-one-vs-soft-one-dynamic-ship)
+    Twitter Users Are Sharing Life's 'Joys' In Weirdly Wholesome NKYS Trend](https://knowyourmeme.com/memes/never-kill-yourself)
     
-* [!['BFs' Are Getting Baked Into Cookies In Latest Redraw Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/047/baking_a_cookie.jpg "'BFs' Are Getting Baked Into Cookies In Latest Redraw Trend")
+* [![TikTok Chad Face](https://i.kym-cdn.com/featured_items/icons/wide/000/026/063/chadface.jpg "This Particular 'Chad Face' Turns Four Years Old Today")
     
-    'BFs' Are Getting Baked Into Cookies In Latest Redraw Trend](https://knowyourmeme.com/memes/baking-my-long-distance-bf-into-a-cookie-because-i-miss-him)
+    This Particular 'Chad Face' Turns Four Years Old Today](https://knowyourmeme.com/memes/chad-face)
     
-* [![Duke Dennis Eating Grapes, also known as 🥷's Tryna Look Cool Doing Anything or POV: Dudes Will Do Anything To Look Cool, refers to a TikTok trend parodying a viral video showing Twitch streamer and YouTuber Duke Dennis shaking his grapes like dice before eating them. In August and September 2024, the clip inspired a trend in which teens satirized behavioral quirks employed by men to give off a suave, nonchalant and cool vibe.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/046/tryna_look_cool_doin_anything.jpg "Duke Dennis Rolling Grapes In His Hand Inspires A TikTok Trend About The Lengths Men Will Go To Look Cool")
+* [!['The Storyteller' Has Become A Staple In The 'Fallout' Fandom](https://i.kym-cdn.com/featured_items/icons/wide/000/026/062/storyteller.jpg "The Voice Behind The Fallout Content Creator 'The Storyteller' Sadly Declared Dead, Leaving A Large Legacy Behind")
     
-    Duke Dennis Rolling Grapes In His Hand Inspires A TikTok Trend About The Lengths Men Will Go To Look Cool](https://knowyourmeme.com/memes/duke-dennis-eating-grapes-%F0%9F%A5%B7s-will-do-anything-to-look-cool)
+    The Voice Behind The Fallout Content Creator 'The Storyteller' Sadly Declared Dead, Leaving A Large Legacy Behind](https://knowyourmeme.com/memes/subcultures/the-storyteller)
     
-* [![Years After The Movie's Release, This 'Ice Age' Quote Became A Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/045/1.jpg "Years After The Movie's Release, This 'Ice Age' Quote Became A Meme")
+* [![ 'Whole House Mad:' Chaotic Picture Becomes Viral Reaction Meme Among Fandoms On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/061/whole_house_mad_cover.jpg " 'Whole House Mad:' Chaotic Picture Becomes Viral Reaction Meme Among Fandoms On Social Media")
     
-    Years After The Movie's Release, This 'Ice Age' Quote Became A Meme](https://knowyourmeme.com/memes/were-you-killed-sadly-yes-but-i-lived)
+    'Whole House Mad:' Chaotic Picture Becomes Viral Reaction Meme Among Fandoms On Social Media](https://knowyourmeme.com/memes/whole-house-mad)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
