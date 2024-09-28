@@ -98,23 +98,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/3/csm_paulo_dantas_e_julia_brito_-_foto_reproducao_instagram_ef15e6f6c1.png)
-
-Saiba com quem
-
-Saiba com quem
-
-Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio
-
-Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio](https://www.tnh1.com.br/noticia/nid/governador-paulo-dantas-assume-novo-relacionamento-tres-meses-depois-de-divorcio/ "Governador Paulo Dantas assume novo relacionamento três meses depois de divórcio")[![Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_o-homem-foi-preso-apos-correr-armado-atras-do-adolescente-_foto_Reproducao_52720defe8.jpg)
-
-39 anos
-
-39 anos
-
-Empresário atira e persegue jovem por não aceitar namoro com sua filha
-
-Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://www.tnh1.com.br/noticia/nid/empresario-atira-e-persegue-jovem-por-nao-aceitar-namoro-com-sua-filha/ "Empresário atira e persegue jovem por não aceitar namoro com sua filha")[![Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_0245e4962b.jpeg)
+[![Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_0245e4962b.jpeg)
 
 CÉDULAS DE 100
 
@@ -122,7 +106,15 @@ CÉDULAS DE 100
 
 Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió
 
-Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://www.tnh1.com.br/noticia/nid/crime-eleitoral-pf-apreende-r-500-mil-em-especie-no-bairro-de-ponta-verde-em-maceio/ "Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió")[![Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_justin-sean-reproducao-youtube_816e9dcece.jpg)
+Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://www.tnh1.com.br/noticia/nid/crime-eleitoral-pf-apreende-r-500-mil-em-especie-no-bairro-de-ponta-verde-em-maceio/ "Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió")[![Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_o-homem-foi-preso-apos-correr-armado-atras-do-adolescente-_foto_Reproducao_52720defe8.jpg)
+
+39 anos
+
+39 anos
+
+Empresário atira e persegue jovem por não aceitar namoro com sua filha
+
+Empresário atira e persegue jovem por não aceitar namoro com sua filha](https://www.tnh1.com.br/noticia/nid/empresario-atira-e-persegue-jovem-por-nao-aceitar-namoro-com-sua-filha/ "Empresário atira e persegue jovem por não aceitar namoro com sua filha")[![Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/6/csm_justin-sean-reproducao-youtube_816e9dcece.jpg)
 
 amigo pessoal
 
@@ -130,41 +122,49 @@ amigo pessoal
 
 Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso
 
-Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://www.tnh1.com.br/noticia/nid/caso-diddy-os-bastidores-da-relacao-de-justin-bieber-com-o-rapper-preso/ "Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso")
+Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso](https://www.tnh1.com.br/noticia/nid/caso-diddy-os-bastidores-da-relacao-de-justin-bieber-com-o-rapper-preso/ "Caso Diddy: os bastidores da relação de Justin Bieber com o rapper preso")[![Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/e/csm_homem-rosto-desfigurado-restaurante-reproducao_59ce816e02.jpg)
 
-[![Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/5/csm_pelopes-do-3-batalhao-da-pm-al-prende-suspeito-de-homicidio-em-arapiraca_9221e9fbfc.jpeg)
+EM LONDRES
 
-Polícia
+EM LONDRES
 
-Polícia
+Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado
 
-Suspeito de matar homem em posto de combustível é preso em Arapiraca
+Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado](https://www.tnh1.com.br/noticia/nid/homem-com-condicao-genetica-rara-diz-que-foi-expulso-de-restaurante-por-causa-de-rosto-desfigurado/ "Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado ")
 
-Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustivel-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustível é preso em Arapiraca")[![Vídeo: réu foge de bicicleta após audiência e é atropelado por policial](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_preso-foge-bicicleta-reproducao_be17adba03.jpg)
+[![Entenda o que é “chroming” e por que ele é prejudicial para a saúde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_esmalte-droga-inalacao-reproducao-freepik_2057dfc783.png)
 
-EM MG
+efeito colateral
 
-EM MG
+efeito colateral
 
-Vídeo: réu foge de bicicleta após audiência e é atropelado por policial
+Entenda o que é “chroming” e por que ele é prejudicial para a saúde
 
-Vídeo: réu foge de bicicleta após audiência e é atropelado por policial](https://www.tnh1.com.br/noticia/nid/video-reu-foge-de-bicicleta-apos-audiencia-e-e-atropelado-por-policial/ "Vídeo: réu foge de bicicleta após audiência e é atropelado por policial")[![Zagueiro do Atlético-MG revela ter crises de ansiedade: "Vivo a base de remédios"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/c/csm_Lyanco_-_foto_Pedro_Souza_-_Atletico_MG_1292681387.jpg)
+Entenda o que é “chroming” e por que ele é prejudicial para a saúde](https://www.tnh1.com.br/noticia/nid/entenda-o-que-e-chroming-e-por-que-ele-e-prejudicial-para-a-saude/ "Entenda o que é “chroming” e por que ele é prejudicial para a saúde")[![E a sogra, hein? Algumas dicas para transformar o ranço em amizade](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/f/csm_relacao-sogra-nora-freepik_e6dbcc0035.jpg)
 
-desabafo
+boa relação
 
-desabafo
+boa relação
 
-Zagueiro do Atlético-MG revela ter crises de ansiedade: "Vivo a base de remédios"
+E a sogra, hein? Algumas dicas para transformar o ranço em amizade
 
-Zagueiro do Atlético-MG revela ter crises de ansiedade: "Vivo a base de remédios"](https://www.tnh1.com.br/noticia/nid/zagueiro-do-atletico-mg-revela-ter-crises-de-ansiedade-vivo-a-base-de-remedios/ "Zagueiro do Atlético-MG revela ter crises de ansiedade: "Vivo a base de remédios"")[![Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/4/csm_Cartucho_arma_caso_Ana_Beatriz_-_foto_Reproducao_TV_Pajucara_e68ba4ade3.jpg)
+E a sogra, hein? Algumas dicas para transformar o ranço em amizade](https://www.tnh1.com.br/noticia/nid/e-a-sogra-hein-algumas-dicas-para-transformar-o-ranco-em-amizade/ "E a sogra, hein? Algumas dicas para transformar o ranço em amizade")[![Massa salarial dos trabalhadores atinge recorde em agosto, diz IBGE](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/1/csm_industrias_fabricas_de_motocicletas_industrias_fabricas_santos_fc2610100917_97da679998.jpg)
 
-investigação
+nível de ocupação
 
-investigação
+nível de ocupação
 
-Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas
+Massa salarial dos trabalhadores atinge recorde em agosto, diz IBGE
 
-Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://www.tnh1.com.br/noticia/nid/arma-do-caso-ana-beatriz-pode-ter-sido-utilizada-contra-outras-oito-vitimas/ "Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas")
+Massa salarial dos trabalhadores atinge recorde em agosto, diz IBGE](https://www.tnh1.com.br/noticia/nid/massa-salarial-dos-trabalhadores-atinge-recorde-em-agosto-diz-ibge/ "Massa salarial dos trabalhadores atinge recorde em agosto, diz IBGE")[![Por que o lado 'sujo' de um furacão pode ser até 50% mais forte que o lado 'limpo'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/3/csm_furacao-helene-reproducao-administracao-oceanica-atmosferica-nacional_347ba29eea.jpg)
+
+tempestades tropicais
+
+tempestades tropicais
+
+Por que o lado 'sujo' de um furacão pode ser até 50% mais forte que o lado 'limpo'
+
+Por que o lado 'sujo' de um furacão pode ser até 50% mais forte que o lado 'limpo'](https://www.tnh1.com.br/noticia/nid/por-que-o-lado-sujo-de-um-furacao-pode-ser-ate-50-mais-forte-que-o-lado-limpo/ "Por que o lado 'sujo' de um furacão pode ser até 50% mais forte que o lado 'limpo'")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
