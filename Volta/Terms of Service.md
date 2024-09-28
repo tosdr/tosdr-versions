@@ -1,44 +1,24 @@
 [Skip to content](#main)
 
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
-
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
-
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
-
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
-
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
-
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
-
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
-
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
-
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
-
-[🎉 The Charging Revolution is Here | Volta Max Cable](https://www.voltacharger.com/pages/max-cable)
-
-[🚚 Free shipping for orders above $100!](https://www.voltacharger.com/collections/eofy-sale)
+[🎉 6 Connections, 1 Cable, 0 Worries | Volta Max 240W Cable](https://www.voltacharger.com/pages/max-cable)
 
 Open navigation menu [Open search](https://voltacharger.com/search)
 
