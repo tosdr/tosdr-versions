@@ -6,6 +6,11 @@ top of page
 * [Products](https://www.team-cymru.com/products)
     
     * [Threat Intelligence Solutions](https://www.team-cymru.com/threat-intelligence-solutions)
+        
+        * [Pure Signal Recon](https://www.team-cymru.com/cyber-threat-hunting-tools)
+        * [Pure Signal Scout](https://www.team-cymru.com/threat-intelligence-platform)
+        * [Pure Signal Scout Insight](https://www.team-cymru.com/ip-address-lookup-scout-insight)
+        
     * [Attack Surface Management](https://www.team-cymru.com/attack-surface-management-tools)
     * [Threat Feeds](https://www.team-cymru.com/threat-feeds)
     
@@ -411,7 +416,7 @@ PRODUCTS
 
 [Pure Signal™ Recon](https://www.team-cymru.com/cyber-threat-hunting-tools)
 
-[Pure Signal™ Scout](https://www.team-cymru.com/pure-signal-scout)
+[Pure Signal™ Scout](https://www.team-cymru.com/)
 
 [Pure Signal™ Orbit](https://www.team-cymru.com/)
 
