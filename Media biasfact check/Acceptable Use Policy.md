@@ -73,11 +73,11 @@
 
 MBFC News
 
-* [September 17, 2024 | Meta Bans Russian State Media from Its Platforms](https://mediabiasfactcheck.com/2024/09/17/meta-bans-russian-state-media-from-its-platforms/ "Meta Bans Russian State Media from Its Platforms")
-* [September 17, 2024 | MBFC’s Daily Vetted Fact Checks for 09/17/2024](https://mediabiasfactcheck.com/2024/09/17/mbfcs-daily-vetted-fact-checks-for-09-17-2024/ "MBFC’s Daily Vetted Fact Checks for 09/17/2024")
-* [September 16, 2024 | MBFC’s Daily Vetted Fact Checks for 09/16/2024](https://mediabiasfactcheck.com/2024/09/16/mbfcs-daily-vetted-fact-checks-for-09-16-2024/ "MBFC’s Daily Vetted Fact Checks for 09/16/2024")
-* [September 15, 2024 | MBFC’s Daily Vetted Fact Checks for 09/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/15/mbfcs-daily-vetted-fact-checks-for-09-15-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 09/15/2024 (Weekend Edition)")
-* [September 14, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 8th – Sep 14th](https://mediabiasfactcheck.com/2024/09/14/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-sep-8th-sep-14th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 8th – Sep 14th")
+* [September 28, 2024 | MBFC’s Daily Vetted Fact Checks for 09/28/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/28/mbfcs-daily-vetted-fact-checks-for-09-28-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 09/28/2024 (Weekend Edition)")
+* [September 27, 2024 | Smartmatic and Newsmax Settle Defamation Lawsuit](https://mediabiasfactcheck.com/2024/09/27/smartmatic-and-newsmax-settle-defamation-lawsuit/ "Smartmatic and Newsmax Settle Defamation Lawsuit")
+* [September 27, 2024 | MBFC’s Daily Vetted Fact Checks for 09/27/2024](https://mediabiasfactcheck.com/2024/09/27/mbfcs-daily-vetted-fact-checks-for-09-27-2024/ "MBFC’s Daily Vetted Fact Checks for 09/27/2024")
+* [September 26, 2024 | MBFC’s Daily Vetted Fact Checks for 09/26/2024](https://mediabiasfactcheck.com/2024/09/26/mbfcs-daily-vetted-fact-checks-for-09-26-2024/ "MBFC’s Daily Vetted Fact Checks for 09/26/2024")
+* [September 25, 2024 | (Media News) Alex Jones’ Infowars to be Auctioned Off to Pay $1 Billion Sandy Hook Judgment](https://mediabiasfactcheck.com/2024/09/25/media-news-alex-jones-infowars-to-be-auctioned-off-to-pay-1-billion-sandy-hook-judgment/ "(Media News) Alex Jones’ Infowars to be Auctioned Off to Pay $1 Billion Sandy Hook Judgment")
 
 Search for:  
 
@@ -104,10 +104,6 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 **or**
 
 **[MBFC Donation](https://mediabiasfactcheck.com/support-media-bias-fact-check/)**
-
-**or**
-
-**[Crypto Donation](https://commerce.coinbase.com/checkout/8f8323b9-0605-45f6-8e02-c2a69e3d1bb5)**
 
 * * *
 
@@ -141,74 +137,74 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
-* [Frontiers in Global Women’s Health – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-global-womens-health-bias/)
+* [Illawarra Mercury – Bias and Credibility](https://mediabiasfactcheck.com/illawarra-mercury-bias/)
     
-    September 17, 2024
+    September 27, 2024
     
-* [The Mighty – Bias and Credibility](https://mediabiasfactcheck.com/the-mighty-bias-and-credibility/)
+* [Energy, Sustainability and Society Journal – Bias and Credibility](https://mediabiasfactcheck.com/energy-sustainability-and-society-journal-bias/)
     
-    September 16, 2024
+    September 27, 2024
     
-* [Iosco County News-Herald – Bias and Credibility](https://mediabiasfactcheck.com/iosco-county-news-herald-bias/)
+* [Plymouth Pilot-News – Bias and Credibility](https://mediabiasfactcheck.com/plymouth-pilot-news-bias/)
     
-    September 16, 2024
+    September 27, 2024
     
-* [The Mirror U.S. – Bias and Credibility](https://mediabiasfactcheck.com/the-mirror-u-s-bias-and-credibility/)
+* [WSAU – 550 AM – Wausau – Bias and Credibility](https://mediabiasfactcheck.com/wsau-550-am-wausau-bias/)
     
-    September 16, 2024
+    September 26, 2024
     
-* [The Local (Germany) – Bias and Credibility](https://mediabiasfactcheck.com/the-local-germany-bias/)
+* [Keystone Today – Bias and Credibility](https://mediabiasfactcheck.com/keystone-today-bias/)
     
-    September 16, 2024
+    September 26, 2024
     
-* [Glengariff Group – Bias and Credibility](https://mediabiasfactcheck.com/glengariff-group-bias-and-credibility/)
+* [Sightline Institute – Bias and Credibility](https://mediabiasfactcheck.com/sightline-institute-bias-and-credibility/)
     
-    September 16, 2024
+    September 26, 2024
     
-* [Statehouse News Bureau – Bias and Credibility](https://mediabiasfactcheck.com/statehouse-news-bureau-bias-and-credibility/)
+* [WCAI – NPR – Woods Hole – Bias and Credibility](https://mediabiasfactcheck.com/wcai-npr-woods-hole-bias/)
     
-    September 15, 2024
+    September 26, 2024
     
-* [Bendigo Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/bendigo-advertiser-bias/)
+* [St Albans Review – Bias and Credibility](https://mediabiasfactcheck.com/st-albans-review-bias/)
     
-    September 15, 2024
+    September 25, 2024
     
 
 #### Recently Updated Pages
 
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - September 17, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - September 27, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - September 17, 2024
+* [Illawarra Mercury – Bias and Credibility](https://mediabiasfactcheck.com/illawarra-mercury-bias/ "View Illawarra Mercury – Bias and Credibility") - September 27, 2024
     
-* [Frontiers in Global Women’s Health – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-global-womens-health-bias/ "View Frontiers in Global Women’s Health – Bias and Credibility") - September 17, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - September 27, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - September 16, 2024
+* [Energy, Sustainability and Society Journal – Bias and Credibility](https://mediabiasfactcheck.com/energy-sustainability-and-society-journal-bias/ "View Energy, Sustainability and Society Journal – Bias and Credibility") - September 27, 2024
     
-* [The Mighty – Bias and Credibility](https://mediabiasfactcheck.com/the-mighty-bias-and-credibility/ "View The Mighty – Bias and Credibility") - September 16, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - September 27, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - September 16, 2024
+* [Plymouth Pilot-News – Bias and Credibility](https://mediabiasfactcheck.com/plymouth-pilot-news-bias/ "View Plymouth Pilot-News – Bias and Credibility") - September 27, 2024
     
-* [Iosco County News-Herald – Bias and Credibility](https://mediabiasfactcheck.com/iosco-county-news-herald-bias/ "View Iosco County News-Herald – Bias and Credibility") - September 16, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - September 27, 2024
     
-* [The Mirror U.S. – Bias and Credibility](https://mediabiasfactcheck.com/the-mirror-u-s-bias-and-credibility/ "View The Mirror U.S. – Bias and Credibility") - September 16, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - September 26, 2024
     
-* [The Local (Germany) – Bias and Credibility](https://mediabiasfactcheck.com/the-local-germany-bias/ "View The Local (Germany) – Bias and Credibility") - September 16, 2024
+* [WSAU – 550 AM – Wausau – Bias and Credibility](https://mediabiasfactcheck.com/wsau-550-am-wausau-bias/ "View WSAU – 550 AM – Wausau – Bias and Credibility") - September 26, 2024
     
-* [Glengariff Group – Bias and Credibility](https://mediabiasfactcheck.com/glengariff-group-bias-and-credibility/ "View Glengariff Group – Bias and Credibility") - September 16, 2024
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - September 26, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
-* [Big Village Polling - Bias and Credibility](https://mediabiasfactcheck.com/big-village-polling-bias-and-credibility/)
+* [Morning Consult - Bias and Credibility](https://mediabiasfactcheck.com/morning-consult/)
+* [MBFC's Daily Vetted Fact Checks for 09/27/2024](https://mediabiasfactcheck.com/2024/09/27/mbfcs-daily-vetted-fact-checks-for-09-27-2024/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [MBFC's Daily Vetted Fact Checks for 09/16/2024](https://mediabiasfactcheck.com/2024/09/16/mbfcs-daily-vetted-fact-checks-for-09-16-2024/)
-* [TFPP Wire - Bias and Credibility](https://mediabiasfactcheck.com/tfpp-wire-bias/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Search](https://mediabiasfactcheck.com/search/)
+* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 
 #### Subscribe via Email
 
