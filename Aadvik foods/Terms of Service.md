@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)             
+![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)           
 
-           
+          
 
 [Skip to content](#MainContent)
 
@@ -130,7 +130,7 @@ Check out
 
 Continue shopping
 
-           
+             
 
 [![cow colostrum with vitamin d3](https://ucarecdn.com/bcbf385c-7e91-47a8-b02e-40cf92f5065e/-/format/auto/-/preview/3000x3000/-/quality/lighter/WhatsApp%20Image%202023-11-08%20at%205.01.37%20PM.jpeg)](https://aadvikfoods.com/products/cow-colostrum-powder)
 
@@ -139,11 +139,8 @@ White Gold of Desert - Camel Milk
 
 Long revered as the "white gold" of the desert, camel milk offers a taste of resilience and tradition. Nomadic cultures have cherished this unique beverage for centuries, and now, its unique properties are captivating the world. Dive deeper to discover the secrets of camel milk and explore its surprisingly versatile uses.
 
-Pure and Natural
-================
-
-Goat Milk Ghee
-==============
+Our Products
+============
 
 [![Goat Milk Powder | Pure & Natural | 200g](//aadvikfoods.com/cdn/shop/files/Revised_Images3_2048x2048.jpg?v=1719209311)](https://aadvikfoods.com/products/goat-milk-powder)
 
