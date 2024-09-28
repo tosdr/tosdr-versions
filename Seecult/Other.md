@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/sateni/slike-iz-ateljea-2011.jpg?itok=vf3U2nq0)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/sateni)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zorica-vasic/eden-box/man-black.jpg?itok=whum1g3x)](http://seecult.org/galerija/galerija-umetnika/zorica-vasic/eden-box)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nina.jpg?itok=89CAqSqB)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/type-o-negative-zec.jpg?itok=hJleyp14)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Joakimu Tasiću nagrada Miloš Žutić za 2023.](http://seecult.org/vest/joakimu-tasicu-nagrada-milos-zutic-za-2023)
 * [Borba za reproduktivna prava u Jugoslaviji i današnji kontekst](http://seecult.org/vest/borba-za-reproduktivna-prava-u-jugoslaviji-i-danasnji-kontekst)
 * [Svet u boji](http://seecult.org/vest/svet-u-boji)
 * [67\. Sajam knjiga - Reč je slobodna](http://seecult.org/vest/67-sajam-knjiga-rec-je-slobodna)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Kanski pobednik otvara 20. Slobodnu zonu](http://seecult.org/vest/kanski-pobednik-otvara-20-slobodnu-zonu)
 * [Perišić prvi laureat Otiska Gorana Paskaljevića](http://seecult.org/vest/perisic-prvi-laureat-otiska-gorana-paskaljevica)
 * [Medenica: Hrabro otvaranje 58. Bitefa](http://seecult.org/vest/medenica-hrabro-otvaranje-58-bitefa)
-* [Milo Rau: Recimo NE smrtonosnoj ideologiji današnjice](http://seecult.org/vest/milo-rau-recimo-ne-smrtonosnoj-ideologiji-danasnjice)
 
 * [Konkursi](#tab1_1)
 
