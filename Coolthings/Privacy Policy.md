@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-key-organizers-to-help-tidy-up-your-edc/)
+    
+    [The Best Key Organizers to Help Tidy Up Your EDC](https://www.coolthings.com/the-best-key-organizers-to-help-tidy-up-your-edc/)
+    --------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jayflex-hyperbell-cable-dumbbell-cable-machine-pullup-bar/)
     
     [Jayflex Hyperbell Cable Turns Any Pull-Up Bar into a Functional Cable Machine](https://www.coolthings.com/jayflex-hyperbell-cable-dumbbell-cable-machine-pullup-bar/)
@@ -52,11 +57,6 @@
     
     [Alienware Pro Headset Vows to Deliver Superior Directional Audio and Other eSport-Friendly Features](https://www.coolthings.com/alienware-pro-headset-esport-competitive-gaming-features/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/chirp-rpm-mini-rolling-percussive-massager-one-handed-kettlebell-form-factor/)
-    
-    [Chirp RPM Mini Turns the Massage Gun Into a One-Handed Foam Roller](https://www.coolthings.com/chirp-rpm-mini-rolling-percussive-massager-one-handed-kettlebell-form-factor/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
