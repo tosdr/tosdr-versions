@@ -20,16 +20,16 @@ Saturday, September 28 2024
 
 Latest
 
-* [Here's What You Get With a Meta Quest 3S Pre-Order](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
-* [Here’s How I Brought My Google Chrome Wallpapers to Life](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
-* [Tech leaders are ramping up IT modernization, but they’re wary of the potential productivity nosedive that comes with it](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
-* [Phishing Attacks on Australia Disguised as Atlassian](https://digitpatrox.com/phishing-attacks-on-australia-disguised-as-atlassian/)
-* [Georgia vs Alabama livestream: How to watch college football Week 5 game online from anywhere](https://digitpatrox.com/georgia-vs-alabama-livestream-how-to-watch-college-football-week-5-game-online-from-anywhere/)
-* [Arc browser adds security bulletins and bug bounties](https://digitpatrox.com/arc-browser-adds-security-bulletins-and-bug-bounties/)
-* [NYT Strands Today: Hints, Answers & Spangram for September 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-28/)
-* [How the oil and gas industry is using AI to maximize production](https://digitpatrox.com/how-the-oil-and-gas-industry-is-using-ai-to-maximize-production/)
-* [How much are companies willing to spend to get workers back to the office? – Computerworld](https://digitpatrox.com/how-much-are-companies-willing-to-spend-to-get-workers-back-to-the-office-computerworld/)
-* [Four Flu Shot Myths People Need to Stop Believing](https://digitpatrox.com/four-flu-shot-myths-people-need-to-stop-believing/)
+* [NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
+* [Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
+* [Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
+* [How to Lock Your Facebook Profile](https://digitpatrox.com/how-to-lock-your-facebook-profile/)
+* [HPE’s Aruba channel overhaul looks to “simplify” client engagement](https://digitpatrox.com/hpes-aruba-channel-overhaul-looks-to-simplify-client-engagement/)
+* [5 Online Payment Methods for Small Businesses To Try in 2024](https://digitpatrox.com/5-online-payment-methods-for-small-businesses-to-try-in-2024/)
+* [How to clean a Dyson filter](https://digitpatrox.com/how-to-clean-a-dyson-filter/)
+* [The messy WordPress drama, explained](https://digitpatrox.com/the-messy-wordpress-drama-explained/)
+* [NYT Connections Today: Hints and Answers for September 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-28-2024/)
+* [If I’d spent billions on fancy office spaces, I’d probably want staff working from them too – so let’s cut the tantrums over the ‘benefits’ of a full RTO](https://digitpatrox.com/if-id-spent-billions-on-fancy-office-spaces-id-probably-want-staff-working-from-them-too-so-lets-cut-the-tantrums-over-the-benefits-of-a-full-rt/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J8TM1BY58S393XYM1QWXZ4TK/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
+* [![](https://cdn.mos.cms.futurecdn.net/PPwiESmXvcJYfKmLgcfAKD-1200-80.jpg)](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
     
-    [Here's What You Get With a Meta Quest 3S Pre-Order](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
+    [NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
     
-    5 mins ago
+    12 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/a-close-up-of-a-laptop-screen-with-google-chrome-open-reloading-and-the-word-chrome-in-the-center.jpg)](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3542000-0-22136200-1727452354-caution-tape_avoid-mistake_mistakes_be-careful_crime-scene_by-christian-storto-fotografia-getty-100810209-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
     
-    [Here’s How I Brought My Google Chrome Wallpapers to Life](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
+    [Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
     
-    38 mins ago
+    35 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/t4RTPdAxuNoqKBooa7RUdj-1200-80.jpg)](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
+* [![](https://lifehacker.com/imagery/articles/01J7VA8BNN6P3YH4PD3K6MX2DY/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
     
-    [Tech leaders are ramping up IT modernization, but they’re wary of the potential productivity nosedive that comes with it](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
+    [Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/09/tr_20240927-phishing-attacks-australia-atlassian.jpg)](https://digitpatrox.com/phishing-attacks-on-australia-disguised-as-atlassian/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/phone-with-facebook-logo-and-some-emojis-around.jpg)](https://digitpatrox.com/how-to-lock-your-facebook-profile/)
     
-    [Phishing Attacks on Australia Disguised as Atlassian](https://digitpatrox.com/phishing-attacks-on-australia-disguised-as-atlassian/)
-    
-    2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/BsBjQv3eBbuJWaKpBnG26E-1200-80.png)](https://digitpatrox.com/georgia-vs-alabama-livestream-how-to-watch-college-football-week-5-game-online-from-anywhere/)
-    
-    [Georgia vs Alabama livestream: How to watch college football Week 5 game online from anywhere](https://digitpatrox.com/georgia-vs-alabama-livestream-how-to-watch-college-football-week-5-game-online-from-anywhere/)
+    [How to Lock Your Facebook Profile](https://digitpatrox.com/how-to-lock-your-facebook-profile/)
     
     2 hours ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/99q8FYxWZfyGywAkTPij5i-1200-80.jpg)](https://digitpatrox.com/hpes-aruba-channel-overhaul-looks-to-simplify-client-engagement/)
+    
+    [HPE’s Aruba channel overhaul looks to “simplify” client engagement](https://digitpatrox.com/hpes-aruba-channel-overhaul-looks-to-simplify-client-engagement/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 mins ago
+* [12 mins ago
     
-    ### Here's What You Get With a Meta Quest 3S Pre-Order](https://digitpatrox.com/heres-what-you-get-with-a-meta-quest-3s-pre-order/)
-* [38 mins ago
+    ### NetApp is on a mission to drive hybrid cloud adoption – but first, the data silos have got to go](https://digitpatrox.com/netapp-is-on-a-mission-to-drive-hybrid-cloud-adoption-but-first-the-data-silos-have-got-to-go/)
+* [35 mins ago
     
-    ### Here’s How I Brought My Google Chrome Wallpapers to Life](https://digitpatrox.com/heres-how-i-brought-my-google-chrome-wallpapers-to-life/)
-* [2 hours ago
+    ### Microsoft 365 Copilot rollouts slowed by data security, ROI concerns – Computerworld](https://digitpatrox.com/microsoft-365-copilot-rollouts-slowed-by-data-security-roi-concerns-computerworld/)
+* [1 hour ago
     
-    ### Tech leaders are ramping up IT modernization, but they’re wary of the potential productivity nosedive that comes with it](https://digitpatrox.com/tech-leaders-are-ramping-up-it-modernization-but-theyre-wary-of-the-potential-productivity-nosedive-that-comes-with-it/)
+    ### Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
 
 Most Popular Topics
 
-* [August 19, 2024
+* [4 weeks ago
     
-    ### How to format a USB drive as FAT32 on Windows](https://digitpatrox.com/how-to-format-a-usb-drive-as-fat32-on-windows/)
-* [August 16, 2024
+    ### Will Batman Appear in The Penguin Series?](https://digitpatrox.com/will-batman-appear-in-the-penguin-series/)
+* [1 week ago
     
-    ### How to use ChatGPT to analyze PDFs for free](https://digitpatrox.com/how-to-use-chatgpt-to-analyze-pdfs-for-free/)
-* [August 14, 2024
+    ### Most Reliable Fuel-Efficient New Midsized SUVs](https://digitpatrox.com/most-reliable-fuel-efficient-new-midsized-suvs/)
+* [3 weeks ago
     
-    ### Venture capital has a serious gender gap: Here’s how to fix it](https://digitpatrox.com/venture-capital-has-a-serious-gender-gap-heres-how-to-fix-it/)
+    ### You Can Now Edit DMs on X (Twitter); Here’s How to Do It](https://digitpatrox.com/you-can-now-edit-dms-on-x-twitter-heres-how-to-do-it/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-28/)
+    ### How to clean a Dyson filter](https://digitpatrox.com/how-to-clean-a-dyson-filter/)
 * [4 hours ago
     
-    ### How the oil and gas industry is using AI to maximize production](https://digitpatrox.com/how-the-oil-and-gas-industry-is-using-ai-to-maximize-production/)
-* [5 hours ago
+    ### The messy WordPress drama, explained](https://digitpatrox.com/the-messy-wordpress-drama-explained/)
+* [4 hours ago
     
-    ### How much are companies willing to spend to get workers back to the office? – Computerworld](https://digitpatrox.com/how-much-are-companies-willing-to-spend-to-get-workers-back-to-the-office-computerworld/)
+    ### NYT Connections Today: Hints and Answers for September 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-september-28-2024/)
 
 Most Viewed Topics
 
-* [August 28, 2024
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 21, 2024
+* [August 13, 2024
     
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
