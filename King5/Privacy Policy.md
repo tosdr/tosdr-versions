@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d4ede9f6-e963-4b69-92a7-5527741664c8/20240927T182934/d4ede9f6-e963-4b69-92a7-5527741664c8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d4ede9f6-e963-4b69-92a7-5527741664c8/20240927T182934/d4ede9f6-e963-4b69-92a7-5527741664c8_360x203.jpg)](https://www.king5.com/article/news/local/snl-premieres-jean-smart-first-time-host-seattle/281-1a9342fc-444b-4aff-b628-911059e1a61e)
+    *  [![](https://media.king5.com/assets/KING/images/766ca2c4-4ba8-41a1-a321-dc4d07b7a802/20240928T015037/766ca2c4-4ba8-41a1-a321-dc4d07b7a802_16x9.jpg) ![](https://media.king5.com/assets/KING/images/766ca2c4-4ba8-41a1-a321-dc4d07b7a802/20240928T015037/766ca2c4-4ba8-41a1-a321-dc4d07b7a802_360x203.jpg)](https://www.king5.com/article/news/local/skagit-county-to-curb-glass-recycling/281-c06eb936-69bf-4c10-b03a-d4ca5dffd109)
         
-        #### [She's a 6-time Emmy award winner from Seattle, and she's hosting SNL for the first time](https://www.king5.com/article/news/local/snl-premieres-jean-smart-first-time-host-seattle/281-1a9342fc-444b-4aff-b628-911059e1a61e)
+        #### [Lack of demand for recycled glass leads to change in rules](https://www.king5.com/article/news/local/skagit-county-to-curb-glass-recycling/281-c06eb936-69bf-4c10-b03a-d4ca5dffd109)
         
-    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/local/91-year-old-woman-killed-attacked-dogs/281-51998254-8a7e-480e-90f1-91cbd886555f)
+    *  [![](https://media.king5.com/assets/KING/images/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8/20240928T014117/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8/20240928T014117/f80b08b7-07ae-4bfb-b4dd-e07f4251afb8_360x203.jpg)](https://www.king5.com/article/news/crime/jerome-powel-jr-arrested-charged-impersonation-assault/281-8923fc14-aed1-4eea-b562-4e5add811459)
         
-        #### [91-year-old woman killed after being attacked by her own dogs in Chehalis](https://www.king5.com/article/news/local/91-year-old-woman-killed-attacked-dogs/281-51998254-8a7e-480e-90f1-91cbd886555f)
+        #### [Man charged after allegedly punching people inside Einstein Bros. Bagels](https://www.king5.com/article/news/crime/jerome-powel-jr-arrested-charged-impersonation-assault/281-8923fc14-aed1-4eea-b562-4e5add811459)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e6f22751-575c-4633-a0bd-1f5710e31797/20240927T201848/e6f22751-575c-4633-a0bd-1f5710e31797_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e6f22751-575c-4633-a0bd-1f5710e31797/20240927T201848/e6f22751-575c-4633-a0bd-1f5710e31797_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d5b6b77c-812f-4c5a-967a-a057d4cce1c9/20240928T012927/d5b6b77c-812f-4c5a-967a-a057d4cce1c9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5b6b77c-812f-4c5a-967a-a057d4cce1c9/20240928T012927/d5b6b77c-812f-4c5a-967a-a057d4cce1c9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/WXIA/images/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de/20240926T025714/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de/20240926T025714/d95fb912-3a1a-4c8d-bcec-6ee1d14e49de_360x203.jpg)](https://www.king5.com/article/weather/hurricane/helene-tracker-path-storm-projections/85-91abc06f-abef-4b7a-bbcf-0b3e01a8d458)
+    *  [![](https://media.king5.com/assets/CCT/images/d3c5e80d-6218-47ed-a10c-b1ad733976a6/20240928T013020/d3c5e80d-6218-47ed-a10c-b1ad733976a6_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/d3c5e80d-6218-47ed-a10c-b1ad733976a6/20240928T013020/d3c5e80d-6218-47ed-a10c-b1ad733976a6_360x203.jpg)](https://www.king5.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
         
-        #### [Helene tracker stream | Live radar, projected path](https://www.king5.com/article/weather/hurricane/helene-tracker-path-storm-projections/85-91abc06f-abef-4b7a-bbcf-0b3e01a8d458)
+        #### [Hurricane Helene kills at least 44 and cuts a swath of destruction across the Southeast](https://www.king5.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-64°
+60°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
