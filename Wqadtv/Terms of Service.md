@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/NCM/images/99e53302-7417-4cd4-9e31-3aab503bc767/99e53302-7417-4cd4-9e31-3aab503bc767_16x9.jpg) ![](https://media.tegna-media.com/assets/NCM/images/99e53302-7417-4cd4-9e31-3aab503bc767/99e53302-7417-4cd4-9e31-3aab503bc767_360x203.jpg)](https://www.wqad.com/article/news/local/driver-crashes-into-rural-galena-home-jo-daviess-county-sheriffs-office/526-100059e0-3004-4f7c-b275-1001274c4323)
+        
+        #### [Driver crashes into rural Galena home injuring 4, sheriff's office says](https://www.wqad.com/article/news/local/driver-crashes-into-rural-galena-home-jo-daviess-county-sheriffs-office/526-100059e0-3004-4f7c-b275-1001274c4323) [![](https://media.tegna-media.com/assets/NCM/images/99e53302-7417-4cd4-9e31-3aab503bc767/99e53302-7417-4cd4-9e31-3aab503bc767_16x9.jpg) ![](https://media.tegna-media.com/assets/NCM/images/99e53302-7417-4cd4-9e31-3aab503bc767/99e53302-7417-4cd4-9e31-3aab503bc767_360x203.jpg)](https://www.wqad.com/article/news/local/driver-crashes-into-rural-galena-home-jo-daviess-county-sheriffs-office/526-100059e0-3004-4f7c-b275-1001274c4323)
+        
+        #### [4 injured after driver crashes into rural Galena home, sheriff's office says](https://www.wqad.com/article/news/local/driver-crashes-into-rural-galena-home-jo-daviess-county-sheriffs-office/526-100059e0-3004-4f7c-b275-1001274c4323)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a9323193-78b2-41ca-898e-9fb59d4ca914/20240927T211508/a9323193-78b2-41ca-898e-9fb59d4ca914_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a9323193-78b2-41ca-898e-9fb59d4ca914/20240927T211508/a9323193-78b2-41ca-898e-9fb59d4ca914_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
         
         #### [6-year-old among 2 dead in Galesburg house fire](https://www.wqad.com/article/news/local/galesburg-fire-dead-fatal/526-26b2a87a-b910-4bb7-a6e8-8a64b63510f4)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/7dfc4932-eca9-480a-a3b5-cdaca99ee99c/20240927T215305/7dfc4932-eca9-480a-a3b5-cdaca99ee99c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7dfc4932-eca9-480a-a3b5-cdaca99ee99c/20240927T215305/7dfc4932-eca9-480a-a3b5-cdaca99ee99c_360x203.jpg)](https://www.wqad.com/article/news/local/as-seen-on-tv/project-now-hispanic-chamber-third-annual-block-party/526-f996b957-6bf7-4b39-9671-8351def0cb56)
-        
-        #### [QC Hispanic Chamber, Project NOW holding third annual block party](https://www.wqad.com/article/news/local/as-seen-on-tv/project-now-hispanic-chamber-third-annual-block-party/526-f996b957-6bf7-4b39-9671-8351def0cb56)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-74°
+64°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
