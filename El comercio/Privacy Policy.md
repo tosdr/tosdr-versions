@@ -31,6 +31,609 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+‘Robot Salvaje’ encuentra un vínculo entre la tecnología y la naturaleza
+========================================================================
+
+Esta cinta de animación, inspirada en la obra de Peter Brown, presenta a Roz, un robot náufrago en una isla desierta que debe aprender a sobrevivir entre animales.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+!['Robot Salvaje' nos sumerge en un universo donde la naturaleza y la tecnología se entrelazan de manera sorprendente.](https://www.elcomercio.com/wp-content/uploads/2024/09/Robot-Salvaje.jpg)
+
+**‘Robot Salvaje’** es una ‘pequeña’ obra de arte (visual). Y, además, su historia sostiene esa narración gráfica al punto que sea conmovedora.
+
+La película de animación es una adaptación de la novela gráfica [_‘The Wild Robot_‘ de **Peter Brown**.](https://es.wikipedia.org/wiki/Robot_salvaje) Cuando él comenzó su aventura, investigó la robótica, la **inteligencia artificial** y la vida animal. “Mientras investigaba estos temas, me di cuenta de que los instintos animales se parecen mucho a los programas informáticos”, asegura Brown. Según el autor, los animales tienen comportamientos que despliegan de forma automática. Robóticamente, podría decirse. Resulta que los robots y los animales tienen bastante en común, y darme cuenta de ello me inspiró a [escribir e ilustrar ‘Robot Salvaje’.](https://www.lahiguera.net/cinemania/pelicula/11113/comentario.php)
+
+La simbiosis entre una robot y un grupo de animales salvaje es el resultado del análisis de Brown. Roz, la robot, se da cuenta -por su inteligencia artificial- que los animales cumplen tareas por su instinto de supervivencia. Siguen, además, pasos (como si estuvieran programados en el tiempo) para alcanzar objetivos que les permita vivir.
+
+La trama sigue a **Roz**, un robot (unidad 7134) que naufraga en una isla deshabitada por humanos. A lo largo de su viaje, Roz debe adaptarse a su nuevo entorno, uno salvaje, y se forma lazos con los animales locales, incluido un ganso huérfano llamado **Brightbill**. A la aventura se une el zorro Fink, que es el cable a tierra o la conexión entre la inteligencia artificial de la unidad 7134 y la realidad de la isla.
+
+La reflexión de la inteligencia artificial
+------------------------------------------
+
+La película navega entre la dimensión visual y el relato de sus personajes. La amistad, la lealtad e incluso la maternidad potencian la historia, que está fundamentada en esa premisa expuesta por Brown: los animales y sus instintos cumplen patrones que la inteligencia artificial puede asumir. Desde ese punto de vista, el planteamiento abre una dimensión que va desde lo tecnológico hasta la evolución de las relaciones sociales mediante la lealtad y las emociones.
+
+Abre, sin duda, una conversación sobre qué pasará, en un futuro hipotético, si los robots reflexionan sobre el entorno y los comportamientos de los seres vivos. Ahora mismo, ya existe ese debate sobre el aprendizaje autónomo de la inteligencia artificial; sin embargo, ‘Robot Salvaje’ agarra la idea y convierte en una suerte de moraleja que va más allá de lo tecnológico.
+
+La cinta de animación es una historia conmovedora, también sobre la identidad, la amistad y la conexión con el mundo natural. Roz, en su búsqueda por encontrar su lugar en el mundo, enseña la importancia de la empatía, la adaptación y el valor de ser diferente. La película aborda temas profundos como la soledad, la pérdida y la aceptación de uno mismo, sin caer en el sentimentalismo excesivo.
+
+La relación que Roz establece con los animales de la isla es uno de los puntos fuertes de la narrativa. Cada uno de ellos aporta una perspectiva única. La amistad que Roz forja con un oso polar, un zorro ártico y un búho real es conmovedora y nos recuerda la importancia de las conexiones interpersonales, más allá de las diferencias de especie.
+
+La producción
+-------------
+
+**Robot Salvaje**, dirigida y escrita por **Chris Sanders**, está en cartelera  y es una adaptación de la aclamada novela gráfica _The Wild Robot_ de **Peter Brown**. Este largometraje animado, producido por **DreamWorks Animation** y distribuido por **Universal Pictures**. La dirección de Chris Sanders, conocido por su trabajo en ‘Lilo & Stitch’ y ‘Cómo entrenar a tu dragón’, asegura que esta obra no solo será accesible para los niños, sino también resonante para adultos, ofreciendo múltiples capas de significado.[](https://www.youtube.com/watch?v=WnXVXF3PV9I)
+
+### Más noticias:
+
+* [Netflix tiene un destello en su catálogo: ‘Rebel Ridge’](https://www.elcomercio.com/tendencias/cine/netflix-rebel-ridge-pelicula-rambo.html)
+* [‘La Sustancia’ y el retorno del horror corporal](https://www.elcomercio.com/tendencias/cine/la-sustancia-y-el-retorno-del-horror-corporal.html)
+* [‘Tipos de gentileza’ tiene tres historias distintas y un mismo elenco](https://www.elcomercio.com/afull/cine-y-series/tipos-gentileza-cines-critica.html)
+
+‘Robot Salvaje’ (Wild Robot)
+----------------------------
+
+**Director:** [Chris Sanders](https://en.wikipedia.org/wiki/Coralie_Fargeat)
+
+**Año:** 2024
+
+**Plataforma:** En cines
+
+**Calificación:** Muy buena
+
+Arroz con camarones, un plato sabroso y rápido para disfrutar en casa
+=====================================================================
+
+El sabor del mar en tu mesa con este plato lleno de tradición y frescura. ¡Comparte esta receta con tus amigos!
+---------------------------------------------------------------------------------------------------------------
+
+![Sorprende a tu familia con esta receta fácil y rápida, que te hará lucir como un chef profesional.](https://www.elcomercio.com/wp-content/uploads/2024/09/1.jpg)
+
+El **arroz con camarones ecuatoriano** es uno de los platos más representativos de la **gastronomía** de la costa de Ecuador. Este sabroso platillo combina el delicado sabor de los **camarones** frescos con el arroz, logrando un **equilibrio** perfecto entre lo **marinero** y lo **casero**. A menudo servido en reuniones familiares o como parte de un festín especial, su **preparación** incluye ingredientes básicos de la **cocina** **ecuatoriana**, como el achiote, cilantro y pimientos, que aportan color y un toque distintivo. Además, la versatilidad del **arroz** **con** **camarones** permite disfrutarlo solo o acompañado de **guarniciones** como plátano frito o ensaladas frescas. Anímate a preparar esta deliciosa **receta**. ¡Manos a la obra y dale un giro delicioso a tu cocina!
+
+Ingredientes
+------------
+
+2 tazas de arroz
+
+500 g de camarones frescos (pelados y limpios)
+
+1 cebolla colorada (picada en cubitos)
+
+1 pimiento verde (picado en cubitos)
+
+3 dientes de ajo (picados)
+
+2 tomates (pelados y picados)
+
+1 cucharada de achiote en polvo (o aceite de achiote)
+
+2 cucharadas de cilantro fresco (picado)
+
+1 cucharada de perejil fresco (picado)
+
+1 taza de caldo de camarón (puedes usar el agua de hervir las cáscaras de los camarones)
+
+1 cucharada de mantequilla
+
+2 cucharadas de aceite vegetal
+
+Sal y pimienta al gusto
+
+1 limón (para marinar los camarones)
+
+Opcional: 1 taza de arvejas cocidas o rodajas de plátano frito como acompañamiento
+
+* * *
+
+> El **arroz con camarones** es un plato típico de la costa ecuatoriana, lleno de sabor y tradición.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/3-1024x683.jpg)
+
+Con ingredientes frescos y un toque de especias, esta receta es perfecta para una comida reconfortante y deliciosa.
+
+Preparación de la receta del arroz con camarón
+----------------------------------------------
+
+* **Cocinar** el arroz como lo haces habitualmente, preferiblemente en agua con sal. Una vez listo, reserva.
+* En un tazón, **colocar** los camarones con jugo de limón, una pizca de sal y pimienta. Dejar reposar por unos 10 minutos.
+* En una sartén grande, **calentar** el aceite vegetal a fuego medio. Agregar la cebolla, el ajo y el pimiento. **Cocinar** por unos 5 minutos hasta que estén suaves y fragantes.
+* Incorporar el achiote en polvo y los tomates picados a la sartén. **Cocinar** a fuego lento hasta que los tomates se deshagan y formen una salsa espesa.
+* **Agregar** los camarones marinados a la sartén y cocinar por 3-5 minutos, hasta que se tornen rosados. No cocinar demasiado para evitar que se pongan duros.
+* Una vez los camarones estén listos, **añadir** el arroz cocido a la sartén junto con el caldo de camarón. **Mezclar** bien para que el arroz absorba los sabores. Cocinar a fuego bajo durante unos 5 minutos, revolver de vez en cuando.
+* **Apagar** el fuego y agregar la mantequilla, el cilantro y el perejil picado. Revolver bien para que la mantequilla se derrita y se integre en el arroz.
+* **Servir** el arroz con camarones caliente, acompañado de rodajas de plátano frito o arvejas cocidas si lo deseas. También puedes acompañarlo con una rodaja de limón para darle un toque fresco al momento de comer.
+
+Un buen consejo para **preparar** un delicioso **arroz con camarones** es cocinar los **camarones** rápidamente y a fuego medio-alto, apenas hasta que se tornen rosados. **Cocinarlos** demasiado tiempo puede hacer que queden duros y pierdan su jugosidad. Además, si usas las cáscaras de los **camarones** para hacer un caldo casero, el plato tendrá un sabor mucho más intenso y auténtico.
+
+¡Disfruta de este delicioso **arroz con camarones ecuatoriano** lleno de sabor y tradición!
+
+La salud y el bienestar en tiempos difíciles en Ecuador
+=======================================================
+
+La Organización Mundial de la Salud (OMS) resalta que la actividad física reduce los síntomas de la depresión y la ansiedad
+---------------------------------------------------------------------------------------------------------------------------
+
+![Caminar, montar en bicicleta o participar de actividades recreativas son opciones para aprovechar el fin de semana.](https://www.elcomercio.com/wp-content/uploads/2024/09/plantillas-manana-10-1.jpg)
+
+Después de días penosos marcados por la ola de incendios que ha asediado **Quito** y otras ciudades del país, el fin de semana se presenta como una válvula de escape necesaria.
+
+En un contexto de inseguridad, crisis económica y apagones, encontrar momentos de relajación es esencial para la **salud** mental y física de los **ecuatorianos.**
+
+> Ante los largos **cortes de luz** anunciados para este fin de semana, actividades al **aire libre** se convierten en una oportunidad ideal para desconectar de las preocupaciones diarias.
+
+Caminar en un parque, disfrutar del ciclopaseo dominical o pasar tiempo en una piscina son opciones que no solo ofrecen un respiro, sino que también promueven el bienestar general.
+
+La **AMT** confirmó que el **ciclopaseo** se mantendrá este domingo 29 de septiembre del 2024, lo cual es una excelente noticia para quienes buscan transportarse en **bicicleta** con mayor seguridad en la capital.
+
+El ejercicio regular no solo ayuda a combatir el sedentarismo, sino que también está estrechamente relacionado con un mejor descanso nocturno.
+
+La Organización Mundial de la Salud (**OMS**) resalta que la actividad física también reduce los síntomas de la depresión y la ansiedad, y promueve la salud cardiovascular, especialmente en un entorno donde el estrés parece ser una constante.
+
+Sin embargo, la realidad es que un alarmante 31% de los adultos y un 80% de los adolescentes no cumplen con los niveles recomendados de actividad física.  
+  
+Según un estudio del 2022, citado por la **OMS** en su página oficial, casi 1800 millones de adultos (el 31%) no practican actividad física o no cumplen con las recomendaciones mundiales de realizar una actividad física moderada durante al menos 150 minutos a la semana.
+
+“La actividad física, tanto moderada como intensa, mejora la salud”, afirma la OMS. Por eso, caminar, practicar algún deporte o participar de actividades recreativas al aire libre están entre las actividades más recomendadas.
+
+Aprovechemos este fin de semana para caminar, jugar, nadar o montar en bicicleta. No solo es una forma de alivianar las preocupaciones, sino una inversión en nuestra salud. Recordemos que en cada brazada, cada paso y cada risa compartida, estamos construyendo un futuro más saludable.
+
+Jarabe de cordura
+=================
+
+El gobierno ha descubierto que los problemas nacionales pueden resolverse con dos reformas constitucionales.
+------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+La locura se ha apoderado del **país**. El presidente quiere destituir a la vicepresidente; las ministras de Relaciones Exteriores y de Trabajo pretenden declararla inhábil para cumplir **funciones públicas** por faltas de disciplina; El **Tribunal Contencioso** Electoral estudia la posibilidad de sancionarla por haber hecho **campaña** anticipada en una **campaña** para **alcalde**.
+
+La **vicepresidente** quiere destituir al **presidente** por **violencia política** de género; pero una **asesora presidencial** ha denunciado a la **vicepresidente** por la misma causal. Si los **jueces** aceptaran el pedido en ambos casos, el nuevo presidente sería el presidente de la **Asamblea**, pero este va a renunciar para aspirar a la **presidencia**.
+
+La locura sigue. Parece que alguien organiza una **pandilla** de **pirómanos** para incendiar el país. El **gobierno** ha descubierto que los **problemas nacionales** pueden resolverse con dos **reformas constitucionales**, una que permita instalar **bases militares** extranjeras en el país y otra que les niegue a los **políticos** dinero público para la **campaña electoral**.
+
+La locura ha trasladado la solución de los **problemas políticos** a los **tribunales**; de los jueces depende casi todo el país, incluso las **autoridades electorales**. La **elección** de nuevos **vocales** del **Consejo Electoral** está en manos de **funcionarios** del Cpccs ya sancionados en primera instancia con destitución del **cargo**.
+
+La locura nacional sostiene que el **presidente** aspira a una reelección que no es **reelección**; que el **período presidencial** es de cuatro años, pero el expresidente Correa estuvo diez años y el actual quiere también llegar a diez años. La **contabilidad política** se enemista con la **aritmética**.
+
+De todas las locuras, la peor es la de prender fuego en el **cinturón verde** de la capital a sabiendas de que puede convertirse en **tragedia** de incalculables proporciones. Los **bomberos**, las **autoridades**, los **expertos** dicen que los **incendios** en Quito y Guayaquil han sido **deliberados** y, por tanto, **actos** de **terrorismo**. El **país** necesita beber jarabe de **cordura**.
+
+La crisis energética (parte 2)
+==============================
+
+La actual situación perjudica a la educación, la salud, la producción y el empleo, afectando los ingresos de la población.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+¿Dónde está el problema? La **ley** de **competitividad energética** además prohíbe todo tipo de delegación al **sector privado** para financiar el mantenimiento de la infraestructura del Estado, cuando ya desde antes de su promulgación se conocía de los **aprietos fiscales** donde el gobierno como es evidente tiene dificultad en hacerlo solo.
+
+De hecho, con el **panorama actual** ciertamente el **sector público** necesita un urgente concurso de la **empresa privada** para financiar diversas **actividades** que se requieren en el **desarrollo energético**. La situación del **Ecuador** es realmente compleja por más buenas intenciones que tenga la **autoridad** actual. Los **apagones nocturnos** y otras medidas de **racionamiento energético** que han sido implementadas son debido a la mayor sequía de los últimos 70 años, han afectado gravemente las **centrales hidroeléctricas,** donde excepto por Hidro Nación son **centrales** de pasada sin mayores **reservas** de agua. A ellos se suma el **mantenimiento** de toda la **infraestructura energética**. ¡Es muy preocupante!
+
+Las **áreas** de **enfoque** para desarrollar urgentemente un **programa** que permita visualizar el **desarrollo energético** de por lo menos hasta el año 2050 debía considerar múltiples aspectos de la **generación eléctrica** y su **expansión**, diversificando la **capacidad** y las fuentes de **energía** alternativas disponibles. En cuanto a la **transmisión eléctrica**, es fundamental mejorarla y expandir la **red** de **transmisión** incluso al norte oriente para reemplazar los **generadores** de Diesel (más de 300 MW), Para asegurar una **distribución** eficiente y confiable.
+
+Es necesario optimizar la **infraestructura** de distribución con base en la **expansión** de la **generación** y el **crecimiento** de las ciudades, complementado con la llevada de **energía trifásica** a la zona rurales para que puedan instalar **maquinarias** y **equipos** que requieren este tipo de **energía** para el desarrollo del agro. De igual manera **tecnificar** la **red** para reducir las **pérdidas** y mejorar la calidad de **servicio** basado en las capacidades de “IoT-Internet de las cosas“ mediante **micros sensores** para este propósito, que facilitan la **información** adecuada para evitar las **pérdidas** negras u otros tipos de pérdida, una **comercialización** eficiente y competitiva que no se da actualmente bajo el **sistema monopólico** y regulado, pero con **cálculos** erróneos del **costo energético** que seguramente le cuesta al **Estado ecuatoriano** más de 1000 millones de dólares al año y que tiene al **sistema energía energético** estratégico en soletas.
+
+Es necesario también mejorar toda la agilidad en cuanto a los **permisos** de **ambientales**, consultas a la **comunidad** y demás **permisos** tanto nacionales como locales para la **instalación** urgente de tan necesitada **energía** a lo largo y ancho del **país**. La actual **situación** perjudica a la **educación**, la **salud**, la **producción** y el empleo, afectando los **ingresos** de la **población**.
+
+En la siguiente **década** se va a necesitar por lo menos unos 8000 Mw adicionales, para lo cual hay que flexibilizar el **mercado** tomando los modelos de **nuestros países** vecinos Colombia, Perú, Chile, Brasil y Uruguay, para mencionar algunos, que ya tienen **legislaciones** más adecuadas para este propósito.
+
+Todo esto tiene que darse bajo un **enfoque integral** que permita desarrollar el **sector energético** de una **manera sostenible** y eficaz, alineado con los **objetivos** de **desarrollo sostenible** (ODS) de la Agenda 2030.
+
+Cartas a Quito / 28 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este sábado 28 de septiembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Bendita oscuridad…
+------------------
+
+… Dirán los delincuentes, corruptos, criminales y prófugos de la justicia; pues este estado de tinieblas permanentes no nos permite ver, con lucidez,  todo lo que está ocurriendo en nuestro pequeño e indefenso país y ahora aún más, cuando la oscuridad no es solamente utópica o mental sino y, para colmo de males, es también física.
+
+Dudamos sinceramente  que haya gente interesada para que estos apagones se den… nos negamos a creer que sea un boicot premeditado y malévolo; aunque nunca estaremos libres de la maldad  de la gente. La verdad es que la falta de previsión y ejecutoriedad de los gobernantes de turno y más personas involucradas en este asunto nos mantienen sumamente  preocupados y sumidos en la oscuridad diurna y nocturna.
+
+Resulta inconcebible que solo nos preocupemos e intentemos solucionar los problemas cuando estos llegan al clímax y no tomemos precauciones a tiempo, para evitar estos desastres como el que actualmente lo venimos soportando.
+
+Con estos apagones intencionados o no, las pérdidas económicas del país son millonarias, sin dejar de mencionar otras pérdidas que nos afectan directamente, como el desempleo, la educación, la inseguridad, etc. etc.
+
+Fabiola Carrera Alemán
+
+El perro del hortelano
+----------------------
+
+Gracias a la iniciativa privada nacional llega el servicio público de energía eléctrica al Ecuador, en 1894 se produce la primera concesión a favor  del consorcio Jijón – Urrutia para que instale plantas eléctricas en Quito. Dos años después, en Guayaquil surge la primera planta eléctrica de propiedad del lojano Manuel Alvarado Cueva. Viendo que el negocio es rentable se interesan empresas Norteamericanas, en 1925 en el puerto principal se instala “Emelec”  y, en Quito, la “Eléctrica Quito SA”en 1932. La inversión privada está en su apogeo en la zona urbana, no así, en la rural que carece de este servicio. Es la razón para que en 1940 tomen la responsabilidad los Municipios que  deciden: generar, distribuir y comercializar energía eléctrica en sus jurisdicciones, pero la falta de fondos para el mantenimiento y  renovación de máquinas, hace que la oferta quede corta ante la creciente demanda (apagones puntuales). Con el fin de solucionar el  problema, el Estado decide tomar la competencia y crea INECEL en 1960, que es el fundador de las empresas eléctricas regionales que  generan, distribuyen y comercializan la energía para varias provincias, mediante centrales hidráulicas y térmicas. Pero, nuevamente el crecimiento de la población, hace que la oferta quede corta (apagones regionales), entonces INECEL toma la iniciativa de generar y transportar energía para vender a las empresas regionales, construye Pisayambo, Paute, Agoyán, centrales térmicas en la costa y, líneas de transmisión, nace así, el Sistema Nacional Interconectado. En las décadas 1970 y 1980, el Estado toma la competencia total de la provisión de energía eléctrica y la inversión privada fue anulada. En la última década del siglo XX y primera del XXI,  Ecuador experimente una gran explosión demográfica, la población se duplica y, los gobiernos de turno intencionalmente, matan a INECEL y su programa de  generación eléctrica. Paralelamente, impiden el aporte de generación privada (el perro del hortelano). Como era de esperar, llega una cascada de apagones, como olvidar la hora Sixto. Ante este oscuro escenario, el gobierno de la “década ganada” apurado y sin estudios, pero con jugosas comisiones, decide construir centrales hidroeléctricas grandes, Coca Codo Sinclair que tiene problemas insalvables, Toachi -Pilatón, 12 años de construcción y no entra en servicio, entre otras. En fin,  no fue solución, ahora mismo el Ecuador sufre los tediosos racionamientos eléctricos, parte culpa del severo estiaje, pero la verdadera causa es, la falta y mala inversión estatal por más de 40 años (los políticos nunca sirvieron al pueblo, siempre se sirven ellos). El escenario energético es por demás crítico, es necesario cambiar la matriz y eso lleva tiempo. Al gobierno actual le ha tocado administrar la oscuridad, no tiene luz, ni dinero, ni tiempo para enfrentar la realidad, desesperado implora ayuda al sector privado y a la sociedad civil.
+
+Marco A. Zurita Ríos
+
+Jacobo Bucaram Ortiz, político y hermano de Abdalá Bucaram, falleció a los 77 años
+==================================================================================
+
+La noticia fue confirmada por el expresidente de Ecuador, la noche de este viernes 27 de septiembre.
+----------------------------------------------------------------------------------------------------
+
+![Jacobo Bucaram Ortiz falleció a los 77 años](https://www.elcomercio.com/wp-content/uploads/2024/09/jacobo-b.jpg)
+
+El político guayaquileño **Jacobo Bucaram Ortiz** falleció este viernes 27 de septiembre de 2024, a los 77 años.
+
+La noticia la confirmó su hermano **Abdalá Bucaram**, a través de su cuenta personal de X.
+
+### Más noticias
+
+* [Bomberos de Quito declaran liquidados los incendios en la capital](https://www.elcomercio.com/actualidad/quito/incendios-quito-liquidados-bomberos.html "Bomberos de Quito declaran liquidados los incendios en la capital")
+* [Incendio en el sector del Parque Samanes de Guayaquil sería provocado](https://www.elcomercio.com/actualidad/ecuador/incendio-parque-samanes-guayaquil-seria-provocado.html "Incendio en el sector del Parque Samanes de Guayaquil sería provocado")
+* [Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-inscripcion-binomio-presidencial-adn-elecciones-2025.html "Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025")
+
+“Ha fallecido mi hermano mayor Jacobo Bucaram Ortiz (..) Corre Jacobo, Dios te espera”, comentó el exvicepresidente.
+
+> HA FALLECIDO MI HERMANO MAYOR ING. JACOBO BUCARAM ORTIZ…LÁS LAGRIMAS NO ME PERMITEN COGER LA PLUMA…MÁS TARDE ESCRIBIRÉ…CORRE, CORRE, CORRE JACOBO, DIOS TE ESPERA…
+> 
+> — Abdala Bucaram Ortiz (@abdalabucaram) [September 28, 2024](https://twitter.com/abdalabucaram/status/1839867898434867272?ref_src=twsrc%5Etfw)
+
+Jacobo Bucaram fue un **reconocido político** que alcanzó la alcaldía de Milagro en el 2000 y la Vicepresidencia del **Congreso Nacional** en 1992.
+
+Fue candidato a la **Presidencia** en las elecciones de 2002, donde se ubicó en el sexto lugar, con el 11,87 % de los votos.
+
+Ocupo en tres ocasiones el curul de diputado por el Partido Roldosista Ecuatoriano (**PRE**).
+
+El 3 de octubre de 1990 protagonizó una recordada pelea en el entonces Congreso.
+
+En la bochornosa escena, Bucaram se dio de golpes con sus colegas Vladimiro Álvarez y Jamil Mahuad.
+
+Se convirtió en director del Instituto Ecuatoriano de Recursos Hidráulicos en el gobierno de **Jaime Roldós Aguilera**.
+
+Fundador de la Universidad Agraria
+----------------------------------
+
+Además, fue fundador y rector por 20 años de la **Universidad Agraria** **del Ecuador** de Guayaquil.
+
+En julio de 2012 dejó su cargo en la casa de estudios; su hija **Martha Bucaram** lo reemplazó.
+
+En lo deportivo, fue presidente del **Comité Olímpico Ecuatoriano** y de la Federación Ecuatoriana de Atletismo.
+
+Tras su vida política, Jacobo Bucaram desempeñó su faceta como **empresario**; era ingeniero de profesión y obtuvo una maestría en Administración de Empresas.
+
+Sus familiares no mencionaron las causas de su fallecimiento.
+
+Paridad es un requisito para la inscripción en las elecciones 2025
+==================================================================
+
+Paridad es un requisito que debe cumplirse en la inscripción de las candidaturas para las elecciones 2025.
+----------------------------------------------------------------------------------------------------------
+
+![Imagen referencial de participación femenina en elecciones.](https://www.elcomercio.com/wp-content/uploads/2024/09/paridad.jpg)
+
+La **paridad** en las **elecciones 2025** en Ecuador es obligatoria. Aun así, en Ecuador se puede palpar la distancia que existe entre el protagonismo de candidatos y las aspirantes a las dignidades[.](https://es.wikipedia.org/wiki/Ecuador)
+
+El artículo 11 de la **Constitución de la República** del Ecuador establece que nadie puede ser discriminado por razones de etnia, lugar de nacimiento, sexo, identidad de género, identidad cultural, filiación política, orientación sexual, entre otros aspectos. Esto, claro, también se aplica para el ámbito **electoral**.
+
+### Más noticias
+
+* [Violencia contra mujeres en la política prima en las redes sociales](https://www.elcomercio.com/actualidad/politica/violencia-contra-mujeres-politica-prima-en-redes-sociales.html)
+* [Kombi Violeta recorre Ecuador contra la violencia política hacia las mujeres](https://www.elcomercio.com/actualidad/kombi-violeta-recorre-ecuador-contra-violencia-politica-hacia-mujeres.html?source=Internal&ref=Single+Content+Link)
+* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html)
+
+> 🚨IMPORTANTE⚠️  
+>   
+> Invitamos a las organizaciones políticas y alianzas 🤝 para que realicen la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw). El sistema dispuesto para este fin estará habilitado hasta las 18h00 del 2 de octubre.  
+>   
+> 📍 Brindamos [#AsistenciaTécnicaCNE](https://twitter.com/hashtag/AsistenciaT%C3%A9cnicaCNE?src=hash&ref_src=twsrc%5Etfw) en las 24 Delegaciones Provinciales. [pic.twitter.com/snjCg8dK3i](https://t.co/snjCg8dK3i)
+> 
+> — cnegobec (@cnegobec) [September 24, 2024](https://twitter.com/cnegobec/status/1838602112420188623?ref_src=twsrc%5Etfw)
+
+Paridad, puntal para las elecciones 2025
+----------------------------------------
+
+Las listas se conformarán obligatoriamente cumpliendo con los principios de equidad, paridad, alternancia y secuencialidad entre mujeres y hombres, tanto para principales como para suplentes. Así lo estable el **Código de la Democracia**.
+
+Desde el 13 de septiembre al 2 de octubre de 2024 está vigente el período de **inscripciones** para las elecciones 2025.
+
+Las listas tienen que estar encabezadas con un **50 % de mujeres** y, en el caso del binomio presidencial, tener paridad de género: hombre-mujer o mujer-hombre.
+
+No cumplir con el rango de participación de **mujeres** es una limitante para oficializar las candidaturas. El reglamento para el **proceso electoral** define que los partidos y movimientos políticos que no sigan el requerimiento tendrán dos días, contados a partir de la notificación, para subsanar este punto.
+
+Hasta las 10:50 de este viernes, 27 de septiembre, el **Consejo Nacional Electoral (CNE)** reportó 42 listas inscritas. Solo un binomio presidencial.
+
+Esas contemplan el binomio presidencial de Creo, conformado por **Francesco Tabacchi y Blanca Sacancela**. El resto corresponde a listas de asambleístas y parlamentarios andinos.
+
+> [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🗳️🇪🇨  
+>   
+> ¿Conoces cuál es el procedimiento que deben cumplir las organizaciones políticas para inscribir sus candidaturas? 🤔  
+>   
+> 🎬 Aquí te lo contamos. ⤵️  
+>   
+> 🚨 El sistema estará habilitado hasta las 18h00 del miércoles, 2️⃣ de octubre. [pic.twitter.com/1pZTTSewE1](https://t.co/1pZTTSewE1)
+> 
+> — cnegobec (@cnegobec) [September 22, 2024](https://twitter.com/cnegobec/status/1837977072142373059?ref_src=twsrc%5Etfw)
+
+Aún falta reconocimiento
+------------------------
+
+**Ruth Hidalgo**, directora de Participación Ciudadana, hizo énfasis en que se podrá medir esta nueva etapa en la paridad una vez que terminen las inscripciones.
+
+Aunque, tras el proceso de **impugnación**, las **candidaturas** en firme recién se conocerán el 30 de diciembre de 2024.
+
+No obstante, recordó Hidalgo, en las **elecciones anticipadas 2023**, la paridad constituyó un problema para las organizaciones políticas. Esto porque los partidos y movimientos en Ecuador “no son estructurados y son débiles”.
+
+Estructuras políticas débiles
+-----------------------------
+
+Con esas bases, sin estructuras de formación y promoción, las agrupaciones salieron “desesperadas” a buscar representantes que sean conocidas. Ahí se constató una nueva arista de la **paridad**: la norma se cumple, ¿pero con qué sustentos?
+
+Las postulantes no eran militantes o no participaban de los principios de los **partidos y movimientos**. Eso, según agregó Hidalgo, tiene una traba. Es decir, al momento de proponer o promocionar **candidaturas** de mujeres no cuentan con requisitos formales.
+
+No obstante, esas características no solo se evidencian en las convocadas para cubrir una cuota, sino en muchos de los **candidatos**.
+
+Mientras, hay otros cuadros que desisten de la participación por condiciones como la violencia contra las mujeres en la política, sobre todo, en **redes sociales**.
+
+La otra cara del proceso
+------------------------
+
+Los binomios presidenciales son una muestra de la brecha que aún existe en la participación femenina. De las 16 duplas anunciadas tras el proceso de primarias en Ecuador, apenas dos cuentan con mujeres a la cabeza: **Luisa González** (Movimiento Revolución Ciudadana) y **Andrea González** (Partido Sociedad Patriótica).
+
+El actual presidente, **Daniel Noboa**, en cambio, volverá a encabezar la fórmula presidencial para las **elecciones 2025**. **María José Pinto** será su compañera.
+
+Es decir, aunque la **paridad** se cumple, la titularidad en las postulaciones sigue recayendo prioritariamente sobre los hombres.
+
+Hidalgo apuntó que esa es otra muestra de la debilidad de los partidos y movimientos, así como la falta de estructura. Sin olvidar que hay organizaciones que no están viendo a mujeres en las élites de participación política. **“Siguen siendo espacios reservados para los hombres”**.
+
+Como remarcó **Verónica Morales**, abogada y antropóloga, la participación política de las mujeres en Ecuador aún es insuficiente. Por ende, la **paridad** no se logrará únicamente con cuotas de género, sino con una transformación en la cultura política.
+
+Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025
+============================================================================================
+
+Daniel Noboa y María José Pinto se convertirían en el segundo binomio presidencial inscrito para las elecciones 2025.
+---------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa anunció la inscripción del binomio presidencial de ADN junto a María José Pinto.](https://www.elcomercio.com/wp-content/uploads/2024/08/Noboa-candidato.jpg)
+
+El presidente **Daniel Noboa** anunció la inscripción del **binomio presidencial** de **Acción Democrática Nacional (ADN)** para las **elecciones 2025**, la noche de este viernes 27 de septiembre de 2024.
+
+Este binomio está conformado por Daniel Noboa para Presidente y **María José Pinto** para Vicepresidenta de la República.
+
+### Más noticias:
+
+* [17 binomios presidenciales se conforman para las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/binomios-presidenciales-poder-elecciones-2025.html "17 binomios presidenciales se conforman para las elecciones de 2025")
+* [Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025](https://www.elcomercio.com/actualidad/politica/funcionarios-daniel-noboa-dejan-cargos-elecciones-2025.html "Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025")
+* [Inscripción para elecciones 2025 aún tiene baja participación](https://www.elcomercio.com/actualidad/politica/inscripcion-para-elecciones-2025-tiene-baja-participacion.html "Inscripción para elecciones 2025 aún tiene baja participación")
+
+Hasta las 18:00 de este viernes, el **Consejo Nacional Electoral (CNE)** notificó que solo **63 listas** han solicitado su inscripción.
+
+De estas, **una es para binomio presidencial**, de 17 que se proclamaron sus binomios en primarias.
+
+Hasta las 22:45 no confirmaba la inscripción del binomio presidencial de ADN.
+
+Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025
+--------------------------------------------------------------------------------------------
+
+Daniel Noboa hizo el anuncio de la inscripción del binomio presidencial de ADN a través de sus redes sociales, con una carta del movimiento.
+
+Noboa inició su mensaje con una breve descripción de la situación del país: “María José y yo, así cómo muchos, sufrimos del Ecuador de ayer, hoy, luchamos por el **Ecuador** del mañana”.
+
+Luego, anunció la inscripción. “No es momento de celebración, pero sí de reafirmar el compromiso que tenemos con nuestro país. Por eso, sin dudar, hemos inscrito nuestro binomio presidencial ante el CNE para la elección”, señaló.
+
+“Durante 10 meses, le hemos dado pelea al **narcotráfico**, la **corrupción** y a aquellos que se rehúsan a aceptar que el pueblo ecuatoriano optó por otra alternativa”, señala en el comunicado.
+
+Señala que han enfrentado un “Estado en cuidados intensivos y una sociedad golpeada por un pasado oscuro e indolente”.  
+  
+“Esta batalla la ganaremos juntos, con fuerza y empatía. Eso sí, tengan por seguro que su Presidente prefiere estar muerto antes que rendido ante el mal”, concluyó el Presidente.
+
+> María José y yo, así cómo muchos, sufrimos del Ecuador de ayer, hoy, luchamos por el Ecuador del mañana.  
+>   
+> No es momento de celebración, pero sí de reafirmar el compromiso que tenemos con nuestro país. Por eso, sin dudar, hemos inscrito nuestro binomio presidencial ante el CNE… [pic.twitter.com/sCrrN5RORp](https://t.co/sCrrN5RORp)
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [September 28, 2024](https://twitter.com/DanielNoboaOk/status/1839854944091844931?ref_src=twsrc%5Etfw)
+
+(Video) Policía fue atropellado en el norte de Quito
+====================================================
+
+Las cámaras de seguridad captaron el siniestro de tránsito entre una camioneta y un motorizado de la Policía Nacional.
+----------------------------------------------------------------------------------------------------------------------
+
+![El motociclista afectado quedó tendido sobre la calzada, junto al parterre](https://www.elcomercio.com/wp-content/uploads/2024/09/moto-quito.jpg)
+
+Un agente de la Policía Nacional fue **atropellado** la mañana de este viernes 27 de septiembre de 2024, en el norte de **Quito**.
+
+El hecho se registró en el sector de **Carcelén**, pasadas las 09:00.
+
+### Más noticias
+
+* [Tránsito vehicular congestionado en Quito por semáforos apagados y lluvias](https://www.elcomercio.com/actualidad/quito/transito-vehicular-colapsa-quito-semaforos-apagados.html "Tránsito vehicular congestionado en Quito por semáforos apagados y lluvias")
+* [Bomberos de Quito declaran liquidados los incendios en la capital](https://www.elcomercio.com/actualidad/quito/incendios-quito-liquidados-bomberos.html "Bomberos de Quito declaran liquidados los incendios en la capital")
+* [(Video) Mujer fue secuestrada en Quito con una nueva modalidad](https://www.elcomercio.com/actualidad/seguridad/mujer-secuestrada-quito-nueva-modalidad-video.html "(Video) Mujer fue secuestrada en Quito con una nueva modalidad")
+
+El siniestro de tránsito quedó registrado por las **cámaras de vigilancia** del lugar.
+
+En las imágenes se observa a tres uniformados movilizarse en **dos motocicletas** de la institución
+
+Los motorizados salen por la derecha de una intersección y se colocan en el **carril izquierdo** de la calle principal.
+
+Sin embargo, el policía de la moto trasera no lo hace con velocidad y es impactado por una **camioneta gris** que venía en el mismo carril y que no paró a tiempo.
+
+El uniformado salió proyectado **varios metros** hacia el suelo, producto del fuerte impacto.
+
+El policía quedó tendido sobre la calzada, a un costado del **parterre** que divide los sentidos de la vía.
+
+Tras el choque, el conductor de la camioneta se colocó a la derecha de la calle; **no trato de huir**.
+
+El vehículo registró hendiduras en la parte frontal izquierda de su carrocería.
+
+Policías socorrieron a su compañero
+-----------------------------------
+
+Un grupo de policías que se movilizaba junto al afectado, de inmediato **pararon su trayecto** para socorrer a su compañero atropellado.
+
+El video muestra como el conductor salió del vehículo notablemente **asustado** por lo sucedido.
+
+En su nerviosismo, el hombre se agarró su cabeza varias veces y se arrodilló mientras trataba de comprender el hecho.
+
+Uno de los uniformados se acercó al ciudadano para **increparlo**, causándole más confusión.
+
+Se desconoce el estado de salud del policía golpeado.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAcKur1tHnc/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por TVC Ecuador (@tvcecuador)](https://www.instagram.com/reel/DAcKur1tHnc/?utm_source=ig_embed&utm_campaign=loading)
+
+(Video) Willian Pacho desata la emoción en la afición de PSG
+============================================================
+
+Willian Pacho compartió con la hinchada del PSG tras su última victoria y este desató la emoción de los aficionados.
+--------------------------------------------------------------------------------------------------------------------
+
+![Willian Pacho, futbolista del PSG, antes de su partido con el Stade Rennais.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-27T211553.880.jpg)
+
+**Willian Pacho** se ha solidificado en la zaga del **París Saint Germain (PSG)** y se establece como uno de los referentes y figuras del equipo francés. El futbolista ecuatoriano causó furor en la afición del equipo parisino y tuvo un noble gesto con ella.
+
+El defensa ecuatoriano llegó al elenco parisino como refuerzo para la temporada 2024-2025 y desde su arribo se consolidó. Desde su primera aparición en amistosos, el ecuatoriano ha ocupado un rol estelar en el equipo que dirige **Luis Enrique.**
+
+### Más noticias:
+
+* [Kylian Mbappé y el PSG se reencontrarán](https://www.elcomercio.com/deportes/kylian-mbappe-psg-real-madrid.html "Kylian Mbappé y el PSG se reencontrarán")
+* [Willian Pacho y el PSG triunfan y siguen punteros en Francia](https://www.elcomercio.com/deportes/willian-pacho-psg-rennais-francia.html "Willian Pacho y el PSG triunfan y siguen punteros en Francia")
+* [Willian Pacho tuvo su primer tropezón con el PSG](https://www.elcomercio.com/deportes/willian-pacho-psg-reims-partido-francia.html "Willian Pacho tuvo su primer tropezón con el PSG")
+
+Con el plantel de la capital francés, Pacho ha estado presente tanto en los compromisos ligueros como en la **UEFA Champions League**. En la liga, él y su equipo se mantienen como punteros, mientras que en el torneo internacional está en la decimoquinta posición tras vencer en la primera fecha.
+
+En su último compromiso, el tricolor y el PSG se enfrentaron como locales en el Parque de los Principes ante el **Stade Rennais**. Después de aquel compromiso, en el cual el equipo capitalino venció, Pacho se acercó a la hinchada en una de las bandejas[.](https://es.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club "https://es.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club")
+
+El gesto de Willian Pacho con la afición del PSG
+------------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAb5zOZom-z/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Ligue 1 McDonald’s (@ligue1mcdonalds)](https://www.instagram.com/reel/DAb5zOZom-z/?utm_source=ig_embed&utm_campaign=loading)
+
+Una vez que finalizó el partido, **Willian Pacho** se cobijó con una toalla que llevaba estampado el escudo del equipo y se dirigió hacia donde permanecían los **hinchas**. Allí, estos lo esperaban envueltos en euforia y próximos al terreno de juego.
+
+Un grupo de jóvenes aficionados gritaba **“Pacho, Pacho”** en busca de atención del delantero, mientras le extendía sus teléfonos móviles. Este los recibía y procedía a tomarse fotografías con ellos después de su reconocimiento.
+
+Esta es la primera gran muestra de parte de los aficionados del conjunto de París con el defensor ecuatoriano. Antes, este ya había sido destacado por su entrenador y elegido entre los mejores jugadores mes de la **Ligue One.**
+
+¿Cómo le fue al PSG?
+--------------------
+
+El PSG se impuso ante el **Stade Rennais** con un marcador de 3-1. Los de azul y rojo no tuvieron problemas para vencer a sus rivales y controlaron el partido, inclusive, el duelo pudo terminar en goleada, pero el descuento de la visita llegó al final.
+
+**Bradley Barcola y Lee Kang-In** pusieron los tantos a favor del cuadro de París. El descuento llegó desde **Arnaud Kalimuendo**.
+
+Tránsito vehicular congestionado en Quito por semáforos apagados y lluvias
+==========================================================================
+
+La reanudación de los cortes de luz complicaron la movilidad en Quito, la noche de este viernes 27 de septiembre.
+-----------------------------------------------------------------------------------------------------------------
+
+![El tránsito vehicular se congestionó en varios puntos de la ciudad](https://www.elcomercio.com/wp-content/uploads/2024/09/transito-noche.jpg)
+
+Quito retomó los **cortes de luz** la noche de este viernes 27 de septiembre de 2024, luego de **cuatro días** que la medida fuera suspendida debido a la emergencia por **incendios forestales** que se registró en la ciudad.
+
+La capital, al igual que el resto de ciudades de **Ecuador**, enfrentan **apagones programados** diarios a causa de la crisis hídrica.
+
+### Más noticias
+
+* [Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-clases-horarios-semana.html "Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz")
+* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
+* [Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más](https://www.elcomercio.com/actualidad/negocios/por-cortes-de-luz-gobierno-lanza-tres-licitaciones-para-incorporar-178-mw-mas.html "Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más")
+
+La Empresa Eléctrica de Quito (**EEQ**), entidad a cargo de los cronogramas, reanudó los cortes en el Distrito Metropolitano a partir de las **18:00**.
+
+Esta medida, sumada a la **hora pico** y a las fuertes lluvias que cayeron en la tarde y noche, complicó la **movilidad** en varios sectores del norte, centro y sur.
+
+Ante ello, la Agencia Metropolitana de Tránsito (**AMT**) distribuyó su contingente de agentes en algunas intersecciones que se vieron afectadas por el **apagado de los semáforos**.
+
+La desconexión de energía eléctrica provocó que el tránsito vehicular en la ciudad no avance con normalidad.
+
+En el **norte**, por ejemplo, en la intersección de las avenidas El Inca y De la Prensa, usuarios reportaron una fuerte **congestión** en las calles.
+
+Otro punto crítico es la **av. De los Shyris**, donde a esta hora y por su ubicación comercial, conductores se quejan por las dificultades que tienen al movilizarse.
+
+> Intersección Shyris y Río Coca por favor su ayuda [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) [pic.twitter.com/Jfy2xCgA5q](https://t.co/Jfy2xCgA5q)
+> 
+> — Gabriela Andrango (@Gaby\_Andrango) [September 28, 2024](https://twitter.com/Gaby_Andrango/status/1839824199860224219?ref_src=twsrc%5Etfw)
+
+En la extensión de la **av. Simón Bolívar**, en la conexión vial entre San Antonio y el redondel de Carapungo también se observó una extensa fila de carros.
+
+Una situación similar ocurre en vías del **sur** y **centro** de Quito.
+
+80% de los semáforos están apagados
+-----------------------------------
+
+La **AMT** reportó, pasadas las 19:00, que el **80% de las intersecciones semaforizadas** en Quito están apagadas debido a los **cortes** de energía eléctrica.
+
+En estos puntos trabajan **1 125 agentes de tránsito**; sin embargo, la ciudadanía reclama que la movilidad en la ciudad colapsó en varios sectores la noche de este viernes.
+
+Se recomienda manejar con mayor precaución y **reducir la velocidad** para evitar siniestro de tránsitos o cualquier otra eventualidad.
+
+> 🫡 [#Activados24Siete](https://twitter.com/hashtag/Activados24Siete?src=hash&ref_src=twsrc%5Etfw) | [#AMT](https://twitter.com/hashtag/AMT?src=hash&ref_src=twsrc%5Etfw) Gestionamos el tránsito  
+>   
+> 🔌 El 80% de las intersecciones semaforizadas del DMQ están apagadas debido a los cortes de energía eléctrica🚦  
+>   
+> 🚙 Conduce con precaución.  
+>   
+> ➡️ Redondel del ciclista.  
+>   
+> 🫶🏽 Al cooperar  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kk0hpdFDA2](https://t.co/kk0hpdFDA2)
+> 
+> — AMTQuito (@AMT\_Quito) [September 28, 2024](https://twitter.com/AMT_Quito/status/1839821980217860585?ref_src=twsrc%5Etfw)
+
+Estrategia 1×1
+--------------
+
+La entidad recomendó que en las intersecciones donde no se encuentran los agentes de tránsito se aplique la estrategia 1×1.
+
+“No es la ley del más bravo, sino de aplicar la amabilidad, cortesía y tolerancia (…) un vehículo de la vía principal puede avanzar y luego el siguiente de la otra intersección, así el tráfico fluye”, dijo Washington Martínez, director de la AMT.
+
+Bomberos de Quito declaran liquidados los incendios en la capital
+=================================================================
+
+Los Bomberos declararon liquidados los incendios en Quito la noche de este viernes 27 de septiembre.
+----------------------------------------------------------------------------------------------------
+
+![Los incendios en Quito están liquidados, declaran los Bomberos](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-41.jpg)
+
+El **Cuerpo de Bomberos de Quito** declaró oficialmente **liquidados** los **incendios** en la capital, la noche de este viernes 27 de septiembre de 2024.
+
+De acuerdo al reporte de la temporada seca, Bomberos de Quito registró **2 139 eventos** atendidos entre **incendios forestales y quemas** de desechos, con un total de **2 000,05 hectáreas afectadas**.
+
+### Más noticias:
+
+* [¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?](https://www.elcomercio.com/actualidad/quito/fiscalia-procesa-otro-implicado-incendio-forestal-quito.html "¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?")
+* [Diana Salazar toma una decisión sobre los incendios en todo el país](https://www.elcomercio.com/actualidad/diana-salazar-investiga-incendios-fiscalia.html "Diana Salazar toma una decisión sobre los incendios en todo el país")
+* [Cerca de 200 personas fueron atendidas por incendios en Quito](https://www.elcomercio.com/actualidad/quito/cerca-200-personas-atendidas-incendios-quito.html "Cerca de 200 personas fueron atendidas por incendios en Quito")
+
+Los incendios en Quito dejaron afectaciones **humanas, ambientales y materiales**, tras cuatro días de llamas.
+
+Solo el martes 24 de septiembre se registraron 27 quemas en la ciudad y cerca de 190 hectáreas afectadas.
+
+Aproximadamente, **200 personas fueron atendidas** por el Ministerio de Salud, cinco **bomberos herido**s y un centenar de familias **evacuadas.**
+
+El incendio que inició en **Guápulo** fue el último en liquidarse, debido a su alcance.
+
+Las llamas de este incendio se acercaron peligrosamente a zonas pobladas, como el barrio **Bolaños, Bellavista y la González Suárez.**
+
+Hoy, en la tarde, los bomberos realizaron labores de monitoreo y enfriamiento en el cerro **Auqui,** que se reavivó el miércoles.
+
+Las condiciones climáticas también ayudaron, el jueves empezó a llover en la capital.
+
+Los incendios en Quito fueron liquidados
+----------------------------------------
+
+De acuerdo al informe de cierre del Puesto de Mando Unificado, a las 18h20 p.m., se declara los incendios totalmente controlados y liquidados.
+
+Cuatro personas han sido procesadas en flagrancia por delitos relacionados con el ambiente. El Municipio hizo 18 denuncias.
+
+Esto, aunque las autoridades pedían que sean procesadas por terrorismo.
+
+El Gobierno, las Fuerzas Armadas, la Policía Nacional, cuerpos de bomberos de otros cantones, la Prefectura de Pichincha y el Municipio fueron las instituciones que pusieron su contingente para combatir las llamas.
+
+Helicópteros, drones, tanquetas, motocicletas, aparte de los vehículos de los bomberos, fueron usados para la emergencia.
+
+Mientras la ciudadanía, de forma desesperada y solidaria, hacía lo suyo con baldes y mangueras domésticas.
+
+Los incendios provocaron que el Municipio declare el estado de emergencia en la ciudad y el Gobierno analice declarar la emergencia a nivel nacional.
+
 Kylian Mbappé y el PSG se reencontrarán
 =======================================
 
@@ -314,733 +917,3 @@ Una **sirena** sonó por varios segundos y uno de los vecinos lanzó una piedra.
 El video difundido en redes sociales llega hasta ese momento.
 
 Fuentes de la Policía informaron que la mujer fue liberada al sur de la ciudad, en Chillogallo.
-
-‘Dibu’ Martínez es sancionado por la FIFA por ‘malcriado’
-=========================================================
-
-Emiliano Martínez es una de las caras principales y figuras de la Selección de Argentina.
------------------------------------------------------------------------------------------
-
-![Emiliano Martínez es suspendido por la FIFA por conducta inapropiada.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T174858.631.jpg)
-
-Se acabaron las risas y los juegos para **Emiliano ‘Dibu’ Martínez**. El arquero de la selección argentina recibió una dura sanción de la FIFA, lo que le impedirá acompañar a sus compañeros en las próximas fechas de las eliminatorias sudamericanas.
-
-El ‘Dibu’ fue **suspendido por dos partidos**, lo que significa que no será elegible para Lionel Scaloni, técnico de Argentina, en los enfrentamientos ante Venezuela y Bolivia, parte del proceso clasificatorio al Mundial.
-
-### Más noticias:
-
-* [Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC](https://www.elcomercio.com/deportes/jhon-espinoza-barcelona-sc-seleccion-ecuador.html "Excapitán de la Selección de Ecuador sueña con jugar en Barcelona SC")
-* [Enner Valencia enamora a la Conmebol en las eliminatorias sudamericanas](https://www.elcomercio.com/deportes/futbol/enner-valencia-enamora-a-la-conmebol-en-las-eliminatorias-sudamericanas.html "Enner Valencia enamora a la Conmebol en las eliminatorias sudamericanas ")
-* [¿Cuándo juega Argentina en las eliminatorias?](https://www.elcomercio.com/deportes/futbol/cuando-juega-argentina-eliminatorias-colombia.html "¿Cuándo juega Argentina en las eliminatorias?")
-
-Motivo de la sanción
---------------------
-
-Según informó la **Asociación del Fútbol Argentino** (AFA) en su página oficial, a pesar de los intentos de defensa por parte de la federación y del propio jugador, la Comisión Disciplinaria de la FIFA consideró al ‘**Dibu’ culpable de “comportamiento ofensivo”** y de violar los principios del juego limpio en los partidos contra Chile y Colombia, correspondientes a las eliminatorias mundialistas.
-
-El comunicado explica que la sanción es de dos partidos y que se aplicará en los próximos encuentros oficiales de la selección argentina.
-
-La AFA manifestó estar “absolutamente en desacuerdo con la decisión tomada” por la FIFA.
-
-> [#Eliminatorias](https://twitter.com/hashtag/Eliminatorias?src=hash&ref_src=twsrc%5Etfw)🏆 La FIFA dio a conocer la sanción impuesta al arquero de la Selección [@Argentina](https://twitter.com/Argentina?ref_src=twsrc%5Etfw), Emiliano Martínez.  
->   
-> 📝 [https://t.co/JuhOpn5EbK](https://t.co/JuhOpn5EbK) [pic.twitter.com/MJvmO2OrX4](https://t.co/MJvmO2OrX4)
-> 
-> — AFA (@afa) [September 27, 2024](https://twitter.com/afa/status/1839782311774015684?ref_src=twsrc%5Etfw)
-
-¿Qué hizo el ‘Dibu’?
---------------------
-
-El 5 de septiembre, durante el partido entre Argentina y Chile, el **‘Dibu’ repitió un gesto obsceno similar al que realizó tras ganar la Copa América** y también durante la celebración del Mundial de Catar 2022. El arquero colocó el trofeo frente a sus genitales, un acto que la FIFA ha castigado duramente.
-
-Además, el 10 de septiembre, tras la derrota de Argentina 2-1 ante Colombia, Martínez protagonizó otro incidente. Mientras saludaba a algunos rivales en el campo, entre ellos su compañero de club Jhon Durán, **golpeó intencionalmente una cámara que lo enfocaba.**
-
-Las cámaras de televisión captaron el momento, y el video fue rápidamente compartido en redes sociales, donde muchos hinchas colombianos lo interpretaron como un gesto de mal perdedor.
-
-> ATENCIÓN. DIBU MARTÍNEZ SERÍA SANCIONADO POR LA FIFA 🚨  
->   
-> El arquero argentino no estaría en los próximos dos partidos de Eliminatorias por sus gestos en los duelos ante Colombia y Chile.  
->   
-> ¿Opiniones?[pic.twitter.com/VTTJH2MN89](https://t.co/VTTJH2MN89)
-> 
-> — Pablo Giralt (@giraltpablo) [September 27, 2024](https://twitter.com/giraltpablo/status/1839780265717313762?ref_src=twsrc%5Etfw)
-
-Próximos partidos de Argentina
-------------------------------
-
-Argentina enfrentará a **Venezuela** el 10 de octubre como visitante y a **Bolivia** el 15 de octubre en condición de local.
-
-La ‘Albiceleste’ lidera las eliminatorias sudamericanas con 18 puntos, dos más que Colombia y tres más que Uruguay.
-
-Biden y Zelenski se reunieron en la Casa Blanca
-===============================================
-
-Los dos líderes realizaron breves declaraciones a la prensa en el Despacho Oval antes de iniciar la reunión.
-------------------------------------------------------------------------------------------------------------
-
-![Joe Biden en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/09/joe-biden-19-julio.jpg)
-
-El presidente de Estados Unidos, [Joe Biden](https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html "https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html"), y su homólogo ucraniano, **Volodímir Zelenski,** se reunieron el jueves, 26 de septiembre de 2024, en la Casa Blanca con el objetivo de coordinar un plan para acelerar la entrega de armamento a Ucrania antes de que el líder estadounidense deje el cargo en enero de 2025.
-
-### Más noticias
-
-* [Biden advirtió en la ONU que ‘la IA va a cambiar nuestro modo de vida’](https://www.elcomercio.com/actualidad/mundo/biden-advirtio-onu-ia-cambiar-nuestro-modo-vida.html "Biden advirtió en la ONU que ‘la IA va a cambiar nuestro modo de vida’")
-* [Zelenski en reunión con Trump consideran que guerra en Ucrania debe acabar](https://www.elcomercio.com/actualidad/mundo/zelenski-reunion-trump-tenemos-opinion-comun-guerra-ucrania-debe-acabar.html "Zelenski en reunión con Trump consideran que guerra en Ucrania debe acabar")
-* [Joe Biden firma un decreto para impulsar trabajos dignos](https://www.elcomercio.com/actualidad/mundo/joe-biden-firma-decreto-impulsar-trabajos-dignos.html "Joe Biden firma un decreto para impulsar trabajos dignos ")
-
-Los dos líderes realizaron **breves declaraciones a la prensa en el Despacho Oval** antes de iniciar la reunión, que se produjo solo unas horas después de que la Casa Blanca anunciara un nuevo paquete de ayuda militar a Ucrania valorado en 8 000 millones de dólares, que incluye bombas capaces de alcanzar blancos rusos a 130 kilómetros de distancia.
-
-“**Rusia no prevalecer**á. Ucrania prevalecerá, y continuaremos apoyándote en cada paso del camino”, prometió Biden a Zelenski, quien vestía su habitual atuendo militar de color verde oliva.
-
-**Biden ofreció detalles de ese paquete de ayuda**, que contiene asistencia militar previamente aprobada por el Congreso y que será entregada a Ucrania antes de que asuma un nuevo presidente, tras las elecciones del 5 de noviembre en las que se enfrentarán la vicepresidenta Kamala Harris y el exmandatario Donald Trump.
-
-“Para cuando termine mi mandato, que es el 20 de enero, habremos fortalecido la posición de Ucrania en futuras negociaciones”, aseveró Biden.
-
-La estrategia de Estados Unidos ha sido fortalecer a Ucrania en la guerra contra Rusia ante la posibilidad de que se produzcan negociaciones en el futuro, con el objetivo de que **Kiev tenga una posición sólida** y pueda hacer las menos concesiones posibles.
-
-Una de las peticiones que Zelenski hará a Biden, y que lleva planteando desde hace meses, es la **autorización del uso de misiles** de largo alcance estadounidenses o fabricados con componentes estadounidenses para que Kiev pueda atacar objetivos dentro de Rusia, a lo que Washington se resiste por temor a provocar una escalada con Moscú.
-
-“Hoy vamos a discutir los detalles de este plan y cómo coordinar nuestras posiciones, su uso y enfoque. Nuestros equipos trabajarán juntos para asegurar la **implementación de nuestros futuros** pasos”, dijo Zelenski.
-
-En una rueda de prensa previa al encuentro, la portavoz de la Casa Blanca, Karine Jean-Pierre, afirmó que no se espera que Biden haga hoy ningún anuncio sobre la autorización a Ucrania para el uso de misiles.
-
-Este es el undécimo encuentro entre Biden y Zelenski, y l**a quinta visita del líder ucraniano** a Washington desde el inicio de la invasión rusa de Ucrania en febrero de 2022.
-
-Zelenski tiene previsto reunirse posteriormente con la vicepresidenta Harris, con quien hará declaraciones a la prensa. 
-
-Cubeto para tratar residuos fue inaugurado en Quito
-===================================================
-
-El cubeto 11 forma parte del nuevo Complejo Ambiental que remplazará al relleno sanitario de El Inga.
------------------------------------------------------------------------------------------------------
-
-![El relleno sanitario El Inga será remplazado por un nuevo parque](https://www.elcomercio.com/wp-content/uploads/2024/09/cubeto.jpg)
-
-El **Municipio de Quito** realizó la inauguración del **cubeto 11**, que servirá para un mejor tratamiento de los residuos sólidos.
-
-La Empresa Metropolitana de Gestión Integral de Residuos Sólidos (**Emgirs**) comenzó con su construcción en noviembre de 2023; la obra fue entregada este viernes 27 de septiembre de 2024 con la presencia del alcalde **Pabel Muñoz** y otras autoridades.
-
-### Más noticias
-
-* [Fuertes lluvias con tormentas eléctricas en Quito, la tarde de este viernes](https://www.elcomercio.com/actualidad/quito/fuertes-lluvias-tormentas-quito-viernes.html "Fuertes lluvias con tormentas eléctricas en Quito, la tarde de este viernes")
-* [¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?](https://www.elcomercio.com/actualidad/quito/fiscalia-procesa-otro-implicado-incendio-forestal-quito.html "¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?")
-* [Cortes de agua en Quito en más de 100 barrios este 27 y 28 de septiembre](https://www.elcomercio.com/actualidad/quito/cortes-agua-en-quito-100-barrios-27-septiembre.html "Cortes de agua en Quito en más de 100 barrios este 27 y 28 de septiembre")
-
-El área de este nuevo cubeto abarca **cuatro hectáreas**, donde se prevé depositar alrededor de **dos millones de toneladas** de residuos sólidos.
-
-La piscina de 13 metros de profundidad cuenta con un sistema de **drenaje de lixiviados** (desechos líquidos), que está protegido por una geomembrana de plástico que protege el suelo natural ante cualquier filtración.
-
-El cubeto tendrá una vida útil de **dos años y medio**.
-
-> 🚛♻️[#QuitoSostenible](https://twitter.com/hashtag/QuitoSostenible?src=hash&ref_src=twsrc%5Etfw) | [@EMGIRSEP](https://twitter.com/EMGIRSEP?ref_src=twsrc%5Etfw) entregó el Cubeto 11 que servirá para la disposición final adecuada de residuos sólidos. Además, iniciaron las operaciones del sistema integral tecnológico combinado para el tratamiento de lixiviados.  
-> Con responsabilidad ambiental, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/yIVSIZ8LLs](https://t.co/yIVSIZ8LLs)
-> 
-> — Ambiente Quito (@ambientequito) [September 27, 2024](https://twitter.com/ambientequito/status/1839733233287606689?ref_src=twsrc%5Etfw)
-
-Nuevo Complejo Ambiental
-------------------------
-
-La obra forma parte del nuevo **Complejo Ambiental** que tendrá Quito, tras el cierre del relleno sanitario **El Inga**, ubicado en el suroriente de la ciudad.
-
-Pabel Muñoz habló sobre la importancia de esta obra: “Hoy es el primero de los últimos días del relleno sanitario; esto es un **cambio histórico**“, mencionó.
-
-El burgomaestre aseguró que en los últimos 16 meses “se ha logrado manejar de manera adecuada los residuos que se producen en Quito”, generando mayor energía eléctrica y **reduciendo el CO₂**.
-
-“Hemos pasado de 5 a 9 megavatios de energía eléctrica, con una reducción de 230 000 toneladas de dióxido de carbono (CO₂). Es decir, es como haber retirado de circulación **250 000 vehículos**“, señaló.
-
-> [#QuitoSostenible](https://twitter.com/hashtag/QuitoSostenible?src=hash&ref_src=twsrc%5Etfw) 🌍 | ¡Estamos transformando la gestión de lixiviados en una oportunidad! Con tecnología de vanguardia, trataremos 800 m³/día, purificando el agua para su uso. Para el próximo año, planeamos limpiar 192.000 m³ acumulados. Además, el nuevo contrato incluye un… [pic.twitter.com/Rg3q1dp692](https://t.co/Rg3q1dp692)
-> 
-> — Emgirs EP (@EMGIRSEP) [September 27, 2024](https://twitter.com/EMGIRSEP/status/1839778646208266528?ref_src=twsrc%5Etfw)
-
-Por su parte, **Santiago Andrade**, gerente general de Emgirs prevé que los lixiviados acumulados disminuyan.
-
-“Se ha logrado el tratamiento de 800 m³/día, de tal forma que, para el próximo, año se estima tratar el pasivo acumulado durante años en el relleno sanitario, pasando de 184 000 m³ de lixiviados acumulados a solo **5 000 m³**”, mencionó.
-
-En la inauguración también se entregaron **seis nuevos tractocamiones**.
-
-Los vehículos se utilizarán para movilizar los residuos y desechos sólidos desde las estaciones de transferencia norte y sur hacia el relleno sanitario.
-
-El proyecto de la construcción del cubeto 11 tuvo una inversión de **5,1 millones de dólares**.
-
-Ministro de Energía, multas si la barcaza no entrega energía
-============================================================
-
-La barcaza turca volvió a operar, pero pagará multa por no entregar energía durante esta semana de cortes de luz.
------------------------------------------------------------------------------------------------------------------
-
-![La barcaza Emre Bey genera más de 100 MW para el Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/emre-bey.jpg)
-
-La barcaza de generación eléctrica, de la empresa turca **Karpowership,** volvió a operar al 100% de su capacidad en plena crisis de cortes de luz. Lo hizo después de registrar una **reducción significativa** en su operación en medio de la **crisis energética** que vive el Ecuador. La sequía y el déficit energético del país obligaron a retomar los cortes de luz a nivel nacional[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
-* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
-* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
-
-Operación de Karpowership
--------------------------
-
-Este 27 de septiembre, el ministro de Energía, **Antonio Goncalves**, informó que esta compañía que maneja la barcaza tendrá multas por no entregar energía durante los cortes de luz.
-
-La barcaza, denominada **Powership Emre Bey,** tuvo una reducción en la generación eléctrica el 25 de septiembre de 2024. Entregó solo 12 megavatios (MW), en lugar de los 100 MW para lo que fue alquilada.
-
-Actualmente, la embarcación turca está al 100% de su capacidad. La caída en su producción responde a una falla en la entrega de **combustible para su operación**. “Hubo un tema de ellos con su contratista de combustible. Pero ahora está operando perfectamente bien”, dijo Goncalves.
-
-Además, agregó que **habrá multas** contra la compañía de la barcaza por no entregar la energía en plenos cortes de luz, pero no detalló los montos.
-
-Por su parte, la **empresa Karpowership** señaló que las revisiones operativas necesarias relacionados con el inicio de las operaciones, provocaron una reducción temporal de la generación.
-
-“Como empresa, asumimos esta responsabilidad, y la reducción en la generación reportada el 25 de  
-septiembre será compensada de acuerdo con el contrato”, agregó la empresa turca.
-
-Además, agregó que el **Powership Emre Bey** volvió a generar a” pleno rendimiento el 26 de septiembre, y continuará haciéndolo”.
-
-El **Powership Emre Bey** entró en operación comercial el 16 de septiembre del 2024. Con una capacidad de 100 MW, la embarcación apoyará al Sistema Nacional Interconectado durante 18 meses.
-
-El alquiler de esta barcaza forma parte de un conjunto de acciones emergentes para mitigar el déficit energético, que actualmente alcanza los 1 080 MW, según el Operador Nacional de Electricidad (CENACE). El costo del contrato es de 115 millones de dólares.
-
-Campeón de la Liga Básquet Pro podrá jugar la Liga Sudamericana
-===============================================================
-
-La Liga Básquet Pro 2024 se definirá entre Jorge Guzmán y Zamora Jaguars. Será al mejor de siete partidos.
-----------------------------------------------------------------------------------------------------------
-
-![Connor Zinaich (i) y Donald Robinson en la temporada regular de la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/basquet_sudamericano_3.jpg)
-
-El campeón de la **Liga Básquet Pro 2024 de Ecuador** tiene la posibilidad abierta de jugar la Liga Sudamericana de Baloncesto FIBA, un torneo que agrupa a los mejores equipos del continente.
-
-La final de la Liga Básquet Pro se jugará desde el sábado 28 de septiembre entre **Jorge Guzmán de Loja y Zamora Jaguars de la ciudad homónima**, en una serie que se definirá al mejor de siete partidos.
-
-### Más noticias:
-
-* [El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio](https://www.elcomercio.com/deportes/futbol/campeon-liga-basquet-pro-premio.html "El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio")
-* [Kocky y Jaggy también juegan las finales de la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/kocky-jaggy-mascotas-liga-basquet.html "Kocky y Jaggy también juegan las finales de la Liga Básquet Pro")
-* [Jorge Guzmán, el equipo familiar que domina la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/jorge-guzman-liga-basquet-pro.html "Jorge Guzmán, el equipo familiar que domina la Liga Básquet Pro")
-
-Los dos primeros partidos serán en Loja el sábado 28 y lunes 30 de septiembre; el tercero y cuarto el jueves 3 y sábado 5 de octubre en Zamora; el quinto el lunes 7 en Loja; el sexto el jueves 10 en Zamora; y el séptimo el sábado 12 en Loja.
-
-Jorge Guzmán es el favorito para coronarse como campeón y sus números lo justifican: **en la temporada regular quedó en segundo puesto**; ganó 16 de 22 partidos; en los cuartos de final ganó 3-0 la llave; y en las semifinales 3-1.
-
-Zamora Jaguars es la sorpresa del torneo y fue de menos a más: en la temporada regular quedó en el octavo puesto; ganó nueve partidos; **el primer play-inn lo perdió; el segundo lo ganó**; en los cuartos de final eliminó a los actuales campeones 3-2; y en semifinales a Liga de Quito 3-1.
-
-El campeón recibirá un premio económico de **20 000 dólares que será entregado en el inicio de la siguiente temporada**, y tendrá en su poder el trofeo todo un año, con la intención de generar más ingresos para el club y fidelizar a más hinchas.
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/basquet_sudamericano_2-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-La Liga Sudamericana espera al campeón
---------------------------------------
-
-La **Liga Básquet Pro aún no es reconocida por la Federación Internacional de Baloncesto (FIBA)**, el organismo que se dedica a regular las normas del baloncesto mundialmente, así como de celebrar periódicamente competiciones y eventos.
-
-Mario Gordon, presidente de la Liga Básquet Pro, en entrevista con EL COMERCIO, **mencionó que esa realidad está por cambiar**, porque están en conversaciones con la Federación Ecuatoriana de Baloncesto y la FIBA para que el reconocimiento sea viable y se concrete.
-
-“A más tardar en uno 20 días esperamos tener el aval de la FIBA y de la Federación”, expresó el directivo el martes 24.
-
-Uno de los beneficios que traerá este reconocimiento, según Gordón, es que el campeón podrá representar a **Ecuador en la Liga Sudamericana de Baloncesto FIBA**, que este año se jugará en La Banda (Argentina) y Osorno (Chile) del martes 15 de octubre.
-
-En caso de no concretarse este año, en el 2025 los clubes afiliados a la Liga Básquet Pro tendrán en su calendario abierta la posibilidad de tener actividad internacional.
-
-El actual representante de Ecuador en el torneo es Santa María de El Oro, campeón de la **Liga Ecuatoriana de Baloncesto** que tiene el aval de la Federación Ecuatoriana de Básquetbol.
-
-Comparte grupo con Español de Osorno (Chile), ABA Ancud (Chile), Nacional (Uruguay) y San Lorenzo  
-(Argentina)
-
-![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/09/basquet_sudamericano_1-1024x683.jpg)
-
-Foto: Cortesía/Jimmy Calva.
-
-Cronograma de las finales
--------------------------
-
-### Juego 1: Sábado 28/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 2: Lunes 30/09
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 3: Jueves 3/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 4: Sábado 5/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 5: Lunes 7/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-### Juego 6: Jueves 10/10
-
-20:00 Zamora Jaguars vs. Jorge Guzmán
-
-Coliseo Mayor de Deportes de Zamora
-
-### Juego 7: Sábado 12/10
-
-20:00 Jorge Guzmán vs. Zamora Jaguars
-
-Coliseo Ciudad de Loja
-
-No te pierdas – El Confesionario
---------------------------------
-
-La agenda cultural para este 28, 29 y 30 de septiembre de 2024 en Quito  
-=========================================================================
-
-Este fin de semana en Quito, la agenda cultural incluye actividades para todas las edades.
-------------------------------------------------------------------------------------------
-
-![Este fin de semana en Quito: proyecciones, experiencias interactivas, recorridos educativos. Foto: Cortesía Fundación Museos de la Ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/09/agenda-cultural-quito.jpg)
-
-**Este fin de semana**, Quito ofrece una **variada agenda cultural**. El **Centro de Arte Contemporáneo** presenta proyecciones continuas sobre **cultura urbana** y un conversatorio sobre el arte gráfico en espacios públicos.
-
-### Más noticias
-
-* [La agenda para este 20, 21 y 22 de septiembre de 2024 en Quito](https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html "https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-septiembre.html") 
-* [La agenda cultural para este 13, 14 y 15 de septiembre de 2024 en Quito](https://www.elcomercio.com/tendencias/entretenimiento/musica-teatro-agenda-cultural-2024-quito.html "https://www.elcomercio.com/tendencias/entretenimiento/musica-teatro-agenda-cultural-2024-quito.html")
-
-El **Museo Interactivo de Ciencia** invita a explorar **CataPLUM**, una experiencia sobre **energía y catapultas**. En el **Museo de la Ciudad** habrá recorridos por **exposiciones temporales** y reflexiones sobre el cuidado comunitario. Además, el **Yaku Parque Museo del Agua** organiza **talleres de reciclaje creativo.**  
-
-**La agenda cultural para este fin de semana** 
------------------------------------------------
-
-**Centro de Arte Contemporáneo** 
----------------------------------
-
-### **Proyecciones continuas videos sobre cultura urbana**  
-
-En el marco de la exposición temporal **‘Siempre efímeros, nunca sin memoria’**, se invita a explorar los **archivos y registros audiovisuales** que documentan la **cultura urbana y las expresiones del arte gráfico** en espacios públicos. Además, se llevará a cabo un conversatorio que resaltará la **relevancia de esta práctica artística**, se destacará el valor de estos registros en la **memoria del arte callejer**o en Ecuador. 
-
-Fecha: sábado 28 de septiembre de 2024.  
-
-Hora: de 3:00 pm a 4:30 pm.  
-
-Dirección: Montevideo y Luis Dávila, Barrio San Juan. Antiguo Hospital Militar. 
-
-**Museo Interactivo de Ciencia** 
----------------------------------
-
-### **Visite CataPLUM**  
-
-Visite **Chimbacalle** y disfrute de una **experiencia interactiva y divertida** que le permitirá explorar **conceptos de Física e Ingeniería**. Descubra las **catapultas**, ingeniosos dispositivos utilizados a lo largo de la historia, que el **equipo del MIC** ha recreado para ofrecer una perspectiva única sobre la transformación de la energía. 
-
-Fecha y hora: Sábados y domingos de 9:00 a 5:00 pm, último ingreso 4:00 pm.   
-
-Dirección: Av. Maldonado y Sincholagua, sector de Chimbacalle. 
-
-**Museo de la Ciudad**   
--------------------------
-
-### **Recorridos mediados por las exposiciones temporales, Biblioteca y sala Siglo XX**  
-
-Este mes de septiembre, el **Museo de la Ciudad** ofrece recorridos especiales para instituciones educativas y público en general. 
-
-A través de **actividades lúdicas** y con el apoyo del **equipo de mediación**, se explorarán diversos temas en cada sala, para promover el diálogo y la reflexión con un enfoque en el cuidado de los otros, la comunidad y uno mismo. 
-
-Fecha: de miércoles a domingos, durante septiembre de 2024. 
-
-Hora: 10:30, 11:30, 2:00 pm y 3:00 pm. 
-
-Dirección: García Moreno y Calle Rocafuerte (junto al Arco de la Reina). 
-
-**Yaku Parque Museo del Agua** 
--------------------------------
-
-### **Reciclando sabores**  
-
-Se invita a **participar en un taller educativo** que transformará la **perspectiva sobre los alimentos**. En esta actividad práctica, que tendrá lugar en el **Museo del Agua**, se aprenderá a aprovechar al máximo cada ingrediente y a **reducir el desperdicio de manera creativa**. Se presentarán **diversas técnicas para utilizar cada parte de los alimentos**, desde las cáscaras hasta el interior, que podrán aplicarse en el hogar. Una jornada centrada en descubrimientos sostenibles. 
-
-Fecha: sábado 28 y domingo 29 de septiembre de 2024.  
-
-Hora: de 11:00 a 12:30 y de 2:00 pm a 3:30 pm. 
-
-Dirección: Yaku Parque Museo del Agua. Ingreso Peatonal: El Placer Oe11-271. Ingreso peatonal y vehicular: Bolívar y Rocafuerte.   
-
-**Shalom Mendieta presenta su primer álbum EP ‘Fugaz’** 
---------------------------------------------------------
-
-La **cantautora guayaquileña Shalom Mendieta** presentará su primer EP titulado ‘Fugaz’, **disponible a partir del lunes 30 de septiembre en todas las plataformas de música**. Este lanzamiento sigue a varios sencillos publicados en años anteriores, que sirvieron como preludio a esta obra. Shalom, con su distintiva sonoridad “fresca latina-caribeña”, compone en géneros como Bolero, Chachachá, Timba, Son Montuno, Salsa y Bachata, fusionándolos con el pop.  
-
-¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?
-================================================================================
-
-Una persona más es procesada por Fiscalía por un incendio en el norte de Quito.
--------------------------------------------------------------------------------
-
-![Una persona grabó el momento en el que un hombre prendía fuego en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/procesado-incendio.jpg)
-
-Los **incendios forestales** en Quito dejaron personas heridas, pérdidas materiales y afectaciones en el ambiente. Estos empezaron con mayor intensidad el 24 de septiembre de 2024. La Fiscalía abrió casos[.](https://es.wikipedia.org/wiki/Quito)
-
-La **entidad de justicia** procesa a un presunto responsable de uno de los flagelos, producidos en el norte de la capital ecuatoriana.
-
-### Más noticias
-
-* [Incendio en Guápulo, joven involucrado recibe prisión preventiva](https://www.elcomercio.com/actualidad/quito/incendio-guapulo-involucrado-audiencia-fiscalia.html)
-* [Calidad del aire en Quito por incendios forestales se recupera lentamente](https://www.elcomercio.com/actualidad/quito/calidad-aire-quito-recupera-lentamente-incendios.html "Calidad del aire en Quito por incendios forestales se recupera lentamente")
-* [Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito](https://www.elcomercio.com/actualidad/ecuador/gobierno-analiza-declaratoria-emergencia-nacional-incendios-quito.html "Gobierno de Daniel Noboa analiza declaratoria de emergencia nacional por incendios en Quito")
-* [Responsables de incendios podrían ir a la cárcel por terrorismo](https://www.elcomercio.com/actualidad/quito/responsables-incendios-forestales-quito-carcel-terrorismo.html "Responsables de incendios podrían ir a la cárcel por terrorismo")
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): los elementos de convicción presentados por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) motivaron la resolución del Juez, quien ordenó la prisión preventiva de Jerson Smith C. A., presunto autor del delito de [#IncendiosForestales](https://twitter.com/hashtag/IncendiosForestales?src=hash&ref_src=twsrc%5Etfw) y de vegetación.  
->   
-> Detalles ⬇️[https://t.co/UQ0oRScTbD](https://t.co/UQ0oRScTbD) [pic.twitter.com/zyz0JFF7QU](https://t.co/zyz0JFF7QU)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 27, 2024](https://twitter.com/FiscaliaEcuador/status/1839776028144865696?ref_src=twsrc%5Etfw)
-
-Fiscalía procesa a persona por incendio
----------------------------------------
-
-Las autoridades detuvieron al hombre la noche del 25 de septiembre. Se trata de **Jerson Smith C. A**. La audiencia de calificación de flagrancia ya se llevó a cabo.
-
-La **Fiscalía** informó que la persona es procesada por el delito de **incendios forestales** y de vegetación. El Juez que recibió el caso dictó prisión preventiva.
-
-Un video fue uno de los elementos presentados en el proceso. En la audiencia, el Fiscal de turno dijo que la noche de los hechos un ciudadano observó al procesado encendiendo **fuego** en la **av. Eloy Alfaro y Palmeras**.
-
-En la zona, indicó, hay arbustos y vegetación seca. Las llamas se propagaron. Pero, afortunadamente, varias personas apagaron el **incendio**.
-
-Los elementos en el caso
-------------------------
-
-La **Fiscalía** detalló que el denunciante grabó al sospechoso y entregó el video a la Policía. Los agentes ubicaron a **Jerson Smith C. A.** cerca del sitio del incendio.
-
-El hombre vestía prendas similares a las de quien aparece en las imágenes grabadas con un celular.
-
-El video pasó por pericias y fue presentado por **Fiscalía** como uno de sus elementos de convicción en la audiencia de flagrancia.
-
-El **Municipio** también formalizó la denuncia. En el proceso se incluyó la versión del agente de policía que aprehendió al sospechoso.
-
-El gendarme indicó que, durante el registro que se hizo al **Jerson Smith C. A.**, se le encontró una fosforera y cables incinerados.
-
-El Juez y los pasos
--------------------
-
-De acuerdo con los datos de la **Fiscalía**, el Juez consideró que existen presunciones sobre el cometimiento de un delito. A la par, detalló que el panorama no se complicó por la intervención de los ciudadanos que apagaron el fuego.
-
-Por eso, la autoridad determinó la **prisión preventiva**. Esta se aplicará hasta la audiencia de juicio directo, que se desarrollará a las 09:30, del 17 de octubre de 2024. La instrucción fiscal durará 20 días.
-
-La normativa
-------------
-
-El delito de incendios forestales y de vegetación, tipificado en el artículo 246, inciso primero del **Código Orgánico Integral Penal (COIP)**. La norma define una pena privativa de libertad de uno a tres años.
-
-El juicio por medio de procedimiento directo concentra las etapas del proceso en una audiencia. Este paso se aplica en delitos calificados como **flagrantes**, sancionados con pena máxima privativa de la libertad de hasta 5 años.
-
-Otro procesado por incendio
----------------------------
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): presunto autor del incendio registrado en [#Guápulo](https://twitter.com/hashtag/Gu%C3%A1pulo?src=hash&ref_src=twsrc%5Etfw) es procesado por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y será juzgado el 17 de octubre de 2024, mediante procedimiento directo.  
->   
-> Más información ⬇️[https://t.co/vHTPBgNhXp](https://t.co/vHTPBgNhXp) [pic.twitter.com/0Od6O99rur](https://t.co/0Od6O99rur)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 26, 2024](https://twitter.com/FiscaliaEcuador/status/1839446449311953148?ref_src=twsrc%5Etfw)
-
-Además de **Jerson Smith C. A.**, un joven fue aprehendido por presuntamente estar relacionado con el incendio que ocurrió en Guápulo, en Quito.
-
-Este 26 de septiembre, él recibió prisión preventiva. También se aplicará un proceso directo. Se trata de **Dylan Alberto A.**, quien fue implicado tras el testimonio de una vecina.
-
-El joven, por su parte, aseguró que estaba bañándose. En ese momento, evidenció el olor a **humo**, salió e intentó apagar el incendio.
-
-Las opciones de Ecuador en el Mundial de Ruta de Ciclismo
-=========================================================
-
-Pese a las sensibles bajas de dos de sus principales ciclistas, Ecuador espera tener una destacada participación en el Mundial de Ciclismo.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Jefferson Cepeda será uno de los ecuatorianos en el Mundial de Ruta de Ciclismo.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T170002.937.jpg)
-
-El **Mundial de Ciclismo**, que se lleva a cabo en Zúrich, Suiza, desde el 22 de septiembre, se cerrará con la prueba madre: la competencia de ruta masculina, programada para el domingo 29 de septiembre, en la que **Ecuador** estará presente.
-
-Sin embargo, el equipo ecuatoriano llega con algunas ausencias notables. Aunque inicialmente se esperaba contar con seis corredores, incluido Richard **Carapaz** y Jhonatan **Narváez**, ambos terminaron fuera del evento: la ‘Locomotora’ se retiró por motivos personales, mientras que el ‘Lagarto’ se ausenta debido a una lesión.
-
-### Más noticias:
-
-* [Fallece Muriel Furrer en una prueba del Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/ciclista-fallecida-mundial-muriel-furrer.html "Fallece Muriel Furrer en una prueba del Mundial de Ciclismo")
-* [Richard Carapaz se baja del Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/richard-carapaz-mundial-ciclismo-ecuador-baja.html "Richard Carapaz se baja del Mundial de Ciclismo con Ecuador")
-* [Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/jhonatan-narvaez-baja-mundial-ciclismo.html "Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo")
-
-Finalmente, los tres ciclistas que representarán a Ecuador en la prueba de ruta del Mundial en Zúrich son **Alexander** **Cepeda** (EF Education-EasyPost), **Jefferson** **Cepeda** (Caja Rural-Seguros RGA), y **Jonathan** **Caicedo** (Petrolike).
-
-Detalles del Mundial de Ciclismo
---------------------------------
-
-La prueba de ruta se llevará a cabo el domingo 29 de septiembre, comenzando a las 03:30 (hora de Ecuador). El **recorrido tendrá una distancia de 273,9 kilómetros**, que se extiende desde Winterthur hasta Zúrich.
-
-El trayecto presenta una combinación de **altibajos y variaciones de terreno**, lo que pondrá a prueba la resistencia y capacidad táctica de los ciclistas. Este evento forma parte del calendario internacional y reunirá a algunos de los mejores corredores del mundo.
-
-Los favoritos al título
------------------------
-
-En esta edición del Mundial de Ruta, competirán figuras de renombre como los españoles Mikel Landa y Enric Mas, el australiano Ben O’Connor, y el esloveno **Primoz** **Roglic**, entre otros.
-
-Sin embargo, tres ciclistas destacan como los principales favoritos para alzarse con el título:
-
-### Mathieu van der Poel (Países Bajos)
-
-Actual campeón del Mundial de Ruta, **Mathieu** **van** **der** **Poel** parte como uno de los grandes contendientes para repetir su hazaña.
-
-### Remco Evenepoel (Bélgica)
-
-Considerado una de las mayores promesas del ciclismo, **Evenepoel** ya fue campeón mundial en 2022 y ha consolidado su estatus como uno de los mejores del pelotón internacional.
-
-### Tadej Pogacar (Eslovenia)
-
-Apodado el “Caníbal”, **Pogacar** es ampliamente reconocido como el mejor ciclista del mundo. A pesar de su impresionante palmarés, aún no ha logrado ganar el Mundial de Ruta, habiendo obtenido el bronce en la edición pasada.
-
-Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas
-=======================================================================================
-
-El Inamhi y Etapa esperan lluvias en Azuay las próximas horas, esto favorecería a la operación de hidroeléctricas como Mazar.
------------------------------------------------------------------------------------------------------------------------------
-
-![Las lluvias en el Austro incrementarán el caudal de los ríos y favorecerán a Mazar y otras eléctricas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Cuenca-sequia-.jpg)
-
-Azuay está a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas, este viernes 27 de septiembre de 2024. Al momento, se presenta nubosidad en el cielo.
-
-El Instituto Nacional de Metereología e Hidrología (Inamhi) y la Red Hidrometeorológica de la Empresa de Telecomunicaciones, Agua Potable, Alcantarillado y saneamiento de Cuenca (Etapa) informaron sobre las condiciones en esta zona.
-
-### Más noticias:
-
-* [Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas](https://www.elcomercio.com/actualidad/negocios/nivel-de-agua-del-embalse-de-mazar-afecta-operacion-de-tres-hidroelectricas.html "Nivel de agua del embalse de Mazar afecta operación de tres hidroeléctricas")
-* [Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca](https://www.elcomercio.com/actualidad/negocios/conozca-horarios-cortes-luz-27-de-septiembre-cuenca.html "Conozca los horarios de cortes de luz para este 27 de septiembre en Cuenca")
-* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
-
-Las lluvias en el Austro son importantes para el funcionamiento del Complejo Paute Integral, compuesto por Mazar, Molino y Sopladora.
-
-Días atrás, el ministro de Energía, Antonio Goncalves señaló que los cortes de luz programados ayudaron a recuperar el embalse de Mazar.
-
-Goncalves también señaló que Ecuador es muy dependiente de la generación hidroeléctrica, es decir, depende de las lluvias.
-
-Azuay a la espera de lluvias que ayuden a Mazar y otras hidroeléctricas, técnicos de Etapa e Inamhi se pronuncian
------------------------------------------------------------------------------------------------------------------
-
-Aunque hasta las 16:00 de este viernes 27 de septiembre no llovía en Azuay, Etapa y el Inamhi señalaron que se esperaban lluvias desde esta tarde en la zona.
-
-La Red Hidrometeorológica de Etapa informó que se aproxima humedad atmosférica considerable desde el sureste, aumentando la probabilidad de lluvia esta tarde en la zona.
-
-En la mañana de este viernes, Etapa indicó que los ríos Tomebamba, Yanuncay y Machángara están con caudal bajo.
-
-Además, el río Tarqui continúa en estiaje y la probabilidad de lluvia es del 60%.
-
-Mientras que, el Inamhi señaló que hay “lluvias con tormentas eléctricas en gran parte de la Amazonía y estribaciones de cordillera. Continuarán en las próximas horas y alcanzarán la región Interandina y zonas del Litoral”.
-
-Rigoberto Guerrero, técnico de Etapa, señaló que van 77 días de sequía hidrológica.
-
-“Si bien existen pronósticos que indican que la probabilidad de lluvia es alta, nada garantiza que tenga la intensidad necesaria como para que el caudal de los ríos se recuperen de manera significativa”, dijo.
-
-Añadió que existe nubosidad y vientos, pero, en estos días, lo que ha ocurrido es que esa nubosidad se dispersa.
-
-Al referirse a la operatividad Mazar, Guerrero señaló que los cuatro ríos mencionados aportan cerca del 40% del caudal para la hidroeléctrica.
-
-La técnica del Inamhi, Madelyn Enríquez , manifestó ya hay ingreso de **humedad** en el suroriente del país y eso provocará las lluvias en esa zona.
-
-En las zonas de la Sierra Norte y Centro, hay mayor altitud y esto favorece las lluvias; mientras que, en partes como Cuenca, la altitud es más baja.
-
-Agregó que el pronóstico es que sábado y domingo existan precipitaciones en la Amazonía y en la Sierra.
-
-“Las lluvias ayudan al incremento del caudal, para alcanzar un nivel óptimo, pero necesitamos que siga lloviendo” para que aporte a Mazar y otras hidroeléctricas, dijo.
-
-Juez Guillermo Ortega se excusa de un caso relacionado con la Liga Azul
-=======================================================================
-
-Santiago Becdach alerta sobre la excusa del juez Ortega en caso de la Liga Azul y pide celeridad al TCE para evitar retrasos.
------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen publicitaria de los candidatos afines al correísmo para el Cpccs.](https://www.elcomercio.com/wp-content/uploads/2024/09/liga-azul.png)
-
-El 27 de septiembre de 2024, el **abogado Santiago Becdach** se pronunció a través de su cuenta en X, sobre la **excusa presentada por el juez Guillermo Ortega** en un caso relacionado con la autodenominada **Liga Azul**.
-
-### Más noticias
-
-* [TCE da paso a recurso presentado por consejeros de la ‘Liga Azul’ del Cpccs](https://www.elcomercio.com/actualidad/politica/tce-dio-paso-recurso-consejeros-liga-azul-cpccs.html "TCE da paso a recurso presentado por consejeros de la ‘Liga Azul’ del Cpccs")
-* [Sentencia contra ‘Liga Azul’ del Cpccs se empató con designación de nuevo Fiscal](https://www.elcomercio.com/actualidad/politica/sentencia-liga-azul-cpccs-proceso-designacion-fiscal.html "Sentencia contra ‘Liga Azul’ del Cpccs se empató con designación de nuevo Fiscal")
-* [TCE admite una nueva denuncia contra Aquiles Alvarez](https://www.elcomercio.com/actualidad/politica/tce-admite-una-nueva-denuncia-contra-aquiles-alvarez.html "TCE admite una nueva denuncia contra Aquiles Alvarez")
-
-Becdach informó que el día anterior fueron notificados sobre la **excusa del juez Ortega**, sorteado para tramitar la **apelación interpuesta** por esta organización. El abogado afirmó desconocer los motivos de la excusa y expresó su preocupación sobre **posibles demoras en el proceso**.
-
-> 🔴 Espero no sea una estrategia para dilatar y propiciar acuerdos políticos inesperados.  
->   
-> El día de ayer fuimos notificados con auto en el cual se excusa el Juez Guillermo Ortega (no conocemos las razones), quien fue sorteado para tramitar la apelación interpuesta por al… [pic.twitter.com/1jbsoWziq9](https://t.co/1jbsoWziq9)
-> 
-> — Santiago Becdach (@Sbecdach) [September 27, 2024](https://twitter.com/Sbecdach/status/1839624782800617644?ref_src=twsrc%5Etfw)
-
-En su mensaje, Becdach instó a los miembros del **Tribunal Contencioso Electoral (TCE)** a dar celeridad al caso, argumentando que este proceso es fundamental para el país.
-
-S**antiago Bechdach** mencionó que los **funcionarios involucrados** en el caso están vinculados a una organización política, lo cual, según él, comprometería la imparcialidad que deben mantener en sus decisiones dentro del Cpccs. Concluyó su publicación exhortando a que no se permita la continuación de lo que denominó una **“agenda de impunidad”**.
-
-Contexto del proceso judicial
------------------------------
-
-El **proceso judicial** está relacionado con la causa Número. 123-2024-TCE, en la cual **Santiago Becdach y Pamela Troya Báez** presentaron una denuncia por presunta infracción electoral. Esta denuncia fue dirigida contra **Sócrates Verduga Sánchez, Betsy Saltos Rivas, Vielka Párraga Macías y Eduardo Franco Loo**r.
-
-Según la denuncia, los mencionados habrían incumplido resoluciones del **Consejo Nacional Electoral (CNE)**, conforme al artículo **279 del Código de la Democracia**.
-
-El 24 de septiembre de 2024, se realizó un **sorteo electrónico para designar al juez** que tramitaría el incidente de **excusa presentado por Ortega**. Este sorteo **asignó el caso al juez Joaquín Viteri Llanga**, quien ahora tiene la responsabilidad de **continuar con la sustanciación del proces**o.
-
-Desarrollo del caso y recursos presentados
-------------------------------------------
-
-El proceso ha tenido varios momentos claves. El 3 de septiembre de 2024, e**l juez Fernando Muñoz Benítez** dictó una sentencia en la que **aceptó la denuncia por infracción electoral muy grav**e. Esta sentencia fue posteriormente **apelada por las partes involucradas**, quienes presentaron varios recursos de **aclaración y ampliación**.
-
-El 6 de septiembre de 2024, tanto **Eduardo Franco Loor** como **Betsy Saltos Rivas**, entre otros, **interpusieron recursos de apelación contra la sentencia**. Estos recursos fueron aceptados el 16 de septiembre de 2024 por el juez **Muñoz Benítez**, quien remitió el expediente para la tramitación de la apelación​.
-
-Excusa del juez Ortega
-----------------------
-
-El 23 de septiembre de 2024, el juez **Guillermo Ortega Caicedo**, quien había sido sorteado para conocer la apelación en segunda instancia, presentó su **excusa para continuar con el caso**. En consecuencia, el TCE realizó un nuevo sorteo el **24 de septiembre de 2024**, asignando la causa al juez Joaquín Viteri Llanga. El expediente ingresó a su despacho el **25 de septiembre de 2024**.
-
-El proceso sigue su curso, y se espera que el **juez Viteri Llanga** continúe con la tramitación de los recursos de apelación interpuestos por las **partes involucradas**.
-
-Willian Pacho y el PSG triunfan y siguen punteros en Francia
-============================================================
-
-Willian Pacho volvió a jugar 90 minutos con el PSG y su equipo se impuso al Stade Rennais en la Ligue One.
-----------------------------------------------------------------------------------------------------------
-
-![Wiliian Pacho en el partido del PSG ante el Stade Rennes.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-27T160454.318.jpg)
-
-Puro desborde, vertiginoso en el regate, imparable en la carrera y, sobre todo, concluyente en el remate, **Bradley Barcola** se reafirmó este viernes como el nuevo fenómeno del **París Saint Germain (PSG)** en la primera temporada sin **Kylian Mbappé**, con una exhibición de todas sus cualidades para golear al Rennes (3-1), reaccionar al empate de la última jornada y trasladar a sus competidores quién es el único favorito a la liga francesa.
-
-El vigente campeón y el actual líder, tres puntos ahora por encima del **Marsella y el Mónaco**, con un encuentro menos, disfruta con su extremo izquierdo de 22 años. Un futbolista decisivo. Ya son seis goles en siete partidos en este curso. Este viernes participó en los tres con los que su equipo superó las dificultades que le propuso su rival en diferentes tramos, por más que el **PSG** jugó con fuego demasiadas veces. Se relajó en exceso.
-
-### Más noticias:
-
-* [Willian Pacho presentó la nueva camiseta del París Saint-Germain](https://www.elcomercio.com/deportes/futbol/willian-pacho-presento-la-nueva-camiseta-del-paris-saint-germain.html "Willian Pacho presentó la nueva camiseta del París Saint-Germain")
-* [Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo](https://www.elcomercio.com/deportes/willian-pacho-piero-hincapie-mejores-mundo.html "Willian Pacho y Piero Hincapié, entre los mejores defensas del mundo")
-* [En Francia elogian debut de Willian Pacho en Champions League](https://www.elcomercio.com/deportes/futbol/francia-elogian-debut-de-willian-pacho-en-champions-league.html "En Francia elogian debut de Willian Pacho en Champions League")
-
-Cierto que ya había sido anulado un gol a **Marquinhos** a los dos minutos y 43 segundos por fuera de juego o que **Hakimi** había fallado el 1-0 en un remate repelido por el larguero, tanto como que después, aún con 0-0, era el **Rennes** el dueño de la posesión, del balón y de las posibilidades en el Parque de los Príncipes, más en campo contrario que en su terreno.
-
-Hasta que **Dembele** recuperó la pelota en el medio campo, jugó con **Joao Neves**, éste se la devolvió al extremo que jugó en el Barcelona, quien minutos antes dispuso del 1-0, pero pecó de individualista y que entonces se la entregó a **Barcola**. Controló, se perfiló y soltó el derechazo al otro poste inalcanzable para el portero. El 1-0. Minuto 30. La primera demostración del extremo, nada protagonista en la última Eurocopa disputada en Alemania.
-
-Barcola amplió el marcador del PSG y Willian Pacho estuvo sólido en el fondo
-----------------------------------------------------------------------------
-
-La celebración eufórica de **Luis Enrique** fue descriptiva de la importancia del gol y del momento. No jugó bien el **PSG** ni antes ni durante ni después. Ni funcionó al presión con la soltura y la eficacia que pretende. **Ni siquiera sentía el partido bajo su control**. Por eso, el tanto fue clave para el equipo local, que sentenció a la hora del encuentro[.](https://es.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club "https://es.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club")
-
-De nuevo, **Barcola**. En el 2-0 fue el origen. Su derechazo con rosca formidable se estrelló con violencia en el poste. El rechace lo remachó de cabeza **Kang** in Lee para aportar tranquilidad al conjunto parisino, que, sin exigirse, sin ser el dominador, vencía por 2-0. No por simple inercia, sino porque en sus filas juega un futbolista tan determinante como el extremo lionés, que culminó el 3-0 en el minuto 68 a pase de **Achraf Hakimi** para relucir aún más.
-
-Después dejó su sitio a **Randal Kolo Muani**, a la espera de nuevos desafíos, con el miedo en el cuerpo que le puso el Rennes. Porque primero marcó el 3-1, en un penalti transformado por **Kalimuendo** pero, sobre todo, porque luego apuntó al 3-2, anotado por Seidu ante Safonov, sustituto de **Donnarumma**, pero invalidado por el VAR por una mano en el control. Un alivio para el **PSG**. Una anécdota en la exhibición de Barcola.
-
-Alineaciones del PSG y el Stade Rennes
---------------------------------------
-
-**París Saint Germain (PSG)**: Safonov; Hakimi, Marquinhos (Skriniar, m. 69), Pacho, Beraldo; Zaire Emery, Joao Neves, Fabián Ruiz (Mayulu, m. 69); Dembele (Mbaye, m. 82), Kang in Lee, Barcola (Kolo Muani, m. 69).
-
-**Rennes**: Mandanda; Assignon (Hateboer, m. 59), Ostigard (Faye, m. 65), Wooh, Seidu, Truffert (Nagida, m. 78); Santamaría (Kamara, m. 65), Matusiwa (Gronbaek, m. 78); Blas, Gouiri; Kalimuendo.
-
-Goles: 1-0, m. 30: Barcola. 2-0, m. 58: Kang in. 3-0, m. 68: Barcola. 3-1, m. 75: Kalimuendo.
-
-Trump confía en que Musk le ayude a ahorrar billones de dólares
-===============================================================
-
-El aspirante republicano apuntó entonces que el objetivo de esa comisión será identificar formas de eliminar el gasto innecesario.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![El expresidente estadounidense y candidato presidencial republicano Donald Trump.](https://www.elcomercio.com/wp-content/uploads/2024/09/Donald-Trump-Efe-2024.jpg)
-
-[Donald Trump](https://www.elcomercio.com/actualidad/mundo/defensa-trump-pide-anular-condena-450-millones-dolares-fraude-nueva-york.html "https://www.elcomercio.com/actualidad/mundo/defensa-trump-pide-anular-condena-450-millones-dolares-fraude-nueva-york.html") confió este viernes, 27 de septiembre de 2024, en que el magnate **Elon Musk** le ayude a ahorrar billones de dólares de dinero público trabajando para él en su eventual Administración.
-
-### Más noticias
-
-* [Propuestas de Harris y Trump sobre inmigración y política fronteriza](https://www.elcomercio.com/actualidad/mundo/harris-contra-trump-proponen-inmigracion-politica-fronteriza.html "https://www.elcomercio.com/actualidad/mundo/harris-contra-trump-proponen-inmigracion-politica-fronteriza.html")
-* [Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU.](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html "Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU. ")
-* [Oficinas de X cierran en Brasil, Elon Musk explicó las razones](https://www.elcomercio.com/actualidad/mundo/oficinas-x-red-social-brasil-musk.html "Oficinas de X cierran en Brasil, Elon Musk explicó las razones")
-
-“Va a ser el que **nos recorte costes.** Creo que podría ahorrar billones”, dijo Trump en un mitin en Walker, en el estado clave de Míchigan.
-
-Trump avanzó a principios de mes que si vuelve al poder tras las **elecciones del 5 de noviembre** creará una comisión de **eficiencia gubernamental,** adoptando así una **idea política q**ue le presentó Musk, uno de sus aliados más estrechos en los últimos tiempos.
-
-El aspirante republicano apuntó entonces que el objetivo de esa comisión será **identificar formas de eliminar el gasto innecesario** y Musk dijo que estaría encantado de ayudar en un organismo de ese tipo, que ha bautizado como Departamento de Eficiencia Gubernamental (DOGE, en las siglas en inglés propuestas por el magnate).
-
-“No creo que pueda tenerle a tiempo completo, porque **está un poco ocupado lanzando cohetes** y todas las cosas que hace”, añadió Trump en Míchigan, según el cual el dueño de X y **el fundador de SpaceX** le ayudará “gratis”.
-
-“Lo va a hacer por nada porque **quiere ver que este país sea grande**. Tener su respaldo es muy grande. Tenemos grandes apoyos, pero permítanme que diga una cosa, que esté implicado va a ser increíble”, dijo.
-
-No obstante, los negocios de Musk podrían interferir en este puesto con **conflictos de intereses,** ya que están regulados por **varias agencias federales.**
-
-La **Administración Nacional de Aeronáutica y del Espacio (NASA)** es uno de los principales clientes de SpaceX. Por otro lado, las **ventas de automóviles** y el negocio de energía de Tesla están subsidiados por créditos fiscales federales, y X está regulada por la Comisión Federal de Comercio. 
-
-Meta anunció inteligencia artificial en Instagram para traducir Reels en tiempo real 
-=====================================================================================
-
-Meta presentó importantes avances en su evento Meta Connect 2024 que no te los puedes perder.
----------------------------------------------------------------------------------------------
-
-![Meta presentó importantes avances en realidad aumentada e inteligencia artificial. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/meta-inteligencia-artificial.jpg)
-
-**Meta** celebró su esperado **evento anual para desarrolladores**, llamado **Meta Connect 2024,** en el que presentó avances significativos en **realidad aumentada**, mixta e **inteligencia artificial**. Entre los anuncios más importantes se incluyeron las nuevas versiones de sus **gafas inteligentes y la introducción de IA en Instagram**. 
-
-### Más noticias
-
-* [¿Qué es Meta AI en WhatsApp, cómo usarla y cómo desactivarla?](https://www.elcomercio.com/tecnologia/meta-ai-whatsapp-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/meta-ai-whatsapp-inteligencia-artificial.html")
-* [Instagram lanza cuenta para adolescentes](https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html "https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html") 
-
-**Meta revoluciona Instagram**  
---------------------------------
-
-**Meta** ha dado un paso importante al integrar **inteligencia artificial** en sus productos. Según [Infobae](https://www.infobae.com/tecno/2024/09/26/meta-transforma-los-reels-de-instagram-con-traduccion-en-tiempo-real-gracias-a-la-ia/ "https://www.infobae.com/tecno/2024/09/26/meta-transforma-los-reels-de-instagram-con-traduccion-en-tiempo-real-gracias-a-la-ia/"), la empresa anunció una **nueva función que permitirá traducir y doblar automáticamente los videos de Reels en Instagram**.  
-
-Esta tecnología, impulsada por **Meta AI**, ofrecerá **traducciones a varios idiomas**, como inglés y español, con la promesa de **mantener la calidad visual del contenido.** 
-
-**Inteligencia artificial aplicada a Instagram y WhatsApp** 
-------------------------------------------------------------
-
-Una de las características más llamativas de las novedades de **Meta AI** es su capacidad para **doblar el audio de videos de forma automática**. Además, se prevé que esta tecnología se integre con **WhatsApp**, donde **los usuarios podrán enviar audios en un idioma y permitir que el receptor los escuche en otro**. Esto promete revolucionar la forma en que los usuarios se comunican en ambas plataformas. 
-
-**Cómo funcionará la traducción automática en Reels** 
-------------------------------------------------------
-
-La tecnología detrás de esta función se basa en **Llama 3.2**, la última versión del **modelo de inteligencia artificial de Meta**. Al traducir un video de Reels, **Meta AI** toma la voz original del creador y **genera una versión en el idioma seleccionado**. 
-
-Lo innovador es que **Meta AI** también **sincroniza los labios del creador en el video**, al ajustar el movimiento de la boca para que coincida con las palabras en el idioma traducido. Esto ofrece una **experiencia mucho más realista** en comparación con otros sistemas de doblaje. 
-
-**Ejemplos en el evento Meta Connect 2024** 
---------------------------------------------
-
-Durante el evento **Meta Connect 2024**, se realizaron demostraciones de esta tecnología. Un ejemplo destacado fue el video de la creadora **Dana Buttigliero**, conocida como **Sabores del Conurbano**. En el video, Buttigliero preparaba un postre con banana y dulce de leche, y **la IA tradujo su voz al inglés**. Aunque se observaron pequeños errores, como la pronunciación de “dulce de leche”, **la traducción fue bastante precisa**. 
-
-Otro caso interesante fue el del creador **Iván Acuña**, conocido como **artificialmente.ia.** En su video, donde hablaba directamente a la cámara, **la sincronización de los labios fue particularmente notable**, lo que mostró el potencial de la IA para **traducir diálogos extensos con fluidez**. 
-
-**Disponibilidad limitada de la nueva función de Meta** 
---------------------------------------------------------
-
-Por ahora, **esta función está en fase de pruebas**. De acuerdo con Infobae, **estará disponible inicialmente para creadores de contenido** en Estados Unidos y América Latina. Aunque no hay fechas exactas para su expansión, **Mark Zuckerberg**, CEO de Meta, indicó que **la empresa planea lanzarla en más países** e idiomas en los próximos meses. 
-
-Inicialmente, solo **se ofrecerán traducciones en inglés y español**, pero Meta ha adelantado que **añadirá soporte para otros idiomas en el futuro**. Esta función busca eliminar barreras lingüísticas y mejorar la accesibilidad en plataformas como Instagram y WhatsApp. 
-
-**Las nuevas gafas inteligentes Orion de Meta** 
-------------------------------------------------
-
-**Meta** también presentó su **prototipo de gafas de realidad aumentada** llamado **Orion**, con el que busca cambiar la **interacción digital**. A decir de [Ámbito](https://www.ambito.com/tecnologia/meta-presento-las-nuevas-gafas-inteligentes-orion-un-casco-realidad-virtual-y-novedades-ia-n6063997 "https://www.ambito.com/tecnologia/meta-presento-las-nuevas-gafas-inteligentes-orion-un-casco-realidad-virtual-y-novedades-ia-n6063997"), estas gafas destacan por su avanzada tecnología y diseño ergonómico, y prometen ser un dispositivo clave en el mundo digital. 
-
-**Gafas Orion: la interacción con hologramas** 
------------------------------------------------
-
-Durante el evento, el CEO de Meta, **Mark Zuckerberg**, siguiendo con Ámbito, reveló que las **gafas inteligentes Orion** permitirán a los usuarios **interactuar con el entorno físico a través de hologramas superpuestos**. Aunque todavía se encuentran en desarrollo y no están disponibles comercialmente, **Meta mostró un prototipo funcional** con un marco algo grueso. 
-
-**Tecnología avanzada en las gafas Orion** 
--------------------------------------------
-
-A simple vista, las **Orion** parecen gafas comunes, pero en su interior esconden proyectores **micro LED**, que generan imágenes con precisión. Además, cuentan con **inteligencia artificial generativa**, lo que permite la proyección de etiquetas digitales sobre objetos reales y la **interacción con la realidad aumentada**. 
-
-**Conexión y control mediante gestos** 
----------------------------------------
-
-Para su funcionamiento, las **gafas Orion** deben conectarse a un pequeño dispositivo inalámbrico de procesamiento llamado **“compute puck”**. También **incluyen una pulsera neuronal** que permite controlar el dispositivo mediante gestos manuales, lo que mejora la experiencia de uso. 
-
-Meta busca con **Orion** revolucionar la forma en que interactuamos con el mundo digital, al combinart **realidad aumentada**, **IA** y un diseño pensado para facilitar su uso diario.
