@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-aee00637a3d41fe4d0bbb076d5a2ad44
+e5a75b4187976180600e61f51d1ee528
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Round turquoise flower clasp](https://www.sojourner.biz/images/cache/SKU0110front.200.jpg)](https://www.sojourner.biz/clasps/glass/round-turquoise-flower-clasp.html "Round turquoise flower clasp")
+[![4 mm clear round beads with primary color accents](https://www.sojourner.biz/images/cache/glass/GL0181.200.jpg)](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
 
-#### [Round turquoise flower clasp](https://www.sojourner.biz/clasps/glass/round-turquoise-flower-clasp.html "Round turquoise flower clasp")
+#### [4 mm clear round beads with primary color accents](https://www.sojourner.biz/beads/glass/4-mm-clear-round-beads-with-primary-color-accents.html "4 mm clear round beads with primary color accents")
 
-$15.00
+$7.00
 
 ### Best Sellers
 
