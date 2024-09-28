@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6569d311fe465beb5758097be9e605fa
+44f9b71673ac89842f49ab9cd0474ad7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm mauve oval pearls](https://sojourner.biz/images/cache/pearls/PE0141.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-mauve-oval-pearls.html "12 mm mauve oval pearls")
+[![10 mm by 12 mm midnight blue faceted rondelles](https://sojourner.biz/images/cache/glass/GL0182.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-12-mm-midnight-blue-faceted-rondelles.html "10 mm by 12 mm midnight blue faceted rondelles")
 
-#### [12 mm mauve oval pearls](https://sojourner.biz/beads/pearls/12-mm-mauve-oval-pearls.html "12 mm mauve oval pearls")
+#### [10 mm by 12 mm midnight blue faceted rondelles](https://sojourner.biz/beads/glass/10-mm-by-12-mm-midnight-blue-faceted-rondelles.html "10 mm by 12 mm midnight blue faceted rondelles")
 
-$23.00
+$10.00
 
 ### Best Sellers
 
