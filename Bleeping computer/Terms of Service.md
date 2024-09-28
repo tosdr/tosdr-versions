@@ -36,6 +36,9 @@
         
         Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
     
+    * [![Pay once and never again in this Koofr lifetime 1TB cloud storage deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Pay once and never again in this Koofr lifetime 1TB cloud storage deal](https://www.bleepingcomputer.com/offer/deals/pay-once-and-never-again-in-this-koofr-lifetime-1tb-cloud-storage-deal/)
     * [![Iranian hackers charged for ‘hack-and-leak’ plot to influence election](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
@@ -45,9 +48,6 @@
     * [![Microsoft: Windows Recall now can be removed, is more secure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft: Windows Recall now can be removed, is more secure](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-recall-now-can-be-removed-is-more-secure/)
-    * [![Embargo ransomware escalates attacks to cloud environments](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Embargo ransomware escalates attacks to cloud environments](https://www.bleepingcomputer.com/news/security/embargo-ransomware-escalates-attacks-to-cloud-environments/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
