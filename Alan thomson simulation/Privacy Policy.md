@@ -214,9 +214,9 @@ You can view product changelogs here
 
 ### Random Download
 
-*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2022/06/png/hairycashew/cj-8-2-100x100.png "Nuggets' trainspotting: Clapham Junction")
+*  [![](https://alanthomsonsim.com/wp-content/uploads/2019/01/jpg/hasanmulla/aa37164-100x100.jpg "West Highland Line Electrified - Phase 1 [HMSimulation]")
     
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "Nuggets' trainspotting: Clapham Junction")](https://alanthomsonsim.com/downloads/nuggets-trainspotting-clapham-junction/ "Nuggets' trainspotting: Clapham Junction")[Nuggets’ trainspotting: Clapham Junction](https://alanthomsonsim.com/downloads/nuggets-trainspotting-clapham-junction/ "Nuggets' trainspotting: Clapham Junction")
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "West Highland Line Electrified - Phase 1 [HMSimulation]")](https://alanthomsonsim.com/downloads/west-highland-line-electrified-phase-1-hmsimulation/ "West Highland Line Electrified - Phase 1 [HMSimulation]")[West Highland Line Electrified – Phase 1 \[HMSimulation\]](https://alanthomsonsim.com/downloads/west-highland-line-electrified-phase-1-hmsimulation/ "West Highland Line Electrified - Phase 1 [HMSimulation]")
 
 ### Most Recent Additions
 
