@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Cowboys could be without injured Parsons, Lawrence for multiple games, AP sources say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174751772.jpg?ve=1&tl=1)
+ [![Hurricane Helene: 15 deaths reported in the state of Georgia](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/GettyImages-2173926525.jpg?ve=1&tl=1)
 
- ![Cowboys could be without injured Parsons, Lawrence for multiple games, AP sources say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174751772.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/parsons-lawrence-injuries-cowboys)
+ ![Hurricane Helene: 15 deaths reported in the state of Georgia](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173926525.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
 
-### [Cowboys could be without injured Parsons, Lawrence for multiple games, AP sources say](https://www.fox4news.com/sports/parsons-lawrence-injuries-cowboys)
+### [Hurricane Helene: 15 deaths reported in the state of Georgia](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
 
- [![Senate Democrats announce TV ad buy in support of Allred](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2167974793.jpg?ve=1&tl=1)
+ [![Death toll rises as Helene unleashes catastrophic flooding across Southeast, knocks out power to millions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/8838218d-Helene1.jpg?ve=1&tl=1)
 
- ![Senate Democrats announce TV ad buy in support of Allred](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2167974793.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/senate-democrats-announce-tv-ad-buy-support-allred)
+ ![Death toll rises as Helene unleashes catastrophic flooding across Southeast, knocks out power to millions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/8838218d-Helene1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-downgraded-tropical-storm-florida-georgia-carolina-what-expect-friday)
 
-### [Senate Democrats announce TV ad buy in support of Allred](https://www.fox4news.com/news/senate-democrats-announce-tv-ad-buy-support-allred)
+### [Death toll rises as Helene unleashes catastrophic flooding across Southeast, knocks out power to millions](https://www.fox4news.com/news/helene-downgraded-tropical-storm-florida-georgia-carolina-what-expect-friday)
 
- [![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2174658309-scaled.jpg?ve=1&tl=1)
+ [![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2173922114-scaled.jpg?ve=1&tl=1)
 
- ![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174658309-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
+ ![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173922114-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
 
 ### [Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
 
- [![Texas Voting Guide: What you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/VOTE-2024.jpg?ve=1&tl=1)
+ [![How much does a meal cost at popular fast food chains in America?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1244662975.jpg?ve=1&tl=1)
 
- ![Texas Voting Guide: What you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/VOTE-2024.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-voting-guide-2024-election)
+ ![How much does a meal cost at popular fast food chains in America?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1244662975.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meal-cost-popular-fast-food-chains-us)
 
-### [Voting Guide: What you need to know about voting in Texas](https://www.fox4news.com/election/texas-voting-guide-2024-election)
+### [How much does a meal cost at popular fast food chains in America?](https://www.fox4news.com/news/meal-cost-popular-fast-food-chains-us)
 
- [![Hurricane Helene: 11 deaths reported in the state of Georgia](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/GettyImages-2173926525.jpg?ve=1&tl=1)
+ [![Kamala Harris makes 1st visit to US-Mexico border in Arizona as presidential nominee | 2024 Election](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/GettyImages-2172951004-scaled.jpg?ve=1&tl=1)
 
- ![Hurricane Helene: 11 deaths reported in the state of Georgia](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173926525.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
+ ![Kamala Harris makes 1st visit to US-Mexico border in Arizona as presidential nominee | 2024 Election](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172951004-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
 
-### [Hurricane Helene: 11 deaths reported in the state of Georgia](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
+### [Kamala Harris makes 1st visit to US-Mexico border in Arizona as presidential nominee | 2024 Election](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
 
 ###### [News](https://www.fox4news.com/news)
 
