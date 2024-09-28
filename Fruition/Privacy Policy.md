@@ -2,23 +2,23 @@
 
 Services
 
-##### Strategy & Research
+##### [Strategy & Research](https://fruition.net/services/strategy-and-research)
 
 [UX Audit](https://fruition.net/services/ux-audit)[Digital Marketing Assessment](https://fruition.net/services/digital-marketing-assessment)[User Research](https://fruition.net/services/user-research)
 
-##### Digital Marketing
+##### [Digital Marketing](https://fruition.net/services/digital-marketing)
 
 [SEO Services](https://fruition.net/services/seo-services)[Paid Media](https://fruition.net/services/paid-media)[Content Marketing](https://fruition.net/services/content-marketing)[Email Marketing](https://fruition.net/services/email-marketing)
 
-##### Web Development
+##### [Web Development](https://fruition.net/services/web-development)
 
 [Full Stack Web Development](https://fruition.net/services/full-stack-web-development)[Help Desk](https://fruition.net/services/help-desk)[Wordpress Maintenance](https://fruition.net/services/wordpress)[Drupal Maintenance](https://fruition.net/services/drupal)[Hosting](https://fruition.net/services/hosting)
 
-##### Creative
+##### [Creative](https://fruition.net/services/creative)
 
 [Website Design](https://fruition.net/services/website-design)[Branding](https://fruition.net/services/branding)
 
-##### AI Data & Analytics
+##### [AI Data & Analytics](https://fruition.net/services/creative)
 
 [AI Integrations](https://fruition.net/services/ai-integrations)[Analytics Solutions](https://fruition.net/services/analytics-solutions)[Google Analytics 4](https://fruition.net/services/ga4)
 
