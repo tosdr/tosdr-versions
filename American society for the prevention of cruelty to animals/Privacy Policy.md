@@ -218,7 +218,7 @@ Attention: Legal Department
 New York, NY 10128  
 [\[email protected\]](https://www.aspca.org/cdn-cgi/l/email-protection)
 
-[![](https://www.aspca.org/sites/default/files/sidebar-ads_050522_dog.png)](https://secure.aspca.org/donate/donate?ms=wb_rig_ad-donate-dog-20220520&initialms=wb_rig_ad-donate-dog-20220520&pcode=WEBMEMBER&lpcode=WEBGUARD)
+[![](https://www.aspca.org/sites/default/files/newsidebar-ads_092024_general.png)](https://secure.aspca.org/donate/donate?ms=wb_rig_ad-donate-dog-20220520&initialms=wb_rig_ad-donate-dog-20220520&pcode=WEBMEMBER&lpcode=WEBGUARD)
 
 ### Other Ways to Help:
 
