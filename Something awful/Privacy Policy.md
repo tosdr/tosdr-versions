@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Pirate Bootie](https://www.somethingawful.com/awful-links/awful-link-919/)
-* [Dungeons & Dragons Module B3: "Palace of the Silver Princess" (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/illusion-of-decapus/1/)
-* [Filling In An IKEA Manual's Missing Words](https://www.somethingawful.com/news/missing-manual-ikea/)
-* [Based On Actual Events](https://www.somethingawful.com/news/based-actual-events/)
-* [CONEX Convict Connections: "Approaching Storm"](https://www.somethingawful.com/news/conex-approaching-storm/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
+* [State Og Update: 11.13.04](https://www.somethingawful.com/state-og/state-og-update-90/)
+* [The Keys to Death and Hell](https://www.somethingawful.com/awful-links/awful-link-1331/)
+* [The Original Dungeons & Dragons](https://www.somethingawful.com/dungeons-and-dragons/steve-old-gygax/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/cc-project.png) [Goon Project: Liberate Moo Deng the baby pygmy hippo](http://forums.somethingawful.com/showthread.php?threadid=4071312 "Goon Project: Liberate Moo Deng the baby pygmy hippo")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [do you think unrefrigerated pizza left out over night is safe to eat?](http://forums.somethingawful.com/showthread.php?threadid=4071339 "do you think unrefrigerated pizza left out over night is safe to eat?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [What's the fastest you've ever seen someone get fired?](http://forums.somethingawful.com/showthread.php?threadid=4071318 "What's the fastest you've ever seen someone get fired?")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [do you think unrefrigerated pizza left out over night is safe to eat?](http://forums.somethingawful.com/showthread.php?threadid=4071339 "do you think unrefrigerated pizza left out over night is safe to eat?")
+* ![](https://forumimages.somethingawful.com/forums/posticons/icon-30-attnmod.gif) [Nuevo Harry the House Plant (help raise him)](http://forums.somethingawful.com/showthread.php?threadid=4071374 "Nuevo Harry the House Plant (help raise him)")
 
 ### Random Articles
 
-* [Osama bin Laundry](https://www.somethingawful.com/news/osama-bin-laundry/)
-* [Tom Thumb](https://www.somethingawful.com/flash-tub/tom-thumb/)
-* [DYNOWARZ: Destruction of Spondyus](https://www.somethingawful.com/rom-pit/dynowarz-spondylus/)
-* [The Email That Put The New Deus Ex Game In Peril](https://www.somethingawful.com/news/deus-ex-email/)
-* [The Goblin Running D.C.](https://www.somethingawful.com/news/ben-nelson-goblin/)
+* [The Truth Contest (Thanks, Boing!)](https://www.somethingawful.com/awful-links/truth-contest/)
+* [Dungeons & Dragons Monsters](https://www.somethingawful.com/photoshop-phriday/dungeons-dragons-monsters/1/)
+* [Strategy Gaming Extravaganza!](https://www.somethingawful.com/news/strategy-gaming-extravaganza/)
+* [You need a Rasta Banana](https://www.somethingawful.com/news/rasta-banana/)
+* [I Hate You Page 83](https://www.somethingawful.com/cliff-yablonski/i-hate-you-83/)
 
 [Random!](https://www.somethingawful.com/random/)
 
