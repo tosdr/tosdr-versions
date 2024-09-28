@@ -285,12 +285,6 @@ Past Week
 
 ### Most Read Articles
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/ExcellentPacking-crChristopherWebbYoung-Thumbnail.webp)](https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/)
-
-[#### Mathematicians Discover New Shapes to Solve Decades-Old Geometry Problem](https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/)
-
-_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
-
 [![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
 
 [#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
@@ -303,11 +297,17 @@ _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett) [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter) [Emily Buder](https://www.quantamagazine.org/authors/ebuder) [Mark Belan](https://www.quantamagazine.org/authors/markbelan)
 
-[![Illustration of a man’s face covered with shadows against a background of wormhole and black hole drawings.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Wheeler-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/ExcellentPacking-crChristopherWebbYoung-Thumbnail.webp)](https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/)
 
-[#### John Wheeler Saw the Tear in Reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
+[#### Mathematicians Discover New Shapes to Solve Decades-Old Geometry Problem](https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/)
 
-_By_ [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter)
+_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
+
+[![An astronaut becoming or emerging from a hologram](https://www.quantamagazine.org/wp-content/uploads/2024/09/Holography-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
+
+[#### If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 The Quanta Newsletter
 
