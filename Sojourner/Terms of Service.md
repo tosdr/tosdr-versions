@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2f8aa52e503590d951e9ca4794f6e923
+b3dd7be8b35a8b600e71a3e0fe5ee36e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Swarovski crystal AB clasp](https://sojourner.biz/images/cache/SKU0490front.200.jpg)](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")
+[![Monster hat](https://sojourner.biz/images/cache/CL0013hatmonsterfront.200.jpg)](https://sojourner.biz/clothing/monster-hat.html "Monster hat")
 
-#### [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")
+#### [Monster hat](https://sojourner.biz/clothing/monster-hat.html "Monster hat")
 
-$28.00
+$25.00
 
 ### Best Sellers
 
