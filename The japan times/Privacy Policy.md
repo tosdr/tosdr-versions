@@ -566,23 +566,15 @@ Latest News
 
 [Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64](https://www.japantimes.co.jp/news/2024/09/28/world/hassan-nasrallah-dead/ "Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64")
 
-3 hours ago
+9 hours ago
 
 [Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut](https://www.japantimes.co.jp/news/2024/09/28/world/israel-says-hassan-nasrallah-dead/ "Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut")
 
-7 hours ago
-
 [Many still in evacuation shelters after heavy rain in Ishikawa](https://www.japantimes.co.jp/news/2024/09/28/japan/ishikawa-evacuation-rain/ "Many still in evacuation shelters after heavy rain in Ishikawa")
-
-8 hours ago
 
 [Kobayashi Pharma sued in Taiwan over beni kōji products](https://www.japantimes.co.jp/business/2024/09/28/kobayashi-pharma-sued-taiwan/ "Kobayashi Pharma sued in Taiwan over beni kōji products")
 
-8 hours ago
-
 [After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/politics/blinken-wang-china-ukraine/ "After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
