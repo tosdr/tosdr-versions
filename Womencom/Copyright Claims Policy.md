@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+*  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-    =======================================================================================================================
+    [Taylor Swift's Best Halloween Costumes From Comfy To Comic Book](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+    ===============================================================================================================================================================
     
-    Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
+    We look to Taylor Swift for everything from book recs to Instagram captions. So why wouldn't we look to her for Halloween costume ideas?
     
-    By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+    By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
     
-* *  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+* *  [![Kate Moss skinny scarf](https://www.women.com/img/gallery/the-celeb-approved-early-aughts-skinny-scarf-trend-is-officially-back/intro-1727285222.jpg)](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [5 Reese Witherspoon Outfits That Prove She's The Queen Of The Black Dress](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+        ### [The Celeb-Approved Early Aughts Skinny Scarf Trend Is Officially Back](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
         
-        Reese Witherspoon has never met an LBD she didn't like. Here are 5 times she took the classic look and made it her own.
+        Whether you love the skinny scarf like Kate Moss or feel it's your duty to at least try it out, you'll need some inspiration before stocking up.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+        By Amanda Chatel [Read More](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
         
-    *  [![Purple celestial nails](https://www.women.com/img/gallery/5-practical-magic-inspired-nail-ideas-with-impeccable-autumn-vibes/intro-1727206271.jpg)](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+    *  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Wellness](https://www.women.com/category/wellness/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
         
-        ### [5 Practical Magic Inspired Nail Ideas With Impeccable Autumn Vibes](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+        ### [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
         
-        Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
+        Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+        By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
         
 
 More Stories
 ------------
 
+*  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Reese Witherspoon Outfits That Prove She's The Queen Of The Black Dress](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+    
+    Reese Witherspoon has never met an LBD she didn't like. Here are 5 times she took the classic look and made it her own.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
+    
+*  [![Purple celestial nails](https://www.women.com/img/gallery/5-practical-magic-inspired-nail-ideas-with-impeccable-autumn-vibes/intro-1727206271.jpg)](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [5 Practical Magic Inspired Nail Ideas With Impeccable Autumn Vibes](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+    
+    Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
+    
 *  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     Jennifer Lopez and Ben Affleck lasted another two years before announcing their impending divorce. How does astrology help explain the split?
     
     By Amanda Chatel [Read More](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
-    
-*  [![Jennifer Aniston with a milky frenc manicure](https://www.women.com/img/gallery/whats-a-milky-french-manicure-how-do-you-get-the-chic-nail-look-loved-by-celebs/intro-1726169448.jpg)](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [What's A Milky French Manicure & How Do You Get The Chic Nail Look Loved By Celebs?](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
-    
-    Across TikTok, we're embracing the cleanest version of our favorite mani -- milky French nails. We asked a nail artist exactly how to get the diffuse look.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
-    
-*  [![Looking at phone](https://www.women.com/img/gallery/your-guide-to-the-toxic-submarining-dating-trend/intro-1725989793.jpg)](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Your Guide To The Toxic Submarining Dating Trend](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
-    
-    One might think that we as a society have evolved past all the problematic dating trends. But we haven't. Enter: submarining.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
     
 
 Back
