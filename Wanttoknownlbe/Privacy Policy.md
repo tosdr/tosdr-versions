@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/wetenschap-concludeert-prozac-gebruikt-door-40-miljoen-mensen-werkt-niet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/al-het-co2-overschot-naar-onze-kas-kwekers/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
