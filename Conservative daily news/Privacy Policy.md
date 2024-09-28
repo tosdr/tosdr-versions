@@ -1,4 +1,15 @@
-Friday, September 27 2024
+Saturday, September 28 2024
+
+Breaking News
+
+* [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
+* [President Joe Biden’s Schedule for Saturday, September 28, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-saturday-september-28-2024/)
+* [Illegal Aliens Are Registered To Vote — Now What?](https://www.conservativedailynews.com/2024/09/illegal-aliens-are-registered-to-vote-now-what/)
+* [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/)
+* [US Could Be Inches Away From Another Economic Crisis As Massive Port Strike Looms](https://www.conservativedailynews.com/2024/09/us-could-be-inches-away-from-another-economic-crisis-as-massive-port-strike-looms/)
+* [The US Should Stop Funding The United Nations](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
+* [Biden Reportedly Planning To Make Tightened Border Asylum Restrictions More Permanent](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
+* [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -98,7 +109,7 @@ Support CDN!
 
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.70%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
 * [![Democrat City crime violence](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
     
@@ -115,57 +126,57 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/atom-bomb-pic.jpg)](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
+    
+    [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
+    
+    September 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/09/02-biden-zs-ac-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-saturday-september-28-2024/)
+    
+    [President Joe Biden’s Schedule for Saturday, September 28, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-saturday-september-28-2024/)
+    
+    September 28, 2024
+    
+* [![illegal-immigration-afbranco-71114](https://www.conservativedailynews.com/wp-content/uploads/2016/09/illegal-immigration-afbranco-71114.jpg)](https://www.conservativedailynews.com/2024/09/illegal-aliens-are-registered-to-vote-now-what/)
+    
+    [Illegal Aliens Are Registered To Vote — Now What?](https://www.conservativedailynews.com/2024/09/illegal-aliens-are-registered-to-vote-now-what/)
+    
+    September 28, 2024
+    
+* [Smartmatic Settles Lawsuit With Newsmax Over 2020 Election Defamation Case](https://www.conservativedailynews.com/2024/09/smartmatic-settles-lawsuit-with-newsmax-over-2020-election-defamation-case/)
+    
+    September 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5621-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/)
+    
+    [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/)
+    
+    September 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/No-unions-220x150.jpg)](https://www.conservativedailynews.com/2024/09/us-could-be-inches-away-from-another-economic-crisis-as-massive-port-strike-looms/)
+    
+    [US Could Be Inches Away From Another Economic Crisis As Massive Port Strike Looms](https://www.conservativedailynews.com/2024/09/us-could-be-inches-away-from-another-economic-crisis-as-massive-port-strike-looms/)
+    
+    September 27, 2024
+    
+* [![Secret Service Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/09/05-sservice-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/requests-denied/)
+    
+    [Requests Denied](https://www.conservativedailynews.com/2024/09/requests-denied/)
+    
+    September 27, 2024
+    
 * [![United Nations UN terrorism UNRWA](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz020624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
     
     [The US Should Stop Funding The United Nations](https://www.conservativedailynews.com/2024/09/the-us-should-stop-funding-the-united-nations/)
     
     September 27, 2024
     
-* [![Joe Biden open border illegal aliens](https://www.conservativedailynews.com/wp-content/uploads/2024/02/mrz022624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
-    
-    [Biden Reportedly Planning To Make Tightened Border Asylum Restrictions More Permanent](https://www.conservativedailynews.com/2024/09/biden-reportedly-planning-to-make-tightened-border-asylum-restrictions-more-permanent/)
-    
-    September 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-signing-bill-Jill-Biden-supervising-220x150.png)](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
-    
-    [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.conservativedailynews.com/2024/09/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/)
-    
-    September 27, 2024
-    
-* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/made-in-china-2/)
-    
-    [Made in China](https://www.conservativedailynews.com/2024/09/made-in-china-2/)
-    
-    September 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-Beach-House-Rehoboth-220x150.jfif)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-27-2024/)
-    
-    [President Joe Biden’s Schedule for Friday, September 27, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-friday-september-27-2024/)
-    
-    September 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/09/harris-attack-on-the-filibuster-is-an-attack-on-the-constitution/)
-    
-    [Harris’ Attack on the Filibuster Is an Attack on the Constitution](https://www.conservativedailynews.com/2024/09/harris-attack-on-the-filibuster-is-an-attack-on-the-constitution/)
-    
-    September 27, 2024
-    
-* [![Kamala socialism handouts](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-vision/)
-    
-    [Kamala’s Vision](https://www.conservativedailynews.com/2024/09/kamalas-vision/)
-    
-    September 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental.jpg)](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
-    
-    [FAIL: Army Delays Pay Raise For Soldiers Days Before It Was Expected To Arrive](https://www.conservativedailynews.com/2024/09/fail-army-delays-pay-raise-for-soldiers-days-before-it-was-expected-to-arrive/)
-    
-    September 26, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Timney Glock Alpha Trigger](https://www.thegunpage.com/tfb-review-timney-glock-alpha-trigger/10610866)
+* [POTD: Chilean Special Forces With Colt M5s](https://www.thegunpage.com/potd-chilean-special-forces-with-colt-m5s/10610867)
 * [TFB Podcast Roundup 148: The September 27th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-148-the-september-27th-roundup/10610863)
 * [TFB Review: MKE MP5 Style Retractable Buttstock](https://www.thegunpage.com/tfb-review-mke-mp5-style-retractable-buttstock/10610864)
 * [They’re Baaackkk: Slide Fire Relaunches](https://www.thegunpage.com/theyre-baaackkk-slide-fire-relaunches/10610860)
@@ -174,8 +185,6 @@ Recent Posts
 * [Long Term Review of Staccato P Pistol](https://www.thegunpage.com/long-term-review-of-staccato-p-pistol/10610861)
 * [Visiting Ammo Plant in PA, Ukraine’s Zelensky Shills for the Democrats](https://www.thegunpage.com/visiting-ammo-plant-in-pa-ukraines-zelensky-shills-for-the-democrats/10610856)
 * [Vortex Introduces Viper HD 11-33×50 Spotting Scopes](https://www.thegunpage.com/vortex-introduces-viper-hd-11-33x50-spotting-scopes/10610853)
-* [FPC Files Brief In Appeal Concerning 3rd Grader’s Gun-Related Cap](https://www.thegunpage.com/fpc-files-brief-in-appeal-concerning-3rd-graders-gun-related-cap/10610851)  
-* [Biden Signs Executive Order Aimed At 3D Printed Guns, Machine Gun Devices](https://www.thegunpage.com/biden-signs-executive-order-aimed-at-3d-printed-guns-machine-gun-devices/10610849)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -214,6 +223,18 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
+
+Recent Comments
+
+* WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
+* James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
+* Jeffrey L. on [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/#comment-782332)
+* Brad Lowther on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782316)
+* Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
+* KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
+* KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
+* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
+* charles wilkins on [Kamala Meets the Press](https://www.conservativedailynews.com/2024/09/kamala-meets-the-press/#comment-782284)
 
 [Close](#)
 
