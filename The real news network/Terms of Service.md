@@ -105,13 +105,13 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
+* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
-* [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 
 Close
 
@@ -169,13 +169,13 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
+* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
-* [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 
 [Skip to content](#main)
 
@@ -368,13 +368,13 @@ Trending Posts
 * ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
+* [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
+* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
-* [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * ['The Genocide Gentry': Weapon execs sit on boards of universities, institutions](https://therealnews.com/the-genocide-gentry-weapon-execs-sit-on-boards-of-universities-institutions)
-* [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [The Right wants us to submit to nihilism. Here is where i’m searching for hope.](https://therealnews.com/the-right-wants-us-to-submit-to-nihilism-here-is-where-im-searching-for-hope)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
