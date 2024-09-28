@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,10 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Мясные "гнёзда" с картофелем, сыром и яйцами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=168614)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -170,6 +166,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[По-домашнему. Лучшая ВЫПЕЧКА №24-39](https://www.russianfood.com/reading/?post_id=22657) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/739/sm_738977.jpg)](https://www.russianfood.com/reading/?post_id=22657)
+
+Яблочный пирог со сметанным кремом. Булочки-бургеры. Томатная самса с фаршем и овощами. Чизкейк с голубикой. Творожное печенье с яблоками. Пицца из сырного теста. Лимонные кабачковые кексы.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22657)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22657#comments) | 28.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Наполнит яркостью ваши блюда. СВЁКЛА по-необычному (17)](https://www.russianfood.com/reading/?post_id=22655) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/741/sm_740014.jpg)](https://www.russianfood.com/reading/?post_id=22655)
+
+Свекольные рулетики с творожной начинкой. Постный борщ с запечённой свёклой. Капуста, маринованная со свёклой. Свекольный салат с зеленью и апельсиновой заправкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22655)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22655#comments) | 28.09.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Аппетитные морковные истории. Лучшие рецепты из МОРКОВИ (24)](https://www.russianfood.com/reading/?post_id=22654) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/702/sm_701433.jpg)](https://www.russianfood.com/reading/?post_id=22654)
+
+Морковный рулет с сыром и маслинами. Тефтели из моркови, булгура и чечевицы. Морковно-тыквенный суп. Рис с печенью и морковью. Морковно-яблочные зразы с сыром.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22654)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22654#comments) | 28.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -295,7 +333,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Благотворительность](https://www.russianfood.com/blogs/?id=276205) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22647#comments) | 26.09.24 |     |
+|     | [Благотворительность](https://www.russianfood.com/blogs/?id=276205) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22647#comments) | 26.09.24 |     |
 
 |     |     |
 | --- | --- |
@@ -338,48 +376,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22644#comments) | 26.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Тыквенный суп с копчёными рёбрышками и чечевицей](https://www.russianfood.com/recipes/recipe.php?rid=172939) |     |
-
-[![Фото к рецепту: Тыквенный суп с копчёными рёбрышками и чечевицей](//img1.russianfood.com/dycontent/images_upl/725/sm_724604.jpg "Фото к рецепту: Тыквенный суп с копчёными рёбрышками и чечевицей")](https://www.russianfood.com/recipes/recipe.php?rid=172939)
-
-Этот тыквенный суп с копчёными рёбрышками и чечевицей готовится достаточно просто. Копчёные рёбрышки делают вкус и аромат этого супа особенно ярким, тыква придаёт сладость, а чечевица делает блюдо густым и сытным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172939)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172939#comments) | 26.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Чечевичный суп-пюре с рыбой](https://www.russianfood.com/recipes/recipe.php?rid=172983) |     |
-
-[![Фото к рецепту: Чечевичный суп-пюре с рыбой](//img1.russianfood.com/dycontent/images_upl/738/sm_737396.jpg "Фото к рецепту: Чечевичный суп-пюре с рыбой")](https://www.russianfood.com/recipes/recipe.php?rid=172983)
-
-Простой суп-пюре из чечевицы, картофеля, моркови и лука, который в конце приготовления дополняется кусочками обжаренной белой рыбы. Вкусно и просто.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172983)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172983#comments) | 26.09.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Томатный суп с фрикадельками и макаронами](https://www.russianfood.com/recipes/recipe.php?rid=173039) |     |
-
-[![Фото к рецепту: Томатный суп с фрикадельками и макаронами](//img1.russianfood.com/dycontent/images_upl/733/sm_732038.jpg "Фото к рецепту: Томатный суп с фрикадельками и макаронами")](https://www.russianfood.com/recipes/recipe.php?rid=173039)
-
-Картофель, лук и сладкий перец обжариваются в кастрюле, дополняются помидорами, томатной пастой, пряностями и заливаются водой. Затем в суп добавляются фрикадельки из мясного фарша и макароны. Простейшее приготовление – отличный сытный суп.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173039)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173039#comments) | 26.09.24 |     |
 
 |     |
 | --- |
@@ -452,10 +448,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733145.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173180) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733607.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174009) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738656.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174089) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739256.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174118) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735794.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173365) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739398.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174152) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735226.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173325) |
-| [Ризотто с яблоками, вином, сыром и орехами](https://www.russianfood.com/recipes/recipe.php?rid=173180) | [Салат с говядиной, сыром и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174009) | [Дынный пирог с апельсиновой цедрой и штрейзелем](https://www.russianfood.com/recipes/recipe.php?rid=174089) | [Маффины со сливами и маком](https://www.russianfood.com/recipes/recipe.php?rid=174118) | [Пирог с начинкой из мака, изюма и орехов](https://www.russianfood.com/recipes/recipe.php?rid=173365) | [Пирог-роза из теста фило с голубикой и яично-сливочной заливкой](https://www.russianfood.com/recipes/recipe.php?rid=174152) | [Постные оладьи на рассоле](https://www.russianfood.com/recipes/recipe.php?rid=173325) |
-| [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737145.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173950) | [![](//img1.russianfood.com/dycontent/images_upl/731/alt1_730656.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173972) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738224.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738948.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733236.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174105) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740179.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735448.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173312) |
-| [Слоёный пирог с творогом, голубикой, вареньем и сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173950) | [Шоколадно-кофейное безе с фундуком](https://www.russianfood.com/recipes/recipe.php?rid=173972) | [Салат с чечевицей, помидорами и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [Пицца из сырного теста, с колбасой, маринованными огурцами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [Салат с кальмарами, перцем, морковью и огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174105) | [Салат с крабовыми палочками, помидорами, сельдереем и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174123) | [Десерт из яблок с печеньем и джемом](https://www.russianfood.com/recipes/recipe.php?rid=173312) |
+| [![](//img1.russianfood.com/dycontent/images_upl/648/alt1_647539.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737145.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173950) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738536.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174232) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738224.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735226.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173325) | [![](//img1.russianfood.com/dycontent/images_upl/734/alt1_733554.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174033) |
+| [Шоколадные конфеты с сухофруктами, семечками, орехами и печеньем](https://www.russianfood.com/recipes/recipe.php?rid=169966) | [Песочный тарт со сливами в сметанной заливке](https://www.russianfood.com/recipes/recipe.php?rid=174098) | [Слоёный пирог с творогом, голубикой, вареньем и сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173950) | [Десерт с печеньем, джемом и сливочно-сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174232) | [Салат с чечевицей, помидорами и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174076) | [Постные оладьи на рассоле](https://www.russianfood.com/recipes/recipe.php?rid=173325) | [Кабачковая «пицца» с ветчиной и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174033) |
+| [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738948.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734659.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173231) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734824.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173188) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736974.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173961) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734785.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173191) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738656.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174089) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734428.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173901) |
+| [Пицца из сырного теста, с колбасой, маринованными огурцами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174233) | [Омлет с грибами, помидорами и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=173231) | [Киш из рубленого теста, с курицей, шпинатом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173188) | [Салат с кальмарами, помидорами и горошком](https://www.russianfood.com/recipes/recipe.php?rid=173961) | [Кокосовое безе с шоколадной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173191) | [Дынный пирог с апельсиновой цедрой и штрейзелем](https://www.russianfood.com/recipes/recipe.php?rid=174089) | [Клафути с голубикой](https://www.russianfood.com/recipes/recipe.php?rid=173901) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +468,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(146)
+(123)
