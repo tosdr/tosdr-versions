@@ -400,6 +400,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Rowlett mayor cries foul after early voting site moved to smaller venue](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/rowlett-mayor.png?ve=1&tl=1)
+
+ ![Rowlett mayor cries foul after early voting site moved to smaller venue](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/rowlett-mayor.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rowlett-mayor-cries-foul-after-early-election-site-moved-smaller-venue)
+
+### [Rowlett mayor cries foul after early voting site moved to smaller venue](https://www.fox4news.com/news/rowlett-mayor-cries-foul-after-early-election-site-moved-smaller-venue)
+
+ [![Tennessee hospital floods, forcing 'dangerous' helicopter rescue](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/hospital-rescue.jpg?ve=1&tl=1)
+
+ ![Tennessee hospital floods, forcing 'dangerous' helicopter rescue](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/hospital-rescue.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-unicoi-hospital-flooding-tennessee)
+
+### [Tennessee hospital floods, forcing 'dangerous' helicopter rescue](https://www.fox4news.com/news/helene-unicoi-hospital-flooding-tennessee)
+
  [![Hurricane Helene: 15 deaths reported in the state of Georgia](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/GettyImages-2173926525.jpg?ve=1&tl=1)
 
  ![Hurricane Helene: 15 deaths reported in the state of Georgia](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173926525.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-helene-deaths-injuries-reported-metro-atlanta-georgia)
@@ -417,18 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2173922114-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
 
 ### [Helene latest: Live updates from Georgia, Florida, Tennessee and the Carolinas](https://www.fox4news.com/news/helene-latest-georgia-florida-tampa-north-carolina-south-carolina)
-
- [![How much does a meal cost at popular fast food chains in America?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1244662975.jpg?ve=1&tl=1)
-
- ![How much does a meal cost at popular fast food chains in America?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1244662975.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meal-cost-popular-fast-food-chains-us)
-
-### [How much does a meal cost at popular fast food chains in America?](https://www.fox4news.com/news/meal-cost-popular-fast-food-chains-us)
-
- [![Kamala Harris makes 1st visit to US-Mexico border in Arizona as presidential nominee | 2024 Election](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/GettyImages-2172951004-scaled.jpg?ve=1&tl=1)
-
- ![Kamala Harris makes 1st visit to US-Mexico border in Arizona as presidential nominee | 2024 Election](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172951004-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
-
-### [Kamala Harris makes 1st visit to US-Mexico border in Arizona as presidential nominee | 2024 Election](https://www.fox4news.com/news/kamala-harris-visit-arizona-border-sept-27)
 
 ###### [News](https://www.fox4news.com/news)
 
