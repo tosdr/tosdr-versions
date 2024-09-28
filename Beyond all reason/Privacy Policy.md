@@ -157,7 +157,7 @@ The entire source code for this server is [available on Github](https://github.c
 
 [Back to Top](#NAVTOP)
 
-![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f7125ee84aab760626a1c6_BAR-Beyond-All-Reason-Logo-Simple-ExtraGlow-20-512px.png)
+![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f7f7926b15e184348d85e3_BAR-Beyond-All-Reason-Logo-20-Simple-LittleGlow-Vector2.svg)
 
 Beyond All Reason RTS
 
