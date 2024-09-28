@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [ICE: More Than 425,000 Criminal Illegal Immigrants Free in US, Including 13,099 Convicted Killers](https://www.theepochtimes.com/us/ice-more-than-425000-criminal-illegal-immigrants-free-in-us-including-13099-convicted-killers-5731925)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![ICE: More Than 425,000 Criminal Illegal Immigrants Free in US, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![ICE: More Than 425,000 Criminal Illegal Immigrants Free in US, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5641985-03252024-DSC00443-ICE-DHS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/ice-more-than-425000-criminal-illegal-immigrants-free-in-us-including-13099-convicted-killers-5731925)
+* [Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://www.theepochtimes.com/us/federal-government-postpones-auction-of-oregons-first-offshore-wind-leases-5731699)
+    
+    2hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    
+    [![Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666005-GettyImages-1407548865-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-government-postpones-auction-of-oregons-first-offshore-wind-leases-5731699)
+* [‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://www.theepochtimes.com/us/complete-obliteration-desantis-says-hurricane-helene-damage-worse-than-idalia-5731855)
+    
+    3hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731939-3.download-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/complete-obliteration-desantis-says-hurricane-helene-damage-worse-than-idalia-5731855)
+* [DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://www.theepochtimes.com/us/doj-urges-court-to-end-federal-oversight-of-new-orleans-police-reforms-5731753)
+    
+    5hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731940-New-Orleans-Parade-shooting-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-urges-court-to-end-federal-oversight-of-new-orleans-police-reforms-5731753)
+* [US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://www.theepochtimes.com/us/us-marshals-arrest-3421-violent-fugitives-in-nationwide-operation-5731868)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731941-53988373058_e9356fa461_k-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-marshals-arrest-3421-violent-fugitives-in-nationwide-operation-5731868)
+* [Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://www.theepochtimes.com/us/kentucky-sues-express-scripts-for-alleged-role-in-fueling-opioid-crisis-5731709)
+    
+    5hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://img.theepochtimes.com/assets/uploads/2024/02/02/id5579181-OxyContin-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/kentucky-sues-express-scripts-for-alleged-role-in-fueling-opioid-crisis-5731709)
+* [Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://www.theepochtimes.com/us/wisconsin-supreme-court-rejects-rfk-jr-bid-to-get-his-name-off-state-ballot-5731727)
+    
+    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723186-09102024-DSC08867-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-supreme-court-rejects-rfk-jr-bid-to-get-his-name-off-state-ballot-5731727)
+* [Can Consciousness Exist Without a Brain?](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
+    
+    6hr By [Yuhong Dong M.D., Ph.D.](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    
+    [![Can Consciousness Exist Without a Brain?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Can Consciousness Exist Without a Brain?](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729253-Is-Your-Brain-Really-Necessary-featured-imag-205x123.jpg.webp)](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
 * [Car Insurance Premiums Hit Record Highs](https://www.theepochtimes.com/business/car-insurance-premiums-hit-record-highs-5731620)
     
-    NEW By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    7hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
     [![Car Insurance Premiums Hit Record Highs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Car Insurance Premiums Hit Record Highs](https://img.theepochtimes.com/assets/uploads/2022/04/04/Car-Crash-Irvine_JF_03302022-205x123.jpg.webp)](https://www.theepochtimes.com/business/car-insurance-premiums-hit-record-highs-5731620)
+    ![Car Insurance Premiums Hit Record Highs](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731942-Car-Crash-Irvine_JF_03302022-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/car-insurance-premiums-hit-record-highs-5731620)
 * [Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://www.theepochtimes.com/business/nearly-50-percent-of-us-homes-remain-unsold-for-at-least-60-days-report-5731276)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/business/nearly-50-percent-of-us-homes-remain-unsold-for-at-least-60-days-report-5731276)
-* [How Justice Barrett Carved Out a Unique Voice on the Supreme Court](https://www.theepochtimes.com/us/how-justice-barrett-carved-out-a-unique-voice-on-the-supreme-court-5729909)
-    
-    4hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![How Justice Barrett Carved Out a Unique Voice on the Supreme Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How Justice Barrett Carved Out a Unique Voice on the Supreme Court](https://img.theepochtimes.com/assets/uploads/2020/10/06/barrett-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-justice-barrett-carved-out-a-unique-voice-on-the-supreme-court-5729909)
-* [Do You Really Need Your Brain?](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
-    
-    6hr By [Yuhong Dong M.D., Ph.D.](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
-    
-    [![Do You Really Need Your Brain?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Do You Really Need Your Brain?](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729253-Is-Your-Brain-Really-Necessary-featured-imag-205x123.jpg.webp)](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
-* [Key State Ballot Measures to Follow This Election](https://www.theepochtimes.com/us/key-state-ballot-measures-to-follow-this-election-5729928)
-    
-    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Key State Ballot Measures to Follow This Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Key State Ballot Measures to Follow This Election](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668246-Voting-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-state-ballot-measures-to-follow-this-election-5729928)
-* [How Hezbollah Built a Shadow State in Lebanon](https://www.theepochtimes.com/world/hezbollah-is-lebanons-state-within-a-state-5730959)
-    
-    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![How Hezbollah Built a Shadow State in Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How Hezbollah Built a Shadow State in Lebanon](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730568-GettyImages-2173543408-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-is-lebanons-state-within-a-state-5730959)
-* [Turkish Organized Crime Expanding in Europe With Diversification of Drugs Trade](https://www.theepochtimes.com/world/turkish-organized-crime-expanding-in-europe-with-diversification-of-drugs-trade-5728479)
-    
-    7hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Turkish Organized Crime Expanding in Europe With Diversification of Drugs Trade](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Turkish Organized Crime Expanding in Europe With Diversification of Drugs Trade](https://img.theepochtimes.com/assets/uploads/2024/06/17/id5669904-forensics-205x123.jpg.webp)](https://www.theepochtimes.com/world/turkish-organized-crime-expanding-in-europe-with-diversification-of-drugs-trade-5728479)
-* [Hezbollah Confirms Leader Nasrallah Killed in Israeli Airstrike](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
-    
-    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts) and [Simon Veazey](https://www.theepochtimes.com/author/simon-veazey)
-    
-    [![Hezbollah Confirms Leader Nasrallah Killed in Israeli Airstrike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hezbollah Confirms Leader Nasrallah Killed in Israeli Airstrike](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5727074-GettyImages-1762017654.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-leader-of-hezbollah-killed-in-air-strikes-5731762)
-* [After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://www.theepochtimes.com/article/after-watching-hours-of-debates-by-vance-walz-heres-what-to-expect-at-the-vp-debate-5723955)
-    
-    14hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
-    
-    [![After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![After Watching Hours of Debates by Vance, Walz—Here’s What to Expect at the VP Debate](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731690-JD-Vance-and-Tim-Walz2-205x123.jpg.webp)](https://www.theepochtimes.com/article/after-watching-hours-of-debates-by-vance-walz-heres-what-to-expect-at-the-vp-debate-5723955)
-* [DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://www.theepochtimes.com/us/doj-sues-alabama-for-voter-roll-purge-program-targeting-noncitizens-5731691)
-    
-    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Sues Alabama for Voter Roll Purge Program Targeting Noncitizens](https://img.theepochtimes.com/assets/uploads/2024/03/20/id5611384-GettyImages-2054042827-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-alabama-for-voter-roll-purge-program-targeting-noncitizens-5731691)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
