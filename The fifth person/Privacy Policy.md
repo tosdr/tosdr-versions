@@ -170,6 +170,14 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/malaysian-ringgit-strength-2024/)
+    
+    [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
+    
+    1 day ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2022/11/USD-220x150.jpg)](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
     [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
@@ -186,17 +194,17 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/malaysian-ringgit-strength-2024/)
-    
-    [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
-    
-    21 hours ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
+    
+    2 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    
+    [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
     
     2 weeks ago
     
@@ -207,14 +215,6 @@ Quick Guides
     [7 quick steps to pick the best dividend stocks](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
     
     November 24, 2014
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
-    
-    [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
-    
-    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
