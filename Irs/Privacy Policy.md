@@ -46,7 +46,7 @@ Information Menu
 Main navigation mobile
 ----------------------
 
- [![Home](/themes/custom/pup_base/IRS-Logo.svg) ![Home](/themes/custom/pup_irs/images/logo-print.svg)](https://www.irs.gov/ "Home")* [File](https://www.irs.gov/filing)
+[![Home](/themes/custom/pup_base/IRS-Logo.svg)](https://www.irs.gov/ "Home")* [File](https://www.irs.gov/filing)
     
     * [Overview](https://www.irs.gov/filing)
     
@@ -248,111 +248,6 @@ Information Menu
 * [Form 2848](https://www.irs.gov/forms-pubs/about-form-2848 "Apply for Power of Attorney")
 * [Form W-7](https://www.irs.gov/forms-pubs/about-form-w-7 "Apply for an ITIN")
 * [Circular 230](https://www.irs.gov/pub/irs-pdf/pcir230.pdf "Rules Governing Practice before IRS")
-
-Main navigation mobile
-----------------------
-
- [![Home](/themes/custom/pup_base/IRS-Logo.svg) ![Home](/themes/custom/pup_irs/images/logo-print.svg)](https://www.irs.gov/ "Home")* [File](https://www.irs.gov/filing)
-    
-    * [Overview](https://www.irs.gov/filing)
-    
-    * INFORMATION FOR…
-    * [Individuals](https://www.irs.gov/how-to-file-your-taxes-step-by-step)
-    * [Business & Self Employed](https://www.irs.gov/businesses)
-    * [Charities and Nonprofits](https://www.irs.gov/charities-and-nonprofits)
-    * [International Taxpayers](https://www.irs.gov/individuals/international-taxpayers)
-    * [Federal State and Local Governments](https://www.irs.gov/government-entities/federal-state-local-governments)
-    * [Indian Tribal Governments](https://www.irs.gov/government-entities/indian-tribal-governments)
-    * [Tax Exempt Bonds](https://www.irs.gov/tax-exempt-bonds)
-    
-    * FILING FOR INDIVIDUALS
-    * [How to File](https://www.irs.gov/filing/individuals/how-to-file)
-    * [When to File](https://www.irs.gov/filing/individuals/when-to-file)
-    * [Where to File](https://www.irs.gov/filing/where-to-file-tax-returns-addresses-listed-by-return-type)
-    * [Update Your Information](https://www.irs.gov/filing/individuals/update-my-information)
-    
-    * POPULAR
-    * [Get Your Tax Record](https://www.irs.gov/individuals/get-transcript)
-    * [Apply for an Employer ID Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
-    * [Check Your Amended Return Status](https://www.irs.gov/filing/wheres-my-amended-return)
-    * [Get an Identity Protection PIN (IP PIN)](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)
-    * [File Your Taxes for Free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
-    
-* [Pay](https://www.irs.gov/payments)
-    
-    * [Overview](https://www.irs.gov/payments)
-    
-    * PAY BY
-    * [Bank Account (Direct Pay)](https://www.irs.gov/payments/direct-pay)
-    * [Payment Plan (Installment Agreement)](https://www.irs.gov/payments/online-payment-agreement-application)
-    * [Electronic Federal Tax Payment System (EFTPS)](https://www.irs.gov/payments/eftps-the-electronic-federal-tax-payment-system)
-    
-    * POPULAR
-    * [Your Online Account](https://www.irs.gov/payments/online-account-for-individuals)
-    * [Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator)
-    * [Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes)
-    * [Penalties](https://www.irs.gov/payments/penalties)
-    
-* [Refunds](https://www.irs.gov/refunds)
-    
-    * [Overview](https://www.irs.gov/refunds)
-    
-    * [Where's My Refund](https://www.irs.gov/wheres-my-refund)
-    * [What to Expect](https://www.irs.gov/refunds/what-to-expect-for-refunds-this-year)
-    * [Direct Deposit](https://www.irs.gov/refunds/get-your-refund-faster-tell-irs-to-direct-deposit-your-refund-to-one-two-or-three-accounts)
-    * [Reduced Refunds](https://www.irs.gov/taxtopics/tc203)
-    * [Amend Return](https://www.irs.gov/filing/file-an-amended-return)
-    
-* [Credits & Deductions](https://www.irs.gov/credits-and-deductions)
-    
-    * [Overview](https://www.irs.gov/credits-and-deductions)
-    
-    * INFORMATION FOR...
-    * [Individuals](https://www.irs.gov/credits-and-deductions-for-individuals "For you and your family")
-    * For you and your family
-    * [Businesses & Self-Employed](https://www.irs.gov/credits-deductions/businesses "Standard mileage and other information")
-    * Standard mileage and other information
-    
-    * POPULAR
-    * [Earned Income Credit (EITC)](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc)
-    * [Child Tax Credit](https://www.irs.gov/credits-deductions/individuals/child-tax-credit)
-    * [Clean Energy and Vehicle Credits](https://www.irs.gov/credits-deductions/clean-vehicle-and-energy-credits)
-    * [Standard Deduction](https://www.irs.gov/help/ita/how-much-is-my-standard-deduction)
-    * [Retirement Plans](https://www.irs.gov/retirement-plans)
-    
-* [Forms & Instructions](https://www.irs.gov/forms-instructions)
-    
-    * [Overview](https://www.irs.gov/forms-instructions)
-    
-    * POPULAR FORMS & INSTRUCTIONS
-    * [Form 1040](https://www.irs.gov/forms-pubs/about-form-1040 "Individual Tax Return")
-    * Individual Tax Return
-    * [Form 1040 Instructions](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf "Instructions for Form 1040 ")
-    * Instructions for Form 1040
-    * [Form W-9](https://www.irs.gov/forms-pubs/about-form-w-9 "Request for Taxpayer Identification Number (TIN) and Certification")
-    * Request for Taxpayer Identification Number (TIN) and Certification
-    * [Form 4506-T](https://www.irs.gov/forms-pubs/about-form-4506-t "Request for Transcript of Tax Return")
-    * Request for Transcript of Tax Return
-    
-    * [Form W-4](https://www.irs.gov/forms-pubs/about-form-w-4 "Employee's Withholding Certificate")
-    * Employee's Withholding Certificate
-    * [Form 941](https://www.irs.gov/forms-pubs/about-form-941 "Employer's Quarterly Federal Tax Return")
-    * Employer's Quarterly Federal Tax Return
-    * [Form W-2](https://www.irs.gov/forms-pubs/about-form-w-2 "Employers engaged in a trade or business who pay compensation")
-    * Employers engaged in a trade or business who pay compensation
-    * [Form 9465](https://www.irs.gov/forms-pubs/about-form-9465 "Installment Agreement Request")
-    * Installment Agreement Request
-    
-    * POPULAR FOR TAX PROS
-    * [Form 1040-X](https://www.irs.gov/forms-pubs/about-form-1040x "Amend/Fix Return")
-    * Amend/Fix Return
-    * [Form 2848](https://www.irs.gov/forms-pubs/about-form-2848 "Apply for Power of Attorney")
-    * Apply for Power of Attorney
-    * [Form W-7](https://www.irs.gov/forms-pubs/about-form-w-7 "Apply for an ITIN")
-    * Apply for an ITIN
-    * [Circular 230](https://www.irs.gov/pub/irs-pdf/pcir230.pdf "Rules Governing Practice before IRS")
-    * Rules Governing Practice before IRS
-    
 
 Main navigation
 ---------------
