@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Romance Arkansas City ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/cities/30-facts-about-romance-arkansas-city/)
+[![40 Facts About Mel Kiper ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/mass-media/40-facts-about-mel-kiper/)
 
-Cities
+Mass Media
 
-26 Sep 2024
+28 Sep 2024
 
-[30 Facts About Romance Arkansas City](https://facts.net/world/cities/30-facts-about-romance-arkansas-city/)
+[40 Facts About Mel Kiper](https://facts.net/culture-and-the-arts/mass-media/40-facts-about-mel-kiper/)
 
-[![35 Facts About Attica Prison Riot ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-attica-prison-riot/)
+[![50 Facts About Ramsay Hunt Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/50-facts-about-ramsay-hunt-syndrome/)
 
-Historical Events
+Health
 
-26 Sep 2024
+28 Sep 2024
 
-[35 Facts About Attica Prison Riot](https://facts.net/history/historical-events/35-facts-about-attica-prison-riot/)
+[50 Facts About Ramsay Hunt Syndrome](https://facts.net/lifestyle/health/50-facts-about-ramsay-hunt-syndrome/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
