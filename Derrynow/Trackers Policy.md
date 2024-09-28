@@ -259,37 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Accountant pleads guilty to fraud charges at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Accountant pleads guilty to fraud charges at Derry Crown Court")](https://www.derrynow.com/news/local-news/1615832/accountant-pleads-guilty-to-fraud-charges-at-derry-crown-court.html)
+[![IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1615208/in-pictures-gordon-harper-s-90th-birthday-celebrations-in-derry-s-city-hotel.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Accountant pleads guilty to fraud charges at Derry Crown Court](https://www.derrynow.com/news/local-news/1615832/accountant-pleads-guilty-to-fraud-charges-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Our hearts are broken' - Magherafelt boy Tony Fitzpatrick has sadly passed away](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Our hearts are broken' - Magherafelt boy Tony Fitzpatrick has sadly passed away")](https://www.derrynow.com/news/home/1616039/our-hearts-are-broken-magherafelt-boy-tony-fitzpatrick-has-sadly-passed-away.html)
-
-Tony Fitzpatrick passed away this morning.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-['Our hearts are broken' - Magherafelt boy Tony Fitzpatrick has sadly passed away](https://www.derrynow.com/news/home/1616039/our-hearts-are-broken-magherafelt-boy-tony-fitzpatrick-has-sadly-passed-away.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![55-year-old Derry man sentenced for five counts of child cruelty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
-
-Newry court house
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday")](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Funeral of Magherafelt boy Tony Fitzpatrick to take place on Sunday](https://www.derrynow.com/news/county-derry-post/1616443/funeral-of-magherafelt-boy-tony-fitzpatrick-to-take-place-on-sunday.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1615208/in-pictures-gordon-harper-s-90th-birthday-celebrations-in-derry-s-city-hotel.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
 
@@ -298,33 +273,26 @@ Newry court house
 [Derry Death Notices - Saturday, 28th September 2024](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![£2.6million Active Travel scheme for busy Ballykelly road set to commence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£2.6million Active Travel scheme for busy Ballykelly road set to commence")](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
+[![PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust")](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry public warned about parking fine text messages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry public warned about parking fine text messages")](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[£2.6million Active Travel scheme for busy Ballykelly road set to commence](https://www.derrynow.com/news/local-news/1615998/2-6million-active-travel-scheme-for-busy-ballykelly-road-set-to-commence.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry public warned about parking fine text messages](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (35) has bail revoked for attempting to make contact with former partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (35) has bail revoked for attempting to make contact with former partner")](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
+[![PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School")](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Man (35) has bail revoked for attempting to make contact with former partner](https://www.derrynow.com/news/local-news/1615887/man-35-has-bail-revoked-forattempting-to-make-contact-with-former-partner.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man returned for trial for head-butting and spitting on Donegal garda](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial for head-butting and spitting on Donegal garda")](https://www.derrynow.com/news/crime---courts/1615820/derry-man-returned-for-trial-for-head-butting-and-spitting-on-donegal-garda.html)
-
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
-
-[Derry man returned for trial for head-butting and spitting on Donegal garda](https://www.derrynow.com/news/crime---courts/1615820/derry-man-returned-for-trial-for-head-butting-and-spitting-on-donegal-garda.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire")](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fundraiser launched after Coleraine expectant family lose 'precious' dog in major house fire](https://www.derrynow.com/news/local-news/1615745/fundraiser-launched-after-coleraine-expectant-family-lose-precious-dog-in-major-house-fire.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
 
@@ -335,11 +303,62 @@ Drogheda United players celebrate. Pic by Sportsfile
 [Derry City fall to defeat at Drogheda United](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Struggling to sleep? Derry event to help achieve that](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Struggling to sleep? Derry event to help achieve that")](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
+
+PICTURE: DEPOSITPHOTOS
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Struggling to sleep? Derry event to help achieve that](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night")](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein is ‘election ready’, McDonald insists](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein is ‘election ready’, McDonald insists")](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Sinn Fein is ‘election ready’, McDonald insists](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![McDonald pledges to remove means test for carer’s allowance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDonald pledges to remove means test for carer’s allowance")](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[McDonald pledges to remove means test for carer’s allowance](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School")](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1615208/in-pictures-gordon-harper-s-90th-birthday-celebrations-in-derry-s-city-hotel.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1615208/in-pictures-gordon-harper-s-90th-birthday-celebrations-in-derry-s-city-hotel.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust")](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor attends Women's Health Check event in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1615902/in-pictures-mayor-attends-women-s-health-check-event-in-derry-s-guildhall.html)
 
@@ -389,29 +408,6 @@ Multimedia
 
 [PICTURES: Inside this charming Victorian two-storey house and farmland for sale on outskirts of Derry](https://www.derrynow.com/news/property/1612228/pictures-inside-this-charming-victorian-two-storey-house-and-farmland-for-sale-on-outskirts-of-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Elodie Bateson from Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Elodie Bateson from Limavady")](https://www.derrynow.com/video/pictures---videos/1611934/watch-inspirational-county-derry-girl-heading-for-grand-pianist-competition-final.html)
-
-Elodie Bateson from Limavady
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[WATCH: Inspirational County Derry girl heading for Grand Pianist competition final](https://www.derrynow.com/video/pictures---videos/1611934/watch-inspirational-county-derry-girl-heading-for-grand-pianist-competition-final.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Reception for Derry Peace and Conflict International Conference](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Reception for Derry Peace and Conflict International Conference")](https://www.derrynow.com/story-telling/pictures---videos/1613162/in-pictures-reception-for-derry-peace-and-conflict-international-conference.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Reception for Derry Peace and Conflict International Conference](https://www.derrynow.com/story-telling/pictures---videos/1613162/in-pictures-reception-for-derry-peace-and-conflict-international-conference.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar")](https://www.derrynow.com/story-telling/pictures---videos/1612806/in-pictures-sarah-duffy-s-18th-birthday-celebrations-in-derry-s-collon-bar.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Sarah Duffy's 18th birthday celebrations in Derry's Collon Bar](https://www.derrynow.com/story-telling/pictures---videos/1612806/in-pictures-sarah-duffy-s-18th-birthday-celebrations-in-derry-s-collon-bar.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +509,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![4,000 brown bins to reach rural areas of Derry in coming weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "4,000 brown bins to reach rural areas of Derry in coming weeks")](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[4,000 brown bins to reach rural areas of Derry in coming weeks](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry public warned about parking fine text messages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry public warned about parking fine text messages")](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -520,7 +523,7 @@ Advertise with Us
 [Derry public warned about parking fine text messages](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Struggling to sleep? Derry event to help achieve that](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Struggling to sleep? Derry event to help achieve that")](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
+[![Struggling to sleep? Derry event to help achieve that](https://www.derrynow.com/resizer/165/93/true/1635258948458.jpg--.jpg?1635258955000 "Struggling to sleep? Derry event to help achieve that")](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
 
 PICTURE: DEPOSITPHOTOS
 
@@ -553,15 +556,6 @@ Drogheda United players celebrate. Pic by Sportsfile
 
 [Derry City fall to defeat at Drogheda United](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/resizer/165/93/true/2024_09_27/00047cab-500-1727461500648.jpg--.jpg?1727461500676 "55-year-old Derry man sentenced for five counts of child cruelty")](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
-
-Newry court house
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[55-year-old Derry man sentenced for five counts of child cruelty](https://www.derrynow.com/news/local-news/1616442/55-year-old-derry-man-sentenced-for-five-counts-of-child-cruelty.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
