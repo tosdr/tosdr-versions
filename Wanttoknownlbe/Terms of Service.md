@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-elite-heeft-al-lang-verloren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/meneer-jeroen-van-shell-wil-n-nieuw-beloningssysteem/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
