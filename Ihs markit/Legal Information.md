@@ -23,7 +23,7 @@ EN
 
 #### Offerings by Division
 
-* [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [S&P Global Market Intelligence](https://www.spglobal.com/market-intelligence/)
 * [S&P Global Ratings](https://www.spglobal.com/ratings/)
 * [S&P Global Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -64,7 +64,7 @@ India's Future: The Quest for High and Stable Growth
 
 Offerings by Division
 
-[S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/)
+[S&P Global Market Intelligence](https://www.spglobal.com/market-intelligence/)
 
 [S&P Global Ratings](https://www.spglobal.com/ratings/)
 
@@ -103,7 +103,7 @@ Offerings by Division
 
    [![market-intelligence](https://spglobal.scene7.com/is/image/spglobalcom/MarketIntelligence-1?$responsive$)
 
-#### Market Intelligence](https://www.spglobal.com/marketintelligence)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
+#### Market Intelligence](https://ihsmarkit.com/market-intelligence/en)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
 
 #### Ratings](https://www.spglobal.com/ratings)   [![commodity-insights](https://spglobal.scene7.com/is/image/spglobalcom/CommodityInsights-1?$responsive$)
 
@@ -152,7 +152,7 @@ Offerings by Division
 [Overview](https://ihsmarkit.com/en/explore-s-p-global/careers)[Our Culture](https://ihsmarkit.com/en/explore-s-p-global/careers/our-culture)[Our Commitment](https://ihsmarkit.com/en/explore-s-p-global/careers/our-commitment)[Our Work](https://ihsmarkit.com/en/explore-s-p-global/careers/our-work)[Search for a Job](https://careers.spglobal.com/)
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -169,7 +169,7 @@ S&P Global Offerings
 
    [![market-intelligence](https://spglobal.scene7.com/is/image/spglobalcom/MarketIntelligence-1?$responsive$)
 
-#### Market Intelligence](https://www.spglobal.com/marketintelligence)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
+#### Market Intelligence](https://ihsmarkit.com/market-intelligence/en)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
 
 #### Ratings](https://www.spglobal.com/ratings)   [![commodity-insights](https://spglobal.scene7.com/is/image/spglobalcom/CommodityInsights-1?$responsive$)
 
@@ -242,7 +242,7 @@ Search EN [Support](https://www.spglobal.com/en/enterprise/about/contact-us.html
 
    [![market-intelligence](https://spglobal.scene7.com/is/image/spglobalcom/MarketIntelligence-1?$responsive$)
 
-#### Market Intelligence](https://www.spglobal.com/marketintelligence)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
+#### Market Intelligence](https://ihsmarkit.com/market-intelligence/en)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
 
 #### Ratings](https://www.spglobal.com/ratings)   [![commodity-insights](https://spglobal.scene7.com/is/image/spglobalcom/CommodityInsights-1?$responsive$)
 
@@ -291,7 +291,7 @@ Search EN [Support](https://www.spglobal.com/en/enterprise/about/contact-us.html
 [Overview](https://ihsmarkit.com/en/explore-s-p-global/careers)[Our Culture](https://ihsmarkit.com/en/explore-s-p-global/careers/our-culture)[Our Commitment](https://ihsmarkit.com/en/explore-s-p-global/careers/our-commitment)[Our Work](https://ihsmarkit.com/en/explore-s-p-global/careers/our-work)[Search for a Job](https://careers.spglobal.com/)
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -308,7 +308,7 @@ S&P Global Offerings
 
    [![market-intelligence](https://spglobal.scene7.com/is/image/spglobalcom/MarketIntelligence-1?$responsive$)
 
-#### Market Intelligence](https://www.spglobal.com/marketintelligence)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
+#### Market Intelligence](https://ihsmarkit.com/market-intelligence/en)   [![ratings](https://spglobal.scene7.com/is/image/spglobalcom/OverviewRatings-1?$responsive$)
 
 #### Ratings](https://www.spglobal.com/ratings)   [![commodity-insights](https://spglobal.scene7.com/is/image/spglobalcom/CommodityInsights-1?$responsive$)
 
@@ -439,7 +439,7 @@ Who We Are
 * * *
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -545,7 +545,7 @@ By Topic
 * * *
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -652,7 +652,7 @@ Events
 [Contact](https://investor.spglobal.com/contact-investor-relations/contact-ir/default.aspx)
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -786,7 +786,7 @@ Back S&P Global
 * * *
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -892,7 +892,7 @@ By Topic
 * * *
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
@@ -999,7 +999,7 @@ Events
 [Contact](https://investor.spglobal.com/contact-investor-relations/contact-ir/default.aspx)
 
 * [S&P Global Home](https://www.spglobal.com/en/)
-* [Market Intelligence](https://www.spglobal.com/marketintelligence/)
+* [Market Intelligence](https://ihsmarkit.com/market-intelligence/en)
 * [Ratings](https://www.spglobal.com/ratings/)
 * [Commodity Insights](https://www.spglobal.com/commodityinsights/)
 * [S&P Dow Jones Indices](https://www.spglobal.com/spdji/)
