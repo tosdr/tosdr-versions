@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-10% off $100!+\* [Download & Open App to Get Code](https://www.zappos.com/c/apps)
+Use code WHATTHE20 for $20 off $150+. [Learn More](https://www.zappos.com/c/coupon-disclaimers)
 
 Best Merrell Hiking Boots for Fall. [Shop the List](https://www.zappos.com/c/merrell-hiking-boots-for-fall)
 
