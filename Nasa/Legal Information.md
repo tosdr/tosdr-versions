@@ -291,7 +291,7 @@ article 1 week ago](https://www.nasa.gov/missions/station/iss-research/nasa-astr
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 11 min read
 
@@ -357,19 +357,19 @@ article 3 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change
 
-article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes](https://science.nasa.gov/wp-content/uploads/2024/09/pia19821-nustar-xrt-sun.jpg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes](https://science.nasa.gov/wp-content/uploads/2024/09/pia19821-nustar-xrt-sun.jpg)
 
 2 min read
 
 ### Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes
 
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-54-d-9-nustar-phase-1-proposal-due-date-moved-up-to-january-29-2025-and-other-changes/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-54-d-9-nustar-phase-1-proposal-due-date-moved-up-to-january-29-2025-and-other-changes/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/students-s
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 19 hours ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
 
 3 min read
 
