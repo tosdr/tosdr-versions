@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks again for the amazing support and I really appreciate the help in resolving this issue so quickly. I will be sure to inform my bosses about the great customer support provided.
+Your proxy service worked exactly as advertised. I encountered no problems whatsoever! Completely satisfied. Its frustrating that I have to use a proxy just because I am living in Japan, but at least I know I can count on FoxyProxy when I need it. I will definitely subscribe again if the need arises. Thanks!
 
-Jack Morrow
+Michael Weissert
