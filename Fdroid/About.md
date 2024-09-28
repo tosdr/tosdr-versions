@@ -180,34 +180,34 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/spam.blocker/en-US/icon_NvpPfzS3J8Gx5PNIZUjNWQwk8ECPl6nVjaQ_6-8FsxY=.png)
+[![](https://f-droid.org/repo/v4lpt.vpt.pwg/en-US/icon_zNhsX0Hxb2T_cdJMt42yWcAB2O0IhzLxXWLYm5IDluI=.png)
 
-#### SpamBlocker (Call & SMS)
+#### Valentin's PowerTools #002 - Passwords to remember
 
-Spam Call/SMS blocker](https://f-droid.org/en/packages/spam.blocker/)[![](https://f-droid.org/repo/org.woheller69.omweather/en-US/icon_E3rAVMKaoXV3S6EdjZbr8Ah3yVuGV4teI7GOx4SRxl4=.png)
+Generates human speakable and readable passwords](https://f-droid.org/en/packages/v4lpt.vpt.pwg/)[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
 
-#### Cirrus
+#### Valentin's PowerTools #036 - Ease The Waiting
 
-Weather and rain radar for any location - worldwide](https://f-droid.org/en/packages/org.woheller69.omweather/)[![](https://f-droid.org/repo/org.dianqk.ruslin/en-US/icon_l6fiwJnqQoiv3PWvjrQJ80jz37szN9lDg0QXZsOQmF8=.png)
+A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/ua.acclorite.book_story/en-US/icon_22AqdYWuhRrzTD7lWKdEQKGTSPoJj97bjvdEu9Ofj5g=.png)
 
-#### Ruslin
+#### Book's Story
 
-A note application that supports syncing using a self-hosted Joplin server.](https://f-droid.org/en/packages/org.dianqk.ruslin/)
+Dive into the world of adventure as you discover your favorite book's story!](https://f-droid.org/en/packages/ua.acclorite.book_story/)
 
-### Latest Apps
+### جدیدترین برنامه‌ها
 
-[![](https://f-droid.org/repo/fr.ryder.benoit.jmdictdroid/en-US/icon_1NPHZxKxMWOUdqhObCX9U7eCXPT-qQHbVmmxsfPj8C8=.png)
+[![](https://f-droid.org/repo/com.marktka.calculatorYou/en-US/icon_hs5M_Cc4qQp2KgLtI2F8AkH8syZGIupNUgnjsaGyqxo=.png)
 
-#### JMdict droid
+#### Calculator You: Math & Units
 
-A Japanese to English dictionary, based on JMdict.](https://f-droid.org/en/packages/fr.ryder.benoit.jmdictdroid/)[![](https://f-droid.org/repo/de.ferreum.pto/en-US/icon_yXEkyRqPqN9_IWqx43-2oGoomiHW4d_pgkvsCFi3seo=.png)
+Calculator You is a beautiful calculator for solving simple tasks.](https://f-droid.org/en/packages/com.marktka.calculatorYou/)[![](https://f-droid.org/repo/ac.mdiq.podcini.R/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png)
 
-#### PTO - Plaintext Organizer
+#### Podcini
 
-Stay organized with one plaintext file per day.](https://f-droid.org/en/packages/de.ferreum.pto/)[![](https://f-droid.org/repo/straw.berry/en-US/icon_zrfbqJ9UARHCFDHM6GIEgV1WbZv5auvg3F6k-WSTUjo=.png)
+مدیر و پخش‌کنندهٔ پادکست، با کاربری آسان، منعطف و متن‌باز](https://f-droid.org/en/packages/ac.mdiq.podcini.R/)[![](https://f-droid.org/repo/io.github.devhyper.openvideoeditor/en-US/icon_N3hNF_DMk7m9oZRTibM-jra2Es4DheP-okWhvLYqFLs=.png)
 
-#### 🍓🍓🍓
+#### Open Video Editor
 
-Strawberry is strawberry, strawberry 🍓🍓🍓](https://f-droid.org/en/packages/straw.berry/)
+ویرایشگر ویدئو متن باز، ساخته شده با Media3 و Jetpack Compose.](https://f-droid.org/en/packages/io.github.devhyper.openvideoeditor/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-09-26, fdroid-website [2.268](https://gitlab.com/fdroid/fdroid-website/tree/9ad1e2992a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-28, fdroid-website [2.268](https://gitlab.com/fdroid/fdroid-website/tree/9ad1e2992a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
