@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tim-walz-1200x630.jpg)](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpwarrenmi-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
 
-[Harris-Walz attempt to rally Latino voters is a fantastic flop: ‘I thought there would be more…’](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
+[Trump hammers Kamala over criminal illegal ‘killing machine’](https://americanwirenews.com/trump-hammers-kamala-over-criminal-illegal-killing-machine/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/screenshot-2024-09-26-054230-1200x630.png)](https://americanwirenews.com/emir-of-qatar-steps-up-at-the-united-nations/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/RF-Harris-Biden-1200x630.jpg)](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
 
-[Emir of Qatar steps up at the United Nations](https://americanwirenews.com/emir-of-qatar-steps-up-at-the-united-nations/)
+[Republicans cry foul, urge probe into Biden-Harris admin over Medicare premium offset plan](https://americanwirenews.com/republicans-cry-foul-urge-probe-into-biden-harris-admin-over-medicare-premium-offset-plan/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-dan-bongino-1200x630.jpg)](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-google-search-1200x630.jpg)](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
 
-[Dan Bongino delivers blunt message for George Soros after radio acquisition](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
+[Trump slams Google for ‘blatant interference’ and vows ‘prosecution’ if he wins](https://americanwirenews.com/trump-slams-google-for-blatant-interference-and-vows-prosecution-if-he-wins/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-republican-vs-democrat-children-1200x630.jpg)](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-netanyahu-1200x630.jpg)](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
 
-[Kids from Republican homes more inclusive and less politically agitated than Dem counterparts, study finds](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
+[Netanyahu delivers EPIC tongue lashing to anti-Semitic ‘UN house of darkness’](https://americanwirenews.com/netanyahu-delivers-epic-tongue-lashing-to-anti-semitic-un-house-of-darkness/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-kamalaphilly1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-swift-1200x630.jpg)](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
 
-[Voter registration swing spells bad news for Democrats](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
+[‘Bad Blood’: Republican, independent support for Taylor Swift drops following Kamala endorsement](https://americanwirenews.com/bad-blood-republican-independent-support-for-taylor-swift-drops-following-kamala-endorsement/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyc-queens-streets-1200x630.jpg)](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-adams-lewismartin-1200x630.jpg)](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
 
-[Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
+[NYC mayor’s chief adviser hit with federal subpoena, has cell phone seized](https://americanwirenews.com/nyc-mayors-chief-adviser-hit-with-federal-subpoena-has-cell-phone-seized/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college--1200x630.png)](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-honeybadger-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
 
-[‘The tide is turning’: Charlie Kirk shares inspiring signs of hope for America on college campuses](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
+[Bannon rallies the MAGA troops in fiery message from behind prison walls](https://americanwirenews.com/bannon-rallies-the-maga-troops-in-fiery-message-from-behind-prison-walls/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fox-weather-1200x630.png)](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mark-cuban-sg-riley-gaines-1200x630.jpg)](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
 
-[Fox meteorologist rescues Atlanta woman trapped in car while reporting on hurricane](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
+[Mark Cuban, Riley Gaines go rounds over Harris’s border record: ‘We might have different standards’](https://americanwirenews.com/mark-cuban-riley-gaines-go-rounds-over-harriss-border-record-we-might-have-different-standards/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-2173926361-1-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalaborder-1200-x-628-1200x630.jpg)
 
-(Photo by Alex Kent/Getty Images)
-
-### ‘This is what leadership looks like’: Trump vows to hammer out peace deal during Zelenskyy meeting](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
+### Border Patrol union and others rip into Harris for ‘completely staged’ border visit](https://americanwirenews.com/border-patrol-union-and-others-rip-into-harris-for-completely-staged-border-visit/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -80,6 +78,14 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-smallbizfox-1200-x-628-1200-x-628-220x180.jpg)](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
+
+[Small business owners struggling to ‘keep up’ under Harris-Biden economy as election looms](https://americanwirenews.com/small-business-owners-struggling-to-keep-up-under-harris-biden-economy-as-election-looms/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-college--220x180.png)](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
+
+[‘The tide is turning’: Charlie Kirk shares inspiring signs of hope for America on college campuses](https://americanwirenews.com/the-tide-is-turning-charlie-kirk-shares-inspiring-signs-of-hope-for-america-on-college-campuses/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rizzler-cringe-220x180.jpg)](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
 
 [Dem congressperson lets Gen Z staffers write script, produces PURE cringe](https://americanwirenews.com/dem-congressperson-lets-gen-z-staffers-write-script-produces-pure-cringe/)
@@ -88,17 +94,47 @@ Search for:
 
 [Major automaker next up to be ‘exposed’ for deep devotion to DEI](https://americanwirenews.com/major-automaker-next-up-to-be-exposed-for-deep-devotion-to-dei/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-2173926361-1-220x180.jpg)](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
+
+[‘This is what leadership looks like’: Trump vows to hammer out peace deal during Zelenskyy meeting](https://americanwirenews.com/this-is-what-leadership-looks-like-trump-vows-to-hammer-out-peace-deal-during-zelenskyy-meeting/)
+
+(Photo by Alex Kent/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-dan-bongino-220x180.jpg)](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
+
+[Dan Bongino delivers blunt message for George Soros after radio acquisition](https://americanwirenews.com/dan-bongino-delivers-blunt-message-for-george-soros-after-radio-acquisition/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nyc-queens-streets-220x180.jpg)](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
+
+[Furious New Yorkers torch AOC for ‘neighborhood nightmare’ that looks like ‘brothel-filled-red-light district’](https://americanwirenews.com/furious-new-yorkers-torch-aoc-for-neighborhood-nightmare-that-looks-like-brothel-filled-red-light-district/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tim-walz-220x180.jpg)](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
+
+[Harris-Walz attempt to rally Latino voters is a fantastic flop: ‘I thought there would be more…’](https://americanwirenews.com/harris-walz-attempt-to-rally-latino-voters-is-a-fantastic-flop-i-thought-there-would-be-more/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-karen-brinson-bell-220x180.png)](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
 
 [North Carolina scrubs 747,000 from voter rolls amid GOP lawsuit](https://americanwirenews.com/north-carolina-scrubs-747000-from-voter-rolls-amid-gop-lawsuit/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-kamalaphilly1-1200-x-628-220x180.jpg)](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
+
+[Voter registration swing spells bad news for Democrats](https://americanwirenews.com/voter-registration-swing-spells-bad-news-for-democrats/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/state-of-california-220x180.jpg)](https://americanwirenews.com/newsom-signs-reparations-bill-as-california-formally-apologizes-for-slavery/)
 
 [Newsom signs reparations bill as California formally apologizes for slavery](https://americanwirenews.com/newsom-signs-reparations-bill-as-california-formally-apologizes-for-slavery/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-republican-vs-democrat-children-220x180.jpg)](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
+
+[Kids from Republican homes more inclusive and less politically agitated than Dem counterparts, study finds](https://americanwirenews.com/kids-from-republican-homes-more-inclusive-and-less-politically-agitated-than-dem-counterparts-study-finds/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-biden-signing-220x180.jpg)](https://americanwirenews.com/biden-refers-to-kamala-as-boss-and-slams-secretary-j-d-vance-with-false-accusation-in-rambling-remarks/)
 
 [Biden refers to Kamala as ‘boss’ and slams ‘secretary’ J.D. Vance with false accusation in rambling remarks](https://americanwirenews.com/biden-refers-to-kamala-as-boss-and-slams-secretary-j-d-vance-with-false-accusation-in-rambling-remarks/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fox-weather-220x180.png)](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
+
+[Fox meteorologist rescues Atlanta woman trapped in car while reporting on hurricane](https://americanwirenews.com/fox-meteorologist-rescues-atlanta-woman-trapped-in-car-while-reporting-on-hurricane/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-ship-220x180.jpg)](https://americanwirenews.com/sabotage-shocker-shipbuilding-company-suspects-faulty-welds-were-done-intentionally-on-us-navy-subs/)
 
@@ -139,42 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-mayor-adams-220x180.jpg)](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
 
 [‘You are a disgrace for all Black people in this city!’ Adams loudly heckled at presser](https://americanwirenews.com/you-are-a-disgrace-for-all-black-people-in-this-city-adams-loudly-heckled-at-presser/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-nathan-fani-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
-
-[Manhunt underway for Fani Willis’ boy toy Nathan Wade](https://americanwirenews.com/manhunt-underway-for-fani-willis-boy-toy-nathan-wade/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-nyc-220x180.png)](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
-
-[Trump blasts ABC News for violating debate agreement](https://americanwirenews.com/trump-blasts-abc-news-moderator-for-violating-debate-agreement/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jumaane-williams-220x180.jpg)](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
-
-[AOC-backed Anti-cop, far-left zealot on deck to replace NYC Mayor Adams](https://americanwirenews.com/aoc-backed-anti-cop-far-left-zealot-on-deck-to-replace-nyc-mayor-adams/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-zelenskyy-2-220x180.jpg)](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
-
-[Trump shares private message Zelenskyy just sent him](https://americanwirenews.com/trump-shares-private-message-zelenskyy-just-sent-him/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jdvance1-1200-x-628-220x180.jpg)](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
-
-[Leftist journo ‘doing Iran’s bidding’ by publishing hacked Vance document](https://americanwirenews.com/leftist-journo-doing-irans-bidding-by-publishing-hacked-vance-document/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tlaib-blinken-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/rashida-tlaib-to-antony-blinken-resign-now/)
-
-[Rashida Tlaib to Antony Blinken: ‘Resign now’](https://americanwirenews.com/rashida-tlaib-to-antony-blinken-resign-now/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-ruhle-220x180.jpg)](https://americanwirenews.com/whoa-byron-york-shares-transcript-of-kamala-interview-and-its-even-scarier-in-writing/)
-
-[‘WHOA!!’ Byron York shares transcript of Kamala interview and it’s even scarier in writing](https://americanwirenews.com/whoa-byron-york-shares-transcript-of-kamala-interview-and-its-even-scarier-in-writing/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-kelly-220x180.jpg)](https://americanwirenews.com/megyn-kelly-blasts-declared-highest-paid-female-ceo-in-america-he-climbed-none-of-the-mountains-we-did/)
-
-[Megyn Kelly blasts declared ‘highest paid female CEO in America’: ‘He climbed none of the mountains we did’](https://americanwirenews.com/megyn-kelly-blasts-declared-highest-paid-female-ceo-in-america-he-climbed-none-of-the-mountains-we-did/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-election-ballot-220x180.jpg)](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
-
-[‘NO BARCODE’: Wisc. Rep demands investigation ‘NOW’ after excuse for duplicate ballots doesn’t add up](https://americanwirenews.com/no-barcode-wisc-rep-demands-investigation-now-after-excuse-for-duplicate-ballots-doesnt-add-up/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
