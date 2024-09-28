@@ -6,7 +6,7 @@
 * [PRIVACY](https://americanfreepress.net/privacy-policy/)
 * [CONTACT](https://americanfreepress.net/contact-us-2/)
 
-* [Facebook](http://facebook.com/)
+* [Facebook](https://facebook.com/)
 * [Twitter](https://twitter.com/)
 * [Youtube](https://www.youtube.com/user/afpsupporter)
 
@@ -17,7 +17,7 @@ Search for:
 * [Home](https://www.americanfreepress.net/)
 * [Multimedia](#)
     * [Rumble](https://rumble.com/c/c-1667185)
-    * [Video](http://www.youtube.com/afpsupporter)
+    * [Video](https://www.youtube.com/afpsupporter)
     * [Audio](https://americanfreepress.net/?page_id=723)
 * [Archives](https://americanfreepress.net/archive/)
 * [Support](https://americanfreepress.net/?page_id=10)
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=218910394)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=446440105)
