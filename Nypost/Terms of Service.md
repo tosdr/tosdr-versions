@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Hezbollah vows to avenge death of its longtime leader after Israel airstrike in Beirut](https://nypost.com/2024/09/28/world-news/hezbollah-leader-hassan-nasrallah-killed-by-idf-airstrike-in-beirut/)
+
 Terms Of Use
 ============
 
