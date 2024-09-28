@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [6 Best Microsoft Word Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-word-courses/)
-2. [10 Best Python Courses for 2024](https://www.classcentral.com/report/best-python-courses/)
-3. [\[2024\] 220+ Math Online Courses from World’s Top Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
-4. [Massive List of MOOC-based Microcredentials](https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
-5. [7 Best Genetics Courses for 2024](https://www.classcentral.com/report/best-genetics-courses/)
+1. [6 Best Content Marketing Courses for 2024](https://www.classcentral.com/report/best-content-marketing-courses/)
+2. [6 Best Microsoft Word Courses for Beginners for 2024](https://www.classcentral.com/report/best-microsoft-word-courses/)
+3. [10 Best Python Courses for 2024](https://www.classcentral.com/report/best-python-courses/)
+4. [\[2024\] 220+ Math Online Courses from World’s Top Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
+5. [Massive List of MOOC-based Microcredentials](https://www.classcentral.com/report/list-of-mooc-based-microcredentials/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. python
+1. c
     
-2. marketing
+2. computer science
     
-3. data science
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Python
     
-    9,548 courses](https://www.classcentral.com/subject/ai)
-2. [Web Development
+    8,601 courses](https://www.classcentral.com/subject/python)
+2. [Graphic Design
     
-    12,549 courses](https://www.classcentral.com/subject/web-development)
-3. [Communication Skills
+    4,161 courses](https://www.classcentral.com/subject/graphic-design)
+3. [Computer Science
     
-    3,891 courses](https://www.classcentral.com/subject/communication-skills)
+    32,527 courses](https://www.classcentral.com/subject/cs)
 
 Popular courses
 ---------------
 
-1. [Introduction to Complexity
+1. [Songwriting: Writing the Lyrics
     
-    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
-2. [Inspiring Leadership through Emotional Intelligence
+    Berklee College of Music](https://www.classcentral.com/course/songwriting-lyrics-523)
+2. [The Musculoskeletal System: The Science of Staying Active into Old Age
     
-    Case Western Reserve University](https://www.classcentral.com/course/lead-ei-710)
-3. [Transforming Digital Learning: Learning Design Meets Service Design
+    Newcastle University](https://www.classcentral.com/course/musculoskeletal-6738)
+3. [Digital Marketing
     
-    Deakin University](https://www.classcentral.com/course/digital-learning-12213)
+    Panjab University Chandigarh](https://www.classcentral.com/course/swayam-digital-marketing-14006)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
