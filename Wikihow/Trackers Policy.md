@@ -138,24 +138,24 @@ Save settings
 
 ### Featured Articles
 
+[![Learn to Say No](https://www.wikihow.com/images/thumb/b/b1/Learn-to-Say-No-Step-14.jpg/-crop-126-120-126px-Learn-to-Say-No-Step-14.jpg)
+
+How to  
+Learn to Say No](https://www.wikihow.com/Learn-to-Say-No)
+
+[![Write a Diary](https://www.wikihow.com/images/thumb/0/04/Write-a-Diary-Step-17-Version-4.jpg/-crop-126-120-126px-Write-a-Diary-Step-17-Version-4.jpg)
+
+How to  
+Write a Diary](https://www.wikihow.com/Write-a-Diary)
+
+[![Flirt](https://www.wikihow.com/images/thumb/0/0b/Flirt-Step-20-Version-4.jpg/-crop-126-120-126px-Flirt-Step-20-Version-4.jpg)
+
+How to  
+Flirt](https://www.wikihow.com/Flirt)
+
 [![You Do You Meaning](https://www.wikihow.com/images/thumb/f/f4/You-Do-You-Meaning-Step-9.jpg/-crop-126-120-126px-You-Do-You-Meaning-Step-9.jpg)
 
 What Exactly Does “You Do You” Mean?](https://www.wikihow.com/You-Do-You-Meaning)
-
-[![Get Six Pack Abs Fast](https://www.wikihow.com/images/thumb/4/4f/Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg/-crop-126-120-126px-Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg)
-
-How to  
-Get Six Pack Abs Fast](https://www.wikihow.com/Get-Six-Pack-Abs-Fast)
-
-[![Save Money as a Kid](https://www.wikihow.com/images/thumb/e/ec/Save-Money-as-a-Kid-Step-17-Version-2.jpg/-crop-126-120-126px-Save-Money-as-a-Kid-Step-17-Version-2.jpg)
-
-How to  
-Save Money as a Kid](https://www.wikihow.com/Save-Money-as-a-Kid)
-
-[![Get Longer Hair Fast](https://www.wikihow.com/images/thumb/8/87/Get-Longer-Hair-Fast-Step-17-Version-2.jpg/-crop-126-120-126px-Get-Longer-Hair-Fast-Step-17-Version-2.jpg)
-
-How to  
-Get Longer Hair Fast](https://www.wikihow.com/Get-Longer-Hair-Fast)
 
   
 
@@ -198,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-137
+132
