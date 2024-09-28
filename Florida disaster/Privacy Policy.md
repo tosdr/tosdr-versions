@@ -220,11 +220,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, September 26, 2024**
+**Friday, September 27, 2024**
 
-_**Hurricane Helene (0500 EDT): Located About 350 Miles Southwest of Tampa, FL and 385 miles South of Apalachicola, FL...Moving North-Northeastward at 12 MPH; Maximum Sustained Winds Near 90 MPH...This General Motion Expected to Continue Over the Next 24 Hours With A Significant Increase In Forward Speed...Center of Helene to Move Across The Eastern Gulf of Mexico Today and Cross the Florida Big Bend Coast This Evening or Early Friday Morning...After Landfall, A Slower Northwestward Is Forecast...Strengthening is Forecast, and Helene Is Expected to Be a Major Hurricane...Helene's Fast Forward Speed Will Allow Strong, Damaging Winds, Especially In Gusts, To Penetrate Well Inland...Hurricane Watches and Warnings In Place Across Big Bend Towards I-75 and Along West-Central Florida...Tropical Storm Warnings Across Peninsula and Keys...Storm Surge Warning From Mexico Beach Eastward and Southward to Flamingo...**_
-
-**...Impacts From Hurricane Helene to Be Felt Statewide As It Moves North-Northeastward Through the Eastern Gulf of Mexico Today and Crosses the Big Bend Coast This Evening or Early Friday Morning...Life-Threatening and Catastrophic Storm Surge and Winds and Significant Flash Flood Risk Expected Along the Florida Big Bend...****Hurricane Warnings Along the Florida Gulf Coast and Inland Into The Florida Big Bend and Suwannee Valley...Storm Surge Warnings from Mexico Beach Eastward and Southward to Flamingo, Including Tampa Bay and Charlotte Harbor; Inundation Above Normally Dry Ground Could Reach As High As 20' Along the Florida Big Bend...Tropical Storm Warnings Throughout Northeast Florida and The Florida Peninsula...Moderate to High Risk for Flash Flooding Through the Eastern Panhandle, Big Bend, and Suwannee Valley; Marginal to Slight Risk Elsewhere...Tropical Tornadoes Possible In Ouer Rainbands; Enhanced Risk for Severe Weather Far Northeast Florida, Slight Risk Through Much of Peninsula, Marginal Risk Across Big Bend, South Florida, and Keys...Widespread Minor to Moderate Riverine Flooding Anticipated...Tropical Storm Isaac Has Formed In the Central Subtropical Atlantic; No Threat To Florida...**
+**...Drier Conditions in the Wake of Helene Arrive to North Florida...Spotty Showers and Thunderstorms Possible for the Southern Florida Peninsula...Breezy Conditions Linger Across the State...Dangerous Beach & Marine Conditions for All Florida Coastlines...River Flood Warnings Continue for Several North Florida Waterways...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
