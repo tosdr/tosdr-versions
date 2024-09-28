@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Sep25
+    Oct02
     
-    ### [2024 International Consumer Protection and Enforcement Network (ICPEN) Fall Conference](https://www.ftc.gov/news-events/events/2024/09/2024-international-consumer-protection-enforcement-network-icpen-fall-conference)
+    ### [Ex Parte Meeting on Unfair or Deceptive Fees NPRM between Commissioner Bedoya’s Office and NCTA](https://www.ftc.gov/news-events/events/2024/10/ex-parte-meeting-unfair-or-deceptive-fees-nprm-between-commissioner-bedoyas-office-ncta)
     
-    Wednesday, September 25, 2024 | 9:00AM - Friday, September 27, 2024 | 5:00PM
+    Wednesday, October 2, 2024 | 10:00AM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
