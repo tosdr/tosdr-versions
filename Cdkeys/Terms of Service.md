@@ -116,6 +116,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -497,11 +498,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-6.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 6. \-55%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
+6.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 6. \-57%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
     
     **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
     
-    Special Price $25.49 RRP $56.29
+    Special Price $24.09 RRP $56.29
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -527,11 +528,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-9.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 9. \-70%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+9.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 9. \-72%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
-    Special Price $9.99 RRP $33.49
+    Special Price $9.39 RRP $33.49
     
     [Add to Wish List](# "Add to Wish List")
     
