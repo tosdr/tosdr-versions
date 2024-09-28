@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Zahnseide: Fädeln ohne schädliche Chemikalien](https://www.test.de/Zahnseide-Faedeln-ohne-schaedliche-Chemikalien-6098654-0/ "Zahnseide - Fädeln ohne schädliche Chemikalien")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Gewusst wie: Haustier chippen lassen](https://www.test.de/Gewusst-wie-Haustier-chippen-lassen-5925590-0/ "Gewusst wie - Haustier chippen lassen")
 
 Service Stiftung Warentest
 
