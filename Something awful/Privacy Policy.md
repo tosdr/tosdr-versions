@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Book of ThoTH and bianca's Fetish Forum](https://www.somethingawful.com/weekend-web/book-thoth-biancas/1/)
-* [Animal Anomalies 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-part-2/1/)
-* [Dear God, Why...](https://www.somethingawful.com/comedy-goldmine/busstop-bible-studies/1/)
-* [Dinosaur Detective!](https://www.somethingawful.com/comedy-goldmine/dinosaur-detective-noir/1/)
-* [Antarctica](https://www.somethingawful.com/comedy-goldmine/antarctica-living-working/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Posting on Forums](https://www.somethingawful.com/guides/guide-posting-on/1/)
+* [Winter Is Just Your Life in Hard Mode](https://www.somethingawful.com/news/winter-hard-mode/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Sex God Tortoises](https://www.somethingawful.com/photoshop-phriday/sex-god-tortoise/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [What's the fastest you've ever seen someone get fired?](http://forums.somethingawful.com/showthread.php?threadid=4071318 "What's the fastest you've ever seen someone get fired?")
 * ![](https://fi.somethingawful.com/forums/posticons/cc-project.png) [Goon Project: Liberate Moo Deng the baby pygmy hippo](http://forums.somethingawful.com/showthread.php?threadid=4071312 "Goon Project: Liberate Moo Deng the baby pygmy hippo")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [do you think unrefrigerated pizza left out over night is safe to eat?](http://forums.somethingawful.com/showthread.php?threadid=4071339 "do you think unrefrigerated pizza left out over night is safe to eat?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [What's the fastest you've ever seen someone get fired?](http://forums.somethingawful.com/showthread.php?threadid=4071318 "What's the fastest you've ever seen someone get fired?")
 
 ### Random Articles
 
-* [January 1, 2012](https://www.somethingawful.com/twitter-tuesday/tt01-01-13/)
-* [Jingle Bells, Batman Smells!](https://www.somethingawful.com/comedy-goldmine/jingle-bells-batman/1/)
-* [Marylen's Costumes](https://www.somethingawful.com/awful-links/awful-link-1786/)
-* [That's My Cat! (Thanks, The Spoony Bard!)](https://www.somethingawful.com/awful-links/heirloom-cat-portraits/)
-* [Breaking News](https://www.somethingawful.com/news/breaking-news-2/)
+* [Wacky Video Game Logic... In Real Life?!? What the](https://www.somethingawful.com/video-game-article/video-game-logic/)
+* [Yvette's Bridal Formal (Thanks, Pulp Dallas!)](https://www.somethingawful.com/awful-links/yvette-bridal/)
+* [Kung-Fu Heroes](https://www.somethingawful.com/rom-pit/kung-fu-heroes/)
+* [Daily Gaming Guyz - Xmas Special 5](https://www.somethingawful.com/daily-dirt/gaming-christmas-5/)
+* [Leave a Message in the Anonymous Atheist Complaint Box](https://www.somethingawful.com/news/atheist-complaint-box/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
