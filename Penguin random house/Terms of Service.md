@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
-    The Most Exciting Picture Books Coming Fall 2024
+    Audiobooks for Kids
     
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * * *
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
     
-    Join Our Authors for Upcoming Events
+    A Guide to Truman Capote Books
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
 
 * * *
 
