@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Scientists Design New Drug to Fight Malaria](https://www.sciencedaily.com/releases/2024/09/240926144907.htm)
 * ['Weekend Warrior?' Protection Against Disease](https://www.sciencedaily.com/releases/2024/09/240926132037.htm)
 * [Pollution's Impact On Arctic Atmosphere](https://www.sciencedaily.com/releases/2024/09/240925143912.htm)
 * [Simple Way to Maintain Social Cooperation](https://www.sciencedaily.com/releases/2024/09/240926132048.htm)
@@ -238,7 +239,6 @@ this hour
 * [Black Hole Beam Promotes Stellar Eruptions](https://www.sciencedaily.com/releases/2024/09/240926131925.htm)
 * [More Extreme Weather Patterns in Our Future](https://www.sciencedaily.com/releases/2024/09/240925122850.htm)
 * [How Cranes Navigate Their Complex World](https://www.sciencedaily.com/releases/2024/09/240923151634.htm)
-* [Ill-Fated 1845 Franklin Expedition](https://www.sciencedaily.com/releases/2024/09/240924123035.htm)
 
 Trending Topics
 ---------------
