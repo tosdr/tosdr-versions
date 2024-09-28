@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Artists are here to disturb the peace”
+“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
 
-[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin)
+[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
 
 [](https://www.adafruit.com/about)
 
