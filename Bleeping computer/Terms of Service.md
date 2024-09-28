@@ -23,19 +23,22 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Kaspersky deletes itself, installs UltraAV antivirus without warning](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Kia dealer portal flaw could let attackers hack millions of cars](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Kaspersky deletes itself, installs UltraAV antivirus without warning](https://www.bleepingcomputer.com/news/security/kaspersky-deletes-itself-installs-ultraav-antivirus-without-warning/)
-    * [![Infostealer malware bypasses Chrome’s new cookie-theft defenses](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Infostealer malware bypasses Chrome’s new cookie-theft defenses](https://www.bleepingcomputer.com/news/security/infostealer-malware-bypasses-chromes-new-cookie-theft-defenses/)
+        Kia dealer portal flaw could let attackers hack millions of cars](https://www.bleepingcomputer.com/news/security/kia-dealer-portal-flaw-could-let-attackers-hack-millions-of-cars/)
     * [![MoneyGram confirms a cyberattack is behind dayslong outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         MoneyGram confirms a cyberattack is behind dayslong outage](https://www.bleepingcomputer.com/news/security/moneygram-confirms-a-cyberattack-is-behind-dayslong-outage/)
-    * [![Android malware 'Necro' infects 11 million devices via Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft: Windows Recall now can be removed, is more secure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
+        Microsoft: Windows Recall now can be removed, is more secure](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-recall-now-can-be-removed-is-more-secure/)
+    * [![US sanctions crypto exchanges used by Russian ransomware gangs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
     
+    * [![Ireland fines Meta €91 million for storing passwords in plaintext](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ireland fines Meta €91 million for storing passwords in plaintext](https://www.bleepingcomputer.com/news/legal/ireland-fines-meta-91-million-for-storing-passwords-in-plaintext/)
     * [![Pay once and never again in this Koofr lifetime 1TB cloud storage deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Pay once and never again in this Koofr lifetime 1TB cloud storage deal](https://www.bleepingcomputer.com/offer/deals/pay-once-and-never-again-in-this-koofr-lifetime-1tb-cloud-storage-deal/)
@@ -45,9 +48,6 @@
     * [![U.S. charges Joker's Stash and Rescator money launderers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         U.S. charges Joker's Stash and Rescator money launderers](https://www.bleepingcomputer.com/news/legal/us-charges-jokers-stash-and-rescator-money-launderers/)
-    * [![Microsoft: Windows Recall now can be removed, is more secure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft: Windows Recall now can be removed, is more secure](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-recall-now-can-be-removed-is-more-secure/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
