@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/62c14dde-4caf-4630-8a7f-02f9da72a82c/20240927T221059/62c14dde-4caf-4630-8a7f-02f9da72a82c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62c14dde-4caf-4630-8a7f-02f9da72a82c/20240927T221059/62c14dde-4caf-4630-8a7f-02f9da72a82c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f3692aa4-02ed-4252-83ee-240f299c530a/20240928T115404/f3692aa4-02ed-4252-83ee-240f299c530a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f3692aa4-02ed-4252-83ee-240f299c530a/20240928T115404/f3692aa4-02ed-4252-83ee-240f299c530a_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Helene brings high clouds and breezy winds](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Nice warm end to September](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WTSP/images/ecfc052a-f158-4273-9b95-403390781c5b/20240927T173108/ecfc052a-f158-4273-9b95-403390781c5b_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/ecfc052a-f158-4273-9b95-403390781c5b/20240927T173108/ecfc052a-f158-4273-9b95-403390781c5b_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/deadly-crash-blocks-i-4-hurricane-helene/67-0087ed49-4887-484c-81e4-c8285446582d)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-61°
+74°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
