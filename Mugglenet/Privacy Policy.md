@@ -294,6 +294,26 @@ Recurs yearly
 
 2017
 
+#### Fri, Oct 4 – Sat, Oct 5
+
+MuggleNet Live! 2019: Into the Pensieve
+
+Recurs yearly
+
+2019
+
+#### Fri, Oct 4
+
+Harry Potter and the Chamber of Secrets Illustrated Edition
+
+Recurs yearly
+
+2016
+
+Minerva McGonagall's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
