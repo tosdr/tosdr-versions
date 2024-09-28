@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option](https://s1.cdn.autoevolution.com/images/news/onvo-l60-shows-how-battery-swapping-can-make-bevs-a-feasible-option-240405-5.jpg "Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option")
+[![Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry](https://s1.cdn.autoevolution.com/images/news/jeremy-clarkson-and-i-share-a-bad-feeling-about-modern-cars-and-the-auto-industry-240470-5.jpg "Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry")
 
-#### Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option](https://www.autoevolution.com/news/onvo-l60-shows-how-battery-swapping-can-make-bevs-a-feasible-option-240405.html "Onvo L60 Shows How Battery Swapping Can Make BEVs a Feasible Option")
+#### Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry](https://www.autoevolution.com/news/jeremy-clarkson-and-i-share-a-bad-feeling-about-modern-cars-and-the-auto-industry-240470.html "Jeremy Clarkson and I Share a Bad Feeling About Modern Cars and the Auto Industry")
 
 coverstory \_
 
-[![This Ambulance Was Converted Into an Off-Grid-Ready "Motocross Camper" With a Bike Garage](https://s1.cdn.autoevolution.com/images/news/this-ambulance-was-converted-into-an-off-grid-ready-motocross-camper-with-a-bike-garage-240336-5.jpg "This Ambulance Was Converted Into an Off-Grid-Ready "Motocross Camper" With a Bike Garage")
+[![Winners and Losers From Liam Lawson's graduation to RB](https://s1.cdn.autoevolution.com/images/news/winners-and-losers-from-liam-lawson-s-graduation-to-rb-240493-5.jpg "Winners and Losers From Liam Lawson's graduation to RB")
 
-This Ambulance Was Converted Into an Off-Grid-Ready "Motocross Camper" With a Bike Garage](https://www.autoevolution.com/news/this-ambulance-was-converted-into-an-off-grid-ready-motocross-camper-with-a-bike-garage-240336.html)
+Winners and Losers From Liam Lawson's graduation to RB](https://www.autoevolution.com/news/winners-and-losers-from-liam-lawson-s-graduation-to-rb-240493.html)
 
 how-to \_
 
