@@ -197,57 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Jannie Schutte - myFinance-Online.co.za
+Kobus Venter
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=128703844)  
-Moving Made Easy (PTY) Ltd
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=176165859)  
+OXYAIDER (PTY) LTD
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=150892744)  
-Fox Alarms & Security
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=204393110)  
+PHESA TECHNOLOGY(PTY) LTD
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=70711470)  
-M's Frozen Delights
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=38176482)  
+Alliance Energy
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=33238615)  
-Tagline Brands
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=93656023)  
+CGHK Enterprises (PTY) LTD
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=26674600)  
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=137304668)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=206716462)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=143357204)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=51521783)  
+Chiron Medical Solutions
+
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=101810276)  
+Sportspro Management (Pty) Ltd
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=16048341)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=130215498)  
+van Schaik rentals
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=54948220)  
+Cooper Logistics (Pty) Ltd
+
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=164573204)  
+webb it services
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=82242167)  
 West Coast Horse Trails
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=16913920)  
-Shades of Summer Investments 184cc t/a Junker Construction
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=123361566)  
-OrgChart Hosting Pty Ltd
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=129344282)  
-Iurus Inc
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=110969520)  
-TurboFibre
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=212508265)  
-Itroniq (Pty) Ltd
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=101777762)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=18118249)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=29768515)  
-LEO DEVELOPMENT GROUP
-
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=111062614)  
-Nilbet T/A Waterman
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=3e86983d608658e18c402f09e2aa356b35f09eac021d86d32fe27cbde6142468&c=116795970)  
-Myfinance-Online
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=492fc648ac7a213b45454f3375719acb00e3e179cecfeac6f76c7b70f41e78a1&c=42592660)  
+Tantra Sound and Lightz
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
