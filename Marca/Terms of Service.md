@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvcbUwoAAhQAAABi08U)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvdrUgoAAhQAAABiV3s)
 
 * Es noticia:
 * [Valladolid - Mallorca](https://www.marca.com/futbol/laliga-ea-sports/valladolid-mallorca/2024/09/27/01_0101_20240927_192_181-directo.html)
