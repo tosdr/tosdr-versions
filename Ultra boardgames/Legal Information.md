@@ -52,6 +52,11 @@ We use Google Analytics to track traffic, we don't hold any data at our servers.
 
 We don't send your data to anybody else.
 
+Ezoic Services
+==============
+
+This website has an exclusive advertising contract with Ezoic Inc. (“Ezoic”), a renowned leader in website optimization, enhancing user experiences, optimizing ad performance, and generating revenue through advanced AI-powered technology. Ezoic may employ a variety of technologies on this website, including to display advertisements and enable advertising to visitors of this website. For additional information about Ezoic’s advertising partners, please see Ezoic’s Advertising Partner Page [here](https://www.ezoic.com/privacy-policy/ad-partners/).
+
 ### Privacy Policy
 
 We understand the importance of your privacy as a visitor to this website. We want you to understand how the information you may provide will be used.
@@ -127,5 +132,3 @@ Our mission is to produce engaging articles like reviews, tips and tricks, game 
 [Privacy & Disclaimer](https://www.ultraboardgames.com/privacy.php)
 
 © 2020 Ultra BoardGames. All rights reserved.
-
-x
