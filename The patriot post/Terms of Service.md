@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110593-dont-forget-2024-09-27)
+     [](https://patriotpost.us/memes/110628-chosen-yet-2024-09-28)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -211,9 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Tim Young Illegal Immigrants Replacing Americans in the Job Market in Three Easy Steps](https://patriotpost.us/opinion/110588-illegal-immigrants-replacing-americans-in-the-job-market-in-three-easy-steps-2024-09-27)
 *      [Gary Bauer Biden Giving Aid and Comfort to Enemies](https://patriotpost.us/opinion/110602-biden-giving-aid-and-comfort-to-enemies-2024-09-27)
 *      [Tim Graham When Reporters Are Just Explainers, Not Investigators](https://patriotpost.us/opinion/110599-when-reporters-are-just-explainers-not-investigators-2024-09-27)
-*      [Mark Alexander Profiles of Valor: Mercy Among Mortal Enemies](https://patriotpost.us/alexander/110595-profiles-of-valor-mercy-among-mortal-enemies-2024-09-27)
-*      [The Washington Stand ‘Suicide Pod’ Death Should Remind Us of What Makes Life Worth Living](https://patriotpost.us/opinion/110604-suicide-pod-death-should-remind-us-of-what-makes-life-worth-living-2024-09-27)
-*      [The Babylon Bee Eric Adams Declares New York a Sanctuary City for Mayors Facing Federal Criminal Charges](https://patriotpost.us/opinion/110603-eric-adams-declares-new-york-a-sanctuary-city-for-mayors-facing-federal-criminal-charges-2024-09-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -227,9 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
