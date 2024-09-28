@@ -37,17 +37,17 @@ Main Menu
 
 * [Home](https://www.appstate.edu/)
 
+* Adverse Weather Update: Sept. 27, 2024
+    
+    For App State Boone and Hickory campuses, [Adverse Weather Condition 2](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) (Suspended Operations) remains in effect for non-faculty employees through 5 p.m. Sunday, Sept. 29. If you or anyone you know is in immediate danger, call 9-1-1. Off-campus students, faculty and staff in need of shelter should call 1-800-RED-CROSS (733-2767). Non-mandatory employees should not report to work or come to campus until Condition 2 is lifted. [Read full message](https://appstatealert.com/)
+    
+    Posted at 5:31pm on September 27, 2024.
+    
 * Safety Advisory
     
     AppStateALERT Boone: Life threatening flooding and high winds are on-going around the area. Do not travel. Remain indoors at a safe location.
     
     Posted at 8:37am on September 27, 2024 via Rave.
-    
-* Adverse Weather Update: Sept. 26, 2024
-    
-    Classes scheduled to meet on the Boone and Hickory campuses from 12:15 p.m. Thursday, Sept. 26 through 5 p.m. Friday, Sept. 27 will meet online. [Condition 2 (Suspended Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) is in effect for non-faculty employees from 12:15 p.m. Thursday, Sept. 26 through 5 p.m. Friday, Sept. 27. [Read full message](https://appstatealert.com/)
-    
-    Posted at 6:18am on September 26, 2024.
     
 
 Appalachian Privacy Statement
