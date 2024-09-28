@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Helene in Georgia: 11 dead, flooding widespread, over 1 million without power](https://www.ajc.com/news/atlanta-news/hurricane-helene-will-make-landfall-thursday-what-to-expect-in-georgia/X5PN2YBGDNCQFKXW562GA6KDUY/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
