@@ -868,7 +868,7 @@ For Individuals
 
 [Home Loans](https://www.creditkarma.com/home-loans/mortgage-rates "Home Loans")
 
-[QuickBooks Self-Employed](https://quickbooks.intuit.com/self-employed/?sc=seq_intuit_qbse_click_ft "QuickBooks Self-Employed")
+[QuickBooks Solopreneur](https://quickbooks.intuit.com/solopreneur/?sc=seq_intuit_qbse_click_ft "QuickBooks Solopreneur")
 
 For Small Business
 
