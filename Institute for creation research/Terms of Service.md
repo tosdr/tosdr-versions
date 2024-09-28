@@ -171,61 +171,31 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Acts & Facts
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/making-life-count)
+[![](/i/articles/af/af2303-webcover.jpeg)](https://www.icr.org/article/13913)
 
-[Making Life Count](https://www.icr.org/article/making-life-count/)
+[March-April 2023](https://www.icr.org/article/13913/)
 
-“Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.” (Ecclesiastes 1:2) Solomon wrote Ecclesiastes through...
+...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
+[![](/i/articles/af/af2008-webcover.jpg)](https://www.icr.org/article/12279)
 
-[The Self Life](https://www.icr.org/article/the-self-life/)
+[August 2020](https://www.icr.org/article/12279/)
 
-“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
+...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/tragic-ignorance)
+[![](/i/articles/af/af2312-webcover.jpg)](https://www.icr.org/article/14361)
 
-[Tragic Ignorance](https://www.icr.org/article/tragic-ignorance/)
+[Kids Edition 2023](https://www.icr.org/article/14361/)
 
-“For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves...
+...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
-
-Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
-
-$9.99
-
-$12.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
-
-The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
-
-$9.99
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
