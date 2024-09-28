@@ -72,8 +72,8 @@ Follow Us
 Trending Posts
 --------------
 
-* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
+* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
@@ -136,8 +136,8 @@ Follow Us
 Trending Posts
 --------------
 
-* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [Are Ft. Worth police running a car towing racket? A dubious and violent arrest raises questions](https://therealnews.com/are-ft-worth-police-running-a-car-towing-racket-a-dubious-and-violent-arrest-raises-questions)
+* ['Arrest Netanyahu': NYC activists call for mass march during Israel's UN address](https://therealnews.com/nyc-activists-call-mass-march-during-netanyahus-un-address)
 * [In 8 days, Missouri could execute an innocent man](https://therealnews.com/in-8-days-missouri-could-execute-an-innocent-man)
 * [Oakland prosecutors kept Black, Jewish people off juries to promote death penalty convictions](https://therealnews.com/oakland-jury-black-jewish-death-penalty-prosecutors-alameda-california)
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
