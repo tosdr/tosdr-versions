@@ -249,6 +249,10 @@ WebCatalog is part of the [WebCatalog](https://about.webcatalog.io/en/about/) fa
 
 WebCatalog](https://about.webcatalog.io/en/)
 
+[Singlebox
+
+Singlebox](https://singlebox.app/)
+
 [Switchbar
 
 Switchbar](https://switchbar.com/)
