@@ -130,7 +130,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Digital Marketing (108)](https://www.iplocation.net/blog/category/digital-marketing)
 * [Education (36)](https://www.iplocation.net/blog/category/education)
 * [Email (63)](https://www.iplocation.net/blog/category/email)
-* [Entertainment (12)](https://www.iplocation.net/blog/category/entertainment)
+* [Entertainment (13)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
 * [Finance (60)](https://www.iplocation.net/blog/category/finance)
 * [Games (54)](https://www.iplocation.net/blog/category/games)
