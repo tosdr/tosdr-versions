@@ -124,7 +124,7 @@ CHOOSE Size
 
 ### [Collagen Boost Sheet Mask](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
-38 reviews (38)
+39 reviews (39)
 
 $7.00 $28.00
 
