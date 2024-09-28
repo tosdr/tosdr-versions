@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [Posting on Forums](https://www.somethingawful.com/guides/guide-posting-on/1/)
-* [Winter Is Just Your Life in Hard Mode](https://www.somethingawful.com/news/winter-hard-mode/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Sex God Tortoises](https://www.somethingawful.com/photoshop-phriday/sex-god-tortoise/)
+* [Pirate Bootie](https://www.somethingawful.com/awful-links/awful-link-919/)
+* [Dungeons & Dragons Module B3: "Palace of the Silver Princess" (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/illusion-of-decapus/1/)
+* [Filling In An IKEA Manual's Missing Words](https://www.somethingawful.com/news/missing-manual-ikea/)
+* [Based On Actual Events](https://www.somethingawful.com/news/based-actual-events/)
+* [CONEX Convict Connections: "Approaching Storm"](https://www.somethingawful.com/news/conex-approaching-storm/1/)
 
 ### Popular Threads
 
@@ -219,11 +219,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Wacky Video Game Logic... In Real Life?!? What the](https://www.somethingawful.com/video-game-article/video-game-logic/)
-* [Yvette's Bridal Formal (Thanks, Pulp Dallas!)](https://www.somethingawful.com/awful-links/yvette-bridal/)
-* [Kung-Fu Heroes](https://www.somethingawful.com/rom-pit/kung-fu-heroes/)
-* [Daily Gaming Guyz - Xmas Special 5](https://www.somethingawful.com/daily-dirt/gaming-christmas-5/)
-* [Leave a Message in the Anonymous Atheist Complaint Box](https://www.somethingawful.com/news/atheist-complaint-box/1/)
+* [Osama bin Laundry](https://www.somethingawful.com/news/osama-bin-laundry/)
+* [Tom Thumb](https://www.somethingawful.com/flash-tub/tom-thumb/)
+* [DYNOWARZ: Destruction of Spondyus](https://www.somethingawful.com/rom-pit/dynowarz-spondylus/)
+* [The Email That Put The New Deus Ex Game In Peril](https://www.somethingawful.com/news/deus-ex-email/)
+* [The Goblin Running D.C.](https://www.somethingawful.com/news/ben-nelson-goblin/)
 
 [Random!](https://www.somethingawful.com/random/)
 
