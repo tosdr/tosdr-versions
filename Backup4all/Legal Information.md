@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [What is keyboard authentication?](https://www.backup4all.com/what-is-keyboard-authentication-kb.html)  
+* [How to protect your data against WannaCry or ...](https://www.backup4all.com/how-to-protect-your-data-against-wannacry-or-other-ransomware-attack-kb.html)  
     
-* [How to backup your data to ThinkOn](https://www.backup4all.com/how-to-backup-your-data-to-thinkon-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
-* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
+* [What is block level backup](https://www.backup4all.com/what-is-block-level-backup-kb.html)  
     
-* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
+* [How to use advanced backup settings in Backup ...](https://www.backup4all.com/how-to-use-advanced-settings-in-backup4all-kb.html)  
     
-* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
+* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
     
 
 Choose language:
