@@ -109,6 +109,12 @@ Root account password: osboxes.org
 
 ### Recent Releases
 
+[![pop os desktop](https://www.osboxes.org/wp-content/uploads/2019/04/Pop_OS-Desktop-85x85.jpeg)](https://www.osboxes.org/pop_os-22-04-and-24-04-vm-images-available-for-virtualbox-and-vmware/)
+
+##### [Pop!\_OS 22.04 and 24.04 VM Images Available For VirtualBox and VMware](https://www.osboxes.org/pop_os-22-04-and-24-04-vm-images-available-for-virtualbox-and-vmware/)
+
+27-09-2024
+
 [![kali linux](https://www.osboxes.org/wp-content/uploads/2014/09/kali-linux.jpg)](https://www.osboxes.org/kali-linux-2024-3-vm-images-available-for-virtualbox-and-vmware/)
 
 ##### [Kali Linux 2024.3 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/kali-linux-2024-3-vm-images-available-for-virtualbox-and-vmware/)
@@ -138,12 +144,6 @@ Root account password: osboxes.org
 ##### [Kali Linux 2024.2 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/kali-linux-2024-2-vm-images-available-for-virtualbox-and-vmware/)
 
 28-08-2024
-
-[![deepin](https://www.osboxes.org/wp-content/uploads/2020/11/deepin-20-85x85.jpg)](https://www.osboxes.org/deepin-23-vm-images-available-for-virtualbox-and-vmware/)
-
-##### [Deepin 23 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/deepin-23-vm-images-available-for-virtualbox-and-vmware/)
-
-25-08-2024
 
 Get in Touch!
 
