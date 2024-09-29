@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you settle a car accident without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/10/can-you-settle-a-car-accident-without-a-lawyer.jpg "Can You Settle a Car Accident without a Lawyer?")](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/ "Can You Settle a Car Accident without a Lawyer?")
+[![What is the talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-talcum-powder-lawsuit.jpg "What Is the Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/ "What Is the Talcum Powder Lawsuit?")
 
-[#### Can You Settle a Car Accident without a Lawyer?](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/)
+[#### What Is the Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/)
 
-[![How quickly does mesothelioma spread?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-quickly-does-mesothelioma-spread.jpg "How Quickly Does Mesothelioma Spread?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/ "How Quickly Does Mesothelioma Spread?")
+[![Who can file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-who-can-file-a-talcum-powder-lawsuit.jpg "Who Can File A Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/ "Who Can File A Talcum Powder Lawsuit?")
 
-[#### How Quickly Does Mesothelioma Spread?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/)
+[#### Who Can File A Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/)
 
-[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
+[![What cancers can asbestos cause?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-cancers-can-asbestos-cause.jpg "What Cancers Can Asbestos Cause?")](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/ "What Cancers Can Asbestos Cause?")
 
-[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
+[#### What Cancers Can Asbestos Cause?](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
