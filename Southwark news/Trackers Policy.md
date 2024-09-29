@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
+    
+    ### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
+    
+    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+    
+    ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+    
     [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
     
     ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
@@ -48,15 +56,6 @@
     Credit: Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-public-hearing-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
     
     ### [Permission granted for the Wimbledon Tennis Championships to almost triple in size](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
-    
-    [![Paul Campbell was diagnosed with prostate cancer in 2018 after getting a test. 
-    Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Paul-Campbell-360x180.jpg)](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
-    
-    ### [‘I was denied a health check by a South London GP surgery and later found out I had prostate cancer’](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
-    
-    [![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
-    
-    ### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -102,6 +101,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
+    
+    ### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
+    
+    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+    
+    ### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+    
     [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
     
     ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
@@ -131,15 +138,6 @@ View All Result
     Credit: Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-public-hearing-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
     
     ### [Permission granted for the Wimbledon Tennis Championships to almost triple in size](https://southwarknews.co.uk/area/south-london/permission-granted-for-the-wimbledon-tennis-championships-to-almost-triple-in-size/)
-    
-    [![Paul Campbell was diagnosed with prostate cancer in 2018 after getting a test. 
-    Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Paul-Campbell-360x180.jpg)](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
-    
-    ### [‘I was denied a health check by a South London GP surgery and later found out I had prostate cancer’](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
-    
-    [![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
-    
-    ### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -204,6 +202,12 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [28th September 2024](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
 
+[![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+[29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
 [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-120x86.jpg)](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
 
 ### [Family-of-three left in leaking Southwark flat for three years and only moved out when ceiling collapsed](https://southwarknews.co.uk/area/southwark/family-of-three-left-in-leaking-southwark-flat-for-three-years-and-only-moved-out-when-ceiling-collapsed/)
@@ -215,12 +219,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-
-[![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
-### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
-
-[29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
 [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-120x86.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
 
@@ -235,6 +233,18 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
 ### Featured Articles
+
+[![Nuha Ruby Ra - Photo: Louise Mason](https://southwarknews.co.uk/wp-content/uploads/2024/09/nuha-ruby-ra-ep-promo-pic-louise-mason-2048x1582-1-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
+
+### [Visitors to the Southbank Centre this Autumn can listen to top music acts completely free of charge](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
+
+[29th September 2024](https://southwarknews.co.uk/area/south-bank/visitors-to-the-southbank-centre-this-autumn-can-listen-top-music-acts-completely-free-of-charge/)
+
+[![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-120x86.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+
+### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+
+[29th September 2024](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
 
 [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
 
@@ -259,18 +269,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Southwark Playhouse to stage a show on actor John Wilkes Booth who assassinated Abraham Lincolin](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
 
 [28th September 2024](https://southwarknews.co.uk/area/elephant-and-castle/southwark-playhouse-to-stage-a-show-on-actor-john-wilkes-booth-who-assassinated-abraham-lincolin/)
-
-[![Richard Branson on a visit to The House of Magic. Image provided by The House of Magic](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00021-120x86.jpg)](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
-
-### [Exclusive: The Kennington mansion that became a surreal hideaway for A-list celebs escaping reality](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
-
-[28th September 2024](https://southwarknews.co.uk/area/kennington/exclusive-the-kennington-mansion-that-became-a-surreal-hideaway-for-a-list-celebs-escaping-reality/)
-
-[![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-120x86.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
-
-### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
-
-[28th September 2024](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
 
 ### USEFUL PAGES
 
