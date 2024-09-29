@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Wind Up Missing YouTucker Wetmore<br><br>11:39am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:36am |
-| Good GirlDustin Lynch<br><br>11:33am |
-| Going, Going, GoneLuke Combs<br><br>11:30am |
-| What IfsKane Brown Ft Lauren Alaina<br><br>11:27am |
+| Take Your TimeSam Hunt<br><br>5:38pm |
+| Need A FavorJelly Roll<br><br>5:34pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>5:31pm |
+| Knee DeepZac Brown Band Ft. Jimmy Buffet<br><br>5:27pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,13 +358,13 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
