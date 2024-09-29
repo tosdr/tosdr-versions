@@ -184,7 +184,7 @@ EUR
     
     Information[#### Foil Stampled Business Cards](https://www.jukeboxprint.com/foil-stamped-business-cards)[Elevate your brand with foil business cards, combining shimmering elements and fine paper for a touch of luxury.](https://www.jukeboxprint.com/foil-stamped-business-cards)
     
-    Information[#### Colored Edge Business Cards](https://www.jukeboxprint.com/painted-edge-business-cards)[Add a custom Edge Finish to your business cards to complete your brand identity - It’s as easy as matching your logo! We have four exclusive options available so that you can find the perfect finish.](https://www.jukeboxprint.com/painted-edge-business-cards)
+    Information[#### Painted Edge Business Cards](https://www.jukeboxprint.com/painted-edge-business-cards)[Painted Edge Business Cards add bold, colorful edges to your cards, offering a unique, custom look that stands out. Choose from 32 vibrant colors.](https://www.jukeboxprint.com/painted-edge-business-cards)
     
     Information[#### Pearl Business Cards](https://www.jukeboxprint.com/pearl-business-cards)[Elevate your brand with Pearl Business Cards in White & Silver. Choose from 13pt or 26pt for sophistication.](https://www.jukeboxprint.com/pearl-business-cards)
     
