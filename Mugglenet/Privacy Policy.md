@@ -322,15 +322,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-More than 16,000 children in the United Kingdom and United States auditioned for the role of Harry Potter.
+In early notes, two school subjects were originally called Herbalism and Beasts. Divination and Alchemy were also listed as compulsory subjects.
 
 ### Potter History
 
-September 20, 2010 – MuggleNet releases its own app for the iPhone.
+April 27, 2011 – The first trailer for Harry Potter and the Deathly Hallows – Part 2 is released worldwide.
 
 ### Potter Quote
 
-“We’d better get to bed before Snape comes along and tries to frame us for something else.”
+“Potter, this is Oliver Wood. Wood — I’ve found you a Seeker.”
 
 [](#)
 
