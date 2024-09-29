@@ -210,7 +210,6 @@ this hour
 
 * [How Killifish Regenerate Their Fins](https://www.sciencedaily.com/releases/2024/09/240926131936.htm)
 * [Return of the Elephants Seals](https://www.sciencedaily.com/releases/2024/09/240927173545.htm)
-* [Log Holds Carbon for 3,775 Years: Climate Help?](https://www.sciencedaily.com/releases/2024/09/240927173105.htm)
 * [Shrinking AR Displays Into Eyeglasses](https://www.sciencedaily.com/releases/2024/09/240925122923.htm)
 * [New Bacterium That Causes Gut Immunodeficiency](https://www.sciencedaily.com/releases/2024/09/240926144904.htm)
 * [Scientists Design New Drug to Fight Malaria](https://www.sciencedaily.com/releases/2024/09/240926144907.htm)
@@ -218,6 +217,7 @@ this hour
 * [Pollution's Impact On Arctic Atmosphere](https://www.sciencedaily.com/releases/2024/09/240925143912.htm)
 * [Simple Way to Maintain Social Cooperation](https://www.sciencedaily.com/releases/2024/09/240926132048.htm)
 * [Earth, 8 Billion Years from Now](https://www.sciencedaily.com/releases/2024/09/240926132019.htm)
+* [Most Detailed Infrared Map of Our Milky Way](https://www.sciencedaily.com/releases/2024/09/240926131953.htm)
 
 Trending Topics
 ---------------
