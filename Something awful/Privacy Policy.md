@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Mixed-up Power Sources](https://www.somethingawful.com/photoshop-phriday/mixed-power-supplies/1/)
-* [One Letter Off (Part 2)](https://www.somethingawful.com/photoshop-phriday/one-letter-off2/1/)
-* [Mixed-Up Movie Captions 2012!](https://www.somethingawful.com/photoshop-phriday/mixedup-captions-2012/1/)
-* [Seraded](https://www.somethingawful.com/awful-links/awful-link-1485/)
-* [Animal Anomalies 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-part-2/1/)
+* [The Steampunk Forum](https://www.somethingawful.com/weekend-web/steampunk-forum/1/)
+* [As Above, So Below; The November Man; Calvary; The Zero Theorem; Mischief Night](https://www.somethingawful.com/current-movie-reviews/above-november-man/1/)
+* [A Safety Message From Your USPS Letter Carrier](https://www.somethingawful.com/comedy-goldmine/safety-message-from/1/)
+* [The Nut Job; Jack Ryan: Shadow Recruit; August: Osage County](https://www.somethingawful.com/current-movie-reviews/nut-job/1/)
+* [Subs, Lies and Videotape](https://www.somethingawful.com/news/subs-lies-videotape/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Robot revolusions pros and cons](http://forums.somethingawful.com/showthread.php?threadid=4071386 "Robot revolusions pros and cons")
-* ![](https://forumimages.somethingawful.com/forums/posticons/icon-30-attnmod.gif) [Nuevo Harry the House Plant (help raise him)](http://forums.somethingawful.com/showthread.php?threadid=4071374 "Nuevo Harry the House Plant (help raise him)")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-butt.gif) [Leaving the toilet seat up](http://forums.somethingawful.com/showthread.php?threadid=4071385 "Leaving the toilet seat up")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Robot revolusions pros and cons](http://forums.somethingawful.com/showthread.php?threadid=4071386 "Robot revolusions pros and cons")
 
 ### Random Articles
 
-* [Dillons Russian Steam Bath (thanks YourEvilTw1n!)](https://www.somethingawful.com/awful-links/alod_dillon_baths/)
-* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
-* [I Hate You Page 52](https://www.somethingawful.com/cliff-yablonski/i-hate-you-52/)
-* [John Titor - Time Traveler](https://www.somethingawful.com/awful-links/awful-link-1659/)
-* [Games with Honest Names! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/games-honest-names2/1/)
+* [Incorporation After Party](https://www.somethingawful.com/daily-dirt/incorporation-after-party/)
+* ["Why Are All The Droids In The Star Wars Universe A-Holes?" by YouTube's "Dirty" Frank Torlinson](https://www.somethingawful.com/news/droids-star-wars/)
+* [Woody And Shrek](https://www.somethingawful.com/flash-tub/shrek-woody-cartoon/)
+* [Essential Quicksand Safety Tips](https://www.somethingawful.com/news/quicksand-safety-tips/)
+* [Iced Out Gear](https://www.somethingawful.com/awful-links/awful-link-1657/)
 
 [Random!](https://www.somethingawful.com/random/)
 
