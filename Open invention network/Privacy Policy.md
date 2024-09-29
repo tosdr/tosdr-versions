@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Open source platforms enable the rapid deployment of advanced computing, storage and communications solutions. We recognize the value in shared innovation, a fundamental characteristic of open source communities. OIN membership is strategically important for YADRO in terms of patents management, R&D, marketing, and overall company reputation. Our participation in the OIN community demonstrates our commitment to support collaborative technology development and the ongoing success of the open sour… [Read more](https://openinventionnetwork.com/testimonial/yadro/ "Complete testimonial by Anna Egorova")
+> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
 
-Anna EgorovaChief Delivery Officer, YADRO
+Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
 
-> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
+> _Having OpenStack in the core of our product, FishOS,_  _we highly appreciate the value and importance of shared knowledge, experience, and technology of open source communities. Joining OIN emphasizes our commitment to developing and distributing open source technology. Thanks to expertise, software companies can mitigate the global patent risk to open source software like FishOS for all the market players – developers, vendors, customers, and end-users._
 
-Stephan DührManaging Director, Bareos GmbH & Co. KG
-
-> Linux and open source are driving innovation in cloud and mobile computing, and emerging technologies such as the Internet of Things. These are developments that are very close to our hearts at Sage. We applaud the Open Invention Network’s efforts to promote openness and innovation for the benefit of the technical community and our wider society and would encourage our partners to support their work.  
-
-Klaus-Michael VogelbergChief Technology OfficerSage
-
-> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
-
-Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
-
-> Linux is the largest undertaking of shared innovation in our planet’s history. The OSS community has written and shared billions of lines of code that have transformed the way businesses operate and consumers live. We congratulate OIN for its 15 years, during which it has provided a protective shield against patent aggression. We encourage all open source contributors and users to join OIN and demonstrate their commitment to a safe environment for continued growth in Linux and other OSS proje… [Read more](https://openinventionnetwork.com/testimonial/jim-zemlin-the-linux-foundation/ "Complete testimonial by Jim Zemlin")
-
-Jim ZemlinExecutive DirectorThe Linux Foundation
-
-> At Rakuten, our businesses continue to evolve as we address new market opportunities. Because of this, we are a user and strong advocate of open source software. We are building the first 100% fully virtualized mobile network, enabling us to scale rapidly and offer the best Quality-of-Service (QoS) available. By joining OIN, we are demonstrating our commitment to Open Source Software (OSS) and supporting it with a pledge of patent non-aggression.  
-
-Tareq AminCAO, Group Executive Vice PresidentRakuten, Inc.
-
-> Linux and open source are critical elements in today’s mobile, cloud and enterprise computing environments. By joining the Open Invention Network, we are helping ensure the ongoing development of open solutions that promote market growth in key lines of business.  
-
-Guru PaiSenior Vice President & Chief Product OfficerVerizon
+Kenneth TanCEO, Sardina Systems
 
 > Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
 
 Norihiro SuzukiVice President and Executive Officer - CTOHitachi
 
-> We strive to be the top short video social platform and community for all users to record and share their lives. Linux and open source are critical elements in technologies we develop and integrate into our platform. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
+> Linux, and more broadly open source software, is a foundational technology in the desktop, mobile, networking, cloud and embedded computing environments. We are committed to open solutions that promote advances in all of the sectors that depend on advanced x86 and ARM platforms. Joining OIN is another way we are demonstrating our commitment to open innovation and collaboration.  
 
-Hongyi JiaGeneral CounselKuaishou Group
+Richard BrownVP MarketingVIA Technologies
 
-> Google has been a proud member of OIN since joining the community in 2007. Linux and adjacent open source software power the cloud-based services of today and tomorrow. Throughout, OIN has been there to ensure that open source remains safe for users, consumers, and developers alike to consume and upon which to build.
+> We continuously look for ways to integrate the best technologies in our appliances, which helps to shape living for the better. It also helps us achieve our goal of continuous improvement in appliance sustainability. We are pleased to join the Open Invention Network and support its role in protecting open source software.
 
-Chris DiBonaDirector of Open SourceGoogle
+ElectroluxFabio Albanese, Head of Engineering, Connected Electronics Platform
+
+> We applaud OIN’s efforts to promote patent non-aggression in the cloud by adding the OpenStack packages to its Linux System definition. The OpenStack Foundation Board of Directors appreciates that the rapidly-growing OIN community has been, and is now explicitly, supporting freedom of action in the cloud of the future that OpenStack has been formed to enable.  
+
+Alan ClarkChairman of the BoardOpenStack Foundation
+
+> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
+
+Mercari
+
+> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
+
+Sumitomo Mitsui Financial Group
+
+> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
+
+Thomas Di GiacomoPresident of Engineering & InnovationSUSE
+
+> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
+
+Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
@@ -268,7 +268,7 @@ Your Name\*
 
 Email\*
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
