@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/ea4617b0a11e.gif)](https://www.gaiaonline.com/forum/t.114265644/ "Aura Points") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/d1e05c881332.png)](https://www.gaiaonline.com/gaiaevent/greatheights "Great Heights")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-cda7dbd6c99f40a88fc409514cfa56586ff62ad9a928b540f550082a4b5d48e76ff62ad9a928b540f550082a4b5d48e76ff62ad9a928b540f550082a4b5d48e7
+718c005301349fcbc45b57913956dbd7718c005301349fcbc45b57913956dbd7711a21acadf06866f86f1bb4c27332b5
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -339,9 +339,9 @@ Get Items
 
 More Items
 
-* [Deals & New Items](https://www.gaiaonline.com/deals/)
+* [Deals & New Items](https://www.gaiaonline.com/deals)
     
-    New deal posted!
+    2 new deals & 2 items released!
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -535,4 +535,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727618245)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1727639790)
