@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/287c3279-efe0-49c0-af04-8868e00ff6ce/20240929T121727/287c3279-efe0-49c0-af04-8868e00ff6ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/287c3279-efe0-49c0-af04-8868e00ff6ce/20240929T121727/287c3279-efe0-49c0-af04-8868e00ff6ce_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Dry and warm end to September continues](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WLTX/images/f25b9c01-5c32-460e-8727-b6d70a96b7cf/20240929T022534/f25b9c01-5c32-460e-8727-b6d70a96b7cf_16x9.jpg) ![](https://media.tegna-media.com/assets/WLTX/images/f25b9c01-5c32-460e-8727-b6d70a96b7cf/20240929T022534/f25b9c01-5c32-460e-8727-b6d70a96b7cf_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-asheville-devastated-helene/101-e4b45a14-cbb6-4d60-a01b-a937c1648cb7)
         
         #### [North Carolina's Asheville devastated after Helene hits mountain town](https://www.wqad.com/article/news/national/north-carolina-asheville-devastated-helene/101-e4b45a14-cbb6-4d60-a01b-a937c1648cb7)
-        
-    *  [![](https://media.tegna-media.com/assets/WVEC/images/a8590ad3-d585-4ee4-97f9-1f2d7f1c3191/20240927T201907/a8590ad3-d585-4ee4-97f9-1f2d7f1c3191_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/a8590ad3-d585-4ee4-97f9-1f2d7f1c3191/20240927T201907/a8590ad3-d585-4ee4-97f9-1f2d7f1c3191_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-helene-death-toll-across-southeast-aftermath/291-fa4b3e5e-a6d1-4a4a-a971-dcd446b43850)
-        
-        #### [Rescuers race to free people trapped by Hurricane Helene after storm kills at least 40 in 4 states](https://www.wqad.com/article/weather/hurricane/hurricane-helene-death-toll-across-southeast-aftermath/291-fa4b3e5e-a6d1-4a4a-a971-dcd446b43850)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-57°
+74°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
