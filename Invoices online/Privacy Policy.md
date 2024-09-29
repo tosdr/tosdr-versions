@@ -129,50 +129,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Johan Botha - Brand Xplosion
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=28382398)  
-National Elite Security Services (PTY) LTD
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=188061405)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=87649421)  
-UniTech Solutions Pty Ltd
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=53942390)  
+Glass and Allied Industries
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=110419485)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=51887905)  
-Depot Diesel (Pty) Ltd
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=134594004)  
-Tagline Brands
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=206456076)  
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=205799334)  
 Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=166446211)  
-Chiron Medical Solutions
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=103971737)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=160408916)  
-IYD
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=201263218)  
+One2b
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=29240506)  
-Electro-Heat
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=27825734)  
+ELLIE'S CLEANING CHICKS
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=195244909)  
-Creative Characters
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=4210020)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=86561573)  
-SMART GUY PCS (PTY) LTD
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=55867080)  
+Tagline Brands
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=30668425)  
-AquariumSmiths
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=11135918)  
+McKaynine Mobility
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=118653168)  
-Nilbet T/A Waterman
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=199508774)  
+Imvubu General Trading
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=171457819)  
-Cooper Logistics (Pty) Ltd
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=110368217)  
+Kara Medical (Pty) Ltd
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=25492364)  
-Lion Software Develepment
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=84160987)  
+Wiselink Broadband Dundee
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=47810052)  
+Nogana Events and Decor
+
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=6375014)  
+OXYAIDER (PTY) LTD
+
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=20554013)  
+Vplay Grafix
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
