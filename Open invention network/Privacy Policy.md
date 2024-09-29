@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
+> Google has been a proud member of OIN since joining the community in 2007. Linux and adjacent open source software power the cloud-based services of today and tomorrow. Throughout, OIN has been there to ensure that open source remains safe for users, consumers, and developers alike to consume and upon which to build.
 
-Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
+Chris DiBonaDirector of Open SourceGoogle
 
-> _Having OpenStack in the core of our product, FishOS,_  _we highly appreciate the value and importance of shared knowledge, experience, and technology of open source communities. Joining OIN emphasizes our commitment to developing and distributing open source technology. Thanks to expertise, software companies can mitigate the global patent risk to open source software like FishOS for all the market players – developers, vendors, customers, and end-users._
-
-Kenneth TanCEO, Sardina Systems
-
-> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
-
-Norihiro SuzukiVice President and Executive Officer - CTOHitachi
-
-> Linux, and more broadly open source software, is a foundational technology in the desktop, mobile, networking, cloud and embedded computing environments. We are committed to open solutions that promote advances in all of the sectors that depend on advanced x86 and ARM platforms. Joining OIN is another way we are demonstrating our commitment to open innovation and collaboration.  
-
-Richard BrownVP MarketingVIA Technologies
-
-> We continuously look for ways to integrate the best technologies in our appliances, which helps to shape living for the better. It also helps us achieve our goal of continuous improvement in appliance sustainability. We are pleased to join the Open Invention Network and support its role in protecting open source software.
-
-ElectroluxFabio Albanese, Head of Engineering, Connected Electronics Platform
-
-> We applaud OIN’s efforts to promote patent non-aggression in the cloud by adding the OpenStack packages to its Linux System definition. The OpenStack Foundation Board of Directors appreciates that the rapidly-growing OIN community has been, and is now explicitly, supporting freedom of action in the cloud of the future that OpenStack has been formed to enable.  
-
-Alan ClarkChairman of the BoardOpenStack Foundation
-
-> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
-
-Mercari
-
-> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
+> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://173.230.129.118/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
 
 Sumitomo Mitsui Financial Group
 
-> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
+> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
+
+Yugo KanazawaChief Digital OfficerLIXIL
+
+> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
+
+Mick LimDirector, Foxconn IP Affairs Division
+
+> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
+
+Peter KohlschmidtCTOMoxa
+
+> Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.  
+
+Lynn WuChief IP CounselByteDance
+
+> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://173.230.129.118/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
+
+Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
+
+> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://173.230.129.118/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
+
+Kazuki ShinodaSVP, Tokyo Electron Device, Ltd.
+
+> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://173.230.129.118/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
+
+Heather MeekerPartnerO'Melveny & Myers
+
+> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://173.230.129.118/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
 
 Thomas Di GiacomoPresident of Engineering & InnovationSUSE
-
-> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
-
-Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
