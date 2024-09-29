@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Steve in Customer Support really knocked this one out of the park. We were on the phone for about an hour on the first call with no luck. We decided to take a break and have a second call. Steve in Customer Support ... fixed everything immediately. Just want you to know I went from a super pissed-off customer to very happy.
+I only subscribed for a month just to test the connection speed and see if I could enjoy movies without interruption. The movies load seamlessly and the connection proved 100% reliable. I will be renewing!
 
-Jeff Cochran
+Diane Walden
