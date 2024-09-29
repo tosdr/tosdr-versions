@@ -217,10 +217,10 @@ Ethereum
 
 [](https://jarick.works/eidolon/)
 
-[![](https://jarick.works/wp-content/uploads/drawn/svg/knockout.svg)](https://jarick.works/drawn/knockout/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/reminders-1.svg)](https://jarick.works/beagle/productivity/reminders/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/006.svg)](https://jarick.works/anaarkei/define-your-terms-corporatism/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/030.svg)](https://jarick.works/anaarkei/define-your-terms-statism/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/voice-memos-1.svg)](https://jarick.works/beagle/productivity/voice-memos/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/009.svg)](https://jarick.works/anaarkei/free-association/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/multimedia/books-1.svg)](https://jarick.works/beagle/multimedia/books/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/002.svg)](https://jarick.works/anaarkei/thomas-sowell-on-politicians/)
