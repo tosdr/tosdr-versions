@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Winamp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Winamp releases source code, asks for help modernizing the player](https://www.bleepingcomputer.com/news/software/winamp-releases-source-code-asks-for-help-modernizing-the-player/)
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CUPS flaws enable Linux remote code execution, but there’s a catch](https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/)
-* [![Mozilla](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Mozilla accused of tracking users in Firefox without consent](https://www.bleepingcomputer.com/news/technology/mozilla-accused-of-tracking-users-in-firefox-without-consent/)
+    Windows 11 KB5043145 update released with 13 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-released-with-13-changes-and-fixes/)
+* [![Aruba Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    HPE Aruba Networking fixes critical flaws impacting Access Points](https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-three-critical-rce-flaws-impacting-its-access-points/)
 
 ##### Follow us:
 
