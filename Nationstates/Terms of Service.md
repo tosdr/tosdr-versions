@@ -34,15 +34,14 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Opheros Crisis | IC | MT | (110)](https://forum.nationstates.net/viewtopic.php?t=554130&f=5&view=unread#unread ""Opheros Crisis | IC | MT |" (110 posts)")
-* [Ukrainian War VII: Everything has a p… (5,753)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (5,753 posts)")
-* [Revenge of Rate the Song above you (6,963)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (6,963 posts)")
-* [UK Politics Thread: Conservative Lead… (11,246)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,246 posts)")
-* [The NOVU Sports Blog (70)](https://forum.nationstates.net/viewtopic.php?t=552025&f=7&view=unread#unread ""The NOVU Sports Blog" (70 posts)")
+* [Based on AN flag, what do they export… (430)](https://forum.nationstates.net/viewtopic.php?t=551783&f=25&view=unread#unread ""Based on AN flag, what do they export? (REVIVAL)" (430 posts)")
+* [What UI theme do you use? \[POLL\] (15)](https://forum.nationstates.net/viewtopic.php?t=556006&f=12&view=unread#unread ""What UI theme do you use? [POLL]" (15 posts)")
+* [Ridiculous Questions: Educated Answers. (136)](https://forum.nationstates.net/viewtopic.php?t=555820&f=20&view=unread#unread ""Ridiculous Questions: Educated Answers." (136 posts)")
+* [Guess Who BN Is! (4,716)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (4,716 posts)")
 
 Advertisement
 
-[**Nuclear Scoreboard**:](https://www.nationstates.net/page=factions)
+[**Nuclear Scoreboard**:](https://www.nationstates.net/page=factions) [1 Jellyfish Elite ...](https://www.nationstates.net/page=faction/fid=4) [2 Horsemen of the ...](https://www.nationstates.net/page=faction/fid=56) [3 Anime Nations Ag...](https://www.nationstates.net/page=faction/fid=2) [4 Grand Coalition](https://www.nationstates.net/page=faction/fid=7) [5 RAILGUN](https://www.nationstates.net/page=faction/fid=8) [6 Deadline Dodgers](https://www.nationstates.net/page=faction/fid=96) [7 Northern Kerbalia](https://www.nationstates.net/page=faction/fid=3) [8 West Coast Coalition](https://www.nationstates.net/page=faction/fid=98) [9 The Trident Alliance](https://www.nationstates.net/page=faction/fid=62) [10 The RainDrop Pact](https://www.nationstates.net/page=faction/fid=35)
 
 Terms & Conditions of Use
 =========================
