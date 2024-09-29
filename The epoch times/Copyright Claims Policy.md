@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [ICE: More Than 425,000 Criminal Illegal Immigrants Free in US, Including 13,099 Convicted Killers](https://www.theepochtimes.com/us/ice-more-than-425000-criminal-illegal-immigrants-free-in-us-including-13099-convicted-killers-5731925)
+* [Voters in Battleground Michigan Split Over Trump, Harris](https://www.theepochtimes.com/article/voters-in-battleground-michigan-split-over-trump-harris-5731019)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![ICE: More Than 425,000 Criminal Illegal Immigrants Free in US, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Voters in Battleground Michigan Split Over Trump, Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![ICE: More Than 425,000 Criminal Illegal Immigrants Free in US, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5641985-03252024-DSC00443-ICE-DHS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/ice-more-than-425000-criminal-illegal-immigrants-free-in-us-including-13099-convicted-killers-5731925)
+    ![Voters in Battleground Michigan Split Over Trump, Harris](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731655-Michigan-Voters-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/voters-in-battleground-michigan-split-over-trump-harris-5731019)
+* [5 Memorable Vice Presidential Debates In US History](https://www.theepochtimes.com/us/5-memorable-vice-presidential-debates-in-us-history-5731679)
+    
+    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    
+    [![5 Memorable Vice Presidential Debates In US History](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Memorable Vice Presidential Debates In US History](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731883-GettyImages-83095512-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-memorable-vice-presidential-debates-in-us-history-5731679)
+* [US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://www.theepochtimes.com/world/us-cheers-hezbollah-leaders-death-grapples-with-potential-for-wider-war-5731909)
+    
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://img.theepochtimes.com/assets/uploads/2018/01/11/GettyImages-83648422-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-cheers-hezbollah-leaders-death-grapples-with-potential-for-wider-war-5731909)
+* [Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Baffalo Racing](https://www.theepochtimes.com/article/day-in-photos-hezbollah-leader-killed-disaster-aftermath-and-iron-baffalo-racing-5731852)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Baffalo Racing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Baffalo Racing](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731973-GettyImages-2174241388-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-hezbollah-leader-killed-disaster-aftermath-and-iron-baffalo-racing-5731852)
 * [Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://www.theepochtimes.com/us/federal-government-postpones-auction-of-oregons-first-offshore-wind-leases-5731699)
     
-    2hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    8hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
     
     [![Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666005-GettyImages-1407548865-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-government-postpones-auction-of-oregons-first-offshore-wind-leases-5731699)
 * [‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://www.theepochtimes.com/us/complete-obliteration-desantis-says-hurricane-helene-damage-worse-than-idalia-5731855)
     
-    3hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    9hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
     [![‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731939-3.download-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/complete-obliteration-desantis-says-hurricane-helene-damage-worse-than-idalia-5731855)
 * [DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://www.theepochtimes.com/us/doj-urges-court-to-end-federal-oversight-of-new-orleans-police-reforms-5731753)
     
-    5hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    11hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
     [![DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731940-New-Orleans-Parade-shooting-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-urges-court-to-end-federal-oversight-of-new-orleans-police-reforms-5731753)
 * [US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://www.theepochtimes.com/us/us-marshals-arrest-3421-violent-fugitives-in-nationwide-operation-5731868)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731941-53988373058_e9356fa461_k-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-marshals-arrest-3421-violent-fugitives-in-nationwide-operation-5731868)
 * [Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://www.theepochtimes.com/us/kentucky-sues-express-scripts-for-alleged-role-in-fueling-opioid-crisis-5731709)
     
-    5hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    11hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
     [![Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://img.theepochtimes.com/assets/uploads/2024/02/02/id5579181-OxyContin-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/kentucky-sues-express-scripts-for-alleged-role-in-fueling-opioid-crisis-5731709)
 * [Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://www.theepochtimes.com/us/wisconsin-supreme-court-rejects-rfk-jr-bid-to-get-his-name-off-state-ballot-5731727)
     
-    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    12hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723186-09102024-DSC08867-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-supreme-court-rejects-rfk-jr-bid-to-get-his-name-off-state-ballot-5731727)
-* [Can Consciousness Exist Without a Brain?](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
-    
-    6hr By [Yuhong Dong M.D., Ph.D.](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
-    
-    [![Can Consciousness Exist Without a Brain?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Can Consciousness Exist Without a Brain?](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729253-Is-Your-Brain-Really-Necessary-featured-imag-205x123.jpg.webp)](https://www.theepochtimes.com/health/do-you-really-need-your-brain-5694486)
-* [Car Insurance Premiums Hit Record Highs](https://www.theepochtimes.com/business/car-insurance-premiums-hit-record-highs-5731620)
-    
-    7hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
-    
-    [![Car Insurance Premiums Hit Record Highs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Car Insurance Premiums Hit Record Highs](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731942-Car-Crash-Irvine_JF_03302022-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/car-insurance-premiums-hit-record-highs-5731620)
-* [Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://www.theepochtimes.com/business/nearly-50-percent-of-us-homes-remain-unsold-for-at-least-60-days-report-5731276)
-    
-    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Nearly 50 Percent of US Homes Remain Unsold for at Least 60 Days: Report](https://img.theepochtimes.com/assets/uploads/2024/06/24/id5674249-GettyImages-2154182627_web-205x123.jpg.webp)](https://www.theepochtimes.com/business/nearly-50-percent-of-us-homes-remain-unsold-for-at-least-60-days-report-5731276)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
