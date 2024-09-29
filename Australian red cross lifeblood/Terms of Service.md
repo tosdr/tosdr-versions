@@ -3,12 +3,6 @@
 Terms and conditions
 ====================
 
-![informative icon](/themes/custom/arcbs/assets/images/alert-bar/informative-icon.svg)
-
-Due to scheduled maintenance, Life Is the Reason submissions won't be captured between 10pm and 4am AEST. Please come back later.
-
-![alert close icon](/themes/custom/arcbs/assets/images/alert-bar/alert-close.svg)
-
  [![Home](/themes/custom/arcbs/logo-desktop.svg) ![Home](/themes/custom/arcbs/logo-mobile.svg)](https://www.lifeblood.com.au/ "Home")
 
 [Show — Main navigation](#show-block-arcbs-main-menu) [Hide — Main navigation](#hide-block-arcbs-main-menu)
