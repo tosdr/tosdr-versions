@@ -2,7 +2,9 @@
 
  
 
-[SAVE 25% OFF COFFEE W/ CODE COFFEEDAY (EXCL. LIGHT ROAST)](https://www.deathwishcoffee.com/collections/coffee)
+[SAVE 25% OFF COFFEE W/ CODE COFFEEDAY (EXCL. LIGHT ROAST & SUBSCRIPTIONS)](https://www.deathwishcoffee.com/collections/coffee)
+
+TODAY ONLY: FREE LIGHT ROAST FRAC PACK WHILE SUPPLIES LAST
 
      
 
