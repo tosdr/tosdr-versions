@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Cruisin'](https://www.myabandonware.com/game/cruisin-9tg)
+* [Dangerous Seed](https://www.myabandonware.com/game/dangerous-seed-8dx)
 * [Defender](https://www.myabandonware.com/game/defender-2jo)
 * [Atari Baseball](https://www.myabandonware.com/game/atari-baseball-sk5)
 * [Astro Wars](https://www.myabandonware.com/game/astro-wars-sk4)
-* [Astro Fighter](https://www.myabandonware.com/game/astro-fighter-sk3)
-* [Astro Blaster](https://www.myabandonware.com/game/astro-blaster-sk2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
