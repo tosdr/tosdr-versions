@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-skulpture-projekti/slike/paintings/1986b.jpg?itok=esZV_LJj)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-skulpture-projekti/slike-paintings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/museum-beginners/12resistance.jpg?itok=HMUgLgYi)](http://seecult.org/galerija/galerija-umetnika/manik/museum-beginners)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara/dscf5171.jpg?itok=qzzRTQoJ)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/history-memory-identity/kiraly-mogosoaia.jpg?itok=MHkB8n6t)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/history-memory-identity)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
