@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. c
+1. English
     
-2. project management
+2. data science
     
-3. flutter
+3. finance
     
 
 Popular subjects
