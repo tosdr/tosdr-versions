@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5d27088523674db60d2a667b53da352d
+ec1cf5ec09c0aa77db3d99ba6a736352
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm to 10 mm oval pink pearls](https://www.sojourner.biz/images/cache/pearls/PE0040.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-to-10-mm-oval-pink-pearls.html "8 mm to 10 mm oval pink pearls")
+[![10 mm round pink Japanese glass beads](https://www.sojourner.biz/images/cache/glass/GL0322.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-pink-japanese-glass-beads.html "10 mm round pink Japanese glass beads")
 
-#### [8 mm to 10 mm oval pink pearls](https://www.sojourner.biz/beads/pearls/8-mm-to-10-mm-oval-pink-pearls.html "8 mm to 10 mm oval pink pearls")
+#### [10 mm round pink Japanese glass beads](https://www.sojourner.biz/beads/glass/10-mm-round-pink-japanese-glass-beads.html "10 mm round pink Japanese glass beads")
 
-$7.00
+$10.00
 
 ### Best Sellers
 
