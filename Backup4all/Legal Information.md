@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to protect your data against WannaCry or ...](https://www.backup4all.com/how-to-protect-your-data-against-wannacry-or-other-ransomware-attack-kb.html)  
+* [Backup the Favorites folder](https://www.backup4all.com/backup-the-favorites-folder-kb.html)  
     
-* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
+* [What is a Full Backup?](https://www.backup4all.com/full-backup-kb.html)  
     
-* [What is block level backup](https://www.backup4all.com/what-is-block-level-backup-kb.html)  
+* [How to filter a backup?](https://www.backup4all.com/how-to-filter-a-backup-kb.html)  
     
-* [How to use advanced backup settings in Backup ...](https://www.backup4all.com/how-to-use-advanced-settings-in-backup4all-kb.html)  
+* [Using Backup4all - FAQ 10](https://www.backup4all.com/using-backup4all-faq-10-kb.html)  
     
-* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
+* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
     
 
 Choose language:
