@@ -101,66 +101,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Q&A
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_scripture_say_climate.jpg)](https://www.icr.org/article/scripture-climate)
-
-[Does Scripture Say Anything about Climate?](https://www.icr.org/article/scripture-climate/)
-
-Climate change conversations squeeze their way into so many different topics, yet climate research is rife with confusion. Which scientists are right—those...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/harmful_parasites_atbeginning.jpg)](https://www.icr.org/article/did-god-make-harmful-parasites-in-the-beginning)
-
-[Did God Make Harmful Parasites in the Beginning?](https://www.icr.org/article/did-god-make-harmful-parasites-in-the-beginning/)
-
-Parasites are a unique form of life in today’s world. These invertebrates come in all shapes and sizes, from single-cell animals (e.g., Plasmodium...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/animal_death_before_fall.jpg)](https://www.icr.org/article/animal-death-before-the-fall)
-
-[Animal Death Before the Fall?](https://www.icr.org/article/animal-death-before-the-fall/)
-
-Both the Old and New Testaments teach that death entered the world when Adam ate the forbidden fruit (e.g., Genesis 2:17 and Romans 5:12). Since fossils...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
-
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
-
-$7.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
-
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
-
-$4.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
-
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
