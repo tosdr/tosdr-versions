@@ -121,7 +121,7 @@ Other languages:
 * [svenska](https://meta.miraheze.org/wiki/Terms_of_Use/sv "Användarvillkor (2% translated)")
 * [čeština](https://meta.miraheze.org/wiki/Terms_of_Use/cs "Podmínky užití (2% translated)")
 * [Ελληνικά](https://meta.miraheze.org/wiki/Terms_of_Use/el "Όροι Χρήσης (2% translated)")
-* [русский](https://meta.miraheze.org/wiki/Terms_of_Use/ru "Условия использования (55% translated)")
+* [русский](https://meta.miraheze.org/wiki/Terms_of_Use/ru "Условия использования (64% translated)")
 * [українська](https://meta.miraheze.org/wiki/Terms_of_Use/uk "Умови використання (14% translated)")
 * [اردو](https://meta.miraheze.org/wiki/Terms_of_Use/ur "استعمال کی شرائط (29% translated)")
 * [हिन्दी](https://meta.miraheze.org/wiki/Terms_of_Use/hi "उपयोग की शर्तें (55% translated)")
