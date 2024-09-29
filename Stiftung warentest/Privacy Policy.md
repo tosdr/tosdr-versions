@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6133636-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6133636-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6133636-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Daten­pannen bei Facebook und Co: 3000 Euro Schmerzens­geld für Telefon-Terror](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - 3000 Euro Schmerzensgeld für Telefon-Terror")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6133636-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
 
 Service Stiftung Warentest
 
