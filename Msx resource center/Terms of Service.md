@@ -140,9 +140,9 @@ MSX Music player
 
 Latest reactions
 
+* [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
-* [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper](https://www.msx.org/photoshoots/bussum-2001/one-winners-msxorg-quiz-bas-kornalijnslijper "One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper")
 * [Pixel Memories Pasoko-1000 Joysticks](https://www.msx.org/news/hardware/en/pixel-memories-pasoko1000-tribute-joysticks "Pixel Memories Pasoko-1000 Joysticks")
@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
-* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=27 "A new MSX (3?) for 2022 ?")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=59 "WonderTANG! Who wants to juice up your MSX?")
+* [Starfield Question](https://www.msx.org/forum/development/msx-development/starfield-question "Starfield Question")
+* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=1 "Hi From Cuba, Need Help Z80 ;)")
 * [Omega keyboard cursor behavior](https://www.msx.org/forum/msx-talk/hardware/omega-keyboard-cursor-behavior "Omega keyboard cursor behavior")
+* [UK MSX FUN day!](https://www.msx.org/forum/msx-talk/general-discussion/uk-msx-fun-day "UK MSX FUN day! ")
+* [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=2 "HB-F1XD reboots/freezes in basic")
+* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=27 "A new MSX (3?) for 2022 ?")
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Candidate games for MSX Conversion.](https://www.msx.org/forum/msx-talk/general-discussion/candidate-games-for-msx-conversion?page=5 "Candidate games for MSX Conversion. ")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=59 "WonderTANG! Who wants to juice up your MSX?")
 * [SofaRun v2.0 bug report thread](https://www.msx.org/forum/msx-talk/software/sofarun-v20-bug-report-thread?page=46 "SofaRun v2.0 bug report thread")
 * [A1WX - General Port 1 Issues](https://www.msx.org/forum/msx-talk/hardware/a1wx-general-port-1-issues "A1WX - General Port 1 Issues")
-* [Hi From Cuba, Need Help Z80 ;)](https://www.msx.org/forum/msx-talk/software/hi-from-cuba-need-help-z80?page=1 "Hi From Cuba, Need Help Z80 ;)")
 * [About Usage Terms for SunriseIDE BIOS](https://www.msx.org/forum/msx-talk/software/usage-terms-for-sunriseide-bios "About Usage Terms for SunriseIDE BIOS")
-* [MSXLIVE Topic](https://www.msx.org/forum/msx-talk/emulation/msxlive-discussion-forum?page=3 "MSXLIVE Topic")
-* [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=2 "HB-F1XD reboots/freezes in basic")
-* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
