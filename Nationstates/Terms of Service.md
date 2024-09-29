@@ -34,15 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Solitary Throne \[OOC | Closed\] (539)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (539 posts)")
-* [Out of the 2 AN’s: Which one has the… (2,872)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (2,872 posts)")
-* [Your favorite part of AN’s forum sig XI (1,262)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (1,262 posts)")
-* [Out of the two AN's, which of their f… (26)](https://forum.nationstates.net/viewtopic.php?t=556161&f=25&view=unread#unread ""Out of the two AN's, which of their flag is easier to draw?" (26 posts)")
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (7)](https://forum.nationstates.net/viewtopic.php?t=556127&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - IC" (7 posts)")
+* [What do you love about AN? (1,463)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,463 posts)")
+* [Regional Embassy Game (9)](https://forum.nationstates.net/viewtopic.php?t=555505&f=25&view=unread#unread ""Regional Embassy Game" (9 posts)")
+* [The Mutual Cooperation Pact (IC Assem… (39)](https://forum.nationstates.net/viewtopic.php?t=555739&f=5&view=unread#unread ""The Mutual Cooperation Pact (IC Assembly)" (39 posts)")
+* [Socialist Realism Thread (267)](https://forum.nationstates.net/viewtopic.php?t=555929&f=19&view=unread#unread ""Socialist Realism Thread" (267 posts)")
+* [Which AN has a better name? (25)](https://forum.nationstates.net/viewtopic.php?t=556130&f=25&view=unread#unread ""Which AN has a better name?" (25 posts)")
 
 Advertisement
 
-[**Nuclear Scoreboard**:](https://www.nationstates.net/page=factions) [1 Horsemen of the ...](https://www.nationstates.net/page=faction/fid=56) [2 Jellyfish Elite ...](https://www.nationstates.net/page=faction/fid=4) [3 Anime Nations Ag...](https://www.nationstates.net/page=faction/fid=2) [4 Northern Kerbalia](https://www.nationstates.net/page=faction/fid=3) [5 West Coast Coalition](https://www.nationstates.net/page=faction/fid=98) [6 Trans Republic](https://www.nationstates.net/page=faction/fid=34) [7 Grand Coalition](https://www.nationstates.net/page=faction/fid=7) [8 Deadline Dodgers](https://www.nationstates.net/page=faction/fid=96) [9 The Trident Alliance](https://www.nationstates.net/page=faction/fid=62) [10 The RainDrop Pact](https://www.nationstates.net/page=faction/fid=35)
+[**Nuclear Scoreboard**:](https://www.nationstates.net/page=factions) [1 Horsemen of the ...](https://www.nationstates.net/page=faction/fid=56) [2 Jellyfish Elite ...](https://www.nationstates.net/page=faction/fid=4) [3 Kingly Heathens ...](https://www.nationstates.net/page=faction/fid=11) [4 Anime Nations Ag...](https://www.nationstates.net/page=faction/fid=2) [5 West Coast Coalition](https://www.nationstates.net/page=faction/fid=98) [6 Atomic Defense Union](https://www.nationstates.net/page=faction/fid=123) [7 RAILGUN](https://www.nationstates.net/page=faction/fid=8) [8 Northern Kerbalia](https://www.nationstates.net/page=faction/fid=3) [9 European Defence...](https://www.nationstates.net/page=faction/fid=344) [10 The RainDrop Pact](https://www.nationstates.net/page=faction/fid=35)
 
 Terms & Conditions of Use
 =========================
