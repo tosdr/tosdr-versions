@@ -2,14 +2,14 @@ Sunday, September 29 2024
 
 Breaking News
 
-* [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/)
-* [Fox News Host, Pollster Spell Out Data Showing Harris Hemorrhaging Hispanic Support](https://www.conservativedailynews.com/2024/09/fox-news-host-pollster-spell-out-data-showing-harris-hemorrhaging-hispanic-support/)
-* [Dem Senator Introduces Bill That Would Add Six Supreme Court Seats, Expand Federal Judiciary](https://www.conservativedailynews.com/2024/09/dem-senator-introduces-bill-that-would-add-six-supreme-court-seats-expand-federal-judiciary/)
-* [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
-* [Reinventing Kamala As A Moderate With Vibes And Joy](https://www.conservativedailynews.com/2024/09/reinventing-kamala-as-a-moderate-with-vibes-and-joy/)
-* [US Steel: Politicizing Economics Decisions a Bad Campaign Play](https://www.conservativedailynews.com/2024/09/us-steel-politicizing-economics-decisions-a-bad-campaign-play/)
-* [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
-* [President Joe Biden’s Schedule for Saturday, September 28, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-saturday-september-28-2024/)
+* [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
+* [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
+* [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
+* [The National Review’s Confused Priorities](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
+* [President Joe Biden’s Schedule for Sunday, September 29, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-sunday-september-29-2024/)
+* [Time For An Honest Government That Acknowledges The Reality Of Economic Hardship](https://www.conservativedailynews.com/2024/09/time-for-an-honest-government-that-acknowledges-the-reality-of-economic-hardship/)
+* [Strengthening The Border Is My Priority](https://www.conservativedailynews.com/2024/09/strengthening-the-border-is-my-priority/)
+* [Trump, Harris Locked In Dead Heat In Major Battleground States, Poll Shows](https://www.conservativedailynews.com/2024/09/trump-harris-locked-in-dead-heat-in-major-battleground-states-poll-shows/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,60 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/)
+* [![Kamala Harris illegal immigration border crisis 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
     
-    [We Can’t Trust Kamala To Secure The Border](https://www.conservativedailynews.com/2024/09/we-cant-trust-kamala-to-secure-the-border/)
+    [Border Crisis: Shocking Data On Criminal Migrants In US Highlight Harris’ Border Hypocrisy](https://www.conservativedailynews.com/2024/09/border-crisis-shocking-data-on-criminal-migrants-in-us-highlight-harris-border-hypocrisy/)
     
-    September 28, 2024
+    September 29, 2024
     
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/09/fox-news-host-pollster-spell-out-data-showing-harris-hemorrhaging-hispanic-support/)
+* [![Kamala Harris Tim Walz 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/08/mrz082324dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
     
-    [Fox News Host, Pollster Spell Out Data Showing Harris Hemorrhaging Hispanic Support](https://www.conservativedailynews.com/2024/09/fox-news-host-pollster-spell-out-data-showing-harris-hemorrhaging-hispanic-support/)
+    [Harris’ Middle-Class Tax Hike](https://www.conservativedailynews.com/2024/09/harris-middle-class-tax-hike/)
     
-    September 28, 2024
+    September 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/09/dem-senator-introduces-bill-that-would-add-six-supreme-court-seats-expand-federal-judiciary/)
+* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
     
-    [Dem Senator Introduces Bill That Would Add Six Supreme Court Seats, Expand Federal Judiciary](https://www.conservativedailynews.com/2024/09/dem-senator-introduces-bill-that-would-add-six-supreme-court-seats-expand-federal-judiciary/)
+    [Biden-Harris DOJ Sues Alabama Over Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/09/biden-harris-doj-sues-alabama-over-effort-to-remove-non-citizens-from-voter-rolls/)
     
-    September 28, 2024
+    September 29, 2024
     
-* [![Kamala Harris catastrophic damage](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/catastrophic-damage/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/03/National-Review-Logo.png)](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
     
-    [Catastrophic Damage](https://www.conservativedailynews.com/2024/09/catastrophic-damage/)
+    [The National Review’s Confused Priorities](https://www.conservativedailynews.com/2024/09/the-national-reviews-confused-priorities/)
     
-    September 28, 2024
+    September 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/10/Israeli-airstrike-in-Gaza-220x150.jpg)](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-return-to-White-House-marine-one-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-sunday-september-29-2024/)
     
-    [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/)
+    [President Joe Biden’s Schedule for Sunday, September 29, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-sunday-september-29-2024/)
     
-    September 28, 2024
+    September 29, 2024
     
-* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/09/01-joyjoy-kam-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/reinventing-kamala-as-a-moderate-with-vibes-and-joy/)
+* [![Bidenomics inflation economy](https://www.conservativedailynews.com/wp-content/uploads/2024/04/05-ss-bidenom-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/time-for-an-honest-government-that-acknowledges-the-reality-of-economic-hardship/)
     
-    [Reinventing Kamala As A Moderate With Vibes And Joy](https://www.conservativedailynews.com/2024/09/reinventing-kamala-as-a-moderate-with-vibes-and-joy/)
+    [Time For An Honest Government That Acknowledges The Reality Of Economic Hardship](https://www.conservativedailynews.com/2024/09/time-for-an-honest-government-that-acknowledges-the-reality-of-economic-hardship/)
     
-    September 28, 2024
+    September 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/02/Steel-220x150.jpg)](https://www.conservativedailynews.com/2024/09/us-steel-politicizing-economics-decisions-a-bad-campaign-play/)
+* [![Joe Biden Kamala Harris border crisis policy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/open/)
     
-    [US Steel: Politicizing Economics Decisions a Bad Campaign Play](https://www.conservativedailynews.com/2024/09/us-steel-politicizing-economics-decisions-a-bad-campaign-play/)
+    [Open](https://www.conservativedailynews.com/2024/09/open/)
     
-    September 28, 2024
+    September 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/atom-bomb-pic.jpg)](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/05-walzwreck-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/hitchhiker/)
     
-    [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
+    [Hitchhiker](https://www.conservativedailynews.com/2024/09/hitchhiker/)
     
-    September 28, 2024
+    September 29, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [5 Suppressors Under $500](https://www.thegunpage.com/5-suppressors-under-500/10610884)
+* [NRA Asks Supreme Court To Consider AWB Case](https://www.thegunpage.com/nra-asks-supreme-court-to-consider-awb-case/10610882)
+* [From Steyr to Glock: Austria's Military Pistol History](https://www.thegunpage.com/from-steyr-to-glock-austrias-military-pistol-history/10610885)
 * [Gallery: 2024 America Match At NRA Whittington Center](https://www.thegunpage.com/gallery-2024-america-match-at-nra-whittington-center/10610878)
 * [Silencer Saturday #348: Suppressing The Uzi](https://www.thegunpage.com/silencer-saturday-348-suppressing-the-uzi/10610876)
 * [Lauryl Akenhead Claims Ladies Title At 2024 International Precision Rifle Federation Centerfire World Championship](https://www.thegunpage.com/lauryl-akenhead-claims-ladies-title-at-2024-international-precision-rifle-federation-centerfire-world-championship/10610874)
@@ -184,9 +187,6 @@ Recent Posts
 * [Routh’s Rifle… Pul-lease](https://www.thegunpage.com/rouths-rifle-pul-lease/10610871)
 * [TFB Review: Timney Glock Alpha Trigger](https://www.thegunpage.com/tfb-review-timney-glock-alpha-trigger/10610866)
 * [POTD: Chilean Special Forces With Colt M5s](https://www.thegunpage.com/potd-chilean-special-forces-with-colt-m5s/10610867)
-* [TFB Podcast Roundup 148: The September 27th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-148-the-september-27th-roundup/10610863)
-* [TFB Review: MKE MP5 Style Retractable Buttstock](https://www.thegunpage.com/tfb-review-mke-mp5-style-retractable-buttstock/10610864)
-* [They’re Baaackkk: Slide Fire Relaunches](https://www.thegunpage.com/theyre-baaackkk-slide-fire-relaunches/10610860)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
