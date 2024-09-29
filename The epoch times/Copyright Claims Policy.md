@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://www.theepochtimes.com/us/georgia-chemical-plant-fire-forces-mandatory-evacuations-officials-say-5732274)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Chemical Plant Fire Forces Mandatory Evacuations, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732321-Chemical-Plant-Fire-AP24273728356033-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-chemical-plant-fire-forces-mandatory-evacuations-officials-say-5732274)
+* [Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://www.theepochtimes.com/us/over-400000-people-have-already-voted-in-2024-election-what-we-know-so-far-5732260)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Over 400,000 People Have Already Voted in 2024 Election: What We Know So Far](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726109-Trump-Harris-v2-205x123.jpg.webp)](https://www.theepochtimes.com/us/over-400000-people-have-already-voted-in-2024-election-what-we-know-so-far-5732260)
+* [China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://www.theepochtimes.com/world/china-tests-waves-of-missiles-inland-after-intercontinental-missile-launch-5732217)
+    
+    2hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![China Tests Waves of Missiles Inland After Intercontinental Missile Launch](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732339-GettyImages-1175318267-sb-205x123.jpg.webp)](https://www.theepochtimes.com/world/china-tests-waves-of-missiles-inland-after-intercontinental-missile-launch-5732217)
+* [Blinken: Beijing’s Stance on Ukraine ‘Doesn’t Add Up’](https://www.theepochtimes.com/china/blinken-beijings-stance-on-ukraine-doesnt-add-up-5732257)
+    
+    2hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![Blinken: Beijing’s Stance on Ukraine ‘Doesn’t Add Up’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Blinken: Beijing’s Stance on Ukraine ‘Doesn’t Add Up’](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732340-GettyImages-2173268290-Antony-Blinken.jpg-LSedit-sb-205x123.jpg)](https://www.theepochtimes.com/china/blinken-beijings-stance-on-ukraine-doesnt-add-up-5732257)
+* [North Carolina County Reports 30 killed, Raising Helene Death Toll to 84](https://www.theepochtimes.com/us/federal-major-disaster-declared-for-north-carolina-florida-after-helene-5732248)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![North Carolina County Reports 30 killed, Raising Helene Death Toll to 84](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![North Carolina County Reports 30 killed, Raising Helene Death Toll to 84](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732261-Hurricane-Helene-AP24272667422265-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-major-disaster-declared-for-north-carolina-florida-after-helene-5732248)
+* [US Strikes Kill 37 ISIS Operatives, Terrorists in Syria](https://www.theepochtimes.com/world/us-strikes-kill-isis-operatives-other-terrorists-in-syria-5732154)
+    
+    4hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![US Strikes Kill 37 ISIS Operatives, Terrorists in Syria](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Strikes Kill 37 ISIS Operatives, Terrorists in Syria](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732264-Syria-US-troops-GettyImages-1320354789-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-strikes-kill-isis-operatives-other-terrorists-in-syria-5732154)
+* [Nature’s Skin-Saving Super Ingredient Is Found in Everyday Foods](https://www.theepochtimes.com/health/natures-skin-saving-super-ingredient-is-found-in-plants-5717760)
+    
+    6hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
+    
+    [![Nature’s Skin-Saving Super Ingredient Is Found in Everyday Foods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Nature’s Skin-Saving Super Ingredient Is Found in Everyday Foods](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731506-shutterstock_2073488675-205x123.jpg.webp)](https://www.theepochtimes.com/health/natures-skin-saving-super-ingredient-is-found-in-plants-5717760)
 * [US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://www.theepochtimes.com/world/us-indo-pacific-allies-hold-joint-maritime-exercises-in-south-china-sea-5732123)
     
-    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    6hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732126-GettyImages-577071418-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-indo-pacific-allies-hold-joint-maritime-exercises-in-south-china-sea-5732123)
-* [Israel Kills Another Senior Hezbollah Official After Taking Out Nasrallah](https://www.theepochtimes.com/world/hezbollah-confirms-7th-top-commander-killed-in-israeli-strikes-in-recent-days-5732112)
+    ![US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732273-Maritime-Exercises-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-indo-pacific-allies-hold-joint-maritime-exercises-in-south-china-sea-5732123)
+* [Israel Kills Another Senior Hezbollah Leader After Taking out Nasrallah](https://www.theepochtimes.com/world/israel-kills-another-senior-hezbollah-leader-after-taking-out-nasrallah-5732112)
     
-    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    9hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Israel Kills Another Senior Hezbollah Official After Taking Out Nasrallah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Kills Another Senior Hezbollah Leader After Taking out Nasrallah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Kills Another Senior Hezbollah Official After Taking Out Nasrallah](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732137-Hezbollah-Israel-strike-AP24273337856156-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-confirms-7th-top-commander-killed-in-israeli-strikes-in-recent-days-5732112)
+    ![Israel Kills Another Senior Hezbollah Leader After Taking out Nasrallah](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732137-Hezbollah-Israel-strike-AP24273337856156-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-kills-another-senior-hezbollah-leader-after-taking-out-nasrallah-5732112)
 * [Do Vice Presidential Debates Really Matter?](https://www.theepochtimes.com/us/do-vice-presidential-debates-really-matter-5728861)
     
-    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Do Vice Presidential Debates Really Matter?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Do Vice Presidential Debates Really Matter?](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732143-Vance-Walz-205x123.jpg.webp)](https://www.theepochtimes.com/us/do-vice-presidential-debates-really-matter-5728861)
-* [Surfing, Sulfides, and Migraines: Life by the Tijuana River in San Diego](https://www.theepochtimes.com/us/surfing-sulfides-and-migraines-life-by-the-tijuana-river-in-san-diego-5729936)
-    
-    7hr By [John Fredricks](https://www.theepochtimes.com/author/john-fredricks)
-    
-    [![Surfing, Sulfides, and Migraines: Life by the Tijuana River in San Diego](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Surfing, Sulfides, and Migraines: Life by the Tijuana River in San Diego](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732108-Water-Pollution-1_JF_09192024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/surfing-sulfides-and-migraines-life-by-the-tijuana-river-in-san-diego-5729936)
-* [Homeschooling Numbers Continue to Climb After COVID-19 Pandemic: Report](https://www.theepochtimes.com/us/homeschooling-numbers-continue-to-climb-after-covid-19-pandemic-report-5727498)
-    
-    7hr By [Savannah Hulsey Pointer](https://www.theepochtimes.com/author/savannah-pointer)
-    
-    [![Homeschooling Numbers Continue to Climb After COVID-19 Pandemic: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Homeschooling Numbers Continue to Climb After COVID-19 Pandemic: Report](https://img.theepochtimes.com/assets/uploads/2022/02/08/girl-and-cat-205x123.jpg.webp)](https://www.theepochtimes.com/us/homeschooling-numbers-continue-to-climb-after-covid-19-pandemic-report-5727498)
-* [Voters in Battleground Michigan Split Over Trump, Harris](https://www.theepochtimes.com/article/voters-in-battleground-michigan-split-over-trump-harris-5731019)
-    
-    15hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Voters in Battleground Michigan Split Over Trump, Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Voters in Battleground Michigan Split Over Trump, Harris](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731655-Michigan-Voters-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/voters-in-battleground-michigan-split-over-trump-harris-5731019)
-* [5 Memorable Vice Presidential Debates In US History](https://www.theepochtimes.com/us/5-memorable-vice-presidential-debates-in-us-history-5731679)
-    
-    16hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
-    
-    [![5 Memorable Vice Presidential Debates In US History](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Memorable Vice Presidential Debates In US History](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731883-GettyImages-83095512-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-memorable-vice-presidential-debates-in-us-history-5731679)
-* [US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://www.theepochtimes.com/world/us-cheers-hezbollah-leaders-death-grapples-with-potential-for-wider-war-5731909)
-    
-    18hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732103-GettyImages-83648422-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-cheers-hezbollah-leaders-death-grapples-with-potential-for-wider-war-5731909)
-* [Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Buffalo Racing](https://www.theepochtimes.com/article/day-in-photos-hezbollah-leader-killed-disaster-aftermath-and-iron-baffalo-racing-5731852)
-    
-    18hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Buffalo Racing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Buffalo Racing](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731973-GettyImages-2174241388-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-hezbollah-leader-killed-disaster-aftermath-and-iron-baffalo-racing-5731852)
-* [ICE: Over 425,000 Criminal Illegal Immigrants Not in Agency’s Custody, Including 13,099 Convicted Killers](https://www.theepochtimes.com/us/ice-over-425000-criminal-illegal-immigrants-not-in-agencys-custody-including-13099-convicted-killers-5731925)
-    
-    19hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![ICE: Over 425,000 Criminal Illegal Immigrants Not in Agency’s Custody, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![ICE: Over 425,000 Criminal Illegal Immigrants Not in Agency’s Custody, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5641985-03252024-DSC00443-ICE-DHS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/ice-over-425000-criminal-illegal-immigrants-not-in-agencys-custody-including-13099-convicted-killers-5731925)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
