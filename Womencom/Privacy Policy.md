@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+*  [![Kelly Ripa smiling](https://www.women.com/img/gallery/5-kelly-ripa-outfits-that-fell-flat/intro-1727202485.jpg)](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [Taylor Swift's Best Halloween Costumes From Comfy To Comic Book](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
-    ===============================================================================================================================================================
+    [5 Kelly Ripa Outfits That Totally Fell Flat](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
+    ==================================================================================================================
     
-    We look to Taylor Swift for everything from book recs to Instagram captions. So why wouldn't we look to her for Halloween costume ideas?
+    TV presenter and actor Kelly Ripa is generally known for her timeless style, but on occasion, she's worn a few outfits that had us shaking our heads.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+    By Emily Hutchinson [Read More](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
     
-* *  [![Kate Moss skinny scarf](https://www.women.com/img/gallery/the-celeb-approved-early-aughts-skinny-scarf-trend-is-officially-back/intro-1727285222.jpg)](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
+* *  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        
+        ### [Taylor Swift's Best Halloween Costumes From Comfy To Comic Book](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+        
+        We look to Taylor Swift for everything from book recs to Instagram captions. So why wouldn't we look to her for Halloween costume ideas?
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
+        
+    *  [![Kate Moss skinny scarf](https://www.women.com/img/gallery/the-celeb-approved-early-aughts-skinny-scarf-trend-is-officially-back/intro-1727285222.jpg)](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,34 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
         
-    *  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-        
-        ### [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-        
-        Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-        
 
 More Stories
 ------------
 
+*  [![Kylie Jenner posing](https://www.women.com/img/gallery/kylie-jenners-style-transformation-from-blue-hair-to-british-vogue/intro-1727285832.jpg)](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Kylie Jenner's Style Transformation From Blue Hair To British Vogue](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
+    
+    Kylie Jenner's 2024 British Vogue cover marks a significant change from her ultra-glam, grungy, and girly looks of years past.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
+    
+*  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+    
+    Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
+    
 *  [![Reese Witherspoon in a pearl black dress](https://www.women.com/img/gallery/5-reese-witherspoon-outfits-that-prove-shes-the-queen-of-the-black-dress/intro-1727219871.jpg)](https://www.women.com/1672725/reese-witherspoon-outfits-prove-queen-the-black-dress/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
     
     By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    
-*  [![The Bouqs on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-the-bouqs-company-after-shark-tank/intro-1726498446.jpg)](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [Here's What Went Down With The Bouqs Company After Shark Tank](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
-    
-    Flower delivery may not seem like a groundbreaking business idea to bring to "Shark Tank," but The Bouqs was no ordinary floral service.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
-    
-*  [![jennifer lopez and ben affleck](https://www.women.com/img/gallery/jennifer-lopez-and-ben-afflecks-divorce-explained-with-astrology/intro-1726079301.jpg)](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Jennifer Lopez And Ben Affleck's Divorce, Explained With Astrology](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
-    
-    Jennifer Lopez and Ben Affleck lasted another two years before announcing their impending divorce. How does astrology help explain the split?
-    
-    By Amanda Chatel [Read More](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
     
 
 Back
