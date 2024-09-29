@@ -499,10 +499,6 @@ Revised June 1, 2022
 
   [![A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424262.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.")](https://www.japantimes.co.jp/news/2024/09/27/japan/science-health/japan-hpv-vaccine-subsidies/ "Deadline approaches for free HPV vaccine 'catch-up' campaign")
 
-[Weather makes for an unpredictable artist at Nagano art festival](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
-
-  [![“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/423917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ")](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
-
 Podcast
 -------
 
@@ -522,9 +518,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +560,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nasrallah's killing reveals depth of Israel's penetration of Hezbollah](https://www.japantimes.co.jp/news/2024/09/29/world/israel-hezbollah-penetration-focus/ "Nasrallah's killing reveals depth of Israel's penetration of Hezbollah")
+[Researchers in Japan look to art to mold the scientific process](https://www.japantimes.co.jp/news/2024/09/29/japan/science-health/sciart-scientific-process/ "Researchers in Japan look to art to mold the scientific process")
 
-2 hours ago
+59 mins ago
 
-[Netanyahu ratchets up challenge to Iran with Nasrallah killing](https://www.japantimes.co.jp/news/2024/09/29/world/israel-netanyahu-nasrallah-iran/ "Netanyahu ratchets up challenge to Iran with Nasrallah killing")
+[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
 
-2 hours ago
+1 hours ago
 
-[Hezbollah leader's death is 'measure of justice' for his victims, Biden says](https://www.japantimes.co.jp/news/2024/09/29/world/politics/hezbollah-nasrallah-killing-biden/ "Hezbollah leader's death is 'measure of justice' for his victims, Biden says")
+[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
 
-2 hours ago
+1 hours ago
 
-[U.S. southeast faces daunting cleanup from Helene as death toll rises](https://www.japantimes.co.jp/news/2024/09/29/world/storm-helene-us-southeast/ "U.S. southeast faces daunting cleanup from Helene as death toll rises")
+[SBI to end plant construction tie-up with Taiwan chipmaker](https://www.japantimes.co.jp/business/2024/09/29/tech/sbi-end-plant-construction-tie-up/ "SBI to end plant construction tie-up with Taiwan chipmaker")
 
-3 hours ago
+1 hours ago
 
-[China's 'red collectors' cherish bygone Maoist era](https://www.japantimes.co.jp/news/2024/09/29/asia-pacific/china-red-collectors/ "China's 'red collectors' cherish bygone Maoist era")
+[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
-3 hours ago
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
