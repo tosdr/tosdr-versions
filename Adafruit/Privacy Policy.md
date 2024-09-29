@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Confusion and clutter are the failure of design, not the attributes of information”
+“ You're never too old, and if you want to, as my mother said, you can do anything you want to, but you have to work at it”
 
-[Edward Tufte](http://en.wikipedia.org/wiki/Edward_Tufte)
+[Annie Easley](http://en.wikipedia.org/wiki/Annie_Easley)
 
 [](https://www.adafruit.com/about)
 
