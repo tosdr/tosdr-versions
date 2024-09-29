@@ -273,12 +273,12 @@ Most Popular
 [PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry public warned about parking fine text messages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry public warned about parking fine text messages")](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry public warned about parking fine text messages](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School")](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
 
@@ -287,22 +287,6 @@ Most Popular
 [PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Struggling to sleep? Derry event to help achieve that](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Struggling to sleep? Derry event to help achieve that")](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
-
-PICTURE: DEPOSITPHOTOS
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Struggling to sleep? Derry event to help achieve that](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![McDonald pledges to remove means test for carer’s allowance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDonald pledges to remove means test for carer’s allowance")](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
@@ -310,12 +294,12 @@ PICTURE: DEPOSITPHOTOS
 [McDonald pledges to remove means test for carer’s allowance](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night")](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
+[![Who is the best rated Derry City player on FC25?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who is the best rated Derry City player on FC25?")](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Who is the best rated Derry City player on FC25?](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![4,000 brown bins to reach rural areas of Derry in coming weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "4,000 brown bins to reach rural areas of Derry in coming weeks")](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
 
@@ -324,12 +308,30 @@ PICTURE: DEPOSITPHOTOS
 [4,000 brown bins to reach rural areas of Derry in coming weeks](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein is ‘election ready’, McDonald insists](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein is ‘election ready’, McDonald insists")](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
+[![Kilrea](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kilrea")](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Kilrea players celebrate their win. Pic by Tom Heaney, nwpresspics
 
-[Sinn Fein is ‘election ready’, McDonald insists](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Karen Kielt stars as Kilrea defeat Steelstown in Junior final at Owenbeg](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says")](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+
+Danny Quigley with his son, Jack, daughter Abigeal and AWARE NI's Margaret McCrossan.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,51 +509,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
+[![Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon")](https://www.derrynow.com/news/local-news/1617290/derry-ipsc-to-stage-protest-in-city-centre-following-israeli-air-strikes-in-lebanon.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon](https://www.derrynow.com/news/local-news/1617290/derry-ipsc-to-stage-protest-in-city-centre-following-israeli-air-strikes-in-lebanon.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested in connection with criminal damage incident at ATM in Portstewart](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with criminal damage incident at ATM in Portstewart")](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
+
+The ATM was damaged between Saturday and Sunday.
+
+[Home](https://www.derrynow.com/)
+
+[Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_29/2948873-1727610987439.jpg--.jpg?1727610988994 "Derry City")](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
+
+Derry City manager Ruaidhri Higgins watched his team fall to another disappointing result against Drogheda United at Weavers Park.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins - 'The title is there for the taking'](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Kilrea](https://www.derrynow.com/resizer/165/93/true/2024_09_29/GAA_Ladies_Junior_B_final__11-1727610813921.jpg--.jpg?1727610814562 "Kilrea")](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
+
+Kilrea players celebrate their win. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Karen Kielt stars as Kilrea defeat Steelstown in Junior final at Owenbeg](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/resizer/165/93/true/2024_09_24/Aware_NI_take_the_plunge-1727174265439_1727174283.jpg--.jpg?1727174283897 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+
+Danny Quigley with his son, Jack, daughter Abigeal and AWARE NI's Margaret McCrossan.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![4,000 brown bins to reach rural areas of Derry in coming weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "4,000 brown bins to reach rural areas of Derry in coming weeks")](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[4,000 brown bins to reach rural areas of Derry in coming weeks](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry public warned about parking fine text messages](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_8966395.jpg--.jpg "Derry public warned about parking fine text messages")](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry public warned about parking fine text messages](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Struggling to sleep? Derry event to help achieve that](https://www.derrynow.com/resizer/165/93/true/1635258948458.jpg--.jpg?1635258955000 "Struggling to sleep? Derry event to help achieve that")](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
-
-PICTURE: DEPOSITPHOTOS
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Struggling to sleep? Derry event to help achieve that](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Age Friendly Causeway unveils calendar of events for Positive Ageing Month this October](https://www.derrynow.com/resizer/165/93/true/2024_09_27/CCGBC_AGEING_OCT_1-1727451244990.jpg--.jpg?1727451246349 "Age Friendly Causeway unveils calendar of events for Positive Ageing Month this October")](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1616257/age-friendly-causeway-unveils-calendar-of-events-for-positive-ageing-month-this-october.html)
-
-Mayor of Causeway Coast and Glens, Councillor Ciarán McQuillan, joins with Ann McNickle, Project Manager: CRUN and Liam Hinphey, Age-Friendly Programme Coordinator. Photo: CCGBC
-
-[Causeway Coast and Glens Borough Council](https://www.derrynow.com/section/2723/causeway-coast-and-glens-borough-council)
-
-[Age Friendly Causeway unveils calendar of events for Positive Ageing Month this October](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1616257/age-friendly-causeway-unveils-calendar-of-events-for-positive-ageing-month-this-october.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, 28th September 2024](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
