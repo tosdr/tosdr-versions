@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Day of the Dollar](/wp-content/thumbnails/2395-100x70.jpg?x53432)
+* [![The Living Earth](/wp-content/thumbnails/6736-100x70.png?x53432)
     
-    The Day of the Dollar
+    The Living Earth
     
-    Do we live on a bubble? Is it possible for the heavily indebted American economy to collapse and take all of us down in a free fall with it? Have the days of the dollar been counted? Is it really unim](https://documentaryheaven.com/the-day-of-the-dollar/ "The Day of the Dollar")
-* [![Frank Matthews](/wp-content/thumbnails/9937-100x70.jpg?x53432)
+    Over the past 4 billion years, life has evolved from simple single celled organisms into the tremendous variety of plants and animals that exist today. As scientists learn more about the Earth’s histo](https://documentaryheaven.com/the-living-earth/ "The Living Earth")
+* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
     
-    Frank Matthews
+    Soldier Child
     
-    It is said that Frank Mathews was richer than the "American Gangster" Frank Lucas, more powerful than the Mafia and in 1973 he managed to skip bail, dropping off the face of the earth with a staggerin](https://documentaryheaven.com/frank-matthews/ "Frank Matthews")
-* [![Afghanistan’s Child Drug Addicts](/wp-content/thumbnails/11335-100x70.jpg?x53432)
+    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
+* [![Swaziland: Gold Mine of Marijuana](/wp-content/thumbnails/8486-100x70.jpg?x53432)
     
-    Afghanistan’s Child Drug Addicts
+    Swaziland: Gold Mine of Marijuana
     
-    As the world focused on the fight against the Taliban in Afghanistan this Channel 4 special set out to reveal how the conflict has lead to a terrifying rise in the number of children who are now addic](https://documentaryheaven.com/afghanistans-child-drug-addicts/ "Afghanistan’s Child Drug Addicts")
-* [![The Amityville Horror: The Real Story](/wp-content/thumbnails/4899-100x70.jpg?x53432)
+    In this edition of Hamilton Morris' "Pharmacopeia‎" vice show, Hamilton and his team pay a visit to the landlocked Kingdom of Swaziland, which is completely surrounded by South Africa and Mozambique a](https://documentaryheaven.com/swaziland-gold-mine-marijuana/ "Swaziland: Gold Mine of Marijuana")
+* [![Who is Nelson Mandela?](/wp-content/thumbnails/8358-100x70.jpg?x53432)
     
-    The Amityville Horror: The Real Story
+    Who is Nelson Mandela?
     
-    On 13 November 1974, police discovered six members of the De Feo family shot dead; the father, mother and four of the five children, at 112 Ocean Avenue in Amityville, New York. Attention turned to Ro](https://documentaryheaven.com/the-amityville-horror-the-real-story/ "The Amityville Horror: The Real Story")
-* [![THE TRUTH & LIES OF 9/11](/wp-content/thumbnails/1714-100x70.jpg?x53432)
+    For many people, Nelson Mandela was the greatest human to be alive in their lifetime. Everyone, including the most famous celebrities, wanted to get close to him. So who was Nelson Mandela? Born in So](https://documentaryheaven.com/who-nelson-mandela/ "Who is Nelson Mandela?")
+* [![Stanley Kubrick: A Life in Pictures](/wp-content/thumbnails/6136-100x70.jpg?x53432)
     
-    THE TRUTH & LIES OF 9/11
+    Stanley Kubrick: A Life in Pictures
     
-    In the wake of the September 11th attacks, Mike Ruppert was among the first to be publicly critical of a number of transparent flaws in the official story presented by the US government. Mike is a for](https://documentaryheaven.com/the-truth-lies-of-911/ "THE TRUTH & LIES OF 9/11")
+    Stanley Kubrick: A Life in Pictures is a 2001 documentary about the life and work of Stanley Kubrick, famed film director, made by his long-time assistant Jan Harlan. 135 minutes long, it consists of](https://documentaryheaven.com/stanley-kubrick-a-life-in-pictures/ "Stanley Kubrick: A Life in Pictures")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
