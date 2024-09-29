@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![How to Make Yourself a Priority: 7 Self-Love Tips & Ideas | If your busy schedule has you feeling burnt out, exhausted, and emotionally spent, this post is for you. Prioritizing self-care and self-love activities isn't selfish –– it helps you recharge so you can show up well for others. From setting boundaries to scheduling self-care activities, these tips will help you feel more balanced and fulfilled. From taking an everything shower, to journaling, to doing something artsy, click for inspo!](https://www.merakilane.com/wp-content/uploads/2024/09/1-4.png)](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
+    
+    ### [How to Make Yourself a Priority: 7 Self-Love Tips & Ideas](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
+    
     [![How to Get Rid of an Apron Belly | An apron belly, or pannus stomach, refers to excessive tissue and skin that hangs over the lower abdomen. It can appear after pregnancy, excessive weight gain, or significant weight loss and occurs when the belly and fat surrounding the internal organs expands, resulting in additional fat deposits in the omentum (a structure in the abdomen that protects the visceral organs). Click for the best diet, exercise, and workouts to help banish this type of belly fat!](https://www.merakilane.com/wp-content/uploads/2024/09/1-3.png)](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
     
     ### [How to Get Rid of an Apron Belly: 11 Tips and Workouts](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
@@ -74,10 +78,6 @@ Main Menu
     [![How to Make Your Own Pierogies | +16 Easy Recipes! | If you're looking for easy dinner ideas the whole family will enjoy that you can make ahead for busy weeknights, pierogies are always a good idea! Whether you call them perogies, pierogi, or pirohi, these tasty dumplings are the perfect comfort food you can make in batches and throw into the freezer. Homemade is best, and they are so easy to make. Click for our best tips, plus simple sweet and savory recipes for beginners and beyond!](https://www.merakilane.com/wp-content/uploads/2024/09/4-2.png)](https://www.merakilane.com/how-to-make-your-own-pierogies-16-easy-recipes/)
     
     ### [How to Make Your Own Pierogies (+16 Easy Recipes!)](https://www.merakilane.com/how-to-make-your-own-pierogies-16-easy-recipes/)
-    
-    [![17 Healthy Summer Dip Recipes | Whether you’re hosting a backyard barbecue, heading to a picnic, or lounging by the pool, dips are the ultimate crowd-pleaser because they go with everything - chips, crackers, vegetables, and fruit! But they can also be loaded with unnecessary fat and calories, and since they taste so good, it's easy to overeat them. In this post, we're sharing the best, healthy, easy summer dip recipes plus 10 simple tips to make your dips healthier without sacrificing flavor.](https://www.merakilane.com/wp-content/uploads/2024/09/5-1.png)](https://www.merakilane.com/17-healthy-summer-dip-recipes-that-hit-the-spot/)
-    
-    ### [17 Healthy Summer Dip Recipes that Hit the Spot](https://www.merakilane.com/17-healthy-summer-dip-recipes-that-hit-the-spot/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -91,6 +91,10 @@ Main Menu
     
     [Everything Else](https://www.merakilane.com/category/mental-health/)
     
+    [![How to Make Yourself a Priority: 7 Self-Love Tips & Ideas | If your busy schedule has you feeling burnt out, exhausted, and emotionally spent, this post is for you. Prioritizing self-care and self-love activities isn't selfish –– it helps you recharge so you can show up well for others. From setting boundaries to scheduling self-care activities, these tips will help you feel more balanced and fulfilled. From taking an everything shower, to journaling, to doing something artsy, click for inspo!](https://www.merakilane.com/wp-content/uploads/2024/09/1-4.png)](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
+    
+    ### [How to Make Yourself a Priority: 7 Self-Love Tips & Ideas](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
+    
     [![7 Ways to Cope as a Highly Sensitive Person | If you experience physical, emotional, and social stimuli on a deeper level and are often described as being "too sensitive", you may be a HSP. This term was coined by Elaine Aron and Arthur Aron to describe people with sensory processing sensitivity (SPS) -- people who are emphatic and tend to feel emotions and sensations more intensely than others. Click to learn common traits of highly sensitive people, plus coping strategies and self-care tips.](https://www.merakilane.com/wp-content/uploads/2024/09/6-1.png)](https://www.merakilane.com/7-ways-to-cope-as-a-highly-sensitive-person/)
     
     ### [7 Ways to Cope as a Highly Sensitive Person](https://www.merakilane.com/7-ways-to-cope-as-a-highly-sensitive-person/)
@@ -98,10 +102,6 @@ Main Menu
     [![How to Set Intentions for a Positive Life | Intention setting is the process of creating a clear intention for a specific desired goal. It helps you align your goals and vision for your life with your day-to-day routine. Think of intentions as an aim, purpose, or resolution -- something you plan to do or achieve in a given timeframe. By putting intentions behind your goals, you are more likely to follow through. Click for examples of intentions plus tips to stay accountable and be successful.](https://www.merakilane.com/wp-content/uploads/2024/09/2-2.png)](https://www.merakilane.com/intention-setting-101-how-to-set-intentions-for-a-positive-life/)
     
     ### [Intention Setting 101: How to Set Intentions for a Positive Life](https://www.merakilane.com/intention-setting-101-how-to-set-intentions-for-a-positive-life/)
-    
-    [![How to Get Over a Breakup: 9 Ways to Heal | Moving on after heart break can be incredibly difficult. Whether you were the one to initiative the breakup, you need tips for navigating a breakup when you have kids, or you're a parent of teens who are experiencing the ups and downs of relationships for the first time, this post has tons of tips to help you (or your kids) deal with it all in a healthy way. From self-care, to writing in a journal, to self-discovery, and more, these ideas will help.](https://www.merakilane.com/wp-content/uploads/2024/08/7-2.png)](https://www.merakilane.com/how-to-get-over-a-breakup-9-ways-to-heal/)
-    
-    ### [How to Get Over a Breakup: 9 Ways to Heal](https://www.merakilane.com/how-to-get-over-a-breakup-9-ways-to-heal/)
     
 * [Family](https://www.merakilane.com/category/family/)
     
@@ -234,6 +234,17 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
+[when people are judging me, this quote really help ![when people are judging me, this quote really helps. ♡
+(photo taken while landing in toronto — do you see the cn tower?)
+🎥 @wildmediaco
+📸 @thisismaxpower
+#wordsoftheday #wordstoremember #powerfulwords #ownwhoyouare #ceoofmylife #powerfulthoughts #thingsiwanttoremember #spilledthoughts #lessonslearnedinlife #thoughtsoftheday #friendlyreminder #gentlereminder #mylifemyrules](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAginBPPIu_/) 
+
+[just in case you’re wondering why we go from zer ![just in case you’re wondering why we go from zero to f**k off so quickly. 
+🎥 @wildmediaco
+📸 @thisismaxpower 
+#womenover40 #perimenopause #perimenopausehealth #perimenopausesymptoms #menopause #40andfab #40andfabulous #40isthenew30 #raisingdaughters #raisingteens #funnymom #funnymoms #momhumor #relatabletweets #relatabletextpost #relatablememe #relatablereels #imfunny #makemelaugh #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAdr-DnOErp/) 
+
 [consider yourself warned... 🫤 🎥 @wildmediac ![consider yourself warned... 🫤
 🎥 @wildmediaco
 📸 @thisismaxpower 
@@ -248,21 +259,6 @@ Search  Search
 🎥 @wildmediaco
 📸 @thisismaxpower 
 #womenover40 #canyourelate #relatablememes #relatablereels #40andfabulous #40andfit #perimenopause #menopause #raisingdaughters #raisingteens #funnymoms #momlife #momhumor #momlifebelike #imfunny #makemelaugh #trends #funnymemes #funnyreels](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAWARFHuCZp/) 
-
-[4 lessons that helped me let go of other people’ ![4 lessons that helped me let go of other people’s opinions ⬇️
-✨no one thinks about us as much as we think they do, and when we’re confident in who we are, their opinions of us don’t matter anyway.
-✨no one is coming to save us –– we are responsible for our own happiness.
-✨we are responsible for the decisions we make, how  we spend our time, the way we speak to ourselves and the company we keep.
-✨time is a gift that should not be wasted on petty sh*t that does not matter.
-my body may not look or feel the way it once did, but my 40s have put life into perspective for me and turned me into the person i’ve always wanted to be. 💖
-🎥 @wildmediaco
-📸 @thisismaxpower
-#womenover40 #40andfab #40andfabulous #40andfab #perimenopause #menopause #40andfit #unbothered #unapologetic #mindingmybusiness #adulting101 #thingsiwanttoremember #mylifemyrules #ceoofmylife #lessonslearnedinlife #lifelessonslearned](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DATZRE0uXqV/) 
-
-[![also: anxiety is a terrible problem solver. 🫶🏻
-🎥 @wildmediaco
-📸 @thisismaxpower
-#hardday #toughday #roughday #simplereminders #powerfulthoughts #powerfulwords #healingthoughts #healingwords #wordstoremember #thingsiwanttoremember #lessonslearnedinlife #lifelessonslearned #friendlyreminder #spilledwords #spilledthoughts](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ2tNFO1sS/)
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
