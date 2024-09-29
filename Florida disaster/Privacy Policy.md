@@ -220,9 +220,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, September 28, 2024**
+**Sunday, September 29, 2024**
 
-**...Drier Conditions in the Wake of Helene Arrive to North Florida...Isolated Showers Along Northeast Florida and Northern Peninsula...Scattered Showers and Thunderstorms to Move Onshore and Develop Along Florida West Coast Then Spread Inland...Saturated Grounds Could Lead to Instances of Localized Flooding Along the Vulnerable Coast...Warm and Humid Conditions Throughout the Peninsula; Heat Advisories for Portions of Southeast Florida...Lingering Ocean Swells and Onshore Winds Statewide; High Surf Advisory Continues Along West-Central Florida...Minor to Moderate River Flooding Forecast Along Eastern Panhandle and Big Bend...**
+**...Mostly Dry Conditions to Continue Across Panhandle and Big Bend; Possible Stray Showers or Thunderstorm This Afternoon and Evening...Steam of Tropical Moisture to Continue to Bring Scattered Showers and Thunderstorms Along Northern Peninsula and Towards I-4 Corridor Throughout the Day...Localized Flash Flooding Possible From Lower Suwannee Valley Through the I-4 Corridor...Temperatures and Heat Index Values Gradually Creeping Up for Big Bend and Nature Coast...Triple Digit Heat Index Values Throughout the Peninsula; Heat Advisories for Treasure Coast and Southeast Florida...Moderate to High Risk for Rip Currents Continues Statewide...Minor to Moderate Riverine Flooding Forecast or Ongoing Along Eastern Panhandle and Big Bend...National Hurricane Center Continues to Monitor Multiple Disturbances Within the Atlantic Basin...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
