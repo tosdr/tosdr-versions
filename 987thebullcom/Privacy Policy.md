@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Take Your TimeSam Hunt<br><br>5:38pm |
-| Need A FavorJelly Roll<br><br>5:34pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>5:31pm |
-| Knee DeepZac Brown Band Ft. Jimmy Buffet<br><br>5:27pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>5:24pm |
+| Prayed For YouMatt Stell<br><br>6:56pm |
+| RelapseWarren Zeiders<br><br>6:53pm |
+| Gone CountryAlan Jackson<br><br>6:49pm |
+| Wind Up Missing YouTucker Wetmore<br><br>6:47pm |
+| The Kind Of Love We MakeLuke Combs<br><br>6:39pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,19 +495,19 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Eastern
+News Talk • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
