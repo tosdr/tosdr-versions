@@ -129,50 +129,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Johan Botha - Brand Xplosion
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=188061405)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=65593612)  
+Little Nutty Professors
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=53942390)  
-Glass and Allied Industries
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=71585314)  
+Blue Sky Solar Services
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=205799334)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=88338767)  
+Repairs In Motion
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=103971737)  
-Digifax Pty) Ltd t/a Findfish
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=160169164)  
+ARCHITEK PTY LTD
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=201263218)  
-One2b
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=6261566)  
+Lily Fern & Co
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=27825734)  
-ELLIE'S CLEANING CHICKS
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=170860020)  
+National Elite Security Services (PTY) LTD
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=4210020)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=102883427)  
+KTEN PARTS
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=55867080)  
-Tagline Brands
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=97034937)  
+FX ACCOUNTING
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=11135918)  
-McKaynine Mobility
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=195395411)  
+Imhoff Equestrian Centre
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=199508774)  
-Imvubu General Trading
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=44622560)  
+#DiGi3 Marketing & Design
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=110368217)  
-Kara Medical (Pty) Ltd
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=43190944)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=84160987)  
-Wiselink Broadband Dundee
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=38964880)  
+Norton Medical & Consult - Namibia
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=47810052)  
-Nogana Events and Decor
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=79787192)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=6375014)  
-OXYAIDER (PTY) LTD
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=73909800)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=ec893a694141305207b4e49b34382160c197742ebdec59512dc7fb3106d50167&c=20554013)  
-Vplay Grafix
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=9b12e94f954d13dad83093a86f364d8737fa1fa453134d9d8c4933b91f1d0fc8&c=166614370)  
+AMS Ambu Medical Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
