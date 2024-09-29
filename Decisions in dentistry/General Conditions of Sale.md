@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[While tooth whitening services administered by tho ![While tooth whitening services administered by those who are not oral health professionals may be legal in some states, the risks far outweigh the potential savings. Licensed oral health professionals are essential to ensure safe, effective whitening and avoid complications from improper materials or techniques. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAdqEGltWTy/) 
+
 [According to the National Survey of Drug Use and H ![According to the National Survey of Drug Use and Health, more than 46 million Americans have substance use disorders, so dentists should assume they will be treating patients with this diagnosis. Dive into this issue with a continuing education piece that provides clear, evidence-based guidelines on what you need to know to treat patients with substance use disorders safely and effectively. Link in bio.⁠
 ⁠
 ⁠
@@ -176,13 +183,6 @@ Link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAQyFrWNcnB/) 
-
-[Pediatricians, dental professionals, and other hea ![Pediatricians, dental professionals, and other healthcare providers are legally mandated to report suspected child abuse and neglect, including cases involving oral and dental injuries. This clinical report emphasizes the importance of collaboration among healthcare providers to identify and address the often-overlooked oral manifestations of abuse and neglect in children. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAOUJORtygE/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
