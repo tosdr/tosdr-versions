@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
+        
+        #### [How Helene became the near-perfect storm to bring widespread destruction across the South](https://www.kagstv.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/bbc689ca-5522-481e-a54c-f53b3e159168/20240926T213514/bbc689ca-5522-481e-a54c-f53b3e159168_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/bbc689ca-5522-481e-a54c-f53b3e159168/20240926T213514/bbc689ca-5522-481e-a54c-f53b3e159168_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
         
         #### [Helene makes landfall in northwestern Florida as a Category 4 hurricane](https://www.kagstv.com/article/news/nation-world/hurricane-helene-landfall-later-today/507-2d747879-7e9d-468d-b36f-68659a9c1c95)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/b127d32c-977b-4549-86ea-1622da31ad30/20240923T184454/b127d32c-977b-4549-86ea-1622da31ad30_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
-        
-        #### [Major storm warnings issued for Florida, Southeast US as Hurricane Helene is expected to form](https://www.kagstv.com/article/news/nation-world/hurricane-helene-path-florida-southeast-major-storm-warnings/507-c374cde9-a02b-41c1-a49a-fdea7d0f9b1a)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-74°
+94°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
