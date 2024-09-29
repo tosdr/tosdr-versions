@@ -499,10 +499,6 @@ Revised June 1, 2022
 
   [![A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424262.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.")](https://www.japantimes.co.jp/news/2024/09/27/japan/science-health/japan-hpv-vaccine-subsidies/ "Deadline approaches for free HPV vaccine 'catch-up' campaign")
 
-[Weather makes for an unpredictable artist at Nagano art festival](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
-
-  [![“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/423917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ")](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
-
 Podcast
 -------
 
@@ -513,18 +509,18 @@ Podcast
 Longform
 --------
 
-  [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+  [![Wozme, founded by dancer and choreographer Wakaba Kohei, is composed of Kana Kitty, Ami Ishii, Akane Watanabe and Natsuki. Its aim is to inject elegance and beauty, traits traditionally associated with femininity, into the sometimes grotesque art form of butoh dance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/423690.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Wozme, founded by dancer and choreographer Wakaba Kohei, is composed of Kana Kitty, Ami Ishii, Akane Watanabe and Natsuki. Its aim is to inject elegance and beauty, traits traditionally associated with femininity, into the sometimes grotesque art form of butoh dance.")](https://www.japantimes.co.jp/culture/2024/09/29/stage/butoh-dance-wozme-japan/ "Wozme, an all-women dance troupe, wants to move the needle in butoh")
 
-[Dealing with rising land vacancies as Japan shrinks](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+[Wozme, an all-women dance troupe, wants to move the needle in butoh](https://www.japantimes.co.jp/culture/2024/09/29/stage/butoh-dance-wozme-japan/ "Wozme, an all-women dance troupe, wants to move the needle in butoh")
 
-By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zoria Petkoska")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -566,23 +562,15 @@ Latest News
 
 [As Hezbollah threat loomed, Israel built up its spy agencies](https://www.japantimes.co.jp/news/2024/09/29/world/israel-built-up-spy-agencies/ "As Hezbollah threat loomed, Israel built up its spy agencies")
 
-4 hours ago
+10 hours ago
 
 [Researchers in Japan look to art to mold the scientific process](https://www.japantimes.co.jp/news/2024/09/29/japan/science-health/sciart-scientific-process/ "Researchers in Japan look to art to mold the scientific process")
 
-7 hours ago
-
 [Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
-
-7 hours ago
 
 [Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
 
-7 hours ago
-
 [SBI to end plant construction tie-up with Taiwan chipmaker](https://www.japantimes.co.jp/business/2024/09/29/tech/sbi-end-plant-construction-tie-up/ "SBI to end plant construction tie-up with Taiwan chipmaker")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
