@@ -26,6 +26,46 @@ FOX SCORES
     | BRI | 18.12.120 |
     
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
+* [AFL Women's
+    
+    29/9 13:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NM  | –   |
+    | RIC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240508)
+* [AFL Women's
+    
+    29/9 15:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GWS | –   |
+    | WCE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240509)
+* [AFL Women's
+    
+    29/9 15:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BRI | –   |
+    | ADE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240510)
+* [AFL Women's
+    
+    29/9 17:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | POR | –   |
+    | CAR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240511)
 * NRL
     
 * [NRL
@@ -48,6 +88,16 @@ FOX SCORES
     | CRO | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241001)
+* [NRL Women's
+    
+    29/9 16:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | NEW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241002)
 * Rugby
     
 * [Rugby Champs
@@ -56,30 +106,10 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | NZL | 33  |
-    | AUS | 13  |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
-* [Rugby Champs
-    
-    29/9 1:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | RSA | –   |
-    | ARG | –   |
+    | RSA | 48  |
+    | ARG | 7   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240602)
-* [Women's Test
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | AUSW | 37  |
-    | WALW | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/womens-internationals/match-centre/WTM20240108)
 * Cricket
     
 * [Men's Test
@@ -92,24 +122,40 @@ FOX SCORES
     | BAN | 3 /107 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
-* [WNCL
+* [Men's T20I
     
-    29/9 9:30 AEST
+    CAN won by 14 runs
     
     |     |     |
     | --- | --- |
-    | QLD | –   |
-    | NSW | –   |
+    | CAN | 8 /123 |
+    | NEP | 109 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20241901)
+* [Men's ODI
+    
+    29/9 20:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ENG | –   |
+    | AUS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240705)
+* [WNCL
+    
+    |     |     |
+    | --- | --- |
+    | QLD | 6 /139 |
+    | NSW |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250105)
 * [WNCL
     
-    29/9 10:30 AEST
-    
     |     |     |
     | --- | --- |
-    | SA  | –   |
-    | ACT | –   |
+    | SA  |     |
+    | ACT | 4 /81 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250106)
 * Motorsport
@@ -132,16 +178,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | CAI | 101 |
-    | ADL | 97  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020004/play-by-play)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | TAS | 81  |
     | MEL | 72  |
     
@@ -156,6 +192,16 @@ FOX SCORES
     | ILL | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020006)
+* [NBL
+    
+    29/9 16:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NZB | –   |
+    | SEM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020007)
 * Football
     
 * [Premier League
@@ -170,64 +216,84 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250604)
 * [Premier League
     
-    29/9 0:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CHE | –   |
-    | BHA | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250609)
-* [Premier League
-    
-    29/9 0:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BRE | –   |
-    | WHU | –   |
+    | BRE | 1   |
+    | WHU | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250608)
 * [Premier League
     
-    29/9 0:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NOT | –   |
-    | FUL | –   |
+    | NOT | 0   |
+    | FUL | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250605)
 * [Premier League
     
-    29/9 0:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | EVE | –   |
-    | CRY | –   |
+    | EVE | 2   |
+    | CRY | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250602)
 * [Premier League
     
-    29/9 0:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ARS | –   |
-    | LEI | –   |
+    | ARS | 4   |
+    | LEI | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250601)
 * [Premier League
     
-    29/9 2:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | WOL | –   |
-    | LIV | –   |
+    | CHE | 4   |
+    | BHA | 2   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250609)
+* [Premier League
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | WOL | 1   |
+    | LIV | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250606)
+* [Premier League
+    
+    29/9 23:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IPS | –   |
+    | AVL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250610)
+* [Premier League
+    
+    30/9 1:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MUN | –   |
+    | TOT | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250603)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
