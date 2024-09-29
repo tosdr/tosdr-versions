@@ -140,7 +140,7 @@ Share This Article
 
 ### 
 
-[Parental Control Ends Sept 30](https://www.safesearchkids.com/best-parental-control-app/)
+[Sale on Parental Control App Ends September 30](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### Article Categories
 
