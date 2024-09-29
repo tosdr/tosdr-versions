@@ -14,9 +14,99 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
+Últimas de Maceió
+
+[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
+
+   [![ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_acoes_com_idosos_divulgacao_33ce0bf4e0.jpg)
+
+EM MACEIÓ
+
+ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar](https://www.tnh1.com.br/noticia/nid/ong-realiza-semana-de-acoes-em-comemoracao-ao-dia-do-idoso-saiba-como-ajudar/ "ONG realiza semana de ações em comemoração ao Dia do Idoso; saiba como ajudar")   [![HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/d/csm_hge-procura-familiares-de-paciente-sem-identificacao-resgatado-pelo-samu-no-centro-de-maceio_89df05117d.jpg)
+
+em recuperação
+
+HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/hge-procura-familiares-de-paciente-sem-identificacao-resgatado-no-centro-de-maceio/ "HGE procura familiares de paciente sem identificação resgatado no Centro de Maceió")   [![Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_Mulher_encontrada_no_bairro_do_Prado_-_foto_Reproducao_2acc7e0576.jpg)
+
+62 anos
+
+Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação](https://www.tnh1.com.br/noticia/nid/moradores-do-prado-tentam-localizar-familia-de-mulher-encontrada-com-sinais-de-desorientacao/ "Moradores do Prado tentam localizar família de mulher encontrada com sinais de desorientação")   [![MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_emissario_submarino_maceio_ascom_crea_al_fdf0e97d92.jpg)
+
+Maceió
+
+MPF vai investigar risco de desabamento e danos ambientais de emissário submarino](https://www.tnh1.com.br/noticia/nid/mpf-vai-investigar-risco-de-desabamento-e-danos-ambientais-de-emissario-submarino/ "MPF vai investigar risco de desabamento e danos ambientais de emissário submarino ")   [![Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_Maceio-visto-de-cima-Drone-SEMEC-Foto-Celio-Junior_39a24922cb.jpg)
+
+guias disponíveis
+
+Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)](https://www.tnh1.com.br/noticia/nid/setima-parcela-do-iptu-2024-vence-na-proxima-segunda-feira-30/ "Sétima parcela do IPTU 2024 vence na próxima segunda-feira (30)")   [![Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_idosa_desaparecida_7d407a0890.png)
+
+Maceió
+
+Idosa com Alzheimer que pulou janela para fugir de casa é encontrada](https://www.tnh1.com.br/noticia/nid/idosa-com-alzheimer-que-pulou-janela-para-fugir-de-casa-e-encontrada/ "Idosa com Alzheimer que pulou janela para fugir de casa é encontrada ") 
+
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_calculando_dividas_-_Mikhail_Nilov_Pexels_8438c84412.jpg)
+
+inadimplentes
+
+Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento](https://www.tnh1.com.br/noticia/nid/alagoas-tem-o-5o-maior-indice-de-endividados-do-nordeste-segundo-levantamento/ "Alagoas tem o 5º maior índice de endividados do Nordeste, segundo levantamento")   [![Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/d/csm_Aeronave_SAMU_AL_-_foto_SAMU_65acdadaea.jpg)
+
+Alagoas
+
+Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas](https://www.tnh1.com.br/noticia/nid/veja-novas-aeronaves-que-vao-reforcar-frota-de-atendimento-medico-em-alagoas/ "Veja novas aeronaves que vão reforçar frota de atendimento médico em Alagoas")   [![Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_Dia_Nacional_do_Surdo_-_Cordial__2__146a958d8b.jpeg)
+
+Alagoas
+
+Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda](https://www.tnh1.com.br/noticia/nid/inclusao-na-saude-colaboradores-sao-capacitados-em-libras-para-atendimento-da-comunidade-surda/ "Inclusão na Saúde: colaboradores são capacitados em Libras para atendimento da comunidade surda")   [![Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_calor_julho_recorde_reproducao_c23e2f7e18.jpg)
+
+Meteorologia
+
+Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana](https://www.tnh1.com.br/noticia/nid/maxima-de-36oc-algumas-regioes-de-alagoas-podem-registrar-calor-intenso-neste-fim-de-semana/ "Máxima de 36ºC: algumas regiões de Alagoas podem registrar calor intenso neste fim de semana")   [![Veja quais trechos estão próprios para banho no litoral de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
+
+balneabilidade
+
+Veja quais trechos estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-quais-trechos-estao-proprios-para-banho-no-litoral-de-alagoas-2/ "Veja quais trechos estão próprios para banho no litoral de Alagoas")   [![Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/6/csm_Concurso_publico_-_foto_Agencia_Brasil_f6eb9d142c.jpg)
+
+calendário atualizado
+
+Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira](https://www.tnh1.com.br/noticia/nid/nova-data-e-definida-para-provas-do-concurso-publico-da-prefeitura-de-rio-largo-confira/ "Nova data é definida para provas do concurso público da Prefeitura de Rio Largo; confira")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/b/csm_pm-al-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana_5e4e58a38c.jpg)
+
+BALANÇO
+
+PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-24-armas-e-mais-de-23-kg-e-meio-de-drogas-em-uma-semana/ "PM apreende 24 armas e mais de 23 kg e meio de drogas em uma semana")   [![Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_suspeito_preso_homicidio_agreste_bb42b54b32.jpg)
+
+suspeitos presos
+
+Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas](https://www.tnh1.com.br/noticia/nid/dupla-mata-jovem-a-facadas-apos-suposta-ameaca-de-morte-no-agreste-de-alagoas/ "Dupla mata jovem a facadas após suposta ameaça de morte no Agreste de Alagoas")   [![Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
+
+Polícia
+
+Homem é encontrado morto com tiros na cabeça, no Barro Duro](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-tiros-na-cabeca-no-barro-duro/ "Homem é encontrado morto com tiros na cabeça, no Barro Duro")   [![Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/c/csm_Pelopes_-_foto_PMAL_2f66bc1ea2.jpeg)
+
+Agreste
+
+Suspeito de matar homem em posto de combustíveis é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustiveis-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustíveis é preso em Arapiraca")   [![Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/5/csm_pelopes-do-3-batalhao-da-pm-al-prende-suspeito-de-homicidio-em-arapiraca_5a945c78b1.jpeg)
+
+Polícia
+
+Suspeito de matar homem em posto de combustível é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-homem-em-posto-de-combustivel-e-preso-em-arapiraca/ "Suspeito de matar homem em posto de combustível é preso em Arapiraca")   [![Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/4/csm_Cartucho_arma_caso_Ana_Beatriz_-_foto_Reproducao_TV_Pajucara_5132b71e87.jpg)
+
+investigação
+
+Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas](https://www.tnh1.com.br/noticia/nid/arma-do-caso-ana-beatriz-pode-ter-sido-utilizada-contra-outras-oito-vitimas/ "Arma do caso Ana Beatriz pode ter sido utilizada contra outras oito vítimas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -25,6 +115,16 @@
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
+
+Pessoas & Negócios
+
+Reitor do Cesmac recebe título de Doutor Honoris Causa](https://www.tnh1.com.br/noticia/nid/reitor-do-cesmac-recebe-titulo-de-doutor-honoris-causa/ "Reitor do Cesmac recebe título de Doutor Honoris Causa")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -98,31 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_0245e4962b.jpeg)
-
-CÉDULAS DE 100
-
-CÉDULAS DE 100
-
-Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió
-
-Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió](https://www.tnh1.com.br/noticia/nid/crime-eleitoral-pf-apreende-r-500-mil-em-especie-no-bairro-de-ponta-verde-em-maceio/ "Crime eleitoral: PF apreende R$ 500 mil em espécie no bairro de Ponta Verde, em Maceió")[![Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/e/csm_homem-rosto-desfigurado-restaurante-reproducao_59ce816e02.jpg)
-
-EM LONDRES
-
-EM LONDRES
-
-Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado
-
-Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado](https://www.tnh1.com.br/noticia/nid/homem-com-condicao-genetica-rara-diz-que-foi-expulso-de-restaurante-por-causa-de-rosto-desfigurado/ "Homem com condição genética rara diz que foi expulso de restaurante por causa de rosto desfigurado ")[![Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/a/csm_sequestro-madeleine-reproducao_549d2dd6ca.jpg)
-
-confessou crime
-
-confessou crime
-
-Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann
-
-Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann](https://www.tnh1.com.br/noticia/nid/colega-de-cela-de-suspeito-da-detalhes-de-sequestro-de-madeleine-mccann/ "Colega de cela de suspeito dá detalhes de sequestro de Madeleine McCann")[![Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_Policial_que_prendeu_assassino_do_pai_25_anos_depois_teve_crise_de_choro_apos_prisao_-_foto_PC_b1a4c48009.jpeg)
+[![Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/9/csm_Policial_que_prendeu_assassino_do_pai_25_anos_depois_teve_crise_de_choro_apos_prisao_-_foto_PC_b1a4c48009.jpeg)
 
 Boa Vista
 
@@ -130,9 +206,33 @@ Boa Vista
 
 Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão
 
-Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://www.tnh1.com.br/noticia/nid/policial-que-prendeu-assassino-do-pai-25-anos-depois-teve-crise-de-choro-apos-prisao/ "Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão")
+Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://www.tnh1.com.br/noticia/nid/policial-que-prendeu-assassino-do-pai-25-anos-depois-teve-crise-de-choro-apos-prisao/ "Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão")[![Empresário morre após tiro acidental de espingarda na própria perna](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/c/csm_empresario_df_morte_tiro_acidental__1__6a8d31ee50.jpg)
 
-[![Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/5/csm_marilia-gabriela-jpeg-reproducao-redes-sociais_49bb35b774.jpg)
+NO DF
+
+NO DF
+
+Empresário morre após tiro acidental de espingarda na própria perna
+
+Empresário morre após tiro acidental de espingarda na própria perna](https://www.tnh1.com.br/noticia/nid/empresario-morre-apos-tiro-acidental-de-espingarda-na-propria-perna/ "Empresário morre após tiro acidental de espingarda na própria perna")[![Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/a/csm_Mario_Marroquim__presidente_do_CRB_-_Foto_Reproducao_-_CRB_Cast_ca41e10dbd.jpg)
+
+Série B
+
+Série B
+
+Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB
+
+Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB](https://www.tnh1.com.br/noticia/nid/troca-de-comando-psicologico-premiacao-e-mais-veja-exclusiva-com-presidente-do-crb/ "Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ")[![Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_Secretaria_do_Trabalho_divulga_novas_741_vagas_de_emprego_para_diversas_areas_em_Maceio_e_no_interior_-_foto__Fotos_Mariel_Mathias__Fernanda_Fernandes_-_Ascom_SETEQ_eac6560d4e.jpg)
+
+veja cargos
+
+veja cargos
+
+Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior
+
+Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/sine-al-divulga-novas-741-vagas-de-emprego-para-areas-em-maceio-e-no-interior/ "Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior")
+
+[![Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/5/csm_marilia-gabriela-jpeg-reproducao-redes-sociais_49bb35b774.jpg)
 
 em entrevista
 
@@ -140,7 +240,7 @@ em entrevista
 
 Marília Gabriela explica decisão de deixar de fazer sexo; entenda
 
-Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://www.tnh1.com.br/noticia/nid/marilia-gabriela-explica-decisao-de-deixar-de-fazer-sexo-entenda/ "Marília Gabriela explica decisão de deixar de fazer sexo; entenda")[![Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_Mapa-projeto-imagine_reproducao_d03396efec.jpg)
+Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://www.tnh1.com.br/noticia/nid/marilia-gabriela-explica-decisao-de-deixar-de-fazer-sexo-entenda/ "Marília Gabriela explica decisão de deixar de fazer sexo; entenda")[![Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_Mapa-projeto-imagine_reproducao_d03396efec.jpg)
 
 novidade
 
@@ -148,7 +248,7 @@ novidade
 
 Entenda como Roberto Medina usará área do Rock in Rio para parque temático
 
-Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://www.tnh1.com.br/noticia/nid/entenda-como-roberto-medina-usara-area-do-rock-in-rio-para-parque-tematico/ "Entenda como Roberto Medina usará área do Rock in Rio para parque temático")[![Início sem rótulos, aprovação da família: os bastidores do namoro de Anitta e Vinicius Souza](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_vianitta12_reproducao_redes_sociais__1__562015dc6b.jpg)
+Entenda como Roberto Medina usará área do Rock in Rio para parque temático](https://www.tnh1.com.br/noticia/nid/entenda-como-roberto-medina-usara-area-do-rock-in-rio-para-parque-tematico/ "Entenda como Roberto Medina usará área do Rock in Rio para parque temático")[![Início sem rótulos, aprovação da família: os bastidores do namoro de Anitta e Vinicius Souza](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/b/csm_vianitta12_reproducao_redes_sociais__1__562015dc6b.jpg)
 
 amor no ar
 
@@ -156,7 +256,7 @@ amor no ar
 
 Início sem rótulos, aprovação da família: os bastidores do namoro de Anitta e Vinicius Souza
 
-Início sem rótulos, aprovação da família: os bastidores do namoro de Anitta e Vinicius Souza](https://www.tnh1.com.br/noticia/nid/inicio-sem-rotulos-aprovacao-da-familia-os-bastidores-do-namoro-de-anitta-e-vinicius-souza/ "Início sem rótulos, aprovação da família: os bastidores do namoro de Anitta e Vinicius Souza")[![Ministra da Saúde reforça que Brasil vive "pandemia" de vício em bets](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/4/csm_Bets_apostas_esportivas_-_foto_Thenews2Folhapress_2_687b65648b.jpg)
+Início sem rótulos, aprovação da família: os bastidores do namoro de Anitta e Vinicius Souza](https://www.tnh1.com.br/noticia/nid/inicio-sem-rotulos-aprovacao-da-familia-os-bastidores-do-namoro-de-anitta-e-vinicius-souza/ "Início sem rótulos, aprovação da família: os bastidores do namoro de Anitta e Vinicius Souza")[![Ministra da Saúde reforça que Brasil vive "pandemia" de vício em bets](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_Bets_apostas_esportivas_-_foto_Thenews2Folhapress_2_687b65648b.jpg)
 
 preocupação nacional
 
