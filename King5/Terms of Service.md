@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cb6f3862-4848-4881-bb27-4601774692ff/20240928T052044/cb6f3862-4848-4881-bb27-4601774692ff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb6f3862-4848-4881-bb27-4601774692ff/20240928T052044/cb6f3862-4848-4881-bb27-4601774692ff_360x203.jpg)](https://www.king5.com/article/news/local/kent-sexual-assault-survivor-says-if-she-didnt-fight-back-she-would-have-died/281-241a8b1e-231c-4378-8614-49c92394a5bc)
+    *  [![](https://media.king5.com/assets/KING/images/d027016a-b3be-4897-a7d0-ce472357ba14/20240929T004047/d027016a-b3be-4897-a7d0-ce472357ba14_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d027016a-b3be-4897-a7d0-ce472357ba14/20240929T004047/d027016a-b3be-4897-a7d0-ce472357ba14_360x203.jpg)](https://www.king5.com/article/news/local/lumen-field-host-fifa-club-world-cup-matches-2025/281-fa3c1f71-2d77-41e4-85fb-59c3bd3373bc)
         
-        #### [Kent sexual assault survivor believes if she didn't fight back, she would have died](https://www.king5.com/article/news/local/kent-sexual-assault-survivor-says-if-she-didnt-fight-back-she-would-have-died/281-241a8b1e-231c-4378-8614-49c92394a5bc)
+        #### [FIFA selects Lumen Field as 2025 Club World Cup host venue](https://www.king5.com/article/news/local/lumen-field-host-fifa-club-world-cup-matches-2025/281-fa3c1f71-2d77-41e4-85fb-59c3bd3373bc)
         
-    *  [![](https://media.king5.com/assets/KING/images/943624c9-cc1b-452e-abc3-f15e1f817837/943624c9-cc1b-452e-abc3-f15e1f817837_16x9.jpg) ![](https://media.king5.com/assets/KING/images/943624c9-cc1b-452e-abc3-f15e1f817837/943624c9-cc1b-452e-abc3-f15e1f817837_360x203.jpg)](https://www.king5.com/article/tech/science/environment/will-bering-sea-snow-crabbing-season-be-canceled-third-straight-year/281-2ed4530f-5724-4b29-b292-c9d214eafd50)
+    *  [![](https://media.king5.com/assets/KGW/images/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb/20240927T225435/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb/20240927T225435/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb_360x203.jpg)](https://www.king5.com/article/news/local/lorange-yaowarat-react-making-2024-new-york-times-favorites-list/283-f06b7a02-8cab-4a50-a5e5-d570693e27c8)
         
-        #### ['It's still crisis mode': Will Bering Sea snow crabbing season be canceled for third straight year?](https://www.king5.com/article/tech/science/environment/will-bering-sea-snow-crabbing-season-be-canceled-third-straight-year/281-2ed4530f-5724-4b29-b292-c9d214eafd50)
+        #### [Portland restaurants celebrate making NYT list of America's 50 best](https://www.king5.com/article/news/local/lorange-yaowarat-react-making-2024-new-york-times-favorites-list/283-f06b7a02-8cab-4a50-a5e5-d570693e27c8)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-61°
+57°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
