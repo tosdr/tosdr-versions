@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Exclusive
-
-[Embattled Adams officials to marry this weekend as federal corruption probe rocks City Hall: sources](https://nypost.com/2024/09/28/us-news/embattled-adams-officials-david-banks-sheena-wright-to-marry-this-weekend-as-federal-corruption-probe-rocks-city-hall-sources/)
-
 Terms Of Use
 ============
 
