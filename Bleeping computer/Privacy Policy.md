@@ -36,6 +36,9 @@
         
         US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
     
+    * [![A three-year subscription to WindScribe VPN is now down to $79](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        A three-year subscription to WindScribe VPN is now down to $79](https://www.bleepingcomputer.com/offer/deals/a-three-year-subscription-to-windscribe-vpn-is-now-down-to-79/)
     * [![Ireland fines Meta €91 million for storing passwords in plaintext](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ireland fines Meta €91 million for storing passwords in plaintext](https://www.bleepingcomputer.com/news/legal/ireland-fines-meta-91-million-for-storing-passwords-in-plaintext/)
@@ -45,9 +48,6 @@
     * [![Iranian hackers charged for ‘hack-and-leak’ plot to influence election](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
-    * [![U.S. charges Joker's Stash and Rescator money launderers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        U.S. charges Joker's Stash and Rescator money launderers](https://www.bleepingcomputer.com/news/legal/us-charges-jokers-stash-and-rescator-money-launderers/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
