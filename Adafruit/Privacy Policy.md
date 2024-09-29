@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You're only given one little spark of madness. You mustn't lose it”
+“ Confusion and clutter are the failure of design, not the attributes of information”
 
-[Robin Williams](http://en.wikipedia.org/wiki/Robin_Williams)
+[Edward Tufte](http://en.wikipedia.org/wiki/Edward_Tufte)
 
 [](https://www.adafruit.com/about)
 
