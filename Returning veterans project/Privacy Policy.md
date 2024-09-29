@@ -190,10 +190,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![COL Charlie Hobart](https://cdn.returningveterans.org/images/honor/COL_Charlie_Hobart.jpg)  
+![D. Radke](https://cdn.returningveterans.org/images/honor/5_D_Radke.png)  
 
-**In Memory of COL Charlie Hobart**  
-Submitted by John Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of D. Radke**  
+United States Army  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -238,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/28/24 - 8:24:36  
+Printed 9/29/24 - 2:21:49  
 © 2024 Returning Veterans Project
