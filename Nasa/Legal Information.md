@@ -70,13 +70,13 @@ Suggested Searches
 
 ### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
 
-article2 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article3 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
 ### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 
-article2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+article3 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
 
 6 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox](https://science.nasa.gov/wp-content/uploads/2024/09/7-lems-sun-trench.jpg)
 
 1 min read
 
 ### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 2 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/sdo-x1pt5-flare-1145ut-may-11-2024-171-193-131.jpg?w=1024)
 
 3 min read
 
@@ -269,7 +269,7 @@ article 2 days ago](https://www.nasa.gov/general/nasas-biosentinel-studies-solar
 
 ### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
 
-article 2 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
+article 3 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![The carry-on suitcase-sized, cube-shaped robot, with blue and black sides and a white middle, moves up and across the image from right to left. Behind it is a round white station hatch and, to either side of it, walls covered with cords, equipment, and rolls of tape.](https://www.nasa.gov/wp-content/uploads/2024/09/iss067m951461245-robo-pro-challenge-large.gif?w=1024)
 
 4 min read
 
@@ -281,7 +281,7 @@ article 4 days ago](https://www.nasa.gov/missions/station/iss-research/education
 
 ### NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 
-article 1 week ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)
+article 2 weeks ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/)
 
 ### Highlights
 
@@ -319,7 +319,7 @@ article 2 days ago](https://science.nasa.gov/sun/how-nasa-uses-and-improves-sola
 
 ### NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 
-article 2 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 3 days ago](https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 11 min read
 
@@ -335,13 +335,13 @@ article 3 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Hubble Captures Stellar Nurseries in a Majestic Spiral
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)[![NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-m87blackhole-illustration-stsci-01hhjfka40bfsq8njcn9smy9vm.jpg)
 
 6 min read
 
 ### NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
+article 3 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/)[![NASA’s Eyes for Museums](https://science.nasa.gov/wp-content/uploads/2024/08/eyesexhibit.png)
 
 11 min read
 
@@ -351,25 +351,25 @@ article 3 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Highlights
 
-[![Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change](https://science.nasa.gov/wp-content/uploads/2024/05/d9808619-a4ef-4a3e-95ea-cae730a8d250.jpg)
+[![Backyard Worlds: Cool Neighbors](https://science.nasa.gov/wp-content/uploads/2023/07/CoolNeighborsLogo_TransparentBackground_No_Bottom_Text_Square_Canvas.png)
+
+2 min read
+
+### Backyard Worlds: Cool Neighbors
+
+article 7 hours ago](https://science.nasa.gov/citizen-science/backyard-worlds-cool-neighbors/)[![Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change](https://science.nasa.gov/wp-content/uploads/2024/05/d9808619-a4ef-4a3e-95ea-cae730a8d250.jpg)
 
 2 min read
 
 ### Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change
 
-article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
 ### Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)[![Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes](https://science.nasa.gov/wp-content/uploads/2024/09/pia19821-nustar-xrt-sun.jpg)
-
-2 min read
-
-### Amendment 54: D.9 NuSTAR Phase-1 Proposal Due Date Moved up to January 29, 2025, and Other Changes
-
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-54-d-9-nustar-phase-1-proposal-due-date-moved-up-to-january-29-2025-and-other-changes/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-55-f-20-mosaics-seed-funding-winter-2025-review-cut-off-date-extended/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/students-s
 
 ### The Science of the Perfect Cup for Coffee 
 
-article 23 hours ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)[![Image of the Pathfinder Technology Demonstrator Mission 3 against a black starry sky. The spacecraft has its solar arrays deployed and is facing Earth in the lower left hand corner.](https://www.nasa.gov/wp-content/uploads/2024/09/terran-1.jpg?w=1024)
 
 3 min read
 
@@ -445,7 +445,7 @@ article 2 months ago](https://www.nasa.gov/learning-resources/navigate-nasa-lear
 
 ### NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch 
 
-article 2 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
+article 3 days ago](https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/)[![An artist's concept of a small satellite orbiting Earth. The United States and Mexico are visible below.](https://www.nasa.gov/wp-content/uploads/2024/09/sspicy-landscape.png?w=1024)
 
 4 min read
 
