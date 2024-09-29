@@ -674,14 +674,6 @@ Emilo Guhit Calgary 13/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick friendly service! A great job done
-
-Angie Klesken Calgary 12/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Mikhail did an amazing job removing my piano. Thank you Mikhail and 1800 Gpt Junk!!
 
 Malcolm Propp Calgary 12/09/2024
@@ -690,9 +682,9 @@ Malcolm Propp Calgary 12/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Came same day. They were polite and professional. Thank you for the great service!
+Quick friendly service! A great job done
 
-Liesa Evans Calgary 11/09/2024
+Angie Klesken Calgary 12/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -709,6 +701,14 @@ Honour Calgary 11/09/2024
 These guys are amazing! Very thorough, very fast, and clean up behind themselves. Highly recommend!
 
 Gail Singer Calgary 11/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Came same day. They were polite and professional. Thank you for the great service!
+
+Liesa Evans Calgary 11/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -866,6 +866,14 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Darrell was great!!!
+
+Cecilia Shure LA Metro 21/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Mikey and Chaz are awesome, came to Ave Maria, and cleared everything out quick! 10/10 service !
 
 Brandon Diaz Naples 21/09/2024
@@ -901,14 +909,6 @@ Aaron Oakland Madison 21/09/2024
 Marcel and Pablo were great. Courteous and quick. Thanks guys!
 
 Terry Hecker Seattle 21/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Darrell was great!!!
-
-Cecilia Shure LA Metro 21/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
