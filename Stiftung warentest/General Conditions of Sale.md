@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
 Service Stiftung Warentest
 
