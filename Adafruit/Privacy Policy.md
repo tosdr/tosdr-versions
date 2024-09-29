@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
+“ We understand human mental processes only slightly better than a fish understands swimming”
 
-[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
+[John McCarthy](http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29)
 
 [](https://www.adafruit.com/about)
 
