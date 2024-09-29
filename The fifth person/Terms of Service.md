@@ -171,19 +171,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2014/11/monopoly.jpg)](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
-    
-    [7 quick steps to pick the best dividend stocks](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
-    
-    November 24, 2014
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
     ![](https://fifthperson.com/wp-content/uploads/2024/09/us-dollar-220x150.jpg)](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
     [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
     6 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2014/11/monopoly.jpg)](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
+    
+    [7 quick steps to pick the best dividend stocks](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
+    
+    November 24, 2014
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -210,6 +210,14 @@ Quick Guides
     February 3, 2023
     
 
+* [![Photo of Anna Seow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Anna Seow](https://secure.gravatar.com/avatar/cda2bcc36ce6d63d392af7f317835fd6?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
+    
+    [Anna Seow](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
+    
+    This article is insightful, from such a young man....
+    
 * [![Photo of Steve Davies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Steve Davies](https://secure.gravatar.com/avatar/2cbca18b674875151f00104abd0f7f75?s=70&d=mm&r=g)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-676295)
@@ -293,14 +301,6 @@ Quick Guides
     [The Fifth Person](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675686)
     
     Hi Mei Li, Sure! We've dropped you an email about this :)...
-    
-* [![Photo of Mei Li](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Mei Li](https://secure.gravatar.com/avatar/7280ae12ff47a3738311b3a53691a1ba?s=70&d=mm&r=g)](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675685)
-    
-    [Mei Li](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675685)
-    
-    Hi Adam, Rusmin and Victor Victor mentioned in the last Alph...
     
 
 Advertisement
