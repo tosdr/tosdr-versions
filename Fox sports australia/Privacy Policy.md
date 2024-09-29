@@ -28,74 +28,64 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242801)
 * [AFL Women's
     
-    29/9 13:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | NM  | –   |
-    | RIC | –   |
+    | NM  | 3.9.27 |
+    | RIC | 2.3.15 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240508)
 * [AFL Women's
     
-    29/9 15:05 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | GWS | –   |
-    | WCE | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240509)
-* [AFL Women's
-    
-    29/9 15:05 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BRI | –   |
-    | ADE | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240510)
-* [AFL Women's
-    
-    29/9 17:05 AEST
-    
-    |     |     |
-    | --- | --- |
-    | POR | –   |
-    | CAR | –   |
+    | POR | 2.5.17 |
+    | CAR | 1.5.11 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240511)
-* NRL
-    
-* [NRL
+* [AFL Women's
     
     Complete
     
     |     |     |
     | --- | --- |
-    | PEN | 26  |
-    | CRO | 6   |
+    | BRI | 5.5.35 |
+    | ADE | 5.3.33 |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243002/match-report)
-* [NRL Women's
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240510)
+* [AFL Women's
     
-    29/9 14:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | BRI | –   |
-    | CRO | –   |
+    | GWS | 6.4.40 |
+    | WCE | 10.4.64 |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240509)
+* NRL
+    
+* [NRL Women's
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | BRI | 0   |
+    | CRO | 14  |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241001)
 * [NRL Women's
     
-    29/9 16:15 AEST
+    2nd Half
     
     |     |     |
     | --- | --- |
-    | SYD | –   |
-    | NEW | –   |
+    | SYD | 24  |
+    | NEW | 10  |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241002)
 * Rugby
@@ -114,7 +104,7 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2
+    Day 3 Session 2
     
     |     |     |
     | --- | --- |
@@ -122,16 +112,16 @@ FOX SCORES
     | BAN | 3 /107 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
-* [Men's T20I
+* [Men's Test
     
-    CAN won by 14 runs
+    Day 4 Session 2
     
     |     |     |
     | --- | --- |
-    | CAN | 8 /123 |
-    | NEP | 109 |
+    | SRI | 5 /602d |
+    | NZL | 88 & 360 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20241901)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240702)
 * [Men's ODI
     
     29/9 20:00 AEST
@@ -144,25 +134,29 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240705)
 * [WNCL
     
+    NSW won by 2 wkts
+    
     |     |     |
     | --- | --- |
-    | QLD | 6 /139 |
-    | NSW |     |
+    | QLD | 216 |
+    | NSW | 8 /217 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250105)
 * [WNCL
     
+    SA won by 4 wkts
+    
     |     |     |
     | --- | --- |
-    | SA  |     |
-    | ACT | 4 /81 |
+    | SA  | 6 /248 |
+    | ACT | 245 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250106)
 * Motorsport
     
 * [MotoGP
     
-    27/9 12:45 AEST
+    Complete
     
     |     |
     | --- |
@@ -174,96 +168,26 @@ FOX SCORES
     
 * [NBL
     
+    3rd Qtr
+    
+    |     |     |
+    | --- | --- |
+    | NZB | 52  |
+    | SEM | 56  |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020007/play-by-play)
+* [NBL
+    
     Full Time
     
     |     |     |
     | --- | --- |
-    | TAS | 81  |
-    | MEL | 72  |
+    | SYD | 89  |
+    | ILL | 96  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020005/play-by-play)
-* [NBL
-    
-    29/9 14:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | SYD | –   |
-    | ILL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020006)
-* [NBL
-    
-    29/9 16:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | NZB | –   |
-    | SEM | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020007)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020006/play-by-play)
 * Football
     
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NEW | 1   |
-    | MCI | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250604)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BRE | 1   |
-    | WHU | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250608)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NOT | 0   |
-    | FUL | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250605)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | EVE | 2   |
-    | CRY | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250602)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ARS | 4   |
-    | LEI | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250601)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CHE | 4   |
-    | BHA | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250609)
 * [Premier League
     
     Full Time
