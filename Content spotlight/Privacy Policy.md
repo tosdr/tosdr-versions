@@ -14,9 +14,24 @@ A KEYWORD RESEARCH SEO COMPANY
 * [Contact](https://contentspotlight.org/contact/)
 * [Our Services](https://contentspotlight.org/our-services/)
 * [Get in Touch](https://contentspotlightaz.eb-sites.com/5022968606883840)
+* [Evergreen Content](https://contentspotlight.org/evergreen-content/)
+    * [Enterprise SEO solutions | Results-driven SEO Company](https://contentspotlight.org/enterprise-seo-solutions-results-driven-seo-company/)
+    * [SEO in Kolkata | Enterprise SEO agency](https://contentspotlight.org/seo-in-kolkata-enterprise-seo-agency/)
+    * [SEO in India | Search Engine rankings matter](https://contentspotlight.org/seo-in-india-search-engine-rankings-matter/)
+    * [Content Writing in Kolkata | Leading writing agency](https://contentspotlight.org/content-writing-in-kolkata-leading-writing-agency/)
+    * [Content Writing in India | How to write engaging content](https://contentspotlight.org/content-writing-in-india-how-to-write-engaging-content/)
+* [Content Writing](https://contentspotlight.org/content-writing/)
+    * [Content Writing Agency in India | Premium writing services](https://contentspotlight.org/content-writing-agency-in-india-premium-writing-services/)
+    * [Content Writing Company in India | Premium Copywriting agency](https://contentspotlight.org/content-writing-company-in-india-premium-copywriting-agency/)
+    * [Content writing agency in Kolkata | Premium writing services](https://contentspotlight.org/content-writing-agency-in-kolkata-premium-writing-services/)
+    * [Content Writing company in Kolkata | Best writing agency](https://contentspotlight.org/content-writing-company-in-kolkata-best-writing-agency/)
+    * [Content Writing Services in India | Trustworthy Editorial services](https://contentspotlight.org/content-writing-services-in-india-trustworthy-editorial-services/)
+    * [Content Writing Services in Kolkata | Best Copywriting Agency](https://contentspotlight.org/content-writing-services-in-kolkata-best-copywriting-agency/)
 
 PRIVACY POLICY
 --------------
+
+[SEO Company in India](https://contentspotlight.org/) » **PRIVACY POLICY**
 
 Who we are
 ----------
@@ -61,15 +76,6 @@ Like Loading...
 Copyright © Content Spotlight 2023
 ----------------------------------
 
-Recent Posts
-------------
-
-* [SEO in Kolkata | Enterprise SEO agency](https://contentspotlight.org/seo-in-kolkata-enterprise-seo-agency/)
-* [SEO in India | Search Engine rankings matter](https://contentspotlight.org/seo-in-india-search-engine-rankings-matter/)
-* [Content Writing in Kolkata | Leading writing agency](https://contentspotlight.org/content-writing-in-kolkata-leading-writing-agency/)
-* [Content Writing in India | How to write engaging content](https://contentspotlight.org/content-writing-in-india-how-to-write-engaging-content/)
-* [Types of SEO and how it can improve your Search Engine Rankings](https://contentspotlight.org/types-of-seo-and-how-it-can-improve-your-search-engine-rankings/)
-
 ### Web Safety
 
 BOSS
@@ -94,12 +100,9 @@ Email: info@contentspotlight.org
 
 Phone: +91-9831405832
 
-Company Details
----------------
+Type your email… 
 
-* [Contact](https://contentspotlight.org/contact/)
-* [Our Services](https://contentspotlight.org/our-services/)
-* [Get in Touch](https://contentspotlightaz.eb-sites.com/5022968606883840)
+        Subscribe
 
 Important Links
 ---------------
