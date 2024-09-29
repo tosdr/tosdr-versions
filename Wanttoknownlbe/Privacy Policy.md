@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/al-het-co2-overschot-naar-onze-kas-kwekers/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/zijn-of-niet-zijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
