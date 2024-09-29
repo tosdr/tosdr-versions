@@ -185,11 +185,11 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**2024 Nissan Z NISMO & 2025 Mazda CX-70** | MotorWeek](https://video.nhpbs.org/video/2024-nissan-z-nismo-2025-mazda-cx-70-l9sqgz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**What to know about Israel's killing of Hezbollah's leader** | PBS News Hour](https://video.nhpbs.org/video/targeting-hezbollah-1727553580?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview of Dracula's Hidden Kingdom** | Nature](https://video.nhpbs.org/video/about-draculas-hidden-kingdom?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Craig Morgan performs "That's What I Love About Sunday"** | Salute to Service: A Veterans Day Celebration](https://video.nhpbs.org/video/craig-morgan-performs-thats-what-i-love-about-sunday-joqaqq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Renegades: Five people with disabilities who changed history** | American Masters](https://video.nhpbs.org/video/renegades-five-people-with-disabilities-who-changed-history-zqhv3o?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trump's Pitch to Women; ''The Bro Vote''** | To The Contrary](https://video.nhpbs.org/video/trumps-pitch-to-women-the-bro-vote-2ki6qf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Georgia works to secure voting machines amid concerns** | PBS News Hour](https://video.nhpbs.org/video/securing-the-vote-1727470126?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 9/27/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-92724-rk8any?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**September 27, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-27-2024-khizuy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Complicated Story of La Malinche** | VOCES American Historia: The Untold History of Latinos](https://video.nhpbs.org/video/the-complicated-story-of-la-malinche-rivudd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
