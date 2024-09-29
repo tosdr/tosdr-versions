@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/vs-rechtbank-mrna-injecties-geen-vaccins/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/petitie-stop-het-proces-tegen-huisarts-van-der-linde/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
