@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-160738a13336cd9e889dd17aaa380f87
+dc4860e09427abc3e136ad467b273277
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Rectangular coral floral box clasp](https://sojourner.biz/images/cache/SKU0492front.200.jpg)](https://sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
+[![Large Chinese lacquer bowl](https://sojourner.biz/images/cache/bohemian_chic/BC0012angle.200.jpg)](https://sojourner.biz/bohemian-chic-decor/large-chinese-lacquer-bowl.html "Large Chinese lacquer bowl")
 
-#### [Rectangular coral floral box clasp](https://sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
+#### [Large Chinese lacquer bowl](https://sojourner.biz/bohemian-chic-decor/large-chinese-lacquer-bowl.html "Large Chinese lacquer bowl")
 
-$23.50
+$125.00
 
 ### Best Sellers
 
