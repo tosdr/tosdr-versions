@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much. Excellent support.
+The FP worked a treat in France last month. I shall be in France later in April and will use it again to keep up to date. How otherwise could I ensure I saw all 20 episodes of The Killing!? Absolutely essential, and the FP instructions are very clear and easy to use.
 
-Davor Spanic
+John Evans
