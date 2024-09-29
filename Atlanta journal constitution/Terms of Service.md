@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: No. 2 Alabama outlasts No. 4 Georgia in second-half thriller](https://www.ajc.com/sports/georgia-bulldogs/no-2-alabama-outlasts-no-4-georgia-in-second-half-thriller/FJMLSFXXIJBVTBC4JXVFSIKWYI/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
 Log In
