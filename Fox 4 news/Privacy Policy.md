@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Parts of Rockwall County experiencing 911 outage](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/0f7dd3ce-V-91120T-MOBILE20GHOST20CALLS_1489581523865_2887537_ver1.0.jpg?ve=1&tl=1)
+ [![Six children hospitalized, driver arrested after hit-and-run crash in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092924-Sh-DPD-Major-Crash-Ledbetter-Mark-Trail-_KD_00.12.05.48.jpg?ve=1&tl=1)
 
- ![Parts of Rockwall County experiencing 911 outage](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/0f7dd3ce-V-91120T-MOBILE20GHOST20CALLS_1489581523865_2887537_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rockwall-county-911-issues)
+ ![Six children hospitalized, driver arrested after hit-and-run crash in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092924-Sh-DPD-Major-Crash-Ledbetter-Mark-Trail-_KD_00.12.05.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ledbetter-crash-jose-castro-children)
 
-### [Parts of Rockwall County experiencing 911 outage](https://www.fox4news.com/news/rockwall-county-911-issues)
+### [Six children hospitalized, driver arrested after hit-and-run crash in Dallas](https://www.fox4news.com/news/ledbetter-crash-jose-castro-children)
 
- [![North Korea expands list of crimes punishable by death: report](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1139191515-scaled.jpg?ve=1&tl=1)
+ [![Asheville flooding: Hurricane Helene drone footage shows swallowed city streets](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Storyful-313406-Drone_Footage_Shows_Major_Flooding_Following_Helene.00_01_50_18.Still006-copy.jpg?ve=1&tl=1)
 
- ![North Korea expands list of crimes punishable by death: report](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1139191515-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-korea-crimes-punishable-death-report)
+ ![Asheville flooding: Hurricane Helene drone footage shows swallowed city streets](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Storyful-313406-Drone_Footage_Shows_Major_Flooding_Following_Helene.00_01_50_18.Still006-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/asheville-nc-flooding-drone-helene-hurricane)
 
-### [North Korea expands list of crimes punishable by death: report](https://www.fox4news.com/news/north-korea-crimes-punishable-death-report)
+### [Drone footage of Asheville flooding shows swallowed city streets](https://www.fox4news.com/news/asheville-nc-flooding-drone-helene-hurricane)
 
- [![Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2175356772.jpg?ve=1&tl=1)
+ [![Deep Ellum shooting injures one](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-DPD-SHOOTING-ELM-ST-DEEP-ELLUM-7A_KDFW6d0e_146_m_00.00.04.14.jpg?ve=1&tl=1)
 
- ![Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2175356772.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jack-hoover-throws-356-yards-three-tds-tcu-beats-kansas-38-27-arrowhead-stadium)
+ ![Deep Ellum shooting injures one](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-DPD-SHOOTING-ELM-ST-DEEP-ELLUM-7A_KDFW6d0e_146_m_00.00.04.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deep-ellum-shooting-injures-one)
 
-### [Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://www.fox4news.com/sports/jack-hoover-throws-356-yards-three-tds-tcu-beats-kansas-38-27-arrowhead-stadium)
+### [Deep Ellum shooting injures one](https://www.fox4news.com/news/deep-ellum-shooting-injures-one)
 
- [![No. 21 Oklahoma rallies late, stuns Auburn for first-ever Southeastern Conference win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174501200.jpg?ve=1&tl=1)
+ [![Was Spotify down? Music streaming issues reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2151457570-scaled.jpg?ve=1&tl=1)
 
- ![No. 21 Oklahoma rallies late, stuns Auburn for first-ever Southeastern Conference win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174501200.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-21-oklahoma-rallies-late-stuns-auburn-first-ever-southeastern-conference-win)
+ ![Was Spotify down? Music streaming issues reported](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2151457570-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-spotify-down-music-streaming-issues-reported)
 
-### [No. 21 Oklahoma rallies late, stuns Auburn for first-ever Southeastern Conference win](https://www.fox4news.com/sports/no-21-oklahoma-rallies-late-stuns-auburn-first-ever-southeastern-conference-win)
+### [Was Spotify down? Music streaming issues reported](https://www.fox4news.com/news/is-spotify-down-music-streaming-issues-reported)
 
- [![Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174538459.jpg?ve=1&tl=1)
+ [![Rockwall County 911 service restored](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/0f7dd3ce-V-91120T-MOBILE20GHOST20CALLS_1489581523865_2887537_ver1.0.jpg?ve=1&tl=1)
 
- ![Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174538459.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/marcel-reed-throws-2-touchdowns-runs-another-no-24-aggies-21-17-win-over-arkansas)
+ ![Rockwall County 911 service restored](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/0f7dd3ce-V-91120T-MOBILE20GHOST20CALLS_1489581523865_2887537_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rockwall-county-911-issues)
 
-### [Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://www.fox4news.com/sports/marcel-reed-throws-2-touchdowns-runs-another-no-24-aggies-21-17-win-over-arkansas)
+### [Rockwall County 911 service restored](https://www.fox4news.com/news/rockwall-county-911-issues)
 
 ###### [News](https://www.fox4news.com/news)
 
