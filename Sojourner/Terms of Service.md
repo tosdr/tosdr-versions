@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ba4e7d1b51f925140ab4f357b50b4807
+92489dca191814994f6d2ba39596c8e6
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Light sapphire Swarovski square clasp](https://sojourner.biz/images/cache/SKU0543front.200.jpg)](https://sojourner.biz/clasps/swarovski/light-sapphire-swarovski-square-clasp.html "Light sapphire Swarovski square clasp")
+[![22 mm to 26 mm white Baroque pearls](https://sojourner.biz/images/cache/pearls/PE0179.200.jpg)](https://sojourner.biz/beads/pearls/22-mm-to-26-mm-white-baroque-pearls.html "22 mm to 26 mm white Baroque pearls")
 
-#### [Light sapphire Swarovski square clasp](https://sojourner.biz/clasps/swarovski/light-sapphire-swarovski-square-clasp.html "Light sapphire Swarovski square clasp")
+#### [22 mm to 26 mm white Baroque pearls](https://sojourner.biz/beads/pearls/22-mm-to-26-mm-white-baroque-pearls.html "22 mm to 26 mm white Baroque pearls")
 
-$21.00
+$31.00
 
 ### Best Sellers
 
