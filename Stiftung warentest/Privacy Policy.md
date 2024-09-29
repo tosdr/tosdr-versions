@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Service Stiftung Warentest
 
