@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Chris Stapleton Delivers “Brilliant” Cover Of...](https://classiccountrymusic.com/chris-stapleton-delivers-brilliant-cover-of-willie-nelsons-angel-flying-too-close-to-the-ground/)
+* [Flashback: George Jones’ Wife Accepts His...](https://classiccountrymusic.com/flashback-george-jones-wife-accepts-his-cma-award-while-hes-in-the-bathroom/)
 * [Beloved Hall Of Fame Songwriter Hugh...](https://classiccountrymusic.com/beloved-hall-of-fame-songwriter-hugh-prestwood-has-died-at-82/)
-* [The 2024 People’s Choice Country Awards...](https://classiccountrymusic.com/the-2024-peoples-choice-country-awards-did-not-pay-tribute-to-late-country-icon-toby-keith/)
-* [Lisa Marie Presley’s Posthumous Memoir Describes...](https://classiccountrymusic.com/lisa-marie-presleys-posthumous-memoir-describes-a-parent-teacher-conference-with-her-dad-elvis/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
