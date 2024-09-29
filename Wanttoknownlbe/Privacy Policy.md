@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/zijn-of-niet-zijn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/stomdronken-juncker-geeft-eu-visitekaartje-af/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
