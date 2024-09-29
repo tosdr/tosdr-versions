@@ -193,7 +193,7 @@ Agent to Receive Notices of Claimed Infringement:
 San Francisco, CA 94103  
 USA  
 ip@strava.com  
-(415) 373-0220
+(415) 320-7817
 
 Your Feedback
 -------------
