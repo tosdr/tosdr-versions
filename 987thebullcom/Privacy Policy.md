@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Prayed For YouMatt Stell<br><br>6:56pm |
-| RelapseWarren Zeiders<br><br>6:53pm |
-| Gone CountryAlan Jackson<br><br>6:49pm |
-| Wind Up Missing YouTucker Wetmore<br><br>6:47pm |
-| The Kind Of Love We MakeLuke Combs<br><br>6:39pm |
+| Long Hot SummerKeith Urban<br><br>4:59am |
+| Fast CarLuke Combs<br><br>4:55am |
+| Good On YouPriscilla Block<br><br>4:52am |
+| You ProofMorgan Wallen<br><br>4:49am |
+| Beatles And EaglesThe Frontman<br><br>4:45am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,19 +495,19 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
