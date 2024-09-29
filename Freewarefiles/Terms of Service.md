@@ -1,6 +1,8 @@
 [Skip to content](#main)
 
-[![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
+[![Freeware Files](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20406%20275'%3E%3C/svg%3E)
+
+![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
 
 * [Home](https://www.freewarefiles.com/)
 * [Software](https://www.freewarefiles.com/software/)
@@ -13,7 +15,9 @@
 
 Search
 
-[![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
+[![Freeware Files](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20406%20275'%3E%3C/svg%3E)
+
+![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
 
 Search
 
@@ -58,7 +62,9 @@ If you’re an NFL fan and wondering how to watch the Super Bowl Free then there
 
 [Read More How To Watch The Super Bowl For Free?Continue](https://www.freewarefiles.com/games/how-to-watch-the-super-bowl-for-free/)
 
-[![How To Check Search History on iPhone in Settings?](https://www.freewarefiles.com/wp-content/uploads/2024/08/How-To-Check-Search-History-on-iPhone-in-Settings-768x576.jpg)](https://www.freewarefiles.com/apple/how-to-check-search-history-on-iphone-in-settings/)
+[![How To Check Search History on iPhone in Settings?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20576'%3E%3C/svg%3E)
+
+![How To Check Search History on iPhone in Settings?](https://www.freewarefiles.com/wp-content/uploads/2024/08/How-To-Check-Search-History-on-iPhone-in-Settings-768x576.jpg)](https://www.freewarefiles.com/apple/how-to-check-search-history-on-iphone-in-settings/)
 
 [Apple](https://www.freewarefiles.com/apple/)
 
@@ -69,7 +75,9 @@ The stored search history on an iPhone can be accessed by visiting advanced sett
 
 [Read More How To Check Search History on iPhone in Settings?Continue](https://www.freewarefiles.com/apple/how-to-check-search-history-on-iphone-in-settings/)
 
-[![Connect Xbox To MacBook](https://www.freewarefiles.com/wp-content/uploads/2024/08/How-To-Connect-Xbox-To-MacBook-768x576.jpg)](https://www.freewarefiles.com/games/how-to-connect-xbox-to-macbook/)
+[![Connect Xbox To MacBook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20576'%3E%3C/svg%3E)
+
+![Connect Xbox To MacBook](https://www.freewarefiles.com/wp-content/uploads/2024/08/How-To-Connect-Xbox-To-MacBook-768x576.jpg)](https://www.freewarefiles.com/games/how-to-connect-xbox-to-macbook/)
 
 [Games](https://www.freewarefiles.com/games/)
 
