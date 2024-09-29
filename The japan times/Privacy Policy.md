@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 29, 2024](https://www.japantimes.co.jp/archive/2024/09/29/ "archive page")
+[September 30, 2024](https://www.japantimes.co.jp/archive/2024/09/30/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
+[Ishiba gets down to the business of forming new administration](https://www.japantimes.co.jp/news/2024/09/28/japan/politics/ldp-ishiba-cabinet-administration/ "Ishiba gets down to the business of forming new administration")
 
-  [![Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424413.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba waves after he was elected as the new head of the ruling Liberal Democratic Party during a leadership vote on Friday.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-election-winner/ "Fifth time's a charm: Shigeru Ishiba set to be Japan PM after LDP poll win")
+  [![Shigeru Ishiba, the newly elected leader of Japan's ruling Liberal Democratic Party holds a news conference after the LDP leadership election in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424530.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shigeru Ishiba, the newly elected leader of Japan's ruling Liberal Democratic Party holds a news conference after the LDP leadership election in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/09/28/japan/politics/ldp-ishiba-cabinet-administration/ "Ishiba gets down to the business of forming new administration")
+
+[Japan and U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
+
+  [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan and U.S. partners hold dueling military drills with China in South China Sea")
+
+[Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
+
+  [![Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424566.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors take photos of Shin Shin at Ueno zoo in Tokyo on Saturday. Saturday was the last chance for Japan's panda-lovers to see Shin Shin and Ri Ri before their return to China. ")](https://www.japantimes.co.jp/news/2024/09/29/japan/ueno-zoo-pandas-china/ "Japan's legions of panda-lovers bid farewell to beloved pair in Tokyo")
 
 [Ishiba wins: An unusual result for an unusual election](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
   [![Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424488.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former Defense Minister Shigeru Ishiba takes a seat in the Liberal Democratic Party president's office in Tokyo after being elected to the post on Friday. ")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/ldp-presidential-election-analysis/ "Ishiba wins: An unusual result for an unusual election")
 
-[Toyota ends sponsorship with 'political' Olympics](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
+[Kei Nishikori advances to quarters at a Japan Open full of upsets](https://www.japantimes.co.jp/sports/2024/09/28/tennis/nishikori-japan-open/ "Kei Nishikori advances to quarters at a Japan Open full of upsets")
 
-  [![Toyota Chairman Akio Toyoda](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424472.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Chairman Akio Toyoda")](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
-
-[Japan, U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
-
-  [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
-
-[Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
-
-  [![New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424437.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.")](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
+  [![Kei Nishikori hits a return against Jordan Thompson during their second-round match at the Japan Open in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424570.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Kei Nishikori hits a return against Jordan Thompson during their second-round match at the Japan Open in Tokyo on Saturday. ")](https://www.japantimes.co.jp/sports/2024/09/28/tennis/nishikori-japan-open/ "Kei Nishikori advances to quarters at a Japan Open full of upsets")
 
 [NHK furthers global reach with Tiny Desk Concerts Japan](https://www.japantimes.co.jp/culture/2024/09/28/music/koshi-inaba-tiny-desk-concerts-japan/ "NHK furthers global reach with Tiny Desk Concerts Japan")
 
@@ -498,6 +498,10 @@ Revised June 1, 2022
 [Deadline approaches for free HPV vaccine 'catch-up' campaign](https://www.japantimes.co.jp/news/2024/09/27/japan/science-health/japan-hpv-vaccine-subsidies/ "Deadline approaches for free HPV vaccine 'catch-up' campaign")
 
   [![A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424262.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A 13-year-old junior high school student receives a vaccine for the human papillomavirus at a hospital in Tokyo in 2022.")](https://www.japantimes.co.jp/news/2024/09/27/japan/science-health/japan-hpv-vaccine-subsidies/ "Deadline approaches for free HPV vaccine 'catch-up' campaign")
+
+[Weather makes for an unpredictable artist at Nagano art festival](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
+
+  [![“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/423917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ")](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
 
 Podcast
 -------
@@ -560,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[As Hezbollah threat loomed, Israel built up its spy agencies](https://www.japantimes.co.jp/news/2024/09/29/world/israel-built-up-spy-agencies/ "As Hezbollah threat loomed, Israel built up its spy agencies")
+
+4 hours ago
+
 [Researchers in Japan look to art to mold the scientific process](https://www.japantimes.co.jp/news/2024/09/29/japan/science-health/sciart-scientific-process/ "Researchers in Japan look to art to mold the scientific process")
 
-59 mins ago
+7 hours ago
 
 [Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
 
-1 hours ago
+7 hours ago
 
 [Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
 
-1 hours ago
+7 hours ago
 
 [SBI to end plant construction tie-up with Taiwan chipmaker](https://www.japantimes.co.jp/business/2024/09/29/tech/sbi-end-plant-construction-tie-up/ "SBI to end plant construction tie-up with Taiwan chipmaker")
 
-1 hours ago
-
-[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
