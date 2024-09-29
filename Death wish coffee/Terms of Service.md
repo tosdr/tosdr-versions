@@ -2,7 +2,7 @@
 
  
 
-[SPEND $75 & BE ONE OF THE FIRST TO TRY LIGHT ROAST FOR FREE](https://www.deathwishcoffee.com/pages/light-roast)
+[SAVE 25% OFF COFFEE W/ CODE COFFEEDAY (EXCL. LIGHT ROAST)](https://www.deathwishcoffee.com/collections/coffee)
 
      
 
