@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Oh No It's Selwyn Froggitt. Selwyn Froggitt (Bill Maynard). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/o/oh_no_its_selwyn_froggitt.jpg "Oh No It's Selwyn Froggitt. Selwyn Froggitt (Bill Maynard). Copyright: Yorkshire Television")](https://www.comedy.co.uk/features/comedy-rewind/selwyn-froggitt/) Features
+
+[Comedy Rewind: Never mind, Selwyn Froggitt.... Never mind!](https://www.comedy.co.uk/features/comedy-rewind/selwyn-froggitt/)
+
 [![Ola Labib](https://cdn.comedy.co.uk/images/library/people/300x200/o/ola_labib_2024.jpg "Ola Labib")](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/) Live
 
 [First Gig, Worst Gig: Ola Labib](https://www.comedy.co.uk/live/fgwg/ola-labib-2024/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Genevieve](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/genevieve_poster.jpg "Genevieve")](https://www.comedy.co.uk/quiz/325/) Quiz
 
 [British Comedy Quiz #325](https://www.comedy.co.uk/quiz/325/)
-
-[![Brassic. Vinnie (Joe Gilgun)](https://cdn.comedy.co.uk/images/library/comedies/300x200/b/brassic_series6_vinnie.jpg "Brassic. Vinnie (Joe Gilgun)")](https://www.comedy.co.uk/tv/brassic/interviews/joseph-gilgun/) TV
-
-[Joseph Gilgun talks about Brassic Series 6](https://www.comedy.co.uk/tv/brassic/interviews/joseph-gilgun/)
 
 #### Subscribe to our newsletters
 
