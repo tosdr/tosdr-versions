@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Mel Kiper ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/mass-media/40-facts-about-mel-kiper/)
+[![40 Facts About Data Collection ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/40-facts-about-data-collection/)
 
-Mass Media
+Tech & Sciences
 
-28 Sep 2024
+29 Sep 2024
 
-[40 Facts About Mel Kiper](https://facts.net/culture-and-the-arts/mass-media/40-facts-about-mel-kiper/)
+[40 Facts About Data Collection](https://facts.net/tech-and-sciences/40-facts-about-data-collection/)
 
-[![50 Facts About Ramsay Hunt Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/50-facts-about-ramsay-hunt-syndrome/)
+[![35 Facts About Colorized 1840s Portraits ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-colorized-1840s-portraits/)
 
-Health
+Historical Events
 
-28 Sep 2024
+29 Sep 2024
 
-[50 Facts About Ramsay Hunt Syndrome](https://facts.net/lifestyle/health/50-facts-about-ramsay-hunt-syndrome/)
+[35 Facts About Colorized 1840s Portraits](https://facts.net/history/historical-events/35-facts-about-colorized-1840s-portraits/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
