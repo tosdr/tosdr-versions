@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/stomdronken-juncker-geeft-eu-visitekaartje-af/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/dr-anthony-fauci-binnenkort-voor-de-rechter/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
