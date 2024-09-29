@@ -981,16 +981,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 
 ### Most read articles
 
-* 1[The UK wants Europe’s carbon](http://en.euractiv.eu/section/energy-environment/news/the-uk-wants-europes-carbon/?utm_source=website&utm_campaign=popular)
-* 2[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
-* 3[EU deforestation law in doubt as Germany pushes for postponement](http://en.euractiv.eu/section/agriculture-food/news/eu-deforestation-law-in-doubt-as-germany-pushes-for-postponement/?utm_source=website&utm_campaign=popular)
-* 4[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
-* 5[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
-* 6[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
-* 7[New international coalition seeks two-state solution in Israel-Palestine conflict](http://en.euractiv.eu/section/global-europe/news/new-international-coalition-seeks-two-state-solution-in-israel-palestine-conflict/?utm_source=website&utm_campaign=popular)
-* 8[Meloni’s Atlantic Council award sparks debate over possible shift to Trump](http://en.euractiv.eu/section/politics/news/melonis-atlantic-council-award-sparks-debate-over-possible-shift-to-trump/?utm_source=website&utm_campaign=popular)
-* 9[The President of Cyprus says he is ready to resume reunification talks 'today'](http://en.euractiv.eu/section/global-europe/news/the-president-of-cyprus-says-he-is-ready-to-resume-reunification-talks-today/?utm_source=website&utm_campaign=popular)
-* 10[China’s newest nuclear-powered submarine sank this year, US reveals](http://en.euractiv.eu/section/defence-and-security/news/chinas-newest-nuclear-powered-submarine-sank-this-year-us-reveals/?utm_source=website&utm_campaign=popular)
+* 1[Albania's EU path decoupled from North Macedonia while Skopje remains in limbo](http://en.euractiv.eu/section/politics/news/albanias-eu-path-decoupled-from-north-macedonia-while-skopje-remains-in-limbo/?utm_source=website&utm_campaign=popular)
+* 2[Paris hints at Migration Pact review and Schengen overhaul](http://en.euractiv.eu/section/migration/news/paris-hints-at-migration-pact-review-and-schengen-overhaul/?utm_source=website&utm_campaign=popular)
+* 3[EU countries support proposal to lower wolves' protection status](http://en.euractiv.eu/section/agriculture-food/news/eu-countries-support-proposal-to-lower-wolves-protection-status/?utm_source=website&utm_campaign=popular)
+* 4[47% drop in heat pump sales: new industry boss says European demand is key](http://en.euractiv.eu/section/energy-environment/interview/47-drop-in-heat-pump-sales-new-industry-boss-says-european-demand-is-key/?utm_source=website&utm_campaign=popular)
+* 5[New international coalition seeks two-state solution in Israel-Palestine conflict](http://en.euractiv.eu/section/global-europe/news/new-international-coalition-seeks-two-state-solution-in-israel-palestine-conflict/?utm_source=website&utm_campaign=popular)
+* 6[China’s newest nuclear-powered submarine sank this year, US reveals](http://en.euractiv.eu/section/defence-and-security/news/chinas-newest-nuclear-powered-submarine-sank-this-year-us-reveals/?utm_source=website&utm_campaign=popular)
+* 7[The President of Cyprus says he is ready to resume reunification talks 'today'](http://en.euractiv.eu/section/global-europe/news/the-president-of-cyprus-says-he-is-ready-to-resume-reunification-talks-today/?utm_source=website&utm_campaign=popular)
+* 8[Silence over Kosovo's stalled Council of Europe bid as France, Italy dig in their heels](http://en.euractiv.eu/section/enlargement-neighbourhood/news/silence-over-kosovos-stalled-council-of-europe-bid-as-france-italy-dig-in-their-heels/?utm_source=website&utm_campaign=popular)
+* 9[Commission collects over 100 AI Pact signatures, but future remains uncertain](http://en.euractiv.eu/section/artificial-intelligence/news/commission-collects-over-100-ai-pact-signatures-but-future-remains-uncertain/?utm_source=website&utm_campaign=popular)
+* 10[Ukraine's victory and peace plans face decisive moment](http://en.euractiv.eu/section/europe-s-east/news/ukraines-victory-and-peace-plans-face-decisive-moment/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
