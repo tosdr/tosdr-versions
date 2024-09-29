@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d5d82c75bd22bd1ed52313c0ce7cab7c
+f112655ba72412d84c0ab14dffeeecdc
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Blue wave clasp](https://www.sojourner.biz/images/cache/SKU0151-1front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
+[![8 mm round aquamarine beads](https://www.sojourner.biz/images/cache/aquamarine/AQM008.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/aquamarine/8-mm-round-aquamarine-beads.html "8 mm round aquamarine beads")
 
-#### [Blue wave clasp](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
+#### [8 mm round aquamarine beads](https://www.sojourner.biz/beads/stone-a-l/aquamarine/8-mm-round-aquamarine-beads.html "8 mm round aquamarine beads")
 
-$23.00
+$35.00
 
 ### Best Sellers
 
