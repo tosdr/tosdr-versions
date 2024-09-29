@@ -259,20 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1615208/in-pictures-gordon-harper-s-90th-birthday-celebrations-in-derry-s-city-hotel.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1615208/in-pictures-gordon-harper-s-90th-birthday-celebrations-in-derry-s-city-hotel.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust")](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -280,33 +266,23 @@ Most Popular
 [Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School")](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
+[![Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'")](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Tony Fitzpatrick was laid to rest today. Photo: O'Donovan Rossa GAC
 
-[PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[DerryNow](https://www.derrynow.com/section/971/derrynow)
 
-[![McDonald pledges to remove means test for carer’s allowance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDonald pledges to remove means test for carer’s allowance")](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
+[Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[![Ballykelly crash victim whose 'life was full right to the end' laid to rest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballykelly crash victim whose 'life was full right to the end' laid to rest")](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
 
-[McDonald pledges to remove means test for carer’s allowance](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Joyce Taggart passed away after her car was involved in a collision with a bus on Thursday.
 
-[![Who is the best rated Derry City player on FC25?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who is the best rated Derry City player on FC25?")](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Who is the best rated Derry City player on FC25?](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![4,000 brown bins to reach rural areas of Derry in coming weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "4,000 brown bins to reach rural areas of Derry in coming weeks")](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[4,000 brown bins to reach rural areas of Derry in coming weeks](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ballykelly crash victim whose 'life was full right to the end' laid to rest](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Kilrea](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kilrea")](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
 
@@ -317,12 +293,44 @@ Kilrea players celebrate their win. Pic by Tom Heaney, nwpresspics
 [Karen Kielt stars as Kilrea defeat Steelstown in Junior final at Owenbeg](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man arrested after car stolen with teenage girl inside](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after car stolen with teenage girl inside")](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man arrested after car stolen with woman inside](https://www.derrynow.com/news/northern-ireland/1617282/man-arrested-after-car-stolen-with-woman-inside.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Who is the best rated Derry City player on FC25?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who is the best rated Derry City player on FC25?")](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Who is the best rated Derry City player on FC25?](https://www.derrynow.com/news/derry-sport/1616661/who-is-the-best-rated-derry-city-player-on-fc25.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says")](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
 [Varadkar would have laughed at ‘inner Shinner’ comment, McDonald says](https://www.derrynow.com/news/national-news/1617205/varadkar-would-have-laughed-at-inner-shinner-comment-mcdonald-says.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
+
+Derry City manager Ruaidhri Higgins watched his team fall to another disappointing result against Drogheda United at Weavers Park.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins - 'The title is there for the taking'](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested in connection with criminal damage incident at ATM in Portstewart](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with criminal damage incident at ATM in Portstewart")](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
+
+The ATM was damaged between Saturday and Sunday.
+
+[Home](https://www.derrynow.com/)
+
+[Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
 
@@ -509,14 +517,46 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon")](https://www.derrynow.com/news/local-news/1617290/derry-ipsc-to-stage-protest-in-city-centre-following-israeli-air-strikes-in-lebanon.html)
+[![Ballykelly crash victim whose 'life was full right to the end' laid to rest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballykelly crash victim whose 'life was full right to the end' laid to rest")](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
+
+Joyce Taggart passed away after her car was involved in a collision with a bus on Thursday.
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Ballykelly crash victim whose 'life was full right to the end' laid to rest](https://www.derrynow.com/news/county-derry-post/1617438/ballykelly-crash-victim-whose-life-was-full-right-to-the-end-laid-to-rest.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry ghost kept alive in a new children's book exploring Ireland's haunting stories")](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry ghost kept alive in a new children's book exploring Ireland's haunting stories](https://www.derrynow.com/news/derry-news/1613735/derry-ghost-kept-alive-in-a-new-children-s-book-exploring-ireland-s-haunting-stories.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](https://www.derrynow.com/resizer/165/93/true/2024_09_29/461283268_1051287816787614_1025787704055664325_n-1727620152168_1727620331.jpg--.jpg?1727620331495 "Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'")](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
+
+Tony Fitzpatrick was laid to rest today. Photo: O'Donovan Rossa GAC
+
+[DerryNow](https://www.derrynow.com/section/971/derrynow)
+
+[Inspirational nine year-old boy who bravely battled cancer 'touched the hearts of everyone that knew him'](https://www.derrynow.com/news/derrynow/1617328/inspirational-nine-year-old-boy-who-bravely-battled-cancer-touched-the-hearts-of-everyone-that-knew-him.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry student leaders encourage further yLink uptake](https://www.derrynow.com/resizer/165/93/true/2024_09_26/image002-1727365913270_1727366081.jpg--.jpg?1727366081985 "Derry student leaders encourage further yLink uptake")](https://www.derrynow.com/news/local-news/1615265/derry-student-leaders-encourage-further-ylink-uptake.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry student leaders encourage further yLink uptake](https://www.derrynow.com/news/local-news/1615265/derry-student-leaders-encourage-further-ylink-uptake.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon](https://www.derrynow.com/resizer/165/93/true/2024_09_29/87c889b3-e07d-447d-b3aa-7f164e9afd25-1727614937172.jpeg--.jpeg?1727614937458 "Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon")](https://www.derrynow.com/news/local-news/1617290/derry-ipsc-to-stage-protest-in-city-centre-following-israeli-air-strikes-in-lebanon.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry IPSC to stage protest in city centre following Israeli air strikes in Lebanon](https://www.derrynow.com/news/local-news/1617290/derry-ipsc-to-stage-protest-in-city-centre-following-israeli-air-strikes-in-lebanon.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested in connection with criminal damage incident at ATM in Portstewart](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with criminal damage incident at ATM in Portstewart")](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
+[![Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_6961960.jpg--.jpg "Man arrested in connection with criminal damage incident at ATM in Portstewart")](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
 
 The ATM was damaged between Saturday and Sunday.
 
@@ -524,40 +564,6 @@ The ATM was damaged between Saturday and Sunday.
 
 [Man arrested in connection with criminal damage incident at ATM in Portstewart](https://www.derrynow.com/news/home/1617285/man-arrested-in-connection-with-criminal-damage-incident-at-atm-in-portstewart.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_29/2948873-1727610987439.jpg--.jpg?1727610988994 "Derry City")](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
-
-Derry City manager Ruaidhri Higgins watched his team fall to another disappointing result against Drogheda United at Weavers Park.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins - 'The title is there for the taking'](https://www.derrynow.com/news/derry-sport/1617260/ruaidhri-higgins-the-title-is-there-for-the-taking.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Kilrea](https://www.derrynow.com/resizer/165/93/true/2024_09_29/GAA_Ladies_Junior_B_final__11-1727610813921.jpg--.jpg?1727610814562 "Kilrea")](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
-
-Kilrea players celebrate their win. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Karen Kielt stars as Kilrea defeat Steelstown in Junior final at Owenbeg](https://www.derrynow.com/news/derry-sport/1617254/karen-kielt-stars-as-kilrea-defeat-steelstown-in-junior-final-at-owenbeg.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/resizer/165/93/true/2024_09_24/Aware_NI_take_the_plunge-1727174265439_1727174283.jpg--.jpg?1727174283897 "Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health")](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
-
-Danny Quigley with his son, Jack, daughter Abigeal and AWARE NI's Margaret McCrossan.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Take the Plunge with AWARE NI’s Sea Splash to Support Mental Health](https://www.derrynow.com/news/local-news/1612774/take-the-plunge-with-aware-nis-sea-splash-to-support-mental-health.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
