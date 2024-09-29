@@ -356,6 +356,22 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/09/Trivia-Challenge-2024-768x432.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
+
+### [It’s time to chat! Join us today for our Annual Trivia Challenge!](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
+
+Serala September 29, 2024
+
+Yes, it’s that time again! Time for our Annual Trivia Challenge! Do you have an abundance of Star Trek lore stored in your databanks? Are
+
+[Read More »](https://www.starbase118.net/2024/its-time-to-chat-join-us-today-for-our-annual-trivia-challenge-3/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/09/Trivia-Challenge-2024-768x432.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
 
 ### [Join us for our Annual Fleetwide Trivia Challenge this coming Sunday, September 29th!](https://www.starbase118.net/2024/join-us-for-our-annual-fleetwide-trivia-challenge-this-coming-sunday-september-29th/)
@@ -377,18 +393,6 @@ Federation News Service September 27, 2024
 DENALI STATION – After a harrowing battle in an alternate reality, the crew of Denali Station successfully return home. The crew of Denali Station faced
 
 [Read More »](https://www.starbase118.net/2024/denali-station-crew-returns-from-alternate-dimension-after-perilous-escape/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/the-next-phase-hd-385-768x578.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
-
-### [Fleetwide Trivia Rules 2041](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
-
-Sal Taybrim September 26, 2024
-
-It is time for our trivia challenge once again and September’s Fleetwide chat on Sunday, September 29, 2024, will feature our annual trivia contest! Here’s a quick
-
-[Read More »](https://www.starbase118.net/2024/fleetwide-trivia-rules-2041/)
 
 Ready to get started?
 ---------------------
