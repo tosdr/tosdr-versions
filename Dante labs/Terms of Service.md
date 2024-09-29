@@ -1,11 +1,10 @@
-          [Skip to content](#main-content)
+         [Skip to content](#main-content)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
 
 * [Dante Genome Test](https://dantelabs.com/products/whole-genome-sequencing "Dante Genome Test")
-* [Become a Member](https://dantelabs.com/pages/become-a-member "Become a Member")
 * [Genomic Reports](https://dantelabs.com/collections/genomic-reports "Genomic Reports")
 * [About us](https://dantelabs.com/pages/about-us-1 "About us")
 * [Register your kit](https://genome.dantelabs.com/login "Register your kit")
@@ -13,7 +12,6 @@
 [![Logo Dante Labs](//www.dantelabs.com/cdn/shop/files/Logo_dante_labs_692f7495-749a-4014-a1d1-4f4ed6be5729.png?v=1717504880)![Logo Dante Labs](//www.dantelabs.com/cdn/shop/files/Logo_dante_labs_692f7495-749a-4014-a1d1-4f4ed6be5729.png?v=1717504880)](https://dantelabs.com/)
 
 * [Dante Genome Test](https://dantelabs.com/products/whole-genome-sequencing)
-* [Become a Member](https://dantelabs.com/pages/become-a-member)
 * [Genomic Reports](https://dantelabs.com/collections/genomic-reports)
 * [About us](https://dantelabs.com/pages/about-us-1)
 * [Register your kit](https://genome.dantelabs.com/login)
