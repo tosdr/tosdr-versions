@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![WATCH: Fort Worth fire truck hit by alleged drunk driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092824-Sh-FTWPD-Major-Crash-FD-Stuck-North-Fwy-REF_00.28.15.08.jpg?ve=1&tl=1)
+ [![Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2175356772.jpg?ve=1&tl=1)
 
- ![WATCH: Fort Worth fire truck hit by alleged drunk driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092824-Sh-FTWPD-Major-Crash-FD-Stuck-North-Fwy-REF_00.28.15.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-fire-truck-drunk-driver)
+ ![Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2175356772.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jack-hoover-throws-356-yards-three-tds-tcu-beats-kansas-38-27-arrowhead-stadium)
 
-### [WATCH: Fort Worth fire truck hit by alleged drunk driver](https://www.fox4news.com/news/fort-worth-fire-truck-drunk-driver)
+### [Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://www.fox4news.com/sports/jack-hoover-throws-356-yards-three-tds-tcu-beats-kansas-38-27-arrowhead-stadium)
 
- [![Ellen DeGeneres shares three recent health diagnoses during special](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/ellen-fnc-getty1.jpg?ve=1&tl=1)
+ [![No. 21 Oklahoma rallies late, stuns Auburn for first-ever Southeastern Conference win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174501200.jpg?ve=1&tl=1)
 
- ![Ellen DeGeneres shares three recent health diagnoses during special](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/ellen-fnc-getty1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellen-degeneres-netflix-special-ocd-adhd-osteoporosis)
+ ![No. 21 Oklahoma rallies late, stuns Auburn for first-ever Southeastern Conference win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174501200.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-21-oklahoma-rallies-late-stuns-auburn-first-ever-southeastern-conference-win)
 
-### [Ellen DeGeneres shares three recent health diagnoses during special](https://www.fox4news.com/news/ellen-degeneres-netflix-special-ocd-adhd-osteoporosis)
+### [No. 21 Oklahoma rallies late, stuns Auburn for first-ever Southeastern Conference win](https://www.fox4news.com/sports/no-21-oklahoma-rallies-late-stuns-auburn-first-ever-southeastern-conference-win)
 
- [![Officers shoot at suspect who rammed police cruisers with stolen vehicle, Irving PD says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092824-IRVING-POLICE-CHASE-SHOOTING-BROLL_KDFW6b18_00.01.25.22.jpg?ve=1&tl=1)
+ [![Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174538459.jpg?ve=1&tl=1)
 
- ![Officers shoot at suspect who rammed police cruisers with stolen vehicle, Irving PD says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092824-IRVING-POLICE-CHASE-SHOOTING-BROLL_KDFW6b18_00.01.25.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-police-shooting-tra-wastewater-plant-stolen-vehicle)
+ ![Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174538459.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/marcel-reed-throws-2-touchdowns-runs-another-no-24-aggies-21-17-win-over-arkansas)
 
-### [Officers shoot at suspect who rammed police cruisers with stolen vehicle, Irving PD says](https://www.fox4news.com/news/irving-police-shooting-tra-wastewater-plant-stolen-vehicle)
+### [Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://www.fox4news.com/sports/marcel-reed-throws-2-touchdowns-runs-another-no-24-aggies-21-17-win-over-arkansas)
 
- [![Next tropical threat brewing in Caribbean with eyes on Gulf as development odds increase](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/8-pm.jpeg?ve=1&tl=1)
+ [![Manning leads No. 1 Texas over Mississippi State as Longhorns earn first SEC victory 35-13](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174526811.jpg?ve=1&tl=1)
 
- ![Next tropical threat brewing in Caribbean with eyes on Gulf as development odds increase](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/592/333/8-pm.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/next-tropical-threat-brewing-caribbean-eyes-gulf-mexico-development-odds-increase)
+ ![Manning leads No. 1 Texas over Mississippi State as Longhorns earn first SEC victory 35-13](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174526811.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/manning-leads-no-1-texas-over-mississippi-state-longhorns-earn-first-sec-victory-35-13)
 
-### [Next tropical threat brewing in Caribbean with eyes on Gulf as development odds increase](https://www.fox4news.com/news/next-tropical-threat-brewing-caribbean-eyes-gulf-mexico-development-odds-increase)
+### [Manning leads No. 1 Texas over Mississippi State as Longhorns earn first SEC victory 35-13](https://www.fox4news.com/sports/manning-leads-no-1-texas-over-mississippi-state-longhorns-earn-first-sec-victory-35-13)
 
- [![Texas DPS trooper killed after being hit by vehicle in Ector County](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/Kevin-Ramirez-Vasquez.jpg?ve=1&tl=1)
+ [![Jacob deGrom pitches 4 solid innings and the Texas Rangers hit 4 homers in a 5-2 win over the Angels](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174266089.jpg?ve=1&tl=1)
 
- ![Texas DPS trooper killed after being hit by vehicle in Ector County](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/Kevin-Ramirez-Vasquez.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dps-trooper-kevin-ramirez-vasquez-dead-ector-county-crash)
+ ![Jacob deGrom pitches 4 solid innings and the Texas Rangers hit 4 homers in a 5-2 win over the Angels](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174266089.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jacob-degrom-pitches-4-solid-innings-texas-rangers-hit-4-homers-5-2-win-over-angels)
 
-### [Texas DPS trooper killed after being hit by vehicle in Ector County](https://www.fox4news.com/news/dps-trooper-kevin-ramirez-vasquez-dead-ector-county-crash)
+### [Jacob deGrom pitches 4 solid innings and the Texas Rangers hit 4 homers in a 5-2 win over the Angels](https://www.fox4news.com/sports/jacob-degrom-pitches-4-solid-innings-texas-rangers-hit-4-homers-5-2-win-over-angels)
 
 ###### [News](https://www.fox4news.com/news)
 
