@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezi/erotic-drawings/erotski3.jpg?itok=TEuvtp6x)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-erotski-crtezierotic-drawings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/razno/witgenstein.jpg?itok=rIUBFK5c)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/razno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/romeo-i-julija-11.jpg?itok=ju6rf5Y-)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kraftwerkg.jpg?itok=N7X3ViA_)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Remont se povlači posle 25 godina istrajnog rada](http://seecult.org/vest/remont-se-povlaci-posle-25-godina-istrajnog-rada)
 * [Joakimu Tasiću nagrada Miloš Žutić za 2023.](http://seecult.org/vest/joakimu-tasicu-nagrada-milos-zutic-za-2023)
 * [Borba za reproduktivna prava u Jugoslaviji i današnji kontekst](http://seecult.org/vest/borba-za-reproduktivna-prava-u-jugoslaviji-i-danasnji-kontekst)
 * [Svet u boji](http://seecult.org/vest/svet-u-boji)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Počeo 11. Belgrade SAXperience](http://seecult.org/vest/poceo-11-belgrade-saxperience)
 * [Kanski pobednik otvara 20. Slobodnu zonu](http://seecult.org/vest/kanski-pobednik-otvara-20-slobodnu-zonu)
 * [Perišić prvi laureat Otiska Gorana Paskaljevića](http://seecult.org/vest/perisic-prvi-laureat-otiska-gorana-paskaljevica)
-* [Medenica: Hrabro otvaranje 58. Bitefa](http://seecult.org/vest/medenica-hrabro-otvaranje-58-bitefa)
 
 * [Konkursi](#tab1_1)
 
