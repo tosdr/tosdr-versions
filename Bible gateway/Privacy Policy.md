@@ -43,7 +43,7 @@ account
 
 close
 
-[Answer your questions on the Book, Chapter and Verse you are reading. Upgrade to BibleGateway+ for as low as $4.17/mo.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_tiedtobcv092324_aslowas417)
+[Find answers to your Bible questions with Bible Gateway Plus. Try it free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_answerquestions0516)
 
 close
 
