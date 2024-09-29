@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZvkE5AoAAVEAAABce80)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZvlZGgoAAVEAAABcGG8)
 
 Es noticia
 
@@ -72,6 +72,7 @@ Secciones
     * [Dinero e inversión](https://www.elmundo.es/economia/dinero-inversion.html)
     * [Ahorro](https://www.elmundo.es/economia/ahorro-y-consumo.html)
     * [Macroeconomía](https://www.elmundo.es/economia/macroeconomia.html)
+    * [Mejores empresas](https://www.elmundo.es/economia/mejores-empresas/ranking.html)
     * [Vivienda](https://www.elmundo.es/economia/vivienda.html)
     * [Empresas](https://www.elmundo.es/economia/empresas.html)
     * [Algoritmo](https://www.elmundo.es/economia/algoritmo.html)
@@ -217,6 +218,7 @@ Servicios
 
 Rankings
 
+* [Mejores empresas](https://www.elmundo.es/economia/mejores-empresas/ranking.html)
 * [Mejores colegios](https://www.elmundo.es/mejores-colegios.html)
 * [Mejores universidades](https://www.elmundo.es/especiales/ranking-universidades/index.html)
 * [Mejores Masters](https://www.elmundo.es/especiales/mejores-masters/index.html)
