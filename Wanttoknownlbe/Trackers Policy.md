@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/irak-daagt-vs-en-uk-voor-de-rechter-inzake-du-munitie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/adams-calendar-de-annunaki-revisited/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
