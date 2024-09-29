@@ -1,4 +1,4 @@
-be\_ixf;ym\_202409 d\_28; ct\_100
+be\_ixf;ym\_202409 d\_29; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
