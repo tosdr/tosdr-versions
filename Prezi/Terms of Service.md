@@ -299,6 +299,10 @@ Languages
 
 Blog
 
+Sept. 28, 2024
+
+[A complete guide to demonstration speech ideas](https://blog.prezi.com/demonstration-speech-ideas/)
+
 Sept. 27, 2024
 
 [Leadership topics for presentation](https://blog.prezi.com/leadership-topics-for-presentation/)
@@ -306,10 +310,6 @@ Sept. 27, 2024
 Sept. 27, 2024
 
 [Diversity topics for presentations](https://blog.prezi.com/diversity-topics-for-presentation/)
-
-Sept. 26, 2024
-
-[Visual presentation: tips, techniques, and tools for success](https://blog.prezi.com/visual-presentation/)
 
 [Latest posts](https://blog.prezi.com/)
 
