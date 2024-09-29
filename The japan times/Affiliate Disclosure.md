@@ -142,13 +142,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Toyota Chairman Akio Toyoda](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424472.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Chairman Akio Toyoda")](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
 
+[Japan, U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
+
+  [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
+
 [Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
 
   [![New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424437.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.")](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
-
-[Japan fine-tunes issuance of humanitarian visas](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
-
-  [![Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424405.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
 
 Editors' Picks
 --------------
@@ -175,6 +175,14 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 
   [![Toyota Chairman Akio Toyoda](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424472.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Chairman Akio Toyoda")](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
 
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[Japan, U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
+
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
 [Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
@@ -182,14 +190,6 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
 
   [![New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424437.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.")](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan fine-tunes issuance of humanitarian visas](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424405.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
 
 Podcast
 -------
@@ -210,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,17 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64](https://www.japantimes.co.jp/news/2024/09/28/world/hassan-nasrallah-dead/ "Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64")
+[Nasrallah's killing reveals depth of Israel's penetration of Hezbollah](https://www.japantimes.co.jp/news/2024/09/29/world/israel-hezbollah-penetration-focus/ "Nasrallah's killing reveals depth of Israel's penetration of Hezbollah")
 
-9 hours ago
+2 hours ago
 
-[Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut](https://www.japantimes.co.jp/news/2024/09/28/world/israel-says-hassan-nasrallah-dead/ "Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut")
+[Netanyahu ratchets up challenge to Iran with Nasrallah killing](https://www.japantimes.co.jp/news/2024/09/29/world/israel-netanyahu-nasrallah-iran/ "Netanyahu ratchets up challenge to Iran with Nasrallah killing")
 
-[Many still in evacuation shelters after heavy rain in Ishikawa](https://www.japantimes.co.jp/news/2024/09/28/japan/ishikawa-evacuation-rain/ "Many still in evacuation shelters after heavy rain in Ishikawa")
+2 hours ago
 
-[Kobayashi Pharma sued in Taiwan over beni kōji products](https://www.japantimes.co.jp/business/2024/09/28/kobayashi-pharma-sued-taiwan/ "Kobayashi Pharma sued in Taiwan over beni kōji products")
+[Hezbollah leader's death is 'measure of justice' for his victims, Biden says](https://www.japantimes.co.jp/news/2024/09/29/world/politics/hezbollah-nasrallah-killing-biden/ "Hezbollah leader's death is 'measure of justice' for his victims, Biden says")
 
-[After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/politics/blinken-wang-china-ukraine/ "After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'")
+2 hours ago
+
+[U.S. southeast faces daunting cleanup from Helene as death toll rises](https://www.japantimes.co.jp/news/2024/09/29/world/storm-helene-us-southeast/ "U.S. southeast faces daunting cleanup from Helene as death toll rises")
+
+3 hours ago
+
+[China's 'red collectors' cherish bygone Maoist era](https://www.japantimes.co.jp/news/2024/09/29/asia-pacific/china-red-collectors/ "China's 'red collectors' cherish bygone Maoist era")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
