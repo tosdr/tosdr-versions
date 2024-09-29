@@ -357,13 +357,13 @@ article 4 days ago](https://science.nasa.gov/eyes/museums/)
 
 ### Backyard Worlds: Cool Neighbors
 
-article 12 hours ago](https://science.nasa.gov/citizen-science/backyard-worlds-cool-neighbors/)[![Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change](https://science.nasa.gov/wp-content/uploads/2024/05/d9808619-a4ef-4a3e-95ea-cae730a8d250.jpg)
+article 13 hours ago](https://science.nasa.gov/citizen-science/backyard-worlds-cool-neighbors/)[![Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change](https://science.nasa.gov/wp-content/uploads/2024/05/d9808619-a4ef-4a3e-95ea-cae730a8d250.jpg)
 
 2 min read
 
 ### Amendment 56: A.24 Weather and Atmospheric Dynamics NURTURE Campaign Schedule Change
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-56-a-24-weather-and-atmospheric-dynamics-nurture-campaign-schedule-change/)[![Amendment 55: F.20 MOSAICS Seed Funding Winter 2025 review Cut-Off Date Extended.](https://science.nasa.gov/wp-content/uploads/2022/05/pia00104-venus-computer-simulated-global-view.jpg)
 
 1 min read
 
@@ -413,7 +413,7 @@ article 4 days ago](https://www.nasa.gov/directorates/somd/space-communications-
 
 ### Amendment 52: B.9 Low-Cost Access to Space 2028 Peruvian campaign Update
 
-article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)
+article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-52-b-9-low-cost-access-to-space-2028-peruvian-campaign-update/)
 
 ### Featured
 
@@ -457,7 +457,7 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/ames/getting-ssp
 
 ### NASA Relaunches Art Program with Space-Themed Murals
 
-article 4 days ago](https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/)
+article 5 days ago](https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/)
 
 ### Highlights
 
