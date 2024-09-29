@@ -62,7 +62,7 @@
     * [Upcoming Events](https://www.heanet.ie/workshops/)
     * [Conference Archive](https://www.heanet.ie/conferences)
 * [Find Us](https://www.heanet.ie/who-we-are/contact-heanet)
-* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=e3c25f1d1b)
+* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=8a0b48b4a8)
 
 [](#)
 
