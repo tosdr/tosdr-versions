@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100229/ban-vs-ind-2nd-test-bangladesh-tour-of-india-2024 "Bangladesh v India, 2nd Test - Stumps")[GAW vs SLK - GAW Won](https://www.cricbuzz.com/live-cricket-scores/92932/gaw-vs-slk-29th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, 29th Match - GAW Won")[SL vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd Test - Stumps")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76577/eng-vs-aus-5th-odi-australia-tour-of-england-2024 "England v Australia, 5th ODI - Preview")[IRE vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/93650/ire-vs-rsa-2nd-t20i-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 2nd T20I - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs IND - Break](https://www.cricbuzz.com/live-cricket-scores/100229/ban-vs-ind-2nd-test-bangladesh-tour-of-india-2024 "Bangladesh v India, 2nd Test - Break")[SL vs NZ - Live](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd Test - Live")[GAW vs SLK - GAW Won](https://www.cricbuzz.com/live-cricket-scores/92932/gaw-vs-slk-29th-match-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, 29th Match - GAW Won")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76577/eng-vs-aus-5th-odi-australia-tour-of-england-2024 "England v Australia, 5th ODI - Preview")[IRE vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/93650/ire-vs-rsa-2nd-t20i-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 2nd T20I - Preview")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Bangladesh v India 2024
     
-    [Bangladesh vs India](https://www.cricbuzz.com/live-cricket-scores/100229/ban-vs-ind-2nd-test-bangladesh-v-india-2024 "Bangladesh v India, 2nd Test - Stumps")
+    [Bangladesh vs India](https://www.cricbuzz.com/live-cricket-scores/100229/ban-vs-ind-2nd-test-bangladesh-v-india-2024 "Bangladesh v India, 2nd Test - Break")
     
     2nd Test
     
@@ -72,7 +72,7 @@ AllLive NowToday
     
 * NZ tour of SL
     
-    [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-nz-tour-of-sl "Sri Lanka v New Zealand, 2nd Test - Stumps")
+    [Sri Lanka vs New Zealand  LIVE](https://www.cricbuzz.com/live-cricket-scores/105964/sl-vs-nz-2nd-test-nz-tour-of-sl "Sri Lanka v New Zealand, 2nd Test - Live")
     
     2nd Test
     
@@ -107,6 +107,10 @@ AllLive NowToday
 * [Indonesia vs Japan](https://www.cricbuzz.com/live-cricket-scores/102774/idn-vs-jpn-5th-match-icc-mens-east-asia-pacific-t20wcqb "Indonesia v Japan, 5th Match - Upcoming")
     
     5th Match
+    
+* [South Korea vs Philippines](https://www.cricbuzz.com/live-cricket-scores/102783/skr-vs-phi-6th-match-icc-mens-east-asia-pacific-t20wcqb "South Korea v Philippines, 6th Match - Upcoming")
+    
+    6th Match
     
 * Canada Tri-Series 2024
     
@@ -144,7 +148,7 @@ AllLive NowToday
     
     29th Match
     
-* [Guyana Amazon Warriors vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92941/gaw-vs-tkr-30th-match-cpl-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 30th Match - Upcoming")
+* [Guyana Amazon Warriors vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92941/gaw-vs-tkr-30th-match-cpl-2024 "Guyana Amazon Warriors v Trinbago Knight Riders, 30th Match - Preview")
     
     30th Match
     
@@ -194,13 +198,13 @@ AllLive NowToday
     
 * CSA T20 Knock Out Competition
     
-    [Tuskers vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105186/tusks-vs-ecape-8th-match-csa-t20-knock-out-competition "Tuskers v Eastern Cape, 8th Match - TUSKS Won")
-    
-    8th Match
-    
-* [South Western Districts vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/105178/swd-vs-limpo-7th-match-csa-t20-knock-out-competition "South Western Districts v Limpopo, 7th Match - LIMPO Won")
+    [South Western Districts vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/105178/swd-vs-limpo-7th-match-csa-t20-knock-out-competition "South Western Districts v Limpopo, 7th Match - LIMPO Won")
     
     7th Match
+    
+* [Tuskers vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105186/tusks-vs-ecape-8th-match-csa-t20-knock-out-competition "Tuskers v Eastern Cape, 8th Match - TUSKS Won")
+    
+    8th Match
     
 * [Eastern Storm vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105188/estorm-vs-mpr-9th-match-csa-t20-knock-out-competition "Eastern Storm v Mpumalanga Rhinos, 9th Match - Upcoming")
     
@@ -248,6 +252,12 @@ AllLive NowToday
     
     66th Match
     
+* Irani Cup 2024
+    
+    [Mumbai vs Rest of India](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Upcoming")
+    
+    Irani Cup
+    
 * Australia Domestic One-Day Cup 2024-25
     
     [Victoria vs Queensland](https://www.cricbuzz.com/live-cricket-scores/103143/vic-vs-ql-6th-match-australia-domestic-one-day-cup-2024-25 "Victoria v Queensland, 6th Match - VIC Won")
@@ -292,9 +302,23 @@ AllLive NowToday
     
     7th Match
     
+* [Qatar vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108153/qat-vs-png-9th-match-icc-cwc-challenge-league-a-2024-26 "Qatar v Papua New Guinea, 9th Match - Upcoming")
+    
+    9th Match
+    
+* [Jersey vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/108113/jer-vs-kuw-8th-match-icc-cwc-challenge-league-a-2024-26 "Jersey v Kuwait, 8th Match - Upcoming")
+    
+    8th Match
+    
 * WOMEN
     
-    ICC Womens T20 World Cup Warm-up Matches
+    Japan Women v Singapore Women
+    
+    [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107737/jpnw-vs-sinw-1st-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 1st T20I - Upcoming")
+    
+    1st T20I
+    
+* ICC Womens T20 World Cup Warm-up Matches
     
     [Sri Lanka Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/106107/slw-vs-banw-2nd-match-icc-womens-t20-world-cup-warm-up-matches "Sri Lanka Women v Bangladesh Women, 2nd Match - SLW Won")
     
@@ -364,15 +388,15 @@ AllLive NowToday
     
     5th Match
     
-* [Argentina Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/107819/argw-vs-mexw-6th-match-south-american-womens-championships "Argentina Women v Mexico Women, 6th Match - Preview")
+* [Argentina Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/107819/argw-vs-mexw-6th-match-south-american-womens-championships "Argentina Women v Mexico Women, 6th Match - Toss")
     
     6th Match
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/107825/tbc-vs-tbc-3rd-place-play-off-south-american-womens-championships "TBC v TBC, 3rd place play-off - Upcoming")
+* [Cayman Islands Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/107825/caymw-vs-mexw-3rd-place-play-off-south-american-womens-championships "Cayman Islands Women v Mexico Women, 3rd place play-off - Preview")
     
     3rd place play-off
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/107827/tbc-vs-tbc-final-south-american-womens-championships "TBC v TBC, Final - Upcoming")
+* [Brazil Women vs Argentina Women](https://www.cricbuzz.com/live-cricket-scores/107827/braw-vs-argw-final-south-american-womens-championships "Brazil Women v Argentina Women, Final - Preview")
     
     Final
     
@@ -683,41 +707,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131788/nzs-lower-order-delay-sri-lankas-victory-march "NZ's lower order delay Sri Lanka's victory march ")
+
+[NZ's lower order delay Sri Lanka's victory march](https://www.cricbuzz.com/cricket-news/131788/nzs-lower-order-delay-sri-lankas-victory-march "NZ's lower order delay Sri Lanka's victory march ")
+
+30m ago
+
   [](https://www.cricbuzz.com/cricket-news/131787/ipl-auction-explainer-whats-new-in-rtm-retention-slabs-and-cap-on-foreign-player-fees "IPL Auction Explainer: RTM with a twist, retention slabs and cap on foreign player fees")
 
 [IPL Auction Explainer: RTM with a twist, retention slabs and cap on foreign player fees](https://www.cricbuzz.com/cricket-news/131787/ipl-auction-explainer-whats-new-in-rtm-retention-slabs-and-cap-on-foreign-player-fees "IPL Auction Explainer: RTM with a twist, retention slabs and cap on foreign player fees")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131786/hope-hetmyer-put-guyana-on-course-for-top-spot "Hope, Hetmyer put Guyana on course for top spot")
 
 [Hope, Hetmyer put Guyana on course for top spot](https://www.cricbuzz.com/cricket-news/131786/hope-hetmyer-put-guyana-on-course-for-top-spot "Hope, Hetmyer put Guyana on course for top spot")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/131784/mayank-yadav-included-in-india-t20i-squad-for-bangladesh-series "Mayank Yadav, Nitish Reddy picked for Bangladesh T20Is")
 
 [Mayank Yadav, Nitish Reddy picked for Bangladesh T20Is](https://www.cricbuzz.com/cricket-news/131784/mayank-yadav-included-in-india-t20i-squad-for-bangladesh-series "Mayank Yadav, Nitish Reddy picked for Bangladesh T20Is")
 
-9h ago
+15h ago
 
   [](https://www.cricbuzz.com/cricket-news/131783/ipl-auction-teams-can-retain-up-to-six-players-via-direct-retention-or-rtm "IPL Auction: Teams Can retain up to six players via direct retention or RTM")
 
 [IPL Auction: Teams Can retain up to six players via direct retention or RTM](https://www.cricbuzz.com/cricket-news/131783/ipl-auction-teams-can-retain-up-to-six-players-via-direct-retention-or-rtm "IPL Auction: Teams Can retain up to six players via direct retention or RTM")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/131782/india-t20i-series-to-be-potential-ipl-dress-rehearsal-for-rishad "India T20I series to be potential IPL dress rehearsal for Rishad")
 
 [India T20I series to be potential IPL dress rehearsal for Rishad](https://www.cricbuzz.com/cricket-news/131782/india-t20i-series-to-be-potential-ipl-dress-rehearsal-for-rishad "India T20I series to be potential IPL dress rehearsal for Rishad")
 
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131781/unsure-how-the-pitch-will-behave-on-days-three-and-four-najmul-hossain "Unsure how the pitch will behave on days three and four - Najmul Hossain")
-
-[Unsure how the pitch will behave on days three and four - Najmul Hossain](https://www.cricbuzz.com/cricket-news/131781/unsure-how-the-pitch-will-behave-on-days-three-and-four-najmul-hossain "Unsure how the pitch will behave on days three and four - Najmul Hossain")
-
-12h ago
+18h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
