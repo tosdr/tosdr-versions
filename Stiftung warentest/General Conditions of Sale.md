@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
 
 Service Stiftung Warentest
 
