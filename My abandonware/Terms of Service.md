@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Ace](https://www.myabandonware.com/game/ace-sjx)
-* [Battle Arena Toshinden 2](https://www.myabandonware.com/game/battle-arena-toshinden-2-sjw)
-* [Amazing Maze](https://www.myabandonware.com/game/amazing-maze-sjv)
-* [005](https://www.myabandonware.com/game/005-sju)
-* [Altair](https://www.myabandonware.com/game/altair-sjt)
+* [Defender](https://www.myabandonware.com/game/defender-2jo)
+* [Atari Baseball](https://www.myabandonware.com/game/atari-baseball-sk5)
+* [Astro Wars](https://www.myabandonware.com/game/astro-wars-sk4)
+* [Astro Fighter](https://www.myabandonware.com/game/astro-fighter-sk3)
+* [Astro Blaster](https://www.myabandonware.com/game/astro-blaster-sk2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
