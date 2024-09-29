@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=53248488)  
-Enhle Oarabile Kea
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=177864056)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=165387296)  
-PROGRAPHIX PTY LTD
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=210627245)  
+Wiselink Broadband Pty Ltd
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=16803907)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=213720834)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=105908037)  
-Karino Merinos ( PTY ) LTD
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=22851596)  
+Fox Alarms & Security
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=209470604)  
-WIP Digital Solutions
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=34365060)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=178361835)  
-Cape Adventure Zone
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=32201000)  
+Leef in Afrikaans
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=165279561)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=43807537)  
+Mtunzini Group
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=114979645)  
-INVOICES/JOBCARDS ONLINE
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=169327554)  
+Henry's Home Renovations
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=38239656)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=41301127)  
+Salvage Genie
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=101184708)  
-Waterfinatics Swim School
-
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=106835223)  
-Nogana Events and Decor
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=180015386)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=14789619)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=120194936)  
-Blue Sky Solar Services
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=1c1c48c63ff9403b50c7acbac898b843db60d9bdcd476e859357ae4e6c9aa3b4&c=157126584)  
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=194994269)  
 BD Maintenance
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=202109962)  
+Lion Software Develepment
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=47571932)  
+Vplay Letsheng Mall
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=138089848)  
+van Schaik rentals
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=164784034)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=62308607)  
+Firstweb Hosting & Design
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
