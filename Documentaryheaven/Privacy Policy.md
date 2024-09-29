@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Woodstock](/wp-content/thumbnails/1731-100x70.jpg?x53432)
+* [![Merchants of Cool](/wp-content/thumbnails/1990-100x70.jpg?x53432)
     
-    Woodstock
+    Merchants of Cool
     
-    The Woodstock Music and Art Fair was a historic event held at Max Yasgur's 600 acre (2.4 km²; 240 ha) dairy farm in the rural town of Bethel, New York from August 15 to August 18, 1969. Bethel (Sulliv](https://documentaryheaven.com/woodstock/ "Woodstock")
-* [![Isaac Newton: The Last Magician](/wp-content/thumbnails/7604-100x70.jpg?x53432)
+    They spend their days sifting through reams of market research data. They conduct endless surveys and focus groups. They comb the streets, the schools, and the malls, hot on the trail of the “next big](https://documentaryheaven.com/merchants-of-cool/ "Merchants of Cool")
+* [![Nixon in the Den](/wp-content/thumbnails/12642-100x70.jpg?x53432)
     
-    Isaac Newton: The Last Magician
+    Nixon in the Den
     
-    This 60-minute biography, part of the BBC’s Genius Of Invention season, reveals a much more complex figure by interviewing experts and delving into his own writings and those of his contemporaries. Ne](https://documentaryheaven.com/isaac-newton-last-magician/ "Isaac Newton: The Last Magician")
-* [![Amish: A Secret Life](/wp-content/thumbnails/8052-100x70.jpg?x53432)
+    He was one of America's most successful presidents on the international stage, lauded as a world statesman who thawed the cold war. He was reelected in one of the biggest landslide victories](https://documentaryheaven.com/nixon-in-den/ "Nixon in the Den")
+* [![Unearthed: The Fracking Facade](/wp-content/thumbnails/6973-100x70.jpg?x53432)
     
-    Amish: A Secret Life
+    Unearthed: The Fracking Facade
     
-    An intimate portrait of Amish family life and faith, this film opens up a world usually kept private. Miriam and David are Old Order Amish and photography is not permitted under the strict rules of th](https://documentaryheaven.com/amish-secret-life/ "Amish: A Secret Life")
-* [![Beer Wars](/wp-content/thumbnails/2016-100x70.jpg?x53432)
+    A video exposing a flawed claim often abused in the sales pitch for promoting shale gas development across the world:“With a history of 60 years, after nearly a million wells drilled, there are no](https://documentaryheaven.com/unearthed-the-fracking-facade/ "Unearthed: The Fracking Facade")
+* [![Ghosts of Abu Ghraib](/wp-content/thumbnails/1392-100x70.jpg?x53432)
     
-    Beer Wars
+    Ghosts of Abu Ghraib
     
-    Beer lovers eager to learn the facts about their favorite brew are invited to follow filmmaker Anat Baron as she takes an insider's look at America's highly competitive hops industry. The story gets u](https://documentaryheaven.com/beer-wars/ "Beer Wars")
-* [![Amazon Rising](/wp-content/thumbnails/13547-100x70.jpg?x53432)
+    What was perhaps the most disgraceful episode in U.S. military history is examined in director Rory Kennedy's Ghosts of Abu Ghraib. By now there can't be many folks who aren't at least somewhat famili](https://documentaryheaven.com/ghosts-of-abu-ghraib/ "Ghosts of Abu Ghraib")
+* [![The Manson Women](/wp-content/thumbnails/507-100x70.png?x53432)
     
-    Amazon Rising
+    The Manson Women
     
-    Amazon Rising is and hour long special by CNBC and hosted by David Faber, examining the worlds largest e-tailer the show doesn't necessarily uncover any big secrets lurking behind the company but](https://documentaryheaven.com/amazon-rising/ "Amazon Rising")
+    Barely out of their teens, Susan Atkins, Leslie Van Houten and Patricia Krenwinkel, laughed their way through their trial for multiple murder. Did cult tactics make them kill?Some thirty years on, C](https://documentaryheaven.com/the-manson-women/ "The Manson Women")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
