@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5753 reviews (5754)
+5753 reviews (5753)
 
 $16.00 $29.00
 
@@ -158,7 +158,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-2020 reviews (2020)
+2021 reviews (2021)
 
 $27.00 $27.00
 
