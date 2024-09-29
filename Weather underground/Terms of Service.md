@@ -20,12 +20,12 @@ Current Weather for Popular
 Cities
 ------------------------------------
 
-* [San Francisco, CA 62 °FPartly Cloudy](https://www.wunderground.com/weather/us/ca/san-francisco/37.79,-122.41)
-* [Manhattan, NY 63 °FRain Shower](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
+* [San Francisco, CA 57 °FMostly Cloudy](https://www.wunderground.com/weather/us/ca/san-francisco/37.78,-122.42)
+* [Manhattan, NY 61 °FCloudy](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
 * [Schiller Park, IL (60176) _warning_70 °FCloudy](https://www.wunderground.com/weather/us/il/schiller-park/41.95,-87.86)
-* [Boston, MA 63 °FPartly Cloudy](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
-* [Houston, TX _warning_92 °FSunny](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
-* [St James's, England, United Kingdom 45 °FFair](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
+* [Boston, MA 61 °FCloudy](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
+* [Houston, TX _warning_79 °FClear](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
+* [St James's, England, United Kingdom 44 °FCloudy](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
 
 Search_close__gps\_fixed_
 
