@@ -40,6 +40,7 @@
     * [Rug Patching](https://carpetcleaningnyc.com/service/rug-care/rug-patching-NYC)
     * [Rug Refringing](https://carpetcleaningnyc.com/service/rug-care/rug-re-fringing-NYC)
     * [Area Rug Cleaning](https://carpetcleaningnyc.com/area-rug-cleaning/)
+    * [Cowskin Area Rug Cleaning](https://carpetcleaningnyc.com/cowskin-area-rug-cleaning-services-in-nyc/)
     * [Rug Cleaning Process](https://carpetcleaningnyc.com/area-rug-cleaning-process-nyc)
 * [Before&After](https://carpetcleaningnyc.com/beforeafter/)
 * [Sterilizing and Disinfecting](https://carpetcleaningnyc.com/home-and-office-sterilizing-and-disinfecting-steam-services/)
