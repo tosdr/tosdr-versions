@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Reading Time: The Master of Makeup](https://www.somethingawful.com/news/readingtime-dick-tracy/1/)
-* [Reader Mail](https://www.somethingawful.com/your-band-sucks/reader-mail/)
-* [Dear Scrawny Fools](https://www.somethingawful.com/news/golan-insatiable-letter/1/)
-* [AwfulVision: Videos that don't totally suck!](https://www.somethingawful.com/awfulvision/lasagna-cry-george/1/)
-* [Happy Easter](https://www.somethingawful.com/daily-dirt/dirt3-23-08/)
+* [Mixed-up Power Sources](https://www.somethingawful.com/photoshop-phriday/mixed-power-supplies/1/)
+* [One Letter Off (Part 2)](https://www.somethingawful.com/photoshop-phriday/one-letter-off2/1/)
+* [Mixed-Up Movie Captions 2012!](https://www.somethingawful.com/photoshop-phriday/mixedup-captions-2012/1/)
+* [Seraded](https://www.somethingawful.com/awful-links/awful-link-1485/)
+* [Animal Anomalies 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-part-2/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-butt.gif) [Leaving the toilet seat up](http://forums.somethingawful.com/showthread.php?threadid=4071385 "Leaving the toilet seat up")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Robot revolusions pros and cons](http://forums.somethingawful.com/showthread.php?threadid=4071386 "Robot revolusions pros and cons")
 * ![](https://forumimages.somethingawful.com/forums/posticons/icon-30-attnmod.gif) [Nuevo Harry the House Plant (help raise him)](http://forums.somethingawful.com/showthread.php?threadid=4071374 "Nuevo Harry the House Plant (help raise him)")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-butt.gif) [Leaving the toilet seat up](http://forums.somethingawful.com/showthread.php?threadid=4071385 "Leaving the toilet seat up")
 
 ### Random Articles
 
-* [Cheerleader Autopsy](https://www.somethingawful.com/movie-reviews/cheerleader-autopsy/1/)
-* [Welcome to the Cesspit of Crap!](https://www.somethingawful.com/daily-dirt/welcome-cesspit-crap/)
-* [NaNoWriMo Writing Tips!](https://www.somethingawful.com/news/nanowrimo-tips/1/)
-* [I Hate You Page 38](https://www.somethingawful.com/cliff-yablonski/i-hate-you-38/)
-* [Dark and Light](https://www.somethingawful.com/mmo-roulette/darkandlight/1/)
+* [Dillons Russian Steam Bath (thanks YourEvilTw1n!)](https://www.somethingawful.com/awful-links/alod_dillon_baths/)
+* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
+* [I Hate You Page 52](https://www.somethingawful.com/cliff-yablonski/i-hate-you-52/)
+* [John Titor - Time Traveler](https://www.somethingawful.com/awful-links/awful-link-1659/)
+* [Games with Honest Names! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/games-honest-names2/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
