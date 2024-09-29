@@ -1,3 +1,7 @@
+[Canadian Tire: Save up to 35% this week and get ready for fall! + 4% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/canadian-tire?store=canadian-tire&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -776,7 +780,11 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores_.png)](https://www.rakuten.ca/new-stores)
+[![Earn Up to 5% Cash Back from Rakuten.ca with Dell Technologies Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/298276/en-stickyfooter-1170x60_dell.png "Dell Technologies Coupons, Promo Codes")
+
+up to 5% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dell-consumer?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
