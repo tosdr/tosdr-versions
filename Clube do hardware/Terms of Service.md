@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_956198167_menu)
+ [Compartilhar](#elShareItem_1238147766_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_2043202712_menu)
+ [Compartilhar](#elShareItem_125464296_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![32bacalhau](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/channels4_profile.thumb.jpg.10bbd9c6a65a6467ac803c2cffd3b23c.jpg)](https://www.clubedohardware.com.br/profile/1193547-32bacalhau/ "Ir ao perfil de 32bacalhau")
+    * [![Maymm](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4c262%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253782-maymm/ "Ir ao perfil de Maymm")
         
         0
         
-        [meu pc congela quando jogo](https://www.clubedohardware.com.br/forums/topic/1698471-meu-pc-congela-quando-jogo/?do=getNewComment "meu pc congela quando jogo")
+        [Dá para ligar "modo avião" no Macbook Air M2?](https://www.clubedohardware.com.br/forums/topic/1698504-d%C3%A1-para-ligar-modo-avi%C3%A3o-no-macbook-air-m2/?do=getNewComment "Dá para ligar "modo avião" no Macbook Air M2?")
         
-        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
-        Por [32bacalhau](https://www.clubedohardware.com.br/profile/1193547-32bacalhau/ "Ir ao perfil de 32bacalhau")  
-        6 minutos atrás
+        [Mac, iMac e MacBook](https://www.clubedohardware.com.br/forums/forum/14-mac-imac-e-macbook/ "Mac, iMac e MacBook")  
+        Por [Maymm](https://www.clubedohardware.com.br/profile/1253782-maymm/ "Ir ao perfil de Maymm")  
+        8 minutos atrás
         
-    * [![Rafael_1485](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253765.thumb.png.3ba313bf8d41205c241536a3089bafb1.png)](https://www.clubedohardware.com.br/profile/1253765-rafael_1485/ "Ir ao perfil de Rafael_1485")
-        
-        0
-        
-        [Monitor da LG, superframe ou pichau](https://www.clubedohardware.com.br/forums/topic/1698469-monitor-da-lg-superframe-ou-pichau/?do=getNewComment "Monitor da LG, superframe ou pichau")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Rafael\_1485](https://www.clubedohardware.com.br/profile/1253765-rafael_1485/ "Ir ao perfil de Rafael_1485")  
-        40 minutos atrás
-        
-    * [![leonardosouzajose](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/imported-photo-1229803.thumb.png.c59b0378444232692c0454a3ec8f0a56.png)](https://www.clubedohardware.com.br/profile/1229803-leonardosouzajose/ "Ir ao perfil de leonardosouzajose")
+    * [![Memos H](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253780.thumb.png.fd82c2b001818821fc9e54270dcf5bf4.png)](https://www.clubedohardware.com.br/profile/1253780-memos-h/ "Ir ao perfil de Memos H")
         
         0
         
-        [fonte MSI MAG A650BN aguenta um R5 5600g com uma rx 6650 xt?](https://www.clubedohardware.com.br/forums/topic/1698468-fonte-msi-mag-a650bn-aguenta-um-r5-5600g-com-uma-rx-6650-xt/?do=getNewComment "fonte MSI MAG A650BN aguenta um R5 5600g com uma rx 6650 xt?")
+        [Uma placa de vídeo na faixa dos 1k pra combinar com o Ryzen 5 5600GT.](https://www.clubedohardware.com.br/forums/topic/1698503-uma-placa-de-v%C3%ADdeo-na-faixa-dos-1k-pra-combinar-com-o-ryzen-5-5600gt/?do=getNewComment "Uma placa de vídeo na faixa dos 1k pra combinar com o Ryzen 5 5600GT.")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [leonardosouzajose](https://www.clubedohardware.com.br/profile/1229803-leonardosouzajose/ "Ir ao perfil de leonardosouzajose")  
-        54 minutos atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Memos H](https://www.clubedohardware.com.br/profile/1253780-memos-h/ "Ir ao perfil de Memos H")  
+        9 minutos atrás
         
-    * [![luzikioi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253764.thumb.png.68fe5cc070ae7f37b524b87dc52fb82c.png)](https://www.clubedohardware.com.br/profile/1253764-luzikioi/ "Ir ao perfil de luzikioi")
+    * [![davizw_rlk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253778.thumb.jpeg.a807ebc1177a79094dba93a802f82b10.jpeg)](https://www.clubedohardware.com.br/profile/1253778-davizw_rlk/ "Ir ao perfil de davizw_rlk")
         
         0
         
-        [Colocar o processador na placa-mãe e deixar guardado](https://www.clubedohardware.com.br/forums/topic/1698467-colocar-o-processador-na-placa-m%C3%A3e-e-deixar-guardado/?do=getNewComment "Colocar o processador na placa-mãe e deixar guardado")
+        [PC hiberna/suspende sozinho, o que posso fazer ?](https://www.clubedohardware.com.br/forums/topic/1698502-pc-hibernasuspende-sozinho-o-que-posso-fazer/?do=getNewComment "PC hiberna/suspende sozinho, o que posso fazer ?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [luzikioi](https://www.clubedohardware.com.br/profile/1253764-luzikioi/ "Ir ao perfil de luzikioi")  
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [davizw\_rlk](https://www.clubedohardware.com.br/profile/1253778-davizw_rlk/ "Ir ao perfil de davizw_rlk")  
+        48 minutos atrás
+        
+    * [![skywalker_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/IMG_0472.thumb.jpeg.2453f604aa850981de3eafe5ec8ff47a.jpeg)](https://www.clubedohardware.com.br/profile/1242367-skywalker_/ "Ir ao perfil de skywalker_")
+        
+        0
+        
+        [Recomendação TV: CU7700 ou Q60D](https://www.clubedohardware.com.br/forums/topic/1698501-recomenda%C3%A7%C3%A3o-tv-cu7700-ou-q60d/?do=getNewComment "Recomendação TV: CU7700 ou Q60D")
+        
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [skywalker\_](https://www.clubedohardware.com.br/profile/1242367-skywalker_/ "Ir ao perfil de skywalker_")  
         1 hora atrás
         
-    * [![EvilTwizzy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/51de07fc1d5b26425a2a11bbd266efed.thumb.jpg.c383cf203cf995069b0b4ffe43afa0a6.jpg)](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")
+    * [![Eduardo09011](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238362c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1222227-eduardo09011/ "Ir ao perfil de Eduardo09011")
         
         0
         
-        [Cabo VGA com falhas de inicialização e reinicialização.](https://www.clubedohardware.com.br/forums/topic/1698466-cabo-vga-com-falhas-de-inicializa%C3%A7%C3%A3o-e-reinicializa%C3%A7%C3%A3o/?do=getNewComment "Cabo VGA com falhas de inicialização e reinicialização.")
+        [RTX 3070 com fan disparando e altas temperaturas](https://www.clubedohardware.com.br/forums/topic/1698500-rtx-3070-com-fan-disparando-e-altas-temperaturas/?do=getNewComment "RTX 3070 com fan disparando e altas temperaturas")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [EvilTwizzy](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Eduardo09011](https://www.clubedohardware.com.br/profile/1222227-eduardo09011/ "Ir ao perfil de Eduardo09011")  
         1 hora atrás
         
-    * [![Yuugishi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1237999.thumb.png.dbb50745b1aa33d4c8f8b389f0f2cace.png)](https://www.clubedohardware.com.br/profile/1237999-yuugishi/ "Ir ao perfil de Yuugishi")
-        
-        0
-        
-        [TUF H310M-PLUS GAMING/BR tem suporte wi-fi sem cabo de rede?](https://www.clubedohardware.com.br/forums/topic/1698465-tuf-h310m-plus-gamingbr-tem-suporte-wi-fi-sem-cabo-de-rede/?do=getNewComment "TUF H310M-PLUS GAMING/BR tem suporte wi-fi sem cabo de rede?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Yuugishi](https://www.clubedohardware.com.br/profile/1237999-yuugishi/ "Ir ao perfil de Yuugishi")  
-        2 horas atrás
-        
-    * [![CloudZ](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/nuvem.thumb.jpg.32636c106e3f348d435e64213dd6ae23.jpg)](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")
+    * [![kawan12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1210069.thumb.jpeg.3410d0a6fa8fe095cf02a30c20706b40.jpeg)](https://www.clubedohardware.com.br/profile/1210069-kawan12/ "Ir ao perfil de kawan12")
         
         1
         
-        [MSI B760 Tomahawk - instalar o cabo do cpu](https://www.clubedohardware.com.br/forums/topic/1698464-msi-b760-tomahawk-instalar-o-cabo-do-cpu/?do=getNewComment "MSI B760 Tomahawk - instalar o cabo do cpu")
+        [Rede de 2.5gbps mas não aparece opção de 1gbps](https://www.clubedohardware.com.br/forums/topic/1698499-rede-de-25gbps-mas-n%C3%A3o-aparece-op%C3%A7%C3%A3o-de-1gbps/?do=getNewComment "Rede de 2.5gbps mas não aparece opção de 1gbps")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [CloudZ](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")  
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [kawan12](https://www.clubedohardware.com.br/profile/1210069-kawan12/ "Ir ao perfil de kawan12")  
         2 horas atrás
         
-    * [![JuniorGonçalves10](https://www.clubedohardware.com.br/uploads/members/monthly_2023_06/f1c90901d645b7d1b74c7d43b3dbd66e.thumb.jpg.bb725dcf056431a09ef671a52780c8ac.jpg)](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")
+    * [![Lizzy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1242192.thumb.png.2cac6c989e038e938b266c826806b752.png)](https://www.clubedohardware.com.br/profile/1242192-lizzy/ "Ir ao perfil de Lizzy")
         
-        0
+        2
         
-        [PC ligava e reiniciava muito rápido. Fiz algo na BIOS e agora demora 1 eternidad](https://www.clubedohardware.com.br/forums/topic/1698463-pc-ligava-e-reiniciava-muito-r%C3%A1pido-fiz-algo-na-bios-e-agora-demora-1-eternidad/?do=getNewComment "PC ligava e reiniciava muito rápido. Fiz algo na BIOS e agora demora 1 eternidad")
+        [Até quanto uma fonte de 550W aguenta?](https://www.clubedohardware.com.br/forums/topic/1698498-at%C3%A9-quanto-uma-fonte-de-550w-aguenta/?do=getNewComment "Até quanto uma fonte de 550W aguenta?")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [JuniorGonçalves10](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Lizzy](https://www.clubedohardware.com.br/profile/1242192-lizzy/ "Ir ao perfil de Lizzy")  
         2 horas atrás
         
-    * [![JuniorSk](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c46b%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253761-juniorsk/ "Ir ao perfil de JuniorSk")
-        
-        0
-        
-        [Radio bosch los angeles 4](https://www.clubedohardware.com.br/forums/topic/1698462-radio-bosch-los-angeles-4/?do=getNewComment "Radio bosch los angeles 4")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [JuniorSk](https://www.clubedohardware.com.br/profile/1253761-juniorsk/ "Ir ao perfil de JuniorSk")  
-        2 horas atrás
-        
-    * [![Ivan998](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253698.thumb.png.4cefc73dda35a5ead7a89fa67804af67.png)](https://www.clubedohardware.com.br/profile/1253698-ivan998/ "Ir ao perfil de Ivan998")
+    * [![juhniu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251153.thumb.jpeg.3a15fc85cc0cef480483c2e4fae4fcab.jpeg)](https://www.clubedohardware.com.br/profile/1251153-juhniu/ "Ir ao perfil de juhniu")
         
         3
         
-        [Corsair Carbide Series Spec Delta](https://www.clubedohardware.com.br/forums/topic/1698461-corsair-carbide-series-spec-delta/?do=getNewComment "Corsair Carbide Series Spec Delta")
+        [Fonte XPG core reactor 750w](https://www.clubedohardware.com.br/forums/topic/1698496-fonte-xpg-core-reactor-750w/?do=getNewComment "Fonte XPG core reactor 750w")
         
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Ivan998](https://www.clubedohardware.com.br/profile/1253698-ivan998/ "Ir ao perfil de Ivan998")  
-        2 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [juhniu](https://www.clubedohardware.com.br/profile/1251153-juhniu/ "Ir ao perfil de juhniu")  
+        3 horas atrás
+        
+    * [![GuilhermeLinera](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253774.thumb.jpeg.d7183549cb1d813baf48d7b7a5f25d27.jpeg)](https://www.clubedohardware.com.br/profile/1253774-guilhermelinera/ "Ir ao perfil de GuilhermeLinera")
+        
+        0
+        
+        [Notebook Msi(travando ao iniciar)](https://www.clubedohardware.com.br/forums/topic/1698491-notebook-msitravando-ao-iniciar/?do=getNewComment "Notebook Msi(travando ao iniciar)")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [GuilhermeLinera](https://www.clubedohardware.com.br/profile/1253774-guilhermelinera/ "Ir ao perfil de GuilhermeLinera")  
+        3 horas atrás
+        
+    * [![MColo](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1076525.thumb.png.3e4b12eee5831f0d8ca1cb15d7cac908.png)](https://www.clubedohardware.com.br/profile/1076525-mcolo/ "Ir ao perfil de MColo")
+        
+        1
+        
+        [HD externo 8tb Taotie é confiável?](https://www.clubedohardware.com.br/forums/topic/1698487-hd-externo-8tb-taotie-%C3%A9-confi%C3%A1vel/?do=getNewComment "HD externo 8tb Taotie é confiável?")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [MColo](https://www.clubedohardware.com.br/profile/1076525-mcolo/ "Ir ao perfil de MColo")  
+        3 horas atrás
         
     
 
