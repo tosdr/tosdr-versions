@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/geraffineerde-mazelen-leugens-van-het-rivm-naieviteit/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/alex-jones-moet-kennelijk-kapot-gemaakt-worden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
