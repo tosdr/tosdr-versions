@@ -230,13 +230,12 @@ It's Not News, It's Fark
 
 [![](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -336,16 +335,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this object of desire](https://www.fark.com/goto/13406820) ( [dims.apnews.com](https://www.fark.com/goto/13406820) ) » [(9 comments)](https://www.fark.com/comments/13406820/Photoshop-this-object-of-desire) |
-| [Discussion](https://www.fark.com/discussion/) | [CSB Sunday Morning: The book that changed your life](https://www.fark.com/goto/13410076) ( [fark.com](https://www.fark.com/goto/13410076) ) » [(46 comments)](https://www.fark.com/comments/13410076/CSB-Sunday-Morning-The-book-that-changed-your-life) |
-| [Sports](https://www.fark.com/sports/) | [Sunday Premier League action starts at 9:00 am ET with Aston Villa at Ipswich, Ipswich still looking for a win. @11:30 am a mid-table derby #11 Man. United hosting #10 Spurs. Both matches on USA](https://www.fark.com/goto/13410192) ( [premierleague.com](https://www.fark.com/goto/13410192) ) » [(7 comments)](https://www.fark.com/comments/13410192/Sunday-Premier-League-action-starts-at-900-am-ET-with-Aston-Villa-at-Ipswich-Ipswich-still-looking-for-a-win-1130-am-a-mid-table-derby-11-Man-United-hosting-10-Spurs-Both-matches-on-USA) |
-| [Business](https://www.fark.com/business/) | [Volkswagen discovers slave labor in use within its factories. This is not a repeat from 1938](https://www.fark.com/goto/13410134) ( [spiegel.de](https://www.fark.com/goto/13410134) ) » [(4 comments)](https://www.fark.com/comments/13410134/Volkswagen-discovers-slave-labor-in-use-within-its-factories-This-is-not-a-repeat-from-1938) |
-| [STEM](https://www.fark.com/stem/) | [Black hole shoots beam out and triggers nearby stars to erupt; The ring builders must be mad](https://www.fark.com/goto/13409986) ( [mashable.com](https://www.fark.com/goto/13409986) ) » [(5 comments)](https://www.fark.com/comments/13409986/Black-hole-shoots-beam-out-triggers-nearby-stars-to-erupt-The-ring-builders-must-be-mad) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Rick does Bach](https://www.fark.com/goto/13410214) ( [youtube.com](https://www.fark.com/goto/13410214) ) » [(0 comments)](https://www.fark.com/comments/13410214/Rick-does-Bach) |
-| [Fandom](https://www.fark.com/fandom/) | [New comic merges world of Mighty Morphin Power Rangers with world of Usagi Yojimbo, teleports five morphin' teenagers into alliance with Miyamoto Usagi, who apparently felt his collab with Teenage Mutant Ninja Turtles lacked attitude](https://www.fark.com/goto/13410034) ( [cbr.com](https://www.fark.com/goto/13410034) ) » [(4 comments)](https://www.fark.com/comments/13410034/New-comic-merges-world-of-Mighty-Morphin-Power-Rangers-with-world-of-Usagi-Yojimbo-teleports-five-morphin-teenagers-into-alliance-with-Miyamoto-Usagi-who-apparently-felt-his-collab-with-Teenage-Mutant-Ninja-Turtles-lacked-attitude) |
-| [D'awww](https://www.fark.com/dawww/) | [Old and busted: New Year's Baby. New hotness: Hurricane Baby](https://www.fark.com/goto/13410112) ( [weartv.com](https://www.fark.com/goto/13410112) ) » [(1 comment)](https://www.fark.com/comments/13410112/Old-busted-New-Years-Baby-New-hotness-Hurricane-Baby) |
-| [Food](https://www.fark.com/food/) | [Anthony Bourdain to his dying day never got the hang of dessert, preferring to end a great meal with "some good port wine and some really stinky, runny cheese" instead of pie, cookies or tiramisu](https://www.fark.com/goto/13410046) ( [thedailymeal.com](https://www.fark.com/goto/13410046) ) » [(12 comments)](https://www.fark.com/comments/13410046/Anthony-Bourdain-to-his-dying-day-never-got-hang-of-dessert-preferring-to-end-a-great-meal-with-some-good-port-wine-some-really-stinky-runny-cheese-instead-of-pie-cookies-tiramisu) |
-| [Politics](https://www.fark.com/politics/) | [Day 949 of WW3: In an article appropriate for a Sunday Fark Ukraine war thread, The Guardian asserts "In tackling Vladimir Putin's web of troll farms and hackers, we have one advantage: democracy" Discuss. Why yes, it's the Sunday Ukraine war thread](https://www.fark.com/goto/13410276) ( [theguardian.com](https://www.fark.com/goto/13410276) ) » [(46 comments)](https://www.fark.com/comments/13410276/Day-949-of-WW3-In-an-article-appropriate-for-a-Sunday-Fark-Ukraine-war-thread-The-Guardian-asserts-In-tackling-Vladimir-Putins-web-of-troll-farms-hackers-we-have-one-advantage-democracy-Discuss-Why-yes-its-Sunday-Ukraine-war-thread) |
+| [Main](https://www.fark.com/) | [Sink frog is watching you](https://www.fark.com/goto/13410436) ( [thedodo.com](https://www.fark.com/goto/13410436) ) » [(11 comments)](https://www.fark.com/comments/13410436/Sink-frog-is-watching-you) |
+| [Discussion](https://www.fark.com/discussion/) | [It's the final day of the regular season except for the Mets and Braves. The games also start later at 3:05 PM ET and all games would have started fifteen minutes after that. How was your team's season?](https://www.fark.com/goto/13410198) ( [espn.com](https://www.fark.com/goto/13410198) ) » [(13 comments)](https://www.fark.com/comments/13410198/Its-final-day-of-regular-season-except-for-Mets-Braves-The-games-also-start-later-at-305-PM-ET-all-games-would-have-started-fifteen-minutes-after-that-How-was-your-teams-season) |
+| [Sports](https://www.fark.com/sports/) | [It's the final day of the regular season except for the Mets and Braves. The games also start later at 3:05 PM ET and all games would have started fifteen minutes after that. How was your team's season?](https://www.fark.com/goto/13410198) ( [espn.com](https://www.fark.com/goto/13410198) ) » [(13 comments)](https://www.fark.com/comments/13410198/Its-final-day-of-regular-season-except-for-Mets-Braves-The-games-also-start-later-at-305-PM-ET-all-games-would-have-started-fifteen-minutes-after-that-How-was-your-teams-season) |
+| [Business](https://www.fark.com/business/) | [Volkswagen discovers slave labor in use within its factories. This is not a repeat from 1938](https://www.fark.com/goto/13410134) ( [spiegel.de](https://www.fark.com/goto/13410134) ) » [(11 comments)](https://www.fark.com/comments/13410134/Volkswagen-discovers-slave-labor-in-use-within-its-factories-This-is-not-a-repeat-from-1938) |
+| [STEM](https://www.fark.com/stem/) | [♪ Giant stems are what you take / Mushrooms on the moon / I hope the caps don't break / Mushrooms on the moon ♪](https://www.fark.com/goto/13410416) ( [aljazeera.com](https://www.fark.com/goto/13410416) ) » [(3 comments)](https://www.fark.com/comments/13410416/Giant-stems-are-what-you-take-Mushrooms-on-moon-I-hope-caps-dont-break-Mushrooms-on-moon) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Outlander wraps up filming an outlandish eight seasons](https://www.fark.com/goto/13410388) ( [deadline.com](https://www.fark.com/goto/13410388) ) » [(11 comments)](https://www.fark.com/comments/13410388/Outlander-wraps-up-filming-an-outlandish-eight-seasons) |
+| [Fandom](https://www.fark.com/fandom/) | [New comic merges world of Mighty Morphin Power Rangers with world of Usagi Yojimbo, teleports five morphin' teenagers into alliance with Miyamoto Usagi, who apparently felt his collab with Teenage Mutant Ninja Turtles lacked attitude](https://www.fark.com/goto/13410034) ( [cbr.com](https://www.fark.com/goto/13410034) ) » [(7 comments)](https://www.fark.com/comments/13410034/New-comic-merges-world-of-Mighty-Morphin-Power-Rangers-with-world-of-Usagi-Yojimbo-teleports-five-morphin-teenagers-into-alliance-with-Miyamoto-Usagi-who-apparently-felt-his-collab-with-Teenage-Mutant-Ninja-Turtles-lacked-attitude) |
+| [D'awww](https://www.fark.com/dawww/) | [Ewe you love how cities are using sheep to graze around the area](https://www.fark.com/goto/13410412) ( [msn.com](https://www.fark.com/goto/13410412) ) » [(6 comments)](https://www.fark.com/comments/13410412/Ewe-you-love-how-cities-are-using-sheep-to-graze-around-area) |
+| [Food](https://www.fark.com/food/) | ["Why are we so obsessed with pumpkin spice?" We are?](https://www.fark.com/goto/13410372) ( [bbc.com](https://www.fark.com/goto/13410372) ) » [(13 comments)](https://www.fark.com/comments/13410372/Why-are-we-so-obsessed-with-pumpkin-spice-We-are) |
+| [Politics](https://www.fark.com/politics/) | [Jeff Flake hits the blue button for TFG's meltdown countdown](https://www.fark.com/goto/13410450) ( [dailyboulder.com](https://www.fark.com/goto/13410450) ) » [(9 comments)](https://www.fark.com/comments/13410450/Jeff-Flake-hits-blue-button-for-TFGs-meltdown-countdown) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -355,7 +354,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 29 2024 09:43:56  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 29 2024 15:42:47  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
