@@ -123,6 +123,8 @@ YOU AGREE TO THE ARBITRATION AGREEMENT AND CLASS ACTION WAIVER DESCRIBED IN SECT
 
 **Last Updated:** January 24, 2024
 
+Select your preferred language: Select a language English Español
+
 * [Terms of Use](https://help.netflix.com/en/legal/termsofuse)
 * [Privacy](https://help.netflix.com/en/legal/privacy)
 * [Do Not Sell or Share My Personal Information](https://netflix.com/dnsspi)
