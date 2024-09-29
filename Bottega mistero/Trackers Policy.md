@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/kepler-78-b-il-pianeta-di-lava-che-non-dovrebbe-esistere/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/5-giochi-mobile-android-toglieranno-sonno/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
