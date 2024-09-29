@@ -98,28 +98,8 @@ FOX SCORES
     | NEW | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241002)
-* [ESL
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | WAR | 23  |
-    | STH | 22  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/ESL20242802)
 * Rugby
     
-* [Rugby Champs
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | NZL | 33  |
-    | AUS | 13  |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240601)
 * [Rugby Champs
     
     Complete
@@ -130,16 +110,6 @@ FOX SCORES
     | ARG | 7   |
     
     Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240602)
-* [Women's Test
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | AUSW | 37  |
-    | WALW | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/womens-internationals/match-centre/WTM20240108)
 * Cricket
     
 * [Men's Test
@@ -152,6 +122,16 @@ FOX SCORES
     | BAN | 3 /107 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250102)
+* [Men's T20I
+    
+    CAN won by 14 runs
+    
+    |     |     |
+    | --- | --- |
+    | CAN | 8 /123 |
+    | NEP | 109 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20241901)
 * [Men's ODI
     
     29/9 20:00 AEST
@@ -164,22 +144,18 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240705)
 * [WNCL
     
-    29/9 9:30 AEST
-    
     |     |     |
     | --- | --- |
-    | QLD | –   |
-    | NSW | –   |
+    | QLD | 6 /139 |
+    | NSW |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250105)
 * [WNCL
     
-    29/9 10:30 AEST
-    
     |     |     |
     | --- | --- |
-    | SA  | –   |
-    | ACT | –   |
+    | SA  |     |
+    | ACT | 4 /81 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250106)
 * Motorsport
@@ -196,16 +172,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=719)
 * Basketball
     
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CAI | 101 |
-    | ADL | 97  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25020004/play-by-play)
 * [NBL
     
     Full Time
@@ -308,6 +274,26 @@ FOX SCORES
     | LIV | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250606)
+* [Premier League
+    
+    29/9 23:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IPS | –   |
+    | AVL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250610)
+* [Premier League
+    
+    30/9 1:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MUN | –   |
+    | TOT | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250603)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
