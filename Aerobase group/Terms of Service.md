@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [The case for giving Ukraine long-range striking power in Russia](https://www.defensenews.com/opinion/2024/09/29/ukraine-needs-long-range-firepower-in-its-fight-against-russia/)  
+    09/29/24 08:00am  
+    
+    U.S. soldiers conduct Army Tactical Missile System live-fire testing at White Sands Missile Range, Nevada. Ukraine is seeking permission to use such missiles for long-range strikes in Russia. (John Hamilton/White Sands Missile Range)
+    
 * [New US Air Force PT uniforms delayed, again, until November](https://www.defensenews.com/digital-show-dailies/air-force-association/2024/09/26/new-us-air-force-pt-uniforms-delayed-again-until-november/)  
     09/26/24 03:00pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/25/24 03:00pm  
     
     Philippine military chief Gen. Romeo Brawner Jr., center, listens to an exhibitor during an Asian defense industry exhibition Wednesday in Manila. Brawner Jr. has asked the U.S. to keep a U.S. missile system in the country to boost deterrence. (Aaron Favila/AP)
-    
-* [Saab to open munitions production facility in Michigan](https://www.defensenews.com/land/2024/09/24/saab-to-open-munitions-production-facility-in-northern-michigan/)  
-    09/24/24 10:46am  
-    
-    Delegates socialize in front of a large display on the SAAB stand during the 2019 iteration of the DSEI arms fair in London. Saab is expanding globally and has announced plans for a munitions facility in Grayling, Michigan. (Leon Neal/Getty Images)
     
 
 Recent parts by keyword  
