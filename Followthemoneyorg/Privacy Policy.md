@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![incumbency](/assets/logos/SuccessRateContestedGeneral2005-2010.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2009-2010-state-elections)
+[![SF Giants](/assets/Images/teasers/small/Giants.png)](https://www.followthemoney.org/research/blog/giants-give-royally/)
 
-The power of incumbency and money.
+$3M from San Francisco Giants, 2000-13.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
