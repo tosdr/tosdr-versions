@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Curse Of The Methuselah Tree](/wp-content/thumbnails/13880-100x70.jpg?x53432)
+* [![Woodstock](/wp-content/thumbnails/1731-100x70.jpg?x53432)
     
-    The Curse Of The Methuselah Tree
+    Woodstock
     
-    In California, on top of a desolate mountain stands a tree, it is no ordinary tree, it is in fact the world's oldest living organism. A twisted bristlecone pine tree which goes by the name Methuselah,](https://documentaryheaven.com/curse-methuselah-tree/ "The Curse Of The Methuselah Tree")
-* [![Mystery of the Murdered Saints](/wp-content/thumbnails/6597-100x70.jpg?x53432)
+    The Woodstock Music and Art Fair was a historic event held at Max Yasgur's 600 acre (2.4 km²; 240 ha) dairy farm in the rural town of Bethel, New York from August 15 to August 18, 1969. Bethel (Sulliv](https://documentaryheaven.com/woodstock/ "Woodstock")
+* [![Isaac Newton: The Last Magician](/wp-content/thumbnails/7604-100x70.jpg?x53432)
     
-    Mystery of the Murdered Saints
+    Isaac Newton: The Last Magician
     
-    For the first time, the Catholic Church is allowing scientific experts and historians to openly test the veracity of the remains of reported saints.National Geographic has exclusive access to the](https://documentaryheaven.com/mystery-of-the-murdered-saints/ "Mystery of the Murdered Saints")
-* [![The Russians Are Coming](/wp-content/thumbnails/7951-100x70.jpeg?x53432)
+    This 60-minute biography, part of the BBC’s Genius Of Invention season, reveals a much more complex figure by interviewing experts and delving into his own writings and those of his contemporaries. Ne](https://documentaryheaven.com/isaac-newton-last-magician/ "Isaac Newton: The Last Magician")
+* [![Amish: A Secret Life](/wp-content/thumbnails/8052-100x70.jpg?x53432)
     
-    The Russians Are Coming
+    Amish: A Secret Life
     
-    Russian money has poured into London, but is organised crime coming with it? Reporter Darragh MacIntyre investigates a death in a Russian prison that has brought the threat of violence to the UK. Coul](https://documentaryheaven.com/russians-are-coming/ "The Russians Are Coming")
-* [![Moleman 2: Demoscene: The Art of the Algorithms](/wp-content/thumbnails/6611-100x70.jpeg?x53432)
+    An intimate portrait of Amish family life and faith, this film opens up a world usually kept private. Miriam and David are Old Order Amish and photography is not permitted under the strict rules of th](https://documentaryheaven.com/amish-secret-life/ "Amish: A Secret Life")
+* [![Beer Wars](/wp-content/thumbnails/2016-100x70.jpg?x53432)
     
-    Moleman 2: Demoscene: The Art of the Algorithms
+    Beer Wars
     
-    In the 1980's, something changed the world forever. Computer technology, mostly due to the appearance of affordable Commodore 64's, entered households worldwide, providing the opportunity for everyone](https://documentaryheaven.com/moleman-2-demoscene-the-art-of-the-algorithms/ "Moleman 2: Demoscene: The Art of the Algorithms")
-* [![Too Young To Die: Sharon Tate](/wp-content/thumbnails/14669-100x70.jpg?x53432)
+    Beer lovers eager to learn the facts about their favorite brew are invited to follow filmmaker Anat Baron as she takes an insider's look at America's highly competitive hops industry. The story gets u](https://documentaryheaven.com/beer-wars/ "Beer Wars")
+* [![Amazon Rising](/wp-content/thumbnails/13547-100x70.jpg?x53432)
     
-    Too Young To Die: Sharon Tate
+    Amazon Rising
     
-    If we held up that mirror to the 1960s, the who is the fairest of them all mirror from the Snow White fairy tale we would probably see Sharon Tate looking back at us. Her own story like that of the de](https://documentaryheaven.com/too-young-to-die-sharon-tate/ "Too Young To Die: Sharon Tate")
+    Amazon Rising is and hour long special by CNBC and hosted by David Faber, examining the worlds largest e-tailer the show doesn't necessarily uncover any big secrets lurking behind the company but](https://documentaryheaven.com/amazon-rising/ "Amazon Rising")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
