@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-agresin-sexual-en-kent-advertencia-sobre-robo-de-coches-y-ms-noticias/281-eaf70fac-e2c5-4108-81ea-7883dd279558)
+        
+        #### [Cinco Cosas: Agresión sexual en Kent, advertencia sobre robo de coches y más noticias](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-agresin-sexual-en-kent-advertencia-sobre-robo-de-coches-y-ms-noticias/281-eaf70fac-e2c5-4108-81ea-7883dd279558)
+        
     *  [![](https://media.king5.com/assets/KING/images/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb/20240929T033848/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb/20240929T033848/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
         
         #### [WSDOT said this is the biggest weekend for road closures. Here's what roads will be closed](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
-        
-    *  [![](https://media.king5.com/assets/KING/images/df7a6266-ca9a-407f-9583-5ce777994893/20240704T232727/df7a6266-ca9a-407f-9583-5ce777994893_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df7a6266-ca9a-407f-9583-5ce777994893/20240704T232727/df7a6266-ca9a-407f-9583-5ce777994893_360x203.jpg)](https://www.king5.com/article/news/local/private-fireworks-show-near-tacoma/281-3369d365-f4dd-4998-ad8e-874c1f1fe102)
-        
-        #### [What's that noise? A private fireworks show near Tacoma](https://www.king5.com/article/news/local/private-fireworks-show-near-tacoma/281-3369d365-f4dd-4998-ad8e-874c1f1fe102)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/058df5e4-f329-4b5f-9b00-cb551d8dfa0e/20240929T051933/058df5e4-f329-4b5f-9b00-cb551d8dfa0e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/058df5e4-f329-4b5f-9b00-cb551d8dfa0e/20240929T051933/058df5e4-f329-4b5f-9b00-cb551d8dfa0e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_360x203.jpg)](https://www.king5.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
+        
+        #### [How Helene became the near-perfect storm to bring widespread destruction across the South](https://www.king5.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
+        
+    *  [![](https://media.king5.com/assets/KING/images/692614ec-49b2-46c0-8eb0-3c908eca5824/20240929T152702/692614ec-49b2-46c0-8eb0-3c908eca5824_16x9.jpg) ![](https://media.king5.com/assets/KING/images/692614ec-49b2-46c0-8eb0-3c908eca5824/20240929T152702/692614ec-49b2-46c0-8eb0-3c908eca5824_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a/20240929T030549/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a/20240929T030549/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a_360x203.jpg)](https://www.king5.com/article/news/local/bothell-woman-volunteers-red-cross-serve-those-impacted-hurricane-helene/281-fb58556d-03a5-409b-a9be-855ab4e673e6)
-        
-        #### [Bothell woman volunteers with Red Cross to serve those impacted by Hurricane Helene](https://www.king5.com/article/news/local/bothell-woman-volunteers-red-cross-serve-those-impacted-hurricane-helene/281-fb58556d-03a5-409b-a9be-855ab4e673e6)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+62°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
