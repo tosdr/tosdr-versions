@@ -515,7 +515,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
