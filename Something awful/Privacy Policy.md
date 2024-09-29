@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Steampunk Forum](https://www.somethingawful.com/weekend-web/steampunk-forum/1/)
-* [As Above, So Below; The November Man; Calvary; The Zero Theorem; Mischief Night](https://www.somethingawful.com/current-movie-reviews/above-november-man/1/)
-* [A Safety Message From Your USPS Letter Carrier](https://www.somethingawful.com/comedy-goldmine/safety-message-from/1/)
-* [The Nut Job; Jack Ryan: Shadow Recruit; August: Osage County](https://www.somethingawful.com/current-movie-reviews/nut-job/1/)
-* [Subs, Lies and Videotape](https://www.somethingawful.com/news/subs-lies-videotape/)
+* [Measurection](https://www.somethingawful.com/weekend-web/measurection/1/)
+* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
+* [Nintendo Forums, Mad Philosophers, and Snafu](https://www.somethingawful.com/weekend-web/nintendo-forums-mad/1/)
+* [Erotic Saturday Morning Cartoon Fanfic, Part 2](https://www.somethingawful.com/comedy-goldmine/erotic-saturday-morning-2/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-butt.gif) [Leaving the toilet seat up](http://forums.somethingawful.com/showthread.php?threadid=4071385 "Leaving the toilet seat up")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Robot revolusions pros and cons](http://forums.somethingawful.com/showthread.php?threadid=4071386 "Robot revolusions pros and cons")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [songs that get stuck in your head when you hear a different song](http://forums.somethingawful.com/showthread.php?threadid=4071449 "songs that get stuck in your head when you hear a different song")
 
 ### Random Articles
 
-* [Incorporation After Party](https://www.somethingawful.com/daily-dirt/incorporation-after-party/)
-* ["Why Are All The Droids In The Star Wars Universe A-Holes?" by YouTube's "Dirty" Frank Torlinson](https://www.somethingawful.com/news/droids-star-wars/)
-* [Woody And Shrek](https://www.somethingawful.com/flash-tub/shrek-woody-cartoon/)
-* [Essential Quicksand Safety Tips](https://www.somethingawful.com/news/quicksand-safety-tips/)
-* [Iced Out Gear](https://www.somethingawful.com/awful-links/awful-link-1657/)
+* [Robowar](https://www.somethingawful.com/movie-reviews/robowar/1/)
+* [Warhamer 40,000: Rogue Trader (part two)](https://www.somethingawful.com/dungeons-and-dragons/rogue-trader-returns/1/)
+* [Ruin Online](https://www.somethingawful.com/mmo-roulette/ruin-online/1/)
+* [Fine Art Meets Awful Forum!](https://www.somethingawful.com/photoshop-phriday/fine-art-goons/1/)
+* [July 2, 2013](https://www.somethingawful.com/twitter-tuesday/tt07-02-13/)
 
 [Random!](https://www.somethingawful.com/random/)
 
