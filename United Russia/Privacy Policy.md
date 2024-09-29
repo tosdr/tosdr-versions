@@ -305,7 +305,7 @@
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [зооприют](https://er.ru/activity/news?tags%5B0%5D=153053) [#Лучшийдруг](https://er.ru/activity/news?tags%5B0%5D=152557)
 
-Сегодня 17:01
+29.09.24
 
 [![25 активистов «Молодой Гвардии Единой России» и «Волонтёрской Роты Боевого Братства» отправились добровольцами в зону СВО](https://cdn.er.ru/media/news/September2024/8RvuVTIZb5MmzpKwteV3-small.jpeg)](https://er.ru/activity/news/25-aktivistov-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-boevogo-bratstva-otpravilis-dobrovolcami-v-zonu-svo)
 
@@ -313,7 +313,7 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#зона СВО](https://er.ru/activity/news?tags%5B0%5D=1094837)
 
-Сегодня 14:45
+29.09.24
 
 [![«Единая Россия»: Выставку «Сила V правде – гордость и победа» в Сургуте в первый день посетили больше 10 тысяч человек](https://cdn.er.ru/media/news/September2024/4s7U1whZIQOVQfLIiPnp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-v-surgute-v-pervyj-den-posetili-bolshe-10-tysyach-chelovek)
 
