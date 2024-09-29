@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/01/Generic34-edited-326x245.jpg)](https://cwbchicago.com/2024/09/2-women-mugged-in-the-loop-on-thursday-evening-suspects-detained.html "15-year-olds charged with mugging woman in the Loop")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/James-Myers-326x245.jpg)](https://cwbchicago.com/2024/09/serial-burglar-targeted-homes-across-the-north-side-got-away-with-property-worth-over-110k-prosecutors-claim.html "Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim")
 
-Loop
+Citywide
 
-### [15-year-olds charged with mugging woman in the Loop](https://cwbchicago.com/2024/09/2-women-mugged-in-the-loop-on-thursday-evening-suspects-detained.html "15-year-olds charged with mugging woman in the Loop")
+### [Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim](https://cwbchicago.com/2024/09/serial-burglar-targeted-homes-across-the-north-side-got-away-with-property-worth-over-110k-prosecutors-claim.html "Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim")
 
-[September 27, 2024 6:43 AM](https://cwbchicago.com/2024/09)
+[September 27, 2024 5:56 PM](https://cwbchicago.com/2024/09)
 
-Charges are pending against two people after a woman was mugged in the Loop on Thursday evening. Shortly after those suspects were detained, yet another woman was mugged near the Daley Center.[](https://cwbchicago.com/2024/09/2-women-mugged-in-the-loop-on-thursday-evening-suspects-detained.html "15-year-olds charged with mugging woman in the Loop")
+Prosecutors have charged a man with committing a string of residential burglaries on the North Side, including one while he was on pretrial release for yet another residential burglary.[](https://cwbchicago.com/2024/09/serial-burglar-targeted-homes-across-the-north-side-got-away-with-property-worth-over-110k-prosecutors-claim.html "Serial burglar targeted homes across the North Side, got away with property worth over $110K, prosecutors claim")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Shedd-326x245.jpg)](https://cwbchicago.com/2024/09/woman-mugged-necklace-snatched-near-shedd-aquarium.html "Woman mugged, necklace snatched near Shedd Aquarium")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Luis-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/09/man-gets-6-years-for-distributing-cocaine-while-dressed-like-a-banana.html "Man gets 6 years for distributing cocaine while dressed like a banana")
 
-Loop
+Lakeview
 
-### [Woman mugged, necklace snatched near Shedd Aquarium](https://cwbchicago.com/2024/09/woman-mugged-necklace-snatched-near-shedd-aquarium.html "Woman mugged, necklace snatched near Shedd Aquarium")
+### [Man gets 6 years for distributing cocaine while dressed like a banana](https://cwbchicago.com/2024/09/man-gets-6-years-for-distributing-cocaine-while-dressed-like-a-banana.html "Man gets 6 years for distributing cocaine while dressed like a banana")
 
-[September 27, 2024 6:05 AM](https://cwbchicago.com/2024/09)
+[September 27, 2024 10:09 AM](https://cwbchicago.com/2024/09)
 
-A string of jewelry-snatching robberies that started in the downtown area last week has not ended since prosecutors charged a man in connection with one of the crimes a few days ago.[](https://cwbchicago.com/2024/09/woman-mugged-necklace-snatched-near-shedd-aquarium.html "Woman mugged, necklace snatched near Shedd Aquarium")
+A judge this week sentenced a man to 6 years in prison for distributing cocaine while dressed as a banana in River North.[](https://cwbchicago.com/2024/09/man-gets-6-years-for-distributing-cocaine-while-dressed-like-a-banana.html "Man gets 6 years for distributing cocaine while dressed like a banana")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Glenn-Gerich-326x245.jpg)](https://cwbchicago.com/2024/09/man-broke-windows-at-ravenswood-tavern-3x-while-on-pretrial-release-for-similar-allegations-prosecutors-say.html "Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Jontae-Baker-326x245.jpg)](https://cwbchicago.com/2024/09/man-carjacked-kidnapped-robbed-driver-while-on-pretrial-release-for-felony-theft-prosecutors-say.html "Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say")
 
-Ravenswood
+Kenwood
 
-### [Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say](https://cwbchicago.com/2024/09/man-broke-windows-at-ravenswood-tavern-3x-while-on-pretrial-release-for-similar-allegations-prosecutors-say.html "Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say")
+### [Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say](https://cwbchicago.com/2024/09/man-carjacked-kidnapped-robbed-driver-while-on-pretrial-release-for-felony-theft-prosecutors-say.html "Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say")
 
-[September 26, 2024 11:18 AM](https://cwbchicago.com/2024/09)
+[September 27, 2024 9:03 AM](https://cwbchicago.com/2024/09)
 
-CHICAGO — A man is charged with breaking windows at a Ravenswood tavern three times while on pretrial release for allegedly breaking the window of a neighboring bar and stealing furniture from outside nearby homes. Court records show that Glenn Gerich, 58, repeatedly skipped court in the pending case and continued to skip court even[](https://cwbchicago.com/2024/09/man-broke-windows-at-ravenswood-tavern-3x-while-on-pretrial-release-for-similar-allegations-prosecutors-say.html "Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say")
+Prosecutors are accusing a man of working with two accomplices to carjack, kidnap, and rob a man this summer while he was on pretrial release for a felony theft case.[](https://cwbchicago.com/2024/09/man-carjacked-kidnapped-robbed-driver-while-on-pretrial-release-for-felony-theft-prosecutors-say.html "Man carjacked, kidnapped, robbed driver while on pretrial release for felony theft, prosecutors say")
 
 Search
 
