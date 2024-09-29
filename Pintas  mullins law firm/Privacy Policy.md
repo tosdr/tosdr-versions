@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How to find the best attorney for elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-to-find-the-best-attorney-for-elder-abuse-lawyer-scaled.jpg "How to Find the Best Attorney for Elder Abuse?")](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/ "How to Find the Best Attorney for Elder Abuse?")
+[![What is worse, asbestos or smoking?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-worse-asbestos-or-smoking.jpg "What Is Worse, Asbestos or Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/ "What Is Worse, Asbestos or Smoking?")
 
-[#### How to Find the Best Attorney for Elder Abuse?](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/)
+[#### What Is Worse, Asbestos or Smoking?](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/)
 
-[![How many people die from lung cancer every year?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-many-people-die-from-lung-cancer-every-year.jpg "How Many People Die From Lung Cancer Every Year?")](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year "How Many People Die From Lung Cancer Every Year?")
+[![What are the symptoms of asbestos lung cancer?](https://www.pintas.com/wp-content/uploads/2020/03/mesothelioma-lawsuit-lawyer-what-are-the-symptoms-of-asbestos-lung-cancer.jpg "What Are the Symptoms of Asbestos Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer "What Are the Symptoms of Asbestos Lung Cancer?")
 
-[#### How Many People Die From Lung Cancer Every Year?](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year)
+[#### What Are the Symptoms of Asbestos Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/symptoms-of-asbestos-lung-cancer)
 
-[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
+[![Why is talc bad for skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-why-is-talc-bad-for-skin-scaled.jpg "Why Is Talc Bad for Skin?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin "Why Is Talc Bad for Skin?")
 
-[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
+[#### Why Is Talc Bad for Skin?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin)
 
 ### Injured?  
 Tell Us What Happened.
