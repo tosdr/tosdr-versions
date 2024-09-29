@@ -210,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nasrallah's killing reveals depth of Israel's penetration of Hezbollah](https://www.japantimes.co.jp/news/2024/09/29/world/israel-hezbollah-penetration-focus/ "Nasrallah's killing reveals depth of Israel's penetration of Hezbollah")
+[Researchers in Japan look to art to mold the scientific process](https://www.japantimes.co.jp/news/2024/09/29/japan/science-health/sciart-scientific-process/ "Researchers in Japan look to art to mold the scientific process")
 
-2 hours ago
+59 mins ago
 
-[Netanyahu ratchets up challenge to Iran with Nasrallah killing](https://www.japantimes.co.jp/news/2024/09/29/world/israel-netanyahu-nasrallah-iran/ "Netanyahu ratchets up challenge to Iran with Nasrallah killing")
+[Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
 
-2 hours ago
+1 hours ago
 
-[Hezbollah leader's death is 'measure of justice' for his victims, Biden says](https://www.japantimes.co.jp/news/2024/09/29/world/politics/hezbollah-nasrallah-killing-biden/ "Hezbollah leader's death is 'measure of justice' for his victims, Biden says")
+[Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
 
-2 hours ago
+1 hours ago
 
-[U.S. southeast faces daunting cleanup from Helene as death toll rises](https://www.japantimes.co.jp/news/2024/09/29/world/storm-helene-us-southeast/ "U.S. southeast faces daunting cleanup from Helene as death toll rises")
+[SBI to end plant construction tie-up with Taiwan chipmaker](https://www.japantimes.co.jp/business/2024/09/29/tech/sbi-end-plant-construction-tie-up/ "SBI to end plant construction tie-up with Taiwan chipmaker")
 
-3 hours ago
+1 hours ago
 
-[China's 'red collectors' cherish bygone Maoist era](https://www.japantimes.co.jp/news/2024/09/29/asia-pacific/china-red-collectors/ "China's 'red collectors' cherish bygone Maoist era")
+[Ishiba's foreign policy vision to face immediate tests as he takes helm](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-japan-foreign-policy/ "Ishiba's foreign policy vision to face immediate tests as he takes helm")
 
-3 hours ago
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
