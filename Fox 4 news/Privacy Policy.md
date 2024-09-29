@@ -400,6 +400,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Parts of Rockwall County experiencing 911 outage](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/0f7dd3ce-V-91120T-MOBILE20GHOST20CALLS_1489581523865_2887537_ver1.0.jpg?ve=1&tl=1)
+
+ ![Parts of Rockwall County experiencing 911 outage](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/0f7dd3ce-V-91120T-MOBILE20GHOST20CALLS_1489581523865_2887537_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rockwall-county-911-issues)
+
+### [Parts of Rockwall County experiencing 911 outage](https://www.fox4news.com/news/rockwall-county-911-issues)
+
+ [![North Korea expands list of crimes punishable by death: report](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1139191515-scaled.jpg?ve=1&tl=1)
+
+ ![North Korea expands list of crimes punishable by death: report](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1139191515-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-korea-crimes-punishable-death-report)
+
+### [North Korea expands list of crimes punishable by death: report](https://www.fox4news.com/news/north-korea-crimes-punishable-death-report)
+
  [![Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2175356772.jpg?ve=1&tl=1)
 
  ![Jack Hoover throws for 356 yards, three TDs as TCU beats Kansas 38-27 at Arrowhead Stadium](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2175356772.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jack-hoover-throws-356-yards-three-tds-tcu-beats-kansas-38-27-arrowhead-stadium)
@@ -417,18 +429,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174538459.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/marcel-reed-throws-2-touchdowns-runs-another-no-24-aggies-21-17-win-over-arkansas)
 
 ### [Marcel Reed throws for 2 touchdowns and runs for another in No. 24 Aggies’ 21-17 win over Arkansas](https://www.fox4news.com/sports/marcel-reed-throws-2-touchdowns-runs-another-no-24-aggies-21-17-win-over-arkansas)
-
- [![Manning leads No. 1 Texas over Mississippi State as Longhorns earn first SEC victory 35-13](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174526811.jpg?ve=1&tl=1)
-
- ![Manning leads No. 1 Texas over Mississippi State as Longhorns earn first SEC victory 35-13](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174526811.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/manning-leads-no-1-texas-over-mississippi-state-longhorns-earn-first-sec-victory-35-13)
-
-### [Manning leads No. 1 Texas over Mississippi State as Longhorns earn first SEC victory 35-13](https://www.fox4news.com/sports/manning-leads-no-1-texas-over-mississippi-state-longhorns-earn-first-sec-victory-35-13)
-
- [![Jacob deGrom pitches 4 solid innings and the Texas Rangers hit 4 homers in a 5-2 win over the Angels](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2174266089.jpg?ve=1&tl=1)
-
- ![Jacob deGrom pitches 4 solid innings and the Texas Rangers hit 4 homers in a 5-2 win over the Angels](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174266089.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jacob-degrom-pitches-4-solid-innings-texas-rangers-hit-4-homers-5-2-win-over-angels)
-
-### [Jacob deGrom pitches 4 solid innings and the Texas Rangers hit 4 homers in a 5-2 win over the Angels](https://www.fox4news.com/sports/jacob-degrom-pitches-4-solid-innings-texas-rangers-hit-4-homers-5-2-win-over-angels)
 
 ###### [News](https://www.fox4news.com/news)
 
