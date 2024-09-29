@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![One-Off Yamaha XS400 Scrambler Went From Ugly and Outdated to Utterly Breathtaking](https://s1.cdn.autoevolution.com/images/news/one-off-yamaha-xs400-scrambler-went-from-ugly-and-outdated-to-utterly-breathtaking-240517-5.jpg "One-Off Yamaha XS400 Scrambler Went From Ugly and Outdated to Utterly Breathtaking")
+[![Largest Planetary Exploration Spaceship Ever Made Is Going Alien Hunting Near Jupiter](https://s1.cdn.autoevolution.com/images/news/largest-planetary-exploration-spaceship-ever-made-is-going-alien-hunting-near-jupiter-240285-5.jpg "Largest Planetary Exploration Spaceship Ever Made Is Going Alien Hunting Near Jupiter")
 
-One-Off Yamaha XS400 Scrambler Went From Ugly and Outdated to Utterly Breathtaking](https://www.autoevolution.com/news/one-off-yamaha-xs400-scrambler-went-from-ugly-and-outdated-to-utterly-breathtaking-240517.html)
+Largest Planetary Exploration Spaceship Ever Made Is Going Alien Hunting Near Jupiter](https://www.autoevolution.com/news/largest-planetary-exploration-spaceship-ever-made-is-going-alien-hunting-near-jupiter-240285.html)
 
 how-to \_
 
