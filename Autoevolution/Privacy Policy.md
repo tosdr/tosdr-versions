@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Largest Planetary Exploration Spaceship Ever Made Is Going Alien Hunting Near Jupiter](https://s1.cdn.autoevolution.com/images/news/largest-planetary-exploration-spaceship-ever-made-is-going-alien-hunting-near-jupiter-240285-5.jpg "Largest Planetary Exploration Spaceship Ever Made Is Going Alien Hunting Near Jupiter")
+[![Professional Chef-Designed Camper Van Has a Space-Saving Interior With a Proper Kitchen](https://s1.cdn.autoevolution.com/images/news/professional-chef-designed-camper-van-has-a-space-saving-interior-with-a-proper-kitchen-240264-5.jpg "Professional Chef-Designed Camper Van Has a Space-Saving Interior With a Proper Kitchen")
 
-Largest Planetary Exploration Spaceship Ever Made Is Going Alien Hunting Near Jupiter](https://www.autoevolution.com/news/largest-planetary-exploration-spaceship-ever-made-is-going-alien-hunting-near-jupiter-240285.html)
+Professional Chef-Designed Camper Van Has a Space-Saving Interior With a Proper Kitchen](https://www.autoevolution.com/news/professional-chef-designed-camper-van-has-a-space-saving-interior-with-a-proper-kitchen-240264.html)
 
 how-to \_
 
