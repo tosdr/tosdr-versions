@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/287c3279-efe0-49c0-af04-8868e00ff6ce/20240929T121727/287c3279-efe0-49c0-af04-8868e00ff6ce_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/287c3279-efe0-49c0-af04-8868e00ff6ce/20240929T121727/287c3279-efe0-49c0-af04-8868e00ff6ce_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_360x203.jpg)](https://www.wqad.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
         
-        #### [Dry and warm end to September continues](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Death toll rises from Helene while supplies are rushed to North Carolina and Florida digs out](https://www.wqad.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
         
-    *  [![](https://media.tegna-media.com/assets/WLTX/images/f25b9c01-5c32-460e-8727-b6d70a96b7cf/20240929T022534/f25b9c01-5c32-460e-8727-b6d70a96b7cf_16x9.jpg) ![](https://media.tegna-media.com/assets/WLTX/images/f25b9c01-5c32-460e-8727-b6d70a96b7cf/20240929T022534/f25b9c01-5c32-460e-8727-b6d70a96b7cf_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-asheville-devastated-helene/101-e4b45a14-cbb6-4d60-a01b-a937c1648cb7)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e1049745-4dc0-499a-bc35-26d42b249a0b/20240929T164627/e1049745-4dc0-499a-bc35-26d42b249a0b_360x203.jpg)](https://www.wqad.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
         
-        #### [North Carolina's Asheville devastated after Helene hits mountain town](https://www.wqad.com/article/news/national/north-carolina-asheville-devastated-helene/101-e4b45a14-cbb6-4d60-a01b-a937c1648cb7)
+        #### [How Helene became the near-perfect storm to bring widespread destruction across the South](https://www.wqad.com/article/news/nation-world/how-helene-became-near-perfect-storm-to-bring-widespread-destruction/507-622bba8f-fb86-48ef-93c8-233cec8867e8)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-74°
+80°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
