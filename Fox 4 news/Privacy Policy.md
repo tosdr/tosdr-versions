@@ -400,35 +400,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Helene latest: Death toll climbs to 52, mountain towns wiped out](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2174061526.jpg?ve=1&tl=1)
+ [![WATCH: Fort Worth fire truck hit by alleged drunk driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092824-Sh-FTWPD-Major-Crash-FD-Stuck-North-Fwy-REF_00.28.15.08.jpg?ve=1&tl=1)
 
- ![Helene latest: Death toll climbs to 52, mountain towns wiped out](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2174061526.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-saturday-latest-tennessee-north-carolina-south-carolina-georgia-florida)
+ ![WATCH: Fort Worth fire truck hit by alleged drunk driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092824-Sh-FTWPD-Major-Crash-FD-Stuck-North-Fwy-REF_00.28.15.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-fire-truck-drunk-driver)
 
-### [Helene latest: Death toll climbs to 52, mountain towns wiped out](https://www.fox4news.com/news/helene-saturday-latest-tennessee-north-carolina-south-carolina-georgia-florida)
+### [WATCH: Fort Worth fire truck hit by alleged drunk driver](https://www.fox4news.com/news/fort-worth-fire-truck-drunk-driver)
 
- [![Dallas one of the best cities in the country for dating, Fort Worth one of the worst, study finds](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/Dallas.jpg?ve=1&tl=1)
+ [![Ellen DeGeneres shares three recent health diagnoses during special](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/ellen-fnc-getty1.jpg?ve=1&tl=1)
 
- ![Dallas one of the best cities in the country for dating, Fort Worth one of the worst, study finds](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/592/333/Dallas.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-fort-worth-dating-study)
+ ![Ellen DeGeneres shares three recent health diagnoses during special](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/ellen-fnc-getty1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellen-degeneres-netflix-special-ocd-adhd-osteoporosis)
 
-### [Dallas one of the best cities in the country for dating, Fort Worth one of the worst, study finds](https://www.fox4news.com/news/dallas-fort-worth-dating-study)
+### [Ellen DeGeneres shares three recent health diagnoses during special](https://www.fox4news.com/news/ellen-degeneres-netflix-special-ocd-adhd-osteoporosis)
 
- [![U-Haul offers free month of storage for Helene victims](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2175057100.jpg?ve=1&tl=1)
+ [![Officers shoot at suspect who rammed police cruisers with stolen vehicle, Irving PD says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/092824-IRVING-POLICE-CHASE-SHOOTING-BROLL_KDFW6b18_00.01.25.22.jpg?ve=1&tl=1)
 
- ![U-Haul offers free month of storage for Helene victims](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2175057100.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-victims-u-haul-free-month-storage)
+ ![Officers shoot at suspect who rammed police cruisers with stolen vehicle, Irving PD says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/092824-IRVING-POLICE-CHASE-SHOOTING-BROLL_KDFW6b18_00.01.25.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-police-shooting-tra-wastewater-plant-stolen-vehicle)
 
-### [U-Haul offers free month of storage for Helene victims](https://www.fox4news.com/news/helene-victims-u-haul-free-month-storage)
+### [Officers shoot at suspect who rammed police cruisers with stolen vehicle, Irving PD says](https://www.fox4news.com/news/irving-police-shooting-tra-wastewater-plant-stolen-vehicle)
 
- [![Salt Life brand closing all stores in US after bankruptcy sale](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2163622781.jpg?ve=1&tl=1)
+ [![Next tropical threat brewing in Caribbean with eyes on Gulf as development odds increase](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/8-pm.jpeg?ve=1&tl=1)
 
- ![Salt Life brand closing all stores in US after bankruptcy sale](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2163622781.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/salt-life-brand-closing-all-stores-bakruptcy-sale)
+ ![Next tropical threat brewing in Caribbean with eyes on Gulf as development odds increase](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/592/333/8-pm.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/next-tropical-threat-brewing-caribbean-eyes-gulf-mexico-development-odds-increase)
 
-### [Salt Life brand closing all stores in US after bankruptcy sale](https://www.fox4news.com/news/salt-life-brand-closing-all-stores-bakruptcy-sale)
+### [Next tropical threat brewing in Caribbean with eyes on Gulf as development odds increase](https://www.fox4news.com/news/next-tropical-threat-brewing-caribbean-eyes-gulf-mexico-development-odds-increase)
 
- [![Dallas paramedic dies after hit-and-run crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/ross-avenue-hit-and-run-crash.png?ve=1&tl=1)
+ [![Texas DPS trooper killed after being hit by vehicle in Ector County](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/Kevin-Ramirez-Vasquez.jpg?ve=1&tl=1)
 
- ![Dallas paramedic dies after hit-and-run crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/ross-avenue-hit-and-run-crash.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-daniela-fonseca-hit-and-run-crash)
+ ![Texas DPS trooper killed after being hit by vehicle in Ector County](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/Kevin-Ramirez-Vasquez.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dps-trooper-kevin-ramirez-vasquez-dead-ector-county-crash)
 
-### [Dallas paramedic dies after hit-and-run crash](https://www.fox4news.com/news/dallas-daniela-fonseca-hit-and-run-crash)
+### [Texas DPS trooper killed after being hit by vehicle in Ector County](https://www.fox4news.com/news/dps-trooper-kevin-ramirez-vasquez-dead-ector-county-crash)
 
 ###### [News](https://www.fox4news.com/news)
 
