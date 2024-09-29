@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/dr-anthony-fauci-binnenkort-voor-de-rechter/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/arend-zeevat-maakt-zich-ook-zorgen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
