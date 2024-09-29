@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![В благотворительной акции «Единой России» «Лучший друг» приняли участие более 17 тысяч человек](https://cdn.er.ru/media/news/September2024/ale7u2ohUCGTWuuAoOcy-small.jpg)](https://er.ru/activity/news/v-blagotvoritelnoj-akcii-edinoj-rossii-luchshij-drug-prinyali-uchastie-bolee-17-tysyach-chelovek)
+
+[В благотворительной акции «Единой России» «Лучший друг» приняли участие более 17 тысяч человек](https://er.ru/activity/news/v-blagotvoritelnoj-akcii-edinoj-rossii-luchshij-drug-prinyali-uchastie-bolee-17-tysyach-chelovek)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [зооприют](https://er.ru/activity/news?tags%5B0%5D=153053) [#Лучшийдруг](https://er.ru/activity/news?tags%5B0%5D=152557)
+
+Сегодня 17:01
+
+[![25 активистов «Молодой Гвардии Единой России» и «Волонтёрской Роты Боевого Братства» отправились добровольцами в зону СВО](https://cdn.er.ru/media/news/September2024/8RvuVTIZb5MmzpKwteV3-small.jpeg)](https://er.ru/activity/news/25-aktivistov-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-boevogo-bratstva-otpravilis-dobrovolcami-v-zonu-svo)
+
+[25 активистов «Молодой Гвардии Единой России» и «Волонтёрской Роты Боевого Братства» отправились добровольцами в зону СВО](https://er.ru/activity/news/25-aktivistov-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-boevogo-bratstva-otpravilis-dobrovolcami-v-zonu-svo)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#зона СВО](https://er.ru/activity/news?tags%5B0%5D=1094837)
+
+Сегодня 14:45
+
 [![«Единая Россия»: Выставку «Сила V правде – гордость и победа» в Сургуте в первый день посетили больше 10 тысяч человек](https://cdn.er.ru/media/news/September2024/4s7U1whZIQOVQfLIiPnp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-v-surgute-v-pervyj-den-posetili-bolshe-10-tysyach-chelovek)
 
 [«Единая Россия»: Выставку «Сила V правде – гордость и победа» в Сургуте в первый день посетили больше 10 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-v-surgute-v-pervyj-den-posetili-bolshe-10-tysyach-chelovek)
@@ -328,22 +344,6 @@
 [Владимир Якушев: Секретари первичек «Единой России» примут участие в Съезде партии](https://er.ru/activity/news/vladimir-yakushev-sekretari-pervichek-edinoj-rossii-primut-uchastie-v-sezde-partii)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кировская область](https://er.ru/activity/news?tags%5B0%5D=6033) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517) ["#съездЕР"](https://er.ru/activity/news?tags%5B0%5D=1092161) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Соколов](https://er.ru/activity/news?tags%5B0%5D=5287)
-
-27.09.24
-
-[![Владимир Якушев: В России должно появляться больше реабилитационных центров для участников СВО, подобных открытому в Кировской области](https://cdn.er.ru/media/news/September2024/qrW4C4mHdUXjIUxXhDwR-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-rossii-dolzhno-poyavlyatsya-bolshe-reabilitacionnyh-centrov-dlya-uchastnikov-svo-podobnyh-otkrytomu-v-kirovskoj-oblasti)
-
-[Владимир Якушев: В России должно появляться больше реабилитационных центров для участников СВО, подобных открытому в Кировской области](https://er.ru/activity/news/vladimir-yakushev-v-rossii-dolzhno-poyavlyatsya-bolshe-reabilitacionnyh-centrov-dlya-uchastnikov-svo-podobnyh-otkrytomu-v-kirovskoj-oblasti)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Азимов](https://er.ru/activity/news?tags%5B0%5D=85026) [#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#ФондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094096) [#Кировская область](https://er.ru/activity/news?tags%5B0%5D=6033) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#Соколов](https://er.ru/activity/news?tags%5B0%5D=5287) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-27.09.24
-
-[![«Молодая Гвардия Единой России» поздравила воспитателей по всей стране с профессиональным праздником](https://cdn.er.ru/media/news/September2024/sIeoiOrRXlm67PtAtt5I-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-vospitatelej-po-vsej-strane-s-professionalnym-prazdnikom)
-
-[«Молодая Гвардия Единой России» поздравила воспитателей по всей стране с профессиональным праздником](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-vospitatelej-po-vsej-strane-s-professionalnym-prazdnikom)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Деньвоспитателя](https://er.ru/activity/news?tags%5B0%5D=110796) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 27.09.24
 
