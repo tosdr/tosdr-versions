@@ -26,7 +26,9 @@
     
     Our daily coverage of the world of ideas](https://ideas.ted.com/)[Newsletters
     
-    Inspiration delivered straight to your inbox](https://www.ted.com/newsletters)
+    Inspiration delivered straight to your inbox](https://www.ted.com/newsletters)[TED Games
+    
+    Innovative games that challenge you to think differently](https://www.ted.com/games)
     
 * ATTEND
     
@@ -50,7 +52,7 @@
     
     Bring TED to the non-English speaking world](https://www.ted.com/participate/translate)[TED Fellows
     
-    Join or support innovators from around the globe](https://www.ted.com/participate/ted-fellows-program)
+    Join or support innovators from around the globe](https://fellows.ted.com/)
     
 * ABOUT
     
@@ -121,6 +123,7 @@ We encourage you to share TED Talks, under our Creative Commons license, or ( CC
 * **Video player:** You must use the TED embeddable player. This allows us to further our overall mission by tracking video usage. Scraping video from TED.com is not permitted.
 * **Attribution:** You must attribute TED as the owner of the TED Talk and add a visible link back to TED.com
 * **Running talks in their entirety:** You may not edit TED Talks, or alter them in any way, including by sharing truncated versions or clips. This is essential for preserving the integrity of the speaker's ideas.
+* **Lists on blogs and articles:** If you are posting a blog or article that contains curations of TED Talks that can be easily integrated by an organization into its learning program (e.g. talks relating to leadership, DEI, wellness, etc.), which constitutes commercial use, please include the following attribution and link to TED@Work: For more information on these topics and how TED can be used for corporate learning, please visit [https://tedatwork.ted.com](https://tedatwork.ted.com/?utm_source=ted_com&utm_medium=web&utm_campaign=usage_policy)/
 
 * * *
 
@@ -129,7 +132,7 @@ Commercial / Corporate Use
 
 Using a TED Talk in a commercial context requires a license. This type of use is not limited to uses that generate profit, but includes employee learning, on an intranet system, at a company event, in training materials, within a TED-branded video offering or editorial program, in tv/film including documentaries, in an online or virtual course, in a podcast, and more. Non-profit or educational institutions may also require licenses if the use is commercial in nature.
 
-To license TED Talks for use within your organization, we’ve created a new program called [TED@Work](https://tedatwork.ted.com/). This program is designed for organizations interested in using TED Talks for initiatives including Learning and Development, Leadership, or Diversity, Equity, and Inclusion (DE&I). [Learn more about TED@Work here](https://tedatwork.ted.com/) - you can make inquiries through a form on that page.
+To license TED Talks for use within your organization, we’ve created a new program called [TED@Work](https://tedatwork.ted.com/?utm_source=ted_com&utm_medium=web&utm_campaign=usage_policy). This program is designed for organizations interested in using TED Talks for initiatives including Learning and Development, Leadership, or Diversity, Equity, and Inclusion (DE&I). [Learn more about TED@Work here](https://tedatwork.ted.com/?utm_source=ted_com&utm_medium=web&utm_campaign=usage_policy) - you can make inquiries through a form on that page.
 
 A TED@Work license enables:
 
@@ -225,7 +228,7 @@ Explore
 
 * [TEDx](https://www.ted.com/about/programs-initiatives/tedx-program)
     
-* [TED Fellows](https://www.ted.com/about/programs-initiatives/ted-fellows-program)
+* [TED Fellows](https://fellows.ted.com/)
     
 * [TED Ed](https://www.ted.com/about/programs-initiatives/ted-ed)
     
@@ -248,7 +251,7 @@ Our community
 
 * [TED Speakers](https://www.ted.com/people/speakers)
     
-* [TED Fellows](https://www.ted.com/people/fellows)
+* [TED Fellows](https://fellows.ted.com/directory)
     
 * [TED Translators](https://www.ted.com/people/translators)
     
