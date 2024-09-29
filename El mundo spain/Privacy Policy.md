@@ -1,13 +1,13 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZvlZGgoAAVEAAABcGG8)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zvms-woAAVAAAABbY3g)
 
 Es noticia
 
 * [Nasrala](https://www.elmundo.es/internacional/2024/09/28/66f7ba41fc6c83927a8b4580.html)
-* [Osasuna - Barcelona](https://www.elmundo.es/deportes/futbol/primera-division/2024/09/28/66f86d2d21efa095398b459f.html)
+* [Atlético - Real Madrid](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/atletico-r-madrid/2024/09/29/01_0101_20240929_175_186-directo.html)
+* [RTVE oposición](https://www.elmundo.es/television/2024/09/29/66f9404721efa09e218b456e.html)
 * [Cayuco El Hierro](https://www.elmundo.es/espana/2024/09/29/66f8613fe4d4d852118b456f.html)
 * [Concha de Oro](https://www.elmundo.es/cultura/cine/2024/09/28/66f83721e9cf4a4a788b4573.html)
 * [Julián Álvarez](https://www.elmundo.es/deportes/futbol/primera-division/2024/09/28/66f58be221efa0b50c8b4587.html)
-* [Tráfico medicamentos](https://www.elmundo.es/madrid/2024/09/29/66f6b79de9cf4a71388b45a6.html)
 * [Los Chorbos](https://www.elmundo.es/madrid/2024/09/29/66f67c81e85ecefa1b8b4572.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/09/29/66f8dfea41c6010024224170-directo.html)
 * [Playa más popular](https://www.elmundo.es/viajes/espana/2024/09/28/66f549a4fdddff3f448b45b2.html)
