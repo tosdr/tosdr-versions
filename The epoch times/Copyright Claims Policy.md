@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://www.theepochtimes.com/world/us-indo-pacific-allies-hold-joint-maritime-exercises-in-south-china-sea-5732123)
+    
+    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US, Indo-Pacific Allies Hold Joint Maritime Exercises in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732126-GettyImages-577071418-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-indo-pacific-allies-hold-joint-maritime-exercises-in-south-china-sea-5732123)
+* [Israel Kills Another Senior Hezbollah Official After Taking Out Nasrallah](https://www.theepochtimes.com/world/hezbollah-confirms-7th-top-commander-killed-in-israeli-strikes-in-recent-days-5732112)
+    
+    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Israel Kills Another Senior Hezbollah Official After Taking Out Nasrallah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Kills Another Senior Hezbollah Official After Taking Out Nasrallah](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732137-Hezbollah-Israel-strike-AP24273337856156-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-confirms-7th-top-commander-killed-in-israeli-strikes-in-recent-days-5732112)
+* [Do Vice Presidential Debates Really Matter?](https://www.theepochtimes.com/us/do-vice-presidential-debates-really-matter-5728861)
+    
+    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Do Vice Presidential Debates Really Matter?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Do Vice Presidential Debates Really Matter?](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732143-Vance-Walz-205x123.jpg.webp)](https://www.theepochtimes.com/us/do-vice-presidential-debates-really-matter-5728861)
+* [Surfing, Sulfides, and Migraines: Life by the Tijuana River in San Diego](https://www.theepochtimes.com/us/surfing-sulfides-and-migraines-life-by-the-tijuana-river-in-san-diego-5729936)
+    
+    7hr By [John Fredricks](https://www.theepochtimes.com/author/john-fredricks)
+    
+    [![Surfing, Sulfides, and Migraines: Life by the Tijuana River in San Diego](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Surfing, Sulfides, and Migraines: Life by the Tijuana River in San Diego](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732108-Water-Pollution-1_JF_09192024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/surfing-sulfides-and-migraines-life-by-the-tijuana-river-in-san-diego-5729936)
+* [Homeschooling Numbers Continue to Climb After COVID-19 Pandemic: Report](https://www.theepochtimes.com/us/homeschooling-numbers-continue-to-climb-after-covid-19-pandemic-report-5727498)
+    
+    7hr By [Savannah Hulsey Pointer](https://www.theepochtimes.com/author/savannah-pointer)
+    
+    [![Homeschooling Numbers Continue to Climb After COVID-19 Pandemic: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Homeschooling Numbers Continue to Climb After COVID-19 Pandemic: Report](https://img.theepochtimes.com/assets/uploads/2022/02/08/girl-and-cat-205x123.jpg.webp)](https://www.theepochtimes.com/us/homeschooling-numbers-continue-to-climb-after-covid-19-pandemic-report-5727498)
 * [Voters in Battleground Michigan Split Over Trump, Harris](https://www.theepochtimes.com/article/voters-in-battleground-michigan-split-over-trump-harris-5731019)
     
-    9hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    15hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Voters in Battleground Michigan Split Over Trump, Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Voters in Battleground Michigan Split Over Trump, Harris](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731655-Michigan-Voters-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/voters-in-battleground-michigan-split-over-trump-harris-5731019)
 * [5 Memorable Vice Presidential Debates In US History](https://www.theepochtimes.com/us/5-memorable-vice-presidential-debates-in-us-history-5731679)
     
-    10hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    16hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
     [![5 Memorable Vice Presidential Debates In US History](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![5 Memorable Vice Presidential Debates In US History](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731883-GettyImages-83095512-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-memorable-vice-presidential-debates-in-us-history-5731679)
 * [US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://www.theepochtimes.com/world/us-cheers-hezbollah-leaders-death-grapples-with-potential-for-wider-war-5731909)
     
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    18hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Cheers Hezbollah Leader’s Death, Grapples With Potential for Wider War](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732103-GettyImages-83648422-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-cheers-hezbollah-leaders-death-grapples-with-potential-for-wider-war-5731909)
 * [Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Buffalo Racing](https://www.theepochtimes.com/article/day-in-photos-hezbollah-leader-killed-disaster-aftermath-and-iron-baffalo-racing-5731852)
     
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    18hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Buffalo Racing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Hezbollah Leader Killed, Disaster Aftermath, and Iron Buffalo Racing](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731973-GettyImages-2174241388-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-hezbollah-leader-killed-disaster-aftermath-and-iron-baffalo-racing-5731852)
-* [Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://www.theepochtimes.com/us/federal-government-postpones-auction-of-oregons-first-offshore-wind-leases-5731699)
+* [ICE: Over 425,000 Criminal Illegal Immigrants Not in Agency’s Custody, Including 13,099 Convicted Killers](https://www.theepochtimes.com/us/ice-over-425000-criminal-illegal-immigrants-not-in-agencys-custody-including-13099-convicted-killers-5731925)
     
-    14hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    19hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![ICE: Over 425,000 Criminal Illegal Immigrants Not in Agency’s Custody, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Government Postpones Auction of Oregon’s First Offshore Wind Leases](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666005-GettyImages-1407548865-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-government-postpones-auction-of-oregons-first-offshore-wind-leases-5731699)
-* [‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://www.theepochtimes.com/us/complete-obliteration-desantis-says-hurricane-helene-damage-worse-than-idalia-5731855)
-    
-    15hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘Complete Obliteration’: DeSantis Says Hurricane Helene Damage Worse Than Idalia](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731939-3.download-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/complete-obliteration-desantis-says-hurricane-helene-damage-worse-than-idalia-5731855)
-* [DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://www.theepochtimes.com/us/doj-urges-court-to-end-federal-oversight-of-new-orleans-police-reforms-5731753)
-    
-    17hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
-    
-    [![DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Urges Court to End Federal Oversight of New Orleans Police Reforms](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731940-New-Orleans-Parade-shooting-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-urges-court-to-end-federal-oversight-of-new-orleans-police-reforms-5731753)
-* [US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://www.theepochtimes.com/us/us-marshals-arrest-3421-violent-fugitives-in-nationwide-operation-5731868)
-    
-    17hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Marshals Arrested 3,421 Violent Fugitives in Nationwide Operation](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731941-53988373058_e9356fa461_k-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-marshals-arrest-3421-violent-fugitives-in-nationwide-operation-5731868)
-* [Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://www.theepochtimes.com/us/kentucky-sues-express-scripts-for-alleged-role-in-fueling-opioid-crisis-5731709)
-    
-    17hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
-    
-    [![Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Kentucky Sues Express Scripts for Alleged Role in Fueling Opioid Crisis](https://img.theepochtimes.com/assets/uploads/2024/02/02/id5579181-OxyContin-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/kentucky-sues-express-scripts-for-alleged-role-in-fueling-opioid-crisis-5731709)
-* [Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://www.theepochtimes.com/us/wisconsin-supreme-court-rejects-rfk-jr-bid-to-get-his-name-off-state-ballot-5731727)
-    
-    18hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wisconsin Supreme Court Rejects RFK Jr. Bid to Get His Name Off State Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723186-09102024-DSC08867-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-supreme-court-rejects-rfk-jr-bid-to-get-his-name-off-state-ballot-5731727)
+    ![ICE: Over 425,000 Criminal Illegal Immigrants Not in Agency’s Custody, Including 13,099 Convicted Killers](https://img.theepochtimes.com/assets/uploads/2024/05/02/id5641985-03252024-DSC00443-ICE-DHS-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/ice-over-425000-criminal-illegal-immigrants-not-in-agencys-custody-including-13099-convicted-killers-5731925)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
