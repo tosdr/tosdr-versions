@@ -475,13 +475,17 @@ Revised June 1, 2022
 
   [![Toyota Chairman Akio Toyoda](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424472.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toyota Chairman Akio Toyoda")](https://www.japantimes.co.jp/business/2024/09/27/companies/toyota-ends-olympics-sponsorship/ "Toyota ends sponsorship with 'political' Olympics")
 
+[Japan, U.S. partners hold dueling military drills with China in South China Sea](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
+
+  [![The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424522.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Maritime Self-Defense Force destroyer Sazanami leaves Sasebo Naval Base in Saikai, Nagasaki Prefecture, in April 2012.")](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/us-japan-partners-china-south-china-sea/ "Japan, U.S. partners hold dueling military drills with China in South China Sea")
+
 [Yen rallies as Ishiba beats Takaichi in LDP race](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
 
   [![New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424437.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "New Liberal Democratic Party leader Shigeru Ishiba (right), economic security minister Sanae Takaichi (left) and Prime Minister Fumio Kishida celebrate after Ishiba won the LDP leadership race on Friday in Tokyo.")](https://www.japantimes.co.jp/business/2024/09/27/markets/ldp-race-market-reactions/ "Yen rallies as Ishiba beats Takaichi in LDP race")
 
-[Japan fine-tunes issuance of humanitarian visas](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
+[NHK furthers global reach with Tiny Desk Concerts Japan](https://www.japantimes.co.jp/culture/2024/09/28/music/koshi-inaba-tiny-desk-concerts-japan/ "NHK furthers global reach with Tiny Desk Concerts Japan")
 
-  [![Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/424405.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Justice Minister Ryuji Koizumi speaks to reporters in Tokyo on Friday. Koizumi stressed that the granting of the special residency permits to children subjected to deportation orders was a one-time measure.")](https://www.japantimes.co.jp/news/2024/09/27/japan/politics/moj-myanmar-deportation/ "Japan fine-tunes issuance of humanitarian visas")
+  [![Musician Koshi Inaba is the latest artist to be featured on national broadcaster NHK’s Tiny Desk Concerts Japan. Based on a series from America’s National Public Radio, Japan’s version has spotlighted acts that you likely wouldn’t see stateside, like veteran rockers Kirinji and upstart pop artist yama.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/28/424179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Musician Koshi Inaba is the latest artist to be featured on national broadcaster NHK’s Tiny Desk Concerts Japan. Based on a series from America’s National Public Radio, Japan’s version has spotlighted acts that you likely wouldn’t see stateside, like veteran rockers Kirinji and upstart pop artist yama.")](https://www.japantimes.co.jp/culture/2024/09/28/music/koshi-inaba-tiny-desk-concerts-japan/ "NHK furthers global reach with Tiny Desk Concerts Japan")
 
 [Tokyo Game Show 2024 stacked with big returns and hyped announcements](https://www.japantimes.co.jp/life/2024/09/26/digital/tokyo-game-show-2024/ "Tokyo Game Show 2024 stacked with big returns and hyped announcements")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [Weather makes for an unpredictable artist at Nagano art festival](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
 
   [![“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/27/423917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "“A Whisper in the Eye of the Storm,” by Canadian artists Caitlind R. C. Brown and Wayne Garrett is an outdoor installation of around 14,000 recycled lenses of varied prescriptions. ")](https://www.japantimes.co.jp/culture/2024/09/27/art/northern-alps-art-festival/ "Weather makes for an unpredictable artist at Nagano art festival")
-
-[A first look inside the new Nintendo Museum](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
-
-  [![The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/25/423852.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Nintendo Museum opens to the public on Oct. 2, but unlike the company's all-ages games, the new attraction may be geared more toward older rather than younger gamers.")](https://www.japantimes.co.jp/life/2024/09/25/travel/nintendo-museum-kyoto-uji-review/ "A first look inside the new Nintendo Museum")
 
 Podcast
 -------
@@ -564,17 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64](https://www.japantimes.co.jp/news/2024/09/28/world/hassan-nasrallah-dead/ "Hassan Nasrallah, Iran’s man atop Hezbollah, dead at 64")
+[Nasrallah's killing reveals depth of Israel's penetration of Hezbollah](https://www.japantimes.co.jp/news/2024/09/29/world/israel-hezbollah-penetration-focus/ "Nasrallah's killing reveals depth of Israel's penetration of Hezbollah")
 
-9 hours ago
+2 hours ago
 
-[Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut](https://www.japantimes.co.jp/news/2024/09/28/world/israel-says-hassan-nasrallah-dead/ "Hezbollah chief Hassan Nasrallah killed in Israeli strike on Beirut")
+[Netanyahu ratchets up challenge to Iran with Nasrallah killing](https://www.japantimes.co.jp/news/2024/09/29/world/israel-netanyahu-nasrallah-iran/ "Netanyahu ratchets up challenge to Iran with Nasrallah killing")
 
-[Many still in evacuation shelters after heavy rain in Ishikawa](https://www.japantimes.co.jp/news/2024/09/28/japan/ishikawa-evacuation-rain/ "Many still in evacuation shelters after heavy rain in Ishikawa")
+2 hours ago
 
-[Kobayashi Pharma sued in Taiwan over beni kōji products](https://www.japantimes.co.jp/business/2024/09/28/kobayashi-pharma-sued-taiwan/ "Kobayashi Pharma sued in Taiwan over beni kōji products")
+[Hezbollah leader's death is 'measure of justice' for his victims, Biden says](https://www.japantimes.co.jp/news/2024/09/29/world/politics/hezbollah-nasrallah-killing-biden/ "Hezbollah leader's death is 'measure of justice' for his victims, Biden says")
 
-[After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'](https://www.japantimes.co.jp/news/2024/09/28/asia-pacific/politics/blinken-wang-china-ukraine/ "After meeting, Blinken says Beijing's talk of Ukraine peace 'doesn't add up'")
+2 hours ago
+
+[U.S. southeast faces daunting cleanup from Helene as death toll rises](https://www.japantimes.co.jp/news/2024/09/29/world/storm-helene-us-southeast/ "U.S. southeast faces daunting cleanup from Helene as death toll rises")
+
+3 hours ago
+
+[China's 'red collectors' cherish bygone Maoist era](https://www.japantimes.co.jp/news/2024/09/29/asia-pacific/china-red-collectors/ "China's 'red collectors' cherish bygone Maoist era")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
