@@ -321,14 +321,6 @@ Umfrage
 
 Feedback geben und gewinnen! Füllen Sie die Umfrage aus und sichern Sie sich tolle Preise.](https://homematic-ip.com/de/umfrage)
 
-[Sept.
-
-26-28
-
-Event
-
-BAUHAUS Hamburg-Moorfleet: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-09-26-bauhaus-hamburg-moorfleet)
-
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/eula)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/eula)
 *  [![FR](/modules/contrib/languageicons/flags/fr.png "FR") FR](https://homematic-ip.com/fr/cluf)
