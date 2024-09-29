@@ -142,7 +142,7 @@ Player Support
 
 [Community Hub](https://steamcommunity.com/app/962730)
 
-![](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
+![](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
 
 Skater XL - The Ultimate Skateboarding Game
 
@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (56) \- 87% of the 56 user reviews in the last 30 days are positive.
+Very Positive (58) \- 86% of the 58 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,111) \- 86% of the 18,111 user reviews for this game are positive.    
+Very Positive (18,113) \- 86% of the 18,113 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,111) All Time
+Very Positive (86% of 18,113) All Time
 
 Recent Reviews:
 
-Very Positive (87% of 56) Recent
+Very Positive (86% of 58) Recent
 
 ![](https://store.akamai.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -449,7 +449,7 @@ System Requirements
 What Curators Say
 -----------------
 
-108 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+99 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -458,28 +458,28 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,111 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,113 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Very Positive (56 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (58 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,242)  
- Positive (16,558)  
- Negative (2,684)
+ All (19,245)  
+ Positive (16,560)  
+ Negative (2,685)
 
 Purchase Type
 
- All (19,242)  
- Steam Purchasers (18,111) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,131) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ All (19,245)  
+ Steam Purchasers (18,113) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ Other (1,132) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,242)  
- Your Languages (13,304) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,245)  
+ Your Languages (13,306) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
