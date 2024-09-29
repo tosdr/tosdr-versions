@@ -177,6 +177,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Gallery: 2024 America Match At NRA Whittington Center](https://www.thegunpage.com/gallery-2024-america-match-at-nra-whittington-center/10610878)
 * [Silencer Saturday #348: Suppressing The Uzi](https://www.thegunpage.com/silencer-saturday-348-suppressing-the-uzi/10610876)
 * [Lauryl Akenhead Claims Ladies Title At 2024 International Precision Rifle Federation Centerfire World Championship](https://www.thegunpage.com/lauryl-akenhead-claims-ladies-title-at-2024-international-precision-rifle-federation-centerfire-world-championship/10610874)
 * [TFB Review: TYPE A M110 Restomod](https://www.thegunpage.com/tfb-review-type-a-m110-restomod/10610873)
@@ -186,7 +187,6 @@ Recent Posts
 * [TFB Podcast Roundup 148: The September 27th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-148-the-september-27th-roundup/10610863)
 * [TFB Review: MKE MP5 Style Retractable Buttstock](https://www.thegunpage.com/tfb-review-mke-mp5-style-retractable-buttstock/10610864)
 * [They’re Baaackkk: Slide Fire Relaunches](https://www.thegunpage.com/theyre-baaackkk-slide-fire-relaunches/10610860)
-* [Sig Sauer Introduces The Reserve Collection P226 XFive](https://www.thegunpage.com/sig-sauer-introduces-the-reserve-collection-p226-xfive/10610858)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* [Bill](http://conservativedailynews.com/) on [Trump Correctly Says Foreign Countries Are Emptying Thier Prisons into the US](https://www.conservativedailynews.com/2024/09/trump-correctly-says-foreign-countries-are-emptying-thier-prisons-into-the-us/#comment-782365)
 * Senaida Collee on [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/#comment-782352)
 * WIL DELITO on [Trump Announces Return to Site Of Butler Assassination Attempt to Hold Rally](https://www.conservativedailynews.com/2024/09/trump-announces-return-to-site-of-butler-assassination-attempt-to-hold-rally/#comment-782339)
 * James Callahan on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782334)
@@ -236,7 +237,6 @@ Recent Comments
 * Catboss on [The Greatest Scandal in Modern American History That No One Cares About](https://www.conservativedailynews.com/2024/09/the-greatest-scandal-in-modern-american-history-that-no-one-cares-about/#comment-782304)
 * KayCee on [Alan Dershowitz Says Feds May Not Be Able To Prosecute Would-Be Trump Assassin For Attempted Assassination](https://www.conservativedailynews.com/2024/09/alan-dershowitz-says-feds-may-not-be-able-to-prosecute-would-be-trump-assassin-for-attempted-assassination/#comment-782296)
 * KayCee on [Full House](https://www.conservativedailynews.com/2024/09/full-house-2/#comment-782295)
-* KayCee on [Automakers Hit Reverse On Idealistic Electric Vehicle Targets Despite Billions In Biden-Harris Subsidies](https://www.conservativedailynews.com/2024/09/automakers-hit-reverse-on-idealistic-electric-vehicle-targets-despite-billions-in-biden-harris-subsidies/#comment-782294)
 
 [Close](#)
 
