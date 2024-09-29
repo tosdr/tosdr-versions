@@ -19,6 +19,19 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+    
+    ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+    
+    [![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-360x180.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
+    
+    ### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
+    
+    [![Residents of Nine Albert Embankment pose for photos outside their apartment. 
+    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Residents-of-the-apartment-block-360x180.jpg)](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
+    
+    ### [Residents slam millionaire hotel owner’s late night bar plan](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
     
     ### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
@@ -44,18 +57,6 @@
     [![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
     
     ### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
-    
-    [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-360x180.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-    
-    ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-    
-    [![Cleaners protesting the action outside the council offices on Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC05211-360x180.png)](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
-    
-    ### [Exclusive: ‘How could they do this to us?’: Council’s cleaners say they are in limbo after being told their hours could be cut](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
-    
-    ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -101,6 +102,19 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-360x180.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+    
+    ### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+    
+    [![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-360x180.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
+    
+    ### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
+    
+    [![Residents of Nine Albert Embankment pose for photos outside their apartment. 
+    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Residents-of-the-apartment-block-360x180.jpg)](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
+    
+    ### [Residents slam millionaire hotel owner’s late night bar plan](https://southwarknews.co.uk/area/south-london/residents-slam-millionaire-hotel-owners-late-night-bar-plan/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
     
     ### [Herne Hill to undergo spooky transformation this Halloween](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
@@ -126,18 +140,6 @@ View All Result
     [![Bebe with her lifesize cardboard cutout of her idol, Jeff Goldblum.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bebe-and-Jeff-scaled-e1727446536335-360x180.jpg)](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
     
     ### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
-    
-    [![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-360x180.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-    
-    ### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-    
-    [![Cleaners protesting the action outside the council offices on Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC05211-360x180.png)](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
-    
-    ### [Exclusive: ‘How could they do this to us?’: Council’s cleaners say they are in limbo after being told their hours could be cut](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mikes-funeral-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
-    
-    ### [Hundreds pack into St George’s Cathedral for the funeral of Mike McKenna](https://southwarknews.co.uk/area/bermondsey/hundreds-pack-into-st-georges-cathedral-for-the-funeral-of-mike-mckenna/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -358,6 +360,12 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
 
+[![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+[29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
 [![A general view of the Maryon Grove estate London, Britain 18 August 2023. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/FMA_MYL_10949-120x86.jpg)](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
 
 ### [Cut to council homes in new Woolwich estate](https://southwarknews.co.uk/area/south-london/cut-to-council-homes-in-new-woolwich-estate/)
@@ -370,13 +378,19 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [27th September 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-says-leaking-pipe-has-had-more-photos-than-sophia-loren-as-council-fails-to-fix-it-after-five-years/)
 
-[![Oliver Bromley, 42.](https://southwarknews.co.uk/wp-content/uploads/2024/09/me-e1727189902864-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-
-### [Exclusive: Man with disfigurement speaks out after claiming he was denied entry from a restaurant due to his physical appearance](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-
-[24th September 2024](https://southwarknews.co.uk/news/community/exclusive-man-with-disfigurement-speaks-out-after-claiming-he-was-denied-entry-from-a-restaurant-due-to-his-physical-appearance/)
-
 ### Featured Articles
+
+[![(credit: Tracy Kawalik, X)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-29-09-2024-at-12.59-e1727611227419-120x86.jpg)](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+### [Body found in Thames confirmed as missing Southwark woman](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+[29th September 2024](https://southwarknews.co.uk/area/southwark/body-found-in-thames-confirmed-as-missing-southwark-woman/)
+
+[![Fergus Greer, Leigh Bowery Session I Look 2 1988 © Fergus Greer](https://southwarknews.co.uk/wp-content/uploads/2024/09/Leigh_Bowery.width-1200-e1727425779436-120x86.jpg)](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
+
+### [Tate Modern announces Leigh Bowery exhibition celebrating life and work of the ’80s clubbing icon](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
+
+[29th September 2024](https://southwarknews.co.uk/area/borough/tate-modern-announces-leigh-bowery-exhibition-celebrating-life-and-work-of-the-80s-clubbing-icon/)
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/1584979-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-to-undergo-spooky-transformation-this-halloween/)
 
@@ -401,18 +415,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Borough TikToker’s song gets seal of approval from Hollywood actor](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
 
 [28th September 2024](https://southwarknews.co.uk/area/borough/borough-tiktokers-song-gets-seal-of-approval-from-hollywood-actor/)
-
-[![Computer generated image of what the finished development could look like. Image provided by HG Construction](https://southwarknews.co.uk/wp-content/uploads/2024/09/Computer-generated-image-of-what-the-finished-development-could-look-like.-Image-provided-by-HG-Construction-120x86.png)](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-
-### [Massive 262-apartment towers begin construction on Old Kent Road](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-
-[27th September 2024](https://southwarknews.co.uk/area/bermondsey/massive-262-apartment-towers-begin-construction-on-old-kent-road/)
-
-[![Cleaners protesting the action outside the council offices on Tooley Street.](https://southwarknews.co.uk/wp-content/uploads/2024/09/DSC05211-120x86.png)](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
-
-### [Exclusive: ‘How could they do this to us?’: Council’s cleaners say they are in limbo after being told their hours could be cut](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
-
-[27th September 2024](https://southwarknews.co.uk/news/community/exclusive-how-could-they-do-this-to-us-councils-cleaners-in-limbo-after-being-told-their-hours-could-be-cut/)
 
 ### USEFUL PAGES
 
