@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Average-Leg-by-WinLose.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
+[![incumbency](/assets/logos/SuccessRateContestedGeneral2005-2010.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2009-2010-state-elections)
+
+The power of incumbency and money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
