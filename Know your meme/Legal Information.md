@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![God Gives His Hardest Battles To His Best Know Your Meme Commenters In This Format](https://i.kym-cdn.com/featured_items/icons/wide/000/026/065/8675309.jpg "The Idea That 'God Gives His Hardest Battles To His Strongest Soldiers' Began Spreading Online On This Day In 2009")
+* [![Ralph In Danger Becomes Fresh New Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/077/Screen_Shot_2018-03-30_at_11.34.27_AM.png "Ralph Has Been In Danger For Ten Years")
     
-    The Idea That 'God Gives His Hardest Battles To His Strongest Soldiers' Began Spreading Online On This Day In 2009](https://knowyourmeme.com/memes/god-gives-his-hardest-battles-to-his-strongest-soldiers)
+    Ralph Has Been In Danger For Ten Years](https://knowyourmeme.com/memes/ralph-in-danger-im-in-danger)
     
-* [![Twitter Users Are Sharing Life's 'Joys' In Weirdly Wholesome NKYS Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/064/nkycover.jpg "Twitter Users Are Sharing Life's 'Joys' In Weirdly Wholesome NKYS Trend")
+* [!['Almost Friday' Has Been A Simple But Honest Thursday Format For Five Years](https://i.kym-cdn.com/featured_items/icons/wide/000/026/076/cover2.jpg "'Almost Friday' Has Been A Simple But Honest Thursday Format For Five Years")
     
-    Twitter Users Are Sharing Life's 'Joys' In Weirdly Wholesome NKYS Trend](https://knowyourmeme.com/memes/never-kill-yourself)
+    'Almost Friday' Has Been A Simple But Honest Thursday Format For Five Years](https://knowyourmeme.com/memes/almost-friday-almost-paranoid)
     
-* [![TikTok Chad Face](https://i.kym-cdn.com/featured_items/icons/wide/000/026/063/chadface.jpg "This Particular 'Chad Face' Turns Four Years Old Today")
+* [![Dr. Phil, Quoting an Angry Teen, Demands $200 In His Latest Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/075/maxresdefault.jpg "Happy Anniversary To Dr. Phil Reading 'You're Ugly, You're Disgusting, Give Me $200.'")
     
-    This Particular 'Chad Face' Turns Four Years Old Today](https://knowyourmeme.com/memes/chad-face)
+    Happy Anniversary To Dr. Phil Reading 'You're Ugly, You're Disgusting, Give Me $200.'](https://knowyourmeme.com/memes/youre-ugly-youre-disgusting)
     
-* [!['The Storyteller' Has Become A Staple In The 'Fallout' Fandom](https://i.kym-cdn.com/featured_items/icons/wide/000/026/062/storyteller.jpg "The Voice Behind The Fallout Content Creator 'The Storyteller' Sadly Declared Dead, Leaving A Large Legacy Behind")
+* [![Hopecore is a meme trend on TikTok that originated in late 2023 going into 2024. The aesthetic TikTok -core features feel-good or "hopeful" edits splicing together videos of people doing wholesome things. Early hopecore videos often revolved around sports clips and interviews, while later hopecore videos tended to be more wholesome, featuring animals and children. Later hopecore videos also often feature the phrase "life is beautiful" across each clip. Popular artists in the "hopecore" repertoire are Bob Marley, Neil Diamond, Frank Sinatra, and other older artists. The "hopecore" trend is similar to memes about the indomitable human spirit. Other "-core": trends on TikTok include stresscore, and pinkcore.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/074/core.jpg "'Hopecore' Is The Latest TikTok Video Editing Trend, Following In The Footsteps of Corecore and Pinkcore")
     
-    The Voice Behind The Fallout Content Creator 'The Storyteller' Sadly Declared Dead, Leaving A Large Legacy Behind](https://knowyourmeme.com/memes/subcultures/the-storyteller)
+    'Hopecore' Is The Latest TikTok Video Editing Trend, Following In The Footsteps of Corecore and Pinkcore](https://knowyourmeme.com/memes/hopecore)
     
-* [![ 'Whole House Mad:' Chaotic Picture Becomes Viral Reaction Meme Among Fandoms On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/061/whole_house_mad_cover.jpg " 'Whole House Mad:' Chaotic Picture Becomes Viral Reaction Meme Among Fandoms On Social Media")
+* [!["We Didn't Start The Fire" Parodies](https://i.kym-cdn.com/featured_items/icons/wide/000/026/073/snp32hxasxv3cxud2kgu.jpg "Happy Anniversary To 'We Didn't Start The Fire,' An Excellent Vehicle For Memes Regardless Of What You Think Of The Song")
     
-    'Whole House Mad:' Chaotic Picture Becomes Viral Reaction Meme Among Fandoms On Social Media](https://knowyourmeme.com/memes/whole-house-mad)
+    Happy Anniversary To 'We Didn't Start The Fire,' An Excellent Vehicle For Memes Regardless Of What You Think Of The Song](https://knowyourmeme.com/memes/we-didnt-start-the-fire)
     
 
 ##### Also Trending:
 
-[Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments") [Mrs. Incredible Fortnite Skin](https://knowyourmeme.com/memes/mrs-incredible-fortnite-skin "Mrs. Incredible Fortnite Skin") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [The Storyteller](https://knowyourmeme.com/memes/subcultures/the-storyteller "The Storyteller")
+[Chappell Roan Kamala Harris Comments](https://knowyourmeme.com/memes/events/chappell-roan-kamala-harris-comments "Chappell Roan Kamala Harris Comments") [Mrs. Incredible Fortnite Skin](https://knowyourmeme.com/memes/mrs-incredible-fortnite-skin "Mrs. Incredible Fortnite Skin") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
