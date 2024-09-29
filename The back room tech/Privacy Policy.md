@@ -45,7 +45,7 @@ Go
 
 [![The Back Room Tech logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png.webp)](https://thebackroomtech.com/ "The Back Room Tech")
+![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png)](https://thebackroomtech.com/ "The Back Room Tech")
 
 Privacy Policy
 ==============
@@ -103,31 +103,31 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
+    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.webp)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.webp)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
 
 #### Random Posts
 
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2024'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/rwinsta-80x24.jpg.optimal.jpg)](https://thebackroomtech.com/2008/04/09/howto-remotely-disconnect-a-terminal-services-session/ "How to Remotely Disconnect a Terminal Services Session")[How to Remotely Disconnect a Terminal Services Session](https://thebackroomtech.com/2008/04/09/howto-remotely-disconnect-a-terminal-services-session/ "How to Remotely Disconnect a Terminal Services Session")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2032'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/dism-target-editions-80x32.png)](https://thebackroomtech.com/2019/03/21/upgrade-windows-server-from-evaluation-to-full/ "Upgrade Windows Server from Evaluation to Full")[Upgrade Windows Server from Evaluation to Full](https://thebackroomtech.com/2019/03/21/upgrade-windows-server-from-evaluation-to-full/ "Upgrade Windows Server from Evaluation to Full")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/azure-web-sites-80x44.png)](https://thebackroomtech.com/2018/08/27/deploying-a-web-app-in-azure-app-services/ "Deploying a Web App in Azure App Services")[Deploying a Web App in Azure App Services](https://thebackroomtech.com/2018/08/27/deploying-a-web-app-in-azure-app-services/ "Deploying a Web App in Azure App Services")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/networking-1626665_640-80x45.jpg.webp)](https://thebackroomtech.com/2019/07/20/how-to-encrypt-data-in-amazon-s3/ "How To Encrypt Data In Amazon S3")[How To Encrypt Data In Amazon S3](https://thebackroomtech.com/2019/07/20/how-to-encrypt-data-in-amazon-s3/ "How To Encrypt Data In Amazon S3")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2069%2052'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/ntp-server-69x52.jpeg.webp)](https://thebackroomtech.com/2021/03/10/how-to-install-ntp-server-on-windows-server-2019/ "How to Install NTP Server on Windows Server 2019")[How to Install NTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/10/how-to-install-ntp-server-on-windows-server-2019/ "How to Install NTP Server on Windows Server 2019")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/findipaddress_thumb-80x34.png.webp)](https://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/ "Determine IP Address From a MAC Address")[Determine IP Address From a MAC Address](https://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/ "Determine IP Address From a MAC Address")
+    ![](https://s11921.pcdn.co/wp-content/uploads/Oracle-Logo-80x45.png)](https://thebackroomtech.com/2021/03/08/how-to-install-oracle-database-12c-on-windows/ "How to Install Oracle Database 12c on Windows")[How to Install Oracle Database 12c on Windows](https://thebackroomtech.com/2021/03/08/how-to-install-oracle-database-12c-on-windows/ "How to Install Oracle Database 12c on Windows")
 
 #### Our Publishing Family
 
