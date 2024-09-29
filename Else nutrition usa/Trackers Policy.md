@@ -166,6 +166,7 @@ elsenutrition
     
     ### Our Pediatric Experts
     
+* [Find a Store](https://elsenutrition.com/pages/find-a-store)
 
 [Shop Now](https://elsenutrition.com/collections/all)
 
@@ -265,6 +266,7 @@ Menu
         * [Investors](https://investors.elsenutrition.com/)
         
     
+* [Find a Store](https://elsenutrition.com/pages/find-a-store)
 * [Log in](https://elsenutrition.com/account/login)
 
 *  [![baby](https://cdn.shopify.com/s/files/1/0292/6385/5675/files/baby_c319d453-cd65-4090-bc68-ba4e25e9c7d2.png) Baby](https://elsenutrition.com/collections/baby)
@@ -353,6 +355,7 @@ Menu
         * [Investors](https://investors.elsenutrition.com/)
         
     
+* [Find a Store](https://elsenutrition.com/pages/find-a-store)
 * [Log in](https://elsenutrition.com/account/login)
 
 Your cart
