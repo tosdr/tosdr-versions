@@ -123,11 +123,11 @@ If you have any more questions regarding privacy matters while using our site, p
     
 * ### [The Tyrant (2024)](https://dramanice.ws/the-tyrant-2024/)
     
-* ### [Serendipity’s Embrace (2024)](https://dramanice.ws/serendipity-s-embrace-2024/)
-    
 * ### [No Way Out: The Roulette (2024)](https://dramanice.ws/no-way-out-the-roulette-2024/)
     
 * ### [Romance in the House (2024)](https://dramanice.ws/romance-in-the-house-2024/)
+    
+* ### [Serendipity’s Embrace (2024)](https://dramanice.ws/serendipity-s-embrace-2024/)
     
 * ### [Lost You Forever Season 2 (2024)](https://dramanice.ws/lost-you-forever-season-2-2024/)
     
