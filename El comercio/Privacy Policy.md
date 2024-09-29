@@ -31,6 +31,257 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¡Incendios! ¿Y el periodismo?
+=============================
+
+¿Por qué no se colocan en el debate público las cifras de deforestación nacional y su relación directa con la sequía?
+---------------------------------------------------------------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+Entre la **indignación** y la **tristeza** de los **incendios** en **Quito**, cuyo olor a muerte aún penetra en la nariz, me pregunto: ¿dónde está el **periodismo**? Y no me refiero a los **reporteros**, llaneros solitarios, ellos y ellas, que van a las **zonas** de **desastre**, mientras enfrentan desde el rechazo de la gente hasta los peligros reales de los **riesgos** que cubren.
+
+Me refiero a los **editores** y **directores** de los **medios** de **comunicación**, cuya responsabilidad no termina en asignar los puntos de **cobertura**, sino que deben **procesar** los **reportes** y explicarlos para la gente que no tiene acceso a esa cantidad de **información** privilegiada.
+
+¿Se fueron a dormir? A la nueve de la noche del martes, mientras Quito ardía en llamas, unos pocos muchachos –unos **periodistas** y otros no– informaban en **redes sociales** lo que estaba sucediendo la ciudad. ¿La televisión? ¡Novelas! ¿La radio? ¡Música! ¿Por qué no hablamos de lo que está pasando? ¿Cómo podemos retirarnos de la **transmisión** sin decir una palabra mientras **Quito** es un **infierno**?
+
+¿Por qué no se colocan en el **debate público** las cifras de **deforestación nacional** y su relación directa con la **sequía**? ¿Por qué no se pone sobre la mesa la forma en que se queman los **pajonales**, que almacenan y recolectan el **agua** del **ecosistema andino**, para volverlos **zonas agrícolas** y de pastoreo? ¿Por qué no se habla de la tala de **bosques** hecha en Quito para favorecer grandes **proyectos inmobiliarios**?
+
+Un **periodismo** declarativo, acostumbrado a recoger los dichos de las **autoridades** recibe sin inmutarse la afirmación de un **ministro** de **Energía** que al hablar de la **sequía** dice que “solo Dios sabe” cuándo se arreglará –con una **simplicidad** evangélica que raya en el **cinismo**– y otra del alcalde que califica a los **incendios** de “**actos terroristas** y **criminales**”, sin dar más explicaciones. Es trabajo del **periodismo** ir más allá de los decires y, con una **visión** amplia que no termina en la **declaración** del **político** de turno, explicar las causas del caos que vive el **país**.
+
+Turismo y remesas
+=================
+
+El impacto de la migración y las remesas de los ecuatorianos en el extranjero.
+------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+Si asumimos que cada **venezolano** en el **exilio** envía 100 dólares mensuales a sus familias en **Venezuela**, los 7 millones que abandonaron su **patria**, reportan un ingreso superior a los 8 mil millones de dólares anuales. Si la diáspora continúa y se duplica, podremos presumir unos 16 mil millones anuales que ingresarían al país “bolivariano” que suplirán el papel del Estado en la reducción de la **pobreza**, **inversiones locales**, creación de empleo, **estabilidad** macroeconómica y **bienestar** en general, para aquellos que tienen el **privilegio** de recibir un billete verde que se convierte en miles de monedas locales.
+
+Esto lo tiene bien claro la izquierda, por lo que quebrar un país no necesariamente es malo, al contrario, obliga a su **población laboral** a migrar, trabajar en **países extranjeros** y enviar dólares para fortalecer la **reserva monetaria**, que pueden ser incautados a un cambio “oficial”; además que facilita el manejo perpetuo del poder, mantener una **burocracia celestial** y el usufructo de las **riquezas** de la **nación** gracias a un **ejército** completamente mixturado con la **delincuencia**.
+
+La **migración masiva** que vive el Ecuador en estos momentos, tampoco es que importe al resto de **partidos políticos** que no se declaran de izquierda, pero tampoco son de derecha, **tendencia política** que en Ecuador está vedada, ya que se ha catequizado por todos los medios existentes y por décadas, que esta tendencia está ligada al **machismo patriarcal**, al **neoliberalismo**, el **capitalismo** depredador, el **imperialismo**; acusaciones que nadie está dispuesto a desvirtuar, ya que es más rentable electoralmente disfrazarse de izquierda y “gobernar para los pobres” que crecen en grandes masas de **votantes** que son mimadas, cuidadas y consentidas. En Europa a los **partidos** de **derecha** les tildan de nacionalistas de extrema derecha conformada por **racistas**, supremacistas que vienen a destruir la **democracia**, lo que permite a la **derecha** y a la **izquierda** alternarse en el poder sin dejar espacio a otras **tendencias**.
+
+Ningún **partido** actual en **Ecuador** oferta beneficios para la **clase media** y el ser rico es un pecado imperdonable en todas nuestras **tendencias** políticas, a pesar de que todas las **dirigencias** partidistas están conformadas por personas de vidas muy cómodas, con visa americana, ropa de marca, vehículos de alta gama, cuyos seguidores ven la solución a sus **problemas económicos** en un **puesto público** donde se puedan enriquecer en no más de un año. Luego viene el: usted ya comió, deje espacio para que coma otro.
+
+Las **remesas** de **ecuatorianos** que jamás disfrutarán de las casas que aquí se construyen con su **esfuerzo** y sacrificio, aumentarán los próximos años, independientemente de quién gane las **elecciones** y cuando visiten **Ecuador** lo harán con **pasaporte extranjero** y los contabilizaremos como “**turistas**”.  
+
+Cartas a Quito / 29 de septiembre de 2024
+=========================================
+
+Estas son las cartas a Quito de este domingo 29 de septiembre de 2024
+---------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Asamblea exige soluciones inmediatas a crisis energética
+--------------------------------------------------------
+
+Ante la magnitud de la crisis energética, lo único que se le ocurre a la Asamblea _es exigir soluciones inmediatas_, sin detenerse a analizar, con algo de responsabilidad, las múltiples causas que originan la crisis para propiciar, dentro sus competencias, soluciones de corto, mediano y largo plazo.
+
+La Asamblea no se detiene a analizar la legislación que regula el funcionamiento de las ineficientes y corruptas empresas públicas relacionadas con la generación, distribución y comercialización de la energía eléctrica; el efecto negativo de los sindicatos en la gestión de las empresas y la necesidad de controlarlas legalmente; la apertura a la participación de la empresa privada como se realiza en Colombia por iniciativa de anteriores administraciones, que le ha permitido al gobierno de ese país atenuar la sequía que también afecta la operación de sus hidroeléctricas; la protección de los bosques, páramos, ríos, océanos con una visión global como exige los problemas del cambio climático. Eso es mucho pedir a la mayoría de asambleístas con mentalidad tan limitadas por su formación o por sus mezquinos intereses políticos, lo más fácil es exigir soluciones sin involucrarse o continuar con los innumerables juicios políticos, aunque desnuden sus falencias con actuaciones ridículas.
+
+El problema de la sequía no se resuelve con exigencias, y por ser un tema que compete a muchos actores nacionales e internacionales, requiere la participación de todos, lamentablemente, también de los asambleístas. Se conoce que más del 50% de los actuales asambleístas esperan ser reelegidos en las próximas elecciones de febrero de 2025. Suplico a mis compatriotas que voten con responsabilidad para evitar la presencia nociva de asambleístas sin ética ni competencias.
+
+Mario Andrade Trujillo
+
+Los derechos de la naturaleza: El caso del Valle de Uravía
+----------------------------------------------------------
+
+En esta época de grandes sequías y de voraces incendios forestales – como el ocurrido en estos días en el cerro Auqui, frente a la ciudad de Quito -, y pese a la alerta roja declarada en todo el territorio nacional por la grave crisis hídrica, ocasionada por la histórica baja de caudales de agua, la Empresa Metropolitana de Agua Potable y Saneamiento (EPMAPS), contrariando la sana lógica y en oposición a toda norma ambiental, continúa realizando  los estudios para la construcción de una  planta de tratamiento de aguas residuales (PTAR) en el valle de Uravía, parroquia de Checa.
+
+El valle de Uravía cuenta con un uso de suelo de protección ecológica, al estar cubierto de abundantes humedales, fuentes de agua y “pogios”, como los llamaban nuestros ancestros, los que deben ser preservados en su integralidad, y que corren el riesgo de desaparecer si la EPMAPS insiste en la construcción de la PTAR sobre el milenario valle.
+
+A más de eso, el valle de Uravía se encuentra atravesado en toda su extensión por el río del mismo nombre, el que abastece del líquido vital a los barrios de la vecina población de Guayllabamba; y, por si fuera poco, cuenta con muchos árboles centenarios, higuerones, cococumbies, aguacates y un bosque seco de algarrobos, que se encuentran en proceso de ser declarados árboles patrimoniales por la Secretaría de Ambiente del DMQ.
+
+Al actuar de esta forma, la EPMAPS está violando flagrantemente los derechos de la naturaleza y la Pachamama, habiendo ya causado un grave daño ambiental con los estudios previos realizados en el sitio y que hasta hoy no han sido remediados; acción que debe ser sancionada drásticamente, conforme ordena el art. 397 de la Constitución del 2008.
+
+Al respecto, me permito transcribir la sentencia constitucional, dictada dentro del juicio no. 17250-2024-00087, de fecha 21 de agosto del 2024, que reconoce al río Machángara como sujeto de derechos y que, en la parte pertinente, dice:
+
+“Reconocer que el Río Machángara es sujeto y titular de los derechos reconocidos a la naturaleza y tiene derecho a que se respete integralmente su existencia y el mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos (Constitución de la República, Art. 71 incisos 1°)… Declarar que el Municipio del Distrito Metropolitano de Quito vulneró los derechos del Río Machángara reconocidos en nuestra Constitución como ecosistema que forma parte de la naturaleza, derechos como: los derechos de la naturaleza y sus componentes, el derecho al agua, al ambiente sano, saneamiento y salud, y el derecho a la ciudad.”
+
+Esto es, existe abundante jurisprudencia constitucional que reconoce a la naturaleza como sujeto de derechos – por ejemplo, el Río Aquepi en la Provincia de Santo Domingo de los Tsáchilas, el Río Monjas en la ciudad de Quito, el Bosque Protector Los Cedros en Cotacachi, Imbabura, y últimamente, el Río Machángara en esta  ciudad de Quito -, por lo que, siguiendo la misma línea, se debe obligatoriamente reconocer también como sujeto de derechos al río y al valle de Uravía, como un ecosistema integral, al amparo de los derechos contemplados en los arts. 10, 71, 72, 73, 396, 397, 411, 412 y demás preceptos jurídicos pertinentes, de la Constitución de Montecristi.
+
+Alfonso López J.                                                         
+
+Cuando la naturaleza llora
+==========================
+
+Momentos para reflexionar sobre la importancia de la unión y la solidaridad en momentos difíciles, destacando la labor de héroes locales y cuerpos especializados.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+**Introducción:** Buscando inspiración en las musas del **paisaje**, en el que, en buena hora, las **nubes** un tanto cargadas se comienzan a divisar; y, teniendo como música de fondo a las Cuatro Estaciones de Vivaldi, en las que, a ratos el **violín** parecería llorar, pienso que es buen momento para un alto al enfoque de **reflexión** política constante en esta columna, para dar paso, si me permiten amables lectores, para reflexionar acerca de la **Naturaleza**.
+
+**a.-** ¿**Qué está pasando?, a.1)** Vaya semana, sobre todo para **Quito** y Cotopaxi, por el tenaz azote de **incendios**, focos incendiarios dados también infortunadamente en Guayaquil y en el sur del país; los mismos que, por sus características, parecerían ser fruto no de la **casualidad**, ni del descuido, peor aún de la mente de un **pirómano**; sino, más bien, de la coordinada planificación.  De ser cierta esta premisa, ¿cuál es el móvil de los **incendiarios**, ya sean **autores intelectuales** y/o **materiales**?  ¿Acaso, tendrían **connotaciones políticas** o de otra índole? Lo cierto es que, llama la atención, que aquellos que han sido identificados como responsables de **incendios** anteriores, han salido en libertad a los pocos días, generándose una suerte de burla a la sociedad, estimulando a terceros, que tengan su minuto de fama y triste notoriedad.
+
+**a.2)** Otro **fenómeno**, cada vez menos tal, debido a su **presencia** constante que lo volvería casi “normal”, es el **calentamiento global**, lo cual ha provocado cambios dramáticos en el **comportamiento** del **clima** y de la **naturaleza**, que este año se ha empeñado en esta parte del **continente**, al punto que, habría diluido la presencia de **El Niño**, contribuyendo a la **intensidad** de la **sequía**.
+
+**a.3)** El común denominador al respecto, por un lado, y desde la **perspectiva** micro, es la **intervención** del mal hombre ya sea para **violentar** cruel y miserablemente la **naturaleza**, incendiándola, y con ello afectando la **flora** y **fauna** y, sin duda exponiendo no solo el **patrimonio** de los ciudadanos, sino su **integridad** y **vida**, incluida la de  los valerosos cuerpos de rescate; así, como, en la **perspectiva** macro,  el constante irrespeto a la **naturaleza** vía **contaminación**, vía uso **indiscriminado** de plásticos, emisión de gases a la atmósfera, **contaminación** en ríos, **minería ilegal**, etc., esto es, dándose un flagrante divorcio del hombre con la esencia propia de su **naturaleza**, contaminado  su alma – escaza de amor – de maldad y **mezquindad**, mirando indiferente a la grave afectación a la madre naturaleza. Y, por otro lado, de este denominador común, está el **Agua**, poderoso líquido, sin el cual, simplemente la vida, por más millones y oro almacenados, no podría existir; el cual, en estos días, nos ha indicado cuan necesaria e indispensable es… O, es que acaso, alguien ¿aún tiene duda al respecto?
+
+Vaya mensaje de la **naturaleza**, toda vez que, la **escasez** del **líquido** vital en nuestros cielos y ríos ha sido suficiente, para quedar a ciegas ante la **oscuridad** por la falta de **energía eléctrica**; con preocupación al ver que nuestra tierra agrietada y seca, se resiste a ser sembrada; y, con miedo y dolor, al ver impávidos como las llamas del incontrolable fuego, ante la ausencia de agua, nos amenazaba con devorarnos en minutos, desnudando la **fragilidad** del sentido de **seguridad**.
+
+**b.- La bella armonía del bosque:** Si observamos las **montañas**, **bosques** y **selvas vírgenes**, en donde el hombre no ha entrado, podremos sentir y encontrar silencio, paz, orden, limpieza, pureza, acompañada quizás en ciertos momentos de la noble **amenaza salvaje**, que a la final conduce al **equilibrio** natural; pero, no hallaremos **contaminación**, basura, ni ruido, ya que, curiosa y paradójicamente sus habitantes no están “dotados de la razón”. Lugares en los cuales, están las reservas más importantes y valiosas para la **humanidad**, es decir, las **fuentes** y **manantiales** de agua pura y oxígeno. Reflexión que, por cierto, no pretende avalar el resultado de la consulta en lo referente al Yasuní, valga la digresión.
+
+**c.- Momentos: c1)** Es momento de pararnos a **reflexionar**, a entender la necesidad de la unión como **sociedad**;  y, de  manera especial,  momento para agradecer y aplaudir de pie  a aquellos héroes de casaca, de diversas localidades del país, junto con cuerpos especializados de militares y policías, que hicieron frente a esta terrible circunstancia que vivió Quito en particular; momentos en los que, nuevamente se hizo presente, el verdadero sentido de la **solidaridad humana**, la misma que no proviene ni del **mandato legal**, ni de la obligación social, sino de la manifestación en Libertad  del emocionado corazón inundado de agradecimiento.
+
+**c2)** Momentos en el que, la **naturaleza** nos ha hablado, indicando la necesidad de cuidarla y protegerla, mediante la **protección** de ríos, mares y **medio ambiente**, así como la necesidad de **reforestar**, entendiendo con humildad, que el hombre es solamente un inquilino temporal en esta, que es su única casa.
+
+**c3)** Momentos para no olvidar y siempre recordar, en el que, la **naturaleza** ha llorado, vehemente e incontrolablemente desde el fondo de su alma, emanando lágrimas secas, inundadas de dolor.
+
+_Padre, dígame ¿qué le han hecho al río, que ya no canta?…”_ J.M. Serrat.
+
+Nicolás Maduro aseguró que se posesionará el 10 de enero
+========================================================
+
+El Mandatario venezolano desestimó el reclamo del líder opositor Edmundo González.
+----------------------------------------------------------------------------------
+
+![El Consejo Nacional Electoral (CNE) proclamó a Nicolás Maduro como el ganador de los comicios presidenciales del pasado 28 de julio. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/09/maduro-detencion.jpg)
+
+El presidente de Venezuela, **Nicolás Maduro**, afirmó que se juramentará como mandatario el próximo 10 de enero por el período 2025-2031.
+
+Según él, lo hará luego de que el **Consejo Nacional Electoral (**CNE) lo proclamara como el ganador de los comicios del 28 de julio, un resultado cuestionado dentro y fuera del país.
+
+“El 10 de enero se va a juramentar el presidente **Nicolás Maduro Moros** con el pueblo en la calle, por millones, como manda la Constitución”, señaló el mandatario en una manifestación que celebró su controvertida reelección en el estado La Guaira (norte).
+
+### Más noticias
+
+* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
+* [Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-ordena-captura-nicolas-maduro-diosdado-cabello.html "Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello")
+
+El reclamo de Edmundo González
+------------------------------
+
+**Maduro** desestimó que el próximo enero el abanderado de la coalición opositora mayoritaria -Plataforma Unitaria Democrática (PUD)-, **Edmundo González Urrutia**, se juramente como el próximo presidente de Venezuela, pese a los reclamos de “fraude” electoral del antichavismo.
+
+“La Constitución es taxativa y dice que el presidente proclamado por los organismos correspondientes, en este caso el Poder Electoral, y ratificado por la auditoría de peritaje al 100 % de las actas (de votación), hecha por la **Sala Electoral (del Tribunal Supremo de Justicia**), se juramentará el día 10 de enero”, añadió.
+
+La proclamación del Consejo Nacional Electoral
+----------------------------------------------
+
+El **Consejo Nacional Electoral (CNE)** proclamó a Maduro como el ganador de los comicios presidenciales del pasado 28 de julio, pese a que, hasta la fecha, no ha publicado los resultados desagregados, como contempla el cronograma oficial.
+
+El oficialismo se apoya también en un fallo del Supremo -presidido por la chavista **Caryslia Rodríguez-** que convalidó el anuncio del CNE, mientras que la oposición sustenta su reclamo en el “83,5 % de las actas” recabadas por testigos y miembros de mesa, que reflejan -insiste- el triunfo de **González Urrutia,** exiliado en España desde el 8 de septiembre.
+
+Señales de la inseguridad se plasman en espacios de Ecuador
+===========================================================
+
+La Policía investiga señales que alertan sobre posibles hechos delictivos.
+--------------------------------------------------------------------------
+
+![Los zapatos colgados en cables son una de las señales que motivan análisis de expertos y autoridades.](https://www.elcomercio.com/wp-content/uploads/2024/09/senales-de-inseguridad.jpg)
+
+La inseguridad en **Ecuador** da señales de evidencia en paredes, objetos ubicados en puntos específicos y otros elementos. Estos para, por ejemplo, delimitar territorios de grupos de delincuencia organizada[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Los códigos pueden ser visibles o sutiles, a vez, varían según la ubicación y las premisas de quienes cometen los delitos. Enviar un **mensaje de poder** suele ser una de las metas.
+
+### Más noticias
+
+* [Esmeraldas se sube al ‘top’ del turismo en Ecuador](https://www.elcomercio.com/actualidad/ecuador/esmeraldas-turismo-seguridad-violencia-militar-policia.html)
+* [Niños y adolescentes reclutados por GDO viven una ‘doble criminalización’](https://www.elcomercio.com/actualidad/seguridad/ninos-adolescentes-reclutados-gdo-ecuador.html)
+* [Niños y adolescentes en Ecuador interesan a grupos delictivos por estos motivos](https://www.elcomercio.com/actualidad/seguridad/ninos-adolescentes-ecuador-riesgo-grupos-delictivos.html)
+
+Los símbolos de la inseguridad son variados
+-------------------------------------------
+
+En **Ecuador**, entre el 1 de enero de 2023 y el 31 de julio de 2024, la **Fiscalía**, a través de su web, reportó **145 830 robos**. En estos se incluyen dinero, domicilios, unidades económicas, etc. El denominado a personas es el que lidera la lista.
+
+Este es apenas uno de los **delitos** registrados por la institución y que experimenta la comunidad. Además, están las muertes violentas.
+
+Según la Policía, en cambio, en el **Distrito Metropolitano de Quito**, por ejemplo, se registró una reducción de muertes violentas en un **19% en lo que va de 2024**, respeto del mismo período de 2023.
+
+Las alertas de doble vía
+------------------------
+
+A las **señales de la delincuencia**, se suman las respuestas de la comunidad. En estas, se cuentan letreros con leyendas como “**barrio unido** **contra la delincuencia”**, “ladrón cogido será ajusticiado”, etc.
+
+En el **Centro Histórico de Quito**, en calles como la Mejía, en los locales comerciales, a través de carteles, advierten sobre la seguridad privada.
+
+A los textos, se suman alertas como una moto de un presunto **antisocial** quemada y colgada en un espacio público, como indicador de la unión de la vecindad contra la inseguridad. Eso ocurrió en un barrio de **Quito**.
+
+Las lecturas de las señales
+---------------------------
+
+**Wilson Goyes**, experto en Riesgos, hizo un paneo por los distintivos comunes de organizaciones delictivas para marcar territorio.
+
+Entre las físicas están **gráficos** que suelen incluir el nombre del grupo, iniciales o números.
+
+No quedan fuera las e**tiquetas**, colocadas en lugares estratégicos como postes, paredes o mobiliario urbano.
+
+ Se suman **colores** que pueden aparecer en los gráficos, ropa o, incluso, en objetos dejados en lugares estratégicos. 
+
+Rastros de hechos delictivos o anuncios
+---------------------------------------
+
+El experto añadió objetos como **zapatos** **atados a cables**, botellas rotas, velas encendidas y hasta basura. Estos elementos también pueden usarse para marcar territorio o desafiar a otros grupos.
+
+El **calzado colgado** en los cables puede tener varios significados, entre ellos:  si están unidos por los cordones, podría significar en el sitio se venden drogas. A su vez, que una banda ha marcado su territorio.
+
+* Si los **cordones** cuelgan del cable y tienen más de un nudo, podría indicar que una banda ha marcado su territorio o ha reclutado a otros locales. 
+
+* Si hay más de un par, podría significar que **bandas locales** han sido reclutadas por una más grande.  
+
+* Los zapatos colgados podrían ser un tributo a alguien fallecido, como el **líder de una banda** que fue asesinado.  
+
+Caso en Quito
+-------------
+
+En el sector **Comité del Pueblo**, en el norte de Quito, en junio de 2023, por ejemplo, en la calle Joaquín Pareja, una hilera de zapatos colgados de cables era el marco de una disputa entre presuntos antisociales y la comunidad.
+
+Los vecinos denunciaron que en el sitio se vendían sustancias sujetas a fiscalización. En el sitio, una persona murió y otra, fue detenida por la **Policía**.
+
+La última ya tenía antecedentes delictivos, fue encontrada con **sustancias sujetas a fiscalización** y un arma blanca.
+
+El trabajo de la Policía en los sectores
+----------------------------------------
+
+Desde la **Policía** **Nacional** alertaron que los elementos son subjetivos. Pero, claro, son pautas para el trabajo investigativo. Eso sí, aunque hay señales de alerta, no se debe dar paso al pánico o especulación.
+
+El general **Wilson Pavón**, inspector general de la Policía, detalló que el subsistema investigativo y de inteligencia trabaja en el territorio.
+
+Esas labores han servido para trabajos de prevención comunitaria. Esta es, dijo **Pavón**, la primera que va evidenciando los cambios en un barrio.
+
+Pavón detalló que el **eje investigativo** tiene mapeado los sectores y las señales han sido elementos para observar a grupos que se dedican a actividades ilícitas.
+
+En las jornadas, además, han retirado **gráficos con distintivos**, porque “el espacio es público y es para todos”.
+
+Él da fe que encontraron sectores, como en **barrios de Quito**, donde se expendían sustancias sujetas a fiscalización y había **zapatos** del alambrado público.
+
+Algunas alertas sujetas a investigación
+---------------------------------------
+
+Los uniformados analizan murales o gráficos que aparecen en las áreas donde operan los **grupos delictivos**.
+
+Entre los distintivos han encontrado coronas, estrellas, dibujos de líderes, etc. Estas delimitaciones son muestras de **poder o estatus**.
+
+En lo que se refiere a la **identidad del grupo**, indicaron, como los tótems en las culturas indígenas, un animal puede servir como un emblema o símbolo que representa al grupo delictivo.
+
+Ese puede reflejar creencias o la filosofía compartida por los miembros de la organización. Pueden ser características como la lealtad, el coraje o la astucia.
+
+Los **tatuajes**, en cambio, pueden tener varios significados y representar el rango o jerarquía. En algunos grupos, una rosa puede significar que el miembro ha completado con éxito un asalto a sus “enemigos”.
+
+Por otro lado, algunos **grupos delictivos** utilizan señas de manos como una forma de comunicación secreta.
+
+Acciones que se vuelven señales
+-------------------------------
+
+**Wilson Godoy** también habla de comportamientos que se pueden evidenciar en torno a organizaciones delictivas.  
+
+* **Patrullas:** integrantes que rondan regularmente su territorio para asegurarse de que no haya intrusos y para reforzar su presencia. 
+
+* **Reuniones:** en lugares específicos, como parques o esquinas, que sirven para demostrar control sobre el área. 
+
+* **Actos de vandalismo:** como romper ventanas, rayar vehículos o propiedad pública, pueden ser utilizados para intimidar a otros y demostrar fuerza. 
+
+* **Señas de mano:** muchos grupos tienen señas de mano específicas que utilizan para identificarse entre sí y para comunicarse con otros miembros. 
+
+* **Vestimenta:** la ropa, los accesorios y los tatuajes pueden ser utilizados para identificar a los miembros de una pandilla y para mostrar lealtad al grupo. 
+
+El **catedrático** deja claro que estas son solo algunas de las **señales más comunes**. Sin embargo, estas pueden variar significativamente y si la comunidad sospecha que hay actividades ilícitas, debe alertar a las autoridades.  
+
 La autopercepción femenina mejora con estos ejercicios
 ======================================================
 
@@ -770,371 +1021,3 @@ La votación del Balón de Oro es un **proceso detallado y complejo**. Un jurado
 Cada periodista elabora una lista con cinco candidatos. El jugador que colocan en el primer lugar recibe la mayor cantidad de puntos, mientras que los demás reciben una cantidad decreciente a medida que descienden en la lista.
 
 Al final, se suman todos los puntos, y el jugador con la puntuación más alta se corona como el **ganador del Balón de Oro**.
-
-La Tierra tendrá una segunda luna, de tamaño mini, durante casi dos meses
-=========================================================================
-
-El nombre de esta luna temporal es 2024 PT5, un objeto que fue descubierto el pasado 7 de agosto con un telescopio del proyecto ATLAS.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Vista del eclipse parcial de Luna desde Sever do Vouga, Aveiro, Portugal.](https://www.elcomercio.com/wp-content/uploads/2024/09/luna-efe.jpg)
-
-Un pequeño asteroide está a punto de ser atrapado por la **gravedad de la Tierra**, con lo que nuestro satélite natural contará con la compañía de una **miniluna desde este domingo** y hasta el 25 de noviembre, aunque por la distancia y su reducido tamaño solo podrá verse con **telescopios profesionales**.
-
-### Más noticias
-
-* [Último eclipse lunar de 2024 fue visto desde Ecuador](https://www.elcomercio.com/tendencias/ciencia/eclipse-lunar-superluna-cosecha-astronomia.html "https://www.elcomercio.com/tendencias/ciencia/eclipse-lunar-superluna-cosecha-astronomia.html")
-* [La Súper Luna Azul deslumbra a los ecuatorianos](https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html "https://www.elcomercio.com/actualidad/ecuador/ecuador-super-luna-azul.html")
-
-El nombre de esta **luna temporal es 2024 PT5**, un objeto que fue descubierto el pasado 7 de agosto con un telescopio del proyecto ATLAS desde Sudáfrica.
-
-Los astrónomos de la española Universidad Complutense (Madrid) Carlos y Raúl de la Fuente Marcos realizaron los cálculos que concluyeron que el **asteroide sería capturado por la Tierra**, un fenómeno que no es la primera vez que se produce con otros cuerpos similares.
-
-“Cuando se hicieron públicos sus datos nos dimos cuenta de que pasaría cerca de la Tierra y a baja velocidad. Realizamos cálculos y verificamos que se **produciría la captura**“, señaló Carlos de la Fuente Marcos.
-
-2024 PT5 es la miniluna más grande conocida hasta ahora, su tamaño se encuentra en el rango de 5 a 40 metros, precisa el investigador, y **permanecerá junto a la Tierra durante 56,6 días,** tras lo que recobrará su trayectoria heliocéntrica.
-
-Según los últimos datos disponibles del sistema Horizons del Laboratorio de Propulsión a Chorro (JPL) de la Nasa, la captura temporal comenzará el 29 de septiembre a las 19.54 hora GMT y finalizará el 25 de noviembre de 2024 a las 15:43.
-
-El cinturón de los Arjunas
---------------------------
-
-Este objeto forma parte de los llamados Arjunas -precisó De la Fuente Marcos-, que forman el cinturón de asteroides más cercano a la Tierra y orbitan alrededor del Sol aproximadamente a la misma distancia, forma y ángulo que nuestro planeta y que son los que pueden experimentar episodios de miniluna.
-
-El pequeño asteroide podría ser material eyectado desde la Luna durante un impacto que dio lugar a un cráter y así lo sugieren algunos datos, pero para confirmarlo sería necesario el espectro infrarrojo.
-
-“Lo que sí está claro -indicó- es que no se trata de un objeto artificial, basura espacial. Ahora mismo hay varias colaboraciones observando de forma activa este objeto y en las próximas semanas se producirán nuevos anuncios con seguridad”.
-
-La nueva luna tiene una trayectoria de herradura, “lo que facilita su captura, pero no la garantiza”, pues para que este fenómeno se produzca tienen que darse dos condiciones simultáneas.
-
-El objeto tiene que acercarse lentamente a la Tierra para posibilitar que la energía relativa se haga negativa y su distancia con ella debe ser inferior a 0,03 unidades astronómicas (la distancia media entre la Tierra y el Sol es una unidad astronómica, UA, o 150 millones de kilómetros).
-
-Si estas condiciones se producen a la vez, entonces se puede hablar de captura y, por tanto, de episodio de miniluna. De hecho, 2024 PT5 se acercó a la Tierra el pasado 8 de agosto a 0,00379 UA, pero demasiado rápido para ser capturado, dijo el investigador.
-
-Durante los casi dos meses que permanecerá con nuestro planeta, la separación media entre el asteroide y la Tierra será de 0,0250 UA, que es “mucho mayor que la que nos separa de la Luna, por lo tanto no hay ningún peligro de colisión”.
-
-Volverá en 2025
----------------
-
-En general, los objetos que experimentan estos episodios lo hacen de forma recurrente. Así, 2024 PT5, “volverá a ser **miniluna por un breve plazo en 2055** y probablemente en 2084″, como el asteroide 2022 NX1 lo fue en 1981 y en 2022.
-
-Los episodios de captura pueden ser de dos clases dependiendo de su duración. Los cortos son de días, semanas o pocos meses y el objeto no llega a completar una órbita en torno a la Tierra. Ese será el caso de 2024 PT5.
-
-Los largos pueden durar uno o más años y el objeto completa una o más revoluciones en torno a la Tierra, como hicieron los asteroides 2006 RH120 y 2020 CD3.
-
-Los **cortos “parecen producirse de forma relativamente frecuente**, cada 2 o 3 años, los largos cada 10, 20 ó 30 años. No se sabe bien, ya que la población conocida todavía es pequeña”.
-
-De la Fuente Marcos recordó que se empezó a hablar de minilunas en la década de los 90 del siglo pasado, “con 1991 VG, que inicialmente se pensó que era una nave alienígena”.
-
-El mayor interés de las ‘minilunas’ es -dijo- poder realizar **visitas de bajo coste a ellas**, con el objetivo de recoger muestras minerales que podrían analizarse en la Tierra o para proyectos de minería espacial, “por esto es importante predecir cuándo se van a producir”.
-
-Daniel Noboa derogó decreto sobre avión presidencial
-====================================================
-
-Daniel Noboa definió detalles sobre proceso de avión presidencial.
-------------------------------------------------------------------
-
-![Avión presidencial en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/avion-1.jpg)
-
-El presidente **Daniel Noboa** emitió un nuevo decreto. En esta ocasión, la disposición está relacionada con el proceso definido para el avión presidencial[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-El **Mandatario** determinó el documento, relacionado con una decisión del expresidente **Guillermo Lasso**, este viernes, 27 de septiembre de 2024.
-
-La tarde de este sábado 28 de septiembre de 2024, el presidente **Noboa** se refirió al tema en su cuenta de X. Dijo que “los invito a buscar una propuesta tan buena para la venta que los ecuatorianos no podamos rechazar. Mientras tanto, nosotros no vamos a permitir subastas chimbas como en administraciones pasadas”.
-
-Agregó que es un **Presidente** de territorio “(quizás por muchos años no vieron eso), y en un conflicto armado interno voy a estar en el lugar donde el país lo necesite”.
-
-### Más noticias
-
-* [Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-inscripcion-binomio-presidencial-adn-elecciones-2025.html)
-* [Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025](https://www.elcomercio.com/actualidad/politica/funcionarios-daniel-noboa-dejan-cargos-elecciones-2025.html "Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025")
-* [Daniel Noboa suspende su agenda en la ONU y regresa a Ecuador ¿Cuáles son los motivos?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-suspende-agenda-onu-regresa-ecuador.html "Daniel Noboa suspende su agenda en la ONU y regresa a Ecuador ¿Cuáles son los motivos?")
-
-Daniel Noboa y el avión presidencial
-------------------------------------
-
-El presidente de la República, **Daniel Noboa**, derogó el decreto que daba paso al proceso para vender el avión presidencial **Legacy EMB-135 BJ**.
-
-En el 2022, **Guillermo Lasso** informó que Colombia adquiriría el avión. No obstante, este paso no se concretó.
-
-El decreto
-----------
-
-La disposición de **Daniel Noboa** dispuso la derogación del Decreto 180 del 31 de agosto de 2021 publicado en el Registro Oficial Cuarto Suplemento 530 de 3 de septiembre de 2021; y, el Decreto 311 de 5 de enero de 2022.
-
-**Guillermo Lasso** determinó que el avión no se debería usar mientras se concrete la venta, salvo para situaciones excepcional, que deberían ser evaluadas por la Secretaría General Administrativa de la Presidencia de la República.
-
-La adquisición del **Legacy** se dio en el 2008, en el mandato del expresidente **Rafael Correa** y costó alrededor de 30 millones de dólares.
-
-Viajes de Daniel Noboa
-----------------------
-
-**Daniel Noboa** asumió la Presidencia en noviembre de 2023. En ese tiempo, ha viajado en, al menos, 13 ocasiones.
-
-El país más visitado fue **Estados Unidos**, sobre todo, a Miami y Nueva York por motivos oficiales. Además, se ha trasladado por temas personales.
-
-Durante el mandato también tuvo una gira por **Europa**, en países como España e Italia.
-
-Quito soportó 12 incendios forestales en una sola semana
-========================================================
-
-El incendio forestal de Guápulo provocó el cierre del túnel Guayasamín desde la tarde del 24 de septiembre.
------------------------------------------------------------------------------------------------------------
-
-![El incendio forestal de Guápulo comenzó el martes 24 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/Incendios-en-Quito-Guapulo.jpg)
-
-El incendio forestal que comenzó el 24 de septiembre de 2024 en **Guápulo**, en el nororiente de **Quito**, colapsó a gran parte de la ciudad[.](https://es.wikipedia.org/wiki/Incendio_forestal "https://es.wikipedia.org/wiki/Incendio_forestal")
-
-Más noticias
-------------
-
-* [Incendio forestal de Guápulo se mantiene en este estado](https://www.elcomercio.com/actualidad/quito/incendio-forestal-guapulo-puntos-calientes-quito.html "Incendio forestal de Guápulo se mantiene en este estado")
-* [‘Una casa bendecida’ apareció en el incendio forestal en Guápulo](https://www.elcomercio.com/actualidad/quito/incendio-guapulo-forestal-casa-bendecida-quito.html "‘Una casa bendecida’ apareció en el incendio forestal en Guápulo")
-* [Incendio forestal en el barrio Bolaños se combatió con mangueras y baldes de agua](https://www.elcomercio.com/actualidad/quito/incendio-forestal-en-el-barrio-bolanos-fue-combatido-con-mangueras-y-baldes-de-agua.html "Incendio forestal en el barrio Bolaños se combatió con mangueras y baldes de agua")
-
-El fuego se originó en la parte baja de la avenida **Los Conquistadores** y se extendió rápidamente hacia el cerro **Auqui** y el **Barrio** **Bolaños** y también al **Parque Metropolitano**.
-
-Inicio del incendio forestal en Guápulo
----------------------------------------
-
-Este incendio consumió 193 hectáreas de vegetación hasta el 27 de septiembre y generó una nube de humo que cubrió una amplia parte de la Quito.
-
-El cierre del túnel **Guayasamín**, una vía clave para la movilidad en **Quito**, complicó el tránsito en la ciudad. Permaneció cerrado hasta el jueves 26 de septiembre a las 16:00.
-
-Los cortes de luz programados por la temporada de estiaje afectaron el funcionamiento de los **semáforos** y la disponibilidad de agua en algunos sectores, lo que complicó las labores de los **bomberos**.
-
-Impacto humano por el incendio de Guápulo
------------------------------------------
-
-El incendio en **Guápulo** afectó gravemente a los residentes del **Barrio Bolaños**, donde tres viviendas fueron destruidas. Entre ellas, la de **María** **Teresa** **Usama**.
-
-Según su hermana, **Maribel**, la familia intentó contener el fuego con **baldes de agua**, pero la falta de presión en los **hidrantes** impidió que salvaran su hogar. Además del daño a su vivienda, la familia perdió el taller de carpintería de su padre y sus mascotas.
-
-En la avenida **Conquistadores**, **Jazmín Trujillo** evitó que el fuego destruyera su vivienda gracias a la ayuda de sus **vecinos** y **bomberos**. Solamente una bodega cercana quedó destruida.
-
-Impacto de los incendios forestales en la jornada laboral y la calidad del aire
--------------------------------------------------------------------------------
-
-El Municipio de Quito suspendió la **jornada laboral** presencial hasta el 26 de septiembre y autorizó el **trabajo remoto** durante las **labores** de **emergencia**. También, el sector público y privado se acogió al teletrabajo.
-
-Además, las clases se impartieron de manera virtual hasta el 27 de septiembre con el objetivo de reducir la movilidad en las **zonas afectadas** y evitar riesgos para los **estudiantes**.
-
-La **calidad del aire** en el centro y norte de **Quito** se deterioró debido a la cantidad de humo y ceniza provocada por el **incendio**.
-
-Los niveles de contaminación aumentaron y las autoridades emitieron alertas para la población vulnerable; se aconsejó limitar las actividades al aire libre. El 26 de septiembre, la **calidad del aire** mostró una mejora gradual.
-
-Reporte de daños y afectaciones
--------------------------------
-
-Hasta el miércoles 25 de septiembre, el ECU 911 informó que el incendio dejó 70 familias afectadas, 28 personas hospitalizadas y cuatro viviendas calcinadas. Hasta este 27 de septiembre se desconocen los datos actualizados.
-
-El capitán del **Cuerpo** de **Bomberos** **Quito** informó a las 12:18 del 27 de septiembre que cinco **bomberos** resultaron **heridos**, uno de ellos tras ser golpeado por un árbol debilitado por las llamas. Se recupera en una casa de salud.
-
-Detención de un presunto responsable
-------------------------------------
-
-El 25 de septiembre, las autoridades detuvieron a **Dylan A**., acusado de estar relacionado con el **incendio** de **Guápulo**.
-
-Según el Municipio, el joven fue encontrado con un galón de **combustible**. Una jueza dictó **prisión preventiva** y la audiencia de juicio fue programada para el 17 de octubre de 2024.
-
-Las sanciones por provocar incendios forestales, de acuerdo con el Código Orgánico Integral Penal (**COIP**), varían entre uno y tres años de **prisión**, aunque si se considera un acto de terrorismo, la pena podría alcanzar los 22 años.
-
-Incendios atendidos: última semana de julio, agosto y septiembre
-----------------------------------------------------------------
-
-Durante la última semana de septiembre (del 23 al 27), el Cuerpo de **Bomberos** de **Quito** atendió 12 **incendios forestales** y 91 **quemas** de **desechos**. En septiembre, se registraron 65 incendios forestales y 738 quemas de desechos.
-
-En agosto, se reportaron 95 **incendios forestales** y 791 quemas de desechos, mientras que en julio se contabilizaron 154 **incendios forestales** y 294 **quemas** de **desechos**.
-
-Las autoridades señalaron que la **quema** de **desechos** ha sido una de las principales causas de los incendios forestales en Quito.
-
-Estos incendios forestales dan un total de 1 999.95 hectáreas quemadas en Quito.
-
-Los incendios forestales en Quito en la última semana
------------------------------------------------------
-
-Además del voraz incendio en **Guápulo**, Quito enfrentó al menos otros **siete incendios** forestales este martes 24 de septiembre, algunos de gran magnitud.
-
-Entre las alertas más complicadas estuvieron las del **Itchimbía**, en el sector de **La Tola**, y la reportada en **La Forestal**, en el sur de la ciudad.
-
-Ambos incendios comenzaron pasadas las 16:00 y fueron controlados alrededor de las 20:00.
-
-Otro de los **incendios** que causó mayores estragos fue el registrado en **El Inca**, en el norte de **Quito**, durante la mañana.
-
-Además, tres **incendios** de **menor magnitud** fueron controlados ese mismo día. Las alertas se reportaron en los sectores de **Catzuquí** de **Moncayo**, **San Carlos** y **El Trébol**. Este último fue provocado por la quema **de desechos**.
-
-Óscar Zambrano anotó su primer gol con el Hull City
-===================================================
-
-Óscar Zambrano se está asentando en el Championship, la segunda división de Inglaterra.
----------------------------------------------------------------------------------------
-
-![Óscar Zambrano celebrando su primer gol con el Hull City de Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-28T111554.202.jpg)
-
-**Óscar Zambrano** fue una de las figuras del **Hull City** en la victoria 4-1 ante el Cardiff por la séptima jornada del Championship. El ecuatoriano **anotó su primer gol** con su nuevo club y, además, repartió una asistencia.
-
-Desde su llegada a Inglaterra, Zambrano no ha necesitado tiempo de adaptación, lo que demuestra su gran talento. El **exjugador de Liga de Quito** ya es titular y pieza clave en el mediocampo del Hull City, habiendo jugado cuatro de los cinco partidos posibles, todos desde el once inicial.
-
-### Más noticias:
-
-* [Hull City presentó a Óscar Zambrano, ex Liga de Quito](https://www.elcomercio.com/deportes/futbol/hull-city-presento-oscar-zambrano-ex-liga-de-quito.html "Hull City presentó a Óscar Zambrano, ex Liga de Quito")
-* [Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-impone-a-pervis-estupinan-partidazo-de-infarto.html "Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto")
-* [Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri](https://www.elcomercio.com/deportes/jeremy-sarmiento-nuevo-fichaje-burnley-seleccion-ecuador.html "Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri")
-
-### Óscar Zambrano anotó su primer gol en Europa
-
-El 28 de septiembre de 2024 será un día especial para el **ecuatoriano**, ya que gritó su primer gol como futbolista en Europa. Como si eso no fuera suficiente, también dio una asistencia en ese mismo partido.
-
-Su primera participación directa en el marcador fue a los 21 minutos del encuentro, cuando asistió para abrir el marcador. Aunque su pase a **Bachir Belloumi** fue más producto de la casualidad que de una jugada intencionada, la complicidad del portero rival permitió que el balón terminara en el fondo de la red.
-
-Belloumi intentó un centro, pero ante la falta de intervención de compañeros y el error del arquero, el balón ingresó en el arco.
-
-> Mohamed Belloumi equalises for Hull City!  
->   
-> The Algerian's first goal for the club! 🇩🇿 [#HCAFC](https://twitter.com/hashtag/HCAFC?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zWiOz1MU5N](https://t.co/zWiOz1MU5N)
-> 
-> — Kurt Johansson (@KurtJohansson\_) [September 28, 2024](https://twitter.com/KurtJohansson_/status/1840034914059579577?ref_src=twsrc%5Etfw)
-
-Ya en la segunda mitad, con el partido 2-0 gracias a un doblete de Belloumi, **Zambrano anotó su primer gol con el Hull City**.
-
-El ecuatoriano recibió un pase dentro del área y remató de primera intención. Su disparo chocó con un defensor del Cardiff, quien desvió el balón lo suficiente para descolocar al portero y que terminara en gol.
-
-A pesar del desvío, **Zambrano fue una de las figuras del compromiso** y celebró su primer tanto en Europa.
-
-> El rebote ayuda mucho, pero llegó el primer gol de Oscar Zambrano en el futbol ingles. [pic.twitter.com/ErNDvbqA0P](https://t.co/ErNDvbqA0P)
-> 
-> — Diego Briones (@Diego\_Briones13) [September 28, 2024](https://twitter.com/Diego_Briones13/status/1840047416680042560?ref_src=twsrc%5Etfw)
-
-### Óscar Zambrano en el Hull City
-
-El Hull City, equipo del **Championship**, presentó el 16 de agosto de 2024 al mediocampista ecuatoriano **Óscar Zambrano**, apodado el ‘Mago de Oz’. El jugador llegó cedido por una temporada con opción de compra al final de la misma.
-
-Desde su arribo, Zambrano ha disputado cuatro partidos, acumulando **266 minutos**. Aunque ha sido titular en cuatro de los cinco partidos, aún no ha jugado un encuentro completo.
-
-Papa Francisco habló sobre lo femenino en Bélgica
-=================================================
-
-Sus argumentos los planteó ante los cuestionamientos realizados por los estudiantes de la Universidad de Lovaina.
------------------------------------------------------------------------------------------------------------------
-
-![El papa Francisco en unas de sus apariciones. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/05/papa-carlo-acutis-el-comercio.jpg)
-
-##### Agencia EFE
-
-El **papa Francisco** explicó que “lo **femenino** no está establecido por el consenso ni por las ideologías”. 
-
-Lo dijo este sábado 28 de septiembre de 2024 después de que los estudiantes de la **Universidad de Lovaina, en Bélgica**, criticaron la postura de la Iglesia católica hacia la mujer, por “invisibilizarla”.
-
-Francisco acudió a Lovaina la Nueva, una ciudad creada expresamente para la escisión francófona de la universidad, después de que este viernes se reunió con los docentes en la sede neerlandófona, con ocasión de la conmemoración de sus 600 años.
-
-Los estudiantes leyeron durante el acto una carta surgida tras la reflexión del estudio de la encíclica del papa **Francisco** sobre la protección del medio ambiente, ‘Laudato si’ y concluyeron:  “¿Dónde está el lugar de la mujer en la Encíclica? Las mujeres son las grandes ausentes” del documento.
-
-### Más noticias
-
-* [El Papa Francisco podría visitar Argentina en 2025, según representante sindical argentino](https://www.elcomercio.com/actualidad/mundo/papa-francisco-podria-visitar-argentina-segun-representante-sindical-argentino.html "El Papa Francisco podría visitar Argentina en 2025, según representante sindical argentino")
-* [La muerte del líder de Hizbulá fue confirmada](https://www.elcomercio.com/actualidad/mundo/muerte-lider-hizbula-confirmada.html "La muerte del líder de Hizbulá fue confirmada")
-
-El argumento de los estudiantes de Lovaina
-------------------------------------------
-
-Argumentaron que “la teología católica tiende a reforzar” la división de trabajos entre **hombres y mujeres** “a través de su ‘teología de la mujer’, que exalta su papel maternal y prohíbe su acceso a los ministerios ordenados”.
-
-“¿Cuál es entonces el lugar de la mujer en la Iglesia?”, preguntaron los estudiantes en su misiva, respondiendo que “como suele ocurrir en la historia de la Iglesia, las mujeres fueron invisibilizadas” también en esta encíclica.
-
-“Invisibles en sus vidas, las mujeres también han sido invisibles en sus contribuciones intelectuales. No se menciona ninguna teóloga y, sin embargo, muchos de ellos han estudiado y denunciado los vínculos intrínsecos entre la dominación de la naturaleza y la dominación de las mujeres, delineando formas que nos inspiran a pensar en un ecofeminismo cristiano”, señalan 
-
-“Una vez más, necesitamos un cambio de paradigma”, agregaban.
-
-El papel de la mujer en la iglesia
-----------------------------------
-
-Y sobre el papel de la mujer en la Iglesia, el **papa** respondió: “Es una temática que preocupa a ustedes y más todavía a mí y a mis predecesores”, pero afirmó que “la Iglesia es el pueblo de Dios, no una empresa multinacional” y que “las relaciones que expresan nuestro ser imagen de Dios, hombre y mujer, juntos, no separadamente”.
-
-Y agregó: “Lo que es característico de la **mujer**, es decir, lo que es femenino, no está establecido por el consenso ni por las ideologías”.
-
- Francisco dijo que “la dignidad está asegurada por una ley originaria, no escrita en el papel, sino en la carne. La **dignidad** es un bien inestimable, una cualidad originaria, que ninguna ley humana puede dar o quitar”.
-
-Asimismo, explicó que “la vocación y misión del hombre y de la mujer y su ser recíproco para el otro, en la comunión. No el uno contra el otro, en reinvindicaciones opuestas, – el feminismo y el machismo- sino el uno para el otro”. 
-
-“Por eso es feo cuando la mujer quiere hacer el hombre, la mujer es mujer”, agregó y recordó que “La Iglesia es mujer”.
-
-**Carolina Savia, profesora de Historia de América Latina en esta Universidad,** explicó a EFE que el papa va a encontrar “una sociedad muy diferente de la que encontró el papa Juan Pablo en 1985” pues “**Bélgica** es una sociedad mucho más secularizada donde el lugar de la religión es mucho más limitado”. 
-
-“Sin información y capacitación seguimos trabajando en el agro a palos de ciego”: Rodrigo Gómez de la Torre
-===========================================================================================================
-
-El experto en temas agropecuarios destaca la vulnerabilidad de las zonas agrícolas y la urgencia de políticas sostenibles.
---------------------------------------------------------------------------------------------------------------------------
-
-![Rodrigo Gómez de la Torre es ganadero y experto en temas agropecuarios.](https://www.elcomercio.com/wp-content/uploads/2024/09/Rodrigo-Gomez.jpg)
-
-La sequía está poniendo a prueba la resiliencia de las zonas agrícolas de Ecuador. Está revelando vulnerabilidades que van más allá de la simple falta de lluvia. En una entrevista, Rodrigo Gómez de la Torre, experto agropecuario, analiza la crisis climática y sus efectos en la producción agrícola. También habla de estrategias para mitigar estos impactos.
-
-Más noticias
-------------
-
-* [Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?")
-* [El cultivo estrella del Carchi afronta su peor crisis](https://www.elcomercio.com/actualidad/negocios/el-cultivo-estrella-del-carchi-afronta-su-peor-crisis.html "El cultivo estrella del Carchi afronta su peor crisis")
-
-Gómez enfatiza que la sequía no solo afecta los cultivos. También revela la necesidad urgente de sistemas sostenibles para manejar suelos y agua.
-
-Con una crítica a la falta de políticas a largo plazo, subraya la importancia de la educación y la capacitación. Esto es esencial para enfrentar el desafío y asegurar la seguridad alimentaria de Ecuador.
-
-¿Qué zonas agrícolas son más vulnerables a las sequías? 
---------------------------------------------------------
-
-Depende. Toda zona agrícola es vulnerable porque estamos vinculados directamente al clima. Al haber sequía y estar en la línea ecuatorial, la perpendicularidad de los rayos marca una pauta.
-
-Obviamente, las zonas altas van a verse más afectadas por estar más cerca del sol. Igual, las zonas de ladera donde la humedad se pierde más fácilmente. Ahí es importante implementar sistemas de raseo, reforestación, a través de curvas de nivel. No solamente son temas de árboles, sino sistemas arbustivos que son completamente útiles y necesarios.
-
-Las zonas bajas, por el tipo de suelo, también van a jugar un rol fundamental y ahí tenemos un tema importante. Trabajar en la recuperación de la materia orgánica de suelos nos va a ayudar a conservar humedad. Entonces, los suelos más degradados, digamos así, son usualmente los suelos más vulnerables y donde más rápido se siente la afectación por sequía.
-
-¿Qué productos agrícolas se afectan más en sus distintos ciclos?
-----------------------------------------------------------------
-
-Los productos agrícolas más afectados usualmente son los de ciclo corto. Éste tiene una afectación mayor porque usualmente se los maneja en áreas más pequeñas y no se prevé sistemas de riego.
-
-El de ciclo largo, inclusive la misma planta, busca sistemas radiculares de raíces más extensos y menos propensos a la parte superficial. Pero todos los cultivos se ven afectados.
-
-> “Sin información y sin capacitación para entender, seguimos trabajando en el agro a palos de ciego y esperando solamente de ‘Taita Dios'”.
-
-Gracias a la humedad de los suelos, hay productos que aún no muestran afectación, pero cuánto más aguantarán…
--------------------------------------------------------------------------------------------------------------
-
-El tema de humedad de suelos tiene que ver directamente con el contenido de materia orgánica. A mayor materia orgánica, mayor capacidad de conservación de la humedad del suelo.
-
-El otro factor tiene que ver con cambios climáticos. La sequía está durando casi dos meses. Pero si tengo 15 días de no lluvias con 15 días parcialmente nublados y nublados obviamente voy a tener una condición mucho mejor a la que podría tener con 15 días con soles caniculares totalmente despejados y niveles de radiación que superen los 11.
-
-Ahí tenemos un tema que analizar y hay una necesidad de tener una información clara, digerible, que nos permita identificar los problemas es el camino. Sin información y sin la capacitación para entender, seguimos trabajando en el agro a palos de ciego y esperando solamente de ‘Taita Dios’.
-
-¿Qué no se está haciendo bien para impulsar al sector agrícola? 
-----------------------------------------------------------------
-
-Los gobiernos lamentablemente están muy preocupados en la coyuntura, en la imagen y en el proceso electoral, sea para seccionales o nacionales. Ahorita estamos en un proceso electoral nuevamente.
-
-Los temas de educación, información, capacitación muy rara vez tienen un rédito político, razón por la cual no los vemos.
-
-Un plan nacional agropecuario que implique generación de documentación e información son temas que van a estar vistos en el mediano, largo plazo.
-
-Si nosotros no tomamos decisiones en esos plazos: cinco, ocho, diez años, no vamos a poder hacer los cambios que se requieren.
-
-> “No importa la línea política, se necesitan planes estables en el tiempo, a mediano, largo plazo”.
-
-¿Qué es lo que se requiere de un gobierno?
-------------------------------------------
-
-No importa la línea política, se necesitan planes estables en el tiempo, a mediano, largo plazo. Políticas de Estado que trasciendan los gobiernos y no políticas de Estado que se publican con el nombre del funcionario que lo hizo en ese momento. Sobre todo, cuando tenemos funcionarios que rara vez cumplen un ciclo de gobierno completo. Muchas veces tenemos dos, tres ministros en un mismo periodo de gobierno completo de cuatro años.
-
-¿Tiene utilidad práctica el Plan Nacional de Sequía del 2021?
--------------------------------------------------------------
-
-Todo plan nacional tiene utilidad, se lo elabora en un determinado momento histórico y es importante identificar ese momento. Pero es fundamental que se le dé uso, se lo difunda ampliamente.
-
-Pero, sobre todo, se lo vaya actualizando al menos año a año y considerando la riqueza del Ecuador en términos geográficos, de biodiversidad. Ese plan debe actualizarse permanentemente de manera zonal.
-
-Su hoja de vida
----------------
-
-* Rodrigo Gómez de la Torre tiene una Licenciatura en Ciencias Aplicadas de la USFQ. Es ganadero y experto en temas agropecuarios, económicos y políticos.
-* Fue titular de la [Cámara de Agricultura de la Primera Zona](https://www.facebook.com/caizec/?locale=es_LA) 
-* También presidió el [Consejo de Cámaras y Asociaciones de la Producción](https://www.facebook.com/consejocamaras/?locale=es_LA).
