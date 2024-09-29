@@ -5,7 +5,7 @@ Sorry, you have Javascript Disabled! To see this page as it is meant to appear, 
 
 [Zum Inhalt springen](#content)
 
-28\. September 2024
+29\. September 2024
 
 [](https://www.facebook.com/freiwilligefeuerwehrgundersheim "Facebook")[](https://www.instagram.com/feuerwehr_gundersheim "Instagram")
 
@@ -246,17 +246,7 @@ In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutz
 
 #### Termine:
 
-### Blaulichtumzug
-
-Datum: 28\. September 2024
-
-Uhrzeit: 19:00
-
-Ort: Von Monsheim nach Gundersheim
-
-Aufstellung 17:00 Uhr
-
-Beginn: 19:00 Uhr
+Es gibt keine zukünftigen Events.
 
 * [Impressum](https://feuerwehr-gundersheim.de/impressum/)
 * [Datenschutzerklärung](https://feuerwehr-gundersheim.de/datenschutzerklaerung/)
