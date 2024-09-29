@@ -197,57 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Hugo van Sittert
+Kobus Venter
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=177864056)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=76808705)  
+AFS Electrical
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=210627245)  
-Wiselink Broadband Pty Ltd
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=108550880)  
+Redlum Group (Pty) Ltd
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=213720834)  
-SMART GUY PCS (PTY) LTD
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=116956920)  
+Goju-Ryu Pretoria East
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=22851596)  
-Fox Alarms & Security
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=15144778)  
+Calonet
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=34365060)  
-Cooper Logistics (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=88652178)  
+Nilbet T/A Waterman
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=32201000)  
-Leef in Afrikaans
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=141442234)  
+WIP Digital Solutions
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=43807537)  
-Mtunzini Group
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=198792282)  
+Tiny Cuddles Photography
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=169327554)  
-Henry's Home Renovations
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=72776290)  
+IEMS (PTY) ltd
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=41301127)  
-Salvage Genie
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=80425663)  
+Moremi Kitchens Rustenburg
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=194994269)  
-BD Maintenance
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=55140257)  
+Super Sound Man (PTY) Ltd
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=202109962)  
-Lion Software Develepment
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=167714103)  
+Hydroworld T/A Milliqua
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=47571932)  
-Vplay Letsheng Mall
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=23076174)  
+SLOANE STAR MEAT MARKET
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=138089848)  
-van Schaik rentals
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=16147595)  
+Desygn
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=164784034)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=105854154)  
+Echo Recording Studio cc
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=a67ff4bc74e937e83e2f136421034adc469153a5e3313f65df85c0136dc0e1e0&c=62308607)  
-Firstweb Hosting & Design
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=ec85327be702b838488e58f6187c2a6ad88ef31bdc9e2df8c04b830c4ce8e2d1&c=137408453)  
+VS Auto Spares and Repairs (Pty) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
