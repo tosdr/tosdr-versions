@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Fantastic service.
+It is a good service. And very useful. I intend to renew my subscription.
 
-Torrens Lyster
+Iain Rushton
