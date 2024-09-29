@@ -1,6 +1,6 @@
 ALPHA
 
-[![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f7119a80693934f12f5118_BAR-Beyond-All-Reason-Logo-SimpleNo-Glow-20-300px.png)](https://www.beyondallreason.info/ "Beyond All Reason RTS")
+[![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f94bf43835f103fe529d9f_BAR-Beyond-All-Reason-Logo-20-Simple-NoGlow-V2.svg)](https://www.beyondallreason.info/ "Beyond All Reason RTS")
 
 [Battles](https://www.beyondallreason.info/active-battles "See what Battles are running right now!")[Replays](https://www.beyondallreason.info/replays "View & Download Replays of Battles played online")[Leaderboard](https://www.beyondallreason.info/leaderboards "Check our Live Leaderboard")[Devlog](https://www.beyondallreason.info/development/microblog "View Latest Balance Changes")[Account](https://server4.beyondallreason.info/login "Login & View Info About Your Account & Gameplay")
 
@@ -289,7 +289,7 @@ _We hope you never need to visit/read this page, because that would mean everybo
 
 [Back to Top](#NAVTOP)
 
-![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f7f7926b15e184348d85e3_BAR-Beyond-All-Reason-Logo-20-Simple-LittleGlow-Vector2.svg)
+![](https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/66f94b75635e3fc5c9c0c5e0_BAR-Beyond-All-Reason-Logo-20-Simple-LittleGlow-Vector-V2.svg)
 
 Beyond All Reason RTS
 
