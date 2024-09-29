@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZvhqOwoAAhQAAABirW0)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=Zvi92QoAAhQAAABi2h0)
 
 * Es noticia:
 * [Osasuna - Barcelona](https://www.marca.com/futbol/laliga-ea-sports/osasuna-barcelona/2024/09/28/01_0101_20240928_450_178-directo.html)
