@@ -474,25 +474,23 @@ This privacy policy was last modified on April 24, 2024.
 
 ### Featured Articles
 
+[![Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/images/thumb/a/a8/Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg/-crop-126-120-126px-Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg)
+
+How to  
+Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/Make-Your-Boyfriend-Go-Crazy-over-You)
+
+[![Truth or Dare Questions for Teens](https://www.wikihow.com/images/thumb/3/3c/13354196-250.jpg/-crop-126-120-126px-13354196-250.jpg)
+
+250 Truth or Dare Questions for the Best Game Ever](https://www.wikihow.com/Truth-or-Dare-Questions-for-Teens)
+
+[![Deep Things to Say to Your Boyfriend over Text](https://www.wikihow.com/images/thumb/0/00/Deep-Things-to-Say-to-Your-Boyfriend-over-Text-Step-24.jpg/-crop-126-120-126px-Deep-Things-to-Say-to-Your-Boyfriend-over-Text-Step-24.jpg)
+
+Romantic and Thoughtful Texts to Send to Your Boyfriend to Make Him Feel Special](https://www.wikihow.com/Deep-Things-to-Say-to-Your-Boyfriend-over-Text)
+
 [![Read Palms](https://www.wikihow.com/images/thumb/0/00/Read-Palms-Step-9.jpg/-crop-126-120-126px-Read-Palms-Step-9.jpg)
 
 How to  
 Read Palms](https://www.wikihow.com/Read-Palms)
-
-[![Have an Attractive Personality](https://www.wikihow.com/images/thumb/8/89/Have-an-Attractive-Personality-Step-10-Version-3.jpg/-crop-126-120-126px-Have-an-Attractive-Personality-Step-10-Version-3.jpg)
-
-How to  
-Have an Attractive Personality](https://www.wikihow.com/Have-an-Attractive-Personality)
-
-[![Talk to a Shy Girl](https://www.wikihow.com/images/thumb/0/05/Talk-to-a-Shy-Girl-Step-19-Version-3.jpg/-crop-126-120-126px-Talk-to-a-Shy-Girl-Step-19-Version-3.jpg)
-
-How to  
-Talk to a Shy Girl](https://www.wikihow.com/Talk-to-a-Shy-Girl)
-
-[![Learn to Say No](https://www.wikihow.com/images/thumb/b/b1/Learn-to-Say-No-Step-14.jpg/-crop-126-120-126px-Learn-to-Say-No-Step-14.jpg)
-
-How to  
-Learn to Say No](https://www.wikihow.com/Learn-to-Say-No)
 
   
 
@@ -535,4 +533,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-225
+188
