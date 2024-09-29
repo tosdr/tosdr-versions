@@ -324,15 +324,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
+Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
 
 ### Potter History
 
-October 28, 2005 – The Weasleys’ Ford Anglia, used in Chamber of Secrets, was stolen.
+October 1999 – MuggleNet opens its doors as one of the first fansites dedicated to Harry Potter. To this day, the website, founded by then 12-year-old Emerson Spartz, is still the most visited Harry Potter fansite online.
 
 ### Potter Quote
 
-“I know what you are known as. But to me, I’m afraid, you will always be Tom Riddle. It is one of the irritating things about old teachers. I am afraid that they never quite forget their charges’ youthful beginnings.”
+“Honestly, woman, you call yourself our mother? Can’t you tell I’m George?”
 
 [](#)
 
