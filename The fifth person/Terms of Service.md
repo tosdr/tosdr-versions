@@ -1,4 +1,4 @@
-Sunday, September 29 2024
+Monday, September 30 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -135,7 +135,7 @@ Quick Guides
     
     [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
     
-    2 days ago
+    3 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -155,6 +155,8 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
     
     [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
@@ -167,7 +169,7 @@ Quick Guides
     
     [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
     
-    6 days ago
+    7 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -203,13 +205,23 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2023/02/coca-cola-220x150.jpg)](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [These 3 companies own the U.S. soft drink market](https://fifthperson.com/3-companies-own-us-soft-drink-market/)
+    ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
     
-    February 3, 2023
+    [Hartalega 2024 股东大会的10个重要启示](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
+    
+    6 days ago
     
 
+* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
+    
+    [Darren Yeo](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
+    
+    Thank you, Anna! I'm glad you found this article insightful,...
+    
 * [![Photo of Anna Seow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Anna Seow](https://secure.gravatar.com/avatar/cda2bcc36ce6d63d392af7f317835fd6?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
@@ -293,14 +305,6 @@ Quick Guides
     [Jonathan Lloyd](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675793)
     
     I thought that there would be US withholding tax payable on...
-    
-* [![Photo of The Fifth Person](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of The Fifth Person](https://secure.gravatar.com/avatar/4274daf98201ab4870de6da53ec99e83?s=70&d=mm&r=g)](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675686)
-    
-    [The Fifth Person](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675686)
-    
-    Hi Mei Li, Sure! We've dropped you an email about this :)...
     
 
 Advertisement
