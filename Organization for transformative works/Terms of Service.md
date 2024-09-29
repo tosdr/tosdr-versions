@@ -19,8 +19,6 @@ What's this about?
 
 The OTW is a fan-run nonprofit dedicated to the preservation of fanworks. We're sustained entirely by donations from our users! Please consider **[donating](https://donate.transformativeworks.org/otwgive)**.
 
-Elections: OTW Board Election Statistics for 2024 (**[details](https://www.transformativeworks.org/otw-election-statistics-for-2024/)**)
-
 Recent news
 
 [Choices Fanfic Archive is Moving to the AO3](https://www.transformativeworks.org/choices-fanfic-archive-is-moving-to-the-ao3/) [OTW Guest Post: Camilo Díaz Pino](https://www.transformativeworks.org/otw-guest-post-camilo-diaz-pino/) [The OTW is Recruiting for Policy & Abuse Volunteers](https://www.transformativeworks.org/the-otw-is-recruiting-for-policy-abuse-volunteers/) [Explore all news...](https://www.transformativeworks.org/news-feed)
