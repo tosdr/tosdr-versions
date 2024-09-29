@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Oblivion's Wonderful Legacy (Act II) - Erotic Fun for Adult Children](https://www.somethingawful.com/feature-articles/oblivion-mods-two/1/)
-* [What's Riker Doing?](https://www.somethingawful.com/photoshop-phriday/riker-star-trek/1/)
-* [Goons](https://www.somethingawful.com/comedy-goldmine/ms-paint-goons/1/)
-* [Spy Kids: All the Time in the World in 4D; Don't Be Afraid of the Dark; One Day; Colombiana; Our Idiot Brother; Suing the Devil](https://www.somethingawful.com/current-movie-reviews/spy-kids-dark/1/)
-* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
+* [Reading Time: The Master of Makeup](https://www.somethingawful.com/news/readingtime-dick-tracy/1/)
+* [Reader Mail](https://www.somethingawful.com/your-band-sucks/reader-mail/)
+* [Dear Scrawny Fools](https://www.somethingawful.com/news/golan-insatiable-letter/1/)
+* [AwfulVision: Videos that don't totally suck!](https://www.somethingawful.com/awfulvision/lasagna-cry-george/1/)
+* [Happy Easter](https://www.somethingawful.com/daily-dirt/dirt3-23-08/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Robot revolusions pros and cons](http://forums.somethingawful.com/showthread.php?threadid=4071386 "Robot revolusions pros and cons")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-butt.gif) [Leaving the toilet seat up](http://forums.somethingawful.com/showthread.php?threadid=4071385 "Leaving the toilet seat up")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [do you think unrefrigerated pizza left out over night is safe to eat?](http://forums.somethingawful.com/showthread.php?threadid=4071339 "do you think unrefrigerated pizza left out over night is safe to eat?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Robot revolusions pros and cons](http://forums.somethingawful.com/showthread.php?threadid=4071386 "Robot revolusions pros and cons")
 * ![](https://forumimages.somethingawful.com/forums/posticons/icon-30-attnmod.gif) [Nuevo Harry the House Plant (help raise him)](http://forums.somethingawful.com/showthread.php?threadid=4071374 "Nuevo Harry the House Plant (help raise him)")
 
 ### Random Articles
 
-* [Adventures in Living Alone](https://www.somethingawful.com/news/living-alone/)
-* [Chapter Sixteen](https://www.somethingawful.com/feature-articles/chapter-sixteen/1/)
-* [W3C HTML5 Logo (Thanks, Lowtax!)](https://www.somethingawful.com/awful-links/w3c-html5-logo/)
-* [Tetsuko,](https://www.somethingawful.com/awful-links/awful-link-1224/)
-* [State Og October Update](https://www.somethingawful.com/state-og/state-og-october/)
+* [Cheerleader Autopsy](https://www.somethingawful.com/movie-reviews/cheerleader-autopsy/1/)
+* [Welcome to the Cesspit of Crap!](https://www.somethingawful.com/daily-dirt/welcome-cesspit-crap/)
+* [NaNoWriMo Writing Tips!](https://www.somethingawful.com/news/nanowrimo-tips/1/)
+* [I Hate You Page 38](https://www.somethingawful.com/cliff-yablonski/i-hate-you-38/)
+* [Dark and Light](https://www.somethingawful.com/mmo-roulette/darkandlight/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
