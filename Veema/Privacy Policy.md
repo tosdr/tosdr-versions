@@ -259,15 +259,16 @@ LEARN MORE: https://veema.co.uk/teacher-cpd-programmes/#1624292734621-451aa4ff-0
 #NPQs  
 #Neverstoplearning
 
-[August 18, 2024](https://twitter.com/costa_veemaedu/status/1825208908228514208)
+[September 17, 2024](https://twitter.com/veemaedu/status/1836027325227381120)
 
-[](https://twitter.com/costa_veemaedu/status/1825208908228514208)
+[](https://twitter.com/veemaedu/status/1836027325227381120)
 
-[Our online PD events start Aug 27 at 1:30 PM UK time! Join Dr Julia Batters for "Launching into the](https://twitter.com/costa_veemaedu/status/1825208908228514208)[...](#) New School Year," then catch me on Aug 29 for "Effective CPD Models for Schools" from my new book.  
+[\*Final Countdown\* to register for an NPQ with Veema Education! Preferential rates are available for](https://twitter.com/veemaedu/status/1836027325227381120)[...](#) our CPD members and @FOBISIA1 member schools.  
   
-Hooray, we're back,@VeemaEdu.  
+LEARN MORE: https://veema.co.uk/teacher-cpd-programmes/#1624292734621-451aa4ff-0166  
   
-https://veema.co.uk/forthcoming-events/
+#NPQs  
+#Neverstoplearning
 
 © Copyright 2022 by Veema Limited. Company Registration No. 07799937. All Rights Reserved.
 
