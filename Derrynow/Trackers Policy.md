@@ -266,13 +266,6 @@ Most Popular
 [IN PICTURES: Gordon Harper's 90th birthday celebrations in Derry's City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1615208/in-pictures-gordon-harper-s-90th-birthday-celebrations-in-derry-s-city-hotel.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, 28th September 2024](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Cookery Masterclass served up to crowds at Creggan Old Library Trust")](https://www.derrynow.com/news/pictures---videos/1616137/pictures-cookery-masterclass-served-up-to-crowds-at-creggan-old-library-trust.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -303,12 +296,12 @@ PICTURE: DEPOSITPHOTOS
 [Struggling to sleep? Derry event to help achieve that](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night")](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![McDonald pledges to remove means test for carer’s allowance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDonald pledges to remove means test for carer’s allowance")](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
 
@@ -316,6 +309,13 @@ PICTURE: DEPOSITPHOTOS
 
 [McDonald pledges to remove means test for carer’s allowance](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night")](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![4,000 brown bins to reach rural areas of Derry in coming weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "4,000 brown bins to reach rural areas of Derry in coming weeks")](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
 
@@ -507,6 +507,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, 29th September 2024](https://www.derrynow.com/news/deaths/1615929/derry-death-notices-sunday-29th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![4,000 brown bins to reach rural areas of Derry in coming weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "4,000 brown bins to reach rural areas of Derry in coming weeks")](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -514,7 +521,7 @@ Advertise with Us
 [4,000 brown bins to reach rural areas of Derry in coming weeks](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry public warned about parking fine text messages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry public warned about parking fine text messages")](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
+[![Derry public warned about parking fine text messages](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_8966395.jpg--.jpg "Derry public warned about parking fine text messages")](https://www.derrynow.com/news/local-news/1615281/derry-public-warned-about-parking-fine-text-messages.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -545,15 +552,6 @@ Mayor of Causeway Coast and Glens, Councillor Ciarán McQuillan, joins with Ann 
 
 [Derry Death Notices - Saturday, 28th September 2024](https://www.derrynow.com/news/deaths/1615928/derry-death-notices-saturday-28th-september-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_09_27/2948783-1727469906340.jpg--.jpg?1727469907485 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
-
-Drogheda United players celebrate. Pic by Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City fall to defeat at Drogheda United](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
