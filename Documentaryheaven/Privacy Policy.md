@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Merchants of Cool](/wp-content/thumbnails/1990-100x70.jpg?x53432)
+* [![The Day of the Dollar](/wp-content/thumbnails/2395-100x70.jpg?x53432)
     
-    Merchants of Cool
+    The Day of the Dollar
     
-    They spend their days sifting through reams of market research data. They conduct endless surveys and focus groups. They comb the streets, the schools, and the malls, hot on the trail of the “next big](https://documentaryheaven.com/merchants-of-cool/ "Merchants of Cool")
-* [![Nixon in the Den](/wp-content/thumbnails/12642-100x70.jpg?x53432)
+    Do we live on a bubble? Is it possible for the heavily indebted American economy to collapse and take all of us down in a free fall with it? Have the days of the dollar been counted? Is it really unim](https://documentaryheaven.com/the-day-of-the-dollar/ "The Day of the Dollar")
+* [![Frank Matthews](/wp-content/thumbnails/9937-100x70.jpg?x53432)
     
-    Nixon in the Den
+    Frank Matthews
     
-    He was one of America's most successful presidents on the international stage, lauded as a world statesman who thawed the cold war. He was reelected in one of the biggest landslide victories](https://documentaryheaven.com/nixon-in-den/ "Nixon in the Den")
-* [![Unearthed: The Fracking Facade](/wp-content/thumbnails/6973-100x70.jpg?x53432)
+    It is said that Frank Mathews was richer than the "American Gangster" Frank Lucas, more powerful than the Mafia and in 1973 he managed to skip bail, dropping off the face of the earth with a staggerin](https://documentaryheaven.com/frank-matthews/ "Frank Matthews")
+* [![Afghanistan’s Child Drug Addicts](/wp-content/thumbnails/11335-100x70.jpg?x53432)
     
-    Unearthed: The Fracking Facade
+    Afghanistan’s Child Drug Addicts
     
-    A video exposing a flawed claim often abused in the sales pitch for promoting shale gas development across the world:“With a history of 60 years, after nearly a million wells drilled, there are no](https://documentaryheaven.com/unearthed-the-fracking-facade/ "Unearthed: The Fracking Facade")
-* [![Ghosts of Abu Ghraib](/wp-content/thumbnails/1392-100x70.jpg?x53432)
+    As the world focused on the fight against the Taliban in Afghanistan this Channel 4 special set out to reveal how the conflict has lead to a terrifying rise in the number of children who are now addic](https://documentaryheaven.com/afghanistans-child-drug-addicts/ "Afghanistan’s Child Drug Addicts")
+* [![The Amityville Horror: The Real Story](/wp-content/thumbnails/4899-100x70.jpg?x53432)
     
-    Ghosts of Abu Ghraib
+    The Amityville Horror: The Real Story
     
-    What was perhaps the most disgraceful episode in U.S. military history is examined in director Rory Kennedy's Ghosts of Abu Ghraib. By now there can't be many folks who aren't at least somewhat famili](https://documentaryheaven.com/ghosts-of-abu-ghraib/ "Ghosts of Abu Ghraib")
-* [![The Manson Women](/wp-content/thumbnails/507-100x70.png?x53432)
+    On 13 November 1974, police discovered six members of the De Feo family shot dead; the father, mother and four of the five children, at 112 Ocean Avenue in Amityville, New York. Attention turned to Ro](https://documentaryheaven.com/the-amityville-horror-the-real-story/ "The Amityville Horror: The Real Story")
+* [![THE TRUTH & LIES OF 9/11](/wp-content/thumbnails/1714-100x70.jpg?x53432)
     
-    The Manson Women
+    THE TRUTH & LIES OF 9/11
     
-    Barely out of their teens, Susan Atkins, Leslie Van Houten and Patricia Krenwinkel, laughed their way through their trial for multiple murder. Did cult tactics make them kill?Some thirty years on, C](https://documentaryheaven.com/the-manson-women/ "The Manson Women")
+    In the wake of the September 11th attacks, Mike Ruppert was among the first to be publicly critical of a number of transparent flaws in the official story presented by the US government. Mike is a for](https://documentaryheaven.com/the-truth-lies-of-911/ "THE TRUTH & LIES OF 9/11")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
