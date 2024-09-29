@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ec1cf5ec09c0aa77db3d99ba6a736352
+d5d82c75bd22bd1ed52313c0ce7cab7c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round pink Japanese glass beads](https://www.sojourner.biz/images/cache/glass/GL0322.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-pink-japanese-glass-beads.html "10 mm round pink Japanese glass beads")
+[![Blue wave clasp](https://www.sojourner.biz/images/cache/SKU0151-1front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
 
-#### [10 mm round pink Japanese glass beads](https://www.sojourner.biz/beads/glass/10-mm-round-pink-japanese-glass-beads.html "10 mm round pink Japanese glass beads")
+#### [Blue wave clasp](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
 
-$10.00
+$23.00
 
 ### Best Sellers
 
