@@ -18,6 +18,8 @@
 * [my bookmarks](https://www.darebee.com/bookmarks.html)
 * [support](https://www.darebee.com/support.html)
 
+[![](/images/promo/alerts/help.gif)](https://www.darebee.com/support.html)
+
 Privacy Policy
 ==============
 
@@ -52,7 +54,7 @@ You can do the following at any time by contacting us via the email address or p
 
 Funding Level
 
-24%
+10%
 
 [What Does This Mean?](https://www.darebee.com/funding.html)
 
