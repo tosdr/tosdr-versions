@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dc4860e09427abc3e136ad467b273277
+ba4e7d1b51f925140ab4f357b50b4807
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Large Chinese lacquer bowl](https://sojourner.biz/images/cache/bohemian_chic/BC0012angle.200.jpg)](https://sojourner.biz/bohemian-chic-decor/large-chinese-lacquer-bowl.html "Large Chinese lacquer bowl")
+[![Light sapphire Swarovski square clasp](https://sojourner.biz/images/cache/SKU0543front.200.jpg)](https://sojourner.biz/clasps/swarovski/light-sapphire-swarovski-square-clasp.html "Light sapphire Swarovski square clasp")
 
-#### [Large Chinese lacquer bowl](https://sojourner.biz/bohemian-chic-decor/large-chinese-lacquer-bowl.html "Large Chinese lacquer bowl")
+#### [Light sapphire Swarovski square clasp](https://sojourner.biz/clasps/swarovski/light-sapphire-swarovski-square-clasp.html "Light sapphire Swarovski square clasp")
 
-$125.00
+$21.00
 
 ### Best Sellers
 
