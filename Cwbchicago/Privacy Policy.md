@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/01/Generic34-edited-326x245.jpg)](https://cwbchicago.com/2024/09/2-women-mugged-in-the-loop-on-thursday-evening-suspects-detained.html "15-year-olds charged with mugging woman in the Loop")
+
+Loop
+
+### [15-year-olds charged with mugging woman in the Loop](https://cwbchicago.com/2024/09/2-women-mugged-in-the-loop-on-thursday-evening-suspects-detained.html "15-year-olds charged with mugging woman in the Loop")
+
+[September 27, 2024 6:43 AM](https://cwbchicago.com/2024/09)
+
+Charges are pending against two people after a woman was mugged in the Loop on Thursday evening. Shortly after those suspects were detained, yet another woman was mugged near the Daley Center.[](https://cwbchicago.com/2024/09/2-women-mugged-in-the-loop-on-thursday-evening-suspects-detained.html "15-year-olds charged with mugging woman in the Loop")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/Shedd-326x245.jpg)](https://cwbchicago.com/2024/09/woman-mugged-necklace-snatched-near-shedd-aquarium.html "Woman mugged, necklace snatched near Shedd Aquarium")
 
 Loop
@@ -262,16 +272,6 @@ Ravenswood
 [September 26, 2024 11:18 AM](https://cwbchicago.com/2024/09)
 
 CHICAGO — A man is charged with breaking windows at a Ravenswood tavern three times while on pretrial release for allegedly breaking the window of a neighboring bar and stealing furniture from outside nearby homes. Court records show that Glenn Gerich, 58, repeatedly skipped court in the pending case and continued to skip court even[](https://cwbchicago.com/2024/09/man-broke-windows-at-ravenswood-tavern-3x-while-on-pretrial-release-for-similar-allegations-prosecutors-say.html "Man broke windows at Ravenswood tavern 3x while on pretrial release for similar allegations, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Carlos-Arredondo-326x245.jpg)](https://cwbchicago.com/2024/09/oops-man-dropped-a-receipt-with-his-name-on-it-while-mugging-a-woman-as-she-took-out-the-trash-prosecutors.html "Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors")
-
-Little Village
-
-### [Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors](https://cwbchicago.com/2024/09/oops-man-dropped-a-receipt-with-his-name-on-it-while-mugging-a-woman-as-she-took-out-the-trash-prosecutors.html "Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors")
-
-[September 26, 2024 10:18 AM](https://cwbchicago.com/2024/09)
-
-A Chicago man faces robbery charges for allegedly mugging a woman as she took out the trash after police found his name on a receipt someone dropped at the crime scene.[](https://cwbchicago.com/2024/09/oops-man-dropped-a-receipt-with-his-name-on-it-while-mugging-a-woman-as-she-took-out-the-trash-prosecutors.html "Oops! Man dropped a receipt with his name on it while mugging a woman as she took out the trash: prosecutors")
 
 Search
 
