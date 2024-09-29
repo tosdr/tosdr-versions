@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Long Hot SummerKeith Urban<br><br>4:59am |
-| Fast CarLuke Combs<br><br>4:55am |
-| Good On YouPriscilla Block<br><br>4:52am |
-| You ProofMorgan Wallen<br><br>4:49am |
-| Beatles And EaglesThe Frontman<br><br>4:45am |
+| This Is My DirtJustin Moore<br><br>11:39am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:35am |
+| Angel EyesLove And Theft<br><br>11:32am |
+| LosersPost Malone Ft Jelly Roll<br><br>11:29am |
+| Mud On The TiresBrad Paisley<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Country • Western
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
