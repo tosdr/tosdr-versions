@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We understand human mental processes only slightly better than a fish understands swimming”
+“ You're only given one little spark of madness. You mustn't lose it”
 
-[John McCarthy](http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29)
+[Robin Williams](http://en.wikipedia.org/wiki/Robin_Williams)
 
 [](https://www.adafruit.com/about)
 
