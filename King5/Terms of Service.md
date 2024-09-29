@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d027016a-b3be-4897-a7d0-ce472357ba14/20240929T004047/d027016a-b3be-4897-a7d0-ce472357ba14_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d027016a-b3be-4897-a7d0-ce472357ba14/20240929T004047/d027016a-b3be-4897-a7d0-ce472357ba14_360x203.jpg)](https://www.king5.com/article/news/local/lumen-field-host-fifa-club-world-cup-matches-2025/281-fa3c1f71-2d77-41e4-85fb-59c3bd3373bc)
+    *  [![](https://media.king5.com/assets/KING/images/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb/20240929T033848/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb/20240929T033848/a482cdee-8aea-4e4d-9a0e-ea8e8e2192fb_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
         
-        #### [FIFA selects Lumen Field as 2025 Club World Cup host venue](https://www.king5.com/article/news/local/lumen-field-host-fifa-club-world-cup-matches-2025/281-fa3c1f71-2d77-41e4-85fb-59c3bd3373bc)
+        #### [WSDOT said this is the biggest weekend for road closures. Here's what roads will be closed](https://www.king5.com/article/traffic/traffic-news/drivers-aware-monster-amount-road-closures-this-weekend-wsdot-seattle/281-19164449-085f-44db-ad81-26cba0a295f6)
         
-    *  [![](https://media.king5.com/assets/KGW/images/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb/20240927T225435/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb/20240927T225435/fc090b34-cdc8-49eb-a7eb-e80e689ebbfb_360x203.jpg)](https://www.king5.com/article/news/local/lorange-yaowarat-react-making-2024-new-york-times-favorites-list/283-f06b7a02-8cab-4a50-a5e5-d570693e27c8)
+    *  [![](https://media.king5.com/assets/KING/images/df7a6266-ca9a-407f-9583-5ce777994893/20240704T232727/df7a6266-ca9a-407f-9583-5ce777994893_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df7a6266-ca9a-407f-9583-5ce777994893/20240704T232727/df7a6266-ca9a-407f-9583-5ce777994893_360x203.jpg)](https://www.king5.com/article/news/local/private-fireworks-show-near-tacoma/281-3369d365-f4dd-4998-ad8e-874c1f1fe102)
         
-        #### [Portland restaurants celebrate making NYT list of America's 50 best](https://www.king5.com/article/news/local/lorange-yaowarat-react-making-2024-new-york-times-favorites-list/283-f06b7a02-8cab-4a50-a5e5-d570693e27c8)
+        #### [What's that noise? A private fireworks show near Tacoma](https://www.king5.com/article/news/local/private-fireworks-show-near-tacoma/281-3369d365-f4dd-4998-ad8e-874c1f1fe102)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d5b6b77c-812f-4c5a-967a-a057d4cce1c9/20240928T012927/d5b6b77c-812f-4c5a-967a-a057d4cce1c9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5b6b77c-812f-4c5a-967a-a057d4cce1c9/20240928T012927/d5b6b77c-812f-4c5a-967a-a057d4cce1c9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/058df5e4-f329-4b5f-9b00-cb551d8dfa0e/20240929T051933/058df5e4-f329-4b5f-9b00-cb551d8dfa0e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/058df5e4-f329-4b5f-9b00-cb551d8dfa0e/20240929T051933/058df5e4-f329-4b5f-9b00-cb551d8dfa0e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/d3c5e80d-6218-47ed-a10c-b1ad733976a6/20240928T013020/d3c5e80d-6218-47ed-a10c-b1ad733976a6_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/d3c5e80d-6218-47ed-a10c-b1ad733976a6/20240928T013020/d3c5e80d-6218-47ed-a10c-b1ad733976a6_360x203.jpg)](https://www.king5.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
+    *  [![](https://media.king5.com/assets/KING/images/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a/20240929T030549/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a/20240929T030549/7f10d6d4-a3b3-4b1f-a0aa-3480b76b983a_360x203.jpg)](https://www.king5.com/article/news/local/bothell-woman-volunteers-red-cross-serve-those-impacted-hurricane-helene/281-fb58556d-03a5-409b-a9be-855ab4e673e6)
         
-        #### [Hurricane Helene kills at least 44 and cuts a swath of destruction across the Southeast](https://www.king5.com/article/news/nation-world/helene-weakens-to-a-tropical-storm/507-5fda97de-ed75-4e4c-8358-9a15f45d12cf)
+        #### [Bothell woman volunteers with Red Cross to serve those impacted by Hurricane Helene](https://www.king5.com/article/news/local/bothell-woman-volunteers-red-cross-serve-those-impacted-hurricane-helene/281-fb58556d-03a5-409b-a9be-855ab4e673e6)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-57°
+56°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
