@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Monfalcone ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/cities/30-facts-about-monfalcone/)
+[![50 Facts About Glucose ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-glucose/)
 
-Cities
+Chemistry
 
-28 Sep 2024
+29 Sep 2024
 
-[30 Facts About Monfalcone](https://facts.net/world/cities/30-facts-about-monfalcone/)
+[50 Facts About Glucose](https://facts.net/science/chemistry/50-facts-about-glucose/)
 
-[![50 Facts About Radial Tunnel Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2296%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/50-facts-about-radial-tunnel-syndrome/)
+[![35 Facts About Norse Gods ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/culture/35-facts-about-norse-gods/)
 
-Health
+Culture
 
-28 Sep 2024
+29 Sep 2024
 
-[50 Facts About Radial Tunnel Syndrome](https://facts.net/lifestyle/health/50-facts-about-radial-tunnel-syndrome/)
+[35 Facts About Norse Gods](https://facts.net/history/culture/35-facts-about-norse-gods/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
