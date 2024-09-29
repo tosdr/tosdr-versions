@@ -249,7 +249,7 @@ Games you might like
 
 [Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
 
-[Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) new
+[Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
 
 [Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://imgs2.dab3games.com/marble-run-3d-ft1942.png)
 
