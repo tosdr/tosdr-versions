@@ -79,8 +79,8 @@ Trending Posts
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 
 Close
@@ -143,8 +143,8 @@ Trending Posts
 * [Workers at 'progressive' Trader Joe's face rampant union busting two years after first store unionized](https://therealnews.com/is-trader-joes-the-next-big-chain-to-unionize)
 * [Hezbollah says Israel dropping leaflets with 'very dangerous' barcodes in Lebanon](https://therealnews.com/hezbollah-says-israel-dropping-leaflets-with-very-dangerous-barcodes-in-lebanon)
 * [Anti-Zionist Jews must play a role in Palestinian liberation](https://therealnews.com/anti-zionist-jews-must-play-a-role-in-palestinian-liberation)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 
 [Skip to content](#main)
