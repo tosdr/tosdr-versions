@@ -26,31 +26,29 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wrightpod-1200-x-628-1200x630.jpg)](https://americanwirenews.com/podcaster-says-racists-are-posing-as-caitlin-clark-fans-to-terrorize-wnbas-black-players/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tlaib-strike-split-1200-x-628-1200-x-628-1200x630.jpg)](https://americanwirenews.com/rashida-tlaib-not-a-happy-camper-after-hezbollah-decapitation-strike/)
 
-[Podcaster says racists are posing as Caitlin Clark fans to ‘terrorize’ WNBA’s black players](https://americanwirenews.com/podcaster-says-racists-are-posing-as-caitlin-clark-fans-to-terrorize-wnbas-black-players/)
+[Rashida Tlaib not a happy camper after Hezbollah decapitation strike](https://americanwirenews.com/rashida-tlaib-not-a-happy-camper-after-hezbollah-decapitation-strike/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-piers-morgan-1200x630.jpg)](https://americanwirenews.com/mehdi-hasan-accuses-trump-of-quoting-hitler-spits-venom-at-piers-morgan-for-pushing-back/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumpal-trumpga-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-gets-a-rousing-welcome-at-alabama-georgia-game-while-kamalas-sad-stunt-fizzles/)
 
-[Mehdi Hasan accuses Trump of quoting Hitler, spits venom at Piers Morgan for pushing back](https://americanwirenews.com/mehdi-hasan-accuses-trump-of-quoting-hitler-spits-venom-at-piers-morgan-for-pushing-back/)
+[Trump gets a rousing welcome at Alabama-Georgia game while Kamala’s sad stunt fizzles](https://americanwirenews.com/trump-gets-a-rousing-welcome-at-alabama-georgia-game-while-kamalas-sad-stunt-fizzles/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-clay-travis-on-fox-news-1200x630.jpg)](https://americanwirenews.com/outkick-founder-goes-toe-to-toe-with-dem-strategist-dumbest-argument-ever-made-in-the-history-of-fox-news/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wilmore-williams-spacex-1200x630.jpg)](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
 
-[Outkick founder goes toe-to-toe with Dem strategist: ‘Dumbest argument ever made in the history of Fox News’](https://americanwirenews.com/outkick-founder-goes-toe-to-toe-with-dem-strategist-dumbest-argument-ever-made-in-the-history-of-fox-news/)
+[‘Elon to the rescue!’ SpaceX launches mission to get stranded astronauts home](https://americanwirenews.com/elon-to-the-rescue-spacex-launches-mission-to-get-stranded-astronauts-home/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-jennings_kamala-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/scott-jennings-likens-kamalas-border-visit-to-an-arsonist-returning-to-the-crime-scene/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harrisaz-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/middle-class-kamala-rocks-62k-tiffany-necklace-during-staged-border-visit-report/)
 
-[Scott Jennings likens Kamala’s border visit to an ‘arsonist’ returning to the crime scene](https://americanwirenews.com/scott-jennings-likens-kamalas-border-visit-to-an-arsonist-returning-to-the-crime-scene/)
+[‘Middle class’ Kamala rocks $62K Tiffany necklace during ‘staged’ border visit: report](https://americanwirenews.com/middle-class-kamala-rocks-62k-tiffany-necklace-during-staged-border-visit-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pexels-volleyball-player-1200x630.jpg)](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-young-trump-supporters-1200x630.jpg)](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
 
-[Women’s volleyball team refuses to play against team with reported trans player](https://americanwirenews.com/womens-volleyball-team-refuses-to-play-against-team-with-reported-trans-player/)
+[Poll shows younger voters skewing to the right: ‘They think of Trump as an anti-hero, not a villian’](https://americanwirenews.com/poll-shows-younger-voters-skewing-to-the-right-they-think-of-trump-as-an-anti-hero-not-a-villian/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-sg-mcguire-1200x630.jpg)](https://americanwirenews.com/california-man-allegedly-throws-explosive-at-courthouse-over-unregistered-firearm-charge/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-djtprairieduchien-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
 
-Image via Santa Barbara County Sheriff's Office
-
-[California man allegedly throws explosive at courthouse over unregistered firearm charge](https://americanwirenews.com/california-man-allegedly-throws-explosive-at-courthouse-over-unregistered-firearm-charge/)
+[Trump rips Fox News over Kamala’s ‘bullsh\*t’ border remarks: ‘It all stops the moment I take the oath’](https://americanwirenews.com/trump-rips-fox-news-over-kamalas-bullsht-border-remarks-it-all-stops-the-moment-i-take-the-oath/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-wright-adams-1200x630.jpg)](https://americanwirenews.com/mayor-adams-issues-order-regarding-top-deputys-duties-if-shes-unable-to-perform-such-functions/)
 
@@ -60,9 +58,9 @@ Image via Santa Barbara County Sheriff's Office
 
 [Sen. Rick Scott caves to CNN talking points on Hurricane Helene but it’s not enough to stop leftist hate](https://americanwirenews.com/sen-rick-scott-caves-to-cnn-talking-points-on-hurricane-helene-but-its-not-enough-to-stop-leftist-hate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-stevielive-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-vance-primanti-1200x630.jpg)
 
-### Kamala-backing rock diva says new pro-abortion anthem ‘may be the most important thing I ever do’](https://americanwirenews.com/kamala-backing-rock-diva-says-new-pro-abortion-anthem-may-be-the-most-important-thing-i-ever-do/)
+### Vance denied entry at Primanti Bros in Pennsylvania, iconic chain’s cleanup disputed](https://americanwirenews.com/vance-denied-entry-at-primanti-bros-in-pennsylvania-iconic-chains-cleanup-disputed/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
