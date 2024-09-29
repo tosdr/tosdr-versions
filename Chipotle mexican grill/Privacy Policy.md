@@ -24,7 +24,7 @@ CHIPOTLE’S U.S. PRIVACY POLICY, INCLUDING CALIFORNIA PRIVACY RIGHTS
 
 ###### _**PARA VER NUESTRA POLÍTICA DE PRIVACIDAD EN ESPAÑOL, [HAGA CLIC AQUÍ](https://www.chipotle.com/about-us/privacy-policy-es)**_
 
-This “Privacy Policy” describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliates in the United States (“Chipotle”, “we”, “our”, “us”) may collect, use, and disclose personal information of visitors who access or interact with our mobile application (“App”) or our websites (“Websites”) that link to this Privacy Policy, as well as other personal information about our customers.  The App, those Websites, our restaurants, and our related service offerings are referred to in this Privacy Policy as our “Services.”  Please note, this Privacy Policy is applicable to consumers in the United States (US). We maintain separate privacy policies for our US employees, [job applicants](https://www.chipotle.com/recruitingnotice), and contractors and for customers, employees, contractors and job applicants in the European Union, United Kingdom, and Canada. This Privacy Policy also does not apply to our former employees and their family members, dependents, and beneficiaries; if you are a California resident who is a current or former employee of Chipotle or a family member, dependent, or beneficiary of any of our current or former employees, you may request access to our Employee Privacy Policy by sending an email to [privacy@chipotle.com](mailto:privacy@chipotle.com).
+This “Privacy Policy” describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliates in the United States (“Chipotle”, “we”, “our”, “us”) may collect, use, and disclose personal information of visitors who access or interact with our mobile application (“App”) or our websites (“Websites”) that link to this Privacy Policy, as well as other personal information about our customers.  The App, those Websites, our restaurants, and our related service offerings are referred to in this Privacy Policy as our “Services.”  Please note, this Privacy Policy is applicable to consumers in the United States (US). We maintain separate privacy policies for our US employees, job applicants, and contractors and for customers, employees, contractors and job applicants in the European Union, United Kingdom, and Canada. This Privacy Policy also does not apply to our former employees and their family members, dependents, and beneficiaries; if you are a California resident who is a current or former employee of Chipotle or a family member, dependent, or beneficiary of any of our current or former employees, you may request access to our Employee Privacy Policy by sending an email to [privacy@chipotle.com](mailto:privacy@chipotle.com).
 
 **Notice at Collection**
 
@@ -403,17 +403,17 @@ JOIN NOW
 
 ### DOWNLOAD OUR APP
 
- [![Apple App Store](/adobe/dynamicmedia/deliver/dm-aid--42a81337-7092-4971-b02e-63cf5b94fc2b/footer-app-download.png?preferwebp=true&quality=85 "Apple App Store")](https://itunes.apple.com/us/app/chipotle/id327228455?mt=8)
+ [![Apple App Store](/adobe/dynamicmedia/deliver/dm-aid--42a81337-7092-4971-b02e-63cf5b94fc2b/footer-app-download.png?quality=85&preferwebp=true "Apple App Store")](https://itunes.apple.com/us/app/chipotle/id327228455?mt=8)
 
- [![Google Play](/adobe/dynamicmedia/deliver/dm-aid--a9995df0-b5d5-403b-a6d7-03a8bb0c74fa/footer-google-play.png?preferwebp=true&quality=85 "Google Play")](https://play.google.com/store/apps/details?id=com.chipotle.ordering)
+ [![Google Play](/adobe/dynamicmedia/deliver/dm-aid--a9995df0-b5d5-403b-a6d7-03a8bb0c74fa/footer-google-play.png?quality=85&preferwebp=true "Google Play")](https://play.google.com/store/apps/details?id=com.chipotle.ordering)
 
 ### CONNECT WITH US
 
- [![instagram social icon ](/adobe/dynamicmedia/deliver/dm-aid--66cfe770-ad76-4a66-a07c-e6b3111e2371/social-icon-insta.png?preferwebp=true&quality=85 "instagram image")](https://www.instagram.com/chipotle/)
+ [![instagram social icon ](/adobe/dynamicmedia/deliver/dm-aid--66cfe770-ad76-4a66-a07c-e6b3111e2371/social-icon-insta.png?quality=85&preferwebp=true "instagram image")](https://www.instagram.com/chipotle/)
 
- [![twitter x social icon ](/adobe/dynamicmedia/deliver/dm-aid--1ca1feab-ec90-4002-8fee-88c10766910b/social-icon-twitter.png?preferwebp=true&quality=85 "twitter x image")](https://www.twitter.com/chipotletweets)
+ [![twitter x social icon ](/adobe/dynamicmedia/deliver/dm-aid--1ca1feab-ec90-4002-8fee-88c10766910b/social-icon-twitter.png?quality=85&preferwebp=true "twitter x image")](https://www.twitter.com/chipotletweets)
 
- [![facebook social icon](/adobe/dynamicmedia/deliver/dm-aid--5ddd6649-c2c5-455b-932b-0ceb4f8e2546/social-icon-facebook.png?preferwebp=true&quality=85 "facebook image")](https://www.facebook.com/chipotle)
+ [![facebook social icon](/adobe/dynamicmedia/deliver/dm-aid--5ddd6649-c2c5-455b-932b-0ceb4f8e2546/social-icon-facebook.png?quality=85&preferwebp=true "facebook image")](https://www.facebook.com/chipotle)
 
 © 2024 Chipotle Mexican Grill
 
