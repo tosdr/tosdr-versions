@@ -18,6 +18,8 @@
 * [my bookmarks](https://darebee.com/bookmarks.html)
 * [support](https://darebee.com/support.html)
 
+[![](/images/promo/alerts/help.gif)](https://darebee.com/support.html)
+
 Terms of Use
 ============
 
@@ -50,7 +52,7 @@ The DAREBEE team
 
 Funding Level
 
-24%
+10%
 
 [What Does This Mean?](https://darebee.com/funding.html)
 
