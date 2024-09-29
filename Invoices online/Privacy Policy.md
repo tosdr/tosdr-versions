@@ -118,59 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Support even on Sundays!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> Thanks Adriaan...
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Shaun Gartshore
+Johan Botha - Brand Xplosion
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=104714264)  
-Abandoned Vehicle and Truck Solutions
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=28382398)  
+National Elite Security Services (PTY) LTD
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=31243399)  
-OrgChart Hosting Pty Ltd
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=87649421)  
+UniTech Solutions Pty Ltd
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=165593908)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=190992547)  
-Iurus Inc
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=192444234)  
-Oak Tree Immigration
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=164984093)  
-Blue Bulls Rugby Coaches Association
-
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=39699967)  
-Testpro Laboratory (Pty) Ltd
-
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=73087769)  
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=110419485)  
 OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=27329864)  
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=51887905)  
+Depot Diesel (Pty) Ltd
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=134594004)  
+Tagline Brands
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=206456076)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=166446211)  
+Chiron Medical Solutions
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=160408916)  
 IYD
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=196905654)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=29240506)  
+Electro-Heat
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=27461317)  
-Nogana Events and Decor
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=195244909)  
+Creative Characters
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=200886166)  
-Multi CNC Solutions CC
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=86561573)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=162045868)  
-Wiselink Broadband Vryheid
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=30668425)  
+AquariumSmiths
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=146382954)  
-MSPCloud (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=118653168)  
+Nilbet T/A Waterman
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=68eca0eb9325f7172c2c4f29f53efb16e1b4ba99008a17fd2350c1424ffa5d83&c=140481599)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=171457819)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=cdf462f847279cbe7acd834661a48b87107c2f5abfe0d8bb36d6e001f25f1e2b&c=25492364)  
+Lion Software Develepment
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
