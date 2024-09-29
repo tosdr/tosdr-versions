@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Saturday, September 28 2024
+Sunday, September 29 2024
 
 Latest
 
-* [Meta blocks links to the hacked JD Vance dossier on Threads, Instagram, and Facebook](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
-* [Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
-* [What happens when everybody winds up wearing ‘AI body cams’? – Computerworld](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
-* [How to Incorporate the ‘Whimsigoth’ Aesthetic Into Your Decor](https://digitpatrox.com/how-to-incorporate-the-whimsigoth-aesthetic-into-your-decor/)
-* [Best Sump Pump Backup Systems of 2024](https://digitpatrox.com/best-sump-pump-backup-systems-of-2024/)
-* [Researchers Are Creating AI Scientists, and It’s Going Better Than Expected](https://digitpatrox.com/researchers-are-creating-ai-scientists-and-its-going-better-than-expected/)
-* [Hands-On With AI for Workspace](https://digitpatrox.com/hands-on-with-ai-for-workspace/)
-* [This music streamer just became the center piece of my home HiFi](https://digitpatrox.com/this-music-streamer-just-became-the-center-piece-of-my-home-hifi/)
-* [Welcome to Meta’s future, where everyone wears cameras](https://digitpatrox.com/welcome-to-metas-future-where-everyone-wears-cameras/)
-* [Next Year’s Apple AirPods Could Detect Heart Diseases, According to a New Patent](https://digitpatrox.com/next-years-apple-airpods-could-detect-heart-diseases-according-to-a-new-patent/)
+* [Can ChatGPT Do Reliable Call Center Sentiment Analysis?](https://digitpatrox.com/can-chatgpt-do-reliable-call-center-sentiment-analysis/)
+* [How to watch Vikings vs Packers live stream online 2024](https://digitpatrox.com/how-to-watch-vikings-vs-packers-live-stream-online-2024/)
+* [Amazon may tap Brian Williams to host an election night special](https://digitpatrox.com/amazon-may-tap-brian-williams-to-host-an-election-night-special/)
+* [Frieren: Beyond Journey’s End Season 2 Announced](https://digitpatrox.com/frieren-beyond-journeys-end-season-2-announced/)
+* [What is a Router Firewall and How Does it Work?](https://digitpatrox.com/what-is-a-router-firewall-and-how-does-it-work/)
+* [Notion AI can now access Slack chats and Google Drive files – Computerworld](https://digitpatrox.com/notion-ai-can-now-access-slack-chats-and-google-drive-files-computerworld/)
+* [Razer Is Making a Gaming Haptic Pad for Your Chair](https://digitpatrox.com/razer-is-making-a-gaming-haptic-pad-for-your-chair/)
+* [How to watch Big Brother UK online from anywhere](https://digitpatrox.com/how-to-watch-big-brother-uk-online-from-anywhere/)
+* [Best Glass Cleaners – Consumer Reports](https://digitpatrox.com/best-glass-cleaners-consumer-reports/)
+* [New to OneDrive? The 8 Tips You Need to Know](https://digitpatrox.com/new-to-onedrive-the-8-tips-you-need-to-know/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/7LV_E4fzkjkcdLL5mj5WVOuqWUg=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg)](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
+* [![](https://assets.techrepublic.com/uploads/2021/07/call-center.jpg)](https://digitpatrox.com/can-chatgpt-do-reliable-call-center-sentiment-analysis/)
     
-    [Meta blocks links to the hacked JD Vance dossier on Threads, Instagram, and Facebook](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
+    [Can ChatGPT Do Reliable Call Center Sentiment Analysis?](https://digitpatrox.com/can-chatgpt-do-reliable-call-center-sentiment-analysis/)
     
-    37 mins ago
+    32 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Bundles-of-Bravery-drop-introduces-bundles-to-Minecraft.jpg)](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
+* [![](https://cdn.mos.cms.futurecdn.net/nAqZGrfPE6szgYnrqHuQiE-1200-80.jpg)](https://digitpatrox.com/how-to-watch-vikings-vs-packers-live-stream-online-2024/)
     
-    [Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
+    [How to watch Vikings vs Packers live stream online 2024](https://digitpatrox.com/how-to-watch-vikings-vs-packers-live-stream-online-2024/)
     
-    50 mins ago
+    49 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/09/3537041-0-82844400-1727435911-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/53eihNWAVbhQ0m8NsKCSiBXLZWo=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25647892/81664127.jpg)](https://digitpatrox.com/amazon-may-tap-brian-williams-to-host-an-election-night-special/)
     
-    [What happens when everybody winds up wearing ‘AI body cams’? – Computerworld](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
+    [Amazon may tap Brian Williams to host an election night special](https://digitpatrox.com/amazon-may-tap-brian-williams-to-host-an-election-night-special/)
+    
+    2 hours ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/09/Frieren-Season-2.jpg)](https://digitpatrox.com/frieren-beyond-journeys-end-season-2-announced/)
+    
+    [Frieren: Beyond Journey’s End Season 2 Announced](https://digitpatrox.com/frieren-beyond-journeys-end-season-2-announced/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/What-is-a-Router-Firewall_.jpg)](https://digitpatrox.com/what-is-a-router-firewall-and-how-does-it-work/)
+    
+    [What is a Router Firewall and How Does it Work?](https://digitpatrox.com/what-is-a-router-firewall-and-how-does-it-work/)
     
     3 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J8S1MCBKYVG2RAD3WFSFHXJJ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-incorporate-the-whimsigoth-aesthetic-into-your-decor/)
-    
-    [How to Incorporate the ‘Whimsigoth’ Aesthetic Into Your Decor](https://digitpatrox.com/how-to-incorporate-the-whimsigoth-aesthetic-into-your-decor/)
-    
-    3 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1724164657/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Sump-Pumps-0824)](https://digitpatrox.com/best-sump-pump-backup-systems-of-2024/)
-    
-    [Best Sump Pump Backup Systems of 2024](https://digitpatrox.com/best-sump-pump-backup-systems-of-2024/)
-    
-    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [37 mins ago
+* [32 mins ago
     
-    ### Meta blocks links to the hacked JD Vance dossier on Threads, Instagram, and Facebook](https://digitpatrox.com/meta-blocks-links-to-the-hacked-jd-vance-dossier-on-threads-instagram-and-facebook/)
-* [50 mins ago
+    ### Can ChatGPT Do Reliable Call Center Sentiment Analysis?](https://digitpatrox.com/can-chatgpt-do-reliable-call-center-sentiment-analysis/)
+* [49 mins ago
     
-    ### Minecraft Bundles of Bravery Drop Announced; Here Is Everything New](https://digitpatrox.com/minecraft-bundles-of-bravery-drop-announced-here-is-everything-new/)
-* [3 hours ago
+    ### How to watch Vikings vs Packers live stream online 2024](https://digitpatrox.com/how-to-watch-vikings-vs-packers-live-stream-online-2024/)
+* [2 hours ago
     
-    ### What happens when everybody winds up wearing ‘AI body cams’? – Computerworld](https://digitpatrox.com/what-happens-when-everybody-winds-up-wearing-ai-body-cams-computerworld/)
+    ### Amazon may tap Brian Williams to host an election night special](https://digitpatrox.com/amazon-may-tap-brian-williams-to-host-an-election-night-special/)
 
 Most Popular Topics
 
 * [2 weeks ago
     
-    ### A Lifetime of SiteGuru Is Just $69](https://digitpatrox.com/a-lifetime-of-siteguru-is-just-69/)
-* [2 weeks ago
+    ### How Evernote became a great productivity app again](https://digitpatrox.com/how-evernote-became-a-great-productivity-app-again/)
+* [August 26, 2024
     
-    ### 8BitDo’s new Bluetooth mod kit puts GameCube controllers back into play](https://digitpatrox.com/8bitdos-new-bluetooth-mod-kit-puts-gamecube-controllers-back-into-play/)
-* [7 days ago
+    ### Intel Gamer Days just went live — 5 deals I’d shop from $599](https://digitpatrox.com/intel-gamer-days-just-went-live-5-deals-id-shop-from-599/)
+* [4 weeks ago
     
-    ### How to Future-Proof a VoIP Phone System](https://digitpatrox.com/how-to-future-proof-a-voip-phone-system/)
+    ### Windows 11 is now the most popular OS for PC gaming](https://digitpatrox.com/windows-11-is-now-the-most-popular-os-for-pc-gaming/)
 
 Last Modified Topics
 
+* [4 hours ago
+    
+    ### Razer Is Making a Gaming Haptic Pad for Your Chair](https://digitpatrox.com/razer-is-making-a-gaming-haptic-pad-for-your-chair/)
+* [4 hours ago
+    
+    ### How to watch Big Brother UK online from anywhere](https://digitpatrox.com/how-to-watch-big-brother-uk-online-from-anywhere/)
 * [5 hours ago
     
-    ### Hands-On With AI for Workspace](https://digitpatrox.com/hands-on-with-ai-for-workspace/)
-* [5 hours ago
-    
-    ### This music streamer just became the center piece of my home HiFi](https://digitpatrox.com/this-music-streamer-just-became-the-center-piece-of-my-home-hifi/)
-* [6 hours ago
-    
-    ### Welcome to Meta’s future, where everyone wears cameras](https://digitpatrox.com/welcome-to-metas-future-where-everyone-wears-cameras/)
+    ### Best Glass Cleaners – Consumer Reports](https://digitpatrox.com/best-glass-cleaners-consumer-reports/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
