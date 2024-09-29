@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-28 Sept 2024
+29 Sept 2024
 
 * [Home
     
@@ -294,15 +294,6 @@ Most Popular
 [PICTURES: Year 8 Induction Mass celebrated at St. Joseph’s Boys School](https://www.derrynow.com/news/pictures---videos/1616240/pictures-year-8-induction-mass-celebrated-at-st-josephs-boys-school.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
-
-Drogheda United players celebrate. Pic by Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City fall to defeat at Drogheda United](https://www.derrynow.com/news/derry-sport/1616508/derry-city-fall-to-defeat-at-drogheda-united.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Struggling to sleep? Derry event to help achieve that](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Struggling to sleep? Derry event to help achieve that")](https://www.derrynow.com/news/local-news/1615843/struggling-to-sleep-derry-event-to-help-achieve-that.html)
 
 PICTURE: DEPOSITPHOTOS
@@ -319,19 +310,26 @@ PICTURE: DEPOSITPHOTOS
 [Derry Greyhounds: Marvel was the superhero of the Liam Melly Memorial Night](https://www.derrynow.com/news/derry-sport/1615032/derry-greyhounds-marvel-was-the-superhero-of-the-liam-melly-memorial-night.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein is ‘election ready’, McDonald insists](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein is ‘election ready’, McDonald insists")](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Sinn Fein is ‘election ready’, McDonald insists](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![McDonald pledges to remove means test for carer’s allowance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDonald pledges to remove means test for carer’s allowance")](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [McDonald pledges to remove means test for carer’s allowance](https://www.derrynow.com/news/northern-ireland/1617006/mcdonald-pledges-to-remove-means-test-for-carers-allowance.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![4,000 brown bins to reach rural areas of Derry in coming weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "4,000 brown bins to reach rural areas of Derry in coming weeks")](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[4,000 brown bins to reach rural areas of Derry in coming weeks](https://www.derrynow.com/news/local-news/1615900/4-000brown-bins-to-reach-rural-areas-of-derry-in-coming-weeks.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein is ‘election ready’, McDonald insists](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein is ‘election ready’, McDonald insists")](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Sinn Fein is ‘election ready’, McDonald insists](https://www.derrynow.com/news/northern-ireland/1616716/sinn-fein-is-election-ready-mcdonald-insists.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
