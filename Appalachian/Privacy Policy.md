@@ -39,10 +39,6 @@ Main Menu
 
 The Appalachian State University campus is currently operating under [**EMERGENCY**](http://appstatealert.com/) conditions.
 
-* Curfew Update
-    
-    Watauga County and the Towns of Boone and Blowing Rock have declared a curfew from **7 p.m. 9/28/2024 to 7 a.m. 9/29/2024**.
-    
 * University Operations Update: Sept. 28, 2024
     
     For App State Boone and Hickory campuses, [Adverse Weather Condition 3](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) (Closure) is in effect through 5 p.m. Friday, October 4. Residence halls, dining facilities and campus medical facilities remain operational for on-campus students. If you or anyone you know is in immediate danger, call 9-1-1. Off-campus students, faculty and staff in need of shelter should call 1-800-RED-CROSS (733-2767). Non-mandatory employees should not report to work or come to campus until Condition 3 is lifted. [Read full message](https://appstatealert.com/)
