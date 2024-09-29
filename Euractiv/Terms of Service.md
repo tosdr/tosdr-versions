@@ -989,8 +989,8 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * 6[The President of Cyprus says he is ready to resume reunification talks 'today'](http://en.euractiv.eu/section/global-europe/news/the-president-of-cyprus-says-he-is-ready-to-resume-reunification-talks-today/?utm_source=website&utm_campaign=popular)
 * 7[Silence over Kosovo's stalled Council of Europe bid as France, Italy dig in their heels](http://en.euractiv.eu/section/enlargement-neighbourhood/news/silence-over-kosovos-stalled-council-of-europe-bid-as-france-italy-dig-in-their-heels/?utm_source=website&utm_campaign=popular)
 * 8[Commission collects over 100 AI Pact signatures, but future remains uncertain](http://en.euractiv.eu/section/artificial-intelligence/news/commission-collects-over-100-ai-pact-signatures-but-future-remains-uncertain/?utm_source=website&utm_campaign=popular)
-* 9[Ukraine's victory and peace plans face decisive moment](http://en.euractiv.eu/section/europe-s-east/news/ukraines-victory-and-peace-plans-face-decisive-moment/?utm_source=website&utm_campaign=popular)
-* 10[Bulgaria happy over EU blockade of North Macedonia accession talks](http://en.euractiv.eu/section/politics/news/bulgaria-happy-over-eu-blockade-of-north-macedonia-accession-talks/?utm_source=website&utm_campaign=popular)
+* 9[Bulgaria happy over EU blockade of North Macedonia accession talks](http://en.euractiv.eu/section/politics/news/bulgaria-happy-over-eu-blockade-of-north-macedonia-accession-talks/?utm_source=website&utm_campaign=popular)
+* 10[Ukraine's victory and peace plans face decisive moment](http://en.euractiv.eu/section/europe-s-east/news/ukraines-victory-and-peace-plans-face-decisive-moment/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
