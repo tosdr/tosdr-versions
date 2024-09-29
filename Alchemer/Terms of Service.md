@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![](https://www.alchemer.com/wp-content/uploads/2024/07/Alchemer_wspace.png)](https://www.alchemer.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201599%20318'%3E%3C/svg%3E)
+
+![](https://www.alchemer.com/wp-content/uploads/2024/07/Alchemer_wspace.png)](https://www.alchemer.com/)
 
 * Products
     
