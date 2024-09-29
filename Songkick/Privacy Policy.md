@@ -24,8 +24,8 @@
         * [Trending artists worldwide](https://www.songkick.com/leaderboards/trending_artists)
         
         *  [![Rihanna Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rihanna](https://www.songkick.com/artists/139648-rihanna)
-        *  [![Coldplay Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Coldplay](https://www.songkick.com/artists/197928-coldplay)
         *  [![Drake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Drake](https://www.songkick.com/artists/556955-drake)
+        *  [![Coldplay Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Coldplay](https://www.songkick.com/artists/197928-coldplay)
         *  [![Eminem Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Eminem](https://www.songkick.com/artists/182968-eminem)
         *  [![The Weeknd Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Weeknd](https://www.songkick.com/artists/4363463-weeknd)
         *  [![Taylor Swift Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Taylor Swift](https://www.songkick.com/artists/217815-taylor-swift)
@@ -37,8 +37,8 @@
         *  [![Midland Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Midland](https://www.songkick.com/artists/10351433-midland)
         *  [![KATSEYE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) KATSEYE](https://www.songkick.com/artists/10350173-katseye)
         *  [![Los Farmerz Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Los Farmerz](https://www.songkick.com/artists/10350115-los-farmerz)
+        *  [![Kapo Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kapo](https://www.songkick.com/artists/623433-kapo)
         *  [![dublon Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) dublon](https://www.songkick.com/artists/10349544-dublon)
-        *  [![Oasis Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Oasis](https://www.songkick.com/artists/548892-oasis)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
