@@ -18,7 +18,7 @@ Privacy Policy
 In a nutshell...
 ----------------
 
-WindowsLogic Productions cares about your privacy and likes to let you know what data we have or haven't got about you. In a nutshell, we do not collect any data which you don't want and dispose of data after a 30 day period if you do want us to use your data. Your data is used to improve our website, applications and services so we can provide you with the best possible experience.
+WindowsLogic Productions cares about your privacy and likes to let you know what data we have or haven't got about you. In a nutshell, we do not collect any data which you don't want us to have and disposes of useable data after a 30 day period if you do want us to use your data. Usable data is used to improve our website, applications and services so we can provide you with the best possible experience. WLP Cloud content is never used or fed to artificial intelligence for the purpose of improving our services.
 
 1\. Sharing Information
 -----------------------
@@ -67,7 +67,7 @@ We place a high value on the importance of information security and have a numbe
 3\. Using "Cookies"
 -------------------
 
-We do not use cookies for tracking purposes, session or any type of data collection, analytics or statistics.
+We do not use cookies for tracking purposes, session or any type of data collection, analytics or statistics. When using our WLP Cloud service, this section uses cookies for log-in and/or sesssion, but these are encrypted and are not stored server-side.
 
 4\. Third Party Disclosure
 --------------------------
@@ -86,12 +86,20 @@ When we update our privacy policy, we will notify our users within 72 hours peri
 
 In event of a data breach whereby user data or organisation data is leaked, we will notify users within 72 hours of the breach occuring so they have time to change emails, passwords and allow users to download their data should they wish to use another service.
 
-7\. Making A Complaint & Seeking Further Information
-----------------------------------------------------
+7\. Usable Data
+---------------
 
-If you are unhappy with the way your personal information is being handled, you have the right to make a complaint to the Information Commissioner's office, who enforces and oversees the Data Protection Act 1998, which will investigate your complaint.
+Usable data is data you specify for us to keep when you write in forms that we provide for the purposes of contacting us and feedback. This data is only retaind for 30 days at maximum.
 
-For further information about the personal information collected and its' use, if you have concerns about the accuracy of personal information, or wish to excercise your rights under the Data Protection Act 1998, you should [contact us](https://windowslogic.co.uk/contact.php) or the Information Commissioner's office help line via: 01625 545745.
+8\. WindowsLogic Productions Game Services
+------------------------------------------
+
+When launching and running our games (software), you are required to connect to the WindowsLogic Productions Game Services for the game (software) to check for updates. WindowsLogic Productions Game Services do not contain any personal information or store any analytical data from launcher, running and/or playing our games (software).
+
+9\. WindowsLogic Productions Cloud
+----------------------------------
+
+Data you upload to this service will be kept indefinitely until you delete it via your account. WindowsLogic Productions retains account credentials and data in AES-256-CBC encryption. Account passwords can be changed via your account menu and account data can be deleted on request. WindowsLogic Productions does not retain any account data once deleted via a WLP Cloud account. IP addresses are retained only when you use the service and are deleted once you end your session. Authentication is handled under our usual security practices whereby no tokens are used and everything stays client-side. If you would like to download your account data in its entirety, you can do so by clicking "Zip" in your account folder. Users who are not registered and users with accounts can upload to a [Public](https://cloud.windowslogic.co.uk/public) folder whereby anyone can share the content held within and outside the Internet at their own descretion, WindowsLogic Productions holds no liability to what content is uploaded via the [Public](https://cloud.windowslogic.co.uk/public) folder. Users registered and/or unregistered cannont delete content uploaded to the [Public](https://cloud.windowslogic.co.uk/public) folder, content will only be deleted if reported or of our own descretion.
 
 _Document created: 14/05/11 (14th May 2011)_
 --------------------------------------------
