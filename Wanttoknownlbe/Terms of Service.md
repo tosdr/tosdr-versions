@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/pizza-en-frites-in-vs-wettelijk-groente/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-bizarre-seks-magie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
