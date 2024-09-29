@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: No. 2 Alabama outlasts No. 4 Georgia in second-half thriller](https://www.ajc.com/sports/georgia-bulldogs/no-2-alabama-outlasts-no-4-georgia-in-second-half-thriller/FJMLSFXXIJBVTBC4JXVFSIKWYI/)
+[Breaking: TRAFFIC ALERT: Children’s Healthcare is moving all Egleston patients to the new hospital](https://www.ajc.com/news/health-news/drivers-beware-ambulance-train-to-hit-atlanta-area-roads-sunday/WCQXX6HG5ZH3ZBQIM3XCVZNTVA/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
