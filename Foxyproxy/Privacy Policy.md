@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I only subscribed for a month just to test the connection speed and see if I could enjoy movies without interruption. The movies load seamlessly and the connection proved 100% reliable. I will be renewing!
+Fantastic service.
 
-Diane Walden
+Torrens Lyster
