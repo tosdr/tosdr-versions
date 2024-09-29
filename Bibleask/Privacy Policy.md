@@ -2,15 +2,13 @@
 
 [![BibleAsk](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png "BibleAsk")](https://bibleask.org/ "BibleAsk")
 
+[![BibleAsk](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png)](https://bibleask.org/ "BibleAsk")
+
 Menu
 
-* [Home](https://bibleask.org/)
-* [Ask](https://bibleask.org/ask/)
-    * [Ask on LIVE](https://bibleask.org/live/)
-    * [Ask by Email](https://bibleask.org/ask/)
-    * [Ask Alpha (AI)](https://bibleask.org/alpha/)
+* [Topics](https://bibleask.org/topics/)
+* [LIVE](https://bibleask.org/live/)
 * [Bible](https://bible.bibleask.org/)
-* [Pray for the Nation](https://bibleask.org/pray/)
 * [Donate](https://donate.bibleask.org/)
     * [By Project](https://donate.bibleask.org/projects/)
     * [Shop](https://donate.bibleask.org/shop/)
@@ -24,6 +22,8 @@ Privacy
 =======
 
 **SHARE**
+
+[Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbibleask.org%2Fprivacy%2F)[X](https://x.com/intent/tweet?text=Privacy&url=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&via=bibleask)[Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fbibleask.org%2Fprivacy%2F&title=Privacy)[Subscribe](https://bibleask.org/subscribe/)
 
 * * *
 
