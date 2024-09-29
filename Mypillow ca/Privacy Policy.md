@@ -93,9 +93,9 @@ Apply
 
  ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
 
-[](https://www.mypillow.ca/25-extravaganza-new)
-
 [](https://www.mypillow.com/the-classic-collection)
+
+[](https://www.mypillow.ca/25-extravaganza-new)
 
 [](https://www.mypillow.com/mycoffee-options)
 
