@@ -1,4 +1,4 @@
-[Breaking: TRAFFIC ALERT: Children’s Healthcare is moving all Egleston patients to the new hospital](https://www.ajc.com/news/health-news/drivers-beware-ambulance-train-to-hit-atlanta-area-roads-sunday/WCQXX6HG5ZH3ZBQIM3XCVZNTVA/)
+[Breaking: UGA drops in AP Top 25, Coaches Poll rankings after Alabama loss](https://www.ajc.com/sports/georgia-bulldogs/georgia-drops-in-ap-top-25-rankings-as-alabama-grabs-no-1-spot/PQKSV5KMLZDULHT7222AQW6C3A/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1698)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1698)](https://www.ajc.com/)
 
