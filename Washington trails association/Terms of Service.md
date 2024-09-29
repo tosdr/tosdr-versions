@@ -36,7 +36,7 @@ Menu
     * [Trail Smarts](https://www.wta.org/go-outside/trail-smarts)
     * [Passes and Permits](https://www.wta.org/go-outside/passes)
     * [Ranger Station Info](https://www.wta.org/go-outside/ranger-station-info "Links and phone numbers for ranger stations and land managers to find out trail, road and camping conditions in Washington.")
-    * [Youth Programs](http://www.wta.org/our-work/next-generation/youth-programs-overview/)
+    * [Youth Programs](https://www.wta.org/our-work/next-generation/youth-programs-overview/)
     * [Trail Work Parties](http://wta.org/volunteer)
 * [Get Involved](https://www.wta.org/get-involved)
     * [Ways to Get Involved](https://www.wta.org/get-involved)
@@ -68,7 +68,7 @@ Welcome to Washington Trails Association’s Internet website. By using Washingt
 
 **2.  Scope of Service**
 
-Washington Trails Association (“WTA” or “we”) maintains this website as a service to the user community that visits the site subject to these Terms of Service. The term "website" includes all services and features available on [wta.org](http://www.wta.org/) including our trip reports and online discussion forums. Visitors to this website ("you") are responsible for obtaining any equipment and Internet service necessary to access our website and for any paying of any fees for the equipment and service you select. We may alter, suspend, or discontinue this website in whole or in part, at any time and for any reason, without notice. The website may also periodically become unavailable due to maintenance or malfunction of computer equipment or other reasons.
+Washington Trails Association (“WTA” or “we”) maintains this website as a service to the user community that visits the site subject to these Terms of Service. The term "website" includes all services and features available on [wta.org](https://www.wta.org/) including our trip reports and online discussion forums. Visitors to this website ("you") are responsible for obtaining any equipment and Internet service necessary to access our website and for any paying of any fees for the equipment and service you select. We may alter, suspend, or discontinue this website in whole or in part, at any time and for any reason, without notice. The website may also periodically become unavailable due to maintenance or malfunction of computer equipment or other reasons.
 
 **3.  Website Content**
 
@@ -207,7 +207,7 @@ _
     * [Trail Smarts](https://www.wta.org/go-outside/trail-smarts)
     * [Passes and Permits](https://www.wta.org/go-outside/passes)
     * [Ranger Station Info](https://www.wta.org/go-outside/ranger-station-info "Links and phone numbers for ranger stations and land managers to find out trail, road and camping conditions in Washington.")
-    * [Youth Programs](http://www.wta.org/our-work/next-generation/youth-programs-overview/)
+    * [Youth Programs](https://www.wta.org/our-work/next-generation/youth-programs-overview/)
     * [Trail Work Parties](http://wta.org/volunteer)
 * [Get Involved](https://www.wta.org/get-involved)
     * [Ways to Get Involved](https://www.wta.org/get-involved)
