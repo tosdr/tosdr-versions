@@ -1,4 +1,4 @@
-Saturday, September 28 2024
+Sunday, September 29 2024
 
 Breaking News
 
@@ -117,11 +117,11 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
     
     September 28, 2024
     
-* [![Democrat City crime violence](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/atom-bomb-pic.jpg)](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
     
-    [ABC News’ David Muir’s Fake Crime Statistics to Protect Kamala Harris](https://www.conservativedailynews.com/2024/09/abc-news-david-muirs-fake-crime-statistics-to-protect-kamala-harris/)
+    [Putin Raises Specter Of Nuclear War As West Wades Even Deeper Into Russia-Ukraine Conflict](https://www.conservativedailynews.com/2024/09/putin-raises-specter-of-nuclear-war-as-west-wades-even-deeper-into-russia-ukraine-conflict/)
     
-    September 26, 2024
+    September 28, 2024
     
 
 Recent Posts
