@@ -240,9 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-Share this page
+### Designed for everyone, everywhere
 
-[Join the community >](https://www.dynu.com/Support)
+  
+Our services are easy to use and meant to enhance convenience. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.  
+  
 
 ### News
 
