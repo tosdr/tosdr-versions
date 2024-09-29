@@ -31,6 +31,514 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La autopercepción femenina mejora con estos ejercicios
+======================================================
+
+¿Por qué creemos que no merecemos todo lo que queremos? es la pregunta a resolver para sanar
+--------------------------------------------------------------------------------------------
+
+![La buena autopercepción femenina es clave para sanar.](https://www.elcomercio.com/wp-content/uploads/2024/09/autoestima-femenina.jpg)
+
+Uno de los problemas que afrontan las mujeres **en la mala percepción de sí mismas**. ¿Este aspecto pueden incidir en su éxito personal y profesional?
+
+### Más noticias
+
+* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
+* [Muere Maggie Smith, reconocida actriz de Harry Potter](https://www.elcomercio.com/tendencias/entretenimiento/muere-maggie-smith-reconocida-actriz-de-harry-potter.html "Muere Maggie Smith, reconocida actriz de Harry Potter")
+* [‘Una casa bendecida’ apareció en el incendio forestal en Guápulo](https://www.elcomercio.com/actualidad/quito/incendio-guapulo-forestal-casa-bendecida-quito.html "‘Una casa bendecida’ apareció en el incendio forestal en Guápulo")
+
+Una mala autopercepción personal se combate desde el **autoconocimiento**, solo conociéndome podré mejorar los aspectos en los que fallo. **Alexandra Pumarejo,** conferencista y escritora, resalta que la clave está en saber que **soy suficiente** y esto tiene que ver con cómo me veo a mí misma.
+
+¿Cómo sé que no me siento suficiente?
+-------------------------------------
+
+Entre las principales señales que me muestran que me percibo a mí misma como **no suficiente** están:
+
+* **Dificultad para poner límites:** se trata de no poder lidiar con la posibilidad de incomodar. Creer que dando gusto a los demás seré más aceptada
+* **Me comparo con los demás:** siento que la vida del resto es mejor que la mía
+* **Miedo a ser auténtica:** busco encajar en un círculo de tal modo que ya no soy yo misma
+* **Dificultad para tomar decisiones**: pienso que mis decisiones pueden valerme el rechazo de los demás. Temor ante las consecuencias
+* **No creo que alguien me ame:** si no me siento suficiente, dudo de que el amor de los demás hacia mí sea verdadero. De ahí vienen los celos e inseguridades.
+* **No dejo entrar el amor por miedo:** me blindo ante la posibilidad de que me hieran o rechacen
+* **Pongo las necesidades de los demás por encima de las propias:** no tengo tiempo para mí, pero sí para todos los demás. Cuando doy a los demás en exceso lo puedo estar haciendo desde la escasez y no desde la abundancia.
+* **Me conformo:** si me siento ‘defectuosa’ busco alguien igual de ‘defectuoso’ para no arriesgarme. Este aspecto es muy peligroso, pues me puede llevar a permanecer en malas relaciones.
+* **Ser perfeccionista**: puedo creer que solo llegando a la perfección puedo ser amada. Este aspecto me puede llevar a evitar cometer errores y esto a su vez a no aprender.
+* **Me tomo todo personal:** creo que todo lo que los demás hacen es contra mí.
+* **Busco mi valor en los demás:** por ejemplo, soy feliz por ser buena madre y que mis hijos sacan las mejores notas. Soy feliz porque le envío a mi esposo los almuerzos.
+* **Trato de ‘anestesiar’ lo que siento:** suplo mi malestar con comida, drogas, alcohol, compras, cirugías estéticas.
+
+La raíz de no sentirme suficiente
+---------------------------------
+
+Según **Pumarejo**, si reconozco estas señales en mí misma puedo atacar la raíz y, de ese modo, sanar. Para ello se debe reconocer los problemas que me causaron la sensación de ‘no ser suficiente’. Entre las causas o ‘raíces’ están:
+
+* **Falta de atención en la niñez**. En esta etapa consolido que merezco el amor.
+* **De 0 a 7 años somos egocéntricos**. Aquí se desarrolla la personalidad de cada uno dependiendo del entorno y las circunstancias que vivo. Wendy Wunder, escritora y embajadora de las Naciones Unidas, señala que la normalidad se establece en esta etapa.
+* **Necesidad de la predictibilidad**. Prefiero una historia repetida que romper patrones y enfrentarme a lo nuevo.
+* **Creer que la suficiencia me la dan otras cosas.** Pienso que mi valor depende de situaciones externas, como la aceptación de las amigas, el amor de la pareja.
+* **Por las redes sociales:** me comparo con otras por lo que me ‘venden’ en redes o sus números.
+* **Por nuestro entorno:** somos el promedio de las cinco personas que tenemos a nuestro alrededor.
+* **Por creerles a nuestros pensamientos:** lo que nos decimos todos los días afecta lo que pienso y siento.
+
+Cómo sentirme suficiente
+------------------------
+
+Después de identificar la raíz de los problemas, **hay que trabajar en medidas** que me permitan sanar. Alexandra Pumarejo nos da las [siguientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
+
+* En vez de compararte, empodérate
+* Establece límites, estos son para protegerme no para cambiar al otro
+* No permitas que el trauma de otras personas sea una excusa para maltratarte
+* Suelta el pasado. Ten compasión por cada una de tus versiones anteriores. Tu versión anterior hizo lo mejor que pudo con las herramientas que tenía.
+* Atrévete a ser vulnerable y muéstrate como eres. El antídoto a la vergüenza es la vulnerabilidad
+* Cuestiona tus pensamientos
+* Date a ti misma lo que necesitas. Nadie te va a venir a rescatar o completar.
+* Haz afirmaciones positivas en el espejo, motívate
+* Aprende a confiar en ti. Cúmplete una promesa al día
+* Agradece cinco cosas todos los días
+* Reconoce y ama a tu niña interior
+
+Relaciones saludables
+---------------------
+
+**Wendy Wunder**, escritora y ´speaker’, resalta que parte del éxito personal es concentrarse en el camino de cada uno y no comparar mi camino con el de los demás. Pero siempre apoyándome en mi equipo.
+
+Para ello se necesita una **mente abierta para reconocer que los demás son valiosos** aunque sean distintos a mí, Además, entender que el peor error es el miedo al fracaso.
+
+El amor propio y estudiarnos a nosotras mismas es la clave para crecer. Estar seguras de nuestro valor a pesar de lo que pueda decir nuestro entorno.
+
+Parte del fortalecimiento de la autoestima es establecer relaciones saludables. Para ello, Wunder nos da unas claves en torno al respeto:
+
+* Mantener una comunicación abierta, es decir, estar dispuestos a comunicar pero también a escuchar.
+* Establecer un equilibrio entre las emociones, el temperamento y el carácter.
+* Integración. Respetar los aportes y perspectivas de los demás.
+* Para lograr objetivos comunes es importante el trabajo en equipo, ya sea en el plano laboral o personal
+* Resolver los conflictos de manera constructiva, priorizando el bienestar de la relación
+
+WhatsApp prepara nuevos emojis que incluyen el de ‘estoy cansado, jefe’ 
+========================================================================
+
+Este ha sido uno de los más esperados y ya muchos quieren tenerlo en sus celulares.
+-----------------------------------------------------------------------------------
+
+![Los nuevos emoji. Foto: X @Emojipedia.](https://www.elcomercio.com/wp-content/uploads/2024/09/whatsapp-emoji.jpg)
+
+Los **emojis** son una de las maneras más potentes de expresión a la hora de hablar por **mensaje de texto en WhataApp**, ya que son una forma de acompañar las palabras con un punto de expresividad que pone las cosas en su justo contexto, independientemente del idioma. 
+
+### Más noticias
+
+* [El emoji evoluciona para adaptarse al gusto interactivo de los más jóvenes](https://www.elcomercio.com/tecnologia/emoji-evoluciona-adaptarse-interactivo-mas-jovenes.html "https://www.elcomercio.com/tecnologia/emoji-evoluciona-adaptarse-interactivo-mas-jovenes.html")
+* [Los emojis más confusos y los preferidos por nuestra comunidad de WhatsApp](https://www.elcomercio.com/tecnologia/dia-emojis-internet-whatsapp-historia.html "https://www.elcomercio.com/tecnologia/dia-emojis-internet-whatsapp-historia.html") 
+
+**Nuevos emojis en camino para WhatsApp** 
+------------------------------------------
+
+En los últimos días, se han vuelto virales los **siete nuevos emojis** que estarán disponibles los próximos meses y el año que viene, y son muchas personas las que están emocionadas por tenerlas en sus dispositivos móviles. 
+
+**Los nuevos íconos** 
+----------------------
+
+Las **nuevas figuras** son una hortaliza, un arpa, un árbol sin hojas, una pala, una salpicadura morada, la bandera de la remota isla del canal de la Mancha llamada Sark, y el tan esperado emoji de ojeras, conocido como ‘estoy cansado, jefe’. 
+
+**Reconocimiento de Emojipedia** 
+---------------------------------
+
+**‘Emojipedia’**, un popular sitio de **referencia de emojis**, publicó unas imágenes de muestra hace unos meses y recientemente, el **Consorcio Unicode**, la organización sin ánimo de lucro que se encarga de crear y mantener los iconos de una forma unitaria a escala global. 
+
+> Eight brand new emojis have been formally approved in today's [@unicode](https://twitter.com/unicode?ref_src=twsrc%5Etfw) Emoji Version 16.0 release 🆕[https://t.co/b2QD2bweRx](https://t.co/b2QD2bweRx) [pic.twitter.com/F1EegKi4cR](https://t.co/F1EegKi4cR)
+> 
+> — Emojipedia (@Emojipedia) [September 10, 2024](https://twitter.com/Emojipedia/status/1833528656289009804?ref_src=twsrc%5Etfw)
+
+**‘Estoy cansado, jefe’ en el podio** 
+--------------------------------------
+
+La **‘Cara exhausta’** fue la ganadora entre los **emojis más anticipados en los últimos ‘Word Emoji Awards’**, consiguió un 60 por ciento de los votos, lo que la colocaba como la principal candidata a entrar a este selecto grupo. 
+
+**Representación de la cotidianidad** 
+--------------------------------------
+
+Esta figura ha sido la más esperada por los usuarios durante años; **un rostro exhausto con ojeras es la representación fiel de la vida cotidiana**, así lo han catalogado varios internautas. 
+
+**El significado del emoji de ‘estoy cansado, jefe’** 
+------------------------------------------------------
+
+Este ícono **representa una expresión abatida y profundas ojeras**, el cansancio acumulado por largas jornadas laborales, noches sin suficiente descanso y la tensión emocional que a menudo acompaña la vida moderna. 
+
+**Conciencia sobre el cambio climático** 
+-----------------------------------------
+
+Por otro lado, **la salpicadura y la pala** quedaron en segundo y tercer lugar, respectivamente. Aunque puede parecer un poco simple, **el árbol sin hojas** pretende generar **conciencia sobre la sequía y el cambio climático**, según lo comentó **Brian Baihaki**, quien fue el encargado de presentarlo al **Consorcio Unicode**. 
+
+**Palabras de Brian Baihaki** 
+------------------------------
+
+“La **sequía** es una parte natural del **ciclo climático**. Durante millones de años, los árboles se han adaptado a estas duras condiciones. Pero el clima está cambiando; las sequías se hacen más frecuentes, severas e incluso se extienden a otros lugares en poco tiempo”, comentó Baihaki. 
+
+¿Qué es y cuándo ocurre el ‘cordonazo de San Francisco’? 
+=========================================================
+
+El ‘cordonazo de San Francisco’ marca el inicio de la temporada lluviosa.
+-------------------------------------------------------------------------
+
+![San Francisco de Asís, quien dejó su carrera militar para convertirse en una figura emblemática del catolicismo. Foto: Archivo/EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/09/san-francisco-cordonazo.jpg)
+
+Según la **creencia popular católica**, en los primeros días de octubre, **San Francisco suelta el cordón** de su sotana y **golpea las nubes del cielo quiteño para que la lluvia caiga** sobre la capital y **marque el final del verano**.  
+
+### Más noticias
+
+* [El ‘cordonazo’ de San Francisco tendrá este clima en Quito](https://www.elcomercio.com/actualidad/quito/cordonazo-san-francisco-tendra-clima-quito.html "https://www.elcomercio.com/actualidad/quito/cordonazo-san-francisco-tendra-clima-quito.html")
+* [¿El aguacero que cayó sobre Quito el lunes 19 de octubre fue el cordonazo de San Francisco?](https://www.elcomercio.com/actualidad/quito/aguacero-quito-cordonazo-san-francisco.html "https://www.elcomercio.com/actualidad/quito/aguacero-quito-cordonazo-san-francisco.html")
+
+**Esta fecha coincide con el inicio del invierno en Quito**, así que cuando las lluvias son intensas, la gente dice que es el ‘cordonazo de San Francisco’. 
+
+**Celebración del San Francisco** 
+----------------------------------
+
+Para que se considere un **‘cordonazo’**, debe coincidir con la **celebración de San Francisco de Asís**, el 4 de octubre. 
+
+**San Francisco de Asís** es una figura emblemática en la historia del catolicismo. Según [El Tiempo](https://www.eltiempo.es/noticias/que-es-el-cordonazo-de-san-francisco-en-meteorologia "https://www.eltiempo.es/noticias/que-es-el-cordonazo-de-san-francisco-en-meteorologia"), nació en el seno de una **familia acomodada**. A los 20 años, tomó una decisión importante y se unió al ejército, al buscar una carrera militar. Sin embargo, su vida dio un giro radical y lo llevó al camino de la fe y la santidad.  
+
+**Patrón de los animales** 
+---------------------------
+
+**San Francisco es conocido como el patrón de los animales y los veterinarios**. Fundó la **orden franciscana**, que promueve valores como la pobreza y la sencillez. Este enfoque espiritual ha resonado a lo largo de los siglos y sigue como inspiración de millones. 
+
+**Legado y conexión con la naturaleza** 
+----------------------------------------
+
+Su legado es significativo. La **orden franciscana se ha expandido y adaptado a diferentes contextos a nivel mundial**. Los principios que San Francisco defendió perduran, se destaca la **conexión entre la humanidad y la naturaleza**. 
+
+**Cambio de clima en Ecuador** 
+-------------------------------
+
+Los **fenómenos meteorológicos** marcan el fin de la **estación seca** y el inicio de la **estación lluviosa** en Ecuador. De acuerdo con [El Universal](https://www.eluniversal.com/estilo-de-vida/165573/inameh-explico-que-es-el-cordonazo-de-san-francisco "https://www.eluniversal.com/estilo-de-vida/165573/inameh-explico-que-es-el-cordonazo-de-san-francisco"), esta transición suele ser abrupta. **Las lluvias tienden a intensificarse cerca del equinoccio de septiembre**. 
+
+**Preparación ante las lluvias** 
+---------------------------------
+
+Es importante estar preparado para las lluvias intensas. Los **pronósticos meteorológicos** pueden ayudar a **anticipar estos eventos**. Sin embargo, siempre existe un grado de incertidumbre. La **variabilidad del clima** hace que cada año resulte diferente. 
+
+**Inicio de la temporada lluviosa** 
+------------------------------------
+
+**Las lluvias han comenzado en Quito** después de un **periodo de seco**. Este **cambio de clima** se lo empezó a sentir con intensidad el jueves 26 de septiembre.  
+
+Según el **[Instituto Nacional de Meteorología e Hidrología](https://servicios.inamhi.gob.ec/clima/ "https://servicios.inamhi.gob.ec/clima/") (Inamhi)**, se prevé un **aumento en las precipitaciones para octubre**. Este incremento es notable en comparación con agosto y septiembre. 
+
+![Foto: Inamhi.](https://www.elcomercio.com/wp-content/uploads/2024/09/san-francisco-cordonazo-1-1024x683.jpg)
+
+Foto: Inamhi.
+
+**Posibilidad del ‘cordonazo’** 
+--------------------------------
+
+La **transición de la época seca a la época lluviosa** está en marcha. Este fenómeno puede indicar la posibilidad de experimentar el ‘cordonazo de San Francisco’.  
+
+Los **boletines meteorológicos del Inamhi** ofrecen información actualizada. Es fundamental estar **al tanto de las predicciones** para prepararse adecuadamente. Las lluvias intensas pueden afectar las actividades cotidianas en la capital. 
+
+Daniel Noboa se pronunció sobre cambio de sede de la Celec
+==========================================================
+
+El Mandatario decretó que la sede pasará de Cuenca a Quito. Autoridades cuencanas se reaccionaron ante el decreto ejecutivo.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa escribió sobre este tema en su cuenta de X. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/09/Daniel-Noboa-2.jpg)
+
+El **presidente de Ecuador, Daniel Noboa**, se pronunció sobre las reacciones que tuvieron las autoridades cuencanas por el cambio de sede de la **Corporación Eléctrica del Ecuador (Celec)**.
+
+Mediante un decreto ejecutivo, esta sede se cambió de Cuenca a Quito. Eso generó la reacciones del alcalde de Cuenca, **Cristián Zamora**, el prefecto de Azuay, **Juan Cristóbal Lloret** y el presidente de la **Asociación de Municipalidades del Ecuador**, Patricio Maldonado.
+
+**Noboa** escribió en su cuenta de X que “para todos los que tratan de ubicarme como centralista, un saludo grande a la provincia de Azuay. Nos vemos en Cuenca el 15 de noviembre en la Cumbre Iberoamericana con los jefes de Estado del continente. Una ciudad que siempre debió ser considerada y realzada con este tipo de eventos”.
+
+### Más noticias
+
+* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
+* [Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más](https://www.elcomercio.com/actualidad/negocios/por-cortes-de-luz-gobierno-lanza-tres-licitaciones-para-incorporar-178-mw-mas.html "Por cortes de luz, gobierno lanza tres licitaciones para incorporar 178 MW más")
+* [Cortes de luz en Quito interfieren en la movilidad](https://www.elcomercio.com/actualidad/quito/intersecciones-afectadas-cortes-luz-quito.html "Cortes de luz en Quito interfieren en la movilidad")
+
+La reacción de las autoridades en Azuay
+---------------------------------------
+
+**Zamora** dijo en su cuenta de X que la decisión de trasladar la Celec de Cuenca a Quito “merece el rechazo como cuencanos y azuayos”.
+
+Dijo que solicitó a la **Presidencia de Ecuador** que revea esta decisión.
+
+El **presidente de la AME, Patricio Maldonado,** publicó un comunicado. En el documento dijo que “como azuayo, Presidente de la AME, conjuntamente con mis compañeros/as ediles de los territorios de las áreas de influencia de las Plantas Hidroeléctricas del Azuay, expresamos nuestra preocupación por el contenido del Decreto Ejecutivo Nro. 407”.
+
+Según él, los municipios defendemos por naturaleza: la autonomía y necesidad de acercar “el Estado al soberano, al pueblo, evitando cualquier acción que debilite, desde el ejercicio privativo de competencias, la transparencia y la Administración desconcentrada Estatal de aprovisionamiento de los servicios básicos”.
+
+Pepe Aguilar, papá de Ángela Aguilar, dedica canción a su yerno, Christian Nodal 
+=================================================================================
+
+Pepe Aguilar lanzó una canción en la que insta a su yerno, Christian Nodal, a cuidar de Ángela Aguilar.
+-------------------------------------------------------------------------------------------------------
+
+![En su nueva canción, Pepe Aguilar expresa su sentir como padre. Foto: www.billboard.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/pepe-aguilar-christian-nodal.jpg)
+
+**Pepe Aguilar**, reconocido **cantante mexicano**, lanzó una nueva canción titulada Cuídamela bien, dedicada a su **yerno Christian Nodal**. Según [El Universal](https://www.eluniversal.com.mx/espectaculos/pepe-aguilar-dedica-cancion-a-nodal-sobre-su-union-con-angela-no-la-cambies-porque-se-te-da-muy-bien/ "https://www.eluniversal.com.mx/espectaculos/pepe-aguilar-dedica-cancion-a-nodal-sobre-su-union-con-angela-no-la-cambies-porque-se-te-da-muy-bien/"), el tema está inspirado en la reciente **boda de Nodal con Ángela Aguilar**, hija del intérprete, celebrada hace dos meses. 
+
+### Más noticias
+
+* [(Video) Christian Nodal explota contra la toxicidad de redes sociales](https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html "https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html")
+* [Christian Nodal recibe críticas por tacaño](https://www.elcomercio.com/afull/christian-nodal-tacano-boda-pepe-aguilar.html "https://www.elcomercio.com/afull/christian-nodal-tacano-boda-pepe-aguilar.html")
+
+**Pepe Aguilar: una confesión de padre a yerno** 
+-------------------------------------------------
+
+Siguiendo con El Universal, la canción es una **emotiva confesión de un padre que “entrega” a su hija**, lo que expresa sus deseos de que la relación esté basada en el amor verdadero. En la letra, **Aguilar también hace advertencias dirigidas a Nodal**, al asegurar que desea lo mejor para su hija y que el amor los mantenga unidos. 
+
+**Una relación cercana entre Christian Nodal y Pepe Aguilar** 
+--------------------------------------------------------------
+
+Desde hace tiempo, **Pepe Aguilar y Christian Nodal han mantenido una relación cercana** y cariñosa. Tras la boda, **Nodal se ha vuelto oficialmente parte de la familia**, lo que añade un toque más sentimental al tema. Aguilar, siguiendo con la fuente, confesó que **la canción nació desde el corazón**, siendo un reflejo de su sentir como padre. 
+
+**Un lanzamiento especial** 
+----------------------------
+
+“Es una **canción muy especial para mí**, de esas que **nacen desde el corazón** y reflejan el sentimiento de un padre. Espero que les guste, cuéntenme qué les pareció”, escribió Aguilar en la **descripción del video oficial en YouTube**, según El Universal. 
+
+**Referencias directas a Nodal y Ángela** 
+------------------------------------------
+
+A decir de [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2024/09/27/que-dice-la-nueva-cancion-de-pepe-aguilar-dedicada-a-nodal-y-angela/ "https://www.elfinanciero.com.mx/entretenimiento/2024/09/27/que-dice-la-nueva-cancion-de-pepe-aguilar-dedicada-a-nodal-y-angela/"), en la letra de Cuídamela bien se pueden leer **referencias claras a la relación de Ángela con Christian Nodal**. Aguilar le aconseja a su yerno que actúe correctamente y que, aunque él también ha enfrentado dificultades, ser un verdadero hombre significa permanecer y cuidar de su hija. 
+
+**Consejo sobre la relación pasada de Nodal** 
+----------------------------------------------
+
+Aguilar también parece hacer referencia a la **relación anterior de Nodal con la cantante Cazzu**, ya que su noviazgo con Ángela comenzó poco después de finalizar su romance anterior. **Le aconseja no repetir errores y valorar a Ángela**. 
+
+**Un mensaje de bendición** 
+----------------------------
+
+El tema concluye con un mensaje claro: “**Hazla tan feliz** como en la vida siempre quise hacerlo yo… por mi parte yo les doy la bendición y siempre desearé el bien a su relación”, versos que reafirman **los deseos de Pepe Aguilar para el futuro de la pareja**. 
+
+**Estreno viral en redes sociales** 
+------------------------------------
+
+**La canción fue estrenada el 27 de septiembre** y rápidamente se viralizó en redes sociales, al día de hoy cuenta con 786 024 vistas y consolida la relación cercana entre Pepe Aguilar y Christian Nodal. 
+
+Ecuador ofrece incentivos a pequeños generadores de energía
+===========================================================
+
+La Agencia de Regulación y Control de la Electricidad fijó los valores de compensación. Lo hizo en función del tipo de combustible que usen.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ecuador soporta una de las peores sequías de la historia. El Gobierno busca sumar generación para enfrentar los cortes de luz. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/06/cortes-de-luz-malestar.jpg)
+
+La Agencia de Regulación y Control de la Electricidad modificó la regulación 003/24. Su intención es aumentar la mayor participación del sector privado en generación para reducir el impacto de la emergencia energética en Ecuador.
+
+Con este cambio, más generadores del sector privado puedan sumarse a la aportación de electricidad durante el **tiempo de estiaje.**
+
+Antes de la modificación, solo podían participar las empresas que contaban con generadores con un mínimo de 100 kilovatio.
+
+Ahora podrán hacerlo aquellos que dispongan de generadores desde 10 kilovatios.
+
+La Agencia de Regulación y Control de la Electricidad pretende i**ncorporar a generadores de emergencia de los sectores residenciales, pequeños comercios, zonas rurales** y propietarios de equipos de generación reducida.
+
+### Más noticias
+
+* [Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-clases-horarios-semana.html "Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz")
+* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
+* [Embalse de Mazar está más cerca al nivel crítico; Quito influyó](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-esta-mas-cerca-al-nivel-critico-quito-influyo.html "Embalse de Mazar está más cerca al nivel crítico; Quito influyó")
+
+Uso de otros combustibles
+-------------------------
+
+Esta modificación, también, establece la inclusión de otros tipos de combustibles para la operatividad de los equipos de emergencia.
+
+En su texto original de la la regulación, solo se contemplaba al **diésel** como recurso para la generación.
+
+Con esta reforma se incorporan al **gas licuado de petróleo** (GLP) y al **Fuel Oil 4 y al Fuel Oil 6.** La intención es reducir los costos operativos.
+
+El proceso de acreditación en las distribuidoras
+------------------------------------------------
+
+Los propietarios de generadores privados pueden acreditarse presentando el formulario de calificación a las empresas eléctricas de distribución, según la zona de concesión. Y podrán acceder a los incentivos.
+
+Por ejemplo, la **Empresa Eléctrica Regional Centrosu**r habilitó el siguiente enlace para cumplir el trámite: [https://www.centrosur.gob.ec/electrogenos/](https://www.centrosur.gob.ec/electrogenos/)
+
+La **Empresa Eléctrica Quito** hizo lo mismo en este link [https://www.eeq.com.ec/gee](https://www.eeq.com.ec/gee)
+
+Y **Cenel EP** habilitó este acceso [https://serviciosenlinea.cnelep.gob.ec/portal/faces/public/login.xhtml](https://serviciosenlinea.cnelep.gob.ec/portal/faces/public/login.xhtml)
+
+Los incentivos para esta generación
+-----------------------------------
+
+El Gobierno estableció que las **empresas distribuidoras** realizarán un cálculo mensual de la energía generada por cada generador en funcionamiento.
+
+De esa forma se aplicará incentivos a través de compensaciones en la facturación de energía. Es decir, mediante el cruce de cuentas.
+
+El pasado 26 de septiembre, la Agencia de Regulación y Control de la Electricidad determinó el **rubro para esta compensación** por energía generada. Estableció el valor hasta el 11 de octubre de 2024.
+
+Quienes usen **diésel 1 y 2** tendrán un incentivo de 21,62 centavos de dólar por kilovatio cuando generen menos de 100 kilovatios y 25,77 centavos cuando sea más de 100 kilovatios.
+
+Si es **diésel premium** los valores son de 23,89 y 28,04, en el mismo orden.
+
+En el caso de usar **gas licuado de petróleo**, las compensaciones son de 28,54 y 32,69 cuando es menos de 100 kilovatios y más de 100 kilovatios.
+
+Finalmente, para **Fuel Oil 4 y 6**, estos incentivos se fijaron en 13,75 y 17,90.
+
+Venezolanos pidieron en Madrid la investidura de Edmundo González
+=================================================================
+
+La concentración se realizó en la céntrica plaza Puerta del Sol, en la capital española. Asistió Edmundo González.
+------------------------------------------------------------------------------------------------------------------
+
+![El opositor venezolano Edmundo González participa este sábado en una protesta contra el gobierno de Venezuela en Madrid. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Edmundo-Gonzalez-1.jpg)
+
+##### Agencia EFE
+
+Miles de **venezolanos** se concentraron este sábado 28 de septiembre de 2024 en la céntrica Puerta del Sol de Madrid.
+
+Fue una jornada de movilización en todo el mundo para reivindicar el triunfo del opositor **Edmundo González** en las elecciones del 28 de julio en **Venezuela** y exigir su investidura como presidente del país el próximo 10 de enero.
+
+Bajo el lema ‘**Gran protesta mundial por la libertad en Venezuela**‘, partidarios de **González** y de **María Corina Machado** salieron a la calle cuando se cumplen dos meses de las elecciones venezolanas.
+
+“Aquí hay que pasar de las declaraciones compasivas a las acciones efectivas”, afirmó Antonio Ledezma, exalcade de **Caracas**, en declaraciones a la prensa antes de comenzar el acto.
+
+### Más noticias
+
+* [Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-ordena-captura-nicolas-maduro-diosdado-cabello.html "Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello")
+* [Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González](https://www.elcomercio.com/actualidad/mundo/union-europea-reconoce-presidente-de-venezuela-maduro-tampoco-gonzalez.html "Unión Europea no reconoce como presidente de Venezuela a Maduro ni tampoco a González")
+* [En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal](https://www.elcomercio.com/actualidad/mundo/venezuela-1-867-presos-motivos-politicos-segun-ong-foro-penal.html "En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal")
+
+Él agradeció el apoyo recibido de parlamentos nacionales, como el de **España**, y de organismo internacionales como la **ONU**, o la **OEA**, pero insistió: “Ya es hora de hacer respetar la voluntad soberana que está siendo burlada por una dictadura”.
+
+**Ledezma**, coordinador del **Consejo Político Internacional de la líder opositora María Corina Machado**, afirmó que la comunidad internacional “tiene que hacerse presente con acciones contundentes para que este mal ejemplo que representa (el presidente Nicolás) Maduro no sea copiado por otros líderes populistas”.
+
+Edmundo González estuvo en la concentración en Madrid
+-----------------------------------------------------
+
+A la concentración asistió **Edmundo González**, candidato de la principal coalición opositora de **Venezuela**, la Plataforma Unitaria Democrática (PUD) en las elecciones presidenciales del pasado 28 de julio.
+
+**González**, que el 8 de septiembre llegó a **España** para pedir asilo, saludó a todos los asistentes, pero no pudo hablar porque, según dijo **Ledezma**, sufría afonía, y fue él quien se encargó de leer un mensaje suyo.
+
+En él insistió en que el 28 de julio el pueblo “dio un mandato soberano” a través de las urnas “por la paz y la democracia”, confió “en el poder de la verdad” y afirmó que están “muy cerca” de concretarlo.  
+También participó a través de internet Machado, quien en un emotico mensaje afirmó: “El final no es solo que **Maduro** deje el poder, eso va pasar, el final es la construcción de una Venezuela que se va a levantar”.
+
+Independiente del Valle ganó y aspira al título de Liga Pro de forma directa
+============================================================================
+
+Independiente del Valle no quiere jugar la final de la Liga Pro, sino ganarla de forma directa.
+-----------------------------------------------------------------------------------------------
+
+![Jeison Medina celebrando uno de los goles de Independiente del Valle contra Universidad Católica.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-28T145501.904.jpg)
+
+**Independiente** **del** **Valle** venció 5-2 a Universidad Católica este sábado 28 de septiembre, en lo que fue el partido de la jornada de la Liga Pro, y que no decepcionó.
+
+Los ‘Rayados’ dieron una **auténtica cátedra en su casa**, demostrando un juego de elaboración y colectivo que les permitió vencer a uno de los mejores equipos del torneo y mantener vivo el sueño de ser campeones directos.
+
+### Más noticias:
+
+* [¿Quién juega hoy en la Liga Pro?](https://www.elcomercio.com/deportes/futbol/partidos-liga-pro-28-septiembre.html "¿Quién juega hoy en la Liga Pro?")
+* [Orense presiona a Liga de Quito en la Liga Pro](https://www.elcomercio.com/deportes/orense-macara-liga-quito-liga-pro.html "Orense presiona a Liga de Quito en la Liga Pro")
+* [Independiente del Valle se mete a semifinales en Copa Ecuador](https://www.elcomercio.com/deportes/futbol/copa-ecuador-independiente-valle-guayaquil-city-semifinales.html "Independiente del Valle se mete a semifinales en Copa Ecuador")
+
+Con esta victoria, **IDV llegó a 16 puntos e igualó a Liga de Quito** en la punta de la tabla, aunque los albos se mantienen en el primer lugar por mejor gol diferencia y aún tienen un partido por jugar.
+
+Partidazo de ida y vuelta
+-------------------------
+
+**Independiente** **del** **Valle** abrió el marcador en el amanecer del compromiso. **Jeison Medina**, el goleador de los ‘Rayados’, se juntó con Junior Sornoza para una jugada colectiva que culminó con el disparo del colombiano dentro del área, sorprendiendo a la Universidad Católica a los dos minutos.
+
+> Laboratorio [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw) 👨🏻‍🔬  
+>   
+> Jugada preparada y gol de Jeison Medina en apenas dos minutos de partido.  
+>   
+> Sigue la [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) en [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw). ⚽️ [pic.twitter.com/q2dtsd3Dpw](https://t.co/q2dtsd3Dpw)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840098950763663730?ref_src=twsrc%5Etfw)
+
+A pesar de que IDV dominaba el juego, una desconcentración y una gran jugada colectiva de la Católica derivaron en una falta de **Guido Villar sobre José Fajardo**, que fue sancionada como penal. Luciano Vietto se encargó de ejecutar la **pena máxima** e igualó el marcador a los 19 minutos.
+
+> Penal, chequeo VAR y gol de [@UCatolicaEC](https://twitter.com/UCatolicaEC?ref_src=twsrc%5Etfw). 🫡  
+>   
+> La visita iguala el partido con tanto de Luciano Nieto tras falta del arquero Guido Villar. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) 🤝🏻 [pic.twitter.com/HIDLOoLFty](https://t.co/HIDLOoLFty)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840102632763084800?ref_src=twsrc%5Etfw)
+
+**Universidad Católica se quedó con 10 hombres** poco después de la media hora de partido. Rafael Romo detuvo un ataque de Independiente del Valle con la mano fuera del área, lo que le valió la expulsión.
+
+Tras la revisión en el VAR, el juego se reanudó a los 42 minutos con un tiro libre para los locales, que terminó en gol del capitán **Junior Sornoza tras una jugada elaborada**.
+
+> Ejecución perfecta ✅  
+>   
+> Segunda jugada preparada, segundo gol de [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw). Esta vez le tocó definir a Junior Sornoza. 🔥  
+>   
+> Para aplaudir. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Ak7AzQIsfg](https://t.co/Ak7AzQIsfg)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840108581825212432?ref_src=twsrc%5Etfw)
+
+A pesar de la inferioridad numérica, Universidad Católica no bajó los brazos y encontró el gol del empate gracias a una gran acción de Fajardo. El panameño recibió el balón, aguantó en el área de IDV y esperó a que Alexander Alvarado se acercara para darle un pase. **Alvarado definió y envió el balón a las redes**.
+
+> PAR TI DA ZO 🤯  
+>   
+> Arrancó la Pantera Fajardo y nadie pudo detenerlo antes de asistir a Alexander Alvarado para el 2-2.  
+>   
+> Lo vives en [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw). 🥵 [pic.twitter.com/R37ViZmI5Q](https://t.co/R37ViZmI5Q)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840109858244219002?ref_src=twsrc%5Etfw)
+
+Una cátedra de Independiente del Valle
+--------------------------------------
+
+El gol de Independiente del Valle a los 52 minutos fue clave para retomar la ventaja.
+
+Fue una anotación espectacular producto de un juego colectivo. Se realizaron cinco pases entre cuatro jugadores, culminando en gol de **Patrick Mercado** tras una asistencia de Kenny Arroyo.
+
+> Tiki taka 😮‍💨  
+>   
+> Patrick Mercado y otro gran gol para [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw). Lo ganan 3-2.[#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) 🤝🏻 [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/AlKdZaltWw](https://t.co/AlKdZaltWw)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840118620325552414?ref_src=twsrc%5Etfw)
+
+Para sentenciar el partido, los ‘Rayados’ marcaron otro golazo tras otra excelente serie de pases. Esta vez, **Kenny Arroyo**, en lugar de asistir, fue el encargado de anotar el cuarto tanto y asegurar la victoria de Independiente.
+
+> Ya es un festival 🥳  
+>   
+> Keny Arroyo llegó y definió para prácticamente sentenciar el duelo en el estadio Banco Guayaquil.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) 🫡 [pic.twitter.com/RERGUXQAQX](https://t.co/RERGUXQAQX)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 28, 2024](https://twitter.com/zapping_ecu/status/1840119824015343814?ref_src=twsrc%5Etfw)
+
+En el ocaso del partido, **Michael Hoyos** puso la guinda del pastel y anotó el quinto y último gol del partido.
+
+Los precios de los alimentos subieron en los mercados
+=====================================================
+
+En Cuenca se registró una reducción en la oferta de hortalizas y frutas debido a la sequía prolongada. Los compradores reclaman.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los vendedores en Cuenca indicaron que tienen problemas por la falta de agua para el riego de sus cultivos. EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/mercados-cuenca.jpg)
+
+El aumento de **precios** es constante en los mercados de **Ecuador**. La razón principal es la severa **sequía** se registra, que afecta a los **sistemas de riego** o a la **pérdida de los cultivos.**
+
+Esos fueron los argumentos que dieron los vendedores de la **Feria Agroecológica** que se realiza los sábados y domingos, en el norte de **Cuenca** y es organizada por el Gobierno Provincial de Azuay.
+
+El reclamos de los compradores fue una constante, al igual que el malestar de los vendedores, quienes repetían a cada rato la explicación para la subida de los precios.
+
+Una situación similar ocurrió en **Quito**. La falta de **lluvias** en **Ecuador** también es uno de los argumentos que dan comerciantes ante el incremento del precio de algunos productos. Ese es el caso de las papas. 
+
+Una vendedora tradicional del **barrio Las Casas**, quien ofrece tortillas con caucara, se lamentó por el alza, pues, aunque sin querer dar cifras, dijo, la ganancia es cada vez menor.
+
+El incremento de los precios
+----------------------------
+
+La compradora cuencana, Blanca Molina, indicó que hay vendedores que no salido con su productos, sobre todo, en legumbres y verduras. “Hay escazes de **toronjil, manzanilla, frutillas**… porque no hay agua el riego”.
+
+Según ella, incluso, hay vendedores que tuvieron que traer **manzanas** o **duraznos** desde el **Perú**.
+
+Algunos ejemplos de los incrementos. En **Cuenca**, el precio de la **libra de uva verde** pasó de 2,5 a 3,25 dólares. Un **aguacate** costaba de 50 centavos y este sábado 28 de septiembre de 2024 se consigue a 75 centavos o un dólar. 
+
+La semana anterior se compraba tres **manzanas verdes** por un dólar y ahora cada una vale 50 centavos, dijo la cuencana Anita Padilla. “Las **naranjas** se vendían a siete un dólar y ahora cuatro un dólar y los **huevos criollos** subieron de 25 a 35 centavos”. 
+
+La afectación a la economía
+---------------------------
+
+Según el **analista económico, Rodrigo Mendiet**a, la sequía, que provoca los cortes de luz, representa una afectación directa a la economía nacional y de las familias.
+
+En marzo y abril de 2024 se contabilizaron pérdidas entre 7 millones y 11 millones por hora, dice Mendieta. Y ahora se repite la situación.
+
+Mendienta señala que el alza actual de los alimentos **no se debe a una especulación** sino más bien a la **caída por la oferta**. 
+
 Películas de salud mental que puedes ver en Netflix
 ===================================================
 
@@ -332,6 +840,10 @@ El presidente **Daniel Noboa** emitió un nuevo decreto. En esta ocasión, la di
 
 El **Mandatario** determinó el documento, relacionado con una decisión del expresidente **Guillermo Lasso**, este viernes, 27 de septiembre de 2024.
 
+La tarde de este sábado 28 de septiembre de 2024, el presidente **Noboa** se refirió al tema en su cuenta de X. Dijo que “los invito a buscar una propuesta tan buena para la venta que los ecuatorianos no podamos rechazar. Mientras tanto, nosotros no vamos a permitir subastas chimbas como en administraciones pasadas”.
+
+Agregó que es un **Presidente** de territorio “(quizás por muchos años no vieron eso), y en un conflicto armado interno voy a estar en el lugar donde el país lo necesite”.
+
 ### Más noticias
 
 * [Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-inscripcion-binomio-presidencial-adn-elecciones-2025.html)
@@ -626,453 +1138,3 @@ Su hoja de vida
 * Rodrigo Gómez de la Torre tiene una Licenciatura en Ciencias Aplicadas de la USFQ. Es ganadero y experto en temas agropecuarios, económicos y políticos.
 * Fue titular de la [Cámara de Agricultura de la Primera Zona](https://www.facebook.com/caizec/?locale=es_LA) 
 * También presidió el [Consejo de Cámaras y Asociaciones de la Producción](https://www.facebook.com/consejocamaras/?locale=es_LA).
-
-En Venezuela hay 1 867 presos por ‘motivos políticos’, según la ONG Foro Penal
-==============================================================================
-
-Desde 2014, el Foro Penal ha registrado 17 577 "detenciones políticas".
------------------------------------------------------------------------
-
-![Fotografía de archivo en donde se observan carteles con imágenes de presos políticos en Venezuela. EFE/ Ronald Peña R.](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe21c76049a5b79efb3c8026790b2e4a95c6f87546w.jpg)
-
-En Venezuela hay **1 867 personas detenidas** por **“motivos políticos”**, según los datos difundidos este jueves por la **organización no gubernamental Foro Penal**, una cifra que -reiteró- representa “el mayor número” de este tipo de encarcelados que ha registrado el país en el siglo XXI.
-
-### Más noticias
-
-* [Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-ordena-captura-nicolas-maduro-diosdado-cabello.html "Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello")
-* [Nicolás Maduro prohíbe regalos electrónicos en Navidad](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-pide-venezolanos-aceptar-equipos-electronicos-como-regalos-navidenos.html "Nicolás Maduro prohíbe regalos electrónicos en Navidad")
-* [Justicia de Argentina ordena la captura internacional de Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-captuar-nicolas-maduro.html "Justicia de Argentina ordena la captura internacional de Nicolás Maduro")
-
-A través de X, la organización detalló que, del total de detenidos, 1 637 son hombres y 230 mujeres, entre los que hay **1 799 adultos y 68 adolescentes** entre 14 y 17 años.
-
-La ONG detalló que, del total de las aprehensiones, **1 723 se hicieron tras las presidenciales** del 28 de julio, cuando se desató una crisis por la **denuncia de “fraude”** de la mayor coalición opositora, la Plataforma Unitaria Democrática (PUD), que afirma que su abanderado, Edmundo González, es el presidente electo, contrario al resultado oficial, que dio la reelección a Nicolás Maduro.
-
-La **crisis poselectoral** desató protestas que dejaron, según el Ejecutivo, 25 muertes y más de 2 400 detenidos, una cifra que supera considerablemente la de Foro Penal.
-
-La ONG explicó recientemente que sus **cifras son distintas a las anunciadas** por las autoridades porque desde la organización solo contabilizan detenciones que califiquen como “arbitrarias”, cuando -afirmó- “no hay elementos de culpabilidad” sobre la persona apresada.
-
-El Gobierno responsabiliza a los manifestantes -a quienes vincula con la PUD- de **generar “violencia”** y “vandalismo” en **varias sedes públicas**, mientras que el bloque antichavista acusa de “represión” a los agentes de seguridad del Estado en las protestas.
-
-Desde 2014, el Foro Penal ha registrado 17 577 “detenciones políticas”, de los cuales 14 000, hoy excarcelados, fueron asistidos “gratuitamente” por Foro Penal.
-
-Moisés Caicedo se impone a Pervis Estupiñán en un partidazo de infarto
-======================================================================
-
-La Premier League brindó un partidazo, como de costumbre, con la presencia de dos ecuatorianos.
------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo (d) disputando el balón con Pervis Estupiñán en el partido entre Chelsea y Brigthon por la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-28T104108.777.jpg)
-
-¡Las benditas mañanas de la Premier League! En un partidazo lleno de goles, errores y aciertos, el Chelsea de **Moisés Caicedo** se impuso 4-2 al Brighton & Hove Albion de **Pervis Estupiñán**, este sábado 28 de septiembre.
-
-Solo en el primer tiempo se marcaron seis goles entre ambos equipos, y **Cole Palmer** fue, sin duda, la gran figura, anotando un póker de goles, varios de ellos verdaderos golazos.
-
-### Más noticias:
-
-* [Moisés Caicedo y Pervis Estupiñán se enfrentan en Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-pervis-estupinan-premier.html "Moisés Caicedo y Pervis Estupiñán se enfrentan en Inglaterra")
-* [Moisés Caicedo recibe la ‘bendición’ de Obi Mikel](https://www.elcomercio.com/deportes/futbol/moises-caicedo-obi-mikel-rendimiento.html "Moisés Caicedo recibe la ‘bendición’ de Obi Mikel")
-* [Pervis Estupiñán recupera la titularidad en Brighton](https://www.elcomercio.com/deportes/pervis-estupinan-brighton-titularidad-recuperacion.html "Pervis Estupiñán recupera la titularidad en Brighton")
-
-Por el lado de los ecuatorianos, tanto **Moisés Caicedo** como **Pervis Estupiñán** arrancaron como titulares. Sin embargo, ambos estuvieron lejos de sus mejores versiones, especialmente el lateral, quien sufrió mucho ante el potente ataque de los ‘Blues’.
-
-Lluvia de goles y festival de Cole Palmer
------------------------------------------
-
-**Brighton abrió el marcador los 6 minutos**, en una jugada en la que participó **Moisés Caicedo** tras un error de cálculos en la salida. También se equivocaron Levi Colwill, quien rechazó mal, y Robert Sánchez, que no salió bien al cierre. Curiosamente, los tres jugadores son ex-Brighton.
-
-> ¡CABEZAZO Y ADENTRO! Georginio Rutter convirtió el 1-0 ante Chelsea y quedó en el piso tras chocar con un compañero.  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/0UYTzdme1l](https://t.co/0UYTzdme1l)
-> 
-> — SportsCenter (@SC\_ESPN) [September 28, 2024](https://twitter.com/SC_ESPN/status/1840031866369311062?ref_src=twsrc%5Etfw)
-
-**Chelsea** comenzó desconectado, mientras que el Brighton continuó acechando el área rival y generando peligro.
-
-A los 20 minutos, Nico Jackson y **Cole Palmer** combinaron para igualar el marcador. El inglés recibió un pase de Jackson que lo dejó solo frente al arco, sin arquero para definir. El senegalés fue clave en este gol, ya que robó el balón cerca del área.
-
-> ¡LA TERCERA FUE LA VENCIDA! Después de un palo y un gol anulado, Palmer recibió la asistencia de Jackson y sentenció el 1 -1 ante Brighton.  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/VXr3K05r7S](https://t.co/VXr3K05r7S)
-> 
-> — SportsCenter (@SC\_ESPN) [September 28, 2024](https://twitter.com/SC_ESPN/status/1840034845839233231?ref_src=twsrc%5Etfw)
-
-Tras un gran inicio, el Brighton se desinfló y su línea adelantada empezó a pasar factura ante la velocidad de los jugadores del Chelsea.
-
-Sancho, muy peligroso por la banda izquierda, se juntó con **Enzo Fernández** y provocó un penal a los 26 minutos. Cole Palmer se encargó de la pena máxima y, cerca de la media hora, remontó el partido.
-
-**Pervis Estupiñán casi se gana la roja** por una falta sobre Noni Madueke a los 29 minutos. Aunque el ecuatoriano no fue expulsado, su infracción resultó en un golazo de Cole Palmer de tiro libre, quien consiguió su triplete.
-
-> ¡COMPLETAMENTE DESATADO! ¡QUÉ GOLAZO HICISTE COLE! ¡HAT-TRICK DE PALMER!  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/rfRDuhL0c8](https://t.co/rfRDuhL0c8)
-> 
-> — SportsCenter (@SC\_ESPN) [September 28, 2024](https://twitter.com/SC_ESPN/status/1840037064294711573?ref_src=twsrc%5Etfw)
-
-Un error en la salida del Chelsea a los 32 minutos permitió que el Brighton descontara. Nuevamente, Robert Sánchez cometió un mal pase que Moisés Caicedo perdió ante el delantero Carlos Baleba, quien aprovechó para descontar.
-
-Finalmente, **Cole Palmer**, en estado de gracia, logró su póker de anotaciones a los 40 minutos, nuevamente tras un error del Brighton.
-
-> ¿HAT-TRICK? ¡ESO ES POCO PARA COLE! ¡PÓKER DE PALMER ANTE BRIGHTON!  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/uCP4EtfRv8](https://t.co/uCP4EtfRv8)
-> 
-> — SportsCenter (@SC\_ESPN) [September 28, 2024](https://twitter.com/SC_ESPN/status/1840039674217209989?ref_src=twsrc%5Etfw)
-
-Se agotaron los goles del Chelsea
----------------------------------
-
-**Jackson** estuvo cerca de anotar al inicio de la segunda mitad, pero su disparo fue rechazado en la línea.
-
-**Palmer** tuvo en sus pies el quinto gol del partido, pero su derechazo se fue desviado.
-
-Nuevamente, **Jackson** encontró espacio ante la débil defensa del Brighton y se aproximó al área. Sin embargo, el remate del senegalés a los 66 minutos fue rechazado por **Lewis Dunk**, quien cerró de gran manera.
-
-Con el pasar de los minutos, **Enzo Maresca**, DT del Chelsea, decidió sacar a varios titulares de gran partido, como **Enzo Fernández** y **Nico Jackson**, para rotar la plantilla.
-
-Después de un primer tiempo lleno de goles, en el segundo, la efectividad de ambos equipos se redujo considerablemente.
-
-Cortes de luz en Quito interfieren en la movilidad
-==================================================
-
-Semáforos fuera de servicio por cortes de luz son parte de este sábado en Quito.
---------------------------------------------------------------------------------
-
-![Agentes de tránsito asignados a intersecciones con semáforos fuera de servicio por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/09/semaforos.jpg)
-
-Este sábado, 28 de septiembre de 2024, la movilidad en **Quito** tuvo cambios por los **cortes de luz** que se aplican por la crisis energética en Ecuador.
-
-El **Municipio** informó sobre las acciones para prevenir complicaciones por las intersecciones que no cuentan con semáforos activos.
-
-### Más noticias
-
-* [Lluvias podrían generar riesgos en zonas donde hubo incendios forestales](https://www.elcomercio.com/actualidad/ecuador/lluvias-riesgos-zonas-incendios-forestales.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
-* [Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-clases-horarios-semana.html "Ministerio de Educación dispuso nuevos horarios de clases por cortes de luz")
-* [Estos son los cortes de luz del 30 septiembre al 6 de octubre](https://www.elcomercio.com/actualidad/ecuador/estos-son-cortes-luz-30-septiembre-6-octubre.html "Estos son los cortes de luz del 30 septiembre al 6 de octubre")
-
-> 🫡 [#Activados24Siete](https://twitter.com/hashtag/Activados24Siete?src=hash&ref_src=twsrc%5Etfw) |  
->   
-> 🔌 Nuestros 👮🏾 agentes se encuentran en las intersecciones afectadas por la falta de semáforos, debido a la desconexión de energía eléctrica.🚦  
->   
-> 🚘 Conduce con precaución.  
-> ➡️ Respeta los límites de velocidad.  
->   
-> 🫶🏽 Al cooperar  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jzvGTGByaJ](https://t.co/jzvGTGByaJ)
-> 
-> — AMTQuito (@AMT\_Quito) [September 28, 2024](https://twitter.com/AMT_Quito/status/1840005951027335566?ref_src=twsrc%5Etfw)
-
-Cortes de luz y semáforos en Quito
-----------------------------------
-
-Debido a los cortes de luz en Quito, personal de la **Agencia Metropolitana de Tránsito (AMT)** se desplegó en intersecciones donde los semáforos no están operativos.
-
-A través de su cuenta de X, la institución indicó que los agentes se encontraban en sitios como la intersección de la **av. América y Mañosca**.
-
-Lo propio ocurrió en la **av. Maldonado**, en el sector de El Sena, así como en la Rodrigo de Chávez, en el sur de Quito.
-
-En Quito, hay más de **10 000 semáforos**, entre vehiculares, peatonales y de ciclistas, en unas 1029 intersecciones.
-
-Cortes de luz en Quito
-----------------------
-
-Para conocer los horarios de corte se puede acceder a un [enlace](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/). Además, se habilitó un correo para las dudas y quejas: **reporteshorarios@energiayminas.gob.ec.**
-
-En el caso de **Quito**, los cortes van con esta distribución.
-
-Tres binomios se inscribieron en el CNE para las elecciones 2025
-================================================================
-
-La inscripción para las elecciones 2025 está en curso. Ya hay binomios.
------------------------------------------------------------------------
-
-![La consulta electoral 2024 es el último proceso que vivió Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/elecciones-inscripcion.jpg)
-
-Las **elecciones 2025** en Ecuador contemplan el período de inscripción de las candidaturas. Este empezó el 13 de septiembre y se extenderá hasta el 2 de octubre de 2024[.](https://es.wikipedia.org/wiki/Ecuador)
-
-La mañana de este sábado, el **Consejo Nacional Electoral (CNE)** emitió un nuevo reporte de las listas que se registraron en el sistema del organismo.
-
-### Más noticias
-
-* [Daniel Noboa anuncia la inscripción del binomio presidencial de ADN para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-inscripcion-binomio-presidencial-adn-elecciones-2025.html)
-* [Inscripción para elecciones 2025 aún tiene baja participación](https://www.elcomercio.com/actualidad/politica/inscripcion-para-elecciones-2025-tiene-baja-participacion.html "Inscripción para elecciones 2025 aún tiene baja participación")
-* [Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025](https://www.elcomercio.com/actualidad/politica/funcionarios-daniel-noboa-dejan-cargos-elecciones-2025.html "Funcionarios de Daniel Noboa dejan cargos rumbo a las elecciones 2025")
-
-Elecciones 2025 y las inscripciones
------------------------------------
-
-Aunque el plazo para las inscripciones de las candidaturas se acorta, aún la participación es baja. En el último corte del CNE, hasta las 09:15, 86 de las 584 listas proclamadas tras el proceso de primarias se inscribieron.
-
-Esas incluyen tres binomios presidenciales, así como una lista para asambleístas nacionales. Se suman tres para parlamentarios andinos, seis para legisladores en el exterior y **73 para provinciales** y por circunscripción.
-
-> 🇪🇨 | [#CNEInforma](https://twitter.com/hashtag/CNEInforma?src=hash&ref_src=twsrc%5Etfw) que, con corte a las 09h15 de este sábado 28 de septiembre, 8️⃣6️⃣ listas han solicitado la [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 💻 Este hito del calendario electoral, se efectúa en línea y concluye a las 18h00 del 2 de octubre.🗳️ [pic.twitter.com/lPWSLfZKWX](https://t.co/lPWSLfZKWX)
-> 
-> — cnegobec (@cnegobec) [September 28, 2024](https://twitter.com/cnegobec/status/1840040078321582321?ref_src=twsrc%5Etfw)
-
-Los binomios y sus integrantes
-------------------------------
-
-En el proceso de primarias, que se realizaron en agosto de 2024, se definieron 17 binomios y tras la alianza de la **Revolución Ciudadana y Reto**, quedaron 16.
-
-El primer binomio en apuntarse en el **CNE** fue el de Creo, integrado por **Francesco Tabacchi** y Blanca Sacancela.
-
-Les siguió el de Centro Democrático, con **Jimmy Jairala** y Lucía Vallecilla. De igual forma, Acción Democrática Nacional (ADN), con **Daniel Noboa** y María José Pinto.
-
-Desde el **CNE** informaron que está previsto que el binomio de la Revolución Ciudadana, liderado por Luisa González, acuda este sábado, a las 15:00, a las instalaciones de la institución, en Quito.
-
-El proceso de inscripción es netamente en línea a través del sistema del **CNE**. Los postulantes pueden ir a las instalaciones del organismo electoral. Pero, más allá de un acto simbólico, no deben realizar ningún trámite presencial.
-
-Las **candidaturas** en firme, tras el proceso de impugnación, se conocerán el 30 de diciembre.
-
-Normativa para las candidaturas
--------------------------------
-
-En la convocatoria a elecciones lanzada por el **CNE** se establece que las candidaturas para la Presidencia y sus binomios se consideran unipersonales. 
-
-Para asambleístas nacionales, provinciales y de las circunscripciones especiales del exterior son pluripersonales y se presentarán en listas completas con **candidatos principales** y sus respectivos suplentes.
-
-En el caso de parlamentarios andinos, las candidaturas son pluripersonales y se presentarán en listas completas, por cada candidato principal se presentarán dos **suplentes**. 
-
-Las listas se conformarán obligatoriamente cumpliendo con los principios de **equidad, paridad, alternancia y secuencialidad** entre mujeres y hombres, tanto para principales como para suplentes.
-
-Las dignidades que se elegirán
-------------------------------
-
-En las **elecciones 2025**, los ecuatorianos definirán, además de los titulares de la Presidencia, Vicepresidencia, cinco parlamentarios andinos y **151 asambleístas**.
-
-Un total de **13 736 314 electores** podrán ejercer su derecho al sufragio el 9 de febrero de 2025, además de los procesos previos de voto en casa y de privados de la libertad.
-
-De ese número, **13 279 827** se encuentran en territorio nacional y 456 487 en el exterior.
-
-Los cambios de domicilio que se hayan realizado en una fecha posterior al 11 de mayo de 2024 se aplicarán para las próximas elecciones.
-
-El CNE informó que la ciudadanía puede consultar si consta en el **Registro Electoral** ingresando en la página web institucional: www.cne.gob.ec.
-
-¿Por qué aún no llueve en Cuenca, pese a los pronósticos?
-=========================================================
-
-La tarde de este sábado 28 de septiembre de 2024 se esperan precipitaciones. Los cuatro ríos borden los niveles de estiaje.
----------------------------------------------------------------------------------------------------------------------------
-
-![El caudal del río Tomebamba es de 1,30 metros cúbicos por segundo este sábado 28 de septiembre de 2024. Giovanny Astudillo/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/09/Tomebamba.jpg)
-
-En **Cuenca** no se registraron lluvias como sí ocurrió este viernes 29 de septiembre de 2024 en otras regiones de **Ecuador**.
-
-La **sequía hidrológica** en el Austro cumplió 78 días, este sábado 28 de septiembre de 2024.
-
-Los caudales de los ríos **Tomebamba, Yanuncay, Machángara y Tarqu**i están niveles bajos y en estiaje este último, según la información de la **Red Hidrometereológica** de la empresa **Etapa de Cuenca.**
-
-Esta red y el **Instituto Nacional de Meteorológica y Hidrología (Inamhi**) pronosticaron lluvias desde la tarde del viernes 27 de septiembre de 2024, pero hasta el momento no se cumplieron.
-
-La noche del viernes -por unos instantes- cayeron gotas en el centro de Cuenca, pero no en otros sectores de la ciudad.
-
-### Más noticias
-
-* [Lluvias podrían generar riesgos en zonas donde hubo incendios forestales](https://www.elcomercio.com/actualidad/ecuador/lluvias-riesgos-zonas-incendios-forestales.html "Lluvias podrían generar riesgos en zonas donde hubo incendios forestales")
-* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
-* [Tránsito vehicular congestionado en Quito por semáforos apagados y lluvias](https://www.elcomercio.com/actualidad/quito/transito-vehicular-colapsa-quito-semaforos-apagados.html "Tránsito vehicular congestionado en Quito por semáforos apagados y lluvias")
-
-El estado de los ríos de Cuenca
--------------------------------
-
-El **Tomebamba** tiene un caudal de 1,30 metros cúbicos por segundo. Niveles similares tienen el **Machángara** con 1,28 y el **Yanuncay** con 1,37. En cambio, el **Tarqui** apenas tiene un caudal de 0,61.
-
-Los datos fueron publicados este sábado 28 de septiembre de 2024.
-
-La **Red Hidrometereológica de Cuenca** pronostica que lluvias para la tarde de este sábado 28 de septiembre y durante la noche.
-
-Según el coordinador de la Red, **Rigoberto Guerrero**, debido a las condiciones que se presentan en la región solo hubo goteos.
-
-“Si bien las nubes estuvieron saturadas, pero hubo fuertes corrientes de viento y altas temperaturas. Eso impidió que se cayeron gotas de lluvias”, dijo **Guerrero**. 
-
-El jueves 26 de septiembre de 2024, las probabilidades de precipitaciones casi llegaban al 100% para el viernes, pero disminuyeron conforme avanzó ese día debido a estas condiciones climáticas.
-
-Altas temperaturas en Cuenca
-----------------------------
-
-Según Guerrero, para este sábado 28 de septiembre la probabilidad también bajó del 100% al 77%. “Esperemos que no siga disminuyendo”.
-
-El último trimestre del año es el más caliente en el Austro. En el 2023 se llegó hasta los 29 grados centígrados y el jueves 26 de septiembre de 2024 ya se alcanzaron los 27 grados.
-
-**Guerrero** indica que para **octubre** se espera que las **temperaturas sean mayores** en **Cuenca**. “Eso reducirá las probabilidades de lluvias”.
-
-Leonardo Campana con opciones de estar en la Selección de Ecuador
-=================================================================
-
-Leonardo Campana está atravesando un gran momento en Estados Unidos, lo que lo acerca a una nueva convocatoria con la selección nacional.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana está cerca de regresar a la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-28T093115.964.jpg)
-
-La **Selección de Ecuador** sufrió una notable falta de delanteros en su última convocatoria para las eliminatorias sudamericanas, contando solo con un jugador de oficio en esa posición. Para la próxima fecha FIFA, uno de los nombres que surge como opción es el de Leonardo Campana.
-
-El delantero, formado en Barcelona SC, se **convirtió** recientemente en el **goleador histórico del Inter Miami,** equipo de la Major League Soccer (MLS) de Estados Unidos, donde comparte vestuario con figuras de talla mundial como **Lionel Messi**, Luis Suárez y Sergio Busquets.
-
-### Más noticias:
-
-* [Leonardo Campana cerca de regresar a la Selección de Ecuador](https://www.elcomercio.com/deportes/eliminatorias/leonardo-camapana-sebastian-beccacece-llamada.html "Leonardo Campana cerca de regresar a la Selección de Ecuador")
-* [Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord](https://www.elcomercio.com/deportes/gol-leonardo-campana-inter-miami-new-york.html "Leonardo Campana vuelve a anotar con Inter de Miami y acrecenta su récord")
-* [Leonardo Campana fue convocado a la Billboard Latin Music Week](https://www.elcomercio.com/deportes/futbol/leonardo-campana-fue-convocado-a-la-billboard-latin-music-week.html "Leonardo Campana fue convocado a la Billboard Latin Music Week")
-
-Campana superó el récord del argentino Gonzalo Higuaín al alcanzar los 31 goles con el Inter Miami, mientras que Higuaín tenía 30. Los **dos goles más recientes de Campana**, logrados en los últimos encuentros, demuestran que se encuentra en un gran momento, justo cuando la selección ecuatoriana necesita alternativas en la delantera.
-
-Leonardo Campana bloqueado por Ecuador
---------------------------------------
-
-Según varios reportes de la prensa ecuatoriana, principalmente de periodistas de Guayaquil, se ha confirmado que la **Federación Ecuatoriana de Fútbol** (FEF) ha bloqueado a Leonardo Campana para una posible convocatoria en las próximas fechas FIFA.
-
-Su regreso a la ‘Tri’ podría concretarse para los partidos de octubre, donde Ecuador se enfrentará a Paraguay y Uruguay en las **eliminatorias mundialistas.**
-
-Recientemente, el propio Campana confirmó que mantuvo una conversación con el seleccionador de Ecuador, **Sebastián** **Beccacece**: “Hace poco tuve una charla con el profesor Beccacece. Me hizo sentir muy feliz, motivado e ilusionado por todo lo que se viene”, comentó el delantero.
-
-El recorrido de Campana con la ‘Tri’
-------------------------------------
-
-Leonardo Campana, de 24 años, ha tenido una relación intermitente con la selección ecuatoriana.
-
-A lo largo de **15 partidos con la ‘Tri’**, no ha logrado marcar goles. Su última convocatoria fue en noviembre de 2023, cuando Ecuador enfrentó a Venezuela y Chile en las eliminatorias al Mundial. En esos encuentros, Campana ingresó desde el banco de suplentes, sumando un total de 27 minutos.
-
-Lluvias podrían generar riesgos en zonas donde hubo incendios forestales
-========================================================================
-
-Este fin de semana se prevé que haya precipitaciones en varios puntos de Ecuador.
----------------------------------------------------------------------------------
-
-![Norte de Quito en este sábado, 28 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/lluvias-2.jpg)
-
-Las condiciones del tiempo en **Quito** y la zona de las **hidroeléctricas** cambian para este fin de semana del 28 y 29 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Quito)[](https://es.wikipedia.org/wiki/Quito)
-
-Esa variación será respecto de los últimos días, cuando se registraron **incendios forestales** en la capital y cortes de luz a escala nacional.
-
-### Más noticias
-
-* [Bomberos de Quito declaran liquidados los incendios en la capital](https://www.elcomercio.com/actualidad/quito/incendios-quito-liquidados-bomberos.html)
-* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
-* [Fuertes lluvias con tormentas eléctricas en Quito, la tarde de este viernes](https://www.elcomercio.com/actualidad/quito/fuertes-lluvias-tormentas-quito-viernes.html "Fuertes lluvias con tormentas eléctricas en Quito, la tarde de este viernes")
-
-Clima en Quito y zona de hidroeléctricas
-----------------------------------------
-
-La tarde y noche de este viernes, 27 de septiembre, en **Quito** ya se registraron lluvias y tormentas eléctricas. En el sur de la capital ya hubo precipitaciones el jueves, luego de semanas de días secos.
-
-**Javier Macas**, analista de pronóstico del **Instituto Nacional de Meteorología e Hidrología (Inamhi)**, detalló que para este fin de semana, en Quito, se esperan precipitaciones.
-
-Para este sábado, la mayor intensidad se espera para la zona de cordillera, el sur y los valles. Para el domingo, en cambio, se prevé un día nublado y podría haber **lluvias en la mañana**. En la tarde podría disiparse un poco.
-
-Para el lunes, por otro lado, podría haber un poco más de **calentamiento** y lluvias para la tarde.
-
-> [#PronosticoPichinchaEC](https://twitter.com/hashtag/PronosticoPichinchaEC?src=hash&ref_src=twsrc%5Etfw) l Sábado, 28 de septiembre: Cielo mayormente nublado, lluvias de variable intensidad, tormentas aisladas. Radiación [#UV](https://twitter.com/hashtag/UV?src=hash&ref_src=twsrc%5Etfw) entre Moderada y ocasional Alta.  
->   
-> Advertencia 51 ACTIVA🌧️: [https://t.co/oPcbEgg5CI](https://t.co/oPcbEgg5CI)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [pic.twitter.com/EiX3vQ4EC3](https://t.co/EiX3vQ4EC3)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 28, 2024](https://twitter.com/inamhi_ec/status/1840022870233153562?ref_src=twsrc%5Etfw)
-
-Riesgos en zonas de incendios
------------------------------
-
-Las lluvias llegan con un riesgo en las zonas donde ocurrieron incendios forestales. Macas explicó que se contempla el peligro de la denominada escorrentía.
-
-Se refiere a que el agua **discurre por la superficie de un terreno** y, ya sin capa vegetal, podría haber movimientos de tierra. No obstante, la lluvia enfriará estas zonas, disminuyendo la posibilidad de nuevos focos.
-
-> [#PronosticoNacionalEc](https://twitter.com/hashtag/PronosticoNacionalEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del tiempo en varias localidades del país, para el sábado 28 de septiembre de 2024, se prevé lluvias de variable intensidad acompañadas de tormentas en la región Sierra y Oriental.  
-> ⚠️ Advertencia 51 ACTIVA: Lluvias y tormentas ⛈️ [pic.twitter.com/SdHttrXIVr](https://t.co/SdHttrXIVr)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [September 28, 2024](https://twitter.com/inamhi_ec/status/1839862330059825561?ref_src=twsrc%5Etfw)
-
-Zonas de las hidroeléctricas
-----------------------------
-
-El Técnico apuntó que en las zonas de las **hidroeléctricas** que abastecen de energía al país, los eventos de precipitaciones tienden a ser entre moderados y altos durante todo el fin de semana.
-
-La zona sur, en la zona de **Cañar** hacia abajo tienen la probabilidad más alta, incluso, con tormentas. Este panorama también contempla a la **Amazonía**.
-
-La dirigente sindical Rosa Argudo fue despedida del IESS
-========================================================
-
-Ella fue separada mediante la figura de despido intempestivo. La Contraloría y Fiscalía continúan con las investigaciones en su contra.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![El pasado 25 de junio de 2024, Rosa Argudo se presentó a la convocatoria realiza por los cinco asambleístas de Azuay. Fue en la Casa de la Asamblea en Cuenca. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/09/Rosa-Argudo.jpg)
-
-El **Instituto Ecuatoriano de Seguridad Social** ratificó la salida de la dirigente sindical, **Rosa Argudo**. Su cargo era auxiliar de esterilización en el Hospital de Especialidades **José Carrasco Arteaga**, en Cuenca. 
-
-Según el comunicado del **IESS**, “la medida se dio amparada en el marco de la ley y los valores correspondientes por indemnización serán acreditados dentro del plazo establecido legalmente”.
-
-El IESS dio por terminada la relación laboral mediante la figura de **despido intempestivo**.
-
-### Más noticias
-
-* [Hombre con muerte cerebral fue casado por lo civil en hospital del IESS](https://www.elcomercio.com/actualidad/ecuador/hombre-muerte-cerebral-casado-civil-iess.html "Hombre con muerte cerebral fue casado por lo civil en hospital del IESS")
-* [El Biess invierte en bonos de profesores jubilados](https://www.elcomercio.com/actualidad/el-biess-invierte-en-bonos-de-profesores-jubilados.html "El Biess invierte en bonos de profesores jubilados")
-
-¿Quién es Rosa Argudo?
-----------------------
-
-Su carrera en el **IESS** duró más de 36 años. Argudo fue la dirigente del **Sindicato Único de Obreros del Instituto Ecuatoriano de Seguridad Social (IESS).** 
-
-Ocupó ese cargo sindical por cinco periodos consecutivos y representó a cerca de 30 000 trabajadores en **Ecuador**. 
-
-Ellas fue convocada por la **Asamblea Nacional** para responder a preguntas sobre el manejo financiero del sindicato. Además, sobre las **relaciones contractuales de sus familiares** con el IESS. 
-
-Las denuncias en contra de Rosa Argudo
---------------------------------------
-
-Entre las acusaciones se destacan la contratación de familiares, irregularidades en contratos, y cuestionamiento a su patrimonio. En 23 de julio del 2024, en una entrevista del programa Primera Plana, **Argudo** reconoció que sus tres hijos laboran en el Instituto. No especificó en qué áreas y desde cuándo.
-
-En su intervención detalló que su nuera odontóloga entró tras una convocatoria del Seguro Social Campesino y actualmente cuenta con un contrato.
-
-La dirigente negó que otros parientes estén laborando en la institución.
-
-El asambleísta azuayo, **Adrián Castro**, dijo que la Fiscalía y la Contraloría avanzan con las investigaciones de estas denuncias.
-
-A mediados de 2024, los **asambleístas del Azuay** solicitaron a la Contraloría que se abra un examen especial a las declaraciones juramentadas de Argudo y del resto de dirigentes sindicales.
-
-En ese entonces, el **asambleísta, Leonardo Berrezueta**, cuestionó cómo una auxiliar de enfermería que gana 1 295 dólares puede tener un patrimonio tan ostentoso y que no ha justificado.
-
-De acuerdo con la declaración pública registrada en la **Contraloría**, su cargo es de A**uxiliar de Esterilización**. Su patrimonio suma 746 662 dólares. Este monto es significativamente mayor al declarado en 2020, que fue de 454 598 dólares.
-
-¿Quién juega hoy en la Liga Pro?
-================================
-
-Este sábado 28 de septiembre de 2024 se llevarán a cabo tres partidos de la Liga Pro con El Nacional y Emelec como protagonistas.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Emelec y El Nacional protagonizan los partidos de la jornada 8 de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/20240818121933-fbl-ligapro-emelec-nacional-1024x804-1.jpg)
-
-La octava fecha de la segunda etapa de la Liga Pro ya se inició y dejó como primer resultado a la victoria de **Orense ante Macará**. Los compromisos continuarán en este sábado 28 de septiembre del 2024 y contarán con grandes clubes del balompié ecuatoriano.
-
-El cotejo entre machaleños y ambateños inauguró la fecha y finalizó con un marcador favorable de 1-0 para los primeros. Aquello puso a **Orense** en la segunda posición e igual a **Liga de Quito**, líder de la etapa, en puntos.
-
-### Más noticias:
-
-* [Orense presiona a Liga de Quito en la Liga Pro](https://www.elcomercio.com/deportes/orense-macara-liga-quito-liga-pro.html "Orense presiona a Liga de Quito en la Liga Pro")
-* [Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-barcelona-sc-los-reyes-de-las-multas-de-la-liga-pro.html "Liga de Quito y Barcelona SC, los reyes de las multas de la Liga Pro")
-* [Horarios reprogramados para la fecha 8 de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-pro-fecha8-horarios-reprogramados.html "Horarios reprogramados para la fecha 8 de la Liga Pro")
-
-La derrota del plantel celeste, a su vez, lo mantuvo en la sexta posición. Pese al resultado, los puestos de **Orense y Macará** no son definitivos y están sujetos a lo que suceda con los demás clubes durante la jornada[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador")
-
-Los **partidos de este 28 de septiembre**, al igual que los demás de la jornada, están programados entre la mañana y tarde. Los cortes de luz en Ecuador obligaron a la Liga Pro a realizar una reprogramación y que el último cotejo sea agendado, como máximo, a las 17:00.
-
-La jornada la inaugurará **El Nacional**, que se ubica en la octava posición de la segunda etapa, frente a Imbabura, en el duodécimo puesto. A ello le seguirá el cotejo entre Independiente del Valle y Universidad Católica, en el cuarto y quinto puesto, y el de Cumbayá y Emelec, en la última y la decimotercera posición.
-
-Partidos de la Liga Pro para el 28 de septiembre
-------------------------------------------------
-
-**Partido**: El Nacional vs. Imbabura.
-
-**Hora**: 11:00.
-
-**Estadio**: Olímpico de Ibarra.
-
-**Partido**: Independiente del Valle vs. Universidad Católica.
-
-**Hora**: 13:30.
-
-**Estadio**: Independiente del Valle.
-
-**Partido**: Cumbayá vs. Emelec.
-
-**Hora**: 16:00.
-
-**Estadio**: Olímpico Atahualpa.
