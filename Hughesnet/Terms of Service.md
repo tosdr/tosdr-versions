@@ -7,6 +7,9 @@
 Legal
 -----
 
+Legal Node
+==========
+
 Policies
 --------
 
