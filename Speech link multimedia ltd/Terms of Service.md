@@ -115,9 +115,9 @@ Speech & Language Link
 We help schools to support children with speech, language and communication needs (SLCN). We do this by providing evidence based interventions, standardised screening assessments and training in the use of these tools. Everything we offer is designed by our speech and language therapy team and backed up by our specialist help desk.  
 We work with individual schools, MATs, Local Authorities and NHS Speech and Language Therapy teams
 
-**![Teddy holding a help sign](/wp-content/uploads/2024/04/Teddy-with-help-sign-3.jpg)We are currently undertaking a [nationwide research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/) to standardise a measure of language on school entry. Would your school like to take part? (You can get Infant Language Link free for a year!)**
+**![](/wp-content/uploads/2024/07/Suffolk_CC_small_logo2.jpg)Suffolk County Council are using Delivering Better Value (DBV) funding to support their schools’ use of Speech & Language Link.**
 
-[Find out more about our research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/)
+[Find out more about the Suffolk DBV project](https://speechandlanguage.info/news/suffolk-speech-language-link/)
 
 [](https://speechandlanguage.info/whole-school-approach/)
 
@@ -147,11 +147,11 @@ Our speech and language courses will give your staff the skills they need to imp
 
 [Read more](https://speechandlanguage.info/whole-school-approach/secondary-language-link/)
 
-### In the news
+### New Podcasts Coming Soon
 
-Suffolk Delivering Better Value (DBV) funding for Speech & Language Link. Suffolk County Council has been awarded a DfE grant to run a school-based intervention programme...
+Our new "Talk-Aways" podcast series is launching soon. Featuring our therapists Juliet and Alison they're all about using day to day classroom activities to support language development. Be the first to hear about new episodes and get priority access as a member of The Link Community
 
-[Find out more](https://speechandlanguage.info/news/suffolk-speech-language-link/)
+[Join The Link Community today](https://speechandlanguage.info/the-link-community/)
 
 [](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
 
@@ -165,9 +165,7 @@ Join us for our next online speech and language event to listen to engaging expe
 
 ### [Exciting research opportunity](https://speechandlanguage.info/research-opportunities-for-schools/)
 
-We are recruiting schools and nurseries to join our latest national trials. If your school or setting would like to take part we'd love to work with you.  
-  
-  
+We are currently undertaking a [nationwide research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/) to standardise a measure of language on school entry. If your school or setting would like to take part we would love to work with you. **(You can get Infant Language Link free for a year!)**
 
 ![corner image](https://speechandlanguage.link/wp-content/uploads/2024/05/Bens-party-500.png) [Find out more](https://speechandlanguage.info/research-opportunities-for-schools/)
 
