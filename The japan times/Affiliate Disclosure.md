@@ -201,18 +201,18 @@ Podcast
 Longform
 --------
 
-  [![A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/22/422295.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A woman passes an "akichi" (vacant lot) in Bunkyo Ward, Tokyo. The capital is littered with such small lots in part because of Japan's aging and shrinking population.")](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+  [![Wozme, founded by dancer and choreographer Wakaba Kohei, is composed of Kana Kitty, Ami Ishii, Akane Watanabe and Natsuki. Its aim is to inject elegance and beauty, traits traditionally associated with femininity, into the sometimes grotesque art form of butoh dance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/423690.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Wozme, founded by dancer and choreographer Wakaba Kohei, is composed of Kana Kitty, Ami Ishii, Akane Watanabe and Natsuki. Its aim is to inject elegance and beauty, traits traditionally associated with femininity, into the sometimes grotesque art form of butoh dance.")](https://www.japantimes.co.jp/culture/2024/09/29/stage/butoh-dance-wozme-japan/ "Wozme, an all-women dance troupe, wants to move the needle in butoh")
 
-[Dealing with rising land vacancies as Japan shrinks](https://www.japantimes.co.jp/news/2024/09/21/japan/society/empty-vacant-lots-japan-akichi/ "Dealing with rising land vacancies as Japan shrinks")
+[Wozme, an all-women dance troupe, wants to move the needle in butoh](https://www.japantimes.co.jp/culture/2024/09/29/stage/butoh-dance-wozme-japan/ "Wozme, an all-women dance troupe, wants to move the needle in butoh")
 
-By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zoria Petkoska")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,23 +254,15 @@ Latest News
 
 [As Hezbollah threat loomed, Israel built up its spy agencies](https://www.japantimes.co.jp/news/2024/09/29/world/israel-built-up-spy-agencies/ "As Hezbollah threat loomed, Israel built up its spy agencies")
 
-4 hours ago
+10 hours ago
 
 [Researchers in Japan look to art to mold the scientific process](https://www.japantimes.co.jp/news/2024/09/29/japan/science-health/sciart-scientific-process/ "Researchers in Japan look to art to mold the scientific process")
 
-7 hours ago
-
 [Ishiba calls for loose monetary policy amid fragile economic recovery](https://www.japantimes.co.jp/business/2024/09/29/economy/incoming-pm-ishiba-loose-monetary-policy/ "Ishiba calls for loose monetary policy amid fragile economic recovery")
-
-7 hours ago
 
 [Ishiba hints at general election in late October as he starts to form Cabinet](https://www.japantimes.co.jp/news/2024/09/29/japan/politics/ishiba-hints-general-election-october/ "Ishiba hints at general election in late October as he starts to form Cabinet")
 
-7 hours ago
-
 [SBI to end plant construction tie-up with Taiwan chipmaker](https://www.japantimes.co.jp/business/2024/09/29/tech/sbi-end-plant-construction-tie-up/ "SBI to end plant construction tie-up with Taiwan chipmaker")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
