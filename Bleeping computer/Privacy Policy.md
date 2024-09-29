@@ -36,6 +36,9 @@
         
         US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
     
+    * [![Critical flaw in NVIDIA Container Toolkit allows full host takeover](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Critical flaw in NVIDIA Container Toolkit allows full host takeover](https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/)
     * [![A three-year subscription to WindScribe VPN is now down to $79](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         A three-year subscription to WindScribe VPN is now down to $79](https://www.bleepingcomputer.com/offer/deals/a-three-year-subscription-to-windscribe-vpn-is-now-down-to-79/)
@@ -45,9 +48,6 @@
     * [![Pay once and never again in this Koofr lifetime 1TB cloud storage deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Pay once and never again in this Koofr lifetime 1TB cloud storage deal](https://www.bleepingcomputer.com/offer/deals/pay-once-and-never-again-in-this-koofr-lifetime-1tb-cloud-storage-deal/)
-    * [![Iranian hackers charged for ‘hack-and-leak’ plot to influence election](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
