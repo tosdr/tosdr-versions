@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/9/csm_Policial_que_prendeu_assassino_do_pai_25_anos_depois_teve_crise_de_choro_apos_prisao_-_foto_PC_b1a4c48009.jpeg)
-
-Boa Vista
-
-Boa Vista
-
-Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão
-
-Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://www.tnh1.com.br/noticia/nid/policial-que-prendeu-assassino-do-pai-25-anos-depois-teve-crise-de-choro-apos-prisao/ "Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão")[![Empresário morre após tiro acidental de espingarda na própria perna](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/c/csm_empresario_df_morte_tiro_acidental__1__6a8d31ee50.jpg)
+[![Empresário morre após tiro acidental de espingarda na própria perna](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/c/csm_empresario_df_morte_tiro_acidental__1__6a8d31ee50.jpg)
 
 NO DF
 
@@ -214,15 +206,15 @@ NO DF
 
 Empresário morre após tiro acidental de espingarda na própria perna
 
-Empresário morre após tiro acidental de espingarda na própria perna](https://www.tnh1.com.br/noticia/nid/empresario-morre-apos-tiro-acidental-de-espingarda-na-propria-perna/ "Empresário morre após tiro acidental de espingarda na própria perna")[![Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/a/csm_Mario_Marroquim__presidente_do_CRB_-_Foto_Reproducao_-_CRB_Cast_ca41e10dbd.jpg)
+Empresário morre após tiro acidental de espingarda na própria perna](https://www.tnh1.com.br/noticia/nid/empresario-morre-apos-tiro-acidental-de-espingarda-na-propria-perna/ "Empresário morre após tiro acidental de espingarda na própria perna")[![Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_Policial_que_prendeu_assassino_do_pai_25_anos_depois_teve_crise_de_choro_apos_prisao_-_foto_PC_b1a4c48009.jpeg)
 
-Série B
+Boa Vista
 
-Série B
+Boa Vista
 
-Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB
+Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão
 
-Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB](https://www.tnh1.com.br/noticia/nid/troca-de-comando-psicologico-premiacao-e-mais-veja-exclusiva-com-presidente-do-crb/ "Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ")[![Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_Secretaria_do_Trabalho_divulga_novas_741_vagas_de_emprego_para_diversas_areas_em_Maceio_e_no_interior_-_foto__Fotos_Mariel_Mathias__Fernanda_Fernandes_-_Ascom_SETEQ_eac6560d4e.jpg)
+Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão](https://www.tnh1.com.br/noticia/nid/policial-que-prendeu-assassino-do-pai-25-anos-depois-teve-crise-de-choro-apos-prisao/ "Policial que prendeu assassino do pai 25 anos depois teve crise de choro após prisão")[![Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/6/csm_Secretaria_do_Trabalho_divulga_novas_741_vagas_de_emprego_para_diversas_areas_em_Maceio_e_no_interior_-_foto__Fotos_Mariel_Mathias__Fernanda_Fernandes_-_Ascom_SETEQ_eac6560d4e.jpg)
 
 veja cargos
 
@@ -230,7 +222,15 @@ veja cargos
 
 Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior
 
-Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/sine-al-divulga-novas-741-vagas-de-emprego-para-areas-em-maceio-e-no-interior/ "Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior")
+Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/sine-al-divulga-novas-741-vagas-de-emprego-para-areas-em-maceio-e-no-interior/ "Sine-AL divulga novas 741 vagas de emprego para áreas em Maceió e no interior")[![Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/a/csm_Mario_Marroquim__presidente_do_CRB_-_Foto_Reproducao_-_CRB_Cast_ca41e10dbd.jpg)
+
+Série B
+
+Série B
+
+Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB
+
+Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB](https://www.tnh1.com.br/noticia/nid/troca-de-comando-psicologico-premiacao-e-mais-veja-exclusiva-com-presidente-do-crb/ "Troca de comando, psicológico, premiação e mais: veja exclusiva com presidente do CRB ")
 
 [![Marília Gabriela explica decisão de deixar de fazer sexo; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/5/csm_marilia-gabriela-jpeg-reproducao-redes-sociais_49bb35b774.jpg)
 
