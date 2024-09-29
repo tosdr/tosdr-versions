@@ -177,6 +177,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Silencer Saturday #348: Suppressing The Uzi](https://www.thegunpage.com/silencer-saturday-348-suppressing-the-uzi/10610876)
+* [Lauryl Akenhead Claims Ladies Title At 2024 International Precision Rifle Federation Centerfire World Championship](https://www.thegunpage.com/lauryl-akenhead-claims-ladies-title-at-2024-international-precision-rifle-federation-centerfire-world-championship/10610874)
 * [TFB Review: TYPE A M110 Restomod](https://www.thegunpage.com/tfb-review-type-a-m110-restomod/10610873)
 * [Routh’s Rifle… Pul-lease](https://www.thegunpage.com/rouths-rifle-pul-lease/10610871)
 * [TFB Review: Timney Glock Alpha Trigger](https://www.thegunpage.com/tfb-review-timney-glock-alpha-trigger/10610866)
@@ -185,8 +187,6 @@ Recent Posts
 * [TFB Review: MKE MP5 Style Retractable Buttstock](https://www.thegunpage.com/tfb-review-mke-mp5-style-retractable-buttstock/10610864)
 * [They’re Baaackkk: Slide Fire Relaunches](https://www.thegunpage.com/theyre-baaackkk-slide-fire-relaunches/10610860)
 * [Sig Sauer Introduces The Reserve Collection P226 XFive](https://www.thegunpage.com/sig-sauer-introduces-the-reserve-collection-p226-xfive/10610858)
-* [Licensed Troubleshooter: The Guns Of James Bond Smashes Pre-order Goal](https://www.thegunpage.com/licensed-troubleshooter-the-guns-of-james-bond-smashes-pre-order-goal/10610862)
-* [Long Term Review of Staccato P Pistol](https://www.thegunpage.com/long-term-review-of-staccato-p-pistol/10610861)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
