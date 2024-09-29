@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Professional Chef-Designed Camper Van Has a Space-Saving Interior With a Proper Kitchen](https://s1.cdn.autoevolution.com/images/news/professional-chef-designed-camper-van-has-a-space-saving-interior-with-a-proper-kitchen-240264-5.jpg "Professional Chef-Designed Camper Van Has a Space-Saving Interior With a Proper Kitchen")
+[![The Pink Bus Is a Fully Off-Grid Mobile Home With Twin Beds, Work Desk, and Huge Bathroom](https://s1.cdn.autoevolution.com/images/news/the-pink-bus-is-a-fully-off-grid-mobile-home-with-twin-beds-work-desk-and-huge-bathroom-240540-5.jpg "The Pink Bus Is a Fully Off-Grid Mobile Home With Twin Beds, Work Desk, and Huge Bathroom")
 
-Professional Chef-Designed Camper Van Has a Space-Saving Interior With a Proper Kitchen](https://www.autoevolution.com/news/professional-chef-designed-camper-van-has-a-space-saving-interior-with-a-proper-kitchen-240264.html)
+The Pink Bus Is a Fully Off-Grid Mobile Home With Twin Beds, Work Desk, and Huge Bathroom](https://www.autoevolution.com/news/the-pink-bus-is-a-fully-off-grid-mobile-home-with-twin-beds-work-desk-and-huge-bathroom-240540.html)
 
 how-to \_
 
