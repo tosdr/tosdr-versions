@@ -41,7 +41,7 @@ Menu
     * [United States](https://bucketlistjourney.net/category/north-america-travel/)
     * [South America](https://bucketlistjourney.net/category/south-america/)
     * [MY TOP 100](https://bucketlistjourney.net/ultimate-travel-bucket-list/)
-* [CALIFORNIA LOCAL](https://bucketlistjourney.net/category/california-travel/)
+* [CALIFORNIA](https://bucketlistjourney.net/category/california-travel/)
 * TIPS + TOOLS
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
     * [BUCKET LIST TIPS](https://bucketlistjourney.net/category/bucket-list-tips/)
@@ -72,7 +72,7 @@ Menu
     * [United States](https://bucketlistjourney.net/category/north-america-travel/)
     * [South America](https://bucketlistjourney.net/category/south-america/)
     * [MY TOP 100](https://bucketlistjourney.net/ultimate-travel-bucket-list/)
-* [CALIFORNIA LOCAL](https://bucketlistjourney.net/category/california-travel/)
+* [CALIFORNIA](https://bucketlistjourney.net/category/california-travel/)
 * TIPS + TOOLS
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
     * [BUCKET LIST TIPS](https://bucketlistjourney.net/category/bucket-list-tips/)
