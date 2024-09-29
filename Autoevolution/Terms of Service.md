@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![The Pink Bus Is a Fully Off-Grid Mobile Home With Twin Beds, Work Desk, and Huge Bathroom](https://s1.cdn.autoevolution.com/images/news/the-pink-bus-is-a-fully-off-grid-mobile-home-with-twin-beds-work-desk-and-huge-bathroom-240540-5.jpg "The Pink Bus Is a Fully Off-Grid Mobile Home With Twin Beds, Work Desk, and Huge Bathroom")
+[![Mesmerizingly Beautiful Camper Van Has an Earthy, Spanish Architecture-Inspired Design](https://s1.cdn.autoevolution.com/images/news/mesmerizingly-beautiful-camper-van-has-an-earthy-spanish-architecture-inspired-design-240501-5.jpg "Mesmerizingly Beautiful Camper Van Has an Earthy, Spanish Architecture-Inspired Design")
 
-The Pink Bus Is a Fully Off-Grid Mobile Home With Twin Beds, Work Desk, and Huge Bathroom](https://www.autoevolution.com/news/the-pink-bus-is-a-fully-off-grid-mobile-home-with-twin-beds-work-desk-and-huge-bathroom-240540.html)
+Mesmerizingly Beautiful Camper Van Has an Earthy, Spanish Architecture-Inspired Design](https://www.autoevolution.com/news/mesmerizingly-beautiful-camper-van-has-an-earthy-spanish-architecture-inspired-design-240501.html)
 
 how-to \_
 
