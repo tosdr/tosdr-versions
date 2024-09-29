@@ -29,17 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![lostcraftreborn](plugins/MineCraft/icons/25x25xlostcraftreborn_1724569205.png.pagespeed.ic.rCkY9AjMUQ.png)
+[Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-LostCraft Reborn](https://minecraft-server.net/details/lostcraftreborn/ "LostCraft Reborn")[![SkyKingdoms](plugins/MineCraft/icons/25x25xSkyKingdoms_1720407634.png.pagespeed.ic._J3-_Ygvrw.png)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-Survival Update! - Sky Kingdoms](https://minecraft-server.net/details/SkyKingdoms/ "Survival Update! - Sky Kingdoms")[![LapsNetwork](plugins/MineCraft/icons/25x25xLapsNetwork_1727040362.png.pagespeed.ic.oC2A8nHtDV.png)
+BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![Paintsplatters](plugins/MineCraft/icons/25x25xPaintsplatters_1684433908.png.pagespeed.ic.keSDhzMPFP.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
-
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")
+RealmportalMC](https://minecraft-server.net/details/Paintsplatters/ "RealmportalMC")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06617 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06229 - Created by [Debaucus](https://debauc.us/)
