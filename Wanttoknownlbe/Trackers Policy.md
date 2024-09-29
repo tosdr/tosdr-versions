@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/alex-jones-moet-kennelijk-kapot-gemaakt-worden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/het-is-nu-tijd/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
